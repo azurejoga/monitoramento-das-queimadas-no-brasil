@@ -1,0 +1,36 @@
+name: Atualizar README com Dados Diários de Queimadas
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # Executa todos os dias às 15:00 UTC (12:00 BRT)
+
+jobs:
+  atualizar-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Clonar o repositório
+      uses: actions/checkout@v2
+
+    - name: Configurar Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.11
+
+    - name: Instalar dependências
+      run: |
+        pip install requests pandas
+    
+    - name: Executar script de atualização
+      run: |
+        python queimadas.py
+
+    - name: Adicionar mudanças
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add README.md
+        git commit -m "Atualização automática dos dados diários de queimadas"
+        git push
+      env:
+        
