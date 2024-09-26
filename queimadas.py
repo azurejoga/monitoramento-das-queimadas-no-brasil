@@ -1,10 +1,9 @@
 import requests
 import pandas as pd
 from datetime import datetime
-import os
 
-# Caminho para o README.md
-CAMINHO_README = "README.md"
+# Caminho para os arquivos README e CSV
+CAMINHO_DADOS = "dados_diarios.csv"
 
 def construir_url_diaria():
     agora_utc = datetime.utcnow()
@@ -27,57 +26,79 @@ def baixar_e_processar_csv(url):
         return None
 
 def reestruturar_dados_diarios(df):
-    colunas_necessarias = ['id', 'lat', 'lon', 'data_hora_gmt', 'satelite', 'municipio', 'estado', 'pais',
-                           'municipio_id', 'estado_id', 'pais_id', 'numero_dias_sem_chuva', 'precipitacao',
-                           'risco_fogo', 'bioma', 'frp']
+    colunas_necessarias = ['id', 'lat', 'lon', 'data_hora_gmt', 'satelite', 'municipio', 
+                           'estado', 'pais', 'municipio_id', 'estado_id', 'pais_id', 
+                           'numero_dias_sem_chuva', 'precipitacao', 'risco_fogo', 
+                           'bioma', 'frp']
+    
     if not all(coluna in df.columns for coluna in colunas_necessarias):
         print("Colunas necessárias ausentes no CSV diário. Ignorando.")
-        print("Colunas disponíveis:", df.columns.tolist())
         return []
-    
+
     dados_estruturados = []
     for index, row in df.iterrows():
         linha_formatada = (
-            f"id: {row['id']}, "
-            f"lat: {row['lat']}, "
-            f"lon: {row['lon']}, "
-            f"data_hora_gmt: {row['data_hora_gmt']}, "
-            f"satelite: {row['satelite']}, "
-            f"municipio: {row['municipio']}, "
-            f"estado: {row['estado']}, "
-            f"pais: {row['pais']}, "
-            f"municipio_id: {row['municipio_id']}, "
-            f"estado_id: {row['estado_id']}, "
-            f"pais_id: {row['pais_id']}, "
-            f"numero_dias_sem_chuva: {row['numero_dias_sem_chuva']}, "
-            f"precipitacao: {row['precipitacao']}, "
-            f"risco_fogo: {row['risco_fogo']}, "
-            f"bioma: {row['bioma']}, "
-            f"frp: {row['frp']}"
+            f"| {row['id']} | {row['lat']} | {row['lon']} | {row['data_hora_gmt']} | "
+            f"{row['satelite']} | {row['municipio']} | {row['estado']} | "
+            f"{row['pais']} | {row['municipio_id']} | {row['estado_id']} | "
+            f"{row['pais_id']} | {row['numero_dias_sem_chuva']} | {row['precipitacao']} | "
+            f"{row['risco_fogo']} | {row['bioma']} | {row['frp']} |"
         )
         dados_estruturados.append(linha_formatada)
+
     return dados_estruturados
 
-def atualizar_readme(dados_diarios):
+def salvar_dados_csv(df):
+    df.to_csv(CAMINHO_DADOS, index=False)
+    print(f"Dados salvos em {CAMINHO_DADOS}.")
+
+def atualizar_readme(dados_diarios, numero_inicial, total_entradas):
     # Atualiza o README.md com os dados fornecidos
     conteudo = (
-        "# Monitoramento de Queimadas\n\n"
-        "## Importância das Queimadas na Amazônia\n\n"
-        "As queimadas na Amazônia são um problema ambiental crítico que impacta a biodiversidade, "
-        "o clima global e as comunidades locais. Estas queimadas podem resultar em perdas irreversíveis "
-        "na flora e fauna da região, além de contribuir para a emissão de gases de efeito estufa. "
-        "Este projeto visa monitorar e conscientizar sobre a situação das queimadas na Amazônia, "
-        "fornecendo dados atualizados e análises que ajudem na preservação desse bioma vital.\n\n"
-        "## Dados Diários\n\n"
-        "```\n"
+        "# Monitoramento de Queimadas na Amazônia\n\n"
+        "Este projeto tem como objetivo monitorar as queimadas na Amazônia e apresentar informações diárias atualizadas sobre os focos de incêndio detectados. "
+        "Abaixo, você pode visualizar as queimadas mais recentes, com detalhes sobre localização, satélite que realizou a detecção, e outros fatores relevantes.\n\n"
+        
+        "## Estrutura dos Dados\n\n"
+        "Cada entrada na tabela representa um foco de incêndio com as seguintes informações:\n\n"
+        "- **ID:** Identificador único do foco de incêndio.\n"
+        "- **Latitude/Longitude:** Coordenadas geográficas do foco detectado. Para visualizar o local exato, insira estas coordenadas no Google Maps ou outro aplicativo de mapas.\n"
+        "- **Data/Hora GMT:** Data e hora da detecção em formato GMT (Greenwich Mean Time).\n"
+        "- **Satélite:** Satélite responsável pela detecção do foco de incêndio.\n"
+        "- **Município, Estado e País:** Localização administrativa do foco detectado.\n"
+        "- **Dias sem Chuva:** Número de dias consecutivos sem precipitação na região, o que pode indicar um aumento no risco de incêndio.\n"
+        "- **Precipitação:** Quantidade de chuva (em milímetros) registrada no local.\n"
+        "- **Risco de Fogo:** Índice que indica a probabilidade de ocorrência de incêndio, baseado em fatores como condições climáticas e quantidade de combustível disponível.\n"
+        "- **Bioma:** Bioma onde o foco foi identificado, como Amazônia, Cerrado, ou Mata Atlântica.\n"
+        "- **FRP (Fire Radiative Power):** Potência radiativa do fogo, que mede a intensidade do incêndio. Focos com FRP mais alto indicam incêndios mais intensos.\n\n"
+        
+        "## Visualização Gráfica\n\n"
+        "Se você deseja visualizar de forma gráfica onde as queimadas estão ocorrendo, copie as coordenadas de latitude e longitude mais recentes e cole no Google Maps. "
+        "Isso permite uma compreensão espacial mais clara da distribuição dos focos de incêndio. Alternativamente, você também pode usar a descrição de localização (Município, Estado e País) para identificar a região afetada.\n\n"
+        
+        "## Informação Adicional\n\n"
+        "As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também têm implicações globais, contribuindo para o aquecimento global e a emissão de gases de efeito estufa. "
+        "O monitoramento contínuo é essencial para entender e mitigar os impactos desses incêndios, além de auxiliar na gestão de políticas ambientais e ações de preservação.\n\n"
+        
+        f"## Dados Diários - Página {numero_inicial // 100 + 1}\n\n"
+        "| ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |\n"
+        "|----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|\n"
     )
+
     for linha in dados_diarios:
         conteudo += linha + "\n"
-    conteudo += "```\n"
+
+    conteudo += "\n\n"
+    # Link para o próximo README, se aplicável
+    proximo_numero = (numero_inicial // 100) + 2
+    if (numero_inicial + 100) < total_entradas:
+        conteudo += f"[Clique aqui para ver as próximas entradas](README{proximo_numero}.md)\n"
     
-    with open(CAMINHO_README, "w", encoding="utf-8") as f:
+    # Salva o arquivo
+    nome_arquivo = f"README.md" if numero_inicial == 0 else f"README{numero_inicial // 100 + 1}.md"
+    with open(nome_arquivo, "w", encoding="utf-8") as f:
         f.write(conteudo)
-    print("README.md atualizado com sucesso.")
+    print(f"{nome_arquivo} atualizado com sucesso.")
 
 def main():
     url_diaria = construir_url_diaria()
@@ -86,10 +107,17 @@ def main():
     
     if dados_diarios is not None:
         print("Analisando dados...")
-        dados_diarios_estruturados = reestruturar_dados_diarios(dados_diarios)
         
-        # Atualiza o README.md com os novos dados
-        atualizar_readme(dados_diarios_estruturados)
+        # Salva todos os dados em um arquivo CSV separado
+        salvar_dados_csv(dados_diarios)
+
+        # Divide os dados em arquivos de 100 entradas
+        entradas_por_arquivo = 100
+        total_entradas = len(dados_diarios)
+
+        for i in range(0, total_entradas, entradas_por_arquivo):
+            dados_chunk = reestruturar_dados_diarios(dados_diarios.iloc[i:i + entradas_por_arquivo])
+            atualizar_readme(dados_chunk, i, total_entradas)
 
 if __name__ == "__main__":
     main()
