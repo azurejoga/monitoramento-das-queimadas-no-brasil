@@ -3,8 +3,8 @@ name: Atualizar README com Dados Diários de Queimadas
 on:
   schedule:
     - cron: '0 15 * * *'  # Executa todos os dias às 15:00 UTC (12:00 BRT)
+  workflow_dispatch:  # Permite disparar manualmente
 
-    workflow_dispatch:  #
 jobs:
   atualizar-readme:
     runs-on: ubuntu-latest
@@ -34,4 +34,4 @@ jobs:
         git commit -m "Atualização automática dos dados diários de queimadas"
         git push
       env:
-        
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Certifique-se de que esta variável está configurada
