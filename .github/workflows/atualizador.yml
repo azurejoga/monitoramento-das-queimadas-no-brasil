@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 15 * * *'  # Executa todos os dias às 15:00 UTC (12:00 BRT)
 
+    workflow_dispatch:  #
 jobs:
   atualizar-readme:
     runs-on: ubuntu-latest
