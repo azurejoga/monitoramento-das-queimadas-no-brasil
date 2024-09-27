@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c426ec0a-425d-358a-bc55-ae50ebbfe7ab | -12.86803 | -51.18543 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 90a1fc14-7111-3e4a-bb61-94c61cebbfcf | -12.86773 | -51.21549 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| bdbb7a05-7185-3178-8ea0-5314c409dadc | -12.86734 | -51.19035 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 5bba2335-c08f-371e-9776-6db06637e252 | -12.86704 | -51.22039 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| a5a90656-4171-3751-a0b1-c6acf64a1a01 | -12.86664 | -51.19526 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 8a14fc79-6073-3d5b-b3da-21e5cfbb859f | -12.86634 | -51.22529 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 95.8 |
-| a6ffe4ae-d154-38b6-ae43-71ecea08dace | -12.86595 | -51.20018 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| ac4ef984-6d26-3ea5-afc2-7494b71ec659 | -12.86565 | -51.23019 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 95.8 |
-| 7aee7c90-2768-35c6-b162-1abb95597956 | -12.86555 | -51.175 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 630eae18-b755-3ec2-8f37-1a71119f34a6 | -12.86526 | -51.20509 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 0228b99b-e3e5-31d2-a28b-ed4b046bfb6f | -12.86496 | -51.23508 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| e846b9ff-9bde-392e-9fc5-4b334c8c42e0 | -12.86486 | -51.17993 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 15cc6abf-5182-38f4-8a30-6bd7fc33920c | -12.86457 | -51.21001 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 54610bef-530e-3738-bd70-f3b24083fabd | -12.86427 | -51.23997 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 14a3fcb8-c8e2-305b-a9a3-ddcba8ed2eb4 | -12.86417 | -51.18485 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 108.1 |
-| 98a8ec09-150e-3ce4-8dc9-59b46ab10931 | -12.86387 | -51.21491 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| 14689298-ca02-3dc7-9d5a-f7e3c463ba76 | -12.86358 | -51.24487 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 85bbdfe3-ec6d-3da9-875d-0433f25f6402 | -12.86347 | -51.18977 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 108.1 |
-| 25c048a4-557e-3a3d-8d71-8947b5296fbe | -12.86318 | -51.21982 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| 88180445-a173-32ec-9744-d62d2e2a64ed | -12.86289 | -51.24975 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 0d1b8507-f572-3868-aed3-0b5b7e2241e3 | -12.86278 | -51.19469 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 267.1 |
-| 517c9f20-fa08-359a-80ae-fd69a2a6e856 | -12.86249 | -51.22472 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 95.8 |
-| d5b70caa-06f8-3a5e-930f-06f53e77ba9e | -12.86238 | -51.1695 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 956de199-2a60-3ee1-bbce-f2ff7c49f20c | -12.86209 | -51.19961 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 267.1 |
-| bf07cf68-31e8-3895-8276-65c39d93ed86 | -12.8618 | -51.22962 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 95.8 |
-| 6d020c21-c224-3e17-8c26-c35fbd2ded86 | -12.86169 | -51.17443 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| e8b83570-8e83-3dd7-b3ac-867a3ae2daa1 | -12.8614 | -51.20452 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.0 |
-| af5c4e97-7c84-3d2c-abe9-6ce30dfe1dd5 | -12.86111 | -51.23452 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| a689bcf1-f2cf-3233-b384-7f5464ecbfa2 | -12.861 | -51.17936 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 2a30e6b8-b030-3ef2-8a92-31b7d4012f0e | -12.86071 | -51.20943 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.0 |
-| 75f090d7-bf3a-329e-bc17-52e283e667aa | -12.86042 | -51.23941 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 037136b2-56a5-35b1-9bb6-587a6b414486 | -12.8603 | -51.18428 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 108.1 |
-| 0895e6fc-5294-38a1-b3a1-31db0c016b6b | -12.85973 | -51.24429 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| d40433fa-b8ba-3375-862b-452629203da1 | -12.85961 | -51.18921 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 108.1 |
-| e0732061-bf33-35c6-adde-47358c117a20 | -13.64129 | -51.48021 | 2024-09-26 04:59:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b3312ec6-7255-3185-8ad2-1c72a9671982 | -13.63745 | -51.47965 | 2024-09-26 04:59:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d5c52f81-f3ca-3520-b1f2-27fe676b2725 | -13.30416 | -51.3448 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8ca284e4-d6fd-356c-bf65-33037faebc22 | -13.30219 | -51.34312 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 06e315aa-aa11-3658-a16d-d451887a3efb | -13.3015 | -51.34801 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 28c7aedb-bae0-3c12-a0f1-eb56f956f331 | -13.30098 | -51.33932 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 58ae7977-ff9b-3fe6-9477-da2c79d1113e | -13.30031 | -51.34423 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 28989616-7155-3205-a017-ca966d7cbce6 | -13.29965 | -51.34912 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 60ccb13f-cf91-3150-8f24-ee90ab79ac0b | -13.29904 | -51.33766 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b5228bed-209b-3016-bcfa-6a99b4131b7e | -13.29834 | -51.34256 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b9b1910d-74e4-3fdc-af90-9405df6b5779 | -13.29765 | -51.34745 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f3667b70-3653-38c8-a338-2f7875a0a43e | -13.29696 | -51.35233 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 09416d94-9de8-3484-9d54-7a8f4ce4e180 | -13.29588 | -51.3322 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| c7c6197d-f997-36d3-babd-50da005bfc07 | -13.29519 | -51.33709 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| bc926772-1319-3ed2-b76a-740b28d9fe88 | -13.2945 | -51.34199 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 861c5a41-96d2-3f63-b6ab-b30e7cd98582 | -13.29273 | -51.32671 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d2bd00ff-1641-3ae7-bcb3-e3bbae90f259 | -13.29203 | -51.33162 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 42a79406-e35f-3c71-b016-51ecb6613819 | -13.29065 | -51.34142 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c4e1d778-8304-3a02-917b-afbac0014195 | -13.28957 | -51.32122 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 5fc463cd-db15-3c95-95f1-f585b4b2b79e | -13.28888 | -51.32614 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| faa6433f-3bf3-3d54-ac74-d0e49b3cff5b | -13.28749 | -51.33596 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 10fa2429-ab61-32bf-93f8-e3fd84d9a0a1 | -13.2868 | -51.34085 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8d47e277-a4ca-3f89-8707-1333278ee884 | -13.28572 | -51.32066 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 54d232ba-d203-33d3-bb84-59b288e48d2f | -13.28502 | -51.32558 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| b17fb6a7-ba3c-35b9-ad8c-48ed4ac235dd | -13.28117 | -51.325 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 83c65438-830b-33a9-b675-ce96a3f7bc01 | -13.27237 | -51.30363 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 8a3721e0-870c-3a40-a975-20d3d09bebce | -12.87673 | -51.30874 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 9a94cc5c-9403-325b-9b47-437275654f39 | -12.87449 | -51.3061 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| c59b7adc-a200-3f6c-ae20-0e62b4ad51b5 | -12.86406 | -51.32434 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 73d1d207-3742-3bbd-a38f-a389a835ccfe | -12.85463 | -51.30811 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 14901537-7521-389d-b0c4-dfc169375d8a | -12.85395 | -51.31296 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 3a66edc7-1ba9-3033-9b12-7c81861e1165 | -12.85011 | -51.31239 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 36f9448f-f2ae-37a2-856c-7c9b8ff78c6f | -12.84628 | -51.31183 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 3aaa186e-9709-3845-850d-11face4638ce | -12.84245 | -51.31126 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 8f058243-8ad7-3afa-9f35-1c82f53a3601 | -12.84177 | -51.3161 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 6dd57c50-22f1-35c9-89ac-95b6f7582f56 | -12.83794 | -51.31553 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 08406847-c3b2-3000-9fb9-d4ada7220588 | -12.83683 | -51.29557 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| d7c55a14-0c91-3b94-8484-0c5c096b2c72 | -12.83411 | -51.31496 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 35bc0f8c-7e46-3685-9074-efcc54a976b8 | -12.83343 | -51.3198 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| b6e9509b-4348-33e9-83f3-4d6b62ec8599 | -12.83299 | -51.295 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 172.5 |
-| 03515a08-ca87-3509-9fde-edc584984ec4 | -12.83231 | -51.29986 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| ae394712-485a-3a30-b954-614c92eb6a8d | -12.82916 | -51.29443 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 172.5 |
-| dc99c8aa-6526-3396-9b06-36a0a0f95301 | -12.82848 | -51.29929 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| c8424b22-ba27-3225-a376-3d7bc0c88362 | -12.8278 | -51.30413 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 9123e19b-9d2a-358f-ad26-73de67177e4f | -12.82464 | -51.29872 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 307.1 |
-| baf4a0a0-88bd-35c9-b79a-f2377f8d9fa9 | -12.82397 | -51.30357 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 307.1 |
-| 1cf50471-4122-3df5-97bf-f9116faa5298 | -12.82329 | -51.30841 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 3a29a56a-9a49-3686-91c9-043aa5192a70 | -12.82149 | -51.2933 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 202.9 |
-| 56bbd2d6-7cf1-3d3f-a6d0-f218105875c7 | -12.82013 | -51.303 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 307.1 |
-| 37079ab0-ae14-355f-8146-211a9ecd24ce | -12.81946 | -51.30785 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 1acacc53-a7cd-3016-99e8-03cb5313b3fc | -12.81765 | -51.29273 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| ed6e54d8-a7a7-3bb0-acc9-e0ccb264cac3 | -12.81698 | -51.29758 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 68.0 |
-| 1c4bb8b6-eaca-3485-a1ae-ebe91bed5432 | -12.8163 | -51.30243 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 68.0 |
-| 9bb58f0b-13ae-3835-ac0e-c27e6d933aba | -12.81563 | -51.30727 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 51.4 |
-| bcee58ab-87b6-3cff-8d75-4c1dd74c819c | -12.81382 | -51.29216 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 9b4ed0c6-8c60-3e28-8b3b-6272f9b326a0 | -12.81314 | -51.29701 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 68.0 |
-| 758a0dd6-1e9b-3e8a-b0fe-01252fea8806 | -12.81247 | -51.30185 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 68.0 |
-| 2df9442a-b63e-39ee-9098-e4a2352277f1 | -12.8118 | -51.30669 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 51.4 |
-| 7bf6a35e-ae8b-34f8-b5ac-2695af78cc58 | -12.80931 | -51.29644 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| f6db4f76-2f0e-3d28-b775-bc8f77d1fece | -12.80864 | -51.30128 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a9c0b364-2dff-39ac-9272-64784123e826 | -12.80796 | -51.30613 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 4daa5884-51a1-395a-95bc-f030b6fedf4e | -12.8048 | -51.30071 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 521fd87b-c27e-3a88-a956-21a6dc8a9fbd | -12.80413 | -51.30556 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 511236fb-47df-3735-8356-4cfcb2ef1265 | -12.79963 | -51.30983 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| e319655f-f3fa-38d1-8ea8-1f6b77717f24 | -12.7958 | -51.30926 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 0505d6d9-9d37-388f-9db7-60fa14aa1fbb | -12.77333 | -51.3386 | 2024-09-26 04:59:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 56e38910-d581-39a8-9d03-c0fc62cc66ed | -11.49568 | -59.44927 | 2024-09-27 05:27:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 80ac2a12-755d-3de9-8237-389651f4bf05 | -6.37074 | -59.96226 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 28b4bc6d-ba09-31eb-8cb7-6e9277cf16b8 | -6.36543 | -59.95429 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 79fc057a-389b-38db-8506-c293ced637a4 | -6.25743 | -60.01793 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3943cf69-f667-31b3-b08c-39da308be403 | -7.27887 | -59.66163 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6a3acbe5-98ba-32fb-878e-b96eadcab2fc | -7.2725 | -59.49131 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 14f2d0cc-6011-3187-8df3-35ac3a504ff6 | -7.2719 | -59.49525 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 63c636f5-16ec-350a-acba-abbe231c816f | -7.23715 | -59.51036 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 3266d0fe-9644-3261-83e1-d49f667652f6 | -7.23656 | -59.51431 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| d129abe8-6cc0-313d-a581-9a54d75c8b3a | -7.23363 | -59.50981 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| d16c0fe4-5fd0-3150-8bfd-74f698121607 | -7.17393 | -59.4494 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 4cd2bec6-5d08-3442-92f2-81ebf8110332 | -7.12514 | -59.22525 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 53a3304d-d7b3-3fe9-81df-b9ddf1fa2e88 | -7.11916 | -59.45337 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| a79727d1-4776-3e6e-8510-f894316bf686 | -7.09429 | -59.76177 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| aa87bfc0-362b-35ae-b1a4-c5946682c90f | -6.98974 | -59.94626 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 87570aec-5b4d-3cc6-af84-a59745d3ab94 | -6.98893 | -59.5997 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 2a31016a-7719-325d-99d9-3f5d4818b17c | -6.98834 | -59.60361 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| cef1c11c-cf8f-32e5-8374-dc338e2282e5 | -6.98542 | -59.5992 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| bab3974c-6853-3a12-84cc-1059d1becfa7 | -6.80221 | -59.30209 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 01e8e015-c0a9-3e39-997f-d93537010d27 | -6.80161 | -59.30609 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 2ffae6fd-246a-39c9-beeb-73f7b3711350 | -6.79872 | -59.30229 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 4d2dcca4-ad32-3088-8382-eb2b162a47f3 | -6.79811 | -59.30629 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| f2fc6ab4-3287-314e-8467-9b065dd22e22 | -6.79807 | -59.30557 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fb65303d-0b4c-3034-b570-b360e2384482 | -6.79749 | -59.31028 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 54790153-8bde-3a4e-9896-189a1b71b342 | -6.79747 | -59.30957 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| bace52fd-ea6f-350c-bdca-fbc85856e3fd | -6.79457 | -59.30576 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 52513230-5097-3bdf-acd0-4a0d8d80d85c | -6.79395 | -59.30974 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| dbb63f82-ef98-3dd7-8c4d-8ce83784fedf | -6.79393 | -59.30903 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 6d0cc82e-3219-3354-ad11-2a23803ac790 | -6.79334 | -59.31372 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| af5f00b8-dfe8-376c-82c5-b67d3e06cb2a | -6.79334 | -59.31302 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| a117be63-7070-3312-9fb6-0637c40989f1 | -6.79042 | -59.3092 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| d36c20e5-d8f4-3128-8048-7fa3081f4e20 | -6.7898 | -59.31319 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 672d927f-69a5-3ebf-9a37-7f703f312f60 | -6.78688 | -59.30866 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0cd7fcd2-bcaf-3f22-8ac6-fecd66b3b5bc | -6.78659 | -59.3576 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bfb8ba60-7f73-3370-88a2-7ea389bf2f15 | -6.78622 | -59.36095 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6067b413-dbae-3056-8ec6-03e4f0b9dfb9 | -6.78598 | -59.36158 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 874f87ab-4615-3752-beb5-2f07653186e3 | -6.78563 | -59.36492 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4359f890-eb63-3c19-b7e3-0abb87e7ffc2 | -6.78538 | -59.36553 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d1d0d236-4c03-356a-ab96-a15b9a143281 | -6.76558 | -59.69027 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8596c644-bc74-35a7-b597-052e93dc9a7b | -6.765 | -59.69413 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 933a9cba-e3c9-37ae-bc08-7e8f94ec10ab | -6.67146 | -59.78246 | 2024-09-27 05:27:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4e1c0a2c-b250-3946-bb69-0a98ef544b37 | -6.64143 | -59.95612 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 426c5e96-a10c-3e87-bcf7-cba1fdb1e3ae | -6.64086 | -59.95989 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e4591b34-88b2-3ff0-8a8c-a81f66a7a7ae | -6.63799 | -59.9556 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b734fd17-07bb-3cad-8719-0897271bbfd6 | -6.61217 | -59.9401 | 2024-09-27 05:27:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 97ced3ee-cbe5-3ceb-9075-489bde31e436 | -6.60873 | -59.93958 | 2024-09-27 05:27:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 96321355-7981-30ff-9c87-2de7f52d5d49 | -7.59889 | -60.58808 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 33b87140-de67-362e-a7cb-c42806f090dc | -7.59834 | -60.59171 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ebab2bb5-5e18-3687-89de-87e0bd4ffaad | -7.59779 | -60.59536 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2139cf9b-7394-3dd2-9a16-3f0ae69d1c97 | -7.59723 | -60.59901 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| f5169819-4923-3468-94d1-289e5ac2a09d | -7.59662 | -60.5802 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 498994d7-bc59-32ca-976a-5badf86f25ac | -7.59606 | -60.58387 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ba6701a2-89f2-317e-a9f2-68e5d76a0db2 | -7.5955 | -60.58754 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 7e332a8f-d4e5-3483-b25a-f162f887ac25 | -7.59495 | -60.59118 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 0d156c9d-a247-3624-bb4e-1fdb8ac51830 | -7.5944 | -60.59482 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| 88e205fe-b32b-3199-beaa-c0804a878c8e | -7.59384 | -60.59848 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| deed569f-3948-3c88-814a-dc80aeb45f9b | -7.59328 | -60.60214 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 70dfa5c3-5e74-38d0-9488-6fed697f437d | -7.59322 | -60.57967 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| faff574a-1533-3c47-8680-e0c3e836462d | -7.59267 | -60.58334 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 46df7a66-328f-3028-92c8-2ae95d323af0 | -7.59211 | -60.58699 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 4e256eed-7fd4-34ad-a4e2-a7c92a6be0f3 | -7.59156 | -60.59065 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| a4e206e6-e052-39e2-97c2-2d46cf388806 | -7.591 | -60.59429 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| ee56037d-c815-3a63-b5f3-ee880e0ac1bd | -7.59045 | -60.59794 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| 68e0fac4-7e52-357b-a13c-d613c1fba59d | -7.58989 | -60.60161 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| abcb1b6d-97d7-3100-a7bd-c87f908b81bc | -7.58983 | -60.57915 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 06dcedb0-ace1-3656-bbc1-c826f4b4dbf1 | -7.58927 | -60.58281 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 5cc83eb6-202d-3a2e-8395-82e651d7b5e9 | -7.58872 | -60.58647 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 77880def-fd86-3e55-8ab2-0f69498d179b | -7.58816 | -60.59011 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 431e5cba-a07d-39e1-b557-b6bf2421b741 | -7.58761 | -60.59377 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 554fefd5-55e4-3f6f-ae76-fccb759e13f7 | -7.58705 | -60.59742 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 7b7f2c20-daa6-383f-b2f5-4b0fecba41e4 | -7.5865 | -60.60107 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2fd0f3eb-a481-30e5-9f4a-94852f1588cc | -7.58643 | -60.57862 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f4a7f93a-bb6a-3542-a34d-0e1ed9d65d52 | -7.58588 | -60.58228 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 43e2e22b-fb61-3260-b3dd-907c48b17449 | -7.58532 | -60.58594 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 2a4a8972-f053-3fa1-a5ef-9e649e1b85e3 | -7.58477 | -60.58959 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 81ca42f5-94ba-312e-942a-492fd5c66df6 | -7.58422 | -60.59324 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 5e8f8569-b688-3e3a-aeb6-96d1f4404894 | -7.58366 | -60.59689 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| dc08415f-29e9-309b-a337-f5906a46bfac | -7.58311 | -60.60055 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e078c937-a9ac-3cc8-ac42-1e4eca331be8 | -7.58248 | -60.58176 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 385eef3c-30c6-3be4-8827-b547905b427c | -7.58193 | -60.58541 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 419bbfe1-9fcf-3f05-8796-37d3dd2e108a | -7.58138 | -60.58906 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 6fc0a977-26a0-32e0-a5f1-5f00040df60e | -7.58082 | -60.59271 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 25755cea-f6ff-351c-9968-1ba161026abd | -7.58027 | -60.59637 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b9a9e1f8-154b-3d18-bd1b-7e4ef52c867b | -7.57854 | -60.58489 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 49526382-ba1a-307f-989e-8834a7558f67 | -7.57798 | -60.58854 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| be69d701-8ae8-3e0f-99c2-3707f2c6854f | -7.57764 | -60.58572 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a4fa36fe-a274-35a0-ba29-1fec659bbb1b | -7.57743 | -60.59219 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e4c4432c-2136-321b-aa37-9d3c17da4117 | -7.57708 | -60.58936 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e22419ff-6733-3a80-bf8e-4c7bba9cea0d | -7.57651 | -60.59302 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b7e76159-b7c9-3357-86a5-f6f86a26b265 | -7.57594 | -60.59667 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a74040cd-3eb7-399c-8651-843785d1b5ed | -7.57255 | -60.59615 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6294c065-ebe0-3f66-a6cc-7379ded95993 | -7.57199 | -60.5998 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 25.5 |
+| 3a140d08-554a-3a7c-9cba-c943ad1c4b9e | -7.57142 | -60.60345 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 25.5 |
+| 925daa61-e600-397c-b198-831830a71fc8 | -7.56916 | -60.59562 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 9826b51c-914c-37da-a73f-1d3828345186 | -7.56859 | -60.59928 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| fe3474c5-1491-3346-9980-89a371c94159 | -7.56803 | -60.60292 | 2024-09-27 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| f628ff39-d310-35dc-a61c-39c840664197 | -7.49584 | -60.6664 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ca8ff2d9-000b-3782-8838-b32496e6b3cf | -7.49528 | -60.67007 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 575f83ff-5db5-369e-b511-dc739a536286 | -7.49481 | -60.71833 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c1846281-e0f0-3f5b-b450-b3c7e3d4184d | -7.49246 | -60.66588 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
 
 
 [Clique aqui para ver as próximas entradas](README120.md)

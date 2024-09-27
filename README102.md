@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| eaf8a10d-7d4f-328a-9995-98da3a6f433d | -7.58825 | -55.18501 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 865e09ef-b262-30bb-b0b5-6c16084ab062 | -7.58771 | -55.14552 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| acf78856-cd8d-3be3-b674-918906d9b274 | -7.5877 | -55.18851 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c16d1281-8521-3469-8f8b-ea8bc0feb47b | -7.58715 | -55.192 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 777e2ead-9ae7-3875-880c-70b83c1d64cc | -7.58275 | -55.15542 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e43877c8-2dbb-373c-91dc-5c25305d977b | -7.57998 | -55.15143 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 2fdf15d4-cdc0-3757-a794-73a0386211c2 | -7.57943 | -55.15491 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ea8b7889-6302-3e25-b018-17d9574e0f4e | -7.79179 | -55.23237 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| eaa28498-8a07-38a3-8dce-138d0e1b0136 | -7.77608 | -55.67072 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 36762d74-f015-35f3-8727-d7d7d69c8c56 | -7.77551 | -55.6743 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 525e0784-47d4-3ba9-872d-fe219ff58ba7 | -7.77331 | -55.66665 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8f2e25e0-d74f-3add-9912-72929d4a1198 | -7.77217 | -55.67375 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 253e4081-9311-3cc6-810f-a98e773d5721 | -7.76997 | -55.66612 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6cbb2e19-4921-36d0-b51c-5cf6e2e114fc | -7.76662 | -55.66559 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ec9b2c99-9275-38d1-a4c8-30bcba16699e | -7.76606 | -55.66909 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9935cf82-f7ed-3f92-b52b-f0856a5f6111 | -7.76549 | -55.67264 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| c7fc20f8-5cbb-39de-a679-e03ecadf3aa5 | -7.76408 | -55.66523 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 1ce1ec7d-bb0e-3602-ab18-3c24938a68da | -7.76352 | -55.66873 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 2e648920-a8fe-3370-ab77-8b69a338bc8c | -7.76296 | -55.67228 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| d8786342-bd54-30e2-b00a-2387cdf161ce | -7.76161 | -55.48686 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e062ff43-f15f-39c0-8184-734e53363f2f | -7.75884 | -55.4828 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 6c7978a9-cb82-3b7c-8342-682cbdcc6043 | -7.75828 | -55.48633 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f50c27a9-550c-3601-adf9-b83fd8b6e743 | -7.75435 | -55.51104 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d5b3093b-35b6-3732-a013-cfefa550b624 | -7.73553 | -55.71539 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| a9eeecfd-55df-34c4-989a-0e987f409395 | -7.73496 | -55.71898 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 229359af-52d8-3cff-bf51-79ca3df9e4d1 | -7.73219 | -55.71484 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 1e10851d-4695-39ab-8d56-29cc3d44f0d4 | -7.73161 | -55.71844 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| c8a67fcc-9a20-318b-a403-65e30020ef41 | -7.72998 | -55.70715 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a1a88f5a-0509-390c-9ca9-4e3e2c8c2663 | -7.72941 | -55.71071 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 804d09f0-f61a-3270-a753-a6cde49a5d18 | -7.72884 | -55.71429 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 4fb84b38-4d89-34d8-9bc7-1233b2ff810e | -7.72827 | -55.7179 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 37810ac7-97fc-3d1b-bd98-3ae8a0dc152c | -7.72769 | -55.7215 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| a26f5e0e-23f7-3ef5-86b3-2d25b3540ce3 | -7.72712 | -55.72508 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| e46ffa50-fdc4-38a1-aa17-6669dea77af0 | -7.72663 | -55.70663 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a1647c26-1517-3bbf-b23a-37e35e56da1f | -7.72606 | -55.71019 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 40c5cde6-86c5-38ef-a806-30c32f97cf5f | -7.72555 | -55.69191 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| e9cc9873-9e32-38f8-92a0-fafa60f69f0b | -7.7255 | -55.71375 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 8d8f66fe-4159-3051-94db-b85fb39d166c | -7.72542 | -55.73581 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 40a6784b-e449-3536-b44e-55470217ba32 | -7.72498 | -55.69548 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0d43e835-6e8e-3aad-b842-b054d36331f6 | -7.72492 | -55.71736 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| d8e8c75b-0ebb-3c25-80c7-02c0db7a6cf7 | -7.72485 | -55.73937 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 72e314b9-c802-3d92-8b7b-095f58eca5ce | -7.72441 | -55.69902 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5a9d3911-3575-3072-8fb0-154545192734 | -7.72435 | -55.72096 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| c18adf72-459a-34d9-9ef0-b96764d79d9b | -7.72428 | -55.74295 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 31918b87-0dae-31e2-9f96-8c03805b70d9 | -7.72385 | -55.70258 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 811971d4-e695-3712-845a-12167f3620d0 | -7.72377 | -55.72455 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 2e73b9c3-07c6-3cc2-af6d-20f296194670 | -7.72328 | -55.70613 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| d9092160-ac8e-3912-81d1-e71186ae38d4 | -7.72272 | -55.70967 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| cd2bc464-d402-3f7e-a430-a9053143a4fb | -7.7222 | -55.69136 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 8780bb5d-78a4-3d8d-9394-71fef4facaf6 | -7.72207 | -55.73523 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 348af4fb-bdff-3373-a12b-726fcde1828a | -7.72164 | -55.69493 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0395d35c-5f23-3c11-a815-c23f6f7df70f | -7.72151 | -55.73878 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3d1b5754-8713-3e3b-95f1-60780ef866c3 | -7.72107 | -55.69849 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ccca7bc2-633b-3e2c-8b80-04becf02031c | -7.72094 | -55.74236 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 94545066-8f6e-38ec-9955-e6e2b54daf96 | -7.72049 | -55.70207 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 4f376acb-7fb6-3b80-ae4a-52dc5825be0f | -7.72043 | -55.72402 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a37ebff4-f4db-34e4-be28-03cc96014c21 | -7.72036 | -55.74594 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 676c4015-b4f6-3b4f-aa2c-e67e585c0d38 | -7.71993 | -55.70564 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 63add830-1e4f-3f01-94ed-00e68b444a84 | -7.71985 | -55.72761 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1d40d004-766a-355f-8922-46d9c4ad42bf | -7.71936 | -55.70917 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 72eb4b44-12d2-3cea-b27c-8e8a4d6c65e5 | -7.71929 | -55.73116 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7b3cf566-44cc-3115-98c9-27823b79e8c9 | -7.71885 | -55.69085 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6912e924-0c55-3e08-93f1-4c5bd09c90ee | -7.71873 | -55.73468 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| efd145bc-f983-3e75-bd3e-880bbd597f74 | -7.71702 | -55.74539 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 212834df-8524-3635-bd0d-decf99febe35 | -7.71657 | -55.70514 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 92061798-a0c8-3875-8bb6-214df8d3492e | -7.71601 | -55.70868 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0aee3eeb-0111-3442-8bb2-5a0e901b02d5 | -7.71594 | -55.73063 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| aaa72458-dee7-3dfd-931f-3c4d59717281 | -7.7155 | -55.69036 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 82a59f25-6a39-3deb-80f9-535485169f8f | -7.71538 | -55.73414 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c51bc361-1822-361b-8eda-5f4b7604c080 | -7.71266 | -55.70819 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6966c9e9-2055-3c31-a455-652cc2e437b2 | -7.71209 | -55.71173 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7618d58c-98d2-32c9-b49a-5d69d46db3a7 | -7.70874 | -55.7112 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a83c86f4-382c-3a00-a533-f72290bcdfbd | -7.70807 | -55.35199 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 11207392-c8a5-3299-b5cf-9dfbd779bb60 | -7.69759 | -55.35397 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 83cc4404-2c8e-30a4-b285-23531bc43937 | -7.69427 | -55.35344 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| efae7ea5-f20e-398d-8dd4-348e895fabb5 | -7.69151 | -55.32779 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| b1f92f26-9baa-34f5-afd2-3c337a9051eb | -7.69094 | -55.35292 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7d7235f0-e8ab-3f31-8db2-bbc187b53d7b | -7.69038 | -55.35643 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| fc3ea316-6716-3986-addf-4bc1fd8d7508 | -8.05141 | -54.77524 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| db76fabd-3186-3213-8604-c84d57e9e759 | -7.98496 | -55.02423 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 89617e6d-da54-326e-8f03-a582fa025988 | -7.97779 | -55.06943 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 510f4d73-2db9-3b5f-bb4e-9f9cc9fff64d | -7.94656 | -55.11385 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 22fa947a-2045-32e5-b74c-31f1be8b9741 | -7.94436 | -55.12778 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7fb96290-5e34-3fb5-b63a-f4cee758df9c | -7.94381 | -55.13127 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 16d4349e-c54d-3ee5-9539-9fab509f0e3e | -7.94325 | -55.13476 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f519d86f-0b67-3221-a773-78cb1c0e8f22 | -7.9427 | -55.13826 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 39dcaf97-1077-3514-9fc3-766ee1740b37 | -7.94105 | -55.12726 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 95f1e2cf-80bd-33f6-b60c-0b33eda2cbfb | -7.93829 | -55.12325 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c4aec65f-7d6a-3830-93eb-9d3d28b44f67 | -7.93608 | -55.11576 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dca08387-90cd-3460-81a8-1770f73ff94e | -7.93553 | -55.11925 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 5d34a796-8f03-34f1-a978-322b92f90d14 | -7.92945 | -55.09331 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 6426a3ad-7bbb-32c5-a1af-a7dde113bdb9 | -7.92835 | -55.10027 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c98ae978-ecd3-37c7-b4fd-df82adb623aa | -7.92229 | -55.11715 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 79346952-9e61-3338-8db6-1df218d0e077 | -7.91953 | -55.11315 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| bfce6f03-f653-3b0f-ba7f-504c8c3e8aaf | -7.91842 | -55.12011 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 66943efe-2277-3db3-a585-2675e71cd041 | -7.91622 | -55.11263 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| bb919a37-db31-34b3-ae65-8f9366184555 | -7.91456 | -55.12307 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 9447849f-08d3-3cbd-845d-0c5dcea3851a | -7.91401 | -55.12656 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| cd8e4172-f296-3641-b84d-911a4727c5e8 | -7.91291 | -55.1121 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 6a5d9e54-7a36-3edc-a527-ba48bb28ad04 | -7.91235 | -55.11558 | 2024-09-26 04:57:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| fee1b70c-1277-378d-90d3-57bccf5c32b5 | -14.72077 | -45.50165 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 2e53bbd2-94e9-3c92-a5bb-35b42869b69e | -14.72025 | -45.50564 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 6e3689e7-6407-3d5f-a7cd-c3e0e4a8d528 | -14.7176 | -45.493 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| d8b4e9f1-bf59-3b25-ad06-608f98d1c9a8 | -14.71708 | -45.49699 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 7f45952f-ee5d-3431-b955-9fce423fe22e | -14.71391 | -45.48838 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 73a1e9a2-7c14-3666-9e46-b03ab83d68be | -14.71021 | -45.48384 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| d616d9b5-c972-3e87-bdff-67d3805dd6ab | -14.7065 | -45.47931 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 77f5e2cb-8b45-3071-81ec-58a237f291c6 | -14.70329 | -45.47088 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| daff639b-8177-3b1e-b195-a5937b029441 | -14.70243 | -45.47267 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 2f67d120-9ecd-3f0b-9c60-6cabbe5dd690 | -14.69908 | -45.47029 | 2024-09-27 04:42:00 | NOAA-21 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c1416a6a-47b7-3f3a-9d3f-5a3d3c47088e | -14.17317 | -46.44294 | 2024-09-27 04:42:00 | NOAA-21 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 907cf77e-dee0-352f-a311-3fb94c0466e2 | -14.16992 | -46.43734 | 2024-09-27 04:42:00 | NOAA-21 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b49ed86e-b951-3c02-871b-55fd23e5b8ab | -14.16924 | -46.44239 | 2024-09-27 04:42:00 | NOAA-21 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| fd93cf0d-c4d7-3883-8b83-d813cfa56ef6 | -16.54772 | -46.93022 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| eb49548a-a4e5-3ac7-9c7c-fa6de62b68da | -16.53451 | -46.93897 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| a70f17ed-e694-3736-9d55-09b60ac7433e | -16.53131 | -46.93293 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 8539c5f9-2b18-39fe-b3fc-2c8ffde1a837 | -16.5306 | -46.93822 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 041d7925-c330-3d6e-9ff9-df3a0d227c45 | -16.50354 | -46.96081 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f6aed780-7df0-3238-b10f-01608dc166e2 | -16.49962 | -46.96019 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 5e70f708-c098-3ec2-93fd-0522a4d6120c | -16.495 | -46.96484 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7b881262-2b02-38e9-af43-5ae4fcd2b69e | -17.84051 | -46.50661 | 2024-09-27 04:42:00 | NOAA-21 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| cba77c7b-9847-3b1d-a64f-fb6cc36db051 | -17.4996 | -47.01824 | 2024-09-27 04:42:00 | NOAA-21 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 37400ffc-58e5-3f19-bc7c-4b801324910c | -17.24342 | -46.28563 | 2024-09-27 04:42:00 | NOAA-21 | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| ba4b6ca0-0c52-39db-bd1e-78db5cc1906a | -17.24291 | -46.28952 | 2024-09-27 04:42:00 | NOAA-21 | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| d62980ee-5735-3247-b906-c8a62e938ac1 | -17.23928 | -46.28505 | 2024-09-27 04:42:00 | NOAA-21 | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 6495eb70-b7b9-3936-91cd-ec4f47a12fdc | -17.23878 | -46.28895 | 2024-09-27 04:42:00 | NOAA-21 | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 021182a9-ed6a-3908-ab3d-075708db2831 | -16.98878 | -45.91795 | 2024-09-27 04:42:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 21e6c48b-4088-34a8-b0d1-fb0515cbae5c | -16.6193 | -47.29795 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 8aeffc86-45ac-3e33-a13e-2fb76c31539d | -16.5786 | -46.93626 | 2024-09-27 04:42:00 | NOAA-21 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 6e976c5a-e2ad-302e-b5d8-57d9d892fc98 | -18.91666 | -47.20345 | 2024-09-27 04:42:00 | NOAA-21 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 02d68a75-4ede-3dea-83de-fe934eba1d85 | -18.91266 | -47.20289 | 2024-09-27 04:42:00 | NOAA-21 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ad647e5d-55d7-3974-89b3-f74379a2e876 | -18.89557 | -47.1007 | 2024-09-27 04:42:00 | NOAA-21 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 843e17e9-aa5d-3ab0-827c-daba34d0072e | -18.60142 | -46.41375 | 2024-09-27 04:42:00 | NOAA-21 | PATOS DE MINAS | MINAS GERAIS | Brasil | 3148004 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| d472a152-9909-3339-869b-0ef424ca4121 | -18.57673 | -46.74448 | 2024-09-27 04:42:00 | NOAA-21 | PATOS DE MINAS | MINAS GERAIS | Brasil | 3148004 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| fd6ec7a0-c8e5-3f37-8210-d82d8ed2d3c0 | -18.54582 | -47.26732 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| f694744e-f780-3c9f-b9da-21fc4d90b1e2 | -18.54088 | -47.08829 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7d4bd1fd-ac31-3360-bce6-cb4f6c7d1c80 | -18.52937 | -47.08272 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e1799f0f-c72e-3f72-99f6-6f5f3cd761a1 | -18.52538 | -47.08198 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e990f9ac-794d-3b18-bf2f-f8f987e207df | -18.52043 | -47.08886 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 2f25d6a8-5d4f-3486-bf1e-daaa32e93d85 | -18.51996 | -47.09248 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 861150b5-bfb5-34de-800a-db3b8e88a6af | -18.50753 | -47.09415 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| ab26e4e1-dd73-34f6-8187-e6d9949ec6b7 | -18.50706 | -47.09784 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 4a9c513a-93a2-32e0-8e24-290e79056349 | -18.50215 | -47.10447 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| f4265962-1571-393f-8e54-6f8c679a893a | -18.49817 | -47.10374 | 2024-09-27 04:42:00 | NOAA-21 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| e373e3b3-5ea0-3ecd-a11a-db291d95de1e | -18.09432 | -47.44495 | 2024-09-27 04:42:00 | NOAA-21 | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 46608a6d-cdad-30d8-9da7-b0527d9167a1 | -19.98682 | -47.1596 | 2024-09-27 04:42:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 9ab69b76-58e5-33d4-bacc-8e3cda9960fe | -19.98276 | -47.15902 | 2024-09-27 04:42:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| f81ad2e4-ced6-394b-8147-d741a4915c29 | -19.98229 | -47.16288 | 2024-09-27 04:42:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| ab2b1e9e-e153-3751-92ce-fc5699db0749 | -19.83549 | -46.94464 | 2024-09-27 04:42:00 | NOAA-21 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 00e873f2-fcb4-315e-9b86-bf499c3b7271 | -19.77958 | -47.02644 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| feac4e37-4596-3fe3-b8a6-2a9817a491df | -19.75953 | -47.25682 | 2024-09-27 04:42:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 6745d44d-255a-3f4c-a6ef-a7e4b6ad217a | -19.7555 | -47.25626 | 2024-09-27 04:42:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b2573a9f-b004-3def-a601-c108283022c7 | -19.75505 | -47.25993 | 2024-09-27 04:42:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| eac46b36-c26f-3ad7-adfc-7a2f9ad59d98 | -19.5994 | -46.97778 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 6d731660-3ee1-3b4c-8b9e-b9b4dbbaebb2 | -19.59892 | -46.9816 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 5d86fe28-5b49-321a-96f7-c88dff0c013a | -19.59845 | -46.98539 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 09b13f67-8e00-30a9-9a7b-78e54c43cd7e | -19.59578 | -46.97335 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 07645462-1785-3e99-8d8b-787b5dfc75f9 | -19.59531 | -46.97721 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 91fe3e36-7a4e-3dcb-893c-173c014564c5 | -19.59484 | -46.98101 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 388233de-ace2-3eb4-9ec8-b2f51d2379be | -19.59437 | -46.98478 | 2024-09-27 04:42:00 | NOAA-21 | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 8a82a315-8e37-33fc-8196-4fe61bb6a4bd | -19.56477 | -47.79226 | 2024-09-27 04:42:00 | NOAA-21 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 86dd10f5-0abe-3726-bb12-3af32e2118b7 | -19.53175 | -47.88444 | 2024-09-27 04:42:00 | NOAA-21 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| b263f46d-8d03-3ca0-bcc8-34f00e397487 | -19.52788 | -47.88386 | 2024-09-27 04:42:00 | NOAA-21 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 834c024e-2b62-337a-b6b4-1d4143f959b3 | -19.52402 | -47.88329 | 2024-09-27 04:42:00 | NOAA-21 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 6e90f13e-7b36-343b-80ce-d5830e2dfef9 | -14.60615 | -48.16052 | 2024-09-27 04:42:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5567a5e8-14f2-397b-af24-23363d8694d5 | -14.60314 | -48.15599 | 2024-09-27 04:42:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| f6df3673-12e6-30ed-b478-57c220924c44 | -14.60255 | -48.16005 | 2024-09-27 04:42:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c9bb73d2-5705-3647-b3c8-aa26eba0fa1d | -14.59896 | -48.15952 | 2024-09-27 04:42:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 9b5bd4f7-778a-3c83-8e56-ae87a8177dea | -14.19045 | -48.18787 | 2024-09-27 04:42:00 | NOAA-21 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a6d8440f-1ee0-3450-8659-db86f259b48d | -13.83654 | -48.03133 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 4773e144-d27a-33ea-84b4-6e881b443dc5 | -13.83296 | -48.0308 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| c567090b-7b83-34ff-843b-783f58d1dc8c | -13.82938 | -48.03027 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e6d875cc-4510-36c6-b244-2cce88f09de7 | -13.81197 | -48.12709 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2e864256-36a6-35ed-80d6-f0ab91107cbf | -13.8114 | -48.13102 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 0fddff4a-6577-3ecc-ace9-f49b10a62f07 | -13.80787 | -48.13029 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| fe9b08c6-2b9f-3a9d-9b2d-99782b4a69ff | -13.80433 | -48.12956 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| fd852729-03a5-3341-a2ca-a6f042be4186 | -13.79726 | -48.12799 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 2ba60353-ca70-3c44-9c76-45cf75094e71 | -13.77891 | -48.10965 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| ea1ee6a3-6d9e-3408-b938-37abb3340e0a | -13.77358 | -48.09626 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b807cf4e-07fe-3786-8b6f-0a7973086133 | -13.77297 | -48.10039 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| eabc8ecc-5164-3043-8b18-cb93eccdb656 | -13.77238 | -48.10451 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 2c1c3dfd-896d-3c3f-854a-0453f9ab1ad5 | -13.76882 | -48.10387 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 4f49cfe0-7601-3b3f-84ae-1160f3f8828a | -13.76824 | -48.10792 | 2024-09-27 04:42:00 | NOAA-21 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b9f0cbd8-a645-349a-9ddd-d229ad113059 | -13.73205 | -47.58232 | 2024-09-27 04:42:00 | NOAA-21 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 220d2bcb-e112-3883-a0e5-923f4173b798 | -13.73144 | -47.58653 | 2024-09-27 04:42:00 | NOAA-21 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 9a8ea897-cd52-3f42-965f-84e76e4ee9f3 | -16.51473 | -48.05143 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c87be4c8-d1fe-3bd8-94a0-9a947501633b | -16.5141 | -48.05607 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| db6bb55b-efff-371b-8da2-8825e2116bd6 | -16.51157 | -48.05283 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| 59a5deec-b9fb-33e7-82b2-bcd90a996b4b | -16.51105 | -48.05084 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| b319345e-781f-3ecd-b1ad-cbb4d3c63102 | -16.51042 | -48.0555 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 31aa096c-baa6-30a6-b9b5-3e33fcb4f29b | -16.50789 | -48.05224 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 3427c90f-6db4-389a-b974-edee299dc677 | -16.50674 | -48.05491 | 2024-09-27 04:42:00 | NOAA-21 | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 73a464eb-461e-35cf-a2e5-051e47e07f94 | -15.73187 | -48.31569 | 2024-09-27 04:42:00 | NOAA-21 | ÁGUAS LINDAS DE GOIÁS | GOIÁS | Brasil | 5200258 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| d2e4f77e-7586-33c9-a50e-90bcdf9f60c7 | -15.67445 | -48.19002 | 2024-09-27 04:42:00 | NOAA-21 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| e7270bf7-7036-30f2-9aca-26509235c5da | -15.61363 | -47.23551 | 2024-09-27 04:42:00 | NOAA-21 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 7bd4e957-2dd4-3fef-803e-c23db88ede97 | -15.56849 | -47.85666 | 2024-09-27 04:42:00 | NOAA-21 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8a0c92b8-1ed8-3a39-a85b-1d9fab236360 | -15.50792 | -47.30149 | 2024-09-27 04:42:00 | NOAA-21 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1b25b60d-f178-3eef-891f-5650e12ec231 | -15.37772 | -47.45977 | 2024-09-27 04:42:00 | NOAA-21 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| da4bfb52-1605-3336-b9a2-1fb36d032b63 | -15.37635 | -47.46957 | 2024-09-27 04:42:00 | NOAA-21 | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 4e1a528c-7fdd-386d-8b7e-f752bc9d4a69 | -15.37095 | -47.45336 | 2024-09-27 04:42:00 | NOAA-21 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
 
 
 [Clique aqui para ver as próximas entradas](README103.md)

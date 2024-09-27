@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6670f958-0d53-3085-9b18-74f446149363 | -10.0239 | -53.439201 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3dbfa81c-a08a-35ed-bd5e-eade62f7b07c | -10.0254 | -53.446201 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| eb0484de-1178-30bd-80a1-970f38a1819d | -10.027 | -53.453201 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 027171f9-0701-3ea7-a79c-aa1b0ea6e7b7 | -10.0285 | -53.460098 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 75819dc5-4a80-37c8-b7da-667dc03b7e78 | -10.0301 | -53.467098 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 98ac4989-2aec-3e1c-8137-bc682b162f43 | -10.0316 | -53.474098 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 576ba2d4-f505-3a70-9b5a-a9970354675d | -10.0332 | -53.481098 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a72a7608-a98c-3149-b26f-210a5a7bace2 | -10.0347 | -53.487999 | 2024-09-26 00:56:10 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 65b9b10d-2459-3d98-ae15-de43dc8ea712 | -10.8821 | -57.427101 | 2024-09-26 00:56:10 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 30eff44e-490b-3e64-b5e5-2f7c6566ec81 | -10.8843 | -57.437199 | 2024-09-26 00:56:10 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 866b78fd-9d33-38bd-b2a2-332df14bb92c | -10.8864 | -57.447399 | 2024-09-26 00:56:10 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b2ead1cb-8e17-3f64-b462-a96edf0b7b58 | -10.8885 | -57.4576 | 2024-09-26 00:56:10 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f3ce5e0f-b729-372b-bd1b-24351114439c | -11.2599 | -65.299 | 2024-09-26 00:56:11 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 60.0 |
-| ded87ee5-419f-3cce-a3cd-b6e39fcb8e6c | -11.26 | -65.2801 | 2024-09-26 00:56:11 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 72.3 |
-| bd6e6adf-7041-38d8-ab67-8d1b8318e93d | -10.0141 | -53.441399 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9a73ddcd-ce9c-345a-9a37-eb7b986c4630 | -10.0156 | -53.448399 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 43b9c618-9be3-3474-882b-009006f15044 | -10.0172 | -53.455399 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 515bbbfa-4be8-35df-8ccf-0b554a5faaea | -10.0187 | -53.462299 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0f1d768c-fcc9-3873-8488-6e9f72bcf0de | -10.0203 | -53.469299 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 39b79185-2379-3625-88ab-b969c7b6bcc6 | -10.0218 | -53.476299 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 428ef702-f3e2-3ac9-b6d2-3a3cbaf66166 | -10.0234 | -53.483299 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a22d69ee-7cef-3cd2-b8e1-c3d434f32dc2 | -10.0249 | -53.4902 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9983bdb4-49e4-38c5-bb44-0df97fa3e9e4 | -10.8745 | -57.439201 | 2024-09-26 00:56:11 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 92739f01-1aae-3bce-bb9f-03629aad4848 | -10.8766 | -57.449402 | 2024-09-26 00:56:11 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8ff592d2-b160-3725-913e-cbd6bd80158b | -10.8787 | -57.459599 | 2024-09-26 00:56:11 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 33a643b1-7f24-3fc5-8a72-52decae60728 | -10.0089 | -53.4645 | 2024-09-26 00:56:11 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| df54bd06-8496-33ed-b278-808422f036b9 | -10.8668 | -57.4515 | 2024-09-26 00:56:11 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 06329911-c110-3334-96bc-f53f9a02629d | -10.8689 | -57.4617 | 2024-09-26 00:56:11 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 698d94ac-a6a3-3d65-8db4-390d4d4f8e4a | -10.1995 | -54.610901 | 2024-09-26 00:56:12 | METOP-B | MATUPÁ | MATO GROSSO | Brasil | 5105606 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f0a39343-1e09-3c6e-b6b4-5ae3faf83569 | -10.2011 | -54.618198 | 2024-09-26 00:56:12 | METOP-B | MATUPÁ | MATO GROSSO | Brasil | 5105606 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 435a250d-a6a5-30ec-99a0-c06a5b5d845a | -11.8613 | -49.6327 | 2024-09-26 00:56:13 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 84.5 |
-| 370eea26-d05b-336d-9930-b3374dd47272 | -9.3212 | -50.925301 | 2024-09-26 00:56:13 | METOP-B | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 595ef562-d15f-37d9-ac1f-1b89f97ad038 | -9.4352 | -51.467201 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4261dfa3-1977-32d2-a1fc-1149b3da61b2 | -9.4369 | -51.474499 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1e1293c6-34ac-3f04-b486-0cb58d4409a9 | -9.4418 | -51.496201 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 91fe1d53-6c36-3b56-aecc-d1eaa4670a07 | -9.4435 | -51.503502 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8fceec60-afd0-3baf-bd29-d898e7934d9e | -9.4271 | -51.476799 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 92c8d39a-0756-38b0-bc4b-6daaecef5729 | -9.432 | -51.498501 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 53273ad8-730b-3349-ab6d-a05542137c53 | -9.4337 | -51.505699 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 05394d15-d7a2-39e8-bc14-57c4228593dc | -9.4123 | -51.457199 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| db9a32af-4722-3d13-932f-faa932899595 | -9.4156 | -51.471699 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 788c66c0-8fbc-39dc-831a-ef18764c2e29 | -9.4222 | -51.500702 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fda4f5ba-1723-3e47-b7be-b82d20aab86b | -9.4008 | -51.452301 | 2024-09-26 00:56:13 | METOP-B | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fa7bfa1c-94c4-33cb-bc10-a2350f6f6ccc | -9.4025 | -51.459499 | 2024-09-26 00:56:13 | METOP-B | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d675829c-628d-3f81-bb84-0db26797a2be | -9.4041 | -51.466801 | 2024-09-26 00:56:13 | METOP-B | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| dc68444e-892e-373b-b78a-9a176b08b28b | -9.4058 | -51.473999 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 5cbe7d29-f06b-3709-b805-489895c3c016 | -9.4141 | -51.5103 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a7fedef8-b417-3351-aa8e-7c6454ca07c5 | -9.4157 | -51.517502 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| affae77d-eec8-375c-a28e-b8a5a46fb19c | -10.5718 | -56.775902 | 2024-09-26 00:56:13 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 58673f48-204b-3efb-93da-f518656e2b13 | -10.5738 | -56.785099 | 2024-09-26 00:56:13 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 517516e4-5f51-3617-98d6-20e8d37a5b43 | -10.7263 | -57.513 | 2024-09-26 00:56:13 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7a919b47-3027-36c1-85a2-992e729cb205 | -10.7285 | -57.523201 | 2024-09-26 00:56:13 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b2af6848-9e82-38d6-b8e3-827c4c8c582a | -9.4076 | -51.527 | 2024-09-26 00:56:13 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 88597dfc-d34b-3aa6-bb0d-f63c21dc5109 | -11.955 | -60.363 | 2024-09-26 00:56:14 | GOES-16 | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 42.5 |
-| d782b611-16d1-3880-8ccd-f215c9474549 | -9.8123 | -53.552601 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2b9ed8f8-b07a-341a-aeb9-9941ffd4a70d | -9.8138 | -53.559502 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5c103cbb-53ac-38e6-a531-fa3ee3b6f9f0 | -9.8154 | -53.566502 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| df426b4d-fc79-3c94-9e05-cec58a936852 | -10.638 | -57.383701 | 2024-09-26 00:56:14 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 069ef23c-a87d-35dc-b64d-f8c2b4949ed1 | -10.6401 | -57.3937 | 2024-09-26 00:56:14 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0ff173e5-c8fd-3bb5-a902-4a9e99c84261 | -9.7222 | -53.193699 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ad79e7dc-5367-335a-9621-0997ddb17b2b | -9.7237 | -53.2006 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| dd36f38c-69ba-33f3-bd79-2871b9da37d1 | -9.7994 | -53.540798 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4632bb2a-fdf0-3a24-a02b-909c92c70db2 | -9.8009 | -53.547798 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2c413fd9-1888-31dc-9c25-f7926cd21679 | -9.8025 | -53.554798 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f1b0f03e-012a-361c-be44-9ec9001316a7 | -9.804 | -53.561699 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4d3e3525-e957-35c6-a00e-a2605aa12a31 | -9.8056 | -53.568699 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1c3c2d38-952e-34d6-9bbb-05254d2d65b1 | -9.8071 | -53.575699 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d7370e3e-5719-35d4-b34f-bca469eb23fe | -9.8087 | -53.5826 | 2024-09-26 00:56:14 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| eab2506f-54e0-377a-b8af-5d75847e8922 | -12.2175 | -45.5074 | 2024-09-26 00:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 131.8 |
-| 85344152-29bf-3a44-a912-5fa05ae5037a | -12.2179 | -45.4844 | 2024-09-26 00:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| f994335e-20f3-3305-a367-aaa8cc67e25e | -12.2367 | -45.5045 | 2024-09-26 00:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 188.1 |
-| 3ddc921e-9a6c-3b46-bee1-f32088894fa5 | -12.2371 | -45.4815 | 2024-09-26 00:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 115.3 |
-| 77730c97-d6b0-3c1b-bcc4-6c4a0bebfe8a | -9.7896 | -53.542999 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a1a02fc0-19e3-3a2a-866f-ff9c58bed9f9 | -9.7942 | -53.5639 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5d945906-296e-3d4e-b4bb-1738932adfed | -9.7958 | -53.5709 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1d816e6e-87dc-39c6-b0fa-303b37ef5e95 | -9.7973 | -53.5779 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bfe42736-c4ca-3ca8-9ffe-ea65c1b79e92 | -9.7989 | -53.584801 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6243bacf-1e52-34fa-9f08-85fee38c129b | -9.7767 | -53.5313 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7f206cca-e1f1-359d-96d2-7f1c1f854cf5 | -9.7783 | -53.5383 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 73d8609b-cd83-3318-8430-9c395f959873 | -9.7798 | -53.5452 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6c3a2f21-5418-30c0-b1c4-c0345c913fa7 | -9.7891 | -53.587002 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9730fb8c-d116-3968-be95-4d0d656ba4ee | -9.3751 | -51.836399 | 2024-09-26 00:56:15 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d67cde69-4bbe-3967-ad4c-42bc86c83d84 | -9.6685 | -53.184101 | 2024-09-26 00:56:15 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a5571faf-226b-303a-80f0-62bff0ba1a21 | -9.6489 | -53.188499 | 2024-09-26 00:56:16 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 01a3649e-1f42-31e7-989a-90090520d471 | -9.6504 | -53.1954 | 2024-09-26 00:56:16 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a94690c1-5add-3e9c-9e6f-b99fcec06587 | -9.652 | -53.202301 | 2024-09-26 00:56:16 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 081dbab8-69e7-3a3f-b5ae-07ba311dd363 | -10.4562 | -56.907299 | 2024-09-26 00:56:16 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6f1700fc-ead9-37a6-af3c-39de8aadf9e8 | -10.4582 | -56.916599 | 2024-09-26 00:56:16 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b74f1995-07a9-3d98-8839-a259ee919e5d | -9.6339 | -53.2136 | 2024-09-26 00:56:16 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c1db6c23-eb39-3b60-9dfb-8936dd833194 | -9.6257 | -53.222801 | 2024-09-26 00:56:16 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 673ba673-54b1-3504-a074-062931996c42 | -9.6272 | -53.229698 | 2024-09-26 00:56:16 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f58d037c-a34c-3241-ab92-b629e6e2464c | -9.6138 | -53.261799 | 2024-09-26 00:56:16 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e9e91651-2669-3206-8ccb-29c9c858f9bb | -9.6694 | -53.511501 | 2024-09-26 00:56:16 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f66379ad-d3e1-390b-bb01-c34ffbb4c52c | -9.671 | -53.518501 | 2024-09-26 00:56:16 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 15047552-7ba1-39da-b54a-46e54464c52f | -12.5276 | -53.496 | 2024-09-26 00:56:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 48.6 |
-| 6c2c891f-faff-386e-b747-0999e3d83226 | -9.5755 | -53.321301 | 2024-09-26 00:56:17 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 08d12c79-6c82-3128-beb1-ef747f77915f | -10.3193 | -56.743599 | 2024-09-26 00:56:17 | METOP-B | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 784ad32f-10c5-365d-bd18-66e304801603 | -10.3213 | -56.752701 | 2024-09-26 00:56:17 | METOP-B | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0c10c75b-416c-3330-b817-f7dcb594c1eb | -10.3115 | -56.7547 | 2024-09-26 00:56:17 | METOP-B | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f86b82ab-72db-364e-acb7-1aad2c89f39d | -10.3134 | -56.763901 | 2024-09-26 00:56:17 | METOP-B | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a943af63-5949-30ff-b8c1-d542f07cfcd7 | -9.69144 | -53.49586 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| cacfadc3-ed26-3ea0-8536-a33b4442e5f4 | -9.66716 | -53.51823 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| 198e41cf-9c84-36ad-9252-2c2d9dc02237 | -9.62627 | -53.23126 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| fe356d9b-686a-3f2e-8580-efc094d9a999 | -9.59751 | -53.41577 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 72db415e-7664-3cf9-a901-fd8ed77cd4e8 | -9.58914 | -53.29395 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 8207f6a4-a31c-3af0-8cff-ab311f29f89d | -9.56581 | -53.3886 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| bc0877ea-0edd-342e-80a7-d3f0ad86fa1e | -10.44987 | -53.31812 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 80f083f8-44e8-3727-bfa6-04abd161178d | -10.44855 | -53.30893 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 11.6 |
+| c550404a-215c-37c4-8c9d-b4211dd0b52e | -10.43652 | -53.68082 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| 94caf73a-620e-3b13-8616-d2c4f7f3fab2 | -10.0485 | -53.34618 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| bba1d420-ca1f-3cf6-af6e-940fa74e585c | -10.04398 | -53.44713 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 24.2 |
+| 7c335075-51a0-3748-84b8-24a04483223a | -10.04268 | -53.43795 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 18.7 |
+| dc402c67-26aa-3dbd-8da2-10a928726668 | -10.04153 | -53.49434 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 20.0 |
+| 319e6182-05f4-3856-897b-474e69c94dfa | -10.04023 | -53.48517 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 36.5 |
+| 106e97a3-b075-3d92-9870-ce9cf253b67c | -10.03893 | -53.476 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 31.3 |
+| de570a84-8a09-3724-a848-79f24b3d9eaa | -10.03763 | -53.46683 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| f4fd17d4-457e-33b7-b0f2-4c2f3e1432e0 | -10.03503 | -53.44847 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 83.5 |
+| 144d0730-e941-3aba-9017-beb0ca36bcbe | -10.03372 | -53.43927 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 74.7 |
+| f18479c8-898e-321e-b280-a6afcf933dfe | -10.03128 | -53.48652 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 20.2 |
+| 7b9d1cf0-fe34-3dd6-ac37-8d8de7cf3820 | -10.02998 | -53.47735 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 164.8 |
+| b38db9b5-9c02-38e0-93fd-9613c27e66a9 | -10.02868 | -53.46819 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 98.8 |
+| c7831633-8043-368c-a38b-94c26e73e9fa | -10.02737 | -53.45901 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 1303142f-a835-3dbe-942e-513b8e6526d9 | -10.02607 | -53.44981 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 25.3 |
+| e083cc41-809b-35c4-b00a-7ba8b074401b | -10.02103 | -53.47871 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 14.0 |
+| eadccfb3-8907-3b2c-86df-4950f75fb966 | -10.01973 | -53.46955 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 17.9 |
+| cf5481ae-28a7-34d5-a0b8-ac0cdb64e7d3 | -10.01711 | -53.45116 | 2024-09-27 01:24:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| 8378341f-8f90-398d-89ae-b8c5d45f98e2 | -12.264 | -53.44359 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| cc89b828-dd6f-30f2-8607-53ff600900eb | -10.8133 | -53.73901 | 2024-09-27 01:24:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| b8c5cf85-c75d-3cd3-9826-c153e1abf0f6 | -10.77624 | -53.54096 | 2024-09-27 01:24:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| c4778d42-38dc-3431-8aca-8ed56b47c0d3 | -10.76732 | -53.54227 | 2024-09-27 01:24:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| 64568759-ce2f-3cb8-8bd5-b34b3b7502db | -12.86231 | -54.02809 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 13.9 |
+| c98e8a26-b9f9-3893-b13d-9bec42bcc851 | -12.86105 | -54.01906 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 86.9 |
+| 69521940-f2fe-31d1-bb36-f02671be797b | -12.8598 | -54.01003 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 44.4 |
+| b8541c7e-0af9-3556-bf70-8a7256f89b46 | -12.85596 | -54.04747 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 53.1 |
+| 99be8e69-e505-3564-9087-9d245f5a7a54 | -12.8547 | -54.03844 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 91.2 |
+| 13994f18-8703-35df-8b37-6b4e2a15ffa5 | -12.85345 | -54.0294 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| 87d5e07b-d52d-3dab-a4bd-2b819d406181 | -12.8522 | -54.02036 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 20.5 |
+| 5002068d-b947-30f0-8083-4f6930e3fce4 | -12.85094 | -54.01133 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 24.3 |
+| 29a8c1bb-879e-3904-a498-85660934cece | -12.84969 | -54.0023 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 982d5144-e569-3aca-b129-f0d1d77d733a | -12.8471 | -54.04878 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 34.1 |
+| 2026a7ce-d636-356d-b82f-8fad918664ff | -12.84585 | -54.03974 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| 4aa71107-44d6-399a-b45a-d4548b8c2165 | -12.84459 | -54.03071 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| 041069ca-bba2-3ec1-bb3f-fb7d8a167a02 | -12.84334 | -54.02167 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| 71882f5a-04cc-3a3a-8c28-e1cab92b7611 | -12.84209 | -54.01264 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| 8265bdd6-4fcb-34da-8c71-5365a6afc119 | -12.83449 | -54.02298 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| 93eb2215-83c4-3425-ba09-f8fa19da2e03 | -12.83323 | -54.01395 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.5 |
+| 08148c6d-36b0-330c-a50d-649a7257b2a1 | -12.82438 | -54.01525 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| cd0f3327-05ee-3008-9be7-c7477f6d378d | -12.82312 | -54.00623 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 22.8 |
+| 74e8ecba-dba4-3c7f-bf41-c71c51b396ef | -12.81552 | -54.01656 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| dc5c9b12-2282-3df7-8054-8697477c3f82 | -12.81427 | -54.00753 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| 0b401f68-1e5f-3d65-981a-a4ed6c31ed03 | -12.80583 | -54.02388 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| 23a4a1d8-d949-3830-86c9-a3ac62349430 | -12.80458 | -54.01485 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.7 |
+| b2048c2a-8377-35f5-b8a2-058770120735 | -12.79698 | -54.02519 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 17.8 |
+| 4eb7695a-a703-383e-8dc4-1f095e2d56df | -12.79572 | -54.01616 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 10.6 |
+| d2f761ab-6e8a-3d49-b183-e41ce855a8ab | -12.78938 | -54.03553 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| 689f4f3e-90a1-34ca-a5e8-aac5db212aee | -12.78178 | -54.04587 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 13.4 |
+| 8012014e-c11e-3e14-93b5-cd41886d2cae | -12.78053 | -54.03684 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 17.2 |
+| bc593d83-e3a3-33c2-83bb-e6f194c98146 | -12.73365 | -54.08984 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| 302239aa-1eec-38b6-be8d-1d0eb279f906 | -12.72267 | -54.08854 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 23fd612d-de03-315c-b3c1-9334999b64ca | -12.72141 | -54.07951 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 11.9 |
+| 70530323-a0ad-3f01-a9f1-029cff674727 | -12.71255 | -54.08081 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 13.4 |
+| 3f24f354-a26b-3ba7-bc8a-6b34058dbe46 | -12.7113 | -54.07178 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| a6eec3b8-af93-30c9-a51c-dad2a695230c | -12.70244 | -54.07309 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 22.9 |
+| 29583056-2248-343d-9ff5-8a95caf497db | -12.70119 | -54.06406 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 11.4 |
+| 584ec524-3ca1-37ad-b685-592cb479c520 | -12.69993 | -54.05503 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 11.1 |
+| 46c5037d-e525-3360-82ca-f36b9233c41c | -12.69233 | -54.06536 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| 0241d64f-349f-3875-b1a5-50a947c2185d | -12.69108 | -54.05634 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 17.1 |
+| c9acdc1d-6cde-3456-a1db-44e2c3f800f7 | -12.68983 | -54.04731 | 2024-09-27 01:24:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| b8e7c32f-d8ce-3356-93c9-bae9aace0084 | -12.6063 | -53.18467 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 2c67236d-3340-3186-9005-b1edcd5a9a81 | -12.60499 | -53.17552 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| f2af2fdd-0366-391e-a753-5818bfc160b5 | -12.60369 | -53.16637 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| b8d12be4-5b4f-31bf-b5bf-21b5f864b641 | -12.60238 | -53.15723 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| ae2d8255-37e8-3b51-bae4-fe749a44ebe0 | -12.59318 | -53.16483 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| 87bfddbd-6558-3927-bf59-70f9eafa34f8 | -12.58427 | -53.16618 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| ee04813c-16c0-3bbd-8504-acbcce99ae6a | -12.58297 | -53.15703 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| a9ebb89f-6be7-332a-b34a-c2f35ba4c57f | -12.57536 | -53.16753 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 90ee2f21-ac6b-302c-9a08-e4edb96c0308 | -12.54876 | -53.50274 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.7 |
+| abca5f2f-801e-33a7-9f73-1feee6c32023 | -12.54732 | -53.16242 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.2 |
+| b8e639d2-d470-3d79-92b6-b3135ac6051c | -12.54116 | -53.51313 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 24.4 |
+| 7c9b1d84-b6e0-3705-9bce-b1ee994faba0 | -12.53861 | -53.49502 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.7 |
+| 79aa40e2-2eeb-3b06-bc85-f586374fd5b7 | -12.53841 | -53.16376 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.4 |
+| 8161af20-41c0-3925-8a1e-473e7262e36c | -12.5321 | -53.18341 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.0 |
+| 34d47802-7284-360d-a7d7-f31546ecf48a | -12.5308 | -53.17426 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| 87fd2e77-aa14-34d4-8409-85fdce9ed19d | -12.51832 | -53.47956 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 1d145f83-e98e-3179-9a6d-8ca779b835cc | -12.49042 | -53.47448 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 17.0 |
+| d923b658-1f67-32eb-bd9b-405c0b70b8f1 | -12.48036 | -53.53149 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 7bd2378f-d8ee-365c-8e0c-df15ceea2cd6 | -12.47908 | -53.52244 | 2024-09-27 01:24:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| ec16ebbb-db90-3797-97ae-f10e7b2e670c | -3.39094 | -53.7185 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
+| c159196f-9ca1-3ef3-8866-cbfc2edae826 | -3.32992 | -53.22537 | 2024-09-27 01:24:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 1fb46ecc-ed55-36cf-9e85-c42ba4320bfe | -3.30778 | -53.37315 | 2024-09-27 01:24:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 11.6 |
+| 9939e38b-eb93-3fa8-a4b0-a19e433ab9d0 | -3.30664 | -53.70622 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| 399be063-b513-3adf-a0b8-fc978be33701 | -3.30523 | -53.69633 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 18.0 |
+| ea11e8a6-678e-33ac-bac5-56acf15a7e14 | -3.29584 | -53.69769 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 5c66b723-a482-3439-9d48-cbd065f89916 | -3.28646 | -53.69903 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| e49b9f1a-8794-3f5a-9e17-530a26a3d925 | -6.25227 | -53.28373 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 1000aab8-c55b-36ec-9fb1-d9e4397b2b3f | -6.25088 | -53.27391 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| e71d8ebc-14f7-3354-9d2a-97f55997fcd6 | -8.02371 | -53.17741 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| dff8b528-63fc-3a05-a5ce-82d7c09968c5 | -8.02145 | -53.22656 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| 6d1e291b-d1fe-39a3-90e2-23dadba8ea32 | -8.00817 | -53.19944 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| e6fb6c65-c272-31a2-bb00-7ac37f9a4f2b | -9.10092 | -54.66889 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
 
 
 [Clique aqui para ver as próximas entradas](README25.md)

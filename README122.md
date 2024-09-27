@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3d668b8e-096f-39b4-a4c7-8f332318d94d | -10.43868 | -53.68219 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e1afe528-22d6-3ee8-bce3-72b47f97686e | -10.50579 | -52.2273 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| fddbbb38-58ff-3110-9d3c-89cfbacee5ad | -10.44612 | -53.22125 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| fb449d32-fa0c-309f-9721-07be39c429a6 | -10.42194 | -52.9372 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1774201f-e4d7-34f7-9cab-2a440deaf851 | -10.4185 | -52.93667 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 5963ccff-443c-33ae-8756-b0b584e6ba31 | -10.41563 | -52.93232 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 1f6e3e28-b319-310c-8435-d68252b9f9be | -10.41506 | -52.93613 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 73a6aae4-abb3-3c01-b97b-2613fa4d4925 | -10.41219 | -52.93179 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| da20d6d3-3d97-3a68-89cf-94cfd21e38a6 | -10.41162 | -52.9356 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| a2236cc6-2905-345f-9473-39bb29ec4910 | -10.40531 | -52.93073 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| eb562e49-d58e-3a94-b009-5fdcaa4f1d48 | -10.40187 | -52.9302 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c6d33521-da58-31df-ae90-71ec14858ced | -10.35993 | -52.93156 | 2024-09-26 04:59:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 12344329-a77e-380c-9038-8b449f015d19 | -10.30272 | -53.008 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 20d47976-dafb-37a7-bb0c-8a8737a2b9b5 | -10.30101 | -53.01934 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c858624e-7e69-33f1-aa97-2765c4c0df2d | -10.29878 | -53.08066 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 00be74dd-bdcf-33a5-be1d-5ff1ac7ff038 | -10.29759 | -53.01881 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| e8c52a6c-06fc-3da2-b10d-2c19a447f927 | -10.29479 | -53.08388 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f700a0aa-4996-3ee4-8231-0b901c52fed0 | -10.29076 | -53.04094 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 3db89132-ac5a-3949-8fd5-66373768d259 | -10.28733 | -53.04042 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 65c44bc0-7c28-3410-9341-467e2e11b24f | -10.28391 | -53.03989 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 4a71339b-43ea-3ae3-8c75-af56f1cf6398 | -10.28335 | -53.04365 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 8b1c1558-5033-34c2-8775-a5ce09beb6fe | -10.28278 | -53.04742 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b59e931f-dbe1-36e6-bf5b-9b29c3d19a71 | -10.28222 | -53.05117 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 64725944-be4f-3ad6-8692-b8873ea56334 | -10.28166 | -53.05494 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| cfd299d9-318a-356f-88fb-3ec8a7629a04 | -10.27993 | -53.04312 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e527b4cc-11db-3dd4-9494-3e158012da07 | -10.2788 | -53.05064 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ec746e97-8d95-3666-bfc1-81a3d78140a1 | -10.27824 | -53.0544 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f6c96140-e799-3d87-9212-9a59a4cbc8ab | -10.45711 | -53.31031 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 9371ced6-14ba-3fd4-af64-cfb8d0cd59b4 | -10.45483 | -53.30237 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4e6e4faf-0e47-3687-a160-856024f49977 | -10.45427 | -53.30609 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c92aa445-393a-34d2-9dc2-f4fa7081209e | -10.45371 | -53.3098 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| aeb5577b-c05c-30ae-bf43-8866a1fa78f6 | -10.45316 | -53.3135 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| b8b9ad49-af88-3804-961b-d6bd17b3dad8 | -10.45143 | -53.30186 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d293f720-67ec-34c1-b550-e3b313af309e | -10.45087 | -53.30558 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4133d77b-60a1-384b-ad9f-c54091871e30 | -10.45032 | -53.30929 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| be47056e-c511-3480-9d2d-16c7b2afe4dc | -10.44976 | -53.31299 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 224744dc-f3ed-3dce-a207-4e0cf277ceda | -10.04856 | -53.34308 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 745ccab0-06ed-3db0-a28c-145bc25590b6 | -10.04573 | -53.33892 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 95d42282-b588-3f05-ab83-52ca5e149e52 | -10.04518 | -53.34256 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7a61c9f3-cacd-3a10-90b4-3943402257cb | -10.06557 | -53.45791 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| fdec5c6e-2069-3e11-ad8f-cf45a974bfaa | -10.06556 | -53.43551 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 478bee06-df2e-3ae5-a660-3b3ab50566fb | -10.06501 | -53.46156 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d4eac8f5-ab4e-33db-bbe8-d7504b26f814 | -10.065 | -53.43916 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2c3c15c7-4b7a-39d3-8a23-701444f671dc | -10.06275 | -53.43133 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| bc616911-62f6-32cb-a43b-f5e62947bab1 | -10.0622 | -53.45738 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f881ae70-7ee4-39b8-8707-4ee79c4237a1 | -10.06218 | -53.43499 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ccb7e4ce-cb10-3a2b-89b7-e06249f81a11 | -10.06164 | -53.46104 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| be14aba1-96ca-3f7a-a47c-e2c3f3591a20 | -10.06162 | -53.43864 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8d21e49a-08a8-3de8-b579-0caf29832670 | -10.06108 | -53.46469 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 388539dd-4ccf-39d1-9d47-db3cd677cb83 | -10.06107 | -53.44229 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d9882110-29ac-39e8-ae86-ec25d59e3cce | -10.06051 | -53.44592 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3480eadc-d10d-3204-a776-3d705050711e | -10.05995 | -53.44957 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 96f5817e-68ba-3146-9239-6d1480a26014 | -10.05939 | -53.45321 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c91ba993-bbfe-311c-9698-9b3892344d1a | -10.05937 | -53.4308 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7a9a4ed3-2c6d-3347-b4d0-5c9bc0966e75 | -10.05883 | -53.45686 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 93cf5528-3a0b-3d5e-9c00-cc33479086e3 | -10.05881 | -53.43446 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c0b156e1-eb0b-3e3f-9512-b72eea2c4907 | -10.05827 | -53.46051 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| faa28642-d384-3c82-87d7-6e6bef29ba85 | -10.05825 | -53.43811 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| df696eaa-182f-37e7-aeef-d8e5661f76b7 | -10.05771 | -53.46417 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| fa3e65b3-bced-3a2f-a1ca-199c01a30b5b | -10.05769 | -53.44176 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| acb44343-bbd2-3d48-9c30-7983b2f07a2f | -10.05713 | -53.44541 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 4c070725-b2e9-3fa2-9abf-c5d2bfc5b7fc | -10.05658 | -53.44905 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 4cda29ec-61fc-39c5-9fe5-729748ad90bc | -10.05602 | -53.45269 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 9a67a927-5bab-304a-a298-196439c1c11a | -10.056 | -53.43027 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 08a19767-b63f-3925-afa0-774e34c46d62 | -10.05546 | -53.45634 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| ec38419d-0ac3-3eca-a435-87197023fb62 | -10.05544 | -53.43393 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e8f6cef7-38c3-3600-920b-88ebb8add5b4 | -10.0549 | -53.45999 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| beeaae40-f9d6-3196-a54a-8e0e23f04ffb | -10.05488 | -53.43758 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 203d76d7-0ce0-3535-9b7f-33188a16ce8d | -10.05434 | -53.46365 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 1a4f0cd1-1b27-32cf-b3e2-3783bc68d130 | -10.05432 | -53.44124 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b0448a0e-3768-3cf1-91ea-01ed903b4453 | -10.05376 | -53.44489 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 32d8962d-4971-398e-bab5-55bf81213c76 | -10.0532 | -53.44853 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a6d555b8-507f-3f22-bb84-52347f653758 | -10.05265 | -53.45217 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 38fc7203-7e06-302c-a99f-d2965462d0be | -10.05209 | -53.45581 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 9e6a15a5-4ffa-3e55-a13c-632503488860 | -10.05207 | -53.43341 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cd544bfd-8fec-3b4f-8aae-eecfbe1ca93e | -10.05153 | -53.45947 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 414d8555-6e5b-33a4-b43f-05fe3878b2e7 | -10.0515 | -53.43707 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d53b9646-952b-3dc8-8168-4cd1c791e9fc | -10.05097 | -53.46312 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| c8e545ed-a9ce-34e4-871c-8703ec67c459 | -10.05095 | -53.44072 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 26ae8433-9877-372f-9808-a052e4197128 | -10.05039 | -53.44437 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 8d11606c-29b7-3a35-8c2b-9425443dc9d2 | -10.04983 | -53.44801 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| a67a4d8d-4869-3532-9b09-931dda1551dd | -10.04927 | -53.45165 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 682d7e4d-8f94-3469-a798-188cc69534fd | -10.04872 | -53.4553 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 214d755b-da96-348e-a991-d45caf2dc8e2 | -10.04816 | -53.45895 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| 7cf51761-0d3b-3e35-9170-69e9727babc3 | -10.0476 | -53.4626 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| de373d6b-8ab4-3f0c-986c-6f0988e61d0b | -10.04701 | -53.44386 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 3ac3cc24-432d-3844-89cc-17eb61266a37 | -10.04646 | -53.44749 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 57181712-c578-3aa3-8fd2-2b14ac083be2 | -10.0459 | -53.45114 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| e45c08c2-2dc0-3770-a922-e99404d74ef9 | -10.04534 | -53.45477 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 8448b033-e3ad-3242-bb8a-bcc39c149a98 | -10.04479 | -53.45843 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| 633bae10-7545-3203-82af-7c35b437acf4 | -10.04423 | -53.46207 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| 92c1e94b-62a1-3513-afc9-93914fd0007c | -10.04364 | -53.44334 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| cdd20af3-e76f-3f72-94fb-266b2910e2a6 | -10.04308 | -53.44698 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| a233fbd3-15a5-3775-9337-e2e10adea91c | -10.04253 | -53.45062 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 40125db2-1073-37eb-bc9f-680b4fd1457f | -10.04197 | -53.45427 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 438bed78-0499-3568-8026-d7527f7c61da | -10.04141 | -53.45791 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 126.1 |
-| 70ba46a1-1b25-3002-96ba-3bebe331f8fe | -10.04086 | -53.46156 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 126.1 |
-| 3dc4531a-ac1f-3ff1-9ba6-aec436c8530c | -10.03971 | -53.44646 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 8200aba3-4d7b-3a00-840a-c541fb92b36f | -10.03915 | -53.45011 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 4bcb82b8-4827-3f0f-a860-bb8922614bdc | -10.0386 | -53.45375 | 2024-09-26 04:59:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| a1eb0eb7-5eff-3ed2-9b29-dd9933ef666e | -7.78254 | -61.18772 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| 0b3ee51f-2ca3-3cee-a1c6-ddedf5e76dc4 | -7.78198 | -61.19128 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 9f2d6b4d-c764-35e1-9a52-53edaef3224f | -7.78143 | -61.19483 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 3e89dd1f-ae10-3864-9f28-6d0562dcad6b | -7.77974 | -61.18365 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| 23841599-50c9-3fb9-8478-4f7cde13ce4e | -7.77919 | -61.18721 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| bc01dad0-7d78-329d-82e6-6f47500b9129 | -7.77864 | -61.19076 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 34787bc6-774a-3730-98f6-6ab083738472 | -7.77809 | -61.19431 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 15e28e9f-cfb5-3f6e-a3fd-135f4b454830 | -7.77639 | -61.18313 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 02fd7ad6-c6d7-3541-ac72-f9d3a383fd70 | -7.77584 | -61.18669 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 86da423c-353d-3c29-aa3c-0e1c15dfddea | -7.77529 | -61.19024 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| dc04cd2f-42f4-3454-88c9-2c25dcfef05b | -7.77474 | -61.19379 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| d79f3350-1fe6-3ecf-a94b-819727168473 | -7.7725 | -61.18616 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 1622aaa1-98a7-3f5c-abfe-80d1b93c57bf | -7.77195 | -61.18972 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| 4b661a13-12e8-3e59-8d92-2fefbf1e6f9a | -7.7714 | -61.19327 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| f7d464fb-05aa-3dc5-99b9-12af373cb7de | -7.77085 | -61.19682 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 2e2d4c06-07e0-319d-90b4-a8b8c7f6865b | -7.76805 | -61.19275 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 67b8fab9-95d1-343f-b8ac-1a12508d3c79 | -7.7464 | -61.22208 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 03f22cd0-21a5-3fe7-8bfc-057aa05c7340 | -7.74585 | -61.22562 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 2099039c-e3c3-3708-9532-2ab3e25b133a | -7.74305 | -61.22157 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 2ffa01ff-726c-3223-b782-20727b39e2a1 | -7.72695 | -61.2372 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1d12a09b-2471-37d7-bc2b-0b79f4f63061 | -7.60806 | -60.97831 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 134c5b4b-cf10-3e03-b0a8-e7a6762ee797 | -7.60526 | -60.97421 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| c23cb951-e649-3566-9c81-9eb7db735e13 | -7.60471 | -60.97779 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| bf861c05-fcee-3b40-8676-9841eba01143 | -7.59629 | -60.96548 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| c3ec593e-8217-369d-8015-702f593ddddd | -7.56852 | -61.32103 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4401cb39-8560-34ee-b92d-901e88eebd24 | -7.56518 | -61.32051 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 3ddd13f2-da64-34ad-90a1-4f57e72bc019 | -7.55915 | -61.35925 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 55a92d93-27ff-3947-9eea-da83d08b542c | -7.55637 | -61.35521 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 592289d9-42f8-323a-be09-01a5b6159e64 | -7.55582 | -61.35872 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| da5d75d0-20bd-3dcf-9e90-592f635c4674 | -7.53298 | -61.32998 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 10079182-7345-3689-864f-dbda708a7962 | -7.47803 | -61.33222 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| ece4c279-4424-3d26-b04b-e2bc6e7f82c4 | -7.47469 | -61.3317 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 53917641-7042-3ecd-95a7-4cb46f202b8a | -7.47415 | -61.33523 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 8c63d814-e219-3920-8332-2353d0e6f132 | -7.92542 | -61.557 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1522ce5b-cf95-30b9-82d3-9889ba3f53e3 | -7.91822 | -61.55946 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 96f13d13-a026-3db8-a479-ca907367b8a6 | -7.87757 | -61.66792 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9c8956d2-1518-3b92-ad6a-05bbb52ad9b2 | -7.87479 | -61.6639 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 88c55440-1946-3c67-a9e1-54dadcb6e805 | -7.87425 | -61.66739 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b52afc84-84f1-341f-8e02-592bac4acb4a | -7.82309 | -61.67017 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a6b55c82-a08d-3834-aa15-12904768ed58 | -7.82254 | -61.67366 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d61e0906-e8ad-3256-bb64-5dd2921e4268 | -7.82031 | -61.66615 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 930f9e3d-daba-3db2-aee8-b8696c6c7dec | -7.81977 | -61.66965 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 28930500-ae03-36fd-9eef-8dc25dfedb54 | -7.81922 | -61.67314 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d40c8f79-9511-3576-bb5b-05fc39bbb775 | -7.81699 | -61.66563 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 19177ae7-3b53-3108-816f-854372932c1c | -7.81645 | -61.66913 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 66b7d8dc-401f-37b9-9d31-62537d33778d | -7.6401 | -61.53748 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 701cd5f5-721d-38b6-8112-1f2a7b9f49ac | -7.5976 | -61.59178 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c9203109-0750-3610-97d3-e639ff802d09 | -7.56935 | -61.57661 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 95d4565b-e647-3b63-bb65-f7f243183860 | -7.56711 | -61.56911 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5774e237-3403-36e3-bfa2-b33b2b873420 | -7.53478 | -61.38428 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| d068df6c-e698-3cd2-abf7-3439dbc80c0d | -7.53424 | -61.38779 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| cb5b30c2-1a08-3f67-a616-649ecccbad2a | -7.53255 | -61.37673 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 758224eb-8f82-3060-ad65-0f62d73e0be5 | -7.532 | -61.38024 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| e499cedc-4d50-3b45-9534-0259dab8ad4d | -7.53145 | -61.38376 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| d09cf51e-8556-3860-adbd-7012bd79f58b | -7.53091 | -61.38728 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| ddbfda29-4598-396d-8b75-a928615c6d6f | -7.52922 | -61.37621 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 7f8a6991-05c1-32d3-b333-dea02222f3c5 | -7.52867 | -61.37972 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| a1430968-0396-3129-a861-9e72c225ab6c | -7.52812 | -61.38324 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 6772849f-da3e-3ab4-9880-2e3e60d0e6ab | -7.52589 | -61.37569 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| e6ab9485-267b-31fd-8d24-80eea6551bf9 | -7.52565 | -61.50861 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 92d5686c-808a-3854-ac3e-f51cfebd5569 | -7.52534 | -61.37921 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 501c50dc-151b-3b66-87bf-b0d29f046d5a | -7.52287 | -61.50459 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| aa490cbd-73fc-3274-99fd-1e8f44dc4291 | -7.52233 | -61.50809 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| ef8d98a0-7c85-3aa6-9701-1782778a47d3 | -7.519 | -61.50757 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 745fdb91-80a3-3987-bf9e-7d91c1eab4d5 | -7.51737 | -61.51806 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| da3a7104-7c70-33ae-b6d5-bd2f608fbdb4 | -7.51459 | -61.51404 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 99b759e0-3436-31fe-995c-3255b3cfade3 | -7.42547 | -61.41109 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 68342031-0437-3ed0-99fd-f0fc61b4260f | -8.0058 | -61.21507 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 61cf8e00-530d-3237-a746-fdbd6d774406 | -8.00525 | -61.21862 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f800f60c-5cff-3091-8f3c-9805d32bc6eb | -8.0047 | -61.22218 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8d0ca44a-f8bb-3fe3-a8e7-50e23ee75a9b | -8.0019 | -61.21811 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| dafa2796-61e4-3af5-b906-5dbf9c0430db | -8.00135 | -61.22166 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 54d64cc2-cd92-3a45-aaeb-1c8dac37cfd3 | -7.99855 | -61.21759 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4307c6d5-a2f9-33b8-a67d-47822dfe5104 | -7.998 | -61.22115 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 71c08813-1ddb-3f07-aa22-1058acaa45ef | -7.99745 | -61.2247 | 2024-09-27 05:27:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 847e8bb2-9d00-3970-8482-fd60fa5a2b31 | -7.9952 | -61.21708 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7659069e-f075-3312-8a48-8ab4f15b78cf | -7.99466 | -61.22064 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| adf1cfd6-4a13-3262-be8c-e8dc8f61ca30 | -7.9941 | -61.22418 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| cc808e40-0972-3153-be91-11a6f03ce1a7 | -7.99356 | -61.22773 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e8c38e9f-2cd3-3eb6-a687-346e9454f48a | -7.99186 | -61.21658 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6a4962b1-9532-33bd-ab1f-f681004aedc6 | -7.99131 | -61.22013 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e64c622d-8596-3e17-8015-88f82224b3a5 | -7.99076 | -61.22367 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 87d8c68e-6080-3f1e-b439-823e7804bc41 | -7.99021 | -61.22722 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f253779e-a829-3752-8edc-f60eae63580d | -7.30515 | -61.08886 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 45104d69-15f4-3ceb-a768-45b5d912fb00 | -7.3046 | -61.0924 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 75c7a009-3bdf-31ef-8602-ec6f2b32e10e | -7.30406 | -61.09595 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f6922ee0-17c8-37ef-b6f3-666632aef9d0 | -7.30235 | -61.08479 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e0e29e50-5f70-3b6e-b0c9-540116b859fe | -7.3018 | -61.08834 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 10c72a01-67c4-315f-8189-657cff9f21a2 | -7.30126 | -61.09188 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b57fee3d-ce60-39a0-aa2d-6e8f39d1d25d | -7.30071 | -61.09543 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d1a239de-47f2-3b74-bcf7-b184c70206a8 | -7.29846 | -61.08782 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e1fd0e57-70be-319c-85ba-da8239ed529f | -7.29791 | -61.09136 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 38db4622-5d56-322b-b4ad-d084fa52154e | -7.29457 | -61.09084 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4d1521c2-7340-3fc9-90c4-bba556442041 | -7.29068 | -61.09387 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| b3a115fb-5ea2-35cc-8a3c-13580467c3d8 | -7.28733 | -61.09335 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 8e64417b-23b0-37e5-bc94-023e12bbda97 | -7.28399 | -61.09283 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 2c49cffb-2e9c-3f7b-9664-2418acca72ad | -7.28167 | -61.09259 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ea4d0cd4-5459-334f-ae8d-4ac881e113e7 | -7.28112 | -61.09613 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| faa9fbe3-8443-3883-8540-048ebe87d9cf | -7.00763 | -60.6923 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4426c965-d5dd-30a3-ba6e-624db20df704 | -7.00594 | -60.68097 | 2024-09-27 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
 
 
 [Clique aqui para ver as próximas entradas](README123.md)

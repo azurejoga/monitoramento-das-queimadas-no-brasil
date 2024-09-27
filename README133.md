@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| da487c4f-1773-3f89-8fcf-5e7a1639c37b | -10.88088 | -57.45664 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| f5ba22e7-ccc0-335a-b859-600102f59e30 | -10.88047 | -57.48055 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8fca6622-de9a-3446-9ecc-e95244273710 | -10.87767 | -57.476 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 142da60e-65a5-3cb6-a5e3-aec72b73f508 | -10.87703 | -57.47989 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8d783ec5-2479-36fc-b2d6-cbabee3237ec | -10.87679 | -57.4599 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| b7112b91-506b-3f01-9873-5ead53724896 | -10.87398 | -57.45547 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c14a4e1f-d62b-3cd7-b8bb-65ce5cebdfbf | -10.87358 | -57.47927 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 2b265f49-7c4b-34e2-aafc-13f7b6100e21 | -10.87334 | -57.45931 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8b742ae8-146f-3024-ac6b-929b4ff75723 | -10.87206 | -57.46701 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| feb3b272-1585-3ddc-8188-01dacab5fe19 | -10.87142 | -57.47089 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 2c7f04c9-87c0-39e9-abda-53f9599d197e | -10.87013 | -57.47866 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 4936bb0a-77e8-324b-929e-ec174b84c358 | -10.86989 | -57.45872 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 5a0c419d-e752-3673-9067-c691ddb9b3f7 | -10.86926 | -57.46255 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 2d6a512f-a9c6-30a9-a9f8-60050d9cf377 | -10.86861 | -57.46641 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 7d54c665-edb7-38fc-afb2-e7e5505b8268 | -11.62472 | -57.10218 | 2024-09-26 04:59:00 | NOAA-21 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 264d913b-a1b4-3372-bec7-a711f8f7a607 | -11.05017 | -57.30484 | 2024-09-26 04:59:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| db9e42e1-c8dc-38ac-a27c-5b4d4dbf436a | -14.9379 | -57.95466 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| e91b88d3-2e83-32d6-92a0-e8a66a800353 | -14.93727 | -57.95845 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 0ae6aa54-a158-3074-bd53-87732f3cf118 | -14.93199 | -57.9692 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 808d8d55-a41b-3ac8-8c47-63d283b243ec | -14.92483 | -57.99121 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 0a47e81f-704a-375a-bbfe-6ff0836c98dc | -14.92143 | -57.99062 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| ca3133fa-ea93-35c2-95bc-f14b7d7bb23e | -14.9208 | -57.99439 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 27400ed4-1c78-3f44-9db5-bbd86285d9d9 | -14.92018 | -57.99815 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ee2384d9-a6d6-3c1d-af80-a898b0a35e2f | -14.9174 | -57.9938 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 85acd156-fbf8-3597-92e4-4e13086a4d27 | -14.91677 | -57.99757 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 8f705f6a-7138-376b-8d76-5e0a693234b0 | -14.91213 | -58.00443 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3b2cf3b2-34bf-3937-a81c-d0c2274964b5 | -14.91153 | -58.00808 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| a442cc95-63c9-3acb-b6c7-639846f56af2 | -14.90997 | -57.99638 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| fea96faf-da59-3229-a3a1-e1cb63f65a92 | -14.90657 | -57.99576 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c01ad862-4ef7-34a6-a426-69339560d98a | -14.90413 | -58.0105 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 31f799d8-21d4-3887-a458-b008e4ffe7f4 | -14.90359 | -58.01038 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 279299b0-cb2e-363a-a3e0-a22d6d29ef2e | -14.90351 | -58.0142 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 73eb01ac-f844-370f-856f-63694871e3e1 | -14.90298 | -58.01408 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 39863f6c-f38e-3941-bb38-8d258a720e2d | -14.90289 | -58.01794 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 548f8d73-1a93-38ac-adf0-8d44338e9b7f | -14.90237 | -58.01783 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 552368ad-bd12-327e-bd31-dff0000a9160 | -14.90019 | -58.00978 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| bdc7413c-8ccf-3d91-9108-a4f048404b54 | -14.89958 | -58.01349 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b51778cc-e8e0-3998-9c30-77c939ac706c | -14.89897 | -58.01723 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 12b05aea-c0d7-32a7-baf0-47f25c32a0e8 | -14.89679 | -58.00918 | 2024-09-26 04:59:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| fe8b789c-004c-3d82-bf9a-0309dfe4c88a | -15.35397 | -58.18131 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| 0794d607-01b5-316c-9b59-6858266ee91a | -15.35057 | -58.18064 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| ab648ff2-b8da-3c25-8cca-1f330a93ca0f | -15.3499 | -58.18461 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| e6367f73-d1ff-385e-a597-bf3c5fcf21f2 | -15.34503 | -58.17175 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| f0aad0f3-60eb-392d-9d59-e2deef6a9a04 | -15.3444 | -58.17554 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 6b1a70ce-ad2f-3716-844e-1361314b1d8c | -15.34312 | -58.18323 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 98ecf26b-0558-350d-ab75-94a5fe9966a8 | -15.34286 | -58.1637 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| ad2e311e-67a0-3bdf-8fc2-488b0a6031e8 | -15.34224 | -58.16744 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| d5551a71-d56e-3ba4-9ca6-87b742b8bf70 | -15.34099 | -58.17497 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 800720ff-9b57-38c0-91a7-fe695418e643 | -15.34049 | -58.19897 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 3e284721-7f24-327b-bdc9-4faa03f32d03 | -15.33944 | -58.16316 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 25a12f82-128c-307c-8cb1-2a7f34c270fc | -15.33909 | -58.18635 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 05525986-082a-357c-86f0-0133c034db09 | -15.33882 | -58.1669 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 3c032d68-ed15-3483-9edf-c547ea232bad | -15.3354 | -58.16636 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 2bb71b23-30b6-3466-a9d4-7d01838341d1 | -15.32174 | -58.16408 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| b4ebac46-ffa9-3215-8108-04eef8d37212 | -15.31949 | -58.1986 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 2bb76dbd-c5a8-3392-a335-397ee1fa64b3 | -15.3177 | -58.16728 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 28ef56a3-d38d-375b-82ab-ffd4789d92b8 | -15.31608 | -58.19797 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 8fa01fb3-2c9b-3741-8334-4cb83530e216 | -15.31365 | -58.17049 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 994ac3fb-a3be-3d5f-be77-ca98efc3daf0 | -15.312 | -58.17857 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| dc7a2854-d761-35d0-8e90-4000d1aa8313 | -15.30858 | -58.17804 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 1a2279c1-f44c-35f0-a958-9a99b2bab231 | -15.30578 | -58.17371 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| f2045027-5a77-3205-af51-71b6caa839f8 | -15.30454 | -58.18128 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 3a495a49-efc4-37d1-b10a-db8267c8e417 | -15.29833 | -58.17638 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| c0999513-1e75-36fc-8c7e-05c9a190f9cc | -15.29771 | -58.18013 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| abad3ba6-4a07-36d1-9c0b-371d6633a3ca | -15.29367 | -58.18333 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 6ef3f7e0-b841-338e-b4c7-38253fcc523b | -15.29305 | -58.18709 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 344b25e1-63cb-346a-bfb3-6af692082fdc | -15.28807 | -58.1747 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 2b4aac2f-3a3a-3fdf-b78e-3ab197a167f1 | -15.28776 | -58.1979 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 091bdadf-f533-334f-b4e0-d5d79a95887f | -15.28466 | -58.17415 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 1e37e6b0-d2b4-3c4d-a5b7-6bb2e92a8b3e | -15.28124 | -58.1736 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 8bdf6777-c599-3e21-9540-c084d7e43ec8 | -15.27557 | -58.20788 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a7bb90ca-5aaf-3b2a-a44f-c21908a17de8 | -15.35735 | -58.18203 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| 42549743-e641-3d4a-a3b4-ad976980666d | -15.35122 | -58.17673 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| ad3158e0-8b20-3e83-80aa-6504a96b220c | -15.34717 | -58.17997 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 7af5fdd1-2c30-3a7b-aa17-cb0f7bcd85f7 | -15.34566 | -58.16798 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 7ce130e6-ac35-30be-951b-68854ef8c4fe | -15.34388 | -58.19964 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 017f91be-8b02-311c-ad0f-f488571054be | -15.34162 | -58.1712 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 26f2155e-c722-39f7-9509-5c8ad5ba7f0e | -15.33603 | -58.16261 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 4fd92f52-1e84-343b-ba75-c381594f7f59 | -15.32733 | -58.1727 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| d69ed56c-51ec-3565-b995-cf0a606c39a6 | -15.3267 | -58.17645 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 737455fd-3b9f-3255-9b7b-f9d33244a24f | -15.32454 | -58.16839 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| c1faea39-fed4-3e93-8b87-746640932792 | -15.32391 | -58.17213 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| bc38ef7e-21f7-3bd3-b27a-0357400207d5 | -15.32112 | -58.16782 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| d9c35c07-c85a-3f5b-b3fa-c7caf807ce9f | -15.32014 | -58.19471 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 4a93ca94-53e1-39d3-9847-a84cf7ae0abe | -15.31707 | -58.17104 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| dab2389d-da19-3153-9093-cf8df5308694 | -15.31672 | -58.19414 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| d97b9e4d-bf85-3942-bdc2-f0f0251e6f78 | -15.31645 | -58.17476 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 95899d6d-0648-36cd-82d8-559252acb750 | -15.31583 | -58.1785 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 7155be98-84cd-32b0-b03a-0d6086fbd008 | -15.3152 | -58.18227 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| ffd5ab8e-3a18-3d9c-b3d0-9582cdb6be1e | -15.31323 | -58.1711 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 35b74c13-118b-36c8-a104-1962b82a7b29 | -15.31303 | -58.17423 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| e20fe5e6-efef-3ac5-887d-85514078f83e | -15.31261 | -58.17483 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 99a9b1b3-840b-3bf1-bfe6-e09f547cc4b1 | -15.31241 | -58.17796 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 46fa0006-dcc2-3bf0-9b10-eb34eb23a4f6 | -15.31178 | -58.18172 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8c91001d-ad63-3631-9c54-bce1f386de56 | -15.30981 | -58.17053 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 0e8adbcf-f0e7-3040-b354-01908ea8c778 | -15.3092 | -58.17428 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 9b743bf2-d692-3445-b9f4-b00901a35195 | -15.30516 | -58.17749 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| b292a5f8-e3fc-3f09-af8d-f1d1cbb857f9 | -15.30392 | -58.18506 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 8c80a2f2-d425-3b17-bfd0-bb1f612fc052 | -15.3033 | -58.18885 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| d6454ad9-515e-3c52-9190-57bfcde1e5fb | -15.29243 | -58.19086 | 2024-09-26 04:59:00 | NOAA-21 | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 1c95f83a-6f4f-3715-b747-456590acb894 | -9.4168 | -51.4636 | 2024-09-27 11:46:00 | GOES-16 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| 1744ab2d-d893-3063-b357-59468b3bba1b | -9.417 | -51.4426 | 2024-09-27 11:46:00 | GOES-16 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 165.4 |
+| f43ec7f4-6bff-39cc-8f11-7761c74c2f89 | -10.0136 | -53.467 | 2024-09-27 11:46:03 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 161.4 |
+| 48732c78-d1e2-3f6b-95e9-8d3db23bdb9d | -10.0139 | -53.4464 | 2024-09-27 11:46:03 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 444.8 |
+| 3c58b087-c737-3b89-89df-41c40dc4ddb4 | -10.0134 | -53.4875 | 2024-09-27 11:46:03 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 72.6 |
+| a17aadd5-4c59-3195-a92b-03b3be0d6663 | -10.0322 | -53.4859 | 2024-09-27 11:46:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 337.6 |
+| c6703cae-2518-33a7-8387-31c0fbe9cb82 | -10.0324 | -53.4654 | 2024-09-27 11:46:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 712.0 |
+| 26c8e8a3-b73b-3d0d-b7ab-160e2f263ec4 | -10.6438 | -45.9544 | 2024-09-27 11:46:06 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 147.3 |
+| 60d17552-8f49-3ff3-8c12-168b04b0731b | -10.6434 | -45.9772 | 2024-09-27 11:46:06 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 155.3 |
+| ef973902-7905-3dc6-8b2e-6811a1c0c14b | -10.8143 | -46.0005 | 2024-09-27 11:46:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 245.0 |
+| 15206d60-241a-3624-9f59-d71a3c043236 | -10.8334 | -45.998 | 2024-09-27 11:46:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 283.8 |
+| a0ba39fa-599e-3a98-b237-586625d9381f | -10.8337 | -45.9753 | 2024-09-27 11:46:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 147.4 |
+| c7a1ee70-b5a6-3005-8c48-a288ec6c647a | -10.8146 | -45.9778 | 2024-09-27 11:46:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 126.4 |
+| e9f3df98-ddd3-3dbc-9b64-7744df44f1b9 | -11.2025 | -45.5616 | 2024-09-27 11:46:09 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 183.8 |
+| 26148230-3cb5-3661-aac6-3bd9f81c61a1 | -11.0976 | -46.1446 | 2024-09-27 11:46:09 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 70.3 |
+| e2888868-2952-3acc-aa9a-64925de35f3a | -11.0972 | -46.1673 | 2024-09-27 11:46:09 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 189.2 |
+| d0045f6b-9d7a-3e75-9110-d9408f0070c2 | -11.2695 | -46.1216 | 2024-09-27 11:46:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 86eef3a8-0ac6-329a-bbb2-effdc9056809 | -11.6605 | -44.5041 | 2024-09-27 11:46:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 76.4 |
+| 7eec07c1-ae29-324b-af2e-a0ee0984c010 | -12.2367 | -45.5045 | 2024-09-27 11:46:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| 6bf2bcb0-c5c2-30d2-81d3-f935a9fd2d41 | -12.2666 | -50.5317 | 2024-09-27 11:46:16 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| a300c715-de6f-3ca2-a692-58877e1267f6 | -14.7114 | -45.4863 | 2024-09-27 11:46:29 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 94.5 |
+| 17959e9e-1736-393a-9613-bbc1c6f2853a | -14.7305 | -45.5061 | 2024-09-27 11:46:29 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 255.4 |
+| a9d3ea10-c72a-35be-b3b9-90e3693c7972 | -14.9026 | -51.4534 | 2024-09-27 11:46:30 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 87.5 |
+| 984f7454-7649-3fdb-b66d-04dac1b3726c | -9.417 | -51.4426 | 2024-09-27 11:56:01 | GOES-16 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 142.0 |
+| 1543cf1b-0e38-3080-9590-ebe7589b8422 | -9.4168 | -51.4636 | 2024-09-27 11:56:01 | GOES-16 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 77.5 |
+| 0003f9f6-f99d-36f9-89b2-5a234009d809 | -9.4356 | -51.4619 | 2024-09-27 11:56:01 | GOES-16 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 104.9 |
+| baaa8b23-b26b-3824-bdf2-77287219ee8b | -10.0324 | -53.4654 | 2024-09-27 11:56:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 659.8 |
+| 219a1c09-8302-3b90-9203-6ce387f12b62 | -10.0136 | -53.467 | 2024-09-27 11:56:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 263.0 |
+| 564d173f-1424-3902-9b9b-5f6171611223 | -10.0139 | -53.4464 | 2024-09-27 11:56:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 513.0 |
+| f31276a5-fe0f-327f-8585-59a25f9a0ffb | -10.0134 | -53.4875 | 2024-09-27 11:56:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 121.0 |
+| dd4ea501-3aa3-345f-9dd7-af73571504cc | -10.0322 | -53.4859 | 2024-09-27 11:56:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 299.2 |
+| 1776b523-a353-3316-bc67-4aa4858e2e19 | -10.0513 | -53.4638 | 2024-09-27 11:56:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 90.8 |
+| 48ef9cdd-1715-36ca-9262-b24009914d2e | -10.6639 | -45.8838 | 2024-09-27 11:56:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 80.5 |
+| a1116a9a-63b2-3d35-b292-20775cbaa806 | -10.6452 | -45.8635 | 2024-09-27 11:56:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 70.4 |
+| a469c9f4-f991-3b20-a665-2653069956d9 | -10.624 | -46.0023 | 2024-09-27 11:56:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 242.5 |
+| 138f818c-ec71-3004-afc9-29b396fc6c99 | -10.6643 | -45.861 | 2024-09-27 11:56:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 134.1 |
+| 8fbddeb0-b707-3be0-a040-e45c43f41a84 | -10.6244 | -45.9796 | 2024-09-27 11:56:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| 8d8227ba-45b4-3576-b07e-e0dbdf6e47f4 | -10.8334 | -45.998 | 2024-09-27 11:56:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 282.9 |
+| 57d12eba-73fc-3a1b-8f44-9422c36d3a28 | -10.8337 | -45.9753 | 2024-09-27 11:56:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 160.4 |
+| 094568ce-3936-3048-a362-914b0084250b | -10.8143 | -46.0005 | 2024-09-27 11:56:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 171.9 |
+| ce0a2250-7b7c-3cf2-b8bb-f32bc745fdac | -10.8146 | -45.9778 | 2024-09-27 11:56:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 90.4 |
+| 7d283a2d-d1be-37ac-b079-2412ef9fce35 | -11.2504 | -46.1242 | 2024-09-27 11:56:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| 2af7b62c-cd21-35fb-923c-38969fc3fe5e | -11.2025 | -45.5616 | 2024-09-27 11:56:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 173.1 |
+| 76899981-a374-3fde-b624-7a861aad5999 | -11.2029 | -45.5387 | 2024-09-27 11:56:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 85.1 |
+| 9101e80d-6338-3ee5-8786-de8b1b216f6c | -11.2217 | -45.559 | 2024-09-27 11:56:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 103.7 |
+| 695761c6-779f-36c6-ae10-03b57f1ddadf | -11.6605 | -44.5041 | 2024-09-27 11:56:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| 5772b18a-18c5-3fc0-b037-079e2782d994 | -13.235 | -45.6245 | 2024-09-27 11:56:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 120.2 |
+| 5dc4ffce-d21f-328d-8659-ab197b402aab | -13.2156 | -45.6276 | 2024-09-27 11:56:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 98.4 |
+| 7c9d4925-26c6-3b91-b63d-47a49f760d35 | -13.2152 | -45.6507 | 2024-09-27 11:56:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 89.9 |
+| 321de441-4ea7-32fa-91e4-ff56a3a409b8 | -14.7119 | -45.463 | 2024-09-27 11:56:29 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 2e4f05a7-a9f8-34d0-b1d3-95908dce5846 | -14.7114 | -45.4863 | 2024-09-27 11:56:29 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 85.9 |
+| 056f0c9f-c949-3ca5-9630-a2ff4856f0f5 | -14.7305 | -45.5061 | 2024-09-27 11:56:29 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 179.1 |
+| 58969a7a-ed70-303c-a87b-f35948dbbdac | -14.8832 | -51.4561 | 2024-09-27 11:56:31 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 102.4 |
+| 1b095f6a-2ea9-3c31-b4bc-488ceb1d63d5 | -14.9026 | -51.4534 | 2024-09-27 11:56:31 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 104.9 |
+| 76a6dcd0-c37b-3b2e-a832-4170df5ba874 | -18.0553 | -44.3645 | 2024-09-27 11:56:47 | GOES-16 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| 424620ae-1bee-3d80-aebb-a01f9cbbbc0a | -10.83 | -46.0 | 2024-09-27 12:04:23 | MSG-03 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8594a6bb-e5a1-35ef-8516-a7ec3d5671ff | -10.01 | -53.48 | 2024-09-27 12:04:28 | MSG-03 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ee85c2d9-1ee5-389e-999f-31305fddda6f | -10.01 | -53.41 | 2024-09-27 12:04:28 | MSG-03 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f059fc2c-eca6-398a-bad1-e0f7781e2115 | -10.04 | -53.48 | 2024-09-27 12:04:28 | MSG-03 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e54d994f-c5b8-356e-998a-c3da5ad2dfd1 | -10.04 | -53.42 | 2024-09-27 12:04:28 | MSG-03 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8c364483-8b43-3e11-8424-397f67fd1033 | -9.4168 | -51.4636 | 2024-09-27 12:06:01 | GOES-16 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 152.1 |
+| 6d8f012b-9da8-3cc7-a95b-720de34532a1 | -9.417 | -51.4426 | 2024-09-27 12:06:01 | GOES-16 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 263.3 |
+| 045e948e-8eac-3d9f-8ffc-68b6179c9b55 | -10.0134 | -53.4875 | 2024-09-27 12:06:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| dea0fd24-8648-3937-b9d8-87e253af8a7e | -10.0513 | -53.4638 | 2024-09-27 12:06:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 114.7 |
+| 03757de9-ffe5-31fe-8bad-9e2f1793da08 | -10.0136 | -53.467 | 2024-09-27 12:06:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 207.2 |
+| 4fe73b6a-ea75-3baa-a6c0-0c824ddcca16 | -10.0139 | -53.4464 | 2024-09-27 12:06:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 600.3 |
+| 1a381163-741c-3af8-b1cf-c0fcca4d8e42 | -10.0324 | -53.4654 | 2024-09-27 12:06:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 718.6 |
+| d33f1d10-3977-37bf-b736-94886abf0f23 | -10.0322 | -53.4859 | 2024-09-27 12:06:04 | GOES-16 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 231.6 |
+| 219d250f-911b-31f6-a267-9a5d78f507a0 | -10.8143 | -46.0005 | 2024-09-27 12:06:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 243.8 |
+| f0ea6d5a-e13b-3687-90fe-2af8302e1624 | -10.8146 | -45.9778 | 2024-09-27 12:06:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 184.1 |
+| 402d2a10-ca56-3c6e-9445-0be0b7e128ad | -10.8337 | -45.9753 | 2024-09-27 12:06:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 296.4 |
+| 4aa1c511-1047-33c6-923b-b1c2864caa4b | -10.8334 | -45.998 | 2024-09-27 12:06:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 383.4 |
+| 21171f5a-2d05-35ba-8135-9e9cbfba2022 | -11.2029 | -45.5387 | 2024-09-27 12:06:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 101.4 |
+| 2c2f81e4-3dce-3465-a856-d285110e49b7 | -11.0969 | -46.19 | 2024-09-27 12:06:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 69.1 |
+| c24fd449-3802-3c4a-9a35-622fc69988e5 | -11.0976 | -46.1446 | 2024-09-27 12:06:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 96.1 |
+| fd190fb1-d9e0-3cab-a614-3ad560161fd3 | -11.2217 | -45.559 | 2024-09-27 12:06:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 91.4 |
+| ccfe4a49-0c92-3941-8209-4ed88eceb225 | -11.0972 | -46.1673 | 2024-09-27 12:06:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 217.1 |
+| 9ff19632-1860-3796-b922-fdebaa16b44c | -11.2025 | -45.5616 | 2024-09-27 12:06:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 234.2 |
+| ce6417e1-b3e8-37f3-be5d-c898bdc0a07e | -11.333 | -46.9024 | 2024-09-27 12:06:11 | GOES-16 | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 68.6 |
+| 4ad1a23c-0f5f-3fd3-9d62-63db1979f0e0 | -11.6605 | -44.5041 | 2024-09-27 12:06:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 192.9 |
+| df4c1c1e-18e6-3471-be57-3a11a6995f3d | -12.2371 | -45.4815 | 2024-09-27 12:06:16 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 74.6 |
+| 339844dd-a78c-3c74-80b4-ee49c307dacb | -13.2156 | -45.6276 | 2024-09-27 12:06:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| 39d24d15-e3dc-3f41-be3b-64ca013f55f5 | -13.235 | -45.6245 | 2024-09-27 12:06:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 162.1 |
+| b0bbd580-035e-3d6e-b31d-508cd41b4618 | -13.2152 | -45.6507 | 2024-09-27 12:06:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 118.9 |
+| a413bf59-cebc-3de9-97a7-5e1378c28fd8 | -14.8832 | -51.4561 | 2024-09-27 12:06:31 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 97.4 |
+| ba8e229c-4dd5-31cf-a014-ce36a78348a8 | -14.9026 | -51.4534 | 2024-09-27 12:06:31 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 168.6 |
+| aa3967b1-bc46-3d7c-a9e5-c7a2604de6c5 | -18.0553 | -44.3645 | 2024-09-27 12:06:47 | GOES-16 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 7c73f3e6-d024-34a5-b69e-97cab4e66289 | -9.4168 | -51.4636 | 2024-09-27 12:16:01 | GOES-16 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 104.9 |
+| a2a16e0d-ffc7-31eb-a5b0-474ee7690d8f | -10.3167 | -46.2216 | 2024-09-27 12:16:05 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 80.6 |
+| 8501a2a5-5792-33d7-ac85-69c8ef1e474d | -10.6643 | -45.861 | 2024-09-27 12:16:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 71.8 |
+| 799da0b0-8537-3009-a967-d80cefa923ac | -10.6639 | -45.8838 | 2024-09-27 12:16:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 69.2 |
+| 968ecbc1-0882-39b0-a502-0964d81f693c | -10.8146 | -45.9778 | 2024-09-27 12:16:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 126.0 |
+| 3ae22447-155e-37f0-aba8-297929129c90 | -10.8337 | -45.9753 | 2024-09-27 12:16:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 247.4 |
+| 46c652ad-1868-3370-8a52-dd044b84132e | -10.8143 | -46.0005 | 2024-09-27 12:16:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 200.6 |
+| 1b85ee3c-1cac-3345-a254-07dc4555e26f | -10.8334 | -45.998 | 2024-09-27 12:16:08 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 373.6 |
+| e03dcc45-7ae9-389d-974b-ab6e796d2c8b | -11.0976 | -46.1446 | 2024-09-27 12:16:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 178.7 |
+| f1c55c7f-62d0-3c0e-9f52-1a5eabde398a | -11.116 | -46.1875 | 2024-09-27 12:16:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 63.4 |
+| 760bade6-dc85-3607-9d8f-fecbec5271d7 | -11.2217 | -45.559 | 2024-09-27 12:16:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 176.7 |
+| 83bdf8d3-f9f8-3746-800e-febdd0db20e7 | -11.2025 | -45.5616 | 2024-09-27 12:16:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 331.8 |
+| 045b7131-3c48-3a3c-8148-fd5216ab8f06 | -11.2029 | -45.5387 | 2024-09-27 12:16:10 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 139.4 |
 
 
 [Clique aqui para ver as próximas entradas](README134.md)

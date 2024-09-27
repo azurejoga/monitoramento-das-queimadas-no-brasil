@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| d58618f0-b4fe-350b-bb50-23ae20c40a0c | -20.82279 | -47.22187 | 2024-09-26 04:10:00 | NOAA-20 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 93046dcc-11a1-3683-954f-f0cac3c0c21e | -20.82208 | -47.22599 | 2024-09-26 04:10:00 | NOAA-20 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ce51de10-ac20-3b35-b3ca-80735cce3c56 | -20.81862 | -47.22523 | 2024-09-26 04:10:00 | NOAA-20 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a30277b7-0e77-3712-8670-82c19ec516b5 | -19.99153 | -47.15466 | 2024-09-26 04:10:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| eb833d45-cc1f-3bf5-8295-7963150bc352 | -19.99083 | -47.15871 | 2024-09-26 04:10:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 163e441e-2346-3515-8108-813f35f6c588 | -19.92892 | -46.94504 | 2024-09-26 04:10:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| d31a805b-da9e-3f0b-8eaa-31a421386c61 | -19.92613 | -46.94041 | 2024-09-26 04:10:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| bf909d61-ce9d-35ea-88a4-335c03356d57 | -19.9178 | -46.94736 | 2024-09-26 04:10:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 71c3028c-b028-3f6e-97f1-57c932431183 | -19.87489 | -46.88458 | 2024-09-26 04:10:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6fd27c7b-9dfc-3da4-b631-5905ffecb817 | -19.87144 | -46.88393 | 2024-09-26 04:10:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| c277fea7-2b09-34ae-868a-098bfe260ba9 | -19.75719 | -48.00971 | 2024-09-26 04:10:00 | NOAA-20 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 8dbfc580-e1c3-3f85-ac0c-442a2b1a0448 | -19.7569 | -48.01138 | 2024-09-26 04:10:00 | NOAA-20 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8385d75b-3e76-309d-866a-d63abce41576 | -19.75404 | -48.0062 | 2024-09-26 04:10:00 | NOAA-20 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| a3fd4bdc-a52e-3725-b00a-04ae5cb8bc03 | -19.75356 | -48.00901 | 2024-09-26 04:10:00 | NOAA-20 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| a4476365-da07-384d-81b4-e823da188971 | -19.75326 | -48.01067 | 2024-09-26 04:10:00 | NOAA-20 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 88bd90e0-26d2-3681-9318-dbda89f63a01 | -20.70348 | -48.18622 | 2024-09-26 04:10:00 | NOAA-20 | MORRO AGUDO | SÃO PAULO | Brasil | 3531902 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 299bcbf5-a12a-3bad-a2c2-759a58d7ec96 | -22.3681 | -47.63614 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 9da8b13b-244c-308f-ba85-1d4e2a45ef98 | -22.36738 | -47.64025 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| a41ff7fb-7e5b-383a-9915-4c61f28c1602 | -22.36667 | -47.64438 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 93ca5325-58fb-3f14-8c01-99b10a61b56b | -22.36464 | -47.63538 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 3ee0f206-ca7e-31e7-8915-e3fba3010ef1 | -22.36392 | -47.63951 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 8ff3c3ca-9ec5-354d-a348-f448eeb70e63 | -22.3632 | -47.64365 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| c90cf036-b5f5-3b40-83f9-5d63b4eea01b | -22.36045 | -47.63881 | 2024-09-26 04:10:00 | NOAA-20 | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8588d318-33ae-31c5-80c7-f7f9dac7696c | -22.35758 | -47.7797 | 2024-09-26 04:10:00 | NOAA-20 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 48b8e2fb-785e-34cc-acda-6ba5012186a8 | -22.35488 | -47.77448 | 2024-09-26 04:10:00 | NOAA-20 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| c0659442-e867-3181-bf71-fd1d694c1cf5 | -22.35425 | -47.75733 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| c8f29966-cce8-3b9f-9bd1-d03190998aca | -22.35413 | -47.77882 | 2024-09-26 04:10:00 | NOAA-20 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 2102420b-061d-3cb3-8e68-392efd5fdd39 | -22.35142 | -47.77364 | 2024-09-26 04:10:00 | NOAA-20 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 7de20768-f197-3634-97c7-c6a74822d681 | -22.35076 | -47.75666 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 0d09ff8b-9458-3527-94d0-1b1f256010fc | -22.35067 | -47.77792 | 2024-09-26 04:10:00 | NOAA-20 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e1c6944d-efb6-3520-bb58-e4c296003828 | -22.35008 | -47.7606 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 098ccfa7-3773-3d1f-b9ce-33acbe3af1e4 | -22.34938 | -47.76461 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 0907d511-2a9b-393a-9306-2de14b762d14 | -22.34727 | -47.75601 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 6410850d-c86c-3404-8e98-0c800896b703 | -22.34659 | -47.75991 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 3f473833-6d93-32ce-9659-19306a0d48f2 | -22.34589 | -47.76393 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 741fd7d9-422c-3d4c-b10f-144fa315883b | -22.34308 | -47.7593 | 2024-09-26 04:10:00 | NOAA-20 | IPEÚNA | SÃO PAULO | Brasil | 3521101 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 05284c12-2bf9-394a-af5a-65a853c914bc | -22.34238 | -47.76335 | 2024-09-26 04:10:00 | NOAA-20 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| ca59bbce-0f65-30bf-a652-dff2ceba14e2 | -22.22863 | -47.57627 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| ae60f3d1-190f-3161-a2bc-5eb17e800ee6 | -22.22517 | -47.57553 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 1a408b0a-0fcc-3663-8bd6-21eeb1216f39 | -22.22446 | -47.5797 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 5ae8a37c-d0d9-37eb-8c33-c6efabe59523 | -22.221 | -47.57895 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 55bf83a4-7d3a-3951-bc04-0b4900a14636 | -22.21754 | -47.57818 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 03dc46e0-7a7d-3132-9325-56bdfa4a8e98 | -22.21965 | -47.56584 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 25.7 |
-| f578f39f-b574-310d-ba8b-a145fce4d6c3 | -22.21619 | -47.56511 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 25.7 |
-| 58f3af6b-9626-3faa-9921-4d98a595d167 | -22.21548 | -47.56923 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 25.7 |
-| 653c138e-1e2c-3616-9d75-156eb38b10b4 | -22.21343 | -47.56024 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 29.4 |
-| 8505ad25-e97b-3463-a0d1-70eae3cf5b56 | -22.21273 | -47.56438 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
-| 9417c98a-e856-3cbc-86ca-052e1be701c0 | -22.21202 | -47.56852 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
-| 10f60c09-18a8-3fcd-9181-64003c316598 | -22.20926 | -47.56367 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
-| 727eb59c-d9a1-3eb9-8d8d-5627978f1f2a | -22.20855 | -47.56782 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
-| b1ef3e6c-d1f9-38a2-9230-edaf1efde193 | -22.20579 | -47.56298 | 2024-09-26 04:10:00 | NOAA-20 | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 5b558818-b3f9-3a40-a402-50e5c4ba77d1 | -21.93801 | -48.5601 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 749f4b6a-f8d4-3cc1-bdac-95fafff78589 | -21.9352 | -48.55474 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| e87320e0-cd0c-37b7-93cd-4bdb1bc3abab | -21.93439 | -48.5593 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 217cadcc-6003-3c2e-bffb-9c5215e18307 | -21.93157 | -48.554 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| c0b3c757-68a4-3f4b-b87f-08d8f67579f2 | -21.93077 | -48.55853 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 9f761cd4-cbb1-331d-94d1-73b8dcc780bc | -21.92714 | -48.55779 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 36dd80c7-c123-3cc7-96c2-4d52116bfad1 | -21.92351 | -48.55706 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 9a27f1c7-98e5-33ac-a726-5cd985fca220 | -21.91988 | -48.55634 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| fef383a7-7c98-35e8-b60b-ec3b992c7353 | -22.74025 | -47.47833 | 2024-09-26 04:10:00 | NOAA-20 | SANTA BÁRBARA D'OESTE | SÃO PAULO | Brasil | 3545803 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 1b80b655-d44c-3fe7-890e-6b141dd5d032 | -22.5634 | -47.55094 | 2024-09-26 04:10:00 | NOAA-20 | IRACEMÁPOLIS | SÃO PAULO | Brasil | 3521408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 44b966e3-6ed2-30ad-88d0-146872446841 | -22.83859 | -48.41968 | 2024-09-26 04:10:00 | NOAA-20 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1c301525-a618-3e34-8f29-d120c32b0fd7 | -22.49741 | -48.31023 | 2024-09-26 04:10:00 | NOAA-20 | DOIS CÓRREGOS | SÃO PAULO | Brasil | 3514106 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| a7929248-00e3-3350-a485-ff7afc8a2c73 | -22.49385 | -48.30952 | 2024-09-26 04:10:00 | NOAA-20 | DOIS CÓRREGOS | SÃO PAULO | Brasil | 3514106 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 4903fc86-cae6-3bee-962b-f8a239a17ae6 | -25.19126 | -49.32649 | 2024-09-26 04:10:00 | NOAA-20 | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 2db02d2f-5ff7-3966-b8e0-fd16636e1d0c | -25.19015 | -49.32813 | 2024-09-26 04:10:00 | NOAA-20 | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 8184025b-61c9-3b08-9e41-baff71223b4b | -19.45202 | -49.14183 | 2024-09-26 04:10:00 | NOAA-20 | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| a6419382-6536-3674-9515-9df8a955e717 | -19.45301 | -49.13834 | 2024-09-26 04:10:00 | NOAA-20 | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 9d059071-63ed-3c77-82a5-d78038c04c99 | -19.45296 | -49.1366 | 2024-09-26 04:10:00 | NOAA-20 | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 13d8fdbe-d9fc-32fc-b3e1-5e15c168b094 | -19.95062 | -48.33686 | 2024-09-26 04:10:00 | NOAA-20 | CONCEIÇÃO DAS ALAGOAS | MINAS GERAIS | Brasil | 3117306 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 75a99176-2893-33bc-b9fb-80b25671808d | -20.02194 | -48.91298 | 2024-09-26 04:10:00 | NOAA-20 | FRUTAL | MINAS GERAIS | Brasil | 3127107 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4bde5457-e7ea-373e-a496-91115534d7b5 | -19.45592 | -49.14436 | 2024-09-26 04:10:00 | NOAA-20 | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 79c544a4-0d52-3f69-bdfa-ce61b28db3a3 | -19.45204 | -49.14357 | 2024-09-26 04:10:00 | NOAA-20 | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 0d7b07cb-cd4c-35a6-976c-9db8aa810e57 | -22.37982 | -49.03333 | 2024-09-26 04:10:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 58b3337b-a397-3c5c-8cff-7c4679ebd0a7 | -22.33763 | -48.97081 | 2024-09-26 04:10:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7b231f49-7003-3a70-956e-2dfbb0ea7c34 | -21.95132 | -48.56945 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| b75ac3e7-2801-324d-a920-83fbfc728ae7 | -21.95088 | -48.57244 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| db9d3962-1850-396e-a4dd-fd308a13be32 | -21.9505 | -48.57399 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| d0a8f8df-cfcc-35d1-ab50-d541336585fb | -21.9477 | -48.56868 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 206259a5-0c40-3956-a7f7-1c60ac89eedf | -21.94725 | -48.57167 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| 6076b990-4cdf-3090-a662-23e9170f01fd | -21.94687 | -48.57323 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 25.0 |
-| d94d167c-4959-3582-be20-94003e650f8a | -21.94645 | -48.57622 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 5e1a1194-ba54-3ed4-9924-81877a42eef8 | -21.93921 | -48.57464 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 5d141df1-7059-30a5-9877-b3f6be5cd4bc | -21.9372 | -48.56468 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| f7e31680-d3ee-3db2-a93d-5e895f443200 | -21.93639 | -48.56926 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| 63eb53b8-98e6-32e0-9444-743cb2b61ce9 | -21.93358 | -48.56387 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| d2e200d9-e449-35ba-b346-c3347bc408d1 | -21.93278 | -48.56843 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| 17fb4c17-ee2b-3e56-9522-a70f4a22d2fa | -21.93197 | -48.57301 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 1f60bbad-d461-3f17-a154-e79731057b2f | -21.92996 | -48.56306 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 22.8 |
-| c97df34b-c06e-366c-bae7-4b1e1e64288e | -21.92916 | -48.56762 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 22.8 |
-| a2177332-e4ac-3093-a576-e4edf8377e06 | -21.92835 | -48.57219 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b59bd294-0ddd-313a-9594-b8a7405eaf29 | -21.92634 | -48.5623 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 22.8 |
-| cbb6ec55-1c39-32c1-a11e-55bc63091e23 | -21.92553 | -48.56684 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 22.8 |
-| 5d3297cf-433a-310c-9cc2-e564d65998f3 | -21.92472 | -48.57141 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 1945a43f-5898-38a1-82e1-bd7d95e43c41 | -21.92391 | -48.57602 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a91e4853-9dcd-3865-80fe-3ccbc0ce73b2 | -21.92271 | -48.56156 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| dafeeded-1045-320c-9eac-1cdee682c9c4 | -21.92191 | -48.56609 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| d62b1a3f-014f-32ad-a5cf-add983d7f326 | -21.9211 | -48.57064 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 3ac13183-e910-3a22-b41c-415bb0f8e045 | -21.91908 | -48.56083 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| a6e32a89-1113-3758-9a75-559501e32770 | -21.91828 | -48.56535 | 2024-09-26 04:10:00 | NOAA-20 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| a455cc3b-9cb6-31c3-a4a2-a320e14b703f | -7.32021 | -61.17898 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| cb0c06f6-032a-3f2a-af57-3660dea3eb27 | -7.31932 | -61.1838 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 28bd3721-d7c4-343b-9479-c520a0d7830b | -7.30546 | -61.08654 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 60639306-532a-332e-b617-fff385186deb | -7.30457 | -61.0913 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 120cfe7f-db9a-31df-8a1b-0683c15f28a7 | -7.30369 | -61.09605 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 558d93d1-2481-391a-9dae-7d5d2e3d553c | -7.29841 | -61.09023 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 45cf5358-a118-384c-b5cb-61911e0acfac | -7.29663 | -61.09979 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 8018a1e2-88dc-3a21-b159-fabb0d447318 | -8.98221 | -62.41265 | 2024-09-27 04:40:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 186102fd-e689-3e69-9494-6a0302acb52d | -8.22756 | -61.50497 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 6ff4d3a8-0589-3d4b-be60-b8b6d7a9bb76 | -8.22225 | -61.49904 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 8a8e7607-1185-3e0a-b357-750c3544a7f8 | -8.22133 | -61.50397 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 010667cd-5ad1-3f3a-91ac-2eb56b2c3caf | -8.17099 | -61.3979 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| be996c55-7ff9-3849-9aa9-74c50df4de82 | -8.16605 | -61.39499 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 8c6bbcf5-ce93-3ac8-961d-7c5fe1bb08ef | -8.1648 | -61.39683 | 2024-09-27 04:40:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 0985ffe4-f42d-39e0-90a2-d2811ff57aeb | -8.14894 | -61.28186 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 99715980-34cd-38cd-a4b9-afea18ccd4f7 | -8.1428 | -61.28074 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 4ae6b3ae-8713-371d-b647-71d61125af3d | -8.13664 | -61.27975 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 18.1 |
+| 798a6c89-f44b-3064-8026-2dbf5279f4b6 | -7.99407 | -61.43174 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 79affba9-4610-363f-be1c-89eeb1b7946e | -7.99313 | -61.43674 | 2024-09-27 04:40:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| e91b75c3-56bf-3d53-a97d-98aaae2f1141 | -8.97785 | -62.4006 | 2024-09-27 04:40:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 537f24f5-e174-3140-8518-0ed339b33567 | -8.97679 | -62.40603 | 2024-09-27 04:40:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 7dcbbd7b-824a-3a22-8558-6b1ed50f5986 | -8.97572 | -62.41148 | 2024-09-27 04:40:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 71a4dd5f-5ebd-362a-9b91-f86e8cfa87ec | -8.51954 | -62.06131 | 2024-09-27 04:40:00 | NOAA-21 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 85bc5f6a-115a-362c-8a08-31aa4c5af43a | -8.52053 | -62.05613 | 2024-09-27 04:40:00 | NOAA-21 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 450afeed-62e7-3389-9736-0d6ed0a2dbdb | -9.37125 | -62.44972 | 2024-09-27 04:40:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 9222af52-83d6-324e-bc2d-f018724b7a01 | -9.37021 | -62.45514 | 2024-09-27 04:40:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| e89dfc13-f01a-3e9f-a0e5-6434affc95df | -8.47141 | -62.65281 | 2024-09-27 04:40:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 3ae42cd4-8643-37c8-9112-123c75535602 | -8.4648 | -62.65154 | 2024-09-27 04:40:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| f43fa007-8cf4-3576-b9b4-e4ecce3fae52 | -8.46364 | -62.65739 | 2024-09-27 04:40:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| db664b38-3c0d-3813-82ab-4f83ad6225d2 | -8.46753 | -62.65058 | 2024-09-27 04:40:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 1a9049a0-653a-30e6-8736-673e46ec5ed6 | -8.46641 | -62.65644 | 2024-09-27 04:40:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 7c5c2c77-d362-3c24-b907-472c6a9734d7 | -8.40846 | -63.40462 | 2024-09-27 04:40:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 641b1f38-f104-3a70-a9af-a5d7614399e0 | -9.16778 | -40.53683 | 2024-09-27 04:40:00 | NOAA-21 | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 4694b142-a943-3118-aa79-3376f3aef142 | -9.60681 | -40.61913 | 2024-09-27 04:40:00 | NOAA-21 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 424b7f00-eb47-34d3-a262-bb595be15647 | -9.60635 | -40.62264 | 2024-09-27 04:40:00 | NOAA-21 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| a55d2aa7-61a5-3eb1-beae-653d7d640506 | -9.60589 | -40.62614 | 2024-09-27 04:40:00 | NOAA-21 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| c6e2a7c9-4bd8-3035-8f06-53679a43f06e | -9.49982 | -40.86725 | 2024-09-27 04:40:00 | NOAA-21 | SOBRADINHO | BAHIA | Brasil | 2930774 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| f271e6d9-fa99-3236-922b-46b5a012a68e | -9.49829 | -40.86544 | 2024-09-27 04:40:00 | NOAA-21 | SOBRADINHO | BAHIA | Brasil | 2930774 | 29 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 0d43ebad-fce4-3af4-9b69-5ce73f7a3dd6 | -9.49783 | -40.86904 | 2024-09-27 04:40:00 | NOAA-21 | SOBRADINHO | BAHIA | Brasil | 2930774 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| f1554ee3-7567-379b-87c7-9472f943f8a2 | -9.49446 | -40.86655 | 2024-09-27 04:40:00 | NOAA-21 | SOBRADINHO | BAHIA | Brasil | 2930774 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| a60a00b3-402e-3c91-be9f-74cfee6df65f | -12.15576 | -40.85974 | 2024-09-27 04:40:00 | NOAA-21 | RUY BARBOSA | BAHIA | Brasil | 2927200 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 45449342-63a9-38f5-8e4c-a1dfb8686f4f | -12.15527 | -40.86372 | 2024-09-27 04:40:00 | NOAA-21 | RUY BARBOSA | BAHIA | Brasil | 2927200 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 5d6961d9-1616-30b2-a0b8-de0fdf21db09 | -12.15518 | -40.85963 | 2024-09-27 04:40:00 | NOAA-21 | RUY BARBOSA | BAHIA | Brasil | 2927200 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| e333c549-8c52-30b8-a556-f38f88b266c4 | -13.40745 | -41.32663 | 2024-09-27 04:40:00 | NOAA-21 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| ae81fe58-745f-3a76-a1b6-299b5ea26c31 | -13.40703 | -41.33031 | 2024-09-27 04:40:00 | NOAA-21 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| d40a957f-4b3d-31be-bafd-a2fc823c1a1b | -13.2648 | -41.49663 | 2024-09-27 04:40:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| fdce35d9-c308-36f0-8cad-034a974603e4 | -13.26202 | -41.4979 | 2024-09-27 04:40:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 8c6c8b33-462a-39d4-9d0f-a867814b9512 | -13.25941 | -41.49586 | 2024-09-27 04:40:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 1a032c6e-83f9-3b35-adae-f4aa1f5804d0 | -13.259 | -41.49941 | 2024-09-27 04:40:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 82e0fa1a-7145-38ca-a540-7794458729fd | -13.25859 | -41.50296 | 2024-09-27 04:40:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| f3fae356-7513-3102-87f4-cd49b00f5d09 | -13.2562 | -41.50062 | 2024-09-27 04:40:00 | NOAA-21 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| e6663282-04bb-3043-a37e-8c17a2af38e1 | -6.85992 | -41.70345 | 2024-09-27 04:40:00 | NOAA-21 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| c7cf6b28-11f1-3f4f-941f-14f7e74dfb4f | -7.05498 | -42.05546 | 2024-09-27 04:40:00 | NOAA-21 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| cccd1c92-a75d-3294-92e9-959c5cabc66d | -7.05424 | -42.06066 | 2024-09-27 04:40:00 | NOAA-21 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| b81350af-9627-3bd7-bbb8-30cdac81776d | -8.30375 | -41.43401 | 2024-09-27 04:40:00 | NOAA-21 | QUEIMADA NOVA | PIAUÍ | Brasil | 2208650 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| e8970f67-f40e-3f6b-84de-741105d287b0 | -8.30334 | -41.43702 | 2024-09-27 04:40:00 | NOAA-21 | QUEIMADA NOVA | PIAUÍ | Brasil | 2208650 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 93138502-abb9-3392-8f04-f502d2ff848a | -8.29869 | -41.43331 | 2024-09-27 04:40:00 | NOAA-21 | QUEIMADA NOVA | PIAUÍ | Brasil | 2208650 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 25cef6ac-ba53-3264-89f1-0b63668abf57 | -8.29828 | -41.43633 | 2024-09-27 04:40:00 | NOAA-21 | QUEIMADA NOVA | PIAUÍ | Brasil | 2208650 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 9c0562b3-3bc4-3848-88aa-00e44751ef04 | -8.29445 | -41.42653 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FRANCISCO DE ASSIS DO PIAUÍ | PIAUÍ | Brasil | 2209658 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| c630d8a7-7f89-3f40-9869-a2494df9dac7 | -8.29404 | -41.42956 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FRANCISCO DE ASSIS DO PIAUÍ | PIAUÍ | Brasil | 2209658 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 65cfa0cc-9d3e-36dc-ad97-ca38eff06e54 | -13.53716 | -42.56171 | 2024-09-27 04:40:00 | NOAA-21 | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 10eed627-4515-347d-9738-056713c78d8c | -13.53678 | -42.56479 | 2024-09-27 04:40:00 | NOAA-21 | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 6b1eb8a8-66e2-3dcc-846d-31c963688beb | -13.01365 | -42.2174 | 2024-09-27 04:40:00 | NOAA-21 | RIO DO PIRES | BAHIA | Brasil | 2926905 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 69c49352-f686-349c-815d-e623d0ecc363 | -11.69776 | -44.52427 | 2024-09-27 04:40:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| bd929ee5-17eb-3b70-a4b2-b864c45d5ed7 | -7.96816 | -42.8527 | 2024-09-27 04:40:00 | NOAA-21 | PAJEÚ DO PIAUÍ | PIAUÍ | Brasil | 2207355 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 8c76ffe2-23c6-38bc-9647-79a264bc0a83 | -7.96361 | -42.85188 | 2024-09-27 04:40:00 | NOAA-21 | PAJEÚ DO PIAUÍ | PIAUÍ | Brasil | 2207355 | 22 | 33 | nan | nan | nan | Caatinga | 4.8 |
+| b63257cf-ec5e-3f8d-8819-709d1e0f685e | -7.87329 | -42.69043 | 2024-09-27 04:40:00 | NOAA-21 | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 7fa523d9-4b4a-3222-99eb-9a1277497240 | -7.86804 | -42.69442 | 2024-09-27 04:40:00 | NOAA-21 | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| d2d43b29-f38e-3c51-838e-134eccf347c2 | -7.86739 | -42.6992 | 2024-09-27 04:40:00 | NOAA-21 | PAJEÚ DO PIAUÍ | PIAUÍ | Brasil | 2207355 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 0d1a7d46-b95d-3288-ba62-fa793466028f | -6.88232 | -42.84544 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 5.4 |
+| 968d4bcc-b9b0-3711-beea-d0ae6589a8fc | -6.87781 | -42.84495 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| 66442cd0-cf09-3460-a958-dd7a03bb5e2a | -6.87718 | -42.84949 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| 2fb3e99f-ead3-3d03-a3b9-363aa7b09743 | -6.84902 | -43.11522 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 89dcfce6-f472-3f9b-a4cb-2ec56990d151 | -6.81464 | -43.13605 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 9ece63b0-85e8-3ecb-9596-a8540f53c7a8 | -6.81404 | -43.14038 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 0da14ad2-c7da-31fe-8f26-171d13b6d100 | -6.81404 | -43.13857 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 2eac44bd-943f-3c09-bdd9-3aa7aa22669d | -6.68861 | -43.51649 | 2024-09-27 04:40:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b78c2c60-4db7-337d-ab77-18643f48d6ee | -6.68433 | -43.51587 | 2024-09-27 04:40:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1b871baa-2027-32b4-b500-f00dbbc43a6c | -7.58869 | -42.29154 | 2024-09-27 04:40:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 03cb5ddb-d9d2-3c8c-984f-b180e4a48786 | -7.58638 | -42.28691 | 2024-09-27 04:40:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 2869e536-1f72-3db5-8ed2-dd6e7508ed64 | -7.58568 | -42.29206 | 2024-09-27 04:40:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 6cd4308e-2c5a-3bbc-a914-7b3789d8173a | -7.58469 | -42.28587 | 2024-09-27 04:40:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| cd607f6c-6d08-33fe-ad0f-eb3b36da1a33 | -7.58395 | -42.291 | 2024-09-27 04:40:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 3e2c83b7-aa37-384f-99ce-b3486c7d9af9 | -7.48677 | -43.71124 | 2024-09-27 04:40:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| fa4ce761-bd25-31c0-ac08-88f8a0eda009 | -7.2777 | -42.28893 | 2024-09-27 04:40:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 9a893b2c-4f78-3476-8b5e-0c150888308f | -7.27573 | -42.28746 | 2024-09-27 04:40:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 0c773ac1-0084-3f86-a4d4-6878487dbef2 | -7.13373 | -43.19988 | 2024-09-27 04:40:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| e1a7877c-4415-35e3-ad72-159e62b8c435 | -7.13029 | -42.51347 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 474079c5-4a7a-3815-b5af-e49904ee8436 | -7.38312 | -43.34317 | 2024-09-27 04:40:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ca3a9782-7343-35ee-86f2-c86659f0ecbb | -7.37181 | -43.32841 | 2024-09-27 04:40:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| cf8dd95e-33c0-3376-a0de-51964b948dcb | -7.30008 | -43.3876 | 2024-09-27 04:40:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 3ceaf7f5-714d-3beb-b867-421e024ed11c | -7.29674 | -43.3179 | 2024-09-27 04:40:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| dc5b54f6-0785-36ef-8bc5-fbbf4cdd6a1c | -7.29297 | -43.31305 | 2024-09-27 04:40:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 6300899f-331f-36c9-9b9b-bc3a0e084951 | -8.07526 | -42.89019 | 2024-09-27 04:40:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 769401c8-d7b3-3e64-937d-49f366fee603 | -8.07461 | -42.89495 | 2024-09-27 04:40:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| ff38ed0c-2b67-3443-9f3f-bc1d6c09dd62 | -8.07397 | -42.89959 | 2024-09-27 04:40:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 716c4982-9d4b-31fc-a198-33ae8da01a32 | -8.07133 | -42.88494 | 2024-09-27 04:40:00 | NOAA-21 | PAJEÚ DO PIAUÍ | PIAUÍ | Brasil | 2207355 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| dceff6bd-d6f5-344a-9e31-7483282a8e72 | -8.06487 | -42.89816 | 2024-09-27 04:40:00 | NOAA-21 | PAJEÚ DO PIAUÍ | PIAUÍ | Brasil | 2207355 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 2a083544-21bc-3b05-8a6f-205dacc9af94 | -8.50603 | -43.92424 | 2024-09-27 04:40:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 83c49e5d-4ecc-39cc-9870-cc514cf69fec | -10.60111 | -44.28578 | 2024-09-27 04:40:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
 
 
 [Clique aqui para ver as próximas entradas](README85.md)

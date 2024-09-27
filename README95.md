@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b42c9286-d777-3f91-b960-bc484c2cbb42 | -9.80166 | -53.55822 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e53e4e2f-9b37-332b-aa65-4645b60ae682 | -9.80051 | -53.54328 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 19add8d8-eabc-31e8-8be7-48adf10266aa | -9.79996 | -53.54689 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 21ce6336-5eea-3432-b44a-d4d7dfb5e7d0 | -9.7994 | -53.5505 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3a075cb6-6882-3cbe-9493-871903667cf6 | -9.79715 | -53.54277 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 48407a7b-b348-352f-8545-92a87bb77de4 | -9.78206 | -53.55148 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 0eac1df1-71a3-3524-b9a8-2a486378eff2 | -9.77871 | -53.55095 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 5da245a2-d593-35ba-9218-96e1834ef751 | -9.77755 | -53.53598 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 41c2e592-914d-32c9-ad4d-4773ddc2cd8f | -9.7759 | -53.54681 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 70c8d762-485d-3484-9d19-bcb3cd27a9f9 | -9.77535 | -53.55042 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0c305ba8-8c7b-3401-b7bb-9ef835450c32 | -9.77364 | -53.53905 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 1d3f114a-268a-3233-b83f-f09f5c038646 | -9.7731 | -53.54266 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ec7c0e16-531d-3a8d-863f-840346e4c75f | -9.77255 | -53.54626 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 80c86a55-249f-3c7b-bf0f-01a7aa624474 | -9.6913 | -53.50076 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 852e12d7-27e0-3df0-bb2a-be0949bfaa2f | -9.68793 | -53.50024 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 149b5a34-43af-38ba-bf81-2a5b1dbc4d8c | -9.68738 | -53.50386 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 2691a294-007a-38c3-acb6-fcb7ca098667 | -9.679 | -53.51367 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 308d959c-1e09-3543-8197-457d93e19e56 | -9.67845 | -53.51727 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6e0d6797-8331-3b45-ae19-e0eb40649fbf | -9.6751 | -53.51675 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 08f61ffd-4b41-3a27-a17a-89c539d1ab29 | -9.67455 | -53.52036 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 76360cc4-d8df-3a0c-b0c7-57f987a363b4 | -9.67174 | -53.51622 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 5ec31bb8-9bf2-38a7-8d76-67799d8eacaa | -9.67119 | -53.51982 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 68c795ad-4a49-3e6d-8fc9-fa2063d28599 | -9.67064 | -53.52343 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e4f7f8d1-893b-3cd7-a4a4-5163c23f9d74 | -9.67009 | -53.52705 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 323d5bb8-5c66-3eaf-bd3a-9c2869e3c751 | -9.66838 | -53.51569 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b8146488-835c-3980-a683-0044ce171af6 | -9.66783 | -53.51929 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 53eed432-01d5-3b73-a550-36146befb94a | -9.66673 | -53.52651 | 2024-09-26 04:57:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 867046ff-6591-36ac-97cb-fa45eb0679c3 | -3.39509 | -53.71995 | 2024-09-26 04:57:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 95b771d1-4ee9-325e-825c-905c8adcd2a9 | -3.39179 | -53.71944 | 2024-09-26 04:57:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| c9680ad9-b82b-3bdc-bab6-acb3797bd8fa | -3.32716 | -53.69525 | 2024-09-26 04:57:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4732ff2e-899e-3fcb-bc3b-d3fd39642b90 | -3.52062 | -52.82798 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| add367f2-de9a-39d3-8fb6-9de42b2fd1cc | -3.4447 | -52.72754 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| c2ac4ab1-6c23-34e9-9335-868aed795bab | -3.4145 | -53.20308 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 1f2d172d-fe45-3c5b-ab76-5d4d31b1dad6 | -3.41132 | -52.87405 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 1ff5c85c-edc8-3c39-86d6-e95307cd61f5 | -3.3266 | -53.2203 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 288175ab-c5e5-3d04-838d-addb745a32db | -3.3249 | -53.20957 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 442ef7e7-5180-3aa1-8f6d-262d47619b7c | -3.32437 | -53.213 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 97534bae-1e5e-33e5-b9d6-ad8ba3369c18 | -3.32383 | -53.21643 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 8c5c88d2-dd14-3247-a232-4bc4cae1ee26 | -3.3233 | -53.21979 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 207a34fd-e306-3a5f-a505-242846dc609f | -3.32161 | -53.20906 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c5a6fc38-ba99-3fea-8e1d-df9f0ad259fa | -3.32107 | -53.21249 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| bc60707b-b966-3cf5-b7e3-70e180a92b60 | -3.32053 | -53.21592 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 59b1d4b8-6f9e-3dd3-84d3-6a9a97b5bdea | -3.30213 | -52.98778 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 421f2280-2cee-3b17-8835-0e48016a8af8 | -3.29883 | -52.98726 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a3ab84c9-f560-3fe5-9cd2-feee521ec671 | -3.25771 | -53.31503 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 93434a90-970c-37dc-a7b7-7d0fb22eace5 | -3.25717 | -53.31846 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 015b90d1-8e5b-3a19-aff6-c06d686e1959 | -3.25663 | -53.32189 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 13629398-eba7-3c98-96cb-e0be205abbbd | -3.25441 | -53.31452 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 39f360de-fd3f-3e7a-bd19-98d1329e52e8 | -3.25387 | -53.31795 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 0e9c6673-f304-33e3-9777-333fe5dfe8e4 | -3.24433 | -52.26657 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8f15c2bd-42b5-3019-ab1a-e75268560f04 | -3.01977 | -52.35407 | 2024-09-26 04:57:00 | NOAA-21 | VITÓRIA DO XINGU | PARÁ | Brasil | 1508357 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| dfdcf7f5-0883-3ff9-ab96-660dbef0fd55 | -3.01496 | -52.18755 | 2024-09-26 04:57:00 | NOAA-21 | VITÓRIA DO XINGU | PARÁ | Brasil | 1508357 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c495e30b-dd58-3826-b4ff-015c62b2674c | -3.01217 | -52.18349 | 2024-09-26 04:57:00 | NOAA-21 | VITÓRIA DO XINGU | PARÁ | Brasil | 1508357 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2cd44462-ce2e-3189-8045-88cf8d7ba820 | -3.01162 | -52.18703 | 2024-09-26 04:57:00 | NOAA-21 | VITÓRIA DO XINGU | PARÁ | Brasil | 1508357 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b72fa493-cda2-3528-9fb5-0a9387d7e9a8 | -2.9528 | -53.04571 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| dca8b565-b95b-308d-9288-1d4c3c71cff6 | -2.86243 | -53.31601 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 88732cf0-1113-3e4d-88d9-0e5b40315ef7 | -2.85967 | -53.31208 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 2b3e2f49-2567-3b68-b0ea-245f42506a28 | -2.85913 | -53.3155 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 102f25d4-d2d4-332a-8ce5-8557ff47b7a0 | -2.85584 | -53.31499 | 2024-09-26 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 0796fede-1590-3001-ad7e-a760eff5c1a5 | -4.20435 | -53.85114 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 14b3d5df-32cb-3c83-9653-6146716e12be | -4.20051 | -53.85406 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| dd8b950d-d14a-3329-84a5-0235697cbf5c | -3.88762 | -52.3299 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2ee5d978-00ec-37a8-b7b6-be610fa18fcd | -3.88427 | -52.32938 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| cfed285c-60cc-3a83-a5ac-8a3b270f188a | -3.7852 | -52.28829 | 2024-09-26 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 82d32e8c-9120-3e80-bde1-d528625a6e06 | -3.7824 | -52.28425 | 2024-09-26 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 13a76c53-fc9b-3a25-9def-80e76ee87584 | -3.74971 | -52.3625 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b8947fd9-989f-32f2-8c15-1c421af7d1a6 | -3.74916 | -52.36604 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 58167bfb-134f-360d-a068-148f42355ee0 | -3.74844 | -52.30433 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c870d278-474d-383e-b314-5a5807697e71 | -5.9346 | -53.73453 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 4c37def1-21a7-32f0-bf7a-aec46aaa715e | -5.93406 | -53.73798 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 115b572f-8f8b-3c4d-bee4-f94866194566 | -5.92255 | -53.74678 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 32f2a3ee-0469-3557-abea-dc48666d3941 | -5.92201 | -53.75023 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| aca7b761-66af-3a79-a48f-bd5434cce19f | -5.91925 | -53.74628 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| db5f85d3-c922-38ab-a3f5-4358fc3702ee | -5.91548 | -53.77038 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e788d235-71f3-3c14-b4f5-a7c89c7cee24 | -5.73364 | -53.69189 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 888223ff-0956-315d-9dc1-d20177b55b7b | -5.73034 | -53.69138 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e76088de-201d-33b4-bd13-0a3058fd2558 | -5.7298 | -53.69482 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| dc8ad6d2-fb32-3492-ac88-6cc72a21571e | -5.72704 | -53.69086 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e4ba51af-c85e-3b95-acae-77e43e43efaa | -5.7265 | -53.69431 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 8bed43b9-6903-37a9-80ba-d03c3d272942 | -5.71108 | -53.68483 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 4e5406fd-cf21-33a8-81d8-485876559668 | -5.71054 | -53.68827 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 318070ce-373f-3841-ab2c-5e1ba91d6fac | -5.7096 | -53.73757 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 3ef46c4d-d937-3aac-a429-403382d980c4 | -5.70906 | -53.74101 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0bcb4189-1e1e-32a1-807c-ed15c687eccc | -5.70778 | -53.68432 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 46fc88b2-153e-3f1e-ad99-ad21aa9f6ca0 | -5.69034 | -53.73101 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ce4e2208-d9d9-3c8b-aff1-1df8ddba8671 | -5.68927 | -53.7379 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 36950424-2c12-349d-802f-17c92260d427 | -5.67168 | -53.91493 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 25c81f15-e95e-358b-8a41-2c59b24c5155 | -5.66785 | -53.91786 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 77762766-9b2d-3f16-bea8-abdcbf92a9fe | -5.64726 | -53.87228 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3f278bf0-afa4-3020-a3db-5348066069d7 | -8.05697 | -53.18294 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d537e2e8-817a-3337-ad5f-d52676956ae4 | -8.05362 | -53.18242 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b50890e2-8fd9-399e-9ccf-415dd55320ea | -8.05026 | -53.1819 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 06219120-14e3-3d49-a8f1-fa4fa15c4865 | -8.04987 | -53.22954 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 44f2c624-1e2f-3207-8a8a-1115875eb0f2 | -8.04932 | -53.2331 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 911c7aca-f9c1-33ca-9271-867a3f0d5cb3 | -8.04878 | -53.23667 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| fd4b215b-2de3-3a5f-a7ea-c70e8b294e0b | -8.04769 | -53.2438 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| fadeebf4-0467-39e7-b477-403201ca043b | -8.04715 | -53.24737 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4a2850bc-c1ca-32df-92ab-5673312a7ca8 | -8.0466 | -53.25094 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 9abdd163-543a-37d0-b091-fafeff3c6ef4 | -8.04652 | -53.22898 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 20f2a1b3-23b1-31ae-a76f-8416f2191090 | -8.04605 | -53.25451 | 2024-09-26 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 43fac3a0-6777-32b9-99c1-33b4384b1d1f | -8.1685 | -52.79979 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| fb108b20-db9a-387e-a041-c97fec43b88e | -8.16771 | -52.79922 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 2328af5f-4cb1-3aaa-8158-95972d67029c | -8.13865 | -52.87078 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 62840fbd-43ef-394a-9a5d-921e744cb8fa | -8.13507 | -52.87019 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8bc2d6f3-5298-3990-9489-78729e69651e | -8.13281 | -52.86149 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| dd18e728-101a-3676-9b24-8bb0aefeb41e | -8.13214 | -52.86557 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| e7ea0adf-88a5-3b9c-b904-4424ffa5d62a | -8.13148 | -52.86968 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0d7ef86f-868a-3477-8148-00a297bbb70a | -8.05741 | -52.80667 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 6d164954-318f-3be1-bc28-50e72aae96c5 | -8.05482 | -52.80733 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| c3891e79-5745-3a0e-9063-fd51551f496b | -8.05416 | -52.81139 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d0162638-fc17-3a95-a142-e0d51db31d17 | -8.05381 | -52.8062 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b0e929fc-8b4a-3a41-9a68-dcaedef9b0bf | -8.05314 | -52.81024 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 00d70543-0043-3c85-b4ca-93bb4e4ef509 | -8.05124 | -52.80679 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| acf6f2eb-9ec1-351f-9d17-64ff9ba62380 | -7.99627 | -52.80635 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f5759c24-a1f8-3e21-aa3e-95311a71fbc7 | -8.4756 | -53.22409 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 480a71f3-ef72-3110-8c9c-045161554cb1 | -8.46905 | -53.21862 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 4c2f52c7-d07e-3175-b291-19fc17d5416a | -8.46765 | -53.22707 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 7c24f4c4-2422-3520-928d-a842ed1dc3a8 | -8.37421 | -52.4731 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 505a2e2e-af31-38b5-abd4-d576ea63eb2e | -8.3707 | -52.47252 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| de816b03-5230-399d-9dbe-eb523674f527 | -8.36718 | -52.47206 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| da927790-3fbc-3174-a9e5-bc9eba256cc9 | -9.11919 | -53.30688 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8b750765-b0ea-360a-923c-2e7666a345c5 | -9.11557 | -53.30624 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| c53282f7-7515-365b-b5ae-b3ed73e73401 | -9.10976 | -53.29651 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 3ee5a611-963a-383b-ab6e-1ea4cb545cd1 | -9.10905 | -53.30077 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 19ed7722-c8b5-3e2e-a346-687d3a54de6d | -8.95298 | -52.81853 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1ca1e629-0473-36b2-87e5-eea6dd97dbaa | -8.94522 | -52.82145 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2c9affee-b14e-33db-a1c6-9683da3fbf24 | -8.9417 | -52.82078 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d2b57b26-d8ed-348d-b41e-829575db5864 | -8.93817 | -52.82013 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f5d4ada8-2882-3266-aeca-92f889fa689c | -8.93681 | -52.82828 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 5ebe565c-2c8b-31e3-93a1-9528624acb5f | -8.91772 | -52.76821 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 67c30c7a-3ecf-3052-a786-55362b8a0e6e | -8.91708 | -52.77215 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 8de2a0c4-cfa0-30ba-a80b-a19eb65eb8d5 | -8.91483 | -52.76366 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 60004251-a76a-3205-b22c-902a3f1a505a | -8.9129 | -52.77554 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d916e389-ce34-3cda-ad31-e39475bd4691 | -8.9113 | -52.76308 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 84b27d56-c5a5-3dab-9326-a8b72d279e23 | -8.91 | -52.77103 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5a434d99-01b6-35a9-848b-d0ad28914466 | -8.90935 | -52.77502 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f44b8b24-5d63-3a8e-b2b4-31e42c0c7d83 | -8.89493 | -53.03493 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| b4c997b2-dc3a-3774-bda9-27e8469dff66 | -8.89321 | -53.03132 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| ae149773-29c9-3463-a14d-09d69ff6575c | -8.89098 | -53.02238 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 9d8613fc-0842-31f2-ac42-02495742d9d6 | -8.88741 | -53.02176 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| 45d830fd-40c2-3df3-980c-d7a6aa64a89c | -8.88674 | -53.02588 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| c618b118-67b8-3eb7-b957-78fdc077e076 | -8.66978 | -53.18781 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 439e9030-8698-3580-9912-197880f3b6c7 | -8.66757 | -53.17884 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ee2203bf-4f13-39b0-8e2f-d6bddf3a57a5 | -8.66687 | -53.18301 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a5e745d9-ffd3-3259-869c-714d75dd7a57 | -8.66543 | -53.19161 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 58ce1b55-0c1f-3a49-bb1c-fa1e5f656431 | -8.66154 | -53.07145 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8d43919a-dba9-3b1d-8923-43cff4b30525 | -8.65967 | -53.18165 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| c62a77c0-1863-374d-a221-1426e88c61f4 | -8.65747 | -53.19473 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 6fceefd0-68d1-3bd5-94a6-117a4ab2af3a | -8.65676 | -53.17688 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| a0ae45c2-04be-327a-853a-d786938b037a | -8.65607 | -53.18099 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 42760a16-f27c-3915-941d-283e6adaffc4 | -8.64963 | -53.19025 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| bf7a8989-30bb-3968-a1b6-392d85578fe4 | -8.60686 | -51.75798 | 2024-09-27 04:40:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ad606a5c-2211-3312-a369-c6020d408aef | -9.34609 | -52.52716 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 870d61ee-f8ff-38c6-a735-e5afd2e9daaf | -9.34068 | -52.5383 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 561879bf-b0ca-385e-a618-cc7f52178b83 | -9.04834 | -52.96672 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e06945e7-1bcc-36c9-ac8e-efe99112154a | -8.94943 | -52.81798 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8b628ce7-a28f-3f8d-83ff-43a5835095e6 | -8.94034 | -52.82894 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ce496617-609c-3fb8-be19-edaac0bf1de1 | -8.93749 | -52.82418 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 1f20d704-3b3d-3a76-9e1d-800af5670d6b | -8.92061 | -52.77273 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 72f6a904-427c-3d51-892e-ae7cfda33dc1 | -8.91644 | -52.77608 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| bfe7e3e2-d001-31dc-9db0-c6af71d25716 | -8.90777 | -52.76252 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 76894c2f-eec3-3d2e-82f1-9c5c1da0486a | -8.90711 | -52.76651 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f78fbba6-d010-3dd3-a825-9ce55a352f3c | -8.90646 | -52.77051 | 2024-09-27 04:40:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| eabd59a7-5fce-3ceb-8082-d234498c5b1c | -8.89564 | -53.03072 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| d70ca1d5-436a-378a-a36a-c8a16c0b97c2 | -8.89523 | -53.01885 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 92e7df20-599b-3c73-aa64-5c3c45172251 | -8.89417 | -53.0176 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 07b70103-2dcd-3246-9341-a8dab4ad414c | -8.89208 | -53.03004 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| ba4d5f33-cf01-3ecc-b60d-d0511a47abd8 | -8.89166 | -53.01823 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| f04e944c-7881-3a2a-84b0-adfd0b219f57 | -8.89136 | -53.03428 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 08272573-6565-34ab-bdca-e799d416a1f1 | -8.89059 | -53.01702 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 5908e9a1-ae58-36fe-b4c7-b3e26e361a2e | -8.88989 | -53.02117 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 044658aa-3cb0-3cc3-9887-be9a4cc7ee08 | -8.88964 | -53.03065 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| e9bf2b6e-d0cd-38d1-aa84-0d3902a59d95 | -8.88852 | -53.02937 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 4b5404c4-2423-30e8-81b0-1680ec79a0f4 | -8.88607 | -53.03004 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 4ad68643-1ab0-317a-8d5a-8cd47748418e | -8.67266 | -53.1928 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 5c9cf8ff-e665-33a8-bed7-3e608ba15e10 | -8.67048 | -53.18365 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2d2492e2-3036-38a6-8ac4-4fc20a57ef33 | -8.66904 | -53.1922 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 2e384971-10cc-30c2-862d-d846a273d156 | -8.66398 | -53.17812 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| cb8ed7f6-616e-3adb-a882-5d1965d990b2 | -8.66037 | -53.17747 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 29a5162d-edc9-3fa0-906d-88675129b43e | -8.65607 | -53.10513 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f7551442-b946-3358-acbe-626d415c3ecc | -8.65535 | -53.18526 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 29a60d35-45dd-37e6-9189-3ce6f38a0ddf | -8.65246 | -53.18039 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 316477c3-464b-38a8-8a95-a580506e451d | -8.65173 | -53.1847 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 6e1ae362-9471-3c80-996d-cd012e021cfe | -8.651 | -53.18906 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| eee5ef6a-2250-3a90-9a5c-2d0d3aca4c12 | -8.65035 | -53.18586 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 2c665544-73a1-34b9-970c-186f4a115de5 | -8.65025 | -53.19348 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 58808b14-73d3-3a8b-98aa-65013ad94e71 | -8.63615 | -53.13648 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 116e52d0-87e7-3222-b686-93ec62a69317 | -8.62756 | -53.14363 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 6805c8fa-4e8b-3148-a75f-dffd76625c3a | -8.46472 | -53.22224 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 4886cba6-47dc-3676-81df-b6b29e613592 | -8.46401 | -53.2265 | 2024-09-27 04:40:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| da0035b8-76ea-3bda-8713-2a830cfb4d92 | -10.4371 | -53.67457 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| cd877835-6393-3152-a705-eb9abfc43b62 | -10.43638 | -53.67883 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 9a4cd42c-df35-38b3-b8ec-1182334f023a | -10.43566 | -53.68309 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 89d6a03c-b0ca-31d7-93b4-3e116ea9adc5 | -10.43421 | -53.69165 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 137c8b76-e585-3d5f-87fc-df9c4277ae29 | -9.81381 | -53.51498 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e118c800-558d-3bf3-ab2b-a3c4e78c02e5 | -9.80153 | -53.54351 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4102cf05-fc8e-345d-95db-29bb53465ce8 | -9.77581 | -53.53634 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| df8ea77a-7edc-3dbf-8fb0-dd96e6d612f0 | -9.76642 | -53.54801 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 0baaebba-edd1-3028-86a6-01591f9ca274 | -9.69298 | -53.49624 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 165b2012-dd08-3be8-bb3e-d13c49658cfb | -9.69226 | -53.50048 | 2024-09-27 04:40:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
 
 
 [Clique aqui para ver as próximas entradas](README96.md)
