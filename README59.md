@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a314a3d9-d5c1-3941-bf70-a336ae384046 | -17.06288 | -41.14908 | 2024-09-27 03:49:00 | NOAA-20 | ÁGUAS FORMOSAS | MINAS GERAIS | Brasil | 3100906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| a7ced671-1441-36f9-ab59-afd36277b2d1 | -17.04913 | -41.14685 | 2024-09-27 03:49:00 | NOAA-20 | ÁGUAS FORMOSAS | MINAS GERAIS | Brasil | 3100906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| d891903e-4632-3885-a0fb-b406ae4e8f8b | -16.86196 | -40.04385 | 2024-09-27 03:49:00 | NOAA-20 | JUCURUÇU | BAHIA | Brasil | 2918456 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 5cc81ad1-066b-3e0a-b4d6-31cae91397c6 | -16.71702 | -41.01451 | 2024-09-27 03:49:00 | NOAA-20 | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 20b4d23a-5c27-3ce3-8174-2e1d63ddbac0 | -17.93492 | -41.2063 | 2024-09-27 03:49:00 | NOAA-20 | ATALÉIA | MINAS GERAIS | Brasil | 3104700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| edbcc111-5311-3f4b-9c81-ee45ca210790 | -17.93152 | -41.20559 | 2024-09-27 03:49:00 | NOAA-20 | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| bdaadff2-2cb0-3f65-8901-3547147a9d53 | -17.87024 | -41.36355 | 2024-09-27 03:49:00 | NOAA-20 | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 2a8a91d7-a6e2-3cee-9a9c-e1cad6c62b0f | -16.9796 | -41.20677 | 2024-09-27 03:49:00 | NOAA-20 | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 08ffd7e7-1b17-3d3e-87a3-2b681211b38f | -16.97895 | -41.21066 | 2024-09-27 03:49:00 | NOAA-20 | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| a1e28016-8b6b-3998-83ca-f8172cc42036 | -18.99329 | -41.0465 | 2024-09-27 03:49:00 | NOAA-20 | CUPARAQUE | MINAS GERAIS | Brasil | 3120839 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 0061658e-eaad-3fae-a873-1b2e78dbf0f3 | -18.10325 | -40.45971 | 2024-09-27 03:49:00 | NOAA-20 | MUCURICI | ESPÍRITO SANTO | Brasil | 3203601 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| bee7a7ab-569b-3d0f-bca5-3f0e385da050 | -19.16145 | -41.38878 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
-| 7547edfa-8a3b-391f-a134-03221dcc8c03 | -19.15806 | -41.38813 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
-| abd57d37-744a-3d44-965c-7ecc821c1ca0 | -19.15466 | -41.38749 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| 8fda634a-70be-34c6-8a79-0117d2673d11 | -19.15254 | -41.37916 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
-| 6e44f9e9-6e44-323d-abf1-79baab452c57 | -19.1519 | -41.383 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
-| 0befff1d-4d2a-329a-a03e-b0b546d8a942 | -19.14914 | -41.3785 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| a98d1c3e-8d66-3e1a-b31a-04da6e299e53 | -19.14639 | -41.37401 | 2024-09-27 03:49:00 | NOAA-20 | CONSELHEIRO PENA | MINAS GERAIS | Brasil | 3118403 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 9d4fcac4-504e-3a16-9dc1-89885240ea86 | -18.5831 | -41.34134 | 2024-09-27 03:49:00 | NOAA-20 | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 26e1cf80-acec-3ce9-b527-3a15d662a933 | -20.67893 | -40.96349 | 2024-09-27 03:49:00 | NOAA-20 | VARGEM ALTA | ESPÍRITO SANTO | Brasil | 3205036 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 112cc382-557e-3299-82ca-3c5599d22c39 | -20.65038 | -41.07454 | 2024-09-27 03:49:00 | NOAA-20 | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 0d5e6db3-fc63-323c-ac68-4621286340ab | -20.64769 | -41.06997 | 2024-09-27 03:49:00 | NOAA-20 | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 7e950752-022e-3cbc-906a-d6fc299c0fc8 | -20.64706 | -41.07378 | 2024-09-27 03:49:00 | NOAA-20 | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 75e49dc9-aa10-3da7-a148-a17b2c4f98a9 | -20.64437 | -41.06925 | 2024-09-27 03:49:00 | NOAA-20 | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 9f3a02b4-a01d-30a0-9ff0-5b075cbe5fca | -20.64375 | -41.07304 | 2024-09-27 03:49:00 | NOAA-20 | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 1fde4bef-ccef-3d18-bd00-2f19dcbf8569 | -20.54553 | -40.93164 | 2024-09-27 03:49:00 | NOAA-20 | ALFREDO CHAVES | ESPÍRITO SANTO | Brasil | 3200300 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 76a8044e-7d9a-3db6-9ffd-474841c469a2 | -20.54492 | -40.93539 | 2024-09-27 03:49:00 | NOAA-20 | ALFREDO CHAVES | ESPÍRITO SANTO | Brasil | 3200300 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| f3a862a0-eabf-3576-b4cb-75e82b9f613a | -20.30561 | -41.14385 | 2024-09-27 03:49:00 | NOAA-20 | VENDA NOVA DO IMIGRANTE | ESPÍRITO SANTO | Brasil | 3205069 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 5e80ee33-bcaa-379d-a043-c6fdf7549066 | -20.30499 | -41.14762 | 2024-09-27 03:49:00 | NOAA-20 | VENDA NOVA DO IMIGRANTE | ESPÍRITO SANTO | Brasil | 3205069 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 599968df-e740-3595-89c6-0d305ed0e99d | -20.30375 | -41.14377 | 2024-09-27 03:49:00 | NOAA-20 | VENDA NOVA DO IMIGRANTE | ESPÍRITO SANTO | Brasil | 3205069 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| c4f6b899-4964-3e1e-9c1a-b7b77fad7bab | -20.30314 | -41.14757 | 2024-09-27 03:49:00 | NOAA-20 | VENDA NOVA DO IMIGRANTE | ESPÍRITO SANTO | Brasil | 3205069 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 3b5dbd97-927f-309c-95de-631136626d5a | -20.29702 | -41.21648 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO CASTELO | ESPÍRITO SANTO | Brasil | 3201704 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| a19ebb7b-f8aa-36e7-823d-6f61beda756e | -20.29366 | -41.21585 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO CASTELO | ESPÍRITO SANTO | Brasil | 3201704 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 39cb467c-5dc0-3f59-ae97-aea028842de3 | -20.28792 | -41.43795 | 2024-09-27 03:49:00 | NOAA-20 | MUNIZ FREIRE | ESPÍRITO SANTO | Brasil | 3203700 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| caa13d3d-7359-3055-8b64-a54443bf07da | -20.27877 | -41.32621 | 2024-09-27 03:49:00 | NOAA-20 | MUNIZ FREIRE | ESPÍRITO SANTO | Brasil | 3203700 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 749e23bf-d530-3ea3-b338-355a70b7c5bf | -20.2754 | -41.32559 | 2024-09-27 03:49:00 | NOAA-20 | MUNIZ FREIRE | ESPÍRITO SANTO | Brasil | 3203700 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| f84251ac-12f1-3fe9-a0eb-d19e062a88bd | -20.27397 | -41.32571 | 2024-09-27 03:49:00 | NOAA-20 | MUNIZ FREIRE | ESPÍRITO SANTO | Brasil | 3203700 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| f48bb116-4a96-3751-84a9-3e2edd164d79 | -20.25605 | -41.28707 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO CASTELO | ESPÍRITO SANTO | Brasil | 3201704 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| c9755e92-4278-3c30-adb0-cbfef8db26ef | -20.25229 | -41.30994 | 2024-09-27 03:49:00 | NOAA-20 | BREJETUBA | ESPÍRITO SANTO | Brasil | 3201159 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 7ed10457-ea2e-3fee-9ac1-1d7d8eb9b343 | -20.19685 | -41.85391 | 2024-09-27 03:49:00 | NOAA-20 | DURANDÉ | MINAS GERAIS | Brasil | 3123528 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 543a0a5a-3352-3f32-b3e4-fcc93e9651d9 | -20.19343 | -41.85327 | 2024-09-27 03:49:00 | NOAA-20 | DURANDÉ | MINAS GERAIS | Brasil | 3123528 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 5acaa6e0-3c31-3bad-95af-55509163563f | -20.19277 | -41.85717 | 2024-09-27 03:49:00 | NOAA-20 | DURANDÉ | MINAS GERAIS | Brasil | 3123528 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| ed163fc6-ae5c-32d6-90e1-0b900ce1bbfe | -20.17974 | -41.45409 | 2024-09-27 03:49:00 | NOAA-20 | LAJINHA | MINAS GERAIS | Brasil | 3137700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 2a31c1d4-c72b-3cf2-b0b3-1f790860a8c1 | -20.90694 | -41.3631 | 2024-09-27 03:49:00 | NOAA-20 | MUQUI | ESPÍRITO SANTO | Brasil | 3203809 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| e3526536-95be-3bd7-b094-2447ec433e45 | -20.90356 | -41.36258 | 2024-09-27 03:49:00 | NOAA-20 | MUQUI | ESPÍRITO SANTO | Brasil | 3203809 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 54903e2e-272b-3e9a-805a-99294a0dd0f8 | -20.90294 | -41.36634 | 2024-09-27 03:49:00 | NOAA-20 | MUQUI | ESPÍRITO SANTO | Brasil | 3203809 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 20bc15cf-71ee-32f4-b914-e17c24d803e2 | -20.88022 | -41.31514 | 2024-09-27 03:49:00 | NOAA-20 | MUQUI | ESPÍRITO SANTO | Brasil | 3203809 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 301458db-2fd4-3be2-bacb-be87d2863d29 | -20.78148 | -41.48586 | 2024-09-27 03:49:00 | NOAA-20 | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| cac9e9fe-ba69-3501-82b3-bf515e14ff73 | -20.7781 | -41.48532 | 2024-09-27 03:49:00 | NOAA-20 | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| f0130848-a339-37d0-b4d3-dd9bb0372e6f | -20.77716 | -41.85044 | 2024-09-27 03:49:00 | NOAA-20 | PORCIÚNCULA | RIO DE JANEIRO | Brasil | 3304102 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| e7ebb26a-39df-3daa-93c4-4597d8be0d8f | -20.77651 | -41.85431 | 2024-09-27 03:49:00 | NOAA-20 | PORCIÚNCULA | RIO DE JANEIRO | Brasil | 3304102 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 5b7ca102-5b19-3d60-bf29-c343c46f5d5b | -20.77375 | -41.84986 | 2024-09-27 03:49:00 | NOAA-20 | PORCIÚNCULA | RIO DE JANEIRO | Brasil | 3304102 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| 0d78327e-2fdd-3622-b7e6-eeaa3aa7e87f | -20.77309 | -41.85377 | 2024-09-27 03:49:00 | NOAA-20 | PORCIÚNCULA | RIO DE JANEIRO | Brasil | 3304102 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| df86d9bc-67ac-39a0-84f7-3efadb20d4d6 | -20.62514 | -41.20647 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| ad7319b6-af14-354d-9ad0-3ba6776f288a | -20.62496 | -41.35386 | 2024-09-27 03:49:00 | NOAA-20 | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 2cb776bb-019d-3a56-8bc4-c8daa2887210 | -20.61809 | -41.22821 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 2811a9de-7860-3af9-bf58-20032ea0c65f | -20.61647 | -41.22855 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 82b9e3a0-ac6c-3e23-9b40-a5f00e78283d | -20.61524 | -41.23611 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 04b1d375-f56a-346f-b86d-4b9ed9dbe247 | -20.61461 | -41.23993 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 54212a71-f946-39ac-b2fd-93a161015848 | -20.59933 | -41.24876 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 3114327f-103f-3ef5-b792-3cd835257f73 | -20.59845 | -41.23308 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 73185832-3350-3344-86f3-cbe04fb35842 | -20.59722 | -41.24054 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 3c488f8b-f554-30e9-9406-02c8467ea8be | -20.5966 | -41.24434 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 265db8ef-eacd-3d64-8302-7e443ae029ae | -20.59598 | -41.24809 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| c8192bf8-4412-37fa-ad21-4c13496e6700 | -20.59509 | -41.23251 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
-| 43e473c5-9af2-3d97-adc9-a5cbdf6c0a61 | -20.59448 | -41.23617 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| fabcb01d-af21-34ef-8cae-6ee78fa31ebd | -20.59386 | -41.23993 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| fca2ee9c-6947-34f7-9d8c-b13f71bf15c6 | -20.59233 | -41.22823 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
-| ebdef50a-e467-3e11-8bc0-57c016ff0713 | -20.59172 | -41.23196 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
-| 1912bda9-a3f9-370c-896a-1fa59a731196 | -20.59111 | -41.23566 | 2024-09-27 03:49:00 | NOAA-20 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| cf79ce0a-0d4b-32f5-b6b7-e8db0cbeb0b9 | -20.53636 | -41.88236 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 5d86bdbe-27ea-3777-86f4-ca4203804128 | -20.53568 | -41.88641 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 84b003fe-f59d-36b7-8865-cea938d50ef4 | -20.51829 | -41.96811 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.6 |
-| 70dd0dd7-c578-33d5-8c9f-c5d9957a33f0 | -20.51761 | -41.97209 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.6 |
-| 55770cfd-9b84-3ffe-9d47-a1e88eb2232a | -20.51488 | -41.9674 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.6 |
-| 1b69b9c0-7dcc-3f62-a4d4-2eefa569a596 | -20.51284 | -41.97936 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 430e103c-fc6d-3bc0-a895-ff2cb478d62d | -20.51215 | -41.9627 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 02466787-ece3-343c-a43a-d3efe386089d | -20.51147 | -41.9667 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| f4afabaf-890b-3538-ac83-d8061b896aa8 | -20.50944 | -41.97863 | 2024-09-27 03:49:00 | NOAA-20 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
-| 3650fc32-cb75-341b-9fa2-413bc895925f | -20.43494 | -42.00525 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.1 |
-| 4629cfbb-3df1-3234-990b-3002a7509e2d | -20.43427 | -42.00921 | 2024-09-27 03:49:00 | NOAA-20 | LUISBURGO | MINAS GERAIS | Brasil | 3138674 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| bb631cc6-db8b-383c-af23-69d93d79d14f | -20.43359 | -42.01322 | 2024-09-27 03:49:00 | NOAA-20 | LUISBURGO | MINAS GERAIS | Brasil | 3138674 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 111550ad-4af3-3616-9cb2-4bfa978543b8 | -20.4322 | -42.02144 | 2024-09-27 03:49:00 | NOAA-20 | LUISBURGO | MINAS GERAIS | Brasil | 3138674 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 6698a473-4744-3dab-85fd-2d2434936b2c | -20.43152 | -42.02549 | 2024-09-27 03:49:00 | NOAA-20 | LUISBURGO | MINAS GERAIS | Brasil | 3138674 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| d9c6e34e-14d1-3465-88a2-f331c1a1447e | -20.4315 | -42.00468 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 476f1540-b035-3193-834e-f99f4c03dd94 | -20.43084 | -42.00861 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 659796a0-7d45-3426-ad84-293c5a0192c8 | -20.42805 | -42.00418 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 32e3a44c-cb7f-3b9b-927f-db83653b776e | -20.42739 | -42.0081 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 06017dc1-0fd7-3073-b6df-4cf489d16eb2 | -20.41381 | -41.88012 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 601f604d-5177-37bc-ac61-e4a9a6d964d3 | -20.41043 | -41.87932 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 5fbf0b89-26ce-3d8c-a7ca-972e46225e11 | -20.40973 | -41.88343 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 6f481f43-c0e2-3462-920e-57e453153cf9 | -20.40635 | -41.88256 | 2024-09-27 03:49:00 | NOAA-20 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| ebb5ba16-b1ba-3240-82a6-bb0b70a6333a | -20.3745 | -41.6961 | 2024-09-27 03:49:00 | NOAA-20 | IRUPI | ESPÍRITO SANTO | Brasil | 3202652 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 7f4d0999-fefb-3a1c-8590-239d69f1187c | -22.30371 | -41.88009 | 2024-09-27 03:49:00 | NOAA-20 | MACAÉ | RIO DE JANEIRO | Brasil | 3302403 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 49e958b6-bd12-3f3f-ae0f-3eb64f15db16 | -21.93264 | -41.55439 | 2024-09-27 03:49:00 | NOAA-20 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| b727d4a9-17ed-3010-96fb-c155938c7a20 | -21.93201 | -41.55822 | 2024-09-27 03:49:00 | NOAA-20 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 28b9ee88-a7fb-372c-a872-1a1cead528f9 | -21.74514 | -41.37087 | 2024-09-27 03:49:00 | NOAA-20 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
-| daab3570-983c-3228-8189-2e844cbb0c48 | -21.7418 | -41.37024 | 2024-09-27 03:49:00 | NOAA-20 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| a6c4a32a-f588-3407-b2bd-4cac641a9b0f | -21.70691 | -41.81297 | 2024-09-27 03:49:00 | NOAA-20 | SÃO FIDÉLIS | RIO DE JANEIRO | Brasil | 3304805 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 77c49658-fb5a-3b13-975b-5d38b5638f66 | -21.60183 | -41.87791 | 2024-09-27 03:49:00 | NOAA-20 | SÃO FIDÉLIS | RIO DE JANEIRO | Brasil | 3304805 | 33 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
+| 39f0a049-beff-3d59-bdcc-6e954c702eb5 | -20.26032 | -41.30193 | 2024-09-28 04:23:00 | NOAA-21 | BREJETUBA | ESPÍRITO SANTO | Brasil | 3201159 | 32 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
+| b5dc24a4-d148-3046-a4dd-50019accc725 | -20.08466 | -41.68135 | 2024-09-28 04:23:00 | NOAA-21 | CHALÉ | MINAS GERAIS | Brasil | 3116001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| ccfe4f14-90cb-3bb0-ab13-1427aeb8d722 | -20.08415 | -41.68554 | 2024-09-28 04:23:00 | NOAA-21 | CHALÉ | MINAS GERAIS | Brasil | 3116001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
+| 4cc6cfbf-41d0-3b77-8d76-729297c6979d | -19.95139 | -41.42425 | 2024-09-28 04:23:00 | NOAA-21 | MUTUM | MINAS GERAIS | Brasil | 3144003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| dc3706d3-1c69-3554-9523-2c7f9f623921 | -19.93431 | -41.78589 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DE IPANEMA | MINAS GERAIS | Brasil | 3117405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| b21686e7-afe6-3ff2-8c9a-78b8464e8737 | -19.93382 | -41.78995 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DE IPANEMA | MINAS GERAIS | Brasil | 3117405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| a43939e8-818c-31b0-8665-d8b170d6020a | -19.52381 | -41.55315 | 2024-09-28 04:23:00 | NOAA-21 | POCRANE | MINAS GERAIS | Brasil | 3151909 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 0131d82e-dacb-38c2-a71d-2276f7ef20db | -20.70914 | -41.7781 | 2024-09-28 04:23:00 | NOAA-21 | GUAÇUÍ | ESPÍRITO SANTO | Brasil | 3202306 | 32 | 33 | nan | nan | nan | Mata Atlântica | 8.2 |
+| 98e7f091-0fea-337e-aebd-628e2d15178d | -20.7086 | -41.78256 | 2024-09-28 04:23:00 | NOAA-21 | DORES DO RIO PRETO | ESPÍRITO SANTO | Brasil | 3202009 | 32 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
+| e7cb734b-4d38-32df-a380-37a60330d361 | -20.61983 | -41.7365 | 2024-09-28 04:23:00 | NOAA-21 | DIVINO DE SÃO LOURENÇO | ESPÍRITO SANTO | Brasil | 3201803 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| c99a8a8c-9225-3c79-8384-ddc0661e7468 | -20.61931 | -41.74078 | 2024-09-28 04:23:00 | NOAA-21 | DIVINO DE SÃO LOURENÇO | ESPÍRITO SANTO | Brasil | 3201803 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 2ffe188d-64de-3837-af46-3a30e8ec0c46 | -20.5188 | -41.96294 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 89a47c1b-1599-393b-a4a5-b06d03084b8f | -20.51678 | -41.97902 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| a29b5e75-5c65-3857-879c-b171d703165b | -20.51532 | -41.96154 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| d0d065e7-c7bc-3844-875e-48f6d52bb779 | -20.51484 | -41.96557 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 9a0840b7-e774-3b0d-bb24-78cae5ded00b | -20.51457 | -41.96255 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| b137c9a4-ea52-3123-b4f0-7afad7fc0023 | -20.51343 | -41.97748 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 91ce3470-1a09-38c5-a597-1634e0da3057 | -20.5092 | -41.97712 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| f403fe8b-56b4-3f1e-8613-537923b5f44e | -20.50886 | -41.97403 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 8ddc163f-816e-3aad-9e38-bdd53af8f44b | -20.50835 | -41.97812 | 2024-09-28 04:23:00 | NOAA-21 | CAPARAÓ | MINAS GERAIS | Brasil | 3112109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 9cad956a-6b73-38c9-af8d-d5ee160a2049 | -20.50514 | -41.96951 | 2024-09-28 04:23:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 1b0c0581-0d2a-359f-a85e-959e7302e243 | -20.50463 | -41.97365 | 2024-09-28 04:23:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 19bd0d3f-1dbd-3ba8-95c4-54bec5873e7c | -20.47861 | -41.16076 | 2024-09-28 04:23:00 | NOAA-21 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| 96611fef-eb10-3973-a788-79cc3de958bb | -20.4781 | -41.16506 | 2024-09-28 04:23:00 | NOAA-21 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| e7aa5fa9-c88a-3a1e-a952-6c4b8063b65d | -20.47759 | -41.16937 | 2024-09-28 04:23:00 | NOAA-21 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
+| 6cbec277-d6f2-3bdb-a5f4-b2e6d809b6d4 | -20.47369 | -41.16431 | 2024-09-28 04:23:00 | NOAA-21 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 5660e574-9e79-3a2f-9a7d-864509f3da60 | -20.47317 | -41.16873 | 2024-09-28 04:23:00 | NOAA-21 | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 5577a318-5bf0-33d7-b097-62bccc2e9478 | -20.4369 | -42.00397 | 2024-09-28 04:23:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 86d01cdb-2b3d-3599-989d-84b57f368bfe | -20.4364 | -42.00813 | 2024-09-28 04:23:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 15c3134e-b8d0-3adc-9386-44c29246905b | -20.43592 | -42.01208 | 2024-09-28 04:23:00 | NOAA-21 | LUISBURGO | MINAS GERAIS | Brasil | 3138674 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 6b273395-5ba7-37bb-acd9-558780747e55 | -20.43275 | -42.00301 | 2024-09-28 04:23:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 05e10496-7fb1-310f-a2a5-6e13d6b835d6 | -20.82682 | -41.6201 | 2024-09-28 04:23:00 | NOAA-21 | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
+| 406cd40d-c39c-3188-9d51-7820d4603da6 | -20.82635 | -41.62401 | 2024-09-28 04:23:00 | NOAA-21 | GUAÇUÍ | ESPÍRITO SANTO | Brasil | 3202306 | 32 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
+| e00e828f-5551-34e7-9ce4-dc62900d40a8 | -20.82303 | -41.61497 | 2024-09-28 04:23:00 | NOAA-21 | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 222a40e9-74f1-31a0-8ba4-9e3ad3d41e15 | -20.82253 | -41.61923 | 2024-09-28 04:23:00 | NOAA-21 | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 4e201324-dcfd-3a12-9276-485387f4a1ac | -20.82205 | -41.62327 | 2024-09-28 04:23:00 | NOAA-21 | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 90b53fa9-5c31-3474-992b-b37b3c33164c | -20.82158 | -41.62717 | 2024-09-28 04:23:00 | NOAA-21 | GUAÇUÍ | ESPÍRITO SANTO | Brasil | 3202306 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 121e021b-92df-3ae4-9a09-433ccdf55dc9 | -21.60395 | -41.88334 | 2024-09-28 04:23:00 | NOAA-21 | SÃO FIDÉLIS | RIO DE JANEIRO | Brasil | 3304805 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 1417b0e5-1944-35f8-a756-3c1870194fc6 | -21.60262 | -41.88048 | 2024-09-28 04:23:00 | NOAA-21 | SÃO FIDÉLIS | RIO DE JANEIRO | Brasil | 3304805 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 1313abb8-610b-3b18-a55a-3638972c9c5f | -21.60212 | -41.88483 | 2024-09-28 04:23:00 | NOAA-21 | SÃO FIDÉLIS | RIO DE JANEIRO | Brasil | 3304805 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 3aa1c758-1452-3062-962b-3f807a3fb6cb | -21.59966 | -41.88276 | 2024-09-28 04:23:00 | NOAA-21 | SÃO FIDÉLIS | RIO DE JANEIRO | Brasil | 3304805 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 6d19caa2-5c97-3cd3-8b92-22c4f04a643a | -21.50597 | -42.04952 | 2024-09-28 04:23:00 | NOAA-21 | SANTO ANTÔNIO DE PÁDUA | RIO DE JANEIRO | Brasil | 3304706 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 0bf3448e-fc27-3fd8-b37f-d8fe66abf208 | -21.29719 | -41.92467 | 2024-09-28 04:23:00 | NOAA-21 | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| bc099ad2-ff38-3718-9af7-f61bdcd53c0e | -21.29677 | -41.92822 | 2024-09-28 04:23:00 | NOAA-21 | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 3adc19d9-678a-3671-a651-62376b85bc95 | -17.78021 | -42.81021 | 2024-09-28 04:23:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| df089d3a-bc8f-3cc1-89ff-e7f7a18bbd82 | -17.71186 | -42.33083 | 2024-09-28 04:23:00 | NOAA-21 | CAPELINHA | MINAS GERAIS | Brasil | 3112307 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 0b87179b-1d19-364e-95a2-9a77511b9f7e | -17.44592 | -42.62141 | 2024-09-28 04:23:00 | NOAA-21 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 36.6 |
+| f46894d3-d9b7-31f3-9969-6402a427946c | -17.43885 | -42.61515 | 2024-09-28 04:23:00 | NOAA-21 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 46.1 |
+| e0f4548d-7cce-3249-ac4b-956f3dc1c40d | -17.43818 | -42.62027 | 2024-09-28 04:23:00 | NOAA-21 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 36.4 |
+| 442d63e7-895f-39a6-b637-8cc4ead5a957 | -17.90752 | -42.13728 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 01fdcb48-1da4-3bbe-9c68-da48541c8e17 | -17.88896 | -42.14275 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 2ad20a26-7cb6-3521-b481-3843e9869ba9 | -17.88542 | -42.13852 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| f7f997bd-465a-3887-9a30-3dc7eb3ea0ba | -17.98088 | -42.29484 | 2024-09-28 04:23:00 | NOAA-21 | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 55669ab5-10dc-34ac-b077-9a376d786fb0 | -17.91154 | -42.13786 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 3f84d9d5-1bc4-3950-a279-233ad51e1fc7 | -17.88945 | -42.13905 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 80774de0-01d0-3e47-ba32-1a1a33fe2f98 | -17.88494 | -42.14222 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 59e694ef-bda6-356f-b9d5-919636e607d2 | -17.44661 | -42.61626 | 2024-09-28 04:23:00 | NOAA-21 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| fb5571cd-5c3d-3891-9059-ac84dec40210 | -17.56193 | -42.34938 | 2024-09-28 04:23:00 | NOAA-21 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b60dc178-0420-302e-90e0-b060cc6f64ad | -17.44273 | -42.6157 | 2024-09-28 04:23:00 | NOAA-21 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 46.1 |
+| f3da40f0-1604-3ff3-a4a2-3b0d390598d0 | -17.44205 | -42.62085 | 2024-09-28 04:23:00 | NOAA-21 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 36.4 |
+| 3a2a1508-b583-3146-b68a-f9ab69d428bf | -17.91605 | -42.13447 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 1a81fb2e-8d98-387d-964b-0a725a545103 | -17.91202 | -42.13396 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| b5ca4a22-925f-3543-afdb-17929fff48ee | -17.9769 | -42.29424 | 2024-09-28 04:23:00 | NOAA-21 | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 055e3f29-cb96-3581-a8a9-e17b9bade350 | -17.91557 | -42.13831 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 66c72b3f-1dca-3514-b6ad-32898e7fe3fa | -17.91008 | -42.13774 | 2024-09-28 04:23:00 | NOAA-21 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| fb1bde2e-7bb0-372c-b889-d587cc4a1c75 | -19.3957 | -42.9912 | 2024-09-28 04:23:00 | NOAA-21 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 397c9cce-0244-3001-8e41-cae4ecdc26cd | -19.39222 | -42.58441 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| c99e1200-2582-3a11-88f8-b77767974623 | -19.38605 | -42.60123 | 2024-09-28 04:23:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 54b670ac-1a58-30f9-a9a4-d3e5ee75871e | -19.37803 | -42.60055 | 2024-09-28 04:23:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| 330989f0-42f7-32a9-8d24-b313b01c92a8 | -19.37614 | -42.58329 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
+| a87fc2b1-274e-34e1-bf2b-482bd90fb8d0 | -19.36956 | -42.57088 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| af6984ae-9a89-3552-a513-44c7a0e3f94a | -19.36433 | -42.5803 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 0249d972-5b52-3e12-8b4a-78de3238561c | -19.36294 | -42.57328 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
+| c8413582-6a4e-36e4-83c6-107794cbfe63 | -19.27847 | -42.72575 | 2024-09-28 04:23:00 | NOAA-21 | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 4b884c47-d1e5-3d83-ac65-f6c6a699485e | -19.27454 | -42.72503 | 2024-09-28 04:23:00 | NOAA-21 | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 21f35647-b9f2-3de8-a68e-36300ea64e38 | -19.40813 | -42.32669 | 2024-09-28 04:23:00 | NOAA-21 | BUGRE | MINAS GERAIS | Brasil | 3109253 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 16ca018d-a917-355d-bc42-59b4908b1c16 | -19.40159 | -42.57452 | 2024-09-28 04:23:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| c6b1afd9-4278-3128-a87b-57484323bb05 | -19.39148 | -42.59035 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| 6e894140-9e45-306d-8514-8a524dcd4c75 | -19.36765 | -42.56836 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 1a48d4b8-0df4-3ded-bcc0-64c0556bdbb2 | -19.36684 | -42.59271 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 6c57d6ee-1289-302b-80ca-c19ac78fcd3d | -19.36463 | -42.59127 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| adcd5e32-216d-3c31-8498-530203d7ef95 | -19.3639 | -42.59682 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 3b0a522a-7d16-3245-9b1b-255412007153 | -19.36107 | -42.5738 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 56311e4c-f8c4-33d0-8f30-997a40b1ea7e | -19.40431 | -42.58509 | 2024-09-28 04:23:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 7553e8ec-9078-36a2-bcf4-2464dc98a557 | -19.39541 | -43.27663 | 2024-09-28 04:23:00 | NOAA-21 | ITAMBÉ DO MATO DENTRO | MINAS GERAIS | Brasil | 3132800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 991df81f-777e-34b6-8488-b79fde0559f3 | -19.39476 | -43.2817 | 2024-09-28 04:23:00 | NOAA-21 | ITAMBÉ DO MATO DENTRO | MINAS GERAIS | Brasil | 3132800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 22b5de46-118c-32ee-9ae5-a4dfada6546a | -19.3787 | -42.59527 | 2024-09-28 04:23:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
+| 171d75f9-ace2-3cb4-9b3b-a4afb89a2f8a | -19.36687 | -42.57432 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 03616b74-e129-314b-9a29-88ed20a2edf2 | -19.36613 | -42.56573 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
+| 7409419e-c31a-3b20-8da8-b5e2fb72e2c1 | -19.36371 | -42.56747 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
+| 6e9c7565-94b9-3cec-a52a-aa1eff18b02f | -19.36221 | -42.59735 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| d7a63349-30e9-3ed3-890a-c901e6d2845f | -19.36166 | -42.56901 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
+| 057d5ead-ae43-375d-83ba-538365a867a7 | -19.35896 | -42.57266 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
+| 99ddee97-bfc9-3522-94be-50d00bd21102 | -19.4266 | -42.50598 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| 0b5dd0d3-17fc-31f4-bff6-e79a113efe1b | -19.38674 | -42.59579 | 2024-09-28 04:23:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 86466333-e13a-31c8-8ec4-961d3b217953 | -19.37474 | -42.59449 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
+| 907133dc-aea5-30e9-bf51-1102db4f9248 | -19.36616 | -42.59818 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 551a18fc-44d0-3712-a5ac-de40c1c57871 | -19.36562 | -42.56987 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
+| 653896b8-6439-3994-b8a6-b727d91b9dee | -19.36221 | -42.57885 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| e54d904b-1d9b-33b6-b3d3-c17b818860a6 | -19.36216 | -42.565 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
 
 
 [Clique aqui para ver as próximas entradas](README60.md)

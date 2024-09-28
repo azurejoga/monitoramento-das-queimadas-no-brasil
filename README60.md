@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 224ca6e6-0454-312c-ba56-3fb09e9ca51f | -21.00822 | -41.28306 | 2024-09-27 03:49:00 | NOAA-20 | MIMOSO DO SUL | ESPÍRITO SANTO | Brasil | 3203403 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 957cb360-c8e3-36c2-bfa4-b6c40f9b480b | -21.00489 | -41.28227 | 2024-09-27 03:49:00 | NOAA-20 | MIMOSO DO SUL | ESPÍRITO SANTO | Brasil | 3203403 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| b52f6e43-29d6-3eb7-a3d7-33622b277250 | -21.00428 | -41.28602 | 2024-09-27 03:49:00 | NOAA-20 | MIMOSO DO SUL | ESPÍRITO SANTO | Brasil | 3203403 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| ecda98bf-2035-3f81-860c-bfcaf74beadc | -21.28377 | -41.09707 | 2024-09-27 03:49:00 | NOAA-20 | SÃO FRANCISCO DE ITABAPOANA | RIO DE JANEIRO | Brasil | 3304755 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| aaf6ff56-a20e-313b-a7c2-e96412bf6685 | -22.87723 | -42.48163 | 2024-09-27 03:49:00 | NOAA-20 | SAQUAREMA | RIO DE JANEIRO | Brasil | 3305505 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| f1c7d8ca-63cf-3c1b-bbdb-df9d83163845 | -16.54065 | -41.44108 | 2024-09-27 03:49:00 | NOAA-20 | JEQUITINHONHA | MINAS GERAIS | Brasil | 3135803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 2272f13e-07fd-33e2-b7c1-b4f5b9fbcde9 | -17.99775 | -42.30835 | 2024-09-27 03:49:00 | NOAA-20 | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 52603645-9599-3829-8533-5e992a02c5b4 | -17.99421 | -42.30761 | 2024-09-27 03:49:00 | NOAA-20 | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| e8f062ff-f8f5-3953-99ef-1fc368329d1f | -17.98147 | -42.29637 | 2024-09-27 03:49:00 | NOAA-20 | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 4c1b71bf-7d8d-3e48-826c-f237cdfed88c | -17.92212 | -42.13514 | 2024-09-27 03:49:00 | NOAA-20 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 4af2e2e0-e361-3b6f-99e2-6de8297b4614 | -17.9207 | -42.14344 | 2024-09-27 03:49:00 | NOAA-20 | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 5e247262-8b9f-36fe-bad0-b4ac57f9e7e2 | -17.77943 | -42.80837 | 2024-09-27 03:49:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 20a3d45e-07ae-309b-8e6e-23ce784ee13a | -16.87426 | -42.14356 | 2024-09-27 03:49:00 | NOAA-20 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| d9175029-7f90-3175-bbfd-cd9ed5174b25 | -16.87351 | -42.14782 | 2024-09-27 03:49:00 | NOAA-20 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 3b110b84-2ddb-3fda-bce7-9e419e1e92db | -18.90643 | -42.00576 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| ce74010a-ad5a-3bd9-a16b-48a3eb9509e1 | -19.00468 | -42.59387 | 2024-09-27 03:49:00 | NOAA-20 | AÇUCENA | MINAS GERAIS | Brasil | 3100500 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| f2e606da-0cba-3b76-baa0-c731474b4004 | -18.78928 | -42.79142 | 2024-09-27 03:49:00 | NOAA-20 | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| df582d53-c644-3586-8aab-8f7350ed657a | -18.70585 | -42.09473 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| c8ca6730-a43f-3183-990b-479fe76636cf | -18.70514 | -42.09895 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| fc8a225e-fc14-3ad1-9cee-d4230bf78d1b | -18.70443 | -42.10315 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| ca5e97e2-17a1-3222-af40-0d32450690b7 | -18.70377 | -42.08574 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| c5088bcd-6369-32f7-8854-0073fd0752cc | -18.70372 | -42.10733 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 12bf7a03-c1a3-3fb1-9d7c-aa747f20a95a | -18.70308 | -42.08983 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| a216e3fb-650d-31ee-a2b4-aa7a63222a1b | -18.70094 | -42.10245 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 403f8886-9bfc-3458-aecf-d74a79aaf843 | -18.69957 | -42.08925 | 2024-09-27 03:49:00 | NOAA-20 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 2c9520f8-54fd-3ed7-95ec-ba057b06e867 | -18.5444 | -42.56435 | 2024-09-27 03:49:00 | NOAA-20 | PEÇANHA | MINAS GERAIS | Brasil | 3148608 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| c8483cf5-1aa3-39cf-b5e4-de23c39790ab | -18.54209 | -42.56602 | 2024-09-27 03:49:00 | NOAA-20 | PEÇANHA | MINAS GERAIS | Brasil | 3148608 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 3dc61051-bb0b-3110-b201-a3e1c6cf9b8c | -18.50023 | -42.21442 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 4b5147bd-a486-3a3d-8f49-5d45ded56429 | -18.49953 | -42.21845 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 3c465a30-d850-3a53-8ee5-856843e6972c | -18.49461 | -42.20493 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 6e5fddbb-53a4-34d0-a12a-a734e8001885 | -18.49452 | -42.20626 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 2ad7b16f-e79c-357f-824d-44df190ec914 | -18.49112 | -42.20413 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 7a03ddad-6419-32de-a3ce-2e00bd13a554 | -18.49102 | -42.20549 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 1320e2c5-77e1-3857-a6fe-7cdaa02a95ca | -18.49041 | -42.20819 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 54648af2-6037-3d47-935f-8ab62f5a81cb | -18.48752 | -42.20474 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 8aee8474-d4e8-3a87-94e7-c60f91adef9a | -18.4868 | -42.20894 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 65936dc2-b675-3def-b2d0-0494a8c55432 | -18.48396 | -42.20429 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 3351fb9f-ed79-3b5c-bafe-7db6a2c364e1 | -18.48324 | -42.20855 | 2024-09-27 03:49:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 529c249d-7a6b-3ad0-904a-fa90c84efe6e | -18.33553 | -42.61761 | 2024-09-27 03:49:00 | NOAA-20 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 76799806-ed1b-33ca-a3ae-31862a33884c | -18.33385 | -42.16861 | 2024-09-27 03:49:00 | NOAA-20 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.3 |
-| df7c6ce8-ec37-3022-9dea-c2b7cc24c459 | -18.33194 | -42.61688 | 2024-09-27 03:49:00 | NOAA-20 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 94c6d6b7-2464-352a-b073-aec5cdcfecfa | -18.31401 | -42.61342 | 2024-09-27 03:49:00 | NOAA-20 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| d3f8fd07-428c-3b18-b3f2-800540d85c5f | -18.31309 | -42.61019 | 2024-09-27 03:49:00 | NOAA-20 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 331d203d-7fff-337e-887c-1eb703dadc0e | -18.29376 | -42.74878 | 2024-09-27 03:49:00 | NOAA-20 | COLUNA | MINAS GERAIS | Brasil | 3116803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| af8186ec-5200-3e3a-823b-841cf55e1e62 | -18.2928 | -42.75004 | 2024-09-27 03:49:00 | NOAA-20 | COLUNA | MINAS GERAIS | Brasil | 3116803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 450e91cb-bfd1-3257-a504-30cc70c9a01c | -18.2746 | -42.13362 | 2024-09-27 03:49:00 | NOAA-20 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| cfc696b1-739a-32ed-8d76-19884e72578b | -18.26879 | -42.67322 | 2024-09-27 03:49:00 | NOAA-20 | SÃO JOSÉ DO JACURI | MINAS GERAIS | Brasil | 3163508 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 93c68955-f78d-3eae-b0fd-bf7d55c32e0c | -18.26806 | -42.67741 | 2024-09-27 03:49:00 | NOAA-20 | SÃO JOSÉ DO JACURI | MINAS GERAIS | Brasil | 3163508 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| ecd23fc7-c79e-3fbb-a686-98d13a1bcb24 | -19.42189 | -42.63834 | 2024-09-27 03:49:00 | NOAA-20 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 16733e3c-6788-32d0-a7cc-26349ae4f49e | -19.41836 | -42.63756 | 2024-09-27 03:49:00 | NOAA-20 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 0fc657a8-898d-3f91-a048-825b0893bb72 | -19.40173 | -42.98557 | 2024-09-27 03:49:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| ee290e11-a8b8-3771-bf0c-c8f35b12937c | -19.39815 | -42.98473 | 2024-09-27 03:49:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| c59bc4ff-7fd2-3c9f-90de-a04c13b8cf0b | -19.39724 | -42.57389 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 23.9 |
-| 78c4dfa6-8a74-3ad4-a2dc-37ccc3cc18c4 | -19.39438 | -42.56923 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 18.3 |
-| c426cb67-efaf-3143-a0f0-3c47e84882d6 | -19.39368 | -42.5733 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 23.9 |
-| f49cdf41-b1ba-3b76-920a-0f16abf60d1b | -19.39081 | -42.56876 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
-| b866399f-7829-3607-be7f-99ba508928f2 | -19.39011 | -42.57282 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| d589f371-3970-3b8b-b78f-62334d391e2a | -19.38874 | -42.58078 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| ae19dfc5-6aaa-3081-8918-50654126dde9 | -19.38807 | -42.58464 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| 9bfcffa6-e328-3331-9aee-0b38f47f0a4b | -19.38739 | -42.58856 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 9ed1a45f-dfbe-3f39-8dba-d71d4d2b62d3 | -19.38725 | -42.5682 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
-| 8aa21d2e-e054-3ff5-9484-baa7ed43f2bd | -19.38656 | -42.57222 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| 1881c922-4e57-3278-8d6f-6b679d685383 | -19.38589 | -42.57612 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| b1153cba-d328-3f43-bb38-1e2654e199ec | -19.38522 | -42.57996 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| 0677bc0c-a8b1-35d1-8c12-0a6231b8ee48 | -19.38455 | -42.58379 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| 28348264-dd3b-3466-b3e8-1c2975a0e6b8 | -19.38388 | -42.58768 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 6d035fe7-4816-3ac4-b0d9-a53e21baa7da | -19.38318 | -42.59174 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 2ce65d38-fce5-36d1-9fdc-102bfedf50ab | -19.38304 | -42.5714 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.8 |
-| b971c375-f582-3626-86af-46fd5bca19b0 | -19.38239 | -42.57518 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.8 |
-| c77e7e15-4cfe-33f2-877d-310e1ff7bef6 | -19.3809 | -42.56266 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 4cacc2bd-ca51-3984-b3cb-17176cb1df71 | -19.38037 | -42.58678 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| f0cb4057-fb6a-321b-bb3c-b3c2ad47531d | -19.3802 | -42.56666 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 404c6d7b-c5a1-308b-9fcb-3dcdcca01eb7 | -19.37967 | -42.59086 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 040e0702-2056-39d5-80c6-a367ff79beee | -19.37952 | -42.57058 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.8 |
-| 096b6131-9aae-3bf7-b545-8169f0470fb5 | -19.37737 | -42.56193 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| b77e6a02-46f0-307d-a102-f06c42c36272 | -19.37668 | -42.56586 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 648a08ea-1122-3bee-8d5c-712fc1c1960d | -19.37601 | -42.56972 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| ded1795e-c6fd-3e20-8151-67772924c4da | -19.37535 | -42.57354 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 731b2cab-a2c5-3a67-9d24-db923bf023af | -19.37454 | -42.55714 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| cff3ebe1-18fc-37e4-9e11-6477147b4ceb | -19.37384 | -42.56116 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| af3d8dad-b8ff-3308-a51b-e6657c81d66b | -19.37317 | -42.56505 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 8b55dd84-736b-3b9d-a0b0-faf28030af76 | -19.37251 | -42.56886 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 5f40a990-2dc7-32b0-a3bc-bd49c69bf806 | -19.37183 | -42.57272 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| f566a5e6-c815-3412-904e-58429760d9e0 | -19.37115 | -42.57669 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| cbeba368-85e1-3e9d-9cf3-3d11d59f581c | -19.37044 | -42.58078 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| 0cf42cb4-9f86-3a0f-a74e-8501c9b5a3cc | -19.36972 | -42.58494 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| 8dd58fbc-1f8d-300a-b34f-9bb6380b418b | -19.36897 | -42.56819 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| bd204f5e-d3a7-3744-a1db-cc6f9035d7f9 | -19.36828 | -42.57214 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 93a61bcb-8c0c-3037-beca-f9ca063872ed | -19.36757 | -42.57624 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| abb9895a-e400-33db-bb96-020abb4d2890 | -19.36685 | -42.58038 | 2024-09-27 03:49:00 | NOAA-20 | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| c895d302-f6aa-3676-a2e1-cb7facc84174 | -19.27461 | -42.72991 | 2024-09-27 03:49:00 | NOAA-20 | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| cf6df5f9-7635-3b53-ae6a-f50af523d51d | -19.27316 | -42.72696 | 2024-09-27 03:49:00 | NOAA-20 | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| b6ced5c8-7773-3aed-a472-98210ede3627 | -19.27243 | -42.73122 | 2024-09-27 03:49:00 | NOAA-20 | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 4eb870de-4467-3547-aa5d-874fab8a0413 | -19.2229 | -42.34072 | 2024-09-27 03:49:00 | NOAA-20 | NAQUE | MINAS GERAIS | Brasil | 3144359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 8118c8c1-3c79-3f1d-8308-491b49bf7b65 | -20.97789 | -42.40394 | 2024-09-27 03:49:00 | NOAA-20 | MURIAÉ | MINAS GERAIS | Brasil | 3143906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 08600816-c3ac-3fc9-ad2f-479309b79fe9 | -20.97722 | -42.40786 | 2024-09-27 03:49:00 | NOAA-20 | MURIAÉ | MINAS GERAIS | Brasil | 3143906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| 4b57d942-caff-3391-a491-a3e5be4c0f76 | -20.84725 | -42.63214 | 2024-09-27 03:49:00 | NOAA-20 | ERVÁLIA | MINAS GERAIS | Brasil | 3124005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 7f216ddb-1c52-31bf-97c0-89ea6c088e31 | -20.84375 | -42.63148 | 2024-09-27 03:49:00 | NOAA-20 | ERVÁLIA | MINAS GERAIS | Brasil | 3124005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| f273ee0f-61bf-3e32-9900-f942d8896cb8 | -20.7492 | -42.77842 | 2024-09-27 03:49:00 | NOAA-20 | VIÇOSA | MINAS GERAIS | Brasil | 3171303 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 6af60e3b-8f20-3069-ae30-6665dacef97a | -20.63282 | -42.2698 | 2024-09-27 03:49:00 | NOAA-20 | FERVEDOURO | MINAS GERAIS | Brasil | 3125952 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 7d540e8b-800f-35e7-8e12-581b8f2b2110 | -18.70585 | -42.07922 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
+| 3fdf39c5-c486-3246-9f36-6d1830b3c4fe | -18.70126 | -42.08278 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| a9866013-370f-3be5-be93-96c65ae1b9d3 | -18.69938 | -42.0977 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
+| 75b29dc5-e544-3879-8dec-5e9f79f8f7a6 | -18.50082 | -42.22371 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| cc9592e9-5975-321d-9c3c-4718832bff4c | -18.49679 | -42.22321 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 2e5de9ad-e236-3ae4-99c8-90c203074c5a | -18.48523 | -42.21736 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| d516bc7b-520d-398c-bcb6-43731c647e06 | -18.48452 | -42.19071 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 692626ff-8672-35f2-b9a8-b2da17368ee5 | -18.48092 | -42.18681 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| 37d6b234-edb0-3d79-bcb9-9e50f9e4a194 | -18.36335 | -42.76033 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| a4faa071-6361-325c-a4d3-289e6cba3319 | -18.35947 | -42.75967 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| d7d5e56f-2ad3-3bd8-b027-38ec10113d67 | -18.35891 | -42.75795 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 5e590912-c17d-37a5-b4c7-32e2a8302d9c | -18.29155 | -42.54118 | 2024-09-28 04:23:00 | NOAA-21 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
+| f37d0d62-dc74-3baf-89c2-87c9cef5a1ce | -18.28312 | -42.14434 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 4cc5a5a9-f362-375d-8f9c-bbf765e01e96 | -18.2826 | -42.14835 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| ffe53ec3-44fb-3abf-86a7-643c2cdea154 | -18.2675 | -42.13784 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 3050f48b-c381-3b3f-9be4-6295226e5eeb | -18.13743 | -42.40675 | 2024-09-28 04:23:00 | NOAA-21 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| def2634e-ecc8-379d-be89-80406b594e63 | -18.70229 | -42.07449 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
+| e4589747-a095-31eb-a9ab-541f9ef9e1a1 | -18.70177 | -42.0787 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
+| 9cf8d609-8aff-37b6-ac53-4e404dda97cd | -18.69984 | -42.09408 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.7 |
+| 6001505c-ce2a-3aeb-a75a-3d153f0bd2fd | -18.6982 | -42.07402 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.9 |
+| a76bde60-6918-3a9b-a6e8-66b7b3596b90 | -18.69532 | -42.09707 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
+| 33ed85d0-2e80-370a-86d3-318af6cb1575 | -18.50485 | -42.22425 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| d1d8b4ba-2403-335d-bf20-fcd50acf00cc | -18.49634 | -42.22667 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| d13188f5-cf7a-38f5-8acf-a861cf180acc | -18.49276 | -42.22259 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 98431058-eecd-3875-a162-9724014bfd95 | -18.48969 | -42.21459 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| d91625f5-933d-346a-83a8-08f47c3bb56e | -18.48921 | -42.21831 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| 3491d3f8-b100-3863-abcb-4ffd03fc0712 | -18.4857 | -42.21366 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| 6de9f2b4-7a83-30bc-9c36-b350b4cca83a | -18.4856 | -42.8644 | 2024-09-28 04:23:00 | NOAA-21 | PAULISTAS | MINAS GERAIS | Brasil | 3148400 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| f7c7c2ce-ecd7-3e0c-af74-93833780e306 | -18.48475 | -42.22105 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 79e4cc3d-dd78-3044-a8e3-0ca0778a41de | -18.48044 | -42.19052 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| b369bab0-2873-3e7d-8469-560dd4ed3550 | -18.47685 | -42.18643 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| d7478217-f09a-3032-86f8-ddb3869dc0f3 | -18.47638 | -42.19017 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 34626aa5-84f6-3ef7-bb06-df3294d57e35 | -18.36207 | -42.76394 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
+| a986d454-316c-3469-b086-12b6db050809 | -18.35881 | -42.76483 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| eeae818a-2ee8-3759-8c35-287e9ec12ae4 | -18.35819 | -42.76329 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 2726f558-eed4-3a5b-aa89-f6c04282974f | -18.29222 | -42.53597 | 2024-09-28 04:23:00 | NOAA-21 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
+| 07adb609-1fd3-39d8-b012-aa05fe69fba5 | -18.25696 | -42.1562 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 092b86a9-4e3d-331c-bbd8-e7ba0d5e96b6 | -18.82639 | -43.18087 | 2024-09-28 04:23:00 | NOAA-21 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 9d27ce28-724d-34fb-bedd-0957f1c8e998 | -18.82254 | -43.1805 | 2024-09-28 04:23:00 | NOAA-21 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 8fde6567-ab30-3e98-b0db-645357bc730a | -18.79528 | -42.94157 | 2024-09-28 04:23:00 | NOAA-21 | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| ea65c372-66a5-3cbf-b5a5-b434fa3ce63d | -18.69769 | -42.07815 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.9 |
+| 1539bce3-85cd-3fac-bc76-93790fa83c1a | -18.69578 | -42.0934 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| 1106305b-6d03-3310-a566-8979b6d69138 | -18.48874 | -42.22194 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| ca2d7589-cbd9-3a34-8d93-3bd1577ff4e8 | -18.4822 | -42.20889 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 828d10b4-24f2-329a-80c3-c86fff27735a | -18.48175 | -42.21245 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 85cbc126-ea92-3c59-b8b4-951c0e076858 | -18.47999 | -42.19402 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 9bfb597d-8033-3a42-a7fd-326b9d112647 | -18.26141 | -42.15354 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| e24a4132-d601-3740-8dac-6d9ce7440fbc | -18.69625 | -42.08966 | 2024-09-28 04:23:00 | NOAA-21 | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| 9d5641d4-bd80-3676-8483-678b5c19cffc | -18.5196 | -43.02346 | 2024-09-28 04:23:00 | NOAA-21 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.2 |
+| 6f0cc9f4-7857-34d5-bcb2-1995f8696278 | -18.51578 | -43.02275 | 2024-09-28 04:23:00 | NOAA-21 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| d22fd811-c974-3b63-a2bc-d8b6d684e3a1 | -18.4791 | -42.20098 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| ff7be2a3-91fd-3db1-be99-37b9daa0ee8a | -18.47821 | -42.20794 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 7dc4c727-aedf-399b-8a9c-5d9bc10d725b | -18.47785 | -42.86324 | 2024-09-28 04:23:00 | NOAA-21 | PAULISTAS | MINAS GERAIS | Brasil | 3148400 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.6 |
+| bc1a4fa1-fc5a-3c49-ab76-0731619a1a29 | -18.47592 | -42.19379 | 2024-09-28 04:23:00 | NOAA-21 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 81e44b4b-ee59-34b9-a938-108c827f25c8 | -18.39049 | -42.79559 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 8f799759-91c7-32af-a90b-9dd0d65297ab | -18.36278 | -42.75866 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
+| 90c79654-66c9-3372-9509-c859e2c2d673 | -18.29206 | -42.54023 | 2024-09-28 04:23:00 | NOAA-21 | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
+| 912d9c14-952b-3356-b76d-45e62f72dfa5 | -18.28567 | -42.15649 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 418fc6cc-118c-399b-8654-8471dd3d18ad | -18.28159 | -42.15628 | 2024-09-28 04:23:00 | NOAA-21 | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 589705b3-ffb3-3d72-b909-8da60e1879f1 | -18.07575 | -42.66609 | 2024-09-28 04:23:00 | NOAA-21 | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| fe0d9436-989a-3614-8365-d95701fcfa39 | -18.0725 | -42.66056 | 2024-09-28 04:23:00 | NOAA-21 | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 7ab9fa4e-e8fa-3f15-a05c-59f72e25be3d | -19.87404 | -43.18725 | 2024-09-28 04:23:00 | NOAA-21 | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| fa482331-cfef-3d36-8c1a-64d5c8fb1e22 | -19.82438 | -42.41002 | 2024-09-28 04:23:00 | NOAA-21 | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| a3685cab-5bf1-3b0f-b3c4-fdf65a165137 | -19.68579 | -42.42174 | 2024-09-28 04:23:00 | NOAA-21 | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| e2d98a99-07df-3296-9bfa-71ac97b7981e | -19.64585 | -42.85288 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 06363b06-7566-373a-9613-3cc58a01e214 | -19.6261 | -42.85059 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 76fb6280-8131-3937-83b5-d34fd33e4339 | -19.53486 | -42.72224 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 95565786-49d8-3647-92e7-447e3709b3b2 | -20.15239 | -43.50655 | 2024-09-28 04:23:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 5cac8086-31e1-301a-b27f-d665d0335e61 | -20.14422 | -43.47975 | 2024-09-28 04:23:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 92b9ba32-07ab-3b4c-abf3-a129ceb9eefc | -20.1436 | -43.48448 | 2024-09-28 04:23:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 49826c5e-b1b1-3a82-9a39-9c33c245be6e | -20.14296 | -43.4894 | 2024-09-28 04:23:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 0cf4ea89-e868-3d70-9b9a-e7d60a1c5450 | -20.12157 | -43.44472 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 6aa60d0d-8cac-357e-800f-b23219dc6aaf | -20.12094 | -43.44961 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| f974c72e-f42d-3ffb-a914-33ec12e49401 | -20.11881 | -43.44314 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
+| 3ec2002d-e01d-38e4-ad09-88b7c79fa07a | -20.11813 | -43.44815 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
+| ed824dc5-4247-3bc9-a785-110f67a2ecbc | -20.11772 | -43.44447 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
+| 00fab547-3580-38a5-847a-b3cea1195e7f | -20.11751 | -43.4528 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 8cd78aad-e4ca-3514-be8e-bd153199d327 | -20.11709 | -43.44933 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.4 |
+| 7b0151e6-ec8f-3a53-92ad-840521aacf49 | -20.11427 | -43.44791 | 2024-09-28 04:23:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
+| cd438cc4-9067-37cf-bb4d-d78bad03c5a5 | -19.99435 | -42.40687 | 2024-09-28 04:23:00 | NOAA-21 | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| eb346173-e777-3a0f-a05e-82ea0271e9cf | -19.99389 | -42.41047 | 2024-09-28 04:23:00 | NOAA-21 | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 6f643c70-2bb5-31c9-b337-75641d59164d | -19.99027 | -42.40641 | 2024-09-28 04:23:00 | NOAA-21 | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| 3c53f3a2-7c36-3966-90bb-7e7a3cba87c8 | -19.87085 | -43.1815 | 2024-09-28 04:23:00 | NOAA-21 | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 0344e887-08c0-3122-af54-e903c0f52105 | -19.86816 | -42.35723 | 2024-09-28 04:23:00 | NOAA-21 | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| c2c26e56-2bc1-3822-8a03-2c34eb405095 | -19.86688 | -42.16556 | 2024-09-28 04:23:00 | NOAA-21 | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| d92d07c6-d44f-37be-a253-f63de4bb22ba | -19.63071 | -42.84602 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| be5f588c-e66c-3fa4-900f-7356dca1be46 | -19.60487 | -42.79766 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| a28b62d7-429b-3aa1-8d1d-2bf4ba8265de | -20.21848 | -42.86893 | 2024-09-28 04:23:00 | NOAA-21 | SANTA CRUZ DO ESCALVADO | MINAS GERAIS | Brasil | 3157401 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 93358401-038a-379d-8525-0e8713711171 | -19.87477 | -43.18165 | 2024-09-28 04:23:00 | NOAA-21 | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 110fa89a-1925-3ecb-8cac-dd39c5decca4 | -19.87142 | -42.16271 | 2024-09-28 04:23:00 | NOAA-21 | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 0c16dac9-d710-328a-9f3d-a2148c40037a | -19.87012 | -43.1871 | 2024-09-28 04:23:00 | NOAA-21 | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| cae18b22-1ad5-3996-9596-bd20d8749296 | -19.86838 | -43.17004 | 2024-09-28 04:23:00 | NOAA-21 | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
+| be646d85-9719-39c2-a553-d79987e9298c | -19.86769 | -42.36093 | 2024-09-28 04:23:00 | NOAA-21 | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 6de33572-dc7e-382b-bb3c-067ab1b9c8e3 | -19.86767 | -43.17559 | 2024-09-28 04:23:00 | NOAA-21 | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
+| 89dc0e86-d38a-3f32-bc1f-ec93feaf75f9 | -19.86696 | -43.18112 | 2024-09-28 04:23:00 | NOAA-21 | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 4b64543c-56c6-34be-9f3e-ee313f9931e7 | -19.86455 | -42.35299 | 2024-09-28 04:23:00 | NOAA-21 | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 5a9c397b-a044-31e5-9a91-bff95386bb13 | -19.82033 | -42.40942 | 2024-09-28 04:23:00 | NOAA-21 | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| 0a9b62bc-e621-3609-870f-9f5b886efed1 | -19.63004 | -42.85117 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 8deb5b2d-e1bd-371a-a0f5-54463e23ed0b | -19.60979 | -42.82185 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 386fdf68-2dfa-395f-9616-9321bd107bd0 | -19.51633 | -42.89447 | 2024-09-28 04:23:00 | NOAA-21 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
 
 
 [Clique aqui para ver as próximas entradas](README61.md)

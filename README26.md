@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7dfdcb80-dd1c-3658-81e9-afdeb290778d | -11.20785 | -54.78149 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| d89262ca-7fdc-399f-9d86-3f113acdfdc1 | -12.6958 | -54.69199 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 327b1c6d-b3a5-332a-8f57-6c80224aafd3 | -12.69454 | -54.68282 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| a9e331c2-f36d-309d-a35c-0ae7dca9a18b | -12.68812 | -54.70243 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 25.7 |
-| d8edb9ff-dd7b-3399-b5c7-e30900402172 | -12.68687 | -54.69327 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 46.7 |
-| 3cdfe4ee-24aa-3160-9b5e-253218820a0b | -12.68561 | -54.6841 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 44.3 |
-| d13d2375-552d-3a95-9313-4f512407e5ff | -12.68311 | -54.66578 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| a25f0e64-6272-3ce6-9fc4-43e4990df7c2 | -12.68185 | -54.65662 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 862a37c5-3ac2-37aa-9b57-9edfc2e4bb9b | -12.67919 | -54.70372 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 19.4 |
-| 30153731-599c-375c-9aba-1996b2b254e3 | -12.67794 | -54.69456 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 31.7 |
-| d3c93cc1-cc0d-3a00-81f6-eff460328b9d | -12.67669 | -54.6854 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 13.3 |
-| dd2a8263-3f80-339d-92e2-1984bf0c4d71 | -12.67418 | -54.66706 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 41622a3e-5526-3c20-b03d-e6c5986daa59 | -12.67293 | -54.6579 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 30.7 |
-| 8b036e28-17d0-3270-970e-02f3648bde24 | -12.66901 | -54.69583 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 37.1 |
-| b5475255-ce6c-34b8-9103-091cf2e467ed | -12.66776 | -54.68667 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 34.3 |
-| e7851d9b-3519-3b07-aed6-013418dfb2f4 | -12.66526 | -54.66834 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 20.2 |
-| 78fc0643-07e6-3eb5-897a-3006d0c16d00 | -12.65883 | -54.68796 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| b3189d4e-58f7-3c2e-8d40-0d955e066363 | -12.65633 | -54.66964 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| 74cb239e-5397-341b-b3db-5ca98554ac7c | -12.45247 | -54.9996 | 2024-09-27 01:24:00 | TERRA_M-M | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| cec92339-1f1b-3ed6-91bb-ab88b91fe3af | -12.44349 | -55.00091 | 2024-09-27 01:24:00 | TERRA_M-M | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 14.5 |
-| b515ae1d-10dc-3180-9284-9cb36a37cb41 | -3.64127 | -54.04889 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 49.4 |
-| db1fe478-0a56-364e-b4d6-acf8f740c3a9 | -3.6399 | -54.03921 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 39.9 |
-| 166fb524-b2d1-3cf7-8c92-9c16c6ad5642 | -3.35532 | -53.7802 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| 2041e664-c929-3f06-a9fe-fbd412a80fa8 | -3.34597 | -53.7815 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| da6bf4e9-db18-3343-bb38-5167098360cf | -4.57562 | -54.98401 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 8e97438d-d1cd-31cd-9b94-2fb687f7b8a9 | -4.57061 | -54.94839 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 8fdfeece-2540-3ff6-94b6-de1827336f1b | -4.51807 | -54.84349 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 8ef183ad-7ec1-39dd-9b70-55454cdfd392 | -4.50646 | -54.95478 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| d7e71114-eb3e-3e84-b28f-390cc1eaed84 | -4.4937 | -54.99292 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 080bdc16-04ab-31e7-a8a7-400eae806145 | -4.48742 | -54.94833 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| efe52fb6-3b1a-3ecb-b758-63b321985e6d | -4.48482 | -54.99419 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| ec2c155f-56e8-3533-b9aa-21fdad399a58 | -4.4798 | -54.95853 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 343e945b-404d-3486-9414-b72fdeb385d0 | -4.47854 | -54.94961 | 2024-09-27 01:24:00 | TERRA_M-M | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 13.2 |
-| 036267c5-0625-3e1c-9dc0-22df113395cd | -3.74451 | -53.86008 | 2024-09-27 01:24:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| adf5cc38-24ed-334f-b2f2-c5c83c744c43 | -7.92813 | -54.71782 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| 4edc8539-dead-311a-a9f4-063d4d87b97f | -7.91929 | -54.7191 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 23.0 |
-| f1070b54-8e95-3299-9564-5dfd6bd34fc9 | -7.91805 | -54.71022 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 9fb3ab71-8c50-3b06-9d0c-a255ecaee64d | -7.91058 | -55.10964 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 008f9a1f-4263-32ae-851f-4d38270b874c | -7.91045 | -54.72038 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| aa97842d-bbc9-3d64-9ea5-21024a8a3959 | -7.894 | -54.73182 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| 065ae9c3-0d67-301f-b963-f27e3c89da10 | -7.88516 | -54.7331 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| bd40ecdd-dd2a-39ec-8b27-f8742e017faf | -7.88391 | -54.72424 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| 3128f14c-fee0-3d05-af2c-7806da7037b3 | -7.87771 | -55.53907 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 82759c3e-7622-33f4-8782-bd73f8f23745 | -7.87524 | -55.52111 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 9e5e5644-5487-3426-9a8c-e2a5045a5de6 | -7.87401 | -55.51215 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 498c2e59-5680-3986-8c55-d4c84856857c | -7.86882 | -55.54032 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 0bc14288-d413-3225-a330-dd5d331c2527 | -7.86513 | -55.51343 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 615d7cd1-bed9-30b9-a7eb-58805523a6d7 | -7.82094 | -54.73964 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 20.3 |
-| f7efba81-bd32-364f-bbbc-d52e040f8658 | -7.8197 | -54.7308 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| 54da7801-d8b3-35eb-822f-10706d798ad1 | -7.81846 | -54.72193 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 19.5 |
-| 2f7039e2-94c6-39e0-94a1-7cffedcf60a8 | -7.81209 | -54.74091 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| 479b6852-29bb-35b7-9bb0-2c400ce76ae9 | -7.81085 | -54.73206 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 48.3 |
-| 5fe63a4a-933b-34e3-823f-d9d42dc4226f | -7.80961 | -54.72322 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| 5315ee3a-d3cf-34ae-955f-c37a5eb13fa7 | -7.80837 | -54.71432 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 30.3 |
-| 4760c79c-43a3-35f9-8496-38ddfd4612cf | -7.80325 | -54.74219 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 12.1 |
-| 72886c55-64f6-353f-9898-11f853c98e1b | -7.80077 | -54.72446 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 20.0 |
-| faa1adfd-b5a0-335c-8ecd-56f20a3b2591 | -7.79068 | -54.71683 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| c2217023-6efe-3fe4-9cee-201973d2de09 | -7.74405 | -54.78379 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 3ef514a3-8ab4-3e45-a7fa-a5f4d67ffda4 | -7.7352 | -54.78506 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 912a2567-672c-348f-bf8d-7d0b8da03f0a | -7.69203 | -55.33171 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 7ab41349-0a2e-3537-9c37-cefc95061684 | -7.65808 | -55.28214 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| cb2cc41a-c456-362b-87eb-388e2c658f11 | -7.62397 | -55.37455 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| a252f7a9-b696-399a-bfc1-d0471c16235a | -7.61492 | -54.9715 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 5bdfe62a-bb42-3e8b-88b8-5c091aa68e36 | -7.61265 | -55.35801 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| b0dfa8ee-271b-3869-9acf-94894760d1cb | -7.6104 | -55.27671 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 86e128cc-fdee-3fd5-8d2e-ee86ea38ea51 | -7.59806 | -55.18789 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 3c612332-6cd3-3d64-9eaa-75f917830628 | -7.59559 | -55.17014 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| dd0dae3a-54cc-37e9-839a-8441e996ab1e | -7.59371 | -54.96238 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| f3ad81a6-0f2b-3c10-b4bb-5fcbdb909b4c | -7.57441 | -55.0827 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 37d2e51d-2c70-3d80-a4d9-cadb8a8c5c71 | -7.56782 | -55.16505 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 56db17eb-11de-370e-a59c-11a78501e91b | -7.55405 | -55.13084 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 78dccc66-4ffd-38de-a413-b2743890ba2d | -7.55282 | -55.12197 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| ef1e6faa-df63-355c-9bc5-ebc53868cb34 | -7.4065 | -55.20024 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 5210716d-a261-3f82-89e7-1d453181f811 | -7.37418 | -55.50138 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 363195ef-ab4d-37ac-a64e-830d7c94f6da | -7.30152 | -54.91441 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| e1e21888-6870-3e4b-85f7-6ed806f60006 | -7.77301 | -61.19563 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 97.4 |
-| eb15c943-ef58-30a5-a9fd-1ece90c4ab8b | -7.78272 | -61.18135 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 17.2 |
-| a7681551-02d8-3734-a8ed-490be8e4c91a | -7.92643 | -55.76171 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 1ac99a24-14d5-3733-9647-2e85811224e6 | -7.78522 | -61.2005 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 22.2 |
-| d5c32350-8fe0-3514-be48-eed74717e5b4 | -10.68468 | -55.53486 | 2024-09-27 01:24:00 | TERRA_M-M | COLÍDER | MATO GROSSO | Brasil | 5103205 | 51 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 11e2e1e5-6a59-34c4-9d8e-fc16a62f7c22 | -7.7857 | -61.19405 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 27.8 |
-| e443aef4-c581-3eba-bc55-c416c1cf95c9 | -6.56872 | -60.0612 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| ddf96954-eb2b-34fc-8282-95aa1cbf46dc | -6.74385 | -60.08775 | 2024-09-27 01:24:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| f0c59827-a925-3580-8d4b-f4a6acc56326 | -7.46092 | -60.4021 | 2024-09-27 01:24:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 50.1 |
-| 8490594c-c11f-3ed7-9156-953547bf50eb | -13.48532 | -57.25848 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| f489f08d-c4e0-349f-88f7-4008a41dbce8 | -13.12076 | -57.19681 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| cee9f655-00f4-35a5-a49d-acc525a6b98b | -7.47276 | -60.40075 | 2024-09-27 01:24:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 18.3 |
-| 5b3ff82f-d003-3744-88a8-404ca0483f22 | -13.06759 | -57.2648 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 15.8 |
-| d46bc9d0-b70e-33f1-8e46-4e161b4d4e34 | -6.82454 | -59.0464 | 2024-09-27 01:24:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| d62d5346-67fb-34a8-8897-c08694c2d403 | -13.78573 | -56.50775 | 2024-09-27 01:24:00 | TERRA_M-M | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| bb326e6f-43b9-303e-aca0-17ef1e115939 | -13.77453 | -56.49802 | 2024-09-27 01:24:00 | TERRA_M-M | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 47143dd4-7242-32f1-8b6d-86f2e3fdc912 | -3.59155 | -55.53158 | 2024-09-27 01:24:00 | TERRA_M-M | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| dbae45b7-cb8a-37ad-a3af-49f35d4337a9 | -3.58314 | -55.4067 | 2024-09-27 01:24:00 | TERRA_M-M | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 8d1e7a1c-0e22-384f-97aa-74f639bfb532 | -9.61387 | -57.76106 | 2024-09-27 01:24:00 | TERRA_M-M | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
-| ff68ea52-0c55-320c-a5c8-5638c3aa5f92 | -4.28436 | -56.40596 | 2024-09-27 01:24:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 17.8 |
-| 8e20c7c0-e2e7-3f88-9309-2efd12bd4073 | -7.29334 | -55.11439 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 26.0 |
-| 95f24691-ab6e-3599-8d3a-bbbcf0489f1a | -7.29211 | -55.10553 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 10.6 |
-| 5d98c196-be66-3f31-b446-96f9142a054f | -7.98257 | -55.03008 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| d77a051c-e165-3a73-b98f-b7ca24a1df13 | -7.19152 | -55.04445 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 8.5 |
-| c9a45b3c-0e76-3297-8207-c57c1284be29 | -7.19029 | -55.03559 | 2024-09-27 01:24:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 16.6 |
+| 171b9f35-b0d5-36b9-984e-de00f1fdc697 | -8.10515 | -41.14857 | 2024-09-28 03:28:00 | NOAA-20 | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 15f4b2ab-3eb7-312c-ad37-0197b46ad05c | -8.43741 | -41.92873 | 2024-09-28 03:28:00 | NOAA-20 | CAPITÃO GERVÁSIO OLIVEIRA | PIAUÍ | Brasil | 2202455 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| ae4a9f68-d166-3492-ad53-ff1ea693a7a5 | -8.43674 | -41.93235 | 2024-09-28 03:28:00 | NOAA-20 | CAPITÃO GERVÁSIO OLIVEIRA | PIAUÍ | Brasil | 2202455 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| c7e82791-31d7-3e54-94e3-8ee01c35870f | -8.43595 | -41.9315 | 2024-09-28 03:28:00 | NOAA-20 | CAPITÃO GERVÁSIO OLIVEIRA | PIAUÍ | Brasil | 2202455 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 3fde6c43-4974-3441-88c6-78b1f3e4f2a0 | -4.86297 | -42.78323 | 2024-09-28 03:28:00 | NOAA-20 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| d4ac57e0-eb78-33ae-8427-81d5a4c546e7 | -4.86208 | -42.78822 | 2024-09-28 03:28:00 | NOAA-20 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 7306ea4a-d457-3764-9109-d55d345c7919 | -6.32455 | -43.42099 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5dc9b60f-879b-34c0-941a-fadfa0d04454 | -6.31837 | -43.41974 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 119b88e8-92c8-3d7c-8245-90053e657532 | -6.31751 | -43.4244 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 2ba3946d-f6ca-36bb-9b78-c00b2e72cd18 | -6.31423 | -43.41744 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 78717db6-2b25-3dec-aa24-e4e240facdca | -6.3134 | -43.42208 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 8872aaa6-7ac8-3cf3-8a02-7c7548e63dc1 | -6.313 | -43.4141 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 87595045-18ec-3557-b3fd-b0b8859e8899 | -6.31257 | -43.42673 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 6bcde213-46b6-3f8a-97cd-12967ae6b34d | -6.31215 | -43.41872 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 13637017-a77f-3f84-a135-8be67f8b2a79 | -6.31129 | -43.42335 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| acd22aa0-e698-366e-a9e9-8faf38fd6a08 | -6.31042 | -43.428 | 2024-09-28 03:28:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 64c8ebce-1332-34e7-982b-d3614daed358 | -6.20058 | -43.27456 | 2024-09-28 03:28:00 | NOAA-20 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c47f14a5-a69d-35a2-8508-05b6f39ee70e | -6.19974 | -43.27927 | 2024-09-28 03:28:00 | NOAA-20 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 38c49d07-d751-3a0b-8ee1-fd5665adb37f | -6.1751 | -43.45198 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| b338e8db-f1fe-30d5-a990-d50a99a9bf2a | -6.17411 | -43.45752 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 64d7ff06-203f-35b0-aa98-d07736031462 | -6.1698 | -43.44569 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 218876a6-2d8e-3aa7-9317-0c587bbb55f1 | -6.16881 | -43.45121 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| cec05745-f4ce-357f-8df0-e52787b789de | -6.16345 | -43.44527 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b39795c9-5956-3bd5-a72a-fdfa06bcaf11 | -5.30288 | -43.07215 | 2024-09-28 03:28:00 | NOAA-20 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a19e3314-1e79-38d4-a643-27bf9801638e | -6.72292 | -43.56431 | 2024-09-28 03:28:00 | NOAA-20 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| c2b7ae13-f649-3852-a5bb-9fb742853222 | -6.72148 | -43.5605 | 2024-09-28 03:28:00 | NOAA-20 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| a89d9d8d-8500-3718-8b96-9e4b8a986afd | -6.72054 | -43.56552 | 2024-09-28 03:28:00 | NOAA-20 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| a7462d34-3a5f-375b-857a-f7cde759e719 | -6.71672 | -43.5631 | 2024-09-28 03:28:00 | NOAA-20 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 378a6567-67fa-3838-b4a6-8d7c72e44037 | -6.71526 | -43.55935 | 2024-09-28 03:28:00 | NOAA-20 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ed8d51c3-649c-3861-8c56-afcb360bf13a | -6.66433 | -42.58669 | 2024-09-28 03:28:00 | NOAA-20 | ARRAIAL | PIAUÍ | Brasil | 2201002 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 4483b6c0-e892-3559-a8e9-efa966ac8f4a | -6.55647 | -43.1554 | 2024-09-28 03:28:00 | NOAA-20 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 1e47362d-0a58-3d4d-afd7-0b36d39bc0f6 | -9.12368 | -43.15724 | 2024-09-28 03:28:00 | NOAA-20 | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| e4b91146-ffb6-3fb4-9aeb-458ce9a2e3d2 | -10.27924 | -43.57 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 3febc36a-9602-3f8b-bdc8-2c21bba6e5b4 | -10.27844 | -43.57424 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f04fc9b6-822b-3f2c-adf6-2b6093c79e42 | -10.27791 | -43.56884 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| f9087a6e-e804-30d7-871d-c1adfa01b436 | -10.27708 | -43.57309 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 15dcaa46-4cb1-3e4e-bd6c-dbf50055e61f | -10.27626 | -43.57732 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5f7ebb61-9ae6-3110-b243-91fffd9808a0 | -10.2734 | -43.56873 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 53578a51-1633-3a63-8c77-9e3475519581 | -10.2726 | -43.57294 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 14e68825-5e25-3647-8e34-1b735b8af39e | -10.2718 | -43.57719 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 99bcf391-5929-3af2-b3fe-09b2478baea5 | -10.27124 | -43.57183 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| f223b2c8-61d0-39da-8b2f-b7da460ba710 | -10.27042 | -43.57606 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 07e217bb-44cb-3bed-aa65-0947fc544a0a | -10.26959 | -43.58027 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 26e36c1b-d13c-3d52-9abc-4293db6b909f | -10.26877 | -43.58443 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 77a6d24f-0be4-320f-82ce-49e42d805824 | -10.26797 | -43.58854 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 9ee9c170-6851-3998-b4a0-69b8e1644e58 | -10.26595 | -43.57594 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 5d431902-11e7-3980-99bd-7143b088dfc7 | -10.26517 | -43.58011 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8e6b0d92-1385-3633-9ed4-7c97f7a50570 | -10.26439 | -43.58422 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 57ce99ea-a7a9-3860-a10b-8de4134004b6 | -10.26375 | -43.57901 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| e978ca47-6cec-3c29-86b4-e248fbf9646d | -10.26361 | -43.58832 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 75780332-4d48-3164-819f-74ff820e6196 | -10.26294 | -43.58311 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 33c9aa4a-08fd-3629-b128-35aa20ff8cff | -10.26213 | -43.5872 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 043121a8-3532-348e-9865-2c60284d8d50 | -10.25931 | -43.57888 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 61ac26e9-d3b2-3235-b3de-c2d107dba405 | -10.25871 | -43.57365 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 1c247d49-f08a-3e63-a8d3-e68994e4108a | -10.25789 | -43.57782 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| e4bb95a0-bf6b-333b-8f7b-d67a6c183f55 | -10.25504 | -43.56933 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c972c4ae-95a9-3def-a99d-06c315c4e889 | -10.25425 | -43.57352 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f202fdc8-e7b0-36dc-ba86-a20aac6849bb | -10.25346 | -43.57769 | 2024-09-28 03:28:00 | NOAA-20 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| df07b8d0-e501-302d-ab79-c85f2ac79d73 | -11.21304 | -43.32634 | 2024-09-28 03:28:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 4ee8a4d5-c415-3350-a1cc-5aeb18e9310d | -10.98948 | -44.42834 | 2024-09-28 03:28:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| e8e15c2f-d6a1-3a3b-844a-94057821f2b1 | -10.98926 | -44.42917 | 2024-09-28 03:28:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 351fde94-97dd-34b7-ae5c-9496eee18eed | -10.98857 | -44.43309 | 2024-09-28 03:28:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 9b8df104-451d-3cc8-866f-a3cf4aed56c1 | -10.98832 | -44.43391 | 2024-09-28 03:28:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| d4f9f416-780f-38fe-aa66-353cd4c43702 | -10.98765 | -44.43785 | 2024-09-28 03:28:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 34c061fb-4c65-3c8b-90a9-a7a769af7db9 | -10.98737 | -44.43866 | 2024-09-28 03:28:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 32d1a325-8f09-3fed-81a1-579713d73399 | -4.65537 | -43.76637 | 2024-09-28 03:28:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| bde54da1-93ed-3611-a143-c304f93b01c7 | -6.50061 | -43.62881 | 2024-09-28 03:28:00 | NOAA-20 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| fc81ffa4-8169-3569-bc01-17ec6d08048f | -6.3917 | -44.78333 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8c142a38-58df-332f-9ad9-e93cf3ee7e1e | -6.39059 | -44.78918 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a213927f-f2bf-38d4-ae78-884e416e860e | -6.38843 | -44.78671 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| c4319487-a358-3101-8fe0-aeeba791e944 | -6.38496 | -44.78217 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 14f83f4f-4a9f-31bc-9245-e8ed31dcfbd7 | -6.38383 | -44.78819 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8e1e0800-4b8e-37cb-92fd-80407fde1272 | -5.87992 | -43.86636 | 2024-09-28 03:28:00 | NOAA-20 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 963115e5-dec1-3a63-8ebb-1f4ed1da6834 | -5.87899 | -43.87152 | 2024-09-28 03:28:00 | NOAA-20 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 35c3a084-b5c9-379a-b84a-2c2a232b6666 | -5.87351 | -43.86511 | 2024-09-28 03:28:00 | NOAA-20 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 81d10a07-f11c-3d56-8625-5726e70f17c1 | -5.87258 | -43.87026 | 2024-09-28 03:28:00 | NOAA-20 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 8b5bb5a7-ee70-3fdd-a628-03d507297083 | -5.83729 | -43.65453 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| e6b5753b-9fde-3c09-a29e-3205277accd7 | -5.83638 | -43.65969 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| d06e878b-c601-325b-b07c-8bd2ff6e3390 | -5.83331 | -43.6524 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| d952a440-c2c1-36c9-9b2a-8083293db351 | -5.83236 | -43.65755 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 07878abc-38fe-3a45-9b9a-af34dd2f6c64 | -5.83003 | -43.65854 | 2024-09-28 03:28:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 65fa378a-d3b4-32d0-b414-bf426f0e9b31 | -5.80556 | -43.98302 | 2024-09-28 03:28:00 | NOAA-20 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 2ca47f7e-ced3-37c3-a1b8-03501ca1af80 | -5.40219 | -43.43765 | 2024-09-28 03:28:00 | NOAA-20 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 3b3bd370-cdab-3a4e-967d-bdd4efe97333 | -6.09967 | -44.70454 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 488981fb-2cc4-30d0-bc00-928983560da9 | -6.09849 | -44.71084 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 79306225-dacc-3cf6-a7ef-f8e7d2e813ed | -6.0974 | -44.7038 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 22c30205-2c2d-3eee-8af9-9fae1b86af57 | -6.09178 | -44.70955 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8c29c17f-8aea-318b-b01a-1cbf6a8169b4 | -6.08953 | -44.70889 | 2024-09-28 03:28:00 | NOAA-20 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2bc79996-db39-394d-9c3e-3ac52afb68ff | -5.98033 | -44.56865 | 2024-09-28 03:28:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3016e0b2-69e2-3fed-b575-755987f99438 | -5.9736 | -44.5677 | 2024-09-28 03:28:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 9cd37e00-7451-357a-aad1-0803458edc16 | -5.79299 | -44.85887 | 2024-09-28 03:28:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 17a878a5-b1d9-3e3f-8173-1de5dc7d454b | -5.78617 | -44.85766 | 2024-09-28 03:28:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| db66386b-5777-3baa-85cf-f20ecbeb240d | -5.76322 | -44.4743 | 2024-09-28 03:28:00 | NOAA-20 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| c891bceb-4377-3068-8608-34ceb5327496 | -5.75763 | -44.46716 | 2024-09-28 03:28:00 | NOAA-20 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 12e522f8-3d08-3a63-93db-867c21d6880b | -5.71512 | -44.81608 | 2024-09-28 03:28:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 59f5a106-ba81-378a-a961-8ffbf1765b1c | -5.71395 | -44.82253 | 2024-09-28 03:28:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| dd75c5f6-56fe-3b85-afb5-04c802ce3439 | -5.5545 | -44.67964 | 2024-09-28 03:28:00 | NOAA-20 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| aa0ec1a6-2e40-39bd-b4a3-8cd06393567a | -5.55036 | -44.67461 | 2024-09-28 03:28:00 | NOAA-20 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 86d7e6ec-4ac6-3eb3-8ecf-a0d620ff096f | -5.54922 | -44.68078 | 2024-09-28 03:28:00 | NOAA-20 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 45c93f39-f8f4-3006-9338-1445ae9a99de | -5.54779 | -44.67811 | 2024-09-28 03:28:00 | NOAA-20 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
 
 
 [Clique aqui para ver as próximas entradas](README27.md)

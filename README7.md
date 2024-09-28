@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f8444fcc-4ef8-399b-ac26-84f73c4dc9a5 | -19.373199 | -42.561298 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1d7e51b8-f52a-3867-9b41-625debc6974f | -19.3752 | -42.569698 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| dbf95f57-8f18-3a19-9098-8f4d32b306b4 | -19.3771 | -42.577999 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 19a4ca6a-0297-3911-94d7-3538fba5fe00 | -19.379101 | -42.586399 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 69444d00-1b34-3a4e-8a1a-81285acf83ac | -19.3615 | -42.5555 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| fefa80d0-79bd-3e82-8c87-34d83bc08b76 | -19.363501 | -42.563801 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b07731b4-96c9-3616-afa0-740a5ccd0474 | -19.365499 | -42.572201 | 2024-09-27 00:31:45 | METOP-B | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 224021d3-2b28-39eb-bd1f-8bc9f5611cba | -19.6399 | -44.170101 | 2024-09-27 00:31:46 | METOP-B | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 6d9deca9-0910-3616-a324-7890aa8c514e | -19.6416 | -44.177601 | 2024-09-27 00:31:46 | METOP-B | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| d309502c-20ab-3216-bd71-b8807b0301a9 | -19.643299 | -44.185101 | 2024-09-27 00:31:46 | METOP-B | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| f5c8267f-fbe9-33c7-b09f-2d4fa7de0ad8 | -19.630199 | -44.1726 | 2024-09-27 00:31:46 | METOP-B | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| c996dd46-31c3-3c58-828b-1bf967d28b22 | -19.631901 | -44.180099 | 2024-09-27 00:31:46 | METOP-B | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 37998fa5-2592-3039-833f-b3e454905f44 | -19.924299 | -45.742401 | 2024-09-27 00:31:47 | METOP-B | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| b0824266-4a43-3c1e-a18f-a5604e714723 | -19.9259 | -45.749699 | 2024-09-27 00:31:47 | METOP-B | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 01540c43-a705-31ef-a0f1-06c2105408d0 | -18.898199 | -41.997299 | 2024-09-27 00:31:50 | METOP-B | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| d6c0b85c-3188-30e0-a667-3ac15442ba5c | -18.900299 | -42.006199 | 2024-09-27 00:31:50 | METOP-B | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f9a3ca42-3290-3420-b872-e132c860f799 | -19.986099 | -47.152401 | 2024-09-27 00:31:51 | METOP-B | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 1522b3c9-8dbc-3abc-bef2-d5059bc25971 | -19.0931 | -43.446201 | 2024-09-27 00:31:52 | METOP-B | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f94ce495-d5d8-36b8-b8f3-a7788fdebb6a | -19.0949 | -43.453999 | 2024-09-27 00:31:52 | METOP-B | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 9336c2b3-4909-3e02-8964-6dd9a68b5a17 | -19.6126 | -45.870499 | 2024-09-27 00:31:53 | METOP-B | ESTRELA DO INDAIÁ | MINAS GERAIS | Brasil | 3124708 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e42cdc47-17a2-3586-8cb5-4d86c7e41cdf | -19.578199 | -46.0933 | 2024-09-27 00:31:54 | METOP-B | SANTA ROSA DA SERRA | MINAS GERAIS | Brasil | 3159704 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 8d385094-6068-364b-89be-b647836a3da9 | -19.5798 | -46.100601 | 2024-09-27 00:31:54 | METOP-B | SANTA ROSA DA SERRA | MINAS GERAIS | Brasil | 3159704 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 63ad6b35-e6bb-3051-a779-21cce5410472 | -19.5814 | -46.107899 | 2024-09-27 00:31:54 | METOP-B | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 471eb94f-12d0-3687-b185-cbf518d46327 | -18.700001 | -42.077999 | 2024-09-27 00:31:54 | METOP-B | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 10f1e375-7406-3b87-afff-98f44643bdd4 | -18.702101 | -42.086899 | 2024-09-27 00:31:54 | METOP-B | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c7a582e7-b121-3b85-a004-c4d8b345f266 | -18.704201 | -42.095699 | 2024-09-27 00:31:54 | METOP-B | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4a5bec64-b708-3204-a9b5-9c5161ee8a4d | -19.7609 | -47.252602 | 2024-09-27 00:31:55 | METOP-B | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 8c504d14-1c57-38d6-ad6f-9d0f2e2c3bb1 | -18.952101 | -43.506802 | 2024-09-27 00:31:55 | METOP-B | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| eb64be8a-b520-383f-b3b7-d6a9166d6210 | -19.908001 | -48.324902 | 2024-09-27 00:31:56 | METOP-B | CONCEIÇÃO DAS ALAGOAS | MINAS GERAIS | Brasil | 3117306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| b6097da5-218f-3036-a6b6-e562c6590c05 | -18.872 | -43.427799 | 2024-09-27 00:31:56 | METOP-B | ALVORADA DE MINAS | MINAS GERAIS | Brasil | 3102407 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 107383d7-debf-3c02-9638-89cdf7a76ea0 | -19.7537 | -47.765202 | 2024-09-27 00:31:57 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 38c28c75-2a09-3bb4-adb3-2a8e035f07e2 | -19.597799 | -46.961498 | 2024-09-27 00:31:57 | METOP-B | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 8f08096b-ff1e-3a64-835b-a13759186fa0 | -19.5994 | -46.969101 | 2024-09-27 00:31:57 | METOP-B | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 59a7efe6-f467-32a9-ba81-b169451205f5 | -18.4886 | -42.189899 | 2024-09-27 00:31:57 | METOP-B | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 83851668-93fc-3d07-b736-b88cd917836b | -18.490801 | -42.198799 | 2024-09-27 00:31:57 | METOP-B | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 5b84accc-1503-3eb3-9557-36283e955d9e | -18.492901 | -42.2076 | 2024-09-27 00:31:57 | METOP-B | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 8141fb0c-0337-37b2-9572-5d9464aa74cb | -18.478901 | -42.192402 | 2024-09-27 00:31:58 | METOP-B | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1d51fba7-6ca3-38f2-b606-a7c46e851ad4 | -18.481001 | -42.201302 | 2024-09-27 00:31:58 | METOP-B | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4936f0d3-d058-38c9-abe7-72f9318afe64 | -18.483101 | -42.210098 | 2024-09-27 00:31:58 | METOP-B | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 40eafaca-8c9b-369b-ab31-e8ae99fdf2fa | -18.7626 | -43.896599 | 2024-09-27 00:31:59 | METOP-B | SANTANA DE PIRAPAMA | MINAS GERAIS | Brasil | 3158508 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| c37f2fd5-f51f-3030-ae7e-066b98887b4f | -18.608 | -43.403301 | 2024-09-27 00:32:00 | METOP-B | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 45adc719-b908-3ba7-889d-9991d90016e4 | -19.5303 | -47.8745 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e60ebc7d-2e22-378d-ad98-df648d688cc1 | -19.532 | -47.882599 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e8a3c623-8c92-3d0e-aa36-3f6bfa0e49c8 | -19.5336 | -47.890598 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 5d519f62-0dad-3693-a948-d539a6420bc5 | -19.5189 | -47.868599 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 03b36ef2-32cd-3121-83eb-134b87c77853 | -19.5205 | -47.876701 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 74066e7e-d7b2-34a6-b392-6495554aef5a | -19.5222 | -47.8848 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 5d0494ab-2e74-3757-b806-ac2f76e2e36b | -19.509199 | -47.8708 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 51ef0439-85da-3afa-8829-01105a399ac5 | -19.510799 | -47.878899 | 2024-09-27 00:32:01 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| ac5378c5-3335-3b01-a57b-6427b04dfc2b | -19.479799 | -47.877399 | 2024-09-27 00:32:02 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 86a0240f-8c66-38cd-ba1d-dc8464642cda | -19.4814 | -47.885399 | 2024-09-27 00:32:02 | METOP-B | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 37d8bc1e-70fb-3e75-87d8-ef1988f6c575 | -18.3293 | -42.608601 | 2024-09-27 00:32:02 | METOP-B | SÃO PEDRO DO SUAÇUÍ | MINAS GERAIS | Brasil | 3164100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3f1c9c48-edd2-34b4-bed1-104b33c954ed | -18.933701 | -46.299099 | 2024-09-27 00:32:05 | METOP-B | CARMO DO PARANAÍBA | MINAS GERAIS | Brasil | 3114303 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 897d4a41-0d85-3a3e-b1c5-37819d040e9e | -17.915701 | -42.130901 | 2024-09-27 00:32:06 | METOP-B | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1530e62e-cc3a-379c-ad7b-6b43185521e9 | -18.7862 | -46.618099 | 2024-09-27 00:32:09 | METOP-B | PATOS DE MINAS | MINAS GERAIS | Brasil | 3148004 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| b4370070-15f4-32ed-ba8f-a7acebd73e47 | -19.2967 | -49.6698 | 2024-09-27 00:32:11 | METOP-B | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 25442716-a733-3e7d-b6b7-2cb8273ef7a2 | -19.2985 | -49.679401 | 2024-09-27 00:32:11 | METOP-B | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 1bccafdc-1346-3a1c-b47d-e332c7a76a62 | -19.3004 | -49.689098 | 2024-09-27 00:32:11 | METOP-B | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 4be41a34-5d39-3b9a-a61d-b903e3b1263c | -17.9891 | -43.855701 | 2024-09-27 00:32:12 | METOP-B | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 0a083d14-f85f-3afb-91ac-1360ab3cce57 | -18.058901 | -44.3424 | 2024-09-27 00:32:12 | METOP-B | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| c5317014-6867-320c-a112-17bcb364c917 | -18.0474 | -44.337399 | 2024-09-27 00:32:13 | METOP-B | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 63d718f7-e6f0-3a08-a15f-ac789ce035bc | -18.049101 | -44.344799 | 2024-09-27 00:32:13 | METOP-B | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 4ec3255e-3adb-3d0b-8a41-69984e54688b | -18.004999 | -44.3321 | 2024-09-27 00:32:13 | METOP-B | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 0b499336-be09-33ac-9e18-f947540715f3 | -18.5238 | -47.075199 | 2024-09-27 00:32:15 | METOP-B | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 558c687a-f802-371d-aad6-e29fd85c5b3a | -18.5058 | -47.0872 | 2024-09-27 00:32:15 | METOP-B | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| ed2555c1-93ae-374f-820d-c1c96ce4d55a | -19.006201 | -49.436401 | 2024-09-27 00:32:15 | METOP-B | ITUIUTABA | MINAS GERAIS | Brasil | 3134202 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 64709d8a-081d-3deb-86ed-939257b666bb | -19.007999 | -49.445702 | 2024-09-27 00:32:15 | METOP-B | ITUIUTABA | MINAS GERAIS | Brasil | 3134202 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| a7e7d2cc-6eb7-34f2-bc27-6e72e9beb312 | -17.052799 | -41.134102 | 2024-09-27 00:32:16 | METOP-B | ÁGUAS FORMOSAS | MINAS GERAIS | Brasil | 3100906 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b349edf1-3126-39f3-b882-dac1364841fe | -17.0553 | -41.1446 | 2024-09-27 00:32:16 | METOP-B | ÁGUAS FORMOSAS | MINAS GERAIS | Brasil | 3100906 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 7a7136ea-5a77-36b5-b6ca-206b9e0110f3 | -18.6017 | -48.791 | 2024-09-27 00:32:19 | METOP-B | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| df8416c7-60e7-3acd-b7f6-ddca72898806 | -18.6035 | -48.7995 | 2024-09-27 00:32:19 | METOP-B | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 8655e460-8a79-3310-82b7-f96fa6e134a4 | -18.5919 | -48.793201 | 2024-09-27 00:32:19 | METOP-B | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 5363c777-d33a-3e6d-a1fe-9a7d13c7387e | -18.5937 | -48.801701 | 2024-09-27 00:32:19 | METOP-B | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a575c20f-e0e9-35eb-b887-77933023f008 | -18.5954 | -48.810299 | 2024-09-27 00:32:19 | METOP-B | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b52fdcf9-5d7c-3b2d-8d5b-c3446230783a | -18.5875 | -48.974201 | 2024-09-27 00:32:20 | METOP-B | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 88d10a73-5e33-34f2-81fb-8f7f3efb8b26 | -18.096399 | -47.432999 | 2024-09-27 00:32:23 | METOP-B | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| be3cd1d2-1d73-31ff-b101-eda47ed91f40 | -16.8148 | -41.814701 | 2024-09-27 00:32:23 | METOP-B | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 492109d5-3002-3586-bc51-bea1dc5e1c5a | -18.397699 | -49.301399 | 2024-09-27 00:32:24 | METOP-B | ITUMBIARA | GOIÁS | Brasil | 5211503 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 830a56fe-c791-3b46-8996-fe042daac6d0 | -17.036301 | -43.2225 | 2024-09-27 00:32:25 | METOP-B | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e6d0e511-8597-35ad-bd94-8c90ee4d3b34 | -17.0383 | -43.230701 | 2024-09-27 00:32:25 | METOP-B | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 4c18c39b-3495-312b-ba76-945005a10f8d | -17.503201 | -47.007999 | 2024-09-27 00:32:31 | METOP-B | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| f5f7009d-c8b1-3f63-b859-c5716e4267f3 | -17.2414 | -46.271999 | 2024-09-27 00:32:33 | METOP-B | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 90ed8653-8f8c-3b3d-bc58-a37210524693 | -17.242901 | -46.279099 | 2024-09-27 00:32:33 | METOP-B | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 4397cc95-3938-3fa0-a3d2-e1bf42758c4e | -16.8876 | -45.3232 | 2024-09-27 00:32:35 | METOP-B | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 82cb788c-d45b-3f34-bc44-7501c4185b57 | -16.886 | -45.316002 | 2024-09-27 00:32:35 | METOP-B | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| af3b96df-b873-3530-bc98-2f243bade46b | -17.1534 | -47.631802 | 2024-09-27 00:32:39 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 88379b30-89cb-34f0-9dbf-d740da528b56 | -17.155001 | -47.639301 | 2024-09-27 00:32:39 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 9f7fe9bf-ac43-3203-8d1b-c5d6d51e476b | -17.156601 | -47.646801 | 2024-09-27 00:32:39 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 36f3a3ba-7b21-3487-8223-3fa7fc4dd0c3 | -17.2237 | -48.014198 | 2024-09-27 00:32:39 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| c4d77f60-b7c5-3ce1-baad-71f86e259926 | -17.2253 | -48.0219 | 2024-09-27 00:32:39 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| a6c985ce-9f6d-3cff-838e-ddd3f5ccd227 | -16.0399 | -43.601898 | 2024-09-27 00:32:42 | METOP-B | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 9835cef8-82e7-3222-b76b-e584a688699e | -16.0418 | -43.610001 | 2024-09-27 00:32:42 | METOP-B | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 93fcb18c-cff9-3e50-a4a0-9e8ca9099431 | -16.840099 | -47.702801 | 2024-09-27 00:32:44 | METOP-B | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 8871ef25-81c4-3bc5-929a-f90369f30f30 | -16.8417 | -47.7103 | 2024-09-27 00:32:44 | METOP-B | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 858e69d7-6ec7-3a95-92dd-58e4f8c7b0fb | -16.8496 | -47.747799 | 2024-09-27 00:32:44 | METOP-B | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 7c1caef9-ef92-3f36-9d07-19e9aab8e824 | -16.8512 | -47.755299 | 2024-09-27 00:32:44 | METOP-B | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| ff1a68fc-0c9e-3246-9acd-f4f55fd4a948 | -16.834999 | -47.727501 | 2024-09-27 00:32:44 | METOP-B | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| bffe62ef-f08b-3524-adea-328d8ca42843 | -16.836599 | -47.735001 | 2024-09-27 00:32:44 | METOP-B | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 52ce43e1-14d5-33c3-9e47-252d2fa196f0 | -16.5499 | -46.923199 | 2024-09-27 00:32:46 | METOP-B | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| b4fd749e-9e5c-3bfc-b5f6-f5d0089fd9ec | -16.5303 | -46.9277 | 2024-09-27 00:32:46 | METOP-B | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 067dd7df-3ae6-310a-ae1a-503d41b86d8f | -6.6233 | -42.043499 | 2024-09-28 00:14:22 | METOP-B | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 01455c20-87d8-37a2-b5a4-6d3440e64d59 | -6.6249 | -42.050499 | 2024-09-28 00:14:22 | METOP-B | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 02c7699c-6696-3148-8f21-b52d8d895e56 | -6.6426 | -42.0835 | 2024-09-28 00:14:22 | METOP-B | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| f3387253-3178-352f-a870-3d7ca1409a3c | -7.0563 | -43.921101 | 2024-09-28 00:14:22 | METOP-B | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 4010c2d8-244a-398b-9876-e38ac1442dbe | -7.048 | -43.930302 | 2024-09-28 00:14:22 | METOP-B | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 967cd7b7-536b-3187-8ee7-f1d4097ef1e7 | -7.0258 | -43.876701 | 2024-09-28 00:14:22 | METOP-B | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 37ed5a85-a9b8-32c9-9540-ef8454cee00f | -8.2302 | -49.352798 | 2024-09-28 00:14:22 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cac70da8-fdbe-34db-83c6-372b2fcf7be5 | -8.233 | -49.366001 | 2024-09-28 00:14:22 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 268f5d1d-1632-3a30-a5fd-09181db72d26 | -8.2358 | -49.379299 | 2024-09-28 00:14:22 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e839b8ed-5757-325a-bac0-93293fcc8ca8 | -7.2697 | -44.929699 | 2024-09-28 00:14:22 | METOP-B | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 81b34e20-c447-35f4-91ce-1a9db1f74807 | -7.2746 | -44.9519 | 2024-09-28 00:14:22 | METOP-B | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| cb646f6c-a517-3434-9c40-f964385ae506 | -7.2762 | -44.959202 | 2024-09-28 00:14:22 | METOP-B | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9a3afb85-3c24-3592-81bf-ac403c2c6213 | -7.4769 | -45.874699 | 2024-09-28 00:14:22 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 32b533ec-ea12-3556-a39c-dfa49fa2aea1 | -8.2233 | -49.368 | 2024-09-28 00:14:22 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| fae9bfbc-3cdb-37bb-ae41-1d912581e687 | -7.2664 | -44.961399 | 2024-09-28 00:14:22 | METOP-B | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| debff764-e126-38c7-bb33-b45b9ce70490 | -6.8334 | -43.109501 | 2024-09-28 00:14:23 | METOP-B | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 938b71bf-304e-3610-a7fd-aca7ccf224c5 | -6.8349 | -43.116402 | 2024-09-28 00:14:23 | METOP-B | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| aa558060-9f98-3ad0-8363-98aff17abb14 | -6.6618 | -42.577 | 2024-09-28 00:14:23 | METOP-B | ARRAIAL | PIAUÍ | Brasil | 2201002 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 0eca9e0e-65ac-3623-b457-6e10c9761d26 | -7.0607 | -44.1255 | 2024-09-28 00:14:23 | METOP-B | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 5bd8ce3a-c22c-3b1a-8f2e-5e0d30855d34 | -6.4587 | -41.954498 | 2024-09-28 00:14:24 | METOP-B | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| cfc1caae-3a0a-3491-9c30-75f720618032 | -7.2124 | -45.089901 | 2024-09-28 00:14:24 | METOP-B | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f797a9d2-f599-38fe-a042-113ad1eed794 | -7.2141 | -45.097401 | 2024-09-28 00:14:24 | METOP-B | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 65d7f776-5e64-3481-8300-e7bf044f3194 | -8.0964 | -49.492001 | 2024-09-28 00:14:25 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 30406e0c-9b10-3265-8e92-0298cd8aa620 | -8.0992 | -49.505402 | 2024-09-28 00:14:25 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 84674ba3-1fe6-3a8e-b94f-92bd6a703e1b | -8.0894 | -49.5075 | 2024-09-28 00:14:25 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 22606740-9a24-302a-80ed-9aabcba328fa | -6.7153 | -43.546799 | 2024-09-28 00:14:26 | METOP-B | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 5cccd305-39d6-3b12-afa4-ce922b0710ba | -6.7168 | -43.553699 | 2024-09-28 00:14:26 | METOP-B | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a2a0ed49-a591-3612-9baf-8f9cf7488368 | -6.6895 | -43.523701 | 2024-09-28 00:14:26 | METOP-B | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1a2da050-92aa-3c53-87c6-443602fcb247 | -7.1415 | -45.421799 | 2024-09-28 00:14:26 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 14b267a5-e122-3dc6-bcb2-7a4b3b083c4d | -7.1432 | -45.429501 | 2024-09-28 00:14:26 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 385429ae-e10b-3205-85b5-6a5c9ce1f93b | -7.286 | -46.129101 | 2024-09-28 00:14:26 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ea7517e6-839e-38ea-a101-0a92b6f610f6 | -7.2878 | -46.137299 | 2024-09-28 00:14:26 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b21b14b0-c42a-39e7-a232-f395b03f428b | -6.4902 | -42.775002 | 2024-09-28 00:14:27 | METOP-B | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 72a13979-022b-3c98-a2bb-8d2a249b44d4 | -6.4917 | -42.781898 | 2024-09-28 00:14:27 | METOP-B | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 96d40005-ed6e-3165-a5f1-606f7d6d0c2e | -6.5542 | -43.150299 | 2024-09-28 00:14:27 | METOP-B | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3f44d55d-8b35-3730-b11a-015743d3738e | -6.6719 | -43.491501 | 2024-09-28 00:14:27 | METOP-B | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9f2f555e-2cc9-3d51-8a49-4c1291c2134e | -6.5526 | -43.143501 | 2024-09-28 00:14:27 | METOP-B | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3a56e635-f026-3330-b0dc-0de708c2d2ab | -7.0185 | -45.329102 | 2024-09-28 00:14:28 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| dcd2789a-8558-34ec-9a34-a40ef76ec4a9 | -7.0201 | -45.3367 | 2024-09-28 00:14:28 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a6ca8c80-806f-3955-892b-4d15b99f2614 | -7.0218 | -45.344299 | 2024-09-28 00:14:28 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 978f7e65-04f4-3fe7-a601-e9854e3074bb | -7.3103 | -46.665798 | 2024-09-28 00:14:28 | METOP-B | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d4c5b187-fbbe-3390-8774-76cd4805bff1 | -7.007 | -45.323799 | 2024-09-28 00:14:28 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9235cd4a-5793-30f6-87cb-b8abd1e03422 | -7.0087 | -45.331299 | 2024-09-28 00:14:28 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 31d8aee7-dcf4-34c7-a64b-503a24605a22 | -7.4061 | -47.1563 | 2024-09-28 00:14:28 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| acabbc63-4a72-34d2-a1eb-a9e159535a36 | -7.4082 | -47.165699 | 2024-09-28 00:14:28 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 33a90a12-89bd-3e79-bd47-39eeceb6d51d | -7.4769 | -47.532501 | 2024-09-28 00:14:28 | METOP-B | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2cbf678a-a033-3f92-8c3d-4ec66b175585 | -7.479 | -47.5424 | 2024-09-28 00:14:28 | METOP-B | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c53fb1e7-753d-3bb9-85a3-0714fb4dae5f | -7.2659 | -46.602299 | 2024-09-28 00:14:28 | METOP-B | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 72dacc3f-f534-3e00-82bb-1269276521b0 | -6.3217 | -42.486198 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| ca689a5c-6765-37cc-afab-572a71cf5807 | -6.3103 | -42.481499 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| b2c323f5-bcbb-3941-b4ec-4436fba5055d | -6.4071 | -42.909302 | 2024-09-28 00:14:29 | METOP-B | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | nan |
+| d3b30afc-1874-3f76-8a59-e39d0f57fbf5 | -6.4087 | -42.916199 | 2024-09-28 00:14:29 | METOP-B | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | nan |
+| 2dec0925-1819-3ce2-a8b4-61e20b273457 | -6.299 | -42.476799 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9b99c01c-d21a-33fa-850e-452e4c2737e7 | -6.3005 | -42.4837 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| e9b757f1-fa6d-3b2a-8d3d-be57ab64637e | -6.3021 | -42.490601 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 6331ce87-978f-32ec-8743-091069a3a839 | -6.3256 | -42.594501 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| d9f03685-b6dd-3c99-b7c3-d98ddb9f988b | -6.3272 | -42.601501 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| b131db49-6faf-325c-bb36-3070b8e2f239 | -6.3143 | -42.589802 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 2a1c9c2b-b0c6-36c5-b21d-b9d5a274d5d1 | -6.3158 | -42.596699 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 86c515d7-f663-397d-9730-80ace05c4ae2 | -6.2837 | -42.545799 | 2024-09-28 00:14:29 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| efcfceba-ad52-3457-bb4d-9c90b7b50be5 | -6.6268 | -43.841702 | 2024-09-28 00:14:29 | METOP-B | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 87fba76a-3349-3c87-8ce0-b4984b171a4f | -6.6283 | -43.848598 | 2024-09-28 00:14:29 | METOP-B | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a755ad64-0b50-3bc4-ba3f-4f66af921be9 | -7.245 | -46.8372 | 2024-09-28 00:14:29 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0834008c-8461-3169-ba4d-d2b7ed02031a | -7.2469 | -46.8461 | 2024-09-28 00:14:29 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 34fe5d01-924c-3324-bfaa-a3f96a7b3dd1 | -6.2723 | -42.541 | 2024-09-28 00:14:30 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 616436be-26d5-3ca5-949a-26d2fcb2850c | -6.2739 | -42.548 | 2024-09-28 00:14:30 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| dec7c20c-6124-3233-9df3-cfbe7d3b3be3 | -6.2755 | -42.554901 | 2024-09-28 00:14:30 | METOP-B | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 70c7dc0e-a811-30bc-aa5e-955a5f315b5d | -6.6915 | -44.5481 | 2024-09-28 00:14:30 | METOP-B | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 26f1db02-8842-38d4-a9b3-48f74be889f5 | -6.5856 | -44.164501 | 2024-09-28 00:14:30 | METOP-B | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b1999120-5f97-3d32-80b0-391d33b06972 | -6.5872 | -44.171501 | 2024-09-28 00:14:30 | METOP-B | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 837bcbda-840a-327c-9a17-0a1fbb6050c3 | -5.0626 | -37.712101 | 2024-09-28 00:14:31 | METOP-B | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | nan |
+| e756725f-7d32-3d41-b5cf-293ebabed7fc | -5.0654 | -37.7239 | 2024-09-28 00:14:31 | METOP-B | QUIXERÉ | CEARÁ | Brasil | 2311504 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 9f045f95-5ab2-393a-981c-c4ee586d9156 | -6.5743 | -44.159698 | 2024-09-28 00:14:31 | METOP-B | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c6da617b-a3b6-33f9-a968-9526e3ba70d3 | -6.5758 | -44.166698 | 2024-09-28 00:14:31 | METOP-B | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b98acd59-0ddf-360d-b560-b57f42980a1b | -6.5774 | -44.173698 | 2024-09-28 00:14:31 | METOP-B | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 5e72456e-e22f-3201-ac85-0131f51ec32e | -6.566 | -44.1689 | 2024-09-28 00:14:31 | METOP-B | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 5babaabe-3532-3244-9cb8-b76c16099f60 | -6.6433 | -44.701302 | 2024-09-28 00:14:31 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8785dbf4-eef6-373c-b574-3995af701383 | -6.6449 | -44.7085 | 2024-09-28 00:14:31 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| febc1aa7-6af2-3ff9-9f37-7522e499c8a0 | -6.3242 | -43.410599 | 2024-09-28 00:14:32 | METOP-B | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b6467522-3b99-38e6-8764-d0b6abc103f4 | -6.3128 | -43.4058 | 2024-09-28 00:14:32 | METOP-B | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b3d8fed0-dcd1-37f3-b771-f98f64d6a59d | -6.3144 | -43.412701 | 2024-09-28 00:14:32 | METOP-B | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4ae8a757-e0c2-305e-b7c0-65865930c0c1 | -6.3159 | -43.419601 | 2024-09-28 00:14:32 | METOP-B | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3fe32024-41d3-327c-9f3d-2e5fcde3a19b | -6.199 | -43.265701 | 2024-09-28 00:14:33 | METOP-B | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7c9b6bc5-bd43-33a6-886e-2ff42fe64b31 | -6.008 | -42.330002 | 2024-09-28 00:14:33 | METOP-B | ELESBÃO VELOSO | PIAUÍ | Brasil | 2203503 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9e52968f-7f7a-31da-aac4-2e049dc749c1 | -6.1755 | -43.436401 | 2024-09-28 00:14:34 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 39be44d4-3d6b-38d0-9f8e-b0b2d5c2b4ad | -6.177 | -43.443298 | 2024-09-28 00:14:34 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ea6780b2-e6f1-3846-9762-58d7482e537f | -6.2414 | -43.638 | 2024-09-28 00:14:34 | METOP-B | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 82b0a5fd-32ac-3e57-bbc5-04ce687bc8a5 | -6.1626 | -43.4249 | 2024-09-28 00:14:35 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8944876c-56d1-35bb-bcd8-db721c95a86c | -6.1642 | -43.431801 | 2024-09-28 00:14:35 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7a6b14f4-5c56-3326-a830-542b7db48589 | -6.1657 | -43.438599 | 2024-09-28 00:14:35 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 61fc6c1b-70f0-3541-8bab-a037a4dbd350 | -6.1672 | -43.445499 | 2024-09-28 00:14:35 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 95a0cd82-0e40-3504-9897-296c38e056f8 | -6.7462 | -46.2892 | 2024-09-28 00:14:35 | METOP-B | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 65c024cf-a431-3e36-90c7-52d99cbe14de | -6.3914 | -44.771801 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7079e32d-7f02-3104-ac05-387c6d0091c1 | -6.5986 | -45.709801 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0c3668e5-7906-333e-9c8b-4636889af4bd | -6.6003 | -45.717602 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7db0dbb0-949d-36b2-8729-c64d025b8dca | -6.602 | -45.7253 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a0509908-523f-39c4-a2e6-d03af126be5f | -6.5871 | -45.704201 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| bc8a23a5-1039-3c66-8684-e4d9ea26f42a | -6.5888 | -45.711899 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| cd9f0867-8a02-3089-afd8-fc4fd8f3a8f9 | -6.5905 | -45.7197 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 76a57bf9-0eca-3bb6-b9c2-dd5854239ac8 | -6.5922 | -45.727402 | 2024-09-28 00:14:36 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README8.md)

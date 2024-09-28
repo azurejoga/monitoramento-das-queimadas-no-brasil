@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 19a6b230-47db-3008-9757-368638d926e6 | -20.49961 | -43.49483 | 2024-09-27 03:49:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| f4a77aeb-9134-3833-8cd9-b325c9cb1fe9 | -20.49673 | -43.48982 | 2024-09-27 03:49:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| cda187dd-7c03-3a07-8fb4-26fbc52e7edb | -20.49594 | -43.49429 | 2024-09-27 03:49:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| c6c5d056-731e-3b55-b07f-f7a726990b26 | -20.20908 | -43.43809 | 2024-09-27 03:49:00 | NOAA-20 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 586ab6cb-5f17-316b-bd16-b58d26bcbf21 | -20.15464 | -43.51041 | 2024-09-27 03:49:00 | NOAA-20 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 0e1ea565-bf97-3740-8954-d6ba0062c2e6 | -20.12197 | -43.44159 | 2024-09-27 03:49:00 | NOAA-20 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 82dbdb59-f326-3cdd-897a-e82b61169259 | -20.11836 | -43.44061 | 2024-09-27 03:49:00 | NOAA-20 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
-| b19dac74-4afd-3387-b1fd-8975f0266eda | -20.11761 | -43.44489 | 2024-09-27 03:49:00 | NOAA-20 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| c5201bcc-0221-3557-a136-3278dd695948 | -21.6245 | -43.46836 | 2024-09-27 03:49:00 | NOAA-20 | JUIZ DE FORA | MINAS GERAIS | Brasil | 3136702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 04af6db7-89f4-3712-9b7b-78ecf5e82b70 | -21.53786 | -43.62043 | 2024-09-27 03:49:00 | NOAA-20 | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| fb7a1bd1-9a99-3852-97d4-5e1c3a3039c9 | -21.53425 | -43.61971 | 2024-09-27 03:49:00 | NOAA-20 | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 2c24df10-3e30-3873-a362-74c2b6ab66a9 | -21.88969 | -42.67068 | 2024-09-27 03:49:00 | NOAA-20 | SAPUCAIA | RIO DE JANEIRO | Brasil | 3305406 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| c4ce7b60-3da8-3994-914e-5c4362ceeac3 | -21.70046 | -43.13798 | 2024-09-27 03:49:00 | NOAA-20 | CHÁCARA | MINAS GERAIS | Brasil | 3115904 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 3e9a8bcd-38c3-35a1-bf55-a08453202985 | -21.41531 | -42.97946 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 0cc142d8-34ef-3b4e-9e51-7e6174a6f17d | -21.41182 | -42.98028 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| 9b1ac997-d71d-316b-bc81-970345485c48 | -21.41182 | -42.97862 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
-| e90505c0-6e27-3310-8ec8-9107441af85f | -21.40984 | -42.97054 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| b3580180-3265-3fc5-8bf6-16d5d64c05cd | -21.40913 | -42.97327 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
-| 1fe6a0e4-c8e4-3fb6-b52b-3f8b59e5147b | -21.40908 | -42.97498 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| 4ef847f8-b42c-38af-b400-74ac0803ee5a | -21.40833 | -42.97775 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
-| 8efc4266-8d05-33bf-9de4-bc26c4d74c29 | -21.40832 | -42.97944 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| 6ae08565-e87e-370f-9276-6d07a2b6fdd6 | -21.40756 | -42.98211 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| f6a1ca0d-3942-3a97-b9b5-437f21aabcdf | -21.40559 | -42.97406 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 1e5507a7-8daf-3dec-a527-6650cefac4de | -21.40482 | -42.97858 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 9837b031-9b45-3a4c-911c-d968c49cf1ea | -21.40361 | -42.96441 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 0b780bcb-e3a3-359c-996f-a3747ad2a26e | -21.4021 | -42.97321 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 33f5266b-146c-3a04-8f69-c9c42df9fa03 | -21.40132 | -42.97777 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 705e452d-3d38-39af-8215-75967a74c278 | -21.40012 | -42.96349 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 1a75d23f-49ad-37b0-b53e-6f64248c7f13 | -21.39859 | -42.97243 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| ff7529ba-3e6c-3b6a-9be7-91d8c6f8e93d | -21.39782 | -42.97698 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| a6831e52-d765-33a7-b3b5-f3f8b62ecf4a | -21.39508 | -42.97169 | 2024-09-27 03:49:00 | NOAA-20 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 433b064f-230a-3d1d-b1ce-22dff6cb2b0d | -21.39314 | -42.96182 | 2024-09-27 03:49:00 | NOAA-20 | GUARANI | MINAS GERAIS | Brasil | 3128402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| ef086bce-fb20-346a-bb35-e92925580cd9 | -21.39235 | -42.96639 | 2024-09-27 03:49:00 | NOAA-20 | GUARANI | MINAS GERAIS | Brasil | 3128402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| a5d0aa45-59da-3a46-a02d-47da94d33efc | -21.38963 | -42.96108 | 2024-09-27 03:49:00 | NOAA-20 | GUARANI | MINAS GERAIS | Brasil | 3128402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| ced2cc73-3fcf-325b-82aa-b13eb61209e2 | -21.38883 | -42.9657 | 2024-09-27 03:49:00 | NOAA-20 | GUARANI | MINAS GERAIS | Brasil | 3128402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| bfe94022-7dbd-384c-8b35-f9a45b886b3f | -21.27616 | -42.7979 | 2024-09-27 03:49:00 | NOAA-20 | DONA EUSÉBIA | MINAS GERAIS | Brasil | 3122900 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| b2deef80-57a1-3930-9eb7-138995ae173a | -21.09721 | -42.96978 | 2024-09-27 03:49:00 | NOAA-20 | UBÁ | MINAS GERAIS | Brasil | 3169901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| bf9041a2-5bcc-3a0c-a0bf-3fc48f0b385c | -21.02178 | -42.67107 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| afc21155-64cb-3293-b80e-293ed98f3d94 | -21.02106 | -42.67535 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| b46b3dcc-b048-304e-8451-d1e3839235fb | -21.01481 | -42.66962 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| aa226b43-2697-3dad-9adf-a1c50e0aec7c | -21.01131 | -42.66898 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 14070382-586b-3699-b9ab-fea83e961253 | -21.00851 | -42.66429 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 01ef0503-a963-310e-82f7-16fa44c00baa | -21.0078 | -42.66844 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 1ef5e745-f77a-3214-9bf6-3d07457763cb | -21.0043 | -42.66787 | 2024-09-27 03:49:00 | NOAA-20 | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| a4cfaf3f-7fd6-3c47-9c4e-324963cc4365 | -22.90155 | -43.75212 | 2024-09-27 03:49:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 5dc280fc-2abe-347b-9baa-328b68cbb4db | -22.7843 | -43.75716 | 2024-09-27 03:49:00 | NOAA-20 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 8a83b30b-4b1c-3ee1-8243-099cbea9bc43 | -22.77582 | -43.80526 | 2024-09-27 03:49:00 | NOAA-20 | ITAGUAÍ | RIO DE JANEIRO | Brasil | 3302007 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 7044f472-5280-35a5-9b49-45bfc38b2ade | -22.61838 | -43.59711 | 2024-09-27 03:49:00 | NOAA-20 | NOVA IGUAÇU | RIO DE JANEIRO | Brasil | 3303500 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| f71657d0-2e35-387f-bfc7-83afe8fd02de | -22.59275 | -43.96837 | 2024-09-27 03:49:00 | NOAA-20 | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 96edca47-f037-3fa8-830f-47b4ef279fc5 | -22.58911 | -43.96771 | 2024-09-27 03:49:00 | NOAA-20 | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 79f517fc-2c5f-3ba2-af41-bbb16927e87e | -22.55615 | -43.81411 | 2024-09-27 03:49:00 | NOAA-20 | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 8.6 |
-| 0a8d56d2-45af-3bcb-9d52-70ee57e48861 | -22.55256 | -43.81335 | 2024-09-27 03:49:00 | NOAA-20 | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 9dbe5326-5be3-37c9-a10f-79c3734d7d35 | -22.40667 | -43.95705 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| 0d5c2f31-74b5-3304-9996-20862229df99 | -22.40588 | -43.9615 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| f895de86-e8a6-3012-b68e-4efc959e79ba | -22.40308 | -43.95608 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| b53f70a2-9389-392b-a993-11b15134a2ac | -22.39717 | -43.54086 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 76cb2444-a330-3efd-908b-956267747270 | -22.39359 | -43.54024 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 82d9f8f9-9127-3920-9afa-65db06599b1a | -22.38869 | -43.95229 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| f7d556f5-2704-3099-93ad-24cc247b26ef | -22.38721 | -43.53453 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 70b2b53c-0fac-35db-b992-339b4e67eddb | -22.387 | -43.96179 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 4e4e72e4-99d6-3af8-95b9-4759a01f9383 | -22.38615 | -43.96649 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| cf1a6c67-fa47-3b75-bace-e8b195428598 | -22.37606 | -43.95979 | 2024-09-27 03:49:00 | NOAA-20 | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| d8c4795e-056a-30ea-8f74-d36cc1cc8793 | -22.35315 | -43.51851 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| a99c13cc-46c4-3096-848a-0b3088845dd0 | -22.35239 | -43.52279 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 30957392-3a26-387b-8001-a69c2f70a804 | -22.34961 | -43.51762 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 1aebf79d-71e3-35ef-950a-e1ce9918ed42 | -22.34884 | -43.52196 | 2024-09-27 03:49:00 | NOAA-20 | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.7 |
-| 1c5fc0f9-50b9-397a-aaa2-2ed538585eb3 | -22.67586 | -42.85689 | 2024-09-27 03:49:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 16.8 |
-| 7a9ab83e-8db4-3b68-85c7-8e1efd8fc045 | -22.67515 | -42.861 | 2024-09-27 03:49:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
-| 510a4ba2-1aa7-3f7d-a086-997f9a573de8 | -22.6724 | -42.85618 | 2024-09-27 03:49:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 16.8 |
-| e3eee009-314d-3e4e-9111-55dee566d985 | -16.04239 | -43.61288 | 2024-09-27 03:49:00 | NOAA-20 | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| d0797722-9bbb-3b5f-938a-6496de417123 | -18.00808 | -43.69292 | 2024-09-27 03:49:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| e6ce3b7a-0936-3be8-8b4a-2e71524825f8 | -18.00621 | -43.69464 | 2024-09-27 03:49:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| d76c0ccc-d587-33f0-ad40-12e8f554cf23 | -18.00426 | -43.69221 | 2024-09-27 03:49:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 777fc826-2c25-3484-8b87-3dae45c1da8f | -17.95255 | -44.24883 | 2024-09-27 03:49:00 | NOAA-20 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| bda7f863-b7d3-383b-b415-04568ae334a9 | -17.94377 | -44.25219 | 2024-09-27 03:49:00 | NOAA-20 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 35c6f092-06bc-346e-9799-0a8414eb45bf | -17.93985 | -44.25134 | 2024-09-27 03:49:00 | NOAA-20 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 6d0ca498-6878-33b4-9c06-413298d0ef01 | -17.92669 | -43.5145 | 2024-09-27 03:49:00 | NOAA-20 | COUTO DE MAGALHÃES DE MINAS | MINAS GERAIS | Brasil | 3120102 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| c2f59a76-d806-3bba-940d-67819c690da4 | -17.92581 | -43.51947 | 2024-09-27 03:49:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| cf6bda76-7ca7-3399-bc96-02473e40c756 | -17.82738 | -44.44941 | 2024-09-27 03:49:00 | NOAA-20 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 38e76a3b-b285-3ab6-b16e-51196a9b17ac | -17.82672 | -44.45303 | 2024-09-27 03:49:00 | NOAA-20 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 341cc7cb-0bea-37b3-8bf8-19b10b1e8121 | -17.82203 | -44.456 | 2024-09-27 03:49:00 | NOAA-20 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| e1518f93-f7a0-3153-bfcd-fc9a2bb3b6cc | -17.65969 | -44.40103 | 2024-09-27 03:49:00 | NOAA-20 | FRANCISCO DUMONT | MINAS GERAIS | Brasil | 3126604 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| ab756386-b50a-39d1-8cce-43315502d361 | -17.5267 | -43.61652 | 2024-09-27 03:49:00 | NOAA-20 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 2de6a6d1-6693-3309-97d1-0c5a1f8e598a | -17.52287 | -43.61583 | 2024-09-27 03:49:00 | NOAA-20 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| e9980246-a560-3a0f-bc55-d1f732b13c90 | -17.04252 | -43.23368 | 2024-09-27 03:49:00 | NOAA-20 | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| ad6af448-2c2e-3e2e-9f0e-5127536819be | -17.04169 | -43.23833 | 2024-09-27 03:49:00 | NOAA-20 | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 625729cd-0d62-3f05-bf8f-d7c2a3875cba | -17.03875 | -43.23295 | 2024-09-27 03:49:00 | NOAA-20 | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| fa7bbf45-ae7d-351e-949a-2dc295a3682d | -17.03792 | -43.23759 | 2024-09-27 03:49:00 | NOAA-20 | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 4fb3ef70-4cb1-359a-aed4-93e89b85229d | -16.68012 | -43.88255 | 2024-09-27 03:49:00 | NOAA-20 | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 8d634225-256a-3919-83c4-2174f75f995d | -16.67891 | -43.88305 | 2024-09-27 03:49:00 | NOAA-20 | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 238213b4-aabd-3a75-8a46-cd1a0d5cd1a0 | -19.24156 | -44.37675 | 2024-09-27 03:49:00 | NOAA-20 | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 91f4c034-d2b5-3835-afab-73a5a0f7278a | -19.22985 | -44.35286 | 2024-09-27 03:49:00 | NOAA-20 | CORDISBURGO | MINAS GERAIS | Brasil | 3118908 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| bbd30dc2-f1a5-37e6-bbda-2d8ad2021aca | -19.1041 | -43.45862 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 4b5ee13d-bdb3-3e22-ba8b-77e651e449ec | -19.10037 | -43.45805 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| a3c0150a-7680-3223-ac23-907ef30bc03e | -18.94977 | -43.51819 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 948c0b3c-727d-32f4-adc0-d34481302001 | -18.8764 | -43.44848 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| a2ffb8f0-bc07-3a4a-8114-b7a99d10d22d | -18.87271 | -43.44766 | 2024-09-27 03:49:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| a19252ca-617d-3f4d-ab30-081180254599 | -18.60878 | -43.46699 | 2024-09-27 03:49:00 | NOAA-20 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| c8d770a4-ee0e-3134-af59-11894bd1ffb1 | -18.60682 | -43.41393 | 2024-09-27 03:49:00 | NOAA-20 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| b085fc93-baa8-3744-898c-4bcb41d82e7f | -18.60608 | -43.41092 | 2024-09-27 03:49:00 | NOAA-20 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| cde45900-8f34-38bf-a036-ab9792650ed4 | -17.79178 | -43.2696 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 6bacdf26-ec79-30b9-989c-9657a9cfdd55 | -17.79052 | -43.27903 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| e12becc4-fab4-30fa-8824-38aea5e575d9 | -17.78868 | -43.26425 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 0c90cd6e-0870-3b5f-a185-22c41dee9f7d | -17.78238 | -43.28266 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| b6b3d6f7-bf5d-3111-af78-68b079419726 | -17.4694 | -43.02505 | 2024-09-28 04:23:00 | NOAA-21 | CARBONITA | MINAS GERAIS | Brasil | 3113503 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| adcd5cd4-c189-3bba-88c4-c59e47a5dfa7 | -17.80114 | -43.28526 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 35ba184d-f080-3463-86bb-99dcce86ecac | -17.79993 | -43.26588 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 38.9 |
+| dda992ac-43d3-3196-ba55-778c174ff578 | -17.79616 | -43.26548 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 9561d957-c7bf-35c8-bdab-afebf641fd9f | -17.78988 | -43.28374 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 836fe5b2-b911-3734-90ac-1ccce8b317af | -17.78493 | -43.26368 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 952398d7-9a64-3ced-84ee-9f459ba08701 | -17.78181 | -43.25837 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ba1dc1db-a9fc-35f2-b90e-8f06dc9183fa | -17.78112 | -43.29205 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 8491816d-e3ae-3a8b-a2c3-91fd2f8d9116 | -17.46916 | -43.02749 | 2024-09-28 04:23:00 | NOAA-21 | CARBONITA | MINAS GERAIS | Brasil | 3113503 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2f6bb5a5-92c8-355d-9a75-12f4e2f346e4 | -17.79553 | -43.2702 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| b8d37140-563d-347f-b7f5-1451af856c1a | -17.79115 | -43.27431 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 8cb5d8b2-a48d-3964-a78c-1cac0864f7ce | -17.78804 | -43.26899 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 411c99ee-fa69-3ac3-900f-90f35a4d0d9d | -17.37372 | -43.13475 | 2024-09-28 04:23:00 | NOAA-21 | CARBONITA | MINAS GERAIS | Brasil | 3113503 | 31 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| f1b3fd78-f523-3087-9321-1a9bd677e338 | -17.77806 | -43.25775 | 2024-09-28 04:23:00 | NOAA-21 | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| fb824caf-6f95-318f-938d-b6d8cf917441 | -17.37434 | -43.13012 | 2024-09-28 04:23:00 | NOAA-21 | CARBONITA | MINAS GERAIS | Brasil | 3113503 | 31 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| f6a86fc5-a454-380c-8d1d-89a1cc5997c7 | -18.73142 | -43.84993 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DE PIRAPAMA | MINAS GERAIS | Brasil | 3158508 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 61476392-04f6-3a9d-bcc2-20d6d1c3fb00 | -18.73075 | -43.85473 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DE PIRAPAMA | MINAS GERAIS | Brasil | 3158508 | 31 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 62acc0f2-1c34-3a9c-8047-37a5f9754a83 | -18.71179 | -43.91077 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DE PIRAPAMA | MINAS GERAIS | Brasil | 3158508 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b3bc4b40-48c2-3a4d-be78-c385527f8654 | -18.71119 | -43.91508 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DE PIRAPAMA | MINAS GERAIS | Brasil | 3158508 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 54090ae2-d516-369e-b13e-2a7a4329e2b0 | -18.52179 | -43.8818 | 2024-09-28 04:23:00 | NOAA-21 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| d75fe3e0-5632-39b7-8274-c4e133b0a142 | -18.50283 | -43.88385 | 2024-09-28 04:23:00 | NOAA-21 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| bea6a785-19f1-302c-b59b-df38ae9b769c | -18.47797 | -43.8472 | 2024-09-28 04:23:00 | NOAA-21 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 721ecf61-c36e-3029-9e07-d479937371fd | -18.4743 | -43.84672 | 2024-09-28 04:23:00 | NOAA-21 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c4fddc77-2136-33b8-a494-ade9c69b574a | -18.36978 | -44.0097 | 2024-09-28 04:23:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 555518f0-0d1c-3b5b-8a9e-bb2b34fedcdb | -18.36556 | -44.0134 | 2024-09-28 04:23:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 06d60449-97a1-3bd9-a892-ee7eb9eae062 | -18.36194 | -43.9591 | 2024-09-28 04:23:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| cbfa3752-1b1d-3f17-bea2-c65c44ca61bc | -18.36193 | -44.0129 | 2024-09-28 04:23:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 0ca536c8-7afa-3350-a403-ea9f186f72a6 | -18.36011 | -43.99922 | 2024-09-28 04:23:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 45f663e8-204f-303a-88f3-93819c0762d8 | -18.35952 | -44.00351 | 2024-09-28 04:23:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d45c74ff-f6b0-36ca-93ff-38d00e17b340 | -18.35893 | -43.98089 | 2024-09-28 04:23:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c5b95fac-2a5d-3c65-8612-106aa06b4860 | -18.18767 | -43.92247 | 2024-09-28 04:23:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 68cec1c8-7f8a-346d-8dac-7dfb6105b4c6 | -18.05555 | -44.34329 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f8723388-147f-312d-a98e-992a80bbba82 | -18.05431 | -44.37848 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 021febde-1657-37c9-9459-945f6514e585 | -18.05371 | -44.38278 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 315d3ffd-3935-3b4b-8ab6-b669a00e5979 | -18.05311 | -44.3871 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 2f4f5b6e-2ad8-367c-83ac-f3d4dc4eddbe | -18.05076 | -44.37791 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| db91472e-cbbb-368d-b903-fa7925d179f9 | -18.05016 | -44.38221 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 923cedcc-fa9c-30af-a19b-ed88ca1f5291 | -18.04956 | -44.38655 | 2024-09-28 04:23:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 3996347f-9894-3dc5-bb5c-cf5532a1a416 | -18.01609 | -44.31875 | 2024-09-28 04:23:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 31bae688-e5fe-3e4c-a6ec-6fb6616b12a6 | -18.0155 | -44.3229 | 2024-09-28 04:23:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 70c665e6-b6b3-3e19-a958-b219d95b5478 | -18.01491 | -44.32704 | 2024-09-28 04:23:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| a0f935e6-ae59-3916-92bf-afecb888604c | -18.00838 | -44.32182 | 2024-09-28 04:23:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4ee7601e-fec1-30da-a238-3c758381a47c | -18.00779 | -44.32598 | 2024-09-28 04:23:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| a2c9a12f-817f-3a10-ad6e-7eeee4f9adfb | -18.00112 | -44.47472 | 2024-09-28 04:23:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f63658fa-96b2-3c98-a425-2e8d51e61f62 | -17.99831 | -44.34154 | 2024-09-28 04:23:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 29b0ea55-b3a0-3a05-9b1a-74c391c0aba8 | -18.60403 | -43.4025 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 9dc2c3b3-e981-34e7-8072-0e20acf5db37 | -18.60341 | -43.40725 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 23f8332d-d708-394c-90db-582031b371fa | -18.60282 | -43.40553 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 5be20d9e-1227-3589-8b29-6de7e298ca83 | -18.60217 | -43.41025 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 83e0deed-6f07-3300-9f06-0e27c982c1b7 | -18.59965 | -43.40668 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 53185d43-968f-327c-9d0d-bf3ae87b058a | -18.59904 | -43.41135 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 32ecaf48-c296-358b-b365-4581875d14a0 | -18.59842 | -43.40964 | 2024-09-28 04:23:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| b63eca4b-eb33-3af1-8825-26a42884a585 | -19.24203 | -44.37329 | 2024-09-28 04:23:00 | NOAA-21 | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| afc9a0e0-00c8-300d-9393-83f36cdbd894 | -19.24085 | -44.3819 | 2024-09-28 04:23:00 | NOAA-21 | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 7a97275d-558c-34d9-9160-343da1496710 | -19.22286 | -43.71138 | 2024-09-28 04:23:00 | NOAA-21 | SANTANA DO RIACHO | MINAS GERAIS | Brasil | 3159001 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| ea16715a-2138-3679-bd26-fdf3a5a6c3b0 | -19.10632 | -43.4529 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 94ac976a-aea1-3aa8-b100-5dbed9dca5b8 | -19.10255 | -43.4523 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 69fec4ac-d0a4-3a19-9c73-74187347061b | -19.09881 | -43.45153 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ad273a02-4be7-3039-8291-91f21c50194f | -19.09815 | -43.4564 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 48ed3a5b-4394-3cc1-b343-538f83c1f8f3 | -18.95218 | -43.50932 | 2024-09-28 04:23:00 | NOAA-21 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 38b4cf09-f802-3d85-80b1-b2efc52d14f2 | -20.11709 | -44.49344 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 7c11eb4a-0402-3243-8f6c-44cc619540fa | -20.11649 | -44.49783 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 66a99ebb-587a-3160-b0e4-d547492ea697 | -20.11407 | -44.48851 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| b427cb2e-a1b0-3f00-b3cf-6522e7d532a0 | -20.11347 | -44.4929 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 2da09198-b1dd-3b1b-b927-7cbb8e975458 | -20.11287 | -44.49731 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 32be385e-c708-376a-955e-4bc64e55e19f | -20.11047 | -44.48783 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 18a717d9-16ab-3f43-8562-6955952541f3 | -20.10987 | -44.49226 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| eee6dd2a-3112-3500-94ca-1b5768d63163 | -20.10627 | -44.49158 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 9bef4d3d-7741-3a92-a844-212ffceaab1a | -20.10266 | -44.49092 | 2024-09-28 04:23:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| dd2be650-66a9-360b-95da-744272475b73 | -20.91388 | -43.90609 | 2024-09-28 04:23:00 | NOAA-21 | CASA GRANDE | MINAS GERAIS | Brasil | 3114907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
+| 00b6d04d-9a54-3cfa-ac7a-e92402e31093 | -20.91353 | -43.90364 | 2024-09-28 04:23:00 | NOAA-21 | CASA GRANDE | MINAS GERAIS | Brasil | 3114907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
+| 5c3e5611-1f57-3b72-ae36-a4e2849c9e5b | -19.81583 | -44.05052 | 2024-09-28 04:23:00 | NOAA-21 | RIBEIRÃO DAS NEVES | MINAS GERAIS | Brasil | 3154606 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| cff1d421-810f-3a2e-bd36-e3607c1f4abd | -19.81477 | -44.05225 | 2024-09-28 04:23:00 | NOAA-21 | RIBEIRÃO DAS NEVES | MINAS GERAIS | Brasil | 3154606 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 56f09773-49c4-37ce-82d3-8cb042c6da36 | -19.79416 | -44.20729 | 2024-09-28 04:23:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b6a233e3-8a04-3bcd-ab5d-cfceb16599b5 | -19.79373 | -44.20982 | 2024-09-28 04:23:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 7e48234c-0a5d-3008-93cb-041cd8fa43e2 | -19.79068 | -44.20491 | 2024-09-28 04:23:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 378766c6-11bc-3808-8315-3dc095544509 | -19.7905 | -44.20681 | 2024-09-28 04:23:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 1c50e61a-018a-328a-ae96-7185cfe55d26 | -19.77973 | -44.28744 | 2024-09-28 04:23:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 4fa21f18-c858-30de-bba0-18f2a034c963 | -19.76772 | -43.70405 | 2024-09-28 04:23:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 8ea41ee2-8881-3546-8bfd-f43412525c15 | -19.76395 | -43.67439 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c9dd3054-ec76-3315-af40-b10b21f5c54f | -19.76287 | -43.67725 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 5043be94-4e8a-3396-ba1c-8b8f750efbf3 | -19.75957 | -43.67863 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a14ce9e1-e526-3ca5-a8ce-f630a300aaba | -19.75896 | -43.68328 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 9f7c33ce-23a4-38b7-a38b-7fa777bfab0a | -19.75848 | -43.68135 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f1b56227-4771-3636-9d62-5ef6db668001 | -19.75785 | -43.68597 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2ce4c44f-9424-3ba4-b6ce-eb449ddd1312 | -19.75578 | -43.64883 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 2119fdb3-7978-3a6f-a017-ca6da0c5eae9 | -19.75549 | -43.647 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d02fdde5-ce30-3f24-a642-5fcd4494676d | -19.75487 | -43.65157 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 95bfd694-c5a9-33d5-b6c0-76c469092dd9 | -19.75173 | -43.64644 | 2024-09-28 04:23:00 | NOAA-21 | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 90f7f8be-db21-399d-a61b-b9a2a003b3d8 | -19.74778 | -43.96931 | 2024-09-28 04:23:00 | NOAA-21 | VESPASIANO | MINAS GERAIS | Brasil | 3171204 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| bdbb0f14-2afa-305c-a3a8-697df35bf363 | -19.69111 | -43.89659 | 2024-09-28 04:23:00 | NOAA-21 | LAGOA SANTA | MINAS GERAIS | Brasil | 3137601 | 31 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| c156787d-cd3f-3fc1-b366-68ac0ade5ecf | -19.69047 | -43.90133 | 2024-09-28 04:23:00 | NOAA-21 | LAGOA SANTA | MINAS GERAIS | Brasil | 3137601 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| fc3e7140-8a5b-3ce2-ae71-af40511b74f4 | -19.65349 | -43.80952 | 2024-09-28 04:23:00 | NOAA-21 | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| b2289924-c718-31c4-8a62-f87ae24af453 | -19.64001 | -44.18902 | 2024-09-28 04:23:00 | NOAA-21 | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 0f8edf03-e2d6-3712-818a-103176a0a795 | -19.63939 | -44.19353 | 2024-09-28 04:23:00 | NOAA-21 | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 28381379-9a70-3353-a030-54cbf417e80a | -19.63575 | -44.19293 | 2024-09-28 04:23:00 | NOAA-21 | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
 
 
 [Clique aqui para ver as próximas entradas](README63.md)
