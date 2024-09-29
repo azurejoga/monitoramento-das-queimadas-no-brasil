@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6d4cc613-424f-3212-bdde-4e0d3dbfdc4e | -21.520399 | -42.0397 | 2024-09-28 00:10:21 | METOP-B | CAMBUCI | RIO DE JANEIRO | Brasil | 3300902 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 2c6ebd0d-1a80-3343-a37c-11aede545bbf | -21.5089 | -42.033798 | 2024-09-28 00:10:21 | METOP-B | SANTO ANTÔNIO DE PÁDUA | RIO DE JANEIRO | Brasil | 3304706 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 27840839-a0e3-3435-98ac-b12f2f4c7bc9 | -21.510599 | -42.041901 | 2024-09-28 00:10:21 | METOP-B | SANTO ANTÔNIO DE PÁDUA | RIO DE JANEIRO | Brasil | 3304706 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 22859931-8138-3f27-9685-b2b6ec9d06fc | -21.512199 | -42.049999 | 2024-09-28 00:10:21 | METOP-B | SANTO ANTÔNIO DE PÁDUA | RIO DE JANEIRO | Brasil | 3304706 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b4576bba-ca46-355f-89c4-a50e94f42d74 | -21.2906 | -41.916302 | 2024-09-28 00:10:24 | METOP-B | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1e011c4e-fa8e-3173-a5ed-673f0fbd5786 | -21.2922 | -41.924198 | 2024-09-28 00:10:24 | METOP-B | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a06fa039-7ec7-3d00-8867-81857c04c7ef | -21.2939 | -41.932201 | 2024-09-28 00:10:24 | METOP-B | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 88a564e7-a7cb-3e09-ae89-7121c03a482a | -22.346901 | -47.629299 | 2024-09-28 00:10:24 | METOP-B | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 24697bf6-241b-3476-bf45-eec0ddd58018 | -20.991899 | -41.2621 | 2024-09-28 00:10:27 | METOP-B | MUQUI | ESPÍRITO SANTO | Brasil | 3203809 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| cbe0441d-8675-34b0-b837-b048dcd20aa8 | -21.130899 | -42.238602 | 2024-09-28 00:10:28 | METOP-B | EUGENÓPOLIS | MINAS GERAIS | Brasil | 3124906 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a0c81441-ddaa-3276-8afc-53faf4e98039 | -21.1325 | -42.2467 | 2024-09-28 00:10:28 | METOP-B | PATROCÍNIO DO MURIAÉ | MINAS GERAIS | Brasil | 3148202 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| df9ff537-5734-38ef-b0ff-f3ce58e174bb | -20.827299 | -41.605202 | 2024-09-28 00:10:30 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| cceb2e7d-c6a0-3169-9725-fb48db323ff1 | -20.828899 | -41.6129 | 2024-09-28 00:10:30 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c0718c4b-9ed2-3e39-b4b8-35efb9aec220 | -20.8305 | -41.620602 | 2024-09-28 00:10:30 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 06ff422b-662d-32a8-aa61-725d530eb306 | -20.817499 | -41.607399 | 2024-09-28 00:10:31 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 11d59202-41f9-3f76-98c3-7ab6f83423b7 | -20.819099 | -41.615101 | 2024-09-28 00:10:31 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| de81ea01-0251-376c-b720-35fb456e32dc | -20.8207 | -41.622799 | 2024-09-28 00:10:31 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 9ec33f48-fda7-3c35-8ab8-69a4d7f3601f | -20.788601 | -41.517399 | 2024-09-28 00:10:31 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 621c3347-fe95-3cf4-83b8-11816c24409b | -20.790199 | -41.525101 | 2024-09-28 00:10:31 | METOP-B | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 0b196798-850b-373c-b551-05c0ea171d04 | -21.0294 | -42.6497 | 2024-09-28 00:10:31 | METOP-B | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 38c3a967-4a64-3905-86ae-34d6f8afe2ad | -21.031099 | -42.6581 | 2024-09-28 00:10:31 | METOP-B | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 67c8d5be-8b53-39ae-b5cf-e5450b33584d | -21.032801 | -42.6665 | 2024-09-28 00:10:31 | METOP-B | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| bc24a666-cfde-3264-8c01-3afd00414da4 | -21.0116 | -42.662498 | 2024-09-28 00:10:31 | METOP-B | GUIRICEMA | MINAS GERAIS | Brasil | 3129004 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 967b1613-7196-3e91-88b3-0e11cc8c9d1e | -20.622801 | -41.213799 | 2024-09-28 00:10:32 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 106ca1eb-2c40-3cad-b1ae-22f13dc91e8a | -20.6243 | -41.221401 | 2024-09-28 00:10:32 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b31df93e-3489-3d0b-9684-653737a8ca24 | -20.888201 | -42.404499 | 2024-09-28 00:10:32 | METOP-B | MIRADOURO | MINAS GERAIS | Brasil | 3142106 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 546666cc-842a-3e41-8d0e-566e23e1e2ad | -20.889799 | -42.412701 | 2024-09-28 00:10:32 | METOP-B | MIRADOURO | MINAS GERAIS | Brasil | 3142106 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 14d7bb8b-f2f9-3824-88e6-0d9c1aeccc51 | -20.613001 | -41.216099 | 2024-09-28 00:10:33 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 00c10668-eb5a-3071-ae5f-c64026d80755 | -20.6145 | -41.223701 | 2024-09-28 00:10:33 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f3716640-7218-363c-ab34-a84f2277d2ac | -20.6161 | -41.231201 | 2024-09-28 00:10:33 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 8e1e7dbf-8acb-3fd5-a183-5fa3d717de32 | -20.617701 | -41.238701 | 2024-09-28 00:10:33 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b549729a-31ae-33cd-8bd6-5d6cc83b52d4 | -20.5418 | -40.926998 | 2024-09-28 00:10:33 | METOP-B | ALFREDO CHAVES | ESPÍRITO SANTO | Brasil | 3200300 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1309158c-c216-3cec-9aa0-a5575cd0e14b | -20.6063 | -41.233501 | 2024-09-28 00:10:33 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| aaffeec1-36ad-37ea-8ace-359ff9be1829 | -20.628401 | -41.3391 | 2024-09-28 00:10:33 | METOP-B | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| ea00027b-30a4-3ecf-af12-e3ebdcfe4766 | -20.629999 | -41.346699 | 2024-09-28 00:10:33 | METOP-B | CACHOEIRO DE ITAPEMIRIM | ESPÍRITO SANTO | Brasil | 3201209 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 7437b5a2-0247-39b9-a527-ccccf2af990c | -20.5949 | -41.228199 | 2024-09-28 00:10:33 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| dcd1da4e-ec62-324d-8630-2707eb4563ae | -20.531799 | -41.1721 | 2024-09-28 00:10:34 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 15664353-8f76-3a00-89bb-00757aae891b | -20.5334 | -41.1796 | 2024-09-28 00:10:34 | METOP-B | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b6c65c9c-2f13-338b-a200-f4cc2d6c83e9 | -21.837999 | -48.1903 | 2024-09-28 00:10:34 | METOP-B | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 04b075ee-7d42-30b3-b8f0-7bf3e0abb630 | -21.8832 | -48.466202 | 2024-09-28 00:10:34 | METOP-B | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| a3f3e35c-643b-38d4-8cb3-1182b89a269a | -20.5914 | -42.002102 | 2024-09-28 00:10:36 | METOP-B | ESPERA FELIZ | MINAS GERAIS | Brasil | 3124203 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| fe8e43fb-55ee-3392-a079-709eff33b0ac | -20.593 | -42.009998 | 2024-09-28 00:10:36 | METOP-B | ESPERA FELIZ | MINAS GERAIS | Brasil | 3124203 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 565f6064-5822-3254-a0f0-d5530148cf92 | -20.594601 | -42.017899 | 2024-09-28 00:10:36 | METOP-B | ESPERA FELIZ | MINAS GERAIS | Brasil | 3124203 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 05416718-8646-399f-80a3-6f96ddf9f288 | -20.813299 | -43.3106 | 2024-09-28 00:10:36 | METOP-B | SENHORA DE OLIVEIRA | MINAS GERAIS | Brasil | 3166006 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 9bb8166b-69ba-3830-94b2-b60ef6862af2 | -20.633499 | -42.258701 | 2024-09-28 00:10:36 | METOP-B | FERVEDOURO | MINAS GERAIS | Brasil | 3125952 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 6166d76a-5142-30ba-850c-1a5f91289597 | -21.281401 | -45.7882 | 2024-09-28 00:10:36 | METOP-B | CAMPOS GERAIS | MINAS GERAIS | Brasil | 3111606 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c1b103cc-e455-3527-a93b-135f38062d24 | -21.2836 | -45.800598 | 2024-09-28 00:10:36 | METOP-B | CAMPOS GERAIS | MINAS GERAIS | Brasil | 3111606 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 6c798f97-741a-3260-8387-e468ca21e518 | -21.618099 | -47.714298 | 2024-09-28 00:10:36 | METOP-B | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| ecb8833a-6b02-3ecf-b4c9-95219ec6fb2f | -21.620899 | -47.730999 | 2024-09-28 00:10:36 | METOP-B | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 898d32d4-9215-303c-b8b0-f5a0f9b809f2 | -21.623699 | -47.747601 | 2024-09-28 00:10:36 | METOP-B | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| e6cd12e8-c4e5-3f58-b85f-35262f9492b1 | -20.436501 | -41.996498 | 2024-09-28 00:10:38 | METOP-B | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 781766c3-245e-3cfa-aa82-22339a14489d | -20.2593 | -41.2911 | 2024-09-28 00:10:39 | METOP-B | CONCEIÇÃO DO CASTELO | ESPÍRITO SANTO | Brasil | 3201704 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 6e22fe5d-d713-3e51-a682-2610c32dc54b | -20.2609 | -41.298599 | 2024-09-28 00:10:39 | METOP-B | BREJETUBA | ESPÍRITO SANTO | Brasil | 3201159 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 326bcab2-fed1-3cb1-a08a-c7fc849204d4 | -20.287701 | -41.426601 | 2024-09-28 00:10:39 | METOP-B | MUNIZ FREIRE | ESPÍRITO SANTO | Brasil | 3203700 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4981ea1c-14dd-32a8-9b6b-d08d854a2838 | -21.4039 | -47.7547 | 2024-09-28 00:10:40 | METOP-B | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 5bc7b83d-303c-355a-887b-39616d3fcb35 | -21.406799 | -47.771301 | 2024-09-28 00:10:40 | METOP-B | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| b967603d-c3e0-378a-b6ff-6602c25e5ca3 | -19.9559 | -40.540798 | 2024-09-28 00:10:41 | METOP-B | SANTA TERESA | ESPÍRITO SANTO | Brasil | 3204609 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 64151203-fefa-3a0c-b2d2-144f1b8d0ed7 | -20.4482 | -42.911701 | 2024-09-28 00:10:41 | METOP-B | PONTE NOVA | MINAS GERAIS | Brasil | 3152105 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 79017de0-1b76-3662-a203-3f54dff17159 | -20.4499 | -42.9202 | 2024-09-28 00:10:41 | METOP-B | PONTE NOVA | MINAS GERAIS | Brasil | 3152105 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 52c779c3-a3cb-3804-8675-2ec2af274122 | -21.1674 | -46.964199 | 2024-09-28 00:10:42 | METOP-B | MONTE SANTO DE MINAS | MINAS GERAIS | Brasil | 3143203 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 73d00f43-8b3b-321c-bb67-37680962255e | -21.169901 | -46.978802 | 2024-09-28 00:10:42 | METOP-B | MONTE SANTO DE MINAS | MINAS GERAIS | Brasil | 3143203 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| f1f76910-2938-3e68-a37a-3672e7ff4940 | -21.413799 | -47.7528 | 2024-09-28 00:10:42 | METOP-B | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| ec80b465-8470-35e6-bbd0-0d593c9f63db | -21.416599 | -47.769402 | 2024-09-28 00:10:42 | METOP-B | SÃO SIMÃO | SÃO PAULO | Brasil | 3550902 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 8bfadff1-e3af-3691-8cea-d5c104e1eba3 | -21.1108 | -46.244801 | 2024-09-28 00:10:43 | METOP-B | CONCEIÇÃO DA APARECIDA | MINAS GERAIS | Brasil | 3117108 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4ffd67b7-37d2-3b28-9ee9-23e180d57add | -21.113199 | -46.257999 | 2024-09-28 00:10:43 | METOP-B | CONCEIÇÃO DA APARECIDA | MINAS GERAIS | Brasil | 3117108 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 24b696c0-365d-3405-8435-dd3092981a42 | -19.615299 | -39.873299 | 2024-09-28 00:10:44 | METOP-B | LINHARES | ESPÍRITO SANTO | Brasil | 3203205 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f1f2cc20-04e5-3ade-a8e5-dd5e8654c5ef | -19.616899 | -39.8806 | 2024-09-28 00:10:44 | METOP-B | LINHARES | ESPÍRITO SANTO | Brasil | 3203205 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 8395b412-5b32-3c34-82a5-a57e6ac6bfa9 | -19.9307 | -41.7803 | 2024-09-28 00:10:46 | METOP-B | CONCEIÇÃO DE IPANEMA | MINAS GERAIS | Brasil | 3117405 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| dc501608-a259-3727-a1f9-091642f173ad | -19.983101 | -42.132999 | 2024-09-28 00:10:46 | METOP-B | SANTA BÁRBARA DO LESTE | MINAS GERAIS | Brasil | 3157252 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b0f7c107-415d-3fc4-a6f1-a7aed858bf12 | -20.180099 | -43.514599 | 2024-09-28 00:10:47 | METOP-B | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 0e11114d-1d97-36ef-956e-90ba97d3b417 | -20.181801 | -43.523602 | 2024-09-28 00:10:47 | METOP-B | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 14893366-8f2f-342f-bf4c-b477e4523789 | -19.995899 | -42.3951 | 2024-09-28 00:10:47 | METOP-B | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f98e782a-ab12-34a1-8805-5722bf99e302 | -19.997499 | -42.403099 | 2024-09-28 00:10:47 | METOP-B | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b2b3ea44-b23b-3d56-801c-f25b30868d1b | -19.9196 | -42.122898 | 2024-09-28 00:10:47 | METOP-B | SANTA BÁRBARA DO LESTE | MINAS GERAIS | Brasil | 3157252 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c8a5dacc-03ed-30bb-a5bf-fd5c4aabd9f6 | -19.9212 | -42.130699 | 2024-09-28 00:10:47 | METOP-B | SANTA BÁRBARA DO LESTE | MINAS GERAIS | Brasil | 3157252 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 84f9628c-ba43-36cf-8670-3a3a03b12557 | -20.1136 | -43.4366 | 2024-09-28 00:10:48 | METOP-B | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 11c57770-1429-3521-af26-35f8107c8487 | -20.1154 | -43.4454 | 2024-09-28 00:10:48 | METOP-B | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| ae15275f-bdcb-3ba0-9e4f-27a0f89aa4d5 | -19.873899 | -42.1497 | 2024-09-28 00:10:48 | METOP-B | SANTA RITA DE MINAS | MINAS GERAIS | Brasil | 3159357 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4f6969f1-1152-3a35-ac5b-66b0e64135ea | -19.8755 | -42.157501 | 2024-09-28 00:10:48 | METOP-B | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| aae271b1-3b3d-31d7-b592-72ebc30b542a | -19.8641 | -42.152 | 2024-09-28 00:10:48 | METOP-B | SANTA RITA DE MINAS | MINAS GERAIS | Brasil | 3159357 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c628871e-8027-3cbe-aa58-7097d7f96299 | -19.8657 | -42.159801 | 2024-09-28 00:10:48 | METOP-B | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a15a5896-939e-3dcb-9d8e-7511701b4370 | -19.8214 | -42.392899 | 2024-09-28 00:10:49 | METOP-B | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3663191d-1a61-383b-8616-c4cd1ba6221e | -19.823099 | -42.400902 | 2024-09-28 00:10:49 | METOP-B | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4ab9785a-edfe-3138-83d2-8ae899c6ce95 | -20.506399 | -45.8689 | 2024-09-28 00:10:49 | METOP-B | PIMENTA | MINAS GERAIS | Brasil | 3150505 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 028dc761-9557-36cb-88d3-81ee5a8259cd | -20.5795 | -46.27 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| a10b2683-f87b-33d9-a2a4-cf891c53051e | -20.5819 | -46.283001 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 05c1c6a8-3695-38cf-ab80-ff2b08795328 | -20.4967 | -45.870899 | 2024-09-28 00:10:49 | METOP-B | PIMENTA | MINAS GERAIS | Brasil | 3150505 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 3c95be57-a4f3-337b-bfd3-de5eb1b3dff4 | -20.498899 | -45.882999 | 2024-09-28 00:10:49 | METOP-B | PIMENTA | MINAS GERAIS | Brasil | 3150505 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| ede7330e-6efb-3e1b-918c-5db2b8d7f423 | -20.5651 | -46.2463 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 55397336-3591-326f-a435-896dcbe14dfb | -20.5674 | -46.259102 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| bef82800-027e-3d48-a4eb-1706c6b3e183 | -20.5697 | -46.271999 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 8f54e3cd-6b3a-3133-a00f-908dca99278d | -20.5721 | -46.285 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 9fc94dff-4622-3ce7-bff3-49e6dcf7fc65 | -20.5744 | -46.297901 | 2024-09-28 00:10:49 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 089aaef1-cb9b-3602-ad8a-e6898fd616b1 | -20.557699 | -46.261002 | 2024-09-28 00:10:50 | METOP-B | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| b0a9f865-d2a1-3948-96bf-ad35b0369696 | -19.5217 | -41.541698 | 2024-09-28 00:10:51 | METOP-B | POCRANE | MINAS GERAIS | Brasil | 3151909 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 5436ecae-42c0-3376-bc91-56a349ea239b | -19.865499 | -43.165298 | 2024-09-28 00:10:51 | METOP-B | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a277c7fa-a940-3f4f-8f2b-7b2cc78709b3 | -19.867201 | -43.173801 | 2024-09-28 00:10:51 | METOP-B | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 63339c07-4338-3374-8497-c040cd33e815 | -19.8689 | -43.1824 | 2024-09-28 00:10:51 | METOP-B | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 277496c3-e35a-3e53-ae64-36f83a400909 | -20.1117 | -44.4702 | 2024-09-28 00:10:51 | METOP-B | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4c70ecb9-ddeb-3b5b-aef2-1a916b4eaf21 | -20.1136 | -44.480099 | 2024-09-28 00:10:51 | METOP-B | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| abb6fb11-0cab-39c9-87b9-5635ee6e75a3 | -7.84 | -44.62 | 2024-09-29 00:04:42 | MSG-03 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 878d4832-7b2b-3647-b60a-e2395e38205e | -7.84 | -44.57 | 2024-09-29 00:04:42 | MSG-03 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| d6767b31-d608-371a-ad7e-c51b29e61a5c | -3.94 | -41.49 | 2024-09-29 00:05:05 | MSG-03 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 8a5c4dd7-4a9e-3e5f-8f26-2100f536c0ac | -22.783899 | -46.796799 | 2024-09-29 00:44:05 | METOP-C | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| fbcb1fce-3786-3c23-ab7a-70f1430a6625 | -22.785601 | -46.804901 | 2024-09-29 00:44:05 | METOP-C | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ff49ab9d-5de9-3a50-9291-dbbae996be99 | -22.772499 | -46.7911 | 2024-09-29 00:44:05 | METOP-C | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5a13ad40-aaeb-3c0c-aa85-b33d5f9d0708 | -22.774099 | -46.799099 | 2024-09-29 00:44:05 | METOP-C | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6d3aa719-8ef7-308d-abe1-11979f6eb437 | -22.775801 | -46.807201 | 2024-09-29 00:44:05 | METOP-C | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 95d5b6f0-64b9-387a-91c9-518b49845cc2 | -23.373501 | -50.215599 | 2024-09-29 00:44:06 | METOP-C | SANTO ANTÔNIO DA PLATINA | PARANÁ | Brasil | 4124103 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2a13711d-721b-3829-83aa-63208613b4d2 | -23.3757 | -50.227501 | 2024-09-29 00:44:06 | METOP-C | JUNDIAÍ DO SUL | PARANÁ | Brasil | 4112900 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5687460f-b3d5-3f5c-bc82-ae6288f5c3ad | -22.374399 | -48.736401 | 2024-09-29 00:44:18 | METOP-C | PEDERNEIRAS | SÃO PAULO | Brasil | 3536703 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 8e94b3f2-c75b-3c54-8184-bd385cd1e23b | -22.376301 | -48.745998 | 2024-09-29 00:44:18 | METOP-C | PEDERNEIRAS | SÃO PAULO | Brasil | 3536703 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| fd75a485-4e5e-38bc-b544-504e0f4906a6 | -22.2857 | -48.6469 | 2024-09-29 00:44:19 | METOP-C | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d66f7ea2-29b3-30e3-9078-53335d2aa779 | -22.295401 | -48.644798 | 2024-09-29 00:44:19 | METOP-C | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 392c95d9-b831-35fd-8e07-42d3f97f6db4 | -22.297199 | -48.654202 | 2024-09-29 00:44:19 | METOP-C | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 99c7b650-52d6-3f43-bc6c-90513dc21f74 | -22.2875 | -48.6563 | 2024-09-29 00:44:19 | METOP-C | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| f3c88a8a-789f-3c90-83dc-6b2b47150f62 | -22.2894 | -48.665798 | 2024-09-29 00:44:19 | METOP-C | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| a0dc4011-a539-3213-93ac-72e4c9b1a869 | -22.2759 | -48.649101 | 2024-09-29 00:44:19 | METOP-C | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 39aa20da-bf41-3bf4-ab9b-ba0ec13b9226 | -22.2777 | -48.658501 | 2024-09-29 00:44:19 | METOP-C | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 607e4871-96f3-3e04-8e3e-7772d7acb907 | -22.2796 | -48.667999 | 2024-09-29 00:44:19 | METOP-C | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 08b837da-33a5-3fd7-ac08-5f458dc1ec1d | -22.2679 | -48.660599 | 2024-09-29 00:44:20 | METOP-C | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b319ec42-471f-32ab-93e0-0640d62ce9b7 | -21.7073 | -46.3521 | 2024-09-29 00:44:21 | METOP-C | CAMPESTRE | MINAS GERAIS | Brasil | 3111002 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| eccc6443-acf7-3d6d-a634-28ab172d3b15 | -21.709 | -46.359699 | 2024-09-29 00:44:21 | METOP-C | BANDEIRA DO SUL | MINAS GERAIS | Brasil | 3105301 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d6645f1f-f20e-3c33-8d93-2276ecffd82d | -21.628 | -47.752499 | 2024-09-29 00:44:27 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 146f637f-c60d-3c23-ab57-294d946e47be | -21.616501 | -47.7463 | 2024-09-29 00:44:27 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 0c4736f4-984d-3f77-8d1d-f996a880b1cb | -21.606701 | -47.7486 | 2024-09-29 00:44:27 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 37c7e979-e721-348b-b2bc-13058a24bb77 | -21.610201 | -47.765499 | 2024-09-29 00:44:27 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 978e1d85-f3c7-3caf-afb9-864fb5dac763 | -21.6119 | -47.773899 | 2024-09-29 00:44:27 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 0e55cf53-d1cc-3b4b-bbd3-6230cfc51677 | -21.6136 | -47.782398 | 2024-09-29 00:44:27 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 4ececd55-5dec-362b-b8f6-a08fcd766be9 | -21.595301 | -47.742401 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| e7a2bf84-36ac-3e50-98aa-85e768ace2d0 | -21.597 | -47.750801 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| c1fe2f66-e421-3fec-8c9a-220f273ed731 | -21.5987 | -47.759201 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 3ead950e-fd2c-359f-a52b-3ebacf5417e6 | -21.600401 | -47.7677 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| a7a615d5-c8d4-3c2b-beec-e9ac9b83e475 | -21.6022 | -47.7761 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| a5676e61-dd78-3f5e-9104-6035cf816c84 | -21.603901 | -47.784599 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 87f098ed-8cfd-331d-b8a8-2b89b11e3a68 | -21.5872 | -47.752998 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| ceb825f4-4108-364a-9982-d24e01763f45 | -21.5889 | -47.761398 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| b52de401-414f-37eb-8535-f42e45cf1e4b | -21.590599 | -47.769901 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 61edca6a-4b31-3819-98bb-9cc1dac0a740 | -21.5924 | -47.778301 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 2472dd6c-4441-349e-81f6-6ca83250e4dd | -21.594101 | -47.7868 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 963d9d74-b707-3b28-99a3-7d5098b3d25d | -21.5774 | -47.755199 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| d3d90eea-b365-352c-8621-8c09915bc088 | -21.579201 | -47.763599 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 5528d6ff-29d7-3a33-908a-027dd6696d7e | -21.5809 | -47.772099 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 02ae3fa0-e0ae-3b29-98ec-75ad682279a8 | -21.5826 | -47.780499 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 9b05ef71-2dc3-3b34-82cf-db2f6f16c532 | -21.584299 | -47.789001 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 9af229ba-fdb7-3e6a-9ebe-615e0b64a353 | -21.5676 | -47.757401 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 9e760a98-f76a-3f82-9437-1fc2cc1bf268 | -21.569401 | -47.7659 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 9298bac6-ba9f-3474-8442-cc0505a140f2 | -21.5711 | -47.7743 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| c527fdf2-da9f-3e8f-bfe0-07979dccb2fa | -21.5728 | -47.7827 | 2024-09-29 00:44:28 | METOP-C | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| eab9850b-dbd6-3723-beef-bb2c5c661989 | -21.130301 | -47.024101 | 2024-09-29 00:44:33 | METOP-C | ITAMOGI | MINAS GERAIS | Brasil | 3132909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 7cd2e700-14f3-3e35-8ae4-93c95850d94e | -21.131901 | -47.031898 | 2024-09-29 00:44:33 | METOP-C | ITAMOGI | MINAS GERAIS | Brasil | 3132909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f7427fe2-a0ef-3919-a297-3551dc056512 | -20.6397 | -46.256599 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 8b60081e-7665-369a-8219-22cd6471f81d | -20.6413 | -46.264099 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 25296a2b-a1bb-35a2-96b5-c2ada3b45c71 | -20.6429 | -46.271599 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 8efa621f-639b-31ec-90d0-b1917dd78f5a | -20.644501 | -46.278999 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 9c2d9113-ae3c-3ecf-8ad1-3a26cc6f812e | -20.6315 | -46.266399 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 4f331a77-9a03-3e3b-b423-1ac454e6752d | -20.633101 | -46.273899 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 61a905a6-0d16-379b-a16b-81a2b2997cef | -20.634701 | -46.2813 | 2024-09-29 00:44:38 | METOP-C | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 07abc318-4beb-3460-9d19-f5febe76e257 | -21.153999 | -48.905201 | 2024-09-29 00:44:39 | METOP-C | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 9ec23a3d-2a33-3ea8-a218-0bb4bc65f534 | -19.1984 | -41.341999 | 2024-09-29 00:44:43 | METOP-C | RESPLENDOR | MINAS GERAIS | Brasil | 3154309 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5d01a34a-fbd8-35e7-aed8-d45a7f2ea077 | -19.4266 | -42.497101 | 2024-09-29 00:44:44 | METOP-C | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ed8e7707-16fd-3d82-912e-30f51d3ea532 | -19.4286 | -42.505501 | 2024-09-29 00:44:44 | METOP-C | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 9e76d9f3-1eed-30b7-8849-03ac3bd91e46 | -19.430599 | -42.513901 | 2024-09-29 00:44:44 | METOP-C | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| fae84f50-9059-3407-9e18-c68d22587a9e | -18.944201 | -42.0844 | 2024-09-29 00:44:50 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| f20896e1-cdb7-3b55-801b-90d48f6cb52c | -18.946301 | -42.0933 | 2024-09-29 00:44:50 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ef9dc9e3-020d-341f-abe8-9ae09f3a4e81 | -18.934401 | -42.087002 | 2024-09-29 00:44:50 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2148ed60-b27e-373d-a96d-9a61fa161003 | -18.9366 | -42.095901 | 2024-09-29 00:44:50 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| a113f984-33fd-3cc3-953f-1e48845f370a | -18.9387 | -42.104698 | 2024-09-29 00:44:50 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ebe2280c-d5a2-3440-8f8a-001ed8050ce2 | -19.049 | -42.954899 | 2024-09-29 00:44:52 | METOP-C | DORES DE GUANHÃES | MINAS GERAIS | Brasil | 3123106 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| e09c87cd-6b69-364f-ad80-f5bc9ca164d1 | -18.808901 | -41.911201 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 76ffff7e-a482-3225-8972-b7a39d01957d | -18.8111 | -41.9202 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4d646d8f-432f-3d75-8611-8d3a80ca2209 | -18.797001 | -41.904701 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 1a9e70d5-24ff-31c3-9a89-a4b2afe7979c | -18.7992 | -41.913799 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 883d8160-1fc8-3ab5-9f7d-d19549a5c3b5 | -18.7873 | -41.907398 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b45ced6d-78cb-3026-b4d6-2b0e29669011 | -18.789499 | -41.916401 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d43703a8-7281-33b1-b45d-735ec6e468e3 | -18.7798 | -41.918999 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4b72c879-5dfe-3390-a6c4-c2a30aef8235 | -18.7819 | -41.928001 | 2024-09-29 00:44:52 | METOP-C | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 3bd8dcaa-5166-3a6c-a909-34ca9ce69618 | -18.5103 | -42.2178 | 2024-09-29 00:44:58 | METOP-C | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| a1c805d7-fae6-3d66-8e4f-3404689af7c9 | -18.5124 | -42.226601 | 2024-09-29 00:44:58 | METOP-C | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| c06bba33-0df7-3592-959e-d60520b18a9f | -18.500601 | -42.220402 | 2024-09-29 00:44:58 | METOP-C | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 478d3d6e-64e8-3d5d-813a-f59f745b3fee | -18.502701 | -42.229099 | 2024-09-29 00:44:58 | METOP-C | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 927a524c-c53d-39be-92fa-e4132fa8dd12 | -18.287701 | -42.154099 | 2024-09-29 00:45:01 | METOP-C | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 819d00f4-8232-3158-8114-a02debadd1f4 | -18.2899 | -42.162998 | 2024-09-29 00:45:01 | METOP-C | SÃO JOSÉ DA SAFIRA | MINAS GERAIS | Brasil | 3163003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 30d78182-4af3-3a10-97e1-a842621a327e | -18.348801 | -42.751999 | 2024-09-29 00:45:02 | METOP-C | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 06c0736d-7371-3d61-a21f-36ff0e8fa0b7 | -18.3508 | -42.7603 | 2024-09-29 00:45:02 | METOP-C | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| e721018a-1b86-3f51-9a5b-3486d9d4c4d8 | -18.3999 | -43.360001 | 2024-09-29 00:45:04 | METOP-C | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 17b7d296-a4e1-37e6-881b-6aa1ff07f6a6 | -18.1042 | -42.6814 | 2024-09-29 00:45:06 | METOP-C | SÃO JOSÉ DO JACURI | MINAS GERAIS | Brasil | 3163508 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 131322fe-9499-3f3c-ab74-10c6d3f36bcc | -17.9814 | -42.300499 | 2024-09-29 00:45:06 | METOP-C | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5e1e0d8e-c340-3a03-9154-6ed22979d9f6 | -18.0488 | -44.381401 | 2024-09-29 00:45:13 | METOP-C | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 3cee0dc0-cf1c-332d-aa93-7477b307ae5e | -18.050501 | -44.388901 | 2024-09-29 00:45:13 | METOP-C | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 34ba897c-6299-3a89-91cb-4ab8c0ef7197 | -17.7833 | -43.289001 | 2024-09-29 00:45:13 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| b342ce33-163b-35c7-aaf5-02b01247622d | -17.7871 | -43.305099 | 2024-09-29 00:45:13 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| b7c6d8db-6ffd-3f0c-86ae-d620bee7a086 | -17.7754 | -43.299599 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 85209e73-26eb-3250-9b95-30590e9ca9e6 | -17.765699 | -43.302101 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| fd8bff6e-cadb-38cf-b5c2-a6fa13d2b69e | -17.767599 | -43.310101 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| dc1e099e-6f86-3dcf-bb52-16c8c5245889 | -17.769501 | -43.3181 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| d7f58774-dc1c-3c6f-bcdf-a73c18390234 | -17.7714 | -43.326199 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| d91533af-e2d5-3294-98e3-2b093ae91966 | -17.773199 | -43.334202 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 655f76f7-6e6d-3a09-b728-059659e889fe | -17.775101 | -43.342201 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 928aa924-6549-3221-8cfc-08f011c482f5 | -17.755899 | -43.3046 | 2024-09-29 00:45:14 | METOP-C | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)

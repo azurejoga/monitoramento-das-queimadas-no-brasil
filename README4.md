@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8e077803-7562-300b-b89b-98ec1be8d58e | -12.7361 | -43.469101 | 2024-09-28 00:12:48 | METOP-B | SÍTIO DO MATO | BAHIA | Brasil | 2930758 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 7b312120-51d5-3282-84e1-0d162d7238f6 | -12.9965 | -44.7379 | 2024-09-28 00:12:48 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| c117abf3-c990-32f8-9a46-49501a7d7ab4 | -12.9983 | -44.746201 | 2024-09-28 00:12:48 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| ce253419-d49d-31a5-b0b4-793582212cf6 | -12.9867 | -44.740002 | 2024-09-28 00:12:49 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 490896cd-2077-3487-b4e2-7574cc66b7ab | -12.9885 | -44.748299 | 2024-09-28 00:12:49 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| b4c0d9f4-c084-3762-a739-49917a06d594 | -13.271 | -46.307899 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| fcfe14de-2d20-34cd-a3e4-1df2d2c0c0c7 | -13.2772 | -46.3382 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| fd39f74d-773d-3be4-89dc-5a820ecdaa86 | -13.269 | -46.297798 | 2024-09-28 00:12:49 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| f7c4843e-74a5-302f-96d8-bd316a5f04e4 | -13.2731 | -46.318001 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 272db135-aee9-3aa1-b1a0-b8e66d9f63ea | -13.2752 | -46.328098 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 5d9c5c59-4512-3411-a594-4ca83aa89cc7 | -13.2592 | -46.299801 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 025fbb50-c964-31a0-91c2-e056fba44b1a | -13.2612 | -46.309898 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| db4fa5f6-3d55-3b69-b98d-6ccbc47f1a3f | -13.2633 | -46.32 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b6d4e3c-8d99-31cb-b284-aa8beec243b7 | -13.2654 | -46.330101 | 2024-09-28 00:12:49 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 95323cc5-6b6f-30e0-a1bc-61c4f93d3589 | -13.2556 | -46.332199 | 2024-09-28 00:12:50 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| e4360add-7ed4-39fd-b0c2-7ae0b40ce351 | -13.2514 | -46.312 | 2024-09-28 00:12:50 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 5de5b2d3-6b34-3053-bca1-44bd3f36fb66 | -13.2535 | -46.322102 | 2024-09-28 00:12:50 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 30914b65-eb63-37a0-a9ce-42925c4d21d0 | -13.2494 | -46.301899 | 2024-09-28 00:12:50 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| ba37b1f0-2f34-37c2-8e0c-f23f47ae4eab | -13.2576 | -46.3423 | 2024-09-28 00:12:50 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 06791bd4-f5b5-3275-872b-b41c1374bf41 | -13.2417 | -46.313999 | 2024-09-28 00:12:50 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 8fbae895-7056-3cbe-a996-bf59fac8090f | -13.2438 | -46.3241 | 2024-09-28 00:12:50 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 2588045d-cf42-30d4-88d9-b8dd5a756730 | -13.2459 | -46.334202 | 2024-09-28 00:12:50 | METOP-B | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 11369249-26c7-3d78-a75c-592b80b5600d | -13.4585 | -48.5714 | 2024-09-28 00:12:54 | METOP-B | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| de7121b4-9f9d-3f11-8f45-8257a1cc3e63 | -12.7384 | -45.558102 | 2024-09-28 00:12:55 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 044e897c-58b9-3114-add3-c057f99e7e9f | -13.1704 | -48.498501 | 2024-09-28 00:12:58 | METOP-B | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| c05aef07-aa26-3fac-b339-070e3bd52c37 | -11.8287 | -42.796398 | 2024-09-28 00:13:01 | METOP-B | BROTAS DE MACAÚBAS | BAHIA | Brasil | 2904506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| e57af97b-e7cc-3397-bb7d-38ca3b7f5ada | -12.2275 | -45.4636 | 2024-09-28 00:13:03 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 669eec4e-a166-3b03-b18d-8dc9d3ab37b2 | -12.0151 | -44.942101 | 2024-09-28 00:13:05 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| dff2d01f-aa1b-35c1-b051-00558475aa31 | -11.9563 | -44.954899 | 2024-09-28 00:13:06 | METOP-B | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 5dbf264b-e265-3f87-8902-1fc4490ba2eb | -11.9581 | -44.9631 | 2024-09-28 00:13:06 | METOP-B | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| fa219ec9-3fcd-31c5-b7de-2298b3e680b4 | -12.5132 | -47.950699 | 2024-09-28 00:13:07 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| bab3fa9f-2842-3027-a15d-4414141c69d5 | -12.4888 | -48.592999 | 2024-09-28 00:13:10 | METOP-B | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 15962e2b-7bf3-3e0c-9d29-737a8ff357f6 | -11.2122 | -43.314301 | 2024-09-28 00:13:12 | METOP-B | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 5f40af3a-50aa-3f99-9e0d-46c037436bd9 | -11.2138 | -43.3214 | 2024-09-28 00:13:12 | METOP-B | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| d224ea88-9990-3b90-98ef-54d8fb390a5e | -12.1686 | -47.956902 | 2024-09-28 00:13:13 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 672cbed0-7cd9-3ce6-884c-5cc28e698146 | -12.1711 | -47.9692 | 2024-09-28 00:13:13 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6118891c-7ef0-31f3-b783-564fcfaaa991 | -12.5275 | -50.609501 | 2024-09-28 00:13:15 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 088d3f7c-2984-3765-80ae-aedc701ec372 | -12.3752 | -50.446899 | 2024-09-28 00:13:17 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 477c78c2-6466-39cf-9bd3-ec3ca2f14e72 | -12.3585 | -50.412399 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| eec1124f-0d19-3e4b-80b1-01b79f048b3b | -12.362 | -50.430599 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e1e394d9-2087-38db-a55c-3879b4fb54b5 | -12.3655 | -50.448799 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e4bab72f-ba85-3cab-83a8-bc5fefbbde2d | -12.369 | -50.467098 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c45ca95f-07d4-3c42-8bb0-7bd473bdaad6 | -12.3488 | -50.414299 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 171782ee-2dfc-32ec-b0f7-0a552fb0c538 | -12.3523 | -50.432499 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 5d3d826e-00b3-3c90-a500-18d44acb6847 | -12.3558 | -50.450699 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 890defcb-1efd-3c4a-8621-13a0deedd8fb | -12.3593 | -50.468899 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 24b3c30d-84d2-3232-81f7-a2a9ef55dda2 | -12.3914 | -50.635899 | 2024-09-28 00:13:18 | METOP-B | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| a592be4a-06f1-39f3-969d-e5c0ec1f6c14 | -12.395 | -50.654701 | 2024-09-28 00:13:18 | METOP-B | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 51e3f3cc-a95a-3b9d-a860-89d2a5cf2517 | -11.7814 | -47.6036 | 2024-09-28 00:13:18 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e9645e0d-33c4-37c4-81c8-c7559477ec65 | -11.7838 | -47.615101 | 2024-09-28 00:13:18 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| cd752c2d-9b54-3e8c-a3ba-f7aca36be975 | -12.339 | -50.416199 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c039b99a-2721-3ff3-8a6f-f350b84e869d | -12.3425 | -50.434399 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a6876567-1f6d-3c68-83fc-84b7d4e1d65b | -12.3816 | -50.637798 | 2024-09-28 00:13:18 | METOP-B | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 901e27a6-736a-3802-8e83-946c9acfc9db | -12.3852 | -50.656601 | 2024-09-28 00:13:18 | METOP-B | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 894b7f4e-bdfe-3cff-a249-b1936c1d905b | -11.7716 | -47.605598 | 2024-09-28 00:13:18 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ebd759ef-aca5-3a77-833c-9df7564fe1f6 | -11.774 | -47.6171 | 2024-09-28 00:13:18 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6d526293-81cf-3fa4-9daf-2d4271b1abca | -12.3258 | -50.400002 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 524b907d-2f09-3481-8ebb-4eb74d441413 | -12.3293 | -50.418098 | 2024-09-28 00:13:18 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 01f60c03-8068-3d37-b442-b789dde66149 | -10.9889 | -44.412601 | 2024-09-28 00:13:20 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| dfb07c1b-2b1e-32a5-b3bf-2b778b346921 | -10.9905 | -44.4202 | 2024-09-28 00:13:20 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 7d5f71cc-c1c5-3c46-af26-7c04fe83c7b6 | -10.9922 | -44.427799 | 2024-09-28 00:13:20 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d6a3ba65-01ca-3a2f-825f-ee9e7d0a5d1b | -11.2083 | -45.5825 | 2024-09-28 00:13:20 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 291a3d31-c154-3210-a492-e89dafc477c9 | -11.3483 | -46.247601 | 2024-09-28 00:13:20 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 0bfac096-8b13-325a-9678-e24017dda124 | -11.3502 | -46.256901 | 2024-09-28 00:13:20 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 930cf2a3-72ed-3b56-8dd6-7233ab5fc8d1 | -11.2837 | -46.1348 | 2024-09-28 00:13:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d1e69131-b2a1-3b2b-a39f-8f55d3b89785 | -11.2818 | -46.125599 | 2024-09-28 00:13:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 98a80fe2-498c-31c4-92f2-bee06e0f5774 | -11.3208 | -46.214298 | 2024-09-28 00:13:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| b888c808-f89b-35c2-99ec-2d9a3043f176 | -11.3228 | -46.223598 | 2024-09-28 00:13:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 6c84352c-cebb-3d2c-8417-33417dc3d12c | -11.3306 | -46.261101 | 2024-09-28 00:13:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 7e08104e-1688-3924-af83-7da8db1514af | -11.1128 | -45.567101 | 2024-09-28 00:13:22 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 9d03ed9f-d7e2-3566-824d-d08539884559 | -11.1146 | -45.575699 | 2024-09-28 00:13:22 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| e0379da6-a07b-33f2-a70f-73efca71b11c | -11.7097 | -48.405102 | 2024-09-28 00:13:22 | METOP-B | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d5c8b043-0ae3-31c5-a008-fd9a0cf1471e | -10.8646 | -44.788502 | 2024-09-28 00:13:23 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| a53b4a84-5445-3610-a7c6-041520ee42f0 | -10.8531 | -44.782799 | 2024-09-28 00:13:23 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| a2ae97a6-e263-3c6f-9285-5059c3a9c4bc | -10.8548 | -44.7906 | 2024-09-28 00:13:23 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 37942197-fc32-311c-97b6-80070b3c6161 | -11.0466 | -45.689602 | 2024-09-28 00:13:23 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d1dd5271-3f4f-3889-9ae8-0dd96b2c948f | -11.0485 | -45.698299 | 2024-09-28 00:13:23 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 30b187b4-b353-3cb1-845a-8932c0e477f5 | -11.0271 | -45.693802 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 287a507e-3761-3fd4-a04b-83fdd6447a7e | -11.0289 | -45.702499 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| a5a0d6f7-28de-3daf-a21b-827437c0eede | -11.0387 | -45.700401 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 69a234e8-49f1-3ca0-976d-11ff8f8f357a | -11.0405 | -45.709099 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| fbb5fe48-dce2-329d-ada5-fec2a45139c3 | -11.0173 | -45.695999 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 1ad9dbd2-339b-3c7f-a066-e36013ec47ec | -11.0191 | -45.7047 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| db8a6ea2-27f2-3d3b-a6f0-cbfc0fae9199 | -11.0725 | -46.1031 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| bc8a967b-8e75-32a5-9cf6-8f3e02428c7a | -11.1056 | -46.163101 | 2024-09-28 00:13:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 2d0f6c8c-7927-38a0-82e0-f8a6a2ef0a8b | -11.2729 | -47.113201 | 2024-09-28 00:13:25 | METOP-B | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9d5036d8-6b69-3026-8ccb-55cfd9ffe0fa | -10.864 | -45.504799 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| ab8ee634-ea78-3ae2-a342-ae8357102a13 | -10.8596 | -45.532299 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 405674e7-cb99-3ff4-b52b-6c5b95ad6ba8 | -10.8614 | -45.540798 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 51823f73-80de-37a2-982a-d55436632660 | -10.8498 | -45.5345 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 5f73745a-3e89-3f31-8ea6-f20967317cc4 | -10.8534 | -45.551399 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 514b13af-c81f-3c23-98ff-32b1cfb44b30 | -10.8756 | -45.5112 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 659a0015-cb76-35dc-8872-1cf71d1d0152 | -10.8658 | -45.513302 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 6733a2b6-d810-3bd6-a596-f55627469875 | -10.8676 | -45.521702 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 13a5cf9d-6a86-3520-86f5-8df526956bae | -10.8516 | -45.5429 | 2024-09-28 00:13:26 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 017f717e-897b-3bef-9ce2-098a697719d9 | -11.696 | -50.02 | 2024-09-28 00:13:27 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c625503a-623c-3f4c-b0a6-8472b1010a8c | -10.2774 | -43.552502 | 2024-09-28 00:13:28 | METOP-B | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d8471d3d-845f-35b8-b2b5-52b591808350 | -10.279 | -43.559601 | 2024-09-28 00:13:28 | METOP-B | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 0b39b420-85bb-3501-a424-4640eca59481 | -10.2805 | -43.566799 | 2024-09-28 00:13:28 | METOP-B | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| deff36d0-698b-3d34-a88a-ebf55b37623e | -10.8382 | -46.0112 | 2024-09-28 00:13:28 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 293ca50f-7761-3586-9f94-171a5b56eacb | -12.2817 | -50.635399 | 2024-09-29 00:47:09 | METOP-C | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 6715f63c-7053-3376-ae8a-7729366dba5a | -11.5609 | -47.453201 | 2024-09-29 00:47:09 | METOP-C | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fef4c2c8-7387-30ec-b87b-89b22e704b65 | -10.8605 | -44.608501 | 2024-09-29 00:47:10 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 9dfb0fbb-bc33-3de6-962b-6eb83d93bba9 | -11.1021 | -45.5471 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e635a4ef-6342-3f0e-be9e-7d646cd9c44c | -11.1038 | -45.554501 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 4da1fef1-e1d5-3718-bfd2-b4c6de831882 | -11.1056 | -45.562 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8763a6ca-0467-322a-a165-48e63609e66a | -11.0818 | -45.5047 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 0d407cde-7d90-3f62-9951-734f3ada04ac | -11.0836 | -45.512199 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 58c1fc47-4c80-3ecf-8391-66ae8a30d9bb | -11.0853 | -45.5196 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 623766bd-a36d-3ad5-aec4-aeab42f5c031 | -11.0871 | -45.5271 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d83a9b9d-a2f9-3f85-9f9c-76164507d6c4 | -11.0958 | -45.564301 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| ce969bf8-2bf4-37f8-9ac5-f99fae57d5ce | -11.0975 | -45.571701 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 72a666c2-bcec-3321-abff-dbbf75622db7 | -11.0738 | -45.514599 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2986b36a-8322-3343-9188-a78acfc5ed0f | -11.0755 | -45.521999 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| b1c6321e-ec8a-3b4d-afe0-626ef3b5db06 | -11.0981 | -45.6185 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| fec8597f-8642-38a2-9780-9bcd7f69a85e | -11.0998 | -45.6259 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 5ce04efe-b4a9-32c5-bbe2-04995b975e70 | -11.1015 | -45.633301 | 2024-09-29 00:47:10 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 1a6da971-7c58-3603-8326-764472ca1013 | -12.2327 | -50.646 | 2024-09-29 00:47:10 | METOP-C | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 94945cbb-6abd-3c5e-be40-839af30fc5b9 | -12.2345 | -50.654701 | 2024-09-29 00:47:10 | METOP-C | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| c487617f-57eb-3dd2-8f49-85e0e6cb7dc9 | -11.445 | -47.260101 | 2024-09-29 00:47:11 | METOP-C | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2efb2503-2920-3bdb-ac8e-aaf3c4d4d477 | -13.4904 | -57.231998 | 2024-09-29 00:47:11 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e553ab91-1c02-312d-9570-9968fe1b4eb3 | -12.8021 | -53.986698 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f01a72ab-0af5-3ae3-9d6b-5ceef0f34a10 | -12.7895 | -53.974499 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 81841cb5-90fc-3666-b902-5006bdad5fbc | -12.7924 | -53.988701 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 281c94bf-ae36-3270-b85e-832527315ab1 | -12.7952 | -54.002899 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3c3da875-5cf9-3236-937d-d0f7c2b6cb70 | -12.7798 | -53.976501 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2df694e5-0710-3842-974b-7b5807c65470 | -12.7826 | -53.9907 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 40651f22-94cf-3798-93bc-e6840e8eee8b | -12.7855 | -54.004902 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fa6a413a-092c-3520-9438-977460953c7d | -12.77 | -53.9785 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0087fb0a-973a-3b3a-a590-bec3280f1e31 | -12.7729 | -53.992599 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fa3a1737-868a-3173-9d43-9b8447c0fdca | -12.7757 | -54.006802 | 2024-09-29 00:47:12 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c8eff5d0-fc72-3b15-85e5-182a128ee23e | -10.6557 | -44.485298 | 2024-09-29 00:47:13 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d043b04b-82d4-34e0-b7d9-05463952c1f3 | -10.6576 | -44.4935 | 2024-09-29 00:47:13 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e12fbde1-4615-332f-9f60-61414a57463d | -10.6596 | -44.501701 | 2024-09-29 00:47:13 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 84a5e7c4-2a56-3fa1-8df9-313c7d1bae51 | -10.8935 | -45.494099 | 2024-09-29 00:47:13 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| dcd23e7d-55b0-3b60-959e-77d1f8ef7c8b | -11.5832 | -48.423302 | 2024-09-29 00:47:13 | METOP-C | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 85304c45-56bf-392e-89b2-9ce70e7184bb | -11.5848 | -48.4305 | 2024-09-29 00:47:13 | METOP-C | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| da22bb24-759e-3e0b-aa71-31e5432916c1 | -12.7631 | -53.994598 | 2024-09-29 00:47:13 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| be94c80a-77fc-394f-8dde-fe60f4f3887d | -12.766 | -54.008801 | 2024-09-29 00:47:13 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0e7cf242-2407-32b6-8456-3a1a086190b5 | -12.5588 | -53.485401 | 2024-09-29 00:47:14 | METOP-C | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3c83713f-60ee-341c-a6cc-608b35f7bfbd | -12.5615 | -53.498402 | 2024-09-29 00:47:14 | METOP-C | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 15a27649-d584-34eb-be16-e6e375e6d84a | -12.5641 | -53.511398 | 2024-09-29 00:47:14 | METOP-C | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 309976d0-3926-31cd-b0a5-ad7e8582f869 | -12.5491 | -53.4874 | 2024-09-29 00:47:14 | METOP-C | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c3e474fb-64a4-3e7d-a8cd-3affc8a4831d | -12.5517 | -53.500401 | 2024-09-29 00:47:14 | METOP-C | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 399f85cf-ce18-3fe1-86ea-88579f2a311e | -10.8565 | -45.999599 | 2024-09-29 00:47:15 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 4c879df5-e2b0-3950-a158-2852b0ef6096 | -10.8582 | -46.006802 | 2024-09-29 00:47:15 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d0782640-9eb6-39f6-b8b8-d51c14424ae5 | -10.8467 | -46.0019 | 2024-09-29 00:47:16 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 861a1b52-0fb2-39b4-b1a9-c680376d5be6 | -10.8484 | -46.009102 | 2024-09-29 00:47:16 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 5556376f-f67b-35b4-9c9e-9cd14107bd15 | -10.2565 | -43.5508 | 2024-09-29 00:47:16 | METOP-C | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 4f50e950-4590-38bc-a86e-8147ef22791d | -10.2587 | -43.560001 | 2024-09-29 00:47:16 | METOP-C | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 3010893d-d7d6-3beb-816d-b62d46f8e415 | -10.2489 | -43.562401 | 2024-09-29 00:47:16 | METOP-C | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 10149b3a-79c5-3fe2-9727-29d5e348bf94 | -10.2512 | -43.571602 | 2024-09-29 00:47:16 | METOP-C | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 088e6e62-821e-31a8-9215-deb4a2f66d08 | -10.2534 | -43.580799 | 2024-09-29 00:47:16 | METOP-C | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e12bbf1a-c4cb-35b5-9c84-91683d8babec | -10.2414 | -43.574001 | 2024-09-29 00:47:16 | METOP-C | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 43119aaf-2232-38fb-91d0-ec600d508144 | -10.9134 | -46.379398 | 2024-09-29 00:47:16 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 81a08863-f0f4-387f-80ce-0f8415a5f7e5 | -10.9151 | -46.386501 | 2024-09-29 00:47:16 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 07505edd-8a30-30ef-80c6-ef4200640868 | -10.8971 | -46.353199 | 2024-09-29 00:47:16 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 587d8b03-dbce-3696-a524-effc28a2dccb | -11.6858 | -49.964001 | 2024-09-29 00:47:16 | METOP-C | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 69f05279-f234-3da5-8e75-e29d070b3588 | -10.6852 | -45.840099 | 2024-09-29 00:47:18 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 858a2f91-b249-3ea2-9ecc-7604f8be9e84 | -10.6869 | -45.847401 | 2024-09-29 00:47:18 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| ee6f14a7-a59d-39dd-8b12-ea497754b0aa | -10.7862 | -46.5434 | 2024-09-29 00:47:19 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ad69d7b5-1ae3-326c-8cd3-90e9ba82f495 | -10.7878 | -46.550499 | 2024-09-29 00:47:19 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0b7bbaad-b4d6-3e94-ae7b-0c5151e9a0f4 | -10.7829 | -46.574001 | 2024-09-29 00:47:19 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 80864f1d-ec8b-34aa-8b0a-b5976d0b76e9 | -10.551 | -46.017601 | 2024-09-29 00:47:20 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 6552ef84-2712-346e-a83a-fe8313630843 | -10.5527 | -46.024899 | 2024-09-29 00:47:20 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2a49cd09-8cab-3b3b-bd5e-26de66f5d470 | -10.5544 | -46.0322 | 2024-09-29 00:47:20 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fc90f5cd-7650-3c32-932a-faf385790da0 | -10.543 | -46.027199 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4074e4a3-76f5-3266-a4df-7fc328fa8421 | -10.5301 | -46.060799 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c12e964f-ac0e-3110-864b-229ac5c9b105 | -10.5318 | -46.068001 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 619791ef-7519-3400-b181-1815610bd91b | -10.5335 | -46.075298 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0e02e10f-79c3-3588-b4d7-bf951555c2f0 | -10.517 | -46.048599 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e8ab2bd6-d2a0-399e-a14f-7a5cc9450624 | -10.5187 | -46.055901 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 74b8430e-7366-3876-99e1-eacc7e84a597 | -10.5203 | -46.063099 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 87b679ed-532c-3239-9b56-d955193b0650 | -10.522 | -46.070301 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 21768054-6c8b-3af4-88f5-980660b38b99 | -10.5105 | -46.065399 | 2024-09-29 00:47:21 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 015dfbc6-2356-3a70-8692-4327506229f5 | -9.9548 | -44.015499 | 2024-09-29 00:47:22 | METOP-C | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 685c12eb-56b1-3247-b205-b66fe5f4fce3 | -9.9569 | -44.0243 | 2024-09-29 00:47:22 | METOP-C | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 2163e133-5b19-376a-94af-5aed6a013856 | -9.9451 | -44.017799 | 2024-09-29 00:47:23 | METOP-C | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| e39ce1f5-9c2e-336b-98f9-c9c4fbe06d65 | -9.9472 | -44.0266 | 2024-09-29 00:47:23 | METOP-C | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| f1294260-4ce9-3d1f-825a-bc2c52327a4e | -9.9493 | -44.0354 | 2024-09-29 00:47:23 | METOP-C | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 1ccb33a1-a3e7-394b-a6cd-523595a524a6 | -10.154 | -44.896198 | 2024-09-29 00:47:23 | METOP-C | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| aa2c8ac2-19bf-3546-b1fa-e0a9731a41a5 | -10.1559 | -44.904202 | 2024-09-29 00:47:23 | METOP-C | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| affdd639-f991-38fd-b46a-413d2559bfe6 | -10.1578 | -44.912102 | 2024-09-29 00:47:23 | METOP-C | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 2feb9ea8-5861-357d-bf4a-f4a2383bd774 | -9.9374 | -44.028999 | 2024-09-29 00:47:23 | METOP-C | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| f516f14d-9822-34ba-98ab-3796567846c4 | -9.9395 | -44.0378 | 2024-09-29 00:47:23 | METOP-C | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 03b27b95-2b72-33f6-a3be-48d5f3d37cc0 | -10.1461 | -44.906502 | 2024-09-29 00:47:23 | METOP-C | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| d3e33693-0033-3ac3-900e-5386a8e391a8 | -10.148 | -44.914398 | 2024-09-29 00:47:23 | METOP-C | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| ec2ae275-f359-3c87-bfa8-d1f3eb8ce5e2 | -9.9123 | -44.0536 | 2024-09-29 00:47:23 | METOP-C | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 95532ae5-f6dd-34cd-9135-57d9fa6af70c | -9.9144 | -44.062401 | 2024-09-29 00:47:23 | METOP-C | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 5ab45c1b-1ca9-30d2-be76-a1f7844a1340 | -10.4856 | -46.3139 | 2024-09-29 00:47:23 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 73176977-46ca-3ab8-a0e4-64d4ccb219d1 | -9.0337 | -40.5522 | 2024-09-29 00:47:24 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| f4a09f8c-35bb-32ad-bc36-b85455e49f5a | -9.0374 | -40.567001 | 2024-09-29 00:47:24 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| d0c6a423-5f45-3591-b357-8d31450bd39e | -10.3576 | -46.162102 | 2024-09-29 00:47:24 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 31b21fe1-64c7-3e64-8862-3c2eb69ce66c | -10.3592 | -46.1693 | 2024-09-29 00:47:24 | METOP-C | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a991c517-bbc3-306c-8fdf-2878ed565278 | -10.6591 | -47.929901 | 2024-09-29 00:47:26 | METOP-C | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 56150c2e-a8fe-3a2c-8eb7-638f1ef93427 | -10.7481 | -48.738701 | 2024-09-29 00:47:27 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 37f35a64-c1ed-3058-8d83-f6339b45250d | -10.7383 | -48.740898 | 2024-09-29 00:47:27 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e634998d-9294-3610-b63b-68f68e5e5867 | -10.7399 | -48.748001 | 2024-09-29 00:47:27 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ce2ff801-bb1e-3029-a8f0-91f5d4c54f45 | -10.7285 | -48.743099 | 2024-09-29 00:47:28 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b40a6a82-2254-35fc-8321-b665bdc932b0 | -10.7301 | -48.750198 | 2024-09-29 00:47:28 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)

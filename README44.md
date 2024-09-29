@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4c0c9147-62f6-34da-8f0c-abe7ff3691b9 | -8.34036 | -47.54658 | 2024-09-28 04:19:00 | NOAA-21 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2da9be64-aff6-38a8-909b-78ece701a480 | -8.13362 | -47.34798 | 2024-09-28 04:19:00 | NOAA-21 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| d9460ac1-d2cb-3e66-b3c9-58b381c7a19e | -8.13299 | -47.35181 | 2024-09-28 04:19:00 | NOAA-21 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ff75374a-6d3c-3a00-81d0-ae048193e00c | -1.94107 | -47.90043 | 2024-09-28 04:19:00 | NOAA-21 | CONCÓRDIA DO PARÁ | PARÁ | Brasil | 1502756 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9d3c2c15-b2f2-37ec-bf20-165d05e99837 | -1.97461 | -48.6923 | 2024-09-28 04:19:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| b24a24bb-2e0f-359a-a8e6-74a69db0df4b | -1.97405 | -48.69584 | 2024-09-28 04:19:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 625b6f8d-5a00-3d10-9c55-8a76ed3d487c | -3.22308 | -48.93018 | 2024-09-28 04:19:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d57be317-e5a1-3f28-80f1-c93d6861a3cc | -3.21907 | -48.92954 | 2024-09-28 04:19:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4810bf65-096a-312a-8cab-fe0370759282 | -2.90266 | -47.88707 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4b3f92c9-a240-3af4-bea9-6c78ea42d3ba | -2.89888 | -47.88644 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0e982304-52aa-3718-b413-a68145077b96 | -2.63534 | -48.0546 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| bd1cd073-e7f8-3e40-a02c-c3dc7a8d092b | -2.63459 | -48.05935 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| b7e2d9b5-f9ad-3e8e-bab9-9366f1c921cb | -2.63151 | -48.05401 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 5e91904a-3247-3f37-acaf-8ffa8488918c | -2.63075 | -48.05875 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4da4d9a0-7543-38f8-82e7-72f58349e569 | -2.62557 | -48.32251 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 307db742-561c-3f9a-a593-6b73ebfa1dfc | -2.62505 | -48.32019 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 905ff65e-49d2-307e-80bb-409074c6ea97 | -2.49573 | -47.56482 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 95176128-ce2a-3361-8407-199e9ba457fc | -2.47994 | -48.05201 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 02eb6088-d08d-353c-b876-b489f1d209af | -2.47917 | -48.05676 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| b06e2a09-aed8-3242-9590-c93db2490b41 | -2.42058 | -47.60357 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 0543cb88-488a-3944-88df-865b5280721c | -2.41903 | -47.60518 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 9d87fc7b-3086-30c9-b2c4-b1c79fad9c33 | -2.36591 | -47.98724 | 2024-09-28 04:19:00 | NOAA-21 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 54bcc4d4-57f5-3f0d-a4bc-4c7082146746 | -2.36147 | -47.60528 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| 513aa76b-86b8-32d9-80b2-35d9d934e103 | -2.36074 | -47.60983 | 2024-09-28 04:19:00 | NOAA-21 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| 7be62787-2945-30e9-8efe-b3582ffef187 | -2.35845 | -47.60019 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| bda54e2a-179f-37ea-a216-4e008e8a033e | -2.35773 | -47.6047 | 2024-09-28 04:19:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 52.9 |
-| 425df724-507a-3857-bfa0-ed1fedcd2645 | -2.357 | -47.60924 | 2024-09-28 04:19:00 | NOAA-21 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 52.9 |
-| 4761557e-2787-34d2-a4e8-b948bcbca378 | -2.35398 | -47.60411 | 2024-09-28 04:19:00 | NOAA-21 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 52.9 |
-| 76971a4c-c2b7-3051-ae45-22741d1ecf5b | -2.34151 | -47.976 | 2024-09-28 04:19:00 | NOAA-21 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| aea4d13d-7dd9-3c14-8a01-6a3d93049736 | -2.33768 | -47.97543 | 2024-09-28 04:19:00 | NOAA-21 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 131e1a79-28ab-3d23-bf7d-e6acb5b037f8 | -2.43614 | -48.47201 | 2024-09-28 04:19:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 68f2c395-2d3c-39ea-935c-4d24159135e4 | -3.70274 | -47.61594 | 2024-09-28 04:19:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0af68d46-dd6c-36ea-9781-8b58faae2b56 | -3.46953 | -47.66719 | 2024-09-28 04:19:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| 5f4d1ee5-cefa-3151-a616-40e6eb3d3b30 | -2.92039 | -48.88825 | 2024-09-28 04:19:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 73a58834-fd4a-32d5-b3c4-0f55064c32ed | -2.91982 | -48.89175 | 2024-09-28 04:19:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4e268715-2ece-3343-bc4c-73d2b4f9b6a4 | -2.79359 | -48.57401 | 2024-09-28 04:19:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 02026603-14e0-38d9-8ece-5079f1037aeb | -4.95448 | -49.25172 | 2024-09-28 04:19:00 | NOAA-21 | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 5213de09-31a3-3d97-8514-360a30cdc033 | -4.91756 | -48.61276 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 7272bb74-1717-3d52-8beb-95939f12f9e2 | -4.91373 | -48.6121 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 1854202f-2796-35d9-8e25-b23054531302 | -4.90989 | -48.61147 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| ac372be6-f504-3914-9c28-a7f18da373bc | -4.79602 | -49.35442 | 2024-09-28 04:19:00 | NOAA-21 | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 32a860e4-7b4d-364d-8e29-b8712daea28c | -4.79257 | -49.35029 | 2024-09-28 04:19:00 | NOAA-21 | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1435fed0-9bd4-3d57-a90d-dcdf753eac12 | -4.73112 | -48.84362 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 884142c4-af46-33a3-ade3-ef416b502cb4 | -4.63174 | -48.53411 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 37e48b74-e21b-3b3e-9ba9-e0af537c0e24 | -4.578 | -49.30833 | 2024-09-28 04:19:00 | NOAA-21 | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| e1443500-f516-3d03-a322-0c59c04dad1b | -3.2363 | -50.01593 | 2024-09-28 04:19:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 767603d2-7d3a-3b4d-a043-90003206e96a | -4.57742 | -49.31183 | 2024-09-28 04:19:00 | NOAA-21 | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 98102fc7-2648-3002-83aa-197189bde19b | -4.57338 | -49.31124 | 2024-09-28 04:19:00 | NOAA-21 | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| a7c0a1df-e4ea-38ea-8dac-ee99e60e01c2 | -4.40228 | -48.71334 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3bb7ccc4-6f7a-347b-a357-e38153f886df | -4.40179 | -48.71084 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| c22cd6c1-b26f-38ec-a39d-5c763e2cfd41 | -4.97286 | -47.93074 | 2024-09-28 04:19:00 | NOAA-21 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a47edd4a-4531-3600-92fc-c54299802c74 | -4.97221 | -47.92908 | 2024-09-28 04:19:00 | NOAA-21 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 858619fa-3aed-3f5c-8dff-a1d6f23ab8ad | -4.58454 | -48.00871 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| fe6309bd-a6b9-3e0b-8708-15ea83f54324 | -4.58382 | -48.01316 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| 3427e86b-70f3-3247-bb60-bb1cbd3a3917 | -4.5809 | -48.03113 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| c28d2f73-c124-3988-b837-df1a6bab8ac7 | -4.58081 | -48.00812 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 022fa5f5-fc6f-319f-8aec-e9e045c5b445 | -4.58009 | -48.01258 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| d1c1f63c-e9c6-32a4-bf6a-fccf54acda36 | -4.57718 | -48.03051 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 0ea83ce0-bc89-399b-b2ae-2c6a18c094ba | -4.40896 | -48.08917 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| a9b804f4-9e94-3fb5-99ac-d9a92db06b3a | -4.40756 | -48.09019 | 2024-09-28 04:19:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 3e4cf710-469e-321a-ac8b-ccc6fe006365 | -4.28037 | -48.06192 | 2024-09-28 04:19:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1d5e6c48-66fe-3f46-b044-1b513d2ecfc8 | -4.27965 | -48.06644 | 2024-09-28 04:19:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 37bfcd71-9790-3f5d-9cf3-7d08de9fbcd2 | -4.18105 | -47.88336 | 2024-09-28 04:19:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 19c7bee1-d605-3f9d-9c40-22972d1d78ba | -4.08697 | -48.27402 | 2024-09-28 04:19:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 5eb05165-01f9-3320-a5b2-67f881ac858b | -4.07631 | -48.07486 | 2024-09-28 04:19:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0738e20c-0b9d-3e8b-95a8-b4d42f87ad98 | -4.04927 | -47.93188 | 2024-09-28 04:19:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2b4db535-eedc-391c-abc4-ddc959fd4bc9 | -6.54581 | -48.70741 | 2024-09-28 04:19:00 | NOAA-21 | PIÇARRA | PARÁ | Brasil | 1505635 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 77b68c9c-3aa2-3e1c-a744-f12e26352a52 | -5.87567 | -48.09995 | 2024-09-28 04:19:00 | NOAA-21 | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ad7a0ea3-5b7f-3cc4-a02f-ee8a888e96ef | -5.4543 | -48.37456 | 2024-09-28 04:19:00 | NOAA-21 | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 43e47e37-2ef5-333c-9b75-d27e8f998ebc | -5.37183 | -48.23818 | 2024-09-28 04:19:00 | NOAA-21 | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1d24e22f-e5d4-34ea-9f2b-1e67b9caf54c | -5.21124 | -48.35965 | 2024-09-28 04:19:00 | NOAA-21 | SÃO SEBASTIÃO DO TOCANTINS | TOCANTINS | Brasil | 1720309 | 17 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c43e869f-7373-35da-9716-0e5a042e31b6 | -5.20985 | -48.17831 | 2024-09-28 04:19:00 | NOAA-21 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7e1c5db7-d996-3181-b98e-57742d632d2b | -5.20912 | -48.18279 | 2024-09-28 04:19:00 | NOAA-21 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6bd7e1c5-6b2c-3e83-b6d2-04bd0d719f59 | -5.20747 | -48.35905 | 2024-09-28 04:19:00 | NOAA-21 | SÃO SEBASTIÃO DO TOCANTINS | TOCANTINS | Brasil | 1720309 | 17 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 88cb04b6-5b25-3cce-b235-fbe26082c2af | -6.00188 | -49.34389 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| eb728d65-2216-3319-ab20-3a545724c07f | -6.00104 | -49.34898 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 6e88b7a0-b5f8-3141-9fe7-ab24b45562c8 | -5.99792 | -49.34327 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 03d4b811-8ab5-32a8-8c6b-4996113cde7e | -5.99708 | -49.34837 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 95208ced-6c2e-3fb9-956d-54232e6b04ad | -5.95006 | -49.19347 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| ca03a4e3-e33f-3c1a-af42-e9c25f3f92f9 | -5.94304 | -49.18719 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 84e8eca2-d9d8-36ae-8b2b-059ccacf26bc | -5.94222 | -49.19221 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 5d9d2cdf-5141-377a-aa68-dd959fd477c6 | -5.93829 | -49.1916 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 6711cfd0-d966-3874-9ab8-ef4a9795002f | -5.93747 | -49.19661 | 2024-09-28 04:19:00 | NOAA-21 | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 7f74f8db-8de2-3114-ad25-dcc9be9351b9 | -5.51882 | -48.97484 | 2024-09-28 04:19:00 | NOAA-21 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7528adcc-80b1-3454-ad83-7e77c6111883 | -5.26364 | -49.22949 | 2024-09-28 04:19:00 | NOAA-21 | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| baa9e8ca-a2e4-3510-85a4-446f1d5481e9 | -5.20902 | -48.9728 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| e0f690ba-3326-3d80-a1a6-417b71ee06f6 | -5.1408 | -48.90083 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 0a155b39-18c3-3069-8329-d0d4d2327459 | -5.096 | -48.87591 | 2024-09-28 04:19:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| bb26fd67-f438-35a3-8627-7c7d191aafb8 | -7.82274 | -49.16739 | 2024-09-28 04:19:00 | NOAA-21 | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| dd36f3ed-8b40-397b-be1f-e87081cc3b80 | -7.82225 | -49.16586 | 2024-09-28 04:19:00 | NOAA-21 | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| afa8104d-f6c2-3c05-91d7-5b7c8cbf8d03 | -7.82146 | -49.1705 | 2024-09-28 04:19:00 | NOAA-21 | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| d8456590-acf5-3681-b42e-06cfa504ded7 | -7.81163 | -49.15925 | 2024-09-28 04:19:00 | NOAA-21 | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 8e76f855-ee89-3b32-9854-976228bb9d0d | -7.76616 | -48.52124 | 2024-09-28 04:19:00 | NOAA-21 | BANDEIRANTES DO TOCANTINS | TOCANTINS | Brasil | 1703057 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 60353b96-1c84-35cc-979d-f9679395e353 | -7.5933 | -49.19223 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 54a78fbb-483c-363d-91b8-7771154ea2e4 | -7.59241 | -49.18977 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 5d4267f0-1a0b-3b73-9147-4a9b014bcc09 | -7.59162 | -49.1944 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 61dbf1f1-807a-35fc-9cc4-e981b41c26c9 | -7.58875 | -49.196 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 2eefa7a5-b414-3fb6-a6c2-741e69e69f4b | -7.58784 | -49.19353 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 4020a41e-643b-3a60-b5f7-484e8772330b | -7.57724 | -49.19427 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 2b52be3e-6792-3d69-a684-3892155db59c | -7.5742 | -49.18885 | 2024-09-28 04:19:00 | NOAA-21 | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 85180b27-ec5a-3f54-aec6-59e35a59bcb0 | -9.53582 | -47.78127 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 6c77c0ce-a339-3d0f-8036-8a93a766b7db | -9.53531 | -47.78497 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 242f5691-a674-3bc9-b5b8-52fe93db3f59 | -9.53335 | -47.78147 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 340a3ae0-5aa5-3aac-b77e-a28e045f4cd3 | -9.53282 | -47.78515 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| e20029e4-8171-37be-8d7a-a7fc6ea659c9 | -9.53119 | -47.78433 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 33d63334-5fb1-3da5-af63-704cb222f382 | -9.5287 | -47.78453 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| f270c015-040c-3388-a9ed-21620d079025 | -9.52816 | -47.78823 | 2024-09-29 04:49:00 | NOAA-20 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 85f019fc-dbc9-34ba-844a-99a07b732508 | -9.50309 | -48.53648 | 2024-09-29 04:49:00 | NOAA-20 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 150157e2-acf9-32eb-8777-c5f593e792f0 | -9.49916 | -48.53593 | 2024-09-29 04:49:00 | NOAA-20 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 5b604e04-4a42-35cd-8f0f-6dac769fd23a | -10.23972 | -47.76593 | 2024-09-29 04:49:00 | NOAA-20 | SANTA TEREZA DO TOCANTINS | TOCANTINS | Brasil | 1719004 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 4bf33174-e968-37ed-a967-eb7f5eb03ad9 | -10.23921 | -47.76955 | 2024-09-29 04:49:00 | NOAA-20 | SANTA TEREZA DO TOCANTINS | TOCANTINS | Brasil | 1719004 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 21a3a9fa-afc5-3a0a-8da6-14e6ce1c9bde | -10.75357 | -48.74349 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0562f962-044f-3966-bb5f-cde14739ea8a | -10.74962 | -48.74295 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 2814686b-3f97-3d16-8594-f10530ae7982 | -10.745 | -48.74719 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 8cc67a65-cc77-3a1f-8e9d-3617fcccac8b | -10.74106 | -48.74657 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 05585553-f6f0-397d-a052-19f2a29268b3 | -10.73712 | -48.74598 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 98a8f6c8-89ab-347a-b7ad-b335b70cb819 | -10.73648 | -48.75053 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 186db391-b5f6-38c7-bed0-d3b5860bf63c | -10.73252 | -48.75002 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 03401a2d-8453-3043-9b4d-5fec5555db07 | -10.72857 | -48.7495 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a3752ece-2154-3da6-b4c5-bd1b335e6a0c | -10.72792 | -48.75416 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 3a75b914-1f31-30c7-8b35-eb6a8147fbeb | -10.7221 | -48.73822 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 89d19a7d-09a8-380b-b127-f76666021217 | -10.72141 | -48.74319 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 37746b56-5daa-30d6-8354-7c0b69b78fa5 | -10.7175 | -48.74239 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| f97ad7e3-8905-3acd-ac37-52de0707ef2b | -10.55216 | -48.05552 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 07178df0-4b13-3ccf-8dac-54d2e642af91 | -10.54907 | -48.04774 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| aa76142d-bba0-3846-aeb1-f1a0630d3196 | -10.54851 | -48.05165 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 139553c2-e1e1-3435-b55e-29c875eeb172 | -10.53608 | -48.02069 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| d0497d5e-b282-3d5a-ae93-2fb07cd691fb | -10.53396 | -48.03579 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ab5cbba3-e552-3888-88ba-c2a4b7f62bf9 | -10.53343 | -48.03954 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 5116f38c-1b2d-3706-8896-2dce3b654196 | -10.53195 | -48.02017 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5c72eb2a-2c42-3933-8982-b8f1b9ff8d6d | -10.53139 | -48.02414 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f471d4d3-4f19-393c-93d1-297ad90ef63e | -10.53083 | -48.0281 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 072d9f5d-be04-3be7-b4b5-14223ed06fe7 | -10.5303 | -48.03189 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 89e1e3c8-8b3c-3f26-9516-5ed8b977a91d | -10.52978 | -48.03561 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| f2dd87e0-c2d4-3a79-bd2d-0e72d36d14a0 | -10.52565 | -48.03511 | 2024-09-29 04:49:00 | NOAA-20 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 867e9131-c768-3e4a-9a7c-736a86d21fd5 | -10.44023 | -48.19965 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 983c4186-89b0-3273-ac2e-27c9a4b1293f | -10.43573 | -48.20212 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| d57eeb02-ff65-3eb0-96db-36d577c58793 | -10.43169 | -48.20135 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| cdced3fa-02f1-34fa-a6d9-7800049f5999 | -10.42507 | -48.18959 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f65a6eec-b704-3572-8e92-fd0c45b05a78 | -10.42256 | -48.17801 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4932a398-3083-3eb2-ac67-085af305cadc | -10.42205 | -48.18161 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| ac746bd8-7115-36ac-a8d5-372319831c2f | -10.42156 | -48.18503 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 0fad4426-6447-372c-8bd0-4c20a320f7e9 | -10.42108 | -48.18844 | 2024-09-29 04:49:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 1e161193-a0d2-3baa-b78a-c98b2423513b | -11.19924 | -47.71532 | 2024-09-29 04:49:00 | NOAA-20 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f878fae3-d99e-3297-8475-7f0f3cd38597 | -4.91928 | -48.61219 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9aebf8ff-7879-38d6-88bd-f6cddf258b52 | -4.91862 | -48.61653 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 828ec31a-db8f-3b67-9c59-58221226d636 | -4.91797 | -48.62085 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| de286136-ab7d-3a70-bad3-ce3524a662e4 | -4.91559 | -48.61167 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| e8b5e7c1-a63e-3d25-b66b-d463f87526cf | -4.91493 | -48.616 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 110efb26-7ae0-3555-8eb9-394e6049310a | -4.91428 | -48.62031 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 20643b39-d885-37aa-adb1-0b53d55129d4 | -4.9119 | -48.61114 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 9608854b-cb3b-3bf2-b6f3-b0bf1ede042d | -4.91125 | -48.61547 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| c39736b9-1a4a-3cd1-8e3b-ac49a7270365 | -4.82597 | -48.53824 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 8e50cc14-bd53-35e1-bde9-dda34aac6f20 | -4.82284 | -48.09791 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 94a3216f-d31b-335d-950a-f54594e4b8f6 | -4.63249 | -48.53398 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 79cae24f-9f53-3fc9-9f48-582075d0a905 | -4.63184 | -48.53829 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 30ed02b9-c35c-30bf-b9bc-d5eace3cf9ca | -4.5776 | -48.00529 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 804522f2-afdc-33af-afea-00db3e385a9e | -4.49179 | -48.11226 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 070fdfb5-2167-31ca-b989-998d1519fb6e | -4.49039 | -48.12136 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d754a65f-640b-309e-80d1-220fa9f2f982 | -4.48663 | -48.12078 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 1caa9fc6-8c01-37de-a492-b680ecf32865 | -4.40381 | -48.63561 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| ef4fa7ab-e791-3f81-bd82-dbb5535e70ef | -4.73128 | -48.84407 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2e39e5d8-dcea-3705-8bbf-f0ff8771274a | -4.73028 | -48.84505 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| bc68c313-c1ce-30ce-a2ba-7a9baa3ec9de | -4.72766 | -48.84346 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2ddbbecf-2ac5-3def-b3aa-4e8cc6c94f76 | -4.72732 | -48.84021 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b105af9b-0236-30c9-b4a4-69ad15928593 | -4.72342 | -48.84697 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d3c65ff1-6f65-367b-a309-d51f0c986eba | -4.72241 | -48.84789 | 2024-09-29 04:49:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 119b45a4-dae5-3521-bcaf-bdc2e1f70964 | -4.35428 | -49.09952 | 2024-09-29 04:49:00 | NOAA-20 | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 87d8065c-0e5e-3e82-8d08-71b53344dcd5 | -5.57803 | -49.02791 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 12039131-a07c-3844-94ac-c50584320667 | -5.57629 | -49.01464 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| d9dd996c-0666-33f2-a21f-54aaedf721c5 | -5.57265 | -49.01409 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 5ab85b18-18b6-338a-a577-6468f3ef8da6 | -5.57203 | -49.01832 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| ff0e4fc1-9120-3f4d-b146-5e42324320e6 | -5.57179 | -49.01511 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 41a46105-7f71-3345-a7f8-876c34c2fe20 | -5.57114 | -49.01933 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c296b73d-87c5-3445-9276-ed1d63bf793e | -5.56902 | -49.01354 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f44e7b22-3aa1-3ce7-959c-d0b76e18b669 | -5.56881 | -49.01034 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 732319e3-f9a8-372c-a287-d86b7c180bdc | -5.56816 | -49.01456 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 617ccd15-c13f-3439-90ba-f934c0f3b513 | -5.56601 | -49.00875 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 79f65c92-3905-3b61-9cf1-276f1c9dd1e9 | -5.56538 | -49.01299 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 5f33b2bd-0c36-38ee-b412-12c8e2d8cd8d | -5.56517 | -49.00979 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 54e09a61-c1f6-30ec-9e1d-147c2b2098da | -5.55596 | -49.02134 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| b17ae1b0-c93c-390c-8841-212ab0276a9c | -5.55532 | -49.02555 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2318291c-3c16-3952-820c-5242b944d757 | -5.52177 | -48.97732 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| edb21b36-2208-3447-8cba-f69c0f309754 | -5.41283 | -49.07913 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f523fb39-10c7-3d4f-8511-53d8962049ea | -5.40922 | -49.07859 | 2024-09-29 04:49:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| bfd2a390-82a2-3303-848e-c30038e14908 | -5.27027 | -48.88641 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 73496a81-f324-3eb3-a034-a8a3a1ce2ef1 | -5.26726 | -48.8816 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 045faba8-0576-32a9-8550-f46b508550b8 | -5.26689 | -48.88313 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e9f83f14-f7ee-33fe-b482-5a8147d3387b | -5.26663 | -48.88586 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b0ae48f2-9b0d-3154-abdc-ec8e4d383efe | -5.26623 | -48.88738 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d1820f76-7e98-3e77-be18-9c1e381a83af | -5.266 | -48.89011 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f2c446a3-876c-3b9e-b244-dcf2d36be799 | -5.26298 | -48.88531 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 367a114a-0698-3699-911e-8caa73a7a5b6 | -5.26259 | -48.88684 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0d8af838-f699-38ec-8827-d508a128512f | -5.25807 | -48.89326 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9147b2f4-73a8-37fc-bb78-ea62b97b0c0f | -5.25763 | -48.89477 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6960fb1e-f420-377b-b0cc-5df16fbbc640 | -5.25034 | -48.8937 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| a54454f9-faf4-3ec5-b63e-c56e6b9776e9 | -5.24605 | -48.8974 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 75cca187-7644-32ff-8805-b6ea75f8bf71 | -5.21196 | -48.97426 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 716824cf-dea2-3d4a-98fa-8149d62a1b9c | -5.21132 | -48.97847 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| d73051b6-1cba-3b9f-b86d-50174379a037 | -5.20769 | -48.97793 | 2024-09-29 04:49:00 | NOAA-20 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README45.md)

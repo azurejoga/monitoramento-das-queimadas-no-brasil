@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 32d1a89e-6941-341c-9ad0-3fde96523a1c | -9.5631 | -50.195301 | 2024-09-28 01:08:31 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e3d820a5-5ebf-3ba7-9e37-8e56cb280e52 | -9.5436 | -50.199902 | 2024-09-28 01:08:31 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4199cc68-4dde-351f-ad43-f7105defcac1 | -9.5455 | -50.207901 | 2024-09-28 01:08:31 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 34c3faf7-1647-3581-adaa-c3ab1880d855 | -10.3594 | -53.785702 | 2024-09-28 01:08:31 | METOP-C | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e45701b1-c17c-3cf4-91ea-686e7c9ea7e2 | -10.361 | -53.792801 | 2024-09-28 01:08:31 | METOP-C | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 453d9468-9f3a-3464-9612-72e317dec331 | -9.3841 | -50.006199 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2d9fbb2a-266d-31d6-8720-73fdedacd035 | -9.3861 | -50.0145 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3517ea50-b655-3508-abc7-d6243a667b4b | -9.388 | -50.022701 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f21e8741-2edc-3a6f-85a2-3c4ef8637af2 | -9.3743 | -50.008598 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a4d82dd6-8c42-3be3-9e00-19da3d8cf74d | -9.3763 | -50.0168 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| da4f1ce4-85ef-3555-a99c-4573a356cb5d | -9.3782 | -50.025002 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7e74af73-6612-3af7-aa5b-690334bd641f | -9.3645 | -50.010899 | 2024-09-28 01:08:33 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9f09b2a9-bad0-3060-8bc4-9543408d9f8e | -7.902 | -44.594501 | 2024-09-28 01:08:35 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 04676a49-533b-30a7-82b7-d0952070e855 | -7.8971 | -44.6157 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 06bb64d4-b522-3ebb-a89c-0fae717410d2 | -7.8779 | -44.5807 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| b97025a6-c3ff-328b-b114-35059f422ad5 | -7.8827 | -44.5994 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 6b645b45-573d-3274-8ca9-735183a06d95 | -7.8876 | -44.5783 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 2d9091d8-d5e3-3be3-ba27-5f59f7029dea | -7.8924 | -44.597 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| ac3e94fd-0a64-36bd-83fd-77accda568a2 | -7.8829 | -44.559502 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 74bcb484-1efc-328d-8e4c-f3312a16e504 | -7.8874 | -44.618099 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 9662d156-a31a-3a05-93d9-3f6d944e4948 | -7.8635 | -44.5644 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 155fe08e-e6e1-3c88-b1a8-f35c3a32346b | -7.8683 | -44.583199 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 4ecc29c5-52c4-3d49-b4e9-06d2c4ba6865 | -7.873 | -44.601898 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 9732a71c-c760-385e-a481-6e7c08ea9bfc | -7.8778 | -44.620602 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 9ee335ba-4c52-3cd5-a02e-d2abc932cd1e | -7.8538 | -44.566799 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 8c4240fd-baaf-32d7-9e13-d6b61bc2d226 | -7.8586 | -44.585602 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 2bf32caa-139a-3197-90be-499d03f8ebd7 | -7.8633 | -44.604301 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| ea10e112-e444-3e23-b9f6-db16bc9dadb4 | -7.8681 | -44.623001 | 2024-09-28 01:08:36 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| e5e44737-43b4-3852-b700-cac0e4170a94 | -9.3378 | -50.728699 | 2024-09-28 01:08:36 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9b274002-3817-36f6-aa3a-9694280bb686 | -9.3511 | -50.741699 | 2024-09-28 01:08:36 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| abd61234-7745-3e3d-b040-f3b2a94ba869 | -9.3529 | -50.749401 | 2024-09-28 01:08:36 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d3c94c93-703a-3938-a74c-53aca0522b51 | -9.3396 | -50.736401 | 2024-09-28 01:08:36 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8d3fcfa9-4eeb-3b09-a44e-ba7894d8c3a1 | -9.3414 | -50.743999 | 2024-09-28 01:08:36 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| caa77104-fc3b-328b-a7b6-44cecf868489 | -9.3432 | -50.751701 | 2024-09-28 01:08:36 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 61e24c57-4a43-343b-9586-dd7998a25e6f | -9.3334 | -50.754002 | 2024-09-28 01:08:37 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 40dcc8b4-ec88-3933-9e7f-c8cd85422ec3 | -9.3156 | -50.7663 | 2024-09-28 01:08:37 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8c3931fd-97e5-3310-afbc-219d0e123647 | -9.3058 | -50.7686 | 2024-09-28 01:08:37 | METOP-C | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f0901bb7-8e89-3b26-b1a9-86a7a1e86f2a | -9.4445 | -51.4505 | 2024-09-28 01:08:37 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f8deca75-b604-3e52-86bc-2d697c44ed0b | -9.4461 | -51.457802 | 2024-09-28 01:08:37 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 30b6bf42-39a2-3d5a-9d38-8b15dc28c067 | -9.433 | -51.445499 | 2024-09-28 01:08:38 | METOP-C | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2ce4c60b-7165-37f3-befd-bdbc9851ea8d | -9.4347 | -51.452801 | 2024-09-28 01:08:38 | METOP-C | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d2ee8e57-87ba-32cb-a45c-d2b60856eda2 | -8.9788 | -49.8209 | 2024-09-28 01:08:39 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ca78f13-f9e3-37e9-8e54-33336b1c321f | -7.8207 | -45.5397 | 2024-09-28 01:08:41 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7be86da6-b6e2-302b-8008-3fbaeb64d86e | -8.7513 | -49.776199 | 2024-09-28 01:08:42 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 218e7caa-23d0-3df2-8565-edee70afa4a4 | -8.7533 | -49.784801 | 2024-09-28 01:08:42 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 88ec689a-dc48-364f-b5eb-d45691b253ce | -9.038 | -51.521999 | 2024-09-28 01:08:44 | METOP-C | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| cb788fc0-034d-3997-81c0-dd97420329a8 | -8.5532 | -49.594501 | 2024-09-28 01:08:45 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d8700103-9a36-3918-ae3b-79bf44b2ad37 | -8.5553 | -49.603298 | 2024-09-28 01:08:45 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2d549db8-8a5c-359f-8eaf-980fc251024b | -8.5573 | -49.612 | 2024-09-28 01:08:45 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c4a41948-6b92-33be-9ca4-c7936cde63ec | -9.5901 | -54.2565 | 2024-09-28 01:08:45 | METOP-C | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ddc7e989-4b9a-3b24-b63b-5bd1c7b1397c | -8.7547 | -50.7519 | 2024-09-28 01:08:46 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fa6e5dac-777b-3407-9a97-11ef752890f7 | -8.2331 | -49.378201 | 2024-09-28 01:08:49 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1964f092-cd52-3a8f-9c6b-46fb8978d953 | -8.2353 | -49.387199 | 2024-09-28 01:08:49 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fda2e878-d030-36b5-a5ba-a3fdf0867ef8 | -7.1443 | -45.427502 | 2024-09-28 01:08:51 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 5a2d8770-5627-386f-b117-6f61575cc77e | -7.1485 | -45.444401 | 2024-09-28 01:08:51 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2349f6a0-0fdc-3052-84b6-d26259be8438 | -8.1146 | -49.5303 | 2024-09-28 01:08:52 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 71b63934-2856-3ae3-a1dd-a3dfde630a4e | -8.1005 | -49.514702 | 2024-09-28 01:08:52 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 489f4e96-fdde-337b-b36f-7cf2e21062b5 | -8.1027 | -49.523701 | 2024-09-28 01:08:52 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1fad9205-872c-3d12-89c2-168a21326982 | -8.1048 | -49.5326 | 2024-09-28 01:08:52 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c4d97983-0d61-30fc-b75a-97beb61e2ec5 | -8.8953 | -53.006401 | 2024-09-28 01:08:52 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c0ea1f87-d31b-3b36-bc7c-b02454b853bf | -8.8969 | -53.013302 | 2024-09-28 01:08:52 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c2e00337-e822-3ed7-a264-c63784089228 | -9.2365 | -54.561298 | 2024-09-28 01:08:52 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c6a16c39-fb0b-3b0a-a599-609361bbfde2 | -9.2381 | -54.568501 | 2024-09-28 01:08:52 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e294bec5-666a-38d1-9397-58a9d534c50c | -7.0176 | -45.332199 | 2024-09-28 01:08:53 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7d2ead28-d389-37b4-9603-8199ecae3eaa | -7.0219 | -45.3494 | 2024-09-28 01:08:53 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 86415145-7fb9-30ed-a02a-e4cec6c8fac9 | -7.3298 | -46.675201 | 2024-09-28 01:08:53 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8d8ba05b-f217-35eb-bb63-a50f69ed26a5 | -7.3167 | -46.6637 | 2024-09-28 01:08:53 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9a9bdc36-800b-3b25-a648-c3114d73cedd | -7.3201 | -46.677502 | 2024-09-28 01:08:53 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d747c47c-c21e-3dc0-9275-4e09347a0e75 | -7.2607 | -46.603699 | 2024-09-28 01:08:54 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1b2f3750-8117-3c2a-8295-0ef6a730c40e | -7.8301 | -49.160702 | 2024-09-28 01:08:55 | METOP-C | ARAPOEMA | TOCANTINS | Brasil | 1702307 | 17 | 33 | nan | nan | nan | Amazônia | nan |
-| 58819f17-5f9e-3922-8f48-87f8f9dc5129 | -7.8203 | -49.162998 | 2024-09-28 01:08:55 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1beb34f2-e48a-3a1a-84ac-affce43b831d | -7.8226 | -49.172501 | 2024-09-28 01:08:55 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 385115a8-1a1e-39fa-951b-f0de56a019b3 | -6.5819 | -44.167801 | 2024-09-28 01:08:55 | METOP-C | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| a6f51366-f5a9-3860-a96e-6835c265afd3 | -6.5723 | -44.1703 | 2024-09-28 01:08:55 | METOP-C | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 562786c6-f6a4-3190-beb8-a701f073f3f6 | -6.3216 | -43.421799 | 2024-09-28 01:08:56 | METOP-C | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f011d7e7-8659-3688-b110-7814af24e161 | -8.6689 | -53.188599 | 2024-09-28 01:08:56 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c04c55cd-9f50-3e8b-9373-29fb90e29fc1 | -9.3789 | -56.838402 | 2024-09-28 01:08:58 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 11a7dc8a-aa2f-36a5-97d6-2a0274202587 | -9.3691 | -56.8405 | 2024-09-28 01:08:58 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3ea1fb60-a6aa-3420-8432-ef5e272bf02a | -6.1711 | -43.434399 | 2024-09-28 01:08:59 | METOP-C | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 87712dc7-63aa-3e2a-bb0d-76c5d93728b0 | -8.5682 | -53.334599 | 2024-09-28 01:08:59 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| adf9ee2d-db38-3291-94a0-4f5134a1586a | -8.5698 | -53.341499 | 2024-09-28 01:08:59 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3282517d-458c-33d7-850d-6116ba28ffa5 | -8.5714 | -53.3484 | 2024-09-28 01:08:59 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 68f52d95-07cc-38c9-a38e-d315f2bfcbce | -9.2417 | -56.914902 | 2024-09-28 01:09:01 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 96202fd8-6468-35b9-8309-2958dbe9e3f9 | -9.2912 | -57.143398 | 2024-09-28 01:09:01 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 48fd32d2-a056-3be0-83cf-60af1f86e25b | -9.2933 | -57.152699 | 2024-09-28 01:09:01 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 135aaa3a-2eee-3ebe-99c4-0945e210bf64 | -9.2835 | -57.1548 | 2024-09-28 01:09:01 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 192b9ad5-ae4d-38c6-9dde-ddf5bcbe13e0 | -8.5574 | -54.562 | 2024-09-28 01:09:03 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| acdcef61-c6d3-3544-9ce8-fb972a14be60 | -8.559 | -54.569199 | 2024-09-28 01:09:03 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1af0fa9a-4bda-31f0-b3fb-66997c86ba82 | -8.9856 | -57.1511 | 2024-09-28 01:09:06 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ddac122b-1dd0-3942-9e55-7d9a74cb56fe | -6.1782 | -45.429298 | 2024-09-28 01:09:07 | METOP-C | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 29564b45-8c90-3006-b042-3d0c49922962 | -6.1686 | -45.431702 | 2024-09-28 01:09:07 | METOP-C | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 66185ff8-d586-3b06-8acf-48cfab680d3f | -8.3933 | -55.023201 | 2024-09-28 01:09:08 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f14f1fa9-5875-301c-b808-afecaeb970f5 | -8.3067 | -55.004101 | 2024-09-28 01:09:09 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 059559d3-9572-359c-a783-c7f73aad53ff | -9.1454 | -58.894901 | 2024-09-28 01:09:09 | METOP-C | COTRIGUAÇU | MATO GROSSO | Brasil | 5103379 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 406f69d2-7fff-3879-b242-8ace37650621 | -5.7726 | -44.458599 | 2024-09-28 01:09:09 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2c679920-6113-39eb-9537-b5956c1b04f7 | -5.7778 | -44.479301 | 2024-09-28 01:09:09 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2254524b-f522-3a75-aa88-2ac28bbe138a | -5.7629 | -44.460999 | 2024-09-28 01:09:10 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| dedbca88-c151-3353-9826-4d6244563dc9 | -5.7681 | -44.481701 | 2024-09-28 01:09:10 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| a8adff34-322b-3cb8-a7ce-6537d1d9a364 | -8.8167 | -58.2173 | 2024-09-28 01:09:12 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6e1cdbd5-90ab-33d6-8421-54c0fce00568 | -8.8046 | -58.208801 | 2024-09-28 01:09:12 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 805ec791-7912-331d-a965-b5b0b79d9a2d | -10.24907 | -43.57707 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5455cd91-cf6a-3320-a085-4b00effd252b | -10.24841 | -43.58107 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 066fd3d9-db29-3e93-a1ef-25aa4918513a | -10.24775 | -43.58506 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bdeb9f80-b427-33d2-a87a-fe8bb966a7ec | -10.24554 | -43.57648 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 841d7d8f-76e9-3f56-a201-0d4f30cb9ace | -10.24488 | -43.58048 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 40a19a02-8ec0-35ac-8f94-93d38c55d512 | -10.24422 | -43.58448 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 54578341-1717-389f-aec2-714ec7f220e0 | -10.244 | -43.56389 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ce07cca9-73dc-3bb7-a926-13a4789081bf | -10.24047 | -43.5633 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c006a8e1-d5ee-3408-a928-df90d6254dac | -11.21475 | -43.32444 | 2024-09-29 04:02:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| e005aeb9-8d15-391b-98c4-fe0b1dacdb8b | -11.2125 | -43.32405 | 2024-09-29 04:02:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 6f14821b-20e2-39d8-b134-fca035817216 | -11.13582 | -43.27187 | 2024-09-29 04:02:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 5df735ef-cb32-3fc8-86d5-7e2c04da09e1 | -12.08745 | -44.18679 | 2024-09-29 04:02:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0eb8b28b-e963-3c0c-92d3-e18ddadd8090 | -12.08675 | -44.19098 | 2024-09-29 04:02:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| aee59699-3df3-3017-a7fc-d9ce206da726 | -12.08318 | -44.1904 | 2024-09-29 04:02:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 3716b2a3-958f-3a66-a850-e591fab2682b | -11.88081 | -43.81296 | 2024-09-29 04:02:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 405aec6f-2b8c-3139-8cb2-0a39ae14862c | -11.88015 | -43.81696 | 2024-09-29 04:02:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 853d4969-20f3-3424-bcf9-0dcc97c381fa | -11.87949 | -43.82097 | 2024-09-29 04:02:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| b99deea0-6326-3940-bedd-80d854fc3f47 | -11.87665 | -43.81637 | 2024-09-29 04:02:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 863faa27-6366-3a25-8d98-00d8b76d9feb | -7.58338 | -45.071 | 2024-09-29 04:02:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 81448128-be06-36ee-9fc5-101bde1bbc5a | -5.01527 | -43.81203 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 21.8 |
+| 9f482091-aae7-390f-8b7c-381ab2cb2d39 | -5.01221 | -43.80666 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 21.8 |
+| d1d6f9b0-86e0-3bc5-980d-0e42a1b9c971 | -5.01144 | -43.81142 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 21.8 |
+| 4e6da4fa-f3e3-3c6b-9660-b4f2b883e105 | -5.01068 | -43.81613 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| f0831eed-361f-3968-8486-06a72b725b8c | -5.00227 | -43.81964 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 5bed15a9-bbf5-3728-afcc-ce7f11f81b31 | -5.0015 | -43.82438 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 660b23c5-2549-3a1c-aca7-73f640141e3b | -4.99844 | -43.81903 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| c34c0842-a508-3b49-a3b0-f1ecabade361 | -4.66177 | -43.76166 | 2024-09-29 04:02:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f93e1253-bac8-3aa5-b71d-68f52e50e950 | -4.65793 | -43.76108 | 2024-09-29 04:02:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 84e6f19d-f9dc-327e-82fc-331f00568b8e | -4.81915 | -44.35346 | 2024-09-29 04:02:00 | NOAA-21 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 90a43509-ce99-3e21-824f-72b8808061c0 | -4.56778 | -44.59021 | 2024-09-29 04:02:00 | NOAA-21 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 5ba44463-cba5-387a-be3b-f425cc174757 | -6.50801 | -43.78377 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| a12eb399-0915-3c23-be60-ad2ecb921b2d | -6.37239 | -43.82915 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 9163c785-c966-388e-8c4e-15e7fc2fd528 | -6.34315 | -43.79655 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 33bdb23c-1fcb-35f6-84ba-2f3fbee8427d | -6.34236 | -43.80125 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| aa9790e9-304d-39c9-aea6-ae6c2d362133 | -6.34181 | -43.79831 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 004e1bb4-c40b-3baa-a16c-06e4c65cbb04 | -6.34106 | -43.803 | 2024-09-29 04:02:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 10b97c76-b1a3-3e31-8e69-63339b3f404c | -6.39761 | -44.78633 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 1a37fd4d-72fc-33bc-af4b-03c2e8f0712d | -6.39548 | -44.78473 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 3aa63869-0c8c-394e-ae1d-8d4315360888 | -6.39492 | -44.78815 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| da83ec52-55fd-3b32-8d92-5216b5f0642f | -6.3942 | -44.78231 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 151bf28a-f694-3825-a121-a8dbbbbaf087 | -6.39363 | -44.7857 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 2fd61551-de47-3d2a-bee2-95857a806844 | -6.39304 | -44.78912 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 5c8bafbf-6ba8-33d6-a9b3-91836decb189 | -6.3915 | -44.7841 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 6f5358b2-632e-322b-8f43-4644509d10f6 | -6.39094 | -44.78752 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| e43710a8-675e-30d8-8a36-f08d30c5a3ba | -6.07139 | -43.65128 | 2024-09-29 04:02:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 699ecc40-7bc3-330a-9fc3-5af8b0a3b055 | -6.0479 | -43.93417 | 2024-09-29 04:02:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 21e24d4e-2c0e-3939-bc8c-3b6707700b9e | -6.04411 | -43.93356 | 2024-09-29 04:02:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 77330b20-28af-3f76-8428-00d0edf691cc | -5.36049 | -43.43343 | 2024-09-29 04:02:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 4cc41c7c-d49f-3de4-b36e-0f3292208d34 | -6.17467 | -44.29234 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| c9e09018-0986-3573-9ac7-5286dd8f15d0 | -6.17382 | -44.29741 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| f11301a3-b3f8-30e8-b0b1-d4085a2b72d6 | -6.17082 | -44.29159 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 4d2c2288-2b69-32d2-9793-e32246e5bf42 | -6.16895 | -44.42219 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 5aa129da-9652-39bf-a0d4-2acd5563821e | -6.16613 | -44.29589 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8aad38aa-144f-3c06-8b9b-9fc5af745063 | -6.07789 | -44.70763 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 3f5c91ad-f854-35bf-91eb-e05eee0cbb39 | -6.07447 | -44.70355 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 6ba537ed-fd04-3a74-b3e9-6202f4976083 | -6.0739 | -44.70704 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| e2296128-a9ba-3de4-a371-6da833187640 | -6.07333 | -44.71053 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| bf25af50-1f88-379f-84db-3759213b181f | -6.07048 | -44.70296 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 5deb6ed8-5d8e-3e46-a952-5162d817f9f7 | -6.06991 | -44.70644 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 907a7971-bae5-3339-a9cf-5630a21079e4 | -6.0321 | -44.54163 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| a77182fc-7f78-30db-9f4d-36db18c6a2c2 | -6.03041 | -44.55174 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 20fcf667-f0f6-35da-b062-a78b64481b95 | -6.02955 | -44.55684 | 2024-09-29 04:02:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| f88c3308-ae98-3d15-b0ae-b0f0963cd7f2 | -5.89624 | -44.9519 | 2024-09-29 04:02:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 27ba068a-9a1d-3ff0-a73f-83286781a31c | -5.89564 | -44.95553 | 2024-09-29 04:02:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 9600a63b-03da-39f7-b44f-cf662fa93e48 | -5.87994 | -44.70305 | 2024-09-29 04:02:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6adb3fee-20e0-3a73-a2f4-141359752722 | -5.59991 | -44.27958 | 2024-09-29 04:02:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b00f9f86-439c-36f4-bfca-f8c3118d73a4 | -7.86131 | -44.5976 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| bcccdd98-e119-35e6-b95f-24fba97ffd6d | -7.86515 | -44.59822 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 423c7f67-5ebf-3499-b916-0b4b56397c31 | -7.86049 | -44.60239 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 95489f37-2f63-3191-8b72-6f3f1f8f8f89 | -7.85746 | -44.59697 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 4cd29acb-7c9e-340f-af70-572d8150a8d8 | -7.84371 | -44.58482 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 33513ad3-4704-3f35-b62c-5da10eba0beb | -7.84192 | -44.5822 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 200a5e95-f10f-3079-a1af-c2fe4c2645c1 | -7.84113 | -44.58701 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| c5b0d955-98d3-36de-85fd-bd2af8cb1c60 | -7.84069 | -44.57938 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 5715b2fe-8e4b-3ce5-9c09-bb9fa8fa8acd | -7.84034 | -44.59182 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 698663e6-53c2-336f-a164-5f218cdd8c8a | -7.83986 | -44.58419 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| a95a7386-707c-3f56-bbda-58dcabc23559 | -7.83904 | -44.58899 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| c12e15dc-e836-3c1d-9339-6846b3ff740e | -7.83807 | -44.58156 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 29730cc2-a3c9-30d6-b901-9eaacced993f | -7.83728 | -44.58639 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| e00ab153-9fcb-3ef4-852d-e355c0e56c8c | -7.83684 | -44.57876 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 5f59c259-0149-329c-8bad-3de823a8e391 | -7.83649 | -44.59119 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 04158b0d-d118-383b-91e4-5a070c5ced61 | -7.83601 | -44.58358 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| f17fe4af-480b-37ad-83cb-27c1502a5427 | -7.83519 | -44.58841 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| 7d077d2d-7d8e-371b-bc73-e8a6ffa5d422 | -7.83422 | -44.58097 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| f9c6adfe-de2b-3339-acf4-5163866cf738 | -7.83342 | -44.58582 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| 0dc72cdb-caf9-3c1f-81b1-4ef293161e0c | -7.83037 | -44.58039 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| c2a7bedb-8d59-30e5-8dae-f1c2163bd2f9 | -7.7962 | -44.90959 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 21a0f9fa-060e-3bc0-8a69-c82b9a3f0b9b | -7.86434 | -44.60302 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 56cb257e-af8e-3e29-b295-3a3e3c96a5a1 | -7.56703 | -44.71266 | 2024-09-29 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| ff018e9d-0f02-3989-994c-f279a2c35645 | -7.38665 | -44.08741 | 2024-09-29 04:02:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 860f90b6-ec70-35d3-9821-03851db3bfd1 | -7.3839 | -44.08506 | 2024-09-29 04:02:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b4fa812e-18c6-31ec-8daf-354d39c1b099 | -7.38314 | -44.08956 | 2024-09-29 04:02:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 07a47b5e-41cb-37f4-8b31-cacf374fcea2 | -7.3829 | -44.08677 | 2024-09-29 04:02:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 09a998fe-0d45-33e2-866b-4fad19b50d42 | -7.19093 | -44.21457 | 2024-09-29 04:02:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 747e0eaf-eb69-38e5-bda3-550ce22ab980 | -7.10376 | -43.87678 | 2024-09-29 04:02:00 | NOAA-21 | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| dd7ed16d-4805-37a0-a720-6c36be397421 | -7.08051 | -44.15412 | 2024-09-29 04:02:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| a46a9f31-2bc5-334b-afbe-ce6879c6132f | -7.07671 | -44.15356 | 2024-09-29 04:02:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| e713cb2e-e049-3edd-9781-ef88b2b12627 | -7.04966 | -43.96281 | 2024-09-29 04:02:00 | NOAA-21 | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 94622e71-24c0-3c19-a8ea-d748dea7979e | -7.35447 | -44.77938 | 2024-09-29 04:02:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| efe590a9-55ca-35aa-bb0d-b06d313d4c4a | -7.35364 | -44.78437 | 2024-09-29 04:02:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README22.md)
