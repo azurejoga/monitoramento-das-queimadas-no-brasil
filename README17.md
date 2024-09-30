@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 01145098-e1d4-360a-88af-f0bb231904d0 | -12.3295 | -63.705601 | 2024-09-29 01:33:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 8625162e-1390-3d48-a788-06b16d581cad | -11.2318 | -60.445301 | 2024-09-29 01:33:30 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 04b6ce66-54ad-39f3-8312-1051d31b4d64 | -11.2351 | -60.460098 | 2024-09-29 01:33:30 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1642b198-679d-3b2c-aedc-748ce2ca2e0b | -11.2368 | -60.467499 | 2024-09-29 01:33:30 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 34a1b005-ca10-3303-aa68-e887eeda9262 | -10.6872 | -58.507999 | 2024-09-29 01:33:31 | METOP-B | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bfb76f18-601b-3337-9a6d-9c25ab2e66e7 | -10.6894 | -58.516998 | 2024-09-29 01:33:31 | METOP-B | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e4219527-f61d-330f-aa84-572d00f1aade | -10.6915 | -58.526001 | 2024-09-29 01:33:31 | METOP-B | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3d9e71c8-799d-3cf6-8d18-74e37f096245 | -11.1566 | -60.702801 | 2024-09-29 01:33:32 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| cc1836fc-354f-37c6-aa16-d61e30c67380 | -10.9838 | -60.758499 | 2024-09-29 01:33:35 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b0f10df4-7c58-3688-8b36-2e13553ac286 | -10.9854 | -60.7658 | 2024-09-29 01:33:35 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 595d327a-5aba-310a-9294-f7183f8d7ca1 | -11.7259 | -64.096603 | 2024-09-29 01:33:35 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f27538d2-33d9-3993-9b13-9356b1ea3ade | -11.6836 | -64.043198 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 47db1ea9-ffed-3bdd-8246-e60317775705 | -11.5986 | -63.698601 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7f79d8ef-8c01-31ed-84f2-ac5bdb35e20b | -11.6001 | -63.705898 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a3f92400-7c97-32b1-b187-cbbb8d234a29 | -11.6577 | -63.970798 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 3177b9bb-1e3c-3aad-b891-b741d9a238fa | -11.6593 | -63.978298 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 679350bf-e808-3593-bae1-41ba9e9d7199 | -11.5837 | -63.724899 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a3151ad4-ca52-3694-9ad8-6081c19e8a42 | -11.5853 | -63.732201 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fdf2a3f3-8387-3d89-96d8-024249adccd6 | -11.5739 | -63.7271 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0b2e02fc-ad8f-33ed-9529-e852b051ec0c | -11.5755 | -63.734402 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7b253c26-c4ac-322e-b4e7-a5be1068da98 | -11.5771 | -63.741699 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 3ec3e7c7-ea91-3c10-871e-f910351da535 | -11.5562 | -63.692699 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e5f49999-bee0-3852-b9d5-43e13378ac1e | -11.596 | -63.8759 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fc3c118a-504b-359f-a2d4-2799adf0f7b7 | -11.5976 | -63.883301 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9eab7c7b-3079-33ed-b00f-704323f19c22 | -11.5992 | -63.890701 | 2024-09-29 01:33:36 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e9c8171a-bafb-33f6-8247-0466e39efe7e | -11.583 | -63.8634 | 2024-09-29 01:33:37 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ffba97c9-1282-3b9f-9c4b-c59634613e57 | -11.5846 | -63.8708 | 2024-09-29 01:33:37 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ed686a8-2ae8-31ab-87ed-90fbe9abc138 | -11.5862 | -63.878101 | 2024-09-29 01:33:37 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e8e23bd9-7ca5-32b8-a0db-5392800e1c7b | -11.5732 | -63.865601 | 2024-09-29 01:33:37 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e0dcca0d-1b63-3d7d-929c-704d3cf14626 | -11.5748 | -63.873001 | 2024-09-29 01:33:37 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b1b59857-ffea-38f9-bcb9-59e899ca324b | -11.5454 | -63.879501 | 2024-09-29 01:33:37 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 67153aa8-3d88-36e6-a64f-e9daeb39085a | -10.724 | -60.75 | 2024-09-29 01:33:39 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 76fded67-fe07-3a75-bc02-fb9a87a30483 | -11.6301 | -64.988899 | 2024-09-29 01:33:40 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9db6f22a-0ee9-37ea-9962-8063edd0fd16 | -11.6318 | -64.997002 | 2024-09-29 01:33:40 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 18a9ea1e-c6ee-3c90-8336-8f802e6b189a | -11.6203 | -64.990997 | 2024-09-29 01:33:40 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| adb74c01-5132-3684-b24f-2c31b2488564 | -10.9552 | -63.576401 | 2024-09-29 01:33:46 | METOP-B | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 955e67cb-49bb-3771-8017-ed4bdf0cc45a | -10.9567 | -63.583599 | 2024-09-29 01:33:46 | METOP-B | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f2c7fe96-e331-3c40-aab9-383c293f42f6 | -10.3852 | -61.163502 | 2024-09-29 01:33:46 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5d7bfd51-0282-3712-af54-8c16bc8325c0 | -10.3869 | -61.1707 | 2024-09-29 01:33:46 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2839f941-607e-3ecc-8122-b131e6d75450 | -10.9985 | -63.915901 | 2024-09-29 01:33:46 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b40c7346-a2ed-342d-914b-b292639f297e | -11.2862 | -65.251404 | 2024-09-29 01:33:46 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c371d2c1-31a8-32b2-bd2c-7b27a58b9070 | -11.288 | -65.259598 | 2024-09-29 01:33:46 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 06bc44d6-c716-302b-a546-392c6726be4b | -10.8763 | -63.8741 | 2024-09-29 01:33:48 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 43634aed-c558-3215-baee-f6dd055835df | -9.3056 | -60.3242 | 2024-09-29 01:34:01 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| de9ced01-a3ea-34f1-b60f-d05de3a1b6b4 | -9.3074 | -60.331902 | 2024-09-29 01:34:01 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8ef0278e-ac75-3798-a9d9-e29e69b4e60c | -10.2196 | -64.5382 | 2024-09-29 01:34:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 46dab20d-2323-395b-8aa7-14e0ed8931f4 | -8.083 | -55.370602 | 2024-09-29 01:34:01 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0d8070e6-ad1a-3dff-980c-2a6d68af9e53 | -9.3863 | -60.898899 | 2024-09-29 01:34:01 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cb770903-bade-33ab-a165-8bf2591e59d0 | -9.2472 | -60.697102 | 2024-09-29 01:34:03 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7bd18f29-8c5c-3213-a97c-eee7fe144d84 | -9.2489 | -60.704601 | 2024-09-29 01:34:03 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 54eb5c16-b4fd-3d27-b1f7-79f00c6a7577 | -10.0824 | -65.042397 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d0e86b32-52c3-3cc5-a717-c85b9dd647f7 | -10.0841 | -65.050201 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b7625950-0d35-303d-8958-ee570359a957 | -10.0709 | -65.036598 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 42b812cf-c801-37b3-85ad-bdc09d0d50f8 | -10.0726 | -65.044502 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ce3a7953-cd67-3c91-9e0c-9095b0162d60 | -10.0743 | -65.052299 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 733004a4-f22d-3544-8c63-e15e79522b0d | -10.0628 | -65.0467 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fa5c847c-632c-3c3b-842e-5d869be34e11 | -10.0645 | -65.054497 | 2024-09-29 01:34:05 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| edaa1b92-3e4c-3bd3-b2d1-866503e4341b | -9.9715 | -64.767197 | 2024-09-29 01:34:06 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 51cccb6b-2b0f-3ec8-9a46-682546baf1da | -9.9732 | -64.774803 | 2024-09-29 01:34:06 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 219cc40a-43e1-3a8c-8db1-fd6e9265597b | -9.0868 | -61.121899 | 2024-09-29 01:34:07 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f231b1ef-cc4a-3698-ac60-0ebacf7fa619 | -9.0884 | -61.1292 | 2024-09-29 01:34:07 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d998adde-243c-3555-b8dc-610aa4e65f11 | -9.077 | -61.124199 | 2024-09-29 01:34:07 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cbb7fb8f-2141-39b0-b3f3-1725dd0d4099 | -9.2502 | -62.433701 | 2024-09-29 01:34:09 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1da04804-dece-3b0c-951a-b7b206d75310 | -9.2517 | -62.440601 | 2024-09-29 01:34:09 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c04825e2-2bfd-3476-8f90-17d9d807cd77 | -8.8635 | -61.499001 | 2024-09-29 01:34:12 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e55b76e1-f547-380d-9d64-3ea018161a1c | -9.0493 | -62.319302 | 2024-09-29 01:34:12 | METOP-B | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 49cee91d-1d12-3126-ba90-122bf13d5d46 | -9.0509 | -62.326199 | 2024-09-29 01:34:12 | METOP-B | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| eb83a141-5604-31bb-a757-ff8e04684aff | -9.0524 | -62.333099 | 2024-09-29 01:34:12 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9cae53b0-4e80-3292-98e3-ada2c617b004 | -9.0395 | -62.321499 | 2024-09-29 01:34:12 | METOP-B | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| be90276b-a196-3fcd-af89-712f3bc63c9a | -9.0411 | -62.3284 | 2024-09-29 01:34:12 | METOP-B | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 3a354b61-f0dc-314c-b8a3-1a68af28c228 | -9.0426 | -62.3353 | 2024-09-29 01:34:12 | METOP-B | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 761b5ba9-034c-3ada-afbf-808d825f9a87 | -9.3025 | -65.3274 | 2024-09-29 01:34:19 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 45d0a96f-a2db-3c26-90dd-19641aa37488 | -9.3042 | -65.335297 | 2024-09-29 01:34:19 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 8f971741-467a-3a81-b4e5-33a850150807 | -8.638 | -63.750198 | 2024-09-29 01:34:24 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 53e578e6-a3f2-3fab-b8bd-3b4fda3fd9a1 | -8.6395 | -63.757198 | 2024-09-29 01:34:24 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7bcdb288-8064-3a56-9f7c-5fa3ccd7f32e | -9.6551 | -68.536903 | 2024-09-29 01:34:24 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
-| d6370b80-90c8-3003-8a75-503f990f9f33 | -9.366 | -67.398399 | 2024-09-29 01:34:25 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 85321cf5-c50e-30e3-873c-fc5735976e4c | -9.0598 | -67.787903 | 2024-09-29 01:34:31 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| f8233de8-6902-3281-a69d-de3d28dcab1c | -9.062 | -67.798599 | 2024-09-29 01:34:31 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| da071059-4fc2-33d6-b095-12398ea93954 | -7.7007 | -67.028397 | 2024-09-29 01:34:51 | METOP-B | PAUINI | AMAZONAS | Brasil | 1303502 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 99d029d0-0396-356e-934e-3edb928244e4 | -6.6626 | -69.9188 | 2024-09-29 01:35:18 | METOP-B | EIRUNEPÉ | AMAZONAS | Brasil | 1301407 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 16b98833-88e6-3f47-ba2f-bfb38c8a1925 | -6.6654 | -69.932297 | 2024-09-29 01:35:18 | METOP-B | EIRUNEPÉ | AMAZONAS | Brasil | 1301407 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 58f9bcdc-4545-39db-abd5-aee9d412ea84 | -2.126 | -53.653301 | 2024-09-29 01:35:31 | METOP-B | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 26d7fb4f-c893-309b-bc2c-aece325e60dc | -2.1453 | -53.6488 | 2024-09-29 01:35:31 | METOP-B | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 128cb282-b728-3d05-a0fc-61d9fe254b22 | -2.1297 | -53.625599 | 2024-09-29 01:35:31 | METOP-B | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 80965970-d9a0-3a7f-9b63-8624f530f106 | -2.1357 | -53.6511 | 2024-09-29 01:35:31 | METOP-B | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| efd88936-1cf1-304c-8e3d-ab3a0cd7362c | -2.1417 | -53.676498 | 2024-09-29 01:35:31 | METOP-B | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 799f40b0-94db-34c4-8bef-ebf3032431e0 | 4.3136 | -60.942501 | 2024-09-29 01:37:43 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 197be52f-57fc-32ef-84c7-b0dfff056c79 | 4.3159 | -60.932301 | 2024-09-29 01:37:43 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| f7aa8bb7-fdbd-3cd6-951f-05f0f5f91bc4 | -12.85 | -62.744099 | 2024-09-29 02:27:22 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4c9471ba-3e37-398f-88a9-fcecde572ff0 | -12.8404 | -62.7467 | 2024-09-29 02:27:22 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4bb8f9a3-4f24-3ca7-aecf-8523179e67ff | -12.846 | -62.767601 | 2024-09-29 02:27:22 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| accb263d-b020-312c-8edc-f234a3abac46 | -12.7621 | -62.608898 | 2024-09-29 02:27:23 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f546f480-4fae-3e30-89c3-6dfd6a5b98a7 | -11.5632 | -63.735802 | 2024-09-29 02:27:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 417ccbff-db96-3ab4-a037-cd31150ca5e4 | -11.5829 | -63.890301 | 2024-09-29 02:27:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 01c3a981-94e8-3553-8f30-de1eba79dc31 | -11.5684 | -63.874401 | 2024-09-29 02:27:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b7964f94-9f16-37ff-868c-ecd0f34b0200 | -11.5733 | -63.892899 | 2024-09-29 02:27:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 11844427-9af5-31b7-96e2-0905c25e096d | -10.0554 | -65.051201 | 2024-09-29 02:28:17 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| abc3dfeb-900c-37bf-bbc3-bdb0e3e3f4b5 | -10.0596 | -65.067497 | 2024-09-29 02:28:17 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c49222dc-9615-3e85-bbd1-5107ac5d8fa2 | -10.0457 | -65.053703 | 2024-09-29 02:28:17 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5f71607e-940b-3aa3-adf1-d0f644c65ed7 | -7.28911 | -42.26125 | 2024-09-30 03:42:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| aefff8d9-8990-377a-858f-a45ad09f16d0 | -7.2862 | -42.25113 | 2024-09-30 03:42:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 6cecbe91-627e-3d8a-b5ae-f549b0606951 | -7.28538 | -42.25581 | 2024-09-30 03:42:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 78c0b75d-617f-3ff7-a6ed-f710424f7789 | -7.27693 | -43.99636 | 2024-09-30 03:42:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 343d1398-ac9d-3da8-9ca6-bfd841614104 | -7.27639 | -43.99945 | 2024-09-30 03:42:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| eca312f3-0dbd-352a-b335-0c02caf4c413 | -7.26152 | -35.0181 | 2024-09-30 03:42:00 | NOAA-21 | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| b949ba2c-58c8-3a9d-9980-53a6ce2a63c1 | -7.18013 | -38.341 | 2024-09-30 03:42:00 | NOAA-21 | SERRA GRANDE | PARAÍBA | Brasil | 2515708 | 25 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 20417f34-31e3-331a-a363-da26ce37535f | -7.08282 | -44.15228 | 2024-09-30 03:42:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 5a76c728-96ff-3b37-922e-db739e158b43 | -7.05436 | -39.27893 | 2024-09-30 03:42:00 | NOAA-21 | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 79484253-baa9-3661-9858-96c8a14119f8 | -6.96561 | -42.41217 | 2024-09-30 03:42:00 | NOAA-21 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| a295aafb-318f-3385-b858-820d505dd877 | -6.96477 | -42.41698 | 2024-09-30 03:42:00 | NOAA-21 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 6e7c1da2-b116-35d3-927a-642aaf253e65 | -6.79322 | -40.13954 | 2024-09-30 03:42:00 | NOAA-21 | AIUABA | CEARÁ | Brasil | 2300408 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 65e90239-30c9-3fae-8e4a-86522e0e4164 | -6.79264 | -40.14296 | 2024-09-30 03:42:00 | NOAA-21 | CAMPOS SALES | CEARÁ | Brasil | 2302701 | 23 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| c7dd0fac-66c1-3d92-a399-87aa13b259b9 | -6.78924 | -40.13885 | 2024-09-30 03:42:00 | NOAA-21 | AIUABA | CEARÁ | Brasil | 2300408 | 23 | 33 | nan | nan | nan | Caatinga | 4.8 |
+| e09e4145-d40e-398c-a5b0-9f37d143d81a | -6.73974 | -40.94328 | 2024-09-30 03:42:00 | NOAA-21 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 20dc8704-f4ea-3073-8a98-6f3257068a53 | -6.54487 | -36.73532 | 2024-09-30 03:42:00 | NOAA-21 | JARDIM DO SERIDÓ | RIO GRANDE DO NORTE | Brasil | 2405702 | 24 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 38dcab22-0616-394f-b2e8-2bd89f88e741 | -6.50494 | -43.63167 | 2024-09-30 03:42:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 56936a39-e644-3585-9f1f-d076a841320c | -6.50445 | -43.63447 | 2024-09-30 03:42:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 3349970d-23a8-3011-b610-c23646da0928 | -6.45002 | -35.05224 | 2024-09-30 03:42:00 | NOAA-21 | BAÍA FORMOSA | RIO GRANDE DO NORTE | Brasil | 2401404 | 24 | 33 | nan | nan | nan | Mata Atlântica | 3.7 |
+| e988299f-dec2-32e0-9a96-72145e104e0a | -6.44672 | -35.05172 | 2024-09-30 03:42:00 | NOAA-21 | BAÍA FORMOSA | RIO GRANDE DO NORTE | Brasil | 2401404 | 24 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 8287d011-59c2-3424-8dfc-41fc28e0c054 | -6.34246 | -42.85056 | 2024-09-30 03:42:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| a2b459b8-bedf-3652-af42-a73451f4582b | -6.34155 | -42.85579 | 2024-09-30 03:42:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| bc4e34fe-dd4a-3264-964a-13ca542e3b10 | -6.21087 | -39.39819 | 2024-09-30 03:42:00 | NOAA-21 | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| ea3d1adc-eb1b-3b88-b96c-0aa25d9fba77 | -5.90965 | -35.28384 | 2024-09-30 03:42:00 | NOAA-21 | PARNAMIRIM | RIO GRANDE DO NORTE | Brasil | 2403251 | 24 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 848f7a9d-a753-3240-89a2-dd380eabc1db | -5.59957 | -35.39709 | 2024-09-30 03:42:00 | NOAA-21 | CEARÁ-MIRIM | RIO GRANDE DO NORTE | Brasil | 2402600 | 24 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| e3e3b806-75ef-33ab-8e10-eab4ad75eaa3 | -5.07021 | -37.72403 | 2024-09-30 03:42:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 3006aa14-d5c7-30a4-a071-cfe7cc9f57b3 | -3.96276 | -41.49213 | 2024-09-30 03:42:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 6416691f-0a0a-356a-bab2-d7fe8048a1e5 | -12.09597 | -44.9968 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 77cdd1c1-4c20-398c-bcca-579bcc14befe | -12.09562 | -44.99505 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 2b2b92eb-950a-3f1f-a15a-1df59fe43222 | -11.78867 | -45.4538 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| c861a7c0-b884-3f72-ad16-67ceba1ac4cb | -11.78676 | -45.46655 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| b397e4b4-f2e1-3fad-8107-d8dea1618f29 | -11.78636 | -45.46612 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| fe99efa9-8d25-3540-b02f-7fe431d193dc | -11.78616 | -45.46965 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 87a71498-469d-3ca9-b6ce-634c83261dd2 | -11.78578 | -45.46922 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 41da75fe-b8e1-3191-8f47-c8f1c6aa5377 | -11.78447 | -45.45053 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 9f7dd77d-667f-3045-b5df-96a31cfbc0d1 | -11.78384 | -45.45378 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| e3c76b75-cefa-36fd-a362-47bf5029100c | -11.78336 | -45.45331 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| fb13cb4f-577c-34e9-8a12-d3ecefca228b | -11.78323 | -45.45691 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 7c052267-488c-32a1-b3bc-534939e07eff | -11.78277 | -45.45647 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b1a90575-5a33-3889-812c-735d360aa432 | -11.78262 | -45.46001 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| eb84633f-5d82-34af-b4a7-30022537e754 | -11.78219 | -45.45958 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 37b1ef63-1008-3fc3-956c-2ad5043ae595 | -11.78202 | -45.4631 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 8cb347fc-4847-3978-8af7-5f5232e4c752 | -11.78161 | -45.46267 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 20a3f67b-0968-3f08-8349-9117b03fdf3e | -11.77871 | -45.44934 | 2024-09-30 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5fdd6e97-38d4-3c48-87a3-5e02b7422de0 | -11.77684 | -45.54609 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 105e8d78-20c2-35d5-b563-254d9e5eb8fc | -11.77664 | -45.54636 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| df94b254-d0f8-3913-a892-0d02f8a249b7 | -11.77624 | -45.54929 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| b1e571e9-3484-3cc3-99c5-1fbe3af38f3b | -11.77602 | -45.54956 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e560badf-d40c-35ea-acad-b3ef2c1521a4 | -11.72775 | -44.61156 | 2024-09-30 03:45:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e94f2272-9344-3aba-a32f-bed2b7bc939f | -11.60733 | -44.81508 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8b8dd289-289f-3137-a698-f609042ee606 | -11.60677 | -44.81802 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0fab024e-ec5d-35e3-9c76-04c5d3a187ed | -11.60621 | -44.82095 | 2024-09-30 03:45:00 | NOAA-21 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 044eaebe-e4e4-3c5e-a3d9-d910965de926 | -11.26815 | -43.42046 | 2024-09-30 03:45:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| dca1f3ae-c1a8-3858-963f-5caed91169a3 | -11.24905 | -45.66691 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| a8b41baa-ad8f-3aa3-8558-9bd490677940 | -11.24637 | -45.65202 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 90c22a20-0ea5-304f-83a6-9fdec2d2cde4 | -11.24565 | -45.65582 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 6897019e-bb8c-34e9-82b5-c99eb8636988 | -11.24497 | -45.65933 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 7f23cf89-e58d-3558-ab1c-e9fa526ad586 | -11.2443 | -45.66284 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 6384e93d-a68c-33cb-9615-645e85e18de6 | -11.24363 | -45.66629 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 4f3245a8-7bb7-3b9f-9cf7-d02f395c38dc | -11.24298 | -45.66969 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 90da6373-1605-3dbd-806a-bc480b2a558d | -11.23492 | -45.65412 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 068d4277-c309-3093-97fc-5be929038f66 | -11.22277 | -45.61283 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 699fbb09-63dc-399a-a832-ec5067b5aa98 | -11.22043 | -45.6551 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| c2a94fc7-5c96-3751-a534-94a4ad87d035 | -11.21981 | -45.65844 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 3d660026-ea78-3e64-893a-a6fccc9ad88a | -11.21782 | -45.65679 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 010e738b-9d8f-37d6-93a6-02d3b7f85403 | -11.21716 | -45.6602 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| bc3c4327-a738-31b2-9d96-1e6af4f096f8 | -11.21557 | -45.6399 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| adb960e5-809e-3e0d-b415-f08b8c6909a7 | -11.21504 | -45.65436 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0f5e7a92-e651-3531-86c8-6b4c8a53353b | -11.21494 | -45.64315 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 47c742aa-5d13-332f-81a3-750c57c83f4a | -11.21441 | -45.65777 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 6f362810-defa-3666-93f5-b6a0b5478fb3 | -11.21377 | -45.66123 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 3f09263b-684e-347f-a580-e8367bd10d0c | -11.21333 | -45.60445 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3875e557-2fa2-3f73-ae3b-2f1ae8e47b70 | -11.21313 | -45.66464 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| bd226fc2-b894-3bb1-baa7-a671411599a6 | -11.21271 | -45.69664 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| e69cd8f5-e410-31cf-bbf9-c3a7e69bce57 | -11.2121 | -45.64054 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 44b81652-fcba-3bd0-9b21-acba9cd07ce0 | -11.21183 | -45.68769 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 8d3057a0-d2a6-32c5-9b18-05f3fe9aa966 | -11.21171 | -45.60299 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 671ffb89-7b25-3a9a-82d6-07a0706178f3 | -11.21108 | -45.66302 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 00951510-8ef8-3cac-9284-a0ff1a25a521 | -11.21103 | -45.60645 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 913e8369-5dd8-30f2-af5b-e2a2f277612c | -11.21046 | -45.69475 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 97977bb7-3bb7-3115-a834-9e8f0780f2b0 | -11.21043 | -45.6664 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 61b092d3-9400-3ff4-a155-3d67156615cc | -11.20993 | -45.68182 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e27f2400-2799-3645-aa54-01ee97095451 | -11.20981 | -45.69815 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 217cc4fe-b8ca-30ee-b98a-8f94b75f88c0 | -11.20929 | -45.68527 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 05631aaa-3ef9-3415-aba4-39f64b15b365 | -11.20916 | -45.70147 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 3e518b69-c063-3351-87dd-3972f9b99e0a | -11.20864 | -45.68872 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d483dbdc-2112-3a92-a290-253bdb6def4b | -11.208 | -45.69217 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 6ddf53fe-56af-3d99-80d1-9a31f73113ca | -11.20792 | -45.6039 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ff01b277-6fd5-3221-b880-f4e93c7c0e25 | -11.20737 | -45.69557 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| b5510452-800d-3fe8-953a-7bce617afecb | -11.20709 | -45.68359 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 1bc6c55d-1d01-353e-8210-729e946734ec | -11.20675 | -45.69886 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 1d783ba7-db39-38a0-a1bd-00437725edb2 | -11.20267 | -45.63195 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d2696c63-c339-39b2-8ff5-b85a1d17da4f | -11.20253 | -45.60328 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c2276f3a-5308-36f8-ab9b-f50620fb5003 | -11.198 | -45.62743 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 81e81ea5-a39e-3339-8470-4a45d414d1e8 | -11.19599 | -45.74071 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 40ff4ad1-8f9a-3b89-a0b2-1706b28536fe | -11.19533 | -45.74414 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 27782a17-8547-38e8-9f5c-6403b81d687e | -11.19322 | -45.74163 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 5b7210b4-c845-3d60-92b1-52af2f436d25 | -11.19265 | -45.72929 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 93a6c1c2-d1b7-3ad0-8b6e-e6c501c55e55 | -11.19258 | -45.74508 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 778a6f20-9c76-3ef5-9358-e17493f5dec1 | -11.1924 | -45.71634 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
 
 
 [Clique aqui para ver as próximas entradas](README18.md)

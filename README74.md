@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 325f75e9-331a-3bb1-836c-e803ac1b31ca | -4.48783 | -54.99337 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| df6b0a9d-f9dd-3b4b-9137-81e82772671a | -4.48099 | -54.96989 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3b4cc2f1-f6b5-3c16-b1a0-34d39e94c79d | -4.48042 | -54.97356 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e1bac5a1-4efa-3944-b885-c779bf720f15 | -4.38973 | -55.44826 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3822c5a9-3548-3489-881d-4ab6cbad5fbe | -4.37402 | -55.43855 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8581eb2f-e9d4-310f-8953-f700fda2d385 | -4.34683 | -55.22527 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| c6a56643-bec0-3418-a507-08689e8262fd | -4.34627 | -55.22887 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d236453c-8486-3195-a64f-00803f4e5cb0 | -4.34571 | -55.23247 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 70c7375d-981b-3c3d-8158-52cee8d3e283 | -4.34289 | -55.22835 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 612c140b-7028-3ba4-bab6-72c89187847f | -4.31586 | -55.22417 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 7380327c-9d47-3cd2-bedf-1c7930c8b61e | -4.3153 | -55.22779 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| caf6c4c8-24af-3544-8d30-46f1f4179b15 | -4.31248 | -55.22365 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3f918631-581b-3621-94f3-71b8a58be7c6 | -4.1932 | -55.1351 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| fa6c8d2f-dea4-32f1-8f2b-1428329bcf18 | -4.19264 | -55.13873 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2d2bfc37-5880-388d-a45f-740fd53f9907 | -4.12819 | -54.89715 | 2024-09-28 05:08:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| bb3a36f0-ea42-3a8e-a91f-6ddf6847ed47 | -3.95179 | -55.33746 | 2024-09-28 05:08:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 43c4a6a4-36a4-3c76-85b0-3b45c613b5be | -3.64927 | -55.29848 | 2024-09-28 05:08:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 6c61570c-e72a-3159-a977-8037dd2edaa6 | -3.64872 | -55.30204 | 2024-09-28 05:08:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d640b462-d871-3b70-a6f2-905597af88d6 | -3.64536 | -55.30153 | 2024-09-28 05:08:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ebef1760-351e-30f3-b4f3-ce4d96f896db | -3.62809 | -54.52631 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0466ed17-5e34-35e9-beae-298c59d9156a | -3.62516 | -54.52708 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| bcffc9cb-df5a-3dfe-adeb-935edc39c638 | -4.07192 | -54.10285 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b8a5a299-251d-3d44-b55a-24a0a14c14f0 | -4.07132 | -54.10677 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 610a73ee-a766-3541-b255-c7f9acd5893f | -4.06901 | -54.0984 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 79bff6ed-327e-3021-951b-67c75425b62b | -4.0684 | -54.10231 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fa0bc378-5817-3994-b850-685cd5da4d7d | -4.06489 | -54.10178 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 58c96d1c-eeeb-3aa4-b343-7f7c0b379f5e | -4.06429 | -54.10569 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 54849013-8461-35bf-838a-d15eda3f9f23 | -3.72366 | -54.22634 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 133a4565-5e4b-33f4-baa7-760f4da1e6bc | -3.71959 | -54.22962 | 2024-09-28 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e504633f-ac76-3681-a28a-0be5b083158f | -7.99953 | -55.02667 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 731fd420-960d-37bb-9fb4-09c4979928ec | -7.99862 | -55.0271 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 4a206ed9-2d65-329b-adc0-5bed694f3f84 | -7.99571 | -55.02262 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cdc5b88b-895d-3757-98a8-ddf83070cfb5 | -7.99511 | -55.02657 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 59ec128e-c082-3163-8da8-694b34b7f01a | -7.978 | -55.06816 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| b3f2f4a8-b876-34cd-8ac0-38e018463c34 | -7.9774 | -55.07207 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 9073776a-a8a6-3956-a59b-71fc4cf85aba | -7.30761 | -55.30445 | 2024-09-28 05:08:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| eb63f30e-2acf-361a-a20a-04c818249b63 | -6.99587 | -55.58295 | 2024-09-28 05:08:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 348a1d4e-dc36-3210-a1c3-3e5c3f054fc6 | -8.221 | -54.89681 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6327983b-eabb-37ff-a8a1-af288ff9ea04 | -8.11435 | -55.07926 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4e8182d9-84bd-354d-aea2-a8c1ebea081d | -8.11376 | -55.0832 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9cb4a9f6-c590-34fb-a52c-c011752592e3 | -8.11254 | -55.35259 | 2024-09-28 05:08:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f291f073-f597-3d96-ba99-bf076230de59 | -8.11201 | -55.07084 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d673d3f6-017e-3452-ac67-8033a6f5c026 | -8.11196 | -55.35644 | 2024-09-28 05:08:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 89dab917-99bf-3940-a312-64e2e2116163 | -8.11143 | -55.07478 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 2877ca8e-acf5-33bc-a065-88d1dec95073 | -8.11084 | -55.07872 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 227440ea-ee31-3daf-8852-de19bb0aefbc | -8.11026 | -55.08265 | 2024-09-28 05:08:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8ae066cd-667f-35b7-8a4e-bd771ca4b32b | -8.09175 | -55.39645 | 2024-09-28 05:08:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 882403a4-d6f5-3663-93a2-e58a3a9f4985 | -8.09117 | -55.40027 | 2024-09-28 05:08:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e709c6f6-606f-3d5f-9b70-329b65530c98 | -1.54763 | -54.95094 | 2024-09-28 05:08:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 37408ea6-03e2-3884-91ce-8aa92932d9e8 | -1.54429 | -54.9504 | 2024-09-28 05:08:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 7dd45925-283e-3624-b7af-a0774534189e | -1.48852 | -55.87032 | 2024-09-28 05:08:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 94de9ddd-70d6-32d3-af39-63a0b35053bd | -1.48521 | -55.86981 | 2024-09-28 05:08:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 6c4837d6-7183-3cb1-9ae8-62a2171664de | -1.44069 | -55.20079 | 2024-09-28 05:08:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| dcb4b3af-ac2a-317b-8b0d-9e1150ab2316 | -1.43522 | -56.05899 | 2024-09-28 05:08:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 50044d7e-1b7d-370c-93ec-aba16915284d | -1.26439 | -55.9131 | 2024-09-28 05:08:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 928c994d-caac-35f3-a530-5d0fa3fac3d3 | -1.26108 | -55.91259 | 2024-09-28 05:08:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 5a37d128-bcd8-3581-8981-24dfb8c9581d | -2.02502 | -55.9155 | 2024-09-28 05:08:00 | NOAA-20 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d86c35b1-bbe8-3872-aa00-1449e2b3204b | -2.60708 | -56.51344 | 2024-09-28 05:08:00 | NOAA-20 | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a6cde747-0748-31ae-8285-e092003c9725 | -2.52652 | -56.07467 | 2024-09-28 05:08:00 | NOAA-20 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 93d9d522-ed0a-3d9e-9ac6-5496a264dba5 | -2.52321 | -56.07416 | 2024-09-28 05:08:00 | NOAA-20 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c3520fd9-29c3-321f-b57a-f24497887129 | -2.51991 | -56.07365 | 2024-09-28 05:08:00 | NOAA-20 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 2a3df1ba-b100-3a54-9eb5-87d61a9915a5 | -2.51937 | -56.07709 | 2024-09-28 05:08:00 | NOAA-20 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| de24e708-cd37-3e3c-8c2a-1ed485ab428c | -2.27929 | -56.41586 | 2024-09-28 05:08:00 | NOAA-20 | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 1df9556c-aff6-3823-8452-3ab2b0f112df | -3.76434 | -56.80062 | 2024-09-28 05:08:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| cd3d3113-8dd3-3515-895f-909c92b34b28 | -7.96846 | -56.69178 | 2024-09-28 05:08:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b7888e49-6175-3068-84c3-f85424c01edf | -7.86197 | -56.7217 | 2024-09-28 05:08:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f92048b1-b258-3416-a5a5-72e385c8fcbd | -7.85864 | -56.72119 | 2024-09-28 05:08:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| dbe377ce-9620-3a88-ad19-154d448e2b27 | -7.82673 | -56.60084 | 2024-09-28 05:08:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ed83d6ba-fe1c-35d4-bdfa-ddba39ac119d | -7.79356 | -56.66069 | 2024-09-28 05:08:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7475523c-f1c0-39c4-8928-bde99cc2d940 | -7.01583 | -56.66211 | 2024-09-28 05:08:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ef3dc90b-706d-320e-b3c5-ee6d1c1dcdf6 | -3.68848 | -57.11008 | 2024-09-28 05:08:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| f25d2a45-1ffe-39c5-a9ad-d09f0b7ac4e3 | -3.16876 | -56.85195 | 2024-09-28 05:08:00 | NOAA-20 | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 7486f7cc-3388-337c-aa1b-5002959c8633 | -3.77323 | -57.02429 | 2024-09-28 05:08:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f8ada1ec-8ef9-30b4-8a36-c855299176f7 | -3.7157 | -57.19583 | 2024-09-28 05:08:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b8a31a8a-a915-3a8e-bb1d-d6c193b8cea9 | -3.70853 | -57.19825 | 2024-09-28 05:08:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 7c482b0b-61af-3fb0-bbab-38ec82b1c59e | -0.7421 | -57.95665 | 2024-09-28 05:08:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| df342c2a-d131-3c22-874b-0422eb4c7203 | -6.08866 | -59.95227 | 2024-09-28 05:08:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 4c935574-f2ab-3c29-b7c3-302b59bb2394 | -7.44989 | -59.77792 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 3c74282e-a5b3-3aaa-a6fb-5d7fd43c44a9 | -7.44703 | -59.77352 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6813f23e-3ec7-3bcb-86c1-11a61e7f730f | -7.41502 | -59.83929 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5ff7bfa2-f7e2-35db-b71b-1a2480a8a7fd | -7.40897 | -59.81059 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8a0d986e-3f27-34a5-b39f-dfbd2ebffe17 | -7.40607 | -60.29475 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 2fa344a1-e681-39f9-8585-297d2efa1d5d | -7.4055 | -59.81004 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e79da235-4261-307e-b4ca-1c01cc3159a8 | -7.40474 | -60.3028 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 35924756-f5b9-3422-86a0-126ffb2d827b | -7.40186 | -60.29818 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 31b7691d-e77f-3f34-913f-38a509b4423b | -7.39832 | -60.29757 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 95dc9289-cb28-3a62-beb7-2d0aecde742e | -7.39765 | -60.30161 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a5d0ef28-09cc-3f3b-a28b-56c74cc62eed | -7.38388 | -60.30003 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 3733e046-e90b-3174-ba11-27cca52db723 | -7.32632 | -59.89307 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c23c4e08-010e-3bed-b47b-4224ccd81334 | -7.28493 | -59.58374 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c68de6c8-b060-395f-b289-bbc071001d40 | -7.28148 | -59.58315 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3029ed1a-38c8-36a7-ad47-74283b96fa36 | -6.98698 | -59.95282 | 2024-09-28 05:08:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e9f9ebe2-251b-32d8-82f9-eec129517cb7 | -9.24136 | -68.30796 | 2024-09-28 05:10:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 498117d5-80fa-3dba-8b7c-ca8b33c8d3f5 | -9.2406 | -68.31193 | 2024-09-28 05:10:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 22c676f3-aca0-32af-91bb-0a6356f975e8 | -9.24037 | -68.30785 | 2024-09-28 05:10:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| be461621-e49f-33d4-bb08-7ff5dc30a9bd | -9.23964 | -68.31181 | 2024-09-28 05:10:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| b6d2bc01-cab8-3800-a440-e60c1d3a0772 | -9.11772 | -67.89591 | 2024-09-28 05:10:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 61f79ecb-ed44-3d14-8e32-8b1f6a27b357 | -9.11703 | -67.89973 | 2024-09-28 05:10:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ec300f85-8ed1-3b97-9e0d-50a70cabaac8 | -9.11641 | -67.89175 | 2024-09-28 05:10:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f96a10c5-f34f-310a-a3e6-72f41fb1da70 | -9.11569 | -67.89556 | 2024-09-28 05:10:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6efe942b-cbe8-32b2-aa31-f035549b5ac5 | -10.98298 | -46.50376 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 25.6 |
+| b7012626-1d4d-320a-8a42-212fc83756a9 | -10.98264 | -46.44404 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| b1e6eef7-22f7-3c36-a7f7-e66c8c706971 | -10.98152 | -46.51339 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 35.2 |
+| 39d843ba-835b-3dc6-bc30-8bb507ffa1b8 | -10.98114 | -46.45396 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| fb2061f3-6463-308a-a6d6-7187e2eef30d | -10.98007 | -46.52299 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 9d2c9563-106f-320d-9932-3a1ca797b84e | -10.9709 | -46.40644 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| 2c3c5eb5-ac68-3a8d-bfb2-d11404fb8203 | -10.96947 | -46.41611 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 53.1 |
+| d2f67b47-7ada-3d45-bf20-630830a6a048 | -10.96176 | -46.40508 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 22.8 |
+| 7beb0e0b-9da1-35ca-80b6-830896a911c8 | -10.95547 | -46.38459 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 188031bb-71af-397a-8a64-c241c04713eb | -10.95405 | -46.39414 | 2024-09-30 12:34:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.9 |
+| 7d6eb522-f0c3-3284-b348-fd54f7c841e6 | -13.53399 | -47.57296 | 2024-09-30 12:34:00 | TERRA_M-T | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| d6a9ab09-d130-3a3e-ab85-048f1b087a32 | -13.53242 | -47.58326 | 2024-09-30 12:34:00 | TERRA_M-T | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| a04cd8d5-2364-3623-95fe-52232bd0144c | -13.52461 | -47.57156 | 2024-09-30 12:34:00 | TERRA_M-T | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 7074ea79-61c9-3701-9367-5f244c08e755 | -12.81414 | -47.45415 | 2024-09-30 12:34:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 0a583dfb-f2f2-3dd1-9d95-f05ad452bb23 | -12.80474 | -47.45265 | 2024-09-30 12:34:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 12.8 |
+| d093a214-8ea3-3f7d-8b6e-a780ab8a727a | -12.53057 | -47.97068 | 2024-09-30 12:34:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 62.0 |
+| 7e1f4e81-7285-3319-94b5-c401a842b9fe | -12.52086 | -47.96914 | 2024-09-30 12:34:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 22.6 |
+| e87ac6d6-eacd-31a0-a28c-bc530598cb8e | -12.48672 | -46.44189 | 2024-09-30 12:34:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| e3fb9944-a1a0-3d12-b707-ab18b6476fd2 | -12.47767 | -46.44054 | 2024-09-30 12:34:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| 32b11d2f-b0f8-325e-87d3-5e99c5473a6f | -12.47625 | -46.45004 | 2024-09-30 12:34:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 8365e075-b3dc-357b-8151-f7e4ab50be43 | -14.26167 | -47.09366 | 2024-09-30 12:34:00 | TERRA_M-T | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 5b1c264b-65fc-3e8d-a761-867d565cb177 | -14.25254 | -47.09225 | 2024-09-30 12:34:00 | TERRA_M-T | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| d1dfdb51-584a-3d43-80a9-64da722b0cea | -15.65419 | -47.21408 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 516aee7d-d6f1-3106-aa5a-64ca44c47e26 | -15.37137 | -47.43774 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| a9cc2c88-6416-3aa3-800a-7eb893d8750e | -15.32236 | -47.5237 | 2024-09-30 12:34:00 | TERRA_M-T | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 0aa852ee-5da7-378d-9958-fd2f060b42fe | -15.23974 | -47.57125 | 2024-09-30 12:34:00 | TERRA_M-T | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| ac145056-4ed0-3502-a1df-26db239733ea | -16.82631 | -47.6999 | 2024-09-30 12:34:00 | TERRA_M-T | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 64f8e445-e678-3145-8064-df47b780b21e | -16.82482 | -47.7097 | 2024-09-30 12:34:00 | TERRA_M-T | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| 32817e63-7406-358f-93b9-3ca9e195af73 | -18.87755 | -49.16065 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 280.7 |
+| 70a335d6-5b43-3f1a-bc01-ff08701605ea | -18.87582 | -49.17148 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 824.9 |
+| f90815c4-b7da-3f3b-9e4f-717517ed8195 | -18.8741 | -49.18225 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| 548d9c87-b852-3932-8260-29be922e9e79 | -18.86977 | -49.14803 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 160.4 |
+| 42f7b977-251c-3a8e-b4df-12f812a3a439 | -18.86802 | -49.15895 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 552.2 |
+| 31ef6a50-5dfb-32f0-8b79-aee862fcfc4a | -18.86628 | -49.16978 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 87.3 |
+| 8a5c68fc-c043-39bb-96b9-1e2c533dd327 | -18.86025 | -49.14627 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 123.5 |
+| 4df6feab-b6a0-3989-b547-74edd0258807 | -18.85849 | -49.15718 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 125.3 |
+| 9ee10206-08f4-3960-9d12-c3d4eb895c33 | -18.85729 | -49.13925 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| f329960b-5e68-3c2b-bb7f-33e73b851434 | -18.85559 | -49.1501 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Cerrado | 126.4 |
+| e4a80131-27dc-3950-a992-c8a0b2cbab1d | -18.88881 | -49.15149 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
+| f4aaa5e6-933a-3888-b4c5-8546efca27f7 | -18.88709 | -49.16231 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 156.8 |
+| 6af20be6-e0a9-3410-89a5-3f2f36708040 | -18.88538 | -49.17305 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 157.6 |
+| f47e6a4d-4538-3c8d-8a9e-e0256902259d | -18.88364 | -49.18396 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.1 |
+| fc487de8-1187-313a-a468-28646611e5c9 | -18.87929 | -49.14977 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE ALEGRE DE MINAS | MINAS GERAIS | Brasil | 3142809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 29.2 |
+| 17a6f9fc-5505-3b93-a266-8d3ca276a565 | -18.90085 | -48.19455 | 2024-09-30 12:34:00 | TERRA_M-T | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| c9498ffe-ed06-3c88-94f7-63ab4b2406b0 | -10.75886 | -48.74986 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 17.7 |
+| ef0239ad-20b7-3b32-8ae2-008df0412c05 | -10.75674 | -48.76334 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 16.6 |
+| 519fd1c2-8348-3c4c-84ae-1ac0bfd95bab | -15.35843 | -51.43077 | 2024-09-30 12:34:00 | TERRA_M-T | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 12.8 |
+| cf0daf5a-414e-3d47-93bd-53f547d703d3 | -10.74624 | -48.76167 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 17.1 |
+| 36a19dd2-9da7-37a0-b56d-617f81ca555b | -10.83608 | -48.12265 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 19.8 |
+| 5b95c583-6b6d-3598-beea-5983aeeb5bf2 | -10.82423 | -48.13263 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| efc5c242-4e16-35c4-85be-281f32673e45 | -10.73357 | -47.99187 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 13.6 |
+| f5ce3c58-9605-3701-a0cd-edeaa3628c33 | -10.71421 | -47.98275 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 13.9 |
+| 43c6d943-332f-3a40-bcc2-3915303e5d0d | -10.5726 | -48.03745 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 69.4 |
+| f8168b39-3d0c-3db2-9c00-92ab8aebf335 | -10.57069 | -48.04969 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 77.6 |
+| e81d5981-6851-3679-90d2-ecc573cf10fe | -10.56251 | -48.03636 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| ac94d6af-b7ce-3bab-ab29-09420824c990 | -10.56058 | -48.04865 | 2024-09-30 12:34:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 25.7 |
+| fa1dc0fc-8345-3735-b6af-e1d8f87f0070 | -10.45394 | -48.20676 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 46.9 |
+| df3fc79f-7b8e-382c-b982-2bbe47ddec03 | -10.45203 | -48.21896 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 55.2 |
+| fff06354-5aa3-3de2-83f4-235ddfda396d | -10.45012 | -48.23117 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| b416217d-bf32-3a39-b0cf-5ea25c8308fe | -10.44189 | -48.21724 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 68499238-4eb3-384a-8b9b-28e11ef0644a | -10.43166 | -48.2161 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| a5e49322-9c04-3705-9b97-780f707cfd82 | -10.41738 | -48.18296 | 2024-09-30 12:34:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| 84f6db88-1fc1-3cff-8323-4d74514c71c4 | -13.50006 | -48.59148 | 2024-09-30 12:34:00 | TERRA_M-T | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 0ea8c128-1278-372d-8adb-3cf2f6829b96 | -13.49862 | -48.59706 | 2024-09-30 12:34:00 | TERRA_M-T | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 20.7 |
+| b588c1ca-b421-384f-9006-c5eba7ccf7a0 | -13.49815 | -48.60336 | 2024-09-30 12:34:00 | TERRA_M-T | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| b1ab25be-cc87-3a90-9f47-4453db1166ca | -13.48502 | -48.61906 | 2024-09-30 12:34:00 | TERRA_M-T | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 9ed14b26-0078-3075-bce5-446a657b5fd2 | -13.4533 | -48.62585 | 2024-09-30 12:34:00 | TERRA_M-T | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| bab1ed82-f597-33a7-bb2d-97de5a7c63d9 | -13.20821 | -48.55433 | 2024-09-30 12:34:00 | TERRA_M-T | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 18.0 |
+| 90cd5199-3cd7-3c62-9e69-7ce127a240da | -13.19376 | -48.51617 | 2024-09-30 12:34:00 | TERRA_M-T | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 22.1 |
+| 80eb4edc-7e6a-338f-8265-dc193aa1a317 | -13.19202 | -48.52725 | 2024-09-30 12:34:00 | TERRA_M-T | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 32.5 |
+| 0ef00f0c-7846-3b79-a6b2-4dede1d36635 | -13.20627 | -48.56683 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 109.9 |
+| 7b067fea-c179-39ef-a2b2-93d20aa3e5e6 | -13.19823 | -48.55286 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 16.1 |
+| c5e1a6a2-556e-3c4b-a951-3332c3bfdfa1 | -13.1963 | -48.56527 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 151.8 |
+| fd778fcd-7444-3e18-b9fc-2b50cd412896 | -13.19444 | -48.57714 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 305.2 |
+| 1b511e22-e6e4-3b6b-8de8-a9a47959db29 | -13.18825 | -48.55135 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 24.9 |
+| 994ff5a9-3211-3599-ac98-92726b56e524 | -13.18632 | -48.56367 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 25.5 |
+| e8c7a99f-a384-3078-92e3-a9837404ef7f | -13.04417 | -48.61906 | 2024-09-30 12:34:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 13.9 |
+| ea9d2bc3-b9fa-371d-9f86-ce515b38c823 | -12.95671 | -48.52486 | 2024-09-30 12:34:00 | TERRA_M-T | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| ee1e1c96-1ba9-3822-a14e-f60cc943547c | -12.95554 | -48.531 | 2024-09-30 12:34:00 | TERRA_M-T | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| e04f22df-e729-3552-bfc5-5f87ad2c8087 | -12.52887 | -47.98161 | 2024-09-30 12:34:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 42.6 |
+| 9d5f998c-735a-3511-b4f3-99c56e7d4658 | -12.51916 | -47.98005 | 2024-09-30 12:34:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 122.3 |
+| fa5dec6b-eb74-392f-97bf-9c653fc7ed92 | -14.76473 | -48.76698 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| a1ce778c-5a83-3f24-b41e-98d3baabe086 | -14.76433 | -48.76147 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 55.1 |
+| 3de0bfdb-8f42-37cf-913c-59f7103d3f8b | -14.76293 | -48.77815 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 50.8 |
+| 7a566b91-b5ad-3244-8830-b5e87a8ba98d | -14.76268 | -48.77206 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 86.4 |
+| d0657f9c-c6a1-31e1-b493-7776b4fe2037 | -14.7579 | -48.73785 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 26.2 |
+| e0635ff7-9b72-3d94-afd7-d014a2b57d4c | -14.75617 | -48.74896 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 57.9 |
+| 1d2065b1-4e65-320e-9c53-1c9e50735dc2 | -14.75446 | -48.75992 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 286.7 |
+| 9ea76105-1783-3e12-b854-98846daaba9c | -14.75277 | -48.77068 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 138.9 |
+| 00570e8e-4818-396d-b7f5-503df242d736 | -14.74802 | -48.73643 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 30.6 |
+| 8ce59488-95cf-3b78-bb2a-1da3ebb75f25 | -14.74627 | -48.74762 | 2024-09-30 12:34:00 | TERRA_M-T | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 39.5 |
+| ef41280f-f46c-3a6e-a2c1-21d2fa5262a9 | -16.46369 | -48.9759 | 2024-09-30 12:34:00 | TERRA_M-T | ANÁPOLIS | GOIÁS | Brasil | 5201108 | 52 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| d6fff37b-4274-3873-afd7-da482187e6c2 | -16.46192 | -48.98714 | 2024-09-30 12:34:00 | TERRA_M-T | ANÁPOLIS | GOIÁS | Brasil | 5201108 | 52 | 33 | nan | nan | nan | Cerrado | 132.1 |
+| b463ed40-a024-3be8-82d5-8ca6ae5fbbfd | -12.22036 | -50.4866 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 2ce3dba0-d6c5-3e68-9002-0943b9286b34 | -12.10091 | -50.01889 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 118.7 |
+| c1f7b6f0-598c-3b3f-a349-a0d1a3f5b200 | -12.09843 | -50.03402 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 320.0 |
+| f6908713-26ba-3565-bccf-483539499b77 | -12.09595 | -50.04917 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 153.6 |
+| ed62546b-4605-357e-8ce4-56a0ea01cbd6 | -12.08963 | -50.01702 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 89.1 |
+| 6dee6efc-5660-30b3-96aa-55900c7e3dd2 | -12.08713 | -50.03215 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 74.3 |
+| fadb2713-4d59-3c79-8ff8-d4662be3b88b | -12.07997 | -50.00848 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 19.9 |
 
 
 [Clique aqui para ver as próximas entradas](README75.md)

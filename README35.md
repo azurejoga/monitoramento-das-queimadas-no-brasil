@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 801da1e2-3b37-3107-b9f4-77e8b3c0d14e | -22.27749 | -48.66133 | 2024-09-29 04:06:00 | NOAA-21 | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | 17.9 |
-| 83927698-0ad9-35fe-b1e6-585c3c09d406 | -22.27446 | -48.65765 | 2024-09-29 04:06:00 | NOAA-21 | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.2 |
-| 55779d06-7dac-3942-966f-942b94628f8d | -22.2736 | -48.66042 | 2024-09-29 04:06:00 | NOAA-21 | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | 17.9 |
-| d617a1c5-ed9a-3238-93e0-8553a79ccbcd | -22.27346 | -48.66306 | 2024-09-29 04:06:00 | NOAA-21 | ITAPUÍ | SÃO PAULO | Brasil | 3522901 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.2 |
-| f90a0fbd-58b5-30e8-a86a-41c337a62e70 | -21.64281 | -49.75221 | 2024-09-29 04:06:00 | NOAA-21 | LINS | SÃO PAULO | Brasil | 3527108 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 78da74ff-216c-345b-904d-d51a9d3654f5 | -21.64199 | -49.75632 | 2024-09-29 04:06:00 | NOAA-21 | LINS | SÃO PAULO | Brasil | 3527108 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| ea88ac45-9e8e-3bea-838e-34f868f90282 | -21.63421 | -49.6856 | 2024-09-29 04:06:00 | NOAA-21 | LINS | SÃO PAULO | Brasil | 3527108 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| e44e2851-da23-3ca6-944a-773792eb2ecf | -21.15925 | -48.91101 | 2024-09-29 04:06:00 | NOAA-21 | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Mata Atlântica | 50.4 |
-| 4bd80a0a-3893-3ca2-a4b1-df180a6f555e | -21.15595 | -48.90631 | 2024-09-29 04:06:00 | NOAA-21 | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Mata Atlântica | 50.4 |
-| 05456b8d-c520-3eac-ad42-feed43ed3bac | -21.15522 | -48.91012 | 2024-09-29 04:06:00 | NOAA-21 | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Mata Atlântica | 50.4 |
-| 5155c26b-e7fb-37d0-aab0-bf4aaa3a6de4 | -21.15449 | -48.91388 | 2024-09-29 04:06:00 | NOAA-21 | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.2 |
-| 08e7a188-d97f-3cb9-bb85-754135392aac | -21.15119 | -48.90921 | 2024-09-29 04:06:00 | NOAA-21 | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 4ec66584-601e-3deb-93eb-2bf7f3dfe069 | -21.09588 | -49.13614 | 2024-09-29 04:06:00 | NOAA-21 | IBIRÁ | SÃO PAULO | Brasil | 3519402 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 4a957d02-3300-338a-aec2-f537fddae477 | -21.09448 | -49.13524 | 2024-09-29 04:06:00 | NOAA-21 | IBIRÁ | SÃO PAULO | Brasil | 3519402 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| f2a8af9f-7476-38a9-b729-50e13e7aa1a4 | -21.09182 | -49.13511 | 2024-09-29 04:06:00 | NOAA-21 | IBIRÁ | SÃO PAULO | Brasil | 3519402 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 56da8ddc-4406-342b-bd99-06b536351a08 | -23.37539 | -50.22877 | 2024-09-29 04:06:00 | NOAA-21 | JUNDIAÍ DO SUL | PARANÁ | Brasil | 4112900 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 5ab82ace-154e-3638-8d02-0b92639ca13d | -23.37202 | -50.22361 | 2024-09-29 04:06:00 | NOAA-21 | SANTO ANTÔNIO DA PLATINA | PARANÁ | Brasil | 4124103 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 6bf056d3-5e65-3f39-a718-cacf978bf899 | -23.37121 | -50.22771 | 2024-09-29 04:06:00 | NOAA-21 | JUNDIAÍ DO SUL | PARANÁ | Brasil | 4112900 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 759303af-b6d1-3f8d-9aff-a69d8c7edfb9 | -23.37035 | -50.23212 | 2024-09-29 04:06:00 | NOAA-21 | JUNDIAÍ DO SUL | PARANÁ | Brasil | 4112900 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| aac37729-b9f7-3117-9559-aeec630eae7d | -22.54122 | -48.81131 | 2024-09-29 04:06:00 | NOAA-21 | MACATUBA | SÃO PAULO | Brasil | 3528007 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| c63d9ab0-858a-37cd-a09e-ceace58adac0 | -19.08097 | -50.8799 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| ae62f8f8-d615-3ece-a9fa-9a2f3921e518 | -19.07727 | -50.87365 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 103.8 |
-| c9a53a94-a271-395d-97b2-886838a48e90 | -19.0762 | -50.87895 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 103.8 |
-| ff6e49c1-e27f-32c9-9387-1db071685ff5 | -19.07513 | -50.88427 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 55503a60-094e-38b5-ab88-a8ba7e68aedf | -19.07357 | -50.86737 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 071f0932-3677-356e-8ff1-545a50e4dce5 | -19.07251 | -50.87266 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 103.8 |
-| a475c52d-566b-32f3-9a19-5dee025730bd | -19.07144 | -50.87799 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 103.8 |
-| befbcc8c-1022-3ea5-aae9-fbc6f2149eee | -19.07036 | -50.88336 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| a4b4eeb8-e6ab-3a8d-a930-9c34ee792c8d | -19.06926 | -50.8888 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 1fd162be-448a-3895-b5d4-1564f59fee72 | -19.06775 | -50.8717 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 65f4db8d-891b-32d6-972f-e437c7509f41 | -19.06667 | -50.87706 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 9a3a09da-d0d7-39fb-821a-36484021750d | -19.06558 | -50.88247 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 04836224-794f-3d0f-a886-bd270d87f1c9 | -19.06298 | -50.87077 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| bd4c4c7e-4741-3663-a999-2b44784914e2 | -19.0619 | -50.87614 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f04fda7c-c656-35a7-b89f-a6d4d235bf29 | -19.05821 | -50.86984 | 2024-09-29 04:06:00 | NOAA-21 | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 7f718af8-779a-3b06-81bc-bd22115f2c15 | -19.57293 | -49.74841 | 2024-09-29 04:06:00 | NOAA-21 | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 1b9f9e63-1bf6-37cc-8747-6e12ddaef13c | -19.57205 | -49.7528 | 2024-09-29 04:06:00 | NOAA-21 | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| c6e7d86c-ac47-313b-a090-fe65c0f7b33f | -20.71947 | -50.62266 | 2024-09-29 04:06:00 | NOAA-21 | AURIFLAMA | SÃO PAULO | Brasil | 3504206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| d0c2b6e0-6880-34f0-a250-a6f886fde077 | -20.7185 | -50.62744 | 2024-09-29 04:06:00 | NOAA-21 | AURIFLAMA | SÃO PAULO | Brasil | 3504206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 33846cd3-bace-3583-a0e0-eca9d06ff8b6 | -21.26651 | -50.31018 | 2024-09-29 04:06:00 | NOAA-21 | BIRIGUI | SÃO PAULO | Brasil | 3506508 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 1b0afa74-36bc-3f7b-b3b1-ad7a3ac4aba4 | -23.39237 | -51.12457 | 2024-09-29 04:06:00 | NOAA-21 | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 6da91abf-2530-31be-99af-34650b283541 | -22.42667 | -51.373 | 2024-09-29 04:06:00 | NOAA-21 | TACIBA | SÃO PAULO | Brasil | 3552908 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 640e324b-86ed-3ff2-a988-d4e8404cc0f5 | -24.24201 | -50.74038 | 2024-09-29 04:06:00 | NOAA-21 | ORTIGUEIRA | PARANÁ | Brasil | 4117305 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 3f0fc426-e8ad-3a91-8544-e1e65b8a954c | -18.84155 | -54.5033 | 2024-09-29 04:06:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 0f90bebb-7cab-31b5-b8d7-c0b71b49835c | -18.8404 | -54.50843 | 2024-09-29 04:06:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 53205867-3b70-3f98-b680-a9227ae57524 | -22.17078 | -56.03763 | 2024-09-29 04:06:00 | NOAA-21 | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 29828662-f3d9-311f-9278-71166cdffbc8 | -22.16479 | -56.03566 | 2024-09-29 04:06:00 | NOAA-21 | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| fc927dbe-a12c-37ac-b8d1-114d686543d6 | -22.16346 | -56.04119 | 2024-09-29 04:06:00 | NOAA-21 | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 8b97ec2f-82d6-33e3-bdff-bc2b03670746 | -23.92789 | -55.40075 | 2024-09-29 04:06:00 | NOAA-21 | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| a187b2f6-ea02-3d3e-9fe9-2451c030f01d | -23.92431 | -55.39641 | 2024-09-29 04:06:00 | NOAA-21 | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| e727be96-ee7f-3048-b3d4-5cc75ad5bc2c | -23.92332 | -55.40058 | 2024-09-29 04:06:00 | NOAA-21 | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 9440c40b-6c64-3a6f-87ba-746efaacd3dc | -21.0107 | -57.51077 | 2024-09-29 04:06:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 4.6 |
-| 1f0f6120-9da7-3b9a-a24b-1bca09768fe3 | -21.01041 | -57.50679 | 2024-09-29 04:06:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 82a8d157-ee14-3d62-bf63-176cd6677e40 | -21.00891 | -57.51294 | 2024-09-29 04:06:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| ed81ef56-be96-361e-8c4f-591014eac10f | -21.00388 | -57.50938 | 2024-09-29 04:06:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 8b03a9a1-34dc-3d40-9f61-e6ef5debedb5 | -20.44089 | -42.00705 | 2024-09-29 04:06:00 | NOAA-21 | LUISBURGO | MINAS GERAIS | Brasil | 3138674 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| e0915615-14e1-346d-a099-c29bc87a2998 | -20.43811 | -42.00278 | 2024-09-29 04:06:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 630ce240-c5e1-373e-9540-14655759d890 | -20.43535 | -41.99834 | 2024-09-29 04:06:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| edaeeedd-db11-3116-83c2-9431ee61422b | -20.43477 | -42.00219 | 2024-09-29 04:06:00 | NOAA-21 | ALTO JEQUITIBÁ | MINAS GERAIS | Brasil | 3153509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 3a424275-66fc-3f7b-988d-8e1bfa469377 | -21.32231 | -41.73842 | 2024-09-29 04:06:00 | NOAA-21 | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| a64061f5-9fea-3516-bc29-334bfce376d1 | -21.31948 | -41.73403 | 2024-09-29 04:06:00 | NOAA-21 | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 7a3d6168-e0b3-38d0-9f99-42ce98ef3242 | -21.31892 | -41.73787 | 2024-09-29 04:06:00 | NOAA-21 | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 3f01473b-f41d-3169-b6e8-989e2316bbc7 | -21.3161 | -41.73347 | 2024-09-29 04:06:00 | NOAA-21 | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| d946523e-76d1-3e7b-9dc7-05f4a8878f38 | -22.60217 | -42.2109 | 2024-09-29 04:06:00 | NOAA-21 | ARARUAMA | RIO DE JANEIRO | Brasil | 3300209 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| e9292ce6-2e52-325c-b9fe-927eaca5bd31 | -20.41586 | -43.55261 | 2024-09-29 04:06:00 | NOAA-21 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| d7aa8b1d-943d-390f-959f-e5aed403b747 | -20.45947 | -44.54672 | 2024-09-29 04:06:00 | NOAA-21 | ITAGUARA | MINAS GERAIS | Brasil | 3132206 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 5d6bed1e-e94b-300d-83ae-c53eb9b2cc82 | -20.15294 | -44.91198 | 2024-09-29 04:06:00 | NOAA-21 | DIVINÓPOLIS | MINAS GERAIS | Brasil | 3122306 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 724eddd3-44ab-3373-8bca-ed1712375885 | -20.25759 | -44.07053 | 2024-09-29 04:06:00 | NOAA-21 | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| aa29adc9-62f9-336f-8712-f08e21f9d4da | -20.12914 | -44.48272 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| b2880f0c-4a33-3f79-9387-227e5c5e4488 | -20.12579 | -44.48211 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 253dbe5d-4ec0-3848-a4aa-e5800a756448 | -20.12454 | -44.48965 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| d44913b2-c0b9-32a5-b56b-ce96fa67346f | -20.12392 | -44.49345 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 204ac782-54b7-3260-a2fe-5f57b1c3e0a5 | -20.12305 | -44.47778 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| c14d70e4-a965-314f-a1fb-753c4c0dde07 | -20.12244 | -44.48151 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 7cf025ba-ca9c-3a2d-a35e-5952868386db | -20.1212 | -44.489 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| c116ff95-6c63-3e23-9a9d-9ce7b1b928f5 | -20.11969 | -44.4772 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 0af859b7-eeda-370c-96fb-8483b1f7b5b8 | -20.11908 | -44.48092 | 2024-09-29 04:06:00 | NOAA-21 | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 55b7ae6a-ca75-37da-aff0-db3568b78ab2 | -22.76553 | -45.66082 | 2024-09-29 04:06:00 | NOAA-21 | CAMPOS DO JORDÃO | SÃO PAULO | Brasil | 3509700 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 2a7c97fe-0694-30f5-a34f-0d69d8f15475 | -27.48814 | -48.39405 | 2024-09-29 04:08:00 | NOAA-21 | FLORIANÓPOLIS | SANTA CATARINA | Brasil | 4205407 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 29b4fec5-9d22-3d53-a87e-6bcae3a78290 | -26.36728 | -49.95016 | 2024-09-29 04:08:00 | NOAA-21 | ITAIÓPOLIS | SANTA CATARINA | Brasil | 4208104 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 2fedc3a6-6282-360c-8ac0-44d2b18164c4 | -26.28139 | -50.28244 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| e093b730-479e-306e-9015-6dee93a70c93 | -26.28062 | -50.28632 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| b2a945a9-f6cc-3151-92d5-77c3c1fe71e7 | -26.27986 | -50.29018 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| a5ba5ccd-8dca-3713-b98f-98db4ab20689 | -26.2774 | -50.28149 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 8afbb3c2-e91f-34ca-9e24-8149f7ca9ad6 | -26.27587 | -50.28923 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| c553a710-8f06-36e0-891b-edd98a893ea4 | -26.27496 | -50.27273 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| aca43b68-df49-3cb2-abd6-191e6ae80f90 | -26.27175 | -50.26788 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| e2326721-7440-3e8c-94c2-b15bd0c8980f | -26.26776 | -50.26695 | 2024-09-29 04:08:00 | NOAA-21 | TRÊS BARRAS | SANTA CATARINA | Brasil | 4218301 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 0c3e3a06-9e15-34ee-87c4-1f8586037f69 | -29.816 | -51.17709 | 2024-09-29 04:08:00 | NOAA-21 | SAPUCAIA DO SUL | RIO GRANDE DO SUL | Brasil | 4320008 | 43 | 33 | nan | nan | nan | Pampa | 1.2 |
-| b539715a-3985-3203-875c-c5a380968043 | -26.02816 | -53.75692 | 2024-09-29 04:08:00 | NOAA-21 | PRANCHITA | PARANÁ | Brasil | 4120358 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 1795d43f-ab1f-3543-9554-89b487fa1445 | -3.95682 | -41.48788 | 2024-09-29 04:23:00 | AQUA_M-M | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 43.6 |
-| edff11d0-d9a3-3cdf-9e0d-7b1a6e403d8d | -3.94848 | -41.49133 | 2024-09-29 04:23:00 | AQUA_M-M | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 74.6 |
-| 1dfa0d9f-b6eb-388f-b042-2411759b3a39 | -15.83767 | -42.15649 | 2024-09-29 04:27:00 | AQUA_M-M | TAIOBEIRAS | MINAS GERAIS | Brasil | 3168002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 46.5 |
-| 6e18eabf-b28b-382b-ad4c-da83589d660f | -15.8288 | -42.16198 | 2024-09-29 04:27:00 | AQUA_M-M | TAIOBEIRAS | MINAS GERAIS | Brasil | 3168002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 49.5 |
-| 47ebf168-98ff-327f-a6dc-09ed6c273a9c | -12.80671 | -44.79499 | 2024-09-29 04:27:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 50.3 |
-| ec65fb3f-4133-3026-be5c-52977584f031 | -12.80435 | -44.8024 | 2024-09-29 04:27:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 72.1 |
-| 3eabd086-7815-301d-971f-f949e0371546 | -19.74136 | -41.62223 | 2024-09-29 04:29:00 | AQUA_M-M | TAPARUBA | MINAS GERAIS | Brasil | 3168051 | 31 | 33 | nan | nan | nan | Mata Atlântica | 28.1 |
-| b3727c9b-ae57-3d44-81b0-f555692db446 | -19.73676 | -41.61581 | 2024-09-29 04:29:00 | AQUA_M-M | TAPARUBA | MINAS GERAIS | Brasil | 3168051 | 31 | 33 | nan | nan | nan | Mata Atlântica | 26.7 |
-| ade9ce7e-d580-3728-a334-e579f2e3e6c0 | -18.83144 | -41.9515 | 2024-09-29 04:29:00 | AQUA_M-M | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 34.3 |
-| c304ed55-92f2-3f54-b0de-55c1d30ddbe6 | -18.82985 | -41.95858 | 2024-09-29 04:29:00 | AQUA_M-M | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 47.2 |
+| 299660ae-1049-389c-adb8-b05351df92e4 | -10.88255 | -46.03536 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 71e821eb-dff0-3e4b-963d-2e853de30ec8 | -10.88195 | -46.03934 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| d782060d-7c9b-3b7b-b783-27d89dbb2423 | -10.88136 | -46.04334 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| d877cde6-c6db-3a54-9436-7e6a282c8399 | -10.8802 | -46.02685 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 88b955a5-f500-31e7-88a0-2c161b869963 | -10.87961 | -46.0308 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c2737636-7b60-373b-baca-9b1d2ad75b77 | -10.87376 | -45.99722 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 6303047c-9506-3d5f-b83a-666c6a8bb092 | -10.87373 | -46.02181 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 4defa09e-4cf9-339d-ab06-425106fffd3e | -10.87141 | -45.98862 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a857f4af-7f08-3806-b3eb-8fc08e9a6bb8 | -10.87079 | -46.01728 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 7ef2fdab-481e-305d-9392-0fcc0cd5ed5e | -10.86907 | -45.98001 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| bc281b66-8d3e-3d39-b8b7-23532f2e08e2 | -10.86847 | -45.98405 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| c736d1b5-c20c-3f3a-8eff-723dd3b18eb8 | -10.86613 | -45.97543 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| e119acb5-0127-3cf7-9a12-e62c12368d21 | -10.86553 | -45.97947 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 89ea6157-3823-3bb3-a23c-af87c545848a | -10.86259 | -45.97489 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f0a27964-ffbd-3243-ab58-a89e6c04f99f | -10.85964 | -45.97031 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 6196d8e7-b442-3d74-ab0c-4619870032fb | -10.8561 | -45.96977 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e614e271-f57e-3eaa-9318-54505cb8b877 | -10.85256 | -45.96923 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 62c00f77-3d4d-3a5d-aa99-8c4f6a0e49e3 | -10.85021 | -45.96059 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 7a6ba47d-7785-3815-b042-4625a3ac73fa | -10.84962 | -45.96464 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 538257ea-d729-3211-a490-7454bbd5acd0 | -10.84667 | -45.96005 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 4b413105-3ee9-3184-91d3-376dbbd2069f | -10.84313 | -45.95948 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| a686a1e2-cef7-3654-8cd5-7070955abcdf | -10.8396 | -45.95892 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f8e8e510-a805-3f8e-8e78-ea1510e469b0 | -10.83252 | -45.95779 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b2278cf1-7e2a-32cc-b75f-275e4584a740 | -11.248 | -45.66262 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| ae737d96-371a-3769-9c2a-16582a34c4bd | -11.2474 | -45.66678 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 00b78f37-fe72-3e67-85ab-4bcfe6b1e6a2 | -11.24563 | -45.65365 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 8c793d7d-1fe5-3008-8f1a-1bf508d8b283 | -11.24504 | -45.6324 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 52a3c255-67df-312e-a810-06396452699d | -11.24502 | -45.6578 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 7b17d743-c0eb-335e-a113-12cb7f6cbaa7 | -11.24441 | -45.66198 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e9a57335-b190-35c7-8dca-fe8f0427673e | -11.24382 | -45.64072 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 1eda605d-9fea-3356-b90c-6dfcc592592f | -11.2438 | -45.66618 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| dc5f2e21-7f7c-3463-ae23-5d0e99bdcc8a | -11.24322 | -45.64487 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a3ba4995-0496-3175-8892-b9d2714ce1f9 | -11.24318 | -45.67039 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| b977aecc-136f-36fa-87dc-932d224c4f82 | -11.23784 | -45.63115 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 7bcf7898-c7a2-3cae-822c-4ed1b51dd459 | -11.23483 | -45.6264 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 4f122810-5c95-3931-b178-b7025f3ab48d | -11.2342 | -45.65612 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| d876e301-611c-3e3c-a61e-f0fe16fabc5d | -11.23059 | -45.65562 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c956495d-efc6-3b51-a379-f3d87bcf9087 | -11.22882 | -45.61691 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| d1e4861f-93d7-3f56-8f6e-c8e90ece6e2b | -11.2222 | -45.61161 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c64aead5-b9e4-373d-80b6-def9b641a0c9 | -11.21972 | -45.65427 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| ef6a4c4a-2fd3-3907-9cbf-6eea3b9a4bde | -11.21911 | -45.65852 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 5fc3b1ec-045a-3441-b8fe-01e50a65de77 | -11.218 | -45.6407 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 3dd85bc5-9405-3205-830f-9b9ccfc9369f | -11.21613 | -45.65366 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| dbbc3a2c-c620-37eb-a6cd-6f54ec2ab7c9 | -11.21551 | -45.6579 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 3a07f4a6-4c69-3a9c-813c-cb5ad22c355d | -11.2149 | -45.66211 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| f1c5c78e-64a5-3a39-98ed-a3fd5e1b8c96 | -11.21438 | -45.64017 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 0b5ab195-3682-3b2d-9b64-ba5a6155ac1e | -11.21429 | -45.66634 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 22.0 |
+| b7ca8886-93fc-32ab-829b-544097ee22b3 | -11.21139 | -45.63536 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 0475fac0-adda-3a39-a213-9e058e277568 | -11.21131 | -45.66148 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 727b7f84-786b-3a55-941c-789bc4c46a4d | -11.21126 | -45.68735 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 02bd971b-6ada-3e51-97c5-7f626da14d8a | -11.21077 | -45.63962 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5ac0d4dc-8d3c-39f8-a93a-6954c084841f | -11.2107 | -45.66571 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 22.0 |
+| 550d1776-f895-3698-bdc4-4e126fc9d7e7 | -11.21005 | -45.69569 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 7ca2b193-b0ce-33a0-afca-a2c58487889c | -11.20944 | -45.69992 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| e2b26dcf-f811-3749-9390-8a0ce1bb108f | -11.20882 | -45.70417 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| e20ed0c8-202e-3e0e-b2cc-287292ef726a | -11.20839 | -45.60489 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cc5496e7-d94a-34b6-b6c3-6d245f43d490 | -11.20827 | -45.68254 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 2a20dd0e-25bc-38ca-953e-de422e44c794 | -11.20766 | -45.68674 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 39d95353-e4bc-37f1-84c6-157f8123a5fa | -11.20644 | -45.69516 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 03392804-8a9c-3e13-b9b3-9ff54b51ed7a | -11.20583 | -45.69943 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| 2b42bcb5-f198-351b-b45d-3756fe83cfa8 | -11.20478 | -45.60424 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b20fd0b7-2846-3058-b624-85fea4a20f55 | -11.20347 | -45.60517 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 8c172701-67ab-3e9b-b032-d40dbd68987b | -11.20116 | -45.62948 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 71d85189-aca9-36b2-af3a-5f2914e2e2ad | -11.20055 | -45.63375 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d9b02bed-5d41-3561-9290-889227a0f01c | -11.19971 | -45.6304 | 2024-09-30 04:32:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| f241b500-e923-36d0-8e2f-7aa8d99da5f3 | -13.17379 | -45.45723 | 2024-09-30 04:32:00 | NOAA-20 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 68e12a12-d12e-3f5b-9cd2-f78ab46f2281 | -13.17183 | -45.45513 | 2024-09-30 04:32:00 | NOAA-20 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 92de6d77-fea5-3515-a6c2-a6cbca4f2a7b | -12.72905 | -46.41842 | 2024-09-30 04:32:00 | NOAA-20 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 472caea9-b167-3c01-a518-c763947f556a | -12.72846 | -46.42245 | 2024-09-30 04:32:00 | NOAA-20 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 50e99590-a04a-3496-bb88-0c60630ba79c | -12.72493 | -46.42187 | 2024-09-30 04:32:00 | NOAA-20 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 88c9d9e9-647b-3639-a932-ea0ff89a0c9b | -12.72434 | -46.42595 | 2024-09-30 04:32:00 | NOAA-20 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| a929173e-9e32-351d-9510-9259bddc45b8 | -13.25653 | -46.36334 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a889d50b-55b4-31e2-9d69-4c668a06d07f | -13.2537 | -46.36387 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 7359201a-e51b-3e2b-90fe-7d50e11da97d | -13.25296 | -46.3628 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| dd3ca936-4fef-3b3a-b68d-2659f44217a7 | -13.25238 | -46.36687 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 067de774-fdbf-3d39-89c4-2a0dc370e2ca | -13.25195 | -46.35104 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e4cab990-404b-361e-b90a-a506390a204e | -13.25134 | -46.35518 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 4457c823-ab99-333b-a6be-51f9a84ca14b | -13.25074 | -46.35925 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 3645a346-29d0-35a6-ab6c-9acfa14b1e68 | -13.25014 | -46.36333 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 82c6ca37-00cb-345f-88d0-9d4966720674 | -13.24717 | -46.35871 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| fd965ea5-febd-3bc0-8e67-b122ba1d5d72 | -13.24186 | -46.34531 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 0edfa36b-e198-3597-9126-e498f7010a70 | -13.24064 | -46.35356 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 1c9231f8-c49a-32b5-87e0-510dd5a87e42 | -13.24004 | -46.35766 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| cc4be449-ff67-3b99-8f83-8cd882436ff4 | -13.20616 | -46.31506 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 328bdc4e-7f18-34d5-8eac-12d9f2b6ce89 | -13.20441 | -46.35222 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 45989b79-3128-3177-8619-974952c01a69 | -13.20261 | -46.3144 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 360ad3ed-9dda-3f6c-8da2-086b7f80d483 | -13.20204 | -46.31833 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 0f06ae7b-cce5-3ac6-86aa-488427e886b8 | -13.20146 | -46.32233 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 025bea2b-0725-3117-ad18-4a58a03c54cf | -13.20145 | -46.34755 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 95daf71b-6880-3393-8451-ad2825d2b4ec | -13.20087 | -46.32643 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 3e2c66c6-ed1c-323d-9973-3caaffda71c0 | -13.19962 | -46.30991 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d41298ca-06d2-33c1-8bfe-77b844c06d24 | -13.19848 | -46.3429 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 3212fc5f-f7ee-33d1-b4c9-93f5e7dd669e | -13.19788 | -46.34705 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a0ba68f9-cd90-3b62-b02f-74c70b33788e | -13.1973 | -46.32589 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 16.0 |
+| 28af4a3c-9038-31b3-8787-319eae95e1d3 | -13.19728 | -46.3512 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a35b1b40-8cdf-3f1d-9caf-fc3e76f93e05 | -13.19671 | -46.32999 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| d9f9b370-3458-3c33-b9c3-3164b5746a5c | -13.19668 | -46.35534 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 3dd650b7-1f42-3758-90b7-7e7821b04fa2 | -13.19611 | -46.33411 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| 605f5424-1b76-3272-9dc6-abcae254cb03 | -13.19608 | -46.35946 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| a930fa4a-60c8-399c-8a3c-a94a5e263570 | -13.19551 | -46.33825 | 2024-09-30 04:32:00 | NOAA-20 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
 
 
 [Clique aqui para ver as próximas entradas](README36.md)

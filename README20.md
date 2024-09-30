@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 86d695b8-fdb4-35fd-a95f-a6c85a92c277 | -3.08568 | -50.47502 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| 4b2fa7e9-f3ff-328b-9c2c-14e362f1f295 | -3.08489 | -50.47965 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| 3045745a-54cb-3697-b743-06f17aa49740 | -3.08409 | -50.48431 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 12.0 |
-| 7e7f9e63-4eec-3eb7-854d-232fe3dc3e18 | -3.07875 | -50.4786 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| e3a85e84-dbbf-320d-b4bb-fd5fe7f15cb6 | -3.07795 | -50.48329 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 8a2debac-2d66-3536-af03-44babcbb14ba | -3.07286 | -50.47735 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 1311d8c8-feb5-3e20-a8ad-9acfe3862c81 | -3.07261 | -50.47762 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| c578f01d-c1cb-3c38-9230-8e7387cc566a | -3.07208 | -50.48207 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| b9e527ad-69f9-370a-a725-00d11f629f3c | -3.0718 | -50.48232 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 212162c0-26a6-3d91-bfc7-8e48a36b52f4 | -3.0713 | -50.4868 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| ec1309aa-9481-35ef-9807-4c28cbac1120 | -3.07099 | -50.48705 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a2f75451-6166-351a-9c78-8fa683e4b62f | -3.06593 | -50.48108 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 730f960c-c0a2-38eb-b871-57bf1e5b9856 | -3.06565 | -50.48136 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| fe706976-e22a-31c6-b246-4a0f6f48c2d5 | -3.06515 | -50.48582 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 46ddbcb0-9afd-35d8-a1cd-ec410ea2d550 | -3.06484 | -50.48608 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| e48ea532-e076-3db0-8ea2-a74a7941849a | -3.05676 | -49.5603 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| daa114d8-7ccc-3b38-8565-ea7922bf319a | -3.05606 | -49.56446 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d1a14541-9dc5-3314-bb01-e21eda336bb0 | -3.03565 | -49.54428 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| 2c162e32-42cb-3229-9cc8-31812f2f6e69 | -3.03495 | -49.54844 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| 0e1e2946-6d67-31c4-b92a-64cc04afa773 | -2.90218 | -49.55731 | 2024-09-29 04:00:00 | NOAA-21 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 3a17b0d3-5865-3e5e-a508-e4c1c0de5207 | -2.90151 | -49.56062 | 2024-09-29 04:00:00 | NOAA-21 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| e150fc6b-245d-3f4b-8e24-6dec2c99145f | -2.90149 | -49.56136 | 2024-09-29 04:00:00 | NOAA-21 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| add4ee55-7d72-3611-88f8-8d5e70f8a436 | -2.89876 | -49.11544 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 84de88e8-c0b9-326a-91fb-0679e52022c3 | -2.89311 | -49.11455 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ac1bbab0-140d-3532-977d-9184b09b9a22 | -2.49033 | -49.0539 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 63e19ee3-9f4c-3d51-b6e2-d03ec6744e5f | -2.47861 | -49.15982 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 67d58c46-7aeb-36df-9451-ce74ed2082d0 | -2.47796 | -49.16375 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 434b91eb-4a77-3cb2-a2f9-1486e86e8fe6 | -2.47359 | -49.15485 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 124d4aa8-70a4-316e-8034-b049c56e8952 | -2.47293 | -49.15879 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| f44c4223-5601-385c-9e93-d5bc1fa3aa24 | -2.47228 | -49.16273 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 993883f8-e7f7-3129-a1a1-46565e3039ca | -2.46189 | -49.085 | 2024-09-29 04:00:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4890b4f3-033d-35ce-8e9f-7ad1d697b321 | -3.29901 | -50.66665 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| b3cb7351-2444-3993-9879-322ec8b5a8fc | -3.29819 | -50.67147 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| b88413f4-4d40-3086-be59-e24e3650d424 | -3.01265 | -51.0531 | 2024-09-29 04:00:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 5234ee8b-8621-30a1-8b25-08a8bf45dab8 | -2.9587 | -51.64821 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 44875ec4-bf03-3acd-9deb-5591b4fd3a96 | -2.95677 | -51.64887 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 5d5552da-c20b-3519-8042-7c121c1fc9ae | -2.88396 | -51.57927 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 80bc99b3-68b2-3846-834c-f6ecc4152add | -2.88254 | -51.57793 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| b9c91ad1-c0f4-3197-8cec-403ef71f7ac3 | -2.87908 | -51.67653 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 08b96b55-74dc-3fdf-9a16-263482f795ec | -2.87641 | -51.66559 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 3de2eccd-44eb-348b-bbfa-f126ad8a7ca5 | -2.87452 | -51.67704 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| 7de782f2-8b82-3488-840f-fb42fe906d25 | -2.87245 | -51.67543 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
-| 66db0ed0-7f3b-3576-8dea-bd3aa65618ea | -2.87146 | -51.68116 | 2024-09-29 04:00:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| c3215fed-7695-3b11-bc63-3b1876b62e79 | -1.87646 | -52.09372 | 2024-09-29 04:00:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| d8806e54-d5b4-324d-8cc9-ed99773084ea | -2.6846 | -52.43383 | 2024-09-29 04:00:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 8eb30ddc-a641-3561-bbe9-5be7322278f9 | -2.68347 | -52.44046 | 2024-09-29 04:00:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| dce71651-b4e8-3d05-92b3-bab59ed7397f | -5.62072 | -36.83301 | 2024-09-29 04:00:00 | NOAA-21 | IPANGUAÇU | RIO GRANDE DO NORTE | Brasil | 2404705 | 24 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 8046dd1d-7d11-3b26-a7c9-201bd38e28a1 | -5.62012 | -36.83704 | 2024-09-29 04:00:00 | NOAA-21 | IPANGUAÇU | RIO GRANDE DO NORTE | Brasil | 2404705 | 24 | 33 | nan | nan | nan | Caatinga | 7.9 |
-| af6dbddc-6bc3-3180-a054-f4900530a89f | -5.19847 | -35.61086 | 2024-09-29 04:00:00 | NOAA-21 | TOUROS | RIO GRANDE DO NORTE | Brasil | 2414407 | 24 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 8240eece-d810-3839-bdb7-ad9fe5583d47 | -5.07175 | -37.72347 | 2024-09-29 04:00:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 5f6f0a63-9c07-3f21-8b91-416ad8680b1e | -4.91503 | -37.48769 | 2024-09-29 04:00:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| a164c31e-c1a1-3184-abac-5c41c7ee7c30 | -5.13146 | -38.15312 | 2024-09-29 04:00:00 | NOAA-21 | LIMOEIRO DO NORTE | CEARÁ | Brasil | 2307601 | 23 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| cab97dcf-9c3d-38c0-953c-3fb23b6b82d4 | -3.04748 | -40.1188 | 2024-09-29 04:00:00 | NOAA-21 | BELA CRUZ | CEARÁ | Brasil | 2302305 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 71dd539f-108c-36e1-a7de-5847313a41d7 | -2.95843 | -40.12281 | 2024-09-29 04:00:00 | NOAA-21 | ACARAÚ | CEARÁ | Brasil | 2300200 | 23 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 3bd97a4b-bd32-379b-a2d4-241d00eb6705 | -3.96468 | -41.48688 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| 84fecab5-6035-34fa-b4f3-2b0774206eb5 | -3.96004 | -41.49387 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 9.6 |
-| 1ba8d533-6851-3cfb-8706-a6771fa97359 | -3.9566 | -41.49335 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
-| d263249f-659d-3753-9a10-8717cdeacf99 | -3.95646 | -41.51648 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 68350575-b272-3290-89ea-d3cc72b1b503 | -3.956 | -41.49712 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| 219df489-bd68-36b6-8ebe-1ff0e1542ace | -3.9554 | -41.50088 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| f0eda459-0ae4-3ca6-a8b2-3393bfdf7de0 | -3.95301 | -41.51596 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 8a191946-870a-342c-95f2-b3028e45c059 | -3.95256 | -41.49658 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| 57db41bc-a4a6-396f-9381-31597f8fff9a | -3.95241 | -41.51973 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| d7eff2e4-dbbf-3cfa-a8b1-51e1996281d9 | -3.95196 | -41.50035 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| 1773e18b-3f49-3f2a-92ec-446e04f36c4f | -3.95181 | -41.52351 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| fa147b0d-c01b-3881-ae70-b5fd57c60e9e | -3.95076 | -41.50788 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 1ac65341-3f1b-3bff-ac8f-117f7c166ebb | -3.95017 | -41.51165 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 4f340498-9056-34bc-ad2d-1068ebe60fe3 | -3.94957 | -41.51542 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 1ee287e1-6900-354a-98ff-247fe3ce7385 | -3.94896 | -41.5192 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| 2a586a94-b8dd-391f-9b9e-f8a0c3b45d18 | -3.94792 | -41.50358 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 7.9 |
-| c2648fce-524d-3793-8af7-3f7b20222b97 | -3.94732 | -41.50735 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 7.9 |
-| 88635d17-0184-37aa-bb08-71b3f51071ec | -3.94672 | -41.51111 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 24548ec1-ecbd-3319-a156-b17a048bdb84 | -3.94612 | -41.51489 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 78b06924-acf4-3ace-9003-83a2c7707d3a | -3.79952 | -41.59624 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| cba590e4-3040-3f08-9a93-8a1e5c690cf5 | -3.79891 | -41.60005 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 5dc895ec-b262-339d-adfa-5dd3d02af081 | -3.79728 | -41.58808 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 8253b476-9b21-3a0e-a9bb-3cc1d52ab1bc | -3.79667 | -41.59188 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| e6b8b7ee-df99-38c2-8b1b-fd2627eed94a | -3.79606 | -41.59568 | 2024-09-29 04:00:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 2fce5354-29b4-3f20-a8fd-5e31727632ce | -10.25812 | -43.56624 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 7c01c88a-052e-343b-9700-e4b782c0ad83 | -10.25613 | -43.57825 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 4c2e813c-d883-3dfb-a561-8b93a8b74cb2 | -10.25547 | -43.58224 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| a2fd9f43-dfdc-356c-82dd-0aa4b253572a | -10.25525 | -43.56163 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 5aa0b3f7-0fff-3fa0-91a0-8e5fd4bc334b | -10.25482 | -43.58622 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 6e14e4a9-bad2-3914-9032-9d192cf59d07 | -10.25459 | -43.56564 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 3da63c89-1901-3b62-b0ba-d5ea16aa2620 | -10.25393 | -43.56965 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 702423de-c62d-3412-8bed-ad83643f2f66 | -10.25326 | -43.57366 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b43cf9df-769f-3f46-aba4-2724cdadcbc6 | -10.2526 | -43.57766 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 2bb2b291-d550-3bd2-a81f-3ba70a902a75 | -9.48617 | -44.07621 | 2024-09-29 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 2dcee659-ff86-33c1-99fe-8d0d770155a9 | -9.48396 | -44.06705 | 2024-09-29 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 95394893-993a-3a69-8035-90a03c9348ac | -9.48106 | -44.08427 | 2024-09-29 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 75befb35-4d63-3ae4-9d8b-92e12c941392 | -10.13064 | -43.37271 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 1533ee37-0876-3081-a8b2-2f03df36de69 | -10.28281 | -43.57042 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4bb6845a-c759-36a2-925f-c97ddc50559f | -10.27553 | -43.54855 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| c50e61d4-fe6f-3058-85be-d4f62ff688c6 | -10.26297 | -43.55881 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 81f894e0-ea10-35fb-b2fc-b33be7eb5642 | -10.25944 | -43.55822 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| e57a2b23-7397-3176-ab62-78d7846e5323 | -10.25878 | -43.56223 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 2337c975-0a75-343c-805c-1a6adeeb45d9 | -10.25194 | -43.58166 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| afc0f4eb-c6fa-3d7f-9b2b-ba88d2add447 | -10.25128 | -43.58564 | 2024-09-29 04:02:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 8f8f9b51-e697-359f-954b-19da362a86bf | -10.2504 | -43.56907 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 1cf7b099-5afd-35d8-ac94-9d8042ff7b90 | -10.24973 | -43.57307 | 2024-09-29 04:02:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 617a0eb3-2b2f-3c96-823a-cb16a89ca5c5 | -13.18251 | -48.55981 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| a5e1ec8b-a762-36fd-9484-11c5a5ba48e6 | -13.18133 | -48.56556 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| ba931906-18e9-33f6-aa2f-fb757b402086 | -13.17519 | -48.56411 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 8395246c-ae5c-311b-8c5f-2350e7d5d399 | -13.0428 | -48.61834 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| ae7ca3bd-abcf-3c54-ba31-4ec9110dd0ba | -13.03815 | -48.6096 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 41aa485e-4cce-3331-9f41-512e80b69abd | -13.03705 | -48.61488 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 6978e27d-fb72-3d47-b28b-ba5e3282f466 | -12.72967 | -46.42076 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 1d3ea8b5-39e4-3f78-be01-ab18e235b0f4 | -12.72897 | -46.42432 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 41ee7d89-ec46-32ea-ade2-1608f6754708 | -12.72417 | -46.41994 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 5905cc27-9b1c-30a7-907e-1bba1807e67d | -12.72345 | -46.42358 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b885a67e-fab3-32b0-9181-62610fe62248 | -12.68943 | -46.77049 | 2024-09-30 03:45:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 346d31fa-6c97-34b7-9b0b-dc3ac3994d80 | -12.68868 | -46.77432 | 2024-09-30 03:45:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| e6b7d8fb-0bb4-3c59-90c7-c289e6ccb5b0 | -12.47412 | -46.44378 | 2024-09-30 03:45:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 806c8dff-8f24-31f2-adc4-bae8dff297be | -12.47373 | -46.44416 | 2024-09-30 03:45:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e30e6330-3cfa-3605-853c-4373ea67994e | -12.08776 | -50.01558 | 2024-09-30 03:45:00 | NOAA-21 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| fb2d6ad9-f529-36af-bfc0-8614cb3a252e | -12.0876 | -50.01419 | 2024-09-30 03:45:00 | NOAA-21 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| b239e8e9-dde9-3094-b77a-b294d26c4478 | -12.00785 | -47.32701 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| a9832cac-fa08-3a6f-8272-b566102d351b | -12.00287 | -47.32152 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 39fcfdd6-e449-3bf7-bc8f-e4c1de07679e | -12.00201 | -47.3258 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| c4dea768-7eb2-3291-8956-b91e9c8b595c | -11.98385 | -47.30092 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| a29a5bde-0b27-34c8-805a-ec369e3f8de1 | -11.98304 | -47.29929 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| ee9bb3bb-44c4-3dbc-8bf0-b3f318bd2396 | -11.98301 | -47.30526 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 45f0f88e-1036-3120-87cb-e4910d1965c0 | -11.98218 | -47.30953 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| bcccde86-00f3-3454-9588-f99e79654042 | -11.98216 | -47.30366 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 8438bd94-5630-3385-b7cf-b8031972c8ab | -11.9813 | -47.30791 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 9b34561a-b769-3e8d-933d-cec343ea7069 | -11.97958 | -47.31641 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 95d9dd9c-3e63-3eae-9a50-1d17a49394b6 | -11.86566 | -47.13553 | 2024-09-30 03:45:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 20c75262-7020-3c70-baec-e732b3d3903b | -11.82217 | -47.62132 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 5fe9164e-9d52-37d5-ab57-a8e7231fa21c | -11.79859 | -47.60182 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| ecf43d9d-f110-3c77-90bd-476a5a753258 | -11.79524 | -47.60101 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 36344e27-47fa-337a-b0c0-94decfa573d9 | -11.79176 | -47.605 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 92b704d2-580e-3682-81ac-d4a8cd26b848 | -11.78838 | -47.60418 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 197466e5-2a0e-3ea6-9fa5-31b2fb4e27f9 | -11.78584 | -47.60357 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| cba976fb-a8d7-3ffa-9f49-e0519302f3cf | -11.78489 | -47.60836 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 4a79e9ee-8575-343a-b8ae-2af62692c5f4 | -11.77892 | -47.60717 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| f30e39ca-9cb3-3be8-9340-7506ef4401ff | -11.778 | -47.61183 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| cb523001-7b5c-3671-9989-72347d47b6d6 | -11.58257 | -48.42905 | 2024-09-30 03:45:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
+| ad0800fa-452c-3fa0-9ed1-9fea8b09cd9f | -11.58153 | -48.43418 | 2024-09-30 03:45:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
+| a8e594a6-7784-36da-8574-070334c75b10 | -11.44971 | -46.95774 | 2024-09-30 03:45:00 | NOAA-21 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 9bce383f-3826-37f4-8f25-ef3cd7506a2f | -11.44901 | -46.96132 | 2024-09-30 03:45:00 | NOAA-21 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 53abba37-9012-3202-8758-39246f2f73b4 | -11.41456 | -47.23006 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 7840876a-3c84-3518-b833-faa8e6ca6a91 | -11.40869 | -47.22889 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| a9403175-44db-39f7-bafa-2964d0d3d1e9 | -11.40282 | -47.22768 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 9867f442-38d2-351f-939a-751c99a0ae39 | -11.40198 | -47.23196 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 52438f9d-c919-30e9-a9b4-eecf3cd3f3a6 | -11.40115 | -47.23619 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 46647c90-1c3e-375b-8be9-71824b6676b7 | -11.39529 | -47.23494 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 37abca7a-6d86-3c7f-91cb-55ff7e86c386 | -11.3928 | -47.2476 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 14c98514-39a6-3a3f-b17d-50777255b945 | -11.39193 | -47.25203 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| e957281b-a429-3fb8-b4ff-ef963d4f1f38 | -10.97952 | -46.44337 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 81360c9b-435b-3e1c-8038-5e2e4b84d802 | -10.97858 | -46.4482 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| fe0a5ae3-8847-3668-94be-29117ff18800 | -10.97756 | -46.45347 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| c509e538-6e1d-37e5-b707-c2c38677a3dd | -10.97665 | -46.4581 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 0546a4a7-61e9-3860-9623-2669fb83fdee | -10.97581 | -46.4624 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| ff6c77d5-ba36-3382-aea9-efc8cd8d81f8 | -10.972 | -46.42208 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 71f3ef19-cddf-3c18-95f9-0a8856fce312 | -10.97112 | -46.42659 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 3ec1c423-69ac-3fea-8a05-605bcab6ffa5 | -10.96456 | -46.41358 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| e6519dbf-3834-3925-ac10-d1b5d4232029 | -10.96226 | -46.41219 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b03fd515-0069-3057-89a1-f7b87434b0e3 | -10.96142 | -46.47615 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 7fffc2ec-8e9b-3e03-b67e-ce74c94b37ae | -10.95974 | -46.40819 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 125d52ee-b3b6-3921-bf79-c8c7a731fa34 | -10.95927 | -46.47267 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| ac9354c7-60cd-353d-9296-0d04edbd6b06 | -10.95888 | -46.41277 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 613dcaae-4a57-3854-8b11-169d197ed09d | -10.95853 | -46.4766 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| a3c283b9-baa0-36a7-9a11-cb324d3bdb72 | -10.95833 | -46.40256 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 5c8ef0f4-bdcb-32a7-8ba7-b0f4934a4427 | -10.9575 | -46.40675 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c2e1a533-9d04-3148-8376-cadffae4ec59 | -10.95661 | -46.41128 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b53316de-95ef-3eed-8821-8555ba79656c | -10.95654 | -46.47115 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 2adcf881-15a4-36ad-bf10-967c2dfc6ebb | -10.95641 | -46.39501 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 84b512e9-7e87-3280-b803-549cd7ae6d31 | -10.95567 | -46.3989 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0b7c2d36-66c3-3c21-88b2-b1d8a4466eff | -10.95493 | -46.40284 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| ce17a4ea-d3a3-3252-a51c-2f5f70279fbc | -10.95421 | -46.39383 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 46656d58-46c9-3fdc-8302-9bff4b2773a1 | -10.95362 | -46.47161 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 58aa778d-1c6f-363d-bec4-6fd2f5689697 | -10.95343 | -46.39779 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 909e7f8b-5041-32f1-8095-36485386570c | -10.95144 | -46.39053 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 3dd1c783-7700-308d-8dd1-daac27c2836a | -10.9509 | -46.47005 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 99b84493-5856-3df5-a4d0-c4e88027e1f0 | -10.95067 | -46.39458 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 07adef5e-f71f-3245-a68a-b557495eaf1f | -10.94921 | -46.38963 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 8c2db614-bc51-3925-8dbb-b7ebe99e68e4 | -10.93715 | -47.30328 | 2024-09-30 03:45:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| a83c4e0b-2af6-339e-be8a-526ce6f574de | -10.92051 | -46.46101 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 09506b31-a303-327e-a832-b8e2841a9eae | -10.8466 | -48.15428 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| dac4e544-4763-379e-a52b-a928248c57c9 | -10.84452 | -48.15017 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 39fe0853-ec5c-3d42-9cf5-f0ae9cfd9712 | -10.84333 | -48.15606 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 519a7ec0-7d54-36b2-b7be-67c45704d395 | -10.84152 | -48.14694 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d671b61d-bd95-309c-bfca-745feaa7479a | -10.8403 | -48.15319 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 57003024-2c83-3533-a5f6-b644182db696 | -10.83824 | -48.14899 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ad9e8b6b-676a-389a-ac94-c2335c9cbbf4 | -10.83645 | -48.13952 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 49da0cf1-2f40-3922-8a9a-bab05aa7cd16 | -10.83527 | -48.13153 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| fb5b2bae-56e4-36b7-b76f-e5022b86b444 | -10.8352 | -48.14597 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c4046d8d-08e9-3cb4-8c68-0d87e9346480 | -10.83428 | -48.13638 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 5be803f3-e954-3a70-9215-43e7fceda9fe | -10.83307 | -48.14236 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 36a943f1-6280-35ec-ad40-614dd59437cc | -10.77329 | -46.54234 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 838f1bc4-6dca-326d-95c8-1054ef924b8a | -10.77267 | -46.54556 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 40c8053f-719b-38ba-b9cf-26578137411e | -10.72006 | -47.98619 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| f34d7a75-7818-368e-b908-93c2ed3072cf | -10.71577 | -47.97518 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| b997f3ab-6d82-3811-ac74-c507f98d3db3 | -10.71472 | -47.98051 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 7f2505cf-3566-304f-ab6f-c7fbf52bbfb2 | -10.71359 | -47.98623 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 45e0ec33-c6c5-3a3c-b07a-203795c9e02b | -10.51037 | -46.37393 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 480d6004-9417-3af3-896f-26d1a67fe9a8 | -10.49768 | -46.31758 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ba41ca4b-5d28-3462-acde-c480e86b1922 | -10.49281 | -46.31251 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 2da52efa-4cec-3364-9cf1-86b4e7e88804 | -10.4872 | -46.31132 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5ec60bd6-3e02-3e73-b867-2bef7a94c01d | -10.44627 | -48.21482 | 2024-09-30 03:45:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
 
 
 [Clique aqui para ver as próximas entradas](README21.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 013112b8-1ea7-3f35-839b-4f71686fa55f | -15.81261 | -57.35485 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 24698dcf-7d28-3a23-b438-0127f6240cb1 | -15.56984 | -56.92154 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b16683cc-2499-3024-a1a9-6f636f45706a | -15.56918 | -56.92542 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| fcda30ff-6f18-3ebd-8eb3-3d77bf7c6862 | -15.56853 | -56.92932 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0d47f877-3a71-30e1-b649-a2186b6aaeca | -15.5664 | -56.92079 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| a9f7cbe2-fc61-3338-a5e5-eb3bb4f76c5f | -15.56359 | -56.91629 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| dd53aa75-ff34-35b9-bf98-ebfd3340957e | -15.56015 | -56.91554 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4bd47397-82ce-30d6-8341-b7bb89621b20 | -15.55672 | -56.91477 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 504a19ec-1df1-3080-9a1f-1b45feafea3e | -15.55392 | -56.91021 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7fc07e69-ea73-37f6-a22d-d9b5c9dcc665 | -15.55194 | -56.92199 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 54ba2b4a-3e8c-324d-aa9f-1316215d8ac6 | -15.54702 | -56.90887 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4440134f-216f-3d60-8732-e0809c7702d5 | -15.54636 | -56.91276 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0633a57e-1fd4-31cc-963c-a34c825fa20d | -15.54357 | -56.90821 | 2024-09-29 04:51:00 | NOAA-20 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 7cc483f4-ce10-3ba5-99a3-951c177467fd | -15.95053 | -57.20446 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 329ee117-b638-3135-b806-244424670647 | -15.94771 | -57.19987 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| bdc0b31a-8ef9-369e-8d60-786649f7a8a2 | -15.94706 | -57.20372 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| a84e25d3-869c-34e4-a331-54c52691eb01 | -15.94423 | -57.1992 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 058cae58-db5f-30d3-afe8-c22a6e4ec166 | -15.94358 | -57.20304 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 3af71306-4cab-397b-bfa5-1f3416760bd3 | -15.94141 | -57.19464 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 26cd8125-49a1-32bb-867f-f7e2bdd68335 | -15.94076 | -57.19851 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| e06895ad-e004-3dff-b786-455c70d1a216 | -15.93729 | -57.1978 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 308fd292-67c3-3dbf-aa3e-884fcf7eff94 | -15.93447 | -57.19322 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 442a1517-aa78-3d0f-8a5c-819186bfc98d | -15.93382 | -57.19706 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 7474c6ea-d065-3c22-993d-654036ef4bd8 | -15.93164 | -57.1887 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 86c256d0-0708-3406-b5e8-b5834afd8729 | -15.931 | -57.1925 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| e9d56d01-69c2-31a5-8b70-1536e624284a | -15.93035 | -57.19632 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| baf3cb2b-aa41-3d27-9b17-58a2c873953e | -15.92968 | -57.20027 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 53c70fc9-b8ba-3d35-b900-84c1a0fc8a2c | -15.929 | -57.20426 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e7d0054b-44c5-385e-847f-08e8d2483394 | -15.92817 | -57.18798 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| b252fac9-f6fb-374a-83ad-6b48d0384cf2 | -15.92753 | -57.19176 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 20deec28-e871-3b2f-90a6-e3fa322e9d99 | -15.92689 | -57.19555 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| af2a6722-e998-3137-8d5b-a1c657d19217 | -15.92484 | -57.20758 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 8e042017-fc71-3de9-b28f-50381cda33e9 | -15.92472 | -57.18716 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 8116ae14-2fd6-383e-a942-be44ab0090d4 | -15.92408 | -57.19095 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a18b3cfa-ef2f-3cfe-a577-8e96891d8eb8 | -15.92127 | -57.18638 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| a7a254c9-ac56-3757-98a2-a2a86b3b9017 | -15.92066 | -57.21103 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e304d976-8cb3-3fe8-be7d-9459f8f42810 | -15.92062 | -57.19016 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d7f52618-308d-3659-8d49-35c38c435c1d | -15.9178 | -57.18566 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| f0abd93a-b3b4-3fd7-bed8-3eabdc208e69 | -15.91717 | -57.21041 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 848edf20-5e4c-335d-858f-5c737d5e3f28 | -15.91715 | -57.18946 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| bb32dfaf-49e1-3600-87be-05ed1b5c3b81 | -15.91368 | -57.18876 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b55b8b7b-38c7-35ae-9ffc-255f88c2ffa2 | -15.91091 | -57.20496 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| b1c1fb66-fe82-33d6-b02f-ae13ef363446 | -15.91019 | -57.18814 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 82683036-c81c-3b0e-bb3e-0693d6d6ba35 | -15.90952 | -57.1921 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 51a48b0c-a6a7-3298-87cf-eaa9cfefce85 | -15.909 | -57.18902 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 836bb304-96cd-32eb-bb35-35b483421eb8 | -15.90833 | -57.193 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| e13aa0fd-7548-3331-a032-1ec1064bea02 | -15.90741 | -57.20441 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| f2dc129a-1d00-3522-8db1-0dc9f69a09c7 | -15.90697 | -57.20122 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 176da794-8eb5-30ae-95ee-d855e71c701a | -15.90628 | -57.20539 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 82f77ef8-f829-3368-88ef-61fc4c170175 | -15.90602 | -57.19152 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 7b1299f3-cda5-3308-8999-93ef83b169fd | -15.90534 | -57.19551 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 53aeda8f-a0da-3d45-86ae-2327b26dfda1 | -15.90484 | -57.19242 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 5d0d7807-d25b-349f-a14b-bdce72d6250b | -15.90463 | -57.19967 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 0291ffc7-98cd-39f3-beec-ba6974bbe029 | -15.90417 | -57.19645 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8bc3de87-6928-347a-9bea-42c5c470a511 | -15.90348 | -57.20063 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b39804fc-1f02-382d-9294-e62092b39671 | -17.05486 | -56.73344 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| a32d3c61-bb0f-3592-bca2-06bf2c5c4ea5 | -17.05424 | -56.73725 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 218db81e-a21a-347e-83f1-95c4c4cda29d | -17.05147 | -56.73283 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 2da1aeac-9997-381a-9d7d-580068920893 | -17.05084 | -56.73664 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 1c2e7257-4810-31a0-8b79-388efeeab50f | -17.04807 | -56.73221 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 18af11f5-cdf5-3cf8-9f7a-0743e0f07716 | -17.04744 | -56.73603 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| d377ea21-9f34-3c6e-8d62-c5cb0570cff0 | -17.04467 | -56.7316 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 22b54379-b103-30dc-9744-807f3ea3cb54 | -16.85316 | -56.72188 | 2024-09-29 04:51:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 3a48097b-98d7-3a24-849c-e7065b89d3be | -16.81981 | -57.49146 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 94444592-283a-3339-9bf8-217e73b69400 | -16.78765 | -57.48972 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| abcd317f-d9f1-3e3c-99da-29ede59ebcab | -16.73519 | -57.48008 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| d019de20-d522-3dc0-847e-657324038cd2 | -16.73169 | -57.47943 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| d836f861-3e6d-34a2-8fff-e8121b45027b | -16.73092 | -57.48056 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 3c021bbd-5692-3813-b816-13af062bc4dd | -16.7303 | -57.48754 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| eb898f3f-b2e3-3574-8fab-1e93ddeefaa0 | -16.7296 | -57.49159 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 66f43857-78fd-3700-a08c-7bf1666a4a71 | -16.72956 | -57.48866 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| ece013a5-b121-31e2-9e32-6076b783748b | -16.72819 | -57.47879 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 694aea20-24f2-37c7-9dc6-b5b33a5f1d6d | -16.72742 | -57.47991 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| d451d991-a47c-3cfd-b84e-a4d5f2b336f8 | -16.7177 | -57.49485 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 0.6 |
-| 966f5ad4-0cd4-3b59-8532-66f545f4bce8 | -16.71061 | -57.47263 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 31dcaba9-fd76-38a0-a696-69c020f29116 | -16.70317 | -57.53829 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 9.8 |
-| 6754c32c-06a8-31bb-88c1-79643bde0d72 | -16.68255 | -57.44662 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| c4b8c602-38ea-3b3e-99cc-e63968fd625c | -16.67837 | -57.45002 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| 4d551284-c2c6-3483-82fd-824f85fd33f7 | -16.67488 | -57.44938 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| feb8f1f7-e68b-37a8-b0b6-9988fed6c0a7 | -16.6707 | -57.45279 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 5cc81878-e0f9-334a-aec4-28daa145088c | -16.67001 | -57.45683 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 7ad196ea-5e7f-3048-be4d-2b713a203b2f | -16.6672 | -57.45214 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 341cde32-dd1a-3e47-9979-faa57e07550d | -16.66651 | -57.45619 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| c7ec39f9-39a1-38a6-b47d-68078bc162a6 | -16.91509 | -57.97603 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.2 |
-| 9cb6602a-0ef4-35fa-9843-f1dc3a5f31d5 | -16.91444 | -57.95847 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| bf53e14c-1727-3c8f-9404-05cc43c8df13 | -16.91436 | -57.98026 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 4cdc90ab-e2f7-3043-ba6e-d564afa73d24 | -16.91378 | -57.94094 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| f084b436-8b84-38a9-a09b-3fb9d350e8a3 | -16.91371 | -57.96269 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.4 |
-| 9b587bf7-735e-3d0e-9940-2ffbe656e508 | -16.91298 | -57.96692 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.4 |
-| e45b1d63-9e06-308a-ac78-9b66163678c7 | -16.91225 | -57.97113 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.2 |
-| 5b97b2ae-cb89-3f10-a10b-002b1121ae7d | -16.91087 | -57.9578 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 15b24f11-f5af-3fbb-9033-912c5e60b354 | -16.91014 | -57.96203 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| 75aee3c8-b29a-34bd-8e86-f2c6d4c10a71 | -16.90942 | -57.96625 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| 4fdf7f58-76a9-3299-b47a-a9fd4feae62d | -16.90804 | -57.95292 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 3a9227c7-cb3e-30a3-85b3-cf555265e93c | -16.90593 | -57.94383 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| 81c7cde7-e50a-3621-8db8-aa3fe8060eba | -16.9052 | -57.94804 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| 6718463d-ce0e-3deb-8af8-9aed42bbcaaa | -16.87847 | -57.72493 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 41e6cceb-46c2-334a-9789-262bb95677ad | -16.87774 | -57.70778 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 49fdf881-c2ac-3a4f-83e7-4d2deaf07489 | -16.87564 | -57.72016 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 7fb4e5c5-1e5a-3000-8de6-42ed777cb737 | -16.87494 | -57.72429 | 2024-09-29 04:51:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 4e9e49e4-ec50-3099-a7ef-5198d68d5278 | -21.36774 | -48.48109 | 2024-09-30 05:08:00 | AQUA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 6a2488e2-113c-3a85-835c-7780bc1d15a6 | -21.36594 | -48.49206 | 2024-09-30 05:08:00 | AQUA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 21.2 |
+| fb6288e4-f628-343d-85a7-e752afff0b97 | -21.36413 | -48.50303 | 2024-09-30 05:08:00 | AQUA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| 5187dc18-9c70-35d7-a11a-307029ac38db | -20.63643 | -48.74977 | 2024-09-30 05:08:00 | AQUA_M-M | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.1 |
+| 472a326e-60c9-34f8-96c9-83067dbc521a | -20.59633 | -46.23374 | 2024-09-30 05:08:00 | AQUA_M-M | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 5d6bc32d-375d-3974-9161-183cc623e907 | -20.5949 | -46.24313 | 2024-09-30 05:08:00 | AQUA_M-M | CAPITÓLIO | MINAS GERAIS | Brasil | 3112802 | 31 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 2d27a4a5-3a3a-3599-b42c-5e4aec140165 | -20.3198 | -46.65174 | 2024-09-30 05:08:00 | AQUA_M-M | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| 4c6612d6-4b2d-36c0-b409-737f9fff719f | -20.31826 | -46.66158 | 2024-09-30 05:08:00 | AQUA_M-M | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 41d4883e-d9ed-39d8-9c8a-ea89baa90585 | -20.30894 | -46.66288 | 2024-09-30 05:08:00 | AQUA_M-M | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 88f9756e-f0ab-3c75-ba18-e460c1978b37 | -19.88863 | -43.15956 | 2024-09-30 05:08:00 | AQUA_M-M | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
+| 33858c5f-8ab2-3dd9-8e44-280972988f73 | -19.88709 | -43.17075 | 2024-09-30 05:08:00 | AQUA_M-M | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.7 |
+| 50c58148-7fb1-3041-890d-ea7d7be58ae9 | -19.87761 | -43.16926 | 2024-09-30 05:08:00 | AQUA_M-M | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| 6caea9e3-bdf7-3ac4-90e7-46008b317011 | -19.84197 | -42.75063 | 2024-09-30 05:08:00 | AQUA_M-M | DIONÍSIO | MINAS GERAIS | Brasil | 3121803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 19.6 |
+| 5ab86a00-9d09-39d2-a415-28ca9303a732 | -19.44281 | -45.87248 | 2024-09-30 05:08:00 | AQUA_M-M | ESTRELA DO INDAIÁ | MINAS GERAIS | Brasil | 3124708 | 31 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| 0385cb23-a910-3b26-a294-738c40ae6ce2 | -19.43395 | -45.87098 | 2024-09-30 05:08:00 | AQUA_M-M | ESTRELA DO INDAIÁ | MINAS GERAIS | Brasil | 3124708 | 31 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c0c3f811-3c34-30ec-a72d-beaa9865662e | -19.43252 | -45.88036 | 2024-09-30 05:08:00 | AQUA_M-M | SERRA DA SAUDADE | MINAS GERAIS | Brasil | 3166600 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| b9e81e07-2c78-3201-8b1d-8fed0163e760 | -19.35673 | -48.8955 | 2024-09-30 05:08:00 | AQUA_M-M | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | 24.8 |
+| c1c26e0d-54e9-3bfd-b60f-7d0acee1c020 | -18.97075 | -45.45166 | 2024-09-30 05:08:00 | AQUA_M-M | PAINEIRAS | MINAS GERAIS | Brasil | 3146404 | 31 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| c50d35cc-9299-3110-b550-2e25732f813b | -18.96935 | -45.46097 | 2024-09-30 05:08:00 | AQUA_M-M | PAINEIRAS | MINAS GERAIS | Brasil | 3146404 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 74e82f04-9932-3b89-911b-1608647f44b6 | -18.00398 | -44.31591 | 2024-09-30 05:08:00 | AQUA_M-M | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| 9b399d11-487f-3781-8bb0-96d7a87c9a87 | -17.62992 | -46.66329 | 2024-09-30 05:08:00 | AQUA_M-M | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 14.1 |
+| 77928b06-ee04-3fde-9a95-5f4ed9969dd3 | -22.71987 | -44.8232 | 2024-09-30 05:08:00 | AQUA_M-M | SILVEIRAS | SÃO PAULO | Brasil | 3552007 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
+| cbb4a34f-5cee-3244-a9bf-fca037c74a5c | -28.51018 | -50.66928 | 2024-09-30 05:12:00 | AQUA_M-M | BOM JESUS | RIO GRANDE DO SUL | Brasil | 4302303 | 43 | 33 | nan | nan | nan | Mata Atlântica | 11.0 |
+| 8233b93d-5b55-38e7-9ce0-a71325314438 | -1.73433 | -47.12846 | 2024-09-30 05:23:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| fac1ff1d-1684-39b3-8379-253e4dbc04ca | -1.72949 | -47.12263 | 2024-09-30 05:23:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| d16896d8-59b6-3c6d-be36-43e90090c091 | -1.72864 | -47.12814 | 2024-09-30 05:23:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 8dbe0877-8c60-3bed-a1de-cdde3a7bdbad | -1.7286 | -47.12188 | 2024-09-30 05:23:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| a92079a0-9d58-316d-8421-527ce8c22603 | -1.72778 | -47.1274 | 2024-09-30 05:23:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 64944e14-2df5-3d1a-93e9-b48ad17077e5 | -4.60778 | -46.65061 | 2024-09-30 05:23:00 | NOAA-21 | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 9bfadcd0-a87b-3615-a6f6-4eb8152caab4 | -4.6018 | -46.64225 | 2024-09-30 05:23:00 | NOAA-21 | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 19bb748b-8453-3c2d-ab2e-f52e7f0c4350 | -5.32793 | -47.90015 | 2024-09-30 05:23:00 | NOAA-21 | SAMPAIO | TOCANTINS | Brasil | 1718808 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| ec1494cd-d8b1-3a41-9429-e5d5bd7e3cdb | -5.32138 | -47.89914 | 2024-09-30 05:23:00 | NOAA-21 | SAMPAIO | TOCANTINS | Brasil | 1718808 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b453c9f4-a41f-36b0-bf7b-0847c613c43c | -10.84424 | -48.14154 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 49b247d4-a014-393c-b49f-8eb4cbee5587 | -10.84295 | -48.15285 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| c5c7e894-4e45-3431-9472-5111f6e65aa2 | -10.83799 | -48.13474 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 7036cf8a-aa1c-392a-a8d4-547f32be37bc | -10.83728 | -48.14104 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 822d70df-5a73-3c14-8f35-2ba26de89504 | -10.83667 | -48.14632 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 66c707f6-1251-3cba-a087-2113e5486c17 | -10.82432 | -48.13136 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 92cc9bba-cf0d-3b15-94d4-81326e6a6fd6 | -10.82369 | -48.13695 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 45aff176-f95b-3096-8393-0323777778d0 | -10.72198 | -47.98843 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 67dab8da-b863-3c7e-b7f9-f9ef9b37370a | -10.72111 | -47.98668 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 5bca7b5d-36cd-3516-bf9f-17e4875a4aee | -10.71515 | -47.98636 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 140959e6-05da-32e9-a73a-12a14f977e5a | -10.71495 | -47.97838 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 4ea3b20b-cbad-339c-893d-49c597643a22 | -10.71428 | -47.98438 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 3f135b19-c21a-31ce-8b52-fe1bf001d26f | -10.71356 | -47.99088 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| f31a1983-3f32-3c33-a32e-3a7fca99c8d1 | -10.70902 | -47.97828 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 92ed5141-aaae-39d0-97e6-f13c0095f4f1 | -10.7081 | -47.9763 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 4dfd4695-abce-38b8-9f8b-ca062404d5d5 | -10.56761 | -48.0453 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 773d5c5a-1861-3110-ac39-7bcba6b282ea | -10.56728 | -48.04567 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 1bb310f7-13e6-3008-958b-c9687c1e09f3 | -10.56705 | -48.05014 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 00ff702e-f321-39da-b2df-b4f510fd32ad | -10.56674 | -48.05053 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 6ce1ecab-0fbf-35d4-9d93-0847c617e5c1 | -10.56648 | -48.05497 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 5b1e3719-85f0-35a4-933f-c0efbfac1e2b | -10.5662 | -48.05542 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 093e8736-eaeb-33fb-ba6d-627efd380ba8 | -10.55962 | -48.05344 | 2024-09-30 05:23:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 3ecaf9a7-53bb-34a1-b1da-d6b6976d7c28 | -10.45135 | -48.20565 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 00237856-8638-3cad-8502-b540eb222926 | -10.45079 | -48.21066 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 4f3bde89-f7e4-31f5-aae0-4e759d9d5667 | -10.45048 | -48.20712 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| f6aa2557-d118-31d7-a5bf-e32ae97a0bae | -10.45015 | -48.21638 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| cdde9f0c-98ec-317f-8eb3-36c7a5a5fd91 | -10.44989 | -48.21209 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 81a04e7d-48e4-34f5-9539-a4632712d131 | -10.44919 | -48.21809 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 1284a1e5-7e5f-39e2-9ff1-4a020172f73d | -10.44493 | -48.20089 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| a28b6a6d-fc61-3cfc-ba61-afcf3915498d | -10.44436 | -48.20596 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| c9833d29-1b10-3f3f-a204-20d82c9bf03f | -10.44382 | -48.21076 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| ca879345-4fe2-3b3e-819d-bec5c7ec0cf2 | -10.44351 | -48.20715 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| dea1ad95-cdb5-3ec5-8821-8bf9f2019f75 | -10.44323 | -48.21602 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 036dcf5d-9a41-3d8d-94c4-d71895dd9465 | -10.44293 | -48.21207 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 15df48c7-c0e8-3a8e-bac4-9eb396932747 | -10.44263 | -48.22145 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 31aa536f-a870-34b8-a9dd-b8d1ce6d38a7 | -10.4423 | -48.21742 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 29f950de-1905-30ec-9b34-86b151269994 | -10.4355 | -48.21606 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 92d67f69-5184-38d7-90c6-ff340497418b | -10.42944 | -48.20831 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4bb4c923-6401-34e2-a98e-ec8e43f8fe8d | -10.41924 | -48.17616 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 380c249a-c2d4-346f-9d43-9f1ab5796848 | -10.41852 | -48.18236 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0e743b48-5730-3832-bde7-bfcb853d7b0d | -10.41788 | -48.18785 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| d208e324-cfdc-3d4a-904e-b6a8e85165f0 | -10.41655 | -48.19933 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 7102c87a-84fb-3d10-be24-d26743ba408f | -10.40979 | -48.19749 | 2024-09-30 05:23:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 15826bb7-c934-3490-bce8-88bde4aa6873 | -11.17666 | -48.49715 | 2024-09-30 05:23:00 | NOAA-21 | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| fa9b2e76-86a1-31bf-9f13-6d4a13245c8f | -11.17598 | -48.50333 | 2024-09-30 05:23:00 | NOAA-21 | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 811a6a3f-d80d-38c9-b621-5384dfd7029f | -1.97786 | -48.69261 | 2024-09-30 05:23:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| eb84e90a-a33b-336a-89c9-3d8967ce0ba5 | -1.9719 | -48.69164 | 2024-09-30 05:23:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 1b13acfc-8534-35ce-b1a0-c8d4ac634459 | -1.41935 | -47.4086 | 2024-09-30 05:23:00 | NOAA-21 | BONITO | PARÁ | Brasil | 1501600 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 4156a34a-302e-3386-ab5a-b30cd90afe23 | -3.47042 | -47.66362 | 2024-09-30 05:23:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| df28b61b-6311-391a-9a1c-f09351040ed3 | -3.46961 | -47.66939 | 2024-09-30 05:23:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| b074112e-4011-340e-aa5b-88302bd33091 | -2.99201 | -48.07796 | 2024-09-30 05:23:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 136c81bc-24ff-3f5c-be6a-1ce0e07a0c03 | -2.64106 | -48.25509 | 2024-09-30 05:23:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| cbbf9ab2-4efe-3721-ba35-c48662e57464 | -4.63706 | -48.5327 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 57a7728c-7dd4-331d-a7b0-36a97e66118a | -4.63082 | -48.53168 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 26a4949d-2803-3f94-b410-1b9b784d7b23 | -4.48916 | -48.11496 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 68e80973-c452-349d-9a7f-7302ac8e3cfe | -4.28253 | -48.65289 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| 45b959ab-3d53-31fd-9f96-4e59974fb829 | -4.28239 | -48.64875 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| b84e348b-388b-3324-a6b9-2e923aac46c6 | -4.28173 | -48.65351 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 5072850e-0d42-39c7-be8e-365ae2c6c982 | -4.27705 | -48.64723 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| d8805768-8004-300a-a194-8c714e61121c | -4.27636 | -48.65197 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| cb817514-b963-3173-8b03-2eea170408f0 | -4.27622 | -48.64778 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 93146740-f429-3f93-8aef-a08c9da89065 | -4.22221 | -48.58942 | 2024-09-30 05:23:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 021b064f-afed-372d-9bdf-a20f9f39fa25 | -4.18871 | -47.9359 | 2024-09-30 05:23:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 7b171b1f-0b69-3517-9e54-1399beb302dc | -5.66591 | -48.83316 | 2024-09-30 05:23:00 | NOAA-21 | SÃO DOMINGOS DO ARAGUAIA | PARÁ | Brasil | 1507151 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ed1f94ce-3dfd-3a2a-9952-487041e12a12 | -9.58524 | -50.20638 | 2024-09-30 05:23:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2f11755c-0232-30fa-9418-ccb5f3ddeacb | -9.58469 | -50.21091 | 2024-09-30 05:23:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 8309c2b4-eee4-30b9-9390-7e4800efa4b0 | -9.58369 | -50.20066 | 2024-09-30 05:23:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 01b8ea67-1030-3e00-be07-c38de1d3157a | -9.58311 | -50.2052 | 2024-09-30 05:23:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
 
 
 [Clique aqui para ver as próximas entradas](README60.md)
