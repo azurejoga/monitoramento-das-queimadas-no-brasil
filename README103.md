@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2ef7f511-16e3-3b20-b6e8-254612afd301 | -11.0556 | -45.76597 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 104.1 |
-| a017b3c4-e128-3750-a3f5-54748893e2ca | -11.05177 | -45.71523 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 360.5 |
-| ebef2c26-416a-383c-ac27-b403aa29d94c | -11.05015 | -45.72768 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 309.2 |
-| 50c5fe93-3d2e-3a1f-9bd9-73b7e01b2be6 | -11.04852 | -45.74013 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| d356a9ca-75b1-3a4e-b625-5f472a22cf8e | -11.04143 | -45.71414 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 45.8 |
-| 34bbc775-7de8-3193-a67f-aca4add85f9c | -11.03983 | -45.72651 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 247.1 |
-| 49f4928a-3872-3624-be8a-1857f71384cb | -11.03823 | -45.73886 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 49.6 |
-| c5169d41-6526-3a06-9cc8-a57bf170e50c | -11.03451 | -45.70684 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| f71e27e5-f443-3938-90ea-7da4020d220d | -11.03284 | -45.71918 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 275.4 |
-| 0b27a1d7-caba-3199-83a5-8a7f5dfd2e1f | -11.03117 | -45.73149 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 265.9 |
-| 1b8a134a-ee79-38a1-a546-25378c350065 | -11.03111 | -45.71288 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 84.7 |
-| 12866275-b586-37af-89ed-723fecfb3f1d | -11.02952 | -45.72522 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 168.7 |
-| f2f9d380-cdf6-3025-bb19-ca190ea3dbd5 | -11.02421 | -45.70552 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 34.6 |
-| 050f3a39-be69-3761-abc7-34b727d55c6d | -11.02254 | -45.71785 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 112.6 |
-| 9e1d81a4-397d-30a5-8c6d-ad02be7e65c4 | -10.84362 | -45.98175 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 112.7 |
-| 967e1826-4243-34de-b2ed-19fcbad203a5 | -10.8351 | -45.96853 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 2ca8fcc4-8f0a-31ca-a04c-1e61188a5a1d | -10.82586 | -46.03865 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 51.8 |
-| 00d6cfaf-76eb-3903-ad46-5ddaddb185b8 | -13.27427 | -46.33673 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 16.6 |
-| be407d50-2d3a-312b-ab7c-d76d1043c4c9 | -13.27268 | -46.34902 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 45.9 |
-| bc590512-104e-3109-9f3f-808f23a05992 | -13.26405 | -46.33556 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 57.7 |
-| 19e76377-2515-3db0-9878-c3539c404818 | -13.26249 | -46.34771 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| 8cde05b7-b46d-363b-ab35-b498219eeacf | -13.24577 | -46.32866 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 30.2 |
-| dca595a9-8767-3cc6-9b64-f819a99ed4cc | -13.24503 | -46.32241 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| ca11844d-2aac-370a-9945-70aa4ecf82ff | -13.24359 | -46.33364 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 27.5 |
-| 85f689e9-3bb2-33d9-8e15-b0abe57b6e81 | -13.18115 | -45.45752 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 189.2 |
-| 03b56c5d-5309-382e-91c2-22dfdc4ce9a9 | -13.17942 | -45.47145 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 280.7 |
-| f749bd58-06a1-3743-bb64-d18661f3f288 | -13.17848 | -45.45133 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 85.6 |
-| 9600abdc-13e6-3085-8e5f-2260334c14f6 | -13.17665 | -45.46527 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 569.3 |
-| 5dced200-9ffc-31f6-8bd9-d3c80d581199 | -13.1703 | -45.45616 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 170.4 |
-| 5323f269-407c-3709-a5b6-9d0ea70a626c | -13.1686 | -45.46999 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 116.1 |
-| 5ab5d128-77b6-3b58-842a-0cf5cbc00168 | -13.16763 | -45.44999 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 7d60afdf-7892-387f-b3c6-1e34b6739f07 | -13.16583 | -45.46382 | 2024-09-28 12:51:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 70.8 |
-| 0eeba3fd-3b37-37b5-a3ca-15e933a7960e | -12.75495 | -45.55235 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 140.9 |
-| 08df8615-fc2f-31f6-b949-575d03e2e315 | -12.75322 | -45.56579 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 267.8 |
-| 0b0014d2-998a-3645-a415-32904a0b81ea | -12.74425 | -45.55097 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 84.8 |
-| 7212fb4f-d0bf-359e-aab3-903e7b296160 | -12.74254 | -45.56435 | 2024-09-28 12:51:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 60.6 |
-| 9f563358-9981-3a6d-b2e1-c16040c1f105 | -14.26094 | -45.78325 | 2024-09-28 12:51:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 18.6 |
-| 645d283c-4592-3c16-83f4-e44f558ba50b | -16.5724 | -46.84334 | 2024-09-28 12:51:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 848e52bd-baa2-302d-bf43-54ea9b322568 | -16.59024 | -46.92937 | 2024-09-28 12:51:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| d93a558a-9dfa-31aa-aef0-c23c57899a2d | -16.58862 | -46.94232 | 2024-09-28 12:51:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 08988b04-4734-344f-8815-42b3b738510a | -16.57998 | -46.92812 | 2024-09-28 12:51:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| a0ee0513-0bc6-3a79-a7ea-fc3717ccc764 | -15.41282 | -47.45397 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 24.6 |
-| eb47c039-76b2-389f-9808-2f15db2acadc | -9.25364 | -45.73982 | 2024-09-28 12:51:00 | TERRA_M-T | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 15.0 |
-| 537a4c0b-fac2-3102-ac26-de69fd7b78e6 | -10.67933 | -46.06626 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 29.1 |
-| c9f0f44f-27cf-32ce-9153-612c2b938a8b | -10.67779 | -46.0777 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 176.6 |
-| 93026031-45af-331e-862f-f3b6344fc863 | -10.67624 | -46.08911 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 36.6 |
-| c0797a75-30f1-3308-a04a-68f0ede80a95 | -10.67088 | -46.0534 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 24.1 |
-| c0c17714-ad8f-355d-a8d8-b7400cdfa34e | -10.66934 | -46.06484 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 858.4 |
-| 9d97eb5f-c9cc-3659-bedb-895df4ddbd8c | -10.6678 | -46.0763 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 617.0 |
-| 84dfc5e2-765c-3198-817d-88b09feb5b8b | -10.66626 | -46.08776 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 91.5 |
-| fcb6d6e0-6fda-3d84-9a41-f638f9a88785 | -10.66086 | -46.05209 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1037.5 |
-| 0229a601-e6b4-3274-b101-9e49119e2e2b | -10.65933 | -46.06358 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1215.9 |
-| 2d756e3f-d268-316d-af9d-dc0ccbc19558 | -10.65779 | -46.07508 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1468.0 |
-| c74937c1-dc37-3aa2-9ad6-d878218e4feb | -10.65627 | -46.08648 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1702.1 |
-| 928b34b0-cdd7-3b09-a004-7d3842f84faf | -10.65473 | -46.09793 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 278.3 |
-| 49143651-2f6b-3a22-814a-fc291fa8b8bd | -10.65392 | -46.02766 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 52.0 |
-| c2449102-562a-3378-bb8f-8015965b5825 | -10.65238 | -46.03927 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 113.3 |
-| 8b7063e1-eaa4-305d-89c5-fe3668aa6759 | -10.65085 | -46.0508 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 693.8 |
-| d4fc3484-8fd9-32e8-ac7c-b8e0384a4c25 | -10.64932 | -46.06226 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 97.8 |
-| 344fa825-b1a6-36b3-8def-5f4994987fbe | -10.6478 | -46.07369 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 220.9 |
-| 127ce7cf-3239-3172-b683-ccf3dd09abff | -10.64628 | -46.08512 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 187.5 |
-| 9bf9ab40-8540-342b-a3ab-52c865274e16 | -10.64474 | -46.09668 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| bd1292d2-3832-3b89-bca0-b6c55d3695a7 | -10.64236 | -46.03795 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 23.9 |
-| fd9ac345-e0d0-3ffe-9a23-451b6628e0fe | -10.64084 | -46.04943 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| bed06091-b170-30d8-b489-f0ea93c795ac | -10.63933 | -46.06086 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| 338a96ae-fd30-3085-91a9-e8cbc8001695 | -10.63781 | -46.07231 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 52.3 |
-| fcd746f2-d3b9-3e9a-924f-2e1aeae30915 | -10.63629 | -46.08381 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 22.5 |
-| 46cff63e-bd9b-3ba3-9027-3a49f3520f59 | -10.59845 | -46.06096 | 2024-09-28 12:51:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 17.3 |
-| 7e7f1d54-9e2e-3de8-bfbe-953ff3f7be5b | -10.58846 | -46.05962 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 7db2e8d1-baf0-33ca-a82e-72dbb89361fd | -10.56002 | -46.04398 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 18.8 |
-| 7295622e-e878-3393-9839-8d4a9764b02e | -10.06793 | -46.06289 | 2024-09-28 12:51:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 25.7 |
-| 317cfd3d-f39c-3100-9699-7b8b52cdbad7 | -10.06791 | -46.05661 | 2024-09-28 12:51:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 30.6 |
-| bc3b1638-179d-3adc-bb40-67acf1970e77 | -10.06638 | -46.0677 | 2024-09-28 12:51:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| e1ae52bd-46e6-3130-9b04-3ed397b6965e | -9.55626 | -46.52952 | 2024-09-28 12:51:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 11.7 |
-| be6157cb-7ad9-3385-b804-35832bb48bb2 | -9.54107 | -46.56982 | 2024-09-28 12:51:00 | TERRA_M-T | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| c0c18454-8323-3da0-9020-4d820adc852a | -10.89807 | -46.41272 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 64dea2fd-e793-35a0-85b4-ea65d9569294 | -10.89122 | -46.38941 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 28.7 |
-| f8878381-efa7-3155-9e6b-28222653d2b4 | -10.87307 | -46.37545 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| 79386af8-b4d2-39ba-974e-0d8b2c27eea5 | -10.87158 | -46.38664 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 187.8 |
-| 4c139f28-d3b2-3edf-bdd9-fceb01323040 | -10.86176 | -46.38525 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 26.9 |
-| 0f7a75ad-ab58-3e12-9264-ba2c1a3886b9 | -10.79604 | -46.56045 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 31.1 |
-| 955c6f95-2d1d-30f5-9742-f4e4ebdaa4e5 | -10.79455 | -46.57133 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 283.5 |
-| b44a2863-b3c5-30f0-a3ef-dc6d40f875a9 | -10.78481 | -46.57032 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 28.0 |
-| 3a00a545-1c6b-3952-8d0c-4e6d3db187ea | -10.41752 | -46.27261 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 5dd5bd24-766e-3d2c-969e-3ab2de1e04ab | -10.41605 | -46.28367 | 2024-09-28 12:51:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 46.8 |
-| 2b6de8f7-06a8-3eb4-ae24-db1ef4f24dd1 | -9.65069 | -45.82346 | 2024-09-28 12:51:00 | TERRA_M-T | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 120.0 |
-| 86224f10-8c12-3435-862b-c6f2d449e39f | -11.87931 | -47.16582 | 2024-09-28 12:51:00 | TERRA_M-T | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 21.0 |
-| 8f78d85d-a97e-33ac-903e-c12d911156fe | -11.8712 | -47.15411 | 2024-09-28 12:51:00 | TERRA_M-T | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 17.3 |
-| 7620bf7d-9586-30f7-a8dc-a43d9b4b24d6 | -11.8698 | -47.16452 | 2024-09-28 12:51:00 | TERRA_M-T | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 33.0 |
-| 4d8acab4-4f04-3a5a-a636-3e533823be65 | -11.79859 | -47.61966 | 2024-09-28 12:51:00 | TERRA_M-T | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 08890027-8474-3097-9b2c-efd7b0dd42a6 | -11.7893 | -47.61839 | 2024-09-28 12:51:00 | TERRA_M-T | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 21.1 |
-| 0f5417ac-a5c0-392b-9c3b-a8417fe2660d | -11.70847 | -46.38276 | 2024-09-28 12:51:00 | TERRA_M-T | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 21.1 |
-| 81fe9f4a-62b5-3209-b000-03aea1cd067b | -11.69455 | -46.33458 | 2024-09-28 12:51:00 | TERRA_M-T | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 22.6 |
-| 81c45876-3417-3439-8c4a-1bbc62f6a728 | -11.4178 | -47.25023 | 2024-09-28 12:51:00 | TERRA_M-T | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| b4bfda54-969f-3881-9e63-c35375c0a93d | -11.33205 | -46.88841 | 2024-09-28 12:51:00 | TERRA_M-T | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 52d2f65c-5194-3b1a-97d6-63869c8e19f7 | -12.97774 | -47.19659 | 2024-09-28 12:51:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| dbc91935-9ff8-3d3d-97d4-6cfa8727b5d7 | -12.80673 | -47.4605 | 2024-09-28 12:51:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 63760075-4f80-3a58-b5c0-8deba4c15091 | -16.02318 | -48.25293 | 2024-09-28 12:51:00 | TERRA_M-T | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 4237bae7-e7bf-3933-bf31-4f79507f166e | -16.01846 | -48.2459 | 2024-09-28 12:51:00 | TERRA_M-T | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 22.5 |
-| 7edf6400-9f8f-3788-b5bb-79648d3cb85c | -15.79974 | -47.53024 | 2024-09-28 12:51:00 | TERRA_M-T | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 74.8 |
+| 0c6894fc-3d19-3ba8-97ce-bdd828e359da | -7.927 | -61.55768 | 2024-10-01 05:06:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 17285a6f-8e5f-3670-ad3b-bc077a50f737 | -11.8544 | -62.75046 | 2024-10-01 05:06:00 | NOAA-21 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 806982e3-8738-3fe4-83fb-1e010e0a9803 | -11.85302 | -62.75086 | 2024-10-01 05:06:00 | NOAA-21 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e41a89dd-977b-3545-afcd-928830b6a56f | -11.85023 | -62.74971 | 2024-10-01 05:06:00 | NOAA-21 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d9bedbef-3dd4-3904-a9f8-950660278f17 | -12.27248 | -62.3147 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1ee5caa2-3dc3-3063-bfb9-2d7474622d0c | -12.85611 | -62.84796 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 49fc2d0e-ba75-302b-9265-86b6c829e872 | -12.84647 | -62.85411 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| dd2746f6-2d95-308c-8dd3-f0dedfe64f6c | -12.84578 | -62.85793 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 950d27d0-2388-305c-a290-cb37bb5a83bc | -12.84029 | -62.81746 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 081f04ac-e9f8-31e0-af66-9cecfb93ddef | -12.81952 | -62.88487 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 5ec5dce9-9722-3e6d-9cb0-dff8ac2e59f7 | -12.80934 | -62.88348 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| d1a32886-1e10-3d5a-b95b-f5af9fb11908 | -12.77969 | -62.90594 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c372703c-fed8-3de3-a6e1-39dad5a18466 | -12.77554 | -62.90517 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 141b031f-0e79-3fad-8a3e-259ff23f0414 | -12.77276 | -62.89667 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d9dbef48-0a8c-3d69-9f2d-24ae33f137a8 | -12.77207 | -62.90054 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 073f4622-5782-3915-9c92-20384ed08542 | -12.77139 | -62.90441 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 225f667e-d06a-34ab-b5f8-e6f2c7c7d625 | -12.76239 | -62.90675 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 88650523-5c03-3b4d-92b2-3de70647abcb | -13.00165 | -62.71508 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2a94e10f-5d25-3fbd-b7e0-82413cc03260 | -12.99757 | -62.71432 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 78eddb78-37c9-30fd-951d-337e0245145a | -12.9969 | -62.71805 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 4216a635-56a8-36f0-af68-ba52e79c91e6 | -12.98457 | -62.69265 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 2c3942e4-1600-3ea7-bd14-34b4e43a257a | -12.9839 | -62.69639 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| 0d12d99c-a12a-3e01-9007-7a15f0b6c5db | -12.98324 | -62.7001 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| beae59ac-2f79-3c40-8c2f-eaff3da69344 | -12.9819 | -62.70757 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 7c1a13e8-d644-3e01-85dc-2cc54d04d188 | -12.98122 | -62.71131 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 192b3caf-9fb1-3bb0-823f-3a7e12fe0a58 | -12.97848 | -62.70308 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 5f282b8d-57c1-3a95-8c1c-6e4e110f0a47 | -12.9199 | -62.68027 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| a92a517d-3f7f-37dc-a087-602d4b128b61 | -12.91581 | -62.67952 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| ee82b304-a9cf-3976-ab1c-8ad7aa2799c8 | -12.91515 | -62.68325 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| db71fdd1-7331-361e-b800-bfe5ccdae7e9 | -12.91041 | -62.68624 | 2024-10-01 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| de734551-9442-39c3-ab7f-8624fee97b66 | -12.84716 | -62.85027 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 2f878ffd-b3f8-336c-a173-deface4d86ac | -12.84095 | -62.86101 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| d5cf7d7d-0eff-3542-be5d-14d358da08fc | -12.83681 | -62.86025 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8721ffba-5780-33fd-89c1-d5387c8d636e | -12.82436 | -62.88177 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 8f2410bb-820c-3379-9b40-e3f686878bc7 | -12.78589 | -62.8951 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e4817ab3-0acf-3876-b596-2a08c6466e52 | -12.78521 | -62.89897 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 141457e1-0bb7-3cec-bf69-18f5e862b2ba | -12.78452 | -62.90283 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 19c9798c-f9fa-308f-b903-6ed994f9fb3f | -12.78106 | -62.8982 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 78db265d-16bd-3464-97d0-6f048955d774 | -12.77691 | -62.89744 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 6904eddd-aa5b-3ddc-9bf7-7d840f61a138 | -12.86093 | -62.84488 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| cc3ae5fc-1b93-3b0c-b987-db99f141aed9 | -12.85473 | -62.85561 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| c064c459-8016-33ea-9eb1-8e1d1b96568e | -12.8506 | -62.85486 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 15e7ae7f-a501-3688-8e67-7c2ed47efcc5 | -12.84785 | -62.84644 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| c4dfeefe-3ffb-3029-a5f4-ba9c422a8b94 | -12.8299 | -62.87483 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 6a4be7ab-79b1-31ed-b413-b29ad449b601 | -12.82576 | -62.87408 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 58d3cf4b-ae03-3b1d-b367-074091c838f5 | -12.82022 | -62.88102 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 858a8849-bb01-3875-91c0-818a9fde98b8 | -12.78037 | -62.90207 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| a26f7b9c-1aeb-35ea-80d8-d8f1d95b8459 | -12.77622 | -62.9013 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 1b85ae39-9a2b-353a-a439-2bafe4916c94 | -12.7707 | -62.90827 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 45d85b44-f77a-3ac6-9d4c-b0f23729e1fa | -12.76861 | -62.8959 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| afaecddf-3b28-3154-a775-869a8a167546 | -12.75893 | -62.90211 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 3c25a0e2-d82f-35a9-b0aa-4581919d4940 | -12.75824 | -62.90598 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fbb36070-6626-36e1-a47b-ca45eb64d982 | -12.33555 | -63.717 | 2024-10-01 05:06:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6857fcec-70de-33a3-86dc-d6c5e2ee9802 | -12.33136 | -63.71791 | 2024-10-01 05:06:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4f57253b-f661-351d-b963-a25917f7a016 | -12.33114 | -63.71617 | 2024-10-01 05:06:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 55265a8f-8551-382e-b652-8f2ff1d63d5c | -11.63492 | -64.02229 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 1a5b474c-9f3b-3dba-bb46-89f9c2875eca | -11.57609 | -63.80095 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| d90ecab4-648c-360e-863b-0e3d80526248 | -11.57523 | -63.80559 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| a851668f-79f1-34b8-83b9-e9447bea4b6f | -11.57074 | -63.80474 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 410dbec8-cffe-3010-beff-fe90d1885bb6 | -11.56988 | -63.80939 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 102336ce-ba2a-35d7-a8b7-ee3df72f9cce | -11.56903 | -63.81405 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 03a2d305-c6ac-3182-8a2c-8e3b11da8837 | -11.56817 | -63.8187 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0271b7e2-c8bd-3430-b89e-9b99fcc6a02e | -11.56367 | -63.81783 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| e0b10763-179c-34ad-996b-0b7948026d4d | -11.56282 | -63.82248 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 785c7b9e-9b5f-3a53-8599-8dc5721c9423 | -11.56196 | -63.82715 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 6bc35c6c-14b6-3200-8c6f-ea0eb2cbcb7b | -11.54952 | -63.84401 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| da72402c-3241-3369-a965-5cd06d5324a7 | -11.54866 | -63.84865 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d10900b3-97d4-3dde-b722-9825c45ab180 | -11.5394 | -63.71067 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 290ebffd-ca1a-37a6-9466-070f16e65552 | -10.99349 | -63.93402 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 18595f3e-067f-300d-a2a6-de044bed6890 | -11.66164 | -64.99915 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 16.0 |
+| 299d0424-1d27-3c7c-aa9d-ae00a5030562 | -11.65936 | -65.00034 | 2024-10-01 05:06:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.5 |
+| fd1f1991-9e70-35a9-8536-393c270ccf45 | -8.79215 | -69.02637 | 2024-10-01 05:06:00 | NOAA-21 | MANOEL URBANO | ACRE | Brasil | 1200344 | 12 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 083c69cd-5727-3b14-84dd-e3bb9e7477b1 | -10.71216 | -69.41054 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e88d1e76-e19d-342a-891f-077f42d6fc63 | -10.71137 | -69.40919 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 4bc6bd8f-cddf-3607-8577-90152abc8f4e | -10.71105 | -69.41616 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 40e2cfce-514d-3542-831b-56b30b390ffa | -10.71023 | -69.41477 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 93bd9514-80eb-3993-b58d-bdb999aa1e43 | -10.70992 | -69.4219 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| edd2b734-d43b-38fe-bc95-463269435ed4 | -10.70907 | -69.42048 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| c7f52f08-f962-3974-956e-24b748d455e6 | -10.70789 | -69.42625 | 2024-10-01 05:06:00 | NOAA-21 | ASSIS BRASIL | ACRE | Brasil | 1200054 | 12 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 30e05849-ff3f-3d31-b2d5-97ee8626c911 | -10.7056 | -69.40939 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bc891b73-c867-3206-af70-ed60209b1f9f | -10.70448 | -69.41508 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e87e483f-746f-3dae-a26f-b194de4f86e4 | -10.70334 | -69.42085 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 775bd4bb-d674-3fb2-a160-d15f78c04b20 | -10.70249 | -69.41946 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 58ce7f74-dd7a-345e-8e9f-4f8e83d4af27 | -10.68397 | -69.38171 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| df6e6697-777a-378f-904f-201e1241f2f4 | -10.68333 | -69.38047 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 2f20ca4e-8921-3c33-b203-6b3956f8c9ef | -10.54405 | -69.30512 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c4663679-37cb-3352-847f-b2cd0fc2c5c4 | -10.54292 | -69.31075 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 72715754-1a0f-3d0f-895b-58197a2b14c1 | -10.53756 | -69.30374 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 5839ea4c-dced-335e-827a-24b932a35bf5 | -10.43049 | -69.23592 | 2024-10-01 05:06:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| a170d15d-8efa-3494-bb05-55ebbd3a1452 | -10.42954 | -69.23946 | 2024-10-01 05:06:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| fcb93b26-825f-3dda-8d81-15666e6a9ad3 | -9.32213 | -66.5461 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4bc59995-84c9-37de-b449-58c99979d093 | -9.32033 | -66.5432 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c6bad407-a0c7-3540-bd82-652efcbc61b9 | -9.69976 | -66.85208 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e44084ae-7ba2-3216-a33e-15e9a00287ca | -9.69764 | -66.85243 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 16c7198d-2001-3627-9ab9-f341b1ff467f | -9.61486 | -67.16976 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 96539a59-41bb-331a-a26f-aedaed46d669 | -9.61476 | -67.16856 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 866722b8-2c9d-387d-8211-b2da60f2eda6 | -9.60984 | -67.16445 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9d555fed-84b7-34f2-ae34-9b8af763f434 | -9.60977 | -67.16329 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 20041927-311a-3150-94ca-3a5a31859024 | -9.57476 | -66.64886 | 2024-10-01 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d9b3afe8-cb6b-390f-b7fe-3ef9e8a48cfe | -9.27378 | -67.6069 | 2024-10-01 05:06:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
 
 
 [Clique aqui para ver as próximas entradas](README104.md)

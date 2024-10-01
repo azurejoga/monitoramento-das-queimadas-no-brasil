@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7b7f3d97-9ec7-3d87-a8c3-90f0bd9cc8e2 | -9.42134 | -65.45553 | 2024-09-26 04:59:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 753e8dc4-13a9-3cfe-91ed-bfa07a3b35b1 | -9.42052 | -65.45973 | 2024-09-26 04:59:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 3ca6494d-0cca-33cb-bba3-c998b09052ac | -9.42024 | -65.46067 | 2024-09-26 04:59:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 6352268a-9f28-3aa8-bc80-688fb1c9c415 | -9.35788 | -65.63197 | 2024-09-26 04:59:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0da8abf8-0fa3-390e-aaab-ed6bf5b59b90 | -9.35202 | -65.63089 | 2024-09-26 04:59:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 99de6a86-ad10-35b0-8f15-3b59bfd9ebe4 | -11.96976 | -64.95603 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 30dffad4-3dd3-3eef-bcca-8c96dc788f2f | -11.96909 | -64.95951 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fcf08bf3-8a89-37cf-9c89-c1aa7e3d7bc8 | -11.26803 | -65.28385 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| c12b908b-58e7-35ab-9ad3-bf1bd7f4a434 | -11.26731 | -65.28758 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| c8c97eed-f2b6-3a30-be5c-5dac64eaa179 | -11.2666 | -65.2913 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a7dc735f-5330-3fd8-883a-41328dcf702c | -11.26249 | -65.28275 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 1e9c60f7-24c2-3594-9d53-1fb195f66b01 | -11.26175 | -65.28654 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 1adc2a68-02d4-349b-a47b-438546a69141 | -11.26104 | -65.29028 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 7761dc6b-c4f2-3222-a307-a5e15aeaf1cc | -11.26032 | -65.29398 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.8 |
-| ef654c83-e11a-3140-b5ba-7773b7066f7d | -11.25623 | -65.28535 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| e8033dc3-b273-3a4f-b7a3-6fda475101f2 | -11.2555 | -65.28916 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 6049a8dd-a840-35c3-a4b8-ab4f925f55dd | -11.25477 | -65.29295 | 2024-09-26 04:59:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.8 |
-| 6de906a7-9907-33b9-ac3f-64ad9bcaab26 | -18.38492 | -42.8009 | 2024-09-26 05:01:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 9b445b4f-a7e8-3ae8-9446-d0bac4bb121d | -18.37845 | -42.79296 | 2024-09-26 05:01:00 | NOAA-21 | SÃO JOÃO EVANGELISTA | MINAS GERAIS | Brasil | 3162807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| c3a3d324-e5d2-3280-ad38-b5a7ec9d8e91 | -18.26866 | -42.68359 | 2024-09-26 05:01:00 | NOAA-21 | SÃO JOSÉ DO JACURI | MINAS GERAIS | Brasil | 3163508 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
-| 1ee45c76-4552-346a-82ab-0004710faa82 | -20.12327 | -43.43999 | 2024-09-26 05:01:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 29bda295-dcf6-3546-bce4-6dcd7bae4bb1 | -20.12292 | -43.44539 | 2024-09-26 05:01:00 | NOAA-21 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| 73fa93a2-a9a4-3559-802b-217f6b56522d | -19.58988 | -42.62888 | 2024-09-26 05:01:00 | NOAA-21 | TIMÓTEO | MINAS GERAIS | Brasil | 3168705 | 31 | 33 | nan | nan | nan | Mata Atlântica | 32.0 |
-| 7c96e577-ff22-3d6c-ab20-a3bed2f5724d | -19.5852 | -42.63048 | 2024-09-26 05:01:00 | NOAA-21 | TIMÓTEO | MINAS GERAIS | Brasil | 3168705 | 31 | 33 | nan | nan | nan | Mata Atlântica | 23.8 |
-| d3d0e0e8-9d06-3be8-bf2a-2151ae6eb902 | -19.58276 | -42.62697 | 2024-09-26 05:01:00 | NOAA-21 | TIMÓTEO | MINAS GERAIS | Brasil | 3168705 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| f6375948-53ef-31dc-bb10-a1402e8c8153 | -22.1748 | -43.44055 | 2024-09-26 05:01:00 | NOAA-21 | RIO DAS FLORES | RIO DE JANEIRO | Brasil | 3304508 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| e773ef7c-4d6f-3a73-bb1d-4e1ceb4dd694 | -22.17428 | -43.44827 | 2024-09-26 05:01:00 | NOAA-21 | RIO DAS FLORES | RIO DE JANEIRO | Brasil | 3304508 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 3a780f0f-2ffb-3e61-a191-0bb606932f75 | -21.40315 | -42.96568 | 2024-09-26 05:01:00 | NOAA-21 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| 2fb1c513-89da-3985-9ef2-10311d853518 | -21.39893 | -42.9627 | 2024-09-26 05:01:00 | NOAA-21 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| 7d2e0d92-a8c1-317d-95f1-8984313a0f82 | -21.39856 | -42.96836 | 2024-09-26 05:01:00 | NOAA-21 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
-| a229b461-2d79-3dc2-8652-c9af959b5702 | -21.39626 | -42.96069 | 2024-09-26 05:01:00 | NOAA-21 | DESCOBERTO | MINAS GERAIS | Brasil | 3121308 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 04c2419f-4e7e-363c-9181-f337028e4332 | -21.39586 | -42.96639 | 2024-09-26 05:01:00 | NOAA-21 | GUARANI | MINAS GERAIS | Brasil | 3128402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| bb354a70-13a6-3256-b27d-39b37f0f32d5 | -17.92781 | -44.27065 | 2024-09-26 05:01:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 43c820bd-aa9a-38bb-af8e-99a28a7b8db9 | -17.85227 | -44.45931 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| f3922917-d04e-39fc-950c-2bf848ea685b | -17.8518 | -44.46452 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 3fbc5e83-ef25-3aa8-a187-bcf8f12cf6bc | -17.8503 | -44.45945 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| c66303d7-706f-3c11-a6ba-d4969cd33fc1 | -17.8498 | -44.46465 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 78e1ba3e-b440-3b06-8a0e-ab5b59aa01a5 | -17.84545 | -44.46344 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 5dcb8483-33be-3dfc-ae37-ed10c8e6c838 | -18.68665 | -43.85823 | 2024-09-26 05:01:00 | NOAA-21 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 54e800d0-2786-3bd0-83a5-3c03cd55bf4f | -18.28357 | -44.04557 | 2024-09-26 05:01:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| b2c8e6ec-35ae-39e9-8cf7-27837e7dc94e | -18.02888 | -44.3876 | 2024-09-26 05:01:00 | NOAA-21 | AUGUSTO DE LIMA | MINAS GERAIS | Brasil | 3104809 | 31 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 802669a3-17cc-355e-a8f3-39401b7a4e6e | -17.98982 | -44.46032 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 3f16616f-1c9b-3a0f-bba0-16b69e783299 | -17.98935 | -44.46553 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| dd783107-a0f4-3266-80ed-16749bad6cfa | -17.98888 | -44.47067 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 828e6cba-3011-3757-8643-396110836991 | -17.9884 | -44.47597 | 2024-09-26 05:01:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 6c5ac54b-ce87-3f8f-b7eb-038e0dc9247f | -18.86306 | -43.43002 | 2024-09-26 05:01:00 | NOAA-21 | ALVORADA DE MINAS | MINAS GERAIS | Brasil | 3102407 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
-| b23d62a1-1180-3eb3-b00a-b12444c72105 | -18.86241 | -43.43847 | 2024-09-26 05:01:00 | NOAA-21 | ALVORADA DE MINAS | MINAS GERAIS | Brasil | 3102407 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.0 |
-| 1619b7bd-7796-366a-abb1-65058979e0fe | -18.86151 | -43.43362 | 2024-09-26 05:01:00 | NOAA-21 | ALVORADA DE MINAS | MINAS GERAIS | Brasil | 3102407 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| bfa32ce1-082c-36cd-91ca-1b759b262880 | -18.86088 | -43.44113 | 2024-09-26 05:01:00 | NOAA-21 | ALVORADA DE MINAS | MINAS GERAIS | Brasil | 3102407 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| ca0d9549-ef46-3afa-b86d-0afc86f6fc11 | -18.81089 | -43.62686 | 2024-09-26 05:01:00 | NOAA-21 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 9f080e33-1b35-3d18-8fc4-6b0e8e14d1f8 | -18.8041 | -43.62632 | 2024-09-26 05:01:00 | NOAA-21 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| de9970ae-5e9c-3360-8cf7-8c37786e87f4 | -18.61243 | -43.41467 | 2024-09-26 05:01:00 | NOAA-21 | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 79d046c7-4800-353c-ab84-58d87d8329e8 | -19.78613 | -44.13024 | 2024-09-26 05:01:00 | NOAA-21 | RIBEIRÃO DAS NEVES | MINAS GERAIS | Brasil | 3154606 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9da42085-02f5-33a0-843a-3a0a718f16bd | -19.78558 | -44.1366 | 2024-09-26 05:01:00 | NOAA-21 | RIBEIRÃO DAS NEVES | MINAS GERAIS | Brasil | 3154606 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 12f75cab-e07f-3f56-bb8f-041afa361e88 | -19.78382 | -44.1287 | 2024-09-26 05:01:00 | NOAA-21 | RIBEIRÃO DAS NEVES | MINAS GERAIS | Brasil | 3154606 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b859c3bd-f93d-32a4-a2f7-96964ea4cc8d | -19.78331 | -44.13506 | 2024-09-26 05:01:00 | NOAA-21 | RIBEIRÃO DAS NEVES | MINAS GERAIS | Brasil | 3154606 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 8c70ea4d-6813-3622-8810-1f2b5923f7ad | -19.75206 | -43.97696 | 2024-09-26 05:01:00 | NOAA-21 | VESPASIANO | MINAS GERAIS | Brasil | 3171204 | 31 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 8415fecf-1178-3223-a723-ed9213856df7 | -19.60019 | -44.92674 | 2024-09-26 05:01:00 | NOAA-21 | PITANGUI | MINAS GERAIS | Brasil | 3151404 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| bc77f2b7-5a5b-3423-be96-566fceb06fc0 | -19.52338 | -44.50628 | 2024-09-26 05:01:00 | NOAA-21 | CACHOEIRA DA PRATA | MINAS GERAIS | Brasil | 3109600 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 34b4d720-346a-3da2-8f94-6e3ca265c731 | -20.52247 | -43.9366 | 2024-09-26 05:01:00 | NOAA-21 | CONGONHAS | MINAS GERAIS | Brasil | 3118007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 08a00a35-0630-3a8a-b438-607f1e7024fb | -20.5182 | -43.93699 | 2024-09-26 05:01:00 | NOAA-21 | CONGONHAS | MINAS GERAIS | Brasil | 3118007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| dfad0e4d-8eee-32b1-8c1d-2f46f7887b44 | -20.42755 | -44.10666 | 2024-09-26 05:01:00 | NOAA-21 | BELO VALE | MINAS GERAIS | Brasil | 3106408 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 08da6182-1b64-3e13-a6e6-961df9346f5e | -20.17731 | -43.55429 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
-| 828e74f2-3787-3f7c-b818-fdee26af4616 | -20.17697 | -43.5586 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
-| 421dc975-88dc-30fc-a773-c93b24654605 | -20.17003 | -43.55862 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
-| af5bf631-db8d-3ff1-a1e5-5b42a35f8859 | -20.1697 | -43.56288 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 21.7 |
-| c0d83603-ba73-3a88-b4d2-8e2a0f503885 | -20.1693 | -43.56808 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 21.7 |
-| 6e33db2a-269d-3c61-8496-ecd6aaa91b94 | -20.16575 | -43.52359 | 2024-09-26 05:01:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 4b98d7f0-1eb7-3dcf-a0ee-7d605889af94 | -20.16488 | -43.52896 | 2024-09-26 05:01:00 | NOAA-21 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 2ec88117-8519-3a61-add7-d564c9855e2c | -20.16319 | -43.55733 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
-| b8354a73-e2e6-37d4-baa1-51acae978fe5 | -20.16285 | -43.56184 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 21.7 |
-| e9bdaf25-bc0f-3842-882b-afe7b8bf7d36 | -20.1628 | -43.55428 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 575084d9-db6c-3030-9241-89d40f32243d | -20.1624 | -43.55908 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| a6acd0f2-0ca5-30ac-80b3-52ea5a94cdab | -20.162 | -43.56382 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| 1ae8ffca-a6fb-39ed-979e-687ca8e40e45 | -20.15886 | -43.51763 | 2024-09-26 05:01:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| 58595c55-e6c2-355a-a209-b291e5244d14 | -20.15884 | -43.52309 | 2024-09-26 05:01:00 | NOAA-21 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| a1c08810-7bfe-388d-aff6-ab619e284627 | -20.15642 | -43.55509 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 66397787-564e-334a-9b0f-9f63c9ce9e22 | -20.14836 | -44.33553 | 2024-09-26 05:01:00 | NOAA-21 | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 5b212699-11e8-3675-9180-6a81370d1d30 | -20.14787 | -44.34138 | 2024-09-26 05:01:00 | NOAA-21 | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 237f2ec9-3392-3378-b502-f69d55c8aa54 | -20.14699 | -44.3519 | 2024-09-26 05:01:00 | NOAA-21 | ITATIAIUÇU | MINAS GERAIS | Brasil | 3133709 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| d55c2a2d-69ae-31d6-b3b9-b307944f04b1 | -20.13733 | -43.53203 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 4da2d734-08d9-33de-922c-5869499877ab | -20.13664 | -43.5345 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 515aa637-9567-3808-93af-8ffd94097b48 | -20.13052 | -43.53018 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 573b5f1f-e0c0-3272-a820-a993696872d0 | -20.12984 | -43.53278 | 2024-09-26 05:01:00 | NOAA-21 | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 38e19233-d08d-3b90-ac3d-7f9f2a20a156 | -19.93699 | -43.77586 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| 03f9774d-17e5-3994-bb5d-e784162b1e80 | -19.93602 | -43.78816 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| a52f6c51-a0ff-32df-878b-6c8b133c4c0d | -19.93513 | -43.79941 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
-| 5fb95311-621e-3a4b-9d0d-94746f61fc3a | -19.93484 | -43.77555 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
-| 6065d289-170a-3aab-8f6a-86feb44d4c83 | -19.93382 | -43.78759 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| fa716fbb-0ca3-3f79-a5b6-f5e11e0973fc | -19.93334 | -43.79314 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 1756d280-78dc-3400-a736-43fca6427df5 | -19.93287 | -43.79865 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| 853659a2-9e6a-334d-a93b-e63bfe3abf98 | -19.92921 | -43.78785 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 4665958c-c5a1-371c-8eed-bf8882dd7979 | -19.92879 | -43.7932 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| a7f6cf4e-7b7f-3ab5-913b-f186e55d7bd2 | -19.92836 | -43.79867 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| d13e6d3b-7f26-329f-b16a-a0ecf645bbab | -19.92703 | -43.78699 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| a9742d77-572d-334c-8ba0-7cfb762de0fc | -19.92609 | -43.798 | 2024-09-26 05:01:00 | NOAA-21 | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| a05fcbc3-603a-3567-950b-428ff14a74cc | -22.30754 | -44.04189 | 2024-09-26 05:01:00 | NOAA-21 | BARRA MANSA | RIO DE JANEIRO | Brasil | 3300407 | 33 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
-| 470a4e41-8da2-3af2-ab96-c142da5a82b4 | -22.30708 | -44.0485 | 2024-09-26 05:01:00 | NOAA-21 | VALENÇA | RIO DE JANEIRO | Brasil | 3306107 | 33 | 33 | nan | nan | nan | Mata Atlântica | 29.2 |
-| d03832bc-4ad7-39b9-b361-7d196e05394a | -22.30626 | -44.04396 | 2024-09-26 05:01:00 | NOAA-21 | BARRA MANSA | RIO DE JANEIRO | Brasil | 3300407 | 33 | 33 | nan | nan | nan | Mata Atlântica | 17.6 |
-| 72987466-bd32-3171-8262-9ad91af012f5 | -22.30579 | -44.05027 | 2024-09-26 05:01:00 | NOAA-21 | VALENÇA | RIO DE JANEIRO | Brasil | 3306107 | 33 | 33 | nan | nan | nan | Mata Atlântica | 17.6 |
+| 628ff6d1-acb3-3298-b7a4-78fb3eba7dc9 | -12.95682 | -51.4191 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.7 |
+| e9aa44a7-64d2-3b2b-975d-d5eecdb36c39 | -12.95641 | -51.41572 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 18.1 |
+| eca1cc3f-7dad-3361-91fd-f2273a49d952 | -12.95624 | -51.42448 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 395d06ef-552d-366b-952a-392a79d76d3b | -12.9558 | -51.42107 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 18.1 |
+| 3e0fb3b0-2ab2-3e90-b535-f2c81a4c296c | -12.95567 | -51.42988 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 7d98c2bd-51e1-3e33-a64b-f210e85f4bb2 | -12.95519 | -51.42646 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.9 |
+| c79fe784-53a5-373a-9864-bcb99b4d3406 | -12.95458 | -51.43183 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.9 |
+| ab2a27b7-6b1e-3c7a-84f6-475c4dd9bdc3 | -12.95395 | -51.44598 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 5fda6144-f1de-3226-93a7-983263774050 | -12.95338 | -51.45136 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 539f6032-7ca4-377a-9e86-e27c9f99e938 | -12.95276 | -51.44787 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 3f1c6b8f-4d5c-3517-af9a-228681bf8a90 | -12.95216 | -51.45324 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 58f552c1-cc41-33bf-92d0-087da60f7db4 | -12.94995 | -51.41497 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| ce033c8a-eef7-321f-9d05-a51709cfcc96 | -12.94935 | -51.42032 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 4b2164c6-5978-3195-9fec-e8c2fb632796 | -12.94875 | -51.42568 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| 2f67fe4c-f605-359c-8149-cf37c598c1df | -12.94572 | -51.45248 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 3bd8ae15-e956-361c-b034-9aea27fe0e5b | -12.94109 | -51.43563 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| e671f001-a1a9-3a43-823a-530c56db3684 | -12.93867 | -51.45712 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 8593fa1b-2eb5-3ec0-9fa6-d8066f6a8cd7 | -12.93473 | -51.19684 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0d8668ae-34fe-3f84-baf0-6b18f61e4bfb | -12.93465 | -51.43488 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 733e2d6b-3fb3-3a66-892f-4c076808e35f | -12.93405 | -51.44024 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 3927e8d1-0ab9-392f-8a79-fbb1e6b72856 | -12.93344 | -51.44561 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 627ea07e-eff5-38c3-b492-e19bcfae3a17 | -12.9282 | -51.19603 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d8a40904-5646-3b29-b7e3-420193023d6d | -12.92759 | -51.2016 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| f4a50812-984a-30e0-b061-13323ae696cf | -12.92438 | -51.18409 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 1a6c99cb-9b60-3921-a922-0e654d4df260 | -12.92374 | -51.18964 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 8950b9c3-6a2c-3bf7-aa07-b00f1cc7c942 | -12.9231 | -51.19516 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 7fccedba-d2eb-37a1-bf73-804cb7d8aa93 | -12.92287 | -51.18414 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 5bbfcacf-de73-3e0c-b0e4-67118a710056 | -12.92246 | -51.20071 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 4a35aa59-78da-375f-87a2-bc6de8c4d4b6 | -12.92227 | -51.18971 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| a5cd4c38-5272-3738-94b1-6ceee0ec4dbf | -12.92182 | -51.20625 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 931a0ccc-9dcc-3030-870a-3db563d2cb77 | -12.92166 | -51.19525 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| c1995536-db0c-3eb4-97ce-5f395bb2ed08 | -12.92045 | -51.20637 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 2a1be9d0-2cb2-35b1-b601-87bc14ffe625 | -12.91999 | -62.67695 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 41067bf1-4cdd-3b95-af1f-b17a08a4ab5d | -12.91997 | -51.44944 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 91c0fcaf-3169-3f08-a0f2-94f0fe0d95ba | -12.91944 | -62.68055 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 12.5 |
+| 7a6b9144-b460-3ffd-8c94-6a04fb624971 | -12.91937 | -51.45481 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 67b11b38-d560-30b0-920e-708ed21655ef | -12.91878 | -51.46017 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a86ffa95-76fa-3171-8237-5c803b8e97e7 | -12.91818 | -51.46554 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 897d3028-c9c3-31f7-abc7-d9d6d7d624ea | -12.91784 | -51.1833 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 68d79bc8-323f-3098-ab66-11ba7615f674 | -12.9172 | -51.18884 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 1b36e9ca-9fb0-35fc-800d-0d5808bd5cef | -12.91664 | -62.67642 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 14a66019-7db5-3719-95b7-8f715a109dad | -12.91656 | -51.1944 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 64151dc6-463d-3655-b5f4-907eecf0a30f | -12.91609 | -62.68001 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 12.5 |
+| 7cbf221b-fcf1-3cb8-a769-9e0fb71f0fcf | -12.91592 | -51.19994 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| f3df34c8-7647-39a0-a31a-e73875e357b6 | -12.91573 | -51.1889 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 691bea4d-ebd5-37ed-992f-f2000ef30a10 | -12.91528 | -51.20549 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 24958397-8790-306a-bbd1-297dda489427 | -12.91513 | -51.19447 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 78fbe354-8c7a-3644-ac34-7f9618ea1bf3 | -12.91465 | -51.21103 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| dd0222a1-20a9-3c1b-9a23-ad58fdef024a | -12.91453 | -51.20003 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 9d10f379-ad7f-3c03-b7ad-dbc6d0a57816 | -12.91392 | -51.20559 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 3d09e1ba-fa7c-36a5-ae94-ba35a650b32c | -12.91332 | -51.21114 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 9f245fe5-23b5-3097-8514-eb033b29b0b5 | -12.91274 | -62.67948 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ff1178ef-ac73-34b5-adf9-f9209509635d | -12.91219 | -62.68306 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ef01a259-215a-3e05-8110-7d64678c6a5c | -12.91164 | -62.68666 | 2024-10-01 05:29:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 2a30159f-1d53-3181-b337-5f2f3db9c576 | -12.91096 | -51.29992 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7ea681aa-1e85-3d5f-b625-0ab12be4d72f | -12.91023 | -51.30015 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| f117661f-6345-3e88-995e-2ab0a8338989 | -12.90964 | -51.30562 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b3c485f7-8433-36d1-9398-1fdf07d1af18 | -12.90939 | -51.19918 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d00aae91-9c83-3d9f-a032-9f1efd9900d0 | -12.90875 | -51.20473 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| dbae8760-0484-3f9d-b0fa-807c58c2b044 | -12.90739 | -51.2048 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| e34e9f3d-6b2d-3ad3-a177-809b74d65b7f | -12.90529 | -53.88208 | 2024-10-01 05:29:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 52d7b521-f304-384f-9953-38d714edbc8e | -12.90517 | -53.88282 | 2024-10-01 05:29:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a068d6a6-0f54-3fa4-9226-5e7d0a26c587 | -12.90487 | -53.88563 | 2024-10-01 05:29:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4aec56b5-f28e-3dc6-ac29-27dd3867dd89 | -12.90474 | -53.88636 | 2024-10-01 05:29:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 006d1e13-5295-3065-8633-38acc7402254 | -12.90447 | -51.29914 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d6a8fed6-98d4-30c3-9760-d58ffca0c361 | -12.90384 | -51.30459 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 5026b4be-7d15-3aa6-8278-cb6b8ec6ba50 | -12.86062 | -62.84014 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 804e5d3f-efc2-31e6-b218-076dc43197fc | -12.86007 | -62.84371 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6aa96a40-e767-3e2e-bb59-7a3b3ac5975a | -12.85952 | -62.84728 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 52543ce7-3eac-3922-b88e-daa46b6fc102 | -12.85508 | -62.8539 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| a86a1855-7555-380d-9a92-5a16aa2c6918 | -12.85453 | -62.85747 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6b5054e9-4b37-32e2-bb77-d5da7f59800d | -12.85382 | -62.85311 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| b511e53f-00fa-3181-879b-dea53e345ef4 | -12.85326 | -62.85668 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 2b95c26e-f6f1-3e82-b5e5-a8402e88f8cc | -12.85048 | -62.85257 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| a0c87a4e-06de-3061-bc50-3d8caeea7a28 | -12.84992 | -62.85615 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 58f5f080-4af8-31b9-bd58-00b9730e29c9 | -12.84824 | -62.84488 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f3f9a239-f1de-3dbf-bfec-ccd49136c7aa | -12.84769 | -62.84846 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9cc020f4-bb21-37c0-b27e-46e2fe3b0610 | -12.84713 | -62.85204 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 69022926-c057-3de3-a4ce-659300bc8bf7 | -12.84658 | -62.85561 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| a5b55662-cd6f-3e08-9be6-7e82282291c8 | -12.84598 | -62.79321 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 591676ab-cdad-3acc-a10a-2f58bd58cb83 | -12.84435 | -62.84792 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f315d821-5e07-3404-9e2a-3dca79cddba2 | -12.84379 | -62.8515 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 8297fdb4-beba-3bb6-8d33-947582dd86a6 | -12.84268 | -62.85865 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 6b26a2c4-d1b3-321f-aba6-3f4ba530a0e4 | -12.84265 | -62.81467 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 74b69828-60a4-310b-b9d5-a3218899e0c7 | -12.84264 | -62.79267 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 219def1a-a190-37cf-8922-9deb5c6d8646 | -12.84045 | -62.85096 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f3c4c9dc-e844-30e7-9f46-911154019d2b | -12.83934 | -62.85811 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ff5768b8-a82f-39c5-a801-a69f9b7e1632 | -12.83879 | -62.86168 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 6d699c06-8b36-3377-8d63-8d552cb9f9b3 | -12.83044 | -62.87132 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 8e82cfb6-70cd-3a99-948d-37eb3244b20d | -12.8271 | -62.87078 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e4a834d5-e88c-342d-86b1-1a846416cb18 | -12.826 | -62.87792 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2ecd9330-0a52-36d4-b8e4-6ed0b2186875 | -12.82266 | -62.87738 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5ed2e8c4-bab5-3559-8d8a-e84cc9cc32b8 | -12.8221 | -62.88095 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c3678e64-b5c9-36ed-928b-c700988bfeb1 | -12.82155 | -62.88453 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 801a0730-a246-3bfb-aace-0a8c11b72e28 | -12.81821 | -62.88399 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 8ca46d82-cb74-3bb7-b7dc-f01e18b2041e | -12.81598 | -62.87631 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| aba5f3fd-edbb-3dde-bd29-ddb25e90fbc9 | -12.81542 | -62.87988 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| a8cc0880-788d-37dd-9b71-3bafa86a8d69 | -12.81487 | -62.88345 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ee85a5f0-6af0-356a-a8aa-491170ecc7a4 | -12.81264 | -62.87577 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 362ac77b-bd55-3b02-8ba0-2c37866ed8fd | -12.81208 | -62.87934 | 2024-10-01 05:29:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
 
 
 [Clique aqui para ver as próximas entradas](README142.md)

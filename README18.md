@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ba78e253-7c9c-3c4e-b639-382061f565cd | -11.19176 | -45.71979 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 79fd43f1-ee60-3f23-85bd-405193109a1b | -11.19132 | -45.73613 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| ec0ade7b-710a-3eff-98a3-036d621b5d80 | -11.19111 | -45.72324 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 2616398d-59e1-3491-83c8-9da1d087354e | -11.19067 | -45.71096 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| cb23ea1f-28ed-39b3-8cf4-447067a3f4ec | -11.19065 | -45.73956 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 71db050e-fa09-3526-b0b7-3683d592f98e | -11.19046 | -45.7267 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| e1f447f7-699e-3c57-90e9-e46e2d3bdcc4 | -11.19025 | -45.69823 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 367a4303-ab85-358a-8f0e-2158aef13445 | -11.19001 | -45.71437 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| db39b986-5484-3755-bc12-7f6f3cdd00e5 | -11.18998 | -45.743 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 9dedfabf-2820-3527-8dd3-dca2a30f5d9c | -11.18981 | -45.73016 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| d1416cfc-d7eb-3d09-9baf-7f1ae220fe0a | -11.18934 | -45.7178 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| c492614d-e21b-3556-b6a2-f7132c195bba | -11.18867 | -45.72123 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| c61c31e0-3409-3bb9-b1d4-7c9e918ec83a | -11.18835 | -45.70836 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 86bf32b7-5d1e-3433-ae15-c347f88abd68 | -11.188 | -45.72467 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 24c4e841-137a-3cbf-8def-571c098657f8 | -11.18771 | -45.71177 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 42899fd6-cc28-39ae-9b09-dbf893e53b7e | -11.18732 | -45.72813 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 39180294-3dde-3b85-ad94-2e9c8d3610de | -11.18723 | -45.74394 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 47f64a19-7cf2-3463-ae25-fa68025a46a8 | -11.18706 | -45.7152 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| c9e48655-7c5d-34e3-afe7-43dc3258632f | -11.18665 | -45.73157 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 615dd9ca-98e5-38a3-a735-3a4c7ce3b246 | -11.18621 | -45.69024 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| c97b1e11-5d61-3560-bda3-04a1ca30192a | -11.18463 | -45.74191 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| a8a31b34-6e1b-37bd-9d10-e28542c55b83 | -11.18396 | -45.74536 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 0399f940-5b9d-382c-9569-c2c4b98eb322 | -11.18346 | -45.67542 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ecaaa3bf-cc5c-34b7-b0c1-b7103d7f9e59 | -11.18281 | -45.67883 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 034fe958-ee07-369a-af28-2e1c5c046a4b | -11.18236 | -45.71071 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 340996b2-0b06-3086-b573-7609ee340c7d | -11.18187 | -45.74288 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 25365008-78f3-3fce-a104-a637d36a3db1 | -11.18171 | -45.71416 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 22bc8339-16c9-3542-af2d-f2afed426f7a | -11.18122 | -45.74634 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 3ad84738-9bbe-3807-830f-b434b1bee6a5 | -11.17781 | -45.73489 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 597caeb2-bf99-38a5-848f-f3d9a95c354f | -11.17716 | -45.73837 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 0549cc24-f8f4-38bc-9311-855eaf56f97e | -11.17586 | -45.74529 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 33e81af6-bc72-3861-b918-9c96705dac8f | -11.1752 | -45.74876 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| dc4b963c-2405-33b1-a9a7-605af311c089 | -11.17235 | -45.61717 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 99a7ba6f-802c-3fb4-b8af-e383eb1056e3 | -11.1718 | -45.73732 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| bd17b8b3-c619-3680-93cd-63b91e942d86 | -11.17115 | -45.74078 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 9b5e6024-d3e7-31a6-81f7-712812397fbf | -11.17049 | -45.74425 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 16.2 |
-| 23628c1c-b4f7-304f-8dc9-d23b078859db | -11.16984 | -45.74771 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 16.2 |
-| 1b6fdcf4-f674-3a98-bdf2-ee9e1b2d294f | -11.16918 | -45.75119 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| e9940c25-b900-3e99-8432-7e4f4a340a87 | -11.16747 | -45.67212 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d369471e-debb-3ed7-838f-265b7066d0b9 | -11.16682 | -45.67556 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 341c58b7-340c-3967-90c0-7c6b6f2afd1c | -11.16646 | -45.61913 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ebd09eb9-4c71-3ca5-ad59-dbfb58197cb6 | -11.16583 | -45.62247 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 0fde3c05-d78c-357e-8503-9f3472d104e6 | -11.16578 | -45.73975 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 27e282f2-ceb1-38e3-971a-ad7e281ac319 | -11.16519 | -45.62584 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 71862e2e-6440-3ed5-b788-4532e5f55678 | -11.16513 | -45.74321 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 16.2 |
-| c4167424-f90e-3519-b1f5-6dced554ba5f | -11.16455 | -45.6292 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 57dd00e0-f74c-32f0-ad5b-c78b90b400ef | -11.16447 | -45.74668 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 16.2 |
-| 618a70a9-c43b-361a-b91d-608da93a9c99 | -11.16382 | -45.75016 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| d29028c4-2353-3ad0-b738-584fe4c29abb | -11.16342 | -45.66428 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 66663c31-15b7-36ae-97a3-073db58914b4 | -11.16316 | -45.75364 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| d6343b55-51fb-312c-95f7-2cc7bc330890 | -11.16277 | -45.66769 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 50d646db-575f-33dc-8a44-5a8ea2a28764 | -11.16213 | -45.6711 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 863ad9d4-c01d-380a-808d-d4ba15473067 | -11.16147 | -45.67455 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 0df65c81-18c2-31fd-ba12-e12fa65961e1 | -11.16116 | -45.61798 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 55c3478b-3402-30ce-ae97-e2c64730411d | -11.16052 | -45.62136 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| a53682ac-0627-3d6a-b61a-3fafd9754dea | -11.15988 | -45.62475 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| c601e5cc-0e83-324d-bb8d-aa202f5afe5c | -11.15976 | -45.74218 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 1a47a11f-cea1-3105-8344-4252c17043af | -11.1591 | -45.74565 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 2f7a3a3b-a60f-3940-932b-bcc7b884e06c | -11.15845 | -45.74912 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 231c2654-f96c-3f0c-8a94-70101c02084e | -11.15779 | -45.7526 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 81b89f75-d599-326a-bf57-3d80402739e6 | -11.15666 | -45.97155 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 57bb18fb-4a0d-32c7-947d-516d9710b71f | -11.15617 | -45.96961 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 10ea5647-6030-37fc-9eda-09d8b57daf96 | -11.15612 | -45.67355 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 9699929c-21e7-32de-8bb7-f58f373e4d9b | -11.15585 | -45.61693 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ad3acd79-2683-3956-924d-0ae3c09c7f89 | -11.1557 | -45.73424 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 05b588ce-aca1-34d6-9ae7-1c3b57f5bac5 | -11.15549 | -45.9733 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 22856022-32b8-3cc9-b328-7805ce444f2b | -11.15547 | -45.67699 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| ced027c4-f599-3a74-a401-3616b41bd23f | -11.1552 | -45.62032 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 0e5597e1-7ef3-33de-824b-dc68a9482df7 | -11.15505 | -45.7377 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| b9085dbd-28d7-3d9a-8c03-953fd2676050 | -11.15481 | -45.68044 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 3d01473e-09d5-340c-87f2-a90f9f6aa242 | -11.15455 | -45.62373 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 74e0f48b-d840-3ad4-9aaf-3c728d5534b5 | -11.15439 | -45.74115 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| bfef42ea-8043-346b-9b87-2588e5a2b385 | -11.15416 | -45.6839 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 5a0ff7a1-ed3d-39b6-b3b5-f59868cb04af | -11.1539 | -45.62712 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 9d87d03c-a7ba-3887-b9bd-e6cd4abad049 | -11.15373 | -45.74462 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 8769c892-4540-3ed3-ba0c-850cb86f09ef | -11.1535 | -45.68736 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 189405b4-1a5e-3df3-9b73-73b87ec3eb3a | -11.15284 | -45.69081 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| f1725863-d1ec-331d-b638-d6f713507977 | -11.1523 | -45.72285 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| d0597f4e-900e-3b7b-b35a-695972618036 | -11.15165 | -45.7263 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| e9da9dbc-7bfa-39fe-9c56-75c2ec60279a | -11.15116 | -45.97079 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 6e347526-74fe-3eb7-a1e1-bf30d924670f | -11.15099 | -45.72976 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 0f4d3340-f505-3e0e-93b9-20bd2b9d9d51 | -11.15088 | -45.70112 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 3d27610a-a62a-3318-b530-bc9d323bb2e6 | -11.15033 | -45.73323 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 6929fb18-1b43-373c-8a54-a8a81299dfc6 | -11.14999 | -45.97246 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 037ba685-dbd5-3208-bdc9-02cd00b990da | -11.14968 | -45.73669 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 5d652edc-f401-3f54-a618-cf37e4910277 | -11.14946 | -45.67944 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 7064e7e8-83ae-3a38-9348-9893f52f15fa | -11.14902 | -45.74015 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| e551d48c-c95d-3d4b-af23-a674bc1354d3 | -11.1488 | -45.68289 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.2 |
-| 1794f328-27ee-3585-8840-5766151af11b | -11.14836 | -45.74361 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 897796e8-2730-3c56-8d85-994255d97bde | -11.14815 | -45.68633 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 15.2 |
-| d7d3ab76-a0bf-362e-98f8-12811f56555e | -11.14791 | -45.62956 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 009c2071-c777-3ebd-b864-67f08abe01bf | -11.1477 | -45.74709 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| e58f1954-83c6-3bed-92e9-84c968f36da6 | -11.1475 | -45.68977 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| ec292d99-0ad5-352f-b731-6a5a78747c75 | -11.14726 | -45.63298 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 09f38f11-17b0-33ab-8484-e2ddb3252d5c | -11.14684 | -45.6932 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| e93fccc5-1df1-3fd0-9552-fd1578ab5ccf | -11.14628 | -45.72528 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 28fd5c23-939c-3b5f-a563-afe8ce410b5e | -11.14562 | -45.72876 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 3ec9a3ac-ecae-3d5f-981d-e237ffd60d6a | -11.14553 | -45.70007 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 7f5bf476-a3d1-3e4c-b730-dd826f75c146 | -11.14496 | -45.73222 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 68fdbca7-1e38-33be-b6eb-188880b9fa94 | -11.14488 | -45.70351 | 2024-09-30 03:45:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| f1222ae0-6484-3afc-a861-a44d49578b9e | -12.7583 | -53.9939 | 2024-10-01 00:51:46 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 43f57a1e-88c5-3132-a9ec-13cf3df25f5b | -12.5653 | -53.1413 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e2b345a5-d3b8-3c4a-b81f-9a58997fa54c | -12.5539 | -53.136002 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| af491686-e8a6-3552-96fa-3acd11aa5625 | -12.5555 | -53.143398 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 68d63b2c-68c6-3038-a589-c4d2726576de | -12.7404 | -54.0061 | 2024-10-01 00:51:47 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a5ebe1c2-b095-3b19-bc7e-31e40f05277a | -12.5409 | -53.123501 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 55dec32a-a37d-3d61-aefc-098ae8c2f919 | -12.5425 | -53.130798 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 50f61058-1d86-304e-8600-35e54343e176 | -12.7289 | -54.000301 | 2024-10-01 00:51:47 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a7e41ac4-80c3-3f5e-a156-d68666b6bd08 | -12.6051 | -53.468899 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e9950800-041e-377b-b9b8-9cec05725c6c | -12.6067 | -53.476501 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| de642ccc-fe20-3118-b529-abcc4c0c517e | -12.6084 | -53.484001 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a6b6c0c5-c838-32d5-a9c8-0c26abc2e5a9 | -10.9896 | -46.4557 | 2024-10-01 00:51:47 | METOP-B | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4c380646-0534-3bec-9d11-2f37bcb97e70 | -10.9923 | -46.466801 | 2024-10-01 00:51:47 | METOP-B | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9ca9ac6e-2680-3460-a677-126701961eb5 | -12.5953 | -53.471001 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 43e31cd5-105f-3cad-82a8-6928e47103a0 | -12.5969 | -53.4786 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b278dec0-da01-3db6-856b-f830d97e7084 | -12.5986 | -53.486099 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5a086599-b56e-316d-9afb-7a1bd9f7df25 | -12.7262 | -54.084202 | 2024-10-01 00:51:47 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| cf489d55-05c4-39d5-ae3f-34a11d5257ff | -12.7279 | -54.092201 | 2024-10-01 00:51:47 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 78b0e2c0-5f2d-3a19-90ea-7759f7e21d7d | -12.5115 | -53.130001 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0422bc64-d040-32ff-beb0-2713c38b5ac1 | -12.5131 | -53.137299 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b9814b8c-2949-3b4c-8e26-594b954df2f9 | -12.5871 | -53.480801 | 2024-10-01 00:51:47 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ecfec18f-57c9-3138-8979-85ce49d134fe | -12.7181 | -54.094299 | 2024-10-01 00:51:47 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 51b44aaf-1e3c-3d40-8f43-6943f7527b93 | -12.7198 | -54.102299 | 2024-10-01 00:51:47 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8bb56c4f-9350-3d02-8259-c26aeb2d5580 | -12.5017 | -53.132198 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 83dfc462-defc-3fdf-8cdd-d1ec42f22d1c | -12.5033 | -53.1395 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ea42c3a8-61e4-3d7e-b5f7-3a992106f732 | -12.5049 | -53.1469 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 05c083db-67f2-30fe-9872-422ef86cb8f7 | -12.5065 | -53.154301 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 046f736e-c58d-3686-8d48-8dcf6673d210 | -12.5773 | -53.482899 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e617dc87-e83a-3aa6-b5f3-2bb2cc0c9631 | -12.579 | -53.490501 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ffec273e-120a-35df-a66e-135cf0b4733c | -12.6897 | -54.0089 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6fe7059b-358b-3f55-9320-1fbf463e755d | -12.7049 | -54.080399 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f95953a6-f8bb-3b24-b80e-b650009a413b | -12.7066 | -54.088402 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| cd22c32b-62ac-334c-8c95-ef08cc88cef9 | -12.4935 | -53.141701 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f3470f23-e3da-3e63-bf8b-0eaf12f977f7 | -12.4951 | -53.149101 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1eba74dd-7428-3ec9-baa6-0a0302ff3459 | -12.4967 | -53.156502 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f3ba51c1-df22-3216-b8ee-dd5900a19e73 | -12.4983 | -53.163898 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 17de7182-0ccf-344b-ac78-d5bad1288298 | -12.6816 | -54.018902 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| cd91456b-d174-3f5c-85e9-3a7a034adaa2 | -12.4885 | -53.166 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0c81d536-b347-3c7f-9bad-4dc394ad8303 | -12.4901 | -53.173401 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 70041723-f03d-35c4-8f67-52595086fd2a | -12.4917 | -53.180801 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 82adeba2-36d0-3d59-b894-dbb476b8c93d | -12.6786 | -54.052898 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 97c84116-09a0-3c55-b3bf-8e92032ff807 | -12.6803 | -54.060799 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 97c2a284-12b6-371b-b7cd-5fe65ca2f8d3 | -12.6819 | -54.068802 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 961b773c-1378-30ca-abc7-7ceb6b6e1f22 | -12.6836 | -54.076698 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2029367b-a186-3c59-b631-e665288e85db | -12.5447 | -53.4743 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8e83745a-f085-3aa7-a086-d82361dc30ae | -12.6671 | -54.047001 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b0f385e2-9a52-350d-ba7f-4677ff2c9a7b | -12.6688 | -54.055 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 66b066cd-5f73-35c3-af36-a462e8e6f976 | -12.6705 | -54.062901 | 2024-10-01 00:51:48 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 576698e1-514e-315c-a785-838b400d9a61 | -12.4657 | -53.155602 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| bfe14525-37c4-3445-9b41-08abaa0758c3 | -12.4673 | -53.162998 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ec9669b1-914d-356f-9479-60de22f7b858 | -12.4705 | -53.177799 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 96840835-aaf2-3bec-b334-ba070ff1e10c | -12.4721 | -53.1852 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 612811cd-dbd5-30e1-8be0-5ebcbbadd883 | -12.5317 | -53.461399 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 67811200-1165-39ac-9dc5-1f269fb2015d | -12.5333 | -53.468899 | 2024-10-01 00:51:48 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b68c2641-ff01-34fa-a087-c42f407adb68 | -11.7212 | -49.997002 | 2024-10-01 00:51:49 | METOP-B | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e236221a-0890-3473-877e-628fea176c26 | -10.6871 | -46.145401 | 2024-10-01 00:51:51 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 06994b74-4081-324e-a379-2137f85a39cf | -10.6899 | -46.157101 | 2024-10-01 00:51:51 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| a63f25a1-3d7c-3b29-913a-61cde50aa6f9 | -10.6745 | -46.1362 | 2024-10-01 00:51:51 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| c71d4996-2f19-3c8b-8ca1-2f4701bf1662 | -10.6773 | -46.1479 | 2024-10-01 00:51:51 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 767d3bde-d79f-378e-88a8-a05eb8c009f8 | -10.7683 | -46.522499 | 2024-10-01 00:51:51 | METOP-B | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 64abdf31-da8b-3008-8547-d419a34b88b7 | -12.3076 | -54.0924 | 2024-10-01 00:51:54 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 16b17cc6-bb5e-3f6c-84e5-f55b6cca5386 | -12.3093 | -54.1003 | 2024-10-01 00:51:54 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5564ead1-8e46-38c9-83da-9a89e28556b0 | -12.3109 | -54.1082 | 2024-10-01 00:51:54 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 29e9e922-c8d2-3d19-a3dd-35ba15aba069 | -12.2611 | -53.970901 | 2024-10-01 00:51:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fa87e61b-8727-3a74-8e4f-16521b02fc47 | -12.2628 | -53.978699 | 2024-10-01 00:51:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 65c0e11b-702a-3593-a109-cf73f421191c | -12.2645 | -53.9865 | 2024-10-01 00:51:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 73078785-a968-3027-8a41-c43869e6571e | -11.1511 | -49.715401 | 2024-10-01 00:51:57 | METOP-B | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0b831373-6ac2-355d-9036-8ef03515f48b | -11.0982 | -49.575802 | 2024-10-01 00:51:57 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f651d16d-3a91-3013-acba-63476eb562dc | -11.0999 | -49.5835 | 2024-10-01 00:51:57 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b705968f-6617-3812-bd37-05ed0643238b | -11.1017 | -49.591099 | 2024-10-01 00:51:57 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 26f01081-ff8f-3240-8a54-a6e5f06f39dc | -11.1035 | -49.598701 | 2024-10-01 00:51:57 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f4bb050f-75c5-38f8-bf6e-099ad0abc0c1 | -11.0884 | -49.578098 | 2024-10-01 00:51:58 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 07b71c54-f782-34ba-9aa2-71f0eda733f9 | -10.7792 | -48.737 | 2024-10-01 00:51:59 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 29ae64c6-6092-3809-a921-b06068c4dccb | -10.7812 | -48.7453 | 2024-10-01 00:51:59 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 70b9ad8b-2b42-3aeb-b63e-95a2395fc24b | -10.7676 | -48.730999 | 2024-10-01 00:52:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 189d9784-6224-334b-b8c1-e5af761820dd | -10.7695 | -48.7393 | 2024-10-01 00:52:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f49d48cb-af82-384e-ac5d-7636936c71fc | -10.7715 | -48.747601 | 2024-10-01 00:52:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 8478e64b-ee2f-378e-b3e0-f859bbf037fc | -10.7597 | -48.7416 | 2024-10-01 00:52:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cac868a7-59ae-3206-a84a-a6dbf6fcc524 | -10.7617 | -48.75 | 2024-10-01 00:52:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 15081599-e46f-34cf-8b97-98a259eaf343 | -10.5686 | -48.0173 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 247cd3f5-30dc-306d-b700-d2c9be530338 | -10.5707 | -48.026402 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 7739dbef-f8a9-3dc1-97b5-ec69dddabd27 | -10.5729 | -48.0355 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bf209db0-8fbc-35dc-9e92-fb91ef976c5c | -10.744 | -48.763 | 2024-10-01 00:52:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 621de13a-f24c-3c9d-828f-dd368dd2f08c | -10.5566 | -48.010601 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f77ea3b7-ad7c-3ecf-b519-928f4062f35b | -10.5588 | -48.019699 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b3572439-e896-31c0-9d32-3f5d11c96c21 | -10.5609 | -48.028801 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e83c2aa5-91a8-3404-b98c-fd05f4de9f61 | -10.5631 | -48.037899 | 2024-10-01 00:52:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4ca63bdc-53c5-3ff5-8bc5-d395562cbf23 | 2.11365 | -50.67775 | 2024-10-01 00:52:00 | TERRA_M-M | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| ab22320d-04e6-3f16-ad75-62a2eaa7bb89 | -11.0018 | -50.188702 | 2024-10-01 00:52:01 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 109d96b9-81ff-3fb4-8df9-9a69e227b83a | -10.982 | -50.146999 | 2024-10-01 00:52:01 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| deb102cf-be49-381f-9724-02d44bf0085c | -10.9836 | -50.154301 | 2024-10-01 00:52:01 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2a2313b0-2654-370c-8111-5ba98e8c289a | -11.0957 | -50.645802 | 2024-10-01 00:52:01 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f27abd9a-a1b7-363f-b99a-d06eb51261f6 | -10.9421 | -50.063301 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 73321b4b-4bbc-3376-b6e6-0cc4212efe55 | -10.9438 | -50.070702 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 61474055-cdfb-39d6-b0c9-b49480d9afdc | -10.9455 | -50.078098 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 7e67648d-e1a0-3117-a3b2-0490c0e0d336 | -10.9323 | -50.065601 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 220eae7f-88f8-3fed-bb1a-49015b308d99 | -10.934 | -50.073002 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9175e8cb-5302-3ad9-a050-fce0d368c9be | -10.9357 | -50.080399 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 84844cfe-174e-3fa5-9c2f-6d109799ba36 | -10.9242 | -50.075298 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 08340bdf-4731-347a-9c7d-0bfd574975bf | -10.9259 | -50.082699 | 2024-10-01 00:52:02 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README19.md)

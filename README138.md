@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0f3c64ef-298f-3778-bf36-63000979f127 | -12.09026 | -60.90801 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4f30eed5-c2f8-3c7c-a124-fbb709a5e939 | -11.50854 | -60.37785 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8ef581cc-36de-34c1-88a2-13077f3ae68d | -11.50817 | -60.23911 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| b98b409d-7164-3bdb-a2bf-a7948ecabbc2 | -11.50741 | -60.24341 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d2c48bb9-92e8-3829-9d08-e586eb325a76 | -11.50115 | -60.23256 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| f6c339fe-b13f-3aca-999a-cbb3d394a13e | -11.49898 | -60.22168 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 97243436-adc5-32a5-954c-665892203181 | -11.49808 | -60.22676 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| dfb99f19-6e42-3178-82e7-060dbb5e8b37 | -11.49716 | -60.23198 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| c9cb7cb4-1c5c-3066-a209-e833fd1c21f8 | -11.4929 | -60.20982 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 36c7702e-a92d-362e-8e4a-7f302df25ffe | -11.49197 | -60.2151 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 632e21b9-2e3f-31ba-a956-5272c9204d91 | -11.37271 | -60.38955 | 2024-09-26 04:59:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 8e0ee5d7-124a-3cf8-adc5-bf344e2505cf | -11.33028 | -60.58278 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| dd3b1c46-bd36-33aa-80eb-193be3de179d | -11.29552 | -60.61506 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d4ea339d-edeb-333a-b627-074e948b7bf9 | -11.29527 | -60.59207 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b6a1f65f-e588-390d-b4cf-f76e1a0af604 | -11.29519 | -60.61488 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 84432354-c257-3732-a230-49b9b05ba13b | -11.2912 | -60.59137 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0293592e-d42a-3484-852c-32375d87ff8e | -11.2859 | -60.59781 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| daab5f3e-145d-3eff-a822-4297e901faa3 | -11.18521 | -61.2035 | 2024-09-26 04:59:00 | NOAA-21 | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| debbb625-cc58-3d24-bb27-d2597534da0d | -11.16386 | -60.723 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dd6bd30a-9856-33c0-92ff-2745d05f9a8d | -11.1591 | -60.72604 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| a15ddc9d-9749-37fc-8c1f-e77bdda1dbcc | -11.15245 | -60.66669 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 00b44dc8-bfa5-3255-aced-c99304bb641b | -11.14965 | -60.6585 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 89e7368a-5997-3045-9186-c908eee64116 | -11.14899 | -60.66229 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 062903fd-255f-3fd6-a0fa-2d597c8784b3 | -11.14835 | -60.66601 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 460b2654-6a65-39a6-8673-2f83bb97c8c4 | -11.14273 | -60.64975 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 976730cf-a182-3e37-a5f1-964bd21bec60 | -11.14209 | -60.65342 | 2024-09-26 04:59:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| ace15751-96ae-3be9-8b75-a84b6042e4f0 | -10.99984 | -61.41292 | 2024-09-26 04:59:00 | NOAA-21 | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 035a1025-e3af-33e6-8ce5-95facd4fb3be | -10.92553 | -60.92477 | 2024-09-26 04:59:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e07485cd-251c-39c6-aec2-e8e947502fd7 | -10.92483 | -60.92866 | 2024-09-26 04:59:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c48108ec-5297-347d-a4c0-16eb905f0078 | -10.92414 | -60.93253 | 2024-09-26 04:59:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 2cbc4bda-f259-37be-9527-f45a82408cb1 | -10.84494 | -61.37212 | 2024-09-26 04:59:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2854c496-da03-366a-acbe-3210b7bc1ea3 | -13.52095 | -61.41643 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| db5ea569-d121-38d6-b044-be2a3bdd2bc7 | -13.50027 | -61.27121 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 1ce76612-e832-349b-8e57-1d3adbef8664 | -13.49959 | -61.27497 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 29d15186-e60d-32bb-a525-152fec86e70e | -13.49686 | -61.26668 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 6c0ce907-649d-30b1-88b0-598b30e0e6d3 | -13.49617 | -61.27044 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c43adefc-9dd0-3537-99c0-f244aa3a0e71 | -13.49549 | -61.27422 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 50b77bd2-3100-3ae1-9c9e-c0b9f774757d | -13.49481 | -61.27798 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| cb845890-afcc-3bab-91f9-0625b192f2b2 | -13.49345 | -61.26216 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| 58e75ce8-cdcc-34e1-8109-dbba9fbec5cd | -13.49276 | -61.26592 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 1ce69b81-5dc1-3417-ac8a-dab1b196de6b | -13.48867 | -61.26517 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 0177f6a1-1450-39d8-9e10-0608f9b2c30a | -13.48731 | -61.24937 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| bf193ed4-367d-39b3-9d84-c41039dbd06c | -13.48662 | -61.25314 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 9bf0ac99-e6d8-3795-ab5e-c57d62a8b91c | -13.48524 | -61.284 | 2024-09-26 04:59:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 14231376-f300-307e-8087-615c706395a9 | -8.96756 | -62.14058 | 2024-09-26 04:59:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 91f8caa3-d294-3b43-8794-9dfc7a3a1439 | -8.95819 | -62.13884 | 2024-09-26 04:59:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 73d59456-9aed-346a-bda4-5d2e90f0fa25 | -9.13011 | -61.35101 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c52f1a7d-95a2-395c-b96e-4f3286c8bc05 | -9.12854 | -61.35983 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fc098f12-dfa0-3ab3-af95-87f6e92d5f60 | -9.12411 | -61.35906 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 199057d6-63e0-396a-a41b-c35321492140 | -9.12359 | -61.33627 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 5b6aebdc-e602-3d2f-980b-09b3e7d3a2da | -9.12202 | -61.3451 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| ff49464c-c27f-3452-94e0-15bd0b2fe728 | -9.12153 | -61.32221 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 99a057ac-236f-3cc3-8611-016ae2183474 | -9.12103 | -61.29947 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d9391b04-b9c7-3c21-9688-581977c81583 | -9.11867 | -61.31266 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 46745a6c-e5fb-39d8-b115-23013852991c | -9.11847 | -61.26456 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 57ca12cf-b26c-3df1-9a9a-4d4d852efd73 | -9.11846 | -61.26292 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1a549c4a-40c8-368a-977c-79fc75afca3e | -9.11789 | -61.31705 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 007e2ea3-d01e-3b21-a476-49053906d8c6 | -9.11758 | -61.34434 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 01943b07-35de-3296-83d9-519882667a7e | -9.11639 | -61.45422 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0df323cb-bfb0-36cb-af19-a6207cdc96fd | -9.11632 | -61.32582 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| c7cbe227-7db4-3746-8e66-4391e34a1d70 | -9.11554 | -61.3302 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| fc82294c-ee80-3ebf-aca4-70bca65800c9 | -9.11475 | -61.33463 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| faa25e3a-03b2-303e-8da1-0563e4a5cd98 | -9.11395 | -61.33907 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 8b8c4b27-3903-3cd5-b6df-ef8532c14a14 | -9.11346 | -61.31631 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| afdc8db8-a1f1-388f-b580-b644ecf26742 | -9.11249 | -61.27085 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| cc67ebd9-7556-382b-aad8-9b6981fb9a23 | -9.11236 | -61.34799 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 9a876d02-f755-36f5-bcf9-f0e14a41dd85 | -9.11192 | -61.45344 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ef6bbe23-3016-3b94-b55d-d117a6d2adfc | -9.11111 | -61.32942 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 6caf328f-292e-3247-a84f-dc1b2f67af99 | -9.11085 | -61.33569 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 0f1bdc62-a93e-3ed2-a936-0a00f75e06b0 | -9.11032 | -61.33384 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| ac74a65f-4800-3e5f-8060-6d64c1a2c8bb | -9.11008 | -61.34017 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| ddb454a6-3037-3390-8613-0cae49bd11a2 | -9.10964 | -61.26139 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| acd00f8f-88dc-3798-924c-6f62af07999c | -9.10953 | -61.33828 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 5271576a-8446-3758-8004-fa778be0ddeb | -9.10867 | -61.32176 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| c7c886a4-3928-3b75-8df9-4d05b96029ce | -9.10856 | -61.34909 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| e2f1b2a9-ed83-3642-accb-93d2f8905d40 | -9.10808 | -61.27008 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 301bbb2d-c503-31c3-881b-5d081f1ec5da | -9.10792 | -61.32614 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| a546c4fa-4f9b-3dab-ab59-40f833df8596 | -9.10717 | -61.33053 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 09020ec1-37e2-3909-8c67-922d64b65530 | -9.10641 | -61.33493 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 21eb9a26-d412-3455-919f-3da0ae98d057 | -9.10588 | -61.33311 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 6783157e-0c68-3879-b0a6-f6e8afee9e52 | -9.10565 | -61.33938 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| bb7a5d2b-9fe1-3d53-86cf-57950f67476d | -9.105 | -61.31657 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 87cd0caa-ff8e-39a6-8a3b-a2c9be44aeb5 | -9.10488 | -61.34388 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 6c189d1e-1083-3596-a5d9-73562493314d | -9.10449 | -61.26659 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 399242f8-921e-38a5-8a9b-9418ffdf03c3 | -9.10424 | -61.321 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 3f952260-b3ec-3d91-8bdb-f033bb30aa76 | -9.10381 | -61.3192 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 43b8c651-981b-3b81-8526-7ba8ba08c78d | -9.10349 | -61.32539 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 524a5c3d-6871-3e58-a275-53406f6e0620 | -9.10302 | -61.3236 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| db97e8a1-75f8-34b3-ba06-6fb4dd12f72a | -9.10121 | -61.33862 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5536d26b-776c-36cf-81de-3c2958f2e21a | -9.10065 | -61.33678 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7ac94f76-f940-3644-af7d-7e76da5c9b68 | -9.10018 | -61.314 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c7c8486d-7043-3af5-815c-e02e9f9a44c8 | -9.10008 | -61.26582 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 56aa4f60-5f85-37e3-91b8-cda9315edf42 | -9.09985 | -61.34122 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b6e0356f-5727-3d28-9a66-37ce2bcb2b65 | -9.09981 | -61.32022 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 59325ba1-be22-381b-b4d2-1aa252a1feb7 | -9.09939 | -61.31841 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a6f1eeb2-1ccd-370d-85e6-dfcb19a46a89 | -9.09932 | -61.27018 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 0bf56a0b-b62d-3dfc-8f26-37c6ae40ac87 | -9.07731 | -61.37119 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| dd85504a-2913-3fe9-b070-d33221d46e67 | -9.06766 | -61.37395 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| e032e48a-ecf7-3f22-b866-3cb0c38ea75b | -9.06168 | -61.382 | 2024-09-26 04:59:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 837670db-621a-3390-845b-14feb7c11147 | -9.14653 | -62.41759 | 2024-09-26 04:59:00 | NOAA-21 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| d8609eb0-1182-3922-b7ad-2a90c00e509a | -13.02099 | -51.19576 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| 534deda7-0564-3f56-8aaa-7eac7a319a62 | -13.02049 | -51.25758 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| a20c432c-0dd2-35ac-bf23-c403cd9afa07 | -13.02049 | -51.19339 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| d0c80486-c23d-3d42-8420-359d1301d8aa | -13.0204 | -51.25537 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| ca63eea8-1c01-3f6f-9f27-8e4c75143367 | -13.02035 | -51.20132 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.5 |
+| e8fe3d44-bf89-345d-a4ae-36b3afc2748f | -13.01989 | -51.19898 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| bc72cc2b-79c6-3748-aecb-2909caf41a51 | -13.01985 | -51.26308 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 8d56da0d-bd60-35a3-801b-759a30691c98 | -13.0198 | -51.26088 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| be79805a-9a8b-344b-a8b0-065a8ee346a4 | -13.01971 | -51.20689 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.5 |
+| bd702a84-1a79-306d-8315-7191d5ab3e79 | -13.01929 | -51.20455 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| c025c07c-b5bf-3bdc-8ad1-8c717b0f85d1 | -13.01922 | -51.2686 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| fa73faf4-9e59-3a97-bd96-95ef7f0df6f3 | -13.0192 | -51.26641 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| 311b2afe-5260-35eb-b826-eefb07435617 | -13.01911 | -51.32768 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| f24211e6-962f-3cc8-8aa4-544f3e274f3d | -13.01907 | -51.21245 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| ca396c7a-be1b-3207-be9d-3d8f6cbf58a9 | -13.01869 | -51.21012 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 5a01b7cd-2ae2-3aff-b968-ecad85ba3455 | -13.01843 | -51.21802 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 24ca68cb-8c7f-3c83-82aa-e9683726e8a1 | -13.01809 | -51.21569 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| ef2fb28c-9901-3c11-859e-f50f6da9f2be | -13.018 | -51.27746 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| 41bdadd4-6c78-3978-963a-02be2c8241a6 | -13.01795 | -51.27959 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 109.4 |
+| 23223d82-048c-3ad0-a1ec-2cbc194f6639 | -13.01779 | -51.22358 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 873e8030-188e-33b3-bb32-92733eadad51 | -13.01748 | -51.22126 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 0ccdf572-c869-3801-b928-51187cdcb65e | -13.0174 | -51.28298 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| 7cae6d08-ec40-36c6-9a40-7dc4413dd5ab | -13.01731 | -51.28508 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 109.4 |
+| 6905c1ba-dff4-3de9-9117-3a31cba57d3b | -13.01716 | -51.22912 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| c1ea966d-8974-394d-a55f-818bf31581f8 | -13.01688 | -51.22682 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 54281a51-12d4-3261-b9ca-c5310cf5b876 | -13.0168 | -51.28848 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 73.5 |
+| 0bb0d94d-e333-3bb8-95c1-42157e114f57 | -13.01668 | -51.29057 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| 853cb637-a0e7-383a-a936-6b62212bf6a9 | -13.01652 | -51.23467 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 921b568c-8ac2-33e7-9843-076d893bbf8b | -13.01628 | -51.23238 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| 2183d970-2606-3e6c-9d1d-2627e30a7dab | -13.01621 | -51.29398 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 73.5 |
+| 262c16e7-07c4-3649-a8a9-cdd6de030d80 | -13.01605 | -51.29605 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| 44deaea8-7732-3871-afcb-eb78f851e4b1 | -13.01588 | -51.24022 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 2360e3ce-2b07-3f02-8b87-f18c4cca70ed | -13.01568 | -51.23794 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| 359d4530-dbcd-3f43-a0f0-8b9f1d547dfd | -13.01561 | -51.29948 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| b653c0e8-c856-35a0-9b66-c2ee9e6c6fd1 | -13.01541 | -51.30155 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 24573c71-ceca-3341-b135-0a32f266c981 | -13.01524 | -51.24577 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| d4654b55-ff80-37c2-84db-e6e2efc0a98d | -13.01508 | -51.2435 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| a90698de-482e-3a3f-8a01-0f1358d83f13 | -13.01501 | -51.30498 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| b21575bb-4f00-3cee-a2c6-41ec9256fc51 | -13.01478 | -51.30702 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| d6f4b73e-52b1-382a-b3e8-78fa00b60dac | -13.01461 | -51.25129 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| 42473b44-353e-3cc8-a0bf-1406e2365fb6 | -13.01448 | -51.24904 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 28ef7cc5-d828-31c7-9d1d-f5f2d40ed976 | -13.01397 | -51.25681 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 8a78dc8d-f96d-3531-ac5c-12f346608f0d | -13.01388 | -51.25457 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 14adb4e7-156d-305b-88c3-f33fa5fcda9b | -13.01381 | -51.20056 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| dadca826-f415-31f1-b7c1-39f9553ffdba | -13.01334 | -51.26233 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 0fb3b02e-0c7e-3995-87f4-8aba084e47d9 | -13.01329 | -51.2601 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 26d6ca72-d94a-3093-a6a7-60d2e2b5edcc | -13.01322 | -51.32144 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| c5a48ac8-e7c6-32e7-83ab-e37a6b57652a | -13.01317 | -51.20613 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| e3b0875e-16d0-38f0-ad4f-8707fec62965 | -13.01288 | -51.32344 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 82a64d33-23b9-3c5d-958f-741c1b621299 | -13.01275 | -51.20377 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| abd2b644-f318-3bea-b48b-0e0d59e32ab6 | -13.0127 | -51.26783 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| 4beba8af-73ca-3a5b-a236-76fd7e85fee9 | -13.01269 | -51.26562 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| e18f0bfe-d573-3b02-9358-ea0b6ea195fb | -13.01262 | -51.3269 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| ec7c88fe-eda5-339c-95c1-0f369463d4f4 | -13.01253 | -51.21169 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.7 |
+| 7c6d92ca-08ec-3aa4-be25-64046dab3094 | -13.01225 | -51.3289 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 0bfabb80-05c7-31de-b237-f5e7ee91816a | -13.01215 | -51.20933 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 9f028bc6-8f35-3c22-b2ee-37717334cbd6 | -13.01209 | -51.27114 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| d0bc8468-2db8-3b7f-8e81-aba8fd6bfac4 | -13.01207 | -51.27333 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| af153f27-f427-3d8b-985a-bf72d8a5ae05 | -13.0119 | -51.21725 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.7 |
+| 1d0e8661-fdd0-3868-adce-34508b89e753 | -13.01155 | -51.2149 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 0e2b22ca-49f5-36de-9006-1efb0aea10fa | -13.01149 | -51.27668 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| d2e3aa2c-a8d0-3734-a214-473d40788e8b | -13.01144 | -51.27884 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 109.4 |
+| ea96b6ec-874e-3f8f-b55a-aff03d27de7b | -13.01126 | -51.22282 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 957a2dab-3927-3df3-90d5-c563d9f0035a | -13.01095 | -51.22048 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 4f1b27d5-317b-369e-8baa-d0234edfba13 | -13.01089 | -51.28219 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| 2942341a-daff-3d8d-81dd-7105c17ec7b6 | -13.01081 | -51.28432 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 109.4 |
+| 358c0a6e-7348-35cf-84fc-e60d50f0214d | -13.01035 | -51.34526 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 13d47046-53cf-3141-810e-15c6829c7c0a | -13.01035 | -51.22604 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| feeedfc3-081e-3d69-8668-74aa67712e89 | -13.0103 | -51.2877 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 73.5 |
+| 32e5d8ea-40bf-34a3-aff9-8181eb9ef9dd | -13.01017 | -51.28981 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| acb8e727-e937-30ce-b679-dce4127e5c04 | -13.0097 | -51.2932 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 73.5 |
+| 1bed6194-7462-3e1f-a79d-2f33a48b0c76 | -13.00954 | -51.29529 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| 32780551-cfe4-3eac-a51d-8c7ea338abb2 | -13.00936 | -51.23945 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 9a7688b1-5317-3d84-bce9-50c06725662f | -13.00911 | -51.29869 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 1c7f72b7-9bab-302b-821f-1778b56b4729 | -13.00891 | -51.30079 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 7141d529-0229-32cc-b93e-01a34f438f0a | -13.00872 | -51.24501 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 00a6bb76-e5ab-349a-bb26-f3950fe73ad8 | -13.00856 | -51.24271 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 8a78df41-39de-3bfd-ab74-463767c8b7cc | -13.00851 | -51.3042 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 97861aa0-c7c7-3ae0-827c-7f1d15efdfde | -13.00828 | -51.30626 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 8d8b1bee-abc2-3f44-ac36-1516a85c9be5 | -13.00809 | -51.25053 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 6209443f-67c6-3153-a6a9-7f8eff4d6f6c | -13.00796 | -51.24826 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 38174230-3227-37e0-af46-f8e9b86f5d95 | -13.00792 | -51.30968 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 5df0e05e-039c-3a7a-9b2d-a7b7a83d6321 | -13.00765 | -51.31173 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 605e1f94-df87-3ffa-8dd4-aa5d8a5d7b0f | -13.00745 | -51.25605 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| 4fc0c2b6-a702-361e-a72c-fb539e3cba9c | -13.00737 | -51.25377 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.4 |
+| 31bd9751-b4d9-331b-bb2e-4d39ca8d2754 | -13.00732 | -51.31517 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| b3139fb6-0942-326a-9d5c-19929d7b786b | -13.00702 | -51.3172 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 53715a16-8bb3-3128-bdfc-46cc7287ba72 | -13.00682 | -51.26157 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| db433de2-dc25-3a54-9bf5-91080b44d337 | -13.00677 | -51.25932 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.4 |
+| eca9a597-de53-3126-85b8-b261be224b33 | -13.00619 | -51.26707 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| a44f43a1-b5c0-3534-b7ea-1965b2cec2f4 | -13.00617 | -51.26484 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 38b27c0e-1628-32ac-b2b0-2fba60826914 | -13.00558 | -51.27036 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| cf42ada2-92cc-3202-813b-40f23662de2b | -13.00556 | -51.27257 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| a3cdcc4e-a91f-34c4-adb9-c3dab4ffd20d | -13.00498 | -51.27588 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 0c612318-2a17-35f5-a0a3-162eb47c14be | -13.00493 | -51.27806 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 56e193cf-7935-3e3b-b9cb-8a9b65c2aa71 | -13.00473 | -51.22208 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 0aec8eac-4560-393f-96a8-e5cd2438d497 | -13.00442 | -51.21973 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 98c979ca-a69c-335d-8cbe-54acee6aea5d | -13.00439 | -51.28139 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| fb39f597-8c26-3e63-b7f0-2d5c46293d36 | -13.0043 | -51.28356 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 47c6677e-1c75-3389-bd91-8115d675c8a8 | -13.00409 | -51.22762 | 2024-10-01 05:29:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.7 |
 
 
 [Clique aqui para ver as próximas entradas](README139.md)

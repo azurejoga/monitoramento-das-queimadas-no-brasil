@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 834830ee-313e-3314-b01c-fc45dad9ebeb | -12.07835 | -50.01514 | 2024-09-30 12:34:00 | TERRA_M-T | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| 1ad4c5a2-404f-3fb8-b6ed-3991886cd7bd | -12.03881 | -50.04842 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 17.1 |
-| f9968ca9-ddb4-35f5-ac7f-82fbe7c852e1 | -11.95935 | -50.18785 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| 45f4f990-737e-3288-828f-48b3c1e7debd | -11.9592 | -50.1777 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 127b93c5-623c-3c58-9d02-c885adc0f37b | -11.95661 | -50.19331 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| c0d4c294-6db1-334d-985e-4dec0db3cb8c | -17.6403 | -53.1528 | 2024-09-30 12:34:00 | TERRA_M-T | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| bc9ab95b-3288-3db9-8e8f-52bde8ee036b | -11.85309 | -49.62114 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 26.8 |
-| f25f9592-cf02-3619-a6ac-6cdcd458e260 | -11.70217 | -49.92083 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 16.6 |
-| 7d2dc062-e356-312b-a725-70026f69bd80 | -11.69976 | -49.93593 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 16.7 |
-| 76419067-58bb-35a6-9401-c481a9ae905c | -11.15873 | -49.71706 | 2024-09-30 12:34:00 | TERRA_M-T | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| e263c01f-439d-3290-a567-448613a8a069 | -11.15634 | -49.73196 | 2024-09-30 12:34:00 | TERRA_M-T | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 24.2 |
-| caa4c0af-bf6d-3dd8-b95c-92f0ecbe8ba9 | -11.1107 | -49.58249 | 2024-09-30 12:34:00 | TERRA_M-T | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| 185907c2-5340-3840-9b41-5f2fdee8cd4b | -11.09959 | -49.5807 | 2024-09-30 12:34:00 | TERRA_M-T | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
-| 76272359-1ae0-3350-b3e6-ebce1cdc7963 | -13.6749 | -50.90393 | 2024-09-30 12:34:00 | TERRA_M-T | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 186.2 |
-| b11be7ae-ed07-382f-867c-efb46be4572e | -13.67218 | -50.92057 | 2024-09-30 12:34:00 | TERRA_M-T | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 147.8 |
-| b4cb9766-fce2-32fb-baeb-5fb8ccf84a81 | -13.57596 | -51.06015 | 2024-09-30 12:34:00 | TERRA_M-T | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 2965ddf9-812c-3570-9ce9-bb38036e651d | -13.57306 | -51.07726 | 2024-09-30 12:34:00 | TERRA_M-T | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| d016d8e1-ccc2-3777-9b7e-bc9c586b2b3e | -12.41623 | -50.97374 | 2024-09-30 12:34:00 | TERRA_M-T | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 21.8 |
-| 869c054d-c671-342b-9de8-bff55798a048 | -12.28594 | -50.50358 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 16.6 |
-| b7d48d62-bba3-3364-a56d-7243155710cf | -12.27427 | -50.50163 | 2024-09-30 12:34:00 | TERRA_M-T | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| e8526e22-ce3b-3352-a2ab-04a9d591cff2 | -12.22585 | -50.67479 | 2024-09-30 12:34:00 | TERRA_M-T | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 29.0 |
-| 280a65e8-dbc6-3a0d-8efd-f9aa5b963799 | -13.69944 | -50.94828 | 2024-09-30 12:34:00 | TERRA_M-T | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 35.7 |
-| 93a961cf-29dd-3d3c-8101-562464e15867 | -13.68157 | -50.91096 | 2024-09-30 12:34:00 | TERRA_M-T | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 251.3 |
-| 9119bce7-0b32-3821-99b2-5919ab3b9b0a | -8.86973 | -51.02801 | 2024-09-30 12:34:00 | TERRA_M-T | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 13.9 |
-| 4a2e51e3-8817-30c7-8c22-b2295c688e1b | -10.50843 | -51.1325 | 2024-09-30 12:34:00 | TERRA_M-T | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 18.6 |
-| 271b2018-c72d-31b7-bc77-977c2eccc9a4 | -13.2165 | -51.22372 | 2024-09-30 12:34:00 | TERRA_M-T | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 42.3 |
-| a2faadb7-2fe8-3057-9ca0-c53885617d1f | -13.20436 | -51.22164 | 2024-09-30 12:34:00 | TERRA_M-T | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 23.7 |
-| 2d2b857d-e19d-3727-acc2-3d880989a307 | -17.71716 | -53.15839 | 2024-09-30 12:34:00 | TERRA_M-T | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 32.4 |
-| 3621649b-56ca-30b0-8850-ea51961970b7 | -17.65456 | -53.14068 | 2024-09-30 12:34:00 | TERRA_M-T | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 22.2 |
-| 5e4424b0-35ae-3529-a149-4cb6b17bd952 | -17.63783 | -53.15926 | 2024-09-30 12:34:00 | TERRA_M-T | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 41.0 |
-| f87414a0-3e06-3d5f-92fa-fa7095a03e6f | -11.06065 | -52.45959 | 2024-09-30 12:34:00 | TERRA_M-T | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 64.1 |
-| 8c4c0554-6185-348e-9635-5fe7acf88de2 | -12.30169 | -54.11564 | 2024-09-30 12:34:00 | TERRA_M-T | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 48.1 |
-| 7912a0da-755f-39cc-aa7e-fa7dce675446 | -17.14272 | -56.20031 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 68.0 |
-| 699e85f3-c02e-34e9-a849-faadad186a9f | -17.13246 | -56.20395 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 72.7 |
-| 4dca5c04-c493-37b6-b445-a12bd30fc74f | -17.12645 | -56.19681 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 79.9 |
-| c47b2db9-db0c-334c-be27-a2def06551a8 | -17.02117 | -56.09243 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 146.0 |
-| 9d190d20-1d3b-3d7e-92c1-79d6877bbc4b | -16.79592 | -55.95844 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 35.6 |
-| ec3547fb-5659-3584-9b65-f0a145d95cd0 | -16.79322 | -55.84327 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 296.0 |
-| 2e0145d6-e56c-3f5c-a732-ea1ad11553e1 | -16.78619 | -55.83446 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 439.3 |
-| dd34f674-90b1-3712-ae87-99a51ed81a9e | -16.77969 | -55.8691 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 121.4 |
-| 5a137bcf-32b6-3566-95fa-a2f8da172cdb | -16.77722 | -55.83995 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 601.6 |
-| 4ba1646e-226f-315b-b650-3a549db74380 | -16.7702 | -55.83111 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 460.6 |
-| 32215bcb-20e5-3224-b1ec-5547f575aae2 | -16.76366 | -55.86573 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 199.2 |
-| f2781577-05c7-3ab3-b5cc-e7382245edfe | -16.76122 | -55.83662 | 2024-09-30 12:34:00 | TERRA_M-T | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 192.5 |
-| c0c60f71-2943-3e07-9c8c-6dd8fff59fbf | -20.18013 | -43.51299 | 2024-09-30 12:36:00 | TERRA_M-T | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 18.6 |
-| ad020546-2503-3ed8-964d-b76ffcf526fa | -22.84978 | -43.70984 | 2024-09-30 12:36:00 | TERRA_M-T | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
-| 00baabbf-d796-3de3-814a-e95e3013cfa3 | -22.84824 | -43.72285 | 2024-09-30 12:36:00 | TERRA_M-T | ITAGUAÍ | RIO DE JANEIRO | Brasil | 3302007 | 33 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| c08adf0c-2fe9-3737-a1ae-d81e92851800 | -22.84118 | -43.71608 | 2024-09-30 12:36:00 | TERRA_M-T | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 21.3 |
-| e65a2629-580a-36b0-9cfb-6743c8d3f494 | -22.74387 | -43.76313 | 2024-09-30 12:36:00 | TERRA_M-T | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 11.5 |
-| fb1e758a-7116-38a3-994d-bd642d3f0335 | -22.44584 | -43.7835 | 2024-09-30 12:36:00 | TERRA_M-T | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
-| d37a8982-2a18-3874-b3a3-af1c964e05c5 | -20.34157 | -45.09185 | 2024-09-30 12:36:00 | TERRA_M-T | SÃO SEBASTIÃO DO OESTE | MINAS GERAIS | Brasil | 3164605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 22.7 |
-| ccee608d-7671-3743-aa33-db4e6737fd20 | -21.28399 | -45.24637 | 2024-09-30 12:36:00 | TERRA_M-T | NEPOMUCENO | MINAS GERAIS | Brasil | 3144607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.6 |
-| 24d45d70-5ee2-39d7-b43d-5d701a701410 | -21.71908 | -46.17858 | 2024-09-30 12:36:00 | TERRA_M-T | CAMPESTRE | MINAS GERAIS | Brasil | 3111002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
-| e2968fdf-f1bc-31db-a265-098fd2525acc | -21.53064 | -45.87912 | 2024-09-30 12:36:00 | TERRA_M-T | ALFENAS | MINAS GERAIS | Brasil | 3101607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| 0f861e88-9e7d-3acf-aff8-759cfbf68b20 | -21.37168 | -45.34967 | 2024-09-30 12:36:00 | TERRA_M-T | TRÊS PONTAS | MINAS GERAIS | Brasil | 3169406 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
-| 1ae2da05-4e34-3ed0-b4f4-20110ab7b9fe | -20.97159 | -46.3291 | 2024-09-30 12:36:00 | TERRA_M-T | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.8 |
-| 964833a1-83c2-3efb-8e9e-330ced10f880 | -23.49587 | -47.22557 | 2024-09-30 12:36:00 | TERRA_M-T | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| 40af1542-977a-31d4-890c-e9ca46ea4e86 | -23.19444 | -46.41597 | 2024-09-30 12:36:00 | TERRA_M-T | NAZARÉ PAULISTA | SÃO PAULO | Brasil | 3532405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
-| 7b55d564-4215-3f22-8d0c-7c698486a1e1 | -25.90342 | -49.40118 | 2024-09-30 12:36:00 | TERRA_M-T | MANDIRITUBA | PARANÁ | Brasil | 4114302 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
-| 6a3f816e-d129-31f9-bdf1-8242be57021b | -20.5626 | -47.06987 | 2024-09-30 12:36:00 | TERRA_M-T | CAPETINGA | MINAS GERAIS | Brasil | 3112406 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 77d98da1-b4d2-3fff-898d-faa14f5b2067 | -20.31702 | -46.65891 | 2024-09-30 12:36:00 | TERRA_M-T | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| edc678ed-a0b1-3a88-8834-889443ffccc3 | -20.31569 | -46.66827 | 2024-09-30 12:36:00 | TERRA_M-T | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 14.9 |
-| 5c739e08-8181-35b0-9bac-08e2425d7435 | -20.27453 | -47.45922 | 2024-09-30 12:36:00 | TERRA_M-T | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 187.2 |
-| 7505b179-f378-3ee7-bffa-f87a03d40ee0 | -20.27312 | -47.46872 | 2024-09-30 12:36:00 | TERRA_M-T | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 73.6 |
-| dde02c86-fca9-3e61-84c7-fd8c802abbc8 | -20.26562 | -47.45778 | 2024-09-30 12:36:00 | TERRA_M-T | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 58.5 |
-| 176e2879-edc8-3b47-9ba2-4ae09031942c | -20.26421 | -47.46726 | 2024-09-30 12:36:00 | TERRA_M-T | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 1fd2ffe4-6377-37cb-9825-75ca2c487d36 | -20.17424 | -47.82433 | 2024-09-30 12:36:00 | TERRA_M-T | ARAMINA | SÃO PAULO | Brasil | 3503000 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| f452555c-e2d5-32d6-ac9d-043a8f19f8b4 | -20.15704 | -47.81503 | 2024-09-30 12:36:00 | TERRA_M-T | ARAMINA | SÃO PAULO | Brasil | 3503000 | 35 | 33 | nan | nan | nan | Cerrado | 81.1 |
-| ce635896-32c2-3af0-abde-1ddb3d992a11 | -21.97104 | -48.01475 | 2024-09-30 12:36:00 | TERRA_M-T | IBATÉ | SÃO PAULO | Brasil | 3519303 | 35 | 33 | nan | nan | nan | Cerrado | 57.5 |
-| 91a73a71-95d6-31a8-8a05-fc9423288887 | -21.96961 | -48.0244 | 2024-09-30 12:36:00 | TERRA_M-T | IBATÉ | SÃO PAULO | Brasil | 3519303 | 35 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| 4f41975f-f6ab-3a32-82e8-de6cd42d453c | -21.96211 | -48.01323 | 2024-09-30 12:36:00 | TERRA_M-T | IBATÉ | SÃO PAULO | Brasil | 3519303 | 35 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| 7c59cfd9-89b0-3fd9-b058-aeae6174061a | -21.61552 | -47.8027 | 2024-09-30 12:36:00 | TERRA_M-T | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 42.8 |
-| 3eb7c0e1-d530-33ee-92c8-68c6241ff240 | -21.6141 | -47.8123 | 2024-09-30 12:36:00 | TERRA_M-T | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 188.2 |
-| 30dcdfb4-7130-30d5-8f9f-342c9aae3e31 | -21.10869 | -47.04375 | 2024-09-30 12:36:00 | TERRA_M-T | ITAMOGI | MINAS GERAIS | Brasil | 3132909 | 31 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 58fc7dba-d7d4-393b-94e1-1876dfd52113 | -21.0998 | -47.04233 | 2024-09-30 12:36:00 | TERRA_M-T | ITAMOGI | MINAS GERAIS | Brasil | 3132909 | 31 | 33 | nan | nan | nan | Cerrado | 123.8 |
-| 24338576-f381-31e2-ac07-0d99ac6b02c8 | -21.09844 | -47.05179 | 2024-09-30 12:36:00 | TERRA_M-T | ITAMOGI | MINAS GERAIS | Brasil | 3132909 | 31 | 33 | nan | nan | nan | Cerrado | 42.0 |
-| 987fb14f-77da-3e79-a4ce-2326182969a9 | -21.76081 | -48.49282 | 2024-09-30 12:36:00 | TERRA_M-T | NOVA EUROPA | SÃO PAULO | Brasil | 3532900 | 35 | 33 | nan | nan | nan | Cerrado | 51.0 |
-| c4c8a5df-2659-3eeb-abf8-c8bae696b2a4 | -21.7593 | -48.50273 | 2024-09-30 12:36:00 | TERRA_M-T | NOVA EUROPA | SÃO PAULO | Brasil | 3532900 | 35 | 33 | nan | nan | nan | Cerrado | 45.3 |
-| a3b8f816-6e10-3570-80e9-130fcf45dd36 | -23.61799 | -47.91058 | 2024-09-30 12:36:00 | TERRA_M-T | SARAPUÍ | SÃO PAULO | Brasil | 3551108 | 35 | 33 | nan | nan | nan | Cerrado | 12.1 |
-| 12685801-2c27-39d1-99ef-5150fd56c8ae | -24.00645 | -48.64758 | 2024-09-30 12:36:00 | TERRA_M-T | TAQUARIVAÍ | SÃO PAULO | Brasil | 3553856 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
-| 519db3a7-c1b8-37bd-bf93-8fc7e422495d | -25.90188 | -49.41126 | 2024-09-30 12:36:00 | TERRA_M-T | MANDIRITUBA | PARANÁ | Brasil | 4114302 | 41 | 33 | nan | nan | nan | Mata Atlântica | 11.9 |
-| bb5714dd-18ea-323b-91b0-c00ee99bcd52 | -20.29418 | -48.67479 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 27.1 |
-| 077bfca7-0b3d-3fa0-9ea9-afd2d116b606 | -20.29262 | -48.6849 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 36.1 |
-| 0fb72a86-64b6-3c05-bce7-e611da063755 | -20.28497 | -48.67326 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 259.7 |
-| b15889d4-4776-3fee-b2e6-bed0646d1e3a | -20.28341 | -48.68336 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 451.8 |
-| c46bf40f-4109-3ef6-99a7-7653e3809d34 | -20.28184 | -48.69356 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 65.7 |
-| 16ffa9e6-3a82-3aa0-b09e-699c3b93985f | -20.27578 | -48.67168 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 36.4 |
-| 87c56551-8fd6-3044-9e27-33d11ee9ec68 | -20.27421 | -48.68184 | 2024-09-30 12:36:00 | TERRA_M-T | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 37.8 |
-| 1c459adf-9a3e-31cf-a1d2-979e36a879a1 | -19.66846 | -48.77098 | 2024-09-30 12:36:00 | TERRA_M-T | CAMPO FLORIDO | MINAS GERAIS | Brasil | 3111408 | 31 | 33 | nan | nan | nan | Cerrado | 49.8 |
-| 5f1237d1-6483-39cc-851a-50447518d9a0 | -19.66685 | -48.78126 | 2024-09-30 12:36:00 | TERRA_M-T | CAMPO FLORIDO | MINAS GERAIS | Brasil | 3111408 | 31 | 33 | nan | nan | nan | Cerrado | 172.4 |
-| 4b7d0dad-598b-34f2-a5a9-b6f9a88f1c50 | -20.65002 | -48.76077 | 2024-09-30 12:36:00 | TERRA_M-T | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
-| a0c80375-5771-35b7-8603-aa3a282ff788 | -20.64238 | -48.74907 | 2024-09-30 12:36:00 | TERRA_M-T | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 61.2 |
-| 5c2a6000-e000-345d-b4e1-d0f4adcf720d | -20.64082 | -48.75919 | 2024-09-30 12:36:00 | TERRA_M-T | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 152.1 |
-| ff18e21b-9068-389f-99c9-fed77337d2a9 | -20.63318 | -48.74753 | 2024-09-30 12:36:00 | TERRA_M-T | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 83.0 |
-| 89960861-89b1-3f09-bf8a-cc322b70d505 | -20.63161 | -48.75765 | 2024-09-30 12:36:00 | TERRA_M-T | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 62.8 |
-| 3e6214c0-a9f0-3c13-8e5f-5f83657c5e2a | -21.37324 | -48.49268 | 2024-09-30 12:36:00 | TERRA_M-T | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 15.2 |
-| b83d6c2f-4308-381f-a37e-d19f9808bb18 | -21.37171 | -48.50262 | 2024-09-30 12:36:00 | TERRA_M-T | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 41e6a4c8-2652-3318-9129-56b4173be144 | -21.31654 | -49.22382 | 2024-09-30 12:36:00 | TERRA_M-T | MARAPOAMA | SÃO PAULO | Brasil | 3528858 | 35 | 33 | nan | nan | nan | Mata Atlântica | 281.1 |
-| 8d1f0de7-5de0-3302-bcc6-5325ea7b0a75 | -21.31491 | -49.2343 | 2024-09-30 12:36:00 | TERRA_M-T | NOVO HORIZONTE | SÃO PAULO | Brasil | 3533502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 135.2 |
-| a7506877-b750-3e07-8d03-c0b43fe93ca4 | -21.30887 | -49.21169 | 2024-09-30 12:36:00 | TERRA_M-T | MARAPOAMA | SÃO PAULO | Brasil | 3528858 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| b6ab97c7-7fb4-3ee4-90f9-de34f8e418e4 | -15.20142 | -46.22355 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| da0f1e2d-75bd-3cf5-ae38-ec48d9b8320b | -15.19807 | -46.223 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 4de5c722-8db3-3239-8cd0-8d15daaf755d | -15.19748 | -46.22662 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7d60103a-5ca7-3265-8171-b1cba3b316ca | -15.19413 | -46.22607 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| d865dd2e-8b60-3478-aa36-c98e774db1f8 | -15.19295 | -46.23331 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c42bd8e4-11de-3f1b-bb17-5551ad8f38c1 | -15.189 | -46.2364 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 146d6755-b7cd-3aa2-8ceb-7b409dfc99d6 | -15.18565 | -46.23585 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6202e319-bdc5-384b-b69a-5ae421e0f901 | -15.18506 | -46.23948 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 762a078d-5e27-3fb6-b790-781ac75b0132 | -15.18447 | -46.2431 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 69589600-d2a7-314e-89a7-faea4fe6b6dc | -15.18053 | -46.24615 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 0a222837-376b-3f49-bcdc-a368810d0d1c | -15.17993 | -46.24981 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 6d673847-4934-3366-8e06-90e9360b402f | -18.09013 | -46.13707 | 2024-10-01 04:14:00 | NOAA-20 | PRESIDENTE OLEGÁRIO | MINAS GERAIS | Brasil | 3153400 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 110a6c73-06c0-3b43-84fb-7a0ed5eb4c20 | -18.08954 | -46.1407 | 2024-10-01 04:14:00 | NOAA-20 | PRESIDENTE OLEGÁRIO | MINAS GERAIS | Brasil | 3153400 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 5206e088-245f-3584-a84f-7bae8c42cee7 | -17.97866 | -46.79176 | 2024-10-01 04:14:00 | NOAA-20 | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| cb988359-993b-3d4f-8427-791d884d9e18 | -17.59432 | -46.95697 | 2024-10-01 04:14:00 | NOAA-20 | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 5bf1108e-4fed-38c5-abc2-c4d0c283e2fa | -17.59097 | -46.95636 | 2024-10-01 04:14:00 | NOAA-20 | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 0e934d36-5155-3e9f-b84f-c4a348cc802d | -17.59035 | -46.96011 | 2024-10-01 04:14:00 | NOAA-20 | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b3b6c2f9-df9a-3f05-8e1a-234f479e8b7d | -17.58761 | -46.95574 | 2024-10-01 04:14:00 | NOAA-20 | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8d441c78-c45a-3b61-94b6-504360b7e7ce | -17.58699 | -46.95951 | 2024-10-01 04:14:00 | NOAA-20 | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| a4383e05-08c5-302b-88b9-6dc0ed716d4d | -17.582 | -46.77915 | 2024-10-01 04:14:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 181c13e1-3133-3b3c-a0d7-e65712626114 | -17.58139 | -46.78285 | 2024-10-01 04:14:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 56e10cac-1861-3fde-a145-3aadc5cf24d2 | -17.47758 | -47.00611 | 2024-10-01 04:14:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 2bd67038-b2c4-39c1-a1ff-897943ccc69d | -10.90689 | -46.34582 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 9e0c2ea0-aba0-39e3-b933-538417c3f244 | -10.90625 | -46.34969 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 8c3091c1-0274-30f0-869a-c3cceaf0378f | -10.90406 | -46.34139 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 1e986424-628f-3a6a-85db-3aa73db14d2a | -10.90059 | -46.34081 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7ce7157e-76a0-34bd-9c71-f616c1403598 | -10.87503 | -46.34451 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e1f7d2ce-fcf4-368d-8e57-c3e056f352c4 | -10.84384 | -46.37195 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2c70a347-3252-3ad9-b9c8-e00bc9db5879 | -10.8432 | -46.37585 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 9bff6428-0dcc-366b-8354-2831b9ee0221 | -10.77711 | -46.53798 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a9795573-1ee8-32d4-940d-5bc9056e18d5 | -10.77648 | -46.54182 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 473a7385-74f4-3902-a011-50d62f5376e4 | -10.77362 | -46.53734 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 0c3d07ff-5236-36ba-83ba-7fa564d63583 | -10.7042 | -46.16976 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 68a4d605-27fc-32e6-81d6-a38e89c8b3f3 | -10.70076 | -46.16917 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| bf86c0d5-e4cf-337c-b058-8b1238a2bf6d | -10.69731 | -46.16857 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 7695126e-ae8a-336e-bc92-63a5e247a16f | -10.69387 | -46.16798 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 7007de2b-4f06-3b5f-b435-26534900c03e | -10.69105 | -46.16357 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 7d5553b2-231c-343e-a8f1-d9fec2d7fbf7 | -10.68824 | -46.15917 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 9dfdc220-964f-38c6-bc14-29dc2b3310d3 | -10.68761 | -46.16297 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| dfb75ff5-82a2-3826-a183-fcba043484ba | -10.68579 | -46.15955 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 49bb0227-4eac-3918-8569-be3ee9c6dd50 | -10.68479 | -46.15859 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| a4d58771-7625-36bb-af82-dbdfbddf63a1 | -10.68235 | -46.15897 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| ae586a97-7f26-31fe-a99f-ae0413b6b790 | -10.68075 | -46.14701 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| be43ca80-3c52-35a1-ba2f-7fe8b3272a1e | -10.68013 | -46.15079 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 89c3bd82-bf92-3e4b-ad8d-27be6c75ac7c | -10.67951 | -46.15459 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b929080e-cd26-384a-8223-34f3ee89f0b4 | -10.6789 | -46.15839 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 14ff375f-b9a0-3523-a5aa-6d8291dbf864 | -10.67597 | -46.11102 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 0cbe2bf1-2fa1-382e-9ebb-aca06c95420f | -10.67535 | -46.11482 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| d63cdec8-39bc-33ee-84a9-dea0feb8ea2f | -10.67473 | -46.11863 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 4f95c71a-ef5d-3af6-862e-bd9bc84c40e8 | -15.28284 | -47.51327 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 98f09135-9a19-37ba-afe6-eea32afdbfe2 | -11.00681 | -46.48637 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 3dbc0e34-f954-354a-999d-6ed30064258e | -11.00399 | -46.48177 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.5 |
+| a9c49d67-390d-3c58-8277-6031a6c5a841 | -11.00331 | -46.48591 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.5 |
+| f5db654a-1a7d-3089-a290-38ecc1f3b4f3 | -11.00264 | -46.48994 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 7d7d1276-18ac-31fe-8d4e-706dba048e9e | -11.00119 | -46.47709 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| b80d06af-acd7-30f3-b659-0d4899b6019f | -11.00051 | -46.48122 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.5 |
+| 2ef66f27-fd5f-3b01-8210-c52797d125a3 | -10.99983 | -46.48533 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.5 |
+| 07e05807-e0b0-3cff-b60d-c70d9ea7202c | -10.99916 | -46.48936 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| db06d6e3-4555-349e-bdc7-da058dabbffa | -10.99851 | -46.4933 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| e7f91df7-6ccb-3b8e-a1c6-5394e778659d | -10.99785 | -46.49724 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| edb9301f-c0a0-3b85-90f1-3bac5884f0d8 | -10.9977 | -46.47653 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 03457b35-6fd6-3042-b0fa-940fd11b5cbb | -10.99702 | -46.48066 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 7fe67f7e-530b-3f89-8093-5fec5d1d74c3 | -10.99525 | -46.51295 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 5ee4dda8-4c09-39d4-9d6f-159ccf618f87 | -10.9946 | -46.51685 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 23f787c2-9b8b-39fb-93bf-ea3edc7a0de9 | -10.99437 | -46.49665 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| dcc9952c-17a2-3803-a684-c07abdd7bfbb | -10.99396 | -46.52075 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 860f095d-e873-36be-8bcd-9269d4fa4f66 | -10.99338 | -46.45948 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 464a30ec-22bf-313b-9c5e-f63407bd994a | -10.99331 | -46.52466 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| da19f1bd-e2a2-3392-8f1f-e11c3d8ab354 | -10.99266 | -46.52858 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
+| 5e3d09b1-14d2-3897-a1ff-57093a14d0d4 | -10.99241 | -46.50844 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f7ad9da6-ac87-39fb-8bb5-6ac663d15cd1 | -10.99201 | -46.53252 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
+| 02ebf4b0-bc46-3f1f-8ce4-6bc99bfc400f | -10.99176 | -46.51236 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 565600d6-9fef-3537-a46a-fc43066a46ce | -10.99135 | -46.53646 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 36.9 |
+| 5b2e4533-f4da-3e5c-9061-9930ae7475da | -10.99054 | -46.45499 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d8337305-f60b-34e6-9a25-bdc4972a7408 | -16.07049 | -50.37389 | 2024-10-01 04:14:00 | NOAA-20 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| df7fd9e7-c278-33e7-8e39-1d9ceece6ba1 | -10.99047 | -46.52016 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 754f68c9-40e8-3413-8f8b-fa2913d7daa7 | -10.98982 | -46.52407 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 887db207-3c11-30f2-9a8b-d0610687ca89 | -10.98917 | -46.528 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 36.5 |
+| db8df085-6fa9-3303-b23b-6ce68edf1e5a | -10.98851 | -46.53193 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 36.5 |
+| 34991575-4d57-3580-9a97-4076b46064dc | -10.98786 | -46.53589 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 16.5 |
+| c8e72dc0-83ee-3642-8c16-2cc329f87a80 | -10.98772 | -46.45047 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 95cded5d-870d-3159-8d33-3c40237c441c | -10.98273 | -46.43752 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 65053aef-401a-39ab-9030-b116f01943e2 | -10.98207 | -46.44145 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| d74300b2-b5fa-34d0-87e1-7ed1560b899c | -10.96497 | -46.47958 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d69a62f7-9b31-34a9-be2a-4d3c2b24dcae | -10.96148 | -46.479 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 43d7d797-91cf-3d4b-b953-532ba8527be4 | -10.95906 | -46.5149 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 60d31300-871d-3e2a-ba8c-b92e07dcf83c | -10.95822 | -46.49851 | 2024-10-01 04:14:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 3a424c8e-0a06-3218-92e4-e1f1818c47bd | -11.33708 | -46.26913 | 2024-10-01 04:14:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a1f9f0e3-ffa2-3a15-8a5e-aa474dc58c19 | -12.19297 | -47.26898 | 2024-10-01 04:14:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 6328461a-dd9a-3573-8a29-c23b46f67741 | -11.87561 | -47.32473 | 2024-10-01 04:14:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c5ef8552-6c68-3741-9ef5-19feff60e4a7 | -11.86468 | -47.12704 | 2024-10-01 04:14:00 | NOAA-20 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e3e161f6-91b6-3b7e-9ef7-80806d18343f | -11.86399 | -47.13114 | 2024-10-01 04:14:00 | NOAA-20 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 4712bc23-e261-3b18-ba84-06539f0a887e | -11.80777 | -47.59629 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0202ed41-4ce3-3292-97dd-33b691d2c741 | -11.80703 | -47.60067 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| cd109f44-9bba-3eb3-bb54-0be8f39d2b47 | -11.8034 | -47.60003 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| cb2e3e38-2f8e-3b8f-a43a-9c755050dc00 | -11.76998 | -47.59847 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 74514e83-3298-38dd-91d1-de74e2ef0856 | -11.76923 | -47.60284 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 935d7c13-e8f4-38fd-a591-73acd5148228 | -11.7656 | -47.60218 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0e1b7038-f351-3112-a242-79317855ba45 | -11.76485 | -47.60653 | 2024-10-01 04:14:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 7adcb0e9-48ba-39ac-bf84-b75624f68fee | -11.44613 | -46.96241 | 2024-10-01 04:14:00 | NOAA-20 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README76.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9518f0df-f2cc-38cf-b95b-0429aaf90c3b | -12.66768 | -54.65904 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| fc0f8eeb-2343-3af7-b035-8ba004a0628d | -12.66617 | -54.66866 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| e3840639-1264-341a-a69a-3acd1e07383d | -12.66465 | -54.6783 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| efbd4bfb-f208-3c01-9ac5-17e8cf6d9bfa | -12.6556 | -54.68096 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| cde79ea8-7a20-3497-b9e5-b1831e54231b | -12.60059 | -53.16601 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| ae4418fc-4767-3852-a7bd-cf3877f7be4d | -12.59924 | -53.17502 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 5880c385-c58c-3b71-9fb0-94b8767600b6 | -12.59173 | -53.16465 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 5e02645c-5f34-3e14-826d-5719c46d293e | -12.58288 | -53.1633 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 20f89010-aa60-3b09-a24a-2a6819389e70 | -12.57402 | -53.16195 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 98fd2458-74a9-3227-b2b1-16e5caee43ae | -12.5386 | -53.15652 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 53aae738-6a2a-35e4-9989-6646bc05b818 | -12.53724 | -53.16554 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| 26d256b2-2d32-3346-9811-7f7c00fb5eec | -12.5325 | -53.49762 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 32.6 |
-| 630307a4-6b3c-3903-a2b9-7ae8d6346282 | -12.53113 | -53.50668 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.4 |
-| 415ccba9-0952-3ac3-b56d-d8db421fe486 | -12.5141 | -53.18387 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 5022e5f7-5f90-3c2c-8fa5-18b26082d5de | -12.50927 | -48.92683 | 2024-09-26 05:42:00 | AQUA_M-M | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 2c7d6530-1aab-3165-9c64-698bcfa00704 | -12.50041 | -48.91219 | 2024-09-26 05:42:00 | AQUA_M-M | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 76ed7d2d-ffdc-354f-b479-58f15cddeeca | -12.49868 | -48.9254 | 2024-09-26 05:42:00 | AQUA_M-M | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| 732d4b37-98b0-3d31-b993-970f43369845 | -12.49698 | -53.49213 | 2024-09-26 05:42:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 7.1 |
-| 28f477e8-e2d3-394f-94f1-0217dd36d2fe | -12.48981 | -48.91072 | 2024-09-26 05:42:00 | AQUA_M-M | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | 29.3 |
-| 25e2ab34-e10d-3977-8a30-45d8206ec079 | -12.48809 | -48.92391 | 2024-09-26 05:42:00 | AQUA_M-M | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | 17.8 |
-| c950ff04-6b6e-3058-a52c-41d2e6d25b94 | -11.95261 | -60.3642 | 2024-09-26 05:42:00 | AQUA_M-M | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 17.3 |
-| dde0a9b4-52f8-312c-b8f6-b5d95e0e5cd1 | -11.84539 | -49.61497 | 2024-09-26 05:42:00 | AQUA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 17.8 |
-| 4a111e1b-c7ca-3b42-947c-3dfdf73153eb | -11.6675 | -54.44519 | 2024-09-26 05:42:00 | AQUA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 8a19ef3d-8125-36e1-b3b8-50640693b21c | -11.60136 | -60.34736 | 2024-09-26 05:42:00 | AQUA_M-M | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 24.5 |
-| b4fdf90b-a210-33dd-96fa-2487deddf7c7 | -11.48636 | -56.77222 | 2024-09-26 05:42:00 | AQUA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 10.9 |
-| c5e0cb15-ef52-3db0-a3b3-6c3093a320dd | -11.28521 | -57.52067 | 2024-09-26 05:42:00 | AQUA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 395a30cb-0515-3859-91ba-04e3fc415d5c | -11.28472 | -57.51503 | 2024-09-26 05:42:00 | AQUA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 9efaf8b9-7ced-345a-a304-11f13ea7582d | -11.2186 | -51.15342 | 2024-09-26 05:42:00 | AQUA_M-M | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| f6a113e1-5d32-3a9d-8465-9ac98b6bde19 | -11.20964 | -54.77038 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 16.0 |
-| a0b3f4cc-52c9-3357-9ded-bba86dd2b297 | -11.20947 | -51.15209 | 2024-09-26 05:42:00 | AQUA_M-M | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 39.8 |
-| 11c399dc-031e-3d29-b9a7-fd875f019c20 | -11.20806 | -54.78044 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 17.8 |
-| 05035ed5-c06d-31e4-8b34-2e68ee80918b | -11.20189 | -54.7589 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 19.1 |
-| 768034a2-a4ed-3294-a3e2-8bb19927ca0e | -11.20032 | -54.76889 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 127.3 |
-| 4bbd2087-527b-3218-86ab-3cbb1f6e2649 | -11.19874 | -54.77892 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 140.9 |
-| d723e609-9f3c-34b3-af35-0b3e323aac38 | -11.19727 | -53.89822 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| cd7b7dfb-a54c-33e2-8070-ca53b7f1f401 | -11.19716 | -54.78899 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 47.6 |
-| 5c761c66-6feb-378d-9520-1fefb4258b68 | -11.19585 | -53.90751 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 221bc09e-9e26-3b55-8148-82542d21d85c | -11.19257 | -54.75745 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 15.4 |
-| 76567936-89bf-3b53-a762-afd843a8b286 | -11.191 | -54.76741 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 18.9 |
-| 62de27e7-e2f5-3076-bbed-a8395201eb66 | -11.18942 | -54.77742 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 18.4 |
-| 96675f32-00aa-3731-ac09-91b18b0073c1 | -11.18167 | -54.76595 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| b2295fdb-46d8-3025-8d13-d71d3e8bffa4 | -11.01493 | -53.94338 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 12.8 |
-| c1defff6-f467-3de6-9ed2-5856db11721f | -11.0135 | -53.95273 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| f3b1c628-e94b-36db-9e14-af2e20e16c1f | -11.00732 | -53.93265 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| a96f6df9-8f12-3d68-9352-adf483f6dff7 | -11.00589 | -53.94197 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| b3d2e45d-fe3c-3e34-a5d9-16f2bd4ebb8b | -10.95798 | -55.77044 | 2024-09-26 05:42:00 | AQUA_M-M | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 575a2132-4918-3b6d-bf1a-229cdfc477f0 | -10.92765 | -54.26933 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 888599ac-b1c1-32b1-8854-b35cb5a86ce2 | -10.88502 | -57.42133 | 2024-09-26 05:42:00 | AQUA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 10a985df-0ba7-3f07-938c-86927e26e66a | -10.86653 | -57.46368 | 2024-09-26 05:42:00 | AQUA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| babccf19-5e7c-373d-b9d6-a21317c042a5 | -10.85777 | -51.16375 | 2024-09-26 05:42:00 | AQUA_M-M | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 0188f718-2ab7-3cba-a7bd-da5ef5dad7fc | -10.84867 | -51.16243 | 2024-09-26 05:42:00 | AQUA_M-M | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 91670d6c-a7b0-35e6-a6c8-17c8d1994700 | -10.60575 | -51.11877 | 2024-09-26 05:42:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 5c78c10c-473b-3222-8c64-9716ed18c4ce | -10.58162 | -54.23925 | 2024-09-26 05:42:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 74f4cf27-98e2-3740-b9c2-a55b3074669e | -10.53159 | -51.11808 | 2024-09-26 05:42:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 68e0cb45-d0d7-367b-b143-8c808ae545e6 | -10.51708 | -51.15454 | 2024-09-26 05:42:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 376444eb-4ca9-3f6c-b7b0-d233664b3f4c | -10.50627 | -51.22992 | 2024-09-26 05:42:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 7b2bba1a-3d7e-39e1-9b35-8dd7e1460c58 | -10.46386 | -50.76312 | 2024-09-26 05:42:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| b43d7ad7-1fa2-3e2c-8b97-3976a0a71577 | -10.46246 | -50.7728 | 2024-09-26 05:42:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| b381e3ba-4084-3aec-ba3b-43061dfd0d34 | -10.45583 | -53.30519 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 226f151f-9912-3fcb-bb0d-f2846ece04a1 | -10.45445 | -53.31428 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| 66256596-14a7-390b-9159-791c9c5f5427 | -10.44691 | -53.30381 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 15.3 |
-| 9e7ab9ab-dc78-3049-a138-841d10bc6098 | -10.44554 | -53.31289 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 22.2 |
-| e75676a8-3271-3f51-a8e3-c3c79875860d | -10.4153 | -53.69879 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| ed0b2080-2d92-3a54-8bb6-634338b00744 | -10.4114 | -52.93174 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 5ee72467-f4c6-3f40-b26f-ca9f31e9ebde | -10.39091 | -58.88499 | 2024-09-26 05:42:00 | AQUA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
-| d3e786d8-7e45-30db-bb61-1a3d5674a38f | -10.37625 | -58.89445 | 2024-09-26 05:42:00 | AQUA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 14.3 |
-| 97993490-24cd-3dcf-80c0-529f53ea57b6 | -10.36655 | -53.77105 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| 910c7c2c-dd24-3913-8750-2bc370f726e4 | -10.35752 | -53.7697 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| b2be58e4-1276-3ecc-b72b-1fdc2b79709d | -10.35609 | -53.77901 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 95b8a695-acd1-3ae5-85e6-a9c8ea9df08f | -10.31464 | -56.76094 | 2024-09-26 05:42:00 | AQUA_M-M | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 8780af14-22df-364d-856d-9fd6ffadb028 | -10.28465 | -53.03555 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| a9a79032-13f9-37db-86dd-b0a0d5043e9b | -10.1258 | -50.01246 | 2024-09-26 05:42:00 | AQUA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 81bc7d0a-297e-3ac7-8d67-03c6c9cbebb5 | -10.12128 | -50.01579 | 2024-09-26 05:42:00 | AQUA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 8ba84dca-73a0-352e-8e7c-d18ffcca2bb3 | -10.04465 | -53.46014 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| 8d29b5f1-ea7b-31ec-b375-d8a38f075ba9 | -10.04325 | -53.4693 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 13.9 |
-| 6862557e-f4bc-34aa-aa86-038613543f4d | -10.03709 | -53.44957 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 27.0 |
-| 72fe4b6e-7386-3871-8a73-2b40ef236316 | -10.03569 | -53.45874 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 686.7 |
-| 9e8325c1-2aff-39a5-8360-4f5b790c6492 | -10.03429 | -53.46792 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 891.2 |
-| 01026a79-8e7d-3373-9820-5e2fda0d994b | -10.03288 | -53.4771 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| bae3c51e-4d7b-30c8-8162-f1f455ab1a39 | -10.03148 | -53.48627 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 158.9 |
-| 37ea9453-9fdc-3327-af43-307006321ba8 | -10.03008 | -53.49545 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 62.3 |
-| 136d829b-1fd3-3855-8767-d0b2271c18cd | -10.02812 | -53.44821 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 79.6 |
-| 8d9c9068-e043-34cc-ae02-537c29c805cb | -10.02672 | -53.45736 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 190.0 |
-| bafb2020-ee94-3d83-a9ed-786136d27e94 | -10.02533 | -53.46651 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 342.4 |
-| 109c9aba-d0bc-3162-933d-e135057460fd | -10.02252 | -53.48488 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| c87c0b62-3b57-315b-aec8-9df9f50bb636 | -10.01777 | -53.45597 | 2024-09-26 05:42:00 | AQUA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 21dee971-555c-3ebf-b26b-740e70e571d1 | -14.83774 | -48.90617 | 2024-09-26 05:42:00 | AQUA_M-M | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 93f52840-dfe6-35b3-8220-17865f3ac998 | -13.81678 | -48.02849 | 2024-09-26 05:42:00 | AQUA_M-M | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| 136f2e0b-6081-3f41-998c-69b72b0e5110 | -13.30907 | -46.3237 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 22.6 |
-| 231db816-72b0-3fd3-a06b-a2a67979f458 | -13.29592 | -46.32178 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 20.0 |
-| 1c0eeb1e-613d-36e0-968a-67f33053d01b | -13.27371 | -50.14712 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| b95bd2d7-117d-3411-bc9b-271da9f75258 | -13.19614 | -45.62835 | 2024-09-26 05:42:00 | AQUA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 32.4 |
-| 228fcb2d-a13a-3a58-9ec4-80f661d47e06 | -13.19328 | -45.65262 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| 5e15bc28-7177-37af-8740-8fd829d7a2c4 | -12.97471 | -45.3079 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 23.8 |
-| 1ca25fa0-b5f8-3fea-b11b-ee47f0342529 | -12.96347 | -45.28072 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 235.4 |
-| 911e9bb8-640d-3952-830d-119f0ce0be2f | -12.96077 | -45.27291 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 47.1 |
-| 5c5ac37c-6411-3fdf-82d8-f845f4e72094 | -12.96049 | -45.30618 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2320.5 |
-| 3c61ea69-ddee-3771-bfa0-c34fb84ec221 | -12.95761 | -45.29837 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2213.9 |
-| ae5a00d9-0384-30f3-9b45-9cb9a65f1e35 | -12.95752 | -45.33154 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 178.4 |
-| edb74b47-8128-353f-a75c-f581d49c2b0c | -12.95447 | -45.32372 | 2024-09-26 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 775.7 |
+| 8d241d3f-171b-3295-ac82-a7bfba35ec4e | -2.85157 | -50.74733 | 2024-10-01 05:44:00 | AQUA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 14.9 |
+| 4858b6f8-76ba-3d2c-a128-5afd62578aec | -2.84802 | -50.70952 | 2024-10-01 05:44:00 | AQUA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 4b190cfc-d7f1-3b4b-b5bf-d5bb4b715104 | -2.84666 | -50.71866 | 2024-10-01 05:44:00 | AQUA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 23.7 |
+| 17f9a945-8ea8-339e-9cf0-b51d954c8085 | -2.8453 | -50.72778 | 2024-10-01 05:44:00 | AQUA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 18.9 |
+| 7f72668d-419d-3cb7-b391-0a12ecb32001 | -2.68131 | -51.70575 | 2024-10-01 05:44:00 | AQUA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| c39cf967-09ca-3724-ac01-414bbb204d4c | -4.64293 | -50.98935 | 2024-10-01 05:44:00 | AQUA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| 96478249-d2d0-3651-aa21-0758e49796d7 | -4.089 | -51.11503 | 2024-10-01 05:44:00 | AQUA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| a380c8d4-4417-37a0-a4c2-6473ac7bffd3 | -4.08765 | -51.12412 | 2024-10-01 05:44:00 | AQUA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| c92b40e1-eda4-3b3c-a858-15bb891ac38a | -3.07766 | -53.06113 | 2024-10-01 05:44:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 57870602-87d1-3a94-aede-fbc6f4e3cc06 | -2.85496 | -53.31639 | 2024-10-01 05:44:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| c226325d-d0d0-39a5-ae33-d92edcb775a8 | -2.84589 | -53.31507 | 2024-10-01 05:44:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| f55aa67d-e39d-35e8-8c89-660c92eb5f01 | -16.62066 | -52.58077 | 2024-10-01 05:46:00 | AQUA_M-M | DOVERLÂNDIA | GOIÁS | Brasil | 5207253 | 52 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 59048d37-a22d-3acd-a0df-02f7a092734d | -10.90041 | -46.34581 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 19.3 |
+| 04da7fc6-4e9b-3ee9-a369-c06843bdc961 | -11.00931 | -46.48945 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 105.2 |
+| 9d6d2f39-e25b-348a-86ff-22f55f07a6f2 | -11.00401 | -46.46227 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 132.0 |
+| cd9b3d3b-a1ad-3597-a243-4bc44be9e69b | -11.00134 | -46.48305 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 294.4 |
+| 33351049-cab8-3fed-9e37-84b74ac5c97c | -10.99857 | -46.50454 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 70.6 |
+| 82047eea-272f-3660-9ec9-94d27c18de2d | -10.99827 | -46.46653 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 210.6 |
+| a0a4670b-3ffb-3082-a33f-5abca9a2248e | -10.99579 | -46.487 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 181.8 |
+| 9712e256-cb5e-3fb2-bff5-9944bf3fb0f1 | -10.99562 | -46.52737 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 26.3 |
+| cea28289-fbdd-358a-a031-407627960053 | -10.99311 | -46.50917 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 34.8 |
+| ecd6f1e3-db9b-3a8c-a59e-a67551d0626e | -10.99034 | -46.53201 | 2024-10-01 05:46:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 30.2 |
+| 157f325f-2752-3aac-a4d2-ca24e8c90919 | -14.77735 | -48.06894 | 2024-10-01 05:46:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 15.9 |
+| afd078c9-4f87-3b0f-be60-2688c16eab6d | -10.76965 | -48.74991 | 2024-10-01 05:46:00 | AQUA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 4d6bafb7-af60-3c91-bb72-80f6242bb70f | -10.56647 | -48.0265 | 2024-10-01 05:46:00 | AQUA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 8af3a3a2-72c3-3897-b153-6eff29fe2f59 | -10.56437 | -48.04253 | 2024-10-01 05:46:00 | AQUA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| c9faf415-bcef-31ef-a068-2d0b4a51b55a | -13.50344 | -48.57584 | 2024-10-01 05:46:00 | AQUA_M-M | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 12.8 |
+| fc764ca6-981a-3b77-adad-c582fa059a91 | -13.50141 | -48.5921 | 2024-10-01 05:46:00 | AQUA_M-M | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 2294fd11-4eb6-3581-a3f9-983acd4460df | -13.46702 | -48.6165 | 2024-10-01 05:46:00 | AQUA_M-M | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 057f35c2-e284-30f5-af31-e05c3fc0505a | -13.46147 | -48.62088 | 2024-10-01 05:46:00 | AQUA_M-M | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 18.3 |
+| 5d4ca734-b3be-365f-901f-fd2c61f88c01 | -13.21903 | -48.55594 | 2024-10-01 05:46:00 | AQUA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 4c9c9cd0-de34-3b7f-b54d-0f99eca2372b | -13.21708 | -48.57164 | 2024-10-01 05:46:00 | AQUA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 31.1 |
+| 522e1734-1e05-3c3c-a526-f511888c1e67 | -13.2119 | -48.56425 | 2024-10-01 05:46:00 | AQUA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 5eccba64-d4e4-3f82-97e6-e40e283dfdaa | -14.74111 | -48.76236 | 2024-10-01 05:46:00 | AQUA_M-M | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 32.5 |
+| 28219f9e-b3b0-3174-9cde-6fd55b09b05e | -14.73473 | -48.76635 | 2024-10-01 05:46:00 | AQUA_M-M | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 51.8 |
+| b9e78e1c-de46-3fe2-92d4-56384fbcebfe | -14.72924 | -48.75957 | 2024-10-01 05:46:00 | AQUA_M-M | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 56.3 |
+| f1587d79-649e-3400-8ec0-44e0d06f7094 | -14.72272 | -48.76462 | 2024-10-01 05:46:00 | AQUA_M-M | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| 2b2568a4-fda2-302d-afaa-2b5bbe715201 | -12.2091 | -50.47127 | 2024-10-01 05:46:00 | AQUA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 0b0d5032-1770-3a62-8796-ef0035e87366 | -12.20743 | -50.48327 | 2024-10-01 05:46:00 | AQUA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| e413875a-2fad-3439-9f6a-af68730ede81 | -12.15126 | -50.06716 | 2024-10-01 05:46:00 | AQUA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 4da16c0c-138f-3d75-90fa-b94a45d8ba4f | -12.14953 | -50.07991 | 2024-10-01 05:46:00 | AQUA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 053daaf6-eb39-3ce3-a380-5faa01e305e9 | -12.14255 | -50.05298 | 2024-10-01 05:46:00 | AQUA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 52.3 |
+| a45b6258-b4ac-3012-8ffa-b43514b96662 | -12.14082 | -50.06573 | 2024-10-01 05:46:00 | AQUA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 31.6 |
+| 8463846d-71f1-3cc8-805e-0e569678c41f | -12.1321 | -50.05156 | 2024-10-01 05:46:00 | AQUA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 911efa3f-1264-3281-9846-d3e4f9efe5ec | -10.98381 | -50.16107 | 2024-10-01 05:46:00 | AQUA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| 0d3f6398-55ad-3534-a54d-e81ad421e262 | -10.97653 | -50.1535 | 2024-10-01 05:46:00 | AQUA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| 2d18c144-c1ae-3375-8296-8df4b0f3d0ae | -10.97484 | -50.16553 | 2024-10-01 05:46:00 | AQUA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 0624a64e-6cd9-310b-9ab6-fc217d140624 | -13.63444 | -51.16874 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 19.9 |
+| 3b239a9c-8054-3e63-8e56-7a30d2656934 | -13.6292 | -51.13298 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 400e6904-5d86-3978-ae6c-39177d223a98 | -13.62765 | -51.14445 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 25.3 |
+| 26ed3372-c55f-3653-8f71-40c577716b17 | -13.62455 | -51.16735 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 278c9db1-08f1-3b55-b53c-1c64e3e04bde | -13.59799 | -51.06321 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 6d3e2985-6bff-31a6-99e3-b60aaf0a933f | -13.59639 | -51.07478 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 7006f5f4-8e69-3100-b3ec-a0baa9de04f2 | -13.58523 | -51.15518 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| 58b4df82-2ee5-3c5c-9551-36f73b8db78b | -13.57534 | -51.1538 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| c1d11605-1d6f-3e22-8eaf-6f3781c2fe9b | -13.57376 | -51.16521 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| ee0b0b2f-33da-39f1-aaaf-5607e3b19b82 | -13.56026 | -51.1167 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 8af24680-5a95-35d6-a420-f0610c11de70 | -13.06312 | -51.16695 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| 89a79830-b2a8-3b65-8b3c-dd0e0148e020 | -13.06159 | -51.17817 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 312.6 |
+| fe8c0888-8dee-358b-ac37-388381cbdb2b | -13.05178 | -51.1768 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 0d93dc42-2aab-3067-9f55-1518a3fd275e | -12.39526 | -50.9665 | 2024-10-01 05:46:00 | AQUA_M-M | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| cdd32586-50ae-3f56-82bc-38e220512b59 | -12.3937 | -50.97777 | 2024-10-01 05:46:00 | AQUA_M-M | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 0aabfb7a-ece1-3154-a457-2f431b23ea14 | -13.93037 | -50.86962 | 2024-10-01 05:46:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| b565bd76-3271-395d-abd7-254706254c26 | -16.65862 | -50.58364 | 2024-10-01 05:46:00 | AQUA_M-M | AURILÂNDIA | GOIÁS | Brasil | 5202601 | 52 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| e10672cc-3d3b-3644-8fce-98b2984f3589 | -16.65682 | -50.5977 | 2024-10-01 05:46:00 | AQUA_M-M | AURILÂNDIA | GOIÁS | Brasil | 5202601 | 52 | 33 | nan | nan | nan | Cerrado | 24.4 |
+| 88e1da5a-b5e3-3471-94c2-3cc417e2ddd9 | -16.09746 | -50.32798 | 2024-10-01 05:46:00 | AQUA_M-M | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| b300cc3e-4818-386d-9fc6-d73dc95e634f | -16.09396 | -50.33558 | 2024-10-01 05:46:00 | AQUA_M-M | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| 3ebbc488-a2fb-36a6-bb4a-1347d70fe4f6 | -10.50423 | -51.11866 | 2024-10-01 05:46:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| d5588c42-52fe-32f8-9cfc-5150ca677571 | -12.26721 | -51.53492 | 2024-10-01 05:46:00 | AQUA_M-M | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 33fe4112-2704-3ca6-ae5d-08ca064f72df | -13.22898 | -51.22551 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 2656cfe2-143b-3890-b61f-7e9c66a24267 | -13.21864 | -51.21724 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 32.3 |
+| d4e19763-228a-3c49-956e-6afb6a74ef6b | -13.20884 | -51.21586 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 45.0 |
+| cc4d8501-f7d4-3161-a7e5-66ea00b35aa8 | -13.19903 | -51.21448 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 15c824bb-5ac2-3dfb-acca-2be4dfd0b8de | -13.06007 | -51.18937 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 239.2 |
+| c016c6c0-df1d-3080-af4d-0ae522c18418 | -13.05855 | -51.20055 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 40.3 |
+| f1bd9a8e-7a08-3856-91c4-90a9206a7ffa | -13.05703 | -51.21172 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 88445511-72f2-3c33-b549-cca009c253a6 | -13.05027 | -51.188 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 133.1 |
+| 74163539-cfca-3d55-9520-db655b2a0c8e | -13.04875 | -51.19918 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 181.5 |
+| a951e0e4-e76d-33c3-a805-43e97b2f6fa7 | -13.04724 | -51.21034 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 7a2efd20-e573-3db0-b206-e19010493b81 | -13.04573 | -51.22148 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 4883541e-81c8-3942-92c5-70fde559026b | -13.04422 | -51.23261 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| af363a70-c04b-3aae-a576-93b31d1098e0 | -13.04046 | -51.18662 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 23.9 |
+| 3146cb89-1414-3f19-9cba-803817cd1585 | -13.03896 | -51.1978 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 71.8 |
+| b63a984b-47f4-302c-bc2f-d9fd04bb6000 | -13.03837 | -51.19093 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 29.4 |
+| 137c524f-55c3-32db-addc-94e363a7bbdf | -13.03745 | -51.20896 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 135.0 |
+| a96472f1-1d4c-393f-b7d9-3b5abc3c46bd | -13.0368 | -51.20208 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 129.8 |
+| d2fa17ba-c131-3c5f-add1-1b05fc5dd315 | -13.03595 | -51.2201 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 39.8 |
+| b2344083-e4f0-39e5-93d3-6e7089047a8b | -13.03524 | -51.21322 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 140.9 |
+| a15c4a8b-6994-3278-988b-05eac0a6c319 | -13.03521 | -51.29904 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| df8e61e9-188b-303b-a341-88d107993bd5 | -13.03445 | -51.23123 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| caaa1737-7271-3492-929f-b1505e471ce9 | -13.03371 | -51.31005 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 45405e8a-ce95-3f6c-b29f-c5a4639cff99 | -13.03367 | -51.22433 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 38.8 |
+| 583eb231-a86f-3f9c-81f7-8e2c324f328d | -13.03295 | -51.24235 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| 45282587-b7df-37e3-99d1-25d4d9b5814b | -13.03211 | -51.23544 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 76.5 |
+| 1d9b8082-2b62-33b4-9877-a0f9f105738a | -13.03055 | -51.24653 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.9 |
+| 3c5bfb94-2d1f-39fa-8c94-b4465e827597 | -13.02857 | -51.18956 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 40.1 |
+| 99c3d334-e85b-37f7-9de1-48277af17f40 | -13.02701 | -51.20071 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 83.8 |
+| 7e0e7f92-63f2-3fec-9da8-24c2e5233d0c | -13.02545 | -51.21185 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| f9cd1ed2-5526-3d8d-ab44-3df7938b5940 | -13.0239 | -51.22297 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 40.9 |
+| 03cfa975-d233-32fa-9ab2-f3147bc35965 | -13.02249 | -51.31968 | 2024-10-01 05:46:00 | AQUA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.6 |
 
 
 [Clique aqui para ver as próximas entradas](README152.md)

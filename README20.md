@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 617a0eb3-2b2f-3c96-823a-cb16a89ca5c5 | -13.18251 | -48.55981 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| a5e1ec8b-a762-36fd-9484-11c5a5ba48e6 | -13.18133 | -48.56556 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| ba931906-18e9-33f6-aa2f-fb757b402086 | -13.17519 | -48.56411 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 8395246c-ae5c-311b-8c5f-2350e7d5d399 | -13.0428 | -48.61834 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ae7ca3bd-abcf-3c54-ba31-4ec9110dd0ba | -13.03815 | -48.6096 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 41aa485e-4cce-3331-9f41-512e80b69abd | -13.03705 | -48.61488 | 2024-09-30 03:45:00 | NOAA-21 | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 6978e27d-fb72-3d47-b28b-ba5e3282f466 | -12.72967 | -46.42076 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 1d3ea8b5-39e4-3f78-be01-ab18e235b0f4 | -12.72897 | -46.42432 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 41ee7d89-ec46-32ea-ade2-1608f6754708 | -12.72417 | -46.41994 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 5905cc27-9b1c-30a7-907e-1bba1807e67d | -12.72345 | -46.42358 | 2024-09-30 03:45:00 | NOAA-21 | AURORA DO TOCANTINS | TOCANTINS | Brasil | 1702703 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b885a67e-fab3-32b0-9181-62610fe62248 | -12.68943 | -46.77049 | 2024-09-30 03:45:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 346d31fa-6c97-34b7-9b0b-dc3ac3994d80 | -12.68868 | -46.77432 | 2024-09-30 03:45:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| e6b7d8fb-0bb4-3c59-90c7-c289e6ccb5b0 | -12.47412 | -46.44378 | 2024-09-30 03:45:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 806c8dff-8f24-31f2-adc4-bae8dff297be | -12.47373 | -46.44416 | 2024-09-30 03:45:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e30e6330-3cfa-3605-853c-4373ea67994e | -12.08776 | -50.01558 | 2024-09-30 03:45:00 | NOAA-21 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| fb2d6ad9-f529-36af-bfc0-8614cb3a252e | -12.0876 | -50.01419 | 2024-09-30 03:45:00 | NOAA-21 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| b239e8e9-dde9-3094-b77a-b294d26c4478 | -12.00785 | -47.32701 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| a9832cac-fa08-3a6f-8272-b566102d351b | -12.00287 | -47.32152 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 39fcfdd6-e449-3bf7-bc8f-e4c1de07679e | -12.00201 | -47.3258 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| c4dea768-7eb2-3291-8956-b91e9c8b595c | -11.98385 | -47.30092 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| a29a5bde-0b27-34c8-805a-ec369e3f8de1 | -11.98304 | -47.29929 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| ee9bb3bb-44c4-3dbc-8bf0-b3f318bd2396 | -11.98301 | -47.30526 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 45f0f88e-1036-3120-87cb-e4910d1965c0 | -11.98218 | -47.30953 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| bcccde86-00f3-3454-9588-f99e79654042 | -11.98216 | -47.30366 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 8438bd94-5630-3385-b7cf-b8031972c8ab | -11.9813 | -47.30791 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 9b34561a-b769-3e8d-933d-cec343ea7069 | -11.97958 | -47.31641 | 2024-09-30 03:45:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 95d9dd9c-3e63-3eae-9a50-1d17a49394b6 | -11.86566 | -47.13553 | 2024-09-30 03:45:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 20c75262-7020-3c70-baec-e732b3d3903b | -11.82217 | -47.62132 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 5fe9164e-9d52-37d5-ab57-a8e7231fa21c | -11.79859 | -47.60182 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| ecf43d9d-f110-3c77-90bd-476a5a753258 | -11.79524 | -47.60101 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 36344e27-47fa-337a-b0c0-94decfa573d9 | -11.79176 | -47.605 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 92b704d2-580e-3682-81ac-d4a8cd26b848 | -11.78838 | -47.60418 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 197466e5-2a0e-3ea6-9fa5-31b2fb4e27f9 | -11.78584 | -47.60357 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| cba976fb-a8d7-3ffa-9f49-e0519302f3cf | -11.78489 | -47.60836 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 4a79e9ee-8575-343a-b8ae-2af62692c5f4 | -11.77892 | -47.60717 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| f30e39ca-9cb3-3be8-9340-7506ef4401ff | -11.778 | -47.61183 | 2024-09-30 03:45:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| cb523001-7b5c-3671-9989-72347d47b6d6 | -11.58257 | -48.42905 | 2024-09-30 03:45:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
-| ad0800fa-452c-3fa0-9ed1-9fea8b09cd9f | -11.58153 | -48.43418 | 2024-09-30 03:45:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
-| a8e594a6-7784-36da-8574-070334c75b10 | -11.44971 | -46.95774 | 2024-09-30 03:45:00 | NOAA-21 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 9bce383f-3826-37f4-8f25-ef3cd7506a2f | -11.44901 | -46.96132 | 2024-09-30 03:45:00 | NOAA-21 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 53abba37-9012-3202-8758-39246f2f73b4 | -11.41456 | -47.23006 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7840876a-3c84-3518-b833-faa8e6ca6a91 | -11.40869 | -47.22889 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| a9403175-44db-39f7-bafa-2964d0d3d1e9 | -11.40282 | -47.22768 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 9867f442-38d2-351f-939a-751c99a0ae39 | -11.40198 | -47.23196 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 52438f9d-c919-30e9-a9b4-eecf3cd3f3a6 | -11.40115 | -47.23619 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 46647c90-1c3e-375b-8be9-71824b6676b7 | -11.39529 | -47.23494 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 37abca7a-6d86-3c7f-91cb-55ff7e86c386 | -11.3928 | -47.2476 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| 14c98514-39a6-3a3f-b17d-50777255b945 | -11.39193 | -47.25203 | 2024-09-30 03:45:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| e957281b-a429-3fb8-b4ff-ef963d4f1f38 | -10.97952 | -46.44337 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 81360c9b-435b-3e1c-8038-5e2e4b84d802 | -10.97858 | -46.4482 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| fe0a5ae3-8847-3668-94be-29117ff18800 | -10.97756 | -46.45347 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| c509e538-6e1d-37e5-b707-c2c38677a3dd | -10.97665 | -46.4581 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 0546a4a7-61e9-3860-9623-2669fb83fdee | -10.97581 | -46.4624 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| ff6c77d5-ba36-3382-aea9-efc8cd8d81f8 | -10.972 | -46.42208 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 71f3ef19-cddf-3c18-95f9-0a8856fce312 | -10.97112 | -46.42659 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3ec1c423-69ac-3fea-8a05-605bcab6ffa5 | -10.96456 | -46.41358 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| e6519dbf-3834-3925-ac10-d1b5d4232029 | -10.96226 | -46.41219 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| b03fd515-0069-3057-89a1-f7b87434b0e3 | -10.96142 | -46.47615 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 7fffc2ec-8e9b-3e03-b67e-ce74c94b37ae | -10.95974 | -46.40819 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 125d52ee-b3b6-3921-bf79-c8c7a731fa34 | -10.95927 | -46.47267 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| ac9354c7-60cd-353d-9296-0d04edbd6b06 | -10.95888 | -46.41277 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 613dcaae-4a57-3854-8b11-169d197ed09d | -10.95853 | -46.4766 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| a3c283b9-baa0-36a7-9a11-cb324d3bdb72 | -10.95833 | -46.40256 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 5c8ef0f4-bdcb-32a7-8ba7-b0f4934a4427 | -10.9575 | -46.40675 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| c2e1a533-9d04-3148-8376-cadffae4ec59 | -10.95661 | -46.41128 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| b53316de-95ef-3eed-8821-8555ba79656c | -10.95654 | -46.47115 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 2adcf881-15a4-36ad-bf10-967c2dfc6ebb | -10.95641 | -46.39501 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 84b512e9-7e87-3280-b803-549cd7ae6d31 | -10.95567 | -46.3989 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0b7c2d36-66c3-3c21-88b2-b1d8a4466eff | -10.95493 | -46.40284 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ce17a4ea-d3a3-3252-a51c-2f5f70279fbc | -10.95421 | -46.39383 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 46656d58-46c9-3fdc-8302-9bff4b2773a1 | -10.95362 | -46.47161 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 58aa778d-1c6f-363d-bec4-6fd2f5689697 | -10.95343 | -46.39779 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 909e7f8b-5041-32f1-8095-36485386570c | -10.95144 | -46.39053 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3dd1c783-7700-308d-8dd1-daac27c2836a | -10.9509 | -46.47005 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 99b84493-5856-3df5-a4d0-c4e88027e1f0 | -10.95067 | -46.39458 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 07adef5e-f71f-3245-a68a-b557495eaf1f | -10.94921 | -46.38963 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8c2db614-bc51-3925-8dbb-b7ebe99e68e4 | -10.93715 | -47.30328 | 2024-09-30 03:45:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| a83c4e0b-2af6-339e-be8a-526ce6f574de | -10.92051 | -46.46101 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 09506b31-a303-327e-a832-b8e2841a9eae | -10.8466 | -48.15428 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| dac4e544-4763-379e-a52b-a928248c57c9 | -10.84452 | -48.15017 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 39fe0853-ec5c-3d42-9cf5-f0ae9cfd9712 | -10.84333 | -48.15606 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 519a7ec0-7d54-36b2-b7be-67c45704d395 | -10.84152 | -48.14694 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| d671b61d-bd95-309c-bfca-745feaa7479a | -10.8403 | -48.15319 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 57003024-2c83-3533-a5f6-b644182db696 | -10.83824 | -48.14899 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ad9e8b6b-676a-389a-ac94-c2335c9cbbf4 | -10.83645 | -48.13952 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 49da0cf1-2f40-3922-8a9a-bab05aa7cd16 | -10.83527 | -48.13153 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| fb5b2bae-56e4-36b7-b76f-e5022b86b444 | -10.8352 | -48.14597 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c4046d8d-08e9-3cb4-8c68-0d87e9346480 | -10.83428 | -48.13638 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 5be803f3-e954-3a70-9215-43e7fceda9fe | -10.83307 | -48.14236 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 36a943f1-6280-35ec-ad40-614dd59437cc | -10.77329 | -46.54234 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 838f1bc4-6dca-326d-95c8-1054ef924b8a | -10.77267 | -46.54556 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 40c8053f-719b-38ba-b9cf-26578137411e | -10.72006 | -47.98619 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| f34d7a75-7818-368e-b908-93c2ed3072cf | -10.71577 | -47.97518 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b997f3ab-6d82-3811-ac74-c507f98d3db3 | -10.71472 | -47.98051 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 7f2505cf-3566-304f-ab6f-c7fbf52bbfb2 | -10.71359 | -47.98623 | 2024-09-30 03:45:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 45e0ec33-c6c5-3a3c-b07a-203795c9e02b | -10.51037 | -46.37393 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 480d6004-9417-3af3-896f-26d1a67fe9a8 | -10.49768 | -46.31758 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ba41ca4b-5d28-3462-acde-c480e86b1922 | -10.49281 | -46.31251 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 2da52efa-4cec-3364-9cf1-86b4e7e88804 | -10.4872 | -46.31132 | 2024-09-30 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 5ec60bd6-3e02-3e73-b867-2bef7a94c01d | -10.44627 | -48.21482 | 2024-09-30 03:45:00 | NOAA-21 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| ae0e33cd-1175-3d9c-9c04-3ec08226f1fc | -2.9092 | -49.5191 | 2024-10-01 00:54:10 | METOP-B | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bb13968d-967f-39b7-a4c6-6da15db9b5b4 | -3.0862 | -50.469501 | 2024-10-01 00:54:10 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 894e6973-6ea8-3eab-8617-e74eac8a544a | -2.9038 | -50.7076 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5a0c515f-b043-3f91-b7a7-a865a56f784b | -2.9056 | -50.715599 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6203bb32-e041-3e3f-8e31-1ffc0c5c3c10 | -2.9075 | -50.723701 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 12b16bdd-ec57-3a32-9ec2-2841a6d13e1e | -2.9093 | -50.731701 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b308743c-e8f1-3201-8aeb-a50ee83f9701 | -2.9111 | -50.7397 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0125f113-bfd2-3096-a591-b94f62c02110 | -2.913 | -50.7477 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a639f9d8-9efe-345a-a8e3-22d3d5ec78b0 | -2.8903 | -50.693699 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f9c0ecec-a0bd-3a8d-bc4c-0fa7c69e58c1 | -2.8921 | -50.701801 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ec12fda6-1b6f-36b7-95ff-3e5adaa7f2bd | -2.894 | -50.709801 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6d7e9d86-4188-3f60-be3c-a44f5ca089cd | -2.8958 | -50.717899 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3f48622c-92dc-3d6c-90be-87b7d51dbdf8 | -2.8977 | -50.725899 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6c27e085-4b18-3b14-aa24-56f85f1b376f | -2.8995 | -50.733898 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d7175567-04ca-3420-9f9f-dd2f83ccbefd | -2.9013 | -50.742001 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 28127561-4320-37a8-bb05-fc300d6b8f15 | -2.9032 | -50.75 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 12a700a6-f7aa-3222-a956-3fd96eeb5e04 | -3.0329 | -51.3181 | 2024-10-01 00:54:14 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f2c46ee0-1fb9-321b-bc15-da729d1472b1 | -3.0346 | -51.325699 | 2024-10-01 00:54:14 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ee9be56d-77f7-30ce-a722-5bf7a95e825b | -2.8786 | -50.687801 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 642af32b-7f8f-336f-b849-e65a83f906b0 | -2.8823 | -50.703999 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f990a2a6-12f4-3457-9caf-1eaed85aa526 | -2.8842 | -50.712002 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 795bf500-6f91-31bf-9bc0-43ccb3cf00e4 | -2.886 | -50.7201 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3f574ce0-555e-36ae-bdf6-e342490a9d0d | -2.8879 | -50.7281 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ab875b2-40c7-37ec-a727-cec20572e1a5 | -2.8897 | -50.736099 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ae7b02e0-a9aa-316d-b0d6-d3ec4bbc8cf4 | -2.8915 | -50.744202 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e5843152-b6b2-318b-8da5-168883d3736a | -2.8934 | -50.752201 | 2024-10-01 00:54:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| aaa5c3aa-55bc-3b80-9199-be54d8a06095 | -3.0231 | -51.320301 | 2024-10-01 00:54:14 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0248e719-52c1-348c-b86e-8db5b1ea316f | -3.0248 | -51.3279 | 2024-10-01 00:54:14 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b4e86531-2387-3f93-a725-6ba91297f398 | -2.8688 | -50.689999 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cee3ae51-92c3-307d-b4e6-85bb0d1192b7 | -2.8707 | -50.698101 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 66cad456-8e81-3f03-a05e-33d7b1dc0de0 | -2.8725 | -50.7062 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 64a5082d-cf4c-3560-ae40-24fcaaeb68d5 | -2.8744 | -50.714199 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a1d7b156-3e78-3b13-9dff-a93056740dbe | -2.8762 | -50.722301 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 713546ca-524f-31f4-a228-6b91d958d9b1 | -2.8781 | -50.730301 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cc12b4fc-f3c0-31f9-9c88-765b40c3aa9b | -2.8799 | -50.7383 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7cd39a0c-3e89-3485-bbf6-15f2be240bd7 | -2.8817 | -50.746399 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 222898bd-a943-328d-bc91-9e83dc8f101c | -2.8836 | -50.754398 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4cf6e33d-272e-373f-acfc-ae29b2740ee9 | -3.015 | -51.330101 | 2024-10-01 00:54:15 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5481ff7d-9cc9-399c-9a19-6a4750395dd6 | -2.8609 | -50.700298 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3fb214fe-1fe1-3505-8bd8-6e64ce7b819d | -2.8627 | -50.708401 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b9b4c90f-1667-3e49-94e1-4751c5dd0a73 | -2.8646 | -50.7164 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 685dba6a-d5d7-3830-9023-40f8bd7b4f40 | -2.8664 | -50.724499 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 90555ebb-cc05-3922-9694-904c3d01d5ae | -2.8683 | -50.732498 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 66cb6e55-8127-3ebb-a1f3-c7d26ecbfa50 | -2.8701 | -50.740501 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c9fe2bcd-3a65-3acd-a090-18f2e010042a | -2.8719 | -50.7486 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 70e98685-fdf3-3673-a395-435ba817eb24 | -2.8738 | -50.756599 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a1e5f5ed-3ce1-3d0d-9d85-25e706c1eda3 | -2.8492 | -50.694401 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0d9e2fff-c2b4-3ed9-8e95-f91013ad6a5b | -2.8511 | -50.702499 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 36cd8b89-a80f-3ace-9af1-774ed8cfe4d8 | -2.8529 | -50.710602 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bdaaf4cb-29be-3adb-abe5-8a0810c8525f | -2.8548 | -50.718601 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cd6c8f55-9a9f-3ffd-bb9c-2b98ce062814 | -2.8566 | -50.7267 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| fb5bfaf8-7bc9-3e00-8628-1f0d231c740b | -2.8585 | -50.734699 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f51ec736-f547-36e1-8201-6f4ad9bc7d69 | -2.8603 | -50.742699 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2d92ba96-92f3-358d-9e94-d4645b9724fe | -2.8621 | -50.750801 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e9787597-b08b-3e7d-acc8-1829c63b1f93 | -2.8394 | -50.696602 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ff85863a-b4d8-3271-88d7-3609b0c5448e | -2.8413 | -50.7047 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e83648b0-6010-34cd-849f-9d720455ba13 | -2.8431 | -50.712799 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 39db1744-633f-3091-9d60-92c8a1389254 | -2.845 | -50.720798 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 65eb4160-ec42-3252-9530-f808416f9aac | -2.8468 | -50.728901 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cf5b4cbd-c151-3011-b767-e5593fa4b79b | -2.8487 | -50.7369 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6e70a7a3-1918-306c-ae38-ddc4d7025f58 | -2.8505 | -50.7449 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3e15f1d9-3639-329a-bbfe-8504c478648b | -2.8333 | -50.715 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2a2d733c-d5ec-37fa-9fd0-865cbd762039 | -2.8352 | -50.723 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 09e51035-93fc-38d0-bd96-9274b3f081ac | -2.837 | -50.731098 | 2024-10-01 00:54:15 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 71daa6af-61bd-3268-aa14-3f3822b1ce86 | -3.4686 | -53.786098 | 2024-10-01 00:54:16 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 323d17ef-0f3d-3951-a327-52d6d17a9781 | -2.4022 | -50.3158 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6e1a35f2-a24a-3a73-86fa-f1f218ab9944 | -2.4041 | -50.324402 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f45218e2-874e-3911-9813-46cb6038d180 | -2.3885 | -50.300999 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e517a284-613e-3c4d-97ad-f4df3cddee97 | -2.3904 | -50.309502 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 05de8c7a-0843-3bf1-bd5c-15d019917a96 | -2.3924 | -50.318001 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c5842e20-5699-3799-bc33-e39e56d0a335 | -2.3943 | -50.326599 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e3789852-63b6-3b01-8757-bea9b76e44de | -2.3807 | -50.311699 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| abae4c20-d461-3f9b-9557-a845d3442272 | -2.3827 | -50.320301 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 846bfc72-7545-3596-9d1d-9bfda3ca52b2 | -2.3846 | -50.3288 | 2024-10-01 00:54:21 | METOP-B | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d0ee1ffd-8970-3f6b-a0c8-6e6365602020 | -2.6761 | -51.6968 | 2024-10-01 00:54:21 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| df3fc23b-4456-321b-aef5-303b3d499aba | -3.1223 | -53.712399 | 2024-10-01 00:54:22 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0de25546-66c6-37be-9a1a-fa57d7cc56ec | -3.1239 | -53.7192 | 2024-10-01 00:54:22 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5e5143cb-8a63-3b4f-afa5-1dba412f6170 | -3.1254 | -53.726002 | 2024-10-01 00:54:22 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ffc144fc-5af6-31a9-ba5b-d12b25f43db5 | -3.1269 | -53.732899 | 2024-10-01 00:54:22 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 447dd288-c45e-3b9e-912e-f6858fdc1829 | -3.1285 | -53.7397 | 2024-10-01 00:54:22 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9bf6a388-3659-304b-8284-e3f7c22eeca7 | -2.8554 | -53.306 | 2024-10-01 00:54:24 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c97e024d-4ac6-3adc-ba3a-540a875439b5 | -2.8441 | -53.301399 | 2024-10-01 00:54:25 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9a226a3d-45fc-3bb1-baa6-7c5c8edcb686 | -2.8456 | -53.308201 | 2024-10-01 00:54:25 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 93fb9c8b-af90-38d2-9c44-2576a89661eb | -2.9319 | -53.690201 | 2024-10-01 00:54:25 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 90825050-89e0-3bfe-9d94-9be0dccea580 | -2.6108 | -54.917999 | 2024-10-01 00:54:34 | METOP-B | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9ef157b9-929d-33e3-8683-fa3f93eb80c8 | -2.3492 | -54.350101 | 2024-10-01 00:54:36 | METOP-B | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e38538f3-c41a-39c7-8f68-aee8ecceea29 | -2.4872 | -58.043999 | 2024-10-01 00:54:48 | METOP-B | SÃO SEBASTIÃO DO UATUMÃ | AMAZONAS | Brasil | 1303957 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| aac6aa20-66d6-3f05-97ee-2b4e74d6c8fe | -0.1582 | -51.5396 | 2024-10-01 00:55:02 | METOP-B | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | nan |
+| d95d58bc-70ac-3471-8188-b3cf878f3355 | -0.1599 | -51.547401 | 2024-10-01 00:55:02 | METOP-B | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | nan |
+| 74f39df9-f50e-34ec-a614-cd40f4cd591f | -2.4048 | -50.3085 | 2024-10-01 00:55:19 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 114.0 |
+| c55caed0-5a1a-3105-b451-4d93b33406e1 | -2.4047 | -50.3295 | 2024-10-01 00:55:19 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 378.7 |
+| b9ec29e9-4126-39b1-bf42-0e537f0ca06e | -2.4046 | -50.3505 | 2024-10-01 00:55:19 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 79.7 |
+| 172ac9f3-f65b-3984-88e9-4d37b19807ba | -2.3863 | -50.309 | 2024-10-01 00:55:19 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 64.0 |
+| 14cc4529-83d7-3c84-a513-18b10af9363b | -2.3863 | -50.3299 | 2024-10-01 00:55:19 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 146.9 |
+| 82290756-e635-3e46-9ace-e478fcae9f68 | -3.0282 | -51.3345 | 2024-10-01 00:55:23 | GOES-16 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 68e60a00-4499-3de5-bc17-ce791210c3f4 | -4.6987 | -49.8062 | 2024-10-01 00:55:32 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| c7af318d-9ed6-3d6e-8304-4508c02927cf | -4.7172 | -49.8053 | 2024-10-01 00:55:33 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 51.5 |
+| 595c5334-ae61-349b-9598-54b8c2b92844 | 2.1266 | -50.664001 | 2024-10-01 00:55:35 | METOP-B | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | nan |
+| 778e6cb7-e918-31bd-9134-19f415766d21 | 2.1245 | -50.673199 | 2024-10-01 00:55:35 | METOP-B | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | nan |
+| 944ac6b9-9a2c-3051-9dbc-3c269cbf157d | -5.7715 | -45.5574 | 2024-10-01 00:55:38 | GOES-16 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 57.2 |
 
 
 [Clique aqui para ver as próximas entradas](README21.md)

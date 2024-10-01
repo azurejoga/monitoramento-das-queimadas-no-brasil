@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2c92df0e-4795-3935-b372-6c0060a7fe88 | -12.7133 | -54.087002 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9226b622-cb25-3b5d-b1ee-b59ead5d6989 | -12.7151 | -54.094898 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d773d7c8-63c8-3c76-a56c-daf9c1366b4c | -12.717 | -54.102798 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 31b3c958-12ea-34e0-a381-649f14b0e5b2 | -12.4873 | -53.168201 | 2024-09-30 01:11:54 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a7fe276-bcd0-35cf-b8a5-1a4650e0cecc | -12.4894 | -53.176899 | 2024-09-30 01:11:54 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 71c5546e-1226-3553-934e-12833b23899e | -12.5622 | -53.485699 | 2024-09-30 01:11:54 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1e7cf5d2-4ee0-3d58-b5c8-93ff9b3370ad | -12.6998 | -54.073502 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 393f8a5c-6f28-3862-8742-aa957fcc81eb | -12.7017 | -54.081402 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 02559ef7-085a-311a-bc6a-227604bbbd2a | -12.6863 | -54.060001 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 834d4ffb-76a1-3ef9-9720-eb7e6bf7f6eb | -12.6882 | -54.067902 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1af2c57f-527a-38cf-91b7-2df041987408 | -12.69 | -54.075802 | 2024-09-30 01:11:54 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c5ba9239-01ae-3ee7-a69b-a698a3e9411d | -10.6501 | -46.088699 | 2024-09-30 01:11:55 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 5954c88d-7986-3af6-9dd6-0309e9399635 | -10.6571 | -46.115101 | 2024-09-30 01:11:55 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 443c2aea-75b1-356b-bca1-0eb5f63fa47c | -10.6406 | -46.091301 | 2024-09-30 01:11:55 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 9fe04d5c-2d56-39f4-a5b9-69599ef0c28c | -10.6476 | -46.117699 | 2024-09-30 01:11:55 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 0c62cebe-96b5-3ca8-a361-2f1285bb1446 | -10.6545 | -46.144001 | 2024-09-30 01:11:55 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| cbd9c90a-1db7-34e3-8d6c-963b61d7d263 | -12.6728 | -54.046501 | 2024-09-30 01:11:55 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1712d381-71f7-3a99-bf46-d98b06930a6b | -12.6747 | -54.054401 | 2024-09-30 01:11:55 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9feaff3e-0e56-348a-a0f5-c2887fb70467 | -12.6765 | -54.062401 | 2024-09-30 01:11:55 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8ee6e94e-36ad-3d9f-b5a8-fabd4e7acffa | -12.6649 | -54.056801 | 2024-09-30 01:11:55 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 486b88e7-05c6-3006-8ccc-910f01e12c70 | -10.638 | -46.1203 | 2024-09-30 01:11:56 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| e08dc3cb-e020-3d9c-b333-d7994b1843d5 | -10.6449 | -46.146599 | 2024-09-30 01:11:56 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 459690a0-e845-321a-b274-8c1b99e5e6f7 | -13.1092 | -56.414001 | 2024-09-30 01:11:56 | METOP-B | NOVA MUTUM | MATO GROSSO | Brasil | 5106224 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| feff3c6b-a98b-3421-aec0-83260ada9fc1 | -12.4213 | -53.457401 | 2024-09-30 01:11:56 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 048a1446-5c9a-3eae-b45b-d47e3287d20f | -12.6917 | -54.662701 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 738394bb-caf0-37cf-ae06-a81f2a209a21 | -12.6802 | -54.657501 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 60238622-32b2-350c-8811-06436919268d | -12.6819 | -54.6651 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 44830edc-ea3b-3bc9-b3a7-fd11aa3c5a1c | -12.6675 | -54.692299 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3bcfb90a-c97e-362d-95ab-556ada85aa81 | -12.6561 | -54.687099 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c0d7d4a6-4d51-33e2-8ec5-6e36539c8553 | -12.6578 | -54.694698 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8ba910fb-3c89-3dc7-a73f-95dfbe512fd5 | -12.6445 | -54.6819 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 23c2539f-ff23-3bc4-9e69-2667adeedf8a | -12.6463 | -54.6894 | 2024-09-30 01:11:57 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 46c240f5-791a-385b-bc53-e7d67db54058 | -13.046 | -57.291801 | 2024-09-30 01:12:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 84a071f8-39f5-32b1-b6b6-65c5723bea47 | -12.2543 | -53.978199 | 2024-09-30 01:12:01 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 89a31dbf-69c9-3bd9-8409-cbd6cd776bfc | -12.2562 | -53.986301 | 2024-09-30 01:12:01 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3fcbd4f1-79dc-37cb-9725-4d63120052b1 | -13.7146 | -60.684502 | 2024-09-30 01:12:01 | METOP-B | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b1f53ef5-e2b5-3a4f-bbdc-9f574927bda3 | -10.7039 | -47.9534 | 2024-09-30 01:12:02 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1e806bf3-ce88-3b75-a1c5-d24ab62b1280 | -10.7443 | -48.717098 | 2024-09-30 01:12:05 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c1a743b6-7cd5-3d56-8e89-4306edd5f1a6 | -10.7487 | -48.7346 | 2024-09-30 01:12:05 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| dda0f8e3-7822-319a-8760-85a0959ac63b | -11.4523 | -53.816299 | 2024-09-30 01:12:13 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 50c334fc-ae5e-3ede-87c5-ce2b7685ab21 | -11.4543 | -53.8246 | 2024-09-30 01:12:13 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 242d00b4-b5c0-3334-9da1-eefb029aec8a | -11.4426 | -53.8186 | 2024-09-30 01:12:14 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0f0459c8-c092-30aa-b589-847ee82a1b53 | -11.4445 | -53.8269 | 2024-09-30 01:12:14 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6b402211-c36c-3a4e-af1e-5ff6d4f03658 | -11.0819 | -52.471199 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4d1b81b2-9450-3c11-a8a7-849b4e9f5adc | -11.0842 | -52.481098 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e11cc60d-bf7c-3c4f-b34d-b37f00d55df6 | -11.0866 | -52.491001 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2f16e1f4-337e-3e58-aab7-02796a186241 | -11.0626 | -52.433899 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 12c60df9-306b-3e84-a704-524e67fb27ce | -11.065 | -52.443802 | 2024-09-30 01:12:14 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 189a7df6-3e14-3cf5-a72f-0bf24a2dde31 | -11.0674 | -52.4538 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 211e4ef2-8d6c-3377-9316-775b64abae0a | -11.0698 | -52.463699 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bab49e59-75f9-37d0-8abd-fbfc8c2f3ed2 | -11.0722 | -52.473598 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3312357a-f33b-3fcb-8446-ebfcf67f01d5 | -11.0745 | -52.483501 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 58117d58-d8b9-30db-9d0e-d67224474069 | -11.0769 | -52.493401 | 2024-09-30 01:12:14 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 76b70d6e-cb57-3545-b793-305e71a3fd26 | -11.0528 | -52.436298 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8b6cf0ed-2d35-31a7-82e5-5f32835272fe | -11.0552 | -52.446201 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 63afae9b-4c24-3385-afc3-e31bcc0ec374 | -11.0576 | -52.4562 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a6a6442c-8004-3d0e-9c14-452d9b93268c | -11.06 | -52.466099 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 58f0d1ee-eb07-3882-8a5e-f6a20be6e6db | -11.0624 | -52.476002 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5072aaf0-a487-39d6-9249-33a364b599b5 | -11.0671 | -52.4958 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 201cc26b-b8bd-3acc-aa71-fac549b43a57 | -11.0431 | -52.438702 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a67e555d-2282-3e9d-b3aa-1f15b1cb96e7 | -11.0455 | -52.448601 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 08510a7d-dacb-32e7-9f30-b2c566aa2102 | -11.0479 | -52.458599 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 26395d04-61e4-347a-9762-32ade3d99314 | -11.0503 | -52.468498 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 31aa3a7f-6415-330e-93dc-6f4f19a7d5dd | -11.0527 | -52.478401 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 61432e7c-bd29-392e-b30e-1377befae814 | -11.055 | -52.4883 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d4d7e758-dccc-3fab-87ba-80f4c2bb1ff0 | -11.0574 | -52.498199 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 197ec3ef-0ee3-3827-b2fd-331b16ed8b29 | -11.0405 | -52.470901 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| aa37ae2c-4440-3f4a-b101-417ce07e2659 | -11.0429 | -52.480801 | 2024-09-30 01:12:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ccc387aa-904a-3cdd-93ac-b7c2b555d326 | -11.2216 | -53.845299 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| eee7c01c-8d29-362d-8d45-cbcf31716451 | -11.2236 | -53.8536 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b9a728c9-346d-3628-b317-61d01c0638ec | -11.2256 | -53.862 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c837316d-f009-3c41-944b-8d3a6a4fa5df | -11.2275 | -53.8703 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 212f950c-50f0-3204-863d-d9a281c33dc6 | -11.2079 | -53.830898 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 78f2527d-be74-3f2f-89a1-7eb7f5f44143 | -11.2099 | -53.839199 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b4a306cc-0c6f-3b69-8a68-d485560fb6eb | -11.2118 | -53.847599 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4fc1f5cd-e9c9-3a07-bc2e-474c503f4a4e | -11.2177 | -53.872601 | 2024-09-30 01:12:17 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4d568c08-a5b1-31d2-a8fc-026a8460eb65 | -11.2002 | -53.841599 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b0f2aebf-e69b-3c22-ade6-6cc1b39e0760 | -11.2021 | -53.849998 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0364d64d-b9bf-34fa-a7db-b3ed1fef039b | -11.2041 | -53.858299 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7b8627ef-5070-322a-a123-c51760848f45 | -11.206 | -53.866699 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 94070fc9-3b41-3c60-95f1-358c01e8aaae | -11.208 | -53.875 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b42cf0dc-35ac-3730-a828-64b9f64c6bae | -11.21 | -53.883301 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e36fdc6f-94b6-3e01-99cf-d4df2b9d2a7e | -11.1963 | -53.868999 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2b6b7cbd-1b6e-3a27-9474-1e5340790279 | -11.1982 | -53.8773 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0271fd8c-e1b8-3893-b14d-a17437ea0a94 | -11.2002 | -53.885601 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ac43c4f7-caab-3867-bf14-8baf9e14451d | -11.1767 | -53.873699 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b8ffb2cf-20d7-3c5e-8472-dcd7bb68b47c | -11.1786 | -53.882 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 27d5aeed-f9e2-3e43-96af-3dd698759a4f | -11.1806 | -53.890301 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b41cc123-d686-3b9a-be55-75ea6e164b54 | -11.1961 | -53.9566 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1538429b-cd3e-33ca-92ed-f2cd783ed0c3 | -11.1669 | -53.875999 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 50f930ff-853e-3bad-9467-7039b6ab56a3 | -11.1689 | -53.8843 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8773a058-4a22-378b-86b2-01b124a789d7 | -11.1728 | -53.900902 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5f7e1458-fdb5-3069-8c0f-2f6d4af026ec | -11.1748 | -53.909302 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ec654745-d36d-3239-9101-a7a467c49fd0 | -11.8503 | -56.864601 | 2024-09-30 01:12:18 | METOP-B | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 090b4b08-3efa-310e-92bd-77a4c694428c | -11.1552 | -53.869999 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0c203873-97ee-3311-9ba1-318ed755816c | -11.1572 | -53.878399 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b2fb396b-c254-32b6-ace3-65a025fe3c9a | -11.1591 | -53.8867 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| dabf17b0-18c2-33ac-9a53-a4a5fa1cb9cf | -11.1611 | -53.895 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 03170a90-423b-3b1e-8ef9-fb9e31e06704 | -11.163 | -53.903301 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 07580660-3113-3568-b5ba-afe4378160e5 | -11.165 | -53.911701 | 2024-09-30 01:12:18 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8239de79-dbc0-3e14-ad6e-02f02daaac1b | -7.73048 | -46.16162 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 3d85a4fd-672e-327d-aadf-7e12c73bf7e7 | -7.72924 | -46.15274 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 9c0bce08-d930-3af5-8f77-b7db35b9dd7c | -7.72164 | -46.16289 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| e85dbe0f-b17c-3f2b-bd07-9040e7e53cfd | -7.58586 | -46.04402 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 6e0a61a8-ec24-3a4b-b459-ffc6be8d66a1 | -7.58463 | -46.03516 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 33.4 |
+| 9dfcc684-ec2d-3ab5-a007-4fb3665fb320 | -6.93425 | -45.60993 | 2024-10-01 00:50:00 | TERRA_M-M | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 33baf021-ab84-3e38-a1fb-4f57b2a6b329 | -6.933 | -45.60099 | 2024-10-01 00:50:00 | TERRA_M-M | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 96b667f1-8d24-3b63-a0bf-e4c6a3610edb | -8.81501 | -46.81098 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 4cd9b422-1e43-3093-96a0-da2883b5ea93 | -8.78037 | -46.82523 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| f22b56b3-9b22-3348-b2ee-14206bb536ee | -8.77038 | -46.82327 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| d3e08383-890e-323f-a34d-3a90e9c3b26d | -8.74909 | -47.13822 | 2024-10-01 00:50:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 25.2 |
+| c3503ad0-80d4-3833-9ce5-58926efeed48 | -8.74783 | -47.12886 | 2024-10-01 00:50:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 42.5 |
+| 2029bc09-e03f-3d6a-b724-e1a03a8d3179 | -8.6216 | -46.54475 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 01472f64-34f1-351c-aef7-10ea506b8b12 | -8.45374 | -46.45507 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| c86f199b-16ce-3b6e-a144-e870e657fdcf | -8.45251 | -46.44613 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 210821f0-4638-3eb9-a643-6819d9361cb7 | -8.44417 | -46.46273 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 5699b02d-f48b-3da3-9800-0118fa5705b1 | -8.42679 | -46.33736 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 56069fb3-102d-313e-ba1e-c941c8702f08 | -8.39625 | -46.37815 | 2024-10-01 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| f7102624-373e-33d0-8bbd-566aed77c0f3 | -4.77273 | -46.69424 | 2024-10-01 00:50:00 | TERRA_M-M | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 3c12afb8-e67f-3356-9d8d-add94c205558 | -4.1621 | -47.20102 | 2024-10-01 00:50:00 | TERRA_M-M | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 94568cad-6cee-3804-8245-3643feb84a3a | -6.13913 | -46.90556 | 2024-10-01 00:50:00 | TERRA_M-M | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 4e7e7416-6ed2-30a7-bb23-e46bb93bd813 | -6.13676 | -47.49269 | 2024-10-01 00:50:00 | TERRA_M-M | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 6968f25c-705e-35e3-93e2-a8feece791fa | -6.1355 | -47.48352 | 2024-10-01 00:50:00 | TERRA_M-M | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 5021c11c-fe58-3f42-83a7-4e1fe87bde15 | -6.02949 | -47.44827 | 2024-10-01 00:50:00 | TERRA_M-M | MAURILÂNDIA DO TOCANTINS | TOCANTINS | Brasil | 1712801 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 839d825b-9574-3d08-85f9-4df0f9113f7e | -6.02824 | -47.43913 | 2024-10-01 00:50:00 | TERRA_M-M | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 437e259a-c588-3285-a782-905adb0160aa | -5.3836 | -47.70905 | 2024-10-01 00:50:00 | TERRA_M-M | IMPERATRIZ | MARANHÃO | Brasil | 2105302 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| e877f49f-e3c4-3245-a5ce-92eab1f19c61 | -5.37586 | -47.71952 | 2024-10-01 00:50:00 | TERRA_M-M | IMPERATRIZ | MARANHÃO | Brasil | 2105302 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| b362aa97-1dc3-344b-ad56-a064b3593ec0 | -5.37459 | -47.71031 | 2024-10-01 00:50:00 | TERRA_M-M | IMPERATRIZ | MARANHÃO | Brasil | 2105302 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 8711b221-b245-3c2b-b7ef-477152e04655 | -5.37331 | -47.70111 | 2024-10-01 00:50:00 | TERRA_M-M | IMPERATRIZ | MARANHÃO | Brasil | 2105302 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 0a5003f8-4491-36f6-ae32-2eae2749bc66 | -7.68815 | -47.25586 | 2024-10-01 00:50:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 640f494a-b493-3624-886a-0287a3d0a42a | -7.06425 | -46.86898 | 2024-10-01 00:50:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 21.4 |
+| e5e59f25-f98f-3fb9-b60e-e1b5e66bad46 | -7.05535 | -46.87024 | 2024-10-01 00:50:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| d6f6ab44-a902-343c-8e0c-dfe4da1e2ab0 | -7.05411 | -46.86127 | 2024-10-01 00:50:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 33064d3c-8672-38fe-9d78-eff53d8456b6 | -6.97525 | -47.63276 | 2024-10-01 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| db0245a7-0ffe-3dfc-9143-da9d6c7011ff | -6.97397 | -47.62332 | 2024-10-01 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 26.7 |
+| 1c0d2380-478e-38d6-8a46-8992ed95acc7 | -6.97269 | -47.61388 | 2024-10-01 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 17.0 |
+| 1c3d005b-4874-32c6-b735-1cb36eeafbb4 | -9.20771 | -48.66805 | 2024-10-01 00:50:00 | TERRA_M-M | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Amazônia | 30.2 |
+| 92b23ec0-1f5e-3750-a13e-0d0efd908500 | -9.20625 | -48.65668 | 2024-10-01 00:50:00 | TERRA_M-M | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Cerrado | 44.5 |
+| 8eecccf4-b01f-331a-97d3-715e5999660b | -9.20541 | -48.66259 | 2024-10-01 00:50:00 | TERRA_M-M | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Cerrado | 41.3 |
+| 2f19edce-fe89-3a40-9ec1-ff2d2fdd5a0f | -9.20393 | -48.65155 | 2024-10-01 00:50:00 | TERRA_M-M | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| f22f2f02-1fad-33c2-80a4-99fce4987161 | -8.43648 | -47.13985 | 2024-10-01 00:50:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| cb822eab-2784-3bbb-81c2-b747c60487e5 | -8.0178 | -48.32975 | 2024-10-01 00:50:00 | TERRA_M-M | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| 6198d72a-2e68-3a84-b2a2-295b0cede75a | -8.01642 | -48.31945 | 2024-10-01 00:50:00 | TERRA_M-M | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| d4876b78-7327-3831-8067-1bced0434aab | -9.63715 | -48.52936 | 2024-10-01 00:50:00 | TERRA_M-M | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 9b4c9b4e-f413-3d03-b0e5-eb4f3ca14a99 | -5.43721 | -48.90355 | 2024-10-01 00:50:00 | TERRA_M-M | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| bb2dd39a-4780-3f0c-8b7a-5c0a6fe6d9fe | -5.43579 | -48.89322 | 2024-10-01 00:50:00 | TERRA_M-M | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 72450256-eb20-3286-8a60-e033829b8791 | -7.27453 | -49.49173 | 2024-10-01 00:50:00 | TERRA_M-M | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| 8a94bed1-2354-3cf6-a529-e229aa1dbf8b | -9.14437 | -48.96788 | 2024-10-01 00:50:00 | TERRA_M-M | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 22.9 |
+| 877caf71-1a7f-35d1-8e82-bdf417d61f21 | -8.80527 | -48.94976 | 2024-10-01 00:50:00 | TERRA_M-M | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| 4a92b6d6-0fc9-32dc-933c-19d565fc5e43 | -8.666 | -49.43466 | 2024-10-01 00:50:00 | TERRA_M-M | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 22.4 |
+| 0f33981f-1145-3269-aa2e-e0a4bed71589 | -8.66436 | -49.42242 | 2024-10-01 00:50:00 | TERRA_M-M | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| bf78e013-6d9b-3937-90c9-3e914bade330 | -8.66272 | -49.4287 | 2024-10-01 00:50:00 | TERRA_M-M | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 73.2 |
+| dac3ea1b-af66-3ad0-a25e-7e90f7d58db1 | -3.13358 | -53.74965 | 2024-10-01 00:50:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
+| 90bf9d12-d887-3476-b499-b4579abc39f7 | -3.11421 | -49.41459 | 2024-10-01 00:50:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 2c4b3ec5-e78d-35ec-b974-89e6a7f8945d | -3.11278 | -49.40424 | 2024-10-01 00:50:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 17.0 |
+| c0de679f-9975-3eb1-b0f7-ab571fd18eaf | -3.11135 | -49.3939 | 2024-10-01 00:50:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| c786371c-22f9-3f66-b5a4-8b21250c9bf7 | -3.08816 | -50.48116 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| 52887320-ee5d-34d7-8c60-5504656a939e | -3.07944 | -53.06505 | 2024-10-01 00:50:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| cda0d199-828b-392d-a1db-6d45c8cae2e9 | -2.95644 | -49.35859 | 2024-10-01 00:50:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 19ffee83-ef9f-3026-b7b4-ea3b57038ddc | -2.91656 | -49.52823 | 2024-10-01 00:50:00 | TERRA_M-M | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
+| 77bd95e0-3a91-3b1f-bfd6-1f592142b644 | -2.91205 | -50.76666 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 18.5 |
+| 0936f733-165f-3e5a-a30b-31cf995e5a1e | -2.91035 | -50.7542 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 345.8 |
+| 0216cb67-fd55-3005-a835-63261367bd98 | -2.90865 | -50.74175 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 684.4 |
+| b8f7077c-80c9-3a4c-9e6d-d3615c58e131 | -2.90695 | -50.72936 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| 10c97edb-8665-3422-86cb-9a18965d8a58 | -2.90526 | -50.71699 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| 567a7ce6-4e35-3282-8ec1-3394234c7084 | -2.90165 | -50.76811 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 39.4 |
+| 142f7e2f-09f9-3abc-bf97-9e690a76d483 | -2.89995 | -50.75563 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1356.9 |
+| 365b8910-71a3-31a1-b128-db038a073092 | -2.89826 | -50.74319 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1009.9 |
+| a79ccd6a-8d98-37d2-b3ba-62ad066323e6 | -2.89658 | -50.7308 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 125.9 |
+| 5f4122d3-7b6c-3cf7-9cc5-23bcd191bb56 | -2.8949 | -50.71843 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| d0cee5a9-0618-3acb-af32-e6c0f24c5431 | -2.89124 | -50.76953 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 33.7 |
+| 12ca5e45-50e7-3019-b43d-335a15858e64 | -2.88956 | -50.75707 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 567.4 |
+| d5f9e832-dbf7-37aa-aad6-d1b2bb34e307 | -2.88788 | -50.74464 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 564.2 |
+| d6291e76-f30b-347a-a95f-c6714a184664 | -2.8862 | -50.73225 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 357.6 |
+| 00d45c48-77e2-3ff2-95a6-274e65eff8ee | -2.88453 | -50.71988 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 712.7 |
+| 258ec311-1ca1-35be-8955-3a9964b64144 | -2.88286 | -50.70751 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 137.5 |
+| 884c05b9-7131-3b62-9530-9d3a9e604f82 | -2.87916 | -50.75852 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 84.8 |
+| 3107970f-d6e6-30cb-9e2e-cb2db4b5491b | -2.87749 | -50.74608 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 146.9 |
+| 4ddfe61a-a7eb-3139-a1a4-7921b8d3db1a | -2.87583 | -50.73369 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| 9f3c5a6d-ab06-3ccb-b946-e87d15ef22c7 | -2.87416 | -50.72131 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| 6f9b6ab7-166c-3f04-b033-0eb50600e28f | -2.87124 | -50.75283 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 35.3 |
+| 6371631a-54df-3a30-bfb0-304d2feec993 | -2.8695 | -50.74043 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 30.5 |
+| 9d20f908-811c-3582-a67c-031772c22739 | -2.86877 | -50.75998 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 20.9 |
+| 0a0dbd86-cb61-3700-bb77-a96987d0c408 | -2.86776 | -50.72807 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 26.5 |
+| 0a16bddf-55c4-3459-b3d2-31a41f4ed920 | -2.86711 | -50.74753 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 64.8 |
+| 6c0d9268-2d00-329e-8a71-eceb1fbe6d6d | -2.86545 | -50.73513 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 298.1 |
+| 9b8c2a42-0cde-3640-9855-6a8536255e5a | -2.8638 | -50.72274 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 306.7 |
+| bc8799ec-2241-3dc8-91dd-0e2623e96b92 | -2.86086 | -50.75427 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.1 |
+| 71e0e1c9-7213-3b82-bbbe-8681376e64f1 | -2.85912 | -50.74186 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 190.8 |
+| 63e5f959-7681-3f1c-86a8-8ce854bc662d | -2.85739 | -50.72951 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1590.7 |
+| bb13e846-f6ec-3ac5-8378-d9f75912081f | -2.85566 | -50.71716 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 434.6 |
+| fb95b947-559e-37cf-90a0-766951ceba2b | -2.85413 | -53.32726 | 2024-10-01 00:50:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| 22f76d1f-23ed-3c29-a957-48cda4d24c2a | -2.8538 | -53.32194 | 2024-10-01 00:50:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| 8f95be52-74e7-3048-aa84-7eed2ae45f78 | -2.85047 | -50.7557 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 9.6 |
+| 24c1c27a-89bc-32d6-9a95-95fe5d827754 | -2.84874 | -50.74331 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| f8214580-704d-3961-8794-6791206bf197 | -2.84702 | -50.73095 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.9 |
+| 26351fac-0326-31fa-abaf-41446b5139ad | -2.8453 | -50.71859 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| 83c8f8a3-7c5a-36d1-a970-2d2a375fa2a5 | -2.72224 | -46.72411 | 2024-10-01 00:50:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 82ff6c19-3f9a-381c-899a-29814e898500 | -2.49367 | -49.33979 | 2024-10-01 00:50:00 | TERRA_M-M | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| b1d32301-960f-306e-a837-2c37cf368918 | -2.40447 | -50.34311 | 2024-10-01 00:50:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 14.4 |
 
 
 [Clique aqui para ver as próximas entradas](README12.md)
