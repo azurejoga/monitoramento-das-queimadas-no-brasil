@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ed53d00c-8ebe-3710-a22e-975a6454f304 | -21.56842 | -47.79529 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| aae96f32-a1e5-3bdb-89ae-da139437f4be | -21.56792 | -47.82136 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 4b856f91-6562-39d2-b17d-35a522ca2176 | -21.56744 | -47.80013 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| ab32e5a7-57b5-3a20-8f84-04c1ea6389d3 | -21.56686 | -47.82656 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| e1658fa5-15fb-3ee4-a66e-91b735ea8469 | -21.56644 | -47.805 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| de262bc6-25e9-3036-b57a-61fb6c198eae | -21.56579 | -47.83183 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 079618ac-44d7-3741-96b6-11a933df0305 | -21.56542 | -47.81001 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 7d81f481-68bf-36a5-9fc4-adb4fdf08d38 | -21.56472 | -47.83712 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 918a2910-85f9-3458-9056-48696f552593 | -21.56439 | -47.81509 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| b8c68608-9e02-3551-b9a6-7453ea0a909a | -21.56334 | -47.82021 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 99f5c6b0-50b4-3d36-9b2f-bc4e9588200a | -21.56229 | -47.8254 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 210d5555-6faf-3a8f-a671-b3d63949e61c | -21.56183 | -47.80406 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d6360b3c-feb6-332d-816f-e04e9b23fc2a | -21.56122 | -47.83064 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| b3e825c5-5d56-3347-b69a-565fd42da326 | -21.56082 | -47.80902 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 2a475a6d-b98c-31bf-9e2a-4ad273dfdcf7 | -21.56014 | -47.83595 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ebec870c-6605-31da-85cb-263e55d75447 | -21.5598 | -47.81403 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| fd2a2ee9-f327-3e80-882e-c946710e9790 | -21.55913 | -47.84092 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| b7c741d9-640d-3629-854c-2dd0696427d1 | -21.55771 | -47.82426 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 917a40de-8bd8-3abc-8773-d9d79142347e | -21.55664 | -47.82951 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 17a06a52-e77d-3536-891e-eb096b47e4ab | -21.55313 | -47.8231 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8cf91ccc-1e2d-393c-ad80-e4fa55129270 | -21.55206 | -47.82833 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 255c4ec7-90f6-3a72-80a1-68299b2de880 | -21.61107 | -47.87001 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 5fd6d16c-5741-3d7f-ba5e-6fe32966c048 | -21.60852 | -47.85872 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 4f09d551-6e26-3b1f-8564-757cd6e11f99 | -21.6075 | -47.8638 | 2024-10-01 03:51:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 771337ed-d0c9-3f51-81c1-86a9f613862b | -21.60669 | -47.85971 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| cf062ff8-def6-391f-ae2e-a6f0629ac5be | -21.60648 | -47.86891 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 446f58a2-55ae-39ca-9622-ec8c1428034c | -21.60563 | -47.86479 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 9753e3ae-2689-3f04-bd74-129fd6f8527e | -21.60315 | -47.85355 | 2024-10-01 03:51:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| e5b9465d-1951-3abc-a349-9efd11f916d5 | -21.60137 | -47.84634 | 2024-10-01 03:51:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 72d0191e-2092-3030-af35-d0d6129567ce | -21.60035 | -47.85143 | 2024-10-01 03:51:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 051dc3c6-2f31-314a-86fa-14f74f48b6d9 | -21.59961 | -47.84739 | 2024-10-01 03:51:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| c00b18b9-95ba-3f1b-a53a-9dd7b6b7e873 | -21.59933 | -47.85651 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| fec067d4-014f-34c8-a19e-5b06a478cf4c | -21.59856 | -47.85246 | 2024-10-01 03:51:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 4a2351b2-b290-3488-bb1e-5109290e75d9 | -21.5983 | -47.86161 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 6eba2245-a427-3ded-a800-f91b193257e0 | -21.59678 | -47.84524 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 4d2f1e32-de2d-33b6-83f5-c86e1e0a684d | -21.59643 | -47.86264 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| d6de956e-be23-3d25-9918-fbf2fcb5b988 | -21.59576 | -47.85032 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 97a89322-6065-3eda-b182-145ccf336cd2 | -21.59473 | -47.85542 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 66265e1c-5a1d-35e9-a4b4-35e115f69dc4 | -21.5937 | -47.86053 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 65c1bb13-0e65-3921-b56f-2550817cde1f | -21.59267 | -47.86565 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| df5c7a14-dba2-305c-8851-200e668216bb | -21.59164 | -47.87077 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 9c74d3cd-ccb9-3dc0-85ae-1fd3fcee3238 | -21.59116 | -47.84922 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 545a5098-7980-36fc-8801-ce99729b9cc6 | -21.59013 | -47.85433 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 204.2 |
-| 5cea5cd7-1f4f-37cb-a0fc-1ed0f9a1e99a | -21.5891 | -47.85945 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 204.2 |
-| 7dd43ec8-12c8-3ebc-a85c-813577929ae2 | -21.58807 | -47.86457 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 95f618b5-6fd1-34dc-b5bc-c702054a2749 | -21.58704 | -47.86967 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 918f37a2-095c-3eac-90a5-e715f311fe2f | -21.58657 | -47.84809 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 9575216a-2520-3f02-8f45-a556d8605f51 | -21.58554 | -47.85321 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 204.2 |
-| 1c65a273-6403-3ac9-8649-75da6f71bb91 | -21.58451 | -47.85834 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 204.2 |
-| 5deeb974-6aa5-334b-8737-83330bab6681 | -21.58347 | -47.86346 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 847b2eea-79d8-3ad2-badf-4c2d1dc82407 | -21.58244 | -47.86857 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 56f61db3-72a8-3c22-a05d-703aa04a8855 | -21.58201 | -47.84684 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 08247c05-5984-3cee-bc49-f277a03a61b1 | -21.58141 | -47.87368 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 5221ee3a-3007-3920-b121-6b25149dd67d | -21.58096 | -47.85202 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 97dd57d6-3b72-3134-943d-85f2d0bb9855 | -21.57992 | -47.85719 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 6d35cdc2-4d76-329f-9c50-4fb5ee19a0f8 | -21.57888 | -47.86232 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| effb15c3-16ad-3489-8b1a-447e0a129d2a | -21.57785 | -47.86742 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 2a1da0f6-7809-3205-a045-b3040402459c | -21.57745 | -47.84557 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| f5ddc244-a266-3a90-9e93-b1e83de3a7de | -21.57681 | -47.87253 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 918c5a53-166a-363c-8d17-3974e1581392 | -21.5764 | -47.85072 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| c9516cac-ba34-3b9f-b78d-0db9e5462cc9 | -21.57536 | -47.85587 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 73d5ef86-8960-3da4-8006-4e58df498b39 | -21.57433 | -47.86097 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| c91f22c8-8d6a-383e-806d-2ecfa5cbaa1d | -21.57328 | -47.86614 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 2419f9cd-95e3-38a4-9e0b-b157a35a172c | -21.57267 | -47.89298 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| d28aba84-7e32-36b5-b51f-2fbf3c8e2067 | -21.57223 | -47.87135 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ac260d72-facf-3c8c-a79b-1680476b0c93 | -21.57163 | -47.89809 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f78841c0-3279-3c77-8035-44e127f35519 | -21.57082 | -47.8545 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| b1ad6812-39ca-3c5f-89e9-94e3bc093b48 | -21.57016 | -47.88155 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f8f24d33-aab0-3fc4-b642-8c47f610a04b | -21.56978 | -47.85963 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ee17afee-297f-3838-b2a8-ec6b11eddcfc | -21.56912 | -47.88666 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 96b1868b-4dc0-3370-8abf-af8425c0641d | -21.56872 | -47.86486 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 32ff1c77-387d-3aae-b3ca-ea40a85fac8c | -21.56809 | -47.89173 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 742b3d41-500f-39de-a607-f69544835b17 | -21.56764 | -47.87014 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| f5538e3b-f8fa-3465-aff9-6b3ca45bf9c4 | -21.56627 | -47.85319 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 0fc79fe0-cdad-3f8b-8ee1-7ffc71b185d1 | -21.56558 | -47.88033 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| fa5bbe4d-86dd-315f-9659-aa9c731f372b | -21.56522 | -47.85835 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 76512700-c6c1-3fc6-883a-1cd1449f7d94 | -21.56415 | -47.86361 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| cd87c664-1635-3309-af95-340182dabca4 | -21.56065 | -47.8571 | 2024-10-01 03:51:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c2f548ec-c12f-3032-b25b-dae85cbe6bb5 | -21.38076 | -48.47341 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 7048fa49-1ec7-32e2-b1d6-d75726711c70 | -21.37957 | -48.47924 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 9abdc2fb-042f-3434-bc83-cc24b12cedaf | -21.37821 | -48.47483 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| b381fc00-1cee-3826-b996-6389ff5e4811 | -21.377 | -48.48059 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 4f634b01-d8a6-38fb-b38f-90cc0a488cdb | -21.3758 | -48.48624 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 6bfd2c73-28f6-37fd-b484-7bc9286a340f | -21.37486 | -48.47766 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 1209d847-c432-3dc2-ab8a-b6d83e96e647 | -21.3737 | -48.48336 | 2024-10-01 03:51:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| f9e3eb6c-b345-35b6-bf87-67740f38a7d0 | -21.70017 | -54.80313 | 2024-10-01 03:51:00 | NPP-375D | RIO BRILHANTE | MATO GROSSO DO SUL | Brasil | 5007208 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| df33e38a-bf4c-3a39-b78c-24946e7a533a | -21.69507 | -54.79434 | 2024-10-01 03:51:00 | NPP-375D | RIO BRILHANTE | MATO GROSSO DO SUL | Brasil | 5007208 | 50 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 6a7ae7be-8ad2-3434-9f5c-cc616a0c4029 | -21.69337 | -54.80107 | 2024-10-01 03:51:00 | NPP-375D | RIO BRILHANTE | MATO GROSSO DO SUL | Brasil | 5007208 | 50 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 049fd2f5-4531-3e60-a7c9-0c83e2f8d800 | -21.65039 | -54.85469 | 2024-10-01 03:51:00 | NPP-375D | RIO BRILHANTE | MATO GROSSO DO SUL | Brasil | 5007208 | 50 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 97a7d0b9-5905-3b26-b110-d253ffd74d0d | -21.6454 | -54.85485 | 2024-10-01 03:51:00 | NPP-375D | RIO BRILHANTE | MATO GROSSO DO SUL | Brasil | 5007208 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 96d02275-b63e-3b32-a4ea-d76d839c545f | -21.64358 | -54.85257 | 2024-10-01 03:51:00 | NPP-375D | RIO BRILHANTE | MATO GROSSO DO SUL | Brasil | 5007208 | 50 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 6b971446-a325-3630-b0a2-801a837fb501 | -22.6753 | -47.04979 | 2024-10-01 03:51:00 | NPP-375D | JAGUARIÚNA | SÃO PAULO | Brasil | 3524709 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 3a05a639-161e-38c9-9164-d3bc884f94ca | -22.67527 | -48.35318 | 2024-10-01 03:51:00 | NPP-375D | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 2d02e6d4-9b63-3c0a-a01e-57cb361571dc | -22.67104 | -47.04866 | 2024-10-01 03:51:00 | NPP-375D | JAGUARIÚNA | SÃO PAULO | Brasil | 3524709 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2d1d55c4-1dcb-328b-af65-1928058b6822 | -22.56095 | -47.93641 | 2024-10-01 03:51:00 | NPP-375D | SÃO PEDRO | SÃO PAULO | Brasil | 3550407 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 488c9260-fbe2-3d4e-b67c-6b6a4ea0a9ef | -22.53929 | -48.8149 | 2024-10-01 03:51:00 | NPP-375D | MACATUBA | SÃO PAULO | Brasil | 3528007 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| fba5048d-84d2-3d96-b2df-d0629dce3e8b | -22.12221 | -48.56109 | 2024-10-01 03:51:00 | NPP-375D | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d5709937-d69c-3e4b-a689-ab221e8ea440 | -22.11985 | -48.55296 | 2024-10-01 03:51:00 | NPP-375D | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 301693d8-3d89-3a52-bb95-77108544d3ca | -22.11868 | -48.55871 | 2024-10-01 03:51:00 | NPP-375D | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 7cbcab2d-5a07-3c39-8ce4-bf92e3861108 | -22.11864 | -48.55438 | 2024-10-01 03:51:00 | NPP-375D | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 698932aa-e161-30c2-a96d-d0aa7eee53ee | -15.19229 | -47.94462 | 2024-10-02 03:32:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| f455c7ba-9200-3332-aa30-d2521443b1bc | -15.17628 | -46.24179 | 2024-10-02 03:32:00 | NPP-375D | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 96f2b425-95f7-3551-8a43-96a53779166f | -15.16534 | -46.23896 | 2024-10-02 03:32:00 | NPP-375D | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a01adc92-ef7e-3774-a610-a0df2b10a785 | -15.16422 | -46.24408 | 2024-10-02 03:32:00 | NPP-375D | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 473c3c2b-294d-3c6b-8c6c-6a3e1dca8235 | -15.16389 | -46.23785 | 2024-10-02 03:32:00 | NPP-375D | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8c7f24d8-e601-3a3a-a129-c142039a9eb1 | -14.8617 | -45.11196 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 26d2e185-ab1a-3ed8-bc14-f4b37297e82b | -14.85578 | -45.11061 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 462fed66-5a33-32f4-95d5-603b30855fce | -14.82808 | -47.68692 | 2024-10-02 03:32:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| af918a62-90db-35d2-a97e-7ebd8091ba7a | -14.82132 | -47.68478 | 2024-10-02 03:32:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| b253a32e-f2fc-32f7-9979-c0fdf2afb25c | -14.65375 | -45.91953 | 2024-10-02 03:32:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 518bf712-8e49-3d89-8fcc-4478ac49a9cf | -14.64752 | -45.91808 | 2024-10-02 03:32:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 1602dc06-7fdf-3ab1-818b-c960b2f74513 | -14.57165 | -44.83455 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 1477bbc6-b27d-33dd-884a-e787dd7b8ee7 | -14.57073 | -44.83901 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| afc3cd59-c8ce-3957-9470-72ba6823582a | -14.56671 | -44.82878 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| a0ea28c6-1a7d-3d27-bf30-c334636b2b2a | -14.5658 | -44.83319 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 7f2b339c-18b9-32f5-99d8-14334d137f56 | -14.56488 | -44.83762 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 96d18461-b717-39c2-b0e5-b42f70b5c4ed | -14.56397 | -44.84204 | 2024-10-02 03:32:00 | NPP-375D | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 16.1 |
+| c88357c2-f130-3495-a3a4-29dd54d1eed6 | -14.39808 | -43.27502 | 2024-10-02 03:32:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 0d627da1-651a-367b-97e3-fa08b6c5738d | -14.39741 | -43.27845 | 2024-10-02 03:32:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 152a5c19-63d1-3f86-8857-b8c16d9e07f7 | -14.39527 | -43.27436 | 2024-10-02 03:32:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| dcd11b01-2c33-3a40-b613-49f278c4298a | -14.39457 | -43.27779 | 2024-10-02 03:32:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| b29335ea-bbbe-31f7-af71-d1259a62173a | -14.39274 | -43.27391 | 2024-10-02 03:32:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| e1240ff3-d32d-3c6a-b969-bbd83ecbacf8 | -14.39206 | -43.27736 | 2024-10-02 03:32:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 33744ff5-5051-3836-9b40-3a9a202e4043 | -14.175 | -46.46703 | 2024-10-02 03:32:00 | NPP-375D | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| b308071b-8296-3089-aef6-b8a9510b65ba | -14.17389 | -46.47229 | 2024-10-02 03:32:00 | NPP-375D | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bf5d8925-3342-3760-9bf8-90ab9db47067 | -14.00816 | -42.1481 | 2024-10-02 03:32:00 | NPP-375D | LAGOA REAL | BAHIA | Brasil | 2918753 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
+| c94085c2-4841-3467-b7c9-c2bfc8fd52d6 | -23.28897 | -45.29299 | 2024-10-02 03:34:00 | NPP-375D | SÃO LUIZ DO PARAITINGA | SÃO PAULO | Brasil | 3550001 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 67dd5a2c-de5b-3b42-ac85-0dfcc3ad4d66 | -23.28827 | -45.29623 | 2024-10-02 03:34:00 | NPP-375D | SÃO LUIZ DO PARAITINGA | SÃO PAULO | Brasil | 3550001 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 85c7a54b-632d-3f67-9ef9-de8746deb4f5 | -23.06857 | -45.90695 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 94f1d161-6378-3d0e-8947-f6f219442812 | -23.06778 | -45.91053 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| d72614e2-7464-32a5-9e3f-513f0e93e673 | -23.06547 | -45.90481 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| fb0c821e-9276-3b3b-aaa0-8bd8e7498df4 | -23.06468 | -45.90831 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 817f177e-0e58-34d5-9f04-d03c97ccad04 | -22.9073 | -45.10362 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| ac7e5060-b314-3362-8cff-b56f57933f6c | -22.90555 | -45.1009 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 43ee5d97-8b0f-30f7-a9c0-e3d5a0ea2d6f | -22.90479 | -45.11489 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| f97edc74-3039-3017-b8f0-ecad0f7e0025 | -22.90474 | -45.10472 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| f4c4d028-d2a5-36e0-b6d2-f7aff7592307 | -22.90307 | -45.09854 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| 34931124-482d-3ad9-a739-baaec693c22a | -22.90306 | -45.11257 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| d05d367b-728e-3549-8925-b17f1e2ef187 | -22.90228 | -45.1162 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 9e808a9c-9bf3-3d4a-8322-f4b854c5caf3 | -22.9022 | -45.10247 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 0c046207-32a7-3fdd-b220-882ee439f68e | -22.90131 | -45.10647 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| a68e0e62-d040-3e13-9c7e-1384250d483c | -22.90126 | -45.09602 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| b5563409-fb93-35c1-8684-a8bf8a3bb6fe | -22.90044 | -45.09983 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 340a6709-080a-38f8-9490-8ceb5e3019e4 | -22.89957 | -45.10392 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 92b0204c-c59e-3876-9963-8dffbe3fd8f5 | -22.89796 | -45.12152 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 96dd5317-a2c6-3aeb-bc49-a573b80e4cb7 | -22.8963 | -45.11917 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 3df9905d-960d-3486-b940-5f80d7bf9180 | -22.89614 | -45.09498 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 34fea386-d412-3ee4-88fa-d7bef049b140 | -22.89549 | -45.12295 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| d24cc8f3-e239-3189-a01f-c36588255abe | -22.89529 | -45.09892 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 5e94f8bc-2efd-3f0d-8058-3bd7aa526165 | -22.89439 | -45.10316 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 67fec485-d5af-36cf-85b3-d49e31a3ed88 | -22.89353 | -45.10715 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| d0645663-0e8c-33cd-8714-67f0755449ab | -22.8917 | -45.09077 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 15268a08-0126-3cb4-8b3f-65fa2702c584 | -22.89091 | -45.09446 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 144c4111-22e5-3b5a-ac5e-6c9e70fcb371 | -22.89007 | -45.09836 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 4fcb2df4-6ebe-3709-8682-ee183c91fea6 | -22.88922 | -45.10234 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 89b58847-25d6-3082-8118-fc41bf733de1 | -22.88837 | -45.10628 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 3b7d30fb-178e-3e27-be72-2f405250ff79 | -22.88667 | -45.11418 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 19ac2ca8-64f6-31b3-81c2-4d94f2cb31f4 | -22.88654 | -45.08997 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| bbf84bad-ebc7-3726-9cc8-da6d7dfa68e8 | -22.88231 | -45.10958 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 64f8eb51-0737-3ede-a3c9-48092e0e36a9 | -22.88149 | -45.1134 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| ddb54e1e-4dac-309c-ba35-9d236d85807b | -22.88136 | -45.08921 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| e87afcd4-d94b-3d11-9416-025ca6e3344e | -22.78756 | -45.19476 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| c8f546c3-3f8c-3e59-9414-34847e2fe4c5 | -22.78344 | -45.193 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| fba2f7ec-9539-3b10-b4f6-2247008af2ef | -22.78274 | -45.19616 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 49f1e4c9-c4b2-38c5-8f41-82c789593688 | -22.78245 | -45.19345 | 2024-10-02 03:34:00 | NPP-375D | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| b1693e91-29f1-35c2-bf05-0e7efa44fe44 | -22.77153 | -44.65935 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DO BARREIRO | SÃO PAULO | Brasil | 3549607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| cf62e102-4817-302a-9fbb-30a9469f1ec2 | -22.77107 | -44.66011 | 2024-10-02 03:34:00 | NPP-375D | AREIAS | SÃO PAULO | Brasil | 3503505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 89ade9e7-3092-39fb-920c-f6ae41d53f95 | -22.76884 | -44.64752 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DO BARREIRO | SÃO PAULO | Brasil | 3549607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| d522870f-6caf-353b-9541-bb88beccce77 | -22.76774 | -44.65268 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DO BARREIRO | SÃO PAULO | Brasil | 3549607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 50d8487f-a5f3-3878-aee3-df0b532632dc | -22.76655 | -44.65829 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DO BARREIRO | SÃO PAULO | Brasil | 3549607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 681989c9-d62c-342e-9234-bef075894653 | -22.76395 | -44.64606 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DO BARREIRO | SÃO PAULO | Brasil | 3549607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 410cedbc-0860-3b19-9a02-466509f5f25e | -22.76281 | -44.65138 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOSÉ DO BARREIRO | SÃO PAULO | Brasil | 3549607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| c7e54d10-9ca3-39ed-967a-80bdabeaeecc | -23.16591 | -49.60289 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.0 |
+| 7eab52db-6372-39b5-9f7a-34969a21c2c9 | -25.82564 | -50.25485 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOÃO DO TRIUNFO | PARANÁ | Brasil | 4125100 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 44fc0d03-8636-33c2-83b7-e1795b84ec17 | -25.82418 | -50.26056 | 2024-10-02 03:34:00 | NPP-375D | SÃO JOÃO DO TRIUNFO | PARANÁ | Brasil | 4125100 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| d8367938-3f6f-3f06-8f06-905f776c506d | -25.03341 | -50.71775 | 2024-10-02 03:34:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| c05f4b2c-4502-3f2d-ba8f-d102abaa66c9 | -25.03173 | -50.72408 | 2024-10-02 03:34:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 4baba98a-7a4d-3209-9654-21a2b3c0054f | -25.03131 | -50.71693 | 2024-10-02 03:34:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 24fba2d5-8a6a-374c-9b6d-726a8c2918f0 | -25.02964 | -50.72336 | 2024-10-02 03:34:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| 5989b3c7-ebf6-3e43-a3f8-f8f92fe15f0e | -25.02682 | -50.71566 | 2024-10-02 03:34:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| a3308ba6-344e-36fc-95b7-34ef63894517 | -25.02505 | -50.7223 | 2024-10-02 03:34:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| caef9656-e0e7-3b1a-abb4-83e97977bd36 | -23.81652 | -47.64619 | 2024-10-02 03:34:00 | NPP-375D | PILAR DO SUL | SÃO PAULO | Brasil | 3537909 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| ab02a903-de51-3df5-a7b7-ef7e9a8a300a | -23.81544 | -47.65079 | 2024-10-02 03:34:00 | NPP-375D | PILAR DO SUL | SÃO PAULO | Brasil | 3537909 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 76793e61-df36-3740-9a17-c52fc4942649 | -23.51615 | -46.26944 | 2024-10-02 03:34:00 | NPP-375D | SUZANO | SÃO PAULO | Brasil | 3552502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 154bc4a5-ad2f-37b3-908b-327da2a10699 | -23.51449 | -51.09781 | 2024-10-02 03:34:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 7daddc55-a8af-3669-b3f9-7cb094722018 | -23.51261 | -51.10484 | 2024-10-02 03:34:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
+| 776ad889-4663-3686-a7f3-b16dac55007c | -23.51083 | -46.26781 | 2024-10-02 03:34:00 | NPP-375D | MOGI DAS CRUZES | SÃO PAULO | Brasil | 3530607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 8f86b296-2c3b-3f00-a0f7-fb70db32f46a | -23.51082 | -47.22404 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 261838ff-f216-3c05-8e67-00021d18e74b | -23.51081 | -51.09906 | 2024-10-02 03:34:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 86f93650-1284-3fd9-9fbe-ba32087e17b7 | -23.50972 | -47.22868 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 42cc006d-ffd5-3882-af2d-c97a21e9d091 | -23.50957 | -47.22588 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 99d3e60d-4137-3f6a-9aaf-31af1d62e616 | -23.50894 | -51.10622 | 2024-10-02 03:34:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 8600cdfc-190c-3db9-9a14-7e83f695d9c4 | -23.50866 | -47.23316 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| fbd23ace-13a3-3435-9c22-ce37ac219d8a | -23.50852 | -47.23045 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 32b99f6e-d477-36c7-abbf-d7e8539a0bfb | -23.50513 | -47.22264 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| e95fab73-4f90-37e4-a4e8-bcb3a5733cbd | -23.50406 | -47.2271 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 9471b243-1e17-3361-8fc1-335746c9e84b | -23.5039 | -47.22438 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| f86ad7c6-d1df-3c9a-b46f-a9fdc6655a72 | -23.50287 | -47.22882 | 2024-10-02 03:34:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| b0a6cfc8-ad47-31ed-b9c6-ccdbaec74a8e | -23.35721 | -47.02293 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 48520c7b-048e-31c3-b700-1ef99d5b3523 | -23.35381 | -47.01691 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
 
 
 [Clique aqui para ver as próximas entradas](README56.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a3c6dd6c-6b78-3e09-a4ec-547ae61ca446 | -17.09939 | -56.14113 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| eb34a917-1277-3371-ab15-0da3f5ae6050 | -17.09907 | -56.18128 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 45.8 |
-| 8f50a2cd-1899-3e48-8eaf-ba160d0b38c2 | -17.099 | -56.07342 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| ad658276-c830-3019-a3a1-c024448f1840 | -17.09881 | -56.14717 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| 8dbd712f-c64c-330c-9a38-fa10477d735d | -17.09854 | -56.18731 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 44.3 |
-| 72b682de-89bb-375b-9de6-c794be67b7e1 | -17.09843 | -56.07953 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| ed055855-e09d-3ebb-ac3e-7af4a8cf313b | -17.09824 | -56.15322 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| 7a0f5503-9467-332e-8db9-ca74bba7e672 | -17.098 | -56.19335 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 44.3 |
-| ae8f6c21-584d-3dbb-8039-f0ba58815608 | -17.09766 | -56.15934 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 85.6 |
-| 324b06cb-7131-3a1a-b595-1fbf0e69437f | -17.09708 | -56.16544 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 85.6 |
-| 9dc44fb3-beb3-3efd-9025-34522b01af31 | -17.09651 | -56.17146 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 137.7 |
-| 7ca71f2c-c395-3cfb-96b6-08315ad8bf6a | -17.09594 | -56.17748 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 137.7 |
-| 18a692a5-02b1-3d47-ad32-ca91cdac371e | -17.09537 | -56.18352 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 105.5 |
-| 8aa04044-4d96-3405-9343-0ef544387d9d | -17.0948 | -56.18954 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 105.5 |
-| 0bf84299-d93a-3f35-98b6-5c435ea05b12 | -17.09422 | -56.19556 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 45.5 |
-| b339ac2f-0f28-33c7-a0ee-8800916e7d95 | -17.09342 | -56.06053 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 7747b7c7-8d67-3f91-988d-42d7a67a8363 | -17.09326 | -56.13438 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| e9007cd2-2dc6-3462-899b-0e233341e4eb | -17.09285 | -56.06663 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 73f41e4f-ac02-3aa0-8f1e-5d30707476f9 | -17.09269 | -56.14044 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 330aab0a-4612-3654-a1cd-a97b82ff29c3 | -17.09212 | -56.14652 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| 0936677d-14c2-332b-b43c-716600f29ea8 | -17.09155 | -56.1526 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| be004fcb-ce83-333e-9995-cbfbd88fa2e2 | -17.09097 | -56.15872 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 85.6 |
-| 4246ccd7-4a28-3d91-874c-b7603983e71c | -17.08983 | -56.17078 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 137.7 |
-| cb2bc04c-2750-30cb-b08e-e8a970cdf75e | -17.08926 | -56.17676 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 137.7 |
-| 1907d891-a848-3a1b-9cbc-993e6e731fba | -17.08869 | -56.18282 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 105.5 |
-| 5e1d7ca4-26c3-3423-856a-815021213f9e | -17.08812 | -56.18891 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 105.5 |
-| 845a4668-ee09-3f6e-acb0-bfe4cdea09ab | -17.08755 | -56.19489 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 45.5 |
-| 91513df7-4073-34d5-a261-e60678329b39 | -17.08698 | -56.20092 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 45.5 |
-| 23b7d687-3eb3-3630-b803-64faba67f6c7 | -17.08669 | -56.05986 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| e28f847a-706f-3c3e-aea6-e860646bb10b | -17.08599 | -56.1398 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| 1cfc4690-44f5-3af5-806c-5705f5cc8883 | -17.08542 | -56.14586 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| abb55e2c-ca9a-34c1-95bf-6786992e724c | -17.08485 | -56.15197 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| be630144-ace0-3332-b22e-550d4385b8d6 | -17.08428 | -56.15805 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 20.4 |
-| 75aacde1-0bf2-3b33-b327-bb2c6cb5169e | -17.08371 | -56.1641 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 20.4 |
-| 2532c7ee-af02-3e63-b5fe-4d14dea277b1 | -17.08315 | -56.17008 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 52.6 |
-| 6ef759be-becc-3ff0-9417-21c375db4f54 | -17.08258 | -56.17607 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 52.6 |
-| 2d3b2e28-2d33-3245-bba0-cf70458f0c7f | -17.08201 | -56.18211 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 51.0 |
-| d2d6e97c-b731-3006-a6d1-f266cb625096 | -17.08144 | -56.18821 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 51.0 |
-| 076be1f4-a2ed-340f-8355-0e8032585cf0 | -17.08088 | -56.19421 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 46.9 |
-| b33ecd5c-034c-311e-a287-1d922f4e29cd | -17.08031 | -56.20026 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 46.9 |
-| d3ac9816-e5b3-3f86-9c63-ed454d8975d4 | -17.07974 | -56.20631 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 21.7 |
-| ce2e5c68-ff3a-3dcf-9d12-c537e4b0ba31 | -17.07816 | -56.15126 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 9116c0cb-e4ae-3aa1-95c1-a2e01950ffc2 | -17.07759 | -56.15733 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 20.4 |
-| a5aa0e51-ce3e-3f18-bff0-c07c97e4819f | -17.07703 | -56.16338 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 20.4 |
-| 7a18727e-796a-30d0-852e-8dce9ca0e60c | -17.07647 | -56.16941 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 52.6 |
-| e24a6f59-dfa2-3cb3-95be-85409ee20ebe | -17.0759 | -56.17539 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 52.6 |
-| 675a0b82-356f-34c3-b280-a2e011cc3308 | -17.07534 | -56.18142 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 51.0 |
-| 53ef763f-f741-3360-9292-a5bfe50e3392 | -17.07476 | -56.18753 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 51.0 |
-| 1038d585-ba2a-3970-b0ce-5515bcf8a057 | -17.0742 | -56.19354 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 46.9 |
-| d29345f3-013d-3f6e-80ca-7c4302ed3f74 | -17.07363 | -56.19959 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 46.9 |
-| 78793565-2454-3e24-9b56-b6d786f251f4 | -17.07034 | -56.16269 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 16.9 |
-| 942477a3-8879-3f4e-b002-f8fd2958ad99 | -17.06978 | -56.16874 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| 9d230730-f7e0-36d2-bee6-a3cdd113d79f | -17.06922 | -56.17473 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| 7a81569d-eaeb-3141-a3ee-7c14ac92ed55 | -17.06866 | -56.18073 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 12.4 |
-| 1e816080-397f-330c-adbc-56216e08c6d7 | -17.06809 | -56.18684 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 12.4 |
-| 2e40caeb-43b0-3357-a159-132c3f48bdc8 | -17.06753 | -56.19288 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| f7b465ca-2e96-3d7d-bb6e-04ff3ccae733 | -17.06696 | -56.19893 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| fdf85c54-4f34-3d50-8e66-111c7d5d7b60 | -17.0631 | -56.16808 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| bb969298-ecce-3331-85a7-898637e4d442 | -17.06254 | -56.17409 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| b7611a8e-5d1e-3aab-8109-de58567bd9be | -17.06198 | -56.18006 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 12.4 |
-| 1870d447-bea4-3f9c-8585-6f1a61b32e2c | -17.06142 | -56.18615 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 12.4 |
-| 7e042dd4-fa98-389c-a700-b52b075abf04 | -17.06085 | -56.19221 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| 51c485ea-07d2-3caf-bb5f-ea6f1af4d432 | -17.06029 | -56.19827 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| 89de47e0-9666-380e-a280-6cdb2e9939a0 | -17.05474 | -56.18543 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.3 |
-| 7e4df241-ce2f-31bb-8c9d-c70fc0b746d8 | -17.05418 | -56.19149 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 37941735-ba90-3b13-8bdc-f55ab19eb1aa | -17.05362 | -56.19757 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 4818130f-94fb-3a31-a397-aac01ba15e86 | -17.04751 | -56.19083 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| e2d7f0a2-f494-3913-a81c-4f91c107c3c0 | -17.04639 | -56.20291 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 76951a38-fa2e-33a0-a819-579f983e256d | -17.04083 | -56.19016 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| f89b7466-9cae-34c5-aa09-bfcf3166ba0d | -17.04028 | -56.19622 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| e5435b4f-d83d-33d3-96d0-b61e7d1dee45 | -17.03704 | -56.18776 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 25.8 |
-| 025e9507-a1e0-35f6-a998-cc30f0f203ea | -17.03645 | -56.19383 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 24.6 |
-| 432b9e4a-11b5-3e84-b9cf-0c015bfd976b | -17.03472 | -56.18336 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 18.8 |
-| 018c6611-c1b0-305b-b227-e8ff6f245767 | -17.03416 | -56.18946 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| 17d9c43f-4780-356e-9a4f-9029a184aa78 | -17.03361 | -56.19555 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| 0f9486a5-1215-3499-8785-41c221a36aa2 | -17.03037 | -56.18707 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.3 |
-| 0d3b8cf4-fc62-309b-a981-58bc2ab7a6fc | -17.02978 | -56.19317 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.3 |
-| 266b333e-6527-3e92-a01e-4854900caf47 | -17.02749 | -56.18873 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 822f726e-76bb-3517-9274-e412bc817376 | -17.01972 | -56.20015 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| df656962-c7f2-3967-9c7e-c5df93df75a3 | -17.01918 | -56.20618 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| f94e9428-3c5e-3dd7-8082-f54132697266 | -17.01586 | -56.1978 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
-| 0c5b2e76-6011-3eb6-8ddb-f3068305dac9 | -17.01527 | -56.20387 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.5 |
-| 2aa8580a-1247-35ff-a71d-ed04e2421691 | -17.01361 | -56.19337 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 3397d9f5-ab10-3da2-b365-4537e09ae4c1 | -17.01306 | -56.19945 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 3c21cc16-77f9-372c-8bb0-19fc0942dac7 | -16.946 | -56.11722 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 9.2 |
-| 8209b9e6-2b4f-3983-a241-76db96919ef0 | -16.94252 | -56.1173 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.0 |
-| 2dd26fa4-21b6-3fb2-9d36-b961ed7799e2 | -16.76828 | -55.95549 | 2024-09-26 05:50:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 07f42c94-c2b9-371f-9074-8e767dfab450 | -15.85084 | -57.42073 | 2024-09-26 05:50:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 5dafd7cb-48cd-37de-9ebe-5b2f60a3a6af | -15.84506 | -57.41672 | 2024-09-26 05:50:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| b01b8340-28c9-33d3-8b05-10dc748a5228 | -15.8447 | -57.42024 | 2024-09-26 05:50:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 205ac920-f9ee-317e-a08f-3a978f98a95a | -15.83899 | -57.41546 | 2024-09-26 05:50:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 48df34cf-b438-3128-beba-ab50cd8e6476 | -15.83864 | -57.41898 | 2024-09-26 05:50:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8b4ec4be-14aa-3c6f-8934-31f2f2d6cc64 | -19.14726 | -57.48155 | 2024-09-26 05:50:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 00c83b35-6ad9-3d4d-b2c7-1fa6008d3ada | -19.14094 | -57.48093 | 2024-09-26 05:50:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 412b8ac7-ebcb-39db-9c96-8076228727f9 | -19.11976 | -57.50411 | 2024-09-26 05:50:00 | NOAA-20 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 95288a5b-f651-385e-9de1-32f4db9e47ea | -19.11943 | -57.50776 | 2024-09-26 05:50:00 | NOAA-20 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 53b884bd-dd9e-3d1f-abc8-d3d4b4ebbb8a | -20.00514 | -55.49012 | 2024-09-26 05:50:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| a124d1c7-d119-3e29-be98-fc5285979ef2 | -20.00455 | -55.49754 | 2024-09-26 05:50:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 1cded462-31d6-3927-a9f6-aef9cac905a5 | -19.98971 | -55.50348 | 2024-09-26 05:50:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 3d2a7977-1591-344c-adde-d600bda4c977 | -19.98927 | -55.50909 | 2024-09-26 05:50:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 684dc244-ea5d-343b-9541-5762e6718a6e | -11.26071 | -65.01752 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| a6243863-bc79-333c-96c1-e95e4ca901b2 | -11.26015 | -65.02103 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| da06712f-0452-3bd5-b879-e206ba73bdf5 | -11.25966 | -64.91665 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 95ef44e3-16cb-31ab-9ee7-79f878d74784 | -11.25911 | -64.92016 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 282db536-e25c-3119-bc32-15bc422d9bd4 | -11.25684 | -65.02048 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c0a845bb-abf8-3690-b4f4-ebd2caf87d6d | -11.25409 | -65.01644 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 91aef89b-3397-3809-8bcf-19c9dd69e415 | -11.25353 | -65.01995 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1bf4c7c1-e79e-3723-b7d8-177d5b8138a7 | -11.25298 | -65.02345 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 207b2a05-3de5-3b36-856f-1fb99ede6df7 | -11.25242 | -65.02697 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| f0c90657-1124-3dcb-8ef8-3d2d1c73ba04 | -11.24911 | -65.02643 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 31298dec-d273-30b0-88e7-d09e1a9235a6 | -11.23868 | -64.96359 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f48d9817-0996-3e64-92b3-12e19b573839 | -11.23592 | -64.95955 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f6e39984-dbeb-3e46-9f29-d6a77e3ec92a | -11.23537 | -64.96306 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3ee36b84-90c8-3114-9101-86c13021ceee | -11.16564 | -64.99513 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 691083de-2610-3d0e-919a-0a70ed9b3626 | -11.16233 | -64.99459 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3f387bf4-129b-3f81-9f4c-3fe39ec8c45f | -11.15902 | -64.99406 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 73eb68bf-56e9-3693-b082-7aaf01786919 | -11.12419 | -65.06393 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c8265241-d614-35d9-8bf3-8b9338b3bf55 | -11.12088 | -65.0634 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0f4abe15-c875-35c6-be42-151ff593d65a | -11.66974 | -64.98717 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| cf8efc68-675f-3bbe-be5c-598a991d6cbe | -11.66699 | -64.98312 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 147672d0-0cef-3077-a028-d19666fbd9d6 | -11.66644 | -64.98663 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 5e247a91-4523-36d8-82c6-8bccc311ba81 | -11.66368 | -64.98258 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 80f641da-7c86-3388-9620-6f34b20bc195 | -11.66313 | -64.98609 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b92eb141-b302-3fa1-8d7d-6b1fa145840f | -11.66257 | -64.9896 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1ee89968-1c10-37dc-9d98-e5386ae3a7d2 | -11.66202 | -64.99311 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 8e45ae0f-3b4f-34a5-a97c-39e91893783d | -11.66092 | -64.97854 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| cbce35df-a9c3-356e-b43f-7e6d4f72ce79 | -11.66037 | -64.98205 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 0377f1d4-d805-361c-8a6d-4a7b98d23766 | -11.65982 | -64.98556 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8c1f20f1-2696-34d5-89c4-f74611149ebd | -11.65926 | -64.98906 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 06ab7a97-9f7d-3acb-9f2e-29e61b8ae4e4 | -11.65706 | -64.98151 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 81fe693e-5210-36d7-ad69-a2f419c2e255 | -11.65651 | -64.98502 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 39f9a6f2-80a7-34e8-8ac0-151036c6e4cd | -11.65595 | -64.98853 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| bb5c1b00-ff5d-397c-a179-e9676046456f | -11.65375 | -64.98098 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 644b46e3-0fd6-3ee9-9d64-9fdb42732ac4 | -11.6532 | -64.98448 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f3aa1830-9ee6-39dc-8849-c41660710160 | -11.65265 | -64.98798 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 7308610a-197e-3920-b14d-dbfed6b83311 | -11.65209 | -64.9915 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 9a0d2ef8-79e8-3c77-9aca-c32e21d5a878 | -11.64989 | -64.98394 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 724db8d8-4552-3f67-ab0b-82a015d9f143 | -11.64934 | -64.98746 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 070d2126-ceae-30ca-807e-bf5ef6eee213 | -11.64878 | -64.99096 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 277e88c7-d106-340e-b707-338a50c49056 | -11.64658 | -64.98341 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 5c079239-f0b4-3044-bd2c-043d2adf5d1e | -11.64603 | -64.98692 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 6182efbf-9d06-3f25-aa45-52200442b465 | -11.64547 | -64.99043 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1d11eca4-de18-3ee9-bbce-ca1a82b74b54 | -11.64314 | -64.98263 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 36428a96-d1b7-33db-8cc3-b7cccd3ec0fd | -11.64203 | -64.98965 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 20afbdbf-ea8a-347d-b146-e86a2dd11fa9 | -11.63872 | -64.98911 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 68005585-df41-35b5-8ce7-ffd6a2857366 | -11.63541 | -64.98857 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2835f1ee-567e-3cd0-ad4c-ecfb4376a40b | -11.6321 | -64.98804 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d575efe6-49b1-33b9-b020-017bc4482c81 | -11.63155 | -64.99155 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c788af2a-3437-3597-8493-c708e9662627 | -11.62824 | -64.991 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 2056d5ea-b4ad-367b-97f8-d9b5982592b9 | -11.62769 | -64.99451 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 423c5e66-0a31-3872-ad05-e49d70a53e33 | -11.62438 | -64.99397 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| d7dd0922-7760-3a72-afd3-e71befd3bae1 | -11.68077 | -65.00335 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 12.7 |
+| 14b3771e-7bb5-377d-b2fc-b0bba26a3e35 | -11.67801 | -64.99931 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 342cd46e-11fd-31c1-9feb-53f960b8f800 | -11.6769 | -65.00632 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 12.7 |
+| 78ba6622-84ad-3b3d-8d45-ac7e848750ba | -11.67359 | -65.00578 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6626cc17-6b99-3b9d-8af7-dbe2a4eef249 | -11.67139 | -64.99823 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 710830f1-ae44-3961-ae78-3bd58a3fbc47 | -11.67084 | -65.00173 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| bd5d0cb8-772c-3b40-bfe6-017a6e221d7c | -11.67029 | -65.00525 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| ed02d481-a643-3915-8ce7-3d170d93761e | -11.66973 | -65.00876 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| f32503cc-3383-3b1f-b879-db7ef2200dd1 | -11.66918 | -65.01227 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 95e21c7c-8e71-310f-a512-593fdaae8440 | -9.95056 | -65.2456 | 2024-10-02 05:36:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 25e5d8f6-7eb0-364e-b87a-8e4ba749cfa7 | -9.95 | -65.24912 | 2024-10-02 05:36:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 72bec67a-d3d6-3101-879f-34ba7b8b8c38 | -10.52181 | -65.28403 | 2024-10-02 05:36:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9b9e8b92-f487-366f-b7e2-01cad9463152 | -10.44443 | -65.08698 | 2024-10-02 05:36:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d20e602e-1f10-399f-9c3f-881e238f0663 | -11.60065 | -65.01532 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 6a331e9e-e04a-3586-8bed-cc06be45a6fe | -11.6001 | -65.01883 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6ef713b4-6999-3d67-b15c-2e1225d27364 | -11.59954 | -65.02234 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| c8bc1841-aabf-3891-bb0d-77dd92e36b6e | -11.59734 | -65.01479 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| aa21b452-b7d9-3e52-b7fe-8366eda03bc9 | -11.58675 | -65.14625 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 28007c8b-4a01-331c-9693-03c6c1f74ead | -11.58344 | -65.14571 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d1eb90b8-6c99-3b33-b29a-a6189a84326c | -11.57691 | -65.03667 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 573469c9-9250-3630-970b-7e8bea539fdd | -11.57305 | -65.03964 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4907cb79-3948-30da-9daa-6e516b5156e4 | -11.52555 | -65.10385 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d9ed0fd2-16fb-30e7-8812-6be7141924f7 | -11.52446 | -65.08928 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c0067349-58ad-35a1-bc8e-64036bcc9ebe | -11.77402 | -64.27633 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 02e634d1-dac1-3ffe-968b-6c1cb5626b36 | -11.77284 | -64.23994 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 11ee9dad-62d0-3770-9ea3-058c254acce5 | -11.77171 | -64.22527 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2d86deb6-d3c5-3ee3-bece-513876296446 | -11.77116 | -64.22881 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ee805667-4f98-3240-9d06-4365344f2170 | -11.76961 | -64.28288 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 264d8c1a-ead0-3e4c-9fb4-c656e92233d5 | -11.76629 | -64.28234 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 87b5ac81-cc25-3e35-9a65-28df28198203 | -11.75965 | -64.28129 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 03fc493c-856b-3585-ab5c-aa1389a10c44 | -11.75912 | -64.19773 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 310eca05-8b51-3c1b-89fc-e39524c25f1e | -11.75857 | -64.20126 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 1a4496f4-b5f7-384e-9218-e08c86ea8836 | -11.75635 | -64.19367 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| abd3b901-bd83-3e44-a463-80f1888cfffe | -11.7558 | -64.1972 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| aba36ccf-6511-344c-83c2-29323c739a27 | -11.75202 | -64.28712 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ae0de7df-6c90-36aa-8e67-b4f6f5cb0cb4 | -11.74971 | -64.19262 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 4e34c678-dab3-3bf3-b50d-cdc94bd59687 | -11.74694 | -64.18855 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 4b2b7bae-c850-3407-b292-bb3e03ea6194 | -11.74362 | -64.18801 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 46135d44-dfe6-31ef-a637-5714c77ded21 | -11.7403 | -64.18748 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 5ef956f5-5cf5-3e06-8f7e-5f81a7da2535 | -11.67956 | -64.25021 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 484370be-6bc5-3715-86c7-58ba830aa484 | -11.67334 | -64.18044 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b67ad95b-e341-3261-be75-026ed3aab003 | -11.67002 | -64.17992 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| abdc2005-59a9-36d0-a5c2-345708c5006c | -11.66233 | -64.20766 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| daa65ac4-ed11-315c-a139-0379702a6331 | -11.66065 | -64.19653 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 465f6ef0-18ad-3a27-8ab2-bdbc9b417b5f | -11.6601 | -64.20007 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 401a3ba5-0e22-3181-a4d2-548b1e7a708d | -11.65901 | -64.20714 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d3b3abaf-f22a-3110-a1c4-98cd797f62ab | -11.65852 | -64.23238 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b35c83d5-5fcd-303f-a077-a77bcfef7bca | -11.65598 | -64.20676 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 19170cc6-8330-3da6-834d-8f540cf7efa1 | -11.65543 | -64.21029 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
 
 
 [Clique aqui para ver as próximas entradas](README171.md)

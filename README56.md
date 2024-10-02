@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4397eecc-c334-30e2-b01a-0d29dfe2ddbb | -22.11742 | -48.5601 | 2024-10-01 03:51:00 | NPP-375D | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 71594c4e-b4c0-35b2-bce9-506f10254d44 | -21.85441 | -47.16885 | 2024-10-01 03:51:00 | NPP-375D | CASA BRANCA | SÃO PAULO | Brasil | 3510807 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| aa3196c1-3f3a-3538-b96c-0fc7018f1073 | -21.85351 | -47.17344 | 2024-10-01 03:51:00 | NPP-375D | CASA BRANCA | SÃO PAULO | Brasil | 3510807 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6fa4f6e7-3fc8-3a75-8b11-46b07e6e2703 | -21.85253 | -47.17046 | 2024-10-01 03:51:00 | NPP-375D | CASA BRANCA | SÃO PAULO | Brasil | 3510807 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| ed18209a-32fb-3710-bd78-c98cd83f465f | -21.84911 | -47.17249 | 2024-10-01 03:51:00 | NPP-375D | CASA BRANCA | SÃO PAULO | Brasil | 3510807 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 59311d26-0e9a-39ad-b5d6-f2e7884a92d1 | -19.62318 | -44.20696 | 2024-10-01 03:51:00 | NPP-375D | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| bc596de7-bbfe-32f2-9f8c-cdeb8b56b9fe | -19.61955 | -44.11917 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 54d3a3fd-869e-3c63-bc7b-9c542f052353 | -19.61891 | -44.11239 | 2024-10-01 03:51:00 | NPP-375D | PEDRO LEOPOLDO | MINAS GERAIS | Brasil | 3149309 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 29742f85-a8ec-3d65-8d16-bacfab9bcbfb | -19.61805 | -44.11721 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| fec983ae-af5c-3f81-b871-491441d87702 | -19.61663 | -44.11361 | 2024-10-01 03:51:00 | NPP-375D | PEDRO LEOPOLDO | MINAS GERAIS | Brasil | 3149309 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| b715a281-dafc-3e28-96b5-e133605e4796 | -19.6151 | -44.11165 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 2d8917fa-c7a8-3302-91ea-a6fb7ab74974 | -19.609 | -44.11216 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 6eb4c4b1-ed52-352a-86de-2c9c944e28f1 | -19.60811 | -44.11699 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 2dac5908-d50f-392b-9a8e-ad4f1d4d6adb | -19.60748 | -44.1102 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 0778cf61-50e3-3561-ab1c-39e6a36a52ec | -19.60661 | -44.11503 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 4b492d64-2238-3064-bded-1ee71a8bc0da | -19.60519 | -44.11144 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| b8a27845-b97c-31a0-be70-1104fc7c246e | -19.60429 | -44.11626 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 997e8699-f1fd-31d6-843b-88f4e632a3fe | -19.6028 | -44.11428 | 2024-10-01 03:51:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 3d9cb0dc-a43d-3949-88ef-d555f82b6963 | -19.25097 | -43.34909 | 2024-10-01 03:51:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| fddf482b-11e9-3d99-960e-bfff99fc7289 | -19.25016 | -43.35361 | 2024-10-01 03:51:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 59d1b455-c8f3-3372-8cd8-816f381d4bed | -19.24888 | -43.33945 | 2024-10-01 03:51:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 52f6a33e-2e09-374d-a24f-fece64f5402a | -19.24698 | -44.3716 | 2024-10-01 03:51:00 | NPP-375D | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b7834b57-6744-3f49-88e4-aa4d7b07b304 | -19.2465 | -43.35279 | 2024-10-01 03:51:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| fa56b99f-1740-3884-9559-fd4a3f1b4736 | -19.24643 | -44.37401 | 2024-10-01 03:51:00 | NPP-375D | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0e3532b3-5e70-3f2e-84af-7e121bf9e574 | -19.24519 | -43.33885 | 2024-10-01 03:51:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 0f757c11-5be3-36d1-9f5d-3c6161657a7f | -19.24407 | -44.36557 | 2024-10-01 03:51:00 | NPP-375D | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f64a3fcb-2125-392a-b172-dc284a6ad779 | -19.24349 | -44.36794 | 2024-10-01 03:51:00 | NPP-375D | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6462aaef-f511-368d-94c5-e096b8b3d71f | -18.9807 | -45.08029 | 2024-10-01 03:51:00 | NPP-375D | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d374a725-e380-3858-95fc-e81ee96b7ae0 | -18.81073 | -45.80046 | 2024-10-01 03:51:00 | NPP-375D | TIROS | MINAS GERAIS | Brasil | 3168903 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 0d064795-3c5a-3d0c-91d7-2a85171e1a15 | -18.80995 | -45.80456 | 2024-10-01 03:51:00 | NPP-375D | TIROS | MINAS GERAIS | Brasil | 3168903 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| be57f86b-34af-3d06-aaee-069eddfa5fa9 | -18.80646 | -45.79961 | 2024-10-01 03:51:00 | NPP-375D | TIROS | MINAS GERAIS | Brasil | 3168903 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 9402a6cf-b0a3-3be5-8801-b617316c60ed | -18.80567 | -45.80373 | 2024-10-01 03:51:00 | NPP-375D | TIROS | MINAS GERAIS | Brasil | 3168903 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 2ae71425-1db9-341d-b706-3e6bdc70713d | -18.66732 | -44.26438 | 2024-10-01 03:51:00 | NPP-375D | INIMUTABA | MINAS GERAIS | Brasil | 3131109 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 9334b02f-ca37-3941-bd98-c543cd1f4e0e | -18.66638 | -44.26954 | 2024-10-01 03:51:00 | NPP-375D | INIMUTABA | MINAS GERAIS | Brasil | 3131109 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 95c45886-03ad-3597-98ed-681049583930 | -20.3256 | -44.91832 | 2024-10-01 03:51:00 | NPP-375D | ITAPECERICA | MINAS GERAIS | Brasil | 3133501 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 54bc0189-4f68-3ec6-b8a2-99f37f51129f | -20.3244 | -44.91394 | 2024-10-01 03:51:00 | NPP-375D | ITAPECERICA | MINAS GERAIS | Brasil | 3133501 | 31 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| b51ae063-534a-3799-b564-f703cb543fea | -20.3234 | -44.91918 | 2024-10-01 03:51:00 | NPP-375D | ITAPECERICA | MINAS GERAIS | Brasil | 3133501 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 6b90bab8-94c8-3a2f-99ab-f4f4bebe42e1 | -20.09648 | -44.82745 | 2024-10-01 03:51:00 | NPP-375D | CARMO DO CAJURU | MINAS GERAIS | Brasil | 3114204 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| f3d26a4c-f32f-3569-b9f3-35a0a071c70d | -20.07784 | -44.60018 | 2024-10-01 03:51:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| b829f388-2c0c-3c27-b4bd-22fe0ca693ce | -20.07397 | -44.59933 | 2024-10-01 03:51:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 7c8a02ab-0d45-3c50-a548-ea9cd8054a60 | -20.07331 | -44.60289 | 2024-10-01 03:51:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 36ade8d0-a60a-362b-8b90-9492a2d94066 | -20.07297 | -44.60465 | 2024-10-01 03:51:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 34354daf-a9ee-3b32-bf6b-dbcc5568cdc6 | -20.00268 | -45.06528 | 2024-10-01 03:51:00 | NPP-375D | SANTO ANTÔNIO DO MONTE | MINAS GERAIS | Brasil | 3160405 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| ab34047f-861f-3821-ba51-aa6ae4d60d98 | -19.80972 | -44.2449 | 2024-10-01 03:51:00 | NPP-375D | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 89c4ffb3-4408-3377-8149-60cd66230216 | -19.80791 | -44.2472 | 2024-10-01 03:51:00 | NPP-375D | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 92d605ef-9228-34f5-adcc-a2777b9a045a | -19.76666 | -43.67234 | 2024-10-01 03:51:00 | NPP-375D | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 36f4e526-9438-3c5c-8dbd-777c98325dbd | -19.71844 | -45.50644 | 2024-10-01 03:51:00 | NPP-375D | BOM DESPACHO | MINAS GERAIS | Brasil | 3107406 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| f038ea89-2dee-3219-8998-01ea57fa4eeb | -21.31029 | -49.23857 | 2024-10-01 03:51:00 | NPP-375D | NOVO HORIZONTE | SÃO PAULO | Brasil | 3533502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 4a5495a9-9a92-3ae8-9063-e402d61267a6 | -21.30591 | -49.23418 | 2024-10-01 03:51:00 | NPP-375D | URUPÊS | SÃO PAULO | Brasil | 3556008 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 841d469c-0da7-3a4f-9671-39d820f93aa1 | -21.30527 | -49.23725 | 2024-10-01 03:51:00 | NPP-375D | URUPÊS | SÃO PAULO | Brasil | 3556008 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| c62c4a5f-83a1-39b5-8f7d-772c6e516444 | -21.30153 | -49.22986 | 2024-10-01 03:51:00 | NPP-375D | URUPÊS | SÃO PAULO | Brasil | 3556008 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 91b59934-8d76-3748-affe-7808a6db8f0a | -21.30088 | -49.23294 | 2024-10-01 03:51:00 | NPP-375D | URUPÊS | SÃO PAULO | Brasil | 3556008 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| d64ffa22-ebb8-3f99-b7e2-2b4e78a987e7 | -23.54776 | -47.65039 | 2024-10-01 03:51:00 | NPP-375D | ARAÇOIABA DA SERRA | SÃO PAULO | Brasil | 3502903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 19ecc61b-6e1a-362c-93a9-d0bdea4817cf | -23.40526 | -46.55687 | 2024-10-01 03:51:00 | NPP-375D | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| d6fef29e-e042-3b63-a9f5-dcdedb202bd9 | -23.36196 | -46.99501 | 2024-10-01 03:51:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| c5a86fd1-8d41-3903-8f43-5811fd110815 | -23.34049 | -46.77214 | 2024-10-01 03:51:00 | NPP-375D | CAIEIRAS | SÃO PAULO | Brasil | 3509007 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.2 |
-| 49dfb213-7764-34ae-a89b-4bd548fc53b6 | -23.33632 | -46.77124 | 2024-10-01 03:51:00 | NPP-375D | CAIEIRAS | SÃO PAULO | Brasil | 3509007 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.2 |
-| 0040bf0d-bcfe-3cc9-a120-f330da7db499 | -23.27689 | -46.65401 | 2024-10-01 03:51:00 | NPP-375D | MAIRIPORÃ | SÃO PAULO | Brasil | 3528502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 92bb756d-a83c-3d1c-9b00-963308f84d4c | -23.27272 | -46.65323 | 2024-10-01 03:51:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| c16617d2-6e47-3bc5-9a0e-3f2d5dba3dbe | -23.2719 | -46.65734 | 2024-10-01 03:51:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| e65a21a2-b345-3f9f-8464-8d3e352a1edc | -23.20908 | -46.80007 | 2024-10-01 03:51:00 | NPP-375D | CAMPO LIMPO PAULISTA | SÃO PAULO | Brasil | 3509601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 151ef3c0-2205-3c01-a75b-200d5d4439de | -23.15735 | -46.32858 | 2024-10-01 03:51:00 | NPP-375D | NAZARÉ PAULISTA | SÃO PAULO | Brasil | 3532405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 7ac9adc0-a635-30ae-9900-13f1b7aceb1c | -23.11932 | -46.41413 | 2024-10-01 03:51:00 | NPP-375D | PIRACAIA | SÃO PAULO | Brasil | 3538600 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| e0108b53-dbe0-359f-935a-f90027f7d42c | -23.10257 | -46.58693 | 2024-10-01 03:51:00 | NPP-375D | ATIBAIA | SÃO PAULO | Brasil | 3504107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 7bc77d18-967c-33eb-8df3-e7620fefae71 | -23.10178 | -46.59095 | 2024-10-01 03:51:00 | NPP-375D | ATIBAIA | SÃO PAULO | Brasil | 3504107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 5cdba8e0-b71b-3dcc-8c4a-609b40b29591 | -23.10099 | -46.59498 | 2024-10-01 03:51:00 | NPP-375D | ATIBAIA | SÃO PAULO | Brasil | 3504107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 20131138-6076-323e-a534-411d380a7ff9 | -23.0991 | -46.39859 | 2024-10-01 03:51:00 | NPP-375D | PIRACAIA | SÃO PAULO | Brasil | 3538600 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 476bcf6e-28c0-3c18-80d3-43185e64c5bd | -23.0972 | -46.39623 | 2024-10-01 03:51:00 | NPP-375D | PIRACAIA | SÃO PAULO | Brasil | 3538600 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| bc63ec5c-ee9a-3669-97ab-1278bfcecdbe | -23.09505 | -46.3974 | 2024-10-01 03:51:00 | NPP-375D | PIRACAIA | SÃO PAULO | Brasil | 3538600 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 6d548b41-97e1-3438-b84b-ac10e28636c9 | -23.09471 | -46.38721 | 2024-10-01 03:51:00 | NPP-375D | PIRACAIA | SÃO PAULO | Brasil | 3538600 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 724d7400-c142-34b0-b2e8-016f9aaea75f | -23.09247 | -46.38858 | 2024-10-01 03:51:00 | NPP-375D | PIRACAIA | SÃO PAULO | Brasil | 3538600 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| ec36947b-e7f0-3729-9954-7f5f0cd320c7 | -23.08424 | -46.90306 | 2024-10-01 03:51:00 | NPP-375D | LOUVEIRA | SÃO PAULO | Brasil | 3527306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 9ca4a7a2-3518-368e-8401-20773303d699 | -22.77961 | -46.81429 | 2024-10-01 03:51:00 | NPP-375D | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| f735fef2-4baa-392a-ab46-4c1e7bde0f95 | -22.77877 | -46.8186 | 2024-10-01 03:51:00 | NPP-375D | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
-| d2509d6c-aec3-373b-8b2c-d7605c9baa0c | -22.7319 | -47.03549 | 2024-10-01 03:51:00 | NPP-375D | JAGUARIÚNA | SÃO PAULO | Brasil | 3524709 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 5f25009b-27e3-3109-9315-f8ff1629e502 | -22.72608 | -46.68464 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 84ccc925-e94a-3be8-98de-bfcd60ee829c | -22.72367 | -46.67482 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
-| 34e833f5-9054-3b0b-a4f1-cdefc2337f1a | -22.72286 | -46.67884 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
-| 3bef47c7-7497-349c-8f86-c79c05586acd | -22.72198 | -46.68327 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.0 |
-| ed09490f-0ca2-3fba-97df-3c93b00660aa | -22.71987 | -46.67396 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 22.4 |
-| fd442631-95c6-328b-a8fe-d3b17eeb71f1 | -22.71953 | -46.67361 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
-| dd6b8d53-cee5-3dcd-922d-c8621f2c7d87 | -22.71909 | -46.678 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 22.4 |
-| eeb53055-04ce-3d2f-ab31-da954932575e | -22.71873 | -46.67763 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
-| 18beae1e-c2ab-344d-aaa8-d5ad651c3e3f | -22.71822 | -46.68253 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.1 |
-| 18901d5a-f19b-3b16-b59a-06a8d7b94c8f | -22.71783 | -46.68212 | 2024-10-01 03:51:00 | NPP-375D | MONTE ALEGRE DO SUL | SÃO PAULO | Brasil | 3531209 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.0 |
-| 494185d5-6248-3be6-9134-dbea725f73d4 | -22.71005 | -46.23583 | 2024-10-01 03:51:00 | NPP-375D | ITAPEVA | MINAS GERAIS | Brasil | 3133600 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 56b5f2d6-e849-363a-abde-cb72117414f7 | -22.37994 | -49.31755 | 2024-10-01 03:51:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
-| 4734ea3a-36ae-3c84-9654-04cc9adeb95d | -22.3766 | -49.31019 | 2024-10-01 03:51:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 36.4 |
-| 84d5da76-5e44-355b-95c2-cc4c54244eab | -22.37643 | -49.33569 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| 171ebd72-5309-3094-aa74-6264077f9686 | -22.37622 | -49.31069 | 2024-10-01 03:51:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 16.0 |
-| ff693e3b-08a6-3d7e-ac27-69f913728eed | -22.37588 | -49.33611 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 30.6 |
-| 3fd94f81-9786-3604-9f0f-1270ab1388ea | -22.37536 | -49.31605 | 2024-10-01 03:51:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 36.4 |
-| 25cace00-a4af-3f12-b265-2beb46b1047b | -22.37515 | -49.34177 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| baa090aa-558c-3c13-b00a-9d2a200036c8 | -22.37494 | -49.31652 | 2024-10-01 03:51:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
-| affe9b83-995a-369e-bf3c-c1ca9649a2b5 | -22.37456 | -49.34216 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 28.1 |
-| 831aa36d-e3ba-37f8-a949-06596166e7c0 | -22.37412 | -49.32193 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
-| 67b2a5d1-acdd-3c36-bb62-6752c2270667 | -22.37388 | -49.34775 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| 2e152e08-c9c4-317e-a9ec-70929ceb90da | -22.37366 | -49.3224 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
-| 5670c64b-c736-3143-b2fe-0405a9ff4e56 | -22.37325 | -49.34813 | 2024-10-01 03:51:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 28.1 |
-| 999dd4a1-90d0-335d-b180-60bc05da32aa | -22.37288 | -49.30315 | 2024-10-01 03:51:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 12.0 |
+| bf1673d8-49bc-3b34-ac40-df61352df66c | -23.35363 | -47.01243 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 870e9d50-1a53-306e-8216-e75adafc3df4 | -23.35278 | -47.0213 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| 148db69e-1008-35d4-ba5c-a5ed831bbaa7 | -23.35266 | -47.0167 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| 95caada2-8382-3b58-a1fa-707bf5ed5ae6 | -23.35163 | -47.02121 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| 03920778-ac9c-3a7b-9fc2-aab3cdb0e13e | -23.35157 | -47.02643 | 2024-10-02 03:34:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| 341624cb-1b1c-3558-b1c6-d2820eced438 | -23.28379 | -46.66172 | 2024-10-02 03:34:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| a34ea7f7-3e48-3323-82d4-5a34e7bee70f | -23.28288 | -46.66574 | 2024-10-02 03:34:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| e978ff03-9573-38c1-9cda-3048c45998c8 | -23.27928 | -46.65586 | 2024-10-02 03:34:00 | NPP-375D | MAIRIPORÃ | SÃO PAULO | Brasil | 3528502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| ede98c29-b46f-3bea-995e-f7730d8084e8 | -23.27838 | -46.65982 | 2024-10-02 03:34:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| 6805e995-6d7e-3639-8a06-0dfb419adad6 | -23.27742 | -46.66399 | 2024-10-02 03:34:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| f00415ac-6cee-35b7-88bc-3a5a017847c2 | -23.2746 | -46.65076 | 2024-10-02 03:34:00 | NPP-375D | FRANCO DA ROCHA | SÃO PAULO | Brasil | 3516408 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| da9209d5-c916-33d7-a372-f57ae98ff03e | -23.17144 | -49.59887 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
+| a025fdfa-2f67-3475-b638-734c95e5da19 | -23.16759 | -49.59606 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.0 |
+| 8174a42c-9b0d-3f86-9d18-c1bfe3b96a00 | -23.16497 | -49.59691 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
+| 38f69f07-efc9-37d6-a89a-629fc9b4ba63 | -23.16427 | -49.60954 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.3 |
+| 347b6fa5-8288-39ce-a5c8-23071a57e337 | -23.16338 | -49.6032 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 21.0 |
+| 8005b8ab-bcd3-306b-9cd9-10dedd9a68c0 | -23.16164 | -49.61002 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 21.0 |
+| 40129c83-a306-3819-bc4b-56872b8beb97 | -23.15951 | -49.60061 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
+| 762a2616-ef2e-3e14-b1ec-02cd5a9839f0 | -23.1579 | -49.60715 | 2024-10-02 03:34:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| d8d5b772-02a0-362a-8c49-8f2d1e978c58 | -23.11526 | -46.2662 | 2024-10-02 03:34:00 | NPP-375D | NAZARÉ PAULISTA | SÃO PAULO | Brasil | 3532405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| b661e403-4393-3b92-90a5-0dd2fd419120 | -23.03781 | -46.88773 | 2024-10-02 03:34:00 | NPP-375D | ITATIBA | SÃO PAULO | Brasil | 3523404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 0f9542d1-da31-37f4-8e27-3a8658323807 | -23.0323 | -46.88574 | 2024-10-02 03:34:00 | NPP-375D | ITATIBA | SÃO PAULO | Brasil | 3523404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| 3365490c-983d-3bac-8414-7c2186126a98 | -22.93891 | -43.23898 | 2024-10-02 03:34:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| e6977be4-be9b-3600-a6f1-12cf9f29e059 | -22.93175 | -43.73006 | 2024-10-02 03:34:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 322a2da0-9a8b-375b-8eb2-e217810c0e68 | -22.93064 | -43.73536 | 2024-10-02 03:34:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 16.0 |
+| 0c2c673b-38d2-3b07-b7c4-4660264fa88b | -22.92709 | -43.72891 | 2024-10-02 03:34:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 9.9 |
+| ef52095e-d9d0-3c08-b738-28c24c0283ec | -22.92354 | -43.72245 | 2024-10-02 03:34:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 9.9 |
+| 7951d1f5-df83-3c98-af0c-821cc9e39497 | -22.82918 | -42.70614 | 2024-10-02 03:34:00 | NPP-375D | TANGUÁ | RIO DE JANEIRO | Brasil | 3305752 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| ba0e1c21-761e-33b8-9fa6-675aea5d755e | -22.82519 | -42.11077 | 2024-10-02 03:34:00 | NPP-375D | SÃO PEDRO DA ALDEIA | RIO DE JANEIRO | Brasil | 3305208 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 727c3523-c36d-320c-add0-437d6e6e4cf6 | -22.78669 | -44.25098 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 0cf15f52-4dde-368d-bbd5-39b54d35665c | -22.78194 | -44.24945 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 345e871d-6415-3ab6-8686-5334ed1d2a38 | -22.77449 | -44.23685 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| ac23db5c-f8e8-3fa1-aa05-b474f796bf1e | -22.77348 | -44.24154 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| 79040731-9968-3205-b18f-8159e1282773 | -22.77302 | -43.80462 | 2024-10-02 03:34:00 | NPP-375D | ITAGUAÍ | RIO DE JANEIRO | Brasil | 3302007 | 33 | 33 | nan | nan | nan | Mata Atlântica | 12.4 |
+| 9be5a166-9714-3ca2-979c-53ba509f84a5 | -22.77269 | -44.23563 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| a04f6fdf-55a6-30a6-9e75-36f97b36e65f | -22.77172 | -44.24029 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 866b2e70-cb3d-3bf9-883f-fbcc1f81a4a3 | -22.76977 | -44.23522 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
+| f961088c-a81e-3262-9400-eefa4f88af7e | -22.76941 | -43.79837 | 2024-10-02 03:34:00 | NPP-375D | ITAGUAÍ | RIO DE JANEIRO | Brasil | 3302007 | 33 | 33 | nan | nan | nan | Mata Atlântica | 12.4 |
+| bfdc2af1-84ae-326e-a0bd-701f45b05b22 | -22.76842 | -43.80301 | 2024-10-02 03:34:00 | NPP-375D | ITAGUAÍ | RIO DE JANEIRO | Brasil | 3302007 | 33 | 33 | nan | nan | nan | Mata Atlântica | 12.4 |
+| 99903112-74fe-3f03-a876-f9b086435d6c | -22.76793 | -44.23416 | 2024-10-02 03:34:00 | NPP-375D | RIO CLARO | RIO DE JANEIRO | Brasil | 3304409 | 33 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 118cdcba-08bd-382a-9887-a0a754885297 | -22.76671 | -43.76453 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| f2e2bc5f-8826-314b-9adb-4873c430d065 | -22.76571 | -43.76923 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 99c3b778-181e-3f9f-aac0-d8fb4ca44969 | -22.76542 | -43.76765 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 45b1ba13-1cf4-3b18-8d6b-6893c1d59c4a | -22.762 | -43.7635 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
+| 344a4942-8da7-3e70-ac66-e9eaa561df54 | -22.67363 | -43.71 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 2970e80a-140e-3ef5-ad54-e4c11c3e83de | -22.67348 | -43.71288 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 7a1eeef3-89d7-39ca-afd3-084cd39fa78e | -22.67241 | -43.71599 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| c4357898-abe8-38cd-bf67-f846a65245c5 | -22.67019 | -43.70278 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 641bc420-42da-3a9f-a344-435f2cb077bf | -22.67006 | -43.70578 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| c6d76c08-e07d-3317-9f0d-ec5adda54eb2 | -22.66894 | -43.70892 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 53320fb6-6ab4-3188-b843-529d9ff3cca1 | -22.66874 | -43.71202 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| fa0f8dc7-b20c-30b5-a2e1-5acde37db72b | -22.6677 | -43.71502 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 86616f1d-ba9b-38e2-afd2-32724ad9a6a3 | -22.66538 | -43.70227 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
+| 95208aec-05f2-35f1-8c89-46222ddddd50 | -22.66525 | -43.70526 | 2024-10-02 03:34:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| a4e79e73-4115-371e-87d2-d036a9532c20 | -22.65322 | -47.26839 | 2024-10-02 03:34:00 | NPP-375D | LIMEIRA | SÃO PAULO | Brasil | 3526902 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 55c01c79-a120-3108-ae35-b45bc2dd55aa | -22.64954 | -47.26455 | 2024-10-02 03:34:00 | NPP-375D | COSMÓPOLIS | SÃO PAULO | Brasil | 3512803 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 2bcb9f26-2041-3f95-86ad-5addc063c32f | -22.64853 | -47.26898 | 2024-10-02 03:34:00 | NPP-375D | LIMEIRA | SÃO PAULO | Brasil | 3526902 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| d3ad136f-cd2e-388d-9eb4-4b1f8e0e04f4 | -22.61613 | -43.96635 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 0f891316-e203-3b16-9757-429216ddffbb | -22.61546 | -43.96272 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 16b0b90e-8be2-327e-9fc5-318464319504 | -22.61252 | -43.95963 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 98bbf06d-6543-3ae3-8426-2ee6bb6c9ac2 | -22.6114 | -43.96505 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| fd0732fb-9ae0-3fbb-bc93-f0cd7dc41274 | -22.61074 | -43.96142 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 44f2e7cc-10c5-3ad9-81c1-920d2c411218 | -22.60958 | -43.96683 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 9560d05d-40ec-3f06-b1e4-6eee37e09047 | -22.60665 | -43.9638 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 38d9e37d-f50a-3247-bb6b-f447f29222f3 | -22.606 | -43.96017 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 058fa9eb-b785-34a9-bea0-7d5337bd46dd | -22.60484 | -43.96559 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| baceb8f3-ac73-3573-8239-a1e9bf4e7a4a | -22.60456 | -48.76908 | 2024-10-02 03:34:00 | NPP-375D | LENÇÓIS PAULISTA | SÃO PAULO | Brasil | 3526803 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 920914b5-986f-35a3-bb21-2b5b859ad45b | -22.60322 | -48.77448 | 2024-10-02 03:34:00 | NPP-375D | LENÇÓIS PAULISTA | SÃO PAULO | Brasil | 3526803 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 4dca0e44-5e84-33df-a3a2-74fe5df1087b | -22.60301 | -48.77004 | 2024-10-02 03:34:00 | NPP-375D | LENÇÓIS PAULISTA | SÃO PAULO | Brasil | 3526803 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| ea8d6da1-7011-31af-964e-8b09b370c5ca | -22.60171 | -48.77544 | 2024-10-02 03:34:00 | NPP-375D | LENÇÓIS PAULISTA | SÃO PAULO | Brasil | 3526803 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 1c745bf7-659f-3edf-b698-43dad2ec95c7 | -22.56018 | -42.41747 | 2024-10-02 03:34:00 | NPP-375D | SILVA JARDIM | RIO DE JANEIRO | Brasil | 3305604 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 1c456a67-a4e9-3451-945c-c4236e7f3444 | -22.55696 | -43.82009 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 46bc44c4-a92c-34a4-a938-e9c80afe73ef | -22.52442 | -43.54859 | 2024-10-02 03:34:00 | NPP-375D | MIGUEL PEREIRA | RIO DE JANEIRO | Brasil | 3302908 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| a00f733f-f246-342c-a8e5-a42a5d548e63 | -22.5141 | -43.83608 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| 0943c40a-04a9-38bd-98e8-a1fdc344d082 | -22.51352 | -43.83745 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| 9c271f75-725f-3f18-8dbd-e0a9d664b482 | -22.51303 | -43.84127 | 2024-10-02 03:34:00 | NPP-375D | PIRAÍ | RIO DE JANEIRO | Brasil | 3304003 | 33 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| 61274c28-6e81-3d5b-8d97-72997de47021 | -22.5094 | -43.83478 | 2024-10-02 03:34:00 | NPP-375D | BARRA DO PIRAÍ | RIO DE JANEIRO | Brasil | 3300308 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| f1aad9e4-79d6-3efb-8fa4-a12e96a74fad | -22.50051 | -43.5462 | 2024-10-02 03:34:00 | NPP-375D | MIGUEL PEREIRA | RIO DE JANEIRO | Brasil | 3302908 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 8fe3d2c1-2568-3994-8044-4be3d785f20a | -22.49952 | -43.55092 | 2024-10-02 03:34:00 | NPP-375D | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 54be2a21-fc06-3c41-9d35-71bd5c42a7bc | -22.49494 | -43.54949 | 2024-10-02 03:34:00 | NPP-375D | VASSOURAS | RIO DE JANEIRO | Brasil | 3306206 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 2fdd1e57-d06a-35fa-85e4-1c8185ea92fe | -22.49221 | -44.14923 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 96d6440f-08cd-3b25-a1dc-1ebf2b9a4772 | -22.4874 | -44.148 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 0683c02d-1ab0-3570-99ae-a5ea0ed71e2e | -22.48622 | -44.15351 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 2adb68d2-4795-3ef7-91f2-1bad3c57fa56 | -22.48009 | -44.13467 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 4f796975-5bbe-3c7d-8eb2-bc3d92c35b41 | -22.45612 | -44.1282 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| c3876d4d-ab6a-33c2-b094-d96afec99b2f | -22.45273 | -44.13206 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 9903f54c-64e9-36f3-b479-fdbd2dd855b1 | -22.45128 | -44.12712 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 00810323-ec92-3ea0-b3cf-409c05c6e165 | -22.45005 | -44.1328 | 2024-10-02 03:34:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| baeefa9c-cec0-34f6-b828-fa464e7982f6 | -22.40044 | -49.31881 | 2024-10-02 03:34:00 | NPP-375D | CABRÁLIA PAULISTA | SÃO PAULO | Brasil | 3508306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 3170cdbb-02a2-37c0-b411-0a97c1701f8a | -22.39894 | -49.32483 | 2024-10-02 03:34:00 | NPP-375D | CABRÁLIA PAULISTA | SÃO PAULO | Brasil | 3508306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| ec91b915-9916-3a4a-a156-200f86f11e0d | -22.39323 | -49.30075 | 2024-10-02 03:34:00 | NPP-375D | CABRÁLIA PAULISTA | SÃO PAULO | Brasil | 3508306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.3 |
+| df79c914-4586-3fa3-bba4-47cedfbc241a | -22.39181 | -49.30662 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 24.3 |
+| a2700480-e94e-33c8-a458-2e3085bbf056 | -22.39181 | -49.29763 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.1 |
+| afec7b73-126e-399e-8950-b49b1483fafa | -22.39035 | -49.30349 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 26.1 |
+| 4880a836-dc0c-3778-ac63-002ef1c6bf88 | -22.3896 | -49.28714 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
+| 7db8f7fc-adb7-3ad3-933f-2e13c40d8801 | -22.38893 | -49.30918 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 26.1 |
+| 6d1332ed-3a46-38c8-a046-8a08f303711f | -22.38828 | -49.28397 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
+| 70937a54-ad1b-3674-a3f3-cde176d85b8e | -22.38812 | -49.29325 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.3 |
+| 63d22f0b-385e-339c-b4e7-78881c39020a | -22.38752 | -49.31484 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
+| 017b192e-44e9-350e-990f-6a6df1ab0877 | -22.38673 | -49.29016 | 2024-10-02 03:34:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.1 |
 
 
 [Clique aqui para ver as próximas entradas](README57.md)

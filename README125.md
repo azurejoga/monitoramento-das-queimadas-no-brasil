@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 79a4df03-b42a-376c-a9a3-097b9ef9a961 | -18.92201 | -47.03578 | 2024-10-01 05:08:00 | NOAA-21 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| cfefe0e6-93d0-33c1-af53-2fac17a7e042 | -20.09842 | -47.34497 | 2024-10-01 05:08:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| acdadd7e-cc13-35a7-bb2a-c95a02b26a0e | -20.09191 | -47.34933 | 2024-10-01 05:08:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 0febafa1-d316-33cc-8197-23d23292233e | -19.75987 | -46.62537 | 2024-10-01 05:08:00 | NOAA-21 | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| f694c721-6312-3867-bc6f-d36d160d5c56 | -19.75895 | -46.6357 | 2024-10-01 05:08:00 | NOAA-21 | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ec1081e1-0a81-3af8-803c-a72f8a75e700 | -19.75849 | -46.64091 | 2024-10-01 05:08:00 | NOAA-21 | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| e16b0f44-9da3-3e8d-a048-b3b7e8929303 | -19.68815 | -47.21459 | 2024-10-01 05:08:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 5a26bce2-ddc2-3a95-ae3f-18fad28495c0 | -19.68776 | -47.2189 | 2024-10-01 05:08:00 | NOAA-21 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 01a5cc2f-899d-32c7-9bf4-8d0fb04b453d | -22.12012 | -48.55582 | 2024-10-01 05:08:00 | NOAA-21 | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c1a1ee64-3a92-3be6-a3da-a040cb846c8f | -22.11975 | -48.55992 | 2024-10-01 05:08:00 | NOAA-21 | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 7b46475f-f82f-3b8b-9cd8-266d9b9e90c5 | -22.11938 | -48.564 | 2024-10-01 05:08:00 | NOAA-21 | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a493a9a4-da94-3960-8927-e11c518930be | -21.60257 | -47.79291 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 9427e381-a350-39b5-8fd0-5af54a5f879a | -21.60244 | -47.82402 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| f420aaee-f2e0-3e2d-9a1d-a16084d3fe6b | -21.60041 | -47.81668 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 716b1cdf-b070-3cc1-b59e-e57f3b7b5050 | -21.6 | -47.82111 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 997bf38f-57ea-3585-a19b-229616a537d9 | -21.5996 | -47.82556 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.0 |
-| 474d2beb-7e12-39c0-bf10-f9a9d83b2a6e | -21.59957 | -47.78621 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 0d2bd38c-221b-3ba4-8dce-cd81d648e521 | -21.59919 | -47.79073 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 7c6be55c-e778-308b-800e-4198119dce8b | -21.5984 | -47.80025 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| b9918c37-c590-36b8-ba7b-9be283e798da | -21.59718 | -47.81479 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| b39c981c-5dc1-3b0c-8f92-14dfc895cec1 | -21.59681 | -47.81921 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 5cb817f1-63a6-315c-9b73-6e11a75ae0e7 | -21.59658 | -47.79222 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 3efd593c-3b14-3561-8df7-4db25c10449d | -21.59644 | -47.82364 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 9000ce45-66ce-30c3-9113-c12a425e16d9 | -21.59615 | -47.7969 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| a9be5ff9-5777-301a-8769-97f12cc1700d | -21.5948 | -47.81185 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 46532a44-34ab-3146-bd6a-c4fb60710d8e | -21.59439 | -47.81638 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| c972c5d0-787e-3b08-bef4-2c3d59a6038e | -21.59399 | -47.82081 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| d9e14562-d98c-3285-b050-248e47efbab0 | -21.59359 | -47.82527 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 543e3a48-8f2d-3ef7-a93a-00d5e6492154 | -21.59282 | -47.79457 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ee386809-4d03-3ae1-b821-398887d5fd88 | -21.5924 | -47.79961 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ad2aebff-d512-375a-a4c3-bbaacb38ae7e | -21.59197 | -47.80479 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| ca7dd88e-d209-37c4-97ce-67296c2e75a3 | -21.59156 | -47.80974 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| f2c344be-687f-3c91-bdf5-aa6a81e2d36d | -21.59117 | -47.81445 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| b1b31db6-c4ec-3325-845f-ee5f38ecf694 | -21.5908 | -47.81894 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 00df541e-b97a-3e92-b79f-e9f8c4da417c | -21.59042 | -47.82343 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| d2383f18-2f43-3ca4-b141-44487da2ac65 | -21.5897 | -47.8014 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| ee8ce126-f11d-3ddb-b1c3-284ced73688a | -21.58924 | -47.80653 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 98f8839c-dbda-3e74-a9bf-19cefa83a8e2 | -21.5888 | -47.81145 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| e0ba3982-b81d-3dc8-b1bb-d6093797e1a2 | -21.58838 | -47.81609 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| a89e167a-1e79-3131-84f4-a90f6c76018f | -21.58797 | -47.8206 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 5d2bdbec-d126-3da7-b902-4d5362cc0727 | -21.58756 | -47.82512 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 2f500932-1b1b-3d99-9ac1-d3f50214026b | -21.58597 | -47.80425 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 5f136a7a-94ef-328f-a32e-75bf3a3dd761 | -21.58556 | -47.80929 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 30704443-60b8-34fb-b856-1f52f0231cc8 | -21.58516 | -47.81411 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| ed5ef6f6-de45-35a5-bf1c-c23d1468bf35 | -21.58478 | -47.81863 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| e6d22e7e-ef9d-314a-a7e3-7cb5a648d521 | -21.58441 | -47.82314 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| c58b6cca-ddaf-3271-b0b7-12b25dff47d6 | -21.58369 | -47.80099 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 823e145c-080c-3472-8f72-05b9989cf277 | -21.58323 | -47.80613 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| e7dc76ef-495f-3c91-a48e-bb7c9f3bada2 | -21.58279 | -47.81107 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| a23e46b9-cf96-3e39-a155-d45fe1666eeb | -21.58237 | -47.81574 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 578d23af-9c1a-33f7-bf04-e3b25c8676bc | -21.58196 | -47.82027 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| e735d011-cf8f-3a22-80aa-5ad93e1aeace | -21.58156 | -47.82474 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 809e97fc-ba87-3405-9b4f-0ed7a2f74b42 | -21.57996 | -47.80391 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| b72fd532-21ee-3425-8dcf-7361d16382d3 | -21.57955 | -47.80887 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 49c13250-a0c2-3b43-aacf-dbf3a2105e2a | -21.57916 | -47.81365 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 0e079415-fe44-3e3e-b8cc-341a8f462772 | -21.57878 | -47.81823 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 8ed64347-6065-3fa0-a505-9a8291547864 | -21.57841 | -47.82271 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| c7f15c3e-7974-3b3f-b1f8-0d2c99f069ef | -21.57722 | -47.80573 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 5330788f-75e8-3bef-a437-471450ca8bcd | -21.57679 | -47.81058 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 60bcce2b-4a7c-37c6-8289-70271448ed4f | -21.57637 | -47.81522 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 409e9e7f-0696-3f36-abce-e059eb31c6ec | -21.57597 | -47.81973 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| f0fc58fc-0e35-3631-9e40-66ed28407522 | -21.57396 | -47.80344 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 92d0371f-b9a0-3d8a-9b76-89a5dd9283d3 | -21.57356 | -47.80833 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0027d679-4440-373f-a39a-7890c4fb1124 | -21.57317 | -47.81301 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 382a702b-4de5-3bb3-aefe-1a6f4b425801 | -21.5728 | -47.81753 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| d601c7b5-a1d8-34ab-b23d-1bc6e8750601 | -21.57122 | -47.80522 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 0c7eff4a-c223-3b4d-8ca9-4aa6b5af0b95 | -21.5708 | -47.80998 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| bbffbf97-4f86-3a8c-927b-ea1ea4850dba | -21.56999 | -47.81905 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 7332a464-0ebf-3696-a3b5-a91330661cd8 | -21.85139 | -48.21282 | 2024-10-01 05:08:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 10c53e5b-531f-3afb-bd86-12267177b91f | -21.851 | -48.21716 | 2024-10-01 05:08:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 3eb2bc45-d832-39d4-b81d-c60db8439ee9 | -21.60476 | -47.83521 | 2024-10-01 05:08:00 | NOAA-21 | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| e79c5a71-b560-3179-8ac9-705c64a16800 | -21.60433 | -47.83986 | 2024-10-01 05:08:00 | NOAA-21 | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 1261b7a9-63e8-3beb-a8e4-d39f5e4bd6db | -21.60391 | -47.8445 | 2024-10-01 05:08:00 | NOAA-21 | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 4b1fb39e-11a8-363f-9676-c66ecea66067 | -21.60206 | -47.82851 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| cfaceb89-c37d-3e95-bfc9-caec20193be5 | -21.60167 | -47.83311 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 1690d75b-8e73-304a-a83e-94000901e160 | -21.60128 | -47.83775 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 6d2878e5-a418-3b75-b760-b5b029689d6c | -21.60089 | -47.84241 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| e54f7a4f-5b9f-32e8-ad27-9dcab32f0e00 | -21.59919 | -47.83004 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.0 |
-| cdbaf7e9-569d-363b-b7f4-7c9a511ca6e5 | -21.59877 | -47.83463 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| f702360a-06ba-3c17-b28a-d63c11b87a45 | -21.59835 | -47.83924 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 84a2b1ea-29f7-3e59-a986-c63dffbdbca8 | -21.59793 | -47.84389 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| a4b411a3-c4e4-39d6-82d0-d4ee79a500e5 | -21.59606 | -47.82809 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 48ec97bb-37f4-3e7e-929e-2b25308b1666 | -21.59568 | -47.83261 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 9a3cde35-cae3-38d9-9671-fce88b69b434 | -21.5953 | -47.83715 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 4285fd83-d859-3af3-949f-e61ee2a46d21 | -21.59491 | -47.84178 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 39bcf87c-63f6-3d84-a74e-828ff03d7409 | -21.59413 | -47.8511 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| a1b16041-03f1-3093-afad-f5424bb2175c | -21.59373 | -47.85577 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 5109eb94-8188-3d01-a2da-85fcc61be60b | -21.59335 | -47.8604 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| 57bb68c8-4fa7-3f84-86e4-ffcc0951bee9 | -21.59318 | -47.82975 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 4f5c060a-e6a6-38a1-a672-a7d6c1d6915b | -21.59295 | -47.86504 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| 4fffd7f9-2f76-31d1-b582-d3128d5a6c59 | -21.59278 | -47.83421 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 1e3b8879-5d36-3b64-b66d-d841cfcf6867 | -21.59237 | -47.83869 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 12c17cf6-3aec-336d-91c2-7e6e3aeaaa5f | -21.59195 | -47.84331 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| fa7aa47a-88ca-3a83-9119-902051bec129 | -21.59153 | -47.84792 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 2cc8974b-3a0e-3e7e-b9a0-03dc4aba428c | -21.59111 | -47.85258 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| ae4f791f-cf34-398c-99df-75a37a697a5b | -21.59069 | -47.85721 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 19eae656-b58e-380a-ba8c-ee1ee95d2e11 | -21.59027 | -47.86184 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 27.1 |
-| 308f7d6b-f158-3928-90a5-303d5af479b5 | -21.59004 | -47.82793 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 03068975-06a0-3019-8143-b893998e402f | -21.58985 | -47.86648 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 27.1 |
-| 9202cfa6-a037-315b-8696-311fdc22fe79 | -21.58967 | -47.83236 | 2024-10-01 05:08:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 6f41e45f-5f1b-3ee8-9da1-235eb260536c | -16.87997 | -57.70074 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| c82b39fb-5533-3178-bf05-8e5eaaf48d96 | -16.87996 | -57.69902 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 2c3e8e73-1727-3453-ba93-6f0aad0e701f | -16.87909 | -57.70384 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| bd482d3d-80d5-3a6e-b34d-3d8ba30dae69 | -16.87872 | -57.68556 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.1 |
+| 05eb54e7-eecf-31fe-9508-e269942b2382 | -16.87793 | -57.68869 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
+| 8026a457-66c3-3428-8756-0da32bd4da7a | -16.87788 | -57.69037 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.1 |
+| 61b3dc55-dc2f-3c3f-8c1b-3f1a289ea518 | -16.87706 | -57.69349 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 82140a68-3296-3f66-9213-3b2c6d46a79c | -16.87703 | -57.69519 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 9669def4-01f5-304d-be64-48b4dfd9f129 | -19.10917 | -57.49821 | 2024-10-02 04:51:00 | NOAA-21 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| 8496b388-256f-3c93-bdee-fc33ef7b404d | -16.87619 | -57.70002 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| c22059d7-5459-3d8f-9f71-a9bfe341e613 | -16.87618 | -57.6983 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 4f251078-b908-34c1-bdc5-a64e7410a502 | -16.87531 | -57.70311 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| eb6ea0f9-131a-3283-a5ee-8b3de28edf71 | -16.87494 | -57.68483 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 9dba6d51-2fb5-36d3-985c-3b516c950b6a | -16.87325 | -57.69447 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 0b1a8320-2e6c-35a2-bc80-66d53f8503c4 | -16.8724 | -57.6993 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 347e856b-0692-379a-82f0-480e732a290d | -16.87116 | -57.68412 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 9d627e9d-3942-3842-b62f-b51318bb2ca6 | -19.10826 | -57.50323 | 2024-10-02 04:51:00 | NOAA-21 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| f609fb1e-d135-3c40-91a6-c5942e1fab1f | -17.13756 | -56.73483 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| 5de38f3f-bf7d-3273-b083-0bcee0dadec4 | -17.13683 | -56.73912 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 494d9276-aff9-34ef-8e48-b09e1f689f36 | -17.13324 | -56.73845 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.2 |
+| 6081ad32-75b9-388c-abec-449a319b5f67 | -17.1325 | -56.74274 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.2 |
+| 83560f4f-896f-35fa-be89-c8fe27a47c0d | -17.12965 | -56.73778 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.2 |
+| 8b09fd57-cf5a-35b7-81a8-028bb2ae080e | -17.12891 | -56.74207 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.2 |
+| f4a9cb62-53cb-3667-b7b1-8c6d30088c00 | -17.11097 | -56.73873 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| cd1211ab-6de4-33aa-9de9-5a36d11df4dc | -17.10949 | -56.74732 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 52b8d6a9-9062-38c9-b595-a5bb540a36fd | -17.10874 | -56.75163 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| aaf19fa4-7c8a-366c-9246-7c52ed212194 | -17.10799 | -56.75593 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| 6198257f-ac20-32a4-b71e-fee4be757a4b | -17.10738 | -56.73805 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| c064529a-e563-3a12-9883-648295094554 | -17.10725 | -56.76024 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| 4aa33e00-2514-39bd-8922-831ed56435ea | -17.10664 | -56.74235 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 13fb467e-f327-3da1-addd-e45def0c27d8 | -17.1065 | -56.76455 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| f782d319-e28e-3642-8332-a20b83519e93 | -17.10589 | -56.74665 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 14c399c0-4459-398e-9f7f-e8e2332e1cb0 | -17.10515 | -56.75096 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| 6db53f12-0295-37a6-8682-e8f99169c442 | -17.1044 | -56.75526 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| 64e392e3-6a81-3579-ab67-9d0fff4f38a5 | -17.10365 | -56.75957 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| 30d25ead-9628-3b9c-8677-9b329b8f4a1e | -17.10291 | -56.76389 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| 66178189-c282-3a16-bb9a-dbe41b608e97 | -17.1023 | -56.74598 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 8b7db9b9-dfa0-3727-b4c5-d7177c9f7eb8 | -17.10216 | -56.7682 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| e1a6b466-ecc8-3394-8e6b-129a6ab894d6 | -17.10156 | -56.75029 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 34df2972-85a9-382e-8d9f-c4baf9df2cae | -17.10081 | -56.7546 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 7d4fe13c-292f-365b-81d8-4a61fc6f8694 | -17.10006 | -56.75891 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.2 |
+| ca41ab04-3153-3a2a-b324-a413327fd7f1 | -17.09932 | -56.76322 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.2 |
+| a2134432-ccb8-3a0e-8fae-df2261a3fbf6 | -17.09871 | -56.74532 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| c78a0161-e936-3d22-a728-76717964db6b | -17.09857 | -56.76753 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 20.8 |
+| 8ba62d6d-bf4e-329a-b98e-6ef215e8ef48 | -17.09797 | -56.74962 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| dc8b87c8-2911-3e05-a6ce-258858e772e7 | -17.09722 | -56.75393 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| f8eb5bac-853c-3b64-b337-147197609495 | -17.09647 | -56.75824 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.2 |
+| 6dfdbcc6-63f2-3514-9470-fb9a77b7096c | -17.09572 | -56.76255 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.2 |
+| 1ea119a5-defb-33c8-a448-38bf7850b19f | -17.09497 | -56.76686 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 20.8 |
+| 0cc4297f-5639-3e97-9d0f-6bf5aad7cd25 | -17.09438 | -56.74895 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| ae168b0c-dd07-3625-af39-8f8d91f34bff | -17.09363 | -56.75326 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 62fa22df-cb5b-3983-8e11-6464b4d113b8 | -17.09288 | -56.75756 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 14.3 |
+| d7db5541-6e6f-3104-9c31-bb4c891b9b2b | -17.09213 | -56.76188 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 14.3 |
+| b32adaff-e3a1-3dfa-97be-1be75ebab5ad | -17.09138 | -56.76619 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 35.1 |
+| 2f533c4c-9520-3d0c-8e02-2ca0b092672f | -17.08928 | -56.7569 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 14.3 |
+| 7330f3a4-8aba-3c4b-9ee2-42babf2d31a3 | -17.08853 | -56.76121 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 14.3 |
+| 7f74423f-2bef-3484-8e47-627088e71d2b | -17.08779 | -56.76552 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 35.1 |
+| 7f52a71a-f8d5-3ef2-9af8-dbfdd8df7e41 | -17.08569 | -56.75623 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
+| 8f745fd3-26de-34c5-b76b-183bf22d4f92 | -17.08494 | -56.76054 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
+| 1c3697bc-6313-3051-9277-f40314e079ac | -17.08419 | -56.76485 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
+| 63432723-5c39-3ffb-9d90-aa2662e66a99 | -17.08135 | -56.75986 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
+| fe822e56-c0e8-3e45-a8dc-a193e1680e35 | -17.0806 | -56.76417 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
+| 75669d4b-433e-39eb-8870-47ddbc639ab6 | -17.07985 | -56.76848 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
+| 86ab70ca-5181-392d-ac20-2d64fbc34ab9 | -17.07625 | -56.76781 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.4 |
+| ffc65b39-b47a-3790-9e0c-75bf6f6fa788 | -17.0719 | -56.77147 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| d6f0af2d-9813-34f6-8a75-001e29267df2 | -17.0683 | -56.77081 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.6 |
+| d5540e3b-bc40-34ea-a53a-fd59c2d56f16 | -17.06471 | -56.77014 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.6 |
+| 555ce93d-1316-3323-8f17-9d2f842c40ea | -17.06395 | -56.77446 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.6 |
+| 63065aa8-ca8f-3e00-bad9-7d0166a53573 | -17.06111 | -56.76947 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.7 |
+| 6d0e6777-8bd0-34d1-b502-b7f9524d52fe | -17.06035 | -56.77379 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.7 |
+| 3f1569b7-b780-3995-bb01-a9bf0ea42701 | -17.05751 | -56.76881 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.7 |
+| 52c72a75-62b0-3271-bd55-3b4fc42ae4e0 | -17.05467 | -56.76382 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| db928a1d-09d9-36f1-9064-bd850da90ecf | -17.05392 | -56.76814 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 11.2 |
+| 795368ed-d9d6-31fa-9b14-6def5832f8b2 | -17.05108 | -56.76315 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| 15e348f3-4a7c-370f-bc58-8fe105d2211e | -17.05017 | -56.75934 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.4 |
+| 08141a7d-a63f-34af-a44d-3c7401c9cce8 | -17.04943 | -56.76366 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.4 |
+| 05710a11-808f-312b-b1da-cf2a61c3e579 | -17.049 | -56.75387 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| d0fb984a-8753-3760-b88a-85d86f06b29c | -17.04887 | -56.72353 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| ccc5fe28-16e8-363f-a269-5f61802e7da6 | -17.04825 | -56.75818 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| 4e00963b-29a5-3f82-9cbf-52a881f2b765 | -17.04805 | -56.75005 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| b3ae4100-a7d0-3539-b0c2-225b83fcf2f9 | -17.04769 | -56.74028 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| d865b0b9-d2d0-3f1b-9141-70e9a94571df | -17.04749 | -56.76248 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| 681201ef-d7b4-3c90-bef2-e9ea20020726 | -17.04731 | -56.75436 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| 9bd7c3eb-8313-35e4-adf3-3fb23dada430 | -17.04693 | -56.74459 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 528fa18b-01a6-344d-b5c1-b534f11fe350 | -17.04658 | -56.75867 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.4 |
+| c788518f-75b0-32a2-835d-f5f76e919439 | -17.04617 | -56.7489 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 451799ce-2fc4-3bad-8e01-eb1e47015f41 | -17.04593 | -56.74075 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| c135e129-bf4a-33a6-8a44-f0eb01f53e38 | -17.04541 | -56.75321 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 7b842e6b-04d7-39c5-af9d-f6741285d409 | -17.04528 | -56.72286 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 6a768942-d158-3148-83c8-87e9e3c1540f | -17.04519 | -56.74506 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 9f0af748-b777-3fa2-91fa-fe70ba3c6dae | -17.04465 | -56.75751 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| 200e8dd6-7d7b-348d-9e12-b0fa4a9c3927 | -17.04445 | -56.74937 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 59a1f928-40f6-3b7e-9928-ee6fffa3c10f | -17.04372 | -56.75369 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| a7a813bd-f801-3712-af05-e7848621e2f0 | -17.04307 | -56.73577 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 8c7d905d-e604-3cb5-a4f8-0f024c494031 | -17.04234 | -56.74008 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 8324add3-6f12-3d2e-8f18-86ae821a35eb | -17.04169 | -56.72219 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 75aba5dd-1d4d-3ba1-8424-08045507ef49 | -17.04095 | -56.72649 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| b0a0baf4-befa-31bb-a000-d4c21bf2cfe7 | -17.04022 | -56.7308 | 2024-10-02 04:51:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 7a8859c8-700b-393c-8911-20e2d3d67268 | -17.05382 | -58.03111 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| e92c24c4-d322-32ab-9c7c-0b158f8d0158 | -17.03438 | -58.04079 | 2024-10-02 04:51:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
 
 
 [Clique aqui para ver as próximas entradas](README126.md)

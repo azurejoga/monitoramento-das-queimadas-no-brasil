@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 68cbc883-aa8f-3143-bc1f-872dcf407b00 | -21.53074 | -47.89851 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 64f63625-8844-3f00-9362-bef2054efefa | -21.58291 | -47.88717 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| 37abea62-1a89-3066-9a63-9bfb2bd4f82b | -21.582 | -47.93184 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 748d69a0-ca1b-3158-8b01-4819f733241b | -21.58173 | -47.90484 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| a7d3f1dc-1786-3b21-bdb5-3e05027aad95 | -21.58137 | -47.89344 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| 39ecc317-7241-3f8c-bf05-f449e98832e7 | -21.58042 | -47.93812 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 2c6443de-a606-38ed-a0f5-effa34b84953 | -21.58015 | -47.91113 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| e6d416c2-030e-3625-acf0-b07598b6f748 | -21.5787 | -47.93309 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 5142de8d-0230-3df1-8aa8-ce942860b91a | -21.57857 | -47.91739 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| b41b1908-86db-34bd-b5f9-85486dadfcbf | -21.57829 | -47.89048 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| d86cd336-27d4-37f0-b1a1-6d87b2abb021 | -21.57717 | -47.93932 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| c1b7009c-fa0a-3388-aa03-3b2726134f62 | -21.57672 | -47.89671 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 55d71db7-3419-3dee-b8eb-f3cb026c9ef8 | -21.57634 | -47.88524 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| 00314e6c-9bb1-35fa-8fbf-9a3fdbc78b08 | -21.5748 | -47.8915 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| ca6a542f-30d9-3aa7-befd-45fc9698a150 | -21.57365 | -47.92491 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 650602ec-68c8-37b7-91b1-b7a7ce2e4f45 | -21.57326 | -47.89776 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 16.7 |
-| c260a6d0-bb5d-3c46-8c34-5de08f08bc23 | -21.57059 | -47.93735 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 51b665cd-697e-392d-a5e7-f64ac6446613 | -21.57039 | -47.92179 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 3b583cdc-612d-30ef-8c7a-66c4f562e0aa | -21.57023 | -47.91008 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| f4b0aaec-0dbc-3ee3-af1c-d12f8caecefb | -21.57018 | -47.89469 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| fe4b53e0-30f9-3176-b84c-79b7f5f5bbd7 | -21.5688 | -47.92811 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 16b93303-d79f-3782-83b5-f0439c34a3e3 | -21.56867 | -47.91644 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| fb32114f-0c97-3298-84a8-df3ad9a0c013 | -21.56864 | -47.90075 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| c6bc95b6-c874-3281-98e2-2c823d691efc | -21.5671 | -47.90684 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 476a121d-913a-3789-85ad-91cb47ae6f26 | -21.56708 | -47.92291 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 5132b930-e7f9-38d6-8b03-8451cffcd7a8 | -21.56679 | -47.89539 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| f4176779-d84a-3314-81b3-34711f54043b | -21.56554 | -47.92915 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| d4dbbd56-adb9-3ccc-9605-0f94229b2116 | -21.56551 | -47.91314 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 36e4bc22-066f-357c-baee-c9a41fa6d9c5 | -21.56331 | -47.8809 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.1 |
-| de9e3b96-0a02-3b0c-967a-992fd6cee2af | -21.56226 | -47.926 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 0659a6a3-8b8d-3f02-8468-e87f16eb8963 | -21.56216 | -47.91418 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 05fc9da5-be92-3962-a5b7-59830b7d2ff1 | -21.56074 | -47.93202 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 62260061-bb6c-3f74-b3be-315d94ff14ea | -21.56034 | -47.89293 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 5a86af82-dc04-368d-bb28-d00f875931df | -21.55884 | -47.89902 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| df62a1c5-81c1-33eb-aafa-38e1c9c1f62a | -21.55754 | -47.93296 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 2de9ffdf-36df-30c6-83cc-77cbf8ba8a13 | -21.55564 | -47.91198 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 4f797599-3fdb-36ae-8523-9d0528154242 | -21.55397 | -47.91879 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| d881f803-ba57-34ba-807c-595c1f8cf14e | -21.5488 | -47.88257 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 9d3bd0a3-f445-303d-8b5f-99ceae563c50 | -21.54725 | -47.88882 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| a8bd15e2-ffa1-3d83-a790-08c2f0dcf0c5 | -21.54566 | -47.89525 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| e211df88-35ca-30b5-a5b0-3931859ea885 | -21.59213 | -47.84955 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.0 |
-| cddbe28d-9cdb-3bec-9cca-b0b5780d3bb9 | -21.59198 | -47.82153 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 289.6 |
-| d84ffd63-8b00-34e8-91f7-e529108a6776 | -21.59178 | -47.92108 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| a4d20cd9-af24-33a5-8d64-28b53d91cc3a | -21.59148 | -47.90974 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 7071666c-fc65-3b40-84ac-0e6da833c72a | -21.59148 | -47.89416 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| d4b37e3f-239d-3ad6-8fa9-baf4a567b985 | -21.59132 | -47.79562 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| c95f6201-a2d9-3557-9064-08e2120838a2 | -21.59118 | -47.86734 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 66de0dff-90ed-397e-809f-a4aa329b2dc9 | -22.3575 | -49.33741 | 2024-10-01 03:28:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 45.2 |
-| 632f968a-d110-3344-9cf9-37bc9d2963e1 | -21.59104 | -47.88274 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 64e68a33-5986-31ff-9ca3-bdc99f8754da | -21.59092 | -47.84039 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 38.5 |
-| 6ce7387e-5c61-3706-9aac-9cdc9c3cfe98 | -21.59059 | -47.85582 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.0 |
-| fe75340d-8f66-3382-b03f-7c4f18e80634 | -21.59039 | -47.82798 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 289.6 |
-| 62b7c589-af98-3be2-90fc-f4c8f37f6cdb | -21.59019 | -47.92737 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 7e3826da-1417-3a25-91d3-d8680654a5d7 | -21.58994 | -47.80124 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| 5150cd90-fe47-3cb0-8d2f-332857152339 | -21.58993 | -47.91604 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| d0fb155a-eb99-3230-8430-925fe6fd279d | -21.5899 | -47.90043 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 674ecd54-9250-3c3b-b48c-89390ed1ccce | -21.5896 | -47.87359 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| fccc37bc-e6fb-3bde-82d2-6cd9f8dc8d4d | -21.5895 | -47.88902 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| 65d78526-0cb9-3bc3-87e4-411f7fb69849 | -21.37592 | -48.48774 | 2024-10-01 03:28:00 | NOAA-21 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| d610c1af-5131-3795-b4dc-efac3644ae0c | -21.58943 | -47.81843 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 366.6 |
-| c0c8ff41-96a9-3bc2-9b11-26bc6057b5a4 | -21.58933 | -47.84671 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 27.5 |
-| a554eb03-3749-33db-bbb3-77918aa12a8f | -21.58905 | -47.86213 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| c75f8b0d-151d-3218-90dc-d577b5ba1f00 | -21.58876 | -47.83464 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 31.2 |
-| 48d02eda-57d7-332a-af38-80896c8ebe74 | -21.58861 | -47.93367 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| d6c51a19-39d0-350e-ad1f-a54006d5dd4b | -21.58857 | -47.80683 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 182.8 |
-| 510dbb34-90ec-33b7-8297-d70cacc7f70b | -21.58839 | -47.92236 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| fcae14ca-3fb3-368a-a1f2-6d19883ba7b7 | -21.58833 | -47.90668 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 2ab83662-a4bc-3b78-9050-560be29ae850 | -21.58804 | -47.87981 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| 45b1fe04-b091-3b90-af01-5987f799c624 | -21.58796 | -47.89531 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| dd7d9cd0-20a2-389d-aa6c-6058dc44b589 | -21.58781 | -47.82483 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 366.6 |
-| 7b94819c-202f-375e-a836-7281b1a63530 | -21.58775 | -47.85299 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 27.5 |
-| 88ccc28c-38e9-3711-8c53-b11981ec3485 | -21.58751 | -47.8684 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| b380f5d6-de44-3176-b911-790a1bd39927 | -21.58714 | -47.84124 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 31.2 |
-| 40cf410e-7718-3dff-9864-5bc8c516aae1 | -21.58713 | -47.81266 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 182.8 |
-| 25fac094-6198-3e0f-a43a-83571f827bae | -21.58685 | -47.92867 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 720c51cd-ac43-3e8c-96cb-3e017f0e7a46 | -21.58676 | -47.91295 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 0fded9b0-ce68-3370-b622-64eabc6a6ef8 | -21.58646 | -47.88605 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 4e4e6010-ee5b-34f1-9786-6adb8a60d316 | -21.58642 | -47.90159 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 79b5f6f7-8396-3076-91d2-ea8830b675db | -21.58616 | -47.85926 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.1 |
-| a828202a-d4ff-362e-84dc-231a2c3bb0a2 | -21.58615 | -47.83143 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 38.5 |
-| 3be26ae5-3a34-3f9f-96a7-c99521e71816 | -21.58598 | -47.87465 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.5 |
-| 3fd6a243-3405-3cca-bf1e-f9c0ee39c291 | -21.58559 | -47.84756 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.0 |
-| 82ecd547-c357-33ae-bf60-f5acf5796fac | -21.58557 | -47.81904 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 82.5 |
-| 0202843c-5019-3f5a-9d70-064e615197a4 | -21.5853 | -47.93496 | 2024-10-01 03:28:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| a284e496-9c0d-3f95-8d28-9cd11f29d437 | -21.58517 | -47.91926 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| def3fe1e-e07b-3bbb-9161-b4e77019cfd7 | -21.58489 | -47.89231 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 5c916bd4-fa69-3bc0-bd46-f0430c9a9fd2 | -21.37767 | -48.48083 | 2024-10-01 03:28:00 | NOAA-21 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| c005f6c4-76ed-3e99-8687-2887bf4c1677 | -21.58488 | -47.90786 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 1c1d635f-783a-37c9-a3fc-2852c6226493 | -22.35935 | -49.33032 | 2024-10-01 03:28:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 45.2 |
-| 780aa6b0-1344-38e3-9b41-40de4d7cf062 | -21.58479 | -47.79366 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| b6e6716c-ee3f-3e46-a312-2756b1cbc775 | -21.58459 | -47.86553 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.1 |
-| 08b18b3a-96de-38a8-affa-9ec8d814057b | -21.58445 | -47.8809 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.5 |
-| 6dd5eaa3-e66e-3d64-a753-f316af78771f | -22.35939 | -49.31539 | 2024-10-01 03:28:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
-| 016e2a21-545a-3086-8ce9-94d647ff3e7b | -21.58442 | -47.83826 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 38.5 |
-| 55577de2-f42e-3d7c-b9ca-e71bb38b9b0f | -21.58403 | -47.85389 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.0 |
-| 06850c36-3351-3f1f-8c52-97fec4181e16 | -22.36054 | -49.35462 | 2024-10-01 03:28:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.3 |
-| 3a267d19-db56-3bfc-8305-21ca0a1cb785 | -21.58397 | -47.82552 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 82.5 |
-| 30f0dcca-c460-3cdb-b0d7-a31bc803ed95 | -22.36121 | -49.32318 | 2024-10-01 03:28:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.6 |
-| a1c008cd-3659-339a-968c-ff775efee325 | -21.58358 | -47.92555 | 2024-10-01 03:28:00 | NOAA-21 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 54c123ef-27da-3a39-a6ab-041ff8d1df66 | -21.58334 | -47.91417 | 2024-10-01 03:28:00 | NOAA-21 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| ed934026-f304-3446-ad61-48bd075bf3c0 | -12.9358 | -62.6818 | 2024-10-02 01:46:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 103.2 |
+| 692724e2-c660-3cb0-980e-9f5521c604d7 | -12.9546 | -62.6999 | 2024-10-02 01:46:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 222.2 |
+| 63a1b08a-de51-3448-b52b-5361c81f172b | -12.9548 | -62.6806 | 2024-10-02 01:46:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 191.9 |
+| 6d754c93-b422-39ff-82e1-247c849276f2 | -12.9736 | -62.6987 | 2024-10-02 01:46:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 56.8 |
+| 4499406c-3fd1-335e-b599-200e16bab16b | -12.9738 | -62.6795 | 2024-10-02 01:46:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 63.0 |
+| b33b1ef5-fdc5-3005-8e43-48d556fb1cdf | -13.2116 | -51.2073 | 2024-10-02 01:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 58.0 |
+| 147f2013-e29d-3f2d-a818-de3d621af4de | -13.5965 | -51.1367 | 2024-10-02 01:46:23 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| 629f0995-241d-38f5-9b86-7d9d1ea023b7 | -14.5699 | -44.8351 | 2024-10-02 01:46:27 | GOES-16 | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 54.2 |
+| f1b349d8-7342-333e-af9e-2e648d931681 | -16.6127 | -57.217 | 2024-10-02 01:46:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 247.7 |
+| 2abe826e-0a81-3f32-ade2-67194799a351 | -16.612 | -57.2579 | 2024-10-02 01:46:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 35.3 |
+| 6c6f99d6-48aa-32e1-8e29-1925ad00217e | -16.6124 | -57.2375 | 2024-10-02 01:46:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 160.9 |
+| 02ceea23-2fc8-3d5b-87eb-e1cbaf022493 | -16.7647 | -57.4856 | 2024-10-02 01:46:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 50.4 |
+| 989cf45d-729e-38a4-8372-3672f9c5d0ed | -16.7663 | -57.3833 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 35.0 |
+| 939c88da-646a-3c6a-885d-dddc45490f63 | -16.7862 | -57.3606 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 34.2 |
+| c2567210-5261-3e91-886a-edbcefa401c9 | -16.8096 | -55.9177 | 2024-10-02 01:46:40 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 68.8 |
+| ac7d2d28-80a9-3661-8759-85c98f22f753 | -16.6319 | -57.2352 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 59.5 |
+| 465af754-fdbd-360e-8635-0285b787a091 | -16.6322 | -57.2147 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 93.2 |
+| c0c15128-5c60-32f9-b255-b4f7c2c41b5b | -16.6518 | -57.2125 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 39.9 |
+| e75da276-9740-3111-be72-53cd9354564c | -16.6717 | -57.1897 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 50.0 |
+| 2ffd8b81-f4b2-312b-8030-5655f10a89de | -16.6884 | -57.3718 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 73.6 |
+| 26894614-c354-37bd-a9ad-2ccb0180c661 | -16.6887 | -57.3513 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 93.0 |
+| c786ce38-afab-37b7-a79c-99a2164b655d | -16.689 | -57.3309 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 42.0 |
+| c65ebe12-02e4-3ac1-96d8-d6a5eadd65c5 | -16.6912 | -57.1875 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 100.4 |
+| 851ed8ec-a27d-314c-ac10-c7a1f4ca41a2 | -16.6916 | -57.167 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 44.6 |
+| 83123dfe-b56a-3849-9672-cfd5823ef0f4 | -16.7079 | -57.3696 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 35.3 |
+| 9800b97b-192a-3452-ae68-ca4f2dbdbd14 | -16.7082 | -57.3491 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 48.5 |
+| 14cfb79f-acdb-344a-9d3c-be00c23e7e0b | -16.7108 | -57.1852 | 2024-10-02 01:46:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 39.9 |
+| cce48bf3-027b-3f7b-8208-aba3ced9f683 | -16.7265 | -57.4287 | 2024-10-02 01:46:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 90.1 |
+| c9442534-c0fd-3cdb-afdd-1f8c028344dd | -16.7452 | -57.4878 | 2024-10-02 01:46:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 59.5 |
+| 4177cfff-da91-3ca4-bc62-28e750735267 | -16.7461 | -57.4265 | 2024-10-02 01:46:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 52.7 |
+| 3538b2af-1113-33d5-8a87-dc1e56c9431e | -16.8292 | -55.9152 | 2024-10-02 01:46:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 114.8 |
+| 1484dae8-7ea5-3bad-8e9c-e8e154aefff9 | -16.8295 | -55.8945 | 2024-10-02 01:46:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 143.0 |
+| 87a576f7-48b8-3c15-903f-b77a0f5f5f85 | -16.8299 | -55.8737 | 2024-10-02 01:46:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 74.2 |
+| e360a103-a856-3920-8cb4-923ab8c8c9e6 | -16.8234 | -57.4789 | 2024-10-02 01:46:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 41.6 |
+| ee3d1a9f-39c7-3e05-b0ba-4a064cbaa4e8 | -16.8488 | -55.9128 | 2024-10-02 01:46:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 70.8 |
+| c9ea48b0-fd9e-3b0b-a3c6-9a35038b15b3 | -16.8491 | -55.892 | 2024-10-02 01:46:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 100.4 |
+| 832b1cf9-d90a-3ab3-b7b3-3a7dfdba7b36 | -16.8695 | -55.848 | 2024-10-02 01:46:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 85.6 |
+| e3cfbf52-958e-31e7-860b-6241c4d4b3bf | -17.0705 | -56.7114 | 2024-10-02 01:46:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 67.6 |
+| 04a55d64-e85d-38b1-9b02-9ad736b3e1ea | -17.0892 | -56.7709 | 2024-10-02 01:46:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.6 |
+| 8a9f63b6-0ea7-32e5-8a1a-0ee3aef788e4 | -17.0895 | -56.7503 | 2024-10-02 01:46:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.2 |
+| ff1bfe61-dfdd-327d-b36f-a431ba2595fc | -17.1091 | -56.7479 | 2024-10-02 01:46:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.1 |
+| 823156d6-c7ed-3a01-a9cc-dd381603cbfd | -17.1581 | -56.1637 | 2024-10-02 01:46:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 84.1 |
+| ac1a2fee-700a-307a-8d6c-eb379fb9c46e | -19.2317 | -46.8687 | 2024-10-02 01:46:52 | GOES-16 | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 6b8bfa93-315d-3871-9bbc-8b268b706c0f | -19.2323 | -46.8452 | 2024-10-02 01:46:52 | GOES-16 | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| 9c5d19ed-ac85-393a-8e3a-be746b442eab | -20.0424 | -55.9738 | 2024-10-02 01:46:58 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 83.1 |
+| a8fc81d3-0d8d-371b-b4c1-b3e2084847bd | -21.3456 | -55.6841 | 2024-10-02 01:47:04 | GOES-16 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| 692f9a06-fee7-3152-b21f-fd9e7c7e35c6 | -21.3661 | -55.6807 | 2024-10-02 01:47:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 93.9 |
+| 00b940e6-24b4-324c-84d3-f6ea6436d6f3 | -22.3713 | -49.3011 | 2024-10-02 01:47:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 181.8 |
+| 6cc41ca8-442c-39a4-978b-b759ea79eb15 | -22.372 | -49.2777 | 2024-10-02 01:47:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 250.5 |
+| c2a49d75-5869-382c-b676-3b9c47e1a8b7 | -22.3922 | -49.2961 | 2024-10-02 01:47:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 124.8 |
+| 60e29cfe-2ba8-3912-827e-4632e687c96e | -22.3929 | -49.2727 | 2024-10-02 01:47:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 157.7 |
+| fffdb3ef-948b-3f3e-8cd4-bd41e23656f3 | -22.9006 | -45.1029 | 2024-10-02 01:47:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 85.2 |
+| cb7aa6eb-75c5-3f44-a7c1-61f3b93b010d | -22.9014 | -45.0779 | 2024-10-02 01:47:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 94.9 |
+| d2facff3-4497-3e14-ac35-fcba0e217cea | -22.9277 | -43.7243 | 2024-10-02 01:47:11 | GOES-16 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 70.8 |
+| efacdcd4-da74-3de8-9aa5-640c4cde239e | -2.9013 | -50.7351 | 2024-10-02 01:55:22 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 52.4 |
+| 798a1a57-1fb3-313a-8354-8a29b5be4530 | -3.2136 | -46.7843 | 2024-10-02 01:55:24 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 63.3 |
+| f2c94089-761d-367b-bfd2-8c20f7ab3357 | -5.9788 | -45.3621 | 2024-10-02 01:55:40 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 33.7 |
+| a6513e3a-4688-39f7-ad4c-c4d21a38e8d2 | -7.1796 | -46.9444 | 2024-10-02 01:55:46 | GOES-16 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 70.8 |
+| be3d4dd5-51e9-3e90-9d67-80176f198869 | -8.4643 | -62.7124 | 2024-10-02 01:55:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 54.0 |
+| 50b6256e-6722-3f73-ae79-ed41f65656c2 | -9.9367 | -64.9179 | 2024-10-02 01:56:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 114.0 |
+| 59de737a-6b2a-3307-a738-ce06be40253b | -9.9368 | -64.8991 | 2024-10-02 01:56:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 98.1 |
+| f00800c2-7c02-33e0-a571-b53f862458bc | -9.9553 | -64.9172 | 2024-10-02 01:56:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 130.6 |
+| fdd21c00-3f0f-39c4-b9cc-9e05cdbd1ba1 | -9.9554 | -64.8984 | 2024-10-02 01:56:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 123.2 |
+| b7307e19-5bf3-358d-87a8-925f9ed98c52 | -11.6554 | -65.018 | 2024-10-02 01:56:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 63.7 |
+| 24788465-12fd-39fa-9523-8868997eb223 | -11.6555 | -64.9991 | 2024-10-02 01:56:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| 4e0850ca-eba8-375a-bf5a-580e1d3bfad7 | -11.6742 | -65.0172 | 2024-10-02 01:56:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| c6f48705-bae9-3d51-8e9f-5c1a24bb4708 | -11.6743 | -64.9983 | 2024-10-02 01:56:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| f288697e-4403-36d6-a9fe-9ee322af322a | -12.4433 | -43.7242 | 2024-10-02 01:56:15 | GOES-16 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 79.3 |
+| db7fb8a1-170a-3491-8d41-e430fed841c2 | -12.2946 | -47.6446 | 2024-10-02 01:56:15 | GOES-16 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 92.2 |
+| fd01467b-2959-302f-835a-9f6b3fd64212 | -12.6484 | -63.1214 | 2024-10-02 01:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 110.5 |
+| de71d7c0-3b73-3396-bd85-3b6c915533c6 | -12.6486 | -63.1022 | 2024-10-02 01:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 57.9 |
+| 05129783-33b5-32b2-bad1-60be28659284 | -12.7054 | -63.0798 | 2024-10-02 01:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 64.8 |
+| 69d718a4-7380-347c-822d-6c36b46fbaaf | -12.8593 | -62.7826 | 2024-10-02 01:56:19 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 54.6 |
+| 0cd23ced-c904-3906-ba46-e54e3306c4f9 | -12.9357 | -62.701 | 2024-10-02 01:56:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 87.0 |
+| 2a05da25-fa9d-3b45-9373-8646b42bd21b | -12.9546 | -62.6999 | 2024-10-02 01:56:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 120.1 |
+| 35b8cb05-de0b-351f-8d03-b0045867ef4d | -12.9548 | -62.6806 | 2024-10-02 01:56:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 110.3 |
+| a644efdb-61dc-3a00-9a85-cb7fad0a1e7a | -12.9736 | -62.6987 | 2024-10-02 01:56:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| e102b725-3910-34af-a50c-5568a99d189d | -12.9738 | -62.6795 | 2024-10-02 01:56:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| 27051589-39fe-3902-9b9d-5ace9c82fa54 | -13.2173 | -48.624 | 2024-10-02 01:56:20 | GOES-16 | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| 39ad63c3-d328-3f49-bf75-3847a363f0c0 | -12.9358 | -62.6818 | 2024-10-02 01:56:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 55.9 |
+| 6fb10ab5-de2d-3442-ad65-4b11c496e4f7 | -13.5965 | -51.1367 | 2024-10-02 01:56:23 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 3cf0e9ac-b7cb-3425-a683-674321c2ace1 | -15.1197 | -55.8307 | 2024-10-02 01:56:31 | GOES-16 | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| 3247463a-b400-3b56-9741-dcc8cb121632 | -15.139 | -55.8285 | 2024-10-02 01:56:31 | GOES-16 | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 90.9 |
+| 1bdfaa9f-278e-3037-88e9-f56573d41948 | -16.4533 | -57.4392 | 2024-10-02 01:56:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 28.4 |
+| 280c9e87-edf2-318d-997e-5e82a374400d | -16.4536 | -57.4188 | 2024-10-02 01:56:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 24.3 |
+| 92b36a5b-4f92-3c98-8b7b-f192a388b10d | -16.6124 | -57.2375 | 2024-10-02 01:56:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 60.6 |
+| f5485cca-a7ce-3534-b39e-1165704f946e | -16.7461 | -57.4265 | 2024-10-02 01:56:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 47.5 |
+| 23b5b0fb-d727-3305-a69f-83d34b8e4fca | -16.6717 | -57.1897 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 29.5 |
+| 6639cade-4b36-31c8-9aa9-496f738b6dbe | -16.6868 | -57.4741 | 2024-10-02 01:56:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 39.7 |
+| 164abea3-ad36-3cdd-adc8-482a4cff3019 | -16.6884 | -57.3718 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 74.6 |
+| ca7745bd-0734-3a2a-9f98-806457fecdad | -16.6887 | -57.3513 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.7 |
+| d795db29-cec4-395a-a19b-d1508ff45ba8 | -16.689 | -57.3309 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 39.4 |
+| 1d4491ca-e4b0-3654-a45e-c37470f86214 | -16.6909 | -57.208 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 51.1 |
+| af875f7c-2136-3a7d-baaf-28a442527c55 | -16.6912 | -57.1875 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 174.6 |
+| 8edec2b5-284c-35aa-a80f-0eff3dad3471 | -16.6916 | -57.167 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 60.7 |
+| 7aec3bc5-105f-3c1f-ac20-2d125f8e4dc7 | -16.7079 | -57.3696 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 30.6 |
+| 3166d715-5c27-31f9-b501-2fe11d9efb11 | -16.7082 | -57.3491 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.1 |
+| b657ba21-052d-3b6b-9588-01a08aeca89e | -16.7108 | -57.1852 | 2024-10-02 01:56:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 57.5 |
+| 59df2f91-5a28-3511-9506-b5c9af913552 | -16.7265 | -57.4287 | 2024-10-02 01:56:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 77.0 |
+| 75c37e14-b854-3506-b0f5-f71deb5238ec | -16.7269 | -57.4083 | 2024-10-02 01:56:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 39.5 |
 
 
 [Clique aqui para ver as próximas entradas](README41.md)

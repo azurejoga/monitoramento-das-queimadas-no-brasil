@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| be4991f1-c372-3eb5-8bfc-9cc988e327cc | -13.02129 | -51.23398 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 48336a32-1b26-3ac5-883c-6e0d7981fb5c | -13.02098 | -51.22209 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| ee075efa-cb50-3a6b-b210-dcc3b4c8cb25 | -13.0206 | -51.30243 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 31.6 |
-| 1073c9ac-879a-3bfa-8422-a15c25913ca8 | -13.02024 | -51.25923 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 15a70ebe-570b-30c8-8e4b-6f81f13ec633 | -13.02002 | -51.23989 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 05f1b0cc-489d-391c-a19c-9c7ccbdd6e5e | -13.01975 | -51.22802 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| da49f9f8-fc1d-3261-a6e1-54e426a88bb3 | -13.01932 | -51.30842 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| 8ee8a48e-d6fe-302f-a869-3262ef99e3fc | -13.019 | -51.26519 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 28cfc182-792d-313b-ae66-37399a94137a | -13.01852 | -51.23395 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 921368e0-b26e-35ea-846a-de5754071dc4 | -13.01804 | -51.31441 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| 9817d9f7-a797-39c5-96ed-e8d2cb04d545 | -13.01777 | -51.27114 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 51995884-91dc-3f62-a01a-22f82683c771 | -13.01749 | -51.25174 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 030a895d-aa60-3218-ba6e-b871de309beb | -13.0173 | -51.23987 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 4aed7efc-40ee-382e-a71e-619d9dfec399 | -13.01719 | -51.22066 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 52.3 |
-| bb202a99-d9d7-3e7f-b41a-1f4b9e2aebe6 | -13.017 | -51.3086 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 28.7 |
-| fe8d67c6-fb4e-314c-b3d4-315ef70b84af | -13.01677 | -51.3204 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 23.2 |
-| cccac0b0-b335-3c49-b16e-8e2580fd4654 | -13.01622 | -51.25769 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| bb7a0f16-5e27-3e74-8da3-1dfd23d78b90 | -13.01607 | -51.2458 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| cfe978dc-ff74-3c3f-91e9-c578b0d0f75e | -13.01593 | -51.22657 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 52.3 |
-| b99f2302-a821-378f-904a-7997e90405ec | -13.01575 | -51.31461 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| 84a2fef3-2186-3ac4-87ae-5dc4fa2455d4 | -13.01548 | -51.3264 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 23.2 |
-| 2ba19509-a151-3acd-ad18-0df89f6d1448 | -13.01494 | -51.26365 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| 5c5bb685-7bf4-33a9-86bd-53c923ab1d48 | -13.01484 | -51.25175 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 2d041d65-8467-3147-9593-5929d10f4e4b | -13.01466 | -51.23249 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 60.8 |
-| e6a36915-f931-3bc6-8760-79b2a0e251e6 | -13.01451 | -51.32061 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| ebd985cc-38f0-3783-907a-d3c77ac6e11d | -13.01435 | -51.22057 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| 94763b54-a701-3062-8413-a4393b43943a | -13.0142 | -51.33242 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| a9bca32d-ddb5-3157-a09b-0d11582f113e | -13.01367 | -51.26961 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 4e6ecaa1-378e-3c7f-9325-41d65420faf9 | -13.0136 | -51.25771 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 226a7c8c-a80d-3eb5-b20d-908e4f0ffc19 | -13.01339 | -51.2384 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 60.8 |
-| 51ad61ce-7206-3a63-86f7-1adf7a086a5e | -13.01327 | -51.32664 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| cd254113-af95-3868-bc5a-d93be6e8ec2e | -13.01312 | -51.2265 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| c61462c9-f6f6-31ed-bd99-0cf412ad3914 | -13.01266 | -51.30692 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| def1aec5-5ab3-3998-9b77-8fd6110d9556 | -13.0124 | -51.27555 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 2ca8c58d-4df0-3c94-859c-8021e81176f7 | -13.01237 | -51.26366 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| cf40dfa0-59fa-3d30-826b-52eb33cc3832 | -13.01213 | -51.24431 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| 75a66ec0-5ad3-31d4-837e-563dfcdee7fe | -13.01202 | -51.33266 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| e8f20add-592c-3969-a5c2-000158d2244b | -13.01189 | -51.23244 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| cedf9726-452a-3f79-b10d-b26ab053ba5b | -13.01164 | -51.34444 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| a202e795-d0a1-33a2-9868-7cbdf98c5919 | -13.01138 | -51.31291 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 225fb990-cf1a-3c7d-b00b-cc9931fe5802 | -13.01113 | -51.26963 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| 55fc5ff9-0a67-3b16-9b53-a1b0a542d3fd | -13.01086 | -51.25025 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| 08f98653-ee21-31de-a200-6379a7fb848f | -13.01066 | -51.23837 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 20910a54-fec0-343c-99b6-b72e1ea2ef13 | -13.0101 | -51.3189 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| f66e285b-e44d-30ff-aebb-fd5bb37cdf07 | -13.00989 | -51.2756 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 752a2cd7-0b3e-3d7d-b290-515731a2769a | -13.00958 | -51.2562 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| 096c2b8b-8977-3a49-9e8b-ee4a88f440cf | -13.00953 | -51.34472 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| a91fe354-b1d1-3fc8-8e01-71cf07f3ae5e | -13.00944 | -51.24428 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 4be4d33a-e6a5-3545-807e-2f018c4c65f9 | -13.0093 | -51.22507 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 52.3 |
-| 28543789-546f-3c76-976a-814051554bf5 | -13.0091 | -51.31308 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| f2a36a68-4a47-36cc-ad3f-020ef6879dec | -13.00882 | -51.3249 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| 6a12006e-1e3b-3a67-8084-ae6015e38e8e | -13.00831 | -51.26215 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| 624475e4-386f-3fc3-bb90-738cfe0eb6ca | -13.0082 | -51.25023 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 78e00947-d330-37f4-b624-c58737c7c986 | -13.00803 | -51.231 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 60.8 |
-| 596d6428-f021-3631-839e-37e89c8eafe1 | -13.00785 | -51.3191 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| 33cc239d-87a9-3e5d-9f9e-5181fa572acc | -13.00703 | -51.26811 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 1b041cd8-ecd3-3145-92aa-37ce8c232d69 | -13.00696 | -51.25619 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 38ca7ccd-7a1c-38d2-99e1-8da7749d85c9 | -13.00676 | -51.23692 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 60.8 |
-| a93aaaaf-747d-350c-9601-2330722f3615 | -13.00661 | -51.3251 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 6f7295ab-af7f-3427-aac6-1ba4044db2e3 | -13.00651 | -51.22496 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| eb46e59f-c5d3-32ee-9f0e-36f25ae4248f | -13.00575 | -51.27407 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 24e536ed-25a1-35f0-bc85-f70a50a9ea41 | -13.00573 | -51.26214 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| c81ae684-abfc-3fba-85ab-5c01e4df909a | -13.0055 | -51.24281 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| ff016626-fda4-3ecc-a48a-f13492a049cc | -13.00527 | -51.23092 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 24f9f723-4498-391d-b2e5-38bea50b37c1 | -13.00449 | -51.2681 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| 9c445afa-a075-349b-b641-76abdaedb744 | -13.00447 | -51.28004 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 6e79b9db-af7b-322b-9ba1-d5894daad67e | -13.00422 | -51.24876 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| f0cf757b-e03e-3d56-90ed-3e8f42688737 | -13.00404 | -51.23685 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 5d379b6b-74d7-37dc-b31d-9ca139ab8e27 | -13.00368 | -51.34896 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 136facbb-6da8-3475-8f71-60a2a363d41b | -13.00344 | -51.3174 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| ac639943-9b2b-3a99-85a6-364e3f2543a9 | -13.00325 | -51.27407 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 56aed393-0ee6-3861-8497-57a8dde38630 | -13.00294 | -51.25472 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| a1d95529-f1ce-3781-afa7-f0d5adb14e8c | -13.00281 | -51.24276 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 2ede57bb-a5ae-3e85-bf0c-f5a391fbb2f0 | -13.00244 | -51.31155 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| da166e67-8d04-3105-a5ab-0d977fedef26 | -13.00216 | -51.3234 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| 23637dec-467f-31ac-bbc8-5692acf66752 | -13.00201 | -51.28006 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 2f9760ab-a694-3552-9d90-80a2274f229e | -13.00167 | -51.26065 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| 67cad75b-d6b8-35fe-b735-29917ec61d95 | -13.00161 | -51.34923 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 90f14301-2b09-39a1-97c1-0c0f46ba20b6 | -13.00157 | -51.24871 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| d47bcfbe-bada-3bb7-96bc-ecfd9e61e99c | -13.00141 | -51.22948 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| bf75a499-0f0c-3460-8c0a-da8163f5d8b8 | -13.00119 | -51.31757 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| 18448c8d-46c0-37ab-a40f-0fdc2b58164c | -13.00039 | -51.26661 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 4807e8b3-3f0e-3a5c-a342-0ac312db1a58 | -13.00033 | -51.25468 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 8bc6c96f-b0f5-3e46-a221-4e5ce752131a | -13.00013 | -51.23541 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 036aab58-79d3-3cc9-984e-8207d3ab6b7c | -12.99994 | -51.32359 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.3 |
-| 31177d7d-d777-384c-8f48-eace318dd867 | -12.99911 | -51.27257 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 77b65775-e93d-350a-b0d0-53d5f6b35633 | -12.99909 | -51.26064 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 3a3051ee-140c-356c-a96a-e123bbdb8e84 | -12.99886 | -51.24133 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| 85a25187-d1e7-3fc8-a817-de5c9e88b3d6 | -12.9987 | -51.32959 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.3 |
-| 7c5eedda-268f-3b4e-ab4c-bfbe07fed63b | -12.99865 | -51.22938 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 18f68576-e33b-3f78-bbd8-93536512640e | -12.99785 | -51.26658 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 2cfef3f9-2e7c-3f62-afd9-153fd1017f70 | -12.99782 | -51.27853 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 8baed567-ba9f-3f02-816d-9a1ab220bb30 | -12.99758 | -51.24728 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| da43a26f-94f5-3f58-84ff-5842ebeae28d | -12.99741 | -51.2353 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 8c6909b6-597a-3f1c-a31c-88d3f1c55f39 | -12.99678 | -51.3159 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 22.4 |
-| a3dcdfe9-3d43-385c-b55b-d12bec63552b | -12.99661 | -51.27256 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| f48a0cd5-4ecf-3d75-9c4a-2157329abb19 | -12.99655 | -51.28448 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 01f42db1-7f48-3d17-ad86-bb47c7535b4d | -12.9963 | -51.25322 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 093aa2b3-4363-3db8-a5de-a8314393dc1a | -12.99617 | -51.24125 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 1f3fa180-47b3-3a12-91ab-6ab9233b45af | -12.99605 | -51.22208 | 2024-10-01 03:49:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| 05a53e2e-90b3-3430-b396-b6b013edfe00 | -16.8491 | -55.892 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 81.6 |
+| fc2aacdb-bb43-30ae-8241-b960c8f4f4b3 | -16.8295 | -55.8945 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 117.2 |
+| 17a3d418-62a8-335d-81af-708180572ee1 | -16.8292 | -55.9152 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 115.9 |
+| b8e7d31e-9d88-3559-91c0-ce61c60177ed | -16.8891 | -55.8455 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 58.2 |
+| 30eb78b8-b56b-341d-8278-a27fcd251fd0 | -17.1581 | -56.1637 | 2024-10-02 03:26:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 81.2 |
+| 6581a614-ff65-33ff-981c-ed5f15a35e08 | -17.1577 | -56.1844 | 2024-10-02 03:26:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 73.2 |
+| 61cba880-59e2-38e2-bda7-9e0daf459b92 | -17.2364 | -56.1745 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.2 |
+| f5de588b-a648-3920-b66e-076ad9a11aaa | -17.2361 | -56.1952 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 91.1 |
+| e4c8583a-47a8-3bed-ae99-b1ac47d90225 | -17.2167 | -56.177 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 96.9 |
+| ce475e57-ffb7-389b-aec8-70d65085e41e | -17.2164 | -56.1977 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 102.9 |
+| 29cace27-56e8-3228-ba99-fa3b2f596cb6 | -17.1971 | -56.1795 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 116.6 |
+| f9a3b4b5-1053-39b3-bae2-feaf8108ac56 | -21.3661 | -55.6807 | 2024-10-02 03:27:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 112.2 |
+| e6fbbd1d-0633-33a3-8d50-ec1af59b0b1b | -21.3656 | -55.7022 | 2024-10-02 03:27:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 60.6 |
+| 0e75383e-2f2f-3c9b-a347-b231a6ad48db | -21.3456 | -55.6841 | 2024-10-02 03:27:04 | GOES-16 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 87.2 |
+| d2fa9b28-2e7d-31a1-9ec9-ae1ae11f6e60 | -22.3929 | -49.2727 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 145.0 |
+| 59038ddc-874b-3732-a0eb-b0388e496bea | -22.3922 | -49.2961 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 265.8 |
+| 25d9360e-fae0-3902-b073-35938592fcd6 | -22.3916 | -49.3194 | 2024-10-02 03:27:09 | GOES-16 | CABRÁLIA PAULISTA | SÃO PAULO | Brasil | 3508306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 86.8 |
+| a5c19f3b-fa81-3de4-8290-080f713b39a1 | -22.372 | -49.2777 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 214.8 |
+| e40330b3-766b-35e1-8c09-6038a616290e | -22.3713 | -49.3011 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 270.5 |
+| df33c7e4-471e-39a3-b491-78a2ef8f6ac0 | -22.3505 | -49.306 | 2024-10-02 03:27:09 | GOES-16 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 82.0 |
+| 370d0d7e-aecc-324b-a443-684460a53656 | -22.9014 | -45.0779 | 2024-10-02 03:27:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 88.4 |
+| bcf99ee1-4dd6-352a-b137-c404a5585333 | -22.9006 | -45.1029 | 2024-10-02 03:27:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 76.1 |
+| 88eb9718-f352-3123-be5d-a5bb5e21dcba | -6.87951 | -44.29382 | 2024-10-02 03:28:00 | NPP-375D | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| ff112429-973f-375f-98b8-33cff531e33b | -6.60062 | -44.18356 | 2024-10-02 03:28:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b053960b-1b4d-3bac-b871-44bba964787f | -6.59993 | -44.18365 | 2024-10-02 03:28:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 58b92418-4e6e-3ef3-9eac-057cad1e8f61 | -6.59419 | -44.18209 | 2024-10-02 03:28:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 4db7dc34-d3df-33bc-b0e1-5d6cf43141d4 | -6.40434 | -44.75361 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| ee16fd57-f57e-314a-be5b-36f9fab6be57 | -6.40116 | -44.74825 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 278aeea9-4414-3e76-9bdd-6d41093566d7 | -6.40004 | -44.75423 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 76b880fc-e2d1-3fef-888f-5c4a1c9b0e6b | -6.39867 | -44.74657 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| e331a3b4-9fc1-3449-af85-5616826e5e6f | -6.39761 | -44.75245 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| de09b83c-205a-3699-b086-0f5621fc79a0 | -5.98507 | -45.36852 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 14e41bed-87ab-3040-a998-0ed19af172f4 | -5.98 | -45.36845 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 4e8b7e12-7739-3f26-a6ef-6fc69fbcc77b | -5.97804 | -45.36737 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| ae8ba142-cf8b-3012-a9f2-cfb7c5393d27 | -5.97679 | -45.37405 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| e8669668-5aa3-34c9-b44b-0f7b47387fd7 | -5.97174 | -45.37412 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 19.3 |
+| 437939cc-39ac-3500-a87d-7f288afab13e | -5.96973 | -45.37312 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 3fa000e9-286e-3f71-b509-28c6be9a9c14 | -5.44666 | -45.18726 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| d54c2e13-7b7d-3085-a12b-b84e2f1176fa | -5.44549 | -45.17871 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 288194d3-db35-3904-920d-40c0f0bbe61d | -5.44418 | -45.1857 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| ce0d1b5b-a685-366b-aa4b-60c531b2dcd9 | -5.44084 | -45.17951 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 0ce77dbd-2bd8-311a-9052-f27aed9c202f | -5.43955 | -45.18665 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 0eb7f428-6b66-37bf-9e85-20f06bf7e12f | -3.58957 | -44.54563 | 2024-10-02 03:28:00 | NPP-375D | MIRANDA DO NORTE | MARANHÃO | Brasil | 2106755 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 52ce384a-49c7-362e-8e2e-dea8f85b2f61 | -8.6915 | -36.23928 | 2024-10-02 03:28:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 9434b39e-94c4-3dd6-bae2-45e88f1b646e | -8.68851 | -36.23414 | 2024-10-02 03:28:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| f74c1d6c-0ed8-3f3d-a797-267952c7c7a8 | -8.68775 | -36.23867 | 2024-10-02 03:28:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 498fe781-836d-355f-907e-b9873ecdab76 | -8.16685 | -35.40311 | 2024-10-02 03:28:00 | NPP-375D | POMBOS | PERNAMBUCO | Brasil | 2611309 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 8698229d-a3ed-3f6d-aa3e-bc48343a7d49 | -8.07502 | -34.97763 | 2024-10-02 03:28:00 | NPP-375D | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 48ad5890-9334-3006-a9b5-b9d7a4628ebf | -8.07149 | -34.97704 | 2024-10-02 03:28:00 | NPP-375D | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| c3fbd61e-3947-3587-8172-0574fc73adb6 | -7.49396 | -34.83694 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 1cce631d-156b-392a-bb41-b25858e9ac3a | -7.49331 | -34.84091 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 8a9fc23a-22b9-38e9-abbb-49700ee5d767 | -7.49042 | -34.83636 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 536632fd-417a-3096-9cd9-a7101d159838 | -7.48977 | -34.84034 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 6ea02bdc-f0c6-31d7-96ac-aac41385da8b | -7.47495 | -34.84204 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 26cd2695-341d-38ee-af1c-af1f2ed60321 | -7.45241 | -42.51155 | 2024-10-02 03:28:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 4d9a8c8a-f193-331a-be7c-99bf1327c4b1 | -7.45167 | -42.51571 | 2024-10-02 03:28:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 5c469eb4-ee9d-3de5-8802-a01618def000 | -7.29182 | -42.25353 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 62ca7b53-9a6c-39e7-a8c3-0fbfef5e9f85 | -7.2911 | -42.25743 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 4b3f5c99-2f2f-3fe0-981e-67c80de2a433 | -7.2899 | -42.25427 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| f2fe9681-693d-32ce-801e-f3b5aeb91feb | -7.2892 | -42.25822 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| cf354032-cb2b-3c01-9b17-e41e553e4b90 | -7.1846 | -38.92276 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| ac5655a8-8235-3e94-85b1-457892467286 | -7.1838 | -38.92744 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| cee4b7de-585d-30d5-a745-02ef44780132 | -7.18006 | -38.92194 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| 42094773-6b56-3d9e-adb6-90d2927d37ae | -7.17925 | -38.92664 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| 5d302f17-258b-3b09-9d3a-516f7cd3be79 | -7.15898 | -44.22298 | 2024-10-02 03:28:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2fb2acf7-b31e-3a68-838d-055a245b3172 | -7.1581 | -44.22766 | 2024-10-02 03:28:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| d91c9409-093d-3b55-bf65-f1fee083f8f3 | -7.07604 | -39.14864 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 7.8 |
+| cfc0cddd-74a2-3fdc-8b1f-3bf4f0390956 | -7.07521 | -39.15358 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 7.8 |
+| 315276f7-1030-3875-b7df-0b6172b1a5ab | -7.07418 | -39.15037 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 16.9 |
+| eaf767d4-01c0-3618-a735-3eab88996783 | -7.07139 | -39.14793 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| b487564c-b946-3b40-9b1d-3991ef5d71a5 | -6.95429 | -42.50403 | 2024-10-02 03:28:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| f404a5f3-68b9-351c-afdf-8c81ccccd633 | -6.95353 | -42.50824 | 2024-10-02 03:28:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 6e9a29b6-adcb-39a5-bb8d-e1f687f876f4 | -6.87708 | -44.08996 | 2024-10-02 03:28:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 1d9b57be-582d-3071-b1e3-9f36925e36d5 | -6.87612 | -44.09511 | 2024-10-02 03:28:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 31ec06a9-b647-3105-84bb-f98d74f7e2f0 | -6.63678 | -42.10575 | 2024-10-02 03:28:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 387bdbce-2cb7-3042-a69f-dc62e41105a6 | -6.49843 | -43.8291 | 2024-10-02 03:28:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| d00750e4-0fbf-393c-ac1a-e65bb7a0ae54 | -6.45913 | -35.11275 | 2024-10-02 03:28:00 | NPP-375D | CANGUARETAMA | RIO GRANDE DO NORTE | Brasil | 2402204 | 24 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 25b03512-8ec5-3dc9-a745-1167ba8a5c7c | -6.44461 | -43.97295 | 2024-10-02 03:28:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 68b1e0f0-540d-3805-930d-0ac182d82727 | -6.44364 | -43.97842 | 2024-10-02 03:28:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 8d9e2109-4ade-3f98-a9c2-fd9a85c2ec71 | -6.25153 | -41.85272 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| a2a9e4f7-b684-3c68-9914-78dec9c13e58 | -6.25086 | -41.85658 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| ad56a65c-e7b6-37fd-b69f-c04c56b6bb51 | -6.24521 | -41.85564 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| cfe7cb34-a183-3f84-a908-3c4ade03b2fc | -6.24025 | -41.85083 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| e93ac593-5e24-3a0b-adcf-bc3f9348ef73 | -6.23957 | -41.85474 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| a24b00a5-a7c6-355f-b074-851d7c655bd3 | -6.16237 | -42.90195 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 0103731e-79bc-3cc4-aa81-49252e9d5216 | -6.15705 | -42.89691 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| fc039330-804a-367f-a796-d21c92e0500c | -6.15624 | -42.90146 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 03ca82a6-6246-3201-8fc1-66261d8d1938 | -6.15533 | -42.90656 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 10.1 |
+| 402ef687-aba1-3e10-a42f-28d7eb1c48c2 | -6.1491 | -42.90664 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 8.0 |
+| db251614-6c0f-3584-8ef2-1f1a5b2aca8a | -6.137 | -37.22652 | 2024-10-02 03:28:00 | NPP-375D | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 4d83852f-c5c1-3eb6-a52f-8bf92ebc918d | -6.08915 | -37.63904 | 2024-10-02 03:28:00 | NPP-375D | PATU | RIO GRANDE DO NORTE | Brasil | 2409308 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 924c2a26-d0ff-3720-bd17-44d41d3f80f0 | -5.96033 | -43.42878 | 2024-10-02 03:28:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| dfffcac5-0e40-3868-91b7-8e6c48ecf699 | -5.95102 | -43.26645 | 2024-10-02 03:28:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 5b593bf8-c1c8-3314-96b2-0389e83bc949 | -5.94482 | -43.26542 | 2024-10-02 03:28:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 061bb199-9e83-329a-b265-d44b6f50c016 | -5.92235 | -41.97732 | 2024-10-02 03:28:00 | NPP-375D | SÃO FÉLIX DO PIAUÍ | PIAUÍ | Brasil | 2209609 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| fca48224-df91-3969-94aa-de1fdf7e5537 | -5.92143 | -41.97956 | 2024-10-02 03:28:00 | NPP-375D | SÃO FÉLIX DO PIAUÍ | PIAUÍ | Brasil | 2209609 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 7e81cbc8-6c7f-36b1-a12f-279a1b76743f | -5.91594 | -41.98021 | 2024-10-02 03:28:00 | NPP-375D | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| b2a38694-bd61-3415-90f5-5b5432d601c8 | -5.88237 | -43.71729 | 2024-10-02 03:28:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 6a4dfe91-1de3-3a05-abf2-0b73500cb940 | -5.8814 | -43.72264 | 2024-10-02 03:28:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 4f58d3af-ae1e-320c-828c-61752482ce8c | -5.7099 | -43.93664 | 2024-10-02 03:28:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
 
 
 [Clique aqui para ver as próximas entradas](README51.md)

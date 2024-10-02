@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4ef5e70a-ac77-31b4-8766-4a8dd74aa0c5 | -12.06589 | -44.9591 | 2024-10-01 03:49:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 64982d3d-cf2e-3647-9a66-4d30c87372ea | -11.26303 | -45.64901 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| adf21874-7553-3cf1-a602-4de8c59120d9 | -11.26202 | -45.65448 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b653460c-24d7-3d11-beac-be36ff43cbf2 | -11.26101 | -45.65999 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 16227125-63dc-34fb-96c0-7bdeb9c4a9aa | -11.25999 | -45.66556 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| a4387c9f-3378-33fe-be46-264fb62aeaaf | -11.25938 | -43.38176 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| eb897b9d-c15d-390d-9d31-d449c2e52fb9 | -11.25895 | -45.67122 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| dbd1e43b-e0a9-3786-8d7d-dd4dcb0db892 | -11.25871 | -43.38561 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| eb82a99f-4b29-3f7d-a059-ca9eb3c139f6 | -11.25715 | -45.65376 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9dcd2417-70f0-36e5-b022-486ce81ff4f4 | -11.25522 | -43.38099 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b58f4151-3e8b-3fdd-8e1a-f7d19c8c2e29 | -11.25455 | -43.38484 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7df2f10a-f176-3783-a03d-643961e80098 | -11.25387 | -43.3887 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 2c17fae3-2c19-3921-b9ab-f74c28fd5786 | -11.2532 | -43.39256 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| eb8ae773-5adc-389a-afa5-065ada14304f | -11.25106 | -43.38022 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 4e966277-3a50-326a-81fa-acd4926595bf | -11.25038 | -43.38408 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 36246177-a519-3b42-b4d8-aa7caaf287f5 | -11.24971 | -43.38793 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 9e6596ba-1cdb-30d0-8f5b-f821d3b67b05 | -11.24903 | -43.3918 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 311956f8-988d-3249-8069-35c282364f76 | -11.24554 | -43.38717 | 2024-10-01 03:49:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| f1d6d6fe-ca2d-30c1-b5d4-1a1c0b245f7c | -11.18955 | -45.73454 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 62ec1f40-f550-33f6-abb6-f944f9935f0d | -11.16221 | -45.74619 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 92299a7c-9840-3652-9a6f-f62f9563d5e9 | -11.14401 | -45.68055 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 302469c9-f1d5-3334-89c5-a51867b035d9 | -11.13915 | -45.67962 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 99f2d425-39d3-3c01-a369-0bda4fceb85a | -11.13815 | -45.68502 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 5b431370-7ba5-3e09-870d-86aa4aa6da5b | -11.12475 | -45.64884 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 6adf3745-d9ec-3ffc-b597-d9f9af734d37 | -11.12389 | -45.62646 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 88871aea-6479-33da-8fb8-017d9eb13f8a | -11.1229 | -45.63178 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| e1b8c37c-eea5-348b-82dc-6b4285daf6d0 | -11.12191 | -45.63712 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| e4688485-93db-3db8-9ff5-1a3afd8fd667 | -11.11991 | -45.64787 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| ecad2417-2b05-348f-8b01-d790f7bbc5a9 | -11.11891 | -45.65326 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 0e0e3930-c80d-33b5-b126-e9f23bbc455c | -11.11807 | -45.63081 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| c612e1fa-aaa4-3f4b-a568-a08002ddea5a | -11.11707 | -45.63614 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| fb0ef291-d18d-3235-914e-8124bb046f56 | -11.11406 | -45.65229 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 4918cd2e-c3dd-3d50-bc1e-81a346b0a367 | -11.11384 | -45.68045 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 712b7d28-1c9e-342e-8e65-f34bd32b11f7 | -11.10896 | -45.67963 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 8fb2ecbc-bc32-3462-8aed-989b569da575 | -11.10794 | -45.68512 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| fef7699a-54ce-3a9c-a18b-57ddf0f40302 | -11.10615 | -45.66778 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| daff1859-d45b-3e0c-b4c5-d6b1de947ee6 | -11.10511 | -45.67331 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 6e6cfe02-0179-393b-a4a2-b36773c5ed7a | -11.10421 | -45.66661 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| f5a4aa1d-7258-387a-84b1-0ba36df17c07 | -11.10321 | -45.67218 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 01cee703-3812-3853-b6bc-f165a801801c | -11.10128 | -45.66694 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| c2e6935a-a709-334e-b9d3-07c863fdfa0b | -11.10023 | -45.67252 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 7f04a55b-d665-3d53-93de-853c6ae1621e | -11.09833 | -45.67138 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 8a7c9659-3aaf-3aba-ba5e-43a6e4ef5872 | -11.09745 | -45.66055 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c8718b0c-67bf-32d8-8b7b-03b3b69d6f69 | -10.8736 | -44.79312 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a6f13c73-6eb0-33d5-9c10-51e22f9c7d70 | -10.87275 | -44.79787 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| cfdd4f20-b8bb-3633-89b8-fb6cd93bfc04 | -10.87188 | -44.80265 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f9ddad9d-7c69-31f3-9e50-1fa84472630e | -10.87102 | -44.80745 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f794d4cf-b0d3-3938-b23e-6327918d2300 | -10.86728 | -44.8018 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 2028efa8-bb32-3c68-a4c3-1eb7a73f1187 | -10.86641 | -44.80659 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 11fe812f-8e11-3741-9cbc-be52f8da3812 | -10.86354 | -44.79616 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 6b49e429-1f3e-33e2-96e1-6cadd3b88ba5 | -10.85894 | -44.79533 | 2024-10-01 03:49:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 852dde5a-14ab-3f68-a533-c61bb293a92c | -6.72031 | -43.56351 | 2024-10-01 03:49:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| eee04288-6501-398c-b195-4a260bf871fe | -6.50654 | -43.63242 | 2024-10-01 03:49:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| e6663ce0-5d2f-3737-b6f6-6bfafc9e7fa6 | -6.50197 | -43.63158 | 2024-10-01 03:49:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0c20d7dc-8f4d-3c9b-ad0f-075d4edecea9 | -6.34895 | -43.91976 | 2024-10-01 03:49:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| a478c3fe-4ce6-36a7-a014-2cf602e91f5b | -6.32795 | -43.47188 | 2024-10-01 03:49:00 | NPP-375D | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0f2ddb87-abbe-301c-a6b1-56bc0eb77411 | -5.96854 | -43.62652 | 2024-10-01 03:49:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9db2acb8-2d1e-3daa-9974-5165369eeb60 | -5.88768 | -43.71866 | 2024-10-01 03:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ec3f06ab-0598-3487-a907-a7e5d4f9c808 | -5.88685 | -43.72356 | 2024-10-01 03:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 5ee56008-33ba-3677-a884-f1e68cc7e935 | -5.88303 | -43.71785 | 2024-10-01 03:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 28a0c1b3-7c84-30ee-a274-6909233d5974 | -13.00399 | -45.45418 | 2024-10-01 03:49:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| cfff63e9-7a1f-3bd0-af17-90b34db45166 | -11.14719 | -45.97154 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| dc0d4438-0bde-3d5a-8cde-1a10d9f1f78d | -11.14696 | -45.97026 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 30e92d34-f6fc-3841-9653-f785379c075b | -11.14614 | -45.97709 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 29ead0a6-e2db-341a-aef2-e668501ef84c | -11.14595 | -45.97583 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 4f24bace-3a4c-3771-8be7-2cb99276c08c | -11.14115 | -45.97633 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0a6c8319-d8c7-328a-85b6-4de95931458c | -11.14007 | -45.98203 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 339b1d63-ce84-3436-90e9-0c6f3cdb4cc2 | -11.13994 | -45.98071 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 9ed6a760-4ad9-3bff-92f4-83185669ead3 | -10.87387 | -45.97422 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 8bb042b9-808c-366e-81ee-4082078dce91 | -10.86889 | -45.97327 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 5e51b01b-d443-3a6d-8598-1a5de57233ac | -10.70353 | -46.17145 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| cdff7e1b-2e4d-32da-bfba-5f3e8432c2af | -10.69901 | -46.16756 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| baa4c806-8ff4-38c7-a249-eb62b875ee01 | -10.69848 | -46.1704 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 82446d0e-b9b4-31d9-bdbc-97f387cca620 | -10.69398 | -46.16645 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 714ef756-4abe-3a79-a46e-3702c1a0359c | -10.6895 | -46.16246 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 28184323-afbc-3009-a0ac-d2577feddb42 | -10.68499 | -46.15856 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6c3ce04a-12ad-3e2b-b549-520dc40d340a | -10.68445 | -46.16145 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| e3a771d5-06b1-3aed-a40d-a49366212bb3 | -10.68191 | -46.15709 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e61b6454-00d5-355b-996b-c1d3d52f78f6 | -10.68138 | -46.15998 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9172f34a-9225-3713-8606-4ace35733bdb | -10.68048 | -46.15473 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 6b9f7fe5-d4ea-399d-878c-41442d61757d | -10.67994 | -46.15761 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 294ae59d-8253-3309-96cf-7259fd183781 | -10.67737 | -46.15325 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b1886937-bd78-3ce3-91e8-7649245b4cb5 | -10.67684 | -46.15614 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1ea23745-70d5-3dec-a903-1dd66a73ba21 | -10.67632 | -46.15903 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ba496deb-5529-34cb-b3b8-ff3882b9f005 | -10.67542 | -46.1538 | 2024-10-01 03:49:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| bb704765-4957-3cd6-9076-eca9a04cf905 | -18.18913 | -43.82008 | 2024-10-01 03:49:00 | NPP-375D | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 9cfd8d3f-2b3c-3d86-9301-267861cfa3d5 | -17.78785 | -43.31345 | 2024-10-01 03:49:00 | NPP-375D | SENADOR MODESTINO GONÇALVES | MINAS GERAIS | Brasil | 3165909 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 1062c708-0dbb-3f83-9868-ed6af17aa318 | -17.78586 | -42.89102 | 2024-10-01 03:49:00 | NPP-375D | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| afe1afa3-8cf8-3f18-b556-a4dad1fb8241 | -17.72358 | -42.34728 | 2024-10-01 03:49:00 | NPP-375D | CAPELINHA | MINAS GERAIS | Brasil | 3112307 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| b89d666c-539c-31b4-9a27-dca5271f8897 | -17.72286 | -42.35147 | 2024-10-01 03:49:00 | NPP-375D | CAPELINHA | MINAS GERAIS | Brasil | 3112307 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| dfc5b7e7-7e4f-31bb-8d56-e4e909995f01 | -17.63529 | -42.33619 | 2024-10-01 03:49:00 | NPP-375D | CAPELINHA | MINAS GERAIS | Brasil | 3112307 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 3c83881f-6db9-38bf-ae53-8cd3dd20949c | -17.63022 | -42.99619 | 2024-10-01 03:49:00 | NPP-375D | CARBONITA | MINAS GERAIS | Brasil | 3113503 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| b1d3d842-86b5-32b2-a22a-c053293b4d89 | -17.35734 | -44.91697 | 2024-10-01 03:49:00 | NPP-375D | PIRAPORA | MINAS GERAIS | Brasil | 3151206 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 26202610-4df6-340a-9be3-322e538a7cfc | -17.28345 | -43.18509 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 61324916-881d-3683-93fa-8f6b0c271612 | -17.28325 | -43.18749 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| d46dfa1d-740b-3c2c-80a1-ea962a7e9a07 | -17.28242 | -43.19211 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 0cbf45e6-a634-39d4-bdb4-cecd33405f5a | -17.28183 | -43.19437 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e446dd90-62c2-3c37-aeb7-d05bff3f259b | -17.28158 | -43.19679 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| d3b163f9-74e9-3874-812b-588ed9800d2a | -17.25811 | -43.17495 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 37e964ef-fe43-33ce-b1ef-81c7e24df3a0 | -17.25444 | -43.21799 | 2024-10-01 03:49:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 6051e611-d965-3e8a-ac76-36f61d50f723 | -6.1299 | -47.2884 | 2024-10-02 02:35:41 | GOES-16 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| 44b50410-0f7e-3c81-b47a-6381a72a7fed | -6.1301 | -47.2664 | 2024-10-02 02:35:41 | GOES-16 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 79.7 |
+| 258fd75f-90e1-311d-b101-b85829fed3d2 | -8.4642 | -62.7313 | 2024-10-02 02:35:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 47.6 |
+| 3c7007be-c8a6-3600-94c3-fed441200f68 | -8.4643 | -62.7124 | 2024-10-02 02:35:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 51.5 |
+| 86eae932-d7d4-314f-aa33-08e06d5b74ff | -9.9367 | -64.9179 | 2024-10-02 02:36:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 90.9 |
+| df83b9eb-2e0a-393a-ac12-2c1a3d55cf32 | -9.9368 | -64.8991 | 2024-10-02 02:36:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 69.8 |
+| 719df750-f759-3ccc-811b-c07fcdf5e1f9 | -9.9553 | -64.9172 | 2024-10-02 02:36:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 72.7 |
+| 33c3b4d5-afae-36cb-af94-224769102947 | -9.9554 | -64.8984 | 2024-10-02 02:36:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 59.9 |
+| d6058f7c-9609-3ac2-ba96-50b787ec6a0c | -11.6554 | -65.018 | 2024-10-02 02:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 50.8 |
+| 41fc6537-038c-367e-b1c6-c68cdca5a356 | -11.6555 | -64.9991 | 2024-10-02 02:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 47.3 |
+| 6bc90f60-4d81-3fe7-b34c-f94cbbfff988 | -11.6742 | -65.0172 | 2024-10-02 02:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 78.3 |
+| 8ce6acf3-6e1b-350e-9e7f-6dbfd94cc2ed | -11.6743 | -64.9983 | 2024-10-02 02:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 92.2 |
+| 8ae3c75e-db68-335f-9454-6ee6fcff86c4 | -12.2946 | -47.6446 | 2024-10-02 02:36:15 | GOES-16 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 68.0 |
+| 34436bb1-4678-3423-a582-39607188c6e2 | -12.6484 | -63.1214 | 2024-10-02 02:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 99.1 |
+| c29c1cc6-a651-3cff-90c5-802695ec610d | -12.6486 | -63.1022 | 2024-10-02 02:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 46.1 |
+| a58fdbb0-81ea-34e6-af6a-8df02acb956e | -12.7054 | -63.0798 | 2024-10-02 02:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 49.5 |
+| f72b3551-b61b-33c8-9458-8e159073508c | -12.8423 | -62.5526 | 2024-10-02 02:36:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 98.3 |
+| 7b05f976-684f-3104-b154-f9237c398853 | -12.8424 | -62.5333 | 2024-10-02 02:36:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 139.5 |
+| c0d0aa53-3166-3cdf-92b3-762ea4072b5d | -12.8426 | -62.514 | 2024-10-02 02:36:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 37.8 |
+| 615a1f13-5b68-3a02-b41a-da271bf3e4e1 | -12.8612 | -62.5514 | 2024-10-02 02:36:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| 2bb0c97d-7dca-3e14-84d2-9009f3849bce | -12.8614 | -62.5321 | 2024-10-02 02:36:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 141.9 |
+| 1a76d5e2-6753-3b2a-8e54-82a71f5abc4b | -12.8615 | -62.5129 | 2024-10-02 02:36:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 44.7 |
+| 9322948b-7bcb-33f8-b6be-4e749b3470d4 | -13.0015 | -51.1694 | 2024-10-02 02:36:19 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 74.6 |
+| 06d5ffe3-c990-3b0f-a8bc-ad3362a8e23e | -13.0019 | -51.148 | 2024-10-02 02:36:19 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| 96297962-d749-337d-a739-0d95822709a5 | -13.198 | -48.6267 | 2024-10-02 02:36:20 | GOES-16 | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | 68.0 |
+| 156612a4-daa9-3d47-bde9-3b36642f1d60 | -12.9546 | -62.6999 | 2024-10-02 02:36:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 56.8 |
+| fca57ca3-c694-334a-aa0e-8eb5f8b82d8d | -12.9548 | -62.6806 | 2024-10-02 02:36:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 51.2 |
+| a7bd3be1-5635-3e63-88a5-5d278c819391 | -14.5699 | -44.8351 | 2024-10-02 02:36:27 | GOES-16 | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 50.1 |
+| 4a8d07c5-1c7f-3dd5-aa09-fc56b1287305 | -15.8933 | -57.1754 | 2024-10-02 02:36:36 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 37.5 |
+| 9ca6da80-5617-3437-a13c-3f5cb3fe6744 | -16.6124 | -57.2375 | 2024-10-02 02:36:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 121.8 |
+| 1fd39cb7-138b-3c13-8d8f-5f021547eb50 | -16.6127 | -57.217 | 2024-10-02 02:36:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 180.5 |
+| a3164f3d-e585-3fb0-80a4-0c6d812f15f4 | -16.6319 | -57.2352 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 129.0 |
+| 28ed7839-18d5-311e-b760-08a524086c27 | -16.6322 | -57.2147 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 222.0 |
+| c72ab677-dc57-323d-bf1b-f53cf4157baa | -16.6518 | -57.2125 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 60.1 |
+| 50fb84e4-62de-31c0-be3e-8452b7acf8b1 | -16.6717 | -57.1897 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 49.7 |
+| f4629d85-ac68-3e31-887b-c868903f8903 | -16.6868 | -57.4741 | 2024-10-02 02:36:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 51.5 |
+| 06066657-8841-31a6-a023-c98a592a862a | -16.6884 | -57.3718 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 76.0 |
+| 25985724-6037-3eb0-b2b4-8098a40f82ef | -16.6887 | -57.3513 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 61.2 |
+| 8063b5db-4601-3a4e-98d8-d8f0ef6eef9c | -16.6909 | -57.208 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 52.2 |
+| 0c1dcef8-6ae4-3841-975a-0eda37de2fb7 | -16.6912 | -57.1875 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 159.8 |
+| 0de2f32e-1d24-3663-8ed2-94ea3e15e98a | -16.6916 | -57.167 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 67.5 |
+| a0611b65-36d8-326e-89c1-20ca6e58d8dc | -16.7063 | -57.4718 | 2024-10-02 02:36:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 119.6 |
+| bc65f350-aba5-3105-8e52-ca8d2ef949f7 | -16.7108 | -57.1852 | 2024-10-02 02:36:40 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 50.3 |
+| bb37bf2b-bd78-3153-b150-297cff504862 | -16.7265 | -57.4287 | 2024-10-02 02:36:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 92.9 |
+| 7d6521c0-6ef1-3023-9525-f1ce0e021b84 | -16.7452 | -57.4878 | 2024-10-02 02:36:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 75.3 |
+| c7f16db8-ad23-313f-ba77-1836d1245157 | -16.7461 | -57.4265 | 2024-10-02 02:36:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 72.2 |
+| f4fbe2ba-8c17-3c1a-a831-d1a0b06c7abe | -16.8096 | -55.9177 | 2024-10-02 02:36:40 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 64.6 |
+| 486978ec-01c1-3922-aa86-c1036b2deadb | -16.8292 | -55.9152 | 2024-10-02 02:36:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 119.9 |
+| f9200e3f-63d8-3ce5-8a0f-9f59aeea685a | -16.8295 | -55.8945 | 2024-10-02 02:36:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 118.0 |
+| af18b402-2028-3c2f-8947-3bd1d422f1c7 | -16.8491 | -55.892 | 2024-10-02 02:36:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 83.9 |
+| 9caab19f-3b65-34db-a5f2-7bce755d3ce0 | -16.8695 | -55.848 | 2024-10-02 02:36:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 90.5 |
+| 68e4d4d8-b47d-37b5-80db-f875721c81a0 | -16.8698 | -55.8272 | 2024-10-02 02:36:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 66.5 |
+| ceef2694-74d8-3181-902c-bcdbc681b899 | -16.8891 | -55.8455 | 2024-10-02 02:36:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 82.3 |
+| ac5f7f3b-ec99-3023-a26e-d0b6b781e497 | -17.0895 | -56.7503 | 2024-10-02 02:36:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 69.9 |
+| 8ebd4eb3-9119-35c8-9d35-7426bd4dacca | -17.1577 | -56.1844 | 2024-10-02 02:36:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 72.1 |
+| 594d4962-d8b1-3fbe-beef-a67b23b99f2c | -17.1581 | -56.1637 | 2024-10-02 02:36:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 78.1 |
+| ad65f15d-b15a-36b9-8c95-8f75e9067f7d | -21.3456 | -55.6841 | 2024-10-02 02:37:04 | GOES-16 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 104.8 |
+| fc48cdf1-938a-390a-a36a-246cbf6d2d09 | -21.3656 | -55.7022 | 2024-10-02 02:37:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 67.4 |
+| 280ca09a-76d7-380f-a6bc-23dd6cdaca56 | -21.3661 | -55.6807 | 2024-10-02 02:37:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 127.9 |
+| 463af3a3-feda-3429-8750-fac2f5ca5f91 | -22.677 | -43.7014 | 2024-10-02 02:37:09 | GOES-16 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 86.1 |
+| f21bf31d-eed4-3bd7-b616-f7545a549e64 | -22.9006 | -45.1029 | 2024-10-02 02:37:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 83.6 |
+| d1d005a9-e256-33fb-a3b1-0bd80b6d654e | -22.9014 | -45.0779 | 2024-10-02 02:37:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 75.7 |
+| 7dc52e0a-6fd2-38ec-82b1-e33daa82007b | -23.175 | -49.5943 | 2024-10-02 02:37:13 | GOES-16 | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 96.8 |
+| 4e15c92f-f9fe-3597-822f-ef8c12ec6b97 | -3.128 | -49.4235 | 2024-10-02 02:45:24 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 49.5 |
+| ef0285aa-f0a7-36e4-a25d-19f6322c4d2f | -3.1465 | -49.4229 | 2024-10-02 02:45:24 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 74.8 |
+| 96eecb0e-0928-3a04-b7fb-27c8052e6530 | -3.2136 | -46.7843 | 2024-10-02 02:45:24 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 71.8 |
+| f30fe3d3-6215-3673-865f-56a1229bf674 | -5.9786 | -45.3847 | 2024-10-02 02:45:40 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 59.9 |
+| 1ac33e8f-c569-3a29-96b5-89adafcdebf1 | -6.1114 | -47.2677 | 2024-10-02 02:45:40 | GOES-16 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 56.8 |
+| 5d4da57d-faf9-3df6-8656-60e66fa09168 | -6.1301 | -47.2664 | 2024-10-02 02:45:41 | GOES-16 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 53.6 |
+| 3095405a-3092-3e42-b042-95e490403c64 | -8.4642 | -62.7313 | 2024-10-02 02:45:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 44.6 |
+| a68d6244-5a56-3b0c-9d58-0e18905b71d9 | -8.4643 | -62.7124 | 2024-10-02 02:45:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 47.4 |
+| dc9b6baf-3157-3c0d-8323-ee868f299715 | -9.9367 | -64.9179 | 2024-10-02 02:46:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 59.9 |
+| 09462e6d-a8a9-3d2b-b3eb-ee7c2e821287 | -9.9553 | -64.9172 | 2024-10-02 02:46:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 54.5 |
+| 5b489d0a-0f04-3a18-90e9-f5ba315fdd31 | -11.6554 | -65.018 | 2024-10-02 02:46:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 45.9 |
+| 91a9fdae-953e-3fb3-92f8-694c44781a3c | -11.6742 | -65.0172 | 2024-10-02 02:46:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 514c1a43-96a1-3a1d-981b-b1f68b882e4f | -11.6743 | -64.9983 | 2024-10-02 02:46:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 79.6 |
+| f954390e-700c-30eb-a140-57d27b83bdbb | -12.1406 | -50.0524 | 2024-10-02 02:46:14 | GOES-16 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 58.2 |
+| bb8a7bf7-d673-3903-8ccd-3ca86b1c59c4 | -12.2946 | -47.6446 | 2024-10-02 02:46:15 | GOES-16 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 74.4 |
+| ff223567-655a-3844-95ff-5b4b49a874da | -12.6484 | -63.1214 | 2024-10-02 02:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 84.3 |
+| bf0d7b90-464e-394b-9345-1888357cf5df | -12.7054 | -63.0798 | 2024-10-02 02:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 51.0 |
+| 958fd09f-7c3f-3fa5-9445-074c48729f49 | -12.8423 | -62.5526 | 2024-10-02 02:46:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 81.6 |
+| ff2cb5ec-8bc5-3908-91c2-ff45f123c017 | -12.8424 | -62.5333 | 2024-10-02 02:46:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 114.7 |
+| 23d85e9c-16b0-33a5-beee-5570c5f23d1b | -12.8612 | -62.5514 | 2024-10-02 02:46:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 92.0 |
+| c4f54fc0-30fa-31e4-adc7-6a4e825d2f57 | -12.8614 | -62.5321 | 2024-10-02 02:46:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 144.4 |
+| c4a67550-5e4a-3b1f-b211-8225f76d12df | -12.8803 | -62.531 | 2024-10-02 02:46:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 62.7 |
+| cf0f56fd-c18b-368b-83e8-5fc540108713 | -13.2173 | -48.624 | 2024-10-02 02:46:20 | GOES-16 | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | 70.2 |
+| 424039bb-9285-389a-90e1-346e0d77145d | -13.055 | -51.4186 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 101.0 |
+| 5126a08a-98a7-3577-bc22-2aa4690b59e0 | -13.0553 | -51.3973 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 91.1 |
+| c7a817ed-1802-33c2-a812-c379fce5dfda | -13.0557 | -51.3759 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 98.9 |
+| c309aa20-52df-303e-8c34-94fda5776701 | -13.0742 | -51.4163 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 105.3 |
+| adacb2e0-8b1c-3375-ad45-ffd6e8ff7867 | -13.0745 | -51.3949 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| b923f74c-5e7e-36de-bdbe-c508cf920395 | -13.0748 | -51.3736 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 105.9 |
+| 380284b5-d338-39f1-b028-81e6a7e3813f | -13.1118 | -51.4542 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 56.4 |
+| b811c88d-1059-3c06-97fc-9db4bf6b2bd4 | -13.1122 | -51.4329 | 2024-10-02 02:46:20 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 552de5c3-fb54-3525-8f92-a146aa1dd258 | -13.5965 | -51.1367 | 2024-10-02 02:46:23 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| c87c8bd9-613d-3b55-b99c-8a01cd94c7eb | -15.8933 | -57.1754 | 2024-10-02 02:46:36 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 26.6 |
+| b5f0cda4-c222-3bc4-8616-88dec0dbd5ed | -16.4337 | -57.4414 | 2024-10-02 02:46:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 30.7 |
+| c4ee018d-791e-33ed-bae6-e3502a5de29a | -16.4533 | -57.4392 | 2024-10-02 02:46:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 32.2 |
+| b7a9fca8-4bbe-30cc-a2df-6d17070e2a67 | -16.6124 | -57.2375 | 2024-10-02 02:46:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 118.1 |
+| a0f67418-65cf-376c-a775-a4d4e7766ce4 | -16.6127 | -57.217 | 2024-10-02 02:46:39 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 138.3 |
 
 
 [Clique aqui para ver as próximas entradas](README46.md)

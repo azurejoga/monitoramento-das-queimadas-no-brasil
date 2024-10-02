@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2b8f2371-27f4-3711-be79-a81edd59cad2 | -11.66392 | -65.0014 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| a972da4b-85ea-36ae-bf4a-dec27ff5a7cd | -11.66387 | -65.1944 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ba4ab767-df33-3249-a6f3-04979993e6ca | -11.66303 | -65.02815 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a83be1a3-3c6d-33e3-91fe-9891becba15b | -11.66296 | -64.98592 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 2d719e90-64de-3767-b416-94708315b9c9 | -11.66241 | -65.03191 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 0fa7788d-96a8-34f1-97d5-90f1c9d9a9dc | -11.66235 | -64.98965 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 2228f804-3782-3e11-9a5d-c243e4902e2c | -11.66173 | -64.99337 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 838994ad-3d64-3b64-836c-52cdb543d811 | -11.66112 | -64.9971 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 5ca229bf-a7f0-3d36-b509-53a18e0d8793 | -11.66051 | -65.00082 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 9dc2963f-62b6-3539-84dc-f98ec9c9c9e8 | -11.65955 | -64.98535 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1eb1f595-2ee1-35ce-90b3-23b6dc83dc6b | -11.659 | -65.03131 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 81cce4db-4d43-3f96-905a-fc5254ea8c97 | -11.65893 | -64.98908 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 0f0c2fb4-1e67-3ce2-8dd8-096997913cb0 | -11.65837 | -64.21014 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 45cb312e-a94c-3a4d-93d9-ffb1f8527a00 | -11.65832 | -64.99279 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| c7ed87b7-1994-3628-96e5-0f760e35ed53 | -11.65771 | -64.99651 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 3e7dba08-30fe-34da-94bd-4b4d26deed3f | -11.65723 | -64.21732 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| cfe1b4a4-b991-3407-b238-200530e29d31 | -11.65709 | -65.00024 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9c834792-ec86-3b35-b1d3-f7eab163a405 | -11.65648 | -65.00397 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2ffa7cba-f367-348e-8e03-11ce193f703b | -11.65614 | -64.98478 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 19f33d2d-5c50-351b-b429-a125edd37f45 | -11.65552 | -64.98849 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 0a9cb435-20a0-3628-a752-fa2af8fbbef1 | -11.65491 | -64.99222 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3e6d5c39-8ed6-3f1c-bd8f-d63f15520679 | -11.65445 | -64.21317 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 4a12406c-af9c-366c-8d24-5d98cbb7d847 | -11.6543 | -64.99593 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4839d72f-43be-3a30-8b82-c69c569a4f90 | -11.65387 | -64.21676 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| f18ebe2e-5430-3613-b5e3-a6bb8b1b9c1e | -11.65368 | -64.99965 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 353312ec-a1d6-3034-a2d9-ff75335e3fc2 | -11.65307 | -65.00339 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 02c2f692-681c-34be-9708-f5f11318b6f3 | -11.65245 | -65.00712 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8abe4ade-398b-3dc1-8f1e-adb7954a3aca | -11.65211 | -64.98792 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| edf152e1-47eb-324c-940c-94f7e11cac0a | -11.6515 | -64.99163 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| cbe37c8e-d74e-3a15-af1f-6029a6084a7c | -11.65088 | -64.99535 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 7463acd1-8b0a-34c4-b96f-8a3cd435eb0e | -11.65027 | -64.99908 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cf423cb2-a803-3c31-8e45-2ef1c427bbcd | -11.64842 | -65.01028 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| bfc74f09-9de6-3670-9f6f-abefe0aed2e1 | -11.64831 | -64.99213 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 989c4ee6-f18c-3e2e-b8c8-a9c84c2252e0 | -11.64808 | -64.99106 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| caccfad8-4245-35c1-a23d-55e0115b0931 | -11.64771 | -64.99586 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 485b45ad-58e2-396d-a5e1-ec438d654e8f | -11.64747 | -64.99478 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cc4e756e-886f-3050-ba4a-ccbb174246ba | -11.64489 | -64.99155 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bcab244e-6d67-335e-900c-63474a12f384 | -11.64429 | -64.99528 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 570e6398-4079-3096-b31b-4a2405305756 | -11.63807 | -64.99039 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d3a97455-c594-329e-9ca2-e3010d99db50 | -11.63675 | -64.02321 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a2d37fa4-ba6e-38e7-8d37-212a744e03d3 | -11.63466 | -64.98981 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 61367d6c-d06d-3588-bc80-58efe871bfd9 | -11.63405 | -64.99353 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 87d57648-4b97-3390-a808-90219031b7d9 | -11.63341 | -64.02265 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| ca7007fe-4cc2-3c44-8875-972696003809 | -11.63064 | -64.99295 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f78b60cd-d4e8-3be1-980b-d06e6d6426d5 | -11.62662 | -64.99611 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 04e3215d-28f9-309b-b972-e9da1427c7c9 | -11.62601 | -64.99985 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| da649d76-cde7-387f-bf3c-8b9e05a980c8 | -11.6232 | -64.99554 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f0bafff2-1ca3-3606-b4d9-0484926ecfdd | -11.6226 | -64.99928 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| bdd0b879-0dbb-31b2-8002-bc8c7ae6b93c | -11.61918 | -64.9987 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f34fdd08-7ee1-38ca-8be0-299d9fea6074 | -11.61797 | -65.00617 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 6861d96f-e68e-3a25-9f0d-e9c8898ebf6c | -11.61455 | -65.00559 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 970bdd1a-6b8f-3f31-98e4-ec5220a9351a | -11.59959 | -63.97692 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b8929aa3-7854-30c3-ad0a-e0467eef7961 | -11.58506 | -65.14339 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d16aaf57-123a-3324-aeed-c9eade159b17 | -11.58163 | -65.14281 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 117fc983-38e6-3b8d-bc53-ca30c8183873 | -11.57884 | -63.79528 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 76e0077c-d96d-3f23-875c-5180f7132d74 | -11.57828 | -63.79884 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| bf6b5d30-4489-359f-a68d-3ede9fe67c2e | -11.57438 | -63.80183 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 3cc1fd2b-34a1-33ab-8f9c-761f6f11d24f | -11.57381 | -63.80537 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e916dbcf-bddd-3940-910d-6b810cdbc970 | -11.57048 | -63.80483 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 19c94d55-42fa-3e91-be56-aadb0009ee65 | -11.56991 | -63.80837 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b6f936c1-34da-3c36-94cf-86c662ec31bc | -11.56935 | -63.81192 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 63f43b53-4027-30a0-93f1-a8c8c7ce8382 | -11.56879 | -63.81547 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ad955edc-bf18-37cf-b2bd-e2114f14b4ff | -11.56822 | -63.81901 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| adc17530-d85c-343c-a695-c63b6d34c71e | -11.56545 | -63.81491 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 504c7f46-b3df-344f-806b-043d84996db4 | -11.56489 | -63.81845 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8a68a304-03e9-3cdd-a7cd-ed70d9d8222d | -11.56432 | -63.822 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| ba6755bb-3660-3dc5-8fc0-3dc19d839d79 | -11.56376 | -63.82555 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 3b0d51c9-e7b8-320d-b1e0-4a4148880d0c | -11.56319 | -63.82909 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 252a3c21-62b3-3897-a712-71012b05d646 | -11.56099 | -63.82145 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| ba623a55-de1a-3804-b65e-d48fef36a1d8 | -11.56042 | -63.825 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 78c43815-616a-3570-9076-dfdf29604e6a | -11.55986 | -63.82855 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 160d7f7e-d79e-3979-84d9-23012e4ddec3 | -11.55093 | -63.84164 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 48773f84-c90b-3548-9d98-ea7605c198ac | -11.55036 | -63.84519 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 628ca270-d843-3754-adf9-7e4a3299b170 | -11.54979 | -63.84874 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| fb3b2438-0e03-3821-8bab-49bd34812730 | -11.53849 | -63.70516 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 91c5d646-2c3d-31ad-8b8f-9403a346d568 | -11.53793 | -63.70869 | 2024-10-01 05:29:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| ac6a46e5-2e54-38f8-a225-ee92f8286dd1 | -11.44681 | -61.45445 | 2024-10-01 05:29:00 | NPP-375D | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 4daff95a-2e60-325f-b7ec-285473f4ba91 | -11.44662 | -61.45381 | 2024-10-01 05:29:00 | NPP-375D | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d4990898-a183-3b23-8178-23110b83f46c | -11.44338 | -61.45392 | 2024-10-01 05:29:00 | NPP-375D | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| f861c2a9-c201-32fd-b323-8b5f9c411fb6 | -11.37856 | -55.11798 | 2024-10-01 05:29:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 87cfc60d-19a7-3dbe-8b0d-674293fffc21 | -21.02572 | -57.51483 | 2024-10-01 05:31:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 4d7c5837-6b56-3465-be22-6689372ad33c | -19.65263 | -56.47449 | 2024-10-01 05:31:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 10.9 |
-| 4a441989-13fe-3caa-ad3f-af6bd6f0af53 | -19.16434 | -57.4775 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 9e58f3b0-48ac-3453-9835-12c183befb77 | -19.16365 | -57.47622 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 1fe9dcdb-f6e4-3964-853b-27ac8f1972ca | -19.15895 | -57.47552 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 16f05320-7244-305a-bb6e-45fb16d323de | -19.15821 | -57.48169 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| ae4ca55b-e511-32bd-be34-ca3f6a0cfa21 | -19.15424 | -57.47484 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 31f6c72d-6f04-3084-a6f0-da4a951ac2e9 | -19.14953 | -57.47414 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 97549e4f-1ecd-3ce3-a72f-328c0961a55d | -19.13132 | -57.4661 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 29.9 |
-| a60dfee4-448c-38db-a30d-dab7c95c09b5 | -19.1307 | -57.47145 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 31.2 |
-| 508aed0d-cd12-327a-8fa5-00fc7c5c6b7b | -19.1266 | -57.46548 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 29.9 |
-| 47812144-8ab1-3b9f-8734-81c30f8525b7 | -19.12599 | -57.47077 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 31.2 |
-| 04c8fb20-2211-3e2e-9fa5-224bf1d47bed | -19.12188 | -57.46486 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.2 |
-| 38771bab-6843-32fd-b6d6-7f633e1ceb77 | -19.12128 | -57.47011 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
-| 6465bd80-d221-3c80-9ae9-49717a158558 | -19.1206 | -57.47601 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
-| ff4693de-fee6-3efe-8f36-dfbb471c702b | -19.11716 | -57.46426 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.2 |
-| 096035ea-3446-36c8-8b30-4194a80ddd3c | -19.11588 | -57.47543 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
-| 540b1605-2952-3df0-b7b9-ac487ccd626b | -18.71348 | -57.31575 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
-| 016361c3-48c7-388d-b857-9c80dc6ee041 | -18.71287 | -57.321 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
-| ec84419f-bcfa-3f44-9646-41bcf2fc19d1 | -18.70874 | -57.31513 | 2024-10-01 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
+| 220815b3-2b29-3b69-8d7b-ef946175a852 | -17.0592 | -56.09143 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 11.8 |
+| fcacf35e-d091-31b0-8cf4-aef674b04a27 | -17.05857 | -56.09599 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| a9e1cd50-11de-3bf1-a588-a1996fdc66f1 | -17.05549 | -56.09087 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| fb6faf0b-f8d5-34d3-9209-b440b3903fac | -17.05486 | -56.09542 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| b1b22c44-1e6b-351e-b13a-f381837a4ea5 | -16.97778 | -56.22903 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 5dc80445-d33b-3690-9de9-c4dc4e332d95 | -16.9502 | -56.21118 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| 5f1da4ca-a09c-3bd0-a913-a391679de867 | -16.94921 | -56.10987 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 1565c996-b2d3-3948-96b3-f1b89dbd69ed | -16.94284 | -56.21007 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 6f332092-a55e-376f-b197-c8aa1ac9fd3f | -16.93916 | -56.20951 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 561cd8e6-6a8b-3536-abed-d55a7305eb63 | -16.83779 | -56.08075 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| e73aef2c-ea5f-3309-a942-580d14ae5869 | -16.6957 | -55.88258 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 4e00b9f9-8396-3b79-850e-e9c30b81a687 | -16.68053 | -55.9366 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| 8ad9caab-19ca-3d67-82b9-89a3709415f6 | -16.67617 | -55.94062 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| e5f888cb-b607-391f-a7be-25532139cbba | -16.67308 | -55.93547 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 4e532919-293d-37f2-a54d-a64620534cf6 | -16.67244 | -55.94006 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| a4c1d101-33d4-39f5-9a1d-0c9cea86003f | -16.66691 | -55.92518 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| a6fc3a8d-98b9-3173-8934-5978de797296 | -16.66318 | -55.92462 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| e950f0a7-aac9-36a7-a028-86e22a23a6ce | -16.65882 | -55.92864 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| db9f0593-b6db-385f-8986-34a49c16f398 | -16.64518 | -55.91724 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| c28ae6d7-b590-38fd-90e1-a16badd4d4d0 | -16.64392 | -55.92641 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| db50357e-73d3-3fa4-a739-8785e0a7bde0 | -16.63893 | -55.93501 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 0d57eee9-416b-33a3-a461-976f5fbab7c9 | -16.6383 | -55.93958 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 06cd2639-ddd8-3137-a0e2-508d359d5abd | -16.63709 | -55.92071 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 1c589107-add4-38c0-bfea-7cc12d8ed546 | -16.63647 | -55.92529 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| cb029296-18e5-33dd-8f84-35d60af8b61a | -16.63458 | -55.93902 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 57372e8a-7f24-3586-a81f-599c66b739f5 | -16.62403 | -55.93277 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| a82bf8b5-dcb9-3c27-8634-b6890c7306ed | -16.61773 | -56.03399 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 5f468397-31d2-33f7-857d-4d774e26e861 | -16.61659 | -55.93164 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 6cd65b1a-697e-387c-a40d-bb3182c6dc8c | -16.61596 | -55.93622 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| d60b2fe0-d911-3727-9f0c-95ddd33c7f96 | -16.6159 | -55.92953 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| b968f008-2e3a-3fc4-b8b7-9920462f2897 | -16.61402 | -56.03343 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| c5a4cd34-b31b-3a87-ba8c-f791c8382e7e | -16.6134 | -56.03795 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 6e583fd5-d1db-32e7-a2a2-06d0a931ea52 | -16.61286 | -55.93108 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 5b95907b-9f21-37e1-bcf0-41a284f6a0c0 | -16.61224 | -55.93566 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| fcc2629f-12ba-3915-876e-6ab2dae8cf95 | -16.61221 | -55.9915 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 3333a326-822f-3525-bae4-23729f6dcb84 | -16.61158 | -55.99604 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 30c0b826-ffc2-366f-86af-4a13197bdb06 | -16.61153 | -55.93355 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 83f82dd0-59eb-36aa-8287-c840f94ebf42 | -16.61032 | -56.03288 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| cd70e684-5d7a-3358-87b3-67de80f3dad2 | -16.60914 | -55.93052 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 3103325e-d589-3387-bd77-7c241dc95451 | -16.60852 | -55.9351 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 9229dafc-4769-3bc4-b25f-02f26c16af6d | -16.60781 | -55.93299 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| cac6eb96-9b61-3c20-9611-05e9d192fca8 | -16.60716 | -55.93756 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 4472c2f9-3ad9-30c5-8f21-7f92417e48a4 | -16.60662 | -56.03231 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 5e35d971-9ded-3fd2-b43f-89bcfd1cb988 | -16.606 | -56.03684 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| fbc7455c-da4e-3130-ac4a-acb6c1d8ebd1 | -16.60542 | -55.92995 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 68cd5aea-6ac6-36cb-9665-9168ced15613 | -16.60538 | -56.04136 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| d1214f30-e994-3e9a-becf-d4ee8dc57f00 | -16.60169 | -55.98528 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 5c2e25e5-b339-3e1a-ab0b-0e3c9724e8de | -16.60069 | -55.98309 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| a9331fe1-9069-3d07-ab4d-60a15f21e31a | -16.60045 | -55.99437 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| e304aacd-28f8-3d2c-a948-f1a7660361cc | -16.60044 | -56.04982 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 0e8e20c1-51ae-34b3-8d3a-c62a7dfa66d4 | -16.59983 | -55.99891 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
+| 0027e28d-7808-3bbc-831f-0e70584f70a1 | -16.59844 | -56.05204 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 0a76a07c-c440-352f-be43-d10aa59090a9 | -16.59674 | -56.04927 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 3a616795-63ee-3d14-83e3-05e7245bf3eb | -16.59474 | -56.05149 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| e91f2e7c-cf59-3b29-be17-e0fa63c1df87 | -16.59168 | -56.04643 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 0b8b707d-3b22-3488-92cf-41d367937b4b | -16.59104 | -56.05094 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| c68f7f40-ab5a-3b5c-94fc-5065a718b59e | -16.61901 | -55.99716 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 2095d361-0ead-3838-8039-67c236540404 | -16.61721 | -55.92706 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 0095f70f-4b04-3e5a-806a-ed658b3b3d36 | -16.61592 | -55.99205 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 3fcc7a56-1931-3a5e-a792-f58616c2c568 | -16.61278 | -56.04247 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 5769824a-36ab-338c-9967-00570fe4e565 | -16.61218 | -55.92898 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 2e00777c-958b-367f-bdcc-715f7ed0ff45 | -16.60908 | -56.04191 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 826a6606-8bf5-3adb-a271-8dbe50e49d5f | -16.60846 | -56.04643 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
+| f898a5fa-2803-360f-a207-8ef0f693caae | -16.60473 | -55.92785 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 9a0b1981-bcc0-3454-9d3c-f61541afd1a4 | -16.60376 | -55.98818 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 8.3 |
+| bab9a953-82f6-3212-b4ac-19789625af3f | -16.60311 | -55.99272 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 9.7 |
+| a7b4bc4a-1751-3a88-9e6d-a2efc0fd1ffc | -16.60291 | -56.03175 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 300b3249-eeeb-3e45-9c4c-5678ff8000be | -16.60229 | -56.03628 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 7c55526f-0248-3854-a302-29425623ab5a | -16.60107 | -55.98982 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 351aaa3f-79bb-3ded-8848-72512f7b11fc | -16.60037 | -56.03852 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 4e512419-9654-3054-8b34-0bf638f07391 | -16.59908 | -56.04754 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 37f21af5-ae08-393f-b8fb-89da06265c4a | -16.59859 | -56.03572 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 6de4c482-477b-3b53-93c7-42b598aea139 | -16.59797 | -56.04024 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 44fd5b7c-7454-3c0a-821a-d568702d93cf | -16.59674 | -55.9938 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 6204691c-3007-3652-a6ca-4a8a29c303e0 | -16.59538 | -56.04699 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 6fba27bd-53cc-3c3e-8f9b-88b768f22bd6 | -16.59304 | -56.04871 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 09d11453-2951-3740-b74b-4ff30acb7783 | -16.58934 | -56.04816 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 6ef9cc72-ada6-3789-ab88-18e1d705a9ca | -16.84561 | -55.82866 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 780f70c3-6b82-3372-8961-bc3097796f81 | -16.84554 | -55.88557 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| c8451087-c254-3fa8-b354-a681a9d5eacd | -16.84365 | -55.89946 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| f6754cfb-233d-30db-ab5f-e492536c3b05 | -16.84302 | -55.9041 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 8c5ebc4b-f42a-3bf6-979d-c3b7ac87bef1 | -16.84239 | -55.90871 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| d82ecc55-cffb-3b0a-bc14-4732ef07fa91 | -16.84176 | -55.91333 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 595b96a0-df1b-3782-ac99-92d9c7694084 | -16.84117 | -55.88965 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| cb13c762-3c17-3f49-9db3-c4aa6e5955e3 | -16.83999 | -55.81351 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 1acdb870-eb67-3e28-9dde-c630aef2a6a1 | -16.83995 | -55.86855 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 1c524497-dfd7-3a7b-9663-38a2c0d3884d | -16.83967 | -55.8163 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| e3d2b291-a4cb-3f44-a2bb-511912d0bc07 | -16.83928 | -55.90354 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 680f6ad7-8354-3518-ae1c-cac3bbea8a9e | -16.83798 | -55.88246 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 601c4146-f655-3ec9-a3c2-0a2252de6f0d | -16.83733 | -55.88709 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| cd0f538d-b88d-37e3-a65e-8c3a2ca32cea | -16.83592 | -55.81574 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| e06060ed-6651-3a05-a29f-a7d4a50114db | -16.83557 | -55.87462 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 19468417-af01-3331-b688-e147380a5243 | -16.83536 | -55.90095 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 8.7 |
+| 913fd455-0e7b-3b1e-b6ee-f95cac7234e1 | -16.83494 | -55.87926 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| a3bdcb78-de23-37e5-af5a-6f217d1a982a | -16.8349 | -55.87727 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| bf3fafa4-df9c-3d0d-945f-fc0edb7fd3cc | -16.83405 | -55.91019 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| bc6f4c4a-278c-3ad7-a038-05b40642f4d6 | -16.83368 | -55.88853 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 6bedd46d-15a8-36bc-830d-59cb18a061a6 | -16.83359 | -55.88654 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| b4d6877f-de1a-38de-9258-977112e532a8 | -16.83306 | -55.89317 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 3a975fc4-0429-3ab8-87d6-10df06245d82 | -16.83293 | -55.89116 | 2024-10-02 05:12:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
 
 
 [Clique aqui para ver as próximas entradas](README144.md)

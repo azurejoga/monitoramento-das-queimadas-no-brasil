@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1e949496-3bbc-3332-811b-76362aacf456 | -7.85295 | -43.0818 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| a1c51841-b13c-38bb-90b1-73ef6787b870 | -7.85224 | -43.08598 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 670f282b-f610-3af5-a3ce-8bf6f6da7527 | -7.85153 | -43.09018 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| f8f59e78-86d7-3e1d-b6ae-68c564c6e108 | -7.85081 | -43.09439 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 386c2e6b-2f70-36f7-9dfc-ebe0eea96969 | -7.85009 | -43.09863 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 5ec609f3-0945-3894-806d-76b1da68486c | -7.84864 | -43.08101 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| b3bdcd58-89cb-3d11-b5ad-df4dffadfa4e | -7.84793 | -43.08517 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| e56e462b-c375-39ad-8339-8ee949ed1e6e | -7.84361 | -43.08442 | 2024-10-01 03:47:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 4420cbbf-7700-3774-af26-5ee7a113fa8a | -7.76196 | -43.78139 | 2024-10-01 03:47:00 | NPP-375D | ELISEU MARTINS | PIAUÍ | Brasil | 2203602 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| f3634778-b268-3ada-8e41-b72362deaf30 | -7.69348 | -42.99221 | 2024-10-01 03:47:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 01a482e8-72fa-350f-afd9-edd5fc9b6ce4 | -7.69275 | -42.99641 | 2024-10-01 03:47:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 09b56d52-978f-3161-b198-8b5f4c0d2e4d | -7.659 | -42.43589 | 2024-10-01 03:47:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 2895bd6b-8405-3282-8e2a-2a4cd70fc417 | -7.56466 | -41.95544 | 2024-10-01 03:47:00 | NPP-375D | CAMPINAS DO PIAUÍ | PIAUÍ | Brasil | 2202109 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| d36be6c6-7c53-37a6-9037-aee922c9071d | -7.28349 | -42.26178 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 4aa1975b-9165-3d06-856f-bf13354c4a1a | -7.27936 | -42.26111 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 157fa892-1f2d-339a-b274-a4d5df8df741 | -7.27872 | -42.26485 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| b2749edd-3be0-3199-9bd1-42806ceb76e7 | -7.27715 | -42.24926 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 223c5df7-081c-37e0-8564-f598edd3e6e0 | -7.27651 | -42.25299 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| e4484255-ee21-3171-b1b6-ede73505ea1d | -7.2765 | -42.06116 | 2024-10-01 03:47:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 150b4537-b525-3a03-9070-4c9a89d50f4a | -7.27523 | -42.26046 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| e67b511a-89a8-3c9b-9bc7-913d551adbe4 | -7.27243 | -42.06047 | 2024-10-01 03:47:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| ae910545-ca29-396c-b6cc-2109cf3af27d | -7.27109 | -42.25982 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 66c99cf1-d84c-3818-b9c0-1bceebc313dc | -7.24472 | -42.25224 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 2636c8a5-6cb8-373a-8573-2d337b74e903 | -3.96451 | -41.51086 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 0a1c8fac-53b3-3839-b16f-c815473f9f21 | -3.96344 | -41.49162 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 02385924-6ef3-3b61-904f-675949498048 | -3.9593 | -41.49099 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
-| cdf073b3-4e8b-3e98-965a-ef647a422af2 | -3.95499 | -41.51702 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 9d07bf3b-dd24-3e37-944b-1919e5fc5ecd | -3.95084 | -41.51637 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| f15c63ab-8076-336b-b0da-822847c39abe | -3.95022 | -41.52012 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| d4c3bbe1-8fda-3460-92ab-43cf2979ca96 | -3.9467 | -41.51572 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| fae66c00-dfe4-3d41-b3d0-0469bdf47538 | -3.94608 | -41.51945 | 2024-10-01 03:47:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| d746d55d-bdbd-3e9a-8364-9582b60c2480 | -9.94338 | -44.02865 | 2024-10-01 03:47:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 0a724db0-c67d-3b87-a3f8-ecaca4a62e98 | -9.93738 | -44.03667 | 2024-10-01 03:47:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e1405c7e-4b0f-3ce5-98ab-b01ac6767fb6 | -9.93294 | -44.03584 | 2024-10-01 03:47:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 21f62908-687c-3678-aa63-d5d8ef46354b | -9.91169 | -44.07798 | 2024-10-01 03:47:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| d775716d-a144-326a-be77-2873823baa8f | -9.90805 | -44.07261 | 2024-10-01 03:47:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| d792c962-25f9-3ec9-bb12-aa1540892696 | -9.48693 | -44.06204 | 2024-10-01 03:47:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 15a4e941-d847-326b-bcb1-b804e10965fc | -9.48242 | -44.06137 | 2024-10-01 03:47:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0f5a7a8e-38fe-3950-82e5-c4504b524f92 | -9.47709 | -44.06528 | 2024-10-01 03:47:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0f61cdbd-0228-38dc-9840-3d8dfbdbe3b3 | -8.5319 | -44.71679 | 2024-10-01 03:47:00 | NPP-375D | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| cba78d74-c0e1-3662-baab-8e833c3bc175 | -8.53098 | -44.72202 | 2024-10-01 03:47:00 | NPP-375D | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2b233c3d-c946-37fb-928d-13790d8bf1fc | -8.52895 | -44.70555 | 2024-10-01 03:47:00 | NPP-375D | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 8c0e2865-83a2-3b2c-8893-afcab6724a21 | -8.52804 | -44.71075 | 2024-10-01 03:47:00 | NPP-375D | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 31582226-2075-36b3-b137-ec0ac66833a0 | -10.4758 | -43.64761 | 2024-10-01 03:47:00 | NPP-375D | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 8a6b7102-55b5-34ac-b83f-27119c717b97 | -10.47349 | -43.64854 | 2024-10-01 03:47:00 | NPP-375D | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 6a535392-8c8d-3b97-b288-0ef583c429fb | -10.3804 | -42.59309 | 2024-10-01 03:47:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 7c8faaa8-817f-311a-b09f-563ed87dfbe5 | -8.17639 | -43.66182 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 612d6b03-c174-3fbd-8627-8bc7002ab89d | -8.17563 | -43.66624 | 2024-10-01 03:47:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 035e382f-8af9-32f0-a4fa-584574b7141c | -7.79571 | -44.17327 | 2024-10-01 03:47:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 94ef67e3-93fd-347e-8ef2-74153518b332 | -7.79302 | -44.17447 | 2024-10-01 03:47:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 70c6121c-6780-3df6-9267-16f8f4e52343 | -7.78918 | -44.1689 | 2024-10-01 03:47:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 4b4db2ac-7418-3caa-ae72-39e5c33939f3 | -7.59952 | -43.85149 | 2024-10-01 03:47:00 | NPP-375D | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 36562141-ce3b-3ccc-b6e9-029cf5d8a786 | -7.47276 | -43.85291 | 2024-10-01 03:47:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 29093c54-8c0f-3b72-998e-a75b83b25f7a | -7.32385 | -43.82083 | 2024-10-01 03:47:00 | NPP-375D | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| be0ee676-9930-3375-a6bb-89b68bdaff4b | -7.32021 | -43.32722 | 2024-10-01 03:47:00 | NPP-375D | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| be7a6fd6-fcea-3317-9beb-8cfa04d729b6 | -7.30031 | -43.79288 | 2024-10-01 03:47:00 | NPP-375D | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 23eeee17-788a-39e0-a61f-7bcdf07277b4 | -7.27466 | -43.38865 | 2024-10-01 03:47:00 | NPP-375D | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| cb14f575-7871-3957-a341-7e8dd0b63b2d | -7.17775 | -44.22559 | 2024-10-01 03:47:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 1e743287-100d-37a3-8719-31080928ddc4 | -7.13371 | -44.10754 | 2024-10-01 03:47:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| a1147bbb-0266-3a24-8e03-c229fea5e322 | -3.47153 | -43.35905 | 2024-10-01 03:47:00 | NPP-375D | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 4aab0648-e51a-3337-9706-268897a9fb02 | -3.4668 | -43.35826 | 2024-10-01 03:47:00 | NPP-375D | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b65dfb7f-4efd-3abe-8d27-9c71b3f84477 | -8.97644 | -35.20597 | 2024-10-01 03:47:00 | NPP-375D | MARAGOGI | ALAGOAS | Brasil | 2704500 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 03fed41f-5ffd-3ac3-94da-0e0fff84f136 | -8.97587 | -35.20975 | 2024-10-01 03:47:00 | NPP-375D | MARAGOGI | ALAGOAS | Brasil | 2704500 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 60e57e47-89bc-3764-bcbb-2cdb5f0a05f1 | -9.20642 | -48.65647 | 2024-10-01 03:47:00 | NPP-375D | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b3c31054-0738-3530-9929-5dd77ef812a3 | -9.2056 | -48.6608 | 2024-10-01 03:47:00 | NPP-375D | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| f90be750-f567-33a1-a3da-900868b90ba2 | -9.20463 | -48.66597 | 2024-10-01 03:47:00 | NPP-375D | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 0fce7558-685a-32a7-8c88-dcf3bfeba9d6 | -8.77366 | -46.82116 | 2024-10-01 03:47:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| ae3b4375-4551-3948-a3d1-8d1e92bccef6 | -8.76816 | -46.82035 | 2024-10-01 03:47:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| c84bb095-8cb9-37cc-862b-43b95059d23f | -8.75157 | -47.12868 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 419bcbf3-d778-3eed-a026-1ae3bca5048f | -8.74529 | -47.13147 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 8cc46642-e71d-3ba9-867f-423c70b3cad6 | -8.7446 | -47.13524 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2ddd10ef-86fb-314d-a33a-94ce4d44ddf6 | -8.55056 | -49.60806 | 2024-10-01 03:47:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 8e29168f-acb3-3b97-9f58-e38b961b3ba7 | -8.46191 | -46.85646 | 2024-10-01 03:47:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 6b5decfa-7ddb-3734-bc81-46ad64221c7b | -8.43684 | -47.13597 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| d78b0b6f-26aa-3ece-b17e-dd7a7f9f1895 | -8.43612 | -47.13977 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 206abf2e-c732-309f-9631-6db905e0f2d4 | -8.43538 | -47.14368 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e9b17451-85b0-3aa6-b000-f256f6507375 | -8.43314 | -47.14122 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 5965a1dc-ac5d-3b64-b54a-fb69b22bba68 | -8.43244 | -47.14509 | 2024-10-01 03:47:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 57253069-bcc3-34e0-82b5-2a99a4fae60c | -7.7383 | -49.21368 | 2024-10-01 03:47:00 | NPP-375D | ARAPOEMA | TOCANTINS | Brasil | 1702307 | 17 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 409f0284-a978-3ba4-9b35-afd2281d46c0 | -7.29176 | -44.97781 | 2024-10-01 03:47:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0263f179-3f5f-3d8d-ba5a-113cd9d777fe | -7.0967 | -44.46744 | 2024-10-01 03:47:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 3477260c-fa7d-3dba-977f-ac0458c5ea9c | -7.0955 | -44.46909 | 2024-10-01 03:47:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| dab84a41-746f-3933-a34a-417c6a5a98f3 | -7.09108 | -44.54981 | 2024-10-01 03:47:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 059136cc-3785-3a7c-83fd-4ab40a72576f | -6.97649 | -47.61619 | 2024-10-01 03:47:00 | NPP-375D | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| c9d414e2-b218-3760-a510-ec2a881c06b5 | -6.9757 | -47.62046 | 2024-10-01 03:47:00 | NPP-375D | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 2c3ddccd-ef97-378b-b500-dddac10d9692 | -6.69185 | -44.53873 | 2024-10-01 03:47:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 70c18928-a0ab-39f3-b681-8038bafe4d93 | -6.687 | -44.53785 | 2024-10-01 03:47:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5eb711ac-bc55-3ccb-802e-77372c2db2c2 | -2.72448 | -46.72315 | 2024-10-01 03:47:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 392580b5-9650-3150-83b4-0d155c9219a4 | -2.71849 | -46.72209 | 2024-10-01 03:47:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 995caee8-7103-391e-8386-2fc640f2bdaf | -23.0793 | -45.3951 | 2024-10-01 03:47:12 | GOES-16 | TAUBATÉ | SÃO PAULO | Brasil | 3554102 | 35 | 33 | nan | nan | nan | Mata Atlântica | 74.3 |
-| 4ff9eff1-65e6-3da7-8770-a4e277761475 | -10.99296 | -46.52359 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 0a2e8121-8cd1-3c68-9fd6-3704671e0fac | -10.99239 | -46.52666 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| bd276928-0d2c-38d0-8f7e-b2ff2fecc27d | -10.99181 | -46.52976 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 31e702a2-5ef4-35ac-8a49-18d07a5bcf68 | -10.99026 | -46.45256 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 7ec1e268-beb5-390e-b965-68acb244ae20 | -10.99009 | -46.51041 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 179156d7-b5ae-31f2-94b3-2fc0ee3ab13d | -10.98961 | -46.45601 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 7bfe97dd-fc52-33e5-bb53-581673197792 | -10.98837 | -46.51957 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 8657bc1e-9149-3aa7-b7db-63e0cc5837c6 | -10.9878 | -46.52264 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 424e3f4b-fa19-3f85-93fc-3a3649e7b2a8 | -10.98722 | -46.52571 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 869ac25e-704c-3d2f-94fe-37f943ad619d | -10.98665 | -46.52881 | 2024-10-01 03:49:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 1f82e291-2be9-350d-85ad-df9180904f88 | -10.7108 | -69.415298 | 2024-10-02 02:12:18 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 134b554d-a0b6-3a37-af2e-83faa569ab4b | -10.6918 | -69.378197 | 2024-10-02 02:12:18 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 4ad43911-8d12-3146-a5bd-6bd5449a83de | -10.6936 | -69.386101 | 2024-10-02 02:12:18 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 52de32cd-72cc-342b-b571-38a661e22fe8 | -10.5406 | -69.305298 | 2024-10-02 02:12:20 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| d5327541-03ab-388d-9ab3-21d15f295158 | -10.5425 | -69.313202 | 2024-10-02 02:12:20 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| e9c73649-fede-311a-81ca-dd47fcb05125 | -10.5309 | -69.307602 | 2024-10-02 02:12:20 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| e90292ff-f6df-316d-8b51-b37b3203da72 | -10.5328 | -69.315498 | 2024-10-02 02:12:20 | METOP-B | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| ea3e1b58-d4de-3df0-867a-08d02cf89d92 | -9.9137 | -66.832497 | 2024-10-02 02:12:21 | METOP-B | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 6ab49f24-7ef0-3cb7-a0e7-c88da55f2d43 | -9.9164 | -66.843498 | 2024-10-02 02:12:21 | METOP-B | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 34bf3831-8405-3331-b511-876da8a42f5e | -10.1256 | -67.890503 | 2024-10-02 02:12:21 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| d6c49d16-709c-31dd-bc44-57d08dcfbbbd | -10.1038 | -67.885696 | 2024-10-02 02:12:22 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| b85504ae-fa48-3ede-9b5f-0f95cf4d3ba8 | -10.2675 | -68.754402 | 2024-10-02 02:12:22 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 27dce9d7-7ac7-30e5-9dab-0444ec9df33c | -10.2695 | -68.762802 | 2024-10-02 02:12:22 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| b041a7ec-73d5-3219-beca-56fbbe8f75ec | -10.0622 | -68.014999 | 2024-10-02 02:12:23 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| c5bf2a42-5193-35bf-afa6-58ab24c972e0 | -10.0644 | -68.0243 | 2024-10-02 02:12:23 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 4141004e-c47d-3619-9d6a-9c45493f8457 | -9.2004 | -64.592598 | 2024-10-02 02:12:23 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| f13af7c4-f49e-35ba-b4a7-939366ff3ae5 | -9.5841 | -66.493202 | 2024-10-02 02:12:25 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| e91af7fe-a36e-3a0b-8ec9-a86b2e252ba1 | -9.5869 | -66.504898 | 2024-10-02 02:12:25 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 08a5afd4-47d7-3ae6-a0cf-b31acfd02a1e | -9.2901 | -65.330902 | 2024-10-02 02:12:25 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 6bf9646b-075f-3838-9ca8-48a5b44b1202 | -9.2936 | -65.344902 | 2024-10-02 02:12:25 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| e78e7f8e-5207-397e-a449-50fe423445fd | -9.5411 | -66.614304 | 2024-10-02 02:12:26 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 33e980a7-fdbf-351f-90e9-51f27a693ac0 | -8.4604 | -62.709999 | 2024-10-02 02:12:28 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| be1f6a2d-2117-32fb-83a2-7768aabe1bae | -9.631 | -67.460999 | 2024-10-02 02:12:28 | METOP-B | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 74555526-71cf-32f1-9858-6e0c006840e5 | -8.4507 | -62.712502 | 2024-10-02 02:12:28 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| c9ab6cf1-8de4-3543-8c15-d84ae63a01d0 | -8.4563 | -62.734299 | 2024-10-02 02:12:28 | METOP-B | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 65debe2b-0c79-38c6-89af-6a0a87f99763 | -9.4922 | -67.096802 | 2024-10-02 02:12:29 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| fcf6f469-8f51-34f6-a5df-74133d15c0c6 | -9.4948 | -67.107498 | 2024-10-02 02:12:29 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 3c50c5a6-404b-3be8-90dd-a2023550cf87 | -9.7581 | -68.519501 | 2024-10-02 02:12:30 | METOP-B | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 1b39f89d-5383-3d8c-ba2f-73ee7d410b84 | -9.5348 | -67.706596 | 2024-10-02 02:12:30 | METOP-B | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| b5c888bf-806c-3526-93e5-9c3faebea769 | -9.6688 | -68.797997 | 2024-10-02 02:12:32 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| c7447098-7eae-3305-9e0c-c05fa127fb29 | -9.6708 | -68.806602 | 2024-10-02 02:12:32 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| f8841ea2-4510-3734-83a4-622ba4fca95c | -9.6728 | -68.815102 | 2024-10-02 02:12:32 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| e3e6e5ab-6079-3447-8a81-4b12967058b5 | -9.3062 | -67.656799 | 2024-10-02 02:12:34 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| b1f60fa2-42c3-3667-ab48-3786880cd3c7 | -9.27 | -67.591202 | 2024-10-02 02:12:34 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 8caeb7f0-95d8-3937-b662-de210f361ee6 | -9.2724 | -67.601303 | 2024-10-02 02:12:34 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| e6ba4ff3-0783-397e-a258-4a54b1250e4d | -9.2602 | -67.593597 | 2024-10-02 02:12:34 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| b9b1d431-b347-3c21-8492-19076d35bf57 | -9.2626 | -67.603699 | 2024-10-02 02:12:34 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| c5a5bc0f-e93d-3f6f-860f-5c9b16b344e7 | -9.4797 | -68.520401 | 2024-10-02 02:12:34 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| c87aba2f-4405-3439-928d-0c19be987190 | -9.47 | -68.522697 | 2024-10-02 02:12:34 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 31fc5eb2-985c-3fee-820f-12753170b2a5 | -9.456 | -68.507202 | 2024-10-02 02:12:35 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| d9a5edf5-73e7-375a-8b08-8e2068150654 | -9.4581 | -68.516098 | 2024-10-02 02:12:35 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| a46b5384-36a5-33fd-94e5-4b5e7ece8008 | -9.4602 | -68.525002 | 2024-10-02 02:12:35 | METOP-B | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 33626245-1091-31d7-a405-38bd642b66d7 | -9.2829 | -67.819199 | 2024-10-02 02:12:35 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 4db74b97-25d3-3b16-8594-abec6cbc33aa | -9.3842 | -68.246597 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 4bf2d235-43e5-34dd-9d71-ede0d1397293 | -9.3864 | -68.255798 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| db1a7259-6c15-3ea3-8f53-0eefcd646f05 | -9.3951 | -68.292603 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 4b1d7727-0805-37db-8ba2-ca9f7d7ff4f5 | -9.3972 | -68.301697 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 38fb8657-18e5-3da7-a436-fa2e1f45b00c | -9.2732 | -67.821602 | 2024-10-02 02:12:35 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 094f2c91-1c87-37fd-a1bf-29daef279542 | -9.2755 | -67.831398 | 2024-10-02 02:12:35 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 2a79a313-4b14-35e6-ad28-4052a6b525a9 | -9.2778 | -67.841202 | 2024-10-02 02:12:35 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| aa7224d5-ab7e-3df6-871e-62dab7742e56 | -9.3515 | -68.195702 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| ff9de6b5-5d83-374a-9f99-0ff7bb08cd3c | -9.3722 | -68.327003 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| f705458b-8cfa-3a01-8890-7ed3f3032408 | -9.3744 | -68.336098 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 9f2be01e-e9de-3bbb-b664-405ea145d2a0 | -9.3765 | -68.345299 | 2024-10-02 02:12:35 | METOP-B | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| ed1ee1ff-6734-3623-a1f7-1426b92851c1 | -9.2104 | -67.774399 | 2024-10-02 02:12:36 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| dfc11953-9bcf-3406-9fdd-b30cd9ed4982 | -9.0945 | -67.547699 | 2024-10-02 02:12:37 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 1492ac8b-885e-3d31-a3bb-808d955a9e3c | -8.9214 | -67.039803 | 2024-10-02 02:12:38 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 296af612-e816-33fd-98ad-f739245fcacf | -8.9937 | -67.341698 | 2024-10-02 02:12:38 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 7d3f93d2-eb00-3b2c-aed9-2e775edc14c7 | -8.9962 | -67.352203 | 2024-10-02 02:12:38 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| ee90c1a9-ce7f-374b-8968-4ea4639b73d9 | -9.1866 | -68.284103 | 2024-10-02 02:12:38 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 8ca079ed-9dc4-3011-84c1-33554170464e | -9.1769 | -68.286499 | 2024-10-02 02:12:38 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 31d76a6f-07ed-3dd4-b7ad-7564ac31e2e3 | -8.7656 | -66.606697 | 2024-10-02 02:12:38 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 389b75f3-29a8-3bd0-a6d6-d463e0c49de5 | -8.7559 | -66.6091 | 2024-10-02 02:12:39 | METOP-B | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 372d8e28-46e2-3cfe-95b8-cb27b81c07b4 | -8.911 | -67.383904 | 2024-10-02 02:12:39 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 7756add9-fefb-32fe-aeac-fa12ca3fed5c | -8.755 | -68.905502 | 2024-10-02 02:12:47 | METOP-B | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 8ee7c4df-1ea0-3ac6-bd17-448a589d6a39 | -7.6364 | -67.185097 | 2024-10-02 02:12:59 | METOP-B | PAUINI | AMAZONAS | Brasil | 1303502 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 53275526-375b-31ba-9357-5ed99048304e | -7.6391 | -67.196404 | 2024-10-02 02:12:59 | METOP-B | PAUINI | AMAZONAS | Brasil | 1303502 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| ed888a7f-6977-3999-8e94-bf2e25eabbdd | -7.2163 | -72.3078 | 2024-10-02 02:13:25 | METOP-B | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| dec572f2-2a05-3f89-b1d4-2a608c9f7678 | -7.2178 | -72.314697 | 2024-10-02 02:13:25 | METOP-B | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| e4279280-6bf8-3d66-b0b4-9365e023097c | -6.1301 | -47.2664 | 2024-10-02 02:15:41 | GOES-16 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 77.7 |
+| bef31dff-f8d3-315e-ac6c-efccd241d35c | -7.1796 | -46.9444 | 2024-10-02 02:15:46 | GOES-16 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 66.9 |
+| fb162b9f-b1d8-3e22-ac88-9ea98e24dcc7 | -8.4642 | -62.7313 | 2024-10-02 02:15:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 56.0 |
+| 1a621b9b-9329-3759-b8c8-07122261cde1 | -8.4643 | -62.7124 | 2024-10-02 02:15:54 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 73.4 |
+| a6de3b5a-7f03-3428-bc06-d8d810e98acc | -10.0802 | -46.8337 | 2024-10-02 02:16:03 | GOES-16 | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 56.7 |
+| cb8074e8-f3af-31d0-bcf5-c4324662b559 | -9.9367 | -64.9179 | 2024-10-02 02:16:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 124.5 |
+| 06e2d392-c2d5-3ed8-b4ee-34dfb3d52b4b | -9.9368 | -64.8991 | 2024-10-02 02:16:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 96.7 |
+| ddfb1b7c-fda9-3a7e-863a-69a28610fcc4 | -9.9553 | -64.9172 | 2024-10-02 02:16:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 96.1 |
+| 0123eeb8-bddf-30a1-a67c-fecd9bf23fb3 | -9.9554 | -64.8984 | 2024-10-02 02:16:03 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 81.5 |
+| 230ca39c-5861-36bb-9b8d-8ddb8d645d63 | -11.6742 | -65.0172 | 2024-10-02 02:16:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 74.2 |
+| b11cba2c-b43a-3e76-8822-10201e19da3c | -11.6743 | -64.9983 | 2024-10-02 02:16:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 113.3 |
+| a0276518-1fb0-3b8f-9bcd-6addac2a921b | -11.6554 | -65.018 | 2024-10-02 02:16:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 08f4eb8e-9892-30f7-9a4a-5aafab879f02 | -11.6555 | -64.9991 | 2024-10-02 02:16:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 59.5 |
+| 51c013d0-47a5-3ce2-b89a-af71c0539bd3 | -12.4433 | -43.7242 | 2024-10-02 02:16:15 | GOES-16 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 73.6 |
+| afc39e55-7c3a-31f3-bec8-cc36a6096785 | -12.2946 | -47.6446 | 2024-10-02 02:16:15 | GOES-16 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| b9f3819a-de3a-31a9-8dc4-f46dfc02ad88 | -12.7054 | -63.0798 | 2024-10-02 02:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 56.5 |
+| d4a9e546-d757-3234-8b8e-22722f7f2b47 | -12.6486 | -63.1022 | 2024-10-02 02:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 41.7 |
+| bc816c05-93d3-3107-905d-586bd25373ed | -12.6484 | -63.1214 | 2024-10-02 02:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 102.1 |
+| d5d6b2fd-fd11-36af-8637-d9e37e5cdcdb | -12.8615 | -62.5129 | 2024-10-02 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 7b2acea9-7328-37b4-9a48-b21647568ab9 | -12.8614 | -62.5321 | 2024-10-02 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 170.6 |
+| 2adaea19-33e7-35dd-8bcc-ab433de74cb0 | -12.8612 | -62.5514 | 2024-10-02 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| e630088b-ac45-355f-9e8c-bb9f98ba3387 | -12.8593 | -62.7826 | 2024-10-02 02:16:19 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 55.5 |
+| 7aabfa07-1b7a-3791-bddc-16358b6406f5 | -12.8426 | -62.514 | 2024-10-02 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 47.1 |
+| 11df57f8-3183-3522-8232-42ee859f21da | -12.8424 | -62.5333 | 2024-10-02 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 161.9 |
+| 5970b930-bb9f-3130-9099-d59dc863d6bb | -12.8423 | -62.5526 | 2024-10-02 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 110.2 |
+| 202b0506-23ef-3f3d-843e-d718858da7db | -12.9548 | -62.6806 | 2024-10-02 02:16:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 93.1 |
+| 8ed542ad-9420-3598-9008-d4049530cc4c | -12.9546 | -62.6999 | 2024-10-02 02:16:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 86.5 |
+| 218ae03a-1615-3660-9a75-7c778645bab5 | -12.9358 | -62.6818 | 2024-10-02 02:16:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 44.8 |
+| b2e0818f-74e7-38df-b5ac-34dbeb7439ee | -12.9357 | -62.701 | 2024-10-02 02:16:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 73.8 |
+| e5793ced-3e78-3f2a-83d8-08ac678b3db8 | -13.5965 | -51.1367 | 2024-10-02 02:16:23 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 69.9 |
+| ae84b590-3f67-38c8-840f-5353334e7222 | -14.5699 | -44.8351 | 2024-10-02 02:16:27 | GOES-16 | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 54.2 |
 
 
 [Clique aqui para ver as próximas entradas](README44.md)
