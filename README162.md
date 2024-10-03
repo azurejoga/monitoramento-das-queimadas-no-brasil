@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3c8a96da-d73d-3201-92c7-52ec84d1c50d | -22.38926 | -49.29239 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 370d2551-aaab-308f-8894-6c94bc5d221b | -22.38885 | -49.29729 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
-| cdd5c716-4cbb-3c4e-9d80-3e8344891d2d | -22.38844 | -49.30235 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
-| 1011e918-fa6f-3e3c-985f-a45fb24f401a | -22.38801 | -49.30744 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| 378a2a06-db0d-32c7-a280-c38ff303b5d5 | -22.38759 | -49.31256 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| f244c301-4813-3152-b076-6fdce5f1e89a | -22.38397 | -49.28197 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| 76277e4b-e3d6-3274-afdc-cbe1d2901cac | -22.38359 | -49.28658 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 7e0a7300-a72d-3b68-a8b2-f657728b704c | -22.38319 | -49.29144 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 6813b769-b425-3f31-b837-9c9a6cf1e90e | -22.38278 | -49.29643 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.6 |
-| 0d27f3bb-dcd1-3f5a-9bec-188814081cc6 | -22.38236 | -49.30143 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.6 |
-| 6a1656f8-392a-32db-bbc1-709f2bfdf76f | -22.38195 | -49.30646 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
-| fbf1be73-5c0b-326a-9e13-428a7319f24b | -22.38153 | -49.31153 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
-| 60100dea-9326-3ec8-9d56-edcb2d7f1bcc | -20.94957 | -49.11126 | 2024-10-02 05:14:00 | NPP-375D | TABAPUÃ | SÃO PAULO | Brasil | 3552601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 96bcdc7e-3bae-3dfc-85fb-12258977a5cf | -20.94915 | -49.11601 | 2024-10-02 05:14:00 | NPP-375D | UCHOA | SÃO PAULO | Brasil | 3555604 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| bcbe5955-69c4-3019-8345-27322be46593 | -22.37788 | -49.2812 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| e5fd1023-5b70-3e66-b7c8-ffd6e4767942 | -22.37759 | -49.27772 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.5 |
-| 48b89f45-8f07-3341-842a-c9669e88f991 | -22.37751 | -49.28569 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| f782670c-b0bb-35b4-b7eb-059bb436922d | -22.37718 | -49.28232 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.5 |
-| ffb431dc-8708-392a-a84c-7ee53429b76f | -22.37711 | -49.2905 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 01c15c21-6c0f-3235-8c0a-25c1f7c9cc46 | -22.37678 | -49.28686 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.4 |
-| 74cafa16-1b65-31c4-86ec-9fd0ed68e547 | -22.3767 | -49.29555 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.6 |
-| 490f6ad1-6793-33c6-9e50-c95f343e8f39 | -22.37634 | -49.29176 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.4 |
-| 6dd21240-8fce-367a-9106-04cf7104c4d2 | -22.37629 | -49.30051 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.6 |
-| 2f30a2e3-c098-3514-91fd-78a653908b38 | -22.3759 | -49.29678 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.6 |
-| 46442f59-bbd7-3232-9831-a039e1f00190 | -22.37588 | -49.30548 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
-| 9dd445be-5e4e-3a72-908c-5fbca38cf1bb | -22.37546 | -49.30172 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.6 |
-| 71fbd4f4-18c9-3801-929f-fa933bdbe7ea | -22.37502 | -49.3067 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| 85bf6258-86e3-3dbe-9c0f-328b1872a68f | -22.37219 | -49.27552 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| 7bbcd2f9-1eb7-3a4f-8399-afdc7dc1797d | -22.3718 | -49.2803 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| c2b6754c-57d0-3ff2-8f44-898436e56e2d | -22.37152 | -49.27677 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.5 |
-| 2fad0078-866a-3283-83ef-b8d2e3f861ba | -22.37142 | -49.28489 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.4 |
-| 55b1de4f-0c03-3ec6-8b69-b5a45352539f | -22.3711 | -49.28148 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.5 |
-| 3bbb2869-f9a8-3303-b41c-e589a4926e15 | -22.37103 | -49.28966 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.4 |
-| dc9e264c-7ba1-376d-b830-d679e5422198 | -22.3707 | -49.28608 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.4 |
-| 2c9c912b-ee23-3211-bbdf-9f5a668d38b8 | -22.37062 | -49.29466 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
-| 955dfa7e-6c7e-3c8f-bc6b-5a8ff2486f9b | -22.37027 | -49.29094 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.4 |
-| ff67072a-af84-37f2-95ad-00f61fa3f570 | -22.37021 | -49.29965 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
-| 35353040-fc2a-3aae-9927-e8c5075bb9c7 | -22.36982 | -49.29596 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.6 |
-| 8c485d4f-d846-338e-907b-44a4b85e8ff0 | -22.36981 | -49.30463 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| efb17b9e-3582-3157-b891-b7907c8d307f | -22.36938 | -49.30093 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.6 |
-| 7105a322-ead5-362b-8c83-29daa6aed448 | -22.36573 | -49.27929 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| e3bf0c67-9a4c-32ed-a187-f2ebdfdd1478 | -22.36534 | -49.28406 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.4 |
-| 085f4288-2426-3bd6-a8b4-351603931c1c | -22.36503 | -49.28053 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 2ac65e9c-e432-307a-8296-3204dd3e4d2e | -22.36494 | -49.28899 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.4 |
-| 20cafef2-68a9-346a-9137-385be929a48a | -22.36461 | -49.28531 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 82073b67-96ab-35cf-a9a3-06388af8add1 | -22.36451 | -49.29421 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
-| e1f1f885-f182-34ad-84b9-eb2e37bb30bc | -22.36417 | -49.29036 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 4ccbed3d-ba36-32d3-8a0c-2ccef010addf | -22.3641 | -49.29929 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
-| 2fb06243-e70c-3f36-a65f-e1df7babcfad | -22.3637 | -49.2956 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| 5abd30da-9713-32de-9479-a7f967e1ef49 | -22.36328 | -49.30929 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 18483527-b4b5-3e90-b97d-8bbe2c06441f | -22.36326 | -49.30061 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| f7ebba72-49e7-34e9-87a5-2475d50c26cb | -22.36282 | -49.30557 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| a478d023-125c-37d4-bfe2-37efcdb22a17 | -22.36238 | -49.31058 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| c6acaaff-f74e-39c2-accf-8b3679b7c206 | -22.36062 | -49.33054 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
-| 433e6d38-cdb2-3f3d-8c96-d0fa875dfa63 | -22.3584 | -49.29377 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.7 |
-| e292f9ec-93b1-3ce1-b73e-e39aacfbedb4 | -22.35805 | -49.28992 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 3700052d-a95b-33f7-80df-5123e14e4a24 | -22.35799 | -49.29885 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.7 |
-| 57362a01-6b86-3954-944b-872250b9828b | -22.35759 | -49.30378 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 12.1 |
-| a93d175d-1244-3e43-8a19-7b948783aad8 | -22.35759 | -49.29518 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| 46fd157c-82b0-3607-808d-d9076a9574ca | -22.35719 | -49.30866 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 12.1 |
-| 335c32f5-54a3-351a-9fb3-4acf5baeb0ed | -22.35715 | -49.30017 | 2024-10-02 05:14:00 | NPP-375D | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| 239b3123-3f79-3c12-b0df-0c511ccc6d2a | -22.35672 | -49.30509 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| 83ab0b4b-b7cd-361b-9318-6dacf72e31e2 | -22.3563 | -49.30991 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| 31bc59da-b69d-33d9-9b7c-8af2562339c7 | -22.3556 | -49.32821 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| bb8edc6f-d37b-3812-b262-2c10311cf2a9 | -22.35518 | -49.33337 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 780de838-3c3d-3573-8ac7-282f75ad0d17 | -22.35458 | -49.32946 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
-| 594d8f53-0d73-361e-8914-6292920211fc | -22.35413 | -49.33459 | 2024-10-02 05:14:00 | NPP-375D | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 74896f22-0a13-314b-8a41-b5d34fc82550 | -22.23121 | -49.63319 | 2024-10-02 05:14:00 | NPP-375D | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| a578817b-d251-3cb7-af74-62bc1c703d7f | -22.22911 | -49.63187 | 2024-10-02 05:14:00 | NPP-375D | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| fae9067f-4cbd-3b0d-8a3c-6fdce7c92802 | -23.1713 | -49.59827 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| a9e70eea-f0ad-345c-8d5a-596f81def3b0 | -23.17099 | -49.60218 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
-| be2a86b2-c6f9-3a8c-97a5-be218c972213 | -23.16964 | -49.5973 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 269230f7-d053-3a04-9aaf-4c182ca1a282 | -23.1693 | -49.60133 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| acb1ca28-437d-3b1f-b2db-374789552868 | -23.16528 | -49.59752 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| 8399b15a-9ec9-35b7-946c-1dc0c7c86ddd | -23.16492 | -49.60205 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
-| 97f1752f-cc1b-3bbb-9f67-cf81c85b5ccf | -23.16364 | -49.59634 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 48a162de-5f30-3d25-9eae-7bfc7afb3b21 | -23.16323 | -49.60109 | 2024-10-02 05:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 504141d8-72d3-3a99-8c07-989be84ca4ad | -25.03248 | -50.72201 | 2024-10-02 05:14:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 2a2651c6-8243-3cf0-8bb6-f5b557360966 | -25.02674 | -50.72128 | 2024-10-02 05:14:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 9d529f1f-181a-3f0a-abaa-1bc510c2a670 | -19.26648 | -50.84279 | 2024-10-02 05:14:00 | NPP-375D | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| bd8813ce-7dfa-38b3-834f-03281f61f571 | -19.2661 | -50.84624 | 2024-10-02 05:14:00 | NPP-375D | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 050ace40-13ee-3918-86ae-8ed6cf64ecbd | -19.26454 | -50.84198 | 2024-10-02 05:14:00 | NPP-375D | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 388b9909-ff7f-3173-8b6c-e7fbbae4b7a1 | -19.26419 | -50.84545 | 2024-10-02 05:14:00 | NPP-375D | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| d33860d8-8f74-325e-8c79-9d740b7f141d | -18.87698 | -50.86414 | 2024-10-02 05:14:00 | NPP-375D | CACHOEIRA ALTA | GOIÁS | Brasil | 5204102 | 52 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 732c92ee-79a5-3b56-9f49-48afc38552e9 | -19.69829 | -51.10423 | 2024-10-02 05:14:00 | NPP-375D | PARANAÍBA | MATO GROSSO DO SUL | Brasil | 5006309 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 490188df-709c-3aff-9d10-6819425b3a5e | -23.53478 | -51.13474 | 2024-10-02 05:14:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| d572eb31-22d6-3185-b0a2-0c350379ecab | -23.53441 | -51.13868 | 2024-10-02 05:14:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| f7efc159-ded5-3de9-a283-1712e4d86067 | -22.63132 | -51.53284 | 2024-10-02 05:14:00 | NPP-375D | NARANDIBA | SÃO PAULO | Brasil | 3532207 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| bdcb2c02-444f-32e3-b5ec-d8aa9ae44a35 | -24.73997 | -51.09049 | 2024-10-02 05:14:00 | NPP-375D | CÂNDIDO DE ABREU | PARANÁ | Brasil | 4104402 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| fb2b5bf4-8e98-3ef2-bd73-a0dd9fa009ab | -24.73436 | -51.09006 | 2024-10-02 05:14:00 | NPP-375D | CÂNDIDO DE ABREU | PARANÁ | Brasil | 4104402 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| e9bb331f-d2ad-3fc6-b9e7-c8868de8a392 | -25.61554 | -51.34997 | 2024-10-02 05:14:00 | NPP-375D | GUARAPUAVA | PARANÁ | Brasil | 4109401 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 424ffb9d-85d1-3752-92fa-f0146580772e | -25.60996 | -51.34951 | 2024-10-02 05:14:00 | NPP-375D | GUARAPUAVA | PARANÁ | Brasil | 4109401 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| d6371067-85d5-36f7-9b72-f75aa9b76033 | -21.34246 | -55.69497 | 2024-10-02 05:14:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 19084ad8-6b04-3e9b-9a40-45cce0c31952 | -21.34177 | -55.70032 | 2024-10-02 05:14:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 4d726a39-7bb4-3a81-96ee-0eefe41992c7 | -21.33847 | -55.69429 | 2024-10-02 05:14:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 757a2d3b-cd83-3cd6-93e2-5c6b786ff268 | -18.89448 | -54.50663 | 2024-10-02 05:14:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 5f9e5791-7a7c-3d22-97c0-19a896906c24 | -18.89082 | -54.50198 | 2024-10-02 05:14:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 647df727-dc98-3c23-a44b-e3d10181cd72 | -18.89031 | -54.50599 | 2024-10-02 05:14:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| e2353aaf-cd43-3c4c-adac-d7cd6e5e98ec | -18.86794 | -54.51505 | 2024-10-02 05:14:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2335eb5f-082a-3ff2-a56c-56cd3322c055 | -18.86747 | -54.51888 | 2024-10-02 05:14:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7edf0628-c182-3e5b-a33b-a0b3a4517124 | -12.5347 | -53.11843 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 790190a4-1f1b-3f09-90ee-5efe29d114a5 | -12.53136 | -53.10812 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d6587992-f1d4-30fd-8e2f-d00682f0dc09 | -12.53007 | -53.11781 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e7cf1b14-15cb-39ac-b87a-9da0d2a2f425 | -12.49914 | -53.13842 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 190f5144-3b21-3ec8-8537-e2a2940bcf65 | -12.49849 | -53.14339 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| aaa32788-e32a-33aa-b223-624d6bc824ab | -12.49452 | -53.13778 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 426975ee-4ab2-313f-a8d2-0c77813579c5 | -12.49388 | -53.14276 | 2024-10-03 05:16:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f14a9794-6a4c-37df-a472-5c13a4a76d53 | -10.52602 | -54.59597 | 2024-10-03 05:16:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 74d8a8ca-8bb8-3fbf-9675-26f79097900d | -10.52194 | -54.59544 | 2024-10-03 05:16:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2e994c08-9785-348c-8c48-e6d0902a431e | -10.52185 | -54.59501 | 2024-10-03 05:16:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a2b79126-8374-3db9-83d0-0e1a1d0efee9 | -10.52142 | -54.59904 | 2024-10-03 05:16:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8ce32d76-ae43-3fd5-ade8-6b6dc25466d5 | -10.52136 | -54.5986 | 2024-10-03 05:16:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 05a9973e-b0a4-3497-ba76-c12ad38c30ab | -10.44885 | -54.70248 | 2024-10-03 05:16:00 | NOAA-20 | TERRA NOVA DO NORTE | MATO GROSSO | Brasil | 5108055 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 39599a00-ac41-35c1-b91f-eccd809601c3 | -9.6352 | -53.57964 | 2024-10-03 05:16:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 513e2363-5276-3452-a27d-9f10cb117ef0 | -9.58637 | -54.63768 | 2024-10-03 05:16:00 | NOAA-20 | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 350eab72-95d5-37b7-a25f-175ac0d752cb | -12.31976 | -54.11217 | 2024-10-03 05:16:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 9fce5173-1f46-3648-b0ff-c505fb770e2a | -12.31783 | -54.10936 | 2024-10-03 05:16:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d0d4bae0-d3df-3327-a501-acdb3bc85b3b | -12.15106 | -54.26919 | 2024-10-03 05:16:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 53fb92ef-0620-3521-8a8a-6f71d1d8c25f | -12.1505 | -54.27328 | 2024-10-03 05:16:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| fe9822b9-97ba-380e-839d-0ae2d6f7da39 | -12.14737 | -54.26449 | 2024-10-03 05:16:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 776d4150-05ec-3365-8d1d-64052363fd1c | -12.14681 | -54.26859 | 2024-10-03 05:16:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| af75d451-b7a3-310c-9c40-17355e4ef938 | -12.14625 | -54.27267 | 2024-10-03 05:16:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 508727f1-0b37-3afa-b8e8-0edf1ef7fb4f | -11.10188 | -54.22081 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0405d746-a0c2-3e97-bcb8-cbb06d579ee3 | -11.10134 | -54.2247 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| cc8fa041-a160-35e3-bd58-2972bbf6af06 | -11.10079 | -54.22857 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e1d6f9bb-6531-311a-bfd7-02afbcfab287 | -11.09769 | -54.22014 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c1bd7f9b-3666-302d-a07b-0a4bd58e3c9e | -11.09715 | -54.22402 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2410f022-6a66-3b87-95d4-34be3cd86c9f | -11.0966 | -54.2279 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 329160be-4fb2-369b-a82f-a5b4ee478da8 | -11.09606 | -54.23179 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a6c84222-9efc-3b68-958d-47b0eb422ec7 | -11.03061 | -53.99257 | 2024-10-03 05:16:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| d5925534-6dd7-3dfd-898d-abd6a7395da0 | -7.61472 | -55.16556 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2e887b43-15e2-3559-b8ac-cb9db4776da8 | -7.44986 | -55.41484 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5ebef974-0598-3b08-bb8d-0cbd325db861 | -7.44615 | -55.41426 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ce015071-0432-39be-9827-394404782452 | -7.4419 | -55.46801 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 22ed7ba7-8ea9-3153-bd36-56d88bfd2e6d | -7.4382 | -55.46748 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 8cb4c724-154e-3a3f-8bd3-5e717f8497c1 | -7.40576 | -55.43096 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ba7d24db-ee7e-3b60-ad6b-364c75450d8f | -7.40271 | -55.42595 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c456f2c3-f37a-3472-a67a-9229a68a0585 | -7.4014 | -55.43483 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0a40fb29-bd07-3259-91e3-cc1be9b073f8 | -7.37564 | -55.50745 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2f1c6c90-2e01-30d8-b24e-659109db7a62 | -7.37499 | -55.51184 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 83948307-981d-328f-ad4a-600648969e0a | -7.3373 | -55.08184 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 9a635da1-cd9d-3992-9653-b349e4466835 | -7.33352 | -55.0813 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 936f8132-459c-3ce8-bdc5-58d1841bb1a4 | -7.32974 | -55.08075 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4949cc75-c4f4-38c8-8450-a190e2632b0e | -7.32908 | -55.08527 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 3da8f6f4-4bd4-3f40-b0ee-3a944cbe42c5 | -7.31164 | -55.30971 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a76f30df-0c67-3507-b27e-6e33170fed71 | -7.30791 | -55.30914 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| acc04dfb-a7bf-3954-a2cd-89d0b97319c1 | -6.99836 | -55.12668 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 7d8c7d80-b1b7-3090-a110-1ee1a804b306 | -6.90087 | -55.054 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0208ac52-2f12-3bfa-88e9-9165e3ed69fe | -6.86708 | -55.1204 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| d19a1fb2-9dfd-3494-9152-ada88d8aafab | -6.86639 | -55.12493 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0c6a00d3-a7b4-3517-a59c-461a2220dada | -7.91385 | -54.75076 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| cafc972a-b631-3629-9d72-4627c2694fa8 | -7.91316 | -54.74942 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ebad5594-fb64-317a-a67e-b9d9e98d2649 | -7.91315 | -54.75568 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 143f7429-be2b-303f-ab1e-55edab840827 | -7.91243 | -54.75434 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1d4998b2-fedc-3e00-a303-befa4743fc8c | -7.91067 | -54.74527 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2b25683b-34ab-3232-80ee-a7ec85e7d82f | -7.90996 | -54.7502 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1fc71ac6-37ff-3aeb-bd21-e5e5aed59878 | -7.90928 | -54.74887 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 00355c0b-147e-35a1-86e7-532d78978526 | -7.90926 | -54.75513 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f5cd240a-086e-3cf5-ae2f-7b8e8079e34f | -7.90854 | -54.75379 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 35946854-6fde-3edf-9b20-d545a07379ef | -7.90608 | -54.74964 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 4e1b68e7-1ce1-3745-8e3c-c26c035c69bd | -7.90467 | -54.7595 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b21d7fc8-2ccd-35ce-8fe4-76e1262e2eae | -7.90465 | -54.75325 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 1096ddab-b3c7-3bba-a599-29d87be7a03d | -7.90392 | -54.75816 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 6e04ceae-1a3b-3135-86a4-7bf619ab3645 | -7.90149 | -54.75401 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 055f068a-7169-34f8-a1ce-29caf78abb5a | -7.90079 | -54.75893 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 163adc75-bace-33c5-92fa-61bab2ca9f63 | -7.90077 | -54.75267 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5448ac9e-c339-30c4-8f73-6069d104edf8 | -7.90004 | -54.75759 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 184c7c2f-ac89-3342-87ab-b1cd600c2130 | -7.89689 | -54.75211 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| efff5179-a773-35ad-83dc-1a5c8226f518 | -7.89616 | -54.75701 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| af162a4d-5020-3033-ae58-5014d6c62fdb | -7.71893 | -54.82262 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3ec33599-b0ff-3c46-91cf-c3ef7c92c76b | -7.71647 | -54.81239 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| df636875-d2b1-3aed-a7c8-82dacf2d43e7 | -8.49984 | -54.90295 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f1954370-b3b4-302c-bff3-7ee5c05af0b5 | -8.48461 | -54.97993 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 20557bd3-bd1f-3e4b-bdf3-57c25ac3d2e8 | -8.44984 | -55.456 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| dc87fa71-2a05-39ea-9385-d31c1dfca2c9 | -8.44872 | -55.45804 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9ecda237-7c06-34bf-8e0c-c90814766b60 | -8.44294 | -55.47103 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 50f10600-ea7e-3cc2-9fde-cf94fcd458cc | -8.44226 | -55.47557 | 2024-10-03 05:16:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| ce986f96-e884-37b2-9c4b-e95a0d95d943 | -8.30878 | -55.09398 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1e3fd2e5-39b9-3d9a-8da8-bf1c3da8c822 | -8.2975 | -55.09977 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| d3f07fb1-f0aa-305d-8599-58564c988134 | -8.17139 | -55.16305 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0e71000f-a53a-30f6-b467-53ff0266d0aa | -8.16842 | -55.15994 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 11036e99-bfe6-3588-9229-a6cde218adff | -8.16758 | -55.16252 | 2024-10-03 05:16:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 792a1d34-581d-3f5a-a251-f123648871e2 | -9.57746 | -56.02127 | 2024-10-03 05:16:00 | NOAA-20 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 64e0b580-2453-3ee2-81b6-bf9c6ab44d0e | -9.57682 | -56.02571 | 2024-10-03 05:16:00 | NOAA-20 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 0c2bcaa3-d0ea-3eee-811f-014345ece3cd | -11.92335 | -56.96117 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d6cac03d-bbaa-3fe4-964d-af9e761d369a | -11.92095 | -56.95217 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8c737603-6d7e-3f06-8bd6-2e6f8c50b857 | -11.92034 | -56.95641 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| fdbc28e9-571d-34d0-9203-1db9d779b8fe | -11.91936 | -56.95418 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3c628b03-3846-3ff0-a3e1-76cd3f180c84 | -11.91874 | -56.9584 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5df50cfa-177e-3da4-8023-007d2f174786 | -11.91674 | -56.95589 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| ce1e9a92-1484-3e79-8e2e-54fa3fd4743a | -11.91513 | -56.95789 | 2024-10-03 05:16:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 57086c21-c045-3a45-8c0e-1b81ad36f756 | -12.61536 | -56.48375 | 2024-10-03 05:16:00 | NOAA-20 | TAPURAH | MATO GROSSO | Brasil | 5108006 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 7bd6ba4a-440b-3c60-851b-22392361e0e9 | -12.61163 | -56.48321 | 2024-10-03 05:16:00 | NOAA-20 | TAPURAH | MATO GROSSO | Brasil | 5108006 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 1578d07d-10fb-37bb-960d-eb38da291368 | -12.61098 | -56.48774 | 2024-10-03 05:16:00 | NOAA-20 | TAPURAH | MATO GROSSO | Brasil | 5108006 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| ce2ddba6-eabb-367f-871a-372365fa32bb | -6.56309 | -56.02343 | 2024-10-03 05:16:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 9457fab9-d233-3d9d-bb63-95578f9036b1 | -6.55953 | -56.02291 | 2024-10-03 05:16:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 50dfef29-254f-337c-bf12-94efafa94282 | -6.55536 | -56.02645 | 2024-10-03 05:16:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| c742b28a-ab2d-320f-980c-df92c28d7180 | -8.09333 | -57.67892 | 2024-10-03 05:16:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 652db3c9-c9b3-3f44-b108-e6f6e23dc0b9 | -8.08994 | -57.6784 | 2024-10-03 05:16:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1018f0d2-ca18-3c7e-a7dd-f7c53c9ac496 | -8.08656 | -57.67788 | 2024-10-03 05:16:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
 
 
 [Clique aqui para ver as próximas entradas](README163.md)

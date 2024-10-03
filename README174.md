@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 14eac7d3-4265-3a09-945a-a447f7e2c324 | -13.1499 | -51.23978 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 3120981f-1a50-3291-a3b2-0ebc75ee3cfb | -13.14913 | -51.24685 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| a791c461-ef0e-3275-887d-ff391d1af082 | -13.14355 | -51.23198 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| dcb6ca0c-fe9e-39f5-9472-6a33b1779f86 | -13.14081 | -51.22407 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 826b1e73-701f-3650-a0c4-22a04b0008af | -13.14009 | -51.23114 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 0b22912c-7b02-31e7-a202-6b593a4b6493 | -13.13719 | -51.22416 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.3 |
-| 487fd936-3540-3612-8db7-8912f418f34b | -13.13643 | -51.23122 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| d1022d7f-419c-391c-847b-ea0125b2ade5 | -13.13368 | -51.22328 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| d25b72f9-909a-3086-8c6f-9d82b5ae9a2b | -13.13296 | -51.23037 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| e60614eb-fb65-3477-95ac-045301424588 | -13.13007 | -51.2234 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 8fed859b-b74f-3e66-94f3-93ba778961b5 | -13.12931 | -51.23048 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| 96550864-e309-39b0-97ea-44b92ed36ee6 | -13.12656 | -51.22248 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 34d8fb3b-07d7-3ed0-8626-e19784ac4ff4 | -13.12584 | -51.22957 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 8a4db155-65ef-3412-b8fe-c89c34d85a63 | -13.12219 | -51.22971 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| 1825a4da-1bc6-3382-b6ae-5b8ebff180e8 | -13.11872 | -51.22877 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e164412d-86f1-3d91-a35e-3dc5cc131112 | -13.10458 | -51.19196 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 547937df-963d-3f5a-857a-f74c6d9d204c | -13.10089 | -51.19086 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 5b864679-b5ef-3a8e-bc2f-dd66f8ac559c | -13.09745 | -51.1912 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 12864451-696a-3c4e-a055-353c3d1f8421 | -13.0592 | -51.35006 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 39915a01-9853-3b41-b894-d89d8fd2177d | -13.05503 | -51.32154 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 85819a07-c308-3060-87e5-141d4d31541d | -13.05431 | -51.32846 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 65d7cc6d-06bc-38cc-9f56-7da6b4bf9a88 | -13.05358 | -51.33542 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 815cf10e-32f0-3509-a0fb-cb90eac187e9 | -13.05286 | -51.34234 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| efa3f30b-f90b-3875-8076-dc017ff4e30c | -12.89945 | -51.32766 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 82d171f1-7ea9-366d-b944-308a42344e99 | -12.89494 | -51.32796 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 474de5cf-f49c-3cc0-9bd3-5fc2c4cf1df9 | -12.89239 | -51.32685 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| d6e0828a-69f9-3a1e-89da-32f9ac49958a | -12.88788 | -51.32718 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| fd48ffe7-a965-3e1a-a574-0c1c9d00261b | -12.88533 | -51.32604 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 22395412-5a96-332b-acd6-16bd8072e63b | -13.12647 | -51.43389 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 27.0 |
-| ee25b92a-61d9-3784-9dec-3465d7431d0c | -13.12234 | -51.42672 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 2fd76eb5-c6a4-32d5-91f4-bb05e46883a5 | -13.1216 | -51.43355 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 55760d08-2ebb-387b-89c2-e8e9d8de247f | -13.12014 | -51.42622 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 49.7 |
-| 42287e91-9edd-3d01-bb2d-5da26bbaa171 | -13.11944 | -51.43307 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 27.0 |
-| da2a92d3-dc4c-3401-9704-43d8be509120 | -13.11605 | -51.41908 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 29.1 |
-| a6047121-3570-367b-8a10-0f24c7e0eb3f | -13.11531 | -51.42593 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 1e61c0f7-76ce-31d3-a073-ded3ab34abc7 | -13.11456 | -51.43278 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| db654c17-c972-39a6-bd5f-65459b70154b | -13.1138 | -51.41854 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 2750eb59-78b9-3423-83bd-7f8a3c44aea8 | -13.1131 | -51.42542 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 80804168-1da8-3ab3-9b37-3553aa12fc01 | -13.1124 | -51.43227 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 19.4 |
-| ed2b81e3-1df2-3312-b5b4-67c554345ed9 | -13.10901 | -51.41831 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 55ad6f33-8fdb-3dbd-b2f2-14ab95fee2bf | -13.10827 | -51.42515 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| c04e3352-8885-349c-99ff-0ae654a06297 | -13.10753 | -51.43201 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 18d1fc3b-c681-3ee6-878c-0fa6297a5128 | -13.10676 | -51.41775 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 68313fe2-fa29-3e75-acfa-902318c1fd58 | -13.10606 | -51.42461 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 35eb8cd8-d70c-34d5-9895-65f57135647b | -13.10537 | -51.43147 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 19.4 |
-| f0710e97-441a-3977-a293-6e4908c4ca13 | -13.10494 | -51.39006 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 9862fc14-c7c7-30bb-a5aa-74276196958a | -13.10251 | -51.38941 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 3320b194-40e2-3db6-9b3d-b97eb0295f4d | -13.10123 | -51.42439 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 6307a40f-f72b-3884-ae07-3f4c68dfb2c6 | -13.09862 | -51.3824 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 582210aa-9d06-360a-a4cb-cfec741d5827 | -13.09615 | -51.38172 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| f964b2ba-d7c7-320b-a267-1b7cdead10f4 | -13.09083 | -51.38851 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 3142a3b9-8d30-3a39-8558-141ff229cd6c | -13.0901 | -51.39539 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| f22b84d9-8613-3135-84ba-2723f63b954e | -13.08936 | -51.40226 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 97532242-4fae-3049-9cf0-1b997f0275a6 | -13.08862 | -51.40912 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| e6968e9b-5c7f-3ed9-8055-f07551653cb0 | -13.0884 | -51.38781 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 2134e717-f1f5-3c1e-9145-c4a38c2e9e0a | -13.08771 | -51.3947 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 00336685-d7c1-32a6-9a00-c4070e319eed | -13.08702 | -51.40159 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 63b09216-54ef-3383-aabd-8d6b15e48447 | -13.08633 | -51.40846 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 5401093a-3d56-377b-bdea-93ef8b3b292a | -13.08305 | -51.39461 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 128703ee-91f1-3c58-a980-0b4523cbd927 | -13.08231 | -51.40148 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 7cb19b13-0275-3991-9b10-871be3adff68 | -13.08158 | -51.40835 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 49028b44-7e26-340e-b07f-9677fdf0d019 | -13.07998 | -51.40076 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| a6a1f510-e765-3602-ad1d-efcf838737f1 | -13.07527 | -51.40069 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 18ff4fd1-3f4d-3c87-a180-363b2a607824 | -13.06481 | -51.36467 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 80ee752c-c1ff-3ba5-b9e1-c0c63359839c | -13.06408 | -51.37157 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 9abbb013-20b2-3e7d-979a-01b13cda7648 | -13.06335 | -51.37847 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 32.5 |
-| 7d4d8dc8-403a-3cb3-b3f6-567a1939db41 | -13.05702 | -51.37078 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| dd7533af-e1fd-3b42-b26c-ab74721d9eea | -13.0563 | -51.37767 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 4d7b4191-8591-3878-967c-c775eba97a5b | -13.05413 | -51.39831 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 17d2c6ab-7dfe-301b-812b-f03c037e6be7 | -13.05341 | -51.40518 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.5 |
-| 20e5ec3d-9112-3380-8672-6328d2660131 | -13.04709 | -51.39752 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 4a2ab2b4-82b2-3d05-99b8-e7f25805d1de | -13.04637 | -51.4044 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.5 |
-| 754517a6-3af5-3245-9131-e3fef8049dfc | -13.04565 | -51.41127 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 17.5 |
-| efc57c43-7699-3d98-95bc-418a1bb68093 | -12.93393 | -51.40804 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d221487b-4d01-32a0-b0a0-d97cdff3c5d1 | -12.92896 | -51.40801 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 12040cc8-cef8-3e0a-8ddb-8e7d83fb646c | -12.9282 | -51.41484 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 580b3691-b370-30df-8c35-3ec9260d65d2 | -12.92689 | -51.40724 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d931e40f-ae2c-3b87-a5ee-c55c0e77cfd1 | -13.00864 | -51.5056 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 176cd873-f036-3fda-9d20-40dd114249e0 | -13.0079 | -51.51233 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 12509b78-77a1-3048-a8f2-b33f2eaf039a | -13.00765 | -51.50339 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 5579ad2a-dbc2-3bf1-a6fe-c680d28d240d | -13.00695 | -51.51013 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| c0aee813-515a-39b0-9fa9-b3de71c5b92c | -12.96519 | -51.51452 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 4117c8a6-1481-3cc8-aeeb-fdee9675bb7e | -12.96447 | -51.52125 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| f17cfe37-37c8-3a2e-a9e4-c7439ddd020f | -12.96428 | -51.51217 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| f1ca4fc5-8c9c-351e-afc1-61be98d9e335 | -12.96374 | -51.52801 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 5fe230de-d963-3e6c-abe9-918944b526d1 | -12.9636 | -51.5189 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 7dcf8ab9-6276-384a-8608-bbd32bf9f47f | -12.96301 | -51.53481 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 1dac1db5-488c-3af2-896c-cb338f95d889 | -12.96292 | -51.52566 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 10ff47d9-25c8-376e-b591-5bb44e6e1b3b | -12.96223 | -51.53245 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 3c2aa489-5a60-35a3-89ad-06b0a0edb7e3 | -12.95819 | -51.51379 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 4cdefa49-43c6-379d-a045-bb5f9907f528 | -12.95747 | -51.52051 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 646cf05c-43c9-3ab0-b0b0-64d00d9da7a8 | -12.95675 | -51.52726 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| b0505667-f95b-35f0-8e12-10a0a322b36b | -12.95264 | -51.49957 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| ac01d7e3-7807-3653-8e8b-b7851ab1fa8b | -12.95048 | -51.51979 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| e9dba2ca-8310-313b-9757-37bbfb02000e | -12.94564 | -51.4988 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 5e0ea9f7-257e-3c3c-80d3-14b9c185f411 | -12.94492 | -51.50557 | 2024-10-02 05:36:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| edb0393e-c840-3686-9f2d-890e7b9af8d0 | -15.67289 | -52.50976 | 2024-10-02 05:36:00 | NOAA-20 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 15cc3c7b-f2d5-3a9d-a39c-4a68900362a7 | -12.54785 | -53.14297 | 2024-10-02 05:36:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| d3893a9e-20a1-3e00-8691-bc23d57d8e71 | -12.54274 | -53.1316 | 2024-10-02 05:36:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 35b89193-8472-3a52-b7e8-87fa66173835 | -12.54213 | -53.13693 | 2024-10-02 05:36:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 298a366c-d06d-3bbd-9427-a122e15efc2b | -9.29464 | -65.34674 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 145e948b-6185-30a2-9d34-1f439cd297e6 | -9.24501 | -65.60438 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 12b231f2-5ed6-3b88-84cb-cfbf3d337f48 | -9.24072 | -65.60362 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| d7aba920-b466-37bf-933b-4bf5f2c35d87 | -9.17613 | -65.55523 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0c28c24f-43aa-3dc7-bccf-c2d58d33ffb0 | -9.17541 | -65.55932 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| acec1ab9-26b0-3d58-bfeb-e9770e9ab8cf | -9.17254 | -65.55039 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 6c080726-cf03-3b57-8f84-9141ceeb928d | -9.14538 | -65.55399 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 69619ad7-ecf6-35de-b6ef-de2386b3234e | -9.13931 | -65.3167 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 88dd71a7-a970-3276-bdb4-dbe3023f0f22 | -9.44239 | -64.54442 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 4cfbdbee-e16d-3814-8dbe-a821f7b1ae9f | -9.44179 | -64.54792 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| abf16a6e-615a-36ae-b218-0cd970f567bb | -9.43841 | -64.54364 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 05ba2055-7f90-33c1-b648-bbecd8dea115 | -9.4378 | -64.54716 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| b611cf76-1a0e-3844-ab42-ce844391da06 | -9.4344 | -64.54296 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| e631c032-9c22-33f8-8df8-c71f49e38c91 | -9.43379 | -64.54651 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| feafdd92-bcb8-3fd4-966a-0bcae3c6a723 | -9.4304 | -64.54229 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 3e6a56c1-5881-3685-a919-43ea250673b6 | -9.42978 | -64.54587 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b64c933f-f36f-33b9-a5f0-65af5637cbb8 | -9.42918 | -64.54936 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9f3f2e59-e2d9-358e-80db-b07c99c47be6 | -9.42578 | -64.5452 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 359d19b0-bd5f-3388-bd83-f2c2d1c357eb | -9.21396 | -64.41801 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 46bdd91b-c0b3-36f2-87b1-9f7b96d64c11 | -9.04514 | -64.44634 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| c6fa30cd-326a-3c48-a6ca-dede484b7bcf | -9.04115 | -64.44564 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 35c32320-70e0-39da-9e81-8e7b6fa5fead | -9.02494 | -64.46812 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 1a5f8d36-c740-3001-aa27-354cef9dbe12 | -9.02434 | -64.47163 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 206f3bd9-6104-3c82-ba05-6897035b04eb | -8.95099 | -64.36177 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ae5614b9-2b2f-3bb7-b628-97f432d4290f | -8.94701 | -64.36108 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 041c4bbe-95d8-3d8a-9c1c-bcda6fc09182 | -8.94189 | -64.20007 | 2024-10-03 05:16:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2826bf46-50b4-38bd-9dc7-5705f6147a00 | -8.80467 | -64.25663 | 2024-10-03 05:16:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| c98e4b3f-773f-32bc-922d-7d566ce7072b | -8.74292 | -64.18774 | 2024-10-03 05:16:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| d6d5eb1e-daed-36da-8542-b23a8245f03f | -9.94853 | -64.90561 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3624eb48-b07a-306e-b82e-a40b6617f37e | -9.9479 | -64.90925 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1332a2e0-11fe-3c04-a6d8-67570ad28ec7 | -9.94728 | -64.9129 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 862bfbb9-6182-3cba-a8fa-db589b00a850 | -9.94664 | -64.91658 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5499260f-6bc4-3a82-adcd-ab5c9d929664 | -9.94447 | -64.90488 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 25218f26-f2a5-36e9-adca-c6f722b1acac | -9.94384 | -64.90852 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 0ecd7463-016c-379f-81f1-066ef937bff3 | -9.94322 | -64.91216 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1d74c5db-9030-3998-80a2-2d433c54486d | -9.94258 | -64.91582 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e75dba9c-b700-3d7f-ae6e-9d75e4b04da9 | -9.94195 | -64.91949 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ec8551b1-609d-39ec-87ff-c676342cd9ef | -9.94041 | -64.90417 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 25025a50-6cb3-3110-b2ed-6c908199911c | -9.93978 | -64.90781 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9908ca2b-d56d-302c-9019-81be2a996718 | -9.93916 | -64.91145 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7f20e7ea-66fb-303b-828d-efc97c31a88f | -9.93853 | -64.91508 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f9b6af11-6d49-3231-b22e-95094411aa20 | -9.9379 | -64.91873 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4c3b7dd9-92ac-3d9b-99c8-b6f5ce32691e | -9.86123 | -64.97682 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 7902d97b-b9c8-338c-bc2e-a309a600ff98 | -9.85715 | -64.9761 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 67d65a8e-5ef1-3090-8656-b8b72be4e33c | -9.85489 | -64.86644 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1f2c0e03-ee9d-3399-a6b5-755449e3abcf | -9.85427 | -64.87008 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b3554165-ad7e-3b00-b240-3993b54d3180 | -9.85084 | -64.86572 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 47c41d17-393e-3643-a81e-9f305ff1273f | -9.85021 | -64.86935 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 29ae308d-288c-3b96-92b9-b2d3f6bd7a54 | -9.81885 | -64.95414 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| e8cfe243-799a-3180-8909-84ccbee34dd4 | -9.81821 | -64.95786 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 8985d8ac-5fdb-3adc-9182-b8f663122a15 | -9.81412 | -64.95715 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| f18c9d70-88dd-3eec-a002-844b5abe2d4b | -9.81004 | -64.95646 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e10c6fbd-b2d6-31d5-9e4a-db80db769812 | -9.80659 | -64.95206 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 01e64e84-e4df-3292-a732-53d9a77c8651 | -9.78351 | -65.85789 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 983bfa2f-22a4-3e91-bc1e-38fbe893fd0e | -9.73201 | -64.90134 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 9b43e1fe-4102-311a-b8be-7f55f4642229 | -9.70987 | -65.75926 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b2abb97b-369b-3164-bde3-462985691132 | -9.70914 | -65.76348 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7ce66275-0ba7-389b-a7da-6e7f1e04f846 | -9.70629 | -65.75424 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a6a9c349-3584-34f9-8ef4-1fe90ebac4df | -9.70556 | -65.75848 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 4c3e24fe-f820-3e2f-b387-1d1348bd5225 | -9.64675 | -65.73905 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 713179c3-5eeb-3b21-95d0-0744ce1f440a | -9.64602 | -65.74315 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d08190bf-20c2-3ce8-bac4-838c9ce21700 | -10.03637 | -64.9771 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 33707d6e-6581-3d2f-83fb-19c022be725c | -10.03574 | -64.98076 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b5c87910-cc66-362a-9597-ddfb6ed87855 | -9.5942 | -64.43665 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6f270ce1-e065-3b8e-b703-74a1986b311f | -9.59024 | -64.43595 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2f9a2207-be2e-3f68-9d64-7fcf0d877e32 | -9.55198 | -64.33172 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a7f6cd37-9ffe-367b-836f-ab6fce2ed312 | -9.55173 | -64.32884 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 76c65398-c471-394a-9a6f-c903c81fa806 | -9.55084 | -64.33396 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 3b4fada1-a995-3cd2-a3ef-90823edc8e7b | -9.54804 | -64.33102 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 9c46b7c9-7a4c-3f51-b241-be0ca1fe2294 | -9.54779 | -64.32817 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 50a5bf7e-b61b-3dca-b874-d70744806abf | -9.54719 | -64.33616 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| ad990fc1-8805-3fb8-8760-48d17a125ae5 | -9.5469 | -64.33327 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 62227cf3-4b75-3d0d-bdee-ed3fe2dc6aa9 | -9.47967 | -64.68987 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3e477e27-e622-35e3-afc5-7f7d47fe1db4 | -9.47906 | -64.69348 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 22396428-88a7-3fab-8a38-9bb5c1f89921 | -9.38271 | -65.51459 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6e0acf8d-5e92-3c5a-a4da-14b7afa3952c | -9.382 | -65.51865 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d6fc10ae-7cd3-341d-9080-017f0e2894dd | -9.37987 | -65.5057 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| db4490ab-71e9-32da-96a1-e0824c345bd6 | -9.37771 | -65.468 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d1cda18c-c86f-300c-8521-0bcc377aa870 | -9.377 | -65.47205 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 1e61529f-a95f-30fb-a908-b01440f0ac88 | -9.37561 | -65.50495 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c9ddef63-22a6-34c6-a0f8-6e00ae8e0f87 | -9.37347 | -65.46724 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ffbc100d-80a8-3ba8-a4e6-d9cba49d5217 | -9.36819 | -65.8018 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 207214f6-7a2f-36a6-9723-becd3bd257d2 | -9.36457 | -65.79681 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 7b77907c-850a-3139-afe7-e32a54854cbf | -9.5988 | -65.67222 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| c9a8226b-798f-3a0b-ac39-c791cea83d9b | -9.36893 | -65.7975 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f588f50b-6294-3f1a-bca2-7606bced5cdd | -9.34437 | -65.75866 | 2024-10-03 05:16:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b98d36af-fbf4-3082-935c-37a021b170cf | -9.99336 | -64.76514 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b43b269b-8b69-39c8-a867-d629aea96d1b | -9.99276 | -64.76868 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e4d5d06f-96f6-3cc4-a25c-7418953e906e | -9.98935 | -64.76441 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5867b4b6-3005-3cd4-98aa-f760c189d450 | -9.98874 | -64.76798 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 51a7f665-6973-375a-8832-4a6f5e4c57f1 | -9.98813 | -64.77156 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| e7fb6b60-e2fd-3b82-b41b-1d2533311858 | -9.98471 | -64.76729 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 363de0ff-1c91-395c-99d1-a0aabe6bc660 | -9.97203 | -64.76877 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| dda215bb-d62a-3026-8025-547a9e778cd1 | -9.97142 | -64.77232 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 61a59aaf-7ff6-3ca2-9cb2-ca34fc50df87 | -9.97021 | -64.7794 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7ebd51ce-d83b-37b2-b16f-eb0248e1c5c8 | -9.9674 | -64.77161 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b0082ce2-fa03-316c-b813-17be1873523c | -9.96679 | -64.77514 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 6903f737-4be2-37bf-af6a-d941314398d2 | -9.96618 | -64.77868 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 58df12e8-ed7c-315d-bda2-87a12ca9e25c | -9.96557 | -64.78223 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2a63874c-35e5-33fa-9abf-5d11749b0a7d | -9.96277 | -64.77441 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
 
 
 [Clique aqui para ver as próximas entradas](README175.md)

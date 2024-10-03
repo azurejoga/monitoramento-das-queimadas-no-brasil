@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9ae25579-68d5-311c-b560-58446c0be0da | -18.8534 | -54.48383 | 2024-10-02 04:51:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6529f90a-0a3e-329a-b23c-4bd9a055e4f5 | -18.85281 | -54.48749 | 2024-10-02 04:51:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 61beaf0a-96bc-318d-a082-497524ddbb9c | -20.77406 | -54.84105 | 2024-10-02 04:51:00 | NOAA-21 | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9090975f-44ba-3bb3-b93f-6d000180476c | -20.77076 | -54.84043 | 2024-10-02 04:51:00 | NOAA-21 | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 567a1d47-3406-31fb-a952-fb328ccf650a | -20.76768 | -54.81712 | 2024-10-02 04:51:00 | NOAA-21 | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| cce3ac98-da71-33ba-a3a1-a82669645619 | -20.76379 | -54.82021 | 2024-10-02 04:51:00 | NOAA-21 | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| f7157624-1a91-357b-b50c-b864d8810fd2 | -19.99663 | -55.47383 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3eef322c-adee-3988-9ae5-15e6ce1c1126 | -19.99602 | -55.47754 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 55f7fa30-75f3-375e-b45a-3fc3cf09878b | -19.99451 | -55.46578 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 171a45ed-a7a5-371e-8fc3-7d9ab3324232 | -19.98854 | -55.46836 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| d66aee2c-7754-35a4-9be7-915a86296127 | -19.98731 | -55.47586 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9bd0597c-4886-383e-9238-ec1bd627b4eb | -19.98458 | -55.4715 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 142d9fb6-e341-3b3d-9ae9-7421ff659454 | -19.98397 | -55.47524 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 0594ba92-b0b9-3647-aa18-f53e9c593d8d | -19.98336 | -55.47897 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 35e3f0cb-0778-35bd-aa00-2716a9b08a23 | -19.98062 | -55.47462 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 795c40f1-695c-3024-a166-1be4d8fbfb1b | -19.98001 | -55.47834 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| b8411aa7-3879-39dd-9920-558d8bc82927 | -19.97666 | -55.47775 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f7545d37-3f7b-3cd6-867e-aad1882ff929 | -19.97606 | -55.48147 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| c4393241-31dd-3fc5-be88-04fa7ff73135 | -19.96935 | -55.48032 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 22145840-a6b4-3e70-8bea-252a9a3da0e9 | -19.96874 | -55.48404 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 03c722cb-b2be-399c-9d97-2af33e9eb844 | -19.96538 | -55.48348 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6dc8a85d-40f7-37d1-b549-fdea67d23623 | -19.96477 | -55.48724 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 438c78c0-66a1-38ea-8b4c-4c76a7475528 | -19.96414 | -55.49108 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 0d97c7e1-edd2-30ef-9e30-6bd37933569f | -19.96351 | -55.49492 | 2024-10-02 04:51:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 2dace116-11b9-3367-bdc9-e25ab05187ae | -19.74962 | -54.5202 | 2024-10-02 04:51:00 | NOAA-21 | BANDEIRANTES | MATO GROSSO DO SUL | Brasil | 5001508 | 50 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 84c6c5db-a16a-3614-82fd-b84a92d34600 | -22.16742 | -56.03751 | 2024-10-02 04:51:00 | NOAA-21 | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 74290d30-3028-381f-897a-9404ab91697b | -21.89249 | -56.10919 | 2024-10-02 04:51:00 | NOAA-21 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 16ff9d3b-8f35-36c3-b3d4-47b001aef8d0 | -21.88913 | -56.10855 | 2024-10-02 04:51:00 | NOAA-21 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0e300878-f2ca-3d90-b9e5-df8f54aecd13 | -21.359 | -55.69003 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 24.6 |
-| a84a8678-cada-3fea-b6b3-fbf9aa223af9 | -21.35628 | -55.68562 | 2024-10-02 04:51:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 24.6 |
-| 6be1b38e-a6b7-39c6-bd35-b0f41713c50b | -21.35567 | -55.68939 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 24.6 |
-| 6bf0e44f-376d-3918-951d-128bb56fe1b3 | -21.35505 | -55.69318 | 2024-10-02 04:51:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 29.9 |
-| be04eb13-bef8-3df0-8e09-5caab97af49f | -21.35295 | -55.68499 | 2024-10-02 04:51:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| f830f47e-d12f-3232-8200-ca8c0591d277 | -21.35233 | -55.68875 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| 9b230135-b771-32e2-8f68-3436dd061206 | -21.35171 | -55.69254 | 2024-10-02 04:51:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 19.2 |
-| 0160f25e-101d-3a85-bb38-2e6d775b428e | -21.349 | -55.68811 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| 242a66f7-48e9-3f57-ac45-2d2af3e6a6ca | -21.34838 | -55.69189 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 19.2 |
-| c66ff269-426b-36ef-bded-5ed529d298ae | -21.34714 | -55.69948 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 7a64f110-3202-3ecb-a7e8-015297224d41 | -21.34504 | -55.69127 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f86080ab-c610-308f-aca7-52fec9bbccfe | -21.34442 | -55.69506 | 2024-10-02 04:51:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f315ac68-f5a2-3c59-b983-9ad3513baa26 | -21.3438 | -55.69886 | 2024-10-02 04:51:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 9473123c-917f-3302-b97a-79f4e745ff62 | -17.22451 | -56.18211 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| f22faa69-536e-36f5-93fc-5aefbeb85e1a | -17.22446 | -56.16114 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 84cfab12-0b71-354e-a1d2-65c107dca43d | -17.16575 | -56.20915 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| a1add414-2310-3734-aaa5-f96d144fc596 | -17.16295 | -56.20443 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 0826cdf7-7a49-36c6-92c7-c6b9fd63c4bb | -17.16225 | -56.2085 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 460d1f64-e813-3386-8e56-0d403424e8d6 | -17.15946 | -56.1618 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| be408169-41fb-361a-8d94-dacf03d4ada5 | -17.15945 | -56.20378 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 9e90b46d-9a58-350e-b62d-785d01687ae0 | -17.15945 | -56.18278 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 7ec77bdb-8927-3472-94ac-cdb0467fc6f6 | -17.15876 | -56.16586 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| a7a479af-cc2f-37dd-aaf9-bfa536696570 | -17.15874 | -56.20786 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 3ac20f89-d56d-3dfa-816d-8db203607111 | -17.15806 | -56.16993 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| 0712b249-6ad0-3108-a7d6-36bba77695f7 | -17.15806 | -56.14898 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| ac937e15-77fb-38ab-99d0-f2ec91865ad9 | -17.15736 | -56.17399 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.0 |
-| 612361c1-0db9-3eee-95d7-4af438564b3c | -17.15666 | -56.17806 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.0 |
-| 8f9734b7-bde7-37c0-b2d5-98046a74f33f | -17.15596 | -56.16116 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| ae6c0a05-e513-3c5f-a202-00cf8e33f452 | -17.15595 | -56.18213 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 307755bd-61e1-3ed7-b0cf-6429f61e26aa | -17.15594 | -56.20314 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| df8f8e70-4d5c-3074-b5ac-e56839bf2e41 | -17.15526 | -56.16522 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| bc4f7298-adcd-33ba-9f57-59904b6b40e2 | -17.15525 | -56.18621 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| c442e659-7afd-3ecd-b81b-838bda3efff7 | -17.15524 | -56.20723 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 729eab41-35cf-383a-ad76-10ba8d09e8d7 | -17.15456 | -56.16928 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| c9f99cc4-e35c-32c8-8bc4-02b1b1242b00 | -17.15386 | -56.17335 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.0 |
-| 460cde70-d918-373a-8633-428f580d643e | -17.15316 | -56.17742 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.0 |
-| 358d9d3a-0f3f-33de-9048-ab6920357b57 | -17.15246 | -56.18149 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 09f105e9-7472-386e-a3c1-3723f45cbe56 | -17.15244 | -56.2025 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| ba799472-ae89-3984-9f8b-0f5cc3b7692d | -17.15175 | -56.18556 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 11b646b7-41e5-3d88-9b6f-5ba60c801697 | -17.15174 | -56.20658 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| c263f6ca-c32f-3bec-9c77-fe6687f10ce1 | -17.15106 | -56.16865 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 1509f3ce-f99f-3b17-ae6f-af2836b825b8 | -17.15036 | -56.17272 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.9 |
-| 071c8e08-0aa1-3b2c-8e51-d41bffad1b1b | -17.14966 | -56.17679 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.9 |
-| b39913ac-666a-3ea4-a418-c39c0cab6df8 | -17.14939 | -56.17292 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
-| 60ac9361-297e-36d0-bb11-5204a854f8e7 | -17.14895 | -56.18085 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| f8d51330-bacd-38b2-980e-b7dbd651a9ee | -17.14894 | -56.20187 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 349a9754-f0a0-3735-aa77-f32e3ba05fa1 | -17.14823 | -56.20595 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| ba2a1212-ef89-32cf-bc04-22e466fd5e90 | -17.14034 | -56.18384 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 6c083b7b-3b7e-3e78-87c9-fcdc9d70d729 | -17.13966 | -56.18791 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| a112754a-5467-3308-afdf-8deefda645d2 | -17.13615 | -56.18727 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| e22d0f99-2a93-3ac0-bc0d-42da22f32156 | -17.13547 | -56.19135 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| dbb7acef-b2fd-3e0e-9514-397ab624281e | -17.13478 | -56.19543 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 45ffba1c-63f3-3cf4-99ec-c52f53e304ed | -17.13334 | -56.18256 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 7c756c7b-622b-35d1-919f-ef721e4cb105 | -17.13265 | -56.18662 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 193c066c-2510-3796-9c4b-fefcaf4b58f0 | -17.11736 | -56.23438 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| ebd5e765-923b-32f6-aced-5749aec932b0 | -17.11666 | -56.23848 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 2005c289-f3c2-3c3d-a86a-80a538c146aa | -17.11597 | -56.24258 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 2680d5f7-e65a-3a19-9584-49ff3ecee416 | -17.11454 | -56.22964 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 81fca586-f86d-3007-b3c7-91e771dfeaa1 | -17.22382 | -56.18618 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| fe7d1987-f472-3217-9d69-afe0fa7ced10 | -17.22377 | -56.1652 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| a43b99d4-b273-39d9-993c-54e009e27da4 | -17.22313 | -56.19025 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 6c6b3e93-a3d0-34c4-a533-6bee05f83ade | -17.22239 | -56.17333 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| f9269237-ef47-3726-8891-f9520b3014eb | -17.21963 | -56.18961 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 553d1632-5d0d-3d7d-8078-8b0259e6fd43 | -17.2182 | -56.17676 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 168bcd46-1324-3ef8-96ba-92948ffc2492 | -17.21259 | -56.16735 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| 7e8e0e40-674f-3c22-8c6b-ccb23b6883f9 | -17.21117 | -56.15453 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 9ea858ba-1870-318b-aedc-f05fc6f987a2 | -17.21056 | -56.20053 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| b16b51a2-3d3e-3dd3-a244-84751b4d209e | -17.21048 | -56.15859 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| fb18f294-f354-31b7-a21f-aaa02348b9e9 | -17.21043 | -56.13768 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 91a4e6d1-e411-34c3-9314-f68b5bd9d1e6 | -17.20979 | -56.16265 | 2024-10-02 04:51:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 0cf2b2ae-df3c-309c-84e9-7b11e33c9657 | -17.20845 | -56.19175 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 6511f81d-9a70-3898-bdd5-37312f4f846c | -17.20775 | -56.19582 | 2024-10-02 04:51:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 75a2d4a1-39c8-3924-9a71-db468c348f85 | -8.59865 | -46.52686 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 9d93c4f5-c9f4-3dc9-a4f2-721441936733 | -8.59416 | -46.52635 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 085bb48f-79ec-31db-b5b2-f799176e09dc | -8.58968 | -46.5258 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 1fcb4db2-c961-3154-8e87-1b031a57ad49 | -8.58521 | -46.52521 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 20eded74-8783-375a-9c61-e87e2cd53df5 | -8.49469 | -46.85478 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 76024d05-7308-389e-80e9-89722a8b3bd3 | -8.49424 | -46.85246 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 9c7c2c69-be23-36cd-93b1-d79e1ed04a9f | -8.43322 | -46.30936 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 88328a25-57ce-343f-807e-94b78d3669eb | -8.43264 | -46.84736 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| f6b21f61-4bca-39e8-acfc-2fbae3c66e98 | -8.43203 | -46.85169 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4ac4cd2b-2ef7-3fdc-bf95-abd6b6c4b25a | -8.43065 | -46.29483 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| a40f3085-1de4-3b23-849d-1559ba392aeb | -8.43001 | -46.29942 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| d16d8bcb-f567-3ab8-8639-35d6ba7ce1f1 | -8.42935 | -46.30404 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 3c398e5e-a2d0-37c1-811f-759da292573b | -8.42867 | -46.30887 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| bb1d5538-43d7-379b-8ac3-4432c3680c74 | -8.42828 | -46.84668 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| a6a2cdc8-1dfd-3532-9db2-ef840f8696d5 | -8.42767 | -46.85105 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 7af669be-9d76-3091-8028-6314f5ff39e0 | -8.42549 | -46.2987 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 32a9896d-a180-36c9-90b6-52ee431731ad | -8.42483 | -46.30336 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 670a7006-f2e9-3ea7-9575-e637df3c6d5c | -8.42415 | -46.30822 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 522c6b2a-10c6-3a47-a961-665c64abebc5 | -8.42393 | -46.846 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 5ef4714a-6b12-3625-89ea-802d3afbd4ad | -8.42333 | -46.85028 | 2024-10-03 04:51:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 4485f565-48d1-3ba7-9c3b-222d4cb9eed0 | -8.41963 | -46.3075 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 6f4a6c98-1be1-31c9-97e3-6d8aadeef227 | -8.41513 | -46.30668 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 31025f68-aa10-3da4-8db2-bc67ea0dd465 | -8.41446 | -46.31148 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c250b655-3d79-3ef6-8da6-fa4040f73378 | -8.40863 | -46.32018 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| e2f644ab-216d-398e-9841-a0ff07e6c357 | -8.40801 | -46.32468 | 2024-10-03 04:51:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8d53acb0-b9d2-3060-acfd-4d3e50704f42 | -10.72822 | -46.18513 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 0a0bd0fd-422b-33f8-978c-0a7ecab327ad | -10.72757 | -46.19017 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c1e3c978-ea5d-32b2-b297-385d3f9862ca | -10.72692 | -46.19522 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| d85a2415-d4e6-3ea6-9612-5a83b0e630d6 | -10.72627 | -46.20019 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| a3c2f39c-f3ec-347a-b619-70fee681aa89 | -10.72495 | -46.19861 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 5ce419d2-ece0-3f51-9900-2403c8fb06ee | -10.72362 | -46.17316 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| e391871e-4145-3ee0-8053-ec7525c4b4c3 | -10.71958 | -46.16747 | 2024-10-03 04:51:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 37077d31-260f-32c6-bc5c-93c5fc8a5c88 | -10.72428 | -46.20347 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c155d6b7-069b-344b-913a-da13233f68c9 | -10.72361 | -46.20838 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 73242e1c-e43e-3c88-b74d-4dc86b9b691a | -10.72293 | -46.21332 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 7ccdc916-c363-31ca-a615-c8eb030c4106 | -10.72091 | -46.20459 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 48c7e139-8f96-3d20-bba3-f04a139b524f | -10.72027 | -46.20951 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 27fdeebc-373d-3de6-8489-fb46096a0f19 | -10.71963 | -46.21446 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 79c7797e-1baa-3024-ac27-2e5c73cf6545 | -10.71888 | -46.20784 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 4d932c2a-3c25-3147-9b86-b049c390e732 | -10.71821 | -46.21275 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 36bfdcfc-ba88-33a3-9613-925de178ad15 | -10.70534 | -46.20153 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 2efac2d2-8768-3d11-b404-3b31724225b1 | -10.69929 | -46.21074 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 360119ac-1714-3708-a037-98f55e1b7f14 | -9.91532 | -45.90282 | 2024-10-03 04:51:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 08b864f7-e225-3648-b77c-8e7721539968 | -9.91513 | -45.90023 | 2024-10-03 04:51:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| f1cb404c-7c9d-36ef-8b3a-dc3a43f69604 | -10.11101 | -46.56941 | 2024-10-03 04:51:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5076f7c8-4059-3566-9f01-62e351964849 | -10.10707 | -46.56427 | 2024-10-03 04:51:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 1c8d0e66-be21-327b-8930-6a8e75250ea9 | -10.10644 | -46.56883 | 2024-10-03 04:51:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 65e982b0-227a-3457-a6b0-da80bf3897e9 | -10.10251 | -46.56368 | 2024-10-03 04:51:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0eab86ca-e9d3-3517-880c-04917836237f | -12.00264 | -47.34987 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 16ad5318-3c7a-320c-bed7-b3a286abc32b | -11.81833 | -47.59212 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| eaf32423-f6ec-3812-8ee1-2022f5a90547 | -11.80254 | -47.57774 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 627bc09e-3606-37e1-ad2c-34ef11d39df2 | -11.70703 | -47.71857 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 85deea38-d67c-3403-8ac4-35fadc17c4da | -11.70475 | -47.70337 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 1e6f9e53-3d19-3cf8-b557-910115b8b256 | -11.70324 | -47.71422 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 54697404-5faa-3802-8663-845b71168c06 | -11.70192 | -47.70168 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| a8fe9b3f-ca7b-37d6-ace3-813d612bd022 | -11.70143 | -47.70539 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 567920bc-4e45-3c61-a555-1a2b15091777 | -11.70096 | -47.70893 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 6cb2e395-6e0e-3bb1-9176-acbe951abe0c | -11.70036 | -47.70327 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 40064609-2e64-36c7-b9d9-457a7dde3dc3 | -11.69985 | -47.70691 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 2b338800-0dfb-39c7-8337-a6ac708034cc | -11.69936 | -47.71042 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f85c3997-44c7-3158-aac2-21e98188029f | -11.69785 | -47.72134 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cb667204-3f5b-309a-972f-dafd01e191c9 | -11.69652 | -47.6992 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 337d058c-20b0-33c5-ae99-1e9d986f4601 | -11.69019 | -47.71315 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| d50c88eb-f41d-359a-be68-be111999cc2c | -11.68308 | -47.70096 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 3ee97481-6618-3da7-a808-885ee90b1108 | -11.68208 | -47.70823 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| a7d12f3b-7231-3df8-8c3a-a213713f6c07 | -11.6816 | -47.71168 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| b7f864d7-633e-3145-b60a-c62060d3e3d2 | -11.67881 | -47.7 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 9028ece8-f2ce-3593-9f65-25c6004a325a | -11.67829 | -47.70384 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 22abb304-8669-31b9-be45-29a5b03d5112 | -12.19681 | -46.75861 | 2024-10-03 04:51:00 | NPP-375D | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| f0156b70-64f4-3497-9afd-1371f03a6526 | -12.19217 | -46.75801 | 2024-10-03 04:51:00 | NPP-375D | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 99b10cf5-6364-34f7-b6ce-7fc331a94105 | -12.18815 | -46.75258 | 2024-10-03 04:51:00 | NPP-375D | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f08c6dcc-7522-340e-8f3d-8eb1892a2214 | -12.18352 | -46.75192 | 2024-10-03 04:51:00 | NPP-375D | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| a631be35-3584-34ab-90b0-240cb464b926 | -11.25381 | -46.92353 | 2024-10-03 04:51:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c0697db5-0f90-3424-ab6d-3a5040518667 | -11.2499 | -46.91847 | 2024-10-03 04:51:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7f7a34d3-78ee-330d-a9bc-8e8bf20fb686 | -11.24929 | -46.92293 | 2024-10-03 04:51:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| f44cc2a8-c298-345c-9785-a0f9e4060760 | -11.01884 | -46.50131 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ca7ae493-05d9-3881-9eb0-b549f2bc29f0 | -11.01668 | -46.50225 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 2d3b45e5-a602-386d-ada4-fba6232c193c | -11.01425 | -46.50034 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| bd57756e-9a0f-3fdf-b6a4-559dbbb9a412 | -11.01143 | -46.4864 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ae5d4ad1-e8ae-3d80-95d7-67727aaf6097 | -11.01085 | -46.49062 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 211eb6e1-0041-3827-9869-e37d0e57d32f | -11.00919 | -46.48714 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d4633034-d66f-3dd0-9a68-91adb59e8c41 | -10.94514 | -46.59312 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| b717b033-7ee1-3a6f-83bd-b2b4958fec07 | -10.94054 | -46.59243 | 2024-10-03 04:51:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 315c7dd5-8770-3a42-8446-559f4bd81f7e | -11.81776 | -47.59628 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| cf092858-eb0e-359d-852e-7558f1d7b71a | -11.81452 | -47.58758 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 58eb940b-ec33-3ad3-9416-ee13258f181e | -11.8031 | -47.5737 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 3620bfcb-7f74-3055-8af3-80f2a4502faa | -11.802 | -47.58174 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 9996fd34-67a7-38e8-a9ed-1ed46830b132 | -11.79928 | -47.56908 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| cd4401a8-b0dc-3487-8cd9-92aebad44867 | -11.79871 | -47.57325 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 00d409b7-4bb6-31e4-84f8-f2d2783bac79 | -11.70088 | -47.69946 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 05faf9ce-fd33-3eb0-bf78-80e1d5aeb30e | -11.6995 | -47.71991 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| b3f9af25-5397-39cd-99d8-5d3f0a1db40a | -11.69836 | -47.71764 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b84114d4-efe9-30aa-a727-c7a65392180e | -11.6922 | -47.69859 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b7a985d8-6e98-34e2-8e6f-a3222ad0b944 | -11.69165 | -47.70263 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 5b8fd292-de03-35c0-8177-dde86c9696ab | -11.68791 | -47.69786 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 85422539-a1e4-3b03-b5b5-e5341887e105 | -11.68734 | -47.70194 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 57d1535e-facb-3031-858c-a704799c1713 | -11.68589 | -47.71249 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| abd8738d-38c3-370f-af72-8dc058ba58d0 | -11.68539 | -47.71607 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 45b0e64d-195e-32cf-acde-27c976feeac9 | -11.6778 | -47.70738 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 004eb7b6-135f-392b-b59b-c6cfcf5c0a04 | -11.67732 | -47.71086 | 2024-10-03 04:51:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
 
 
 [Clique aqui para ver as próximas entradas](README123.md)

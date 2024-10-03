@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 587ba47f-8dc7-3e64-a242-5fc3d42a576f | -16.878099 | -57.680199 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b3ee24d3-43ed-3a99-a1db-b34ef186b09e | -16.8797 | -57.687901 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 8dbe0cd1-9d2c-377c-86c4-2b079797c25b | -16.8813 | -57.695599 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| e26cdaac-b2e9-3911-b02f-fc12dbe4e8ac | -16.882999 | -57.7033 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 9fdc8b9b-3a3b-3a33-ae64-ac19c38b4e02 | -16.8846 | -57.710999 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a7ba0620-d260-377a-9976-02d5f920a00b | -16.886299 | -57.7187 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a6f7f061-ef00-3d24-82a5-0790f224abd5 | -16.822599 | -57.468899 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 401ec896-d01a-395f-aab8-71ee87fbe498 | -16.8242 | -57.476398 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 6996f850-1bb2-38a1-93ee-29e5e98786d8 | -16.868299 | -57.6824 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 61dee37a-9b4b-3d77-94f1-d91159dc43c4 | -16.8699 | -57.690102 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5407ab53-38c6-3605-9391-ffbb07bbf0ba | -16.871599 | -57.6978 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d95e577c-ad78-3cd2-9654-83d024fb2e8b | -16.873199 | -57.705502 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 2b98707b-57f7-366e-af9f-b965ca324ffb | -16.812799 | -57.4711 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 28bd25f7-3d3a-3148-b806-5f54563c3473 | -16.8144 | -57.4786 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 572965e4-1651-382e-8f89-64a809d7fe14 | -16.816 | -57.486198 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 6eef2c40-198c-3917-8e30-d704ab2101ce | -16.8291 | -57.547001 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b8bf2589-57a0-3dec-ae91-f0222cb7557b | -16.8307 | -57.5546 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 1432c294-5aff-3424-a50b-2305f6443324 | -16.778601 | -57.3601 | 2024-10-02 01:23:59 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b2bd03e8-7f30-3827-8a7e-89de44aa5712 | -16.7803 | -57.367699 | 2024-10-02 01:23:59 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| c5e3b815-3956-3fcd-8348-b8beaf7f70fe | -16.802999 | -57.473301 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 83e14e67-cd8e-3b32-b0d5-9ae9623d35b2 | -16.8209 | -57.556801 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 02c75500-7f12-3b92-bf38-72a65e59b019 | -16.768801 | -57.3624 | 2024-10-02 01:23:59 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a5f06eca-2ad5-3603-9666-16c52f410863 | -16.7705 | -57.3699 | 2024-10-02 01:23:59 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| dfa70723-69f2-3fc9-bf89-4f588ff7a610 | -16.7721 | -57.377399 | 2024-10-02 01:23:59 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a59e5458-d40c-377b-aeeb-4e67c8255298 | -16.8111 | -57.558998 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 6da79790-02fc-30bd-a2d2-0a040f9d7e07 | -16.8127 | -57.566601 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 80941cbf-ac8f-30a8-b9d4-0b7b3e8f2c90 | -16.8538 | -57.7584 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 8d6a6be3-b7cc-3617-bec0-b24ce158bb50 | -16.8554 | -57.766102 | 2024-10-02 01:23:59 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 56ce9359-a7ad-3808-a12f-f212e7035a10 | -14.8449 | -49.2813 | 2024-10-02 01:24:00 | METOP-C | SÃO LUIZ DO NORTE | GOIÁS | Brasil | 5220157 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| c305b0e7-17d1-3a69-9368-2298e2e25aea | -14.8485 | -49.295101 | 2024-10-02 01:24:00 | METOP-C | SÃO LUIZ DO NORTE | GOIÁS | Brasil | 5220157 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| d6bc7214-64f9-37e8-9391-9e87152dd5d4 | -14.8317 | -49.270199 | 2024-10-02 01:24:00 | METOP-C | SÃO LUIZ DO NORTE | GOIÁS | Brasil | 5220157 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| fa987c7a-1cab-333a-8604-660e07d47f22 | -14.8352 | -49.283901 | 2024-10-02 01:24:00 | METOP-C | SÃO LUIZ DO NORTE | GOIÁS | Brasil | 5220157 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 51851f91-6b59-3398-a5a6-51dbe4b72b81 | -14.8388 | -49.297699 | 2024-10-02 01:24:00 | METOP-C | SÃO LUIZ DO NORTE | GOIÁS | Brasil | 5220157 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 5b9be857-9485-324b-b573-d16ff0d04c4f | -16.7623 | -57.379601 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d12709af-6a0e-3cdb-a48c-b7d2b64882d4 | -16.763901 | -57.3871 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| f26d6773-9073-3464-b3d9-c4cbdfb819c4 | -16.765499 | -57.394699 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d3998517-1f5d-38a4-b2f0-6f80baaf4205 | -16.767099 | -57.402199 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5ab2796c-4b93-3018-8f87-9d30226525a9 | -16.768801 | -57.409698 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 13f69f4f-c51d-37fc-845b-79da9b3a7fe5 | -16.770399 | -57.417301 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 17cb4b07-1150-3d5a-9189-e2e01a06c879 | -16.785 | -57.485199 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b22c3698-51f2-3b23-8125-b3be77c44bb0 | -16.7866 | -57.492802 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b915f242-083f-3cbe-8a26-ae574b55f30a | -16.8423 | -57.752899 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 86bf0626-edf0-34da-ba8e-3710c73e2e7d | -16.844 | -57.760601 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b2766f00-931e-397e-9325-8837aa578fc2 | -16.8456 | -57.768299 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 824175d5-fe99-315c-8344-d4c65f9a26a9 | -16.8309 | -57.747398 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 54d9a4fe-cc0c-354b-b8a0-a585a742ccbc | -16.8325 | -57.7551 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| da297729-e4ea-3a67-aa3c-6d80f87784b9 | -16.8342 | -57.762798 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b84263e6-ebf2-39f4-ab94-86e761a5d4b7 | -16.8358 | -57.7705 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5bf31d8f-9987-3e49-bc5a-bf47857b0270 | -16.7411 | -57.376598 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 50b2c45a-8aa9-3c86-8983-51f2a32ef08d | -16.742701 | -57.384102 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 0e5fb424-b125-3ad3-b634-2ea378aa11fe | -16.752399 | -57.429298 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5e30914b-0882-3c40-847c-0d8606acb366 | -16.687799 | -57.1772 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 730c255b-151f-39db-8f61-d2c451272779 | -16.6894 | -57.184601 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| cc690d4b-d8e4-377f-b026-e32a2863063e | -16.691 | -57.192101 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| e7c5dfd5-ff97-3197-914e-b64f732f661b | -16.740999 | -57.424 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5cfa2a3d-0d85-383c-8cf6-1ce1496ff6f2 | -16.742599 | -57.431499 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 1968fbc3-7ac8-343e-8e0d-5ab143f0b460 | -16.744301 | -57.438999 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 0d045cfa-9ee8-3d3e-a6ee-afd5d5c9f959 | -16.752399 | -57.476799 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 78ce8566-7ef1-3397-9e00-df889534d9a4 | -16.754 | -57.484402 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 1f5c7153-5370-3e2c-b63c-97509c54abcc | -16.7556 | -57.491901 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 972c770b-8408-3069-a84f-b8907d4aa29a | -16.8195 | -57.790401 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 50b77e1a-4f80-312b-93ef-367fa5b06988 | -16.821199 | -57.798199 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 873c1a0f-9116-38a4-a222-74837c8b0b46 | -16.8228 | -57.805901 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a224a9bf-d7c9-3d93-8630-1374d3a926f5 | -16.824499 | -57.813702 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| e2722fa6-b450-3972-92b3-88970ece06c6 | -16.677999 | -57.179501 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| c15e22d0-f6e3-35be-912d-8888ce801afc | -16.6796 | -57.186901 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 30d3e815-2d7d-349c-84a0-2238e2195bd2 | -16.6812 | -57.194401 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 7920fcd2-e0cc-3932-9c85-5b90f43b5f35 | -16.689301 | -57.231602 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a4a4648b-ed70-36e9-920e-3cd1c71c6abf | -16.690901 | -57.238998 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| c3e5947c-955b-3660-a760-d36ba026f00b | -16.728001 | -57.411098 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 87b91556-949e-37a8-8271-7f90f2e48f93 | -16.7297 | -57.418701 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5572bf4f-a2fb-3d57-bbcf-450b8c0d81b8 | -16.7313 | -57.426201 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| ccaed195-88c8-311d-8242-1aa4270d0386 | -16.732901 | -57.433701 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 60f552f0-caed-3af3-8294-2c3004c380e1 | -16.740999 | -57.4715 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| f0bb680d-a54a-32dc-872a-5e246a615739 | -16.742701 | -57.479 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 7b9cc7fd-2f21-3d42-9ce2-931ef116bb78 | -16.744301 | -57.486599 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 948d066c-0396-3d7c-ad8d-acc4232d8906 | -16.745899 | -57.494202 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 55fff918-03b2-3356-a780-a69e0d07835e | -16.8097 | -57.792599 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 27de632e-09c7-33b0-b1e7-00881a253667 | -16.811399 | -57.8004 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d362be29-9fbf-3c81-bf25-6257ab61803b | -16.813 | -57.808102 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 02a024bd-5217-30ff-bc4a-dc5bd6658301 | -16.6698 | -57.189201 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 7dcbaf28-cd85-364d-8f8a-8ec82848ed87 | -16.6714 | -57.196602 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 020a5db4-f0ca-36bf-9f9d-338d06c6645f | -16.7101 | -57.375801 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 7b94980b-d02e-361d-a322-83f658b30da8 | -16.7118 | -57.383301 | 2024-10-02 01:24:00 | METOP-C | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d73da8ed-69f8-382a-8b32-6a4b24681621 | -16.718201 | -57.413399 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| faace282-24c7-330b-a041-292ded4a1a91 | -16.7199 | -57.420898 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| de8a5a4c-735e-331d-806f-f74f8874c13b | -16.7215 | -57.428501 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 60f453c2-845b-35b4-92c2-10720e3c79e2 | -16.731199 | -57.473701 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 332486fb-f588-3c72-8d6b-e4d53de5e50f | -16.732901 | -57.4813 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 7ce0d961-4888-3863-ac1d-fb0512848779 | -16.8016 | -57.802601 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 3e5f2c62-0857-3288-8e2b-d2f88398a325 | -16.8032 | -57.810299 | 2024-10-02 01:24:00 | METOP-C | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 4d213f82-6658-3415-82cb-e971305a7d76 | -20.02401 | -42.72677 | 2024-10-02 01:24:00 | TERRA_M-M | RIO CASCA | MINAS GERAIS | Brasil | 3154903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 60.4 |
-| 33cb1277-05d5-37c8-bb7d-aa495813bb6f | -20.02065 | -42.73423 | 2024-10-02 01:24:00 | TERRA_M-M | RIO CASCA | MINAS GERAIS | Brasil | 3154903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 50.9 |
-| 3bb1891d-1475-3623-9ae4-1a1abe3155b3 | -22.9302 | -43.73805 | 2024-10-02 01:24:00 | TERRA_M-M | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 42.2 |
-| 8b925b75-3b0f-39e0-bbd6-9d74fc302123 | -22.68064 | -43.72412 | 2024-10-02 01:24:00 | TERRA_M-M | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 31.7 |
-| fbf0394f-705a-306d-9ed7-0881f08bc705 | -22.67481 | -43.69492 | 2024-10-02 01:24:00 | TERRA_M-M | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 28.4 |
-| 12cad9a1-2460-3120-9f51-d898b1fcc0a9 | -18.35607 | -44.02237 | 2024-10-02 01:24:00 | TERRA_M-M | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| baa39925-0ee0-314f-8b0c-82ad8ed29e86 | -18.35458 | -44.05121 | 2024-10-02 01:24:00 | TERRA_M-M | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 32.7 |
-| dc5c238e-6f86-3ea5-bf5a-1bff166d66dc | -18.3483 | -44.01953 | 2024-10-02 01:24:00 | TERRA_M-M | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 66.8 |
-| 34f9e508-0d2f-3266-8792-325a5188fb1a | -20.00611 | -44.54179 | 2024-10-02 01:24:00 | TERRA_M-M | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 31.5 |
+| e0433a54-e250-3542-b8c5-7e866b112dd6 | -18.6178 | -49.1884 | 2024-10-03 01:02:38 | METOP-C | CENTRALINA | MINAS GERAIS | Brasil | 3115805 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 898c684a-b91c-370b-a678-3a79321af332 | -18.619499 | -49.195702 | 2024-10-03 01:02:38 | METOP-C | CENTRALINA | MINAS GERAIS | Brasil | 3115805 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5de2393f-4001-3776-8f23-e0b86aa5445e | -18.1651 | -48.519001 | 2024-10-03 01:02:43 | METOP-C | CORUMBAÍBA | GOIÁS | Brasil | 5205901 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 4237e8d5-961e-3fbd-8edb-cf3abd09bff2 | -18.1668 | -48.5266 | 2024-10-03 01:02:43 | METOP-C | CORUMBAÍBA | GOIÁS | Brasil | 5205901 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 768fe9e3-f3ed-31ac-9deb-07cfbc59e3c3 | -17.6003 | -46.959099 | 2024-10-03 01:02:46 | METOP-C | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| c78e7a36-c02f-3089-8d85-4bff0b800f0b | -17.412701 | -46.313801 | 2024-10-03 01:02:46 | METOP-C | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 781715cf-b75c-310a-b536-7a27815ec8a0 | -16.3342 | -42.300499 | 2024-10-03 01:02:47 | METOP-C | RUBELITA | MINAS GERAIS | Brasil | 3156502 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| fe9cdebe-a909-32a3-a8c0-3617c91750d5 | -17.745701 | -48.448002 | 2024-10-03 01:02:49 | METOP-C | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| cc911bad-4f17-3646-85ea-ef38c6d88c55 | -17.732401 | -48.435299 | 2024-10-03 01:02:49 | METOP-C | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 9c34cff0-5b92-3d60-a603-87afa7990131 | -17.7342 | -48.442902 | 2024-10-03 01:02:49 | METOP-C | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 73e53a87-505e-3eab-83ce-6fb2e09ba4a2 | -17.735901 | -48.4505 | 2024-10-03 01:02:49 | METOP-C | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d8a250cc-2ea1-37ab-b811-1686de72e24d | -18.2603 | -50.820499 | 2024-10-03 01:02:50 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 18ab71e4-22f5-324d-8078-c26269d8d29b | -18.249001 | -50.815498 | 2024-10-03 01:02:50 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 4cb4ec0b-4c87-3dd2-867d-47f6927d9eb2 | -18.250601 | -50.8228 | 2024-10-03 01:02:50 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 716ee44d-37ec-3a8e-ba3f-20421311dfbc | -18.252199 | -50.830101 | 2024-10-03 01:02:50 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| cf96439a-49e0-36cf-9be4-3dfbdd1ec2e1 | -18.892401 | -54.496201 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 9d49c7b6-52cc-38eb-bb9d-f681b4d55e36 | -18.8944 | -54.506302 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 75304a93-074f-3e10-875c-a8079976a46c | -18.8964 | -54.516399 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 28a90d3c-b56d-3781-9ed5-fd91e565d8b6 | -18.8806 | -54.488201 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 0fa41cc2-ffed-370e-b30a-289fca721c23 | -18.882601 | -54.498299 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 2087580d-0bec-338d-9361-ea2faa6a171a | -18.8866 | -54.518501 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 075078dd-f736-3405-8fde-f6e0494059f1 | -18.888599 | -54.528599 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 65c708f5-56a4-3560-a604-307b1f067ffc | -18.8671 | -54.522598 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| ce4b88c5-dafc-3426-bc19-500064a4f267 | -18.869101 | -54.532799 | 2024-10-03 01:02:52 | METOP-C | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 33cf0470-0268-3b30-b2e7-50a7b6e6abf6 | -17.111601 | -47.122002 | 2024-10-03 01:02:54 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| ebd6d36a-9754-3a0e-a1b4-11dda1001be4 | -17.113701 | -47.130501 | 2024-10-03 01:02:54 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| d83acadf-d158-3191-92bd-f8a5cab746f8 | -17.101801 | -47.1245 | 2024-10-03 01:02:55 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| ca7f5f3d-aa93-38ea-a7f2-b7fac0457588 | -17.103901 | -47.133099 | 2024-10-03 01:02:55 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| b8a652ff-ea04-3e92-b400-56d853d0dc94 | -17.1059 | -47.141701 | 2024-10-03 01:02:55 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 1c6229f1-4588-3c9e-961d-2ef4d5bb0e89 | -17.8354 | -50.806499 | 2024-10-03 01:02:56 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 9301578c-68d1-3d1a-b432-670e44fd0303 | -17.837 | -50.813702 | 2024-10-03 01:02:56 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ffc3a569-4dc3-3d0a-b5d7-9b539bacbf17 | -17.8386 | -50.8209 | 2024-10-03 01:02:56 | METOP-C | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 7d8a3c68-9789-33d7-a875-e414c79588e9 | -18.7209 | -57.322399 | 2024-10-03 01:03:03 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 954792a4-d238-3d9f-a8c6-81d22c287f24 | -18.7237 | -57.337502 | 2024-10-03 01:03:03 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 20ccb4b7-b78c-3b46-bc57-9029e89acb64 | -18.7139 | -57.339401 | 2024-10-03 01:03:04 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 0c26c9e0-380d-33d3-b3db-b2ccdd9802f3 | -17.685499 | -52.638802 | 2024-10-03 01:03:05 | METOP-C | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 816ab40e-9dac-30d6-99e4-a66eed2606a7 | -17.7416 | -53.1026 | 2024-10-03 01:03:06 | METOP-C | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 7e204133-ad73-3f9a-85dd-c16f087930f6 | -17.726601 | -53.079899 | 2024-10-03 01:03:06 | METOP-C | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 4d832086-0120-32c4-93e7-5d870454da44 | -17.7318 | -53.104801 | 2024-10-03 01:03:06 | METOP-C | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 30bbba0a-236f-3bdb-ad4c-6a3e59dbbd93 | -17.6161 | -53.139198 | 2024-10-03 01:03:08 | METOP-C | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 67ddf2a7-acf5-31fc-8212-d511bbd276cf | -17.617901 | -53.147499 | 2024-10-03 01:03:08 | METOP-C | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| c9bc7000-e3d9-3d70-bf23-5e37f1427c56 | -15.2368 | -43.328602 | 2024-10-03 01:03:09 | METOP-C | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| ac72eece-225d-3fdb-9d51-c76997dbf95b | -15.2407 | -43.343601 | 2024-10-03 01:03:09 | METOP-C | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| d5b16a9f-7dbd-3dad-9dbf-7a9225b9f9f8 | -15.2271 | -43.331299 | 2024-10-03 01:03:09 | METOP-C | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| 8b44ae56-1ad8-39b7-bf2d-181259cd3264 | -15.231 | -43.346298 | 2024-10-03 01:03:09 | METOP-C | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| 2e50462d-b347-3e3a-9d38-5e4473763a2f | -16.807899 | -50.122601 | 2024-10-03 01:03:11 | METOP-C | PALMINÓPOLIS | GOIÁS | Brasil | 5215900 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 4a85dfaa-71b5-30ca-b0fb-15be3b429706 | -16.7981 | -50.125 | 2024-10-03 01:03:11 | METOP-C | PALMINÓPOLIS | GOIÁS | Brasil | 5215900 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| bcd84d7c-7056-34cc-a6f9-a89ca76b919d | -16.7997 | -50.132099 | 2024-10-03 01:03:11 | METOP-C | PALMINÓPOLIS | GOIÁS | Brasil | 5215900 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| edb1777b-4278-3e7d-a364-9e9974f691a0 | -15.7715 | -47.660999 | 2024-10-03 01:03:18 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
+| bab4b197-14a0-3e03-8027-ddb0efc71d60 | -15.7735 | -47.6693 | 2024-10-03 01:03:18 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
+| cde2bf3d-51b5-38d5-ba00-1c5bd622400b | -15.7755 | -47.677601 | 2024-10-03 01:03:18 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
+| dc2c3c7b-9599-3b6a-9625-2f15f11e6947 | -15.6487 | -47.193001 | 2024-10-03 01:03:18 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 8fa33e47-d018-3a2f-9f20-3888a222c8f7 | -15.6508 | -47.201801 | 2024-10-03 01:03:18 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d95b9bf8-e91c-30e1-bb5c-0d4bc398618b | -15.653 | -47.210602 | 2024-10-03 01:03:18 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| b80a1a5e-7836-3c49-ae20-b47b3d3e513c | -17.851101 | -57.697201 | 2024-10-03 01:03:19 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| e5e4dabf-7a11-3cbd-a2f3-e7c2ab2e2765 | -17.834499 | -57.7164 | 2024-10-03 01:03:19 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| fa723072-a1db-3a44-801e-a114cdc780b1 | -13.506 | -48.611698 | 2024-10-03 01:03:19 | METOP-C | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| afff0c78-eca0-3feb-b94a-fe3302e5944f | -13.4944 | -48.606098 | 2024-10-03 01:03:19 | METOP-C | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| a210b4a9-e94e-3cad-a89b-8174a22439e5 | -13.4963 | -48.614101 | 2024-10-03 01:03:19 | METOP-C | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 7dd3153f-3b0f-3fdd-9ddd-ba0f92b3c7a5 | -15.7156 | -48.384102 | 2024-10-03 01:03:22 | METOP-C | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| b578bc27-04d7-3a46-98c9-bc7118d27826 | -16.0973 | -50.262199 | 2024-10-03 01:03:23 | METOP-C | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 01564b59-7b11-3b11-a51e-ade308d81788 | -16.0989 | -50.269402 | 2024-10-03 01:03:23 | METOP-C | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| fe9e4ae0-2997-368b-a102-cfb61042eaf2 | -16.1005 | -50.276501 | 2024-10-03 01:03:23 | METOP-C | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| c124c26a-fc7a-379e-beb5-7cc91e18caaf | -16.1021 | -50.2836 | 2024-10-03 01:03:23 | METOP-C | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 730bec05-c36d-3b2e-9895-16df3a1b9888 | -16.0891 | -50.271702 | 2024-10-03 01:03:23 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 261fa2b9-827d-310c-9814-e7d7e9f9f58f | -16.0907 | -50.278801 | 2024-10-03 01:03:23 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 953ca386-8609-3270-b5d0-1450a1f6d3d5 | -16.101801 | -50.373699 | 2024-10-03 01:03:23 | METOP-C | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 5cba1271-a9d7-3b45-8b50-fa6242f0778c | -16.114599 | -50.430599 | 2024-10-03 01:03:23 | METOP-C | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| b0bbd975-3b1d-3f33-9f45-11c09a9c3b0c | -16.116199 | -50.437698 | 2024-10-03 01:03:23 | METOP-C | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 37ae79d4-399e-3f9b-ba8c-8cd74d403381 | -16.079201 | -50.319099 | 2024-10-03 01:03:23 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 42d493fe-2dce-3809-89b9-92192b582cd6 | -16.080799 | -50.326199 | 2024-10-03 01:03:23 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 8e6da99d-c3ea-329b-bf2a-e1b81dfefdab | -16.082399 | -50.333302 | 2024-10-03 01:03:23 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 70ba7ffe-1a46-3e2a-b314-6c32e45fbc9f | -16.090401 | -50.3689 | 2024-10-03 01:03:23 | METOP-C | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 49edbca1-8221-30b3-9a23-758e08c493af | -16.091999 | -50.375999 | 2024-10-03 01:03:23 | METOP-C | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 4e757d35-3f87-31cc-9158-91caf940f807 | -16.104799 | -50.432899 | 2024-10-03 01:03:23 | METOP-C | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 9af758a7-6e76-379c-9c5e-3b759a7ec0b0 | -16.1064 | -50.439999 | 2024-10-03 01:03:23 | METOP-C | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| e3ebdd9e-3383-3102-b402-2124d552c0ce | -16.0821 | -50.423302 | 2024-10-03 01:03:23 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 24f99252-cbae-34ae-8dda-c8ff27889412 | -13.2606 | -48.578899 | 2024-10-03 01:03:23 | METOP-C | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 5e078f8f-d5d0-3876-9085-72a6abf30fd7 | -13.2625 | -48.586899 | 2024-10-03 01:03:23 | METOP-C | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4531fc54-4b24-3523-8e0a-873818bae988 | -13.2429 | -48.591702 | 2024-10-03 01:03:23 | METOP-C | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 66940fdd-d608-3882-b105-62c3537a3ecb | -15.5984 | -48.544899 | 2024-10-03 01:03:24 | METOP-C | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 25c9bcb3-c578-3645-979a-c91257551238 | -15.6002 | -48.552601 | 2024-10-03 01:03:24 | METOP-C | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| cf96f945-65bd-3ff0-99b1-b4855321e0c7 | -15.9217 | -49.988098 | 2024-10-03 01:03:24 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ea955018-c29b-3ce4-8e08-0417f8742b35 | -13.1941 | -48.6036 | 2024-10-03 01:03:24 | METOP-C | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| feeefaa9-778f-36b9-a772-2c06eeb00481 | -13.196 | -48.611599 | 2024-10-03 01:03:24 | METOP-C | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 621d0976-961c-3169-84a5-244c47f8a3be | -13.2016 | -48.635502 | 2024-10-03 01:03:24 | METOP-C | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ca5d65ce-da52-32c1-aadd-014e780cddd9 | -13.2035 | -48.643501 | 2024-10-03 01:03:24 | METOP-C | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| a8c61907-f0a6-3893-8efd-8f2a6c1857a9 | -15.8987 | -50.159401 | 2024-10-03 01:03:25 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 37a6c7cc-3adc-3877-8818-decc83a7843b | -15.9102 | -50.1642 | 2024-10-03 01:03:25 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ea3bb4de-1655-315d-bfe2-22000a6f9c58 | -15.8955 | -50.1451 | 2024-10-03 01:03:25 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 393b21a5-7329-385b-b757-a41e80b8e769 | -15.9004 | -50.1665 | 2024-10-03 01:03:25 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 43e7e7b0-5f7d-3003-8908-e2e2c90c71a8 | -15.8874 | -50.154598 | 2024-10-03 01:03:26 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 04dea603-2641-3ee3-a7fb-39d36639a5c7 | -15.889 | -50.161701 | 2024-10-03 01:03:26 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 11d5231d-ad60-3053-b733-e50efada713f | -15.8906 | -50.1688 | 2024-10-03 01:03:26 | METOP-C | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d7350826-de87-33da-a627-eccd260cc8d1 | -15.2462 | -47.497799 | 2024-10-03 01:03:26 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d157d3ec-e5cc-3f3e-85f1-b8d32ddd9e3f | -15.2482 | -47.506401 | 2024-10-03 01:03:26 | METOP-C | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ebc9f5f4-91c3-3728-aad3-691da194825c | -15.2343 | -47.491699 | 2024-10-03 01:03:26 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| b62ca9bd-dbe1-3d64-af26-b076fbf23ca4 | -15.2364 | -47.500301 | 2024-10-03 01:03:26 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| efae5c8d-c6b9-3e55-b9de-2b7624a50e5a | -15.2385 | -47.508801 | 2024-10-03 01:03:26 | METOP-C | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| a8be4b52-d10a-3fc3-a84b-286917ae038f | -15.2267 | -47.502701 | 2024-10-03 01:03:26 | METOP-C | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README26.md)

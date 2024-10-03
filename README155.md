@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8b1a4cd3-f76b-3e72-8ce7-b83fd3438d71 | -16.5756 | -58.23808 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 67cf5bef-841e-3e67-b7ba-2099c0d12cd1 | -16.5739 | -58.2263 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 03295f71-fab9-3e42-a7f7-efae9858e57b | -16.57277 | -58.23378 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| acc63678-422a-3b8a-b7f4-1ea4cf215533 | -16.57051 | -58.24876 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 2ce997ef-0ecd-3782-a0b6-93a2b8112177 | -16.56318 | -58.25139 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 74287721-01d9-3820-9d94-1fe22ab0b148 | -15.86353 | -58.24845 | 2024-10-02 05:12:00 | NPP-375D | GLÓRIA D'OESTE | MATO GROSSO | Brasil | 5103957 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 7a465a66-e62a-3f78-a587-aec6671a7dce | -15.38279 | -58.15473 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1c77f26a-6cca-3b45-b3df-3fcd0312f682 | -15.37941 | -58.15425 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9551e056-ba24-311b-92a8-857d6d0a837d | -15.37884 | -58.15801 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| eaa3f291-d060-3b47-80ef-6f54bfc6e5da | -15.37603 | -58.15379 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2a81479a-eb6d-3f65-a4d2-5e67bf0bc117 | -15.37546 | -58.15752 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| eb25a796-23ca-33b7-918a-c38e2561d34f | -15.37208 | -58.15701 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c851b25a-17de-39bd-aaee-e7accf0ff851 | -15.35972 | -58.1702 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 88144329-4cb9-3816-b7ce-d8e7d3d62f02 | -15.28266 | -58.19191 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 93aabb4a-dabb-3b13-a866-cc2ec9a60bdb | -15.2793 | -58.19133 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 23c092ca-d2b8-3e11-bf3b-d8e35afa1e9a | -15.2765 | -58.18707 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 84fb72cd-2d92-35c8-8fff-fee9db99dfb6 | -15.27314 | -58.18646 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 301864a3-9ed0-3f35-b109-64ea7574ed11 | -15.26978 | -58.18588 | 2024-10-02 05:12:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| ee68153e-f964-3694-b066-1b09bfb1bffb | -16.8131 | -58.42442 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 0.6 |
-| 9e25b135-6e47-3cb8-9361-e5a5c528dc86 | -17.04101 | -58.3919 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| c1146265-dfca-336d-b347-be4950b798a5 | -17.03763 | -58.39134 | 2024-10-02 05:12:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 53853bb8-7168-32e2-a313-7ceadc5c9cc1 | -12.32651 | -59.21808 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 1cd3ccab-55e8-3992-a17c-74f6365aca87 | -12.32595 | -59.22163 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8a49e839-3023-35e7-9a17-65d6a76c0656 | -12.32261 | -59.22109 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 619885a8-d8cd-3e65-812b-988d2063459b | -12.23414 | -59.23931 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6b9ade01-e113-3f8b-a419-e326579d1dce | -12.23358 | -59.24286 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 7ef1939a-92f6-3534-86fe-714e3f547409 | -12.22967 | -59.24587 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 35995071-b94a-3dc6-840a-6cd2aebbef78 | -11.02302 | -59.20223 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8a8fee9a-64aa-3994-a50b-5150affa73e9 | -10.98138 | -58.96943 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2b7d690e-771b-3b65-899d-9c709c009da4 | -12.16795 | -59.73554 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 9643198c-6b5b-384a-94ab-26ae1423fdfb | -12.15568 | -59.72606 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 0c4d10c0-dd91-3b6b-9d44-67fd623bedba | -12.1539 | -59.88601 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| bdf3a3de-f7a3-3b00-b001-10ef6e39a446 | -12.15274 | -59.74416 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a2dd7d0f-69cc-3d93-a420-c63d31758b15 | -12.15053 | -59.88547 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 60a66e3c-239d-36ae-b64f-b906a99215ba | -12.14997 | -59.73997 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f3d6e23c-8081-3208-b0fe-303c35dee6bf | -12.14821 | -59.75084 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 474b8d0f-7343-3576-baae-349f7f914de1 | -12.1472 | -59.73581 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f411f914-e38d-3ceb-9bfe-e7e99c3603a9 | -12.14715 | -59.88491 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 02a59e32-0b7e-39d3-928d-d776da98b338 | -12.14703 | -59.75808 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fc4f150c-96ed-3e68-9354-717bfe9d49cf | -12.14656 | -59.88854 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 228d7289-f55b-35c6-a530-d89d279585d2 | -12.14485 | -59.75027 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 5b4f6776-ed66-3602-b9d0-a34267d77a2a | -12.14426 | -59.75389 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| c788ba1b-1203-3548-95a0-6faa53d90bae | -12.14319 | -59.88799 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 54ba0892-b37e-307a-a148-a4c84606c562 | -12.1426 | -59.89163 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 7d862212-c479-3143-9ffd-4deaa93e393d | -12.13982 | -59.88743 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| a7372642-2702-37d1-8919-3b76c773f4a8 | -12.13922 | -59.89108 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 6334a37c-7192-304b-979a-53dae3771f44 | -12.13807 | -59.76445 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| cb26c635-cdbf-3716-ae14-ea06ad7bcefe | -12.13471 | -59.76387 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 842f1863-c048-3b72-ba24-f65fa472d052 | -12.13413 | -59.76751 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 6050e28c-539b-39b5-9218-d0750d5d98fa | -12.13076 | -59.76694 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| f22ff32d-69c4-3e87-a46f-fc32e03c7e5b | -12.12682 | -59.77 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| ee96dcd1-178c-3bb7-a60a-ff44836a4a85 | -12.12624 | -59.77363 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 1afffb80-acdc-39e9-8074-3c4131e2df37 | -12.12565 | -59.77726 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 484639d6-a8c2-3f18-9a39-e98ef8935bb3 | -12.12507 | -59.7809 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| be1289b2-33cd-3df7-b368-6c982bbbfde4 | -12.12448 | -59.78453 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| aecb6972-3b6b-3cde-b3fe-a4d9b8866861 | -12.12112 | -59.78396 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 89c7cd23-68d9-3bba-9f86-450cb4dc24f4 | -12.12053 | -59.7876 | 2024-10-02 05:12:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 607c0107-3295-381f-8a32-295f854cd811 | -12.35755 | -59.29601 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b83ebc89-63d7-3edc-b14f-5ad48d3151a7 | -12.34811 | -59.29079 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 98f09659-7a92-33ea-8a9a-e4a0fc482cc5 | -12.34672 | -59.21394 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 48f1d470-4591-3de6-9579-8c6df65240f0 | -12.34421 | -59.2938 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e91b55fe-2934-3f5a-bb69-de3ffabbe17b | -12.34395 | -59.20984 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 318de18c-20c3-3db5-88a8-08ea99eb5b23 | -12.34338 | -59.21339 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e6d57210-c472-3d86-b2ee-eded92c88c8a | -12.34282 | -59.21694 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 6f9f8f0a-87f2-341e-bf67-a1cbb13be8c6 | -12.34225 | -59.2205 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| d55e4a2b-bfe5-388d-be8a-086abca97ec1 | -12.34062 | -59.20929 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| b4f07e5a-1890-34e7-bf16-6e44e06e0567 | -12.34005 | -59.21284 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| c1d27ae5-694b-3348-a397-e902ab502318 | -12.3386 | -59.30748 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 5dd57c10-ca2a-3307-933f-365b03b8b120 | -12.33764 | -59.21261 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 606b7405-71cb-3b36-9af5-2b06e0a31ebc | -12.33318 | -59.21917 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| da4719b5-e79b-3f7b-9bda-435a8096c930 | -13.1464 | -59.80046 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ceb72711-aaae-364c-b2be-162569a07764 | -13.14465 | -59.81132 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 49f9ea5b-a1f7-31f7-9a52-6b893b018eed | -13.14188 | -59.80714 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 98734454-5601-34d5-81c5-8761c4c8524e | -13.04068 | -59.86836 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f037d495-82ca-360b-b3d0-d631b2746f8e | -13.14975 | -59.80102 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| a1e9de29-b07a-3624-aeea-e2ce6b64538b | -13.03732 | -59.8678 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 52934afc-b112-3d30-81e1-efa4643c0a17 | -13.03396 | -59.86724 | 2024-10-02 05:12:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 5a70a666-23f7-3c72-b98a-36970db09134 | -14.49802 | -59.62364 | 2024-10-02 05:12:00 | NPP-375D | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 696e08c8-7abf-3deb-be11-3830fa41005b | -14.79594 | -59.42653 | 2024-10-02 05:12:00 | NPP-375D | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| af2ed695-0d1f-3fd1-b4e1-e4c873a7ce15 | -14.79369 | -59.42651 | 2024-10-02 05:12:00 | NPP-375D | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0c4b5684-1c66-3f16-8eb2-23d0ce89020c | -14.7898 | -59.42952 | 2024-10-02 05:12:00 | NPP-375D | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 26ceeae8-10f2-334e-b4db-d41cf9a2a2ad | -14.18386 | -60.25315 | 2024-10-02 05:12:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 2ea97b9a-5ea5-3c02-9cd8-66107c79ea06 | -14.1805 | -60.25257 | 2024-10-02 05:12:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d3dad1db-742f-3e62-b130-ec8c8bddfb1f | -15.74689 | -59.57311 | 2024-10-02 05:12:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| bbdf06f3-ece1-3727-99b0-e77dc2036fe3 | -12.30759 | -60.75843 | 2024-10-02 05:12:00 | NPP-375D | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 213ad25d-3988-3858-b883-1c42176da988 | -12.23014 | -60.63513 | 2024-10-02 05:12:00 | NPP-375D | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2e394c9d-8a89-391c-919c-fc628fcde54a | -12.13928 | -60.76612 | 2024-10-02 05:12:00 | NPP-375D | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d12a7eb3-ee90-3965-afad-f952ffd38f6c | -12.13865 | -60.76995 | 2024-10-02 05:12:00 | NPP-375D | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c46f3211-4f40-30ec-a583-ab2c83dbd8d8 | -12.00303 | -61.08543 | 2024-10-02 05:12:00 | NPP-375D | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ff01eb64-5aac-3e4a-a0f0-1f4fcdcaa59e | -11.99953 | -61.08483 | 2024-10-02 05:12:00 | NPP-375D | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d945f3fc-13cd-3a94-bef2-e11cbea409eb | -11.90545 | -60.29511 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| eb4db8bf-c272-32e0-a809-5b2c7985b698 | -11.24699 | -60.47861 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e510c96e-febf-327d-8641-6fe6f3205a79 | -11.24416 | -60.47426 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 019ac1d8-fc0b-3e63-9a3b-976a4fce4684 | -11.24354 | -60.47806 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 811ac17f-9a32-35bd-8591-e04de6fa408a | -11.24194 | -60.46615 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a459dd0e-31b8-330d-af34-6b98586ea262 | -11.24132 | -60.46992 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 183cf8c4-1387-3dfc-91e7-4e44cc99e7b8 | -11.2407 | -60.47373 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f9925b68-c03d-35fe-938f-1f74361d32e8 | -11.23848 | -60.4656 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1c054305-c54b-3a81-a87c-0932dce5917a | -11.23786 | -60.46937 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2e9e7da1-ea7b-3c8d-8006-17f3beb8b346 | -11.2344 | -60.46885 | 2024-10-02 05:12:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 74fbd898-8289-3357-981e-823f425360c8 | -8.75605 | -67.70106 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 496100dd-245c-35ab-a2b7-844a5a78b59d | -8.75552 | -67.70395 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5b2fa2d3-a379-345d-aeef-5b6b5b6ee13c | -8.755 | -67.70685 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 01d81592-57ff-32b4-a5a2-7e3c7634b1e0 | -8.74743 | -68.69631 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| f267714b-fd33-3ee6-af43-c59b1575a5f7 | -8.74209 | -68.6953 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 86f7ee00-99f3-3f43-b54f-57d2007d2280 | -9.39734 | -68.11839 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b2711b07-8293-38b5-8791-4dce06a09a3c | -9.36512 | -68.20937 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fd4e9243-526a-33cb-8605-7a6dfa98b122 | -9.35945 | -68.21145 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 079d8af2-e9a2-3484-b8a6-f3b80406b1f6 | -9.356 | -68.20136 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9eab23b6-ff0f-3e44-92ab-5828d03769cb | -9.35434 | -68.2105 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 85b13c34-aeaa-3de5-b9c6-cfcac84f6ea7 | -9.27725 | -68.36937 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ff81a38e-0f6f-36ca-85a1-00f91cbdd505 | -9.2164 | -68.17027 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 4aa3f800-6561-303c-9da8-9edfa0920bf0 | -10.63781 | -69.05238 | 2024-10-03 05:16:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8fc21098-d8c8-39bd-b791-9f102cfbcbec | -10.63719 | -69.05573 | 2024-10-03 05:16:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| bdb667af-1053-33b4-a834-d2f753eec356 | -10.62751 | -68.7306 | 2024-10-03 05:16:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 690fcff2-f5d1-3321-91c6-f7ec6893ffc4 | -10.62692 | -68.73373 | 2024-10-03 05:16:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 8b941620-5801-3083-8444-53a0bf8c244d | -10.62354 | -68.72324 | 2024-10-03 05:16:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1c31aa9a-ef71-3f2a-9d52-dc7168d4ab59 | -10.62295 | -68.72636 | 2024-10-03 05:16:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 27b03b7b-2c3d-306a-aa5f-c08823c51102 | -9.401 | -68.15656 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 6933d188-1b23-331c-b052-1a57cfef27ad | -9.39775 | -68.2633 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 995cc7b8-4a32-3486-ada2-db0c637d2989 | -9.39724 | -68.3055 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6659572e-d867-31c0-a2a7-1ee10535a611 | -9.39568 | -68.30473 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| ac747634-67a5-3779-9488-d4e8b8904c1c | -9.39564 | -68.25706 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3289dc47-5c5b-3560-86f8-79d536a7683f | -9.39152 | -68.30766 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 73efff4f-21ce-3fe3-b1a5-722736aad323 | -9.39091 | -68.33958 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 9e6e334c-58da-33c8-ab80-a15722397f18 | -9.3905 | -68.25615 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7a75d4e3-a417-30b6-82aa-717c3ccc26dc | -9.38993 | -68.25922 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cabfc895-6139-3fba-b67e-429fcc3340e0 | -9.3896 | -68.33886 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 7ec5e48d-eaec-3740-9e5d-d5cd21ad0b97 | -9.38904 | -68.34196 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c232be63-8595-3245-960b-64e36293f2be | -9.3839 | -68.3409 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cedafefb-f3f0-362b-bb29-6a8e7a36ec5a | -9.38063 | -68.33751 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 9744e88d-cd50-3257-9fbc-450c6dfbff7b | -9.37987 | -68.33369 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 10a517b7-ff32-3d8d-938a-bb24d4d994f3 | -9.37932 | -68.33677 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 576af697-2922-3fb7-9c40-aa2ac6acb702 | -9.37876 | -68.33986 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 5f3a216f-a8be-3c09-8fbe-8acf8664fce9 | -9.36591 | -68.79786 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d14d7357-cec3-3643-8f33-99e0d71ee0e0 | -9.3653 | -68.80119 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d3a0b9fa-bc26-3c68-bf34-d0e480ab277e | -9.35528 | -68.79587 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 29fb7d49-893a-35f3-85cf-7d91609f6fcb | -9.35071 | -68.911 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f7a8aa90-b310-3dd4-a4ae-46c5e1df63c8 | -9.84723 | -68.79794 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ed9523f6-07e8-3839-98fe-ca6fb9337838 | -9.84682 | -68.79547 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 0b7df071-3302-3c06-a0f1-32b4e3458955 | -9.84618 | -68.79887 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a8317733-c968-304b-bbcc-8f3b2a910310 | -9.84198 | -68.79676 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b56c39cf-769c-3e0f-910b-5e2a53d8860d | -9.84157 | -68.79435 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ad9d8ef6-a2f1-3417-afe8-2dd48a0d8434 | -9.82952 | -68.9164 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| ed5b0e97-fbd5-31ae-a6b9-381c75144eaf | -9.82672 | -68.91141 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d5cc9e26-d2ed-3cbe-8417-4652367f6895 | -9.82611 | -68.91476 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 24c03c9a-58c2-3172-a964-fb70c50c0d5b | -9.82484 | -68.91203 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f9170c84-2275-31de-80cb-8adacf63265f | -9.74826 | -68.42261 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a57ba0cc-0a1b-39b4-a34d-50c391cb8d0e | -9.74312 | -68.42162 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| fb710fb9-66b2-3d37-8bcd-cf5fa5ef688a | -9.74255 | -68.4247 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 8122b02f-cf4a-33aa-8178-efe01e72371e | -9.74198 | -68.4278 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 42945a2f-35b9-35c2-aa26-97622be6927a | -9.73741 | -68.4237 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| f803875a-2b59-31f4-a82d-88c7697da6bc | -9.73683 | -68.42681 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| e9c65b5f-8b85-3ddf-8556-a380bf9d69ae | -9.73626 | -68.42992 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| de220d41-3aff-36d6-abae-185e1f254834 | -9.73511 | -68.43618 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0902dcd6-caad-312f-b8e6-831ce7d4ca0b | -9.73453 | -68.43934 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 63bda8c5-4477-3ac9-b619-b5d844cf9cee | -9.72995 | -68.43523 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 771dffbc-01d1-3c7c-af24-f20b0d6b03a2 | -9.72937 | -68.43837 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| c5a57ba7-0b16-3459-aa4c-f6283ea0a9b6 | -9.7289 | -68.3833 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a3c053f8-7670-327a-87f1-a8de180e59b7 | -9.72376 | -68.38235 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c92aec67-872c-3b21-b086-b4d4312ba28e | -9.68637 | -68.8186 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| c7419bb2-5b5e-3bce-8fdb-7a234e1581a3 | -9.68107 | -68.81762 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c7d0ee95-e23a-35b7-aafd-60c152c343ba | -9.677 | -68.81001 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 494e5fa2-7ddc-379b-95aa-5623a172c495 | -9.67171 | -68.80901 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e16522b0-d584-399b-96db-12954bfcd523 | -9.67109 | -68.81235 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7bbf3dfc-26d4-37ab-8e8a-570b13ac3177 | -9.64346 | -68.63949 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 5485b1ee-f75d-3b4f-9780-964b1c6d49b5 | -9.63733 | -68.64382 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 12867d8b-3fd3-3bb3-bab6-6c7013955e52 | -9.63673 | -68.64708 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| e1b5c20a-c823-33e0-8395-cfa0eed845d6 | -9.63328 | -68.63627 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 9b26fe02-57fa-343d-a0d5-3d94828a2218 | -9.63268 | -68.63956 | 2024-10-03 05:16:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 386451f5-5ec0-3b4a-87ab-bcadc48e67f9 | -9.36059 | -68.79688 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 7b65f53a-b85e-33b0-9304-04f3beae9730 | -9.35997 | -68.80023 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3cf1dd07-429f-3191-9fe9-30011897fecb | -9.35465 | -68.79926 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 32a32332-04e8-3614-825d-7187895d5b57 | -9.35133 | -68.90762 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e0a148c1-53eb-3b3a-8e08-d415c25047c4 | -9.54973 | -68.26743 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6dd84a6f-7673-3d19-a35e-c2f02108354a | -9.54916 | -68.27053 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| db7f3ef4-a486-3de6-93f5-f86e04c05479 | -9.51373 | -68.43441 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a2ba8d8c-0bf0-3ad1-98ed-9376b2a2ad51 | -9.50911 | -68.45949 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8a872db8-c721-3646-9709-06c849bf32ad | -9.50627 | -68.44581 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 11855618-c995-3bd2-8448-6c10a7276fdb | -9.50569 | -68.44895 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1ddd2ed2-ba15-3325-9022-11034738f55e | -9.50511 | -68.4521 | 2024-10-03 05:16:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 86ccee46-4b01-3ef2-a63f-47ba322aabf3 | -9.50065 | -68.05769 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c0f756d4-fa73-3688-8201-0995c5e91538 | -9.50011 | -68.06065 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 81f018f9-6b97-3077-860a-595697be34d3 | -9.4956 | -68.05672 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 955f99ad-64d3-395b-a6d3-647c4a1d3c9f | -9.49507 | -68.05968 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c36062a5-1b86-3696-9c67-7869dda666a2 | -9.49001 | -68.05875 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| de0551da-669a-3b39-9d04-467fcbca5bfd | -9.47295 | -68.26888 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| ea1a8caf-a671-3be9-9a26-b5143ec41786 | -9.39592 | -68.15556 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3d281bc2-eae7-35c6-a143-99b0b69cafc7 | -9.39512 | -68.30785 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f88b3753-d0ac-3f10-84d5-93ff974850b4 | -9.39506 | -68.26015 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ba946485-b0f5-318b-b045-07d1bdf5b8af | -9.39448 | -68.26324 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4b33d9db-b138-346a-8554-7368cb4b4d99 | -9.39319 | -68.25922 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e7d05c22-2247-32dd-b83f-986ce4ece445 | -9.39263 | -68.26231 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 69814620-a4ab-3f3e-a84e-c440543f3775 | -9.3921 | -68.30457 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 0b020837-8301-3d2b-9e75-b795c1b43ada | -9.38178 | -68.33137 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 2c43e13a-1ed9-3a88-be87-34c7eb4650d3 | -9.3812 | -68.33443 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| e881884e-fbfa-3ea9-8d3e-f5f980e99b2f | -9.38042 | -68.3306 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 61d8d041-475e-3455-8bab-41269ebf5323 | -9.38005 | -68.3406 | 2024-10-03 05:16:00 | NOAA-20 | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 195a648c-c2ac-31c2-b18c-f815a33322fa | -9.51446 | -67.43584 | 2024-10-03 05:16:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| eeb79fa4-1b25-3ad5-a19c-2b757ef46a21 | -9.63145 | -67.47052 | 2024-10-03 05:16:00 | NOAA-20 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 3.7 |
 
 
 [Clique aqui para ver as próximas entradas](README156.md)

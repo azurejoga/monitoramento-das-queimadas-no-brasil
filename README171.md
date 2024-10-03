@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 77b70c63-aa1e-3ea5-9d8e-b02f5ce864f8 | -11.65378 | -64.22088 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 211dc596-b4c0-3581-9828-fab688aefe03 | -11.65156 | -64.21329 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 0021ee9c-9066-34b1-bca0-73797e650c99 | -11.65101 | -64.21682 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| c653c529-9bcf-32ad-a8b4-bd8be2850107 | -11.60397 | -64.19122 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8d490853-0d0b-3b73-bd3f-16712ff2d3f3 | -11.6012 | -64.18716 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5cfbe613-9f62-357c-a341-1a0889dd7618 | -10.90231 | -64.18439 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d73b9e17-fd1e-3649-bc36-360f407a608a | -10.90176 | -64.18791 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 80ce95ce-0984-37c7-b0ce-be6ddd5e76c9 | -10.89896 | -64.18365 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e57ef95c-1d22-3b91-b903-1d43b4b65f69 | -10.88348 | -64.17404 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| be9e41f1-24df-3f12-990a-31454362b211 | -10.84484 | -64.18233 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 6df9e207-193d-3907-a688-3fcc0e2fc9dd | -10.8443 | -64.18581 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| fc4be510-3042-35ba-a4e7-0b1403e0abbf | -10.83989 | -64.19231 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ed07f4f7-ddc7-3db1-9171-e126193ad5a1 | -10.83658 | -64.19179 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a3141cda-e8af-31ad-be75-db864e6c434d | -10.83603 | -64.19531 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| eb739861-73e8-318c-934b-4670bfee0f9f | -10.83494 | -64.20235 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b724b944-eb21-3e44-989b-2767e5bc755a | -11.77679 | -64.28039 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7febd735-e16c-3760-9336-864b7eca52af | -11.77624 | -64.28392 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| fde6eeb6-2532-3b8d-97cd-58ab33cf0190 | -11.77511 | -64.26927 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 11115cb7-950f-3b28-9630-18e1569b1050 | -11.77393 | -64.23287 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 891bdb3a-37df-3d8a-946b-569815b3e29f | -11.77339 | -64.23641 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 17c2cd48-ab41-3f4a-a509-5f5e894022f1 | -11.77293 | -64.2834 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f43278b5-1336-308c-a5ac-fecdee546226 | -11.77225 | -64.22173 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 056c8f4a-6699-3dbf-83be-19a89d715e16 | -11.76297 | -64.28182 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 22332889-3aa8-3ead-8b4c-28223c0a6c62 | -11.75312 | -64.28007 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| d58b78db-fb57-31d3-b252-6a9ce29de1d1 | -11.75026 | -64.18908 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 69eff6eb-9501-33c4-a3da-47c4218ed70a | -11.74639 | -64.19209 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 62e76070-af16-322a-abad-bd162aa5d9cc | -11.74152 | -64.28906 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| eab7a6d1-4b88-35e9-81f7-9c50018b6d78 | -11.73698 | -64.18695 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1fba230e-9cd9-3273-b20f-9f98ac7d90d4 | -11.7363 | -64.10337 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d9348ecf-845c-3027-9b0b-515ec92c86cb | -11.73517 | -64.08865 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| f97ed0b5-8b5c-30f8-9d86-30e9838831ad | -11.73243 | -64.10638 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| e97957b4-f590-3cd0-802b-8d6b3a7f5974 | -11.73239 | -64.08459 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ff6aacb5-1736-3e93-9d96-0ca240548206 | -11.72969 | -64.12411 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 0a3c6236-2564-3c59-af30-2cf48fd35d52 | -11.72961 | -64.08052 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 84d5ede3-5b37-3e4a-b737-22fac9e54c90 | -11.72907 | -64.08406 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 14f81d64-0c16-31da-a1ee-912bdc8bd710 | -11.72629 | -64.07999 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b39cdaac-f7db-381a-b75d-5174a58d354f | -11.72073 | -64.07186 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dd0dc1e0-1aef-32fd-abd7-9f3dd2a6d714 | -11.71753 | -64.1367 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 060b1f63-ce4a-3cc3-b6ef-8aaa4c8ec7fe | -11.71239 | -64.05961 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| c2fefb64-1123-3a21-a622-de6f9ee29f86 | -11.71234 | -64.03779 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| ff69b873-12b9-3453-a7ee-97e4dbcde1ed | -11.7111 | -64.2661 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 135b0a96-9832-39bf-a837-a112bd954ba8 | -11.70629 | -64.055 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6b467764-d88d-3af6-9885-70fd4b3567fd | -11.70574 | -64.05856 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c4c99a9c-a753-34ed-8a9a-c31e53f0cbf5 | -11.70296 | -64.05448 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6ac343ef-5845-3dc9-8394-76ce5a8e517c | -11.70241 | -64.05802 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d6210d97-36d2-3446-b6c2-d8a3f5c79cf2 | -11.7006 | -64.26804 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3e2bb0e4-fa74-345e-ac20-c107b519f8eb | -11.67738 | -64.04702 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 8aa3944e-3f36-313c-9a63-affd01f3239b | -11.6735 | -64.05004 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| a9aef24e-e40e-39e5-89a5-4262718b695f | -11.67065 | -64.0024 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 1e60ad2c-9277-3534-912e-acaa0d35a82f | -11.98381 | -64.73878 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| bb2ca7ad-743f-3fc2-bfcc-35fc417abe7f | -11.97664 | -64.74123 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8aed9381-5877-3dac-969b-4b5d5327ee30 | -12.49476 | -63.95911 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1f4f205b-d3f1-3427-b088-bfc5c35f9182 | -12.47436 | -64.04778 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| cdbcb551-c63d-3b84-b26a-6b2d24957b86 | -12.47381 | -64.05135 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 88a8b311-3403-39e7-808f-e52b276681da | -12.47326 | -64.05493 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d2ccba15-cbff-3da6-81fd-a499093737f5 | -12.46992 | -64.05441 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 0581268e-db98-3a1a-8fb3-7391c7532809 | -12.46987 | -64.03239 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 57d5063b-5873-3329-8e7b-e163cd5936a0 | -12.4638 | -64.04977 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0e226fa5-8eb5-32ff-a2b4-97e376300cae | -12.35149 | -64.3172 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4ce687eb-fd65-3f54-9ed0-913e86b05994 | -12.34817 | -64.31666 | 2024-10-02 05:36:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| abbec660-f3de-3286-8b79-f24b3f0c7f6a | -11.66808 | -64.99769 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 0aca4f15-d3e1-352d-9bdf-4754d1d1347b | -11.66753 | -65.00121 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 961a455e-be08-397f-90aa-32ec7f9c7d40 | -11.66698 | -65.00471 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 595bc1fb-be0d-30f0-91c7-62def4576b10 | -11.66678 | -65.1992 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 6bec782b-50e1-342a-9634-3210249de12e | -11.66587 | -65.01173 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| b85b0c90-5870-3fb8-95da-bf349b069350 | -11.66642 | -65.00822 | 2024-10-02 05:36:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| a85864b4-6eaa-31a7-8159-eba27b66daa0 | -9.96796 | -67.20453 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 02bf12e5-294b-3822-90c9-fccae0e06ae1 | -9.96729 | -67.20857 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 4d004c89-1656-3bbd-a9bd-19b4928c55a1 | -9.96376 | -67.20796 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| df83a0b8-ba06-38da-9bc2-b13840fa1047 | -9.93559 | -66.75784 | 2024-10-02 05:36:00 | NOAA-20 | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 4a1dca8a-f0fb-3332-9f19-47e3e7423e1b | -9.91825 | -66.84267 | 2024-10-02 05:36:00 | NOAA-20 | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| ab562f3d-3717-3794-b976-a36075e8c591 | -9.91164 | -67.30335 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ae860ffb-5bc5-3084-9dbb-12774ffa46e7 | -9.91096 | -67.30743 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ebbe8c62-a247-3d13-bc4a-a15daf71011b | -9.90894 | -67.31968 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ef1d59ec-09f3-37f1-bec6-3a011e7a1657 | -9.87405 | -67.30959 | 2024-10-02 05:36:00 | NOAA-20 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| c8477f28-bb07-3035-96df-c9b5d00facda | -9.8685 | -66.9716 | 2024-10-02 05:36:00 | NOAA-20 | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 760c830b-2ff1-3ca8-9743-844e31f0c757 | -9.86499 | -66.97102 | 2024-10-02 05:36:00 | NOAA-20 | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f3cd0a29-e17e-3352-b13d-e7c0fd15cf3f | -9.85025 | -66.43838 | 2024-10-02 05:36:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 47806545-fdf0-376e-98fe-7fb60f10bc25 | -9.81397 | -66.63949 | 2024-10-02 05:36:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7d05473a-7adb-36a9-8705-62b97997adce | -9.70271 | -66.85296 | 2024-10-02 05:36:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ea7835ae-a667-3e01-a87c-dc01a4fc1d75 | -9.69922 | -66.85238 | 2024-10-02 05:36:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 396f5bc9-8ae4-3b50-8af2-68392f947e98 | -17.21973 | -56.16675 | 2024-10-02 05:36:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 8e211434-dd70-3ed3-a82c-ac451940bf55 | -17.21931 | -56.17051 | 2024-10-02 05:36:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 685d82b8-1db2-33ff-9ab1-f34b782b49f9 | -10.7203 | -69.10191 | 2024-10-02 05:36:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| dbda8b50-2b3a-3df2-b60e-145c183a444b | -10.70965 | -69.02421 | 2024-10-02 05:36:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| eace6076-b8bc-35c5-8ca3-fe062081b1e7 | -10.70579 | -69.02353 | 2024-10-02 05:36:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f1d4d5f9-85b3-39c5-8afa-b5749e857c41 | -10.60859 | -69.04983 | 2024-10-02 05:36:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 8e1652fd-69cb-335c-b8c4-ee2fc8385fb8 | -10.4942 | -69.1298 | 2024-10-02 05:36:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c2db7f72-8bf3-3b4e-a6b3-eaf0c7489031 | -10.49031 | -69.1291 | 2024-10-02 05:36:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d8198aad-8df6-3972-908e-46ae1c09b356 | -10.85815 | -68.28434 | 2024-10-02 05:36:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| ebd9de20-4e25-3d67-99a5-a5b337c31b33 | -10.72599 | -68.88248 | 2024-10-02 05:36:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0125e2b5-ce88-3e9d-ae46-24034328a067 | -10.71728 | -68.77318 | 2024-10-02 05:36:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| b558ca21-d3e5-36c1-9823-c36eac0e43fd | -10.68441 | -68.89498 | 2024-10-02 05:36:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| bb9cb8b8-9273-3211-816a-3eb7640502e5 | -10.68187 | -68.89737 | 2024-10-02 05:36:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| bc2c8828-fb0e-3e77-b07a-694ca6e9d3b8 | -10.68138 | -68.64382 | 2024-10-02 05:36:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3e912631-f1da-3d35-aea3-6de3195f9152 | -10.67839 | -68.63853 | 2024-10-02 05:36:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 40481d77-a5d8-3d3c-826b-8f8b9f722b6b | -10.62964 | -68.67345 | 2024-10-02 05:36:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 4a10d98f-4341-3809-bda9-1723bf21d3b0 | -10.62586 | -68.6728 | 2024-10-02 05:36:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 359b57e9-89ed-3029-8ef1-65b6e127fffd | -10.61198 | -67.87197 | 2024-10-02 05:36:00 | NOAA-20 | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| ca97349c-4b06-3cbe-91ad-00933e05c59b | -10.60765 | -67.8756 | 2024-10-02 05:36:00 | NOAA-20 | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 060daf25-c467-3719-b656-36e12a0061fd | -9.55533 | -64.26167 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 5e5311cc-bc28-3d1f-9b31-76b52da17dc6 | -9.55228 | -64.25597 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 53acb92c-ea9a-3802-a16d-73e6c58d1581 | -9.55206 | -64.25863 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 058f5b1c-c0a5-3e1c-b6dd-524ab27a5208 | -9.54898 | -64.25291 | 2024-10-03 05:16:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 179904f3-9669-339e-9516-acdcd551b1c9 | -10.7064 | -64.14912 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8683fc11-67c1-378b-a0bb-bf16668e7394 | -10.70559 | -64.15382 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6b2c2b2d-1777-377e-a639-54d2b9cde819 | -10.70255 | -64.14854 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| e54e11c4-a392-3f96-bacc-0777f6f6341f | -10.70173 | -64.15332 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| a3c5637c-ade0-312f-a705-a893b057d324 | -10.69786 | -64.15286 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| fa592daa-8795-302d-b7fe-a6ee3d11fed4 | -10.69702 | -64.15778 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 7271e748-8e09-302b-9f09-6fc9f0172f30 | -10.694 | -64.1524 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ae208395-50d8-3b2c-ae5a-54c83efdaeb1 | -10.69316 | -64.15723 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f257fde4-b959-3e8c-a657-9111bf290b51 | -10.69015 | -64.15186 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 64c310cf-9dbc-30f6-ad7b-58abaa07f718 | -10.68931 | -64.1567 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 5986d719-d81c-3305-93b9-7b0e7d33b6a6 | -10.61917 | -64.51484 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 737e19c2-0362-31ec-a076-918c211a2837 | -10.60078 | -64.41029 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 08af6042-056a-3061-b82f-8dfc4e00d3bb | -10.59603 | -64.41465 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| b03c73fe-2c40-3eb4-9429-8df525380418 | -10.10789 | -64.42015 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| b2a26722-a9dc-3b00-8e36-bcadcc2a5e60 | -10.05776 | -64.4095 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 2afb0f31-0a36-3aca-baea-a588c4411998 | -10.69849 | -63.49039 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 26e98a3f-1aee-3972-a341-68aa15416627 | -10.2644 | -63.33447 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 750691c7-bf42-38c9-a261-a2f2750736d1 | -10.26367 | -63.33886 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 9303b7cb-3485-39ad-94f1-a990da8820ee | -10.26362 | -63.33239 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| cd3b1ec0-fdbf-3639-9fcf-5a65890a5763 | -10.26287 | -63.33677 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| e0774478-fd72-383d-ada4-668885a67ecb | -10.26212 | -63.34116 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 68b24910-468a-31fd-a6a0-7554f9f572ff | -10.26144 | -63.32947 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 02dd52c9-3476-3f4f-9356-db530e0d4fc8 | -10.26071 | -63.33384 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 699faaa6-dd2d-3516-94fe-67c2edaf1b9d | -10.25994 | -63.33178 | 2024-10-03 05:16:00 | NOAA-20 | MONTE NEGRO | RONDÔNIA | Brasil | 1101401 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7b7c1c01-1bf0-3626-b735-ab75b0105aed | -11.97325 | -64.76646 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 96da3a5d-4d9d-3596-a0dc-bf4bfb6664e0 | -11.96935 | -64.76574 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 17099960-af47-36a2-b4e2-39a3ae225fbc | -11.76287 | -64.28561 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 94bb7991-a219-3462-bfbd-eb57a287a54f | -11.75908 | -64.2849 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 9910eb21-b0d0-3bd2-b8f2-ce2e7f15944a | -11.75611 | -64.2794 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 3ec01c5c-bfae-3a9f-88a1-df46184f0cd4 | -11.75446 | -64.28894 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 3959963a-dbb8-33aa-9052-1e3e5273c032 | -11.74894 | -64.18595 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 9982058d-14b2-31d3-a194-e0a516c44c85 | -11.74516 | -64.1853 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 764afcc0-43fd-3f18-908a-91127ceff740 | -11.74137 | -64.18465 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 44432cec-494f-31aa-b815-da683ddbe471 | -11.73325 | -64.11887 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| d75d46dc-acc7-3a85-a42b-a5353810a278 | -11.73088 | -64.13283 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 08be3d89-36bf-3ee0-93fa-4f38f5c72237 | -11.73009 | -64.13748 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 341559ef-f084-30b8-9797-7501b8dc6f42 | -11.72632 | -64.1368 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d49a7b74-ded5-357b-bdb7-27849f189471 | -11.72404 | -64.28354 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5848feef-d529-3fc5-a729-489bdde64b7d | -11.72256 | -64.13611 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| b3996285-5d14-370e-83e6-e33fdade8bbc | -11.72138 | -64.28118 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| a9795e6f-e380-39ff-8019-b4f963fb0658 | -11.72058 | -64.28594 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1c777dd6-3f33-3ed9-a531-42572576f86d | -11.71879 | -64.13544 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 61ec7ba5-2a3e-38de-946e-a7e8e5e8619f | -11.71838 | -64.27578 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b67a90e1-ea8a-320c-8790-f803dd6836f2 | -11.71758 | -64.28053 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 955bad6c-24b7-3dd8-8ae4-fbabb51564af | -11.61984 | -64.1011 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| a2e166b9-4f5c-3b0c-9340-2458a47357f3 | -11.61687 | -64.09575 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 5d918626-a312-33e2-ae2b-cd5f3585ba71 | -11.61528 | -64.10506 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8829fbf1-b1ba-3ac6-89d0-392766c79597 | -11.61449 | -64.10974 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2cf6bdf0-d59d-3539-a8ca-012574f890e5 | -11.61389 | -64.0904 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7aff1ac3-9a19-3eff-b893-ec08b7578b7a | -11.60932 | -64.18601 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d790a74c-1be9-3161-8b6f-d46aa0e9b6d5 | -11.60852 | -64.1907 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 8c6f0aac-03ea-389a-bb0d-fbb05ba262ef | -11.60254 | -64.17999 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 78688a0d-4328-31f9-b287-3b1a3eb8b730 | -11.59795 | -64.18401 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| a5abb245-1545-3d13-8f83-2cd78d2606b2 | -11.59336 | -64.18804 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f7ae0649-453b-3dd6-bf89-a1a7ca50289a | -11.58288 | -63.76632 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5236e5f4-6465-3661-8a8e-b286e74a6b63 | -11.57996 | -63.761 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 0a463260-ddda-3191-9e82-49124b1a8df5 | -11.57914 | -63.76586 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| dd7fff92-0b29-3f61-aa98-9386ba1c4bab | -11.57622 | -63.76059 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ba238b0a-9907-393b-a795-5c19258cfec4 | -11.57248 | -63.76019 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 15894a7e-2628-31b0-a0c7-144b89ba458d | -11.56876 | -63.75969 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b8938c28-8e88-3bc1-92ae-163a9ed04d16 | -11.56351 | -63.7682 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 30a3af79-3a4f-3736-96a7-9db2bfc2fd2d | -11.55981 | -63.76756 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 585d669f-5b43-38ff-873a-cdc1b92bc9ab | -11.55904 | -63.77206 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d7fa12f4-3f17-3bfc-8e17-dad0d0adedb8 | -11.55775 | -63.73467 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 9ebde509-d434-33d7-a9a8-43f3a434d867 | -11.55534 | -63.7714 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| fef177cd-660f-3e35-a060-4d0b2b48ebec | -11.55458 | -63.7759 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| c4e7af37-6687-303f-a270-93dca88c535d | -11.55327 | -63.73867 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 6e1e8151-e3f3-348f-94fc-5c8af78d12a6 | -11.5523 | -63.78938 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 760d3816-0a29-39c3-8937-d19c0d554a6d | -11.54957 | -63.73803 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 10b437f6-3c8d-3d94-a147-b9310ab1ddf4 | -11.54935 | -63.78423 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 71b61da7-a8c2-3258-89fa-c1c21a0d7116 | -11.54483 | -63.94694 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 854723f4-8def-3d1d-8bfb-37f78abec3e0 | -11.54406 | -63.95153 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| edbf4483-f1e7-39fd-b101-f27b13b78842 | -11.52014 | -63.70982 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a012c97d-fd9f-33c8-a510-6d03d63f956c | -11.50807 | -63.58688 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 998a39e6-d71a-314c-ada9-2ee3e2437c3c | -11.50513 | -63.58187 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f6d924e3-b6f5-3e2e-9176-e41f0369b684 | -11.46016 | -63.33734 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f290b4c4-3d1f-32f0-b989-d3d46354aa89 | -11.45988 | -63.33485 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 902be623-06b9-3aee-86d3-878895143e51 | -11.45917 | -63.33917 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4afa4dfd-836e-3182-9a2b-b234c8ded35f | -11.45653 | -63.33673 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d4679948-d356-3b06-80ff-6d499edf79a3 | -11.45625 | -63.33425 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0e6027c0-2122-3e11-8462-99fb597c6d0c | -11.45579 | -63.34106 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2b0beb37-8022-3702-a664-a78974ae2b45 | -11.45554 | -63.33856 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 35af0810-be98-30a9-8e0b-0d7bb116a294 | -11.45482 | -63.3429 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f5de0603-ab7b-3b8b-8d5d-abcf01a3497c | -11.4529 | -63.33615 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 1c0d8464-8ff2-3697-8bc1-953a04404c62 | -11.45262 | -63.33366 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 09453362-bd64-3fbd-afe6-eebf02608dd8 | -11.45216 | -63.34045 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3e9f5b10-7061-3b58-8b8e-04af742dce43 | -11.45191 | -63.33796 | 2024-10-03 05:16:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 40a8c743-bec0-3a8e-8e00-a286be3c7850 | -10.84997 | -64.17547 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| e10926ff-aab3-35f8-8124-f4278a12618b | -10.84919 | -64.18005 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| dd50bdc3-d7e9-3680-bb1b-a3166e6a63eb | -10.84447 | -64.18463 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 908a4eb9-d689-30fc-9712-b69794d9650a | -10.83665 | -64.20744 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| eb7550e0-fbf4-3f8c-bcb7-f23717e6f6b2 | -10.83599 | -64.18812 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| d7182352-6cd1-336d-9dc8-cba741d27aa6 | -10.83584 | -64.21223 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 68b18e18-f125-38d3-8510-0dc23d259938 | -10.8352 | -64.19279 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| cc1e404e-11ce-3de4-982f-ac28ab68bf40 | -10.8328 | -64.20689 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 0ca1a954-318f-31a1-9939-cfd62c1b5652 | -10.83136 | -64.19218 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 13.6 |
 
 
 [Clique aqui para ver as próximas entradas](README172.md)

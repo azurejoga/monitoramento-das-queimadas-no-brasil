@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 05a53e2e-90b3-3430-b396-b6b013edfe00 | -16.8491 | -55.892 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 81.6 |
-| fc2aacdb-bb43-30ae-8241-b960c8f4f4b3 | -16.8295 | -55.8945 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 117.2 |
-| 17a3d418-62a8-335d-81af-708180572ee1 | -16.8292 | -55.9152 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 115.9 |
-| b8e7d31e-9d88-3559-91c0-ce61c60177ed | -16.8891 | -55.8455 | 2024-10-02 03:26:41 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 58.2 |
-| 30eb78b8-b56b-341d-8278-a27fcd251fd0 | -17.1581 | -56.1637 | 2024-10-02 03:26:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 81.2 |
-| 6581a614-ff65-33ff-981c-ed5f15a35e08 | -17.1577 | -56.1844 | 2024-10-02 03:26:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 73.2 |
-| 61cba880-59e2-38e2-bda7-9e0daf459b92 | -17.2364 | -56.1745 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.2 |
-| f5de588b-a648-3920-b66e-076ad9a11aaa | -17.2361 | -56.1952 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 91.1 |
-| e4c8583a-47a8-3bed-ae99-b1ac47d90225 | -17.2167 | -56.177 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 96.9 |
-| ce475e57-ffb7-389b-aec8-70d65085e41e | -17.2164 | -56.1977 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 102.9 |
-| 29cace27-56e8-3228-ba99-fa3b2f596cb6 | -17.1971 | -56.1795 | 2024-10-02 03:26:43 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 116.6 |
-| f9a3b4b5-1053-39b3-bae2-feaf8108ac56 | -21.3661 | -55.6807 | 2024-10-02 03:27:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 112.2 |
-| e6fbbd1d-0633-33a3-8d50-ec1af59b0b1b | -21.3656 | -55.7022 | 2024-10-02 03:27:04 | GOES-16 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 60.6 |
-| 0e75383e-2f2f-3c9b-a347-b231a6ad48db | -21.3456 | -55.6841 | 2024-10-02 03:27:04 | GOES-16 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 87.2 |
-| d2fa9b28-2e7d-31a1-9ec9-ae1ae11f6e60 | -22.3929 | -49.2727 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 145.0 |
-| 59038ddc-874b-3732-a0eb-b0388e496bea | -22.3922 | -49.2961 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 265.8 |
-| 25d9360e-fae0-3902-b073-35938592fcd6 | -22.3916 | -49.3194 | 2024-10-02 03:27:09 | GOES-16 | CABRÁLIA PAULISTA | SÃO PAULO | Brasil | 3508306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 86.8 |
-| a5c19f3b-fa81-3de4-8290-080f713b39a1 | -22.372 | -49.2777 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 214.8 |
-| e40330b3-766b-35e1-8c09-6038a616290e | -22.3713 | -49.3011 | 2024-10-02 03:27:09 | GOES-16 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 270.5 |
-| df33c7e4-471e-39a3-b491-78a2ef8f6ac0 | -22.3505 | -49.306 | 2024-10-02 03:27:09 | GOES-16 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 82.0 |
-| 370d0d7e-aecc-324b-a443-684460a53656 | -22.9014 | -45.0779 | 2024-10-02 03:27:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 88.4 |
-| bcf99ee1-4dd6-352a-b137-c404a5585333 | -22.9006 | -45.1029 | 2024-10-02 03:27:11 | GOES-16 | GUARATINGUETÁ | SÃO PAULO | Brasil | 3518404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 76.1 |
-| 88eb9718-f352-3123-be5d-a5bb5e21dcba | -6.87951 | -44.29382 | 2024-10-02 03:28:00 | NPP-375D | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| ff112429-973f-375f-98b8-33cff531e33b | -6.60062 | -44.18356 | 2024-10-02 03:28:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| b053960b-1b4d-3bac-b871-44bba964787f | -6.59993 | -44.18365 | 2024-10-02 03:28:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 58b92418-4e6e-3ef3-9eac-057cad1e8f61 | -6.59419 | -44.18209 | 2024-10-02 03:28:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 4db7dc34-d3df-33bc-b0e1-5d6cf43141d4 | -6.40434 | -44.75361 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ee16fd57-f57e-314a-be5b-36f9fab6be57 | -6.40116 | -44.74825 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 278aeea9-4414-3e76-9bdd-6d41093566d7 | -6.40004 | -44.75423 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 76b880fc-e2d1-3fef-888f-5c4a1c9b0e6b | -6.39867 | -44.74657 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| e331a3b4-9fc1-3449-af85-5616826e5e6f | -6.39761 | -44.75245 | 2024-10-02 03:28:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| de09b83c-205a-3699-b086-0f5621fc79a0 | -5.98507 | -45.36852 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 14e41bed-87ab-3040-a998-0ed19af172f4 | -5.98 | -45.36845 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 4e8b7e12-7739-3f26-a6ef-6fc69fbcc77b | -5.97804 | -45.36737 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| ae8ba142-cf8b-3012-a9f2-cfb7c5393d27 | -5.97679 | -45.37405 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| e8669668-5aa3-34c9-b44b-0f7b47387fd7 | -5.97174 | -45.37412 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| 437939cc-39ac-3500-a87d-7f288afab13e | -5.96973 | -45.37312 | 2024-10-02 03:28:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 3fa000e9-286e-3f71-b509-28c6be9a9c14 | -5.44666 | -45.18726 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| d54c2e13-7b7d-3085-a12b-b84e2f1176fa | -5.44549 | -45.17871 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 288194d3-db35-3904-920d-40c0f0bbe61d | -5.44418 | -45.1857 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| ce0d1b5b-a685-366b-aa4b-60c531b2dcd9 | -5.44084 | -45.17951 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 0ce77dbd-2bd8-311a-9052-f27aed9c202f | -5.43955 | -45.18665 | 2024-10-02 03:28:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 0eb7f428-6b66-37bf-9e85-20f06bf7e12f | -3.58957 | -44.54563 | 2024-10-02 03:28:00 | NPP-375D | MIRANDA DO NORTE | MARANHÃO | Brasil | 2106755 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 52ce384a-49c7-362e-8e2e-dea8f85b2f61 | -8.6915 | -36.23928 | 2024-10-02 03:28:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 9434b39e-94c4-3dd6-bae2-45e88f1b646e | -8.68851 | -36.23414 | 2024-10-02 03:28:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| f74c1d6c-0ed8-3f3d-a797-267952c7c7a8 | -8.68775 | -36.23867 | 2024-10-02 03:28:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 498fe781-836d-355f-907e-b9873ecdab76 | -8.16685 | -35.40311 | 2024-10-02 03:28:00 | NPP-375D | POMBOS | PERNAMBUCO | Brasil | 2611309 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 8698229d-a3ed-3f6d-aa3e-bc48343a7d49 | -8.07502 | -34.97763 | 2024-10-02 03:28:00 | NPP-375D | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 48ad5890-9334-3006-a9b5-b9d7a4628ebf | -8.07149 | -34.97704 | 2024-10-02 03:28:00 | NPP-375D | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| c3fbd61e-3947-3587-8172-0574fc73adb6 | -7.49396 | -34.83694 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 1cce631d-156b-392a-bb41-b25858e9ac3a | -7.49331 | -34.84091 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| 8a9fc23a-22b9-38e9-abbb-49700ee5d767 | -7.49042 | -34.83636 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 536632fd-417a-3096-9cd9-a7101d159838 | -7.48977 | -34.84034 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| 6ea02bdc-f0c6-31d7-96ac-aac41385da8b | -7.47495 | -34.84204 | 2024-10-02 03:28:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 26cd2695-341d-38ee-af1c-af1f2ed60321 | -7.45241 | -42.51155 | 2024-10-02 03:28:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 4d9a8c8a-f193-331a-be7c-99bf1327c4b1 | -7.45167 | -42.51571 | 2024-10-02 03:28:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 5c469eb4-ee9d-3de5-8802-a01618def000 | -7.29182 | -42.25353 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 62ca7b53-9a6c-39e7-a8c3-0fbfef5e9f85 | -7.2911 | -42.25743 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 4b3f5c99-2f2f-3fe0-981e-67c80de2a433 | -7.2899 | -42.25427 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| f2fe9681-693d-32ce-801e-f3b5aeb91feb | -7.2892 | -42.25822 | 2024-10-02 03:28:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| cf354032-cb2b-3c01-9b17-e41e553e4b90 | -7.1846 | -38.92276 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| ac5655a8-8235-3e94-85b1-457892467286 | -7.1838 | -38.92744 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| cee4b7de-585d-30d5-a745-02ef44780132 | -7.18006 | -38.92194 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 6.8 |
-| 42094773-6b56-3d9e-adb6-90d2927d37ae | -7.17925 | -38.92664 | 2024-10-02 03:28:00 | NPP-375D | BARRO | CEARÁ | Brasil | 2302008 | 23 | 33 | nan | nan | nan | Caatinga | 6.8 |
-| 5d302f17-258b-3b09-9d3a-516f7cd3be79 | -7.15898 | -44.22298 | 2024-10-02 03:28:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2fb2acf7-b31e-3a68-838d-055a245b3172 | -7.1581 | -44.22766 | 2024-10-02 03:28:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d91c9409-093d-3b55-bf65-f1fee083f8f3 | -7.07604 | -39.14864 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| cfc0cddd-74a2-3fdc-8b1f-3bf4f0390956 | -7.07521 | -39.15358 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| 315276f7-1030-3875-b7df-0b6172b1a5ab | -7.07418 | -39.15037 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 16.9 |
-| eaf767d4-01c0-3618-a735-3eab88996783 | -7.07139 | -39.14793 | 2024-10-02 03:28:00 | NPP-375D | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| b487564c-b946-3b40-9b1d-3991ef5d71a5 | -6.95429 | -42.50403 | 2024-10-02 03:28:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| f404a5f3-68b9-351c-afdf-8c81ccccd633 | -6.95353 | -42.50824 | 2024-10-02 03:28:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 6e9a29b6-adcb-39a5-bb8d-e1f687f876f4 | -6.87708 | -44.08996 | 2024-10-02 03:28:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 1d9b57be-582d-3071-b1e3-9f36925e36d5 | -6.87612 | -44.09511 | 2024-10-02 03:28:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 31ec06a9-b647-3105-84bb-f98d74f7e2f0 | -6.63678 | -42.10575 | 2024-10-02 03:28:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 387bdbce-2cb7-3042-a69f-dc62e41105a6 | -6.49843 | -43.8291 | 2024-10-02 03:28:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| d00750e4-0fbf-393c-ac1a-e65bb7a0ae54 | -6.45913 | -35.11275 | 2024-10-02 03:28:00 | NPP-375D | CANGUARETAMA | RIO GRANDE DO NORTE | Brasil | 2402204 | 24 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 25b03512-8ec5-3dc9-a745-1167ba8a5c7c | -6.44461 | -43.97295 | 2024-10-02 03:28:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 68b1e0f0-540d-3805-930d-0ac182d82727 | -6.44364 | -43.97842 | 2024-10-02 03:28:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 8d9e2109-4ade-3f98-a9c2-fd9a85c2ec71 | -6.25153 | -41.85272 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| a2a9e4f7-b684-3c68-9914-78dec9c13e58 | -6.25086 | -41.85658 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| ad56a65c-e7b6-37fd-b69f-c04c56b6bb51 | -6.24521 | -41.85564 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| cfe7cb34-a183-3f84-a908-3c4ade03b2fc | -6.24025 | -41.85083 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| e93ac593-5e24-3a0b-adcf-bc3f9348ef73 | -6.23957 | -41.85474 | 2024-10-02 03:28:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| a24b00a5-a7c6-355f-b074-851d7c655bd3 | -6.16237 | -42.90195 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 0103731e-79bc-3cc4-aa81-49252e9d5216 | -6.15705 | -42.89691 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| fc039330-804a-367f-a796-d21c92e0500c | -6.15624 | -42.90146 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 03ca82a6-6246-3201-8fc1-66261d8d1938 | -6.15533 | -42.90656 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 10.1 |
-| 402ef687-aba1-3e10-a42f-28d7eb1c48c2 | -6.1491 | -42.90664 | 2024-10-02 03:28:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 8.0 |
-| db251614-6c0f-3584-8ef2-1f1a5b2aca8a | -6.137 | -37.22652 | 2024-10-02 03:28:00 | NPP-375D | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 4d83852f-c5c1-3eb6-a52f-8bf92ebc918d | -6.08915 | -37.63904 | 2024-10-02 03:28:00 | NPP-375D | PATU | RIO GRANDE DO NORTE | Brasil | 2409308 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 924c2a26-d0ff-3720-bd17-44d41d3f80f0 | -5.96033 | -43.42878 | 2024-10-02 03:28:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| dfffcac5-0e40-3868-91b7-8e6c48ecf699 | -5.95102 | -43.26645 | 2024-10-02 03:28:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 5b593bf8-c1c8-3314-96b2-0389e83bc949 | -5.94482 | -43.26542 | 2024-10-02 03:28:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 061bb199-9e83-329a-b265-d44b6f50c016 | -5.92235 | -41.97732 | 2024-10-02 03:28:00 | NPP-375D | SÃO FÉLIX DO PIAUÍ | PIAUÍ | Brasil | 2209609 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| fca48224-df91-3969-94aa-de1fdf7e5537 | -5.92143 | -41.97956 | 2024-10-02 03:28:00 | NPP-375D | SÃO FÉLIX DO PIAUÍ | PIAUÍ | Brasil | 2209609 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 7e81cbc8-6c7f-36b1-a12f-279a1b76743f | -5.91594 | -41.98021 | 2024-10-02 03:28:00 | NPP-375D | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| b2a38694-bd61-3415-90f5-5b5432d601c8 | -5.88237 | -43.71729 | 2024-10-02 03:28:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 6a4dfe91-1de3-3a05-abf2-0b73500cb940 | -5.8814 | -43.72264 | 2024-10-02 03:28:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 4f58d3af-ae1e-320c-828c-61752482ce8c | -5.7099 | -43.93664 | 2024-10-02 03:28:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| fb8d607c-1f5a-3396-887a-9683d785fc8d | -9.22905 | -67.8246 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 9299f668-8afe-35b1-af45-139cbf1fdda1 | -9.22773 | -67.81472 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 15.4 |
+| 02d357b9-afcf-392f-ab43-238ad7a7960e | -9.22376 | -67.78513 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 10.2 |
+| 1c1c439d-f8fa-3968-9880-2d73ca208462 | -9.21448 | -67.78642 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| ed76f210-5209-36d6-807c-f06a6ef1336a | -9.1958 | -67.85952 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 8.9 |
+| 01931236-04a1-35ce-bf5a-05081cd6740c | -9.19449 | -67.84959 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| e53d53e6-5949-3861-9bd8-50060fc9b47b | -9.18871 | -67.85666 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| c6b8baa7-440c-33a5-845f-ea7eeba1fdeb | -9.18736 | -67.84675 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 08737ba7-42a3-3e1c-b7f3-3f6343bf4de2 | -9.0607 | -67.87026 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| df0ee5d0-cacb-3aa2-81cd-3c780141d0bf | -9.05936 | -67.86037 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 18.8 |
+| 2b3c6bbf-550b-347d-8119-d03701765ac5 | -9.0514 | -67.87156 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| 8eb95f17-3b13-3804-9a10-3c3381bbf902 | -9.0514 | -67.80121 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| aedd2707-1455-3380-938e-e72bb18c437f | -9.05007 | -67.86166 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 58.3 |
+| eb7471a2-624c-359f-98f5-2567fd7f1639 | -9.04213 | -67.80249 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| d96c5b36-6cd9-3035-8c69-ccbe53d09011 | -9.03676 | -67.90392 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| effc213b-5f79-39fb-85f0-8a6528eb5a90 | -9.01705 | -67.75605 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| 4bed925d-179d-3426-8982-0cf9c2f1c904 | -9.01575 | -67.74628 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 83.2 |
+| be521dc0-0915-3dca-adec-14e95b6e9263 | -9.01444 | -67.7365 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 24.7 |
+| 5610098e-9cbd-3904-9347-b5f3c790b2f1 | -8.99892 | -67.81473 | 2024-10-03 02:09:00 | TERRA_M-M | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 7.0 |
+| ed6d8b69-8a23-3fd5-8969-5557e27fcc84 | -9.74895 | -68.42547 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| e5c27f15-f67f-3cbc-8237-96573c68aa66 | -9.74069 | -68.43755 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 92a51a4c-3485-3063-809a-7788f5fbc50e | -9.73929 | -68.42677 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 27.2 |
+| 48e97a3d-94fe-3d93-b71a-280891070b52 | -9.73102 | -68.43887 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| f9c71c43-93cc-3386-9da2-3c7672d3b6c8 | -9.68652 | -68.81645 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 61d1d6db-2b3f-33c8-8954-fd37cf09e68a | -9.64293 | -68.64036 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| d15a7986-a0de-3ed1-9c0b-fa4049bf50c4 | -9.63316 | -68.64175 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 16.1 |
+| d157a118-fb39-338e-9fce-5d5febf25e40 | -9.6317 | -68.63068 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 50e0c473-4170-3974-bcb0-4cfb8db36ec3 | -9.58834 | -68.6031 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| ae454813-b489-38d1-ba15-354d4ce12f0e | -9.58691 | -68.59219 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 25.3 |
+| 8e6a95cc-4bb1-3753-a160-d896de1155f8 | -9.55445 | -68.26971 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 10.7 |
+| 17eaca87-f21f-3833-80ed-b69068c76634 | -9.55307 | -68.25923 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| c94a3ba8-7023-387f-9d40-135ec8d12140 | -9.51483 | -68.44269 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 7649141f-d0da-370a-90f1-8dd5117603a9 | -9.5066 | -68.45464 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 13.2 |
+| c0956806-7690-3aff-83ea-0dd25de9b6e3 | -9.50518 | -68.44395 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 10.8 |
+| cd0e23db-78cf-3ae1-8c2e-376ecf321b3c | -9.50264 | -68.49902 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 41.8 |
+| f5c683be-d99e-34d0-9741-6753cb8ecdd8 | -9.50121 | -68.48824 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 14.0 |
+| 44b23fa1-0ee4-30aa-a161-e57af8076a96 | -9.4974 | -68.05618 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| ade89727-79a0-3f5d-998c-7a57375883ce | -9.49296 | -68.50031 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 40.7 |
+| 3de2f447-4555-307b-8912-0758cce4ad62 | -9.49154 | -68.48952 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| 77b3d694-277d-3f15-a0d7-f3acda6a7ee8 | -9.49035 | -68.55572 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 15.8 |
+| fec40729-5d03-3e4e-a9c5-273a9fda5bb8 | -9.48892 | -68.54482 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| e92cfdbf-d858-3d49-8927-2afc1fd63bb5 | -9.46589 | -68.5432 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| f7d8a98c-16a1-3fe8-b54b-fbefacaea7bd | -9.46531 | -68.51494 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 19.3 |
+| fcda8750-162b-33c1-ab59-29654e7ab89e | -9.46297 | -68.52157 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 11.4 |
+| 79990c9c-6bb6-3909-b89e-e5f72e72d2f0 | -9.46151 | -68.5108 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 11.1 |
+| a023f129-343d-3ad2-b471-911f36cde262 | -9.44795 | -68.55666 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 8089132c-b596-3187-95bf-cf2729b9ae90 | -9.43288 | -68.592 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| dae9c757-a243-3526-8610-efb1c5ce14c3 | -9.40363 | -68.15448 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 30.3 |
+| e62fd2ff-9505-3717-a9b3-f631dda7c05a | -9.39855 | -68.26058 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| b28d936a-22ec-3aa4-8a58-b0fdbce0cceb | -9.396 | -68.31424 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| b1f7d0c0-7f41-3d6d-9a36-22e95eefd180 | -9.3946 | -68.30375 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 24.4 |
+| d1104681-0d16-348a-a644-f46a01a94f5c | -9.38922 | -68.33652 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 16.4 |
+| e84dd60d-d72f-3a5f-9339-98bb6fbc2d36 | -9.38783 | -68.32602 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| 7bea9bee-405f-33e5-95e2-b06fb5f125f4 | -9.37964 | -68.33779 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 28.4 |
+| 1d547a63-efbc-35a9-b1df-9541b0630ca7 | -9.37826 | -68.3273 | 2024-10-03 02:09:00 | TERRA_M-M | BUJARI | ACRE | Brasil | 1200138 | 12 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 46a468ea-8809-3974-9ae3-3fbbf19a9369 | -9.36814 | -68.79734 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 64f95714-f349-3340-baf6-3603841dd913 | -9.3583 | -68.7987 | 2024-10-03 02:09:00 | TERRA_M-M | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 12.4 |
+| 65e2ed52-80d9-37ef-b27e-489aad5d9dc6 | -10.00187 | -68.72648 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| a89ac658-17c8-33d2-8821-011fc49f1792 | -9.89488 | -67.58315 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 921e5e63-bf4f-3fb4-8cd6-1ae6f298cc62 | -9.63331 | -67.47935 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| 4ba45cc5-4fa5-3aac-a533-1249d2c6852c | -9.63201 | -67.46966 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 28.0 |
+| 43fb3af3-7d2d-3a6c-955c-58df84fd5844 | -9.62283 | -67.47097 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 81e555bf-2dfd-3fcd-954f-950267debdca | -10.53043 | -67.85705 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| c43d1afc-0f4f-38b6-b18b-fc079757b5cc | -10.52906 | -67.84675 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| e2025505-c2e2-3e63-8225-4209412f79fe | -10.5075 | -67.90206 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 10.2 |
+| b018d4ab-d3ff-397d-99ce-3220b5cf2235 | -10.50615 | -67.89177 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 13.4 |
+| 3ec32d94-90b1-35ad-b4dd-08245ab1e10a | -10.43832 | -67.9286 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| eb8d64d4-e6b9-3664-a9a0-516985d5879b | -10.3434 | -67.97904 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 16.3 |
+| 92310694-0d55-32f4-b098-3d20e0015cb5 | -10.34203 | -67.96867 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 7ec76237-9eb1-3023-a5b2-c1b811acb9f7 | -10.33391 | -67.98036 | 2024-10-03 02:09:00 | TERRA_M-M | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| b2e6c06f-3209-321c-9eee-1182000a6f4a | -10.31898 | -68.01408 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 9bd6f048-1cd5-3df2-a586-485448eae325 | -10.31764 | -68.00374 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 15.7 |
+| 2ca92af0-3533-348b-a55c-ec10f0f3fb68 | -10.31364 | -68.01059 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 9.7 |
+| 12ab75a3-fa52-3144-95c5-e937aa7c6e72 | -10.31224 | -68.00024 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| 271a5c2c-8a40-3c69-9b96-8cb20032a5f0 | -10.26615 | -68.01713 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| e3199eb7-9d81-3db5-ba12-54c2ecd3f0e3 | -10.17549 | -68.17388 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 81adce53-c70c-3a93-8103-3e1e8fc1f573 | -10.16592 | -68.17521 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 00621be1-6890-3f53-b57d-6fb20bf39597 | -10.16487 | -68.34451 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| b96256d0-d1ec-3f42-afa4-71bef7536922 | -10.15631 | -68.0275 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 6d07abcc-44cf-319c-bdc4-825d02a5b02d | -10.13045 | -68.01628 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| 277268c1-a4a7-3e57-b994-46e69095626a | -10.11739 | -67.73203 | 2024-10-03 02:09:00 | TERRA_M-M | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| 7e1a6342-85f8-3fd4-9d82-e82b9999aa58 | -10.10805 | -67.73334 | 2024-10-03 02:09:00 | TERRA_M-M | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| fc967ecd-9bf5-3b35-9324-db2382c14dde | -10.10673 | -67.72333 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 91734bf1-6d66-3d9a-ba10-380ca1f39dbe | -10.06802 | -67.83755 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| d0ee3fe8-8093-354a-81f6-085297e96ddb | -10.06667 | -67.82744 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 04dd91a6-4151-38d7-a13e-33295cac0dcc | -10.06547 | -68.03585 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| cd5b6dbf-7550-308e-be9e-c47b8b71d571 | -10.04121 | -67.85157 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 98ade597-c74b-300b-b584-8e0cedbcd352 | -10.03981 | -68.46672 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| f12315e0-7eeb-34df-997f-07859e40e722 | -10.50648 | -68.67931 | 2024-10-03 02:09:00 | TERRA_M-M | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 19.1 |
+| 4ad93e30-f76b-3708-842d-cab0fafcf7ee | -10.50501 | -68.66785 | 2024-10-03 02:09:00 | TERRA_M-M | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 18.2 |
+| ed4a60fc-6ade-37ff-9867-50e2fa5b21cd | -10.31614 | -68.70556 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| d0625041-a93e-3848-ba49-1ce541c28bf6 | -10.31586 | -68.71142 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 0efe13da-d92e-315e-91de-774df7c87225 | -10.27375 | -68.77523 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| 8ee14cb2-3d20-36c3-8800-a5a2d02a927d | -10.27226 | -68.76379 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 7b6f9efd-ce2b-3cff-852c-e6db21857eae | -10.25238 | -68.76649 | 2024-10-03 02:09:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| e76052b6-585f-351d-8832-3c96734719cc | -10.97724 | -68.45824 | 2024-10-03 02:09:00 | TERRA_M-M | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 7a2370c6-32d8-3dc9-8a2d-b590663f64cd | -6.88263 | -59.05437 | 2024-10-03 02:09:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 27.4 |
+| 3d6cdff8-b278-315a-821e-0f2b0384993a | -6.87909 | -59.03139 | 2024-10-03 02:09:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 22.3 |
+| 23b161f0-6c2c-33b2-9b79-2e619138641d | -6.87522 | -59.04982 | 2024-10-03 02:09:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 50.4 |
+| 1a1fca91-4a56-3eb2-b61c-2f6aa0fb3a25 | -9.16424 | -59.38523 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 19.9 |
 
 
 [Clique aqui para ver as próximas entradas](README51.md)

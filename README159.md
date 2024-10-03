@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2c92b608-e857-3ed6-90b2-aa93968e6041 | -10.9854 | -63.94612 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ea53f691-d1ba-3adc-a12f-bd0c968cfd60 | -10.98472 | -63.95004 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 16bbc395-6e0c-35d7-b1a8-01e8655d6319 | -10.98405 | -63.95395 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 1fc85c7b-3f92-3883-b591-1a95a69772f0 | -10.98338 | -63.95783 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 11e64753-598c-3fc1-b3cd-e3688a094302 | -10.89999 | -64.18607 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 354abd6f-7f4b-3a90-a983-fa2547eef450 | -10.89006 | -63.8958 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 46bf063b-1c68-3012-9d4e-b58cbe3ebf2d | -10.87461 | -63.88593 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 6b634307-754a-3347-adc5-f06248b2f257 | -10.87393 | -63.88988 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c4a5c9a7-4d4c-37a5-b2bb-a30b7a594d07 | -10.86972 | -63.88936 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2df9f0a0-2b15-3c23-b9d5-239254a6fe11 | -10.99461 | -63.57684 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 0f4a2ff3-cc37-3da7-87b3-f3befd27af47 | -10.97819 | -63.57475 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 0d07a50a-39dc-3961-abf2-2f9b52c9422c | -10.97761 | -63.57798 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| c7f75b20-3d6e-31df-8381-7b0193b438e3 | -10.97701 | -63.58141 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e9e288d0-4815-322c-9b94-be6b00fd9194 | -10.96688 | -63.59111 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 2be1f5cc-9f32-3f40-b3af-3e6e0cb374e4 | -11.61533 | -63.66969 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 14518d48-f445-3189-a2fb-41db93d84f51 | -11.61472 | -63.67313 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 440d5ff8-842f-3aeb-8cc9-3e75722055a4 | -11.57774 | -63.76849 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 15c476a3-4f0f-3e22-9fe2-8b5cc7424325 | -11.57707 | -63.77239 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b1d8a652-9b08-3581-b72c-62cff91cdf6e | -11.5768 | -63.76794 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 69851dd6-d479-3ae0-b45c-661f3bd650c2 | -11.5761 | -63.77185 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| ed773de2-3c1a-30e7-9190-69933fce9507 | -11.57363 | -63.76788 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 02abb168-39ff-3c9a-a056-1448295b92b0 | -11.57297 | -63.7717 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 1ceae5b2-d5f0-355f-a710-e4489dd5d663 | -11.57201 | -63.77116 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| a096a418-c11a-3791-81a4-447e2e2f47a2 | -11.56888 | -63.771 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 71374f02-0a4a-316a-831b-2b538acdc133 | -11.56824 | -63.77471 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 9faf0683-33d9-34bb-9582-67c2198db1c0 | -11.56351 | -63.7777 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 9af7e8b3-6c74-3ee3-889e-0668813514dc | -11.56223 | -63.78511 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ddc52e8a-0ef0-3233-a10a-11cc935d76bc | -11.56159 | -63.78881 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 402e2c47-e02d-3e8a-9f50-a7b6ed4a8057 | -11.55814 | -63.78438 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| cfbacee2-5cd7-3fa4-a8f6-c668cf02fe39 | -11.5575 | -63.78807 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| dc2d1f6a-00eb-3ff0-8004-f202883e28b3 | -11.55692 | -63.7185 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e17aa91f-7121-3327-9026-f03580db0d75 | -11.55686 | -63.79178 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 5a9f29bd-acb7-3ed5-94b8-e4bc25c9ea38 | -11.55623 | -63.7225 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 351bbf5c-294e-31d0-a306-49fd6be94c95 | -11.55622 | -63.7955 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f96722fe-1d3c-3609-a3df-78b67951bc2e | -11.55143 | -63.72594 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| fbd4a705-9c16-37af-887b-8797c3d8ab6f | -11.54735 | -63.72528 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| d93ead94-878d-3bfc-9b2a-62a9ff8c00d5 | -11.54569 | -63.83187 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 63f2826b-8aeb-38f6-8f57-b6791b033701 | -11.54505 | -63.83559 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| beb2ee8d-3417-3365-b7c1-f4875bdc2f4a | -11.5444 | -63.83931 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 99e14527-0cc0-3ec1-b432-c67d68e4a65c | -11.54418 | -63.81621 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| aaae4dd6-4aca-307f-a551-6c0472304bb3 | -11.54391 | -63.72089 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a2060caf-a782-3db8-88ed-c03d033f3603 | -11.54353 | -63.81992 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 84511619-f277-31ab-8c16-6da68a55e659 | -11.54326 | -63.72457 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 64067739-3146-361c-9606-f887e7c87338 | -11.54289 | -63.82364 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 244defa6-59ef-3d62-8c34-62ab24bfb2a7 | -11.5403 | -63.83853 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 8c78dfcf-1ec0-361d-94d9-0fc07336ec98 | -11.53641 | -63.71569 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| b0454e92-0c96-3411-8518-439baaf1242e | -11.53234 | -63.71492 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| a0edeacf-6876-34b0-86f8-8e1f31bcb5e9 | -11.52827 | -63.71416 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6da79da2-3cab-3a45-b7a6-bb5dc1c82738 | -10.99918 | -63.57475 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 5c702124-f6eb-3042-9e42-22a4f49898a2 | -10.99865 | -63.57777 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 35.3 |
-| 41a4eab4-b4dd-3568-9287-24ab645a13f6 | -10.99051 | -63.57629 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 5047704f-2fa9-3d86-9af9-c6bd114027ad | -10.98693 | -63.57277 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 2a84a882-714e-305d-9c1f-21c7c67643ad | -10.9823 | -63.57522 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 6f283cba-92c7-3a37-bd7f-745a4ebdecc3 | -10.97874 | -63.5716 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| f6814566-4c3b-3dbb-b30d-ed4ec6f10c82 | -10.95768 | -63.60091 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 4202e050-66d7-3311-9b55-2a7185807605 | -10.95683 | -63.60033 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 26509778-f7d2-3577-b919-235215c861fd | -10.95359 | -63.60022 | 2024-10-02 05:12:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 882113d4-69f1-382e-90a8-81582fe677b8 | -11.77952 | -64.27973 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| f872c4ea-66fc-3911-9a0d-9c869ed117b0 | -11.77602 | -64.27499 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8855142d-57c2-3bd6-95ac-f4320498da39 | -11.77464 | -64.28279 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 5ba9f43b-bc95-3f1d-945b-02301d71f3a4 | -11.75912 | -64.19918 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| fcc8ec78-529e-3993-886b-bc66072bc0b4 | -11.73189 | -64.11067 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 61599334-f03d-34be-9bf9-ad571b98548b | -11.73093 | -64.1103 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 47fe2d2d-4498-3841-b43d-1078cc9dfa05 | -11.72276 | -64.13262 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| a7c724e6-2377-356f-a9d0-ef21da373062 | -11.71792 | -64.13567 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| b5539d24-a613-3ce3-9570-85623296e986 | -11.71442 | -64.13109 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6317b4f1-3aaf-305e-a587-bd808d528fc9 | -11.714 | -64.05967 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 32acabb2-44aa-301c-ba39-6fe254dc0f36 | -11.71224 | -64.26724 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d41e3fac-a20c-328a-b433-d6245e469930 | -11.70985 | -64.05889 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 20194329-8626-3a03-ba7b-f8dd8f9b857d | -11.70918 | -64.0627 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 2e3da919-45c2-3125-b2b8-373f71392022 | -11.70637 | -64.05428 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| a0799ea6-6598-3570-90cc-990a3d8aea68 | -11.69809 | -64.05264 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 0a9f4248-142b-3f8f-9fa5-62ca29797bee | -11.67109 | -63.98783 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a7d5e0e3-932e-3642-96b6-d484a5e6d235 | -11.66238 | -64.06063 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 84688136-d81b-3354-ac88-c4e33a93754e | -11.65765 | -64.23282 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b5f8d09d-b374-395d-9b69-37840ef5fafe | -11.65343 | -64.20772 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| fb4a6490-72d7-3e62-85a0-90afe962f227 | -11.65275 | -64.21159 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 61350e3f-757c-3774-a041-7bdc1fc17b96 | -11.65255 | -64.01978 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 324acadd-4dcf-328b-81a7-4f4ccbb36b74 | -11.65134 | -64.21947 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1a408824-9561-3d06-b49e-487ba46d03ae | -11.64899 | -64.01575 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 3b2036f4-80d2-326e-a190-1d43924afd58 | -11.63808 | -64.02287 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 640d384e-bbec-3041-b12f-39a5e1492cde | -11.63327 | -64.02593 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 638ab7a3-096e-385f-a28b-e074c3fe3746 | -11.62912 | -64.0252 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 6bc53ad3-3b03-3af8-abf9-f4037d7423ee | -11.62212 | -64.11514 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ff03273c-23ae-357d-a88b-8c3b60c6ef83 | -11.62197 | -64.09117 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| fcdc443e-e646-3407-9895-86ec33a9ac88 | -11.6203 | -63.95323 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 70c027e1-256b-3d16-bb2d-819b1834edd9 | -11.61964 | -63.957 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 17f56721-302d-3e02-bc6f-d0f0ce3fe9bb | -11.61616 | -63.9525 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f37bb5f0-e3e0-3346-98ad-d8995fcd1f05 | -11.6045 | -64.1907 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4c9f345c-0ce3-3e56-9143-afffdbaf9398 | -11.00246 | -63.92203 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 39ecff28-c2cb-3b03-9620-949877e9b013 | -10.99221 | -63.93164 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| b9844ad9-9b9e-3af2-bb8e-93247d2c16f4 | -10.99155 | -63.93547 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 530bb374-0414-3572-a5e0-e34edeed5c0c | -10.99088 | -63.9393 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d8c0e43a-7fed-3137-b2dd-7272b2d9b03e | -10.99023 | -63.9431 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 108931d4-b654-3097-b492-018a127e4ca1 | -10.98271 | -63.96164 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| e0e9fe66-81a4-3ea8-9bab-0e1f54649944 | -10.89074 | -63.89191 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| a382c7de-8fad-3cb3-884d-1b3c94ceab3d | -10.88589 | -63.89514 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| df324bef-0ea8-3255-8067-3cfc891e7780 | -10.88305 | -63.88672 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 411caf24-2192-36d1-b66c-8315ce3751e8 | -10.87883 | -63.88635 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 899f90ad-bc51-3c14-a2e0-aa216a6e6938 | -10.8704 | -63.88547 | 2024-10-02 05:12:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 332f7767-b61d-32d5-8695-8272f4bcf64b | -11.97332 | -50.18096 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 72ad00b4-af20-3ad4-b64a-e208aaa1d04f | -11.97166 | -50.1799 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| d742eb49-374a-3684-9807-6849f7ead9f2 | -11.96771 | -50.18027 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| b158b315-9356-36b2-90b7-839d35994dde | -11.96605 | -50.1792 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 7239b0ef-bff8-3d21-ae10-a96788234a12 | -11.94862 | -50.15091 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| dd858af0-0130-3741-93a7-a7643e97ae05 | -11.94815 | -50.15471 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| f8718e96-2b7a-3a59-a6e7-0750ff94ae70 | -11.94254 | -50.15401 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 3c833519-e3ac-3446-a565-11195c34e3e1 | -11.93694 | -50.15331 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 216415d5-1ff8-3ca2-80cc-19da6384ddc2 | -11.93647 | -50.15711 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ef2e3c34-7abe-3b1e-a52e-f1c4a1c61b3b | -11.09199 | -50.72124 | 2024-10-03 05:16:00 | NOAA-20 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 8a8655f2-e04b-3ab3-a608-dfd3a073006b | -11.09156 | -50.7246 | 2024-10-03 05:16:00 | NOAA-20 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| eb13bc11-5dbd-3632-ab91-7b0c234e432c | -13.07473 | -50.84334 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 23bf0a7b-8536-3c32-ad8f-2a04980916d8 | -13.07431 | -50.84688 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 428e6cd4-d80b-346a-aff5-957e98c3dc64 | -12.79111 | -50.58773 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 26b5265a-1457-317e-9536-e0bad1043650 | -12.7856 | -50.58704 | 2024-10-03 05:16:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 41b4ab44-027c-36de-a5f0-41d0d94423b0 | -12.42108 | -51.0106 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c1c2237b-3ba6-39e5-a495-4ad078472452 | -12.42067 | -51.014 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e765ecdf-7e8c-3011-9716-3a5f5ce6d99b | -12.39964 | -51.02054 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 92ae9cde-d9df-3aad-983c-6da3fb104b99 | -12.39894 | -51.01458 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ab71b9ab-cabb-3e41-af95-d2458e6c43c8 | -12.39814 | -51.02133 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| cea2a866-6e41-34e5-bbdd-cb75af832c5e | -12.39475 | -51.01648 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a052c0f5-87a4-333a-9894-2e977eb49b11 | -12.39475 | -50.95886 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| ce45cf97-a9ee-3635-b8c6-9823f0e93f0e | -12.39362 | -51.01388 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c7d4966e-fbfc-318e-9c19-a1a591e3768b | -12.39321 | -51.01725 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| aab14592-5c02-3eb9-aadd-97dd29a97d18 | -12.39137 | -50.95753 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 6db90be1-0106-3ef7-a369-2831c482201f | -12.39094 | -50.96093 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 19c5bc7a-ee43-3e77-9c31-9ef4fdf63b7e | -12.38658 | -50.982 | 2024-10-03 05:16:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 3ca08e70-589d-328b-b4f2-ebc2c247d252 | -13.10857 | -51.18136 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 05bb0bb2-5f41-33d9-88ed-c8d2941b74c0 | -13.10484 | -51.18097 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| f4549783-4a77-3036-9690-ab9d40bba53a | -13.09628 | -51.16275 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| e85192f3-b7ee-335d-bb39-fc54020e439f | -13.09587 | -51.16612 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| fa6a24aa-431b-3e83-bc22-00cefb2c997f | -13.09545 | -51.16949 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| fc3c0842-66d2-3a5d-a7c7-34133efb72ca | -13.09138 | -51.15869 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 1e2abad9-8dba-379a-ac6e-431e5714a9a9 | -13.09096 | -51.16208 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| f25492a9-b738-3051-b082-c9537a428e73 | -13.09054 | -51.16546 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 2d8edda5-b713-3a62-a951-c5e27f390307 | -13.09013 | -51.16883 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 144d07c2-1989-39a9-93ed-e56328bee4a4 | -13.08971 | -51.17221 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b65286eb-cc26-3103-b6f7-3013bea6e621 | -13.0893 | -51.17559 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8904879a-8f67-386c-98aa-f776cc03afcb | -13.08563 | -51.1614 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 1e6b827f-0ca9-3d1e-8eec-505042239564 | -13.08522 | -51.16479 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 66322f0c-9a96-3517-864c-c039abbffab1 | -13.0848 | -51.16816 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 9879004e-e5a4-3c83-bf84-e02932373c77 | -13.08031 | -51.16072 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 954b16b6-0236-38d0-8ea3-c24f553ff18c | -13.07989 | -51.1641 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 016bba27-36d5-30e6-b357-b27c39d25744 | -13.07948 | -51.16748 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 00da485f-5776-312e-9141-f6d0cced6bc7 | -13.07498 | -51.16003 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 322391c5-fbb1-34e1-9ed6-bbf178db7413 | -13.07457 | -51.16342 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 249c9521-b675-361b-9716-c9e5ee9c1288 | -13.06392 | -51.16208 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 7858a037-769e-321f-8b87-d86ea83c9c11 | -13.05941 | -51.15464 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 9e67663d-8cf0-3091-af36-e33891cb2688 | -13.059 | -51.15802 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 6ca832d8-52ea-32f8-a432-5c58882a744c | -13.0545 | -51.15055 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| 45647400-a0c9-3736-99f6-1b3eea3299a6 | -13.05409 | -51.15395 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| 68db17bd-b90d-3762-8d64-8167966a2b23 | -13.05368 | -51.15733 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 0a43a35a-ead0-3441-9d8f-73d5559454f2 | -13.0512 | -51.13293 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f6d086d6-6ac1-319e-a1b1-ca3e38315de1 | -13.05079 | -51.13633 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 111.7 |
+| 71170a8a-b805-3646-8cf0-af6667e9dc2c | -13.04998 | -51.1431 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 111.9 |
+| f9da3b2a-45f1-3e94-9e74-ffcd2eabdf04 | -13.04958 | -51.14648 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 111.9 |
+| eb3cda56-2aba-3c4b-a934-efa0abf3e939 | -13.04917 | -51.14988 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| df944272-ddfc-36a6-85e1-ec2e79484d5f | -13.04587 | -51.13226 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 03d51361-aaec-3f47-86b8-2b799a4f6fdb | -13.04546 | -51.13565 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 42.4 |
+| 6e03d807-6865-3695-b752-404ebdc6a75d | -13.04506 | -51.13904 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 42.4 |
+| 1f33e8bd-69b0-3083-a250-0b42430722fb | -13.04465 | -51.14242 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| 03a4af37-ba69-36e2-b01a-f08a21687fb1 | -13.04425 | -51.1458 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| 5c53877b-2c04-390d-a75a-90df8fe1a37b | -13.04384 | -51.1492 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 4bc5e1a7-f0ac-316a-8801-de8fc778ac08 | -13.04343 | -51.1526 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 7a6e926a-8ed8-3654-af9b-6a955fbe010b | -13.04053 | -51.13158 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c9f6a782-5a17-3614-a160-e5f372e8c49e | -13.04013 | -51.13497 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 42.4 |
+| 53114f66-ef10-3b61-b4e2-4f3811a4968e | -13.03932 | -51.14175 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| 3d01734b-edec-38ba-90dd-9c3c02116f10 | -13.03892 | -51.14513 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| 0c613904-f1fb-3a16-94b6-a6978669c1e6 | -13.0348 | -51.1343 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 1c07e8f4-5f96-34e0-99c6-5b268950da65 | -13.03439 | -51.13768 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 9ac5a161-04f9-304d-a001-1632935b850e | -13.03399 | -51.14108 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| c826ccf3-000f-3b42-8b82-a7a1b1cae8d2 | -13.02906 | -51.13701 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| b2f2c7af-1aac-3a82-aa68-445d7cf80643 | -13.02866 | -51.1404 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| d9904b26-1e5e-3d30-a400-dc7590a9f04c | -13.02488 | -51.13911 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 4ea83256-e5a1-3c12-924d-3a9760f4f468 | -13.02373 | -51.13633 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 294a5db4-3730-3e13-9e52-c1f263eedf9b | -13.01998 | -51.13506 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 48a044da-243a-3009-843c-251c06ffd732 | -13.01956 | -51.13845 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f50adfff-792b-341f-a6db-8f9c68dc12ef | -13.0184 | -51.13564 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 4d2d6dc7-3a45-311a-857d-8a85f52ade8f | -13.00483 | -51.12627 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 16337e47-e683-30a2-9681-2c58b89bffd9 | -13.00441 | -51.12965 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 2d0f122b-eba9-3840-98e7-e6cfd12c7490 | -12.99992 | -51.1222 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 54cef16a-f68f-3d09-8b74-7b61fdbcddf3 | -12.9995 | -51.12559 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 08a142d2-4427-36c2-828e-458a229974ff | -12.99908 | -51.12899 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b05900dd-0967-31ef-966c-56f79b54cdc7 | -12.99866 | -51.13238 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c1f75c44-0c12-34a9-99dc-b9f48b916fbb | -12.99333 | -51.13172 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 0580c0af-66a8-3ac3-9454-5b4afd1b886d | -12.99291 | -51.13511 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| fb494d94-19c4-3aa4-b731-1a3ab7480a4d | -12.972 | -51.12907 | 2024-10-03 05:16:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| eb5a7c96-064a-3c79-a9b8-193314f8bf75 | -13.60508 | -51.22699 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 7f11283b-c414-359d-b309-986ec79c6b78 | -13.5669 | -51.22904 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 7caced0d-cb92-3d5a-9580-02f083e3d40b | -13.5665 | -51.23244 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| a06f6a91-95f5-35d8-b74f-c1a608e68dd0 | -13.56289 | -51.26299 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| e93e4536-45b8-3728-b7b6-1dff54f147b2 | -13.56249 | -51.26637 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| ffb3bc6f-ff23-30cf-bbb9-72f891756ed0 | -13.56209 | -51.26975 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| e5555997-ee9a-35af-837d-11e89936eb8f | -13.56116 | -51.23178 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 35d4c312-5379-3e13-951a-464a88ac9f0c | -13.56076 | -51.23516 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| 3822bcd9-7cfd-33e3-88c4-8753da4f0ff2 | -13.55996 | -51.24197 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a2c6fc31-8cd6-389c-88aa-5945175999f4 | -13.55956 | -51.24537 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| ec699a0a-59b8-36d6-bfdd-49489acc198e | -13.55677 | -51.26907 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b85a9223-eb63-388e-9ee6-b0eaffb961c9 | -13.5308 | -51.14118 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f84af470-86e6-3f75-b9ae-d902272fa021 | -13.52585 | -51.13707 | 2024-10-03 05:16:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
 
 
 [Clique aqui para ver as próximas entradas](README160.md)

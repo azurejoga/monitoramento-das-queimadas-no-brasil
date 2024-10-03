@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 88d217d4-cecb-33f4-9fc9-31c63bd0fe32 | -12.15253 | -50.05773 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 339637d0-934a-3cad-91c0-326650ed84e1 | -12.15215 | -50.06079 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 26c47099-6cdd-3e5f-b95b-1293c647157e | -12.14816 | -50.05093 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| a440567d-e003-3429-8c0e-8dcfc5451863 | -12.14778 | -50.05399 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3f10ea8f-b954-3c58-bb45-f36aad4e4fe9 | -12.14741 | -50.05705 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9983adbd-8c38-33a9-be3a-07985af6a7d4 | -12.14703 | -50.0601 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 48c83d74-9406-354d-a866-05a8dcfb8296 | -12.14572 | -50.05019 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 833b2770-fae5-3e5d-a31c-86150285468f | -12.14532 | -50.05324 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ecdc07c8-30a3-3b37-91c2-b74ecaf8e186 | -12.14378 | -50.04414 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 0071ccab-f118-3a8e-869e-a8cb000e2754 | -12.14341 | -50.0472 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 80605536-3156-3627-8914-3a932c71ffe0 | -12.14139 | -50.04343 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d30dfcbf-d9a3-3c14-b0f0-f6305a5c2f26 | -12.14099 | -50.04648 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| dcb32869-e91f-3532-a872-438229ade9f0 | -12.13865 | -50.04346 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 135e2efe-4894-374a-9900-0d857a1979f8 | -12.13828 | -50.04652 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 055fd468-2aec-3703-9e69-809ba4a1bc7b | -12.13586 | -50.04581 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 4843c3f3-000c-34af-a152-f3bdf9dd8b1d | -12.13352 | -50.04276 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f86c7f3b-7af4-3d36-a422-9945ab689d94 | -12.13315 | -50.04582 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 61a3f086-3989-31a3-a3d9-b7d49da244f6 | -12.13113 | -50.04207 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| a1073ef4-ce3f-3b3b-ac61-db050798aa7d | -12.13074 | -50.04512 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| d00146b9-e3dc-3f21-ab4a-b16962e08fbd | -12.12561 | -50.04444 | 2024-10-02 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| b94b5c71-a29e-3258-b8c0-6a61c0a24c22 | -11.15123 | -49.72577 | 2024-10-02 05:10:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 78658258-dfc3-3ba5-9132-d6e6ebf42bf6 | -11.15083 | -49.72888 | 2024-10-02 05:10:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 56eea1b9-c8e3-37fe-b760-23589e772a4c | -11.1124 | -49.60745 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 517c9d2e-33dd-38c8-9f20-16593fb6e711 | -11.10678 | -49.60992 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| fd891610-a59b-349c-916f-bcbaa7ed9543 | -11.10637 | -49.61306 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a7009686-a1bf-3eca-b799-e678f590aad0 | -11.1024 | -49.60291 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 5213b74f-7316-383a-9c41-33a61d5af489 | -11.10199 | -49.60607 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f032eb0b-fd55-3471-bdd2-7a88735eca6c | -11.10158 | -49.60923 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 5e5406f3-3283-3b84-8021-20b143ef0890 | -11.10117 | -49.61238 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| c2985581-9053-39c5-b00b-08f41cd19b8a | -11.09801 | -49.59587 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 0256a551-318c-370b-9935-e0f23f74f30b | -11.0976 | -49.59903 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| a01c7cf5-4043-3782-ada4-cd69040fa495 | -11.09719 | -49.6022 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 02f763ce-76dd-3b32-b83d-bc66303180e8 | -11.09362 | -49.58882 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 1c522872-b9ef-3741-9677-b3d181e966e7 | -11.09321 | -49.59199 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 8218cd08-7c48-3340-a312-25b07c1b0e19 | -11.09281 | -49.59515 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| a4c28a4b-4739-392a-aaed-aee528af4e30 | -11.0924 | -49.59832 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5f48b702-d6f2-3713-971c-b51d348ab9b2 | -11.09199 | -49.60148 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 2940af75-4dd7-3a1b-a6ee-aae227362f2f | -11.08842 | -49.58809 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| d268e2cb-ff07-3122-b758-c467aaa8f2ce | -11.08801 | -49.59126 | 2024-10-02 05:10:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| cae926b4-efe3-3ec9-9e0d-33f041c7988b | -10.89655 | -50.09116 | 2024-10-02 05:10:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 44b3c35d-92cc-300f-ab72-157c193dc240 | -10.89631 | -50.13239 | 2024-10-02 05:10:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| fc20cef6-2cc1-38c3-b8db-5c7dbb44c239 | -10.8958 | -50.09697 | 2024-10-02 05:10:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| be18863e-f700-3e95-92e4-25a76e6640cd | -10.89556 | -50.13817 | 2024-10-02 05:10:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 242efde5-1852-3f4d-89eb-3a977cf3eaea | -10.89505 | -50.10276 | 2024-10-02 05:10:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1299eedc-8e4b-3f70-8730-a6cdd33f5f51 | -10.89078 | -50.09627 | 2024-10-02 05:10:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d47ee86b-ae51-368a-be7f-ec55539a41c7 | -6.42551 | -50.14447 | 2024-10-02 05:10:00 | NPP-375D | CANAÃ DOS CARAJÁS | PARÁ | Brasil | 1502152 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ce17714f-bc1b-32bb-bedd-13aa8bf6cf1f | -5.52068 | -50.04548 | 2024-10-02 05:10:00 | NPP-375D | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| eff1a68b-d634-30f1-95d0-045654a5c610 | -7.80465 | -50.23312 | 2024-10-02 05:10:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 61aabf8f-132f-373e-bfaf-15a0832982d3 | -8.33509 | -50.64194 | 2024-10-02 05:10:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| acf07ea3-25b7-3094-9ebf-8815ad81fe59 | -10.43886 | -50.80475 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| dd1b2435-620b-3610-a45b-6f20c51feb37 | -10.43519 | -50.79623 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| f9def205-4b5c-3958-b0f2-69c6723fb25f | -10.43481 | -50.79899 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6239869a-47b3-3641-83da-77b88acf1d8e | -10.43449 | -50.80158 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 9c3f7b81-7a45-3c38-a08b-ba5684e30ef8 | -10.43408 | -50.80431 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| f20c05bf-ec1a-33b7-af02-5e75c3852269 | -10.43382 | -50.80678 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 356627ec-3752-3cc8-813e-4e22a2eef09c | -10.52116 | -51.08468 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 2667bf81-5b51-35db-8583-951ec0f0cf81 | -10.51968 | -51.08076 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| a69b4376-b90e-3426-abf9-2845beb5a1c0 | -10.51897 | -51.08619 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 3bc183ba-8106-3f0a-9925-c3ddfff3be83 | -10.51653 | -51.08382 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7dc6fc36-bdbf-33a9-9358-8d84c07b87ee | -10.51582 | -51.08894 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| a18f87e7-0ad8-3bec-816d-1a209737feac | -10.51435 | -51.08521 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| a4b7b839-d33b-3646-8f60-72c578dfd00f | -10.5137 | -51.09015 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| c4878f77-6187-38eb-8e98-2ad7e430b949 | -10.51121 | -51.08796 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 75c4be36-7c6e-353c-b563-49f806320ae6 | -10.51055 | -51.09271 | 2024-10-02 05:10:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e66a4c6d-c6be-383d-8fd9-712200967eb3 | -6.38467 | -52.70543 | 2024-10-02 05:10:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d3381dcc-2a27-31b8-bd85-be7c610c90e9 | -6.38073 | -52.70482 | 2024-10-02 05:10:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 69834334-2aee-3d4a-9e77-019a59e93b4f | -9.06899 | -53.26939 | 2024-10-02 05:10:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8880f288-9f52-3331-add1-d7119abdfe98 | -9.06721 | -53.25369 | 2024-10-02 05:10:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e11c75bc-4112-39ec-b32d-bc9b81fb38d1 | -9.06648 | -53.25877 | 2024-10-02 05:10:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7dcabfe6-4c6d-3867-9409-198f6e29e3b1 | -9.06253 | -53.25822 | 2024-10-02 05:10:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 85554eff-b907-3663-b7a9-db94151841d9 | -10.90746 | -52.4169 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| bd1b5f2e-923b-328c-ad21-643ccd9b6059 | -10.90373 | -52.41224 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| dca36dc4-ed02-3fd8-b5b7-6b0895c1e029 | -10.90317 | -52.41631 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a1c62b03-aa2d-390a-b1ee-36ba178834e7 | -10.90262 | -52.42036 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 6ff9e221-e288-3b7d-b804-e43974dd8027 | -10.89944 | -52.41161 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| e9c75b88-c541-341a-852a-0d04ccdb0d42 | -10.89779 | -52.42372 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8deac39f-7614-348b-80e7-8aa38a588c3a | -10.22995 | -52.72151 | 2024-10-02 05:10:00 | NPP-375D | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 12c408fd-e128-36dc-8082-9f41528fd094 | -10.22941 | -52.72534 | 2024-10-02 05:10:00 | NPP-375D | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2ad7a165-48d3-3048-b683-d5b2aa93c105 | -10.04675 | -53.4865 | 2024-10-02 05:10:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1a81c528-6c30-3a62-beea-287a59d96a0b | -10.03287 | -53.44289 | 2024-10-02 05:10:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 70901b92-5b9e-3e1b-8f5f-9004abdfdf0e | -11.84949 | -52.52073 | 2024-10-02 05:10:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e490b6bb-d7a2-38a9-8ceb-06520de58e64 | -11.08167 | -52.52061 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 9ed73afa-846f-370e-910f-9fb55f83210e | -11.08112 | -52.52463 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| ee82463c-1b94-3f0d-8034-b9f5a1636d5c | -11.07739 | -52.52006 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 8eab6a98-d2ef-3a48-8c51-caa1403e3748 | -11.07685 | -52.52406 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| b4bb7044-ebc6-38a2-ba3f-49f61d82a4e8 | -11.07312 | -52.51949 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| a9c7d331-428b-358d-bc7e-2735d504b7bc | -11.07259 | -52.52347 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| cef7b6ff-cad1-3154-b596-20247e202224 | -11.07035 | -52.52072 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 707a3133-7cb8-3ab5-a75e-aaf782a81460 | -11.06886 | -52.51889 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 9d9bf72b-a17f-3105-a1b9-8ed0a656700e | -11.0661 | -52.52008 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 45fbbcbd-99cf-3453-a9a2-3f1c28289435 | -11.0646 | -52.51823 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| cf713ec4-f8f7-3684-b91b-155be9cb23d7 | -11.06184 | -52.51942 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3d2636c8-7ba4-3256-be07-1f4955b16843 | -11.06034 | -52.51756 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a725fcc5-15b7-34b8-a3f4-544a3d820352 | -11.05556 | -52.50223 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2e911230-d746-37fd-85c3-e971244639f9 | -11.0513 | -52.50161 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| b9c5d955-428e-395c-b107-38d7d99c6dee | -11.04759 | -52.49699 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8aad2125-2188-30ea-95cb-e18303da6e3b | -11.04703 | -52.50098 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c009f8f0-2248-30c5-82e8-02effc784702 | -11.04389 | -52.49233 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 1a0d1d93-cfb6-3d4d-983a-281064096ab5 | -11.04333 | -52.49634 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 063b521f-dd53-39ca-bad9-f99d8e26567c | -11.03815 | -52.47099 | 2024-10-02 05:10:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 1148e0dd-c425-3311-9291-a7b9f19f4618 | -11.08162 | -52.52523 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 0e5cbf4a-b8f0-3da1-adff-df229dffa0af | -11.08106 | -52.52883 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| a41519d3-7fb7-3310-a07f-bd3bb44d09cb | -11.07825 | -52.52471 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 9bbc5f2b-a781-3ce0-bff4-79a47a1c9bf9 | -11.0777 | -52.5283 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 29745b4e-215f-3dba-8699-10ebfeff8dd3 | -11.07489 | -52.52418 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 7fcde37a-e3e3-303e-969a-d5928a069ed7 | -11.07434 | -52.52777 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 37f6aeda-87d8-3a9b-a2cb-5c30cfcb6f44 | -11.07153 | -52.52365 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 7d482ccb-ed61-3024-ad50-310825fb6edb | -11.07098 | -52.52724 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| b281358f-1fc5-381d-aaf9-63350b2e83b7 | -11.06872 | -52.51954 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| a8bbed58-7d28-3e23-bf9b-b5a979e48760 | -11.06817 | -52.52312 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| fdc90640-b873-3ee7-b643-d52541960fbe | -11.06481 | -52.52259 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 76d8e1e8-ae8a-30c0-b111-6619c3cb52c8 | -11.06145 | -52.52205 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 88819cf8-3cea-3a5d-82a2-a88e22717222 | -11.05749 | -52.50302 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3f06d210-8300-3f2e-8b6a-2d737d062a74 | -11.05413 | -52.50249 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 85c72d34-8d77-32eb-b51d-ffd00c2c9254 | -11.05076 | -52.50196 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 10573ecf-55ca-3a39-aafd-28ff767e5c27 | -11.05021 | -52.50555 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 26879cfa-f387-3380-9bf7-d49dd5a893f7 | -11.0474 | -52.50142 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d97aa478-6c3b-3c15-988a-cfd4de527f19 | -11.04404 | -52.50089 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 7b3e23be-b6d4-358f-8712-d2083eb7983c | -11.04178 | -52.49316 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 725f631f-7f52-336c-ad22-4e28e6d5d032 | -11.04123 | -52.49676 | 2024-10-03 04:51:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 87611c7d-934d-3f5e-a5da-bab817c95df9 | -11.72387 | -52.93684 | 2024-10-03 04:51:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| df807039-967c-392c-90bc-9eda7fbb7f20 | -10.8191 | -53.73396 | 2024-10-03 04:51:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| ed14df73-7fd5-3b1e-9eba-a2ceac196f52 | -10.81577 | -53.73342 | 2024-10-03 04:51:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 4a099cb5-4fb1-3692-ae66-19a08cf505a0 | -10.81189 | -53.7364 | 2024-10-03 04:51:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.2 |
+| 52900b10-0140-3f56-aeb3-96075e0cae56 | -13.78683 | -53.08281 | 2024-10-03 04:51:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| a982a54d-ed37-35e4-831d-3e0d2c14dd7e | -13.78457 | -53.075 | 2024-10-03 04:51:00 | NPP-375D | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 287e992e-abf4-3a80-936d-1ab9804f1e69 | -12.6704 | -53.19651 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 6795a283-394f-3b37-94a9-5e48ceb60caa | -12.66985 | -53.20009 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 50196c61-0714-3c4c-b338-fa6b1a8b4f1d | -12.66706 | -53.19598 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 68443d98-0dbe-32cc-83db-4c1ea4cd5c7a | -12.66426 | -53.19187 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7beb4017-9d45-3c11-aff1-21a70eebff61 | -12.66371 | -53.19545 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 42f42b89-fa45-373f-bdc8-158d39ae5a14 | -12.66092 | -53.19134 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 01afcdcd-200b-3a97-8f48-a86f3682a5dd | -12.65757 | -53.1908 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| dec91351-eb05-305a-b947-34e78c22a3c1 | -12.65423 | -53.19028 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c689ccbe-5d99-3dc2-9157-faed46032c26 | -12.64699 | -53.19278 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| c01a1dc9-6d83-3f93-87f5-761e5bea3a69 | -12.64365 | -53.19225 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6c4b6d86-96c1-37e1-bb0f-41c92710c272 | -12.64085 | -53.18814 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2f2268aa-049d-3b6a-a360-fdc0e7cc455f | -12.62266 | -53.28407 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| eca21cff-bf39-37d9-958c-91a8883175c0 | -12.62198 | -53.18858 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| fbae8cbf-78ab-3640-897e-48e5155a63c2 | -12.61359 | -53.15422 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c04d66e8-2c42-390f-a2d6-df40e8f1dcbd | -12.61304 | -53.15781 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| fa020efa-152d-3ae6-af97-33340b2ccc28 | -12.61074 | -53.49373 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8e241c28-23f1-378e-8aad-518a9d6bf621 | -12.61025 | -53.15369 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 36d92809-b74a-30e5-8732-d1fc5711293c | -12.61018 | -53.49728 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 905c19ef-17aa-33d4-95f7-349c73675e79 | -12.6074 | -53.49319 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| dd4a29e6-ef0f-3705-83d2-3b0f83351d5a | -12.6069 | -53.15315 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5865ad23-50ac-3de8-ab83-55647c9de9e5 | -12.60685 | -53.49673 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| d414c307-fb12-3a09-9274-2652ffc5f2b2 | -12.60407 | -53.49265 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 65996c19-450c-3ac5-9d87-69d9d1e19a43 | -12.60356 | -53.15261 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1596fcbe-8b3b-3fec-9ce3-784d8fa0280b | -12.58849 | -53.13919 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| eddb89ea-b14d-3a51-9b14-5edb7d8e78ca | -12.58514 | -53.13865 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9f97f5cb-da3e-3e3a-a032-8dd18ba8d39d | -12.5818 | -53.13812 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 790ba11b-e2b5-33c0-9191-ff1a72931eff | -12.57252 | -53.28679 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| badebd75-b074-3685-935f-f79a8b4d82cf | -12.57176 | -53.13651 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 9efbbec9-8139-39d8-8e45-e9a7ca62d9a9 | -12.56897 | -53.13237 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 2b2b3b7b-8d48-3a24-8a0c-d4ff4727ea67 | -12.56841 | -53.13596 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 882f5875-3400-3f22-b464-5599ce3918c7 | -12.56562 | -53.13184 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 0b95cf3e-e631-35dd-80ba-93e3243ef350 | -12.56529 | -53.28928 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 2cafb396-e130-340d-8604-8abbab32dc0b | -12.56507 | -53.13542 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 81585aeb-47f9-3499-b2b4-a55e8a7af260 | -12.56452 | -53.13901 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 582ad551-4998-3a31-8e30-ae11cf046f2f | -12.56195 | -53.28874 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 35c67abf-1b93-3040-a94e-745cd74e5e8c | -12.56172 | -53.13488 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| dc6e4e13-743f-363c-b04b-9180bfe76269 | -12.56117 | -53.13848 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 2f87d0e8-bb65-3aae-91ff-a727e5a3d73f | -12.55838 | -53.13435 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c41c46d1-f74f-3e99-914b-4d6d62970688 | -12.55783 | -53.13794 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 696e5f1a-d870-373a-90d5-d6e1163934eb | -12.55547 | -53.48457 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 09018ca3-8b40-3186-860b-bf1dd600b2e0 | -12.55448 | -53.1374 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 8c8a36ac-6dbb-387d-8eef-4079d40c06a4 | -12.55393 | -53.14099 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 6dc3733c-dcba-33d5-ae2d-397dba6efc35 | -12.55269 | -53.48048 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| aa0e1789-87e6-36bb-84de-e27450962437 | -12.55114 | -53.13686 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 702e28ed-42ae-3df4-9c5e-06b7e1611829 | -12.55058 | -53.14045 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 67a1ba90-6b15-39ab-b42a-1f0066f13625 | -12.54936 | -53.47994 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| b36bb53d-d286-3183-8fe3-2ef62f84ad49 | -12.54724 | -53.13992 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f24221e1-cdf8-3e6e-b343-3917be148f3a | -12.54658 | -53.47586 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9a609190-028c-3fec-883f-36be60b9b511 | -12.54581 | -53.2825 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 9b8d3d33-7317-39d4-b2d1-7e0775b5c4a6 | -12.54444 | -53.1358 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 88c8454a-9e49-3fbd-bfa2-883fc8ac73c1 | -12.54389 | -53.13939 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 97137b0f-9580-3ade-95ad-7c73f0567447 | -12.54325 | -53.47532 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4f1e21f7-4a87-39d5-82cf-1a2555b45ebc | -12.54302 | -53.2784 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 1d364f07-bff1-37fd-b3a8-e0252f08a1b2 | -12.5416 | -53.10963 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| b5aae25a-961d-3553-8112-cbf117423301 | -12.5411 | -53.13527 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 308204b7-46bd-36f8-93c3-d74e6a528ab1 | -12.54105 | -53.11321 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| eb7a131d-45c5-31fc-b4be-2cdd66dead84 | -12.53968 | -53.27786 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| dc86aca2-7075-3996-8b50-de80bc4021ce | -12.53957 | -53.10956 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5136a063-8ba6-3b46-9307-5627824fa638 | -12.53902 | -53.11313 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 576ec7ff-66c1-39e9-905f-eff6c28902fd | -12.53847 | -53.11672 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c383e191-227b-3be5-99e6-18e652e9f252 | -12.53658 | -53.47424 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| b5d34799-903e-3773-a154-8dd6866dfec4 | -12.53623 | -53.10903 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 61137379-0ceb-3930-8576-9aa86eb5d209 | -12.53512 | -53.11618 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 80550553-0cd2-31e7-a82b-c1427b1dab03 | -12.53456 | -53.11976 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| e3ceb9cc-0ecd-301f-b0ab-9670f8ff8f5b | -12.53411 | -53.26966 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ea3d21ae-2545-388e-90fa-6993ecb178bf | -12.53407 | -53.24771 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1e4f2fa2-1f05-3131-a41c-9b991afd6c31 | -12.5338 | -53.47015 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 48cce42b-dc20-30b0-886c-de98ab963185 | -12.53352 | -53.25129 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7e12b8dc-86bc-38e7-a57a-cade5651f29b | -12.53288 | -53.10849 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d54c381c-bedf-3c3d-b318-d1bdcc135efc | -12.53242 | -53.25843 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2f0d57b0-5854-3dc1-b254-3f9114c046c3 | -12.53233 | -53.11207 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5478148e-f6e8-3baf-893b-32aa9029634d | -12.53177 | -53.11565 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8783ca8d-a191-33e6-ac3c-a5abfbcd7566 | -12.53132 | -53.26556 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 449423fd-13b9-382f-93c3-513a2109415a | -12.53018 | -53.25075 | 2024-10-03 04:51:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
 
 
 [Clique aqui para ver as próximas entradas](README132.md)

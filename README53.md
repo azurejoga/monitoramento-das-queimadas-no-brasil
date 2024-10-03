@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f5195dc1-8bf0-3e2e-820c-7ed301b5573a | -20.51912 | -46.30962 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 76a03e97-f95f-36e8-8711-3f0ca4af03ab | -20.51827 | -46.31343 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| f9c84e81-a7b2-3410-8c9b-cf87dd24d39a | -20.51748 | -46.31694 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 82d9d063-b730-3217-9a9b-767718bed5d9 | -20.51666 | -46.32058 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| e27b4399-d7cc-3733-9d37-45355c96f3c9 | -20.51572 | -46.32475 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| d3768927-b2d9-308c-91e1-80b441eccf1c | -20.51476 | -46.32901 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 8a5f7a93-b41b-3e7f-a814-98d6abb0f253 | -20.51383 | -46.33315 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| cc22253f-9449-379e-b5ae-b73d6ad5652e | -20.51336 | -46.30842 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8614d896-dea6-31c6-879b-7c0019eba963 | -20.51248 | -46.31233 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| c6ebed55-f923-356e-803e-5ed9d47a0d15 | -20.51162 | -46.31614 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 199f7fec-4253-3317-8d8a-884d24f44c5b | -20.5098 | -46.32423 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| fcbd4da3-32e1-3deb-b8b3-71d373f77e07 | -20.50758 | -46.30726 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 7ab0a559-d6c8-385a-bf69-511c6bb10ed4 | -20.50667 | -46.3113 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| c2fc47e9-131b-3909-b429-34ad765f60c8 | -20.50183 | -46.30598 | 2024-10-02 03:32:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| b236e930-afb0-3155-a8c8-a08c2faee46a | -20.41121 | -42.9073 | 2024-10-02 03:32:00 | NPP-375D | PONTE NOVA | MINAS GERAIS | Brasil | 3152105 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 1809a943-1697-3c3a-b6ec-68c5f0a3eb3e | -20.41021 | -42.91229 | 2024-10-02 03:32:00 | NPP-375D | PONTE NOVA | MINAS GERAIS | Brasil | 3152105 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| ac6c1218-f7bd-380b-a9b8-1abc9e895a77 | -20.35713 | -41.66726 | 2024-10-02 03:32:00 | NPP-375D | IRUPI | ESPÍRITO SANTO | Brasil | 3202652 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 22b375e6-d960-3aed-b538-981751bb0362 | -20.35665 | -41.66443 | 2024-10-02 03:32:00 | NPP-375D | IRUPI | ESPÍRITO SANTO | Brasil | 3202652 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| aff2bdf4-d32d-3c90-b6d7-427d553efd52 | -20.35526 | -42.76332 | 2024-10-02 03:32:00 | NPP-375D | URUCÂNIA | MINAS GERAIS | Brasil | 3170503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
-| b594ce25-4b45-31cb-b617-9084b1714d8d | -20.35395 | -42.75938 | 2024-10-02 03:32:00 | NPP-375D | URUCÂNIA | MINAS GERAIS | Brasil | 3170503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| 4a30e4a4-0fd8-34c0-93c6-31a32af956bf | -20.35289 | -42.76455 | 2024-10-02 03:32:00 | NPP-375D | URUCÂNIA | MINAS GERAIS | Brasil | 3170503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| a111fbed-61ab-333e-8103-47430eae99e9 | -20.35167 | -42.75708 | 2024-10-02 03:32:00 | NPP-375D | URUCÂNIA | MINAS GERAIS | Brasil | 3170503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.7 |
-| b6b48373-5c8f-3e56-89b8-a0bf2fd3f13c | -20.35063 | -42.76231 | 2024-10-02 03:32:00 | NPP-375D | URUCÂNIA | MINAS GERAIS | Brasil | 3170503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
-| 13d24ab7-e03a-3a84-8fc8-7771ccbfd72c | -20.33527 | -42.14753 | 2024-10-02 03:32:00 | NPP-375D | SÃO JOÃO DO MANHUAÇU | MINAS GERAIS | Brasil | 3162559 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.5 |
-| 846163c5-03f6-35d6-9b1b-41766bccde28 | -20.32994 | -42.15104 | 2024-10-02 03:32:00 | NPP-375D | SÃO JOÃO DO MANHUAÇU | MINAS GERAIS | Brasil | 3162559 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 0321795e-64c2-39ac-9ff1-23c296de12e9 | -20.29486 | -44.03519 | 2024-10-02 03:32:00 | NPP-375D | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 1350dc7c-70d6-36ed-a955-fac62da59313 | -20.29416 | -44.03855 | 2024-10-02 03:32:00 | NPP-375D | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| af4010a4-f563-33a9-9d4e-a92c4b3f780f | -20.23236 | -44.23376 | 2024-10-02 03:32:00 | NPP-375D | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 921f92ce-36a8-394c-9bf5-8ba3f5169a97 | -20.23168 | -44.23697 | 2024-10-02 03:32:00 | NPP-375D | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 7b59f853-a03b-3832-a07f-21da692fd2b9 | -16.68716 | -47.8289 | 2024-10-02 03:32:00 | NPP-375D | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| cde0f783-a56d-34a1-9565-8b715337e418 | -20.22662 | -44.23573 | 2024-10-02 03:32:00 | NPP-375D | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| f0c50cf3-c769-382e-9f2b-7ba1a38f4cde | -20.0177 | -44.53155 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| a85e5804-b2c9-3fb5-837e-036cde496918 | -20.0146 | -44.52057 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| c8bd963d-6e5f-379d-99a6-0f34c6cf9d7c | -20.01393 | -44.52372 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| bf677d98-b997-3b12-8fe9-ca84705601a9 | -20.00952 | -44.5189 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 8eba0a4b-a1e3-3811-afd4-0fd0732706bb | -20.00884 | -44.52205 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| b07843d7-1600-3a2a-a76d-c385e81ad0d7 | -20.0037 | -44.52057 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 342b1ac7-5790-32f7-9d33-1bb08fc7fa55 | -20.00299 | -44.5239 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 4ddaab68-1fbb-30fd-a831-519aa5a7b853 | -20.00225 | -44.52734 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 3ad1d736-65c0-33f1-b04d-8c8ce08d6c5c | -20.0015 | -44.53078 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 34acd6ae-5e95-3060-a2b5-d91309b21820 | -19.99781 | -44.5232 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 34074235-f87a-3810-a8c7-4da5928d1a0d | -19.99769 | -44.52319 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 7312a491-40f0-3595-a44d-f032d1a4460a | -19.99708 | -44.5267 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| ccfbbad8-3b80-3196-a43d-ec964860f90d | -19.99694 | -44.52668 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| ec90694c-5860-3f0a-a074-5037b6e1a878 | -19.99637 | -44.53013 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| f90c4ffa-c4cf-3ea3-8058-4725be2e4431 | -19.9962 | -44.53011 | 2024-10-02 03:32:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| afc57041-27e7-3408-bae4-ef64b99364b3 | -19.98933 | -43.53975 | 2024-10-02 03:32:00 | NPP-375D | BARÃO DE COCAIS | MINAS GERAIS | Brasil | 3105400 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| b7a62720-87c4-3d54-9baf-faad7c4c3d0b | -19.90962 | -43.16689 | 2024-10-02 03:32:00 | NPP-375D | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 1d094961-7835-37bb-b0f6-c534376b4ba3 | -19.89655 | -43.15741 | 2024-10-02 03:32:00 | NPP-375D | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 99295908-2cc7-304d-b7a7-2dd72d0e97e0 | -19.89178 | -43.15628 | 2024-10-02 03:32:00 | NPP-375D | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| dd3db051-ec7e-3fe0-8f0c-5e835168a5b4 | -19.88232 | -43.1537 | 2024-10-02 03:32:00 | NPP-375D | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| bb7b1978-4568-3a09-83f9-98dd9cea42bc | -19.88125 | -43.15889 | 2024-10-02 03:32:00 | NPP-375D | JOÃO MONLEVADE | MINAS GERAIS | Brasil | 3136207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 642d0458-1815-3a52-9a17-4e3f36cef46d | -19.87148 | -42.34443 | 2024-10-02 03:32:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| b90d253c-3210-34b9-9aec-0ceb654a2e8c | -19.87056 | -42.34912 | 2024-10-02 03:32:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 581ba844-be90-3efb-932c-e36d248c5a5a | -19.76384 | -42.00673 | 2024-10-02 03:32:00 | NPP-375D | PIEDADE DE CARATINGA | MINAS GERAIS | Brasil | 3150158 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 81945c4f-d4b2-3455-8734-e04db4451f9a | -19.73993 | -41.64902 | 2024-10-02 03:32:00 | NPP-375D | TAPARUBA | MINAS GERAIS | Brasil | 3168051 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 0492a2e9-bd20-3fe9-a729-e33059619c13 | -19.73647 | -41.64352 | 2024-10-02 03:32:00 | NPP-375D | TAPARUBA | MINAS GERAIS | Brasil | 3168051 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| cf2c2780-7c67-3251-a6dd-882952281da0 | -19.7356 | -41.64797 | 2024-10-02 03:32:00 | NPP-375D | TAPARUBA | MINAS GERAIS | Brasil | 3168051 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 976edce6-13b1-3ee2-8039-21d6b9bb3397 | -16.68556 | -47.8278 | 2024-10-02 03:32:00 | NPP-375D | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 01d01397-10c6-37d4-b422-09bb6132e0f2 | -19.71736 | -40.35373 | 2024-10-02 03:32:00 | NPP-375D | JOÃO NEIVA | ESPÍRITO SANTO | Brasil | 3203130 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 0fe2e993-9270-352c-b072-7968b3dedcdf | -19.67593 | -42.93081 | 2024-10-02 03:32:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| b5998c9f-3000-3b63-b6cf-e315d9658263 | -19.67113 | -42.9301 | 2024-10-02 03:32:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| ab5310f9-c2aa-3489-aaf7-ad3630dd7681 | -19.62324 | -44.10831 | 2024-10-02 03:32:00 | NPP-375D | PEDRO LEOPOLDO | MINAS GERAIS | Brasil | 3149309 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 0a2a5b64-d26a-30d0-9ec9-014d0da161c0 | -19.61817 | -44.107 | 2024-10-02 03:32:00 | NPP-375D | PEDRO LEOPOLDO | MINAS GERAIS | Brasil | 3149309 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| e0aa9594-1cd9-3b77-ba21-551604616104 | -19.61308 | -44.10575 | 2024-10-02 03:32:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ff1e0c09-df46-350f-ad38-1944cb7f066e | -19.61244 | -44.10884 | 2024-10-02 03:32:00 | NPP-375D | MATOZINHOS | MINAS GERAIS | Brasil | 3141108 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 54b1f8c7-ac6f-37c3-b4e3-29d4138e82db | -19.54997 | -40.22347 | 2024-10-02 03:32:00 | NPP-375D | LINHARES | ESPÍRITO SANTO | Brasil | 3203205 | 32 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| a4dbf698-9c0c-30fc-a2a4-5c4b8009891b | -19.51419 | -42.87624 | 2024-10-02 03:32:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 7c8cf2ad-1574-3c03-897d-950192d8e4fd | -19.50952 | -42.87492 | 2024-10-02 03:32:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 3a67fc30-554b-30cd-ab02-d160cdc0ae26 | -19.50453 | -42.33435 | 2024-10-02 03:32:00 | NPP-375D | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 0c58b5c7-55f8-340f-849c-7ee66720d34e | -19.50014 | -42.33245 | 2024-10-02 03:32:00 | NPP-375D | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 75a231a8-51cd-3167-a3e6-7adf1ec4d8ea | -19.4978 | -42.34417 | 2024-10-02 03:32:00 | NPP-375D | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| a6b3bd9b-e4e6-316d-b5c9-f31f123a4733 | -19.49677 | -42.3493 | 2024-10-02 03:32:00 | NPP-375D | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 126a4521-dc18-3581-a114-4ee8b547ae14 | -19.47636 | -46.88759 | 2024-10-02 03:32:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 62547205-a08c-3ecf-a35c-7b19ab4aeaa3 | -19.4762 | -46.88946 | 2024-10-02 03:32:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 7dfb4d5e-8077-3b25-bdca-24b03757d190 | -19.47528 | -46.89245 | 2024-10-02 03:32:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| abdbc527-f4ee-31a4-ae29-419a722ff7d1 | -19.47144 | -46.88241 | 2024-10-02 03:32:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 31c08196-871f-3677-9a3e-247fae487dfd | -19.47044 | -46.88556 | 2024-10-02 03:32:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bd5a5099-93dc-3f18-97c6-83a39877931c | -19.44219 | -43.05842 | 2024-10-02 03:32:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 2876d322-a27d-30e1-b30f-69cf434903bb | -19.441 | -43.06419 | 2024-10-02 03:32:00 | NPP-375D | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 1dfc11cd-c593-35db-a86a-6aeda58fa308 | -19.43451 | -41.35861 | 2024-10-02 03:32:00 | NPP-375D | SANTA RITA DO ITUETO | MINAS GERAIS | Brasil | 3159506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 1c9122ec-8eca-3108-8a43-6b16b7ad3d30 | -19.43376 | -41.36244 | 2024-10-02 03:32:00 | NPP-375D | SANTA RITA DO ITUETO | MINAS GERAIS | Brasil | 3159506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| bf874e63-8896-3c74-92fb-1c27b8baf5d0 | -19.42956 | -41.36098 | 2024-10-02 03:32:00 | NPP-375D | SANTA RITA DO ITUETO | MINAS GERAIS | Brasil | 3159506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 03cad3e6-6330-3306-878b-1bd38ebd6034 | -19.39605 | -46.39943 | 2024-10-02 03:32:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 14e5abe2-f9c3-30ec-87e2-d1e1fbd041c5 | -19.38916 | -46.4025 | 2024-10-02 03:32:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| cab4560e-1488-3e16-9278-341b994bd636 | -19.2967 | -44.4244 | 2024-10-02 03:32:00 | NPP-375D | CAETANÓPOLIS | MINAS GERAIS | Brasil | 3109907 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| f58a6b35-f9f8-39b4-a4e4-9973d72a2ad4 | -19.29143 | -44.42338 | 2024-10-02 03:32:00 | NPP-375D | CAETANÓPOLIS | MINAS GERAIS | Brasil | 3109907 | 31 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| a9761173-ba97-3d2d-9932-bd6c5f8fc775 | -19.26025 | -43.76392 | 2024-10-02 03:32:00 | NPP-375D | JABOTICATUBAS | MINAS GERAIS | Brasil | 3134608 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 91cfdb6e-be4b-3291-bd47-951a2c4724f7 | -19.25961 | -43.76706 | 2024-10-02 03:32:00 | NPP-375D | JABOTICATUBAS | MINAS GERAIS | Brasil | 3134608 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| aeef3c37-2d6a-3a51-a7c1-3bd0ee6855d4 | -19.25021 | -43.33197 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| ce03fe8d-1537-30ce-8cb8-932b72cd7d44 | -19.25 | -43.36182 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 629d895b-36f4-3e33-b8a5-8f2541cf3cf0 | -19.24889 | -43.36713 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| e10195d6-dff0-3889-bdb8-7dda5c248034 | -19.2484 | -43.3663 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| ef1d9d91-bcda-3b60-84e0-2f3223edfd85 | -19.24777 | -43.37249 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 97f8791b-1b0e-333e-98d4-aa859823f18f | -19.24732 | -43.37164 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| e9c45f4b-c63d-3ea6-b69c-4524e2bde2b0 | -19.246 | -43.33197 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 3784c45f-96be-38b7-b7af-6c3c406e8d97 | -19.24529 | -43.33102 | 2024-10-02 03:32:00 | NPP-375D | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| f1e47795-ba10-39af-9054-c74714ab6497 | -19.24515 | -40.62804 | 2024-10-02 03:32:00 | NPP-375D | SÃO DOMINGOS DO NORTE | ESPÍRITO SANTO | Brasil | 3204658 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 5068f421-eaec-3f9e-a316-111aa4ae5a71 | -19.23969 | -46.86449 | 2024-10-02 03:32:00 | NPP-375D | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| feb318cf-6900-3609-a13e-01eb5727c198 | -19.23907 | -46.86664 | 2024-10-02 03:32:00 | NPP-375D | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 93942cfc-f31e-3f24-8d57-44bad8517f74 | -11.60562 | -65.00918 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.8 |
+| 610dc32c-4919-3004-92bc-8420e5a5b561 | -11.59803 | -65.01949 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 14fd42b2-cb40-395f-aea8-c47fcd404f55 | -11.59676 | -65.0105 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 17.9 |
+| efa30e50-2b4c-319d-a89d-2cd012e0c82d | -11.59044 | -65.02979 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| a7d994ce-61d2-3a51-9029-26ee6427f68d | -11.58915 | -65.14928 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 28b45a3c-73f4-3e9c-950d-6c5453001c85 | -11.58158 | -65.0311 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| c0a5d389-a215-32c5-964c-e6139fefc969 | -11.57807 | -65.14808 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| eae60fb3-4dba-3a25-bcdc-b2dfd0b54581 | -11.53134 | -65.07243 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| db3bd78d-1779-3972-bad2-bbd4e8a4dcd9 | -11.52501 | -65.09173 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 5d22b535-0c04-3456-ba94-3672ee0f6749 | -11.29174 | -65.00066 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 12.9 |
+| f1a4717a-8505-3b7b-8dcd-5b3475acea89 | -11.28665 | -64.96463 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| 9fdd1c0f-7896-33e3-be62-44914161bb75 | -11.28318 | -65.27372 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| b255fbde-62b4-397f-ae9e-2530cfaca10c | -11.26056 | -64.91918 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| bb50611b-76fb-3b86-94a2-6052b29e4778 | -11.16095 | -64.99545 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| 2e0c9afd-a2c7-31a7-b821-ea525a542789 | -11.12552 | -65.065 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.3 |
+| 09c84770-034c-3339-b6d4-5299dc84aaf0 | -11.68994 | -65.01831 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 26.8 |
+| 79555370-6535-3717-930f-9a6fc8ff995f | -11.68867 | -65.00931 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.3 |
+| 107dbe2d-35f7-33bc-80fa-9f3517aa5c64 | -11.68614 | -64.99131 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 46.9 |
+| 6b91f627-f497-363c-8c38-8e67cdcc7691 | -11.68488 | -64.98231 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 21.1 |
+| a6153a67-9920-3d1d-bb16-3294c948d644 | -11.68235 | -65.02862 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 8.9 |
+| 108f0bfd-3a0d-35ac-8d5f-400a120e0119 | -11.68109 | -65.01962 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 33.7 |
+| 5bab907a-2216-3b7b-8443-46cf8c95ab88 | -11.67982 | -65.01063 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 18.4 |
+| d2bda8e0-8a80-33ff-be75-795b03a26c18 | -11.67729 | -64.99262 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 18.7 |
+| 4ec5d8f9-52eb-3e55-95e9-f8a93d8186e6 | -11.67602 | -64.98363 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| a526157e-aad4-3f90-9d09-da70ca1e3f32 | -11.67223 | -65.02094 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 20.1 |
+| 2e626450-da53-3eab-9135-2d06f829f5b3 | -11.67097 | -65.01194 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| f184f192-b219-3a5a-be56-971c25fc2793 | -11.66873 | -65.20172 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 984fdf1a-30c4-3cb4-8ba6-07c2aeca8ee0 | -11.66747 | -65.19274 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
+| 5ebcda2b-f68f-3ad5-966c-dc2130569817 | -11.66717 | -64.98493 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 9b26290e-8871-3f4b-8be7-4e97d315ac24 | -2.9616 | -54.6503 | 2024-10-03 02:15:23 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 71.5 |
+| 9a3b42eb-30a0-3531-a110-0dda2489c3ff | -4.0949 | -48.4894 | 2024-10-03 02:15:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 65.5 |
+| 6dcf277c-fdb0-3a90-b10b-5a1faa8fe5b6 | -4.095 | -48.4679 | 2024-10-03 02:15:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 64.1 |
+| e0baf79f-f262-3613-b0e1-c09d8dbf3704 | -4.4844 | -42.8866 | 2024-10-03 02:15:31 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 121.7 |
+| 8616b3d3-590b-3770-bf7a-ad211bf0053a | -4.4845 | -42.8631 | 2024-10-03 02:15:31 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 68.6 |
+| 67c2fa26-1642-31f3-86d2-e18582f1d9d5 | -4.5373 | -43.3273 | 2024-10-03 02:15:31 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 52.9 |
+| c4a28668-5a76-31db-bb94-15aacf959559 | -4.5375 | -43.304 | 2024-10-03 02:15:31 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 118.6 |
+| f1d96693-fdd2-3029-947e-0ced0bacb328 | -4.58 | -48.0132 | 2024-10-03 02:15:32 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 49.8 |
+| 59c7ad3a-bee7-32c6-a25a-a72042e74a68 | -4.9264 | -43.79 | 2024-10-03 02:15:34 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 114.1 |
+| 530feb5a-be60-369e-ae6a-4db0160dc703 | -4.9265 | -43.7669 | 2024-10-03 02:15:34 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 97.3 |
+| 08bdf0f9-c9b7-3470-91c4-c622c9394d96 | -4.9451 | -43.7888 | 2024-10-03 02:15:34 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| 7a8b516f-b77f-3d94-bdbb-027d74db5f47 | -6.8777 | -59.0504 | 2024-10-03 02:15:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 43.5 |
+| aec25599-c626-33ec-9f72-8b211939fc23 | -6.8778 | -59.031 | 2024-10-03 02:15:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 40.3 |
+| f79ad67a-afa0-33be-a907-1fe2b2f36eb8 | -8.8506 | -45.5086 | 2024-10-03 02:15:56 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 155.9 |
+| d03a1e90-9c3c-37b6-8902-62d3b3d526bc | -8.8509 | -45.4859 | 2024-10-03 02:15:56 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 39.3 |
+| ce3344df-0dbf-31a3-b65b-c6b8be8c90e0 | -8.8695 | -45.5066 | 2024-10-03 02:15:56 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| 82394ca4-26a2-3450-a627-5166a36bd04e | -8.8698 | -45.4838 | 2024-10-03 02:15:56 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 30.8 |
+| cdf0c4bc-2a68-3f76-8b3d-1e25f85fbb87 | -8.8926 | -62.3348 | 2024-10-03 02:15:57 | GOES-16 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 61.8 |
+| c9b73df1-0117-3e1e-ae08-7db71bc721f3 | -8.9976 | -67.4094 | 2024-10-03 02:15:58 | GOES-16 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 62.1 |
+| c7b2845f-0f6c-3a04-83b8-33bc2eb07b4a | -9.0149 | -67.7423 | 2024-10-03 02:15:58 | GOES-16 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 56.3 |
+| 740adfc2-a791-3ebd-af8b-aeb7cbd374e4 | -9.0515 | -67.871 | 2024-10-03 02:15:58 | GOES-16 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 77.3 |
+| 5fb9bf80-28c4-3637-b4b4-dc9a40bcbc1d | -9.0516 | -67.8525 | 2024-10-03 02:15:58 | GOES-16 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 40.6 |
+| 3fb7209d-8b72-3a8f-a82b-f10a4e7a4d37 | -9.1566 | -61.6758 | 2024-10-03 02:15:58 | GOES-16 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 55.0 |
+| 2cb52e4a-5793-3706-8bd8-28740c0df87a | -9.1752 | -61.6749 | 2024-10-03 02:15:59 | GOES-16 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| 203fe2a9-b917-34a9-9b90-398e80e5c0bc | -9.4368 | -64.5419 | 2024-10-03 02:16:00 | GOES-16 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 52.9 |
+| 19830d7f-7963-38bf-aeb8-9ca197d8ba2f | -9.494 | -68.4895 | 2024-10-03 02:16:01 | GOES-16 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 38.2 |
+| 972373ac-a80a-350d-b962-4d0672c0255e | -10.8942 | -63.8971 | 2024-10-03 02:16:08 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| bd72e57a-6d7d-37dc-9049-a8ab49193111 | -11.2565 | -60.6019 | 2024-10-03 02:16:10 | GOES-16 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 70.6 |
+| f4b3945a-bd79-3fa3-a75c-1fc7d1946469 | -11.2566 | -60.5825 | 2024-10-03 02:16:10 | GOES-16 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 6e38a082-b381-3919-8ebd-bef75f7dced9 | -11.6743 | -64.9983 | 2024-10-03 02:16:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 70.3 |
+| b7696514-bdb1-31b5-805f-2eed7dd9d4bc | -11.6742 | -65.0172 | 2024-10-03 02:16:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 69.2 |
+| 3ae64337-a4b2-3848-9f90-58d90371b9f6 | -12.404 | -62.9817 | 2024-10-03 02:16:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 64.9 |
+| bb4e618c-5041-3d8f-bf9a-7df335fff2e8 | -12.4038 | -63.0009 | 2024-10-03 02:16:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 92.3 |
+| dae72a87-8cf4-30c6-802c-8173f612534c | -12.6486 | -63.1022 | 2024-10-03 02:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 79.4 |
+| 43514426-8cbc-326d-8680-b030d7e14fb3 | -12.6484 | -63.1214 | 2024-10-03 02:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 97.0 |
+| 83a555ec-de5c-3d0c-8831-b0ea0f57bb05 | -12.8999 | -62.4527 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 85.4 |
+| 6ac80188-258e-3ac7-9af9-cad98add64d9 | -12.8998 | -62.472 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 126.2 |
+| 96e43c52-2000-34ae-b82d-a8190a9ef76f | -12.8996 | -62.4913 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 99.9 |
+| b8e62ced-5898-38c4-b45f-965113bbd0c7 | -12.8991 | -62.5491 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 8efd9e29-1753-306f-aa2c-6dcd1a41a171 | -12.881 | -62.4538 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 81.9 |
+| 6caa7309-adbd-3407-9145-d68b44580a49 | -12.8808 | -62.4731 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 88.2 |
+| 21c40d4a-ae57-39a9-9cb7-33ba0053f684 | -12.8049 | -62.497 | 2024-10-03 02:16:19 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 72.0 |
+| e88203ec-fb08-3606-b023-e28fdc242714 | -12.9741 | -62.6409 | 2024-10-03 02:16:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 68.9 |
+| f585e1ec-d1d0-3547-aaef-8bed768094ff | -12.9187 | -62.4708 | 2024-10-03 02:16:20 | GOES-16 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 69.4 |
+| 4bb5cab0-f330-3e3d-b93e-d72fb0a1a769 | -13.5562 | -51.2489 | 2024-10-03 02:16:22 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 82.4 |
+| be19428a-9992-321b-9492-07662691d2e1 | -13.5558 | -51.2704 | 2024-10-03 02:16:22 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 121.4 |
+| 831d1972-3a2a-3e25-a93d-7be714b8c584 | -13.5366 | -51.2728 | 2024-10-03 02:16:22 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 73.6 |
+| b73a1703-808c-3ced-b484-612b8600fb52 | -13.5195 | -51.1467 | 2024-10-03 02:16:22 | GOES-16 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 124.3 |
+| f0e8b45c-fbeb-37b8-9383-8d640243c4e1 | -15.7676 | -49.9555 | 2024-10-03 02:16:34 | GOES-16 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 72.5 |
+| 507b4682-d59f-3a4e-a0b7-1ab3778c68c9 | -15.7872 | -49.9523 | 2024-10-03 02:16:34 | GOES-16 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 102.6 |
+| f6112bb0-1bb9-3fff-9240-9fb6fb4e7e47 | -16.7597 | -57.8124 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 78.4 |
+| 4fe68615-0a66-373d-97f9-81e2f25900f3 | -16.7594 | -57.8328 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 94.5 |
+| 19850c2b-732d-3d88-8274-e6d09d5bcaec | -16.761 | -57.7308 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 72.3 |
+| 3a9cdd26-2f84-317c-a9fe-28b2505fa700 | -16.7849 | -57.4425 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 55.9 |
+| 8364e443-123f-3b89-a4c5-a81143e1e83b | -16.7802 | -57.749 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 50.2 |
+| ddbfce5b-8030-30b5-a724-b23ba252b017 | -16.7793 | -57.8102 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 82.1 |
+| 02590479-c90d-31f7-97e9-65af58fb9731 | -16.779 | -57.8306 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 148.4 |
+| e54a84be-8205-3ddc-82b6-71de65b0102b | -16.7606 | -57.7512 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 78.0 |
+| 9aa3cd39-b40c-374a-9b70-4ff88025b382 | -16.7654 | -57.4447 | 2024-10-03 02:16:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 63.4 |
+| 94d97603-1ff2-3e31-8690-a73729096975 | -16.9179 | -57.6926 | 2024-10-03 02:16:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 79.1 |
+| 499c25a8-dcc5-3b3d-893c-c22068bae5ee | -16.9176 | -57.7131 | 2024-10-03 02:16:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 64.0 |
+| 9abc5ba2-b066-39ea-babe-0df45566dda4 | -16.8986 | -57.6744 | 2024-10-03 02:16:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 48.9 |
+| 6f194166-e6d9-31c6-a899-88c6e8400db4 | -16.8983 | -57.6949 | 2024-10-03 02:16:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 71.8 |
+| 3ed01d4c-a964-35e9-960a-9cef17fd1924 | -16.7985 | -57.8284 | 2024-10-03 02:16:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 75.9 |
+| d1d7eb40-e985-3c10-b70a-18587f07fb2c | -17.197 | -57.3741 | 2024-10-03 02:16:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 57.2 |
+| 3960a7d2-32b0-3e80-8e5e-9b22471542f1 | -19.0344 | -43.1944 | 2024-10-03 02:16:51 | GOES-16 | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 81.6 |
+| 143454a7-6ccb-346c-b49a-c738e3af5e8a | -22.3094 | -44.0633 | 2024-10-03 02:17:08 | GOES-16 | VALENÇA | RIO DE JANEIRO | Brasil | 3306107 | 33 | 33 | nan | nan | nan | Mata Atlântica | 141.1 |
+| c46d0a5b-4433-33e4-948d-4211a6d7d632 | -4.0949 | -48.4894 | 2024-10-03 02:25:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 65.3 |
+| 8aff53c7-8742-37ca-981a-8854f41cf59a | -4.095 | -48.4679 | 2024-10-03 02:25:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 60.7 |
+| de3324cd-eca6-3bd5-9843-9b4429d163f5 | -4.4657 | -42.8877 | 2024-10-03 02:25:31 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| ede547b7-92e1-3285-b0f5-be4ba20a25b5 | -4.4844 | -42.8866 | 2024-10-03 02:25:31 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 191.2 |
 
 
 [Clique aqui para ver as próximas entradas](README54.md)
