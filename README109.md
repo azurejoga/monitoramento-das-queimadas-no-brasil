@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c221ace7-5cd0-38ca-ab89-2c38efc232b8 | -21.63141 | -46.42426 | 2024-10-03 04:32:00 | NOAA-21 | BOTELHOS | MINAS GERAIS | Brasil | 3108404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| c5fbebff-142e-3b1b-bb81-6c4abea87aa3 | -22.38417 | -47.89174 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| aeccf20c-b218-3fa9-b3e7-2ba830773b84 | -22.38359 | -47.89579 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| cfe57a9f-0e61-3d56-8626-c805b90bdff7 | -22.38301 | -47.89983 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 94.5 |
-| 7671f3dc-83db-3a04-8d39-73498ff17cb4 | -22.38244 | -47.90387 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 94.5 |
-| c482b996-abf7-34fa-80f5-cb8219abf459 | -22.38187 | -47.90786 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 87.4 |
-| 62181016-1c9c-3622-aa22-36071d554311 | -22.37959 | -47.89923 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 94.5 |
-| 4ace52d6-3d91-3614-aac7-b3ad2c0e8570 | -22.37901 | -47.90329 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 94.5 |
-| 09b9ed9f-b7d0-390c-b66d-9a25aebe0dcb | -22.37844 | -47.90729 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 87.4 |
-| 8dab10de-0900-30c4-b3e1-f35441481379 | -22.37559 | -47.90271 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 6db32603-cf3e-38b4-9d78-ff7ea479a938 | -22.37501 | -47.90673 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 6b7f8783-a47a-3c02-b166-d9945857ed1b | -22.37444 | -47.91072 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 3290dffe-9171-3703-b34c-53c7da063bd1 | -22.37388 | -47.91471 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 92aa4ebd-74fe-3cd0-9a63-f6e03c326d68 | -22.37216 | -47.90214 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 3dc9c1ca-5ab1-3ff0-afd4-6157daa9a6db | -22.37158 | -47.90617 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| e74c4411-be32-32a0-ba58-e00f3a9dd08f | -22.37101 | -47.91016 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| a935d835-594e-3999-a817-e830891ad2c4 | -22.36816 | -47.90558 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 058c006c-de54-3b8d-9c0b-e756bde6349e | -22.36759 | -47.90958 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| b36536c8-6cc7-371d-a0d2-2b1b26dfae4b | -22.36647 | -47.942 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 7b0e6ffd-e871-3389-b5bd-66ee8997f53b | -21.74464 | -47.52483 | 2024-10-03 04:32:00 | NOAA-21 | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ba094ce4-4a45-367b-8605-0d100360d51e | -21.39206 | -47.63915 | 2024-10-03 04:32:00 | NOAA-21 | SÃO SIMÃO | SÃO PAULO | Brasil | 3550902 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 033c96a2-f394-37f1-9bf6-efcc997cde7d | -21.39148 | -47.64316 | 2024-10-03 04:32:00 | NOAA-21 | SÃO SIMÃO | SÃO PAULO | Brasil | 3550902 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ce21f5bb-0dcf-30e5-b412-76a44cd135ff | -21.38921 | -47.63456 | 2024-10-03 04:32:00 | NOAA-21 | SÃO SIMÃO | SÃO PAULO | Brasil | 3550902 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| a3fd230a-5579-3241-b914-60466e34c198 | -22.18533 | -48.60899 | 2024-10-03 04:32:00 | NOAA-21 | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 8ca9e087-6ff8-35ae-a0a0-dacabd26ea36 | -22.17642 | -48.5761 | 2024-10-03 04:32:00 | NOAA-21 | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| a57acfc8-4f43-3442-be21-24ea7a49833a | -22.17529 | -48.58376 | 2024-10-03 04:32:00 | NOAA-21 | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 94276be5-21ed-33fa-b238-3e3396d3317f | -22.8901 | -48.41095 | 2024-10-03 04:32:00 | NOAA-21 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 31a86b70-85b8-354c-8a3a-b1ae045360a1 | -22.84097 | -48.4144 | 2024-10-03 04:32:00 | NOAA-21 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 686d5eb1-6cbf-3c23-b4ae-cd85db886819 | -22.84039 | -48.4185 | 2024-10-03 04:32:00 | NOAA-21 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c1ad27c4-9ffc-3512-ab08-dc9bd7aae499 | -22.83759 | -48.41381 | 2024-10-03 04:32:00 | NOAA-21 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0151c246-4518-3108-8302-6ba3e724b527 | -22.837 | -48.41791 | 2024-10-03 04:32:00 | NOAA-21 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 4c168899-2697-3160-aa6f-334126a16fb9 | -22.54507 | -48.54212 | 2024-10-03 04:32:00 | NOAA-21 | IGARAÇU DO TIETÊ | SÃO PAULO | Brasil | 3520004 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
-| 504e470d-44da-3d56-8763-29b7fe55eb07 | -22.5445 | -48.54599 | 2024-10-03 04:32:00 | NOAA-21 | IGARAÇU DO TIETÊ | SÃO PAULO | Brasil | 3520004 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.6 |
-| a2d1cc32-ca70-31db-ad64-fb2dee7110e1 | -22.54394 | -48.54985 | 2024-10-03 04:32:00 | NOAA-21 | IGARAÇU DO TIETÊ | SÃO PAULO | Brasil | 3520004 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.6 |
-| 07f67912-d7e5-31ce-b452-13b36b0b86d2 | -22.54171 | -48.54153 | 2024-10-03 04:32:00 | NOAA-21 | IGARAÇU DO TIETÊ | SÃO PAULO | Brasil | 3520004 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 5ea9047b-db54-36cc-8aed-3f3312f65079 | -22.39787 | -47.89413 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 1fc1b6d8-5d78-3890-8c4f-969bff45d0ac | -22.3973 | -47.89816 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| aa43a5a7-8d50-3a8c-9c23-45b12074192e | -22.39502 | -47.88952 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 3796e820-0d2f-359e-87be-1637ec8f8ca6 | -22.39445 | -47.89355 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 92d6c792-6cee-33ad-aa25-5dc4fb5b8375 | -22.3916 | -47.88891 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| fe7c65d3-c6c1-330b-8845-5158919eb459 | -22.39102 | -47.89296 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 5821d474-a3d7-3d8a-95b0-637275b7c1e4 | -22.38644 | -47.90042 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 17.3 |
-| 0816ff84-ac06-3cb7-9c85-f5ed2f0d6883 | -22.38587 | -47.90445 | 2024-10-03 04:32:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 17.3 |
-| 28556df8-3b70-346c-ba4f-e3c73e471681 | -23.98213 | -48.91847 | 2024-10-03 04:32:00 | NOAA-21 | ITAPEVA | SÃO PAULO | Brasil | 3522406 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c916b3c7-ab8c-3c76-ad2a-ca3f0242529a | -22.39116 | -49.27311 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 7c1e419c-4f14-3ed9-9a0a-12340a48181f | -22.39059 | -49.27687 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 735dfd7a-0213-34e2-a975-d34cf0e29cc3 | -22.38622 | -49.26064 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 399b8bd2-7c97-3c0c-b4f4-94af7e084850 | -22.38347 | -49.25631 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 24ae3e62-362a-3e5f-b845-fc53c66d17f9 | -22.3829 | -49.26006 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| cfb587af-8b03-3582-9653-63b456ca7d84 | -22.38233 | -49.26382 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 7b3b048a-4f1f-3e82-ae28-131f97a717b1 | -22.37009 | -49.27708 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 6e1b1968-877d-3b49-98bf-c85baaeafbd3 | -22.3662 | -49.28024 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| cf9538a6-19fd-3197-b284-08ca50e5d3c3 | -22.36392 | -49.27591 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 3cb60fdf-c67e-382d-a2b4-9e6f221e3b93 | -22.36335 | -49.27966 | 2024-10-03 04:32:00 | NOAA-21 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Mata Atlântica | 24.0 |
-| 1b569b7e-e8fe-3c65-9df7-8c3176f7f273 | -22.35531 | -49.33218 | 2024-10-03 04:32:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 65993385-8fbc-3a97-8563-9cf49a423994 | -22.28507 | -50.00431 | 2024-10-03 04:32:00 | NOAA-21 | MARÍLIA | SÃO PAULO | Brasil | 3529005 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 1628bf25-16d1-32cd-a2bf-e6ef831ab5b6 | -22.22764 | -49.63136 | 2024-10-03 04:32:00 | NOAA-21 | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
-| 587bd776-b0a6-3903-b4bf-1ffe4cad44b0 | -22.16235 | -48.62475 | 2024-10-03 04:32:00 | NOAA-21 | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 2c3650b2-5588-365b-bbb6-5ce67a7110c7 | -22.15842 | -48.62803 | 2024-10-03 04:32:00 | NOAA-21 | BOCAINA | SÃO PAULO | Brasil | 3506805 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 223106e3-5425-3612-a933-d4aefc6297a5 | -22.15507 | -48.62745 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| b62e710b-b880-37f8-84c8-5e3175e52f6b | -22.0343 | -48.73214 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
-| 4139f1ed-34ba-39f8-9bef-f0016d032372 | -22.03095 | -48.73158 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 12.0 |
-| 2c16870e-c1a7-37e6-baf4-511ccb5574bb | -22.02425 | -48.73044 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.8 |
-| 27317726-86a0-3324-8f40-f1068908cf29 | -22.02369 | -48.73425 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
-| 46cfcaac-14d9-39d3-8bc8-88005a272ceb | -22.02091 | -48.72987 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.8 |
-| bf04f49f-8786-3f2d-b272-cca05a854a30 | -22.02034 | -48.73368 | 2024-10-03 04:32:00 | NOAA-21 | BARIRI | SÃO PAULO | Brasil | 3505203 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
-| cbd16355-4c56-358a-89e0-1103471ea31e | -21.23789 | -49.41371 | 2024-10-03 04:32:00 | NOAA-21 | IRAPUÃ | SÃO PAULO | Brasil | 3521507 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 0cdf0600-b87b-3762-a87c-443135a0cc84 | -22.98007 | -49.17613 | 2024-10-03 04:32:00 | NOAA-21 | CERQUEIRA CÉSAR | SÃO PAULO | Brasil | 3511409 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| f3e32a82-fe50-3f3f-a6ff-45c11807273f | -22.53915 | -48.81351 | 2024-10-03 04:32:00 | NOAA-21 | MACATUBA | SÃO PAULO | Brasil | 3528007 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d12b5865-852c-36d2-aa53-78cf598d532f | -23.53907 | -49.83496 | 2024-10-03 04:32:00 | NOAA-21 | JOAQUIM TÁVORA | PARANÁ | Brasil | 4112801 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| c1a8388f-232f-3946-ab2c-fbd4972300e2 | -22.99979 | -49.60498 | 2024-10-03 04:32:00 | NOAA-21 | IPAUSSU | SÃO PAULO | Brasil | 3520905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 9e8f75d1-b6d7-33f7-832f-1984f72d727c | -22.9959 | -49.60814 | 2024-10-03 04:32:00 | NOAA-21 | IPAUSSU | SÃO PAULO | Brasil | 3520905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 56953f47-ac17-3213-8be5-abd6e6f97966 | -22.99533 | -49.61189 | 2024-10-03 04:32:00 | NOAA-21 | IPAUSSU | SÃO PAULO | Brasil | 3520905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| daf8bc54-3f4d-35fa-87fb-4437407bfb6c | -22.392 | -50.23309 | 2024-10-03 04:32:00 | NOAA-21 | ECHAPORÃ | SÃO PAULO | Brasil | 3514700 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 967864c0-8907-3c7b-b6a8-dea94fd27645 | -22.38928 | -50.22877 | 2024-10-03 04:32:00 | NOAA-21 | ECHAPORÃ | SÃO PAULO | Brasil | 3514700 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 9caec01d-f653-307e-a535-8f75121a453d | -22.38869 | -50.23248 | 2024-10-03 04:32:00 | NOAA-21 | ECHAPORÃ | SÃO PAULO | Brasil | 3514700 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 7f49efea-5127-39b6-8e31-6c3aac19219f | -22.3848 | -50.23559 | 2024-10-03 04:32:00 | NOAA-21 | ECHAPORÃ | SÃO PAULO | Brasil | 3514700 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 58384595-05c5-3584-b4f4-971f6be4aac2 | -22.38208 | -50.23127 | 2024-10-03 04:32:00 | NOAA-21 | ECHAPORÃ | SÃO PAULO | Brasil | 3514700 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 80b40b83-e10d-370d-9bb8-c29e9326aee3 | -21.6207 | -50.7953 | 2024-10-03 04:32:00 | NOAA-21 | RINÓPOLIS | SÃO PAULO | Brasil | 3543808 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| db46e8d6-f76f-3fb1-89db-45b456fc25b3 | -21.42004 | -50.98347 | 2024-10-03 04:32:00 | NOAA-21 | BENTO DE ABREU | SÃO PAULO | Brasil | 3506201 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| ff4db916-ce31-3cad-ac3d-edb2a00f986f | -22.68718 | -50.47404 | 2024-10-03 04:32:00 | NOAA-21 | ASSIS | SÃO PAULO | Brasil | 3504008 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 461feb14-dc37-33da-a60b-e8fa8da4a3f2 | -22.68387 | -50.47345 | 2024-10-03 04:32:00 | NOAA-21 | ASSIS | SÃO PAULO | Brasil | 3504008 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 445131c3-d925-32b6-90a0-f7ff512f9ca3 | -21.34744 | -55.66936 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 420193d7-0524-3fc8-900c-3763d1b05d2f | -21.34667 | -55.67339 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| b46767bc-5ca1-3576-ae63-5ad60fd851d6 | -21.34487 | -55.66032 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| dcb76019-ebb0-316c-a4d8-9b16021ab1c1 | -20.77927 | -54.81104 | 2024-10-03 04:32:00 | NOAA-21 | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 578b92aa-1e19-3fcf-9e7c-2d5fecadbe35 | -20.77821 | -54.81658 | 2024-10-03 04:32:00 | NOAA-21 | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| afcee906-f12d-3b23-885a-598c4387ab8c | -21.37113 | -55.69074 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| f421f8af-58ea-3bd2-a918-7cedda217273 | -21.37034 | -55.69478 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| fe1cbcde-b591-36e6-b161-1f47c635a67f | -21.3698 | -55.68732 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f349a0f0-6b80-3e09-a818-d262cd8668fe | -21.36955 | -55.69882 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6a3c9a5f-157c-3815-8e0f-954367cf8735 | -21.36904 | -55.69129 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 3b62697c-4b0e-3f7a-8e69-acfda9d1cd62 | -21.36829 | -55.69529 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 16471b1b-b3fb-385a-b17b-0b0da13995f9 | -21.36781 | -55.68579 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| bed9eec1-24f9-3d91-b1ef-3635e756a53d | -21.36751 | -55.69939 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 83e48bbb-7ceb-37c9-a103-0c0f285d6504 | -21.36702 | -55.68976 | 2024-10-03 04:32:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0f690f16-360b-3386-967d-48c9bf1831ad | -21.36625 | -55.69372 | 2024-10-03 04:32:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| fc593895-ec4f-3c3b-802a-5c936abc6ad8 | -21.36544 | -55.6978 | 2024-10-03 04:32:00 | NOAA-21 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 7b10b505-09a3-3352-bd9c-36f3cee83a37 | -21.36495 | -55.69022 | 2024-10-03 04:32:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 8b50620d-8cd4-350a-a2bd-7ac4f1214399 | -21.3642 | -55.69419 | 2024-10-03 04:32:00 | NOAA-21 | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| f84c13ff-a156-3b31-be7c-c564f150a90d | -9.82327 | -51.92357 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| b7bd440c-f09d-3547-aa88-37b772a7bc29 | -9.82034 | -51.91859 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f5d2781b-188e-374e-ae4c-cc5e5df60285 | -9.81962 | -51.9229 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| 05e76188-b85d-30bd-98dd-0b2b4be779aa | -9.81596 | -51.92227 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 6bc78cbd-a186-31ed-bf0f-0ae41d328bfb | -9.81123 | -51.81734 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ba24d861-7716-31b3-9bd6-2ed098cd6edc | -9.80899 | -51.80818 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c54539c4-08c8-3639-a39d-0d1469096949 | -9.80858 | -51.81084 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 7c2f008f-5fa2-3e86-9d80-c46cf164e4b5 | -9.8083 | -51.81241 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b90ee1ef-e453-3c9f-8cd5-5226ebf19656 | -9.80786 | -51.81509 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| d6074ca9-c8de-3451-89e1-edee1c9f0820 | -9.80759 | -51.81668 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 1dcd3b52-6ccf-39a2-9544-1241fb8a2e46 | -9.80713 | -51.81936 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 2d2898e4-0066-3149-8419-1610e9e72b89 | -9.77831 | -51.9262 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f88db3db-71b2-37b0-8769-e7861cc2a9c9 | -9.77678 | -51.91266 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1fe05bc0-e40c-37f4-8c93-591abf2cd5a6 | -9.77535 | -51.92128 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| c8e2ae49-fd5b-3977-93f4-92d071a37096 | -9.77463 | -51.92563 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 3efa98de-ebd7-333c-bc1e-dd35186ec198 | -9.77321 | -51.93425 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ec093500-14a3-3777-812b-ec2b44f09fb6 | -9.77313 | -51.91199 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2a2bf36b-d29a-3503-ad20-5585a1125963 | -9.77249 | -51.93859 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ec15eccb-9ed8-357f-bb87-680e6210ce76 | -9.77168 | -51.92076 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| af096666-5780-3eac-a25f-517f1547284a | -9.77096 | -51.92509 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 89e94b02-e9bb-35d5-8744-fe03aac13de0 | -9.76947 | -51.91137 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2c633009-c797-3c58-b809-240bced67930 | -9.76883 | -51.93793 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d6215ac0-bd29-3141-8430-b013b47bae83 | -9.76518 | -51.93725 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 0ffa6321-c8de-3def-9567-b5ee30f3aff0 | -9.76507 | -51.91522 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1087064c-fd70-3dfd-988e-bc2572b0d7fe | -9.76221 | -51.93248 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| fe08879d-851a-347b-a7f4-3b87ec7a0f41 | -9.76152 | -51.93662 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ffc7b6b4-e43f-31aa-aabc-327ef2d76e65 | -9.7614 | -51.91465 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 7e0925c6-b38b-3df8-8966-58e5d5c6921b | -9.68357 | -51.37704 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a70b6809-f487-3c8e-b1f3-4d6b9823637f | -9.68288 | -51.38113 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| fb9a5c2e-2162-34f2-ab00-e8eb35772cd0 | -9.68124 | -51.34723 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 0a35c491-8899-31fe-a9da-5e729d4319ba | -9.67768 | -51.3466 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 58cbd5bb-78ef-3da4-bba5-7ca231158ae6 | -9.60646 | -51.4531 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| c37f432c-82ef-3191-95fd-e79f5abd5021 | -9.60288 | -51.45244 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 190ce5fd-d429-36b3-a30a-e4cdf3b2066b | -9.59722 | -51.4644 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 7a6d1c62-26db-39dc-a5c3-1e669020f8cd | -9.59363 | -51.46381 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| a3184d9e-604a-3f69-995c-12f5d9d70386 | -10.47427 | -50.83215 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| ffb48a36-50e7-30d9-861d-0ca25c4d2e6f | -10.46164 | -50.73596 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 779f94ec-819d-385e-a9a0-e00c635584b6 | -10.45882 | -50.73158 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| da287e9d-d00f-31ba-a9de-7cf1babf012f | -10.4582 | -50.73536 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c9d6e5f6-63f5-3b2f-a29e-8a740f4fd3df | -10.45757 | -50.73914 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 0773e30c-3483-3835-9446-56751d261c4a | -10.45695 | -50.74294 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 5d9fab99-b535-315d-92bd-93d1ebaf3eb9 | -10.45537 | -50.73099 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 36e82e97-c4a9-3009-8e72-36910218fab9 | -10.45475 | -50.73476 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c5a104d6-217e-3b4c-b1f4-70f621708134 | -10.45413 | -50.73854 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e843b9ce-c542-310e-8dd4-22c70af427b1 | -10.45192 | -50.73042 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 10adfee9-a406-3408-8e16-7786dd061762 | -10.4513 | -50.7342 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f67952ae-90cf-381b-a606-d6dc752725c1 | -10.45067 | -50.73798 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ca756d9e-c73c-3953-a9d7-c23859a40bd1 | -10.45005 | -50.74179 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 061fd5c2-190c-3a5e-8e8f-aa4512e76d00 | -10.44847 | -50.72987 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 654fca1f-e1b5-3bc0-bba3-d0379f1d31ae | -10.44784 | -50.73365 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| db6e3a42-54bf-30f5-989b-4c763b9968f3 | -10.44722 | -50.73745 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 8e7f46aa-6871-39c8-8a6b-a3e55be6a325 | -10.44659 | -50.74124 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 910271ac-2563-3be3-bb5a-31959c810798 | -10.44596 | -50.74504 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| f80005f9-8a01-39d3-888f-fc7e80ad4469 | -10.44534 | -50.74883 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8cdd96b0-7bc5-33f3-883d-367f9344243b | -10.44532 | -50.79198 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 3ae63f36-1f61-343d-832c-29ed66d6498d | -10.44502 | -50.77226 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| a34a9918-8f1e-365c-9dbf-98324dbb0216 | -10.44501 | -50.72931 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| b5b2e22d-5c9f-3c3a-9834-498ceb4343bf | -10.44472 | -50.75262 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2b7e3161-6ac8-363e-aefd-add70f28dcdc | -10.44439 | -50.77609 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| ddfce86b-253d-398e-ae53-2d508739de3f | -10.44439 | -50.7331 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 8bc8d936-c8cc-34f0-adaa-67c185ad1754 | -10.44409 | -50.75642 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| bb2520cc-320c-3092-b229-f4065d3b561b | -10.44376 | -50.77993 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 04e15043-5e49-3205-9f34-ed63bb74bcba | -10.44376 | -50.73689 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| cc057fc6-a494-3c66-839f-8a14a9bd6cdb | -10.44346 | -50.76023 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a1bed7ab-41cb-3837-8bb8-117a68516d73 | -10.44314 | -50.74068 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 44cfd25b-2d69-36f5-8245-5b27ead0ea1c | -10.44283 | -50.76405 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 3bb07b5b-466d-35a5-ad49-dbf62c8e2c77 | -10.44251 | -50.74447 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 5dfaca75-0d6e-3d8e-9aa9-19630069341d | -10.4425 | -50.78759 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 84ec1418-8d83-35bb-8dca-b04ec4f0b746 | -10.4422 | -50.76787 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 8b7d0f52-2ff2-348f-a246-de92e34f8cfa | -10.44189 | -50.74827 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 12360da6-e0aa-3dad-9cbc-5c08e5a1fd57 | -10.44157 | -50.7717 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b992af5e-644e-3d52-8e57-ee44185b34ac | -10.44094 | -50.77553 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 7fb2e02c-3f53-394b-a993-02f9a21ad231 | -10.44094 | -50.73254 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 8e0778e9-2b55-3c57-acc4-6c591ea1bf28 | -10.44031 | -50.73633 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 3e1f6787-0899-34f6-9e01-3eddd06f9e38 | -10.44029 | -50.8225 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| f49f2571-41e1-384b-b5be-3f0219edb61a | -10.43968 | -50.74012 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 331355b5-9bc6-3a6a-b873-691be726e8ae | -10.43841 | -50.79084 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 33ec8dd9-b08c-3532-984f-74b1fbd93fcd | -10.43495 | -50.79026 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a951f7c4-cec9-309e-bac5-73e0405fe78d | -10.434 | -50.81753 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| e6d903de-fbd9-3425-84c2-6593b15946b9 | -10.4315 | -50.78968 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 2a088ffe-a76a-3a88-9e21-2d4745f81359 | -10.43117 | -50.81313 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 126cdea0-19c5-31d2-b216-b29c1af80094 | -10.43087 | -50.79348 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 424fb4e7-b5bb-3b6d-9c6c-2b5fe02fc0eb | -10.43024 | -50.79726 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 23453a78-3e9f-3b46-be3a-24fca48fb75d | -10.42962 | -50.80101 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| cd4a0d47-1920-3ca9-badb-c1f5e52b64c7 | -10.42836 | -50.80867 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 15cf58e8-cf82-33d5-bb37-9f32cabd1451 | -10.42771 | -50.81255 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 92b5115f-6393-32fb-a799-1f663803f7ed | -10.42741 | -50.7929 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f48b3aee-e837-3cee-9d0f-e66498ae8d7a | -10.42708 | -50.81638 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d0ee008a-b680-3bc6-af3f-4f91a627e49b | -10.42678 | -50.79668 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 2b8304a6-157c-3bbf-97fd-ce9aaea98057 | -10.42616 | -50.80044 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 06c183b1-5489-38e7-80db-4fae126edc65 | -10.42554 | -50.8042 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| ce812a9a-8722-3084-84e4-876b4cc5024e | -10.4249 | -50.80809 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 2d4336fd-8efe-32a3-885b-f5e6fc542e3d | -10.42425 | -50.81197 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| bb137734-c029-3872-b0fa-0da62b1fda7b | -10.4227 | -50.79988 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| efc06da8-22f0-3839-bbf0-2c74f1722612 | -10.42208 | -50.80365 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 21c8d695-84ba-3a00-84b5-4404e9cd4e4e | -10.42144 | -50.80751 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 2c9eaa9d-2f31-32e4-9a98-03579b1a5b96 | -10.42079 | -50.8114 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| dd9b3391-5b47-3b5c-90a9-dfb799c49398 | -10.63783 | -51.11231 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c20bbce5-fe5b-3325-9d2b-5bd5f463f796 | -10.63718 | -51.11621 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| abdc859f-a29d-3a24-a8ac-70515deff2fb | -10.57593 | -51.09071 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README110.md)

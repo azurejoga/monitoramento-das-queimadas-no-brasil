@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3b54d247-e9db-369b-b74a-1fdfb91cb382 | -8.27828 | -50.86892 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 58e79c47-a291-3b7d-99ec-df179ac84cc7 | -8.183 | -50.48502 | 2024-10-03 04:27:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 3b2d623d-5076-3ece-82f1-5fa1d796a312 | -8.18226 | -50.48951 | 2024-10-03 04:27:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 83efb09d-5a4c-35d0-ae5b-0d7100def509 | -8.17927 | -50.48441 | 2024-10-03 04:27:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| eec3e214-afd9-317c-836e-66f0378d2a8f | -8.17853 | -50.48891 | 2024-10-03 04:27:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| e6e6263c-5e28-340a-8fac-4ecaadb0bdbc | -8.09164 | -51.12943 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| ebddf327-3781-38e5-b79d-fca5ef4dad2d | -8.08221 | -51.13823 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| f548a8fc-f42c-39da-a583-988b5f5ee0db | -8.07833 | -51.13755 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 4539980c-5583-33d2-b919-9f6e142ef7f8 | -8.0777 | -51.11749 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 383b85fb-081b-3641-921a-74d8de328df0 | -8.07751 | -51.1425 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 341809ed-95ce-31cc-ab36-cc09567dcf8b | -8.07667 | -51.14751 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| eafafed1-68b6-3b4f-95cd-778ad828da19 | -8.07382 | -51.11689 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dba3c7c8-c7ec-38ac-8e66-39074266e295 | -8.0689 | -51.14626 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 71baa83a-c4ce-30dd-91f9-732e039c6414 | -8.0681 | -51.15107 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 876eb957-759c-3cdf-af1d-d08d9f63977a | -8.06728 | -51.15596 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 47785ea9-66c4-3da4-a098-fb7f8f13edfd | -8.06642 | -51.16109 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 89682651-70ac-3410-9fa4-75a2fe96f140 | -8.05953 | -51.15456 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 72f3e661-87d8-3cb2-9a2b-ae29adf0f9a1 | -9.32668 | -51.13288 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 50f2789e-5c4f-3964-8a54-6f656f4b8f3f | -9.2983 | -51.07217 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 61009023-9077-3c41-abea-004e147d5a8a | -9.29607 | -51.06215 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 246e4c98-c41e-397f-9c1f-a14fbde45aa0 | -9.29228 | -51.06155 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 24b2dd8b-35ad-3b1b-9dfd-a1cd06d98a46 | -9.29071 | -51.0709 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 5968b753-4170-3dd0-a923-5b00c69744c1 | -9.11422 | -51.52176 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 52a5243c-09c3-3131-b52c-c67cab448921 | -9.11031 | -51.52111 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| d99e31c2-a689-3910-a9f4-34bd0f434b82 | -9.10948 | -51.52603 | 2024-10-03 04:27:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| a46d244d-7556-36f9-b872-5727e98e9f33 | -9.7458 | -50.65955 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 0ec5df46-aad0-35d4-b753-572b78516cb3 | -9.73325 | -50.6665 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6f9aa6d9-37e2-3999-be2e-e5672333360e | -9.73249 | -50.67096 | 2024-10-03 04:27:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| f9362052-ba4b-38a6-882e-f7ca0dac1c9f | -10.63404 | -51.11429 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 9ec07ed1-123e-3097-a606-43dcc4258363 | -10.63108 | -51.10912 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 9a3868d8-cc3f-3c20-9cf0-640cb2455555 | -10.54653 | -50.95393 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| fabf3156-56bf-349f-a0b8-b50f7c0abcda | -10.54509 | -50.95269 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 8c43bf1d-d4b0-343c-b079-868b97eda457 | -10.53087 | -51.07985 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 6f5bc947-e01c-366b-8ee5-56643b3a6910 | -10.52715 | -51.07916 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| aea48c54-73a9-398e-9340-4e9454c96ab9 | -10.52565 | -51.07993 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 4f35b026-702e-3561-9188-7136cb8bf445 | -10.52343 | -51.07847 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| d5f04efe-26e2-357f-b53a-546fd7f47ef0 | -10.52267 | -51.07481 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| eb9ecf37-91e7-3378-b1bf-45e62ebde4ad | -10.5197 | -51.07781 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 839ecb15-d8f8-3b6b-8ce7-d645c371fe29 | -10.5182 | -51.07861 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 1ca807ae-7ac4-33f4-8e37-9948f386674a | -10.51597 | -51.07719 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 3df1d326-0a92-3884-82c6-e269458989bf | -10.51521 | -51.0816 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 93d1fe09-86cf-3bb3-8b2b-7d86ac4b7674 | -10.51446 | -51.07798 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 0ab62fca-502d-3177-ad9b-6dbb39e0aa5a | -10.51372 | -51.08241 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| aa3f6db9-d6cf-3b58-93bf-2bcef7961d79 | -10.51298 | -51.08687 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| af8f7ed6-2395-341a-a37b-a60167ca9b23 | -10.50998 | -51.08185 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| dcd5666c-908d-39d2-b476-a9c2059a2f18 | -10.50923 | -51.08636 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 81f83f92-7d5e-3d86-9e0b-9168239fbafc | -10.50846 | -51.09096 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 1442384a-2449-3810-86b8-ed0a35d2629c | -10.50769 | -51.09557 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4572d95d-5879-3bcc-bd56-3b9f1309920b | -10.50542 | -51.10921 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b94ab4de-a602-3b45-91c6-faa396077347 | -10.50467 | -51.11365 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 04bb3a1e-955d-345c-81a7-862e297225dc | -10.50091 | -51.11316 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 4fec88c0-2638-3895-8c99-4490fc11d5c4 | -10.50018 | -51.11754 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 62ba0beb-b4e9-3cc2-b64b-b91f00a4545a | -10.4964 | -51.11714 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1cbd788c-5815-37d2-a46b-d3df0c4bfe40 | -10.49563 | -51.12171 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 67b02b54-a328-3b54-b81e-3a2df0d46d3a | -10.49188 | -51.12116 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| cfeca0f8-6b63-3eb6-992d-6f97eaa43015 | -10.44912 | -50.76994 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| c05c9df6-76e5-33c0-99d3-cd72980dd297 | -10.44547 | -50.81472 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| e1fdfda6-0068-3e78-970e-03303d46d7a6 | -10.43884 | -50.80902 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 7d1e32d3-3db3-3275-8cd2-264efb14f958 | -10.43811 | -50.81342 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| d4892e17-5572-3b91-8447-de6ea82f4b23 | -10.43738 | -50.81783 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| ecfea055-c56f-396f-8aaf-12aadf2d21c2 | -10.43517 | -50.80836 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| d6a91269-62ae-35c8-bbe7-05c9791cafc3 | -10.43443 | -50.81279 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| b1d7d0b0-12b7-3589-b2df-ce2da9ecc3e3 | -10.43368 | -50.79462 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| a8129d9b-0926-3770-9845-44044eb0f2b2 | -10.43295 | -50.79895 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| fb8ff43b-c290-3c67-9dac-598ad0cd2906 | -10.43224 | -50.80323 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| f72c547b-136e-3d74-bf77-346fd8436232 | -10.4315 | -50.80767 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 924f52ac-995b-3208-90df-b8dbb1da2dc3 | -10.43075 | -50.81216 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 29931f43-acbb-30b8-9254-7c4f8c7a3c71 | -10.42857 | -50.80255 | 2024-10-03 04:27:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 89688389-6d45-331b-a264-8846f2e17b52 | -12.90248 | -51.3278 | 2024-10-03 04:27:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 9044714c-74e1-3dba-8b06-64638aaa4cec | -12.90172 | -51.33221 | 2024-10-03 04:27:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| b6ed332d-b23c-3e50-8eb2-921375ef1750 | -12.89149 | -51.32588 | 2024-10-03 04:27:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| ac410432-19fa-33b4-87b4-f1d80f76fadc | -12.7228 | -51.9828 | 2024-10-03 04:27:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 053f1254-a56d-3439-a8a5-f1ee70732def | -13.25875 | -51.22466 | 2024-10-03 04:27:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 35.4 |
-| 85470f04-0449-37c1-bf28-3336b4c1e8ab | -13.25801 | -51.22898 | 2024-10-03 04:27:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c4b41518-882f-3020-8e3e-b6ab3bea81e4 | -13.25727 | -51.2333 | 2024-10-03 04:27:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 88c210bd-47a5-348c-8232-ee5ee9ffa1e2 | -13.25653 | -51.23763 | 2024-10-03 04:27:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 94a0c1b3-e4d8-3b6f-a766-c0438d3ef765 | -13.18958 | -51.20974 | 2024-10-03 04:27:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 005ab037-9fff-3de1-8bd9-f96605688e84 | -13.13121 | -51.42002 | 2024-10-03 04:27:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 65db65b1-4434-3bf1-a478-00cd6a124a27 | -13.80713 | -52.43772 | 2024-10-03 04:27:00 | NOAA-21 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 77b3a865-6dbf-371d-b792-989811ab0338 | -9.46459 | -52.09837 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 920b8f5b-65ce-3836-be77-7c3716191135 | -9.46117 | -52.09404 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 96054400-3e54-301f-bd6c-5b80470aaca0 | -9.46056 | -52.09768 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 59413e5b-6ebc-3a33-a631-a67c143fa6a9 | -9.01931 | -52.10917 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 91d0d4df-1b7e-3848-899e-c3cc20d8a8f1 | -9.01871 | -52.11273 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| e0b241a4-6365-3735-b254-c788ef228bf7 | -8.96858 | -52.81449 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| aa733f7e-bf37-3eaa-8c3f-58892384746d | -8.96788 | -52.81855 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| a7340798-1aa8-34dc-bfa8-f75333407baf | -8.96221 | -52.80071 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5bd26939-5bd2-3ba1-aeff-44b6864d1817 | -8.9615 | -52.80476 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 94fec098-1931-38f6-ad0f-a9a74ebc57e9 | -8.95797 | -52.79987 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 375eb248-1105-3d34-9f7a-96f2b5704f23 | -8.9487 | -52.80274 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 19bad8d5-3ba6-3ee4-ac41-937bdf8036eb | -8.93602 | -52.77518 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| dfcf5ada-cf74-3911-aac6-509e416309f9 | -8.88269 | -53.00139 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| ba4a2f08-7d77-3a28-8f99-3c91f4d5b074 | -8.88197 | -53.00543 | 2024-10-03 04:27:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 67d2b774-afd1-3fba-b82a-5bd1c741af53 | -10.91008 | -52.4097 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 6bfa9d4d-ff8e-3481-ae35-832ad2bc7f5c | -10.90947 | -52.41324 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 50a0b55a-29f2-30c3-9ba4-2858c5507948 | -10.90886 | -52.41679 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 7377d151-973a-3a11-a68e-219373081c83 | -10.90825 | -52.42034 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| e8312019-63ca-35cf-b0c7-c045483046bb | -10.90762 | -52.42393 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 0fc6822e-ab71-396e-864a-988b0422bbc4 | -10.907 | -52.42756 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| ef36d74d-ead3-3ea3-8691-86be7b940e10 | -10.90668 | -52.40543 | 2024-10-03 04:27:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1cf2fd16-3717-3f42-b157-6376325a69f9 | -4.82082 | -44.3529 | 2024-10-04 04:32:00 | NPP-375D | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 287c99b2-87da-3321-9122-53ea7a04975e | -4.81721 | -44.35236 | 2024-10-04 04:32:00 | NPP-375D | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 1a781554-38b0-38bf-a1ed-35169152036d | -6.3471 | -43.77913 | 2024-10-04 04:32:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| becd896a-1803-3982-a988-3c3dc84b7db9 | -6.3263 | -43.74099 | 2024-10-04 04:32:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0b63be12-e798-3a95-96ab-a2f6258dabc9 | -6.32595 | -43.73825 | 2024-10-04 04:32:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 2c4e8d29-41d3-3483-9885-de9765c170c1 | -6.14489 | -43.81894 | 2024-10-04 04:32:00 | NPP-375D | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 1cddae94-5092-332f-b959-b22aa7b7cfd1 | -6.14421 | -43.82351 | 2024-10-04 04:32:00 | NPP-375D | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 2816b834-ecff-3987-8515-876f7e98b064 | -6.14112 | -43.81837 | 2024-10-04 04:32:00 | NPP-375D | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e1adec58-42e5-3f73-9e10-178d09b4cecc | -5.89417 | -43.87336 | 2024-10-04 04:32:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 9f1e026f-5a1a-3473-b16f-c1207358bcb2 | -5.89351 | -43.87786 | 2024-10-04 04:32:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 99ae547b-4887-3e37-a7b0-4edbe5fb421a | -5.89043 | -43.87275 | 2024-10-04 04:32:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| efd1ca9f-45cf-3f5a-865a-5382cfa98512 | -5.88976 | -43.87726 | 2024-10-04 04:32:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| bc39a91d-ad5f-3f31-913a-7484f7b1badd | -5.8416 | -43.88605 | 2024-10-04 04:32:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 3d7bfa76-e529-3506-a0b9-ef10d2e2d01a | -5.83078 | -43.95714 | 2024-10-04 04:32:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 269f7d4e-9da7-3fc7-be47-118fa4a5138c | -6.11282 | -44.05809 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c58899fc-37ca-3dfb-9233-c4a41d87c51b | -5.97047 | -44.00626 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 6fe25046-3a71-3039-b922-996681b4f224 | -5.96741 | -44.00121 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 21199b60-dbf0-318f-b66c-5dbdf309bb62 | -5.55981 | -43.7364 | 2024-10-04 04:32:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 20928080-62bd-3380-b13f-8bba7f697ea5 | -6.40034 | -44.74435 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| cbd2ac7f-cba8-3db9-89a9-7ab84aafee3a | -6.3122 | -44.34176 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6fa8b253-4ed1-3528-9867-2f866c778a79 | -6.25981 | -44.80521 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| a769f236-4f5a-3e6e-8d6d-7a9af11fd818 | -6.25296 | -44.14477 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 134929fb-6c9b-309f-986e-370c85eb4f5a | -6.25229 | -44.14919 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 010791ef-c4bf-3fed-a08c-76c0dd9c66b7 | -6.24993 | -44.13979 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| ac62ed4e-3924-311e-bb73-e30d49a79267 | -6.24925 | -44.14423 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 820304dc-436e-3525-b204-ef84780f236e | -6.24858 | -44.14861 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 66ef525a-3cf8-3547-84ad-fa71571c8102 | -6.24792 | -44.15294 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| b88a98e0-6871-3831-bba0-a44af443c577 | -6.24622 | -44.13924 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 406b4fba-7793-322f-bbca-d4443fdc15e0 | -6.24554 | -44.14368 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 5e282c74-e674-3543-b4e0-b23765bd702e | -6.24252 | -44.13861 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d0491b8b-5ffc-3704-8c65-1174e22f2d25 | -6.2078 | -44.14232 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 7d809cfc-fbca-3d20-b8bc-38c87d6f49fa | -6.20682 | -44.32338 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 93b36291-e739-3f11-a0d9-7ab4980c54b8 | -6.20543 | -44.13285 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c8e0ad04-8695-390b-adb4-2d1e9670b64c | -6.20411 | -44.14168 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e9ca7c45-2185-313a-9454-37498a8fe1bc | -6.20316 | -44.32274 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| f109ce95-fbe8-3314-bc97-1184dc16e847 | -6.20173 | -44.13223 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7547fe8d-77d7-3751-9042-61d53b95459f | -6.20108 | -44.13659 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 1f69ceb4-12e7-31ba-b826-17761f200458 | -6.19672 | -44.14033 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| d8897998-be38-3950-9c8b-7021e560f7a5 | -6.18691 | -44.12981 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c2534462-310a-3e5e-a8f0-66d72ba10e49 | -6.18627 | -44.13412 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 63c42977-6939-3e12-90ad-be622e2baa91 | -6.18319 | -44.12933 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| b7f98709-e8eb-3ebd-a2f0-5edfe42a8b92 | -6.18012 | -44.12449 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| de29193d-bc44-303c-a1cf-48c333a6a1f5 | -6.17947 | -44.12885 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3f548669-d9ee-315a-b3ae-a9b3f35c6542 | -6.17818 | -44.1375 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 8affdf90-5918-38ee-b25d-99b7611c1901 | -6.17755 | -44.14172 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 34bc3fe3-3d3e-3f18-bda2-73db1688c334 | -6.17447 | -44.13695 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f862d300-408d-34e1-87d9-4d79392bee58 | -6.17384 | -44.14116 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 241734a7-cfb1-3d42-8b57-88a6219a2ed0 | -6.1695 | -44.14485 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d3fa49d8-3d8d-330e-b6aa-ea8585e7312f | -6.16641 | -44.14016 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| bc6246e8-9d17-377d-b11b-8a11478ac88f | -6.15525 | -44.1387 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| dc5f4147-436d-3086-ba7a-ed235db2c65c | -6.15347 | -44.14063 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| d9daaa6e-4fc2-33fe-81e8-5b24808f9915 | -6.15091 | -44.14243 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| b5b5988c-34ba-33eb-913d-607c7e289765 | -6.15028 | -44.14668 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d76a1065-1c9a-3c17-b916-671b8b6552ad | -6.1491 | -44.14441 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 9e3cf5e6-346f-3725-9f66-46ffac8dd004 | -6.14845 | -44.14861 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0a185314-5b56-3336-919e-d44f051fa585 | -6.14656 | -44.14624 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 17219774-9a02-30a4-a46d-63d366c3ce12 | -6.14538 | -44.14391 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 32f5b850-8b6e-31ba-bb94-2204cc2c9f33 | -6.14474 | -44.14812 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 3779ea37-1618-3dbc-9795-0bd98d4c617d | -6.14233 | -44.13906 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| a1b7d1cd-e0e2-349c-b252-40a08e994ce0 | -6.14168 | -44.14333 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d5699b4d-090f-3212-991a-780aca1a09a0 | -6.14103 | -44.14756 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d3ac3617-0538-3b0e-ab93-b43a786d9904 | -6.13862 | -44.1385 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 83c5b434-a75b-3ad3-8144-8f5fb675a302 | -6.13797 | -44.14275 | 2024-10-04 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 78b50b1e-fcfb-37fa-8f46-da3304e8646e | -6.07702 | -44.71576 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| e6a913ee-912f-3f72-8f38-9df0d0ad8ea8 | -6.06676 | -44.63176 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 7dcb9c14-c154-3e70-95e9-7e5c532f7f5b | -6.06613 | -44.63586 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.7 |
+| b356849f-486e-37d8-b5a4-f65e91afa532 | -6.06315 | -44.63123 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| c6e23765-49a5-34d2-bec9-b0da77c79b42 | -6.06252 | -44.63532 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.7 |
+| c88fd008-72be-3743-a8b7-9150665bae4d | -6.00693 | -44.56314 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7078c2cc-7862-38c4-aa2b-0eb93442a75d | -5.82945 | -44.13029 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 4c5096f4-1e4e-34ce-a74c-c30c3133f3aa | -5.82751 | -44.12744 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 73f5bb43-de0e-3fbf-a7d0-0bf9b7415710 | -5.82684 | -44.13179 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 94d88a2f-c446-3438-91f3-68c79928514a | -5.82575 | -44.12975 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 471844a7-6af9-33fc-b31e-acfb60b6db18 | -5.82511 | -44.13411 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| c08174b5-f59f-3a47-83e7-e8fb00b2e23d | -5.82381 | -44.12688 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 02d8aa0f-b206-364b-afd1-541275627549 | -5.82314 | -44.13124 | 2024-10-04 04:32:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 15a55a21-cb6c-3d8f-96d0-de8bb8cc1b86 | -5.82079 | -44.12194 | 2024-10-04 04:32:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| a70df9f3-5328-36c8-a20b-fbfca1b3c8cb | -5.82012 | -44.12632 | 2024-10-04 04:32:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| 153dbc30-624e-3d42-9372-9e62dabe4863 | -5.42637 | -44.83054 | 2024-10-04 04:32:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| d51d5ae0-58d5-34f8-9f89-7bfacd31d291 | -5.42577 | -44.8345 | 2024-10-04 04:32:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 085034be-66c5-3140-acec-27098d3f018a | -5.42282 | -44.82999 | 2024-10-04 04:32:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| d21fb3d4-56f1-3163-9f4c-41a463b5ace7 | -5.42222 | -44.83396 | 2024-10-04 04:32:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| f5a72680-f5f3-3ded-8947-ff2804cdd86b | -5.31065 | -44.85881 | 2024-10-04 04:32:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| a03efa5d-6529-37e3-bc8f-3c0d576b7f15 | -7.86788 | -44.80889 | 2024-10-04 04:32:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| c8245685-050c-34eb-99b8-1055a9b58ee8 | -7.86719 | -44.96027 | 2024-10-04 04:32:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 44b6129a-5594-3067-b05a-624af94e1d17 | -7.86423 | -44.80835 | 2024-10-04 04:32:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 010e2da0-a7cc-38fe-ac75-976e12176055 | -7.86375 | -44.9632 | 2024-10-04 04:32:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 6e523347-9c2f-36bd-9816-24a8148f4bfe | -7.86292 | -44.96398 | 2024-10-04 04:32:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 22b4dafe-94b9-3631-b17c-b31c925db95b | -7.85256 | -45.33499 | 2024-10-04 04:32:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 517aa4e7-785a-385f-a1d6-0a2bd1f31e02 | -7.85074 | -45.34707 | 2024-10-04 04:32:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| f8f42722-5fcf-364f-a79d-3fa0bc950b26 | -7.85014 | -45.35109 | 2024-10-04 04:32:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 4816a48f-9925-36bc-b686-2ae54c3fdd39 | -7.84954 | -45.35511 | 2024-10-04 04:32:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| f0dfce50-4b60-372e-8b7d-754c6f9c26c5 | -7.84598 | -45.35457 | 2024-10-04 04:32:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 0671a3f4-53ed-3bb4-9a97-bcaab9fd963d | -7.74673 | -44.05101 | 2024-10-04 04:32:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 6974f486-d15d-3ee4-9105-9f3bc36dda12 | -7.66404 | -45.22571 | 2024-10-04 04:32:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| e3be6138-c410-3453-a974-316cef8314fa | -6.61251 | -45.03698 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 339b8022-1831-3327-b604-7a465ffd4825 | -6.60895 | -45.03643 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| b72260a6-8e4f-3b17-aac1-56cd2d5ccf68 | -6.60061 | -45.04344 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 403a8dce-6066-3292-93e0-edfa84848362 | -6.59706 | -45.04287 | 2024-10-04 04:32:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 14bf1c6f-b21a-3901-9705-0255c8704b37 | -6.72331 | -44.55098 | 2024-10-04 04:32:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
 
 
 [Clique aqui para ver as próximas entradas](README97.md)

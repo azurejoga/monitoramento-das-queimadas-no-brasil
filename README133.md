@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 26729686-fcc4-3a4f-92d5-a5d443b76a45 | -9.92736 | -59.90298 | 2024-10-03 04:51:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 16add35a-c98d-374a-a1d3-d5d8d84d5780 | -9.90777 | -60.09062 | 2024-10-03 04:51:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 39bc68c6-094d-351d-8ea9-949157f880ea | -9.90409 | -60.08516 | 2024-10-03 04:51:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| ca09a7ab-eee8-3712-9fd1-000ca107633b | -9.90326 | -60.08979 | 2024-10-03 04:51:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2d723e25-a072-3e4b-96d6-430a9bf60640 | -9.39181 | -61.04891 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| cbeb718f-aa2b-35be-90b4-cc397b0b3fb2 | -9.39083 | -61.05428 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 5610326c-6ca5-3343-b65a-d93856df72cb | -9.38597 | -61.05338 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 23128993-3cd9-3fe6-a2ff-6aeac0cc2f64 | -10.38388 | -61.21057 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e1d6bd80-38d4-3652-83f7-cc8bd1459603 | -10.38293 | -61.21587 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d458be17-5612-3d5a-be79-1e23902cdc08 | -10.37908 | -61.20955 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 4f12c64c-1ed3-3465-ad2a-7460d5c0be10 | -10.37812 | -61.21487 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| cee1bf3b-4b38-325e-bc80-6d89de005497 | -12.08989 | -61.19397 | 2024-10-03 04:51:00 | NPP-375D | PARECIS | RONDÔNIA | Brasil | 1101450 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 07678a6e-6359-3c01-a490-534ce78b1215 | -12.08522 | -61.19305 | 2024-10-03 04:51:00 | NPP-375D | PARECIS | RONDÔNIA | Brasil | 1101450 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5ec74375-112d-3dbe-991a-e46a1bc63bf9 | -12.05425 | -61.03534 | 2024-10-03 04:51:00 | NPP-375D | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 1c27316f-efcd-371d-baf1-954c2487cd4e | -10.93253 | -60.94407 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 0d0e4350-b78b-338e-94c8-ee865bad1ba5 | -10.92784 | -60.94317 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e7c8a65c-a541-33b1-8ffd-bed29bf980cd | -10.92315 | -60.94229 | 2024-10-03 04:51:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 0f640f76-8a7b-3c1d-849f-ab243af7e4ad | -13.42192 | -61.92723 | 2024-10-03 04:51:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 05e80916-7c73-3032-a48f-484f96fc9a65 | -13.4207 | -61.92857 | 2024-10-03 04:51:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 1983da0a-3d42-3198-9782-4049b456f88f | -13.41713 | -61.92625 | 2024-10-03 04:51:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fb7472fc-e8ee-3490-824c-617e7b6fdd91 | -13.41614 | -61.93161 | 2024-10-03 04:51:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| de333101-aadb-33af-ae6f-37a4aba50446 | -13.41591 | -61.9276 | 2024-10-03 04:51:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 4574799c-13fd-3747-a20e-bfc445bcb3af | -13.41234 | -61.92527 | 2024-10-03 04:51:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b7b69d58-4ce5-3bc1-8723-fe5daa56b857 | -13.29524 | -60.78227 | 2024-10-03 04:51:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 32a00c26-cdbf-316b-bd5d-9a5dee35e158 | -12.6979 | -60.811 | 2024-10-03 04:51:00 | NPP-375D | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 394520d4-f28d-3cf4-b75c-7d9fe317e0f4 | -12.69339 | -60.81013 | 2024-10-03 04:51:00 | NPP-375D | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9ae1c93e-9ddd-3780-9973-9e0ee144b809 | -12.69254 | -60.81475 | 2024-10-03 04:51:00 | NPP-375D | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 5afd82b9-eae6-3d1b-8acd-088a59423a61 | -7.9028 | -61.47573 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bc518454-080b-3114-81aa-e37e5988ef52 | -7.90226 | -61.47874 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c5b865dd-c622-3cb7-9478-8789645a224d | -7.75654 | -61.12219 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e9a0994e-e6b0-3dbd-b998-d11564960800 | -7.75548 | -61.12808 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 177cbb26-552f-3a6e-a1ef-18962acce812 | -7.75123 | -61.1256 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b8c6c1dc-4354-30b3-9526-4ee74e5d67b5 | -7.58882 | -61.2336 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8762b38a-6e77-384b-8032-a14e9400e764 | -7.93063 | -61.55708 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3feee191-931f-354e-9ae7-e48a417b329b | -7.92548 | -61.55618 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3ba76999-3c99-300a-bf5a-e8a49fbc5858 | -9.09399 | -61.13152 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 01d2e16a-98a0-3074-8111-d0218f5e93bc | -9.09299 | -61.1371 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| b671e006-0797-37ff-826b-71b8f30fd3c0 | -9.08907 | -61.13066 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6fb257b2-e328-3fc8-b021-dae67ada7000 | -9.08807 | -61.13624 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 346da204-2c04-3800-ab46-7db85808f70b | -9.08315 | -61.13536 | 2024-10-03 04:51:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 14c2d8bd-c514-3f96-956a-4c79af14b86f | -7.94131 | -61.79987 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| a079bea8-6311-3964-ba1b-4f39cf90fd78 | -7.94048 | -61.79919 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| f9ac0cd0-affa-3fd7-bc8d-718b5e4db22c | -7.93608 | -61.79884 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3c156a6e-be7b-31f9-8d51-4144707fe2f3 | -7.93525 | -61.79816 | 2024-10-03 04:51:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 2e35b9f4-2b0c-39a3-90ca-158d2780c01f | -9.16615 | -61.66612 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 2d5c0de8-9dea-393b-aca4-dc63c4991802 | -9.1656 | -61.66912 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 35c69845-9f8d-3d41-9441-a94feea7b75d | -9.16504 | -61.67211 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 6a568320-8dae-3599-b68f-2ac26a046204 | -9.1645 | -61.67509 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| eccbf8c0-1892-39aa-8556-dd381e2048c1 | -9.16394 | -61.67808 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| 059fe7fd-708c-30fd-8f78-0b0e2c77a2a6 | -9.16339 | -61.68108 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| ab9980d4-4169-32ba-988f-6ac7638dd642 | -9.01792 | -62.58698 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 4218b8c8-3b81-39da-b5c2-f2a8f4ed422c | -9.01252 | -62.58587 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 6b90ac8c-273a-3ad5-bf46-574899b8f2d0 | -8.89366 | -62.33378 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 39765a41-b947-3ca7-a81a-25b7ebef8df9 | -8.88832 | -62.33281 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 03920b5b-524f-3a67-a0c0-073b0df9bd5d | -8.88771 | -62.33617 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 12fa6a59-b1e0-31cb-b3a5-84de2f5ef763 | -8.8871 | -62.33949 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| aa0c9908-20b5-31c7-90e1-22d4254d82cd | -8.88383 | -61.84882 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7881dbf6-b063-358b-abf1-6db5086c7c99 | -8.88327 | -61.85195 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8ba99c4e-8aac-350d-9c78-d8518fc859c6 | -8.88237 | -62.33514 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f830684b-22e2-3ee0-aba3-c5c060f82829 | -8.88177 | -62.33846 | 2024-10-03 04:51:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 06c1a07c-8d90-3dfe-a65e-3b7a4a24252d | -8.87237 | -61.85312 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c0d41fac-52b8-3b21-9544-572ad3e183b9 | -8.86776 | -61.84901 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 7a4d419f-2fd0-3cd5-82ed-799a171f140d | -8.58862 | -62.42002 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7f9691eb-4f72-301b-adeb-024f9a33af7c | -8.58324 | -62.41891 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c856bb43-8f18-378e-a28f-f4015a59677b | -8.56136 | -62.48619 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 349528b9-d686-3d34-a2c6-e2ae98677e97 | -8.56071 | -62.48967 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| b311dc2c-3bc4-3278-877a-dea5d1dd36a6 | -8.56065 | -62.4827 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 492380f7-833b-3f5b-8d73-989a9252eb56 | -8.56003 | -62.48618 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9f2fbc2a-3050-33cb-90f9-58d92198c554 | -8.5594 | -62.48967 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| fbf34a07-7520-3239-b336-5416659bbd1f | -8.55724 | -62.47823 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 732b86f6-2888-3bed-969a-e48b82c03483 | -8.55659 | -62.4817 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d595ef52-99c4-3ee4-9314-75ab4f78516f | -8.55594 | -62.48516 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 172931d5-b1b0-3c8e-a7fa-4cbe1992ac33 | -8.55586 | -62.4782 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 514378bb-ecea-38d4-9b62-31d45848a9f8 | -8.55461 | -62.48515 | 2024-10-03 04:51:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5d25b7c8-0149-3b6f-b0c5-5b9e1c5bc3e8 | -8.17717 | -61.3804 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| df372533-626a-3a0f-a001-578649478288 | -8.17475 | -61.36464 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c85852d5-034c-3ecb-84e8-9c82aba3d504 | -8.17422 | -61.3676 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 44216842-93cc-316a-a0ae-b34efd076c90 | -8.17369 | -61.37057 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fc768d32-c77c-3ca9-8f57-a92e6a911e17 | -8.17315 | -61.37355 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c6896107-2538-304b-b732-efb48750f4f0 | -8.17262 | -61.37654 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 90c24a19-ac16-3448-b985-054a1016999a | -8.17209 | -61.37951 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 31808982-2095-3fe2-bf68-a80848b74966 | -8.14297 | -61.39567 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f7dff2ee-7494-362f-9056-50ac416d6792 | -8.13789 | -61.39475 | 2024-10-03 04:51:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9d2f66c5-51ac-33c8-92a7-5dd3767999a4 | -9.61111 | -62.22875 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 0132cdbb-d0ef-371d-be97-f228eaa0a4af | -9.557 | -62.38406 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d4ec523a-5ed3-3286-b54f-5698305ffa48 | -9.5564 | -62.38737 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b703b8d6-2e17-371f-be1c-b52d4d1172a2 | -9.55498 | -62.38317 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 1ea6ea89-a11a-3ebf-8e97-e62ff15da9b1 | -9.55435 | -62.38651 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e47eb53d-d716-3e92-a78a-5c1c4f0ef93d | -9.50963 | -62.05201 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 61113786-5c80-3301-b417-c6465bec60b5 | -9.49511 | -62.39281 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 5f67d3e6-6d3e-365c-a37c-47c3a573c7d5 | -9.49449 | -62.39618 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2deee82f-e236-3c5c-a02e-c7c38a2563dc | -9.49224 | -62.37864 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| adffa03b-b1a4-3716-975d-99076e44806c | -9.49164 | -62.38192 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| eb04f6db-73e3-32c7-a139-3b4e81efeeb5 | -9.49103 | -62.3852 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| d66559ce-b7ee-3eed-8f70-40acfd72539d | -9.48919 | -62.39518 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bced7bce-fd28-31df-a928-3d64d9588827 | -9.48696 | -62.37761 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d54ea792-d5ea-3f08-b9d4-967da5eb82e4 | -9.48634 | -62.3809 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 86e3221a-df31-3b19-b7b1-95292a1c59bd | -9.48449 | -62.3909 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 7230cc77-3254-304d-9add-73864bcdc380 | -9.48389 | -62.39416 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 499f0b98-ef4f-3149-9f2c-8247f1b33993 | -9.48327 | -62.39746 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 4c2828a7-70d1-37c7-88a8-0a3cb41b535b | -20.11162 | -43.51788 | 2024-10-04 04:36:00 | NPP-375D | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
+| 8cccd1aa-3cea-388d-97c8-4f56b1a592e7 | -20.111 | -43.52332 | 2024-10-04 04:36:00 | NPP-375D | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 7ddedc09-2116-3949-8388-001bf4c84794 | -20.11036 | -43.52901 | 2024-10-04 04:36:00 | NPP-375D | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| e0ab0216-8ba2-336f-a7c5-823b51877ff9 | -20.10631 | -43.52294 | 2024-10-04 04:36:00 | NPP-375D | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 54fb12b5-148a-3f12-84fe-e3e020710d1f | -20.06499 | -43.6088 | 2024-10-04 04:36:00 | NPP-375D | SANTA BÁRBARA | MINAS GERAIS | Brasil | 3157203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 3b69fc95-fad5-3791-abed-27cc91647f91 | -20.03416 | -44.14838 | 2024-10-04 04:36:00 | NPP-375D | SARZEDO | MINAS GERAIS | Brasil | 3165537 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| 4a3eb41f-b0c6-3d99-af72-93e1fa76466e | -20.01136 | -44.49132 | 2024-10-04 04:36:00 | NPP-375D | MATEUS LEME | MINAS GERAIS | Brasil | 3140704 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 3ba2991a-b10f-35ac-b1ac-43ddf813cfcb | -20.01081 | -44.49593 | 2024-10-04 04:36:00 | NPP-375D | MATEUS LEME | MINAS GERAIS | Brasil | 3140704 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| 40ffb9a1-0ce2-3ce3-bbb5-9b7254c13302 | -20.00698 | -44.49084 | 2024-10-04 04:36:00 | NPP-375D | MATEUS LEME | MINAS GERAIS | Brasil | 3140704 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 48231081-c596-3bfa-82c5-2564d1bb4c37 | -20.00644 | -44.49536 | 2024-10-04 04:36:00 | NPP-375D | MATEUS LEME | MINAS GERAIS | Brasil | 3140704 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| a3467a3f-bd29-343d-8ba5-3579cd8116a7 | -19.98328 | -43.54139 | 2024-10-04 04:36:00 | NPP-375D | BARÃO DE COCAIS | MINAS GERAIS | Brasil | 3105400 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| f35e04ed-6f5a-380c-ad4a-05b79895e3c7 | -19.97863 | -43.54075 | 2024-10-04 04:36:00 | NPP-375D | BARÃO DE COCAIS | MINAS GERAIS | Brasil | 3105400 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 06f229a4-128d-3c1e-920a-a88c39b43dff | -19.89166 | -44.52246 | 2024-10-04 04:36:00 | NPP-375D | PARÁ DE MINAS | MINAS GERAIS | Brasil | 3147105 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| d727e58b-780f-35bb-909a-52201acd63d7 | -19.89115 | -44.52676 | 2024-10-04 04:36:00 | NPP-375D | PARÁ DE MINAS | MINAS GERAIS | Brasil | 3147105 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 34ae9436-7392-3d14-8e6f-280f1d4f7c65 | -19.88676 | -44.5264 | 2024-10-04 04:36:00 | NPP-375D | PARÁ DE MINAS | MINAS GERAIS | Brasil | 3147105 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 1f59b464-d4af-3cb9-b42a-4266561d5a82 | -19.65318 | -44.90203 | 2024-10-04 04:36:00 | NPP-375D | PITANGUI | MINAS GERAIS | Brasil | 3151404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 4d9c0915-3b56-3ab8-b069-6709c99c09b6 | -21.63134 | -44.47498 | 2024-10-04 04:36:00 | NPP-375D | SÃO VICENTE DE MINAS | MINAS GERAIS | Brasil | 3165305 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| fcf839ec-2714-3b35-8643-94b2891af8a1 | -21.31798 | -44.8347 | 2024-10-04 04:36:00 | NPP-375D | ITUMIRIM | MINAS GERAIS | Brasil | 3134301 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| dbd67e4a-1ac1-399d-9ede-4059a3a65596 | -21.31413 | -44.82976 | 2024-10-04 04:36:00 | NPP-375D | ITUMIRIM | MINAS GERAIS | Brasil | 3134301 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| d317e049-b288-3b99-bf3b-88b7eaf3d679 | -21.31362 | -44.83415 | 2024-10-04 04:36:00 | NPP-375D | ITUMIRIM | MINAS GERAIS | Brasil | 3134301 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 9aa719b9-e1d5-3d4d-b332-da871f37bd88 | -21.19546 | -44.93567 | 2024-10-04 04:36:00 | NPP-375D | IJACI | MINAS GERAIS | Brasil | 3130408 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| a60ac5f6-5a7c-35e7-a262-324cb2338752 | -20.76534 | -46.29516 | 2024-10-04 04:36:00 | NPP-375D | SÃO JOSÉ DA BARRA | MINAS GERAIS | Brasil | 3162948 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e915017e-9759-36c7-b7e7-ec81957f20a7 | -20.76464 | -46.30052 | 2024-10-04 04:36:00 | NPP-375D | SÃO JOSÉ DA BARRA | MINAS GERAIS | Brasil | 3162948 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2b43b04b-4fad-316f-b354-b294feda56bf | -20.72711 | -46.61764 | 2024-10-04 04:36:00 | NPP-375D | PASSOS | MINAS GERAIS | Brasil | 3147907 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f3de9e8e-61aa-32bc-99f6-e6df15fa48cf | -20.51101 | -46.38646 | 2024-10-04 04:36:00 | NPP-375D | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d6925642-44be-3c34-8ba9-0ed9ac577b86 | -20.51023 | -46.29938 | 2024-10-04 04:36:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 608b4866-1856-3889-baa8-fcadbc827c9d | -20.50773 | -46.38099 | 2024-10-04 04:36:00 | NPP-375D | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| a8d80250-4e54-3d62-87b9-aa42a1f8e1e0 | -20.50709 | -46.38603 | 2024-10-04 04:36:00 | NPP-375D | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 3a6da12f-1e77-3c92-bf76-3caf5fab0781 | -20.36234 | -46.33857 | 2024-10-04 04:36:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 434103fd-ac67-39de-862d-cccbaf4fd44b | -20.36196 | -46.34222 | 2024-10-04 04:36:00 | NPP-375D | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| f42c3fca-a768-3091-acf3-0fce20e62550 | -19.66504 | -46.23281 | 2024-10-04 04:36:00 | NPP-375D | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 9a631691-44d8-31cb-b26c-55cdcc5df48c | -19.66113 | -46.23231 | 2024-10-04 04:36:00 | NPP-375D | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 689ea8e5-1250-3424-a131-962e558ee7eb | -20.24113 | -45.49944 | 2024-10-04 04:36:00 | NPP-375D | ARCOS | MINAS GERAIS | Brasil | 3104205 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 689995e9-682e-3172-b373-3d1ffbebba4d | -21.44536 | -46.56407 | 2024-10-04 04:36:00 | NPP-375D | CACONDE | SÃO PAULO | Brasil | 3508702 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 1739f3ba-07dc-3c85-8291-032b7f6a2118 | -21.44472 | -46.56908 | 2024-10-04 04:36:00 | NPP-375D | CACONDE | SÃO PAULO | Brasil | 3508702 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 2df2bf10-6f0a-3ad0-b848-17f855598983 | -22.73498 | -47.03813 | 2024-10-04 04:36:00 | NPP-375D | CAMPINAS | SÃO PAULO | Brasil | 3509502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 1e619164-e133-3527-835a-3f07f6b6272d | -22.73469 | -47.03624 | 2024-10-04 04:36:00 | NPP-375D | CAMPINAS | SÃO PAULO | Brasil | 3509502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 3b09c48e-25bc-3e15-8eac-4a9d51f2a0cb | -20.27081 | -46.87613 | 2024-10-04 04:36:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ce48a6d5-334c-3cb0-9c6e-0bcb9e9cb334 | -20.26704 | -46.87546 | 2024-10-04 04:36:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5a957c32-771f-3a03-824b-571a47adeb19 | -20.19388 | -47.46649 | 2024-10-04 04:36:00 | NPP-375D | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| a25dad65-4612-3c7c-b755-780b65533cff | -20.1908 | -47.46169 | 2024-10-04 04:36:00 | NPP-375D | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 67573f69-3839-3fd0-82ad-e5c291a34877 | -20.19021 | -47.46594 | 2024-10-04 04:36:00 | NPP-375D | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 97ad3aeb-74bc-3654-8159-c5f6e5c67385 | -20.18963 | -47.47015 | 2024-10-04 04:36:00 | NPP-375D | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 51f3d1f6-7a07-3d6a-bf56-9c0907d75c3f | -20.18653 | -47.46545 | 2024-10-04 04:36:00 | NPP-375D | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| a7b32aa2-3fb1-389d-89e4-4a2d2f451d52 | -19.75767 | -46.67217 | 2024-10-04 04:36:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 4ff61e0a-7584-386e-a09b-e0b0ecd8fe1b | -19.75388 | -46.67149 | 2024-10-04 04:36:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 84e6b23a-6ba2-3ffc-9b93-f780071a5d12 | -19.75193 | -46.68597 | 2024-10-04 04:36:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| a0cc9ecc-f7db-3f8f-ab13-b615466558ab | -19.75129 | -46.69077 | 2024-10-04 04:36:00 | NPP-375D | IBIÁ | MINAS GERAIS | Brasil | 3129509 | 31 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 60ae81db-9edc-3557-adc9-a32c75a0eed3 | -20.72038 | -46.90207 | 2024-10-04 04:36:00 | NPP-375D | CÁSSIA | MINAS GERAIS | Brasil | 3115102 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| f5aed95b-49dd-3119-ad1a-f9e0b1b8d671 | -21.92311 | -48.40886 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| fe30b66b-bcdc-3b23-a758-25df71184cef | -21.92253 | -48.41309 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c2862837-a7e5-3a59-b82d-ebfd96edb872 | -21.9196 | -48.43453 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d0e29715-3d7c-3a32-8720-22f3f5abae07 | -21.91895 | -48.41254 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 53bf69b1-4e0d-38eb-a623-906546dd3dbf | -21.91788 | -48.41023 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| cf32ada1-68d1-3c82-98e5-b480141c208f | -21.91728 | -48.41447 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 5648a66b-6ccb-3b5c-a7b8-26517e26c32d | -21.91603 | -48.43399 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 41f4899b-22c8-36bb-958e-6e1edb26175c | -21.91537 | -48.41201 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 1595d6ea-4baa-3cc3-861a-f6699aab8428 | -21.9137 | -48.41394 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 84b19588-fe86-33b0-ac5d-78195f2d0357 | -21.91121 | -48.41576 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 20ee2594-1c73-32b9-a411-8ccf19acebc1 | -21.91011 | -48.41343 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 81faebda-acd2-3853-9f93-8121a57dc47e | -21.89993 | -48.43384 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| d7fc2613-ed84-3767-b370-a1c63870880d | -21.89806 | -48.47301 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 32b21f6d-fee8-34ec-a736-5ce54e96208e | -21.89746 | -48.47725 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| fed6f944-62f5-35d0-9f18-7e063134de42 | -21.89635 | -48.43333 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| ab832cd5-993c-3c4f-85d5-dbe6259067c7 | -21.89388 | -48.47676 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 74e39cfb-5120-37e3-8f58-aa61ee9993ac | -21.88971 | -48.48051 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c5f50073-1648-322f-b5ca-72e2786a9c86 | -21.88745 | -48.41866 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 5448f325-8180-33d4-9899-2f24f5fa1002 | -21.88685 | -48.42296 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 21116019-24cb-363f-914f-f693e6490353 | -21.88388 | -48.41809 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| cfcabb24-0ae4-35a5-892b-0cfc0735acbb | -21.88328 | -48.42237 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 8f5317f2-c1de-3825-8db2-34df5ba39f6f | -21.87971 | -48.42179 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| ace556b0-a4b2-35dd-b580-c50a9583a571 | -21.87614 | -48.42119 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 9e92079f-3b00-33be-9aa2-ba4bc5edcdab | -22.22512 | -48.61505 | 2024-10-04 04:36:00 | NPP-375D | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 4f0b99ec-3817-3e6e-bcd5-3439877e53ce | -21.50902 | -48.07112 | 2024-10-04 04:36:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a46cb09b-1419-37e7-ac8e-ff92bfc35269 | -21.38288 | -47.62985 | 2024-10-04 04:36:00 | NPP-375D | SÃO SIMÃO | SÃO PAULO | Brasil | 3550902 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| fdd7bcae-1a68-37e1-945f-76c46537d44d | -21.38143 | -47.62764 | 2024-10-04 04:36:00 | NPP-375D | SÃO SIMÃO | SÃO PAULO | Brasil | 3550902 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| bd8ced63-da44-3bf4-8d35-c72c707d51c2 | -21.31309 | -47.60382 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 1ae89bde-8800-39b8-bfaf-07463829b94f | -21.30939 | -47.6033 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 614b62e6-2fad-3667-b333-8c35e0a8a38c | -21.3088 | -47.60771 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 1862d758-591a-38d0-b62b-6fc2171f7e0d | -21.3051 | -47.60722 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 43e73847-a9d6-36c5-ae2e-69bd4c088f81 | -21.3045 | -47.61164 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| b5671114-b304-3eec-a062-4620c017b752 | -21.30328 | -47.62072 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b069f4e8-7b5b-3b65-b804-060c081bd8de | -21.30269 | -47.62512 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 8194d5fe-ba65-38d1-b25a-0d33771c622d | -21.30139 | -47.60676 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 1e40b557-34e1-3dee-9064-725519b59ab3 | -21.3008 | -47.61119 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e214e957-b982-3cb9-9529-48311255b66e | -21.3002 | -47.61566 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 26b5c29e-504f-3132-b367-388856734611 | -21.2996 | -47.62009 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 1f8a6b2c-2fc7-3e6e-b57a-bbbc6423e135 | -21.29901 | -47.6245 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 0c15a0e1-c236-3b04-a8b4-19ce00a83bc2 | -21.29221 | -47.61908 | 2024-10-04 04:36:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 645046a5-c5cf-3f43-b9e6-b457944e6468 | -21.85116 | -48.36402 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| bba7aa1b-1c21-3f0c-af0d-3677b899bc2a | -21.85056 | -48.36836 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 89de5526-cd56-33b7-a9c9-100f3f449a11 | -21.84818 | -48.38565 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1021e7bf-9236-379a-8ae2-82871d5091aa | -21.84756 | -48.36357 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c49977e2-f101-3db9-9acc-df879d6fc7e1 | -21.84697 | -48.36791 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 31f96b93-7517-3d1c-a996-3eb3bb564bc6 | -21.84637 | -48.37222 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 0006b5fb-1299-333c-a1bf-a61ae1ab254e | -21.844 | -48.38945 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 9259e0cc-8d25-33c1-a034-554516123acf | -21.84279 | -48.37171 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b1c75bdd-68cc-3b16-aa8e-38d4ebb74bae | -21.84042 | -48.3889 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| e5c6c551-dfe0-3d56-b25d-7e4592342d15 | -21.83981 | -48.3933 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| 89912b70-48d3-3f33-96df-67118bb111b5 | -21.83921 | -48.39767 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 23.1 |
 
 
 [Clique aqui para ver as próximas entradas](README134.md)

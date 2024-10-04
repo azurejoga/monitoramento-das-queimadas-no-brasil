@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9c7cfe48-2ea9-359d-90e7-b7bf0e1cff74 | -9.47918 | -62.38996 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| d0aaa81b-cf04-34c6-94d0-07deb6c41da2 | -9.47858 | -62.39316 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| b259eeb2-09e4-3351-abda-de70b2c5173a | -9.47798 | -62.39642 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| c22c675e-00b1-355b-896d-7a3e91e11f26 | -9.47451 | -62.38557 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 36eb09f2-c7a9-329c-b909-b6e536b3c721 | -9.4739 | -62.38885 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| dd11ed56-d90d-3016-912a-4b2e058cc129 | -9.46923 | -62.38444 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6d862be3-e31e-316f-8298-7202c7c5588d | -9.46861 | -62.38775 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 12282d57-fa2a-3f95-9b0b-eb0491853fee | -9.44043 | -62.10389 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 91a052e5-ebe8-3fcd-a13c-21cc4f19a081 | -9.43984 | -62.1071 | 2024-10-03 04:51:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5f48bab4-7c81-36cb-9c02-6af435bb374c | -10.17186 | -62.31578 | 2024-10-03 04:51:00 | NPP-375D | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| fc0eea75-5496-39fc-b4c1-fc1c460b3a54 | -10.16665 | -62.31478 | 2024-10-03 04:51:00 | NPP-375D | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 350e72df-efb9-388e-8489-b201a6c65e74 | -10.63992 | -62.81212 | 2024-10-03 04:51:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| bd86f06b-3d7f-3854-8854-c30a19fcdc00 | -10.63928 | -62.81554 | 2024-10-03 04:51:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d65e52c0-b7e7-348c-88b0-4d0a7ae70782 | -10.63396 | -62.8144 | 2024-10-03 04:51:00 | NPP-375D | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 6f3159f7-3342-3da6-9395-140e387dce91 | -12.07946 | -62.05512 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 89820b9d-52d7-35b9-ae8f-9e687adc2bf5 | -11.91714 | -62.63609 | 2024-10-03 04:51:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 0e6f369c-a62f-3d4f-b2b2-37121bd2ace5 | -11.4835 | -62.47838 | 2024-10-03 04:51:00 | NPP-375D | ALVORADA D'OESTE | RONDÔNIA | Brasil | 1100346 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 47c4d1fc-a93c-3f98-8211-4d82243acd87 | -11.48291 | -62.48145 | 2024-10-03 04:51:00 | NPP-375D | ALVORADA D'OESTE | RONDÔNIA | Brasil | 1100346 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 5c929e85-0989-36b2-8dc7-14648e8bb546 | -11.48255 | -62.4783 | 2024-10-03 04:51:00 | NPP-375D | ALVORADA D'OESTE | RONDÔNIA | Brasil | 1100346 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 33c139f8-6d18-310b-a9fe-671ed40a7cc0 | -11.48199 | -62.48138 | 2024-10-03 04:51:00 | NPP-375D | ALVORADA D'OESTE | RONDÔNIA | Brasil | 1100346 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| fd8ab23f-ecc5-34d8-af5a-c9e23e9dee85 | -11.34344 | -63.05037 | 2024-10-03 04:51:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 82f7f40f-4d60-391a-913a-d758c68624a3 | -12.82334 | -62.8952 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| bf71f80b-2051-3bb1-be0f-e2e2c7d34aa7 | -12.82273 | -62.89832 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 318ebbb0-0777-37b8-8e76-cb22de5a0e66 | -12.78182 | -62.91679 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 69fcb71f-3f24-3ae9-bbc8-e6a744ba99b7 | -12.78121 | -62.91996 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 71bf107d-9526-39f1-bdc9-35aa003c68bb | -12.77665 | -62.91571 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 161a780e-306f-3c07-ab91-4024194c0472 | -7.58583 | -63.3647 | 2024-10-03 04:51:00 | NPP-375D | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7b2efbe8-ee1c-30c9-b506-3a85399f7a87 | -12.75992 | -62.91887 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| d969f37d-b755-301d-b73c-94ecf748356d | -12.75932 | -62.92205 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 34463da3-9591-3e65-a152-183d4699b9cb | -12.75414 | -62.92101 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 707c8355-2a80-3c52-bbc7-200915e3013e | -12.7529 | -62.87138 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b3db06eb-cfb9-33b2-ac38-87831e836d6c | -12.75108 | -62.88087 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9a4ff5d1-f78b-3fd4-90e9-5f8de023baba | -12.75048 | -62.88402 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 60217921-d49b-3747-84ce-39402de4c89a | -12.74896 | -62.91996 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 9ea195d2-2e27-3440-930a-8cd049bd7052 | -12.74775 | -62.87033 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ebc7e6f7-51e6-3e74-9566-e15916351d9c | -12.74714 | -62.8735 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| aec1f2a8-7744-3a84-ba3a-d9ea6723ad1a | -12.74653 | -62.87665 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| b0b1db10-9373-31c4-8b8e-a11880c4a234 | -12.74592 | -62.87982 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 8b995368-ef28-365d-aaea-da4a997801a0 | -12.74531 | -62.88298 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 53a1ec2b-edd7-3ac6-bc67-7396da018cf5 | -12.745 | -62.91255 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| eb1c6f9a-25c6-3562-8458-c55099029079 | -12.74471 | -62.88614 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| c438134a-01a9-31d3-9f62-b372819100cd | -12.7441 | -62.8893 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| e2cab054-92b0-3c5f-87d1-711e29d6de4d | -12.74379 | -62.9189 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 010e7dae-1243-34e9-b98b-08e5d79c4a87 | -12.74227 | -62.89882 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a97eb1da-bffa-3c40-b890-ddc347683598 | -12.74166 | -62.90199 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| df079271-c13b-3399-9f56-38fbcf6aea61 | -12.74105 | -62.90516 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 263ccfc4-20e5-31cd-8995-f4ddd9e5633e | -12.90618 | -62.467 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| c69677bd-b9e0-3654-b75c-20f7f382b58d | -12.90231 | -62.46006 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 857f4ff1-26cc-31dc-9ffd-4d40bd391312 | -12.90117 | -62.46599 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| 4aa398ac-0f88-37c5-830a-b33ad0b30de7 | -12.89979 | -62.45631 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 3015a9be-fb9f-357c-bc86-f493025f8fc4 | -12.89869 | -62.46227 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 4f97169a-d902-3c2a-a475-28327079db17 | -12.8973 | -62.45905 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 91c4d5d2-5a16-362c-8968-7e180fee4fe3 | -12.89616 | -62.46498 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| b1f211f8-e534-394c-837b-fc83d4662faf | -12.89479 | -62.45528 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| f7cf6eab-3a75-3aa0-844e-6b065875ea0d | -12.89368 | -62.46123 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| cc6dd348-416d-395e-b3a4-994e365f57e8 | -12.89345 | -62.45208 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 6bf89da8-5d71-394d-bc09-bd763d694412 | -12.8923 | -62.45802 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| ce8bc65d-ef34-3b54-8a4c-265588d5e11e | -12.88978 | -62.45425 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 50cffdbd-3041-3ecd-b784-619efc1c7844 | -12.88845 | -62.45106 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 8994bc8d-b9d9-3e18-864a-08d7697fc545 | -12.88729 | -62.457 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 56eaa6d6-2f0f-3615-a0d1-6945a1aa9f70 | -12.88478 | -62.4532 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| ebd6a039-b88a-3f4e-ab03-1ded4c1c273d | -12.88229 | -62.45597 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| d63eb9b2-0be5-3c99-a6a7-477dfb8a7247 | -12.88114 | -62.46188 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| c7f16767-63ca-3b46-80fc-f30fb5dde813 | -12.87977 | -62.45217 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 10ce1a94-7ecf-3a47-9162-0756b4a68664 | -12.87867 | -62.4581 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 9797ea2f-9b64-382f-bfa5-8a7fa20d09cc | -12.87756 | -62.46404 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| d3467970-ab99-3b4d-82a3-c3077c583854 | -12.87728 | -62.45495 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| f0e919dc-5b85-316a-a0e8-e8a2881cd809 | -12.87613 | -62.46087 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 6256aa24-1e94-3304-8c24-1feb96eb7160 | -12.87498 | -62.46679 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 44bc89bb-b50c-3372-93d0-67caa96c3913 | -12.87365 | -62.45709 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 3817133a-883c-3660-a22a-174f9fada926 | -12.87254 | -62.46303 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| 1096a7da-29a7-3fac-ae4c-94967eb96390 | -12.87112 | -62.45988 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| dc5f2bc8-4547-36fe-9f23-96d1fb075c83 | -12.86864 | -62.45606 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| ab4d2f00-21bf-3d32-b25f-ff49c3f58960 | -12.86611 | -62.45885 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 0b689e26-d8c8-3386-9834-f59090b195ed | -12.86495 | -62.46476 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 6c11ab82-2601-373c-ab39-23cf0736fe2c | -12.86364 | -62.45501 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f4b3396b-1d66-3ca0-89f6-d827409dcd15 | -12.86252 | -62.46095 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 6d60eae8-60ff-319b-943c-c5c4b18f54a4 | -12.86141 | -62.46688 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| f4919477-af33-32d8-8a8f-31e327f26b8b | -12.85752 | -62.45992 | 2024-10-03 04:51:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 3bc5892a-7b37-3d59-aece-fab66d069cf4 | -12.64626 | -63.11386 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 5d0d1d35-c981-3a4e-814d-abec918a978e | -12.64594 | -63.101 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 72e85ab2-beeb-3a76-8c42-7fc7f403ce38 | -12.64561 | -63.11716 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 45391ed5-6473-3658-91e9-a0c8a93c678b | -12.64557 | -63.13179 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 0d3d4a97-ce35-3c83-bc38-9cd6b92555a2 | -12.64532 | -63.10429 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 8803d874-308c-3559-8cfd-a3099436979e | -12.6447 | -63.10758 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| c3e5ce86-28ed-35cd-ab91-2946412b4efa | -12.64432 | -63.1384 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| b6dedc39-c413-3a6c-ac68-6a4d1edc0a80 | -12.64408 | -63.11087 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 57d04f57-5160-3b58-86cc-d8bc347a8b71 | -12.64345 | -63.11417 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| f6f2de15-4eda-3810-a54f-70a7bff703ea | -12.64301 | -63.13037 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 1bdf93a6-2334-3365-963b-b37518f0408e | -12.64296 | -63.10294 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| d0bc62e3-9746-3962-baa4-ee1c98a99e96 | -12.64283 | -63.11746 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 5376afab-a7ac-3f9b-a397-529fa7d744c8 | -12.64236 | -63.13367 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| c7d633e7-9e3a-3915-8b8e-22138774d2e9 | -12.64231 | -63.10622 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 4404e591-6347-32d3-b0bd-4fad626f43f7 | -12.64166 | -63.10951 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| ee74c660-85c7-3a83-910e-6a971697750e | -12.64101 | -63.11279 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 83a974e6-ed24-3263-86ee-66e35937dcae | -12.64094 | -63.12739 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 2f38ce42-112d-34f3-9f6a-4080fa806a29 | -12.64036 | -63.11609 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 0cf8f06d-b15c-3663-9487-3bbb6af3ce87 | -12.63971 | -63.11939 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 0b5de5ce-6c45-3c3a-a184-f965927fe27d | -12.63906 | -63.12269 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 6c3aef33-ecb6-3a6e-a499-340c569d871c | -12.63883 | -63.10977 | 2024-10-03 04:51:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| b8d097e6-8b0d-3669-beb6-97cc9e7180c3 | -21.83743 | -48.38404 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| fac2a4b8-de83-3757-ac87-e8be4cd1d7ab | -21.83684 | -48.38837 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| 388f72c4-46f5-30be-a912-40ef02770fe1 | -21.83623 | -48.39277 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| d5dd0fd6-22d5-3b7e-b289-f5a22d019720 | -21.83563 | -48.39713 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 23.1 |
+| 742f7706-0744-308e-b009-38bba0cfce5d | -21.83504 | -48.40145 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 23.1 |
+| b71a4235-296b-36d4-bd31-235154d1718d | -21.83444 | -48.3792 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 91841d60-db95-3bdf-a91e-df977cea51dd | -21.83385 | -48.38352 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f9125acd-ea87-36ad-88bd-2fea17f61ccd | -21.83325 | -48.38786 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 5d9a3dc2-7a75-352d-b156-2380472d019f | -21.83265 | -48.39222 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 106aab35-f54b-34c8-998e-f8389cdb8950 | -21.83206 | -48.39657 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 64890170-de11-3c48-b904-79bd4c1c973e | -21.83086 | -48.37864 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 1d665f13-c130-3abd-9904-24f2c5a63b21 | -21.82907 | -48.39169 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 090159d9-34df-30a0-9bcb-39eb47fc3017 | -21.82848 | -48.39602 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| f88d718f-9765-3861-b266-d780ab8ad098 | -21.82789 | -48.4003 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 0c9b1a3a-7a2f-37c1-a8a1-8637123c36ed | -21.82788 | -48.37373 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 9f9b411e-d5f1-3cfc-a9e8-2281c8c974b9 | -21.8243 | -48.37318 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 15f1dab8-5d69-389a-9c97-859a17d59822 | -21.82072 | -48.37262 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| baf359ff-37e5-33c8-b224-ed620e9811f3 | -21.81301 | -48.40228 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| bcdacf20-aa91-316f-aee3-fe018d49d69a | -21.81086 | -48.40382 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| d0a9f2af-1c27-3dc8-a858-88f08baf9422 | -21.81056 | -48.36661 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b5a80d63-e8ab-337c-a573-016fe27b3957 | -21.8097 | -48.38614 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 1e9a3b7c-0fee-38a4-b4cd-9259d392c137 | -21.80943 | -48.40174 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 589433aa-1f48-3c63-86f3-4574b4f326f1 | -21.8091 | -48.39041 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 24476f77-a955-35ba-99a9-0dc59d9f2cb7 | -21.80857 | -48.36823 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 92dfb629-52f3-33dc-b1f2-f2d38b62c8b1 | -21.8082 | -48.38403 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 7bbd8f69-ed9e-367b-9d82-0e106585a85a | -21.80761 | -48.38832 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 2292d794-4bb0-395b-81b7-1fb835dc61c2 | -21.80728 | -48.40331 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 5d144925-9efc-33d0-ab19-70fee09a5039 | -21.80613 | -48.38558 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 2d675597-fbea-3406-aaf3-ca7f7541fdfc | -21.80561 | -48.3633 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| aebd0ddd-b204-3010-b42c-3deda68f6510 | -21.80552 | -48.38986 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 339bf2ce-51f2-3a7c-a47d-1e9057fa4ce1 | -21.80499 | -48.36768 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 4cf17725-bc1d-3667-ba89-9cb17ca706aa | -21.80437 | -48.37206 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| b8960f76-e064-391d-b422-5da150287d6b | -21.80195 | -48.38928 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| bc968d61-b796-3312-a47a-217e56e1be05 | -21.8008 | -48.3715 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 19cf9c57-38b5-3b48-9aac-769cf389128d | -21.79958 | -48.38012 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 83fb812d-8436-394e-b84b-d36039285952 | -21.79898 | -48.3844 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| f07d44c6-075e-37b6-9caf-baf2cb7d3a26 | -21.79777 | -48.393 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c7acec83-0e32-3884-806c-4d11c1639d57 | -21.79661 | -48.37525 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| e27f96b3-ed1d-35aa-bd4c-2767dbb44ea2 | -21.79601 | -48.37954 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| b8710fc6-4366-3d45-ac7a-3ab7c0396233 | -21.79541 | -48.38382 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| bb8efaa2-56c1-3a09-8d65-85d67bbb78a7 | -21.79481 | -48.38811 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 3045b1fa-d5e5-3a47-a69e-807952238305 | -21.7942 | -48.39244 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a8da924f-cc98-3c8e-be3b-3333b2bfe8bb | -21.79243 | -48.37899 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 5afcc1d0-77df-37d0-aa7a-b976f83a1a16 | -21.79183 | -48.38327 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| fa54eb0f-7fe3-3f3a-9fd3-eb4dbab04407 | -21.79123 | -48.38755 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 969773ce-983c-381b-9ac0-0ff02f458f73 | -21.79062 | -48.39187 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| f325ae01-4e5d-31e8-b0ae-3e1e181f4aec | -21.79001 | -48.39621 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e84becf1-db60-3377-9c4b-464c00e63ee4 | -21.78885 | -48.37844 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| a849ff28-836f-3caf-9fbc-8bf5bcf57281 | -21.78825 | -48.38272 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 16c64cf2-0eae-3a80-9562-25ecf11cefba | -21.78765 | -48.387 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 0815830b-d788-3dfc-8765-ea8bdf959956 | -21.78705 | -48.39131 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 40df285b-a9e1-3f56-a643-ae131b72c00a | -21.78467 | -48.38218 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| f69814bd-daba-3c84-a495-c04726d9d641 | -21.78407 | -48.38646 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 127e9f8d-857c-3b35-9b56-141fecbd496e | -21.78347 | -48.39076 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 7dde109e-07ce-3063-b1a1-f3374cb337c7 | -21.78287 | -48.39507 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| c758d38f-5def-37cc-8589-ceb0ec185111 | -21.78169 | -48.37736 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| fcbdbea9-f6b2-321c-ab87-cc9ff883fc9d | -21.78109 | -48.38164 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| c7adc551-e575-315b-908b-4a23dfac3bed | -21.78049 | -48.38592 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 1bfa3b45-3c2c-31ef-a704-e0bf27ba2402 | -21.77989 | -48.39021 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| ddd1e4ff-f4b3-368a-bf0a-68d6d220684d | -21.77929 | -48.3945 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 48329592-03f7-3f6f-a450-beb424f52a1b | -21.77811 | -48.3768 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 7e8dc565-7d77-3ca8-bba1-36fdf5e5697f | -21.77752 | -48.38108 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| e43786ab-9754-331d-b312-4f07d8be77a9 | -21.77692 | -48.38536 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| f3a459ad-01b2-3c87-9d9c-91697a80a0cf | -21.77632 | -48.38965 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 889dd66a-85bf-3b8f-b8ca-d39d4241e31d | -21.77572 | -48.39395 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 599bfb41-7da8-3751-a3ac-146bbb44668e | -21.77334 | -48.38478 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| e1d5f6aa-21e8-361d-a55b-a204074e32f5 | -21.77275 | -48.38907 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 80f88e87-914f-3b76-a12b-d3df84a75f05 | -21.77214 | -48.39338 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 4adc8ba4-6b08-3c38-95e1-e5373d24e8df | -21.85829 | -48.41826 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 4f76c5b0-aa6b-36ce-8154-2cc469aa9c3d | -21.85472 | -48.41766 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| b5d103a1-b6ff-3c0c-8326-a60a58ba4c48 | -21.85055 | -48.42139 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ec966024-97f1-349f-b909-40f104434495 | -21.84995 | -48.42567 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 075134c9-e7bd-35b8-b147-ad0ec78ee2c8 | -21.84936 | -48.42997 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| c927ee2d-2982-30ed-ad77-fea578e686a1 | -21.84816 | -48.4386 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 08e24f4d-a291-3aa5-b2ed-10f96639626c | -21.84756 | -48.4429 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| d7e5c488-c468-340a-bbe6-8a4492003a5e | -21.84698 | -48.42081 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 61825c53-8ba2-3756-bd11-d3e46114d144 | -21.84697 | -48.44721 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| aab79663-ff77-3a60-974d-05bc1607fd77 | -21.84638 | -48.4251 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 700d80c9-3605-38e9-9274-cfa16cfc2ae1 | -21.84579 | -48.4294 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 0222e1c6-9896-3e36-89f8-da5030ae1317 | -21.84519 | -48.43372 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0cf06d67-7951-3492-a7db-d3d5642e138d | -21.84459 | -48.43805 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 945b06dc-e4f8-3b8a-82a8-cbcb9b6ec7db | -21.84399 | -48.44237 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| c539c403-b6d7-399d-986d-4b66a074cbba | -21.84339 | -48.44668 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| ab3471eb-338c-35c2-ad9e-ad25d4c39d9b | -21.84281 | -48.42452 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 1d66286d-c9d6-38c3-9a7a-3c54f20e66f3 | -21.84222 | -48.42883 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| c23df57d-3192-3efe-83ca-b42b45e0a97d | -21.83981 | -48.44621 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 7f42200b-006f-3898-bd0c-375648e1147b | -21.83922 | -48.45047 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| aad10ef4-3a2a-3649-ae07-eaa4b8286fa1 | -21.83864 | -48.42826 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 21ecc46b-353d-37ff-abdc-3ef5071bec03 | -21.83507 | -48.42773 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 53cef2fa-6ea1-3cae-af53-c2e211d1973c | -21.83506 | -48.4542 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 81b14688-0864-3f74-a733-5bae58991989 | -21.83149 | -48.45367 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 5b11094e-1575-3992-a69e-87699c8c049b | -21.83089 | -48.45798 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 33a965f4-c981-3387-aa7f-68b1b8744976 | -21.82732 | -48.45744 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 7bc9593b-f656-3a4b-a5d1-e28b6556c462 | -21.82376 | -48.45688 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 3d9ad3b8-0dad-3374-b992-c15eb7ff46b7 | -21.82078 | -48.45202 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 30eb4a49-9fd2-3bbc-95f8-28903ef0aed0 | -21.80353 | -48.44495 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 8b3a250d-c07d-36d4-9b15-9a40dc10e2a0 | -21.80179 | -48.44212 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 7b22df34-b25a-3db0-acfc-daba95d8f855 | -21.80119 | -48.44641 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| c6e111cc-14bb-37cc-b057-728751b4a2b4 | -21.79996 | -48.44439 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 410781da-3fe9-3424-b30f-09d4a7b3642c | -21.79762 | -48.44585 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
 
 
 [Clique aqui para ver as próximas entradas](README135.md)

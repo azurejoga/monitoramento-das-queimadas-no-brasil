@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| aab2d2b4-4047-3883-b2b2-c5256b3bf0ef | -7.75799 | -43.0625 | 2024-10-03 04:49:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 0c3ebccb-b5a1-3d1b-81ec-1969da75eac9 | -7.75493 | -43.0558 | 2024-10-03 04:49:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 60625e73-d757-3dca-b1f9-d39a5c72cffb | -7.75336 | -43.05434 | 2024-10-03 04:49:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 99afa8ba-32ba-3743-9962-8ce79195bb2b | -7.75239 | -43.06171 | 2024-10-03 04:49:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 84043247-f05f-3e46-92a6-cb73e7224c5b | -7.70661 | -42.99164 | 2024-10-03 04:49:00 | NPP-375D | FLORES DO PIAUÍ | PIAUÍ | Brasil | 2203800 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| e7b6f509-3b3d-3f29-a9cc-7dc84f94170b | -7.70099 | -42.99091 | 2024-10-03 04:49:00 | NPP-375D | FLORES DO PIAUÍ | PIAUÍ | Brasil | 2203800 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| ee5cddfe-4f6c-35af-acd3-3924294d4ff8 | -7.69587 | -42.98647 | 2024-10-03 04:49:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 0ea91497-374f-3480-8fa3-5efc418be26f | -7.69025 | -42.98566 | 2024-10-03 04:49:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 08b2c241-599d-36b3-84ac-d5c26a12d25c | -7.63671 | -42.46259 | 2024-10-03 04:49:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 65205add-3495-362f-8211-496362f49b9c | -7.63615 | -42.46679 | 2024-10-03 04:49:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| f8184ea8-8b10-3066-967d-78c2cb7c313e | -7.29337 | -42.25908 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| d219c63d-5a68-3b52-85e2-3f0e07592b68 | -7.2928 | -42.2632 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 89978bed-1f34-3381-95ef-aa2ae730b690 | -7.03579 | -42.81411 | 2024-10-03 04:49:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 700d2168-df84-3715-aba2-a3cdbf791ca5 | -7.02965 | -42.81715 | 2024-10-03 04:49:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 47a2d354-3d62-3b39-9896-e3618d58817b | -6.87794 | -43.60474 | 2024-10-03 04:49:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 6df372dd-ae9a-3889-8996-927282255619 | -6.87749 | -43.60798 | 2024-10-03 04:49:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 3fdfdd71-958e-3437-af88-a3199ada5e67 | -6.87704 | -43.6112 | 2024-10-03 04:49:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 26d677e2-883e-39eb-8338-ad718d5a7e09 | -6.87262 | -43.60388 | 2024-10-03 04:49:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e6e80afe-96b2-3de2-af24-493a4bad667a | -6.87217 | -43.60714 | 2024-10-03 04:49:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 26abf0cc-8aa4-38be-a769-a51702733586 | -6.87172 | -43.61039 | 2024-10-03 04:49:00 | NPP-375D | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| cc0211f0-0a3a-361f-887d-861e49cdca01 | -6.65792 | -43.13186 | 2024-10-03 04:49:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ab236775-1655-31a9-bebf-b9972dae8e9d | -6.65744 | -43.13548 | 2024-10-03 04:49:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| abdbb1af-c8fd-3717-a1e3-233725653854 | -8.31316 | -42.82713 | 2024-10-03 04:49:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| e1866df2-2220-3554-9cdd-949722e5d3ea | -8.31211 | -42.82895 | 2024-10-03 04:49:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 073c3ba4-0e83-319c-b0d6-a131bcc0c1f6 | -8.30743 | -42.82635 | 2024-10-03 04:49:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 853a4fac-3b75-3fcc-86a8-97fbd0dd4b7d | -8.30692 | -42.83034 | 2024-10-03 04:49:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 7e6e2b70-8150-3fd1-b8c2-a2c01dfa61b6 | -8.30638 | -42.8282 | 2024-10-03 04:49:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| a90b36b4-c98c-3abb-be91-ce1c63afb9d7 | -8.18306 | -43.69854 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| c54a6f91-e098-3a23-a339-925b24ba4e8a | -8.1826 | -43.70208 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 4c308122-a0ae-3480-98c5-e456bc023161 | -8.18132 | -43.69917 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| c120d5e3-d347-32f2-8dcd-66954bbd452d | -8.16328 | -43.71056 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 3cc6c914-3c18-3240-86c4-0b1211d05ccc | -8.16281 | -43.71399 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| da9390ec-e841-3a1f-af84-b25e7760be2e | -8.16234 | -43.71737 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| ce613b71-3bfc-3e74-a137-19045ac07403 | -8.15742 | -43.71322 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| d95898c1-d6d2-371b-b7e1-a3db9a5cc9d5 | -8.15696 | -43.71662 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 7e76bae2-a734-3613-ac88-98186dd1dc25 | -8.1565 | -43.72002 | 2024-10-03 04:49:00 | NPP-375D | ELISEU MARTINS | PIAUÍ | Brasil | 2203602 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 6e2ff120-0c73-3450-947d-45eb927e68b6 | -8.15558 | -43.72673 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| a9d3c566-5de0-374d-8079-bc0aa5a1df47 | -8.18714 | -43.66727 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 863139c4-f02a-326f-b7ad-df10c9f1d93a | -8.18668 | -43.67084 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 884f9cb3-f49e-3a83-86f3-434451168745 | -8.1844 | -43.68827 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 7e8d35d4-830b-3ea0-9bb7-f22d8669e75a | -8.18396 | -43.69164 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c93cb294-59ee-3377-b1ce-45591a9b6faf | -8.18352 | -43.69504 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 661f190c-c434-35ba-90f9-7fa00f496e55 | -8.18274 | -43.68892 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| eb1fc8bc-fff5-3440-8d97-64d040b55352 | -8.18227 | -43.69228 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| eba225ab-7cd6-307e-86e5-7b50cc81c898 | -8.18181 | -43.69567 | 2024-10-03 04:49:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| a96da696-c473-3bfb-8e9c-d968daa82766 | -3.47124 | -43.35608 | 2024-10-03 04:49:00 | NPP-375D | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 7103539b-a2ed-35a8-9705-8f238afe49a3 | -4.94584 | -43.68283 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 40e2dbe0-a62e-3f7e-8e36-113a2a5451ce | -4.94067 | -43.68217 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 065a66ce-5b95-3206-a4fb-f2881580a257 | -4.9373 | -43.77755 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| ff13ece0-ab52-3e9a-a521-0354a8e419ea | -4.93687 | -43.78048 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| c8f30eeb-ed25-3e5d-87f8-e2984fb63a91 | -4.93259 | -43.77398 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 837f681a-c8aa-3806-b951-abe9d22c7641 | -4.93216 | -43.77694 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 65d3c4e9-ffc7-30d9-84b7-96258ba1535f | -4.93173 | -43.77988 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 13.2 |
-| a49e827f-0ff3-3209-af60-26a56dfdb993 | -4.92747 | -43.77327 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| b0e3e12f-915e-3476-8e42-3171e407c353 | -4.92704 | -43.77623 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 25a3d38f-9a20-3887-a6c2-183e52f0a867 | -4.92661 | -43.77917 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 13.2 |
-| 20fe48a6-0d17-3961-9fde-f675044335a8 | -4.66553 | -43.76064 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 77f5fd8d-830a-31e1-b557-90ad717ff00f | -4.66376 | -43.75789 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 984e4b24-ef6e-309a-8bc3-940a4f7d53c1 | -4.66333 | -43.76089 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f84e4a1e-9dcd-37a0-a763-dfe49304c82e | -4.66088 | -43.75686 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8c1ada1d-15cf-3e1a-a9ca-a4b30f15fd3b | -4.66043 | -43.75985 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 936962e3-1026-3b46-b8bc-c2ca44dc1b8b | -4.65866 | -43.75707 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 06435c76-78a7-3f05-a3eb-947841702b69 | -4.65824 | -43.76005 | 2024-10-03 04:49:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 36415215-05a8-3675-ad25-115f30373440 | -4.54594 | -43.31044 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ab18edb6-c860-3e81-8960-2105290798e0 | -4.54114 | -43.30651 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 0a98b437-c0f4-33ff-ba56-60365194bcfa | -4.54069 | -43.30968 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 25.5 |
-| 0dcb7608-5002-307f-8b00-87c6b423505f | -4.54023 | -43.31285 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 25.5 |
-| 61c65590-e57d-3c1c-bcc2-e1a26b1fe82c | -4.53634 | -43.30257 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 819c98f3-412e-3b4b-991e-43ecdf26104b | -4.53589 | -43.30574 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| c7782415-9b30-3b19-8bb3-e76ca45364fe | -4.53544 | -43.3089 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 25.5 |
-| 2b4f5980-d52b-3dc9-94bc-5643be7aca07 | -4.53498 | -43.31205 | 2024-10-03 04:49:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 25.5 |
-| 15b18dc4-9bde-33f0-a2ab-aea8b51e8587 | -5.10439 | -43.32252 | 2024-10-03 04:49:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 5338dc83-d00e-35eb-9974-b012f21dafb3 | -5.10392 | -43.32579 | 2024-10-03 04:49:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ee849faf-7e7b-3249-9b4d-054eee5ab8ab | -5.91366 | -43.96391 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 26729cf0-f911-3735-9351-ef9c310167b0 | -5.91117 | -43.96246 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 1d5bbc81-2c02-3c62-af09-042ce3cdc886 | -5.90855 | -43.96306 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8c3ff130-d66b-3d8b-b6e1-de699705b975 | -5.88539 | -43.72027 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 2ebd5829-ed53-3550-b070-23abd5e765f9 | -5.88495 | -43.7234 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bdb04dde-aaa4-3790-8e0a-f940b803860b | -5.83605 | -43.95802 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 908f7819-8966-32dc-ab7e-d511058e6bbb | -5.83136 | -43.95419 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 2808d82e-0cbb-334e-8201-a76758ca1448 | -5.72186 | -43.78837 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d6b11baa-7ca1-30f1-9d9f-1f63fc281661 | -5.72041 | -43.78797 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c7ad0b57-f1c2-3cb2-81eb-608a3e916c12 | -5.71996 | -43.79102 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d6c5fc9b-6a8c-33a6-ac0c-653c88626459 | -5.71667 | -43.7877 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6648a98a-bb1e-3c13-a879-a75f9fecd353 | -5.71522 | -43.78732 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 352bac59-db94-3ef4-a8f0-6ba9f0192c02 | -5.71018 | -43.92942 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ffd64551-210a-31f3-93b7-910ec3e9c6d6 | -5.70795 | -43.9264 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| f13a9d47-503f-3f52-9627-516e9edd9823 | -5.70753 | -43.92939 | 2024-10-03 04:49:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 11abca49-04ca-392d-a644-2a6d843225d2 | -5.24759 | -43.81002 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| abf85331-06b0-3eda-a00e-be7a05afad45 | -5.24333 | -43.80319 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3dccd40d-ac3a-3fcd-a9e0-f913f5d0e837 | -5.2429 | -43.80621 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 14ec05fd-304b-3ec2-ab61-90cef14823c8 | -5.24246 | -43.80925 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 60f283f4-f240-387e-973c-1acf1b93664f | -5.2382 | -43.80242 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 46227aeb-ab5f-33bb-a1a9-60d42fa41796 | -5.23777 | -43.80542 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| bd6db014-8a1e-352f-9a3d-4c385088c04b | -5.23734 | -43.80846 | 2024-10-03 04:49:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 418fa9f7-2a14-3e03-98af-dfda4e975dbf | -6.39542 | -44.75164 | 2024-10-03 04:49:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 40bba47c-86db-3940-8747-7237883d098e | -6.39056 | -44.75072 | 2024-10-03 04:49:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 0d8659c4-5faa-362f-b9ba-0fc4a64c2bc8 | -6.26705 | -44.72909 | 2024-10-03 04:49:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 92861db7-fa33-3370-ac2d-3f084aa2a3f6 | -6.19592 | -44.12199 | 2024-10-03 04:49:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| f8ab65f9-e378-3adb-9926-79d8d6c2bcb7 | -6.19552 | -44.12474 | 2024-10-03 04:49:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| dd043d33-9ac0-366a-80a5-0d742d60f6fc | -21.83648 | -48.38342 | 2024-10-04 04:34:00 | AQUA_M-M | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 154.2 |
+| 4ad344a7-14cd-3607-b6c5-0aeeb5f97454 | -21.78609 | -48.37412 | 2024-10-04 04:34:00 | AQUA_M-M | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| a667c01b-25a2-32a9-ab51-f0c1d76a48f6 | -21.78477 | -48.36886 | 2024-10-04 04:34:00 | AQUA_M-M | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 95.0 |
+| 6234dc78-ed32-3484-8e5f-261be6dd1362 | -13.89127 | -44.27711 | 2024-10-04 04:34:00 | NPP-375D | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 27c53b4b-b864-36f2-a5c3-55b3d75f2ed0 | -14.50482 | -45.21684 | 2024-10-04 04:34:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 34bb3a9c-66a3-3a41-9822-7e536f195272 | -14.50869 | -45.21751 | 2024-10-04 04:34:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 50747388-d65d-3839-9826-fa77571c55d3 | -13.5003 | -48.63278 | 2024-10-04 04:34:00 | NPP-375D | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 445db394-bd0d-332f-8995-493c4d016b55 | -17.8543 | -41.42399 | 2024-10-04 04:34:00 | NPP-375D | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| fe66aadb-15ad-33fe-969f-15bc27271bdf | -17.85418 | -41.4244 | 2024-10-04 04:34:00 | NPP-375D | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 7dbe6129-e85c-35e0-8be8-cebae7363b62 | -17.85395 | -41.42724 | 2024-10-04 04:34:00 | NPP-375D | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 66d93025-ec80-353c-a56d-e223de0cdfbe | -17.85381 | -41.42761 | 2024-10-04 04:34:00 | NPP-375D | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| c4fba460-5361-39d0-9649-835e54325891 | -17.85363 | -41.43029 | 2024-10-04 04:34:00 | NPP-375D | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 199faa85-f5e2-3330-bea7-6cf407bffee3 | -17.85346 | -41.43066 | 2024-10-04 04:34:00 | NPP-375D | TEÓFILO OTONI | MINAS GERAIS | Brasil | 3168606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| f4250c97-6141-3514-889e-c74a9bc200d1 | -16.89773 | -40.61116 | 2024-10-04 04:34:00 | NPP-375D | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 4603a4d3-2560-3704-afd0-ec0cec844485 | -16.89733 | -40.61462 | 2024-10-04 04:34:00 | NPP-375D | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| bdd5321e-c568-37e1-8bd2-6fa580ea8393 | -16.89348 | -40.60932 | 2024-10-04 04:34:00 | NPP-375D | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 5c037de1-2eb2-3666-9b0c-afdd3d64c2f1 | -16.8931 | -40.61285 | 2024-10-04 04:34:00 | NPP-375D | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 5f2c1e5a-a5ed-325d-a28a-e6f15f39f946 | -16.89231 | -40.61041 | 2024-10-04 04:34:00 | NPP-375D | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 2a71d0fb-2a6b-3e95-b022-e7ce8e9cedc3 | -16.89191 | -40.61394 | 2024-10-04 04:34:00 | NPP-375D | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| b24bacb2-2da2-3000-80d2-b9a035dadeaf | -18.51005 | -41.29727 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
+| 3b2901dc-edc5-3521-b197-067447a56464 | -18.50967 | -41.3007 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| 276b9ac3-7a65-3b19-8db2-71dacd864999 | -18.50929 | -41.30407 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| e88e440b-3601-3ef5-9c13-7bb4c5a7c7d4 | -18.50834 | -41.29642 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 6fb531c2-4c82-339c-a2cc-461d5fbee050 | -18.50799 | -41.29984 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 08d4e73b-687e-3e36-8d8b-a85339d2cb0d | -18.50764 | -41.30321 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| e5e128b5-c8aa-35df-a413-8f2b31b33ae0 | -18.5044 | -41.29984 | 2024-10-04 04:34:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| aa63c9c3-c42b-3de9-8b83-7e1232c05b4f | -14.77294 | -41.61695 | 2024-10-04 04:34:00 | NPP-375D | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| f7539ea3-8d35-3476-a098-06d57a810908 | -13.87826 | -42.01852 | 2024-10-04 04:34:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| ccf6d9b0-ce9a-3c37-84b6-462004ac6a0d | -15.43451 | -41.14096 | 2024-10-04 04:34:00 | NPP-375D | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| d1a47033-3ba3-3d51-bbfc-b6f1320d7237 | -15.22705 | -42.16354 | 2024-10-04 04:34:00 | NPP-375D | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| c8845aab-98f0-3483-8c5e-b76571daa613 | -15.22642 | -42.16422 | 2024-10-04 04:34:00 | NPP-375D | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| e775afa2-08b1-322e-91cc-38686139766e | -17.3792 | -42.62428 | 2024-10-04 04:34:00 | NPP-375D | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 1dc905a1-eec4-3bb8-803f-a52c668da36a | -17.36966 | -42.62299 | 2024-10-04 04:34:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 0567f676-e24b-3ade-942b-03d273ab201b | -17.36425 | -42.62765 | 2024-10-04 04:34:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d325e1fc-c18f-30f8-bfe4-b4704450ac17 | -17.36902 | -42.62831 | 2024-10-04 04:34:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a6bf2489-7542-3757-8d6d-4cd10a9d1972 | -17.37443 | -42.62364 | 2024-10-04 04:34:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 2221c112-f1b1-331f-8697-a5fcfd42eb36 | -17.37379 | -42.62895 | 2024-10-04 04:34:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 19.9 |
+| 474ef55e-05a6-3425-8e53-495fa75279af | -17.93069 | -42.20821 | 2024-10-04 04:34:00 | NPP-375D | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| c107c175-00b3-3609-bb79-68723f758b24 | -17.90794 | -42.1875 | 2024-10-04 04:34:00 | NPP-375D | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| e1c5132f-abc7-33a6-ac02-7c5eb0422fa0 | -17.84499 | -42.06936 | 2024-10-04 04:34:00 | NPP-375D | MALACACHETA | MINAS GERAIS | Brasil | 3139201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| 9257ec6c-5688-3ab4-9c93-828419ecfd4b | -19.51041 | -42.323 | 2024-10-04 04:34:00 | NPP-375D | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| ab7b1dae-575f-325d-ad72-ea472cd5078f | -19.5099 | -42.32767 | 2024-10-04 04:34:00 | NPP-375D | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 5f0dc4c5-fbcc-30e3-96c0-414b0fec23fb | -18.0842 | -42.59497 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
+| e5048f4c-9673-34b0-9c93-f9065aa0f8f7 | -18.08354 | -42.6007 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
+| 959431fb-797a-3c73-be7e-c619ffeb7252 | -18.07936 | -42.59436 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 06fb1ce2-be27-39f4-81e4-24d39ea81dbc | -18.07871 | -42.60009 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 404c6ce7-a788-3b12-9735-508be2b2081e | -18.07453 | -42.59375 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 15d03cc6-ca61-3aa6-a943-eed4505ec595 | -18.06905 | -42.59887 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 42998aac-91b5-3772-9c58-b9e5efceaf3c | -18.06581 | -42.62728 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| c18f65ca-2f4b-3d3a-9369-595e37fc836e | -18.04387 | -42.61287 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| a40f8c4a-71e7-3b16-a72c-176d084bdd99 | -18.04288 | -42.61382 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 3d11c9cb-b701-3142-9b9a-58fc771d2f69 | -18.03903 | -42.61241 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 8346f5d9-ff0c-309c-84c6-5be33cd1be98 | -18.03805 | -42.61334 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| a0d245af-190e-3f00-b1fb-646f1e643af3 | -19.03086 | -43.18577 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| fee6fdf1-e0c4-3382-96e8-6347df093170 | -19.03026 | -43.19084 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 5cad5bd9-e30f-3bde-88c4-7fa819954242 | -19.02613 | -43.18541 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
+| 311db1d4-6182-357e-965a-6c2039c93336 | -19.02554 | -43.19034 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
+| cdf7b688-7ba1-3757-93e6-7417d613ccec | -19.02496 | -43.19528 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 5ffcae44-1762-39d0-bc15-f4871122c16e | -19.02438 | -43.20015 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| eceb4c31-9745-33a1-b8a8-f53599e11243 | -19.01726 | -43.17962 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.0 |
+| 38a37dfc-65a6-3965-979b-51a363475314 | -19.01254 | -43.17916 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.0 |
+| fb71b6bb-31d0-36d7-8c64-302ae96ed3a8 | -18.97639 | -43.20285 | 2024-10-04 04:34:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 7c20f938-9769-3696-a89f-b44b3eb29df3 | -18.97581 | -43.20794 | 2024-10-04 04:34:00 | NPP-375D | DOM JOAQUIM | MINAS GERAIS | Brasil | 3122603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 3fb1e739-893c-35e1-b58c-cdc4eb2f538f | -18.97227 | -43.19731 | 2024-10-04 04:34:00 | NPP-375D | DOM JOAQUIM | MINAS GERAIS | Brasil | 3122603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| a7a773e6-934f-3cbb-a2bd-c75e4921bff4 | -18.97169 | -43.2023 | 2024-10-04 04:34:00 | NPP-375D | DOM JOAQUIM | MINAS GERAIS | Brasil | 3122603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 7313f57c-c6ce-3627-a59b-0b1cd6e59d9e | -18.96995 | -43.21741 | 2024-10-04 04:34:00 | NPP-375D | DOM JOAQUIM | MINAS GERAIS | Brasil | 3122603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 4174e4fe-671d-34f8-acb2-fab38af9ec5e | -18.86359 | -43.13652 | 2024-10-04 04:34:00 | NPP-375D | SENHORA DO PORTO | MINAS GERAIS | Brasil | 3166105 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 2e602563-4a96-38fb-a74d-9fa669264669 | -18.86014 | -42.9112 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| bc0ecbe2-97c2-3109-ae28-6d130b934fc5 | -18.86003 | -42.91237 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| d4cc7828-d7b5-38d8-aaf3-4a2f97fbd956 | -18.85954 | -42.91622 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 9db25df5-2868-3003-906e-6048e9a954f6 | -18.85594 | -42.90569 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 24a3aea7-9452-3d5b-aa27-0cde92f8a433 | -18.8558 | -42.90681 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| d6519537-0bac-3fc6-92d9-7682a71a19f7 | -18.85534 | -42.91071 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| e67f3e37-1df1-3278-b0db-34b015f14d2e | -18.85524 | -42.91183 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| a7568518-5d68-3aa2-9cb7-4cb3c616b4d0 | -18.85476 | -42.91562 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 97e36b69-ab7c-389f-a0df-d005239dbafa | -18.8547 | -42.91672 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 27f6eeb5-bbb3-3ae1-8194-11bd8494e8d9 | -18.85161 | -42.90085 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 27cfebab-e157-39f3-b1e7-4171c13bb331 | -18.85118 | -42.90491 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 6d530dd9-3c5e-3110-bb3d-6eda9dbefe21 | -18.85103 | -42.90608 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 3b1a7810-1de5-38a8-a620-0ec38e9c95e9 | -18.85055 | -42.91027 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| b1f25092-84db-351f-9a19-8ea51cf68085 | -18.84578 | -42.90961 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| f8961092-a1a5-3283-96cd-37240f84acc9 | -18.84108 | -42.90833 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| 2317a4b0-2384-392a-8024-d78c0404e560 | -18.8404 | -42.91413 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.7 |
+| 9dfd2996-9101-3286-a2ff-f82862fa990f | -18.83776 | -42.9776 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| bd3d1311-87dc-3466-bd40-7e2cb0570c98 | -18.83569 | -42.91297 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 454a8562-37ee-3e5b-b278-91c2666b9aca | -18.83506 | -42.91837 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| c788e28d-d5c8-383e-a49a-69f3f26c9cf7 | -18.83299 | -42.97715 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 816f9585-e277-3d17-aeb1-1a9ad68e5bac | -18.83175 | -42.98762 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| b44e9308-4a97-38b5-a427-7eb3ed3e1eb1 | -18.83035 | -42.9172 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| a54d62b9-1286-33f3-a4ab-f3b7d00a9fbe | -18.82821 | -42.97669 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| b4ee2727-b713-30d8-8f37-ba9d3fd13624 | -18.82698 | -42.98722 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| e75b7181-5147-3afe-a0c0-66b55f5dab6c | -18.82222 | -42.98669 | 2024-10-04 04:34:00 | NPP-375D | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 4b27b3df-dc2c-3a13-b62e-1bcd942e3638 | -18.69384 | -43.05373 | 2024-10-04 04:34:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 616234e3-7348-34c6-8c22-6c7eae270824 | -18.57813 | -43.04804 | 2024-10-04 04:34:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 74779988-c509-3a8e-b4b2-830b2f4d3098 | -18.57341 | -43.04742 | 2024-10-04 04:34:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 2b610229-dc22-37d0-b72d-630a7e6c4976 | -18.51015 | -42.96806 | 2024-10-04 04:34:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| b3ecb23a-639e-3ee9-8ce3-8911195a96f6 | -18.34695 | -43.03959 | 2024-10-04 04:34:00 | NPP-375D | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 8e4b3ab7-f201-3656-ab0d-470b5b7d20b3 | -18.06095 | -42.62705 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| cea7b4f2-6b2e-3501-aab4-2f0442aa48b9 | -18.06034 | -42.6324 | 2024-10-04 04:34:00 | NPP-375D | SÃO SEBASTIÃO DO MARANHÃO | MINAS GERAIS | Brasil | 3164506 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| d09a328f-7857-35b6-a314-697ac85d8bd4 | -19.32552 | -42.58767 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
 
 
 [Clique aqui para ver as próximas entradas](README113.md)

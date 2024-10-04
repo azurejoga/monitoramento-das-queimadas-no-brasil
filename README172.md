@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 647d3e2f-da06-3f75-ada1-71d2ecad8c93 | -10.82975 | -64.20163 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 8c3ad791-2cd8-3c7b-8a7a-4f146115641f | -11.00289 | -63.9144 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| fb2345a1-60d5-39c7-9824-1625265dea50 | -10.99977 | -63.57161 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| ed3d17cf-b715-3a1d-a2f9-5194b69e3f2c | -10.99915 | -63.91361 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 7b3fa679-578d-3c89-a794-619c7fc70fa0 | -10.9991 | -63.57552 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 2a4f79c5-3693-3b2e-a7b8-dea3514c259b | -10.99843 | -63.57946 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 213e76b1-4d45-3515-9f8c-8f60224cd506 | -10.99611 | -63.57082 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| ea3e6437-d4d5-30f0-b0ad-7c416c04b08d | -10.99544 | -63.57473 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 0d767c48-68fd-3098-af18-2fff7ead0fe2 | -10.9924 | -63.57029 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 4664e75c-1d0f-302f-832e-60cbf6f68adf | -10.99173 | -63.57419 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| e78d8734-1011-3484-958e-d143f85f17a1 | -10.98802 | -63.57369 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| e30b413f-32cd-3ab4-938a-08cfcae83c8a | -10.986 | -63.57082 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 2e5dc973-f63d-33f3-848c-85715c7a5647 | -10.9823 | -63.57021 | 2024-10-03 05:16:00 | NOAA-20 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 174ca129-66e1-3d56-afa2-35ee32ec8674 | -10.91069 | -63.8847 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| f60ef6b1-3af7-3aec-8596-bd29a94fdae5 | -10.90857 | -63.87422 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| d1e4f9b1-e0d5-3362-a962-0da4883093a1 | -10.90695 | -63.88389 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 4a60c298-8905-37b8-ba40-0707edba1475 | -10.90613 | -63.8888 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 1c53c90b-ad0c-3da9-a6a2-6e52273b667b | -10.90564 | -63.86864 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 6a6a30be-ee54-3712-9094-53afa26b2d6e | -10.89868 | -63.88705 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| d1661a08-637f-34f2-93a0-001bf76ee0fb | -10.89789 | -63.89171 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 584cd81e-4770-35b7-86cc-93b71853b826 | -10.89711 | -63.89634 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 53d66b9e-e06d-3f7b-a1f7-2c71ac19d3a6 | -10.89637 | -63.90074 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| ffdbefc2-2969-360e-8d00-202c933b00aa | -10.89561 | -63.90524 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 20.8 |
-| dd4c3673-b324-32c0-b96e-2c996bb95c86 | -10.89495 | -63.88616 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b211653e-8609-3bbb-91f3-b6b17cfe96c0 | -10.89416 | -63.8909 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d7309642-bfd9-3354-9c4a-1c469c9ce875 | -10.89337 | -63.89557 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| e8be530d-381a-34aa-a5d3-07b658cbfc46 | -10.89262 | -63.90003 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 043f83a0-5000-3c4d-b8ac-69933d513ea6 | -10.89185 | -63.90453 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 13.1 |
-| 5a3be8d6-bc58-3b6d-adc2-a8e51b965ae0 | -10.89121 | -63.88541 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 883c5eb4-e46b-325f-8dbe-2b0393d4756a | -10.88885 | -63.89937 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| f2966128-9f55-3539-88d8-392bc8be4270 | -10.8881 | -63.90382 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 13.1 |
-| a36da52a-0450-34fc-b46d-885a06f6ff4c | -10.88506 | -63.89889 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 113fe53b-31d0-3b45-a5cb-f433ee413927 | -10.88125 | -63.89852 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 0adaf3b1-3fa5-3888-843b-bfeef8cf555b | -10.87824 | -63.89341 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 01e7e16b-45e0-3e14-8173-af6af3fecb4a | -10.87446 | -63.89285 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 2e2f2c6e-c443-38ab-b3f1-f37b0708250a | -10.87146 | -63.88776 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| a90437fa-c02c-3cba-83bd-596bbe4354c8 | -10.87068 | -63.89232 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| a3fb9c9d-3859-3b65-bb65-7fe738180650 | -10.8685 | -63.88238 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 56cf23b2-8a07-3084-8f57-f26591163280 | -10.86768 | -63.88719 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| b5627aca-2af3-3468-8d17-f72b698ede13 | -10.85874 | -63.87149 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b46816d0-e45e-34a6-8fa3-30a971e522d0 | -10.85496 | -63.871 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c3c853b7-b8f6-3a19-bc00-9e30540a56ae | -10.85417 | -63.87562 | 2024-10-03 05:16:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 6c59c7a5-4438-30e9-ae3f-f593a38c5e5a | -10.99759 | -63.92285 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 24f1c97f-00b6-3045-a1e2-06dcae97c3ba | -10.99303 | -63.92691 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| ef2b0197-0d48-37d8-87cb-6b54f2aaa801 | -10.99146 | -63.93621 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 07ebd34f-bc1a-34ea-a7da-22ae9a661ea2 | -10.98766 | -63.93574 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 747b2be5-1aa0-32da-9b87-7b61789ee300 | -10.98666 | -63.96457 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 8cf17877-1762-3db8-9d16-929010a166c2 | -10.98613 | -63.94472 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 2e73278d-3ba0-3bcf-b66d-f6fdf65a289d | -10.98534 | -63.94941 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| a9831c33-bd3b-36d5-a009-e80fce05f0b6 | -10.98454 | -63.95414 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 834bbe61-cf6b-30b4-ae01-4aaca2ec66b2 | -10.98215 | -63.96826 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 20527df3-b2cb-3cae-ae7e-82c06920f2f7 | -10.98153 | -63.94901 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 11935cab-bd7a-31ff-845d-9acad023969b | -10.98076 | -63.95354 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 7d5bf06e-df25-3163-a309-d1151eb478f5 | -10.97999 | -63.95805 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 81574594-9a63-3be2-b046-b3b2b1d93583 | -10.97923 | -63.96256 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| dd52314a-14a9-36ee-86c8-34aa163ed4d4 | -11.70017 | -64.26774 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| c2b43636-e3ff-308b-8053-e37f6426eebb | -11.69555 | -64.27183 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0d8a421b-843f-346a-8955-6c7b9c8d33f6 | -11.69175 | -64.27115 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ea8d1354-a015-3d29-8a48-c0336130b3e7 | -11.67602 | -64.24871 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 439c0636-180e-3696-bba7-6578a13e1287 | -11.6752 | -64.25346 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 87993f6e-a23f-3724-8efa-7d56fe20e37f | -11.66763 | -64.18404 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 701e508f-af28-36e9-be6f-ccba6ca2ba9b | -11.66465 | -64.17872 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c94d51dd-1905-3802-8ddc-988d9ccee69e | -11.66385 | -64.1834 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f54bf27e-282e-3905-a5ec-fa8d1c5106fd | -11.65486 | -64.23527 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 471ac25f-ae32-3ed9-bcd2-a7cc309e9491 | -11.64974 | -64.21971 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 0a0dc48a-c03d-3cae-9675-cbaedbed5b99 | -11.64594 | -64.21906 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 118f1372-1326-3607-9511-590a3b77576e | -11.65207 | -64.0249 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| a3bda141-f39c-3a1f-961d-6f56ed759d58 | -11.64904 | -64.01998 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| d7aff6bf-9420-3439-b75e-4eb2bb5a58f4 | -11.64073 | -64.02347 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 81bf3e78-b345-3139-bc32-dc9d592a6d7c | -11.63997 | -64.02799 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 110e9ad3-06c8-36a8-b475-d05cd2219cc4 | -11.63918 | -64.03266 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 99eda710-3bdb-3e85-b26d-7ae438d8a919 | -11.63541 | -64.03207 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| b69d9af8-1ef2-3870-ac58-136b42683d91 | -11.63462 | -64.03674 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 40c23aa0-74d6-36a6-8a79-fc692bc41cc3 | -11.63087 | -64.03609 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 4a0effa3-a5bb-3262-8870-1b010415ee6e | -11.62711 | -64.03545 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 8eeb17c5-3c29-3aa2-ab50-ed085fe13997 | -11.62414 | -64.03016 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0d4617bb-3922-3dec-bb8b-2e1b3f81e147 | -11.62335 | -64.03481 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e4572ef5-6d27-316e-99ad-686814e0d19a | -11.62229 | -63.973 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 4cdd6aed-da9d-3f9f-8f35-ecc4b44897e7 | -11.62168 | -63.95398 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| ebeca246-35cd-3c3e-a27e-7735cc2b46f3 | -11.6215 | -63.97761 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 74f454bd-11a5-3b9e-b7d3-71a26ef20812 | -11.6209 | -63.95856 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3fcf523c-6663-315b-8c28-c61fa10c90ef | -11.62038 | -64.02953 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 1d340798-9d1b-323f-b072-dec569c01a33 | -11.62012 | -63.96314 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 4d3f2cf4-2760-3e06-88e1-7c8f9d747057 | -11.61961 | -63.8315 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 29f525ac-751e-3fd6-86ce-f29f875aaa9c | -11.61855 | -63.97234 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 5310b406-ffc4-34be-b51e-5416f529fbad | -11.61776 | -63.97695 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 94ceccb2-f574-339d-8954-42e14bddda22 | -11.61728 | -63.84506 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 27ebf0a1-de52-3d21-84d7-5a3c38bfab24 | -11.61716 | -63.95792 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 860cf000-a936-37cd-9acc-6d5775184b7d | -11.6169 | -63.67641 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 7bb7db4e-9127-33d9-b985-92b3fc6e07cf | -11.61648 | -63.84974 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 4fec8ee4-0f57-35b4-aa64-9e053829e914 | -11.61617 | -63.68081 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 68b058ee-761c-3974-bbad-81421ad81077 | -11.61613 | -63.67476 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 1c7adf06-72ab-32f5-8023-5f9e217a8223 | -11.61539 | -63.67907 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 38e5bc7a-60df-3d88-b854-5ae89ac87276 | -11.61469 | -64.08575 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b002ff28-5b04-3e26-96e5-6bfcd0a3bc31 | -11.61409 | -64.06649 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 676c3d2f-2f8f-3d8b-b6bd-be3f509ce217 | -11.6133 | -64.07111 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 10bc3115-82d7-3c00-876a-2151688e7589 | -11.61263 | -63.96189 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f5bbae6b-f7ef-37e8-96fa-acb5036c9cad | -11.61255 | -63.7253 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 85eb747e-3650-3811-98a0-13d9ca7c4438 | -11.61251 | -63.68004 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 788ffcc7-ba0e-398a-8e94-e8ae6505991b | -11.61184 | -63.96647 | 2024-10-03 05:16:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 36995355-8e96-39b8-8315-c1fae0939e3c | -21.30454 | -47.60789 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 8179c10e-e32e-3e8f-88a7-3195f91fbff2 | -21.30389 | -47.61469 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 94f14fc2-3134-3f7a-acd1-8e6eda431da1 | -21.30321 | -47.62178 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ac3f9264-cec7-377f-8175-c07dba73d99f | -21.3029 | -47.62502 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 23bcf90a-deae-320b-86c0-6d051aca92a6 | -21.29903 | -47.6078 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 7f7e0f71-bc2d-3610-bafb-116d813a3abe | -21.29872 | -47.6111 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 3532f774-e889-3373-87e6-0c8c8dfaaf0c | -21.29809 | -47.61765 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 33fda35e-073e-3077-9862-6a3aa8f86db7 | -21.29778 | -47.62088 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 57e8175f-e46b-3b17-90db-f0875726f08d | -21.29747 | -47.62417 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 4579ee6d-59d1-37d9-bb38-3cf61860bdc8 | -21.2926 | -47.61739 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| efa7d86c-e3ab-3adb-a2a5-e1218aabb25a | -21.29229 | -47.62061 | 2024-10-04 04:59:00 | NOAA-20 | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| a1c1aa4a-310a-3548-b9d9-846c283b8e43 | -20.80446 | -49.25199 | 2024-10-04 04:59:00 | NOAA-20 | GUAPIAÇU | SÃO PAULO | Brasil | 3517505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| f0e25e6b-304d-38cb-9600-ef9fb09e0dab | -20.63327 | -48.75615 | 2024-10-04 04:59:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 0731f4a5-f38d-367d-bd68-ccfc785e8aff | -21.57362 | -48.48673 | 2024-10-04 04:59:00 | NOAA-20 | MATÃO | SÃO PAULO | Brasil | 3529302 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d08f3595-a247-3f2c-935a-bfe32cd6a9cc | -21.80774 | -48.75723 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 3d8d8304-516c-34b0-866d-1cc6d9fe981c | -21.80742 | -48.76049 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b3ad3c99-71d7-3032-ae60-d4be8bf6f798 | -21.80462 | -48.75988 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 60934cf5-eae9-3a26-a2e5-4506cafb7a92 | -21.80426 | -48.76316 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| e7281335-6c5f-329d-b699-34d37aff2f72 | -21.8022 | -48.78255 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 39c4c63f-c61a-32d2-a8ab-e50c0b759a70 | -21.80006 | -48.78269 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| bf0fdf9c-cd10-39a1-b0a5-6bef51e085a3 | -21.79677 | -48.78506 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 42ec7362-4ab4-33b5-8c56-18bc0fbb7559 | -21.79497 | -48.78206 | 2024-10-04 04:59:00 | NOAA-20 | IBITINGA | SÃO PAULO | Brasil | 3519600 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| dfe046dc-3637-37f1-8c34-1e960e63596a | -21.39514 | -48.88544 | 2024-10-04 04:59:00 | NOAA-20 | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 15a87b8e-121b-3492-bd93-76504158eb29 | -21.39482 | -48.8886 | 2024-10-04 04:59:00 | NOAA-20 | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1fcf2b65-e8df-37c6-9108-eb5d273d97a7 | -21.35027 | -48.88323 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 02ffbcba-f706-3931-a23a-ee1d4736aa46 | -21.34994 | -48.88625 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| bc79a5eb-7771-3843-b8a8-792c38ce5ece | -21.34521 | -48.88277 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 66cefdd1-fb57-312d-b5a6-464efa199274 | -21.3449 | -48.88577 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 9c2cab26-dcea-3e7b-af97-23baebd109cf | -21.33986 | -48.88523 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 80478fc4-c36f-3c52-8ac8-277752f16bf4 | -21.33774 | -48.80906 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 6c37a582-45e4-3b46-b129-b3d992a66561 | -21.333 | -48.80542 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 73ea29e9-2917-3f80-8a41-ff03ef02a404 | -21.33267 | -48.80855 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 10cb6d3e-2f66-3087-868b-43fb55c61dd9 | -21.33234 | -48.8117 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| c697ef3f-99da-3c2f-9cce-ab43d6122afb | -21.33178 | -48.8653 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| c81f46e6-3817-3320-86ca-9fdd432d2099 | -21.33144 | -48.8685 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 698713c6-5e93-3974-be2f-36a27ab7fedc | -21.33076 | -48.87488 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c5f8a6c6-654b-3f5a-b43f-097ce8b8ddca | -21.32761 | -48.80804 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 5f2b3e4a-79cb-3932-a4cc-b597622bc7be | -21.32728 | -48.81116 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 22c36d7a-6b02-3085-a0a3-017a118cf2be | -21.32506 | -48.88054 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 3aa7cf06-f4ad-3a16-a20d-6a21d474be52 | -21.32475 | -48.88355 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 238b7dd5-9c87-3efe-99a2-0037181223f3 | -21.32171 | -48.86403 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 59090248-6153-3c8f-b955-804293d503a6 | -21.31667 | -48.86346 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 368b2239-f01a-3221-8a18-ee49ae382551 | -21.31469 | -48.88229 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 29c5acb0-a706-34f7-a4da-1c4b1910334b | -21.31437 | -48.88527 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 5eb8faeb-44e2-3b3c-901f-bbd491e102eb | -21.31375 | -48.89122 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 6f27ac31-9953-30fd-bf2e-58af1a96359d | -21.31097 | -48.86911 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 3cbc4ee9-fd7f-3859-947c-74b7055cb3fe | -21.31065 | -48.87226 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 2dcebe55-e531-3e1a-896e-c9bcfe12ceba | -21.30966 | -48.88164 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b930030d-5862-362a-9cea-d29a42b24b74 | -21.30935 | -48.88461 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 71a92602-73cf-34b9-a464-a77bf8c217f2 | -21.30904 | -48.88758 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 491b0ec6-81f9-308d-b354-3c74ca8dce4f | -21.30872 | -48.89059 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| fb28ae00-6e39-3e2a-a051-48f222997641 | -21.30369 | -48.89 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| c33e9cba-2847-32a2-85f7-6df8cda756c6 | -21.29897 | -48.88647 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0d798c60-ab35-3b34-b30b-932236639982 | -21.29865 | -48.88955 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 21e716a3-5e18-3263-8084-ff2537a0db60 | -21.29832 | -48.89268 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 13f78876-bd31-3c25-b2a7-a804b8837971 | -21.29393 | -48.88597 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| cc0b1b55-db87-3d57-983c-97c61614b1eb | -21.2936 | -48.88907 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| ac4bcda7-aba8-3caf-b124-9a5174511e08 | -21.29328 | -48.8922 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 5a866c28-bdb3-3d9a-8335-c043d445a6e0 | -22.37754 | -49.04046 | 2024-10-04 04:59:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| cdf3f5df-7172-367d-8c92-2a733bf5bc2e | -22.37722 | -49.04355 | 2024-10-04 04:59:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 41e316a7-fe3e-3f90-b63a-cda0d176e1e2 | -22.37218 | -49.04287 | 2024-10-04 04:59:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 701a4b18-9a66-3cba-a5b2-89d2d200eba6 | -22.37187 | -49.04593 | 2024-10-04 04:59:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 8fc24433-0bd9-307c-9c18-697247c684e8 | -22.37155 | -49.04898 | 2024-10-04 04:59:00 | NOAA-20 | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| a20243e1-c702-3a80-8af0-b4a62999fa22 | -22.34761 | -49.23096 | 2024-10-04 04:59:00 | NOAA-20 | PIRATININGA | SÃO PAULO | Brasil | 3539400 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c8f70578-815c-3bb6-8d8c-d075d9435ed8 | -22.28782 | -49.79559 | 2024-10-04 04:59:00 | NOAA-20 | VERA CRUZ | SÃO PAULO | Brasil | 3556602 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 64b460f3-00d1-3447-a31a-809ec9538515 | -22.23457 | -49.70696 | 2024-10-04 04:59:00 | NOAA-20 | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
+| 5a377e13-383f-3438-8642-a535232488f4 | -22.23418 | -49.70309 | 2024-10-04 04:59:00 | NOAA-20 | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 0c9be99a-b9e5-3160-89f3-9d7f441b872f | -22.2336 | -49.7087 | 2024-10-04 04:59:00 | NOAA-20 | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| ce086452-137a-300e-a1d7-ff888a2da696 | -21.35831 | -48.89677 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 12614296-7b8e-3b85-8731-2254754e341c | -21.354 | -48.89585 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 5e8d7df4-743c-3c6a-b8a9-f6292888b5c9 | -21.35368 | -48.89885 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| dd7abb05-4531-3e7b-acb1-9b0f4a259852 | -21.35336 | -48.90184 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 8016d6e1-cb20-3ff0-a354-44c7b7e449c2 | -21.35327 | -48.89627 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| b9950418-e27c-327c-93a5-c24cc164bf4c | -21.35297 | -48.89928 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 6cc0f1fa-b7ab-3bf1-80f7-005a92aa8e5b | -21.35267 | -48.90229 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 4aec3069-33b2-39a9-a991-15c02068791c | -21.34831 | -48.90137 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| e794426d-e5ee-30aa-b820-344e4de99988 | -21.34798 | -48.90445 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 24d5f98a-a064-37b0-8712-1afb1b32e286 | -21.3436 | -48.89782 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 82c7d81b-3e8a-3f19-ac0e-a4fade71dc38 | -21.34327 | -48.90092 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 0b20b5b8-8ea7-3fca-8976-78a7f769cfa5 | -21.33823 | -48.90047 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| fd4f2473-94bb-38a1-8d73-ce24586208f8 | -21.3379 | -48.90353 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 6cb4db14-b273-3374-b8f5-226ae3feb447 | -21.33208 | -48.91033 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 14c53da9-6ca9-32a7-9f85-bd1f9267c351 | -21.32707 | -48.90967 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 68d37654-8557-31c2-a71e-0db3b634ec0e | -21.31701 | -48.90849 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3bffa6e0-998d-3ca0-9234-a09722081cf3 | -21.31279 | -48.90026 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d58505bf-25b0-379b-bcbd-703a806f4787 | -21.31247 | -48.90334 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 2d52b962-5b4a-391c-b906-4e71a865d4d0 | -21.31198 | -48.90801 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 8c766049-7edf-3ab5-bde7-c77f4cfa2f8b | -21.30808 | -48.89668 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6144bd58-0f52-3a55-bb55-239b3466cc6f | -21.30743 | -48.90294 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| fde7ce20-cc8c-377d-a41e-d7ab0d77d291 | -21.30694 | -48.90757 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 5dea25d2-767a-3d0c-be6e-acd596a31fd4 | -21.3019 | -48.90707 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 3a8bc9ac-44ea-3238-bdf0-a935635f70ad | -21.30128 | -48.91305 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 9ad68196-66f1-342c-b22a-50512e94a4fd | -21.29767 | -48.89889 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 10b7db07-df17-36cd-9a7c-8eef28ae1bc2 | -21.29688 | -48.90648 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| e7de9a31-75e7-3cf2-90fd-37f627752dbe | -21.29626 | -48.91241 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 9f3f5465-4278-36dd-bf75-9499b39e95c6 | -21.29564 | -48.91831 | 2024-10-04 04:59:00 | NOAA-20 | PINDORAMA | SÃO PAULO | Brasil | 3538105 | 35 | 33 | nan | nan | nan | Cerrado | 41.7 |
+| 041cb7da-e549-312e-934a-56c61d5b9ccb | -21.29296 | -48.89532 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 3c31e365-d0f8-32bd-92c0-d6025f2aa42c | -21.29264 | -48.89837 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 39.6 |
+| 115eea01-a0cc-3f23-be13-42ead67ada7d | -21.29233 | -48.90137 | 2024-10-04 04:59:00 | NOAA-20 | SANTA ADÉLIA | SÃO PAULO | Brasil | 3545605 | 35 | 33 | nan | nan | nan | Cerrado | 39.6 |
+| 52a07d9c-413e-320e-ad5d-7b096f9a5568 | -19.65673 | -56.46803 | 2024-10-04 04:59:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README173.md)

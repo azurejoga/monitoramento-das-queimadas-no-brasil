@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7de84684-7051-3ef5-8fc9-a83696047428 | -14.69697 | -48.76105 | 2024-10-03 04:51:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| fb58e651-fd53-38ce-9fd3-4705bad32006 | -14.69647 | -48.7649 | 2024-10-03 04:51:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 2e965420-96d7-349e-ab21-d09136b8e342 | -14.6939 | -48.75177 | 2024-10-03 04:51:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 5e82fbdc-c711-38ba-887e-ee76318fc5f0 | -14.69333 | -48.75618 | 2024-10-03 04:51:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 92e9e7c5-3f5d-3a2a-879f-8aa7dcd570f8 | -14.69283 | -48.76007 | 2024-10-03 04:51:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 3d7ad282-75e5-3b7c-a665-2ddee2884dcd | -14.49945 | -49.28437 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| d38ec1de-f6ec-3cdf-86e8-3e9f85e52387 | -14.49911 | -49.2869 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 23cf00df-a1d2-367a-b3ee-a1ba02d7f58f | -14.49891 | -49.28822 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 34d5c9f3-07d8-37a4-8d14-c53c1f604b50 | -14.49541 | -49.28372 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 6aed6ba5-a472-33c0-8496-c165ddd21066 | -14.49508 | -49.28622 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 528218a3-6d45-3cc3-ad34-ec3ec79a4ca5 | -14.49488 | -49.28752 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 592c92d0-d9fd-3da1-ad26-b6d4e9d353d9 | -14.49139 | -49.28296 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f0203544-2d8a-33f0-8362-8a43441f381b | -14.49087 | -49.28674 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 00314ff1-9fa8-3f32-9727-350898781182 | -14.48684 | -49.28604 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 6fc6c0a3-a2a1-31d6-a3ec-e1e236e0a0ba | -14.48632 | -49.28983 | 2024-10-03 04:51:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 12491062-3983-3169-8974-ceadb81ad5fd | -15.59656 | -48.77758 | 2024-10-03 04:51:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| f902387e-7038-39cd-9bb0-ae33d8c6a10b | -15.59598 | -48.78203 | 2024-10-03 04:51:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 48f61b02-559d-377e-99f0-8c2ac399a02b | -15.59232 | -48.77695 | 2024-10-03 04:51:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 3bd07339-3754-315c-863d-fbfc1da03afb | -15.59173 | -48.78151 | 2024-10-03 04:51:00 | NPP-375D | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 86c60ebd-1c5f-3b03-92a5-df452017a227 | -7.85994 | -49.65414 | 2024-10-03 04:51:00 | NPP-375D | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6466e78c-450b-303a-bf63-accf5dc8091d | -9.1018 | -49.78193 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 3075ebc1-0c46-34e1-bf9f-4303ebf5b9be | -9.03999 | -49.82077 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| c9332f80-48df-3510-b0b1-04b13d487d7d | -9.03744 | -49.81798 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 27b2d7d7-f337-3c84-98d5-b08e49eb6d63 | -9.03695 | -49.81595 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0ff85da7-521d-3a80-aafa-9949731e29b9 | -9.03077 | -49.81263 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8634d154-cc49-325b-bd9c-c93e73bbda8b | -9.02712 | -49.81207 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5bf65283-a936-3589-bde2-218d09acf49d | -9.02648 | -49.81633 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 4d7fa368-3a20-3962-ae76-5d2812c8091f | -9.02346 | -49.81151 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 9a7b49bf-9b76-3396-b869-ba71a884786d | -8.95052 | -49.74797 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f0c4e571-52a0-3699-b6d9-af705f5c777b | -8.92023 | -49.67818 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 5a613977-3f81-3252-a296-1724a42c0eb2 | -8.87623 | -49.64497 | 2024-10-03 04:51:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 3c9dce82-cfa7-3027-9ade-0b4abd3a4074 | -8.85365 | -48.93898 | 2024-10-03 04:51:00 | NPP-375D | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ca5e5042-ee31-3599-aa48-627ebef2a68d | -8.85155 | -48.9405 | 2024-10-03 04:51:00 | NPP-375D | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1f3c6adb-4516-3c95-b9a7-ea73c021633a | -8.75233 | -49.78244 | 2024-10-03 04:51:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 14.9 |
-| 62b6dfeb-59cd-358c-b829-a805fc94f6ce | -8.7517 | -49.7867 | 2024-10-03 04:51:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 0d050c96-39b5-3237-ac12-f576bbfc57b1 | -8.26151 | -49.35014 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 6d6402a7-7237-37bc-914b-2d92a4f1df44 | -8.24894 | -49.38439 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b007f3fa-c6cb-32cf-8fad-ecbeb5794ac7 | -8.24777 | -49.38207 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 34f7990e-b348-30d5-9c3c-a01605a647f5 | -8.24211 | -49.7615 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e2eeda31-2992-3dc0-907f-d12e7adb0c54 | -8.24148 | -49.76573 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c077189f-5fdc-37e3-843b-c03de874e494 | -8.23848 | -49.76096 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cc21884b-46cd-3269-86ce-5de35b29cd9c | -8.23785 | -49.76519 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 50fc02c4-061c-3d0f-97ff-06a4e661be94 | -8.08728 | -49.52863 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e243ecb4-2838-340d-a676-934bea933cfa | -8.08621 | -49.51076 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| d45be6f8-1adc-3483-8202-9f44d9109c17 | -8.0836 | -49.52816 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e7450848-f1db-3476-be09-1286ef50732c | -8.08254 | -49.51022 | 2024-10-03 04:51:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5365de6e-606d-3f34-a331-283c186d8217 | -10.51322 | -49.79322 | 2024-10-03 04:51:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 0b7425bb-4046-3981-90b8-3238d54596a2 | -10.5001 | -50.26069 | 2024-10-03 04:51:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 869df926-9317-3261-8135-0724fd4dd9ef | -9.88654 | -50.13522 | 2024-10-03 04:51:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 17a1a1aa-8fc5-3fdf-9b44-1bb49d4e390f | -9.88592 | -50.13945 | 2024-10-03 04:51:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 796040ae-e7cb-37f5-9499-4cd8db753211 | -9.82382 | -49.60913 | 2024-10-03 04:51:00 | NPP-375D | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 9d77239c-39a6-3d40-9c98-9e81bdf3a6a9 | -9.82152 | -49.60737 | 2024-10-03 04:51:00 | NPP-375D | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| ae3277f7-6868-345e-8bb6-8e5dec6d5395 | -9.62648 | -50.10922 | 2024-10-03 04:51:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| cab5b01e-447d-333c-bac5-f6831f7c8642 | -9.59711 | -50.18194 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 79118b65-ee56-3dab-b796-0f5086481a13 | -9.59649 | -50.18612 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 38d5e9f6-6edc-31bf-b765-66a47a7a6d02 | -9.59587 | -50.19028 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 31972f9d-eb3b-3533-ac5d-c55d2fa28491 | -9.59524 | -50.19445 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 72646681-9e02-393b-85b0-ea604c14e29f | -9.5935 | -50.1814 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 539fdb42-a76e-3bb7-8ccd-c4734e55d0c4 | -9.59288 | -50.18557 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 69f64cd8-67cd-3bde-ba3a-2bb0adcf194a | -9.58565 | -50.18449 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| fdff2bcb-7602-395b-b0c6-33bb24405114 | -9.58503 | -50.18866 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3dc7d8ec-b2dc-3598-8729-9c42cd5eba3f | -9.58204 | -50.18394 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 01091725-c1a9-3439-af9a-85c737f4b667 | -9.58142 | -50.18812 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 74fbd2de-e9b4-3bf5-b9f1-fcb61f93947a | -9.57781 | -50.18757 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f0488fb4-0b21-3660-8e75-6cd7b4c07c4d | -9.5771 | -50.21725 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3bb776fc-2cd4-39d7-9924-29f7c257d6bf | -9.57288 | -50.22086 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 592bfd2b-e456-3e6b-b48c-01a42f7dbd8f | -9.56962 | -50.11784 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f9233227-d50c-3eb6-977e-0af07d49c5b1 | -9.56928 | -50.22031 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 0e0b2be3-87ce-36b6-a9ed-f2540e4a8e10 | -9.5669 | -50.21145 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 00443b81-7358-3f07-aa68-c02120760ead | -9.5633 | -50.21091 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ab7d8080-60b1-3aab-86bd-efba93797562 | -9.55547 | -50.21397 | 2024-10-03 04:51:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4d5bc72d-7d7c-3771-95cf-6a9e731a4a9a | -11.35188 | -50.78695 | 2024-10-03 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 687755d1-98f3-36c7-9745-6325e85f63ac | -11.35066 | -50.79515 | 2024-10-03 04:51:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 8f0f57f5-10e8-3ea8-becf-8f1387811d2e | -12.18695 | -50.08508 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 21c8910a-5034-3ae5-ae49-b429008b86b5 | -12.18028 | -50.05154 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| b4fa7691-5041-3b58-8990-8dcb8c500643 | -12.17588 | -50.05554 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| aee85dfe-1880-3c0b-a651-3419a874d24d | -12.17523 | -50.06009 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 382a62d5-91e9-3cb5-b79d-5ef632532222 | -12.17459 | -50.06464 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d769dd99-6c47-3d16-88a6-78b781a9608a | -12.17408 | -50.45958 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 4237388a-e84b-3375-b5d2-6c01f9f6fa23 | -12.17214 | -50.05498 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 62681645-37e9-3675-8464-9454aa834a5e | -12.17149 | -50.05954 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c46d29f2-8c25-3887-81ac-7c7d05d370c7 | -12.17084 | -50.06408 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 369cd6a6-8a33-3bf5-9b9b-8c541b657ed2 | -12.16977 | -50.46337 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 123d5a65-ece0-31da-a32e-891fc0283a66 | -12.16913 | -50.46771 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 4c906ba4-fa2b-3e63-af49-dccf98cecaed | -12.16774 | -50.05898 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 999c4fbc-bb62-3f28-8947-525283e8b778 | -12.16464 | -50.05386 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 338d9722-541f-3347-9737-8a5c17a6293c | -12.16399 | -50.05842 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 4617fb3e-face-323d-9533-2ba41cd4d456 | -12.16089 | -50.0533 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0c161772-5aea-3205-a954-6d4203363e6f | -12.15715 | -50.05274 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 22e446ce-5f20-3296-864e-5697d69d755e | -12.15404 | -50.04763 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 62ad963c-b15d-3207-ab3b-7ed6e1559f93 | -12.15029 | -50.04707 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 8d534a2f-f3b7-317b-926b-3cecd4e2f5a8 | -12.10072 | -50.0141 | 2024-10-03 04:51:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| de84bb1a-8f62-3256-add7-bba897b83265 | -12.00926 | -50.30726 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 404b7a0d-b998-3adc-9377-f61e899e9fd3 | -11.97586 | -50.18692 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 2c0ac783-c22d-30f3-897f-286436e01353 | -11.97345 | -50.17743 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 69f7a0c2-0af7-3183-98e8-2b69bcf60725 | -11.9728 | -50.1819 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e962678b-fde1-31b9-af09-b407589e54ea | -11.96973 | -50.17688 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 2f61c648-82b9-30a1-8bea-bfbeb6199a12 | -11.95066 | -50.15123 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 08357e97-a20e-3572-9178-4bf95a828c35 | -11.94695 | -50.15068 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 5eb101e3-6542-3805-ba96-a46000532c00 | -11.9463 | -50.15516 | 2024-10-03 04:51:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 5c10cb48-c523-3f27-8bdd-561314431bbd | -15.77414 | -54.20473 | 2024-10-04 04:34:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 9bc4ef9d-d3db-3b1a-86c1-525923e108e7 | -10.38519 | -53.79376 | 2024-10-04 04:34:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c8ed9c3c-d844-3299-81be-9cd3c1654293 | -10.38115 | -53.79299 | 2024-10-04 04:34:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 31e16c03-7922-34f2-aafd-74bb3406c83e | -12.14695 | -54.26526 | 2024-10-04 04:34:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| b2db7799-e2bf-3713-a316-2513f2c78d8f | -11.58861 | -54.48294 | 2024-10-04 04:34:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 032ecc8a-1bfb-370f-84fd-b33ef2f5a26e | -11.58794 | -54.48676 | 2024-10-04 04:34:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 39447215-31f4-3395-b1dc-1c6954113a55 | -11.58447 | -54.48215 | 2024-10-04 04:34:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 7e1d2bf6-b4ab-3e07-94f5-32322882ecd3 | -11.5838 | -54.48598 | 2024-10-04 04:34:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 73d9d525-f233-364d-a3e2-0962a7e6542b | -11.35475 | -55.19339 | 2024-10-04 04:34:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| fef0a358-3eab-3021-aa73-678865b8182a | -11.35039 | -55.19257 | 2024-10-04 04:34:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a1435d73-da14-3fe1-b643-bb0e79e5e0e9 | -11.34963 | -55.19685 | 2024-10-04 04:34:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 96c570fc-9822-35db-ad74-41032bd3521a | -11.10164 | -54.22169 | 2024-10-04 04:34:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f3cd286c-1907-38b2-80c1-f38ea95489b9 | -11.10099 | -54.22546 | 2024-10-04 04:34:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 08014bd6-8943-33ab-acfb-49f42f539be1 | -15.39958 | -55.81756 | 2024-10-04 04:34:00 | NPP-375D | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 95bd796d-3506-3c8e-83ef-fb9e37e98c34 | -16.57249 | -55.92317 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 3141e04a-bf43-3930-828a-da3b98833d70 | -16.57243 | -55.92271 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| a9dfc08a-03f8-3b36-8863-f59ba0ac759b | -16.57212 | -55.94736 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| be6ddeef-83f4-3175-b0b5-8c3490b9404a | -16.56903 | -55.91834 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| c44de0b1-bd9a-3dcc-bf74-99a3f6237c8c | -16.56831 | -55.92231 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 0de82fe8-27fe-397f-a6fb-874e579f28c9 | -16.56825 | -55.92187 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 53cb5c33-d2a8-302e-9f40-e5e7f88455d3 | -16.14047 | -55.91478 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| a9d67283-0975-3f02-bf95-f861846bd205 | -16.13974 | -55.91405 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| a2cf85fa-1398-3a53-90fc-c2d9079a6f09 | -16.13625 | -55.91395 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| cf5ddb2b-a45e-335e-ac42-a38c0edfd026 | -16.13551 | -55.91805 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 233f59ee-58e9-3e48-9e90-8457dc32014e | -15.39575 | -55.85516 | 2024-10-04 04:34:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 63033e5d-a53b-3039-a82f-6f5add2a20f2 | -15.39351 | -55.85122 | 2024-10-04 04:34:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 8b4bca03-26e2-3a39-8982-2e2d18a2868d | -15.39269 | -55.85576 | 2024-10-04 04:34:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| e1ee6d2c-a1c1-395d-b429-f9994c908850 | -16.14322 | -55.91872 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 571f7e7f-b422-3c78-a995-786b8e1390bd | -16.13974 | -55.91878 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| a2875298-88e7-3c8b-a51d-46d5c8d318e3 | -16.13898 | -55.91806 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 470082f4-58de-3ccc-bd66-398c24b125db | -16.13475 | -55.91731 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 1e52c815-96c3-3c04-9f6c-873972c3202c | -16.98021 | -56.15422 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 568bb3ef-7acc-3da4-bb08-70e7b1d761aa | -16.97944 | -56.15827 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 93e4140e-231e-3738-855a-822b25333309 | -16.976 | -56.15335 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 4a2810d1-f7d4-3f86-8935-fcaf0db6e04a | -16.97533 | -56.58174 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 5d69e9a6-3703-338d-b0df-24d5d752c8ca | -16.97179 | -56.15249 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| cea55756-2006-3a0e-94f3-e2906e81ea9b | -16.97102 | -56.15654 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| ae164ba8-718a-3950-b899-3ec35ac5ed87 | -16.96757 | -56.15164 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 19013603-4279-38bf-b471-aa77980df274 | -16.9668 | -56.15569 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 969befad-335c-3b25-805c-db61ab0a4e69 | -16.77603 | -55.76011 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 5a283113-8c0a-3cff-bcfe-954035392591 | -16.76082 | -55.77302 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| d442ad92-be5f-3aef-93df-80e186c797a5 | -16.75741 | -55.76832 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 797b8b55-fe1b-3599-ac69-d2f90a3bbdc9 | -16.75669 | -55.77218 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 52ad82b1-f006-3429-9788-ba56df9d270d | -16.73044 | -55.48472 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 8e851a87-ae67-3190-b21c-1d994c44b28b | -16.72098 | -55.46744 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| ad81514e-d889-3c2f-8539-ae17b484774e | -16.7176 | -55.46297 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 6ac2dfcc-ed44-3a95-a6a8-46cd29e0c1da | -16.71693 | -55.46659 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| cba324cb-63eb-331e-a6e3-bc0c499fb796 | -16.71355 | -55.46214 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| bb96e9d9-0948-37be-af3c-bb558437e66c | -16.71288 | -55.46575 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 8fcff88c-f960-354e-8ffd-b5531b911480 | -16.70951 | -55.46128 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 924493e7-950e-3698-9caa-1501af5208c1 | -16.70884 | -55.46487 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 6355cbb6-5379-32ff-9598-9382a4a53f2f | -16.70481 | -55.46399 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| e0fbac66-6ba7-3c92-bc02-60baf33324e8 | -16.70142 | -55.45953 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| fa0db666-3f4f-390a-ac6e-8843c9ee7b1e | -16.69738 | -55.45869 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 11fd64f6-dd4e-35f5-8f5d-f2f065a3ef08 | -16.69669 | -55.48528 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| a232cddc-8b3a-32a8-b90d-34f3d399dfa0 | -16.69602 | -55.4889 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 4d3d7419-b926-3a51-b29b-af305d786bb9 | -16.69328 | -55.48097 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| b8d43ef4-6ac0-3326-b41b-354e2a3e88d7 | -16.69265 | -55.46156 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 8aad3d75-44f9-31a9-bd84-287378d5a015 | -16.69261 | -55.4846 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 4dd88ec4-84b2-3ea3-8e3e-1cffae7cc11f | -16.69196 | -55.46529 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| d264845d-535b-3fd3-9300-859c637db01c | -16.69126 | -55.46907 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| fbd800d5-ab5b-3ee4-b942-e3bbf97ae966 | -16.6892 | -55.48027 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 30197f56-4136-3edd-9825-12b9dcc53ca4 | -16.68787 | -55.46466 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 201d3acb-871b-3de5-857f-d3e7e3a23382 | -16.68652 | -55.49479 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 56660952-5be0-314f-be63-9c58c22b67d6 | -16.68224 | -55.54086 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 12b527db-357c-3c54-b7b4-a149ed3270cc | -16.67818 | -55.53998 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| c28935d8-0b23-3e62-a507-35699e1cea41 | -16.67412 | -55.53907 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| b24f4827-89d3-3fff-b968-ad7506019953 | -16.67226 | -55.50356 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| a586c4f4-7cdd-3bf5-9b7e-ead94b30b94d | -16.67159 | -55.50718 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 64ffd380-6a6f-3ac2-b064-ba8ef7394175 | -16.67078 | -55.53433 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| e0322a75-92e1-35f2-9d3d-ab911db17c27 | -16.67008 | -55.53811 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| a45c0a4f-7fc5-30ad-b376-c246fc6eadec | -16.6688 | -55.52222 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| 65d67a8b-5f0f-3d81-863d-73eaea6e6a04 | -16.66747 | -55.50665 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| cc6d1191-605f-3e5d-bad7-f165288de967 | -16.66742 | -55.52968 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| d6e7f70a-76c2-387b-81e1-878bb59511ea | -16.66679 | -55.51031 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| f2bf027f-cd5b-3f3b-9e45-d659afa491af | -16.66673 | -55.53339 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 9088aadd-69f1-3a49-9060-4d01c3d86222 | -16.6654 | -55.51783 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| d865e3c0-8464-39a6-92b2-cdac4172e846 | -16.6647 | -55.52156 | 2024-10-04 04:34:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| 46111b2b-b107-3034-9b86-d0cd2bc149a7 | -16.66334 | -55.52888 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| fd36f4ac-5b26-3949-ba12-0e9b36481d4d | -16.69197 | -55.88847 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 6b0a8a05-b072-3a0d-b12a-375a7cb24450 | -16.68855 | -55.88371 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| c57e3405-22bb-33a4-801c-4542f54cb65d | -16.68767 | -55.88453 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| d2225659-12b7-3f3a-8a70-91f6fa387ecd | -16.68513 | -55.87895 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 44c562fb-d65e-367c-8639-c8bc4812340a | -16.68422 | -55.87975 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 13514831-2aee-30ed-932d-11e78837b50e | -16.68266 | -55.91212 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 94bc11dc-74f7-399e-8628-35d9da26f8c2 | -16.67849 | -55.91128 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 1af191d3-0727-3574-b70a-d99ac1dcce91 | -16.67618 | -55.94777 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 8ce592bf-f8c2-38f0-b6fd-7f0f89ad5f04 | -16.66943 | -55.91353 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 8ce8897e-0c20-30a0-b9ea-964b65212659 | -16.66871 | -55.91749 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 36776cb7-5ff3-390b-9238-9e59586d1ff1 | -16.66526 | -55.91269 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| e54c8fab-aa48-3af2-9591-5442197f9579 | -16.66454 | -55.91664 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| d32fa66e-a8ed-33da-9597-7d85c2d2caa9 | -16.66109 | -55.91184 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 91106f90-baa6-3b55-be4e-5bad04fed3dc | -16.65619 | -55.91493 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 38d67c12-03fa-3c12-9a6c-996191e9d6cf | -16.65547 | -55.91889 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 5cf7a5e8-0867-32a3-b31b-52f75c96dca5 | -16.63878 | -55.91552 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 037c6e69-411b-3b6b-bb73-fe17154b6853 | -16.6346 | -55.91467 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 2de2cf86-27c5-39ab-aa15-137562f0d79c | -16.63043 | -55.91382 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| dd714c52-6b49-318c-85ce-187b0c812577 | -16.6297 | -55.91779 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 20246080-34f6-3923-9e34-2c3b793a2a8f | -16.62626 | -55.91298 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 54010f6f-686d-3200-b625-b534d1b9aafb | -16.62552 | -55.91694 | 2024-10-04 04:34:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
 
 
 [Clique aqui para ver as próximas entradas](README126.md)

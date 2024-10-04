@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a2fbb5e8-49e5-3239-af31-bbc4c790c681 | -3.85934 | -52.25904 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 475ef73d-adc0-3e0e-b44f-d83a6db425b4 | -3.77435 | -52.19256 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| e7fb8a98-8596-3700-beac-e3799ed7dc4f | -3.75167 | -52.25655 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 9264fc0f-c135-3f24-93e7-bc7a544aa6ad | -4.09785 | -51.11593 | 2024-10-03 05:14:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| bf2c4637-9691-322a-8063-14e3e74a15f4 | -4.09708 | -51.12101 | 2024-10-03 05:14:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| e39a66cb-5340-3ef2-b3e1-b381e307baf1 | -4.09241 | -51.12024 | 2024-10-03 05:14:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 3ca25737-88bf-3abc-8d94-9a3eef04e212 | -3.95554 | -50.89228 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 52329335-e59d-37a7-ad4f-c30dc2416ffd | -3.95434 | -50.89539 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4caf26c7-f7ed-3252-81fb-aa1a656132c3 | -3.95349 | -51.00587 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 48ff8c60-32b5-3348-9c1e-144ec402d476 | -3.95275 | -51.01097 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 459283a6-6420-3743-9662-60acea3641f7 | -3.94952 | -51.00011 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5a897743-154f-312c-a313-fab309ecd33a | -3.94879 | -51.00513 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f514899a-5a5f-39b1-9558-22bf7f32d224 | -3.94687 | -51.24507 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| fb86b5d9-5976-3b23-a6ea-6949053312cc | -3.94224 | -51.24435 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 4b4f0caf-0ca3-3558-ba1e-71a7f2d96357 | -3.75296 | -51.13206 | 2024-10-03 05:14:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4cee0801-d6c1-3c54-9b47-56cf72e7a271 | -6.38752 | -52.70408 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cd6f9a64-96ad-301b-a628-4508c29ef4b9 | -6.38317 | -52.70343 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| eec2cb34-ad3b-33d6-a00f-a8d2fbf9b3a7 | -6.38258 | -52.70758 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8e402f19-ac09-3a55-abd4-c65f7e25ed1c | -6.37823 | -52.70697 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e62331c3-3255-34dd-9124-535e20450f63 | -6.32094 | -52.75527 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 55ff7566-9cd2-39c5-bb9a-aeb966fd25f1 | -6.32035 | -52.75931 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b9a33f24-aeca-363d-980b-3945b8f26928 | -6.47742 | -51.50663 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| c6c8829b-4648-3c93-b8e9-eff87be1fd51 | -1.65815 | -52.58615 | 2024-10-03 05:14:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| e81023bb-3aef-3bcf-9d6f-448dfd9c9e99 | -1.35072 | -52.30626 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ee7fdccb-b97e-38a5-8916-ff582f5fe283 | -3.29732 | -53.70014 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| fd260f07-e4a3-311b-9058-dead8202f907 | -3.29681 | -53.69882 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f06cd022-a6e8-308f-b7e5-4048b903fe30 | -3.29605 | -53.70369 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 68d3e03f-bf8f-33b7-82ef-e04b3593f79b | -3.29292 | -53.69823 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0486a0c1-87f8-3a10-8dcf-c84586efb60c | -3.29216 | -53.7031 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0d9e4678-adc1-3ee5-9dbb-8fc6b4113b8f | -2.85393 | -53.31698 | 2024-10-03 05:14:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a5f957e3-7f6d-3ab6-b67e-d1d51101a423 | -2.84997 | -53.31638 | 2024-10-03 05:14:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| fb78e67b-b3fc-3c82-b247-e914e0785a0a | -3.76607 | -52.33733 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5f0fbb7d-3990-3408-8b0b-47c40bc3d9c3 | -3.76547 | -52.34136 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 20173140-d8f8-3b34-800e-17f46acb1347 | -3.76179 | -52.33666 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 5fb734f5-8c28-3bed-ab1c-f03b312efef1 | -3.76119 | -52.34068 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1d6fc1a6-4f14-3e5e-b53a-9779030ea869 | -3.75969 | -52.2619 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 97f6dc98-94e1-3aa3-8e3a-3f345d782154 | -3.75897 | -52.41418 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8501b92f-d34d-3aef-b097-334c6cae000c | -3.75535 | -52.26146 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1c468c49-0f5f-315e-9c0a-7794ec0eff92 | -3.75475 | -52.26552 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f0dcf686-81b8-3d59-a235-e0629f09dee8 | -3.75471 | -52.41355 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 06038956-7607-3ccd-be65-b4ee24412f51 | -3.75105 | -52.26078 | 2024-10-03 05:14:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 6a703963-59fd-308c-a00f-6aad2ab275d7 | -6.40523 | -53.68076 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 656cf277-a6c8-32fc-b290-6ae8e21f8e06 | -6.24473 | -53.33318 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9ce2cb1f-6202-3cad-8da4-2a6f4416bd16 | -6.23642 | -53.33192 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7912e0cd-1454-3372-8c3b-e9c36b5353b5 | -6.23226 | -53.33128 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| dddc81c7-9614-3a35-8dd8-4b9f4775c6b6 | -6.23172 | -53.33502 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 21cc8295-12df-3b23-ac05-af210dabf1de | -6.19291 | -53.28025 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 9ca47f79-a3a3-3e40-8c1e-b71ebb466051 | -6.19235 | -53.28411 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| f2fe93ab-30dc-3479-a93b-398e6073509e | -6.10122 | -53.2276 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| bf1ad244-2870-326f-834e-385397aeaf50 | -6.07062 | -52.87197 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e87c0db0-bc13-354f-bc6a-3e4c31e57550 | -6.07012 | -52.87543 | 2024-10-03 05:14:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 7746388c-2d24-3d6a-a6db-8bcd6c59ab8a | -5.87698 | -53.88728 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 91f283da-a646-322b-b654-a7c0e0697617 | -5.8743 | -53.89122 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 700609c4-b657-3926-8f50-dcbfbcc3c00d | -5.87249 | -53.89014 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9c49705e-0247-37fb-8688-8f8a9235517b | -5.85009 | -53.55664 | 2024-10-03 05:14:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 49e2e5da-4262-3599-a5fb-fd1a38d258d6 | -1.89766 | -54.70757 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 409514f4-45d0-37b3-abc6-0f2ded3cf083 | -1.76179 | -54.4491 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2d6e04bc-147c-3250-9eaf-2c4055b910c6 | -1.75814 | -54.44855 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 5093683b-e666-336b-9142-e7c2651ad913 | -1.75748 | -54.45279 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 87e15043-55c7-3949-a45a-fbcdf0673995 | -1.75449 | -54.448 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 647b4c44-4be1-317e-ae1f-1eca63d62506 | -1.75383 | -54.45223 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0d745479-7e97-39cc-9900-eff1e53e61a3 | -1.75084 | -54.44742 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 11a40af1-9a9f-3f6e-b2c7-42dae185c447 | -1.75018 | -54.45166 | 2024-10-03 05:14:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4a53bd5c-50b4-3eed-b0d8-6b518009dccd | -2.14143 | -53.65283 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| eec03e08-40c4-3110-8428-5270622d8c4f | -2.13759 | -53.6522 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 316e5c6a-0482-3d2a-9dd9-f138db6555eb | -1.1412 | -53.64076 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| b0b61f81-3ca8-39bb-87ad-39471213671f | -1.14067 | -53.64219 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 3b19169f-dfa7-320d-9032-51de556e1a2d | -1.14049 | -53.64524 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c31427c1-bf63-3ca6-85ff-1c015230a9f6 | -1.13817 | -53.63539 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 59bffc20-474b-3fa4-b386-d4667da8999d | -1.13746 | -53.63992 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 7a419c2c-0f4a-35d7-bcaa-0a16a5b28d7f | -1.13673 | -53.64448 | 2024-10-03 05:14:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| e92cdfae-bd09-399f-97f6-0dba401564e4 | -1.1344 | -53.63471 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 54b85b7c-561c-346a-bd9a-b34b58b017be | -1.13368 | -53.63929 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 8a55f49c-93f3-325b-bbfa-49c0296204db | -1.12989 | -53.6387 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0aed2ed3-d981-30e2-bf85-e4ce3beb1ea1 | -1.05041 | -53.52852 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 2591e1b7-c480-3422-b35c-d62208c14ed3 | -1.05 | -53.52643 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| f1164609-f9d8-3f17-a7b7-51620a32fe51 | -1.04968 | -53.53313 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 901824e7-401d-3376-a4b4-924d47afc140 | -1.0493 | -53.53105 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| f405fcda-ec65-3492-88c8-09b6e8bf2873 | -1.04733 | -53.52331 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 169c2cdc-f4f5-3437-9c30-53884cabf5ac | -1.04661 | -53.52789 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 5b2a20a5-d5b5-3729-b0b8-504339d8eac4 | -1.04588 | -53.5325 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 62caeee3-f5fa-3463-bb67-aa222aafbc05 | -1.04427 | -53.51803 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a2b25854-bb3d-382c-b278-119162ac5eb4 | -1.04353 | -53.52266 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 204bdf0d-c18e-3832-9f33-192b19f46f51 | -1.04281 | -53.52725 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 00ad5ffe-d85f-3d51-8c58-664aa03c8313 | -1.04208 | -53.53189 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 5f58ca23-09d7-3f9e-8520-aa22dd46c55f | -1.04121 | -53.5127 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| f0a78ac9-ebc7-3429-b31b-d0db0bed0479 | -1.04047 | -53.51735 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 87ec1bc2-0b3d-32d2-a202-f78fb895f864 | -1.03974 | -53.52198 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 1f51612d-cfcf-3b19-9d12-f5cecc6de2d3 | -1.0374 | -53.51207 | 2024-10-03 05:14:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| b6dbe7e6-8c15-3427-be88-9dbd2ad97c65 | -3.5077 | -54.03068 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| a1e8ff81-403b-3aae-b4a4-4a6aa58e15c3 | -3.50387 | -54.03012 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| c5b78c9b-236e-367a-89af-815368d68d90 | -3.46161 | -53.98277 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| d2dd9aa6-a92d-322c-9735-126d37def40e | -3.46088 | -53.98748 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 5ee43bea-6d50-3376-90ee-57e573e4980c | -3.45777 | -53.98223 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 2eb13181-0c8f-3720-821e-50a974a61237 | -3.45705 | -53.98692 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 22d9c8c7-a2ee-35e1-9c3b-f83b9a3cf386 | -3.45393 | -53.98171 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 62045251-7c3f-31ec-8f81-ddd90908e06e | -3.45321 | -53.98636 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 303b8641-2f07-3417-b09a-ede844dc6291 | -3.45009 | -53.98116 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| bbe67091-e551-3756-ae1a-0bc50ec8e71b | -3.3791 | -54.11397 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4d776d11-9083-350c-87da-1e988200b7d9 | -3.37838 | -54.1187 | 2024-10-03 05:14:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f8b64165-86fe-350b-9cf2-cb7b76063492 | -17.59977 | -46.97843 | 2024-10-04 04:57:00 | NOAA-20 | GUARDA-MOR | MINAS GERAIS | Brasil | 3128600 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| d648097e-eb2f-3d3b-853a-ecd2dd7d1080 | -16.93443 | -47.12854 | 2024-10-04 04:57:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 17ea99e1-2950-3ed1-be92-57f3a73d79e8 | -16.93403 | -47.13211 | 2024-10-04 04:57:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 1e8ea066-f9c9-3fc3-8aaa-8172032db4d1 | -16.93363 | -47.13565 | 2024-10-04 04:57:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 4be6c819-657b-3b4d-9693-c18b06722901 | -16.93324 | -47.13921 | 2024-10-04 04:57:00 | NOAA-20 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 36810e15-9282-3db4-ac8d-91cc2f4c4f79 | -10.9085 | -46.30976 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 248a5d16-81e0-308f-b4f7-24656f0adf78 | -10.90886 | -46.30688 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 237baf25-0a6c-3499-945b-2b3944d39426 | -11.98108 | -47.36776 | 2024-10-04 04:57:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 28413773-e07f-3cb4-8d54-c3b1dc378436 | -11.78946 | -47.57405 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| efd5ca0f-7207-376c-9f2d-eafabb3aab88 | -11.72911 | -47.69772 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 14.1 |
+| b14cfcb7-ae53-3f10-affa-dae3cf358b52 | -11.72842 | -47.70304 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 3bab546e-5e86-39c4-b6da-e672bd9bfbea | -11.7243 | -47.69725 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| df076f9a-619f-3b15-b2bc-8550c911d052 | -11.72366 | -47.70218 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 198f60b0-f35e-3f35-9860-c683a7b5b16c | -14.79875 | -48.09774 | 2024-10-04 04:57:00 | NOAA-20 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| a23b0bc7-df1f-38b5-a357-e116574c1f0a | -11.71951 | -47.69664 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| e6eb291a-a84b-3986-a186-7e7d30199252 | -11.7189 | -47.70137 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 16a74b37-2e3f-36b0-a871-f8aca263f8e6 | -11.71474 | -47.69585 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 0ec11caf-b06c-3fb4-83fc-59fcb4d31aed | -11.71414 | -47.70053 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| ebb0f359-a100-34da-b0b2-448a1f02a071 | -11.71377 | -47.74089 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 8a8f2e7a-5e11-331c-90ef-702ad38d3b2b | -11.70872 | -47.70472 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 8911fa3d-c7c4-3992-9108-e2ebd473acc9 | -11.70111 | -47.68822 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 9f05f1e5-f475-3363-8f0a-3f862cd6dbc6 | -11.70025 | -47.69494 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 857dccb4-b729-3def-9ddf-2390c3746a50 | -11.69627 | -47.68796 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| b0f689e2-7763-3129-acb2-1e55a94a7952 | -11.67677 | -47.68894 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 29c26eb0-a392-3fbc-9c6a-f30a6ea8244d | -11.67646 | -47.69053 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| bc3889f8-b1af-3733-8e09-48cd52298e78 | -11.67402 | -47.70972 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| d5531364-7a39-3de0-8193-71d13ddf7977 | -11.67358 | -47.71278 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 2456735b-5592-30f4-81a1-5b2a35058a9f | -11.67173 | -47.68942 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 57b3a77c-df39-3b68-8498-e7af4d429516 | -11.67132 | -47.69326 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 2ed60cef-9514-354b-a80d-cd928a8cb138 | -11.67104 | -47.69482 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 0da7bbad-ca23-3a47-82fc-2daf0f83d640 | -11.66883 | -47.7119 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 58fba4c0-49b3-314d-b060-e0335d9e7e1c | -11.66634 | -47.69352 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| a0887a28-c171-36ae-baf9-92f6269cda6e | -11.66593 | -47.69714 | 2024-10-04 04:57:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 0c26b6da-e37e-3bb5-a5d2-b746f44448f3 | -11.38865 | -47.21321 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 891df29a-31fb-3e44-9389-a2f6c4394475 | -11.28452 | -46.91948 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 0ccc06b0-8246-3b80-8248-5c9ef21cb5b7 | -11.22256 | -46.96342 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 8d92b1fe-024b-3232-bb62-95686d976193 | -11.22194 | -46.61254 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 11a0c460-f672-3bba-b43a-7b54db880911 | -11.22155 | -46.61558 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d1d7e30e-cb16-3bc6-80fc-3231281c57e6 | -11.20377 | -46.91264 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d9afa084-cc03-387e-b6b0-1097cb96ce43 | -11.20338 | -46.9156 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 757306a3-3ac1-3c6c-abb2-759e65e7f433 | -11.19877 | -46.91179 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d01a9cbb-0617-307c-813d-443a9a3202d5 | -11.1143 | -46.49679 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 8b013bd2-c5cb-3a7d-a175-c5b4a92504aa | -11.10914 | -46.49617 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 7831fd93-2e77-3e72-82c4-167df7d017bc | -11.10402 | -46.49519 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| a0a12979-c30e-31e6-81a1-0de37ca0784b | -11.09885 | -46.49464 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 54827d3e-deb4-3dd3-a78e-037141b724e2 | -11.0985 | -46.4974 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 11f3bbc9-ebc4-39e4-b160-5b0ea69d058d | -11.09512 | -46.5243 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 183fa797-9564-375e-a622-933b44849fcc | -11.09025 | -46.5214 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 43b26d06-4eae-3a96-ba7b-3d87b731f1bf | -11.08992 | -46.52405 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 27a30ebd-5337-3f6d-903e-41617725b75e | -11.08959 | -46.52666 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 9991397b-b038-3195-89a8-3e9a4464a6ce | -11.08851 | -46.53524 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 22f2b45d-d5ea-3fe2-bcfe-072da437b791 | -11.08445 | -46.526 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 9229b4ac-e00e-3cad-bad0-df593c917de0 | -11.08219 | -46.52423 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ba63ee88-b632-3d61-8638-0a1fd13aa563 | -11.08183 | -46.52694 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5e53f8ad-b86b-3e63-ac5e-d0bf6a92f05f | -11.08106 | -46.53271 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b8683d2d-e57c-301e-a3a7-63112992fe10 | -11.07862 | -46.5308 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| dd975404-8446-3770-b8ae-11c63e37473c | -11.07824 | -46.53384 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 57e2bba6-79cc-3226-b862-0c9687170ca5 | -11.07778 | -46.51797 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| b9b5ba70-1448-3090-a5e4-f20708649295 | -11.07745 | -46.52051 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 91ff82a0-36d3-3604-89f9-7678ec44d38b | -11.07491 | -46.51869 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 02d195e9-b59c-3adb-9990-e3102680d54a | -11.06978 | -46.51788 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 922fadb0-d7d8-3368-a20e-0fbac493acff | -11.06528 | -46.53353 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ff368a71-9a9d-3bf9-8b69-863e94de2c95 | -11.06015 | -46.53281 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c424706b-8ca4-3167-a3c9-2ba2377c00a2 | -11.05502 | -46.53209 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e2209944-a3da-36e6-b29a-aba18a143086 | -10.91181 | -46.6118 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 12a72533-b4df-3614-a596-42713fa35704 | -10.91142 | -46.61478 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| d3dacff9-75cc-33ee-abd7-d33fd991a071 | -10.88951 | -46.62391 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a8869694-f100-3ab0-81af-e0f971b52d5e | -11.38372 | -47.21259 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 974c6b6f-6f85-3969-b6e1-7602fd69c85d | -11.37879 | -47.21196 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 0f1db620-0254-347b-815d-c656cc317c93 | -11.37806 | -47.21755 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| ce5b99c5-29cc-3c03-8865-b040fe519777 | -11.29221 | -46.93895 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ce9e9b84-5d21-38e4-a47e-ad77e1aa2623 | -11.28952 | -46.92031 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 2671e289-e8ff-312b-9796-17d4d873de79 | -11.28835 | -46.9294 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 32cafee6-1cd8-32d0-a0df-7d40e38ea9dc | -11.28337 | -46.92845 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a4472060-ad55-3275-9409-905bd256b241 | -11.22178 | -46.9693 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 64f2589b-3c0f-37c0-9ace-e009fa36c157 | -11.20915 | -46.91051 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b6864522-d6cf-370c-ab05-7d6804f6a7c1 | -11.19838 | -46.91478 | 2024-10-04 04:57:00 | NOAA-20 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 5674dc42-6323-3527-b75b-ffa59144f862 | -11.11466 | -46.4939 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 4e164cf6-f1b0-3d2c-8945-4f7a3db48c26 | -11.11395 | -46.4995 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| a184ef48-2237-3846-a147-d16b921a5db9 | -11.10949 | -46.49337 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| a7f930db-15a7-3c19-9148-3c17d852e2a5 | -11.1088 | -46.4988 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 67f3595e-998b-3bb5-abbb-9638c899ae22 | -11.10437 | -46.49244 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| d52bab07-4654-33d3-8964-ea43cbd8a886 | -11.10368 | -46.49788 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 5f953a5a-b20a-3010-8411-c104d8cd2e5d | -11.09548 | -46.52143 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 9bf752fb-df0f-31af-bd94-4bc0d53792da | -11.09477 | -46.52708 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| c201ecf3-16a4-3606-bb5a-5ff125474728 | -11.09441 | -46.52994 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 2b39f11b-030c-36ab-a92e-94994684aca3 | -11.09366 | -46.49426 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b939719c-8ff4-362d-b802-cb43031ad64b | -11.0933 | -46.49715 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c9a95eb9-b19d-31af-95e9-66508a36f5e6 | -11.0851 | -46.52079 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 41fd7548-d986-3862-bd02-a3ee43732ec8 | -11.08477 | -46.5234 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8c157031-bb46-3dc0-8a8b-6431c8a7e044 | -11.08375 | -46.53155 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| eb0cb770-548b-3121-89f9-113fb3d2e430 | -11.08337 | -46.53456 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 6bf740a1-216e-327c-87f1-84a2818ef2f9 | -11.083 | -46.53758 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 18.3 |
+| dc21206d-977c-3330-9397-c3e3f63b065d | -11.08288 | -46.51896 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 85379f3d-c0a4-3fa2-b2e5-e1166832e880 | -11.08254 | -46.52157 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 0f7f5194-4ae1-376a-b187-9620201fd8b3 | -11.08146 | -46.52974 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 574f0544-f3b1-3095-8220-65177d4971e5 | -11.08066 | -46.53575 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| af9842f2-cfc1-391d-a7e7-20a5980c1804 | -11.07969 | -46.52228 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| edad3e0d-551e-30eb-814e-9f3e8f542e56 | -11.07899 | -46.52785 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 0f832f44-8829-34d7-a093-fc11dcfc8547 | -11.07634 | -46.52895 | 2024-10-04 04:57:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
 
 
 [Clique aqui para ver as próximas entradas](README152.md)

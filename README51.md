@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f991ea18-6e3f-332d-b2a1-664e73c90b68 | -9.16216 | -59.37078 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 19.0 |
-| 5b34f6ce-ef72-3be6-8dda-0030449eb6f1 | -9.16098 | -59.36514 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 4c1d60e0-d12c-3aa0-8e6c-c660a6e57adc | -9.46867 | -58.97932 | 2024-10-03 02:09:00 | TERRA_M-M | COTRIGUAÇU | MATO GROSSO | Brasil | 5103379 | 51 | 33 | nan | nan | nan | Amazônia | 16.0 |
-| ec7d380c-a988-3678-9a58-3a50f22739f2 | -9.46537 | -58.97429 | 2024-10-03 02:09:00 | TERRA_M-M | COTRIGUAÇU | MATO GROSSO | Brasil | 5103379 | 51 | 33 | nan | nan | nan | Amazônia | 15.9 |
-| 4da371d3-a148-3beb-adee-6ee81c7f4090 | -10.70036 | -58.56851 | 2024-10-03 02:09:00 | TERRA_M-M | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | 19.8 |
-| 7b014c03-dfc2-34fe-8956-deb1d844d086 | -10.69679 | -58.54698 | 2024-10-03 02:09:00 | TERRA_M-M | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | 17.9 |
-| 0aba60cc-ab24-35ab-8aa5-64f8d2ed757e | -9.93312 | -59.92304 | 2024-10-03 02:09:00 | TERRA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| 373a6103-357e-32dd-a349-64769b165b36 | -9.90987 | -60.08582 | 2024-10-03 02:09:00 | TERRA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 53.9 |
-| c20e8cf5-50c4-3e30-b4d1-fececc4132a5 | -9.90438 | -60.09328 | 2024-10-03 02:09:00 | TERRA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 57.9 |
-| 1a1f174d-619a-312c-9a0b-62543023c24d | -9.90177 | -60.07637 | 2024-10-03 02:09:00 | TERRA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 14.8 |
-| 8c5c51f5-6fc1-39de-8d54-0c0615baa5ac | -9.39632 | -61.05986 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 22.7 |
-| 3680e248-e784-363b-9661-a20d75603652 | -9.39408 | -61.0451 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 20.0 |
-| 8ad35203-2d31-3cb0-982a-b700a10c3112 | -9.38518 | -61.06168 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 30.2 |
-| 100bce91-e8a0-3e38-85be-21bdbbd6aaa6 | -9.38292 | -61.04688 | 2024-10-03 02:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 26.2 |
-| 787d9792-e84d-3e69-b95b-2f3f75170c93 | -10.37727 | -61.21367 | 2024-10-03 02:09:00 | TERRA_M-M | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 14.4 |
-| d32ecbdb-5f6f-3e98-850b-1948102c9156 | -7.90488 | -61.47509 | 2024-10-03 02:09:00 | TERRA_M-M | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 68a2f0c4-f628-3b18-8aac-a68325dcbaac | -9.17062 | -61.68606 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| 68a14830-9bc2-3ff5-8a4b-2e5983e38a5b | -9.16857 | -61.67271 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 100.4 |
-| d1d5259b-63e6-30f8-8b76-f02b182be12d | -9.16651 | -61.65928 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 8e165fe6-5a53-367c-99cd-3189e6e8c157 | -9.15791 | -61.67447 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 52a330e5-3ccc-348b-b3f0-fcf4489bf763 | -8.89065 | -62.3387 | 2024-10-03 02:09:00 | TERRA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 46.2 |
-| 37f2d455-9ed4-3834-a81d-fc370ca4b966 | -8.88043 | -62.34028 | 2024-10-03 02:09:00 | TERRA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 15.6 |
-| 0af642b5-4865-3315-b591-7d6c1d18c2a8 | -8.87064 | -61.8524 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 35359ece-0ca9-3932-9286-2f30a24c21a9 | -8.56516 | -62.48749 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| e08794c2-4be6-356a-9731-57dbee86459a | -8.17902 | -61.37799 | 2024-10-03 02:09:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| b3627606-6bdf-3c56-8a4d-1f0b0894a142 | -8.17877 | -61.38374 | 2024-10-03 02:09:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| dea30fcf-7e29-3daf-9600-00c98546c2a7 | -8.17661 | -61.36916 | 2024-10-03 02:09:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 3f5f3e51-5339-3993-a3f0-de3cf7fa37dc | -8.8888 | -62.32655 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 16.5 |
-| 22febf75-1e9e-3241-80fc-dbc221be9a9c | -8.555 | -62.48906 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| c846ade2-30e6-3015-866d-2a0f2aac372c | -9.43979 | -62.10352 | 2024-10-03 02:09:00 | TERRA_M-M | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 946dc8ad-f170-3ed5-9784-86ef516514ca | -10.03634 | -62.46113 | 2024-10-03 02:09:00 | TERRA_M-M | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 883a6bf5-b6e8-313e-a3ec-9812476d78a1 | -10.64314 | -62.81919 | 2024-10-03 02:09:00 | TERRA_M-M | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| cff67680-30ee-3519-9ad1-6dd4737715fa | -11.34162 | -63.04513 | 2024-10-03 02:09:00 | TERRA_M-M | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 03bfc1ba-458a-30cf-9b39-fe127761a157 | -11.31064 | -62.07874 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA BRASILÂNDIA D'OESTE | RONDÔNIA | Brasil | 1100148 | 11 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| d6f5db2a-d19b-3252-8b37-ea5b18d77010 | -2.88225 | -61.87421 | 2024-10-03 02:09:00 | TERRA_M-M | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 17.0 |
-| 16020538-ab40-3037-96a6-168e6dc16c5a | -7.58871 | -63.36243 | 2024-10-03 02:09:00 | TERRA_M-M | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| d56eb6b7-2ce2-37e3-ba4a-d1f7002549ae | -7.03536 | -63.08308 | 2024-10-03 02:09:00 | TERRA_M-M | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| e16c77e3-2d10-3e17-a3d4-06f002147a27 | -6.85683 | -62.91346 | 2024-10-03 02:09:00 | TERRA_M-M | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| d4a60a3e-c58e-3378-80f3-f1d1c511a1ac | -8.96482 | -63.61701 | 2024-10-03 02:09:00 | TERRA_M-M | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 13.2 |
-| c2573cd2-758e-3902-9dfe-3785584fe3f0 | -8.96335 | -63.60681 | 2024-10-03 02:09:00 | TERRA_M-M | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 14.5 |
-| f5ace7d2-77a5-3619-a490-d6ab35a6f19e | -8.38725 | -63.35142 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 60a7dd06-5674-3d44-a9b3-17e11a329758 | -8.62213 | -63.29256 | 2024-10-03 02:09:00 | TERRA_M-M | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 16a24853-eb7b-3e3d-be3e-88e62d28b65f | -8.59855 | -63.13054 | 2024-10-03 02:09:00 | TERRA_M-M | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 16d6f064-8b3b-31d0-9e88-9015853371c8 | -8.45883 | -62.66704 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 27.2 |
-| 0d506e2a-c2b8-3091-a5b5-9dd1f9ed4b1d | -8.45825 | -62.66143 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 32.1 |
-| 039bbe82-90fd-31f5-ab2f-36e4f57b9813 | -8.39845 | -63.36058 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| ebd0ff4b-90ac-3d84-8851-91788d2496e2 | -8.38883 | -63.36207 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 13.6 |
-| 29ee936f-b153-35ad-b076-375f9bc209fe | -9.19762 | -63.44764 | 2024-10-03 02:09:00 | TERRA_M-M | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 13.7 |
-| dbe66964-a33b-3e4c-8ece-cf6b405bd74e | -8.95393 | -63.60824 | 2024-10-03 02:09:00 | TERRA_M-M | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 54129d43-2040-3ca8-b99e-13d2696358fc | -8.46711 | -62.6538 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 13.8 |
-| 77444933-6158-38f6-a9ac-10956b13bd7c | -8.45995 | -62.67315 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 1184cc5e-25f6-343d-8103-837426543f30 | -8.45706 | -62.65535 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 6dc8b68c-e5d0-3201-b06d-21d18e4debc7 | -9.96278 | -63.00649 | 2024-10-03 02:09:00 | TERRA_M-M | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| a3fe5347-78f0-3b0d-bd89-5d9721eaed9c | -9.96122 | -62.99584 | 2024-10-03 02:09:00 | TERRA_M-M | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| 03218449-d217-3a8a-a0b1-d20f8432d318 | -9.78358 | -63.93567 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 91643206-b88d-3a64-ba9c-dff60f3c1589 | -9.77438 | -63.93703 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 12.1 |
-| 47c4f44c-8064-3334-b932-94f52892e926 | -9.76077 | -64.28737 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 12.3 |
-| fd0fd284-8177-3a24-b704-00d176758b6a | -9.75305 | -64.29815 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| 42568b5b-6237-309d-a3c3-1b3c58248b6f | -9.72673 | -64.24432 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| e85a86f6-48e3-3af3-b902-2d44445b60d6 | -9.71763 | -64.24563 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 09f50e5a-d60f-39d4-86af-06f8321959b9 | -9.71627 | -64.23623 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 41.8 |
-| 1704d91a-b78d-30cd-ac0c-86e12fd62e34 | -9.54633 | -63.14968 | 2024-10-03 02:09:00 | TERRA_M-M | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 25.4 |
-| d0c3d246-9282-33ac-a6ce-e1c64bb99ce4 | -9.5435 | -63.15591 | 2024-10-03 02:09:00 | TERRA_M-M | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| f7aae7a1-6cf6-3ffb-825b-0da224b7f047 | -9.51224 | -62.92331 | 2024-10-03 02:09:00 | TERRA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 11.0 |
-| 47d1a173-18d7-3405-8f4d-bf90005e8a6c | -9.51066 | -62.92937 | 2024-10-03 02:09:00 | TERRA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 12.5 |
-| a67d294b-843e-33b6-af34-b1927dadc6fc | -10.615 | -64.52265 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| a1321361-f8bf-3b07-9797-c672ea31e232 | -10.61368 | -64.51344 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 266c7bce-e3f3-3b68-bd00-8d0a1964199c | -10.56643 | -64.50806 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 6d57f207-fdbb-3856-8c54-71bd25c01ba7 | -10.56514 | -64.49892 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 4d06fb22-7f16-3cde-acd0-d42c289b80e6 | -10.55485 | -64.49095 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| cd35f26b-1a59-3673-a3e0-785b23ce0327 | -10.55355 | -64.48176 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 5ab4eaa5-a9da-34ff-b5ad-a0acdf89e88e | -10.1118 | -64.4207 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| dac7b9c3-47c7-3482-9491-8a27c1697b54 | -9.7758 | -63.94675 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 20.0 |
-| d9cf31a9-90af-30fb-b273-a38e1533e325 | -9.76212 | -64.29679 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 21.3 |
-| 775fc30f-7938-3134-9559-d123795f9405 | -9.7517 | -64.28873 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| a0eefb11-b7db-3c9f-8e36-33b5921d99b3 | -9.73652 | -63.98877 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 28.6 |
-| 745dc0bc-91f5-364d-b9c4-9c79243bcb47 | -9.73513 | -63.97906 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 16.9 |
-| fb10633a-4af2-3113-9bfd-868250bdf4fb | -9.72536 | -64.23486 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 26.9 |
-| 30beb341-31da-3e30-88e2-df90f99065df | -9.7149 | -64.22684 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 15.8 |
-| f816439a-d349-325f-a274-c5efe58a56f5 | -9.54195 | -63.14522 | 2024-10-03 02:09:00 | TERRA_M-M | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 41954b50-4a56-3caa-943a-f379ec52683a | -9.52338 | -63.61363 | 2024-10-03 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 3a0aa7c2-b985-3f23-802c-e55d15d18266 | -10.7016 | -64.16202 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 5c8953b3-59b1-33f0-aca1-ed8b25bd47eb | -10.70026 | -64.15265 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 23.9 |
-| ecdb39bf-415e-39f8-8edc-3f599fb329dd | -10.69892 | -64.14319 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 3bc4d571-4864-35f5-a07f-817537085484 | -10.6912 | -64.1539 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| 5d6cf985-175b-3733-afda-efdc58b68522 | -10.63291 | -64.51993 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 17216362-4194-342b-aa7c-836d1f8c6d5a | -10.62396 | -64.52136 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 8.5 |
-| c930a6a4-fa9a-3696-b13f-7b8269f1fb0c | -10.62265 | -64.51214 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| fd9b63e1-35ca-37ad-a7fb-c50c9b043f46 | -10.62183 | -64.05828 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| afdabad5-2528-3772-bec6-39ed1dd90673 | -10.61275 | -64.05966 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 18.7 |
-| 305fe912-2955-3548-a4f7-be492034fd5a | -10.61135 | -64.05007 | 2024-10-03 02:09:00 | TERRA_M-M | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 15.1 |
-| 797c8833-2a0c-39cb-833c-4c03970e13bd | -10.57885 | -64.01215 | 2024-10-03 02:09:00 | TERRA_M-M | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| fd13cdcc-27fc-3e44-b96c-7f6f9b3f3554 | -10.5775 | -64.00272 | 2024-10-03 02:09:00 | TERRA_M-M | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| cffe9d67-2eb8-3503-ba61-c46728f75faf | -10.36784 | -64.08549 | 2024-10-03 02:09:00 | TERRA_M-M | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 491f40c5-5865-3b40-af2d-1671a9593355 | -11.6215 | -63.82906 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 12.5 |
-| 74bf5818-527f-3e42-8292-93d5ecfbb4de | -11.61516 | -63.84933 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 7237e819-65a6-34a3-bd0f-6d12779d1c18 | -11.60627 | -63.72413 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| 60632d47-88a8-3753-a60f-cdd8a159b8d9 | -11.60486 | -63.71443 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 6ef31fc8-0578-3285-a2e9-b2bd3f1c7936 | -11.58448 | -63.7665 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| c18f519b-2f34-3831-872b-fd2c37cf3d25 | -11.55887 | -63.77636 | 2024-10-03 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| f2b1a05a-ddcf-3f88-b8f6-ec145dcc9406 | -17.91535 | -43.43884 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 050103ac-544c-3a0c-af79-70854bf7043a | -17.91477 | -43.43785 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| dc3c1550-0c0a-37b4-a67a-d9e3b165a8e3 | -17.91441 | -43.4431 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 9e4b52a9-eaf2-3f67-bacb-872d09900d92 | -17.9138 | -43.44214 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| c587d28c-920f-32b8-84e2-da2ef1614c15 | -17.91348 | -43.44731 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| fb9c7d00-1180-3835-ad69-deeb6c2d1f8f | -17.91284 | -43.44634 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 25f21914-baa8-3036-aaaf-6e577147f2dc | -17.91254 | -43.45158 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4381cb66-ca1a-3e19-9b38-78b54560ae63 | -17.91187 | -43.45061 | 2024-10-04 03:17:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 9e751f7d-d723-393a-a839-085b44e2fb1c | -17.74319 | -43.81689 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| b9814c50-e2d0-39e2-82da-419da26bc2a7 | -17.74184 | -43.82306 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 19.4 |
+| 601db1c2-fa6a-3b12-9887-1aa89316fe09 | -17.74051 | -43.81337 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 22.0 |
+| 7188db01-f0fb-3fd5-bb92-2f8e3aa56d27 | -17.73907 | -43.81968 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 21.1 |
+| eaabf2ea-4345-3706-81f2-d551adb29411 | -17.73824 | -43.80948 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| c3e730f6-2824-3fe7-935f-b9a5b821ae1b | -17.73774 | -43.82558 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 21.1 |
+| 1cfb7aa4-401b-3c2c-9e42-e6da45fbfe42 | -17.73693 | -43.81544 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| a13c39b7-bbbc-3873-b9ea-c79c169c40f5 | -17.73559 | -43.82153 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 19.4 |
+| ccdfa508-6e5a-3026-9261-20784373cacf | -17.73558 | -43.80606 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 635b54a4-2dd4-3003-8f74-08f42fe3bfc8 | -17.73432 | -43.81161 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| f1e3c9cb-f5f8-35f0-b3cf-10734932b3c5 | -17.73295 | -43.81764 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| bc2ada69-e4a4-3722-96ef-1f8a87b82a38 | -17.7321 | -43.80747 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| cb212113-0d20-3856-a9bc-82510fdf8988 | -17.73086 | -43.81311 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| ef7eafbf-c464-3850-b3a4-0f8231b61e2a | -17.6922 | -43.77978 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 1017cd0b-83a1-386d-9d77-0cab8e2ed4af | -17.69098 | -43.7852 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| d32fbb54-b199-34d7-9426-459532565b1f | -17.24309 | -43.188 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| f5eb8b08-471b-3ee2-8575-ecc0f7955923 | -17.24272 | -43.21853 | 2024-10-04 03:17:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 07635aea-e31a-3d15-9a26-db693c081783 | -19.28212 | -43.78009 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 878bfa2a-18cb-3569-9dab-d3cc73f3f3f4 | -19.28148 | -43.78316 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 14e0b301-960f-3d85-828a-19a93158e3de | -19.28107 | -43.78485 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| cd9c6904-9c1f-30a1-bcd4-03f74beabca0 | -19.28001 | -43.78962 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2b73a9d2-c33f-3de0-bdc9-9730ae286eab | -19.27929 | -43.79272 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 277bba5b-7888-3e3c-895a-d2a6e957944d | -19.27825 | -43.76876 | 2024-10-04 03:17:00 | NOAA-20 | JABOTICATUBAS | MINAS GERAIS | Brasil | 3134608 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 38c90114-9b76-3908-a639-e992d756377c | -19.27761 | -43.77214 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| a0961317-cc32-3de5-aed2-e295ab08f6c4 | -19.27712 | -43.77383 | 2024-10-04 03:17:00 | NOAA-20 | BALDIM | MINAS GERAIS | Brasil | 3105004 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0aae79af-d9f1-30d3-8ca8-6593fe7b57e0 | -19.24984 | -43.37841 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3fdc07eb-370c-3f08-9f76-1345ed93db25 | -19.24885 | -43.3829 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 5acff2f0-3f22-3f37-b06e-dd5e0f40c8a0 | -19.24781 | -43.38761 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 17783321-235b-3911-8611-5740b062cd9c | -19.24198 | -43.36853 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| f30ce7d7-f8a4-3d06-a218-77e072befe89 | -19.23906 | -43.37069 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 75f447b6-64ee-30a5-aa5e-8bf6fdce834a | -19.23718 | -43.37915 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 7f5c2232-3e6c-35e4-9cf7-ecd5fb64ba9d | -19.23598 | -43.3846 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ce6cae76-74ce-39d9-9b28-6453468881cf | -19.23586 | -43.36799 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 2e8d0c23-084a-3b8e-9382-e09b3d43e42e | -19.23487 | -43.37233 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 511f469d-b0b4-3450-87d5-73c63f54a8fe | -19.23389 | -43.37659 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| c1286ecf-b7c3-316f-8df2-00bd0a588b65 | -19.23285 | -43.38116 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 43918811-9312-353b-85f7-af79e67f4136 | -19.23182 | -43.38567 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| ddfc9de4-b8d6-3939-af2e-51f321e1388d | -19.22998 | -43.38349 | 2024-10-04 03:17:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 52a5fc52-6538-36d4-b355-86bdd4e4002e | -19.06018 | -44.44373 | 2024-10-04 03:17:00 | NOAA-20 | CURVELO | MINAS GERAIS | Brasil | 3120904 | 31 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 5bc1b396-2c36-3b79-9f08-1ddfd5b95188 | -19.05894 | -44.44912 | 2024-10-04 03:17:00 | NOAA-20 | CURVELO | MINAS GERAIS | Brasil | 3120904 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 17d8294e-1df8-36e6-972f-7fc23e314880 | -18.98448 | -43.2854 | 2024-10-04 03:17:00 | NOAA-20 | DOM JOAQUIM | MINAS GERAIS | Brasil | 3122603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 1ee5479b-60eb-3ec1-92dc-4dc31f278f0e | -18.8795 | -43.46571 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 885466fc-2805-3f5d-a3d4-19224f9e2d43 | -18.86293 | -43.59924 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| 6c87807f-cd5d-379e-97c7-02d236e71fb7 | -18.86283 | -43.57185 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 5ff4a13e-3101-3bd7-9fb5-edf229a3bfc6 | -18.86221 | -43.60075 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
+| d2dca512-410d-3eb9-9c3a-9544783de5d5 | -18.86202 | -43.57293 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| c0722c80-7ab9-39a1-966b-39432e010fab | -18.86201 | -43.57543 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| bed58f87-3eea-3359-97f4-bdca0c6a1e2b | -18.86122 | -43.57655 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 3a47dcbe-7a43-346b-8a0e-e6c9069de02f | -18.85821 | -43.59201 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 1b31debc-b072-3415-a172-dc151c343cb2 | -18.85749 | -43.59331 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| dfbcc160-ed22-3b6d-93e5-6a8735205be5 | -18.85715 | -43.59663 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
+| 9832aaa6-5f7a-3900-ba8d-aa3242ae3562 | -18.85655 | -43.569 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 0f6de312-41b8-3631-9f4b-998270c08e29 | -18.85649 | -43.57172 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| b24833e3-5e50-311d-90f9-227a5bada95d | -18.85642 | -43.59808 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
+| cc49f60e-a891-39ef-8e33-0d4d151d196a | -18.85598 | -43.60175 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
+| 86260d65-2bee-3475-8833-93cdcbd39b5d | -18.85567 | -43.57292 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| e9f45081-17f4-37a2-a2a4-9e31a040aaa2 | -18.85528 | -43.60323 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
+| cd922e18-8b40-31f4-a721-197446dccc5e | -18.85483 | -43.57669 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 2c3f2b93-3bdf-3d6d-8d45-77adef27d59e | -18.85458 | -43.60783 | 2024-10-04 03:17:00 | NOAA-20 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.4 |
+| 042a3935-050e-30ff-9ee1-85c391378a19 | -18.85398 | -43.58047 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| d9c09d3a-ad63-3c6c-9bfe-a79af5e29dbf | -18.85388 | -43.58309 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| cc1c5804-fea7-34e1-a8dd-998bcf1e0875 | -18.85381 | -43.60988 | 2024-10-04 03:17:00 | NOAA-20 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
+| 325e4dc2-84bb-33d0-b8b7-7de871f9df85 | -18.34537 | -44.01686 | 2024-10-04 03:17:00 | NOAA-20 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 39edc5d8-2354-38a8-bf1d-7ced6f19eb48 | -18.85314 | -43.58427 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 0252b583-1502-3cc1-b4ce-6c812ce9a40f | -18.85299 | -43.58694 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| b1c75642-02f7-36d5-a7cf-2c80941623dc | -18.85298 | -43.6148 | 2024-10-04 03:17:00 | NOAA-20 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.4 |
+| 815da11d-3e0f-3655-98c5-cfd8d5b4de72 | -18.85228 | -43.61679 | 2024-10-04 03:17:00 | NOAA-20 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.9 |
+| 2010f66f-6a6e-3438-9198-9ac88357b265 | -18.85226 | -43.58817 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 35f2cb87-8bc0-3323-88a2-735fc79e690d | -18.85205 | -43.59105 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| fb5d9f13-4e8b-3970-b90e-29c5109def06 | -18.85133 | -43.59235 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 63787bb9-9a6d-3bd0-8326-ed6436fdc0a0 | -18.85106 | -43.59534 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
+| dcf156f9-2354-3fc3-a1ce-cb7207bb6a12 | -18.85035 | -43.59675 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| 85f21f3b-389c-3eb5-b21f-80fe48513aa1 | -18.84994 | -43.60025 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
+| bdee4cf9-0d17-39b0-a722-9e6383044313 | -18.84928 | -43.57306 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 42238687-9120-35b4-951a-6dfd08d9c944 | -18.84923 | -43.60179 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| c6914189-6e0b-36ba-a55d-4b1ffad1203c | -18.84843 | -43.57685 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| d9653d45-c349-3fc5-8a47-2c86bf7c578c | -18.8476 | -43.58057 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 3cffd196-00e9-343d-b80c-ade072ee63d4 | -18.84679 | -43.58418 | 2024-10-04 03:17:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 875f5369-2684-3f6f-b2a4-aaba609674d9 | -18.58716 | -43.96711 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 73201a9d-2471-34db-9ce1-947423e8215e | -18.58441 | -43.96207 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 622e4de7-5941-38f2-8eb6-9a969e7c5339 | -18.58286 | -43.96909 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 6fcbee1d-9c06-3892-b379-4c54108668c4 | -18.58263 | -43.95828 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 31901049-7df7-353c-a4d0-c2f7d5f728e1 | -18.58133 | -43.97599 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 303802e9-5f9c-3620-8898-e1a5e813f174 | -18.58106 | -43.96515 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 0abe3d0b-3dc4-333a-b852-290035c13011 | -18.5795 | -43.97195 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 628fcc8e-75a5-3a58-81da-2a85dc198624 | -18.56548 | -43.84246 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 1bc58072-f2dc-3e46-8dae-d90e58fa820b | -18.56442 | -43.84719 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 5e83dfe1-d3bf-30d8-8648-17b2fc357937 | -18.55943 | -43.84045 | 2024-10-04 03:17:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 994919ec-65b8-3624-b6ad-329143656599 | -18.48856 | -43.87656 | 2024-10-04 03:17:00 | NOAA-20 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| efc6a9ee-f9db-3afd-8a2b-0fa0ce46dd2f | -18.34868 | -44.01777 | 2024-10-04 03:17:00 | NOAA-20 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| db33d684-40cd-3340-a579-64f08fbafed9 | -18.34713 | -44.02476 | 2024-10-04 03:17:00 | NOAA-20 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 4637f32f-546b-3d32-a0e7-c9cc976bc9c2 | -18.34386 | -44.02342 | 2024-10-04 03:17:00 | NOAA-20 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 8.7 |
 
 
 [Clique aqui para ver as próximas entradas](README52.md)
