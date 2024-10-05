@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b8d097e6-8b0d-3669-beb6-97cc9e7180c3 | -21.83743 | -48.38404 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| fac2a4b8-de83-3757-ac87-e8be4cd1d7ab | -21.83684 | -48.38837 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 24.5 |
-| 388f72c4-46f5-30be-a912-40ef02770fe1 | -21.83623 | -48.39277 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 24.5 |
-| d5dd0fd6-22d5-3b7e-b289-f5a22d019720 | -21.83563 | -48.39713 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 23.1 |
-| 742f7706-0744-308e-b009-38bba0cfce5d | -21.83504 | -48.40145 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 23.1 |
-| b71a4235-296b-36d4-bd31-235154d1718d | -21.83444 | -48.3792 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 91841d60-db95-3bdf-a91e-df977cea51dd | -21.83385 | -48.38352 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f9125acd-ea87-36ad-88bd-2fea17f61ccd | -21.83325 | -48.38786 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 5d9a3dc2-7a75-352d-b156-2380472d019f | -21.83265 | -48.39222 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 106aab35-f54b-34c8-998e-f8389cdb8950 | -21.83206 | -48.39657 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 64890170-de11-3c48-b904-79bd4c1c973e | -21.83086 | -48.37864 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 1d665f13-c130-3abd-9904-24f2c5a63b21 | -21.82907 | -48.39169 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 090159d9-34df-30a0-9bcb-39eb47fc3017 | -21.82848 | -48.39602 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| f88d718f-9765-3861-b266-d780ab8ad098 | -21.82789 | -48.4003 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 0c9b1a3a-7a2f-37c1-a8a1-8637123c36ed | -21.82788 | -48.37373 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 9f9b411e-d5f1-3cfc-a9e8-2281c8c974b9 | -21.8243 | -48.37318 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 15f1dab8-5d69-389a-9c97-859a17d59822 | -21.82072 | -48.37262 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| baf359ff-37e5-33c8-b224-ed620e9811f3 | -21.81301 | -48.40228 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| bcdacf20-aa91-316f-aee3-fe018d49d69a | -21.81086 | -48.40382 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| d0a9f2af-1c27-3dc8-a858-88f08baf9422 | -21.81056 | -48.36661 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| b5a80d63-e8ab-337c-a573-016fe27b3957 | -21.8097 | -48.38614 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 1e9a3b7c-0fee-38a4-b4cd-9259d392c137 | -21.80943 | -48.40174 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 589433aa-1f48-3c63-86f3-4574b4f326f1 | -21.8091 | -48.39041 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 24476f77-a955-35ba-99a9-0dc59d9f2cb7 | -21.80857 | -48.36823 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 92dfb629-52f3-33dc-b1f2-f2d38b62c8b1 | -21.8082 | -48.38403 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 7bbd8f69-ed9e-367b-9d82-0e106585a85a | -21.80761 | -48.38832 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 2292d794-4bb0-395b-81b7-1fb835dc61c2 | -21.80728 | -48.40331 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 5d144925-9efc-33d0-ab19-70fee09a5039 | -21.80613 | -48.38558 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 2d675597-fbea-3406-aaf3-ca7f7541fdfc | -21.80561 | -48.3633 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| aebd0ddd-b204-3010-b42c-3deda68f6510 | -21.80552 | -48.38986 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 339bf2ce-51f2-3a7c-a47d-1e9057fa4ce1 | -21.80499 | -48.36768 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 4cf17725-bc1d-3667-ba89-9cb17ca706aa | -21.80437 | -48.37206 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| b8960f76-e064-391d-b422-5da150287d6b | -21.80195 | -48.38928 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| bc968d61-b796-3312-a47a-217e56e1be05 | -21.8008 | -48.3715 | 2024-10-04 04:36:00 | NPP-375D | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 19cf9c57-38b5-3b48-9aac-769cf389128d | -21.79958 | -48.38012 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 83fb812d-8436-394e-b84b-d36039285952 | -21.79898 | -48.3844 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| f07d44c6-075e-37b6-9caf-baf2cb7d3a26 | -21.79777 | -48.393 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| c7acec83-0e32-3884-806c-4d11c1639d57 | -21.79661 | -48.37525 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e27f96b3-ed1d-35aa-bd4c-2767dbb44ea2 | -21.79601 | -48.37954 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b8710fc6-4366-3d45-ac7a-3ab7c0396233 | -21.79541 | -48.38382 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| bb8efaa2-56c1-3a09-8d65-85d67bbb78a7 | -21.79481 | -48.38811 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 3045b1fa-d5e5-3a47-a69e-807952238305 | -21.7942 | -48.39244 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| a8da924f-cc98-3c8e-be3b-3333b2bfe8bb | -21.79243 | -48.37899 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 5afcc1d0-77df-37d0-aa7a-b976f83a1a16 | -21.79183 | -48.38327 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| fa54eb0f-7fe3-3f3a-9fd3-eb4dbab04407 | -21.79123 | -48.38755 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 969773ce-983c-381b-9ac0-0ff02f458f73 | -21.79062 | -48.39187 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f325ae01-4e5d-31e8-b0ae-3e1e181f4aec | -21.79001 | -48.39621 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e84becf1-db60-3377-9c4b-464c00e63ee4 | -21.78885 | -48.37844 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| a849ff28-836f-3caf-9fbc-8bf5bcf57281 | -21.78825 | -48.38272 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 16c64cf2-0eae-3a80-9562-25ecf11cefba | -21.78765 | -48.387 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 0815830b-d788-3dfc-8765-ea8bdf959956 | -21.78705 | -48.39131 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 40df285b-a9e1-3f56-a643-ae131b72c00a | -21.78467 | -48.38218 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| f69814bd-daba-3c84-a495-c04726d9d641 | -21.78407 | -48.38646 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 127e9f8d-857c-3b35-9b56-141fecbd496e | -21.78347 | -48.39076 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 7dde109e-07ce-3063-b1a1-f3374cb337c7 | -21.78287 | -48.39507 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| c758d38f-5def-37cc-8589-ceb0ec185111 | -21.78169 | -48.37736 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| fcbdbea9-f6b2-321c-ab87-cc9ff883fc9d | -21.78109 | -48.38164 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| c7adc551-e575-315b-908b-4a23dfac3bed | -21.78049 | -48.38592 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 1bfa3b45-3c2c-31ef-a704-e0bf27ba2402 | -21.77989 | -48.39021 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| ddd1e4ff-f4b3-368a-bf0a-68d6d220684d | -21.77929 | -48.3945 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 48329592-03f7-3f6f-a450-beb424f52a1b | -21.77811 | -48.3768 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 7e8dc565-7d77-3ca8-bba1-36fdf5e5697f | -21.77752 | -48.38108 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e43786ab-9754-331d-b312-4f07d8be77a9 | -21.77692 | -48.38536 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| f3a459ad-01b2-3c87-9d9c-91697a80a0cf | -21.77632 | -48.38965 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 889dd66a-85bf-3b8f-b8ca-d39d4241e31d | -21.77572 | -48.39395 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 599bfb41-7da8-3751-a3ac-146bbb44668e | -21.77334 | -48.38478 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e1d5f6aa-21e8-361d-a55b-a204074e32f5 | -21.77275 | -48.38907 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 80f88e87-914f-3b76-a12b-d3df84a75f05 | -21.77214 | -48.39338 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 4adc8ba4-6b08-3c38-95e1-e5373d24e8df | -21.85829 | -48.41826 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4f76c5b0-aa6b-36ce-8154-2cc469aa9c3d | -21.85472 | -48.41766 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b5d103a1-b6ff-3c0c-8326-a60a58ba4c48 | -21.85055 | -48.42139 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ec966024-97f1-349f-b909-40f104434495 | -21.84995 | -48.42567 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 075134c9-e7bd-35b8-b147-ad0ec78ee2c8 | -21.84936 | -48.42997 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| c927ee2d-2982-30ed-ad77-fea578e686a1 | -21.84816 | -48.4386 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 08e24f4d-a291-3aa5-b2ed-10f96639626c | -21.84756 | -48.4429 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| d7e5c488-c468-340a-bbe6-8a4492003a5e | -21.84698 | -48.42081 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 61825c53-8ba2-3756-bd11-d3e46114d144 | -21.84697 | -48.44721 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| aab79663-ff77-3a60-974d-05bc1607fd77 | -21.84638 | -48.4251 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 700d80c9-3605-38e9-9274-cfa16cfc2ae1 | -21.84579 | -48.4294 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 0222e1c6-9896-3e36-89f8-da5030ae1317 | -21.84519 | -48.43372 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0cf06d67-7951-3492-a7db-d3d5642e138d | -21.84459 | -48.43805 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 945b06dc-e4f8-3b8a-82a8-cbcb9b6ec7db | -21.84399 | -48.44237 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| c539c403-b6d7-399d-986d-4b66a074cbba | -21.84339 | -48.44668 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| ab3471eb-338c-35c2-ad9e-ad25d4c39d9b | -21.84281 | -48.42452 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 1d66286d-c9d6-38c3-9a7a-3c54f20e66f3 | -21.84222 | -48.42883 | 2024-10-04 04:36:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| c23df57d-3192-3efe-83ca-b42b45e0a97d | -21.83981 | -48.44621 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 7f42200b-006f-3898-bd0c-375648e1147b | -21.83922 | -48.45047 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| aad10ef4-3a2a-3649-ae07-eaa4b8286fa1 | -21.83864 | -48.42826 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 21ecc46b-353d-37ff-abdc-3ef5071bec03 | -21.83507 | -48.42773 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 53cef2fa-6ea1-3cae-af53-c2e211d1973c | -21.83506 | -48.4542 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 81b14688-0864-3f74-a733-5bae58991989 | -21.83149 | -48.45367 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 5b11094e-1575-3992-a69e-87699c8c049b | -21.83089 | -48.45798 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 33a965f4-c981-3387-aa7f-68b1b8744976 | -21.82732 | -48.45744 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 7bc9593b-f656-3a4b-a5d1-e28b6556c462 | -21.82376 | -48.45688 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 3d9ad3b8-0dad-3374-b992-c15eb7ff46b7 | -21.82078 | -48.45202 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 30eb4a49-9fd2-3bbc-95f8-28903ef0aed0 | -21.80353 | -48.44495 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 8b3a250d-c07d-36d4-9b15-9a40dc10e2a0 | -21.80179 | -48.44212 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 7b22df34-b25a-3db0-acfc-daba95d8f855 | -21.80119 | -48.44641 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| c6e111cc-14bb-37cc-b057-728751b4a2b4 | -21.79996 | -48.44439 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 410781da-3fe9-3424-b30f-09d4a7b3642c | -21.79762 | -48.44585 | 2024-10-04 04:36:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 2815b231-6a04-32be-9e44-091cd880bb36 | -7.13838 | -59.30165 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5a3c36e5-5cfc-3256-b0f5-fbc18fadc02c | -7.13709 | -59.31562 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 20018fd0-735d-3320-b618-17a6ad6e133b | -7.13657 | -59.31393 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b3d7eeab-3dc0-31bd-a1b4-93ecf74a1623 | -7.13602 | -59.29876 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 20da9eb2-17f3-37c5-84e3-5d05eb5d94c3 | -7.13597 | -59.31798 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 100f6645-ebc5-32aa-8d13-1316f7be1032 | -7.13541 | -59.29701 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| f054e5fe-feb4-33bb-ae22-75fcd6398116 | -7.1354 | -59.30285 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| f6e723ad-ec2d-3185-a82c-0e25f445abb2 | -7.13481 | -59.3011 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| ed6fb6ec-9c5b-3464-a874-2c1d7d4f6cd0 | -7.13058 | -59.31047 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| a9d6fcd1-8399-3282-a9cb-eb6e261c00b3 | -7.06709 | -59.27152 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8bdfaa79-86a1-3ccf-b037-88ed19b60a24 | -7.06352 | -59.27095 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| e4b9d1a6-404c-3248-9250-126a435e4244 | -7.06282 | -59.30012 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e18d55b7-ba39-39ca-9f39-184c27824962 | -7.06055 | -59.26633 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 51c04d0e-9c7e-3798-8261-3ffad98e3034 | -7.05995 | -59.27042 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 828d53d3-4c80-3cf2-9c61-5da8841aeb7b | -7.05926 | -59.29957 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0a53cfc0-65d5-3450-9805-00fc6f522ff3 | -7.05865 | -59.30365 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e051ab40-b6a6-3d36-86bf-8992132399df | -7.05638 | -59.26986 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e105220e-df79-3b2a-901a-70d4d44b61cc | -7.05569 | -59.29903 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 81a46cea-a433-3855-8706-2c5f9c8ad875 | -7.05508 | -59.30311 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| c6ae6132-63ba-33a1-beb2-c40089327317 | -7.0541 | -59.23592 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3508f05d-d27d-39b6-9ecd-bd0d3a5cb5ee | -7.05052 | -59.23537 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b18d617a-f568-312e-bc73-6b310e0b84d4 | -7.04735 | -59.30608 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 4502f50c-b78e-324f-9d91-3558e6633448 | -7.02285 | -59.39772 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 452bc1d9-79fc-3d8b-8efe-182490e1a3c6 | -7.02225 | -59.40173 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c070f7d5-a5f8-3caa-9735-00f2e3e06cf2 | -7.02166 | -59.40575 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| c7df8b47-d3e1-304a-9c58-b8d0e17d055d | -7.02094 | -59.36502 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a708892f-583b-3f03-bf3a-bd72ed32c293 | -7.02053 | -59.36431 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cdc20967-ea45-3c53-87a4-b181a60fc6e4 | -7.0193 | -59.39717 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c33f1e46-1871-3230-9a83-683c8b00f51c | -7.0187 | -59.40118 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 81c5db45-af74-384f-9954-1f30f3d1e944 | -7.01811 | -59.40521 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5fb39e7a-37df-3b33-8a76-c2656bc9d7e3 | -7.01785 | -59.38521 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5cc292c2-ef0f-353b-ae69-ac282cf72d75 | -7.01754 | -59.38453 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8729012e-7a42-325b-b475-562248a813ba | -7.01739 | -59.36446 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| d984e2dd-6a83-3c12-8ac2-aef814e4846d | -7.01697 | -59.36375 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5011205b-cc11-343b-9635-eb3eb52da4d9 | -7.01694 | -59.38858 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 236c77cd-5d5d-35c2-8749-a3b9f673bc73 | -7.01538 | -59.40129 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| b19441d7-9621-3df1-8c89-813c74d5a282 | -7.01516 | -59.40065 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9212ef75-6cea-3a5b-be81-0585c0561f80 | -7.01492 | -59.38061 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 9248ba08-0988-3189-8f68-3f7a7978166c | -7.01459 | -59.37992 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c66de7cb-6db8-3823-a591-9f5c67d40fdc | -7.01456 | -59.40466 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d576ea5a-2170-3e1c-90cc-b17cb9acde79 | -7.0143 | -59.38467 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a5ca4918-f332-3c6e-936e-61ba23461bca | -7.01399 | -59.38399 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 21d36f27-ad24-3ac9-b05f-36134ae972e3 | -7.01368 | -59.38871 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0dba6d2a-d14c-329a-8b3c-bfce2c8bb047 | -7.01339 | -59.38804 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 6f5dfee2-ac2c-3c41-a5cf-92f87d42d3b1 | -7.01184 | -59.40074 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| d5292875-5527-3df7-9bc6-bb2bbb2f5fe6 | -7.01161 | -59.4001 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3896dc8b-2cb2-3583-9694-1dabb907e905 | -7.01137 | -59.38007 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3c714962-bce3-3978-845f-5369abaea073 | -7.01075 | -59.38412 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 76f0f43f-c741-3565-8348-6a9e2448af7f | -7.00782 | -59.37953 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9acf14ca-623d-3498-b7c1-35d13ccf04e1 | -7.0072 | -59.38358 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d7d6d8f0-5c46-3216-abc7-3c598d9b0b1e | -7.00658 | -59.38761 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 53114317-dabe-3b04-b530-e212370f7684 | -6.95302 | -59.89025 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ba9a2a30-71a0-387d-8c5f-e164ff451067 | -6.95245 | -59.8941 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| e67324c1-2a47-371e-b5fe-bbaf16f7c9de | -6.91715 | -59.45204 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 42e0832f-0b4e-3a35-bb14-7dd89e6346c3 | -6.91421 | -59.44748 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 185357d0-aba6-3d7f-8c76-bc68283bea45 | -6.91361 | -59.45148 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b5d9a93c-def4-329a-8c7c-8237a71923ab | -6.87804 | -59.92606 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 625e1dff-6d7a-3cda-aefd-84c809d045f5 | -6.79256 | -59.36589 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d1b624f4-9f21-3667-a865-847b52fa4ccf | -6.78962 | -59.36137 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d4c6be37-d764-36aa-808b-34d373cfbb69 | -6.78901 | -59.36539 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 4d586e1a-c9db-346f-afab-5d6a2bfa584a | -6.71078 | -60.10283 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 71b46465-96c6-3681-9675-3de520ebc383 | -6.71021 | -60.10656 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| afab4080-87ec-39a4-aa56-f734f34dbcdc | -6.70735 | -60.10229 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ea0a1204-41d3-37fb-8985-043c29bb248e | -6.68201 | -59.47568 | 2024-10-05 05:29:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| b49a248d-b42c-3235-b18d-26472dee403e | -6.64859 | -60.05146 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| bf496a18-e970-3a4c-ae1d-60330a648e2d | -6.6463 | -60.04341 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a4f130ff-3ea5-3eb7-99fb-be638987f71a | -6.64573 | -60.04716 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4798c49b-8a14-3c7a-9975-b926245128d1 | -6.64287 | -60.04287 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 848511c4-6c74-307b-814d-937a249522e8 | -6.64229 | -60.04663 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3960ab9f-63f5-327d-bb5b-8f13a4256565 | -3.0765 | -61.06798 | 2024-10-05 05:29:00 | NOAA-21 | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 3e2981cd-fbcf-3172-9916-dbc2f73f1c89 | -3.24022 | -60.65185 | 2024-10-05 05:29:00 | NOAA-21 | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6a7f227a-769e-3414-9798-7febbb2032f8 | -2.95489 | -60.01531 | 2024-10-05 05:29:00 | NOAA-21 | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 01f326da-7818-3733-aca5-726253fc9d22 | -3.78196 | -60.12006 | 2024-10-05 05:29:00 | NOAA-21 | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 1ace0c56-f383-3ab5-85f6-0f4fe02d3804 | -3.78141 | -60.12363 | 2024-10-05 05:29:00 | NOAA-21 | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 12c92d4d-8ac2-3c45-8b11-5c9926d357f0 | -5.87478 | -61.25573 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| d3608964-e464-3309-aed6-64a366e900ea | -5.83146 | -61.2276 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 36c52bbc-e35b-3b72-ab48-81972153d2b7 | -5.76131 | -61.54689 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3ba295d9-03c7-3e07-9afc-c961369b2770 | -7.96677 | -61.53947 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 955de109-a887-3651-b421-5356a5fe3580 | -7.93025 | -61.5554 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| bcfc6630-9a9a-3ab3-a7f0-c516017a6d22 | -7.92692 | -61.55488 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| b8e04038-398c-3418-9ea4-1711fd00fea2 | -7.89353 | -61.4634 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 5471da38-6996-3c8a-beeb-11628cea8430 | -7.89299 | -61.46692 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 6df28d33-805f-3bb8-98cb-49c80f8013ac | -7.8902 | -61.46287 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| f8d7a51d-3dba-3226-ae4e-34c5ea14b92f | -7.88966 | -61.4664 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f14826c3-3f5e-317b-8ec2-5ecaa85085d7 | -7.28155 | -61.08916 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| e14e2e80-91b7-36ea-8f79-9c28940f3662 | -7.281 | -61.09272 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| a58d9ba6-5e88-3c59-b570-be992feba1fb | -7.27821 | -61.08865 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9eebe0df-41e8-3dfd-98af-f7c4e239e02d | -7.27766 | -61.09221 | 2024-10-05 05:29:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 118a1103-0cb2-36d1-8530-c5328286889d | -8.84416 | -61.49496 | 2024-10-05 05:29:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 7eb27197-079c-3fe3-857e-3b2066d3ffaf | -8.84082 | -61.49443 | 2024-10-05 05:29:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 5d33356f-170e-35cd-b4be-7024186d6e31 | -8.66817 | -62.1054 | 2024-10-05 05:29:00 | NOAA-21 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 64f0e08f-ac91-3463-8e0b-27c582b83e99 | -8.60393 | -62.40511 | 2024-10-05 05:29:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3f816bfa-7cf2-3c4e-8ae3-dd9763ab4a18 | -8.60339 | -62.40857 | 2024-10-05 05:29:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ea381f27-e312-3ca2-ab52-8515a48da817 | -8.60009 | -62.40805 | 2024-10-05 05:29:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ec4cfccc-1a92-3e9e-bf73-a8a910de0ea9 | -8.56066 | -62.48706 | 2024-10-05 05:29:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2eb0eb54-c0c2-3fcd-8ea1-a89fd6bd511c | -8.55736 | -62.48654 | 2024-10-05 05:29:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ceb91485-e475-386d-90a7-11815189b1b4 | -8.22747 | -61.2167 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| d114929d-00e1-3f5f-9f39-a93c34fd96c5 | -8.22692 | -61.22028 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9c25943a-f318-31f3-8fd8-4eca374438e0 | -8.22636 | -61.22386 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c12c6f6f-8f91-3709-8228-a9e77911418a | -8.22467 | -61.21259 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README135.md)

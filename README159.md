@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 440bdf4d-fe32-3ee9-a1a9-b6f13dc20421 | -12.1476 | -54.26583 | 2024-10-04 04:57:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 60d73a67-28fe-35ab-803f-9609f7995e7f | -11.58765 | -54.48226 | 2024-10-04 04:57:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d95e66a0-2ff1-3a5e-acde-3c86f7ae9726 | -11.5871 | -54.48581 | 2024-10-04 04:57:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| b71419e5-5c7a-3fe5-8ac7-82e09a35cc2f | -11.58432 | -54.48174 | 2024-10-04 04:57:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6c11277b-39d0-38f9-b7ae-153568eba4a5 | -11.58378 | -54.48529 | 2024-10-04 04:57:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 25dab6e4-b093-3122-8e74-99f288a7bde8 | -11.37631 | -55.23133 | 2024-10-04 04:57:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 736157ec-2a02-33f9-8212-6d3de6d0a7a3 | -11.35129 | -55.19472 | 2024-10-04 04:57:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 6734deee-00af-32e6-9489-ec583741fd07 | -11.35074 | -55.19822 | 2024-10-04 04:57:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1da3765e-f95d-36bb-be8d-658b1747619d | -11.31877 | -55.20744 | 2024-10-04 04:57:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 5dd9dccd-fc7b-3ac7-b26f-f611cbfa9e13 | -11.21066 | -54.74813 | 2024-10-04 04:57:00 | NOAA-20 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 51353554-548a-3bb7-8c67-fbf99f9ae7c2 | -11.20735 | -54.7476 | 2024-10-04 04:57:00 | NOAA-20 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 3835b6da-e0d9-3e4b-a343-1960219d0e6d | -11.18909 | -54.75523 | 2024-10-04 04:57:00 | NOAA-20 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 5651c3bf-a039-311f-88af-97f364cabcf9 | -11.18855 | -54.75875 | 2024-10-04 04:57:00 | NOAA-20 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 86bc4940-f74d-36e8-a6a2-2c24c619bbe5 | -11.18578 | -54.7547 | 2024-10-04 04:57:00 | NOAA-20 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 6dc26928-0064-3a1f-b4cc-c3ed37131e07 | -11.18523 | -54.75822 | 2024-10-04 04:57:00 | NOAA-20 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 85f6cd56-5b0a-37c2-a8c3-ca4f9b54b00e | -10.99884 | -54.25139 | 2024-10-04 04:57:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 212cb014-d43f-3c27-bade-c2fc8c0187f4 | -10.99551 | -54.25088 | 2024-10-04 04:57:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| 3ee626b5-b173-36d5-b14b-71c682517dba | -10.93177 | -54.24825 | 2024-10-04 04:57:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ecedd7c5-7d09-3acc-bef0-cf78e5b45781 | -10.93122 | -54.25181 | 2024-10-04 04:57:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ab23e6d1-bf98-3368-9ba8-a51a2dc9a9c3 | -16.58521 | -56.05348 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 7c3347ea-b22c-39c6-be1a-576ee5ef34dd | -16.58245 | -56.04933 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| c69200bb-c53b-35ae-8a8f-4928e7779f59 | -16.58091 | -55.92718 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 20cee0f1-b8cf-3174-a6ee-c4104749fb26 | -16.5798 | -55.93439 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| b002025e-4ec8-3a6b-b60a-a059f8843a7f | -16.57648 | -55.93384 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| ba5b4ad9-6240-3c2c-9592-e560d1ba90dc | -16.57151 | -55.92192 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| 869621eb-8ed9-3228-9a22-a59579da0d15 | -16.57094 | -55.94772 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| aa6e8a5e-73ce-3a87-8ca5-169cc575cd08 | -16.56819 | -55.92137 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 725851a6-77b7-31a7-9f1c-aa43c4d51759 | -15.39419 | -55.85462 | 2024-10-04 04:57:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 618d67d3-9dc8-3640-a8aa-0c46f019640f | -15.39088 | -55.85409 | 2024-10-04 04:57:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 2d7e4c86-e93c-3736-8e1a-160ee8540390 | -15.38757 | -55.85355 | 2024-10-04 04:57:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| de9150d9-da4a-399f-9f2e-f39f83185439 | -15.36274 | -55.83828 | 2024-10-04 04:57:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 85c038b3-0ad7-332c-991a-36c7e67d8f26 | -16.71986 | -55.46598 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 0c0c659a-86ec-3104-8ea7-02d921973827 | -16.7193 | -55.46966 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| b6fbe04a-4c84-30ca-885d-7eadbad29f8b | -16.71652 | -55.46545 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 892a949e-da4d-3854-836e-10a4012741d8 | -16.71374 | -55.46122 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| e7c148c9-3120-3c0b-900a-4399661739a8 | -16.71317 | -55.4649 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 50b4172f-0cd1-3685-9db8-680429f8d0e6 | -16.71039 | -55.46069 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| b201fd63-7427-34c6-b18a-10c436772b65 | -16.70927 | -55.46805 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 700857d0-9288-30f9-88ca-c961f19c6dfa | -16.70649 | -55.46383 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 60908c60-ac58-356c-b001-1dc27bceaeb3 | -16.70592 | -55.46751 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 2e364312-c271-3fa1-8ece-3004a2bd94e3 | -16.70314 | -55.4633 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| fc8ce0b7-6cd4-3532-b072-6fea7c894454 | -16.70036 | -55.45908 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| f90adbd7-a559-3320-a84c-4e6d1c6df9d3 | -16.69702 | -55.45854 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| fe00fc00-5994-3487-ac84-7ede70942de4 | -16.69645 | -55.48474 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| f3930ee7-7371-38d1-9c77-a04f1af3c359 | -16.69589 | -55.48841 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 8237b0fa-b3fe-366e-ab61-95d3f03a66a7 | -16.69367 | -55.4805 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 63b49451-91f1-38fe-88c0-799ca2768fcd | -16.69312 | -55.46166 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| aa4a6896-9009-3b70-863a-b07725e1b077 | -17.04419 | -56.70188 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 47334e17-c53d-3d82-ad32-dcdaa2f411f9 | -16.69311 | -55.48417 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| bf44dcff-8d57-3b5e-93df-80fd5861ad77 | -16.69256 | -55.48785 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| d5e43a72-2147-314a-8962-5e0af9ed1eb3 | -16.69256 | -55.46532 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 7ca82275-a915-326a-9a2b-b1ae9e379bb3 | -16.692 | -55.46897 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| aa4b4cdd-0caa-3e04-a0a8-ac462b1d3ac3 | -16.69034 | -55.47994 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 7606821a-0a2b-3243-895d-8b140b8915da | -16.68978 | -55.48361 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| c0149d35-af14-30dd-944c-d6aabaef0b51 | -16.68922 | -55.46474 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 785c8939-d63a-3d4a-a32c-bc58fb252bd8 | -16.68867 | -55.4684 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 6334f809-12d2-3469-be4e-358f3ad212a7 | -16.6881 | -55.49463 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 4c193c8f-8aa6-3edf-a557-2775fb7aa320 | -16.687 | -55.47938 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| a53e68ac-6fa5-339c-8009-160af4e9575f | -16.68533 | -55.46784 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| 2cc620c7-4227-39d7-966e-9f2fc473432d | -16.68476 | -55.49408 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 70f7504c-5e95-3f29-8b05-0b93692ae425 | -16.68421 | -55.47516 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| a4bc0987-e813-3699-89ea-8b57383387c8 | -16.67419 | -55.54099 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 7e9cd6ba-231b-3f92-8251-78be508f8ad2 | -16.67307 | -55.50341 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 1a89a7ca-8302-3130-a90b-9932ba765b63 | -16.67251 | -55.50709 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 34077fa5-2224-35b0-b9d6-cc25a00a5c39 | -16.67141 | -55.53681 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| e77363c8-fbeb-3aca-982d-b6006430c5e6 | -16.66918 | -55.5065 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 6ab1b0d9-a654-38be-97cc-a324153d2292 | -16.66862 | -55.53264 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| a0ba6113-8674-311d-902b-561ad10ab9c9 | -16.66751 | -55.51747 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 25e3ca2c-f2eb-3b8e-9399-b3d0e6f37bc0 | -16.66696 | -55.52111 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 9bab32a7-2d15-3e7f-a92c-62dea8d9fb8e | -16.6664 | -55.52477 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| ae6a04ae-2a7d-36f4-8a20-56752db387db | -16.66584 | -55.52844 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 16ddaab5-923b-31b8-aa73-497f265cda74 | -16.66584 | -55.50592 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 17a08591-21a5-3f52-a25b-2af3bce9f287 | -16.66529 | -55.5321 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 87fa67ce-d04d-3743-9910-7d7d4c378188 | -16.66529 | -55.50958 | 2024-10-04 04:57:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 8cfce396-5874-3d59-a15f-dcf00e853b41 | -17.15407 | -56.15116 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 6001315e-71ff-336a-8d3e-7603f7f2f71c | -17.15351 | -56.15477 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| f7fa7da7-06ed-3fe7-a3b0-4b4e7ec3cb7b | -17.15183 | -56.16561 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 6f8b25fa-84bb-3f32-ba3e-cfb55d46af33 | -17.15127 | -56.16922 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 5ad57fc7-e79e-3435-81f2-fc82261139a4 | -17.15075 | -56.1506 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.5 |
-| d98ee4b7-4d6e-3a24-8a24-93e8401e4c44 | -17.14964 | -56.15783 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 0a275c84-a2ef-38ed-9706-12fca30fd4a2 | -17.14907 | -56.16144 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 21f159d6-80c4-38e8-baa9-208be7628de8 | -17.14852 | -56.16505 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| c5ebc4d7-4a0a-36b9-80b6-65af2ef37c0b | -17.09773 | -56.09733 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.5 |
-| eb293aad-8ffa-32dc-a646-df656923af9e | -17.07861 | -56.0904 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 9787519a-4160-3fe9-a05f-6daab1a72721 | -17.07033 | -56.07789 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 84fef843-0dcc-3d92-a4b8-a3168bfa023e | -17.06977 | -56.08151 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 7b570867-84bd-3723-8eb3-5baead2188c8 | -17.06701 | -56.07734 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 45cd9320-8a56-3042-9682-c23d8a7757b2 | -17.06646 | -56.08095 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 217e1b14-3dfc-3cf0-88e6-64908026ad61 | -17.06426 | -56.07317 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 6aedb8b1-07c8-3359-b5cd-0073f92e7d5a | -17.0637 | -56.07679 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| e771520c-cf5a-36e3-bdea-9ffdbccedc86 | -17.06094 | -56.07262 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| e94b912a-31cb-30fa-8d37-2d89b85d1213 | -17.06038 | -56.07624 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 7aa36a0d-e859-3edc-ba86-dd67da6c851c | -17.0565 | -56.0793 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 9bfd75ef-1dc8-3df3-a94e-6fff47655303 | -17.05594 | -56.08291 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 8e3ac716-a624-31aa-a5ee-5661963fab1d | -17.05582 | -56.69279 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| b886c921-ec03-37d6-ab41-a054aa6387e0 | -17.05525 | -56.69638 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| bb6ebf1d-073b-3a9d-9a96-0ec2995de305 | -17.05374 | -56.07513 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 630ddfd6-341a-3d5b-9120-bc243425825b | -17.05318 | -56.07874 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 1d6df45a-3fd4-3d2e-a98d-1e7ccc8397d5 | -17.05042 | -56.07457 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 7dbe5b4a-0402-3691-8998-a7a0d9f6ab8d | -17.04986 | -56.07819 | 2024-10-04 04:57:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 1ce7bfdb-fc30-3b78-801b-ac4f0dc973b2 | -6.6444 | -41.99236 | 2024-10-05 12:36:00 | TERRA_M-T | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 21.2 |
+| 533a7ce1-2b84-3f93-a613-fa0bb762fc72 | -8.95108 | -41.30011 | 2024-10-05 12:36:00 | TERRA_M-T | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 14.5 |
+| 00f6ab87-f13b-3453-8f57-cca501b0f949 | -11.66563 | -42.67617 | 2024-10-05 12:36:00 | TERRA_M-T | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 21.1 |
+| 122ea52e-968e-38ea-ac54-9ca6e75b3183 | -11.64849 | -42.64983 | 2024-10-05 12:36:00 | TERRA_M-T | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 17.4 |
+| 8f50be1a-a725-38e5-bf28-85c22004cf75 | -11.6469 | -42.66174 | 2024-10-05 12:36:00 | TERRA_M-T | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 94.1 |
+| 0c71c1ed-c1c7-3c48-88d6-e4d4f7d45e8a | -12.87881 | -42.82571 | 2024-10-05 12:36:00 | TERRA_M-T | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 15.7 |
+| 34ee873d-a7f5-3cd8-bcf5-bf0e3b30db77 | -12.48583 | -43.02581 | 2024-10-05 12:36:00 | TERRA_M-T | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| 865640b0-cc6a-3412-98ed-68b04ea52d3d | -6.36047 | -42.92557 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 15.2 |
+| 3e99c225-ca8f-316a-aad9-41f6db21d7b7 | -5.95141 | -43.27986 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 15.0 |
+| 990bacbf-6111-3a8d-8d28-cad07c094132 | -5.54166 | -42.78808 | 2024-10-05 12:36:00 | TERRA_M-T | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 9.0 |
+| 76bb4e3b-d909-342f-b9be-dfbb0d648e6e | -6.44343 | -43.12382 | 2024-10-05 12:36:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| d57df9f8-1439-3d6f-b449-29e41f27229e | -6.29587 | -43.44865 | 2024-10-05 12:36:00 | TERRA_M-T | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 2a618880-5f67-3bb0-9b78-350fdbcd0901 | -6.28486 | -43.0102 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| c4f40173-ec65-3241-8f45-b99dc42c37b5 | -6.28347 | -43.01997 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 8f1e7c03-217c-3d5e-b41a-809899e2357c | -6.19554 | -43.10707 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| ac4dbc53-633b-3e18-81a1-07bbb060edbd | -5.49562 | -43.3111 | 2024-10-05 12:36:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| 0a0bb43d-140e-3c2a-b110-37cd63131ab3 | -5.37506 | -43.24969 | 2024-10-05 12:36:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 7a8a28b3-bd62-39b2-9a1a-b2fcacab43f3 | -5.37373 | -43.25909 | 2024-10-05 12:36:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| 21781aee-265d-3d3c-9a42-62f7244886ac | -7.79766 | -43.10998 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 23.2 |
+| 9f110c69-15af-3a41-9005-e4766840c25b | -7.78826 | -43.10863 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 10.1 |
+| 35f2751a-5905-30c7-bb9d-4e5226666223 | -7.7529 | -43.04668 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 17.8 |
+| 7eec4ce2-e3a2-3cee-9ae9-45430c00093e | -7.74866 | -43.07675 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 12.8 |
+| 600e5804-2f03-3214-bf89-0ea1a9661bd4 | -7.74205 | -43.05548 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 23.4 |
+| 23cf71b4-1d74-3150-b02b-a88049ea3b50 | -7.74064 | -43.06551 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 29.1 |
+| 0641c877-c9fa-3cc7-804a-0263af029447 | -7.73925 | -43.07542 | 2024-10-05 12:36:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 13.6 |
+| 85c87296-d3ab-3a69-b292-cfa15d4baa39 | -7.23391 | -43.32778 | 2024-10-05 12:36:00 | TERRA_M-T | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
+| 7482ba45-d8d8-35f6-826b-344725fc1525 | -7.23254 | -43.33747 | 2024-10-05 12:36:00 | TERRA_M-T | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 20.4 |
+| a7cb188e-b474-3e61-8958-3867081fff0e | -6.9176 | -43.34467 | 2024-10-05 12:36:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 12.5 |
+| f9fe0f49-f9b4-3f57-8969-95bbd2bd1813 | -6.84524 | -42.81879 | 2024-10-05 12:36:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 26.6 |
+| bb9399da-421c-3388-8c85-192981e2da8d | -6.8438 | -42.82899 | 2024-10-05 12:36:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 16.7 |
+| 048eaeb5-c372-3c46-86b2-5b08b990c6d7 | -6.8372 | -42.80732 | 2024-10-05 12:36:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 16.9 |
+| 89aeb255-03e9-3b62-a144-32f05c500815 | -6.83578 | -42.81748 | 2024-10-05 12:36:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 72.0 |
+| af58e5c6-18b6-3703-b524-adde8fb81d1a | -6.82633 | -42.81617 | 2024-10-05 12:36:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 26.4 |
+| 14936c9d-aeb7-34e0-ad53-f5bf5b1a30d1 | -6.47389 | -43.36013 | 2024-10-05 12:36:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 7ea0d05e-2d95-3925-8d76-d96dccae6ed5 | -8.18147 | -43.72369 | 2024-10-05 12:36:00 | TERRA_M-T | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 27.0 |
+| 382843f9-c093-3942-a4af-7c5bbf4eb917 | -8.18012 | -43.73323 | 2024-10-05 12:36:00 | TERRA_M-T | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 30.4 |
+| abbef6fc-e2a1-3c38-bbc0-8c04cb0f9743 | -8.11021 | -43.7752 | 2024-10-05 12:36:00 | TERRA_M-T | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 89.1 |
+| 2495d4cd-64c6-3764-9998-695cdb9c059f | -8.10887 | -43.78465 | 2024-10-05 12:36:00 | TERRA_M-T | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 38.1 |
+| d64e1d22-f15f-3d51-8d5b-684831aea8ff | -8.36602 | -43.65371 | 2024-10-05 12:36:00 | TERRA_M-T | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 30f4e986-b9e9-3e0d-a111-96ceaa9cf8e7 | -12.86118 | -44.6175 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| c43a1a13-dfb1-3f70-8d77-3c79d4f1f7fb | -12.82565 | -44.60256 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| af319f57-c10a-38ba-86ce-f36679975b6f | -12.8243 | -44.61238 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 6c584b5b-bbe7-3f6c-894c-62beeae7a4d4 | -5.73098 | -43.79298 | 2024-10-05 12:36:00 | TERRA_M-T | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 3ac5ef06-eb54-30ec-943b-f00fa6ce650f | -5.72254 | -43.78542 | 2024-10-05 12:36:00 | TERRA_M-T | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| 65587f2a-287d-30f3-91b3-8ca6526002fc | -5.72123 | -43.79453 | 2024-10-05 12:36:00 | TERRA_M-T | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 125.1 |
+| 83fb9a54-8811-354c-a493-1ae7dca862b5 | -5.71354 | -43.78419 | 2024-10-05 12:36:00 | TERRA_M-T | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 46.4 |
+| d425a9de-853e-3270-b767-be419f073bc2 | -5.71223 | -43.79329 | 2024-10-05 12:36:00 | TERRA_M-T | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 243.5 |
+| 4aa208bf-b617-3b74-9165-d347f71048ae | -5.71093 | -43.80238 | 2024-10-05 12:36:00 | TERRA_M-T | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 66.0 |
+| 2f501cd9-8e55-318f-860c-4e926d896d43 | -5.65435 | -43.55439 | 2024-10-05 12:36:00 | TERRA_M-T | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 19.8 |
+| 05696dea-0998-3ad5-b608-8d44f8cb7014 | -5.54621 | -43.72984 | 2024-10-05 12:36:00 | TERRA_M-T | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 2b95b9d6-8be7-3bfc-92cf-758573c31aaa | -5.37088 | -43.34475 | 2024-10-05 12:36:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| f9c8ee5b-658d-3772-ae84-dafea997b442 | -6.11142 | -44.22141 | 2024-10-05 12:36:00 | TERRA_M-T | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 20.9 |
+| 2ce0ce2b-0f28-3203-8f8b-52f80d851114 | -6.06949 | -44.0044 | 2024-10-05 12:36:00 | TERRA_M-T | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| a3eef8b8-f5b5-3cf3-87a8-25e95d1d5f43 | -5.82145 | -44.12541 | 2024-10-05 12:36:00 | TERRA_M-T | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 106.7 |
+| d02c6657-9b9a-3c12-8727-edbae34ad44d | -5.82016 | -44.1344 | 2024-10-05 12:36:00 | TERRA_M-T | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 44.0 |
+| fbbcdfde-8d7a-3ba4-90ff-ed89b1c40516 | -5.52622 | -44.00151 | 2024-10-05 12:36:00 | TERRA_M-T | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| 04208bb6-c065-3112-a6e2-6bab323688cb | -5.49538 | -44.3438 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| d154a484-eb49-31b7-a33a-ba027fa7d727 | -5.4941 | -44.3527 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 19.4 |
+| 8d237941-c32f-36a4-b2a5-0b5bc41b74e6 | -7.60653 | -44.78318 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 78e2c9b3-e7c0-312f-bca8-b172534b090a | -7.56318 | -43.92766 | 2024-10-05 12:36:00 | TERRA_M-T | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 29.1 |
+| ec7def34-ce48-3b9e-aa5f-3a2cc464082c | -7.55965 | -44.66711 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 20.9 |
+| 26ccbabb-520f-3014-a09f-422a5dee7765 | -7.55836 | -44.67611 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 39.5 |
+| 494d5209-de49-33ef-ac88-6357968ddd23 | -7.5541 | -43.92645 | 2024-10-05 12:36:00 | TERRA_M-T | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 3e9c6f8f-980f-3fb9-8fae-e59a3a1a97f4 | -7.52627 | -44.96291 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 21.6 |
+| 95e17385-76c4-3486-9bb3-b27ed220412b | -7.52499 | -44.9718 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 166.7 |
+| 90b3ab7a-dd7f-39cd-80d2-32867306b190 | -7.50796 | -44.82714 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 46.4 |
+| fec830de-5251-347c-b063-ce4814b2dade | -7.50668 | -44.83604 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 8d71eaf2-6e23-3be2-ae50-7f8f0898aca3 | -7.4484 | -44.7368 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 5587fa4c-1e16-3e67-90c3-c95446f47b80 | -7.4435 | -43.99331 | 2024-10-05 12:36:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| 5e8ede83-7e0c-35f6-aada-121b2220c017 | -7.10329 | -44.43764 | 2024-10-05 12:36:00 | TERRA_M-T | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 2e1c46e1-326d-395a-a9af-59c66d044277 | -6.65991 | -44.51506 | 2024-10-05 12:36:00 | TERRA_M-T | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 559ad9ca-d6b2-316b-b27c-6dde5e50814e | -9.20815 | -45.69352 | 2024-10-05 12:36:00 | TERRA_M-T | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 22.7 |
+| 931fe07e-8478-3b6e-b19a-e7c55b122bed | -9.19076 | -45.56355 | 2024-10-05 12:36:00 | TERRA_M-T | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 0dc04425-6234-3185-8560-e15551cd69ac | -8.99294 | -45.2068 | 2024-10-05 12:36:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| 0a431628-6252-3972-bc1b-d01c7d01b0ab | -8.86919 | -45.17409 | 2024-10-05 12:36:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 458.4 |
+| 5819cf1b-7a89-33af-a9fe-c3dae4420b4c | -8.8679 | -45.18303 | 2024-10-05 12:36:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 210.6 |
+| 3f148fdb-82f8-3fc9-92e9-d9b0fcbb4c1e | -8.90642 | -44.91387 | 2024-10-05 12:36:00 | TERRA_M-T | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 34.3 |
+| 102233ac-74da-3cdc-984f-da33858c7a1d | -8.90514 | -44.92287 | 2024-10-05 12:36:00 | TERRA_M-T | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| e5a9f6c9-20d9-3abc-b0c2-b3c254d96dff | -8.77089 | -44.82738 | 2024-10-05 12:36:00 | TERRA_M-T | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 18.2 |
+| 560919ee-ad26-303d-bdf9-d0c109ec5ba5 | -8.21794 | -44.44423 | 2024-10-05 12:36:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 51cb3204-931c-3200-a000-e9edfa28405a | -10.6749 | -45.10661 | 2024-10-05 12:36:00 | TERRA_M-T | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| e5f60ed9-f749-30af-8b1a-30d589b43673 | -10.28736 | -45.43919 | 2024-10-05 12:36:00 | TERRA_M-T | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 23.3 |
+| 0bf35005-6fdd-3e2d-b866-94d86bf6b647 | -10.28093 | -45.48408 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 17.8 |
+| 457363ee-a62d-3b16-b58a-c8164c75e61f | -10.2767 | -45.44035 | 2024-10-05 12:36:00 | TERRA_M-T | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| 419189bf-038c-3ab1-876e-fce64a813daa | -10.15343 | -45.14996 | 2024-10-05 12:36:00 | TERRA_M-T | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 29.5 |
+| fa7e824c-61cc-39b4-8779-0c82fd54b194 | -11.67642 | -45.25245 | 2024-10-05 12:36:00 | TERRA_M-T | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| 3c99f38b-6c76-3094-96a3-5c7a86179bcf | -11.33346 | -45.52831 | 2024-10-05 12:36:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| 9358d958-4098-35dc-93b1-e34c0ac25fba | -11.33216 | -45.5374 | 2024-10-05 12:36:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.7 |
+| 41f3c2f7-698e-384b-8544-4a58463f96fc | -11.33085 | -45.5465 | 2024-10-05 12:36:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| d53390c1-184e-3a7b-9450-47e3b6f80349 | -11.32455 | -45.52706 | 2024-10-05 12:36:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 0fbe35bf-48ed-3c6f-babd-34605ad5baba | -11.32325 | -45.53617 | 2024-10-05 12:36:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 23.8 |
+| 72f9f56f-e0b9-3af9-a216-a9d3dbaf2dbd | -6.17605 | -45.43641 | 2024-10-05 12:36:00 | TERRA_M-T | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 55.6 |
+| 3e08529c-0945-31f9-9d09-746235fe64fe | -5.57172 | -46.28622 | 2024-10-05 12:36:00 | TERRA_M-T | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 47.0 |
+| e63cf6b7-e4f9-3400-8eaf-1c8f72814d4f | -5.57032 | -46.29565 | 2024-10-05 12:36:00 | TERRA_M-T | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| ddbb4697-7baf-3055-bb1c-3c694ad16a87 | -5.5626 | -46.28487 | 2024-10-05 12:36:00 | TERRA_M-T | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 39.6 |
+| 2ed5ba34-5399-300c-b435-dbbdfb3b8f03 | -5.07007 | -45.87379 | 2024-10-05 12:36:00 | TERRA_M-T | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 29.0 |
+| e59141f7-aaa8-34d8-8f61-99e1047996f2 | -5.06871 | -45.88296 | 2024-10-05 12:36:00 | TERRA_M-T | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| ba5e1032-225f-3a0e-b107-e4b71f80628d | -7.01516 | -45.75536 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 6103327a-39f8-3d1a-81f1-1538709eaf19 | -7.01384 | -45.76433 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| a52ae91b-a35c-35cf-a9a8-69ee802b1b68 | -7.00455 | -45.75695 | 2024-10-05 12:36:00 | TERRA_M-T | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 15.4 |
 
 
 [Clique aqui para ver as próximas entradas](README160.md)

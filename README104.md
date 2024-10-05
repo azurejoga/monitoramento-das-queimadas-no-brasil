@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 34aae071-fc50-37da-8fd8-fe5a0c7e5e22 | -5.4535 | -48.99849 | 2024-10-04 04:32:00 | NPP-375D | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 505ba153-670e-392e-a79e-6d30bdecd1f6 | -5.43466 | -48.89945 | 2024-10-04 04:32:00 | NPP-375D | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 7dd349e9-5d35-349b-9f76-5363bb384a57 | -7.82014 | -49.83639 | 2024-10-04 04:32:00 | NPP-375D | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1611430f-7e73-3782-a257-244e15b972f8 | -7.73442 | -49.89144 | 2024-10-04 04:32:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 30bf5dc6-95f7-3f73-9526-e66b14ab28e5 | -7.57303 | -49.1786 | 2024-10-04 04:32:00 | NPP-375D | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 88f520e1-d87c-3161-b528-be9f7d7b44f4 | -7.57245 | -49.18218 | 2024-10-04 04:32:00 | NPP-375D | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 7db3f189-6a30-3d71-9c44-51eb9e79ac77 | -7.57049 | -49.41043 | 2024-10-04 04:32:00 | NPP-375D | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 9d9fecf6-6c70-3723-a0bb-e853d79bea06 | -7.56909 | -49.18163 | 2024-10-04 04:32:00 | NPP-375D | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 8996730a-74b8-3d07-b73e-b8c601df4ca9 | -7.56852 | -49.18522 | 2024-10-04 04:32:00 | NPP-375D | PAU D'ARCO | TOCANTINS | Brasil | 1716307 | 17 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 78e697bd-0381-31de-93fc-6401d55dbfd6 | -7.5671 | -49.4099 | 2024-10-04 04:32:00 | NPP-375D | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 7be026e2-3beb-39bd-82be-48dd71fa13c6 | -7.38012 | -49.61917 | 2024-10-04 04:32:00 | NPP-375D | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b14db2bd-682d-3690-86ca-b13c14eed191 | -7.13935 | -49.16116 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7f1f5519-4798-381a-9352-b4df173388dc | -7.13878 | -49.16474 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 49705c86-2ad7-3f73-92d5-58cef5d996cc | -7.1382 | -49.16833 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ae4c1b79-161b-3518-83f9-748689179a2b | -7.13762 | -49.17192 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4b63d9d0-8c94-3812-84d9-288d80485d93 | -7.13656 | -49.15702 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8afad534-dc08-30a3-9fb5-7bc39cf7fcf0 | -7.13319 | -49.15649 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 66ba818d-0ab7-34d2-808a-a8f3f0ff8ae0 | -7.12645 | -49.1554 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| aa7fba54-3767-364f-b608-d4b77c346a7b | -7.12251 | -49.15844 | 2024-10-04 04:32:00 | NPP-375D | SANTA FÉ DO ARAGUAIA | TOCANTINS | Brasil | 1718865 | 17 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 135dd095-ab68-3818-a669-39975157f384 | -9.05526 | -49.868 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| e4b190f7-ae0a-3003-8c76-48dcf1bbbbbf | -9.02168 | -49.81367 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b322d851-2340-3151-9c30-57ffad88b71e | -9.02109 | -49.81732 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 14261cce-9b5a-3a4e-89d7-0731c3cc41cd | -9.02051 | -49.82096 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 8ca3c05a-5fd3-3bf2-9d5e-db0c158bab0e | -9.01771 | -49.81676 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 073b9056-778a-3029-b7e4-3427aa450f88 | -9.01712 | -49.8204 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| fe5e7a49-8373-3a9f-a26f-7104bb95970d | -9.01432 | -49.8162 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9b9b5051-ebde-36d2-a7ba-53968f8e1ce2 | -9.01373 | -49.81984 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 872d5b28-acfd-37de-a951-859c14911a9a | -9.01152 | -49.812 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| a21826ea-0738-3076-8ad1-2a1d784bd379 | -9.01034 | -49.81928 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c437d79d-de77-3f37-9e0c-c509493d6a2d | -9.00813 | -49.81144 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| ca195dc3-d03a-36f8-ab76-0578b20af33c | -9.00696 | -49.81873 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 39105056-06a0-3c63-a81a-ad6f72278a08 | -9.00357 | -49.81817 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1a29b399-00c5-31bc-a7dc-a727932a29ce | -8.78114 | -49.94059 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| d592fbec-05d5-34f8-adc3-24c10aecea94 | -8.78054 | -49.94427 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7b319144-0b83-3da6-a368-df43b15137fb | -8.77773 | -49.94004 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| fde880de-b345-3538-8527-0fbd85b7763b | -8.6607 | -50.03897 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 5dfda663-b4d9-320e-beaf-dfade8f6be76 | -8.6589 | -50.05012 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 26183b5c-8bf0-35fd-8919-01604230362f | -8.65728 | -50.03841 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 527e4edd-0456-3cfc-84d5-6b1cd6e9f839 | -8.65608 | -50.04585 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f511d0ca-70ca-3c60-ac36-4897ba0343cc | -8.65548 | -50.04955 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e696835a-d175-3f1b-9843-673f40eacbc1 | -8.65387 | -50.03785 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 0ddb7515-22f0-39d3-9070-188d7e80cbda | -8.65326 | -50.04156 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c920168e-5525-36f2-ab54-ce90d2365b50 | -8.65266 | -50.04528 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 76f5fb73-be81-310d-b261-25eb80685533 | -8.65147 | -50.0527 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f8580f3e-cad8-3396-b11f-33a1f16a9170 | -8.64985 | -50.041 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 82a2659b-52c3-3222-a8ca-6c481a5522c5 | -8.64925 | -50.04472 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 190bb145-52d9-3c0f-8464-f9f078d6ae2e | -8.64805 | -50.05214 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3da8294f-abe3-337b-88cc-b27d7a68754f | -8.64745 | -50.05585 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 59ca4fa2-e85d-36ec-8bbc-21639d071884 | -8.64523 | -50.04787 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5343afd2-b2af-38a2-8ba3-a70b6c30ed84 | -8.64463 | -50.05158 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d457b342-6852-3b26-a7f2-756f871df5f1 | -8.64403 | -50.05529 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 826bf92b-9396-376d-adb2-d1767b7cc321 | -8.64361 | -50.03616 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4aa48561-7b09-3890-8bfb-9d8007ab07be | -8.64301 | -50.03988 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| acc238fc-3750-335e-be30-93dc29f69260 | -8.6427 | -49.93365 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3f963099-2d81-3711-8664-f0abb006dcf7 | -8.64181 | -50.04731 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| fe98430a-3696-3410-b60f-03ce534bd9fc | -8.64121 | -50.05101 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a6c88261-bf29-346a-8337-ba7b7ddc588f | -8.64061 | -50.05472 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9b703e5d-b780-3268-9848-00518ad43b71 | -8.64019 | -50.03561 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 2a688f3f-6ed3-3f40-be44-47b3511bb328 | -8.63959 | -50.03933 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 12f7f01c-d6a6-3969-9cc3-3e2d9ba5faf2 | -8.91856 | -49.67448 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 5ccef79d-6eb6-38f7-84e1-cee6a7d1ad85 | -8.91623 | -49.68895 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 7f0e2212-622c-3277-9af4-d1c650259186 | -8.9146 | -49.67754 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 2101a0e7-f78c-38be-95a0-ec4d6053e572 | -8.91402 | -49.68116 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| e7fc410b-3812-3072-a3e0-4a3ca84756a1 | -8.91343 | -49.68478 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 033e1a82-bd64-3a68-bdbc-555bcd0258cd | -8.91239 | -49.66976 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 0232ebf2-46e0-36e9-9681-9130fa51f677 | -8.90843 | -49.67283 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| bf99fdae-f926-324f-b9d1-ad56649a61f3 | -8.90563 | -49.66866 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| cbea5b0a-4650-3bbc-ac18-ef233a1231fa | -8.90505 | -49.67228 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 67b74841-48f3-3c4b-bbed-cbf5113a93ed | -8.88627 | -49.70266 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| a4b9dcdb-92dc-3f2f-8d80-103356a8349c | -8.88288 | -49.70211 | 2024-10-04 04:32:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 41dda185-06bc-384d-9592-bed2a8da0e0c | -8.80148 | -49.66317 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| bc02a778-8c9c-3464-a53e-dd0c50278728 | -8.76854 | -49.6096 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 56f9d009-fc8d-3dd1-bfb9-2ce829d6022f | -8.76575 | -49.60544 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1455fab8-37ef-3d69-ab86-696ed5d952cf | -8.76517 | -49.60905 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| adfb18b3-dfdd-32af-973b-b9be6a972d56 | -8.65955 | -49.50018 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| fd316cdd-de37-31cc-ad55-e70c2b00985c | -8.65117 | -49.10039 | 2024-10-04 04:32:00 | NPP-375D | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 31ac00e5-038d-3671-af42-ddc381031964 | -8.64726 | -49.10339 | 2024-10-04 04:32:00 | NPP-375D | PEQUIZEIRO | TOCANTINS | Brasil | 1716653 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c263e63f-4727-3e00-b47d-fe6b5beea703 | -8.6467 | -49.10692 | 2024-10-04 04:32:00 | NPP-375D | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ef263c87-6c82-3049-a6a2-3e8513e2873e | -8.61469 | -49.47814 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| dc8bfff3-c976-36ea-a353-7caa30e2a77b | -8.56627 | -48.86951 | 2024-10-04 04:32:00 | NPP-375D | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b8ea07d2-1885-38ab-b213-df9e35791882 | -8.55067 | -49.66018 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 92e6f011-e18d-3fbf-adfe-aecef09efa66 | -8.54507 | -49.65184 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 02057f27-4711-3375-a0ac-d09417402bde | -8.54331 | -49.66268 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| b5c9e2a2-6b62-3a3e-a67e-e5c3c810d0b2 | -8.54169 | -49.65129 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 39395d21-6532-3bcb-8adc-fa8535bb3ab6 | -8.54124 | -49.6511 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 0000e7a5-7c36-37b9-a903-4085a2cd95f6 | -8.34289 | -49.51578 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 67baa146-9023-3a3b-a0d8-63fb5507190e | -8.34232 | -49.51938 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f94e5c1a-acd0-39ce-84ec-af32941ccf6f | -8.33894 | -49.51883 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 98c15c5a-82ed-3e9d-bd3c-dc0ea1a96fa0 | -8.32354 | -49.57188 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 11c7ee78-ef88-308e-9a49-40e09790ab6e | -8.32074 | -49.5677 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 3d6d735a-f0a5-3ac7-a153-18424abeab0f | -8.32016 | -49.57132 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 2062a934-bc31-3199-87e7-1376995aced3 | -8.31958 | -49.57494 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 334c6162-134a-3e94-8e0d-563a630c124e | -8.31678 | -49.57077 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| a546ca1a-f3f1-3f9b-aa55-a06f823a9d61 | -8.3162 | -49.57439 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 042d9d67-c2e7-3b8b-96d1-4bc705374e39 | -8.3134 | -49.57021 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 6fc42876-a89d-3eeb-bbcd-030a899063e5 | -8.31002 | -49.56966 | 2024-10-04 04:32:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 5d98a2a9-625d-3181-8f85-f84b180eec01 | -9.36187 | -50.28038 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 0b4e4891-5ea0-3079-9886-2ea56e799e5b | -9.36126 | -50.28411 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 691c1be2-a51c-311d-bdcc-936481f023e5 | -9.98539 | -49.47536 | 2024-10-04 04:32:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 53e60e50-9655-3179-becd-31abcdef47ca | -9.98481 | -49.47892 | 2024-10-04 04:32:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 1e2470eb-2d35-37cc-b00d-2e006fce0701 | -13.13885 | -51.16804 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0e0263a6-c787-3c2e-8bbc-ac8b9ddfea17 | -13.1372 | -51.15697 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| afcffee4-5a80-3bde-a460-d8d6fa48ddc7 | -13.13664 | -51.1605 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| ccc34604-528d-360b-95d8-dd0c24fffe3a | -13.13609 | -51.16404 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 406907a6-d35b-3274-a821-0887e1524ba8 | -13.13605 | -51.1857 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 6a72e75e-4126-3de5-82e0-a33c0e5c1ab5 | -13.13554 | -51.16749 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 07bd4e85-2368-3b9a-8837-6b7145b15bba | -13.13389 | -51.15643 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 60af5e7d-0178-3ce7-b8e4-e955b8c9c0ee | -13.13333 | -51.15996 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 989c9ffe-d2dc-33e6-9b4a-f83e4a30c92d | -13.13226 | -51.14529 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 2e39f13b-0c99-35a9-b2e2-bbb09c573feb | -13.1317 | -51.14882 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c32fe888-49f2-3292-bb4a-52762bfdf22c | -13.13006 | -51.13768 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 9c3f09cc-a4d2-33a9-adf9-320e77dcf31a | -13.1295 | -51.14122 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| cc711ab7-833d-3ae6-bcf4-f27d9679fd6e | -13.12895 | -51.14475 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 40bf05d7-4a23-3b4c-aeb3-137482b1e772 | -13.12668 | -51.18053 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a2652ae9-d8ff-3bcd-ba1a-87e3823e03f4 | -13.12619 | -51.14067 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| e4192fd8-fcf7-3120-ae52-53712b75accd | -13.12344 | -51.1366 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 38.4 |
+| 9a1c9af9-3966-32af-9bdc-58bbc6073b67 | -13.12337 | -51.17998 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 3e7da799-0732-374a-ace6-57cadd278b7f | -13.12288 | -51.14013 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 6b7b35c5-640c-3363-bad0-0f73e2ce9d20 | -13.12013 | -51.13605 | 2024-10-05 04:38:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| ec44ff6c-8df6-30c0-be36-c65032f7e3b1 | -13.12006 | -51.17944 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 6cf3e1bb-0d16-324e-ba6d-d1efb3044078 | -13.11957 | -51.13958 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 5a220720-545c-3135-bc64-ffc1c6d123ec | -13.11902 | -51.14312 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 368ca616-cbda-3821-a52e-a818f2eb108c | -13.10466 | -51.14799 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 20f83dc0-f6ed-33f9-8c31-621c40853b62 | -12.78875 | -50.56448 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 4e115d7b-9335-3110-8320-2df1bf5c965a | -12.78599 | -50.56042 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 4710c47d-38b0-31f0-aecc-9dd5b1e282a5 | -12.78544 | -50.56394 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 47882564-d199-37e6-8417-5865144361ac | -12.78543 | -50.54224 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 00d2da96-6266-31b6-8b62-4b83a5bb3045 | -12.78488 | -50.54577 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 64fb088b-16aa-37a4-afdb-d33f1704d988 | -12.78433 | -50.5493 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 05546566-2615-39c2-af63-c1dd171926f7 | -12.78378 | -50.55283 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| afefef75-a962-3426-be16-bcee1e3d9810 | -12.78213 | -50.5634 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 34cb3070-9d5b-3d74-b80b-f3c93c100c52 | -12.78212 | -50.54171 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 54099ee1-2cc3-3d15-a463-2c0570500754 | -12.78158 | -50.56693 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| db13c4cd-a7e8-38a9-8015-c0d97b5ede6d | -12.78157 | -50.54523 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| 1492fea8-b258-30da-a3ae-393e56aa23db | -12.78102 | -50.54876 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 81cb9c32-cf00-3b6a-8b9c-1e45d59d038a | -12.78047 | -50.55229 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| e05dc1c7-c2e4-3ff2-b2d6-86cdbd83c8bf | -12.77992 | -50.55582 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 015e2017-9470-38b4-939c-3fb0cc8155bf | -12.77826 | -50.5447 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| ccd70874-c99c-3a7d-8248-b156c22dbdb3 | -12.77771 | -50.54823 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| cb10fc02-d825-3d82-a4d2-6118d6cd1659 | -12.77716 | -50.55175 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 5a091ef8-96a7-346e-9af0-10bc8742bfe1 | -12.77661 | -50.55528 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 6f0025d1-5fbf-38d5-abb4-adff850feb2c | -12.77606 | -50.5588 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| e6a5882c-02a3-37d0-b109-f95a865dfe89 | -12.77551 | -50.56233 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6c9a2cbb-507e-3ad8-a06b-7f749b2c5201 | -12.77495 | -50.54416 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 85bc40b1-0973-398f-a2d6-deecdd2dccb0 | -12.7744 | -50.54769 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 2dd2b975-f781-36aa-b83b-8772e037dd60 | -12.77385 | -50.55122 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| cb5ca9f2-0515-3e42-a899-2b118f2d2cd9 | -12.7733 | -50.55474 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| c334f6f2-efb3-3e48-b7e2-e9a9b6791156 | -12.77275 | -50.55827 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 441767f7-d44d-32c5-a4ca-cd58c947d7f8 | -12.7722 | -50.5618 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 66065163-17cf-3fe9-9be7-733824fb9652 | -12.77165 | -50.56532 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 935b5cf1-d7e9-31a5-ba36-01b00d16967d | -12.77164 | -50.54362 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| fefddb27-331b-3a8e-bc99-5f89ef1c19b8 | -12.77109 | -50.54715 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
+| 98b0ef31-cfc5-331c-bcbd-8dcd3fc27e0f | -12.76999 | -50.55421 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 6a3fb544-739b-3710-b2c0-f03afb385ed8 | -12.76944 | -50.55773 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 6b9018f2-4d60-3cff-b809-675d804f425a | -12.76889 | -50.56126 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| c0cb4da5-bde3-3955-831e-0389aa427aac | -12.76834 | -50.56479 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| a31b36d8-e9bc-3cfd-b99a-1b9da23d2d62 | -12.76777 | -50.54662 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
+| 0a81ade1-0c92-3af7-884f-25d30331c9fc | -12.76723 | -50.55014 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
+| 0f98192a-0d10-335f-a29c-50b178156990 | -12.76667 | -50.55367 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 77239293-6004-3d93-8818-6dd03baf2670 | -12.76613 | -50.5572 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 87767a3e-ad99-3688-970c-9372c1a22cb8 | -12.76558 | -50.56073 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 53b7df32-9537-3490-a7ab-60b6f3b26b81 | -12.76503 | -50.56425 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 4b80c75f-471e-3bda-93fb-f621e557bc29 | -12.76391 | -50.54961 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 647c70a7-9c27-34a2-8863-05908bf03234 | -12.76336 | -50.55313 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| da01dd9c-72e8-311a-8574-3c3f66470f3f | -12.76281 | -50.55666 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 70cce363-9151-3707-a241-b3675798df0d | -12.76227 | -50.56019 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| fab29b4d-517a-3bc2-a063-92ae330f315c | -12.76171 | -50.56372 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| 5360440f-8db6-39e4-9bd9-28069dd0327b | -12.76117 | -50.56725 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 06d32dc0-554f-3869-9a27-80add10ad388 | -12.76115 | -50.54554 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 7becb3f0-5e79-3d56-83b3-019cd5f52e82 | -12.7606 | -50.54907 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 27bba27f-7c80-31d1-bace-721db37c11af | -12.75785 | -50.56671 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 88860951-cdb1-3f45-bf5e-7700e04db54b | -12.75621 | -50.59899 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 683975e2-2a7b-38e9-a970-531bf43fe3fb | -12.37137 | -50.9738 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| bc34cea8-c977-32bf-bf8a-5dc859396ac8 | -12.37081 | -50.97731 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 82b0a117-5e4f-3f1f-9d31-0fd3dd03b309 | -12.37025 | -50.98083 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 382a91e4-9b11-3518-9404-f1eb8d80f08b | -12.3697 | -50.98436 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 3c88749c-fc27-38f8-abfc-da17e7dca45b | -13.05895 | -51.11525 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| e9781959-c8c5-385d-8609-18515bb27b44 | -13.0584 | -51.11878 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 51825a94-99a5-3851-a6ae-4265ea831c45 | -13.05509 | -51.11824 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 5d090562-7796-37e7-88df-6af396437d27 | -12.99439 | -51.1155 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| dbda4a96-897e-355d-9aaf-dc2a8ac6d169 | -12.99383 | -51.11903 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c8e13e4f-6291-348d-873a-e5b9daf86e02 | -12.99327 | -51.12256 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 527c7aad-fbae-3b9a-a172-a68902d03a1a | -12.99271 | -51.12609 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 2994577a-ad36-3bff-8fd2-ac4b88567142 | -12.99052 | -51.11848 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 9d6e80da-0bae-3c67-90a2-91573a8e1249 | -12.98996 | -51.12202 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 75698175-28d1-3f10-90ef-f15b3d1d3349 | -12.97995 | -51.12012 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 6eb5ed64-19b3-34a9-b43c-0744d52ecaf6 | -12.97609 | -51.1231 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| a5b85fbc-7852-3605-b842-3a189149941a | -12.83566 | -50.56846 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 2083d01e-4d88-3c17-b284-c005dc2e19ec | -12.83014 | -50.58204 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| b848c8ce-ea24-3207-85f9-087969208fd9 | -12.82738 | -50.55627 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| f2fa2fd2-2464-3060-ad3f-84c425caf1c1 | -12.82683 | -50.5598 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 426adc36-dd86-37d4-9256-53f7b1124243 | -12.82407 | -50.55573 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| da8b3397-08a2-394f-8898-7fddac403a13 | -12.82351 | -50.55926 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 73475420-d65b-3f77-867c-d3ec25098229 | -12.82296 | -50.56279 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 0bfa8b51-e3c7-3571-af06-42a8ac920d55 | -12.82075 | -50.55519 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| a7d59fd4-8a47-3c51-821a-9bce3b289b50 | -12.82021 | -50.58043 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 9bf8702a-63c9-386a-9778-3acaec197de4 | -12.8202 | -50.55872 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 58d050b7-2e2b-3cf4-9998-83ade6d3483f | -12.81137 | -50.55006 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| ac0314ed-f86f-315d-8491-610807a18a8e | -12.81082 | -50.55359 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| d4c5fd37-5b4c-32fc-b330-d2fc40aecf20 | -12.81027 | -50.55711 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
 
 
 [Clique aqui para ver as próximas entradas](README105.md)

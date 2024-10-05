@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a5f24486-a82e-3dd3-8e59-724e0d15297c | -20.18918 | -47.46737 | 2024-10-04 04:12:00 | NOAA-21 | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 9dc81a69-4af1-3a55-b44e-4d89fc428a61 | -20.31476 | -46.85347 | 2024-10-04 04:12:00 | NOAA-21 | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| aeed049d-800d-3001-9600-24d1e2e27284 | -20.31409 | -46.85741 | 2024-10-04 04:12:00 | NOAA-21 | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| af26d99c-6be2-313b-be39-d755b5dbc35b | -20.27463 | -46.88226 | 2024-10-04 04:12:00 | NOAA-21 | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| c128ffd9-f2c0-3301-b39a-408319589688 | -20.72218 | -46.8998 | 2024-10-04 04:12:00 | NOAA-21 | CÁSSIA | MINAS GERAIS | Brasil | 3115102 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| eb0b9ff9-e56a-376e-be35-63654fc5784d | -22.36786 | -47.94109 | 2024-10-04 04:12:00 | NOAA-21 | ITIRAPINA | SÃO PAULO | Brasil | 3523602 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| c80d4778-faa3-3ef8-b8f5-f3a74df9ff25 | -22.3475 | -47.95448 | 2024-10-04 04:12:00 | NOAA-21 | BROTAS | SÃO PAULO | Brasil | 3507902 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 25994ca8-0b73-32e1-8e14-aa897f2cbf1f | -21.93126 | -48.21045 | 2024-10-04 04:12:00 | NOAA-21 | RIBEIRÃO BONITO | SÃO PAULO | Brasil | 3542909 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 1411d0b9-008c-30ab-af51-2e57510eb4c6 | -21.92438 | -48.40939 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 32fa1852-9afa-3cdb-bb0e-16ed71590dbd | -21.92357 | -48.41387 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f5216027-9e06-3fa9-aa0a-ee62e0f60e2e | -21.92001 | -48.41312 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 7e6ae7cb-623b-3f8b-970f-b67af55661aa | -21.9196 | -48.436 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 51767903-be39-3eb9-98de-9549e9f171c7 | -21.91645 | -48.41236 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e732c10c-119e-3a62-bfd7-a273abd4e2d3 | -21.91604 | -48.43524 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 744e0965-2dca-31c5-8594-f7de52218f2a | -21.91424 | -48.41367 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| c1d3e2c1-1372-3676-8ae1-38081e1489ca | -21.91209 | -48.41605 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| f62dad52-e3a5-30a8-92e6-0a9b66db4a3c | -21.90991 | -48.41733 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8eba5a9c-25b1-3dc2-a7e2-744af793e692 | -21.90933 | -48.41082 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 1fc40827-3966-34e4-af4d-2f01a8b0646a | -21.90854 | -48.41524 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 548c4a8e-5a2b-3de2-afa6-59c731dd9fda | -21.89985 | -48.47488 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| eb60c0d0-73a3-3e5c-ba09-0c1e9e8e56ac | -21.89969 | -48.43346 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6ab83721-307d-358a-92b7-ab95ecb700bc | -21.89819 | -48.47263 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0ddf1583-bf33-39d9-818c-0784c980981f | -21.89738 | -48.47711 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ba08944a-0004-3084-b7cd-3ae10c4022d3 | -21.89629 | -48.47401 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ac6c7cb5-1bcc-3d74-8b1a-9247e4cc5ca7 | -21.89613 | -48.43267 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 46b6fe6c-dfaf-317d-b023-cc856f11514e | -21.8955 | -48.47854 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 7e7d1f69-1c4f-36ef-9c87-c6f7a1bd883e | -21.88758 | -48.48139 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 96d8d364-64a4-3f16-bd1a-0860725566d0 | -21.88694 | -48.42175 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 1bc855c3-dd5c-335e-a259-80300d374e83 | -21.88336 | -48.42105 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c168bce2-5f54-3efc-bdaf-4af71f901013 | -21.87979 | -48.42033 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 10d89556-5769-3ba0-9b33-39445f8c8a1d | -21.87622 | -48.41962 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a26a04ea-c733-3813-982c-21078dd535fd | -21.87544 | -48.42402 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 86d2570b-54c6-352c-af58-81f93044bb5e | -21.86628 | -48.41306 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 04e4200b-a35f-3993-92ba-f005921cb3b9 | -21.85756 | -48.42052 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0921defc-68da-38c7-a775-0e8f98c88b06 | -21.8547 | -48.20826 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 8142ba8b-029a-3203-b46b-f95635caebd4 | -21.85398 | -48.41982 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| b2aeada2-2f41-3c60-b960-55a2c7e48be1 | -21.85259 | -48.36512 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 250ae107-3898-3cae-8126-0545b13807f6 | -21.8524 | -48.4287 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 23939203-7d1d-37c5-b493-e387daca1ccf | -21.85182 | -48.36948 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4500141e-af5f-3367-907d-36a89107125f | -21.85118 | -48.20747 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 3fe70ab6-56ef-3867-9c84-10d38eb89985 | -21.8504 | -48.41912 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| aee2dc63-5be6-3f1e-9e94-a2351bda2e72 | -21.85006 | -48.44188 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 247c0658-4dd7-315f-aff6-15dbe90ea2f9 | -21.84962 | -48.42354 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| e3996aab-5941-304b-848a-906545d0514c | -21.84928 | -48.44631 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| a6f0b087-99ec-30ed-8ed5-87982f2ef498 | -21.84905 | -48.36427 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| a59bc654-9d70-337f-8f15-5829e996154e | -21.84883 | -48.42797 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| c3bbcd70-f398-3f6b-b915-ac365ba7ea1f | -21.84871 | -48.387 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 08578d8f-8d38-3648-931a-0d65e3f75f10 | -21.84827 | -48.36864 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| cae512b3-b4af-360b-aed4-1c40f030f6ac | -21.84805 | -48.43238 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| fb1eaf33-3c28-3876-a741-9b2be96c92c9 | -21.84749 | -48.37303 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 1fb242e7-49c3-3d69-9aca-8a72a32f3d1c | -21.84726 | -48.43678 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e9b151a5-669e-38a4-9e61-f4c52736154c | -21.84604 | -48.42284 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 67b84f3f-c506-3e4a-a4fb-fbf59f943d23 | -21.8457 | -48.44559 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 03effd39-1259-350a-87e6-24316161ca4a | -21.84525 | -48.42725 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 4b2b4632-3bfa-3923-8bed-a7d38aafe127 | -21.84514 | -48.38625 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| a3ad057b-55cc-3fdf-ba32-b4e9e53d0cab | -21.84473 | -48.36782 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 359171dc-cc77-3954-a8b4-1942f2d06102 | -21.84437 | -48.39059 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| 6e9d8b32-7f1e-35f6-b7ff-691bd2d6003e | -21.84394 | -48.37223 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 78c473d1-0924-38d5-9439-9de3d1188dca | -21.84369 | -48.43602 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 622a7990-b871-373e-9c6a-11d6a589ee92 | -21.84214 | -48.44477 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| e71f21e0-20c0-3737-8a9d-690ade5a1cd8 | -21.84168 | -48.42653 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 28912618-0027-3f55-a561-a3efbe5e25d1 | -21.84135 | -48.4492 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| ac4bb789-61ad-362a-b6e6-919222fdbf8e | -21.8408 | -48.38985 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| 55d76ff8-b5cc-3601-8467-b33541dfecb7 | -21.84056 | -48.45364 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| a6139be1-fe6c-3117-b5c9-b55c2542f770 | -21.84039 | -48.37146 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 3c2ab0b9-1c27-3964-8236-f9cb1af2d2c2 | -21.84004 | -48.39416 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 14.8 |
-| c8ca328d-adbe-37c0-a85f-150c10f7ca4d | -21.8381 | -48.4258 | 2024-10-04 04:12:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 466fb7c8-5ee4-3093-90b6-f397a6678a4d | -21.83724 | -48.38911 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| a75e6783-374d-384f-8945-90038d060708 | -21.83699 | -48.45286 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d0ddc054-1e89-315d-a670-0dce82643a5f | -21.83648 | -48.39341 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| 91344a12-b164-32f8-8b7e-72ce81f65451 | -21.8357 | -48.39775 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| f03a73c9-7f09-352f-9252-c349b7a94928 | -21.83524 | -48.37958 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| dd0559d0-7265-38e1-bf04-d3c694f099c6 | -21.83446 | -48.38397 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 05d3caa2-4bee-3aa9-bffb-488148cf7330 | -21.83368 | -48.38834 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| fae3f7a9-002c-3968-b2bd-0d7d508a547e | -21.83342 | -48.45208 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8fffcec3-c04c-3e4a-ad9d-cc85eb78aeb4 | -21.83291 | -48.39266 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| 26807d13-625e-3df6-8443-a4381f11b62d | -21.83263 | -48.45652 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 568f5739-451a-3215-a8c4-1437b17246eb | -21.83213 | -48.39702 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| 8c9fbec5-9cb3-3f2d-8462-8ab0b8a50a5c | -21.83168 | -48.37884 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 366b23ad-37ff-3bb2-9cfd-8d098f169576 | -21.82935 | -48.39191 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| f94c318c-4333-319e-9308-7472c7d5e7a8 | -21.82906 | -48.45576 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| b9f35df6-71d4-339e-94f7-dda8467cbd0d | -21.82889 | -48.37374 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| ac16e511-ef83-3226-9e76-bc64e8f275be | -21.82857 | -48.39628 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 128fd186-5639-3c22-9cb4-5765eacb4e1d | -21.82827 | -48.46014 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 19d4016c-640d-3d38-884f-455ca685f7f1 | -21.82777 | -48.40072 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| c42060ad-3169-352f-9969-6c344246c6c9 | -21.82548 | -48.45502 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 0f1720e0-7359-311c-97c9-6ca535acbda0 | -21.82533 | -48.37302 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b8686d17-dc77-37c4-97c9-a1355f9df7a1 | -21.8247 | -48.45938 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| aacc8fcf-8c70-3069-9e09-5a9e846fafbe | -21.82176 | -48.37228 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2e6989d4-f979-3037-be9c-ebab9128fe4a | -21.8215 | -48.43583 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 4c6927a5-3b25-3641-90da-87fc7f2dda7b | -21.81792 | -48.43509 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 24bf1be4-d9f5-3c9a-8912-5dd40a770116 | -22.22349 | -48.612 | 2024-10-04 04:12:00 | NOAA-21 | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| fdbf5285-a5d5-33a8-aaa4-7a160712b487 | -21.81269 | -48.40229 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a8f75898-aff0-34e4-ab49-65c2cd148585 | -21.81185 | -48.36573 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 388cacc7-1cb2-3271-9c38-ce31cec835a0 | -21.80997 | -48.38518 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 2b7e79b5-cb71-3943-9ecb-cc09c4cf51d6 | -21.80945 | -48.367 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| f339006a-8c15-30c6-9376-8f73211f1428 | -21.8092 | -48.38962 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| dacf42b4-23e4-3468-97e4-bc4280b7daca | -21.80912 | -48.40152 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8c82dd2a-cc37-34e8-b295-cda754c8a406 | -21.80829 | -48.365 | 2024-10-04 04:12:00 | NOAA-21 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 77a53266-f067-3d83-8849-0cdf92ef0db6 | -21.80794 | -48.38752 | 2024-10-04 04:12:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 6a92e0ec-a18f-325f-a334-1485874220fc | -18.8711 | -43.58632 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| f899c73b-d33a-34e4-bf90-32c2f2a3a70c | -18.87052 | -43.59029 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.1 |
+| 851a715d-731a-3964-add5-9c66da8e5254 | -18.86766 | -43.60999 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.8 |
+| a245b245-68c7-3c4c-96bf-d3a11e7de29d | -18.86471 | -43.60577 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.8 |
+| c017e916-ecf1-3376-b4e3-e3c0fca66011 | -18.86415 | -43.60962 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.8 |
+| efbaaf86-2db8-35e9-845e-4e7b7583fb96 | -18.86061 | -43.585 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 97b55bb9-4f74-327c-9320-e227bec1808d | -18.84617 | -43.58641 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| dc48bab2-8e10-32e4-8856-23f0c947f89a | -18.84557 | -43.59061 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 6cfe1d72-7c9e-395c-819b-ba56df9d6b15 | -18.65068 | -43.14395 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| c3ade01f-b0f0-33c7-b4f1-a137536937ef | -18.64829 | -43.13523 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 528b6384-9be5-3038-9437-fc538982e7b4 | -18.64791 | -43.14071 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 43d97dfa-5398-34ca-b40c-5318d166d06b | -18.64715 | -43.14339 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| f201577f-1142-319b-9919-9a123f8a2dec | -18.6461 | -43.15314 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 854c128d-fc95-3ac5-99b4-0c64bdcb2347 | -18.64598 | -43.15173 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 9babc6a2-de7f-39c1-9675-09cfda08d8e3 | -18.64475 | -43.13468 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 36d1f9a2-5d0e-3bfb-a39d-7784bfcaa690 | -18.64437 | -43.14017 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| e1355c08-792a-3480-8783-1dc9dfd5905e | -18.64418 | -43.1388 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 9040a791-e7fc-34c3-a220-3c05fc21c6cf | -18.64378 | -43.14424 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 178ad657-d7eb-36b8-9720-a26000b31cd4 | -18.64318 | -43.14839 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| df4eae0f-6c3c-3cf1-b9db-a6a7d4988b86 | -18.64302 | -43.14698 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 1368c4da-b11a-3c43-845d-f72b79a4b142 | -18.64244 | -43.15117 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 90b2425b-5b96-313f-a811-b6ff9e48fa60 | -18.64082 | -43.13971 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| fa672f7b-85e8-31c1-9114-5d5f4a776ccb | -18.63727 | -43.13922 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| 2405f8ba-afeb-3c47-9441-a0290f620b54 | -18.6361 | -43.14733 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| c0fcbcdf-39b7-3343-a7b3-f620814ffb1a | -18.63538 | -43.20211 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 6e4024e9-9aac-3c2f-a530-ef6519419475 | -18.6349 | -43.20483 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 1a021b9b-fde9-31ce-8bb6-8a6807b45911 | -18.63316 | -43.1427 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 96106be1-860b-3878-b184-249734f3a934 | -18.53135 | -42.26661 | 2024-10-05 04:17:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 01dd4b9f-b7cb-30a3-9e14-9ff2aaab98eb | -18.46877 | -42.42041 | 2024-10-05 04:17:00 | NPP-375D | PEÇANHA | MINAS GERAIS | Brasil | 3148608 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 3b7860a6-939f-3fbd-9586-9f356db5232b | -18.25124 | -42.94667 | 2024-10-05 04:17:00 | NPP-375D | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| f710362c-8074-384a-a6be-d13ba1913d31 | -17.87613 | -42.68092 | 2024-10-05 04:17:00 | NPP-375D | ARICANDUVA | MINAS GERAIS | Brasil | 3104452 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 27f20091-1299-3d29-a676-ceacd1160e00 | -21.44691 | -46.55615 | 2024-10-05 04:17:00 | NPP-375D | CACONDE | SÃO PAULO | Brasil | 3508702 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| ebfd8a51-0f3d-36dd-8a22-3b88fc93ed05 | -21.4463 | -46.5598 | 2024-10-05 04:17:00 | NPP-375D | CACONDE | SÃO PAULO | Brasil | 3508702 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 0182b1de-3cf7-3456-81c9-c6897320769b | -21.44358 | -46.55556 | 2024-10-05 04:17:00 | NPP-375D | CACONDE | SÃO PAULO | Brasil | 3508702 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 8a0d9cd3-eaee-32a4-807e-733704e643b8 | -21.443 | -46.55927 | 2024-10-05 04:17:00 | NPP-375D | CACONDE | SÃO PAULO | Brasil | 3508702 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 92c8247f-fa03-3146-bae7-a2c16821f20a | -20.51549 | -44.89877 | 2024-10-05 04:17:00 | NPP-375D | CARMO DA MATA | MINAS GERAIS | Brasil | 3114006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 0843e40d-61b6-3947-90e9-090307d835d5 | -20.51211 | -44.89819 | 2024-10-05 04:17:00 | NPP-375D | CARMO DA MATA | MINAS GERAIS | Brasil | 3114006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.5 |
+| 542a1da4-434b-3fb5-8265-6408ad848b69 | -20.48144 | -42.36196 | 2024-10-05 04:17:00 | NPP-375D | PEDRA BONITA | MINAS GERAIS | Brasil | 3148756 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| d4c739e3-8214-3e82-8cf6-4b5c8a5f983b | -19.95715 | -44.32023 | 2024-10-05 04:17:00 | NPP-375D | JUATUBA | MINAS GERAIS | Brasil | 3136652 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| b07e088c-5af3-3daf-8308-bf316d08700a | -19.31334 | -42.56462 | 2024-10-05 04:17:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 178a485e-004e-3662-8f76-112d9709cd59 | -19.31127 | -42.5797 | 2024-10-05 04:17:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| b9027182-72c0-3c74-ba27-3134ca66232a | -19.30902 | -42.56892 | 2024-10-05 04:17:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 75c58b24-dafa-372d-b37e-d1cf871e34b8 | -19.30472 | -42.57302 | 2024-10-05 04:17:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 5a763b75-f682-39d9-b0dd-a6bbb4f98cfa | -19.26034 | -42.86713 | 2024-10-05 04:17:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 373b5253-6347-3c7b-9e4d-55bc7694552c | -19.02312 | -43.17759 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 7a5e7742-8627-3387-b26d-fdc8041c326c | -19.02075 | -43.16884 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 6333e6dd-d8b1-395a-ac2c-f8e19924f278 | -19.01957 | -43.1771 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| ef08971b-957b-3076-aeb4-6feb5cd7bc4c | -19.01781 | -43.16402 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 2bca84cf-3676-3cb1-9e0b-4e46f9e8e520 | -19.01721 | -43.16823 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 89a94391-1ec8-313c-9dd5-1d5c23d72981 | -19.01603 | -43.17658 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| fa06a716-54f9-3d0c-820e-80a7a4a45a5b | -19.01368 | -43.16759 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 07439e9f-9273-306d-812f-19b4393fd6ba | -19.01075 | -43.16268 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| f06f9ce7-c5a8-3acb-9d34-5b44a3744b4f | -19.01015 | -43.16692 | 2024-10-05 04:17:00 | NPP-375D | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| d3cfb0e8-d7ad-3a7a-8122-e2717f05a9cb | -18.87581 | -43.60293 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
+| d0cd3604-b9a5-334e-9f20-2c210699a04b | -18.87231 | -43.60249 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
+| 09f791ae-4c70-326a-8d29-231c7993f760 | -18.86823 | -43.60608 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.8 |
+| fec13a2f-4d01-3234-811c-124fc4355e98 | -18.8676 | -43.58595 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| e7d494bb-af36-3818-921d-a3132572c497 | -18.86709 | -43.61391 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 749a6ff3-53e9-3878-b202-5f70599e81d4 | -18.86528 | -43.60187 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| a5aaf1e6-117b-339c-a324-7ea462d5d5eb | -18.86409 | -43.58555 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 1eaa9c17-b036-3374-9ca6-b4b11dc9a2e4 | -18.86359 | -43.61349 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| b3cf7dc1-ce12-3b16-8373-77e759f078e5 | -18.86177 | -43.60154 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 8d48a779-e545-3825-8672-2b484774c40c | -18.84963 | -43.58712 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| cdecca39-40d3-3280-bded-800abf3552fa | -18.84379 | -43.60287 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 8c83bfca-14a6-3fcc-b06c-48cd84120630 | -18.84209 | -43.59001 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 7693578e-71ac-3e92-9766-d314b9f715ad | -18.84031 | -43.60236 | 2024-10-05 04:17:00 | NPP-375D | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| fe72720d-5cd9-3874-9747-85f5fb65b6ee | -18.6501 | -43.14808 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 7efbdd14-0f04-3e09-894a-f6bd6d09cf5c | -18.64732 | -43.14476 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 8a154e96-f4fb-3130-8862-74b569dc2a42 | -18.64672 | -43.14893 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 680e2ba2-2f84-3e60-823b-e525d119c595 | -18.64656 | -43.14751 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 78e185c1-9154-3441-8fd1-b896edda682f | -18.64556 | -43.13195 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 5af17926-fe74-3321-b421-a560f20f3427 | -18.64496 | -43.13608 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| ffbc73c6-5507-3de4-9dc6-d56400241ac0 | -18.6436 | -43.14287 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 06d63416-01a7-3604-a00c-bf37390ef8cd | -18.64257 | -43.15257 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 86ec7627-f30e-3165-bd19-7081b1fd44e6 | -18.64141 | -43.13562 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 3546f118-098f-39ef-8385-d733db93227a | -18.64024 | -43.14376 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| 4336bb6e-4293-3f6f-bd21-67ae5675166d | -18.63964 | -43.14785 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| d5b719b5-f390-3542-8049-3d21e1ba86df | -18.63904 | -43.152 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 1286be49-279b-3c94-83df-1d5669ce60ce | -18.63669 | -43.14326 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| 408bc8ea-d637-3058-8b3d-9f51d708e62b | -18.63551 | -43.15145 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| b95d68c3-aec2-3822-a996-6783f33940fa | -18.63546 | -43.20084 | 2024-10-05 04:17:00 | NPP-375D | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| e8020cc8-86aa-3329-a45c-4af5cfc36094 | -18.56618 | -41.23191 | 2024-10-05 04:17:00 | NPP-375D | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 4f432cb2-d1aa-3e3b-8b9c-247cd49c2d4f | -18.55847 | -42.23417 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 17c528c1-db7c-3871-b512-f5c79ada759a | -18.55746 | -42.23136 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 056157f7-2258-389c-9030-cdf43ed89521 | -18.55684 | -42.23603 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 3fc97f57-c1fa-320b-95a4-5b798699c851 | -18.55478 | -42.23363 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 19c07b63-3e62-397f-a4d3-d85ceea68677 | -18.55413 | -42.23826 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| a1cfaf47-9283-3fac-a959-61342fd87784 | -18.55314 | -42.23551 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 4b65482e-6d4b-33b0-b496-04255a6c65ca | -18.55252 | -42.24012 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| a00a2d2d-6399-3fa3-91fa-0a97bc86262c | -18.55044 | -42.23777 | 2024-10-05 04:17:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| 49f9c5fe-8bf4-35d5-a481-a814e8b5f823 | -18.53197 | -42.26221 | 2024-10-05 04:17:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 6a72495b-e07c-373a-b9b5-b8bc6d7bf64d | -18.52529 | -42.25618 | 2024-10-05 04:17:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| af7d144c-f3ae-3b09-938d-1ee81108c32b | -18.52163 | -42.25549 | 2024-10-05 04:17:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| e952a7b5-401f-306d-8ee0-66988779ec37 | -18.4966 | -42.19139 | 2024-10-05 04:17:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 15ffdea0-4bfb-337f-96d4-d6e7c2138a1e | -18.47854 | -40.93239 | 2024-10-05 04:17:00 | NPP-375D | ÁGUA DOCE DO NORTE | ESPÍRITO SANTO | Brasil | 3200169 | 32 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| a49f4c1e-99b3-3e6b-b0d4-045cab7242f3 | -18.46513 | -42.41979 | 2024-10-05 04:17:00 | NPP-375D | PEÇANHA | MINAS GERAIS | Brasil | 3148608 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| bb95f829-8fc0-3dbe-89b7-d054463b02a3 | -18.4313 | -42.21467 | 2024-10-05 04:17:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 6737e479-4315-3d27-a9ff-1d37a7070a55 | -18.43066 | -42.21928 | 2024-10-05 04:17:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 1933a911-b35f-36a8-96ff-72412cb1e7f8 | -18.42762 | -42.21409 | 2024-10-05 04:17:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| c9e44c5f-17cb-38de-b0af-43de93e54ea8 | -18.41781 | -42.20341 | 2024-10-05 04:17:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
 
 
 [Clique aqui para ver as próximas entradas](README81.md)

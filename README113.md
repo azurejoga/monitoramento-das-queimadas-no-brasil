@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| cc925df4-2da9-3730-8f56-2b48c7321bfe | -19.32532 | -42.57228 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| b75efe37-3f50-3511-b21e-d91cfe45391c | -19.32484 | -42.59393 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
-| 47525a7a-4eb2-3f37-a936-848eaefc64ac | -19.32448 | -42.57951 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 0095a531-55fe-3a1f-97eb-354269483b00 | -19.32421 | -42.59981 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
-| 29c2d9f1-5004-389e-aa14-07eeab9fe525 | -19.32366 | -42.58659 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| aa02f69d-aa8c-3b7d-8e25-f1382c5742dc | -19.3229 | -42.59313 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| 1557d70a-00cf-37e7-a31e-be7830975d27 | -19.32222 | -42.59907 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.6 |
-| 7d602d30-9582-36ba-bec7-0fdc670c41fe | -19.32221 | -42.57203 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| dc8b079a-b9cf-3023-88bc-ada3367a4d16 | -19.32158 | -42.60456 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.6 |
-| 208c563c-873a-3786-be89-0a2dea96f311 | -19.32144 | -42.57922 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 77ec7a81-aa24-31ae-b796-199f7d19c3f3 | -19.32063 | -42.58681 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| d36f4ba7-d61d-3748-9918-b12b77df8c16 | -19.32048 | -42.57101 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 94aa6120-8e4f-30b6-9376-467e2915e86c | -19.31991 | -42.59353 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
-| 8da400aa-e50c-3a16-8239-a49d99c47b0f | -19.31964 | -42.57829 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 665989f8-5c9d-3fe5-947c-45ff33f5443c | -19.31928 | -42.59933 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
-| 4fec9021-68b9-3c3e-937d-a4b9130dabaa | -19.31875 | -42.58599 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
-| a95d86ab-5854-3f05-a14f-8e39527d1859 | -19.31798 | -42.59266 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
-| e92ecf75-be2c-3e7f-8f52-5761a83e9563 | -19.3173 | -42.59851 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| b12fc281-1087-3a4a-a929-889d1138e489 | -19.31724 | -42.57197 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 6b70c3f4-5298-3a26-a26e-22b1700dbc2e | -19.31669 | -42.60381 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| a51be830-4c59-3e7b-85df-f8c86d40066b | -19.31642 | -42.57965 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 50e2eb5a-6b11-320c-a539-c187e8a84c36 | -19.31566 | -42.58672 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 9291621c-3e36-3673-a735-bfcd38072927 | -19.31544 | -42.57142 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| b2d76a3b-af9f-390e-9cce-3b99cd9cf711 | -19.31499 | -42.59301 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.0 |
-| 45ef1a04-e530-3dc7-aba9-15995251634c | -19.31454 | -42.57927 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 0d5f410f-3ec8-3abc-88ea-b54d9b8e5800 | -19.31375 | -42.5861 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
-| 0f20ead7-9311-3a5c-ab57-0c79210fbadc | -19.31305 | -42.59218 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
-| 2f004c26-f07f-3a25-bb21-23654fbe0e7b | -19.31223 | -42.57225 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 28a12050-ccd4-3c35-a20f-88899db45622 | -19.3118 | -42.60306 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 8c232f63-812f-3066-97e5-5135d85d34be | -19.31141 | -42.57993 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 37b0b5dc-8105-3ba3-8b55-d29ff4f904d1 | -19.31073 | -42.58631 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| a55383fe-3dc9-3e75-a79e-5c400ee54d74 | -19.30961 | -42.57876 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 72e8a141-315a-37f9-90a3-9f7ae98896af | -19.309 | -42.40734 | 2024-10-04 04:34:00 | NPP-375D | BELO ORIENTE | MINAS GERAIS | Brasil | 3106309 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 21218ad4-8a82-3659-b5be-5faa84b9bd62 | -19.30887 | -42.58526 | 2024-10-04 04:34:00 | NPP-375D | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| ac63da54-cc42-355a-b391-823176531254 | -19.30818 | -42.5913 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 626dbb11-bd0b-3ea6-9aae-4420e75b9238 | -19.30332 | -42.59023 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 6ed560de-c522-3fb1-9f7a-af07c2b849ac | -19.2896 | -42.57947 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 84de19df-e3dc-33e7-b620-c5f7a5f8b3ee | -19.28886 | -42.58598 | 2024-10-04 04:34:00 | NPP-375D | MESQUITA | MINAS GERAIS | Brasil | 3141702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 1a34b92a-e853-3f7c-aa60-1459afc6c095 | -19.14013 | -42.5232 | 2024-10-04 04:34:00 | NPP-375D | AÇUCENA | MINAS GERAIS | Brasil | 3100500 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
-| 8e199d9d-ebf5-3f68-94eb-e19d0b6ba748 | -18.92251 | -42.02108 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| a5988bcb-bdfc-3bc4-8c3f-9fc6e06d4dfa | -18.92186 | -42.027 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| cefcfeb6-b213-3e99-8a79-6fc36f893159 | -18.91742 | -42.02066 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 234e50d6-49c3-324d-bf4c-3c34333e4ec9 | -18.91677 | -42.02653 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 2dd58481-9aab-362d-85aa-948b21d15bc7 | -18.91608 | -42.03272 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| d3f699f8-c08a-3d64-a8bd-e693dec7aa81 | -18.91288 | -42.0152 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 85f76a17-dfd8-309b-b306-3ade6c3bb957 | -18.91233 | -42.02013 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| e6fa3a3f-2f5c-3bc4-afbd-5a1aa4da78d1 | -18.91168 | -42.02599 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| aac707d8-30da-38aa-be3a-7b9dc0094da7 | -18.90777 | -42.01484 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| f6dec3a0-f1f7-3961-954d-e9c5125c0e56 | -18.90726 | -42.01952 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
-| 9b6240dd-0d82-3655-a059-7a2ab3a92a8a | -18.90661 | -42.02539 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
-| e862b793-0e14-3e62-ae90-e9c2d55a4931 | -18.90375 | -42.00457 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 2f3e5047-9dd0-364f-9c2b-f8e29361662f | -18.90339 | -42.00792 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| b4504c94-840a-3dc7-a053-4cf715a196b3 | -18.90302 | -42.01124 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| e3d926c2-f7d1-36fe-b135-0dba46bfa88c | -18.90268 | -42.0144 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 899f70dd-b8a5-34c3-bba6-c26b0f179c4b | -18.89712 | -42.01816 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 82bdb57b-781b-35c9-9e56-1432ae15f691 | -18.89206 | -42.01742 | 2024-10-04 04:34:00 | NPP-375D | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 86f22f0a-d0ae-3b76-9311-67975eb87224 | -18.61864 | -41.84824 | 2024-10-04 04:34:00 | NPP-375D | MATHIAS LOBATO | MINAS GERAIS | Brasil | 3171501 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| ef35333b-b6d9-376b-8007-8a3eba146604 | -18.6183 | -41.85138 | 2024-10-04 04:34:00 | NPP-375D | MATHIAS LOBATO | MINAS GERAIS | Brasil | 3171501 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 173f40e9-8ab8-3f17-b9c4-3db7c3e770a4 | -18.55737 | -42.25998 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| c0c55847-2491-391a-92d5-c3ec91a875a3 | -18.55241 | -42.25927 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| c4ac0702-0740-30e2-95a7-56f8c7267eff | -18.54444 | -42.24029 | 2024-10-04 04:34:00 | NPP-375D | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 6d34cf23-d721-389e-bebd-f8a4f2592faf | -18.5376 | -42.25648 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 96c100bd-51f1-3235-8da2-244532bed011 | -18.53694 | -42.26244 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 0b4efd21-f1f0-3f68-baad-950494c3d521 | -18.52781 | -42.2538 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 84ae490b-4afe-3232-832b-eb37618cb376 | -18.52711 | -42.25309 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 85b48c72-f055-3040-ac18-90d438c0477c | -18.52642 | -42.25891 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 189c6896-935f-3c38-a3f4-3b4dc50b718f | -18.5211 | -42.22301 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 500168d6-b4ef-3a63-ac4b-3b648bfa3084 | -18.52061 | -42.22235 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 8aac34ba-2e89-376c-83cd-06019a809c7a | -18.45454 | -42.27088 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| b22c4ec9-fdb6-3f2b-a6d4-fa5e27790e22 | -18.45386 | -42.27691 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| d2019ac8-9a2a-37e3-abac-849253e168b0 | -18.43563 | -42.21462 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 33182b13-e7c6-3f9a-93ac-cc392d397954 | -18.43126 | -42.20851 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
-| 19533ea2-cded-32e1-8d09-25940a56fc02 | -18.43066 | -42.214 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.1 |
-| 0d38883e-a9c6-366d-910b-8527226733db | -18.42656 | -42.20753 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 344dd76d-9ff5-3f49-b363-a70979497ad9 | -18.42628 | -42.20789 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
-| 82b657bb-801f-3f29-b22c-d197e03dd197 | -18.42593 | -42.21288 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 9ea67c2b-d40d-342d-90f4-25e839e4da2d | -18.42569 | -42.21331 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.1 |
-| b74752b9-6ccf-3eff-ba51-62238b492692 | -18.42096 | -42.2122 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| 95101a6e-0d9f-3bf7-9a45-96082f3f515f | -18.42071 | -42.2126 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
-| 06718157-7852-3e6e-8836-e4b7e3053dba | -18.41029 | -42.21709 | 2024-10-04 04:34:00 | NPP-375D | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 80dd16e3-275c-3326-92f5-cf9179fc11ba | -18.40958 | -42.22318 | 2024-10-04 04:34:00 | NPP-375D | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 14e411d7-1065-35e5-ba57-17701090a79c | -19.43208 | -43.06652 | 2024-10-04 04:34:00 | NPP-375D | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 9d7294e1-0319-311b-a96c-97f19da6ea2c | -19.28448 | -42.88124 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 3cdc5a51-31c3-39d9-9d5e-55c22888c4f2 | -19.28426 | -42.87602 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| e1de1add-31a7-3552-8271-2076602c4a50 | -19.2836 | -42.8821 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| d08ebaa3-6e8f-3638-ba53-8b1bf2c85259 | -19.27964 | -42.88083 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| f6873c4d-5d4c-3f90-921b-b8a47910318b | -19.27943 | -42.87551 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| ba761b88-f478-382b-9de0-cfd8da004ec0 | -19.27877 | -42.88163 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 02d219e8-7bd9-398d-8c23-de68f15528d2 | -19.2756 | -42.87357 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 72efc302-166e-3eb3-b11a-6fb30fd00d65 | -19.26662 | -42.86671 | 2024-10-04 04:34:00 | NPP-375D | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 224bc5e0-c2ac-34a8-a271-09d16a677fc6 | -19.56684 | -42.73126 | 2024-10-04 04:34:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 2022a035-997f-3c50-ae92-3eef8de1026e | -19.56612 | -42.73774 | 2024-10-04 04:34:00 | NPP-375D | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| ae79b3c0-a9a6-3549-80fb-ad418edbaa77 | -19.65546 | -42.38761 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| ae215c96-3e25-374f-8184-47316f42cf92 | -19.65476 | -42.38771 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 60cf1d53-6cb5-370f-b56b-ab12d22d93c0 | -19.65107 | -42.38153 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 734af68e-2ab7-3342-b212-b7a9da8a6255 | -19.65046 | -42.38699 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| e22a17c2-b81f-3521-ade9-a9c43f07fc99 | -19.65034 | -42.3816 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 3ae80097-587e-32e5-883e-38a95747bd29 | -19.64976 | -42.38708 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 37598d24-6104-3bd2-97a4-712baf525cab | -19.64545 | -42.38643 | 2024-10-04 04:34:00 | NPP-375D | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| ee38a1e0-a6a0-3439-a71b-9eb0e0697e79 | -19.62099 | -42.23895 | 2024-10-04 04:34:00 | NPP-375D | ENTRE FOLHAS | MINAS GERAIS | Brasil | 3123858 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 22473afd-bfbc-3d87-96e5-a821bb3eea69 | -14.19601 | -46.48347 | 2024-10-05 04:40:00 | NOAA-20 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ba3626ad-abe2-33d0-baad-8d7b9c837027 | -14.19211 | -46.48281 | 2024-10-05 04:40:00 | NOAA-20 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 745033b8-602e-3e57-99ba-57dc912d7c22 | -14.19141 | -46.48787 | 2024-10-05 04:40:00 | NOAA-20 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 6c1e25d1-48e4-3029-8caf-be8d3b8fb1a0 | -14.04721 | -46.37263 | 2024-10-05 04:40:00 | NOAA-20 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 8682551a-955f-36de-b16f-76e35d9639c0 | -14.04653 | -46.37764 | 2024-10-05 04:40:00 | NOAA-20 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| c77bd76a-7d4c-3794-bc60-b1180e6b3451 | -14.04466 | -46.3618 | 2024-10-05 04:40:00 | NOAA-20 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c7e920cc-d0b6-37d9-bfe1-585554b08e30 | -15.27205 | -40.32412 | 2024-10-05 04:40:00 | NOAA-20 | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| c836294c-a50d-3f66-b7de-4f610d461a9f | -15.27153 | -40.32878 | 2024-10-05 04:40:00 | NOAA-20 | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| a8241372-ea79-34e8-9235-cf506eb84c6b | -18.56703 | -41.23176 | 2024-10-05 04:40:00 | NOAA-20 | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 7f7efd2e-7644-38fa-93da-9bde907ec945 | -18.5666 | -41.23598 | 2024-10-05 04:40:00 | NOAA-20 | ITABIRINHA | MINAS GERAIS | Brasil | 3131802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| ffb2e959-f13b-3ab6-98c7-ee9375688a9e | -17.87689 | -42.6834 | 2024-10-05 04:40:00 | NOAA-20 | ARICANDUVA | MINAS GERAIS | Brasil | 3104452 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 31c46206-a29a-3e70-b1ad-955ddba4fa06 | -17.87654 | -42.6866 | 2024-10-05 04:40:00 | NOAA-20 | ARICANDUVA | MINAS GERAIS | Brasil | 3104452 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| a35dbca7-0da2-35c5-b1d1-ec0eb39a3382 | -17.62543 | -42.01764 | 2024-10-05 04:40:00 | NOAA-20 | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 45659262-6f05-3836-a64c-1c3c48547631 | -17.61992 | -42.01699 | 2024-10-05 04:40:00 | NOAA-20 | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 82254ba5-a2f9-34c0-8945-3f8955839461 | -19.02388 | -43.1809 | 2024-10-05 04:40:00 | NOAA-20 | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 58bf1892-1e99-35f0-8c9f-5c4a570b5112 | -19.0149 | -43.16689 | 2024-10-05 04:40:00 | NOAA-20 | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 969aaa51-8385-35c3-b787-7af39b9eaefa | -19.01451 | -43.17033 | 2024-10-05 04:40:00 | NOAA-20 | CARMÉSIA | MINAS GERAIS | Brasil | 3113800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 57c71a98-634a-3da7-9c5e-acdbdc2a7266 | -18.64057 | -43.14227 | 2024-10-05 04:40:00 | NOAA-20 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.5 |
+| 4504d1a9-b905-3914-9da5-46406ead314f | -18.64024 | -43.14531 | 2024-10-05 04:40:00 | NOAA-20 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.5 |
+| b73cc750-1908-3020-9d4e-3d528ef0e71b | -18.63989 | -43.14854 | 2024-10-05 04:40:00 | NOAA-20 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 18.2 |
+| 4fdaa46a-b891-35d6-91d0-0ba3b82c88f6 | -18.55752 | -42.23523 | 2024-10-05 04:40:00 | NOAA-20 | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 0ae43d6d-cca6-335c-b9a5-8a434378da3e | -18.55199 | -42.23481 | 2024-10-05 04:40:00 | NOAA-20 | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| f80ee71c-100d-3f41-b0ae-2a6898500f9d | -18.55157 | -42.2388 | 2024-10-05 04:40:00 | NOAA-20 | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| 2959f6ef-ad17-3dc7-866e-7fd2ffa7e286 | -18.55117 | -42.24262 | 2024-10-05 04:40:00 | NOAA-20 | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| db52bb39-e8ce-3dfd-beda-d3e480f13d83 | -18.52206 | -42.25513 | 2024-10-05 04:40:00 | NOAA-20 | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 60a7c6bb-333d-30e7-bd33-8dce1a28fe21 | -18.52169 | -42.25866 | 2024-10-05 04:40:00 | NOAA-20 | VIRGOLÂNDIA | MINAS GERAIS | Brasil | 3171907 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| f938c968-7118-3d4f-b7a3-f2c1249158c7 | -18.41545 | -42.20509 | 2024-10-05 04:40:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| b1f4b962-b532-3c03-a1d1-a89642be58d5 | -18.41507 | -42.20882 | 2024-10-05 04:40:00 | NOAA-20 | NACIP RAYDAN | MINAS GERAIS | Brasil | 3144201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 7c176455-7530-37f2-922b-47d81f4baeba | -15.75234 | -43.84353 | 2024-10-05 04:40:00 | NOAA-20 | VARZELÂNDIA | MINAS GERAIS | Brasil | 3170909 | 31 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 36ae22ab-b60f-37f1-bf91-c4de64848e8f | -16.34814 | -43.69696 | 2024-10-05 04:40:00 | NOAA-20 | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0e3c96f6-a45f-334b-8e31-971321e1baa4 | -15.95563 | -43.36141 | 2024-10-05 04:40:00 | NOAA-20 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 73cb9b45-62a8-38a4-b08c-e82de43decab | -15.95496 | -43.36713 | 2024-10-05 04:40:00 | NOAA-20 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 54ca6ba1-3682-3953-bf81-814a8205a4ef | -17.74148 | -43.82761 | 2024-10-05 04:40:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 78630655-9dc7-387c-8976-b7effa938ef1 | -17.69983 | -43.80053 | 2024-10-05 04:40:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 51826bc0-c76f-3d24-8fd6-9436285b2245 | -17.6992 | -43.80609 | 2024-10-05 04:40:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 6c5704ff-3840-3d5e-b281-73ed87c0e294 | -17.63541 | -44.31927 | 2024-10-05 04:40:00 | NOAA-20 | FRANCISCO DUMONT | MINAS GERAIS | Brasil | 3126604 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| db1cdbdf-77a0-3187-8b94-7316fc2e68a7 | -17.63483 | -44.3242 | 2024-10-05 04:40:00 | NOAA-20 | FRANCISCO DUMONT | MINAS GERAIS | Brasil | 3126604 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 89ebe1a0-80c7-32fd-813e-6002f431fc29 | -17.61883 | -43.26503 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2e3a4d01-68b1-3eda-a845-36a6fcf20ea1 | -17.61795 | -43.2572 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 121d3bb5-7c0f-3195-b6eb-15252b51fc5f | -17.61765 | -43.2599 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 359297e2-93b6-3c31-8cbe-b319e1af05b7 | -17.61736 | -43.26263 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8a4d2735-358e-3182-8ad7-55c6d3a4af68 | -17.61705 | -43.26545 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 96baaafa-43cb-3935-85f7-e504cd4753cf | -17.61466 | -43.25649 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 015a5975-9889-395a-b59b-1586f1479d35 | -17.61435 | -43.25921 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 580fdd41-ffa7-3a26-8c78-2b8250648dce | -17.61403 | -43.26192 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 47e36ebd-fb27-3542-a0b2-8041a13b5d08 | -17.61372 | -43.26468 | 2024-10-05 04:40:00 | NOAA-20 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| d3214d48-081d-398c-b64a-73f4a7e24bbe | -19.46554 | -44.1374 | 2024-10-05 04:40:00 | NOAA-20 | PRUDENTE DE MORAIS | MINAS GERAIS | Brasil | 3153608 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d1a6b626-cbec-3b75-86b3-5c5c1d874147 | -19.23922 | -43.36621 | 2024-10-05 04:40:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 9aec3961-5760-3a56-b088-b59eaf924d20 | -19.23884 | -43.36974 | 2024-10-05 04:40:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 790772fc-1977-3c08-b845-8d799d6cf9c7 | -19.23378 | -43.36823 | 2024-10-05 04:40:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 1b57faef-afca-3c37-9729-26177195ab5b | -19.23343 | -43.37161 | 2024-10-05 04:40:00 | NOAA-20 | MORRO DO PILAR | MINAS GERAIS | Brasil | 3143708 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a0bf1888-74cd-3e70-956a-21d41cfd8bcb | -18.59759 | -43.95581 | 2024-10-05 04:40:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b03cbf24-5e7a-343e-b151-c2ef9d3d66db | -18.59579 | -43.95493 | 2024-10-05 04:40:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cd2beb48-a4bb-366b-b8cc-1d65c7e8bfd2 | -18.5795 | -43.83476 | 2024-10-05 04:40:00 | NOAA-20 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| dd1daf9c-c86a-3ef3-be6e-95dac458fcd3 | -18.88022 | -43.59158 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| c4421df4-c8a7-3fe2-91db-ce55ea43de71 | -18.8799 | -43.59459 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 10c4fafc-f8fb-30c0-9852-225898168b4a | -18.87958 | -43.59758 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
+| cccfce9d-2c90-3bae-a963-027568dde915 | -18.87926 | -43.60055 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
+| 60ac61c8-8d4a-3537-b4fa-c60a700a250c | -18.87894 | -43.6035 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| e89c458d-1acc-3327-8949-91cdfea0eafd | -18.87539 | -43.58897 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 9035909a-0111-3d7a-8a7d-1c51d1d790e8 | -18.87506 | -43.59194 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 7b3c95a5-a8d6-341c-9737-9a6447289b3e | -18.87475 | -43.59492 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 2515dc73-814e-31e0-b736-d1d76c98b904 | -18.87444 | -43.59782 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 360ae608-d71e-313b-92f1-f1295bb3be3f | -18.87413 | -43.60065 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 7a688e21-5296-33f6-97c7-83d51b6e1490 | -18.87383 | -43.60345 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
+| 4bf183cd-3509-3390-8aed-c01ba329f51b | -18.87144 | -43.58879 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| e8aba44a-b444-3fa1-870a-b4de9a90c8cc | -18.8711 | -43.59175 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
+| 671bf2eb-bdd9-34c0-8980-05e3c2b1502c | -18.87021 | -43.58947 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| a5ba5cac-4919-3125-8c5d-a7ffcdc2d24a | -18.86989 | -43.59248 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 43356117-4e8e-34d8-9fa9-b47ffb159b51 | -18.86948 | -43.60593 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| 67b7f99d-f32e-34bb-b350-0a78552e5b7e | -18.86916 | -43.60877 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| a8e804b2-dffa-3ad3-b522-65e16cfc11b7 | -18.86884 | -43.61156 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| 4c0d5069-3571-3577-905c-f03199894554 | -18.86838 | -43.60662 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
+| a30257fb-1d52-308a-be04-38a63c1aab15 | -18.86808 | -43.60941 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
+| 34884cb2-220d-3562-bf5f-9b46e6e23b0b | -18.86778 | -43.6122 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
+| d35226f2-5d36-3f75-a581-39beea4268d2 | -18.86659 | -43.58634 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| b42ee771-44d6-3896-9978-d0ad498e7a82 | -18.86625 | -43.5894 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 1cd1d87d-03bd-3f7c-99d3-7067aa0aff4d | -18.86569 | -43.58387 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| b84a9695-b012-31ce-b457-3a185eb98f00 | -18.86536 | -43.58702 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| cd0ad3ef-5f00-3778-95a5-18d6bd32271d | -18.86459 | -43.60397 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| cb59a1ca-207d-34e0-bcaf-0f7785417b54 | -18.86428 | -43.60663 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| 82293020-bb72-3983-b463-146e031f2314 | -18.86399 | -43.60923 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| 67a192df-95fe-3a44-9cf2-9f5095c02bd6 | -18.86377 | -43.60191 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 7999d3f0-50d4-3e3c-98be-452c7c3f8192 | -18.86369 | -43.61187 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
+| 779357e2-15c4-3850-b828-1b3b2f46756d | -18.86348 | -43.60468 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| eeda2262-9ebc-320d-8c36-19f4c8e7f5ab | -18.86338 | -43.61459 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| cddd0c60-4d98-35d7-b0b1-0e768499ef54 | -18.8632 | -43.60724 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 25476229-4fcc-3665-80b9-0303dad6eed2 | -18.86306 | -43.61739 | 2024-10-05 04:40:00 | NOAA-20 | CONGONHAS DO NORTE | MINAS GERAIS | Brasil | 3118106 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 4a8d2212-fa48-340a-ba91-5099b027c7d5 | -18.86236 | -43.61514 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| dbdf415a-d761-349f-ae70-db857f6ba1cb | -18.86184 | -43.58304 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 443778ab-b5e1-34c0-abbc-858cea4694b4 | -18.86146 | -43.58638 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
+| 805379d1-bb22-3045-840e-e807520c657a | -18.86062 | -43.58337 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 62ecb53a-e747-38af-addd-565e77fe9d09 | -18.86026 | -43.5868 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| a60213e1-361a-3bfc-bfef-3b281b5b4f16 | -18.85942 | -43.60433 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 35dee866-dcb0-30dc-8b75-e9701dc8e6b0 | -18.85648 | -43.58519 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
+| 6c55d531-2e7d-3028-92a7-beecef785cec | -18.84574 | -43.58959 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 340e6bf4-0411-3910-834d-a4d716ab6408 | -18.8403 | -43.59242 | 2024-10-05 04:40:00 | NOAA-20 | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 107b5d37-5ea8-302d-8acc-47dfe694b8c2 | -18.63394 | -43.20359 | 2024-10-05 04:40:00 | NOAA-20 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 9040ad63-ff5d-359e-bcc0-d89258df69d7 | -18.09404 | -43.95789 | 2024-10-05 04:40:00 | NOAA-20 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 6686c7ad-6227-3f7f-97d2-68d8e6eb184c | -18.0907 | -43.96111 | 2024-10-05 04:40:00 | NOAA-20 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
 
 
 [Clique aqui para ver as próximas entradas](README114.md)

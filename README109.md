@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f84c13ff-a156-3b31-be7c-c564f150a90d | -9.82327 | -51.92357 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| b7bd440c-f09d-3547-aa88-37b772a7bc29 | -9.82034 | -51.91859 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| f5d2781b-188e-374e-ae4c-cc5e5df60285 | -9.81962 | -51.9229 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 05e76188-b85d-30bd-98dd-0b2b4be779aa | -9.81596 | -51.92227 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 6bc78cbd-a186-31ed-bf0f-0ae41d328bfb | -9.81123 | -51.81734 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ba24d861-7716-31b3-9bd6-2ed098cd6edc | -9.80899 | -51.80818 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| c54539c4-08c8-3639-a39d-0d1469096949 | -9.80858 | -51.81084 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 7c2f008f-5fa2-3e86-9d80-c46cf164e4b5 | -9.8083 | -51.81241 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b90ee1ef-e453-3c9f-8cd5-5226ebf19656 | -9.80786 | -51.81509 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d6074ca9-c8de-3451-89e1-edee1c9f0820 | -9.80759 | -51.81668 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 1dcd3b52-6ccf-39a2-9544-1241fb8a2e46 | -9.80713 | -51.81936 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2d2898e4-0066-3149-8419-1610e9e72b89 | -9.77831 | -51.9262 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f88db3db-71b2-37b0-8769-e7861cc2a9c9 | -9.77678 | -51.91266 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1fe05bc0-e40c-37f4-8c93-591abf2cd5a6 | -9.77535 | -51.92128 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| c8e2ae49-fd5b-3977-93f4-92d071a37096 | -9.77463 | -51.92563 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3efa98de-ebd7-333c-bc1e-dd35186ec198 | -9.77321 | -51.93425 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ec093500-14a3-3777-812b-ec2b44f09fb6 | -9.77313 | -51.91199 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2a2bf36b-d29a-3503-ad20-5585a1125963 | -9.77249 | -51.93859 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ec15eccb-9ed8-357f-bb87-680e6210ce76 | -9.77168 | -51.92076 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| af096666-5780-3eac-a25f-517f1547284a | -9.77096 | -51.92509 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 89e94b02-e9bb-35d5-8744-fe03aac13de0 | -9.76947 | -51.91137 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2c633009-c797-3c58-b809-240bced67930 | -9.76883 | -51.93793 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d6215ac0-bd29-3141-8430-b013b47bae83 | -9.76518 | -51.93725 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0ffa6321-c8de-3def-9567-b5ee30f3aff0 | -9.76507 | -51.91522 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1087064c-fd70-3dfd-988e-bc2572b0d7fe | -9.76221 | -51.93248 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| fe08879d-851a-347b-a7f4-3b87ec7a0f41 | -9.76152 | -51.93662 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ffc7b6b4-e43f-31aa-aabc-327ef2d76e65 | -9.7614 | -51.91465 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7e0925c6-b38b-3df8-8966-58e5d5c6921b | -9.68357 | -51.37704 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a70b6809-f487-3c8e-b1f3-4d6b9823637f | -9.68288 | -51.38113 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fb9a5c2e-2162-34f2-ab00-e8eb35772cd0 | -9.68124 | -51.34723 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0a35c491-8899-31fe-a9da-5e729d4319ba | -9.67768 | -51.3466 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 58cbd5bb-78ef-3da4-bba5-7ca231158ae6 | -9.60646 | -51.4531 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c37f432c-82ef-3191-95fd-e79f5abd5021 | -9.60288 | -51.45244 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 190ce5fd-d429-36b3-a30a-e4cdf3b2066b | -9.59722 | -51.4644 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 7a6d1c62-26db-39dc-a5c3-1e669020f8cd | -9.59363 | -51.46381 | 2024-10-04 04:32:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| a3184d9e-604a-3f69-995c-12f5d9d70386 | -10.47427 | -50.83215 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| ffb48a36-50e7-30d9-861d-0ca25c4d2e6f | -10.46164 | -50.73596 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 779f94ec-819d-385e-a9a0-e00c635584b6 | -10.45882 | -50.73158 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| da287e9d-d00f-31ba-a9de-7cf1babf012f | -10.4582 | -50.73536 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c9d6e5f6-63f5-3b2f-a29e-8a740f4fd3df | -10.45757 | -50.73914 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0773e30c-3483-3835-9446-56751d261c4a | -10.45695 | -50.74294 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 5d9fab99-b535-315d-92bd-93d1ebaf3eb9 | -10.45537 | -50.73099 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 36e82e97-c4a9-3009-8e72-36910218fab9 | -10.45475 | -50.73476 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c5a104d6-217e-3b4c-b1f4-70f621708134 | -10.45413 | -50.73854 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| e843b9ce-c542-310e-8dd4-22c70af427b1 | -10.45192 | -50.73042 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 10adfee9-a406-3408-8e16-7786dd061762 | -10.4513 | -50.7342 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| f67952ae-90cf-381b-a606-d6dc752725c1 | -10.45067 | -50.73798 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ca756d9e-c73c-3953-a9d7-c23859a40bd1 | -10.45005 | -50.74179 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 061fd5c2-190c-3a5e-8e8f-aa4512e76d00 | -10.44847 | -50.72987 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 654fca1f-e1b5-3bc0-bba3-d0379f1d31ae | -10.44784 | -50.73365 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| db6e3a42-54bf-30f5-989b-4c763b9968f3 | -10.44722 | -50.73745 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 8e7f46aa-6871-39c8-8a6b-a3e55be6a325 | -10.44659 | -50.74124 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 910271ac-2563-3be3-bb5a-31959c810798 | -10.44596 | -50.74504 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| f80005f9-8a01-39d3-888f-fc7e80ad4469 | -10.44534 | -50.74883 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 8cdd96b0-7bc5-33f3-883d-367f9344243b | -10.44532 | -50.79198 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 3ae63f36-1f61-343d-832c-29ed66d6498d | -10.44502 | -50.77226 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| a34a9918-8f1e-365c-9dbf-98324dbb0216 | -10.44501 | -50.72931 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b5b2e22d-5c9f-3c3a-9834-498ceb4343bf | -10.44472 | -50.75262 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 2b7e3161-6ac8-363e-aefd-add70f28dcdc | -10.44439 | -50.77609 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ddfce86b-253d-398e-ae53-2d508739de3f | -10.44439 | -50.7331 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 8bc8d936-c8cc-34f0-adaa-67c185ad1754 | -10.44409 | -50.75642 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| bb2520cc-320c-3092-b229-f4065d3b561b | -10.44376 | -50.77993 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 04e15043-5e49-3205-9f34-ed63bb74bcba | -10.44376 | -50.73689 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| cc057fc6-a494-3c66-839f-8a14a9bd6cdb | -10.44346 | -50.76023 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| a1bed7ab-41cb-3837-8bb8-117a68516d73 | -10.44314 | -50.74068 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 44cfd25b-2d69-36f5-8245-5b27ead0ea1c | -10.44283 | -50.76405 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 3bb07b5b-466d-35a5-ad49-dbf62c8e2c77 | -10.44251 | -50.74447 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 5dfaca75-0d6e-3d8e-9aa9-19630069341d | -10.4425 | -50.78759 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 84ec1418-8d83-35bb-8dca-b04ec4f0b746 | -10.4422 | -50.76787 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8b7d0f52-2ff2-348f-a246-de92e34f8cfa | -10.44189 | -50.74827 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 12360da6-e0aa-3dad-9cbc-5c08e5a1fd57 | -10.44157 | -50.7717 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b992af5e-644e-3d52-8e57-ee44185b34ac | -10.44094 | -50.77553 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 7fb2e02c-3f53-394b-a993-02f9a21ad231 | -10.44094 | -50.73254 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 8e0778e9-2b55-3c57-acc4-6c591ea1bf28 | -10.44031 | -50.73633 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 3e1f6787-0899-34f6-9e01-3eddd06f9e38 | -10.44029 | -50.8225 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| f49f2571-41e1-384b-b5be-3f0219edb61a | -10.43968 | -50.74012 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 331355b5-9bc6-3a6a-b873-691be726e8ae | -10.43841 | -50.79084 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 33ec8dd9-b08c-3532-984f-74b1fbd93fcd | -10.43495 | -50.79026 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| a951f7c4-cec9-309e-bac5-73e0405fe78d | -10.434 | -50.81753 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| e6d903de-fbd9-3425-84c2-6593b15946b9 | -10.4315 | -50.78968 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 2a088ffe-a76a-3a88-9e21-2d4745f81359 | -10.43117 | -50.81313 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 126cdea0-19c5-31d2-b216-b29c1af80094 | -10.43087 | -50.79348 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 424fb4e7-b5bb-3b6d-9c6c-2b5fe02fc0eb | -10.43024 | -50.79726 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 23453a78-3e9f-3b46-be3a-24fca48fb75d | -10.42962 | -50.80101 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| cd4a0d47-1920-3ca9-badb-c1f5e52b64c7 | -10.42836 | -50.80867 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 15cf58e8-cf82-33d5-bb37-9f32cabd1451 | -10.42771 | -50.81255 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 92b5115f-6393-32fb-a799-1f663803f7ed | -10.42741 | -50.7929 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| f48b3aee-e837-3cee-9d0f-e66498ae8d7a | -10.42708 | -50.81638 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d0ee008a-b680-3bc6-af3f-4f91a627e49b | -10.42678 | -50.79668 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 2b8304a6-157c-3bbf-97fd-ce9aaea98057 | -10.42616 | -50.80044 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 06c183b1-5489-38e7-80db-4fae126edc65 | -10.42554 | -50.8042 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| ce812a9a-8722-3084-84e4-876b4cc5024e | -10.4249 | -50.80809 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2d4336fd-8efe-32a3-885b-f5e6fc542e3d | -10.42425 | -50.81197 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| bb137734-c029-3872-b0fa-0da62b1fda7b | -10.4227 | -50.79988 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| efc06da8-22f0-3839-bbf0-2c74f1722612 | -10.42208 | -50.80365 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 21c8d695-84ba-3a00-84b5-4404e9cd4e4e | -10.42144 | -50.80751 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 2c9eaa9d-2f31-32e4-9a98-03579b1a5b96 | -10.42079 | -50.8114 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| dd9b3391-5b47-3b5c-90a9-dfb799c49398 | -10.63783 | -51.11231 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| c20bbce5-fe5b-3325-9d2b-5bd5f463f796 | -10.63718 | -51.11621 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| abdc859f-a29d-3a24-a8ac-70515deff2fb | -10.57593 | -51.09071 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7e364383-7516-3dee-ae24-fa3386c1d9d1 | -12.5508 | -53.46557 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f0a3cb63-c78c-3a0f-ad36-604caece8256 | -12.55013 | -53.4696 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 3c2198f5-034c-3cff-b5c6-b803a15abeff | -12.54729 | -53.46497 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9e503712-cdf3-34f5-9f16-f9d913b6eb28 | -12.54661 | -53.46899 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| a0075664-6be1-30d2-9945-40a1984888a6 | -12.54309 | -53.46839 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 3bb04376-54d9-39be-aba2-e961729633a5 | -12.54103 | -53.28738 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c003d0d0-8f47-31da-8f0b-a0aa050b80e4 | -12.53472 | -53.28222 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 245a98f8-d218-34b1-b5f8-88432c67cc1c | -12.53452 | -53.18997 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 0a84ed65-f9bc-32c9-a357-de322288dcdc | -12.51847 | -53.46411 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 9a1a5749-1784-3c5d-8f63-b7c40461115c | -12.51563 | -53.45947 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 77dfccb2-59ca-3ace-852b-622ed776f7b9 | -12.51211 | -53.45886 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 21c7120d-30af-3f51-ad59-d07209d6af96 | -12.50975 | -53.21003 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| cb33f11a-2f4b-3bb2-835b-422b3b4df49e | -12.50757 | -53.20155 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 75ce30bf-2e9e-3d55-8db8-0145b230b902 | -12.50627 | -53.20943 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1f2a6a23-e222-3d7f-850f-50c06b5426d2 | -12.50473 | -53.52399 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3ef245db-02ed-33e9-a7db-e481d20c2b0f | -12.50278 | -53.20883 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 76d591ea-2839-38d2-b33c-5bdb1417a77b | -12.50213 | -53.21276 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3b04b7d0-85c4-3f73-a771-2abb095409cb | -12.50189 | -53.51933 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e70b92c5-c563-361d-9a05-a2c3e3e67336 | -12.50052 | -53.52742 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 3c885017-546b-3894-8623-872f06d0d7ad | -12.4993 | -53.20823 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 328c3885-dbd7-35b6-92ae-d19107e8f7d9 | -12.49865 | -53.21216 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 53835175-74b0-3fee-922c-50abd9b975fe | -12.4963 | -53.53086 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| dbb09215-c549-3862-889e-4bd21407e784 | -12.48301 | -53.17702 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| aaa4cb77-8214-37ac-9370-a4d01995a685 | -12.48149 | -53.16463 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 27d2af70-d8f7-3565-80b5-9e6c82b1a2b4 | -12.47953 | -53.17642 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b008d979-126a-36f4-a48c-9638b02eca64 | -12.47736 | -53.16795 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 011d648f-e789-3c93-84ad-f864aa4a9a4c | -12.47671 | -53.17189 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 46289465-a244-3126-865d-8d095e308999 | -12.47389 | -53.16735 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3f2d0ec6-45cc-3a4a-97e2-cea8b03ec883 | -12.47323 | -53.17128 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1780f6f0-bf40-3643-a8e6-94f9f97f337c | -12.46975 | -53.17068 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3da24fa1-2b42-33b7-92c9-36be6382e089 | -12.45195 | -53.53688 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f1dd24ca-2493-3d24-9202-ab04855cf91f | -12.40023 | -53.49871 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| de4ffa0d-21d4-34bd-86c6-f79ac94a5abe | -12.30812 | -54.08359 | 2024-10-05 04:38:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f3023095-1f52-31be-b5d0-82d1b3928f68 | -12.29347 | -53.46428 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 02ea306b-5e13-3906-82be-e3b17318b052 | -12.63497 | -53.10992 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b11bb118-5fbf-300d-a618-6cb695081a50 | -12.63433 | -53.11382 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| eea2bff9-9a87-3c8f-a278-906cdcf54941 | -12.63368 | -53.11771 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 83bd788e-7d37-3491-a045-82a8c68e24d5 | -12.6315 | -53.10932 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 88.3 |
+| 860763e3-9060-37f8-b921-dc0d37159938 | -12.63086 | -53.11322 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 88.3 |
+| bb26db7c-5133-3278-bbe4-f23479cb80a4 | -12.63022 | -53.11712 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| a0e7ecf5-2b93-31ae-9928-ed7fef8681cf | -12.62957 | -53.12101 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| d93a73b2-1910-3163-8072-216c0092331b | -12.62804 | -53.10872 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 88.3 |
+| eea4e97d-c69b-370f-ad8b-da10ec56008c | -12.62675 | -53.11652 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| 9f23d33f-4516-39b3-8501-8f4b9198f8c1 | -12.62611 | -53.12041 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| d1c0e665-f528-31a4-836d-0c6c3c8ce920 | -12.62458 | -53.10811 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.6 |
+| 2c3488d8-3c69-3522-b564-d4a129156424 | -12.62393 | -53.11203 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.6 |
+| defb384d-a3e1-3a93-b1a8-1fda8016d752 | -12.62329 | -53.11592 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 4200ea24-fcbd-3331-aa33-5a10f2b030c9 | -12.62264 | -53.11982 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| cacb4cc6-1eca-34d4-af5e-91edd3c00532 | -12.62112 | -53.10751 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.6 |
+| c4955231-c32e-3868-bfaf-cdbba5b831cd | -12.62047 | -53.11142 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.6 |
+| f6a07f07-c582-3627-88c3-56e916bae6a2 | -12.61982 | -53.11532 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 6e95fae1-6731-3899-84f2-cb6a39196c32 | -12.61918 | -53.11922 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 83468bd2-bcdc-34c2-aed4-346a75d175dd | -12.617 | -53.11082 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ecb80540-cbf8-3b00-9356-041e2ce3dff4 | -12.61636 | -53.11472 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.6 |
+| 804b71d5-011f-3a64-8f58-ced8c9da654c | -12.61571 | -53.11862 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.6 |
+| 6ef388e6-af19-36fb-9b0f-bea200797664 | -12.61354 | -53.11021 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d86f17d7-a1b5-3c66-bc72-72bc233df2c7 | -12.61289 | -53.11412 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.6 |
+| df266712-738c-3d1f-a19a-1a4e1ca445ef | -12.61225 | -53.11802 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.6 |
+| 209812d1-f17d-3893-9fee-d0456d62ec64 | -12.60943 | -53.11352 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
+| 408f0cf1-b484-3538-b139-40bfa3d928ea | -12.60878 | -53.11742 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
+| 0a864efb-0d4c-34ec-9cc2-5c146a1cff01 | -12.60814 | -53.12132 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| d67492b1-635f-3be3-8299-8de057c43fb3 | -12.60532 | -53.11682 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 9.6 |
+| c8e178a0-4c89-322b-aad7-3b607a97ea7c | -12.60467 | -53.12072 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| 2088dd8d-0d31-39f8-bd1c-2636f35f9987 | -12.6012 | -53.12013 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 1b6a7fdf-f679-3e20-995e-ae8879084fb6 | -12.59774 | -53.11954 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 3a381f65-3122-3355-9f42-8c8f6e838d6d | -12.59427 | -53.11894 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e8641a4b-81bc-33e4-a19f-0faf27ff1955 | -12.57694 | -53.11596 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9b47872a-8bde-3cec-a54f-dfde91b3ad8c | -12.57628 | -53.11987 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a5016c42-762d-33ab-8cca-e576f21c16cf | -12.57347 | -53.11536 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| cedda55c-0e43-3339-96a3-3b56ce1d6ec7 | -12.57282 | -53.11927 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 42e648cc-1393-321b-9a66-1e296cbeb74b | -12.57001 | -53.11477 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 482f2a02-e8bd-3a51-a255-681a325d5d1e | -12.5672 | -53.11025 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| fb6c3dd4-fe5b-32a5-a28d-6bc2514d0765 | -12.56307 | -53.11357 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d69ba89f-fdd8-3b44-bc08-4b8f5727b0d9 | -12.52809 | -53.12047 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d5ef8851-ed03-3214-bf02-64f606ad678a | -12.62547 | -53.1243 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2b72f12a-ea25-3531-b25c-f738fa536ec9 | -12.622 | -53.12371 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| 4e68aa10-c98e-3891-8861-4b5559ff175b | -12.61853 | -53.12312 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| aaacf597-3723-3a3d-91a9-eef0c11abd46 | -12.61507 | -53.12251 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| 136896b1-e46c-3326-ac8c-b00e36a104c7 | -12.61442 | -53.12642 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| cb56ff28-6cf9-310a-813d-05bc2ede3cf6 | -12.61403 | -53.15035 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| ce211678-7b64-32bf-b998-8a44823d91f6 | -12.6116 | -53.12192 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| 87bfce8d-c253-326d-90f4-94dbf05c95f0 | -12.61096 | -53.12582 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| e9056c84-f145-34c6-87df-5314cdb976a8 | -12.61055 | -53.14976 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 94c3b4e6-a705-3329-b709-bff65c937490 | -12.61031 | -53.12971 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 17.4 |
+| c2252256-02cb-3507-a704-3cf4965756ab | -12.60749 | -53.12522 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| f34395a5-cb68-3dec-ae34-2d836d640e24 | -12.60708 | -53.14917 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| be86103d-ec17-3db2-adc7-cc7376839c53 | -12.60684 | -53.12912 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| 6c27db98-1d4c-3b8f-965f-f534757f06ad | -12.6062 | -53.133 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| 0352f626-b7fe-3acc-b1f1-45b076360164 | -12.60402 | -53.12462 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| cc4c5154-c261-30be-aa3f-4fdc037a41e6 | -12.60338 | -53.12852 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| 68b3b7ce-4e28-3f21-8645-34ffbb05509b | -12.60273 | -53.13241 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| 7e807b40-520a-39c0-8f3e-8bc0aaba69c7 | -12.60056 | -53.12403 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 7f0c281c-989a-3679-b890-a07b1d931f96 | -12.59991 | -53.12793 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| 0f8465f5-944d-3d56-84fa-a4102e4484b1 | -12.59926 | -53.13182 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| cdc2aea2-dd39-35e3-91e7-1b91882841c1 | -12.59709 | -53.12344 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 20217711-89b2-340b-9e53-b31ada69dade | -12.59644 | -53.12734 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| db8a2704-b7e1-353f-866b-34a623db794d | -12.59579 | -53.13123 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| 3381a268-d5d8-3887-ab70-6435dd0972a0 | -12.5945 | -53.13901 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 242fe132-10f7-3c3d-ba1d-610aa34d56f4 | -12.59385 | -53.14289 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d6d9013e-2069-3725-81d9-71a793ce47a9 | -12.59362 | -53.12284 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README110.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3e8ab78b-9d05-32c0-98d2-616342fe9778 | -9.32404 | -50.79809 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| 69b64c5b-e749-3c6a-a999-4daffcdc0391 | -9.32342 | -50.80191 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| c620255f-b213-3bcb-9e4f-da1bf8f814aa | -9.32279 | -50.80579 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| ef0662c9-1869-3a18-a1c5-14463bc77cf1 | -9.32215 | -50.80975 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| ab3e2bb9-9af3-35d1-9fcb-a165ea7ed4d5 | -9.3218 | -50.78978 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 61e10e34-26d2-3504-9f05-57b0b08847bb | -9.32151 | -50.8137 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 2bc4d7e0-3aa7-3c37-bc7c-d8162792ab2d | -9.32117 | -50.79363 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 73a02243-0e4a-34ad-8454-a8e1d01630f5 | -9.32055 | -50.79745 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| 57a73965-3b68-3a7c-b9ab-75ae8739c725 | -9.31993 | -50.80126 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| 88781100-6444-343e-8335-4bac7e128eac | -9.31931 | -50.80511 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| a3f81cc8-44aa-339b-8ac4-a215958f6712 | -9.31866 | -50.80912 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| cb9c84dc-3f8d-3f27-8ac8-f47fbdcabfe3 | -9.31831 | -50.7892 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 5609e915-c24d-38cc-b6c9-7694f24e8bf9 | -9.31802 | -50.8131 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 6b601982-6113-3fb5-9759-6e70876c6083 | -9.31768 | -50.79305 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3158b759-f916-36e5-a863-a9cf83989ed1 | -9.31738 | -50.81701 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c54cf84b-d0e1-3fd3-bc88-1de7bd70c062 | -9.31706 | -50.79689 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| cec94aab-73aa-3ff0-8a6c-73df92d58c94 | -9.31644 | -50.80068 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 03e5d476-f70d-3cfa-80f7-a3195b466de1 | -9.31582 | -50.80452 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 31a9f8cd-e0b6-38f2-930d-4fbdb48db27d | -9.31517 | -50.8085 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 9ccf0d3a-5342-3582-8986-58ca711048bf | -9.31482 | -50.78861 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 445cb12c-0fbb-367d-a91a-1cad6827cd24 | -9.31453 | -50.8125 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| f1c940be-e26f-3514-81ae-f42c4b573abf | -9.31419 | -50.79247 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 68fd13af-4bc8-3593-a0e8-96bf3dfe901d | -9.31389 | -50.81642 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| bb44f4d9-c8d0-3792-a693-0eb68850577e | -9.32272 | -51.13822 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b4853e57-35c1-3f1d-bbda-30eb2902127b | -9.32206 | -51.14225 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 23291be4-10f2-354d-a64c-6bf9662e4a95 | -9.12251 | -51.53457 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| df9dd663-28cf-327e-ab21-2fec93e71018 | -9.12181 | -51.53873 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| df01e86e-9b93-3c7c-9a1f-8e5850242ff5 | -9.1203 | -51.52556 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 54e5bde1-0f9c-3942-912f-ea133fd34735 | -9.11448 | -51.51593 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ac8ba63a-935f-3d0e-9216-1f8e81b9d755 | -9.1131 | -51.52417 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8ed418a5-bc89-3a84-be68-388a932cf7b8 | -9.11018 | -51.51945 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 25ec586c-9bfb-32f2-8088-3ec076ddb6d4 | -9.10948 | -51.52357 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 463cc428-9daa-3030-adc2-e338230d6bab | -9.10879 | -51.5277 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b6b1d1c2-f9ee-3957-8266-7f6c7afdd2db | -9.1081 | -51.53179 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 39b1ae75-c2da-355f-a560-8cf0735a8ed8 | -9.10586 | -51.52303 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9768c8fa-f559-3bae-af52-06e517de5ae6 | -9.10399 | -51.53286 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| f41e66ea-b6f1-3d37-a873-615cb47bf17b | -9.10331 | -51.53699 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| a75ee283-ebd1-31d0-9576-0ff9058834b5 | -9.10223 | -51.5225 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 503e3bb2-4f8f-3f4a-8314-c68e5f1fa937 | -9.10035 | -51.53239 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 72b46a6e-4c73-3908-9f4c-fc9be23f7add | -9.0374 | -51.5307 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6daf2542-55bc-389e-89fe-10bab33e8e50 | -8.56803 | -51.3862 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 018756d8-a731-392d-8236-854167f56459 | -9.42662 | -50.68016 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3d38d0da-c3bf-327c-be8a-54d57d40eaa6 | -8.02568 | -50.90177 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a7996e98-d9c0-3cf0-8cbf-7a4d7511fb5b | -8.02213 | -50.90118 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 1e48acdb-12b8-365a-8617-3bee63b00941 | -8.02146 | -50.90521 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 5e5957c2-4106-3e11-8217-82b0f9702185 | -8.01858 | -50.9006 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 6a76d640-afd7-31ef-835a-bda7986008d1 | -7.97395 | -51.21252 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a6398af4-fc58-39f4-83ff-d2440af036aa | -9.36878 | -50.74968 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 6973411a-d632-3e37-a288-3c825ce185dc | -9.36815 | -50.75353 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| c49154b0-43bf-311b-a87f-0a298b68e11f | -9.36594 | -50.74522 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b22bb02a-a2ce-3eeb-b6b5-559c146c46c6 | -9.3653 | -50.74908 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 042f3f82-4f7a-3aa3-b114-207288e4de34 | -9.36467 | -50.75294 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 9d1668ad-5878-3d17-99da-04b5b60476ba | -9.33479 | -50.77593 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ab136cd8-bdef-3551-b981-954d7bb79bcc | -9.33067 | -50.77923 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6950af57-fe76-3b9a-aa9c-0c24157de221 | -8.84052 | -50.7771 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f0cbb9ef-2042-389e-8580-bd135bc57ab8 | -8.58083 | -50.90646 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 90ef17c4-f176-3bae-b22d-1ceb5b51c51a | -8.38172 | -50.82253 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ca3c18b8-0854-336e-b299-f5ee1ca09805 | -8.36565 | -50.83197 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fe7f6a18-d196-3e07-8bb7-55b4621500d4 | -8.36503 | -50.83574 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b98b7374-80cf-3809-a538-d9ae5927f54a | -8.35494 | -50.87475 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5efbaaaf-dd5d-3f8e-b815-f6cbfb09dc63 | -8.35427 | -50.87876 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 527d3a23-0752-3ba9-80f1-9a889379661e | -8.35208 | -50.87005 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 977e177a-6515-30b2-90c6-140a9a8238d6 | -8.34857 | -50.86935 | 2024-10-04 04:32:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| e526b687-f568-396e-a0a2-18807acddd2a | -8.30061 | -50.92358 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| dbd7cda9-6065-3756-8b17-343b409c4386 | -8.26738 | -50.92625 | 2024-10-04 04:32:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8e1e3129-6801-3823-ae29-b577ae08c172 | -8.17212 | -50.49289 | 2024-10-04 04:32:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 7deb0161-c46c-3b71-b060-52ac911cc436 | -8.16864 | -50.4923 | 2024-10-04 04:32:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 3a891091-fa40-3345-8ea0-ce38f94d41b9 | -8.16801 | -50.49617 | 2024-10-04 04:32:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| ff67b56b-14a9-3fe9-b87a-064165c3fc4c | -9.31295 | -50.80011 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 106ca02f-9b22-3317-b51c-0d325116e7a8 | -9.31232 | -50.80393 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7fb53171-ed62-3ec7-8816-0c212388b7fb | -9.31168 | -50.8079 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| db130824-fad3-3ece-a7af-f11139e582f9 | -9.31103 | -50.8119 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 815a3f06-e276-3ba0-a8ae-38e8d40eac25 | -9.3104 | -50.81583 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| bd74090a-1e85-33d7-a0dd-e0cab2ba8e68 | -9.30882 | -50.8034 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 76dbb3ee-eba6-3042-a4a2-99d4c387b448 | -9.30754 | -50.81132 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| e046fc26-68c7-3185-bd31-c86a4164c8e8 | -9.3069 | -50.81524 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 05762a9f-d7ee-375f-808b-57e85d01126a | -9.30595 | -50.79903 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 81754183-fb18-32f8-841d-b9a7ade8093b | -9.10662 | -50.91608 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| b58d0aef-b22e-375c-9d02-7c163ea94d6f | -9.10597 | -50.92003 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| fc2b2a36-2d58-390b-b76d-470f57c74286 | -9.10376 | -50.91156 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 13.2 |
-| 0e316a78-36e4-34ce-badb-4010463f76f1 | -9.10311 | -50.9155 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| c249d276-6e7d-377a-ba8e-cca6b0d998bd | -9.09838 | -50.89945 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| b524be3d-2863-3105-8ea8-2c4b1b63a839 | -9.09805 | -50.9025 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| b4375250-6ba7-3e19-af7b-baa1b2396139 | -9.09774 | -50.90339 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| d4bf2df1-988a-3500-8d44-3ca51e7ed755 | -9.09739 | -50.90644 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 11ed9c18-5181-32ac-9ede-166582a9b719 | -9.0971 | -50.90734 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| b09eeecf-32c5-38b8-a953-6305e5bec196 | -9.09673 | -50.91039 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 58b7519c-0a70-3272-9828-5c2a041c2b1b | -9.09646 | -50.91129 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 4df0c0e4-f9fb-3269-bcc0-e4d231f23621 | -9.09519 | -50.89798 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| beadb8df-e3cc-3640-a217-fa41f3d2e98a | -9.09486 | -50.89887 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 585a06c0-67d4-39a2-a776-9fdf0ce3a521 | -9.09453 | -50.90192 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 5ebca142-668d-3272-9572-ef260eac0df4 | -9.09422 | -50.90281 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| b1f76cb3-4103-3be8-933a-47a2c04c9be6 | -9.09387 | -50.90586 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 9be2c661-8dcb-3ab7-9d29-b7cfb6c021d6 | -9.09358 | -50.90676 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 29f8c2f3-4cb3-318d-9fc6-74d0169b09d7 | -9.09135 | -50.89828 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 836101e3-72c3-3c4a-bbe5-877ccbdfb691 | -9.09071 | -50.90223 | 2024-10-04 04:32:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3f0fd85f-ef01-37c8-8bb9-99d9f9c8d5bc | -10.67084 | -50.69566 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 3bca389e-64d6-3a41-80ca-f9219ea63f9a | -10.6674 | -50.69508 | 2024-10-04 04:32:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f7668a87-45b8-357d-8341-0b4234a00eb0 | -9.9113 | -51.13813 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 779476e9-67dd-3879-ba7d-8fec32780b7e | -9.824 | -51.91925 | 2024-10-04 04:32:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| fd273897-7699-340a-9b4e-46a070f218d8 | -10.92236 | -52.42732 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8ce4b865-f47c-3454-90fa-7462ab81c5a4 | -10.92077 | -52.4154 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d458b723-caf5-3062-8e02-de215d524282 | -10.91464 | -52.45321 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 9fdf3585-cdb0-33bd-ba04-cfc8513afb2d | -10.91402 | -52.457 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| ac7d5c8b-1540-31cb-8a83-0eb55bb91b90 | -10.91243 | -52.44508 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 26cf2583-4077-3dd4-aeb2-c800ec50c28a | -10.91182 | -52.44886 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c0fc73a7-6388-3835-ae39-fb0792a83f54 | -10.90961 | -52.44074 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 83bd0f93-2a85-3346-a957-eab616fa1e4f | -10.90266 | -52.39682 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2482a8e0-bee3-3c0d-8eb9-52a118e4feea | -10.90205 | -52.40059 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9b3dd096-3e20-3e4e-a5d0-2647d191a62a | -10.90055 | -52.43145 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0c051a33-7fda-3c81-8604-83926c35f78a | -10.89993 | -52.43526 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 008d5143-747e-3e4e-97b8-b86d6e7dc15a | -10.89985 | -52.39247 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e4c82800-6e51-30af-8da7-4a644a84c472 | -10.89924 | -52.39624 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| cb408ab9-ad32-3bf5-aa14-d5844492541b | -10.89862 | -52.4 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 89df8018-0fb2-3e60-8ea2-6898588bbd75 | -10.89642 | -52.39189 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d6380bdb-bebc-39b6-9834-e2f3e5710ff9 | -10.89581 | -52.39566 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 3e4cf4bf-813d-3607-b8c4-35b06a8e988c | -10.8952 | -52.39942 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| eafba2be-3979-3c05-8a01-1cea8417240d | -10.89238 | -52.39508 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 396e527a-8736-3b41-a1d5-1c960b7c2adf | -10.89177 | -52.39885 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| e37b5032-0e4d-3e55-a6bc-d33f58a7dc2d | -10.88957 | -52.39075 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| c1b3557c-ab23-304a-abf3-4720a4f268ab | -10.88896 | -52.39452 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 2749e512-a107-36e9-a0ee-1880956865cf | -10.88834 | -52.39828 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 47d00cab-91a2-3f13-b8bd-e685893b2492 | -10.88773 | -52.40205 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 581af58a-1e72-3be3-b163-6cf59fdece68 | -10.88711 | -52.40583 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| def2b2dc-88f9-31bd-923e-de3c220d37fe | -10.88553 | -52.39394 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 63827152-58b3-3a97-bcc7-f0348c5efc56 | -10.88492 | -52.39771 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| fd74195e-e29a-315f-b055-6b2fac273723 | -10.88368 | -52.40527 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| a7237ea3-ee01-37a3-8139-4e6ec2997e78 | -10.88306 | -52.40906 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 2ba48d13-243b-30ac-9096-3eba8fe6b57d | -10.88244 | -52.41284 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b2328a4a-14f6-3d77-9809-0b7f34178817 | -10.86873 | -52.41055 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cff71956-7029-383d-ae4e-3da8a2fe358c | -10.86811 | -52.41433 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5916d7d4-4e35-3165-a28f-ce3a175b9582 | -10.69198 | -53.04114 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 14bd545f-b8b9-3281-82d7-e1dad1665e50 | -10.68846 | -53.04053 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 802b6ffe-d689-3b01-af7d-232f47cb288b | -10.68494 | -53.03993 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 0cf6cec4-b271-3cbf-acfd-a076cb6013ba | -10.64118 | -53.66817 | 2024-10-05 04:38:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 8dc5fb10-6455-3752-984c-f3be55e5a25e | -10.63755 | -53.66755 | 2024-10-05 04:38:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| cb31a81b-ec2f-3aa4-a4ac-98f449e44a4f | -10.49109 | -52.98403 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 389fe23c-0fd1-36dd-ae8e-afe9fd27fba2 | -10.4513 | -52.94035 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| dc5a8ac3-f34a-330c-95fe-5c89e373d720 | -10.45063 | -52.94434 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2bc48963-09c5-323c-950f-fa52a12ffcca | -10.44845 | -52.93575 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| cdc0d19e-ccd2-3acb-b353-0b50f1e4ba8d | -10.41463 | -52.92192 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a8746b9b-987e-369d-a38e-2b16d5e86894 | -10.41397 | -52.92589 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f9114410-6211-3400-860a-bce94a642112 | -10.40423 | -52.91711 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 0a4bd959-8ca2-311a-a48f-c80e4fc284fa | -10.40071 | -52.91652 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| da5441be-a84c-3401-8c85-8491c9696d12 | -10.3972 | -52.91592 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 41b70100-d767-3c55-be3b-14a79a4ac627 | -10.24594 | -52.73651 | 2024-10-05 04:38:00 | NOAA-20 | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b19fce4b-fbbc-3d13-a7af-be882276f50f | -10.24245 | -52.73591 | 2024-10-05 04:38:00 | NOAA-20 | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 2d03333c-40a7-3b7c-a934-7eac3ca3dd92 | -10.07098 | -53.35353 | 2024-10-05 04:38:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ee1f8b7c-b624-3a73-96c7-f0cc82ca740f | -10.07029 | -53.35772 | 2024-10-05 04:38:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c1cc941e-c578-3cc0-b8b0-f81970354a0b | -10.06959 | -53.36194 | 2024-10-05 04:38:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8bb35f65-7e58-3748-9775-cfa79cc18d51 | -10.06888 | -53.36618 | 2024-10-05 04:38:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 67f845f0-6736-3798-b3a3-34b8d3c13b71 | -9.85144 | -52.06499 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 9100b0bf-88db-35f6-8072-018ae1a271d7 | -9.85083 | -52.06872 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 43ab6b5a-af97-32bd-8eda-62a01ea80403 | -9.84863 | -52.06069 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 4660f674-e1dd-3472-a76a-ffbec1f543ff | -9.84803 | -52.0644 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 622bb9be-16e3-33b1-8e41-9af4c0c63ee1 | -9.84742 | -52.06811 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| bba20488-94f7-3d20-8fc4-7f60822e1046 | -9.84682 | -52.07183 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 650d036b-b3c7-3480-a8f4-4856b6f1a43e | -9.84461 | -52.06383 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 82725103-5b61-3034-a357-2a2c3792cd31 | -9.84438 | -52.08683 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7a8ff112-2c43-38c2-bd57-1ecb3794ba2d | -9.84401 | -52.06753 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a0ec6bed-a3dd-33d4-be69-87babddc2def | -9.84376 | -52.09061 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 740e870b-c369-3905-8d55-cfadacbb2eab | -9.84179 | -52.0596 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 30936e1a-e78c-3594-ba06-6185cf1cd678 | -9.84119 | -52.0633 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4b0c2156-31e4-31bc-9c93-f852d45c753c | -9.84034 | -52.09003 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f0046180-852e-3f27-aa9c-7d04894b638c | -9.8363 | -52.09329 | 2024-10-05 04:38:00 | NOAA-20 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9618e7a0-45e4-30e7-9ced-84de956d9ea4 | -9.73507 | -53.16739 | 2024-10-05 04:38:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e74d4093-ec88-31b4-8025-d65adf170c7b | -9.66697 | -53.50484 | 2024-10-05 04:38:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5f47f6be-3922-3eb8-b45d-118ba952248f | -9.61418 | -53.19591 | 2024-10-05 04:38:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 935484fe-9d2f-3d63-9a50-307a86edc38c | -9.60989 | -53.19945 | 2024-10-05 04:38:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 3ef4561f-83b2-3e33-999f-4d549edda3b3 | -11.02736 | -52.47159 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ee04f9c8-b2f7-3445-8175-620073abc414 | -10.92762 | -52.41654 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 30163974-0b73-3210-a2a6-77a9e20ea50c | -10.92701 | -52.42033 | 2024-10-05 04:38:00 | NOAA-20 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f0f8bffc-faeb-3212-947f-38f5bdef072c | -11.26089 | -53.30552 | 2024-10-05 04:38:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| dc21604e-1225-36f6-ab9b-3e011de9aa7b | -12.70103 | -53.99877 | 2024-10-05 04:38:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 681926a0-0853-322c-8d80-5d1977a0aba6 | -12.69672 | -54.00239 | 2024-10-05 04:38:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| c1a0373c-9d0e-39d9-b42a-0fc7adb67ec8 | -12.66617 | -53.19107 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 1472a570-ef80-3ee0-991c-ce992e3a916d | -12.66335 | -53.18654 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bd485ba7-0050-3eca-b144-8a9b97bf6529 | -12.65988 | -53.18593 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 14ea5e9b-8546-3f2a-9553-3f264b797bec | -12.65641 | -54.04319 | 2024-10-05 04:38:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 909ac6ee-4194-3133-ac31-8c95b2fb7fcd | -12.65641 | -53.18533 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e81b1ee7-fec7-34b5-bf12-3c569b6118b9 | -12.65569 | -54.04745 | 2024-10-05 04:38:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c50a548d-239a-363d-8e93-cf95ecd4434b | -12.65496 | -54.05171 | 2024-10-05 04:38:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 165c15f8-f91b-3630-88ed-a0f0023e999e | -12.65465 | -53.18555 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d0ea555a-669d-37ce-b05d-b4423f3460f0 | -12.65294 | -53.18472 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8718aea2-9bb5-3444-8854-44848d7588ed | -12.65135 | -54.05108 | 2024-10-05 04:38:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 69d00f33-9d3a-37f1-89b4-60a44d56b1c8 | -12.65117 | -53.18495 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d496b050-f945-3ec1-a7a4-e966a0a8b5ba | -12.6274 | -53.28615 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| bdf772e8-11a2-3041-b069-7e8ea7ed98a9 | -12.62326 | -53.28948 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 7e9033ee-794e-33c6-bd81-cb16082e1c91 | -12.62102 | -53.50204 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.4 |
+| 3ad56873-be20-315e-a9df-d312da29caab | -12.61818 | -53.49739 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 2cf6387e-b0c5-3984-a298-fa471e7cd476 | -12.6175 | -53.50143 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 7ff09dc7-2431-3f6a-9291-9d67f4c0e5ef | -12.61252 | -53.48806 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| f6bbb6d3-66ea-39ba-bf40-b4f6e95aa805 | -12.61114 | -53.49617 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 700a1473-4658-3f53-88cb-313227ac5ce8 | -12.60968 | -53.48341 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 544baeaf-0679-3eec-b158-22211618575d | -12.60763 | -53.49556 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d5cc50fe-b826-3811-b00f-6d847d07e447 | -12.59518 | -53.48169 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| d15539f7-ad58-3abe-8b57-af826e310ded | -12.59452 | -53.48572 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 899760e6-5d0a-37ec-ba01-05d8d7d722ba | -12.55649 | -53.47485 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b9d7d22f-edf3-3271-a376-9b462e4a913b | -12.55365 | -53.4702 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d382ae73-4f16-3bf7-84b5-4ffd4a8a46a3 | -12.55298 | -53.47424 | 2024-10-05 04:38:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
 
 
 [Clique aqui para ver as próximas entradas](README109.md)

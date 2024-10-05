@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4f2f7f8d-d9d6-379a-a94a-ac882927f14e | -2.79502 | -50.28517 | 2024-10-04 04:08:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| cc616272-4a8c-3923-b902-5a28c9d6f955 | -5.02109 | -49.76846 | 2024-10-04 04:08:00 | NOAA-21 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 96f8bd0b-fa97-3313-b47b-46f479a79814 | -5.02057 | -49.77144 | 2024-10-04 04:08:00 | NOAA-21 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| f90729e2-c2c3-3aec-a2ff-dc7f6ec401e5 | -5.01789 | -49.77003 | 2024-10-04 04:08:00 | NOAA-21 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 30c08338-0c35-3e09-899a-651b198e5de4 | -5.01738 | -49.77306 | 2024-10-04 04:08:00 | NOAA-21 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| edb7d72d-4a67-383b-9286-6f87d56b288a | -4.66098 | -50.88427 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a3930b03-6398-3904-b567-4955b6230619 | -4.65543 | -49.53202 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 687dbd8c-d5d9-3065-a432-f4d5c24e1195 | -4.65493 | -49.53491 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2db3f193-8f1c-39d1-88ee-e7acbdabe59f | -4.45544 | -49.62127 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| c3b75c15-d471-39b2-88ea-43b3a257eee1 | -4.45033 | -49.6204 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| cdebc76a-0093-392a-aef7-d89becea7cb1 | -4.38261 | -50.42591 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 4b9f8ef3-42a9-38d8-a0aa-4456cbbbc844 | -4.38202 | -50.42932 | 2024-10-04 04:08:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| e61fbe0e-aee9-3282-976d-81b059d0eaf6 | -3.84503 | -49.39635 | 2024-10-04 04:08:00 | NOAA-21 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 014daefd-12a5-32ac-9801-316794cce3c0 | -7.8355 | -50.52615 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 93a87947-06c8-32f9-8743-a7a60a0758b0 | -7.83496 | -50.52917 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| c4ccc50f-d7b2-3a3e-8a4b-275900590f57 | -7.83441 | -50.5322 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ddabbae1-31d8-33c9-8177-3cc579a0a0ff | -7.83333 | -50.53822 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bb9b3be1-03f4-3c9b-b03e-29c1cef08940 | -7.83095 | -50.52207 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f5077d39-2ef1-39b7-b9de-0ebb51880520 | -7.8304 | -50.52509 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 6e314653-42b5-37fd-8600-6d73b3b32ced | -7.82986 | -50.52809 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 46b4a64b-f8b3-3d99-9b16-7cb7b0bb043b | -7.82932 | -50.53109 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| e5ae9a8e-321b-317d-ac34-392a36b02cc3 | -7.82877 | -50.5341 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| 978897c5-6bdb-39b5-93d3-df35c8c745a6 | -7.82823 | -50.53711 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| e4878cb4-f8c7-3323-8338-3089de3f284d | -7.82257 | -50.53909 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 1a5d346b-4b84-3d7c-8b7c-1e7d446a7c0f | -7.82017 | -50.52309 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| aea0f693-0f89-3156-8add-73c646762c71 | -7.81965 | -50.526 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 17521a25-3448-31c6-bb7d-5d21f8546626 | -7.81911 | -50.52894 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 61446ce0-2ee1-3d24-92b1-30d707fae58c | -7.81856 | -50.53199 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| e1070328-7a3d-3ea6-aceb-dc7b30789635 | -7.81454 | -50.52494 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| ac7608e8-1b04-3e3b-9139-081c7848dfb9 | -9.11685 | -51.52012 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 2033cd13-14e4-3574-80d4-b5f76ca74d5e | -9.1121 | -51.5158 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 504a95c2-a996-30ef-823f-1be69e595a51 | -9.11152 | -51.519 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| dee7f02d-0437-394d-804a-e0db825fd94d | -9.11092 | -51.52228 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e4c89e08-14ce-3c2e-b8f3-1e9ace7408f9 | -9.11031 | -51.52561 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c228b9ef-66c3-3f7c-9589-79890b7f9669 | -9.10914 | -51.53204 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 06c28600-0573-34ad-a468-3ef558e279e4 | -9.10857 | -51.53518 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 75949429-80bc-367e-b5f9-f7086c2bb4f9 | -9.10738 | -50.91514 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 69412f1d-ae33-3cba-8964-8006bc6a5376 | -9.10682 | -50.9183 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 0e0d6176-4626-33e1-84b6-fd047c8637b7 | -9.1055 | -51.52165 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ff9ad866-cb7a-36e5-a384-0411e8f42043 | -9.10491 | -51.52484 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6d2619e3-4b1b-3422-a57e-3e0bcbf7e0c6 | -9.10433 | -51.52802 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 090f0fef-fe02-3d4f-970f-c86cb3decef2 | -9.10374 | -51.53124 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| eabef97e-4461-36bf-bdfe-26cfaf4b3af4 | -9.10314 | -51.53452 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 01731a54-e330-3f23-b322-32ec8d36d894 | -9.10279 | -50.91112 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| a0a27e76-10d4-39a0-ab10-4f5dca01791f | -9.10223 | -50.91424 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| c698437e-d074-3f0f-9b71-df10d82ed283 | -9.09934 | -50.90083 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 7998da35-2937-348f-a18c-cf9bade560a9 | -9.09878 | -50.90394 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 916eee08-3b0a-35a9-811c-3aa59b05df6f | -9.09821 | -50.90705 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 621417e9-4ccd-3fac-82cc-0456b05b84b8 | -9.09765 | -50.91018 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 40ff6738-f1a0-317a-b80b-ad2cc30ead1c | -9.09708 | -50.91328 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| f36262bf-9f02-3b4b-924c-55d8a8388f10 | -9.09419 | -50.89991 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| d8d3abbc-aff0-3ffc-8655-1e7c262b9372 | -9.09362 | -50.90303 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| a563b9e4-3e69-3e6a-9e4f-7d944c8b3150 | -9.09306 | -50.90615 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| e690c519-81ee-3537-9565-8e1727cd112d | -8.35252 | -50.86982 | 2024-10-04 04:08:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6437944c-907a-3a5e-88c1-23fc59f2cf40 | -8.35193 | -50.87311 | 2024-10-04 04:08:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 0db48b1e-3d26-3fb5-938d-1e348218f6f9 | -8.17229 | -50.49076 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f4c5a519-3144-3310-acd6-d297944ec3fa | -8.16667 | -50.49282 | 2024-10-04 04:08:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 346abd8c-eb5d-342f-85e6-63282e7ee23f | -8.02203 | -50.90214 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| 3d76f421-6271-3644-8236-db633b979e8d | -9.32458 | -51.12385 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 267f7c1d-fb7a-34e2-928c-e8b9e5172b11 | -9.32398 | -51.12704 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 70fcfe61-e93c-353e-a5b8-800b3e7c71b4 | -9.32338 | -51.13023 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| f2885182-8ea0-3929-8f09-31d4b30d8db8 | -9.32219 | -51.13663 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 03967147-276e-3b0e-bc82-968d0308754b | -9.32158 | -51.13985 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| b61b4d1d-bff7-36a1-bac8-cde7294df621 | -9.32095 | -51.13929 | 2024-10-04 04:08:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 49587fd7-e79c-361f-aabc-f815875df6da | -9.36991 | -50.74806 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 91c24d7b-9f59-3e9d-86d5-130bdf8f4c7b | -9.36938 | -50.75101 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 50bb201f-2997-30c7-b6a2-c4f8d5c50094 | -9.36885 | -50.75398 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 30976e4b-1bb4-39f7-a732-be7bc3438eca | -9.36433 | -50.74997 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| bbefe5dc-6544-3a0d-94a8-44cd8ed0eb44 | -9.36379 | -50.75298 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| bfdad0e8-9ef9-36f8-b79f-36ed8921f3d1 | -9.33521 | -50.79494 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| 5327b6f3-f65c-39ec-9db5-989000001fda | -9.33465 | -50.79799 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| 54832d1a-67b9-32ce-917d-a9e28a2b18f3 | -9.3341 | -50.80101 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| f834a2ce-bd15-34f7-baa0-699d082f3b1a | -9.33355 | -50.80404 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| ca6c9283-5621-3413-89cc-e1c6f51e84ba | -9.3307 | -50.79083 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| 99d351cc-cd1e-30d7-aede-6ac2e8304374 | -9.33014 | -50.7939 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 71.3 |
-| c3e05060-deae-3dd2-a10d-ad962345da12 | -9.32958 | -50.79697 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 71.3 |
-| 94d9de7d-084f-337b-a7a7-5c6becdaf75d | -9.32903 | -50.79998 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 32.4 |
-| 3ef979e9-767e-3a67-bf7a-357bc0c3e391 | -9.32849 | -50.80295 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 32.4 |
-| 940f98ab-d5c0-34c0-a69b-97dc6447d409 | -9.32795 | -50.80593 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 21919b96-86a1-3266-bb12-8c4d697722bd | -9.3274 | -50.80896 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 8ed0bcef-c7ee-3dc3-be57-a1bd5c7a7b6b | -9.32684 | -50.81202 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 5ecf21d1-7117-396b-8fd7-8c2cfc854c42 | -9.32618 | -50.78675 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| cde966a8-2953-3a71-8536-0f03268438ab | -9.32563 | -50.7898 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| e52d59db-0003-3934-877d-f27543660c24 | -9.32508 | -50.79279 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 71.3 |
-| c2db0d5d-bfd0-32d5-9880-39b4451d6324 | -9.32455 | -50.79574 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 71.3 |
-| bc3e746a-d56b-3083-aacc-f1300886175f | -9.32402 | -50.79861 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 32.4 |
-| 0fdec4ac-44d5-3c94-9ba3-1b0029065fa8 | -9.3235 | -50.80145 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 32.4 |
-| ece249ad-8c9d-3a15-8eb4-0531e312a676 | -9.32297 | -50.80436 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 6e2b1164-b3ba-398f-9cb7-70ee2575e7e6 | -9.3224 | -50.80751 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| ffbbf666-cb56-367c-87da-8349fbd5feac | -9.3218 | -50.81079 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 727d4e7b-068a-32e1-8197-c408b06fdb9a | -9.32122 | -50.81396 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| ff574ac7-d08f-36c5-9d46-f0e04535b45d | -9.32067 | -50.81701 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 17bfa0e7-4e4c-35b9-8329-443741a43b3d | -9.32055 | -50.78883 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 7ea62110-0f12-358e-8b10-fca724cedcef | -9.32002 | -50.79174 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| f72b2156-129f-35a6-8bc4-ba42a532a906 | -9.31948 | -50.79466 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| ea723435-0154-3d41-a3f0-c5b99c13c7a1 | -9.31896 | -50.7975 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| ddf4301b-a895-30fc-a165-da98d0cb2d61 | -9.31845 | -50.80029 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 6bf6e67d-d225-32bc-8743-3581e249f2fe | -9.31794 | -50.80313 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| a19b5453-154b-34e2-9aa2-1ffa37089fc6 | -9.31737 | -50.80625 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 2535103e-8922-3b11-a2cf-ca5a26f58471 | -9.31675 | -50.80963 | 2024-10-04 04:08:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| b18b7826-27e9-3e96-9f6a-5cd1e37c4e5d | -14.00038 | -47.26891 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 0d9e0438-0a53-3837-adaf-b434b6725241 | -14.00021 | -47.2702 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| d0319f7c-3a1b-36ca-a585-c533abfcabe9 | -13.99969 | -47.27293 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 50ee0097-d876-3544-868b-3425d639d680 | -13.99954 | -47.27423 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 80a44cb2-b450-372e-a113-1e7756779f79 | -13.99901 | -47.27694 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| aef82cbb-ffce-3fdf-946a-0c6ce3078d2d | -13.9962 | -47.27223 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 3da7a383-44ef-3d72-8de4-a1540d775b77 | -13.99605 | -47.2735 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 5398c241-aa10-3cdf-bd1e-e5ad199aeef7 | -13.60321 | -48.12513 | 2024-10-05 04:14:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| f704e4d4-d772-3355-9c1b-5039c8ba1358 | -13.60249 | -48.12933 | 2024-10-05 04:14:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 96bd3401-a46b-3c57-bc59-93d4b2395994 | -15.27132 | -40.32699 | 2024-10-05 04:14:00 | NPP-375D | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| e22ee0fa-ccad-39e8-9743-fbaca933706f | -15.26901 | -40.32528 | 2024-10-05 04:14:00 | NPP-375D | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 9596f6bc-1b2a-353c-8602-ab623d07051f | -9.97471 | -46.34937 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 026b5f2d-863b-347a-9857-6538f9fa5f71 | -9.97055 | -46.35266 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| bf4998b3-9f94-3b3a-be73-869b9038aa99 | -9.9699 | -46.35658 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 80407deb-06cb-36d3-9502-0dd53afd5391 | -9.93213 | -47.91922 | 2024-10-05 04:14:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| f84a6519-f9a6-3e2b-bed4-df99df0b03c7 | -9.89224 | -47.19991 | 2024-10-05 04:14:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 19bbb43c-2ebc-31a6-9187-bfc46c943d59 | -9.88932 | -47.19492 | 2024-10-05 04:14:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| ddf4a3fd-6646-3fa3-9435-6a75277b63b5 | -9.85057 | -52.06561 | 2024-10-05 04:14:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| cb950e76-b31a-3d4a-b7e2-e9c41119aac0 | -9.8399 | -46.72985 | 2024-10-05 04:14:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 9fb7481b-a23b-3f5e-9af5-0690ed478565 | -9.83632 | -46.72923 | 2024-10-05 04:14:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 080c9012-1af0-3648-b44e-42a04232747b | -9.79019 | -50.07003 | 2024-10-05 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ea273883-ee39-354c-9f3b-96600ec74b2f | -9.78394 | -46.062 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| cf34bc77-a2d9-372c-8765-e707df36429a | -9.78046 | -46.06142 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 08b2f0e8-4fa0-3843-9ba9-d1798d69c009 | -9.73376 | -50.65552 | 2024-10-05 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 75fc1280-ee04-3cff-9263-6d773ee8744a | -9.73365 | -50.65844 | 2024-10-05 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 13fcc4b4-e3fa-39c7-8f9e-456ef967b212 | -9.72909 | -50.6576 | 2024-10-05 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d997157b-89ef-3084-8cdf-1ec9bf2100ac | -9.72835 | -50.65938 | 2024-10-05 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2eba6756-27ce-3e31-8934-189c4c7398ea | -9.72278 | -50.12154 | 2024-10-05 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 6eb66093-5583-3131-b501-796cf62e791e | -9.66944 | -54.32267 | 2024-10-05 04:14:00 | NPP-375D | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1fcdd318-1d9c-337d-82e3-2cb0e490dc83 | -9.66439 | -54.31751 | 2024-10-05 04:14:00 | NPP-375D | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 13b83161-3afe-32f1-b828-afc1d36c88c7 | -9.66365 | -54.32142 | 2024-10-05 04:14:00 | NPP-375D | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f919e26c-a3d9-3b02-b3e4-f52e734949f1 | -9.6629 | -54.32543 | 2024-10-05 04:14:00 | NPP-375D | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 10eba96e-7ce5-3996-993e-1942903a8af2 | -9.59955 | -51.44475 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 27db2ea2-f408-325f-b83f-683c532642a0 | -9.59669 | -51.44303 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| d53698bb-cb24-38f9-8752-7861107e95a9 | -9.59564 | -51.43893 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 952f3bf6-c0d7-3e6d-a2cb-aeddebbfb999 | -9.59474 | -51.44382 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| bb43c8b7-af10-3275-bd6f-9862ebbd2b0b | -9.58676 | -50.17969 | 2024-10-05 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| fe41c38a-daa9-3e30-ba2b-5024e8532ce7 | -9.58234 | -50.17889 | 2024-10-05 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 60bdf34b-71bf-30b6-be97-f446c9d06600 | -9.54688 | -46.11983 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| ee687938-f06b-3bf1-a0eb-3f8969e39128 | -9.54624 | -46.12375 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 617e788c-61eb-35ff-8f7f-7ff19c9cd21e | -9.53528 | -46.49677 | 2024-10-05 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 9f7bf4ef-86d5-36f5-b60c-74ca992d0c1f | -9.36339 | -51.09813 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| ca1b5871-dfa5-3343-b5be-4902d78d4e2b | -9.3625 | -51.10307 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| bbc2e208-bb12-3105-a1aa-8016115de816 | -9.35957 | -51.09227 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b7a871a7-b403-342d-8841-944b66f64c28 | -9.35867 | -51.09725 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| a5f7a92e-a83b-3651-be5f-b5d6a1df19cc | -9.35778 | -51.1022 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f806a234-8db4-3841-903a-f84bacf93ff2 | -9.35395 | -51.09636 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| fe68ce57-8316-3647-9160-44c9ad86bb14 | -9.35306 | -51.10132 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 7212b8eb-d06b-3174-a95e-01547f96fc6c | -9.35215 | -51.10632 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b3e76233-670b-3929-a86b-fd88c79f1c90 | -9.34923 | -51.09547 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 95ef94e8-d37d-3a5a-8aef-550264ef223d | -9.34833 | -51.10045 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a967c829-a06d-31a8-99f2-a38995ac30e7 | -9.34743 | -51.10544 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 51f7feef-8731-32bc-9d9f-ab737a605c54 | -9.3436 | -51.0996 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c8ec0284-abc0-3001-b40a-2a0b30ec74ae | -9.3427 | -51.10461 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 52e22846-15fc-3343-accb-f29642536385 | -9.34179 | -51.10963 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 0287d217-209b-393b-83f2-d559ee373d2f | -9.33887 | -51.09877 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 71f13e15-5493-306f-bfc1-9c3ae6b59cc0 | -9.33796 | -51.1038 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ec6b2823-f0fb-3123-ac8d-f766f1d1ba51 | -9.33785 | -51.10074 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 5347dc01-5a90-3457-ae99-46bed80a9248 | -9.33613 | -51.11385 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 3762b7b4-2b05-3f24-ad62-2dd2ced7881e | -9.33521 | -51.11589 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| fd80366f-0ad0-36f2-bdc4-4fb56d0b39a7 | -9.3314 | -51.11299 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d80a014e-9bef-3a78-9148-db4d125c37f4 | -9.33048 | -51.11504 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| f0168ea6-cb8b-333b-bcaa-f0a47d9b5de9 | -9.33046 | -51.11814 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| e6a2bc5e-abfb-3055-b232-5c7c9bdf5912 | -9.32574 | -51.11419 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 8d28251e-3f9f-3ac9-9688-07344192eed0 | -9.32572 | -51.11731 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| abcdbe0d-76a1-378a-8be6-2d29c2ab34b7 | -9.32484 | -51.11937 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| aca9b06e-c96d-3135-a654-6cc93138504f | -9.05894 | -52.97902 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f5711856-9e1a-30ce-b62d-9bd3df1f591b | -9.0583 | -52.98251 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 028b1e8b-cb6a-375b-87d4-073f6aa69935 | -9.05293 | -52.9814 | 2024-10-05 04:14:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7da40393-e558-3d79-904a-4c38a25688f5 | -9.04453 | -51.52985 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7e02159b-9d44-37cc-a8a3-8892b75d8c5e | -9.04283 | -51.52808 | 2024-10-05 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 0ba47107-56f4-3e49-98a7-5c694f80d8e3 | -9.00589 | -49.81652 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 598253ff-bb65-375e-b3bc-ec3cf1da4fcb | -9.0056 | -49.81837 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c3a908cf-fe3f-3b24-8ad5-97641888afe1 | -8.98744 | -49.81941 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a06775a4-e5e4-3d94-9f3c-64f538a60eaa | -8.9838 | -49.81442 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 4af728e0-7e42-3960-ab64-608476ca8633 | -8.98307 | -49.81863 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 87844d76-54ed-3a8a-b7e7-e49252f8b19e | -8.98234 | -49.82286 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 7a2db46c-112c-30e9-a4e3-81873150b2ef | -8.97944 | -49.81363 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 5ce4c4d7-e8da-3838-999f-7bc4c8461c6c | -8.97871 | -49.81785 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| c4ac6019-361f-34c4-8099-d823fc2403aa | -8.97798 | -49.82208 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 77c647ef-fee1-3198-89fb-9431d0e5a11f | -8.97435 | -49.81707 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3e101243-f0a8-37a5-8ccd-3121094901f2 | -8.96999 | -49.8163 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7bfea39c-93d4-30fa-b3f8-d057176277b3 | -8.94184 | -49.74621 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bda272f4-b3e9-33fc-8603-eff4028f9ea8 | -8.91312 | -49.67387 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| bac369c4-e38c-3973-af84-6f4b772c1060 | -8.90809 | -49.67726 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3f6c4fbd-1d15-37dd-8a3d-568634fc7259 | -8.89075 | -49.64856 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 4421842b-87ef-3c79-8baa-e6faea486fd1 | -8.88714 | -49.64365 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 1a02bb79-8cde-37e8-8394-a966198c418e | -8.88213 | -49.69836 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 27ebed29-8b52-3757-b6f1-d8e5ed1236a9 | -8.88141 | -49.70255 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 40f03738-fdd8-37e4-934d-bb903f8d590b | -8.87851 | -49.66773 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 8cc699e9-b5d7-319b-8dbc-49a451615d3e | -8.87779 | -49.67187 | 2024-10-05 04:14:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 2dba1df4-f357-3284-b78c-a781c11d5d53 | -8.86812 | -48.32675 | 2024-10-05 04:14:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| f43fb897-72e4-3e5d-9c0d-c231ca676589 | -8.86725 | -48.33186 | 2024-10-05 04:14:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| ebe3bb2c-27d6-3fae-b2fc-87fa8abfc568 | -8.86107 | -48.32028 | 2024-10-05 04:14:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 3fa02b91-cbd9-3cfe-b8cb-1edb37c55851 | -8.8483 | -48.32329 | 2024-10-05 04:14:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 1776148c-5ff0-3c68-8b5a-d8ca3040b6d0 | -8.79672 | -49.95465 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 3b0490cd-0186-392a-99f4-040ae5f4aac0 | -8.79595 | -49.959 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 68b8001c-77cc-3618-95d8-ce2b03883cee | -8.79076 | -49.96254 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a650a33d-14dd-3573-9b59-99c8fd0e1734 | -8.79 | -49.96688 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| d5019e53-85e1-3cfb-b990-28c7fba90cba | -8.78923 | -49.97123 | 2024-10-05 04:14:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README66.md)
