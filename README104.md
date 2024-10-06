@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1e2470eb-2d35-37cc-b00d-2e006fce0701 | -13.13885 | -51.16804 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 0e0263a6-c787-3c2e-8bbc-ac8b9ddfea17 | -13.1372 | -51.15697 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| afcffee4-5a80-3bde-a460-d8d6fa48ddc7 | -13.13664 | -51.1605 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ccc34604-528d-360b-95d8-dd0c24fffe3a | -13.13609 | -51.16404 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 406907a6-d35b-3274-a821-0887e1524ba8 | -13.13605 | -51.1857 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 6a72e75e-4126-3de5-82e0-a33c0e5c1ab5 | -13.13554 | -51.16749 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 07bd4e85-2368-3b9a-8837-6b7145b15bba | -13.13389 | -51.15643 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 60af5e7d-0178-3ce7-b8e4-e955b8c9c0ee | -13.13333 | -51.15996 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 989c9ffe-d2dc-33e6-9b4a-f83e4a30c92d | -13.13226 | -51.14529 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 2e39f13b-0c99-35a9-b2e2-bbb09c573feb | -13.1317 | -51.14882 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| c32fe888-49f2-3292-bb4a-52762bfdf22c | -13.13006 | -51.13768 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 9c3f09cc-a4d2-33a9-adf9-320e77dcf31a | -13.1295 | -51.14122 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| cc711ab7-833d-3ae6-bcf4-f27d9679fd6e | -13.12895 | -51.14475 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 40bf05d7-4a23-3b4c-aeb3-137482b1e772 | -13.12668 | -51.18053 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| a2652ae9-d8ff-3bcd-ba1a-87e3823e03f4 | -13.12619 | -51.14067 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| e4192fd8-fcf7-3120-ae52-53712b75accd | -13.12344 | -51.1366 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 38.4 |
-| 9a1c9af9-3966-32af-9bdc-58bbc6073b67 | -13.12337 | -51.17998 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 3e7da799-0732-374a-ace6-57cadd278b7f | -13.12288 | -51.14013 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 6b7b35c5-640c-3363-bad0-0f73e2ce9d20 | -13.12013 | -51.13605 | 2024-10-05 04:38:00 | NOAA-20 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| ec44ff6c-8df6-30c0-be36-c65032f7e3b1 | -13.12006 | -51.17944 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6cf3e1bb-0d16-324e-ba6d-d1efb3044078 | -13.11957 | -51.13958 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 5a220720-545c-3135-bc64-ffc1c6d123ec | -13.11902 | -51.14312 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 368ca616-cbda-3821-a52e-a818f2eb108c | -13.10466 | -51.14799 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 20f83dc0-f6ed-33f9-8c31-621c40853b62 | -12.78875 | -50.56448 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 4e115d7b-9335-3110-8320-2df1bf5c965a | -12.78599 | -50.56042 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 4710c47d-38b0-31f0-aecc-9dd5b1e282a5 | -12.78544 | -50.56394 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 47882564-d199-37e6-8417-5865144361ac | -12.78543 | -50.54224 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
-| 00d2da96-6266-31b6-8b62-4b83a5bb3045 | -12.78488 | -50.54577 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
-| 64fb088b-16aa-37a4-afdb-d33f1704d988 | -12.78433 | -50.5493 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 05546566-2615-39c2-af63-c1dd171926f7 | -12.78378 | -50.55283 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| afefef75-a962-3426-be16-bcee1e3d9810 | -12.78213 | -50.5634 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 34cb3070-9d5b-3d74-b80b-f3c93c100c52 | -12.78212 | -50.54171 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
-| 54099ee1-2cc3-3d15-a463-2c0570500754 | -12.78158 | -50.56693 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| db13c4cd-a7e8-38a9-8015-c0d97b5ede6d | -12.78157 | -50.54523 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
-| 1492fea8-b258-30da-a3ae-393e56aa23db | -12.78102 | -50.54876 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 81cb9c32-cf00-3b6a-8b9c-1e45d59d038a | -12.78047 | -50.55229 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| e05dc1c7-c2e4-3ff2-b2d6-86cdbd83c8bf | -12.77992 | -50.55582 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 015e2017-9470-38b4-939c-3fb0cc8155bf | -12.77826 | -50.5447 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| ccd70874-c99c-3a7d-8248-b156c22dbdb3 | -12.77771 | -50.54823 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| cb10fc02-d825-3d82-a4d2-6118d6cd1659 | -12.77716 | -50.55175 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 5a091ef8-96a7-346e-9af0-10bc8742bfe1 | -12.77661 | -50.55528 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 6f0025d1-5fbf-38d5-abb4-adff850feb2c | -12.77606 | -50.5588 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| e6a5882c-02a3-37d0-b109-f95a865dfe89 | -12.77551 | -50.56233 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 6c9a2cbb-507e-3ad8-a06b-7f749b2c5201 | -12.77495 | -50.54416 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 85bc40b1-0973-398f-a2d6-deecdd2dccb0 | -12.7744 | -50.54769 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 2dd2b975-f781-36aa-b83b-8772e037dd60 | -12.77385 | -50.55122 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| cb5ca9f2-0515-3e42-a899-2b118f2d2cd9 | -12.7733 | -50.55474 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| c334f6f2-efb3-3e48-b7e2-e9a9b6791156 | -12.77275 | -50.55827 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 441767f7-d44d-32c5-a4ca-cd58c947d7f8 | -12.7722 | -50.5618 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 66065163-17cf-3fe9-9be7-733824fb9652 | -12.77165 | -50.56532 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 935b5cf1-d7e9-31a5-ba36-01b00d16967d | -12.77164 | -50.54362 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| fefddb27-331b-3a8e-bc99-5f89ef1c19b8 | -12.77109 | -50.54715 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
-| 98b0ef31-cfc5-331c-bcbd-8dcd3fc27e0f | -12.76999 | -50.55421 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 6a3fb544-739b-3710-b2c0-f03afb385ed8 | -12.76944 | -50.55773 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 6b9018f2-4d60-3cff-b809-675d804f425a | -12.76889 | -50.56126 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| c0cb4da5-bde3-3955-831e-0389aa427aac | -12.76834 | -50.56479 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| a31b36d8-e9bc-3cfd-b99a-1b9da23d2d62 | -12.76777 | -50.54662 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
-| 0a81ade1-0c92-3af7-884f-25d30331c9fc | -12.76723 | -50.55014 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
-| 0f98192a-0d10-335f-a29c-50b178156990 | -12.76667 | -50.55367 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 77239293-6004-3d93-8818-6dd03baf2670 | -12.76613 | -50.5572 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 87767a3e-ad99-3688-970c-9372c1a22cb8 | -12.76558 | -50.56073 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 53b7df32-9537-3490-a7ab-60b6f3b26b81 | -12.76503 | -50.56425 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 4b80c75f-471e-3bda-93fb-f621e557bc29 | -12.76391 | -50.54961 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 647c70a7-9c27-34a2-8863-05908bf03234 | -12.76336 | -50.55313 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| da01dd9c-72e8-311a-8574-3c3f66470f3f | -12.76281 | -50.55666 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 70cce363-9151-3707-a241-b3675798df0d | -12.76227 | -50.56019 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| fab29b4d-517a-3bc2-a063-92ae330f315c | -12.76171 | -50.56372 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 5360440f-8db6-39e4-9bd9-28069dd0327b | -12.76117 | -50.56725 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 06d32dc0-554f-3869-9a27-80add10ad388 | -12.76115 | -50.54554 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 7becb3f0-5e79-3d56-83b3-019cd5f52e82 | -12.7606 | -50.54907 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 27bba27f-7c80-31d1-bace-721db37c11af | -12.75785 | -50.56671 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 88860951-cdb1-3f45-bf5e-7700e04db54b | -12.75621 | -50.59899 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 683975e2-2a7b-38e9-a970-531bf43fe3fb | -12.37137 | -50.9738 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| bc34cea8-c977-32bf-bf8a-5dc859396ac8 | -12.37081 | -50.97731 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 82b0a117-5e4f-3f1f-9d31-0fd3dd03b309 | -12.37025 | -50.98083 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 382a91e4-9b11-3518-9404-f1eb8d80f08b | -12.3697 | -50.98436 | 2024-10-05 04:38:00 | NOAA-20 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 3c88749c-fc27-38f8-abfc-da17e7dca45b | -13.05895 | -51.11525 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e9781959-c8c5-385d-8609-18515bb27b44 | -13.0584 | -51.11878 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 51825a94-99a5-3851-a6ae-4265ea831c45 | -13.05509 | -51.11824 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 5d090562-7796-37e7-88df-6af396437d27 | -12.99439 | -51.1155 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| dbda4a96-897e-355d-9aaf-dc2a8ac6d169 | -12.99383 | -51.11903 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c8e13e4f-6291-348d-873a-e5b9daf86e02 | -12.99327 | -51.12256 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 527c7aad-fbae-3b9a-a172-a68902d03a1a | -12.99271 | -51.12609 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 2994577a-ad36-3bff-8fd2-ac4b88567142 | -12.99052 | -51.11848 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9d6e80da-0bae-3c67-90a2-91573a8e1249 | -12.98996 | -51.12202 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 75698175-28d1-3f10-90ef-f15b3d1d3349 | -12.97995 | -51.12012 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 6eb5ed64-19b3-34a9-b43c-0744d52ecaf6 | -12.97609 | -51.1231 | 2024-10-05 04:38:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| a5b85fbc-7852-3605-b842-3a189149941a | -12.83566 | -50.56846 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2083d01e-4d88-3c17-b284-c005dc2e19ec | -12.83014 | -50.58204 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b848c8ce-ea24-3207-85f9-087969208fd9 | -12.82738 | -50.55627 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| f2fa2fd2-2464-3060-ad3f-84c425caf1c1 | -12.82683 | -50.5598 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 426adc36-dd86-37d4-9256-53f7b1124243 | -12.82407 | -50.55573 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| da8b3397-08a2-394f-8898-7fddac403a13 | -12.82351 | -50.55926 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 73475420-d65b-3f77-867c-d3ec25098229 | -12.82296 | -50.56279 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 0bfa8b51-e3c7-3571-af06-42a8ac920d55 | -12.82075 | -50.55519 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| a7d59fd4-8a47-3c51-821a-9bce3b289b50 | -12.82021 | -50.58043 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 9bf8702a-63c9-386a-9778-3acaec197de4 | -12.8202 | -50.55872 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 58d050b7-2e2b-3cf4-9998-83ade6d3483f | -12.81137 | -50.55006 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| ac0314ed-f86f-315d-8491-610807a18a8e | -12.81082 | -50.55359 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| d4c5fd37-5b4c-32fc-b330-d2fc40aecf20 | -12.81027 | -50.55711 | 2024-10-05 04:38:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 78a69b9d-5f13-3d67-bfc3-c74779ebcc61 | -10.43527 | -50.69889 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 760.8 |
+| 2e4d421a-e726-356e-9711-6963bb077c1d | -10.43457 | -50.70415 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 760.8 |
+| 678a4cd6-3eea-3769-b043-25782ccddaf6 | -10.43387 | -50.70942 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 129.6 |
+| 11d1efd5-3881-3245-8980-13df83d2b5f5 | -10.43367 | -50.78332 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 35b5f84d-434c-35f4-985e-97029b00254b | -10.43317 | -50.71466 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 129.6 |
+| a17c742e-5b25-3458-9ace-e5ed7bc7da3f | -10.43257 | -50.68269 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 912ba1df-299a-3a24-be4c-99fa664628dd | -10.43248 | -50.71987 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 0f130b54-2a78-384b-839a-29298e975cf5 | -10.43188 | -50.68788 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 8bd22dad-cc56-3a95-b059-ed0941714c9b | -10.43178 | -50.72507 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 2bdfc09c-b6af-3b75-9a45-3fe54134fef7 | -10.43119 | -50.69302 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 5ea127aa-93b1-3c61-9516-9c20f14d4295 | -10.43109 | -50.73029 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| edadf996-a861-3de8-a974-4cb5a9c4f950 | -10.4305 | -50.69821 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 222.1 |
+| 227b512a-cc13-3d13-8fcb-69845b06997d | -10.42911 | -50.70872 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 433.6 |
+| 46951a98-bf09-3f78-9a64-891aacb66684 | -10.42841 | -50.71397 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 433.6 |
+| 9f473ffd-996a-396a-844e-35cb0d066185 | -10.42772 | -50.71917 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| f623a790-99ae-3869-90f5-5a6dde837036 | -10.42709 | -50.68729 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 1ed72e82-76b4-3284-b8d3-fe51db339ce5 | -10.42702 | -50.72438 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| 6178a7c5-e4ee-34ca-ba75-0b2df94fc743 | -10.42641 | -50.69241 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 8688c3f3-250f-3e04-a572-a52c69b0c907 | -10.42633 | -50.72958 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| 654816b1-86e1-39ab-8c04-d69d57d3bc5c | -10.42573 | -50.69756 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 222.1 |
+| d9942890-f717-327f-b72e-7905f6582d23 | -10.42504 | -50.70277 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 222.1 |
+| 13366639-71ef-35bc-a87f-0bde635bde1b | -10.4235 | -50.78712 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| ae56cebf-74af-369a-9c35-14a77578aa66 | -10.42296 | -50.71844 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| fc93c8c9-1f88-3c43-9b05-8e5b0589a450 | -10.42227 | -50.72365 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| 21d27ec0-b820-390e-8049-548490164dae | -10.42163 | -50.69181 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 73406a46-37f6-30ed-9a88-199881fbb13f | -10.42158 | -50.72885 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| e6a744b3-1324-30fe-9684-0ac066174f6e | -10.42095 | -50.69692 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 729f425d-08b6-3af6-97f8-66e475a7bdb1 | -10.42027 | -50.70209 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 15c87611-e51a-3c87-be7a-73eace774dfd | -10.41958 | -50.7073 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| d8040e88-f7ad-3d91-a00b-d971a0c93299 | -10.41889 | -50.71252 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 1d25d2b1-2bd6-3867-8eaa-0b2b0dd133be | -10.4182 | -50.71772 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 24.3 |
+| 4e813332-7723-3bfd-9849-1e794fe221f4 | -10.41751 | -50.72293 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 24.3 |
+| 1333e923-8e20-3de7-aa51-6b0bd29e7430 | -10.41618 | -50.69624 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 839c3ce5-888f-351c-9b44-7191b622c2c1 | -10.4155 | -50.70144 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 98a51458-3718-3850-8c15-5f7d886b22f8 | -10.41481 | -50.70663 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 92130b70-6c72-3008-a025-49e8c6cf7bca | -10.41413 | -50.71183 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 3da94453-1536-3060-b3cc-8516c887b2de | -10.40936 | -50.7112 | 2024-10-06 05:12:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 26c450c1-2571-3de3-b490-e06a1927895a | -9.74901 | -50.64643 | 2024-10-06 05:12:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4c8283d0-3363-3f6e-afac-e7fc7f3fc71b | -9.74833 | -50.65156 | 2024-10-06 05:12:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 011803d8-4426-3975-b632-6d095885348d | -9.74359 | -50.65091 | 2024-10-06 05:12:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 253f1e85-e9e2-3ba2-8831-911069bd5bc8 | -9.74261 | -50.64954 | 2024-10-06 05:12:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 73edd218-1dd9-3b91-9631-cbde5b87d5fe | -9.64572 | -51.78714 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e5ba2cd3-d1ff-36db-9d8c-d19fa41f9e85 | -9.64195 | -51.78216 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 3455b4d9-c93f-34b5-990e-b546d96c12e8 | -9.63817 | -51.77718 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| b7e7f6ca-ac13-35cd-b072-84bde917949b | -9.63758 | -51.78143 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| bff6482f-14f2-33f3-834b-473d13692d64 | -11.24387 | -51.19259 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 520f1ebb-f535-3fea-8a61-dc07544b3bab | -11.23927 | -51.26238 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 987fea46-a688-335c-8f28-671deb84c26f | -11.23921 | -51.19189 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c3587959-21a8-38e8-acc5-313b0466772a | -13.25104 | -51.26847 | 2024-10-06 05:12:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 9532f050-1f4c-32fd-9174-a8fecfcaec24 | -13.25037 | -51.27376 | 2024-10-06 05:12:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 50523be5-23ba-34c9-86bd-31ab4e2de731 | -9.09125 | -53.29978 | 2024-10-06 05:12:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| eb54bd50-5aab-3faa-8b17-306a33a8ef5d | -9.08058 | -53.262 | 2024-10-06 05:12:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 37d0e77a-c6e1-3bde-a585-8196806990d3 | -9.07665 | -53.26143 | 2024-10-06 05:12:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 10a6d450-8a0f-3b65-b4a1-f65e3598fc50 | -8.96023 | -52.78834 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| db71d7bd-7976-3896-b54d-358abd632126 | -8.66097 | -53.08404 | 2024-10-06 05:12:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8ca80e6d-ee0f-3184-9fc3-ab3126b71fee | -8.55057 | -51.77596 | 2024-10-06 05:12:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ba18efaf-986a-3b24-8d4f-c25a7a26789d | -8.54566 | -51.77966 | 2024-10-06 05:12:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 6ccb3501-bf82-31c4-a28e-bfbcccf96f66 | -8.32804 | -51.72949 | 2024-10-06 05:12:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 29650985-cfec-3ff0-bb8e-cdfc058fd616 | -8.95617 | -52.78784 | 2024-10-06 05:12:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 8c21cd46-63f9-3689-8eec-553a6009b5d8 | -8.63614 | -53.17414 | 2024-10-06 05:12:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0b976b67-9b97-34ba-915c-5579fce6301a | -8.54999 | -51.78006 | 2024-10-06 05:12:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c8b6eb54-f63d-32a7-9b1b-fa7b81252cfc | -8.33235 | -51.73011 | 2024-10-06 05:12:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 114589bf-28d0-3156-81b3-09caf634c816 | -9.75624 | -53.15997 | 2024-10-06 05:12:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9f15488f-f5c0-3fef-b0a4-0a0aeab83a4c | -9.7328 | -53.18165 | 2024-10-06 05:12:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 0a517306-2eea-33ef-9aa8-a5799ada04ee | -9.73231 | -53.18515 | 2024-10-06 05:12:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 61d8a08d-325b-38fd-b59b-0570b04969da | -9.7288 | -53.18109 | 2024-10-06 05:12:00 | NOAA-21 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 9c23b9c4-03fe-3c92-87a8-8d18a43d0dfa | -10.92784 | -52.40552 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e4561ed8-5407-3d7f-8ec5-c0c1dbc84d3f | -10.9127 | -52.45323 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 27f390c5-cb08-3877-a412-099a641447ed | -10.909 | -52.44846 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 773ee7f7-1480-3f2e-8de5-438a79c52448 | -10.90549 | -52.37709 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| b17c86f3-0f0a-3053-bbb0-25068e65fc66 | -10.90494 | -52.38123 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 7833c859-3489-345e-8ca5-0bb59b99ff08 | -10.90438 | -52.38536 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b61bd1fe-b3a0-3062-a9e3-20415fcb839b | -10.90384 | -52.38946 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 05367e47-2a87-3960-83b6-953d6c6b569e | -10.90282 | -52.37348 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| e1a67cb2-a0ab-38a6-af67-b51415ec0095 | -10.90224 | -52.37763 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 995b6fd7-1967-3bec-9dc4-867be4d934ae | -10.90165 | -52.38177 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 128f6cfe-2570-3cd5-aaab-e04e31f84d6c | -10.9012 | -52.37648 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 55954a36-24c8-3b92-8d82-c62e9683c359 | -10.90108 | -52.38587 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| e6da7b51-036d-3110-8c05-1491b03a06f2 | -10.90065 | -52.38063 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 4ab382a0-fc4b-35b4-8b6b-aee8459c09fc | -10.90011 | -52.38473 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c7072e69-cf2f-3725-9e4a-c6ac8486d27c | -10.89795 | -52.37703 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 546b7b09-e342-3949-b373-950b8ce85b1e | -10.89738 | -52.38116 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 54a4c7aa-37d9-3ed5-a718-a2aa6b6c0df9 | -10.89734 | -52.4382 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e2b5d411-db56-3a70-830f-44b3cff9ea36 | -10.89692 | -52.37586 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| f8dad556-016e-35fb-b3fc-79afb2045273 | -10.8968 | -52.38523 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| b911f361-4135-390c-93b9-3adc11ab21ea | -10.89637 | -52.38001 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 9b6e772e-916e-35c2-9282-f759477ba125 | -10.89583 | -52.38409 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 63517420-e4ab-3fab-8b14-f23fddbe8c36 | -10.89253 | -52.38459 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 64c37f3f-86ce-37aa-94c1-c764082ac18a | -10.89155 | -52.38343 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| f6ff6cb0-4557-3bbe-8505-38d489f45c78 | -10.88883 | -52.37983 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f1351624-f5dd-374a-b93e-a1e7c78645b6 | -10.88826 | -52.38394 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4ca77e25-7ef2-3d73-9243-9489518da1b9 | -10.88455 | -52.37923 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 68a4cdd6-754d-3a6f-a507-7f771e4fae8f | -10.8834 | -52.38749 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 5290c626-6840-34a9-9a25-5be485ec6889 | -10.88282 | -52.39161 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 0af3c240-5c28-3918-88ea-3a07d6753b06 | -10.88225 | -52.39571 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| af565fb9-7fdc-3062-869b-d99f6c6f405e | -10.88168 | -52.39977 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| cfffd41e-6c7f-32a3-bb77-9a787b4dedb2 | -10.87686 | -52.40314 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 1dcf7da1-305d-3813-bc78-a42588266a0d | -10.76807 | -52.4715 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| bfdbc1af-14c3-3c97-80f8-f542c76a51c3 | -10.76382 | -52.47095 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 92dfca23-4af3-3d41-8ec3-22b47aa9cefa | -10.76326 | -52.47498 | 2024-10-06 05:12:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
 
 
 [Clique aqui para ver as próximas entradas](README105.md)

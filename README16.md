@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 879b9671-6dce-3706-99a9-7b019507cbd5 | -16.9837 | -45.819401 | 2024-10-05 01:07:08 | METOP-B | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 085c79d9-8b8a-3064-84c8-23650cdcfbf0 | -18.8158 | -53.755199 | 2024-10-05 01:07:10 | METOP-B | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| addca80e-726c-3622-9800-4f2248d430c4 | -18.817499 | -53.762501 | 2024-10-05 01:07:10 | METOP-B | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 185cc593-a737-35d4-9213-22e3c9097841 | -18.501801 | -52.7715 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 0c758867-a29a-3eb9-85c8-6600c20ebd23 | -18.5035 | -52.779099 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 519f5c3c-ffd6-38a6-b20b-547383d44155 | -18.505199 | -52.786598 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 31ed1880-0bf4-3bb7-bac3-ad3b17c9a77d | -18.506901 | -52.794201 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 6404452d-0073-31f1-9ba5-d66aafeb1956 | -18.490299 | -52.766399 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 65d57979-6018-3caa-b4a8-20b7d69ec329 | -18.492001 | -52.773899 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| defb91f5-6d0b-3fc0-b50c-2916aa62cee6 | -18.4937 | -52.781502 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 220f7bcd-cdb0-3ae1-9b10-5a127a2cf75a | -18.495399 | -52.789101 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| f656d2f0-851e-3942-99c3-58ac881b9f21 | -18.4972 | -52.7966 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 2e41bce6-2fbf-3745-bef4-7d6937cfe716 | -18.480499 | -52.768799 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 962e80ac-13ba-3a19-80f2-9fd1680fa46e | -18.4823 | -52.776402 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 1aac7c07-40d7-3c14-b9ce-eebc03355099 | -18.483999 | -52.784 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 81b71cce-3ce1-39e8-b914-d33dce55dec0 | -18.485701 | -52.7915 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| c75cd223-063b-3732-abdc-53d89baf0c54 | -18.4874 | -52.799099 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 303fe689-cb1e-3ac0-b9b2-ee72f0caad41 | -18.489201 | -52.806702 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 46bd5dcf-e6c4-3457-9639-7cba66dc40f1 | -18.4909 | -52.814201 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 632a8b9f-6035-37bc-b584-3c780ad2173e | -18.492599 | -52.8218 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 243db4d1-704e-3b05-812a-64c2cff5cae8 | -18.4725 | -52.778801 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| f1366fd5-2669-3d8d-9c8b-ddf9c3e2fe4a | -18.474199 | -52.7864 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| b8d56338-3a4a-36b1-b75c-9331b94c8ba4 | -18.475901 | -52.793999 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 1d246183-4a5f-314d-a132-2184fc87c445 | -18.4776 | -52.801498 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| ba741443-ad69-388c-807f-6031e991fa18 | -18.4811 | -52.816601 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 5c517192-7600-3361-bca3-2a518aaa671f | -18.4828 | -52.8242 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 02960e65-227c-36fa-9888-a5f19d0975e6 | -18.484501 | -52.831699 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| bc305d62-b63f-3966-9a48-9bd5d5a9b669 | -18.4862 | -52.839298 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 466c50df-43f4-36c5-b447-f6daf97ad43f | -18.464399 | -52.788799 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 2d80f4af-9186-363d-8c23-6f5083868bb3 | -18.466101 | -52.796398 | 2024-10-05 01:07:12 | METOP-B | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 8371d28a-e7c4-32b5-afea-c59e067866f4 | -18.8804 | -54.470699 | 2024-10-05 01:07:12 | METOP-B | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| f9b83c48-1b96-3234-b083-f89dd9c648c4 | -18.882 | -54.477901 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| e967eb63-3e19-364e-9759-10790d728ac6 | -18.891399 | -54.521198 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 489f2a3e-9077-3f84-9659-4c4678c142db | -18.881599 | -54.523602 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 25997a9f-4e91-32ce-b64c-4cd8953c3faf | -18.8832 | -54.5308 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| f55a0bce-f508-3da9-890b-32f3b98a503f | -18.8848 | -54.538101 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 1e6882e8-dc4c-3d28-8364-cffe0780dfc8 | -18.8577 | -54.460899 | 2024-10-05 01:07:12 | METOP-B | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 76390699-6bac-3f2b-86af-1dc1ae1b8bdc | -18.871799 | -54.525902 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 8110e414-3c43-328e-9290-7f7a51efc1cd | -18.8734 | -54.5331 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 8c2aa474-01aa-3869-bc38-4c9d1aa11916 | -18.875 | -54.540401 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| e92fcf73-655d-3d68-8122-9460ca83898b | -18.8479 | -54.463299 | 2024-10-05 01:07:12 | METOP-B | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 60310b94-3105-3973-a33c-9a12db5236da | -18.8589 | -54.513802 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 64b2215d-463b-388f-9a7e-ece547b67d8d | -18.8605 | -54.521 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 50e20520-ee58-310b-881f-bc5a9f8d3cf9 | -18.862101 | -54.528301 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| a3983aa3-4557-3125-b056-f47b2a776302 | -18.863701 | -54.5355 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 88767247-d2dc-3bd5-9d85-256d02b32a88 | -18.8491 | -54.516102 | 2024-10-05 01:07:12 | METOP-B | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 30ff19a0-3d64-3172-a94c-c77c0d898316 | -18.8507 | -54.5233 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 90640c0b-0f88-36e2-8217-d56b9e38887f | -18.852301 | -54.530602 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| a83684f2-e136-3c60-97dd-0271f46fa7a4 | -18.853901 | -54.5378 | 2024-10-05 01:07:12 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 4c15347b-b113-3d33-ab79-6e55360fc98a | -18.2978 | -54.208199 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| a294805c-ef31-3623-87ff-a3593a66eeec | -18.2994 | -54.215401 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| b71792f1-a385-39c2-8129-d044a803ee01 | -18.288099 | -54.210499 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| e30da16a-4cfd-3d25-90ac-1c37f55985e3 | -18.2897 | -54.217701 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 68da9b60-cc4a-329a-92a9-f21399fde4ed | -18.2913 | -54.224899 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| ced4d31c-146a-3ad9-827b-249cd2f54050 | -18.278299 | -54.212898 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b8ee678-5e3a-3795-ae75-7c9c6a184121 | -18.2799 | -54.2201 | 2024-10-05 01:07:20 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 72d7dd71-98e7-3664-8ff1-16d94999448e | -18.7008 | -57.2752 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| d65ed853-f6be-36ef-8249-839132b07924 | -18.702499 | -57.2836 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 979b1270-2bad-3bea-b23d-ad6d7f634e89 | -18.704201 | -57.291901 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| cf1f97ca-fb95-3b38-b132-50933db50da8 | -18.6877 | -57.260799 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 1d070111-1cef-3845-88bd-de3b1efefe61 | -18.689301 | -57.2691 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 6f738637-1335-3f4b-a6c9-c549cacb7a42 | -18.691 | -57.277401 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| d94dbf31-0f4d-3480-97c9-f38ca8391466 | -18.692699 | -57.285801 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 7a25464d-27de-33b0-b728-c69a43fa4636 | -18.6779 | -57.262901 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 43780e58-9b66-3330-9642-081a8c39fef3 | -18.679501 | -57.271198 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 0e6ffd3b-f0ce-3932-a44f-c46d9a242921 | -18.6812 | -57.279499 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 24bd84f8-48e9-3a3b-83bb-4f581b4d4718 | -18.682899 | -57.287899 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 4d7aad1e-847a-313d-9eef-48ee17811da3 | -18.684601 | -57.2962 | 2024-10-05 01:07:24 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 9bed80a0-c1f0-3a40-a836-f52151f510ea | -18.6583 | -57.2673 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| cc82f9d1-b43d-3936-abcc-6d6ed8e68c6b | -18.666401 | -57.256699 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 7d31cfee-3664-3f68-a7b3-a254a3cc16b2 | -18.6681 | -57.265099 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 5bd37901-1174-3ab1-9d65-c292e92fe172 | -18.669701 | -57.273399 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 51bff3c6-fd28-30ff-ac67-37999d7c5d53 | -18.6714 | -57.2817 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 79b3f183-a962-3193-be07-102d51d155a8 | -18.659901 | -57.2756 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 3c81ff64-2215-37ce-b52c-40f0b868e2f2 | -18.6616 | -57.283901 | 2024-10-05 01:07:25 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 6ebbeaf6-9f96-3eb6-bc83-0351341d6226 | -17.1208 | -51.716999 | 2024-10-05 01:07:30 | METOP-B | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 68040323-64f2-365a-8520-01624e3cbeb6 | -17.122801 | -51.725399 | 2024-10-05 01:07:30 | METOP-B | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 198611db-5962-3000-a9c8-a5882b8d2f96 | -15.7704 | -48.196701 | 2024-10-05 01:07:38 | METOP-B | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
-| eda251ce-934e-3f4b-8a0a-f5a1dde792fc | -16.0816 | -50.231998 | 2024-10-05 01:07:41 | METOP-B | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 6674f281-f509-3988-9573-fee1e47441ab | -16.084101 | -50.242298 | 2024-10-05 01:07:41 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| e9690a52-c1d9-32ca-a298-c13ebdcf7d8d | -16.0744 | -50.244801 | 2024-10-05 01:07:41 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 5ff18ce9-a6c9-3354-8839-15fafac4052c | -16.1187 | -50.426899 | 2024-10-05 01:07:41 | METOP-B | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 494a9a1d-2c07-3b5d-9846-6dd78224cfa8 | -16.121099 | -50.436798 | 2024-10-05 01:07:41 | METOP-B | BURITI DE GOIÁS | GOIÁS | Brasil | 5203939 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| e35a34b9-3010-3f15-a453-077d41ec36df | -16.104099 | -50.4519 | 2024-10-05 01:07:41 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 8ac2fd66-9539-3cbb-95f9-a24b6466de08 | -15.4036 | -47.695 | 2024-10-05 01:07:42 | METOP-B | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 72bd9471-ea05-3af9-b577-23c2738a3049 | -16.077299 | -50.426998 | 2024-10-05 01:07:42 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| ba6e73db-12bb-3359-96d9-9bae164c40ff | -16.0798 | -50.437 | 2024-10-05 01:07:42 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 30366e5c-29b3-30b4-8d0b-cce81ad22e4e | -16.082199 | -50.446999 | 2024-10-05 01:07:42 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 86af0756-8d70-3147-b92d-aae149abe282 | -15.7455 | -49.916901 | 2024-10-05 01:07:45 | METOP-B | HEITORAÍ | GOIÁS | Brasil | 5209606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| eee02778-5404-3b44-8f71-82cdb47fc067 | -15.7482 | -49.9277 | 2024-10-05 01:07:45 | METOP-B | HEITORAÍ | GOIÁS | Brasil | 5209606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 652ac2f6-5a0e-38ec-b26e-a50e199faf4a | -15.7508 | -49.938499 | 2024-10-05 01:07:45 | METOP-B | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 535d7969-c303-3a02-8d36-267049f88fd8 | -15.7385 | -49.930302 | 2024-10-05 01:07:45 | METOP-B | ITAPURANGA | GOIÁS | Brasil | 5211206 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 4bfc9b0d-be68-351e-b394-a30826ea23e1 | -17.153601 | -56.142601 | 2024-10-05 01:07:45 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| fc1bbc11-be09-379d-83a4-a35d42af4c0c | -17.145399 | -56.152199 | 2024-10-05 01:07:46 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a4d2a305-7c5c-3411-bcb4-17b0575fca66 | -17.146999 | -56.159599 | 2024-10-05 01:07:46 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 439c7501-f1cb-3905-9ee0-da6c23545f26 | -17.063 | -56.054798 | 2024-10-05 01:07:47 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 31167acd-e239-3bd4-880e-66889a83e7d5 | -17.0646 | -56.062199 | 2024-10-05 01:07:47 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 877874aa-a8e9-30d4-a383-29016fe13507 | -17.0532 | -56.056999 | 2024-10-05 01:07:47 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| ec793d11-392b-3786-b603-a84c864cd031 | -17.0548 | -56.0644 | 2024-10-05 01:07:47 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 70f60e72-f02a-314a-a3d8-d32918dff085 | -17.0564 | -56.0718 | 2024-10-05 01:07:47 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| 593b4bfa-c131-3ec7-8056-0f678ad8e81b | -14.06671 | -45.16559 | 2024-10-06 00:50:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 21.3 |
+| 7cd815e4-a8bb-3351-a5b1-c868c02259c6 | -3.3153 | -49.1241 | 2024-10-06 00:50:01 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6747d702-13c2-3a8b-9e11-8adf8641435c | -3.3173 | -49.132801 | 2024-10-06 00:50:01 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 82c51f66-dafc-3791-b501-7e3d6918ffa1 | -3.3075 | -49.135101 | 2024-10-06 00:50:01 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9de298f3-20de-3f81-83d5-371ec2cbd6b8 | -3.573 | -50.384201 | 2024-10-06 00:50:02 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| afaba79b-0d1b-3831-bbdc-f15431d65c65 | -3.2604 | -49.109299 | 2024-10-06 00:50:02 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5219ed62-9abd-3367-93f6-dd75fe242832 | -3.2624 | -49.117901 | 2024-10-06 00:50:02 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6c1a05e5-e189-3bee-aa6d-8d10959a095b | -3.2644 | -49.126598 | 2024-10-06 00:50:02 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 69b16030-399d-36a6-a649-8f3734bb5a3e | -3.2664 | -49.135201 | 2024-10-06 00:50:02 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 69888fb4-3099-3180-9f97-f49b554430f3 | -2.7151 | -46.792801 | 2024-10-06 00:50:02 | METOP-B | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 463cad5b-7f26-33f3-89dc-fb66cd47138a | -3.4928 | -50.258801 | 2024-10-06 00:50:03 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bf0d15f1-3aba-3e0b-9cb4-6b71efe7fb75 | -3.4945 | -50.266399 | 2024-10-06 00:50:03 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e4488a7f-5ff0-3b5e-bce4-e18316842a00 | -3.4202 | -50.121498 | 2024-10-06 00:50:03 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6ffda0f1-5ba3-33fb-aaba-d57da1ed6086 | -3.422 | -50.129299 | 2024-10-06 00:50:03 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 148cd7f2-f7dd-3404-823a-b13a633aa53b | -3.1202 | -48.9473 | 2024-10-06 00:50:04 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0e8a88c4-a9c5-39a5-9c00-11c8ed258a25 | -3.1223 | -48.9562 | 2024-10-06 00:50:04 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 92bbc98e-1a45-321d-94cc-ff09181a131b | -3.1243 | -48.965 | 2024-10-06 00:50:04 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a088f419-17ee-3ada-a66c-19b3c33fca90 | -3.4156 | -50.372101 | 2024-10-06 00:50:04 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4371857a-aafe-3a60-bb9b-034ea9be641e | -3.4174 | -50.379601 | 2024-10-06 00:50:04 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 43fbb331-3bb7-39d4-974b-d8f3934ef202 | -3.4041 | -50.366699 | 2024-10-06 00:50:04 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 29f48b68-0267-35e8-afae-49b6d7283dbf | -3.4058 | -50.374298 | 2024-10-06 00:50:04 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| da5f5b4f-ab66-3790-9208-0f72284c76fd | -3.509 | -50.827 | 2024-10-06 00:50:04 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b6a7d0c3-814f-3791-85fa-2af4e257ae46 | -3.5107 | -50.834301 | 2024-10-06 00:50:04 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 90888b9c-ec05-330b-86f2-74f3bb50d675 | -3.396 | -50.376499 | 2024-10-06 00:50:05 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bc3c7850-36ca-38d2-9f0c-7f0139c6306b | -3.3143 | -50.063702 | 2024-10-06 00:50:05 | METOP-B | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 12a8f95a-3f75-3a63-b6c3-0e369a97e44e | -3.4378 | -50.650101 | 2024-10-06 00:50:05 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cba79f7f-ed74-3155-b98c-9841facdeb93 | -3.4395 | -50.657501 | 2024-10-06 00:50:05 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 68342a71-918b-3837-9a4a-e17d143f5120 | -3.3066 | -50.436298 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f72455d6-7af0-3831-8cfe-15ee30b9a443 | -3.3083 | -50.443802 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ecd126ab-3e49-36a2-b001-792eb14545d1 | -3.31 | -50.451401 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b0cb53f4-7054-318f-af4a-45b57ef6a1ec | -3.3118 | -50.4589 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f43033a8-bed3-342e-b5c4-8764d1ad012e | -3.2985 | -50.446098 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 916f4734-b7dc-344b-bd0c-c6d84fe3728e | -3.3002 | -50.453602 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2781f1c8-7827-3846-b988-26a3ebd0bc93 | -3.302 | -50.461102 | 2024-10-06 00:50:06 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4fe31259-7480-33b9-bbb9-73dbc57d8a98 | -2.8245 | -48.422501 | 2024-10-06 00:50:07 | METOP-B | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| dde7dbbc-5f94-35b6-81b0-0cc823150c67 | -3.287 | -50.440701 | 2024-10-06 00:50:07 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8c91d5f9-8be6-3957-a46d-a2a106382ab4 | -3.2351 | -50.3489 | 2024-10-06 00:50:07 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b54e71a5-3b43-3ba8-b0f7-14994c68a37b | -3.2369 | -50.356499 | 2024-10-06 00:50:07 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 77a3e309-e6aa-31b5-b930-af4e7806ac4f | -3.2386 | -50.364101 | 2024-10-06 00:50:07 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bcf81c25-4efb-3cdb-ba1d-b9cb5e053932 | -3.2271 | -50.3587 | 2024-10-06 00:50:07 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 335a1377-0339-370e-ba9a-0575b994b114 | -2.8105 | -48.5854 | 2024-10-06 00:50:07 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1f7621ca-f21b-3493-828d-6bc8b649f055 | -2.8127 | -48.594799 | 2024-10-06 00:50:07 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6021621f-f6b7-31b3-a251-eb7c8a758ae0 | -2.8007 | -48.587601 | 2024-10-06 00:50:08 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 024982e8-05d4-353d-914f-0deabfbb8125 | -2.8029 | -48.597 | 2024-10-06 00:50:08 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bfcaf426-423c-357a-8f67-a553f24355d1 | -2.8005 | -48.675999 | 2024-10-06 00:50:08 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 11856903-d08c-3354-bd88-ec96b85ffa78 | -3.2294 | -50.820702 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 77466e48-d76d-3336-a73c-ae4b489c9b5d | -3.231 | -50.827999 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 271c66ec-d6c9-3294-bd57-564341f2b0a1 | -3.2327 | -50.8353 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e29b0754-c349-3ce0-8c5a-2f905421998d | -2.7298 | -48.6824 | 2024-10-06 00:50:09 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 39c93481-45fa-32f2-a163-a0fbdfe097c7 | -3.1245 | -50.405701 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7d0e65dd-da55-3e2b-bf3a-5ad7b83a506b | -3.1262 | -50.4132 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ac56c668-93ee-35bf-a2e0-df5d698028b3 | -3.2196 | -50.822899 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4ab2676a-9790-3dc0-995e-0cc1b0e30fae | -3.2212 | -50.8302 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d00dcb79-0f7e-3baa-979e-b74f6a42bb48 | -3.2229 | -50.837502 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bd9f0d86-e59c-3321-b15b-2b9bb0c5f11b | -3.1129 | -50.400299 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3cfa39ae-b801-32ec-aaa7-5e52cb328e0a | -3.1147 | -50.407902 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| db940954-bfff-3379-b5cd-017d3df57ec3 | -3.1164 | -50.415401 | 2024-10-06 00:50:09 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 71af9cda-79b3-3539-b711-88607fa5dae3 | -3.2878 | -51.440601 | 2024-10-06 00:50:10 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 32299b5e-646c-322e-b8c2-fb972e13141b | -3.2894 | -51.447701 | 2024-10-06 00:50:10 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 87168775-d858-373b-86f4-8021f343017c | -3.0922 | -50.444801 | 2024-10-06 00:50:10 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 71a0b8b2-687d-3ed2-a127-68952101484d | -3.0939 | -50.4524 | 2024-10-06 00:50:10 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a8209719-c565-3960-a51c-2a5625df0ffb | -3.0956 | -50.459999 | 2024-10-06 00:50:10 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| dd7b1fc2-ba1f-3559-a6e2-8d17f5dc8138 | -3.2992 | -51.445499 | 2024-10-06 00:50:10 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 16ab142a-7db8-3e46-8738-27308388b6de | -3.3008 | -51.452499 | 2024-10-06 00:50:10 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f6bad38d-2984-31ab-b48f-64cb4c5fbfb6 | -3.291 | -51.4547 | 2024-10-06 00:50:10 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2b93d080-f38d-3b8b-a1b6-8244e5f57a25 | -3.8555 | -54.005402 | 2024-10-06 00:50:10 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1041a7f3-3fc0-384e-9fdd-d101e1b0768e | -2.6896 | -49.0448 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c0581bdd-3401-3a92-8bc2-4b0637a9969b | -2.6917 | -49.053699 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f1f34a2f-78ee-3524-9ff0-8a84850aaf99 | -2.6937 | -49.0625 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6b8ab40d-6283-3813-aefb-2a9c4dea4b40 | -2.6778 | -49.0382 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| fec1184f-72d3-397a-a377-6dca6f339e75 | -2.6798 | -49.0471 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 07657055-76da-3766-abcf-04ca56edd4ca | -2.6819 | -49.056 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 754b25a8-9690-3d49-b2d7-aec8bd863237 | -2.6839 | -49.0648 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 983e18bf-0af8-3239-a7fa-90db981e0626 | -2.6859 | -49.0737 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f6926d34-9e5f-3bbb-a7a4-0ba53c86bba9 | -2.67 | -49.049301 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 93880eda-a310-3e5c-9cb0-5c220b14a888 | -2.6721 | -49.058201 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7027b0e2-c1a2-38e1-a739-9cfbe89fde12 | -2.6741 | -49.067001 | 2024-10-06 00:50:11 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 95ca8341-8807-3f7c-810e-7c7735d4d82e | -2.5264 | -49.006699 | 2024-10-06 00:50:14 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cf5024e7-91ed-3833-8121-933b3f02c9ce | -2.5284 | -49.015701 | 2024-10-06 00:50:14 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| fa710190-c69e-3cab-97f5-c8b70a2610d5 | -2.5166 | -49.0089 | 2024-10-06 00:50:14 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 341b90e9-ab42-3d47-9dd4-cd14f4f2d10c | -2.8449 | -50.444599 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0ac7a568-c8f2-39a4-9e6a-8d1cdb13a372 | -2.8466 | -50.452202 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4355fc40-19e6-3b4b-9373-100e68762e36 | -2.8483 | -50.459801 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 965a8944-607d-3bf4-8683-0f88a4e8e967 | -2.8368 | -50.454399 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 58da4b7d-43d4-39ac-9a1e-48f3c42111e8 | -2.8916 | -50.694801 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e88343b1-fec5-3097-9230-d3d129eb7f78 | -2.8933 | -50.702301 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 308158af-96b3-3182-b635-88f53e929ac9 | -2.8818 | -50.696999 | 2024-10-06 00:50:14 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4c2b31ea-4711-34c0-973b-1b979dc31a1b | -2.3649 | -48.617001 | 2024-10-06 00:50:15 | METOP-B | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5440199f-8f59-39bd-9bc8-f41d8c4c58b5 | -2.3671 | -48.626499 | 2024-10-06 00:50:15 | METOP-B | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 821a145a-cc62-3a4f-bfc8-0fcc6dab6aa5 | -2.3693 | -48.635899 | 2024-10-06 00:50:15 | METOP-B | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 474923ab-f09c-332e-b0d3-43518c3b8ab0 | -2.3968 | -48.845299 | 2024-10-06 00:50:15 | METOP-B | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 72fd9c7e-500c-360f-8a55-7ee0bbf76ea2 | -2.3989 | -48.854401 | 2024-10-06 00:50:15 | METOP-B | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1ad4ba91-6cd6-315d-a4e0-a0effb4caabf | -2.1936 | -48.1399 | 2024-10-06 00:50:16 | METOP-B | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f17c55af-1efc-37eb-af7e-54a0b2c518d9 | -2.196 | -48.150002 | 2024-10-06 00:50:16 | METOP-B | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1b6bf37a-59ac-3b1a-95c1-79d829ace525 | -3.3212 | -53.367901 | 2024-10-06 00:50:17 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ffe9a211-dd75-32dd-a825-80c186e83659 | -3.3228 | -53.374802 | 2024-10-06 00:50:17 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 16a216d4-d956-3b3a-a91f-4095ec597459 | -3.3243 | -53.381699 | 2024-10-06 00:50:17 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 64d97460-1aa8-3a31-83ab-90221db6920d | -3.2068 | -53.133801 | 2024-10-06 00:50:18 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0a307d9d-2a87-38cd-bb45-146c8dc42d64 | -3.197 | -53.136002 | 2024-10-06 00:50:18 | METOP-B | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e344fde0-de92-387b-abe7-7038f4a9d71e | -1.7561 | -47.176701 | 2024-10-06 00:50:19 | METOP-B | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | nan |
 
 
 [Clique aqui para ver as próximas entradas](README17.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| bd55d765-12cd-3c9b-99b9-923f537cac5e | -8.22412 | -61.21618 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 45afe9d8-e9f2-3107-88cc-845c96eac203 | -8.22356 | -61.21976 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 98299d37-97c0-3609-bf28-a7ab99540f00 | -8.22301 | -61.22334 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 3569e7ee-718b-3213-bf9b-c49c385fd2ff | -8.22187 | -61.20849 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 59b09250-8b4f-3f4e-9b44-b52a27df17f0 | -8.22131 | -61.21207 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 28c16a26-0b8e-327a-854a-76158e32bf2c | -6.27789 | -62.48362 | 2024-10-05 05:29:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 16f9263d-4e30-3425-8987-36eb317bae2e | -8.83282 | -63.02817 | 2024-10-05 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 90423856-a26f-3a96-a638-692646617505 | -8.83227 | -63.03165 | 2024-10-05 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 055bf644-e35e-3099-8720-79c001d62633 | -8.83116 | -63.01723 | 2024-10-05 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ad2b881d-0675-3b04-8432-3c80b8f1a47e | -8.83061 | -63.0207 | 2024-10-05 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 055d3935-2a82-345c-99f7-3d4943140719 | -8.78149 | -62.83856 | 2024-10-05 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 25f38629-1b69-3af2-b505-e34415a52b8b | -8.77819 | -62.83804 | 2024-10-05 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a01ce332-ebd9-3dac-b75d-4b53e2684605 | -10.69312 | -63.46838 | 2024-10-05 05:31:00 | NOAA-21 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8aed674f-42dc-3276-856b-e30e9375d334 | -9.77708 | -63.14795 | 2024-10-05 05:31:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8c94cfcb-6297-3777-872b-2f00a7a03342 | -9.71655 | -63.23111 | 2024-10-05 05:31:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7761e34e-e60e-38e8-a074-6246b6b91dab | -9.53818 | -63.15277 | 2024-10-05 05:31:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 5ee7f6a8-c1ed-3ccb-a024-ecc5b2f1a9e7 | -9.53488 | -63.15225 | 2024-10-05 05:31:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 938c0318-72c9-3537-8561-d843d5fed652 | -9.53148 | -62.98064 | 2024-10-05 05:31:00 | NOAA-21 | RIO CRESPO | RONDÔNIA | Brasil | 1100262 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 529e7fe8-5a52-3700-88e6-6c92f00947ea | -11.99413 | -63.52644 | 2024-10-05 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 2b4cb761-e521-3f04-9f55-94d2418a2c52 | -11.99084 | -63.52587 | 2024-10-05 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| acc60bb3-b571-3d2f-912e-d4bad6aa0b31 | -11.99029 | -63.52937 | 2024-10-05 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 04053888-e518-3427-b085-0963144188fc | -11.98699 | -63.52883 | 2024-10-05 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| ed48beb3-c03f-37d3-9af4-ec04afb96d98 | -11.00551 | -63.58023 | 2024-10-05 05:31:00 | NOAA-21 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 0c8c3ed6-4b45-33b8-9f31-4cddac0079ca | -10.88012 | -63.89859 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| e02d194b-e5f5-3ca3-8e9d-9e6fc8d693f4 | -10.87736 | -63.89455 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f1631cf7-b8c8-3115-bb86-4b6df8eb21aa | -10.8768 | -63.89808 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 70468216-35c7-3c83-a667-9ab41a986e3a | -10.87401 | -63.91562 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 490ad153-78c5-399f-bd65-c50ce2cc7e35 | -10.87125 | -63.91157 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3260e703-eed1-3164-979b-b43ba548e02f | -10.87069 | -63.91508 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 14ca8068-07b1-3ec2-86a7-cc58a29b6cf0 | -10.86737 | -63.91457 | 2024-10-05 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e380ea42-4716-3c4a-a669-8e69b0662887 | -10.85007 | -64.17027 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| afac19e1-110c-3fab-b33c-6f55c7e8cdf4 | -10.84674 | -64.16969 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 16536bcd-121d-3394-9ed7-fe0d5234c1f3 | -10.84618 | -64.1732 | 2024-10-05 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| dcf1b46e-a50a-37fe-b0cf-9ceda86dfab8 | -11.87854 | -63.28868 | 2024-10-05 05:31:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| d3bf21cd-bcbf-399e-a51b-cb9febe69d42 | -11.87524 | -63.28815 | 2024-10-05 05:31:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 38650bcc-ad55-3b1d-9003-c1888abfabe2 | -11.87193 | -63.28762 | 2024-10-05 05:31:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d6c93e27-36bb-325b-9b63-a7b4fe68ec8d | -9.24106 | -65.60122 | 2024-10-05 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 76a70a8b-097f-3bb6-a9a7-4647d4fe2cc3 | -9.2404 | -65.60524 | 2024-10-05 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3ad03823-7386-3569-8487-afd57fc4cd3f | -9.23686 | -65.60466 | 2024-10-05 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8034b1bd-d74f-3f40-b3a6-fd7688cd8cce | -10.09988 | -67.34952 | 2024-10-05 05:31:00 | NOAA-21 | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d0023c85-dd08-3f99-9c15-10aac80b48c0 | -8.86416 | -67.48534 | 2024-10-05 05:31:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| a34dd8b2-141c-37a3-b83d-b50d8c50cfe2 | -10.98 | -68.45764 | 2024-10-05 05:31:00 | NOAA-21 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 08a104f1-55c2-3550-a391-ef1c8b18699d | -10.95307 | -68.34845 | 2024-10-05 05:31:00 | NOAA-21 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e64e13b3-4b29-301a-8fce-35a4806e53a0 | -16.10264 | -50.2406 | 2024-10-05 05:31:00 | NOAA-21 | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| a90579f5-3e26-32ad-8c76-f9a37a4d4edd | -16.10195 | -50.24834 | 2024-10-05 05:31:00 | NOAA-21 | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 40261486-e730-39e9-bfa3-921c1759f11a | -16.09536 | -50.24175 | 2024-10-05 05:31:00 | NOAA-21 | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 209266b5-47b0-3e24-8cc1-1bd076b93928 | -16.08819 | -50.24158 | 2024-10-05 05:31:00 | NOAA-21 | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 9c5b989f-0720-3a98-a6cd-b8d4161abc90 | -16.08416 | -50.24319 | 2024-10-05 05:31:00 | NOAA-21 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| ff4144c1-0ca2-3ce8-ab5e-1dfec0b2d541 | -16.08358 | -50.24927 | 2024-10-05 05:31:00 | NOAA-21 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 34cdebfd-838b-3db4-a7d5-30690c0ef81d | -16.08066 | -50.24543 | 2024-10-05 05:31:00 | NOAA-21 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 10.8 |
-| e6c5abbd-35a4-3000-a31c-b8d1371a1afe | -16.07667 | -50.24639 | 2024-10-05 05:31:00 | NOAA-21 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| f42b302d-480c-3abd-b1df-2b229ab81d82 | -13.14842 | -51.18597 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 797db90a-1328-30bd-b397-5f2499901564 | -13.14828 | -51.18492 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 647ee709-cbed-3d3a-ac35-c5791eab00e7 | -13.14779 | -51.19158 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 0ba5cbd5-6bed-3c5d-b880-be1b44e9564a | -13.14769 | -51.19053 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 2ade4ff2-db2a-3acb-9214-784a7f22419a | -13.14716 | -51.1972 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| f967b34d-6944-3966-b497-b353809a0c5e | -13.14709 | -51.19617 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 50fcca30-17ef-312d-9a09-cd3d127a956e | -13.12731 | -51.13756 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 6c372479-3223-3013-ad31-29878e99acbd | -13.12687 | -51.13631 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 31f427be-85bc-3915-a8e6-232a560ac956 | -13.12628 | -51.14201 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 990840d8-ec0a-3954-9af7-900cb8049475 | -13.12077 | -51.13677 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| c0790ea9-ef90-3aef-9ff9-7a22b322e612 | -13.12032 | -51.1355 | 2024-10-05 05:31:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| f97e67e1-95e5-3c0f-b680-22e1240dc7e9 | -13.11973 | -51.14117 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 2b455535-24ba-3f13-be0f-62952010556c | -13.05755 | -51.1152 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| d3ec7489-1977-3f77-891f-4cd57f75bedf | -13.05691 | -51.12086 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 14c04658-e3f9-329c-9d41-45cf2e8560ab | -13.05654 | -51.11713 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 0dad094e-f70a-359d-889a-e138567e8c72 | -12.99086 | -51.1183 | 2024-10-05 05:31:00 | NOAA-21 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 4cfefdee-90b5-35a9-8190-8d8e3f142efc | -12.82707 | -50.55688 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 3aca8cc4-1631-3153-85d8-7e7b4da9f68d | -12.82642 | -50.56301 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| c5a5392a-bc47-38bd-b916-fa8647e392ec | -12.82032 | -50.55601 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 7c22b79f-dc74-3ae7-bb62-0729f94c0b7f | -12.81967 | -50.56216 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 36a5bf8b-8002-3c84-bfdf-ecb083adac8e | -12.8117 | -50.54726 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 4d502372-1638-32fb-933e-0be200672f6f | -12.81101 | -50.55338 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 2fc8494f-35fa-3350-bb25-c96fa9339291 | -12.81032 | -50.55951 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| ef05e162-4fbf-3eaf-89b3-edb8620103da | -12.80682 | -50.55431 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| b9edfde0-c755-3517-861b-dba6562f25c4 | -12.80617 | -50.56045 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| ae415232-632b-3e3e-9711-24e12bdfe94d | -12.80426 | -50.55255 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 0a3c6b50-e228-3d7c-83b4-c213d6f4b343 | -12.80357 | -50.55868 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 93ea1b58-583a-36f4-b196-6e5eb5ad7d20 | -12.80072 | -50.54729 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| 036eddf5-c104-3856-888f-e2a1ab0f72b4 | -12.80007 | -50.55345 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| 2f56c5c1-851c-386a-97a2-1cb022cdb419 | -12.79943 | -50.55959 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| d65623b9-a33f-3754-b500-16b6012afcd6 | -12.79683 | -50.55785 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 9f1327ab-920f-3cfe-a1d1-9515d3075308 | -12.7894 | -50.56315 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| c8eb5795-b81b-3247-a590-9e6616c72a50 | -12.78722 | -50.54557 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| 36e50fda-af87-3f88-b8dd-bf470b023e99 | -12.78657 | -50.55173 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| ab3b3f75-ab4b-32f9-b388-ad5b65e14e5c | -12.78529 | -50.56401 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| ec8b8ba0-e8e6-33d1-b18c-ad986e881fab | -12.78469 | -50.54391 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 33.1 |
-| 59fc3eeb-3d15-3b79-8744-a72d2225b2d9 | -12.78401 | -50.55005 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| b063ece9-f6a2-3036-841e-2ce82963a83e | -12.78333 | -50.55619 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 4eb8f09e-bdd8-3c2a-86d6-8a955e85d49e | -12.78265 | -50.56232 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| d2f503d0-3463-3451-88f3-8ce55225bd47 | -12.78047 | -50.54469 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| 834fc965-74eb-3088-8707-237f92eb82a7 | -12.77983 | -50.55086 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| 089708d4-5613-3d28-95b3-723cc19f59c8 | -12.77919 | -50.55701 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| d2ddbec5-6de3-3124-8c26-52c0c660bbaa | -12.77727 | -50.54919 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| d3165b08-6839-3a27-a044-f63af7eac9c4 | -12.77659 | -50.55535 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| fd6dafa6-0f8c-3c48-9276-bd601efb5b59 | -12.77591 | -50.56148 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ba77faaa-6083-3472-a893-f235e5f63292 | -12.77372 | -50.54383 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| f7f8a476-d8c7-340f-aa82-0d3df352c432 | -12.77308 | -50.54998 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| e20e8d76-4319-330b-849a-c5dd0dae0a3c | -12.77244 | -50.55613 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| 3bb7d20e-8961-31b1-a5f6-45fe52a62bce | -12.77119 | -50.54222 | 2024-10-05 05:31:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| 74740b49-6b7a-31b3-b132-f7ecb6ba5890 | -10.88149 | -63.901 | 2024-10-06 05:36:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9a4a1c6c-1fd9-31e5-95e5-7e3693432ac9 | -10.87871 | -63.89687 | 2024-10-06 05:36:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 3af8cd65-1893-3e0d-b240-4b98e76ccf91 | -10.87815 | -63.90044 | 2024-10-06 05:36:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| 86896125-8c02-3ef3-ab64-01504bbd922d | -10.87537 | -63.89634 | 2024-10-06 05:36:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| c7aea6f4-6be3-310c-bf61-e1af5bef5131 | -12.02336 | -63.74118 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 223b5c50-18e3-3a4c-a010-96fdb9c24587 | -12.0228 | -63.74481 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 1caa6492-7c82-39c6-8b57-e36bae1521bc | -12.02225 | -63.74843 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 13b7ba62-23c9-3840-97d1-921a65cf2e24 | -12.0217 | -63.75204 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 1d6c8630-67e4-385c-a36a-c7484da0d063 | -12.02115 | -63.75566 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ec1393a1-31d4-3fe6-b02c-09c5bb8cefe4 | -12.01999 | -63.74065 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 746973d8-ca79-313e-85c8-e29cf1367bed | -12.01944 | -63.74428 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| becb24c9-20cc-352c-a88e-bc3bec8003f3 | -12.01889 | -63.7479 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| fc6184bd-2a09-35b2-8a3a-2f6fe3d6998f | -11.98946 | -63.52781 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8303befe-0b45-35a9-b7fc-c400babb6133 | -11.98891 | -63.53146 | 2024-10-06 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8913ef6d-d868-3d8e-bfc9-ee2a96770e1d | -12.43842 | -63.69055 | 2024-10-06 05:36:00 | NPP-375D | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4dd10fdd-53f7-3878-b93a-0840e31e7d98 | -9.45216 | -64.5378 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b0eec19c-6ba2-385c-8146-dcc533ee36d5 | -9.37405 | -64.49673 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 38265b7e-517c-3fdd-9096-b45eb493027c | -9.37059 | -64.32409 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| aa0459d6-f91c-3829-895d-2aa9dba0c84d | -9.37004 | -64.3276 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| c0943661-02b5-33e5-be2d-58178c2d9327 | -9.36949 | -64.33109 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| ab09a435-30bb-308b-90c4-cd8f7434cf1a | -9.36894 | -64.33458 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 5f24ef89-11df-3ac9-a58d-aa05471d04d8 | -9.36781 | -64.32007 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 20b1f4b4-c459-3a69-8394-0ee4bfd63d33 | -9.36726 | -64.32356 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 12eaffc6-daab-3e98-93b0-60cbd878230f | -9.36671 | -64.32706 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 151d8403-100e-30e7-b34d-a5cb41d7215b | -9.36616 | -64.33056 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| f9d04d4d-f589-37e8-a8cb-11cdcce433ff | -9.36561 | -64.33406 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 25e3098d-b99f-35ee-8756-29655ad4c696 | -9.36449 | -64.31953 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 868b0f55-be60-3996-911b-19a13161b138 | -9.36394 | -64.32304 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| e5277e24-1ced-3917-903e-ab878412f6fe | -9.36339 | -64.32653 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 3928e7a4-3170-3a7f-9154-3ad8e3aad90e | -9.36284 | -64.33002 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 43ef1c3f-a990-3a86-a3ac-aeed450f9431 | -9.36229 | -64.33353 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0f1e1853-2b2a-315f-a7e0-7f4ca482843a | -9.32686 | -64.3637 | 2024-10-06 05:36:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 795ca38e-b831-3114-be8e-dcc662380ddb | -9.31049 | -65.38432 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 854164be-e13c-377f-8929-b7df43166d18 | -9.30828 | -65.37659 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| f0509e8e-674c-3bdf-bed2-9d3494a0b924 | -9.30771 | -65.38018 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| ddaf7c73-66ef-394d-afa4-435f894263e5 | -9.30713 | -65.38377 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 010fb661-2a32-3081-8134-7b4ed072c9fd | -9.30492 | -65.37605 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 41865bf9-79cb-3e2f-afd5-8e933d861915 | -9.30435 | -65.37965 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b38796b6-15ce-3dee-af02-cbec09a6a31c | -9.30377 | -65.38322 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0fbad4a0-9bcd-31a3-9a0e-d92f3e7a6422 | -9.29306 | -65.51431 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| acba365c-13e6-34e9-8d6c-6e242bc64391 | -8.54902 | -67.12771 | 2024-10-06 05:36:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c3796512-2517-34e4-966d-f7f574a571ce | -8.54833 | -67.13185 | 2024-10-06 05:36:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2874337c-5638-39b0-8aac-ffe2c0754a55 | -8.54611 | -67.12298 | 2024-10-06 05:36:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 7fcda863-6fcf-3b64-a52b-4fd3ceacb8b4 | -8.54542 | -67.12711 | 2024-10-06 05:36:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 660dce4a-b4e0-34ba-a393-313fab451cb4 | -8.05415 | -65.98453 | 2024-10-06 05:36:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 59e50012-2139-390f-a11d-9d48df20b2c4 | -9.63868 | -51.77845 | 2024-10-06 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5fc0f93c-92e0-32c0-af35-7f6f45df2392 | -9.63798 | -51.78419 | 2024-10-06 05:36:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f0d42a25-f296-34e7-9625-480d82a3e129 | -10.51421 | -50.96034 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 88ebbe28-0695-3e43-bcea-6fc9d6a8f52e | -10.50715 | -50.95956 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 069106fe-50f4-37ef-b182-60a0e6791b3d | -10.45091 | -50.73091 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| d3aeba3f-4be5-331b-b4c0-849fb05c6bf2 | -10.45012 | -50.70711 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 33d04fff-572b-331a-80da-0b833c4d5a14 | -10.44848 | -50.72152 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| fd46ac6a-e908-3697-a790-5cc3426d218b | -10.44766 | -50.72879 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| aa707901-c2f0-337d-b168-f6fccd552f6d | -10.44639 | -50.70824 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 160.7 |
+| bf722837-0ccd-3f7b-ba4e-10235dae7c3b | -10.44553 | -50.71537 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| 5502d199-b74f-3141-9e88-3f39def57a58 | -10.44467 | -50.72252 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| a1d96e65-bac0-3c0e-8891-8bd9b2223327 | -10.44381 | -50.7297 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| f4b58a26-f36b-3e4e-884e-5f18f5f911bf | -10.44296 | -50.70627 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 3a8a0ce0-5f83-31ef-bb3e-624285b6f79d | -10.44215 | -50.71343 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 2c05a6c6-6688-30e0-98c7-caa41ff37722 | -10.44135 | -50.72054 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| d9e5f014-634a-3d02-a3c3-315f5bdbd7a0 | -10.44054 | -50.7277 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| f4b2552c-82e0-3c43-bda0-72ca6c8a02f6 | -10.43923 | -50.70744 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 160.7 |
+| d8d808d7-c6e0-3880-85e8-1ca1e40cb479 | -10.43837 | -50.71458 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| feece6b3-c393-3393-afe2-87a9c5647e13 | -10.43754 | -50.72161 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| 03858f98-2270-3851-a695-a7f85c7872e8 | -10.43669 | -50.72868 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 9a0c6051-b4ef-39f2-96ee-d5004a9bf084 | -10.43581 | -50.70538 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 165.0 |
+| b9374923-5f93-32c0-92d9-9d1acf67a617 | -10.435 | -50.71259 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 165.0 |
+| f181dadd-5766-3777-b4ca-87d3cea67346 | -10.43421 | -50.71965 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 37.3 |
+| 22aba63f-79fd-3eeb-b90c-0d6106a51346 | -10.43341 | -50.72673 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 37.3 |
+| baef6c36-d677-34a6-95f0-45e9d54dcb27 | -10.43208 | -50.70655 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 145.3 |
+| 50f5ce53-33eb-3c26-87d2-355c83525bc3 | -10.43123 | -50.71371 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.2 |
+| c99679c2-c76d-3211-aa34-02ae73df1073 | -10.43039 | -50.72075 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.2 |
+| 0ce65fe3-deac-3590-9d9e-58be5732ff56 | -10.42955 | -50.72781 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 27.3 |
+| 0e51c82c-0a0b-306c-a509-ca5ff8864026 | -10.42867 | -50.70443 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 165.0 |
+| d477997e-b78f-30d7-a64b-0dbbe2a98e8a | -10.42787 | -50.71161 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 165.0 |
+| 7f44725f-1b84-3021-8b9a-288833c85d51 | -10.42707 | -50.7187 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 37.3 |
+| 61054660-2859-3068-b9da-4a76935a8f73 | -10.42628 | -50.72576 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 37.3 |
+| d6d55010-84f9-343a-a8b3-873a2a8b9f7f | -10.42548 | -50.73281 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| 5cb3c9a5-910a-376d-9dee-bacd747b2f4f | -10.42495 | -50.70559 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 145.3 |
+| 77d0246e-3477-384f-bf40-8579caf881b3 | -10.4241 | -50.71271 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.2 |
+| dc7c08d7-99d4-35c4-8548-11a21ae16cae | -10.42327 | -50.71974 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 107.2 |
+| 1ae6ef6a-1408-3d33-b4a0-3e893bac3e6e | -10.42243 | -50.72677 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 27.3 |
+| fdae4ad5-0edd-3e16-b8f5-154db38f7c8a | -10.4216 | -50.7338 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 27.3 |
+| ecb1b613-ac2d-3ef0-a46b-24d9823d7daf | -10.42153 | -50.70346 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 43.2 |
+| 24d11d15-79b2-3f16-8b56-dfe6485b4d4f | -10.42074 | -50.71055 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 43.2 |
+| 7f93b946-4873-31a6-8045-c39fe1d69d48 | -10.41995 | -50.71763 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 69.8 |
+| 6739c5d4-0d9b-3c90-be8c-07642ebea352 | -10.41916 | -50.7247 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 69.8 |
+| f0383375-0ada-3d39-b9ff-1c3e7fe94a72 | -10.41837 | -50.73175 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 17.6 |
+| ae1ba38f-f811-3f27-adc2-6635d2d03285 | -10.4178 | -50.70469 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| fa5acc1e-0a09-36be-94f7-f07a220c3b3f | -10.41697 | -50.71173 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 09c1ff3b-82e3-34cd-988e-8c095728c849 | -10.41614 | -50.71875 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 38451e44-56d4-377b-9217-0614bd109249 | -10.41531 | -50.72578 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 20.0 |
+| a9b7ef74-c284-38f6-b157-f99e572db8dd | -10.45094 | -50.69989 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 42.5 |
+| b718d1a7-9b6b-3f7d-ac70-76b7c16600f1 | -10.44895 | -50.68682 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 092aa8f4-0d8d-327d-a21b-62185753b1f1 | -10.4481 | -50.6939 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 962cb5fc-a606-37a5-94b8-34d4140695a0 | -10.44724 | -50.70108 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 160.7 |
+| 1d155d52-7075-38ef-b01c-981836eb0688 | -10.44617 | -50.67792 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| d20c643c-e146-3a8f-ad7a-0b4f4948de88 | -10.44538 | -50.6849 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| a0fb1763-c904-3fb8-8ffb-8e68c8a16afd | -10.44459 | -50.69191 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 42.5 |
+| 5fc70bb1-0ce9-350e-b8e5-122b175ad657 | -10.44378 | -50.69906 | 2024-10-06 05:36:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 42.5 |
 
 
 [Clique aqui para ver as próximas entradas](README136.md)

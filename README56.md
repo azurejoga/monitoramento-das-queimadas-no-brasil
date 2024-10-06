@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ed9ef785-af68-3cdc-974b-646aa48bbe37 | -1.15967 | -53.78405 | 2024-10-05 04:12:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 036e89f7-a773-3bc7-ae1b-c83106566dec | -1.12346 | -53.6364 | 2024-10-05 04:12:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| df245a81-1499-3399-906b-0a17cf4e7d22 | -1.05868 | -47.93082 | 2024-10-05 04:12:00 | NPP-375D | CASTANHAL | PARÁ | Brasil | 1502400 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 23d57439-f10d-3232-ba91-cfd18a13b5c7 | -1.05801 | -47.93499 | 2024-10-05 04:12:00 | NPP-375D | CASTANHAL | PARÁ | Brasil | 1502400 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 0e1a468a-844d-30f6-926c-e047c5c26d83 | -1.05431 | -47.93014 | 2024-10-05 04:12:00 | NPP-375D | CASTANHAL | PARÁ | Brasil | 1502400 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 58bd5bbf-70b7-3cc7-8302-3c5d46fac7e2 | -1.05364 | -47.93431 | 2024-10-05 04:12:00 | NPP-375D | CASTANHAL | PARÁ | Brasil | 1502400 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 78a6c774-327f-3825-9f21-5e2e7ffdf5b0 | -1.03753 | -48.7019 | 2024-10-05 04:12:00 | NPP-375D | CACHOEIRA DO ARARI | PARÁ | Brasil | 1502004 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| c023135b-1806-39f2-8e48-dfeb3491b3a7 | -0.73538 | -48.04422 | 2024-10-05 04:12:00 | NPP-375D | SÃO CAETANO DE ODIVELAS | PARÁ | Brasil | 1507102 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| d40f368d-b405-39ec-81a3-ca39e93ae4df | -0.73096 | -48.04354 | 2024-10-05 04:12:00 | NPP-375D | SÃO CAETANO DE ODIVELAS | PARÁ | Brasil | 1507102 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d1b2a098-2588-3ee4-b1a5-88dac660a7ff | -0.25426 | -48.77442 | 2024-10-05 04:12:00 | NPP-375D | SOURE | PARÁ | Brasil | 1507904 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 040de798-49f5-38e4-98cc-930e01968460 | -0.2528 | -48.77092 | 2024-10-05 04:12:00 | NPP-375D | SOURE | PARÁ | Brasil | 1507904 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 3a6f007a-02f8-32e3-9ee5-4a5a2564b0ad | -7.09564 | -44.44071 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 453a8407-aae9-3056-8cbf-d51373200248 | -7.09482 | -44.44048 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 9f155a08-e8df-347f-8c3a-e962ba3222cf | -7.05949 | -44.40174 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 9f069bcb-cfc2-3e23-8dc1-a8377f7c75b8 | -7.04315 | -44.41737 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 4ae6ecc6-53cb-3a09-829e-e067f976cdf1 | -7.01511 | -44.39817 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 183d0237-797e-31d3-b82b-86cbd7aeb949 | -7.01453 | -44.40175 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| f8bbf0fa-daef-38b5-9555-449368a66c61 | -7.01173 | -44.39766 | 2024-10-05 04:12:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| d4887bf3-c92b-38c3-8afb-6c2cd3feac2e | -6.98623 | -45.73103 | 2024-10-05 04:12:00 | NPP-375D | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| 8089b94b-2094-3f61-84fd-e95438a47f5a | -6.98559 | -45.73498 | 2024-10-05 04:12:00 | NPP-375D | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0415e8e5-ef7e-3ac0-b601-6f9a196c50cf | -6.88336 | -46.14055 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f105debd-806b-3624-a979-dbe8bd7db88a | -6.88268 | -46.14469 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f5dedb25-88e2-3b4b-acc2-61ff64314e70 | -6.88042 | -46.13586 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 805ebab8-5f13-3d8c-93a7-ec8a16c60445 | -6.87975 | -46.14 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b2de0894-4d53-38bd-af29-2bf207cf835c | -6.87907 | -46.14415 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f2c1e899-777a-3d0f-834d-5faac476f19c | -6.76158 | -46.29313 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ff762a83-1f88-38f2-aee9-78e3904c144f | -6.76089 | -46.29733 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 557ac115-7427-3e39-a221-dbbaf9bac853 | -6.76021 | -46.30154 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f70d284f-5768-3f6b-a6fc-9ceb7636b65f | -6.75726 | -46.29675 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d6ef9c3f-1e88-3613-8a87-bcd9c0f5fecb | -6.75657 | -46.30097 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 96ad053c-3607-3471-af0d-54203a27fbab | -6.75362 | -46.29617 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 48f8c5ba-14d3-3dad-bc17-658525ebd83b | -6.75293 | -46.30039 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ede50416-7948-38bc-bb60-cbb2e01597b3 | -6.74929 | -46.2998 | 2024-10-05 04:12:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 02e39e21-94f8-301d-a9bf-d7b3b9c69b0d | -6.7124 | -46.06394 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| d9934851-b03b-352e-a775-3740660977ff | -6.71174 | -46.06806 | 2024-10-05 04:12:00 | NPP-375D | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 35e1eed0-c894-311b-8cb1-84d6669c9886 | -6.71166 | -47.2349 | 2024-10-05 04:12:00 | NPP-375D | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6fababb6-e792-3b0a-9d0f-5145fd712e61 | -6.71008 | -44.53142 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d0e6d18c-67d8-31c5-be43-1aa6cac381c4 | -6.7095 | -44.53508 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| af602be6-c564-3e69-b7ea-037bee19794a | -6.68249 | -44.83478 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| eff6e5a1-0c3e-3b10-8dce-b78e7fbb31a0 | -6.67455 | -44.51463 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| cda85384-8b3f-370a-9251-4761262ec743 | -6.67116 | -44.51411 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f157ed4c-cdcd-332b-b2c1-4cd709414533 | -6.67057 | -44.51775 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b0bbbe44-b28d-3689-a359-cb85cc873551 | -6.66718 | -44.51724 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 2189b22b-867c-3e05-8702-6ac751ce918a | -6.66387 | -44.05778 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e95d80ca-3af4-3ec1-9b54-b7385ef3c5f2 | -6.66039 | -44.51621 | 2024-10-05 04:12:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| b33cf093-5638-3da4-9fb8-00554589e8bf | -6.62442 | -45.33078 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| cabe0406-fb2d-3bf7-856a-286965412bd9 | -6.6238 | -45.33463 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| b0b811ca-2156-3e34-99fd-76d5b3b860fa | -6.58079 | -44.17912 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 5913d068-9119-3482-8cf5-36816b14f6f3 | -6.57743 | -44.17855 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0be761dc-e384-3926-b2c1-e6263f0f0c8f | -6.57463 | -44.17445 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| fd19190f-8671-38f0-8b8e-c37588a6598b | -6.5723 | -44.2326 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| e39d32df-97e7-3fda-9e16-b1f4cdab7bee | -6.57173 | -44.23619 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 26d5f93f-0888-35da-98be-e20af57f75cb | -6.56836 | -44.23566 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| c244fe34-4f6f-3d25-abd9-2e2d779fd532 | -6.56749 | -44.61636 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 6c9ec995-0bec-34da-9053-bd96e933dbce | -6.50295 | -44.14846 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| cd424a6a-6624-3e9e-b38f-fe1bffbce717 | -6.43361 | -44.03585 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 268c3ad9-99b8-38c2-925b-4bb864cfd392 | -6.42068 | -44.07365 | 2024-10-05 04:12:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 1f477837-8dc9-3b9a-97f2-852989b2a8c1 | -6.34586 | -45.69655 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 323aa51b-a993-3e45-bd4f-d7a1f5446620 | -6.34521 | -45.70065 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| c7950060-e1ab-3c56-90d2-10942a7a8b9f | -6.34231 | -45.69604 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| e7f50016-83f5-3efd-b9d4-0be441417e70 | -6.33875 | -45.69553 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 1da07b17-1439-3ce5-9667-69e817956dc0 | -6.33809 | -45.69968 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d23a4700-537d-3534-98cc-e2ff8e6e6f79 | -6.33583 | -45.69104 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 4c6b678a-ce95-37b0-836b-573ac573ec97 | -6.33453 | -45.69921 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| fc0c736f-03f4-38a0-98cf-c9d8c25dcfdb | -6.33227 | -45.69061 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 05229167-c430-397e-bff3-a675fc4fe62f | -6.3287 | -45.69016 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| a0a8ef68-4ac1-3f3b-85dc-695ea25b60e3 | -6.31462 | -44.77633 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 972cbc1f-cba2-3d56-a2da-765ce394cf48 | -6.29884 | -45.87549 | 2024-10-05 04:12:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a3533db6-bea5-33e9-8c5d-83d34d5b47be | -6.20988 | -44.31924 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| a1f95c96-e53d-37b3-a5cc-ec4fc049123c | -6.2093 | -44.32286 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 1b52b57e-fcdb-34cf-9a9f-e2ae16d0446f | -6.18403 | -44.13496 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| d317a35b-6c7e-3814-95cb-35e5285bfd4a | -6.18345 | -44.13854 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| cebb22cf-4200-32d6-8d46-31dfafd54eed | -6.18226 | -45.43653 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| caf0385c-c416-30f7-96e1-d7dee5333093 | -6.17939 | -45.43209 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 77801ba5-cc1b-3e54-9fd1-2345e2470311 | -6.17894 | -45.4328 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| f434d7a5-2422-3861-8c10-4a809e2bd92b | -6.17875 | -45.43596 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 56825150-84fb-3534-bf84-2ba78690cb4d | -6.17832 | -45.43668 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 30fc4764-dbf2-3e4c-ab08-e2a203bf3a48 | -6.1777 | -45.44059 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| 8365d801-cd83-3855-9a45-60e5fae0ec71 | -6.17524 | -45.43542 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 96e0178d-2299-3953-beba-c4eacee6e778 | -6.17481 | -45.43614 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| deeb22b3-d9e9-367f-8810-0ea3e4d8deb1 | -6.17459 | -45.43932 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 33.0 |
-| bc5e2da3-d248-34f3-aceb-91ec83fc90e2 | -6.17418 | -45.44006 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| 5bb4e78b-eb29-36c0-ad84-eb0a175ba661 | -6.17116 | -44.12912 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| f5ce19d3-b47e-3e6f-8512-dec0dc65a804 | -6.17066 | -45.43952 | 2024-10-05 04:12:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 4b3b52e1-ce14-3ef9-8ab9-a0fb2db5d877 | -6.17058 | -44.13273 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 30a5dff2-1c7b-3dab-863f-66f4ad9e0d94 | -6.16983 | -44.12849 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 7b4ac775-1363-346f-9343-c8905ac2dc16 | -6.16926 | -44.1321 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 647c6f34-0428-335a-86d7-c371abe23cfa | -6.16869 | -44.13571 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| d590e2ec-3f2d-35cb-96ac-1c2e84433147 | -6.16533 | -44.13515 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 0fd2b51c-f01f-36e3-8ff8-0f5f1a66db45 | -6.16362 | -44.14599 | 2024-10-05 04:12:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| d2cfaca0-959b-3b38-bead-044b9c883d62 | -6.08605 | -44.69916 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a26305b7-de62-3568-910c-6820a095df74 | -6.08545 | -44.70287 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ff8e27c5-0ba6-35ca-9bdb-a62e475c96f3 | -6.08263 | -44.69863 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3c991b2c-1cf1-38f9-87f1-cbed1a18d41e | -6.08202 | -44.70233 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 033c1724-c17b-3b5f-9188-a593c40c22d8 | -6.07898 | -44.70167 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 47404819-8a51-30d5-9219-dd298c19e631 | -6.0786 | -44.70179 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 0167f485-df82-32fc-ba0d-3f5fbe7f130d | -6.0784 | -44.70538 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f96a93c5-cceb-3ba0-8620-12ba88045909 | -6.078 | -44.7055 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| a95fb71a-536c-38bb-9a26-cc0c3f402a89 | -6.07556 | -44.70114 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| bd0b5f21-7004-3e32-93f3-a03dec097812 | -6.07214 | -44.7006 | 2024-10-05 04:12:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 0c7065ab-b74d-314a-b23c-07402514616c | -13.67885 | -51.1946 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| afd0cdc4-db87-3c0c-9b7c-cd217565346d | -13.67549 | -51.18605 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| eba3d021-b57b-301b-b685-9dbe5c0a7c3a | -13.67454 | -51.1906 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 64d323eb-c00e-3856-9d8d-9bfade559b04 | -13.6738 | -51.18872 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 4fcd0e47-b8d3-3306-8804-85e90f68c3a0 | -13.67288 | -51.19328 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 2c0ba79e-c688-3209-b137-1e64af9d024c | -13.66856 | -51.18929 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 983ebb34-2e97-30fd-af95-9427fec5fa09 | -13.66782 | -51.18739 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 611f6cb4-bf71-3271-9e0d-cc3642779306 | -13.66761 | -51.19384 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 4fbbbf9a-a331-398f-bea7-3f4603752e16 | -13.6669 | -51.19194 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 57d062fb-92f3-3b5a-9fb8-5139064c80ea | -13.66259 | -51.18797 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| a942bb27-9da0-339d-81fc-81d868d47f4a | -13.66184 | -51.18605 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| d551b90b-7411-312a-af9c-308b134dcce9 | -13.66163 | -51.19252 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 097a45a5-5862-3604-a561-45c10c5d5f1f | -13.66092 | -51.1906 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 6dd8938f-1e98-36f5-a209-01e02c02e4f9 | -16.06998 | -50.44885 | 2024-10-06 03:55:00 | NPP-375D | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 4415630c-db7a-310a-8396-0db2d54e10ca | -9.38189 | -51.07323 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 3e5796e6-c02b-3a02-93a7-ea3e5bd986a1 | -9.38085 | -51.07866 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| cfe59926-e1c3-386e-8b1a-ab8807300d0c | -9.37878 | -51.08938 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| d2c4157e-2383-3a61-8b8d-23d54fa0c817 | -9.37775 | -51.09471 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 6faa4613-13ac-36f0-9fd2-423d64278d34 | -9.37135 | -51.09337 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| b2c7e890-d3f0-3400-9826-d1b96143feb2 | -9.36805 | -51.07602 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b0492bfa-e69e-3294-a4eb-ddcd0f9e81c5 | -9.36701 | -51.08142 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 7e9b99a1-6fd4-30f2-811d-cbe5b46df543 | -9.3606 | -51.08016 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| beb12ad1-7057-3408-a76f-388b69a63680 | -10.51548 | -50.96168 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 306a2563-3c99-3597-8005-4059e642ab26 | -10.50926 | -50.96032 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 6f338640-a637-3564-ba36-7a43f9dc423e | -10.43785 | -50.75037 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 5a03dc8d-5432-3e34-8944-dca47232aae4 | -10.4335 | -50.74785 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 6fad2779-8cd8-31f6-b4b6-fba759324e0e | -10.43257 | -50.75266 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| cd88d656-3de9-36aa-b5bd-5c1fc4ff6b8e | -10.43165 | -50.74929 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| f60091e1-a29e-3e75-b0e8-f59bed6b1380 | -10.43068 | -50.75411 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 75314810-5442-364a-b0df-68d6c949993c | -10.4273 | -50.74674 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| abd7c528-5f8f-3de7-8234-4ad4100d96ba | -10.42637 | -50.75156 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 7eb6fedb-0993-3de8-8f09-0efa6e601bc5 | -10.42545 | -50.74821 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 6bca5c3c-12d2-3116-8b2a-c991a804680d | -10.42543 | -50.75641 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 21650cc8-7028-33a1-8a2b-b72163573856 | -10.42449 | -50.76128 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 7b56b0f9-38f8-35e4-b98c-55002c9dd454 | -10.42448 | -50.75303 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 968b2dbb-eb19-3f92-8387-a25e1ae7acc3 | -10.42351 | -50.75788 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| b32fe099-c97f-35ef-83b9-e4b8a33fa68c | -10.42018 | -50.75044 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 508695ab-5084-3a63-8994-e642c964684a | -10.41926 | -50.74708 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 8f232e2d-abd5-35e4-b322-ce127c81d367 | -10.41924 | -50.75528 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 0b613da5-d5d1-313c-b231-be536b9ae4bb | -10.4183 | -50.76011 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 1163494f-6665-3305-bdad-982a331f0eee | -10.41829 | -50.75191 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 2ab70730-3936-3f61-b0b2-de866d507893 | -10.41737 | -50.76495 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| bb4d68a3-cf8d-3459-93b7-f4591a082e5c | -10.41731 | -50.75675 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| e71664c3-a9ce-3149-986a-f00cabb41ad4 | -10.41635 | -50.76156 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 72159848-48e1-3ffd-b8c3-4f50b929e352 | -10.41538 | -50.76638 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| cadca198-bbbe-3f5d-90d5-379864a71d87 | -10.41399 | -50.74926 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 93b18b78-b7c0-3d6c-939b-06c75b323160 | -10.41305 | -50.75409 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 477fe8b2-0cff-3713-8af7-3c3f07d5ad07 | -10.41212 | -50.75888 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 6efc22ec-8f57-3b10-bf57-67f5a57f6273 | -10.4112 | -50.76366 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 1b49e907-3d72-3346-896c-7ea5f3c72161 | -10.41027 | -50.76844 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| ed325436-3a3a-3f4d-9694-c597c56fafcd | -10.40934 | -50.77324 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 006a94ce-867f-3074-be46-0857b5fdd8e5 | -10.4084 | -50.77807 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 4d44827b-a7f3-30fc-9068-4c841ff557c2 | -10.40794 | -50.81363 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| ef37622b-5e31-3b9e-9b03-8a5ecd48c79b | -10.407 | -50.81845 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 9c220ea2-4a68-36c5-a488-3d5864cf04c7 | -10.40598 | -50.75749 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| ec40b603-e805-38df-8486-32da14793f02 | -10.40561 | -50.81495 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f96c44a7-a885-3c6a-a6f5-a80496064c74 | -10.40505 | -50.76227 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 1bb0e9ac-70af-3e1d-abc3-eaa40cbfc705 | -10.40463 | -50.81981 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 7e02a9f0-8858-3507-bfff-47da346fd1a9 | -10.40412 | -50.76705 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 5ab28a16-418e-357c-b84b-c72e18f1cb71 | -10.40318 | -50.77188 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 5bc4468d-e09a-37ea-998c-e5c397ac83b7 | -10.40266 | -50.80765 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 43aa86f8-64fd-34b7-a620-3e318e1405e1 | -10.40221 | -50.77683 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| bbe287b2-9252-3acd-9ed7-e081b25d3829 | -10.40124 | -50.78182 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 9bec9183-4dc0-3775-bbe1-edff014e1032 | -10.40028 | -50.78678 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 539423eb-0ee2-39fc-ac96-6553e49120d5 | -10.45253 | -50.70888 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| fd8f7161-7b5b-3a22-9ffe-0365d42533fb | -10.45159 | -50.71359 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| a5d9d9cb-db09-3231-a546-f41727172d46 | -10.45136 | -50.72159 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 381efabb-17ee-3338-90f4-f45f33313eff | -10.45066 | -50.71829 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| a922f935-219a-3c43-b50c-0751af285223 | -10.45046 | -50.72627 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| aa891c16-52ca-3595-8a29-7ecc90e028ba | -10.44975 | -50.6967 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 5eab1fa9-d7a9-3c26-9176-1272f8e79dcc | -10.44972 | -50.72299 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| e8eea8bf-9cab-335c-b8d2-33a3a419ada7 | -10.44956 | -50.73097 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| f0cd085a-5ee3-3118-bbbd-32ea0ece92be | -10.44921 | -50.69345 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 07aab7f0-2a7a-38f3-ab69-b5238e7a08ec | -10.44884 | -50.70142 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 329df36a-4872-36d8-a347-b869a0dd8d9e | -10.44879 | -50.72768 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| a1e69100-6699-37b0-852c-cbf70d1eb8ea | -10.44827 | -50.69817 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 35.3 |
+| b16ddb4e-8710-3b41-9e4c-9109a2479196 | -10.44793 | -50.70615 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 35dad0e6-ed97-3ab6-a28c-2c031f2f64a6 | -10.44785 | -50.7324 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 96684428-02bf-3720-915c-cc91159710a3 | -10.44733 | -50.70287 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 35.3 |
+| 96e06605-fd31-3610-a6e2-84637995023a | -10.44701 | -50.71091 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 1ca73578-fb51-354a-b3ea-32d46d2cb5da | -10.4469 | -50.73715 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| e41c0b54-67db-3b63-9f0a-3a711ebf4253 | -10.44639 | -50.70761 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 180.8 |
+| 5f73d321-0daa-3a04-989f-bf3d949fe61f | -10.4461 | -50.71567 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 41e32a27-8a4b-30dc-bf7b-1345f08fdf24 | -10.44544 | -50.71235 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 180.8 |
+| aa39f7b0-6ae4-3b52-af9d-372c5d8d43cf | -10.44519 | -50.72042 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| e3a2a6e9-49d8-3df3-958f-d8eb2bbf61fa | -10.445 | -50.68252 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| eca363e0-2db9-3f3b-ac75-031d79b53344 | -10.44453 | -50.6906 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 6b20865f-6d60-34b4-a70d-77cdef4abc75 | -10.44449 | -50.71709 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 50.4 |
+| 0e7a5e3d-939e-3e4f-b15b-2508430da900 | -10.44427 | -50.72517 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 116d7028-16b5-3758-ad07-e5dab815e621 | -10.44404 | -50.68734 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| cf5939b5-f197-3268-863e-dc42f123c6e7 | -10.44361 | -50.69539 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| e03eeaf7-8ba7-342c-9744-7d45323b73f2 | -10.44355 | -50.72184 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 50.4 |
+| 609599d0-d819-3484-8214-85a29fbe0e63 | -10.44336 | -50.7299 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| c60e4ee3-d8a7-3e57-9b2a-aca58d7294dd | -10.44308 | -50.69214 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 23ed105b-337e-32b2-9241-37a52e87d777 | -10.4427 | -50.70013 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 207.7 |
+| a99fd480-059c-3a0c-9741-c81c49e31415 | -10.4426 | -50.72657 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 0ce17312-9947-3e85-b9a7-492746847e2b | -10.44244 | -50.73467 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| df7cfd53-dc3d-3d29-bdd8-b15a6ef9fcad | -10.44213 | -50.69691 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 35.3 |
+| f97d00e2-89c5-348e-a654-10257d9d365f | -10.44179 | -50.70485 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 207.7 |
+| 4f3f5e1e-6c70-3f66-aca0-53d0a2ae6fdd | -10.44165 | -50.73133 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
 
 
 [Clique aqui para ver as próximas entradas](README57.md)
