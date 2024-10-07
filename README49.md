@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 318d4645-6a69-3c1c-b554-68afde3aa605 | -7.74319 | -43.04817 | 2024-10-06 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
-| a0af8302-f7d8-3da6-bd4c-08fbe7643bf6 | -7.74272 | -43.0502 | 2024-10-06 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| f5189ea0-0eef-30c7-84ee-fcbb88f940a2 | -7.73881 | -43.04955 | 2024-10-06 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| fa58e86d-2c4b-3340-8cd8-4c2df2bb52d2 | -7.73846 | -43.05248 | 2024-10-06 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
-| aaba2ce3-a276-3ae4-9d86-8b4b13efbb93 | -7.73796 | -43.05452 | 2024-10-06 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| c03bffd0-6fb5-3cb3-ae0b-7c1d6e34d8d4 | -9.24339 | -43.5153 | 2024-10-06 03:53:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| ed752eb0-170f-30b9-9623-56626e23ff96 | -9.24253 | -43.5204 | 2024-10-06 03:53:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| d5fc3256-5716-38f0-9515-e9e2f8fc7172 | -9.23943 | -43.51479 | 2024-10-06 03:53:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| c702c70b-a02c-349c-98c0-2a2b34eb2088 | -8.29589 | -42.83065 | 2024-10-06 03:53:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| eef4d2bb-eb4a-3f49-a826-6e62cf4b5000 | -8.19488 | -43.71157 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 0c5449ff-a239-33ce-b684-cc81e8b337df | -8.19182 | -43.72937 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| b0e4c005-f38b-3c37-b22e-d2e6b7e70fe8 | -8.19121 | -43.73298 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 82890c6c-9406-3c1a-b2ee-e2d9a0029194 | -8.18839 | -43.72506 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| fdf24637-8183-3b08-90fe-a83e8a50a348 | -8.18435 | -43.72436 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| cd58632b-5871-3192-805b-8a8e8daa91b8 | -8.18092 | -43.72007 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 396804a5-f853-3ff9-a5b4-76e47ff956c3 | -8.1803 | -43.72366 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| b90f8c23-4c52-3151-9473-884709da7444 | -8.11575 | -43.78794 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 1fef107c-db72-34b0-86c7-472f08120595 | -8.11512 | -43.79166 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 12666e8b-ecf4-3310-bc1a-e1b4c5df2da5 | -8.11105 | -43.79096 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 710a149a-d130-30ce-898c-90dc1aff868e | -8.10697 | -43.79027 | 2024-10-06 03:53:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 7613ecc3-c7b9-377c-a78f-901c429ceccb | -10.1627 | -42.89907 | 2024-10-06 03:53:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| fcaca295-bacb-3b5e-8321-dd0aeacdc7f6 | -9.95078 | -44.10062 | 2024-10-06 03:53:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 3f3fd351-43dc-391d-8f6f-48fd3213c386 | -9.94674 | -44.09991 | 2024-10-06 03:53:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 990fca0c-dda2-3867-8e9e-508b1c8fdc5f | -10.24848 | -43.58993 | 2024-10-06 03:53:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 875063be-0f0a-3448-b39e-d19c87ffe894 | -10.24781 | -43.59195 | 2024-10-06 03:53:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 922e067c-682d-371f-84a3-76d0cbd022ee | -4.13496 | -43.80972 | 2024-10-06 03:53:00 | NPP-375D | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 9d5c1863-7743-3856-86f3-7354c3b28c6d | -4.13131 | -43.80478 | 2024-10-06 03:53:00 | NPP-375D | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 6240c3cc-27f3-3058-bfa7-e169401764db | -4.13063 | -43.80894 | 2024-10-06 03:53:00 | NPP-375D | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 43119f6b-fed2-33af-9c7d-a4e34e1f18bf | -4.12995 | -43.81311 | 2024-10-06 03:53:00 | NPP-375D | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 9c6ad4a9-4aa3-3689-b1c2-73285400d1f1 | -4.81888 | -44.35519 | 2024-10-06 03:53:00 | NPP-375D | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 9d724c17-27cf-3f8e-9650-de8b45b42d03 | -5.89694 | -44.66997 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ef20d32a-3cb4-33ab-bb81-f4aa6e165ed7 | -5.82467 | -44.13437 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 32bda965-757b-375d-9c08-4a0d6c4a4d5a | -5.82258 | -44.12938 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 6e96f7de-53da-362b-a05a-abaaad08a00b | -5.82188 | -44.13346 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| f484be85-aae7-36a9-8326-45caa5be7ccc | -5.82102 | -44.12952 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| c44b4b73-a3fb-36e7-9a43-5d99f42535b2 | -5.82035 | -44.13362 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 865c2f53-a8ef-3019-8eba-ed59631d68b6 | -5.81968 | -44.13773 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 9916c6ad-07fb-3400-a4f4-0555cbb0aa31 | -5.81826 | -44.12866 | 2024-10-06 03:53:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 6deb0eaf-420c-34be-8c71-bb9ef28c5846 | -5.81756 | -44.13275 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 43111b77-b7ed-3c00-96b7-9ccbba040d96 | -5.81685 | -44.13686 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 17.6 |
-| 9e1a7310-a799-37a9-942e-a5beaa4bd0a3 | -5.8167 | -44.12881 | 2024-10-06 03:53:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| e2e69f08-a451-368c-8130-3e8a1d7110e1 | -5.81602 | -44.13291 | 2024-10-06 03:53:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 3b14ae05-943d-3ef9-8660-3684a83dc4db | -5.81534 | -44.13705 | 2024-10-06 03:53:00 | NPP-375D | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 228a813b-ad39-3efc-9eb9-4a53634400cf | -5.58123 | -44.87567 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 83f97e28-fa30-361b-94a2-b72c314e4ce4 | -5.58049 | -44.87743 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 5a33c3f1-cb40-330a-8b6d-141a223d61a6 | -5.58046 | -44.88035 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 18.2 |
-| 5bb15256-68db-3851-8e50-2596c0592805 | -5.57968 | -44.88508 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 18.2 |
-| bd4e89bf-bdff-35e4-ad30-698b3fa19c85 | -5.57968 | -44.88212 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 774e0e2a-f3ae-31ae-94b2-c9b7199cf101 | -5.57667 | -44.87488 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 17a466f4-32eb-382c-b8f5-a1366b4bc5cc | -5.57589 | -44.87956 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 18.2 |
-| f4f76e93-a93b-358e-9ff5-57d74f8722c3 | -5.57511 | -44.88427 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 18.2 |
-| 153e463e-8692-38e4-b724-bcbc4e4e5fba | -5.5721 | -44.87416 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| b901535d-b112-3b23-8e7b-37e594e4da84 | -5.57133 | -44.87879 | 2024-10-06 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 88ac257c-47b8-35c5-a1de-c49c35204813 | -7.24539 | -44.93737 | 2024-10-06 03:53:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 95cb2a74-b0aa-3aa0-8cb6-ed5e546f85af | -7.06785 | -44.4023 | 2024-10-06 03:53:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 811275d3-1aa4-3850-8fb3-a219a09eaaee | -7.06592 | -44.40325 | 2024-10-06 03:53:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 130074df-36fa-3a3c-b552-43a715dfbb76 | -6.73262 | -44.56723 | 2024-10-06 03:53:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| af38dfb1-070a-394d-ad79-3e70cb4d5177 | -6.73189 | -44.57146 | 2024-10-06 03:53:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 043ce1aa-076c-3b17-8c66-bb536437776c | -10.05214 | -45.28388 | 2024-10-06 03:53:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 7103aa5a-e952-3daa-a329-96b52d225369 | -10.05159 | -45.28595 | 2024-10-06 03:53:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 11.6 |
-| 5b162a5b-6dad-30d2-8b45-6ecf0f698965 | -10.05134 | -45.28831 | 2024-10-06 03:53:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| a7e6fa4d-e2b4-3754-af42-a86dd8be1059 | -5.05075 | -45.12982 | 2024-10-06 03:53:00 | NPP-375D | SÃO RAIMUNDO DO DOCA BEZERRA | MARANHÃO | Brasil | 2111631 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 9c9ba0d0-6d82-33a5-9423-23e9f870651c | -5.04462 | -45.19454 | 2024-10-06 03:53:00 | NPP-375D | SÃO RAIMUNDO DO DOCA BEZERRA | MARANHÃO | Brasil | 2111631 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e80270c5-cca8-3276-ac60-21f00130ed49 | -4.9522 | -45.51297 | 2024-10-06 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b3f965a0-6194-3498-beca-be37e842eb02 | -4.86898 | -45.77312 | 2024-10-06 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4dc50c60-2337-3896-a9a7-128e230e8a27 | -4.86177 | -45.84642 | 2024-10-06 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1647af06-9745-398f-8202-563fce6128f3 | -4.83115 | -45.81726 | 2024-10-06 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 83af6e0a-5191-3a83-a525-60aefe6a2f2d | -4.57842 | -46.06942 | 2024-10-06 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 90ad7586-01ec-3e26-9fdf-1edc178d5d7c | -4.57796 | -46.07217 | 2024-10-06 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1b8eaf91-5d5f-355c-88c0-acf25e5a6fe3 | -4.13295 | -46.10129 | 2024-10-06 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2c4ae422-5831-3f44-8cd2-c67204aae4e2 | -4.12789 | -46.10027 | 2024-10-06 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| feecec6a-0e3e-3e22-8282-cc6db1785ed6 | -6.41102 | -45.82633 | 2024-10-06 03:53:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 92a38817-f62b-307b-ab69-cbc26174e8fe | -6.41067 | -45.82271 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| d5d8b14d-af9f-3f36-a0c0-9c5c3ad43558 | -6.40976 | -45.82788 | 2024-10-06 03:53:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| be821247-4dd3-3f76-ab49-d2598a509a15 | -6.35219 | -45.70866 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 25f23c35-fadc-3019-ba49-f6aee55ed293 | -6.34734 | -45.70832 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 1ed7e5f0-fe52-34fc-a0b7-a6faca3a3609 | -6.34637 | -45.71394 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 053291da-dbcc-30e9-9d97-9f76e5804fab | -6.3425 | -45.70789 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| d5e838a3-ce9b-3768-a6b5-05e039d2ed5d | -6.34154 | -45.71343 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 4c61aca6-bbe5-3628-a76d-8e971e5153d6 | -6.33767 | -45.70741 | 2024-10-06 03:53:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 24d1e320-01f3-37a0-9543-403ca5742884 | -5.18214 | -45.24624 | 2024-10-06 03:53:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 10817bf9-cb5e-31ce-9597-51060271e139 | -5.72841 | -46.47521 | 2024-10-06 03:53:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 8087a34a-f1e7-32c9-b0ff-61e3dd0922e9 | -7.7568 | -46.14391 | 2024-10-06 03:53:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d2f7528c-3989-3cde-aea2-b27faa5a26e4 | -7.75625 | -46.13976 | 2024-10-06 03:53:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f2ca847e-c31e-3da8-9cf0-4af84f74cbb3 | -7.75535 | -46.14477 | 2024-10-06 03:53:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 717cf6e1-86ab-36aa-ba48-21d965809b84 | -7.46635 | -46.06314 | 2024-10-06 03:53:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 58a4d5ee-07f2-338b-9330-1151de74bf8b | -7.46544 | -46.06828 | 2024-10-06 03:53:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 7acd9961-af4c-3ba4-8870-07f4787a5d1e | -7.34301 | -45.51041 | 2024-10-06 03:53:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 3284e642-ebcc-3e3e-bb87-646b6ce653b5 | -7.34133 | -45.52002 | 2024-10-06 03:53:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 346ab31d-e297-320c-9e1a-c507189c864f | -7.07461 | -46.59558 | 2024-10-06 03:53:00 | NPP-375D | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ffca63b9-3a3b-3bee-81e3-02547afe3221 | -6.99969 | -45.38558 | 2024-10-06 03:53:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 05b1e391-a307-3537-b956-0d6f680fcc32 | -6.75511 | -45.64662 | 2024-10-06 03:53:00 | NPP-375D | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 1dd71c86-fd5e-3e1c-ba17-f372a85797ae | -6.75473 | -45.6451 | 2024-10-06 03:53:00 | NPP-375D | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 2899e99b-449b-3e02-898c-c53ce6871e43 | -6.7504 | -45.64576 | 2024-10-06 03:53:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 4a48e2f1-f94f-3817-ab74-c37ab1db3ed8 | -9.34604 | -46.5473 | 2024-10-06 03:53:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 487cdc9e-877f-3fa6-a75e-14c8a6c165c3 | -9.3451 | -46.55258 | 2024-10-06 03:53:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 0b31a6f2-d953-3b02-9b9e-002c199ecba0 | -9.34416 | -46.55782 | 2024-10-06 03:53:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 8f2f0efa-8229-3afa-8b46-03bf03241d14 | -9.34314 | -46.53591 | 2024-10-06 03:53:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 18b4e78d-1b6f-30cf-a3ab-13566795966e | -9.34221 | -46.54108 | 2024-10-06 03:53:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 8fb86fe5-f4d7-31d1-94c9-2d6e9428cc45 | -9.34127 | -46.54631 | 2024-10-06 03:53:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| e490166a-7292-30bd-b5cd-d5373ae8a6d8 | -20.50768 | -48.12767 | 2024-10-07 03:40:00 | NPP-375D | MORRO AGUDO | SÃO PAULO | Brasil | 3531902 | 35 | 33 | nan | nan | nan | Cerrado | 20.2 |
+| 11ddfed8-1653-3c66-bb78-dce674cacdc9 | -20.50669 | -48.13203 | 2024-10-07 03:40:00 | NPP-375D | MORRO AGUDO | SÃO PAULO | Brasil | 3531902 | 35 | 33 | nan | nan | nan | Cerrado | 20.2 |
+| 4c7eaf02-0612-3f89-af1d-853ed12d4be1 | -20.47432 | -47.66163 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| f78f0c6c-522a-30fb-ab84-f0883702581a | -20.47334 | -47.66598 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 7279dd3f-b08f-36dd-b45f-b5554d3c3631 | -20.47237 | -47.6703 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| b8e174e2-1110-3c4d-a13c-e09fca3fa486 | -20.4714 | -47.67462 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| fe0f4ba6-7d21-3fce-b568-7dbda1b5f173 | -20.46964 | -47.65591 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 783a105a-b3b5-36a4-9240-bbd509f5194c | -20.46868 | -47.66015 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 7b0613b0-d55e-3bc5-9320-af4c3b68b61b | -20.46773 | -47.66437 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 5ebab580-1ad0-3834-ac29-c87b2447a46f | -20.46678 | -47.66858 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 7cabb745-dda6-3179-bbe2-f9aeb272a9e1 | -20.46582 | -47.67284 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 511b8ee5-6a9a-35ba-95b3-e2559fc3432b | -20.46485 | -47.67714 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| edd39aa1-6c3d-3f36-b402-39171ff7b4bc | -20.46404 | -47.65422 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| ef959123-e4b8-3380-b803-35415fdd2ce8 | -20.46389 | -47.68139 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 20eae0c0-ecca-3d59-8ba5-02b157245931 | -20.46119 | -47.66684 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| dd409ffd-4824-3af2-8030-91c765a067bf | -20.46022 | -47.67113 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 11d302cc-1f2e-32ba-8c55-36ec7fca6b54 | -20.45924 | -47.67549 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| b0228887-236e-30d4-b636-3884b9938163 | -20.45826 | -47.6798 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 6e29b3e0-0793-32d1-b9db-521fcf664d10 | -20.45732 | -47.68397 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| ba924a9c-8c1a-3608-b257-cd5b79e4ae33 | -20.45545 | -47.69223 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| f725132c-48fb-3e82-a266-337f681e7d66 | -20.45451 | -47.69641 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 41.4 |
+| 9681f74f-dba1-3ed8-bca4-5a55573073f4 | -20.45357 | -47.70058 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 41.4 |
+| 78fd0d00-21f0-37f3-b9d8-4a02d020e9e3 | -20.45357 | -47.67405 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 0002112e-10aa-3d90-801f-9333afcd39c8 | -20.45262 | -47.70476 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| 3a0f0378-d570-391c-a266-715e34f91bb1 | -20.45259 | -47.67838 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 7e5bfd15-0e52-3e0e-b4bd-3d6344de2d6c | -20.45167 | -47.70898 | 2024-10-07 03:40:00 | NPP-375D | GUARÁ | SÃO PAULO | Brasil | 3517703 | 35 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| e2ada494-d4cb-3a18-b55a-0f97be53aea8 | -20.45164 | -47.68258 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 2bb60f72-1a95-337d-bb58-ace758c10fd5 | -20.4507 | -47.68674 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 3000ddc4-e12a-39be-bf56-df485507117b | -20.44974 | -47.69097 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 10568330-53f1-31ad-bfb0-e6bc9b2421ee | -20.44878 | -47.69523 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 41.4 |
+| 75bbce15-0291-330f-8196-6a8ca6e9961c | -20.44784 | -47.69936 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 41.4 |
+| d21cf1b9-c9f5-3abd-a0c0-f776a722f708 | -20.44692 | -47.70343 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| 72a56feb-e708-3681-bcb8-f6cbeee124c0 | -20.44598 | -47.70757 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| 16683a61-1159-3f66-9f45-ff2ba4e8c94e | -20.44503 | -47.71176 | 2024-10-07 03:40:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 87c464bf-c520-3fad-b3ad-d7b21404f94e | -21.59716 | -47.71001 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 131adec1-3829-339a-af9e-cca3af9aa056 | -21.59708 | -47.95503 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 3f2a18ca-16f5-33c3-bdfa-0d2913a6c99f | -21.59354 | -47.93875 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f7292ebd-31a8-3d7a-a058-8424764a46ec | -21.59172 | -47.73436 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 25.6 |
+| 34068b40-1d92-349d-a661-3b7f4565fdb3 | -21.5908 | -47.95113 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| b4f144ca-d397-3cae-a1a8-6ed22bc9674c | -21.58957 | -47.96179 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 432e6815-f249-36d5-8aa7-148fded46907 | -21.58897 | -47.95938 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| b0248fbb-72ab-3daf-9c56-5d56c5496a27 | -21.58529 | -47.73687 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.3 |
+| 08b33ff9-e73c-3458-98db-21728b45d8f6 | -21.58077 | -47.73077 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 203f2d79-1e04-3b1a-a872-2545e00904c6 | -21.57837 | -47.93268 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 13ce535d-31e8-3bb8-b2fd-54fa5f6e1c7a | -21.57689 | -47.74809 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 3712911c-0e45-3788-a273-fb44d493bdde | -21.57179 | -47.7184 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| de78d309-e8df-39cb-adf8-01e1102ad57c | -21.57132 | -47.74672 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 1f3f72f9-8021-3004-8a55-a82c7b4d5173 | -21.57086 | -47.72255 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 62e89920-72fa-3a56-9760-62f324330e44 | -21.56878 | -47.73182 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| cfbf49bf-f34b-3529-8351-017a19eeaa47 | -21.56515 | -47.72181 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 145f5134-dcaf-3a1c-8110-52ce347dc207 | -21.5648 | -47.7495 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| d0032af9-53b2-3323-9bc0-a1bfb3f03aa0 | -21.56415 | -47.72626 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| d845f2ff-2c40-3159-9eda-ead6ff8adbb0 | -21.56389 | -47.75356 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 5ee4f7dc-ab04-3e3c-9d01-87e1d8ff756d | -21.5612 | -47.73939 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 492bb68d-4817-3199-8eec-24ad9f288291 | -21.55569 | -47.73772 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 6605e99a-d3a4-3db7-b9b1-32ed12ba6774 | -21.40518 | -47.80941 | 2024-10-07 03:40:00 | NPP-375D | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| fa6f0f5e-fc7b-3e7b-bd28-78655e9e9ca3 | -21.32226 | -47.61175 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 395e71da-773f-364b-91e2-a35f8a8505f9 | -21.31787 | -47.60503 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| edb3fbc3-8e28-33de-bae7-79f87b32edbb | -21.60536 | -47.72589 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 5940eae5-94ec-38a9-ad65-1326047256bd | -21.60253 | -47.71223 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d896bd47-a298-3ab2-a039-049f689365fa | -21.60167 | -47.71612 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 9206eff8-7d97-34c0-ba27-be2209adcec0 | -21.59996 | -47.72379 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| f08086c7-5029-3418-9964-93b09fc4c60f | -21.59548 | -47.71751 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 0d312376-0408-3d41-819b-fda37aba8e0c | -21.59428 | -47.9412 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 25117b37-ebc2-314d-9b3a-c104a64bdb73 | -21.59334 | -47.94532 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 4b5d722a-d13c-32d0-8e12-be0965d50314 | -21.59145 | -47.95356 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| ecc34b0f-feba-33db-b714-2565c70ccbac | -21.59051 | -47.95767 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 12df703d-4afd-31fb-922e-4472c51c5084 | -21.59008 | -47.71541 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| bb97bca3-7c12-37eb-9df9-5e93b1400064 | -21.58722 | -47.72823 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 25.6 |
+| ab574da1-8958-381c-bd49-57511246db0f | -21.58519 | -47.94957 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| f6266358-ed31-3e16-bfeb-03cc1e96b06a | -21.58377 | -47.71739 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| e94f1b5c-977b-3c24-85ba-b1db5ee8847f | -21.58304 | -47.93826 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 293cb722-e5b8-3042-8e5f-d5f8df2a02e0 | -21.58244 | -47.7496 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 2230841d-d66c-3625-b06d-2f3131e8e603 | -21.57637 | -47.72417 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 1e51bafb-28b9-3dd6-b356-35f600569f22 | -21.57227 | -47.74247 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 7d45dbc4-9132-337e-8609-eb3ed34698df | -21.57036 | -47.75095 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.7 |
+| 9221f02f-c97a-3713-8603-12e3c21736e9 | -21.57019 | -47.93676 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| d756c088-57a9-3f58-b6fb-df16fb743ad9 | -21.56851 | -47.75918 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| a72eddb7-908e-39ed-8547-60b4c73b4d75 | -21.56671 | -47.76721 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| e11766c5-e5dd-385d-bbef-b8b7bc24a221 | -21.56218 | -47.73503 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 706b95d1-253e-382b-a055-83799815508f | -21.56022 | -47.74374 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 55ac91cb-c5cb-31c6-bc24-a24ada6f71c8 | -21.55946 | -47.72099 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 129c6e9e-2a1b-389a-ac75-0a7da6f1c0b5 | -21.55929 | -47.74786 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| c09b23f0-7b0a-3e46-9ab8-aec34091e9fd | -21.55664 | -47.73349 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| ac2916b4-07bc-3384-bd1c-ed55f5db7c47 | -21.32176 | -47.6032 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 088089f3-754d-313c-956f-60c58c0097c5 | -21.32081 | -47.60738 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| b81ce42d-e0d7-3a25-b88e-e9e0cc512ecd | -21.31152 | -47.60727 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 6b1f632c-c51a-3634-ac69-01f4352b1c9a | -21.31043 | -47.61221 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 60e3f2d2-47e9-3ff6-84af-832a2f1b415e | -21.28965 | -47.39166 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| f03adafd-0bef-3b74-b136-2da6e1f3b052 | -21.28872 | -47.39581 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a2c5bed4-ed94-35d2-a26a-fa56e496f557 | -21.28238 | -47.39825 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 65e32284-50ce-312a-b979-f099704a8ed4 | -21.2779 | -47.39912 | 2024-10-07 03:40:00 | NPP-375D | SANTA CRUZ DA ESPERANÇA | SÃO PAULO | Brasil | 3546256 | 35 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| fb79c1be-0743-3b4d-b60e-edb4e33fe5c4 | -21.08353 | -47.23747 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 7d9b7229-6050-3833-aa77-9c26d30fffe5 | -21.28418 | -47.39024 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d9d3ac68-6b26-3be0-8fee-33ab246c6e2f | -21.27784 | -47.39268 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| b0a46c82-57dd-3f98-9b30-975aad11380f | -21.27697 | -47.39657 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 130a9da3-90ac-3881-9eb0-639f727505f5 | -21.27607 | -47.40055 | 2024-10-07 03:40:00 | NPP-375D | SANTA CRUZ DA ESPERANÇA | SÃO PAULO | Brasil | 3546256 | 35 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| edff64be-814d-35ca-9f5a-5b50fe4a5b2d | -21.08504 | -47.23505 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| b00331ac-fc58-369b-bfb0-cb755abe034e | -21.08463 | -47.23258 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 3e19b261-4333-3487-bd63-df4a7380c114 | -21.08404 | -47.23965 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
 
 
 [Clique aqui para ver as próximas entradas](README50.md)

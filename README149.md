@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 671b8c96-5df7-3a69-913b-2557e5d53cec | -16.59126 | -57.15168 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.2 |
-| 8864afe9-e7a5-32f3-a4af-55f653b1065f | -16.58978 | -57.16125 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.1 |
-| 9d0d27d2-52c0-34a6-a0a4-fef964debea5 | -16.58236 | -57.20921 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 33.3 |
-| 17779353-b060-36b8-9c9d-892cb333b18c | -16.58129 | -55.94404 | 2024-10-06 05:53:00 | AQUA_M-M | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 21.4 |
-| 4a2d4715-a469-3791-a487-43a3d1cb4a3e | -16.58088 | -57.21882 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 20.5 |
-| 5df1b391-eeef-30a2-810f-75910805517f | -16.57332 | -57.20771 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 55.2 |
-| aea65b10-197f-3612-a4a4-b5c7b9e9be03 | -16.57243 | -55.94263 | 2024-10-06 05:53:00 | AQUA_M-M | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| 92a65d81-4b54-3671-ba7f-ddcf9ec64d74 | -16.57183 | -57.21732 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 20.9 |
-| 3d856806-75a4-34b9-967e-fee3728f9953 | -16.56427 | -57.20621 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 14.4 |
-| e8bb452e-5651-3c0c-995b-dea09327b549 | -16.56278 | -57.21582 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.2 |
-| cfcc9c25-5c92-3d1a-ad27-4923863461c7 | -16.56128 | -57.22543 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.4 |
-| b8bb1e7f-9ec6-3b9b-9783-eefc5465b0bb | -16.53112 | -57.24015 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 13.2 |
-| ed23d170-94a4-36be-9d59-805cfb5c30fd | -16.52671 | -57.73835 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| aa658e9b-f02a-315a-887a-9625fa8f251a | -16.50998 | -57.2564 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| 5df09f34-2abf-3970-aee4-625e88d7152e | -16.50846 | -57.26608 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 12.3 |
-| 6277d6b4-aa8a-36d0-83cc-e93e14395434 | -16.46545 | -57.31174 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.0 |
-| 7aeebd27-bd5d-33b0-9da8-921202007273 | -16.46089 | -57.2812 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.7 |
-| cb1276bd-73c1-3156-aa9d-2199ae04c4ae | -16.45181 | -57.27969 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 9.0 |
-| 759dd1f9-4c3d-3068-a312-354b5d481606 | -16.4503 | -57.28937 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| 83ccbe73-c1b7-305a-8b32-2cba305ba473 | -16.44122 | -57.34753 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.5 |
-| 19faee2c-019f-3a5e-b7a8-205df8b06a3f | -16.42303 | -57.3445 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.4 |
-| d4b4edb0-e107-3014-88f5-3c8d97ed1d9c | -16.40934 | -57.37215 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| 3808b275-abcf-33c8-a8cf-4d4dba3b2afd | -16.40177 | -57.3609 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.0 |
-| 59de472e-2a50-35ae-90a1-62bb117df85e | -16.40023 | -57.37063 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 17.5 |
-| 1dd1ccfa-1703-36a9-8a88-b8a7cf160fbe | -16.39869 | -57.38036 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| bb330fc5-203e-3793-89a5-b17cd8e9a735 | -14.56311 | -48.81839 | 2024-10-06 05:53:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 11.9 |
-| 5b31c4d9-abbe-3afa-9296-c74c8d796188 | -16.39113 | -57.36911 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 9.3 |
-| 0d092564-4abf-3c8f-bb9e-721a23467b38 | -16.16905 | -55.92908 | 2024-10-06 05:53:00 | AQUA_M-M | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.5 |
-| 6beec62c-d034-3d7b-9649-b9dd241287ed | -13.68414 | -51.18414 | 2024-10-06 05:53:00 | AQUA_M-M | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| aacd71f1-58a7-34f1-b584-6b406e4ab63e | -13.40313 | -61.96275 | 2024-10-06 05:53:00 | AQUA_M-M | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 32.7 |
-| e38bb778-de0b-3f78-8138-079f732620d2 | -12.89802 | -60.51548 | 2024-10-06 05:53:00 | AQUA_M-M | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| 6d368ae6-0893-3de4-8ae0-56122d139278 | -12.89394 | -60.52033 | 2024-10-06 05:53:00 | AQUA_M-M | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| 37f23712-9775-3ae0-854d-1f698060733d | -12.88628 | -60.51354 | 2024-10-06 05:53:00 | AQUA_M-M | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 93bf380b-2aaf-3282-ad8a-29a77d1bb14b | -12.79508 | -50.52356 | 2024-10-06 05:53:00 | AQUA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| fb2a354d-dfc5-3dc5-a105-99fe49d8e5ad | -12.78229 | -50.53624 | 2024-10-06 05:53:00 | AQUA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 72.6 |
-| 2aeab8d6-7708-35ba-bdd2-ee993db39449 | -12.6704 | -54.70265 | 2024-10-06 05:53:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 3a892152-44f1-3936-bb94-74a42c027b91 | -12.6533 | -53.11467 | 2024-10-06 05:53:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| c412248d-dd69-3336-a0e8-1f3295363580 | -12.64405 | -53.11332 | 2024-10-06 05:53:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
-| 20f7e61f-02cc-3638-96e7-6176e840c75b | -12.64263 | -53.12323 | 2024-10-06 05:53:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 27.1 |
-| 7e54846c-1cb4-3191-b098-d9a8de115efc | -12.62273 | -53.13042 | 2024-10-06 05:53:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.7 |
-| 16ffb642-0206-3c8d-b121-825f07145aef | -12.61349 | -53.12906 | 2024-10-06 05:53:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.5 |
-| a3a3e4ee-0fbb-3a91-9cbe-3ad7b0c110e3 | -12.57418 | -53.47043 | 2024-10-06 05:53:00 | AQUA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 13edbfd8-0592-36f1-8a53-50a9cba3e698 | -11.66382 | -54.52816 | 2024-10-06 05:53:00 | AQUA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 9416a605-dd70-334f-8602-2a6b1c7a1f13 | -11.58355 | -55.6672 | 2024-10-06 05:53:00 | AQUA_M-M | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 35214a8e-7dea-3be3-acb5-d36d0c540f45 | -11.57461 | -55.66581 | 2024-10-06 05:53:00 | AQUA_M-M | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
-| 0f10827a-3c8a-34e9-ab3b-5f5b6457d235 | -17.84183 | -53.76788 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| e9b81d9d-c668-3ac0-b069-41faef2dc949 | -17.84037 | -53.77876 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 36.5 |
-| bee89035-345a-3897-91fd-0b746729bbeb | -17.83892 | -53.78947 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 84ce5f4f-1f83-3f31-9135-0e554863147f | -17.83084 | -53.77779 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 24.4 |
-| 9b163e8c-8cd9-3584-a064-e19a4bea1f1c | -17.82941 | -53.78844 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 31.2 |
-| 233d985f-2296-382f-abbd-ea2d8cdf5509 | -17.82469 | -53.78245 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 26.4 |
-| 46f527b6-6548-3a2b-8463-439cf985fe39 | -17.8233 | -53.79248 | 2024-10-06 05:53:00 | AQUA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 7144febf-99c3-3318-8553-bce048ac0340 | -17.18717 | -57.36285 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 11.1 |
-| bceb4c90-003c-3c37-aa05-fb2aaf53e757 | -17.17965 | -57.41116 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.7 |
-| 956dc3ca-8b75-393b-98ec-1542603fe327 | -17.17812 | -57.36134 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| b04c7d94-7d0c-3c46-b822-d2f5479f43fb | -17.17013 | -56.75165 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.2 |
-| e579cc09-a2a1-34e0-8473-05ad24cb9299 | -17.16907 | -57.35983 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.3 |
-| 5ba9288a-8372-343c-9bf0-bdaa2ecff2b5 | -17.1687 | -56.76099 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| 58352d51-49eb-35aa-b91e-85d58e2b21d0 | -17.16756 | -57.36947 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.7 |
-| 822fc320-d1e5-3d8b-8cee-c2cbb4c0dcb3 | -17.16121 | -56.75019 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 36.1 |
-| e0015763-4fea-3d07-a0ff-de6428d3d286 | -17.15977 | -56.75953 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 17.0 |
-| 4617a65a-d071-374e-bb14-4249332b4c50 | -16.34078 | -51.27592 | 2024-10-06 05:53:00 | AQUA_M-M | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 14.0 |
-| 718309bd-a41a-39b2-b4b3-8ce87d821b2a | -17.15849 | -57.42749 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 14.8 |
-| 2eb21f7d-7719-3fd8-9dcf-e3334bea33a7 | -17.14942 | -57.42597 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 18.2 |
-| 9c4eeb08-4d6f-314f-aacb-373ad70c93f5 | -17.14035 | -57.42445 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.9 |
-| c84f91eb-3c7b-35c8-a951-6aa5bfb2ff6f | -17.13762 | -56.78466 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.7 |
-| bcbd64ac-564c-3b34-8f75-b07c32c7cc31 | -17.13474 | -56.80337 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.3 |
-| 2948d667-9b14-3d75-9426-2b4073bcfb04 | -17.13445 | -56.74582 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| d9415b41-29f1-3d16-a0c7-298534b1f13d | -17.13433 | -57.40358 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 14.7 |
-| 2a823239-3fe4-3219-8e64-a7eeb69c8465 | -17.13329 | -56.81273 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.3 |
-| faeadd95-ca03-320d-8955-ba7471b6b67d | -17.13301 | -56.75516 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.9 |
-| 5689f4e8-be4a-3e27-bbb2-d8e648da99a9 | -17.1328 | -57.41326 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| 1755dee3-8fa8-3bec-9f84-6b48496e97e5 | -17.13157 | -56.7645 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 11.2 |
-| 18b956c4-8594-334a-be1b-e38f08ad5ea8 | -17.12581 | -56.80191 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.7 |
-| c6456d73-1e47-33cb-90b7-72312af165b2 | -17.12526 | -57.40206 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 29.8 |
-| 8e2e26d1-dac7-3dd0-9061-cfcadb9eb040 | -17.12436 | -56.81127 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.0 |
-| 74c2a3d8-1a04-3bf6-81ac-145f023709c8 | -17.12373 | -57.41174 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 30.8 |
-| c5868850-ea01-3ea4-a1e5-7cd3ed5b947c | -17.12221 | -57.42142 | 2024-10-06 05:53:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| eecd48b0-02d9-3adc-bcc6-68771287a3e0 | -17.11688 | -56.80045 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.6 |
-| 23169170-84a8-3843-96fa-4880d38184c0 | -17.10803 | -56.6774 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 18.6 |
-| 8c48923a-1288-3cc1-9435-b1ab5a2a6c41 | -17.10733 | -56.80177 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 21.2 |
-| 34268a08-769c-32d8-a370-f80a65079e93 | -17.10661 | -56.68672 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 32.9 |
-| 0ad2659b-75b3-319b-8f3c-21535a99008f | -17.10589 | -56.81114 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.6 |
-| 70ca8288-8f76-3380-bacb-758b67cd23b1 | -17.0984 | -56.80031 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| b8ab9334-b3f9-3252-8a0b-6336bb31dbc5 | -17.09696 | -56.80968 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 22.1 |
-| 2fa822f5-0027-3937-b06d-d0a19a6f357b | -17.08803 | -56.80821 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.2 |
-| 1d4173cd-d9aa-3c8f-a7c0-855370a991e5 | -17.0791 | -56.80675 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.3 |
-| c9e89d23-71ee-3ca3-a6eb-29364a4b990c | -17.07017 | -56.80529 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 18.6 |
-| 470b60bc-8a1e-3cb4-b190-4a155ce12e36 | -17.06124 | -56.80383 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.2 |
-| 854a6f20-e3a2-3392-8fe2-6c8cbb690752 | -16.09919 | -50.45801 | 2024-10-06 05:53:00 | AQUA_M-M | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| cac1b1b0-1b11-3d8a-b946-e627923866e8 | -17.0598 | -56.81319 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 11.9 |
-| cc4f70d6-133b-3d7d-b9f1-341b240738fa | -17.05489 | -56.7261 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| faf00a0d-8320-394f-ac40-2163f2e97f09 | -17.05171 | -56.68733 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| 2cfef808-a6a9-35d8-9ac5-b3a1a971dcc3 | -17.05087 | -56.81173 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.3 |
-| 2ee9b58b-e499-37d8-9977-cd4768e80be6 | -17.04942 | -56.8211 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.2 |
-| cd18f321-80d4-36ff-8a25-2a7c6a88ecaf | -17.04597 | -56.72464 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.9 |
-| 7fc02166-b639-3101-a3ad-79161017866f | -17.04453 | -56.73398 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.0 |
-| 78110b8a-956c-34b7-b621-fef29f581473 | -17.04279 | -56.68588 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 21.8 |
-| d84f2366-a3a2-31d6-b9b2-285f93c9e247 | -17.04049 | -56.81964 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.8 |
-| 9c12093d-1553-3d1b-aa14-c86e016f125f | -17.03992 | -56.70452 | 2024-10-06 05:53:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.7 |
+| 507492d7-17e8-360a-a22d-a67fb2f48275 | -14.84639 | -45.18627 | 2024-10-07 12:19:00 | TERRA_M-T | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 351eaece-2c73-3d42-a7f6-b90a939e6373 | -14.68949 | -45.13702 | 2024-10-07 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| 1beb900f-18d3-3ff2-8b6f-b5a92707349e | -13.85595 | -44.62716 | 2024-10-07 12:19:00 | TERRA_M-T | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 51.7 |
+| 8fc1d3ef-65ba-37bf-ae7f-88e96fb8c819 | -13.82892 | -44.61184 | 2024-10-07 12:19:00 | TERRA_M-T | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 33.2 |
+| 80056e04-857f-34c9-b575-e63edc87be2f | -13.82725 | -44.62257 | 2024-10-07 12:19:00 | TERRA_M-T | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 19.0 |
+| 733f76f1-27eb-3ba9-8395-04425cb130a7 | -7.66651 | -45.23231 | 2024-10-07 12:19:00 | TERRA_M-T | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 103.8 |
+| dea6cd57-e1c4-3e96-b369-09cd049dfc69 | -11.97788 | -45.16778 | 2024-10-07 12:19:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| c5e9fe71-3667-3c41-b029-3d1f4abc5583 | -11.96772 | -45.16617 | 2024-10-07 12:19:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 30.3 |
+| e21ff85e-9318-31d6-b391-2a86ab2d47cc | -11.9658 | -45.17822 | 2024-10-07 12:19:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 081ebd4c-d35b-30f5-80c4-842145728611 | -13.2453 | -45.58548 | 2024-10-07 12:19:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 21.1 |
+| f45ddb87-de3a-3ca9-a382-8bf31e4f21ae | -13.23505 | -45.58386 | 2024-10-07 12:19:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 32.1 |
+| 3a926027-5c4b-3da6-a9e0-3ccd0d095150 | -14.13474 | -45.53347 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 52.6 |
+| 6ac5be7f-4fda-3974-ba5c-280e07bb17d4 | -14.13339 | -45.6065 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 15.9 |
+| 200f6cb1-f0db-3f33-9388-5d6e24e5fa5d | -14.13285 | -45.54528 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 42.1 |
+| 08972a20-16a3-38e8-9b65-c0e0550b4fcb | -14.12713 | -45.58088 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 137.5 |
+| 355bf0d1-bdb6-3bbd-992c-ee08e0058903 | -14.12659 | -45.51997 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 45.3 |
+| 43fc9783-a078-3dc5-be2e-cdd4ffc97665 | -14.1252 | -45.5929 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 108.7 |
+| 7e0c42c0-7b05-3e62-abf5-9118c8599ca0 | -14.12469 | -45.53174 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 53.8 |
+| 0e3fb34d-4f20-37b5-84c3-1c5e0af2d838 | -14.11798 | -45.51239 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 27.4 |
+| 3fb12ceb-b08b-31eb-bd70-87562da0587c | -14.11702 | -45.57932 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| 53a4e981-e88f-373d-81da-c76dfc391804 | -14.11654 | -45.51824 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| 65f7af4c-e88c-3919-ba35-796fa835b57c | -14.11615 | -45.52414 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 22.6 |
+| 59f8e9f7-a79a-39ab-8562-066694ce13bc | -14.11507 | -45.59139 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 34.0 |
+| bf3ecf93-baee-3b31-8084-48fd89810c33 | -14.10795 | -45.51059 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 24.7 |
+| d071e5da-4bd3-3fc0-a437-08d8f8ee6de7 | -14.08523 | -45.45847 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 35.9 |
+| cc924ff7-16a9-310b-b4d8-2a912e46667b | -14.0834 | -45.47011 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| ab16cba3-f352-3ac3-9897-9b395afbc4fa | -14.07524 | -45.45665 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 26.2 |
+| c15b588f-385b-399c-b7c3-72a8ab568dcc | -14.07339 | -45.46828 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 19.6 |
+| 433d10f2-eb92-37f4-aa15-46148d024163 | -14.06581 | -45.51603 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| 06c236e6-6527-39fe-a070-da953fb0e718 | -14.06391 | -45.52798 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 31.2 |
+| 557266d4-d1b8-33a3-9d14-b2f9726eab64 | -14.05384 | -45.52628 | 2024-10-07 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 16.6 |
+| 19d46718-2395-34b9-b175-93a4c26aa9c8 | -12.34198 | -46.41273 | 2024-10-07 12:19:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 16.7 |
+| 4ea3b945-e01b-3ba2-a5d0-dbbd2d94975f | -10.14862 | -46.36383 | 2024-10-07 12:19:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 22.9 |
+| a4f7938a-2388-34b4-87a0-e8b95cab7836 | -18.59249 | -46.58332 | 2024-10-07 12:21:00 | TERRA_M-T | PATOS DE MINAS | MINAS GERAIS | Brasil | 3148004 | 31 | 33 | nan | nan | nan | Cerrado | 33.8 |
+| 41782acd-8408-3274-81cd-4383a51ccd27 | -17.89327 | -43.98088 | 2024-10-07 12:21:00 | TERRA_M-T | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| d6ab5adb-e264-34f9-be6f-60730ec0676c | -17.89183 | -43.99045 | 2024-10-07 12:21:00 | TERRA_M-T | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 28.1 |
+| 9b548b61-efb8-378f-a735-32e126c79be9 | -17.57535 | -43.70148 | 2024-10-07 12:21:00 | TERRA_M-T | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| a13b17ed-0168-36a7-9ac0-59c270f2ef31 | -17.57396 | -43.71083 | 2024-10-07 12:21:00 | TERRA_M-T | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| f4e0bdff-52a9-3394-822c-6a2d026c2a48 | -17.54766 | -43.76432 | 2024-10-07 12:21:00 | TERRA_M-T | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 050cb752-e684-30d3-992a-a470f2ca5755 | -17.54011 | -43.75354 | 2024-10-07 12:21:00 | TERRA_M-T | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 4f09cb4b-6e77-38b3-af87-83e5dfcc6d15 | -17.5387 | -43.76293 | 2024-10-07 12:21:00 | TERRA_M-T | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| 93a86237-135e-30a7-81de-2d48553692c3 | -19.25592 | -44.36371 | 2024-10-07 12:21:00 | TERRA_M-T | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| ab7172af-6676-3026-8f34-8c2ff90ea0db | -19.2469 | -44.36234 | 2024-10-07 12:21:00 | TERRA_M-T | PARAOPEBA | MINAS GERAIS | Brasil | 3147402 | 31 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| 2e78b552-7142-396e-88d1-bc2d9fab2d40 | -20.69087 | -44.57238 | 2024-10-07 12:21:00 | TERRA_M-T | PASSA TEMPO | MINAS GERAIS | Brasil | 3147709 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 408f70ef-89ef-31f2-a124-79e0dc768910 | -20.41749 | -43.74255 | 2024-10-07 12:21:00 | TERRA_M-T | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 9fb2940a-0782-3f92-a255-aced433945d8 | -20.41612 | -43.75195 | 2024-10-07 12:21:00 | TERRA_M-T | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
+| bb37e76e-4017-3d0d-b7f4-71a496d48efe | -20.38792 | -43.88257 | 2024-10-07 12:21:00 | TERRA_M-T | ITABIRITO | MINAS GERAIS | Brasil | 3131901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.0 |
+| 81ffbb46-7e65-3228-be78-de8e98eef93d | -20.38653 | -43.892 | 2024-10-07 12:21:00 | TERRA_M-T | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
+| 1dac25cb-bfd9-32c6-80c8-9ca6620c1f3c | -20.3609 | -44.00417 | 2024-10-07 12:21:00 | TERRA_M-T | MOEDA | MINAS GERAIS | Brasil | 3142304 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.7 |
+| eaf96c2e-eb21-398b-9aef-642b1040d6e5 | -21.96372 | -45.36566 | 2024-10-07 12:21:00 | TERRA_M-T | LAMBARI | MINAS GERAIS | Brasil | 3137809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
+| b26b3448-259d-300d-b901-4960af9a8627 | -21.96222 | -45.37541 | 2024-10-07 12:21:00 | TERRA_M-T | LAMBARI | MINAS GERAIS | Brasil | 3137809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 57.6 |
+| 4a0c79a4-3f84-3aa5-a868-09159e46899e | -21.71193 | -45.20127 | 2024-10-07 12:21:00 | TERRA_M-T | TRÊS CORAÇÕES | MINAS GERAIS | Brasil | 3169307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| aa03ffba-e303-32d2-ad76-810376ffafc4 | -21.71042 | -45.21122 | 2024-10-07 12:21:00 | TERRA_M-T | TRÊS CORAÇÕES | MINAS GERAIS | Brasil | 3169307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.4 |
+| 59e91d72-741f-3a4d-9bf2-9507d36cca87 | -21.67964 | -43.99529 | 2024-10-07 12:21:00 | TERRA_M-T | LIMA DUARTE | MINAS GERAIS | Brasil | 3138609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 93661d4f-62f1-3725-84a7-c0b260798055 | -21.67826 | -44.00479 | 2024-10-07 12:21:00 | TERRA_M-T | SANTANA DO GARAMBÉU | MINAS GERAIS | Brasil | 3158706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 71.9 |
+| bce3eebc-8c85-3e35-a440-c29f531c5f3b | -21.66799 | -44.01285 | 2024-10-07 12:21:00 | TERRA_M-T | LIMA DUARTE | MINAS GERAIS | Brasil | 3138609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 17.2 |
+| b86e82d2-6920-321b-a96a-16b9905479d8 | -19.01974 | -45.52914 | 2024-10-07 12:21:00 | TERRA_M-T | ABAETÉ | MINAS GERAIS | Brasil | 3100203 | 31 | 33 | nan | nan | nan | Cerrado | 22.6 |
+| 28436cca-6734-3fa4-bc7c-788eb83de482 | -18.08087 | -45.62479 | 2024-10-07 12:21:00 | TERRA_M-T | SÃO GONÇALO DO ABAETÉ | MINAS GERAIS | Brasil | 3161700 | 31 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| 28d6f280-2ef9-3008-aa8e-c4f8af2cb0ee | -20.83544 | -45.56382 | 2024-10-07 12:21:00 | TERRA_M-T | CRISTAIS | MINAS GERAIS | Brasil | 3120201 | 31 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 98d3eab4-251a-3be5-a73d-22db9719d96b | -20.53489 | -45.87511 | 2024-10-07 12:21:00 | TERRA_M-T | PIMENTA | MINAS GERAIS | Brasil | 3150505 | 31 | 33 | nan | nan | nan | Cerrado | 30.8 |
+| 0c51507b-2b05-3370-9535-eda52d69d3c0 | -19.70934 | -46.27089 | 2024-10-07 12:21:00 | TERRA_M-T | PRATINHA | MINAS GERAIS | Brasil | 3153004 | 31 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 12b0bc63-a991-3b66-9f84-05c5281cae9b | -21.81408 | -45.6768 | 2024-10-07 12:21:00 | TERRA_M-T | CORDISLÂNDIA | MINAS GERAIS | Brasil | 3119005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
+| 9d1748c2-9ec9-3ce3-9571-52790eec7368 | -21.00148 | -46.08812 | 2024-10-07 12:21:00 | TERRA_M-T | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.2 |
+| 6b4b4463-31cc-31ea-8f62-642474249990 | -20.98256 | -46.08488 | 2024-10-07 12:21:00 | TERRA_M-T | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 37.2 |
+| f0860faf-1751-38ec-b676-9f49f4d87528 | -20.98084 | -46.0957 | 2024-10-07 12:21:00 | TERRA_M-T | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Mata Atlântica | 13.0 |
+| 919261c1-2602-38d9-a563-d391663f6d25 | -19.19871 | -46.57887 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 37.0 |
+| a2f2320c-c360-3a94-8d3f-8927eac88ad7 | -17.18145 | -47.29121 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| 81e1679a-df68-34c9-8043-1c2a10febaa0 | -17.17061 | -47.28946 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| df01b814-e423-3599-9d1f-f32ab12c9bdb | -16.91871 | -47.13905 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 62.4 |
+| 93a052d1-f030-382f-a6f0-30bc5d2afc5e | -16.91633 | -47.15319 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| 98db5f6e-3b24-3d1f-8490-4f918fc94ccb | -16.90557 | -47.1514 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 55.6 |
+| 1644f25c-5afc-3bb0-aad8-d0277894124d | -16.90294 | -47.14418 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 31.7 |
+| 19d8d8c9-e582-3ec2-8b8f-926462abf503 | -19.20068 | -46.56658 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 76.9 |
+| 3c9ded46-c5e0-38b0-bb62-428b71f75b97 | -16.90084 | -47.17939 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 20.1 |
+| cd558348-0040-3eed-8469-38e3d2a6360d | -16.90066 | -47.15827 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 31.5 |
+| bfb3df09-c5d2-364b-a289-5a7e73964d5e | -16.89845 | -47.19347 | 2024-10-07 12:21:00 | TERRA_M-T | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| 9b7c1b0f-87d0-31eb-ae55-81e414900f35 | -16.89612 | -47.18623 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 67.9 |
+| d8ae1b98-a9f1-3eb8-9947-31bf74dc37b9 | -16.8948 | -47.14963 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 17.9 |
+| 1e2edc10-0e69-314e-ab97-1866f22a56de | -16.89012 | -47.17716 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 33.6 |
+| df24a319-eeed-3d09-8084-e42e33994513 | -16.88992 | -47.15623 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 121.3 |
+| f734d3f9-e391-3448-9140-ecae02b0fb3d | -16.8877 | -47.19136 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 39.5 |
+| 011608ca-02d0-3532-825e-5f359dd18aab | -16.88539 | -47.18399 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 46.5 |
+| 5053ba5c-1f6d-32b8-b859-204c0893d2ff | -16.87918 | -47.15418 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 22.0 |
+| e30b6950-cbb6-3968-bd60-59b60072f3cb | -16.87693 | -47.16792 | 2024-10-07 12:21:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 19.9 |
+| 98e6b68a-97e4-36c4-8417-c8b572de42a1 | -17.71845 | -46.40564 | 2024-10-07 12:21:00 | TERRA_M-T | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| ea8b117b-0093-3414-b0ba-d1b2a7843db5 | -17.24825 | -46.39336 | 2024-10-07 12:21:00 | TERRA_M-T | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| 1d582daa-e4b4-3f3a-92b7-629e19a7f14d | -18.31631 | -47.13492 | 2024-10-07 12:21:00 | TERRA_M-T | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 21.6 |
+| 5620e074-6f0a-3cfa-95f7-3321e027cca6 | -18.31418 | -47.14768 | 2024-10-07 12:21:00 | TERRA_M-T | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 43.6 |
+| ec783150-6da9-33fb-af88-0b144db06774 | -18.30587 | -47.13287 | 2024-10-07 12:21:00 | TERRA_M-T | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| 10423ecf-4854-3b13-9a63-d91b8cf8554a | -18.30373 | -47.1456 | 2024-10-07 12:21:00 | TERRA_M-T | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 18.2 |
+| 5086dcc5-5614-3962-b174-88b56d32e371 | -19.21173 | -46.56273 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 21.7 |
+| ea1c38ec-e8e2-3c5a-b641-4241d5b55777 | -19.21065 | -46.56818 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| efb6418a-a2d8-38fb-9508-da421392db31 | -19.20973 | -46.5748 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 63.6 |
+| 941c740d-f69c-38ce-9197-2aca75f89153 | -21.17199 | -46.94031 | 2024-10-07 12:21:00 | TERRA_M-T | MONTE SANTO DE MINAS | MINAS GERAIS | Brasil | 3143203 | 31 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 5678d73b-777d-3c18-947e-c21ad92a1483 | -21.31555 | -47.62823 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 191.6 |
+| 842e9380-0f73-3852-97ed-037ad3a9dce1 | -21.31776 | -47.61493 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| 24a1f82c-035b-3b39-b466-781c6275b5fe | -21.31998 | -47.60158 | 2024-10-07 12:21:00 | TERRA_M-T | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 2dd47b92-9a46-3feb-a7a6-a0079184f16a | -21.57273 | -47.74938 | 2024-10-07 12:21:00 | TERRA_M-T | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 2f507176-3e05-3dc3-9e76-a7d814aa493b | -21.58084 | -47.76466 | 2024-10-07 12:21:00 | TERRA_M-T | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 64.1 |
+| 1c3114f7-8773-31f0-9bf0-ae47b87f845c | -21.58306 | -47.75132 | 2024-10-07 12:21:00 | TERRA_M-T | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 64.2 |
 
 
 [Clique aqui para ver as próximas entradas](README150.md)

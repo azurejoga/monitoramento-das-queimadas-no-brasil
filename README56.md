@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0c7065ab-b74d-314a-b23c-07402514616c | -13.67885 | -51.1946 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| afd0cdc4-db87-3c0c-9b7c-cd217565346d | -13.67549 | -51.18605 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| eba3d021-b57b-301b-b685-9dbe5c0a7c3a | -13.67454 | -51.1906 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 64d323eb-c00e-3856-9d8d-9bfade559b04 | -13.6738 | -51.18872 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 4fcd0e47-b8d3-3306-8804-85e90f68c3a0 | -13.67288 | -51.19328 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 2c0ba79e-c688-3209-b137-1e64af9d024c | -13.66856 | -51.18929 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 983ebb34-2e97-30fd-af95-9427fec5fa09 | -13.66782 | -51.18739 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 611f6cb4-bf71-3271-9e0d-cc3642779306 | -13.66761 | -51.19384 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 4fbbbf9a-a331-398f-bea7-3f4603752e16 | -13.6669 | -51.19194 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 57d062fb-92f3-3b5a-9fb8-5139064c80ea | -13.66259 | -51.18797 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| a942bb27-9da0-339d-81fc-81d868d47f4a | -13.66184 | -51.18605 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| d551b90b-7411-312a-af9c-308b134dcce9 | -13.66163 | -51.19252 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 097a45a5-5862-3604-a561-45c10c5d5f1f | -13.66092 | -51.1906 | 2024-10-06 03:55:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 6dd8938f-1e98-36f5-a209-01e02c02e4f9 | -16.06998 | -50.44885 | 2024-10-06 03:55:00 | NPP-375D | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 4415630c-db7a-310a-8396-0db2d54e10ca | -9.38189 | -51.07323 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 3e5796e6-c02b-3a02-93a7-ea3e5bd986a1 | -9.38085 | -51.07866 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| cfe59926-e1c3-386e-8b1a-ab8807300d0c | -9.37878 | -51.08938 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| d2c4157e-2383-3a61-8b8d-23d54fa0c817 | -9.37775 | -51.09471 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 6faa4613-13ac-36f0-9fd2-423d64278d34 | -9.37135 | -51.09337 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| b2c7e890-d3f0-3400-9826-d1b96143feb2 | -9.36805 | -51.07602 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| b0492bfa-e69e-3294-a4eb-ddcd0f9e81c5 | -9.36701 | -51.08142 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7e9b99a1-6fd4-30f2-811d-cbe5b46df543 | -9.3606 | -51.08016 | 2024-10-06 03:55:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| beb12ad1-7057-3408-a76f-388b69a63680 | -10.51548 | -50.96168 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 306a2563-3c99-3597-8005-4059e642ab26 | -10.50926 | -50.96032 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 6f338640-a637-3564-ba36-7a43f9dc423e | -10.43785 | -50.75037 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5a03dc8d-5432-3e34-8944-dca47232aae4 | -10.4335 | -50.74785 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 6fad2779-8cd8-31f6-b4b6-fba759324e0e | -10.43257 | -50.75266 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| cd88d656-3de9-36aa-b5bd-5c1fc4ff6b8e | -10.43165 | -50.74929 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f60091e1-a29e-3e75-b0e8-f59bed6b1380 | -10.43068 | -50.75411 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 75314810-5442-364a-b0df-68d6c949993c | -10.4273 | -50.74674 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| abd7c528-5f8f-3de7-8234-4ad4100d96ba | -10.42637 | -50.75156 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 7eb6fedb-0993-3de8-8f09-0efa6e601bc5 | -10.42545 | -50.74821 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 6bca5c3c-12d2-3116-8b2a-c991a804680d | -10.42543 | -50.75641 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 21650cc8-7028-33a1-8a2b-b72163573856 | -10.42449 | -50.76128 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 7b56b0f9-38f8-35e4-b98c-55002c9dd454 | -10.42448 | -50.75303 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 968b2dbb-eb19-3f92-8387-a25e1ae7acc3 | -10.42351 | -50.75788 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| b32fe099-c97f-35ef-83b9-e4b8a33fa68c | -10.42018 | -50.75044 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 508695ab-5084-3a63-8994-e642c964684a | -10.41926 | -50.74708 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 8f232e2d-abd5-35e4-b322-ce127c81d367 | -10.41924 | -50.75528 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 0b613da5-d5d1-313c-b231-be536b9ae4bb | -10.4183 | -50.76011 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 1163494f-6665-3305-bdad-982a331f0eee | -10.41829 | -50.75191 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 2ab70730-3936-3f61-b0b2-de866d507893 | -10.41737 | -50.76495 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| bb4d68a3-cf8d-3459-93b7-f4591a082e5c | -10.41731 | -50.75675 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| e71664c3-a9ce-3149-986a-f00cabb41ad4 | -10.41635 | -50.76156 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 72159848-48e1-3ffd-b8c3-4f50b929e352 | -10.41538 | -50.76638 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| cadca198-bbbe-3f5d-90d5-379864a71d87 | -10.41399 | -50.74926 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 93b18b78-b7c0-3d6c-939b-06c75b323160 | -10.41305 | -50.75409 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 477fe8b2-0cff-3713-8af7-3c3f07d5ad07 | -10.41212 | -50.75888 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 6efc22ec-8f57-3b10-bf57-67f5a57f6273 | -10.4112 | -50.76366 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 1b49e907-3d72-3346-896c-7ea5f3c72161 | -10.41027 | -50.76844 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| ed325436-3a3a-3f4d-9694-c597c56fafcd | -10.40934 | -50.77324 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 006a94ce-867f-3074-be46-0857b5fdd8e5 | -10.4084 | -50.77807 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 4d44827b-a7f3-30fc-9068-4c841ff557c2 | -10.40794 | -50.81363 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ef37622b-5e31-3b9e-9b03-8a5ecd48c79b | -10.407 | -50.81845 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 9c220ea2-4a68-36c5-a488-3d5864cf04c7 | -10.40598 | -50.75749 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| ec40b603-e805-38df-8486-32da14793f02 | -10.40561 | -50.81495 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| f96c44a7-a885-3c6a-a6f5-a80496064c74 | -10.40505 | -50.76227 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 1bb0e9ac-70af-3e1d-abc3-eaa40cbfc705 | -10.40463 | -50.81981 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 7e02a9f0-8858-3507-bfff-47da346fd1a9 | -10.40412 | -50.76705 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 5ab28a16-418e-357c-b84b-c72e18f1cb71 | -10.40318 | -50.77188 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 5bc4468d-e09a-37ea-998c-e5c397ac83b7 | -10.40266 | -50.80765 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 43aa86f8-64fd-34b7-a620-3e318e1405e1 | -10.40221 | -50.77683 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| bbe287b2-9252-3acd-9ed7-e081b25d3829 | -10.40124 | -50.78182 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 9bec9183-4dc0-3775-bbe1-edff014e1032 | -10.40028 | -50.78678 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 539423eb-0ee2-39fc-ac96-6553e49120d5 | -10.45253 | -50.70888 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| fd8f7161-7b5b-3a22-9ffe-0365d42533fb | -10.45159 | -50.71359 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| a5d9d9cb-db09-3231-a546-f41727172d46 | -10.45136 | -50.72159 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 381efabb-17ee-3338-90f4-f45f33313eff | -10.45066 | -50.71829 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| a922f935-219a-3c43-b50c-0751af285223 | -10.45046 | -50.72627 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| aa891c16-52ca-3595-8a29-7ecc90e028ba | -10.44975 | -50.6967 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 5eab1fa9-d7a9-3c26-9176-1272f8e79dcc | -10.44972 | -50.72299 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| e8eea8bf-9cab-335c-b8d2-33a3a419ada7 | -10.44956 | -50.73097 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| f0cd085a-5ee3-3118-bbbd-32ea0ece92be | -10.44921 | -50.69345 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 07aab7f0-2a7a-38f3-ab69-b5238e7a08ec | -10.44884 | -50.70142 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 329df36a-4872-36d8-a347-b869a0dd8d9e | -10.44879 | -50.72768 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| a1e69100-6699-37b0-852c-cbf70d1eb8ea | -10.44827 | -50.69817 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 35.3 |
-| b16ddb4e-8710-3b41-9e4c-9109a2479196 | -10.44793 | -50.70615 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 35dad0e6-ed97-3ab6-a28c-2c031f2f64a6 | -10.44785 | -50.7324 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 96684428-02bf-3720-915c-cc91159710a3 | -10.44733 | -50.70287 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 35.3 |
-| 96e06605-fd31-3610-a6e2-84637995023a | -10.44701 | -50.71091 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 1ca73578-fb51-354a-b3ea-32d46d2cb5da | -10.4469 | -50.73715 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| e41c0b54-67db-3b63-9f0a-3a711ebf4253 | -10.44639 | -50.70761 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 180.8 |
-| 5f73d321-0daa-3a04-989f-bf3d949fe61f | -10.4461 | -50.71567 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 41e32a27-8a4b-30dc-bf7b-1345f08fdf24 | -10.44544 | -50.71235 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 180.8 |
-| aa39f7b0-6ae4-3b52-af9d-372c5d8d43cf | -10.44519 | -50.72042 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| e3a2a6e9-49d8-3df3-958f-d8eb2bbf61fa | -10.445 | -50.68252 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| eca363e0-2db9-3f3b-ac75-031d79b53344 | -10.44453 | -50.6906 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 6b20865f-6d60-34b4-a70d-77cdef4abc75 | -10.44449 | -50.71709 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| 0e7a5e3d-939e-3e4f-b15b-2508430da900 | -10.44427 | -50.72517 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 116d7028-16b5-3758-ad07-e5dab815e621 | -10.44404 | -50.68734 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| cf5939b5-f197-3268-863e-dc42f123c6e7 | -10.44361 | -50.69539 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| e03eeaf7-8ba7-342c-9744-7d45323b73f2 | -10.44355 | -50.72184 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| 609599d0-d819-3484-8214-85a29fbe0e63 | -10.44336 | -50.7299 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| c60e4ee3-d8a7-3e57-9b2a-aca58d7294dd | -10.44308 | -50.69214 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 23ed105b-337e-32b2-9241-37a52e87d777 | -10.4427 | -50.70013 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 207.7 |
-| a99fd480-059c-3a0c-9741-c81c49e31415 | -10.4426 | -50.72657 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 0ce17312-9947-3e85-b9a7-492746847e2b | -10.44244 | -50.73467 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| df7cfd53-dc3d-3d29-bdd8-b15a6ef9fcad | -10.44213 | -50.69691 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 35.3 |
-| f97d00e2-89c5-348e-a654-10257d9d365f | -10.44179 | -50.70485 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 207.7 |
-| 4f3f5e1e-6c70-3f66-aca0-53d0a2ae6fdd | -10.44165 | -50.73133 | 2024-10-06 03:55:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 2792f070-29d6-3c84-9497-572388aee049 | -6.85297 | -41.70144 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 0c8665c2-1f98-3bf5-82a1-b0116deaadf1 | -6.85238 | -41.70511 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 3eb0e5ab-ea35-3ded-952a-460cc3ce9baa | -6.85135 | -41.68985 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| ee1d79ab-c016-3454-9645-d8d745045839 | -6.84855 | -41.68562 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| d8cedf99-2fae-3721-9157-26ac5de63c7e | -6.8484 | -41.70823 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| f403be12-156f-3274-abf7-b46da5418a19 | -6.84515 | -41.68505 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| d134af98-fe9b-3824-923b-86ef6f1e37a4 | -6.84501 | -41.70766 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 216ba11e-e227-3e69-a1c5-3b5befce1cd1 | -6.83302 | -41.80399 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 1c176d95-7cdf-3771-81ad-74033b4e8be1 | -6.83243 | -41.80767 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 34e31b73-c43c-313c-b63e-405b810e16b2 | -6.82621 | -41.80285 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 3834195c-d2ef-38ef-b4a8-be7a6e9aad81 | -6.8194 | -41.80171 | 2024-10-07 04:00:00 | NOAA-20 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| c372e6f9-6a65-3273-861f-7ea55b6f2184 | -6.80662 | -40.99018 | 2024-10-07 04:00:00 | NOAA-20 | MONSENHOR HIPÓLITO | PIAUÍ | Brasil | 2206506 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| a36258d5-03d3-3370-bad9-fb986de47c8f | -6.80329 | -40.98965 | 2024-10-07 04:00:00 | NOAA-20 | MONSENHOR HIPÓLITO | PIAUÍ | Brasil | 2206506 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| c8b250ca-a03f-3fb1-b95e-db96d707eb15 | -6.7018 | -40.88367 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 2c2a2056-216e-3419-a9e8-a1c287b2d94a | -6.70124 | -40.88718 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 11e43e72-99a9-36e6-9697-59063a474ba6 | -6.69847 | -40.88314 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| d733bbbe-2455-3ab8-84a0-cf085ada7d0d | -6.69792 | -40.88665 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| b812b12d-c837-35ed-af10-a19b69663bc9 | -6.66462 | -40.88127 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 1fe3e35d-1e85-37d2-a1c2-e42777f3d61c | -6.65851 | -40.87668 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 0.4 |
+| d4a22e27-a0c1-3cbe-ad84-a66a446ae14d | -6.65684 | -40.88721 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 76f46958-abb6-3fe7-b9a6-cc46cde05b0c | -6.65628 | -40.89073 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 9f027693-ead1-38b5-a9b4-1d8aac4f9069 | -6.65519 | -40.87614 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 07dc2086-1c7c-343d-8696-7526ae0fb29b | -6.65463 | -40.87965 | 2024-10-07 04:00:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| fd8d5cc8-3d55-3367-bb4e-57472c3c7e18 | -6.48314 | -41.95197 | 2024-10-07 04:00:00 | NOAA-20 | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 6.9 |
+| 01accb35-ba61-3de3-be90-bb849d7a09db | -6.48254 | -41.95571 | 2024-10-07 04:00:00 | NOAA-20 | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
+| 7fe78fb3-2cc8-393a-8f0d-3b70f1b63dbc | -8.42043 | -41.94725 | 2024-10-07 04:00:00 | NOAA-20 | CAPITÃO GERVÁSIO OLIVEIRA | PIAUÍ | Brasil | 2202455 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| cfd7bda4-b205-309c-8fd8-ed8d1708f7cf | -10.22181 | -42.39142 | 2024-10-07 04:00:00 | NOAA-20 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| c44654c0-8e7d-3492-aa46-ca4d3ccdc929 | -10.22122 | -42.3951 | 2024-10-07 04:00:00 | NOAA-20 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| ca8f4df6-94af-3aa1-9703-9b4df3037e97 | -6.43947 | -42.93886 | 2024-10-07 04:00:00 | NOAA-20 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 8adc9311-6608-3148-b24f-4851bd7b5d1a | -6.29199 | -43.45777 | 2024-10-07 04:00:00 | NOAA-20 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 5f5b565d-4305-3b02-b4b5-84a4d9d667e7 | -6.28517 | -42.90284 | 2024-10-07 04:00:00 | NOAA-20 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 073cc6b7-05bf-3382-b93c-f0c5ead0d82f | -7.78082 | -43.11037 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| c80cdfe9-7672-3645-a688-216db70b1098 | -7.77845 | -43.0805 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| 2544c640-3952-372b-819c-5646db13377f | -7.77794 | -43.10561 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 15327d2a-699d-36a6-99ee-f569e5ad829f | -7.77777 | -43.08458 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| c232a777-19dc-353b-993b-1304482555cc | -7.77726 | -43.10976 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 830853fd-ceb8-3436-a696-9e5e9524633b | -7.7771 | -43.08867 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 6e8458d6-b72e-326a-9dd6-1877745716b0 | -7.7742 | -43.08407 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 9872a650-2e8f-339f-bfae-0ea6e4ef300f | -7.74993 | -43.08103 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 790e4959-1cf4-3f3c-9573-7a172c149e4f | -7.74637 | -43.08045 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 7f185b07-7571-3bd2-9852-bb348ae97e55 | -7.74102 | -43.04585 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| e221df20-9313-325d-a38c-c54f6d50a6e5 | -7.73681 | -43.04933 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 1c4c2df8-42a3-3488-ba66-071aba5651b2 | -7.73414 | -43.06572 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 11a3a8df-099a-3888-bd00-deaefde85908 | -7.73347 | -43.06989 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| a5ef50c5-e6af-3438-8151-d337b451fc8e | -7.73325 | -43.04874 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 3fbb3f41-8559-3627-9ccb-027bba9adcf6 | -7.73259 | -43.05281 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| 7285fd84-6680-3b4b-a449-e21574c2389f | -7.73193 | -43.0569 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| 04bf2866-bd00-3f1e-85a8-426c4b0cfae2 | -7.73126 | -43.06101 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 7.2 |
+| 3d988858-d875-3275-89c9-2eff622e201a | -7.73058 | -43.06516 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 7.2 |
+| 25c67096-94d2-3c27-8b47-94a2e379dae9 | -7.7299 | -43.06933 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 32862c47-eac5-367c-949c-faa3a4631496 | -7.72923 | -43.07345 | 2024-10-07 04:00:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| d0251e47-30b6-3355-b3fb-3f25e3bc2319 | -7.64971 | -42.96168 | 2024-10-07 04:00:00 | NOAA-20 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 2bf849e3-4e37-330c-af47-23477a2d7d56 | -7.94783 | -42.46241 | 2024-10-07 04:00:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 99f33565-15b0-3c96-b4f0-be0ccdd56f86 | -7.94721 | -42.46624 | 2024-10-07 04:00:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 793256b4-e1b3-3014-9b23-0e45f858f654 | -7.93053 | -42.45959 | 2024-10-07 04:00:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 11e73413-dcda-3476-a3f6-1a096455041a | -7.92707 | -42.45906 | 2024-10-07 04:00:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| f6e8c559-106c-32f3-ab9c-290cd49b45af | -7.65842 | -42.42393 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| cb85730f-a7f8-3613-9ab1-f665b5b99e11 | -7.65559 | -42.41957 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 92a5b2be-f2fc-3607-a536-f48d985aa9d5 | -7.65336 | -42.4196 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 1874f4cb-0654-33fe-8452-8e391ca7e1bf | -7.65212 | -42.41899 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 6455117c-c34f-3803-8e21-9cf533c10f47 | -7.65051 | -42.41521 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 5624f747-b845-385e-a022-e182540745d2 | -7.64772 | -42.48906 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 05a05365-9dff-3855-9e97-39df5b310e4e | -7.64708 | -42.4929 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| fdc197b9-1227-3615-8e3e-732c18d0946e | -7.64645 | -42.49675 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 6ef4d18b-c8c7-38ee-82bd-1dfed63932f8 | -7.64582 | -42.50061 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| d21cf5ed-75b1-349f-8a4f-df55340a4e4a | -7.64518 | -42.50447 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| a630ae1c-298d-3b38-b364-837f803991e2 | -7.64488 | -42.48466 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| a8928b74-a1f9-390d-9126-8a540ede8e30 | -7.64454 | -42.50834 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 85cfd81b-7f5e-3a05-b457-52db4c111f2c | -7.64425 | -42.48849 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 4.1 |
+| 94b417b2-22eb-39c7-b663-3a91539e2d9a | -7.64358 | -42.41408 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| e40f33a5-2649-3c52-b2e4-762739664fb9 | -7.64107 | -42.50777 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.2 |
+| 1c0866b4-5bab-309d-a561-0e0c4495a04b | -7.64043 | -42.51164 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 0089c541-fc3a-3969-a094-f1dd7ac0901a | -7.64012 | -42.41349 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| 86144023-fa28-3f27-82e7-7af24d2f0f14 | -7.63921 | -42.50792 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| e6c5d1d3-9b08-357c-9791-e09f85277967 | -7.63859 | -42.5118 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.4 |
+| 4f61697c-68de-30de-813d-a2fa686da088 | -7.63696 | -42.51107 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 739c8f69-4836-3e73-9718-aeb31f074ada | -7.63512 | -42.51123 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.4 |
+| 80ee7c03-7c81-3829-8b4c-1b869fc4552f | -7.6345 | -42.5151 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.4 |
+| 247400ea-b7b4-38e9-a469-932a748e4109 | -7.63388 | -42.51899 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| 5756034c-9fdc-38c4-bd90-a1313a14bc56 | -7.63326 | -42.52287 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| 78c2d1fa-253a-3f24-beca-dc86cc2e6cbd | -7.63259 | -42.41616 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| ff44669c-4d4f-3d64-bea9-39fdcca81964 | -7.63102 | -42.51453 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| bd84ad19-a3e0-31c1-a6ee-2b3e6fda53cd | -7.6304 | -42.51841 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 4dc82a81-e405-3ef0-847b-9289bb0fe017 | -7.62978 | -42.52229 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 0c4e8ea2-d10a-3304-9c87-65932ce149a4 | -7.62912 | -42.41562 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 124ae15e-61b5-36ee-8906-77c8771b5ace | -7.62755 | -42.51395 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 50915873-81bd-37a9-bb2b-9430cd00a6f4 | -7.62693 | -42.51783 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| dcb3e62b-ddbb-394b-b2d0-adaec9fc4045 | -7.6263 | -42.52171 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 31e56f78-3f72-3c31-9c18-8ec8342503fe | -7.62532 | -42.50564 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 2ffda614-3e47-32b9-9929-f742507e9e40 | -7.6248 | -42.44247 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 8645651c-f17d-383d-9c0e-1f419dd31013 | -7.6247 | -42.50951 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 03e6730d-65f7-317d-81b6-f736c98c598e | -7.62443 | -42.42272 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| a6daada1-39ce-3bd8-ba2a-e7e4535ea19f | -7.62407 | -42.51337 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| ea49a9fc-4d50-3317-8e71-8e6f9ecc3138 | -7.62381 | -42.42653 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 73bf37a3-d7d2-36a8-9988-022d16f74870 | -7.62195 | -42.43804 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| d319fbce-49f5-3889-8c17-68dc48fe93ae | -7.61998 | -42.51667 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.7 |
+| c1d164e6-f59f-3018-ac37-aeeb08fed752 | -7.61849 | -42.43748 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| ddbfb888-e28b-3ad8-9246-10147b5592fd | -7.61713 | -42.51221 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| 45a69ca4-b955-3722-addb-16e8963ee88b | -7.61588 | -42.51995 | 2024-10-07 04:00:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.0 |
+| e7e13d06-3ab4-3b1a-b589-4654c4925572 | -7.6144 | -42.44078 | 2024-10-07 04:00:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
 
 
 [Clique aqui para ver as próximas entradas](README57.md)

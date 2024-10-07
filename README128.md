@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| dadc136e-f795-3014-9619-d70066ca89c0 | -12.84955 | -62.80117 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 638e6d19-8271-32ae-86a5-dcd46a54da52 | -12.84581 | -62.8005 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 90c252e5-3100-3344-8981-bc9a2e2acce6 | -12.64273 | -63.09638 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c53546db-9d33-3e8a-b2d0-dd73742ff302 | -12.64189 | -63.10119 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7af7c90b-015c-390a-83c4-711e61c8b15d | -12.63426 | -63.09985 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| cbf2846c-e0bd-33b6-9174-68bd36802859 | -12.71464 | -62.95234 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 47ccdc46-dac8-3dd4-94f8-2f11d58819ab | -12.71328 | -62.93754 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a0f81d93-4e70-34f1-bdca-c631c07f2867 | -12.71086 | -62.95166 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| cfc76e51-3979-3733-979f-7ad9f55b277e | -12.71032 | -62.93217 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 51353989-2300-3dcd-a42b-47668e258c02 | -12.70951 | -62.93687 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 8e891c0d-b492-366d-881a-185263d2701d | -12.70789 | -62.94629 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 93bc8183-5cf1-3d4e-940b-8efe86794bdf | -12.70654 | -62.9315 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0c3a25da-5c60-30ae-9e4d-8b545fa288bf | -12.70573 | -62.9362 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fd47d40e-96cb-3977-bf95-cf8cb4d2d42a | -12.02528 | -63.74191 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 9a61fe48-0aa6-3a3d-9999-46e6f40c226c | -12.02466 | -63.74546 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 11679246-bc30-33ae-a8fb-936d27ebf017 | -12.02404 | -63.74903 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6caed1ed-4df3-3f86-98b6-de44a4e5df4b | -12.02341 | -63.75262 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8c7ad5a0-0f56-3b65-b5af-a442621b6fd4 | -12.02128 | -63.74121 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 72cbdc97-4d63-369e-9d04-898cdf53f25d | -12.02066 | -63.74475 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 935cf20e-d9e7-361d-bfd2-e3a6ebabcaf5 | -12.02003 | -63.74831 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c096ea05-9cc6-316a-a0ea-993de89deeff | -11.98983 | -63.53035 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 620ee926-4b1f-3362-ba0c-56ef4f3b2229 | -11.98942 | -63.52682 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 5990ff91-725c-3d0d-95c7-87e7ad7508c2 | -11.88619 | -63.28831 | 2024-10-06 05:14:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 245ec3d6-68a7-3712-96a3-a922f4e110e5 | -11.87839 | -63.28691 | 2024-10-06 05:14:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 699f1274-4f01-3ee9-b54c-da9ab2627970 | -12.43721 | -63.69085 | 2024-10-06 05:14:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ecd80b6f-7005-32e8-962f-6c94dde2c6a5 | -21.85741 | -48.44071 | 2024-10-06 05:16:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b5c87fb8-9efe-38c8-b912-ac5f15d249b7 | -21.85697 | -48.44605 | 2024-10-06 05:16:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f6ae3d05-7ea0-3c23-ba99-1fc8b0fe921d | -21.85063 | -48.4452 | 2024-10-06 05:16:00 | NOAA-21 | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 6409c6f1-242a-3de1-b1cc-1df10c64178f | -21.85019 | -48.45052 | 2024-10-06 05:16:00 | NOAA-21 | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 368c43d6-c149-3622-a811-5833881dcd79 | -21.58899 | -47.94562 | 2024-10-06 05:16:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 5d7719f2-09e3-33e3-a5b2-c329a9dac4a7 | -21.58882 | -47.94358 | 2024-10-06 05:16:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 1bbebbf1-4b62-33c7-bada-f0fe95e7cea1 | -21.58838 | -47.94944 | 2024-10-06 05:16:00 | NOAA-21 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| ff1ab764-6dde-389d-853d-8451c8101ed1 | -20.78209 | -54.82801 | 2024-10-06 05:16:00 | NOAA-21 | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 2485c886-d3a8-35cc-82dd-970c87b9bd4c | -21.40989 | -57.24901 | 2024-10-06 05:16:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 10119a59-0e38-3d24-99bd-67c160e07586 | -21.4093 | -57.25336 | 2024-10-06 05:16:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| b7825d23-aa94-3513-a2ad-6061e2460ad3 | -21.40678 | -57.24431 | 2024-10-06 05:16:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 570cec33-2a64-3e40-b88b-4646e542dd89 | -21.4062 | -57.24868 | 2024-10-06 05:16:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 4546eda2-b88a-303c-8be5-5ec247dd82ed | -21.40561 | -57.25303 | 2024-10-06 05:16:00 | NOAA-21 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 0d030520-33e9-3e42-8b8c-8e408619b13c | -21.78155 | -46.18659 | 2024-10-06 05:16:00 | NOAA-21 | CAMPESTRE | MINAS GERAIS | Brasil | 3111002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 326d2a38-d1c3-37ab-8096-2324c0095072 | -23.72429 | -50.0574 | 2024-10-06 05:16:00 | NOAA-21 | JABOTI | PARANÁ | Brasil | 4111704 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 8a5d04d7-bb50-35a7-b742-486f1dfcd74d | -21.51305 | -50.91742 | 2024-10-06 05:16:00 | NOAA-21 | LUCÉLIA | SÃO PAULO | Brasil | 3527405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| 2ab0cdb4-0e0b-3fcd-ac84-9a11ac4dd304 | -24.98164 | -51.84588 | 2024-10-06 05:16:00 | NOAA-21 | SANTA MARIA DO OESTE | PARANÁ | Brasil | 4123857 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 667f4fdd-0156-34ee-a0aa-a31f772879ad | -24.9813 | -51.84956 | 2024-10-06 05:16:00 | NOAA-21 | SANTA MARIA DO OESTE | PARANÁ | Brasil | 4123857 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 2be359d2-8ac0-3ba5-b291-aa57c85f12ca | -25.02108 | -54.07843 | 2024-10-06 05:16:00 | NOAA-21 | DIAMANTE D'OESTE | PARANÁ | Brasil | 4107157 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| 10418e51-c601-3699-8971-7ecc44a275fd | -25.02058 | -54.08326 | 2024-10-06 05:16:00 | NOAA-21 | DIAMANTE D'OESTE | PARANÁ | Brasil | 4107157 | 41 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| 4743d00d-987d-35cd-9037-8af1252f669d | -25.01643 | -54.07788 | 2024-10-06 05:16:00 | NOAA-21 | DIAMANTE D'OESTE | PARANÁ | Brasil | 4107157 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| 572cc7c1-ec10-3ea8-9b24-084e40320a3e | -25.01592 | -54.08277 | 2024-10-06 05:16:00 | NOAA-21 | DIAMANTE D'OESTE | PARANÁ | Brasil | 4107157 | 41 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| e3064af0-a82a-34d5-a355-5eacab8f0e83 | -23.89537 | -54.22218 | 2024-10-06 05:16:00 | NOAA-21 | ELDORADO | MATO GROSSO DO SUL | Brasil | 5003751 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| a3f35278-76fc-3a06-a70c-fefa8d09caeb | -23.89441 | -54.22093 | 2024-10-06 05:16:00 | NOAA-21 | ELDORADO | MATO GROSSO DO SUL | Brasil | 5003751 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| aa749214-e354-3d18-bd8f-5bed4af29258 | -23.89387 | -54.22579 | 2024-10-06 05:16:00 | NOAA-21 | ELDORADO | MATO GROSSO DO SUL | Brasil | 5003751 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| ee314e68-f2b6-3604-b51c-bb0088024f29 | -20.78161 | -54.83185 | 2024-10-06 05:16:00 | NOAA-21 | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| bfd6c36f-0015-3ed7-89fc-62e833da89a6 | -20.58274 | -55.74548 | 2024-10-06 05:16:00 | NOAA-21 | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 69262224-9876-3e39-996a-3fc1a5c9f996 | -20.5821 | -55.74625 | 2024-10-06 05:16:00 | NOAA-21 | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| fd442b23-8dea-3fdb-9247-550facac2996 | -1.04216 | -48.70693 | 2024-10-06 05:31:00 | NPP-375D | CACHOEIRA DO ARARI | PARÁ | Brasil | 1502004 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 96f6cd13-7bcd-3df2-bb76-4e28d7d0faaf | 2.17636 | -50.68902 | 2024-10-06 05:31:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 49195799-2277-3c7d-b816-d7ff298cd412 | 2.17031 | -50.69002 | 2024-10-06 05:31:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d564f748-c7ac-36f7-a9f5-941b94f17002 | -7.9652 | -54.76045 | 2024-10-06 05:33:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fee6915c-900c-3f82-88ca-7e9e0956b478 | -4.90448 | -65.3297 | 2024-10-06 05:33:00 | NPP-375D | COARI | AMAZONAS | Brasil | 1301209 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7bc1e5a2-57d4-3f40-80fb-482b77c45a5e | -3.21922 | -48.96969 | 2024-10-06 05:33:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 4f06dd38-5f42-354e-9a62-8cd230435340 | -8.63395 | -50.04199 | 2024-10-06 05:33:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ca37414d-701b-36bd-b9ab-497af542a250 | -8.63222 | -50.04343 | 2024-10-06 05:33:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 0a2a412e-d18d-38a3-99e3-01568c3b6145 | -8.62666 | -50.04115 | 2024-10-06 05:33:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7d1e831c-69b3-3b1f-a0db-e65c4fa53594 | -3.15204 | -50.23246 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 521fab75-e075-321a-9e29-06eab5b0bf81 | -3.14867 | -50.23443 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| c238639e-6853-35c4-928f-fb2d49657497 | -3.14618 | -50.22546 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 55d97262-9995-3184-9c73-49c56a20682e | -3.14532 | -50.23149 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fbc80fef-c0f8-33d1-9fdc-f8c3855e0629 | -3.14286 | -50.22742 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| d12158b5-2f99-398a-aee4-c80f40704fc0 | -3.13195 | -50.41889 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 52b4d00e-9007-3e5d-962e-5bd939bffd89 | -3.13108 | -50.42493 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 0f091743-42f7-3b4c-ad55-4f97c04ae5b9 | -3.12736 | -50.4207 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 0aef9c0a-f698-34b2-88a7-f816f665b4ad | -3.12527 | -50.41818 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 7ae1ddf1-8f42-3adb-8f0a-6f622ed1b200 | -3.12442 | -50.4241 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| dad149ed-a197-3e72-b45c-05482bc43097 | -3.12069 | -50.41997 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 69b98d1d-6563-32e9-b557-61500a680f0d | -3.1186 | -50.41742 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| fa395943-dd67-3e13-aac2-41e5822f3fbf | -3.11404 | -50.41902 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 31a3d4ff-5e89-3974-ad11-b9cf6c25743e | -3.10635 | -50.47014 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 1b523bae-2d5b-3832-9207-777503e328e9 | -3.1046 | -50.46771 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 8027de44-44e6-333f-b882-2d72f16044a9 | -3.1006 | -50.46337 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| cc465f3a-b03b-33ea-909d-c0b2cea1e6cf | -3.09973 | -50.46915 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 68fd7805-3320-3927-a90e-a71773a4f4a6 | -3.09881 | -50.46095 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 10.6 |
-| e75d1196-fa5a-3082-b0b4-0bb4490fe2cf | -3.09798 | -50.4667 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| c7838593-6c46-3150-a09d-852c159ebf05 | -3.09397 | -50.46244 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| d637e19d-37ee-3a5f-aa04-39b4d43533f6 | -3.09218 | -50.45999 | 2024-10-06 05:33:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5a3fd118-372c-3c2a-99d8-6715b6c79139 | -2.69605 | -49.06776 | 2024-10-06 05:33:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 646111aa-e785-399f-9876-0d8bf17456fc | -2.68891 | -49.06662 | 2024-10-06 05:33:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| d50fea39-7947-3847-9e84-6a38783fd477 | -3.50409 | -50.26705 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 234935f3-707a-3f87-a3bf-843d29cefd13 | -3.50322 | -50.27305 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 86be92b6-476c-3ad3-b39a-59bcbc79991a | -3.49648 | -50.27213 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 70e0ac3e-048c-3979-9104-2c25028c92f9 | -3.42604 | -50.38131 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 5c770813-0512-35f8-89a9-76d235b3d30b | -3.42545 | -50.13346 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 19ce38bf-1dd7-3712-9220-5d07aba15a52 | -3.42522 | -50.38712 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| dff83aa1-4ab5-3cb3-a4bb-c8544865620c | -3.4246 | -50.13932 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ac16b647-a095-3609-abc4-b643ddd382c2 | -3.42336 | -50.38131 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 3217652c-7cf7-3567-a4fe-63d5e41acda6 | -3.42249 | -50.38712 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| 4e333b73-2dd2-3093-94cf-a751465c5516 | -3.41937 | -50.38023 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 995e7cee-090b-3e27-8d52-486790d7f0fa | -3.41855 | -50.38604 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 10e9c334-db4d-3c7d-8106-b516b18b49f5 | -3.4127 | -50.37917 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b9910dd3-6f28-352c-b255-f85e3650aa1e | -3.41002 | -50.37917 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| ede20088-3308-37ef-b62f-3781141297a6 | -3.40918 | -50.38487 | 2024-10-06 05:33:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 0bb674f9-28bd-39cc-ae7d-2c11a21ebc57 | -3.32081 | -49.13721 | 2024-10-06 05:33:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 70f0fd75-4925-3db7-a0a0-4950865168a1 | -19.15859 | -50.64292 | 2024-10-07 05:21:00 | NPP-375D | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| d0abc369-9192-350c-8a5a-6f7d344847d7 | -21.20159 | -50.97734 | 2024-10-07 05:21:00 | NPP-375D | VALPARAÍSO | SÃO PAULO | Brasil | 3556305 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 0c92498a-4e25-34fc-8d34-66fa2364a497 | -21.20118 | -50.98186 | 2024-10-07 05:21:00 | NPP-375D | VALPARAÍSO | SÃO PAULO | Brasil | 3556305 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 114915b0-6b43-3d14-8584-54d989776be9 | -19.39398 | -51.69038 | 2024-10-07 05:21:00 | NPP-375D | PARANAÍBA | MATO GROSSO DO SUL | Brasil | 5006309 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 298df2a5-e7ea-32ca-a500-d88ea0405210 | -22.71684 | -53.22517 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| c5487cd2-d6f5-3cb2-b26e-0b261db2db27 | -22.7165 | -53.2286 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 299d257d-cebd-3f26-a456-f0e5530ccb5e | -22.71615 | -53.23203 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 296e152d-1a0a-3d04-9d3c-441a28f6d7c2 | -22.71611 | -53.22648 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 79e06583-be82-327a-86e3-24a93433d35e | -22.71579 | -53.22992 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 6ba9483a-4a72-3a58-aa1b-2da80a729082 | -22.71546 | -53.23335 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 9346ee34-038d-3bbf-a2ec-602d74445bdb | -22.71157 | -53.22455 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 375d3dc4-941e-3b3d-93ff-2fff6f615e6a | -22.71123 | -53.22799 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 904d461f-edcb-3773-8aa4-7983d37bf074 | -22.71088 | -53.23142 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| c5d7da7a-3845-33be-8a85-3db1a2b71ab8 | -22.71084 | -53.22585 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 8ce87c38-88ec-3cef-88b7-769595dda7a4 | -22.71052 | -53.22929 | 2024-10-07 05:21:00 | NPP-375D | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
+| 5e676903-564b-3833-a4cc-0d60fa011346 | -17.84378 | -53.78874 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| dfe40fb2-555d-366a-971d-c33edb7c0ba0 | -17.83952 | -53.78373 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 43629feb-5743-3a21-828e-9a894a45c4eb | -17.83888 | -53.78915 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 77cd94b7-6c9e-3727-8627-2fccf46dc5b9 | -17.83536 | -53.77792 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| ece51023-cc40-3bf3-bbed-17e31edf6e38 | -17.83405 | -53.78906 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| fac7fccc-287f-3d73-b640-7902ce257b61 | -17.8313 | -53.7712 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| ba82e377-67d8-3273-bc9b-751bf5574334 | -17.82648 | -53.77094 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 1bb3a225-060b-343f-85e5-c3667aa4ba6c | -17.81203 | -53.77009 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| f683191f-ba8f-3c43-81f3-17b79afb0679 | -17.79595 | -53.78339 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 4c3514a5-3e74-3d32-8287-023176ce9d05 | -17.778 | -53.77092 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 09809428-cb2f-39e4-bab2-91854628ab9d | -17.77741 | -53.77612 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 4fb9f932-2ee8-32bf-af7a-c561e8a245fb | -17.77265 | -53.77534 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 14cbefc4-d8fe-3b3a-8d16-48555a19eb63 | -17.82714 | -53.7653 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 5cc4b433-ce90-3656-bf84-946e0b092e92 | -17.81271 | -53.76424 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| d4b72d5e-c55b-3e66-aaa7-856e5588285c | -17.80371 | -53.75825 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 7b068376-f5f2-34c5-aaf7-fca6a060ee21 | -17.80296 | -53.76468 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 7cdd9775-1ae9-3fa7-a18d-b56133684729 | -17.79882 | -53.75856 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| a37b4866-c3d9-37d3-b3a7-ebe2ba6caa04 | -17.78932 | -53.75675 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 5ae6bd1d-5c14-37ce-ab6a-13ae74df6685 | -17.78877 | -53.76129 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 5755e71d-daf6-3558-bbf5-c2d2234a4b97 | -17.78394 | -53.76138 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 03abce91-2582-302b-a416-3be222ebbdad | -17.78334 | -53.76668 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 88c3c5e6-5e39-367e-89e5-6f0075d1160a | -17.77919 | -53.76052 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| eaa86677-b938-3c9e-9f93-2ceedd21712e | -17.7786 | -53.76571 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| ceaed2af-7595-3f34-8c9d-04a2c719924b | -17.77441 | -53.7599 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 3bced79d-fda7-3534-b4f7-7f0d44154345 | -18.46927 | -53.51591 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 1493ff9f-6f9d-3ccc-a9a4-61f45dd180c7 | -18.46499 | -53.50969 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 3cd5916d-8aac-3d50-88af-0a0c2864f948 | -18.4644 | -53.51498 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 7f9ecfac-f06f-3ef7-b87b-5eccae72cb33 | -18.46381 | -53.52023 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 294deb87-6ab6-34ac-b597-1e53eb7bb98a | -18.46131 | -53.4981 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 8797cd3b-2971-3c99-b0ce-7d335b6f460b | -18.46072 | -53.50335 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| f353a239-b550-3497-8653-01a19f1e4cae | -18.46013 | -53.50866 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 7ceacff3-fd1e-37a8-88aa-d41f71d52114 | -18.45954 | -53.49582 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| c4b8ef37-125b-3aab-9961-1874a3d621c5 | -18.45953 | -53.51403 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 8402e386-e3c9-3195-8c02-f69ce425a2bc | -18.45893 | -53.51944 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| c535409e-ba1a-3be5-8648-7b43d85b9fca | -18.45893 | -53.50101 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| d76ade75-870a-31c3-a5de-7c5ecece13a3 | -18.45831 | -53.50623 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| c9e10bbf-c0e3-3a7d-9bcb-3b624770c28f | -18.45767 | -53.51159 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| ae4c4f8f-cecb-344e-8efc-5713db530972 | -18.45703 | -53.51702 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 7957166f-2ffa-355f-af34-0bf751b77f04 | -18.45642 | -53.49734 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 59defd70-1d93-3010-a2f9-342994174d66 | -18.45585 | -53.50238 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| 0a0463d4-1a05-3318-9b98-a94dbf45ee1b | -18.45527 | -53.50764 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| f5245e8d-e96d-361b-a5d5-3132e95d2d91 | -18.45466 | -53.51309 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 6ec3fa49-9f7b-30eb-a155-428a49444f73 | -18.45464 | -53.49514 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 2cb085a0-071c-367b-9de8-60690341602e | -18.45405 | -53.50019 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 2964e825-b51e-3383-9980-be81cc336ee9 | -18.45404 | -53.51865 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 1a637e77-c0f7-3ed8-a629-91ba58d22433 | -18.45345 | -53.50527 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 16bf6fa0-2dd4-3be0-946b-79ac7593eacb | -18.4528 | -53.51073 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 95edaf30-1d59-3850-83e7-c4afbe5931d4 | -18.45214 | -53.51631 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 2c174a07-2e70-30e5-8d65-12aecb38d41c | -18.45151 | -53.49669 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 23f96df5-955e-3d8d-b0ef-5550ef6f1f87 | -18.45096 | -53.50167 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| a87307d1-173d-3917-8524-183d620badaf | -18.45037 | -53.50694 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| 9e2f18d2-11c7-3c81-a5a9-ae44053b0a51 | -18.44914 | -53.49959 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 31b6b19e-1eae-387e-864e-2c289d77051c | -18.44854 | -53.50466 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 177076e0-babb-3855-9229-d2454a6ca8b4 | -18.44547 | -53.50632 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c4f700d8-fb1b-32a8-9fba-e74cfd6f5e9e | -18.44364 | -53.504 | 2024-10-07 05:21:00 | NPP-375D | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 88a6b623-9852-3424-8136-6f4c7680d7dd | -17.83835 | -53.79362 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 7a67e2bc-254f-3c67-888e-a28db09e81dc | -17.83778 | -53.79846 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 978e6c03-8cfe-3f39-8069-08bb37ffdef3 | -17.83355 | -53.7933 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 96d81407-9107-358a-b2fc-71f2b3e0599e | -17.833 | -53.79794 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| a44b71a2-6b86-32e6-a88c-a028139ab555 | -17.82875 | -53.7929 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 1078582c-b74b-3d9b-bb93-f2534fd4e17c | -17.82821 | -53.79746 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 86c361d9-2dea-39bb-9233-6337ca6bb174 | -17.79838 | -53.80421 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| f93ded42-519d-3253-8e07-77346effd37e | -17.79539 | -53.78827 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| f079c01a-f2dd-34b3-81bd-52b6cbd85bd9 | -17.7942 | -53.79855 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| e5698afc-0aaa-38f5-8ac2-e252e2683770 | -17.79361 | -53.8036 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| a65184df-6e5c-3e08-8f88-73b72624d91c | -17.79302 | -53.80873 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 663e89b9-68d6-3cbc-9f12-f58c159fb384 | -17.79242 | -53.81393 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 7a832657-22df-32a8-ae85-c3664ca20780 | -17.7911 | -53.78351 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 4c7e2029-2816-3695-b15f-63448f22422f | -17.79051 | -53.78863 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| e10a1949-9f26-390f-9df0-e89004eb0a80 | -17.78994 | -53.7935 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| d12525e2-9a4f-362c-b351-2905842f5b34 | -17.78939 | -53.79832 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 0b304214-251a-3447-81a2-1d267c5bd8d5 | -17.78883 | -53.80311 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 6d17872a-3c47-3e20-aad2-0724efd37314 | -17.78825 | -53.80816 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| c0868ce3-2666-3125-97ea-c46a4a4fcab5 | -17.78765 | -53.81334 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| e83db8a2-babf-3455-a879-974a886ab0b3 | -17.78705 | -53.81855 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| b61bba34-d841-3c4c-b985-e9f546d39874 | -17.78514 | -53.79321 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| a5378fbd-591b-3e83-9558-e878c17a2456 | -17.7846 | -53.79791 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 9c3edceb-1b21-38f3-9542-fd65d6900832 | -17.78443 | -53.79685 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 7fcd8145-c93d-383e-ace4-31877fe85ee9 | -17.78404 | -53.80272 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 98265305-175f-33e2-bd8c-8d48aa7b8898 | -17.78385 | -53.80164 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 932926ae-25fe-373c-93f1-d536e12f0120 | -17.78347 | -53.80772 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 44cf42c0-1db5-3411-a5c6-87d51f82d858 | -17.78325 | -53.80658 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 2186738a-b0cf-3f90-b684-80234e7dc435 | -17.78289 | -53.81279 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| a1fda51c-9a43-3216-bf3b-7bd26bd61fc2 | -17.78263 | -53.81161 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 5fde4395-8934-3d58-b263-cdf85de41e37 | -17.78229 | -53.81798 | 2024-10-07 05:21:00 | NPP-375D | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
 
 
 [Clique aqui para ver as próximas entradas](README129.md)

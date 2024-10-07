@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4bba4b7e-3321-39b3-bf1b-6171000cf16c | -13.02951 | -59.86614 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b1e627a4-2475-3f5c-b5d3-b6089dd24071 | -13.02837 | -59.87328 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 61c393de-fed1-3bcc-a08d-11e52be9f120 | -13.02561 | -59.86916 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 348bf30b-5847-3a4e-8cc5-7c2e94407837 | -13.00713 | -59.89918 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 54cd43a2-fded-3f05-a3b1-43e10be960eb | -12.6635 | -59.81256 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 189aecab-f107-3a0b-804a-1544a04f66e9 | -12.66293 | -59.81613 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 7b504b8b-5252-38a0-9932-1540971a91b5 | -12.66236 | -59.81969 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 121a2f94-ed36-385c-a539-d9e4bc75736a | -12.66132 | -59.80486 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 531ea705-446a-34b2-9e8a-8f970822f260 | -12.66075 | -59.80843 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 85592423-c7cd-361e-b076-80593d37687a | -12.65799 | -59.80432 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 92f815a3-092e-3106-89be-4ee4af20b82f | -12.64905 | -59.81741 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8f3b3f8d-1715-3e72-96fa-3aa54340e3ab | -12.64629 | -59.81331 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 37eb7435-af91-398c-87d0-6a07a1cd6eda | -12.64572 | -59.81686 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 2835d819-7427-3ee5-9144-621a14fb78ee | -14.18003 | -60.26688 | 2024-10-06 05:14:00 | NOAA-21 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 052d3b3c-0de8-3a68-b3b6-bd0d9295db9d | -13.77286 | -60.07185 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| bc0acc93-8fc0-3a7f-a199-e2ca2f64b404 | -13.77068 | -60.06409 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 080cdb07-bfd6-361f-b0e0-11a4fa702342 | -13.77011 | -60.06769 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d38f9b47-27aa-3133-84e5-518930f572e9 | -13.76735 | -60.06356 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a83c6f33-fb7e-30ee-bd17-6459a88919e9 | -13.76677 | -60.06716 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| a218eaf4-08bb-3a2f-8e7f-79148017953a | -15.17892 | -59.44724 | 2024-10-06 05:14:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4d934ee3-19ff-3cd9-936e-0c5d2ed93f2e | -12.27706 | -60.47854 | 2024-10-06 05:14:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9ff0949e-aca3-323c-8eea-fe14bd0b4c1a | -12.87938 | -60.51759 | 2024-10-06 05:14:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 55bab268-f0eb-3891-9e14-00437b7b31e8 | -12.87659 | -60.5134 | 2024-10-06 05:14:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 872df150-2380-3d78-98d0-0f86ff1eaf9d | -12.876 | -60.51705 | 2024-10-06 05:14:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 14.9 |
-| 6d6dd844-7f39-37db-b057-a14dc160cb63 | -13.42735 | -61.9215 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| d973e88c-cce0-3005-af6a-b6484ad69ffc | -13.41177 | -61.92726 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 93b440b1-e579-34b7-8080-3b913addfb34 | -13.41107 | -61.93139 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 1bc482a5-15dd-32e6-bfc9-0a173771dcc2 | -13.40542 | -61.94315 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ea002b7d-40b9-3c45-91a9-1b564d92660f | -13.40403 | -61.9514 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 40963fd4-5cba-32fa-ab64-bdc2bafcd286 | -13.40117 | -61.94665 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a61d0f67-38b5-3ef4-afd1-47c6e6e89c0e | -13.39977 | -61.95493 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 225fdc84-e693-34e2-915b-97ed5751fad2 | -13.39407 | -61.9454 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| ed7e6852-789e-38bc-be6a-5ef4aa07e98e | -13.39336 | -61.94955 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 28892406-6da3-36f9-a1e1-92bc9d3b5e5c | -13.38981 | -61.94893 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 36577c92-21b9-3a17-81a0-23cc0ed47dfc | -13.38915 | -61.97438 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| e06ac404-92aa-33a4-ae83-d588c23ee3ed | -13.3884 | -61.95721 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 81a77846-ea4e-3b07-aded-0dc1f316cd5f | -13.3877 | -61.96135 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 423da36d-5d4c-3c12-b88a-125bdb859ea3 | -13.38414 | -61.96072 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 16.4 |
-| cd9439ea-189e-3376-b2d7-a0c99addf247 | -13.38059 | -61.9601 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 16.4 |
-| 708e776c-54eb-341f-82b8-60d0a78984d7 | -12.68988 | -60.83689 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c87e4d8b-904a-3459-ab29-8588c3efbb3d | -12.68647 | -60.83631 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bd3077d0-2e5a-3b9b-8fe3-2f1c4b97e0e3 | -12.68583 | -60.84011 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 339c7277-f90d-3beb-a992-128598abc9cb | -12.56281 | -60.66795 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1b64a8fd-7d79-3d10-b0a6-3b2e644c2cf5 | -12.5594 | -60.66737 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 06a1c2ca-4eaf-3a6a-acf4-120708488151 | -12.55879 | -60.6711 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 30e4a219-8323-3223-b80c-b24b86813c0a | -12.55818 | -60.67485 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d15fbf41-33a1-32f0-ac67-201008d4423c | -12.55757 | -60.6786 | 2024-10-06 05:14:00 | NOAA-21 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| fe40db57-eeda-393f-a398-b4baf0ec0838 | -13.73525 | -60.65843 | 2024-10-06 05:14:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 33e15a68-8a93-32af-b433-3bf2ecf8dd6e | -13.28158 | -60.63874 | 2024-10-06 05:14:00 | NOAA-21 | COLORADO DO OESTE | RONDÔNIA | Brasil | 1100064 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 435c80a6-1ba9-3a01-b5a3-5943580a8d6b | -13.42805 | -61.91737 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 1f7b4a52-09f1-34fd-bc0a-c0020b69ffed | -13.42666 | -61.92562 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 82f7af38-7667-3407-a434-38b43a3f7551 | -13.40828 | -61.9479 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 9f34a37d-bbca-3bbd-9db9-57ba226e4e22 | -13.40758 | -61.95203 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 181630b5-12e5-3192-b5af-3131f5a15768 | -13.40473 | -61.94727 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2c827fdc-1a06-3154-9411-13c09a4dc3b3 | -13.40333 | -61.95555 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 29757ea9-f1b2-34ce-93d4-7b7d79a046d5 | -13.39762 | -61.94603 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0677c04f-794a-3549-86e3-12bd450cc7a9 | -13.39051 | -61.94479 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 25765ed4-cc48-37e4-ae42-db3bbcc33ca2 | -13.38911 | -61.95307 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 69bcb727-31e6-3658-9349-b605c7d76494 | -13.38555 | -61.95244 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 18.1 |
-| 40292591-6e45-381e-af76-a21181c45c4d | -13.38485 | -61.95658 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 16.4 |
-| f1776040-7265-3fc5-8437-485b79310f53 | -13.38129 | -61.95596 | 2024-10-06 05:14:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 16.4 |
-| f959136b-496e-3710-87f6-c7b878124217 | -11.90957 | -62.0944 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0f99ad24-2d4e-39a2-b2dd-0e2ca9aaa55d | -11.79228 | -62.94846 | 2024-10-06 05:14:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c12e0d9d-91ee-3a21-bd99-0f731ac970aa | -11.79144 | -62.95329 | 2024-10-06 05:14:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| c2233213-9284-3944-9d96-090a8cd3fab9 | -11.78846 | -62.94776 | 2024-10-06 05:14:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 57825637-7156-37ec-b8a9-b58426576bfe | -12.9864 | -62.68242 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 469f525b-69d4-3088-b0bb-fb2029e79012 | -12.9827 | -62.68176 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 30cb286e-cc95-3f9b-87c9-b8dd91c2dc1e | -12.97822 | -62.68563 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| bab00ea0-7aee-3933-84bc-f28f4e7bc8e1 | -12.97451 | -62.68496 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 9722042a-e6ba-3677-a170-3edcb2b15b15 | -12.97357 | -62.71282 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 7267a88b-80aa-3b40-97e0-2ce3d0543ffe | -12.96063 | -62.65456 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a6f03c0b-1313-326a-b1d5-65b830e51657 | -12.9424 | -62.47813 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 6049bd06-d0a4-3ce1-95c9-b2aa962794a8 | -12.94204 | -62.47651 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| 2678e657-d022-37a4-8206-26c157598dbc | -12.94127 | -62.48093 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| c879d0c6-e58e-395c-a8d5-1f9927bcd29b | -12.93948 | -62.47306 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 4037aef7-7982-3fcd-870f-ec2631caadc7 | -12.93873 | -62.47749 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 34290a32-9324-3721-9b94-3b62fbece43b | -12.93799 | -62.48192 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| e0365a5d-bca4-3b71-96db-8bc5d7fd17b6 | -12.9376 | -62.48029 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 78c268ae-3604-34e4-9147-822d9ba5ac0f | -12.93358 | -62.48569 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3612dfae-79b5-3e4f-82c2-54cdff69e157 | -12.93316 | -62.48406 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 825a5c38-75d7-3e2a-828f-f21bf8b2a0a5 | -12.9299 | -62.48504 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| ab743253-f257-34ce-96a8-5fab94141d7c | -12.91163 | -62.45903 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a10ee7e5-4874-3e1d-8a8c-4f667c4c1d99 | -12.98347 | -62.67725 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 8ab91c64-0fb5-34c1-a5e6-5d06875f3d74 | -12.97899 | -62.6811 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| acb8b4fd-def0-3443-b447-a9653bca4d9d | -12.97374 | -62.68948 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| c35f986b-28aa-34aa-97fd-bc04c2adbafe | -12.95985 | -62.65908 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 100b10d3-f527-3040-8bac-186af1163cda | -12.94315 | -62.47371 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 860d8bd3-47be-326b-8744-20e24341ac4e | -12.94281 | -62.4721 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| dec1ca4f-80b7-3ef9-818e-adf3308db658 | -12.93432 | -62.48127 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c6bb3af2-dd57-354e-b4bb-6c3aadd2980d | -12.92767 | -62.49833 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 35ad4078-0dbc-36ff-b0fa-c61c8881953c | -12.92693 | -62.50274 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8bf2f3b2-945a-36c8-9c8f-f4aa1bb23952 | -12.88306 | -62.4494 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e71341b1-352a-3d45-a30b-858dde3c0722 | -12.87939 | -62.44875 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 017b3a80-6cfd-3d06-bf1f-7ce9efcc8445 | -12.99137 | -62.72068 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3df0caef-8c42-3309-9b17-883d09bf0333 | -12.88488 | -62.78181 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0fe272f0-b4dd-3f04-bacd-044360ecceed | -12.88336 | -62.78343 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c03123f9-51bd-3270-b8de-588402fcb739 | -12.88115 | -62.78117 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 73d6dacc-e748-37b1-a5a1-c47a01925f23 | -12.87962 | -62.78278 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f6c890ce-32d7-3647-8f2d-daf296386e82 | -12.87511 | -62.78671 | 2024-10-06 05:14:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 32e6a9fd-40ac-3570-8008-3ddacd03203d | -12.87059 | -62.79065 | 2024-10-06 05:14:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 26440843-742f-3bd3-b1d7-9e9cf4aeefe5 | -21.59264 | -47.72641 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 8a12d143-5a02-34ab-91fd-29f8f9e3feee | -21.59233 | -47.71415 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 21d0dd04-3ec9-3edb-a38f-9c1281eafedc | -21.5922 | -47.73298 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.8 |
+| ad1bce64-c5e3-3319-ba30-88ad0f55bd81 | -21.59179 | -47.95389 | 2024-10-07 05:21:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 58212eaf-ae5c-3a86-8183-8c8c0062112b | -21.59178 | -47.72184 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 7b9f521e-ab10-3740-8db7-36f6d5083b89 | -21.59175 | -47.73987 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.8 |
+| c4e95195-768d-3858-9b24-ee8fd28c1866 | -21.59132 | -47.72815 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| d668dcd7-6794-3b34-9baa-c72a602cf6b5 | -21.5913 | -47.96122 | 2024-10-07 05:21:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 0be01b01-5e07-3c3d-8c25-ef11ca34a616 | -21.59084 | -47.73485 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| 7c06089d-cb04-3b6e-9a78-e94b27f04a77 | -21.58968 | -47.94818 | 2024-10-07 05:21:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 646ad6ad-e9e8-313d-8fe0-d9b0d919b34c | -21.58913 | -47.9555 | 2024-10-07 05:21:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| d8277dc0-1350-3f20-97e1-bd6cc93709c2 | -21.58577 | -47.72041 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 52a49e5b-9884-3dfa-a85b-825a6b7f0d3d | -21.58538 | -47.72641 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 17097231-7bbd-3f7d-bfb0-2d98b34497e8 | -21.58501 | -47.7148 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| cfa2dad1-7e07-3949-ad24-cccfc167a8de | -21.58496 | -47.73273 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.8 |
+| 6568f543-6f81-31af-a462-8a2282c3dc7d | -21.58465 | -47.95345 | 2024-10-07 05:21:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 8d5ea75b-126d-3e67-b59c-c87d25f43e19 | -21.58451 | -47.73957 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 19.8 |
+| 17b0b84f-564a-3160-adc6-14f1128feeb4 | -21.58449 | -47.72215 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 55380ebd-426f-3c6a-a5ca-72951ef011eb | -21.58406 | -47.72812 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| 8049eaf7-f8b5-3ad5-a060-858bed62e1fc | -21.58359 | -47.73462 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| 93889843-0452-352c-9ba1-358d67ddc337 | -21.5831 | -47.74144 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 16.7 |
+| 2c3027d1-d005-3eaa-975d-de52f722fc70 | -21.58261 | -47.74832 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 16.7 |
+| 47820bd6-3c6c-35d8-97e1-9a8df62b30c9 | -21.57853 | -47.72012 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 2559787f-5700-3eb2-a980-bc25f2134b17 | -21.57812 | -47.72636 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d88bc0df-e219-3595-9141-d8886093a2b0 | -21.57771 | -47.73254 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 476b933d-43f2-39b0-b972-668851722e04 | -21.57729 | -47.73896 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| d7945226-d9c0-350e-a908-8ce84705d874 | -21.57723 | -47.72202 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| ce9c5dc7-4399-34ce-a23a-8cc0a1ad5586 | -21.57684 | -47.74583 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| effe6332-ff61-3711-90a6-8af908258e57 | -21.5768 | -47.7281 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 970eb91e-0242-36bc-a264-af127e9c99b9 | -21.57639 | -47.75271 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 41af2b99-c9e0-359b-9f35-9c754cefe87a | -21.57636 | -47.73426 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 2f02cdaa-1029-3096-b2cb-cae48442c6ab | -21.5759 | -47.74075 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 3ee7f368-c62f-3ba9-b70f-e7fd59df5e64 | -21.5754 | -47.74765 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 8b8d9de3-910f-356d-a269-ca1547320cbd | -21.57491 | -47.75456 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 6d91e850-c444-36c4-b60f-8c94060a682d | -21.57087 | -47.72615 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| e07b6698-f38c-36c3-9094-20802da4e016 | -21.57048 | -47.73214 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| aafc02ec-83ec-3ce3-8c9c-965aeaa90d1a | -21.57009 | -47.73805 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| fafc92a0-d6dd-36af-bb95-af7f1c099358 | -21.57002 | -47.72118 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| df3b62a4-c082-32cf-a2b2-f3407e06de39 | -21.56964 | -47.74491 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 45b29b98-e3ca-33e5-a360-1a84a4ff4ffb | -21.56956 | -47.72771 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 69f24a04-89cd-3245-a9c8-78fb63f80e77 | -21.56919 | -47.75192 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| a0790974-a418-3be2-81ea-0b64fa4586b2 | -21.56914 | -47.73369 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| ceb31ebe-e621-31a2-9c8a-da6060f25f3d | -21.56872 | -47.75916 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 0ca1b07e-c746-389d-b15a-ced1ef8d0405 | -21.5687 | -47.73994 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 1c9dad79-e440-3785-901e-64a24ec52fad | -21.56824 | -47.76654 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 5517f7f8-1995-3c7a-ac3a-416c0da71c3d | -21.56821 | -47.74678 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| e857156b-d290-32f8-b4eb-4fa956264d4b | -21.5677 | -47.75391 | 2024-10-07 05:21:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 43b8fd0f-866a-3011-91c8-10038d43ffd5 | -21.32525 | -47.60986 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| bf96588e-4284-3acc-8977-081f1181adb9 | -21.32003 | -47.60485 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| f3f247ed-026e-39dd-9179-ef044b531b10 | -21.31959 | -47.61126 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 765aa0d1-f3b3-379f-9304-44f7380f6f6a | -21.3184 | -47.60387 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| e6ac2800-8979-316e-b8f0-e3b2a5dad71e | -21.31793 | -47.61018 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| ee5df1d2-7946-31fa-a258-723d1e01ae58 | -21.31268 | -47.60561 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| aaa9777d-8214-3dcb-9493-d3ea798cae7c | -21.3123 | -47.61119 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 32454eb4-2be5-3059-a86c-d846777b29ae | -21.31062 | -47.61032 | 2024-10-07 05:21:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 7d71838f-37ec-33bb-a033-1f5b0128d34a | -21.28202 | -47.39694 | 2024-10-07 05:21:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 8a875902-1ebb-3527-8441-66fab0d1e0f7 | -21.27466 | -47.39676 | 2024-10-07 05:21:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| b5a4879d-5b0d-3759-bdff-4194f156496d | -21.08696 | -47.23323 | 2024-10-07 05:21:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 13cab2ba-7f3a-3b57-8109-ed78588cc73a | -21.08688 | -47.23129 | 2024-10-07 05:21:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 58e53fdb-8ccf-3e9a-a476-197f2503d288 | -21.08655 | -47.23904 | 2024-10-07 05:21:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| ff679036-33b3-3562-88c6-8823c4a67472 | -21.08652 | -47.23685 | 2024-10-07 05:21:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 450575fb-f639-39cb-90a7-5a41ac5bf9f6 | -21.07956 | -47.23292 | 2024-10-07 05:21:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 61581e91-ad66-3595-8092-9738c3311ac2 | -21.07913 | -47.23899 | 2024-10-07 05:21:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 521736f7-b9f0-3ccf-949c-ffcb8c9af1ca | -21.07162 | -47.24025 | 2024-10-07 05:21:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| e5302429-a778-3d74-8377-463328d60a2f | -21.06417 | -47.2407 | 2024-10-07 05:21:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| fd4585d6-1577-3303-a5f4-a523316b1d4c | -18.9098 | -48.19056 | 2024-10-07 05:21:00 | NPP-375D | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 17c2dc6e-be0e-3c49-96c0-83491401a9b6 | -18.90926 | -48.19706 | 2024-10-07 05:21:00 | NPP-375D | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 91858434-55fe-30e3-9cc8-9ab7dda46153 | -18.64375 | -48.66963 | 2024-10-07 05:21:00 | NPP-375D | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 22059ffb-4df9-35b3-87e3-11678fe92152 | -18.64019 | -48.66831 | 2024-10-07 05:21:00 | NPP-375D | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 9fbb49f7-98ba-313e-9ebd-1d37f38023e6 | -18.63709 | -48.66889 | 2024-10-07 05:21:00 | NPP-375D | TUPACIGUARA | MINAS GERAIS | Brasil | 3169604 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 425a8d4e-c2e6-36a7-b75b-1159b3c1e20e | -20.75763 | -49.47612 | 2024-10-07 05:21:00 | NPP-375D | MIRASSOL | SÃO PAULO | Brasil | 3530300 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| c6fc39ef-ce2e-36d2-9568-db78ff31511f | -20.75718 | -49.48169 | 2024-10-07 05:21:00 | NPP-375D | MIRASSOL | SÃO PAULO | Brasil | 3530300 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| a833dbe3-4b90-31aa-8982-5a8f37cc9094 | -20.75678 | -49.48438 | 2024-10-07 05:21:00 | NPP-375D | MIRASSOL | SÃO PAULO | Brasil | 3530300 | 35 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| c3095c23-0c08-3c9e-a4cf-03f09ce21869 | -20.59107 | -48.50727 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 01b67123-b477-3e0e-9143-845d86f83624 | -20.59006 | -48.508 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 36a8647e-bc82-3b4c-9274-124441dd09ac | -20.58472 | -48.49985 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 7e53060d-2f9d-3296-a0d3-7cccb5b20c22 | -20.58422 | -48.50662 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| f05b3ff6-d9b9-3f8f-92da-deccf482042e | -20.58375 | -48.50067 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| ad5bdfbb-f27f-3c5c-a4ce-e73e3c760571 | -20.58371 | -48.51346 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| d4a540dc-8183-38ad-9ae7-caf7c91ffe86 | -20.58319 | -48.5075 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 9b142e39-f74c-3719-b356-5e8d7137d776 | -20.57634 | -48.50686 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 066dc173-c062-3a41-a5c7-ae5e4d5f3bcd | -20.57582 | -48.51343 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 16.6 |
+| 1bd7f865-5aa6-3214-af51-146c59a2985f | -20.57532 | -48.51966 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 16.6 |
+| dbc3e55e-3f54-3440-a846-10b5ef8a4fd0 | -20.569 | -48.5123 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 35a6250b-b631-3cbb-bbe6-0fa98d20e441 | -20.56849 | -48.51876 | 2024-10-07 05:21:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 3b7eab7d-86dc-3be2-9ed2-82bd53873ed5 | -20.35059 | -48.80468 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 25.9 |
+| 7334e2e4-2591-361c-ae6e-6490dfb44415 | -20.35007 | -48.81089 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.2 |
+| 8024faab-9e68-396b-bd94-d4c2a181c94f | -20.34385 | -48.80416 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 25.9 |
+| aba24af5-0ee3-3468-8704-494ceff502a0 | -20.34334 | -48.81034 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.2 |
+| b7918c78-b79d-3a0e-a2b3-37bf480c222c | -20.34284 | -48.81642 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.2 |
+| 5a159813-a3ae-3eac-a584-2d1db483fc71 | -20.18951 | -48.7272 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 0fd046c5-5ae3-3751-9558-4f7a50a4e29e | -20.18545 | -48.72627 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 7c1863de-e24c-3810-a850-be535009784c | -20.18495 | -48.73259 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 81f7c306-fc93-3b9a-9bd7-aff69aa8cdd9 | -20.18278 | -48.72646 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| d36c8037-98f4-3279-ad95-e7eabd21e0f2 | -20.18223 | -48.73281 | 2024-10-07 05:21:00 | NPP-375D | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 7c887b19-473a-3c80-8272-dac3528bd425 | -23.03648 | -49.8466 | 2024-10-07 05:21:00 | NPP-375D | OURINHOS | SÃO PAULO | Brasil | 3534708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 1e90489c-ffaf-3143-b422-ef812389d52f | -23.03605 | -49.85237 | 2024-10-07 05:21:00 | NPP-375D | OURINHOS | SÃO PAULO | Brasil | 3534708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 2dbfbb32-5198-3650-bcce-41905f4976fd | -19.16536 | -50.63482 | 2024-10-07 05:21:00 | NPP-375D | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 1613bdd8-a298-344e-be4b-064630328f6f | -19.16454 | -50.64371 | 2024-10-07 05:21:00 | NPP-375D | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 5889fcd8-600b-3f40-8c2e-5e530cc6fba5 | -19.15942 | -50.63395 | 2024-10-07 05:21:00 | NPP-375D | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README128.md)
