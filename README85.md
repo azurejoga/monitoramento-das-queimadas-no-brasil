@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4ff10170-e4e6-3c33-821b-67534a8f060c | -11.24956 | -51.38288 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a01ccde4-145f-3e11-b83b-48ca40097c87 | -11.24839 | -51.36682 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| d039d906-3721-36a9-8f29-63395bcea317 | -11.24781 | -51.3707 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 06f674bf-1909-3d58-9fbe-4ef8da4dc808 | -11.24724 | -51.37458 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 83d06f78-8523-3f10-9112-0e39de783de3 | -11.24667 | -51.37846 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| bfa400e1-ee46-3142-97c1-e7ad74892b2d | -11.24549 | -51.3624 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 101f5dbc-1dee-3d5b-802f-a38cdd4fbf66 | -11.24492 | -51.36629 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 53c8bfed-8c85-3350-96fd-19d5144986d6 | -11.24435 | -51.37017 | 2024-10-07 04:53:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 8f4eb40a-a49c-3583-ab8d-64192601b1d9 | -11.20555 | -51.88905 | 2024-10-07 04:53:00 | NOAA-21 | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| a6c18a03-cf84-33a9-9911-e1c5f065ad41 | -11.20215 | -51.88852 | 2024-10-07 04:53:00 | NOAA-21 | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 7b5dea7c-a9b8-3770-bbd5-95608a9b10f0 | -11.19875 | -51.88797 | 2024-10-07 04:53:00 | NOAA-21 | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| c9c6a7f5-06ed-3073-a6a8-26c612a7a623 | -15.01648 | -52.06123 | 2024-10-07 04:53:00 | NOAA-21 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 2c640292-923e-3ec1-9875-cdf1d3266f6f | -15.01298 | -52.06069 | 2024-10-07 04:53:00 | NOAA-21 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 34839193-6030-337a-85e1-1c3788786262 | -15.0095 | -52.06014 | 2024-10-07 04:53:00 | NOAA-21 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 8b6007b7-4108-32fc-a6f2-875b79babdff | -16.25217 | -52.39328 | 2024-10-07 04:53:00 | NOAA-21 | BALIZA | GOIÁS | Brasil | 5203104 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| beb319a3-3dc8-3d9e-8cf7-34e314df9674 | -15.91973 | -52.24529 | 2024-10-07 04:53:00 | NOAA-21 | ARAGARÇAS | GOIÁS | Brasil | 5201702 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| f1d7e821-2a5f-386e-a246-edca8bc47e6a | -10.92469 | -52.39674 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 31623477-83ea-3c64-95db-e39643123035 | -10.90804 | -52.43829 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a2de6415-2338-3857-b665-0a4001d26831 | -10.90749 | -52.44189 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a032d737-0064-34c8-ab9d-bbe87f051f4d | -10.90694 | -52.44549 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c54a51b7-2531-3ce9-b3f3-b44b005facfd | -10.89341 | -52.37707 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d85c3748-534b-3bef-9198-a3b426254415 | -10.89116 | -52.36932 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c33ece4b-c6b9-3661-8aa5-fee23956da98 | -10.89061 | -52.37293 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f7e0004c-6272-3168-a71a-6c9acaa1b769 | -10.89006 | -52.37654 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1b14224b-ae5d-3c53-8d63-b70f8d4b34c8 | -10.88671 | -52.37601 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a88968ed-7ce2-3946-87f7-35312b828a09 | -10.88336 | -52.37548 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e05384fb-301c-3417-8598-84dd61b5e87e | -10.88281 | -52.37909 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f54d6b38-076a-3284-ac69-20124ced2ded | -10.87946 | -52.37857 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3381f2b7-c492-3d16-8658-e1b57a22a943 | -10.87891 | -52.38218 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3ebc2cca-7afe-3f99-a3ad-725488262a1f | -10.87837 | -52.38579 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| fcaede03-d0be-3983-a525-03c7c35108a7 | -10.87782 | -52.3894 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4c2bff60-629d-3162-aea7-c0642383a2e0 | -10.87727 | -52.39299 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8c552fcd-c9f3-35d6-93c0-b1e575f1a676 | -10.87672 | -52.39658 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 9664429d-d9ff-3ef8-ae29-3f0e949c31ac | -10.87563 | -52.40376 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 7131e714-315d-3e6b-930a-95cdf4f6daed | -10.87338 | -52.39605 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 9eec3143-f992-3270-9b49-60d78ef71c7b | -10.87283 | -52.39964 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 126c2f7b-b76c-3d35-83a0-0147a927e805 | -10.87229 | -52.40322 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2fec4bca-2ac0-3fb8-bd80-0bb94e8021a6 | -10.7702 | -52.47136 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d9bc62bd-ba71-39b1-80a7-dfbcceb12624 | -10.76686 | -52.47084 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f224cb55-21ca-37d4-8da4-fca99fc5b59a | -10.76631 | -52.47442 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 1d0f19dd-67a4-3c7c-807e-763836b8d752 | -10.76576 | -52.478 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5c18e053-9d13-333b-af5d-f61feed098b6 | -10.76242 | -52.47749 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 55dc6334-3c61-330a-b669-38cb2d4c6e98 | -10.75963 | -52.47338 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 1fe71b00-e80d-35db-a378-03a25c4a5839 | -10.75908 | -52.47697 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a8b8cc79-135e-37c2-a750-985490f2e8ec | -10.70012 | -53.0367 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8fc38d76-4442-3647-8d7c-6b0b68938a32 | -10.69681 | -53.03618 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d5de16f2-f129-39ed-895d-fe5182ae764e | -10.95703 | -52.38707 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4af964b3-7ab3-3019-89b4-e74eee5e1009 | -10.95368 | -52.38655 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f523dc64-fde0-3584-8369-4267f9e6759c | -10.95313 | -52.39016 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 38625d18-cc2d-3181-8e7d-a620e9af64fe | -10.95257 | -52.39376 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 528ae8dd-7e9b-3392-abfe-e97d4445fec7 | -10.95202 | -52.39735 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 71aeb458-1b5c-3a65-9dfd-5647cfcbd527 | -10.95089 | -52.38242 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7d5f4b72-457c-34e7-9baa-9b9c66b0dd6a | -10.95033 | -52.38604 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 27aa2758-1168-3936-a391-1860488a3366 | -10.94978 | -52.38964 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cddfc754-21cf-39a9-8873-3f25eeb836b5 | -10.94922 | -52.39324 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e409a1b0-47dc-3556-b339-cb78f06f26ea | -10.94754 | -52.3819 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a2613487-d5ac-325b-9e4e-da3e57409894 | -10.94698 | -52.38552 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 94811d9c-0394-3271-b4a6-de336c38f6e6 | -10.94643 | -52.38912 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 05492948-2af4-3149-9c58-64a7daff1b1f | -10.94363 | -52.38499 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4630c9f3-0f05-3f76-ace1-4302d97516f5 | -10.94308 | -52.38858 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| eab7778f-28e3-3174-98df-e192503d232e | -10.93918 | -52.39165 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d3096a46-b301-3730-8925-619a78757cf2 | -10.93863 | -52.39524 | 2024-10-07 04:53:00 | NOAA-21 | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 653910d3-3e02-3def-be2a-69c3d7bb6b57 | -14.81786 | -53.89448 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 81dd68e5-dba4-3906-81d4-f42671de0a6c | -14.81621 | -53.9052 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 31fd1499-1629-3a0b-8e95-843a53f338f4 | -14.81455 | -53.89393 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b35093f2-995f-36df-9f83-aa406cdad418 | -14.814 | -53.8975 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 06b94d95-25e3-3cc5-97f3-cc2e26b2247d | -14.81013 | -53.90053 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 0e59b0f7-2277-33bf-b23b-0d33354933e1 | -14.80682 | -53.89998 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 8dcecbe1-1f94-393b-b3a0-0d9bd3ca6a36 | -14.79579 | -53.92746 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 6a60eb8f-eba2-38c7-b3b2-45b282473698 | -14.79248 | -53.92691 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 11346f23-1596-3e46-8fc0-bac4e26954f2 | -14.79081 | -53.89368 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 2e286f1b-0809-3321-84d2-0467c82b40f8 | -14.78807 | -53.93351 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 14578597-919e-3f0d-8ba3-9fd555fe8b82 | -14.78586 | -53.92583 | 2024-10-07 04:53:00 | NOAA-21 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 689ef79a-6f8b-3845-81b9-89f3f07c85d1 | -15.39819 | -53.74525 | 2024-10-07 04:53:00 | NOAA-21 | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| a8f908c5-1487-3f0f-af2a-3ea9342aaaa8 | -15.3505 | -53.74488 | 2024-10-07 04:53:00 | NOAA-21 | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ef4314b5-3c7e-3a49-9516-fba1b54bf472 | -15.3494 | -53.75212 | 2024-10-07 04:53:00 | NOAA-21 | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 6f320b1b-4d24-3817-bdfd-5b8e5db8cb07 | -11.09318 | -54.0246 | 2024-10-07 04:53:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 7486ee7b-93e3-399a-ba8c-d12b18e297d7 | -11.08932 | -54.02757 | 2024-10-07 04:53:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| fbf9dc13-f8e6-3e50-b73b-45cb40c7aee6 | -11.08547 | -54.03053 | 2024-10-07 04:53:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| d3f147ab-6b10-3266-8725-5c548137bec6 | -15.70259 | -55.76918 | 2024-10-07 04:53:00 | NOAA-21 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ac3e80d7-b490-3669-a591-e9d31f425d60 | -21.70865 | -42.28836 | 2024-10-07 04:55:00 | AQUA_M-M | PIRAPETINGA | MINAS GERAIS | Brasil | 3151107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
-| 7af6fab1-37e4-3740-9af2-df1567bd7313 | -20.2655 | -42.92279 | 2024-10-07 04:55:00 | AQUA_M-M | RIO DOCE | MINAS GERAIS | Brasil | 3155009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
-| a7581a92-affa-3743-a6f9-95043574ab9c | -20.22381 | -42.89598 | 2024-10-07 04:55:00 | AQUA_M-M | RIO DOCE | MINAS GERAIS | Brasil | 3155009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 217114c6-d5cc-38b2-bb3c-720c7b8a2b13 | -19.98576 | -42.45919 | 2024-10-07 04:55:00 | AQUA_M-M | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 36.3 |
-| 8547378d-94eb-3e23-a61f-c220d869629e | -19.97688 | -42.45769 | 2024-10-07 04:55:00 | AQUA_M-M | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| 1accc1db-3aff-3271-8383-5ba4d840697d | -19.96695 | -42.45888 | 2024-10-07 04:55:00 | AQUA_M-M | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| c56a6864-8215-30f2-8f3c-ab57c9f14110 | -19.96553 | -42.46831 | 2024-10-07 04:55:00 | AQUA_M-M | RAUL SOARES | MINAS GERAIS | Brasil | 3154002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
-| c79780c9-2806-3d02-8ee7-0afb6b41e849 | -19.90411 | -42.63212 | 2024-10-07 04:55:00 | AQUA_M-M | DIONÍSIO | MINAS GERAIS | Brasil | 3121803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
-| 71a266c3-ce6a-397e-889d-1b3b7cf83e4c | -19.90267 | -42.64156 | 2024-10-07 04:55:00 | AQUA_M-M | DIONÍSIO | MINAS GERAIS | Brasil | 3121803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.7 |
-| c491a43f-ce2d-35ce-90fa-0ebd6bea4279 | -19.90122 | -42.65102 | 2024-10-07 04:55:00 | AQUA_M-M | SÃO JOSÉ DO GOIABAL | MINAS GERAIS | Brasil | 3163409 | 31 | 33 | nan | nan | nan | Mata Atlântica | 45.4 |
-| 2fc03b54-1d50-3e5a-b8aa-958c0f82e616 | -19.89977 | -42.66047 | 2024-10-07 04:55:00 | AQUA_M-M | SÃO JOSÉ DO GOIABAL | MINAS GERAIS | Brasil | 3163409 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.7 |
-| d9fd1642-687e-3bd5-8547-fae9f46ea84b | -19.89521 | -42.63062 | 2024-10-07 04:55:00 | AQUA_M-M | DIONÍSIO | MINAS GERAIS | Brasil | 3121803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.1 |
-| eb17cd7c-62b0-36a2-a707-290a771eb229 | -19.89376 | -42.64005 | 2024-10-07 04:55:00 | AQUA_M-M | DIONÍSIO | MINAS GERAIS | Brasil | 3121803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| 37c23c69-e07b-35d8-971b-2d1272afac7f | -19.89232 | -42.6495 | 2024-10-07 04:55:00 | AQUA_M-M | SÃO JOSÉ DO GOIABAL | MINAS GERAIS | Brasil | 3163409 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.2 |
-| 5b2854e6-c6d3-3726-bf8d-4cec6598c848 | -19.89087 | -42.65894 | 2024-10-07 04:55:00 | AQUA_M-M | SÃO JOSÉ DO GOIABAL | MINAS GERAIS | Brasil | 3163409 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| a305d5b5-3bdc-33ec-9c25-2d38961bc2ad | -19.8503 | -42.37563 | 2024-10-07 04:55:00 | AQUA_M-M | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 15.0 |
-| 989d3082-04f7-336a-ae03-df0a6dd9bfa1 | -19.84887 | -42.3851 | 2024-10-07 04:55:00 | AQUA_M-M | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.7 |
-| 4fbf9306-b19b-34c0-a916-a5df7daeb118 | -19.84143 | -42.37412 | 2024-10-07 04:55:00 | AQUA_M-M | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
-| d04ed6b9-452c-376b-a7b9-63e02ac404e8 | -19.83399 | -42.3632 | 2024-10-07 04:55:00 | AQUA_M-M | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
-| de97f780-3317-3174-a755-2e609c8632a0 | -19.83256 | -42.37262 | 2024-10-07 04:55:00 | AQUA_M-M | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| d104625a-f7a1-3ced-8912-ca1047a65a35 | -9.56931 | -50.23253 | 2024-10-08 04:57:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| b5990792-92b4-397d-a3f6-916e30509e6f | -10.52396 | -49.11129 | 2024-10-08 04:57:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 074d27e7-35ee-3728-914a-ed128474285c | -10.52021 | -49.10677 | 2024-10-08 04:57:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 984d8392-01cf-351f-94f7-3264331b6da5 | -10.51967 | -49.11075 | 2024-10-08 04:57:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| cc0d080a-97db-33ac-8050-9f8eef16aba4 | -12.20474 | -50.57877 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 2615fdca-36da-3dae-8e5e-9e0bf9b04343 | -12.20076 | -50.57819 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| f0514755-8b37-3bd1-8a14-9470891e7128 | -12.11137 | -50.90166 | 2024-10-08 04:57:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 5883f411-a26c-39d7-9a41-caa25bb8d22c | -12.10816 | -50.89612 | 2024-10-08 04:57:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 156c15e0-dc15-36ae-88c4-3409836393d6 | -12.10427 | -50.89555 | 2024-10-08 04:57:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ae91dd63-5d9c-37d4-8588-a8f31dae6d75 | -12.08945 | -50.91709 | 2024-10-08 04:57:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7abebf95-8160-3c8b-b43d-5356baa79919 | -11.70502 | -49.95531 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 54dd151e-bc39-3f86-976d-fa98cd00e648 | -11.70451 | -49.95903 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 3b649dba-cf7a-3548-96bc-b8ef25297ca6 | -11.70401 | -49.96273 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 343c881a-0a69-3a3a-b488-1024b1b50c51 | -11.5294 | -49.82413 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 758bdfb8-5b05-3905-aac9-022d37043120 | -11.52474 | -49.8273 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 386f14d0-4b05-37f8-9003-c87b564496fb | -11.39503 | -50.04685 | 2024-10-08 04:57:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| d12332fb-74bd-36d1-bbf8-52576ac8a88a | -11.18801 | -49.6468 | 2024-10-08 04:57:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 7efdc868-bbf1-376f-83d3-ab9b80f7ed54 | -11.18467 | -49.6462 | 2024-10-08 04:57:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 07cee69c-4b9f-3354-8470-fd2d1f76526c | -11.18385 | -49.64621 | 2024-10-08 04:57:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| e4077a03-a731-359f-9619-9d0e750f8bc4 | -12.81768 | -50.5434 | 2024-10-08 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| a8d63dea-7f96-393d-aa0e-8521b52d4af4 | -14.25064 | -51.32262 | 2024-10-08 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c5954e20-27cc-3e65-aded-f34646d77f64 | -13.8897 | -51.28562 | 2024-10-08 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 0faee554-30e3-323b-adee-9cd6816fdb2c | -13.88581 | -51.28502 | 2024-10-08 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7521eeeb-bebd-3586-90b7-ae56434746e9 | -15.07745 | -51.23722 | 2024-10-08 04:57:00 | NPP-375D | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| ba962c18-4a6b-3f12-90de-b1c45cf8e1d1 | -15.07278 | -51.24188 | 2024-10-08 04:57:00 | NPP-375D | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 7f77c3fc-b8c5-341a-a750-00a668907b6f | -15.06226 | -51.22967 | 2024-10-08 04:57:00 | NPP-375D | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| fb3cd64e-bd4d-339f-b65d-4043aa75238a | -15.06067 | -51.22812 | 2024-10-08 04:57:00 | NPP-375D | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 04ee8842-a3bc-38c1-9d15-91b1a961d569 | -15.04368 | -51.26287 | 2024-10-08 04:57:00 | NPP-375D | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 941914e6-3964-31f8-abc4-f1cc88868642 | -14.80952 | -50.80338 | 2024-10-08 04:57:00 | NPP-375D | MOZARLÂNDIA | GOIÁS | Brasil | 5214002 | 52 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 060d8229-7528-3e88-9809-3de0b2b2457c | -14.79711 | -50.7716 | 2024-10-08 04:57:00 | NPP-375D | MOZARLÂNDIA | GOIÁS | Brasil | 5214002 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 6f798f74-514f-3e35-b529-3067155c77eb | -14.79663 | -50.77528 | 2024-10-08 04:57:00 | NPP-375D | MOZARLÂNDIA | GOIÁS | Brasil | 5214002 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 558032ed-d833-3838-b90a-fa20590f1330 | -10.61533 | -50.91464 | 2024-10-08 04:57:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 690e44a7-6d0b-3927-ab05-91f2e399038b | -10.61465 | -50.91934 | 2024-10-08 04:57:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 5aa04d9e-a9b6-3cac-bbc5-122a214f013a | -11.9869 | -51.91626 | 2024-10-08 04:57:00 | NPP-375D | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 8a03cba3-5e6c-31f1-8e0c-4dfe1ead146a | -11.98323 | -51.91574 | 2024-10-08 04:57:00 | NPP-375D | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| a52e4d1e-d8a2-3734-924a-d2ac16c23aed | -11.97955 | -51.91523 | 2024-10-08 04:57:00 | NPP-375D | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 1d199eee-3963-38a4-bc0e-3d6faf753b0f | -11.33029 | -51.07853 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1bbbd8f9-59a4-33e6-bf8e-8a2aec2c2593 | -11.32964 | -50.98419 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 92909758-e70f-35a1-8dac-8d32c33b4316 | -11.32834 | -50.98109 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| bc9ee393-5749-38d3-a752-cdd96874d6ce | -11.32647 | -51.07796 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 007e2f7a-746b-360e-b5a9-04f9f02f2e04 | -11.3258 | -51.08269 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f0b87261-0157-3984-8f27-a9a62b5b805d | -11.3258 | -50.98363 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 252e5023-e792-3150-af3e-0c92b00ac43e | -11.3245 | -50.98053 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 740cbc2f-30df-3970-9108-102ad30a7923 | -11.32412 | -51.33881 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| adf94f46-5fc9-367d-bd12-0497f6deba9e | -11.32347 | -51.34338 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a50e35d0-8363-32d2-8379-7bd2a109c6df | -11.32199 | -51.08213 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| ac2b0e48-cd2e-38c3-a35f-de8aa7725fc6 | -11.31971 | -51.34282 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 38956fab-04c9-39a7-984d-192469cc73f7 | -11.31817 | -51.08156 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| ba3379ca-d68d-3350-899f-f5ecc52b75d7 | -11.31436 | -51.081 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| c4687fd4-5061-34a9-a1dc-755d1c4312e2 | -11.31268 | -51.0372 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 45dd9e2b-4337-31f2-9f18-a6d48888ab3b | -11.31084 | -51.05912 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 8677f624-3dff-3e35-b160-173fa5a8b8aa | -11.31048 | -51.03486 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d7e4ed5f-2e93-3dee-a6b4-f546dc881ea5 | -11.31045 | -50.98139 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ddb67c6e-7397-3b89-954f-b6ff464a0b03 | -11.31003 | -51.05621 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 43294052-3b72-34ce-a03a-ed12102b755f | -11.3091 | -51.04435 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 0ef2fd31-fefb-3c91-87d2-6733ef5e08bc | -11.30805 | -51.07041 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 796395f9-3464-39f6-8ff4-790a753ef451 | -11.30753 | -51.04614 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 82d91b94-09b6-3d48-89a4-8608c3fea516 | -11.30702 | -51.05858 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 80fa30e5-d4fd-3487-b84f-fdcab2ffbab6 | -11.30633 | -51.06331 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 87ffad7f-03a1-3002-9708-f28c0fffc001 | -11.30597 | -51.03905 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 2440ddd8-7654-3855-834c-2638c882ad0c | -11.30564 | -51.06802 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 6cf502ea-f673-3029-a103-553ed1b60cd2 | -11.30555 | -51.0604 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b94cf4d4-d861-3400-a555-1a28cfc2942f | -11.30527 | -51.04379 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 128b9551-253e-3cf8-b13a-c99c804432df | -11.30495 | -51.07274 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 9061dabd-6c22-3fc4-a93b-638bb8d5b4f9 | -11.30491 | -51.01949 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6701f290-0ba5-365a-a443-95d3409c136b | -11.30489 | -51.06513 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| b30ec116-841a-372a-b912-92f6c9955d0c | -11.30423 | -51.06985 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 37079e64-00df-3e7e-a9e0-35f263e89e61 | -11.30357 | -51.07458 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 7f4d41a0-80bb-3a04-a67e-c9afe9794211 | -11.30251 | -51.06276 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 1d5dc03f-ea5b-3a40-a44a-9545d4c376da | -11.30182 | -51.06747 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 3cd4946d-dc0e-39eb-86b7-07cbceb32d60 | -11.30113 | -51.07219 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 44233207-c48c-3e76-8ceb-ec8b3710faf7 | -11.30108 | -51.01892 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 47876427-c5f6-3805-82ef-a2c82596a1d3 | -11.30092 | -51.34002 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| a9720153-bf19-3bb9-9a35-86427621aa00 | -11.298 | -51.06692 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 4044d5d9-aaa1-3fa6-aa58-8be94e472abd | -11.29731 | -51.07164 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 1cd3f928-d702-368a-b630-40b709c7ff2e | -11.2667 | -51.41163 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 986c0629-8608-386d-b489-0e9a28f80a1d | -11.25849 | -51.28474 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e07c2b89-dada-3abe-9975-fc78809363c4 | -11.25515 | -51.30762 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| eac0a404-8a22-3fdf-a693-6b8dd4b6017d | -11.25473 | -51.28418 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 432ae593-3331-3810-be1e-bc32fe6cb725 | -11.24343 | -51.28248 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 21da8d76-95c2-3c05-95e0-e4defbfc6330 | -11.21939 | -51.39534 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8ca54e72-f7f7-3713-b7a2-8b78a5c99737 | -11.21322 | -51.38517 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| dcc871d3-578d-3ae7-8fdf-b933319a6fa8 | -11.21256 | -51.3897 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| c8513d37-0fbc-3f80-b7ed-99a8a58fdf45 | -11.20947 | -51.38461 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 52e254f4-dce9-3abf-843b-4357985d9076 | -11.20882 | -51.38914 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 1100206b-00a3-371e-9b98-b5589264943a | -11.20638 | -51.37951 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 9d36e2fc-3b27-3b74-936c-c3ccc6b8fcb2 | -11.20573 | -51.38404 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 82038c77-439b-326a-9d68-d0f191d60562 | -11.20394 | -51.36988 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| de791662-77e6-3d22-9b3b-fae91fa365ee | -11.20329 | -51.37442 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 508d4084-56f4-3bf6-bd6b-3cac54130403 | -11.20264 | -51.37896 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 9721cedc-70bb-322b-a387-8ed7b9dedfcc | -11.2015 | -51.36025 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 1c0341bd-9cc5-3e5a-9d22-51f32dc16c7a | -11.20085 | -51.36478 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 0223ce13-e8e1-3df0-8dd9-6b940eac40d8 | -11.2002 | -51.36934 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| bac4c0e0-0544-3fa5-b522-f8a6f8bbb394 | -13.13376 | -51.64202 | 2024-10-08 04:57:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| e0011a6f-ea5a-39bc-a23b-6481999d4b58 | -13.1293 | -51.6462 | 2024-10-08 04:57:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| c35abfe9-f02e-316b-b9bc-dc84870bec00 | -12.6337 | -52.43363 | 2024-10-08 04:57:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2ac5257f-83d1-311f-8895-bc1b5ef3ff07 | -12.6301 | -52.43307 | 2024-10-08 04:57:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 84794c33-ac12-33ac-bffb-c047f0042a41 | -8.97748 | -52.79936 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 58ef3c12-ad4a-3c43-9e4e-724af0635b8e | -8.97235 | -52.78701 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ef954075-fbc5-3d29-bfa5-bbd28d51eb8c | -8.97177 | -52.79081 | 2024-10-08 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
 
 
 [Clique aqui para ver as próximas entradas](README86.md)

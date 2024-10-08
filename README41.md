@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 25ec370a-f6e3-325c-ba0d-5d599125b34e | -11.7561 | -44.513 | 2024-10-07 03:26:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 68.9 |
-| 49865f44-0984-389f-ad9b-00e19bbb96eb | -11.7566 | -44.4897 | 2024-10-07 03:26:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 85.7 |
-| ff85304d-21fa-3551-8337-38c6e8a21355 | -12.1277 | -50.8904 | 2024-10-07 03:26:15 | GOES-16 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 61.2 |
-| f438cf78-f2a0-38f3-a6b2-0deff7ed53e2 | -13.7342 | -60.6471 | 2024-10-07 03:26:24 | GOES-16 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 59.8 |
-| 41e2c629-6356-34b6-8b2b-bba3dfb89093 | -16.4161 | -57.3211 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 124.5 |
-| 47916b57-156d-3d5a-8616-c78d5402d124 | -16.4164 | -57.3006 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 99.7 |
-| d05c365b-deb7-3eb7-974f-22ad2b441cb5 | -16.4362 | -57.278 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 99.8 |
-| 38751184-4411-31c1-8047-0c65eca1945c | -16.4365 | -57.2575 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 93.6 |
-| 3c7a15f6-ef55-37b2-b4d1-5be7e3351d30 | -16.5072 | -57.7387 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 84.1 |
-| a9a3d732-e727-3e2f-ac7d-02a970688321 | -16.5075 | -57.7183 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 61.8 |
-| 6e5fadd4-9c9b-3831-852c-0530d5956ec8 | -16.5267 | -57.7365 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 95.2 |
-| 4ef8edf3-60e4-33c4-b6a5-586a7ad0b783 | -16.527 | -57.7161 | 2024-10-07 03:26:39 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 59.2 |
-| 4a7e3de1-8072-3e81-83e5-e3da8ed0e426 | -17.0881 | -56.8328 | 2024-10-07 03:26:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 109.5 |
-| cfe9ed7a-e791-3ca1-8852-11792f033ff7 | -17.1078 | -56.8304 | 2024-10-07 03:26:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 108.7 |
-| be58b3f0-1f8a-3c3f-a4b9-e790a21d37ce | -17.1274 | -56.828 | 2024-10-07 03:26:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 137.4 |
-| 83c8da89-a77e-3ad8-b4d7-340601941faf | -17.1278 | -56.8074 | 2024-10-07 03:26:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 131.6 |
-| 0838eb75-6da3-3a01-80ad-110a5ca5c258 | -17.1581 | -57.3582 | 2024-10-07 03:26:43 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 95.3 |
-| 998eb3eb-8c71-369b-bb8c-a119740ca830 | -17.1584 | -57.3377 | 2024-10-07 03:26:43 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.1 |
-| caa7f1cf-2ceb-31e7-a2c1-a59707b36c8a | -17.1777 | -57.3559 | 2024-10-07 03:26:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 62.8 |
-| 70b0505f-1552-3c71-85f4-273a75b81225 | -18.718 | -57.289 | 2024-10-07 03:26:51 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.2 |
-| 47658bb0-fc00-3bc9-9a9d-1c179db0c2b6 | -18.6391 | -57.2578 | 2024-10-07 03:26:51 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.6 |
-| 904308f7-95b1-3724-b0f8-0c916556fe79 | -18.659 | -57.2552 | 2024-10-07 03:26:51 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 40.6 |
-| ba881ea0-cf6f-3af8-a43b-d9c197bcbeb5 | -18.7176 | -57.3097 | 2024-10-07 03:26:51 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 59.1 |
-| 8c0f2a73-6978-325e-b75b-99444bc31e68 | -20.5848 | -48.5137 | 2024-10-07 03:27:00 | GOES-16 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 100.9 |
-| a0d120b1-12c6-3678-a49a-e7138ef473ab | -20.5855 | -48.4904 | 2024-10-07 03:27:00 | GOES-16 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 167.0 |
-| 31c87bdc-8ee5-33de-9977-ec4f967b3000 | -20.606 | -48.4858 | 2024-10-07 03:27:00 | GOES-16 | JABORANDI | SÃO PAULO | Brasil | 3524204 | 35 | 33 | nan | nan | nan | Cerrado | 153.2 |
-| 76504a5c-5a5f-352a-81bb-c0b826c697a6 | -21.5691 | -47.7696 | 2024-10-07 03:27:05 | GOES-16 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 95.5 |
-| 6060d782-e62e-3108-932f-44de53e73cec | -21.5698 | -47.746 | 2024-10-07 03:27:05 | GOES-16 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 191.1 |
-| 5626e6e3-ef86-3e48-befb-b403014daf91 | -21.5705 | -47.7223 | 2024-10-07 03:27:05 | GOES-16 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 102.0 |
-| a845593e-e649-31d4-9a90-701195493a15 | -21.5906 | -47.7409 | 2024-10-07 03:27:05 | GOES-16 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 214.6 |
-| 517b1d99-e17e-3162-ac24-8de15ceca7ff | -21.5913 | -47.7172 | 2024-10-07 03:27:05 | GOES-16 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 187.0 |
-| c3e65989-ec53-33fa-beee-811f28de77f9 | -21.605 | -47.9485 | 2024-10-07 03:27:05 | GOES-16 | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| 866268d2-545c-3b52-9278-7dfaa0c4ae2f | -21.6121 | -47.7121 | 2024-10-07 03:27:05 | GOES-16 | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 76.2 |
-| e1a45b37-21f3-3736-b653-194dfc9fc020 | -7.71025 | -35.24904 | 2024-10-07 03:34:00 | NPP-375D | NAZARÉ DA MATA | PERNAMBUCO | Brasil | 2609501 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| a6504648-55ee-349b-a6da-7bd8a2df5a66 | -7.47527 | -34.84303 | 2024-10-07 03:34:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 741ce6d4-d6cc-3a8a-a93f-3eec5568637a | -7.37725 | -34.88545 | 2024-10-07 03:34:00 | NPP-375D | ALHANDRA | PARAÍBA | Brasil | 2500601 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 09c50ea2-ace4-31c7-854a-fdceee29f0a7 | -7.10754 | -35.19479 | 2024-10-07 03:34:00 | NPP-375D | SAPÉ | PARAÍBA | Brasil | 2515302 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 222bab28-8141-3e6a-a79d-9ae1b2901db0 | -6.90767 | -34.91738 | 2024-10-07 03:34:00 | NPP-375D | LUCENA | PARAÍBA | Brasil | 2508604 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| c11e563a-531b-341e-abcd-58d20986813d | -8.49737 | -35.04985 | 2024-10-07 03:34:00 | NPP-375D | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 1b588f7d-2b41-3575-ba88-c3f54f3a6f61 | -5.95717 | -38.63113 | 2024-10-07 03:34:00 | NPP-375D | JAGUARIBE | CEARÁ | Brasil | 2306900 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 7e20219c-4df9-378c-ad5d-85f09828d50c | -5.95573 | -38.63057 | 2024-10-07 03:34:00 | NPP-375D | JAGUARIBE | CEARÁ | Brasil | 2306900 | 23 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| a466f3e5-dea3-3c6f-8644-ae406a49a830 | -5.95305 | -38.63049 | 2024-10-07 03:34:00 | NPP-375D | JAGUARIBE | CEARÁ | Brasil | 2306900 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| b1d3f0d9-e068-36e4-96aa-909d75f8f268 | -6.64449 | -38.71773 | 2024-10-07 03:34:00 | NPP-375D | UMARI | CEARÁ | Brasil | 2313708 | 23 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 7d29ec74-90df-3b69-be14-44dfc8a97ee4 | -7.26928 | -39.18866 | 2024-10-07 03:34:00 | NPP-375D | MISSÃO VELHA | CEARÁ | Brasil | 2308401 | 23 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 9deecf0f-0c87-31ca-9c90-a0ff8100ca6d | -7.26924 | -39.19145 | 2024-10-07 03:34:00 | NPP-375D | MISSÃO VELHA | CEARÁ | Brasil | 2308401 | 23 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 4e945363-a83b-3b9d-84aa-95b101b98b0b | -6.87749 | -39.20682 | 2024-10-07 03:34:00 | NPP-375D | GRANJEIRO | CEARÁ | Brasil | 2304806 | 23 | 33 | nan | nan | nan | Caatinga | 45.0 |
-| 52964495-0bda-3672-b87e-f31c241d83bf | -6.87328 | -39.20613 | 2024-10-07 03:34:00 | NPP-375D | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 67e4697c-540f-3430-9c9a-22d42b49ce29 | -6.28249 | -41.85646 | 2024-10-07 03:34:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| be59c53c-bddd-3086-8689-d44948fa98df | -6.28196 | -41.85945 | 2024-10-07 03:34:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 2d6cf9ee-988f-36f4-85d2-5f3225cdaa71 | -6.90568 | -41.98294 | 2024-10-07 03:34:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| ca2e0de8-9e38-3fd5-b724-3d12f70550a2 | -6.854 | -41.69602 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| ac4ce202-7ec7-3f98-9212-6a2a801c3da6 | -6.85299 | -41.70174 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| b0b95df8-7069-33e6-bd95-873fd3ada655 | -6.85197 | -41.70747 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| a97e4a50-c086-3827-a918-f1d8a6bc38e4 | -6.85059 | -41.68882 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 160d9b19-7e0b-3f71-8d2b-adadd2d9b7d5 | -6.85007 | -41.68927 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 41ec23bf-4ce0-3a0f-830b-32276b28705f | -6.84564 | -41.68775 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 6671be87-c9a6-3fb2-b3fe-0339b9d7ee40 | -6.83106 | -41.80389 | 2024-10-07 03:34:00 | NPP-375D | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 47793a04-c7bd-3a18-ba48-67f63a502d12 | -6.69821 | -40.88482 | 2024-10-07 03:34:00 | NPP-375D | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 428a56c8-c0dd-3d1f-9359-98ef69b7a747 | -6.69736 | -40.88972 | 2024-10-07 03:34:00 | NPP-375D | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| c22c0a5b-01a8-31c3-b709-3f2a67ff36a8 | -6.65737 | -40.89062 | 2024-10-07 03:34:00 | NPP-375D | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 799d428d-d7a9-303b-836b-2ea09b558d72 | -6.48119 | -41.95013 | 2024-10-07 03:34:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| d9b3218a-ae5b-381c-b37e-d5ee80a9c94b | -6.48067 | -41.95305 | 2024-10-07 03:34:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| a95a3903-99fb-329f-9f32-0f60a5042460 | -6.47711 | -41.94354 | 2024-10-07 03:34:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| aeb8645a-01a6-31fd-840f-cae5ebfa7818 | -3.95158 | -41.49487 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| e7e6406a-6672-334c-99fe-68bbe2b7539a | -3.95107 | -41.49795 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 5eeb2be2-a385-3edc-9312-be7cacecb273 | -3.95056 | -41.50103 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 2b581d68-b4b6-3123-874c-00edbbd4d89a | -3.94642 | -41.49402 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| bfb6973f-ebdd-3805-b8de-85e38b1326ba | -3.9459 | -41.49711 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 83da425d-95a9-3296-ba55-42a281a39cef | -3.94539 | -41.50019 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 1a13c98d-69f4-3507-b52b-9a4480f5c65d | -3.94126 | -41.49312 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| a02079d8-d1a2-314e-8a65-49edaa496267 | -3.94075 | -41.4962 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 514d97de-f958-3f5b-9f50-7100fade545c | -3.93611 | -41.49223 | 2024-10-07 03:34:00 | NPP-375D | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 61018b0f-6cfa-31c1-84a8-d007b4ba77dd | -4.80146 | -42.75443 | 2024-10-07 03:34:00 | NPP-375D | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 720d3d1b-2ad7-3326-a698-290bd64e5507 | -4.79654 | -42.74985 | 2024-10-07 03:34:00 | NPP-375D | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| ea2f0e8b-cf60-3ab2-b7c5-6a103b19c647 | -4.79593 | -42.75342 | 2024-10-07 03:34:00 | NPP-375D | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| c89fa304-b380-38fc-a506-b4c6472e9087 | -4.79529 | -42.75716 | 2024-10-07 03:34:00 | NPP-375D | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| e9fccc17-d698-3963-b876-69e22885361d | -4.79038 | -42.75259 | 2024-10-07 03:34:00 | NPP-375D | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 27836bfc-e011-38e1-8593-64f48eec3bb4 | -4.37944 | -43.0401 | 2024-10-07 03:34:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ef07a22e-829f-37d4-9c88-3b7f5087ce76 | -6.25969 | -42.52738 | 2024-10-07 03:34:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| a2f675b1-0fdd-3f33-b2a7-8da756a02878 | -7.1447 | -42.63101 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| eba45ad1-c17b-3408-a99c-b8d5e8b70639 | -7.14412 | -42.63427 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| e15a4287-c2a1-3f25-ad94-c0201e959634 | -7.14354 | -42.63753 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| ab13e33b-67db-3f63-b2ce-3acb1dda3908 | -7.14177 | -42.61688 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 67e63dc7-58ee-3a5a-855e-35ba48481db0 | -7.14119 | -42.62014 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 5423239d-61b5-30ef-97dd-26698bc94554 | -7.13827 | -42.63652 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| fc3cea45-0166-3161-aaa9-b3ae78cc7e2f | -7.13769 | -42.63977 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| e214f366-b6f5-39e3-b406-5e3f5b423b77 | -7.13766 | -42.60947 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| fd0fe770-6bd0-3c1f-bca3-75709368cc7e | -7.13708 | -42.61271 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 1d687a1f-4e5c-3dea-8024-ad9e99bd0ff4 | -7.13298 | -42.63563 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 7e57db83-923c-3b61-aba5-cb49c638797d | -7.13239 | -42.63892 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| e73bf13a-a956-33fa-bab1-279859bcad2e | -7.12711 | -42.638 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 5eb98ad4-6f58-3a04-b6e0-08ef3c6f9242 | -7.12125 | -42.64022 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 00e34739-acad-3e3c-b63c-32de75c9c877 | -7.1154 | -42.64244 | 2024-10-07 03:34:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 20df7058-4c67-3b7d-ba34-c0ec3cb09fe8 | -6.47008 | -43.22009 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| cd720fbe-6b03-3e78-bc53-d8a25efe04e8 | -6.46944 | -43.2238 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 44324213-e156-3003-9fa9-0438c037bc10 | -6.46858 | -43.22118 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 8b6062a3-f5f1-328c-afe7-887bcc20c878 | -6.46791 | -43.22491 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 856ce0ba-86c9-315a-ac46-ff18bed9048c | -6.46452 | -43.21919 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| dfd1849e-6af8-313a-80be-8124697d5ff9 | -6.46389 | -43.22282 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 06236844-7142-3e22-85c7-96cd15c95605 | -6.46301 | -43.2203 | 2024-10-07 03:34:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| f53b5009-d3bd-3a44-93ea-9ec97d8d9853 | -20.42558 | -47.67271 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cb7d8803-1aaf-31ce-b055-84443572c5d5 | -20.42542 | -47.66466 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| dce1c299-70c4-332d-becd-55b57d9a7cb6 | -20.42487 | -47.67601 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| d460d1e3-3428-3fbc-89c8-ce1bf6ac1234 | -20.42478 | -47.65152 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| c0eeddb5-b8f8-3f07-8dfa-e1d2d4c388a7 | -20.42475 | -47.66791 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 8cd7601d-58e5-38eb-9d77-359b1066276f | -20.42456 | -47.64306 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| da0ab6e0-a0a3-3f31-be0a-af929f869b0d | -20.42416 | -47.6793 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 4b56ed2f-2d0a-3327-af58-fe850fc2e529 | -20.42407 | -47.67117 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| de98e754-b8f5-3056-9cd9-3f3bd3e82ee8 | -20.42402 | -47.65503 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 1e07a102-be03-3dac-9c2b-c5a7eebf1393 | -20.42384 | -47.6465 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| f5467546-0032-35c5-bc3a-b5b6c838501e | -20.42345 | -47.68256 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 19a2eb06-7eec-3739-b414-94bec8a27760 | -20.42339 | -47.67443 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| fff41bc1-157b-315e-a924-d96d5f49c365 | -20.42327 | -47.65851 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| d465cb7d-c842-3ed4-8f0f-ece086ab1495 | -20.42272 | -47.67768 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| d6ba02b0-abdc-37a2-bdda-a33cf3255802 | -20.42253 | -47.66193 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 1cd33582-733e-3c1d-9f43-7fbc35d7487d | -20.42239 | -47.65348 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| d69140b8-8446-3a0a-8767-49e47e0bdeef | -20.42204 | -47.68093 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| a0bac62c-3f5a-3d17-875c-8ab48b4a87f0 | -20.42184 | -47.66516 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 1b51d6fa-52cc-35c1-827b-51a387ae1495 | -20.42182 | -47.64037 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 1785da9f-a6f5-3c02-83fa-1e82e6d98e36 | -20.42167 | -47.65694 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 4ab9c87a-a2cc-336d-8951-13d7cfa48e31 | -20.42136 | -47.68419 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 78b7fc01-b121-3b40-ae10-a6404872cff8 | -20.42115 | -47.66834 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 9f054642-5314-367c-b704-a81de4ebfedd | -20.42107 | -47.64384 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| a6d46718-6d15-3053-b90a-ba988357ddcb | -20.42097 | -47.66029 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| abec22e0-05f6-3508-b4f0-aa84845ce0bf | -20.42047 | -47.67148 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| d99960dd-29ba-34dd-bec1-be0ebff8300e | -20.42033 | -47.64725 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 384b4c39-cbc2-3a07-8b9e-95f498d45681 | -20.4203 | -47.66355 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 9b0fac29-db13-33e9-9957-ef97fd707a62 | -20.41979 | -47.67464 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 7ccdd8f4-9e04-3e23-9ed8-fa3639df30eb | -20.41964 | -47.66669 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 32967670-325b-3640-892f-94cc38adf24b | -20.41961 | -47.65059 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 5f202902-fad7-353e-90dc-3daceeaff986 | -20.41939 | -47.64216 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 88bd7a4a-ddf6-333e-8b3a-eee6509ee861 | -20.41899 | -47.6698 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 6b59d3ec-aa69-3585-b9da-34dad355554d | -20.41891 | -47.65388 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 4a958865-71aa-34f0-8b8a-1dda190eb2c1 | -20.41869 | -47.64553 | 2024-10-08 03:45:00 | NOAA-20 | RIBEIRÃO CORRENTE | SÃO PAULO | Brasil | 3543105 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 9b27436b-97eb-37b1-a66b-4bf2782457b0 | -20.41834 | -47.67293 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| dbc29323-2bfd-342c-9b54-a0dbbab02cde | -20.418 | -47.64883 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 620facf0-68fe-3dd8-ac9d-224a1b5b17f6 | -20.41732 | -47.65209 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 40a95002-1798-3daf-a94c-463e6b9f84ac | -20.41549 | -47.66968 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 93f73dca-b995-3978-b798-b8adb1ab16ce | -20.41527 | -47.64588 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 1f0982ab-9658-3474-bedd-54b24f6a249e | -20.41458 | -47.64907 | 2024-10-08 03:45:00 | NOAA-20 | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 048c636f-d089-34e3-9718-e3690a3df1ac | -20.02472 | -46.71447 | 2024-10-08 03:45:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 4f531ec3-8317-3f42-b9b6-672a471ba927 | -20.02348 | -46.72049 | 2024-10-08 03:45:00 | NOAA-20 | TAPIRA | MINAS GERAIS | Brasil | 3168101 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d1eb5e63-a16f-3694-aaec-9b1f48078318 | -20.36866 | -48.84867 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 380.9 |
+| 64554d73-416e-3a96-8b21-40545153a3a3 | -20.36781 | -48.8568 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| 5d1d3ebb-dc47-39e4-947c-8f3e66a14d89 | -20.36596 | -48.86073 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 233.5 |
+| a6653eb2-fd0b-33f6-a1aa-97aff70433c0 | -20.35603 | -48.85769 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| 2ab2ce65-1749-39e3-9d9d-f9f7273702eb | -20.35514 | -48.86177 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 53bc8285-0e04-38d4-b0dc-36cf6ff04459 | -20.35427 | -48.86578 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 8a326920-f85e-394c-b2be-3736f8bac4b6 | -20.35255 | -48.87367 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 3343a3f1-3bef-30f6-a3f5-224bf54568c0 | -20.35232 | -48.84814 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 201.4 |
+| 173232a9-cea3-3423-809f-74a0c44da851 | -20.35171 | -48.87756 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| e7408d49-bf9e-366c-901a-896e5a07496f | -20.34879 | -48.86435 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 4d725abf-98a7-3eb9-bb51-35c6d6c13157 | -20.34597 | -48.8507 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 4fa2c8cd-bce4-3b7d-a051-c4e930fa9a95 | -20.34419 | -48.85884 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 71fa4b95-aeeb-3e66-b7d7-eb5b21f5317d | -20.3433 | -48.86292 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5b1beb93-ac58-31f8-b923-5f24c29ad7c6 | -20.3413 | -48.84555 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 88bad444-1394-3526-914d-b5f1b9365603 | -19.54464 | -49.49629 | 2024-10-08 03:45:00 | NOAA-20 | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 8607cf69-80d9-3af2-af59-7976926fd021 | -19.55041 | -49.49786 | 2024-10-08 03:45:00 | NOAA-20 | CAMPINA VERDE | MINAS GERAIS | Brasil | 3111101 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| d192ba56-3bba-3ffb-8086-d31343a07b79 | -20.3632 | -48.85135 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 121.0 |
+| 1cd06a41-e689-383a-b4c4-283f049572ba | -20.36233 | -48.85533 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| 7f9c8c28-3b5d-3e54-acf0-07cd19ffa905 | -20.36147 | -48.85932 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| d89334ef-e247-3362-93fe-326e130038b2 | -20.36061 | -48.8633 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 31.3 |
+| a87bef99-b5ed-3b6b-9b84-632fe9adc3b9 | -20.35862 | -48.84579 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 201.4 |
+| e99a54b9-1420-389a-a5a1-5c1b42b9a256 | -20.35317 | -48.84421 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 201.4 |
+| c15b64c0-e3be-3155-beba-dfcc5686bbf5 | -20.35057 | -48.85615 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| 0f4eeec5-0965-38d3-a686-9e15004d790c | -20.34967 | -48.86029 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 6227f202-49b0-3f46-ae4c-eb815b03e7e7 | -20.34683 | -48.84673 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| b2a307d7-f9f7-3d9d-8f92-2b09ec7b8cc9 | -20.39057 | -48.85864 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| 393e4238-f186-3008-be60-2fa757480bb4 | -20.39051 | -48.85461 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| 324d903a-8a48-3db9-b480-cedd307123dd | -20.38965 | -48.8585 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| d34ecd9d-23ed-3210-8a87-49b7bb600715 | -20.38877 | -48.86241 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| 98fb28c8-775a-3b90-ba6f-aaf68ed40c25 | -20.38759 | -48.84559 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 115.3 |
+| 64d82266-d7ed-31ce-8cb1-45a2479b57ba | -20.38677 | -48.84942 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 115.3 |
+| f0a11a59-8b72-3857-b5b8-93b5ab02eb9c | -20.38595 | -48.85323 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| 58711eb6-83fc-37cb-994e-1eb5c08b1afe | -20.3859 | -48.84929 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 91.7 |
+| de94f5bb-7ce2-3578-8a9a-2a6ea145ee34 | -20.38511 | -48.85712 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| 857cea1e-f625-3749-88cb-a0502637c73f | -20.38506 | -48.85308 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| 09306168-a77b-3d83-8286-5486a38c21a8 | -20.38425 | -48.86107 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 28.1 |
+| c676d0dc-c17a-3d04-b968-c52cb69c21ee | -20.38419 | -48.85698 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| ac95c40c-8bce-329c-9045-7b01f3b16276 | -20.3833 | -48.86094 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.9 |
+| 598f885a-2e25-33ae-8e8e-eb96775c59ca | -20.38215 | -48.84402 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 139.7 |
+| 17ea69aa-20ce-38e5-be2e-4285f0be3793 | -20.38132 | -48.84783 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 139.7 |
+| 5dfd6a8c-ded4-36aa-a392-f2d079461d94 | -20.38131 | -48.84392 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 91.7 |
+| 6dac99fe-5224-30f9-9965-0db551a6280f | -20.3805 | -48.85163 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 217.0 |
+| a5528f5f-49fc-3338-81da-1d431d0cea11 | -20.38046 | -48.84771 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 91.7 |
+| c306ae92-653c-3fe0-988a-bc3269bf410c | -20.37966 | -48.85553 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 217.0 |
+| f90e5fb8-fe4d-3370-af24-7a918d9bffdf | -20.37961 | -48.85152 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| 693d2cd9-68b2-328b-8261-a4a74cd871c3 | -20.37879 | -48.85957 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 319.0 |
+| f188d33a-9bc1-3613-80de-b3b6c0cd93a5 | -20.37874 | -48.85543 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| 4450df31-cb7c-3855-a4b6-61aa2846c8ef | -20.37783 | -48.85948 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.9 |
+| 9d8db637-d98b-37d1-8df2-ef6c276fd738 | -20.37588 | -48.84628 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 139.7 |
+| ef031c81-76a6-3e38-bbc4-4768332d9fef | -20.37503 | -48.85018 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 217.0 |
+| db18f7fe-666d-3678-88c4-277569c31c70 | -20.37501 | -48.84619 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 148.5 |
+| 1f391603-0f36-39c8-b3ca-a5a54ed27e52 | -20.39948 | -48.84033 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 145.8 |
+| 24ecfd8f-68c1-3d64-ad7c-4e894f5a91d0 | -20.3986 | -48.8443 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 145.8 |
+| 35fa6081-6b90-3387-8cb6-2d137ea4a555 | -20.398 | -48.87304 | 2024-10-08 03:45:00 | NOAA-20 | FRUTAL | MINAS GERAIS | Brasil | 3127107 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 30becdd8-015b-3a2b-8cfd-ae52a0c38cea | -20.39772 | -48.84822 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| 1af65cda-b4f2-38d5-b737-136d06a9abc6 | -20.39715 | -48.87691 | 2024-10-08 03:45:00 | NOAA-20 | FRUTAL | MINAS GERAIS | Brasil | 3127107 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| f225c268-8e66-3caa-90af-66d71070ed50 | -20.39686 | -48.85211 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| 8a5c0675-61f1-3a04-9cc4-c6a6b5fb66d5 | -20.39629 | -48.88076 | 2024-10-08 03:45:00 | NOAA-20 | FRUTAL | MINAS GERAIS | Brasil | 3127107 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
 
 
 [Clique aqui para ver as próximas entradas](README42.md)

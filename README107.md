@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2278c90d-ddbf-3f1f-ad1b-5533a74545c7 | -16.99869 | -56.8279 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| f82db5da-6b7f-33d9-8449-d0effee28a98 | -16.99807 | -56.8317 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 79b84e5c-19f3-3012-bbc1-a79ea22fcf69 | -16.99655 | -56.81971 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 56197fcb-a3b8-355a-bc20-cc51205d0937 | -16.99593 | -56.8235 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 55683257-343e-3840-9605-c7f00c9ec2b3 | -16.9953 | -56.8273 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 6e948de8-a896-36e8-8f63-1592da07fc2b | -16.99379 | -56.81531 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| c4eac962-7a28-30dd-8d97-bc68812cd2b2 | -16.99316 | -56.8191 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| d3f19d4d-5c2b-3e34-8832-c18d4395a8c0 | -16.99254 | -56.8229 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| be0ca90b-80e8-37ef-9978-e6d884049ea1 | -16.99102 | -56.81091 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| ebeb5359-9b0a-31f4-9dbc-011353749ba5 | -16.9904 | -56.8147 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| df20f2e6-4418-3937-bf7e-58cc610f6d7b | -16.98977 | -56.8185 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 09eb550a-4ebd-3c38-bacc-0b43d0bc026d | -16.98764 | -56.81031 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 99114aa3-fa4c-371a-85fa-9770ab849c86 | -16.98701 | -56.8141 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 098dfad6-2508-3370-8b18-ab95ad46724b | -16.98487 | -56.80591 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 73bb758f-5cf8-32c8-8b91-8a5072ec8def | -16.98148 | -56.80531 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| e81e271f-de04-3a32-9426-183298a91dfd | -16.9781 | -56.80471 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 28ca2ec8-ee79-36ed-b8a7-ca8e9734451d | -16.97684 | -56.8123 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| bc5c2fe8-207b-3443-bec3-32eb7579f181 | -16.97408 | -56.8079 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
-| fc9e69c4-a1c6-32d1-b2d4-8a1d1af2ebd8 | -16.97346 | -56.81169 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
-| 4821264a-7026-3978-a5c4-3217142ce46b | -16.9707 | -56.80729 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
-| a9e3f37d-2291-3013-b14a-ddd433fe63b5 | -16.97007 | -56.81108 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
-| 3fe97251-fbf4-3331-89e4-c388fb491d34 | -16.96731 | -56.80669 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.4 |
-| 1b954d4f-0da2-394d-9b09-d638ca9e30a9 | -16.96668 | -56.81048 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.4 |
-| bc9711d6-7428-3f83-893f-bb1af70d528d | -17.13436 | -57.36887 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| b6fcb0dd-7ed6-3146-b81a-1d04e604e035 | -17.13344 | -57.36794 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 3d6bd53d-5e0c-3745-accf-a0de3a687e6c | -17.13092 | -57.36824 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 74120d1d-f729-3b02-84bf-e2ba9a283294 | -17.12961 | -57.37612 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 44596899-6656-399a-ba68-de41ade14c0b | -17.11942 | -57.39459 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 7b4b7c5c-39d3-3691-ab15-51df1a01efb9 | -17.11648 | -57.36969 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 7f1cdd2e-78ad-36ad-9ae7-02834bfe2eea | -17.11597 | -57.39396 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 5af7173c-9d24-31ec-9261-a883196f2aa0 | -17.11582 | -57.37362 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| b0da5d9c-d5a0-3454-a66c-5b9c6b7eba0f | -17.11516 | -57.37756 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| d43e86f0-4030-35d5-992f-d8e20dfa1194 | -17.11466 | -57.40185 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| d4d45416-948b-3e83-8bac-38dbc5cf1248 | -17.1145 | -57.38151 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 663074b6-0691-3eaf-afe9-28ffb3e3a1c4 | -17.114 | -57.4058 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 48dbf526-d492-38e0-ac67-1d5b3506291d | -17.11318 | -57.38939 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 61460ba2-bb75-31ec-8107-e0f08ef9ffd4 | -17.11303 | -57.36905 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| fcbdac7b-3c1e-3044-9be1-46d995eba2ed | -17.11237 | -57.37299 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 7a85caa2-4d33-318b-a49a-6ce134499e3a | -17.11202 | -57.41766 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| b2386119-1c02-3a4e-8260-49c286abffb3 | -17.11186 | -57.39729 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| a164c197-0694-3d6f-8bde-5206e483624e | -17.11171 | -57.37693 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 91e53cb8-c6fd-33db-92a6-0d76ee03598e | -17.11121 | -57.40123 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 164a9030-d151-3a0d-9d1a-b80a70c97269 | -17.11105 | -57.38088 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| c58fc93a-c971-3439-aeb0-db2e771f3577 | -17.11039 | -57.38482 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 05f43a15-3790-34d4-b735-824a23caade8 | -17.10974 | -57.38877 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| ccf921f4-996d-3598-bb81-ee40841846ba | -17.10908 | -57.39272 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| e7b0be46-9f8f-36fa-bc0f-36bdef77fe43 | -17.10826 | -57.37632 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| ae9ebf5c-8880-3030-8f87-c03d3c0f217c | -17.1079 | -57.42098 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 1d3f5f8c-3d06-3cfd-bd40-97f84d612800 | -17.10776 | -57.4006 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| dedb2fa5-c012-31b4-9040-4dedc581181b | -17.1071 | -57.40455 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 773155ea-3929-3bd2-a7c1-50c84dfbde6a | -17.10695 | -57.3842 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| efdcefe9-12d3-3d74-ad4a-f20924fad96d | -17.10643 | -57.40851 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 61f1ff79-ea0c-32c9-8157-009c828309d9 | -17.10563 | -57.39209 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| efa1b4bc-4843-3dab-b4ed-7948d0c91193 | -17.10511 | -57.41641 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 1cdc40a9-7782-342e-bf65-c1596f406021 | -17.10482 | -57.37569 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| bfdf008a-ba73-3e6b-84d6-8b1c1017523d | -17.10445 | -57.42036 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| b162d1e7-6def-34da-8aa9-601733784e6b | -17.10416 | -57.37963 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| d07e848c-7813-32df-b152-cf14f750edb7 | -17.10364 | -57.40393 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 553812f6-1ea3-39f7-980d-fb59f3f7c30c | -17.1035 | -57.38358 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| 1cf404c8-159d-35ec-950f-1dba0ac1c45b | -17.10298 | -57.40788 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| a1d9c08a-7bf6-3807-930c-2550bc9f29d4 | -17.10284 | -57.38752 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| d52a4032-5df1-321a-9343-97b55280b73a | -17.10232 | -57.41183 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| dc1505cd-69e7-31f0-9cf5-319f4b1134ce | -17.10166 | -57.41579 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| cf1fa242-eb19-3bfd-b320-03194ba9b3e0 | -17.10071 | -57.37901 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| 78556a5e-4671-304e-9871-6e21b608059c | -17.10005 | -57.38295 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| a1573d63-60c8-3d4a-9386-48ba3ae058d4 | -17.09939 | -57.38689 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 5e4fff31-16fd-32d4-916b-48d628d81cf4 | -17.09887 | -57.41121 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 6945205d-dfe1-3511-bf5f-1837559eeec8 | -17.09821 | -57.41516 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| d916e79d-3f26-3125-9389-b4faaf830ca0 | -17.0966 | -57.38232 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 7ccd32ea-0660-3dca-82b7-bce2bfb8a86d | -17.09542 | -57.41058 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 819681e7-38c3-31c7-924f-4566cb2443c0 | -17.09476 | -57.41454 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| d97f93f8-a9ba-3ee6-93d2-c67501c3d869 | -17.09409 | -57.41848 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 16.5 |
-| 0c4a9e17-6b4d-3d69-8163-5edf56d5679c | -17.09263 | -57.40601 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 0e3a5bc7-9dac-386b-ae9c-97b1c86f3a92 | -17.09197 | -57.40996 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| d8a16e33-c501-379f-8485-6f806ea77e41 | -17.09064 | -57.41786 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| b9dc6d67-9897-3136-8b64-81f9313086ba | -17.08785 | -57.41328 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 6c8a3c32-ff9d-3eaa-a338-96cec64ee733 | -17.08719 | -57.41723 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| c516aa01-6af5-3fb5-922e-046bd45db39c | -17.08227 | -57.40413 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 92bb7afc-d451-3073-b4d9-bdb927781976 | -17.08161 | -57.40808 | 2024-10-07 04:55:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| ccaf7643-3011-3d82-8172-06407d3bbc8b | -17.06245 | -56.82709 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| f8b819ce-e443-33f9-a4ef-e1aef4992348 | -17.06182 | -56.83088 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 22ef7529-ab63-3edd-a6c2-eb7f5cd9ca93 | -17.06119 | -56.83468 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 4f116318-0a2f-393b-b519-6b5ddf1166d1 | -17.06032 | -56.8189 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 626b0388-2a9d-3aa6-b989-02a896bb5b31 | -17.05906 | -56.82649 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 81b929d8-8600-3953-927a-0548208cea69 | -17.05882 | -56.80693 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| b0ed9c06-6abd-3344-b236-7091d2631d87 | -17.05843 | -56.83028 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 68f9d802-f91e-335a-abe2-615d3986033c | -17.05819 | -56.81072 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 4e9bc153-3530-3ec7-8b35-7490e346d697 | -17.0578 | -56.83408 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| cbcf2b63-0df3-3a27-b9a3-74f1423e4ae9 | -17.05693 | -56.81831 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 2d80a865-aaca-34b8-b3a4-0712b83ef4d8 | -17.0563 | -56.82209 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| da969738-be6d-384e-b6fe-8fa7b2f7ab74 | -17.05567 | -56.82589 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| cbe60ac1-8918-36d1-a609-6a87f8a858bf | -17.05543 | -56.80632 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 3f120f3d-1904-38b2-b4e0-d1b9455ed542 | -17.05504 | -56.82969 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 6f8f7263-1b72-3848-83a0-caee4bbe625a | -17.0548 | -56.81011 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 21d7ea50-47e8-3644-834a-239562abe3b3 | -17.05441 | -56.83348 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 1ada8a9e-5e63-372c-b753-0a016d3a7b8c | -17.05417 | -56.81391 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 55ca369a-d42c-3717-9f84-5f8e33d51d4f | -17.05355 | -56.8177 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| c9102f9c-4117-347c-81b4-a051952af9ba | -17.05292 | -56.8215 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| ea38e4d6-ffe5-3b52-a236-d013d58aec4d | -17.05229 | -56.82529 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| a3109a03-1853-3ac6-9ff8-f99480333455 | -17.05166 | -56.82908 | 2024-10-07 04:55:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 226b5e37-c120-3df0-812c-f848022b1da8 | -18.63531 | -57.23348 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 0d3445e7-22b1-318a-a10e-92d84717ca4b | -18.63198 | -57.2329 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 40002ba8-bb03-320c-bb04-0bc88b168972 | -18.62833 | -57.27732 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| d7fb180b-4413-32ac-841a-d57bff7c8649 | -18.62807 | -57.23597 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 084944b3-8092-318c-8768-e831291bf407 | -18.62749 | -57.23962 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| bfbeba3d-1786-3c49-95fa-4dcc9f7b6679 | -18.62358 | -57.24269 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| adfeda63-5a15-39f3-b02f-0eb732474ed6 | -18.61575 | -57.24883 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 37559dfc-1c03-31d7-a161-2f00a8c4b3a7 | -18.61517 | -57.25248 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 040c556e-dd94-34f7-96d2-713898121083 | -18.614 | -57.25978 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 0b469a14-40f4-3214-ad56-bc9e58a1ca8a | -18.61342 | -57.26344 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 6914c546-2441-3e6c-803d-a6c5508a61b5 | -18.61242 | -57.24824 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 9b23b257-5664-3a05-aaef-e26b44a68660 | -18.61184 | -57.2519 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 50388cf9-9b4a-3226-bb7a-997e92584c2a | -18.61125 | -57.25555 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 0cb42059-cd6f-3ce6-bc00-376fa181a47e | -18.61067 | -57.2592 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 433ddae5-d5de-35b1-be37-b953e6f38c30 | -18.61009 | -57.26286 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 3133e3e7-bcea-3272-8b64-8565426419f6 | -18.60909 | -57.24766 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| d38f5d5f-c899-3180-b0e1-e42e0c5b5e28 | -18.6085 | -57.25131 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.8 |
+| 0087f949-66b6-3875-bf67-424fdd5959ea | -18.60792 | -57.25496 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.8 |
+| c74db281-1d5f-3e40-86ba-252e01de56d9 | -18.60734 | -57.25862 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.7 |
+| 7aee56ca-90d1-3636-ae47-514c8103a917 | -18.60517 | -57.25073 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.8 |
+| 85d4eab7-13c6-34ea-9c9e-43a0bb7a334c | -18.60459 | -57.25438 | 2024-10-08 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.8 |
+| 87e5eb02-9fbc-388c-89da-9e03d07fd60b | -14.85777 | -58.02632 | 2024-10-08 04:59:00 | NPP-375D | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 90e42aac-8688-3179-a150-7e6c0402dc7d | -15.70697 | -59.42284 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| dd29c21b-01ce-3156-a22d-c7e94a70f94c | -15.70624 | -59.4271 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7223a3c7-37ad-33e6-b9ef-8c9a13a34d15 | -15.70478 | -59.43567 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 5409950c-1340-375f-a239-11cb7fb086ac | -15.70403 | -59.44003 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ff59fcc2-41e4-3e2e-825f-09d90c85e71a | -15.70262 | -59.42648 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 17585035-eec4-311c-b0bf-4c1ee38f5e23 | -15.70041 | -59.43937 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8a1e4679-bc45-3e14-a827-1c39d59aee29 | -15.69966 | -59.44381 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| aa8b896e-cd08-3cbb-b856-e3526472cce4 | -15.699 | -59.42587 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b12264d1-d387-3cae-91ef-75e6982a1a0b | -15.69828 | -59.4301 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 2349a8e9-850e-327f-b4f6-b0f2f028b29e | -15.6968 | -59.43871 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 6cecd060-45ce-331d-ac1d-df5d449216ff | -15.69604 | -59.44314 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 291b6fa1-52f0-3499-8494-85d1c63bf0ad | -15.69466 | -59.42945 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 6e96c59c-34cc-3fd7-a4de-927a003d74e0 | -15.69393 | -59.43372 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 14d1c25f-e5d3-3be8-91ec-008b11c4e069 | -15.69243 | -59.44245 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 132d6802-cd57-37bf-a5ce-e79b684d4fa7 | -15.69168 | -59.44685 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 91593f57-a3a5-3d6c-8087-cc1f2aa1f301 | -15.69032 | -59.43305 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| e8f8f7d9-ec7b-3c6e-a253-507a6cd75748 | -15.68806 | -59.44618 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 5ed936cb-24ea-3e03-8ae2-293143ffff67 | -15.68672 | -59.41064 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a29d80dc-9192-3edd-9971-2700cc01f3ff | -15.68385 | -59.40567 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 97863fdf-e141-3027-bcbb-d995c7d728b5 | -15.68371 | -59.44981 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2d26d4a0-3e2d-3d36-aa1d-a58a79f0022e | -15.68312 | -59.4099 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 24e18c5d-972c-3dd5-9a87-126b797efed2 | -15.68025 | -59.40498 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 95bf252d-4b1e-37cf-9218-217a19a1f2ea | -15.67952 | -59.40918 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| acb2ab0c-50f7-3b19-9b2e-ad9186a13e0a | -15.67879 | -59.4134 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| c945bfbe-91da-37ed-acc9-d45f131e93dc | -15.67806 | -59.41765 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ab7804a0-8caa-3702-b57c-9fa73aa48e8a | -15.67732 | -59.42193 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| badda3f2-f5df-3e32-8662-54de3da75568 | -15.67444 | -59.41706 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| f8ee5ffb-5c97-3e30-95fa-0c9dddcd851e | -15.6737 | -59.42131 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 1b0100e4-85fe-3b11-99c9-4b7b97bf3f75 | -15.67297 | -59.42556 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3585f74c-c9ed-356b-946b-f087fb7c09c2 | -15.67008 | -59.42069 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 10eb470a-63b0-3b06-aa35-779b4b07b91e | -15.66935 | -59.42491 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6ff1b7a2-7ee9-3488-a8bf-9362ddefc92a | -15.66862 | -59.42915 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 69d51acd-79d8-32b2-bf80-e35c0b01022d | -15.66501 | -59.42847 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| a1b05d75-cfed-3cc4-beed-54f0b9f585eb | -15.66427 | -59.43277 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 9d887b82-2128-3c99-8149-4dc130a26e9f | -15.22502 | -59.3561 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| bdb9e533-3fb5-360d-b1b0-ea6871ba7e68 | -15.34295 | -58.13218 | 2024-10-08 04:59:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c7ccb8a9-083f-366f-9c11-0e7ab3441106 | -15.34231 | -58.13602 | 2024-10-08 04:59:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ff4d67b7-df6c-3bcc-8577-e6a59ab8f499 | -15.33886 | -58.13548 | 2024-10-08 04:59:00 | NPP-375D | RIO BRANCO | MATO GROSSO | Brasil | 5107206 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b40e365e-ed25-379d-a716-3f23eb26da3f | -15.1809 | -58.5811 | 2024-10-08 04:59:00 | NPP-375D | ARAPUTANGA | MATO GROSSO | Brasil | 5101258 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 255b2018-09ac-372b-bac0-d5e8346a7a07 | -15.12831 | -59.02233 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 452efa72-a1b9-3f2c-af13-cb44318b5276 | -15.12759 | -59.02657 | 2024-10-08 04:59:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 122385cb-415f-3e3c-a9b3-2f7e39177a65 | -13.42564 | -61.91914 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 91adda68-6792-3b90-add8-66f75a8bdcee | -13.41112 | -61.92508 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 42d15d0b-652b-3b9d-8147-56e2b1fdd9d0 | -13.40958 | -61.93357 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 4dceaeec-698f-3c2f-9f46-c78ec16d7dad | -13.40679 | -61.92424 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| e17bf0f4-9c5f-3df5-980a-a3dfa4d2b459 | -13.42131 | -61.91829 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 49e786df-5d51-3f29-96c7-07a8ea4583a3 | -13.40602 | -61.92847 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| de1df18f-696a-33b1-8393-072a60ce7e88 | -13.40524 | -61.93273 | 2024-10-08 04:59:00 | NPP-375D | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 04b0f0b3-5507-3a0d-a711-2ad5fc548495 | -21.97592 | -46.56318 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| fb1e8271-9489-3c9a-9204-29a803a0c75c | -21.97362 | -46.56441 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 4cb6dd8a-bae5-32ac-b682-dc50ed0af161 | -21.97005 | -46.5624 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 9572ee72-52ca-317c-8741-d597af1cfc16 | -21.96852 | -46.55472 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| ee33ad16-b393-300e-b7f6-caf780a7b796 | -21.96815 | -46.55906 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 69923671-2c6e-3a0e-b455-c8cefb1c36a4 | -21.96501 | -46.5527 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| b6f8abef-4aa6-3a3c-ab38-89ca97beef28 | -21.9646 | -46.55713 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| d655da58-dd3a-3fe5-af92-7c3e6b67bed7 | -21.96266 | -46.55374 | 2024-10-08 05:01:00 | NPP-375D | ANDRADAS | MINAS GERAIS | Brasil | 3102605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| ac4ea139-3c2d-3e8a-959b-49a97ff8299d | -23.45254 | -47.27287 | 2024-10-08 05:01:00 | NPP-375D | MAIRINQUE | SÃO PAULO | Brasil | 3528403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| 3d4316dc-be3b-3f45-9792-401c95fb5ebc | -22.58326 | -46.66358 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 169c8721-1128-341c-9f2e-67ac03e0220d | -22.57743 | -46.66228 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| d04be542-a0f2-3afc-bd36-0afa435c6ee0 | -22.57687 | -46.69403 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
+| 8a95d6fb-20d2-3f37-912b-0443bc76ef35 | -22.57651 | -46.6981 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 17.0 |
+| 0f82d755-6438-3fde-8a90-b75dbc39ec86 | -22.57511 | -46.68998 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
+| 1a291678-1d51-3a8c-81a2-2c260f5887b3 | -22.57472 | -46.6946 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
+| 6517e9d8-d1d6-380f-9ad0-daabd7eb114c | -22.57439 | -46.6985 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
+| 2d77443d-584b-3b1e-966b-dc74ea953a52 | -22.574 | -46.66021 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 5128bb38-6c05-381e-942c-c063c709703b | -22.5736 | -46.66461 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 7619f882-ea14-38e1-942f-99347b64661f | -22.5716 | -46.66091 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| fa5c8a68-ec44-3cd7-ba58-194e95c139f5 | -22.57142 | -46.68874 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| b7c8e556-0e4f-372f-856c-bb6ee9f0be8b | -22.57106 | -46.69275 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 8f0a9d30-0849-3e72-8d3e-8820659e7ff0 | -22.57072 | -46.69653 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
+| e5f0ac7e-0b2a-3b7f-9033-577080a67bae | -22.56921 | -46.68969 | 2024-10-08 05:01:00 | NPP-375D | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| f6c7605d-e8a3-315c-a455-b67f45760b74 | -21.85084 | -48.4072 | 2024-10-08 05:01:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 76ec54e4-c231-3509-b26c-184145ea1a1a | -21.85051 | -48.41055 | 2024-10-08 05:01:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 3dec00c7-5748-3ccc-a839-f942701edf6e | -21.85016 | -48.41393 | 2024-10-08 05:01:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 1a2bc44c-6d69-38a8-8a0a-a9871daa1985 | -21.84982 | -48.4173 | 2024-10-08 05:01:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 989de6e1-a1e2-3434-8918-b8926cd5b3fd | -21.84948 | -48.42064 | 2024-10-08 05:01:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 9903d266-cfa6-3bab-8e1a-9dd73c156ce9 | -21.84459 | -48.41671 | 2024-10-08 05:01:00 | NPP-375D | GAVIÃO PEIXOTO | SÃO PAULO | Brasil | 3516853 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| acf45e27-06f6-3128-80e2-c8b14e63417c | -22.80284 | -48.46143 | 2024-10-08 05:01:00 | NPP-375D | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README108.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1889c95a-2b6a-3618-938c-b59da56bcde7 | -11.92572 | -50.09017 | 2024-10-07 04:02:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| be179b0e-9ef2-3659-b644-00571382096e | -11.92452 | -50.09656 | 2024-10-07 04:02:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 5c29d978-0c74-3a30-9457-70d005d5e60b | -11.92056 | -50.08911 | 2024-10-07 04:02:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 9d907728-a36d-348e-ab57-0554a4cc8e41 | -11.92029 | -50.11897 | 2024-10-07 04:02:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d6b2ece2-0036-3a2f-80b4-17affdb6bcaa | -11.91995 | -50.09231 | 2024-10-07 04:02:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8adc9f69-2d08-32de-87ed-dec3e78fc5c1 | -11.91572 | -50.11472 | 2024-10-07 04:02:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 2687e600-644b-35ab-8e0c-56b7ba91df41 | -16.3159 | -51.27748 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d3e6aaf6-dac9-3f30-bad5-618d237b80fc | -16.31467 | -51.28352 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| c2cc9f3e-8bab-3618-b526-664024608b5c | -16.31407 | -51.28648 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2b1fe0e6-2cf9-3199-89c7-9921a34b8f9d | -16.31133 | -51.27354 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| e86221ae-3cdd-3af8-84f3-8b8909c4adb8 | -16.31067 | -51.27676 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c3392d88-0534-3b58-ad56-79bbcef2461f | -16.31003 | -51.2799 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 15c5141b-19f9-3c9a-8830-3024ea26df2f | -16.30943 | -51.28289 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 8794e964-0e05-3088-8e3a-0059a466eab0 | -16.30881 | -51.28588 | 2024-10-07 04:02:00 | NOAA-20 | IPORÁ | GOIÁS | Brasil | 5210208 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b5ec0deb-fea8-3503-97c7-bf799b841da3 | -16.20119 | -50.92599 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| b8ea13d8-063a-3bbf-8ca2-755f2f60bec0 | -16.20058 | -50.92902 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 25ceb730-b802-397f-84f5-a5a5554f29e6 | -16.18922 | -50.93315 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| c6f905a3-87e1-3abf-a3fb-638cb32a1608 | -16.18414 | -50.93219 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ce4c0a38-0bf3-3cd3-af50-3fc673303235 | -16.18291 | -50.93832 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 2c39fcd0-5b08-351c-b897-ae3c7cbdaf01 | -16.18167 | -50.94454 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| fd7a1e68-f039-3f73-8ace-5b7dbe08ab06 | -16.17784 | -50.93736 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| dba1f9de-a816-3a46-a757-559c5f6991c0 | -16.17722 | -50.94044 | 2024-10-07 04:02:00 | NOAA-20 | JAUPACI | GOIÁS | Brasil | 5212006 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 763512d8-6f44-3e35-9f91-e3c00ea205b4 | -16.17278 | -50.93631 | 2024-10-07 04:02:00 | NOAA-20 | FAZENDA NOVA | GOIÁS | Brasil | 5207600 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 35cfed0d-bdf5-3551-a0d1-75a31f48035d | -16.0633 | -50.44662 | 2024-10-07 04:02:00 | NOAA-20 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| df068711-f55b-30a5-8b80-78ed356d491d | -16.05837 | -50.44564 | 2024-10-07 04:02:00 | NOAA-20 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e9d7ad28-e75a-316b-a375-b12d7dffd81f | -16.05233 | -50.45035 | 2024-10-07 04:02:00 | NOAA-20 | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 4d31a453-8793-30eb-9663-8071cebf74ae | -17.24236 | -50.715 | 2024-10-07 04:02:00 | NOAA-20 | PARAÚNA | GOIÁS | Brasil | 5216403 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 1f664f5a-561f-309a-847e-d7e1ccc8b147 | -17.24121 | -50.72085 | 2024-10-07 04:02:00 | NOAA-20 | PARAÚNA | GOIÁS | Brasil | 5216403 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 6923373b-a24d-3e3c-818a-7bfba666ecde | -17.13999 | -51.71491 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| 7a357417-bbac-3d18-8af8-8f0b67a41b08 | -17.1393 | -51.71832 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| cc37d571-127e-3ed9-84f6-78abc8a6ec34 | -17.13409 | -51.71712 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| dab624d1-b991-31b6-9091-7281b3d700bb | -17.13025 | -51.70927 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 5f5ea7fb-7c46-3d93-a841-ae4d056341ca | -17.12955 | -51.71268 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 5f72ce63-639d-3f04-b2bd-d2755421b9b5 | -17.12888 | -51.71595 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| a633cfed-2b96-3f1a-9534-37e823aebff9 | -17.11254 | -51.71586 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| cc1978f9-685c-3b7e-a0d4-d5b39d539f93 | -17.11184 | -51.71928 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 6badf5c6-3813-3d3e-925a-b8bdfdee2bdb | -17.11114 | -51.72267 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 39a9b450-001f-3acb-b009-ec8978613156 | -17.10662 | -51.71812 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0ce86faf-7e7e-3047-85a4-dc5b8cb99dcb | -17.10593 | -51.7215 | 2024-10-07 04:02:00 | NOAA-20 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4c316403-d682-32dd-8ac9-1ebae43b6a7b | -11.29041 | -51.37217 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 4f6f9953-c832-377f-9764-d7a8730bd839 | -11.29022 | -51.38247 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 93c91867-0de6-35f6-8171-ff6bebdfa917 | -11.28965 | -51.37617 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| b953ecc0-ab4b-31cd-b737-4b706bbc82ca | -11.28611 | -51.37335 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 4a9f33b3-073f-3da8-a000-70b1e6cd2a99 | -11.28532 | -51.37734 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| df75ad86-869b-3a21-a89c-0b72ad54d75a | -11.28397 | -51.375 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| c7a70d65-0e1c-34b7-951c-a379fe0986cd | -11.25556 | -51.36917 | 2024-10-07 04:02:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 1149a55e-5491-3843-a75f-3110660dc8a8 | -17.67099 | -53.08763 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8ffc2727-282e-319c-b00d-bdda4a564872 | -17.66624 | -53.08232 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| efbe19c8-0727-3ce1-92d1-74bbc361a71c | -17.66535 | -53.08644 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| f3254a18-cdc6-37c3-b91f-3edde661b555 | -17.66447 | -53.0905 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 59344d54-41f8-320c-b173-3f4632adb240 | -17.66391 | -53.05236 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 5b6e8234-9579-316f-ab30-37794bf8bbdb | -17.66359 | -53.09458 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 48894e53-4b94-35a3-9f30-40b8e1ac9b3d | -17.66274 | -53.08614 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| ed757756-6327-3c2b-80eb-e33e48dbbf38 | -17.66271 | -53.09866 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 30d32f89-c28a-37fc-a180-61dff1d7c33d | -17.66189 | -53.09022 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| b7091199-0459-3208-9408-4026d728eeef | -17.66112 | -53.05152 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 65bdde7a-9a09-3b62-8938-3fda400c3edb | -17.66104 | -53.09429 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 4141b15c-7721-3028-bb1d-8eb8fb505209 | -17.66029 | -53.05537 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| c0179396-632b-3dab-a71f-035c0b926d88 | -17.6602 | -53.09833 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 0f2663ee-8605-3897-a084-c40db3418e8e | -17.65976 | -53.08504 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 1717884e-48fe-3abd-bdc2-a295538d97aa | -17.65831 | -53.05107 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| c8b769ef-db63-3776-97aa-753653bff50c | -17.6575 | -53.05492 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 8ebc0766-2a3e-3449-a386-91662eee3f17 | -17.65552 | -53.05022 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 6e8c979c-aada-3e29-bee6-a22ac6c4a16d | -17.65469 | -53.05405 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 56aa9731-ad98-31d7-a3e1-3ec671cc88d8 | -17.65191 | -53.05355 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 134a2954-c18a-3eb5-9a41-e67f4315dbd3 | -17.65109 | -53.05744 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 45ced62f-8af7-38d6-92d9-73d50877a365 | -17.64743 | -53.06038 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| b70e7352-195d-3539-b875-5d64206159d3 | -17.64469 | -53.0599 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| b4b418b6-868f-3873-81c3-f8aaaf8030b8 | -17.64182 | -53.0591 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 52415c48-b1bd-3b0e-9213-8e0ecad7d3eb | -17.63907 | -53.05867 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| c79e47e4-3a58-3e1e-b93f-37c4510facaa | -17.63146 | -53.09479 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 07a8e588-92f4-368e-8754-5c4b21d43f9d | -17.63124 | -53.1076 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| cb399236-c977-3dd2-9d08-d55a7a0a1048 | -17.63057 | -53.09899 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| fc435b2d-ba45-3105-9dcf-cea464e09365 | -17.62882 | -53.1073 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| b81ecc93-f2c7-39a7-b7d8-937a47849277 | -17.62798 | -53.11131 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 651a6ad2-73f7-38bc-ae8b-9592a6d7acf2 | -17.62714 | -53.11526 | 2024-10-07 04:02:00 | NOAA-20 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0c2509e0-261f-3c40-88c4-22c88f8769e9 | -17.6232 | -53.10595 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f14d7e16-7323-3454-934b-06e2bacd70e4 | -17.62237 | -53.10988 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 20ef7501-63f2-3d33-a967-3f5663cc9333 | -17.7714 | -53.09843 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6d8528d2-5c8a-3c89-9d17-027632848f0b | -17.77055 | -53.10237 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 29c68b09-5e6e-3290-be8b-24dbccf16c12 | -17.76969 | -53.10633 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 9d580758-775d-3e52-a245-4ec23f11b4fe | -17.76784 | -53.10312 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 40569108-c825-3ac0-8e09-3b02f214aad3 | -17.76701 | -53.10708 | 2024-10-07 04:02:00 | NOAA-20 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| dbe985bb-fe83-341b-be20-6351f384e31f | -17.84114 | -53.7841 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| b1b00786-961a-3dc9-955d-3d1a213c2181 | -17.83978 | -53.7813 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 77454007-5eff-3770-84b3-fb4a9b80d532 | -17.83897 | -53.78497 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| e541c370-106d-31a9-974c-283ca599a5ad | -17.83557 | -53.78145 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| 688c1568-0465-3fed-b033-1041db14449a | -17.83474 | -53.78533 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 11.9 |
-| bd8e2bc3-2766-3bae-9cef-625520d9cda3 | -17.83419 | -53.7788 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| bbc61a13-574c-3159-b052-a384a1a59ce7 | -17.83336 | -53.78255 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| 6e4c3c6e-004a-3b3e-9945-411127ba9c89 | -17.83068 | -53.77565 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 5b071b36-379a-36e8-b807-51add480980f | -17.82997 | -53.77892 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d7774562-deaf-336c-ab54-870b9c835041 | -17.8292 | -53.77364 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| d2ac5ae0-6328-3f2a-b85c-e1a6ef1030a6 | -17.82852 | -53.7767 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 29f87b5d-38da-393d-99e0-620c83a28bcb | -17.8256 | -53.77076 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| bac93627-7de5-3ec1-8375-b4975a3edac1 | -17.82488 | -53.77409 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 2d2d555a-b59a-38b0-aba3-c9c974574bfe | -17.82424 | -53.76828 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 82c813c9-ad08-3ac4-b427-1afef5154374 | -17.82344 | -53.77193 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| e5595191-4eac-348c-a9f8-dafc51e12ddc | -17.8085 | -53.76474 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| d0696313-91fc-3f01-a8f8-1aacff754bac | -17.8077 | -53.76843 | 2024-10-07 04:02:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 9a16a3d0-a885-386f-a01f-6fd45f9260c6 | -12.57102 | -53.06483 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| ed7cc37f-c8ea-3cb5-8d01-43742224b021 | -12.57026 | -53.06929 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| 29568275-92ab-3369-96b3-5748728a243b | -12.56731 | -53.06418 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| 18d33df1-b622-3c53-9fc9-b039b7e99f2e | -12.56656 | -53.06865 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| 590ccee3-415c-3afe-8d7c-babcc404c549 | -12.55618 | -53.06225 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 783023c1-955b-36cb-857e-484287f8922c | -12.48781 | -53.14835 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f10705af-b332-3263-920f-cedde8d50d93 | -12.48408 | -53.14769 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3128145f-5ec7-324b-b0eb-f83b9c00d111 | -12.48036 | -53.14703 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 07f8fe2e-cc60-32b9-b1f4-d86199b694d0 | -12.47741 | -53.14187 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3fb719b4-e0e8-3b86-a924-537102cc9786 | -12.47663 | -53.14638 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 5f12daeb-7f28-3adb-8adc-28cc93a626e1 | -12.47478 | -53.17911 | 2024-10-08 04:34:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 84c1acd0-f2e3-3307-97f8-7d0d8600b013 | -11.33382 | -55.23077 | 2024-10-08 04:34:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 0c547c2c-d4c7-333e-ae86-8daa5d70678d | -11.33179 | -55.23173 | 2024-10-08 04:34:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| de755e4b-196c-33c0-8955-76fa4e4b635c | -11.3295 | -55.22995 | 2024-10-08 04:34:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b67a6614-5534-3017-b762-1e9d51d25577 | -12.44651 | -54.45392 | 2024-10-08 04:34:00 | NOAA-21 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7a51b4a6-bc86-3960-bc13-83a16de6de3c | -12.44589 | -54.45749 | 2024-10-08 04:34:00 | NOAA-21 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8fd9b788-a787-309b-bec3-9d5b48733cff | -7.97741 | -54.78413 | 2024-10-08 04:34:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| cbf4f88d-8a5d-3682-90e4-cd153802211a | -7.97372 | -54.77905 | 2024-10-08 04:34:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 56c9c221-ae13-3246-b618-e47ffe68670f | -7.97297 | -54.78334 | 2024-10-08 04:34:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e155aaed-e680-3c91-acda-233aa91fd7ba | -8.62162 | -54.93353 | 2024-10-08 04:34:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| f9af01f8-5409-314d-b9ff-8e8d58b88ed5 | -10.82172 | -55.72489 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a6682b2c-5621-3643-b609-e355c0977107 | -10.81148 | -56.26671 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| d14ded47-91f4-3b3b-8043-31113db313a3 | -10.66258 | -56.05111 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| f26fb1dc-f6ce-3432-b4e9-32f4b0a2276c | -10.63138 | -55.9119 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| a0114568-65f1-36a5-bb06-efd2df5ea70a | -10.63054 | -55.9166 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 5956c403-fb43-36c5-809f-e36021541841 | -10.62969 | -55.92133 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 78693be8-9e56-3fb6-b9b6-1af3e62161ee | -10.62882 | -55.92621 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| af6436ff-e8a3-3c2b-b195-d5a7a18f4578 | -10.62764 | -55.9064 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| c33819b1-34d7-3e70-9773-8b40fa8fdaca | -10.6268 | -55.91111 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 32e94365-7729-3231-a25d-a6c82fc9a1e8 | -10.62595 | -55.91583 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| 7be2f128-1828-32fd-a526-d6cdca27adcc | -10.6251 | -55.92057 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| 2277f7a1-fc3f-3dd4-b459-02bdf5456f97 | -10.62425 | -55.92533 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 63c38888-06bc-33e4-b20b-2d243061bc5a | -10.6222 | -55.91035 | 2024-10-08 04:34:00 | NOAA-21 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 554322ee-2140-361b-b823-e075e2610ea2 | -10.33877 | -55.59353 | 2024-10-08 04:34:00 | NOAA-21 | COLÍDER | MATO GROSSO | Brasil | 5103205 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1728f052-9ea6-3a29-a4f7-5c16197371c3 | -9.8146 | -56.4224 | 2024-10-08 04:34:00 | NOAA-21 | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 0046b748-3b1c-30bf-ae8e-05de808c6f90 | -9.81368 | -56.42411 | 2024-10-08 04:34:00 | NOAA-21 | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 44ac3d08-2cdc-3239-9a6a-5dcf1d196b1d | -11.47479 | -56.76473 | 2024-10-08 04:34:00 | NOAA-21 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| bf4179a2-7d7e-349f-9fc6-79d104671687 | -11.4744 | -56.76663 | 2024-10-08 04:34:00 | NOAA-21 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 7d5dde0a-ed00-3970-94a9-7c04a5d462df | -11.38121 | -55.59637 | 2024-10-08 04:34:00 | NOAA-21 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f76aa72a-366a-356a-9485-130d1dd6cced | -9.36267 | -57.5018 | 2024-10-08 04:34:00 | NOAA-21 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 420ac140-362a-3bf0-9008-e805a4691598 | -9.35744 | -57.50093 | 2024-10-08 04:34:00 | NOAA-21 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 138119f9-b368-3233-b90c-58a8b2e90a00 | -9.35686 | -57.50416 | 2024-10-08 04:34:00 | NOAA-21 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| f12953dc-001c-3f26-8b91-aada18a1405c | -10.56326 | -57.69416 | 2024-10-08 04:34:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5eb78ef1-a4ff-39d0-a59c-ae1106e39263 | -10.562 | -57.69308 | 2024-10-08 04:34:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3e25b5be-abd5-365c-a1c0-5805d62eb671 | -10.55807 | -57.6933 | 2024-10-08 04:34:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 99848b07-1815-3e9e-b5f0-6e2a0cb34a25 | -10.55683 | -57.69216 | 2024-10-08 04:34:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4d0ff87a-53c9-30e6-9ecc-60ef250decac | -10.32767 | -57.79201 | 2024-10-08 04:34:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 543605fc-ac7f-370e-b002-910e477df308 | -10.24576 | -57.73764 | 2024-10-08 04:34:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 50b1849b-abe2-3dd7-a6a4-d1eb210fdc8d | -10.24056 | -57.73659 | 2024-10-08 04:34:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 63394f26-3afb-38c5-be62-650e41a5f766 | -9.54415 | -57.90364 | 2024-10-08 04:34:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3234357d-dd50-3de9-900c-08847b27fd97 | -9.54223 | -57.90361 | 2024-10-08 04:34:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 3b79a0b8-98a1-3c2d-9603-2065c343f253 | -9.48385 | -57.93148 | 2024-10-08 04:34:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 36610f84-dd5a-320c-8b73-a7307e92e96a | -9.51821 | -59.50676 | 2024-10-08 04:34:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 69c7482b-7de7-3c81-9861-6bcf619329a0 | -11.49235 | -59.09545 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 03ee8eaa-bb15-32b8-9dcf-1381e79c6ba7 | -11.49165 | -59.09916 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 5d3e1b23-0011-3f81-8222-1bc750938de1 | -11.49088 | -59.09676 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 57e851b1-9998-326e-b91d-27118a3e4b62 | -11.49015 | -59.10046 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| fd302f08-d6f2-3aa2-a254-27cb15ac4ed0 | -11.48679 | -59.09435 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 99be38ce-448d-3562-9495-aa3890d5ec70 | -11.48608 | -59.09809 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 739d47e1-7255-3b38-91ad-5b4e5abeb3c8 | -11.48531 | -59.09571 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 53fcaafa-a736-3fc3-980b-bbf76bfc8122 | -11.48458 | -59.09943 | 2024-10-08 04:34:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c6511e31-49ac-3041-8a87-545f1c7324db | -7.13534 | -59.29839 | 2024-10-08 04:34:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 2147d14a-f60c-3de4-b30f-5a7748339283 | -7.06366 | -59.4506 | 2024-10-08 04:34:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| f641e9f1-df6d-3879-8420-6ae018f68d40 | -7.06277 | -59.45544 | 2024-10-08 04:34:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 47358903-90b1-37da-91e9-cb89e1ba4443 | -7.02684 | -59.4098 | 2024-10-08 04:34:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| a46b7311-b4cf-3ee9-92d6-090c7a728f0d | -7.0207 | -59.40879 | 2024-10-08 04:34:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 0719ddad-fa52-38b7-8bc9-da6b88b6cbb4 | -7.01457 | -59.40773 | 2024-10-08 04:34:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 96a30bef-5a66-3fd5-8403-79d78e5044df | -9.02452 | -60.43187 | 2024-10-08 04:34:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| e1ae810a-3f1f-307f-81bd-5803760b0663 | -9.02355 | -60.43696 | 2024-10-08 04:34:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| cd5b5f11-7047-3d6c-b4b6-a138598b9946 | -9.01289 | -60.42439 | 2024-10-08 04:34:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 9d9a1ac9-88e6-3dd4-b072-2887c2d3614f | -9.00654 | -60.42344 | 2024-10-08 04:34:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 995a2911-a24c-3ee9-86fe-01a972681a77 | -10.42181 | -60.99378 | 2024-10-08 04:34:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 14923d3f-90e0-33b4-b724-dfa8694117b0 | -10.37911 | -61.17561 | 2024-10-08 04:34:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| dc079955-d9a6-33d6-b894-e954c471c7b7 | -10.37804 | -61.18103 | 2024-10-08 04:34:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 0eebe75a-418e-3270-bd19-20d8c63d3869 | -9.95591 | -59.84322 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f328ee75-3f90-3834-9188-b4e0c934738e | -9.95504 | -59.84769 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 89b7a9a9-4a19-383b-af4b-a5dd89454047 | -9.92365 | -59.93647 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| eca11821-1468-3a1b-a52f-e73e223de89f | -9.92277 | -59.94112 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| a8b7d3f3-fa0e-335b-a30d-ba668f33cb2e | -9.9106 | -60.17208 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 73ced41f-48a5-308b-8ea0-81f5fc7a1395 | -9.90966 | -60.17686 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 00677632-3bc3-3016-bb71-d99eca7f7ca5 | -9.90446 | -60.17104 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5937771e-daf6-3dfa-b2de-4087484fb096 | -9.88436 | -60.30652 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| be9ff71f-6a29-3e98-98e1-ed70458b4a64 | -9.87817 | -60.30543 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6257fbd5-5ae0-36b4-9ae4-b38ef9eb030b | -9.87721 | -60.31034 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e1ab5f76-03bb-300e-beda-2e906cc05787 | -9.87105 | -60.30911 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 946142a6-cad7-3254-b347-1759be4db12b | -9.87057 | -60.14983 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| d87f78b9-ec04-3921-952e-f185a83be9c5 | -9.81496 | -60.46291 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| bae397b0-6759-373b-ba70-f22ab9101e56 | -9.81179 | -60.4463 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| dafd3634-e5c5-388e-a54f-ae097a3f2003 | -9.81096 | -60.46202 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 9aaab383-d68b-3cc2-bd1d-e9b085f2db23 | -9.81 | -60.46704 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 567c0adf-0884-3ac7-b6aa-bfd7363da6f4 | -9.80863 | -60.44051 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| cda9cbc1-aaec-36c0-8c46-3cc5e3f4f836 | -9.80776 | -60.46659 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 21ddb733-863c-3869-a3de-247b1bdb0bf4 | -9.80766 | -60.44553 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 7b62d623-c9cc-320f-bda5-8a9629f2a65c | -9.80671 | -60.45048 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ed56ed34-bc9e-338c-8af0-70e6d3b69c8c | -9.80555 | -60.44518 | 2024-10-08 04:34:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 19a99152-6ed9-3cc3-bb33-889ce12ffe78 | -11.2589 | -60.4822 | 2024-10-08 04:34:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 90cb136e-0c6c-35f8-9bf2-530fe0b1eeb1 | -11.25807 | -60.4864 | 2024-10-08 04:34:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| bb1f6cec-8313-3efb-a06e-d9b7ef20b4c8 | -3.89043 | -60.59212 | 2024-10-08 04:34:00 | NOAA-21 | MANAQUIRI | AMAZONAS | Brasil | 1302553 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| b4e942c6-d0e6-330e-83c5-c7270a99f34c | -10.20885 | -61.95654 | 2024-10-08 04:34:00 | NOAA-21 | OURO PRETO DO OESTE | RONDÔNIA | Brasil | 1100155 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| df1eff02-c70a-328a-8ef8-3c6561e79f1f | -10.20772 | -61.96214 | 2024-10-08 04:34:00 | NOAA-21 | OURO PRETO DO OESTE | RONDÔNIA | Brasil | 1100155 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
 
 
 [Clique aqui para ver as próximas entradas](README60.md)

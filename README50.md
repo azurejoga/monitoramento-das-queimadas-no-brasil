@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b7c7d99b-9659-3ae0-80dc-13ad972b44e3 | -21.08073 | -47.22842 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 700627bb-1290-3614-95f5-2f114d469424 | -21.07872 | -47.23766 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 54760f93-2898-3557-9455-a34e75ac62d9 | -21.07726 | -47.23973 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| e4a6c522-142e-3d2a-a140-0f9105d629b4 | -21.07524 | -47.22724 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| f0d731a6-dd66-348b-9084-55b3f6a642c6 | -21.07387 | -47.22921 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 2eeba10d-05f5-3cb5-86be-5af33a894488 | -21.07158 | -47.24401 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 36d80909-004e-3db6-b003-06ae5a90b59d | -21.06893 | -47.22981 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| a46d43b5-3b99-350d-a89b-50de509e9465 | -21.06815 | -47.23335 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 034cdb3b-e8d1-39d4-8c41-bd56fd863e38 | -21.06737 | -47.23693 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| a21c2faf-02ac-3928-b007-b68b42e8a6c1 | -21.06639 | -47.24141 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 184e2fb3-3be1-3e8b-920b-97788b8d1278 | -21.59907 | -47.72778 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 4f9a5098-3a9e-3ada-99a8-cc506d37c8a2 | -21.59814 | -47.73191 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 3cb4e2fd-63e6-31a3-86d0-dc49b932759c | -21.59721 | -47.73613 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 0aa5f70d-26e6-3012-9c9f-0e3099f7cb9e | -21.59632 | -47.71378 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| a0f562f5-a71d-36b5-a65c-b35f26d7bd7c | -21.59462 | -47.72136 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| dea16322-595b-3f43-854b-6a732b6e4c88 | -21.59366 | -47.72566 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 179dc7f5-98e9-324c-b0e6-ce13a81d25aa | -21.59268 | -47.73008 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 25.6 |
-| ca1e5a0f-da4e-3f05-901c-fa8bfedeb1f8 | -21.59091 | -47.71172 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 2b4cbca4-f789-3b66-ab4d-403b85414e99 | -21.58923 | -47.71922 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| d03a1fb3-1245-3dcf-ae12-a97088cc7783 | -21.5818 | -47.72616 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 8b3631bf-cb37-32ae-a11b-a5c6d6f7c3b4 | -21.57736 | -47.71977 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| c2a53274-626e-3eac-9e90-2226f8e291bc | -21.57534 | -47.72879 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 7207b360-0af3-3af6-9767-a28aa1c4a1bc | -21.56771 | -47.7366 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| ca56c1c0-5dbf-3b64-9beb-d4a6b162b28f | -21.56316 | -47.73067 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 5f2ede97-011c-3167-b70e-8743ef204eb2 | -21.35506 | -47.66361 | 2024-10-07 03:40:00 | NPP-375D | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 2f4ff24b-5ec1-3b20-a6c5-0c8a3e148cfe | -21.32414 | -47.60319 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| 0fba5b07-a874-3494-a7e5-7bddfe7e9a97 | -21.31685 | -47.60966 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 85fc81c9-c05d-3fc9-85ba-62b6c46601ce | -21.31585 | -47.61422 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 90469167-edae-3321-95de-c4948ef344c8 | -21.31336 | -47.59894 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 5d31723f-6398-37ba-b405-700848ec86d5 | -21.66549 | -47.73197 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f11cffeb-5e9e-3e3f-84f2-118065474858 | -21.66461 | -47.73587 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e019291d-28a5-324f-b1e1-3f23a5a1bbc3 | -21.66 | -47.73028 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 318cc085-0eda-3be2-8ffe-0d9e3a7f3b87 | -21.6591 | -47.73428 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 7ac12ab8-9bce-3941-be82-b124bc208c52 | -21.65547 | -47.72436 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| efd0a6ee-5187-3a2a-9bca-ac79967d3997 | -21.65455 | -47.72844 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 01276f73-9c37-37c9-8129-a820ba5b0bcc | -21.65362 | -47.73253 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 698678fe-9f66-3f6f-8724-adbae9cf994d | -21.65 | -47.72262 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 4f747de2-de52-3760-b698-36a4097220c7 | -21.64909 | -47.72663 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 59323335-f9ce-3de7-a5db-83e1b811f4ea | -21.64817 | -47.73066 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 300c90be-4e9c-376a-8238-e6c6779cfdf2 | -21.64725 | -47.73474 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 94af9b0f-4ae1-3a18-a87c-0ba05d31d06c | -21.64449 | -47.72105 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| cff94464-38e2-3def-8a2e-ecb262809f34 | -21.64357 | -47.72504 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 2ba196e5-f8a0-3f30-897e-27cf8ec1b9f7 | -21.64265 | -47.72912 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 2b79b23d-ec70-3813-ade8-f235cfce5d9c | -21.6414 | -47.7221 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| a7d0bb1c-620c-3b6a-abf1-5e27299b9ebc | -21.6405 | -47.72616 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| f839cec7-e68b-32cb-b5c9-e9ca50444aaf | -21.63891 | -47.71976 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| d607b8a3-8c49-3dfd-a27f-38618cb696dc | -21.63799 | -47.72377 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7a1c003f-ee10-38e9-b4ee-bdd90847d12b | -21.63581 | -47.72087 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| b9341cf7-8aae-3792-afba-7042ead83f6a | -21.63331 | -47.71857 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 3b37cbe6-a43e-3eec-824a-92c6b1980e76 | -21.60621 | -47.72206 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 07f4f61d-94d8-3c20-8a3a-0eb217323a08 | -21.60082 | -47.71992 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| d923ce24-60d0-3e8b-88bc-e83e67e83f58 | -21.59171 | -47.70815 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 7299b6a4-7a71-34d7-b588-a237686466e5 | -21.58827 | -47.7235 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 58c7d317-5cb9-3e9e-95d4-3fff2d192ec6 | -21.58623 | -47.73263 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 25.6 |
-| 5f6245de-d58c-352d-ac3d-f2188142d9f7 | -21.58285 | -47.72147 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 82985d62-dcc8-311c-aacf-4dd9bd4ddec3 | -21.57978 | -47.73518 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| d65f893a-56ef-314a-a25b-9c2b88544c56 | -21.57429 | -47.73348 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 88c811d9-b27f-3394-ac1d-b1af0a093b54 | -21.56986 | -47.72701 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| f82ee4ac-ef2a-3764-9ae2-487051a31592 | -21.55853 | -47.72512 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 4a9ef500-3e6a-3737-a65d-dc53fcc10862 | -21.55759 | -47.72926 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 00b0a507-93d4-3090-8028-6964dfc23427 | -21.35597 | -47.65957 | 2024-10-07 03:40:00 | NPP-375D | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 3218b18e-54f2-3293-be60-3bc992491969 | -21.32321 | -47.60741 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| a289549c-aadd-307f-b7a8-c140aba0b7f7 | -21.3198 | -47.61181 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 11.6 |
-| c25bda34-ca78-3604-a307-f08f978b5453 | -21.31639 | -47.60102 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| c5df7671-1361-3a35-9175-958da426faaf | -21.31549 | -47.60498 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 900b345f-e445-3e1a-82b9-2af8bd151c00 | -21.3144 | -47.60975 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 11.6 |
-| 90342538-e484-3080-ba17-33071b7d7e56 | -21.31253 | -47.60268 | 2024-10-07 03:40:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 158aaf6a-cae6-375a-b0e0-d3d05aa31b0b | -21.08025 | -47.22646 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 326a87d6-3aaf-3b46-ba2f-3298d51c9a8a | -21.07972 | -47.23304 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| c1a81d7e-169a-3dcf-9718-f7a4fbd16f85 | -21.07778 | -47.24197 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 8582db67-3fd4-3183-843f-fb0deb8b378c | -21.07353 | -47.23504 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| bef65ebb-a364-3a82-89f3-3283e06e81d2 | -21.07301 | -47.23305 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ba34782f-d92b-3480-ba93-adf57fb46429 | -21.07263 | -47.23922 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 859aba55-876d-36d1-85d7-2e963983eec8 | -21.0711 | -47.2415 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| dc377900-1490-3c6e-a062-2d86f1699a1d | -21.28329 | -47.39423 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 2931436a-4f49-355e-a0c9-568beee6bfb5 | -21.27876 | -47.39518 | 2024-10-07 03:40:00 | NPP-375D | CAJURU | SÃO PAULO | Brasil | 3509403 | 35 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 3dd179b0-f043-38a2-a7d1-b204c91a4070 | -21.07928 | -47.23076 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d7ea4894-b8f2-3895-aa8a-07db41ff079b | -21.07824 | -47.23537 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0edf73cf-4883-3572-ae75-2e39ec441e86 | -21.07439 | -47.2311 | 2024-10-07 03:40:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 0c22e195-7f49-3b5f-8ade-b285530aaac6 | -21.07213 | -47.23694 | 2024-10-07 03:40:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| cf00149d-ebec-3748-92f0-5530b840cb93 | -21.58988 | -47.95525 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| dedac617-91a6-3046-ba5a-122a6825c8a5 | -21.58866 | -47.93973 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ce963a82-4110-34f6-8c23-9c559c3889e1 | -21.58491 | -47.95609 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 65577305-dc6b-3757-9955-a4a808c616ea | -21.58434 | -47.74111 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 39fa900a-d430-31d8-9f87-0f4faac68600 | -21.57743 | -47.93677 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 93de5261-dc34-3baf-a7ff-7ef27991a135 | -21.57669 | -47.93427 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 42b43d9e-1bda-3164-9398-56d4e0da051b | -21.57324 | -47.73816 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| c904d7dd-b301-3f00-9095-c9a0360440b8 | -21.57275 | -47.93121 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 392ac2f1-9e61-31cd-bf70-a425c6381082 | -21.56943 | -47.75512 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 939aa6ad-6d9d-3e54-ac35-8f2019f7a2dd | -21.56762 | -47.76319 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 3ea1318f-de8c-375a-93a6-2580e3f39ab0 | -21.56671 | -47.74102 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| d3b6cefa-1a12-32d8-8713-b57af5089a2b | -21.56574 | -47.74535 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 24728ce6-cb8d-3e86-969c-80a5fb7e148e | -21.65182 | -47.74048 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| da93ec6e-24c1-3a56-9b68-832de825d3d6 | -21.59613 | -47.95916 | 2024-10-07 03:40:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 9d133831-28b5-3bdd-9119-89d18bd35996 | -21.5924 | -47.94944 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 5bd13eda-f0de-3a2d-87b4-658f2c31a74a | -21.59078 | -47.73858 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 289849ac-6e9d-3e4b-bc91-fa02a406b032 | -21.58585 | -47.95201 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| ae03a629-ca39-3234-89ac-3ea9902c1d83 | -21.58429 | -47.95363 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| eec85b91-8915-3cee-a871-cc1bad6dcefc | -21.58339 | -47.74534 | 2024-10-07 03:40:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 96fa614e-bb02-35f6-89e6-25c83cef6003 | -21.58139 | -47.93988 | 2024-10-07 03:40:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8faf6a02-5b83-345e-8b75-85ced257636f | -1.61205 | -47.46756 | 2024-10-08 04:32:00 | NOAA-21 | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 52f47ffc-0773-30f4-a698-17ced4b2333d | -1.59119 | -48.0334 | 2024-10-08 04:32:00 | NOAA-21 | BUJARU | PARÁ | Brasil | 1501907 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 24d84568-cd4d-3ac9-9021-fd72e21dec00 | -1.56539 | -47.33308 | 2024-10-08 04:32:00 | NOAA-21 | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| bc4f8120-6373-3634-a4ea-cb40e62eceac | -1.26057 | -47.64717 | 2024-10-08 04:32:00 | NOAA-21 | IGARAPÉ-AÇU | PARÁ | Brasil | 1503200 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1fa7897d-69b4-3bae-9f8b-c073bf270ff5 | -1.05815 | -48.00447 | 2024-10-08 04:32:00 | NOAA-21 | VIGIA | PARÁ | Brasil | 1508209 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 24206196-634c-394c-995c-5b5d23e6e0d4 | -1.34932 | -47.21423 | 2024-10-08 04:32:00 | NOAA-21 | BONITO | PARÁ | Brasil | 1501600 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 4d2280bb-e68f-34c4-a671-25566c518c77 | -3.49698 | -48.89256 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 16bd2ac2-8c9e-3d48-86fe-12ec47948710 | -3.49641 | -48.89617 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a7c067c2-f818-3c08-afc6-f5143600dbe0 | -3.49632 | -48.91852 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d8e6eb81-e78e-3169-a9f1-cf9b69676207 | -3.4936 | -48.89201 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 083a7a21-1325-3307-9862-7b25b591ab88 | -3.49302 | -48.89564 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 98a12b46-1190-3667-a0a6-d69c87afd9ae | -3.49293 | -48.91799 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 084dfa04-5e94-3c72-b363-37ff2b213b79 | -3.48963 | -48.8951 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ae04dd7c-516c-387d-b081-5407745da3c4 | -3.48905 | -48.89874 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| b2f3ee52-8d18-35ba-8457-557832ec71a9 | -3.48567 | -48.89821 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a216cb00-a43e-3018-978d-1e101f0c6ecb | -3.48508 | -48.90185 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 7cee5db3-6d56-3b02-8303-f8531611fa3e | -3.46423 | -47.66109 | 2024-10-08 04:32:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 1a87c67c-21fd-3fa3-836f-cfcccb829f06 | -3.46369 | -47.66453 | 2024-10-08 04:32:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 625c4162-2f20-3d1c-8522-7f5c66e5c30b | -3.46184 | -48.82046 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| eab6a009-4cb5-3d9e-9d40-987b957d2887 | -3.46039 | -47.66402 | 2024-10-08 04:32:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 77ced97e-4888-371c-afe1-ebfdc678bad2 | -3.45846 | -48.81993 | 2024-10-08 04:32:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e0c7895b-5166-3088-b2db-ee3e58b79c26 | -3.2208 | -48.92422 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| d2229f10-1e16-3f33-a762-60ca4a1588e6 | -3.22022 | -48.92789 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| e596943c-1c59-3f22-835e-36815735cbd3 | -3.12029 | -48.63025 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 38070fdd-158e-3c08-9f09-8d2842a270b2 | -3.11692 | -48.62972 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9908fa48-0036-3c98-ae6d-0490a5c3c8a6 | -3.11635 | -48.63332 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 439093b9-4468-3068-8b75-a95346cf642e | -2.84162 | -48.0889 | 2024-10-08 04:32:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 4f3f4399-1888-370d-977f-9a59c2af8b03 | -2.83836 | -48.79363 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 1a0e06a5-1c88-326f-8f4d-32c88376d29d | -2.79301 | -48.56806 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| dd99415f-6f4f-3ed5-a049-5013c837ca98 | -2.79244 | -48.57165 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 3a755472-ba8f-352b-acbd-062018279813 | -2.79187 | -48.57524 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 14.0 |
+| 4de0aa17-335a-33f4-8f94-0d598721ed1f | -2.78964 | -48.56753 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| f143f324-915a-315e-a443-ab040dfe8d7a | -2.78907 | -48.57111 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 7e7c69e5-7784-3d8f-8df2-3b75a81739ef | -2.7885 | -48.57471 | 2024-10-08 04:32:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 7f218d7c-19b8-3904-82a7-c1197883ad8d | -2.54669 | -48.40845 | 2024-10-08 04:32:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| b91029ab-e010-3b42-acb5-8ca6c973d98f | -2.40874 | -48.59343 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 8f497341-3a90-30fa-a184-6278bcba3b4c | -2.40817 | -48.59705 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 2a1bde80-aeae-305f-80a8-d744a712e84e | -2.40536 | -48.5929 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ebd897c4-ee5b-345f-85bc-7946e417a636 | -2.40479 | -48.59652 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 00e73a33-f9a2-36e1-8bff-853e3ddf6cd5 | -2.38895 | -48.63118 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7336d09a-db41-3d4b-accf-78ffc9e73fa3 | -2.35207 | -48.49223 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 0ff667c1-f577-3826-978b-d35bd1023279 | -2.34254 | -48.83743 | 2024-10-08 04:32:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 66cde9e5-7e85-37b3-b313-22e9f29b3dbb | -2.29593 | -48.48664 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ce1da318-6978-3c86-86c9-b5e589638079 | -2.29536 | -48.49024 | 2024-10-08 04:32:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 800f3fda-09d2-31bc-91eb-47c69a1c3444 | -4.78136 | -49.2093 | 2024-10-08 04:32:00 | NOAA-21 | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| d4a0cff6-50bb-3a06-9f11-c511cef6abf9 | -4.92184 | -48.62286 | 2024-10-08 04:32:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 83c0fa52-6496-3d9c-92c8-58bee3af5926 | -4.78763 | -48.09724 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bea0b0bb-af8a-3bfd-8c80-fc7d08fcfe25 | -4.7798 | -48.89441 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 730ad68f-7e11-3f96-b6f1-3fced35c6f8c | -4.77923 | -48.898 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| bc9391d5-c9a0-3c76-8136-517020516d95 | -4.77807 | -48.90518 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| c51acbea-5985-356e-a7c9-9667d1c30b7f | -4.39647 | -48.69524 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 0b40b62d-0bfe-306c-874a-7362a38e74c0 | -4.39368 | -48.69119 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| 93a4845e-9003-31ae-9d17-65e7c8aa4d0e | -4.39312 | -48.69472 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 5f9a8104-cda5-3dc8-8192-d52a1c1b3619 | -4.39033 | -48.69067 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 009c4526-7fa7-3fdd-8eb3-c0fe7ab2a111 | -4.38977 | -48.6942 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 46727bed-852a-353d-8e35-3db8ce7384af | -4.38194 | -48.70024 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| e70bf6b2-93d9-3c8e-ac64-068eb6a3c726 | -4.37581 | -48.69563 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0c0421fa-a597-30ae-a040-ceb59b51e4b1 | -4.37524 | -48.6992 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f2f6b664-613c-3c96-a9c6-f132dccc30cc | -4.36265 | -48.22198 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 702ec7c0-ccfa-3bb1-b09b-700a81e77c1e | -4.36044 | -48.2145 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4a80a7b5-bb12-33b7-9b30-dd79ee3dbd39 | -4.35989 | -48.21797 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d924203c-b4f6-3892-a851-d00dc34eda73 | -4.29756 | -48.33274 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| aacf745c-afa0-397e-8f0c-1b8e276cd627 | -4.2812 | -48.64833 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 58a5c4d7-0ba1-33e0-b58c-aa33a6466733 | -4.21547 | -48.87535 | 2024-10-08 04:32:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0da43503-350d-3d78-8ebf-f37241071aeb | -4.19136 | -48.57194 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 23397adc-f409-3c41-b7d6-3626e010b379 | -4.18857 | -48.56791 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| a0e75d94-6468-32b8-9326-69b827dce503 | -4.18801 | -48.57143 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| bf11c64a-cda0-333d-b7ed-60182e1445df | -4.16393 | -48.61489 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5a36b6f4-31b8-334f-853a-f20ccb5a1087 | -4.16001 | -48.61791 | 2024-10-08 04:32:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 80faa269-d216-3df1-8fde-ca2a835d6dbe | -4.1423 | -47.87079 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| a44b8176-c762-337a-93f8-7eb782960ff9 | -4.09882 | -48.25496 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 6d5c7e1d-1e5f-31db-9afb-fed8a57bb13b | -4.09827 | -48.25845 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 9781c700-7627-3599-83a9-89c4672350f8 | -4.09772 | -48.26195 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| c7bf1359-aa91-3104-9a86-0b041a9aaad1 | -4.09717 | -48.26545 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| dd3d6af8-11ed-3fb3-b2d3-cc11af9cc2d6 | -4.09662 | -48.26895 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 6b7f6c05-202b-3c2a-9085-c53c0cff56f1 | -4.09605 | -48.25096 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 814d227c-d511-3e62-8615-805e787eda7b | -4.0955 | -48.25444 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 270c6c3f-fcf1-3450-bae1-ab907b850071 | -4.09495 | -48.25793 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 2a67b827-2674-32d6-acbd-fb76cadca68d | -4.0944 | -48.26143 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 00490d06-441e-3688-bb0e-b2ab0e1ed48f | -4.09385 | -48.26492 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| e209e2b7-0fea-330e-93ba-99965d1293e1 | -4.0933 | -48.26842 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| eda505de-81c5-3f50-ae17-9d6abe1487c0 | -4.09164 | -48.27892 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| bc79d1f9-4565-347a-8174-6b2f5215fbd2 | -4.08832 | -48.2784 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 607c2557-3cba-3381-acfa-5d73eb5c6b4b | -3.91383 | -48.3476 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| ad6391cb-1754-3798-a9b7-c3ec9f38783e | -3.9105 | -48.34706 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| babe7467-c740-3aa0-8532-c99e9f50f5de | -3.90994 | -48.35058 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| cad3f843-c8fb-370e-8ffc-1b644467edf9 | -3.90939 | -48.3541 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 8e26abb7-dbcb-3d0a-b3de-0b2e54fa1979 | -3.90773 | -48.34302 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 75ae0b8c-a549-39d8-b08d-4361d1018c27 | -3.90717 | -48.34653 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 17116987-7f8f-3736-9cc2-e752b40356e5 | -3.90662 | -48.35005 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 92f69da2-56f4-33e0-8709-b7b57ce907b0 | -3.9044 | -48.34249 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| f2eb6d4a-5d8f-3c74-a264-22c3fffef415 | -3.90385 | -48.34599 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| f0a059f0-1ca7-380b-9dfa-e04ddbbad67d | -3.90329 | -48.34952 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e89975c5-c0ae-33dd-b5bc-89e262f1ca5c | -3.90272 | -48.35305 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 10f39794-ee28-33ef-8148-544177041f4c | -3.90107 | -48.34197 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 691070e8-c385-34df-84f3-5ccd96fb382d | -3.90051 | -48.34547 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d4ed1953-c8b1-3817-a785-43907d43bcfe | -3.89939 | -48.35252 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| f5812f19-a36b-3342-b84e-754b822a0061 | -3.89774 | -48.34146 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0156166a-a831-3382-910c-1b6442907264 | -3.88827 | -48.358 | 2024-10-08 04:32:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| ded47d59-9064-359c-845d-64099a1f6600 | -5.46168 | -48.91127 | 2024-10-08 04:32:00 | NOAA-21 | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README51.md)
