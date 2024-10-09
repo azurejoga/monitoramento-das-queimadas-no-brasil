@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 968eaed7-e8f6-3a26-b646-c73ee0603ec0 | -16.75847 | -57.46627 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 684005ed-90e1-311c-b627-2e2d87f679d3 | -16.75825 | -57.48878 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.9 |
-| 4f4ada87-6857-3ddc-97d4-790038521764 | -16.75573 | -57.46205 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| bba4304b-59ad-31ef-b024-ad559a621424 | -16.75514 | -57.4657 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 4f39264b-6120-3f5f-8c32-51247c393b61 | -16.75491 | -57.48819 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 0f47dac4-1d7e-36fc-a367-4f8f9975af01 | -16.75335 | -57.46199 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| a4b78087-1acd-35e0-80d8-5ebd05056386 | -16.75277 | -57.46564 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 71a864e1-2615-3738-932d-a21d1226aafe | -16.9218 | -57.70229 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| 14b18245-1ba2-3410-b81c-e50fbbb7aee2 | -16.9212 | -57.70598 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| 56cea4e5-2cb6-3c81-89ba-d5510ca71a9f | -16.91905 | -57.69803 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 5c45cf9c-14d3-3573-8a72-7bfb63662a8c | -16.91845 | -57.70171 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 9113a1f8-8b32-32d8-9162-d208c7cd28fe | -16.9157 | -57.69744 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 808d7017-4979-36e5-ab7f-7ce404003051 | -16.91511 | -57.70112 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| cb4ce59c-6e5f-3ab3-b816-fbfa1a662416 | -16.91295 | -57.69317 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 104ea267-93ce-38e0-b430-372556e8479a | -16.91236 | -57.69685 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 0693e06f-f380-35f7-9491-6f742e88a954 | -16.90901 | -57.69626 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| c6fc81ac-efed-3039-bf8c-6831d4b869d1 | -16.90626 | -57.69199 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 8b299a01-3e74-3c8b-a7a7-0e01bc8eab31 | -16.90232 | -57.69508 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 3e7914d3-d295-305e-941e-83c8409a5a23 | -16.89407 | -57.68227 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 080e67e3-b79d-3709-a4ea-883bfc24878b | -16.89348 | -57.68595 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 73790063-7df5-3bb8-899d-273709056f01 | -16.89073 | -57.68168 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| ce5ab5f0-ba67-30c1-97f5-8d5fcdc73a6a | -16.89013 | -57.68536 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 345fc898-df90-3dc4-a0f9-e106ccb126df | -16.88953 | -57.68904 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 6845778e-8158-350a-b48b-beb84e455c4f | -16.88833 | -57.69641 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| be5864a9-cc1c-3722-8a1f-037cc096a477 | -16.88798 | -57.6774 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.2 |
-| 3b972578-ae5a-3be6-9672-ae9888a910c4 | -16.88738 | -57.68109 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| d800c4f8-3fa5-3f15-8ee6-4c190d8f77ba | -16.88678 | -57.68477 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 5f7d42fc-1f67-3513-9171-14c5ac2f26b0 | -16.88464 | -57.67682 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.2 |
-| a3b5bcf1-75ca-303f-98bb-5cec55d4a039 | -16.88344 | -57.68418 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| b084976c-b1bb-3aee-9ffd-25aabd728e3e | -16.87649 | -57.70569 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.5 |
-| dd27b87b-0e42-35a3-9b28-fed567f75c2a | -16.87005 | -57.68183 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 354b588b-1e97-3dc4-8056-c933be5d565b | -16.70097 | -57.46787 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 67339a6b-3b00-3fc1-ad15-a252dde00603 | -16.70037 | -57.47153 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| a23b59e9-2c9c-3c17-8e36-ba4d4f709082 | -16.69822 | -57.46364 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 13aada7e-7ffb-352a-8d90-e63d2f8718f0 | -16.69763 | -57.46729 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| cd6d143f-0312-3463-8c73-609328af9636 | -16.69489 | -57.46306 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 7c516375-1e1a-353c-b575-a0a93027b6ab | -16.69429 | -57.46671 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 25a48952-b5d6-33e4-b17c-52d1349d9d81 | -16.69155 | -57.46248 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 05d35163-0d19-3165-be30-0a600c03270d | -16.69096 | -57.46613 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| eaf2559e-0b8b-3955-9296-d03fa5d04516 | -16.69037 | -57.46978 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 393a1054-f2d4-395f-99b0-bf2e5a4b2210 | -16.68821 | -57.46189 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| a8f57ad9-d169-340a-8f7a-ed1e4005b990 | -16.68762 | -57.46555 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 28c6bcaa-5ade-300b-83a9-ca85de8b2e96 | -16.68724 | -57.4467 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| f87d2298-6d71-383e-8075-bc9e0f8b1f8a | -16.68703 | -57.4692 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 8fd0c349-3e58-342c-a037-32dbe00b72de | -16.68488 | -57.46131 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| 2cc689e0-8a65-3479-b726-1b984214dda5 | -16.68429 | -57.46496 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
-| f81c8afa-b8f8-3364-a5a2-1a18fc487696 | -16.68369 | -57.46862 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
-| f6f56184-7ae9-30b3-a1a1-e86f8a4b8cf7 | -16.68332 | -57.44978 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| dad21778-b009-3f80-8bc9-78e0b39b0794 | -16.68273 | -57.45343 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 8fc906fb-6ccb-3ee3-ae11-6b4fa3dea293 | -16.68213 | -57.45707 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| 3e74e4d3-1bd2-3e7a-bcfd-b6f9b3bd1d04 | -16.68154 | -57.46073 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| 1332d5a0-e41b-3d74-882c-14f6cb986b40 | -16.68095 | -57.46438 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
-| 3f3a19d1-149c-37a6-9592-be577ecc5aae | -16.68036 | -57.46804 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
-| f6ce469f-fdc0-3093-bb60-e884f6cb8ebc | -16.67939 | -57.45284 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| d820890a-29cd-3b2d-ac66-d71ee4d81cb5 | -16.6788 | -57.45649 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 5c18b6f5-1ec2-3681-a296-02ca3898ecf4 | -16.67821 | -57.46015 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| fa368871-dbf7-36e3-becf-8be96717342b | -16.67761 | -57.4638 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| 623b6cc1-90ef-3ae2-afd2-07aaadad8b33 | -16.67546 | -57.45591 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 35f68db8-4c4e-327a-83e7-f0a728f1a80b | -16.67487 | -57.45957 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 06794cf5-12b4-351d-a82e-17f069eaa61c | -16.67428 | -57.46322 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| 4532c129-d1f9-3574-bf60-d1376edf8e4a | -16.67369 | -57.46688 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.5 |
-| ed7c4feb-1cca-3ac9-a7c4-9bd2e4644fc7 | -16.67154 | -57.45899 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 4b55bbad-5898-3f4a-9b91-5afe116d7dbc | -16.67094 | -57.46264 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 86f95549-d075-3118-974c-c8a79d816115 | -16.67035 | -57.46629 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 8408a385-9af9-3e41-8b6e-7e4978e3dd66 | -16.66976 | -57.46994 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 56ef0bc4-2cc7-34e5-97e8-50f61bbec95e | -16.66761 | -57.46206 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| f6575fdb-822b-389f-a281-db216e0f5762 | -16.66701 | -57.46571 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 06baa9bc-4ab7-3957-81c4-92bca89a151e | -16.66642 | -57.46936 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 48bed29c-d08d-31fc-b77d-b499ce1a8470 | -16.80324 | -57.38036 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| a41b9267-801d-3b0d-975e-547941958e08 | -16.80265 | -57.38401 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 3cc565c7-ffb4-38b6-b2b1-ecd8d2f0b4ac | -16.79991 | -57.37978 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 5f597b73-fcac-3931-af28-0b6ed8103dcd | -16.79932 | -57.38342 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 15221d95-f02d-3ee7-b20c-bdc3e8f108f5 | -16.79658 | -57.3792 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| c711a401-71c0-33b7-894b-910dd29c9a1a | -16.79599 | -57.38284 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 081abd01-68e6-3ec8-8f8c-67020e5f07cc | -16.79266 | -57.38226 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 8cf119e5-deaf-3d9a-89f5-f0b7e8cefdfc | -16.79207 | -57.38591 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| c57d6760-e526-337d-8a24-6c683e924b5b | -16.78992 | -57.37804 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| e0549753-9087-390a-920c-60bf81ffa6eb | -16.78874 | -57.38533 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| cbd4b8dd-5f37-300f-806b-08794e7cf2b6 | -16.78815 | -57.38897 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 1340fa91-b2bf-3737-8a01-11f730b6f327 | -16.78659 | -57.37747 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| ff531962-e6df-3ef4-a691-eb9d8af29f6a | -16.786 | -57.38111 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| 6c951e29-5d2f-3743-8def-a955aa6c762e | -16.78541 | -57.38475 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 4d9ba4c8-a35c-3c98-8f29-9456cc0cbae0 | -16.78482 | -57.38839 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| b689ad57-6eef-3dce-b9d5-0e36b1629fcb | -16.78325 | -57.3769 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| ffb2a78f-a616-394a-b621-e5be95b2f6ca | -16.78267 | -57.38054 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| 17a1e856-79fa-3a04-b962-a92400123b89 | -16.78048 | -57.43634 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| b554e0ba-252a-3b4f-b00c-77c4c14e91d9 | -16.77499 | -57.42788 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 0.6 |
-| c738dd87-898c-3a2f-8a2f-c858da0c2eff | -16.77284 | -57.42001 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 5fd15f01-b13d-327c-b26f-13854f4695e7 | -16.77225 | -57.42365 | 2024-10-04 04:57:00 | NOAA-20 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 20d681b6-4a1b-3ea0-a4c2-40cf79c5813e | -16.75485 | -57.34608 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| 10336d9b-c4d0-32ae-943d-bcdb1948066f | -16.68142 | -57.29224 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 0.4 |
-| 20112d72-efd6-34d0-9fdc-c15387221aff | -16.67809 | -57.29166 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| dff82346-22d8-325a-89b7-68856b3db7ea | -16.65463 | -57.31373 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 2a05146c-d87b-3486-965e-da9222db3bd2 | -16.65405 | -57.31736 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| d6e0702b-49f6-303b-a12d-c145419bf839 | -16.63524 | -57.30663 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 500b5eba-d0e5-373b-868d-27c462261d09 | -16.6325 | -57.30241 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 81231b72-9f3c-3a18-8c4e-3bd3dfedb5e0 | -16.63192 | -57.30605 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 02c013d1-05ec-327e-a326-0aac075ec44d | -16.62917 | -57.30184 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 0.4 |
-| 2917da55-3eb4-3e92-871b-cca3aab5e4a6 | -16.99149 | -56.75569 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 27573a37-3980-3367-bb07-7979542ca2ca | -16.99138 | -56.77785 | 2024-10-04 04:57:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| a566c98d-3a5d-31f5-b06f-ebc66d16a299 | -6.16662 | -55.47347 | 2024-10-09 05:01:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0615c49b-b936-3a2b-9c44-6e1029aafc13 | -7.16039 | -55.04457 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| e54c4cad-4812-31fc-a1f7-ea5d4b9cad6f | -7.14031 | -55.02351 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6c74a29c-0180-3f39-b14a-9245d3605eaf | -7.00785 | -55.32846 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4f99955b-c991-3806-a06a-86f7d69273dd | -7.00731 | -55.33194 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ad9a8ce6-b251-3490-80a5-c1afa056cc45 | -7.00454 | -55.32794 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 983f214f-1450-325b-bfb9-6cb4991b3603 | -7.004 | -55.33142 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 5f703af3-4df4-3de8-b9dd-7764cc8e289a | -6.87078 | -55.11831 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 16a5cbf5-b704-35f6-b242-d1410b85a8f4 | -6.87075 | -55.31452 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 5f0f6a73-e1f2-371f-8d1e-61abe82ea297 | -6.77199 | -55.49092 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b8103022-3cde-3880-a409-2d4d2676a00b | -6.63957 | -55.38118 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 54aecc7a-c400-3162-a35a-3fa6955652ca | -6.63572 | -55.38414 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| f790214f-9624-38d8-aac9-bc3fb56b3188 | -7.97766 | -54.83039 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 64eeb11a-5b9a-3076-826f-69189842f73a | -7.97711 | -54.83395 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3bd22628-8a30-3320-8335-c03ba8174b73 | -7.9743 | -54.82987 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a505d2e8-bb24-38f0-b019-427596646664 | -7.97136 | -54.78176 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ddd68ed2-4a37-3146-86ac-bd2eeca61f99 | -7.9704 | -54.83291 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e9af3e43-9d88-3e14-b8f0-9e1e052d7fc7 | -7.96985 | -54.83648 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| bb7e814b-5b51-3f66-8550-c3767a30a25d | -7.9676 | -54.82882 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 892b8c37-198c-3d89-955e-3326c4912075 | -7.96705 | -54.83239 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a996c65d-43e3-31d1-8b26-3fcf9a526e8c | -7.96691 | -54.78843 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c8d792bb-032b-3816-9dd3-f6f4e93fe8dc | -7.96568 | -54.75145 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 16c32c1f-d981-309c-af74-a1b67bebdc3f | -7.96527 | -54.79915 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2abe1720-264b-3eb1-aca4-b883bdf3ec7e | -7.96472 | -54.80272 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 14d71273-141b-3510-af32-bc7287337184 | -7.9637 | -54.83186 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 9b0a4697-ebb8-347f-b0e5-ee713502b840 | -7.96315 | -54.83543 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 9d81074b-780e-31ac-83eb-4f3e27b20117 | -7.96034 | -54.83134 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 84fa822a-3dd5-3b71-9319-1966dfd8cb42 | -7.95979 | -54.83491 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 099dce98-2309-35cd-9687-ce7ddbea8d1b | -7.95903 | -54.77248 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 39bbf7c1-f724-3360-b8fc-ab08a4d410c3 | -7.95811 | -54.74284 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0d7c66b6-7a56-3784-8455-bba49bd21c57 | -7.95676 | -54.76478 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ee00248e-ab55-37d3-887d-285efde25c67 | -7.95621 | -54.76838 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fceaaf45-aa02-3e96-a58c-847fa743aec9 | -7.95567 | -54.77197 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 54911e13-bc73-3c89-9b78-f1333236bd62 | -7.95477 | -54.76439 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 155d9f01-9b6b-385e-9c08-ef5d8239b9c9 | -7.95421 | -54.76798 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 83a9eb20-9d58-3531-a4a3-62b92611ed31 | -7.95308 | -54.75309 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 57ab57fc-7c60-3d3a-a459-f54a9697ee5d | -7.95141 | -54.76387 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3515f168-8afb-3a94-b3e7-cf48e3315d77 | -7.88291 | -54.89591 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 4af84480-5da1-379d-94e2-7265ee9ff4eb | -7.8823 | -54.87759 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9ac2728e-d7ed-386d-a0d9-2ff1b22240d3 | -7.86336 | -54.88926 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f79ddd20-aa91-3261-aaff-20d125f6bcd8 | -7.86117 | -54.90348 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 90c25663-9f24-31f4-8098-3001fa40b030 | -7.85113 | -54.90192 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a4b7cd1b-978f-332e-b795-2134c0d0dba1 | -8.22575 | -54.89738 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 00bad331-e340-3ca6-9d1b-a163c9f9acad | -8.22295 | -54.89327 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5e4b838d-bcf5-38e6-894a-f4ab73dd40bb | -8.2224 | -54.89686 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 455eb331-e144-30ae-bbd6-f9a15c264c01 | -8.17813 | -55.05045 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| fbe589a6-5aeb-373d-bd14-c2486cbe5cb7 | -8.16532 | -54.86599 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| db8075d4-03c8-39fb-9c9c-e649f17a8220 | -8.13845 | -55.17481 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 93fbaa30-428b-39ff-9589-37ec5395bff4 | -8.1379 | -55.17834 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8818195c-5ead-33e5-9b46-1ef715ea1cf8 | -8.13457 | -55.17782 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2206a711-0fb3-3c95-b308-acb437935e32 | -8.13387 | -55.31471 | 2024-10-09 05:01:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| cf94945b-64a7-374b-981e-eee74caa008d | -8.10786 | -54.86796 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d952de34-5d3f-3b94-a2b7-570e1a4cb2b6 | -8.0735 | -54.77826 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5061af29-7202-35cf-992d-75f547aa467d | -8.06568 | -54.78441 | 2024-10-09 05:01:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5811750c-12cb-3a5e-87b4-40170c2e8158 | -1.63925 | -55.05471 | 2024-10-09 05:01:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ffd7f002-9bb1-3786-a37b-152aae6c44dd | -1.63594 | -55.0542 | 2024-10-09 05:01:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bb85bbea-f1b2-3a69-9eee-a76f630185bb | -1.46699 | -54.96112 | 2024-10-09 05:01:00 | NOAA-20 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4017553a-029d-3da3-b231-329fbf3f3768 | -1.2413 | -55.68267 | 2024-10-09 05:01:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 7ccde485-4fab-3dfd-9d66-3ca8ab6700ad | -1.24074 | -55.6862 | 2024-10-09 05:01:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| cb9cac98-7da8-32f4-95b8-041460029c1c | -1.24019 | -55.68972 | 2024-10-09 05:01:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e95ff26a-2558-397c-8809-892b07b699d1 | -1.2374 | -55.68568 | 2024-10-09 05:01:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 727cc1c8-04ab-3ea0-8b73-0a84c1c07446 | -1.23685 | -55.68921 | 2024-10-09 05:01:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 3cc2ab37-c25d-3c0d-8a3c-7787ab0858f5 | -1.17264 | -55.71174 | 2024-10-09 05:01:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c4653ceb-8e0c-3304-aa0e-bdfc16dc32b4 | -3.56193 | -55.42368 | 2024-10-09 05:01:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| fc7adf27-2a11-3de4-a06d-44ed0114a1ba | -3.54225 | -55.48409 | 2024-10-09 05:01:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 42e25b29-217b-3540-989d-536e163b494e | -3.54171 | -55.48753 | 2024-10-09 05:01:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 5f21f3a7-ff26-3347-8f82-6471ac6e42da | -3.53894 | -55.48357 | 2024-10-09 05:01:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 89e59681-08ee-3459-994a-e0196bd81b60 | -3.46187 | -56.31847 | 2024-10-09 05:01:00 | NOAA-20 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1dc2817e-ec1f-3b2b-87b9-0922db34ea25 | -4.83365 | -55.97733 | 2024-10-09 05:01:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ff571637-3039-3b75-a23f-0949d04846d2 | -4.71668 | -55.77083 | 2024-10-09 05:01:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 234e3c19-0be9-3c63-ac2f-3c66fc121c2c | -4.71338 | -55.77031 | 2024-10-09 05:01:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a70130c2-f587-3820-817f-680cd0ea0a17 | -4.60552 | -56.15152 | 2024-10-09 05:01:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3e8991ab-1487-38b5-b20a-29b7933da4e6 | -4.60496 | -56.15501 | 2024-10-09 05:01:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| ed52dad4-0f8c-334d-a260-6595d6af3c16 | -4.36515 | -55.93227 | 2024-10-09 05:01:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 55197611-b2f9-3145-b42f-69a6ec779500 | -4.17328 | -56.3496 | 2024-10-09 05:01:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 35e7eaed-78ed-3ef0-ab02-ced9c01f709c | -5.12432 | -56.11604 | 2024-10-09 05:01:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 85ab9284-578b-3da6-a4bb-c759d42c7724 | -7.20118 | -57.20293 | 2024-10-09 05:01:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 8b87a786-d5b6-3cd9-a5cb-32ebc3fbb50e | -7.10377 | -56.51191 | 2024-10-09 05:01:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 29c3811c-477b-3b90-b5ec-315a7b8c9383 | -3.14837 | -57.4834 | 2024-10-09 05:01:00 | NOAA-20 | BOA VISTA DO RAMOS | AMAZONAS | Brasil | 1300680 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| b3535962-e70c-3fe4-8a14-64770ba5562b | -3.04754 | -57.54807 | 2024-10-09 05:01:00 | NOAA-20 | BOA VISTA DO RAMOS | AMAZONAS | Brasil | 1300680 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ab0a2aac-f5ef-3109-bba6-aea86e9399ff | -2.58916 | -58.06103 | 2024-10-09 05:01:00 | NOAA-20 | SÃO SEBASTIÃO DO UATUMÃ | AMAZONAS | Brasil | 1303957 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 97b07aab-ff2b-378d-8a2f-ce9c0a0575f1 | -2.58508 | -57.40646 | 2024-10-09 05:01:00 | NOAA-20 | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 1f305873-fe3c-306d-bf06-5c6914b3da55 | -2.58446 | -57.41034 | 2024-10-09 05:01:00 | NOAA-20 | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| bdd32f73-b7b7-36e3-b195-b3aa73dcaa0e | -6.16287 | -57.75153 | 2024-10-09 05:01:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2d161734-2cf6-3f4a-aeb9-4f464f10171e | -6.15943 | -57.75096 | 2024-10-09 05:01:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 80b687f9-4bd5-3239-8449-2b6ba5be0b2f | -7.19802 | -59.05875 | 2024-10-09 05:01:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 99a37b05-fe89-3cab-bf17-84dd1690f4c3 | -6.53085 | -58.42004 | 2024-10-09 05:01:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 544fc44c-58ae-31af-96af-31cc7fa06e6e | -6.52733 | -58.41945 | 2024-10-09 05:01:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 6a7547f4-86fc-3a20-a93b-3bf503156769 | -6.52668 | -58.42341 | 2024-10-09 05:01:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 9f3b35fa-0eb2-3089-acce-cc080e682995 | -6.52382 | -58.41885 | 2024-10-09 05:01:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 00b92977-2f6e-314f-bd72-19deec2d9b67 | -6.52317 | -58.42282 | 2024-10-09 05:01:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 70aa435c-a7bb-3aaf-9772-8c26a5aebae6 | -6.52226 | -58.40638 | 2024-10-09 05:01:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 6e70cf46-8321-30a0-88d0-65f6f22dd4c5 | -6.91322 | -59.03289 | 2024-10-09 05:01:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| bc38b9dd-2ecc-3540-b997-f96a363d3a40 | -6.83341 | -58.99135 | 2024-10-09 05:01:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| eb140844-f876-3523-8fcb-6d1c8c6b046f | -4.29155 | -60.01506 | 2024-10-09 05:01:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 864ab5b3-b5e3-345a-bf7d-f7660f347371 | -3.14966 | -59.11018 | 2024-10-09 05:01:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6c259b27-1fe5-3049-9116-f3bfd440ebfd | -3.0164 | -59.09872 | 2024-10-09 05:01:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| edccee9e-cab1-3c54-b3e3-18c8aa1060ec | -3.01566 | -59.10338 | 2024-10-09 05:01:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 35b823bd-26e6-3520-9d08-c9a9a36d0a1b | -3.01492 | -59.10807 | 2024-10-09 05:01:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| a892d4b3-c867-3a68-b7b6-45c04eb7b9a7 | -3.01186 | -59.10275 | 2024-10-09 05:01:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
 
 
 [Clique aqui para ver as próximas entradas](README168.md)

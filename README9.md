@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 82cbdfa8-3e6f-384a-91cf-7ac5e6526a5e | -19.82511 | -43.79582 | 2024-10-08 00:33:00 | TERRA_M-M | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| b461a226-d682-3444-b284-67d812e0e77b | -19.82127 | -43.8507 | 2024-10-08 00:33:00 | TERRA_M-M | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | 14.9 |
-| 31729c6b-0683-34a5-80f2-a42676853a77 | -19.80621 | -41.9171 | 2024-10-08 00:33:00 | TERRA_M-M | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
-| 57439ff3-5a75-34b7-bb4e-5b0a7bbb634b | -19.46328 | -41.67279 | 2024-10-08 00:33:00 | TERRA_M-M | ALVARENGA | MINAS GERAIS | Brasil | 3102209 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| f2789287-e5cb-31b6-b4db-d50bf514bd8f | -19.43185 | -41.16052 | 2024-10-08 00:33:00 | TERRA_M-M | ITUETA | MINAS GERAIS | Brasil | 3134103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 18.9 |
-| a2151533-b6ca-3151-b3e3-2b3f39526fd8 | -19.43056 | -41.15088 | 2024-10-08 00:33:00 | TERRA_M-M | ITUETA | MINAS GERAIS | Brasil | 3134103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.4 |
-| 4ab92aad-af6a-3507-9d7e-f4fdc0ab0f96 | -19.42412 | -41.17147 | 2024-10-08 00:33:00 | TERRA_M-M | ITUETA | MINAS GERAIS | Brasil | 3134103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
-| 029f2835-611c-3d83-8ad4-97b3017f7480 | -19.42285 | -41.16192 | 2024-10-08 00:33:00 | TERRA_M-M | ITUETA | MINAS GERAIS | Brasil | 3134103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 123.5 |
-| 81ddab7d-6591-32e4-a329-d7569c29d71f | -19.42157 | -41.15229 | 2024-10-08 00:33:00 | TERRA_M-M | ITUETA | MINAS GERAIS | Brasil | 3134103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 54.4 |
-| fa0ad12d-5fa2-37a2-86a1-0267c11b1930 | -19.41512 | -41.1729 | 2024-10-08 00:33:00 | TERRA_M-M | ITUETA | MINAS GERAIS | Brasil | 3134103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 13.3 |
-| 64cf188b-4f3a-3d85-85e1-88be1a2cc9bc | -19.27585 | -46.12203 | 2024-10-08 00:33:00 | TERRA_M-M | SÃO GOTARDO | MINAS GERAIS | Brasil | 3162104 | 31 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 364db398-8d69-3695-a40a-89f32862c06f | -19.26923 | -46.13538 | 2024-10-08 00:33:00 | TERRA_M-M | RIO PARANAÍBA | MINAS GERAIS | Brasil | 3155504 | 31 | 33 | nan | nan | nan | Cerrado | 62.0 |
-| 202d7234-1ba2-3451-a43b-394d40589a50 | -19.26726 | -46.11652 | 2024-10-08 00:33:00 | TERRA_M-M | SÃO GOTARDO | MINAS GERAIS | Brasil | 3162104 | 31 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| c53dcd0c-c67a-3047-b43b-ff75e3e95b6c | -19.26571 | -46.14216 | 2024-10-08 00:33:00 | TERRA_M-M | RIO PARANAÍBA | MINAS GERAIS | Brasil | 3155504 | 31 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 08ad3a72-3067-3036-89e4-9cc61f39b8a7 | -19.26366 | -46.12375 | 2024-10-08 00:33:00 | TERRA_M-M | SÃO GOTARDO | MINAS GERAIS | Brasil | 3162104 | 31 | 33 | nan | nan | nan | Cerrado | 44.8 |
-| ccfc6010-4148-3c09-ac88-bca08bb50451 | -19.14018 | -42.71839 | 2024-10-08 00:33:00 | TERRA_M-M | BRAÚNAS | MINAS GERAIS | Brasil | 3108800 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| fbedc436-1fed-3a0a-a7dd-9078de6f09e1 | -19.0061 | -50.25664 | 2024-10-08 00:33:00 | TERRA_M-M | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| e42dcffd-48e5-3f53-8a23-6eeda115d455 | -19.00087 | -50.26225 | 2024-10-08 00:33:00 | TERRA_M-M | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Cerrado | 55.7 |
-| ab9456ac-8cac-32bb-ad1e-ce0e3a41d725 | -18.99742 | -50.22338 | 2024-10-08 00:33:00 | TERRA_M-M | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Cerrado | 58.2 |
-| 1927080a-7268-335b-be12-322bc7e175aa | -18.63959 | -42.77355 | 2024-10-08 00:33:00 | TERRA_M-M | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| 69bdacf3-eeb5-3391-9425-b3d2b773d9c9 | -18.56536 | -42.41443 | 2024-10-08 00:33:00 | TERRA_M-M | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.1 |
-| 9457976c-73a6-31c1-b0fc-d2d68670f108 | -18.56404 | -42.40401 | 2024-10-08 00:33:00 | TERRA_M-M | COROACI | MINAS GERAIS | Brasil | 3119203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.8 |
-| afb028c9-a419-3b8a-9f72-dd4d15249c91 | -18.25593 | -39.90445 | 2024-10-08 00:33:00 | TERRA_M-M | CONCEIÇÃO DA BARRA | ESPÍRITO SANTO | Brasil | 3201605 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 4e1737ae-53f6-38fd-b1d0-ef9bab48faa3 | -18.18968 | -42.61687 | 2024-10-08 00:33:00 | TERRA_M-M | SÃO JOSÉ DO JACURI | MINAS GERAIS | Brasil | 3163508 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
-| d7974bed-8866-3862-83da-b488a4efc97d | -18.18164 | -43.01311 | 2024-10-08 00:33:00 | TERRA_M-M | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
-| 3e4ba7dc-0512-3cc6-92af-b6b0d55b09b2 | -18.10454 | -45.07342 | 2024-10-08 00:33:00 | TERRA_M-M | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| c6ed1968-00b6-35fd-bf92-e725d2c8325f | -18.05834 | -42.1125 | 2024-10-08 00:33:00 | TERRA_M-M | FRANCISCÓPOLIS | MINAS GERAIS | Brasil | 3126752 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| af94603f-c91b-3a8c-8651-d2112baff093 | -17.87143 | -42.73339 | 2024-10-08 00:33:00 | TERRA_M-M | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.4 |
-| ff6e3330-a6fc-3b41-b00f-c02f7cb3fc0f | -17.802 | -44.42393 | 2024-10-08 00:33:00 | TERRA_M-M | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 27100d4e-cf9b-37ad-acfe-f70c9d1f297e | -17.71406 | -40.77038 | 2024-10-08 00:33:00 | TERRA_M-M | CARLOS CHAGAS | MINAS GERAIS | Brasil | 3113701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.8 |
-| a41e1008-46fa-34bc-8273-ccecfb9573cc | -17.69955 | -42.03519 | 2024-10-08 00:33:00 | TERRA_M-M | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
-| f6ccc6d4-b0ec-3394-b83c-3fad7aad1ba3 | -17.65807 | -43.89605 | 2024-10-08 00:33:00 | TERRA_M-M | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 23.8 |
-| d9e1a96e-cf3d-3ed2-bf0b-986631a17648 | -17.60968 | -43.25983 | 2024-10-08 00:33:00 | TERRA_M-M | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 3ab648ec-4bf0-3d96-8476-39ad67bff84a | -17.58773 | -43.73671 | 2024-10-08 00:33:00 | TERRA_M-M | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 0258dc91-b605-3ff8-a811-6b71bfd38af7 | -17.58489 | -43.71383 | 2024-10-08 00:33:00 | TERRA_M-M | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 48ce1833-ff0f-3a79-afdf-e76c3cf87bbf | -17.20506 | -39.51661 | 2024-10-08 00:33:00 | TERRA_M-M | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
-| 635d80b0-b15f-3a8c-8cf0-8dd3d222d1e0 | -17.20369 | -39.50709 | 2024-10-08 00:33:00 | TERRA_M-M | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 18.5 |
-| a15ea84d-6840-3f8f-90f7-eccff412b6c1 | -16.3046 | -42.05288 | 2024-10-08 00:33:00 | TERRA_M-M | RUBELITA | MINAS GERAIS | Brasil | 3156502 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| 7c65432d-3ad1-39b2-a8b4-209f04476f4d | -16.30334 | -42.04332 | 2024-10-08 00:33:00 | TERRA_M-M | RUBELITA | MINAS GERAIS | Brasil | 3156502 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| 9a677d69-fc47-36c9-b9c3-0ed243898a04 | -16.09686 | -50.22523 | 2024-10-08 00:33:00 | TERRA_M-M | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 36.5 |
-| 6fdce6fa-f104-3c97-aa24-4ffe2dc167a6 | -16.09344 | -50.19034 | 2024-10-08 00:33:00 | TERRA_M-M | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 59.9 |
-| 62e865c2-6d9b-3081-9d7f-860d69876227 | -16.08425 | -50.19551 | 2024-10-08 00:33:00 | TERRA_M-M | MOSSÂMEDES | GOIÁS | Brasil | 5213905 | 52 | 33 | nan | nan | nan | Cerrado | 32.4 |
-| 1e160a36-1705-39d4-859d-fb0dc7b535a2 | -15.76959 | -49.97723 | 2024-10-08 00:33:00 | TERRA_M-M | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 29.1 |
-| f2489c84-bf66-3275-b3ce-b270399ef9e4 | -15.75912 | -49.98317 | 2024-10-08 00:33:00 | TERRA_M-M | ITAPURANGA | GOIÁS | Brasil | 5211206 | 52 | 33 | nan | nan | nan | Cerrado | 23.7 |
-| c59434da-28ac-3d4f-908a-b2e499035449 | -14.96672 | -41.88738 | 2024-10-08 00:33:00 | TERRA_M-M | CORDEIROS | BAHIA | Brasil | 2909000 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
-| c0e9f074-84fd-336b-acdc-42be72b52193 | -14.95772 | -42.36486 | 2024-10-08 00:33:00 | TERRA_M-M | MORTUGABA | BAHIA | Brasil | 2921807 | 29 | 33 | nan | nan | nan | Caatinga | 7.9 |
-| a6addde9-af9a-3a09-95d9-d37c3d2150fe | -14.79723 | -50.77618 | 2024-10-08 00:33:00 | TERRA_M-M | MOZARLÂNDIA | GOIÁS | Brasil | 5214002 | 52 | 33 | nan | nan | nan | Cerrado | 49.0 |
-| 440abf40-e08e-300c-9273-b30adc25b439 | -14.79079 | -50.78223 | 2024-10-08 00:33:00 | TERRA_M-M | MOZARLÂNDIA | GOIÁS | Brasil | 5214002 | 52 | 33 | nan | nan | nan | Cerrado | 44.6 |
-| b34209b1-9b4d-31d5-b066-7949bfcff35d | -14.57426 | -42.31898 | 2024-10-08 00:33:00 | TERRA_M-M | CACULÉ | BAHIA | Brasil | 2905008 | 29 | 33 | nan | nan | nan | Caatinga | 7.4 |
-| 66d43f53-24b6-381c-bb71-f07516043406 | -14.53741 | -43.22802 | 2024-10-08 00:33:00 | TERRA_M-M | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 3202d27c-253e-3f94-9964-b891eba98d33 | -14.53609 | -43.21782 | 2024-10-08 00:33:00 | TERRA_M-M | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Cerrado | 15.0 |
-| e96383f8-a4dc-3152-bf21-afa3b78175ec | -14.51184 | -42.46923 | 2024-10-08 00:33:00 | TERRA_M-M | LICÍNIO DE ALMEIDA | BAHIA | Brasil | 2919405 | 29 | 33 | nan | nan | nan | Caatinga | 10.2 |
-| 6407c141-5c4c-3102-9ef7-eae3e4f3676a | -14.42568 | -43.79057 | 2024-10-08 00:33:00 | TERRA_M-M | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 2c54a787-542e-3a97-9e03-0f79222deb1e | -14.1588 | -45.55527 | 2024-10-08 00:33:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 58f12e6c-3c1a-3b65-97f0-45c679266aaa | -14.14538 | -44.40007 | 2024-10-08 00:33:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 4dbe6a27-691f-3e27-b6f3-662449b876c4 | -14.11795 | -44.10309 | 2024-10-08 00:33:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 23.7 |
-| 5510e762-19d0-3ab7-a1d9-40f7fc474801 | -14.10946 | -44.0364 | 2024-10-08 00:33:00 | TERRA_M-M | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 603706a0-6cba-3c49-bad9-f27bff3199f2 | -14.0625 | -45.51811 | 2024-10-08 00:33:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| 7d5e1efc-fc04-3b5d-88d2-a0face4e96bb | -14.06077 | -45.50428 | 2024-10-08 00:33:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 7a990060-e3f6-35d3-b7a5-150fdd4958cb | -14.05172 | -45.51943 | 2024-10-08 00:33:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 7081d901-208a-3891-a20d-19958f18b6e9 | -14.01557 | -42.47422 | 2024-10-08 00:33:00 | TERRA_M-M | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 10.8 |
-| b94614e7-de01-3aec-b963-63299f15a9cd | -13.94939 | -44.6244 | 2024-10-08 00:33:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 15.2 |
-| 078de2ce-c0f4-3a13-b5a1-959d7f1d5f02 | -13.91464 | -44.59258 | 2024-10-08 00:33:00 | TERRA_M-M | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| d27eee1c-56ca-379f-a6d7-50ffe9b654a1 | -13.75815 | -44.00698 | 2024-10-08 00:33:00 | TERRA_M-M | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| b3e1ca46-6c3d-3c2d-a5e9-74fe185b266b | -13.58539 | -43.79223 | 2024-10-08 00:33:00 | TERRA_M-M | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| cefdca9c-0b4f-3db6-9a56-f1ec2364564b | -13.52442 | -44.40929 | 2024-10-08 00:33:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 71cfece7-ae50-38a8-8aa2-7905ec194a01 | -13.50037 | -44.37791 | 2024-10-08 00:33:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 13f91bf1-15a3-3688-9608-fd83fdf5d4c5 | -13.48233 | -43.66835 | 2024-10-08 00:33:00 | TERRA_M-M | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 109fab7b-5737-330a-88e8-daca6f8ca40b | -13.47516 | -42.49283 | 2024-10-08 00:33:00 | TERRA_M-M | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 5.2 |
-| 6b0f5aeb-1849-316c-8055-9529d00b3047 | -13.47389 | -42.48345 | 2024-10-08 00:33:00 | TERRA_M-M | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 27.9 |
-| 1df4c368-732c-362c-9d42-86af3c675b24 | -13.42654 | -43.79935 | 2024-10-08 00:33:00 | TERRA_M-M | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 89714816-9f6d-3689-9ba8-d41f8402101e | -13.41703 | -43.80069 | 2024-10-08 00:33:00 | TERRA_M-M | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 29.4 |
-| 1c5d2a10-b67f-3baa-a50d-68c9089d6f6a | -5.47644 | -44.26149 | 2024-10-08 00:35:00 | TERRA_M-M | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 1e4854b6-7357-3b3d-ba09-b51a90eabc7b | -5.45919 | -48.9105 | 2024-10-08 00:35:00 | TERRA_M-M | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 15.3 |
-| 0337a786-5257-31e0-983b-db3f050d3bb6 | -5.43256 | -45.47859 | 2024-10-08 00:35:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 5c70fe67-4bb3-326f-b9ff-b4a34371723b | -5.39622 | -44.9578 | 2024-10-08 00:35:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| a3ed6449-3260-3816-8e1d-8d521082a886 | -5.39491 | -44.94813 | 2024-10-08 00:35:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 83b1f189-02fb-30c9-a15f-dfbb4b585bd4 | -5.27887 | -45.38032 | 2024-10-08 00:35:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| d3c998ad-89f6-33d8-b6ad-56d259f103fd | -5.27297 | -45.12682 | 2024-10-08 00:35:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| e12db681-057c-3996-9d2f-4a1b6753bd33 | -5.27163 | -45.11703 | 2024-10-08 00:35:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| d71164f1-4186-3034-a38c-b9a9cb9f7203 | -5.17168 | -44.66022 | 2024-10-08 00:35:00 | TERRA_M-M | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 94380fbf-d6b2-3d7d-b79c-ef4bd10082a2 | -5.10243 | -46.19323 | 2024-10-08 00:35:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| b82b2db5-5e6a-3c3e-a0a1-b63cd1a4b86f | -5.06872 | -48.44801 | 2024-10-08 00:35:00 | TERRA_M-M | ABEL FIGUEIREDO | PARÁ | Brasil | 1500131 | 15 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 5097517a-96d9-35b5-aca8-64a124e2531c | -5.01282 | -49.60287 | 2024-10-08 00:35:00 | TERRA_M-M | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 34.4 |
-| 5700015f-ce30-3c11-ae8b-7978a2f8d052 | -5.01025 | -49.58309 | 2024-10-08 00:35:00 | TERRA_M-M | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 25.7 |
-| 2edf835f-0265-3901-b5ba-033bbdca23d4 | -4.97483 | -48.89588 | 2024-10-08 00:35:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| b5f4057e-efd4-3eba-967e-a42f331219da | -4.92817 | -45.65219 | 2024-10-08 00:35:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 1012f37b-4cd5-3118-bfca-2a742e478e3e | -4.9261 | -46.78162 | 2024-10-08 00:35:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| dea06674-b61c-3971-8f2d-38a30eb5f69c | -4.92446 | -46.76949 | 2024-10-08 00:35:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 13.3 |
-| 44fcc975-397e-3b07-bd9a-b379b32221b5 | -4.65397 | -44.37572 | 2024-10-08 00:35:00 | TERRA_M-M | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| b0e12a53-d7f9-359d-81b6-b9f483c1d6f2 | -4.46994 | -45.91175 | 2024-10-08 00:35:00 | TERRA_M-M | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 26.6 |
-| c2d3a34c-7103-3d05-b102-ac797301f0db | -4.39974 | -48.69556 | 2024-10-08 00:35:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 21.3 |
-| 0f648921-9fd7-3764-966b-a1af6ebcb031 | -4.39339 | -48.70279 | 2024-10-08 00:35:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 20.1 |
-| 4d8e1270-f0b3-3440-86d6-b75af8e4c26d | -4.39116 | -48.68646 | 2024-10-08 00:35:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 18.8 |
-| 4c265f66-06ac-32da-89ae-0751d09220b0 | -4.36287 | -48.23214 | 2024-10-08 00:35:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| e1e14c2d-d31a-39bd-86af-bc416e9a2086 | -4.36085 | -48.21686 | 2024-10-08 00:35:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 14.5 |
-| 779c6080-6532-3738-b218-31561e71b202 | -4.31546 | -47.7058 | 2024-10-08 00:35:00 | TERRA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 18.9 |
-| cc037783-8b15-3419-92f5-75966daeffa9 | -3.15237 | -45.04413 | 2024-10-08 00:35:00 | TERRA_M-M | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 4a94248f-6cef-314d-a339-e2b7f36b382c | -4.27671 | -46.28136 | 2024-10-08 00:35:00 | TERRA_M-M | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 36a59851-3d28-3cc4-b769-6bbeb8065a94 | -4.26687 | -46.28269 | 2024-10-08 00:35:00 | TERRA_M-M | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 11.9 |
+| 122a43c5-42a8-334b-b603-f8ed8fec3e4d | -21.025 | -47.571899 | 2024-10-09 00:37:30 | METOP-C | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 34c29148-dc76-3b16-a4a3-91c2f9eb4191 | -21.026899 | -47.581799 | 2024-10-09 00:37:30 | METOP-C | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| f3617bc9-6e8a-36b7-a382-1eb7d7dc80a1 | -19.844101 | -42.383301 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ee8e191a-adfc-37de-8524-52dad66f36be | -19.8309 | -42.370899 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 68820dd8-d68c-3ffe-900f-693e7b913a5c | -19.8326 | -42.3783 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 3afb00a2-696a-34aa-8960-5fb179251381 | -19.834299 | -42.385799 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| cc97687a-a02d-35e4-bfcb-d247ed5cf5d7 | -19.8211 | -42.373299 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 0a8429e5-288d-3831-9497-98c1afc7307f | -19.8228 | -42.380699 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 07d6047b-e10a-30fb-b6bb-c0dd97cb953b | -19.824499 | -42.388199 | 2024-10-09 00:37:31 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 88f9544e-d830-3a62-b112-72b1d81e3323 | -20.2318 | -44.2178 | 2024-10-09 00:37:31 | METOP-C | BONFIM | MINAS GERAIS | Brasil | 3108107 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ec4a426d-a0c9-32db-b2b3-f7be805f7eb4 | -19.805 | -42.3932 | 2024-10-09 00:37:32 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 31f8c7db-bb94-39d2-b485-400f67f2718e | -19.8067 | -42.4006 | 2024-10-09 00:37:32 | METOP-C | CÓRREGO NOVO | MINAS GERAIS | Brasil | 3120003 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 37b09241-b70d-30e0-b237-3bb85e566899 | -19.7701 | -42.331001 | 2024-10-09 00:37:32 | METOP-C | BOM JESUS DO GALHO | MINAS GERAIS | Brasil | 3107802 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| e05b0cfd-77cd-3364-9f40-bbe868e8ddd5 | -20.797501 | -47.192699 | 2024-10-09 00:37:32 | METOP-C | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 2853f8c3-f344-32dc-ba11-feebec9f0f2a | -20.799299 | -47.202 | 2024-10-09 00:37:32 | METOP-C | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| a7d3173f-d123-38bf-a48e-609cd06ebc2b | -20.801201 | -47.2113 | 2024-10-09 00:37:32 | METOP-C | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 22a55b5f-8b8c-38d3-8cbc-a49dbf8b3281 | -20.7896 | -47.204102 | 2024-10-09 00:37:32 | METOP-C | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 78488eef-e74d-3747-94aa-e3823cae4da9 | -20.791401 | -47.213501 | 2024-10-09 00:37:32 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| d0dadc72-d9b2-3d33-ba2d-c906ee96d700 | -20.793301 | -47.222801 | 2024-10-09 00:37:32 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 48ca209a-6b63-387e-8812-81c6595b4700 | -20.795099 | -47.232201 | 2024-10-09 00:37:32 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 6984e8ba-ee4a-32d8-beb4-524f5ffe1fe9 | -20.157801 | -44.3983 | 2024-10-09 00:37:33 | METOP-C | ITATIAIUÇU | MINAS GERAIS | Brasil | 3133709 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| da4cf206-270e-3af4-b351-c4516d293540 | -20.159401 | -44.405701 | 2024-10-09 00:37:33 | METOP-C | ITATIAIUÇU | MINAS GERAIS | Brasil | 3133709 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 72e1e15f-19da-3ce5-ab67-484c7840551c | -20.106501 | -44.209202 | 2024-10-09 00:37:33 | METOP-C | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 8b79f22a-da29-349e-a4b2-388efaf2d102 | -20.108101 | -44.216499 | 2024-10-09 00:37:33 | METOP-C | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 600ba77f-86a7-3310-96e4-e6f76faa09ad | -20.778 | -47.196899 | 2024-10-09 00:37:33 | METOP-C | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 75046a41-370b-373e-a6c0-0ff8d53eabc7 | -20.7798 | -47.2062 | 2024-10-09 00:37:33 | METOP-C | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 09460358-1779-36c5-a0df-65bc8818cabf | -20.7817 | -47.215599 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 4ea296f1-2b29-3345-a3d2-6b325de47113 | -20.783501 | -47.224899 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 132da77d-ba90-31e1-bb2e-c7a6aafeec5f | -20.7854 | -47.234299 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 61c417e2-b779-371c-9c1e-48f4eb375ef1 | -20.787201 | -47.243599 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 1bbb4b79-10c1-3024-a79d-4236bd37d853 | -20.789101 | -47.252998 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| e0064bd2-cf4b-3905-92bd-a27d360f6e53 | -20.77 | -47.208401 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| eac80e42-fe65-345a-9e8a-d42d412df78b | -20.7756 | -47.236401 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 6d54c4f4-22e6-3f8e-b77c-556cb0330bae | -20.777399 | -47.245701 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| f9d33823-4885-3115-825a-0f0d22c8d9d8 | -20.779301 | -47.2551 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 3888ff34-a328-39cb-b2db-d24a47b3d5cf | -20.781099 | -47.2645 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 726911b7-4cc7-3014-a43b-c9f101ad5933 | -20.767599 | -47.247898 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| cf898e96-0683-3010-af4e-920d57e1ea1d | -20.769501 | -47.257301 | 2024-10-09 00:37:33 | METOP-C | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| fe9aef71-6b6e-3bf4-8c1b-05e2382dfdaa | -19.3374 | -40.876099 | 2024-10-09 00:37:34 | METOP-C | BAIXO GUANDU | ESPÍRITO SANTO | Brasil | 3200805 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5caf7c27-6299-3a33-b265-ebf7e945cddc | -19.3277 | -40.878601 | 2024-10-09 00:37:34 | METOP-C | PANCAS | ESPÍRITO SANTO | Brasil | 3204005 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 69824e20-badf-37d1-bd97-b51ef311a0a2 | -19.7703 | -42.8311 | 2024-10-09 00:37:34 | METOP-C | SÃO DOMINGOS DO PRATA | MINAS GERAIS | Brasil | 3161007 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b4e69533-6a96-3cb2-9e6d-1f2c3df6455d | -19.7719 | -42.838501 | 2024-10-09 00:37:34 | METOP-C | SÃO DOMINGOS DO PRATA | MINAS GERAIS | Brasil | 3161007 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 0fb9b22f-62b7-360a-ab9d-a157f1cf2409 | -20.680799 | -47.169701 | 2024-10-09 00:37:34 | METOP-C | ITIRAPUÃ | SÃO PAULO | Brasil | 3523701 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| f9f73e1a-7a0c-3c2a-a146-c0e5de95a101 | -20.6826 | -47.179001 | 2024-10-09 00:37:34 | METOP-C | ITIRAPUÃ | SÃO PAULO | Brasil | 3523701 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 0bff3e32-e182-30d2-aa61-ff25c21c656c | -20.671 | -47.171902 | 2024-10-09 00:37:34 | METOP-C | ITIRAPUÃ | SÃO PAULO | Brasil | 3523701 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| a10eb466-a34f-3a6a-8d7b-45dfa74ef248 | -19.8316 | -43.799 | 2024-10-09 00:37:36 | METOP-C | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| ea851ee4-1969-3994-b7c9-1cf205d30e44 | -19.8284 | -43.784401 | 2024-10-09 00:37:36 | METOP-C | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 62158d16-785a-399f-950d-917a9cc2e0ed | -19.83 | -43.791698 | 2024-10-09 00:37:36 | METOP-C | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 9cd46744-8fc1-39e0-bcb2-6483ab882ec1 | -19.117201 | -40.951199 | 2024-10-09 00:37:37 | METOP-C | PANCAS | ESPÍRITO SANTO | Brasil | 3204005 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4949b307-61f1-3547-8fd9-eed4f27cba57 | -19.1192 | -40.9594 | 2024-10-09 00:37:37 | METOP-C | PANCAS | ESPÍRITO SANTO | Brasil | 3204005 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 9352076a-5283-3b8c-80bd-0d0ddcd1854e | -19.8202 | -43.794102 | 2024-10-09 00:37:37 | METOP-C | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 455973e0-91ff-3f11-8608-580e3f6f9983 | -19.8218 | -43.801399 | 2024-10-09 00:37:37 | METOP-C | SANTA LUZIA | MINAS GERAIS | Brasil | 3157807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 7b187228-11b8-3bac-b672-828f5a81fbd8 | -20.775 | -48.544498 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| a3429599-dd3e-34ee-b046-d4196b8c83ba | -20.7771 | -48.5555 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 894e1491-ae91-3606-85fb-2b09d483c8e5 | -20.7673 | -48.557598 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 46aaffba-8510-3441-90ae-0dc0a24b7c88 | -20.7694 | -48.5686 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 31f71782-5307-31d0-87ef-0dc29bca146e | -20.747101 | -48.504601 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 6ffef333-698a-33eb-b940-fefe05b00ba2 | -20.749201 | -48.515598 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| ca688904-c152-3a19-8099-9f8af4aa6d68 | -20.751301 | -48.5266 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 43911819-5326-3cda-8411-0dc69e72c9c2 | -20.755501 | -48.548599 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 99bdccf9-33cf-3a18-a4f5-3e094a853de8 | -20.757601 | -48.559601 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| a3279458-92e8-3fd7-a246-b574a6aed9c6 | -20.759701 | -48.570702 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| f38b301a-0d07-3c0c-9682-fa6c339f46f9 | -20.737301 | -48.506699 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 82500a73-3e34-33c8-9da1-823a11962d5c | -20.739401 | -48.517601 | 2024-10-09 00:37:37 | METOP-C | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| e164a7ad-8808-3ea0-8fdd-480b400b345a | -20.3522 | -46.349499 | 2024-10-09 00:37:37 | METOP-C | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| b4f1964c-e67b-3357-8021-b24ae0d17f7f | -20.353901 | -46.357899 | 2024-10-09 00:37:37 | METOP-C | VARGEM BONITA | MINAS GERAIS | Brasil | 3170602 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 8cffdca7-1e70-3721-864f-17b40ef1bd2a | -20.476 | -47.1665 | 2024-10-09 00:37:37 | METOP-C | IBIRACI | MINAS GERAIS | Brasil | 3129707 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| a704156d-5d40-3f65-b862-62dabaf90009 | -19.105499 | -40.945499 | 2024-10-09 00:37:38 | METOP-C | PANCAS | ESPÍRITO SANTO | Brasil | 3204005 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b407d6b4-c32f-32d7-910f-96b6b59fc503 | -19.1075 | -40.953701 | 2024-10-09 00:37:38 | METOP-C | PANCAS | ESPÍRITO SANTO | Brasil | 3204005 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4373afc9-a64c-3d05-9f9d-3bdcd8716755 | -19.109501 | -40.962002 | 2024-10-09 00:37:38 | METOP-C | PANCAS | ESPÍRITO SANTO | Brasil | 3204005 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2d341e7a-5a35-3d31-ab45-72463a0809e1 | -19.0977 | -40.9562 | 2024-10-09 00:37:38 | METOP-C | ALTO RIO NOVO | ESPÍRITO SANTO | Brasil | 3200359 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| baa410a0-8520-3200-a829-0bfae8affad6 | -19.448799 | -42.506199 | 2024-10-09 00:37:38 | METOP-C | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 8beb43fa-9071-350c-bb88-ba520965807a | -19.4505 | -42.513699 | 2024-10-09 00:37:38 | METOP-C | SANTANA DO PARAÍSO | MINAS GERAIS | Brasil | 3158953 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 0e0caa6f-ed77-32c1-9952-b804c3de9d34 | -20.4645 | -47.159401 | 2024-10-09 00:37:38 | METOP-C | IBIRACI | MINAS GERAIS | Brasil | 3129707 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 417a03c0-3e4a-355c-b0ff-7a76fcd3e743 | -20.466299 | -47.168598 | 2024-10-09 00:37:38 | METOP-C | IBIRACI | MINAS GERAIS | Brasil | 3129707 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 15c57956-75b7-389a-a0fe-1c93346dcb53 | -19.2782 | -42.844898 | 2024-10-09 00:37:42 | METOP-C | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d02150c6-c869-361a-a5d7-234aa0fbe938 | -19.2799 | -42.852299 | 2024-10-09 00:37:42 | METOP-C | FERROS | MINAS GERAIS | Brasil | 3125903 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4e897513-c284-3a9d-8f3d-618aaa7beee9 | -20.6122 | -49.350498 | 2024-10-09 00:37:42 | METOP-C | ONDA VERDE | SÃO PAULO | Brasil | 3534005 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 705796d6-514c-3571-93ed-b7635de79980 | -20.6003 | -49.340302 | 2024-10-09 00:37:42 | METOP-C | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 707af934-0d85-32bb-9056-667a176f35a6 | -20.602501 | -49.352501 | 2024-10-09 00:37:42 | METOP-C | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 0ce00fd9-d1bc-3619-8ad4-7c28bb43bffe | -20.5905 | -49.3423 | 2024-10-09 00:37:42 | METOP-C | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 1952b117-51fe-3bcf-8dad-388100caf5e9 | -20.0485 | -46.365101 | 2024-10-09 00:37:42 | METOP-C | MEDEIROS | MINAS GERAIS | Brasil | 3141306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 1e946f6a-e79f-35e1-9276-d1ef1cdfde47 | -20.0502 | -46.373402 | 2024-10-09 00:37:42 | METOP-C | MEDEIROS | MINAS GERAIS | Brasil | 3141306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 95f59d1f-61db-38f3-802b-b1390d5bb9c7 | -20.051901 | -46.381802 | 2024-10-09 00:37:42 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 166a1c67-624f-3225-ba1c-1e418a0d563d | -20.451799 | -48.821098 | 2024-10-09 00:37:43 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 04c93e1a-2032-3c53-9bf7-69dc429b59fb | -20.453899 | -48.832401 | 2024-10-09 00:37:43 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 035bde21-91af-3195-914a-a198f8f518c6 | -20.442101 | -48.823101 | 2024-10-09 00:37:43 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 580ba6b0-2263-3edf-ba0b-1cefc4e799f4 | -20.444201 | -48.8344 | 2024-10-09 00:37:43 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5004425a-8bb2-3d9a-befb-0ca5b0743675 | -20.549101 | -49.338001 | 2024-10-09 00:37:43 | METOP-C | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 9ddf734f-e111-30af-93f2-f058be9f7846 | -20.551399 | -49.350201 | 2024-10-09 00:37:43 | METOP-C | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| ea2b96c9-7983-375b-8bce-a9fae5c5a48b | -20.5394 | -49.34 | 2024-10-09 00:37:43 | METOP-C | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 05ea7070-834b-3477-9985-53c6394e0133 | -19.791599 | -45.620602 | 2024-10-09 00:37:43 | METOP-C | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f0326542-ed51-3b22-ba72-848f08fdd8e2 | -19.143801 | -42.7075 | 2024-10-09 00:37:44 | METOP-C | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| a9364f8c-22ea-3ffa-8dcb-58d42bbf3e67 | -19.134001 | -42.7099 | 2024-10-09 00:37:44 | METOP-C | JOANÉSIA | MINAS GERAIS | Brasil | 3136108 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 97c5bf9a-57d8-3ff2-8582-4cf106f80628 | -19.1243 | -42.712299 | 2024-10-09 00:37:44 | METOP-C | BRAÚNAS | MINAS GERAIS | Brasil | 3108800 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 1998ea43-8ad9-34bc-9b4b-fb43d7336b2e | -19.1259 | -42.7197 | 2024-10-09 00:37:44 | METOP-C | BRAÚNAS | MINAS GERAIS | Brasil | 3108800 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 93d9c40b-caad-33eb-8c9f-20fce853cca8 | -20.369699 | -48.7099 | 2024-10-09 00:37:44 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 33fa7a85-7d01-3379-8a22-fb25bcd7aaaf | -20.371799 | -48.721001 | 2024-10-09 00:37:44 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 96af7e42-e20a-3d54-b5d7-284cd8bd1cfd | -20.357901 | -48.700901 | 2024-10-09 00:37:44 | METOP-C | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| e15469d9-fe91-3a02-b6fc-ee5331f57295 | -20.360001 | -48.712002 | 2024-10-09 00:37:44 | METOP-C | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)

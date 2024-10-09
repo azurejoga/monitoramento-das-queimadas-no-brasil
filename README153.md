@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7b7015ad-231f-3a83-b439-e32161eb3185 | -10.918 | -46.6642 | 2024-10-07 14:06:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 83.3 |
-| fffe953d-5d75-3518-973c-f6f77291efb5 | -10.9187 | -46.6192 | 2024-10-07 14:06:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 81.0 |
-| defb07c3-4e18-3266-ba09-a1ddae355dc5 | -10.9294 | -49.6978 | 2024-10-07 14:06:08 | GOES-16 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 84.5 |
-| f399789c-66e4-36d1-b24d-63723fd09af3 | -11.0991 | -54.0285 | 2024-10-07 14:06:09 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 106.5 |
-| 64cf7672-3711-341b-bb23-7b35c4b30e30 | -11.2783 | -43.388 | 2024-10-07 14:06:09 | GOES-16 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 60be0c23-276a-39c8-81ea-c72d71a95b8f | -11.2971 | -43.4088 | 2024-10-07 14:06:10 | GOES-16 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 79.0 |
-| 3a6e5bfd-7058-3b81-a86a-ee8d7521a5f4 | -13.8943 | -44.6058 | 2024-10-07 14:06:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| 9de12555-3092-3465-9a89-1be4cfbf5693 | -13.8749 | -44.6093 | 2024-10-07 14:06:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 74.7 |
-| 8f15e5d6-df99-3f06-ba45-1a07531d6f8d | -13.8948 | -44.5823 | 2024-10-07 14:06:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 111.6 |
-| fa833d04-2bae-37be-baac-ec26e3078ce7 | -14.1068 | -45.5705 | 2024-10-07 14:06:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 91.9 |
-| 593c7dc6-2dd0-3502-ae13-cd8469d9d0a2 | -14.1268 | -45.5439 | 2024-10-07 14:06:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 155.9 |
-| ed4b23df-2163-3f38-91fa-f63da7472caa | -14.5287 | -44.9365 | 2024-10-07 14:06:27 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 89.9 |
-| fcea7b1d-d638-3e95-9b11-ce59d92b93e0 | -14.6805 | -45.1191 | 2024-10-07 14:06:28 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 96.1 |
-| fa03bfee-c4d1-3f18-8184-1e4f5581e5a1 | -14.8021 | -53.9224 | 2024-10-07 14:06:30 | GOES-16 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| a76c4c30-4a7b-3904-a43b-d46a7832035d | -15.0422 | -51.24 | 2024-10-07 14:06:31 | GOES-16 | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 77.9 |
-| e3d9e1f3-f55c-39cf-a980-6de51c40c57a | -15.71 | -47.1463 | 2024-10-07 14:06:34 | GOES-16 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 115.7 |
-| 9ceb794e-4b4a-34d9-9e01-5262263a83ea | -16.6259 | -55.2142 | 2024-10-07 14:06:40 | GOES-16 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 74.0 |
-| d12c312b-de47-3da1-9276-a7b02656a041 | -16.9098 | -47.1493 | 2024-10-07 14:06:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 62.2 |
-| 4a74b4ae-22d6-3269-b7a4-b5a4a303460e | -16.8899 | -47.1532 | 2024-10-07 14:06:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 119.7 |
-| 7c5ea9fa-9164-30ff-8dc4-8239d4132bba | -17.1437 | -51.6989 | 2024-10-07 14:06:42 | GOES-16 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 97.6 |
-| 666b3233-18cb-3016-a887-7407d745b608 | -17.5525 | -43.7577 | 2024-10-07 14:06:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 182.8 |
-| e21b8c9d-6a01-3a05-9f35-e992554a2336 | -17.5325 | -43.7624 | 2024-10-07 14:06:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 136.2 |
-| 0b1833b0-6930-3b4a-b1b2-999122a66c85 | -17.5532 | -43.7332 | 2024-10-07 14:06:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 108.1 |
-| 751800c0-bc83-3141-a8c3-05847d817fe6 | -17.6882 | -53.0573 | 2024-10-07 14:06:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 158.8 |
-| 9d0201dd-7846-3c36-86eb-37f8c70bf162 | -18.301 | -47.1425 | 2024-10-07 14:06:48 | GOES-16 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 102.5 |
-| 2b4df05c-1a10-3690-ad91-dbce5c37cc53 | -18.3211 | -47.1382 | 2024-10-07 14:06:48 | GOES-16 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 93.8 |
-| 8b5e5ca4-4080-3315-856c-b2d819e98e15 | -18.8882 | -54.58 | 2024-10-07 14:06:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 100.6 |
-| 4ed73988-181d-3921-a57e-ddf27d378d3d | -18.8886 | -54.5587 | 2024-10-07 14:06:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 139.1 |
-| 65d5aa26-8f02-3200-87ea-edece7f9598f | -18.8899 | -54.4947 | 2024-10-07 14:06:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 115.0 |
-| a28344b5-156d-31af-a99b-3aa08b228280 | -18.8903 | -54.4733 | 2024-10-07 14:06:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 144.5 |
-| 2b4174a5-a64e-3b63-b093-233477b54b04 | -21.4152 | -57.2472 | 2024-10-07 14:07:05 | GOES-16 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 97.8 |
-| 2d4eb3c4-42e3-38fb-a857-3224e593e371 | -7.7684 | -43.0833 | 2024-10-07 14:15:50 | GOES-16 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 71.4 |
-| d29f50de-31b4-374e-a2df-149c0dc0cc32 | -8.1759 | -43.6957 | 2024-10-07 14:15:52 | GOES-16 | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| 42a00840-8445-3134-8069-cc5004e8d1d4 | -8.8189 | -45.0566 | 2024-10-07 14:15:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 77.7 |
-| 46ef9aec-3fce-3fe9-92de-63341e1151e8 | -9.5248 | -45.9543 | 2024-10-07 14:16:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 74.2 |
-| 6f0e500b-5e25-392b-bca2-0bb36455646c | -9.5251 | -45.9317 | 2024-10-07 14:16:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 77.7 |
-| 2ab2da65-1b74-3739-9182-790869dd96c3 | -9.9505 | -44.0908 | 2024-10-07 14:16:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 98.3 |
-| e1acee07-4efc-3436-9473-8858c879220b | -10.8996 | -46.6216 | 2024-10-07 14:16:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 74.0 |
-| dd24593d-d192-32f7-bc37-4afeb9a7e1e8 | -10.9187 | -46.6192 | 2024-10-07 14:16:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| a0cbf40d-20c9-301d-b773-8bdda0e376f8 | -11.0991 | -54.0285 | 2024-10-07 14:16:09 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 144.4 |
-| a3dc4cfe-70e0-3c3c-872e-1a9a9bd93630 | -11.2591 | -43.3909 | 2024-10-07 14:16:09 | GOES-16 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 99.9 |
-| bf01830a-da78-3f93-a3b0-d18b49a1bb56 | -11.2783 | -43.388 | 2024-10-07 14:16:09 | GOES-16 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 84.7 |
-| b5915e66-fec4-3801-883f-6f138a32534b | -11.2975 | -43.3851 | 2024-10-07 14:16:10 | GOES-16 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 77.8 |
-| cd70dfcc-474b-3230-bc40-f1e150e9bf7e | -11.2467 | -51.3918 | 2024-10-07 14:16:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 130.0 |
-| 0a3a51b4-e96e-3e25-aa34-a58f5286c3a5 | -11.9865 | -50.1572 | 2024-10-07 14:16:14 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 84.3 |
-| 6fb25458-a407-3057-8719-61931ff3d5f7 | -11.9299 | -50.1209 | 2024-10-07 14:16:14 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 90.3 |
-| 8d219e78-fb6c-3e37-bd54-c698a7c7d83a | -11.9303 | -50.0993 | 2024-10-07 14:16:14 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 80.6 |
-| 5095db1e-d5af-3a3f-a9b3-b6f806062e50 | -11.9862 | -50.1787 | 2024-10-07 14:16:14 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 88.9 |
-| 5019e5d3-0161-33d5-b572-9f21a4d9ef23 | -13.8749 | -44.6093 | 2024-10-07 14:16:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 76.0 |
-| 5e1ff803-6b95-3503-a2aa-597d8f0362eb | -14.1083 | -45.5008 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 123.2 |
-| cad754de-87b2-33b3-bac6-0c1b60155390 | -14.0378 | -45.1648 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 104.8 |
-| 10a188f3-30a5-30a1-ab8a-bc17996bf2f7 | -14.0893 | -45.4809 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 103.7 |
-| 2a7a0f25-c87a-35b7-880e-6742e3cc7de9 | -14.0703 | -45.4611 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 90.6 |
-| 83ab1944-e0fd-3ab2-97e7-ec14e4ead397 | -14.0698 | -45.4843 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.9 |
-| edf4384a-d0ea-3631-8fe7-25fad30b59b6 | -14.0188 | -45.1448 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 106.4 |
-| bb24092d-d6db-36e1-b35c-a2395abf3547 | -14.0382 | -45.1414 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 115.5 |
-| b0b70a53-81f7-3001-9fbd-4c4767c17efa | -14.0387 | -45.118 | 2024-10-07 14:16:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 114.3 |
-| b1ae1248-b919-358c-801d-8d8677b30e50 | -15.0422 | -51.24 | 2024-10-07 14:16:31 | GOES-16 | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 77.9 |
-| 08d0f0a3-ddde-3996-8871-80e660b53e40 | -15.71 | -47.1463 | 2024-10-07 14:16:34 | GOES-16 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 138.5 |
-| 44464fa0-bdbd-3bf1-8ef2-eb262a62eb95 | -16.8899 | -47.1532 | 2024-10-07 14:16:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 171.6 |
-| 990c6e6c-6d37-3163-b9d8-f411b96e44ea | -17.6882 | -53.0573 | 2024-10-07 14:16:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 225.9 |
-| 80d2ca6d-bac1-39f4-861f-d17c7a8603a5 | -17.6679 | -53.0819 | 2024-10-07 14:16:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 187.6 |
-| 446789dd-201e-3576-8312-f4301db31f9c | -17.7931 | -53.7462 | 2024-10-07 14:16:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 93.4 |
-| 2c5696eb-d1e7-3a8d-be3d-b45582205f13 | -18.301 | -47.1425 | 2024-10-07 14:16:48 | GOES-16 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 112.2 |
-| baf71905-df31-3e83-ae11-e78250caa9ee | -18.8882 | -54.58 | 2024-10-07 14:16:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 101.4 |
-| 8cfe66f1-7144-36c6-a9ed-e0c735c8a67b | -18.8886 | -54.5587 | 2024-10-07 14:16:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 141.1 |
-| 0d31ce2f-61a3-38cb-a5b9-d5d9529b7382 | -18.8899 | -54.4947 | 2024-10-07 14:16:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 136.5 |
-| 4bc5121c-15d0-3046-bc72-d90206087b11 | -8.1759 | -43.6957 | 2024-10-07 14:25:52 | GOES-16 | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 82.0 |
-| 791d98ba-3426-333d-8586-80b03e6cf781 | -8.7996 | -45.0815 | 2024-10-07 14:25:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 90.3 |
-| 8f9d4d72-8048-3a5b-b62c-a0f200ef4984 | -8.8189 | -45.0566 | 2024-10-07 14:25:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 65.4 |
-| fbcb620f-bc7c-33a0-a4de-e9d493c3fb7a | -9.5248 | -45.9543 | 2024-10-07 14:26:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 83.1 |
-| b610710d-620c-38ba-95eb-8da93b05cbab | -9.9505 | -44.0908 | 2024-10-07 14:26:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 102.9 |
-| d756ee1b-24d6-3d18-8e81-d3da510710ba | -10.8805 | -46.6241 | 2024-10-07 14:26:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 71.3 |
-| 4808842f-7886-3f27-8bf8-a7601ccfae95 | -10.8032 | -53.5417 | 2024-10-07 14:26:08 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 85.3 |
-| b09d3027-e074-32fe-a936-983e143a5be7 | -10.8996 | -46.6216 | 2024-10-07 14:26:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 77.8 |
-| a1198eab-2e6a-38ce-a007-95964b64e3de | -11.0805 | -54.0097 | 2024-10-07 14:26:09 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 86.2 |
-| a3090be9-a9ec-3f01-b985-aef2493769f4 | -11.0802 | -54.0302 | 2024-10-07 14:26:09 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 161.1 |
-| e4f3476b-6145-3ca4-a18a-80709469237d | -11.0991 | -54.0285 | 2024-10-07 14:26:09 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 324.2 |
-| 6d7fed0a-f992-30b7-acb9-4ab3c24282fd | -12.0033 | -50.3057 | 2024-10-07 14:26:14 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 82.1 |
-| c8c88fc7-bb75-3b7f-8a07-73a5dcf35630 | -11.9862 | -50.1787 | 2024-10-07 14:26:14 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 91.6 |
-| c82e3e69-641d-3a24-9645-698fc775a9cc | -12.4882 | -47.5285 | 2024-10-07 14:26:17 | GOES-16 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 65.4 |
-| 7334fae3-bcbb-3dee-a5bc-efce1983ee6b | -14.0893 | -45.4809 | 2024-10-07 14:26:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 86.5 |
-| d6803816-b4ae-30d4-8715-1eac83274d96 | -14.8021 | -53.9224 | 2024-10-07 14:26:30 | GOES-16 | SANTO ANTÔNIO DO LESTE | MATO GROSSO | Brasil | 5107792 | 51 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| 42308244-f90c-3319-b4df-a36b0bca881a | -15.0422 | -51.24 | 2024-10-07 14:26:31 | GOES-16 | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 83.3 |
-| d4db0277-b8c5-37b0-8302-662dc251de9a | -15.71 | -47.1463 | 2024-10-07 14:26:34 | GOES-16 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 115.1 |
-| a08d4286-f150-3f4b-823f-57f9ed99376d | -16.8899 | -47.1532 | 2024-10-07 14:26:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 107.3 |
-| e63e2507-4b0b-350a-8577-b62e8c83ae89 | -17.1437 | -51.6989 | 2024-10-07 14:26:42 | GOES-16 | CAIAPÔNIA | GOIÁS | Brasil | 5204409 | 52 | 33 | nan | nan | nan | Cerrado | 96.5 |
-| 5dfb44ff-8fbc-388a-afbe-a9f729f2d794 | -17.6679 | -53.0819 | 2024-10-07 14:26:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 149.3 |
-| 37cbc2f2-c248-390a-b213-5cc164d6faf3 | -17.7728 | -53.7705 | 2024-10-07 14:26:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 163.8 |
-| 3dfe349e-bca5-3cda-9239-221e57a21c6f | -17.7666 | -53.088 | 2024-10-07 14:26:46 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 266.5 |
-| 50572c70-b68f-3180-9840-63de5549785c | -17.7926 | -53.7675 | 2024-10-07 14:26:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 142.2 |
-| ffffb700-b3c2-3c74-9a4b-563d29f8d37b | -17.7931 | -53.7462 | 2024-10-07 14:26:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 105.3 |
-| a4869033-0251-3a5e-bd62-1ac4fcd6a580 | -18.301 | -47.1425 | 2024-10-07 14:26:48 | GOES-16 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 104.1 |
-| de7be988-1d56-3882-b5e3-2c996bd3b0d7 | -18.8899 | -54.4947 | 2024-10-07 14:26:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 110.4 |
-| 9540f0f4-4b91-33ae-a206-f266a8dc66bd | -21.4152 | -57.2472 | 2024-10-07 14:27:05 | GOES-16 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 114.5 |
-| 8e1b0040-7ea5-35f3-8e95-44cc96103860 | -7.2377 | -45.0096 | 2024-10-07 14:35:47 | GOES-16 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 60.4 |
-| 3c76f2b0-a17e-380d-b671-6418420b2bcc | -9.5248 | -45.9543 | 2024-10-07 14:36:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 75.7 |
-| f022bbdf-956e-3ab5-b6e9-6abc5c4f3a39 | -9.5251 | -45.9317 | 2024-10-07 14:36:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 70.6 |
-| b464df04-4b50-3773-a61c-36338d1ad865 | -9.9505 | -44.0908 | 2024-10-07 14:36:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 102.7 |
-| 094c0983-618a-3df0-8805-60eee6cf7008 | -10.8032 | -53.5417 | 2024-10-07 14:36:08 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 88.9 |
+| aa9be589-bac7-3212-a876-67bfacac895d | -21.31492 | -47.60904 | 2024-10-09 04:42:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 8e8a60c1-5610-3376-9f12-117bd5702dc4 | -21.08086 | -47.57172 | 2024-10-09 04:42:00 | NPP-375D | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 77900f99-657b-33ff-894b-54bf8fcb998a | -21.08015 | -47.57737 | 2024-10-09 04:42:00 | NPP-375D | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| e32585c5-9609-3788-9bd8-bbd116fb5151 | -21.07685 | -47.57108 | 2024-10-09 04:42:00 | NPP-375D | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 1629a78e-f67a-3746-b926-99392af41e33 | -21.02951 | -47.5811 | 2024-10-09 04:42:00 | NPP-375D | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0ce17447-44ac-3497-beb1-cb8527d094f4 | -21.02549 | -47.5806 | 2024-10-09 04:42:00 | NPP-375D | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 17e30b63-e263-3efd-b74d-1dd52c1212cc | -21.02147 | -47.58009 | 2024-10-09 04:42:00 | NPP-375D | BRODOWSKI | SÃO PAULO | Brasil | 3507803 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 235baf12-8e33-3aa0-97c5-b90d91a0022f | -20.88673 | -48.18948 | 2024-10-09 04:42:00 | NPP-375D | PITANGUEIRAS | SÃO PAULO | Brasil | 3539509 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| fe8114e3-8cf7-3d92-aa26-d7b2679d5913 | -20.43404 | -47.97395 | 2024-10-09 04:42:00 | NPP-375D | IPUÃ | SÃO PAULO | Brasil | 3521309 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 13de33d2-d46b-38fa-bd9a-ffe6d2678e8f | -20.01993 | -48.22395 | 2024-10-09 04:42:00 | NPP-375D | CONCEIÇÃO DAS ALAGOAS | MINAS GERAIS | Brasil | 3117306 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 51802fb0-aa80-300c-9ac0-48cd92023cb7 | -20.01611 | -48.2234 | 2024-10-09 04:42:00 | NPP-375D | CONCEIÇÃO DAS ALAGOAS | MINAS GERAIS | Brasil | 3117306 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 6ed1a909-4798-3fae-883d-7bad5c5a26b9 | -20.01229 | -48.22286 | 2024-10-09 04:42:00 | NPP-375D | CONCEIÇÃO DAS ALAGOAS | MINAS GERAIS | Brasil | 3117306 | 31 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 6b7086ac-6db1-30a8-a649-6b3301f13b9e | -19.77753 | -48.26796 | 2024-10-09 04:42:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| 2b49b5f8-e3b8-36e9-aa5d-5f785c9b8977 | -19.77607 | -48.26954 | 2024-10-09 04:42:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| f5960182-e196-3261-b825-c55ee43143e7 | -19.77373 | -48.26745 | 2024-10-09 04:42:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| 6610c334-77ee-3d38-850b-70a1c748073c | -19.77227 | -48.269 | 2024-10-09 04:42:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 38f567af-0106-376c-8f86-183d2dc4105d | -19.76993 | -48.26693 | 2024-10-09 04:42:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| ee549197-0158-37dc-868d-1608c0fc5555 | -19.76481 | -48.27612 | 2024-10-09 04:42:00 | NPP-375D | CONCEIÇÃO DAS ALAGOAS | MINAS GERAIS | Brasil | 3117306 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 6e73e1b8-22cd-3272-a150-21f61230e05a | -18.93092 | -54.56118 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 5cb149d0-ff33-3b45-9cde-783965be4549 | -18.93023 | -54.5652 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| e57a8e45-da42-3034-b910-52d0e3b13655 | -18.92884 | -54.55242 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| b2794cc2-f5b7-3a86-ae83-c1c89ccc7237 | -18.92815 | -54.55642 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 50a73040-ddc1-3034-8f08-a3296a0d69ac | -18.92746 | -54.56046 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 78fdcbdc-14c0-30ee-9ea2-8070e2d4c8db | -18.92676 | -54.56449 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| e1eb6f17-dfaa-3188-b3de-e8511f9288e0 | -18.92538 | -54.55171 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 43f39429-d179-3f91-b30f-b153c1c4efb2 | -18.92482 | -54.54863 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| da701547-eb0e-344e-9bfc-4c1e81f6859e | -18.92415 | -54.55258 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 8611b881-484a-372e-821c-44228328be19 | -18.924 | -54.55973 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 16e965da-ec70-3577-bf27-1dc0f9db8c07 | -18.9228 | -54.56064 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e7b6ce74-fbb1-32f4-b787-72a2c1060ddc | -18.92192 | -54.55099 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| d51b21e5-2778-374d-869d-a358b7ef65f3 | -18.92123 | -54.55496 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| a63b711f-8d92-3868-a9be-fbd874cc1101 | -18.92069 | -54.55187 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| b3d597d6-12c3-3c68-aabb-f67fbad171ad | -18.92053 | -54.57988 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 3b537d1d-b4fe-355c-9953-3b58975a9616 | -18.92001 | -54.55588 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f8299fdc-3e97-3f35-a6f9-6bc17aa0273b | -18.91941 | -54.58083 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| ceb7f8f4-4bcf-331f-94f2-0afca12f3e40 | -18.91705 | -54.5792 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| c6612fc2-b15c-3cb9-89c2-57a102b019bc | -18.91635 | -54.58328 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 783a63b0-fa1d-353c-84b6-d7458e7fec6c | -18.91593 | -54.58016 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 4019388c-21c9-38a5-95a7-4b473960ddda | -18.91314 | -54.57541 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 6c88b22c-9b92-3c97-b59d-47fc77b1bf53 | -18.91176 | -54.5836 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f4d84f4f-e24e-34e5-a85d-37eb5a241c1d | -18.90828 | -54.583 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 6e62e54c-1506-3516-ba26-8ce3b5a7c35e | -18.90411 | -54.58646 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 6fa3c845-c52c-36ab-9168-7a3c51557516 | -18.90062 | -54.58585 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cb78b6c1-849a-3fb0-9f95-3158284008e6 | -18.89725 | -54.45743 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 35b7cc90-9bf3-38fa-9571-fb3863036e48 | -18.89713 | -54.58525 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| a1869af9-4e9b-3de1-9bdd-8d2d3edc682a | -18.89378 | -54.45683 | 2024-10-09 04:42:00 | NPP-375D | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 596491c4-739a-3cb6-b590-ac5a3109ad22 | -18.89311 | -54.46078 | 2024-10-09 04:42:00 | NPP-375D | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| b8c3adce-30d7-305b-b496-3f834ee456d9 | -18.8797 | -54.58219 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| bbddade0-1359-343f-a43c-22e70b0ce261 | -18.87621 | -54.58163 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 19d21229-0017-3ba7-bc60-cd6db2f4dc84 | -18.87552 | -54.58565 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 2e8e79de-8f2e-33d5-b563-d4a51ab80a19 | -18.87202 | -54.58514 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 6c4d1db7-5173-3888-a175-2ae5854a3462 | -18.86991 | -54.57643 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| eb615472-332f-37e7-9959-b1d042264857 | -18.86922 | -54.5805 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b83afb6b-8e0b-3106-9ba3-44ebaaaf534a | -18.86853 | -54.58455 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 916cc2ca-d3a1-3957-918b-18827953dc6a | -18.86642 | -54.57583 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 7e9e0ebe-8fde-36e9-b04d-d4ab2a2ec0e7 | -18.86293 | -54.57523 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| db512bd6-bb0e-3b9d-9a84-8f3a67e91bdc | -18.85946 | -54.57456 | 2024-10-09 04:42:00 | NPP-375D | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 2edbec83-2cce-35d4-a49e-d31008461809 | -20.6583 | -45.9146 | 2024-10-09 04:42:00 | NPP-375D | GUAPÉ | MINAS GERAIS | Brasil | 3128105 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| df9b6e26-39a8-3c50-952a-850713bb4335 | -21.11536 | -47.22721 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 19dbe120-4164-3836-884e-d044c57cdfe9 | -21.11489 | -47.23103 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 274615bd-58ef-36bc-8737-a50285aff557 | -21.11121 | -47.22696 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f6f53b61-ce4c-325c-8673-9f6c7f4a1e6f | -21.11074 | -47.23084 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 3f6ab3b6-4e9e-3e8b-9260-6f6d802df649 | -21.10985 | -47.23806 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| e6f2ed85-f60b-3b79-b71f-286e2b19ad86 | -21.10706 | -47.22678 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 17410f65-cd19-3c7b-955f-de086954df1f | -21.10658 | -47.23072 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 1fc0aecb-540b-3029-9a8a-4427062a449e | -21.10615 | -47.23425 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 100e0206-cc26-3b48-ac0c-cd27a5a13c02 | -21.10571 | -47.23776 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ae70a691-54e6-397e-a84f-eb43a2a44143 | -21.10527 | -47.24136 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 515ef278-b03c-3611-8a12-d303b47db0f2 | -21.10245 | -47.23039 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e9ca1d1d-8d33-317e-ae0d-13e17537c937 | -21.10202 | -47.23388 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 81fce692-902a-3518-851e-2dcc35dcb5b6 | -21.1016 | -47.23731 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 83aa8406-dee9-3b11-95bc-f75ca0a5f4b0 | -21.09883 | -47.22575 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 089e4312-e513-304b-8065-1cb0a1b7e67d | -21.09791 | -47.23335 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f98a9111-554d-3bb0-bdf0-55ea4f348c73 | -21.09749 | -47.23676 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c56c7d76-7c4b-3570-a7d7-79c471d46288 | -21.09473 | -47.22514 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| cf7c847c-f72c-363d-8bdc-20f3dfe07fd4 | -21.09424 | -47.22921 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 08799b9b-796b-32ca-b599-8271b892e3b2 | -21.0906 | -47.22477 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 6d7103d0-0cf2-3b62-b1de-a7e74ed377e7 | -21.08862 | -47.2177 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 4cc18d9f-a472-3e8a-aa03-4b1288810644 | -21.08743 | -47.21648 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 9c3382b6-78f2-37ee-b39d-d176db387b97 | -21.08385 | -47.21146 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8f521ad5-6cdc-37a4-b3e5-1e2d7c1d80a5 | -21.08335 | -47.21566 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 684cb39d-82bb-3bf3-8bf7-13fb01f1a201 | -21.08101 | -47.21192 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 6c73d90a-c8bf-3c49-9239-e0318b9f923d | -21.08046 | -47.21617 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 6d56e0aa-fe0d-3107-9f9c-96fc662a1c05 | -21.07641 | -47.21518 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 7095d3bf-725d-3395-9031-e0eb28b806dc | -21.07588 | -47.21936 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 4b34075f-9616-3455-a012-cad2f4dbea93 | -21.07184 | -47.21827 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 3082f122-4bb7-344b-91c5-c41d2973ada0 | -21.05145 | -47.24746 | 2024-10-09 04:42:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 1ddfa6a4-701e-3753-85d5-53468b7f7e3f | -21.05099 | -47.25111 | 2024-10-09 04:42:00 | NPP-375D | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 8fc8ef3d-ceb5-30e4-8ffb-315f5075f50f | -20.98719 | -47.15878 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| e6dc4d77-527c-3a8e-b1c7-a67b007905d4 | -20.98552 | -47.15617 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 28193e2b-799e-3cbd-9b47-b146d6326cf8 | -20.98505 | -47.15988 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 617e3765-cf57-3acb-836a-78119b1c8df7 | -20.98305 | -47.15836 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DA ALEGRIA | SÃO PAULO | Brasil | 3547908 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 18aa7703-de4e-3ef2-abee-c969ca1c57fa | -20.79996 | -47.2141 | 2024-10-09 04:42:00 | NPP-375D | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d14964d9-f82c-3c7c-bd1a-943d79e131ed | -20.79944 | -47.21828 | 2024-10-09 04:42:00 | NPP-375D | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 6e427207-3c0b-30ab-b7c6-3044127ebf86 | -20.79731 | -47.20182 | 2024-10-09 04:42:00 | NPP-375D | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 4542abe7-bbde-308f-9776-38625e7a262d | -20.7968 | -47.20591 | 2024-10-09 04:42:00 | NPP-375D | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| bb407d6d-250b-3bb1-ac51-7dada0479378 | -20.79632 | -47.20986 | 2024-10-09 04:42:00 | NPP-375D | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 5c51be77-e617-3a85-b098-ef7588b825cc | -20.79583 | -47.21382 | 2024-10-09 04:42:00 | NPP-375D | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| eb3fceef-409e-3eb9-ac0b-960a8e9474ba | -20.7944 | -47.22538 | 2024-10-09 04:42:00 | NPP-375D | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 3173f090-7aad-3626-872d-7aa0355e9c54 | -20.79394 | -47.22911 | 2024-10-09 04:42:00 | NPP-375D | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
 
 
 [Clique aqui para ver as próximas entradas](README154.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| cf780370-52b7-3e7f-b449-f637d54d21a5 | -18.82828 | -42.9896 | 2024-10-04 04:59:00 | NOAA-20 | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 1cf5d9bb-68d6-3741-a682-ba53ffd0a361 | -18.82126 | -42.98891 | 2024-10-04 04:59:00 | NOAA-20 | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| a6692cbe-4b0e-339d-9105-625618110d72 | -20.27624 | -43.50718 | 2024-10-04 04:59:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| d209c085-6674-356d-aa20-27ab656207ae | -20.27505 | -43.52301 | 2024-10-04 04:59:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 7f6d4a24-a781-3631-8cf6-5a2bddc8f473 | -20.27493 | -43.52133 | 2024-10-04 04:59:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 023970da-4de7-3afa-8e8d-e125d7615fd6 | -20.26838 | -43.51916 | 2024-10-04 04:59:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 923696cb-02cf-38b0-97d8-66dda6279b74 | -20.26742 | -43.52808 | 2024-10-04 04:59:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| b735de85-e71b-3951-876a-eb466c8f7c27 | -20.07966 | -43.44161 | 2024-10-04 04:59:00 | NOAA-20 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 2ded5722-a0a3-3213-b686-2ac2da369e33 | -20.07947 | -43.44373 | 2024-10-04 04:59:00 | NOAA-20 | CATAS ALTAS | MINAS GERAIS | Brasil | 3115359 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 15765d78-0955-3a60-854d-9a8faa9af22e | -20.24511 | -43.19138 | 2024-10-04 04:59:00 | NOAA-20 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 62562e30-4fec-3b5e-8bc7-71b2d7909021 | -20.23859 | -43.1841 | 2024-10-04 04:59:00 | NOAA-20 | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| dcca0d73-d5ce-387d-88d5-b6d476ad0ef5 | -19.51082 | -42.89169 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 4263cffd-e9dd-33f1-bd36-b1146eb4332e | -19.51031 | -42.89829 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 1b2678de-3a5b-301b-a326-ebaa3dc9cb6d | -19.5096 | -42.90747 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 07a4250b-99ef-3e43-9722-bee4a69b6564 | -19.5089 | -42.91645 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 53d79358-58d8-3ef6-b587-c5760257d2b2 | -19.50838 | -42.9232 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| ee7f5692-80c8-3d29-8e0e-ea0b94c33522 | -19.50764 | -42.87829 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| d1dcf3ab-d0b5-361d-97a6-fc7c3bac8f30 | -19.50702 | -42.88582 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 9372df20-ddc7-3ea9-9eb1-02bcc2c6c4b0 | -19.50653 | -42.89169 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 28b4a800-40d1-3d60-8973-a178998dcbc6 | -19.50604 | -42.89754 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 4ff3c557-d3e2-3860-b3a9-cda0ff674a48 | -19.50594 | -42.86218 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 652881ce-3b9d-365b-a3f2-00fc964313b6 | -19.50541 | -42.90512 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| b353de9d-77cb-3911-b3a4-1db315e03d4f | -19.50533 | -42.87002 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| 2bfd5449-7465-334b-beda-44cf42de51c2 | -19.50456 | -42.91524 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| a13a1ad6-5fdd-3e09-be10-47575feb7e86 | -19.50454 | -42.88033 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| 252a40b7-363b-3404-8684-e363ca779554 | -19.50401 | -42.92176 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 6499a22f-7b51-3fe7-8eee-5c2d3f59dd23 | -19.50399 | -42.88754 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 87.5 |
-| ba0f8069-c986-392c-a081-7c19b7dc3aca | -19.50358 | -42.89283 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 87.5 |
-| 327b362a-75d4-3ee2-8122-396ad8ad867a | -19.50346 | -42.92843 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 94cd1b7d-b0be-3fb8-9e59-fca8b70446eb | -19.50314 | -42.89854 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.2 |
-| 2b2f38de-ecc1-3966-ba60-58e76635623d | -19.50254 | -42.90626 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.2 |
-| 82ef98f5-12f5-3bf3-b9da-a7b8badbbd5e | -19.50189 | -42.86135 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| 09079b95-c066-38ae-ac8b-10b9d8a45582 | -19.5018 | -42.91593 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| f9679f4d-8b9d-353c-90b1-157ade932577 | -19.50127 | -42.86891 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| ab24fff3-bffe-3b5e-91da-d3eed619682d | -19.50126 | -42.9229 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 1760c853-163c-312b-849d-5eed00446a37 | -19.50075 | -42.92951 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| ab4cf302-869c-3b11-892f-2ed3d2d7f099 | -19.50033 | -42.8802 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 65.4 |
-| d9a2f60f-870e-3e8b-bd07-27e9ebca55d9 | -19.49977 | -42.88684 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 65.4 |
-| 68575ecf-f6e8-3ba9-93d6-6c5d305928a0 | -19.49935 | -42.89203 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 274.3 |
-| 2e49b7ac-3e11-3660-9e22-b6b37a97c8ba | -19.49927 | -42.85574 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 686f0f78-01a2-3dfa-a0df-b48e92db60b5 | -19.49891 | -42.89734 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 274.3 |
-| e36fb71c-2497-34e5-b1fd-e7f826a5d02c | -19.49874 | -42.86269 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 1b70d39c-04ef-3f0f-b899-1326165a8adc | -19.49835 | -42.90409 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.3 |
-| c9b20d14-803b-3bd5-8aa5-5f3897e949c7 | -19.4982 | -42.86976 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| ed3d3deb-000e-3048-9927-ba1b106968fc | -19.47886 | -42.88018 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 0e7982e7-f13d-3229-a8c1-1aa9416bebfd | -19.47834 | -42.88661 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 1cfc01d2-7692-31d7-b439-3d2ae29cb9b1 | -19.47786 | -42.89244 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| e2927736-c78d-390e-9fac-89972313db75 | -19.47737 | -42.89844 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| c86ec022-a940-3c95-a3d8-06ed0a6e9197 | -19.47685 | -42.90481 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 05f23e49-9263-3ed0-94ec-d25c5249f277 | -19.47544 | -42.88681 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 43626985-cd38-3402-a142-a02048ee02ba | -19.47499 | -42.89278 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 6481f82a-9dee-3e75-9958-4fc5a1f033e7 | -19.47131 | -42.88504 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 71acc544-255b-32e5-a928-89b4ce877f98 | -19.4708 | -42.89137 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 9adeff79-139c-3ccd-a9c5-48b301f79c2d | -19.44156 | -43.07542 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 06b89ee9-321b-3408-ab74-13e2702b9e19 | -19.44107 | -43.08139 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 47d1a6d7-45fb-3e59-8241-e19103d1c9a2 | -19.44062 | -43.08696 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| e9b62f41-18cc-32ec-b042-3602f37db7e7 | -19.43984 | -43.07586 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 4bf46e06-0f8c-3521-ba5d-7a3d303d4b8c | -19.43939 | -43.08178 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| a8272c1b-ffd0-39da-aa9f-268622a0684e | -19.49753 | -42.91387 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.3 |
-| a6abbe10-d4db-352d-a668-eac5373b73e5 | -19.49727 | -42.88191 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| b1c335db-7ade-3c52-b67a-186905808463 | -19.49683 | -42.92226 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 6476ccb7-85ff-381b-b636-ec3fc8be01f9 | -19.49683 | -42.88768 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 87.5 |
-| 0d2b3da5-37dd-3b28-b6ca-50224b74915b | -19.49629 | -42.92877 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 47249ca7-43e2-3ef0-adc4-763063f1210a | -19.49603 | -42.89809 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.2 |
-| 564271fc-d62f-336a-8c73-c181ecf5129a | -19.4958 | -42.93464 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 57673874-c0b4-383d-8089-e096127c3f79 | -19.49577 | -42.84872 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 830a6d12-42a7-3e29-a657-7accd0eba43a | -19.4955 | -42.90488 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 33.2 |
-| ce4c0aad-6ac8-30b8-a49e-c10fed8b89bb | -19.49523 | -42.85524 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 15736b21-ef5e-3052-b698-34c7d42a19fa | -19.49476 | -42.91457 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| e5772541-796d-37cf-a0ea-4c6b5408d58e | -19.49463 | -42.86253 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| f533a290-07e2-3225-acfa-1163e18dfbb2 | -19.49413 | -42.92284 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 5cbbc6cb-494b-3640-9ddd-eda261f36c0a | -19.49405 | -42.8695 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| eabfb0f4-ef58-38c3-96d1-ffe916e2c667 | -19.49362 | -42.92939 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 7c151f21-93cb-3265-aa6a-13838757ad09 | -19.49318 | -42.93521 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| f086cc21-b870-3659-a09c-9a63b56e07cc | -19.49308 | -42.88124 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 65.4 |
-| 48061524-8b7b-3d35-9ba4-d066c6b38123 | -19.4926 | -42.88706 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 65.4 |
-| 06e8772e-5a95-3ab1-bceb-71921adf7ae8 | -19.49202 | -42.85686 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 59b5effd-1180-3fa6-94be-c5492c14bd0b | -19.49177 | -42.89723 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 274.3 |
-| 7d86b48b-2588-3deb-a222-e9b81cefa6ed | -19.49144 | -42.86449 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| e4a74e31-72b1-37fc-97f1-c1517d283c5c | -19.49125 | -42.90354 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.3 |
-| 4bb36a99-77a3-314b-8a5f-b0f894715994 | -19.4909 | -42.87157 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 13.2 |
-| 00aee9f0-36d2-3ea8-9631-eaec56bde4b2 | -19.49051 | -42.91239 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.3 |
-| 2904b682-6cdd-38e8-9a41-66437dcd8447 | -19.49011 | -42.88203 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 13.2 |
-| 03220595-a666-31d0-ae2e-2dba6bbf1ace | -19.48984 | -42.92051 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| fbdb316d-4d0d-3a45-86be-74f8b536811c | -19.48966 | -42.88787 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 184.0 |
-| aff8804e-dffa-3cc4-af61-e18d42f24dcc | -19.48925 | -42.92761 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 795f7720-1e7f-3eee-9a9d-52bec1dacd63 | -19.48888 | -42.89801 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 47.1 |
-| a4a65437-3e30-3d56-8746-aeb42c072ed3 | -19.48874 | -42.93377 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 7e1c6de9-e3ec-33a4-ad18-4dfb4201c2bc | -19.48838 | -42.90458 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 47.1 |
-| 7aed36a7-ba8d-3f3f-bbbc-9b7c15c7e5d8 | -19.48824 | -42.93987 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| d7c5bf41-9a6f-3b39-bc46-90f423069cc6 | -19.48794 | -42.85671 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 279eba39-86b9-39f0-9b3b-16e0aad1a48f | -19.48773 | -42.91311 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 5271a3a6-69da-31d1-ac9c-87c91b514901 | -19.48728 | -42.86483 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 6daa069c-b34e-373c-9199-76a6743486b6 | -19.48715 | -42.92079 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| e126d475-dc92-30ae-a5db-458266039d7f | -19.48675 | -42.87124 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 0f28fac6-bd70-3695-b767-c4e2ccb316ae | -19.48659 | -42.92806 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 48e437fb-691c-3284-8511-c9aedb1081fe | -19.48611 | -42.93429 | 2024-10-04 04:59:00 | NOAA-20 | SANTA MARIA DE ITABIRA | MINAS GERAIS | Brasil | 3158003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 47b9f325-149c-3b5b-aa67-c6858639122d | -19.48596 | -42.88089 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 7b02891f-42d0-375e-9955-53025c804166 | -19.48544 | -42.88718 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| a9e30276-b123-348d-b4a7-0feab5750896 | -19.48502 | -42.89232 | 2024-10-04 04:59:00 | NOAA-20 | ANTÔNIO DIAS | MINAS GERAIS | Brasil | 3103009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 4f8f33d8-d651-3358-8042-b8f7c05a2c8b | -10.99765 | -54.25076 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f22f7b9e-78fc-3310-8ecd-1e7610fa7f06 | -10.99006 | -54.25366 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| db1094d1-22a0-3400-849b-0db3bedf5982 | -10.98656 | -54.25313 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 404856d6-e72d-3d4a-b032-a612459703a9 | -12.35166 | -54.15447 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 0b330395-5d69-321d-b311-4c8e2678bd4b | -12.34809 | -54.15393 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f7bebbb4-d05e-3675-9796-502322f73ee7 | -11.44362 | -54.47977 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 123b8ce7-babf-36b1-a015-c3f449f2102d | -11.44072 | -54.47532 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 76b818b5-492b-3471-b1d2-9f62250ba0e9 | -11.44014 | -54.47924 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1077e86c-d6f1-3531-8fe3-d290540c6fbd | -11.28834 | -54.57999 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 1fae801f-0490-3050-8c16-9aac0ea82a49 | -11.28487 | -54.57946 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| e4a778f9-376f-353d-b2de-e4de7808442e | -11.2843 | -54.5833 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 10ec4f5b-a171-3e43-9810-a80501f6bd9f | -11.28373 | -54.58714 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f045b93a-8dd1-3c82-b150-84b0ae029630 | -11.28084 | -54.58278 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 86302d13-faab-3008-ac32-7e6c4b4fd68d | -11.28026 | -54.58662 | 2024-10-09 05:04:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 05cd0b29-a890-3f36-9a1e-5c98a5acd1d5 | -11.13528 | -54.3194 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 7c8df194-3610-3909-9c39-ed0e1ee84cb2 | -11.13439 | -54.00925 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| d067e179-f9e5-396b-84b2-52a6d98c0273 | -11.1338 | -54.01328 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 2a65c6ea-939a-3aff-8418-dfff7fb90ec8 | -11.13321 | -54.01731 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1405d2a4-60de-3786-96a4-1faa934f661a | -11.13144 | -54.00468 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 15bba382-a998-3a71-9cc1-5d3939591ffc | -11.1312 | -54.32282 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 07761e61-65d4-3c86-b784-4dc8462727de | -11.13085 | -54.00871 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 528da67d-fadb-38af-bdde-2b6e0316000e | -11.13026 | -54.01274 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| be77648b-2ae6-32e9-82e3-3a0a1e388c06 | -11.12967 | -54.01677 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 0d4084ad-d840-3182-990e-0bea48555dd4 | -11.12908 | -54.02079 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 9350248a-c76f-3919-b81b-188a86250662 | -11.12789 | -54.00412 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f3f739d8-87c5-38ca-8cb8-cde905bf4231 | -11.1273 | -54.00816 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 180a8c2c-ad8d-30f5-be2d-17c830344ffa | -11.11728 | -54.02724 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f3ff9721-89a9-3c57-9cee-0beb29d97f3d | -11.11374 | -54.0267 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9b98bb94-0c0a-3853-9498-dd5a5cc99055 | -11.11316 | -54.03074 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 33abe6d2-4ce7-3304-bab5-e1f9b4038b28 | -11.1102 | -54.02617 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2b3a870b-6b57-3ee5-b027-1aa5084cc4dd | -11.10962 | -54.03019 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 1150b424-6021-3e4b-a2c8-177508e6354b | -11.10725 | -54.02161 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3349da33-c952-3cf8-b175-3f7c73d2ee70 | -11.10666 | -54.02563 | 2024-10-09 05:04:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 994017d0-bf37-37e0-a352-030d80f2ea22 | -12.90922 | -55.64395 | 2024-10-09 05:04:00 | NOAA-20 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 6450d11b-06be-3023-806c-f61b7cf26115 | -12.89092 | -55.44323 | 2024-10-09 05:04:00 | NOAA-20 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 4fe8f4bd-463a-3696-b559-01dc702b2458 | -12.88751 | -55.4427 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d4c51108-2326-3e3b-9552-e57061c04f94 | -12.88695 | -55.44644 | 2024-10-09 05:04:00 | NOAA-20 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b4988705-07b9-3357-8def-e71cf9036e59 | -12.88411 | -55.44217 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 89ac6d6c-5d8c-34d2-9120-02b747f1231c | -12.67281 | -54.72147 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 4b775228-c4a5-34f2-a1ca-75e367da1ef8 | -12.67223 | -54.72538 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| a4acb36e-f994-3392-83b4-90ef902d7a54 | -12.66932 | -54.72093 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 220ec146-b624-3cb8-838a-ec6aedd88bca | -12.66875 | -54.72484 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| e545307c-d55a-3c1e-8e3f-67d53d2bcae4 | -12.66642 | -54.71646 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b152691e-8f88-3c9e-96ef-6729a0d7ea20 | -12.66584 | -54.72039 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 2d6eb160-b868-3fa5-afa0-e2211c51bd27 | -12.66293 | -54.71592 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 697c6905-665a-3c59-a9f0-94f219c5edcf | -12.66235 | -54.71984 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ae0b8a95-780e-387e-b9b3-923991a5717f | -12.65478 | -54.69851 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| d362a991-0ef0-3b3f-b060-410a1d4dd22a | -12.64316 | -54.70479 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c740e129-62e2-3abe-ba2d-be01f9ee01f6 | -12.63442 | -54.69131 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 61e99429-3065-33ef-8f2c-d8b56bcf86ac | -12.63385 | -54.69526 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 3c4d26ba-3407-3344-b409-28a006a01aff | -12.63309 | -54.69206 | 2024-10-09 05:04:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 92010f85-96ab-35d4-a4c6-978bd75136e1 | -12.59506 | -55.22189 | 2024-10-09 05:04:00 | NOAA-20 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3c8220da-bbd7-352a-905e-dbefdfe35542 | -13.96119 | -54.60026 | 2024-10-09 05:04:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 28b2cfe0-b6be-32a7-b88a-5861ef8f9e38 | -14.8272 | -55.89822 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ca0d3cc8-8c0f-3d83-a915-54a098acc681 | -14.78646 | -55.98408 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0f806c91-585a-3556-b507-130d53aed7a6 | -14.7859 | -55.98783 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c552e935-5d8c-320d-9a97-bc76bf03e50e | -14.77679 | -55.9326 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 4d25bd1c-39c7-3c32-8924-eb4b9cb5145b | -14.77396 | -55.92831 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 1e456846-a9e3-3f2e-99da-de377bec1f48 | -14.7734 | -55.93206 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 46844a79-a9a6-3dbd-871f-bbe53924b107 | -14.77112 | -55.92402 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 068a4351-d8de-308c-8877-5c85d7f0fed0 | -14.77056 | -55.92778 | 2024-10-09 05:04:00 | NOAA-20 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| f054c827-2065-3c84-a8a1-e1eb84fe4d1b | -15.39398 | -55.87447 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2ff6b2e2-136b-3916-8b54-bbf8ba00843d | -15.38425 | -55.86926 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 5c1a197c-0a8d-3329-b05b-4dcbb2027583 | -15.55532 | -55.98849 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 573364e2-4c1a-327e-8f33-54aeec1d3a24 | -15.39342 | -55.87825 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| eed5e0a9-cb67-30d9-834a-290160c2e49f | -15.3911 | -55.87025 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 95fcd233-6f0d-3a83-bac2-6ab64cd00530 | -15.39 | -55.87776 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2df8c427-c045-3e9b-a86a-8995f2bf731e | -15.38657 | -55.87727 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 808dba7d-17bf-322a-b5f5-fea46cc5d973 | -15.38408 | -55.87023 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 83d51013-458f-3cc0-aef4-d0e94b833932 | -15.3837 | -55.873 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7c0a45fa-393c-346c-a552-0dbe53813d25 | -15.38352 | -55.87396 | 2024-10-09 05:04:00 | NOAA-20 | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 729600dd-e898-365c-a26f-b35ffe8195c1 | -15.93372 | -55.01211 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| e1478856-08c8-3f5d-bd1c-e4f30055d833 | -15.93017 | -55.01155 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 9f843d39-3f1b-3e07-b9e0-af8462a8e067 | -15.92599 | -55.01528 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 0e102a51-42eb-3a6e-8a4f-1084f77e2091 | -15.92537 | -55.01956 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 82355d10-e976-35c5-ac48-36e83c5484d7 | -15.92244 | -55.01475 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 698bcdda-9de3-3356-bea2-92a59eeb0584 | -15.92182 | -55.01902 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 4222efbe-9c7f-31f8-bf1f-2c37c868f45d | -15.92121 | -55.02323 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 9e3f4af5-33b3-3c4c-b8f6-e2ce278329c4 | -15.91889 | -55.01418 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| bc0ea20e-1930-3d85-ada1-66f13e0bad07 | -15.91827 | -55.01845 | 2024-10-09 05:04:00 | NOAA-20 | JACIARA | MATO GROSSO | Brasil | 5104807 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f2b87caa-0c99-3ec2-993d-9e6777aa011e | -15.81737 | -55.31794 | 2024-10-09 05:04:00 | NOAA-20 | CAMPO VERDE | MATO GROSSO | Brasil | 5102678 | 51 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 62cbd20b-61b6-3fff-92ac-e57911785c07 | -15.81387 | -55.3174 | 2024-10-09 05:04:00 | NOAA-20 | CAMPO VERDE | MATO GROSSO | Brasil | 5102678 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 6b42825f-ccee-3113-b777-337c255460e8 | -8.32377 | -55.12021 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| abd59e97-6258-3bfd-83f8-323cdbb0cca6 | -8.30095 | -55.11302 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| b05c3b21-82fc-3741-8ccd-449bbd5a2ae4 | -8.29761 | -55.1125 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 48d69099-6444-37ad-88af-cd4ec2f95ec8 | -8.25274 | -55.18172 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e732cb5f-2a6f-30af-808d-59a140e2fad6 | -8.69985 | -55.03226 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e8bb7b0d-3510-3a10-8c8f-f6c5096a57b0 | -8.69705 | -55.02815 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 32b40c89-9fc2-3d49-a1ac-f69735b1ccbd | -8.62099 | -54.92856 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| fe04768f-a385-3e19-894f-6a884501750a | -8.62044 | -54.93216 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| ee93da6a-66eb-3c3f-a77a-e4d5aac61b2f | -8.51198 | -55.15321 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5dcbdea9-4f0c-3e30-9fc8-d637d6b59157 | -8.50865 | -55.15269 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a3cc693c-a4d3-3db4-ac61-c3525fbdd5bb | -8.5081 | -55.15624 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| be93747e-dfaf-3cae-a2b9-e77cdd8d036c | -8.50545 | -55.21752 | 2024-10-09 05:04:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 535eb027-105c-35ae-8b27-095a11ce5c44 | -8.48641 | -55.1638 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0ecbaea4-f377-32e0-b96f-7be2f875bdea | -8.48586 | -55.16735 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 15aec659-61ba-3f4e-9d9d-1b811b80187d | -8.48307 | -55.16328 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 946ec0f5-aa60-32e8-8631-9967e736b708 | -8.48252 | -55.16683 | 2024-10-09 05:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| e5ee3ebe-b490-30a3-9aef-c66f43b263c7 | -8.44717 | -55.24105 | 2024-10-09 05:04:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 865345c7-2f62-3bab-b6e8-f37c3b44b85c | -8.44384 | -55.24054 | 2024-10-09 05:04:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
 
 
 [Clique aqui para ver as próximas entradas](README175.md)

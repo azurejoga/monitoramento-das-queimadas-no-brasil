@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e86e0920-3a84-3585-9640-83d28cc38544 | -19.1995 | -46.5714 | 2024-10-07 13:26:52 | GOES-16 | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 185.5 |
-| 424b2967-500e-37e1-b802-903ebfd69e81 | -18.8903 | -54.4733 | 2024-10-07 13:26:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 92.4 |
-| 304a33db-dba8-3e94-9533-4c97628c4bde | -18.8886 | -54.5587 | 2024-10-07 13:26:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 109.6 |
-| 7158711e-4c35-39c0-8c3e-8a2f02c9fe0a | -7.8359 | -42.2228 | 2024-10-07 13:35:50 | GOES-16 | PAES LANDIM | PIAUÍ | Brasil | 2207306 | 22 | 33 | nan | nan | nan | Caatinga | 116.8 |
-| 62b0d18a-e24b-3fa2-9681-32199a7f941c | -7.8548 | -42.2207 | 2024-10-07 13:35:50 | GOES-16 | PAES LANDIM | PIAUÍ | Brasil | 2207306 | 22 | 33 | nan | nan | nan | Caatinga | 93.1 |
-| a185e66e-7716-380b-b841-1cacbad47157 | -8.6373 | -40.4514 | 2024-10-07 13:35:55 | GOES-16 | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 102.3 |
-| b8663530-63ff-3147-af34-906415d9c86b | -8.8366 | -45.146 | 2024-10-07 13:35:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 77.5 |
-| 7384a940-d885-30f3-aa6d-00ea703419f8 | -8.7996 | -45.0815 | 2024-10-07 13:35:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| a60bdb32-3177-3476-8787-5c8044cf5635 | -9.9505 | -44.0908 | 2024-10-07 13:36:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 86.0 |
-| 5eea6479-a64b-3c1c-a5d7-bdd4bfd2e7d2 | -11.7566 | -44.4897 | 2024-10-07 13:36:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 350.0 |
-| 8f74e1b8-d167-3244-80ce-a4adf14995d0 | -11.7369 | -44.5159 | 2024-10-07 13:36:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 95.4 |
-| 86db7e8c-96d6-3351-84bc-764eb7ae4b77 | -11.7561 | -44.513 | 2024-10-07 13:36:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 317.3 |
-| a37f12cc-9f4d-3069-8bbe-6e788319f27b | -11.7373 | -44.4926 | 2024-10-07 13:36:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 94.9 |
-| 410242d0-245c-33ba-9438-a73a7916b2e0 | -13.0017 | -44.7357 | 2024-10-07 13:36:19 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 76.7 |
-| deb6c4ad-460e-3d68-aedc-6f770b322e4f | -13.2359 | -45.5783 | 2024-10-07 13:36:20 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 67.1 |
-| 85ba9ef0-98b5-33d0-a7d8-f6e797cb4e4c | -13.8549 | -44.6363 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 77.1 |
-| 3d07aadd-9835-3e2d-8223-93dec4021673 | -13.8754 | -44.5858 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 114.5 |
-| 4b6536cc-13b6-3b9d-9aff-781a7b8f7d02 | -13.8948 | -44.5823 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 113.9 |
-| 21899c96-c46b-3814-9d1c-2b041aa89d36 | -13.8559 | -44.5892 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 129.5 |
-| 46c627b2-8378-3642-9798-0336dc897526 | -13.8165 | -44.6197 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 81.2 |
-| 90e3f907-d11f-3f3d-b631-44f241054e23 | -13.8359 | -44.6162 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 160.5 |
-| f5476c28-ded9-396d-a3fa-540806ac55dc | -13.8354 | -44.6398 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 74.8 |
-| e386643b-e8cd-3988-838a-311fd3a0ef9c | -13.8749 | -44.6093 | 2024-10-07 13:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 96.6 |
-| 27c0ada9-7315-3f99-8299-0b7f6183a6a3 | -14.0387 | -45.118 | 2024-10-07 13:36:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 94.6 |
-| b6af5e52-55c5-36a8-8caa-06e182a5de39 | -14.0392 | -45.0947 | 2024-10-07 13:36:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 91.5 |
-| b0b36e4e-50a9-34e5-9c68-1c33658520ee | -14.0198 | -45.0981 | 2024-10-07 13:36:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 112.8 |
-| 32a8f0bd-b110-39ba-b785-c477c6e48d2e | -14.6996 | -45.1389 | 2024-10-07 13:36:28 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 74.2 |
-| c16e06a8-4c0d-3b5b-8a1c-4fdc40f442b9 | -16.8899 | -47.1532 | 2024-10-07 13:36:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 169.1 |
-| 80d84bdb-bc45-3cd7-96ec-acc073be165e | -16.9098 | -47.1493 | 2024-10-07 13:36:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 132.9 |
-| fcc7c8ee-1f40-35cb-a6f0-74259005da8d | -17.6882 | -53.0573 | 2024-10-07 13:36:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 187.7 |
-| ebe85b44-414c-3010-93ce-5bb782530c42 | -17.6688 | -53.0389 | 2024-10-07 13:36:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 113.4 |
-| 2c7546b4-9131-3add-bb2f-2b8f73028aef | -17.6877 | -53.0788 | 2024-10-07 13:36:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 224.8 |
-| 683e2c33-8369-374c-a791-1427d8a73dfe | -17.7926 | -53.7675 | 2024-10-07 13:36:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 96.0 |
-| dac09d8c-3a48-32b2-a47f-078ee8ebccab | -18.3211 | -47.1382 | 2024-10-07 13:36:48 | GOES-16 | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| 7766cdc3-44f5-3bad-825b-ba06057c421e | -18.8882 | -54.58 | 2024-10-07 13:36:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 84.5 |
-| 757a81fb-6776-3e89-b92f-5851d4e0dbba | -18.8886 | -54.5587 | 2024-10-07 13:36:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 134.3 |
-| 144bf527-9657-344b-9e71-d0ebf2befed4 | -19.1995 | -46.5714 | 2024-10-07 13:36:53 | GOES-16 | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 80.0 |
-| 38bd66f7-e388-393e-a004-d1a10dc058a9 | -8.1759 | -43.6957 | 2024-10-07 13:45:52 | GOES-16 | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 61.8 |
-| d0128a57-e8b9-39b2-b477-a0f1b127b940 | -8.6373 | -40.4514 | 2024-10-07 13:45:55 | GOES-16 | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 136.3 |
-| c7875fc2-14df-3527-9b8d-2a1205193c91 | -8.8366 | -45.146 | 2024-10-07 13:45:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 69.2 |
-| d96116f2-c89e-3808-993f-89c09830827d | -8.8189 | -45.0566 | 2024-10-07 13:45:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 81.6 |
-| e2bf59b9-400f-3bae-937d-bb71dd68ba82 | -9.9505 | -44.0908 | 2024-10-07 13:46:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 86.7 |
-| 9a83f40e-cac4-31cd-b85c-687b8643071f | -10.6794 | -46.1085 | 2024-10-07 13:46:06 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| bdb0fdee-4595-3ce4-af98-ed471d63b3c8 | -11.0345 | -46.5143 | 2024-10-07 13:46:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
-| 3c3865ef-8c05-3911-8529-af55d6d9ba23 | -11.0918 | -46.5069 | 2024-10-07 13:46:09 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 75.3 |
-| 1b5c3954-eb75-3ef0-9084-86783f455d25 | -11.7369 | -44.5159 | 2024-10-07 13:46:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 102.3 |
-| 1859074c-2cc2-3bdb-8f7e-008361428851 | -11.7566 | -44.4897 | 2024-10-07 13:46:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 360.9 |
-| 9cfe9502-03d6-3ff2-bde9-c7fc6a655b58 | -11.7373 | -44.4926 | 2024-10-07 13:46:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 148.0 |
-| 4f8ca541-155b-3d8d-ad00-fdc803886aa6 | -12.103 | -50.0139 | 2024-10-07 13:46:15 | GOES-16 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 83.3 |
-| 93c9a055-7b1d-3113-a06b-03992d8837b5 | -12.1027 | -50.0355 | 2024-10-07 13:46:15 | GOES-16 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| 3f9f804f-3d4e-3b04-a289-26046e5436ab | -12.4584 | -47.0398 | 2024-10-07 13:46:16 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 81.1 |
-| 3d7fb111-e6dc-3bee-bf04-37cd5a02f03d | -13.0017 | -44.7357 | 2024-10-07 13:46:19 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 82.8 |
-| 065500ce-ebf9-3fb3-9a3d-e660c2975194 | -16.8899 | -47.1532 | 2024-10-07 13:46:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 123.7 |
-| 2df30213-ad9e-3a18-a63d-f8634287f529 | -16.9092 | -47.1724 | 2024-10-07 13:46:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 144.3 |
-| d742befd-0ec0-343e-8fb8-b30c1df8a3de | -16.9098 | -47.1493 | 2024-10-07 13:46:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 114.0 |
-| 27a06661-e018-3d55-bdf0-e9fbc45782a8 | -17.5525 | -43.7577 | 2024-10-07 13:46:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 105.1 |
-| cacb2fcb-1e86-365a-8c89-57b9597b15fe | -17.5325 | -43.7624 | 2024-10-07 13:46:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 96.9 |
-| ea8ae1ef-6c87-31ec-a63a-d9f089a8cb6c | -17.6882 | -53.0573 | 2024-10-07 13:46:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 123.8 |
-| e0d4d616-5b2c-3ee2-9aae-0281ac28b8fa | -17.7926 | -53.7675 | 2024-10-07 13:46:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 114.1 |
-| 16543d4c-c779-301c-96d0-b28aaa9b602e | -17.7931 | -53.7462 | 2024-10-07 13:46:46 | GOES-16 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 95.0 |
-| 3e87348f-fa1f-3ab5-b1c4-62c3a0be442f | -18.8882 | -54.58 | 2024-10-07 13:46:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| 3ed644ec-164d-3975-b871-a2756bf0adc1 | -18.8886 | -54.5587 | 2024-10-07 13:46:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 110.6 |
-| 53aaa160-f1f6-3c65-91e6-3484e731abec | -18.8903 | -54.4733 | 2024-10-07 13:46:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 127.0 |
-| fd544218-205d-3422-94ef-94f3c168ca8b | -7.3069 | -42.2551 | 2024-10-07 13:55:47 | GOES-16 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 67.8 |
-| 61643a1b-02c6-38e4-a354-353f3a241f70 | -7.6447 | -42.4103 | 2024-10-07 13:55:49 | GOES-16 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 59.8 |
-| 68530826-0a90-374a-ae95-f01372a10c4a | -8.6373 | -40.4514 | 2024-10-07 13:55:55 | GOES-16 | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 120.6 |
-| 4010fe05-e969-3fa0-b20e-8c0e260d5d27 | -8.8189 | -45.0566 | 2024-10-07 13:55:56 | GOES-16 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 79.9 |
-| 730d904b-eb1e-3ab1-8c0c-714f62e202e0 | -9.5248 | -45.9543 | 2024-10-07 13:56:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 70.9 |
-| 5282872b-4656-33bd-9b9a-f81c3c76ab4d | -9.5251 | -45.9317 | 2024-10-07 13:56:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| ec7b08ea-90d7-3bbd-b920-176077a10abe | -9.9505 | -44.0908 | 2024-10-07 13:56:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 93.1 |
-| 5694e089-aebb-3108-a644-9e1db47e7267 | -10.2908 | -45.4305 | 2024-10-07 13:56:04 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| 1fa0d465-8efa-3ffa-912f-a5ec0035ba33 | -10.3129 | -50.5341 | 2024-10-07 13:56:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 83.0 |
-| 1d36d820-5529-3f9c-a84c-4ac6751092f7 | -10.2942 | -50.5147 | 2024-10-07 13:56:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 82.5 |
-| 85523755-e30c-3aec-ae2f-b115b9f6741c | -10.294 | -50.536 | 2024-10-07 13:56:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 86.8 |
-| 6db2a1c3-78cc-3e57-9f81-535d67b96d55 | -10.918 | -46.6642 | 2024-10-07 13:56:08 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 75.5 |
-| e0ef95ba-a5d7-32df-a01f-5aae4ece7987 | -11.297 | -46.7724 | 2024-10-07 13:56:10 | GOES-16 | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 83.4 |
-| 2f0a8074-ad48-353a-9adc-97657f6d87e1 | -11.7373 | -44.4926 | 2024-10-07 13:56:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 118.8 |
-| 32e99cd9-4a55-3939-b2bf-13b86a175441 | -14.0378 | -45.1648 | 2024-10-07 13:56:25 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.7 |
-| 7b2cad6c-7dd2-36b6-80cb-90496b2381ee | -14.6805 | -45.1191 | 2024-10-07 13:56:28 | GOES-16 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 83.6 |
-| 508e4093-0e4b-3426-9311-3579aa272746 | -15.0422 | -51.24 | 2024-10-07 13:56:31 | GOES-16 | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 72.8 |
-| 2f902b03-49e9-3134-8ab0-cc846623737e | -15.71 | -47.1463 | 2024-10-07 13:56:34 | GOES-16 | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 104.9 |
-| 4913d87a-d24b-361e-a7fe-974bffbc8d0c | -16.8899 | -47.1532 | 2024-10-07 13:56:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 204.4 |
-| 8c2e9846-c604-35dd-9317-c8e8931bdb94 | -16.9092 | -47.1724 | 2024-10-07 13:56:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 119.0 |
-| fd2fbbed-a7bf-33b5-b261-4aafa1005177 | -16.9098 | -47.1493 | 2024-10-07 13:56:40 | GOES-16 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 140.0 |
-| 2747d269-5ef8-305b-a4c6-47b8f8df03bb | -17.5325 | -43.7624 | 2024-10-07 13:56:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 101.3 |
-| a6673246-1c59-340f-8bd9-ff0fd2a71f4a | -17.5525 | -43.7577 | 2024-10-07 13:56:43 | GOES-16 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 117.9 |
-| ba894b6b-0f4e-32cb-9c0a-014799befb70 | -17.6882 | -53.0573 | 2024-10-07 13:56:45 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 143.0 |
-| 8146ebbf-6bb7-385b-b4ec-7e2cfc2305b2 | -18.8903 | -54.4733 | 2024-10-07 13:56:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 164.8 |
-| 5b0f7841-860e-3131-9ae1-a9882ff74f78 | -18.8899 | -54.4947 | 2024-10-07 13:56:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 129.9 |
-| 6921efcc-6a24-3252-a2a6-48d8b4e135d0 | -18.8882 | -54.58 | 2024-10-07 13:56:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 89.5 |
-| 3a993186-fc3b-3aa9-8388-be820c8a67d0 | -18.8886 | -54.5587 | 2024-10-07 13:56:52 | GOES-16 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 146.1 |
-| fb3fc058-46b3-314c-a35e-6873d7f2d835 | -21.4152 | -57.2472 | 2024-10-07 13:57:05 | GOES-16 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 80.5 |
-| e27e545d-5696-31df-9473-e8028e0b5dfa | -9.5248 | -45.9543 | 2024-10-07 14:06:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 72.5 |
-| 675450b2-900d-3dcc-aac8-756ab41d2839 | -9.5251 | -45.9317 | 2024-10-07 14:06:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| 2b543875-8b37-31f5-a410-a3c94d076ee6 | -9.9505 | -44.0908 | 2024-10-07 14:06:02 | GOES-16 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 89.0 |
-| 6da070b6-9b30-39df-be50-e06b8a81cc43 | -10.2942 | -50.5147 | 2024-10-07 14:06:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 85.8 |
-| 7faa5e8e-11c2-30fd-803e-cc6d557c95c4 | -10.3126 | -50.5554 | 2024-10-07 14:06:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 83.0 |
-| 6781aa6c-e4a8-3ac7-bbe5-f0e6c53a09c6 | -10.294 | -50.536 | 2024-10-07 14:06:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 90.6 |
-| c1434908-04df-3b46-ac53-c56379ad8056 | -10.3129 | -50.5341 | 2024-10-07 14:06:05 | GOES-16 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 85.3 |
-| f32654b8-f8a2-381a-bdfd-8b0124250e65 | -10.7834 | -45.5495 | 2024-10-07 14:06:07 | GOES-16 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 74.2 |
+| 49e6aa30-583d-3224-a60d-e0f88002f3aa | -19.80017 | -45.60977 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 23.7 |
+| 13beb12f-a81f-3d60-b7ac-d704a2df5863 | -19.79963 | -45.61449 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 23.7 |
+| afbaafcf-c0f7-39cb-a163-1957a5872361 | -19.79909 | -45.61911 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| c425aeba-917d-344a-bc81-6b74d3a2516d | -19.79855 | -45.62376 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| fe5e1e5b-6fa2-3000-b4d7-30678fc66744 | -19.79624 | -45.60447 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| e183d56e-f8bc-3967-aab1-30f9638f8ee3 | -19.79569 | -45.60923 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 23.7 |
+| 77c8865c-ac54-35be-8416-0d665bcf82d2 | -19.79515 | -45.61393 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 23.7 |
+| 5c7ee4a0-a800-3bfd-ba5c-78f0934d6f49 | -19.79461 | -45.6185 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| f7a1c894-822f-3e81-a624-dc41a9e5c854 | -19.79344 | -45.60714 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2e63b890-0313-302b-b2f9-4f9bda4c10a9 | -19.79286 | -45.61185 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 83fc70a1-0396-3d3c-97b0-51ab5a4fa280 | -19.79229 | -45.61646 | 2024-10-09 04:42:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 6ab8d554-6b1e-318d-a8a4-d3752397db75 | -20.81628 | -45.63024 | 2024-10-09 04:42:00 | NPP-375D | CRISTAIS | MINAS GERAIS | Brasil | 3120201 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| eb0fb5b6-da79-3b8b-8fb9-119fe243fbfa | -20.81174 | -45.62971 | 2024-10-09 04:42:00 | NPP-375D | CRISTAIS | MINAS GERAIS | Brasil | 3120201 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 21085eb4-a02a-335e-bfa2-e5b358d849ed | -20.80721 | -45.62912 | 2024-10-09 04:42:00 | NPP-375D | CRISTAIS | MINAS GERAIS | Brasil | 3120201 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 5cb80651-3260-3660-a60b-a1ad4c24f7fe | -20.80666 | -45.63388 | 2024-10-09 04:42:00 | NPP-375D | CRISTAIS | MINAS GERAIS | Brasil | 3120201 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| a54745ff-ae89-3a4f-94a8-9de047fa0b18 | -22.75512 | -47.24329 | 2024-10-09 04:42:00 | NPP-375D | AMERICANA | SÃO PAULO | Brasil | 3501608 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 4d282e37-0bab-381d-ac43-bd78bd7069ed | -22.75461 | -47.24747 | 2024-10-09 04:42:00 | NPP-375D | AMERICANA | SÃO PAULO | Brasil | 3501608 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c95b3e8a-3e0c-300e-912c-d002ae0e3507 | -22.74744 | -47.12868 | 2024-10-09 04:42:00 | NPP-375D | PAULÍNIA | SÃO PAULO | Brasil | 3536505 | 35 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 5e6b85a9-1ead-3126-a7a0-f87860fb65ba | -22.61176 | -46.98079 | 2024-10-09 04:42:00 | NPP-375D | SANTO ANTÔNIO DE POSSE | SÃO PAULO | Brasil | 3548005 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| de33765e-a288-3d4d-abff-e5b3fdea885a | -22.282 | -46.80904 | 2024-10-09 04:42:00 | NPP-375D | MOGI GUAÇU | SÃO PAULO | Brasil | 3530706 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ef73fca3-22e4-3d59-82f8-6480680d58a3 | -22.28146 | -46.81351 | 2024-10-09 04:42:00 | NPP-375D | MOGI GUAÇU | SÃO PAULO | Brasil | 3530706 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 12b0a4c1-dfe3-3e3e-b695-c15bc2583ce5 | -22.27773 | -46.80829 | 2024-10-09 04:42:00 | NPP-375D | ESPÍRITO SANTO DO PINHAL | SÃO PAULO | Brasil | 3515186 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| fae47f5e-5e02-3761-acc4-b1f78e60c75a | -22.05864 | -46.88916 | 2024-10-09 04:42:00 | NPP-375D | AGUAÍ | SÃO PAULO | Brasil | 3500303 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 62f2696d-90cb-3a58-97fd-2c87f2ca3f69 | -22.05814 | -46.8933 | 2024-10-09 04:42:00 | NPP-375D | AGUAÍ | SÃO PAULO | Brasil | 3500303 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c38074ab-1fc1-362b-b89a-7cd08b1fb225 | -22.05439 | -46.88865 | 2024-10-09 04:42:00 | NPP-375D | AGUAÍ | SÃO PAULO | Brasil | 3500303 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| afc22b8a-be04-3566-834f-e917300d8ac1 | -21.58159 | -46.97985 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 3e2e3133-7f46-3aee-b08d-ed777e533ddc | -21.58113 | -46.98372 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 2da1e18b-ca6f-3846-83f5-550853b5f337 | -21.57786 | -46.97542 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 57af03c9-436a-32e0-9685-492064b70f84 | -21.57738 | -46.9794 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| c456f0e1-3d83-361a-86e6-c36a07cd82c9 | -21.57692 | -46.98323 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 84ca548d-799c-3627-bf35-c23553a7652d | -21.57319 | -46.97877 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 81ceb756-283d-3ef1-b7b7-d7a80723b29f | -21.57272 | -46.98265 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| bb295b9a-835f-3e18-ac87-2896d37e0f4e | -21.57226 | -46.98651 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 77037b0a-8f01-3cf2-9349-d41fb8ea2907 | -21.569 | -46.9781 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 409e46f2-bb30-3672-b019-516e1c21cdd2 | -21.56853 | -46.98207 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 06d34944-715f-3bbe-b261-ed1ba396ab91 | -21.56806 | -46.986 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 7340f825-c60f-3d69-b889-7bb5e7e870ff | -21.56531 | -46.9733 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 349bf8b2-8d95-315f-ad76-3827d88c2193 | -21.56482 | -46.9774 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| d24bbe0a-94b2-38d6-b2c4-7b7a6f7f2b84 | -21.56434 | -46.98145 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 95fa7fae-5e7b-3877-b603-1dfb16b2ea29 | -21.56385 | -46.98551 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 416c79b1-0a05-31fc-8b8b-d30b99ba457a | -21.56112 | -46.97267 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d92bedb3-2d81-3428-a63e-2be192251347 | -21.56063 | -46.9768 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| a633e960-ee16-32ca-b188-2febc726bf27 | -21.56014 | -46.98092 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| de72280d-e2ff-3ee8-8cda-ec37e41efb3a | -21.55965 | -46.98497 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| 880c38cf-c3bd-3bd6-ab32-4035222d8bf3 | -21.55691 | -46.97216 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f875caa1-4523-3d94-8322-7da2f9ff5abf | -21.55642 | -46.97634 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 651e12b6-dc6a-3d23-b32f-fa91c0c0dbcf | -21.55172 | -46.97997 | 2024-10-09 04:42:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| ae8475ce-2eb5-3b3f-81c3-709b03b90884 | -21.63973 | -47.70948 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| ac48daad-ebba-384e-aa72-d0ae28ed5f08 | -21.63903 | -47.715 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e845ed1a-6d67-3076-9431-9489cba2544f | -21.63572 | -47.70892 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| b2cbedbf-d34a-38ea-bb65-d260e1474022 | -21.63239 | -47.70291 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 24d0b781-dc29-3a60-887b-31cb5843d452 | -21.6317 | -47.70836 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 8b2ce372-a21a-3528-9425-765e5874f3e7 | -21.62838 | -47.70235 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 35a0a27b-be58-3cbf-a297-e4fed9ae9fc9 | -21.62769 | -47.70781 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 6d049d62-07a4-3fbd-b931-46e8b0686ed5 | -21.62436 | -47.70176 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 93709606-8acd-3e35-87d9-94bbda46d6d5 | -21.62367 | -47.70724 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| e59eccb9-ca43-3a15-aad7-e0b6e0559983 | -21.61897 | -47.71207 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 3541d2de-fe29-308c-9aed-ee4b021ce6cf | -21.6183 | -47.71743 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| 283fa65a-8e1e-3655-80f1-67e49fe8ede7 | -21.61762 | -47.72282 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| e73c8003-726f-3258-a935-59be190eb809 | -21.61516 | -47.67738 | 2024-10-09 04:42:00 | NPP-375D | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| b23d78c4-30aa-33da-b379-80eee3071c67 | -21.61429 | -47.71686 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| bff1bf4f-3d65-30dc-8f18-cb5cdd6daad5 | -21.61361 | -47.72224 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| e5a8ffab-9e4d-34ca-80d1-03c12eed291a | -21.61183 | -47.67125 | 2024-10-09 04:42:00 | NPP-375D | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| ba6de630-3141-3fef-9253-a5f24dc70ec9 | -21.61114 | -47.67682 | 2024-10-09 04:42:00 | NPP-375D | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 6f515f76-5990-3004-8e2b-6e38fa4573ce | -21.60959 | -47.7217 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0f1e1e3d-7062-34b9-baff-4fc2e6150578 | -21.60781 | -47.67065 | 2024-10-09 04:42:00 | NPP-375D | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 1eff7fb0-3751-3a1f-86cc-60c4b8a167f3 | -21.60711 | -47.67626 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| dbd7facf-41fa-3a4b-b6f4-afecab349465 | -21.60641 | -47.68193 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 659b5902-0dc3-34ef-8fa4-1ab610f8021a | -21.6057 | -47.68761 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 319d26f5-285c-3bd3-9c78-ef9a4db24d83 | -21.60558 | -47.72117 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 2e9d8249-6aae-3d1f-9c8f-a2981a90b4ea | -21.60499 | -47.69327 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 2d2736ef-c4fa-3c49-aea3-c0830a8fc583 | -21.60429 | -47.69885 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 055f0259-c578-35fe-a66e-bc6e56f4290c | -21.6036 | -47.70436 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 67ceb9fd-df48-3d2e-9a04-c409751bb510 | -21.60293 | -47.70973 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 1c2ccbf9-61a9-3afb-a4fe-569791edfdfd | -21.60098 | -47.69264 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| c8486f6a-8610-36e5-8434-af9db0ffc6a3 | -21.59958 | -47.70382 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| c2f00d96-73ff-31f8-b86f-76a99398f97d | -21.59697 | -47.692 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 94ec97db-f708-35ff-9d83-7643c2cf28e2 | -21.59557 | -47.70326 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 84f60b75-680d-3bc7-95f4-3f6afd4c81e6 | -21.59415 | -47.71466 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d5dc57e6-05b2-3574-a39c-a9f8666708b0 | -21.59345 | -47.72028 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| b4788bb9-ad4c-3ea9-92d5-8b68e4b72c66 | -21.59083 | -47.70853 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 17af41f1-446d-3cc2-b2d8-c7a7ea3d10cc | -21.58757 | -47.89612 | 2024-10-09 04:42:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 62229a02-0bbd-3c30-bcd2-f18c64c0d90c | -21.58727 | -47.96184 | 2024-10-09 04:42:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 19261297-ab14-38f3-af3e-38802cf22759 | -21.58332 | -47.96127 | 2024-10-09 04:42:00 | NPP-375D | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 093c6dbe-f55e-3e74-9f43-99bfa0d47583 | -21.58223 | -47.90635 | 2024-10-09 04:42:00 | NPP-375D | RINCÃO | SÃO PAULO | Brasil | 3543709 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| c7bedb91-f155-30f0-bf24-a5adbba662d7 | -21.58168 | -47.87873 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 461885f5-baed-3f43-a9b3-27ff727cbc3b | -21.581 | -47.88414 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| a98ea813-9c68-3825-9818-824eb12dc2d0 | -21.58032 | -47.88956 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 36451a9d-7650-33d6-9a80-d44accfacc65 | -21.57963 | -47.89496 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 212898ce-9bcb-36a5-86e4-c6992285a431 | -21.57895 | -47.90037 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e2f3e00d-00fa-3c98-af4c-1103cd3567b2 | -21.57827 | -47.90577 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 5c2bce5e-0711-3c05-9a33-5f0359307d98 | -21.57771 | -47.87817 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| c9f69377-f882-3eec-a5c2-d7bcd4f46db4 | -21.57703 | -47.88358 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 26ccf437-6da9-3c30-bed5-0b088f1f27da | -21.57635 | -47.88899 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| b44b832d-4f34-3250-b90c-541027fabbe4 | -21.57566 | -47.8944 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 857a5d9d-3b00-3ada-a50f-d2941f26e48c | -21.57498 | -47.89981 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 7b310208-db47-3613-bb05-13448547a3aa | -21.5743 | -47.90522 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 76597329-89f6-3e09-89b5-f168319ee288 | -21.57306 | -47.88305 | 2024-10-09 04:42:00 | NPP-375D | LUÍS ANTÔNIO | SÃO PAULO | Brasil | 3527603 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 9bac1c38-a2e0-3748-8998-3c44f948772a | -21.40477 | -47.80679 | 2024-10-09 04:42:00 | NPP-375D | CRAVINHOS | SÃO PAULO | Brasil | 3513108 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4acb4c68-82fe-3f28-9daa-6edd37c869d7 | -21.31896 | -47.60946 | 2024-10-09 04:42:00 | NPP-375D | SERRA AZUL | SÃO PAULO | Brasil | 3551405 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
 
 
 [Clique aqui para ver as próximas entradas](README153.md)

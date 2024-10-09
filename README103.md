@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| deeb16da-214c-321f-8ca2-58717f89ca84 | -16.67142 | -57.11117 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
-| 7be44a1a-8071-384b-b80d-123ca48d1cb7 | -16.67124 | -57.13357 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 12.0 |
-| 26237936-c309-31aa-be2a-cbb126b6a4c8 | -16.67083 | -57.11481 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| beeca78a-348f-310c-a9f3-7b2bc3831a70 | -16.67042 | -57.09607 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
-| 1e1d0f21-1ef8-38e0-a346-98eba05a936a | -16.67024 | -57.11844 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 8120c263-f6ab-3bf1-967f-afc98543a50d | -16.66983 | -57.09969 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 33.2 |
-| a85de0ad-37b3-3f4a-8f3c-b7ec52a547e6 | -16.66966 | -57.12207 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| b8640a50-e6fc-3f92-ac07-f371675233b8 | -16.66925 | -57.10332 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 33.2 |
-| 3ba5bdd3-8736-3cc2-a816-665480337e35 | -16.66907 | -57.12571 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| c617b16d-af04-314d-9b1f-6ceff2cb1d51 | -16.66866 | -57.10696 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.1 |
-| cfb1c89b-4976-35c2-b729-59e208e0e6ee | -16.66848 | -57.12935 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 12.0 |
-| cda702bf-1846-313c-890a-343b9c293280 | -16.66808 | -57.1106 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.1 |
-| 82fca22f-43aa-3464-a654-0be9c18f7f1e | -16.6679 | -57.13298 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 12.0 |
-| 8f25bff1-72ed-33d9-8cfb-dd2664f7b30b | -16.66767 | -57.09186 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
-| 1203013d-e311-3556-b0cb-7b9395c69e30 | -16.66749 | -57.11423 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.5 |
-| a3d9aaa6-457c-33a0-b24a-625e5ae60eaf | -16.66731 | -57.13663 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.2 |
-| d85ef589-6184-3ba3-a822-b7d9c37b7fbe | -16.66708 | -57.09549 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
-| 6642b78c-17a4-38bd-a6ee-6a2186c58f7c | -16.66691 | -57.11786 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.5 |
-| 767a4431-75d4-3a04-bf03-4c4a95c1375e | -16.6665 | -57.09912 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 33.2 |
-| 6887adb1-ee89-3a28-899b-5dafab6815a6 | -16.66632 | -57.1215 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| e0c080db-d013-38cc-8b13-3c67ccebe51c | -16.66591 | -57.10275 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 33.2 |
-| da49c894-5206-39cc-8b29-ef598c03c118 | -16.66573 | -57.12514 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| 2f4b51ed-1742-3a0b-b2de-93a4b8b71dd8 | -16.6655 | -57.0918 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| 2aa967db-8f13-383c-a849-fd2820009d02 | -16.66533 | -57.10638 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.1 |
-| 1bc87297-ee28-3da4-a43c-90286cf08afa | -16.66515 | -57.12877 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.9 |
-| 9b089d67-eeb7-3214-b1f0-b91cadb88b12 | -16.66492 | -57.09543 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| d253fe8d-4a8b-3753-9e0d-35d47d7fd22e | -16.66474 | -57.11002 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.1 |
-| 99da6f67-b4b7-3181-968b-a8ad71e7ada4 | -16.66456 | -57.13241 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.9 |
-| a0d76dd3-fd34-3bf3-bd9a-234578e7eb1a | -16.66434 | -57.09907 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.9 |
-| 8fb447f3-0645-3c39-80da-c9e2e3fbaa49 | -16.66415 | -57.11365 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.5 |
-| 92c66eca-b15f-3e60-bcca-4d1898758809 | -16.66397 | -57.13605 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.4 |
-| 15803ab0-d541-3b21-857c-5c50044c6a38 | -16.66376 | -57.1027 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.9 |
-| 90696576-6e63-35d1-b97e-a02eab2e9e6b | -16.66357 | -57.11729 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.5 |
-| 9c4070cd-64f7-37c8-a4f1-0b9aa5749df9 | -16.66338 | -57.13969 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.4 |
-| ec736583-b9c3-3fa9-9156-3c6ac4b815d9 | -16.66318 | -57.10633 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 6d2987d4-72c2-3cfd-a2d6-d968ad31c913 | -16.66298 | -57.12092 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| a2416d2f-acdc-3ce5-8a0d-ce76c0cc9bf8 | -16.66274 | -57.08759 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| bf507b98-6c6b-3fbe-b4f6-8da230470035 | -16.6626 | -57.10997 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 29a5c35d-1502-32c7-bcd1-b806c057f738 | -16.66239 | -57.12456 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
-| f6ac48ae-3204-3ac9-80f3-b161f5e7b851 | -16.66216 | -57.09122 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| 2353ca04-f956-39d9-910b-47252d73b583 | -16.6618 | -57.1282 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.9 |
-| 9ea9fd37-e2be-34db-9d53-f1fe256d86b7 | -16.66122 | -57.13183 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.9 |
-| 00706f46-745a-3ef3-be91-4bb69dd76ee4 | -16.661 | -57.09849 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.9 |
-| e988bca3-fd68-3ccf-9d7d-e48e3220be71 | -16.66063 | -57.13547 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.4 |
-| fa3815fb-eb42-3345-967d-85285cd19546 | -16.66027 | -57.12452 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
-| 32b48a4d-af1c-370f-a844-d9479fea871e | -16.66004 | -57.13911 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 41.4 |
-| 1d914304-4817-37dc-9c42-b0835f156751 | -16.65969 | -57.12815 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 24.7 |
-| 6076352c-b734-31e3-aa01-e1790d3279ed | -16.65911 | -57.13179 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 24.7 |
-| 3d3d3421-1349-37fd-84c5-0aa3e49bfd95 | -16.65852 | -57.13543 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 27.8 |
-| bcbf3b78-a534-345b-8b5d-a29fb69c5a56 | -16.65794 | -57.13906 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 27.8 |
-| 02b3762e-3ef9-3ecd-b2f0-e3581bd27609 | -16.65693 | -57.12394 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
-| 8d76e4a8-4e0a-3069-a52f-eaebb539362f | -16.65635 | -57.12757 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 24.7 |
-| ebe075e5-9a97-3979-9a5c-7df69e0a88c2 | -16.65576 | -57.13121 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 24.7 |
-| 1d5f98da-9314-3215-9dbb-4e7f397c15db | -16.65518 | -57.13485 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 27.8 |
-| c441101d-fd4c-3b16-9cdc-ed44b3c4af5e | -16.6546 | -57.13848 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 27.8 |
-| 1b1b7c1e-bce8-30a6-b654-3b02509d00d0 | -17.1821 | -56.94834 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| c3b4b23e-d052-325a-a57f-688033d79696 | -17.17762 | -56.95502 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 9f37e301-3ac5-35b7-aad2-b47453eb44ab | -17.14738 | -56.80098 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| fcef2369-de2f-3a8f-9fc8-e8a580665dea | -17.14623 | -56.80821 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 8c9ec2bc-3049-3ee9-b233-23bcd844ee40 | -17.14566 | -56.81183 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 8e4950e7-ea0d-3d7d-ac03-71fb961f5951 | -17.14508 | -56.81545 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| e481ef6e-7d05-31ff-b8f9-ced575188103 | -17.1449 | -56.80096 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| d74f2f59-990c-3174-945a-e6eaf91527f6 | -17.14375 | -56.8082 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 1898764f-386b-32cd-a437-d78d9db5f8b8 | -17.14318 | -56.81181 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 366fdebb-f510-3740-9977-90a3842c489c | -17.14272 | -56.79315 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| b6a9a528-cd3d-33ad-8104-106e33050909 | -17.14261 | -56.81543 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 2f50dd6c-fa50-3406-9574-0b47cf19f0e6 | -17.14214 | -56.79677 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| dbf950fa-0db2-391b-8284-2cd81d1e166a | -17.14203 | -56.81905 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 36f12b46-1a3a-3a85-a24a-6dcf65c97a35 | -17.14146 | -56.82267 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| bad1052a-08f1-3aec-befc-4cb339eb06b1 | -17.14089 | -56.82629 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| cd6b504d-8d33-39da-874e-1b8c9df5e621 | -17.13996 | -56.78896 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
-| 1ae7687d-71ad-363a-82f6-40038cd776f6 | -17.13939 | -56.79258 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 42295123-45b1-3f5b-9ab6-978f595d06a6 | -17.1387 | -56.81848 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 542d32e0-c2db-3e7b-bf96-622fa1083bc5 | -17.13813 | -56.8221 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 1e9a3ba6-e36e-3b6d-b399-a89aa87ba1f3 | -17.13756 | -56.82572 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 779ef557-f60a-3198-a4b5-40c15874cb9e | -17.13698 | -56.82933 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
-| 35c10f68-74fd-3846-a677-aadb7169996f | -17.13641 | -56.83295 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
-| 812318a7-bbe9-3c62-83d2-4cb1acf42a77 | -17.13365 | -56.82877 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 296b03a6-2976-3288-8e9b-24c50f1764e3 | -17.13308 | -56.83238 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| adfdbdc7-6ae0-3252-9e43-c99788db3661 | -17.13251 | -56.836 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| ff014c63-9cac-3df4-b8a9-ff9f47aeb22d | -17.13193 | -56.83962 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 9a6a31ff-d247-3fce-9080-72d685ca16d7 | -17.13136 | -56.84324 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| c65182b2-2f6d-3f37-96a3-ad73adf37d57 | -17.1286 | -56.83905 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 8cb08892-6ed6-310f-865a-4906ed160a61 | -17.12803 | -56.84267 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 45d05e9a-fd75-3cea-9b2e-437b61d0582e | -17.1247 | -56.84209 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 16.0 |
-| 6be0ff4f-7972-354d-8d01-cd312390a89c | -17.12413 | -56.84571 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 16.0 |
-| 9b574eba-b6a9-3933-8282-8832c73e2e83 | -17.12137 | -56.84152 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 16.0 |
-| f4acfb22-b052-3b6f-934d-e5f127e5fa3c | -17.1208 | -56.84514 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 16.0 |
-| 8da1dda0-3483-3035-bec5-235e7ad9d51c | -17.11746 | -56.84457 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.5 |
-| c39821c0-1324-399d-8f76-9af7dc30fe29 | -17.11414 | -56.844 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 15.5 |
-| 76dc510e-0d3e-31af-860e-1bd4447d0e89 | -17.11081 | -56.84343 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.3 |
-| ea7e61c6-4fe9-3e0c-a549-fd9079f7121e | -17.11023 | -56.84705 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| ff5a93c2-45e0-3948-be47-8f4d1d189ba4 | -17.1069 | -56.84647 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 32c2a183-d75a-3c7d-9dbe-a3426d5b99c3 | -17.10415 | -56.84228 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| 7603b45b-eed4-3b25-a349-66f743497ca3 | -17.10357 | -56.8459 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.3 |
-| 6e0d317a-6f2b-3988-9d0b-c7f23fcbd832 | -17.10139 | -56.83809 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| 3e418937-6936-3d47-8d4a-6c32b46414f8 | -17.10082 | -56.84171 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| 774c69bc-fa51-3640-8e71-3988a89d6148 | -17.10024 | -56.84533 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.3 |
-| 1438fa79-f5a8-3465-ab4b-43f032432aa4 | -17.09749 | -56.84113 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| 7b3a9cbe-9622-320e-869a-c6c2f9cb3ca0 | -17.09416 | -56.84056 | 2024-10-08 04:59:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
+| 4936223f-a72a-385a-af8e-619788eabc00 | -17.32733 | -54.99666 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 6a1501db-220f-3a2d-a221-7465dcc12ee6 | -17.32729 | -54.99727 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| c81e03a8-6179-30ce-9274-c6bf6a468933 | -17.32666 | -55.00001 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 3054e014-14d0-3856-a5cb-aa2ec6c9c589 | -17.32659 | -55.0006 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| e5a10861-fe29-3702-9aa3-cca95ba73d85 | -17.32589 | -55.00394 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| a9d084d3-ebe5-374c-8b59-c515dcc9f1ba | -17.3253 | -55.00671 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| fc072ea7-606a-3499-9d85-9907a99a9315 | -17.32519 | -55.00728 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| d3e6a99e-1514-307f-8333-b4e5cc4ca9e9 | -17.32463 | -55.01006 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 2be9f104-e0b3-3220-8014-7c2e25961ad0 | -17.32449 | -55.01062 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 294bd55a-cdce-3834-979b-ee1c20023d63 | -17.32395 | -55.01341 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 7234b20a-134a-3acb-ad22-6bedc76c1cf8 | -17.32068 | -55.00279 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| b44218d3-aaf1-32e3-b7a1-76be7cd77943 | -17.3201 | -55.00555 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| eced8e9a-ac07-3ad7-89dd-04ccb016c43e | -17.31998 | -55.00613 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
+| e880ed10-383b-3b37-8152-623802684f79 | -17.31942 | -55.0089 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| 150b7d76-838c-3cd6-aea0-643bb5b37587 | -17.31928 | -55.00947 | 2024-10-09 04:19:00 | NOAA-21 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 5.7 |
+| f4cb8f94-dcbc-3fa2-a34b-a6e5ed59cf0e | -16.43111 | -55.93276 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| fe2ceecc-120f-346b-b978-43f987146834 | -16.42779 | -55.94863 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 8dbb112a-0042-34c9-9c2f-16fddcbca53d | -16.42695 | -55.95261 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| e068b067-0713-32c0-8928-31745f941a92 | -16.42612 | -55.9566 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| a4b9e2e6-1053-32a9-8d9f-e62e0bb69ea5 | -16.42551 | -55.93149 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| dddd9a22-9a2c-3db1-8cfb-ecf8e4f64d6e | -16.42468 | -55.93544 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 894277ea-762d-3f4b-a6fe-42b5bada7815 | -16.42385 | -55.9394 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 8567d336-78a1-3f28-bec0-04c38065c318 | -16.42302 | -55.94337 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| fcad5955-170c-33a8-bab9-7324cd6ec962 | -16.42134 | -55.95134 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 5b4aed90-1935-3988-8037-29f8d78d7633 | -16.41991 | -55.93022 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 5c4d36a3-0ccd-317c-91a9-1ab92f99aeaa | -16.41908 | -55.93417 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 0e8e4e54-2f0e-364d-9ebb-eeab78bacac8 | -16.41824 | -55.93814 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 9ab56755-e48d-34da-8efa-1e5821f13e30 | -16.4174 | -55.94212 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| 23f2456f-c4a2-3c65-a54c-b6555068d73b | -16.41347 | -55.93292 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 9f02bdd5-f23f-3f2d-bc4b-ff45b78cc181 | -16.41263 | -55.9369 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| eff9958c-8597-36f5-85ba-b1d24b94782a | -16.41179 | -55.94089 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| 0ad3ad94-274c-35cd-886a-80910b701fbd | -16.41095 | -55.9449 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| 508da569-50f2-363b-a876-2fdcda365ea8 | -16.166 | -55.93552 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 50795b8e-2329-34c3-922e-63f876e52397 | -16.16329 | -55.93583 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| ec772777-206b-35fe-95c8-ec297b128f23 | -17.16036 | -56.11236 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.3 |
+| cf615c97-58b8-301f-bf7c-ce58df70a2b2 | -17.15952 | -56.11631 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.6 |
+| 8f30ac4e-6e88-3c75-91bd-dcb0778de948 | -17.15869 | -56.12025 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.6 |
+| d2dc2112-9dc6-326e-9f44-0125dc0c4750 | -17.15785 | -56.12422 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.7 |
+| 62451def-9a5d-319e-9a61-cdae8b1266b8 | -17.15701 | -56.12819 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.7 |
+| 19e2b73d-d13f-307d-be88-43b954480320 | -17.15618 | -56.13216 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 1dd57774-0baa-38e0-9c54-f1f893d7e08c | -17.15393 | -56.11507 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 8140e9b0-57fc-3983-b238-39edd8ded906 | -17.1531 | -56.11899 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 589234ef-81e5-38a4-a723-9514bec84c99 | -17.15226 | -56.12294 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| f0deceee-96b0-3ad2-9d37-b011bc129831 | -17.15142 | -56.12692 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| e05f07c5-7718-3f75-9f2b-13f60ec4d716 | -17.15057 | -56.13091 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| e734ef07-5c14-30b8-b929-d7368ba43c89 | -17.05866 | -56.02396 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 15.9 |
+| 18bff475-23a1-3001-a3f8-d3437367a390 | -17.05784 | -56.02788 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 23.8 |
+| 0dc69350-9bd8-3d3e-af7b-8e02981e2009 | -17.05226 | -56.02662 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| af2977e3-6480-3e54-9e0e-da3dc3ca0281 | -16.92162 | -55.80565 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 0d3b7192-fb51-38e1-904c-22d38017779a | -16.92083 | -55.80947 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 4f8ed861-70a2-3c6b-9cc0-37e383d650ab | -16.9169 | -55.80059 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 14.8 |
+| a63c80bf-2cf5-39cf-b012-fdcf73abce31 | -16.91611 | -55.80439 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 14.8 |
+| 6a398595-db7f-3961-9cd4-2ec57dd3ea33 | -16.91532 | -55.80821 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 0da29030-b278-3c0b-a1d0-aa76783c09bc | -16.91452 | -55.81205 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 28e02fbc-43e8-3926-8de2-633a2c0c99df | -16.91372 | -55.81589 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
+| 5790bb3c-ce00-3083-866d-2860d8b0bf1a | -16.91292 | -55.81974 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
+| 5e74378c-9380-3442-80b0-865c88e561ff | -16.9114 | -55.79933 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 14.8 |
+| 3ec3ae32-1792-31dd-8554-23510dd68cad | -16.91061 | -55.80313 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 14.8 |
+| 2b1f7105-4673-38ee-af45-535424b39ac7 | -16.90981 | -55.80696 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 24263e9a-e8f1-37f8-a988-536b9417e601 | -16.909 | -55.81082 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| 8a4b52cb-973c-394f-919b-4e6ba64590a1 | -16.9082 | -55.81467 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
+| 71fb0760-a02d-394a-bd3e-af92739e5e92 | -16.90589 | -55.79808 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 13.9 |
+| eaf6e1b9-e9ff-3a99-b857-c3528da68e4a | -16.9051 | -55.80188 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 13.9 |
+| de5676bb-fcb9-303d-a100-a1fd16d7d294 | -16.90429 | -55.80573 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| 7871301c-564d-3891-b5a2-8dd88f1917db | -16.90349 | -55.80959 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| f94700e5-5403-33d2-9ab0-24c5313cc963 | -16.90268 | -55.81345 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 294c6e0a-cce6-3160-bc1d-f0eea044c764 | -16.89958 | -55.80067 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 13.9 |
+| 46f25bc7-0d8e-3e4f-8769-862db515cbf1 | -16.89878 | -55.8045 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| bcfe305b-d671-3c97-9ad4-13708f7abe38 | -16.89797 | -55.80836 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| 05e14f16-a3b0-386c-9a0f-7ebf8d1a31f8 | -16.89717 | -55.81221 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| af2d2087-19bb-3e87-9797-0fd8f646ec4e | -16.89636 | -55.81605 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 4cf79e17-807f-338d-8b11-8a1491ff2333 | -16.89618 | -55.87231 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 81ed3f72-cbe5-3e27-8915-389d55329fe6 | -16.89556 | -55.81988 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 2fc16a2e-f701-37f4-8264-3d70e6aa316c | -16.89538 | -55.87618 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 1d26ed0f-7ea7-30ba-b160-cf5158378336 | -16.89406 | -55.79947 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 1aef9d21-af7c-3553-b20e-092f2eea09f2 | -16.89326 | -55.80329 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 5b8e32a0-05e7-3c0e-9297-58dd2b704395 | -16.89246 | -55.80713 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 763344bd-06c6-34cd-b667-f924f0344573 | -16.89165 | -55.81097 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 38615532-daf6-3dfd-bca7-4ff6319badbb | -16.89085 | -55.8148 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 27a28263-52ef-37ae-b0f7-c37ecd377924 | -16.88854 | -55.79828 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 1d4eddbc-3c81-3b9a-ae0d-527ac8f72a77 | -16.88774 | -55.8021 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 7c47fc4e-b42b-342f-8eb6-a1e840635d84 | -16.88694 | -55.80592 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| cb357e42-7e8c-3569-ac82-d917bb178bb8 | -16.88613 | -55.80974 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 91507e32-81ac-3f3f-ba39-d201e68998ef | -16.88533 | -55.81357 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 06b5597f-80e8-3e9a-811c-15184c523f5c | -16.88453 | -55.8174 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 46011e04-36f6-39f0-b852-1d507ccfb0b2 | -16.88222 | -55.80087 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| f99b1acf-42b4-3210-8227-a909b1b660c2 | -16.88142 | -55.80469 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| a8c95927-0b51-330b-bab4-4e5843cdd131 | -16.7054 | -55.95684 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 1be39205-b3b3-3854-9066-2bd938f34b4f | -16.70485 | -55.93204 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| a2762552-0b44-3c47-affc-4407e648f9ec | -16.70457 | -55.96076 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| e0f1ace9-c55e-3c49-9852-a647ea7abe2b | -16.70185 | -55.92967 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| a2407a79-1733-3d45-817a-affad8634576 | -16.70104 | -55.93359 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 1cc6ac83-bfe3-3349-bab9-dff5cd453e4a | -16.7001 | -55.9269 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 8b8c3fa4-3694-3ebc-be47-76719d9c054a | -16.69927 | -55.93081 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 25421214-5e44-364d-bb99-f929988836af | -16.91297 | -55.79177 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 27.0 |
+| 27f4638a-19fa-3f06-a9ad-d1993a9679dd | -16.91219 | -55.79555 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 27.0 |
+| f79e70dc-3fb6-32e0-b588-ac2bc767db71 | -16.90905 | -55.78295 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 5a88b4b7-457b-311b-8f2c-82d0be59a1b8 | -16.90825 | -55.78674 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| e94b8881-c97e-3317-9f24-1fb149b1f38b | -16.90746 | -55.79052 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 16.2 |
+| 9f39c3e6-59eb-3561-ba5c-ea45b17dfe2d | -16.90668 | -55.7943 | 2024-10-09 04:19:00 | NOAA-21 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 16.2 |
 
 
 [Clique aqui para ver as próximas entradas](README104.md)

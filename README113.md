@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c1604edd-d80c-3d75-be4b-ff4439486c96 | -12.55671 | -53.06713 | 2024-10-08 05:23:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 574505ec-ecd2-3205-9d13-3391a152a33f | -12.55193 | -53.06316 | 2024-10-08 05:23:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ac8c9321-6201-3802-8969-a913cd28adaf | -12.55153 | -53.06642 | 2024-10-08 05:23:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 0e064258-6e00-333e-b452-8811409373e4 | -16.49213 | -53.97049 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 466cc1c7-31bf-3e56-a2da-ee347ed6b1bc | -16.49178 | -53.97356 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 43d50455-93f9-3f97-bfba-57bc19e2ddd2 | -16.47663 | -53.96911 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 01460185-7e3f-39e7-878c-5a9f7164e6c8 | -16.47628 | -53.97221 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d6d5a3d4-66bf-33c7-861f-593b8dfcd732 | -16.46735 | -53.91189 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 7e090116-cf38-39da-a4d3-c22639f1d190 | -16.46563 | -53.90992 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 47c2420a-3da6-39e9-8150-bd54941c06d1 | -16.46524 | -53.91317 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| a2675334-d190-303e-b212-240babb1a3b4 | -16.46455 | -53.91899 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 8b832074-79d7-3727-960c-c00b5fba5102 | -16.45906 | -53.92117 | 2024-10-08 05:23:00 | NOAA-20 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| b2b50694-4e1c-31a6-836f-bb4dcc18d0ef | -17.77198 | -53.80327 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 7f189251-37b6-3cbe-b10a-0745aab3d82f | -17.77164 | -53.80645 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| f83bf205-365a-3290-8819-d482ba5f137f | -17.76666 | -53.80289 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 2aaddfb2-d85b-39b9-9c00-879c9b3e7e69 | -17.76634 | -53.80592 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| edaba84b-83ce-31af-9e83-6191f3b810ed | -17.76599 | -53.80913 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 61ea9195-2d6e-3993-9873-77ac9905b46a | -17.76564 | -53.81239 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 0b23a0a3-56b6-3ada-98fd-17d9218ec9f1 | -17.76035 | -53.81184 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 2a7064d3-eab6-3c25-9c37-f5e210746c7b | -17.75999 | -53.81513 | 2024-10-08 05:23:00 | NOAA-20 | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| e67dbbc6-5d04-3712-bfdd-7e4c4eb8106c | -17.16004 | -53.94847 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d6604a1c-20bf-3564-be18-07ce00983e29 | -17.15967 | -53.95168 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 4057afe3-40cb-3ec8-8970-752b13d7fca6 | -17.15557 | -53.94129 | 2024-10-08 05:23:00 | NOAA-20 | ALTO GARÇAS | MATO GROSSO | Brasil | 5100409 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ca5f8ea8-4325-3ff0-bcab-725f77bcd43b | -17.15521 | -53.94454 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 5f5c39aa-ac5b-367c-9901-9f641b37a837 | -17.15484 | -53.94782 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| cb73c024-c338-34d2-84f6-e1d9bd2490e1 | -18.08724 | -54.31936 | 2024-10-08 05:23:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 38e6b340-5bc1-3032-a0ef-a2e844bf16c5 | -18.08342 | -54.30697 | 2024-10-08 05:23:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 03442f4b-dc43-37cf-81f5-f451e6378efe | -18.08309 | -54.30997 | 2024-10-08 05:23:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| f7a3330b-a3cb-3903-8063-ef8f63b13a71 | -18.08208 | -54.31896 | 2024-10-08 05:23:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| abe589d4-ddd4-3f50-9eee-c0c01a7a08b9 | -17.33737 | -55.01414 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| d4f0405d-ed39-3e68-bdff-5fc5e94fb2da | -17.33673 | -55.01969 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| aaca8782-25a7-3cab-9c72-5a748682df17 | -17.33609 | -55.02521 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 2515eaf8-127e-3b33-96c5-4187aa4bad42 | -17.32932 | -55.04112 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 0625f7ba-c612-31f6-860d-db9caba09df4 | -17.32831 | -55.00732 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| b7e5a937-0bfc-3ad6-b36d-42049783f12c | -17.32767 | -55.01286 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| d9c8e5c2-e7b4-3bdf-8d99-38162d0836c3 | -17.32345 | -55.00671 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 461fc24d-cfd9-3773-b3c3-4f0cc0a901e7 | -17.32281 | -55.01224 | 2024-10-08 05:23:00 | NOAA-20 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 77d6e37f-099d-397b-90fb-fee467a6524a | -18.90034 | -54.57719 | 2024-10-08 05:23:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 3e8a9b54-81fe-3a1f-930e-e3f998ef0e84 | -18.90001 | -54.58022 | 2024-10-08 05:23:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 4f5a1fa1-d574-3231-831f-681166bd316c | -18.88409 | -54.58399 | 2024-10-08 05:23:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| b82e90bf-d3ef-328b-ae67-4360d8cca3de | -18.87903 | -54.58302 | 2024-10-08 05:23:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 09ffaf92-7113-34b1-ad2f-d41d445e3221 | -18.87434 | -54.57862 | 2024-10-08 05:23:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 8d27a81d-499d-3d90-9358-416539ee44ba | -18.20966 | -54.45509 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 0a880b29-a5ee-3d9d-85d8-6c02674a8517 | -18.2093 | -54.45824 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 4afa7f47-d92f-322a-a229-9f474e2d1411 | -18.20786 | -54.45213 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| d5757582-aafe-3fa9-8321-911df6c599b6 | -18.20752 | -54.4553 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2eec36cc-51fb-3266-864f-865a8a62a18a | -18.20494 | -54.4512 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 68f27574-89b2-3e2f-80d4-9421c071a18c | -18.20458 | -54.45435 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 66bd88d4-154c-3140-80cb-adb694bf2ef3 | -18.20422 | -54.45749 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 17e593ee-ef25-3392-9d5a-65a641f79a99 | -18.20276 | -54.45143 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 07178bc5-7b5d-3cbf-b3c1-16a850deb9cc | -18.20243 | -54.45457 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| e3a5bd4b-e4ae-31b7-ab32-3c50919debe3 | -18.19948 | -54.45369 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 13aaeada-3181-3eac-be3d-2e53d3696edb | -18.19913 | -54.45679 | 2024-10-08 05:23:00 | NOAA-20 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| d7ac30bc-a8bc-3ad7-be92-33df9b97a2f4 | -18.72477 | -57.27634 | 2024-10-08 05:23:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| af4bc1c4-5560-31d2-a018-270702859519 | -18.72371 | -57.28464 | 2024-10-08 05:23:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 234c1fe5-7bef-32ae-857b-612e541f898f | -12.66434 | -54.71339 | 2024-10-08 05:23:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f796781b-4c4f-3387-aa3f-1a39d698c412 | -12.66371 | -54.71825 | 2024-10-08 05:23:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ad68a4bf-f8b8-3355-916f-e688aca864a5 | -12.65907 | -54.71758 | 2024-10-08 05:23:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 2863408a-e373-3ae1-ab68-b2d76ab5623b | -12.65697 | -54.6972 | 2024-10-08 05:23:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 10aa22a1-8e1a-3309-bced-9bbe5cd57711 | -12.65444 | -54.7169 | 2024-10-08 05:23:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| ebb4032a-8dba-3aa3-b051-ccbaa4105bb3 | -16.60279 | -55.90391 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 58dd4e2b-be69-3db8-9134-beb3f6823392 | -16.59432 | -55.89799 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 4b7e43e6-bcea-3ecd-963b-8603694f83c7 | -16.58979 | -55.89738 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 48742553-70b4-3478-8bd7-d07cfdb8fe33 | -16.58526 | -55.89678 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
-| d55f8a95-bc81-327a-93f8-7011b1fc1ac7 | -16.58016 | -55.90091 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| fd140f9b-1a64-35f1-977e-f51db25afa64 | -16.566 | -55.90382 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 32829db1-9e3c-3ea5-a64e-4b05dece7126 | -16.56543 | -55.90853 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 1dc5f378-cc42-3937-9244-9e4aec012169 | -16.55639 | -55.90732 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 1d64c4ba-6789-3e12-88c4-df554d055e7a | -16.55073 | -55.91613 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 2b06908a-c311-3a78-ab06-74107371fa6a | -16.52916 | -55.93017 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 515df92a-c62c-37b4-86c5-a3afd3db3a52 | -16.60337 | -55.89919 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.9 |
-| df1e22c1-5694-33f5-a279-093f300d30fa | -16.59826 | -55.90331 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 0c1ed574-1abf-3d32-88b4-6f8c93355b7f | -16.5949 | -55.89327 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 66bd47ec-f096-3525-9016-728b5ec0b011 | -16.58921 | -55.9021 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 31b6ff4d-217a-38b7-adfc-8ea88b8ede92 | -16.58468 | -55.9015 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| 4aa6d750-6fcb-3879-bb28-99beb6cb1dfd | -16.56091 | -55.90792 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 53f6d541-3362-370a-a1cf-910fb91d48c3 | -16.55582 | -55.91203 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| f66a02bf-cf66-3c6f-93f0-bcf084369c12 | -16.54901 | -55.91851 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 85886672-888d-3a0b-9510-808385ac4bae | -16.54564 | -55.92022 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| 11421f01-d5b8-3fc8-9df9-fa011bf9da90 | -16.52464 | -55.92957 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 41935087-d266-3750-8785-918a67096fe1 | -16.42593 | -55.94965 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 8.0 |
-| 8a0aed05-113d-3a6f-a7a6-816bd9a40c65 | -16.42537 | -55.9543 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 8.0 |
-| 4318a3f7-f58b-3cfd-ae80-96ca0a08308c | -16.42408 | -55.94781 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 19.7 |
-| b401964e-4f4d-3f90-a977-be02816dfe5a | -16.42349 | -55.95245 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| 8a8cee95-abc1-317a-beba-1fdd1e6b1bc0 | -16.4229 | -55.95708 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| fdf21312-9a8b-32a4-9166-04fdd012728e | -16.42199 | -55.9444 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 7.8 |
-| b886e032-bad3-3198-b50c-2e8f4c376fd0 | -16.42143 | -55.94907 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 8.0 |
-| 3b2179bc-a5be-3631-96f7-37865cc0cb49 | -16.42087 | -55.9537 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 8.0 |
-| 05bf8179-5978-3bd4-a4ae-e38865b56e58 | -16.41958 | -55.94723 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| 9e0bd4ed-dbd4-3854-9834-ac2a3e73e5e0 | -16.41899 | -55.95186 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| cba09a92-6fa6-3235-8469-6b29d7f2729a | -16.41508 | -55.94662 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| e81af19e-a322-3f42-bc6d-f46474dfdce5 | -16.41449 | -55.95124 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| c621a68a-43eb-3a32-913d-81b5f1dbc178 | -16.16127 | -55.93167 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| b23ab932-abdb-3f99-a459-143b356d0636 | -16.15677 | -55.93113 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 6fb8dc80-5512-3f7b-8d65-6c3e6355127c | -16.15622 | -55.93553 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| f3423d2e-1ac7-377b-b02f-870bd72a0e55 | -16.13272 | -55.8663 | 2024-10-08 05:23:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 11278348-6dc6-3c90-83c4-74befbfdc838 | -17.16549 | -56.13276 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 358a636f-5173-373a-b43a-ad30b1264e32 | -17.1649 | -56.13741 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 45cde759-e253-38e5-bf7b-3dd156423c26 | -17.16331 | -56.13002 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| a1a71026-ed24-33ce-85a4-5977e401089e | -17.16275 | -56.13468 | 2024-10-08 05:23:00 | NOAA-20 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| b0a81dab-3a0f-31c3-863c-4d1c55793905 | -7.73304 | -43.0409 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| dbc17ed3-6906-3352-bd64-39faaca277f2 | -7.72793 | -43.04467 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 53fb0745-cf74-3792-9dcd-6b8f261aaf3b | -7.72732 | -43.04911 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 9f9e37be-e778-3705-8220-7461a396b9ca | -7.7267 | -43.05353 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 6.7 |
+| d1d81358-121c-397c-91bc-a6a827e071f6 | -7.72345 | -43.04399 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| a7511fc1-7615-3f9a-8dd4-c68aac297ae4 | -7.72284 | -43.04842 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| c77214f4-19dc-348c-8727-42e7466ff134 | -7.72223 | -43.05285 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 6.7 |
+| 82829af0-3223-3d99-8124-fb58965b83be | -7.72081 | -43.04598 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 03c64acf-2814-3151-8fcb-bd2654c872a3 | -7.72017 | -43.05037 | 2024-10-09 04:38:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 460f3938-f2f2-38dd-9724-442206993eeb | -7.69265 | -42.98722 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 2b39f909-f7c6-38ec-81ba-9f1dd28f98ba | -7.68879 | -42.98209 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 30c8f982-eb70-3eb7-b4eb-b16b8e30a364 | -7.68815 | -42.98658 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 963da0ed-7ff8-35f0-834d-9938d5ef60c6 | -7.68752 | -42.99098 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| ed1e3930-3b46-3c71-bc30-25a6b4736dfd | -7.68429 | -42.98143 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 3d45d3fa-1204-33f0-9a92-793aa15209c4 | -7.68366 | -42.9859 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| ae7935f3-99ae-3734-802d-79cf629ebddb | -7.68303 | -42.99029 | 2024-10-09 04:38:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| fec0ff91-48c8-37b9-a00b-c70c2c4df760 | -7.66988 | -42.49926 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 13a8b8a5-231e-3ff3-8592-92ba93d553c7 | -7.6678 | -42.51373 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| e042f6e9-3447-30e5-a991-7d6a8e74954a | -7.6659 | -42.49385 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| ecb541fb-3ecf-3a03-b410-3d54d9bda2f6 | -7.66522 | -42.49867 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| e040a092-48b9-3dc7-9fea-3f40d8800e8a | -7.66313 | -42.51318 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 9b8d071e-aa82-3288-9c60-9aeb75a38eac | -7.66244 | -42.51799 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 9fc6997a-0292-3cb4-8bcc-ca19f3e54afe | -7.66193 | -42.4884 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 69239425-e897-37da-8e9d-b3f4305947a0 | -7.66176 | -42.52275 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 61cb3e3c-1b2e-3e10-9454-1cda1dd2f0e5 | -7.65848 | -42.51252 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| f558581d-2f95-35e8-940b-099a5b463987 | -7.65841 | -42.41279 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 9b4543a3-008b-3a20-b96b-8709b9d5d91e | -7.6578 | -42.51733 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| dfbfb3d9-0c2c-3fe1-96df-ff8378ab2a8b | -7.65711 | -42.52211 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 0b16b11b-90d5-35cf-bd8f-d8fb2dca76af | -7.65576 | -42.53156 | 2024-10-09 04:38:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 97ccd104-fc26-3510-9680-90ce4bd493ab | -7.65442 | -42.40723 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 0b1ca536-1c85-3af0-acd8-ad091dfc8e70 | -7.64975 | -42.4065 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| a8f35a39-82ae-33c8-a3a9-d328696a0312 | -7.6273 | -43.7015 | 2024-10-09 04:38:00 | NPP-375D | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 1c92661e-1d71-376b-a714-3a6459e74697 | -7.6243 | -43.70256 | 2024-10-09 04:38:00 | NPP-375D | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 70735d29-d68f-3427-bd58-1609b42f75de | -7.62033 | -42.41205 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 7f218bc7-66d8-3c25-aef4-321d18e8e38a | -7.61894 | -42.42202 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 20f5136b-9de4-3a8d-b8e0-1c12f98db863 | -7.61428 | -42.42123 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 007dbd7c-9462-333c-b66d-af6cb056c05d | -7.61358 | -42.42628 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 5cdbfe2d-fa69-3296-9e7e-54d90c501be2 | -7.61289 | -42.43126 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 4f0e6589-0499-31dd-9dcf-1657b63f5d49 | -7.61221 | -42.43613 | 2024-10-09 04:38:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| d2b857f2-4688-36d6-bc64-e1f9b00c28f2 | -7.35848 | -42.19328 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| a4128f68-96ec-35bf-bedd-18712e4bf085 | -7.30433 | -42.23601 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 00bf72bf-8331-3f26-ae8a-3ee6bdc3ad64 | -7.30307 | -42.2382 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| f205ec03-4cf3-37e5-9877-23e2e3ecb2f6 | -7.23737 | -42.29464 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 26796092-0389-3864-9423-0bcc8a6f929e | -7.23669 | -42.29948 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 990caa42-0a64-3988-a774-81f380a900c5 | -7.23269 | -42.29392 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 7c754fc3-0d6d-364c-8891-60aedb2440b7 | -7.232 | -42.29882 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| ecfb275e-2216-3bdf-83e4-a539ccbdcd16 | -7.22801 | -42.2932 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 068ffad8-d02a-30cc-b0ab-79caa4d4af8e | -7.22731 | -42.29815 | 2024-10-09 04:38:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| d5bc7def-e389-3dcc-959a-3b82b9c98bb6 | -7.225 | -40.16742 | 2024-10-09 04:38:00 | NPP-375D | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 5e4ea04c-f44e-3856-b793-9f05fad94d66 | -7.1504 | -42.60991 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| aa9dcb05-67a0-3a23-86fd-35a3beaa19bf | -7.14975 | -42.61462 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 154c2ce6-9b39-389f-b228-6130c28d154f | -7.13606 | -42.64582 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 35d442b7-00da-333d-b09b-ef48160914ce | -7.13542 | -42.65043 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 64f70b00-a21c-3ceb-ad27-43c79d9558cb | -7.13539 | -42.64833 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| a9736cc1-9fe0-352b-a150-c10407c91109 | -7.1315 | -42.6451 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 4216e11a-cfb1-397b-ab39-920feb66dc70 | -7.13086 | -42.6497 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| be94f6e4-77a5-3538-85b7-99811d6a1206 | -7.13084 | -42.64761 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 74544d92-7081-3c87-959d-9449d56a3e03 | -7.12693 | -42.64439 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 18adc0ea-0e9e-3c69-84b2-d1e2f8d3f56d | -7.12629 | -42.64901 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 2632d6ff-a4d9-34e6-8086-15d64e53d807 | -7.12627 | -42.64692 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 9213fcfb-da6c-3084-9ef1-67f386761cb5 | -7.12172 | -42.64833 | 2024-10-09 04:38:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| f0a9b10d-aed1-377d-a6f3-68c780fbfbef | -7.12171 | -42.64626 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 204fe14c-2f19-3d60-a9c4-3314a34bf506 | -7.10746 | -42.61578 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 1b0b2b30-3aa0-3cd8-88dc-6aed1c431018 | -7.10474 | -42.63457 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| f56146ea-5eba-378e-9e29-b68fa534cb37 | -7.1022 | -42.6199 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 46948f0f-0f59-3108-9aa5-482d005816da | -7.10018 | -42.63389 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| e649a66f-0d5b-3c1a-8677-2975145edc10 | -7.09763 | -42.61917 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 52485101-a0d1-3f1c-b045-795ae6ac5ed1 | -7.09695 | -42.62388 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 368f4dbe-713d-376a-8bb5-37731e86c178 | -7.09628 | -42.62857 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| cd7474bd-1f52-3559-9edc-f8398f76ae7b | -6.83623 | -42.81549 | 2024-10-09 04:38:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 1d00c88e-7d95-3ea3-aaa6-fa2534a680f5 | -6.83558 | -42.82005 | 2024-10-09 04:38:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 4d18703c-10ad-32cc-a29e-526231030d30 | -6.83368 | -42.80132 | 2024-10-09 04:38:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| c4ee25ba-8507-3a0a-adbb-f38bfe066fb6 | -6.67061 | -42.09814 | 2024-10-09 04:38:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 982f8e51-e270-3f3c-b140-c6332313833e | -6.65236 | -42.13248 | 2024-10-09 04:38:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 303f2304-5d97-30a6-8e9c-fb8c6e8a5aaa | -6.65137 | -42.1311 | 2024-10-09 04:38:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 917b8ff8-1725-3a94-bf9b-ccdf53a1fbd7 | -6.65067 | -42.13592 | 2024-10-09 04:38:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 73c14d65-43b1-30fc-aeae-081d29c08724 | -6.64595 | -42.13541 | 2024-10-09 04:38:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| a78bc587-865a-3162-a19e-18de3805384d | -6.48209 | -41.95544 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 85392d46-6f2b-3d2c-97c7-bb7484eebdc8 | -6.48199 | -41.95694 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| b809ae4a-aa84-3219-858d-513c5189b8d5 | -6.48137 | -41.96036 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 35902cc4-0a0a-3221-9cec-a023313644b4 | -6.47738 | -41.95454 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| e361241a-6f76-360f-9e2f-84000fc67332 | -6.47727 | -41.95603 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| 3b828211-3650-32c6-813b-c7b9fa677838 | -6.47667 | -41.95936 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 07bf82ee-d354-34d0-a073-5f63535098af | -6.4766 | -41.96084 | 2024-10-09 04:38:00 | NPP-375D | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| f90be9a3-73a0-3161-a272-d0213e740179 | -6.41789 | -42.41504 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 4e30ed0f-f626-3047-b0c6-8bb0098ceeb0 | -6.41385 | -42.41751 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 5.3 |
+| 5630138a-1beb-39a2-b220-c0dffd9f7acc | -6.41326 | -42.41466 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| f856b022-7e19-3b0f-b00a-97b73a88e375 | -6.29805 | -41.84674 | 2024-10-09 04:38:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 2544960d-63bf-3eaa-97fa-7f5306165fa8 | -6.29328 | -41.84608 | 2024-10-09 04:38:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 57fb77b8-e40d-3387-86bf-b82b37cf2c03 | -6.25473 | -42.51407 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 66713c29-1b72-3b08-bb51-8dbd9f1da725 | -6.18606 | -42.60521 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| eb2f4872-09eb-3134-9a96-956515b10472 | -6.18542 | -42.60967 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 1ef164a0-577d-33c6-b259-d93aacbfff13 | -6.18221 | -42.59983 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 9ec2885e-6eec-35c7-bb43-226cc5b67413 | -6.18156 | -42.60442 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 738adec4-d8f7-323f-af90-f7b8b996adfe | -6.18092 | -42.60888 | 2024-10-09 04:38:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 698801c3-bd6b-352a-adae-219a12280502 | -6.17161 | -43.14209 | 2024-10-09 04:38:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 7da83811-dac1-3241-b2de-50de68120fb2 | -11.23964 | -41.59451 | 2024-10-09 04:38:00 | NPP-375D | JOÃO DOURADO | BAHIA | Brasil | 2918357 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| ff82c625-28b6-317c-93ad-f21e0035b12f | -9.26158 | -43.52516 | 2024-10-09 04:38:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 3865785b-915b-303d-8443-8c9d996006c8 | -9.26016 | -43.52256 | 2024-10-09 04:38:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 7dfb87f8-976b-39f2-ab99-453de088901f | -9.25957 | -43.52688 | 2024-10-09 04:38:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
 
 
 [Clique aqui para ver as próximas entradas](README114.md)

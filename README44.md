@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a0fa76ed-a158-391d-a68f-cde2d1f48f03 | -20.38631 | -48.82476 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 44ded02f-fbea-3917-9653-bba99ba25340 | -20.38586 | -48.80009 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 393d1380-bb3e-3ce0-b4f3-2d84b46e1639 | -20.3856 | -48.82472 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 21.9 |
-| cf65521a-edee-3418-bf91-c6405720f74a | -20.38547 | -48.82862 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 8732d89c-d5a0-31c6-84b3-9df61b015a46 | -20.3853 | -48.80018 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 15932b67-10dc-3975-a30c-ea9f3625520b | -20.38502 | -48.80399 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 5428b207-7601-37b0-846a-73ab43c0db75 | -20.38474 | -48.82858 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| 630417ad-d2ec-3427-b64e-1c2a582d42bb | -20.38464 | -48.83249 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 7ba8f4e8-4d75-3152-9148-a7e1f56f1b57 | -20.38444 | -48.80406 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| b1104f69-fe05-3dfe-99f9-129c44e9f295 | -20.38418 | -48.80786 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f0c5ba59-9ce6-3e51-b488-695a916248cb | -20.38388 | -48.83243 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 24.7 |
-| f4d1e64a-7ce8-345c-95c3-f1a661ea4e96 | -20.3838 | -48.83635 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 62f28fa5-bac0-34e5-9c4c-52b5d0a420e4 | -20.38358 | -48.8079 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 3601206b-608e-3ca6-98d2-6c6cf9357099 | -20.38335 | -48.81171 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 662a996c-a8a6-33d6-837a-b7eaa4947c96 | -20.38302 | -48.83629 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.5 |
-| 32cc02bc-2291-3a77-8b4e-f8291a6bd765 | -20.38297 | -48.8402 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 2965a32a-e3da-3531-a04a-b123c2713bb5 | -20.38272 | -48.81173 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e9e55b94-69c1-3aed-961a-729bfa7d0711 | -20.38253 | -48.81554 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 02b48b8a-8b79-3a67-ae92-6322791acda1 | -20.38216 | -48.84012 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 33.5 |
-| b6554cee-57db-38e3-9cf4-5e5ac6a0bacd | -20.38187 | -48.81553 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| ecfe2a1c-82cd-3973-8d02-e02fda5d3be7 | -20.3817 | -48.81935 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 85c5429e-92af-3d0f-91df-880b271205f8 | -20.38102 | -48.81932 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| a8b3dff4-9d45-3c8c-98f6-5877c179a7d9 | -20.38086 | -48.82322 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 62507de6-2500-335f-a44d-3af7186c8945 | -20.3804 | -48.79868 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| db125a9c-7219-38e7-9fb2-5ca0ab23a7a2 | -20.38016 | -48.82318 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| e69c478b-c931-319b-940f-cabf194ea983 | -20.38001 | -48.82714 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 3334ad78-734c-36c2-9a10-8d5a704ae461 | -20.37984 | -48.79878 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 9103a2a3-2c61-3809-ac83-cebc87423dee | -20.37956 | -48.80254 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ffd3267a-c0e0-3cc2-8489-fa38628a071d | -20.37928 | -48.82711 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| da552575-c48a-30a3-b075-92be9d3d88e7 | -20.37917 | -48.83105 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| a804162b-4f81-3492-809f-1b35647428f6 | -20.37898 | -48.80263 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 698c9247-b78c-3058-af96-aa68f2bbcf84 | -20.37873 | -48.80638 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| cfc38544-9f52-33f7-a4bc-c50c3076fea3 | -20.37841 | -48.831 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| a80b0a78-703a-39d6-b50b-2f60c8019d53 | -20.37834 | -48.8349 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 96e851bf-b6a3-3ae7-96ba-184f5886a6bc | -20.37791 | -48.81018 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 3ca929ce-4534-313b-8cfa-3b5ba142e3ab | -20.37756 | -48.83483 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| ab2953ae-5b5f-3125-bd9b-4953962adee0 | -20.37751 | -48.8387 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| b91105d2-714b-33ae-8038-5bb4b7bfd4b0 | -20.37728 | -48.81021 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| d6bf6b1e-171e-39ec-9aec-2d9d247c3b4c | -20.37709 | -48.81397 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b5f78dd6-c952-3278-8464-899896c42a3b | -20.37671 | -48.83863 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| e20f2655-c22b-317f-897e-ec769db93985 | -20.37644 | -48.81398 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 774e8cc9-870c-347e-b0a9-922fc82c8128 | -20.37626 | -48.81778 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 4677fbb5-7379-33f2-aab4-b589c91eaa44 | -20.37559 | -48.81778 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 5b829b71-212f-3e35-a442-d2de0bfb7a6f | -20.37543 | -48.82164 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| a9556538-7f5d-382c-8cd0-7a2aca50c8ad | -20.37497 | -48.79712 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| efb80972-2724-315e-9aae-8ecadb4b55cf | -20.37472 | -48.82163 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| fe210215-8549-3563-9825-e5e69e7941ef | -20.37457 | -48.82559 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 792d5729-7856-338d-bc72-e934578f5c68 | -20.37413 | -48.80101 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 50892903-185a-3250-b3aa-6681d05eee05 | -20.37384 | -48.82556 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 60e05dfb-5862-3a1e-b4ae-0e87d815c13c | -20.37372 | -48.82951 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 27f0fa40-92de-36b4-904a-10cb5db1ac19 | -20.37289 | -48.83334 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 45.3 |
-| a979fa68-c5a0-311e-ab01-46dfeb0250f8 | -20.37127 | -48.83707 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| 52f57dc3-92ff-390b-9e6e-45f6fde5b222 | -20.37082 | -48.81623 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 9c93bc7a-8b46-3cb6-8b69-78d42ea6eede | -20.37041 | -48.84085 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 148.5 |
-| 06edb2b1-740a-395b-9f26-ca5b86ff7fb9 | -20.36827 | -48.82797 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 6babd55c-976b-3ab4-a351-40b5b90807d3 | -20.36451 | -48.81871 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 9d8a9762-d809-3ce2-9ed4-3cd764b1b8bb | -20.36326 | -48.7979 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 119a8687-5d66-3f34-9a08-6a959d515a71 | -20.36282 | -48.82645 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 11754e64-dce1-3cca-8209-d76c0e94cfcb | -20.36074 | -48.80946 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 3e53a709-37e9-3e1e-902a-5abb190106dc | -20.36032 | -48.83798 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 174.5 |
-| dcc6b55f-766e-3405-af5a-cec26fce6b6a | -20.35738 | -48.82491 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 775c351e-1c9b-3e21-9c19-d0e41d1b5ff6 | -20.35402 | -48.84032 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 174.5 |
-| 67feacd6-77cd-31b1-9abb-bb7071b0668f | -20.35108 | -48.82727 | 2024-10-08 03:45:00 | NOAA-20 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| dad086ad-90b3-361c-b903-b7c2234909ab | -20.42079 | -48.7963 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 7e4e9533-d6ea-3c1b-b1b6-f6d1fded8b3d | -20.41733 | -48.81199 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 964a694a-3f3f-3a5a-ab61-7447a5b4dd92 | -20.41647 | -48.81586 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 5dbb5188-3f86-32d8-b610-d436fedb127c | -20.41617 | -48.79113 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 24e0bcf5-46e3-3b12-91da-897e3f87edec | -20.4156 | -48.81976 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| d454e664-e4f1-3234-9ba0-79a5f96cf447 | -20.4153 | -48.79505 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| f546c8df-671a-3406-bffd-ea3b177b70c4 | -20.41474 | -48.82364 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 79422a7b-f9f1-3a26-8736-9f3f3d9b10fb | -20.41186 | -48.81061 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 41c94fa8-59d7-38a4-beb8-58cd24b3c404 | -20.41099 | -48.81452 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 90bc6219-f787-3459-9bf1-d8f24441dddf | -20.41013 | -48.81841 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| d956e8ee-0a1a-39d5-88a9-48cf8b8428d8 | -20.40927 | -48.82229 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| ef24381d-ff95-3cb0-881e-2b24d7df9c87 | -20.4084 | -48.82619 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| a204bfb8-534d-3922-a130-ea69c68f1f5f | -20.40754 | -48.83007 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 1e676907-4fc7-3cdb-ac4c-0f3a60f56b54 | -20.40637 | -48.80932 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 67e88773-12d5-351d-82c5-0139ea9065ab | -20.4055 | -48.8132 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| e592204c-82e9-3177-832e-cd6ec23f9c56 | -20.40466 | -48.81702 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| c9e31ac3-0488-38e3-b713-824590099557 | -20.40381 | -48.82085 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 50f23689-a127-3736-9a19-94f81ca589d8 | -20.40294 | -48.82474 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| 5c21adb6-5b54-3ca4-80b1-e987af325027 | -20.40231 | -48.80404 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 5d117276-fe75-3455-9067-921daf8cc152 | -20.40207 | -48.82864 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| ae733437-7e8e-3ed7-bc4a-c28e8cead849 | -20.40147 | -48.80797 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| c684998f-d884-325d-84cb-9284ccf449ee | -20.40089 | -48.808 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| dbce70b7-e760-3c7d-9be1-bca5f5fa8453 | -20.40062 | -48.8119 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| c566d40f-470b-3a06-a6e8-38f4fc61933d | -20.40002 | -48.81191 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| c5f1b868-5e77-3b39-8f4a-aea6980a5adc | -20.39979 | -48.81575 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| 2a59900e-04a7-32c5-ba4c-4318b0f97e86 | -20.39936 | -48.79097 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 9574e41d-12dd-3c75-b7ba-054d1b925e0e | -20.39916 | -48.81575 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 5407b349-9a8f-38c3-af44-9785774ba4b4 | -20.39897 | -48.81956 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| 36252e37-9bb0-3e5b-a65c-50a3779170f1 | -20.39888 | -48.79106 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| ceb7c98c-6bc3-3ca5-afcc-fe8b0b2cee22 | -20.39852 | -48.79489 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 6ca731f6-f985-3268-94c0-39005e83c80a | -20.39832 | -48.81955 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| b38c63ef-8cc3-3b37-b4ec-34c08afffae0 | -20.39815 | -48.82339 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 24.9 |
-| 4e4c2ff9-5917-3012-b41d-4044992aae94 | -20.39801 | -48.79497 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0465aa06-2581-3871-a42c-c7867916d249 | -20.39768 | -48.79878 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| f8ed8506-fe74-3009-8d1f-69c4eb6dfcc2 | -20.39747 | -48.82335 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| 342e8075-d07d-3378-8eed-b19951755baf | -20.39733 | -48.82722 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 24.9 |
-| a3281a6d-9ca1-3506-b400-dadfd16a1383 | -20.39715 | -48.79885 | 2024-10-08 03:45:00 | NOAA-20 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4d29033e-111e-3dd2-a713-c69b7a5e8fa2 | -10.9272 | -63.851601 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5d00a1d3-d42d-3b49-9d13-289ef52edcc9 | -10.929 | -63.8601 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 40b985f3-f9ae-31af-8d6f-18a35827c925 | -10.9156 | -63.8452 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| b251c288-34e5-3729-ab2a-9a2440452a1a | -10.9174 | -63.853699 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| d6ceb7b4-e5a0-32c6-a333-a45948cd3ab3 | -10.9192 | -63.862202 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 6e083e02-7312-378e-870c-a49368ce4c10 | -10.913 | -63.881199 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| efa9322c-d722-3e97-bf3a-afd99d959f9f | -10.9032 | -63.883301 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5e4cfc03-62e5-32e5-a16b-d6fa69d9da31 | -10.905 | -63.8918 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 797820a6-3e97-3000-ac18-12ee222e6a67 | -20.2915 | -43.9444 | 2024-10-09 01:26:58 | GOES-16 | ITABIRITO | MINAS GERAIS | Brasil | 3131901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 126.6 |
+| 71d706ef-fb61-3eec-afdd-eb68c99a9909 | -10.8641 | -63.8918 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 340d4973-6650-36f5-8ae4-d94f7295296e | -10.8659 | -63.9002 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 7c1fc5fe-5b0f-36d0-b3bc-dd4501747ba3 | -10.8677 | -63.908699 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 9ea53492-c9b3-3c93-8a51-ed836f8805f4 | -10.8695 | -63.917301 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 1fb67e3b-d52d-3b1c-b0be-37f79f87fcbc | -10.9134 | -64.1241 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 8e36f09d-ea43-38b9-84ce-4f210a89fd42 | -10.9152 | -64.132797 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 0926dd0b-0968-341c-9c7c-5ffa863a3d8b | -10.9171 | -64.141602 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| dc0ef917-26a8-3f00-9549-e4da629fb7d2 | -10.9036 | -64.126198 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 515f8870-889e-30ac-b334-3d37f21187ef | -10.9054 | -64.134903 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 100a9edb-cc23-3f3a-8dae-4a9c4d79a4c6 | -10.9091 | -64.152397 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5ef6ce87-7ea4-3df5-958b-32ce5ef77769 | -10.8956 | -64.137001 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| b5fc34e3-fed4-3f7d-acee-346c3136cb7a | -10.8975 | -64.145798 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 1a607b06-e4a0-3866-9e14-8b00fb034abd | -10.8952 | -63.893902 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 929a5895-42cc-3f6d-9f11-b9035ef496d5 | -10.897 | -63.902401 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| de4ec59b-d4e4-3a03-aedf-91853a102ed2 | -10.8854 | -63.896 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 557befa1-fc88-3948-957c-f732e82dbad6 | -10.8872 | -63.904499 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 71d4a9c2-e4d4-3d7a-aa74-c7b3cca1af63 | -10.889 | -63.913101 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| e44edef8-7e86-302e-9f08-37e12b919e63 | -10.8721 | -63.881199 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| ad8069ea-f021-37aa-b5a0-928f06b585ac | -10.8739 | -63.889702 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5a1d8a10-6483-3dae-a3ed-fdf15d1c4ca4 | -10.8757 | -63.898102 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 6ae827e1-8669-30d5-ad4c-7b12946555cf | -10.8775 | -63.906601 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 0f042d0e-706c-399e-b311-4f3b68548413 | -10.8793 | -63.915199 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| b386f6f1-e053-36c8-a45d-e2a6c5ae0a82 | -10.8586 | -63.866299 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| c4c17733-608e-3de3-9193-82200538bf94 | -10.8604 | -63.874802 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 9fc456ad-cedb-3c40-b67e-e95285e4a125 | -10.8623 | -63.883301 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| c255072c-11be-3be8-838a-3b17981a0a82 | -20.3346 | -48.7307 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 180.7 |
+| 678df3e8-b1e3-35e6-9433-33d40996b401 | -20.3352 | -48.7076 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 198.8 |
+| 3bacdfb5-fc7c-331d-9385-631e29ba3485 | -20.3551 | -48.7262 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 325.0 |
+| 0c6ad5e4-c322-32e8-9ff0-22f6f6c72ed7 | -20.3557 | -48.7031 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 260.8 |
+| da6dd8f1-cd50-35d7-87a8-bef900c460da | -20.3755 | -48.7217 | 2024-10-09 01:26:59 | GOES-16 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 147.1 |
+| e7ecf344-838d-3c4e-ab3f-4861de9d071f | -20.3761 | -48.6986 | 2024-10-09 01:26:59 | GOES-16 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 111.9 |
+| d3149e79-f030-3967-adaf-6640a29a3fca | -10.1779 | -60.8848 | 2024-10-09 01:26:59 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ebc7098d-98e5-3775-923b-d1cb459e58c5 | -10.1795 | -60.891701 | 2024-10-09 01:26:59 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5daf4ff4-0116-3cf9-9e50-23ed1cd559a9 | -10.8877 | -64.147903 | 2024-10-09 01:26:59 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 7d3ac723-aa0d-3b5a-a791-26df8fe2dbea | -10.8387 | -64.158302 | 2024-10-09 01:26:59 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| e0152db5-10a3-3eaa-9349-02cd8276894b | -10.8405 | -64.167099 | 2024-10-09 01:26:59 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 33127506-8735-32be-a112-5f782f2e7abd | -10.8363 | -64.195503 | 2024-10-09 01:27:00 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| e2ce455f-a057-3879-aa83-d25c6e4084e9 | -10.8382 | -64.2043 | 2024-10-09 01:27:00 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| ffae8eb2-fac2-3021-be90-e3d7ef58401d | -10.84 | -64.213097 | 2024-10-09 01:27:00 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 86567033-317c-353b-9eb9-ad902974ac0a | -10.694 | -63.623001 | 2024-10-09 01:27:00 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 45a211d5-dd37-3baa-9bb7-ef10922e92a0 | -10.6957 | -63.631199 | 2024-10-09 01:27:00 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| a956f7c2-b117-34e8-9333-89f85de76d95 | -20.7839 | -47.2559 | 2024-10-09 01:27:01 | GOES-16 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 313.0 |
+| 89cefbca-877b-36f1-8e2b-6c8c2b260437 | -20.7846 | -47.2323 | 2024-10-09 01:27:01 | GOES-16 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 224.4 |
+| bd015e6e-681a-37f4-b46b-a3349f6673d9 | -20.8045 | -47.251 | 2024-10-09 01:27:01 | GOES-16 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 102.9 |
+| cf0de100-14ce-3db9-a60e-63c3d5052639 | -10.71 | -64.131302 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| c3dd0283-7319-3452-8776-bbc446389ecb | -10.7137 | -64.148697 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 141545d2-72b5-3a32-8102-1a0c9dabe8c5 | -9.8902 | -60.1992 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a9e9e6cc-9b34-3db4-b072-38b58e452d64 | -9.8917 | -60.2061 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6ed1035b-fbd0-3c2a-abec-dfb3fdabb170 | -9.9137 | -60.3036 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| cfc650c0-35f7-3ab2-aa9c-c6d7ddc3c7e6 | -9.9153 | -60.3106 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 083f2d24-2251-3434-babc-941fd8f15409 | -9.9023 | -60.299 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| decd8ef7-27c6-348a-84cd-6a90d15b082e | -10.4739 | -62.886002 | 2024-10-09 01:27:01 | METOP-B | CACAULÂNDIA | RONDÔNIA | Brasil | 1100601 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5fb9d8e1-59ee-38d9-85c6-84c12ef4cd57 | -9.8894 | -60.287201 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 699a6aed-32da-3b53-aa97-251e35abb0c2 | -9.891 | -60.294201 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a9b73989-c03b-3373-87a3-9d35699ca143 | -10.0711 | -61.098202 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 68ea3620-61da-3d82-a726-1a0c828ccc64 | -10.0726 | -61.105202 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d7714245-a4ef-3bda-ab28-42c95361dcde | -10.0742 | -61.112099 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f026aba8-d496-38e2-9239-8044205d964e | -10.0613 | -61.100399 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 21fde30e-9423-35a4-a0b7-403f41b6db47 | -10.0628 | -61.107399 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3ede7945-2170-353f-8f8d-b3b2d062f659 | -9.8698 | -60.291698 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 374b9e3a-0f0d-34d2-9b78-97779fafee25 | -9.8714 | -60.298698 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b645f1d9-f939-3cf7-8407-381ef8b1efd2 | -10.7063 | -64.113998 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 8503ca59-8e01-3b8f-8f2c-9902802874f7 | -10.7119 | -64.139999 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 3a636723-9149-3ca2-b673-6554d8cd0710 | -10.7021 | -64.142097 | 2024-10-09 01:27:02 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 86c27b5e-0f4b-35fb-8abf-5368be4e9186 | -10.6521 | -63.9552 | 2024-10-09 01:27:02 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 20be1e38-678c-304a-aa6c-162c10fd828b | -10.6539 | -63.963699 | 2024-10-09 01:27:02 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| fce85c0b-cee2-31b9-8c0b-8b2e03fc6422 | -10.9001 | -65.229599 | 2024-10-09 01:27:02 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| fe9da11a-c4c1-3393-a53c-b183e375e901 | -9.8066 | -60.423 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7196653d-f303-353a-bcd6-546cb6e9f51b | -9.8082 | -60.429901 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 10796504-e904-3b74-8446-3e08f4f458cd | -9.8097 | -60.436901 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 37ac139d-7bf8-3762-800d-a6a1d2c5d0f3 | -9.8129 | -60.450699 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 74229a40-03bb-3d60-8202-0949209d18ed | -9.8144 | -60.457699 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 631c302d-aaa8-3eac-881f-28e8f93d96a9 | -9.8657 | -60.686298 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e3845366-0adc-3088-b87a-076dace6d362 | -10.5907 | -64.003899 | 2024-10-09 01:27:03 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| d7692056-e32e-3d2b-a11f-514a1055056f | -10.5925 | -64.012497 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| ba82dd51-e68a-3720-b5bc-117c3db696bc | -10.5944 | -64.021004 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 0c26fb63-8eb9-3789-9f44-6101193a33ca | -9.8544 | -60.681599 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7e307a8c-cfcc-35b8-9af7-bda8554e08a7 | -9.8559 | -60.688499 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9839f584-a65a-3990-bfce-80c10dd5aa5f | -9.8575 | -60.6954 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4ae95013-cd8e-375e-b6f7-d8a7cbd70bbd | -10.5828 | -64.014603 | 2024-10-09 01:27:03 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 1ee12d19-d514-353a-9f31-79752aad0b89 | -10.5846 | -64.023102 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 4e65dec7-e79d-33b5-8391-0bc75d97bd5d | -10.6334 | -64.3498 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 86bdc48b-040f-3b92-b9e9-4df5d7f74ec6 | -10.8031 | -65.156303 | 2024-10-09 01:27:03 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 7524ee03-88dc-3e2c-8917-85323579572d | -10.1369 | -62.094501 | 2024-10-09 01:27:04 | METOP-B | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 323ca44f-a19a-305f-8be5-188523dbfa8c | -10.1385 | -62.1017 | 2024-10-09 01:27:04 | METOP-B | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 464026ae-f863-36bd-a692-f64de8cc6ee9 | -10.6271 | -64.416496 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| b16b9415-1200-3dac-bed6-8ccb1e24f05e | -10.648 | -64.5158 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 77611b1f-8691-33c7-a6f5-6d3817c3cf15 | -10.6499 | -64.524803 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| a7a88d17-a2f2-3595-b760-30fa2eaf31c4 | -10.6116 | -64.3918 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| d8b70239-a51a-3074-a544-c120b0bff9be | -10.6382 | -64.517799 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 4220fe0e-253b-3c5e-a42d-a229d55800b1 | -10.6401 | -64.526901 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
 
 
 [Clique aqui para ver as próximas entradas](README45.md)
