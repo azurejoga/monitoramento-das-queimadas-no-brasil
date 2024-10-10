@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| dc9b303d-68e7-36e2-9a56-a3238df77d16 | -11.3159 | -60.5392 | 2024-10-09 01:26:39 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d6975ca2-6e2c-3ccb-8810-4e866b3e469c | -11.2673 | -60.367599 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 095417fb-7a4c-326f-b21d-a34852d306cc | -11.2689 | -60.374599 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1d079e64-821a-3a11-91a8-428b8d7bf094 | -11.2704 | -60.3815 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| da2cd2d6-612b-3427-9222-220339dd7f5d | -11.272 | -60.3885 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 527e082a-0a2a-3f0b-8377-906d12b97fc4 | -11.8997 | -63.2677 | 2024-10-09 01:26:39 | METOP-B | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e68b92be-dc8a-3f78-b744-ecfb2d9a69d7 | -11.2544 | -60.3559 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b313239d-3e08-3b06-8371-f68ca2bf9296 | -11.256 | -60.3629 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1fb04903-f922-3de3-8a88-f895729e540c | -11.2575 | -60.369801 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b360e0c9-5e70-3215-98d5-ad7ae9d83dca | -11.2591 | -60.376801 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 86d74814-ee22-3b21-b8c0-e66818a083e6 | -11.2606 | -60.383701 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 65da53fb-705f-3866-becf-3ab00dd1d026 | -11.2622 | -60.390701 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ef782c2-5c1c-3934-8141-a9bf712457bf | -11.2963 | -60.543598 | 2024-10-09 01:26:39 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 22ecc106-f42e-3871-8b6c-aa023d93e28b | -11.2979 | -60.550598 | 2024-10-09 01:26:39 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f7443cd8-36d1-3b84-a487-00caded7225d | -11.2994 | -60.557499 | 2024-10-09 01:26:39 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 515a2e61-8e14-3569-8516-9a8354e3b1ab | -11.8881 | -63.2616 | 2024-10-09 01:26:39 | METOP-B | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ede967e9-e38d-3f51-9de8-5e96b7f264eb | -11.8899 | -63.269798 | 2024-10-09 01:26:39 | METOP-B | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| bc0895da-ff86-31ea-b115-6db37d85c2b2 | -10.5959 | -57.523602 | 2024-10-09 01:26:39 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7e455ee7-29a2-3bc9-ae95-3dae7d64169e | -10.5979 | -57.531898 | 2024-10-09 01:26:39 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b2f2d307-136e-38a6-8fd5-e650d2c689ee | -11.2508 | -60.386002 | 2024-10-09 01:26:39 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f07eeab8-30d1-3fcf-b5ae-390592cc51a0 | -16.7067 | -57.4514 | 2024-10-09 01:26:40 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 46.3 |
-| 864d16b5-ac8c-3e5c-815b-60ca44c60e27 | -11.2581 | -60.464699 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fe14daba-9bd6-3190-80ac-62725c1545d4 | -11.2596 | -60.4716 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fa61027c-8228-3fb4-b2fc-c36c4f1c7586 | -11.2612 | -60.4786 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 592c392d-652f-3477-9079-84b96b299e36 | -11.2627 | -60.4855 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1e953dbd-2423-3f8b-a1f8-80b734509c1f | -11.2814 | -60.569 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9025c9ca-7b5a-37d6-8f80-2461fe8cfd8e | -11.2829 | -60.575901 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 071d780a-5c1d-30a1-bac2-b39a5fe4f585 | -11.7834 | -62.866299 | 2024-10-09 01:26:40 | METOP-B | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 82d98506-0b0a-38d5-b582-fddd26e57d15 | -11.785 | -62.874199 | 2024-10-09 01:26:40 | METOP-B | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b642a1c7-bf2f-39dc-af12-21e25ff1153d | -11.8703 | -63.273998 | 2024-10-09 01:26:40 | METOP-B | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a3bccedf-f666-332c-94dc-9de69a809874 | -11.2514 | -60.480801 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ed448571-a29f-39b1-a1c7-2c1b74450a23 | -11.2529 | -60.487701 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 53edc98a-9412-3c9d-a3eb-9bb2e1677836 | -11.2685 | -60.557301 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0b18c86d-3157-30cf-a4f5-120809860530 | -11.2762 | -60.591999 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 70f198a0-537c-3bb3-b46a-6283ce4e4f87 | -11.2778 | -60.598999 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0bcf611f-cb78-31d9-a965-7bae297155ed | -11.7736 | -62.8685 | 2024-10-09 01:26:40 | METOP-B | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| bbf50ad0-897f-3c16-8733-2626a45ec67b | -11.2571 | -60.552601 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c74a3352-8efa-353a-be7b-c5eb566078c4 | -11.2587 | -60.559601 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 2b864d93-930a-3f1a-bbdc-374ebc6f9316 | -11.2602 | -60.566502 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 8c6aa912-090b-3c4d-a3df-81624a924813 | -11.7621 | -62.862801 | 2024-10-09 01:26:40 | METOP-B | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 42dcbf0a-fad2-3a60-8569-1ca8f1955b61 | -11.7638 | -62.870602 | 2024-10-09 01:26:40 | METOP-B | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6780c5f1-9b00-3ad7-9b26-ec1362e5e26f | -12.1505 | -64.707703 | 2024-10-09 01:26:40 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 2991e194-1bca-372e-a885-bb84e856f0bc | -12.1525 | -64.7174 | 2024-10-09 01:26:40 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b95de6db-e770-37f4-84f2-5132b72e16cc | -11.2318 | -60.485298 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b2b92fe6-a2d3-34b0-be22-009a8d3e11fe | -11.2473 | -60.554798 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 25f033c0-d5e1-3c29-b43c-8e061f56c720 | -11.2489 | -60.561798 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 81d46579-0099-3f7d-a22a-1ec8723ed6ba | -11.2122 | -60.489799 | 2024-10-09 01:26:40 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 66903986-2d40-312b-8a85-125f09b58d50 | -11.2262 | -60.552399 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a5c93040-ef5b-3868-9853-ad8f15338062 | -11.2277 | -60.559299 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1b17e12f-7b0c-33af-9359-3fb8dcc81cbc | -11.2293 | -60.566299 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 73104b3e-955c-37e9-8d9a-755c7b0f9f69 | -11.2324 | -60.5802 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 348694fa-c082-3eca-bfed-0478e105768c | -11.2339 | -60.587101 | 2024-10-09 01:26:40 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 416b077e-b349-314e-8c96-6f2d7cb8d0fd | -16.7846 | -57.4629 | 2024-10-09 01:26:41 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 54.9 |
-| 2c2cf318-f4e0-3948-96fc-19e58679fccf | -16.7575 | -56.7081 | 2024-10-09 01:26:41 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 48.4 |
-| 315dd66a-ce96-3c6c-9e88-b9727f8d637c | -16.777 | -56.7057 | 2024-10-09 01:26:41 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 52.2 |
-| 2ada2565-9326-3c75-8d8a-dd9fbc98ed89 | -16.8743 | -56.7352 | 2024-10-09 01:26:41 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.3 |
-| 4f1f879e-1939-38e5-94fc-a6426704e8c8 | -11.19 | -60.436401 | 2024-10-09 01:26:41 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a265693b-d7ed-35f0-a453-5af51d0d614e | -11.1802 | -60.438599 | 2024-10-09 01:26:41 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7dfad954-e324-3ef2-bcd0-8b22e74b488b | -11.1817 | -60.445599 | 2024-10-09 01:26:41 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c4bdf6e1-caf8-35a9-ae59-700ff0ea2344 | -11.1833 | -60.452499 | 2024-10-09 01:26:41 | METOP-B | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b0b5d234-b405-3980-8b2a-62a40105161f | -16.9609 | -57.4426 | 2024-10-09 01:26:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 42.0 |
-| 4b78c00b-6958-34b7-aec1-93c943db3b42 | -17.0878 | -56.8534 | 2024-10-09 01:26:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 79.1 |
-| 6f802093-8605-318b-b02d-6dba2030b85a | -11.1715 | -60.630501 | 2024-10-09 01:26:42 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7e5aa74f-6c53-3b9a-afe6-284fa89472cd | -11.154 | -60.598 | 2024-10-09 01:26:42 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e88efa7c-cc69-32dc-b924-3c689d362e20 | -11.1555 | -60.6049 | 2024-10-09 01:26:42 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4a0831d6-a58b-3f32-81a5-3a1e5f831489 | -11.1617 | -60.632702 | 2024-10-09 01:26:42 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 43a82bdf-f17e-32b0-80e7-388b24ba0b39 | -11.139 | -60.623299 | 2024-10-09 01:26:42 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f8c1d16b-4a7e-37c6-8f24-eb14f766ec9e | -11.1406 | -60.630199 | 2024-10-09 01:26:42 | METOP-B | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 86b0fd3c-b1b7-36ff-bbec-88d4d61a03cc | -11.2385 | -61.1647 | 2024-10-09 01:26:42 | METOP-B | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d7158c7a-e241-36e7-b00c-4f9e27ee0d90 | -17.1271 | -56.8486 | 2024-10-09 01:26:43 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.6 |
-| 0891bb99-e0f6-3617-97c6-2321819196c0 | -17.1467 | -56.8463 | 2024-10-09 01:26:43 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 86.6 |
-| be88af0b-ef22-3f7e-b48d-ad837ca16edb | -17.1588 | -56.1222 | 2024-10-09 01:26:43 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 103.6 |
-| 0dd96b67-714c-3c0f-a7ac-dd1a170456cc | -17.335 | -55.0366 | 2024-10-09 01:26:43 | GOES-16 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 52.3 |
-| 85cfc93d-3fa3-39d4-a208-2bbd91d6f8fd | -17.3353 | -55.0156 | 2024-10-09 01:26:43 | GOES-16 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 65.4 |
-| bf9f3e73-6415-3af9-b609-2812c14c363b | -11.2256 | -61.152901 | 2024-10-09 01:26:43 | METOP-B | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 29c32987-1701-3b2b-9f61-10ebcef55dc2 | -11.2272 | -61.159901 | 2024-10-09 01:26:43 | METOP-B | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4b6461d2-ace8-3aff-8f4c-f6287697c83d | -11.2287 | -61.166901 | 2024-10-09 01:26:43 | METOP-B | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6ca170a7-72e9-396f-b61f-2fd74a8548bb | -11.2169 | -61.206402 | 2024-10-09 01:26:43 | METOP-B | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e827644-096d-3c6b-8bef-ce3ed6c970e7 | -11.754 | -63.7896 | 2024-10-09 01:26:43 | METOP-B | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5d4a334c-b16b-3469-ab22-9758c59f6e8f | -11.7559 | -63.798199 | 2024-10-09 01:26:43 | METOP-B | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 77722a69-ceec-3239-a6d8-680e03a05d24 | -11.7461 | -63.800301 | 2024-10-09 01:26:43 | METOP-B | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5af425ac-8b75-33ce-bb17-2e5c83fd3889 | -11.7479 | -63.808899 | 2024-10-09 01:26:43 | METOP-B | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| cba680ca-121e-3c24-ac3b-15973565e80a | -17.3551 | -55.0129 | 2024-10-09 01:26:44 | GOES-16 | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 58.7 |
-| b478d046-bda9-3f62-a953-f279a4d625a6 | -10.3301 | -57.490002 | 2024-10-09 01:26:44 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 576dfd99-2fce-3abf-95d1-d42e22c025c7 | -11.7486 | -64.055496 | 2024-10-09 01:26:44 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 15acf1d5-5065-3690-af8c-902f07d01435 | -11.7504 | -64.064301 | 2024-10-09 01:26:44 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 8415789b-1afd-3f1d-a50b-a1100d144930 | -11.7388 | -64.057602 | 2024-10-09 01:26:44 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 58a50729-ad2e-378d-907e-9cc1c8905b99 | -11.7234 | -64.033096 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6de06a72-8cf9-3888-986b-7c73422cadbe | -11.7253 | -64.041901 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a2849215-49eb-3b8d-bc8a-b0e0df90aec0 | -11.7272 | -64.050797 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 996ebcb9-e10a-3369-b807-46547ad84e43 | -11.7118 | -64.026398 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1dc69e52-793e-3850-87f2-4db0b63813d9 | -11.7136 | -64.035202 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 65757382-ab25-323f-b6f8-0947760075bb | -11.7323 | -64.1241 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4e80e509-cdc6-3c08-9f6c-973cf5e289d2 | -11.6946 | -63.993198 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4ff1ef77-fe01-3c78-bfd4-93581e2632f8 | -11.6964 | -64.001999 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7c398cb8-f31a-3fa0-85ee-1f8984d90579 | -11.6983 | -64.010803 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| dba39a5e-586f-3d89-ba6e-bc73dcb9a600 | -11.7001 | -64.0196 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a2db4f36-21eb-3a18-b457-1923325a6429 | -11.702 | -64.028503 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 507f6c86-595f-3007-9e96-036dd7807259 | -11.7206 | -64.117302 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c1e7567a-1d65-3402-99f9-c2ca8d23c8b6 | -11.7225 | -64.126198 | 2024-10-09 01:26:45 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5b8acbac-beb7-335a-b5e4-be32a1aa9b96 | -4.94817 | -42.98675 | 2024-10-10 03:55:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 092c4393-b175-35ed-94d7-ff4da18a27fc | -4.94761 | -42.99025 | 2024-10-10 03:55:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 1dc7f6d6-67dd-395e-8834-a6291628da8e | -4.94704 | -42.99375 | 2024-10-10 03:55:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 92b1e9f7-79d2-3e4b-998d-a1e1deb5268d | -4.87294 | -43.0686 | 2024-10-10 03:55:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 93a5b484-2ed7-3983-a9ab-e068dacae850 | -6.25875 | -42.51137 | 2024-10-10 03:55:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| f9dd7f81-8ef3-3b04-970a-e987037cf3d3 | -6.25797 | -42.51603 | 2024-10-10 03:55:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 3eee7ced-6400-3f81-9953-2e8100678b32 | -6.25418 | -42.51528 | 2024-10-10 03:55:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 7311c391-38ad-358d-b0e2-3a17c2841324 | -6.2534 | -42.51997 | 2024-10-10 03:55:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 51b214c6-bdfa-335c-9f6e-4e4192364d12 | -6.24959 | -42.51933 | 2024-10-10 03:55:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 94034504-b538-3082-bf7f-1887ecc6d4f6 | -6.14482 | -42.47077 | 2024-10-10 03:55:00 | NOAA-21 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| f252d58f-e3d8-3610-8dfe-f5f2586e655d | -6.0829 | -42.37644 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 8244381e-4bc1-386a-9359-eed6d31fcb2f | -6.07912 | -42.37577 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| d646e58c-1564-3fdf-8d17-c868be1f3b0d | -6.03483 | -42.71574 | 2024-10-10 03:55:00 | NOAA-21 | SANTO ANTÔNIO DOS MILAGRES | PIAUÍ | Brasil | 2209450 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| cda7fb7b-8724-3f82-b5a9-2a19edebd232 | -6.00466 | -42.89849 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 9f4e26cb-f0b9-3228-8ac1-280926c33b65 | -6.00379 | -42.90375 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 772ddfdb-19c1-3760-a7fa-29df3b959c6a | -6.00075 | -42.89782 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| d1c5bdf1-1397-33ce-858c-5ac9af7ceeb2 | -5.99988 | -42.90306 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| b0189c6a-78f4-3933-afe3-3cf4cd3eae05 | -5.99597 | -42.90237 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 0aa7cec8-ebf4-3b82-aef4-4ae5c7502661 | -5.99206 | -42.90167 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| d029760f-7772-3250-b9af-511f2d4a929a | -5.88234 | -41.9577 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 907e416f-55d8-3253-9b50-6137a33847eb | -5.88113 | -41.95557 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| caa2bf3f-481f-35ce-b9c4-8f80de7849a0 | -5.88038 | -41.96003 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 3ad7429f-0d93-31d4-8025-a5293dec496b | -5.87863 | -41.95706 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| d1c4fad9-3067-3a2f-806a-e7ea9734da52 | -5.87742 | -41.95494 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| f752b9de-eaaa-31ba-9459-ed3f971ddfd4 | -5.87493 | -41.95644 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| dd447777-1608-390a-a3d3-65558a08cf61 | -5.86752 | -41.95515 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 448183ff-3d28-392c-ae96-d20f60ab5b8b | -5.86679 | -41.95962 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 2feef80b-9043-3b20-925f-955588e50475 | -5.86309 | -41.95895 | 2024-10-10 03:55:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 26b4843f-6fc5-3ec9-8d6f-910b1e8a85a6 | -5.8214 | -42.40544 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| a91dbe1a-c5c1-354f-b505-ad1471d2f6d9 | -5.82061 | -42.41015 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 60e26772-9e4c-3d01-b7ea-d0be91f7f6e4 | -5.81681 | -42.4095 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 0fb9c8bb-803a-37cd-b43a-8e7e48d344ea | -5.75507 | -43.19267 | 2024-10-10 03:55:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| ec006799-95dc-39d6-8865-b79c45885ae8 | -5.75106 | -43.19205 | 2024-10-10 03:55:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 5e94d4a2-817b-3cec-a316-d8bc8210f700 | -6.37403 | -42.9796 | 2024-10-10 03:55:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| be756944-1e0d-3799-a5ee-4af5ae929c71 | -6.32641 | -43.4558 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 4f2f3d5c-a87d-30ed-9439-5da169a6a432 | -6.29232 | -43.46088 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 6197d313-ff15-305f-9895-97aaab85fc46 | -6.28848 | -43.43468 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c006ae38-2bca-3c64-8eea-b3e4d4cc58c4 | -6.28757 | -43.43465 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c537867d-8cc8-3866-940c-cae636af6ed2 | -6.26794 | -43.42788 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ce488f34-fdd5-3272-bc52-c4c33daa5ece | -6.26389 | -43.42731 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| dbac28b4-30c6-3391-ac5c-c10192b94194 | -5.99471 | -43.46303 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 7e6b05cc-3269-34c8-8d51-63d294b748bd | -5.81536 | -43.23577 | 2024-10-10 03:55:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 2d8d992c-38d6-3c38-8a2d-3a5c55727e58 | -5.66107 | -43.07779 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 1912b7e3-ca58-3573-8900-7af260049948 | -5.56558 | -42.99792 | 2024-10-10 03:55:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 2797bd60-e33b-36eb-8bbd-3f683579c450 | -5.54845 | -42.92915 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 6d7e5145-3060-3501-906b-dd326cd29440 | -5.54334 | -42.74213 | 2024-10-10 03:55:00 | NOAA-21 | MONSENHOR GIL | PIAUÍ | Brasil | 2206407 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| d5faa8e3-ae5a-3236-8826-62573b1989ee | -5.54257 | -42.74402 | 2024-10-10 03:55:00 | NOAA-21 | MONSENHOR GIL | PIAUÍ | Brasil | 2206407 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 8d5c52ec-7aed-3a17-8789-61fe44a9946e | -5.54052 | -42.92799 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 85466e3b-bd22-3c70-9ba0-fab40329aa8a | -5.52322 | -42.79 | 2024-10-10 03:55:00 | NOAA-21 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| a6344440-7b2e-3c76-a01a-69b160a84ccd | -5.51929 | -42.7894 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 08188498-c757-3364-9f9e-24ee76dfc9dd | -5.51019 | -42.79519 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| 913fe6c8-e0bd-31f8-aa96-89e50fbe594c | -5.50627 | -42.79456 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| 738632aa-632e-3e74-859d-097a68518379 | -5.50234 | -42.79393 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 6cb991f6-c148-336d-894c-6d5c8f0af8de | -5.50152 | -42.79901 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 41e18ce8-1297-39f2-ab13-b6eda90715a3 | -5.49759 | -42.7984 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| f8a1600b-537b-39fc-8053-4919a403d167 | -5.49138 | -42.78708 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 13bd2d1a-9e56-3a7a-b73d-c18b0fb1cf0d | -5.48829 | -42.78138 | 2024-10-10 03:55:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| 1cd96b30-b51f-3c67-a4b9-adb166d0d28b | -5.19164 | -42.52797 | 2024-10-10 03:55:00 | NOAA-21 | PAU D'ARCO DO PIAUÍ | PIAUÍ | Brasil | 2207793 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| bcf8e130-4343-3874-9c7b-9bd504ddea65 | -5.58227 | -43.25462 | 2024-10-10 03:55:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 8851f83f-01be-3d55-bfc7-3f18f20390d5 | -5.13568 | -42.89338 | 2024-10-10 03:55:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 60afa8c9-f42b-3262-9421-aa50297c5851 | -5.07058 | -42.87553 | 2024-10-10 03:55:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b7c3d52c-92a4-3bea-add2-46296ba6df09 | -4.98525 | -43.02158 | 2024-10-10 03:55:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 508c2274-91ee-3507-9f5f-28a1af3f69b2 | -6.4887 | -42.17376 | 2024-10-10 03:55:00 | NOAA-21 | BARRA D'ALCÂNTARA | PIAUÍ | Brasil | 2201176 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| af0e0044-efe7-3de5-8dd5-a8542adb339b | -6.48496 | -42.17326 | 2024-10-10 03:55:00 | NOAA-21 | BARRA D'ALCÂNTARA | PIAUÍ | Brasil | 2201176 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 2526ef59-abd7-3e40-b99d-0c01bd117088 | -6.42286 | -42.01799 | 2024-10-10 03:55:00 | NOAA-21 | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 72581464-a3b0-3117-9426-5dbf7bac437c | -6.4209 | -42.01474 | 2024-10-10 03:55:00 | NOAA-21 | NOVO ORIENTE DO PIAUÍ | PIAUÍ | Brasil | 2206902 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| c030f3ad-3d44-3d6b-9ddb-7e580294672d | -6.44263 | -42.92965 | 2024-10-10 03:55:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 6a8bb669-4f92-33a0-af02-2410671d9334 | -6.42043 | -43.13761 | 2024-10-10 03:55:00 | NOAA-21 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| bd799ed3-541d-3070-8e53-1ba67976a229 | -7.82975 | -42.46128 | 2024-10-10 03:55:00 | NOAA-21 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 663d0cde-de16-3778-b8de-ce20a357f1b2 | -7.82903 | -42.46568 | 2024-10-10 03:55:00 | NOAA-21 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| 011912ad-c083-3583-b548-10f2138b523d | -7.82529 | -42.46515 | 2024-10-10 03:55:00 | NOAA-21 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
+| 0cc309f5-2b1f-37bd-a9ed-7676215bc26c | -7.80286 | -43.82892 | 2024-10-10 03:55:00 | NOAA-21 | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| af7a8e92-5e65-3ccf-8dfa-e6458b6033f4 | -7.7993 | -43.08584 | 2024-10-10 03:55:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| d4924c9b-2f3c-38e1-87b0-640b20b4cd2a | -7.79846 | -43.09081 | 2024-10-10 03:55:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 1f4e456e-af52-32dc-a25a-e6463e5b5819 | -7.79544 | -43.08523 | 2024-10-10 03:55:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| 4c448f5a-c427-368b-8743-413249640c22 | -7.7946 | -43.09021 | 2024-10-10 03:55:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 8d9b14ca-3c88-35a7-9d17-acc0d1e4a8e2 | -7.79293 | -43.10004 | 2024-10-10 03:55:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 20.5 |
+| 4a1678de-df8e-388b-a2b6-6002455f16ea | -7.73137 | -43.80494 | 2024-10-10 03:55:00 | NOAA-21 | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| dbe2e792-56a1-3d4a-841e-d2a0a649a596 | -7.73044 | -43.03674 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 53fda893-105b-38ac-a6e9-19919950e24a | -7.72674 | -43.80778 | 2024-10-10 03:55:00 | NOAA-21 | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 1f3de125-34b7-31b7-a4cb-c1cad3509e1a | -7.72659 | -43.03612 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 5f84fb77-0a4f-3077-9668-f0a5438938de | -7.72578 | -43.04097 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 64a0c889-40eb-3f99-91bd-ce7438969213 | -7.69073 | -42.99056 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 14.3 |
+| a1a82f0b-6954-3239-ae69-ee9dd728d3e2 | -7.6899 | -42.99545 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 9.9 |
+| 594c330f-cc74-3d90-b084-f1ab72331f74 | -7.68689 | -42.98992 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 14.3 |
+| 935c31e8-1c4a-3c1a-ad17-14aefe78293a | -7.68606 | -42.99482 | 2024-10-10 03:55:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 9.9 |
+| e45b214a-c53d-3346-9e66-2ef0dc63ff1f | -7.67345 | -42.49266 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 1de01b73-4ed4-3b82-a218-218d777bb878 | -7.67269 | -42.49721 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| bff52f10-5478-3dcd-b664-e77bc16c648d | -7.66972 | -42.49204 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 4b3e264c-392e-3482-a919-a9ab78b7a1e9 | -7.66675 | -42.48688 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| 73e50cfa-6628-3777-b258-0da37b9b1d0c | -7.66659 | -42.53358 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 271c234b-0dd6-3789-aa49-64b743d1ec34 | -7.6639 | -42.4128 | 2024-10-10 03:55:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| b608f676-1022-3719-9186-76e5bedab3a5 | -7.66285 | -42.53294 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| da64aa83-3340-3bf2-8218-b7230b7ff735 | -7.66267 | -42.40905 | 2024-10-10 03:55:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 1db6687a-cc65-3ee3-967d-72b738aa333e | -7.66195 | -42.41349 | 2024-10-10 03:55:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| 3ccbdb4e-5f0d-397e-903b-a54c57504720 | -7.66054 | -42.54671 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 43f38135-e426-3e49-9887-4e439c0bd1bd | -7.66019 | -42.41217 | 2024-10-10 03:55:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 2ecdfcba-106a-3c48-9270-c600eeed4fa5 | -7.65679 | -42.54609 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 8f99d8d6-321d-338b-8200-57b2e6f789ec | -7.65426 | -42.40204 | 2024-10-10 03:55:00 | NOAA-21 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 181e03f0-3a87-357e-ab3b-442791364941 | -7.65382 | -42.54088 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README43.md)

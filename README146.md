@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b610718a-31ab-3e24-a774-f3bab1d1d3b7 | -11.78993 | -47.38385 | 2024-10-09 04:40:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d839a19b-52e0-3b05-b5e0-64cceeb04212 | -11.78931 | -47.38807 | 2024-10-09 04:40:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| a583927f-ec40-3b33-ba63-e131bb51df06 | -11.78223 | -62.88374 | 2024-10-09 04:40:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 8e2a736a-8f70-3c07-a8b7-52684418cb50 | -11.77584 | -62.88222 | 2024-10-09 04:40:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 228d7806-a47e-3bf2-98c1-4886d54fed87 | -11.7683 | -62.88632 | 2024-10-09 04:40:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3a1ad7bd-b549-3e51-9973-7a3ca1cb5798 | -11.76186 | -62.88503 | 2024-10-09 04:40:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 50263fce-00f8-3e89-8fba-9775329c0bab | -11.73797 | -48.41177 | 2024-10-09 04:40:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 2afc776b-ee84-3625-8917-14d67defcc30 | -11.7374 | -48.4156 | 2024-10-09 04:40:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b0cb42c9-7635-3dbf-87ec-f5264f96950c | -11.71479 | -65.00653 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 8a1a7bb6-abcf-318b-89da-3a08feb776a8 | -11.70862 | -65.00422 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| 92251cd7-90f1-3f44-a6d2-3cb46ec3128e | -11.70853 | -59.12448 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| ce9c3fb1-63c1-36ea-89be-6d1e34dcf4ed | -11.70797 | -59.12753 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6193bc89-254e-3d1c-8d09-ab55e11680a2 | -11.70755 | -65.00494 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 51ef55ff-a8e4-3caa-affd-90507599781e | -11.70705 | -65.01149 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| 00854c85-ffd8-33ee-84b4-1ec53e1a258c | -11.70603 | -65.01223 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 6205e07a-c747-3146-862e-af5ad92e53bb | -11.70544 | -65.01896 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| 1a7e67d4-7041-3964-bc36-3ab8ee4b256f | -11.70473 | -46.4892 | 2024-10-09 04:40:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| d33d6317-bcc0-33aa-b989-f83c555b3fec | -11.70445 | -65.01973 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 99acecf6-faa3-3816-8251-47222badfcba | -11.70405 | -46.49389 | 2024-10-09 04:40:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 1eeac865-31e5-3c79-83ad-dfd7c6a273f3 | -11.70139 | -65.00262 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| cad4f8d1-ac4c-3240-bf42-c97b9cd1ee8b | -11.70032 | -65.00333 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| d09614fb-e9ad-3cf0-bffb-96be1a8a07ee | -11.6998 | -65.00999 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| 33dbb8a9-f766-32dd-a42e-e65be9548852 | -11.69877 | -65.01071 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| d33b9461-28d9-37af-a508-439f6d285fd6 | -11.69819 | -65.01743 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| 81381f72-df23-39be-8620-78faabdaa09f | -11.6972 | -65.01818 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 002991e4-3ba9-3fa8-aa51-6ed448a3acdc | -11.69701 | -49.95869 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 9e4a0ad1-bfe1-326c-b8c9-0f6fca5642ea | -11.69646 | -49.96223 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| cfe73bcf-1810-3a2b-bed2-0aef7765a959 | -11.68556 | -64.01292 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 2a068418-7690-31f3-96fc-52cacbb82661 | -11.67877 | -64.01109 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| cce3c3d6-b868-3a6e-ac5c-c259c69ea345 | -11.67647 | -64.0204 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| bd37e676-a837-38e0-8741-8be21508cee6 | -11.6763 | -64.02303 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 4f1246b4-2c10-3415-9b8b-f465d6e50549 | -11.67538 | -64.02552 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| e71bd10c-87d2-3bae-abcd-5134ec49c184 | -11.67525 | -64.02811 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| f5f34994-0454-3206-826a-be244475ca38 | -11.67411 | -64.03146 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 05fa3f5c-c1ce-33f0-9116-ec48bb70292f | -11.6673 | -64.02972 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 97bdc180-122b-3df6-8f40-60a8c567189f | -11.66703 | -64.0332 | 2024-10-09 04:40:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 9c94c61f-c5ae-33ab-aed9-1ed7e24b045b | -11.61398 | -55.02006 | 2024-10-09 04:40:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 493df443-b890-3f94-9939-15283ab10ca7 | -11.60178 | -54.6944 | 2024-10-09 04:40:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7b44e7dd-887f-3dfc-b3f5-19d7178b7056 | -11.59796 | -54.69368 | 2024-10-09 04:40:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 539c9570-f513-3632-98e3-633cbe66eac5 | -11.57447 | -58.95338 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 866c7ff3-72fb-3d31-a3bf-2326a40a18a5 | -11.57391 | -58.95635 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 07348004-9ceb-3576-a97f-bd9b25dd6718 | -11.56943 | -58.95237 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 8d47b5a2-fdc0-3e7f-a663-f95203d8a29b | -11.56888 | -58.95533 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 5d1341ff-34c0-3705-beb5-4bfec90daf3b | -11.56832 | -58.95833 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 191c5061-7d73-32df-af33-ca68e66b8937 | -11.56381 | -46.9402 | 2024-10-09 04:40:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 03fab3c6-a486-3084-9893-d586bb8da972 | -11.5595 | -49.90419 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 32e4fb08-e29b-3858-8365-23f949b60b03 | -11.55895 | -49.90773 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 066dd2d8-98a0-3223-944f-f5f7bdc202a0 | -11.55562 | -49.9072 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c0b2ad36-b050-388b-ba7c-ec79b98e7e48 | -11.55228 | -49.90667 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6433a9cc-e4e9-3ca2-8678-a159d391e620 | -11.55173 | -49.91021 | 2024-10-09 04:40:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4ad8cfcf-93ae-3352-abbb-9d57766c8b7a | -11.48906 | -59.09881 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 874aeac0-36c9-3159-b7cc-7382234039ea | -11.48478 | -61.97595 | 2024-10-09 04:40:00 | NPP-375D | CASTANHEIRAS | RONDÔNIA | Brasil | 1100908 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 3cdaede6-0e1f-39ba-94c1-2d113a5fccfd | -11.48477 | -61.97886 | 2024-10-09 04:40:00 | NPP-375D | CASTANHEIRAS | RONDÔNIA | Brasil | 1100908 | 11 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 4aa1ee21-ad51-3b3c-bf7b-0b02af70d4db | -11.48383 | -61.98066 | 2024-10-09 04:40:00 | NPP-375D | CASTANHEIRAS | RONDÔNIA | Brasil | 1100908 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 28196481-5da7-3a0a-9ec0-c03d7ff854d7 | -11.47866 | -51.85957 | 2024-10-09 04:40:00 | NPP-375D | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| dbe490d2-49a1-3f29-b36e-e6c21e19e133 | -11.47863 | -61.97771 | 2024-10-09 04:40:00 | NPP-375D | CASTANHEIRAS | RONDÔNIA | Brasil | 1100908 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 74cce050-9197-3e31-abb4-f1b1815c8e76 | -11.47239 | -49.48949 | 2024-10-09 04:40:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| ac17cfbc-f09d-3a79-be20-61f0888478c3 | -11.46958 | -49.48537 | 2024-10-09 04:40:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| be0302c2-738a-370c-bedf-55a90008c821 | -11.46903 | -49.48896 | 2024-10-09 04:40:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| dc61987d-9f8a-3b7f-ba94-93fd1d4081d8 | -11.44967 | -47.90752 | 2024-10-09 04:40:00 | NPP-375D | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 23a19f70-8238-364c-b684-228496644936 | -11.44186 | -54.4757 | 2024-10-09 04:40:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d5faffc8-5c12-3147-8788-c5cece269934 | -11.44107 | -54.48035 | 2024-10-09 04:40:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 682e8873-1a6c-334f-977e-96ef5fddbb58 | -11.42619 | -60.45428 | 2024-10-09 04:40:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 950cefb7-3f4c-3866-b62e-95676e9bab09 | -11.4203 | -55.21556 | 2024-10-09 04:40:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 83e0cb69-17b1-33c4-b2b4-a76030298d21 | -11.40336 | -51.24076 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 17ec39b3-ba63-3d0b-bbfa-c201ac91be63 | -11.39378 | -60.41227 | 2024-10-09 04:40:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 272c2cb6-4037-38c0-800b-ffb6dd83cb99 | -11.3882 | -60.41128 | 2024-10-09 04:40:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ae5878c6-6983-3eeb-b7b3-95865cdd6d43 | -11.37546 | -51.09383 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 59f285af-4a7b-3ed1-8eee-ce9a88252bda | -11.37213 | -51.09328 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 4687e1f8-79e1-3719-8ac8-4f4eba805e58 | -11.36936 | -51.08919 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 87624444-97c4-3ae7-abf2-232a516e7349 | -11.3565 | -51.00737 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| e08048b2-56c2-3fa9-b6f0-1e0a2d6bfe2f | -11.35317 | -51.00682 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| a2888e58-24c8-3a6c-8137-b704353646b7 | -11.3526 | -51.01036 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 5a7086be-5c02-3137-9b33-efe4c0a48c7c | -11.35204 | -51.0139 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| ab8d49ef-9c5f-3df2-88fc-8b6694eb32eb | -11.34927 | -51.00982 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 76975a62-4059-3b7e-9905-c28045902964 | -11.34871 | -51.01336 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| a150b21e-81c1-3229-8523-e68769bff18c | -11.34814 | -51.0169 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| e3074328-4944-3213-87f0-324a3817ba47 | -11.34746 | -58.9865 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| fd58a33d-52a3-38aa-a8ec-00ec5144a34d | -11.3469 | -58.98948 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8dec3223-1678-3eb2-9cae-f5e81c7e2232 | -11.34184 | -58.98845 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 077f6b34-06c6-357b-ac4f-0a9ec2401d74 | -11.34126 | -58.99152 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 46cae8bb-9474-3051-ae70-2e8e22217a54 | -11.3397 | -55.23286 | 2024-10-09 04:40:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 67a8ed0e-35a9-3c13-9e7a-fc1bdef2661c | -11.33435 | -58.91681 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e37fc48f-fe9f-35e9-a3e7-6a6a2e3de127 | -11.33378 | -58.91979 | 2024-10-09 04:40:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 792c9bd7-84a9-3a54-8b8c-87213e7ab5e4 | -11.32581 | -55.20764 | 2024-10-09 04:40:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d83555aa-f2d7-3204-aa66-e1aaf85d8cdd | -11.32547 | -50.96596 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| a277750a-6653-37e3-b0ab-538fcb36c862 | -11.32353 | -55.20873 | 2024-10-09 04:40:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 306fa5b1-864b-369e-bda2-dbeff607a22d | -11.32213 | -50.96541 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| bb32b54f-5464-32f3-8c75-e0ee5aa1570d | -11.32186 | -55.20689 | 2024-10-09 04:40:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 96bb2e31-66bc-38b6-80ab-d553fc65a185 | -11.3172 | -51.31851 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 40323246-228c-3bdf-b3ed-4a0b12746cc1 | -11.315 | -51.31081 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| dfbe6670-4c4f-390f-8d14-f684df6d7a08 | -11.31443 | -51.31438 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| e355d137-4374-308f-96a5-518b3405d855 | -11.31165 | -51.31026 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| baf00f1f-d3bb-37e5-89d2-a988d583805b | -11.31108 | -51.31384 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 9f398c6c-8af0-38a3-8357-70a68d760519 | -11.30788 | -51.41993 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 524db973-dad9-3ac2-85f0-847a1bcb943b | -11.29623 | -51.08482 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 51c2b9bc-0190-3380-8882-0e3036b50627 | -11.29346 | -51.08072 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 60d5e610-d9c5-38a5-a201-5e72b97d479a | -11.29289 | -51.08427 | 2024-10-09 04:40:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 358084ff-4bef-3504-94fd-7eda9c4fdaaa | -11.28875 | -54.57729 | 2024-10-09 04:40:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| eb2f0307-91d9-3385-9761-d76b25a6ccc7 | -11.28493 | -54.57662 | 2024-10-09 04:40:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 88d200ab-0612-3824-b30c-4d4931126d68 | -10.6084 | -48.2995 | 2024-10-10 12:36:06 | GOES-16 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 106.2 |
+| cceb1584-a179-3594-9820-0373fcb07800 | -11.29 | -51.0059 | 2024-10-10 12:36:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 173.7 |
+| 18cbc7f6-3c58-3da9-8d33-2e618d22945c | -11.2894 | -51.0484 | 2024-10-10 12:36:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 174.9 |
+| 4f48bb98-7dea-34f5-962f-20d8f5543ee9 | -11.3087 | -51.0251 | 2024-10-10 12:36:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 411.1 |
+| 0ecf37c4-23b0-395a-8e74-cabbcea6308f | -11.3084 | -51.0464 | 2024-10-10 12:36:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 142.9 |
+| 48dc311e-d5d8-327b-ba9a-ebd1b3bd7faf | -11.309 | -51.0038 | 2024-10-10 12:36:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 256.1 |
+| 9ebb491f-5372-3b00-9ba3-565d9c15904e | -11.3286 | -50.9592 | 2024-10-10 12:36:11 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| f004efe2-eb3f-3bcb-8fbd-274b568a2000 | -12.2083 | -50.603 | 2024-10-10 12:36:15 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 100.9 |
+| c1665dcd-fabb-3e2c-bc19-cf2b309fb877 | -12.2978 | -45.3112 | 2024-10-10 12:36:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 274.0 |
+| 47ca9d23-bb9b-36dd-81ff-3a19dc380852 | -12.1895 | -50.5838 | 2024-10-10 12:36:15 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| 4dd0a16f-37ae-328d-be13-83eaa5dc8c90 | -12.1892 | -50.6053 | 2024-10-10 12:36:15 | GOES-16 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 120.6 |
+| bff336f2-037c-3ede-86a7-fc2570605574 | -13.1276 | -51.6649 | 2024-10-10 12:36:21 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 113.0 |
+| c0b3a391-c3c1-3f6d-9a00-43d0ec00c41b | -13.8374 | -44.5455 | 2024-10-10 12:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 167.9 |
+| e4f35215-0ecf-3f17-b61a-044b25e903a0 | -13.8369 | -44.5691 | 2024-10-10 12:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 140.8 |
+| 0da24fa2-2378-3a8e-a95e-79704449397e | -13.8569 | -44.5421 | 2024-10-10 12:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 116.8 |
+| ee37a3ca-f9ca-35f4-9e67-cd2af0796ab8 | -13.8574 | -44.5185 | 2024-10-10 12:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 122.4 |
+| 61885a25-d17a-361a-a730-bd0000caacff | -13.8564 | -44.5657 | 2024-10-10 12:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 110.3 |
+| 2b19784a-45ce-322f-b32f-e93ecbc95b8e | -13.8379 | -44.522 | 2024-10-10 12:36:24 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 151.5 |
+| a360a124-982d-30dd-8883-159c3038b007 | -14.043 | -44.0129 | 2024-10-10 12:36:25 | GOES-16 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 115.2 |
+| 4c54f2f5-f600-3ed1-9448-cc0149151882 | -4.49618 | -40.92453 | 2024-10-10 12:38:00 | TERRA_M-T | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 15.1 |
+| b69dce17-0f5f-3b5d-b166-48fd267aa7b2 | -3.9586 | -41.48 | 2024-10-10 12:38:00 | TERRA_M-T | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 121.8 |
+| 11ab6281-8c05-385b-ae48-11c490df5084 | -3.60586 | -41.52624 | 2024-10-10 12:38:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 14.2 |
+| a6377d54-e410-32fd-8e54-0fb81e0424ae | -3.57652 | -41.78326 | 2024-10-10 12:38:00 | TERRA_M-T | CARAÚBAS DO PIAUÍ | PIAUÍ | Brasil | 2202539 | 22 | 33 | nan | nan | nan | Caatinga | 12.2 |
+| 2f1b7152-5f6a-3a9d-adb8-8eff2786b474 | -3.57484 | -41.79545 | 2024-10-10 12:38:00 | TERRA_M-T | CARAÚBAS DO PIAUÍ | PIAUÍ | Brasil | 2202539 | 22 | 33 | nan | nan | nan | Caatinga | 39.9 |
+| 6fa15548-aab2-3942-a084-96f853da417d | -3.77682 | -42.61927 | 2024-10-10 12:38:00 | TERRA_M-T | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 28.5 |
+| 366002be-2482-3fd7-823a-2612024840e9 | -3.77835 | -42.60838 | 2024-10-10 12:38:00 | TERRA_M-T | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| dca0668d-09de-3cc0-b770-3f3b4e51df96 | -5.15716 | -43.06175 | 2024-10-10 12:38:00 | TERRA_M-T | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| 4d3bbff3-0b6e-3fa2-983a-26efcc854f52 | -3.42369 | -43.16243 | 2024-10-10 12:38:00 | TERRA_M-T | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| e81f7e0f-42b3-3d29-9b56-3ee2152cc02b | -3.22509 | -43.39675 | 2024-10-10 12:38:00 | TERRA_M-T | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| 734a02fa-9b7e-349d-9e4c-202cbe59d608 | -3.22369 | -43.40652 | 2024-10-10 12:38:00 | TERRA_M-T | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| e4a7812f-5260-37a1-8532-edae7f9039d1 | -4.79919 | -43.78502 | 2024-10-10 12:38:00 | TERRA_M-T | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| f4013db2-5832-3949-be5c-a2847cbb5d33 | -4.73336 | -43.79993 | 2024-10-10 12:38:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| 29740df8-b594-3564-a3d6-b9c4bc24a4f5 | -4.40506 | -43.519 | 2024-10-10 12:38:00 | TERRA_M-T | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 17.0 |
+| 2bd6e4cf-cb64-3d78-a844-daa1efa1004e | -4.39426 | -43.52766 | 2024-10-10 12:38:00 | TERRA_M-T | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 11c72730-d635-39bb-a709-80d48e3447e5 | -4.393 | -43.85265 | 2024-10-10 12:38:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 21ffa77b-4636-3cd8-981d-0ff793f6cc94 | -4.33584 | -43.493 | 2024-10-10 12:38:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 6c7ce7c9-ac38-3f4c-872a-70e340280b8b | -4.28189 | -43.73637 | 2024-10-10 12:38:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| fda77cff-bb19-3ce3-bf25-7a42fd4318d3 | -3.78539 | -44.37105 | 2024-10-10 12:38:00 | TERRA_M-T | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 409cde49-dc63-32c3-a32b-56cddd42ca80 | -3.55401 | -44.37636 | 2024-10-10 12:38:00 | TERRA_M-T | CANTANHEDE | MARANHÃO | Brasil | 2102705 | 21 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| d8669fd3-fb90-31ee-80c6-94616ebc8782 | -1.72019 | -45.20585 | 2024-10-10 12:38:00 | TERRA_M-T | BACURI | MARANHÃO | Brasil | 2101301 | 21 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 5089c085-affe-33ff-a2ea-3c04db49166d | -1.71891 | -45.21466 | 2024-10-10 12:38:00 | TERRA_M-T | BACURI | MARANHÃO | Brasil | 2101301 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| 4a466534-107c-381b-a9fd-c154e253ace7 | -3.49712 | -44.90582 | 2024-10-10 12:38:00 | TERRA_M-T | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | 14.4 |
+| 015a5512-f87d-36fb-b353-24389db99e8f | -2.89732 | -45.66733 | 2024-10-10 12:38:00 | TERRA_M-T | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 11.6 |
+| 10cfb931-06f8-3fbc-a832-fe3a4fe1806e | -2.89604 | -45.67617 | 2024-10-10 12:38:00 | TERRA_M-T | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| d24685fd-80ff-3784-b53c-d3600f369acf | -2.88845 | -45.6661 | 2024-10-10 12:38:00 | TERRA_M-T | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 63.1 |
+| f3aeeaaf-f4b9-353a-aec9-b433794fe660 | -2.88717 | -45.67493 | 2024-10-10 12:38:00 | TERRA_M-T | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 58.7 |
+| 8050e2a6-da8b-358e-94e8-daca4c13780a | -3.83434 | -45.56391 | 2024-10-10 12:38:00 | TERRA_M-T | TUFILÂNDIA | MARANHÃO | Brasil | 2112274 | 21 | 33 | nan | nan | nan | Amazônia | 18.3 |
+| 37df9a4f-5435-31ef-9633-189503706bac | -2.18192 | -46.08732 | 2024-10-10 12:38:00 | TERRA_M-T | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 97e2a243-9b71-3d85-bf09-08ac66077a62 | -2.17596 | -45.93987 | 2024-10-10 12:38:00 | TERRA_M-T | GOVERNADOR NUNES FREIRE | MARANHÃO | Brasil | 2104677 | 21 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 9540d65a-4d7d-3560-b3bd-14d74e63908b | -2.17466 | -45.94882 | 2024-10-10 12:38:00 | TERRA_M-T | GOVERNADOR NUNES FREIRE | MARANHÃO | Brasil | 2104677 | 21 | 33 | nan | nan | nan | Amazônia | 14.6 |
+| 6ac4be63-813b-3258-9dd1-f034a166541c | -2.16703 | -45.93863 | 2024-10-10 12:38:00 | TERRA_M-T | GOVERNADOR NUNES FREIRE | MARANHÃO | Brasil | 2104677 | 21 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 11936302-340b-3040-8341-78757ec0bc50 | -1.65701 | -46.14859 | 2024-10-10 12:38:00 | TERRA_M-T | BOA VISTA DO GURUPI | MARANHÃO | Brasil | 2101970 | 21 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| 3f811438-d35c-305f-ac45-7e8f6ff8e231 | -4.10632 | -46.80267 | 2024-10-10 12:38:00 | TERRA_M-T | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 24.3 |
+| 4570c871-aaa4-3d0e-a182-be1b85715cb9 | -2.29759 | -47.89724 | 2024-10-10 12:38:00 | TERRA_M-T | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 29.7 |
+| 525e8f34-43c4-30cf-b838-df468539fcab | -4.4886 | -48.10264 | 2024-10-10 12:38:00 | TERRA_M-T | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| 0aa9f5c0-ca85-3690-919d-a8daa52a7c4a | -4.48709 | -48.11298 | 2024-10-10 12:38:00 | TERRA_M-T | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 16.1 |
+| ae9878df-0aa9-3709-a337-7a84151f8246 | -4.10564 | -48.26958 | 2024-10-10 12:38:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 53.1 |
+| 34cdfecf-7552-37a7-b6e9-fd6698830809 | -6.96852 | -37.97461 | 2024-10-10 12:40:00 | TERRA_M-T | COREMAS | PARAÍBA | Brasil | 2504801 | 25 | 33 | nan | nan | nan | Caatinga | 34.2 |
+| 9b857201-fa2f-3a87-9406-732a9f97f82b | -6.93558 | -37.99208 | 2024-10-10 12:40:00 | TERRA_M-T | POMBAL | PARAÍBA | Brasil | 2512101 | 25 | 33 | nan | nan | nan | Caatinga | 34.4 |
+| 34dd1a1a-c737-30d4-b3d7-60c7be0a877a | -8.68747 | -40.9344 | 2024-10-10 12:40:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 18.3 |
+| 185cd3a0-fed9-3674-94ab-37f0caad4852 | -8.56546 | -40.65736 | 2024-10-10 12:40:00 | TERRA_M-T | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 24.8 |
+| 7b1a0cd4-81ee-32fb-8a88-85a86709d7a2 | -8.85232 | -41.43591 | 2024-10-10 12:40:00 | TERRA_M-T | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 23.5 |
+| 74a07eab-f95b-3139-b9a6-aebf0c2d9ca0 | -6.00593 | -42.90791 | 2024-10-10 12:40:00 | TERRA_M-T | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 31.2 |
+| 220a4e51-6e69-33e7-856b-804cf406437d | -5.9865 | -42.3764 | 2024-10-10 12:40:00 | TERRA_M-T | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 11.8 |
+| de7d5030-5b77-311e-a362-5ed695912674 | -5.76032 | -43.19178 | 2024-10-10 12:40:00 | TERRA_M-T | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 10.1 |
+| 14593659-fd12-3c81-ac0a-ce01da578ca9 | -5.75215 | -43.17959 | 2024-10-10 12:40:00 | TERRA_M-T | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 19.2 |
+| 7704d803-f8f1-370e-a626-f101c5d2d9f6 | -5.75062 | -43.19041 | 2024-10-10 12:40:00 | TERRA_M-T | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 40.2 |
+| 5af674e6-692a-370e-9835-fb18e00337d5 | -5.51071 | -42.79237 | 2024-10-10 12:40:00 | TERRA_M-T | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 19.9 |
+| 25aecbf0-9004-3cc6-b4b2-f55c68cfd01a | -6.26911 | -43.42854 | 2024-10-10 12:40:00 | TERRA_M-T | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 466a97eb-a9af-365a-9dae-8e1f150ee680 | -6.19052 | -43.42912 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 17.6 |
+| 850fa7cd-e75a-3c7a-bb51-5ceb836788a8 | -6.18908 | -43.43962 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| dfece3ef-ec43-3c74-936c-a5fdb955dbce | -6.18631 | -43.43289 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 78f5d68a-3e16-3883-b6ef-332da86b83d8 | -6.00307 | -43.45485 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| 13b129dd-1bea-3717-833d-15ea931f6947 | -5.99853 | -43.45839 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 36.0 |
+| 9bbfb5aa-4c95-311a-abf6-584d1e4acb68 | -5.56563 | -43.19659 | 2024-10-10 12:40:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| cdd5f496-5c4e-31ea-9102-169118eee614 | -5.29315 | -43.0313 | 2024-10-10 12:40:00 | TERRA_M-T | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| 697031d4-a1d5-39a6-9428-2d14531e6e4b | -7.67597 | -42.49877 | 2024-10-10 12:40:00 | TERRA_M-T | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 13.8 |
+| 6e2c1376-9246-39d1-9fcd-0c107c721bc3 | -7.22383 | -42.29078 | 2024-10-10 12:40:00 | TERRA_M-T | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 11.9 |
+| 153a0352-c981-3815-bebc-55a057b47c22 | -7.2221 | -42.30356 | 2024-10-10 12:40:00 | TERRA_M-T | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
+| 14b47a8a-2068-36d3-96fc-a155f0e191b1 | -6.64856 | -43.06132 | 2024-10-10 12:40:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 14.6 |
+| 412fcc3b-af4f-3278-920a-08f9b5ebae1c | -6.61503 | -43.15901 | 2024-10-10 12:40:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| 9a6e0ace-a475-3377-a435-15b43f5b5975 | -6.46747 | -43.32733 | 2024-10-10 12:40:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 20602595-cc89-3542-82cf-6e4f44b8859e | -6.30221 | -45.00655 | 2024-10-10 12:40:00 | TERRA_M-T | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 0c430378-ff39-3d41-be4e-5c5828bb6011 | -6.13545 | -44.68968 | 2024-10-10 12:40:00 | TERRA_M-T | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 15.6 |
+| 70ed0bb3-2cb0-3097-a128-4308d22eb135 | -6.11948 | -44.9315 | 2024-10-10 12:40:00 | TERRA_M-T | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 119.6 |
+| de6a4727-d57c-3f29-95ec-ab3cbc5785d6 | -6.11817 | -44.94063 | 2024-10-10 12:40:00 | TERRA_M-T | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 32.7 |
+| 9fc6d083-b1a2-3628-acfa-c34bd4acf5ca | -6.35099 | -43.81036 | 2024-10-10 12:40:00 | TERRA_M-T | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 188bb9e6-a243-3a05-9cd6-c5a793bce6a9 | -6.34957 | -43.82059 | 2024-10-10 12:40:00 | TERRA_M-T | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| fe6c4602-8e41-3dd6-b541-dc21edf335c4 | -6.32822 | -43.7662 | 2024-10-10 12:40:00 | TERRA_M-T | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| e7de54f0-89bb-3b5a-b5b0-1dda11a6f62f | -6.32399 | -43.75919 | 2024-10-10 12:40:00 | TERRA_M-T | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| 23cd87ac-182a-3942-a85d-00eae7429d04 | -6.24609 | -43.52216 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| c5242158-670d-3d72-aed0-df69b367f475 | -5.99556 | -43.47926 | 2024-10-10 12:40:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 81982160-4a3e-3e9b-aaf8-c722801467bc | -5.35752 | -43.43321 | 2024-10-10 12:40:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 611f4684-4053-33db-8da1-20529b283c38 | -6.20786 | -44.10862 | 2024-10-10 12:40:00 | TERRA_M-T | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| fff51626-34e1-3c67-a988-f73f3798ffdc | -6.18844 | -44.38071 | 2024-10-10 12:40:00 | TERRA_M-T | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 5929bb6c-1a3c-31ea-87bc-6b899cd18233 | -5.4948 | -44.27396 | 2024-10-10 12:40:00 | TERRA_M-T | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| 985bae4d-3090-3b54-99c9-e4245f1915fd | -5.49344 | -44.28344 | 2024-10-10 12:40:00 | TERRA_M-T | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 28.9 |
+| ce48b649-a178-3e4a-88fb-d957ec9116d1 | -5.47513 | -44.28091 | 2024-10-10 12:40:00 | TERRA_M-T | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 7b3de55e-5253-3970-8162-3fa658bf379e | -7.91784 | -44.85397 | 2024-10-10 12:40:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 24.0 |
+| 812f8732-bfed-3fad-8eb3-b5c75d58ee83 | -7.91648 | -44.86349 | 2024-10-10 12:40:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 21.0 |
 
 
 [Clique aqui para ver as próximas entradas](README147.md)

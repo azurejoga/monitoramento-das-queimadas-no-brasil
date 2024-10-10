@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6fcbe8cd-a934-3ad9-9f47-0c3bfc79f20f | -3.81483 | -41.60463 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 5.2 |
-| 4d900849-f302-37c0-995a-892ae5a99e3e | -3.81205 | -41.60064 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| cceb3ec3-c38b-378b-94ef-4dbe6a4f59ac | -3.81151 | -41.60412 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 1e8ae505-4bc3-3c24-b3c3-9d38a2713e00 | -3.81042 | -41.61109 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 99566c31-42d9-3a5c-9f8c-57284f0c54fe | -3.80873 | -41.60012 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| 4b006018-a460-3d8e-bbfa-62d4a1586374 | -3.80818 | -41.60361 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| ba451aec-d3b4-340c-8ce4-e456eca023f3 | -3.80764 | -41.60709 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| a6e5c213-7ee1-315f-af1b-9a447315b050 | -3.80486 | -41.6031 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 119dc3d7-e1ce-35b5-bd29-b71baad4b302 | -3.80269 | -41.61704 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| a00e4f65-9944-3a52-b6b1-8e37dd0f0e89 | -3.80208 | -41.5991 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 69053f39-21d3-3bfc-8b17-e29ff3dc0eeb | -3.80099 | -41.60607 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 12b5d6e4-4b4e-3b55-922b-7b7282cd5ff6 | -3.80045 | -41.60956 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 20662031-33a7-3a90-b674-1ef750aefe5e | -3.79991 | -41.61304 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 6fbe8658-73ad-3cf0-8e07-728576d4f4a7 | -3.79937 | -41.61653 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 2df8d4d6-f7bd-3f20-8b18-4b4e84c8a99b | -6.18111 | -42.59754 | 2024-10-09 04:14:00 | NOAA-21 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 8b4548b1-ca0b-39f4-b0b0-92a660765288 | -5.5673 | -43.10362 | 2024-10-09 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| b48a3526-deef-3681-a339-a1c4c165bb48 | -3.79659 | -41.61253 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| cf0d6ba4-dad2-3520-a812-d6b039dae7f2 | -3.79604 | -41.61602 | 2024-10-09 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| cf792f7b-7f2b-3bfe-9af7-3dba09097b32 | -4.17582 | -42.99223 | 2024-10-09 04:14:00 | NOAA-21 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| f55d6ad5-676e-361e-bb6e-8970eaa19176 | -4.17528 | -42.99567 | 2024-10-09 04:14:00 | NOAA-21 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1cf7b02a-ed91-3899-a055-159aaf07a707 | -4.17252 | -42.99171 | 2024-10-09 04:14:00 | NOAA-21 | DUQUE BACELAR | MARANHÃO | Brasil | 2103901 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| e2c95567-439f-3ea4-aff0-fdec7d8ae23f | -4.17198 | -42.99516 | 2024-10-09 04:14:00 | NOAA-21 | DUQUE BACELAR | MARANHÃO | Brasil | 2103901 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| cf244223-8ebe-3f4c-b2da-23dbe8d5d511 | -4.16976 | -42.98775 | 2024-10-09 04:14:00 | NOAA-21 | DUQUE BACELAR | MARANHÃO | Brasil | 2103901 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| fbd98fd0-7697-3c0a-8c6a-d9331dea002d | -4.16922 | -42.9912 | 2024-10-09 04:14:00 | NOAA-21 | DUQUE BACELAR | MARANHÃO | Brasil | 2103901 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 5d737cff-0e93-3084-bffd-6ee0b6212808 | -4.16592 | -42.99068 | 2024-10-09 04:14:00 | NOAA-21 | DUQUE BACELAR | MARANHÃO | Brasil | 2103901 | 21 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 4222c7ed-323f-3524-8d18-a2fc10d29664 | -3.62038 | -42.75969 | 2024-10-09 04:14:00 | NOAA-21 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0ba0bf00-fbe7-33cd-84e0-29ca537c3a64 | -3.61983 | -42.76313 | 2024-10-09 04:14:00 | NOAA-21 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| db6f1e37-8072-3109-bc26-fa84a774f028 | -3.61708 | -42.75918 | 2024-10-09 04:14:00 | NOAA-21 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ec2b6bb6-9cca-3a05-a342-5fd710fa9e5b | -3.61432 | -42.75523 | 2024-10-09 04:14:00 | NOAA-21 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 095e6ec1-980d-30c7-a37c-270044fbabcf | -6.31476 | -43.37493 | 2024-10-09 04:14:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 3524eb8e-2d7c-3284-a251-17acd18d98f6 | -6.31367 | -43.38183 | 2024-10-09 04:14:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 1efd0d3a-38bd-3e44-9748-7d7bedd8cd72 | -6.41676 | -42.41764 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 6478256e-6160-309a-a71c-4588518ae136 | -6.25895 | -42.51405 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 5811d3c0-ea93-32b1-900e-a413ca4afa18 | -6.25456 | -42.52049 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 6a63f24a-574b-3eec-85ae-be81f7795e08 | -6.18664 | -42.6055 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| a87fe0c6-d119-3029-8994-1966ceca3613 | -6.17619 | -42.60739 | 2024-10-09 04:14:00 | NOAA-21 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| d2191585-5607-326d-be6d-70b5bd0087f4 | -6.26449 | -42.52198 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| bdbbb3ac-40de-3d87-bccb-184987eccb21 | -6.25841 | -42.51752 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| b297e941-2ccb-3e0c-80f2-29b88b76e711 | -6.17835 | -42.59357 | 2024-10-09 04:14:00 | NOAA-21 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 63d2b67f-1421-3343-ba61-31bdea10e216 | -6.25126 | -42.51998 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| f8276f4e-abf2-3bc4-96b5-8a52b9b492af | -6.1861 | -42.60895 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 7.0 |
-| d162698e-2047-3df6-9f73-176c33a13d2a | -6.18441 | -42.59806 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| c3e81f56-d856-332a-acaa-0d68b74d774b | -6.18387 | -42.60152 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 3711af6e-8079-325b-a4d2-7a3027b2b5de | -6.17949 | -42.60791 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 0f39db20-b41e-3f7d-9a5c-d1d4e5968044 | -5.87852 | -41.96172 | 2024-10-09 04:14:00 | NOAA-21 | SANTA CRUZ DOS MILAGRES | PIAUÍ | Brasil | 2209153 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 57ed47d8-73b4-3f20-ae1d-281de8211be5 | -6.4173 | -42.41417 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 685d45a9-561d-39b0-bbaa-80bd99e2c174 | -6.18279 | -42.60843 | 2024-10-09 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 7.0 |
-| fa63cd23-2c57-3947-8cca-1fca1583ade7 | -5.56346 | -43.10654 | 2024-10-09 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 3fefe73b-d3f8-32ad-8994-e1ce227a26c4 | -5.81598 | -43.23506 | 2024-10-09 04:14:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 49069577-a87e-3f15-8a5c-3c70cae2bfeb | -5.55366 | -42.93234 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| a80e97b5-827d-39b5-b2b8-a4fb610d2e34 | -5.55312 | -42.93578 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 3a16071e-f544-347e-9aee-ad610ceb5130 | -5.55037 | -42.93182 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| f6ecfd73-1c67-3e1f-8637-c32d4ab037dc | -5.54983 | -42.93526 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| ae4aeec9-de09-3269-bf52-8b9e550a098a | -5.53297 | -42.80579 | 2024-10-09 04:14:00 | NOAA-21 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| b884bd82-0bf7-3e76-8bf2-3424476b7f72 | -5.53243 | -42.80923 | 2024-10-09 04:14:00 | NOAA-21 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| bfbec2fe-8a24-32ee-8aae-fbcedb7386aa | -5.52914 | -42.80872 | 2024-10-09 04:14:00 | NOAA-21 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| fc66c41a-761b-3b85-9bc3-9818b15b82ef | -5.51741 | -42.79272 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 05055ab4-c96b-3eb0-8668-9e71923bfb01 | -5.51687 | -42.79615 | 2024-10-09 04:14:00 | NOAA-21 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| c317e8ec-752b-30fa-bb0c-59c6783d3b20 | -5.50092 | -42.79015 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| 605d48c8-0a18-31fb-873d-f90e89320815 | -5.50038 | -42.79358 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| 344238fd-9c5e-3ec9-bac1-c43a75d96dd0 | -5.4987 | -42.78275 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 7f43f581-325a-3062-b5ef-519e56702a82 | -5.49762 | -42.78963 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 49945a39-4cf1-3239-9919-a59f860a3a0e | -5.49708 | -42.79307 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| cff1781b-c192-338d-b0de-023f502d1810 | -5.49594 | -42.7788 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 9646c533-45ec-3480-8a90-e6f17c5ac984 | -5.4954 | -42.78224 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 6076777e-a5f7-3114-9ead-ea073b3ea1d3 | -5.49487 | -42.78568 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 155722f1-a7a1-3687-a93c-0bcd47d1133b | -5.49211 | -42.78172 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| b867c79d-ca83-31ab-a2d5-1aa116a1f74c | -5.49157 | -42.78516 | 2024-10-09 04:14:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| ce131a47-f193-38a7-822d-0ef8dd3e4401 | -5.53156 | -42.74559 | 2024-10-09 04:14:00 | NOAA-21 | MONSENHOR GIL | PIAUÍ | Brasil | 2206407 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| ecff1c5f-afaf-3eb5-b0a5-9544ba159fcf | -5.58824 | -43.25506 | 2024-10-09 04:14:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 304e540a-0320-3a4c-ae68-4519bd76b7e1 | -5.58494 | -43.25455 | 2024-10-09 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 1d41c9c0-4ea6-322c-ab20-1d9bf45191f6 | -5.58218 | -43.25059 | 2024-10-09 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 9873fcf3-c196-3ce2-ae03-0a73a03ea980 | -5.58164 | -43.25404 | 2024-10-09 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 9358f4b7-b658-3686-ad43-72661c1d41fb | -5.57779 | -43.25696 | 2024-10-09 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 8e9d7d6f-625e-3d29-bfbb-4cb04c605b17 | -5.97245 | -43.36214 | 2024-10-09 04:14:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| a90d93e1-96ad-3d27-ae29-2597359457ef | -6.38481 | -42.79551 | 2024-10-09 04:14:00 | NOAA-21 | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| d8582f04-55ea-3cb3-95e1-dd42c2d37f3c | -6.20391 | -42.84499 | 2024-10-09 04:14:00 | NOAA-21 | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| b7eef0c5-add2-3b61-ae62-991a16151db7 | -6.17394 | -43.14374 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 7a632ac6-499b-3664-bdac-661eabfeb3a3 | -5.97299 | -43.35869 | 2024-10-09 04:14:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 4d5f8e1d-b844-39c2-a819-71a22ef33fbc | -5.96969 | -43.35817 | 2024-10-09 04:14:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| c40b7040-7614-32d0-939c-8a85ed439d75 | -5.96915 | -43.36163 | 2024-10-09 04:14:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 46a6f0d0-3de9-3223-b95f-5fd43ec9ab6f | -5.80332 | -43.22956 | 2024-10-09 04:14:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 91b9cc65-dc73-35ad-9d67-0ff9bf7de1b7 | -5.96769 | -43.19895 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 0119672c-ae43-388b-a92c-7fde85bbf697 | -5.96715 | -43.2024 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 46bbdd97-4ede-339f-a008-76b2c6326311 | -5.96439 | -43.19844 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 83fb49df-c38d-3d52-bb4e-257c44380393 | -5.96385 | -43.20188 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 953c9bb6-db08-3728-ade0-418a7ff2b301 | -5.96331 | -43.20533 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| a8047c59-567d-3da5-8ec4-d6a72d318645 | -5.96055 | -43.20136 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| a7876b88-bd61-3edf-a6ca-30ed8e0bfdd5 | -5.96001 | -43.20481 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 5756654e-540b-3514-9fcd-84a142b4b387 | -5.93255 | -42.99244 | 2024-10-09 04:14:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 86343e5f-04b8-3ed2-a77a-f0fe51d2254e | -5.74055 | -43.04335 | 2024-10-09 04:14:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| f47cedb7-2c96-3433-aec0-5f5a352762b5 | -5.74001 | -43.04679 | 2024-10-09 04:14:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| d16dfe66-4830-3447-9ae2-ea6efecab8d7 | -5.7347 | -43.12355 | 2024-10-09 04:14:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 3a413956-e842-351f-8c25-9cee66e5e9b8 | -5.7314 | -43.12303 | 2024-10-09 04:14:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 68e2fe0d-42b0-396a-8c93-696e052397dd | -5.73086 | -43.12648 | 2024-10-09 04:14:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 5a50ed18-02ea-3995-b59a-5b0d23e61cc6 | -6.44837 | -42.93332 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6ab6e8c0-4215-3415-8df3-7f934566c1b4 | -6.44783 | -42.93676 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d62fed8a-0551-33c9-8668-2c81a56eabc5 | -6.44507 | -42.9328 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 8b4c01bd-4820-363d-b019-5563ae8d8467 | -6.41476 | -43.10458 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 7b9b8e6f-e5e1-3dec-b7f3-0dafe4104543 | -6.412 | -43.10061 | 2024-10-09 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| aa8e7e66-6e04-36aa-88d7-aeaea17325e5 | -7.17162 | -44.068 | 2024-10-10 04:19:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 518d38c2-4e99-345c-a404-cfce8cdcd6ee | -9.93683 | -44.06688 | 2024-10-10 04:19:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| c1cf524c-a68e-3ff9-96cd-d23023c9b115 | -9.93401 | -44.06276 | 2024-10-10 04:19:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 19fb7a03-bd43-3d88-8731-965c48890074 | -9.71398 | -45.47529 | 2024-10-10 04:19:00 | NPP-375D | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 55d2e806-2a59-3f9c-896f-81716cb62fcd | -9.71343 | -45.47879 | 2024-10-10 04:19:00 | NPP-375D | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6e66d64d-8b5c-3f68-8b51-ff35ba45fd3f | -9.55997 | -44.4295 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 803a5d1a-2ab8-31eb-a09b-22229cfbca9e | -9.55943 | -44.43304 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0dd7572d-eedd-389b-8714-15a5ea060289 | -9.55888 | -44.43658 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 74c0be65-d8f4-3da3-80e9-fab97f0def6a | -9.55723 | -44.44719 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 73247b51-c90e-3aeb-9f73-cb9e050201ab | -9.55663 | -44.42897 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2eda3357-20d0-3ba9-9edf-2b0fd7f16f94 | -9.55608 | -44.43251 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d52c9b16-895b-3547-b723-0e681e4bda92 | -9.51028 | -44.07177 | 2024-10-10 04:19:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ffa65b04-9169-33b4-9696-e538c2d056a2 | -9.4263 | -44.13911 | 2024-10-10 04:19:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 07f42168-81e4-3cda-9c03-747af8e325d7 | -10.18536 | -43.87774 | 2024-10-10 04:19:00 | NPP-375D | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 169175f6-684e-3710-bf88-ac14972e20b1 | -9.53991 | -44.42634 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 61f8809d-83f8-3bd4-8a01-53eb1b4a5b3c | -9.53602 | -44.42935 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 509535b9-5136-32da-b05a-0a689d48f8d5 | -9.52824 | -44.43537 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| ddf251b9-9da0-3671-9969-c4cffddbe189 | -9.5249 | -44.43484 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| af3361a6-d2aa-3208-995d-bae41db8eb8c | -9.52435 | -44.43837 | 2024-10-10 04:19:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 03221d2a-d0d7-3e5a-a863-e3a800889bce | -10.12522 | -45.20721 | 2024-10-10 04:19:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| d7410657-9608-3db2-b086-4cf10cf0daeb | -10.12467 | -45.21072 | 2024-10-10 04:19:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| d8408810-43fd-3c57-a43f-a5e9560d5a3e | -10.1219 | -45.20669 | 2024-10-10 04:19:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ce02dc66-4659-33b6-afcf-f36275c8272d | -10.12135 | -45.2102 | 2024-10-10 04:19:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| bc859412-a4c7-39ac-9c61-9d7e0896bdd3 | -10.11802 | -45.20967 | 2024-10-10 04:19:00 | NPP-375D | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a5e850fe-62f2-34bc-b993-46846e773906 | -13.80204 | -44.62493 | 2024-10-10 04:19:00 | NPP-375D | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b959b323-7251-3eb3-b788-3db86e64b92c | -13.79864 | -44.62439 | 2024-10-10 04:19:00 | NPP-375D | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ae48ab15-ec5e-3eda-b09f-6cf06d422cd2 | -9.88052 | -35.97568 | 2024-10-10 04:19:00 | NPP-375D | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| ecfeac65-dbd3-30ac-ade1-1116dd72cf7b | -9.87962 | -35.98265 | 2024-10-10 04:19:00 | NPP-375D | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
+| a6c1d622-b560-37e7-a898-8e904ccf84e1 | -9.87465 | -35.97848 | 2024-10-10 04:19:00 | NPP-375D | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 00173c4b-1087-358a-b532-1e8ba0b3e3bf | -9.8742 | -35.98197 | 2024-10-10 04:19:00 | NPP-375D | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
+| d7ea1614-4bab-3cba-9ddd-e5e45ef34946 | -10.20547 | -36.22096 | 2024-10-10 04:19:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 62046036-bb0e-36a7-a498-063710000522 | -10.20502 | -36.22441 | 2024-10-10 04:19:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| ddcf27e9-c72c-3b6d-9878-c377fed56445 | -10.2001 | -36.2203 | 2024-10-10 04:19:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
+| 9b743db5-57fa-3898-b2c9-d42721182a41 | -10.19966 | -36.22371 | 2024-10-10 04:19:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
+| 88a172f0-99c5-3bcc-8406-93323a31c7f9 | -7.94502 | -38.34725 | 2024-10-10 04:19:00 | NPP-375D | SERRA TALHADA | PERNAMBUCO | Brasil | 2613909 | 26 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 18fe2ac9-7fd7-3e0e-ad7c-3841f2540b73 | -8.62309 | -40.3893 | 2024-10-10 04:19:00 | NPP-375D | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 75e88edb-55db-3030-9b4a-76a70460c294 | -8.56833 | -40.65962 | 2024-10-10 04:19:00 | NPP-375D | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 19641efa-5ec5-35c8-91bb-fa89648b4f37 | -13.63002 | -40.87558 | 2024-10-10 04:19:00 | NPP-375D | BARRA DA ESTIVA | BAHIA | Brasil | 2902807 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 9e8e2a11-8e81-31b2-9c22-6b1fac610e44 | -13.97757 | -41.8752 | 2024-10-10 04:19:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 69316f1a-2cfd-349c-89e1-a1da05378ba6 | -13.97686 | -41.8802 | 2024-10-10 04:19:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 84e44782-be63-3b4c-b9ca-9f65c5a15efa | -13.97434 | -41.87758 | 2024-10-10 04:19:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| 4917083b-ebfe-3c8b-8dc6-7d62c95a162c | -13.76492 | -41.83743 | 2024-10-10 04:19:00 | NPP-375D | DOM BASÍLIO | BAHIA | Brasil | 2910107 | 29 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 842c364e-9344-327a-87f1-0518627455d0 | -13.76415 | -41.83533 | 2024-10-10 04:19:00 | NPP-375D | DOM BASÍLIO | BAHIA | Brasil | 2910107 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 0923f88a-ccfa-3abc-bf1f-c79e67867bcf | -7.99218 | -40.97291 | 2024-10-10 04:19:00 | NPP-375D | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| f5ff15b1-9b17-3a7e-8811-9a6383b79f35 | -7.61437 | -41.71922 | 2024-10-10 04:19:00 | NPP-375D | CAMPINAS DO PIAUÍ | PIAUÍ | Brasil | 2202109 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| a85484ff-6e0f-3944-a8f3-f38020c94bf2 | -7.36225 | -42.19084 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| ee4a8eb7-5b3b-3bec-8822-fde0544e4fe2 | -7.35931 | -42.18635 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 27c987a0-5364-32ef-ac71-5ff9f319dc06 | -7.35872 | -42.1903 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| f5617c59-75de-3ae4-9efa-b0cee5017fca | -7.35579 | -42.1858 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 5a1ac4b5-27ab-3fb0-85be-d1c8ab7fab9a | -7.3485 | -42.18927 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| fd40adca-8fa1-3575-98b7-a4f6956a04cf | -7.3479 | -42.19319 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 0503298b-30d1-3a26-841d-9df440f3f072 | -7.34438 | -42.19263 | 2024-10-10 04:19:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| b3e00c54-fb09-368c-addf-4d00a54264ca | -8.06581 | -41.10283 | 2024-10-10 04:19:00 | NPP-375D | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 8b8eb38f-a34a-3f3f-b714-343c08eb7f57 | -10.7988 | -42.44852 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 0ff8b8e2-9b5d-3312-837c-91e791a1a45c | -10.21655 | -42.45808 | 2024-10-10 04:19:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| b0805774-558c-3dda-964e-23f27be1b47b | -10.21296 | -42.45753 | 2024-10-10 04:19:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| f74e6083-017e-3f27-8252-38f45121d550 | -10.20641 | -42.45234 | 2024-10-10 04:19:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| c543d409-ac15-3f4e-962e-6fe734f6b7b4 | -11.95382 | -41.77226 | 2024-10-10 04:19:00 | NPP-375D | SOUTO SOARES | BAHIA | Brasil | 2930808 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| b7bb6cc2-cfb3-3990-8c0d-a11968c37b16 | -11.21764 | -41.60239 | 2024-10-10 04:19:00 | NPP-375D | JOÃO DOURADO | BAHIA | Brasil | 2918357 | 29 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| ef7de673-26d8-38c8-91e0-8d19e3a58b27 | -11.08858 | -41.5375 | 2024-10-10 04:19:00 | NPP-375D | SÃO GABRIEL | BAHIA | Brasil | 2929255 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 1ebaa554-12b7-3ce0-9e2c-bcaf05d0a0d0 | -11.03193 | -42.89532 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 2cc79b4b-eba6-308a-8963-677a7f06f127 | -11.02878 | -42.89532 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| e65cabf3-c722-310a-bbd3-01fef61e922e | -11.02838 | -42.89477 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| b6676f5c-942c-3909-a30f-f2f9eb8158ec | -11.0278 | -42.89879 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| c59e6484-391a-3734-8e6e-84aec933d736 | -11.02585 | -42.89076 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 71302c13-5139-367b-b993-0ac993cd3813 | -11.02543 | -42.89021 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| fa30f3e7-ea94-35d3-8ee1-a95562fb9943 | -11.02524 | -42.89477 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 15bf0bca-9066-3612-b246-b80ad74079c6 | -11.01763 | -42.87309 | 2024-10-10 04:19:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 4fdda3fe-109a-314a-9796-abf2cc52c4f2 | -14.03641 | -42.80516 | 2024-10-10 04:19:00 | NPP-375D | GUANAMBI | BAHIA | Brasil | 2911709 | 29 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 8ee9448d-ff25-3f24-b1bb-7982634838d3 | -13.84885 | -42.63802 | 2024-10-10 04:19:00 | NPP-375D | IGAPORÃ | BAHIA | Brasil | 2913408 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 092c83dc-b2de-30f2-9c41-fae1331ede97 | -13.82769 | -42.4129 | 2024-10-10 04:19:00 | NPP-375D | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| ba23d65f-5f19-3e98-819a-32fcb88ac457 | -13.72026 | -43.0913 | 2024-10-10 04:19:00 | NPP-375D | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 25c4cf1f-10d9-37fd-8eed-dedaf84fff61 | -7.82934 | -42.45852 | 2024-10-10 04:19:00 | NPP-375D | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| fe543552-83e0-37a7-87fc-e0d19cf5bf97 | -7.82874 | -42.46243 | 2024-10-10 04:19:00 | NPP-375D | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 71faf1a0-8fc7-3d3d-ba48-d58e8fdb07bc | -7.82814 | -42.46637 | 2024-10-10 04:19:00 | NPP-375D | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| 79820545-9b5a-3625-9e28-80ad8fed7d62 | -7.82465 | -42.46579 | 2024-10-10 04:19:00 | NPP-375D | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| d2e0c38c-c690-3c19-9a6b-67a653045996 | -7.79371 | -43.09964 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 08fa3b0b-27b6-3a47-b3a5-8f4aefec99a5 | -7.79029 | -43.09911 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 505365ba-1371-3be5-b9d0-1ac213632794 | -7.78973 | -43.10278 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 30f4e3e1-6dd2-31d6-a333-48f3a05a7c77 | -7.77997 | -43.07497 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| 74008d4e-cae5-3b86-b6a4-263b27553b69 | -7.77712 | -43.07075 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| f42f7518-0dd0-3701-bf8c-825fdd0f1882 | -7.77438 | -43.11176 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 73edf2fb-28c4-3790-975d-1268343580d7 | -7.7737 | -43.07021 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 6856964f-cc01-382b-9d5f-1783a2170611 | -7.77096 | -43.11123 | 2024-10-10 04:19:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 15266021-83f0-338b-a1f9-53a9efbf89a4 | -7.72998 | -43.03743 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| fd4c78c1-a8a2-3c87-8e9a-f5ddbb0edd03 | -7.72655 | -43.0369 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 68bec83a-5913-3dc3-9ff4-0e13007bad30 | -7.72599 | -43.0406 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 8fdc9971-23b7-3d96-ad4d-9c568129d7a9 | -7.6917 | -42.98972 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 6c3cfe40-ebdc-388a-9e3a-55ad69985d60 | -7.69114 | -42.99341 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 0d632e86-d72a-3299-91d8-4de4b477a217 | -7.68827 | -42.98919 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 4610034c-35c5-3a39-8ac9-9520e16973df | -7.68771 | -42.99289 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| f60898f6-fd09-3110-bf06-e0a2cd46973f | -7.68429 | -42.99234 | 2024-10-10 04:19:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 7da45863-45d6-354f-987d-0dce73f252d1 | -7.67367 | -42.49077 | 2024-10-10 04:19:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 38d5f1cd-b451-345b-9b26-4c52b03a08e5 | -7.67309 | -42.49461 | 2024-10-10 04:19:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| e56c16a2-a149-3b61-8149-712bed3a5b95 | -7.67018 | -42.49023 | 2024-10-10 04:19:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 14efd118-e4ab-3a64-bc7b-2cf04d9d624e | -7.6696 | -42.49408 | 2024-10-10 04:19:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 56b0d4a5-71be-31e8-b660-183f587cd750 | -7.66727 | -42.48585 | 2024-10-10 04:19:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 01f88b88-f4e6-35d7-ab1f-fedf8bf62b95 | -7.6644 | -42.40987 | 2024-10-10 04:19:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 02d0a140-4c9a-343b-939e-174fa8b94616 | -7.66382 | -42.41378 | 2024-10-10 04:19:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| a23eb166-c5d0-3f19-b01c-564e448b0e12 | -7.66147 | -42.54786 | 2024-10-10 04:19:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README71.md)

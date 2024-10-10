@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4d29033e-111e-3dd2-a713-c69b7a5e8fa2 | -10.9272 | -63.851601 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5d00a1d3-d42d-3b49-9d13-289ef52edcc9 | -10.929 | -63.8601 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 40b985f3-f9ae-31af-8d6f-18a35827c925 | -10.9156 | -63.8452 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b251c288-34e5-3729-ab2a-9a2440452a1a | -10.9174 | -63.853699 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d6ceb7b4-e5a0-32c6-a333-a45948cd3ab3 | -10.9192 | -63.862202 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6e083e02-7312-378e-870c-a49368ce4c10 | -10.913 | -63.881199 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| efa9322c-d722-3e97-bf3a-afd99d959f9f | -10.9032 | -63.883301 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e4cfc03-62e5-32e5-a16b-d6fa69d9da31 | -10.905 | -63.8918 | 2024-10-09 01:26:57 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 797820a6-3e97-3000-ac18-12ee222e6a67 | -20.2915 | -43.9444 | 2024-10-09 01:26:58 | GOES-16 | ITABIRITO | MINAS GERAIS | Brasil | 3131901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 126.6 |
-| 71d706ef-fb61-3eec-afdd-eb68c99a9909 | -10.8641 | -63.8918 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 340d4973-6650-36f5-8ae4-d94f7295296e | -10.8659 | -63.9002 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7c1fc5fe-5b0f-36d0-b3bc-dd4501747ba3 | -10.8677 | -63.908699 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ea53492-c9b3-3c93-8a51-ed836f8805f4 | -10.8695 | -63.917301 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1fb67e3b-d52d-3b1c-b0be-37f79f87fcbc | -10.9134 | -64.1241 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 8e36f09d-ea43-38b9-84ce-4f210a89fd42 | -10.9152 | -64.132797 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0926dd0b-0968-341c-9c7c-5ffa863a3d8b | -10.9171 | -64.141602 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| dc0ef917-26a8-3f00-9549-e4da629fb7d2 | -10.9036 | -64.126198 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 515f8870-889e-30ac-b334-3d37f21187ef | -10.9054 | -64.134903 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 100a9edb-cc23-3f3a-8dae-4a9c4d79a4c6 | -10.9091 | -64.152397 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5ef6ce87-7ea4-3df5-958b-32ce5ef77769 | -10.8956 | -64.137001 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b5fc34e3-fed4-3f7d-acee-346c3136cb7a | -10.8975 | -64.145798 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1a607b06-e4a0-3866-9e14-8b00fb034abd | -10.8952 | -63.893902 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 929a5895-42cc-3f6d-9f11-b9035ef496d5 | -10.897 | -63.902401 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| de4ec59b-d4e4-3a03-aedf-91853a102ed2 | -10.8854 | -63.896 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 557befa1-fc88-3948-957c-f732e82dbad6 | -10.8872 | -63.904499 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 71d4a9c2-e4d4-3d7a-aa74-c7b3cca1af63 | -10.889 | -63.913101 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e44edef8-7e86-302e-9f08-37e12b919e63 | -10.8721 | -63.881199 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ad8069ea-f021-37aa-b5a0-928f06b585ac | -10.8739 | -63.889702 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5a1d8a10-6483-3dae-a3ed-fdf15d1c4ca4 | -10.8757 | -63.898102 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6ae827e1-8669-30d5-ad4c-7b12946555cf | -10.8775 | -63.906601 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0f042d0e-706c-399e-b311-4f3b68548413 | -10.8793 | -63.915199 | 2024-10-09 01:26:58 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b386f6f1-e053-36c8-a45d-e2a6c5ae0a82 | -10.8586 | -63.866299 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c4c17733-608e-3de3-9193-82200538bf94 | -10.8604 | -63.874802 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9fc456ad-cedb-3c40-b67e-e95285e4a125 | -10.8623 | -63.883301 | 2024-10-09 01:26:58 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c255072c-11be-3be8-838a-3b17981a0a82 | -20.3346 | -48.7307 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 180.7 |
-| 678df3e8-b1e3-35e6-9433-33d40996b401 | -20.3352 | -48.7076 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 198.8 |
-| 3bacdfb5-fc7c-331d-9385-631e29ba3485 | -20.3551 | -48.7262 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 325.0 |
-| 0c6ad5e4-c322-32e8-9ff0-22f6f6c72ed7 | -20.3557 | -48.7031 | 2024-10-09 01:26:59 | GOES-16 | COLÔMBIA | SÃO PAULO | Brasil | 3512100 | 35 | 33 | nan | nan | nan | Cerrado | 260.8 |
-| da6dd8f1-cd50-35d7-87a8-bef900c460da | -20.3755 | -48.7217 | 2024-10-09 01:26:59 | GOES-16 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 147.1 |
-| e7ecf344-838d-3c4e-ab3f-4861de9d071f | -20.3761 | -48.6986 | 2024-10-09 01:26:59 | GOES-16 | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | 111.9 |
-| d3149e79-f030-3967-adaf-6640a29a3fca | -10.1779 | -60.8848 | 2024-10-09 01:26:59 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ebc7098d-98e5-3775-923b-d1cb459e58c5 | -10.1795 | -60.891701 | 2024-10-09 01:26:59 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5daf4ff4-0116-3cf9-9e50-23ed1cd559a9 | -10.8877 | -64.147903 | 2024-10-09 01:26:59 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7d3ac723-aa0d-3b5a-a791-26df8fe2dbea | -10.8387 | -64.158302 | 2024-10-09 01:26:59 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e0152db5-10a3-3eaa-9349-02cd8276894b | -10.8405 | -64.167099 | 2024-10-09 01:26:59 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 33127506-8735-32be-a112-5f782f2e7abd | -10.8363 | -64.195503 | 2024-10-09 01:27:00 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e2ce455f-a057-3879-aa83-d25c6e4084e9 | -10.8382 | -64.2043 | 2024-10-09 01:27:00 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ffae8eb2-fac2-3021-be90-e3d7ef58401d | -10.84 | -64.213097 | 2024-10-09 01:27:00 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 86567033-317c-353b-9eb9-ad902974ac0a | -10.694 | -63.623001 | 2024-10-09 01:27:00 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 45a211d5-dd37-3baa-9bb7-ef10922e92a0 | -10.6957 | -63.631199 | 2024-10-09 01:27:00 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a956f7c2-b117-34e8-9333-89f85de76d95 | -20.7839 | -47.2559 | 2024-10-09 01:27:01 | GOES-16 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 313.0 |
-| 89cefbca-877b-36f1-8e2b-6c8c2b260437 | -20.7846 | -47.2323 | 2024-10-09 01:27:01 | GOES-16 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 224.4 |
-| bd015e6e-681a-37f4-b46b-a3349f6673d9 | -20.8045 | -47.251 | 2024-10-09 01:27:01 | GOES-16 | PATROCÍNIO PAULISTA | SÃO PAULO | Brasil | 3536307 | 35 | 33 | nan | nan | nan | Cerrado | 102.9 |
-| cf0de100-14ce-3db9-a60e-63c3d5052639 | -10.71 | -64.131302 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c3dd0283-7319-3452-8776-bbc446389ecb | -10.7137 | -64.148697 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 141545d2-72b5-3a32-8102-1a0c9dabe8c5 | -9.8902 | -60.1992 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a9e9e6cc-9b34-3db4-b072-38b58e452d64 | -9.8917 | -60.2061 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6ed1035b-fbd0-3c2a-abec-dfb3fdabb170 | -9.9137 | -60.3036 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cfc650c0-35f7-3ab2-aa9c-c6d7ddc3c7e6 | -9.9153 | -60.3106 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 083f2d24-2251-3434-babc-941fd8f15409 | -9.9023 | -60.299 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| decd8ef7-27c6-348a-84cd-6a90d15b082e | -10.4739 | -62.886002 | 2024-10-09 01:27:01 | METOP-B | CACAULÂNDIA | RONDÔNIA | Brasil | 1100601 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5fb9d8e1-59ee-38d9-85c6-84c12ef4cd57 | -9.8894 | -60.287201 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 699a6aed-32da-3b53-aa97-251e35abb0c2 | -9.891 | -60.294201 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a9b73989-c03b-3373-87a3-9d35699ca143 | -10.0711 | -61.098202 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 68ea3620-61da-3d82-a726-1a0c828ccc64 | -10.0726 | -61.105202 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d7714245-a4ef-3bda-ab28-42c95361dcde | -10.0742 | -61.112099 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f026aba8-d496-38e2-9239-8044205d964e | -10.0613 | -61.100399 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 21fde30e-9423-35a4-a0b7-403f41b6db47 | -10.0628 | -61.107399 | 2024-10-09 01:27:01 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3ede7945-2170-353f-8f8d-b3b2d062f659 | -9.8698 | -60.291698 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 374b9e3a-0f0d-34d2-9b78-97779fafee25 | -9.8714 | -60.298698 | 2024-10-09 01:27:01 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b645f1d9-f939-3cf7-8407-381ef8b1efd2 | -10.7063 | -64.113998 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 8503ca59-8e01-3b8f-8f2c-9902802874f7 | -10.7119 | -64.139999 | 2024-10-09 01:27:01 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 3a636723-9149-3ca2-b673-6554d8cd0710 | -10.7021 | -64.142097 | 2024-10-09 01:27:02 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 86c27b5e-0f4b-35fb-8abf-5368be4e9186 | -10.6521 | -63.9552 | 2024-10-09 01:27:02 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 20be1e38-678c-304a-aa6c-162c10fd828b | -10.6539 | -63.963699 | 2024-10-09 01:27:02 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fce85c0b-cee2-31b9-8c0b-8b2e03fc6422 | -10.9001 | -65.229599 | 2024-10-09 01:27:02 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fe9da11a-c4c1-3393-a53c-b183e375e901 | -9.8066 | -60.423 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7196653d-f303-353a-bcd6-546cb6e9f51b | -9.8082 | -60.429901 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 10796504-e904-3b74-8446-3e08f4f458cd | -9.8097 | -60.436901 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 37ac139d-7bf8-3762-800d-a6a1d2c5d0f3 | -9.8129 | -60.450699 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 74229a40-03bb-3d60-8202-0949209d18ed | -9.8144 | -60.457699 | 2024-10-09 01:27:03 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 631c302d-aaa8-3eac-881f-28e8f93d96a9 | -9.8657 | -60.686298 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e3845366-0adc-3088-b87a-076dace6d362 | -10.5907 | -64.003899 | 2024-10-09 01:27:03 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d7692056-e32e-3d2b-a11f-514a1055056f | -10.5925 | -64.012497 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ba82dd51-e68a-3720-b5bc-117c3db696bc | -10.5944 | -64.021004 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0c26fb63-8eb9-3789-9f44-6101193a33ca | -9.8544 | -60.681599 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7e307a8c-cfcc-35b8-9af7-bda8554e08a7 | -9.8559 | -60.688499 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9839f584-a65a-3990-bfce-80c10dd5aa5f | -9.8575 | -60.6954 | 2024-10-09 01:27:03 | METOP-B | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4ae95013-cd8e-375e-b6f7-d8a7cbd70bbd | -10.5828 | -64.014603 | 2024-10-09 01:27:03 | METOP-B | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1ee12d19-d514-353a-9f31-79752aad0b89 | -10.5846 | -64.023102 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4e65dec7-e79d-33b5-8391-0bc75d97bd5d | -10.6334 | -64.3498 | 2024-10-09 01:27:03 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 86bdc48b-040f-3b92-b9e9-4df5d7f74ec6 | -10.8031 | -65.156303 | 2024-10-09 01:27:03 | METOP-B | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7524ee03-88dc-3e2c-8917-85323579572d | -10.1369 | -62.094501 | 2024-10-09 01:27:04 | METOP-B | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 323ca44f-a19a-305f-8be5-188523dbfa8c | -10.1385 | -62.1017 | 2024-10-09 01:27:04 | METOP-B | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 464026ae-f863-36bd-a692-f64de8cc6ee9 | -10.6271 | -64.416496 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b16b9415-1200-3dac-bed6-8ccb1e24f05e | -10.648 | -64.5158 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 77611b1f-8691-33c7-a6f5-6d3817c3cf15 | -10.6499 | -64.524803 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a7a88d17-a2f2-3595-b760-30fa2eaf31c4 | -10.6116 | -64.3918 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d8b70239-a51a-3074-a544-c120b0bff9be | -10.6382 | -64.517799 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4220fe0e-253b-3c5e-a42d-a229d55800b1 | -10.6401 | -64.526901 | 2024-10-09 01:27:04 | METOP-B | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 12802f6d-cabf-31ff-a4ac-7ed10f194354 | -5.08635 | -43.79798 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 4266d14d-b722-367d-8d5f-09d0063f2f25 | -4.84682 | -43.35376 | 2024-10-10 03:55:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 93280a84-291a-374a-82be-2c16e94172c3 | -4.81747 | -44.35283 | 2024-10-10 03:55:00 | NOAA-21 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| fc6f65bd-38ca-3787-9420-2b1d3fdef059 | -4.65675 | -43.76925 | 2024-10-10 03:55:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 763750f1-4677-3902-ac9b-c8c4aba4f7b3 | -5.99919 | -43.48613 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 8bb91035-e467-31cd-a87c-a6eb51b41eef | -5.99858 | -43.4898 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 85590dac-5704-3a87-a5e5-e90af9dc0f22 | -5.99797 | -43.49346 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 944588c1-c835-38bc-8c6e-e37923afc99d | -5.99575 | -43.48173 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| b436b2c4-1676-3072-843e-bab5df14a019 | -5.99514 | -43.48538 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| e25c9109-c861-3612-a2e7-fcbe5bc0ebf6 | -5.99452 | -43.48906 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 95072a36-fae0-3586-b1f5-1111b4a3aa1c | -5.9939 | -43.49277 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 5a9083da-1be8-3759-816f-42134b563235 | -5.99168 | -43.48106 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| ecf491b8-f019-37b5-a3bb-9af64f9a7db4 | -5.99107 | -43.48472 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 5c302c93-e04d-3e08-8ac4-24defb14ee97 | -5.98761 | -43.48041 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 83d66cf8-65f9-38e5-91da-5eadb7363b9c | -5.98699 | -43.48408 | 2024-10-10 03:55:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| abec1648-9f2f-39c6-9084-46515e5e80f5 | -5.56747 | -43.69754 | 2024-10-10 03:55:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 2e3165e6-8fea-3b9c-b973-a1a0cf7eef5c | -5.48505 | -43.93416 | 2024-10-10 03:55:00 | NOAA-21 | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c1d8211c-fbec-3b37-be61-8fa70295e2c2 | -5.38719 | -43.62883 | 2024-10-10 03:55:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| e60abd3d-e49c-3598-9664-64819a918850 | -5.38506 | -43.62902 | 2024-10-10 03:55:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| e00bd732-270d-336e-ab84-b244f00ccf1f | -5.32261 | -43.73556 | 2024-10-10 03:55:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1f434839-7e91-358e-8abe-28191bb34bfd | -5.23951 | -43.42874 | 2024-10-10 03:55:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6122aa10-0936-3073-be3a-33a2b6a6c238 | -5.2389 | -43.43244 | 2024-10-10 03:55:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4b0e8127-337d-317a-af85-4ceb95fe7704 | -5.11094 | -43.75391 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 6c71f5f9-9b76-3dc5-a540-52c1ba619d37 | -5.7127 | -44.48946 | 2024-10-10 03:55:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c35e8c2d-67d7-344d-977a-e63b0ee66e58 | -5.49495 | -44.28325 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| c6129c67-c5fd-3777-8401-8c99872d7ded | -5.49423 | -44.2874 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 9ab3288e-e2ad-32bd-812b-cf55cb0e4909 | -5.49315 | -44.53066 | 2024-10-10 03:55:00 | NOAA-21 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 57472a44-01ad-3f74-bfc0-a0dd4e82dcbe | -5.49287 | -44.28418 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 9334aaed-3847-3749-af73-fa918d2cfd2d | -5.49242 | -44.53497 | 2024-10-10 03:55:00 | NOAA-21 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| dc41148e-2018-3d21-96a4-372bd7163376 | -5.49219 | -44.28834 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| cb1f66b3-9c7c-33ed-a766-de3a1005769e | -5.49062 | -44.2825 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d9b921d3-5664-32d8-8a01-f8253c0bf6f6 | -5.48991 | -44.28664 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 4a3159b3-a2db-30b0-b149-f972f039d403 | -5.48855 | -44.28343 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 1ccf4c65-c38a-3d4b-aa9a-650d19d4076a | -5.48803 | -44.5342 | 2024-10-10 03:55:00 | NOAA-21 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| a8baced1-9b49-3bf8-a0c1-91c7dec53c30 | -5.48354 | -44.28686 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 460d1039-c7c4-3f7f-8b6b-ba0812c5c86f | -5.47989 | -44.28201 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| e7e9197c-a779-396f-8b96-97d2479ffd2d | -5.47921 | -44.28615 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 88b038ba-4b8e-3f79-9819-a492240ab4dc | -5.47487 | -44.28546 | 2024-10-10 03:55:00 | NOAA-21 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| f0b52f69-40d8-323f-91da-8821549b6835 | -5.34264 | -44.08347 | 2024-10-10 03:55:00 | NOAA-21 | SENADOR ALEXANDRE COSTA | MARANHÃO | Brasil | 2111748 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 5df129de-3e7f-378b-b084-5d5c865429df | -5.27094 | -44.20653 | 2024-10-10 03:55:00 | NOAA-21 | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| bc45ab7a-cae6-36b6-aa7b-9abbb4ca7a98 | -5.26747 | -44.60859 | 2024-10-10 03:55:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 7150dc3c-9772-3b99-bc07-d265c0d67bac | -6.34888 | -43.81625 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 761ee69c-be98-3dd2-a945-9fdc7505daa5 | -6.34827 | -43.81987 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| eb73cd9b-bf7e-3d6c-98f8-d3e6ee0133e6 | -6.34412 | -43.81925 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 2f0f8bb1-cb8e-3e89-94dc-eaf17d9c48b6 | -6.32983 | -43.76275 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 7d5677a8-4470-3a18-a91d-318c4d7b803a | -6.32572 | -43.76201 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 23483ad9-20aa-3a96-830b-c1c5c604e1d4 | -6.32509 | -43.76581 | 2024-10-10 03:55:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 1197fe98-e16a-3fd5-b9f2-6d21a1f68fb9 | -6.28669 | -43.818 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 059427ed-9726-39fb-887c-2cbeb2a9c88e | -6.17109 | -43.70718 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| cf97a8e1-30b7-3b7e-92ab-7c285785a913 | -6.17047 | -43.71087 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| f1f93bb9-0781-3c90-a43d-15382c396ca3 | -6.16697 | -43.70651 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 994dce44-c84f-3363-9d0c-f300a2653df5 | -6.16634 | -43.71023 | 2024-10-10 03:55:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| bd2dfc1b-e49f-3de9-92ba-9308d65a7466 | -5.9683 | -43.79756 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 5e81fb98-e3dc-3f16-a9ab-adbfaf575158 | -5.96414 | -43.79688 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6fe9f772-50fb-35e2-9022-6cd1d1aaf589 | -5.89612 | -43.9711 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8e5a084a-5d3d-3629-96d4-0df64d8a5b79 | -5.85286 | -43.73627 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0b9c540b-c9e9-3421-99ec-d42144f073d6 | -5.85223 | -43.74001 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 48d30024-f23a-31f7-9509-2b23e8be192e | -5.85161 | -43.74376 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 341ff3a9-c5a8-348d-abfe-a91a02ab5bdf | -5.84745 | -43.74309 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 910d6834-8579-31ba-9e36-20f5134bb099 | -5.84682 | -43.74687 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c8920d8c-edce-39fa-b1c0-24b7505aa9bd | -5.80332 | -43.92868 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| fb3f24df-859b-3fc0-a82b-33c780f66e22 | -5.79998 | -43.94837 | 2024-10-10 03:55:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 15e127aa-4cc0-3497-8f62-e69f5f2752a0 | -6.36115 | -44.56138 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 3e2af0a5-eb7c-3ccc-892f-f0fde01e24f3 | -6.28819 | -44.5618 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 5936b5b6-0e74-3f36-b408-31912066e384 | -6.28746 | -44.5662 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| e5324fa7-2ad7-3089-86ee-09cdc3d605ce | -6.26399 | -44.96882 | 2024-10-10 03:55:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 0ee65372-2394-3867-91e3-88b83d947076 | -6.26177 | -44.17479 | 2024-10-10 03:55:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ff347c9e-5b69-382c-956e-25b5ecbb7ade | -6.26152 | -44.66714 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 11b3a424-0c98-39a5-9169-754fd1344068 | -6.26109 | -44.17889 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| c8c5d006-8656-3dff-abee-42cf86481f1b | -6.25953 | -44.78692 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| d31759cc-f3b6-3c75-bb38-41d4af84e96c | -6.25363 | -44.79498 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| d7ab89ae-a26c-30b9-a5eb-d8676fcbad57 | -6.21742 | -44.20509 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| c14ea7e4-735b-3dd4-8738-8614e607aeda | -6.21656 | -44.10689 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 18.9 |
+| 5fe23c72-da3d-3c2c-ab66-bd56fefdc32f | -6.21235 | -44.1061 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5763e072-546d-3cf9-9144-66c9a8eb8799 | -6.20813 | -44.1054 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 7c42cb9a-a556-3f31-a65a-71fc060a451f | -6.20747 | -44.10926 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| acd7ea31-746b-3558-8690-3cb9d89e759f | -6.2039 | -44.10473 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 747b0aea-5715-3ad9-9614-b51a12230148 | -6.19458 | -45.0365 | 2024-10-10 03:55:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 7fc98800-bd16-3465-bde6-33755d3a87e8 | -6.19217 | -44.38124 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| fd4009a5-b647-3b1b-8583-33b17af5537e | -6.19151 | -44.38516 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| effcabac-88d9-3b9e-8fe2-e20501453b1f | -6.19006 | -45.03582 | 2024-10-10 03:55:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 167bdaa3-6537-3ea9-8e21-198405338ae1 | -6.18786 | -44.3805 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 433f6376-d140-308c-90c4-a81b44f7a954 | -6.1872 | -44.38444 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 974a99a7-9bed-327f-8d2a-24aebbaddd6d | -6.18051 | -44.45049 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f028d14f-d644-3112-a8cf-505d414f4617 | -6.07606 | -44.64005 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 54bcf432-11b7-36a4-a5d9-215df7dcd808 | -6.07533 | -44.64444 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| d4f71881-8aa5-3bab-9c77-1debbec71f1e | -6.07094 | -44.64368 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 8c9727a4-52a1-3da7-94f3-72cdf5d77fbb | -6.07022 | -44.64803 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 76ebe51e-e35d-336b-9595-c710410c7279 | -6.06655 | -44.64291 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| cc240975-2ea9-3ab4-ba72-bdccc948e37c | -6.06583 | -44.64728 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 81b20c1b-3cb7-33a9-9137-d10757b22825 | -6.06526 | -44.70507 | 2024-10-10 03:55:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 7fe05648-faec-3d26-9c8b-247198cb60a2 | -6.03951 | -44.23268 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 56f82abb-a062-3800-8c91-55a42a375b64 | -5.95414 | -44.58574 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| df613640-5b82-3a80-9f0d-d9de313c6ade | -5.95099 | -44.74054 | 2024-10-10 03:55:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b237c939-1d97-3edf-8d9d-48850c99e1c0 | -5.94975 | -44.58506 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 8327328a-5a26-3f75-a567-6896fb4464cd | -5.94904 | -44.58931 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| a6e7e54c-6b00-392d-a25c-d52f099d91f2 | -5.94654 | -44.73989 | 2024-10-10 03:55:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 979015da-9145-3244-b904-268315f40241 | -5.93076 | -44.53753 | 2024-10-10 03:55:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 8f20f09a-8e3d-3389-8fcb-6ad43a961995 | -5.91477 | -44.63181 | 2024-10-10 03:55:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c5d7a0c6-3d28-3d72-a0c2-590592b1dd24 | -5.70469 | -44.77934 | 2024-10-10 03:55:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README45.md)
