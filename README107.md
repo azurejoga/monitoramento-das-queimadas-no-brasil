@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c2004e34-82f8-3291-8971-8d110586fef8 | -4.14101 | -51.09685 | 2024-10-10 04:44:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 2b6a8eae-ac2d-3446-9665-89473cb08dd7 | -4.14046 | -51.1003 | 2024-10-10 04:44:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| a1f3d0a0-c5db-3d9f-9c19-9450af27d1a6 | -4.13991 | -51.10375 | 2024-10-10 04:44:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 17f2ebb3-f2bd-3071-a4f8-5275d75e8da6 | -4.13714 | -51.09979 | 2024-10-10 04:44:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7d8fba0b-413b-307e-b2be-f2bb7e2a2a28 | -4.13491 | -51.071 | 2024-10-10 04:44:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 62a6a8b0-5215-3039-aed1-774a2df627dd | -4.13004 | -51.18759 | 2024-10-10 04:44:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 35b6e7a7-5db6-3ce2-b4a4-0b1f1901e169 | -4.12672 | -51.18707 | 2024-10-10 04:44:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e1d1b360-f68e-3b9e-bbbb-4aab81f41a83 | -8.88542 | -53.05804 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 21539d5e-13a1-3408-95ad-2e42e391a347 | -6.39592 | -52.72554 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 32999db3-095c-3481-be2f-41781d14273a | -6.39311 | -52.72133 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 08161393-1be3-34d4-bd56-b984ddb804a1 | -6.39252 | -52.72499 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| c0b79bed-9858-3f45-bdbe-cc2ee8953bad | -6.38913 | -52.72444 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| d153a73d-c146-3894-b8cd-4a3feb9f7b8a | -6.38854 | -52.7281 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| a7caa429-5c3e-38dc-8b61-f76d080dfaf7 | -6.13721 | -52.69669 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 896f9124-05d4-3ec5-9ff9-b2f2f83a5c71 | -6.13662 | -52.70041 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b2f7a40c-7d9f-3eff-81af-f594d37d00c5 | -6.13603 | -52.70412 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 44657f42-b395-3ab5-a393-091491d3b343 | -6.13439 | -52.69248 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 62d3e9da-401c-3f6d-835c-2aa60bcee614 | -6.1338 | -52.69617 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 385703dc-fb1f-33ce-bfb0-49db5d559382 | -6.13321 | -52.69987 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7f416360-9747-319b-9b3d-f5ccb02d2c56 | -6.1304 | -52.69565 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d415b05c-5bf2-3033-920b-0fed511898f5 | -6.12981 | -52.69935 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6f2ead7d-e7b8-3de8-9ab1-9a7cfdeee025 | -6.12758 | -52.69144 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 85d5f40c-c415-3495-9fbb-ed6c8031286b | -6.12699 | -52.69512 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bc2837aa-3e4b-3492-9065-a3fd30dff3ff | -5.96335 | -52.40042 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 80c45991-689d-31d4-855f-7e5efd161bc8 | -5.91308 | -52.56369 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4670cef6-a998-329c-bb90-a480abb38b36 | -5.9125 | -52.56735 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 797692e7-00f1-30ed-826b-91502ac59767 | -6.45618 | -51.71183 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| bfa4fcce-4835-3343-9f66-a5692f4b12ed | -6.45563 | -51.71532 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 33c8f6ab-2f30-37e6-9cd0-875b86a66443 | -6.44513 | -51.65288 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| cf558e7c-3ccb-3994-8ecd-138d51ce9503 | -6.40753 | -51.71874 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a7a50d82-83a8-3394-baf1-0ad7fed42cf7 | -6.40532 | -51.73273 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5e9fcd75-e3ee-32d6-917f-60aebac90761 | -6.40531 | -51.7112 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 41cffff9-a496-32af-98e8-32d162af29ec | -6.40476 | -51.7147 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 657b2cb9-b3a5-3afa-9b64-327a18d1691a | -6.40421 | -51.71821 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 14ef2b42-3fd6-3c38-9b7a-5dbd630c4260 | -6.34776 | -51.70932 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 66b7d16c-29ff-3902-ba60-c18fd9fee8ea | -6.20686 | -51.50478 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 266cadbc-b4a8-35be-aa45-3cadcf53c02b | -6.20631 | -51.50825 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ea5cf45c-c726-3f91-83e8-24a923132f84 | -6.203 | -51.50773 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a37a8924-5ee2-369d-a521-b3b60cd64724 | -6.20245 | -51.5112 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 72cb1592-0232-3d67-9fe2-4ceb84983c4b | -6.19804 | -51.51762 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f11b2c10-c518-3cda-bbcd-386114d61194 | -6.1185 | -51.69776 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 91c49e62-c25e-3aaf-82ac-8c8f32f89172 | -6.11518 | -51.69723 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 04c2df54-b55b-3b63-a0bd-8e1b12ecd4b9 | -6.05396 | -51.52687 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ad325abc-33be-3826-99d4-b1f72656a70d | -6.04448 | -51.37238 | 2024-10-10 04:44:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ae1422e8-b111-38dd-8d87-2319262813e3 | -6.03954 | -51.2082 | 2024-10-10 04:44:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| c132c0a6-c858-3e1f-9e85-e0402a795ab1 | -6.01943 | -51.35741 | 2024-10-10 04:44:00 | NOAA-20 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 8e33927b-e17e-3df5-b919-047ded03d1cd | -5.97472 | -51.78979 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| de4a493c-f7e0-315e-a6e6-8c277bfed1ea | -5.94072 | -51.59762 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 0c7f00df-ea11-304e-bfac-c6a858d00892 | -5.94017 | -51.6011 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 63a2efdb-6222-3a93-a161-30a9c1d8d155 | -5.927 | -51.27594 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| df19a16d-195e-31e4-b605-f8255ff0ff73 | -5.91466 | -51.44044 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 3a3a43d2-6c66-344a-9f78-11522204d275 | -5.83408 | -51.62794 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| aac23d17-e753-390f-9507-43676624dc79 | -5.81524 | -51.53214 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| e8c3e2a5-f845-3d3f-b9d3-a401aebc7aca | -5.76157 | -51.44138 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1ada2542-8744-3b56-a2ab-de82f91fde1f | -5.76102 | -51.44485 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fe50a593-01a4-3afb-84b5-3f807c89def8 | -5.76048 | -51.44832 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cf5f0fb1-378f-3782-9996-d077b71d66ae | -5.75993 | -51.45179 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5ffdbfbb-4692-31a0-b780-a13c4f51d04f | -5.75938 | -51.45525 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| bdb54af1-fed3-33f5-a8ac-16eb6c209516 | -5.75883 | -51.45873 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6a13a003-c560-3d95-afe9-2526294361b2 | -5.75771 | -51.44433 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bbf0786a-e625-3799-9c73-075a8668e34e | -5.75716 | -51.4478 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e1e6859e-492d-3b3d-a39b-f6e48897a540 | -5.75661 | -51.45126 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| ed38c776-5c5b-377a-9c6c-f668eb4c8f92 | -5.75606 | -51.45473 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| bda91c73-2155-38d0-a6f8-79215b046aa4 | -5.7533 | -51.45074 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c6b78101-c7a4-3756-b123-210389ba7062 | -5.75275 | -51.45421 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 02785259-3721-3f4f-ac55-6b0cd8efa6c4 | -5.63546 | -51.20844 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 1259b0ec-743e-39d1-b889-8f32e9019ef6 | -5.63491 | -51.21189 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| e4cb4497-2355-3595-b5fa-ce465656eeae | -5.59924 | -51.69446 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 194b3de2-9153-3c0a-9375-15c87a6e12af | -5.56047 | -51.61666 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 385b5c8d-36b9-362f-a3dd-cee5fb82ea2a | -5.55991 | -51.62015 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a78a5a39-c3c3-3f23-96dc-2713a6126b80 | -5.55686 | -51.6194 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8ea14a15-a60f-3eea-8eec-c52f588cae14 | -5.52951 | -51.34044 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| fa1fcb50-0e3d-35a7-afbe-7ed1129b9ce6 | -5.46028 | -51.177 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 5e9ac008-41bb-3ef7-9175-ef1ce0232bef | -5.45243 | -51.09789 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 28de6a55-2ef9-330d-b5b4-8158222a465a | -5.33582 | -51.57763 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0a1a0f72-44c7-30be-b633-e48ae35c0cf7 | -5.07475 | -51.95547 | 2024-10-10 04:44:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d48717c8-74a3-3961-92ff-83b135a4f0d6 | -5.07418 | -51.95904 | 2024-10-10 04:44:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b73f30d3-6e95-356a-b2cf-6fd7ed363bc9 | -5.0714 | -51.95496 | 2024-10-10 04:44:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 55147bda-5af6-3d39-a95a-c4a939c7f157 | -5.06925 | -51.95441 | 2024-10-10 04:44:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 316a73b6-725e-3096-a554-581d7ac70e5d | -6.972 | -51.6083 | 2024-10-10 04:44:00 | NOAA-20 | TUCUMÃ | PARÁ | Brasil | 1508084 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a7bca28b-7af2-37bc-b25a-cb1f350fc5e8 | -6.95927 | -51.58138 | 2024-10-10 04:44:00 | NOAA-20 | TUCUMÃ | PARÁ | Brasil | 1508084 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c1ee4c25-1bf0-3ca8-a914-501be4c3bfd7 | -6.85963 | -51.50176 | 2024-10-10 04:44:00 | NOAA-20 | TUCUMÃ | PARÁ | Brasil | 1508084 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fcb64b30-2516-335c-9863-99276f004521 | -6.53964 | -52.59498 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c43e4b48-6810-3dcb-baaa-06a94c021f3b | -6.53287 | -52.5939 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3d91723c-cd62-3cf7-810c-e4722f826cdd | -6.53229 | -52.59752 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fee5541e-300c-3283-85df-42b72482f01d | -6.52949 | -52.59336 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1f567d3e-a6ce-3336-834e-24f3328e2572 | -6.47061 | -52.60653 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8f8e6fbd-f66b-3769-9287-09e8dbdc58d4 | -7.91389 | -52.35428 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 450d42c0-69b2-396b-aec6-202351281299 | -9.33993 | -52.55152 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 562fde83-b3bb-3a26-b6d9-d17a4fb9c028 | -9.33442 | -52.54327 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| b09b53a5-992d-354a-9b47-663afa24b262 | -9.33327 | -52.55042 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 5dde1ecc-2ff3-3285-8479-a927bb2daf25 | -9.06671 | -52.96112 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 287efc39-3712-3155-81e9-be46bfcf1d70 | -9.04522 | -52.98723 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| b17cb20d-b176-3cb6-8b97-c6c0d0c879ad | -9.04244 | -52.9831 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| ba13ef17-06d9-3009-b5c1-20988c7d5d05 | -9.03966 | -52.97895 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b0ec0133-e83a-3d2e-b2e3-c6151c1476d8 | -8.98719 | -52.80059 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c9241b36-981c-355b-8b5d-f7cfb8dfa7ac | -8.98442 | -52.79642 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| bbda3dfa-b2c8-3b68-924e-264b548906cd | -8.98326 | -52.80364 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 2253a214-22bb-327e-8ad2-577a2112562d | -8.98221 | -52.78878 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 007e951d-4041-38ba-aa47-085f45e288ff | -8.97656 | -52.80253 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9393af22-eca1-3046-9e89-a3f177f53cd0 | -6.75151 | -59.32766 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 68410a56-3bdc-3081-aeb6-40d45a0a3c15 | -6.75092 | -59.3317 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 64a251d2-5727-3b8c-b746-4ceb1b5ecf3e | -6.75033 | -59.33575 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 4d2b411d-6c77-383c-8604-fcb5e3c1d691 | -6.74779 | -59.32306 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 158e4678-5ca2-3e4f-be97-07288c0b23e9 | -6.74721 | -59.32708 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| bf760461-a4be-3de6-b89a-046b089a275e | -6.74662 | -59.33112 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| 8778ceb8-71aa-301b-b5fc-f4858a95351a | -6.7435 | -59.32238 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c62ce262-3633-3b38-8a28-6d1de416c5b2 | -6.7279 | -59.6652 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e33f3924-cbf3-39eb-b5a5-ec9b78c0f34c | -6.7269 | -59.3159 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 7cd7d2ff-388f-3343-89bf-aa9c3a34ee4c | -6.72632 | -59.31992 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e8c364db-bd34-3b4d-927f-ce35de680415 | -6.69406 | -59.86464 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 988c187b-899b-3bdb-9c87-c6980725b889 | -6.68992 | -59.86402 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 07448628-1044-35a0-8cef-de890844d502 | -6.68892 | -59.4285 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a739af85-8864-3a9f-94a9-136e5a62fa5f | -6.63562 | -60.06145 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 37a0c595-99bb-3734-a949-42dabbb47d9c | -6.61081 | -60.00241 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 79f34bac-bb8b-37ce-9179-6a6d9f30b8f7 | -6.6062 | -60.00538 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| dca1aba3-4488-3eed-a8d6-bafc00599bc9 | -6.60262 | -60.00116 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2f341946-d84e-3887-9750-26932351d0a8 | -6.55407 | -60.02799 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 73f6a4dd-cead-370e-80e9-e3cedb4c1ff8 | -6.55354 | -60.03159 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 96bbae88-902d-34b0-acdd-b7780d87497d | -6.553 | -60.03517 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 431fa43d-85ba-300f-8647-0a89b2a14a27 | -6.55104 | -60.02024 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 15d81825-8116-30fe-a1f3-441af3be1be7 | -6.55051 | -60.02385 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 91aa9d55-aec4-3daa-987b-df3e0e25225e | -6.54997 | -60.02746 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 10fa03e0-40c9-374f-8416-d7416e6a7b85 | -6.54944 | -60.03106 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 73e3aca1-92a9-3ab5-8aa9-f9b0b96b8748 | -6.54641 | -60.02331 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9f3a39e7-a0c2-3b2a-ac57-a46359ca70f9 | -6.54535 | -60.03053 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| e5b565c2-d1e7-314e-94f7-5fcdd1452927 | -6.54341 | -60.01538 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ab702854-4a19-37aa-a65d-31c96ba31ccf | -6.54183 | -59.76652 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3f1ff0b0-ac5a-366f-b90c-2db92b9d6d0a | -6.53822 | -59.76213 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ee0c1efb-3dfa-36f3-9dee-7122870a78bd | -6.52426 | -60.06046 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2ad7658b-f910-32d7-821f-40bacfee58eb | -6.51664 | -60.05563 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6fe13b04-7492-3df6-b04a-58a301bb58a2 | -6.77941 | -60.04516 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 4801f40a-39b5-3082-89d6-3a5c15451a75 | -6.77887 | -60.04875 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 0d4ab073-7cd2-3b38-b68c-92c33ca9a807 | -6.63616 | -60.05781 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a96edff1-2191-3b6c-ba89-ad860307109f | -6.52478 | -60.05695 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a6296213-9878-3283-b4df-f14d8878c557 | -6.52123 | -60.05272 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| baefba0a-e615-3821-a2f4-fd1af550948c | -6.52071 | -60.05627 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1d98ca31-370a-3e46-b31b-71802e3f2221 | -6.5202 | -60.05979 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d0552211-44c0-3912-b5cc-6a6167754be2 | -6.51613 | -60.05916 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 16ed5267-87bd-3a33-a92a-325746b7e4b0 | -6.51038 | -60.09849 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 440dedf6-6171-33e7-ae99-324655d93e8c | -6.50631 | -60.09787 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 56a80c83-204b-372c-bef6-03e4f88922df | 0.83598 | -60.47307 | 2024-10-11 05:40:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 62db3ae0-ccca-324a-948f-1f168d3b3e32 | 0.816 | -59.84757 | 2024-10-11 05:40:00 | NPP-375D | SÃO JOÃO DA BALIZA | RORAIMA | Brasil | 1400506 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 5661864d-295c-3022-b81e-320ec53d5acd | 0.81227 | -59.84816 | 2024-10-11 05:40:00 | NPP-375D | SÃO JOÃO DA BALIZA | RORAIMA | Brasil | 1400506 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 4f3c251d-c85e-31a0-b6c7-cf7ac1c1616c | -1.44422 | -60.29252 | 2024-10-11 05:40:00 | NPP-375D | PRESIDENTE FIGUEIREDO | AMAZONAS | Brasil | 1303536 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| fbe7823f-da48-3931-877e-28f531410479 | -3.08786 | -60.29418 | 2024-10-11 05:40:00 | NPP-375D | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 43c5d1d9-a91c-3cb5-8702-bd8999481bb2 | -3.11435 | -61.10019 | 2024-10-11 05:40:00 | NPP-375D | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 6f703111-815f-32b9-897a-12a31954abc6 | -4.7141 | -60.82034 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3854d9dc-a3f0-3c41-b060-086a80ea7ca0 | -4.71355 | -60.51379 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 80d50720-a6a5-3f6b-9637-622f969d5b6d | -4.71031 | -60.81977 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 37217bd6-bb03-31df-96d4-b0d56a9d9157 | -3.78112 | -60.12687 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| bcf1d716-89e7-39b8-9fcd-63b84620a1d3 | -3.77771 | -60.1246 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 37702b7e-b3b3-3882-991c-794fc17c5c6e | -3.77721 | -60.12626 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 54ba6546-ed00-3755-a22a-629ccf7614f8 | -3.77695 | -60.12948 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b92cc1d6-136c-3672-86b2-57a43c6729cb | -1.92194 | -61.73092 | 2024-10-11 05:40:00 | NPP-375D | NOVO AIRÃO | AMAZONAS | Brasil | 1303205 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 9e604038-9960-3c78-80f2-4804ba95a6e7 | -1.51447 | -61.59283 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| aec3f30d-e812-334a-8b67-c8b049c54552 | -1.51096 | -61.5923 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| a9b5a157-1f49-374b-a252-1651df185c90 | -1.48931 | -61.59294 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b8481c62-d6c0-370d-beb8-78a034d71296 | -1.48871 | -61.59682 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 41b7eb26-b941-3762-baac-ca9bad2785bc | -1.48866 | -61.59307 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 6db90f59-fdb1-34d8-9b52-b86395cd5558 | -1.48812 | -61.60068 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ac42d83b-6510-3f22-ad67-27319b58aed1 | -1.48805 | -61.59695 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 648ea18c-7e42-3922-acd0-c97bf8677af0 | -1.48744 | -61.60079 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 3650f312-22ee-3827-9bd5-0b9b2f426ab3 | -1.48332 | -61.60412 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 1a06ad31-1551-3b9a-9851-23fca9ad6d59 | -3.04752 | -61.67825 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| f31bb023-fb8e-354b-9ab1-223b5132e93f | -3.04691 | -61.68224 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 4551887a-9eeb-3275-ab57-7c5cb5a8bd23 | -3.04336 | -61.68169 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| dcc4e69f-7bac-3984-956c-758bcf0c87f6 | -3.04274 | -61.68567 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 0e96c9d9-708b-3400-a325-29e3cf6b4627 | -3.03981 | -61.68114 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 884932bb-d857-35cb-9177-18bc89bdf5b9 | -3.03919 | -61.68513 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 8b13b278-7cb6-3d5a-ab6e-316d265de262 | -3.03626 | -61.6806 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a2b4edb5-5845-3848-bf49-94c970a5e107 | -2.89462 | -61.87325 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| b9b11f25-c05c-355c-b921-6da1f48b8f57 | -3.28944 | -61.51103 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 33183cc8-aec2-3e19-bac8-5107020eb4ae | -3.04629 | -61.68621 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2b7be702-b7ca-317c-bdfb-355196495bf8 | -3.04397 | -61.67771 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| d3c5b72f-f1eb-3169-a085-88d75c81686d | -3.04042 | -61.67717 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| cd0154ff-3b9f-31d3-bc10-21d4940b53e7 | -3.03858 | -61.68912 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| f0043250-34a1-308b-97f7-a58a3e8e7e7e | -3.0018 | -61.41654 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 2c50bd81-430a-38f7-bdec-a3869ac04ec5 | -2.99821 | -61.41599 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 0a809c3a-2718-32a1-bdab-51d1d437167e | -5.87192 | -63.91131 | 2024-10-11 05:40:00 | NPP-375D | TAPAUÁ | AMAZONAS | Brasil | 1304104 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b6204762-e159-3657-a765-e2d731503d0c | -8.70318 | -66.99901 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 91e4119b-a8a8-31b2-863f-9cf73fada234 | -8.7026 | -67.00262 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| d3aec71e-e382-3bae-948d-d3987e58d2dc | -8.6998 | -66.99845 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f38ebdc6-5800-3626-8f24-c47b11cc3e40 | -8.69922 | -67.00207 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ed32987a-2ef9-3f9d-8621-0aa9caff485e | -10.0993 | -67.35029 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8908198b-57f7-39c9-a42a-e5b0fd280bdc | -10.0965 | -67.34609 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 55acbd65-20b2-3151-9abd-219f7fbef374 | -10.09192 | -67.13773 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 02247c77-fc61-3c57-94e4-3455bf9714c9 | -10.08856 | -67.13718 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 9499f1a1-1284-33fd-87e2-a1dcea3750e6 | -9.7538 | -67.56498 | 2024-10-11 05:42:00 | NPP-375D | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 66ec0064-c8c2-3aab-8437-c4c67230cb62 | -10.85635 | -68.2823 | 2024-10-11 05:42:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| eac7fa1b-270b-3381-904a-afdc47403ebd | -10.85572 | -68.28613 | 2024-10-11 05:42:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| be2500a0-8ee4-3339-a47a-df33f4214ea2 | -10.48512 | -67.79676 | 2024-10-11 05:42:00 | NPP-375D | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 42863016-8561-3583-9e71-d77f6958d14e | -10.46915 | -68.41407 | 2024-10-11 05:42:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 6d423717-7b62-3cfc-9684-ca4435007e18 | -9.62506 | -51.76361 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| fff06472-68f0-3c3a-bc15-246990ba0dbf | -9.6244 | -51.76585 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 138936bd-c7f3-35f6-8507-b8811d1cd8b3 | -9.62418 | -51.77113 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 4e7d50df-27b1-37cf-a0db-6404b8ae25d7 | -9.03824 | -52.94383 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1e146a3d-11ba-396b-a871-7f9045c0fea5 | -9.03756 | -52.9495 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1afb7e3f-7239-3e33-a282-8e023f165250 | -9.03658 | -52.94409 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f18d54bb-67a4-377b-825c-e63d59404c44 | -9.03588 | -52.94964 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README108.md)

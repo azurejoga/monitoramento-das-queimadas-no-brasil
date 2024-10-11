@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| db28d209-56c0-3a8c-863f-05db5c796f33 | -8.97274 | -52.7836 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2e945ff8-00b6-3e81-abe0-dec872610083 | -8.96327 | -52.77837 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 62c75aeb-4d98-34e1-a54f-1ccc126344b2 | -8.94777 | -52.77603 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a1ee9f28-f90a-3bf0-9665-aab85b5b3353 | -8.94099 | -52.79698 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5e30c0a8-af6f-3c0d-98c2-749b1e7a7fc2 | -8.93764 | -52.79643 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b4a6fc87-9ea6-3aac-bd9e-4d1611b69af6 | -8.93372 | -52.79946 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| e72d5d3c-3764-3e6b-b121-718070e2014d | -8.9298 | -52.80249 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 22aa1ab0-c3be-3547-9255-6cad615dd3bc | -8.92644 | -52.80196 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f8194904-cd11-303c-bfbc-fdb77f34905a | -8.92383 | -52.75384 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 2ba65ef1-4485-314c-85e8-86c477bac045 | -8.9208 | -52.81575 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 0623ef96-b800-3989-ab79-8538173e46a0 | -8.9047 | -52.78743 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f89cfa6c-cfe1-3bcb-a4a3-ca7bfc0c870d | -8.89915 | -52.77918 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 79beacee-548d-3e18-8887-df9dc0ce53aa | -8.87985 | -53.04963 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a2a55fa3-aecc-3b4f-83fe-443ac5241a1c | -8.87926 | -53.05326 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d5fed424-1e48-3f41-906a-6c680238f6a5 | -8.87648 | -53.04904 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 669ee3fe-a140-30ab-99f2-5955409f2dd9 | -8.87512 | -52.99297 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 598f4191-55f3-3bd7-9157-77dd77a421d4 | -8.86781 | -52.99541 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| ff58a1d9-4f70-32d9-9d5e-09b5db523182 | -8.86767 | -53.01775 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 9bebd46a-f6c6-3ebb-a4ab-0e5b17a6c227 | -8.86503 | -52.99123 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 4a4d068c-bb74-37a3-9d55-efba1cb66edf | -8.8646 | -53.05828 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 385480f4-cc1f-34d7-ab79-56b719b43446 | -8.8643 | -53.01718 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1654a950-335c-3f74-88da-115d17b9ec6e | -8.86137 | -53.0354 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 1270cf3f-9b59-3b0b-9eea-7de7e2cb42e6 | -8.86051 | -52.99781 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 88fbfb09-0593-32b1-85f4-cd9df78cb02e | -8.85654 | -53.00097 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 08941614-8a25-34d8-8677-894b1b215363 | -8.85596 | -53.00463 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 17037c05-b498-3219-8ffe-1d6b0069175c | -8.65665 | -53.08515 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| cd0ded41-6718-3c86-a2f3-a36e173fa3f8 | -8.56204 | -51.80105 | 2024-10-10 04:44:00 | NOAA-20 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8ebb4a42-4e4a-3f0a-a856-8e3e73c39625 | -8.54772 | -51.80586 | 2024-10-10 04:44:00 | NOAA-20 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 7d314964-d2e7-3e2a-aedf-d57a4a08d690 | -8.54386 | -51.8088 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ebd600ca-6e57-31b9-880c-90ee92f6eaaa | -8.25787 | -51.79199 | 2024-10-10 04:44:00 | NOAA-20 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d1fca253-eb8a-3022-860c-29b3fc3eebda | -8.07053 | -51.64445 | 2024-10-10 04:44:00 | NOAA-20 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 4c153ff7-484e-3f3c-9782-3937602decd8 | -8.0671 | -52.80064 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 62364407-2e7b-3f1a-90f0-65cde122dc5a | -9.18393 | -52.03659 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 87d2142c-3598-3abc-978a-acebcf0b02a2 | -9.03826 | -52.09911 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 5f34f9d7-9fba-3cd2-81c7-d87e12c6677f | -9.03605 | -52.11308 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 660dfb7f-ee97-3286-b7bb-4972a46f815c | -9.03164 | -52.09802 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e068d8ae-5276-3f69-83b0-52d8fe09439e | -8.94259 | -52.12344 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 773d88a5-644d-3d6c-aaac-5793f3f14480 | -9.35671 | -52.5107 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 3d01ac7b-910e-3778-bb31-59fff79cb367 | -9.3366 | -52.55096 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 05af6da0-ae14-392c-b9d3-e03c37dbad40 | -9.06335 | -52.96056 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9658c701-0d03-37ba-ade4-937a53998622 | -9.03936 | -52.11362 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 2ef473ed-ed6f-33ee-80db-6cb9774c89dd | -9.03908 | -52.98255 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| a2d6b777-91dd-33c8-857c-d814649d605c | -9.03881 | -52.09562 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 69be801c-a0e5-3718-b3c0-1c92a682a6d7 | -9.02833 | -52.09748 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 7c90bf6b-e477-3457-a4a9-12b96c324e7f | -9.02777 | -52.10097 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| a6464457-91df-3bfe-b50d-6e4a535aae97 | -9.02501 | -52.09697 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a24038ea-2c21-3df2-96d2-26302d463b5e | -8.98777 | -52.79698 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 7ba724b7-4e21-3ee4-8bfa-c0b69a8dd4d0 | -8.98556 | -52.78933 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 710b78cc-e863-3e14-a517-61135dc45cc3 | -8.96939 | -52.78305 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 8df3c537-5d45-3241-b25d-90b837eedd3c | -8.96604 | -52.78249 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3499914c-4708-3733-96e9-623663c021f8 | -8.96117 | -52.77823 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 51725c41-1370-38f9-ae5c-92dcf1eec0fb | -8.95782 | -52.77769 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5a826cfa-9dcb-33f6-a314-8556318b2522 | -8.95447 | -52.77714 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f46d5070-630a-31bd-a421-14593df4bc61 | -8.95055 | -52.78016 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fbcd6c6f-0e01-3bbf-a714-578228a7e7ba | -8.94314 | -52.11995 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6c796114-9f31-345f-9599-071ca3ad3db6 | -8.94204 | -52.12695 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| aa93c296-18a3-3ac5-a09a-92587c0b9392 | -8.92587 | -52.80554 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 07bfa7b4-ae9f-3f23-afe8-9ee5100f73cc | -8.9253 | -52.80913 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 673ba3f9-50c0-3703-8464-a7dccf586c84 | -8.92472 | -52.81271 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 039bc834-5705-32d2-9f1a-f56f3ee08188 | -8.91753 | -52.79317 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 9845ffc1-5572-31eb-ba01-c0afaa9bfc43 | -8.91418 | -52.79263 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 13614c61-2fff-3804-ad8b-eef9a0ae348a | -8.91083 | -52.79209 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7adc808a-7907-37c3-83ea-844a026e3124 | -8.8958 | -52.77865 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a0bf83af-b6aa-37a1-a834-b27624e4b3cd | -8.87906 | -52.98993 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 02c40638-ec68-39b2-8688-d99dcaf92ee4 | -8.87589 | -53.05267 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 2470a486-b9bb-3093-a8fe-a6eec0741350 | -8.86857 | -53.05518 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 456cf7db-d602-3739-aa54-505ac885d2dc | -8.86839 | -52.99183 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 4c3ed6e8-c07b-3083-906d-5e742bdc100f | -8.86708 | -53.0214 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2c080b0c-037a-3f87-9977-504640808b1c | -8.86519 | -53.05462 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 56c996da-679c-3fcd-ae5d-a87479e482ab | -8.86299 | -53.04681 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| fd559d2a-126a-31e2-be28-19df63bcda4e | -8.86254 | -53.02812 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| dad4d609-5407-36a3-93c4-de2fa07fb811 | -8.86166 | -52.99067 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 88b88768-caff-3d83-b0f7-3bea8497af0b | -8.86109 | -52.9942 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 434a13aa-5362-36a6-869c-25d096244550 | -8.8602 | -53.04267 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 6a9cf713-5692-352e-b7d0-6e73377c85bf | -8.85772 | -52.99369 | 2024-10-10 04:44:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 8eeaf5c6-289d-3b8e-923a-06159b7c0e8f | -8.85714 | -52.99731 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6d4b183b-62dc-3ad1-828c-d3d08e98035e | -8.66019 | -53.06315 | 2024-10-10 04:44:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d2f44379-7b0a-34c2-be96-f3c1ffe42716 | -9.78283 | -53.1769 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| fb269632-80cf-3e43-ada8-cff274158e4a | -9.78224 | -53.18052 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 814c14d1-2f4f-319a-b985-1ce86a41a25c | -9.78123 | -53.1655 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 4580f995-743a-3347-8141-6c5eadfb7e00 | -9.78064 | -53.16912 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6fb218de-dd46-3c5b-a11c-a85513797935 | -9.78005 | -53.17273 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e5a2e756-35b8-3d35-a415-b5394cb39dd5 | -9.77946 | -53.17635 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 729ed5fb-1df9-3922-9226-cf39437416c3 | -9.77786 | -53.16495 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 74054f24-3000-3596-8da3-2096b9bfd687 | -9.77231 | -53.1566 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5c03c15b-c4c1-3d45-a06b-ab832cdfd0f3 | -9.77069 | -53.15664 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 470632a1-a0e0-3940-b159-b3bebaa814ae | -9.7606 | -53.15499 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| dcc2ab18-d298-35e4-8b63-dd8d78994c69 | -9.75445 | -53.15027 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f57d6c6e-875b-3e5f-9df2-de590d0bf155 | -9.75108 | -53.14972 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d2a1ad66-e8ac-375e-bcf6-418634927c09 | -9.74876 | -53.1642 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 963c4bb2-cdaf-39d2-a0e9-07b9d4cd5c20 | -9.74655 | -53.15642 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| df2dab14-73b9-301d-8916-3180eb493256 | -9.74539 | -53.16365 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 21f4c795-ce3d-3570-a7fb-6eedb57127a8 | -9.734 | -53.19154 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b6ce304d-7290-3290-8bb7-dacdcbcab07d | -9.73063 | -53.19099 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d9b9f2c9-ce2b-349c-a265-368abe969a9c | -9.72448 | -53.18626 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 205d48e1-e77b-3a8f-872d-f3fd5d2fc38b | -9.71701 | -52.82706 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ce7ba3c1-cb2c-3489-8739-276fcff920d7 | -9.71643 | -52.83062 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4e2fdc24-9506-3b5c-98c1-9b0cb3f9695a | -9.71529 | -52.83773 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| ccfcbc1c-aaf9-35fc-9fbf-54ba8c9d5ec2 | -9.71395 | -52.83001 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| d89d0ab7-8660-3443-8bca-cc347bba5b76 | -9.71338 | -52.83358 | 2024-10-10 04:44:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 619503ed-d6cd-3cb4-bea0-bb9b7a9ea9a1 | -12.96824 | -53.51004 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c7de9dc9-89fd-3f48-b931-5d295333cb2d | -12.96821 | -53.50759 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 218501d7-654f-3a6b-aee3-bb724dfa0950 | -12.96206 | -53.50293 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| c18b1c98-8ca8-3438-a7e7-1613969d6242 | -12.9614 | -53.50922 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ebab37d9-7a86-3a9c-afab-0632e31642bc | -12.96138 | -53.50679 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b74690d4-883d-3169-a8dd-de8d070c9d3d | -12.88066 | -53.48431 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| d97c2d16-667a-34d2-9650-1c13e6181efc | -12.87999 | -53.49065 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 3b4d16eb-ff65-32a1-8ea2-0e0708f1fd1f | -12.87945 | -53.48467 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| a592cdcd-45fd-3e34-b839-b72df4b194a2 | -12.87874 | -53.49099 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 5544f9f3-a60d-3a50-ba96-dd03b2890b91 | -12.87449 | -53.47719 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| c751c7e9-bb7b-3117-ae87-78d22f195490 | -12.87381 | -53.48358 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| 94f8a513-af40-33d2-bfeb-34cfcc07fabe | -12.87332 | -53.4776 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| c0f36300-3fce-3d82-b8b1-82ed5fb47961 | -12.87314 | -53.48989 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| 40b5ee71-0216-382c-81e0-0df736e622f2 | -12.8726 | -53.48396 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 2e1bc739-84bb-3570-bd3e-6770e103c7b2 | -12.87189 | -53.49026 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 5f853b8a-d61a-3893-a308-f5e2da841608 | -12.86763 | -53.47645 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| 196be7ba-f12a-3530-89fb-15ca057b8f3c | -12.86696 | -53.48281 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| a0b50fd9-b061-3b30-bbcb-9ed2c128acbb | -12.86646 | -53.47687 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| 124d65ac-00ef-3f13-acb9-db2adc4907a4 | -12.86629 | -53.48911 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| 6eb62edf-690c-3b41-a95b-53416e0f0d26 | -12.86575 | -53.48321 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 959319c3-0063-3990-95df-d4de6b2e5ce5 | -12.86504 | -53.48949 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| b8bc6f84-cb76-3d9f-80b6-07f1b143b5a7 | -12.86434 | -53.49575 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.2 |
+| 89b628b1-5ac3-3e76-a763-43d617870c02 | -12.86078 | -53.47566 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| b9c4981c-1164-35f7-b24a-92b005470270 | -12.86012 | -53.48202 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| 58bbac76-a3da-34da-bc43-a5dc1380c1cf | -12.85961 | -53.4761 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| 2b683abe-6946-3343-98b9-ef7ba859a4b4 | -12.85945 | -53.48829 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.1 |
+| 45408f97-458f-3537-b8ff-34f3374daceb | -12.8589 | -53.48243 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 2d2bf2d8-8bb1-3c89-9f90-63fb285b20a7 | -12.8582 | -53.48869 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 8988eb46-0317-3de4-8188-c749c8182812 | -12.85394 | -53.47487 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| cf74a7f0-f71a-3a6d-9298-6c52c526157f | -12.85327 | -53.48118 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| 780b06e4-d124-3741-acf6-2f0359d59be7 | -12.85277 | -53.47533 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.7 |
+| 6f0ac85d-93aa-343b-b723-6139e305934b | -12.85262 | -53.48744 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.1 |
+| 61eae1ba-f60c-304c-b987-d6e3b71f679c | -12.85207 | -53.48161 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 43.4 |
+| 62d100c1-b390-33d8-b2c4-9c9a854e7064 | -12.85196 | -53.49373 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 20.1 |
+| 1805de39-f3cc-3446-9176-c0c55928ada9 | -12.85137 | -53.48788 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 43.4 |
+| 9b581782-16f7-3f1f-ace1-ed4bf68d9dab | -12.85067 | -53.49415 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 38.4 |
+| edc620ac-559c-3aae-b9ef-961f720492cf | -12.84709 | -53.47401 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| 56a6a9ef-9e25-37a8-b328-624988bbe85a | -12.84643 | -53.4803 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| 4a010631-031d-3a9d-88c0-3d531e41d7cc | -12.84592 | -53.47449 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.7 |
+| 1a41fd4d-3f9d-3f93-8453-33d352df87e7 | -12.84578 | -53.48659 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| e5cddeb6-f0a1-3f4c-aed2-733e23288631 | -12.84523 | -53.48077 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 43.4 |
+| 6092d69f-0c96-3053-8d48-c68509b14d65 | -12.84512 | -53.49287 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| 85b55b41-3075-34a9-b08b-eeda075a0518 | -12.84453 | -53.48704 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 43.4 |
+| 4ae1d9cb-0d3c-37bd-a4f2-9e4db5c62f0f | -12.84446 | -53.49916 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 137d10f7-de28-3eff-afb8-d972f48e8578 | -12.84383 | -53.49332 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 38.4 |
+| e25c36ac-17a7-36d8-bd8a-e5f9d056a9d6 | -12.84313 | -53.49959 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 38.4 |
+| 33b4baa9-323f-349c-a316-f6cfd71b0e46 | -12.84025 | -53.47313 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| ea0d760e-d11d-3ab8-8b0c-8a7fd8fa8757 | -12.8396 | -53.47943 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 27.8 |
+| 73e25620-b14a-3809-a604-c7c7fbc01ea0 | -12.83908 | -53.47365 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 13b45110-0dab-3a03-a8b2-f87c66f13be4 | -12.83894 | -53.48571 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| c591eb2e-fafb-3378-a5bd-bd80f6bec39a | -12.83839 | -53.47993 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.1 |
+| 03cfe135-45c9-3d18-aed5-92572be731b4 | -12.83829 | -53.49202 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| d2d8a75e-79cd-34e4-8e79-cf7360238429 | -12.83769 | -53.4862 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.1 |
+| 21ef884d-bd73-3c65-8743-aef1598120d6 | -12.83763 | -53.4983 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 84304013-4990-3c78-85fa-1a88d14c4c41 | -12.837 | -53.4925 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 95b8e890-07b5-39c9-be12-09a8e3bdfa39 | -12.8363 | -53.49876 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| cf91e06c-62a5-37be-96ae-48cc7f5decc3 | -12.83342 | -53.47223 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| 5b6b0027-7aa8-3b45-abab-6addc5af5e65 | -12.83276 | -53.4785 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| d5d78d26-3b14-326e-8a90-861c6e366add | -12.83225 | -53.47275 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 47727ca1-256d-3375-bc79-3d8f5161087c | -12.83211 | -53.48482 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 29.7 |
+| 9a4fc235-4e22-34e5-a57c-eced0e5c9f11 | -12.83156 | -53.47902 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.1 |
+| 0d038e0b-a66e-31da-bc62-9a9bc11f52bc | -12.83145 | -53.49115 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 29.7 |
+| fe02d9c4-d6c9-3cf0-8ac4-388b69eb028a | -12.83086 | -53.48533 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.1 |
+| 911b293a-ce82-3356-8003-622a7797ea36 | -12.8308 | -53.49744 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 25.6 |
+| 6ac4e4e7-4fb4-3fc6-a90f-53481fa2c1a4 | -12.83016 | -53.49165 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 831dfb22-01cd-36d5-8db9-8b9845fc6f3c | -12.87587 | -53.46419 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| e2f592ab-d5fc-3b81-8e5e-c18f468859b5 | -12.8755 | -53.45819 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3e4483ed-0210-3488-95b1-e784136aae31 | -12.87478 | -53.46462 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 9c8bdb71-5628-372b-b6c4-5d3826a343af | -12.87405 | -53.47112 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 9e512674-0b41-3089-bac4-62b64d0bdbfe | -12.87036 | -53.45067 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| d9d4fb32-5794-35e6-aa23-b07aa2571731 | -12.86968 | -53.45713 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| cbdc5679-1060-33c2-af76-6fd075d4684c | -12.86935 | -53.45116 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| e87b49df-21c0-3734-bf8f-625274416db2 | -12.869 | -53.46354 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 2e64c549-b0d7-36b5-ae9e-f0c0346b5098 | -12.86863 | -53.4576 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 0a7deb6c-37de-314a-beef-3f0d98eb998d | -12.86832 | -53.47 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 4578f780-5a27-3dd2-b2e2-85695fe02cc8 | -12.86791 | -53.464 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 2c43276f-7921-3c1f-a55c-ec8ddc9890f7 | -12.86719 | -53.47043 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| 98cee10d-3165-3296-9cba-65cc00a71953 | -12.86347 | -53.45013 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 104d96cd-32f6-3309-b2b9-2f106b702701 | -12.86279 | -53.45657 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 5d72c636-106f-3ff0-9c06-06e51365038e | -12.86246 | -53.45063 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| e41d6fbc-5887-3fa2-a0a4-f2f168bb73aa | -12.86212 | -53.46293 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| 328d368c-a25a-3566-9610-afeadec35c16 | -12.86174 | -53.45706 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 839cec4b-37ff-33f3-8dde-3bbed486d0cd | -12.86146 | -53.46928 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| 3dda4ceb-5095-395e-8ce1-0712b783a7a8 | -12.86103 | -53.4634 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 13221ba8-c53b-3c2e-8286-aef56403142d | -12.86032 | -53.46974 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 13.3 |
+| f410964a-be15-3790-abd2-123e7c45b1a3 | -12.85593 | -53.45585 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 68fc284f-bc64-3992-b87b-51fabd227982 | -12.85526 | -53.46221 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| d10cd971-8afc-3321-ae81-6360016852a9 | -12.85488 | -53.45634 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.2 |
+| 52665328-e189-3956-ac54-109d446dcab3 | -12.8546 | -53.46856 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| f7a0172e-8ba7-3772-921c-1151be0ddd21 | -12.85417 | -53.4627 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.2 |
+| 9f5ad320-5faa-392e-b104-ee90214a14a9 | -12.85347 | -53.46903 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.7 |
+| 56947509-9644-34ec-bdea-f23d88ba53dd | -12.84842 | -53.46135 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 14.2 |
+| ee8b50a0-1d48-3678-b590-ab1129fc974e | -12.84775 | -53.46769 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 14.2 |
+| 5548d1ec-5d0d-3575-8aad-66c685e47a4e | -12.84733 | -53.46185 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 12.2 |
+| 723d7d98-76d7-3136-a130-3c5dcc4b9507 | -12.84663 | -53.46818 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 23.7 |
+| 2545498b-0ae2-37bf-b92d-f7e686fabe37 | -12.84091 | -53.46681 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 14.2 |
+| 4a71d810-1e8a-39e1-ab94-7b8b7feeed13 | -12.83978 | -53.46733 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| ebcd8fd1-5e43-331d-b77c-a773e2e9989a | -12.83294 | -53.46645 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| ab5e0406-951b-3b40-a439-3858f3af2244 | -12.64233 | -53.10469 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 0d1f7a37-ee0a-383a-ab6d-304422f5ce27 | -12.46938 | -53.15609 | 2024-10-11 05:42:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README109.md)
