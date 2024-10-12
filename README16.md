@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4a3405a3-2c51-314a-9901-d7e0bf0e390e | -8.61449 | -46.49184 | 2024-10-11 00:56:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 4fa25ee8-b5d2-35c8-aeb4-5305e341c519 | -8.61313 | -46.48239 | 2024-10-11 00:56:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 45.2 |
-| 555d8c06-f1c4-319e-8a73-78830b08d8ab | -8.61178 | -46.47298 | 2024-10-11 00:56:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 26.7 |
-| 23218924-41fa-3a4c-966c-0b48628103dd | -8.5285 | -46.98907 | 2024-10-11 00:56:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 14.9 |
-| 9ea6d48f-8aea-3012-853c-86a5764e7995 | -8.52721 | -46.97994 | 2024-10-11 00:56:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 4d81d092-1789-36f0-a720-cae712e7e055 | -7.99476 | -46.86422 | 2024-10-11 00:56:00 | TERRA_M-M | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| b652b01c-8065-33f9-abc6-b96f512eea4b | -7.99344 | -46.85501 | 2024-10-11 00:56:00 | TERRA_M-M | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| c8d0d169-992b-34a5-b1dd-22b7c67d564a | -7.98443 | -46.85628 | 2024-10-11 00:56:00 | TERRA_M-M | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 9e066b68-c6e6-3659-b3b2-e0e019a31e66 | -9.46647 | -47.29703 | 2024-10-11 00:56:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 14.0 |
-| d6950f6f-a885-34ef-8208-c6ef0caeec3b | -9.46521 | -47.28806 | 2024-10-11 00:56:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 7e62dc41-709a-3635-9672-e7a19acdf093 | -9.45761 | -47.29831 | 2024-10-11 00:56:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 23.9 |
-| 82146e40-20f0-3246-a3c4-43e2c2ce6fe1 | -9.45635 | -47.28936 | 2024-10-11 00:56:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| cb3ff876-1954-39f2-863d-fc3d058d7ba9 | -3.36015 | -46.4926 | 2024-10-11 00:56:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 12.8 |
-| 4c5f9abc-19e4-3ae0-ab14-dd782cca8cf0 | -3.30416 | -47.0136 | 2024-10-11 00:56:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| f2a06c98-a6c0-33ff-904a-ca5b5d982048 | -3.30162 | -46.08334 | 2024-10-11 00:56:00 | TERRA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 262.7 |
-| c2fb9472-2344-3a0f-b18f-a0b886111b29 | -3.30003 | -46.07227 | 2024-10-11 00:56:00 | TERRA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 93.7 |
-| 37b98a41-b6d7-3357-9b8d-52b309b6fb43 | -3.06718 | -45.94636 | 2024-10-11 00:56:00 | TERRA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| ff27d21a-2a12-360a-81b9-dc2a8786b8be | -2.59031 | -46.12151 | 2024-10-11 00:56:00 | TERRA_M-M | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 5f62729e-b34e-34ea-a313-d538dad8f0d9 | -2.54308 | -47.22847 | 2024-10-11 00:56:00 | TERRA_M-M | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 43.0 |
-| 446a71a7-7277-38c1-aaec-63bdf3bbca9c | -2.54169 | -47.21868 | 2024-10-11 00:56:00 | TERRA_M-M | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 28.5 |
-| de197a55-2fd9-3acd-b871-94d3646721e2 | -2.42926 | -46.21407 | 2024-10-11 00:56:00 | TERRA_M-M | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 86e9c23a-b52e-3017-9a23-e61ad2f01657 | -2.39693 | -46.70879 | 2024-10-11 00:56:00 | TERRA_M-M | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| e39ce9ca-5a09-389f-b21d-49e960ca44f6 | -2.35199 | -46.83801 | 2024-10-11 00:56:00 | TERRA_M-M | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 24ed6e25-22f2-389b-8b4e-878473463302 | -2.24528 | -46.73218 | 2024-10-11 00:56:00 | TERRA_M-M | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| d194f853-e35a-3e75-b4e1-cbcace1a3c94 | -4.20885 | -46.89276 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 14.1 |
-| c6ba0bd9-c714-30c1-9bcb-9d6533280171 | -3.92913 | -46.4691 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 71.0 |
-| f1558e59-c596-346e-8c8e-ef8f10756f2a | -3.92771 | -46.45905 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 221.8 |
-| 41ac3cb2-2b05-3117-a149-0618d4aa2baa | -3.80546 | -47.48469 | 2024-10-11 00:56:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 18.2 |
-| 0348c990-4c21-3d9a-83bd-c3b7fb0f6238 | -3.70181 | -47.60086 | 2024-10-11 00:56:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 21.4 |
-| fcfd6df1-6275-322d-b378-7da5320a7901 | -3.7005 | -47.59159 | 2024-10-11 00:56:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 0a87192e-2ab6-3040-85d3-e43be590c7e7 | -4.94727 | -47.41187 | 2024-10-11 00:56:00 | TERRA_M-M | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| facd5782-ce3b-349f-b2f7-db9202edb9b5 | -4.94595 | -47.4026 | 2024-10-11 00:56:00 | TERRA_M-M | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 9edefcb2-15a5-37a1-b1b5-ee1eaccb451a | -4.91724 | -47.65605 | 2024-10-11 00:56:00 | TERRA_M-M | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 1b7515d2-1bed-30bf-b71d-19e1ef740055 | -4.91302 | -46.70795 | 2024-10-11 00:56:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| d06c4249-4c26-32fe-b7ef-f6187ac9d985 | -4.9037 | -46.70914 | 2024-10-11 00:56:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 59f91159-a3bf-34c7-966c-ec83fd30adab | -4.68099 | -46.43672 | 2024-10-11 00:56:00 | TERRA_M-M | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 1ba06c92-68a4-33ec-ac99-3a77bbcc75f2 | -4.67153 | -46.43813 | 2024-10-11 00:56:00 | TERRA_M-M | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| defc3c2e-f7e6-37b1-9a6b-4bb7a22a3ed7 | -4.6568 | -47.44354 | 2024-10-11 00:56:00 | TERRA_M-M | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 8.5 |
-| 163e715e-1e7c-3a5f-949d-03e1e0c05dc4 | -4.21025 | -46.90245 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| caf39747-021c-34ec-8e39-1f39fa726895 | -3.80677 | -47.49405 | 2024-10-11 00:56:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| 6708cd14-c990-3ee3-b389-0a8096687c2b | -5.64843 | -47.93344 | 2024-10-11 00:56:00 | TERRA_M-M | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| be45e0d8-ccb7-3e1d-8a21-54d5f0037ba4 | -6.12634 | -47.27425 | 2024-10-11 00:56:00 | TERRA_M-M | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 20.2 |
-| 2a8f6a1c-1b72-3b6d-817e-623933146607 | -6.12503 | -47.26506 | 2024-10-11 00:56:00 | TERRA_M-M | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| dbe35854-8e13-3025-a227-43e11e519908 | -5.97401 | -47.11038 | 2024-10-11 00:56:00 | TERRA_M-M | MONTES ALTOS | MARANHÃO | Brasil | 2107001 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| f7283eb6-d88b-318c-991c-1d759d2e24d2 | -5.67004 | -46.53177 | 2024-10-11 00:56:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 09b24ffb-681f-36dc-a568-5445a786e828 | -5.64717 | -47.92451 | 2024-10-11 00:56:00 | TERRA_M-M | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | 27.7 |
-| 0dee44ed-42c3-340b-9707-ec62cc4f2eab | -5.55564 | -46.69094 | 2024-10-11 00:56:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 964be417-9357-347c-af68-e0d7573a7fc2 | -5.52127 | -47.10233 | 2024-10-11 00:56:00 | TERRA_M-M | BURITIRANA | MARANHÃO | Brasil | 2102358 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| e9d61690-8cc6-3341-bb57-a0f81b297bda | -5.30082 | -47.56677 | 2024-10-11 00:56:00 | TERRA_M-M | IMPERATRIZ | MARANHÃO | Brasil | 2105302 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 6ebbd20f-ea48-3a57-a31b-59d432c3b7e0 | -7.21178 | -47.65007 | 2024-10-11 00:56:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 43e0e45f-eae5-3b11-8c1a-c5b977a740b0 | -6.94252 | -48.16635 | 2024-10-11 00:56:00 | TERRA_M-M | PIRAQUÊ | TOCANTINS | Brasil | 1717206 | 17 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 4a46ab2e-7d01-31af-8043-b574e208339a | -6.93369 | -48.16763 | 2024-10-11 00:56:00 | TERRA_M-M | PIRAQUÊ | TOCANTINS | Brasil | 1717206 | 17 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| 8c726dc8-e15d-32d6-9d02-5b92d7c2d2fe | -6.93314 | -47.76316 | 2024-10-11 00:56:00 | TERRA_M-M | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 923d5dd8-bd10-3e1a-b90e-6a47bb7d7c32 | -6.92051 | -47.73767 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| 39b4dd5b-1758-3921-9862-17f149cbfac2 | -6.91798 | -47.7198 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 19.8 |
-| 84190ace-a869-3ad2-b36f-dd46102b5ea6 | -7.69021 | -47.25026 | 2024-10-11 00:56:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 35aaddb8-ee31-3143-a8d3-fe1588904b29 | -7.46769 | -47.18033 | 2024-10-11 00:56:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 60c5c66e-8cf8-3202-a1a7-2bfcd35ecd19 | -7.43714 | -47.35133 | 2024-10-11 00:56:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| cce8e929-d19c-323d-a880-782e0a4e845e | -7.09571 | -47.87901 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 569bc04f-8034-30c2-b81a-811230d291e4 | -6.94129 | -48.15751 | 2024-10-11 00:56:00 | TERRA_M-M | PIRAQUÊ | TOCANTINS | Brasil | 1717206 | 17 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| de417921-eb17-3cb5-93c8-6a653b460eec | -6.93188 | -47.75423 | 2024-10-11 00:56:00 | TERRA_M-M | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| e8f3e70f-1d43-3bb5-94af-f1896858dff7 | -6.93063 | -47.74533 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 115.0 |
-| 9a53a6be-96ed-34eb-84d1-39bd14b33ac9 | -6.92937 | -47.73642 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| ed16c222-afa4-3e24-92cd-e42aa3ca454d | -6.92428 | -47.76442 | 2024-10-11 00:56:00 | TERRA_M-M | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 839c8184-d89e-32d5-b3d4-2697951094bc | -6.92302 | -47.7555 | 2024-10-11 00:56:00 | TERRA_M-M | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 193.9 |
-| a5898107-56fb-3789-b4c1-e7a3d32d07b2 | -6.92177 | -47.74662 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 147.8 |
-| a1550e89-143a-3566-85d8-e14a7bfbdf52 | -6.91924 | -47.72872 | 2024-10-11 00:56:00 | TERRA_M-M | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 22.1 |
-| 0a9b40dc-8a8a-323b-b955-2ad28d9b3dc6 | -9.16769 | -47.60189 | 2024-10-11 00:56:00 | TERRA_M-M | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 72b17d31-8b1b-33a5-92f0-1e8622b24462 | -9.11207 | -47.65541 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 68feb08f-0e3b-3db3-9eec-06d2269da586 | -9.09636 | -47.94528 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 23.6 |
-| ff7a65a5-2961-3a2a-b4ae-d7f12c30362f | -9.09513 | -47.93638 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 18.1 |
-| 00730bd7-b6d4-3fa3-94c8-47c2be238d0e | -9.04271 | -47.68991 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 267ba984-e798-33e6-9eae-0f034de6282c | -8.99357 | -47.73928 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| d93e5494-c5a7-3491-92af-18cc40b249d3 | -8.94497 | -47.19921 | 2024-10-11 00:56:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 19.4 |
-| 8249b8b2-b693-33af-947b-baecd8646bcb | -8.91754 | -47.91983 | 2024-10-11 00:56:00 | TERRA_M-M | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| f21b31db-9a1e-3e1a-8192-228124435c49 | -8.55366 | -47.82455 | 2024-10-11 00:56:00 | TERRA_M-M | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| bfc5e147-fc17-3f19-bd26-1f6bf05726d1 | -8.54269 | -47.21827 | 2024-10-11 00:56:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 3fff8248-9a5f-3adf-ab76-a073d8dfd56e | -9.21804 | -47.56138 | 2024-10-11 00:56:00 | TERRA_M-M | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| b4ad4390-3d3a-35c6-8dad-23e2408af193 | -9.16679 | -47.9832 | 2024-10-11 00:56:00 | TERRA_M-M | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| c449ddd4-c7ff-3d7b-b34a-2e2b1d9b43b6 | -9.07856 | -48.48191 | 2024-10-11 00:56:00 | TERRA_M-M | RIO DOS BOIS | TOCANTINS | Brasil | 1718709 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| b4afc286-5169-3dea-8246-b4e409626039 | -9.04245 | -47.817 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| a3681f5f-cd92-3342-bf86-f643a3ffe480 | -9.04146 | -47.68101 | 2024-10-11 00:56:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 3feb788f-1401-396d-882d-25a24cb3c1f1 | -8.9163 | -47.91094 | 2024-10-11 00:56:00 | TERRA_M-M | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 06990246-c447-318e-8e40-3233bb7a0e7e | -8.86656 | -47.55512 | 2024-10-11 00:56:00 | TERRA_M-M | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 3a19ad3e-cd79-3f6a-8cb8-9460e278698a | -9.82041 | -48.04673 | 2024-10-11 00:56:00 | TERRA_M-M | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| e9f70bc6-4401-30a8-8543-ea5b29d48e5a | -9.65098 | -47.82849 | 2024-10-11 00:56:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 48b8fe8d-aec1-3e08-8e81-e1c7c60c7a46 | -10.31286 | -48.89011 | 2024-10-11 00:56:00 | TERRA_M-M | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| c91474bd-2971-3e8d-b223-50247b5e8ca0 | -10.01247 | -48.8459 | 2024-10-11 00:56:00 | TERRA_M-M | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| 7f068139-6acb-3268-a7b4-68968eefafbc | -10.00395 | -48.8534 | 2024-10-11 00:56:00 | TERRA_M-M | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 4c5b8e2d-6c99-3274-8569-d11d9df4e8b1 | -10.00268 | -48.84415 | 2024-10-11 00:56:00 | TERRA_M-M | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 234c77f1-2aa4-36c2-9d89-aa46156ffa7c | -2.88076 | -48.91108 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| ee14979d-7a16-3c3b-9c1d-f6036b00cddb | -2.87953 | -48.90228 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| b7c6c946-c36b-30ab-a4e8-105bf681e90b | -2.8539 | -48.65409 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| cb21c595-d0f7-3896-b0e0-b45e79adb63f | -2.80698 | -48.70582 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 20.9 |
-| 2ee42def-f97c-3d59-b604-be7e0a2e2d4f | -2.80574 | -48.69699 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 5092f221-db1f-301d-a330-725ad97ebbc3 | -2.74785 | -48.68449 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 10.6 |
-| 9cd1feff-15d3-3057-94ac-c7a9b07ead44 | -2.69397 | -48.63483 | 2024-10-11 00:56:00 | TERRA_M-M | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| fa019f80-2148-3869-94bb-4d4e9b1bfab5 | -3.70443 | -47.61938 | 2024-10-11 00:56:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| e41be23c-ede3-3b8c-9e2f-a52dbcae59f1 | -2.97473 | -48.00317 | 2024-10-11 00:56:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 53.3 |
-| cb0a7280-0753-37c9-a629-5d37ca3bec09 | -2.97346 | -47.99404 | 2024-10-11 00:56:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 22.8 |
+| d40621d9-9bc5-3741-93f3-2f6606c213ae | -11.2809 | -60.503399 | 2024-10-12 01:18:40 | METOP-C | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| d5ccbabd-0c72-31a6-a1e2-1bdf31187c95 | -11.2689 | -60.494499 | 2024-10-12 01:18:40 | METOP-C | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| aadf51fc-22e3-3352-a973-bf65c9e0331a | -11.2712 | -60.505402 | 2024-10-12 01:18:40 | METOP-C | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 54806fe1-3ca9-36a2-bd20-9f7317caf462 | -10.55 | -57.718399 | 2024-10-12 01:18:42 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1ca7f0c0-6774-3ba5-86a0-8a33382b3cc8 | -11.1821 | -60.616402 | 2024-10-12 01:18:42 | METOP-C | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| efd0f2e1-e637-3b01-a1f3-5a93ccccb5f9 | -11.1844 | -60.627602 | 2024-10-12 01:18:42 | METOP-C | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| c048a443-c22c-3d6c-a70f-ac0245860005 | -10.5483 | -57.7108 | 2024-10-12 01:18:42 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1fcbfc29-bc9c-3673-af1e-a2493fdc8e8e | -10.4305 | -57.223598 | 2024-10-12 01:18:42 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4609a3a6-884b-35b8-b13d-c7e7c58e1ced | -10.5227 | -57.780998 | 2024-10-12 01:18:43 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 046018fb-3fb4-39a9-b8fd-9c744eaeb075 | -10.6568 | -58.394501 | 2024-10-12 01:18:43 | METOP-C | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 213f4e6f-1d20-33cd-a58d-2d41e66edb2c | -10.6586 | -58.402802 | 2024-10-12 01:18:43 | METOP-C | CASTANHEIRA | MATO GROSSO | Brasil | 5102850 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b68991c1-c440-38b8-8cf3-1a460fe78d64 | -10.6531 | -58.7556 | 2024-10-12 01:18:44 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 98c89a1a-d8e2-352e-b434-afe82df1e7a9 | -10.6549 | -58.764198 | 2024-10-12 01:18:44 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 725b24d0-f11e-3217-b49d-842c9d18f438 | -10.6568 | -58.7728 | 2024-10-12 01:18:44 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 34b4c8f9-ae29-32a1-9c85-1f7c0a3b6d00 | -10.3014 | -57.709 | 2024-10-12 01:18:46 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 50b53be3-bf6f-3b0c-af7a-349d369529a2 | -10.2818 | -57.713299 | 2024-10-12 01:18:47 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7115adf6-eb18-3405-8479-83248caa0211 | -10.4792 | -58.7575 | 2024-10-12 01:18:47 | METOP-C | JURUENA | MATO GROSSO | Brasil | 5105176 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5ff260f0-8d68-3161-8015-2345d0316e2b | -10.4694 | -58.759701 | 2024-10-12 01:18:47 | METOP-C | JURUENA | MATO GROSSO | Brasil | 5105176 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 269981a0-556b-3bb6-9368-70cf046348f1 | -10.4712 | -58.7682 | 2024-10-12 01:18:47 | METOP-C | JURUENA | MATO GROSSO | Brasil | 5105176 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 402f3891-ecd3-3998-961f-319f77300187 | -10.2433 | -57.818298 | 2024-10-12 01:18:48 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 28159596-85db-3480-9f28-f77f98673166 | -10.1381 | -57.761002 | 2024-10-12 01:18:49 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2bc40b87-cb50-39a6-a710-d03ce4855cc8 | -10.1398 | -57.7686 | 2024-10-12 01:18:49 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| aee93192-cfd4-37b5-a06e-7e42a6cd6083 | -10.1267 | -57.755501 | 2024-10-12 01:18:49 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 62e425bb-7b6e-3ff4-a48e-3d30307dc6dc | -10.1283 | -57.763199 | 2024-10-12 01:18:49 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b8b820c0-fbd3-34c9-b228-b3d800e591c8 | -10.13 | -57.770802 | 2024-10-12 01:18:49 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0c615075-1e2e-35fb-81bf-fe30a992583e | -9.5841 | -55.791199 | 2024-10-12 01:18:51 | METOP-C | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f4f80885-264a-3c5a-b9a7-25bc8f673fa2 | -9.5857 | -55.7981 | 2024-10-12 01:18:51 | METOP-C | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b858a78e-5221-39cc-9b61-f606de7cea7c | -9.5872 | -55.805 | 2024-10-12 01:18:51 | METOP-C | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 56a9a5cb-2a8e-380d-891d-34e2fdf91eca | -9.5759 | -55.800301 | 2024-10-12 01:18:51 | METOP-C | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a57048b3-e18a-37b4-b721-bedd1de88b23 | -10.4591 | -60.094799 | 2024-10-12 01:18:52 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 342cd51b-fa0f-3409-9eb9-70542de4faa0 | -10.4613 | -60.1049 | 2024-10-12 01:18:52 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 847c3075-8aa3-398d-a0e9-c7b8ff6ceaee | -9.9562 | -58.101601 | 2024-10-12 01:18:53 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f9a7d3df-0ebd-3278-92c3-ebf8b7f441a1 | -9.9464 | -58.103699 | 2024-10-12 01:18:53 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 05e2dee7-59be-3380-ba53-ded98a713b83 | -9.6718 | -56.957298 | 2024-10-12 01:18:54 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 33c936f1-4fb6-3534-980e-bf02c45c8f10 | -10.4354 | -60.997002 | 2024-10-12 01:18:56 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2536172c-ff64-36c6-89e9-076ab5d06936 | -10.4232 | -60.987598 | 2024-10-12 01:18:56 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6582ad8e-0377-3f8d-9b2b-0886411a1715 | -10.4256 | -60.9991 | 2024-10-12 01:18:56 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9cf294fe-420b-307f-9751-f2b7074dd373 | -10.4771 | -61.2444 | 2024-10-12 01:18:56 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 364a5290-4c49-35fc-8086-73edda10ed9f | -10.1729 | -59.8564 | 2024-10-12 01:18:56 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1e786b39-aae5-3038-90bc-017b0240dca8 | -10.175 | -59.8661 | 2024-10-12 01:18:56 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 88dd2fc1-0c14-303e-b6e4-533e0a1fd02e | -10.4673 | -61.246399 | 2024-10-12 01:18:56 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1de8d223-feb4-3dc7-adfb-56c2c05d2ab9 | -10.3938 | -61.187599 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| cf506873-833c-352c-8ee6-5974206ee8f0 | -10.3963 | -61.199402 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 85bc3329-0818-35b3-94d8-2245483c241d | -10.3987 | -61.211201 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e8189892-55b8-391f-b112-a04559b6b6b4 | -10.4087 | -61.258598 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0be2b186-260e-323f-a5fe-3176fc6a34e6 | -10.4112 | -61.270599 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 54d44243-41f4-310c-9612-b186f859dee3 | -10.3791 | -61.166199 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0fd9ce87-bf83-32d6-9ca6-701d1edeab89 | -10.384 | -61.189701 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9c5cd0bd-5cd5-3b37-8451-8a0ce3a5f2ce | -10.3865 | -61.2015 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5c238ac1-ae99-3fd9-bbcf-61d13d935413 | -10.3889 | -61.213299 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b64f2a02-c1e6-3342-aa80-51a705c5ac0f | -10.3989 | -61.2607 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 11a28e9d-d92d-3e08-945b-4d05364fc86b | -10.4014 | -61.272701 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0763434b-f960-3da5-96a6-573b686e97b3 | -10.4039 | -61.284599 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 60834dfa-8557-3ddb-a91f-f61298bced11 | -10.3694 | -61.168201 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| db185cca-3e43-3eb0-a1a2-7739f6898224 | -10.3792 | -61.215302 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 093473df-7fa7-3e75-869a-6392e6587319 | -10.3817 | -61.2271 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 111587f2-7019-30c5-ae4a-6e27ccb6cc00 | -10.3842 | -61.238998 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1c06fa90-a809-3b6f-93e5-0b5fe8f9430d | -10.3892 | -61.262699 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fd4abf64-38d6-36a1-a38e-2ede81aab70e | -10.3917 | -61.2747 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2e9a69cb-396a-3afc-b6a4-b25f55072c43 | -10.3694 | -61.2174 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| eb6f918c-5828-3c23-a2c4-264b2e9cef65 | -10.3719 | -61.229198 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b8b6b697-c9c8-37c7-ac75-3718a3a659ec | -10.3744 | -61.2411 | 2024-10-12 01:18:57 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 42f8764a-5e11-34d9-80a6-7e65d4aab555 | -10.8571 | -63.8908 | 2024-10-12 01:18:58 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| a3220d58-1f74-38e0-8160-dbc56bc06d09 | -10.8608 | -63.9091 | 2024-10-12 01:18:58 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 6d2b9204-2082-3f27-b28d-3e27ef00fd05 | -10.1894 | -60.894901 | 2024-10-12 01:18:59 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ec57836d-63fb-3350-b2f2-64712ac9ea0d | -9.9345 | -59.937698 | 2024-10-12 01:19:00 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b0fc056e-4ada-3583-966b-8589094ab822 | -9.8706 | -59.830601 | 2024-10-12 01:19:01 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 988124e1-436c-34be-a4bb-d0031cdd839b | -10.4973 | -62.9646 | 2024-10-12 01:19:01 | METOP-C | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| c3275871-cdbc-3688-860f-0c2776e8c35e | -10.5004 | -62.980202 | 2024-10-12 01:19:01 | METOP-C | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 0b87371f-daa1-307a-9277-9e149b5b3d1a | -9.8605 | -60.117699 | 2024-10-12 01:19:02 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5b6acabe-1c60-3e45-a8d6-57822ca7322f | -9.8633 | -60.2743 | 2024-10-12 01:19:02 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e691f4f1-9d73-334e-bed3-bc86249593b7 | -9.8655 | -60.284401 | 2024-10-12 01:19:02 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fef2b382-79e2-300c-a910-8b2a1d2dedcb | -9.8513 | -60.2663 | 2024-10-12 01:19:03 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 58fedcc0-8a46-36c6-a1db-b9d91988065c | -9.8535 | -60.276402 | 2024-10-12 01:19:03 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 62fd6c0d-7575-374e-b219-9a21a560cd7b | -9.8557 | -60.286499 | 2024-10-12 01:19:03 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| eb61baa9-8d5a-375d-ad3d-7837527fc48e | -9.8438 | -60.2785 | 2024-10-12 01:19:03 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4e91ace2-506e-3fe6-a6fd-9244125a526c | -9.8459 | -60.288601 | 2024-10-12 01:19:03 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4a0a968d-422e-3599-9ee7-bd98f45bb090 | -6.0898 | -44.641701 | 2024-10-12 01:19:04 | METOP-C | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f00e7847-a67a-3817-8354-168b7fe292f7 | -10.5704 | -64.024399 | 2024-10-12 01:19:04 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5c597d0a-1028-3d24-a082-2166e8f95bc5 | -9.2249 | -58.278599 | 2024-10-12 01:19:06 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9c1cb3e5-f8e6-35d2-a27a-b98d609a10c1 | -9.2266 | -58.2864 | 2024-10-12 01:19:06 | METOP-C | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3651413f-3528-35aa-8b39-f250911fc1b5 | -7.0827 | -49.243999 | 2024-10-12 01:19:06 | METOP-C | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 494dd916-cef7-322a-b576-07ddcf89c5de | -8.4342 | -55.450001 | 2024-10-12 01:19:08 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1965033a-37e8-3f4e-8bea-ae7df00c6255 | -8.4358 | -55.456902 | 2024-10-12 01:19:08 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 53b80582-d29c-3bd9-96e6-2a3810298cb1 | -8.4373 | -55.463799 | 2024-10-12 01:19:08 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| dda0eb9d-9b20-38c2-9d08-ae211691ab27 | -8.4389 | -55.470798 | 2024-10-12 01:19:08 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 95226975-95a7-3b99-8496-b5cd8abd0f24 | -8.426 | -55.459202 | 2024-10-12 01:19:08 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e9c30c7c-549f-3b15-94d3-ea560e4699af | -8.4275 | -55.466099 | 2024-10-12 01:19:08 | METOP-C | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| acfbd3da-cfc6-3fb8-99b9-91962f911aad | -9.221 | -59.763199 | 2024-10-12 01:19:11 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0dc48ade-26f8-3ffe-8769-a2077f987e1a | -9.2231 | -59.772499 | 2024-10-12 01:19:11 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 616df1a7-22e1-3483-bd46-ecc4485d584d | -9.2112 | -59.7654 | 2024-10-12 01:19:11 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 48fc6d9e-d85f-3c2d-96a7-0ac867bb2dd5 | -9.2133 | -59.7747 | 2024-10-12 01:19:11 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c546465a-7146-3829-8039-2a690be77977 | -9.3939 | -60.9011 | 2024-10-12 01:19:12 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f9810cd9-0433-30fb-9410-1ddea9a67434 | -9.3963 | -60.911999 | 2024-10-12 01:19:12 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d4329ada-165b-3dbc-b85b-a5c23a55e062 | -6.4265 | -48.253201 | 2024-10-12 01:19:13 | METOP-C | RIACHINHO | TOCANTINS | Brasil | 1718550 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 88d22a7e-5472-3e81-a95a-3661d9c77626 | -6.4307 | -48.269901 | 2024-10-12 01:19:13 | METOP-C | RIACHINHO | TOCANTINS | Brasil | 1718550 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 4633df53-5841-389d-958e-8ed9e07c49f0 | -9.2362 | -60.355099 | 2024-10-12 01:19:13 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2fef0080-14d2-3030-beff-984ffe8f4651 | -9.2383 | -60.3652 | 2024-10-12 01:19:13 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7d18ef08-6e6d-3afd-b8c4-335fb28cc9dc | -9.1851 | -60.355598 | 2024-10-12 01:19:14 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d5f20c9e-36cf-3560-bebb-022282ee80e6 | -9.16 | -60.381901 | 2024-10-12 01:19:14 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
 
 
 [Clique aqui para ver as próximas entradas](README17.md)

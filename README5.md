@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ba22f58e-5dcc-3624-b74a-3c65ffb3d57a | -10.6123 | -47.692299 | 2024-10-11 00:44:54 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 28845f8e-7a63-3dc7-89f1-711173a05415 | -10.6141 | -47.7001 | 2024-10-11 00:44:54 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| bf2763ce-3537-339c-ae58-65b689fbc2ab | -10.6159 | -47.707802 | 2024-10-11 00:44:54 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6c201683-70d9-31e1-9578-6547b33d1d82 | -10.6025 | -47.694599 | 2024-10-11 00:44:54 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e3c154a3-fb01-3874-9fe8-df8a4fabb3ac | -10.6043 | -47.7024 | 2024-10-11 00:44:54 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| b2e73621-1035-34b1-a4bc-009c38d1f20d | -10.6061 | -47.710201 | 2024-10-11 00:44:54 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 90a65cf9-60d0-32ec-bde3-dae8f57aa7cc | -10.6249 | -47.836201 | 2024-10-11 00:44:54 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1c28001e-8731-3ca8-a807-8fad0b9fd517 | -10.6267 | -47.843899 | 2024-10-11 00:44:54 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 35072cb6-3918-396d-b5bb-20f11b50b436 | -10.6285 | -47.851601 | 2024-10-11 00:44:54 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 768141d1-2a76-317b-aa1f-93ba0112db03 | -11.3001 | -50.920502 | 2024-10-11 00:44:55 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 71137981-dcd6-34d9-9b71-3a5e6ad7f57b | -11.3017 | -50.927601 | 2024-10-11 00:44:55 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 13a06821-b5c7-313b-b221-06c6e4790596 | -11.2888 | -50.9156 | 2024-10-11 00:44:55 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| cd8668b1-ba84-3505-91e2-639ab16ec80e | -11.2903 | -50.922699 | 2024-10-11 00:44:55 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| d13c933b-bcf2-36f8-999c-4ce18cc4379b | -11.2919 | -50.929798 | 2024-10-11 00:44:55 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 81e6ed99-936a-39ee-8962-a7f48088f989 | -11.2667 | -51.0023 | 2024-10-11 00:44:55 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 2c16269e-ff5c-316c-bf4f-94fc29b88f55 | -11.2476 | -50.962002 | 2024-10-11 00:44:56 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 5b4c0b3e-c04d-3c55-821a-7939470b1fb6 | -11.1696 | -50.934898 | 2024-10-11 00:44:57 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 8f938a21-1131-3e08-a328-12b2613fb45c | -11.1712 | -50.942001 | 2024-10-11 00:44:57 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| ce0d8865-45ec-3e90-a54a-61721f219df1 | -11.1727 | -50.9491 | 2024-10-11 00:44:57 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| b96a8967-e16a-3d47-b47f-83fbdec5efeb | -11.1598 | -50.937099 | 2024-10-11 00:44:57 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 83c9d52d-8151-393f-9530-b6a7271dcb83 | -11.1614 | -50.944199 | 2024-10-11 00:44:57 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| a935f54b-9342-3d22-9426-831edd4343af | -11.1629 | -50.951302 | 2024-10-11 00:44:57 | METOP-B | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 9e1297c6-2144-391e-a695-abfaee4dbb2d | -9.5791 | -44.384499 | 2024-10-11 00:44:58 | METOP-B | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 4fb0b994-f88a-30ba-8f69-4ff07ed03713 | -9.5694 | -44.386902 | 2024-10-11 00:44:58 | METOP-B | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 9478d694-fb7f-316b-8b61-e234ce120cc4 | -9.5723 | -44.398998 | 2024-10-11 00:44:58 | METOP-B | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 03e0ecaa-6ab2-3bbc-8df2-0bb6625b9cf5 | -11.5368 | -53.837299 | 2024-10-11 00:45:01 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 691ff8bc-30c4-3c87-8e2c-fd21132b04f9 | -11.5387 | -53.846401 | 2024-10-11 00:45:01 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 84dcca70-24c2-393b-960a-ad6c8936f663 | -10.5555 | -49.931499 | 2024-10-11 00:45:03 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c5a22ff0-56ae-367d-be65-4e0b37ffc608 | -10.557 | -49.9384 | 2024-10-11 00:45:03 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1884d766-d4b6-363e-8a64-1b3ed6315017 | -10.5441 | -49.926701 | 2024-10-11 00:45:03 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 361add2a-31a6-3789-87fa-ed1a6efe4310 | -10.5457 | -49.933701 | 2024-10-11 00:45:03 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7245b69e-2752-3ab5-8a00-4ff08264bf10 | -10.5472 | -49.940601 | 2024-10-11 00:45:03 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 993e428e-a0c3-321d-a1a9-e8c36d5c39cd | -11.2586 | -53.247002 | 2024-10-11 00:45:03 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 20661be9-3c45-366f-b3c8-c7e12cbde7cc | -11.2604 | -53.255402 | 2024-10-11 00:45:03 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1168d5a7-c7ed-3cf9-9f02-528b134ff71a | -11.2622 | -53.263901 | 2024-10-11 00:45:03 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5177f827-f136-35dc-b728-1484886a020f | -11.2488 | -53.2491 | 2024-10-11 00:45:04 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c1660f7f-2ddd-3432-b305-6efbdd0c007e | -11.2506 | -53.257599 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 663be6e4-f760-30ac-9d0b-c7032d036c89 | -11.2524 | -53.265999 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 36cf2079-c2a0-3758-882c-46e64bf0584c | -11.2542 | -53.274502 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8c0412f8-8159-3e31-b61e-0fd36637619a | -11.256 | -53.282902 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c8de0590-8ef9-360f-9c9c-2b022e0bee19 | -11.239 | -53.251202 | 2024-10-11 00:45:04 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7404d945-46b3-340d-ab4d-d85273670d4f | -11.2408 | -53.259701 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d0c6fad5-fe77-3625-8394-e9c3dab094a6 | -11.2426 | -53.268101 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8df0164c-b89f-3304-a07c-7b3ddf6c8d00 | -11.2462 | -53.285 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7a31f51d-4b33-37e9-8f2f-604dd7d4634b | -11.248 | -53.293499 | 2024-10-11 00:45:04 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e10dc6f6-7bb6-3f34-ab9a-4b84ace58ca5 | -10.8978 | -52.328201 | 2024-10-11 00:45:06 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bd5a4529-9290-3186-80bc-8c9b2ed3f2e6 | -10.8995 | -52.3358 | 2024-10-11 00:45:06 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e8daee93-e811-348c-9601-eb1b08e1a103 | -10.9011 | -52.343498 | 2024-10-11 00:45:06 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3d81e8d8-94ca-3bcb-825c-50bdb12745e7 | -10.6717 | -51.524502 | 2024-10-11 00:45:07 | METOP-B | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f368d0fa-664b-37c0-bd3b-6688fb7b48fc | -10.6733 | -51.5317 | 2024-10-11 00:45:07 | METOP-B | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3fc6059c-8b5d-37d4-8425-6cb021112ef6 | -9.8259 | -48.040001 | 2024-10-11 00:45:08 | METOP-B | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 232bbf95-1380-364e-95bc-409503ef4993 | -10.0083 | -48.834099 | 2024-10-11 00:45:08 | METOP-B | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 495c862e-a2ea-3ae4-80c8-374e4ef3a508 | -10.0099 | -48.841301 | 2024-10-11 00:45:08 | METOP-B | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 0d5b342e-1aa7-3933-8e19-09d1e130f024 | -10.4193 | -50.7061 | 2024-10-11 00:45:08 | METOP-B | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 2b4d25b0-3a65-316b-bf0a-391deb042b1c | -10.3249 | -50.559399 | 2024-10-11 00:45:09 | METOP-B | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 89b689ef-565c-3300-a036-cfabd2af2acc | -9.2717 | -46.418701 | 2024-10-11 00:45:11 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8bc58f54-00a7-3f0a-a638-7b494f6a6aa0 | -9.2739 | -46.427898 | 2024-10-11 00:45:11 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ad437c0a-6db5-39ca-ad56-7cf7abbdf0ac | -9.2761 | -46.437099 | 2024-10-11 00:45:11 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 895aaceb-3aef-362b-9105-daaf29c943d0 | -9.4631 | -47.277599 | 2024-10-11 00:45:11 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 858a1e23-abe0-3279-9a0e-9df711f51896 | -9.4651 | -47.2859 | 2024-10-11 00:45:11 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 635c5de3-4e7e-3616-9741-9aeebfca271b | -9.467 | -47.294201 | 2024-10-11 00:45:11 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 5ede98e8-e6d7-3d22-95d9-6cbf67aa4cc8 | -9.4534 | -47.2799 | 2024-10-11 00:45:11 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| cce0e489-2025-303d-a650-922a0fd662ec | -9.4553 | -47.2882 | 2024-10-11 00:45:11 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 0d586177-4ec4-3dce-89cc-04a00caaa982 | -9.4572 | -47.296501 | 2024-10-11 00:45:11 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d3aff637-64c9-3a8f-812a-b438d90305a8 | -10.7062 | -53.012001 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bb76231f-971a-3cf2-a9b4-cc849a55498d | -10.708 | -53.0201 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5104e7d9-3c87-3086-a28d-64f34750eee8 | -10.7097 | -53.028198 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 211b96a8-59bc-32f1-bc26-bb88cdc7d558 | -10.7115 | -53.036301 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6c3931c6-ed8f-3899-bc2f-f527390a2374 | -10.4493 | -51.870701 | 2024-10-11 00:45:12 | METOP-B | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a072125a-f74c-3b61-8a48-bd6924f1a7eb | -10.4509 | -51.878101 | 2024-10-11 00:45:12 | METOP-B | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e49f496-1e49-36be-9a1f-deb083689fc1 | -10.6947 | -53.006001 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 52066c15-d7f5-322b-92ed-09beb1274dd7 | -10.6964 | -53.014099 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 81c740f3-3ba4-3d67-8f61-8d4d97df6276 | -10.6982 | -53.022202 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e86d583d-18dd-302a-9c03-66d5ddca12c6 | -10.6999 | -53.0303 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cc3f7d6b-4551-344b-a1f1-bb3a4baaaaf1 | -10.7017 | -53.038399 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cbb65c45-742c-31c7-b561-89379f643304 | -10.7034 | -53.046501 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 10aaee04-51de-3ec2-a2d8-2bdbb7e62468 | -10.6866 | -53.016201 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| aa51a7bc-ea60-33ee-a74b-92348a0df6d2 | -10.6884 | -53.0243 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 33fd50e2-0a60-3646-881c-38319a6c1b51 | -10.6901 | -53.032398 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8bc37f54-621c-37ba-bdda-6c973cf33e60 | -10.6919 | -53.0406 | 2024-10-11 00:45:12 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 898f8e64-3285-3bc8-a1d4-ed839d29b36d | -9.1415 | -46.391102 | 2024-10-11 00:45:13 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 83d81155-7a0e-3011-b0ec-a0a5da1e72f5 | -10.6049 | -52.8741 | 2024-10-11 00:45:13 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| efabf67d-bcbd-3a29-b99c-a14e14c3d58e | -10.6066 | -52.882099 | 2024-10-11 00:45:13 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d7d60545-5537-3cf8-b653-0ec53b068419 | -9.6736 | -48.9039 | 2024-10-11 00:45:14 | METOP-B | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 56edea98-2053-3851-9bba-cd07329dcab3 | -9.6752 | -48.911098 | 2024-10-11 00:45:14 | METOP-B | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| de7e2f2a-780a-3596-a118-5b6e1bdc9672 | -8.9632 | -46.030399 | 2024-10-11 00:45:14 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 38d6b97b-34a8-31e5-b33d-0fde7a84fe0c | -8.9534 | -46.0327 | 2024-10-11 00:45:14 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1cf91f62-d9b8-3faf-bcff-adf771853c79 | -9.6296 | -48.9823 | 2024-10-11 00:45:15 | METOP-B | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 70054c0b-2d90-37e8-b768-2891956f204b | -9.6182 | -48.977402 | 2024-10-11 00:45:15 | METOP-B | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6eb7872e-efbd-3fb9-927e-6f8089fc9cd3 | -9.6198 | -48.9846 | 2024-10-11 00:45:15 | METOP-B | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 5efef075-8544-3bec-802a-a7f16a751528 | -10.4959 | -52.939602 | 2024-10-11 00:45:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d1a979c6-b5bd-38ad-aed4-b0845ec6e49e | -10.4976 | -52.947701 | 2024-10-11 00:45:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 56b0da97-495b-3383-9d8b-26335408272a | -9.872 | -50.1451 | 2024-10-11 00:45:15 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 899bfa08-80e9-3671-9187-431ccc8f5af5 | -10.4844 | -52.9338 | 2024-10-11 00:45:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d9774ff8-3a72-3dbc-8029-c2f4114703ad | -10.6408 | -53.666302 | 2024-10-11 00:45:15 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c7b54117-d2b4-35b7-9cea-ae37387a0bc9 | -10.6291 | -53.659698 | 2024-10-11 00:45:15 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| db9cbe97-37ff-3f03-b6a7-ea5121b5cf67 | -10.4596 | -52.914001 | 2024-10-11 00:45:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9d9e3102-7f19-3fb3-8b76-06e0f615f0e2 | -10.4613 | -52.922001 | 2024-10-11 00:45:15 | METOP-B | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9e1aaaf2-ac8e-30ef-bd3f-b4cbaed01bbf | -8.3927 | -44.000401 | 2024-10-11 00:45:16 | METOP-B | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 4a32d33b-1c97-3ea2-b880-f28e937bd5e4 | -8.3959 | -44.013802 | 2024-10-11 00:45:16 | METOP-B | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 40b6c45f-1a8c-3415-bc97-5d1aef7bfff6 | -6.087 | -44.628601 | 2024-10-12 00:24:20 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 74ff0ade-999d-3419-b037-77b94c7f2220 | -6.0756 | -44.623798 | 2024-10-12 00:24:20 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3eeebf5f-2f2d-3f18-8092-5c3a03c82d4f | -6.0772 | -44.630901 | 2024-10-12 00:24:20 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 62436575-c7e0-3fd0-9baf-3c4ac26ddcc6 | -6.0788 | -44.638 | 2024-10-12 00:24:20 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0221f51b-e7a4-3bb5-8d25-fd92d1254a4a | -6.0674 | -44.633099 | 2024-10-12 00:24:20 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| fe932797-541e-3e32-82dc-8f2043e34318 | -6.069 | -44.640202 | 2024-10-12 00:24:20 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 166cc8cf-aef2-3d9d-a29c-c507f65efdb8 | -6.1264 | -44.937901 | 2024-10-12 00:24:20 | METOP-B | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c9cf634c-39b7-395e-9076-d19a5f997851 | -6.1279 | -44.944901 | 2024-10-12 00:24:20 | METOP-B | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ed2ba28b-bde4-3a19-bbe0-54e96ef1a5c9 | -7.0825 | -49.240799 | 2024-10-12 00:24:20 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6d321458-c958-3ca9-971c-f88cf87883fa | -6.3674 | -46.143101 | 2024-10-12 00:24:21 | METOP-B | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| be36253c-6a71-3e46-8483-c9ef3a3258bc | -5.7203 | -43.7906 | 2024-10-12 00:24:23 | METOP-B | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 10f6efec-227c-3491-aa33-dc66d4727450 | -5.7105 | -43.7929 | 2024-10-12 00:24:23 | METOP-B | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 5d88d4fe-0b1f-33bd-b4d9-48f0f4d37547 | -5.1191 | -41.6814 | 2024-10-12 00:24:25 | METOP-B | JUAZEIRO DO PIAUÍ | PIAUÍ | Brasil | 2205516 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9678201b-ee0d-3367-a901-1ed5f5eba58e | -5.5945 | -43.961399 | 2024-10-12 00:24:25 | METOP-B | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9bd38e06-5cad-3add-a3b5-b61428b4f666 | -6.4516 | -47.536598 | 2024-10-12 00:24:25 | METOP-B | AGUIARNÓPOLIS | TOCANTINS | Brasil | 1700301 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e76d375a-56b1-3b4b-9602-71de2efa625b | -6.4533 | -47.5439 | 2024-10-12 00:24:25 | METOP-B | AGUIARNÓPOLIS | TOCANTINS | Brasil | 1700301 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 43c27c44-8e88-3d1d-ab8e-8c46fec5333b | -6.5133 | -47.815102 | 2024-10-12 00:24:25 | METOP-B | SANTA TEREZINHA DO TOCANTINS | TOCANTINS | Brasil | 1720002 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| d6acabab-89b3-3d0f-a110-27b7f30f85a0 | -6.5149 | -47.822498 | 2024-10-12 00:24:25 | METOP-B | SANTA TEREZINHA DO TOCANTINS | TOCANTINS | Brasil | 1720002 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f383c457-05c7-3a26-aa26-efbdeecccba7 | -6.0689 | -46.281601 | 2024-10-12 00:24:26 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f027cce7-65ad-344e-9546-cba617b91281 | -6.4248 | -48.252899 | 2024-10-12 00:24:28 | METOP-B | RIACHINHO | TOCANTINS | Brasil | 1718550 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| e0dfd88b-2c63-3d26-81e8-869796f41de9 | -6.4265 | -48.260601 | 2024-10-12 00:24:28 | METOP-B | RIACHINHO | TOCANTINS | Brasil | 1718550 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 03b44bbf-426c-3549-9564-a52f9707edc3 | -6.4282 | -48.268299 | 2024-10-12 00:24:28 | METOP-B | RIACHINHO | TOCANTINS | Brasil | 1718550 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| c0b6d68c-45be-3c8a-8b94-bc112a1ed05f | -5.5626 | -44.679901 | 2024-10-12 00:24:29 | METOP-B | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 89a580cd-438f-37f7-9f79-3eae03d0c463 | -5.5642 | -44.687 | 2024-10-12 00:24:29 | METOP-B | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| fee4230f-acab-357f-9ae8-fc386d7ca430 | -5.5528 | -44.682098 | 2024-10-12 00:24:29 | METOP-B | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e154f852-a2c0-3d2f-b15f-3ea3f2246f19 | -5.5544 | -44.689201 | 2024-10-12 00:24:29 | METOP-B | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6898e6a7-e92b-39f9-abfe-647ebd4a6bd2 | -5.5561 | -44.696301 | 2024-10-12 00:24:29 | METOP-B | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b5c0f906-cc31-3c99-8c3f-bc2de1aee326 | -5.8918 | -46.3643 | 2024-10-12 00:24:29 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 57351c10-d8bf-358e-9109-4ed983a62210 | -5.8496 | -46.222401 | 2024-10-12 00:24:30 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ff99779d-1530-39e1-b0a8-40c2c3a35d81 | -5.8511 | -46.229198 | 2024-10-12 00:24:30 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a71ebd2b-f5c0-3bb4-93c8-ad8fcd5bd4b2 | -5.8804 | -46.359501 | 2024-10-12 00:24:30 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 939f17f1-b43a-30af-b989-e3fb19c47a6c | -5.8819 | -46.366402 | 2024-10-12 00:24:30 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8ea3a910-d127-3c5d-a789-5ccfb85c9bde | -5.4554 | -45.3881 | 2024-10-12 00:24:33 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6ea1a907-adb7-3104-8982-d97169ccc99d | -5.457 | -45.395 | 2024-10-12 00:24:33 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6629573d-d534-3f10-a763-9f19a5cf0601 | -5.4585 | -45.401901 | 2024-10-12 00:24:33 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| dfaed1b3-26a6-3fd2-b1ff-8d605417e2be | -5.663 | -46.4007 | 2024-10-12 00:24:33 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 63eba2c7-2163-3912-88ff-01f053b56de0 | -5.6646 | -46.4076 | 2024-10-12 00:24:33 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 2d3b0561-f2d4-301f-a71f-1e93415d44bb | -5.6661 | -46.414398 | 2024-10-12 00:24:33 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 41e66368-83ac-3255-9f97-827a946aba63 | -5.3804 | -45.193699 | 2024-10-12 00:24:33 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e043e25e-2f04-39e2-ae62-9b536f908f77 | -5.382 | -45.200699 | 2024-10-12 00:24:33 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 20c683b4-06ff-3c77-a9fa-60c5d9571723 | -5.4036 | -45.341599 | 2024-10-12 00:24:34 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d294b530-397f-37a8-8f61-2735507c6ce0 | -5.4052 | -45.348499 | 2024-10-12 00:24:34 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 81138dae-bc63-36ff-bf97-35c98cbe86d0 | -5.4068 | -45.3554 | 2024-10-12 00:24:34 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0a4d39d6-28a6-37ea-80cb-26f483b5d9a8 | -5.3938 | -45.3438 | 2024-10-12 00:24:34 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c305b891-c19b-36bd-b999-70c9f041379c | -5.3954 | -45.3507 | 2024-10-12 00:24:34 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d9064163-9993-389c-905e-027112246f35 | -5.8465 | -47.405899 | 2024-10-12 00:24:34 | METOP-B | RIBAMAR FIQUENE | MARANHÃO | Brasil | 2109551 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 607369f1-87a4-30dd-9b23-b83d4e47a93a | -5.2407 | -44.759998 | 2024-10-12 00:24:34 | METOP-B | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6adae105-f825-35b6-b1f4-4944d49c06db | -5.8367 | -47.408001 | 2024-10-12 00:24:34 | METOP-B | RIBAMAR FIQUENE | MARANHÃO | Brasil | 2109551 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f9a0cd7e-a757-3381-bc31-596078d40711 | -5.575 | -46.2836 | 2024-10-12 00:24:34 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1e710e97-851d-32eb-a68f-f737058101d0 | -5.3248 | -45.402901 | 2024-10-12 00:24:35 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 86256707-1b3c-3f1d-a3f3-38a7a7a46725 | -5.3263 | -45.409801 | 2024-10-12 00:24:35 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0badb7de-1db0-34aa-8f5d-d777777ff01c | -5.315 | -45.405102 | 2024-10-12 00:24:35 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d8ff89b5-4c56-3727-8110-77fc3e2436df | -5.3509 | -45.563702 | 2024-10-12 00:24:35 | METOP-B | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 03abb912-350c-3b69-8c03-a9b52efbc236 | -5.3524 | -45.570499 | 2024-10-12 00:24:35 | METOP-B | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e47e8d35-b9f9-3a82-8d92-32cde6783065 | -5.0887 | -44.816601 | 2024-10-12 00:24:37 | METOP-B | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 50ec3537-7c9b-37e2-9e32-ee6131b651fb | -5.2528 | -45.585602 | 2024-10-12 00:24:37 | METOP-B | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| fe8653d1-2f6c-3591-bf40-c24f249a562a | -5.2543 | -45.5924 | 2024-10-12 00:24:37 | METOP-B | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 55c71360-833d-3d2a-8fd6-7058eb115f0d | -5.293 | -45.900902 | 2024-10-12 00:24:37 | METOP-B | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 15c2b5d2-ccf6-31ec-86e8-2c8338746559 | -5.1799 | -45.5368 | 2024-10-12 00:24:38 | METOP-B | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c5cbe8fa-8d28-308f-8b22-c078505ea64a | -5.8358 | -48.657902 | 2024-10-12 00:24:39 | METOP-B | SÃO DOMINGOS DO ARAGUAIA | PARÁ | Brasil | 1507151 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b14136ff-796c-3859-9d48-aada12586dd5 | -5.8375 | -48.665699 | 2024-10-12 00:24:39 | METOP-B | SÃO DOMINGOS DO ARAGUAIA | PARÁ | Brasil | 1507151 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 6efc480d-4e01-3c7f-91d4-bc3ea4dd83fe | -5.66 | -47.909401 | 2024-10-12 00:24:39 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 880c2b16-c01b-30e2-bf9b-4b5a536c5ce3 | -5.6616 | -47.916698 | 2024-10-12 00:24:39 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 8727a3c9-41f8-358e-9b93-7fc6a4800875 | -5.6502 | -47.911499 | 2024-10-12 00:24:39 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b7173670-9ee2-3faa-8aed-90fd7b7eb68f | -5.6518 | -47.9189 | 2024-10-12 00:24:39 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0e8c5c7a-c3c5-3aa1-ba30-124d00e3cc5a | -5.8571 | -48.988201 | 2024-10-12 00:24:39 | METOP-B | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4d065c33-f835-31d2-a81a-7f70024d5acc | -4.7133 | -44.074699 | 2024-10-12 00:24:40 | METOP-B | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| cd29622d-fec2-37a6-9d5c-486d9703257c | -5.1725 | -46.1432 | 2024-10-12 00:24:40 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| a365bdec-b758-37a7-a5b0-5bc9b45d83a1 | -5.174 | -46.150002 | 2024-10-12 00:24:40 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| ad86b654-f57f-3b3e-af1a-0950f638efc4 | -5.0933 | -45.837502 | 2024-10-12 00:24:40 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| bc0214dc-1a49-308c-8731-53142e8ec068 | -5.0948 | -45.844398 | 2024-10-12 00:24:40 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 93911a00-b10b-3f24-a5e4-b2095fdea07d | -5.1627 | -46.145401 | 2024-10-12 00:24:40 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 1709b791-f2e0-3e09-9a74-580886c7501f | -5.1642 | -46.152199 | 2024-10-12 00:24:40 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 057195b5-3b88-3047-8ee8-b7d779a521b0 | -5.1168 | -46.170101 | 2024-10-12 00:24:41 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 6f5b4882-e69a-3199-bb00-24a240234d54 | -5.1183 | -46.176899 | 2024-10-12 00:24:41 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ccd3131-5bbe-38a0-9f66-8ccd22dafe52 | -5.1198 | -46.183701 | 2024-10-12 00:24:41 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 4f42bd41-42a4-306d-b3bf-be3a13fbdfff | -5.1085 | -46.179001 | 2024-10-12 00:24:41 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 341df87e-3480-3d81-8881-3dda822ba03a | -5.0725 | -46.064999 | 2024-10-12 00:24:42 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 28537c78-200e-3427-a2c0-4eb82b584c16 | -5.5211 | -48.071301 | 2024-10-12 00:24:42 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 74a8a888-debe-3b1e-8838-438c7531ec16 | -5.5228 | -48.0788 | 2024-10-12 00:24:42 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| dad8780f-0f44-3824-a77b-f471b22c485e | -5.5113 | -48.073502 | 2024-10-12 00:24:42 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cbf88133-8a01-347d-b707-8cbebcbd5bbe | -5.513 | -48.081001 | 2024-10-12 00:24:42 | METOP-B | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 56d6e6b9-39d9-31f1-88e4-b2123bc37bf1 | -4.9275 | -45.6511 | 2024-10-12 00:24:42 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 41b23900-682a-334d-975d-fd06fae48137 | -4.9291 | -45.658001 | 2024-10-12 00:24:42 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 26a18bcd-af51-3bb0-8a21-00604cc0e99e | -5.4132 | -47.909801 | 2024-10-12 00:24:43 | METOP-B | AUGUSTINÓPOLIS | TOCANTINS | Brasil | 1702554 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e5a62fcf-41df-3f5f-8f53-905ab8edb4f8 | -5.4149 | -47.917099 | 2024-10-12 00:24:43 | METOP-B | AUGUSTINÓPOLIS | TOCANTINS | Brasil | 1702554 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 36b814c0-5012-3b51-8968-925c54e927ff | -5.4051 | -47.919201 | 2024-10-12 00:24:43 | METOP-B | AUGUSTINÓPOLIS | TOCANTINS | Brasil | 1702554 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| efc9cbbe-bf27-3438-bcfe-6a22a1888da7 | -3.7078 | -40.705799 | 2024-10-12 00:24:44 | METOP-B | COREAÚ | CEARÁ | Brasil | 2304004 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 2db9802b-e1ad-3fd2-88e2-56f8433fae9e | -3.7597 | -40.972198 | 2024-10-12 00:24:44 | METOP-B | TIANGUÁ | CEARÁ | Brasil | 2313401 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 935a60e5-b90c-3820-b584-67be11804bda | -3.7623 | -40.983501 | 2024-10-12 00:24:44 | METOP-B | TIANGUÁ | CEARÁ | Brasil | 2313401 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 743b81b9-5cf0-316b-9356-e188bf4cea63 | -4.8588 | -45.666401 | 2024-10-12 00:24:44 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 0c68e7e4-62b6-3ee5-b8a1-825fa856c76c | -4.8604 | -45.673302 | 2024-10-12 00:24:44 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 0536ba68-417b-32c1-a962-fb4ecac6c53d | -4.862 | -45.680199 | 2024-10-12 00:24:44 | METOP-B | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 1256bb6d-e050-3252-823d-b289407f3a92 | -5.0945 | -47.172298 | 2024-10-12 00:24:45 | METOP-B | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 41c3192d-ecc7-3e02-9ca0-fe064e717de8 | -5.096 | -47.179298 | 2024-10-12 00:24:45 | METOP-B | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 15981fa6-1cb4-3347-80d7-193a3286a867 | -5.2709 | -48.056499 | 2024-10-12 00:24:46 | METOP-B | CARRASCO BONITO | TOCANTINS | Brasil | 1703891 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b8fa1f8a-60b6-3764-aa62-d2501da9b6c9 | -5.2726 | -48.063801 | 2024-10-12 00:24:46 | METOP-B | CARRASCO BONITO | TOCANTINS | Brasil | 1703891 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 68979280-ce5e-3cba-a9ef-c5eaf51cd8d2 | -4.9797 | -46.797699 | 2024-10-12 00:24:46 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| dd7fcb6a-132e-30d3-820d-7f2779abec38 | -5.2546 | -48.029202 | 2024-10-12 00:24:46 | METOP-B | CARRASCO BONITO | TOCANTINS | Brasil | 1703891 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 325f09b2-568f-3c77-9baf-f75ae2cd3e73 | -5.2562 | -48.036499 | 2024-10-12 00:24:46 | METOP-B | CARRASCO BONITO | TOCANTINS | Brasil | 1703891 | 17 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)

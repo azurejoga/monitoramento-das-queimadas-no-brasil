@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9393af22-eca1-3046-9e89-a3f177f53cd0 | -6.75151 | -59.32766 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 68410a56-3bdc-3081-aeb6-40d45a0a3c15 | -6.75092 | -59.3317 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 64a251d2-5727-3b8c-b746-4ceb1b5ecf3e | -6.75033 | -59.33575 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 4d2b411d-6c77-383c-8604-fcb5e3c1d691 | -6.74779 | -59.32306 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 158e4678-5ca2-3e4f-be97-07288c0b23e9 | -6.74721 | -59.32708 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| bf760461-a4be-3de6-b89a-046b089a275e | -6.74662 | -59.33112 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 8778ceb8-71aa-301b-b5fc-f4858a95351a | -6.7435 | -59.32238 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c62ce262-3633-3b38-8a28-6d1de416c5b2 | -6.7279 | -59.6652 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e33f3924-cbf3-39eb-b5a5-ec9b78c0f34c | -6.7269 | -59.3159 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 7cd7d2ff-388f-3343-89bf-aa9c3a34ee4c | -6.72632 | -59.31992 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e8c364db-bd34-3b4d-927f-ce35de680415 | -6.69406 | -59.86464 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 988c187b-899b-3bdb-9c87-c6980725b889 | -6.68992 | -59.86402 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 07448628-1044-35a0-8cef-de890844d502 | -6.68892 | -59.4285 | 2024-10-11 05:40:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| a739af85-8864-3a9f-94a9-136e5a62fa5f | -6.63562 | -60.06145 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 37a0c595-99bb-3734-a949-42dabbb47d9c | -6.61081 | -60.00241 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 79f34bac-bb8b-37ce-9179-6a6d9f30b8f7 | -6.6062 | -60.00538 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| dca1aba3-4488-3eed-a8d6-bafc00599bc9 | -6.60262 | -60.00116 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 2f341946-d84e-3887-9750-26932351d0a8 | -6.55407 | -60.02799 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 73f6a4dd-cead-370e-80e9-e3cedb4c1ff8 | -6.55354 | -60.03159 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 96bbae88-902d-34b0-acdd-b7780d87497d | -6.553 | -60.03517 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 431fa43d-85ba-300f-8647-0a89b2a14a27 | -6.55104 | -60.02024 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 15d81825-8116-30fe-a1f3-441af3be1be7 | -6.55051 | -60.02385 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 91aa9d55-aec4-3daa-987b-df3e0e25225e | -6.54997 | -60.02746 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 10fa03e0-40c9-374f-8416-d7416e6a7b85 | -6.54944 | -60.03106 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 73e3aca1-92a9-3ab5-8aa9-f9b0b96b8748 | -6.54641 | -60.02331 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9f3a39e7-a0c2-3b2a-ac57-a46359ca70f9 | -6.54535 | -60.03053 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| e5b565c2-d1e7-314e-94f7-5fcdd1452927 | -6.54341 | -60.01538 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ab702854-4a19-37aa-a65d-31c96ba31ccf | -6.54183 | -59.76652 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 3f1ff0b0-ac5a-366f-b90c-2db92b9d6d0a | -6.53822 | -59.76213 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| ee0c1efb-3dfa-36f3-9dee-7122870a78bd | -6.52426 | -60.06046 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 2ad7658b-f910-32d7-821f-40bacfee58eb | -6.51664 | -60.05563 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6fe13b04-7492-3df6-b04a-58a301bb58a2 | -6.77941 | -60.04516 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 4801f40a-39b5-3082-89d6-3a5c15451a75 | -6.77887 | -60.04875 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 0d4ab073-7cd2-3b38-b68c-92c33ca9a807 | -6.63616 | -60.05781 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a96edff1-2191-3b6c-ba89-ad860307109f | -6.52478 | -60.05695 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| a6296213-9878-3283-b4df-f14d8878c557 | -6.52123 | -60.05272 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| baefba0a-e615-3821-a2f4-fd1af550948c | -6.52071 | -60.05627 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 1d98ca31-370a-3e46-b31b-71802e3f2221 | -6.5202 | -60.05979 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| d0552211-44c0-3912-b5cc-6a6167754be2 | -6.51613 | -60.05916 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 16ed5267-87bd-3a33-a92a-325746b7e4b0 | -6.51038 | -60.09849 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 440dedf6-6171-33e7-ae99-324655d93e8c | -6.50631 | -60.09787 | 2024-10-11 05:40:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 56a80c83-204b-372c-bef6-03e4f88922df | 0.83598 | -60.47307 | 2024-10-11 05:40:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 62db3ae0-ccca-324a-948f-1f168d3b3e32 | 0.816 | -59.84757 | 2024-10-11 05:40:00 | NPP-375D | SÃO JOÃO DA BALIZA | RORAIMA | Brasil | 1400506 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 5661864d-295c-3022-b81e-320ec53d5acd | 0.81227 | -59.84816 | 2024-10-11 05:40:00 | NPP-375D | SÃO JOÃO DA BALIZA | RORAIMA | Brasil | 1400506 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4f3c251d-c85e-31a0-b6c7-cf7ac1c1616c | -1.44422 | -60.29252 | 2024-10-11 05:40:00 | NPP-375D | PRESIDENTE FIGUEIREDO | AMAZONAS | Brasil | 1303536 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fbe7823f-da48-3931-877e-28f531410479 | -3.08786 | -60.29418 | 2024-10-11 05:40:00 | NPP-375D | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 43c5d1d9-a91c-3cb5-8702-bd8999481bb2 | -3.11435 | -61.10019 | 2024-10-11 05:40:00 | NPP-375D | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 6f703111-815f-32b9-897a-12a31954abc6 | -4.7141 | -60.82034 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3854d9dc-a3f0-3c41-b060-086a80ea7ca0 | -4.71355 | -60.51379 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 80d50720-a6a5-3f6b-9637-622f969d5b6d | -4.71031 | -60.81977 | 2024-10-11 05:40:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 37217bd6-bb03-31df-96d4-b0d56a9d9157 | -3.78112 | -60.12687 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| bcf1d716-89e7-39b8-9fcd-63b84620a1d3 | -3.77771 | -60.1246 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 37702b7e-b3b3-3882-991c-794fc17c5c6e | -3.77721 | -60.12626 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 54ba6546-ed00-3755-a22a-629ccf7614f8 | -3.77695 | -60.12948 | 2024-10-11 05:40:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b92cc1d6-136c-3672-86b2-57a43c6729cb | -1.92194 | -61.73092 | 2024-10-11 05:40:00 | NPP-375D | NOVO AIRÃO | AMAZONAS | Brasil | 1303205 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9e604038-9960-3c78-80f2-4804ba95a6e7 | -1.51447 | -61.59283 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| aec3f30d-e812-334a-8b67-c8b049c54552 | -1.51096 | -61.5923 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a9b5a157-1f49-374b-a252-1651df185c90 | -1.48931 | -61.59294 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| b8481c62-d6c0-370d-beb8-78a034d71296 | -1.48871 | -61.59682 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 41b7eb26-b941-3762-baac-ca9bad2785bc | -1.48866 | -61.59307 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 6db90f59-fdb1-34d8-9b52-b86395cd5558 | -1.48812 | -61.60068 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ac42d83b-6510-3f22-ad67-27319b58aed1 | -1.48805 | -61.59695 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 648ea18c-7e42-3922-acd0-c97bf8677af0 | -1.48744 | -61.60079 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3650f312-22ee-3827-9bd5-0b9b2f426ab3 | -1.48332 | -61.60412 | 2024-10-11 05:40:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1a06ad31-1551-3b9a-9851-23fca9ad6d59 | -3.04752 | -61.67825 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| f31bb023-fb8e-354b-9ab1-223b5132e93f | -3.04691 | -61.68224 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 4551887a-9eeb-3275-ab57-7c5cb5a8bd23 | -3.04336 | -61.68169 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| dcc4e69f-7bac-3984-956c-758bcf0c87f6 | -3.04274 | -61.68567 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 0e96c9d9-708b-3400-a325-29e3cf6b4627 | -3.03981 | -61.68114 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 884932bb-d857-35cb-9177-18bc89bdf5b9 | -3.03919 | -61.68513 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 8b13b278-7cb6-3d5a-ab6e-316d265de262 | -3.03626 | -61.6806 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a2b4edb5-5845-3848-bf49-94c970a5e107 | -2.89462 | -61.87325 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b9b11f25-c05c-355c-b921-6da1f48b8f57 | -3.28944 | -61.51103 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 33183cc8-aec2-3e19-bac8-5107020eb4ae | -3.04629 | -61.68621 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2b7be702-b7ca-317c-bdfb-355196495bf8 | -3.04397 | -61.67771 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| d3c5b72f-f1eb-3169-a085-88d75c81686d | -3.04042 | -61.67717 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| cd0154ff-3b9f-31d3-bc10-21d4940b53e7 | -3.03858 | -61.68912 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| f0043250-34a1-308b-97f7-a58a3e8e7e7e | -3.0018 | -61.41654 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 2c50bd81-430a-38f7-bdec-a3869ac04ec5 | -2.99821 | -61.41599 | 2024-10-11 05:40:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 0a809c3a-2718-32a1-bdab-51d1d437167e | -5.87192 | -63.91131 | 2024-10-11 05:40:00 | NPP-375D | TAPAUÁ | AMAZONAS | Brasil | 1304104 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b6204762-e159-3657-a765-e2d731503d0c | -8.70318 | -66.99901 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 91e4119b-a8a8-31b2-863f-9cf73fada234 | -8.7026 | -67.00262 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d3aec71e-e382-3bae-948d-d3987e58d2dc | -8.6998 | -66.99845 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f38ebdc6-5800-3626-8f24-c47b11cc3e40 | -8.69922 | -67.00207 | 2024-10-11 05:42:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ed32987a-2ef9-3f9d-8621-0aa9caff485e | -10.0993 | -67.35029 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8908198b-57f7-39c9-a42a-e5b0fd280bdc | -10.0965 | -67.34609 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 55acbd65-20b2-3151-9abd-219f7fbef374 | -10.09192 | -67.13773 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 02247c77-fc61-3c57-94e4-3455bf9714c9 | -10.08856 | -67.13718 | 2024-10-11 05:42:00 | NPP-375D | PLÁCIDO DE CASTRO | ACRE | Brasil | 1200385 | 12 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 9499f1a1-1284-33fd-87e2-a1dcea3750e6 | -9.7538 | -67.56498 | 2024-10-11 05:42:00 | NPP-375D | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 66ec0064-c8c2-3aab-8437-c4c67230cb62 | -10.85635 | -68.2823 | 2024-10-11 05:42:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| eac7fa1b-270b-3381-904a-afdc47403ebd | -10.85572 | -68.28613 | 2024-10-11 05:42:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| be2500a0-8ee4-3339-a47a-df33f4214ea2 | -10.48512 | -67.79676 | 2024-10-11 05:42:00 | NPP-375D | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 42863016-8561-3583-9e71-d77f6958d14e | -10.46915 | -68.41407 | 2024-10-11 05:42:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 6d423717-7b62-3cfc-9684-ca4435007e18 | -9.62506 | -51.76361 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| fff06472-68f0-3c3a-bc15-246990ba0dbf | -9.6244 | -51.76585 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 138936bd-c7f3-35f6-8507-b8811d1cd8b3 | -9.62418 | -51.77113 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4e7d50df-27b1-37cf-a0db-6404b8ae25d7 | -9.03824 | -52.94383 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1e146a3d-11ba-396b-a871-7f9045c0fea5 | -9.03756 | -52.9495 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1afb7e3f-7239-3e33-a282-8e023f165250 | -9.03658 | -52.94409 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f18d54bb-67a4-377b-825c-e63d59404c44 | -9.03588 | -52.94964 | 2024-10-11 05:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| b64ccc94-4b52-31d1-8368-4e1b2904bec1 | -5.36622 | -60.09488 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a04b1ebb-7826-3d0b-bd60-9eb668bc11c2 | -5.36567 | -60.09834 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 937d2185-eb1f-3c3d-bba6-fbb49a8e26f3 | -5.36344 | -60.0909 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 58d4cf73-4336-3d3a-8cca-e80606c178cf | -5.3629 | -60.09436 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5c88f06a-1519-344d-921c-7939b15dce4d | -5.35373 | -59.97942 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| addb4b82-8a13-3498-8051-359c1b98d7f4 | -5.33753 | -60.12585 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 222ff855-989f-3968-8960-3d2d6683b0a8 | -5.33709 | -59.80641 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 32aa86b9-2c73-3c9a-ac29-c2afdb4011f5 | -5.33475 | -60.12186 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cb9490af-b41a-365c-9a14-ba9ef14d92b6 | -5.3342 | -60.12532 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 30970851-79b6-30cc-82e7-44b7a6e6d180 | -5.33377 | -59.80589 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9211dd6a-a3bf-344b-b3f9-5c1b06436b3a | -5.33366 | -60.12878 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 43784a72-1927-31d3-afd4-ccf88aff93f4 | -5.33312 | -60.13225 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 05329062-092e-3fcd-82b2-473df9e25b69 | -5.33257 | -60.1357 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 509a95d9-51c2-3f21-b317-b5777271ab71 | -5.33203 | -60.13917 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 66ecf9a1-5498-372a-a72e-b33c3a7dbcc4 | -5.33143 | -60.12135 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2e298bbd-38b8-39d4-acf5-818b176d539c | -5.33088 | -60.1248 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a83aa6d7-fbbc-3d89-823c-ecf2564e8cc9 | -5.32871 | -60.13865 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c8ce46d5-dc77-3d26-b6bf-d9c554eb225d | -5.32816 | -60.14211 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 27f703af-eaac-3c6b-b584-eb585ec978d1 | -5.32756 | -60.12428 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 99e3f1ec-d7d1-3f83-b70f-5303925b8f51 | -5.32538 | -60.13813 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 31a87d41-db2b-336c-9725-22f328ae22d1 | -5.32484 | -60.14159 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 126c8105-816d-373d-8976-5db6c10a063d | -5.30273 | -60.15231 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 385650e4-e46b-3077-b451-5b78d6404166 | -5.29402 | -60.20767 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| f11d50be-013b-328b-b5a5-16e591b3b2a1 | -5.2907 | -60.20715 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 2c48e905-1246-36a7-8d54-4cc0d58988ea | -5.29015 | -60.21062 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 0f223c9a-e3d6-3b30-8ff7-66dc081bdf81 | -5.28885 | -60.1324 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| aec5c145-187d-3452-95b2-f9ac59f62c34 | -5.28738 | -60.20663 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| e9cca9ec-20ce-33a7-8c37-196578451d28 | -5.28683 | -60.21009 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 4b93a7f0-964a-312d-ac8c-49951be6c73f | -5.25895 | -60.19511 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 6cf5335f-4578-3f3b-8b04-6c6304b9040f | -5.25563 | -60.19459 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bde1c7ce-992d-3252-a1fa-253bd56a541b | -5.218 | -60.19578 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| dddda987-25c9-307e-adcd-e1ea7573eb5b | -5.21468 | -60.19526 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0064c96a-aa1b-31d6-a2d2-d5d5ec5636d6 | -5.21136 | -60.19474 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5deb4a63-bea9-3fcf-b592-b0f74a45cd0b | -5.19753 | -60.19613 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 55f8ee78-5498-3e21-a8a9-5be2d493f0d0 | -5.19666 | -60.07191 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| eb770b4e-7810-36cf-a2ca-482c0a135ae8 | -5.19262 | -60.22726 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ca31fc76-ec28-38ea-a232-c0e41717991b | -5.18354 | -60.13366 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 8370456d-3dec-349c-8ce7-e448a77f8b44 | -5.183 | -60.13712 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 168934b5-8a15-3fe1-97e6-ef2bf16e37d5 | -5.17967 | -60.1366 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| f50f6a90-d3b7-3143-9843-2b66b544f84d | -5.17379 | -60.13581 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 20f271ff-6f3c-3b61-a6f7-f8201d64e9f1 | -5.13086 | -59.82412 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 23235605-c36b-35c6-8231-5c12da72d9ae | -5.08824 | -60.22521 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3eab3127-712a-3cc2-9332-a2ae30a4bfc2 | -6.47029 | -60.02313 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 88aaf115-f648-3bd8-852d-2f88df03b777 | -6.46974 | -60.02661 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a6b1be0a-a675-3982-a5c3-62c0a6395ed8 | -6.46516 | -59.7723 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c97c328b-8344-398c-8904-31abfff8f5f1 | -6.46128 | -59.77528 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 519376eb-5d3e-32a2-9066-2c349d3a8d22 | -6.46074 | -59.77878 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8fe47e50-5a2f-36c6-8bba-a9a5ebbefe19 | -6.4081 | -59.98488 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3b39dee5-bf0c-3cba-81a8-ffc812cc9404 | -6.40531 | -59.98093 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7a7d0897-9de3-3295-b860-ca52363f3bde | -6.39975 | -59.97293 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 75776f7f-6458-379d-abb6-ff2f087d18fc | -6.39588 | -59.9759 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| a91673cf-b77e-38ab-aaff-ca5ac6fb586d | -6.39282 | -59.97853 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 540e2175-7bd1-372b-bbf7-b79b2c6aae53 | -6.38949 | -59.97802 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b3ee9f99-f9d6-307f-bdaf-20edd3470fdb | -6.38895 | -59.98149 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 66c28a42-3388-360c-bee2-594969dcc50d | -6.38617 | -59.9775 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 8c9ef496-e042-3b7a-98cc-78019b995d00 | -6.38562 | -59.98097 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 4f78fc0a-5663-3c8d-a094-79295d5cc63d | -6.38398 | -59.99141 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 70339463-170b-32d4-ad8a-9089ff277fe4 | -7.39838 | -59.71162 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e151d7a1-d204-34fb-9247-79f3619bc762 | -7.39783 | -59.71516 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 760e43c6-00a3-3fbe-bf7a-4e2669bef4a5 | -7.39727 | -59.71869 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 391dcf0d-a816-3094-a077-41950f914d98 | -7.39672 | -59.72223 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 819da9a8-e6bf-3d17-a105-4137663baa03 | -7.39393 | -59.71817 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ace9d0c0-b60b-3c01-bae9-be732714cfd6 | -7.39337 | -59.72171 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 91d3b87e-a33a-3521-b0dd-8dbcd0392f3a | -7.39003 | -59.72119 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 32a896f8-4732-3ea4-b90f-02502b76c4f0 | -7.3516 | -59.7478 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 29bb9dcd-25da-3747-94a4-d72ef5d2220a | -7.35105 | -59.75133 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 88db4ce7-e559-3b22-8ed8-d5f0c4b25d8b | -7.34771 | -59.75082 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 53a462b7-7ea2-3f48-811c-9f4a4f1ec919 | -7.18426 | -59.76198 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 79d0cc4b-b41d-328f-9f4e-753a816e401a | -7.15491 | -59.3981 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 5a1227e6-c8a2-314e-ac89-12e2d387da1c | -7.13811 | -59.31883 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 1e5fedfe-1d93-3bb0-85b8-dccc4c2f604a | -7.11024 | -59.77562 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 65ad916d-ce2a-30a1-9add-caac59f6f043 | -7.10799 | -59.76805 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 25dafdf7-6bbc-3025-9c62-f7d5695ccacf | -7.10744 | -59.77157 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| dfa8108d-440c-39ff-b640-5cd4400b810a | -7.06645 | -59.40289 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 22d19e8a-ae30-305d-91eb-5bd6c6bbb2bc | -7.0659 | -59.40646 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6fd17abf-1120-3508-bbc6-b8cf8d68c7d6 | -7.05316 | -59.26527 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| cc72d1b0-ab6d-36d1-8f61-4abee675ccaa | -7.04978 | -59.26474 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1ed861d3-b5c9-3fb0-a181-d2695b6464d7 | -7.04923 | -59.26833 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 73613d23-3cf0-3abc-9652-da92066b54e5 | -7.04586 | -59.2678 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b000138b-08db-3d60-93b1-0187a54dc304 | -7.04291 | -59.39921 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6a0434f1-738e-3ffa-8854-edb926184de0 | -7.03955 | -59.39869 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 54ed6c96-18f4-36ae-a3c4-a3586f93f9dd | -7.03406 | -59.43431 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 92287fdc-0727-3670-91a0-d9ed01e1668d | -7.03125 | -59.43023 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 403045b8-3836-3a42-9c08-f5a09f3ed0f2 | -7.0307 | -59.43379 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| c5c59547-fcfa-30aa-b8d8-d8ddcef79cd2 | -6.92309 | -59.78581 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 84bf3330-1750-3d5f-927b-05dc951b2732 | -6.90863 | -59.79079 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 996e540a-debd-3586-914a-95def8db8b18 | -6.89826 | -59.85737 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 11e58c6f-6503-39eb-907f-1328203d30b1 | -6.89364 | -59.79923 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| fccdfeeb-8fa5-3485-aeeb-b6e5d71f80ae | -6.89255 | -59.80624 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3f4edafd-2a33-3781-b400-455987981f0c | -6.88976 | -59.80221 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 09359b24-6129-3610-84cd-f6a1928a8f41 | -6.88921 | -59.80573 | 2024-10-12 05:23:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e1d9cb5d-bd9b-3690-ad59-6a92487b8de8 | -6.69444 | -59.86507 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 1d0c69b6-769e-3026-a40a-9d57b8c53ddd | -6.69165 | -59.86105 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| aa6d29ff-56f7-324a-8209-721176202b50 | -6.69111 | -59.86455 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 3c603d71-75b7-3d38-8019-3bd46e63f834 | -6.68929 | -59.81054 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6c32ce71-b525-3edb-8524-ea2d083ea3a5 | -6.68541 | -59.81352 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d9e9ea7b-751b-3b67-adb7-0060f565008a | -6.68208 | -59.813 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 03e05d50-8f60-3301-b7bc-5b4e53da9404 | -6.67819 | -59.81598 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 59cea29e-b8a3-3729-892c-708518a5d627 | -6.6754 | -59.81197 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e95b60c3-ed3f-31b2-8868-ef6602596d84 | -6.67486 | -59.81546 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
 
 
 [Clique aqui para ver as próximas entradas](README108.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| bbed76a5-e9a7-388f-854e-b5dca71c17d4 | -11.25593 | -60.50462 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f626d92b-4c79-35dc-89b9-9e66b6402566 | -11.25551 | -60.56296 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d2333496-fe69-3ed6-b65d-ce80cafb534a | -11.25492 | -60.39973 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 7a25b89d-7a92-3a96-8c52-4a2a6766741d | -11.2517 | -60.56225 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| cdfa50e7-97f4-3c7c-aaff-f117553ffafa | -11.25107 | -60.39904 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 7cc80006-2a3b-35aa-b872-476d74b89e45 | -11.24197 | -61.17871 | 2024-10-10 05:38:00 | NOAA-21 | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a8c1c6e6-385e-355e-bafe-164154d7cff2 | -11.23828 | -61.17818 | 2024-10-10 05:38:00 | NOAA-21 | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 8da18d5a-db0b-3ced-b9d7-7c57b2e8091d | -11.23435 | -60.4909 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7fcd729a-bfd0-32db-8f90-2023ebce1726 | -11.23053 | -60.49018 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c9305a43-9391-3f55-a2ed-7754ff46a478 | -11.22985 | -60.49506 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6365b6c9-2b73-37fd-a8d4-35018ec9f99c | -11.22918 | -60.49986 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0e802e77-e12c-384c-8b64-20ff1517e102 | -11.22047 | -60.56237 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 9ce7d3ab-4e46-3c04-9263-543afece6cbb | -11.21721 | -60.23589 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e44b2f9d-8f41-3917-90f2-7c9a5798e0bd | -11.18331 | -60.44631 | 2024-10-10 05:38:00 | NOAA-21 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 2132be90-f464-354f-90e4-13947b9cb9d0 | -11.16627 | -60.61996 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ef51face-a5e2-3d20-80e4-717f108001dd | -11.16315 | -60.61458 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 16b0c1ba-f9bf-33de-9f11-46ca8c24438a | -11.16003 | -60.60928 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 755bc732-5f01-38db-93b2-c267d8d2804d | -11.14167 | -60.60167 | 2024-10-10 05:38:00 | NOAA-21 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7c61c6e8-5206-3eb5-8a49-20ebf7782f5c | -13.7448 | -60.60593 | 2024-10-10 05:38:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| c89ac4d8-1c42-306f-a886-9b11b6dc704f | -13.74086 | -60.60535 | 2024-10-10 05:38:00 | NOAA-21 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 3923f8a9-a438-317f-80be-33abd193d687 | -13.42815 | -61.91024 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 701ea18e-6095-346d-b3ef-d74ab6810a1f | -13.42754 | -61.91459 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| d125b308-c7a6-33ea-9bbf-4f26f5686677 | -13.4257 | -61.92758 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8b11ea5e-5d41-3ac4-930b-613bb7ab0bf0 | -13.42451 | -61.90969 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 9d1018a2-db88-3742-8faf-14021bb33ca5 | -13.4239 | -61.91403 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 0b4f4452-cec1-310d-b208-14fe26dfe1f8 | -13.42328 | -61.91837 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 4ba77638-878f-30ea-b756-d8c733b0dc44 | -13.42267 | -61.92271 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 989a26a1-1c77-3cf0-8b8c-5d133e908664 | -13.42206 | -61.92704 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 217b5acd-a718-33ec-90d3-8196967e2de8 | -13.42087 | -61.90913 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 2bba3807-2b98-3913-8d2e-88b4cf5f758c | -13.42026 | -61.91349 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| ffda4d46-7256-3edd-b72e-40ee5db515ac | -13.41964 | -61.91782 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 3cdec4ad-99cb-3c52-aa8c-63d5e41f99d1 | -13.41903 | -61.92216 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b581e4b4-bf79-3ce4-9535-febbafc5bda3 | -13.41842 | -61.92649 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 0ead218b-4365-3961-957a-c436bbb47970 | -13.41539 | -61.92161 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 582b4fad-da2c-3f19-9d68-67cb742cde21 | -13.41297 | -61.91237 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 8969ee71-1f01-3ed6-9d03-0f1035d0fd08 | -13.41236 | -61.91672 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 56d28e50-af33-3336-b17e-34f4a8f6c13c | -13.41175 | -61.92106 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| fa244a9d-4bc2-35e8-b77f-503ec56c6a75 | -13.40872 | -61.91616 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 385d0c1e-c4ec-364e-98d2-84d744514e7b | -13.40266 | -61.90638 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 6d36b929-5ba3-3e7f-b649-b9fe28f55f83 | -13.40192 | -61.90772 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| e337aa8c-a091-30da-ad66-12a555e4cd9a | -13.40128 | -61.91205 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 79c8aca5-13c1-303c-b84c-2f0fa18ff235 | -13.3891 | -61.91908 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| e0f79148-c07e-3343-a793-056f6d40723a | -13.38484 | -61.92286 | 2024-10-10 05:38:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 4654bdc3-e25d-35bc-86b1-adf078749597 | -7.9346 | -61.2765 | 2024-10-10 05:38:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 7d078295-91cc-3dc7-8ce1-52767f611398 | -7.93107 | -61.27596 | 2024-10-10 05:38:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| f6e0930a-c7c4-3101-837a-c5e22df37fb3 | -7.9253 | -61.24221 | 2024-10-10 05:38:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| a8d624d9-23b0-36f0-ab8c-5077a47e502a | -7.91354 | -61.66243 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f0ba3edc-6157-3fbb-b893-3392949ef1a7 | -7.82172 | -61.69275 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 359b2333-acda-3789-99f5-69f081cdf106 | -7.81825 | -61.69222 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| eccdaf0e-7474-3057-9fd2-351418f3dbb4 | -7.79718 | -61.58275 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0f244025-f42a-3138-a844-5a4d63f0c71b | -7.79659 | -61.5866 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 1ae9bbc9-64b2-3232-8334-8ee06f604568 | -7.79429 | -61.57835 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c295ca8a-1aef-3cb2-b70f-ed8ef8744e98 | -7.78207 | -61.35174 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| dc55630f-77d0-3356-bec7-5b4abf668c53 | -7.77855 | -61.3512 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 5fd42257-68b1-301d-acc2-de23978716ae | -7.77589 | -61.19966 | 2024-10-10 05:38:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 83e93cee-a5c0-320e-8738-87c2cd61e6d2 | -7.77503 | -61.35066 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 42307d6d-03bf-3bb2-8793-1107136ae181 | -7.77235 | -61.19911 | 2024-10-10 05:38:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f145d0e4-f4f6-3403-aa12-414b2ea1d28d | -7.77152 | -61.35012 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| ec59e64a-211d-3b3b-a938-72e23829f489 | -8.23569 | -61.19917 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| ce1f75e2-f045-3dcf-afdc-ea046d90d854 | -8.23455 | -61.18233 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0ca13dab-fa04-33e0-aa3f-2991a2f49c13 | -8.23273 | -61.19456 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| dd68d771-4b8d-3810-b687-31e814959d5a | -8.23213 | -61.19863 | 2024-10-10 05:38:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 99af406a-8236-3687-bf89-fbeffb4cd91a | -9.17851 | -61.57579 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fc1de52d-89f1-366c-ac0a-3a2fed0f822d | -9.17498 | -61.57526 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f26577c6-a0f3-3dbf-b2f1-81855c34be84 | -9.17145 | -61.57472 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f1442d5a-86f1-3f11-9bab-30ca93c6aba5 | -9.16791 | -61.57419 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 73cb01cd-3c01-331e-adc4-9b2e9326e340 | -9.16438 | -61.57366 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 486886f9-cc45-3384-9f51-337c0a6ea64e | -9.16145 | -61.56911 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5080f074-34ca-3ad9-aa8b-409c287cb220 | -9.16085 | -61.57312 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a95df647-adcf-35fe-99de-39e63fadd64e | -9.15732 | -61.57258 | 2024-10-10 05:38:00 | NOAA-21 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0ef8dbd6-c454-30a2-894b-50af41f851fd | -9.12421 | -61.28552 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| 8bb2460a-fb52-392e-abc2-31e811edf907 | -9.12359 | -61.28964 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| e17403bc-0b22-377e-8036-2edd3aa9045f | -9.12186 | -61.27674 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| c6b14ef5-e68a-3d19-b809-97a045bffd89 | -9.12124 | -61.28087 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 75b7b358-635b-36e7-b19b-ab2f0f3ebff3 | -9.12063 | -61.28498 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| 2cb8c5c6-0730-3b2c-b160-5ebca754a11e | -9.12001 | -61.28909 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| 2dfc21a8-1569-3d7d-9c49-d2bf11f05f70 | -9.11889 | -61.27205 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| ab6bd8c8-a27c-3857-9baf-bba0fab67065 | -9.11828 | -61.27619 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| d1fe0a40-4673-3eb2-96db-979161a5fef4 | -9.11766 | -61.28032 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 17de7720-0ff2-30eb-9dfe-b6f754d1ac5c | -9.1147 | -61.27563 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| f5686fc9-a8cd-31bd-923e-0a81984260ac | -9.10063 | -61.37 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| b5b21cee-b43e-3df6-a405-6a5b16eb5f71 | -9.09707 | -61.36945 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ac98697a-f7a5-392b-9a87-34101e8a1686 | -9.08924 | -61.39755 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4b66a9af-02a4-3100-8c45-d5a9cde89a76 | -9.08863 | -61.40164 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f00a5025-2671-3669-977e-bbcd6cc99b5b | -9.08629 | -61.39291 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 322049db-fe37-34fe-9e58-bdc370b410c0 | -9.08568 | -61.39701 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 7aa33ecf-d140-31f1-a781-6eda4e4a4ee8 | -9.08507 | -61.4011 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| b9e88dc9-fd44-3f1a-83f0-407f908f6076 | -9.08333 | -61.38829 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 020f3998-f52b-376b-b879-9564f199682c | -9.08273 | -61.39239 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 10a02aa7-18a4-3961-8cda-4f8e80295a43 | -9.08212 | -61.39648 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 8d7f4b2c-0d04-35b9-a765-4a7a863d8f26 | -9.08151 | -61.40057 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| eab7f283-07b0-31e2-8ffb-cf83a6562f4d | -9.07977 | -61.38776 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3046c86d-a7b4-3930-b8f1-953b60ef4051 | -9.07917 | -61.39186 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b7fc7dc3-caf0-30c1-b161-2cca0ca9062f | -9.07856 | -61.39594 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 304ee494-aa41-3651-943d-5d5d855f3c0a | -9.07795 | -61.40002 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 21ca098c-c9f1-3fd2-90f7-33e9366fa9ea | -9.07561 | -61.3913 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d4649b33-b652-363a-b412-0d65ceed3fc2 | -9.075 | -61.39539 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 9c474b59-f612-305b-8960-5cbd00a5365d | -9.0744 | -61.39946 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| b1e50772-43bd-3b4a-a4cb-756dd2e52ad6 | -9.0735 | -61.28201 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| e68b3754-82de-3dff-8988-a94906e17141 | -9.07145 | -61.39484 | 2024-10-10 05:38:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 76914213-298f-3070-9cad-6422854ffe55 | -3.70639 | -58.54839 | 2024-10-12 05:46:00 | NOAA-20 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 6ce74d11-bfb6-3530-ace4-1437c33bd536 | -3.66795 | -58.80862 | 2024-10-12 05:46:00 | NOAA-20 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 9a8f15b2-7b54-3502-9d14-c4c03d930757 | -3.53461 | -59.39372 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 985d00f4-b549-3e08-8b9d-ace95d8597dd | -3.53418 | -59.39076 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c14cfa13-8346-3719-b6e9-9fb0164128af | -3.47982 | -59.50431 | 2024-10-12 05:46:00 | NOAA-20 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ce36e484-77be-301b-93c4-f4a92e3ee36d | -3.4753 | -59.50367 | 2024-10-12 05:46:00 | NOAA-20 | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ec98fe7c-42a6-3b35-a37b-006f483aec37 | -3.2179 | -58.93855 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e5383df6-e417-3745-aa28-889922e56e6f | -3.21248 | -58.94282 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c1ea88c7-1159-37ed-a59a-7b245335472b | -3.09461 | -59.38165 | 2024-10-12 05:46:00 | NOAA-20 | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 52371653-cc1c-3d9b-b759-b50a91762025 | -3.05142 | -59.36111 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| bbf86342-757a-33e9-9616-4d80ce75ada4 | -3.0469 | -59.36038 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0ca1ba38-466e-3c63-888b-50e265954d56 | -2.87577 | -59.18829 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3bf2d41c-1e27-3b8e-ae33-e262785b54ee | -4.55756 | -59.57021 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f6798cfa-ae26-337a-9ef2-aa8100c112e2 | -3.9301 | -59.12274 | 2024-10-12 05:46:00 | NOAA-20 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f0f3fb0b-7a4e-3139-a8b1-34432083a17e | -3.90376 | -58.63554 | 2024-10-12 05:46:00 | NOAA-20 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ef648be8-57b7-35d0-9c73-b75f072590f2 | -3.72718 | -58.47489 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| beb6953d-30ac-34c7-b858-bf877f958b47 | -3.7223 | -58.47425 | 2024-10-12 05:46:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 44ec944e-b322-33ea-851c-66fcf60b92ed | -3.63525 | -59.09365 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8e9f6bfe-71cc-37ec-b1dd-f067e8aa1e36 | -4.2686 | -59.99964 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ee197235-5655-335b-936b-ec5816c3eee3 | -4.26483 | -59.99468 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 3bb6eecc-0da2-318d-92fc-084bc94b111b | -4.26418 | -59.99902 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| c61327b6-72fa-307b-b05e-2dade19c7374 | -4.25976 | -59.99838 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 1ec2ccba-1d15-3341-bf00-17624ca4fc16 | -4.25664 | -59.98903 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 9b132f58-88ac-3c7f-a9fa-b1929f632bb2 | -4.25599 | -59.9934 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 83ec4b66-c011-315b-a50c-8243303ec94f | -4.23649 | -59.94167 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 705241e6-ae1b-3e63-9f92-37fe7060269e | -4.23209 | -59.85809 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e998e646-a9c3-3a96-ace8-54d2fed36ddb | -4.21738 | -59.95413 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ccc13726-355e-3ac2-9646-70527d1c1be5 | -4.21672 | -59.95843 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| bf543f8f-bc89-3f4b-bf69-6f60eaf27292 | -4.21622 | -59.95654 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| f0f79691-00fd-3ee4-b356-a3147c8c6725 | -3.89321 | -59.68576 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b8527b21-dd97-3749-899e-077eb1314502 | -3.89254 | -59.69019 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| bc55de0e-e350-32e3-9fdc-45cab7fd1287 | -3.87174 | -59.73724 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e0533a97-8fcf-34f0-ae18-e863390c7a0d | -3.86727 | -59.73658 | 2024-10-12 05:46:00 | NOAA-20 | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 81060f5d-9d25-31f3-ac17-a1efb310fd05 | -5.57362 | -60.17335 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| cd7d6f41-cef3-3ae8-8dab-c0ebb014f4d7 | -5.57266 | -60.17182 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e1536d2a-6969-354c-bf93-b8e2d444a421 | -5.56917 | -60.1727 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 803347ee-01e7-3100-9f6a-89f2c862f867 | -5.36524 | -60.09355 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 5a3ec1f5-955b-3960-9cc6-0ca31f57eda7 | -5.36458 | -60.09795 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 427a356b-8ed1-3540-8028-d7637d07d9f5 | -5.33392 | -60.1205 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7223cd5a-8dbb-3475-92a8-bdf6d757b417 | -5.33327 | -60.12489 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 903f3268-c773-3dcf-820e-0639211aa898 | -5.33262 | -60.12929 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0c201a8a-9511-3e73-9020-511f12776108 | -5.33197 | -60.13369 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bd2da01d-e2e0-34f9-8373-5d49719c7b07 | -5.33132 | -60.13808 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5fa58960-db35-31df-a7c3-bb827bf507eb | -5.33068 | -60.14244 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ef19f8d4-0d53-33ed-90db-bfe1ec523c26 | -5.32882 | -60.12424 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 432627ed-bc43-3ac1-8bcf-8b8af8c69316 | -5.32688 | -60.13742 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6493974e-1af6-37d4-bc0f-41ad6ccfc41b | -5.32624 | -60.14179 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2fe16321-0f59-3496-90d8-e5ad87e92124 | -5.29386 | -60.20822 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 66d3c0a1-4293-33d4-acf3-b03857831c94 | -5.28944 | -60.20757 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| d1d8d2fe-6fde-327f-991d-56517b75da6a | -5.28882 | -60.21186 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 2a822959-5995-3c85-8d4c-70df2b6f087e | -5.19646 | -60.07534 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9cbb8d93-c19a-3d31-9588-347d8362c614 | -5.1831 | -60.13614 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 4fd81210-96f4-37f4-b24c-e2e2ec65f256 | -5.18247 | -60.14052 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c8caca89-9fce-30ba-a02d-61eb8609e298 | -5.17867 | -60.13549 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 566f90fe-a999-3ffb-80b5-a497ac1c26cd | -5.17803 | -60.13987 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f3f1d211-48a0-3867-be2e-4e8eee39a90c | -5.1736 | -60.13921 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e5a5fdaa-07f6-3155-9cc0-cb1c57dbb521 | -6.38559 | -59.97937 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 0533a757-8093-323f-9d7b-0cd2caa008af | -7.40039 | -59.71257 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| f624e470-c755-34d5-b714-53aed485444a | -7.39968 | -59.71766 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| cfe6f0b2-d946-3aa6-8c04-7ba446abf18e | -7.39897 | -59.72276 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| cd619b06-815b-3264-b4df-f38e0a4ace31 | -7.39495 | -59.71701 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 9b950bc1-52ec-374c-89db-420d14bb92be | -7.39425 | -59.7221 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 177800ac-99a2-328a-8ee5-b0bde4cf7f74 | -7.38953 | -59.72138 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 85a4b0b5-f64e-36ab-a44b-35171de0b156 | -7.18299 | -59.76454 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 1c916359-84b7-317c-a7e6-0a2582a68678 | -7.11187 | -59.77655 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| fb67e132-7e87-3277-be0d-78ddb66ad8d7 | -7.1079 | -59.77092 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 8969828b-ba82-3af9-b518-ca335d4ac37e | -6.92381 | -59.7867 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0d164e7c-dc9e-38b1-85ec-23d0187b2b79 | -6.92233 | -59.78429 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 55f66ac7-347d-3f45-bbd5-fa388643f55d | -6.92164 | -59.7893 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 5e6f07a9-4e89-308a-b228-395a92df30cb | -6.91912 | -59.7862 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1388ddf6-3222-3c59-bb6d-1c4cb55bc566 | -6.82311 | -60.12663 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 3d506839-b4a5-3906-a4e2-878608d4aef2 | -6.81336 | -60.12989 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 140d0e2b-9d95-35be-a333-4a27ce8c7f28 | -6.81271 | -60.13445 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 3669ab35-a3be-3c3a-94d0-c4fb7080da42 | -6.80881 | -60.12924 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 09a27ed3-200d-389f-9461-e40e511cbc70 | -6.80816 | -60.13377 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 037d6ce2-a6bf-3720-a041-01ee87d0590c | -6.80237 | -60.10906 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| c7c1c43f-c308-3ba1-b953-e47ed5ac8d7f | -6.8017 | -60.11381 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 973c0a33-711c-331a-8247-60af2a442446 | -6.73746 | -59.77296 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2d6d5de8-9c56-3078-b5eb-bf8adad282ee | -6.73558 | -59.63422 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f4ac6984-2780-359f-a47f-52eac02251d2 | -6.69152 | -59.86507 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| df53edfd-29a0-30ec-88d2-d3812baee948 | -6.61111 | -60.00551 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 66324010-34ba-36e2-8abc-bc70f57956af | -6.60653 | -60.00486 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 2fe83b11-adbc-36a1-a842-864968e56320 | -6.55551 | -60.03338 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6e1071f6-3866-3d12-862d-fc604ebe9ff3 | -6.55094 | -60.03281 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 60a8dc54-e01a-30e1-a8e5-f90cb6464329 | -6.54636 | -60.03228 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4529cb25-5892-3594-a475-a6a3161161b4 | -6.54247 | -60.02696 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ec8b2854-483b-375a-979c-1b818e1b485b | -6.54181 | -59.76976 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| a5d423f6-468c-3ff2-a8c5-328fd00dab56 | -6.54179 | -60.03163 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fc4220bc-1af2-36af-8c88-137d22fbc53c | -6.53786 | -59.76423 | 2024-10-12 05:46:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 24dc414f-02aa-3cba-9822-8a364319e73c | -6.52409 | -60.05751 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 91f075d5-59da-343c-8e88-5d59a484705a | -6.52345 | -60.06199 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b40516b5-5047-383f-964e-a35e7eb49bcc | -6.51956 | -60.05677 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 27fe845b-8c46-3cb9-ac2a-3836409933fa | -6.51891 | -60.06126 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8d428c82-59cb-3688-996b-b5c8bb3c411e | -6.51436 | -60.06059 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0f2e21a9-4ef7-3516-9d95-b0df06fa505f | -6.51361 | -60.09804 | 2024-10-12 05:46:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| c23a7311-49b4-3297-b74b-72faacc1595e | -6.79113 | -59.35331 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| c07d1a1d-f33d-3380-97a2-3dbd68d0f899 | -6.79041 | -59.35854 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| a90e767d-9804-3f24-ae80-b22c98d3e27c | -6.78734 | -59.30986 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 6ceb0f1e-a496-34f0-ad5d-614333d1fd10 | -6.78732 | -59.31307 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3b8311a1-e330-3f87-910c-a57f67a4a3fb | -6.78661 | -59.31514 | 2024-10-12 05:46:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
 
 
 [Clique aqui para ver as próximas entradas](README139.md)
