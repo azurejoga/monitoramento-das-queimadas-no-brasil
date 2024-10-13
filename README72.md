@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 002976cf-620a-32f7-ab92-dc172ef7938b | -3.91866 | -51.23103 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 165e64a1-e57e-3223-95b7-81e72584bae6 | -3.88949 | -51.94006 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f4f404ce-ee74-34cb-909c-23b6b988273a | -3.88666 | -51.93591 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| cfad3589-3722-39df-be0e-e1413e16b452 | -3.87823 | -51.96806 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 515b700e-394e-3424-bce3-7d0064856f52 | -3.87655 | -51.97892 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cace0eab-faef-35ce-a3d6-dafdfcfef169 | -3.87484 | -51.96754 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 91bb24b9-467d-3a67-850b-e94cfa3174c6 | -3.85241 | -51.36154 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| bbc07cf1-4951-388b-a739-db6392728311 | -3.85183 | -51.36533 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f418d6f5-7429-3455-bee3-790200f07ae9 | -3.8282 | -51.4043 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a89fb87f-0872-32d4-ab2a-1d3eaeeace6b | -3.82763 | -51.40807 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ce7f5144-e37c-378d-9fd3-851faa8fb791 | -3.81639 | -52.25645 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 27d74b91-c5c5-3354-85eb-12bf0aecd71a | -3.78589 | -51.31661 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c03a51c1-ecdb-37da-a26f-7632f3d67ca3 | -3.78531 | -51.3204 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 16.9 |
-| 51b563e1-01e2-3f9c-bb83-b822e0dab0c5 | -3.78472 | -51.32417 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 16.9 |
-| 1eb0de7a-ead7-314c-acc0-77d57ebd4948 | -3.78243 | -51.3161 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3772b6d9-7aeb-30e9-93bf-8c69fb99578a | -3.78185 | -51.31987 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 16.9 |
-| 316a5c7b-a0f6-30b4-ad7f-d7858e8c0df8 | -3.78126 | -51.32364 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 16.9 |
-| 64afc138-6c6a-37e0-991e-9e83f6dcddca | -3.77897 | -51.3156 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 68088734-4366-352b-a916-544d5a4f7ecd | -3.77839 | -51.31936 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| c4e8c9a2-4eb4-3767-a06d-3fe943e475ec | -3.7778 | -51.32313 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| d36569af-6433-363b-b6cf-ccee0c5e6e48 | -3.77639 | -51.85592 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 5c2615cd-cfac-3c72-8e81-9da94855e8ac | -3.77528 | -51.88558 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 91f88946-bb2a-33a6-be0d-9191e1f798f5 | -3.77493 | -51.31884 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 119f7204-7b93-32a6-9dd1-ff2140756efd | -3.77434 | -51.32263 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 1699efdc-6de9-34a4-b3fb-6eb167fcf6ec | -3.77133 | -51.88871 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a9a24079-813e-3377-9636-915f5c74d54f | -3.76958 | -51.83247 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c5633eec-65a8-336e-ac20-c4f3e46a7ed5 | -3.70012 | -51.0761 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3919d7e8-0494-39e3-8b6e-eca9556181f4 | -3.69779 | -51.22945 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| dd70e31a-15b0-32cd-b0bd-cd411591b5c5 | -3.69458 | -51.15826 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ff4b602e-504a-37ba-ab79-285fb01c17b9 | -3.69373 | -51.07117 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| dc45bd14-3b0a-3c31-be1c-bc201bca5a5d | -3.69008 | -51.11813 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f5c319d2-ed13-3460-b2cc-a686c4912738 | -3.68675 | -51.0701 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 71206a09-ee3c-39fc-a6d7-37f1985c5f93 | -3.6866 | -51.11757 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| dd210001-6248-3b29-8283-6aba2a19c25d | -3.68615 | -51.07397 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d1917a17-9c29-3f51-a26e-d90c03e653bf | -3.68326 | -51.06954 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 35890b4f-f5ae-3039-abff-97951498fdd7 | -3.68266 | -51.07343 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 2203a190-3536-31ae-ab4a-d01abe03cc14 | -3.67917 | -51.07288 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d0064820-7ff0-3269-ba45-138ef55544ff | -3.6753 | -52.11753 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| ce597cb9-9a21-3bfe-9a65-5ae17055eafa | -3.64727 | -52.12056 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c5135457-d7f0-3d04-929f-e302d5c75249 | -3.62246 | -52.03589 | 2024-10-12 04:57:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3a71debd-d4a7-3dfc-a523-9e30efb377f0 | -4.65755 | -50.95266 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| a0bdd886-187d-378e-b1e9-e3a9a3b15444 | -4.65694 | -50.95668 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 78c0baf9-9d89-3593-9404-2e68190a7008 | -4.654 | -50.9521 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 94209784-55d9-3ace-bdb9-547504e8334a | -4.65339 | -50.95613 | 2024-10-12 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 0b32a63e-e164-3a2e-b6dd-39459e220350 | -4.12848 | -50.83528 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a04d1d4c-c5ce-3043-b6b7-7d63226a9bc2 | -4.12787 | -50.83927 | 2024-10-12 04:57:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 51be8e2c-f4dc-32f4-9823-1a6fe075d9d0 | -5.60801 | -51.15753 | 2024-10-12 04:57:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 85ee7531-e278-3b03-932c-16f341e50097 | -5.59633 | -51.70474 | 2024-10-12 04:57:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d6e14dbf-5ea8-322f-8f94-368f70074244 | -8.47964 | -53.23948 | 2024-10-12 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f1700717-6d9d-3420-877b-ee22b7c3f158 | -17.55285 | -42.2987 | 2024-10-12 04:59:00 | AQUA_M-M | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 2d658f58-3c22-35d6-b285-d01ea55fa9df | -17.55147 | -42.30793 | 2024-10-12 04:59:00 | AQUA_M-M | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 5e62cc45-9363-37d0-bf14-0a883c65a0ef | -12.27138 | -54.0 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 4f009d70-f0f6-335f-98a8-e9e938d03c93 | -12.27082 | -54.00367 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0b2627b7-2dfe-3843-a2d9-bcbf55270156 | -12.2669 | -54.00679 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 64ef7814-a504-3536-bcf2-7fb5f21b66d9 | -12.26297 | -54.00991 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1f89673d-f622-338e-b1e3-c107dd22608d | -12.26292 | -53.98735 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3c39c665-5b86-3f6f-b265-c2b45c7273f0 | -12.26242 | -54.01356 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7de72c10-75b8-330c-9d37-83989f29494f | -12.25905 | -54.01302 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 58f559d2-2d57-3534-9e97-e56d59986b06 | -12.74751 | -54.00129 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 372d11e8-499c-3894-af7c-f97d298406cd | -12.6855 | -53.99909 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e8a68bcb-3536-36fc-9f1f-9090914f2607 | -12.65961 | -54.01021 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e9ba7e64-a5e2-360e-877b-fd05c34b3d99 | -12.65229 | -54.01284 | 2024-10-12 04:59:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4f14ccb4-700a-398a-9e74-5f586780e3b9 | -12.82426 | -53.51584 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 1b0d14a4-3440-317b-9bbc-64ec041a49e0 | -12.8237 | -53.49614 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0f335524-e304-3fd9-82dd-2267c9a7f173 | -12.82369 | -53.51966 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 58ab6576-3462-3c5a-8525-756ce5d7e3cf | -12.82312 | -53.52348 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d76b8332-6fbf-37cc-8c4b-c3498c520714 | -12.82255 | -53.50382 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| ed3b7b21-5b9f-37ee-b8b6-f2c671618250 | -12.82198 | -53.48406 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a040bfb9-8e30-3d02-90fd-44b54a4e1c69 | -12.82197 | -53.50765 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 40884722-4c21-3ec6-87ef-e89b4b6c54d8 | -12.82141 | -53.48791 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 445a5015-3586-3dd7-8bbf-454f09ec0c9c | -12.8214 | -53.51147 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 5f0367ca-30ea-3068-a3e6-868da702bb4c | -12.82083 | -53.49175 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8364d103-0326-3d47-b240-08bf0012ef9d | -12.82082 | -53.5153 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 34097915-82be-36b0-9fe3-eee528a0368c | -12.82026 | -53.49559 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| fc7c08ed-82cb-39e5-83a1-278f365b124d | -12.82025 | -53.51912 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 69bfcae8-f285-3e04-ba3d-873eaed8a64e | -12.81968 | -53.52294 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 2352e606-7571-3494-9fb7-8f8fbf49907c | -12.81968 | -53.49944 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 6380cf82-e3a0-3606-bbb2-28a37077b1d3 | -12.8191 | -53.50328 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 75c2da4a-485b-3d8d-bd10-2fb9ee7a0159 | -12.81854 | -53.48352 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ae138dd7-0c35-3c5d-b9f5-052dfabe3ace | -12.81853 | -53.50711 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 4395624a-7790-316e-ad4c-689b6dbbc1a4 | -12.81796 | -53.51094 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| c0751276-faae-3de0-9c3a-96a205bedd05 | -12.81796 | -53.48736 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 2d839fe9-07cc-3417-acfe-5d941a81fc4b | -12.81738 | -53.51476 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 916c8b2b-c881-339b-8563-7ebe19e46f90 | -12.81681 | -53.51857 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| acf135e3-93c8-3a4a-a947-4d09d5c367c7 | -12.81681 | -53.49505 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 85e6647f-38c7-3f1f-b9a1-90bfe66676fa | -12.81624 | -53.52239 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 019cf21d-8c6b-3e4f-a08c-d901b4c356e2 | -12.81624 | -53.49889 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 03565025-6481-3e83-8c39-137d77a697ee | -12.81566 | -53.50273 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 17d08190-901e-3c36-a3f5-9ef7e2baefc5 | -12.81509 | -53.50657 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 2d8d0671-e2fe-3a96-b779-fda99a570281 | -12.81452 | -53.51039 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 8c6a9c34-00a6-3a8e-bb81-84cba2f48b3d | -12.81394 | -53.51421 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| c7aba9d8-a4a8-356b-996d-22e760421863 | -12.81337 | -53.51803 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 7aad311f-e54a-3e3d-8ee7-efcd885df2b0 | -12.81337 | -53.49451 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 1452fe00-2ca3-3cd6-8f33-d44c4d9d7218 | -12.8128 | -53.52185 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 7a28b2f1-9dd1-38c5-9805-092bab3e6e69 | -12.81222 | -53.50219 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 6a7efd4b-0488-3ae2-9efc-23daf87849de | -12.81165 | -53.50602 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 48c3a1cd-73cb-37a7-b067-35259b3bec21 | -12.81108 | -53.50985 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 5a95571c-6136-34e2-9c9d-5c36c2fa5d61 | -12.81051 | -53.51367 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 5b61fffc-892f-3322-8127-c5c1960ddc53 | -12.81051 | -53.49012 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| a37378b8-d3be-30a1-9853-bc700109f8a3 | -12.80993 | -53.51749 | 2024-10-12 04:59:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| aa8136c2-bbec-3db1-bbca-ef1996c3ff86 | -17.95602 | -57.36651 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.3 |
+| 5512c2a6-d7e5-395e-9fa8-2a90781c421e | -17.95535 | -57.37017 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.3 |
+| a4095315-529e-3756-8f71-d42f6d79c111 | -17.95469 | -57.37382 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
+| 8995d92a-6f86-31c6-b151-f9d9e53e2db6 | -17.95402 | -57.37748 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
+| 3db95b6f-fcf4-314e-8048-56d1de062fca | -17.89289 | -57.30488 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| f326edb5-56f9-3a24-b2f1-3132a532a9ed | -17.89221 | -57.30851 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 18.4 |
+| 102df481-471e-344f-8bff-2f8fa373fc9a | -17.89153 | -57.31213 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 18.4 |
+| 15d09659-e814-3b44-aa41-c000ea2f0d26 | -17.89086 | -57.31577 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| ebd3ad12-d1f3-37ec-8ca7-53de89a9b3d4 | -17.88891 | -57.30408 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 75acced8-3a1e-384f-86ad-558c7d4f6f1c | -17.88822 | -57.30771 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 18.4 |
+| ae8c3512-652d-3a01-ba9b-f586ee7e07c7 | -17.88754 | -57.31134 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 18.4 |
+| 602571b5-8cc0-368f-a3fb-096697c881cc | -17.88687 | -57.31497 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 4952ccd0-d10d-3669-acce-82d536e18102 | -17.8856 | -57.29967 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.6 |
+| 5cf5e82c-2f85-3183-a7bc-4aba46ac7edd | -17.88492 | -57.30329 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.6 |
+| 4a57bb57-ec3c-3ade-985f-fe7b58a22c95 | -17.88424 | -57.30693 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| d6bc8019-e9c8-3959-b6b5-d1ace3b3cdb4 | -17.88355 | -57.31055 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| bb4ce571-933f-3a35-8394-14d7d64ba552 | -17.88339 | -57.30292 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 21.8 |
+| 71277152-332c-37a5-8c9a-9f26296c03f3 | -17.88273 | -57.30656 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| 1e7020d2-a146-3de3-a36d-9bda2feb8618 | -17.88208 | -57.31019 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| 8bfe6b61-dcac-3410-8d5f-1ef1568e274c | -17.88093 | -57.30251 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.6 |
+| 6f27cb0a-a3be-34d9-904a-65d38523a520 | -17.88025 | -57.30614 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| 0ccf529b-a450-316b-a9c4-25f72dcf1ea5 | -17.87956 | -57.30977 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.6 |
+| 30ce000e-dd7e-3514-84da-ca1076329e97 | -17.8794 | -57.30212 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 21.8 |
+| 8ab8859c-26a2-35a7-8bd8-05559c2e667c | -17.87875 | -57.30577 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| 211faa2c-ff61-33d6-8b13-a1faa27964f3 | -17.87809 | -57.30941 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| 302cc9a3-886e-37e0-9101-885749ff251a | -17.87476 | -57.30497 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| a5ec8bc7-6f34-3e60-a89b-7d90bb6ac8b3 | -17.8741 | -57.3086 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| 215ad5b8-8599-345c-bbb5-f88ca288071b | -17.87077 | -57.30417 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| ef26b41b-97dc-32ed-b698-3b145f6d31a4 | -17.87011 | -57.30779 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.2 |
+| 37f169eb-0444-3484-8ac7-68dbe851f401 | -17.86945 | -57.31144 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 05a4d46b-b8b8-307f-8d68-ffb2663d0ebb | -17.86678 | -57.30337 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 5d4241f1-f484-3c8b-85b4-57e3c3954a63 | -17.86612 | -57.307 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| e126880d-e784-320b-980e-409744aa496b | -17.86546 | -57.31063 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| e8a5b83d-affd-3171-828b-ba383b13fb26 | -17.86279 | -57.30256 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 9198d63d-97f0-3e57-8e94-48a976e88aa9 | -17.86213 | -57.30619 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| e8cfe16b-14a8-3f10-b280-cf120e882c56 | -17.86147 | -57.30983 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| a489180a-5385-3c4e-a0c4-c8d0fea4aa31 | -17.86081 | -57.31347 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 6bbed34b-6e1c-3d11-8a2b-367582d40fd8 | -17.85814 | -57.30541 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 1877d31a-eec4-3f8f-acea-1907769855ee | -17.85748 | -57.30904 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| afcb948d-162e-35d5-95e0-d5d208de84d6 | -17.85681 | -57.31268 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| e80265f7-d134-3955-b7fd-60b25bec501f | -17.85615 | -57.31631 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 468606eb-9388-3117-a846-8639f19f5486 | -17.85349 | -57.30824 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 288a6975-c820-3639-9afd-c19c96f1a908 | -17.85282 | -57.31189 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 6bda7796-b3e0-3ed1-81f0-f032f64dedf2 | -17.85216 | -57.31552 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 5550a1c4-53c7-3af1-8390-abadc29548c8 | -17.85016 | -57.32644 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 0e3a4ee2-548f-36fe-959c-07d306321456 | -17.84883 | -57.31108 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.3 |
+| 0059d136-6865-390b-8038-5da4a048338b | -17.84817 | -57.31472 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.8 |
+| 5921d206-b650-3bc4-9b13-b5f575f66221 | -17.8475 | -57.31835 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.8 |
+| 536cd40d-e571-342f-bc9a-7e8fd1c74990 | -17.84684 | -57.32199 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 6d661538-85f1-3338-a582-bea9cb331339 | -17.84351 | -57.31755 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.8 |
+| f90695e0-7533-3d90-ab01-969435d60884 | -17.84284 | -57.3212 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 9592fdbb-6521-391a-bbfb-af1520982838 | -17.84217 | -57.32485 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 532092a7-41ea-31ff-9462-f9975c3669e6 | -17.84018 | -57.31311 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 79400e6d-31cb-3f23-866e-c580fdfae785 | -17.83951 | -57.31676 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| a0788d57-cbd0-3417-b268-500a6d43834a | -17.83884 | -57.32041 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| ef850898-547d-37eb-a4ed-ed93c0a6cccf | -17.83817 | -57.32405 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 48b8ef31-b923-377d-9b22-b022f8ac0960 | -17.83552 | -57.31596 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 8d8bc253-3a9b-362a-ab09-501e875b3011 | -17.83485 | -57.31961 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 37d08da1-4414-369b-890b-8803b3af26b2 | -17.83418 | -57.32325 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| d25a54bd-809b-3cd2-8ead-d69b5a1dccbd | -17.83152 | -57.31517 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 349fb54e-3a17-3c70-bf07-534ed242a04a | -17.83085 | -57.31881 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| a0ad9bcf-64a8-3ce0-81eb-24470cb7544c | -17.83018 | -57.32245 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 8efc62cc-9e8a-3834-8588-8c6b9ad67042 | -17.19108 | -57.46474 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 17.1 |
+| f6f8c17c-7a87-3f87-99cd-b74f11c8e64a | -17.19039 | -57.46854 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
+| 625c3107-32d9-3413-98ae-e9046c4ea979 | -17.1897 | -57.47233 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
+| a0277ee6-03a6-36e7-9307-ced951f7c0c3 | -17.18638 | -57.44418 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 12.7 |
+| cd641c51-07f4-3841-843b-d1498309bf3c | -17.18632 | -57.46772 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
+| 6ab715f9-6efe-3239-867d-340e29fad2ca | -17.18493 | -57.47533 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| c471254a-2b9b-31d3-b7d2-fca2e189932f | -17.18424 | -57.47912 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| 78114ab9-5a46-3431-ab10-bb12f44c8865 | -17.18301 | -57.43959 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 5427198b-1949-3de1-9ec3-20d55c343a39 | -17.18293 | -57.46312 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| c901abda-e6ca-3abd-8b3c-dd9899ce6c33 | -17.18093 | -57.45094 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| d20fe79a-5bd7-392d-8457-269f5671c06e | -17.18024 | -57.45473 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 6bea765b-483e-3811-acab-e43ff9facb66 | -17.18016 | -57.47831 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.0 |
+| 7090cc20-a1be-3f69-b8c1-41236a178178 | -17.17886 | -57.46231 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 351f4402-2efb-3c03-9159-661321c4a966 | -17.17817 | -57.4661 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| b30c68fb-b8ed-3825-bc3f-de8f7efb5eed | -17.17747 | -57.4699 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| 4081ce1b-9ccb-303b-94b6-e0e6d0405696 | -17.17678 | -57.4737 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.0 |
+| 0018b7d2-c3c1-3424-bd88-7f677830e45b | -17.17469 | -57.4851 | 2024-10-13 04:44:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
+| b5c5b1eb-1ec9-33f3-8b89-7a0551742a22 | -19.02348 | -57.62129 | 2024-10-13 04:44:00 | NOAA-21 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| cdb11647-88e0-31e1-bca8-bc1a6f150744 | -19.02177 | -57.62128 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 1548c43b-eb3e-3a80-b424-393e4b405824 | -18.67231 | -57.33794 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 4da97cdb-f557-38ed-a4da-acf96c6ff158 | -18.23192 | -56.50778 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 920b2329-35a3-3aa7-8c55-8c538f4ac39e | -18.23159 | -56.48758 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 432cd200-9450-3145-b9a3-bdb5bfc77ced | -18.23106 | -56.51265 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 11e696ca-ef41-3084-9102-4271fd2f045c | -18.23073 | -56.49244 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 07e856e9-6594-36c4-a901-7c0f08660c11 | -18.22695 | -56.4917 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 5f885682-d1cb-3972-b396-3677c579c3d9 | -18.22608 | -56.49656 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| f354c56f-da3a-3f69-b963-3c508b26fe5f | -18.22543 | -56.45628 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 4f7bae3d-de73-33b7-b7ed-fc8a1680135f | -18.22456 | -56.46112 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 8938185e-10b6-3c62-bc99-5b4d8a2c1343 | -18.22391 | -56.42102 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 921c6dac-37a6-378e-8857-c8c65806d0f4 | -18.2237 | -56.46597 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 1422d4e5-2b5d-3419-94bc-1da5defc5353 | -17.64896 | -56.25607 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| f29e0a46-d5c9-3772-81c9-c84d45e4d993 | -17.64868 | -56.30075 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| eb12e3e0-336f-3059-ae25-1a4598658be8 | -17.64839 | -56.28077 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.2 |
+| 52865f70-0a01-3b38-83d0-0d6f295750c2 | -17.6481 | -56.26085 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 07be63a0-9968-3768-8f22-83904da96dd5 | -17.64752 | -56.28557 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.0 |
+| 11d64d2f-f8c6-3b22-830b-ab67207c1fe1 | -17.64665 | -56.29038 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.0 |
+| 4a1b10c6-6eba-313f-84de-1029d2afff7d | -17.64636 | -56.27044 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| f4995d1b-94da-3ae5-aafe-a7c51047de81 | -17.64578 | -56.29519 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README73.md)

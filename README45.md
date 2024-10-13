@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0c65a8c2-90b7-3074-9f1d-30bf5b4ebfb1 | -6.72477 | -44.17062 | 2024-10-12 04:06:00 | NOAA-20 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 2ed23674-941f-3da3-a8fe-e80cda7ce995 | -6.58145 | -44.1806 | 2024-10-12 04:06:00 | NOAA-20 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| d35062e7-e96f-33ab-a5e9-84ff9816d49c | -6.58081 | -44.18461 | 2024-10-12 04:06:00 | NOAA-20 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 527a4255-14cc-3025-8734-31b835450030 | -6.56481 | -44.23913 | 2024-10-12 04:06:00 | NOAA-20 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 955296c5-a06d-3b8f-ad4a-840b8a9261c6 | -10.82603 | -44.94305 | 2024-10-12 04:06:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 8a4a04dd-54cd-37d9-a4e7-60ca6466c477 | -10.82538 | -44.94696 | 2024-10-12 04:06:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 62195ea1-4a95-3748-8813-ef78a29eb8b2 | -10.82451 | -44.94334 | 2024-10-12 04:06:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 898b89ab-36ab-387f-807d-5ee171d5b940 | -10.82388 | -44.94725 | 2024-10-12 04:06:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 34f61262-9916-3b5f-99a1-c53483691619 | -10.82189 | -44.94637 | 2024-10-12 04:06:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| c5fa5b1c-4606-3146-b3d0-cf521e1b2f35 | -10.73452 | -44.69721 | 2024-10-12 04:06:00 | NOAA-20 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 60697ee0-4cc9-3345-8f7b-284e51ec9f84 | -10.7339 | -44.70105 | 2024-10-12 04:06:00 | NOAA-20 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| b133c58d-be87-3ff5-80d0-70f42025a016 | -10.73107 | -44.69664 | 2024-10-12 04:06:00 | NOAA-20 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8ca91ca5-8ed4-3a1a-b1cf-f8810413e1bc | -10.59939 | -44.77121 | 2024-10-12 04:06:00 | NOAA-20 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0e6f20f6-0338-3020-b7c1-33840657e264 | -10.95941 | -44.65202 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 3d764864-e444-31f6-9aee-3df655b84194 | -10.95879 | -44.65583 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 8bf4ed98-1b1a-38e1-89bd-80acda48dce2 | -10.95659 | -44.64761 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 31.4 |
-| e2545558-26fe-3e7a-ade4-e8ca9f120412 | -10.95597 | -44.65143 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 2732820c-a041-3718-92ca-2c189553f8f3 | -10.95535 | -44.65524 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| bb5f5ff3-c696-3587-8e9f-217e6a99edad | -10.95472 | -44.65906 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 824ce64e-0558-3848-9376-820fe3104210 | -10.95315 | -44.64703 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 25.9 |
-| de677171-d030-3004-9a7d-0588e62e6537 | -10.95253 | -44.65084 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 352ac2b8-c467-3d77-b9f1-52482f431631 | -10.95191 | -44.65466 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| b9f7eff4-bdd1-3c58-b1b8-b898f181516d | -10.95128 | -44.65847 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| b1ed22d1-126a-3201-8841-dd87a0a7f736 | -10.94971 | -44.64645 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 25.9 |
-| 81438c3e-2ece-325b-932f-85a0558afaed | -10.94909 | -44.65026 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| bf22808a-ce39-3922-adb3-f78d6a99546a | -10.94847 | -44.65407 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 6f7c711c-9d4d-33ab-b873-d9cfb536ff26 | -10.94784 | -44.65789 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 62842858-e4df-34fa-aee6-27c790ea635d | -10.94627 | -44.64586 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 5bd42847-de7b-305c-a020-bb3cd2848ff7 | -10.94565 | -44.64967 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 6c3ad03b-f7c4-3b1d-a9b4-d53095d5c6b0 | -10.94503 | -44.65348 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c7495a52-ffee-3470-8fed-320bc2a2e8ce | -10.94283 | -44.64528 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 3fafb266-aaab-3e3f-9edf-b666a92f52ad | -10.94221 | -44.64909 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 824d44ae-7c5c-39f3-b030-abbe0f320007 | -10.94159 | -44.6529 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 10f97074-2506-3afc-9504-3c446ca1ded9 | -10.94002 | -44.64088 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d878dcdd-8f2f-3da7-9812-4e03b0d886f0 | -10.9394 | -44.64469 | 2024-10-12 04:06:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| bfc1beb2-ec60-3470-927b-d527c9a77a20 | -5.11302 | -44.82943 | 2024-10-12 04:06:00 | NOAA-20 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c6a3070d-818e-3358-8878-71f3dcf2e3a7 | -5.08536 | -44.82243 | 2024-10-12 04:06:00 | NOAA-20 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| b2c7853e-5c26-31e2-a4a4-43c1c57c98c5 | -5.08341 | -44.82476 | 2024-10-12 04:06:00 | NOAA-20 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 30e70062-1e92-3c3c-b938-d6266bfabbd3 | -5.00133 | -45.50896 | 2024-10-12 04:06:00 | NOAA-20 | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| eee460c3-deca-3464-a0b5-39308b37f11b | -4.97973 | -45.51979 | 2024-10-12 04:06:00 | NOAA-20 | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 69cccc2c-68db-3b0c-bbd9-7e51e5c2dd84 | -4.85614 | -45.68275 | 2024-10-12 04:06:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 72f9f071-6886-379a-bf3d-958d61744232 | -4.85224 | -45.68211 | 2024-10-12 04:06:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 21.3 |
-| 05d721b7-9756-31c5-a190-4ff30bfb1841 | -4.83939 | -45.38876 | 2024-10-12 04:06:00 | NOAA-20 | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| d2090528-cc51-3bfa-8ec3-7622fd030819 | -4.77918 | -45.28435 | 2024-10-12 04:06:00 | NOAA-20 | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f93b293a-ec0c-3d29-b5f3-b141d5914673 | -4.77145 | -45.75724 | 2024-10-12 04:06:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 52a4eb25-d0a0-35bb-87b7-04d5fe019a03 | -4.67317 | -46.05643 | 2024-10-12 04:06:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 308355ff-7a54-3dcc-90e8-05db2ca92757 | -4.5917 | -45.62684 | 2024-10-12 04:06:00 | NOAA-20 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8f0c7cfa-78ba-39ca-8471-55d3ae1c6786 | -4.59091 | -45.63173 | 2024-10-12 04:06:00 | NOAA-20 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 9dcf2152-098e-3d27-bea4-d176d0a6610b | -4.59013 | -45.63656 | 2024-10-12 04:06:00 | NOAA-20 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 91cb4bf2-18a4-3d47-9c6a-930fa5130375 | -4.587 | -45.6311 | 2024-10-12 04:06:00 | NOAA-20 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 8adaf2e5-f885-3320-a414-cb39e8807fab | -4.46501 | -45.89139 | 2024-10-12 04:06:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e8ae82be-fe96-33e4-b6db-6771d2beaae5 | -4.46446 | -45.89482 | 2024-10-12 04:06:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fbe982f5-e99e-3eac-ac58-6d1f6afb5947 | -6.42545 | -46.06573 | 2024-10-12 04:06:00 | NOAA-20 | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| dea5f4b9-7a19-3e6f-8df4-a7405f34bb37 | -6.06911 | -45.9826 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 06894373-4723-3fcd-8198-c9e79a7cf589 | -6.05777 | -46.29137 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| f2536371-f91d-3805-93a3-2e4743c404fe | -6.04578 | -46.31389 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 3ca75ebe-4c7b-39de-a731-08f56fc552a9 | -5.88474 | -46.2231 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| fdb15725-e409-3898-8dd0-d23cfe77be69 | -5.88403 | -46.37704 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| d3b829ec-c851-3f23-bfcc-df11428ade4e | -5.88059 | -46.37285 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d76b0574-3db5-3114-bdd0-ff7ce7375533 | -5.87657 | -46.37221 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 547a6207-ac22-306b-b4f2-a82b02717441 | -5.87599 | -46.37571 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| c65018a4-16e8-3ca2-a6c9-053e50e445ba | -5.846 | -46.23467 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 12542cc5-13fb-3da2-b421-6017b1773212 | -5.84542 | -46.23808 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ffdfad85-2bdf-3bfa-8258-ec2fbb87a502 | -5.84202 | -46.23399 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 35cd77fe-d45f-38d3-b448-9b9697132d75 | -5.84144 | -46.2374 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 9cbd7a16-28ad-3a1c-bd16-bd1d8e20a9d0 | -5.7735 | -46.11591 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ec0b135f-6e9d-3ca1-8a41-1fdc6f008a0f | -5.72787 | -46.1934 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| a76988fc-c434-3b44-ac4e-f8bf63af2460 | -5.72582 | -46.193 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d74b819b-8cf9-3c95-9af4-539c1ebf9273 | -5.7239 | -46.19271 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| e77de6c1-f0a6-31f9-924c-018b70ba0a5a | -5.65659 | -46.41568 | 2024-10-12 04:06:00 | NOAA-20 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 84577d59-066f-350a-98c9-1d16b27e7716 | -5.65601 | -46.41922 | 2024-10-12 04:06:00 | NOAA-20 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 4065185f-7b35-36b9-9e80-20eab73b2264 | -5.61068 | -46.36737 | 2024-10-12 04:06:00 | NOAA-20 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 357f305a-d0a3-3be7-891c-1d938e0a96b9 | -5.56844 | -46.29114 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 30d0c949-b646-3130-9347-1397a8e898ed | -5.56444 | -46.29036 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 11d4b27d-4b68-3310-a15c-9e81de061955 | -5.55466 | -46.19997 | 2024-10-12 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| bbe4ba8c-6d22-3e3a-aa9c-f13be7da3dbd | -5.44959 | -45.40167 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| b2997475-ef4b-3a40-8823-0ed8fe938a16 | -5.44881 | -45.40637 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2b1a5a07-9f43-31c1-9757-1e58b3e815b2 | -5.44501 | -45.40572 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b67dabcc-43d9-3d24-b2b2-3df4b5f42ff1 | -5.43853 | -45.51609 | 2024-10-12 04:06:00 | NOAA-20 | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 88c8a988-74d5-38ae-81ee-c753af43af95 | -5.43279 | -45.79309 | 2024-10-12 04:06:00 | NOAA-20 | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b649de4e-95aa-3c39-aaf2-1d6b9e4b1549 | -5.39527 | -45.3568 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 56.0 |
-| ae3ddc18-bae3-3c53-96c1-99aea9467550 | -5.39452 | -45.36144 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| e57d4942-45e9-3b97-9619-d22f19f9f683 | -5.39148 | -45.35616 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 56.0 |
-| 935b14fb-943b-3ecd-8fa4-a5a0ab6cde94 | -5.39072 | -45.36081 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| fecdb72e-e90d-369d-9911-b34a188c7df7 | -5.38768 | -45.35552 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 97c1af8e-93f4-3d47-9351-6bbe35922111 | -5.38693 | -45.36018 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ac3af609-7388-3bb4-a091-c953f8fbefe1 | -5.37704 | -45.20706 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| f1ac4644-c6b9-3893-9cf9-a1871bc60026 | -5.37327 | -45.20649 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c17dbf69-414e-37d7-9493-8d0f573b8f56 | -5.34195 | -45.41987 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| eb98e3ae-3d33-34d6-a11b-cf4a9337e8e9 | -5.31665 | -45.41314 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 2de81324-711a-33b3-85dd-c26050c8beb3 | -5.31602 | -45.41085 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 97c7b3e8-636b-3c8f-8805-9c639126597f | -5.31524 | -45.41555 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| c10fa3f6-8e14-37bf-9381-636215b35251 | -5.31284 | -45.41251 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| c0377d78-ce72-3516-ab0f-be918dd63ce5 | -5.31221 | -45.41021 | 2024-10-12 04:06:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| bb0489a8-72f6-3d3c-8799-bb6f2e498826 | -5.27855 | -45.38238 | 2024-10-12 04:06:00 | NOAA-20 | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 9d5b7e81-a4b1-3d60-b7a3-d7ef858292e1 | -5.25141 | -45.5981 | 2024-10-12 04:06:00 | NOAA-20 | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 9d498b5f-5cc2-3926-b651-d5dd3bb02fe6 | -5.24755 | -45.59746 | 2024-10-12 04:06:00 | NOAA-20 | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| e984773b-05a0-39b2-9a63-873bdf738a3d | -5.1609 | -46.15498 | 2024-10-12 04:06:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| f8fefe70-f465-3a2e-8350-8949c9b38a35 | -5.16033 | -46.15847 | 2024-10-12 04:06:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 71c6d082-477c-32e1-a503-78141cd328e3 | -5.11043 | -46.1864 | 2024-10-12 04:06:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 0c466250-976f-3484-8c5d-a052045e1919 | -10.1792 | -42.46548 | 2024-10-13 03:49:00 | NOAA-20 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 76b97384-034f-31ea-86af-3ee6bd6811fd | -14.7079 | -42.30482 | 2024-10-13 03:49:00 | NOAA-20 | JACARACI | BAHIA | Brasil | 2917409 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 32365dac-d2b9-3709-a7a3-f39210c14b53 | -16.34802 | -43.69559 | 2024-10-13 03:49:00 | NOAA-20 | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 74c4db92-bdf9-3948-bda0-ccd923d94773 | -16.34694 | -43.69828 | 2024-10-13 03:49:00 | NOAA-20 | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 5c57d491-6224-3fd5-8b28-76c6bb174a46 | -17.09492 | -43.80687 | 2024-10-13 03:49:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| cc9ad764-2e68-39b1-aa21-d8a06955c050 | -17.09416 | -43.80573 | 2024-10-13 03:49:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| c388ee5c-9982-3f92-9d3b-555871c699e6 | -16.91595 | -43.6801 | 2024-10-13 03:49:00 | NOAA-20 | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| e1873892-e874-37d1-99e3-2add5e14a10b | -16.6804 | -43.88667 | 2024-10-13 03:49:00 | NOAA-20 | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 9019797f-b164-30ce-a41a-1f06fc1c3f3b | -7.93514 | -43.18089 | 2024-10-13 03:49:00 | NOAA-20 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 8dc9a959-9169-3052-bf80-96163e367c2e | -9.26637 | -43.53804 | 2024-10-13 03:49:00 | NOAA-20 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| c90d48ef-8fa2-3e68-a6fc-e3aca7c69c2e | -8.13628 | -43.01655 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 52b0a840-fc74-3c91-ad8e-1394b8a0504a | -8.13558 | -43.02058 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 246a3c00-225e-3a33-b0dd-04e568898cf9 | -8.13275 | -43.0117 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 1cacd419-4051-39af-a8eb-760f50317495 | -8.13204 | -43.01574 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 0c33b22e-90ed-3cd8-a2c3-3768c260babb | -8.13133 | -43.01986 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| feacb08f-b62f-32d0-81d6-d0a54a9dc53d | -8.12919 | -43.00697 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| ab9a6709-667c-33ca-94cb-b164521f815f | -8.12493 | -43.00631 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| b8e0ee97-c7da-3bb5-a1ee-6f16b2748fa6 | -8.12353 | -43.01437 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| f1721c13-15d9-337b-a70c-4cc143a8ad96 | -8.12067 | -43.00565 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 16af473e-e4ac-38c7-bbb1-e5d8ddd08b08 | -8.11997 | -43.0097 | 2024-10-13 03:49:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| bfb6028e-6a0f-3e61-8bef-226e9c2dc5fd | -9.44337 | -44.14867 | 2024-10-13 03:49:00 | NOAA-20 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 44f3e05e-deae-3eb1-a532-69efb70c0c85 | -10.05908 | -44.17823 | 2024-10-13 03:49:00 | NOAA-20 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| b36168a9-becf-32de-87c5-5f401ab516b7 | -9.44417 | -44.1442 | 2024-10-13 03:49:00 | NOAA-20 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 6a3aa08a-939e-3555-8882-29b01b21a6d0 | -10.06354 | -44.17899 | 2024-10-13 03:49:00 | NOAA-20 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8e94dbd1-df7b-3d0c-acd0-be2e92606279 | -14.2291 | -44.6119 | 2024-10-13 03:49:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| facea15e-21ff-3eeb-9538-2b118c5d7de0 | -14.18843 | -44.31419 | 2024-10-13 03:49:00 | NOAA-20 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a10eeb48-1a35-333c-8e95-e0387a547a64 | -17.96402 | -44.93235 | 2024-10-13 03:49:00 | NOAA-20 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 5142bdea-c944-3625-a3f8-8481085d7744 | -20.945 | -46.00263 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1bf43f22-f78e-3883-a151-1727779f15a0 | -20.94422 | -46.0066 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| aa1ea68c-c4b5-3713-8154-6b81cb68b1f0 | -20.95331 | -46.00409 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 3ae10b23-5dde-3727-8aa6-91c02fb4819c | -20.94915 | -46.00339 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| b11d6f05-3dd6-399a-a03e-a9f078b67de7 | -20.94838 | -46.00734 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 0cab097d-34e6-33a3-9a46-03217730433b | -20.94727 | -46.00365 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 39c63775-0706-3726-bca4-77bed86a3d48 | -20.94652 | -46.00762 | 2024-10-13 03:49:00 | NOAA-20 | CARMO DO RIO CLARO | MINAS GERAIS | Brasil | 3114402 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 34796f55-2d54-3f95-8155-143a775f550c | -7.89968 | -44.62109 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 32df8f2e-2c26-3c5b-b432-0c52296cdc78 | -7.89581 | -44.61513 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 66b6a2b9-6991-33da-af08-9825c395bd27 | -7.89493 | -44.62021 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| a7df1468-a8da-3bac-a292-fa67647df43c | -7.96883 | -44.51113 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e742f344-2d03-309a-8764-2a6eb94b6fc2 | -7.96795 | -44.51606 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| abaa5825-bdda-30ca-aaa2-63f3c2bc8dfc | -7.89403 | -44.62534 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f5907fad-3abb-3668-b7b1-9c97a9aa8517 | -7.89017 | -44.61937 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 9e73f4d1-271a-3ae1-a323-44b67c8ecef2 | -8.05554 | -44.82649 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 9236bc8b-0f73-30a2-a8c0-e797ac275c85 | -8.07159 | -44.81986 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 877abb2b-8820-327d-84d3-d0b4ef46b64b | -8.06681 | -44.81886 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 0f27ad45-2352-36a9-b51b-77bd9a2870cd | -8.06287 | -44.81308 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 87d7c6c9-8a89-3ca7-949e-2b0ee58603f5 | -8.69268 | -45.26681 | 2024-10-13 03:49:00 | NOAA-20 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 9d9b313c-4f0c-361e-8ddf-d609a7b8cf5c | -8.0612 | -44.82256 | 2024-10-13 03:49:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 9792d1b5-9422-3820-8061-aa5d29a12cdc | -9.82346 | -45.04864 | 2024-10-13 03:49:00 | NOAA-20 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| eea32ae6-668f-3ef3-8962-3617754afa9a | -9.55881 | -44.47943 | 2024-10-13 03:49:00 | NOAA-20 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 20d4029d-ae37-3b97-843a-1288b080ab11 | -9.43863 | -45.5129 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 3b244da0-c6fe-39c1-8545-67af94a12585 | -9.57539 | -44.38474 | 2024-10-13 03:49:00 | NOAA-20 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 0534b982-1d6a-3849-87e1-9b7b2499840b | -9.57456 | -44.38951 | 2024-10-13 03:49:00 | NOAA-20 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| c1ced33a-0be3-3f9b-b710-b3bc6707d27b | -9.44349 | -45.51415 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 269abc10-bc46-3aa1-a731-fa72055cd779 | -9.44458 | -45.50813 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 254a0031-d8cc-31fa-875f-f3f69eb5b753 | -9.43972 | -45.50692 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b02d698e-5124-311a-8c26-2061a9327cee | -9.43483 | -45.50584 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 7b2cd671-93a2-3b97-a5b5-50fdd93f9810 | -9.56501 | -44.47101 | 2024-10-13 03:49:00 | NOAA-20 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| b9b9c52f-ab41-391d-a475-6f1405f279f5 | -9.5642 | -44.4756 | 2024-10-13 03:49:00 | NOAA-20 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| bbdc01aa-cef9-33ab-a46e-6c84f241a315 | -7.53794 | -46.86874 | 2024-10-13 03:49:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| d25581f5-6619-3256-8ce3-76406defa9d9 | -7.53728 | -46.87248 | 2024-10-13 03:49:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| e215c6c5-7e2f-3a1f-8ffb-5ec2befdcdf5 | -7.53669 | -46.86883 | 2024-10-13 03:49:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e5b9377a-b803-37ce-82d1-d5b0006a49d5 | -7.53601 | -46.87255 | 2024-10-13 03:49:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ec3098bf-4c68-3d9b-9163-da7a23314d2c | -7.51894 | -46.59254 | 2024-10-13 03:49:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 08608f43-c2d3-358e-a0ee-31a9b23c1224 | -7.4109 | -45.69383 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| f14a7cd6-7053-370e-bc17-b4ea4ae5b960 | -7.41003 | -45.68997 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f32083a9-4eba-310b-823c-28948fc5fd9b | -7.41144 | -45.69085 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| f29a819e-0ebd-31ee-a59c-d04cb2e37689 | -7.40951 | -45.69297 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| d85f8ed7-59cc-344c-b5db-5e707c4c3dca | -9.28152 | -46.58063 | 2024-10-13 03:49:00 | NOAA-20 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 20392ee9-2204-3c94-ac78-cd636c0dc445 | -9.22469 | -46.68074 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 5612c3d6-abc8-3e36-bb99-756f84ac96c9 | -9.22405 | -46.68418 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 431d6ac4-6b73-37bc-8076-caa6a52ebb8b | -9.22342 | -46.68761 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| dee245ea-ab45-3470-a564-a91f2b81fec9 | -8.70245 | -46.61374 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 16a01604-970c-3122-8c51-4dd7ef5a9c8f | -8.69766 | -46.60966 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 97b90ef7-6d09-386a-8715-1692ceeb4598 | -8.69705 | -46.61295 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| b1ce2fcd-98b6-3a15-8a6d-fb15f484b560 | -8.69646 | -46.61621 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 0695deaf-c67e-3c4b-97f3-9908ce2cbe35 | -8.69106 | -46.61543 | 2024-10-13 03:49:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| a491350b-cb21-3c8b-a609-3f12ea9ac8ed | -8.52697 | -45.56477 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 9241f714-9e17-351d-8ccb-013baa957bce | -8.52721 | -45.56713 | 2024-10-13 03:49:00 | NOAA-20 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 22026399-2e69-36a2-8be7-e13e052655f5 | -19.09315 | -48.30827 | 2024-10-13 03:49:00 | NOAA-20 | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 7e169702-2dd1-3c98-8eac-a86968e85144 | -7.67607 | -47.31323 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| ef6203d2-003b-3031-9659-e49f7af2ce49 | -7.67533 | -47.31723 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 8618542f-55ea-32f1-af1c-9253899714c4 | -7.67459 | -47.32123 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| c1e77f92-164f-32e6-9b24-f02b0667846b | -7.67447 | -47.31311 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| dfc4cf3b-2b4c-30f2-b33e-4af07050c734 | -7.67376 | -47.31711 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 20.1 |
+| 6cee4612-65b4-336c-8b2f-b47dcc749354 | -7.67305 | -47.3211 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 20.1 |
+| ce124ba6-6188-3ba6-ae79-b19f787110c7 | -7.67234 | -47.32513 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 716ab633-627c-3b86-9cc4-606410ff3674 | -7.67035 | -47.31227 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| a13f0ae0-3b70-3a12-aec2-751029b320d5 | -7.66961 | -47.31623 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| ef73c3f9-e240-3547-b8e6-f2300922bbb4 | -7.66887 | -47.32019 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| ec7244be-0f85-30b7-92eb-156b6874f957 | -7.66813 | -47.3242 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| de3e75e3-5c82-3650-82e0-06ae1447ff49 | -7.66805 | -47.31609 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| 3473210f-0a57-3a62-84e2-74c1d66167ba | -7.66734 | -47.32007 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| 2f461947-bd19-3df4-b531-cc9d31fc6a6a | -7.66662 | -47.32409 | 2024-10-13 03:49:00 | NOAA-20 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| eca0ff66-7b6e-3005-9df2-894e056edd73 | -7.66315 | -47.31921 | 2024-10-13 03:49:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 15.5 |
+| 6ef30159-472b-329d-94d7-1d79d1f1f335 | -7.66241 | -47.3232 | 2024-10-13 03:49:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 5ff8b372-0a38-33cc-a593-2b17c6a208c9 | -7.66162 | -47.31905 | 2024-10-13 03:49:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| f902e7bf-f299-32ef-971f-bac6351f9d0e | -7.6609 | -47.32305 | 2024-10-13 03:49:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 5692d7b5-6708-39a3-9fff-1750bffc2f4d | -7.60379 | -47.74347 | 2024-10-13 03:49:00 | NOAA-20 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 66ea14d8-786b-3600-a6eb-ac33e2b6a732 | -7.60302 | -47.74776 | 2024-10-13 03:49:00 | NOAA-20 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| edcfd67f-74fe-342e-b12d-da61aeea5bef | -7.60237 | -47.74243 | 2024-10-13 03:49:00 | NOAA-20 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README46.md)

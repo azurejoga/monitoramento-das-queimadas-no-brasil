@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e82e3284-fd0a-3b6b-9ab1-e3487b4848c6 | -3.45891 | -59.46362 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2a441f64-466f-38f8-b780-9e2bd810d4e0 | -3.21591 | -58.93901 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 13c922a6-9282-3fda-9a1b-83212929a26b | -3.21257 | -58.9385 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 01d8e701-ffba-3c17-8da3-b35c0605831f | -3.1829 | -58.96202 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c1976469-fc6f-3f09-ab72-6658b0647634 | -3.14782 | -59.14177 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 97f298c8-8eea-3c24-a4a2-e6fcca03ac87 | -3.09644 | -59.38198 | 2024-10-12 05:23:00 | NPP-375D | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 5b0449df-d166-3104-91f9-2f5420c5fa9f | -3.09311 | -59.38146 | 2024-10-12 05:23:00 | NPP-375D | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1ec5fa0e-05a5-32df-9a47-d349abf76dfd | -3.05209 | -59.36093 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 3a3d9922-5e58-3809-b813-26261eebc733 | -3.04931 | -59.35695 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3185af37-6e4a-3a06-b1d8-bc0ed1fb77cd | -3.04877 | -59.36041 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| bb32b6cf-a954-3d90-83fa-374288cd3d7f | -3.01859 | -59.10044 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 48f8a77c-7fc3-32fd-9c90-c328261e24af | -2.96441 | -59.31543 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| abc376df-012f-3b7d-bf4f-3763e6ef1049 | -2.93982 | -58.93548 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ebf1f76d-4fe2-379e-9c34-ae6ca2cbbaf5 | -2.87624 | -59.18864 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4eaeb3b0-8378-3820-a4c0-ad885ff25b95 | -2.66505 | -59.39259 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| eddd1ef0-cae9-3386-bb73-ad6b4ac79e16 | -2.5882 | -59.40537 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 25b48d70-bfa8-3a03-9088-aa4f52f7d69a | -3.28546 | -59.79021 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8a31ef59-53c9-340e-80d7-bd5b9627b8f0 | -3.28282 | -59.78988 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fb2dbdd1-cf88-37ee-9201-36b314285046 | -3.54089 | -59.48346 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 4e791524-d5c6-335f-846b-7ab946de94cb | -3.52543 | -59.49521 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d408df5e-db1d-314c-ac38-a6c0e99bfa19 | -3.49307 | -59.59278 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| acc16a87-a4ca-386f-afd5-717608d1997d | -3.47674 | -59.50179 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1172175b-548f-3a00-b83b-acc3de492f09 | -3.44556 | -59.61368 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0115a065-fdd1-3fa9-99a3-50e624c083b1 | -3.44502 | -59.61713 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c12ed606-0be4-380e-b54d-1657ab6ccb21 | -3.44447 | -59.62058 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6693f9c5-df66-35ac-abe0-320ee5b39601 | -3.44393 | -59.62403 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a19714d5-db2d-30c7-a80c-a9503372f842 | -3.44224 | -59.61316 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 77dafa33-dc15-31dd-b186-b1b1d513c606 | -3.4417 | -59.61661 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ef9173d4-230c-3964-95ed-a0088aeeb35b | -3.44115 | -59.62006 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3a283ce6-292e-3bcb-af8d-f9a24dadee66 | -3.44061 | -59.62352 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 81111483-cf1d-3ff5-9248-67ba9b30726f | -3.43892 | -59.61264 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4f8ddc0c-cc58-3480-9b05-1babba833f07 | -3.43837 | -59.6161 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 87717fad-1d9c-3817-b304-b90d9fe9d279 | -3.43798 | -59.85645 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 9809063a-1c54-3d2b-b147-f8ff26953572 | -3.26511 | -59.59979 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cb1abed4-4b78-36d6-9630-ef86aeef9816 | -3.26179 | -59.59927 | 2024-10-12 05:23:00 | NPP-375D | CAREIRO DA VÁRZEA | AMAZONAS | Brasil | 1301159 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fc966edd-e624-3891-b909-406df49ddae2 | -2.86469 | -59.56532 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 09295563-b207-3f57-87e5-ecdb5fa1aff0 | -2.86191 | -59.56136 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8b4bc81c-2ded-3c24-9dcd-ffc24aeee876 | -2.85913 | -59.55739 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a600a253-8ead-3302-8c26-b4281dddaf6a | -2.85859 | -59.56084 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 7dfff2f2-d129-3bea-8a8f-d3f420b6f18f | -2.77381 | -59.58298 | 2024-10-12 05:23:00 | NPP-375D | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b45f572f-ecb7-3f2d-a7d5-0e211612e639 | -4.11849 | -58.74641 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 5f5381cb-afc2-39f2-a0ed-5092ded75080 | -4.11568 | -58.74234 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 349c693f-8a3f-30de-87fc-adf5610c2a32 | -3.98877 | -59.01894 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 906fd62e-3090-3023-bcf4-d4f96605a49e | -3.96461 | -58.89671 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 97966518-c6ca-3717-a757-b744c5fc0c56 | -3.96405 | -58.90023 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 37c6ba2d-d0fd-3899-a313-7235fd7a3e6f | -3.95048 | -58.50209 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 377f5bef-4d76-3ce3-bb36-0b9140bf0bd5 | -3.93179 | -59.12114 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| fb1c0fe2-165e-36de-a770-f4a67a1313f9 | -3.92937 | -59.12085 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3e3275ec-0f5c-31d5-979b-340c38760319 | -3.90586 | -58.63409 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 85f28bdd-7a59-3bf1-bf97-bc410c3c7062 | -3.88028 | -59.06317 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| f9ad6d65-7cef-3f31-8403-fdd736dcf9a1 | -3.86843 | -59.0076 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 02067aa0-7ebe-37a4-b321-dc7d6cd54200 | -3.7729 | -59.36387 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 67dca637-ea37-38de-8de9-1ed972eb5f28 | -3.72789 | -58.47521 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 96543b20-e1da-301f-8d95-7308f2f7568f | -3.72507 | -58.47111 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7cd8a805-7356-3779-84a1-f48008dbd34b | -3.72452 | -58.47469 | 2024-10-12 05:23:00 | NPP-375D | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 6b7668f2-488a-3538-b7d1-1af5ab078a9d | -3.68385 | -58.78101 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| b1be65ec-0111-3b4a-8d55-33b8e2f4a939 | -3.6833 | -58.78453 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 9e0f6628-d438-3975-ada0-afbd94975570 | -3.66941 | -58.80764 | 2024-10-12 05:23:00 | NPP-375D | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| bed51242-677d-3b88-b295-000dabadee8d | -3.6319 | -59.09232 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| dc120396-d787-3204-8a75-4d5405166a43 | -4.26827 | -59.99741 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 05b12f81-f7d8-3ac4-a5c6-0b53ff9d58a6 | -4.2655 | -59.99343 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| dc040ae3-338a-3dec-b7a3-1be8a2000398 | -4.26495 | -59.99689 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| abbc281b-f47f-3ca4-8b50-fcc5eea5d6c5 | -4.26441 | -60.00034 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 0f44f1e2-e2cf-393a-943e-c4a91f929ba1 | -4.26218 | -59.99291 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 90a8f333-c493-3366-8267-8a7e35bbb6fc | -4.26109 | -59.99982 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d7653fa6-cace-369d-8587-0ea9d0455494 | -4.25886 | -59.9924 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 085ddd1a-ab68-3696-92c1-b0375fd07db1 | -4.25777 | -59.99931 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 847941bf-2394-3eb3-9a3c-e0dd8be1bced | -4.24751 | -59.89153 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 234d9751-76fa-399f-9cc3-483dc136024f | -4.23285 | -59.85736 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 89f199e3-420a-3333-ac10-c5fc03311ea4 | -4.23231 | -59.86082 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 33da617d-939c-3d9e-96ea-6ce6a973c90f | -4.22736 | -59.87066 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 427c7064-16b1-3c1d-9711-409aa89fefc8 | -4.22095 | -59.95459 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| dc174824-5dee-36bf-9016-5bbab0fe550b | -4.22041 | -59.95805 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a1617326-1c64-38ea-a4c4-1ca1ae709739 | -4.21431 | -59.95356 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a9b66cdc-9072-389c-af71-b9e838be7ecc | -4.18998 | -59.95684 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 27ab14ab-7f74-3599-a8e9-86ab41bf2124 | -4.28989 | -60.0114 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 057a985c-2ce4-335d-a700-dbad37171db0 | -4.28657 | -60.01088 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 5abd54ea-4286-3515-b53b-f88d22772ceb | -4.28564 | -59.69212 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 7e57cb82-527f-3e1b-a9bf-b15e35e43382 | -4.27317 | -59.96632 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6519949b-2c36-331d-8c4e-7c186f74ba67 | -4.26985 | -59.9658 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2fdb667a-8f63-3145-aeeb-f042623aa3c8 | -4.26163 | -59.99637 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3f0f4fdb-888c-3b8a-ad09-6326d7719979 | -4.25608 | -59.98843 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 351cbae8-8cd4-3a16-92a9-5d230dcff509 | -4.25553 | -59.99188 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e500fd7b-5b3b-3dde-9875-1705fef5296b | -4.23658 | -59.93937 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| afdab744-d4d1-3694-bb9b-11282d82dca6 | -4.23563 | -59.86134 | 2024-10-12 05:23:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 15e302f8-ccda-3891-b2e2-32d3f10e531f | -4.21763 | -59.95407 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 4c36f91f-f7b4-390e-b3f4-e8061c2aa996 | -4.20725 | -59.99847 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| dda699c9-5ef0-3db1-b011-9fb25b7744bb | -4.1872 | -59.95286 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2aaf8381-32e8-324e-beca-d7adb26d74a1 | -4.18334 | -59.9558 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 4c086c62-3fc1-3b57-bcc6-34603079ba4a | -3.90237 | -59.61421 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2ae7087d-cc16-30e2-a05e-8bbe72f9abc4 | -3.89483 | -59.68384 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fad8d699-831b-3e04-8b33-0e3d4aa715b6 | -3.89429 | -59.68729 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 77e1153f-09de-3ca9-a89e-a5254aa23b97 | -3.8911 | -59.72925 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| eb01808a-e57d-34bf-ac98-5e912fa51021 | -3.87286 | -59.73703 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 94904826-3119-3aac-ad6f-8b0c419e4815 | -3.86954 | -59.73651 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| caf75e22-80d0-34d1-a560-cb2e867a5330 | -3.869 | -59.73996 | 2024-10-12 05:23:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 774a8dbc-7350-359d-8d98-d648781ad027 | -5.57432 | -60.17052 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6f4d65e7-c27d-3207-bc10-8e8b57cd9b51 | -5.57377 | -60.17398 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 60cf7f28-eb5c-3f1a-babc-96c900db3a4f | -5.57099 | -60.17 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f047c828-1a0c-380e-836f-94782a5f1600 | -5.57045 | -60.17345 | 2024-10-12 05:23:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| adaa7861-4bd9-3e5b-96a7-a1eedfa777dc | -12.97247 | -62.80063 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 1141ccbc-47a5-37a8-afa0-fd10b3dc4a15 | -12.97223 | -62.78277 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| c3c14af5-3dc1-33f4-99f3-dbaad90a5cbb | -12.97214 | -62.67282 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 7781a2be-cf2f-3b1a-8dec-b2aa30df6333 | -12.97167 | -62.78633 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| bce79541-901d-35b1-b5b5-6f15ac5e79d5 | -12.97057 | -62.79347 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 29001353-624a-3d46-9843-4272e8d15c3e | -12.97046 | -62.66154 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9871b69b-45f5-360a-8df3-76b8740be27c | -12.96993 | -62.68716 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| e0e4d712-b0d1-3a6b-9059-fa66af6927ff | -12.96724 | -62.79294 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| aa8a5559-ed60-3539-9b6a-46d1adca715f | -12.96717 | -62.70506 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| fb3ee377-842b-37e6-84bb-d0b5a853286b | -12.96669 | -62.79651 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 057f5e95-35c1-35ca-aa52-e6ac0f16ff06 | -12.9666 | -62.68664 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e7e7d1dd-6465-3164-9417-3f591cfb49e0 | -12.96384 | -62.70453 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 451ab90e-4d47-3260-b63e-fd1d376cc3f6 | -12.96271 | -62.68968 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e0d4a774-6017-31ef-936f-27091461ddb8 | -12.96216 | -62.69326 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 64f3bfdb-9497-3399-80af-8bbdc8a3fbac | -12.95768 | -62.65583 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| a303b452-4e18-38e8-80c7-a9da10b2710f | -13.01316 | -62.47293 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b8fd0c94-4512-37e2-b841-9768ae15de62 | -13.00981 | -62.47241 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5cc207c3-bde4-32c0-a503-112e8e150a70 | -13.00591 | -62.47549 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| b8a8a304-5f1f-3ddc-bc7b-accd2a8bd6c2 | -13.00256 | -62.47497 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7bfecd9d-87bf-3b4d-a035-77d24a131a63 | -13.00089 | -62.48584 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| da980090-7fba-38db-98f9-cbea50ed6d38 | -12.9942 | -62.48478 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 16aac0ed-1cfd-3e17-86e7-577991033bef | -12.99089 | -62.50639 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 69d64f66-6202-32c2-ad9b-49330d6d5b7b | -12.99085 | -62.48425 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 4973052f-c5e6-3cf6-8e0d-88bc898bdf28 | -12.98809 | -62.50225 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d231df1a-95aa-310d-8143-44c287584b85 | -12.98754 | -62.50586 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 30f58951-3d76-3582-a055-865b00680c97 | -12.97864 | -62.51923 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| be4c4c17-70ee-32dd-9523-805de06c45b0 | -12.94246 | -62.53193 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 38bea92b-a2e5-3e8f-8078-0be6ce133017 | -12.93912 | -62.53141 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| da6a5601-cab5-3589-a143-e405ee7ca8d9 | -12.93578 | -62.53087 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b809a94f-68b4-32d9-adcf-f6a0674757fe | -12.92964 | -62.52621 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 18d4a1d9-363f-3b05-ba66-233d8e0c594a | -12.92909 | -62.52982 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 2530249b-f78b-3e80-986a-a68f87820982 | -12.92854 | -62.53341 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0cec2038-de1f-3d20-be02-399213abbba5 | -12.92016 | -62.52102 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 43c99b7d-4ff8-3fb1-949e-b096c8b2c8c4 | -12.81077 | -62.45964 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9556ac3a-4641-36e3-882e-1aab862fd63b | -12.80223 | -62.45452 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ff0b706f-9e99-3d7c-acdb-f6553f9d5745 | -12.77596 | -62.10793 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 18eab181-6bdb-32f3-afaf-b33a9e86f43f | -12.76793 | -62.27486 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| bc47d2f0-a35c-3890-a689-b78f019e98da | -12.76737 | -62.27849 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 17198e1a-bb11-319b-8e3e-ad5d2a97afec | -12.76622 | -62.26342 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 5e471994-aca3-361e-8f48-26e7fb7b9401 | -12.76567 | -62.26706 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a6cee2ff-d4b0-3e03-81cc-e201dbecaa8e | -12.76512 | -62.2707 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e7fbf2aa-ba84-3b91-ba7e-c40066cf3321 | -12.76402 | -62.27797 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b62a6145-2c93-370d-b15b-86738e5bfcee | -12.76066 | -62.27743 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| c52732a8-f6d1-338a-99ec-4afb0ec820bf | -12.75675 | -62.28055 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 41823c31-0191-352e-b56b-e316612206cb | -12.71845 | -62.24881 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a9d6a190-26bf-3895-b703-0fb255a9919f | -12.7162 | -62.24101 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 19b4fbaa-4619-311c-bd0e-2da624052327 | -12.74207 | -63.04097 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d40aeff0-30cc-30b7-a971-f5350a90579d | -12.74153 | -63.04451 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a2c4a26d-34ea-3fdb-bc76-a6acc0861bdb | -12.73876 | -63.04043 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4f517ef5-76aa-3e31-9cf5-b21468e947cf | -12.73599 | -63.03636 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 89e17a5d-f4ba-39b4-b50c-999efa38885a | -12.73545 | -63.0399 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 32634340-6a4e-3bda-b1fc-59037f971ecf | -12.73213 | -63.03937 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2925e889-f246-3218-96f1-50a15aeab6b6 | -12.72389 | -63.07067 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5276373d-53b0-303b-9026-65d8d32b0a00 | -12.72334 | -63.07421 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ababb3ee-3985-3d23-9e02-1d103eb23314 | -12.72328 | -63.03069 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| cabf4af9-3a6c-37b6-985a-6439edb38612 | -12.71996 | -63.03016 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| fa539509-a317-3dbe-bc93-f1984dd30952 | -12.71616 | -63.07668 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e0d3e496-cce1-329c-9c32-f3f2b5b8bcb9 | -12.71557 | -63.03651 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 9ef11388-d0fe-34e0-b997-abf1c0fbaf41 | -12.71226 | -63.03599 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| ffa54c6e-019b-3819-b8c4-d5cc7f9bab6e | -12.70949 | -63.03192 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 8539f1a9-7200-34e0-a01e-282d82e8736d | -12.70894 | -63.03545 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 47f35a7c-7d25-34ba-b512-be6a3f03d5fd | -12.70839 | -63.03899 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| a74cb15a-e4e3-315f-a66d-391c3fa5825a | -12.70618 | -63.03138 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 8b9229b2-220b-3799-9b2d-895afed00d5d | -12.70563 | -63.03492 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2e3fc1d4-ba63-3e85-b802-37d1c9802eae | -12.70508 | -63.03845 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c2c359fe-5535-3ea5-90d3-db2c73394fb6 | -12.70286 | -63.03084 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 85047812-e908-333e-afba-7fa3d11c95e5 | -12.70231 | -63.03439 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 71d692ab-b5ec-3fa3-a5fb-764a5afb11b7 | -12.70176 | -63.03792 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 607f4456-5120-379a-9808-ddfbc76d6ecd | -12.70068 | -63.06673 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3943f162-0966-3900-9ee0-d9267628b3ff | -12.69955 | -63.03031 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 9b7bf072-c3f4-31aa-93ac-f372872d00e2 | -12.699 | -63.03386 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 93cbaf74-de8f-3080-b806-733bbc364311 | -12.69845 | -63.03739 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 94d2e7ec-bb20-3835-a489-8e2806fd3de3 | -12.6979 | -63.04092 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 53fc0d69-72f0-3a1a-a860-0b2707dae9a0 | -12.67638 | -63.07008 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7290684b-6635-333f-8d7f-686a1e7ed0a1 | -12.67583 | -63.07362 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a1bb4c8d-ae01-3b67-a57d-5acc66f74b25 | -12.66534 | -63.07555 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| cabf1b87-45ca-33d1-a16c-1e8767ee8841 | -12.66479 | -63.07908 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0ec199ad-7909-3a66-87e6-9c8e56f32e40 | -12.66148 | -63.07854 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 726d5da7-94d2-3195-b7b3-2185886a86e2 | -12.50991 | -63.26745 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 1f553f55-2d4f-39a4-b882-916759306729 | -12.50715 | -63.26339 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 350d9975-fbaf-3b61-8afe-f0b963f0e64a | -12.5066 | -63.26691 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 72f79ae5-170a-3845-9dea-f36b55225af1 | -12.50605 | -63.27043 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0ae2bd22-82a5-3d66-a67d-96c06e084b1f | -12.50329 | -63.26638 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 55b65e71-94dc-3ff3-9519-aced16ad67fc | -12.50274 | -63.2699 | 2024-10-13 05:29:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 63207695-5e58-3f81-aa51-d3c638d3bc81 | -12.99897 | -62.73897 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1eb3aaa0-51e9-34f3-8d69-d705c97c27b3 | -12.99673 | -62.73128 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 499ef0a0-51da-339a-b4e8-ed41772791fc | -12.99618 | -62.73486 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 797eb025-5fd9-3331-b563-a538015de218 | -12.98351 | -62.77312 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 60c35396-ba2e-3f7f-b586-3ba6e430d993 | -12.98346 | -62.75115 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d29b607e-0bf3-392c-99ef-037cdaf73abf | -12.98341 | -62.72915 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 43463f67-3fb0-37fd-8e94-571fc8affd3f | -12.98018 | -62.77259 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 708061e2-4a0c-3e92-bcb1-6fd40302411b | -12.97963 | -62.77617 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 7fef421c-1a42-301f-b91d-ee8706aa414e | -12.97829 | -62.7215 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8d1217ce-b1d8-3a57-9487-ef0a4404fae7 | -12.97773 | -62.72507 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 089c2409-bd97-3fac-a5b7-c21c91031aa4 | -12.97278 | -62.7792 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| fb7b0182-d747-3a68-a24b-d92ce0d856c8 | -12.97269 | -62.66925 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 72ee2f39-8caf-3655-93ee-c8cd05a6cab3 | -12.97112 | -62.7899 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a83287b3-e265-3e48-909f-c2f53f83037f | -12.97048 | -62.68357 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 8ba49dbc-9251-36fa-b2c6-ea790176a40f | -12.97002 | -62.79705 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d872ba47-79bd-3af0-82eb-a0e1eed9bec4 | -12.96947 | -62.80061 | 2024-10-13 05:29:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
 
 
 [Clique aqui para ver as próximas entradas](README107.md)
