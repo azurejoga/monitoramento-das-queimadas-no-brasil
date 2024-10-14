@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ed384c78-b25e-3549-a521-00536369829b | -11.33085 | -60.53013 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f3ea6689-9fb1-3a72-a129-c908ea0f847a | -11.32749 | -60.52959 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0a39c17a-f4a9-30f8-b1c3-66f0858f877a | -11.32694 | -60.53316 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 70fe1320-837b-33eb-89fa-fa8dda2f0e0b | -11.31969 | -60.53567 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 0b0968d8-36ee-3e51-bca8-1abb79edb4b4 | -11.31914 | -60.53925 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 87be4311-653c-345d-ab8a-7400c7d980e5 | -11.31578 | -60.53871 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| dd894cb6-5277-3952-b9d6-7e8dd3886c93 | -11.30432 | -60.43391 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 73e9b585-5ef2-3262-bf1e-97e8d1e1beba | -11.30378 | -60.43748 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 29874a4b-5138-33f5-be6d-8c46f0313c68 | -11.30323 | -60.44109 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d27e36c3-51c9-3592-85c9-87bf1f714fa5 | -11.30297 | -60.55508 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 297a8528-fa4c-3ddb-a97d-810fb3bedb5a | -11.30151 | -60.42978 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| a5562683-702a-3d64-9129-032a666ab0b8 | -11.30097 | -60.43336 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| f295430c-4845-3625-8327-bdb46ea4882f | -11.30042 | -60.43694 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| ddec17b7-2c83-39b4-a911-6b35ec927be3 | -11.29987 | -60.44055 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 9fd3edee-2ff6-3b6d-bf35-8cf41a340117 | -11.29984 | -60.42982 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 9e56aba0-575f-3beb-8522-a02dd182047c | -11.29928 | -60.4334 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| f59d6e4e-184e-38db-936e-d1724080f8e5 | -11.29873 | -60.43699 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e0994fa7-dc42-3aeb-825f-0f84a8b1b79e | -11.28572 | -60.578 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 48aadf1e-842c-3876-823b-262626ac1591 | -11.28532 | -60.47915 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 5d9c6a78-8d78-3409-9f33-69647d4df620 | -11.28477 | -60.48271 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| d6b5554b-5da0-39ca-aa5a-55a0d807075d | -11.28422 | -60.48628 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e4a3b072-9c4e-30e3-8957-e0df544101d8 | -11.28416 | -60.44215 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 131c38d6-15cb-34ea-a7a4-b0f6c68dc768 | -11.28367 | -60.48986 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f7eec80e-7782-3909-bb32-5689d54683fd | -11.28311 | -60.49345 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 327fb1f6-c018-3b82-b839-396099ed8b43 | -11.28255 | -60.49704 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c94e6db8-c1c0-3264-a753-ebf8c7f5978a | -11.28251 | -60.47507 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a6e3737e-fcbd-350d-85da-479f7087a529 | -11.28196 | -60.47865 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 65fcd9b1-0efb-30d1-b8ec-a9e8dacb2743 | -11.2814 | -60.48223 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 0ddf0ddf-906c-3bee-9783-2890e1b51787 | -11.28085 | -60.48581 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 138f36ce-fa8c-31e6-b323-455bc28a9121 | -11.2808 | -60.44162 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 61ba2f00-4856-3843-b660-717b5883a4dc | -11.2803 | -60.48939 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| da0949b7-af95-3a95-80d2-c0f707454011 | -11.28024 | -60.44527 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| dc21f45e-a44f-32e5-a258-f37be56f1c23 | -11.27919 | -60.49656 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7bf6031a-b366-35a3-a1e3-4501e7cb1604 | -11.27915 | -60.47456 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| fa4c337f-2bac-3e0e-b0ef-512072700517 | -11.27864 | -60.5001 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| ddcb6843-25dd-39e8-87e3-50f2d1c9a9d7 | -11.2786 | -60.47813 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 80963800-942a-3aec-97a2-f4cf7c4740c6 | -11.27809 | -60.50365 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| f62a045b-ce1d-3ac6-84ef-bd5f42b377a3 | -11.27804 | -60.48172 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 36d3d307-c346-316c-a7aa-929b0481805b | -11.27749 | -60.48529 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 929bf410-870e-32c8-b718-471b0727f099 | -11.27745 | -60.44107 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 20ebd88c-6ee0-322b-a2a0-cf770d1aed1f | -11.27689 | -60.44469 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| eb9b29fc-f707-3416-af73-7c0879707a96 | -11.27583 | -60.49603 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 337a8c1d-44b8-3fb4-be89-b44300781e14 | -11.27528 | -60.4996 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 3871e945-72de-3c29-bbfe-9215117b431d | -11.27525 | -60.47756 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| d344eb66-e4a1-3dc1-872b-ae3a253288ce | -11.27473 | -60.50315 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| b96fa5f1-92fd-38cf-a20b-0dd9b7878030 | -11.2747 | -60.48115 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 6cbd8a0f-b286-3ccd-a10b-e68703d28572 | -11.27418 | -60.50671 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 2f569c10-9924-339a-89de-2a89cc0dc4d0 | -11.27414 | -60.48474 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| f23c3a57-14d6-3e08-9834-b58f9d594ba5 | -11.2741 | -60.44049 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 5864ae52-3ee5-3bec-b343-2e6a78819f74 | -11.27192 | -60.49908 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| d4fe24db-a081-3de8-a4d5-1145032a6200 | -11.27137 | -60.50265 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 711133ac-5d2a-38da-9076-16f6f6df5915 | -11.27082 | -60.50621 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| f2f9814b-d289-3192-91df-ce6788dc2671 | -11.27079 | -60.48418 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7db452b7-e530-3a97-a529-3b5fe378d76e | -11.26801 | -60.50214 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| bb39677d-7525-34a2-aa3e-fdcf122047ac | -11.26746 | -60.50571 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 08202021-7435-393c-8973-8efdc3823935 | -11.26744 | -60.48364 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 2f94db01-c65d-3d34-8a35-4479cd43104f | -11.26464 | -60.47947 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b7628cc3-13ab-3ab7-8e8b-20dcd87c72db | -11.26356 | -60.50875 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 5516a428-3d37-3d06-9d76-4511914530b1 | -11.26075 | -60.50469 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2f737f16-0171-3106-8138-79feabbbe735 | -11.2602 | -60.50824 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a717dd30-b607-3c0b-a908-f41739ad79c1 | -11.29354 | -60.33666 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 3196f8ae-824d-3e94-8d91-13ade03d2726 | -11.29298 | -60.34028 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 399304b4-fe66-3543-9d82-77f8ec1c6001 | -11.29018 | -60.33612 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 64daff0a-345e-3e2c-80bd-0c222a7f9774 | -11.28962 | -60.33974 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 0773efd7-e953-393f-88d6-03d4860a8c82 | -11.28289 | -60.33867 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d681b743-d9eb-3f0b-9c8e-2ee0d66617bd | -11.28008 | -60.33455 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 95919a2f-f48a-390a-8744-3d60ab3d10d7 | -11.2796 | -60.38242 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 291c0d47-43cc-30f2-9d32-096c9e125f72 | -11.27905 | -60.386 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8cc7adf3-7178-3b4d-bbd1-663c66127f23 | -11.27735 | -60.37471 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 26a93fbe-82ba-38b8-a458-898443009c0d | -11.27679 | -60.37832 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3db62788-d5ea-382e-8253-e25d29bf436d | -11.27624 | -60.3819 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 650169c5-903b-3270-9dbc-4cbb25a8171b | -11.27569 | -60.3855 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 12c1187a-145f-3fe6-9175-785ce3f7e51f | -11.27453 | -60.37061 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| fbc1485f-145d-3656-a434-77941c18b290 | -11.27398 | -60.37421 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f3180e57-be31-33f3-bc23-8ff744460616 | -11.27342 | -60.37781 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c09a75cf-2be9-3dfb-b090-b49f962bbf70 | -11.27181 | -60.41069 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 8058e0ed-65f8-31f2-ba12-2fd6c14fab15 | -11.27172 | -60.36651 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| f5d0768a-90c7-33b7-b85b-17adc5656392 | -11.27125 | -60.41427 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 21112080-5300-3a78-90bc-fec1de799037 | -11.27116 | -60.37012 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 511f5911-b97e-31f5-aa9b-ea4c3a584a06 | -11.26835 | -60.366 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ac849daa-15f4-34f7-8d93-d4951d285cad | -11.2679 | -60.41373 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 53ff02fd-8a32-3e97-b079-37a820e22132 | -11.2678 | -60.3696 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| dbdedbc5-562e-3540-b685-ca85dbdde964 | -11.26499 | -60.36546 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 6a28fdad-161b-32c6-b056-e92cf044678a | -11.26454 | -60.41317 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| aa2b31d0-f46f-3f43-8e89-4a2408be7003 | -11.26443 | -60.36908 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 519f4408-a5ba-3907-ac98-5f4636d75728 | -11.26162 | -60.36493 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 923d5c88-f372-3f4f-979a-d8a174fbc59f | -11.26118 | -60.41261 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 237bd69a-ca5e-36dc-9db8-e8fcfad370ee | -11.26107 | -60.36855 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a6452555-85e7-391d-a6fa-4d0e39aa8722 | -11.25838 | -60.40848 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 5b9d298a-aaa6-38d5-989d-c42c01abbbb5 | -11.25783 | -60.41207 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9b610a12-a4b1-31a8-bf53-43590c143cd3 | -11.25557 | -60.40435 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| ff1ff00d-da13-3060-98d6-1de0532f352e | -11.25221 | -60.40381 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| f8e85b7b-3812-34fe-bafe-10404f59593d | -11.2494 | -60.39967 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 56333b76-4e94-38fd-be0e-2df566eba43d | -11.24788 | -60.22922 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 61c66552-271c-3417-8b47-4c00e921d611 | -11.24659 | -60.39553 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| a31db46b-62ac-3502-9ba8-8cd655e4a591 | -11.23987 | -60.39444 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d8232d69-4667-3c28-8a5d-908c603b7fea | -11.23273 | -60.23799 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f011d876-bb1f-3ad0-abf7-f5c11558f1cf | -11.21559 | -60.23146 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d23b40f9-c8bf-34cb-9731-4d02bebae950 | -11.21503 | -60.2351 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 687741b6-16d6-3efc-8e56-83d3a36b6001 | -11.21222 | -60.23093 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| abc2a735-bd59-3849-a9df-df1d4d352022 | -10.912 | -44.6816 | 2024-10-14 12:16:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 109.3 |
+| d7b2df7c-5f38-3a03-a75f-57698c722a1c | -11.245 | -44.1924 | 2024-10-14 12:16:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 102.8 |
+| 398f6c52-8d86-3e4d-afe7-f60bf40b8b46 | -10.349 | -46.6002 | 2024-10-14 12:26:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 65.9 |
+| 3bc24502-3a25-3e54-8611-0184af608fde | -10.8925 | -44.7074 | 2024-10-14 12:26:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 74.9 |
+| 1d4b3dfb-c7f1-398f-af09-fefba75d3aad | -10.912 | -44.6816 | 2024-10-14 12:26:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 101.4 |
+| 46795d06-622a-32aa-8fb4-860c4d44c2a0 | -10.9116 | -44.7048 | 2024-10-14 12:26:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 227.8 |
+| 4c915090-6c37-344c-98ca-7a4a318d1875 | -11.245 | -44.1924 | 2024-10-14 12:26:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| 22965780-6ab9-30fa-8cee-d1b8aa4082e7 | -11.4602 | -43.9263 | 2024-10-14 12:26:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| 36ae7adf-b13f-3123-a541-425fd4395ef0 | -11.4794 | -43.9234 | 2024-10-14 12:26:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 114.3 |
+| f73fd1c5-1cd8-3cc9-9519-faf05e4f8800 | -11.4597 | -43.9499 | 2024-10-14 12:26:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 118.5 |
+| ee587158-70ba-3d11-8055-382d948f3e11 | -9.9411 | -47.2949 | 2024-10-14 12:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 64.1 |
+| 58efae32-d395-3fbc-bc73-62be9684e65e | -9.9392 | -47.4281 | 2024-10-14 12:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 64.7 |
+| 08ef2a52-3463-3542-b832-2abeaceeece2 | -10.0622 | -44.2391 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 209.8 |
+| 86b74651-79af-3a44-84e9-d402cfbf5b6d | -10.0626 | -44.2158 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| ea0d75cb-6605-30f8-8fbd-cf4459816221 | -10.082 | -44.19 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 180.8 |
+| f3e41c96-3a7a-31e4-8f51-eaed7a24ffc1 | -10.0816 | -44.2133 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 316.9 |
+| bd37f613-5cfc-38df-8fa4-8f4099fcc337 | -10.0813 | -44.2366 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 113.3 |
+| 4210b0b9-b199-3af8-b527-125d6966fa2a | -10.0629 | -44.1925 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 96.4 |
+| 7ed4822a-ca76-32c9-8780-08c743fd0a2e | -10.349 | -46.6002 | 2024-10-14 12:36:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.0 |
+| 99cc6807-b9cb-3618-aa64-543e69128616 | -10.3303 | -46.58 | 2024-10-14 12:36:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 83.0 |
+| 351109a5-d75c-3f26-826f-a3300fccf365 | -10.9307 | -44.7021 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 83.0 |
+| 379132ef-8c4b-3f01-878d-0e813b723cb0 | -10.8925 | -44.7074 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 99.3 |
+| 7fe9b5b3-a178-3a8c-b5aa-fe92195d9307 | -10.912 | -44.6816 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 97.2 |
+| a1c4ed9c-5fc2-3199-a3d0-e949e2f10155 | -10.9116 | -44.7048 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 200.6 |
+| 854fe51d-74a8-31ad-99c6-bc3ca48b7fc8 | -13.3889 | -44.694 | 2024-10-14 12:36:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 83.2 |
+| 2682aeec-c577-3512-85ef-aa3a617a86c9 | -21.5414 | -48.0108 | 2024-10-14 12:37:05 | GOES-16 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 140.5 |
+| 47b6d392-76b9-3c59-a35c-a07644df0806 | -9.7825 | -46.4651 | 2024-10-14 12:46:01 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 66.7 |
+| 6bf693b0-1995-3959-84ae-9bde1084a3fa | -9.9411 | -47.2949 | 2024-10-14 12:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 67.7 |
+| ee5cac78-1d02-306c-9856-030325c0e5a3 | -9.9392 | -47.4281 | 2024-10-14 12:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 131.6 |
+| 8c3adb2d-0a15-3f3c-9ae4-6ec8e703f3f5 | -10.8925 | -44.7074 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 85.1 |
+| e2105c42-dc00-3a0f-9d44-5adeea4381c6 | -10.9307 | -44.7021 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 98.6 |
+| 02874bb8-3483-33dc-92a2-4bd23a47ff3f | -10.912 | -44.6816 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 81.8 |
+| 8ed4b801-bc97-3959-805c-03ea07a243c5 | -10.9116 | -44.7048 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 193.6 |
+| d3b02ff5-5bf8-3cb3-9904-a34b99aee5f9 | -11.4597 | -43.9499 | 2024-10-14 12:46:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| 8f2ae6d7-47e4-35c4-a9e1-dd26ce8835d7 | -10.0439 | -44.195 | 2024-10-14 12:56:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 89.5 |
+| 9cd757d8-7b5b-3b07-bdea-83ee4d9d7096 | -9.997 | -47.3551 | 2024-10-14 12:56:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 1f478b19-5491-3766-acee-3408689d21de | -10.082 | -44.19 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 138.5 |
+| d8620387-5e3f-340a-9ee7-3a1cb54c4982 | -10.0629 | -44.1925 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 100.4 |
+| 92b11ef7-55cb-38aa-8823-f109c6297297 | -10.0626 | -44.2158 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 119.6 |
+| 1a7b5cfc-8caa-331d-a66f-533226a3734c | -10.0622 | -44.2391 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 257.6 |
+| 972e7e27-22d7-396b-a5e5-68c4a8cfa5cf | -10.9112 | -44.7279 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 112.8 |
+| b4515504-f67e-30d5-8c77-f3358eb74d22 | -10.9116 | -44.7048 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 361.7 |
+| 88a7d05d-3030-3493-8439-b19004088839 | -10.9311 | -44.6789 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 84.2 |
+| 7ba23ce1-4fe1-3eef-b725-70558ac16f1e | -10.912 | -44.6816 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 124.2 |
+| d0badb62-a8c3-3d03-b2a3-aa296407af15 | -10.8925 | -44.7074 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| afce4f1a-1cb5-3b3c-8579-3e0c97545be7 | -10.9307 | -44.7021 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 141.2 |
+| a278fbb5-de1e-3c9e-8d55-4a470409cdad | -11.4597 | -43.9499 | 2024-10-14 12:56:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 76.1 |
+| 1d3bd963-9a6b-39b0-85f9-ef62d8e1e77c | -13.3889 | -44.694 | 2024-10-14 12:56:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 92.3 |
+| 5da7e727-5db4-345b-8200-f2706fd3d418 | -13.817 | -44.5961 | 2024-10-14 12:56:23 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 81.7 |
+| a04e5364-d177-32a9-9d0c-4fa6dd5adb46 | -17.93 | -57.38 | 2024-10-14 13:03:43 | MSG-03 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| bd31957d-6e92-3734-83c6-e2b0307b64f3 | -10.06 | -44.26 | 2024-10-14 13:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 2c768d19-7df9-3a7b-8823-13701faebe68 | -10.05 | -44.22 | 2024-10-14 13:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 676a7082-92bd-3234-95d6-e1e1f9ec516b | -10.08 | -44.22 | 2024-10-14 13:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 51550a76-f75e-375d-af11-d7ea5ee1c515 | -10.04 | -47.33 | 2024-10-14 13:04:28 | MSG-03 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| eba3504c-cb16-39e1-b62d-3c73d042ce9c | -9.72 | -46.46 | 2024-10-14 13:04:30 | MSG-03 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1f8a3e81-c9aa-3bb8-b8b7-75085b9e55ac | -7.57 | -42.51 | 2024-10-14 13:04:41 | MSG-03 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 51d6f314-dfb3-3101-b2ec-811f54917b64 | -9.4888 | -45.8228 | 2024-10-14 13:05:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.7 |
+| 406f63d1-be77-3168-b9e4-fa8d1c2957d3 | -9.4885 | -45.8454 | 2024-10-14 13:05:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 76.4 |
+| 77e7ecba-5322-3e1a-8efd-f61d5748b709 | -9.707 | -46.4513 | 2024-10-14 13:06:01 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.0 |
+| 3ff0c84a-51d5-3b77-a449-1dfe1398d0c6 | -9.997 | -47.3551 | 2024-10-14 13:06:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 76.7 |
+| 94ca1c2d-c48f-34e2-b9e0-f77df7341b27 | -9.8504 | -47.0162 | 2024-10-14 13:06:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| 5544b573-2ccc-3882-af76-651ece64d59a | -10.0432 | -44.2416 | 2024-10-14 13:06:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| cd0e465b-c12b-37f5-81a1-6ab386ca6ea6 | -10.0439 | -44.195 | 2024-10-14 13:06:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 70.3 |
+| 681d5412-3a91-3cda-9ab0-79260225b0e3 | -9.8501 | -47.0385 | 2024-10-14 13:06:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 61.9 |
+| 47bbc63e-934e-32b7-926e-8ea60e70449a | -10.0629 | -44.1925 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 108.7 |
+| 0d7ae41b-73d7-3e8c-b3c1-1c1e604a8bcf | -10.0633 | -44.1692 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 71.6 |
+| 58718ca2-4519-35b5-b8d9-4ec7ace37291 | -10.082 | -44.19 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 122.6 |
+| 625401d7-493d-39e7-ba0a-083116ea6ce7 | -10.0626 | -44.2158 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 97.7 |
+| fac8636d-db7d-38a3-ba84-89b449ba552e | -10.0622 | -44.2391 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 226.4 |
+| cf8ab8d6-14fe-30b2-bc34-477396f89ff9 | -10.349 | -46.6002 | 2024-10-14 13:06:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| bad4db1d-4aed-3f81-9821-59f79a0db3a6 | -10.3493 | -46.5777 | 2024-10-14 13:06:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 91.7 |
+| 9f058029-cf63-39ab-8af3-ac8a7eb809e0 | -10.6795 | -47.3419 | 2024-10-14 13:06:06 | GOES-16 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| e3dc988b-26b3-36d7-8e16-8f07c069ea37 | -10.912 | -44.6816 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| a6c9a6de-f717-356c-820c-626e1cd553fa | -10.8925 | -44.7074 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 71.0 |
+| 17998b5c-1434-3573-8ed5-1d1a2e4f68e8 | -10.9307 | -44.7021 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| 54ad9133-aeb5-359a-8527-568ba87e8e20 | -10.9116 | -44.7048 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 291.8 |
+| 5076c528-9e2d-3e71-860a-87af832057da | -11.245 | -44.1924 | 2024-10-14 13:06:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 99.5 |
+| 8ee2043c-232a-341e-a85a-85a699151cf9 | -11.2476 | -51.3283 | 2024-10-14 13:06:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 26a035fa-cf90-3007-85a8-4fc433a2b40c | -12.5962 | -44.7783 | 2024-10-14 13:06:17 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 140.5 |
+| af7c6c5e-71ce-3124-ba7f-34a48505809f | -12.6159 | -44.7519 | 2024-10-14 13:06:17 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 108.2 |
+| eebea84b-0305-3283-86d5-fbf62129e553 | -9.4699 | -45.8249 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 90.8 |
+| f422310d-5830-39dc-8c17-2bbb5aa2f88f | -9.4885 | -45.8454 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 68.8 |
+| cde39d43-01c4-30f4-8efe-a3abf3f70243 | -9.4696 | -45.8476 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 63.3 |
+| f4df00b6-f879-3351-8c83-9e18bf5bf0fd | -9.4175 | -45.5134 | 2024-10-14 13:15:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 72.2 |
+| 5ad320ed-52da-38a2-afb2-73feb937755d | -9.4702 | -45.8023 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 84.3 |
+| 2e2537d8-8d5d-36b5-95e5-487ec393812e | -9.4365 | -45.5112 | 2024-10-14 13:15:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| 11ea10fe-f65b-3128-9c6e-1584758adc0e | -9.4888 | -45.8228 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.2 |
+| 857ec6f3-e5d9-3f52-a1c1-fb8a3f88bd67 | -9.5648 | -44.4873 | 2024-10-14 13:16:00 | GOES-16 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 53.5 |
+| b7fcb089-4cdb-349d-a798-09e8a2f8879b | -9.8504 | -47.0162 | 2024-10-14 13:16:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| b476904b-b942-3f0f-9641-53d9b9dbb5ba | -9.9222 | -47.297 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 71.9 |
+| acab97de-66d6-3abe-8b07-77a3482e9d52 | -9.9408 | -47.3171 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 159.6 |
+| c7d03fdc-a8e9-3d76-9764-2a09b7cb0cb5 | -9.8501 | -47.0385 | 2024-10-14 13:16:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 68.9 |
+| 617af735-87e3-373e-b869-9693bf4d165b | -9.9411 | -47.2949 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 177.0 |
+| 28adfede-f6b9-3cc4-99e5-9b76dbead3d7 | -9.9414 | -47.2727 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| 7d693ffc-ffc0-38eb-af6a-0b6c5b006ab1 | -10.349 | -46.6002 | 2024-10-14 13:16:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| 04fae1b5-2f69-30b0-a49f-a013ad2d8b9d | -10.3493 | -46.5777 | 2024-10-14 13:16:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| 6661d5ae-caea-3535-a1fe-30a4a59236cf | -10.4716 | -49.9624 | 2024-10-14 13:16:05 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 83.7 |
+| aed4e896-ac83-38bc-8b08-d12cc4032ec4 | -10.6795 | -47.3419 | 2024-10-14 13:16:06 | GOES-16 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
+| fe48d338-5c6e-30bf-9de1-f59a5e799cc3 | -10.9116 | -44.7048 | 2024-10-14 13:16:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 173.9 |
+| 21c2eb51-ab98-3b87-9da5-e56e6d04dce7 | -10.9311 | -44.6789 | 2024-10-14 13:16:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 75.6 |
 
 
 [Clique aqui para ver as próximas entradas](README133.md)

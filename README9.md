@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b31b7b73-410e-3239-a663-4b7ae89244d2 | -7.24866 | -45.3872 | 2024-10-13 00:39:00 | TERRA_M-M | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| 493ce947-2bc3-3650-b828-ed4b72f7d4e7 | -7.1389 | -47.61539 | 2024-10-13 00:39:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| 2717321f-a756-322a-86e4-3489ebfeb5f3 | -7.13717 | -47.60262 | 2024-10-13 00:39:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 34.1 |
-| a5fffe5d-b10a-3fa7-a566-9b7b9ca407d0 | -7.02087 | -46.81893 | 2024-10-13 00:39:00 | TERRA_M-M | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 96ea0da6-d9c6-36c0-ad74-fbc34a521caa | -6.98541 | -47.08581 | 2024-10-13 00:39:00 | TERRA_M-M | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 9c63ab0d-6197-3fff-8735-ca08f75036c8 | -6.84461 | -44.38594 | 2024-10-13 00:39:00 | TERRA_M-M | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 9008f94e-ae85-3447-b965-5caf4fa50c0c | -6.80928 | -44.46997 | 2024-10-13 00:39:00 | TERRA_M-M | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| cd1b1020-1842-341d-a50a-8f03185d5c91 | -6.7609 | -44.1866 | 2024-10-13 00:39:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 072b8a5f-6b3c-3a2a-a306-4bb6d31ca192 | -6.75967 | -44.17773 | 2024-10-13 00:39:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 74eff65e-026e-3f33-88ab-c4fe14faaea1 | -6.75206 | -44.18785 | 2024-10-13 00:39:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 35.8 |
-| 98113849-8336-3e1d-bbaa-9257dcf79c14 | -6.74485 | -48.18186 | 2024-10-13 00:39:00 | TERRA_M-M | PIRAQUÊ | TOCANTINS | Brasil | 1717206 | 17 | 33 | nan | nan | nan | Amazônia | 23.6 |
-| 9fd11db6-ca5c-3e94-9c8f-11eadfe8bdbe | -6.74322 | -44.18912 | 2024-10-13 00:39:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| be343c90-e07d-383d-a2a5-07ba1b39dc2a | -6.74299 | -48.16797 | 2024-10-13 00:39:00 | TERRA_M-M | PIRAQUÊ | TOCANTINS | Brasil | 1717206 | 17 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 83651cff-57ab-360b-8900-96c6a1c98980 | -6.68504 | -44.63075 | 2024-10-13 00:39:00 | TERRA_M-M | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| a443f956-9a16-36af-a2f2-31e641b8bd8a | -6.58446 | -44.17862 | 2024-10-13 00:39:00 | TERRA_M-M | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| 89766436-7b94-3610-9273-f63c6750bad5 | -6.54467 | -44.022 | 2024-10-13 00:39:00 | TERRA_M-M | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 25145741-20d2-39bb-9823-a8a6d8b6d1cd | -6.53926 | -44.43855 | 2024-10-13 00:39:00 | TERRA_M-M | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 7d25563d-9edd-3676-a4d5-ae000bbae248 | -6.53803 | -44.42963 | 2024-10-13 00:39:00 | TERRA_M-M | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 67b12670-1274-347a-8450-c2e28e054a94 | -6.52704 | -44.42801 | 2024-10-13 00:39:00 | TERRA_M-M | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 596bba03-01fd-3945-91b6-853ced9ad462 | -6.48336 | -46.06548 | 2024-10-13 00:39:00 | TERRA_M-M | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| eefe84c8-83eb-39aa-a48b-00d4c9cbe876 | -6.4768 | -46.06244 | 2024-10-13 00:39:00 | TERRA_M-M | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 6457ea4a-0a31-31d5-904e-0b4fb9ae6166 | -6.45176 | -44.27567 | 2024-10-13 00:39:00 | TERRA_M-M | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 7fce21f5-bf15-30be-b582-18b57748147b | -6.45053 | -44.26679 | 2024-10-13 00:39:00 | TERRA_M-M | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| e9d7e19c-c103-3297-8c5b-b62628e97e2a | -6.32577 | -44.97003 | 2024-10-13 00:39:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 31bd0cdd-31bd-359d-a5ab-8cf528cd765c | -6.32082 | -44.27036 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 78c8a94a-4576-3816-8464-07359b9e89b8 | -6.1742 | -46.75428 | 2024-10-13 00:39:00 | TERRA_M-M | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 12.1 |
-| cf40c4c7-3b78-3cc3-8bd3-a92fe7816014 | -6.13762 | -44.73533 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 53b0eb14-744b-35da-ac93-7bfd17a65737 | -6.13639 | -44.72636 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 22.1 |
-| ded990e9-e943-33fc-9e1b-673e9d1a93ce | -6.133 | -47.27999 | 2024-10-13 00:39:00 | TERRA_M-M | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 134.7 |
-| ec6e99dc-3a44-3f37-9573-6aae32c9c1a5 | -6.13145 | -47.26834 | 2024-10-13 00:39:00 | TERRA_M-M | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 23.5 |
-| b96a4b20-0b78-3a44-956d-8523809d3b9a | -6.08839 | -44.84943 | 2024-10-13 00:39:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 660966e8-4336-3995-afd2-2f61365cd782 | -6.07641 | -44.63163 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.5 |
-| 21da74e1-49d3-34ec-8233-46b3b82439cc | -6.07517 | -44.62268 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| d707029b-4908-3c12-921f-5707885b2112 | -6.07074 | -44.0567 | 2024-10-13 00:39:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| b9e7b308-e689-3d6d-bb83-d5857b555f57 | -6.06877 | -44.64184 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| 1355236b-9993-319d-9def-fefcbc6b0159 | -6.06753 | -44.63288 | 2024-10-13 00:39:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 9bc342ff-0c53-3a68-a445-504b558ebfa6 | -5.86769 | -46.45895 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 17.9 |
-| db1fb050-0c4b-35ae-907b-74817f7e0649 | -5.86625 | -46.44846 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 510c430f-05d4-38be-8214-02ffb22cc946 | -5.77249 | -46.11143 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 490076f5-42e6-3b02-b2a3-2de3dd9c200d | -5.76339 | -46.51133 | 2024-10-13 00:39:00 | TERRA_M-M | SÍTIO NOVO | MARANHÃO | Brasil | 2111805 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| dd02bb7c-7f97-3062-84f6-711c7340a129 | -5.74994 | -45.94443 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 583b6c40-98f7-3b15-b596-1a39c1766a88 | -5.70431 | -45.67649 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 6d90bfe8-1d36-348b-9eb3-319032d3ae51 | -5.6299 | -44.33012 | 2024-10-13 00:39:00 | TERRA_M-M | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| e2112955-4f84-379b-bdab-68da30e3b400 | -5.59855 | -44.96711 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| 51946c8d-093d-38b6-9ce3-502900247121 | -5.57059 | -46.16803 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 5c6f3aab-3fd6-307f-8fda-677ac085f9d4 | -5.56859 | -44.22781 | 2024-10-13 00:39:00 | TERRA_M-M | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 0f94a7c3-3fed-30d1-839e-f61c6e72bf70 | -5.54395 | -46.18194 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| 8ccc8361-9bec-36c4-8893-672b767a3b89 | -5.53805 | -47.10704 | 2024-10-13 00:39:00 | TERRA_M-M | BURITIRANA | MARANHÃO | Brasil | 2102358 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| a8a7a54c-829c-3b3b-ad7c-1244818920e4 | -5.52768 | -45.80068 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 11.9 |
-| 0d7a1c56-3043-3bf8-b0c1-aed8290b63f5 | -5.49725 | -46.80169 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 8a373364-6404-3c11-a7df-6df423d9dced | -5.49725 | -44.97516 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| ca2226b6-fb66-30c3-a53c-02ffcdbc260d | -5.49582 | -46.79097 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 128d6062-6a55-37ac-afb9-39aa2d19dd91 | -5.4774 | -45.83325 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 44522d34-7de0-3125-bf04-7de2083a9a6b | -4.09875 | -43.92598 | 2024-10-13 00:39:00 | TERRA_M-M | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 32.7 |
-| 54939912-f195-3433-a74a-da5e62ae153c | -4.80404 | -42.71523 | 2024-10-13 00:39:00 | TERRA_M-M | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 94.3 |
-| 7df1dd85-3e1c-38f1-953f-6f7958b82f49 | -4.80536 | -42.72461 | 2024-10-13 00:39:00 | TERRA_M-M | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 23.8 |
-| 4f04a4f5-f581-329d-8f04-fef7a04183f3 | -4.81314 | -42.71393 | 2024-10-13 00:39:00 | TERRA_M-M | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Cerrado | 35.4 |
-| 8078a87e-7c79-33f1-b2f4-6fd51dc4704c | -7.2043 | -42.28727 | 2024-10-13 00:39:00 | TERRA_M-M | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| f73a56c1-632a-3475-b2d1-7813121213e0 | -7.21337 | -42.28596 | 2024-10-13 00:39:00 | TERRA_M-M | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 19.3 |
-| 0e95bbbf-9e0b-377c-91cf-ad18145a6a2f | -7.2147 | -42.29531 | 2024-10-13 00:39:00 | TERRA_M-M | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| b8444943-7773-3a64-8c93-bb0e23116050 | -7.70236 | -43.20149 | 2024-10-13 00:39:00 | TERRA_M-M | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
-| 2311c05a-97cf-3713-9b07-1e07f4445b9c | -5.46821 | -45.83448 | 2024-10-13 00:39:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 784b3236-a4e8-347f-a1bf-44714894dd4b | -5.38716 | -45.04289 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| cb3bb2ef-ed64-3bcf-b177-1cb537491a2f | -5.37257 | -44.40271 | 2024-10-13 00:39:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 55efeb3f-3fe1-3a63-bce2-caec5a7a3725 | -5.35613 | -44.41405 | 2024-10-13 00:39:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| ca81e9b4-c101-3669-bb9d-841eae27c8e1 | -5.32251 | -45.30784 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| d4e3adca-dfaa-3c80-99ac-ef5585ff1294 | -5.30705 | -44.4003 | 2024-10-13 00:39:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 8b6d70bb-6dc1-31dc-b740-d014dbf96502 | -5.30582 | -44.39147 | 2024-10-13 00:39:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 5a4d5079-652e-3324-b44d-0a293b5bf25a | -5.19951 | -44.9531 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 6acb1ce2-ccf4-39b1-b599-f8051aca46be | -5.19827 | -44.94414 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 78a55a81-6aee-360f-8b6f-ff9315613523 | -5.19075 | -45.48844 | 2024-10-13 00:39:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| c61a4740-10c0-3b92-8e38-a31f093eb77f | -5.18937 | -44.9454 | 2024-10-13 00:39:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| 03c054bf-c095-37d7-ba8a-a251ededa533 | -5.18692 | -46.19476 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| 4633a8bb-2fcc-339b-a827-1cf842fdb51c | -5.17085 | -46.14679 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| 91b8a54a-e025-32a5-bb4f-4409a2037a2e | -5.16599 | -44.37214 | 2024-10-13 00:39:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| b5b06d06-f192-35c6-aaf3-e1f86b67946d | -5.16477 | -44.36331 | 2024-10-13 00:39:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 5631ee8f-770a-362e-bc22-1a3329049d6c | -5.1629 | -46.15787 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 25.1 |
-| 4b717ff2-6606-312e-9df6-738c1c43e721 | -5.16157 | -46.14813 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 27.3 |
-| 35cd1021-00d4-359d-9afd-88d93d19e6b4 | -5.14323 | -45.41061 | 2024-10-13 00:39:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 0a22ee32-5e7b-339c-8fac-949197f5ce4d | -4.09114 | -43.9361 | 2024-10-13 00:39:00 | TERRA_M-M | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| a5db1109-bfe8-3c15-8d2c-8f64b8e7445b | -4.0975 | -43.91712 | 2024-10-13 00:39:00 | TERRA_M-M | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 08751ce5-0003-38db-abda-dcb6f6d8b161 | -5.14197 | -45.40145 | 2024-10-13 00:39:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 59.1 |
-| ac4fde54-d2e8-312b-a223-65537411a1a6 | -5.14071 | -45.39224 | 2024-10-13 00:39:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 24.0 |
-| de180669-f131-3e09-ab51-1f3e6e176a0f | -5.13423 | -45.41192 | 2024-10-13 00:39:00 | TERRA_M-M | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| fd82fcbc-d3a4-3119-9f6b-cb616c5f0e58 | -5.13297 | -45.4027 | 2024-10-13 00:39:00 | TERRA_M-M | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | 47.9 |
-| 5c3fdc4a-4756-30f8-a45f-663418520284 | -5.1317 | -45.39349 | 2024-10-13 00:39:00 | TERRA_M-M | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 85e0f5ed-7223-3a69-82fd-e9159b77f3ad | -5.12163 | -47.3555 | 2024-10-13 00:39:00 | TERRA_M-M | SÃO FRANCISCO DO BREJÃO | MARANHÃO | Brasil | 2110856 | 21 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| 08f6a974-74ad-346e-b532-25d604366637 | -5.09308 | -45.85268 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 12.0 |
-| 480ba0a7-33b9-3987-89ff-9e71c4badc60 | -5.09178 | -45.84314 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 46.2 |
-| 953f6ede-cc1c-3fa9-bc3f-0d2a5ff31bcb | -5.08264 | -45.84447 | 2024-10-13 00:39:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| c7678609-1530-316b-a6aa-1b04312fa8ca | -4.0899 | -43.92725 | 2024-10-13 00:39:00 | TERRA_M-M | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 56.9 |
-| 3ed29ccc-cd8d-3818-ae94-9516013fb65b | -5.07434 | -46.85801 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 30.0 |
-| 9c075099-93ef-3a5c-a701-f89b2691ca90 | -5.07288 | -46.84726 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 89.1 |
-| c3490b58-e359-361c-85a0-a595de3e8f68 | -7.70995 | -43.1913 | 2024-10-13 00:39:00 | TERRA_M-M | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 7.1 |
-| d2158d24-8d55-3583-b121-0dfba68788ac | -5.06325 | -46.84867 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| f62ae77a-4ba6-3f8d-a8f3-08fd2293bb88 | -5.04944 | -44.86153 | 2024-10-13 00:39:00 | TERRA_M-M | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 40cc27e5-8288-34ff-8b94-bbbd600d74ff | -5.04821 | -44.8526 | 2024-10-13 00:39:00 | TERRA_M-M | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 18.7 |
-| 48a295b0-5aa1-33ff-b433-c0f66b6f101e | -4.99501 | -45.47173 | 2024-10-13 00:39:00 | TERRA_M-M | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 20175c1e-4804-3915-a9ec-30bd8450ac33 | -4.97618 | -46.81239 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 10.9 |
-| 3bf42626-2d6e-35e4-92da-caf73cc71062 | -4.97473 | -46.80173 | 2024-10-13 00:39:00 | TERRA_M-M | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 32.5 |
+| 9018fc03-1808-339a-b1dc-411b664ce1d8 | -9.7215 | -52.8559 | 2024-10-14 00:37:40 | METOP-C | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 35a2fc43-5c1d-33f3-b629-64477f6ee89d | -7.918 | -44.517601 | 2024-10-14 00:37:40 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| ab9c7d05-b1d4-3919-b334-8d5561210bfd | -7.9066 | -44.512798 | 2024-10-14 00:37:40 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 2cc9797b-12fb-38cf-b10a-85d64ce6f39d | -7.8968 | -44.514999 | 2024-10-14 00:37:40 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| f7108c9f-143f-3245-93f5-b2c9be3b0e1f | -7.8984 | -44.521999 | 2024-10-14 00:37:40 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 2c4f77c9-d3ab-3f87-a5d5-2193c062dd5a | -7.4292 | -42.994202 | 2024-10-14 00:37:42 | METOP-C | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 33c6ed8d-03a5-3bfc-9571-73a6b252691e | -7.431 | -43.001999 | 2024-10-14 00:37:42 | METOP-C | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 79f0bb3f-7c83-3f0b-921a-8c220cbfcb69 | -7.4329 | -43.009899 | 2024-10-14 00:37:42 | METOP-C | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 69e8586e-666a-3fd3-9472-145a37019ba0 | -7.1993 | -42.282101 | 2024-10-14 00:37:43 | METOP-C | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 72282031-12ad-343c-88b1-36fe158fa3fb | -7.2013 | -42.2906 | 2024-10-14 00:37:43 | METOP-C | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 38b40aa4-605e-30e3-a0ae-338148972ccc | -8.5941 | -48.616402 | 2024-10-14 00:37:44 | METOP-C | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| f040e744-2f45-3d65-a780-87f947ff7bde | -8.5959 | -48.624802 | 2024-10-14 00:37:44 | METOP-C | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 79803a83-c83d-3631-bf3c-60b1085f23aa | -8.4218 | -47.974998 | 2024-10-14 00:37:45 | METOP-C | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 438ec41a-7397-39fd-96af-4837c20c3871 | -8.4235 | -47.982899 | 2024-10-14 00:37:45 | METOP-C | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ca2b06fa-7501-3525-9797-bae50d1a4e9e | -7.1707 | -42.5975 | 2024-10-14 00:37:45 | METOP-C | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| c9155a85-42f9-3cdd-b53b-4bc06d0b1a4d | -7.1686 | -42.632401 | 2024-10-14 00:37:45 | METOP-C | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 5e0d244f-d35f-3086-83b5-e31c16a7a2e2 | -7.1705 | -42.640598 | 2024-10-14 00:37:45 | METOP-C | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 8bc5da40-41c4-33c8-b8a4-e7ffa6b79207 | -7.6434 | -44.6688 | 2024-10-14 00:37:45 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| e7697e77-e8d2-38a6-8f77-619d61e31f35 | -7.645 | -44.6758 | 2024-10-14 00:37:45 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 40738253-3329-3cc2-a925-407a4648960e | -7.6466 | -44.6828 | 2024-10-14 00:37:45 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 7a1ecce0-5a6e-3bf4-a46f-0d99916aec4e | -8.4807 | -48.6147 | 2024-10-14 00:37:46 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| e541e0b2-df9d-304c-9bae-8b445dcff389 | -8.4826 | -48.623001 | 2024-10-14 00:37:46 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 863034e7-82c4-3e3c-a18a-c863da470601 | -8.4844 | -48.631401 | 2024-10-14 00:37:46 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 5b209524-467d-3bf2-96cd-c8eb6c4d209f | -8.4709 | -48.616798 | 2024-10-14 00:37:46 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 0e413dc8-3cce-3e60-8cdd-76d5464647cd | -8.4728 | -48.625099 | 2024-10-14 00:37:46 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 192a856d-def1-337f-8cf7-c915e17fdab1 | -8.4746 | -48.633499 | 2024-10-14 00:37:46 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| d4b8d9cd-ca9d-3fbf-bd25-7e89458fb4af | -7.6043 | -44.633598 | 2024-10-14 00:37:46 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 1073fe2d-7165-3c67-b1f0-205aa5d65bdd | -9.3316 | -52.836201 | 2024-10-14 00:37:47 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b3126a8f-4330-302f-b04b-7490b37c94c8 | -9.3218 | -52.8382 | 2024-10-14 00:37:47 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 472f55a8-c8db-357a-a8a6-cf1d5ebdd506 | -6.9399 | -42.188999 | 2024-10-14 00:37:47 | METOP-C | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| f55c1e6a-f40b-3fc3-afd8-1f469e127519 | -6.942 | -42.197601 | 2024-10-14 00:37:47 | METOP-C | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 85823350-7261-39d8-8860-72f0d7578c38 | -7.9863 | -46.8536 | 2024-10-14 00:37:48 | METOP-C | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 238fd9f7-fb27-3b37-a5e8-753b43c2b302 | -7.9879 | -46.860699 | 2024-10-14 00:37:48 | METOP-C | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a3171027-4054-3a18-989d-4614fb7d0201 | -6.6076 | -41.571602 | 2024-10-14 00:37:50 | METOP-C | INHUMA | PIAUÍ | Brasil | 2204709 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 7a96c16f-070f-308a-9b5b-c5376d0fbf7f | -8.0864 | -48.130901 | 2024-10-14 00:37:51 | METOP-C | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 6e8ff87e-ec16-36b7-b3e2-64859468c21e | -6.8163 | -42.757801 | 2024-10-14 00:37:51 | METOP-C | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| c3bf2d36-5a11-344c-b03d-da227e971e39 | -7.3124 | -44.9786 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c091fe5f-bff5-3296-ac09-c0f526308fc3 | -7.4189 | -45.577702 | 2024-10-14 00:37:52 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d8e8b86e-bf2a-36df-a140-d19dd021392f | -7.2557 | -44.911201 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a7ce85f4-2407-398a-bef2-774e9cb5e694 | -7.2573 | -44.918201 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| eca20cd0-7b13-3a15-aa37-99dfebdce549 | -7.2669 | -44.959801 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 09b9e403-6a07-3900-8380-661904fa4e86 | -7.2685 | -44.966702 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f6da12a0-5664-3742-8ec1-1e3b7356c63b | -7.2701 | -44.973701 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 688f0b74-2946-3078-adc2-3331c2e0c5a0 | -7.2539 | -44.948101 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 192d6138-d768-38f7-9c43-10429fdf90cc | -7.2555 | -44.955101 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 2dfbf5fd-e1d2-34cb-8970-8167f3644f17 | -7.2571 | -44.962002 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ecd8735d-8566-3b1c-9abf-93a53b124d33 | -7.2587 | -44.968899 | 2024-10-14 00:37:52 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9ef3c41c-1824-35cd-a3ed-8b7cebc0323c | -6.9071 | -43.497101 | 2024-10-14 00:37:53 | METOP-C | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 0ab61dae-447a-3fc4-b515-dd89f3514d82 | -7.2457 | -44.957401 | 2024-10-14 00:37:53 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 81b91ba4-8b26-383d-9061-a14442462c8b | -7.2473 | -44.964298 | 2024-10-14 00:37:53 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a9c78508-7950-36ed-9c47-73022dcb1d13 | -6.9053 | -43.489601 | 2024-10-14 00:37:53 | METOP-C | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 6ed69c72-e4ed-32c6-8f94-75be5311d570 | -7.1256 | -44.7943 | 2024-10-14 00:37:54 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 34033229-5db7-3a27-8256-16c3e8708662 | -7.1272 | -44.8013 | 2024-10-14 00:37:54 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c927d1a3-d7b8-3602-b2aa-395cc46c08ae | -7.1289 | -44.8083 | 2024-10-14 00:37:54 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7596f500-039a-3fa0-bd79-9085fe20f987 | -7.1255 | -44.838402 | 2024-10-14 00:37:54 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 38811411-0ee6-3410-ab42-8800a9e6138d | -7.667 | -47.3106 | 2024-10-14 00:37:54 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7d1f5380-a8a2-3917-af8a-6a7b0b957182 | -7.6686 | -47.317902 | 2024-10-14 00:37:54 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c6bb492e-3fb3-3cf6-9ea5-514690442f2c | -7.6703 | -47.325298 | 2024-10-14 00:37:54 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b81b7120-016e-3fbf-9464-d1c7cc33e8fc | -7.3666 | -46.117298 | 2024-10-14 00:37:55 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c86a5c70-2e1b-3bf9-b5f5-b14ecd0b742f | -7.4136 | -46.551498 | 2024-10-14 00:37:56 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ec32bf6d-62cd-31da-a3f1-9b79c5c65acd | -7.4151 | -46.558399 | 2024-10-14 00:37:56 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0c865270-2f9a-31db-8601-7ac241070c87 | -6.9838 | -44.716301 | 2024-10-14 00:37:56 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8672d0cd-a048-3262-846f-308870ede283 | -7.9604 | -49.048901 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| ae525a97-50cf-3185-adf0-abe882cae2a4 | -7.9623 | -49.057598 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 99dd64c8-4415-3f6e-a458-08eb15f42acd | -7.9642 | -49.066299 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 3c2815e0-7191-3a85-9967-dd45b9ff6e36 | -7.9506 | -49.050999 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| cc5843af-1fa7-3d9c-9372-66bbf0c00262 | -7.9525 | -49.0597 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 398ec891-e965-39e0-ade3-008d1ec48ac2 | -7.9544 | -49.068401 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 91c16ed0-913c-3e90-bcab-fdbc21c3e2dc | -7.9564 | -49.077099 | 2024-10-14 00:37:56 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 7131c74d-e10c-341b-bd83-b78d50a7db6d | -6.7246 | -43.555302 | 2024-10-14 00:37:56 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 92f485a9-9252-328a-b47f-636511f13737 | -6.7264 | -43.562801 | 2024-10-14 00:37:56 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 5de57e3a-e268-3e3a-a2fa-875af059522e | -8.0257 | -49.628201 | 2024-10-14 00:37:57 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8fbeaa77-ae1a-3405-81c1-5b90e1f6098f | -8.0278 | -49.6376 | 2024-10-14 00:37:57 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8caebd53-e66c-3572-ae68-f712b3735bf4 | -8.016 | -49.630299 | 2024-10-14 00:37:57 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 27262224-d3ef-3264-8968-bf12995f962d | -8.0181 | -49.639702 | 2024-10-14 00:37:57 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d32bd45b-85f7-3245-a620-af6cf5df2861 | -6.6834 | -43.644199 | 2024-10-14 00:37:57 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 86c61721-b114-3776-9595-5c1883d9ae50 | -6.6461 | -43.926701 | 2024-10-14 00:37:58 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| de55ab07-5a67-3a78-b8f4-e72f85a87e6f | -6.6478 | -43.934101 | 2024-10-14 00:37:58 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| bf78cb60-fb53-3976-ba7a-509547f6d362 | -6.6546 | -43.963402 | 2024-10-14 00:37:58 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9b25268f-8759-31cf-ae9d-828b97c19907 | -6.9691 | -45.5494 | 2024-10-14 00:37:59 | METOP-C | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| db6789f5-cbcf-34b1-988e-524460b1093d | -6.9706 | -45.556301 | 2024-10-14 00:37:59 | METOP-C | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0893904f-dbab-37f6-a111-9880284d0551 | -6.5609 | -43.7826 | 2024-10-14 00:37:59 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0bb76332-c2cb-3368-8f88-9c6076e37c0a | -6.5627 | -43.7901 | 2024-10-14 00:37:59 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 410f65dc-62f2-39d2-b72f-ca98e7211ca1 | -6.4723 | -43.314999 | 2024-10-14 00:37:59 | METOP-C | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 596334f6-caf5-3135-8626-8cb0fb809175 | -6.4546 | -43.327301 | 2024-10-14 00:37:59 | METOP-C | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7124f0c4-ee18-3c19-a36a-f2b7b5830071 | -7.3402 | -47.276199 | 2024-10-14 00:38:00 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8d931748-3c17-3484-bc93-2d396a3c6eb7 | -6.0815 | -42.398899 | 2024-10-14 00:38:02 | METOP-C | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 86f8542a-3085-3be0-a965-e9451d822c11 | -6.1396 | -42.776901 | 2024-10-14 00:38:02 | METOP-C | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| d05c4e1b-a087-3142-97e4-748341656c0f | -6.1416 | -42.785099 | 2024-10-14 00:38:02 | METOP-C | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 7634b964-7591-3d99-b9c6-c00eaf85cd7d | -6.1298 | -42.779202 | 2024-10-14 00:38:02 | METOP-C | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 51e11cf4-1135-34ff-8756-e177695265dc | -6.1318 | -42.787399 | 2024-10-14 00:38:02 | METOP-C | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 924035e3-83fe-3638-89e9-b8951a6a0bc6 | -6.4514 | -43.932701 | 2024-10-14 00:38:02 | METOP-C | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1faab926-a2bb-3aba-9ba0-962387256240 | -6.4531 | -43.939999 | 2024-10-14 00:38:02 | METOP-C | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| eddf5259-df4e-3fea-b754-bd0323522a51 | -6.2677 | -43.896999 | 2024-10-14 00:38:04 | METOP-C | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 83dbef1a-5014-3624-a4e8-86c9fe79b1d7 | -7.7565 | -50.556099 | 2024-10-14 00:38:05 | METOP-C | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| dd5b5547-6d56-31a1-8c96-c15fed1d807b | -7.7588 | -50.5667 | 2024-10-14 00:38:05 | METOP-C | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9cd76df3-35c7-3fce-965f-dcbea52c1fec | -6.2579 | -43.8993 | 2024-10-14 00:38:05 | METOP-C | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| eaeba302-2b7a-31e2-9c3a-011d50abdaa3 | -6.2596 | -43.9067 | 2024-10-14 00:38:05 | METOP-C | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a427e35c-1c27-3a0a-80e1-450f8a6d1eae | -6.2166 | -44.209801 | 2024-10-14 00:38:06 | METOP-C | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 55a79e83-0717-3fbe-878a-2cbe5e57c1e1 | -6.665 | -46.159 | 2024-10-14 00:38:06 | METOP-C | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)

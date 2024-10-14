@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 326f1238-f52b-345d-9b20-72a2117b08d6 | -3.91759 | -48.34981 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| e4d8c5bf-a633-346a-9a5a-982c067af5bc | -3.91706 | -48.35325 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 597fdd5c-2813-3e51-b1fb-85f0c1ced6f6 | -3.91652 | -48.3567 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 0d8ef084-91b9-3e4a-8fa2-e47823c17ec3 | -3.91598 | -48.36015 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| bfcdefda-6bad-381d-840b-6f2426daa183 | -3.9159 | -48.33895 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| fb973625-18ae-34a1-a4ad-ed976527cffe | -3.91375 | -48.35274 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 906522d0-7d67-344a-bf5b-cc37c1f32ffd | -3.91321 | -48.35619 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 5ad4098e-9012-305d-91e5-de245548cd4c | -3.91267 | -48.35963 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| a455c820-46a7-36eb-868a-c8f82a7b7fae | -3.91044 | -48.35223 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 70c01ae8-4548-36b3-965f-dcb1e098305d | -3.90991 | -48.35568 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| c1e1b2c8-b045-3b43-bb4d-7313c12d3e53 | -3.90937 | -48.35913 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 51fdc1f8-4454-3f10-ac64-0a1475662fbd | -3.90714 | -48.35172 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 4e85fad9-913f-3af1-a7db-a791867f4f0d | -3.9066 | -48.35517 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| c7c424f2-96c2-3f1a-951c-67d093c4fbff | -3.90606 | -48.35862 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6e4d42fb-f3d1-3947-9412-7ea8842f31df | -3.89937 | -48.33639 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 9c4938ed-558b-3b94-a24e-caad942f02e0 | -3.8957 | -48.33514 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d9bf14fb-b31b-3d61-8bef-b1cd4d2aee7f | -3.89516 | -48.33859 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 28c40df8-272a-3b2f-afc3-a5ef9912639a | -3.8924 | -48.33463 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 9fdb19b8-7f5f-3fd8-81a6-77b796f93583 | -3.88909 | -48.33412 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b9a83ae9-f593-3566-8c52-a6227035c03e | -3.88579 | -48.3336 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c2354d45-6edb-361e-a661-0b658cf9c6e3 | -3.88194 | -48.33654 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 05edcbb6-f26e-3c94-94b4-28a6b8465616 | -4.18244 | -48.02504 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5e146795-f706-3d56-8ea0-992b13e60db0 | -4.1819 | -48.02851 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8480d146-369c-38dd-8e97-66b2289232ab | -4.17912 | -48.02451 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fe2ea34d-f261-3d6c-ba66-191185a96fa3 | -4.11835 | -48.2393 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 4848cf20-566e-3b1c-999d-1056405aaf14 | -4.11503 | -48.23879 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| dd21df26-7f1f-3b12-a940-3c9c119bf263 | -4.11172 | -48.23828 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| e67ab31a-9b7a-3f3b-8ee0-6a9aae34bb1c | -4.05937 | -47.92012 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1e0248f0-62b5-38c5-af78-c48fbeffedf3 | -4.05659 | -47.91613 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0d9a1cc7-0bd8-310d-b3fb-f3f9b8fe7cbf | -4.05604 | -47.91962 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5a8943ee-624d-3892-a71d-6bece599ca68 | -4.05436 | -48.23645 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 44991970-01e9-38ac-9a54-d400ecd1a62c | -4.05382 | -48.23991 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 9161e8e7-5410-37fb-aee7-424bb17e8e5e | -4.05271 | -47.91911 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| b1dcab36-4237-3628-a93b-5130190fa86a | -4.05105 | -48.23592 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| af50a18e-b26d-304c-bcc4-4e12e9c38aa8 | -4.04939 | -47.9186 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3dc97ab5-333b-3d59-8010-5e617f9426a9 | -4.03781 | -47.94905 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8506d5ea-b750-302b-94ff-8f08a6e8c2ab | -3.95755 | -47.96161 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7a1d1ad5-cd1e-31f3-8f5d-395396c1194f | -3.95701 | -47.9651 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5a6ec4ec-b8e0-3153-9455-12027dfd3fd0 | -4.1234 | -48.27198 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 4f1c02e6-5471-3845-acd2-b4ebf668d8a6 | -4.12286 | -48.27544 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 8cde27eb-0a70-361a-96e2-e1f7dceaac5a | -4.12231 | -48.2789 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 13a3aafd-8099-3ca1-841e-79320cd41caa | -4.12063 | -48.26801 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 02610d48-0b54-30fc-a66c-38fda2f02b84 | -4.12057 | -48.24676 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 30895f64-24a5-3104-97c0-f693d337aebc | -4.12009 | -48.27146 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 89c08534-6fb8-380c-b490-147ab3fe01eb | -4.12002 | -48.25022 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 733ad696-37b9-3dc7-a5bd-0ef39e805bcd | -4.11955 | -48.27492 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 0809a084-fbd6-3439-83df-6e17dd916a75 | -4.11901 | -48.27838 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b42d2a39-a701-354e-8d71-e9d31cab3175 | -4.1178 | -48.24277 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| a06b79b5-7c11-3808-b651-1b6362b76022 | -4.11732 | -48.2675 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7a577fe5-f6d4-3415-8e19-9f2b8015bcc4 | -4.11726 | -48.24625 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 13ca204f-6bd4-3657-b235-650ab336ca9e | -4.11678 | -48.27095 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ca62d1f4-e97d-3f4d-918e-00db34ed5d07 | -4.11671 | -48.24971 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d591d529-14fd-3710-bc87-73ad8f8d88bc | -4.11624 | -48.2744 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 57fb61a8-2ae0-3aec-a8cc-c4ebed510c04 | -4.11617 | -48.25318 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 94266077-18cb-3d2e-be9a-a72bc32b5274 | -4.1157 | -48.27785 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 671b45f3-85ca-392d-b0a8-9c54b164565e | -4.11515 | -48.28131 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| a44f094e-f7d8-37c6-bede-d95c10b2f453 | -4.11455 | -48.26354 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 244c2289-80f5-3377-a667-a0d10a669a3d | -4.11449 | -48.24226 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 28.5 |
-| 44f2492a-623f-34c8-aecc-e4cd8a395c0c | -4.11401 | -48.26699 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 93df4138-f2bd-3af8-82c8-9f0c527b086d | -4.11395 | -48.24574 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 28.5 |
-| 72b8adbf-d123-3f41-9161-e191f4e3eb91 | -4.11347 | -48.27044 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 49842ceb-8be6-3d77-b838-0f279e4fb564 | -4.1134 | -48.2492 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ac86190a-cb79-31f2-a8c0-a8f2b62d96b7 | -4.11293 | -48.27389 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 99bcbcaf-a1ac-3eb6-b977-34e1c0967364 | -4.11286 | -48.25266 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e6263abf-5c6c-3823-8619-578b4aa69e01 | -4.11239 | -48.27734 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 1eb4ecc1-1d81-31dc-a874-9bf78d647283 | -4.11232 | -48.25612 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 485c5302-4a1e-341b-8ec0-89c6460e820a | -4.11185 | -48.28079 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 281a6e9d-8a88-34e1-9037-231e45f684b5 | -4.11178 | -48.25957 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ce04d513-b957-3f04-bce7-c23262760cee | -4.11124 | -48.26302 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 8671314d-d60a-38c8-90f1-16e0e42b06bc | -4.11118 | -48.24175 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 28.5 |
-| 4aa3b78e-7661-32e0-a477-d0d6e24f828e | -4.1107 | -48.26648 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 32838c12-5a5f-3c57-a9a2-985f82c32801 | -4.11064 | -48.24522 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 28.5 |
-| 214cd49d-bd13-366e-9740-a7a927199022 | -4.11016 | -48.26992 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| c453185a-cd30-3200-a938-66aaed76bad0 | -4.11009 | -48.24868 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b8d52281-9e67-3ac6-82cd-3162d04b0498 | -4.10955 | -48.25215 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 411588b0-7665-35f4-b5df-2be9b275e8b1 | -4.10901 | -48.25561 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3777283c-ee71-3c66-af63-6cb96266eaa2 | -4.10847 | -48.25906 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 32125596-7380-3c56-a352-f878f4207174 | -4.10793 | -48.26251 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| ecf18cc0-932f-3c6b-a742-18a60c50ae08 | -4.10739 | -48.26596 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| d4c11c6f-5d09-3062-ade9-f478573e62d4 | -4.10733 | -48.24471 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c3b505a6-a6a1-3f6e-afb3-52c172d6c65b | -4.10685 | -48.26941 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| a727063a-8369-3470-8c5a-275c26a07072 | -4.10678 | -48.24817 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e2088d1d-cf31-3574-a935-9ee1d52c1b8c | -4.10631 | -48.27287 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| f48b4eae-1b19-328e-beea-fe49e7b54b7d | -4.10624 | -48.25163 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c6d38301-c6bf-3c78-8c2f-44555acd0dce | -4.1057 | -48.25509 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 9f7a46c2-a8f8-3018-9953-8fc7e16c4552 | -4.10516 | -48.25854 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 568fe60a-1182-3878-b4c1-413ff6887ff4 | -4.10462 | -48.262 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 931a573d-147a-3877-9d30-cfd4bcb65976 | -4.10408 | -48.26545 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| aa931782-17bd-340e-a8dc-bbd7bb961abe | -4.10354 | -48.2689 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8aec5560-0f6d-3765-9bfe-0caf2a88f059 | -4.10347 | -48.24766 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 378532a5-9262-3a63-b9d8-83e30c96ec4b | -4.10293 | -48.25112 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 80c00015-aebd-3c28-be79-605cd8356965 | -4.10239 | -48.25458 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 498568b5-9c77-3624-954b-5c56ba99b8c6 | -4.10185 | -48.25803 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 7b73e084-0def-3525-b32e-8eed6ad8e367 | -4.10131 | -48.26149 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 90e18b79-c79c-3d66-93ff-7068b81165da | -4.10016 | -48.24714 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7418113d-f392-3198-8bfe-98544a38260e | -4.09962 | -48.2506 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 04387010-086c-3f05-ba0b-3cc4e2db9324 | -4.0974 | -48.24314 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d4727f41-9f12-3495-b26d-b53c6de5abe9 | -4.09686 | -48.24661 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 9e8f85c3-d70e-3df3-b17e-c96eb5b8c393 | -4.07537 | -48.25394 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| eb03ca2d-bd63-33d5-b8a0-cf42e79826dc | -4.07483 | -48.25739 | 2024-10-13 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 760fcae4-aa50-3b6e-91d3-f69dc20f5692 | -9.42091 | -44.15086 | 2024-10-14 04:21:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 540b4571-7f3c-32ec-bfa1-7a610a0dbda2 | -9.42042 | -44.17641 | 2024-10-14 04:21:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 8627a34c-cbd0-3e40-8b92-0cfca0f8b71f | -9.41817 | -44.16877 | 2024-10-14 04:21:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 656b52e0-1244-3f63-a168-62e1f541f3f8 | -9.41763 | -44.17234 | 2024-10-14 04:21:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 6d98011b-81ca-33e7-bd9e-225fd1d99eeb | -9.41428 | -44.17182 | 2024-10-14 04:21:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| c4eca800-6a56-305c-93e9-e66fafb92f82 | -10.06994 | -44.17382 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 876b48b9-8021-3f0f-9cef-b20636d79a3a | -10.06939 | -44.17743 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 0bb17960-2fba-3e36-aca2-b2c51c328a5c | -10.06659 | -44.1733 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 6f11531d-8dce-374d-9f4e-93a3ab805b9c | -10.06604 | -44.17691 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 6b1f222a-cad4-34ae-b2a2-e4f436840e8c | -10.05988 | -44.17225 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 00d4f41a-dd8c-3930-9fea-f068f891cb79 | -10.05933 | -44.17585 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e90a303b-cd3c-3b1f-915a-38010f379315 | -10.05598 | -44.17531 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 52e96c98-d30a-3043-aaea-e98510bd699e | -10.05543 | -44.17891 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 343abe69-d41a-3b6d-b21e-c5ef871db98b | -10.05207 | -44.17838 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 861f5d9e-389f-38e4-8eaa-a793abea36e3 | -10.05153 | -44.18199 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 2b0e48c2-99ee-35bd-a610-05c46aa7e5e5 | -10.05098 | -44.18561 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| b81c1953-95ab-3b58-ac91-4ee7dcadca11 | -10.04762 | -44.18507 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 8b7117d5-3ce1-3f60-9a09-72aa17beef4c | -10.08073 | -44.23811 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| f992bd7e-f44a-3ccd-8d55-d26efd064838 | -10.08067 | -44.21605 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 29003a38-4aa4-37bd-a9a2-1240c772c611 | -10.08018 | -44.2417 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| d57d8206-5283-3454-8cc1-769148dcae2e | -10.08012 | -44.21964 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| b2e7c6da-0a62-37ca-afe9-efd07dd66a65 | -10.07957 | -44.22323 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 33d51fa1-0237-3b75-ba7b-cc619b8f4f2e | -10.07951 | -44.20115 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 3bb38e37-7ae9-3549-82a6-e82adbc9214b | -10.07902 | -44.22682 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| cf562b51-27fe-3518-92c0-3c6694905377 | -10.07896 | -44.20475 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| da08b973-6f31-3f14-ad9f-92aa62578421 | -10.07847 | -44.23041 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| ec453c24-9f41-37a0-8c2e-c36a2c70ffa1 | -10.07841 | -44.20834 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 7a9fd904-5a3d-3e1c-bed3-adabeb6001e8 | -10.07792 | -44.234 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 6454e9d2-f3b3-322e-a4b5-4f8b35e33cb4 | -10.07787 | -44.21194 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| e621a205-51e8-38e9-b774-89ee077b438e | -10.07738 | -44.23759 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| eacd6d6a-564e-3eca-8f5f-3d18447bc57c | -10.07732 | -44.21553 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f4f3cbe7-ab42-3fac-9d1b-99d5162e5991 | -10.07683 | -44.24118 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| c851949b-a975-38b1-a8de-4a8387d5c07c | -10.07677 | -44.21912 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 75b329dd-c60d-381b-99f4-87901af9cb66 | -10.07671 | -44.19701 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| c5c07f1d-9a5c-3f1d-9d29-7e1ffc96aa5c | -10.07622 | -44.22271 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 42a9950b-4ba7-33bd-9a57-4d7073ab2cc8 | -10.07616 | -44.20061 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| a7cc7223-6fdb-369e-aea8-a925674e1413 | -10.07567 | -44.2263 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| e22f1d43-d446-37ad-a217-2fed85a36327 | -10.07561 | -44.20422 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 65823508-67ff-3d68-9a06-f61aa8f02b71 | -10.07512 | -44.22989 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 9d9b4e28-ec8b-31b1-b3c6-1e9e6d860a01 | -10.07506 | -44.20782 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 3eb9a02d-80c8-3798-9ea5-70f134824db2 | -10.07457 | -44.23348 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 6524c9a8-0e8c-3ef4-8de2-aa2e237ea6cf | -10.07451 | -44.21141 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 49d736b5-3dfa-3c96-91ab-a12e32b50e73 | -10.07402 | -44.23707 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| bb76c561-40d9-3baa-97ac-d2952ad9c9ee | -10.07396 | -44.21501 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 6c69b6ac-e41f-3d06-86f8-60fd8650ca14 | -10.07391 | -44.19288 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| eccee1a8-35c8-3c18-8eae-52070a242f25 | -10.07353 | -44.26272 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 151.0 |
+| 78d3b2a2-a8c7-37b1-92ef-894dc14e3c88 | -10.07347 | -44.24067 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 0495d64f-7b2d-3d3a-bd78-d801b9b74ef5 | -10.07342 | -44.21861 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| f2f71506-2e6b-362e-983d-6755b8e0520f | -10.07336 | -44.19648 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 4ea8e27f-ded8-3060-8d5c-473c7efbba5f | -10.07298 | -44.26631 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 151.0 |
+| 621e9214-3e30-37cd-82d4-ddc345fdb2b3 | -10.07293 | -44.24426 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| b6ca86b3-904f-3f34-b9a9-6e22436236b0 | -10.07287 | -44.22219 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| fc96224b-2d56-3e2e-95b0-cf22ac082739 | -10.07281 | -44.20009 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 6ae60144-f7c5-362a-a49b-960e4102f240 | -10.07226 | -44.20369 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 20f9ec13-7271-3926-89b1-9bd53e1bf6d3 | -10.07171 | -44.20729 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5ae00dc4-6b25-3ea2-a50b-717fe5762868 | -10.07128 | -44.25502 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 30.0 |
+| fc3518ce-cd7c-3508-af6a-3f4df12a2190 | -10.07122 | -44.23297 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 4f000bf1-4d7d-3241-b267-ec5e82d0c319 | -10.07116 | -44.2109 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d7aab576-a1ae-304a-9f7b-1872fea17248 | -10.07073 | -44.25862 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 30.0 |
+| 880d489d-a257-398a-9b60-a3411112f138 | -10.07067 | -44.23656 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 51dee197-1d86-3202-b7ae-8a4439c3f014 | -10.07061 | -44.21449 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 33c6dad5-af06-3ebb-bcbd-5a8ff386c3ce | -10.07006 | -44.21809 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 63120b4a-c2b7-3133-8747-b02b2c7eec31 | -10.06963 | -44.26579 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 151.0 |
+| fef34aac-8bb1-31d0-b03f-bb36a652e50a | -10.06903 | -44.24734 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 0bdf42fb-dd59-3ff7-ad3b-352cae5c32e3 | -10.06848 | -44.25093 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 9c6c6c46-a266-32b3-b186-e21d17a23752 | -10.06793 | -44.25452 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 38.0 |
+| bf1949c6-249e-3edc-9e81-f4e16b395e7a | -10.06781 | -44.21037 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 8d0d0b38-ab8c-3a0b-b361-1f2470f5d1d7 | -10.06738 | -44.25811 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 38.0 |
+| f625f069-d1cd-37da-b7a4-136665d2e999 | -10.06732 | -44.23605 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ed7a739a-ff00-3a2e-865d-bd2b6b358970 | -10.06683 | -44.2617 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| a4a7b600-fb5a-37c1-b76f-27d2f8bd6e86 | -10.06671 | -44.21757 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 456d64d4-7cc6-3870-bdd9-eed9c2fb52b9 | -10.06628 | -44.26528 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| 5c8f823c-8e64-318d-998c-f81f17a53b28 | -10.06622 | -44.24324 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 2288a431-9950-303a-a52d-e1d65193388b | -10.06616 | -44.22116 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 0630675b-af8b-3168-b641-81352fbb25c8 | -10.06567 | -44.24683 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 01d2a342-9169-3710-8de5-62dc9c358388 | -10.06561 | -44.22476 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 76af55d6-1b5b-3f90-ac73-f04640ea5ec6 | -10.06513 | -44.25042 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 277b4149-d69c-3cf6-9929-d5531b1fc44d | -10.06458 | -44.25401 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 38.0 |
+| ccbb05f6-b43f-34b5-b77c-67a425ef7618 | -10.06403 | -44.2576 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 38.0 |
+| c2018e82-2385-3ac5-bbcb-fcf0eb0d0f1b | -10.06348 | -44.26118 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| a8fb9c21-9739-3d3c-ade8-9ffd889ca80e | -10.06336 | -44.21705 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c331e757-fa3e-36bc-9d6f-c86b47533a3e | -10.06281 | -44.22065 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| aa0547d0-adf9-32f9-a3ee-ff5b78d489c2 | -10.06226 | -44.22424 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 70e8a977-7abe-386a-9718-e72384699d51 | -10.0611 | -44.20933 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 63c910f9-abfe-3320-9e90-ede5b561c8c3 | -10.06055 | -44.21293 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 5f63c6ea-3d5a-3022-b42e-583b2421c220 | -10.06013 | -44.26068 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| db4930c1-d378-3a8c-8571-45e58d4b0401 | -10.06001 | -44.21653 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 56bc3941-1bad-369e-b963-d3a0a78a06c8 | -10.05946 | -44.22013 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| cd7ea134-4121-3d8e-ae82-7a2ee10000f2 | -10.05043 | -44.18921 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 8bd39c0a-e77d-3e31-80f3-e8c7c2986350 | -10.04988 | -44.19281 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| a2869204-9255-3cad-a4be-cb957164fafe | -10.04653 | -44.19228 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 3ade5630-83c1-3e17-84ad-4f016babc0e4 | -10.04598 | -44.19588 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 65a2f571-5f59-3ac3-b123-f45b03a9c504 | -10.04543 | -44.19949 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 9edc8df7-6bbe-35f0-8718-6b899178f292 | -10.04489 | -44.20309 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 80e661c3-633d-31f4-af6e-0160d3460f37 | -10.04434 | -44.20668 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 2fd692ef-d65c-319c-a3e8-86d89ed09a6f | -10.0438 | -44.21028 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f95e0b4a-c2df-3be4-afc3-e466034ddfeb | -10.04325 | -44.21388 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| bbb00416-1e71-31c3-b676-2cae58e11b96 | -10.0427 | -44.21749 | 2024-10-14 04:21:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| fa63c941-0e2c-3a3b-8243-677dfa45e663 | -11.49267 | -43.23402 | 2024-10-14 04:21:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 8cd525c4-a595-3cbd-a934-12c4923a4070 | -11.11185 | -43.33208 | 2024-10-14 04:21:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 7.5 |
 
 
 [Clique aqui para ver as próximas entradas](README54.md)

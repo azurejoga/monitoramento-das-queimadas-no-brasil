@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a72a896d-fefc-3ee2-b258-60aab33641d5 | -17.89596 | -57.37724 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 96416606-8a89-369a-b19d-c8e6d27e9c17 | -17.89536 | -57.35819 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 20.0 |
-| 57bb6c01-1067-3e1b-ad74-2e5661ac55eb | -17.89527 | -57.3809 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 97d3fe00-408a-3964-99c2-362b7673dd1f | -17.89408 | -57.3428 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| fb919040-1fed-3350-945e-ff2ad93ba5dd | -17.8934 | -57.34645 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 03d1b2ad-61a0-3bd2-860e-ad9b92623c9a | -17.89272 | -57.35009 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 0ccd212c-042e-3df0-9065-fb6be01f807b | -17.89204 | -57.35374 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| fd779144-cb5d-3372-92cd-db1ce15313fa | -17.89195 | -57.37646 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 4ff1bab2-09ad-356d-9379-41ff6c758904 | -17.89136 | -57.3574 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 63dfbe3d-a5f6-38bb-bf6b-d028e99ccc77 | -17.89058 | -57.38379 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| e529512f-7727-390c-9f94-fed80ba93c46 | -17.8894 | -57.34565 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| 0c075f31-889e-3573-9df7-abef7a04e504 | -17.88872 | -57.3493 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
-| f2c042f8-f53b-32b7-a37c-4f42c3d1f1b8 | -17.88804 | -57.35295 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| e0eb4726-a8b5-3aa2-8a1f-01f0dc65de90 | -17.88541 | -57.34486 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 55344b9d-c1be-3bd6-8bbe-a1dafd67329e | -17.88472 | -57.3485 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 9f78063a-3bf0-3310-ab7d-054e67c2671e | -17.88404 | -57.35215 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
-| 68571ce4-f4c3-3a8b-88a6-1dc91f277fca | -17.88073 | -57.3477 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 6316b0f9-bc20-353e-95ca-e8aa4281d273 | -17.87604 | -57.35056 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| f3677d4e-bf83-3fc0-8bc3-5e655ed78e32 | -17.87536 | -57.35421 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| 71383bd5-d394-3ab0-9d5e-93bcf39682bc | -17.87483 | -57.35029 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| 1e7ab725-160c-362c-919d-c614504a7037 | -17.87417 | -57.35395 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| f8a2ffd1-78de-3ada-84d3-0553d7a845a4 | -17.87351 | -57.3576 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| 117f369f-cf50-3ec1-9c44-506006562bf3 | -17.87329 | -57.36517 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| a25b84c2-d374-374a-affa-a6a605f02cc5 | -17.87261 | -57.36882 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| e6ca5fa5-3b51-3929-8fe3-1a0cbc400bdb | -17.87218 | -57.36493 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 3c6f21ed-c2bb-34bb-9b8c-839d0ed19275 | -17.87152 | -57.36859 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 732f71c0-4781-3d2f-a884-7c0f2fc79ec5 | -17.87136 | -57.35341 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
-| ea81e9f1-05e1-3ba4-ba7d-93816b406367 | -17.8693 | -57.36437 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 71642a35-7fb7-32e2-8d5f-626142215c61 | -17.8686 | -57.36802 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| e6d95e5b-a6c2-3d5a-a0e0-f2c59646c10b | -17.86818 | -57.36412 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 8659cee0-d94b-3047-9556-1fa5b776ab1b | -17.86752 | -57.36778 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| bd3dab9d-2866-3b93-9ffd-3295e741a706 | -17.8655 | -57.356 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 7fdbda76-7ace-344e-bb36-befe376d70a3 | -17.86418 | -57.36332 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 8ae61dda-f7a8-35ec-9317-32eaba7d5888 | -17.86351 | -57.36698 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 136d4584-ce42-3b66-b19d-a296cb49d68b | -17.85951 | -57.36617 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 319422bf-e466-33e1-826b-797e146366f1 | -17.85884 | -57.36985 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| f9061043-a527-34d1-94c7-aaa8c5e9ba94 | -17.85751 | -57.37719 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
-| 57c187ff-1b71-3606-9ab1-39e3e9794c36 | -17.85684 | -57.38086 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
-| 76449d4b-b99f-3a29-a54d-dab25658289c | -17.85617 | -57.38454 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.0 |
-| e286de4d-7be0-375b-be50-669e05c138fa | -17.8555 | -57.38822 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.0 |
-| 26154a9f-2b59-3efb-8553-a6c61d5d5656 | -17.85484 | -57.36904 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 60d2025c-de7d-3e68-bdf0-d026913e65a9 | -17.85416 | -57.37272 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 076dcac3-15f4-3b8f-80d5-22bdfc3d401a | -17.8535 | -57.37639 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.8 |
-| a18182bf-e480-3a57-b4ed-3b1d80bdf403 | -17.85283 | -57.38007 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.8 |
-| 73ed3f59-e81d-3dd8-abaa-0afb6d35ea89 | -17.85216 | -57.38374 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 1c663374-8f47-389a-ae20-79a677cf25c2 | -17.85149 | -57.38742 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 35da6c28-cc9a-3c0e-b4e1-a2ccb444a840 | -17.85016 | -57.37191 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 3b47442f-0329-3bc6-9a30-3138c05449bb | -17.84815 | -57.38293 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 8ed7ab02-94c1-3a97-a7a0-957179a2bfc8 | -17.84748 | -57.38662 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 5fcf6de4-8572-3196-a21e-5e36c72cd54a | -17.84681 | -57.3903 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 90eabc8e-41f9-305f-8356-94fb3375e82a | -17.84615 | -57.37111 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 720906ab-3f7f-3002-adf5-0c2b4c9610f0 | -17.84548 | -57.37478 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 937a94e7-abb1-3ddd-8538-cd3ed05d1acb | -17.84481 | -57.37845 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| ac74bdce-549b-32f6-bd11-43387a70e4af | -17.84414 | -57.38213 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 357783c6-2c96-3b3d-8a0c-9c23abcfebf9 | -17.8415 | -57.3285 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 40de08fc-175f-31a1-9fd2-98342372a1ba | -17.84147 | -57.37398 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| e103139d-6175-3c60-a293-da0dd2dd3d9e | -17.84081 | -57.37765 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 8c7104c1-f61f-3572-9285-4e49d024e8ee | -17.83814 | -57.36951 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| f3dad280-6512-3706-9fd0-cb5479852ef9 | -17.84347 | -57.38581 | 2024-10-13 04:44:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| dd04b967-a6fa-3296-a768-1655f57f4564 | -17.84279 | -57.3895 | 2024-10-13 04:44:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 1bcf8623-35fc-3654-bbb4-57b3fc057cc5 | -17.994 | -57.37108 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| e5562816-d440-3257-a5da-bb8381232a59 | -17.99068 | -57.36665 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 3317e221-3af7-31ba-8274-b3a5907019cf | -17.99 | -57.37029 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 42a9d30b-30cb-318f-b042-e85a568c93d6 | -17.98932 | -57.37394 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 6f84cb95-3fa9-38be-a57f-fc7114954404 | -17.98737 | -57.36221 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.4 |
-| e79ceefa-2a36-3da9-b9a0-6c0a3a6f51d3 | -17.98669 | -57.36585 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| 860c793b-ffcd-30f4-88a1-fd9167f80b89 | -17.98463 | -57.37679 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 9f396be3-523e-3e84-a1d9-f59f06dbceb7 | -17.98395 | -57.38044 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 3b85ea16-f024-3611-87aa-8cc59b00c952 | -17.98338 | -57.36141 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
-| e49e6a74-fc39-300a-a25d-f696fe80adc5 | -17.98326 | -57.38409 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 922a2ea5-86d9-3b57-b988-6e6740a3187d | -17.98199 | -57.36036 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.0 |
-| 038a7c54-0b65-34d8-9446-6d82ad24bd2f | -17.98133 | -57.36402 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
-| 92876ae2-a55f-3867-9227-5b29f8628c4c | -17.98007 | -57.35697 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
-| 4e3b1a95-65ec-3ffb-a035-5cb7a8bb99c7 | -17.97995 | -57.37965 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| 43a64ba2-3dfb-3cdf-9f18-d7fe47e34b52 | -17.97938 | -57.36062 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
-| d63cd7b2-8fb0-3056-aca8-cc84898d1b4f | -17.97926 | -57.3833 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| 566823d5-108c-3446-b91a-829f3f6ca78f | -17.97869 | -57.36427 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 79881807-dcd7-3e4b-bf3e-2fbaf9c29c25 | -17.97801 | -57.3679 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 17bb7c8c-89c8-363e-8377-1cd8147cec22 | -17.978 | -57.35956 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.0 |
-| 3d98bd19-8e2b-3dbc-ba4e-652fdbf78b72 | -17.97733 | -57.36322 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
-| 978e197b-554e-3262-b204-0e885a566fd8 | -17.97667 | -57.36686 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
-| 7d768012-945e-3494-9b7b-674438ba9cff | -17.97334 | -57.36241 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.8 |
-| 0f5b7798-67d2-382d-a0cd-500c24bd8ab9 | -17.97268 | -57.36606 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.8 |
-| 3e84bdc6-5475-3ba8-b3c2-7ce940f62552 | -17.96868 | -57.36526 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.8 |
-| 41854669-c788-3980-9b54-4bd1868fa4c1 | -17.96535 | -57.38355 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.0 |
-| cb629efc-ffc9-3e81-a560-588a04d27124 | -17.96469 | -57.3872 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.0 |
-| d9708ed0-4e7b-37ac-8272-547124695386 | -17.96468 | -57.36446 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| de48a151-9974-3fdf-b42a-f7a5fa1237c8 | -17.96402 | -57.39086 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.7 |
-| 9b8ddbe1-6e0c-386e-badb-936c20c27113 | -17.96402 | -57.36811 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 197b2eec-b825-3d42-b56c-9b7de1b76715 | -17.96135 | -57.38274 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| 3a65baf4-2a08-3d7e-b7dc-310c23101769 | -17.96069 | -57.38639 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| b2657928-e8c6-3042-b3c1-2ad69e202c85 | -17.96068 | -57.36366 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.8 |
-| 36a12878-3d93-309d-baea-c388ef270ee2 | -17.96002 | -57.39006 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
-| b290a400-7198-33a6-805a-bac59db48c81 | -17.96002 | -57.36731 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 8082cfc1-7da0-3662-8638-66f8d5c186e5 | -17.95935 | -57.37097 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 379bb2b3-197c-3146-a6bb-c0cb80871c5c | -17.95869 | -57.37463 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 6ec8be2f-4e3b-3a6f-b90f-86aa4f37620d | -17.95802 | -57.37828 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 0d7e4135-a008-369d-a1dd-53176c87f96f | -17.95735 | -57.38194 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| ba15187a-800f-356d-8609-ba62de4bb69f | -17.95668 | -57.3856 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| 8943be7a-3b9a-35bb-bf8e-c94e39946198 | -17.95602 | -57.38926 | 2024-10-13 04:44:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| 8772e760-6cc8-3cdc-96d2-7fa604eb2303 | -8.50171 | -41.40499 | 2024-10-14 04:44:00 | NPP-375D | QUEIMADA NOVA | PIAUÍ | Brasil | 2208650 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| eda88415-78ef-33e8-86e2-1e998b978acc | -8.14344 | -42.3282 | 2024-10-14 04:44:00 | NPP-375D | PEDRO LAURENTINO | PIAUÍ | Brasil | 2207934 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| a1c6b1a0-accf-392d-a5b7-23545e6780a5 | -8.14301 | -42.33139 | 2024-10-14 04:44:00 | NPP-375D | PEDRO LAURENTINO | PIAUÍ | Brasil | 2207934 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| a0e20211-9d6e-33c1-9310-793b54eb3be6 | -8.14259 | -42.33455 | 2024-10-14 04:44:00 | NPP-375D | PEDRO LAURENTINO | PIAUÍ | Brasil | 2207934 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| cdecbb1a-c3a5-3cc8-a2e9-d08f6bd2a2c3 | -10.49083 | -42.44062 | 2024-10-14 04:44:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| 2af52902-ff4d-3335-9ec5-b63b875f6d43 | -10.49037 | -42.44418 | 2024-10-14 04:44:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 14.5 |
+| 8b0c5ae7-3545-32f6-a6f5-2169632d9a95 | -10.48587 | -42.43626 | 2024-10-14 04:44:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| 96c31fdc-c468-326a-91ff-bb34ce0ede01 | -10.48541 | -42.4398 | 2024-10-14 04:44:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| d8ebf2e5-8fb0-3869-a74a-98562584cd62 | -10.48496 | -42.44335 | 2024-10-14 04:44:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 14.5 |
+| bec39877-c3d7-36ca-a370-88d03eb68891 | -3.30952 | -42.84134 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| 89fbc483-9cff-363a-8cf4-81320d04aaf9 | -3.30875 | -42.8464 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 01a40ca4-69ab-333b-b834-e627f5bd1f17 | -3.30631 | -42.83053 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| c08864a9-5653-3d03-a070-a5d7859d12e3 | -3.30554 | -42.83557 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| ddd72f4b-ab10-3d0f-b743-148d43116856 | -3.30477 | -42.84063 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| 36dee78f-76dc-32c9-aac5-3d1d3b02403a | -3.304 | -42.8457 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 799033cf-e83c-3dea-9a86-0b943db449f6 | -3.30323 | -42.85075 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 653d1c5b-2426-3ee3-b4e9-a1f21b8bb97f | -3.30155 | -42.82983 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| fe3d45dd-f6d3-3dc9-9cd9-96705fc29ad6 | -3.30078 | -42.83488 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 28.4 |
+| ff307644-36f7-3a4b-b0dc-75792602d69c | -3.30001 | -42.83994 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 28.4 |
+| d1592ad1-3b6f-3c99-a0dd-5e750a804bee | -3.29924 | -42.84501 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 36.6 |
+| 8397876d-f2e8-36a6-8123-f8dd2e0679b6 | -3.29848 | -42.85006 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 36.6 |
+| df2d4629-67b1-3e1a-8cae-1e11273bca26 | -3.29603 | -42.8342 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 28.4 |
+| 7bfaa4b9-635d-39f5-98e5-f21fa890d33c | -3.29526 | -42.83926 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 28.4 |
+| 38ed0827-c11e-323d-a97d-970ecc00c4d6 | -3.29449 | -42.84432 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 36.6 |
+| 29e9702a-db32-3e0a-b575-2c87dbb7a6c5 | -3.29373 | -42.84936 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 36.6 |
+| fcb3afc2-ee13-375f-8ea9-43cca9db5f5a | -3.2905 | -42.83858 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| bb43b8f4-2b53-3e06-aae9-952313dc0c29 | -3.28974 | -42.84362 | 2024-10-14 04:44:00 | NPP-375D | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 309b8e95-60b8-38fb-a8e6-46f7c3c05529 | -4.03596 | -43.03376 | 2024-10-14 04:44:00 | NPP-375D | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 98d22e30-3fb6-386b-a18c-a17aa30bb248 | -4.0352 | -43.03873 | 2024-10-14 04:44:00 | NPP-375D | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 6e96ba61-6e59-3c06-b7fd-51a066e2166a | -4.03501 | -43.04674 | 2024-10-14 04:44:00 | NPP-375D | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 8f73b06d-638c-3fdb-93d9-c80f35b587fc | -4.03444 | -43.04381 | 2024-10-14 04:44:00 | NPP-375D | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| e49c5e25-5343-33fd-8889-8460605b06bd | -4.03367 | -43.04885 | 2024-10-14 04:44:00 | NPP-375D | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| c35557d7-b3d4-3d4c-8848-91ec0ba368d9 | -4.0312 | -43.03313 | 2024-10-14 04:44:00 | NPP-375D | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 00c0c621-656a-3157-9d6f-c9bb03ddc37b | -6.2572 | -42.4984 | 2024-10-14 04:44:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 1d84494e-7d45-332a-a41f-fba6bbbefe18 | -6.25677 | -42.50137 | 2024-10-14 04:44:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| a7d0aacb-7f43-3c22-a6be-d0d2cc1f82fb | -6.13504 | -42.77943 | 2024-10-14 04:44:00 | NPP-375D | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 39293bf7-c7ad-339d-b44b-69354d048202 | -6.13448 | -42.78445 | 2024-10-14 04:44:00 | NPP-375D | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 31f898ff-1ddc-3804-a39f-4d6e19757923 | -6.13425 | -42.78503 | 2024-10-14 04:44:00 | NPP-375D | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| f9b5cfc2-1731-3670-8260-1b4b644d2408 | -6.08589 | -42.40532 | 2024-10-14 04:44:00 | NPP-375D | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 1313d96a-785f-3df5-800a-0280bd5f3837 | -6.08078 | -42.40456 | 2024-10-14 04:44:00 | NPP-375D | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| becb123c-b181-3837-afbd-db41b40fb9d8 | -5.95577 | -43.19241 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 1fa8f952-a45b-3165-ac6f-00c1607a7454 | -5.95235 | -43.18927 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| a37dc8d5-a4bd-3abc-a5a4-53938b5900a5 | -5.76218 | -42.78479 | 2024-10-14 04:44:00 | NPP-375D | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| f7559c21-31ee-3995-a3da-540d95b967da | -5.76137 | -42.79039 | 2024-10-14 04:44:00 | NPP-375D | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 37d06022-13f1-314b-bfd3-c15149c26a42 | -5.53096 | -42.93767 | 2024-10-14 04:44:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 1f30725b-c046-3487-92b5-54cfdf33d610 | -5.53019 | -42.94299 | 2024-10-14 04:44:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 3494de0e-f13c-3bf5-a098-c2cd46005373 | -5.33535 | -43.01463 | 2024-10-14 04:44:00 | NPP-375D | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| f79e61f7-0f55-34e7-a106-a89620d475c8 | -5.2914 | -43.07832 | 2024-10-14 04:44:00 | NPP-375D | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c35b455d-7b42-3bf7-9361-1bbf6cb3158e | -6.04129 | -43.34842 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 52591961-c022-31e5-a98d-936b15fe949d | -6.04121 | -43.34427 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| d473bbaf-cd02-3dbb-b279-1ae059b5ee29 | -6.0365 | -43.34773 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| d87450fd-a2b1-3664-916a-d40ce2d7c362 | -6.03643 | -43.34356 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 497b9194-2e2a-39ea-a985-cf1f4ca96f71 | -6.03586 | -43.38511 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 69f74a8f-36ed-310a-a7bd-ba4863cc9acb | -6.03535 | -43.38624 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 7183ad35-074a-36f0-afad-ca3414f2fa7b | -6.03104 | -43.38479 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 5af7f5f0-dc15-3009-94af-de50c89db2b9 | -6.03053 | -43.38592 | 2024-10-14 04:44:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 1c6fdeb0-091a-351c-a46e-680d094de557 | -7.72752 | -43.22007 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 471b24fb-932f-31c2-969c-612c1702b3c7 | -7.72491 | -43.20257 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 45c714f8-6a07-3edb-af89-13c1c9a52f03 | -7.72414 | -43.2081 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| e0df5ac2-b2fa-3b87-a323-60b6e209fd79 | -7.72338 | -43.21356 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| df8da8ad-793e-3a4a-ab01-6838b15fa388 | -7.7226 | -43.21912 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 640b0cb3-1826-3690-bafe-843f343fa183 | -7.72182 | -43.22475 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| a233b111-3e81-3333-9f97-c1f6f0b2d457 | -7.72075 | -43.19609 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 64f2ea2c-4080-3670-99a9-35e40945c568 | -7.71996 | -43.2018 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| db148ea6-6302-347b-aa2a-949e2dbf5b73 | -7.70628 | -43.22767 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 22020acd-9586-33a4-9976-ef478c60957f | -7.70329 | -43.17604 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 11064d7b-cb7c-391a-b125-a728c805d696 | -7.70134 | -43.22692 | 2024-10-14 04:44:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 16dba52a-d96e-3ed3-8330-1b12b90ed3b0 | -7.4371 | -43.00205 | 2024-10-14 04:44:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 9a81323e-9568-3911-9246-f6b76513f6cf | -7.43286 | -42.99586 | 2024-10-14 04:44:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 2709ba3f-5596-397a-b5d0-9b768654c46d | -7.42707 | -43.00079 | 2024-10-14 04:44:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| dd12a8a8-8845-34dc-9b7f-75e122afaf50 | -7.4263 | -43.00633 | 2024-10-14 04:44:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| 39b4c478-5e50-36d6-8808-730c6491d582 | -7.42207 | -43.00005 | 2024-10-14 04:44:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| d82ec54f-dda5-3818-8571-9140610fbd1e | -7.20598 | -42.28978 | 2024-10-14 04:44:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| fc0a755a-48a1-32c4-89e3-f85ed2bb6cd5 | -7.20211 | -42.27916 | 2024-10-14 04:44:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| cc524cba-b932-3c57-a42b-b4d2e791d3f2 | -7.20166 | -42.2824 | 2024-10-14 04:44:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 2a827b78-5cef-35b7-8ae2-cad776d63de3 | -7.20121 | -42.28563 | 2024-10-14 04:44:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 0af114af-10d4-3f6c-a859-9d2983bad2c1 | -7.20078 | -42.28879 | 2024-10-14 04:44:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 3b7c6dc3-e57b-33ae-868b-52ea871e8d0e | -7.17457 | -42.62853 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 57151ef3-a33f-3f9f-a83f-a88a0ccd4cd6 | -7.17415 | -42.63152 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 715ec0b8-3cea-3f8a-9433-7648d2f8792b | -7.17373 | -42.63454 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 1b9d4493-4bcc-307e-ab47-eee6697a2906 | -7.17325 | -42.60073 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 0178da7a-bab2-3b75-a25c-84918b4b39f6 | -7.17282 | -42.60381 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 3aa86e9d-218a-3009-a90b-701099e3fd7f | -7.17239 | -42.60685 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 72bfb290-8038-3aaa-817a-354ffca273fa | -7.16946 | -42.62777 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 2523f8e4-ad36-3dcc-98a1-2d863793479f | -7.16856 | -42.59691 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| b188bc95-765a-3122-8415-28da941c7dbb | -7.16386 | -42.59309 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 2d4efcb1-41e1-3346-97d7-732d9f6128a2 | -7.15875 | -42.59229 | 2024-10-14 04:44:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 9479332b-e8a0-38da-a034-05eadc213e52 | -7.0901 | -43.01209 | 2024-10-14 04:44:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| e00dba08-408b-3944-8637-b82bd2d815e6 | -7.08969 | -42.65548 | 2024-10-14 04:44:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| dbabfbe7-fbf2-3e8c-8eae-6441ed1b2798 | -8.44945 | -42.51092 | 2024-10-14 04:44:00 | NPP-375D | JOÃO COSTA | PIAUÍ | Brasil | 2205359 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 900d2051-0855-32ce-b362-4090f3d55b47 | -8.44902 | -42.51414 | 2024-10-14 04:44:00 | NPP-375D | JOÃO COSTA | PIAUÍ | Brasil | 2205359 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 573a50ca-0d2f-33e6-b83b-a06e91c84583 | -8.33308 | -42.73672 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 2f56d65c-7f06-34ae-9bed-8b4493c0d8de | -8.33265 | -42.73983 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| c4fdfec2-8d01-3e70-affe-5b02221576be | -8.33223 | -42.7429 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 35dc3ad1-4d31-32aa-b092-32d1ab1fab4c | -8.33181 | -42.74598 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 4561f325-2274-3cfb-800a-b1b88d73a21e | -8.33139 | -42.74903 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 3a59e78e-ef84-3583-b163-83324e0bdc56 | -8.33097 | -42.75209 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 47a09b31-2505-35cd-b115-899a0076da34 | -8.33055 | -42.75514 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| ee4c0364-98ec-3bf4-a8ab-e1a0bf8f32b2 | -8.32793 | -42.73593 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 86e9c9c2-4b60-3e55-8d29-daaeaca7d7b2 | -8.3275 | -42.73903 | 2024-10-14 04:44:00 | NPP-375D | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
 
 
 [Clique aqui para ver as próximas entradas](README72.md)

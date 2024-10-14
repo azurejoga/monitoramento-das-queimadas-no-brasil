@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 804f4ba5-42a5-3b9f-ae24-50923462b32a | -9.7367 | -46.955601 | 2024-10-13 00:58:03 | METOP-C | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f289e5e4-cbf5-3a73-8ed3-821a23391b7d | -10.6406 | -51.133801 | 2024-10-13 00:58:04 | METOP-C | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 8624c70a-1414-3fc7-9c53-3eb51e44a92c | -10.6422 | -51.1408 | 2024-10-13 00:58:04 | METOP-C | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| f59a06f1-6bb6-38cd-b6fa-20876909398e | -10.5499 | -51.0504 | 2024-10-13 00:58:05 | METOP-C | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 90fa8373-cc5f-3c95-a9a8-a535f15cd07a | -9.7015 | -47.766201 | 2024-10-13 00:58:07 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d6611ff5-9fae-3e59-98d9-35ab585f1d6c | -9.7034 | -47.773998 | 2024-10-13 00:58:07 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c43bbaf0-d6e3-3799-8ff8-55bc28254710 | -8.8084 | -44.403301 | 2024-10-13 00:58:08 | METOP-C | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| ca10ffd2-ae83-327a-800f-c111e957b75f | -8.7169 | -44.116402 | 2024-10-13 00:58:08 | METOP-C | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 0b1623ed-4295-3a41-95ce-55ae03b9b2ea | -8.7201 | -44.129398 | 2024-10-13 00:58:08 | METOP-C | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 610791cd-cefc-3dd3-97cf-81ed710e7d87 | -9.7322 | -48.292801 | 2024-10-13 00:58:08 | METOP-C | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 074d6850-62ca-3bb2-adc8-7e317594345e | -9.5236 | -47.799999 | 2024-10-13 00:58:10 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2184528e-a2d6-3230-9da9-23c24cee074e | -9.5255 | -47.8078 | 2024-10-13 00:58:10 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3c3e4550-1e9c-36b9-bb4b-5a54b041fb22 | -9.5138 | -47.802299 | 2024-10-13 00:58:10 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9bde5266-8f5f-3fb2-9df6-1295e66cd3bf | -9.5157 | -47.810101 | 2024-10-13 00:58:10 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d88410fd-bc25-3a88-9bf5-eb979781c236 | -9.5175 | -47.818001 | 2024-10-13 00:58:10 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 16f1cc98-eb96-3760-8b2d-ef7dff62c8fe | -9.5059 | -47.812401 | 2024-10-13 00:58:10 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 39700876-407c-3dcf-88c1-4b17a1004d08 | -9.225 | -46.6726 | 2024-10-13 00:58:10 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7a344f0a-4639-31f7-8548-2b00e151bc9e | -9.2271 | -46.681499 | 2024-10-13 00:58:10 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d49b303f-6238-3584-aab7-01977bd56f04 | -9.9434 | -50.054699 | 2024-10-13 00:58:11 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 42bf9014-62aa-3bc2-bc76-c8f763433c3b | -9.945 | -50.0616 | 2024-10-13 00:58:11 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| db4b2c26-2191-3edc-a5a0-5fb0246212c1 | -9.6244 | -48.982399 | 2024-10-13 00:58:12 | METOP-C | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| dfe3e774-589c-316a-94c3-aa7958e01cb1 | -8.1311 | -43.004299 | 2024-10-13 00:58:13 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| eaf7010e-dff3-3f67-9b54-d0577cfab9cd | -8.6879 | -45.260101 | 2024-10-13 00:58:13 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c22722a2-b0d7-3ad3-8c17-b92f1982f3fd | -10.0632 | -51.404999 | 2024-10-13 00:58:14 | METOP-C | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 69134a82-ef35-336d-85c8-e12a6cdd3ba6 | -9.1664 | -47.599098 | 2024-10-13 00:58:15 | METOP-C | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 02543c67-0452-3399-a181-890940660484 | -9.4459 | -48.879601 | 2024-10-13 00:58:15 | METOP-C | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| de133e61-56e5-3e66-9521-818000b5a35f | -9.4475 | -48.886902 | 2024-10-13 00:58:15 | METOP-C | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ef47b7fe-b720-3488-a0be-4691fb6fe0da | -9.4492 | -48.8941 | 2024-10-13 00:58:15 | METOP-C | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7b013aee-7868-3489-8ef7-4b04802329b2 | -9.0292 | -47.674 | 2024-10-13 00:58:17 | METOP-C | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7a59c7ca-9caa-3dd5-8fc0-c6600fe147b0 | -8.6988 | -46.588501 | 2024-10-13 00:58:18 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2d2b8d69-a474-3cd4-89bb-e31266c75bbf | -8.701 | -46.597698 | 2024-10-13 00:58:18 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2474f152-6e2c-336e-be97-f50932fdb1cb | -8.7032 | -46.6068 | 2024-10-13 00:58:18 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 49e9968e-2bbc-3bfe-80d0-e4f1fe384833 | -8.6913 | -46.599998 | 2024-10-13 00:58:18 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9df18633-d5b0-3e06-a2b1-94b4e8117df2 | -8.6935 | -46.6092 | 2024-10-13 00:58:18 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| a268b72c-32da-3f0a-a5a1-c72b5fe6a147 | -8.6957 | -46.618301 | 2024-10-13 00:58:18 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d4075aa1-0961-31fe-acc3-85d5c6880d26 | -9.2998 | -49.631599 | 2024-10-13 00:58:20 | METOP-C | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3f883a65-4410-35aa-9033-d894abd96a65 | -9.3014 | -49.638599 | 2024-10-13 00:58:20 | METOP-C | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| b09da83f-805e-3a8e-b061-b09adb0bbdfc | -8.9079 | -47.903801 | 2024-10-13 00:58:20 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 8279b442-7af7-3020-a659-08ea7f559517 | -8.9097 | -47.911701 | 2024-10-13 00:58:20 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 71401816-b92d-36a9-bee3-4df51ab672f9 | -7.7046 | -43.194 | 2024-10-13 00:58:21 | METOP-C | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 5b1553eb-8763-37cf-a60e-03fddc123e6b | -7.7276 | -43.286598 | 2024-10-13 00:58:21 | METOP-C | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 88c01955-687b-3ace-a140-6b936356e315 | -8.8547 | -47.9412 | 2024-10-13 00:58:21 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e46619ab-f172-30d3-988b-73e944738f53 | -8.8566 | -47.949001 | 2024-10-13 00:58:21 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 84b96d04-770e-33c4-90aa-d0f549cd26e2 | -8.8584 | -47.956799 | 2024-10-13 00:58:21 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3fcd170a-7a0a-37dc-bdbb-207f8563e8c8 | -9.1823 | -49.6586 | 2024-10-13 00:58:22 | METOP-C | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 50d8a437-df6a-3da0-a706-e5b67780dcbc | -7.8974 | -44.601101 | 2024-10-13 00:58:23 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| beae33eb-bbc9-3c8f-811b-82d930fca282 | -7.9005 | -44.613499 | 2024-10-13 00:58:23 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 33b29d3c-1fc3-3218-ba63-74d422f3ce59 | -7.9035 | -44.6259 | 2024-10-13 00:58:23 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 451fce23-2685-3caa-9059-bf87bbba9580 | -8.9646 | -49.029499 | 2024-10-13 00:58:23 | METOP-C | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 059fed58-b084-3d4a-8481-6b6a2bdd40b4 | -8.9662 | -49.036701 | 2024-10-13 00:58:23 | METOP-C | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 68b40a94-f698-3e19-9ab4-5d2558c546bf | -7.8877 | -44.6035 | 2024-10-13 00:58:24 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 8c2c9468-0ec6-3e6e-b656-db446372a78e | -7.8908 | -44.615898 | 2024-10-13 00:58:24 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| ff22998a-f12e-3f8c-a87f-730c34903311 | -8.5268 | -47.252998 | 2024-10-13 00:58:24 | METOP-C | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| cd29f7d0-9a46-30ae-9909-21d1951c4036 | -8.5288 | -47.261501 | 2024-10-13 00:58:24 | METOP-C | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 803e6de0-ee75-3018-868b-725f1aef7350 | -8.5325 | -48.769001 | 2024-10-13 00:58:29 | METOP-C | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | nan |
-| 712839fd-331d-3dc4-bf58-e6505b75346e | -8.5342 | -48.776299 | 2024-10-13 00:58:29 | METOP-C | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | nan |
-| 1d7f3b62-d4f8-3a56-9127-65c475789915 | -8.756 | -49.7785 | 2024-10-13 00:58:29 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a00f167-d2fe-3fd3-8d70-3967ca322413 | -8.7576 | -49.7855 | 2024-10-13 00:58:29 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 963cf35d-93ba-3bf5-aa65-aeb607c19639 | -8.4553 | -48.615101 | 2024-10-13 00:58:30 | METOP-C | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | nan |
-| a9e2ac74-14ee-3bc4-909a-ccb3ab743522 | -7.9879 | -46.854198 | 2024-10-13 00:58:31 | METOP-C | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a1089568-41f2-35f5-9f1d-97ecf3091e63 | -7.6997 | -46.6413 | 2024-10-13 00:58:35 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7df8aa1d-d177-32fb-8ca0-81ffbc358772 | -7.7019 | -46.6507 | 2024-10-13 00:58:35 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 39fbec5d-a7c4-32d0-aaa7-cfd90a26f782 | -7.2735 | -44.960098 | 2024-10-13 00:58:35 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 63fe9e5b-8085-36bd-9a23-7ca79af54bcf | -7.2764 | -44.972099 | 2024-10-13 00:58:35 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 57a453fc-aee2-3824-b244-07ff596bbaf1 | -6.3882 | -41.590599 | 2024-10-13 00:58:36 | METOP-C | LAGOA DO SÍTIO | PIAUÍ | Brasil | 2205599 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 1b16717b-90ff-3a14-ad13-f53dcc13d40a | -7.408 | -45.685001 | 2024-10-13 00:58:36 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 60c402b1-ac01-3860-addd-6d26a3b02920 | -9.0473 | -52.9874 | 2024-10-13 00:58:36 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7b2544c5-3c1c-301a-972e-a3844b40d094 | -9.049 | -52.995201 | 2024-10-13 00:58:36 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7f289329-0688-30e5-af64-8ff1c6376046 | -9.0375 | -52.989498 | 2024-10-13 00:58:37 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 25ef62be-7244-33fe-8cb7-869dd47546b4 | -9.0392 | -52.997299 | 2024-10-13 00:58:37 | METOP-C | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3471cf43-0f5d-36c2-8044-bc0575da3be3 | -7.25 | -45.373001 | 2024-10-13 00:58:37 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3a9cf2f9-1ec3-3f01-9060-a9c2b42209da | -7.2527 | -45.3843 | 2024-10-13 00:58:37 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c945bda9-7171-3166-8a70-577c3ce17fca | -8.3343 | -49.9631 | 2024-10-13 00:58:37 | METOP-C | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e291719b-bea6-39a2-89cd-5ed145926e88 | -8.3359 | -49.970001 | 2024-10-13 00:58:37 | METOP-C | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 607bf7ca-dceb-3b60-b649-f79a792700fe | -8.3375 | -49.977001 | 2024-10-13 00:58:37 | METOP-C | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b44acc3e-82a4-35a4-b112-d7345f3a404b | -7.243 | -45.3866 | 2024-10-13 00:58:37 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2cf876fe-d2bc-3cf0-a9d7-3a7e0853e410 | -7.5209 | -46.584499 | 2024-10-13 00:58:37 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 478d9e7b-05f9-34cc-aec3-75478f1d162e | -6.7222 | -43.551102 | 2024-10-13 00:58:38 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1c3b3ceb-9583-3ece-b00f-a91929018020 | -6.7259 | -43.566299 | 2024-10-13 00:58:38 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 827df9f2-f2a1-3993-bcb7-4e74116667b1 | -7.6732 | -47.310398 | 2024-10-13 00:58:38 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 412bcc8b-ef5c-3070-98b0-87024613f489 | -7.6634 | -47.312698 | 2024-10-13 00:58:38 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1f6dbee0-3e25-331f-b4dc-701117c9bae0 | -7.5343 | -46.8564 | 2024-10-13 00:58:38 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f3154a34-adff-3e4d-8501-fe968fe350dd | -7.5365 | -46.865501 | 2024-10-13 00:58:38 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 27fd68d9-86b4-377e-ba14-8c1be420a1d8 | -7.5104 | -46.8428 | 2024-10-13 00:58:38 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 86f08376-8b97-3798-874e-babe94d51d51 | -8.8577 | -53.012798 | 2024-10-13 00:58:40 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 967ecabe-3d2c-30e7-9edc-b904d4cab8ac | -6.7614 | -44.171501 | 2024-10-13 00:58:40 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 4fcb5510-e400-392c-aaae-c84d6be950e6 | -6.7517 | -44.173801 | 2024-10-13 00:58:40 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ab441a03-c602-3e29-ab61-3843172b0abe | -6.7551 | -44.187599 | 2024-10-13 00:58:40 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b5d5cd8c-6847-3007-8f70-95a43a3de055 | -7.6084 | -47.7342 | 2024-10-13 00:58:40 | METOP-C | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4a414db8-f7c3-3ab7-9809-2b381c20b96a | -7.6103 | -47.742401 | 2024-10-13 00:58:40 | METOP-C | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d7506e7d-d161-3f40-a0fb-418889c96101 | -6.7419 | -44.176201 | 2024-10-13 00:58:40 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 00d7b0e4-cc15-3dba-8ffb-581c7e4275f2 | -6.7453 | -44.189999 | 2024-10-13 00:58:40 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8c8c2829-bb8f-3a3e-84d1-d5f79bac3e69 | -7.9678 | -49.448101 | 2024-10-13 00:58:41 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 80458758-6da5-32b5-bc5d-d2197636de91 | -7.9695 | -49.4552 | 2024-10-13 00:58:41 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c661c6fb-9702-3bcb-874f-c2ff746f7135 | -7.9711 | -49.462299 | 2024-10-13 00:58:41 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e5f02b4-a545-3563-8c59-b776429fa7dc | -7.981 | -49.683399 | 2024-10-13 00:58:42 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 5a56d05c-b3e3-3d81-a89c-bd732b2ba4c5 | -7.9826 | -49.690399 | 2024-10-13 00:58:42 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9781b891-900a-3fcc-8a9d-e03704812e03 | -7.3784 | -47.2425 | 2024-10-13 00:58:42 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 28605bb8-81ab-3a6f-8000-752d58dc593e | -7.3805 | -47.251301 | 2024-10-13 00:58:42 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 026f9254-9f29-3626-b6be-613fe8619adf | -7.3826 | -47.259998 | 2024-10-13 00:58:42 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0d658ffa-437f-31ca-b95f-512baa7c86e8 | -4.6384 | -44.8615 | 2024-10-14 00:55:33 | GOES-16 | IGARAPÉ GRANDE | MARANHÃO | Brasil | 2105203 | 21 | 33 | nan | nan | nan | Cerrado | 68.7 |
+| d790080b-8e56-3e64-b2d4-9d74b0c2977a | -4.7224 | -46.1608 | 2024-10-14 00:55:33 | GOES-16 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 62.7 |
+| 73c94d74-3f70-3d40-b7af-0e19b3d4b276 | -4.9097 | -46.0163 | 2024-10-14 00:55:34 | GOES-16 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| e5bb820d-599c-389a-835d-f45f8b453cc5 | -6.3749 | -59.9936 | 2024-10-14 00:55:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 59.5 |
+| 8a4f4577-ca9c-3761-ba62-6ef7c9b1f1ff | -6.3933 | -59.9929 | 2024-10-14 00:55:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 60.9 |
+| 24259ffa-aa27-3406-9670-c60d99644e70 | -7.7292 | -43.2049 | 2024-10-14 00:55:50 | GOES-16 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 26.3 |
+| 154e40ef-85fc-36d6-bfcd-b55b262ed75a | -7.9623 | -49.0823 | 2024-10-14 00:55:52 | GOES-16 | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 75.2 |
+| f135fe42-b416-3b3e-bdbc-05aeea3ca950 | -7.9625 | -49.0607 | 2024-10-14 00:55:52 | GOES-16 | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 176.7 |
+| 755304e0-472c-3a67-8758-e6234e6bbe98 | -7.9418 | -63.6365 | 2024-10-14 00:55:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 76.4 |
+| fc318594-e863-3ef0-89bc-24b75b593880 | -7.9419 | -63.6177 | 2024-10-14 00:55:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| d455d4a1-235b-33e6-affa-6bbe5130294b | -7.9603 | -63.6359 | 2024-10-14 00:55:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 72.8 |
+| 2479ce96-14a1-3651-a0f3-e30ddf9ce4ae | -7.9604 | -63.6171 | 2024-10-14 00:55:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 62.8 |
+| 962e782f-a54b-3a07-bbe3-4b12ec9cbad4 | -8.4734 | -48.6276 | 2024-10-14 00:55:54 | GOES-16 | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | 84.3 |
+| 927fc8f6-a6ab-39e6-a4a2-5a03efca1270 | -8.7025 | -63.1568 | 2024-10-14 00:55:56 | GOES-16 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 55.2 |
+| 5ec2af0b-f167-386f-8424-dc58cc6e6e2a | -9.1021 | -47.9355 | 2024-10-14 00:55:58 | GOES-16 | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 95.6 |
+| 539eef40-c41c-3d7b-b4a3-c993377253f4 | -9.1042 | -61.1811 | 2024-10-14 00:55:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 80.9 |
+| 7ffabb7e-acc0-3acd-a784-9b268cbbffe9 | -9.1043 | -61.162 | 2024-10-14 00:55:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 93.2 |
+| dc7112e6-d084-36cd-9431-8b774920ec41 | -9.6928 | -47.4774 | 2024-10-14 00:56:01 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 121.1 |
+| 3c40a260-4df6-3c4a-b740-91c2db6d3f7b | -9.7117 | -47.4754 | 2024-10-14 00:56:01 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 88.6 |
+| 483aec11-a9fc-3395-8ee8-436b73ad0931 | -10.0622 | -44.2391 | 2024-10-14 00:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 140.7 |
+| d90fd82b-afb5-3f31-b2b8-346b3606bf7c | -10.0626 | -44.2158 | 2024-10-14 00:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 119.0 |
+| 646a4a32-746f-3658-9066-8978f21f2ec2 | -10.0813 | -44.2366 | 2024-10-14 00:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 249.6 |
+| 647f6963-0b9e-3e75-bd87-39dfc82afe9f | -10.0816 | -44.2133 | 2024-10-14 00:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 160.8 |
+| eda2d7c2-0326-3910-ad85-a3d71a3f7d8c | -9.9973 | -47.3329 | 2024-10-14 00:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 98.6 |
+| ea0389a1-ab72-37d5-8837-e4fbc39de9c4 | -9.9976 | -47.3107 | 2024-10-14 00:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 101.8 |
+| a33bc3ed-0ce8-3edc-9774-1e1ada791af1 | -10.016 | -47.353 | 2024-10-14 00:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 90.5 |
+| 8eb2e6ce-9575-34db-bdef-d5a56f8bb602 | -10.0163 | -47.3308 | 2024-10-14 00:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 199.1 |
+| 703789bd-bf07-3b20-9bcf-75b4a18db431 | -10.0166 | -47.3085 | 2024-10-14 00:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 132.6 |
+| 3d3038b7-bfe3-3d7d-b26d-8f26e3451a56 | -10.0352 | -47.3286 | 2024-10-14 00:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 108.8 |
+| 5eef8c6f-3933-3735-9009-805a19bfff70 | -10.4918 | -42.433 | 2024-10-14 00:56:05 | GOES-16 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 101.3 |
+| 4c8bc9d4-f1cc-316d-a61c-30ca06987110 | -11.17 | -39.9192 | 2024-10-14 00:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 102.6 |
+| 0932a242-8b66-3520-bbe7-cb1ef52449fa | -11.1705 | -39.894 | 2024-10-14 00:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 146.0 |
+| 4b19a9c4-9c57-3f22-b1d4-61999af231fc | -11.1893 | -39.9159 | 2024-10-14 00:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 58.1 |
+| 926230af-97f3-37dd-ab61-3498481e8ebb | -11.1898 | -39.8906 | 2024-10-14 00:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 82.0 |
+| ef0efbef-01a9-31b6-87f0-e18bdbbc8cec | -12.4981 | -63.0148 | 2024-10-14 00:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 68.4 |
+| bac9cd45-4c32-349f-b6a9-7dbcc8f10928 | -12.4983 | -62.9956 | 2024-10-14 00:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 84a7c506-ba5e-3672-a9aa-f4064df320b3 | -12.8699 | -53.5423 | 2024-10-14 00:56:19 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 59.7 |
+| d57c804d-ba11-3984-81d0-ce4ee7b1d888 | -12.8702 | -53.5215 | 2024-10-14 00:56:19 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 66.4 |
+| 9715e6b0-a257-30a0-b689-d45bfc504299 | -12.889 | -53.5402 | 2024-10-14 00:56:19 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 106.6 |
+| 12910c20-eb50-3152-acaf-5eb89ea9a5dc | -12.8893 | -53.5194 | 2024-10-14 00:56:19 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 81.2 |
+| 3fbfe357-2e5b-33c9-8453-048fe763f170 | -17.6876 | -56.2409 | 2024-10-14 00:56:46 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 51.8 |
+| 91ace1c2-1775-3cee-a725-427eed07153a | -21.76 | -48.2851 | 2024-10-14 00:57:06 | GOES-16 | ARARAQUARA | SÃO PAULO | Brasil | 3503208 | 35 | 33 | nan | nan | nan | Cerrado | 60.7 |
+| 22534eaa-dc14-32d4-bf00-0ebfd5bc031d | -21.8635 | -48.9814 | 2024-10-14 00:57:07 | GOES-16 | IACANGA | SÃO PAULO | Brasil | 3519105 | 35 | 33 | nan | nan | nan | Mata Atlântica | 53.9 |
+| e42c0118-d4f4-3eee-b18b-0077d483f768 | -11.18 | -39.92 | 2024-10-14 01:04:20 | MSG-03 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 076b82b3-36ba-3271-b8e1-c799a261addc | -9.86 | -36.41 | 2024-10-14 01:04:28 | MSG-03 | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| df8666de-7cc0-3947-943b-04e832b9cad1 | -10.05 | -44.22 | 2024-10-14 01:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 225238a5-896b-3185-8a85-004d64c5e539 | -3.32 | -42.83 | 2024-10-14 01:05:07 | MSG-03 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6df7424d-f20c-378c-b16f-a5265236cccc | -3.32 | -42.87 | 2024-10-14 01:05:07 | MSG-03 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 2b39148b-6793-351c-8908-273bee44f712 | -3.29 | -42.83 | 2024-10-14 01:05:10 | MSG-03 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6a122ae2-47f7-398b-b5f0-feeabcc70474 | -2.4344 | -46.9195 | 2024-10-14 01:05:20 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 0f31ffd1-08df-3af2-b0c5-fd25170cb804 | -2.4529 | -46.919 | 2024-10-14 01:05:20 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 95.5 |
+| 0a8dbd3c-4f44-3513-831e-fdfaac6d5b0b | -2.6117 | -49.1198 | 2024-10-14 01:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 47.6 |
+| de24b771-bb8d-31ef-90e2-e4d31df19ad0 | -2.6118 | -49.0985 | 2024-10-14 01:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 51.0 |
+| 42b9cde3-500e-353f-82a8-cc0377b046b1 | -2.6119 | -49.0772 | 2024-10-14 01:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 31.6 |
+| 06734ad3-743a-361b-8431-963585d811fc | -2.6052 | -57.5711 | 2024-10-14 01:05:21 | GOES-16 | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 40.9 |
+| ab0dc207-254e-3de0-a075-85146c4f7871 | -2.6303 | -49.098 | 2024-10-14 01:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 29.2 |
+| 5560f582-ebcc-325c-afb3-e80436e5bda9 | -3.2889 | -42.8561 | 2024-10-14 01:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 64.1 |
+| 34d297d3-cc60-30c2-828b-3f2cd800de90 | -3.289 | -42.8327 | 2024-10-14 01:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 103.6 |
+| 4193421c-1a02-37ab-9780-c6040f80cf83 | -3.3076 | -42.8553 | 2024-10-14 01:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 153.2 |
+| d2d0939e-c321-37ec-b5fe-2f17d2a19be0 | -3.3077 | -42.8318 | 2024-10-14 01:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 251.2 |
+| 7a1ca5d1-9895-3682-afdb-8dc06ad6a6db | -3.1982 | -50.3077 | 2024-10-14 01:05:25 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 35.8 |
+| 0c9609f7-346b-3c0b-aec4-69dfe263990e | -4.1146 | -48.2731 | 2024-10-14 01:05:30 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 70.9 |
+| f6cf001b-0d1b-3208-9a60-e3a583412ee4 | -4.3428 | -50.5172 | 2024-10-14 01:05:31 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 98.4 |
+| 93d91e8f-f440-3286-8810-7c99ac9bf457 | -4.343 | -50.4962 | 2024-10-14 01:05:31 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 60.5 |
+| 1a2c9398-e9f0-37cd-99a4-8ccfe5bfad6c | -4.3613 | -50.5164 | 2024-10-14 01:05:31 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 103.9 |
+| 1c5fa24d-8bbd-3e54-a2c6-c839ae07bb98 | -4.3615 | -50.4954 | 2024-10-14 01:05:31 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| 89146185-7c53-3086-8291-6cfc3bb5d3ef | -4.6384 | -44.8615 | 2024-10-14 01:05:33 | GOES-16 | IGARAPÉ GRANDE | MARANHÃO | Brasil | 2105203 | 21 | 33 | nan | nan | nan | Cerrado | 76.2 |
+| 177456fb-277c-330e-a48e-c61d8e054315 | -4.7224 | -46.1608 | 2024-10-14 01:05:33 | GOES-16 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 57.7 |
+| f396a3c7-fbe8-363c-a6f6-a73d3565d1c6 | -4.7226 | -46.1385 | 2024-10-14 01:05:33 | GOES-16 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 60.7 |
+| 6f8e7aea-3e26-3f25-a9fa-652d90e27dbe | -6.3749 | -59.9936 | 2024-10-14 01:05:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 47.9 |
+| fba460bf-3476-3102-8c9c-608d526200a7 | -6.3933 | -59.9929 | 2024-10-14 01:05:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 1a7680b2-dc5b-3a97-b604-341c8f3a8885 | -7.7292 | -43.2049 | 2024-10-14 01:05:50 | GOES-16 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 25.8 |
+| 1a1d2d0d-70ae-374f-b3eb-727019bb92d9 | -7.9625 | -49.0607 | 2024-10-14 01:05:52 | GOES-16 | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 157.3 |
+| 5158c2ab-ff93-35dc-bb57-8a7faeea2861 | -7.9418 | -63.6365 | 2024-10-14 01:05:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 64.5 |
+| f8463a81-3a7d-3351-a3af-61facc34363b | -7.9419 | -63.6177 | 2024-10-14 01:05:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 55.4 |
+| fdbccc09-253a-3c00-99c7-cecb01ca2ba8 | -7.9603 | -63.6359 | 2024-10-14 01:05:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 61.2 |
+| bf15b54e-e0a4-3f24-9fae-b3d58f3d69f4 | -7.9604 | -63.6171 | 2024-10-14 01:05:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 53.3 |
+| 6eaffc30-121c-3970-97e4-116f77c685db | -8.4921 | -48.6259 | 2024-10-14 01:05:54 | GOES-16 | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Amazônia | 81.8 |
+| b8568a3a-0f3f-3139-a9e4-9becd36e2a0f | -9.5168 | -35.7636 | 2024-10-14 01:05:59 | GOES-16 | MACEIÓ | ALAGOAS | Brasil | 2704302 | 27 | 33 | nan | nan | nan | Mata Atlântica | 59.9 |
+| fca71599-4c04-3e95-8ed2-0b9b594d4e51 | -9.1042 | -61.1811 | 2024-10-14 01:05:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 74.1 |
+| 5f0d4bb3-fd38-3f0a-bdb7-a2ba71250619 | -9.1043 | -61.162 | 2024-10-14 01:05:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 82.5 |
+| 267c8ec0-39aa-3ab9-a5bc-e867c5416a6a | -9.4888 | -45.8228 | 2024-10-14 01:06:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 82.5 |
+| ec5be5df-b7e7-3b3f-baac-cc96a7200cb9 | -9.8512 | -36.4085 | 2024-10-14 01:06:01 | GOES-16 | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 70.1 |
+| f129b159-9a3f-3783-b585-3137c27ec318 | -9.87 | -36.4321 | 2024-10-14 01:06:01 | GOES-16 | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 85.1 |
+| 8a08c9c4-9c2d-3184-abe4-70409ad44a41 | -9.8705 | -36.4052 | 2024-10-14 01:06:01 | GOES-16 | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 196.3 |
+| 5bd0c8e4-e698-395a-bbc1-12eb56fbe09a | -10.0622 | -44.2391 | 2024-10-14 01:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 126.5 |
+| 213cce7d-47dc-3484-b771-573d15259bf0 | -10.0626 | -44.2158 | 2024-10-14 01:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 111.9 |
+| afd7e2f3-44de-3a8a-933e-04794cfa9777 | -10.0813 | -44.2366 | 2024-10-14 01:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 217.5 |
+| 1b1d6c07-5bd8-3b40-9d6f-aae9c320c607 | -10.0816 | -44.2133 | 2024-10-14 01:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 143.4 |
+| 538a1c8f-04a8-387f-ab9f-d74cd9822812 | -10.0163 | -47.3308 | 2024-10-14 01:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 163.3 |
+| 91080c69-14a9-32f9-9a61-1b628d07ba39 | -10.0166 | -47.3085 | 2024-10-14 01:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 102.9 |
+| 199e4734-64bf-3d06-b13f-917aba7ef35d | -10.0352 | -47.3286 | 2024-10-14 01:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 121.9 |
+| 793ad44a-4b69-37c3-a9eb-c4229d4e313b | -10.4918 | -42.433 | 2024-10-14 01:06:05 | GOES-16 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 85.9 |
+| 6bfee79f-deaf-3b0c-90dc-8ba7be7512d5 | -10.9116 | -44.7048 | 2024-10-14 01:06:08 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 70.9 |
+| 9ddd4e2d-606e-373b-9b45-5dcc65b97af6 | -11.17 | -39.9192 | 2024-10-14 01:06:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 83.4 |
+| b0d3f9fb-738c-3fd4-8340-b14ae2b97b1a | -11.1705 | -39.894 | 2024-10-14 01:06:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 138.6 |
+| fbb54540-4d08-307e-ab53-fae206a3f224 | -11.1893 | -39.9159 | 2024-10-14 01:06:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 100.9 |
+| c4d37774-e4be-355f-a5f3-6f06d88542b2 | -11.1898 | -39.8906 | 2024-10-14 01:06:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 208.5 |
+| 676f439b-a4ee-376e-bc78-74bfba20c0ad | -12.0912 | -50.7879 | 2024-10-14 01:06:15 | GOES-16 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 54.0 |
+| 337f55ef-42ac-374d-9f3c-40667497f002 | -12.0915 | -50.7665 | 2024-10-14 01:06:15 | GOES-16 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 56.8 |
 
 
 [Clique aqui para ver as próximas entradas](README16.md)

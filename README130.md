@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3256b3c0-e81a-3dbc-bc91-0f7323e383e0 | -11.09219 | -60.71893 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| fbf1c901-069a-3f61-8c97-7c8e94bffb5a | -11.08779 | -60.74733 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 10084566-f62e-359e-b670-27ed8ee82d39 | -11.08386 | -60.72853 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 32ba1bcd-10ec-3433-81f1-3f26c2f4b520 | -11.08107 | -60.72445 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9a60dead-2b88-3881-a701-4e17258da3da | -11.06994 | -60.72997 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b5c9ed56-280a-34f5-9517-be76cec90732 | -11.0666 | -60.72945 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 8ed1bf79-2578-3479-a1f9-e7170b5a21a5 | -11.05947 | -60.77556 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3cde617d-7b89-3c65-b10a-850c99aefca1 | -11.05558 | -60.77859 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d27b58f8-9b06-39ee-9ea3-c67130366fe5 | -11.00512 | -61.12526 | 2024-10-12 05:25:00 | NPP-375D | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c8a602da-94cb-337e-81b0-cc1aa03689ff | -10.97411 | -61.088 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 740568c0-61a0-3eca-b9bf-4fe9cd673d27 | -10.97356 | -61.09152 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 2a0ea54c-6f71-3c48-a682-0e8b90c15f23 | -10.97193 | -61.12372 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d29be886-514d-396f-9724-96e052058d8c | -10.97078 | -61.08747 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 3db02159-27b3-3ca9-a3a9-dd678e4e39fd | -10.97023 | -61.09099 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b2fd66f5-7193-3ca1-8327-54318e70c856 | -10.9675 | -61.13023 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 55912595-a60b-3c83-80a2-5fcf236aaff4 | -10.96746 | -61.08694 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4a0755ba-b38b-3c76-87e9-67b1e909b14b | -10.96695 | -61.13374 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 62eed2f5-a3d9-392e-96c2-f811f9a96fa0 | -10.96691 | -61.09045 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bf088c9c-3b18-373c-b1e8-7b96ef462680 | -10.96636 | -61.09397 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bad19587-0b27-31a0-8224-1d03801f8fe1 | -10.96624 | -60.98557 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 7b5347eb-6dd9-3405-b685-92134e1b0dcf | -10.96413 | -61.0864 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 973bba4f-c7cc-38ba-8279-f340d5a2a9bb | -10.96362 | -61.13322 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d9d3e31e-0f27-33de-949a-977002924fb1 | -10.96358 | -61.08992 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 456164cf-1670-3443-a090-e774f9fd42c1 | -10.96291 | -60.98505 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| b5e97aa7-760f-304a-be71-17f5ca1e42e5 | -10.96083 | -61.10752 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 75000943-f15e-3bca-9dec-1cb29714080e | -10.9603 | -61.13269 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ab312bcf-8f6c-3650-8ed5-ff9e54b75135 | -10.96025 | -61.08938 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 09fbe5da-d78b-306e-b682-709f49658f91 | -10.95975 | -61.1362 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3f657c3a-4587-31ee-ae11-a2e1af8fb314 | -10.9575 | -61.10699 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c8fa2663-910c-3a8b-a0e4-77e323e634a1 | -10.95697 | -61.13215 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 9c0f0f74-329e-3208-ba4c-adb61e76a368 | -10.95642 | -61.13567 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8a318a5d-604d-399b-ac32-b46d34e13043 | -10.95529 | -61.12107 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 31932608-f33d-35c0-95b0-58753df95052 | -10.95474 | -61.12459 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 7eed687f-88d6-3db1-84ac-efb221faea18 | -10.95472 | -61.10294 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| cb0eaff3-438f-32b5-b89b-0aa1b474cc93 | -10.9542 | -61.12811 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d55503c4-1d12-3aaf-aa00-98427667fd17 | -10.95417 | -61.10646 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 3d193fbb-4b92-3e9b-b9c3-7f48151a628c | -10.95142 | -61.12405 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 02325f03-0a1e-31ee-8079-c8ac80f91c00 | -10.9514 | -61.10241 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 6c1bcfe7-aa71-3d1b-bab9-0194933ac682 | -10.95087 | -61.12758 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 263f1c3b-6b43-313d-b4c0-a91aff427eb5 | -10.95084 | -61.10593 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 0f0a9e65-9d5c-38c4-8e4e-d8b9bd8c921a | -10.95072 | -60.99755 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7993369e-285f-3de7-a581-3ef253c51957 | -10.95032 | -61.13109 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| d89d1cc2-d40d-32cd-ba8a-f4835bbcb33a | -10.95029 | -61.10946 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 73d83240-a585-38e3-9ab1-0848ed2e0847 | -10.94807 | -61.10189 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 3a185f21-d346-3e55-812b-1fcbd5db1875 | -10.94752 | -61.10541 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 710f4385-b8fe-3b35-8ca9-c631aaa60b03 | -10.94697 | -61.10892 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c0359776-e99f-33d5-876a-c81b242103c6 | -10.94252 | -60.76448 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 9dbdfcc8-b055-364d-b6ae-7421eb74e6ef | -10.92987 | -60.82413 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 17b47ddf-ba6f-379c-8e5c-d106ccb02750 | -10.92708 | -60.82005 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a115c4d3-88ef-3540-b6c6-a087cbcec5bd | -10.92013 | -60.95295 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| c9a70483-77ed-3e3f-ace4-f45e127dcb00 | -10.91958 | -60.95647 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 417412d3-7f2c-3a46-85d7-52a1ecea1ab0 | -10.91679 | -60.95243 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 55470b30-b729-358a-97fc-b49e0c3ae2d9 | -10.91625 | -60.95596 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| e0291992-6469-33f0-af9f-d541f4f3f37e | -10.91346 | -60.9519 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 85fd661f-9b32-30d0-ae8a-62c0bccb5c2f | -10.91174 | -60.91904 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 55034ff9-2a3d-313e-9f16-f0618f0a6adb | -10.91119 | -60.92258 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| ef8606b7-c544-3c7b-bc5b-3aaca66c6e40 | -10.91115 | -60.90086 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 57e6b1c1-a99f-33f9-9193-fae53e4b2835 | -10.91005 | -60.90792 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| a7858f25-1561-34b0-8268-a228b0b75ba2 | -10.90896 | -60.91499 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 132853ab-b80a-31b2-9312-232eddc00761 | -10.90891 | -60.89327 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8c2daae9-675a-3aa2-bdc4-56205b4e8145 | -10.90841 | -60.91851 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 95b8d9c8-7dc5-338d-8df7-ee294a40d2fa | -10.90836 | -60.8968 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 606aeb86-dbf1-32b2-8a61-d4bcf2601f7f | -10.90558 | -60.89273 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b2804246-d0c0-3332-8680-df7722cec2c2 | -10.90457 | -60.94324 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 414848d2-ed8d-3a81-b509-517f6a4e5088 | -10.90351 | -60.89274 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| db2fa242-27d6-3c46-a854-238afb77ec5e | -10.90073 | -60.88868 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b506bdfb-0fd4-3334-bc1c-6ee996dc29e9 | -10.90018 | -60.89222 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 59572ecf-5056-35ea-b761-6d0d60be7067 | -10.9001 | -60.92805 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 05103fcd-0134-3b1b-b09b-7053e3b17224 | -10.89962 | -60.89575 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| bc423f43-2ba4-333e-b61c-fd455d7b2a9e | -10.89684 | -60.89168 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c7d0af4c-345e-302c-981a-643aaac5aa38 | -10.88957 | -60.8507 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 21efe05f-d1f9-32a5-9dd2-147dec8680e3 | -10.88679 | -60.84664 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6fe44458-a03a-3cc6-b623-426fb44c30e5 | -11.21536 | -61.33961 | 2024-10-12 05:25:00 | NPP-375D | CACOAL | RONDÔNIA | Brasil | 1100049 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ec2f429f-1000-3a35-ae24-99c360ade279 | -10.82192 | -61.41331 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7b93b9f1-263a-3f40-b5eb-0e8c1e48486f | -10.81915 | -61.40927 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3c255cad-b9c8-3719-8f62-e8d17e227d9e | -10.81859 | -61.41278 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f377bfa9-46d2-339b-9560-ea57b0265877 | -10.81804 | -61.41629 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c9e79631-0a1a-3df8-a6c4-8ca9a8919c6b | -10.81749 | -61.4198 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 06b8831e-a7eb-3551-84be-fb90d9d369e4 | -10.81472 | -61.41576 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 5af938f3-4b0d-3353-8cfb-85c03d9b8bd0 | -10.81417 | -61.41927 | 2024-10-12 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1a1cdb5d-2051-31e8-b2db-08bba803d215 | -11.25357 | -60.55118 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9591de19-029c-3e57-9c69-e3c140c00dea | -11.25348 | -60.50723 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 2132e83a-451f-3325-aff2-448d39a7c722 | -11.25067 | -60.50315 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| db5ba0a1-f583-3efd-bd82-ebd8ff5954c3 | -11.25022 | -60.55063 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 64804261-9ede-3b0a-bd97-4aafa771ef7f | -11.25012 | -60.50671 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| bb1630c7-888a-372b-82c9-67b0741a66c8 | -11.24966 | -60.55422 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| a23b1a7a-68fa-3eb1-a0a4-637b015fd02b | -11.24857 | -60.56133 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| d6383268-b39d-320d-8a99-75cdff80c7a1 | -11.24631 | -60.55368 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| be2a2387-874d-3756-b09b-00917f4e314c | -11.24577 | -60.55723 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 3d537294-6104-3f58-99d7-3fe845d2256b | -11.24522 | -60.56078 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 41e6a627-24fc-3a7d-bfb5-3713ac0cd7ff | -11.24467 | -60.56435 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| decd6540-b2f3-3fbf-9808-340300f38cfb | -11.24447 | -60.45415 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e4b94199-8a33-3540-be0b-e3fe1c27aecc | -11.24277 | -60.44284 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 67b3111c-9965-3c85-a5de-e614006ed2fa | -11.24107 | -60.43153 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| f9b8a9b9-0051-32ba-8638-c56b105c2679 | -11.24051 | -60.43514 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7c9b9b57-3ca7-3ab4-a564-58ce3d6fecd6 | -11.23996 | -60.43873 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4f078e28-2ad6-33d5-bca2-de168c2c0ed6 | -11.2377 | -60.43102 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 72030515-0aa5-32da-84cb-8552067675f9 | -11.23741 | -60.56687 | 2024-10-12 05:25:00 | NPP-375D | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d1f5b9ce-9e6f-347c-b2bf-cb4bb21be23a | -11.23715 | -60.43463 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 8a1994e1-1ca3-3dce-926c-b249ac4e7280 | -11.23614 | -60.48596 | 2024-10-12 05:25:00 | NPP-375D | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fd21d438-c68f-35bc-be07-7a7299eb38a4 | -18.1909 | -56.8186 | 2024-10-14 07:06:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 51.4 |
+| bdbdfa64-897d-3ebb-90ff-02714da982f8 | -18.2754 | -56.517 | 2024-10-14 07:06:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 87.4 |
+| f10983d4-918a-33b7-b3c5-6af61b769143 | -18.2144 | -56.6081 | 2024-10-14 07:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.7 |
+| 39f1d3b5-476a-369b-9c54-246a2d74462b | -18.2342 | -56.6055 | 2024-10-14 07:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 67.9 |
+| 57fc78c6-3461-3508-a22c-368fd4af1e99 | -18.2342 | -56.6055 | 2024-10-14 07:36:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.5 |
+| d2f17e09-732e-3e09-abb0-6459fe8898f8 | -18.2342 | -56.6055 | 2024-10-14 07:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 73.2 |
+| 1df7586b-81bf-3457-ac34-4bad6d1984e0 | -18.2144 | -56.6081 | 2024-10-14 07:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 79.1 |
+| 1a797194-e66c-3919-ae50-a3b77fba6bad | -18.1909 | -56.8186 | 2024-10-14 07:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 51.0 |
+| b9243ba8-9040-37fe-bf1b-1f3fac7baa3a | -18.2757 | -56.4962 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 75.2 |
+| edf9d67b-95d6-34f1-acfb-a8b08515be41 | -18.2754 | -56.517 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 151.1 |
+| 660e73c9-8f9b-3579-abb5-8a6a1119554a | -18.275 | -56.5378 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 110.5 |
+| 46e31c97-2073-3f79-8cc2-1219acd95408 | -18.2559 | -56.4988 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 90.4 |
+| e9609266-0292-3062-8328-6a2a6bbd3c7f | -18.2555 | -56.5196 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 122.5 |
+| 58f3f80b-a165-34e4-87f4-7f0899274b62 | -18.2551 | -56.5405 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.5 |
+| 61e930ff-ca1e-31d3-ad15-843317937066 | -18.2342 | -56.6055 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.4 |
+| 73387ffc-e023-38d3-955a-0610d9057a43 | -18.2144 | -56.6081 | 2024-10-14 07:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 72.5 |
+| d66a755d-65b3-3eb4-b2dc-8347e705d415 | -3.29 | -42.83 | 2024-10-14 08:05:09 | MSG-03 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4f793fbe-f7d2-3378-9c00-4fc7fa9e84cb | -18.2342 | -56.6055 | 2024-10-14 08:06:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.5 |
+| f61f65f3-4fae-3c1c-94d0-cfccf764999c | -18.2551 | -56.5405 | 2024-10-14 08:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 145.3 |
+| 5c4159ad-85ce-31f8-b608-8a4be3eecb62 | -18.2555 | -56.5196 | 2024-10-14 08:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 216.1 |
+| e8a0b2d0-4ea0-3565-afa3-684024273189 | -18.2559 | -56.4988 | 2024-10-14 08:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 136.5 |
+| 54024300-3130-3496-94b9-77cae59d9b71 | -18.275 | -56.5378 | 2024-10-14 08:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 106.0 |
+| e470f03e-b22d-3565-8248-a1f6ec585cca | -18.2754 | -56.517 | 2024-10-14 08:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 145.5 |
+| 4d0dc327-fa0a-3a88-b5e7-c0f7a0c0757a | -18.2757 | -56.4962 | 2024-10-14 08:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 70.7 |
+| 5e9f2518-d352-3d4e-82e4-716479dfdecf | -18.2342 | -56.6055 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 61.8 |
+| c715fb47-f5a4-3c8a-bd89-c3abce4b9cfd | -18.2551 | -56.5405 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 204.6 |
+| 730b0f2c-8a38-3e9c-a8db-f848d1028a5c | -18.2555 | -56.5196 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 237.2 |
+| 4aa2600d-3229-3e8e-925d-ccb111d9f2ef | -18.2559 | -56.4988 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 103.3 |
+| f2a059f5-75e8-33d3-810e-65e369d79b0e | -18.275 | -56.5378 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 156.3 |
+| 2940c0b8-ab19-37d1-938b-329e495a11f7 | -18.2754 | -56.517 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 180.6 |
+| 9a763ac0-3957-31aa-bed7-246fcbf62c9b | -18.2757 | -56.4962 | 2024-10-14 08:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 73.2 |
+| 017fd03d-c93a-3bd2-9f51-f19be83dbd75 | -18.2338 | -56.6263 | 2024-10-14 08:36:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 51.5 |
+| 89247807-042d-33ae-9ec4-3f8f7134d35e | -18.2144 | -56.6081 | 2024-10-14 08:36:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.8 |
+| 382e41da-9f60-3c60-aa49-58ceeaf683fa | -18.2342 | -56.6055 | 2024-10-14 08:36:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 83.3 |
+| f35a1987-7def-35fd-94e5-c8f303dd71ee | -17.196 | -57.4357 | 2024-10-14 08:46:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 85.1 |
+| 15dd2393-b73a-322e-8e61-b106c5fb2cd5 | -17.1957 | -57.4562 | 2024-10-14 08:46:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 66.8 |
+| 0afebf4c-2e27-3151-8e9d-c22f22cb3297 | -10.89 | -44.68 | 2024-10-14 11:04:21 | MSG-03 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| eb21023d-3ac9-356d-908d-d968ec31ad2a | -10.92 | -44.69 | 2024-10-14 11:04:21 | MSG-03 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 77abd25d-022b-3c5e-995d-0f94aa41e430 | -10.92 | -44.74 | 2024-10-14 11:04:21 | MSG-03 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e7433914-43be-3a11-b017-5616631e2ca8 | -10.9116 | -44.7048 | 2024-10-14 11:26:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 172.3 |
+| af90b126-6de1-3a79-8f5f-bc63d7d7972b | -10.9116 | -44.7048 | 2024-10-14 11:36:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 265.6 |
+| c632a03f-003c-3b8e-b4cd-6b1e7cfc17bb | -10.912 | -44.6816 | 2024-10-14 11:36:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 136.6 |
+| bae9972e-d819-3e54-be4c-a6a3ce64268c | -10.8925 | -44.7074 | 2024-10-14 11:36:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 98.2 |
+| 1c72fe1f-989e-3be8-a5ba-cbed874fccc2 | -11.2258 | -44.1952 | 2024-10-14 11:36:11 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 84.4 |
+| 53edad8a-2e3a-34ba-b73e-7193306c93a4 | -11.245 | -44.1924 | 2024-10-14 11:36:11 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 177.2 |
+| 9db1cb03-57de-32b6-87ce-a2950f985299 | -11.2454 | -44.169 | 2024-10-14 11:36:11 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 80.5 |
+| c121e247-1116-3810-ac1d-b39fa586fb0d | -10.3303 | -46.58 | 2024-10-14 11:46:06 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 79.2 |
+| 4154adda-48ad-3fff-90b4-5b640f4697d2 | -10.9116 | -44.7048 | 2024-10-14 11:46:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 186.2 |
+| 74012826-5294-3bdb-9031-b9561dbaab80 | -10.8925 | -44.7074 | 2024-10-14 11:46:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 76.4 |
+| ab8913b6-9ed0-378c-9a0d-c4792a8a8fb7 | -10.912 | -44.6816 | 2024-10-14 11:46:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 99.7 |
+| 88047fb8-4fe3-3664-b4ff-be319fa8a9b5 | -10.9307 | -44.7021 | 2024-10-14 11:46:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 78.7 |
+| 46c7723e-bf28-3c3e-ab8c-f1566663c4be | -10.9116 | -44.7048 | 2024-10-14 11:56:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 202.3 |
+| 09934c53-6b11-3b3a-952c-d8d223936502 | -10.912 | -44.6816 | 2024-10-14 11:56:09 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 101.7 |
+| 3cc479bf-c30c-32bf-a76a-f457518982d0 | -10.90864 | -44.69201 | 2024-10-14 12:04:00 | TERRA_M-T | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 162.3 |
+| d0698974-3944-3c25-a504-3ce1d706e199 | -10.90517 | -44.71272 | 2024-10-14 12:04:00 | TERRA_M-T | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 191.1 |
+| 5ea7b3e7-c40b-346b-b9d4-d8b7bf5fa31d | -10.69002 | -41.41772 | 2024-10-14 12:04:00 | TERRA_M-T | UMBURANAS | BAHIA | Brasil | 2932457 | 29 | 33 | nan | nan | nan | Caatinga | 14.0 |
+| 3f2838a7-97f8-31c6-b162-19436e4d5bde | -10.65438 | -40.52273 | 2024-10-14 12:04:00 | TERRA_M-T | ANTÔNIO GONÇALVES | BAHIA | Brasil | 2901809 | 29 | 33 | nan | nan | nan | Caatinga | 87.2 |
+| 65e610e8-b73d-3be1-9339-ae2ca52a4c01 | -10.378 | -39.23906 | 2024-10-14 12:04:00 | TERRA_M-T | MONTE SANTO | BAHIA | Brasil | 2921500 | 29 | 33 | nan | nan | nan | Caatinga | 45.3 |
+| 0e71026f-1d0c-32bf-b3ce-0a01cd20ff34 | -10.08269 | -44.20124 | 2024-10-14 12:04:00 | TERRA_M-T | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 114.2 |
+| 6ff2c0e3-37ab-3910-a3c4-d786c9d76125 | -10.06019 | -44.25848 | 2024-10-14 12:04:00 | TERRA_M-T | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 359.8 |
+| 50bfdf9c-5fd3-3647-8ee2-80cea86e2eff | -10.06347 | -44.23855 | 2024-10-14 12:04:00 | TERRA_M-T | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 106.8 |
+| 15ce11a0-1c39-3330-8cee-ef69e8044ec4 | -8.53218 | -45.99124 | 2024-10-14 12:04:00 | TERRA_M-T | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 45.6 |
+| 85711aae-39f6-310f-96d9-41785d84275d | -10.03438 | -47.35764 | 2024-10-14 12:04:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 110.9 |
+| 9d9f335e-b2fc-3707-a4b9-da7ea40af51d | -10.33818 | -46.59379 | 2024-10-14 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 69.8 |
+| 4a7480b3-c073-37c5-b83f-0d38ca9b504d | -10.34185 | -46.58732 | 2024-10-14 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 93.2 |
+| a347d8c8-6ad9-38bd-9349-9b3dfc88373d | -10.34343 | -46.56433 | 2024-10-14 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 31.3 |
+| ab910fa2-a805-3882-9def-5266082e3048 | -6.94796 | -45.20887 | 2024-10-14 12:04:00 | TERRA_M-T | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 39.5 |
+| 888638f7-2527-3933-aa38-3dad8cabb6e6 | -6.94836 | -45.21584 | 2024-10-14 12:04:00 | TERRA_M-T | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 43.3 |
+| 0e452c34-a1b6-3fe7-b316-e1fb5dbbb53f | -7.13602 | -44.80712 | 2024-10-14 12:04:00 | TERRA_M-T | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 30.6 |
+| 5f276033-cba8-3f1d-bd48-5cedc9455824 | -7.1395 | -45.72593 | 2024-10-14 12:04:00 | TERRA_M-T | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 39.2 |
+| cb558b81-ff8d-3cb1-a69d-26cefada8c5a | -8.52999 | -45.99694 | 2024-10-14 12:04:00 | TERRA_M-T | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 39.0 |
+| c836c14a-7041-3f66-bb5c-c6d686c97f6e | -9.70546 | -46.46211 | 2024-10-14 12:04:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 34.7 |
+| cb86a7c2-ac76-32b7-b5c2-bbb7de4a5b54 | -9.98869 | -47.33588 | 2024-10-14 12:04:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 95.0 |
+| fdddaade-ca3b-31d2-9334-8d1c1385bd1f | -10.07945 | -44.22105 | 2024-10-14 12:04:00 | TERRA_M-T | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 65.4 |
+| dab4a324-9606-3ada-8337-5de80f656f16 | -9.48873 | -45.84969 | 2024-10-14 12:04:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 165.1 |
+| 47e61eb2-8618-391d-9d0d-cefd8126564c | -10.07293 | -44.26089 | 2024-10-14 12:04:00 | TERRA_M-T | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 41.0 |
+| 389be26c-361b-3b83-8a5e-dcdbc538eb57 | -9.99581 | -47.34285 | 2024-10-14 12:04:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 112.9 |
+| 930aee58-1e5b-3b59-b508-5c7a00082cf9 | -7.64489 | -44.67214 | 2024-10-14 12:04:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 48.0 |
+| 6a9186f3-63f9-3a27-b2d4-05ee3055dc78 | -9.16887 | -40.58607 | 2024-10-14 12:04:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 19.0 |
+| dccb4557-4226-3202-830c-5aacbd9db6f5 | -8.82209 | -45.36296 | 2024-10-14 12:04:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 30.9 |
+| 4562f6c1-bcfe-3bcc-900f-050479647beb | -8.51451 | -40.23462 | 2024-10-14 12:04:00 | TERRA_M-T | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 10.5 |
+| 67bc96a0-1560-379d-8942-d851a332ffff | -8.50146 | -44.87664 | 2024-10-14 12:04:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 28.1 |
+| d2f9cc2c-b439-34ef-b799-287efaeba82b | -9.4934 | -45.82247 | 2024-10-14 12:04:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 77.8 |
+| 014f0222-e052-39e7-9823-0085a71ffb15 | -8.49779 | -44.8991 | 2024-10-14 12:04:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 286.8 |
+| 774b2092-e921-3b8c-8fb2-c50cb71c6461 | -8.38743 | -41.75365 | 2024-10-14 12:04:00 | TERRA_M-T | CAMPO ALEGRE DO FIDALGO | PIAUÍ | Brasil | 2202117 | 22 | 33 | nan | nan | nan | Caatinga | 20.8 |
+| 309fb3ca-0521-34fc-8636-27a05236c47d | -8.3401 | -42.73999 | 2024-10-14 12:04:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 57.9 |
+| cece2122-af1b-3d9d-bd36-3fc006bc97c6 | -8.33812 | -42.72921 | 2024-10-14 12:04:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 16.7 |
+| 47fdb533-a800-3de1-b882-5b79ce878756 | -8.33761 | -42.75625 | 2024-10-14 12:04:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 74.7 |
+| 180d3685-e8f4-37c0-b2bf-d1a13d8ab16a | -8.33552 | -42.74532 | 2024-10-14 12:04:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 80.5 |
+| 1e82126e-21f8-310e-a275-bad0535bfc52 | -8.33288 | -42.76162 | 2024-10-14 12:04:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 70.8 |
+| 61cd090d-1ad4-38c9-921d-2bcc0754b8c3 | -8.25144 | -44.84772 | 2024-10-14 12:04:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 33.2 |
+| 80397f6a-9437-332b-8337-b16b964b36d0 | -8.24753 | -44.87093 | 2024-10-14 12:04:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 34.6 |
+| e2e34aac-16a9-3d3d-a0fb-e489e81cf618 | -8.24255 | -44.86322 | 2024-10-14 12:04:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 48.6 |
+| 7545cd0d-f73e-3285-b389-ea1bdc7d7c63 | -7.95446 | -38.6657 | 2024-10-14 12:04:00 | TERRA_M-T | SÃO JOSÉ DO BELMONTE | PERNAMBUCO | Brasil | 2613503 | 26 | 33 | nan | nan | nan | Caatinga | 13.1 |
+| 9eedbea6-ea2d-3275-98fe-9eeee0073461 | -7.84239 | -43.9929 | 2024-10-14 12:04:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 117.0 |
+| f8c26c78-5327-39c7-85de-f4b4977ffdcc | -7.84219 | -44.00669 | 2024-10-14 12:04:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 300.4 |
+| 3e29e9ec-8a3c-3ff2-8020-a457cc4b59e6 | -7.83906 | -44.01299 | 2024-10-14 12:04:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 383.4 |
+| d31578da-d9a6-3d59-b3b0-ef0c530f18cd | -7.83225 | -43.98489 | 2024-10-14 12:04:00 | TERRA_M-T | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 38.7 |
+| 2881eb7d-1956-3527-969b-e56bed1af364 | -10.05687 | -44.27863 | 2024-10-14 12:04:00 | TERRA_M-T | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 28.3 |
+| afc5fca6-6ebd-33e7-a520-df198193a65e | -7.82913 | -44.00454 | 2024-10-14 12:04:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 295.5 |
 
 
 [Clique aqui para ver as próximas entradas](README131.md)
