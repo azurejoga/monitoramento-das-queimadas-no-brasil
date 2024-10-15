@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 396f1e86-31b3-375d-83e2-3bec40b9a9f8 | -7.96473 | -49.06666 | 2024-10-14 04:44:00 | NPP-375D | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 49384440-6983-3d68-8dad-03c81b76783d | -7.96243 | -49.05846 | 2024-10-14 04:44:00 | NPP-375D | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 58cfcaa6-ccd9-3152-84af-9846856c9e46 | -7.96185 | -49.06228 | 2024-10-14 04:44:00 | NPP-375D | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 61e097d4-92bd-3661-8270-8020081feca4 | -7.95838 | -49.06175 | 2024-10-14 04:44:00 | NPP-375D | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 884fe9e1-a8e8-34bd-bace-f020ff3ccee1 | -7.95549 | -49.05738 | 2024-10-14 04:44:00 | NPP-375D | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ad35f754-fd80-3372-84b5-ca6c6533f67d | -7.72855 | -49.8967 | 2024-10-14 04:44:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3350d23b-5f14-38bf-8b6c-58b44d0c7134 | -7.71564 | -49.30332 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2f7693fb-40c0-36ed-9ed0-8686f25306a5 | -8.88905 | -50.13344 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 93cc7c90-d700-3bfa-926f-ecc6c6ac1c47 | -8.66002 | -49.92345 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 6ec1b5ef-ee5e-3c7b-88e1-c3b5bec35c9d | -8.65662 | -49.92293 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d52c67ef-849a-33b7-95e4-ef023c23ad29 | -8.65607 | -49.92656 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 25924462-7d93-3d0c-8366-b73c85b2e693 | -8.65323 | -49.9224 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 2b31de2e-2ac1-39d4-8ab6-20c92279c5ad | -8.65268 | -49.92604 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 8c574cfc-2727-3535-9a41-470bc080022d | -8.30832 | -50.12177 | 2024-10-14 04:44:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| c8700337-ed5e-30e3-98b0-92370f7fa387 | -8.27425 | -49.09162 | 2024-10-14 04:44:00 | NPP-375D | COUTO MAGALHÃES | TOCANTINS | Brasil | 1706001 | 17 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 00c0c72e-70c6-3297-a261-ecc93c379ce3 | -8.26372 | -49.50253 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 20774d13-5259-348f-95e3-35ff3d3a996c | -8.06357 | -49.39684 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 2aafedc4-d8aa-39d7-b2ee-e5f39fcc5efc | -8.02712 | -49.63723 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 0e77b27c-d775-3bf5-8e4b-b9afbd2fedde | -8.02316 | -49.64037 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b79a0c97-d7e2-3ab6-b1a2-132d9e4f5876 | -7.95198 | -49.39557 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 273dd35b-7350-3980-b0a4-69098b4f2513 | -8.63664 | -48.69603 | 2024-10-14 04:44:00 | NPP-375D | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1fc8132b-0c14-3c75-9785-76413c444ab0 | -9.1629 | -49.82716 | 2024-10-14 04:44:00 | NPP-375D | CASEARA | TOCANTINS | Brasil | 1703909 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 55f31c9a-2b8b-3cc1-a55d-2d7c4486a760 | -8.8896 | -50.12983 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c42008ed-9d54-3ef9-9a6e-d2790b63da9e | -8.74046 | -49.92106 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 59b97334-b43b-30ac-8184-1532b38bcb51 | -8.73707 | -49.92053 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 10ae062e-b63f-3453-a36d-030bdfb6b849 | -8.54235 | -49.71148 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 242638db-214e-3cf9-9fc4-a71f69dbc57d | -8.45036 | -49.71986 | 2024-10-14 04:44:00 | NPP-375D | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e7ddcd52-c322-3ef9-ab17-bcf82fe8a107 | -8.3592 | -49.36024 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4fdd5608-9911-374c-9b99-9e16cb981268 | -8.35576 | -49.35971 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 37cfb7dd-5b8c-3b2a-84c3-c47901a79b00 | -8.33551 | -49.96746 | 2024-10-14 04:44:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a1af8102-1bbd-3395-a917-03e281b98e21 | -8.26029 | -49.50199 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| cfce07d1-fe99-3e04-b344-14a46dadcaea | -8.18227 | -49.9402 | 2024-10-14 04:44:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0c9e9c13-3828-39e8-8016-959f0a1d483a | -8.02768 | -49.63357 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7490ced9-6e74-3ee2-93da-6103adb606e2 | -8.02483 | -49.62937 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ab37892e-c16a-3d3a-b038-b1c8085da1ba | -8.02427 | -49.63303 | 2024-10-14 04:44:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f484a447-416e-3330-b0a8-c057c4a473cd | -9.63878 | -48.94721 | 2024-10-14 04:44:00 | NPP-375D | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| de750a39-acde-34cd-8b52-2b193594a47f | -2.1959 | -48.85266 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| 73fbe052-dd5b-3921-bc5f-2704f7aee882 | -2.19535 | -48.85619 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 3f008589-5cc3-3167-92ff-c57193c9c0bc | -2.18109 | -48.85013 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f9398610-dc58-3c22-a994-8a3b66a5180d | -2.1794 | -48.83902 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 22c5005b-49aa-372e-bd23-f5765fd1ca6e | -2.17604 | -48.8385 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6df042fa-e4cd-3aea-9a8f-e716010a8991 | -2.17549 | -48.84203 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 35e8c70d-a062-3fe6-aac1-ec30f4df4bd3 | -2.17213 | -48.84151 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 9b9c0a20-3d5d-377b-938a-42035dbad684 | -2.1615 | -48.84348 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| fd09f12c-0bba-3d29-ac03-8f4530a29fce | -2.16095 | -48.84701 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 0a7ac2d8-fc58-342c-ae95-b152e8ea6446 | -2.15981 | -48.83237 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1d0ba22a-b44a-3acf-b4c7-ab44d8de1163 | -3.65233 | -49.62327 | 2024-10-14 04:44:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 349fe91d-9fcf-3271-944a-0aee26f7f28a | -3.49483 | -50.49518 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| aca68bfd-b9ba-3370-bb85-6226180e06a4 | -3.49205 | -50.49121 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c8d50c33-161d-3036-b43b-0fec02c49b3c | -3.48873 | -50.49069 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3fdefd5e-9486-34ee-b360-6f4db9863547 | -3.48486 | -50.49363 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 79d56877-b86c-38fb-ba0f-b7f5201720b7 | -3.48432 | -50.49708 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8b1007c6-d2a4-3522-b963-cdaf64a1b9e7 | -3.48377 | -50.50053 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6137bffd-a125-3062-bbd0-997861d0efb7 | -3.48154 | -50.49311 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4d2f2398-768a-338f-b22d-2f8d82de44bc | -3.48099 | -50.49656 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 6e2bbffe-88c2-332c-be61-71750f347d4b | -3.48045 | -50.50002 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3658c395-5c8a-3a0e-8955-48d74e67cae0 | -3.4799 | -50.50347 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 484dd17a-1764-33ee-b6c3-2524e482907a | -3.47822 | -50.49259 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| aa950ab9-c28b-363d-b4b5-7f650704c143 | -3.47767 | -50.49604 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d85340aa-1a70-342f-8746-4d2880729888 | -3.47713 | -50.4995 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 71d7de28-b5bb-3269-9cba-fb1f051eda06 | -3.47658 | -50.50295 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c966a37b-281d-351b-a6e5-eeb2c460d7ca | -3.46685 | -50.60773 | 2024-10-14 04:44:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 400d556c-595a-311b-a802-b8b684d7091f | -3.46353 | -50.6072 | 2024-10-14 04:44:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| e3427eb1-d9e1-3b00-900b-f18ad4b1f327 | -3.46298 | -50.61067 | 2024-10-14 04:44:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 18962e4a-0d21-3d3a-b9f3-19514d336a59 | -3.46021 | -50.60669 | 2024-10-14 04:44:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 796357eb-09d9-3ffb-a439-f25852213ef7 | -3.45966 | -50.61015 | 2024-10-14 04:44:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 12059388-2e98-39a2-ae98-9576e48cbde9 | -3.45688 | -50.60617 | 2024-10-14 04:44:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a11fa164-9b6a-3e69-b718-c0a54d6d4ecd | -3.45601 | -50.31522 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 896e7613-3cbf-3344-9330-a23e1d0f9d00 | -3.45314 | -49.73064 | 2024-10-14 04:44:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 0cb3d405-3f00-3379-a964-b4dbe33f375f | -3.45259 | -49.73411 | 2024-10-14 04:44:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 06a0f932-0030-3398-9bd8-11a1fe28b22b | -3.44948 | -50.1622 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a2fb16a2-a13b-3f72-99bb-a18aaffd2f2f | -3.44894 | -50.16565 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 196d9a21-1e8b-33cc-a824-1085085981c0 | -3.44562 | -50.16514 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6faf706f-dfca-3244-b602-4e6781eabaa2 | -3.43898 | -50.1641 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| cd07b49a-068f-39f1-be24-f6fb3aa9cb6c | -3.42377 | -50.26071 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 0bce59da-0ef8-3cca-9cf7-f1a2aabe8a2d | -3.42323 | -50.26416 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| a7107be8-9d3b-3033-b5ae-50be6a88f754 | -3.40801 | -50.36078 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 6f0b7e2f-cc19-330b-947d-459c3bba7b67 | -3.40469 | -50.36026 | 2024-10-14 04:44:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| dfd4a461-9a6c-3e69-8ac3-d8eb0d729daf | -3.33994 | -49.15134 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 01bab303-c954-3237-8143-ab4f9c6d3d83 | -3.33884 | -49.1584 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 94819cb0-8037-324a-8a53-f887747d6dd0 | -3.3383 | -49.16193 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| fa1a5fc2-945f-34b7-91f7-e0d30c141418 | -3.33823 | -49.14022 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 89c2fe5b-2200-39d0-b3c4-97c554599816 | -3.33768 | -49.14376 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8776e3f8-de11-3a13-a248-90891e280fe9 | -3.33713 | -49.1473 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 09289a98-4560-341a-a4ee-076d613f5cc8 | -3.33707 | -49.12552 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 94da24fc-cb7f-36fe-ba5c-5d6a7bcd458e | -3.33659 | -49.15083 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 34ebb218-4b2f-3f06-bb55-69a18b27eb96 | -3.33604 | -49.15435 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f6f66352-4b35-3948-981d-341ff0103848 | -3.33549 | -49.15788 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 82408bae-c924-3d23-8d4c-32d0507d874d | -3.3352 | -49.12533 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a2d11a5c-2cc9-32c6-b064-a60d74c6fb14 | -3.33494 | -49.16141 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| eae9bd0b-7f18-3a08-8762-b98748c3d67b | -3.30048 | -49.10552 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| fdccc335-fd4b-34d5-9391-226c1e8e2034 | -3.29993 | -49.10905 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 7feaaa4c-1535-3d54-b473-5749a5c39a11 | -3.29937 | -49.11259 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f1406af6-d5fd-3469-95b7-6814144cc626 | -3.29767 | -49.10147 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| effa1201-6f49-3aad-9a2e-04b644189a38 | -3.29712 | -49.10501 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3d207e95-4130-39e6-88b4-7c174db55cce | -3.29657 | -49.10854 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c26df223-b0b8-31c6-b69f-7b088b1df534 | -3.29487 | -49.0974 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| cc42c511-9bdc-323f-8460-3dc0e72c74e3 | -3.29432 | -49.10095 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| bf55b735-1112-379c-ba00-fd20368c4023 | -3.29376 | -49.1045 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 930ab99a-3f53-3b37-86c0-fcb84aaa445a | -3.29207 | -49.09334 | 2024-10-14 04:44:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| a91e458c-9440-3ef4-8d38-d7741878d5b6 | -12.29558 | -46.7263 | 2024-10-15 12:44:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 86.0 |
+| 6f074bb0-f7ed-3de4-9235-30d6d5cdab84 | -12.88445 | -46.92249 | 2024-10-15 12:44:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| e5759651-db53-34de-9101-6af7e49d962c | -2.96509 | -46.95584 | 2024-10-15 12:44:00 | TERRA_M-T | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 9.9 |
+| 7e766d57-297e-3c2b-bed6-acfbc639c473 | -3.07327 | -44.0859 | 2024-10-15 12:44:00 | TERRA_M-T | PRESIDENTE JUSCELINO | MARANHÃO | Brasil | 2109205 | 21 | 33 | nan | nan | nan | Amazônia | 11.0 |
+| 6a048e4e-fa80-38c4-a49b-f8bfe45d5bcf | -3.0747 | -44.07575 | 2024-10-15 12:44:00 | TERRA_M-T | PRESIDENTE JUSCELINO | MARANHÃO | Brasil | 2109205 | 21 | 33 | nan | nan | nan | Amazônia | 22.2 |
+| 00ce6441-6a9d-33d1-9db1-71799c2e946a | -3.35474 | -44.18478 | 2024-10-15 12:44:00 | TERRA_M-T | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 47.7 |
+| ed2e9f6e-2dae-3026-a099-a97275745aaf | -3.8934 | -44.55019 | 2024-10-15 12:44:00 | TERRA_M-T | SÃO MATEUS DO MARANHÃO | MARANHÃO | Brasil | 2111508 | 21 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| ceca2f73-bcd4-3915-97c7-5854a1718335 | -3.93828 | -46.41564 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| 5afdc7ca-b096-381f-a43c-459c0386478b | -3.95345 | -46.43577 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 42.5 |
+| c414c619-6b5d-3050-9f47-3f1ac26f87d2 | -4.22115 | -45.53785 | 2024-10-15 12:44:00 | TERRA_M-T | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| f1a7e52a-4679-37cd-86bc-a722f6119153 | -4.29447 | -44.32406 | 2024-10-15 12:44:00 | TERRA_M-T | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 8a15da02-2718-37c9-8c79-87ecdb673e87 | -4.54196 | -46.57957 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 18.5 |
+| 7e726f20-ecf7-370a-be8d-084f8276bb51 | -13.92366 | -42.75005 | 2024-10-15 12:46:00 | TERRA_M-T | IGAPORÃ | BAHIA | Brasil | 2913408 | 29 | 33 | nan | nan | nan | Caatinga | 25.0 |
+| 1356e45e-50af-315a-bef3-703255ec1732 | -14.84034 | -45.18298 | 2024-10-15 12:46:00 | TERRA_M-T | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 12.8 |
+| f1c277fe-dd03-39d3-837e-088a935b7973 | -15.20788 | -42.46802 | 2024-10-15 12:46:00 | TERRA_M-T | MONTEZUMA | MINAS GERAIS | Brasil | 3143450 | 31 | 33 | nan | nan | nan | Mata Atlântica | 17.2 |
+| 3f762923-daa5-3387-baa2-faef105efc25 | -19.54518 | -56.97493 | 2024-10-15 12:46:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 21.3 |
+| 6a8ce4a4-c3ee-31ee-a18c-b4a0f5f1a8ed | -19.55425 | -56.99915 | 2024-10-15 12:46:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 17.6 |
+| 1f43c008-815c-3349-8c26-37019adafdf8 | -19.55509 | -56.9839 | 2024-10-15 12:46:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.2 |
+| 1160a5ba-feb9-3c4f-837f-6729dbc9d31b | -19.55817 | -56.97758 | 2024-10-15 12:46:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 89.4 |
+| fa6efe5b-13ba-3e1c-880b-bd388d09658d | -19.6224 | -46.88988 | 2024-10-15 12:46:00 | TERRA_M-T | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| 368c2a8d-2f12-3eca-a7d0-8a82e8ca1ae2 | -20.32123 | -44.35456 | 2024-10-15 12:46:00 | TERRA_M-T | RIO MANSO | MINAS GERAIS | Brasil | 3155306 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.7 |
+| 35c010da-6e39-38cc-bdda-73cfa0f3caf9 | -20.32316 | -44.3364 | 2024-10-15 12:46:00 | TERRA_M-T | CRUCILÂNDIA | MINAS GERAIS | Brasil | 3120607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 19.4 |
+| 91bb9b23-714b-324b-84c5-0f4727115082 | -20.32767 | -44.34862 | 2024-10-15 12:46:00 | TERRA_M-T | CRUCILÂNDIA | MINAS GERAIS | Brasil | 3120607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 27.9 |
+| 799ce3c3-a8b6-30dd-9afd-dea57a81d3a7 | -21.45016 | -43.84912 | 2024-10-15 12:46:00 | TERRA_M-T | ANTÔNIO CARLOS | MINAS GERAIS | Brasil | 3102902 | 31 | 33 | nan | nan | nan | Mata Atlântica | 19.7 |
+| cff29797-deaa-36c9-9ac0-1b5c66a38366 | -12.06774 | -54.75375 | 2024-10-15 12:46:00 | TERRA_M-T | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 27.9 |
+| 39e020a1-ffc5-3958-8c9d-d44cd4a8eb4c | -12.384 | -53.12411 | 2024-10-15 12:46:00 | TERRA_M-T | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 100.4 |
+| fb03496e-d70b-3786-8397-675e70d18531 | -15.62821 | -59.96044 | 2024-10-15 12:46:00 | TERRA_M-T | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| 271cf070-49b9-3e44-9b39-11cf20aec1ba | -16.92492 | -57.8404 | 2024-10-15 12:46:00 | TERRA_M-T | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 65.2 |
+| 60395c26-1dbb-3c6d-ac50-01f9d3756a76 | -17.19808 | -56.68167 | 2024-10-15 12:46:00 | TERRA_M-T | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 26.6 |
+| bd27759e-d24a-35b9-88c7-c1efc8b2830d | -10.2632 | -47.2802 | 2024-10-15 12:46:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 213.6 |
+| fba79447-a2d5-342b-9a6c-0047f4699ece | -11.245 | -44.1924 | 2024-10-15 12:46:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 110.0 |
+| 0d27015f-4177-369d-a850-f5b0ecedd94a | -11.2637 | -44.213 | 2024-10-15 12:46:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 117.8 |
+| 5f0c9976-a6c6-3f0e-b1cc-eebb6600ce79 | -20.26036 | -55.42007 | 2024-10-15 12:49:00 | TERRA_M-T | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 33.0 |
+| 01a73642-8ae3-356b-a62a-c8b6560c0bd5 | -21.96474 | -48.41886 | 2024-10-15 12:49:00 | TERRA_M-T | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| 81568c64-5631-3f59-bd19-c7e6644fbccf | -21.96612 | -48.4083 | 2024-10-15 12:49:00 | TERRA_M-T | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| 1fe9b43f-12dc-3eef-95db-a510f1b2f008 | -23.70482 | -46.61129 | 2024-10-15 12:49:00 | TERRA_M-T | DIADEMA | SÃO PAULO | Brasil | 3513801 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.0 |
+| beab6832-04f0-3a67-a89d-167001e864ec | -9.7191 | -46.9419 | 2024-10-15 12:56:01 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 88.5 |
+| 60186467-eff2-3272-a153-a689dd99522a | -10.0443 | -44.1717 | 2024-10-15 12:56:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| a86e703b-75ac-3973-88ca-6f65684f7012 | -10.0439 | -44.195 | 2024-10-15 12:56:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 181.6 |
+| 6e0a6523-b536-3c84-b62e-c44c6d2650d5 | -10.0629 | -44.1925 | 2024-10-15 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 116.5 |
+| c226e633-f25e-3c97-b5d5-749934c78253 | -10.0626 | -44.2158 | 2024-10-15 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 94.4 |
+| ea21c9cd-7e9c-3bc9-a9de-9cd76a18a370 | -10.0355 | -47.3064 | 2024-10-15 12:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 108.8 |
+| ae822878-f2a7-3453-a904-bc4fe79e5df5 | -10.0816 | -44.2133 | 2024-10-15 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 97.6 |
+| 05990ae1-d37f-3d32-8f54-a71ffdae96bb | -10.2632 | -47.2802 | 2024-10-15 12:56:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 226.3 |
+| 8ad2b458-d849-32bb-86a9-9bc56170bc51 | -11.2637 | -44.213 | 2024-10-15 12:56:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 123.7 |
+| 1bc20cec-f1d2-37b6-b553-a27de8a713cb | -11.2641 | -44.1896 | 2024-10-15 12:56:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 107.0 |
+| 1c25180c-151c-3dfa-a09c-158bf474cb9b | -11.245 | -44.1924 | 2024-10-15 12:56:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 116.8 |
+| a1f2e28d-c907-3c8b-8a38-756440711969 | -9.44 | -44.23 | 2024-10-15 13:04:30 | MSG-03 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| d0f248ad-de23-3419-a969-f140e6169835 | -9.44 | -44.18 | 2024-10-15 13:04:30 | MSG-03 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| e11c7bdf-95c1-3c30-9e70-2f7d10270d2b | -9.47 | -44.19 | 2024-10-15 13:04:30 | MSG-03 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 889ec0d8-64f1-3999-8837-d3b3b10c0f4d | -9.01 | -54.5042 | 2024-10-15 13:05:57 | GOES-16 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 102.2 |
+| 0f0f551b-74c3-3ede-86fa-ca1690230ad4 | -9.5185 | -47.8049 | 2024-10-15 13:06:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 100.6 |
+| e57d6f76-3193-3dca-a80b-51eca7e418ad | -9.7191 | -46.9419 | 2024-10-15 13:06:01 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 94.8 |
+| 88463dca-cfe5-3947-b76f-62a7ad57b7df | -9.8883 | -47.0119 | 2024-10-15 13:06:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 104.9 |
+| 52f08ca7-28d6-3612-9f47-d58e704af0e6 | -9.9781 | -47.3573 | 2024-10-15 13:06:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 117.8 |
+| 79249ada-a0d6-32c4-bdd7-46f14e5b24de | -10.0352 | -47.3286 | 2024-10-15 13:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 141.8 |
+| 9b608982-85f7-3f39-bce0-9c3fc568cec0 | -10.0536 | -47.3709 | 2024-10-15 13:06:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 165.2 |
+| 66d22d96-d7b8-3d8f-9f9b-f12ca13abdaa | -10.0355 | -47.3064 | 2024-10-15 13:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 140.4 |
+| 299a9283-9bde-3c9e-a2af-506a50cbfa0f | -10.2632 | -47.2802 | 2024-10-15 13:06:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 191.8 |
+| 37c3bdc2-2b2a-3056-8038-452375d88f29 | -9.5185 | -47.8049 | 2024-10-15 13:16:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 123.8 |
+| 5d369da3-f704-3648-8511-e88d90899017 | -9.5188 | -47.7828 | 2024-10-15 13:16:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 105.7 |
+| a1b8bc4f-fe9c-3887-8caa-17c6efc2341c | -9.7191 | -46.9419 | 2024-10-15 13:16:01 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 84.2 |
+| b13341c3-227b-3fd7-8a56-e47dc6941519 | -9.9777 | -47.3795 | 2024-10-15 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 130.7 |
+| fc29dfad-479f-32ae-bdc3-12c64fe64466 | -9.9983 | -47.2662 | 2024-10-15 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 105.0 |
+| 68ca7353-70f0-3cb9-b938-894f28635eff | -9.997 | -47.3551 | 2024-10-15 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 127.0 |
+| efa95368-9d4c-31d2-a136-2d7f5a5fd69b | -9.8883 | -47.0119 | 2024-10-15 13:16:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 95.5 |
+| 675352af-0801-3a51-88bf-46be49bbefb5 | -9.9781 | -47.3573 | 2024-10-15 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 121.8 |
+| 45b8c335-e2e9-3426-8f57-1e30d9474a32 | -10.0163 | -47.3308 | 2024-10-15 13:16:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 132.8 |
+| 0db7b0a0-2d6f-3d90-8d4d-99c766d42cbe | -10.0166 | -47.3085 | 2024-10-15 13:16:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 126.3 |
+| 9cfe62ed-13df-3eb7-b304-3c591db24152 | -10.0352 | -47.3286 | 2024-10-15 13:16:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 150.6 |
+| 19503709-b830-3194-8364-c396590fc678 | -10.0536 | -47.3709 | 2024-10-15 13:16:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 155.1 |
+| a31bfb55-3969-3268-957a-64b0880b835a | -10.0355 | -47.3064 | 2024-10-15 13:16:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 136.4 |
+| 10fc0d6f-e9d7-36d2-bcb2-74fe230aab81 | -10.2632 | -47.2802 | 2024-10-15 13:16:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 197.9 |
+| 0be748e4-97a0-3ff5-890a-c876dfd88295 | -11.7753 | -44.5101 | 2024-10-15 13:16:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 104.7 |
+| fa4488ba-1081-3dac-9710-f1a219568a8b | -11.7946 | -44.5072 | 2024-10-15 13:16:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 108.1 |
+| 43be9545-009a-3f14-ba1d-8c7c895b5415 | -12.3552 | -45.3255 | 2024-10-15 13:16:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 110.8 |
+| 2cbb83c5-864f-309f-8f34-78456483c771 | -9.01 | -54.5042 | 2024-10-15 13:25:57 | GOES-16 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 113.3 |
+| 3d68e657-3a61-3026-9a42-b550c9084154 | -9.5185 | -47.8049 | 2024-10-15 13:26:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 119.8 |
+| 999db64e-0869-3d98-9e95-a86d5db0cc6e | -9.5188 | -47.7828 | 2024-10-15 13:26:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 108.0 |
+| 8a79a156-5212-32c6-becc-7d87db8ee7cc | -9.7191 | -46.9419 | 2024-10-15 13:26:01 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 83.7 |
+| 90a6f971-13b3-333d-833b-f841f28d76de | -10.0439 | -44.195 | 2024-10-15 13:26:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 123.1 |
+| 432a9437-de0d-34a9-971a-4f55e103dec7 | -9.888 | -47.0342 | 2024-10-15 13:26:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 95.8 |
+| 0cccb614-bde9-3630-800a-708480c0d965 | -9.9781 | -47.3573 | 2024-10-15 13:26:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 124.1 |
+| faaf0434-fd47-339a-9ef2-e7c6a7c8aab2 | -9.8883 | -47.0119 | 2024-10-15 13:26:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 111.7 |
+| 2296548c-9736-3a9a-890a-6eb0a8266f07 | -9.9793 | -47.2684 | 2024-10-15 13:26:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 121.0 |
+| b680c863-0f79-3e1a-8237-7d4aa6188a10 | -9.8694 | -47.0141 | 2024-10-15 13:26:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| b8a0b448-c93e-33d0-961a-eb7c0b759c2c | -9.9777 | -47.3795 | 2024-10-15 13:26:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 126.9 |
+| 5d4db1bf-b348-3c50-a087-d304971072e1 | -10.0443 | -44.1717 | 2024-10-15 13:26:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 90.5 |
+| 628eb846-7fae-3088-ac51-5e85993f2add | -10.0536 | -47.3709 | 2024-10-15 13:26:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 124.9 |
+| 2bd71425-eb0b-3355-95b0-b76b4a6ddc79 | -10.0166 | -47.3085 | 2024-10-15 13:26:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 138.7 |
+| 0e8871d7-7b57-37e7-b793-190fdf60e27e | -10.0355 | -47.3064 | 2024-10-15 13:26:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 156.7 |
+| f09096d3-36d0-394d-9f66-9465b693d057 | -10.0542 | -47.3264 | 2024-10-15 13:26:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 118.5 |
+| 7a342b97-0ffe-3209-a977-eb21012ff13a | -10.0633 | -44.1692 | 2024-10-15 13:26:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 89.9 |
+| fb91283b-a4f1-3d83-bdab-69c60ae6180d | -10.0352 | -47.3286 | 2024-10-15 13:26:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 192.5 |
+| 3687c359-774c-38cf-b801-56db126e770f | -10.0629 | -44.1925 | 2024-10-15 13:26:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 126.9 |
+| f825f793-8989-34b2-9f41-00460dd500e8 | -10.0551 | -47.2598 | 2024-10-15 13:26:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 106.9 |
+| 3f037b00-b957-3c85-8fe6-9a9ddddec7f7 | -10.0548 | -47.282 | 2024-10-15 13:26:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 119.1 |
+| c398f458-9869-320c-8ecf-91f4d2e3496e | -10.0163 | -47.3308 | 2024-10-15 13:26:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 148.8 |
+| 5ef77773-5402-373a-bc3a-770b978f6f1f | -10.0626 | -44.2158 | 2024-10-15 13:26:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 112.7 |
+| afa44e5c-8040-3d6d-9ff7-631d69a54435 | -10.0622 | -44.2391 | 2024-10-15 13:26:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 95.5 |
 
 
 [Clique aqui para ver as próximas entradas](README82.md)

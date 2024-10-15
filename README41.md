@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 59787d42-17fa-3434-854e-9198c9b66f0e | -6.22104 | -44.21691 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 2066f926-a3c2-3edd-a0ca-bb15f81f70d4 | -6.21779 | -44.21276 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 1683df98-fca8-3c0f-9c22-0b237eb0533e | -6.21305 | -44.09157 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 291533ae-330a-3c02-8480-4803b7e2dd0a | -6.19934 | -44.11432 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 695e8785-2807-3bdf-a8c6-bc999592438d | -6.19604 | -44.1138 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 412083ad-2cd2-3cf5-9c7c-6e7b51f2664c | -6.19569 | -44.18105 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 51c42103-4917-39f7-8ad3-49a463a828c6 | -6.19539 | -44.26943 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ff0ae7dd-fc5a-3cf6-9ae4-bbabe38288c1 | -6.17344 | -44.10673 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ef5c6dc8-115a-3cd2-aa4c-37d3f7a685d1 | -6.15598 | -44.15351 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| eb330ef1-0cfa-3003-bd20-39d0ce26f35e | -6.14689 | -44.23352 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 2c306fca-c340-3bf3-9ee5-cb52a2a01808 | -6.14469 | -44.07384 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| dfafdb52-2f2b-3804-87ee-6add93480226 | -6.14138 | -44.07334 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ecf27bb3-a3d5-33f4-b4fa-2be679d6428c | -5.32081 | -44.83333 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| c7063729-1c0f-3987-8c62-01f9220c4f72 | -5.19699 | -44.75671 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 4af30f9c-2088-34fe-9851-bdc9f405f128 | -7.83622 | -43.99907 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| c50e2c8f-afdd-3a1c-a6c3-36d9d97f866a | -5.19645 | -44.76016 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 56cb413a-50da-3ed3-84a1-83399075d6ec | -5.19591 | -44.7636 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 1d922d27-50ce-35bf-8061-a01724ecc30f | -5.19315 | -44.75964 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 157e7ead-2d67-3bc7-a1ef-790b8ffc298c | -5.1926 | -44.76309 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 019f0c03-32b2-3ae9-948c-98f029d70482 | -5.09851 | -44.81896 | 2024-10-14 04:19:00 | NOAA-21 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 57d9256b-003a-37e2-a78b-9aa27c47304e | -5.09521 | -44.81844 | 2024-10-14 04:19:00 | NOAA-21 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| dd1a65a4-1e35-3060-a17a-08ea35251c93 | -5.0134 | -44.64669 | 2024-10-14 04:19:00 | NOAA-21 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fe58efce-6d55-32e4-a9f2-18e03174b3ea | -6.26661 | -43.90068 | 2024-10-14 04:19:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 55492337-a229-3d8c-8b8b-4141b69cd22c | -6.37028 | -44.08828 | 2024-10-14 04:19:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 27088e76-ba59-33cf-ad8e-fa190c03cf5d | -6.36974 | -44.09177 | 2024-10-14 04:19:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| e33cc00a-b27a-30a4-b04a-03c53f637330 | -6.36217 | -44.48692 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 0953f86b-c0ec-3e70-ad2e-b7c47ead028c | -6.35833 | -44.48986 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 694ec912-f837-3178-b221-e13b371e85d2 | -6.26241 | -44.08159 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 802fed71-1217-34d5-99e3-35a546812bcf | -7.92927 | -44.51857 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 00166180-b35c-3a06-985b-5490c184295f | -6.25964 | -44.07761 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| fbf41d2a-b26b-34f5-a133-9e6054777679 | -6.22158 | -44.21346 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 705376a5-35e9-3c9e-a3e7-5884dc32a956 | -6.20974 | -44.09106 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 47093ea7-b7f0-3f64-931b-1821e93bb6be | -6.20872 | -44.11931 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b4bdba84-f21b-323a-acfb-9d55cca883f5 | -6.20265 | -44.11483 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 5d35ecaf-1a04-30e5-9437-b943a4ad2deb | -6.19953 | -44.17811 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| b32779da-44d8-3682-bdd6-de6b95354db8 | -6.19292 | -44.17707 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 3dab106a-0af4-38d8-a73e-3db68ef08a38 | -6.19238 | -44.18052 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| b956f0f1-09cb-3cf1-bca2-5eba889dac90 | -6.17164 | -44.59763 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 3cb50a14-a4d7-3559-84e0-7b494284f458 | -6.17013 | -44.1062 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 03ff6883-9711-3341-90f0-8061c671a9d3 | -6.15544 | -44.15696 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e7356657-83f6-3458-867f-1888f5237521 | -6.15131 | -44.07486 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2f26477e-1d63-352d-a87f-15ad20a6ccb6 | -6.15077 | -44.07834 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 232145f7-4b63-3e78-9c4c-691da515653a | -6.14119 | -44.72696 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 47a8bf32-7cab-38fb-8be7-2e361b6e39fa | -6.092 | -44.86376 | 2024-10-14 04:19:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 548f8b1d-acb8-3096-9fe7-48cb853a050d | -6.0887 | -44.86325 | 2024-10-14 04:19:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 58b8e3b9-b38c-365d-8836-e9349129f3db | -6.05394 | -44.80487 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 728c11da-3aa1-31ac-8e83-6e0f1f3a127e | -6.04147 | -44.01532 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 81878d97-e10e-3cac-8044-b7a6d27b7fcb | -6.02981 | -44.30718 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| e1168a7b-4c13-37bc-875e-2e22e7f61ea5 | -6.0241 | -44.08346 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 6e7c50ee-69be-3cb8-b81a-09db8a75161b | -6.02356 | -44.08691 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ca1992fc-152d-3356-8b85-78dbd3e5d88d | -6.09146 | -44.86721 | 2024-10-14 04:19:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 67f83988-9bf1-36d4-bcd3-68bef9934d41 | -6.0534 | -44.80831 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 5e751936-5de6-3af4-9e54-7b74c107ecfa | -6.02927 | -44.31063 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 9c6d4ad5-f3bb-3655-a145-f95ade2faac6 | -5.96807 | -44.24397 | 2024-10-14 04:19:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 94467855-cb49-3cb6-baf0-fe326bfc1ebc | -5.89124 | -44.95248 | 2024-10-14 04:19:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| fedc40fa-3e9a-37f0-b65c-6f371aa5831f | -5.8907 | -44.95594 | 2024-10-14 04:19:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ad87c525-9cc1-3fb9-aa95-170efa83c5ce | -5.89015 | -44.95939 | 2024-10-14 04:19:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 628c6721-67fa-3ec4-80b4-678e3d315f5b | -5.88913 | -44.31644 | 2024-10-14 04:19:00 | NOAA-21 | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 49e913b0-ba01-3502-8666-3c371618b23b | -5.87711 | -44.04233 | 2024-10-14 04:19:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| d5f93697-ea60-36bc-b6ca-e2417c0aa4d3 | -5.87381 | -44.04181 | 2024-10-14 04:19:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 4d98698d-3025-3963-8756-7149cd98bef9 | -5.87327 | -44.04527 | 2024-10-14 04:19:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 6dcf37fc-daea-3343-9c6d-c22fbf976cf1 | -5.87273 | -44.04873 | 2024-10-14 04:19:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| fafab09a-dd88-3cd1-8e38-0d0ee353c925 | -5.86996 | -44.04477 | 2024-10-14 04:19:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| f7b1e553-ea21-3a24-9e59-a9419d6a6a95 | -5.76112 | -44.06668 | 2024-10-14 04:19:00 | NOAA-21 | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 5b2caae4-1fcf-3e50-9d02-4ef5261fda5a | -5.75781 | -44.06617 | 2024-10-14 04:19:00 | NOAA-21 | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 52344d74-8630-3964-8679-7d5e934fd301 | -5.69454 | -44.23305 | 2024-10-14 04:19:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 58cde8a0-1b28-33b7-9022-9c26e9f1032d | -5.59071 | -44.89398 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 8c18e1ef-4df2-33e0-b9b0-0059a962474c | -5.59017 | -44.89743 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| ce43bda1-66db-392e-bfc6-39035e3fe555 | -5.58687 | -44.89691 | 2024-10-14 04:19:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 094dae86-411f-394a-8aa8-379c0dc0a462 | -5.55569 | -44.53154 | 2024-10-14 04:19:00 | NOAA-21 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 48881737-433e-3f85-83b0-5349c61a844a | -5.52465 | -44.643 | 2024-10-14 04:19:00 | NOAA-21 | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| c2b4d0cd-4a77-3766-83a1-c73fa50650aa | -5.4918 | -44.15844 | 2024-10-14 04:19:00 | NOAA-21 | GOVERNADOR LUIZ ROCHA | MARANHÃO | Brasil | 2104628 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 1521840e-e130-3b1f-94ce-f2f31383257e | -5.40159 | -44.21142 | 2024-10-14 04:19:00 | NOAA-21 | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| c6abf5c6-99bb-3ce9-8170-4fe7b3c8c51e | -6.84394 | -44.38603 | 2024-10-14 04:19:00 | NOAA-21 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 67f68083-8877-3955-84ed-1f834f710895 | -6.84063 | -44.38552 | 2024-10-14 04:19:00 | NOAA-21 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| ad2981d3-3cbd-37e3-a1d4-c9dd892ec0d6 | -6.62643 | -44.69072 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 951e26bf-aa90-3d28-81ef-59539261661d | -6.61653 | -44.68917 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c80885eb-b048-37d1-9e51-c5f5b1deec1d | -6.61256 | -44.47306 | 2024-10-14 04:19:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 741d5ab4-aa5a-3856-a9e0-01b46cf30bfd | -6.51037 | -44.69368 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| fe24f8f5-ded1-34d1-ba8b-a040f0079d18 | -6.50983 | -44.69712 | 2024-10-14 04:19:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 705e4f6d-6e85-3db2-83ac-7534c7eabcd6 | -7.93865 | -44.52359 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| ae46d5c1-3e8a-39e1-883c-3c3cd46cc6e5 | -7.93366 | -44.51218 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 666c8611-6eb1-3073-b861-aee08071400b | -7.93312 | -44.51564 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 1aad076a-be7f-37c6-909d-9f0601ab5f02 | -7.9265 | -44.51461 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 6d25f4be-b8c6-3ae2-85d8-791b0a3bb702 | -7.92596 | -44.51806 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 772c72a1-85ec-3d1b-a5d0-d16e0a7a92a1 | -7.9232 | -44.5141 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0480337d-cae5-3b91-8476-eed0f7d37c8d | -7.92266 | -44.51755 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 4b52ef76-878b-3080-97f7-dc14f1f50940 | -7.92043 | -44.51013 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 0acbe6f9-abdf-372c-842a-2b064bdf01e2 | -7.90849 | -44.51882 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d24a2405-a813-3328-91ce-ab2c5c094414 | -7.90796 | -44.52227 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0cae874a-b004-3f3b-870c-6b37879a4b82 | -7.90519 | -44.5183 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 5bfb4f39-c843-37c1-878b-8cdff460e9df | -7.9029 | -44.48954 | 2024-10-14 04:19:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e52ddd28-c246-3d31-96c9-5630d173ea86 | -7.87006 | -44.00074 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 9dbb57d7-2b25-3098-b037-40a5368d3d8e | -7.8645 | -43.99263 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0122087e-2120-36b2-ab85-39bffeee7d4f | -7.86117 | -43.99211 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5970e39e-3aca-3a66-ba64-8d37f76794b3 | -7.84233 | -44.00365 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a1536156-e6c5-33c5-8534-d87e839b2d00 | -7.84179 | -44.00717 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c274743d-35d4-34f7-955d-1109187d5aaf | -7.84065 | -43.99249 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 95128b6c-15e3-3c86-88a9-d2a43b80cbc2 | -7.83786 | -43.98841 | 2024-10-14 04:19:00 | NOAA-21 | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 66fb1e21-beea-3f06-a793-fd80c3aa6469 | -7.83732 | -43.99198 | 2024-10-14 04:19:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| c3cd4d74-ac80-364a-8211-d9c24464fa21 | -4.54389 | -46.5649 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| b3f6e35a-3d61-3e8e-8d32-6ddf4136a044 | -4.54111 | -46.56086 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 6deaf879-31f3-3394-b4c9-ee15d9679936 | -4.54055 | -46.56437 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| ef3f22d7-2709-3e1d-ae01-cc7c34cecf13 | -4.53721 | -46.5854 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 11.0 |
+| 283c1f53-65b1-3b5c-9a08-4a1158fc9e44 | -4.53443 | -46.58135 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 9fe551c8-1c19-3777-81f7-e772202689e0 | -4.53387 | -46.58487 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 99953544-087e-3374-b464-2fe8e541eaad | -4.37932 | -46.72316 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| dc0b835e-7b83-3add-94e2-bf97465260ee | -4.37326 | -47.28366 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ebbc8abc-e659-395d-a217-da2ccd0cad6c | -4.36421 | -47.27478 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| abd9ce11-4a9f-3e58-a445-c2202f2c9e0f | -4.36418 | -46.75334 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a3f5ed15-2be6-3fe1-bb80-a5499032e5ce | -4.36363 | -47.27845 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 740eb811-82d3-347f-baaa-195bfa2a07ff | -4.36081 | -47.27425 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 00f06fd7-307c-36d3-a214-ce9f46ca20cc | -4.36023 | -47.27791 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a281bd3f-af12-3a05-b3a4-4522f9802081 | -4.35682 | -47.27739 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 90dd78ac-2b80-3d38-9f69-17e5c5b58d93 | -4.33825 | -46.73442 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1f02913c-450d-340a-97ef-d9fe014b6e9a | -4.33321 | -46.70108 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c8696142-411c-35b5-9fdc-7d45cc2a76c2 | -4.32548 | -47.32093 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 01006122-7930-3e0b-942e-1a39d0aaed1d | -4.32207 | -47.32039 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d0ff503f-4117-37aa-953c-514b269c6e67 | -4.32156 | -47.3017 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 69bbb7d0-5abf-3102-a87f-3be4e5535113 | -4.31866 | -47.31985 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 42d1a9c8-7f76-356e-9df2-0558d38c1431 | -4.31389 | -46.2886 | 2024-10-15 04:23:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5b8077c0-aa9c-3cce-92cd-c54543471ccb | -4.31359 | -47.30791 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0383a20d-197f-341d-b287-a6ad937ac821 | -4.2707 | -47.00814 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8731f35a-7384-3b5a-a989-7ec7cb71b1f8 | -4.27013 | -47.01172 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3d3a6180-b5c5-3ad1-81e3-cc97511ce67a | -4.26732 | -47.00761 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0a9f83f4-836d-3c12-a082-5b5a0a3c4689 | -5.00576 | -46.49055 | 2024-10-15 04:23:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f1c1400c-8cfa-34ff-b71d-cdcf3e88c52c | -5.00077 | -46.5005 | 2024-10-15 04:23:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 08aa2001-50c0-36a5-ab20-ab6cd9af5158 | -4.98743 | -46.49839 | 2024-10-15 04:23:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 56903d14-b5e2-3eb2-bbb2-e095ec5b00f8 | -4.9841 | -46.49786 | 2024-10-15 04:23:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b557299c-d65d-3988-84e1-49d8afe417ff | -4.89961 | -46.69214 | 2024-10-15 04:23:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 1f8dfd13-3177-3ef3-b62c-10fc63ac39da | -4.53777 | -46.58187 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 11.0 |
+| e1e6eab7-0dd9-389e-9a5b-104b89b5eaad | -4.52885 | -46.55177 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| e5950081-be3a-30f6-9f16-0756d11cf330 | -4.52774 | -46.55877 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 529381bc-6475-3a15-9c9b-1a07c06a8f0f | -4.52495 | -46.55475 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| ee8a7fbd-fc47-312e-8f2c-92e6668083cc | -4.38155 | -46.73075 | 2024-10-15 04:23:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4f006cf7-f2be-35a1-bc2c-d5aa32ea0073 | -4.33881 | -46.7309 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 18581576-4478-3fbd-98b7-290cf4b7eb49 | -4.33657 | -46.70162 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| c6df5495-ed4a-3a64-990c-04c7b9a5debd | -4.3349 | -46.73389 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 1bd4b7aa-2ae9-3d61-9b7b-6d641647acff | -4.15619 | -46.25694 | 2024-10-15 04:23:00 | NPP-375D | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d9670a52-79c4-3b30-9dfe-aae5a13b122a | -4.15285 | -46.25642 | 2024-10-15 04:23:00 | NPP-375D | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b90b14b5-0494-3529-ba22-a21205f90a68 | -4.0171 | -46.53597 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3050b93c-c7ef-3e26-a963-a86c93c83d3b | -3.95128 | -46.44251 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 15e0a982-6b2c-3954-9a1f-77b4fd9c08eb | -3.94849 | -46.43845 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| af2cbc77-6ea0-3810-9290-e6785963b128 | -3.94515 | -46.43792 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| bee3d659-93c7-3c65-b535-a27f7a8f55ad | -3.94178 | -46.4159 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d9982eba-4854-37ac-aac8-451f03183099 | -3.9351 | -46.41487 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| adc8a2ad-f2c8-37ad-ba1d-a4455b93e831 | -3.93231 | -46.41086 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| d54ac218-f687-3bca-9c9e-16babf6222d6 | -3.93175 | -46.41434 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 26.7 |
+| 34b456fd-411a-3880-b406-f96fe1a8e710 | -3.92897 | -46.41033 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 41b1763d-7474-3d66-9485-95a1b141ff7b | -3.92621 | -46.471 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 852fa956-9caf-395a-9df8-0ac3be5cc674 | -3.92287 | -46.47047 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3e90ce1d-b8a0-3bfb-b553-35c1813dba8d | -3.92009 | -46.46637 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 4e7cc06a-ba1d-31e8-9ce9-c44e10b5efc9 | -3.91619 | -46.44773 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0ec2760c-5769-3c4b-8cc5-69136101b0ff | -3.90279 | -46.42418 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 056a196f-5b77-34e3-8310-929d947a145d | -3.89947 | -46.44514 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 039c333c-d63b-3b94-826a-f670be99380f | -3.89891 | -46.44864 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| bcba0662-4112-3142-9b5e-d1170d54796e | -3.87772 | -46.47411 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a23c670e-081d-3c7c-ab72-e47d51fe8a22 | -3.87716 | -46.47766 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0cdbec2d-69f0-3b13-8fe7-6d3e3dbc33c8 | -3.87381 | -46.47712 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 37151bb0-d08e-3aa3-a532-7b686c239a1e | -3.8716 | -46.46951 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6a27cb42-4f51-35d5-9676-1a0f2cc602f9 | -3.86994 | -46.45843 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8bc21a9f-fdf9-3e76-bdd6-148cd048d8bf | -3.86882 | -46.46545 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f80f277f-cfa6-38c0-96fa-92fe7557b934 | -3.86491 | -46.46844 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ec68f81b-1bde-3105-b606-debc2cd8e1dd | -3.86441 | -46.45766 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 930d5690-3a2c-303f-8349-2de4a7a26362 | -3.86435 | -46.47197 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7d9bc1b8-5a08-3055-b179-c4c6d5ad7a5e | -3.86378 | -46.47551 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 5954aee0-c8fc-3639-b8c2-f69f8a43f456 | -3.86219 | -46.47171 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1897e52a-9598-3b35-9be0-12edbfe137db | -3.85105 | -46.47719 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| db78a6ac-ae0a-35f2-b1f6-4c0e6524f6a7 | -3.84768 | -46.45507 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 8108c460-1094-3712-83b1-bc07f5fe5b95 | -3.8399 | -46.48264 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d8fab08a-639b-37d1-90bb-493b1e688dd9 | -3.83766 | -46.47508 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 80cc3471-a69f-37d9-8b87-4b3d86203d41 | -4.95292 | -47.84979 | 2024-10-15 04:23:00 | NPP-375D | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 343271a9-a9ba-3d2f-bf1a-c96090d6ff25 | -4.93533 | -47.56934 | 2024-10-15 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7f830908-fd16-3cfb-b669-f5a49f4b96b5 | -4.89612 | -47.63874 | 2024-10-15 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 5b0380d7-7276-3e7c-83e6-4d3ca2021223 | -4.89553 | -47.64245 | 2024-10-15 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fede5814-4ade-3573-ad7a-6706a9a763f0 | -4.89211 | -47.64186 | 2024-10-15 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| c09e8e4e-23bb-3795-a3af-bbc3117705a3 | -4.88929 | -47.63758 | 2024-10-15 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| 40c74510-c5e7-34d4-831f-55f2f8340551 | -4.88869 | -47.64128 | 2024-10-15 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| cf6df57b-dd8b-3260-a9fc-359eb6deee01 | -4.50369 | -47.60477 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 39d859f6-352c-30e4-ba35-32ee93786445 | -4.5031 | -47.60846 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ce77334b-7dad-3bbf-b3c8-64a50ecb2474 | -4.47536 | -47.73788 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 498873db-29ee-3abd-a6d8-f631763cc7b6 | -4.47252 | -47.73354 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 7540d6e3-082f-3845-b840-192932164457 | -4.47191 | -47.73733 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 937890a8-93dc-3ea8-8afc-a76898826d63 | -4.38871 | -47.75944 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| d872b1b5-d43b-3544-b199-08852bc263c0 | -4.38525 | -47.75889 | 2024-10-15 04:23:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| d455bfd3-1b32-331c-99c4-7d93e4de2143 | -4.20322 | -46.90241 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8493e092-2c29-3941-b9d0-8a4bf8116394 | -4.20266 | -46.90598 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 49281cff-a3e1-3c41-ae2f-7557d62238e5 | -4.19929 | -46.90542 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 74ddbb16-4c31-34db-b3cf-c04b71baa04f | -4.15385 | -46.86543 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 38dd1dfd-bada-36e9-955b-435f44d50dd7 | -4.15161 | -46.85782 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 19e6e001-08a6-342c-8f52-6b1ef2eea5c8 | -4.15049 | -46.86488 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 190e1fa9-f53a-3347-a28c-362bcf67ae8c | -4.14917 | -47.17786 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c695f92c-0c77-3d66-aeb7-c01e69e68ff9 | -4.02823 | -47.21508 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 85525b3f-7f76-3489-8ae4-54f03084600a | -4.01013 | -47.50589 | 2024-10-15 04:23:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 9fc823d2-478e-3577-b6b4-990a85bfc514 | -4.0067 | -47.50534 | 2024-10-15 04:23:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| ec61f6fb-ea6c-32bb-ba68-8b61d182c4c4 | -4.00611 | -47.50906 | 2024-10-15 04:23:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 020bdfa1-40ac-3c2f-a725-d938b824b075 | -4.00209 | -47.51225 | 2024-10-15 04:23:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 81997a4b-1322-36fa-93c9-ec8b7b905c79 | -3.97123 | -47.10954 | 2024-10-15 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ef8f0f5e-e32d-39ff-9cf2-9b951d0e3d49 | -3.95183 | -46.43899 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 41a640d2-b796-3870-818f-c82cd95d3a3d | -3.9457 | -46.43442 | 2024-10-15 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
 
 
 [Clique aqui para ver as próximas entradas](README42.md)

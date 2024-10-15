@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| df60e0d0-9da8-3a7d-a3fb-dbb147197670 | -12.3997 | -53.1147 | 2024-10-14 01:46:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 94.3 |
-| caa25807-8c9b-335e-a6f7-4c540e17562c | -12.4981 | -63.0148 | 2024-10-14 01:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 69.5 |
-| 1af6758a-2ad9-3c14-ad67-b9c82c675dbd | -12.4983 | -62.9956 | 2024-10-14 01:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 52.6 |
-| 16f16e61-a5de-3a65-aa91-cecdb45bbce0 | -17.0823 | -56.0076 | 2024-10-14 01:46:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 57.8 |
-| e9f12e48-b0ca-3b6f-a664-bc8911a7cc52 | -17.6471 | -56.3084 | 2024-10-14 01:46:46 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.6 |
-| fce06080-d69d-3d29-accf-127f27ea4703 | -18.1905 | -56.8394 | 2024-10-14 01:46:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.4 |
-| c40e11a2-089f-30bf-8853-69d4bd1a5c94 | -2.4344 | -46.9195 | 2024-10-14 01:55:20 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 63.8 |
-| 50b6a2c4-2488-3706-a07c-aa3093c21b0a | -2.4529 | -46.919 | 2024-10-14 01:55:20 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 51.7 |
-| 1955c489-720c-3cd2-aea4-bd70f8e5eff7 | -2.6117 | -49.1198 | 2024-10-14 01:55:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 24.8 |
-| a2191f45-5929-3c66-9563-8d2a94fbb5c0 | -2.6118 | -49.0985 | 2024-10-14 01:55:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 26.7 |
-| 4f9f0973-6ec9-388f-a781-9c66e9c412d6 | -2.6303 | -49.098 | 2024-10-14 01:55:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 25.7 |
-| 9eb109f7-517b-383b-a6a4-7218b4e4c435 | -2.6303 | -49.0767 | 2024-10-14 01:55:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 23.3 |
-| 8f626d4e-a1a9-3a46-947d-3ad9f0fc67a3 | -3.289 | -42.8327 | 2024-10-14 01:55:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 51.6 |
-| c2c3cf3a-2d55-3a60-9a46-44e3fe5844ef | -3.3076 | -42.8553 | 2024-10-14 01:55:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 112.1 |
-| a280e0e1-b242-3e25-8316-31144f678caf | -3.3077 | -42.8318 | 2024-10-14 01:55:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 188.5 |
-| c0af9d53-2d4a-33c8-b2fc-7f1ddad123de | -4.3718 | -37.9175 | 2024-10-14 01:55:31 | GOES-16 | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 69.9 |
-| f3fb779d-a1fb-3ee4-b536-57c601069aa7 | -4.372 | -37.8918 | 2024-10-14 01:55:31 | GOES-16 | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 81.9 |
-| 0245b955-04e6-3585-bf47-350351f0db09 | -4.3428 | -50.5172 | 2024-10-14 01:55:31 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 56.3 |
-| 5d6540c3-8ec3-3d5e-bbd2-0bc385877704 | -6.2141 | -48.329 | 2024-10-14 01:55:42 | GOES-16 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Amazônia | 28.1 |
-| fa1559e2-7f45-321b-8131-db9d2fb9bc1f | -6.3933 | -59.9929 | 2024-10-14 01:55:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 45.3 |
-| c2e5e456-6170-3a99-a6ec-7c3f67321faf | -7.6917 | -43.1854 | 2024-10-14 01:55:50 | GOES-16 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 65.2 |
-| 2be8863e-bf38-36bb-8941-fc98919a9796 | -7.9625 | -49.0607 | 2024-10-14 01:55:52 | GOES-16 | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 98.5 |
-| 5562a4b4-5164-3d7a-bd35-d90ea092fc21 | -7.9418 | -63.6365 | 2024-10-14 01:55:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 54.8 |
-| c11eb568-821e-3aa1-b0f6-4680a1e6203f | -7.9419 | -63.6177 | 2024-10-14 01:55:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 47.5 |
-| fabb1463-c8ac-3d3b-961a-63d20f602b4f | -7.9603 | -63.6359 | 2024-10-14 01:55:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 53.3 |
-| ce33ca48-3013-3352-9ad5-e7e21ba21a55 | -7.9604 | -63.6171 | 2024-10-14 01:55:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 47.4 |
-| 38c6edfb-fdf8-3bb3-8b2e-50cf32c75f54 | -9.1021 | -47.9355 | 2024-10-14 01:55:58 | GOES-16 | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 83.6 |
-| 2a4cc09d-7654-38a7-b866-e2bd43970c7c | -9.1042 | -61.1811 | 2024-10-14 01:55:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 69.7 |
-| 0af13bb2-96c8-39fe-8981-3b7ad3dbf3d5 | -9.1043 | -61.162 | 2024-10-14 01:55:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 81.7 |
-| 3291c188-3214-3792-8a85-c25ab68da5c5 | -10.0622 | -44.2391 | 2024-10-14 01:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 109.9 |
-| 618d3c1b-3830-3c7b-9cce-86365c58710c | -10.0626 | -44.2158 | 2024-10-14 01:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 90.9 |
-| 2975896d-12ea-3349-8df5-cf674b30cc74 | -10.0813 | -44.2366 | 2024-10-14 01:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 171.9 |
-| 44cc9c26-f6a4-3203-9131-bda091938de9 | -10.0816 | -44.2133 | 2024-10-14 01:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 120.8 |
-| 76c7b54b-5a5d-3efd-a8a1-d53a107a34da | -10.0163 | -47.3308 | 2024-10-14 01:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 157.9 |
-| 73fa2669-ce30-31f2-984f-f67b038d14ec | -10.0166 | -47.3085 | 2024-10-14 01:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 92.8 |
-| a8fecf33-64f3-35cd-bcd6-824ae18a3949 | -10.0352 | -47.3286 | 2024-10-14 01:56:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| f86307f9-0287-3601-9a1d-2328e4634421 | -10.4504 | -44.9516 | 2024-10-14 01:56:05 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 83.2 |
-| 5825a255-6ba2-3752-b3f9-e0aff9846d3d | -10.4508 | -44.9285 | 2024-10-14 01:56:05 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 75.3 |
-| 78fa644b-f553-32b0-97e7-ef74adc4bbcb | -10.4918 | -42.433 | 2024-10-14 01:56:05 | GOES-16 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 88.1 |
-| f3cdc6cd-10d2-317f-bf04-903becd5a476 | -10.5118 | -49.7863 | 2024-10-14 01:56:06 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 95.1 |
-| b7d1f4d8-f8ce-3366-90bb-0edeb6c78847 | -10.5307 | -49.7843 | 2024-10-14 01:56:06 | GOES-16 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 94.2 |
-| 4db63645-47be-3c7a-af5b-ef42c6ce0708 | -11.17 | -39.9192 | 2024-10-14 01:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 101.3 |
-| eb9674dc-4d94-3120-8ce5-9ae3a425c258 | -11.1705 | -39.894 | 2024-10-14 01:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 121.6 |
-| 97cdfd8a-acc1-3e92-8cc4-520c61013dc5 | -11.1893 | -39.9159 | 2024-10-14 01:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 59.1 |
-| ad0a215b-f58f-32a6-a0d5-570cf4777c2c | -11.1898 | -39.8906 | 2024-10-14 01:56:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 75.6 |
-| 6a3c6efe-3a83-34d5-aa3e-9eea4f40c329 | -12.3804 | -53.1376 | 2024-10-14 01:56:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 72.4 |
-| 29ce8fb2-f4ae-3533-a553-feb9337e1e59 | -12.3807 | -53.1167 | 2024-10-14 01:56:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 122.0 |
-| 4abcaecc-28a5-3006-b7ad-a60169f47e09 | -12.3994 | -53.1355 | 2024-10-14 01:56:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 84.5 |
-| 356d6a79-c627-3133-b3eb-c3c0cc84f938 | -12.3997 | -53.1147 | 2024-10-14 01:56:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 162.0 |
-| 4b6ccb67-701f-3b10-8f7b-0a0bd01c19cd | -12.4188 | -53.1127 | 2024-10-14 01:56:17 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 53.7 |
-| e9f8f83b-44aa-3ac0-befe-15c8f7a376b5 | -12.4981 | -63.0148 | 2024-10-14 01:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| e33b9922-3079-37f8-9e0c-9b0c0994d4cb | -12.4983 | -62.9956 | 2024-10-14 01:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| 8152af00-1c42-3f7a-b02e-ef66590c92be | -12.517 | -63.0137 | 2024-10-14 01:56:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 52.4 |
-| 2d5144e9-2eeb-3058-9c1a-914247677da1 | -13.1273 | -51.6861 | 2024-10-14 01:56:21 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 75.0 |
-| a81bde2b-1175-347f-ae27-b9d67f57c7fe | -17.0823 | -56.0076 | 2024-10-14 01:56:42 | GOES-16 | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 56.6 |
-| aabed58e-b18b-304c-8db0-33489fc28692 | -17.6471 | -56.3084 | 2024-10-14 01:56:46 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.4 |
-| b5955608-42ee-3c99-b1f8-418258f52f12 | -18.1905 | -56.8394 | 2024-10-14 01:56:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 53.0 |
-| ebe49944-2db5-39d1-b556-88f19c338069 | -18.2562 | -56.478 | 2024-10-14 01:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 110.0 |
-| bca24355-ef01-30c3-ad8e-25f90f141c9c | -18.2555 | -56.5196 | 2024-10-14 01:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 67.5 |
-| 9a92b0f0-2ecd-3277-bec5-e4ac4cd8f3b5 | -18.2559 | -56.4988 | 2024-10-14 01:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 140.6 |
-| d66b1c5d-b063-3fd4-aed8-8333218f77cd | -18.2757 | -56.4962 | 2024-10-14 01:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 75.2 |
-| ef040120-1bbc-3b59-8565-08f2ea2e6efc | -18.2761 | -56.4753 | 2024-10-14 01:56:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 66.5 |
-| 7eb2a17f-568f-3f31-bc09-a0481d0d298a | -22.3685 | -48.6973 | 2024-10-14 01:57:09 | GOES-16 | JAÚ | SÃO PAULO | Brasil | 3525300 | 35 | 33 | nan | nan | nan | Mata Atlântica | 74.5 |
-| 05f9379f-ce7d-39d9-aa4d-7907eb4815a2 | -17.93 | -57.3 | 2024-10-14 02:03:45 | MSG-03 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 0a925506-c913-36e0-84ff-1cc5d071ba06 | -17.9 | -57.28 | 2024-10-14 02:03:45 | MSG-03 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| 23724afc-f438-391a-ba4c-8c322e5bcbce | -10.05 | -44.22 | 2024-10-14 02:04:27 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 1e6fe5e5-88f4-3db7-98ca-84a65e4e4db4 | -2.4344 | -46.9195 | 2024-10-14 02:05:20 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
-| 9a28d2fc-7e05-3dec-85e4-0937de495e22 | -2.4529 | -46.919 | 2024-10-14 02:05:20 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 72.6 |
-| aa3bb9da-b7f6-3fb0-a8f3-71cd8ac66d6f | -2.6117 | -49.1198 | 2024-10-14 02:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 24.5 |
-| 9a27d3ec-e97d-3157-aebc-77fa25832a98 | -2.6118 | -49.0985 | 2024-10-14 02:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 28.8 |
-| 2199665a-5550-3c0c-8dfb-f60b40fae70d | -2.6119 | -49.0772 | 2024-10-14 02:05:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 25.8 |
-| bb448f16-a2d6-3df1-be4c-95e1a10d6e67 | -3.2889 | -42.8561 | 2024-10-14 02:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 30.7 |
-| 1bf04c52-8d6d-3ff4-b1b7-7a29ccf9f9f1 | -3.289 | -42.8327 | 2024-10-14 02:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 58.1 |
-| c98cfcfd-4fb5-38c1-b849-c559035571ee | -3.3076 | -42.8553 | 2024-10-14 02:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| 029b51e5-4e8e-3044-ba01-2af75598a887 | -3.3077 | -42.8318 | 2024-10-14 02:05:25 | GOES-16 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 142.9 |
-| 65d2b86e-ab3c-318d-ba03-f101f4da4a5c | -4.3718 | -37.9175 | 2024-10-14 02:05:31 | GOES-16 | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 68.7 |
-| d3e903d1-a813-37b2-bea3-99d695670c68 | -4.372 | -37.8918 | 2024-10-14 02:05:31 | GOES-16 | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 73.2 |
-| 792d1f61-b113-3521-af3c-cabf4823ec08 | -6.2141 | -48.329 | 2024-10-14 02:05:42 | GOES-16 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Amazônia | 59.6 |
-| 5fbc97e4-58ea-3513-9dc5-382ccf7e433b | -6.3933 | -59.9929 | 2024-10-14 02:05:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 54.4 |
-| 52d76266-d120-3893-8294-0327ed28f36b | -7.9625 | -49.0607 | 2024-10-14 02:05:52 | GOES-16 | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | 71.8 |
-| 19c581af-3022-3669-8525-f5abc58032e6 | -7.9418 | -63.6365 | 2024-10-14 02:05:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 58.0 |
-| 1615267f-9e77-3b5d-aa5f-83dde9665698 | -7.9419 | -63.6177 | 2024-10-14 02:05:52 | GOES-16 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 51.3 |
-| 62de3a51-5e40-3a08-8138-c613bbc41206 | -7.9603 | -63.6359 | 2024-10-14 02:05:52 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 50.3 |
-| eeb1e428-9557-33aa-97f8-49d52a31b0cb | -9.1043 | -61.162 | 2024-10-14 02:05:59 | GOES-16 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 76.2 |
-| bd83ca39-d5d8-36aa-89ea-46cff17b9e6e | -9.4699 | -45.8249 | 2024-10-14 02:06:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 212.9 |
-| c7856508-d5bc-3f98-abf2-ac40452d539c | -9.4702 | -45.8023 | 2024-10-14 02:06:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 106.1 |
-| cd6d416a-6ee4-3544-9086-6744b95ede08 | -9.4888 | -45.8228 | 2024-10-14 02:06:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 157.1 |
-| 0655db78-4861-3030-ada7-c2ef78da6e53 | -10.0619 | -44.2624 | 2024-10-14 02:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 99.4 |
-| 88dcfd58-ccf2-3469-acc2-d21ff0d7cead | -10.0622 | -44.2391 | 2024-10-14 02:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 136.9 |
-| 5ccd66ad-8c5f-380c-ac00-56deb7b5456e | -10.0626 | -44.2158 | 2024-10-14 02:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 88.2 |
-| af2af266-9baf-3bbb-ae7a-d2a12b0ee988 | -10.0809 | -44.2599 | 2024-10-14 02:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 100.2 |
-| 57e5f90b-cc3d-3e77-95be-5a775cf78681 | -10.0813 | -44.2366 | 2024-10-14 02:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 203.3 |
-| 982a90f1-57e3-3765-ab92-4b626578cc7e | -10.0816 | -44.2133 | 2024-10-14 02:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 115.7 |
-| 636912b2-ece2-3467-86ab-1bf86fa32871 | -10.0163 | -47.3308 | 2024-10-14 02:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 123.8 |
-| a1889300-1a6e-3d4f-9da0-af1189002ed4 | -10.0352 | -47.3286 | 2024-10-14 02:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 88.6 |
-| 366c9648-1e94-3eed-9318-1aa3fa3b9d49 | -10.0166 | -47.3085 | 2024-10-14 02:06:03 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 80.8 |
-| 4b0cd4e0-5208-3a92-b583-a5ec43079dce | -10.4313 | -44.9541 | 2024-10-14 02:06:05 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 73.1 |
-| 567d2875-f0be-382d-849f-2fe9bfd91fa7 | -10.4504 | -44.9516 | 2024-10-14 02:06:05 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 59.8 |
-| 55c5f49b-0675-381a-9221-7be1ea385d19 | -10.5307 | -49.7843 | 2024-10-14 02:06:06 | GOES-16 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 109.1 |
-| f27e2a54-a6d1-34ff-bd1d-712b2e9ccd62 | -11.1705 | -39.894 | 2024-10-14 02:06:09 | GOES-16 | QUEIMADAS | BAHIA | Brasil | 2925808 | 29 | 33 | nan | nan | nan | Caatinga | 60.8 |
+| 89d32c06-69d7-31aa-b3c1-dd6784c3d192 | -5.48294 | -42.77486 | 2024-10-15 04:02:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 6.2 |
+| 604f5cca-92ed-3cc7-8a19-91fcb73dd8b1 | -5.48029 | -42.79145 | 2024-10-15 04:02:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 61afa2f5-24de-3c8d-a0f7-7105de65d050 | -5.47961 | -42.79565 | 2024-10-15 04:02:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| b8e69859-c8a2-3f50-ab4b-4e8e1f0307c0 | -5.47511 | -42.7779 | 2024-10-15 04:02:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
+| a5e67fb5-8afe-34cc-902e-d5560574e8f1 | -5.47444 | -42.78203 | 2024-10-15 04:02:00 | NOAA-21 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| 18844049-36cc-3408-b6e3-b97735227874 | -7.1766 | -42.60634 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 950cf9d4-470d-3888-a12b-20608cd5ec1a | -7.17654 | -42.65042 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 236bd27a-18df-3399-bed5-b071d9772a29 | -7.17438 | -42.59803 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 7c2f9e67-c216-3656-8f19-a4113c6ce67b | -7.17239 | -42.65381 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 13091d23-3eb7-3c6e-b04f-b5c57b559fdc | -7.1584 | -42.65158 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| cd2358a0-6d20-3ce5-acaf-62db71d465f0 | -7.14577 | -42.56585 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 45ea1b2e-60b1-3763-a16e-7c59de910e83 | -7.09096 | -42.66092 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
+| 5491ed6b-c908-3bf1-babf-1baa3c0ce846 | -7.08569 | -43.02901 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| b4fe43d2-6566-3be4-9d72-f663594d6356 | -7.08503 | -43.0331 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 85b4cc4c-184a-3325-be05-1bd19ec0bdbd | -7.08437 | -43.0372 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| a291f02d-348b-33ce-84b2-00d50106d7f5 | -7.0843 | -42.6357 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| d53fae49-cdf0-3dab-b983-3cfd29705aef | -7.0808 | -42.63513 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 61a1dd44-9e5b-3998-9f27-05262a770e0c | -7.08052 | -43.01575 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| e0967721-ae8d-3294-9e42-6895d9167adb | -7.07987 | -43.01979 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 530c55c7-a273-3eb9-9255-b0a9e24acb70 | -7.07916 | -42.66713 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 88923bcd-2f31-3990-81d0-cf823b41f500 | -7.0773 | -42.63458 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| d75163af-5a18-38aa-af7a-6d7a1c55d862 | -7.07725 | -43.03605 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 0e034c7e-c575-3f4b-b110-d9ef63e8b74b | -7.07659 | -43.04014 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| d91c9564-a2e5-385c-991b-a8660ab41b60 | -7.07501 | -42.6705 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 560db0d8-f77d-30f2-8286-834a5eefd40e | -7.0738 | -42.63404 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 04b1e069-83df-3f31-936c-a3a9ea6cb13f | -7.07316 | -42.63795 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| cb6a8a8d-dcdc-3512-ac9e-effd73351f21 | -7.07302 | -43.03958 | 2024-10-15 04:02:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 068bfe9d-7044-33d5-b283-6e889c3157bc | -7.07152 | -42.66991 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 5.1 |
+| bc566ba9-e6cf-3cbc-8544-1e6d408d8045 | -7.06931 | -42.66143 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| d4c4c84d-426c-3285-a1be-726b6a01260d | -7.06645 | -42.65694 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 88e90aa3-c3d2-3d84-862a-4fe2fc03e93a | -7.06581 | -42.66085 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| b98dc0e4-3f93-38b3-8a2c-e640f8748ae9 | -7.06136 | -42.64415 | 2024-10-15 04:02:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| b9b38481-7ea4-3e04-8a39-bbd3ecdab024 | -7.06008 | -42.65195 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| c4f9e04a-7c72-30cd-a48f-bec4160c2f19 | -6.80615 | -42.78288 | 2024-10-15 04:02:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| d10703b7-dec7-3c19-9f8f-d492ffe7fd35 | -6.66188 | -42.23324 | 2024-10-15 04:02:00 | NOAA-21 | TANQUE DO PIAUÍ | PIAUÍ | Brasil | 2210979 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 467523a3-ba7c-3504-8485-0e166cf07491 | -6.66128 | -42.23695 | 2024-10-15 04:02:00 | NOAA-21 | TANQUE DO PIAUÍ | PIAUÍ | Brasil | 2210979 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 0a7a94de-9e23-3088-be61-617f650cec7c | -6.63351 | -42.18948 | 2024-10-15 04:02:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| b6baa7cb-dfcc-3dcc-ad38-ba53090eda2d | -6.63006 | -42.18893 | 2024-10-15 04:02:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 7afb1cee-e0a7-3ae4-9a2b-2a69418752fd | -6.59321 | -42.24151 | 2024-10-15 04:02:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 82675ec8-0e17-3c87-b669-38eea918b938 | -6.59259 | -42.24532 | 2024-10-15 04:02:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 915959bd-cee8-324c-bc57-56e045ebdb53 | -7.95619 | -42.67783 | 2024-10-15 04:02:00 | NOAA-21 | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 341bddec-2d43-37f8-b9cc-b75ad67a2bb6 | -7.95335 | -42.67342 | 2024-10-15 04:02:00 | NOAA-21 | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| d6111744-3c27-3e26-965a-8d5b54ce2c8b | -7.94987 | -42.67289 | 2024-10-15 04:02:00 | NOAA-21 | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 33c93cc2-455d-30a7-aeba-42df8b28e462 | -7.76565 | -43.31024 | 2024-10-15 04:02:00 | NOAA-21 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| ebecc547-496c-36b2-a5e7-c9c4329c6e46 | -7.76274 | -43.30556 | 2024-10-15 04:02:00 | NOAA-21 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| e9f985b7-3047-3caa-b870-ff093b3f4f84 | -7.76206 | -43.30968 | 2024-10-15 04:02:00 | NOAA-21 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| a4f8e170-01b7-3aae-b8bc-547b543cb7bb | -7.75915 | -43.30499 | 2024-10-15 04:02:00 | NOAA-21 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 909f3dd1-f03d-31b2-a828-53772513efb1 | -7.73123 | -43.20744 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 0c474448-8362-3f76-8f9d-fb11a123d8ab | -7.73055 | -43.21153 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| fd9ade3e-da94-348f-a649-b4d8209c2a50 | -7.72987 | -43.21561 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 97a6ec9d-350a-33f9-a58d-208265141370 | -7.72919 | -43.21969 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 873cfd9f-5ccc-3412-a310-c0e5d270cde4 | -7.72901 | -43.19874 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| fe471110-c5f8-39ed-a868-8dd0f8477919 | -7.72834 | -43.20279 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| dd5f4686-e4d1-391c-8c46-53f0d24a8da7 | -7.72766 | -43.20687 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 588bc288-adb8-378d-ad58-0093dee93288 | -7.72545 | -43.19817 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 47bcd580-c7b0-3dbf-a812-c489da3b6f95 | -7.72093 | -43.18546 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| ca71d17f-d4fb-3c25-89fc-e2ea0c3fefa9 | -7.70886 | -43.27569 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| 9dbdc67c-252c-37d1-b638-1355b99c07c6 | -7.70817 | -43.27983 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| c2c2c7ab-7735-3d51-8b7c-5298ca3ad052 | -7.7077 | -43.26756 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 199021e4-6820-344d-bbc7-ed0514b05de3 | -7.70637 | -43.27584 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 2adfeff0-f446-3d0d-876f-411233e6cf02 | -7.69732 | -43.17325 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 587d1889-54e3-3c1f-936c-a2e14838d90a | -7.69696 | -43.26587 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| e0fd3f47-275b-3b96-8fbe-078d1808b444 | -7.69666 | -43.1773 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| b13348d6-1f02-340c-8529-18753c3dfcca | -7.69629 | -43.27001 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| d52e82fa-5526-36da-a278-8582df574b79 | -7.69405 | -43.26117 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 1681f0b7-b278-3ce2-968d-3a9c23b428f8 | -7.69338 | -43.2653 | 2024-10-15 04:02:00 | NOAA-21 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| d7744725-f9fe-34ec-a1fb-9a792da59382 | -7.54583 | -42.90162 | 2024-10-15 04:02:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 20dd87b9-03e4-37f1-ad72-c32938b88b3c | -7.54516 | -42.90237 | 2024-10-15 04:02:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 1dd63fc1-374b-39f8-af0a-ef3114b2a875 | -7.4414 | -43.00509 | 2024-10-15 04:02:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 6e221a87-a70f-3072-9c78-21a73c907d1a | -7.44073 | -43.00916 | 2024-10-15 04:02:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| ce4a0275-b672-31e3-8f9d-0a76c6106460 | -7.44005 | -43.01322 | 2024-10-15 04:02:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| e8d21834-0f72-323a-b84b-5be0f6cbfa73 | -7.43938 | -43.01728 | 2024-10-15 04:02:00 | NOAA-21 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 6c783053-3098-3e9b-be6c-0b6c54086089 | -7.32289 | -42.22935 | 2024-10-15 04:02:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 44108317-cfbe-3d5b-ad97-fc8d46c656c3 | -7.28795 | -42.22757 | 2024-10-15 04:02:00 | NOAA-21 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 58e1ac52-c6a4-34e7-a765-439eea901e79 | -8.07201 | -43.82133 | 2024-10-15 04:02:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| e0a2cd21-2d3d-3e70-822c-dc51c4c7d029 | -8.06835 | -43.8207 | 2024-10-15 04:02:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 7b6e393d-c184-345a-a79d-12cbb3c5ce21 | -8.44981 | -42.47412 | 2024-10-15 04:02:00 | NOAA-21 | JOÃO COSTA | PIAUÍ | Brasil | 2205359 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 37793235-4738-30a8-ba71-129f9b4ef634 | -8.34098 | -42.7499 | 2024-10-15 04:02:00 | NOAA-21 | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 15eedc11-1294-36cd-a924-48e2bd3f3125 | -8.34034 | -42.75377 | 2024-10-15 04:02:00 | NOAA-21 | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 6a3d8315-27c7-3597-920e-276b42a8407a | -8.3397 | -42.75764 | 2024-10-15 04:02:00 | NOAA-21 | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 8f97c3f9-0924-3e02-977e-bf5d83e69829 | -8.327 | -42.78007 | 2024-10-15 04:02:00 | NOAA-21 | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 6ca2a537-1812-3652-8aed-e6e600dcb7eb | -8.32352 | -42.77951 | 2024-10-15 04:02:00 | NOAA-21 | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| e46febae-5c51-367c-996b-ce2ec3e8638f | -8.3229 | -42.78341 | 2024-10-15 04:02:00 | NOAA-21 | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 465ac08a-9a65-3e32-a7e5-ed97f00491d7 | -8.14988 | -42.39555 | 2024-10-15 04:02:00 | NOAA-21 | SÃO JOÃO DO PIAUÍ | PIAUÍ | Brasil | 2210003 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 20134c0a-5c36-3316-915c-5b712f0cf12e | -10.57726 | -44.22796 | 2024-10-15 04:02:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| d8124512-163e-30e7-9e92-8353659753a4 | -10.51196 | -44.1951 | 2024-10-15 04:02:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| a8e84b80-c220-3982-b6a3-ab441f368ab7 | -9.83335 | -43.78191 | 2024-10-15 04:02:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 9a59cae2-8291-39a5-b452-cebb2dde0436 | -8.00018 | -44.81413 | 2024-10-15 04:02:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 0120d540-cb0d-3ba2-87b1-5d170141e468 | -9.72257 | -43.85853 | 2024-10-15 04:02:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 7cedce31-fc24-3854-b717-aeb5e6728205 | -9.45389 | -44.18437 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 6b5ec5ed-b4b9-3ab8-bd47-9da6132df2c0 | -9.45165 | -44.15279 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 2e0b6277-3993-3d8c-adae-0dd214cdb2ed | -9.45021 | -44.1838 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 44.2 |
+| 9a0eb779-adea-3312-8f2d-7b9157aa8fdd | -9.44727 | -44.17886 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 44.2 |
+| 21fa43b7-3ab1-3a5a-a0db-f54a84415498 | -9.44433 | -44.17392 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 54f69d61-2414-3e05-bc94-e37d10134ce6 | -9.44359 | -44.1783 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 8fb63c28-5e3a-33a9-9484-7a791826957b | -9.44359 | -44.13353 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| f20e7254-73d2-3b72-b81d-5d27aae1ed94 | -9.43772 | -44.16837 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 5d76c1f7-d202-32b0-8ac8-187b3bedec23 | -9.43699 | -44.17272 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| e8d622a6-b4e7-3e56-849e-c308f6e00431 | -9.43406 | -44.16775 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 205613da-9d71-329d-8647-8a4e8a61b090 | -9.43332 | -44.1721 | 2024-10-15 04:02:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
 
 
 [Clique aqui para ver as próximas entradas](README26.md)
