@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| dd965e0a-c035-3580-85b0-0e3ba81824dc | -3.1099 | -54.2263 | 2024-10-16 01:35:24 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 199.3 |
-| 6b8ba009-0e94-308e-bd0c-20e160c36d36 | -3.11 | -54.2063 | 2024-10-16 01:35:24 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 83.1 |
-| d554209f-8752-3126-85b8-6b2ec81e75e5 | -3.1282 | -54.2459 | 2024-10-16 01:35:24 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 102.4 |
-| 38c1db70-da52-362b-9209-869660218a89 | -3.1283 | -54.2259 | 2024-10-16 01:35:24 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 183.2 |
-| ad7801ab-778a-3462-b1b2-d97c2815e35b | -3.2862 | -47.133 | 2024-10-16 01:35:24 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 75.7 |
-| e0104955-27c3-3dbc-9dc2-fafd600bc8a8 | -3.2863 | -47.1111 | 2024-10-16 01:35:24 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| 5137c744-75a3-3b5e-b311-a5bf7a586172 | -3.288 | -50.9321 | 2024-10-16 01:35:24 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| 6868c6cd-a11b-388b-bdf9-82fefff83e6b | -3.4104 | -44.5599 | 2024-10-16 01:35:25 | GOES-16 | ANAJATUBA | MARANHÃO | Brasil | 2100709 | 21 | 33 | nan | nan | nan | Amazônia | 128.6 |
-| e73c5642-930e-388d-a311-81718c9d9677 | -12.5093 | -63.018101 | 2024-10-16 01:35:27 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b339395a-2262-3d32-b143-e6cd18dddef3 | -12.5112 | -63.027 | 2024-10-16 01:35:27 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| cd3cc785-eece-3fb1-83b5-1fee8256c1bd | -12.7896 | -62.938999 | 2024-10-16 01:35:29 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5dc53f4c-b32e-3053-b218-dc2444461bc9 | -12.7877 | -62.930099 | 2024-10-16 01:35:29 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0367d3a9-530c-3a3b-91ce-7918bcc554e9 | -12.7602 | -62.9454 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b16e50f6-cfff-3dc5-9b24-e59551870575 | -12.7583 | -62.936501 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0d4a16b7-b337-3bee-84f8-ef468a36ad6d | -12.7719 | -62.952202 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 25541d26-b5cc-3362-bcd1-984ffcb61a44 | -12.77 | -62.943298 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c413dc47-d7c4-3bdb-89ee-a1d15ab52a0b | -12.7681 | -62.934399 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 798caa73-9dda-30bf-9b29-e618cda19929 | -12.7817 | -62.9501 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 068b93c3-193f-31a2-977b-16239688e751 | -12.7798 | -62.9412 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| cc6b80d4-ed4e-30b6-97ca-bebf312c4ce2 | -12.7779 | -62.932301 | 2024-10-16 01:35:30 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f56591be-2d75-31e1-a4e3-2e2a3cf0e0e4 | -12.5015 | -63.029099 | 2024-10-16 01:35:34 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ab78ddfd-2695-30d0-b758-5b4661c93321 | -12.4996 | -63.020199 | 2024-10-16 01:35:34 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f157a27c-ee9e-344e-ab78-01d7ed02580e | -12.4764 | -64.026199 | 2024-10-16 01:35:38 | METOP-C | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a39773cb-7fca-3bfc-b19f-7414404ed9a4 | -11.9383 | -64.873199 | 2024-10-16 01:35:42 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1f1a4332-9e47-3768-be2c-477269b97e32 | -11.7627 | -64.083 | 2024-10-16 01:35:42 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 31ca1092-da47-37b5-a102-acf295be58ec | -11.9285 | -64.875198 | 2024-10-16 01:35:42 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 039763fb-daa8-3acf-8802-5206ef804194 | -11.8866 | -64.919098 | 2024-10-16 01:35:43 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ab293ef9-56bd-32e6-8331-90b0203dcafd | -11.8889 | -64.930397 | 2024-10-16 01:35:43 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| bf880221-6e34-3551-a518-358d7fb1cf86 | -11.7392 | -64.798798 | 2024-10-16 01:35:45 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b503e257-fa61-3ecd-88ac-7488ddad8683 | -11.7414 | -64.809898 | 2024-10-16 01:35:45 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7dc3cf51-d1ed-3a98-af67-337afd63f836 | -11.7142 | -65.218697 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b2b43a9d-b4fd-317c-9c1b-8d86e3a7be8b | -11.6996 | -65.197304 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fb52ccc4-ac9e-3863-bb6b-142ece19f395 | -11.702 | -65.209 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 0d7a28a9-821a-3842-a665-aa6305c4ca47 | -11.7044 | -65.220703 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a3bbf940-26a2-3d53-b196-6f6d126fe43e | -11.7068 | -65.232399 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| eeee931c-6bb3-339c-af95-ee04a991eda7 | -11.6898 | -65.199402 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 60f4ce64-e9a7-3cc4-8d86-1fe594e2e1e4 | -11.6922 | -65.211098 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a8f8d238-4821-3930-88d3-c158d75a6923 | -11.6947 | -65.222801 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| fcff5622-8dea-3ba4-86e7-c9f00473f472 | -11.6971 | -65.234497 | 2024-10-16 01:35:47 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6711d983-eace-3b98-b19e-93c6b8318f1e | -11.6874 | -65.236504 | 2024-10-16 01:35:55 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1b800c54-f31a-37d6-8b47-539531940b6a | -11.685 | -65.2248 | 2024-10-16 01:35:55 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 3aed9a24-a66f-3350-8b30-a1661b25442e | -11.6825 | -65.213097 | 2024-10-16 01:35:55 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 42d565d8-2f91-3d1a-94e5-02b1be1edf59 | -11.6801 | -65.201401 | 2024-10-16 01:35:55 | METOP-C | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 6b65a970-25b0-3804-8515-189b53e8ab09 | -9.1709 | -46.9792 | 2024-10-16 01:35:58 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 82.4 |
-| 158128bc-9741-3d39-9be0-376d3b763d88 | -10.8224 | -49.2343 | 2024-10-16 01:36:07 | GOES-16 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 68.6 |
-| 06f57022-438a-3d9f-a6d2-dad3f1fc66de | -10.8413 | -49.2322 | 2024-10-16 01:36:07 | GOES-16 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| e48d7050-f406-3909-9080-2ce127ab52a5 | -11.6915 | -65.2432 | 2024-10-16 01:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 43.0 |
-| a8966973-caaa-38c7-99d2-7ff2b2564ba9 | -11.6917 | -65.2243 | 2024-10-16 01:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 58.0 |
-| ea0f1c23-4d0e-3736-ab33-512a3daca426 | -11.6918 | -65.2054 | 2024-10-16 01:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 44.7 |
-| fdfd4286-4f4c-3aaa-9057-d5889a9de66e | -11.7103 | -65.2424 | 2024-10-16 01:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 48.8 |
-| 15b1e0b5-7a50-318b-b6cd-1af58d9406d4 | -11.7104 | -65.2235 | 2024-10-16 01:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| 886b0a45-bb05-3a41-ac45-2121dd0b7bd5 | -11.7106 | -65.2046 | 2024-10-16 01:36:13 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 46.9 |
-| 88b2c43b-b502-3eb5-8ba7-481400871c88 | -12.0427 | -46.7161 | 2024-10-16 01:36:14 | GOES-16 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 87.0 |
-| c892cea5-d731-35cd-97aa-3ad0c485c269 | -12.0431 | -46.6935 | 2024-10-16 01:36:14 | GOES-16 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 78.9 |
-| 7b1dbb49-075b-3c38-a8d0-357e19775352 | -12.0619 | -46.7134 | 2024-10-16 01:36:14 | GOES-16 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 100.1 |
-| 3fed1b8f-3958-3b25-a4f8-adc7d2419edd | -12.0623 | -46.6908 | 2024-10-16 01:36:14 | GOES-16 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 92.4 |
-| 3d605166-24d2-3aa9-b22c-aea10eaf7b0f | -12.4925 | -47.2818 | 2024-10-16 01:36:16 | GOES-16 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| bec24474-ad88-39e9-8429-0a9b4d6f7b40 | -12.3793 | -63.7294 | 2024-10-16 01:36:17 | GOES-16 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 56.8 |
-| 877fa172-eba3-3c63-a900-2f877aac83ce | -12.3795 | -63.7103 | 2024-10-16 01:36:17 | GOES-16 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 87.7 |
-| c71d8d35-f338-38ad-9b87-4d09769e0499 | -12.3983 | -63.7093 | 2024-10-16 01:36:17 | GOES-16 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 88.9 |
-| 23a4aed2-3242-36fa-810e-ed731e133e32 | -12.4958 | -63.3024 | 2024-10-16 01:36:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| e0ced1df-cbb5-309d-a0f9-7d60d9cf6935 | -12.4979 | -63.034 | 2024-10-16 01:36:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 71.3 |
-| 8ef0ab65-2432-378b-967e-b323c0ecd5d4 | -12.4981 | -63.0148 | 2024-10-16 01:36:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 76.0 |
-| 62b700a9-4efc-32d7-be20-8fee0d66379b | -12.5147 | -63.3014 | 2024-10-16 01:36:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 59.8 |
-| b82db895-a396-3789-9b99-163bbb34f756 | -12.5168 | -63.0329 | 2024-10-16 01:36:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 104.5 |
-| 9313baf1-cc11-385d-bacd-3470309fc396 | -12.517 | -63.0137 | 2024-10-16 01:36:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 116.2 |
-| 8b90c96b-436e-3ad0-b1f3-6c7b0bc87e2a | -10.6249 | -67.841202 | 2024-10-16 01:36:21 | METOP-C | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | nan |
-| 179f3fdb-1915-3615-8a3a-9be351e76cb5 | -10.6215 | -67.824303 | 2024-10-16 01:36:21 | METOP-C | CAPIXABA | ACRE | Brasil | 1200179 | 12 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e3f6fe8-3e74-3db1-b549-a4d569d809ae | -9.1672 | -65.3862 | 2024-10-16 01:36:29 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| deddd761-0e74-3737-8492-a9a65592f4ed | -9.1696 | -65.397102 | 2024-10-16 01:36:29 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 181d2a6f-63bc-3ce7-a242-ac429e178099 | -9.1598 | -65.3992 | 2024-10-16 01:36:29 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 06ee0a3f-0964-3f16-85c5-d194b7b49d8c | -8.58 | -63.245201 | 2024-10-16 01:36:39 | METOP-C | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 861ba7f8-eb94-3f39-8705-a9bcf0ade2f2 | -17.2439 | -42.6575 | 2024-10-16 01:36:41 | GOES-16 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 83.5 |
-| 4625f5b2-e3e6-3421-8de5-3d682711859d | -17.2639 | -42.6527 | 2024-10-16 01:36:41 | GOES-16 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 70.9 |
-| 4629ed58-8612-37a5-b604-995bcb040cf9 | -17.3041 | -42.643 | 2024-10-16 01:36:41 | GOES-16 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 80.0 |
-| dfc11a82-ce87-346a-9e92-8658d313add4 | -17.0204 | -57.3948 | 2024-10-16 01:36:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 64.5 |
-| 971f94db-af20-39ab-ba81-938c1eb4ea3e | -17.1754 | -57.4995 | 2024-10-16 01:36:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 66.9 |
-| fcbc6611-2658-34ba-a34a-9828bfbca724 | -17.1951 | -57.4972 | 2024-10-16 01:36:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 75.0 |
-| 215f565a-2288-3a2b-8fa7-5928f7839fb5 | -17.1954 | -57.4767 | 2024-10-16 01:36:43 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 58.3 |
-| cd332d44-eed8-301a-b2fd-8967e641539e | -17.2081 | -56.6946 | 2024-10-16 01:36:43 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 79.3 |
-| a31af35a-11d9-3b1c-a5db-a343469365da | -17.2177 | -57.3102 | 2024-10-16 01:36:43 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 88.8 |
-| f6245516-fa62-3ae5-acd0-1f5f89a3f04a | -17.8249 | -57.4425 | 2024-10-16 01:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 63.9 |
-| fcb5fa71-4c2e-3e81-86a7-cac722c0110f | -17.9633 | -57.4255 | 2024-10-16 01:36:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 82.7 |
-| d2052686-7326-3f98-866f-67cbad1fab0e | -18.2544 | -56.5821 | 2024-10-16 01:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 112.4 |
-| 7d266fa4-a88a-3e25-aca9-b9b09269f0d2 | -18.2739 | -56.6003 | 2024-10-16 01:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 77.3 |
-| 6b2a691a-be0b-36c2-b042-b64db753f24b | -18.2742 | -56.5795 | 2024-10-16 01:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 165.3 |
-| 0484f4f2-9e20-384d-ab84-e77ebecbf999 | -18.2746 | -56.5587 | 2024-10-16 01:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 95.8 |
-| df976327-3c8b-38eb-ad8b-35723ddc9ca0 | -18.2941 | -56.5769 | 2024-10-16 01:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 81.3 |
-| 44237460-8f72-3a10-a73d-a1f7284eac75 | -3.2228 | -48.931499 | 2024-10-16 01:37:03 | METOP-C | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| eb0d717d-2758-327b-9c29-e365ae80869f | -3.1151 | -53.7276 | 2024-10-16 01:37:24 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| bbb5d702-d5bd-3130-a7ed-48592c4f3051 | -3.1189 | -53.7435 | 2024-10-16 01:37:24 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 24f3eb79-401f-358c-a214-7cc005c5a258 | -3.1312 | -54.2248 | 2024-10-16 01:37:26 | METOP-C | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 656bf30a-6007-356c-9c03-f86341a0b43e | -3.118 | -54.212299 | 2024-10-16 01:37:26 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c73d84f8-9cba-303c-b7e7-2c6282db62ba | -3.1215 | -54.227001 | 2024-10-16 01:37:26 | METOP-C | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 75d53895-5495-3b05-9703-eed4826d0c34 | -3.125 | -54.241699 | 2024-10-16 01:37:26 | METOP-C | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4d88e0fe-8f51-3bad-b1bf-2219a05ab284 | -3.1082 | -54.2146 | 2024-10-16 01:37:26 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b46bf332-7ca5-3d0e-9e0d-e12efcb9b9d4 | -3.1118 | -54.229301 | 2024-10-16 01:37:26 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2f20eec2-48fb-3507-be6f-715da5e8f424 | -3.1153 | -54.243999 | 2024-10-16 01:37:26 | METOP-C | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ec74d240-0976-3dd6-919f-a5941d2af2a5 | -2.0566 | -56.639301 | 2024-10-16 01:37:52 | METOP-C | FARO | PARÁ | Brasil | 1503002 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 620707d4-f76d-3675-922c-15cd04ac5c5e | -1.7836 | -55.999802 | 2024-10-16 01:37:54 | METOP-C | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0729d609-377b-3e07-850b-517dd68cf1f7 | -3.93353 | -42.41698 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 175fc9f5-4b0a-3e09-abb5-924f045ad889 | -3.93323 | -42.41025 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| 385b0f83-d000-3308-8d09-8e1157d3cae0 | -3.93283 | -42.42128 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| bf6e3a0a-6ce4-3d83-bb12-943d4dd88bc7 | -3.9325 | -42.41454 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 1d760b2c-22e5-3b4b-a1a9-00b5355a6e9a | -3.93214 | -42.42559 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 81e5e5c0-68c6-3124-a706-77d5802ed5a6 | -3.93178 | -42.41882 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 8f685969-b82d-3865-8406-102c876a7412 | -3.93119 | -42.40335 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 70176f31-5501-3817-91b9-8e9acf284bf1 | -3.93105 | -42.42311 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| dbc295e5-7cc9-37d9-8b76-cd8e2c4ddc1c | -3.9305 | -42.40765 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 7feed2eb-d85f-350e-bbaf-a57c398c161f | -3.93032 | -42.4274 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 715672b6-fa9b-3a87-b4db-941f3393d41f | -3.9298 | -42.41195 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 96087745-569a-3642-9da5-580bd96f54b8 | -3.92911 | -42.41625 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 78a50c77-9eab-3f56-b9a7-d234cbb21429 | -3.92841 | -42.42055 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 61a6ab11-71bc-38ef-b51b-d50504f69b3c | -3.92772 | -42.42485 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 1e0aee59-4d80-377b-803b-cbd924dcecf8 | -3.92702 | -42.42916 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 4b8fe20c-a953-33e9-abcb-336b5ccb278c | -3.92678 | -42.40261 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| a3df6425-e5f7-319d-87db-02e2aae48425 | -3.92632 | -42.43348 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 77e34dc5-13a8-3f05-8d5f-ed85e6b51072 | -3.92608 | -42.40691 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 3009110e-10c5-34bb-8cac-8dbb066d98de | -3.92539 | -42.41121 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 47e805d8-83b7-3361-b639-41f78a1c408e | -3.92469 | -42.41551 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 42db55ae-62d3-367a-ae19-3c85530e1306 | -3.92399 | -42.41982 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 4220d5cb-8a2b-3162-9c01-dde76a7c5268 | -3.92329 | -42.42412 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| c877354c-98aa-3fe2-93a8-453f8575b389 | -3.92306 | -42.39757 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 7b183721-141c-3c1f-8ec4-a45510931c7c | -3.9226 | -42.42843 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| d4e22b27-4773-3830-8773-9bd28db09dec | -3.92237 | -42.40187 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| b4867526-1757-31c1-8607-550c8669fa75 | -3.9219 | -42.43274 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| ab7f0f10-349f-34b7-9d73-aceea84f4822 | -3.92167 | -42.40617 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 11.9 |
+| bd05f2b7-cb50-33e0-8137-ddc615d6f003 | -3.92097 | -42.41047 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 11.9 |
+| b58eb9bc-59ef-3203-b266-50c217bbedb6 | -3.92027 | -42.41478 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| e72b9487-4189-3f83-beb3-9f875c56a5c9 | -3.91957 | -42.41908 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| 7aaf6b48-4468-36cd-87cc-601465704277 | -3.91887 | -42.42338 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 47aefa4f-e36b-32a6-93c0-312da997db40 | -3.91865 | -42.39684 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 5b2330a7-557d-3c9e-bd04-c40c1f90f363 | -3.91817 | -42.42768 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 07eb4d17-449a-3da7-8b76-4274781b3f75 | -3.91795 | -42.40114 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 4d6006ca-8653-3e77-9831-7ac7d1eaf5c0 | -3.91747 | -42.43199 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| d9fbe98b-4f40-354b-a4eb-71fd21da65b8 | -3.91725 | -42.40545 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 11.9 |
+| e9f9331f-44e9-3aa0-9872-0f90c91bcff7 | -3.91677 | -42.43631 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 10f1e5f6-19e1-38cd-8743-b95d49f9b79b | -3.91655 | -42.40975 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 11.9 |
+| dee821fe-a1fc-3dcc-b6b9-be29cd675da0 | -3.91585 | -42.41404 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| e2e9d0cd-f174-3aad-b3b7-4046ee320300 | -3.91515 | -42.41833 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| d68f6463-837d-3bf4-b956-3f1fdb7182f6 | -3.91445 | -42.42263 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| 55d5dd60-246c-37e5-a50b-ae9eef4382a6 | -3.91375 | -42.42694 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| f6971ca6-4c28-33dd-8011-ec696a3f9eb1 | -3.91353 | -42.40042 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| b05526df-2326-3100-a456-8c8b7c594a48 | -3.91305 | -42.43125 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| cd4056a1-15e4-354b-9ceb-2cee20f8a6aa | -3.91283 | -42.40473 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| eab75e4f-0141-3c5c-af50-a3a8fb42998e | -3.91213 | -42.40902 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 0d69653f-2ba8-309a-9df6-1e23757710e4 | -3.91143 | -42.41331 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 8bf1a4f2-6225-35b3-ba68-166b21845a02 | -3.91073 | -42.4176 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 0cb4b857-6a77-37b3-ab3b-cbfcf833e48a | -3.91003 | -42.42189 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 37ee5c25-a28d-3d2d-84e8-e3dd529492a8 | -3.90933 | -42.4262 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| d724b20b-8474-3688-be50-9fb54a99a5ff | -3.90862 | -42.43052 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| c5bbb384-2be6-31fe-a3ad-4b58b71ec5b0 | -3.90791 | -42.43487 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| e4fe17dc-093d-30cc-a6a8-405674268187 | -3.90701 | -42.41258 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| d730ae1b-cbd6-3f48-9dfb-aa9424395c0b | -3.90631 | -42.41687 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 89e1939b-a215-3ced-8076-f06a0d4d1ea2 | -3.90259 | -42.41185 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 3a1f6404-2f30-39d2-8906-ba116e03dd2e | -3.90188 | -42.41616 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 83fde3f0-9a86-35a1-bdfe-c81a355a969d | -3.90118 | -42.42046 | 2024-10-17 03:47:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
+| ca1a58fe-d152-34b5-bbbd-957c8e602a89 | -3.66134 | -42.26524 | 2024-10-17 03:47:00 | NPP-375D | MORRO DO CHAPÉU DO PIAUÍ | PIAUÍ | Brasil | 2206670 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 4ec6e233-3a52-39f4-930c-88bac6d1cfaf | -5.07636 | -42.56679 | 2024-10-17 03:47:00 | NPP-375D | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 9d18b0c0-16bd-3c3b-8f2c-2c1463c39492 | -5.07199 | -42.566 | 2024-10-17 03:47:00 | NPP-375D | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 2f0766ec-27e2-3c4d-bd21-67028a54ab40 | -9.29985 | -43.27224 | 2024-10-17 03:47:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 56e9a650-2727-392e-8f38-b6a32b08e234 | -9.29799 | -43.26879 | 2024-10-17 03:47:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 1657cd65-f3a7-3663-97af-b4172e4a34df | -9.2973 | -43.27286 | 2024-10-17 03:47:00 | NPP-375D | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| c1f467a0-2354-3a77-99c0-eea988ca48f6 | -3.51852 | -43.23456 | 2024-10-17 03:47:00 | NPP-375D | ANAPURUS | MARANHÃO | Brasil | 2100808 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| fc1057b2-6add-385d-827a-4b9fe9894da9 | -3.5177 | -43.2395 | 2024-10-17 03:47:00 | NPP-375D | ANAPURUS | MARANHÃO | Brasil | 2100808 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 6e2d4edd-ec02-31fc-af7c-8c29abe8f71c | -5.02755 | -43.66035 | 2024-10-17 03:47:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 3d51657d-bd7e-371b-8d5e-623219c97e37 | -5.02673 | -43.66535 | 2024-10-17 03:47:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| b8865c5a-72c0-3f57-91be-95334111345d | -5.02307 | -43.66091 | 2024-10-17 03:47:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 6237a104-55e8-3d40-9c86-2a863dee1a04 | -5.02283 | -43.65952 | 2024-10-17 03:47:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| bc59b7e2-8578-3c96-8140-cc6dd307dcbe | -5.0222 | -43.66589 | 2024-10-17 03:47:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 0d4334d9-7d19-37e5-8e48-a3ef971a6fca | -5.02201 | -43.6645 | 2024-10-17 03:47:00 | NPP-375D | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 5bf2028d-1539-303e-a9a7-2a219a8dd0a0 | -4.13345 | -43.08798 | 2024-10-17 03:47:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0ddf4361-e498-358f-87a0-b07efa8f40d3 | -4.12885 | -43.08716 | 2024-10-17 03:47:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1b4c9ea5-3220-3604-aa76-3ac1c40ee6d1 | -4.12807 | -43.09194 | 2024-10-17 03:47:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 947774aa-7d5c-3839-a459-b68bd6347158 | -4.04683 | -43.23651 | 2024-10-17 03:47:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 54d4d274-8641-32c4-a6f3-1a7c46cec133 | -4.04602 | -43.24131 | 2024-10-17 03:47:00 | NPP-375D | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 645d5a29-bcb1-3f0d-a424-fc75edd0e526 | -4.04135 | -43.24051 | 2024-10-17 03:47:00 | NPP-375D | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c7c5f8c7-71cd-3e9b-9414-e01af71f580c | -3.85849 | -43.24669 | 2024-10-17 03:47:00 | NPP-375D | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 40d06920-2917-39a3-978a-df90355850e2 | -7.86524 | -45.34948 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| b4b8cef5-aed7-37dd-a8de-f49946f94d48 | -7.8647 | -45.35243 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| 8e6c22e7-50cd-36c6-9a15-5a48e33122eb | -7.86363 | -45.35833 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| d3b1ec51-82dc-3e28-a0df-ac3720dc6bf8 | -7.8631 | -45.36129 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 5334db51-b293-304e-a695-deb13f9372e4 | -7.86255 | -45.36429 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 65e35e29-6c7e-35a4-a58a-c72a2b414794 | -7.86034 | -45.35677 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| c7b8d0c8-838e-3e9a-be62-f0d10a36a7b2 | -7.8593 | -45.36272 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c264d033-5fec-3429-8f20-99fdce093414 | -8.50752 | -45.45973 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 3ee29891-722a-3c1f-86dc-a03771647a9e | -8.50251 | -45.45867 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 87a22706-6003-35d3-840c-5a6be5f25a40 | -8.19081 | -44.10981 | 2024-10-17 03:47:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d7f6b52f-aa38-3f23-8169-773c6554f1a8 | -8.1883 | -44.10794 | 2024-10-17 03:47:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d5486625-b5ec-3f8e-9f62-3cb3b951b68d | -8.18752 | -44.11253 | 2024-10-17 03:47:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 0a197c3f-f13a-3fe5-82e7-76cea2272974 | -8.18614 | -44.10929 | 2024-10-17 03:47:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| a118f2c6-4333-333a-ad42-411a093ada3d | -8.18365 | -44.10732 | 2024-10-17 03:47:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 5855b6af-5fb9-3bd0-ad00-ce0ced449551 | -7.86922 | -45.3563 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| f0d2548e-075d-30f9-b616-4b129db70ab9 | -7.86868 | -45.35927 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 312e085c-8756-3dfa-a674-abe94ceecfbe | -7.86815 | -45.36224 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d67e75fe-ed80-349c-a520-824616dd4e4a | -7.86085 | -45.35381 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 54891300-5c67-3ea4-ad1d-d1a93f53ce46 | -7.87029 | -45.35041 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 15c42e55-ab42-31ce-a5f3-31b5067609a1 | -7.8676 | -45.36527 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 86b968df-d069-304f-97b7-405f893f2675 | -7.8748 | -45.35431 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 2fa7dd65-3479-3829-9b9f-9e99d58d2397 | -7.87427 | -45.35725 | 2024-10-17 03:47:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
 
 
 [Clique aqui para ver as próximas entradas](README20.md)

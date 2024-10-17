@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c73d8960-8737-3798-9934-3a4003271e99 | -4.3858 | -47.48822 | 2024-10-16 04:06:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| fdc253f0-95c4-3d9c-a71d-5cb9702c7119 | -4.34486 | -46.69337 | 2024-10-16 04:06:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 2eadcb62-78f9-324d-8ff0-c5b835eebe8a | -4.34424 | -46.69719 | 2024-10-16 04:06:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c75cb9ec-5534-34bd-8b43-2398ae1577b8 | -4.3434 | -46.69609 | 2024-10-16 04:06:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| b8cc1da0-86d6-3cca-aad8-bbe9d60e0a84 | -4.33937 | -46.70034 | 2024-10-16 04:06:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| f7025fc9-b3a0-3997-b8a4-f06a0738b1d9 | -4.33513 | -46.69954 | 2024-10-16 04:06:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 261749e7-d8c2-3146-80e9-a20a5b0fb05a | -4.33006 | -46.73082 | 2024-10-16 04:06:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 78e25975-1b76-301d-9803-c6ec07bd3cf8 | -5.79229 | -47.33001 | 2024-10-16 04:06:00 | NPP-375D | GOVERNADOR EDISON LOBÃO | MARANHÃO | Brasil | 2104552 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 804d0700-820e-3ff1-8636-edd49a2f5dfb | -5.7087 | -46.61996 | 2024-10-16 04:06:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6addd88a-7ab2-37e5-967e-9d2417e3bd3a | -5.51451 | -46.90066 | 2024-10-16 04:06:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c5136079-3769-3698-bb1e-43eba0802f0a | -5.51385 | -46.90453 | 2024-10-16 04:06:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 5a3fddf9-e428-3a53-a694-60c36594008e | -5.51319 | -46.90843 | 2024-10-16 04:06:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 340fe9c4-c167-37d3-aca9-c79f53ea64bc | -7.64456 | -47.16309 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 66b7f511-e46d-38d2-9abe-4a81f5ddcd50 | -7.64391 | -47.16686 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| e143d1c6-2165-392c-88fe-f787bae93456 | -7.64041 | -47.16234 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b98edee5-3b8e-3e69-ac5f-3573d38dd442 | -7.63976 | -47.1661 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8c90f64e-bf77-32fe-bcf1-4c165578732c | -7.6376 | -47.22852 | 2024-10-16 04:06:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 0c4e95ce-82f3-3eb2-b3a8-05b983750afe | -7.63144 | -47.16464 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| b5a7ef91-d0d4-366d-8e65-bdc6ef20e21e | -7.62729 | -47.16392 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 0c7b51b3-7010-3745-a905-02bd799e8617 | -7.51536 | -47.00203 | 2024-10-16 04:06:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 8cd23850-f61f-3852-ad50-c615c698abb0 | -7.18538 | -48.21152 | 2024-10-16 04:06:00 | NPP-375D | ARAGUAÍNA | TOCANTINS | Brasil | 1702109 | 17 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 72282858-f26d-3952-b416-c177c0cf4df2 | -6.95927 | -46.97058 | 2024-10-16 04:06:00 | NPP-375D | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a73d24d6-1e89-3673-b9c1-1a068aaee653 | -6.95864 | -46.97435 | 2024-10-16 04:06:00 | NPP-375D | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8683b39c-2b12-3283-a8a3-7cbaf1adf51c | -6.94652 | -46.99553 | 2024-10-16 04:06:00 | NPP-375D | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| b3d47f06-57b1-3858-8be2-226a24dd8358 | -3.22084 | -48.91936 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c2b25596-fba6-3a18-bef2-9fe23a1c47c3 | -3.22034 | -48.92228 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f04ca235-582f-3c7e-be22-55bcfd26c6ed | -3.21984 | -48.9252 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7f60f952-c606-3468-85ad-790c984484ad | -3.21741 | -48.91841 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| a459df7e-f9f0-3611-a7a1-a65f4c8e9643 | -3.21694 | -48.92134 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| bdea5ca2-2b54-3bb8-b8b4-c522d9459a27 | -3.21646 | -48.92427 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| 8dbd548f-1539-3782-b350-853cddf5883d | -2.50449 | -48.55339 | 2024-10-16 04:06:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 7fed3e45-3f55-35b1-8fe2-b6163a3b5ead | -2.46233 | -48.34702 | 2024-10-16 04:06:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 0078bfdf-a504-3517-89e5-4a5fec7ad5a2 | -2.46141 | -48.3525 | 2024-10-16 04:06:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 7c17f6b0-a346-3d3c-85d5-53ad0f1bc577 | -2.46029 | -48.35155 | 2024-10-16 04:06:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| fcb04cc4-fede-3ec4-aab6-04a329175daf | -2.16203 | -48.8114 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| dd3ad418-3c29-3871-b1c4-621a7b5315f0 | -2.16155 | -48.81435 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 35dc6a56-900d-3201-a4c6-d0935cbcc717 | -2.45921 | -47.83953 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a13255b4-fd04-38b5-b98e-ca48465759e7 | -2.38347 | -47.58671 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 415ae52e-0590-3c19-983e-091a6770510f | -2.38268 | -47.59152 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 676a4250-5dcf-3810-9252-14900837ae2c | -2.381 | -47.58973 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 2d2a05d5-e8c5-3107-80d4-068f9196a5e5 | -2.3563 | -47.98862 | 2024-10-16 04:06:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| a855ba5c-178b-37ed-a242-e375553ed1cd | -2.96466 | -48.00472 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 17.5 |
-| b4f18f7b-a1ec-3a65-82fd-6dd2c9a002ef | -2.96029 | -48.00269 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| 7fdbe573-7f61-33b8-8577-ca40158375ee | -2.95991 | -48.00393 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
-| 35d7f9dd-2064-35d3-8264-b0c2ab9399f4 | -2.95949 | -48.00773 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| 706d0558-7350-3bda-853a-41fb2f6ff5dc | -2.93785 | -47.98983 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 06566052-2812-3a2d-8ae7-766f1e672dd8 | -2.93735 | -47.99356 | 2024-10-16 04:06:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 451e7a73-e678-32e2-8816-70f014500407 | -4.81711 | -49.14068 | 2024-10-16 04:06:00 | NPP-375D | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e516f560-c182-358b-bd05-9cb306da7fa4 | -4.81675 | -49.14322 | 2024-10-16 04:06:00 | NPP-375D | JACUNDÁ | PARÁ | Brasil | 1503804 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 127f42e4-b4b5-38f4-90ca-cedf12bb404b | -4.81607 | -49.38918 | 2024-10-16 04:06:00 | NPP-375D | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 63cb0d21-674f-3687-89d1-618fff18e940 | -4.81556 | -49.3922 | 2024-10-16 04:06:00 | NPP-375D | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| cc2e2416-e0fc-32e4-9e73-be139e5ec112 | -4.36303 | -48.21686 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 69602e47-1a5e-3903-a123-2812da269713 | -4.36183 | -48.48955 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 2281dfb8-92a8-3835-950a-6e7983d435b1 | -4.3604 | -48.49051 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 1e38f825-9d0a-3914-8d7e-6ff0865f7db5 | -4.35952 | -48.49562 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| befa2cbf-7b74-391b-9a6e-7ea433f3f263 | -4.35702 | -48.48875 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| b1bd18c1-b9bd-3504-bf48-ae2d3390e708 | -4.35618 | -48.49381 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 13e854f4-6381-3f07-8bcd-283879b28179 | -4.32963 | -48.6246 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 92d37e2e-4baa-340c-9fea-822886530451 | -4.32387 | -48.6292 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7ba78d51-791f-329c-9d92-6bafc87a1200 | -4.57419 | -48.01483 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f8ee74cb-e243-3f5f-a5ab-454b8c751e33 | -4.56874 | -48.01889 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2437144e-4295-34a6-8d9e-5be4009cf04c | -4.56547 | -48.01991 | 2024-10-16 04:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f16846b2-a6f8-3979-8ec0-900bafc4f1fa | -5.2265 | -47.95662 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 0ee99ab5-93d8-340e-8009-3698432d897f | -5.22608 | -47.9591 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| c335a59e-e581-368e-87de-34fc3215acf0 | -5.2257 | -47.9613 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 22969554-ed1c-3f87-a5c5-b5d2cd40d40e | -5.22531 | -47.96379 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 20abf15e-cf26-3632-ab5a-252aa8e8a577 | -5.22229 | -47.95355 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 4beebf06-bfdb-30fe-95ac-612d773da8a8 | -5.22195 | -47.95578 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d05a0de9-b455-3f91-ac54-9c9f1d6ff56b | -5.22153 | -47.95823 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| ad860b4c-1aa7-3ff0-bb3f-30691b2780e7 | -5.22115 | -47.96043 | 2024-10-16 04:06:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| eb02a69e-bf38-3709-89f1-2c2198ee8afe | -6.66209 | -49.46368 | 2024-10-16 04:06:00 | NPP-375D | XINGUARA | PARÁ | Brasil | 1508407 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| bf1f4bc1-3366-3776-8ba8-6779e719f57e | -3.44701 | -49.73796 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 16f8202b-55e6-34b6-9e21-eb2d06710146 | -3.44644 | -49.74132 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cd9f7dcd-3ede-3dbb-9403-939eb66593e8 | -3.4417 | -49.73706 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 67c59b42-4601-3c23-930f-7aafac4257b6 | -3.44114 | -49.74041 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4553d73f-1abe-31c0-90ed-6dbc60284212 | -2.83787 | -49.53325 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 478047bd-5291-3dcb-bc0a-e76f37028a3f | -2.83733 | -49.53653 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 59599bac-69fb-3da8-bd51-ce8add6caaeb | -2.82455 | -49.54782 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3b3e9f1d-9d9c-322c-b6e8-dc226ebbfb05 | -2.82401 | -49.55108 | 2024-10-16 04:06:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3db76348-08be-3fe2-9d9b-b16e0606158c | -2.6287 | -49.27612 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 40de5b54-cede-312e-825b-5b21119122ce | -2.62293 | -49.27855 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4c2cb418-8772-3f15-8531-ec12ce30f097 | -2.61483 | -49.09761 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b3582702-1dc4-342b-aa32-cebdbcdef788 | -2.61432 | -49.1007 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 731ea4d4-d5ce-3baa-bb89-d41ceb90c264 | -2.60198 | -49.11132 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 09a9c469-9e87-345c-b1cd-d870dd82d362 | -2.60148 | -49.11435 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 1c7b84e0-ec3a-3de1-bd5e-2433ce1f0388 | -2.49623 | -49.07154 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 07c209ac-f00c-3243-9af5-bd5795ebba03 | -2.49573 | -49.07458 | 2024-10-16 04:06:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f4f92629-88b7-3fcd-b448-97544ffed44b | -2.43893 | -50.23804 | 2024-10-16 04:06:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| eb0e652d-e686-3e76-bf96-177db09e8e16 | -2.43395 | -50.23345 | 2024-10-16 04:06:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 2878b592-48f3-3d4e-98d8-667d148f7e65 | -2.43334 | -50.23716 | 2024-10-16 04:06:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 0ab6d5da-5395-3d78-9c06-ff674c63598c | -2.43128 | -50.18014 | 2024-10-16 04:06:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 783ec5f7-5a04-3a34-a45e-1188c1a8c1d4 | -2.42572 | -50.17918 | 2024-10-16 04:06:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 2a089c32-73c2-3372-8f25-fd12414f5872 | -2.39933 | -50.30384 | 2024-10-16 04:06:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| cb82f92b-167e-33fd-9cab-a9892c0dfe6b | -3.6985 | -50.11774 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 16065231-e7f0-36ce-8306-49be871ee821 | -3.6925 | -50.12019 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| ea103ae2-8b9e-31de-93e7-4c30117f7e88 | -3.58583 | -50.57541 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 58dd8399-3789-3d64-8ef0-9eb0ddd05bce | -3.58519 | -50.57907 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 8473b274-dd83-33d0-91bf-57513b798aeb | -3.58301 | -50.57436 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| aad65545-a6b3-3292-90cf-4f8bbe0c60a5 | -3.5824 | -50.57804 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| a00df255-5699-3f99-bc00-8ada9e2bc1f4 | -3.58023 | -50.57444 | 2024-10-16 04:06:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| cc4f217f-f01b-3958-9302-f42edec98cbd | -17.84695 | -56.85521 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 670319f0-0733-34b0-a679-12433faa014d | -17.84203 | -56.85394 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| a20fa1c1-4b21-3ab0-8230-53c6dfb0982b | -17.64104 | -56.2373 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 62b9e6d3-4061-30b6-ac66-ff043d14a7d4 | -17.6402 | -56.24129 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| d8f5f03f-92e4-3bd8-b274-ed400f1c64eb | -17.63936 | -56.24528 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 5edee979-c1e0-3bf2-89d9-f0692760f712 | -17.63545 | -56.23597 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| ea46845a-2bcf-3480-8a59-5980e63961a0 | -17.63293 | -56.24791 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 0acc7ad0-3a52-3cc2-a9c4-370923659c56 | -17.63209 | -56.25191 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 17f6c6ce-77b6-3020-8ca5-a8dfb1119c1c | -17.62986 | -56.23465 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| c0aefae0-14e8-36c3-8ca7-398783c5b964 | -17.62427 | -56.23335 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.4 |
+| ebe2f0a6-6304-3ac6-97e9-a884be9e8b85 | -17.20887 | -56.68454 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| a18d2dce-5aec-31d9-a18a-eeda9d70b6e7 | -17.20794 | -56.68888 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 5a377947-f6ea-3088-a65f-ab62f741747c | -17.20308 | -56.68315 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 21599ce6-5e17-32fc-a8ae-d71566a9a84f | -17.19822 | -56.67741 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 273c5fe0-c2a4-3d1a-a3e9-75fbe05e5364 | -17.98083 | -57.42841 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| fad8a4d3-62f6-3ace-bfdb-7d39dee982af | -17.97591 | -57.42226 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 624ab420-c1b4-339d-ab7a-9607c12e8076 | -17.97487 | -57.42693 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 1f4bb1be-bd24-3749-87e4-fba290ea8a7f | -17.93882 | -57.44759 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 40e3b8c6-4bca-3d48-b39b-3ff69e9e0cf6 | -17.93777 | -57.45226 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 3193decf-a153-3dc7-889b-8d667a871a71 | -17.93681 | -57.45012 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
+| 11974315-9782-3199-b95a-e207280b0b58 | -17.93579 | -57.45481 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 3111e5e3-7926-3e6d-9692-04345d7fa209 | -17.92794 | -57.43997 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| fbc75f5c-0a99-3d1f-8b87-0ea595a2a379 | -17.92689 | -57.44464 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| c8ab0e20-429d-3d83-b5f4-fe095324a045 | -17.9259 | -57.44244 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| fd3fd5ea-847f-36b9-9338-df6776ded8e7 | -17.92488 | -57.44713 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 4e21176b-f961-3cc4-be3e-92b025e53f29 | -17.92303 | -57.43383 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 942521cb-f222-326e-82fc-9bd5bec77308 | -17.92197 | -57.4385 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 7e516e09-3556-3be9-addc-99b252c1cec1 | -17.92092 | -57.44318 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| e8a1e83c-e902-3538-ab82-ebf2aa3fc2aa | -17.91993 | -57.44095 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 54c8e789-a0e9-35e4-ac05-8989603938fe | -17.8844 | -57.24798 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 2125b41e-095c-3594-85b0-a9ea577e122a | -17.8815 | -57.24608 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| b65338da-e0f7-339b-85af-b0194e05830b | -17.8785 | -57.24649 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| e4c6ec7a-4145-3fb7-b400-f70bbc80d5be | -17.87559 | -57.24462 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 8bf4e73c-15b9-3785-8f0c-fa2ce53e0511 | -17.8726 | -57.24502 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 74e81495-c872-3836-a3f3-e89bfa9b858e | -17.87161 | -57.24962 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 2cf095a2-ea31-3d22-9b60-00b45375adaa | -17.86867 | -57.24775 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 7b39c1b9-40b5-3ae1-a232-233d6f7afae4 | -17.86765 | -57.25232 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 13ffac6a-472d-341f-b494-6c7eaeccfc89 | -17.8657 | -57.24816 | 2024-10-17 04:17:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.4 |
+| cb81a70d-b64d-3857-b7c2-357bcaba6a31 | -17.22792 | -57.31134 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| 6ca22a85-8a77-39ea-a562-7a1e7454134d | -17.22703 | -57.31029 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| e7f7a5fa-1638-33d4-90f7-71e1f35ade96 | -17.22687 | -57.31608 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| e18655d0-f4b7-3257-a605-41e040845609 | -17.22601 | -57.31503 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| f3d6f377-c4f0-336d-b49c-0aa9ecbc06d3 | -17.22582 | -57.32082 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| f98be0a4-9e9c-37be-bd20-4602cb497d11 | -17.225 | -57.31979 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| 4bb73041-d8d0-3f9e-b492-886bba8bab53 | -17.22192 | -57.30988 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| d0e5b922-126e-362b-b857-23261ef9e3d9 | -17.22103 | -57.3088 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 35b83ebb-392e-3861-9809-cfc6d969f135 | -17.22087 | -57.31462 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| 0f1613a8-3c86-396c-a8e7-2a0b32b5caeb | -17.22001 | -57.31355 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| c2ec7432-ab6b-3d09-a796-6ceff01b538b | -17.21982 | -57.31937 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| cf060dec-e54c-3fa5-909c-47ea5850c748 | -17.21899 | -57.31832 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| 81cb6eb5-32d7-360a-919a-54bdb56a213b | -17.21876 | -57.32412 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 06db0b48-396d-30eb-9e2f-72396243f345 | -17.21797 | -57.32308 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| 11072aeb-a1e4-315d-bca3-f67f96909dfc | -17.16922 | -56.81286 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.4 |
+| ec25703a-189c-3c53-8dc2-700c5291d2ac | -17.16844 | -56.84513 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 6989a407-61f4-3b9b-be04-6f7a3ba30533 | -17.16827 | -56.81727 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 6.8 |
+| 5d7c2fec-e781-3fed-bb61-a08aef0f4bff | -17.16354 | -56.83931 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 13be237b-7354-3df2-9735-e20cdeb4a6f4 | -17.16164 | -56.84814 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| e04cb907-fbe3-323c-a323-0e9c7a3366b8 | -17.15959 | -56.82907 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| d5e35dc0-a895-3b4e-80b5-fee427526bf8 | -17.15865 | -56.83346 | 2024-10-17 04:17:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 8dff3f65-28c8-3c4e-8a3a-81e57b24064f | -22.30489 | -41.88057 | 2024-10-17 04:17:00 | NOAA-20 | MACAÉ | RIO DE JANEIRO | Brasil | 3302403 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 9626fdaa-fdc9-3466-a44b-019a63357cd4 | -17.1867 | -49.85377 | 2024-10-17 04:17:00 | NOAA-20 | INDIARA | GOIÁS | Brasil | 5209952 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| aa4f1231-e983-3c44-99d6-94e073a8078d | -18.59167 | -41.11496 | 2024-10-17 04:17:00 | NOAA-20 | MANTENA | MINAS GERAIS | Brasil | 3139607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 2c8f76ad-8a91-34d4-8dbd-186367fede79 | -22.59801 | -42.21372 | 2024-10-17 04:17:00 | NOAA-20 | ARARUAMA | RIO DE JANEIRO | Brasil | 3300209 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| a6e50d98-56aa-34f5-a970-0ecbf89df839 | -18.59955 | -41.11583 | 2024-10-17 04:17:00 | NOAA-20 | MANTENA | MINAS GERAIS | Brasil | 3139607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.5 |
+| 2fac4348-cc1a-39e9-92ac-63e52681e570 | -18.59891 | -41.1207 | 2024-10-17 04:17:00 | NOAA-20 | MANTENA | MINAS GERAIS | Brasil | 3139607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 542728f0-7607-3542-8a7e-0ddaf9fcfe53 | -18.59629 | -41.11024 | 2024-10-17 04:17:00 | NOAA-20 | MANTENA | MINAS GERAIS | Brasil | 3139607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| c30b7bb8-27a5-3942-b6a2-304971624bc5 | -18.59561 | -41.11539 | 2024-10-17 04:17:00 | NOAA-20 | MANTENA | MINAS GERAIS | Brasil | 3139607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| dbe40056-b421-33f4-a2ae-60bdef9059f1 | -18.59495 | -41.12042 | 2024-10-17 04:17:00 | NOAA-20 | MANTENA | MINAS GERAIS | Brasil | 3139607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| e3a9bd81-ea99-3b4c-80fd-40522b4e9bfc | -18.39908 | -40.87996 | 2024-10-17 04:17:00 | NOAA-20 | ECOPORANGA | ESPÍRITO SANTO | Brasil | 3202108 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 812f99f4-c8cb-34d0-9451-6bc961402359 | -18.39511 | -40.87943 | 2024-10-17 04:17:00 | NOAA-20 | ECOPORANGA | ESPÍRITO SANTO | Brasil | 3202108 | 32 | 33 | nan | nan | nan | Mata Atlântica | 16.2 |
+| b72af42b-3220-3cc5-b990-939aa9ca652f | -18.39441 | -40.88475 | 2024-10-17 04:17:00 | NOAA-20 | ECOPORANGA | ESPÍRITO SANTO | Brasil | 3202108 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 66bc0770-08d2-3775-9f9c-ad8fffb1013b | -18.39114 | -40.87883 | 2024-10-17 04:17:00 | NOAA-20 | ECOPORANGA | ESPÍRITO SANTO | Brasil | 3202108 | 32 | 33 | nan | nan | nan | Mata Atlântica | 16.2 |
+| 49298f33-93c8-3568-b938-3b05cc4822f2 | -18.39044 | -40.88416 | 2024-10-17 04:17:00 | NOAA-20 | ECOPORANGA | ESPÍRITO SANTO | Brasil | 3202108 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 11c1a1a5-6805-3954-bf40-c5fc5761d84e | -18.09119 | -41.42818 | 2024-10-17 04:17:00 | NOAA-20 | FREI GASPAR | MINAS GERAIS | Brasil | 3126802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 52a622e2-27f1-396f-873e-202fa67aa04b | -18.09052 | -41.43318 | 2024-10-17 04:17:00 | NOAA-20 | FREI GASPAR | MINAS GERAIS | Brasil | 3126802 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 36c96517-208d-33dd-9775-ff63757df75f | -22.30501 | -41.88411 | 2024-10-17 04:17:00 | NOAA-20 | MACAÉ | RIO DE JANEIRO | Brasil | 3302403 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| bd424d4e-d98b-3e12-90c8-14d56a9401a6 | -19.13907 | -42.29222 | 2024-10-17 04:17:00 | NOAA-20 | PERIQUITO | MINAS GERAIS | Brasil | 3149952 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
+| ef8913db-7b74-3d59-90d1-b334712b83fa | -18.55215 | -42.95175 | 2024-10-17 04:17:00 | NOAA-20 | SABINÓPOLIS | MINAS GERAIS | Brasil | 3156809 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 1cc84a5e-546c-3079-a17e-99cd643dcc13 | -18.40015 | -42.19706 | 2024-10-17 04:17:00 | NOAA-20 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 973f1df9-2af4-3d2b-b3c8-0b8310d89d16 | -18.39644 | -42.19669 | 2024-10-17 04:17:00 | NOAA-20 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 1649975b-ede7-31f7-a163-288802d71f20 | -18.39586 | -42.20097 | 2024-10-17 04:17:00 | NOAA-20 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 5bd7fc05-e485-3005-8a49-06c345ce1774 | -18.39218 | -42.2004 | 2024-10-17 04:17:00 | NOAA-20 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 6b632b7e-602c-3a85-ae55-62fdf57183a8 | -18.38849 | -42.19981 | 2024-10-17 04:17:00 | NOAA-20 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 0c6a0785-c542-3b26-926b-fbdd02229350 | -18.33154 | -42.34483 | 2024-10-17 04:17:00 | NOAA-20 | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 075c3ce2-06e4-3d6d-8169-25686d4bf186 | -18.28587 | -42.79731 | 2024-10-17 04:17:00 | NOAA-20 | COLUNA | MINAS GERAIS | Brasil | 3116803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 41bf94b1-2257-3eb9-85f3-7a7c429554b4 | -18.28231 | -42.79668 | 2024-10-17 04:17:00 | NOAA-20 | COLUNA | MINAS GERAIS | Brasil | 3116803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 43b0f823-75f3-3f2b-9314-c6a434e90488 | -18.25862 | -43.03724 | 2024-10-17 04:17:00 | NOAA-20 | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| abd7eb93-0b84-3a2c-8f64-ddad8d101295 | -18.25842 | -43.03823 | 2024-10-17 04:17:00 | NOAA-20 | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| b2286017-4962-38d8-b351-6c8d6e44c424 | -18.0988 | -42.91805 | 2024-10-17 04:17:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 12ccdc0b-53c3-37bc-abb0-96e98fabdd59 | -18.09821 | -42.92225 | 2024-10-17 04:17:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| d03f4dc6-0882-30f7-aa98-53a63cbe0acd | -18.08796 | -42.7191 | 2024-10-17 04:17:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 1793984a-8e40-3874-b7d5-afba056f29db | -18.08624 | -42.7219 | 2024-10-17 04:17:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 9e52c527-cb99-382e-bbc1-4f4abffed677 | -18.08442 | -42.70861 | 2024-10-17 04:17:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| fc6a1564-7a19-336e-a9ca-b8b2d0eca72d | -18.08203 | -42.70948 | 2024-10-17 04:17:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 8f250678-42f8-3591-b5dd-5083c5409913 | -20.93287 | -42.59634 | 2024-10-17 04:17:00 | NOAA-20 | ERVÁLIA | MINAS GERAIS | Brasil | 3124005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| e1efde15-ed01-3899-b08e-e7d9c1ec0271 | -21.20938 | -42.83768 | 2024-10-17 04:17:00 | NOAA-20 | RODEIRO | MINAS GERAIS | Brasil | 3156304 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 924e8eaf-f470-3339-915a-e9e53e0eb0bc | -21.04721 | -43.37901 | 2024-10-17 04:17:00 | NOAA-20 | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 7a27003e-3b8f-3c86-b2bb-db43a4dbd3c5 | -22.90218 | -43.7527 | 2024-10-17 04:17:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| a3e39c32-8b18-306c-90cc-78b14f36d217 | -22.90156 | -43.75711 | 2024-10-17 04:17:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 1133248a-3493-38ee-b6bf-5166eea4d9fa | -22.78601 | -43.75893 | 2024-10-17 04:17:00 | NOAA-20 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README35.md)
