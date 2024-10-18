@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 5ce0eb23-5af5-334a-9d91-8a903477a5dc | -0.06592 | -51.30082 | 2024-10-17 04:10:00 | NOAA-20 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c7153fd7-b36a-3098-8b46-bc81d63baaa4 | -2.12322 | -50.80266 | 2024-10-17 04:10:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f8b6ff83-6852-3648-a921-1e3019942320 | -2.21377 | -51.95937 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 1aaaafbe-4926-3412-9b65-4036a6971742 | -2.20819 | -51.95846 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d1219c87-c6a9-3f9e-9da4-8dbdc24fb1d6 | -2.00375 | -52.10779 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 638c6e03-4f98-34c1-be75-5b32a61a9424 | -2.00312 | -52.11169 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f5061861-9b5c-329e-915a-f8a6036dd456 | -1.9981 | -52.10684 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 3ad2b1cb-9104-3a16-baf0-93312f85f7f9 | -1.71132 | -52.70292 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3f82bbc0-9936-3c5f-8ce8-cf79c6560426 | -1.70959 | -52.70185 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 92b9ba4d-fee6-3a8b-b222-aa7709a31563 | -1.70611 | -52.69764 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f928f208-000d-38ab-bf8e-20f21919bab1 | -1.70542 | -52.70193 | 2024-10-17 04:10:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2b130fe6-7f36-3c81-b5ea-f44f5634fafb | -2.08848 | -53.40622 | 2024-10-17 04:10:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f6bc1da4-a97b-3bed-855e-04f3e2a6c5b8 | -2.08769 | -53.41095 | 2024-10-17 04:10:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d37f71eb-25df-3440-8e6e-c57b9a69645c | -1.13556 | -54.17493 | 2024-10-17 04:10:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 8656a1f2-c088-3f90-8c94-e16449da89db | -1.13554 | -54.17039 | 2024-10-17 04:10:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| f4b4488b-aca1-38a8-aa56-ee45e55a7a16 | -1.13462 | -54.17586 | 2024-10-17 04:10:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| f89f4a08-94b1-36ba-914c-3ed80c8bf1e2 | -1.11605 | -53.71363 | 2024-10-17 04:10:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 643aed24-31c9-3532-ac25-b0aa581e59d2 | -3.0291 | -39.85627 | 2024-10-17 04:10:00 | NOAA-20 | ITAREMA | CEARÁ | Brasil | 2306553 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| f6cf1aa0-ac65-3264-ae20-2db6b0ea149f | -3.90495 | -40.44839 | 2024-10-17 04:10:00 | NOAA-20 | CARIRÉ | CEARÁ | Brasil | 2303105 | 23 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| bb1c96f0-1e8a-3470-b6a0-a8e615908d7f | -3.7458 | -40.50491 | 2024-10-17 04:10:00 | NOAA-20 | SOBRAL | CEARÁ | Brasil | 2312908 | 23 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 07eb039a-70df-3b22-9fca-d95befc80c04 | -2.77995 | -42.27209 | 2024-10-17 04:10:00 | NOAA-20 | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 339b1b7e-9bcb-3376-9ff9-31a6840a7046 | -3.92934 | -42.41719 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| b910608f-eb6a-3e0d-a9f4-5d8f1dc60ace | -3.9288 | -42.42063 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 26a860de-636a-3764-92e8-623e20ea6e4d | -3.92826 | -42.42407 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 85275e85-2bf3-3b68-9957-953fa949a768 | -3.92772 | -42.42751 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 456d1d0d-41fb-372b-bb62-48f400d649e9 | -3.92657 | -42.41325 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 5a49b22d-b723-33fc-8d15-67fce2ddf616 | -3.92603 | -42.41668 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| e01f9948-df99-3486-ab41-5ac2b6fda0e2 | -3.92549 | -42.42012 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 47efd9f4-ad1b-3905-8ff3-a2d49c74e513 | -3.92496 | -42.42356 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 8c0084de-2a0f-3d46-9741-47a8dca5eb18 | -3.92442 | -42.42699 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 96bc2b06-ffd1-36e1-a7cd-868cafb0ae83 | -3.92327 | -42.41273 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 23.3 |
-| 5fa715b2-758c-363c-981e-8f54d1823517 | -3.92273 | -42.41617 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 20.5 |
-| 8c9be58e-63ed-372c-a237-71d22feeddd6 | -3.92219 | -42.41961 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 20.5 |
-| b776fe71-d168-32d5-8d67-397929a16849 | -3.92165 | -42.42304 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 1b24dd5d-e839-3573-aac0-4dd5b9baf01e | -3.91997 | -42.41222 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 23.3 |
-| 41fd96eb-96ab-3704-9940-9916338daef9 | -3.91943 | -42.41566 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 20.5 |
-| 4a4b56e5-a9a6-3250-a94b-dd87100e975e | -3.91889 | -42.41909 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 20.5 |
-| 1d6bc6ad-c4f6-3bfa-a853-2f2925e9bf50 | -3.91835 | -42.42253 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 00760277-5ba4-3454-89f1-d48361df2f5f | -3.91578 | -42.41498 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 4335869f-5985-39ee-8255-726cdbf4bc06 | -3.91524 | -42.41842 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| c557d038-1f03-35df-b3b1-e41d49c3ce1b | -3.9147 | -42.42186 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| cfe4140e-87f2-3bb9-8305-f001a37a03e0 | -3.91416 | -42.42529 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| c836c58e-3f45-3ac0-ba9a-5589f1ff406b | -3.91248 | -42.41447 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| dd087ed3-6bfb-3050-8c78-bf36b92e5f1a | -3.91194 | -42.4179 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| ede8517b-67e1-3b8a-a472-2939081a59c4 | -3.9114 | -42.42134 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 8dd2f7c1-25b8-3338-a7a9-d2377a856456 | -3.91086 | -42.42478 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 854fc7a4-3683-3aa6-a1d4-f1a15b80cdb5 | -3.90918 | -42.41396 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 7ae50b9b-e9a7-326d-90c7-42f09346e5a2 | -3.90864 | -42.41739 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 7bec71c8-8f16-3cd1-b7bd-3c1d9961b94f | -3.90587 | -42.41344 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 2864c25e-3ec6-37c0-bc16-e6b4ec666b13 | -3.93042 | -42.41032 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 273de775-6bce-32fc-9e27-c919f43ad7aa | -3.92711 | -42.40981 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 3bad2b81-ee1e-3002-82ce-a5a066e1ed4c | -3.92705 | -42.38867 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 033fc6de-d108-36b2-aa7c-5f1c3025ebfe | -3.92651 | -42.39211 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 749f7346-6159-30c8-9338-3af0e4213f92 | -3.92543 | -42.39898 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| b42cab87-88e9-36ca-b412-1ca9a69d9b0a | -3.92489 | -42.40242 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 439ac83c-da54-3d51-8ffa-24ae87eb2d74 | -3.92435 | -42.40585 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| b39bb46b-6eca-3d28-b83e-4766111ee339 | -3.92381 | -42.40929 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 23.3 |
-| 6133b04c-353d-3ef4-8029-4f94debfdf40 | -3.92374 | -42.38815 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 9473759c-e56d-36bf-ac64-066c09d11079 | -3.9232 | -42.39159 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| e9e83889-1845-3aed-8207-630013db4eb3 | -3.92266 | -42.39503 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 7d4026b1-37ae-3569-9713-a25b8753741d | -3.92213 | -42.39847 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 145b28dc-ac51-3c7b-aee2-c42a51a45bfd | -3.92159 | -42.40191 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 68798bd7-0851-3781-af7b-b76c2df2b6cb | -3.92105 | -42.40534 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 1c538b20-1399-36a1-a166-ea14d3f696b9 | -3.92051 | -42.40878 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 23.3 |
-| 459de732-93a4-36e9-92f1-61d104ae3e3b | -3.9201 | -42.38749 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| f1881195-ac2c-3de3-9777-65b5518ce2e0 | -3.91956 | -42.39092 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| d5246988-323f-3f13-a64a-c3c2d7f822d1 | -3.91902 | -42.39436 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 6a5a7edc-fb5e-3e5c-9a40-9c8a995a5a0b | -3.91848 | -42.3978 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 878f8031-7969-32c2-9536-d369f042ea38 | -3.91794 | -42.40123 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 31.7 |
-| 5083779d-3c6b-3ae9-b25c-a8eb01fb4419 | -3.9174 | -42.40467 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 31.7 |
-| afeebddb-0a9c-3e04-94f0-921f27696ddb | -3.91686 | -42.40811 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 22.2 |
-| dc8b9cbd-6c73-3ef9-a317-6753b1ea31fb | -3.9168 | -42.38697 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| a1f292f1-92b5-335a-a2b7-a9c1aecbddb6 | -3.91632 | -42.41154 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 22.2 |
-| e3374334-12ad-3bc4-9a27-12d81ee13551 | -3.91626 | -42.39041 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 398525e6-3347-3db9-9614-1b3c2c40aeae | -3.91572 | -42.39385 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| b54d989f-8d79-3388-acb0-b203c2b055d9 | -3.91518 | -42.39728 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 5a6a6029-02c3-3f66-ada1-6c854e3715a6 | -3.91464 | -42.40072 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 31.7 |
-| c8f90c01-f598-3b6e-ba16-51d0a21ad7a7 | -3.9141 | -42.40416 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 31.7 |
-| 6244f1dd-5ec6-37e7-b6e4-d0c85a61bf11 | -3.91356 | -42.40759 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 22.2 |
-| 719907ce-036d-3494-8f34-380e21f85682 | -3.91302 | -42.41103 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 22.2 |
-| 379ad0aa-189b-390b-9fb7-144e77058b6f | -3.91296 | -42.3899 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 41306d70-1b0f-3030-893a-9be4b4edcad2 | -3.91242 | -42.39333 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 34286f45-76f1-3409-8ea9-6edf1be26ecb | -3.91188 | -42.39677 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 917b8628-c764-3e16-bbda-5e7e1bf2b75d | -3.91134 | -42.40021 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
-| b1c21642-566c-3958-8ee7-53e5891b4061 | -3.9108 | -42.40364 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
-| f61ca020-0c0e-3f68-ba6a-dc5d637a15e1 | -3.91026 | -42.40708 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 30018b14-1947-3ee8-8356-f29615a1df54 | -3.90972 | -42.41051 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| fba2dd52-23e4-3829-a0f9-564ae3b39edd | -3.90911 | -42.39282 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 8afa6ffc-7c6b-3716-a102-32dec1edf6e3 | -3.90857 | -42.39626 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 45871c60-38be-36e9-a6b7-5e67105944ab | -3.90803 | -42.39969 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
-| 49f13f8a-5bfe-3d4b-93e4-185fe3ede804 | -3.90749 | -42.40313 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
-| 59a14df9-6831-339c-845e-b24a059acb53 | -3.90695 | -42.40657 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 153a90ed-f95b-3938-9e67-e0b1b1c05fda | -3.90641 | -42.41 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 233fb545-f7a7-3a24-9973-e6626eba937a | -3.90635 | -42.38887 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 9ce138ab-ebc8-326c-b689-fbd8b7d4940c | -3.90581 | -42.3923 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 86621744-33ed-3917-9112-18e9955b39d5 | -3.90527 | -42.39574 | 2024-10-17 04:12:00 | NOAA-20 | ESPERANTINA | PIAUÍ | Brasil | 2203701 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 0aab6340-c6ac-3b09-8a11-75be00017b1e | -3.90473 | -42.39918 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 5ba7f5aa-1e2c-3ac1-b48e-60923f691229 | -3.90419 | -42.40262 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| b6b01c5f-de2d-358c-a1f6-e96a2d5bc078 | -3.90365 | -42.40605 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| c6eefc53-bd55-3096-b8c0-c946b5c4cf6a | -3.90311 | -42.40949 | 2024-10-17 04:12:00 | NOAA-20 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 2fb8182a-3db1-3f4d-8788-0dc6584e6ea9 | -4.36615 | -48.49326 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| b68161a4-8f19-3d0e-8add-fa03c36b0c89 | -4.36541 | -48.48908 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 5fb15b7b-f6d6-3297-8f2b-0abfb4d4e825 | -4.36468 | -48.49323 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 1644cf6c-329c-37b3-829d-3dcb929c6812 | -4.3615 | -44.57686 | 2024-10-18 03:51:00 | NOAA-20 | SÃO LUÍS GONZAGA DO MARANHÃO | MARANHÃO | Brasil | 2111409 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 5e12e96e-71a8-3cc2-824b-27e6918541ed | -4.36028 | -48.49226 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4ca76050-0359-3835-b1de-f33262ca0f26 | -4.35959 | -48.49637 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4ee0fdfe-5a49-384a-8063-00f945daf053 | -4.35882 | -48.49219 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 5b85e20b-8d44-3293-ac2f-da18104722bc | -4.3349 | -48.62809 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| debc0544-6b71-3d67-b59b-a6fea5f59830 | -4.33216 | -48.62307 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8c4cd9e5-8818-3aa7-9a6f-6617e56f8542 | -4.33143 | -48.62741 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4083ec0e-a0bc-3afb-b1bd-d63d6860b242 | -4.32975 | -48.62275 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b31f9314-b45d-33fb-ba3d-cd44b3dffad6 | -4.32897 | -48.62715 | 2024-10-18 03:51:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0510b754-1aa8-39da-aef4-3d3d7a11b8d6 | -4.303 | -44.51124 | 2024-10-18 03:51:00 | NOAA-20 | SÃO LUÍS GONZAGA DO MARANHÃO | MARANHÃO | Brasil | 2111409 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 9e85173c-5139-3434-95fb-8113a686d35c | -4.30062 | -45.49015 | 2024-10-18 03:51:00 | NOAA-20 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8018b2e5-b4ab-347c-8d93-14f8b71f007b | -4.29975 | -45.49542 | 2024-10-18 03:51:00 | NOAA-20 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 03803b8a-d7e5-3c81-87c5-988adacbc185 | -4.27079 | -46.29028 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| a9040215-9b6d-371e-8f05-8c96dc68ec87 | -4.25014 | -50.98429 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 046b8c47-10ee-39a1-8aa0-73ea68c9a601 | -4.24903 | -50.99049 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 9d7c195b-2a63-39f3-93c4-0e8720ec6dd6 | -4.24858 | -50.9882 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 605686c9-c9fd-3a20-a667-8e8c2aa645f0 | -4.24227 | -50.98885 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 563bd3ad-f325-375e-9ceb-15d3ec71bdcd | -4.24036 | -45.73304 | 2024-10-18 03:51:00 | NOAA-20 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 7511cd3f-bdd8-3b1f-97b7-57cc40c04dcd | -4.19703 | -44.22935 | 2024-10-18 03:51:00 | NOAA-20 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 2a898176-aaa7-3988-968a-3f3e91ec1fed | -4.19262 | -44.22858 | 2024-10-18 03:51:00 | NOAA-20 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c1093a6e-d2d0-30c3-a3ee-fab25aa7b2b6 | -4.09739 | -50.7637 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 5b8ffa9f-aaa4-3dd8-8d98-002ea28384e9 | -4.09571 | -50.76139 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a300e153-150f-3e56-b78d-6214b284898e | -4.09461 | -50.76781 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 66aa1670-b6be-30b7-a12c-2fd6e414ea8e | -4.09063 | -50.76249 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| fee14597-a571-3ecf-9103-be5db38f7c80 | -4.05029 | -44.24212 | 2024-10-18 03:51:00 | NOAA-20 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| b2ae37ef-b05b-3cdb-b380-01385c086ef8 | -4.03742 | -46.9439 | 2024-10-18 03:51:00 | NOAA-20 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 1a10b00c-0829-37c5-b127-c83fd32221d0 | -4.03686 | -46.94724 | 2024-10-18 03:51:00 | NOAA-20 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 92f60717-ac58-342d-bf7e-5abca7f1ff83 | -4.03208 | -46.94307 | 2024-10-18 03:51:00 | NOAA-20 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 87784195-d90b-3b48-adfd-1a9a8d0767d7 | -3.93829 | -47.19247 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 52802e48-b7d0-37ad-bd50-daa24339a07b | -3.93773 | -47.19588 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| f43e79b2-3ba9-3b41-83d9-5fbb2f2eb2e9 | -3.93438 | -47.19146 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 569f732d-14c0-33bc-806d-3cd735eb8d8b | -3.93378 | -47.19488 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 39418795-40fe-36fc-829f-7b934afd26c5 | -3.93287 | -47.19152 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2fe75515-96d8-3a2b-8623-85aae0a04acb | -3.91825 | -46.46484 | 2024-10-18 03:51:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b65be98a-269b-365b-abf0-4299826a4ac0 | -3.91766 | -46.46838 | 2024-10-18 03:51:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 57d6a2f1-3105-331e-8630-0db0ed910881 | -3.90373 | -48.36992 | 2024-10-18 03:51:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 657f30b1-49e2-38a0-bce0-65061e68d074 | -3.90302 | -48.33868 | 2024-10-18 03:51:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| cd73cfc8-4b80-397a-9bfa-354764d6da0a | -3.90232 | -48.3428 | 2024-10-18 03:51:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| bf50a906-e12f-301f-82e6-bc4109c27b2e | -3.89861 | -48.36456 | 2024-10-18 03:51:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| cc21a4c5-fba7-37c7-be01-562a3b01dbeb | -3.89716 | -48.33774 | 2024-10-18 03:51:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6bafee87-87c6-3644-ab6e-d618b108cb4c | -3.88379 | -45.7475 | 2024-10-18 03:51:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| db899b96-8e67-31ba-9289-d739a3dbe02c | -3.80873 | -51.31352 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ae940311-4339-3bb2-be0e-c36f97f32c17 | -3.80285 | -51.3059 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 3c24323c-23da-30d9-88c8-f2795b0224f6 | -3.77945 | -44.77362 | 2024-10-18 03:51:00 | NOAA-20 | CONCEIÇÃO DO LAGO-AÇU | MARANHÃO | Brasil | 2103554 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4bdac6b1-9c07-3977-b6be-61ad20e867bc | -3.77867 | -44.77844 | 2024-10-18 03:51:00 | NOAA-20 | CONCEIÇÃO DO LAGO-AÇU | MARANHÃO | Brasil | 2103554 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 05885137-81f4-3eff-9186-717369b69899 | -3.7383 | -51.34332 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a2d1c66d-2854-3790-a275-cec017562c20 | -3.73127 | -51.34205 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 07eb96f2-5409-3c8b-becf-bf9f78bb9d49 | -3.71749 | -51.18594 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| f07ef067-14e2-33b7-95cf-3e247efda5a5 | -3.70798 | -45.90557 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 4602a91d-ad88-3390-880d-9d3ea68233f8 | -3.70752 | -45.90843 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| b38d9d49-58ba-3c76-b112-d864a1041cd1 | -3.70707 | -51.08261 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ad21d5e6-310e-357d-a51f-faca7d52206f | -3.70704 | -45.91137 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| c013a503-9d69-3d9c-9efa-9f6119db496e | -3.70656 | -45.9143 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 40475342-aa07-3b62-bcad-c7e668cb91c0 | -3.70589 | -51.08932 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2805114c-0486-3f4f-8f9f-a58e15bfd25c | -3.70348 | -45.90171 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 37b8e218-a0a1-3639-9b58-81b65c0ae056 | -3.70302 | -45.90455 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 931d9207-73d9-378f-b3da-dc526e3899bc | -3.70254 | -45.90751 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 774995af-48f9-3ae1-936b-34585b535989 | -3.70205 | -45.91045 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 669ae69e-5759-3492-a29c-ca6aa5462b57 | -3.70157 | -45.91339 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 98f1b1be-6972-3f2f-8b7e-b0d2921b2b85 | -3.70109 | -45.91635 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 455c2fb6-4138-39b1-af12-8de49d44fd0c | -3.69801 | -45.90379 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| f15470cb-8552-330b-8131-1c3536ec2c43 | -3.69754 | -45.90667 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| c5fb4c73-10a3-3853-a13e-f210ec1db63a | -3.69707 | -45.90954 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| b0f2d75a-dae0-3c93-9ca2-4b574130733c | -3.6966 | -45.91243 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| c1bd88f6-99cb-374b-bf48-744d336e6b79 | -3.69254 | -45.90591 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a66b9c5d-eb8d-3859-8cf7-d8c6621a3926 | -3.69206 | -45.90879 | 2024-10-18 03:51:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 269b24d1-faf8-307e-95c9-2ae4bfcaae99 | -3.58971 | -50.58041 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| da8d19b1-f766-3967-877a-d21b5b725a10 | -3.58759 | -50.57993 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 647a10e0-3058-3232-9368-efbfa120b9ac | -3.58296 | -50.57929 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5e1c82ca-5df4-3242-bb7c-d0d9fcbb606b | -3.58085 | -50.57873 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| eeaf59af-0645-303e-ad7e-197fb947a50b | -3.57624 | -50.57795 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| bbe77c00-3efe-3684-88c8-0075dbcf1a78 | -3.57415 | -50.5773 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 8139116d-cafe-3dd2-bab9-938a9c8ffa44 | -3.55987 | -47.3598 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 71505d6f-545f-310d-9e6c-124f4cc71c3f | -3.55924 | -47.36356 | 2024-10-18 03:51:00 | NOAA-20 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 84efdcd9-d0f2-32b1-86f2-d4689dbb3c6a | -3.51376 | -50.32775 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 01be9f92-b6b4-31cd-b6cb-afed4967e958 | -3.5071 | -50.32667 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| bf3bd895-686c-3073-823e-8187652926e9 | -3.50478 | -51.11259 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d906b0b2-1801-35d4-b0b9-4b92e8920e33 | -3.5035 | -51.11176 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 907ef341-b443-340f-97c9-999a2d02cd98 | -3.49783 | -51.11127 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| a1e51d70-f78b-362a-aabd-fab240722ae3 | -3.49654 | -51.11051 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b6a18e74-0204-3273-b538-85b56ddda3a5 | -3.49483 | -51.68071 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| aecf99c5-f945-3d13-b739-176a6e6fb2a2 | -3.49264 | -51.67915 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
+| a1e19f80-e071-334d-8f26-4d1305821850 | -3.48763 | -51.67955 | 2024-10-18 03:51:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| f3e1826a-e7c7-3d1d-aea7-09726584174b | -3.45665 | -50.61292 | 2024-10-18 03:51:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 21771226-174e-3393-b2e4-f908b998d887 | -3.38631 | -44.33142 | 2024-10-18 03:51:00 | NOAA-20 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| fd19a7ef-dc62-3f86-a649-8edc365b669c | -3.36004 | -50.30072 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 36a686b0-52c2-3a94-b77b-dea8b244998d | -3.35903 | -50.3066 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 230e2c61-190a-3b02-a260-9cbcb78e3d09 | -3.35237 | -50.30547 | 2024-10-18 03:51:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 73ae128b-a452-3412-83af-7367aba027c3 | -3.3445 | -45.3351 | 2024-10-18 03:51:00 | NOAA-20 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| f4f9783a-7610-34f5-ae6a-1a2d5d86aaa8 | -3.30534 | -47.02681 | 2024-10-18 03:51:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 76f68931-b38c-3d91-b0a9-d8665c42d115 | -3.28161 | -47.12741 | 2024-10-18 03:51:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 6d690852-c092-3a70-856c-3b217cfeb7a4 | -3.28102 | -47.13099 | 2024-10-18 03:51:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 5d80974c-6c9e-378c-93ce-af4b6714bbfe | -3.27563 | -50.66998 | 2024-10-18 03:51:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 71a0adb6-4208-3dbc-a6b4-0d7023260e55 | -3.27094 | -49.09206 | 2024-10-18 03:51:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 402bae99-2624-376a-8d4e-67e054bbf737 | -3.27003 | -49.09023 | 2024-10-18 03:51:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 9f48b96d-dfd0-3bca-b5a3-fff52c2c01e5 | -3.26919 | -49.09502 | 2024-10-18 03:51:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| d898ab6c-9984-3a04-98a3-4239878ba81d | -3.26881 | -50.66888 | 2024-10-18 03:51:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
 
 
 [Clique aqui para ver as próximas entradas](README26.md)
