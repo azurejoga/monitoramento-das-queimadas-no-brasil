@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3a38a94c-3654-3aa4-85d0-19af426d7e8c | -17.893499 | -57.4576 | 2024-10-18 01:37:35 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 67dc0816-679d-34de-9800-6b242da355ac | -17.874001 | -57.462799 | 2024-10-18 01:37:35 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 98955fda-dbed-3555-a790-c3ed102213fb | -17.8766 | -57.473301 | 2024-10-18 01:37:35 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 4b6be174-fdd0-32f2-a33c-9e3fbc3a4d7f | -17.8169 | -57.3992 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| fd658984-c7b0-396f-a56b-c4fa4007f954 | -17.8326 | -57.4627 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 27d88f82-ffa7-3877-894c-30da4376e90c | -17.835199 | -57.473301 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d9a2ffcd-f2bd-3f4b-b72a-854ec9798fbe | -17.8046 | -57.391201 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5aded5e2-ad17-38eb-9252-a4dd6e767778 | -17.807199 | -57.401798 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 5ac6a4a8-6eb5-328c-906b-8d7e55e537d3 | -17.820299 | -57.4548 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 92ead2e5-07e6-3eae-b939-e891911eb8fa | -17.822901 | -57.465302 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 3d6998d5-c25d-3463-bcd2-889c684465c9 | -17.797501 | -57.4044 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 125066fa-853b-3f52-8f47-f295839ef62a | -17.7903 | -57.417599 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 488d862b-bdb1-39fe-b18b-7b16b1ec6042 | -17.792999 | -57.4282 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 2aa0690b-9eb5-38ed-8072-42f8feba6513 | -17.798201 | -57.449402 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b7234050-a758-3847-b9a7-a53ee2e7aa3c | -17.8008 | -57.459999 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 7d38a7ae-919e-3448-a078-2e023d314a90 | -17.8034 | -57.470501 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 4e220408-f7a9-3216-a66c-2ac3c6baa37e | -17.806 | -57.481098 | 2024-10-18 01:37:36 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 0951cb1f-22b9-3935-9fa6-7ba44643bf65 | -17.7806 | -57.4203 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 3a455f91-19b8-3b2c-b238-74e4a4cc6516 | -17.7833 | -57.430901 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 056eff37-6e7a-3772-bf24-f047ffd619ad | -17.7859 | -57.441502 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| a64cb051-0ed8-34df-948b-c98a9be7ebff | -17.7885 | -57.452099 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 2eaf113d-ae83-3400-9686-39ffd558acee | -17.7911 | -57.4627 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| dc10cd26-ea64-310f-aed7-1a555e7c0628 | -17.7736 | -57.433498 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 326b5e09-5d35-3697-8be0-534735883294 | -17.776199 | -57.444099 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 971efe39-f6f5-333e-8157-964168ff34b9 | -17.778799 | -57.4547 | 2024-10-18 01:37:37 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| ad215633-f3e7-3bb0-95c5-6fa9d798623e | -17.2141 | -56.684898 | 2024-10-18 01:37:43 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| f2164f76-b01f-33d2-8ccf-072525cf9667 | -17.2307 | -57.291801 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| ac415065-b435-3320-b0b0-672edf02fe89 | -17.2334 | -57.302799 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 4b8966ab-f4a6-38cf-ad8e-72d311ea80ca | -17.236099 | -57.313801 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| f5728cb9-6cd1-3a86-a035-92c1a89f52e8 | -17.221001 | -57.294399 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b763027c-2fa0-384b-849e-9acf34d35af7 | -17.2237 | -57.305401 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 6b48554e-d43d-38f4-a43d-32fb2f170346 | -17.2264 | -57.316399 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| d9c0b06d-00ce-37b4-b117-5e59f351367b | -17.214001 | -57.307999 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 814ccd44-e7bd-3e2a-8f3c-468ac431892e | -17.2167 | -57.319 | 2024-10-18 01:37:45 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| df6316a4-e56e-399a-a3d4-88abcc7f2ead | -17.1959 | -57.486198 | 2024-10-18 01:37:46 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 1ea44019-b6c5-328f-aed2-755e0beee408 | -17.1985 | -57.496899 | 2024-10-18 01:37:46 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 1f3d7066-2536-32a1-b642-d0c0c33a11c0 | -17.186199 | -57.4888 | 2024-10-18 01:37:46 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 635c157b-114b-3538-9809-b3f4c781c246 | -17.188801 | -57.4995 | 2024-10-18 01:37:46 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 84e6f0a1-b8dc-3b9f-af3a-85272c8d05d9 | -17.0177 | -56.852299 | 2024-10-18 01:37:47 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 684fa84e-05f5-32c3-a847-73ea4a80d7a2 | -16.966999 | -56.815601 | 2024-10-18 01:37:47 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 442db17d-e20a-32f6-aa4a-f23ec84b15b7 | -16.884899 | -56.736099 | 2024-10-18 01:37:48 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| f40eb308-f57b-3bd8-b283-848b5577c8a9 | -17.0266 | -57.3466 | 2024-10-18 01:37:48 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 71ca6d47-0d48-3c34-97d2-126a499f9ff6 | -16.996 | -57.389801 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 65e1db8c-92d6-368d-b599-23f34820f85e | -17.0121 | -57.455101 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 8fe9c7e0-8083-38da-a4c3-f71922beb937 | -17.0147 | -57.4659 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 0c748965-6998-33d1-b341-dd7678552315 | -17.004999 | -57.468498 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 02228d95-bc70-3e98-8ee8-5e224a3de694 | -17.0077 | -57.479301 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 27dd4210-95ab-304a-a341-1d967cce7e4a | -17.010401 | -57.490002 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 400a58c2-cec1-3cc1-b1e2-b36562cdde9e | -16.9979 | -57.481899 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| dd8b6cc2-9959-3ed7-abe1-47738b411b3a | -17.000601 | -57.492599 | 2024-10-18 01:37:49 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| e74374c5-c6f4-349c-98db-ae6ea6a610c9 | -16.9909 | -57.495201 | 2024-10-18 01:37:50 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| f928fe39-4f78-379b-a002-8d46a53e532d | -16.9935 | -57.506001 | 2024-10-18 01:37:50 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 1b0a3ae8-b13b-3b12-816a-6b20a13fe80d | -16.952 | -57.5056 | 2024-10-18 01:37:50 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| cebc7b49-c40a-3360-bee8-08bd5a6efb71 | -16.954599 | -57.516399 | 2024-10-18 01:37:50 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 44fcbf29-a8e1-314c-867a-a33c0b7bd9b3 | -16.898199 | -57.834301 | 2024-10-18 01:37:52 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b171f3a5-f8b8-3651-99e8-f4d6e1b49039 | -16.9007 | -57.844601 | 2024-10-18 01:37:52 | METOP-B | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 57e62474-8984-3679-9dbe-1953068a6b0c | -13.3666 | -61.336601 | 2024-10-18 01:39:03 | METOP-B | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 612c0802-5866-3aff-8745-41851761295f | -13.3683 | -61.344299 | 2024-10-18 01:39:03 | METOP-B | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 136ca9c2-9428-3edf-912e-9fc2b2c6859d | -12.4733 | -61.670399 | 2024-10-18 01:39:18 | METOP-B | ALTO ALEGRE DOS PARECIS | RONDÔNIA | Brasil | 1100379 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 225bdd20-4c10-3221-b671-9f2cad1e7240 | -12.521 | -63.196301 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 29736e79-fb72-3116-acd4-c60a9e35c550 | -12.5336 | -63.252399 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f26d48ac-abd3-373b-b043-3cd8c07ca57f | -12.5352 | -63.259399 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a146de4b-35a6-396d-846a-d140d5d37605 | -12.5368 | -63.266399 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| e2dff2c2-d957-3f40-9443-328c4ac832ef | -12.5383 | -63.273399 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 49b081e8-edca-3809-87e9-f74923ab1541 | -12.5399 | -63.280399 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f96c4ca1-283e-3175-82dc-ba85b493ae90 | -12.5415 | -63.287399 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5143dbf5-b9cb-353b-906e-09b94d0b0ae1 | -12.4606 | -62.973499 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c633fb58-b0d7-3e31-ac3a-b91f99723194 | -12.5097 | -63.191502 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b47f6cff-1a90-373c-b918-d1074fb002a2 | -12.5112 | -63.198601 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a8dc401d-6bac-367d-a334-243b76e16b69 | -12.5128 | -63.205601 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| deb1bd89-56f5-3171-8465-deffe74f5049 | -12.5191 | -63.233601 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 04e73a4f-5e57-3454-a688-faede05a70d5 | -12.5207 | -63.240601 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7f5b6ad1-4fcc-3ef0-8b23-582eb442b6c2 | -12.5223 | -63.247601 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 2b1a5b0a-4507-36f3-a1a6-646594752854 | -12.5238 | -63.254601 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 57b4ca81-b10b-3573-98f9-212f3cec2f0b | -12.527 | -63.2686 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| b67f13c8-371e-3e8b-aed5-5faf38f66b2a | -12.5285 | -63.2757 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 2f7ef3a6-3709-3a8b-82ee-7cd14b38a9e5 | -12.5301 | -63.2827 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 1ec9bbab-d11e-31e1-a48c-de043cbeaeea | -12.5317 | -63.2897 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 052ef683-33cc-3a90-a660-5c5442665793 | -12.5332 | -63.2967 | 2024-10-18 01:39:23 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 414a90c4-abab-33f5-93b3-cb17097e1cc5 | -12.4983 | -63.186699 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a383af97-e040-34ca-a657-ef9aa3a950ca | -12.4999 | -63.193802 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 42a7c852-0d6b-37ba-a91f-f356d73c95b3 | -12.5014 | -63.200802 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 57a1b377-2a48-3ee9-b87e-0f3bbf11fa99 | -12.5125 | -63.249901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c1e22675-8051-38c4-baaa-eed2da7982e6 | -12.514 | -63.256901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f700b7e1-8fc9-397d-9265-92f9493070cd | -12.5172 | -63.270901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d97ed15e-8602-3a73-ac1d-76e9513d74f8 | -12.5187 | -63.277901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 5da66b46-43b6-37f2-b74b-d4d6827cc2e8 | -12.5203 | -63.284901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ab07a7f4-2016-3cfa-b843-66895a85edc1 | -12.5219 | -63.291901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 52957456-42a0-37e7-b8ad-21501d83c2e0 | -12.5234 | -63.298901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 955817df-7fa3-30f7-8c82-7d1493fa19de | -12.525 | -63.305901 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 37c1df2d-e336-3eb2-97dc-8188b903c14a | -12.4901 | -63.196098 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ea9ec1b4-f84a-31c3-8dd5-2c519ade47bc | -12.4917 | -63.203098 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f54dbb75-d3cc-3c13-a79c-fb6c45984ea2 | -12.5074 | -63.273201 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 7b264af4-141d-3cf1-9184-a5f93a39a03f | -12.509 | -63.280201 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d8df0b20-9c0b-391d-9b72-d22aebd923e8 | -12.5105 | -63.287201 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| cea36a0e-2f19-325f-8061-27ec7a866c29 | -12.5121 | -63.294201 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 3a2420c9-81d1-396f-ba4c-38d55da3f414 | -12.5137 | -63.301201 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4d7831c9-b497-3af3-a788-c142f40f51aa | -12.4424 | -63.029598 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| a285c376-c536-39fe-b453-841d95e39a1f | -12.4819 | -63.205399 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 94308309-69dc-336f-84c1-1b32c5c2c426 | -12.4835 | -63.212399 | 2024-10-18 01:39:24 | METOP-B | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 5618fe97-6bf0-3250-82ea-b374bded3ee2 | -3.51758 | -43.23129 | 2024-10-19 04:25:00 | NOAA-21 | ANAPURUS | MARANHÃO | Brasil | 2100808 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| f2e95de1-5a06-3e83-8f93-a3f55fabb1ce | -3.23217 | -44.41109 | 2024-10-19 04:25:00 | NOAA-21 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 50338c93-68e8-3185-ad2f-1b0d12b188fc | -4.65057 | -43.75611 | 2024-10-19 04:25:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| c860ccac-5c29-3ee4-91f5-535892b163a0 | -4.43975 | -43.96367 | 2024-10-19 04:25:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 3766a5a8-3bab-3782-9c7d-bfa1e278277d | -4.60113 | -44.61903 | 2024-10-19 04:25:00 | NOAA-21 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| f29708c4-5be6-3134-8e8d-22f65c2e664e | -4.60058 | -44.62256 | 2024-10-19 04:25:00 | NOAA-21 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 11bc44e9-d8cb-3de7-ace0-6deec74682af | -4.19763 | -43.78012 | 2024-10-19 04:25:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 6659c6d8-8a5e-3e36-9dee-72eb9d2aef7e | -6.30235 | -43.77334 | 2024-10-19 04:25:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 39fd6a71-ad4d-3bc2-8329-e9872893b93a | -6.30176 | -43.77731 | 2024-10-19 04:25:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 45b1d7ec-e2f8-3319-8535-122d6f1f3c57 | -5.57078 | -44.88137 | 2024-10-19 04:25:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 7d3f0198-1564-3c21-bd26-72ddaddfae5d | -5.57023 | -44.88491 | 2024-10-19 04:25:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| b19ef8ee-1d04-3e32-9a37-3a16f12589d5 | -5.56968 | -44.88844 | 2024-10-19 04:25:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 6b3209ee-e91a-3fcf-8c17-edc6bd9c2fca | -5.56913 | -44.89196 | 2024-10-19 04:25:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 81486e1c-d6a3-3e8b-a142-c4cd53305466 | -5.56579 | -44.89144 | 2024-10-19 04:25:00 | NOAA-21 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 4f51ee18-91cb-3e17-8f35-0a5069a7f458 | -5.20003 | -44.79128 | 2024-10-19 04:25:00 | NOAA-21 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 7268a64a-ae5a-371c-96ae-f58216d2e156 | -5.11373 | -44.73462 | 2024-10-19 04:25:00 | NOAA-21 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 2f2a757e-de0b-3f79-848b-d3c7682ae164 | -5.11038 | -44.7341 | 2024-10-19 04:25:00 | NOAA-21 | JOSELÂNDIA | MARANHÃO | Brasil | 2105609 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| b114f668-0d26-3148-8c58-09037fd62e2c | -2.57238 | -45.49706 | 2024-10-19 04:25:00 | NOAA-21 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2d273664-74d7-38b7-92fd-97d14251fe64 | -2.56908 | -45.49655 | 2024-10-19 04:25:00 | NOAA-21 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b0b7c15b-fafc-3bb4-a86c-f212ea5da8a9 | -3.00091 | -45.60665 | 2024-10-19 04:25:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 92e7fee7-83c2-3f30-ac2f-a9d0821aabf3 | -3.00038 | -45.61007 | 2024-10-19 04:25:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 6d6671d2-b595-33ac-8618-b1847acf5f25 | -2.99708 | -45.60957 | 2024-10-19 04:25:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 93dfd4ab-1f7e-3f0b-9481-a634d61f13f1 | -3.55797 | -45.35405 | 2024-10-19 04:25:00 | NOAA-21 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| 15f59074-7f7d-3648-9ef1-55268c004f80 | -3.55743 | -45.35748 | 2024-10-19 04:25:00 | NOAA-21 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 26d4cdbd-67e8-3ec7-8752-a65842955ca4 | -3.55467 | -45.35353 | 2024-10-19 04:25:00 | NOAA-21 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| 74801329-48bd-3e24-bf6a-94d10b280d11 | -3.55413 | -45.35697 | 2024-10-19 04:25:00 | NOAA-21 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 26796d9b-6bff-36d3-a3aa-8ccf076520b8 | -5.12075 | -45.14946 | 2024-10-19 04:25:00 | NOAA-21 | SÃO RAIMUNDO DO DOCA BEZERRA | MARANHÃO | Brasil | 2111631 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 6582fc81-43c7-3488-b3ea-98ee29cd5aaa | -5.1202 | -45.15295 | 2024-10-19 04:25:00 | NOAA-21 | SÃO RAIMUNDO DO DOCA BEZERRA | MARANHÃO | Brasil | 2111631 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7eef405e-0bf0-360d-a59c-c68d5800c663 | -5.11966 | -45.15644 | 2024-10-19 04:25:00 | NOAA-21 | SÃO RAIMUNDO DO DOCA BEZERRA | MARANHÃO | Brasil | 2111631 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 2539a88e-910a-3ead-8b17-b03a4560d072 | -5.02277 | -45.12361 | 2024-10-19 04:25:00 | NOAA-21 | SÃO RAIMUNDO DO DOCA BEZERRA | MARANHÃO | Brasil | 2111631 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 5151db3d-36c3-35bd-96d1-be79bd882a2b | -4.92628 | -45.72115 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f262980c-a431-311d-83f7-23a70440e20e | -4.84568 | -45.10279 | 2024-10-19 04:25:00 | NOAA-21 | POÇÃO DE PEDRAS | MARANHÃO | Brasil | 2108900 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| d6b06957-b250-3c28-b065-2472ff37f1cf | -4.81639 | -45.81316 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 82fc22ad-bcdb-3d78-9e91-10f572850307 | -4.71869 | -45.85003 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 6974f9ad-2d3d-380d-ad4c-f5398e2f1906 | -4.71707 | -45.86034 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2d26a3fd-cb2f-3e85-ae45-eef5c2882570 | -4.71593 | -45.84608 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 504821c6-1b30-30ab-b976-135005e4c56e | -4.71378 | -45.85982 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 079adfe1-42f6-3fa0-983c-3256322fd447 | -4.71317 | -45.84213 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 3b4be68b-d12f-301b-abed-f2f90a23de0c | -4.71263 | -45.84557 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| a7e4d74c-ffa6-3e80-bcdc-af89f110f41e | -4.7121 | -45.849 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 1684175d-4de6-3891-90e2-35f395732905 | -4.71102 | -45.85588 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f708a5f2-b3aa-3f4a-9e43-f6b2eb0e8435 | -4.71048 | -45.85931 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 64791e61-0917-3c06-bfbc-7692bbfdfc55 | -4.70994 | -45.86275 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 455c99cb-a406-3223-ba14-c125569c6507 | -4.70934 | -45.84505 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 2f954c24-869c-3ce3-aa65-ba97b2d33f63 | -4.70766 | -45.83424 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| 25cbebd9-6a36-39c7-ad36-63aa33305363 | -4.70712 | -45.83767 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| 74c58b81-7bdb-35f5-97ce-a1af28f88331 | -4.70658 | -45.84111 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 91.7 |
+| f1e34976-9262-3924-afae-cfcf47c14458 | -4.7055 | -45.84798 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| ee70db66-6fd4-3df2-9c46-4a575258365f | -4.70496 | -45.85141 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 5bd68125-bbe2-3c84-9914-e884de0f6048 | -4.7049 | -45.83028 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3eb11f8d-4c9c-3b58-a35c-f8c9f9f08529 | -4.70442 | -45.85485 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 345372b6-0405-3f95-8002-18a0754fa738 | -4.7022 | -45.84747 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 0754d16d-21a3-3052-b0bd-aa2f4a52a47c | -4.70166 | -45.8509 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 5a683428-ebc4-322e-a890-7edba6862936 | -4.69998 | -45.84008 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| d17d7c49-661f-3885-bea9-559790675990 | -4.6995 | -45.86464 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 9c10f045-1335-32d9-9a98-861fb914d7d0 | -4.6989 | -45.84695 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| ec11667f-f0ea-3939-bf9d-769f424721fa | -4.6983 | -45.82926 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| bdbf0863-7656-35f6-b81f-93d27e743a6c | -4.69776 | -45.8327 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 722afddb-a6ef-3dc1-a4a7-26e4d2936078 | -4.69668 | -45.83957 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| 7bd9689a-1acf-3200-ac08-01cf37413ae8 | -4.69614 | -45.843 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| d3cdf51b-2165-347d-80b3-990fa92d6c3b | -4.52612 | -46.0766 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 04c5dc1b-e6ab-3758-a577-87344ed39e3a | -4.52558 | -46.08003 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 60f1e4a8-6b57-3e73-afeb-8dc241ca1ee8 | -4.52282 | -46.07608 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| dba5bdae-4087-3e1d-8c8d-859200430fb9 | -4.52228 | -46.07951 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ed6f3f8d-5302-3e34-83d7-95d16257643b | -4.46627 | -45.89841 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d4d02c0f-170f-3bdf-bd5e-d0933d8e01b8 | -4.4477 | -45.81759 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4514ed93-eaab-39d7-b43c-1c04e31eaa86 | -4.75101 | -45.81635 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| f9b8da90-c0ab-3ef5-a728-d12bc89dbf64 | -4.75047 | -45.81978 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 770feddd-8b2c-38a5-80c1-0478d2007c19 | -4.72199 | -45.85054 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d8c07dfd-5904-38c0-9f7d-3c5e6189b224 | -4.71815 | -45.85346 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 05c8f167-d871-3f05-9b79-9535c8840dda | -4.71702 | -46.03277 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 015b9a7f-f067-3f46-832f-f329b8270409 | -4.71653 | -45.86377 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 18eb518c-4bde-3f68-9a90-5542fe612456 | -4.71539 | -45.84952 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 0b6b689a-3779-3668-b2af-6c7403875bef | -4.71485 | -45.85295 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e69327f4-2413-3dea-a070-dcd6ab9fa1ac | -4.71431 | -45.85639 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 9023f197-4464-3bd6-bc25-002be299d586 | -4.71372 | -46.03226 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 689a9838-1607-3037-8842-8d6340ed1643 | -4.71324 | -45.86326 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 32827939-fa67-3057-95cc-90ef1ac4df6d | -4.71318 | -46.03569 | 2024-10-19 04:25:00 | NOAA-21 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| a5d4bcfd-305f-3fc1-948e-42ed169b28b5 | -4.71156 | -45.85244 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| a88094c9-c868-31a6-8c11-f1ee67f778a5 | -4.71041 | -45.83818 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 5d1eff0a-1f66-3f3b-9eaa-bbb80cf4328f | -4.70988 | -45.84162 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 02d54df1-cfbb-3964-b663-bbc59649111d | -4.7088 | -45.84849 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 1244c909-09d6-3cc3-967c-235d00c57e12 | -4.70873 | -45.82737 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 47ccfe6e-1c64-36b6-90c0-916162ceffcd | -4.70826 | -45.85193 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 01a802be-fbf9-314c-abcb-e776e468f673 | -4.70772 | -45.85536 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7d5a1f7e-b408-3640-b785-c96e3f38349b | -4.70718 | -45.8588 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4af975e0-6f65-33fc-9078-6067e56c8835 | -4.70664 | -45.86223 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| ac25da36-127c-3e91-b7a8-1449b11df8c5 | -4.7061 | -45.86567 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| ab9f07cd-249e-373c-a598-92952e8f1aaf | -4.70604 | -45.84454 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 91.7 |
+| 1bc6fe11-dd2b-3cd6-866e-8f82e847293a | -4.70597 | -45.82342 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ab6a9390-8c3f-3a73-943d-caca3f7a4918 | -4.70544 | -45.82685 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| de5c7e53-afda-3d02-b90e-f2efc794b617 | -4.70436 | -45.83372 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| d6cf307a-07d4-328a-8730-f78247c2c6b2 | -4.70382 | -45.83716 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| bab8c745-c2d3-3d26-89c7-f6adb3ccb0f9 | -4.70328 | -45.84059 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 91.7 |
+| f9c9b57a-3a6d-3ab1-827f-f7898bad96b2 | -4.70274 | -45.84403 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 91.7 |
+| 53af270b-d464-3729-9713-572f53408205 | -4.70214 | -45.82634 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d7f00a7e-d11f-3dc7-91c6-c62ccf490d1f | -4.7016 | -45.82977 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f90a93fc-cd30-3f1f-81fb-41770a7b8bee | -4.70106 | -45.83321 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 7581dfcb-8b24-3e23-9290-88e6ea8eb301 | -4.70052 | -45.83664 | 2024-10-19 04:25:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 69164762-987a-3ac1-a699-aecc6e9c7d66 | -4.70004 | -45.86121 | 2024-10-19 04:25:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README16.md)
