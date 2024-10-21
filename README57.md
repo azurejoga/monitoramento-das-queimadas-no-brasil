@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9e05914a-2bad-36fb-b68e-683f7a71b575 | -7.44791 | -64.46576 | 2024-10-20 05:50:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f1e178f8-5935-3103-8368-f77d615bd755 | -7.44703 | -64.46677 | 2024-10-20 05:50:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 279dfb43-0dce-36b5-aa31-e3032e092f0f | -7.44642 | -64.47071 | 2024-10-20 05:50:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 19798d0d-7837-335a-a512-29d37dd5c9ff | -7.39428 | -72.78689 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 63f74686-5a50-3bc1-b67e-9c3913d3b902 | -7.39035 | -72.96324 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d14bede3-08a0-302a-aa37-c87487e0238f | -7.36787 | -72.86669 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| f8a397be-c679-30c3-9d58-5b2a3deca8c3 | -7.3672 | -72.87062 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 77e6bd8a-8cb9-3339-8e32-15a109d9f017 | -7.36631 | -72.85031 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 1296d936-54e1-3bbd-a1dc-d32c0404704d | -7.36365 | -72.86599 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| b2057c9b-1a40-3489-9778-c2a44a645182 | -7.36299 | -72.86989 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 3e06f326-0a30-3904-b0c6-89ce445df907 | -7.35878 | -72.86918 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 1d6c0aeb-25ae-36cc-8053-e5a12f8a907e | -7.35811 | -72.87311 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 81271197-6c5b-39bc-9546-f52b4a4089b4 | -7.35745 | -72.87704 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 68cb27bd-eddd-3124-9910-8152ec8930c5 | -7.32642 | -72.75562 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e45cb377-d542-39eb-9df2-9aae61d97f3d | -7.32575 | -72.75948 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d3412fc7-fa5d-355b-babc-d96d7ee063c6 | -7.32223 | -72.75494 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b4899f24-148e-3b0b-a4e6-76d5a4ab521c | -7.32156 | -72.75879 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 911f77d1-39ba-3ae4-b98a-18fe0eea46fd | -7.32096 | -72.75539 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c96c65fb-5518-3fa8-958a-492cc28f46bd | -7.32032 | -72.75925 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 51bdb9b9-982e-3fef-b456-43c500eeeade | -7.31738 | -72.75809 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d673f448-a112-313a-97f5-ae1b1f22f972 | -7.31613 | -72.75855 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d558ee41-cca5-3d66-aa4c-b65d3fe068f9 | -7.28082 | -73.06913 | 2024-10-20 05:50:00 | NOAA-21 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e7fe33d7-f674-3658-b7b8-bc98fe812cee | -6.95331 | -71.49358 | 2024-10-20 05:50:00 | NOAA-21 | IPIXUNA | AMAZONAS | Brasil | 1301803 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 550f11aa-42f5-37a8-a84f-2eb105feaf0e | -5.93602 | -59.96576 | 2024-10-20 05:50:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3399179b-9643-3dba-a905-8b9d33501c44 | -5.93538 | -59.97036 | 2024-10-20 05:50:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cc5c1777-3f2c-35ed-a4a3-8f0b30ce1b71 | -12.71302 | -62.90127 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ae776c4b-d1ab-3c8c-a5da-b89cf2d2ef9f | -12.52147 | -63.30419 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 5ea5d186-01ec-3d61-ac11-b00b00ebed82 | -12.52099 | -63.30771 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| be2daa95-b9b2-37a0-b38f-21216491adc1 | -12.51748 | -63.3036 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 23d84570-4f9e-3248-a360-67ab6c5b8826 | -12.517 | -63.30713 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 0765c13e-d694-3036-ac18-ed0add9ede96 | -12.51444 | -63.29597 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 7690cac2-2444-3720-b596-df515ab3f163 | -12.51349 | -63.30301 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| d23fa61b-64e5-3c78-8fdc-e0682b71b332 | -12.51301 | -63.30654 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 7fb17391-68b0-35ec-94d7-e0adcc2929ca | -12.50902 | -63.30595 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 00b09648-cd54-3815-8ca8-18bc1781ba8f | -12.5055 | -63.30184 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| eb3736de-f7e9-3748-a123-8c9354112b9e | -12.49941 | -63.28657 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| bbfc1869-5891-372e-9f11-7188a5f44989 | -12.49894 | -63.2901 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ca061407-c0f2-3239-887e-be51cf9ea80d | -12.49816 | -63.19299 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b4d903c6-4689-3788-b243-8fa744dd0663 | -12.49719 | -63.28698 | 2024-10-20 05:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 8ea56b42-21bc-3ad9-a475-756c3245d6f4 | -19.55792 | -56.62121 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 81ee83ae-c6e7-3340-b104-2107a0d06b32 | -19.55433 | -56.6194 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 8cf66795-5796-30ba-bd2b-51c46da2736b | -19.5512 | -56.62052 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| e55a1f3d-1471-3e2c-9950-974dab3ddfb0 | -19.54762 | -56.61868 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 9d6e71c3-bada-331a-98e4-f23637d8849c | -19.54711 | -56.62491 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 601fbd26-9a37-3019-9523-7c691dca91ca | -19.54661 | -56.63113 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| c5ee2191-2d72-36f1-addc-929b872259e9 | -19.54611 | -56.63735 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 8b49de21-7cc3-37c7-adfe-5088ee1c16fb | -19.54449 | -56.61982 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| eabc9128-2a7f-318c-96d4-c2e5c211e1a8 | -19.54395 | -56.62603 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| 80261e05-b447-36e9-830a-53881cffaeb2 | -19.54341 | -56.63224 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| 31fdfa1c-f467-31c3-a3c2-b6ce44e4a3b9 | -19.54288 | -56.63844 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 48a15783-b421-33e3-8fad-a213f73df233 | -19.5404 | -56.62418 | 2024-10-20 05:53:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| ded73143-0f58-3e7c-9adf-150ba5e2aa60 | -12.96317 | -62.80418 | 2024-10-20 05:53:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f3ce2ad0-d699-3acd-af6d-2085d7d9cef4 | -12.77915 | -62.96383 | 2024-10-20 05:53:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 5a3c272c-d3d5-3be2-8a54-a876fc4be482 | -3.05555 | -61.67302 | 2024-10-20 06:12:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7c136ee5-5590-38be-ae3b-993abb8bfeaf | -3.04959 | -61.67217 | 2024-10-20 06:12:00 | NPP-375D | CAAPIRANGA | AMAZONAS | Brasil | 1300839 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 8a89e2f4-7321-38e1-a851-e3ac0d1e9b2e | -12.54423 | -63.27898 | 2024-10-20 06:14:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 04260162-d490-379b-a73a-f39b384723ba | -12.5437 | -63.28364 | 2024-10-20 06:14:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 305cab61-ca20-3469-bbcf-a1a3f08a2973 | -10.20113 | -64.8427 | 2024-10-20 06:14:00 | NPP-375D | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 49e3a979-f13c-35af-ad6a-614a7a922bea | -10.19579 | -64.84192 | 2024-10-20 06:14:00 | NPP-375D | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9d232e59-7a90-3cec-8f0a-05f48a5cd40e | -8.90169 | -71.26309 | 2024-10-20 06:14:00 | NPP-375D | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a2ec7623-0c85-3f84-ba20-dbdf8fe0e093 | -8.87576 | -72.74523 | 2024-10-20 06:14:00 | NPP-375D | MARECHAL THAUMATURGO | ACRE | Brasil | 1200351 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3539a4c9-a094-3548-9020-85c187fac62d | -8.33932 | -72.60396 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6b7cd9fb-6dd5-35b3-a9d1-f234c9d5a03e | -8.33876 | -72.60749 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3534f84d-99df-3c49-b811-2d88cc21b077 | -8.33766 | -72.61459 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ff4094fe-c037-32f8-8cbf-69b7d4c3ffd3 | -8.33597 | -72.60343 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f946b765-df3d-368f-8681-8c5f3608b182 | -8.33541 | -72.60697 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d27b9862-2e00-3fb0-ab6e-cebd6b20e1f3 | -8.33431 | -72.61407 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 63ecc4b9-5efc-3060-8b17-fea1f1ce0f2b | -8.33097 | -72.61354 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| de121828-7266-31eb-9166-71037d5d2743 | -8.31135 | -72.8059 | 2024-10-20 06:14:00 | NPP-375D | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ab246996-6e4f-390e-a791-2f36afecac44 | -8.01441 | -72.40848 | 2024-10-20 06:14:00 | NPP-375D | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 74fc3c45-367d-393b-abf7-3256c32272fc | -8.01386 | -72.41205 | 2024-10-20 06:14:00 | NPP-375D | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 2a64ac48-ee8b-3c58-9af6-fdc71da57757 | -7.85087 | -72.87398 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 90bc3037-5150-3df3-97ab-a53caa7fc387 | -7.85033 | -72.87748 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e0114567-c7be-31bd-a6f9-da4764c7827a | -7.84699 | -72.87696 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 447e5ec6-d64d-3a26-b7f5-0508353b22ee | -7.84058 | -72.76463 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| b1eb8dce-158b-3e94-ac57-daf10d489451 | -7.83021 | -72.83129 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a586bb41-8fc1-35c9-935d-74797015edbf | -7.82749 | -72.84879 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f9d81593-55c9-3cb8-94c1-681401a2c319 | -7.79569 | -72.77594 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| abf1fcee-e3d4-307f-9e54-36103d7a08d1 | -7.7891 | -71.98779 | 2024-10-20 06:14:00 | NPP-375D | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 85e1c19b-001d-3fab-8949-58c684c2af1b | -7.78621 | -72.96056 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 0a30fc47-e4f2-3825-90a6-15d14fb61702 | -7.77157 | -73.07626 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| eb03df64-a920-33cf-983f-6426f4e1db7d | -7.76825 | -73.07574 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 232356d4-cd43-38b5-8862-cc276894da51 | -7.70978 | -73.04182 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| cc300497-1e67-3bdd-8b77-ae9c7b2a8d64 | -7.70923 | -73.04531 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 2b9b8003-23ed-36de-9bfc-e6e5ce7ee87b | -7.70868 | -73.04881 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 37ea1044-9400-31a4-89c4-f5ac3b2d8a38 | -7.70645 | -73.04131 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e16c3d3d-8cb2-317b-a688-365bafa020bc | -7.7059 | -73.04479 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ae24bf01-127b-3f71-be07-a45f007787d6 | -7.70536 | -73.04828 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 812ab6c3-5996-393b-bcb5-cabc3496c7f9 | -7.70313 | -73.04078 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cb786574-684b-3ed0-86cd-178cc12b17c3 | -7.70258 | -73.04427 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 43191f16-cd5a-366e-8273-42127f3fd5f2 | -7.70203 | -73.04776 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 93a66ef6-ed64-3e54-9024-f66c9b400b34 | -7.70149 | -73.05125 | 2024-10-20 06:14:00 | NPP-375D | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 726701f9-14f2-3ed9-af9c-4fd607efa82c | -7.66939 | -73.06048 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e91666c5-fde0-3382-b44f-daa702eb9aeb | -7.65765 | -73.24405 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 84a76982-6f92-3e13-8b69-f9e89ad907c7 | -7.61121 | -73.06569 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 643b5ac3-cdd6-3662-8406-05d0385ec329 | -7.58347 | -73.04704 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1a5ea270-892b-3e25-92f7-ecdbf13a9165 | -7.58015 | -73.04652 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 1b8b8d41-49a1-32b6-b2fb-8363d113b8e3 | -7.5796 | -73.05001 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 048588c8-cb90-3c92-a613-32add2d65824 | -7.57628 | -73.04948 | 2024-10-20 06:14:00 | NPP-375D | MÂNCIO LIMA | ACRE | Brasil | 1200336 | 12 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 3d99cea3-aa85-30ce-a714-95d2b31eaecc | -7.45863 | -72.72303 | 2024-10-20 06:14:00 | NPP-375D | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2816fc7a-1154-3a8d-b207-ca8d999aa5a4 | -12.50875 | -63.29311 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 480021ea-796e-39e7-9e39-fd468b0b22bb | -12.50766 | -63.30014 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| b45236ee-b30a-3f6c-bbeb-1adf0e2ed57c | -12.50711 | -63.30365 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 07881cdc-7a73-3be6-bb64-cacf18e0cb69 | -12.50656 | -63.30717 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 57bd76a9-74fb-3415-aa8b-1e896a34c7d3 | -12.506 | -63.28906 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| da873c36-ade2-35d0-b63c-377d472e65c3 | -12.50545 | -63.29258 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d4e054c6-34a7-368d-8bee-e4be3fcc0b24 | -12.50489 | -63.18455 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2efef13d-b8ef-3e84-8bc3-5d10ccf79329 | -12.50435 | -63.29961 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c11796c8-82a5-32b2-a964-1665167325ab | -12.50434 | -63.18806 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c5326d86-810a-322f-916e-e22a0a767a00 | -12.5038 | -63.30312 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 312db51b-96ec-3bab-8eaa-a1ecca7f187c | -12.50324 | -63.28501 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fc068572-4f2b-3e56-8289-25feff57dee3 | -12.50269 | -63.28852 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c5a9357a-ebac-3bd7-a72d-8182f815dce6 | -12.50214 | -63.29204 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 2a4f2b78-47ad-3bea-855e-29435dd33972 | -12.50105 | -63.29907 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 29d3efc1-38ff-300b-a677-e7b251913ae3 | -12.50104 | -63.18753 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 46467456-bf56-322a-ba61-00beafac9383 | -12.5005 | -63.30259 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| aff8beb0-9968-395c-b839-613b4ff45cbd | -12.49994 | -63.28448 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 46685078-85ea-3b8a-92cc-c05b9c3710a8 | -12.49939 | -63.28799 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 707c0c2d-d866-303d-a736-70b28aa92247 | -12.49884 | -63.29151 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 3fa46801-7755-3093-8b7a-c209fa981369 | -12.49663 | -63.28394 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 1cc025e7-160f-38f1-9dfe-ef702b5417b1 | -12.49608 | -63.28746 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 77460bfe-2c8b-3cf0-88b3-5cb43d737429 | -12.49333 | -63.28341 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 005fea3b-8641-3d9c-b219-de64380a9f2e | -12.49007 | -63.27943 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| b5444101-f4de-3e69-83d7-e347be6eaf95 | -12.48952 | -63.28295 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e8230fe7-cc20-34ce-b0ad-95cbf591d86f | -12.48897 | -63.28647 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 6f8c085b-0b38-3b49-bd06-264fbe57c82c | -12.48781 | -63.1854 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 642d4cda-ffa4-3454-b0e7-7de7ec929441 | -12.48727 | -63.18892 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0968366a-82bf-3038-8cb4-d4b0da59cab3 | -12.48622 | -63.28242 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a1a2493f-fd2a-3f8c-969d-a7cdb815e98b | -12.48567 | -63.28593 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 75d04a6a-8820-3516-99c5-6a6adefa8409 | -12.48451 | -63.18487 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 51ea1e21-a628-3285-8d8e-68f55e179664 | -12.48396 | -63.18838 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 66d83e5e-effc-3e7e-af2a-111a05db5725 | -12.48341 | -63.1919 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 5a386788-e9cb-3d91-956a-7bd890ea3ac2 | -12.4812 | -63.18434 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 278a17a1-c5f8-3df3-a76e-a667b9725a7c | -12.48065 | -63.18785 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| e8937496-e882-3d82-b4e7-bb274b2850be | -12.48014 | -63.23458 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b6619d7d-868a-3576-bfbf-5bb05f471cf8 | -12.48011 | -63.19137 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 2a7e12d8-b11a-3fb2-8018-0d2e31541a87 | -12.47684 | -63.23405 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c57615bf-1c80-3d1a-85c9-ac2027e3e81b | -12.4768 | -63.19083 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 5051812b-bcb9-3221-83c9-a8e3332ae95d | -12.47625 | -63.19435 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 02eae3d6-a76b-3f1f-9530-a1b8f4dffda0 | -12.4757 | -63.19787 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 0a0ea527-39bb-339b-98ad-93431e0ba23f | -12.47519 | -63.24459 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| fc2aa62e-95ba-36f4-b738-43a6b8837e4a | -12.47188 | -63.24406 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3b86e17b-9345-3a71-937a-ab30c1d20bf3 | -12.47133 | -63.24758 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 18e1a7a5-2881-3dc6-b42b-0e3a73ce0045 | -12.18865 | -63.3383 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b14f1c06-bd90-3e73-a192-61832ecdd4e7 | -12.18315 | -63.33022 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| b26661c5-9b3e-3085-a492-fc52739b905c | -9.34513 | -63.22461 | 2024-10-21 05:31:00 | NOAA-21 | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 37daf670-5df3-36d0-80de-a4b067826938 | -9.34159 | -63.22336 | 2024-10-21 05:31:00 | NOAA-21 | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 3a6a19f0-6633-3d12-b787-ac2f3d217238 | -9.06389 | -63.66425 | 2024-10-21 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 015097f8-1817-3027-8de1-c75020857ae5 | -9.06056 | -63.66372 | 2024-10-21 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e10e9427-e48a-3eec-b61d-6756a7331014 | -8.59287 | -63.8615 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 151a8a66-a371-3f73-a4a2-2f1643940951 | -8.58939 | -63.43896 | 2024-10-21 05:31:00 | NOAA-21 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 942d060e-368c-321e-9e45-dc9b35315a39 | -8.45646 | -64.05283 | 2024-10-21 05:31:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4fe96cbe-77e2-3c92-acc5-9b5123d8bcd0 | -8.12531 | -63.87394 | 2024-10-21 05:31:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 092380ff-60c8-35fa-b0f3-bb13791e2ef1 | -8.12474 | -63.87753 | 2024-10-21 05:31:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 18ec0078-ddf8-3148-9d37-271a99add8b9 | -10.10057 | -64.31239 | 2024-10-21 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a6067e05-d029-3ca5-9122-c576bf1e5fc0 | -10.09999 | -64.31601 | 2024-10-21 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d3b74a6f-a0f1-3b98-8b0e-20a017f11c1e | -10.02184 | -64.18886 | 2024-10-21 05:31:00 | NOAA-21 | BURITIS | RONDÔNIA | Brasil | 1100452 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| d4aebc32-cfe3-31cf-9944-7f41f88b939b | -12.34023 | -63.69448 | 2024-10-21 05:31:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a3211f33-1824-3669-89e7-22bab8fa7300 | -12.21451 | -63.54036 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e940c5de-6f68-3a05-9c5a-be956603f34a | -12.01205 | -63.5077 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8c5c59a1-683a-30e5-987f-90513b30237e | -12.01095 | -63.51471 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 025829a9-af12-3af3-8e3b-fa4931d19856 | -12.0082 | -63.51068 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 62b9d75f-d973-3e03-ac22-a1b0108f3408 | -12.00765 | -63.51418 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 27310d90-ecd5-33e3-bf35-aeff3a45fb1e | -12.00709 | -63.51769 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a0ed3642-8711-3b3b-855b-440f40044a5e | -12.00434 | -63.51365 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| e486c35b-a7b2-3134-accd-64aac6245db8 | -12.00379 | -63.51715 | 2024-10-21 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b5634875-e0de-3da8-99cb-9dd02d4944b0 | -9.42076 | -64.32439 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e6966c65-28d6-3997-936f-2bedbafe5cfc | -9.17133 | -65.44753 | 2024-10-21 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| adf59b39-288a-3f83-be9a-26f0e5235725 | -9.03799 | -65.46349 | 2024-10-21 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8e0f7348-f67e-3ac1-bd40-fbb19cb63c00 | -8.73179 | -64.1682 | 2024-10-21 05:31:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3cf5689d-8180-3ea8-9cfd-de0b86380859 | -8.61981 | -64.16526 | 2024-10-21 05:31:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 2c31d036-f898-324b-a601-7ee3e1b38d80 | -9.96339 | -64.87811 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 5948735b-ed3a-3bcd-9453-cf3b75cde99f | -9.96278 | -64.88186 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ef1475ab-790b-3303-9b6b-9499f6b2a640 | -9.95998 | -64.87756 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| afb576a1-c923-3d5a-90a7-72617546f47d | -9.95949 | -64.77049 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fd41f92c-b586-3b9b-ac25-6e53a79410ac | -9.95936 | -64.88129 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 74f79987-c014-3996-a108-0a6e9227e745 | -9.87726 | -65.14822 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 55c39993-7763-3c37-b20b-0872358068b1 | -9.87381 | -65.14765 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9874432e-6ba4-3acc-8c92-24c61926d9d4 | -9.81638 | -64.74371 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 8d6a4297-35d5-32ed-93d6-9bbbd5b4cf9b | -9.76714 | -64.72421 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0249e407-d222-33b1-bea2-e0222dda98d1 | -9.76653 | -64.72793 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| ae51a4bb-574e-3956-bc5f-01fd246ff1f5 | -9.76496 | -64.71622 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a313dc02-7f46-305d-ad95-531a5b4cea7d | -9.76435 | -64.71994 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4825ecf1-e18a-305f-b639-89bc214cf4b8 | -9.76374 | -64.72366 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| af03fd7b-9db8-36c6-8ffb-ee5619d033e0 | -9.76313 | -64.72737 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 131d5d1e-b509-308f-8388-83f4d4ad2a99 | -9.76094 | -64.7194 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 23f2c3f1-58b9-345f-9f3a-1ac5bb393a8e | -9.76033 | -64.72311 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| b7f4a211-eac6-3ba3-a952-330972216fea | -9.75972 | -64.72682 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 854935df-7d9c-3b13-8df6-890b3d0c371d | -9.75754 | -64.71883 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 55cb8de6-6e1e-3817-b82a-e483ff06ff28 | -9.75693 | -64.72256 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 0530e2e7-fc47-3b43-89d5-4746a3cbf2eb | -9.75642 | -64.72218 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4d4e5bd8-e589-369e-8019-90bbe12cd049 | -9.68857 | -64.37937 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| e94a9f2b-de92-30f9-bd4a-1747e8984594 | -9.6869 | -65.23224 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bba82286-3204-32f9-a612-5f5fbc55bec6 | -9.68626 | -65.23611 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f3e70cab-4dba-3959-b3c6-4f1ddd3a1ec3 | -9.66056 | -65.74028 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 58fd1ce4-760d-358c-823d-aa62014defce | -9.65539 | -64.95586 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 7e4c82f1-598b-3f56-9eff-942b0389127d | -9.57408 | -64.70028 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 19d535da-2b19-367d-82f3-cddad4bbfc9d | -9.57068 | -64.69971 | 2024-10-21 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e61dd1f7-b496-3dca-9a50-5738f2c4e9d0 | -10.20834 | -64.84158 | 2024-10-21 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| c112c441-a557-3c79-b6f3-02acde8d4e72 | -10.20554 | -64.83729 | 2024-10-21 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
 
 
 [Clique aqui para ver as próximas entradas](README58.md)
