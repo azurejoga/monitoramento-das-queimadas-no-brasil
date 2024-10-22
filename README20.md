@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8d0964d5-43e4-3e45-b32d-938b03b41ecf | -2.8556 | -53.3256 | 2024-10-21 03:15:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 29.5 |
-| c94d8a90-2e1a-31df-bddf-8ad6c2388cf1 | -2.905 | -45.2143 | 2024-10-21 03:15:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 64.1 |
-| 12248a99-27aa-36c5-8c6c-88810c4502c7 | -2.9051 | -45.1918 | 2024-10-21 03:15:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 44.1 |
-| 12bacd77-aed2-328c-80ed-4ef69f2c0043 | -3.0036 | -53.0583 | 2024-10-21 03:15:23 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 35.8 |
-| caacd332-4e06-3db9-8179-a2bda28e6a3b | -3.0037 | -53.038 | 2024-10-21 03:15:23 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 32.8 |
-| 84627d18-41da-306b-b115-df2df63e363d | -3.1137 | -53.1366 | 2024-10-21 03:15:24 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 32.2 |
-| 34c22a08-88da-3786-967c-d661ad76a6e4 | -3.1138 | -53.1163 | 2024-10-21 03:15:24 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 44.6 |
-| 8410970f-f63e-3ec8-9f4a-6d29802a000a | -3.2146 | -50.8093 | 2024-10-21 03:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 75.6 |
-| 5a834cdd-fed6-39e5-98dd-3b70f984bd26 | -3.2147 | -50.7884 | 2024-10-21 03:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 57.3 |
-| 6bf73e23-4a48-3852-81c7-e75363e6fdcb | -5.6894 | -46.435 | 2024-10-21 03:15:38 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| 373fc6fd-3284-30c2-b02b-7685ace071f3 | -12.4778 | -63.1885 | 2024-10-21 03:16:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 27.5 |
-| f600052f-f240-3276-9716-5c1312684e45 | -12.5357 | -63.0319 | 2024-10-21 03:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 50.1 |
-| d9540726-09fa-3e84-a29c-9c6617b83789 | -12.5147 | -63.3014 | 2024-10-21 03:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 42.2 |
-| da9d04dc-603c-331f-8131-6c1777f80524 | -12.5168 | -63.0329 | 2024-10-21 03:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 38.9 |
-| 294f4088-99eb-37e5-95c6-42ce2f76d9e2 | -12.5336 | -63.3003 | 2024-10-21 03:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 35.1 |
-| 8c40c582-04d8-3e54-8a39-595deabdc12b | -12.5356 | -63.051 | 2024-10-21 03:16:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 37.1 |
-| 5df15e60-a15b-3f3b-b748-feea499c6406 | -18.2828 | -56.0994 | 2024-10-21 03:16:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 121.0 |
-| 62e4d260-c8c8-3c6e-828b-406950a153ba | -1.1834 | -53.6368 | 2024-10-21 03:25:13 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 41.0 |
-| 1f5f79ee-29c1-3fb2-8d6e-bae029b790f9 | -1.2018 | -53.6366 | 2024-10-21 03:25:13 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 57.0 |
-| bc76015d-5d55-37d3-8986-608acdba9b40 | -2.4824 | -49.1233 | 2024-10-21 03:25:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 56.9 |
-| 7667421c-7867-362e-8ebc-46641a320814 | -2.4824 | -49.102 | 2024-10-21 03:25:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 63.1 |
-| b34a1382-68b9-3ad8-9c1e-a3d14a5bfc8e | -2.8556 | -53.3256 | 2024-10-21 03:25:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 30.9 |
-| c02478f3-ebbb-3eff-b773-9cdea6d6bf64 | -2.905 | -45.2143 | 2024-10-21 03:25:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 60.0 |
-| 4048c10a-218e-3e97-9b64-a32da5a22846 | -2.9051 | -45.1918 | 2024-10-21 03:25:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 38.4 |
-| 5f98c3c4-acb9-39da-b85a-4616b0f18d1a | -3.1138 | -53.1163 | 2024-10-21 03:25:24 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 37.9 |
-| 1bcbcafb-d733-301c-aa57-e3a80e435ef7 | -3.2146 | -50.8093 | 2024-10-21 03:25:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 62.4 |
-| 955c5ba1-6f41-395e-ba0c-34c034abf510 | -5.6894 | -46.435 | 2024-10-21 03:25:38 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 78.4 |
-| 895ec384-fdb4-3ee8-bdba-4c97ace69aad | -5.6896 | -46.4128 | 2024-10-21 03:25:38 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 48.9 |
-| 19cc07dd-6de6-3848-bb88-e56f18bcd259 | -12.5147 | -63.3014 | 2024-10-21 03:26:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 38.6 |
-| 55e7654a-f0a5-33fb-8b2d-53bfd8ddcc8b | -12.5167 | -63.0521 | 2024-10-21 03:26:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 39.2 |
-| 04c91310-7f6a-36ed-abe0-cc4f681a8b47 | -12.5168 | -63.0329 | 2024-10-21 03:26:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 34.6 |
-| 6a75a6c8-d64d-305a-88ca-552816095c6a | -12.5356 | -63.051 | 2024-10-21 03:26:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 30.9 |
-| 21149574-2dd6-30df-abfe-275965999412 | -12.5357 | -63.0319 | 2024-10-21 03:26:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 38.2 |
-| 00b37ff9-0d45-343d-98d5-2bb068fdaa3b | -18.2828 | -56.0994 | 2024-10-21 03:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.8 |
-| b9e18f85-22bc-3f2f-a577-efb21ca1ede5 | -1.1834 | -53.6368 | 2024-10-21 03:35:13 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 39.1 |
-| 22f83e33-2589-35e2-8365-9ff63e42a36e | -1.2018 | -53.6366 | 2024-10-21 03:35:13 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 56.5 |
-| 2b4f2f41-2786-3d12-9389-40677afa4acf | -2.4824 | -49.1233 | 2024-10-21 03:35:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| bc0484e4-b457-3902-ac8c-0824feb126ef | -2.4824 | -49.102 | 2024-10-21 03:35:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 56.0 |
-| b5454f3f-b1db-3ee6-a9fe-f9aa15122c66 | -2.7885 | -51.3618 | 2024-10-21 03:35:22 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| 3866fd44-ce76-3dca-8ef9-126f8c02a1d8 | -2.905 | -45.2143 | 2024-10-21 03:35:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 67.0 |
-| cf15bc09-03ce-3e76-ba76-1dbe2412c39e | -2.9051 | -45.1918 | 2024-10-21 03:35:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 38.1 |
-| 24c8fa0d-9742-3051-86e4-1f7de07dfe7f | -3.1138 | -53.1163 | 2024-10-21 03:35:24 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 35.0 |
-| 44ed7339-8dfc-3d01-9301-b74e5ff96e6b | -3.2146 | -50.8093 | 2024-10-21 03:35:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.9 |
-| d0452641-fce1-3460-b1d3-a37a3135ee4b | -5.6894 | -46.435 | 2024-10-21 03:35:38 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 79.8 |
-| fc0d248f-5363-37e7-9847-156e2c2b97f5 | -5.6896 | -46.4128 | 2024-10-21 03:35:38 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 49.5 |
-| d5baa84d-4e18-3b8e-9030-0664b77ee890 | -12.5147 | -63.3014 | 2024-10-21 03:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 26.8 |
-| bbb3e950-38c0-33cc-b203-d180e2d5de1e | -12.5167 | -63.0521 | 2024-10-21 03:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 27.6 |
-| 0e2650c8-44a3-3d55-9ff1-4b7b4b385144 | -12.5357 | -63.0319 | 2024-10-21 03:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 27.2 |
-| d987ce44-63d7-32d5-8eb7-777d32151dc9 | -17.0213 | -57.3333 | 2024-10-21 03:36:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 72.0 |
-| 3557abb9-7376-3093-b28a-7af28507739e | -18.2828 | -56.0994 | 2024-10-21 03:36:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 115.8 |
-| 9cfd5d9c-392a-3103-9b75-33584bba9c9d | -1.1834 | -53.6368 | 2024-10-21 03:45:13 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 38.6 |
-| d7b51faf-6cd7-320f-8e53-1f194baf3f20 | -1.2018 | -53.6366 | 2024-10-21 03:45:13 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 56.2 |
-| 50696625-1c00-3b34-941b-422175697307 | -2.464 | -49.1024 | 2024-10-21 03:45:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 29.1 |
-| 9d314faa-6b68-3349-8c09-f5bbfdb603bf | -2.4824 | -49.1233 | 2024-10-21 03:45:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 47.1 |
-| 18689c5b-41f3-3c76-951c-b2fbde184490 | -2.4824 | -49.102 | 2024-10-21 03:45:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| 8e4dfdac-8c3b-3b7d-9684-c81f9ffc02a3 | -2.7885 | -51.3618 | 2024-10-21 03:45:22 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.3 |
-| f44ddda5-c186-37ab-adbc-3213788ee34c | -2.8555 | -53.3459 | 2024-10-21 03:45:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 28.8 |
-| 7319390f-3518-332d-88e2-50573fd2f451 | -2.905 | -45.2143 | 2024-10-21 03:45:22 | GOES-16 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| a96056c7-7a6d-3208-a268-cf1f7886efff | -3.1138 | -53.1163 | 2024-10-21 03:45:24 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 34.8 |
-| 2850a878-12f2-3f69-8e8c-01c9bcba122f | -3.2146 | -50.8093 | 2024-10-21 03:45:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 0e2dfd44-549f-3507-a4d5-bfabac473ee9 | -4.2356 | -43.7391 | 2024-10-21 03:45:30 | GOES-16 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 118.8 |
-| 1a8a128e-a02b-31f7-95a6-c881e6804527 | -4.2357 | -43.716 | 2024-10-21 03:45:30 | GOES-16 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 87.3 |
-| e9356fda-4138-353c-a097-409f88755fda | -4.2542 | -43.7381 | 2024-10-21 03:45:30 | GOES-16 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 54.0 |
-| f232e507-a978-3ae0-bd28-ada206b1ee16 | -5.6894 | -46.435 | 2024-10-21 03:45:38 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 85.7 |
-| ac159f2f-3f74-369a-98f8-575ee252f5e5 | -12.4778 | -63.1885 | 2024-10-21 03:46:17 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 27.5 |
-| b0b841a4-f737-3225-80bd-0c9712c1b412 | -12.5357 | -63.0319 | 2024-10-21 03:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 26.3 |
-| be457522-b544-37bf-b971-47111702882f | -18.2828 | -56.0994 | 2024-10-21 03:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 112.7 |
-| cb46dd3f-4c90-323c-a526-73ef176e3579 | -4.86567 | -43.25295 | 2024-10-21 03:47:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| f064bdeb-c4bc-3afb-8988-e93cc35ca459 | -6.32746 | -35.06104 | 2024-10-21 03:47:00 | NOAA-21 | VILA FLOR | RIO GRANDE DO NORTE | Brasil | 2415008 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 23d7a87f-2360-3a34-a59d-8c7dc27989ad | -6.01508 | -38.13339 | 2024-10-21 03:47:00 | NOAA-21 | FRANCISCO DANTAS | RIO GRANDE DO NORTE | Brasil | 2403905 | 24 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 1132978a-52f2-3543-9934-62d2ae68e152 | -5.92552 | -38.35797 | 2024-10-21 03:47:00 | NOAA-21 | ERERÊ | CEARÁ | Brasil | 2304277 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 82eb5243-8157-3d2c-8f83-7f3b281b7e3f | -5.59382 | -37.44621 | 2024-10-21 03:47:00 | NOAA-21 | CARAÚBAS | RIO GRANDE DO NORTE | Brasil | 2402303 | 24 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| ae2dd34d-1572-388d-99bc-82cd786a78e5 | -5.38305 | -42.89343 | 2024-10-21 03:47:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| a9093cfd-5cda-3f9d-ac7d-f68e60b0072d | -5.32704 | -35.48129 | 2024-10-21 03:47:00 | NOAA-21 | TOUROS | RIO GRANDE DO NORTE | Brasil | 2414407 | 24 | 33 | nan | nan | nan | Mata Atlântica | 3.7 |
-| c989f4d3-af9b-3adc-a5b7-fb2141ead4ac | -5.22069 | -43.41107 | 2024-10-21 03:47:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| d29fe51e-8993-399b-ad16-644edbdc52ab | -5.0714 | -37.71681 | 2024-10-21 03:47:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 3c3d91bd-f1c1-3a30-bf5d-b98e51275d1e | -5.053 | -37.9966 | 2024-10-21 03:47:00 | NOAA-21 | QUIXERÉ | CEARÁ | Brasil | 2311504 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| d14578c5-68b2-331f-a4aa-c9bd7b7d03ff | -5.03558 | -40.90977 | 2024-10-21 03:47:00 | NOAA-21 | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| 27f90ef1-e02b-3f8c-88a6-53d79a564fe4 | -4.99084 | -39.25565 | 2024-10-21 03:47:00 | NOAA-21 | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 7a40f21d-d63a-3b2c-86f5-f4198d0defde | -4.78331 | -41.39431 | 2024-10-21 03:47:00 | NOAA-21 | MILTON BRANDÃO | PIAUÍ | Brasil | 2206357 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| f081694f-419f-30f5-9488-5ac9fcad0a4f | -4.7009 | -37.79746 | 2024-10-21 03:47:00 | NOAA-21 | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 21098463-ddef-3b54-8f0c-18aa2f723527 | -4.24952 | -43.72264 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 167fe223-cf78-360d-b994-e771db2a1c54 | -4.24868 | -43.7276 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 265e4853-8969-3b28-8204-fccdf26b60e5 | -4.24782 | -43.73271 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| db09d401-748d-3bfc-b007-c7527df4b6c8 | -4.24694 | -43.73794 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| a2c09ad3-1f44-3198-9154-8a35a08b0e22 | -4.24477 | -43.72189 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 15588716-4856-3dfd-8e0b-0cecb7baad4e | -4.24395 | -43.72677 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 7b5d827b-86cd-3704-b980-28d4606cec30 | -4.24309 | -43.73184 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 3dbae7a2-71bb-35a4-9d4a-95be4c6a2838 | -4.24221 | -43.73706 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| a22fa4f3-2e50-340c-a4e2-2bef343c57e2 | -4.24135 | -43.74217 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4c26b355-74f0-38f8-9b3d-ef4644dc1c60 | -4.24003 | -43.72106 | 2024-10-21 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| e411a304-cf39-3624-8705-b275a0deff1f | -4.23919 | -43.72604 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| a6af54c6-46e0-3b58-8476-c21a4f2de7fd | -4.23834 | -43.73107 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 3a8e1d52-c49d-3be3-82f2-dd76a10145c8 | -4.23747 | -43.7362 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 17639b6c-a5ce-318a-82da-7b2088a28a44 | -4.2353 | -43.72021 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| cde95230-4d1b-3f05-8cd8-f9e48aecf93a | -4.23445 | -43.72522 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 677a86c4-6d82-39cd-b0bb-f8edb33bb07c | -4.2336 | -43.73024 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| c0f32e14-8e51-3fcf-9252-2af353dda19e | -4.23274 | -43.73532 | 2024-10-21 03:47:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 44ae74c6-d15b-3088-9583-3529bf3330f9 | -3.80729 | -38.49022 | 2024-10-21 03:47:00 | NOAA-21 | FORTALEZA | CEARÁ | Brasil | 2304400 | 23 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| f80e40ad-57d3-35c6-a337-ab771ddf71c5 | -3.35224 | -42.77243 | 2024-10-21 03:47:00 | NOAA-21 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5a44ec15-7160-32b9-97f1-7609fda679e2 | -5.69951 | -43.14378 | 2024-10-22 04:17:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 3c7c7dc8-b7cf-3263-be97-2d89a96a1771 | -5.69895 | -43.14738 | 2024-10-22 04:17:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 8fa04f86-40eb-3099-9bcc-9c685f065dae | -5.62707 | -43.28667 | 2024-10-22 04:17:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 00c68d13-00f6-370a-9d8f-2db84f45919e | -5.62652 | -43.29021 | 2024-10-22 04:17:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2aa51756-4088-3e04-9b02-f27136010c72 | -5.61858 | -42.77675 | 2024-10-22 04:17:00 | NOAA-20 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 8921937a-f5fb-3077-8d26-09a789a4b7cb | -5.61802 | -42.78039 | 2024-10-22 04:17:00 | NOAA-20 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| e982d948-9e43-3d99-b7af-4f4b3d63f8ce | -5.61519 | -42.77621 | 2024-10-22 04:17:00 | NOAA-20 | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 55b56a21-607d-3eaa-891f-e942bb067a9c | -5.52541 | -42.22057 | 2024-10-22 04:17:00 | NOAA-20 | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 796efac4-9ed2-305c-9ca2-cf94dcaf0f64 | -5.51187 | -43.46066 | 2024-10-22 04:17:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 92443121-2413-34c0-8106-2baef8fc23a9 | -5.50854 | -43.46014 | 2024-10-22 04:17:00 | NOAA-20 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 51f0ad84-49b9-36e9-838d-87bc9e2ac96e | -5.36332 | -42.73039 | 2024-10-22 04:17:00 | NOAA-20 | DEMERVAL LOBÃO | PIAUÍ | Brasil | 2203305 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 5f86ad74-bf18-3f90-80bb-ff6a12843bb6 | -5.3316 | -43.15739 | 2024-10-22 04:17:00 | NOAA-20 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 86398236-e247-30fa-96c2-5865dfb28f62 | -5.30183 | -43.9773 | 2024-10-22 04:17:00 | NOAA-20 | SENADOR ALEXANDRE COSTA | MARANHÃO | Brasil | 2111748 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2c2dafb8-762e-3602-b49e-f5b9909e84ad | -5.30129 | -43.98075 | 2024-10-22 04:17:00 | NOAA-20 | SENADOR ALEXANDRE COSTA | MARANHÃO | Brasil | 2111748 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5f5b0a9d-bbb1-31fd-9f0f-0b7f75ac9e55 | -5.12487 | -41.06305 | 2024-10-22 04:19:00 | NOAA-20 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| c3cbfb9f-b82f-3a49-89e3-b061e12e17c5 | -5.12481 | -41.05988 | 2024-10-22 04:19:00 | NOAA-20 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 179e104a-05fb-3976-a2e7-f8d594935b75 | -5.12416 | -41.06408 | 2024-10-22 04:19:00 | NOAA-20 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 742beccc-14cd-31b3-9edf-852afc896869 | -5.0799 | -42.56808 | 2024-10-22 04:19:00 | NOAA-20 | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| d08f7ffc-d504-302e-b1bc-fdd740138ccc | -5.05238 | -41.95186 | 2024-10-22 04:19:00 | NOAA-20 | SIGEFREDO PACHECO | PIAUÍ | Brasil | 2210656 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| ae61e7e6-fcb0-3d3d-9d15-45dd0eb53cd0 | -4.938 | -43.01678 | 2024-10-22 04:19:00 | NOAA-20 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| ea3cb86c-4b5e-3048-942e-1c7cf6017689 | -4.93745 | -43.02036 | 2024-10-22 04:19:00 | NOAA-20 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| f1526db1-0d26-3eac-99a7-220e2aa52360 | -4.93554 | -43.02021 | 2024-10-22 04:19:00 | NOAA-20 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 5ac43baa-97bc-3981-bca0-1b0973062710 | -4.93274 | -43.01612 | 2024-10-22 04:19:00 | NOAA-20 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| a5d70cce-8f6b-3c60-b5a2-745ba70a7489 | -4.92286 | -41.97184 | 2024-10-22 04:19:00 | NOAA-20 | JATOBÁ DO PIAUÍ | PIAUÍ | Brasil | 2205276 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 231bdbae-4cbf-3617-bbed-b36acd6ce63d | -4.92129 | -43.21424 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| c4cc36c2-fca7-394b-96a6-97a86e94093a | -4.91997 | -41.96746 | 2024-10-22 04:19:00 | NOAA-20 | JATOBÁ DO PIAUÍ | PIAUÍ | Brasil | 2205276 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| f723222d-bdee-3486-81c1-2aeb62f9bf19 | -4.91939 | -41.9713 | 2024-10-22 04:19:00 | NOAA-20 | JATOBÁ DO PIAUÍ | PIAUÍ | Brasil | 2205276 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 0e6ebb09-a9f8-352c-baeb-baeb7ef830e6 | -4.91794 | -43.21373 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| b6f7a50b-59e1-3332-81dd-53c832c6f7d7 | -4.86495 | -43.25257 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c1cf17a7-2d0a-3572-be21-4b890bd119cb | -4.6246 | -42.38655 | 2024-10-22 04:19:00 | NOAA-20 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| d62f09a6-4d70-3a37-a627-816126f0b080 | -4.62118 | -42.38602 | 2024-10-22 04:19:00 | NOAA-20 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 065e8fd4-a313-3cfb-9e21-7c26d506e4bf | -4.61833 | -42.3818 | 2024-10-22 04:19:00 | NOAA-20 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| a6ddb0d1-d885-313f-a871-f6e1cfcacbaf | -4.61806 | -43.39803 | 2024-10-22 04:19:00 | NOAA-20 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| c05580b0-2f5f-353f-a10f-1ba3cc0529b2 | -4.55381 | -43.57005 | 2024-10-22 04:19:00 | NOAA-20 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 02c9a8e8-b1ce-3b81-8f9f-70c9a0423b8b | -4.55049 | -43.56953 | 2024-10-22 04:19:00 | NOAA-20 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 360ef94d-e2ec-30c5-8915-411af007a7dd | -4.53548 | -43.27388 | 2024-10-22 04:19:00 | NOAA-20 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 47a068ba-e15c-3edc-9108-6add085275f7 | -4.46834 | -42.89772 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 6be513c9-4780-37a7-bf96-c3675261486a | -4.46554 | -42.89363 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8fceb1dd-0a36-352b-8b99-ec694e375164 | -4.46498 | -42.8972 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c9b1fac9-96be-3bfe-b214-fb96ba83aba0 | -4.46387 | -42.90435 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 7131ba19-b654-3840-9e25-3bab775c3448 | -4.46332 | -42.90793 | 2024-10-22 04:19:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| ddcd2b0f-dc23-33b0-b102-2c2b784b3c0f | -4.39972 | -43.57777 | 2024-10-22 04:19:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 9c40dc49-f1dd-3c9e-85ea-a36466e036d0 | -4.39641 | -43.57726 | 2024-10-22 04:19:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| da30e198-f9f1-3813-8843-d838d470ce5e | -4.30192 | -43.59423 | 2024-10-22 04:19:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2c7b7594-ee07-3d84-9043-b5bf820f2dff | -4.17681 | -42.98423 | 2024-10-22 04:19:00 | NOAA-20 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b8cd8955-f745-3835-b231-a80d828e582d | -4.17626 | -42.98777 | 2024-10-22 04:19:00 | NOAA-20 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| a3d20473-7ba0-34f8-af84-5263b0b7cc2f | -4.1588 | -43.3586 | 2024-10-22 04:19:00 | NOAA-20 | AFONSO CUNHA | MARANHÃO | Brasil | 2100105 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 7a031b6e-57f1-3096-8ba2-633985296562 | -4.12119 | -43.33881 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| f376a32a-bdb4-3838-8343-f25e990b7ef2 | -4.12065 | -43.34229 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a54f43f7-6213-3fcc-84d0-7838b7347c76 | -4.03828 | -43.21511 | 2024-10-22 04:19:00 | NOAA-20 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| f0057682-5139-33f0-a9a4-663e5fff0047 | -4.03773 | -43.21861 | 2024-10-22 04:19:00 | NOAA-20 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 4daf1e6f-4e0c-3170-afa3-9d721437227c | -4.00199 | -40.38451 | 2024-10-22 04:19:00 | NOAA-20 | CARIRÉ | CEARÁ | Brasil | 2303105 | 23 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| a83148d9-598c-3139-9654-7209be07153b | -4.0013 | -40.38899 | 2024-10-22 04:19:00 | NOAA-20 | CARIRÉ | CEARÁ | Brasil | 2303105 | 23 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 16c72dad-1cb0-37c4-bc6c-6b3a6a17e20b | -3.95894 | -43.22434 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 32e5a402-b857-3c5d-b5fe-250e270c0ea6 | -3.95561 | -43.22385 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d57752c2-8d2a-3ac9-9077-e114baec9a08 | -3.94627 | -41.4967 | 2024-10-22 04:19:00 | NOAA-20 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 9e2d60c3-69f3-31d1-9477-99baa94da748 | -3.92615 | -43.71659 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| f9fdcd87-2954-35cc-8740-5e09a3400740 | -3.89086 | -43.13834 | 2024-10-22 04:19:00 | NOAA-20 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| a454f4b5-f636-3a8c-9a34-d262f3ae2f92 | -3.87157 | -42.45341 | 2024-10-22 04:19:00 | NOAA-20 | SÃO JOÃO DO ARRAIAL | PIAUÍ | Brasil | 2209971 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 85b0cc83-c2cf-3383-b0a0-ddf6e2c0036a | -3.85513 | -43.25807 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 987e32e1-fa8f-3d5b-9bbf-8fffbddaedf9 | -3.7751 | -40.9859 | 2024-10-22 04:19:00 | NOAA-20 | TIANGUÁ | CEARÁ | Brasil | 2313401 | 23 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| d54c0e41-d86f-31a8-9573-4111d9d89969 | -3.774 | -43.23482 | 2024-10-22 04:19:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0c8f18ce-8bb4-3acc-80c8-151f4121b5df | -3.60635 | -40.37192 | 2024-10-22 04:19:00 | NOAA-20 | MASSAPÊ | CEARÁ | Brasil | 2308005 | 23 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 8c4d2905-e83e-32a7-a254-c55c18bec332 | -3.5925 | -42.82946 | 2024-10-22 04:19:00 | NOAA-20 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| db388e99-210f-3ec1-b114-81ba3f207490 | -3.59195 | -42.833 | 2024-10-22 04:19:00 | NOAA-20 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 474ae802-6094-3bc3-8806-a9f98b020db8 | -3.58916 | -42.82895 | 2024-10-22 04:19:00 | NOAA-20 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| df24ef84-6846-3b58-b6ae-1b45c1356fd5 | -3.5886 | -42.83249 | 2024-10-22 04:19:00 | NOAA-20 | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 43b2bfd7-cde8-390d-99c6-e77d6f54bf94 | -3.55623 | -41.40104 | 2024-10-22 04:19:00 | NOAA-20 | COCAL DOS ALVES | PIAUÍ | Brasil | 2202729 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| b1a3565e-7306-3f00-9ac0-afed231c19b2 | -3.52415 | -43.61497 | 2024-10-22 04:19:00 | NOAA-20 | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 5391ad32-66be-3ada-b6ec-10990093fc37 | -3.52139 | -43.61101 | 2024-10-22 04:19:00 | NOAA-20 | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 8c00b4b1-f072-3810-b268-7676a144818a | -3.52084 | -43.61446 | 2024-10-22 04:19:00 | NOAA-20 | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c1f88af3-65a9-3a82-b6d2-12d813b7c50b | -3.44685 | -41.26398 | 2024-10-22 04:19:00 | NOAA-20 | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 0afbe719-2440-3342-bf29-9e46a595f839 | -3.44512 | -41.2518 | 2024-10-22 04:19:00 | NOAA-20 | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 8a3d5d50-84df-3f60-9f05-5f30d97edb36 | -3.44392 | -41.25952 | 2024-10-22 04:19:00 | NOAA-20 | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 0008ba82-0fd9-380c-a404-6b6ef111740f | -3.44332 | -41.2634 | 2024-10-22 04:19:00 | NOAA-20 | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 6ec0135f-f551-37fe-a216-dd38c1613126 | -3.43979 | -41.26281 | 2024-10-22 04:19:00 | NOAA-20 | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 759ac004-d5ba-3bfa-8f0f-005e5434a911 | -3.41083 | -42.71051 | 2024-10-22 04:19:00 | NOAA-20 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 95507f36-8a2c-3e25-8347-0737da0e3953 | -3.40692 | -42.71355 | 2024-10-22 04:19:00 | NOAA-20 | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 646f2e6c-9366-3127-94b0-7b0e8603eb3a | -3.28063 | -42.03782 | 2024-10-22 04:19:00 | NOAA-20 | MURICI DOS PORTELAS | PIAUÍ | Brasil | 2206696 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2245e2ba-7dc6-3a49-b484-e7b38d7135de | -15.56762 | -47.85489 | 2024-10-22 04:19:00 | NOAA-20 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 25b9e50e-6840-3d53-9770-24c2ed4ec487 | -15.34815 | -48.13377 | 2024-10-22 04:19:00 | NOAA-20 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| e9dd2d3f-89f9-3f53-912b-0b89abcd2437 | -13.39134 | -40.47431 | 2024-10-22 04:19:00 | NOAA-20 | MARACÁS | BAHIA | Brasil | 2920502 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 1e181951-c961-379f-b23e-fa3db97e7ecf | -12.54609 | -38.99752 | 2024-10-22 04:19:00 | NOAA-20 | CONCEIÇÃO DA FEIRA | BAHIA | Brasil | 2908200 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 0fc3166f-13f7-3f15-bc3e-74bc23986510 | -11.72924 | -37.61647 | 2024-10-22 04:19:00 | NOAA-20 | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 7590f638-170b-3598-ae10-34f76f582ff8 | -10.84079 | -44.78373 | 2024-10-22 04:19:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 4de9c1a7-a81a-3160-ac58-cba904fd71a4 | -10.75985 | -45.02066 | 2024-10-22 04:19:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 30674b6c-ea4f-3bb4-bcb9-3bb69dfd1747 | -10.75654 | -45.02013 | 2024-10-22 04:19:00 | NOAA-20 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| 0f40af3d-502d-35c4-a6cb-c74c7216db2b | -10.44667 | -44.89521 | 2024-10-22 04:19:00 | NOAA-20 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 007f6013-db37-3f44-9344-ec78ffdc26c2 | -10.44612 | -44.89873 | 2024-10-22 04:19:00 | NOAA-20 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 503d03ab-8798-3623-974e-948f9ca378d3 | -10.4428 | -44.8982 | 2024-10-22 04:19:00 | NOAA-20 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 52d7e751-40b2-34cc-8cbf-ff7cdb17aca1 | -10.30056 | -36.67996 | 2024-10-22 04:19:00 | NOAA-20 | NEÓPOLIS | SERGIPE | Brasil | 2804409 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 0c48b5f8-f5a9-355f-83e2-6a9991c53cce | -10.29495 | -36.68221 | 2024-10-22 04:19:00 | NOAA-20 | NEÓPOLIS | SERGIPE | Brasil | 2804409 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| af707e33-a7ab-3316-a05b-56194c939b5b | -10.29456 | -36.68533 | 2024-10-22 04:19:00 | NOAA-20 | NEÓPOLIS | SERGIPE | Brasil | 2804409 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 763fdd86-91d3-3f57-9ec5-ce986a00d8d6 | -10.28755 | -36.32694 | 2024-10-22 04:19:00 | NOAA-20 | FELIZ DESERTO | ALAGOAS | Brasil | 2702702 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| ab9b8936-d053-3736-95fa-f7d8b1201f0e | -10.28711 | -36.33035 | 2024-10-22 04:19:00 | NOAA-20 | FELIZ DESERTO | ALAGOAS | Brasil | 2702702 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 0bf0436e-42b8-37d9-af15-efe1ceb24646 | -4.81811 | -44.35345 | 2024-10-22 04:19:00 | NOAA-20 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 064063a4-083a-3334-a41f-e1a2f14945ce | -4.62405 | -44.5522 | 2024-10-22 04:19:00 | NOAA-20 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b488833b-c9ca-34b8-a678-e6138d472d95 | -4.6235 | -44.55565 | 2024-10-22 04:19:00 | NOAA-20 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ca93d06e-5684-3c2d-acfb-6e225096f7cb | -4.62074 | -44.55169 | 2024-10-22 04:19:00 | NOAA-20 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c70ceb32-2386-3729-9f08-734b1c8f17b7 | -4.6202 | -44.55513 | 2024-10-22 04:19:00 | NOAA-20 | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
 
 
 [Clique aqui para ver as próximas entradas](README21.md)
