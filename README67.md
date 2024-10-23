@@ -29,106 +29,62 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| d63e68fe-8a04-391f-9d03-440248c9f600 | -10.28927 | -68.85406 | 2024-10-17 06:46:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a7d79f7a-3816-3cec-b646-aca4f48d8591 | -10.28895 | -68.84679 | 2024-10-17 06:46:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| f2af5efd-fe7a-3a00-8961-75c62cb51ed9 | -10.28818 | -68.85318 | 2024-10-17 06:46:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 597918ab-fe9e-3e06-bc40-be860ba0d913 | -9.39645 | -68.98724 | 2024-10-17 06:46:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| ebcd6bc7-2085-3ede-97d6-8981ed24e842 | -9.3938 | -68.98241 | 2024-10-17 06:46:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| dbad3ff6-359e-3346-8a11-14b8355c13bd | -9.39305 | -68.98851 | 2024-10-17 06:46:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| e37c09bc-5998-3918-b949-79a37c22c1ba | -9.38974 | -68.98623 | 2024-10-17 06:46:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e4584e5b-2004-3b30-b163-159921a9cb1d | -7.89447 | -72.44357 | 2024-10-17 06:46:00 | NOAA-21 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 678fd741-33cf-30c4-ac1a-adb0cec5fad5 | -7.89402 | -72.44688 | 2024-10-17 06:46:00 | NOAA-21 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| fe8f01be-fdcd-3f90-99bd-98bdbdefdced | -7.89365 | -72.4457 | 2024-10-17 06:46:00 | NOAA-21 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 7d1d07ef-ef7a-382c-b78e-4b6125eb2eb6 | -7.88826 | -72.44952 | 2024-10-17 06:46:00 | NOAA-21 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d8c3f6f4-6816-3aa4-8436-f24f6abc0f69 | -7.81238 | -73.10858 | 2024-10-17 06:46:00 | NOAA-21 | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| c031f4cc-62c2-3fda-8536-76ce78a823db | -7.81197 | -73.11154 | 2024-10-17 06:46:00 | NOAA-21 | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 53505683-c64a-39b9-9535-eb64ec6a20e0 | -7.81181 | -73.10829 | 2024-10-17 06:46:00 | NOAA-21 | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| f2438d66-5187-37dd-b51a-8dc415247796 | -7.81141 | -73.11125 | 2024-10-17 06:46:00 | NOAA-21 | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| cbd93990-f1e8-3099-bedf-052c440ebf12 | -7.76994 | -72.85081 | 2024-10-17 06:46:00 | NOAA-21 | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f25611cb-202e-3a3b-be5f-cac49ed00804 | -7.73121 | -72.95883 | 2024-10-17 06:46:00 | NOAA-21 | RODRIGUES ALVES | ACRE | Brasil | 1200427 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 45f50a94-cf45-3061-bb59-4ece1ec22394 | -8.30497 | -72.81926 | 2024-10-17 06:46:00 | NOAA-21 | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c3db90aa-d512-3863-8f8a-dc6c1192436e | -10.85504 | -68.26942 | 2024-10-17 06:48:00 | NOAA-21 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| c13f4e10-9e00-36c3-85c4-a789fd12637a | -10.63153 | -69.16257 | 2024-10-17 06:48:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 9d494397-6677-3452-b2e9-f9ec946eec5b | -10.90554 | -69.41135 | 2024-10-17 06:48:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b3249cb7-cf8e-3189-ba17-6fa900ea2150 | -10.89819 | -69.4164 | 2024-10-17 06:48:00 | NOAA-21 | ASSIS BRASIL | ACRE | Brasil | 1200054 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3b82ac1a-29bd-349c-8771-4386c40c2894 | -10.86287 | -69.3932 | 2024-10-17 06:48:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| c2bca7ac-6a45-36ea-98e7-62808b1a8c0d | -10.86215 | -69.39919 | 2024-10-17 06:48:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| e569eb8e-11dc-3583-af87-41973fe86390 | -10.86144 | -69.40508 | 2024-10-17 06:48:00 | NOAA-21 | ASSIS BRASIL | ACRE | Brasil | 1200054 | 12 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 95e3aaaa-a725-3669-bc43-e9feb245e0a2 | -10.67271 | -69.42268 | 2024-10-17 06:48:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| a95eb3be-e5af-3452-a9e8-6a5124dd2ffd | -17.8052 | -57.4449 | 2024-10-17 06:56:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 53.4 |
-| 4dd4c3ce-88e1-31b9-98b7-1976a94582ac | -17.8049 | -57.4655 | 2024-10-17 06:56:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 58.6 |
-| ed6c2fe6-50a5-37bf-9121-6b0fd065709c | -17.8641 | -57.4583 | 2024-10-17 06:56:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 80.4 |
-| c1d260ff-8cfc-33ac-a457-2fdc8d3c0fb6 | -17.8839 | -57.4559 | 2024-10-17 06:56:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.4 |
-| d637de44-7b73-3b74-8438-1cd820121d73 | -17.8835 | -57.4765 | 2024-10-17 06:56:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 49.0 |
-| 670af5fc-9cb8-3aa3-9e50-0f570f5ae104 | -17.8638 | -57.4789 | 2024-10-17 06:56:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 66.3 |
-| 17429975-4069-33cb-a6c7-bb2ce98b4a27 | -12.5147 | -63.3014 | 2024-10-17 07:06:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 50.5 |
-| d7505584-b0cf-3858-a5a4-b36b4648e8cf | -17.8641 | -57.4583 | 2024-10-17 07:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.6 |
-| 0f221067-c59d-3cc3-a64e-e0bf6d40bf8f | -17.8638 | -57.4789 | 2024-10-17 07:06:46 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 53.0 |
-| 886a5d81-5396-3b9f-be50-08956fd8a982 | -17.8049 | -57.4655 | 2024-10-17 07:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 58.4 |
-| b79bf647-7cc3-3f7e-ae1d-266d3c62daa6 | -17.8052 | -57.4449 | 2024-10-17 07:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.6 |
-| fb8e05df-5996-3c83-8bb2-98468f8ddd56 | -17.8246 | -57.4631 | 2024-10-17 07:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 52.7 |
-| 00507996-6593-358e-96f8-fbf58eeeb534 | -17.8638 | -57.4789 | 2024-10-17 07:16:46 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 58.5 |
-| 5299fd5b-e45e-3cad-9813-429c3a2ef888 | -17.8049 | -57.4655 | 2024-10-17 07:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 63.5 |
-| 8ed5c467-c1c5-3496-b8e0-832c27abe06c | -17.8052 | -57.4449 | 2024-10-17 07:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 73.7 |
-| 70b8651c-4ba5-3ae2-8c4c-e41b0e2bfd4e | -17.8246 | -57.4631 | 2024-10-17 07:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 52.1 |
-| 7d63f4b3-ecfb-313f-89ed-c646e35099c4 | -17.8641 | -57.4583 | 2024-10-17 07:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 70.3 |
-| 6067e85f-2aa1-3eb0-b8a1-e36a7c8d9e16 | -17.9036 | -57.4534 | 2024-10-17 07:16:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 46.6 |
-| 0e67e86c-9c67-3a8a-af20-35d34df35bfd | -17.8839 | -57.4559 | 2024-10-17 07:16:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 51.1 |
-| 6357b322-9084-3f53-8ba9-a0375f6ededd | -17.8246 | -57.4631 | 2024-10-17 07:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 63.1 |
-| e84df9b6-73ed-39c4-8d04-a93976350292 | -17.8049 | -57.4655 | 2024-10-17 07:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.0 |
-| c08351ef-47ba-31f6-8b7e-238acde0d5d7 | -17.8052 | -57.4449 | 2024-10-17 07:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.6 |
-| 5856ce1e-c7ed-30f8-9109-b466d7fcef5c | -17.8641 | -57.4583 | 2024-10-17 07:26:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 85.2 |
-| 8731e203-9b89-3378-87af-ba3bfc328594 | -17.8638 | -57.4789 | 2024-10-17 07:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.0 |
-| 015480b1-56c6-3b6c-a159-489dee607d25 | -11.8814 | -64.9323 | 2024-10-17 07:36:14 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| f1c41539-c7e6-33c4-b19b-1633d6276472 | -17.8049 | -57.4655 | 2024-10-17 07:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 72.6 |
-| 03b60701-4692-3309-8cf8-75a2f37a2a10 | -17.8052 | -57.4449 | 2024-10-17 07:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 71.5 |
-| 8efa4b6e-c0d5-3b04-93ca-880d31ff8ff8 | -17.8246 | -57.4631 | 2024-10-17 07:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 62.2 |
-| a500a835-a196-3d74-953c-c21c60aae302 | -17.8638 | -57.4789 | 2024-10-17 07:36:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 74.3 |
-| 89e63213-37d9-317d-bf51-ec51740bc293 | -17.8641 | -57.4583 | 2024-10-17 07:36:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 80.2 |
-| 020e638d-988e-35a3-88a1-42d8476a3c48 | -11.8814 | -64.9323 | 2024-10-17 07:46:14 | GOES-16 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 52.5 |
-| 63a79280-ab0d-3009-978b-9beeb4c806bb | -17.8641 | -57.4583 | 2024-10-17 07:46:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 109.0 |
-| 58a1380d-4b5e-311c-830f-a8924fd4d555 | -17.8052 | -57.4449 | 2024-10-17 07:46:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.5 |
-| 94b3733a-e0a8-33d7-9b92-8c26d295953c | -17.8638 | -57.4789 | 2024-10-17 07:46:46 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 94.4 |
-| 9facb4d1-7079-3a04-8b78-3483bf0a955e | -17.8246 | -57.4631 | 2024-10-17 07:46:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 65.0 |
-| fc031ee2-6a18-3f8a-bf78-314f693fa739 | -17.8049 | -57.4655 | 2024-10-17 07:46:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 69.9 |
-| 40c4f311-9c6a-3181-967b-cb8a77f3f189 | -17.8049 | -57.4655 | 2024-10-17 07:56:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 73.0 |
-| 425c37d0-0767-378d-92f7-97412eb30889 | -17.8052 | -57.4449 | 2024-10-17 07:56:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.4 |
-| 95160b62-2434-34f6-b794-7912ac6b5647 | -17.8638 | -57.4789 | 2024-10-17 07:56:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.5 |
-| de120019-b271-3bf9-84df-076230490409 | -17.8641 | -57.4583 | 2024-10-17 07:56:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.9 |
-| bab85c2a-448c-3713-9eb9-67fb5cd7118d | -17.8839 | -57.4559 | 2024-10-17 07:56:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 64.8 |
-| c8afea6f-1e5a-3265-bc83-1d0ae803db08 | -17.8052 | -57.4449 | 2024-10-17 08:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.4 |
-| 8239c95b-5e18-3291-863f-e68bd5995fd1 | -17.8049 | -57.4655 | 2024-10-17 08:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 65.4 |
-| 2b875856-96d6-31ca-9f93-4be6a3f64f5e | -17.9432 | -57.4486 | 2024-10-17 08:06:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 65.0 |
-| 366ddced-b56c-38a1-9726-b2c89a8a84f6 | -17.8641 | -57.4583 | 2024-10-17 08:06:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 82.3 |
-| 6f6a72d0-158c-3fa3-b6fb-669ea95a5120 | -17.8638 | -57.4789 | 2024-10-17 08:06:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 70.7 |
-| cba870b4-8d73-3b6e-9abf-0f6704581eec | -17.8052 | -57.4449 | 2024-10-17 08:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 73.3 |
-| f017f966-c315-30da-b3b9-65e3ad075251 | -17.8049 | -57.4655 | 2024-10-17 08:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 71.6 |
-| f514a5e2-88fe-38c7-95c1-0c457415b7ec | -17.8246 | -57.4631 | 2024-10-17 08:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 65.5 |
-| 71ee19b0-8712-3515-92c0-2c945b8bf105 | -17.8638 | -57.4789 | 2024-10-17 08:16:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 74.1 |
-| 86a3bf04-d05d-30c3-a79a-41ea36667da0 | -17.8641 | -57.4583 | 2024-10-17 08:16:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.2 |
-| 9a083db5-8d4c-379b-9a2b-50c6c0bfeb71 | -17.8049 | -57.4655 | 2024-10-17 08:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.5 |
-| 590e87c5-a349-3d00-91e0-49d53daf0259 | -17.8052 | -57.4449 | 2024-10-17 08:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 76.6 |
-| 5af5b105-b3f1-3ce1-ab57-3f64228e7bf7 | -17.8638 | -57.4789 | 2024-10-17 08:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 61.7 |
-| 43684356-952c-3eb7-8995-4de7a5f33f50 | -17.8839 | -57.4559 | 2024-10-17 08:26:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 64.4 |
-| 27208e6d-b3c0-3041-a5e6-cfedf10b5a67 | -17.8641 | -57.4583 | 2024-10-17 08:26:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 69.4 |
-| 4fcf272d-ab86-33f3-97ce-2a3b450c8317 | -12.4964 | -63.2258 | 2024-10-17 08:36:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 46.9 |
-| 0ec129f4-5a80-3d87-a242-8d3a6ea3dd97 | -17.8049 | -57.4655 | 2024-10-17 08:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 70.8 |
-| 06b2c70f-624f-34cb-a9f7-c0e916a666ed | -17.8052 | -57.4449 | 2024-10-17 08:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.6 |
-| 0f53edd6-4ba9-3a88-9287-fd62974557d0 | -17.8246 | -57.4631 | 2024-10-17 08:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 66.6 |
-| e87a1fcd-a625-3a9a-a127-a5db92368f47 | -17.8641 | -57.4583 | 2024-10-17 08:36:47 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 83.2 |
-| cb88cd51-da7a-3783-9867-43aee0cbdcbc | -17.8638 | -57.4789 | 2024-10-17 08:36:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 66.6 |
-| d7cd558d-d393-3fce-9230-1fccb0432481 | -12.5338 | -63.2812 | 2024-10-17 08:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| a8d55ff5-e43b-32bc-8458-88010835e1a1 | -12.5155 | -63.2055 | 2024-10-17 08:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 66.1 |
-| 15af05ed-a520-36f1-8d29-a263cf6eb437 | -12.5153 | -63.2247 | 2024-10-17 08:46:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 56.5 |
-| 92b2c459-654c-38b8-ae84-85c1510788aa | -12.5149 | -63.2822 | 2024-10-17 09:06:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 66.9 |
-| 430528e9-fb22-3211-8d06-e6e6428e1dbf | -12.4958 | -63.3024 | 2024-10-17 09:06:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 56.8 |
-| cd5624e7-d1ec-35a3-afab-bc61743b4c11 | -12.5147 | -63.3014 | 2024-10-17 09:06:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 68.7 |
-| 49c37550-ce4d-3d86-9eb6-2ccbb80214dc | -12.5338 | -63.2812 | 2024-10-17 09:06:18 | GOES-16 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 57.8 |
-| 1f4cc4e7-f70b-3f35-85da-1fe3b1ccc9ee | -0.75341 | -48.69178 | 2024-10-17 12:23:00 | TERRA_M-T | SALVATERRA | PARÁ | Brasil | 1506302 | 15 | 33 | nan | nan | nan | Amazônia | 31.8 |
-| ffbf98ae-58b1-3f1e-b66f-6a15943b6c6e | -0.75799 | -48.71021 | 2024-10-17 12:23:00 | TERRA_M-T | SALVATERRA | PARÁ | Brasil | 1506302 | 15 | 33 | nan | nan | nan | Amazônia | 27.2 |
-| 8cffd939-921c-31dd-a232-2db51f332ba7 | -0.76136 | -48.68673 | 2024-10-17 12:23:00 | TERRA_M-T | SALVATERRA | PARÁ | Brasil | 1506302 | 15 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| f546ce61-c4a9-317d-8553-06dbe1551449 | -0.76728 | -48.69372 | 2024-10-17 12:23:00 | TERRA_M-T | SALVATERRA | PARÁ | Brasil | 1506302 | 15 | 33 | nan | nan | nan | Amazônia | 32.6 |
-| 38ce9c86-2b1f-3a34-8178-1e66a6718654 | -3.31603 | -42.27765 | 2024-10-17 12:25:00 | TERRA_M-T | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 45.3 |
+| 8e2286bf-5b2c-344c-823e-d38be9b9a02a | -17.0184 | -57.5178 | 2024-10-23 13:26:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 107.6 |
+| 6c915cfc-ce18-339f-8a54-86af6c9d3dc8 | -17.0188 | -57.4973 | 2024-10-23 13:26:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 78.7 |
+| 0b5cb214-0e3d-3de9-83db-53b260773f75 | -17.7637 | -57.5732 | 2024-10-23 13:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 189.0 |
+| 3151b221-4f0a-3c35-93c6-347a2968f190 | -17.744 | -57.5756 | 2024-10-23 13:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 121.0 |
+| 60ac048d-25cb-39d1-92ca-c43777b4efe0 | -17.764 | -57.5526 | 2024-10-23 13:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 117.3 |
+| c78a6af8-2057-36d9-9df0-1e87e0250cbb | -17.9664 | -57.2398 | 2024-10-23 13:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.0 |
+| 4e7068d5-96e9-390d-8fdc-7eb2227c8096 | -17.9667 | -57.2191 | 2024-10-23 13:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 79.6 |
+| 9221884e-63f2-3300-b550-bb799b87a66e | -18.0636 | -57.3308 | 2024-10-23 13:26:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 101.9 |
+| 18d3d2a2-7b9e-3ce6-8218-938a6dc0b5e1 | -18.3203 | -56.2195 | 2024-10-23 13:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.9 |
+| 47663551-cbdf-3e2e-9924-f185026dc53c | -18.3004 | -56.2222 | 2024-10-23 13:26:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.6 |
+| 79da29ed-579e-39f5-933c-2746404fffb5 | -19.641 | -56.9988 | 2024-10-23 13:26:56 | GOES-16 | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 58.4 |
+| e921c296-8d8a-3a4c-b81a-31749aa2cc15 | -19.6407 | -57.0197 | 2024-10-23 13:26:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 59.9 |
+| 0a7fc2b8-bd17-3c52-92de-c8bab6ddcedc | -3.8329 | -42.4533 | 2024-10-23 13:35:28 | GOES-16 | SÃO JOÃO DO ARRAIAL | PIAUÍ | Brasil | 2209971 | 22 | 33 | nan | nan | nan | Caatinga | 106.1 |
+| 4fe6cd57-e429-30fc-ba56-c276c592928b | -5.2665 | -41.1899 | 2024-10-23 13:35:36 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 123.9 |
+| 16c4ae4a-dc9b-34b6-9203-a18a56ddbdcd | -5.2479 | -41.1671 | 2024-10-23 13:35:36 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 87.9 |
+| e4d6d743-c58c-33fa-8d18-29e55822b904 | -5.2667 | -41.1657 | 2024-10-23 13:35:36 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 122.0 |
+| 307560d9-1cb5-3159-b6c3-f71a20a73dc8 | -11.1157 | -48.6343 | 2024-10-23 13:36:09 | GOES-16 | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 84.3 |
+| ee790652-289a-3c2d-8d76-9b6514bb84de | -11.0967 | -48.6366 | 2024-10-23 13:36:09 | GOES-16 | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| ec14af97-1521-30fb-b678-55513bc831c4 | -12.9938 | -47.164 | 2024-10-23 13:36:19 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 72.9 |
+| 7d7366b0-81f2-34cf-b39e-2004a3cefe54 | -15.9081 | -51.7383 | 2024-10-23 13:36:36 | GOES-16 | MONTES CLAROS DE GOIÁS | GOIÁS | Brasil | 5213707 | 52 | 33 | nan | nan | nan | Cerrado | 67.5 |
+| 44a97c67-238b-3e9d-bc91-371ccb813194 | -15.9077 | -51.7598 | 2024-10-23 13:36:36 | GOES-16 | MONTES CLAROS DE GOIÁS | GOIÁS | Brasil | 5213707 | 52 | 33 | nan | nan | nan | Cerrado | 83.2 |
+| a5f52a7f-4f4d-3b81-a79f-0e9721309750 | -17.0213 | -57.3333 | 2024-10-23 13:36:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 80.6 |
+| e3bc8b57-2d16-3a1e-a286-ef1f8baa5914 | -17.0014 | -57.3561 | 2024-10-23 13:36:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 72.5 |
+| 40fe29c0-b9ca-3e1b-a144-618ff824bbaa | -17.0188 | -57.4973 | 2024-10-23 13:36:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 82.6 |
+| c736428b-c3c6-3d7d-ae20-eb2444743e84 | -17.0184 | -57.5178 | 2024-10-23 13:36:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 99.3 |
+| 5f1cd461-0173-3d16-b6b9-86a563cfbc6e | -17.0194 | -57.4563 | 2024-10-23 13:36:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 76.2 |
+| 2714cc8a-7dd3-3324-9a83-41e9e3a0cabc | -17.021 | -57.3538 | 2024-10-23 13:36:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 83.7 |
+| 6763dc2e-50d8-3713-b39a-1dddf246daff | -17.764 | -57.5526 | 2024-10-23 13:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 140.7 |
+| 4c5f989c-2312-3559-b717-260297b8c9e4 | -17.744 | -57.5756 | 2024-10-23 13:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 134.6 |
+| b882123c-c07d-301c-b507-0a983319b43c | -17.7637 | -57.5732 | 2024-10-23 13:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 200.8 |
+| 7d7e3c18-a300-3b53-8166-a9c48ea47090 | -17.7644 | -57.532 | 2024-10-23 13:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 64.3 |
+| 157e8e66-028a-3de9-84fe-280f355f1b29 | -17.7443 | -57.555 | 2024-10-23 13:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.0 |
+| 9ca72765-5ed8-3108-af4c-8103bf1521ae | -18.0632 | -57.3514 | 2024-10-23 13:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 77.1 |
+| c06468a9-abaf-3e1a-adcd-0c99521df63c | -18.0636 | -57.3308 | 2024-10-23 13:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 245.3 |
+| c67e5c95-d419-3658-b726-36fa8c966f5b | -18.16 | -56.3243 | 2024-10-23 13:36:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.3 |
+| e257740f-cb70-3454-a22b-084403c55aaf | -19.641 | -56.9988 | 2024-10-23 13:36:56 | GOES-16 | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 64.6 |
+| a8cdcb8c-c2b6-3204-8937-48f803699f98 | -19.6407 | -57.0197 | 2024-10-23 13:36:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.4 |
+| 856692be-6811-3579-8d5e-00df5248de6a | -3.3459 | -50.3239 | 2024-10-23 13:45:25 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 62.4 |
+| c30003cc-8b05-3411-ac9c-46b50dbc1f69 | -5.2665 | -41.1899 | 2024-10-23 13:45:36 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 124.6 |
+| 7cc29724-0885-385a-a421-43a4f9690c34 | -5.2667 | -41.1657 | 2024-10-23 13:45:36 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 106.4 |
+| ab0de87a-5212-34eb-9c77-0a573f28a88d | -13.4211 | -43.1497 | 2024-10-23 13:46:21 | GOES-16 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 73.8 |
+| f3c69e07-6a2d-3cfb-bbcf-7a6db94afec1 | -15.9081 | -51.7383 | 2024-10-23 13:46:36 | GOES-16 | MONTES CLAROS DE GOIÁS | GOIÁS | Brasil | 5213707 | 52 | 33 | nan | nan | nan | Cerrado | 70.1 |
+| bba1e585-e005-3f27-8fb4-355f75953747 | -15.9077 | -51.7598 | 2024-10-23 13:46:36 | GOES-16 | MONTES CLAROS DE GOIÁS | GOIÁS | Brasil | 5213707 | 52 | 33 | nan | nan | nan | Cerrado | 89.0 |
+| da4d974b-25f9-3253-9ba1-8a399a6d953e | -17.0213 | -57.3333 | 2024-10-23 13:46:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 76.7 |
+| c847a6c1-8eb6-31ff-9c11-24147d095de2 | -17.021 | -57.3538 | 2024-10-23 13:46:42 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.5 |
+| 6b4b5b5c-7b2a-3340-9aa5-cb9b8fb83c6e | -17.9432 | -57.4486 | 2024-10-23 13:46:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 61.7 |
+| 318919dc-1c03-3177-993c-078e5f85e2aa | -18.0236 | -57.3563 | 2024-10-23 13:46:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 61.4 |
+| 7d3c9bbf-d376-326b-8821-352dd3b5f9bd | -18.0632 | -57.3514 | 2024-10-23 13:46:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 61.4 |
+| 144b297d-82e3-3aaf-84cb-cc1f6a43685a | -18.0636 | -57.3308 | 2024-10-23 13:46:48 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 150.8 |
+| d7cf0b15-ec81-32d9-aea8-767a9cc60b26 | -18.3008 | -56.2013 | 2024-10-23 13:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.6 |
+| d7ac0a30-c027-34c9-93ee-0aaadf9dfd2a | -18.3004 | -56.2222 | 2024-10-23 13:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.9 |
+| 4588349a-e9f9-341c-933d-b84ae2a93a56 | -18.2633 | -56.0812 | 2024-10-23 13:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 108.7 |
+| 2ad2a1fb-5a9a-3878-af22-4ae721fb1330 | -18.2832 | -56.0785 | 2024-10-23 13:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 84.7 |
+| b7b09f19-d5e5-357e-83fe-7ebd56776cf8 | -18.2435 | -56.0839 | 2024-10-23 13:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 62.2 |
+| 5e5a1e5b-b91f-3576-9ee7-8eba7d9c7456 | -18.2439 | -56.063 | 2024-10-23 13:46:49 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 83.2 |
+| 0dc125fd-41e2-3134-910f-db5f6a5024a8 | -19.6407 | -57.0197 | 2024-10-23 13:46:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 65.2 |
+| 0faff012-e3b7-3af2-bb0b-2bdf94d2b52c | -19.641 | -56.9988 | 2024-10-23 13:46:56 | GOES-16 | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 70.6 |
 
 
-[Clique aqui para ver as próximas entradas](README68.md)

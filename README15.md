@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 97fefaa0-56aa-30ab-8f2d-c64047178807 | -5.70167 | -43.14782 | 2024-10-22 03:53:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| b5417741-a0e8-32db-bc41-33a2f1c895bb | -5.69821 | -43.14359 | 2024-10-22 03:53:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| ab505b56-286f-3d09-a936-96d2ba066299 | -5.69763 | -43.14709 | 2024-10-22 03:53:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| f915fb40-d963-3a9b-8221-23a3232d1178 | -5.61875 | -42.77411 | 2024-10-22 03:53:00 | NPP-375D | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| f3455f13-2668-38d0-be08-b98861d1ac14 | -5.61789 | -42.77927 | 2024-10-22 03:53:00 | NPP-375D | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 95a145b2-264a-303b-a664-b01ab2408d6c | -5.59245 | -42.93083 | 2024-10-22 03:53:00 | NPP-375D | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| b5bb5bb0-aa22-3d69-aad3-4c41c7a6ddd4 | -5.45703 | -43.27007 | 2024-10-22 03:53:00 | NPP-375D | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| ceab7802-2075-38e5-a335-1da24773c44d | -5.43566 | -43.22173 | 2024-10-22 03:53:00 | NPP-375D | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c511cb74-f8d2-3f84-97a4-147685f77a93 | -7.80205 | -43.21182 | 2024-10-22 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 07c8f238-db88-3f35-8103-034be1632556 | -7.80138 | -43.20937 | 2024-10-22 03:53:00 | NPP-375D | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 43498818-5e95-39c7-8fb0-f0355ad0f278 | -4.86322 | -43.24937 | 2024-10-22 03:53:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 9d217aa1-faf9-3182-a4f3-e1c789aa1ec1 | -4.5521 | -43.56877 | 2024-10-22 03:53:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 3ca2f8a4-c414-3b39-8359-dc259d408323 | -4.53534 | -43.27365 | 2024-10-22 03:53:00 | NPP-375D | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 3fe49699-dd94-31e5-ae77-55060c5f6248 | -4.39897 | -43.57649 | 2024-10-22 03:53:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8f31659d-c8ff-3fbb-b77c-59c6a689acc0 | -4.15933 | -43.35839 | 2024-10-22 03:53:00 | NPP-375D | AFONSO CUNHA | MARANHÃO | Brasil | 2100105 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| df9ff7c7-8c81-30f2-9ea3-829a44764cb6 | -4.12336 | -43.34066 | 2024-10-22 03:53:00 | NPP-375D | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| cb7b127f-f6b7-3ab0-9914-4fef4191b129 | -4.76027 | -44.59955 | 2024-10-22 03:53:00 | NPP-375D | BERNARDO DO MEARIM | MARANHÃO | Brasil | 2101939 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 610cc99e-4a1a-3a4a-b4ac-e8f5f1976e14 | -4.6235 | -44.55112 | 2024-10-22 03:53:00 | NPP-375D | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| cc7f03d4-34f0-329b-b10f-2b4f1476c02a | -4.62276 | -44.55564 | 2024-10-22 03:53:00 | NPP-375D | PEDREIRAS | MARANHÃO | Brasil | 2108207 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 51214cde-0180-335e-a3a4-7e6934c15af0 | -4.18015 | -44.34583 | 2024-10-22 03:53:00 | NPP-375D | ALTO ALEGRE DO MARANHÃO | MARANHÃO | Brasil | 2100436 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| fa6aedad-20da-3718-9adb-81b6757baef0 | -4.10452 | -44.23438 | 2024-10-22 03:53:00 | NPP-375D | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| c51039da-37fc-37f7-93b7-db22a3165573 | -5.1256 | -44.34333 | 2024-10-22 03:53:00 | NPP-375D | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 2874657f-ae15-314a-85a2-bd9b5d9b9dcd | -5.1249 | -44.34763 | 2024-10-22 03:53:00 | NPP-375D | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 03e3917b-b673-3674-9901-7257f6cc3df2 | -5.1243 | -44.34094 | 2024-10-22 03:53:00 | NPP-375D | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 5d0f8895-0c83-39fc-ba6c-37279f6e4eaa | -5.12357 | -44.3452 | 2024-10-22 03:53:00 | NPP-375D | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 502fde2b-8876-39ae-8078-84f7fdf766a4 | -6.39507 | -43.83735 | 2024-10-22 03:53:00 | NPP-375D | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 2909dda3-fff0-3352-b1c2-98db882267d8 | -5.82946 | -43.65235 | 2024-10-22 03:53:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 914933c3-2ef5-3ffb-9eed-49858154e8a4 | -5.54259 | -43.94428 | 2024-10-22 03:53:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2dfbb451-1d73-30bf-8d9c-86bf2deda5a0 | -6.24043 | -44.15729 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ddfb768f-8a82-366d-acf9-d61d6b515e20 | -6.23864 | -44.15766 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 3105fe6a-91f3-376a-a3e3-eb20942db0f7 | -6.23682 | -44.15255 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0a84beaf-9891-3156-a961-bd9e94e6e85d | -6.23635 | -44.1448 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 720adb58-f009-3d18-be06-737d71c3b71f | -6.23568 | -44.14883 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| b38e6acd-2243-3cbc-8f6d-57b52f77f349 | -6.23391 | -44.1438 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 9b6c21e8-4cec-3cf1-8bf9-a454b983f92e | -6.23323 | -44.14779 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 18f83b51-cd11-335e-9aec-9e78f3a77f22 | -6.23205 | -44.14412 | 2024-10-22 03:53:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| a4159099-884a-31cd-8c85-152d03dfb46f | -5.83429 | -44.6612 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ab98d5bb-d379-33d9-9da6-563259e8aa40 | -5.8325 | -44.65843 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 3a1da404-142d-36b8-9206-f0bbadbf4edc | -5.83177 | -44.66283 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| cc8c37aa-2c47-3736-b1ce-ba8571d50d05 | -5.82981 | -44.66045 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| b1765755-a726-3865-a1bf-a9d623823507 | -5.82802 | -44.6577 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| bef75c9a-c500-31f0-8903-bc961998bc7c | -5.82729 | -44.66209 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 77af4f6e-383c-305f-b009-9ead5abb4e13 | -5.68953 | -44.48522 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 92e1b38a-0861-3388-ba81-d74a8c531e63 | -5.58999 | -44.87987 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| 26310df5-be8b-32f3-baa9-73fcbb003446 | -5.58624 | -44.87437 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 96a387c7-963d-3d94-b192-6e0795aea8b4 | -5.58544 | -44.87901 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| 2099c6d8-0b5b-37e3-bc60-9ba904b77fe4 | -5.58249 | -44.8689 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| aa31540a-d6db-3f76-a3ac-bdb400793160 | -5.58192 | -44.87112 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| b7ee790c-ae96-39fe-991e-04d658580873 | -5.58169 | -44.87352 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 59a2f4ae-6196-3f32-881e-545bc650b739 | -5.58116 | -44.87577 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| 0400a368-25e2-3658-a302-bcf87c5d0e59 | -5.58089 | -44.87817 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| 534a183b-e045-3239-91fa-585ed115659d | -5.57714 | -44.87273 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 3b44ae56-85f5-3207-ac08-20dded0616ff | -5.5766 | -44.87498 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| e6b3b4bb-15da-3f7b-a4b3-9a9f0724ddf7 | -5.57633 | -44.87738 | 2024-10-22 03:53:00 | NPP-375D | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 70bc4c53-58c8-32c0-94e8-3e501fbb3ae7 | -7.2128 | -44.13885 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 3506606f-d690-3e21-8b83-fb6fe34cdaa8 | -7.21243 | -44.1388 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 4aa05f21-b980-380a-a0ba-12ab31a74c1c | -7.21215 | -44.1428 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| db40cc84-2808-3eeb-8979-c69cd7535536 | -7.21175 | -44.14273 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1e810d4d-734e-3015-b7be-70764a0f5f7b | -7.20859 | -44.13808 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8a0b2abe-353d-3a2a-828b-43ad29b9ef18 | -7.20822 | -44.13803 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 1f0bcdd2-cb73-373f-b3e2-308a5dddb087 | -7.20793 | -44.14203 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| de660557-cfe0-3196-a0c2-81648f9b9067 | -7.20753 | -44.14198 | 2024-10-22 03:53:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| e39ee05a-3eb6-3b52-b12e-db3571a0264c | -4.949 | -45.42169 | 2024-10-22 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| de0f0f87-dc32-320b-a2fd-2cce7504bacf | -4.94813 | -45.42698 | 2024-10-22 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| dea84d13-9aa9-39f5-9d95-252b8c5d762c | -4.94791 | -45.4228 | 2024-10-22 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0434171d-e238-3e0f-b329-9d796f0ab4ed | -4.94728 | -45.43217 | 2024-10-22 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 0ac65495-b9af-30d1-a2f2-fab21e37e69e | -4.947 | -45.42811 | 2024-10-22 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ef01c06a-e503-35a7-b138-7eeffb9bd0ab | -4.94611 | -45.43324 | 2024-10-22 03:53:00 | NPP-375D | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 088cc979-11a0-3026-926f-ef614e5eb40e | -4.9304 | -45.84734 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 5b32017a-69c7-340c-9ed3-52ac5190c8ac | -4.92944 | -45.85304 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a6783d2f-1d12-3d92-90bc-a1969e63937b | -4.9067 | -45.83763 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| dbc12b37-a67a-39af-834b-73b85a2cc7f1 | -4.90571 | -45.84343 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 87a21fa1-47d1-3827-8e6d-6fc3eeefdc8d | -4.90475 | -45.84904 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9ceff119-0679-3179-a87f-a7aa256c5a85 | -4.90272 | -45.83126 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 070ca2db-5657-3b75-a220-fe7e9d8d0c9e | -4.90174 | -45.83696 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| c02f68b5-4626-3de3-b93a-c20e79c5348d | -4.89682 | -45.83608 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 5b2e59fe-0834-372b-b322-a28c4dc6f42b | -4.89584 | -45.84184 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 0de4775c-722f-37d8-b9ad-646700d67734 | -4.89193 | -45.83503 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 74742ac5-31a4-3b7c-9465-4b8e70303ce6 | -4.83541 | -45.86478 | 2024-10-22 03:53:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| f2bd3621-b805-3db5-8c1a-5b3d3c7b11c6 | -4.65446 | -45.69059 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a7e37a5c-7753-3649-a34f-ee44412817f3 | -4.64953 | -45.68996 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f48668e4-119b-3584-bf3e-686e2f516ce6 | -4.6486 | -45.6955 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 29616074-cff3-3cbb-b341-8972014c8698 | -4.62827 | -46.0568 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 2145a16a-66d6-377c-ba28-1caec3039413 | -4.6245 | -46.05582 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| ad5977fd-9ced-3e72-8cd3-7f22f1fea17a | -4.62382 | -46.05996 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 46317d98-ddd6-3a3d-a011-f2e0974541cb | -4.62337 | -46.06267 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 66c66827-3db6-32b7-ad8c-5f90503687b4 | -4.62228 | -46.0615 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 92f8dc09-6651-31ac-a67c-0d5ef70a6e6f | -4.5641 | -45.14718 | 2024-10-22 03:53:00 | NPP-375D | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 75337f23-81fe-3f5e-8853-0adb2faaee3f | -4.56305 | -45.81174 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| fd4dfd56-c08d-32c2-b9aa-9716fe766f8b | -4.56254 | -45.80893 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 8b45dcb2-cab5-3a96-8c53-e4a917148186 | -4.56159 | -45.81473 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| a386fdf3-3ed7-38f6-8496-3c859afddb11 | -4.55911 | -45.80509 | 2024-10-22 03:53:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| 39ced97b-0c19-3f34-ab25-31f5804d7b72 | -4.55854 | -45.80231 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| cd8be505-f6ff-3e49-9182-dd3dc1514e27 | -4.55814 | -45.81072 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| 07477560-37c0-3a99-a0e8-211e6d657056 | -4.55762 | -45.80788 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
-| e1539423-63ec-3184-a4b4-5a20eebe2d93 | -4.5542 | -45.80403 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| cfad26a2-3d96-3d55-b8c7-7060e823fa51 | -4.55363 | -45.80124 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| d336c727-50a6-3d24-a287-79e4e973fb88 | -4.55271 | -45.8068 | 2024-10-22 03:53:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
-| ff272ceb-d69d-319d-ba3b-dbb2fe0d43be | -4.42242 | -45.64132 | 2024-10-22 03:53:00 | NPP-375D | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3140adf3-097b-3d8f-b0c2-97b0384334a5 | -4.2625 | -45.59208 | 2024-10-22 03:53:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 150bb0bd-782c-3d1c-9467-af2ec834c801 | -4.65983 | -46.19783 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| ed304e01-ff82-332c-a92c-5cd92de82ae8 | -4.58735 | -45.78106 | 2024-10-23 03:34:00 | NPP-375D | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9a0664ad-cbf1-33ff-8931-b7eaee465974 | -4.47677 | -45.48004 | 2024-10-23 03:34:00 | NPP-375D | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| bb2549bf-209c-3526-8298-dbb1ee14de31 | -4.47551 | -45.48712 | 2024-10-23 03:34:00 | NPP-375D | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 1456e571-d861-3c1d-852e-818f77331c68 | -4.14883 | -45.60768 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 5d85989a-a064-3086-8bca-8db7c576f581 | -4.14778 | -45.61362 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 778428d0-7fa8-36ce-a304-67939c3bc8df | -4.14629 | -45.58307 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 4988ba6f-71d6-33c9-b1bf-6087f5b39907 | -4.14524 | -45.58898 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 7810d088-5dc0-32fe-92e6-6dce980e0788 | -4.14423 | -45.59473 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 440e2098-3bde-385d-9938-dbcdbd655862 | -4.14321 | -45.60053 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| d4484cce-390a-3c93-a829-6996b8d816b0 | -4.14218 | -45.60638 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 25b00ccd-4206-3cc8-a712-027e00015015 | -4.14113 | -45.61232 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 7351cfb2-a9de-3e28-bd6d-f4fb0c815d41 | -4.14066 | -45.57606 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| f537eccf-0e17-3208-8b1e-ca218a8f08e5 | -4.14008 | -45.61827 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 120dc691-c599-3ad7-a241-89e09d34c00e | -4.13962 | -45.5819 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 47.8 |
+| 407ba3a2-5e38-380f-a81d-d84b966fdfca | -4.13904 | -45.62416 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| f09ddbfd-d4f7-365b-8819-5a36d894f188 | -4.13858 | -45.58781 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 47.8 |
+| 1a7c307b-2202-3761-9127-ddbff28a1383 | -4.138 | -45.63005 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 55352b8e-b431-3be5-aead-0f418eff5af2 | -4.13756 | -45.5936 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 226.2 |
+| 7e89cf34-cba9-36b0-8968-bf294096caa7 | -4.13696 | -45.63596 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 545d0a62-5194-38f0-962d-5bdb1208ee34 | -4.13653 | -45.5994 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 226.2 |
+| 1847f22a-b6c2-3f47-bd1d-59d8f6e7bc72 | -4.1355 | -45.60523 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 60.0 |
+| b46b5033-98ac-32a8-915c-1b72a3d254a7 | -4.13501 | -45.56918 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| ba8c2a69-7b8b-3aa4-9fac-6440ad515ccb | -4.13446 | -45.61113 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 60.0 |
+| 09011df3-87fb-320c-8194-6acaa705880a | -4.13399 | -45.57494 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 089787b9-eaf7-3c81-8399-9a775469eca5 | -4.13342 | -45.617 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 1d58a158-cdeb-3b56-8752-d034014ab574 | -4.13296 | -45.58075 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 47.8 |
+| 166466bc-100a-3c1b-b54b-d2b24c712c2f | -4.13238 | -45.62288 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 3e48ce46-e209-39ad-bd5f-5c300de9b1a3 | -4.13192 | -45.58663 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 47.8 |
+| 6dd8e80b-5b34-31f8-8ab7-ed3e56dd6efe | -4.13135 | -45.62873 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 9db7e7f2-65fe-30bd-9224-7d9ca092013c | -4.13104 | -45.5747 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| fb05bf16-b72b-3d92-8b39-3b5451f821ce | -4.1303 | -45.63466 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 21dedabf-8ae2-3ae5-af56-4f1bec3867f7 | -4.13005 | -45.58049 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| f7e81203-8b5b-3c90-90d0-e3d21190778a | -4.12984 | -45.59833 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 226.2 |
+| c5d9059e-2e84-3414-8afb-4e5553f18b5c | -4.12925 | -45.64059 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| adb006ed-c828-3e62-ba98-e6784090056f | -4.12904 | -45.5864 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 102.7 |
+| e27178ea-ab53-367f-9eca-9cf0f847053a | -4.12882 | -45.6041 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 60.0 |
+| fad33b12-7a12-3f0c-9634-95b3a7dbca93 | -4.12779 | -45.60994 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 60.0 |
+| 600c9899-0500-390c-ba66-a7f4668cfb84 | -4.12733 | -45.57379 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 38ce94f1-1d32-38bb-82f8-d02acd466bc5 | -4.12705 | -45.5981 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 5fac0ec3-fd18-3de2-8be7-aa12dbb33ddc | -4.12674 | -45.61583 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 328dca98-46a6-3e88-8498-d26922d5000d | -4.1263 | -45.57955 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 6fe237e8-b85f-32d0-8c9c-44ae5e4c26fc | -4.12605 | -45.60394 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 5c11fcf4-ce96-31f7-a597-bb73129ae79f | -4.12569 | -45.62176 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| c9dc79bc-3455-3e32-b4c7-a053ca189376 | -4.12527 | -45.58539 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 2ad73619-b228-3fc4-9d29-a749be3450fe | -4.12506 | -45.60978 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 4f6bd6e9-012f-3927-bbcc-caf38ca8420a | -4.12467 | -45.62756 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 7f268389-b4d6-3c04-bdb7-e8e296f80e2d | -4.12439 | -45.57346 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| c9ded463-544f-375f-9f8f-584fd160cd4a | -4.12422 | -45.59125 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| 19775149-6e1b-3d92-964b-17132de79132 | -4.12405 | -45.61569 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 83c2dd43-e740-37b2-84d4-c52d1bf3c619 | -4.1234 | -45.57922 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| b3810f5f-f8bd-3b77-b6f0-15806ce97586 | -4.12318 | -45.59712 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| 5848dbbd-3be2-3be2-9daa-1595ceca681f | -4.12304 | -45.62165 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ae88d9d9-a5f3-3544-a369-1942d61a1048 | -4.1224 | -45.58509 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 102.7 |
+| a4f86669-e521-3e63-9d63-cdce318b92b4 | -4.12214 | -45.603 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 6d345616-b063-39d7-8eec-042cd304fab3 | -4.12204 | -45.62747 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2b65b14c-c228-30e1-a2ed-87318cfd6546 | -4.1214 | -45.59095 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 102.7 |
+| 83663444-e616-394c-8720-a04b54209919 | -4.12109 | -45.60888 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| fbc2282d-df72-37fe-b79d-334a1b196a62 | -4.12039 | -45.59685 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 3f2c6960-ea41-3282-a5cd-280e383902cd | -4.12005 | -45.61475 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| a5929b55-9838-3c61-ad6a-5931945b8fb8 | -4.11966 | -45.57828 | 2024-10-23 03:34:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| aa00046e-3d53-3403-bb62-dfff98c34ee1 | -4.11937 | -45.60279 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 611a22d8-3ec6-3f18-bd36-9d61ce8d80ec | -4.119 | -45.62066 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 31ca62cb-ebd0-30db-acf2-8ab7fb4a7dd2 | -4.11861 | -45.58415 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| f9581ff7-9f35-33f3-9764-ef3793b78c4d | -4.11837 | -45.60868 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 1150cf27-1c68-3a9a-b743-146aa3af4b36 | -4.11797 | -45.62648 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| d440583a-e0a1-3b4c-bce0-1e14e85fb684 | -4.11757 | -45.59004 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| d3a193bf-57e6-3117-aaae-7f1d15867a55 | -4.11737 | -45.61456 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| f8709b05-46d2-3f98-babb-80c5c6b66812 | -4.11651 | -45.59597 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| a7d8a417-7f88-3ad5-946e-c5756fed9d13 | -4.11636 | -45.62044 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 92f14cfb-52f7-3111-bf89-a90492f3ebfd | -4.11574 | -45.58385 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 3dba3584-9d13-30e0-b2ef-aeabd88b7adf | -4.11546 | -45.60187 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 9a9092c1-df70-3633-a084-ebd01f0d76d2 | -4.11473 | -45.58976 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 44f24b53-87d5-33df-98ab-7197a966f843 | -4.11441 | -45.60776 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| d201595c-6f3b-3bf9-abff-7351fb169363 | -4.11371 | -45.59575 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 37c6cca9-1457-33b3-a747-5abfcf21aae1 | -4.11337 | -45.61362 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 298dabbb-c8ce-3734-bdae-278727e69b5d | -4.1127 | -45.60164 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9cb4b9c4-bccd-34ab-9ae8-1674ba5a7e75 | -4.11169 | -45.60752 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| b11b7c5f-eb8a-3b98-8d39-3eab8f2a5021 | -4.00659 | -46.01447 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 79aff735-581b-3537-ad84-ce6e85172f57 | -4.00653 | -46.01504 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| b6584035-4b03-3f1d-a7cf-d68e52fdf122 | -4.00557 | -46.02013 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 800cf59a-071e-323c-b89d-40daeedf2475 | -4.00553 | -46.02073 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 711fc3e6-a136-3eea-bd7c-6f621cdecb87 | -3.99984 | -46.01277 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ca576ab4-6062-32e9-b1d4-b098a77aa5f1 | -3.99976 | -46.01334 | 2024-10-23 03:34:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 14a1b036-db9c-3f8f-8008-9ae59406b357 | -5.76022 | -45.55984 | 2024-10-23 03:34:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 43a8594d-c8c9-3bb4-8e38-860886c8f9c4 | -5.75922 | -45.5654 | 2024-10-23 03:34:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 0fb2ff2e-3f9a-3be4-9782-6807b7126d69 | -5.70865 | -45.00031 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 0af39337-e201-3e5f-9619-0262c1e02319 | -5.7024 | -44.99902 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 891d0e54-7ee2-3caa-9dc6-6acf8d69bf17 | -5.3668 | -45.08377 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 0de89b67-7644-3608-bd1d-054f1dc82f4f | -5.36582 | -45.08917 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 08fb0453-3989-35ce-95cb-94f1df786b3c | -5.36502 | -45.08144 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 448572ff-0aaa-343b-8a52-e285ab6b856d | -5.36406 | -45.0869 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 52338bf0-ad0a-3dce-b468-9a29b40075a5 | -5.36046 | -45.08258 | 2024-10-23 03:34:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 808a624d-e222-3091-bc89-19438e553082 | -3.28795 | -46.08051 | 2024-10-23 03:34:00 | NPP-375D | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 4be83bba-4d3e-353a-a459-8196f9b550bd | -3.28217 | -46.07938 | 2024-10-23 03:34:00 | NPP-375D | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 77b8b458-44cc-382c-aafd-f71e12d11c50 | -3.281 | -46.07937 | 2024-10-23 03:34:00 | NPP-375D | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4eac4b68-dcb4-3e29-aa2f-17d99a1ba4cd | -2.28662 | -46.43652 | 2024-10-23 03:34:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c509977e-e8c3-3c95-add2-d6e7575c61be | -2.28549 | -46.44338 | 2024-10-23 03:34:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| bc788a4e-4095-3178-a08f-115d7ff0e846 | -4.76608 | -46.6228 | 2024-10-23 03:34:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| adec5926-9298-3e99-980a-95a71c29f735 | -4.76482 | -46.62971 | 2024-10-23 03:34:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
 
 
 [Clique aqui para ver as próximas entradas](README16.md)
