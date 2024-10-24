@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a163310d-d6b7-3779-8c4e-240859f4b63a | -18.31047 | -56.20746 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.1 |
-| 125d2f96-65cc-339c-a037-6ef6775c2573 | -18.30884 | -56.21762 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 46.5 |
-| 8cec18c6-befd-3647-871b-372919237fcd | -18.30122 | -56.20585 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 12.8 |
-| 14eb2969-1a09-3fcb-aaac-118c64a11ac1 | -18.29959 | -56.21602 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| 4a9096a3-c6c3-38be-8425-c55f535b6bf2 | -18.2709 | -56.04966 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
-| f75200b6-6772-374f-a698-d4d93c997953 | -18.26932 | -56.05969 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.7 |
-| 03c4b9a2-3f87-34b9-b967-a7dde39ad7cb | -18.26012 | -56.05811 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.2 |
-| ce242117-9539-3c6b-89f8-c7dbff68c759 | -18.25853 | -56.06815 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.8 |
-| 6d9f093a-a2bc-34b9-9f5f-c41f54f2818e | -18.24932 | -56.06656 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| c70929bf-0a33-3db7-b332-c110ffb4606e | -17.94177 | -57.21194 | 2024-10-23 05:46:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.4 |
-| 103d7bbd-1cd6-3c0c-b1d2-b72a65ed7865 | -17.00913 | -57.5048 | 2024-10-23 05:46:00 | AQUA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 19.3 |
-| 34368222-3ca0-3cb5-bdbf-7d3abd057115 | -17.02065 | -56.00282 | 2024-10-23 05:46:00 | AQUA_M-M | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 13.2 |
-| 492f6539-a655-3f7e-9255-b6bce5a7b112 | -17.66561 | -57.44405 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 18.5 |
-| 56d45dce-f961-394e-8677-89aced74b1aa | -17.67165 | -57.46964 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 16.3 |
-| 0c87032f-0736-3b19-8d02-5d96437259e9 | -17.67361 | -57.45774 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 19.6 |
-| ec27a452-99e5-325b-a2aa-8858fbcc3fd8 | -17.67558 | -57.44585 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.0 |
-| f30f4589-87e3-3dce-b45d-0a2532577b5e | -17.68162 | -57.47145 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.7 |
-| 390db263-21dc-37b9-bf88-763b0233323d | -17.68358 | -57.45954 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 59.4 |
-| 8fb38e3d-e29e-31e6-ae7d-d77f88ceffff | -17.75139 | -57.55133 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 18.1 |
-| 69e645a6-20ea-3508-8f31-e0be82e673bb | -17.76338 | -57.54113 | 2024-10-23 05:46:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 22.5 |
-| e3d0d862-f466-3732-b638-ee966e75de6e | -3.1101 | -54.1661 | 2024-10-23 05:55:24 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 83.3 |
-| b51d31dd-3077-3615-a82e-2e018c0344ba | -3.1102 | -54.146 | 2024-10-23 05:55:24 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 47.4 |
-| 602cb3bd-b3f1-314a-aa49-4925368bbbbb | -17.0184 | -57.5178 | 2024-10-23 07:06:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 70.1 |
-| 6a0f2676-9886-3012-9a01-e704eda77bd9 | -17.6868 | -57.4593 | 2024-10-23 07:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.6 |
-| c6c50fc3-b63c-3018-8788-2cc44cd9e0a7 | -19.5669 | -56.6744 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 55.6 |
-| 43f5daa0-e907-3843-bca3-d409bd896ef9 | -19.6245 | -56.8129 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 165.2 |
-| c7b9d37a-8b6e-3f45-b4aa-78f7c3c92da6 | -19.6249 | -56.7919 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 128.3 |
-| 164fb3a6-6296-36ff-ba52-a03c089efc48 | -19.6253 | -56.7709 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 62.4 |
-| f7e3b3ae-8633-327d-aa44-98e633cf5283 | -19.6446 | -56.8101 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 75.3 |
-| 23cd2562-9f33-37e7-a06a-9f874c6e9c1e | -19.645 | -56.7891 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 66.7 |
-| 7b8b9380-cf6a-3723-ae53-b68c84d0b630 | -19.5473 | -56.6563 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 114.0 |
-| 7302fd96-ffb1-3260-b1b6-90a49c856bec | -19.5469 | -56.6773 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 167.5 |
-| f973eb59-31ac-3b7d-89c7-dd832922544c | -19.5465 | -56.6983 | 2024-10-23 07:06:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 110.5 |
-| 022897fd-82f2-306e-a57f-aaf0fe80919c | -19.5272 | -56.6591 | 2024-10-23 07:06:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 92.1 |
-| 7f9ffd8c-8bed-3ec8-98ec-c1a047b16fb5 | -19.5268 | -56.6801 | 2024-10-23 07:06:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.6 |
-| 32543e03-4cd2-3161-8787-c3112f6d3868 | -17.0184 | -57.5178 | 2024-10-23 07:16:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 80.3 |
-| b148a9fc-a7ad-3e9f-95cc-dc1db2454843 | -17.6868 | -57.4593 | 2024-10-23 07:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.6 |
-| 5d965cbd-e39e-3129-a6f2-db52eee97358 | -19.6245 | -56.8129 | 2024-10-23 07:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 154.8 |
-| 7745a580-6f6e-3238-8080-73478bd9e3d4 | -19.6249 | -56.7919 | 2024-10-23 07:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 137.1 |
-| ee0e7563-8b0c-3023-8aa1-766350bcc8b8 | -19.6253 | -56.7709 | 2024-10-23 07:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 67.3 |
-| 4bc7feb1-b7e2-3374-b265-0b2e2b1462aa | -19.6446 | -56.8101 | 2024-10-23 07:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 66.0 |
-| ef8a2ffb-dcc5-34a6-926f-8cfec08556e2 | -19.645 | -56.7891 | 2024-10-23 07:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 68.0 |
-| ab79bb08-658a-3510-b38e-2d983366e6ca | -17.0184 | -57.5178 | 2024-10-23 07:26:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 80.6 |
-| aa6252fe-0182-3ecb-811b-1253248266cf | -17.6868 | -57.4593 | 2024-10-23 07:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 80.1 |
-| 2feac25c-dc1d-3f30-89eb-b578b7ed75be | -19.645 | -56.7891 | 2024-10-23 07:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 65.3 |
-| 65dd52c9-f036-3d28-b8d1-0d6e95a1d2bf | -19.6245 | -56.8129 | 2024-10-23 07:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 172.2 |
-| 29259f27-6e2b-3fac-9208-84bf8a60f45d | -19.6249 | -56.7919 | 2024-10-23 07:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 165.5 |
-| 2ee14225-9620-3cbd-91a3-1ba099385443 | -19.6253 | -56.7709 | 2024-10-23 07:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 69.1 |
-| 2e6527a3-ff20-3c68-9df1-ccdbe1129504 | -17.0184 | -57.5178 | 2024-10-23 07:36:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 75.6 |
-| fb09b3b3-cca8-3bc1-bade-ae4f8b4f7380 | -17.7637 | -57.5732 | 2024-10-23 07:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 70.3 |
-| 3d38f592-2b13-3e5a-90dd-8d5014ff9e75 | -17.6868 | -57.4593 | 2024-10-23 07:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.0 |
-| 77672170-6834-336b-9d2b-9678fc8c1e31 | -19.6253 | -56.7709 | 2024-10-23 07:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 76.0 |
-| 7103be15-5d3e-3280-9ea3-07d80edff3a6 | -19.6249 | -56.7919 | 2024-10-23 07:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 176.7 |
-| d8297934-9354-3425-8f56-3e3c52b34f1b | -19.6245 | -56.8129 | 2024-10-23 07:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 209.2 |
-| 8dcfc546-9006-3678-8e0a-72adbc94f861 | -17.0188 | -57.4973 | 2024-10-23 07:46:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 48.1 |
-| 77193a78-def4-36e1-80b4-955f1673b2fa | -17.0184 | -57.5178 | 2024-10-23 07:46:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 66.9 |
-| 15991705-0fd9-3bfb-8fbf-d5e6710336f1 | -17.6868 | -57.4593 | 2024-10-23 07:46:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.4 |
-| 9f175dac-c78e-3732-9ed6-d7eb90359bc1 | -19.5465 | -56.6983 | 2024-10-23 07:46:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 50.0 |
-| cfd22226-5a81-3887-945d-ee89f7f4e99e | -19.6253 | -56.7709 | 2024-10-23 07:46:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 70.6 |
-| 7bc941c0-886c-37da-b00e-52c5672fb9b2 | -19.6249 | -56.7919 | 2024-10-23 07:46:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 168.2 |
-| 48f3aac5-59ba-3e6c-a2e1-37163d398125 | -19.6245 | -56.8129 | 2024-10-23 07:46:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 179.7 |
-| cdda2721-28ef-302c-b97f-cc15c6818731 | -19.5473 | -56.6563 | 2024-10-23 07:46:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 62.0 |
-| fda6d7c3-70f0-31a0-92d4-59b48499e2f2 | -19.5469 | -56.6773 | 2024-10-23 07:46:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 83.7 |
-| a6e77512-2a71-3f04-9cf1-5b25e127c5fd | -17.0184 | -57.5178 | 2024-10-23 07:56:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 75.5 |
-| c4169d34-f3ce-3b3f-b86c-10c884fbf2b9 | -17.0188 | -57.4973 | 2024-10-23 07:56:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 49.8 |
-| 3480622b-fcfd-3f7c-80f7-02ca7a5e44aa | -17.6868 | -57.4593 | 2024-10-23 07:56:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 78.9 |
-| 6d0e6745-1ef6-3516-bda0-1bc84d5f8668 | -17.7637 | -57.5732 | 2024-10-23 07:56:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 70.5 |
-| 93a5e82f-583a-3cfa-84e9-ff03a6f84782 | -19.6245 | -56.8129 | 2024-10-23 07:56:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 111.7 |
-| 66b0c4a3-e19b-3bd3-999a-24a1c62ddf2b | -19.6249 | -56.7919 | 2024-10-23 07:56:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 159.9 |
-| f4c17653-2eb0-3d4c-9168-f645e5a93174 | -19.6253 | -56.7709 | 2024-10-23 07:56:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 68.0 |
-| 5c8112ca-392e-3036-9e5f-c7ac4488747f | -17.0184 | -57.5178 | 2024-10-23 08:06:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 83.1 |
-| 3818637b-1693-3f15-b955-776cbe0c4a20 | -17.6868 | -57.4593 | 2024-10-23 08:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 79.2 |
-| 51a01236-ac87-3400-988e-b1b09a480273 | -17.7637 | -57.5732 | 2024-10-23 08:06:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 74.5 |
-| ab898b86-8e72-31f8-9f2a-986f02a1849a | -17.0184 | -57.5178 | 2024-10-23 08:16:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 79.3 |
-| c3ef3c4f-3a2f-3fa3-ba67-658ac22ea76f | -17.6868 | -57.4593 | 2024-10-23 08:16:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 75.9 |
-| 103eb128-c1bc-3600-bf94-18d52cc49dfc | -19.5268 | -56.6801 | 2024-10-23 08:16:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.4 |
-| 59181b56-c6a8-3172-a5c6-6f052e03c71e | -19.5465 | -56.6983 | 2024-10-23 08:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 89.4 |
-| b4c2b347-0e65-3268-8c77-dbb3c3fc30fb | -19.5469 | -56.6773 | 2024-10-23 08:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 92.1 |
-| d9d4c054-353a-34cb-8edb-218fe6c05d97 | -19.5473 | -56.6563 | 2024-10-23 08:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 46.5 |
-| a47caa11-8afa-3883-8660-82bda9f7f583 | -19.6044 | -56.8157 | 2024-10-23 08:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 59.5 |
-| 2d34f435-2baa-3d00-ae67-0c1795a2fbb7 | -19.6245 | -56.8129 | 2024-10-23 08:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 127.8 |
-| 8a08d4a3-f149-3a89-bd9b-6cadc0868bcb | -19.6249 | -56.7919 | 2024-10-23 08:16:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 49.5 |
-| c04963d0-ca68-3b72-9c18-4e3b2ecbd210 | -17.0184 | -57.5178 | 2024-10-23 08:26:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 82.0 |
-| 6a7b9f94-c98c-300a-a902-5e9e532290e0 | -17.6868 | -57.4593 | 2024-10-23 08:26:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.9 |
-| 297975ee-8334-3ae7-ae0a-64ee777c40f9 | -19.6249 | -56.7919 | 2024-10-23 08:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 49.6 |
-| 526a09e6-179c-3212-b871-7881458de37c | -19.5268 | -56.6801 | 2024-10-23 08:26:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 68.2 |
-| 1c35f034-85d8-3b53-8f0f-f506bcf9bb16 | -19.5272 | -56.6591 | 2024-10-23 08:26:56 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 45.8 |
-| e148c309-7165-3457-955a-d895abeb9925 | -19.5465 | -56.6983 | 2024-10-23 08:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 94.5 |
-| 98d4fb0b-a292-3cb1-9814-67b75bf0c3ec | -19.5469 | -56.6773 | 2024-10-23 08:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 154.5 |
-| 8f170fe3-9aed-31d6-a790-70c995ac91ed | -19.6245 | -56.8129 | 2024-10-23 08:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 96.6 |
-| 7e1edd16-b5ff-398c-b358-79c2b23b4e4b | -19.5473 | -56.6563 | 2024-10-23 08:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 79.6 |
-| 4f7a605f-1fbe-34fc-9a54-a78524a7da4a | -19.5669 | -56.6744 | 2024-10-23 08:26:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 64.9 |
-| 42e43a54-d424-3d98-b703-a0491870f59f | -17.0184 | -57.5178 | 2024-10-23 08:36:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 77.3 |
-| 375bb87f-82d7-303d-a6be-9421eaf82796 | -17.6868 | -57.4593 | 2024-10-23 08:36:46 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 87.9 |
-| ac395957-98bb-3eae-a2f1-45e09c35ca20 | -19.6245 | -56.8129 | 2024-10-23 08:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 103.9 |
-| 4d972821-b54c-3cfb-8f56-e9148c8f790b | -19.5669 | -56.6744 | 2024-10-23 08:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 54.3 |
-| 253038cb-3cd9-347b-975d-b67ae72f6937 | -19.6249 | -56.7919 | 2024-10-23 08:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 97.3 |
-| ee3b0128-0911-328a-8b80-55880e517b8f | -19.5473 | -56.6563 | 2024-10-23 08:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 59.0 |
-| 93ce4634-8882-385b-8d6b-98def5c590e5 | -19.5469 | -56.6773 | 2024-10-23 08:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 146.5 |
-| 7f04317c-56bf-3dd9-9105-63d68090c259 | -19.5465 | -56.6983 | 2024-10-23 08:36:56 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 134.7 |
+| a1979ce7-6843-3043-af4a-744d4b4ed301 | -2.96324 | -50.41632 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 25b7d58b-9ea7-3f4c-bec2-10d5290da351 | -2.96304 | -50.42804 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| cb0c69d9-d6de-36d5-8438-f295186501e2 | -2.9626 | -50.42038 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
+| 2c176b8b-1e0a-3290-8a71-b7c5427b256f | -2.96197 | -50.42443 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
+| 10e91445-c919-3b58-b21a-75806cc7f221 | -2.96133 | -50.42848 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| d480a3af-88d4-3d58-938a-bb624626561c | -2.96131 | -50.4153 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| cf62a17a-5dd3-3bda-9a9f-2a63ab5527ca | -2.96008 | -50.42342 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| ac082339-8f99-350b-b43c-b645382b8720 | -2.89882 | -50.40641 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 6a1c6b58-ddcc-3d14-9f3a-7ec43a439a1d | -2.89524 | -50.40586 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 87b325fe-b13f-3c71-95b8-e654ec0ef6e1 | -2.62824 | -49.98447 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| c88012b4-e23e-3d73-b266-6bc07f0939f4 | -2.6246 | -49.98391 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7d00e84a-4b3d-327f-831b-9dd96d3356d4 | -2.62395 | -49.98811 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ed10798f-caf6-324d-8c2e-24cdce07f011 | -2.62095 | -49.98335 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 76ea7dd4-2075-3fb5-807b-15c5f01ef35c | -2.44606 | -49.88583 | 2024-10-24 04:55:00 | NPP-375D | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 49225bf6-c651-3a18-a428-5f176443bbfe | -2.4386 | -49.95823 | 2024-10-24 04:55:00 | NPP-375D | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d05448c8-f299-3c03-8eb6-1d5ebc04ca0b | -2.42389 | -50.28991 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 94197f52-10c4-32dd-8dff-7801e9c1038b | -2.41967 | -50.2934 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3b14dbf3-3f46-3c4d-b769-da12a8d6d3fb | -2.40787 | -50.41521 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| b10a4e70-b876-37e8-87be-46734040cd5c | -2.40494 | -50.41066 | 2024-10-24 04:55:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 49ac6d84-f426-3b8d-b5eb-599977ed6ca0 | -2.23222 | -50.31137 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 55f1e65c-8d78-311c-85da-199ade403b0d | -2.22865 | -50.31082 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d3ba5a63-879e-3378-b81c-d5d805d59b98 | -2.21837 | -50.31452 | 2024-10-24 04:55:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| e0d3066f-b77c-3588-81ca-d2cf283ab636 | -3.5137 | -50.48122 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 166a9ca7-acdc-3a7e-a25f-5b0c92c4115c | -3.51073 | -50.47652 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4a98c840-0792-3251-9557-4cf3cce0c684 | -3.51011 | -50.48063 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 702f4680-2df2-3fdf-8afe-f70115860954 | -3.4861 | -50.48185 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ba6990cf-4d0f-31e8-9cc2-d04f22eb8b21 | -3.48252 | -50.48129 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f3db0e49-86e9-3e46-a0e3-c69c94245888 | -3.54856 | -50.30083 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 2b6b8110-8e6d-32ca-a206-6c6cff4ecbd8 | -3.50977 | -50.28308 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| 4450744b-3b8c-3efb-a520-37e278d34c06 | -3.50911 | -50.28727 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9ebd4cbf-9ace-3ea5-8c52-01e1ecd41298 | -3.50614 | -50.28251 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| 8f2f4202-d7e0-39e1-80f5-69593da3777e | -3.50549 | -50.2867 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6810de8c-89b6-3ae0-af8c-91de83dfa537 | -3.50484 | -50.29089 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ad1269ca-a6b1-38d3-8727-265bf377e4cf | -3.46974 | -50.08274 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 02480dca-4589-3462-b210-832c0c29bb42 | -3.46909 | -50.08703 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| f6cb9bf2-ae4b-33ac-bccd-ec884f684895 | -3.46608 | -50.08216 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 6781e402-7c77-350d-b86e-19f2812ace6a | -3.46543 | -50.08643 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| f9b9ad2e-bb10-34d6-8c06-337c400d3102 | -3.44901 | -50.07722 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| e7b9b4fa-986e-3b22-82c7-45e22f8b386a | -3.4484 | -50.0751 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 6cd48520-da0b-3578-86ef-81202edf4060 | -3.44776 | -50.07938 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| baf6de32-044d-39f2-99bf-45370fb3883f | -3.44654 | -50.40476 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| bffa6af3-e1ef-38c3-87ef-57856f6db0bf | -3.44591 | -50.40886 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| dc6806e4-1b90-3b6a-97ff-b4bcb1913fc1 | -3.44528 | -50.41295 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3e97a722-76e9-3be6-a57f-39928ee2b6f3 | -3.43547 | -50.35654 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 1021cb63-6684-3a46-bb74-bc5db193b524 | -3.43187 | -50.35598 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 23982431-480b-36fc-b32a-54f9c4307776 | -3.4289 | -50.25362 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5f03724c-7a76-3a2b-aa04-120229798fc4 | -3.42528 | -50.25306 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cdf5849d-2da2-356e-a66b-352a293009e5 | -3.42488 | -50.25481 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f6aa66a4-4848-30f9-9a66-45a363ae70ae | -3.40548 | -50.33503 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 557f5511-8362-3522-9cba-49a84d6f6f7d | -3.40486 | -50.33915 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 446a80d8-8b82-3059-8855-fe41ff5c99dc | -3.40463 | -50.33662 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3d7e5dd1-5ffb-3cc0-9b97-f6210eadf2ad | -3.40399 | -50.34077 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 3cea4198-5f6c-347d-8e77-f96baf411ca4 | -3.40102 | -50.33608 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 5c784f0a-e05a-3ada-9f14-d4d2e1eb872e | -3.39186 | -49.86104 | 2024-10-24 04:55:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 50d702fb-fa65-39c2-bbd4-509dac95a938 | -3.38881 | -49.85611 | 2024-10-24 04:55:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 034fe518-5220-3280-9dc3-5b17e633ca77 | -3.38815 | -49.86047 | 2024-10-24 04:55:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2fd4fb96-b3a6-3b5f-837f-be42fbeeacd1 | -3.37312 | -50.15667 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1d858df0-6a8b-340a-8bf0-a091c9bd6a9a | -3.35174 | -50.32005 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ff5735a2-1513-31e7-980f-6c8a1527b9fe | -3.35125 | -50.15328 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 69eed138-438b-3855-98bc-99ba340eb175 | -3.35061 | -50.1575 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| b9ead198-5e3b-3251-9fc1-b8ac1b3a85c3 | -3.34813 | -50.31948 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| da12ead7-2197-3184-98f3-6430c7f01242 | -3.34761 | -50.1527 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 8ef1acaa-5dc7-3f27-8968-a6169d8abff1 | -3.3475 | -50.32357 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1b5a990f-41ac-3c49-ae51-cbee8a27ff16 | -3.34697 | -50.15691 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 07de63b4-a20f-374c-bb4c-94abdce18469 | -4.84993 | -50.67765 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e7dcdc6d-1dd7-30a9-b10e-a7e5c39c1843 | -4.84632 | -50.6771 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| f2fff23e-4c3c-3784-a8d2-ac110cbb21cb | -4.82066 | -50.89048 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| fe680e90-9365-3298-a3c1-397cf3356528 | -4.81772 | -50.88588 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 64998ca8-a6bc-3277-855e-ac03466fd023 | -4.81709 | -50.88993 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 77bad896-a4a8-36da-8577-3bc5614acfa3 | -4.73948 | -50.69172 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 00503326-f0a6-38fd-8bda-672e843bd468 | -4.73884 | -50.69586 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| be074dac-3b94-3786-9189-a77e39a96223 | -4.73652 | -50.68702 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 15ab5bdd-6308-36e0-a355-87f6c61b7aaf | -4.73588 | -50.69118 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 773188ed-52dd-3a24-a98a-099c70220b74 | -4.73524 | -50.69533 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 11a285f2-7995-3c1d-bf3d-535762c07bdd | -4.71948 | -50.86813 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 85e20125-2c0e-32da-af53-f9c66574d1f7 | -4.64371 | -50.76507 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| cba07014-9ffe-38d2-a6ec-bfb1437b6c06 | -4.64211 | -50.7663 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| becacf1d-4af4-326c-b2fa-051aae755bbe | -4.62668 | -50.5319 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 3bc72f99-3467-3f6a-adf9-1d6b8aaac8cf | -4.62305 | -50.53136 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 74bc48b7-95ab-394e-bbe1-3c74f8207aa5 | -4.62242 | -50.53552 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 67951e75-2b83-35b2-89fc-5832cc6da2a2 | -4.61943 | -50.53082 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2064dfc1-4090-3058-ba0d-3245d0e5391e | -4.61619 | -50.79152 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7abf28ff-f9d9-39b9-8a3e-7c9fd2590286 | -4.51881 | -50.83039 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 38f20c77-82e8-3e0c-8dfe-0e2d6a2a7ce6 | -4.51629 | -50.83128 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| a514892d-0cc2-3ea4-8d8b-f7cc23827908 | -4.42126 | -50.78368 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 59762801-21a9-3f4c-b4a9-bf4fc0be3607 | -4.41937 | -50.78474 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 97d22204-8e03-3533-9966-f825ebe7530a | -4.40887 | -50.82862 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 32f06245-2fc0-3ee3-99a9-e585d4ae3b88 | -4.40593 | -50.82404 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2d1562a1-305d-3a19-8814-4ea15db494bb | -4.4053 | -50.82807 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 13df10e8-2ee1-32c7-96d1-a882236f4b46 | -4.23135 | -50.63588 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7af492da-df30-37c6-83d2-8f45267522b1 | -4.23073 | -50.63996 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8178b08d-72c6-3638-9b53-fd699c78b899 | -4.22995 | -50.63722 | 2024-10-24 04:55:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 6cd048dc-8f03-3225-85fd-51048f5262b0 | -3.91002 | -49.87598 | 2024-10-24 04:55:00 | NPP-375D | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 72775eed-3b13-3a01-ba5c-17a04a7bea46 | -3.81572 | -49.91366 | 2024-10-24 04:55:00 | NPP-375D | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c4eb37e6-6627-3f40-b696-eb46c5958ee2 | -3.81201 | -49.91307 | 2024-10-24 04:55:00 | NPP-375D | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 54671eef-e705-3706-958a-a3b72873c58a | -3.81134 | -49.91749 | 2024-10-24 04:55:00 | NPP-375D | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 457416ac-c0e0-373f-9ebd-58a1f3a38490 | -3.80346 | -50.16817 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| b51b82da-25f4-3657-82a6-25a4cbc9197a | -3.7998 | -50.1676 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 4e42ab9a-1c70-3e18-b46d-3dbc64a1c1fc | -3.79861 | -50.02689 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 53c831d3-8a5f-3dd4-910a-fd2afc3339db | -3.79796 | -50.0312 | 2024-10-24 04:55:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
 
 
 [Clique aqui para ver as próximas entradas](README65.md)

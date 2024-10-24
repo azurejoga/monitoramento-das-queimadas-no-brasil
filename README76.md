@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c1bb94b9-4d6a-365e-8f95-c11411cab1e0 | -11.691 | -65.23206 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| cb82de9a-fb91-3c56-b765-f1c42f0afb67 | -11.69045 | -65.23568 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 26.2 |
-| b5fa4842-5574-3cea-a92a-609c2758bcc8 | -11.68765 | -65.23153 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 80672487-a8d2-37e5-bf5e-4ba38948977c | -11.68375 | -65.23461 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 7d103aaf-a00a-398b-888b-d49815e6fc8f | -11.49332 | -65.10178 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 44aff9f1-87e9-32b6-87e9-71f8b785a40c | -11.49277 | -65.10541 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 51acd9df-ca42-3f4c-9af1-82e4c84456fe | -11.49222 | -65.10905 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 2976536d-2293-3023-8442-42010e7fbacd | -11.49167 | -65.11267 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 64d3abd5-4641-3c70-b0b1-ba888f97b0ab | -11.48941 | -65.10488 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 5fc0c16d-f1fb-317f-b504-3c7064db3eee | -11.48886 | -65.10852 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b00b65aa-f3df-3fd6-830d-7620de94fa56 | -11.48831 | -65.11214 | 2024-10-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f561622b-46a3-30cf-a2d6-d771f11e0d26 | -10.90571 | -69.31764 | 2024-10-15 05:44:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d9af120c-45b1-3e62-b211-67d019e6b5fe | -10.851 | -69.56679 | 2024-10-15 05:44:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| f30ac8fe-052b-3a00-8ba8-cf86c732b7ed | -10.80836 | -69.53336 | 2024-10-15 05:44:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4d9a29f0-be74-3451-b938-ab3d6da8ce3c | -10.68093 | -69.37902 | 2024-10-15 05:44:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| e30639c2-1189-3912-968f-78d16304b6ea | -10.65518 | -69.38844 | 2024-10-15 05:44:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c957006b-3a04-3076-b8e3-7bad11ec961b | -10.6545 | -69.39261 | 2024-10-15 05:44:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 0adfe8ee-e380-3661-a4aa-d5025170ec44 | -10.58284 | -69.69021 | 2024-10-15 05:44:00 | NOAA-21 | ASSIS BRASIL | ACRE | Brasil | 1200054 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f9af0277-1437-3add-bce3-7b58f11a725c | -10.5792 | -69.68955 | 2024-10-15 05:44:00 | NOAA-21 | ASSIS BRASIL | ACRE | Brasil | 1200054 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2b84341b-3785-3c1f-82ef-f42608e44da1 | -10.4686 | -69.36678 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 7f6c7240-4418-37b1-ba1d-fbbbae7ea9d4 | -10.46501 | -69.3662 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b132544b-e1a4-3844-b321-66ff944b007a | -10.46491 | -69.721 | 2024-10-15 05:44:00 | NOAA-21 | ASSIS BRASIL | ACRE | Brasil | 1200054 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ba5c1538-47a4-35d2-b223-025924aba50b | -10.43127 | -69.76443 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f4d41550-60b4-3875-b25b-92eae354b913 | -10.4276 | -69.7638 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| bf627d85-ca2d-3d90-8a39-99fdf1daa59a | -10.38031 | -69.50851 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 929941df-77c2-3bd1-a434-0eac2732040a | -10.37959 | -69.51277 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 75ecac8a-169e-32e5-b1f7-7318f3422a3f | -10.37669 | -69.50789 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 1707fce4-9ef9-3526-b95c-de3968617bf0 | -10.32674 | -69.47332 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 57933ea2-678b-38ac-ac0c-aba129418168 | -10.32596 | -69.47029 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3679401a-570a-3845-a5e7-66c51025522a | -10.32526 | -69.47453 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 689a2167-9326-31f9-84f2-5a51298f0ed5 | -10.32313 | -69.47271 | 2024-10-15 05:44:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1bdb65a1-ba5f-3c19-949a-bc520c6c71f2 | -8.68966 | -71.03544 | 2024-10-15 05:44:00 | NOAA-21 | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 67a42444-830f-3f20-b939-1db54ab95273 | -6.92879 | -71.76687 | 2024-10-15 05:44:00 | NOAA-21 | IPIXUNA | AMAZONAS | Brasil | 1301803 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 452fed16-9cd3-33f5-af8f-2cceeddbc9c2 | 1.0016 | -52.2164 | 2024-10-15 05:45:00 | GOES-16 | PEDRA BRANCA DO AMAPARI | AMAPÁ | Brasil | 1600154 | 16 | 33 | nan | nan | nan | Amazônia | 76.8 |
-| 5e1721f5-28b3-3fc3-9ec7-3a62f8e86dae | -15.96435 | -59.75608 | 2024-10-15 05:46:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 94334043-49ab-33db-aedc-f6c610e312a0 | 1.11931 | -60.51815 | 2024-10-15 06:03:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| f122ee31-c563-3008-b1bb-5b0ea32faa49 | 1.11756 | -60.51802 | 2024-10-15 06:03:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 644f3162-bd04-3985-a933-e78569cab3fd | 1.11389 | -60.51903 | 2024-10-15 06:03:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 4d408451-2e33-348c-9f70-d3c7de490004 | 1.11332 | -60.51559 | 2024-10-15 06:03:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b55ba182-635d-3540-a8c7-68dd756298c0 | 1.11214 | -60.51892 | 2024-10-15 06:03:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5e65ae7c-c269-3bca-bbd6-3424b2b75920 | -1.84446 | -60.03635 | 2024-10-15 06:03:00 | NPP-375D | PRESIDENTE FIGUEIREDO | AMAZONAS | Brasil | 1303536 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9ea53fbf-67ed-3b11-a4c7-d1f907e01964 | -13.89 | -45.86 | 2024-10-15 06:04:05 | MSG-03 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 8767669a-8103-3531-a42e-72b802f3b7d1 | -13.89 | -45.81 | 2024-10-15 06:04:05 | MSG-03 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| ef0fa697-fd93-34eb-a92a-7096cb9f01d6 | -13.92 | -45.87 | 2024-10-15 06:04:05 | MSG-03 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 01b17cb9-c7c9-3eb2-a798-10bd08d18660 | -13.92 | -45.82 | 2024-10-15 06:04:05 | MSG-03 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 2ae78aa4-10ec-37ac-8cb5-4da5379355ce | -7.95052 | -63.62849 | 2024-10-15 06:05:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 5e61ebc2-ade7-3ebe-8188-b9de3b6cbe81 | -7.94548 | -63.62776 | 2024-10-15 06:05:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 93a8b2a0-9650-37de-a481-918410dd3d40 | -9.43547 | -61.99219 | 2024-10-15 06:08:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 164a3386-db33-3458-9ea9-f679d33db525 | -9.40573 | -63.66375 | 2024-10-15 06:08:00 | NPP-375D | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 92b34ac8-c361-3e39-853a-2f4d89e59b81 | -9.40532 | -63.66677 | 2024-10-15 06:08:00 | NPP-375D | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c4953314-f79b-32ac-b106-c3666b7be03e | -9.40059 | -63.66304 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 86547875-7a5b-3198-84f0-e01112a22366 | -9.34989 | -63.5717 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 6e3d1646-a2d3-3374-897a-276771092a88 | -9.34948 | -63.57481 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 02d3fa16-f1cc-31a6-b008-2c450fac8c19 | -9.34907 | -63.57793 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 5a845675-36b1-3933-a1a0-c705a8d5ce93 | -9.34866 | -63.58103 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 503681d4-aa1d-3168-a640-1f27b2ed61cd | -9.17872 | -63.41463 | 2024-10-15 06:08:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 87ede8d2-54ad-3c4c-ab1d-dd7ff1f3d583 | -9.1783 | -63.4178 | 2024-10-15 06:08:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 8137f071-5b33-3335-8369-8ff41d860dde | -9.12077 | -63.57418 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 6945a1b6-106b-379d-8373-ad5e3abf932c | -9.12036 | -63.57727 | 2024-10-15 06:08:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 23134da0-6903-34ff-9d50-4050b6c7ca64 | -9.11342 | -62.63539 | 2024-10-15 06:08:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| cae7a337-0230-38b5-8eae-20a758a5c1ab | -9.11296 | -62.63896 | 2024-10-15 06:08:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 1c89a631-7b4e-36d6-a233-4e31fd23e761 | -9.09245 | -65.28203 | 2024-10-15 06:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ff208d20-0305-3f5e-83a4-d76599b22b3d | -9.08788 | -65.28139 | 2024-10-15 06:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| fdcad6f6-04a0-373a-8e28-20fab3cf8bb6 | -9.01002 | -62.56852 | 2024-10-15 06:08:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 64e9147c-88f3-3da6-bbdd-4d7dbce55483 | -9.00954 | -62.57207 | 2024-10-15 06:08:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 88b2549a-1940-3432-a32b-147b310d94a4 | -8.70391 | -71.01369 | 2024-10-15 06:08:00 | NPP-375D | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| fcf25266-a864-357d-b431-7250c38c3c3e | -8.69001 | -71.03706 | 2024-10-15 06:08:00 | NPP-375D | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 2063a764-4458-39f9-92e5-0718bfe76dd0 | -8.66016 | -70.99611 | 2024-10-15 06:08:00 | NPP-375D | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 221c1c12-99e6-3ac4-b863-db9f78fab492 | -8.59825 | -64.22083 | 2024-10-15 06:08:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 5e67fe88-7ec5-3125-9c82-6ec9e939b876 | -8.59571 | -64.21963 | 2024-10-15 06:08:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| f8938dd6-a90d-359c-9c6c-06658355b6cf | -8.59336 | -64.22014 | 2024-10-15 06:08:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 73f9cb1c-16ef-3488-83f2-fac5104faa93 | -8.26959 | -71.13506 | 2024-10-15 06:08:00 | NPP-375D | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f396a545-42a7-36f6-b533-6cd156d47f26 | -13.86328 | -60.08568 | 2024-10-15 06:08:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 02ab4f26-5d30-36b4-b876-df231197eef5 | -13.86319 | -60.08084 | 2024-10-15 06:08:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 4a8efb17-e470-30a4-9413-0434b2f7528a | -13.86252 | -60.08698 | 2024-10-15 06:08:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 1cb7b836-a4eb-3c89-8d0a-a4f7f028eb3d | -13.36199 | -61.34724 | 2024-10-15 06:08:00 | NPP-375D | CEREJEIRAS | RONDÔNIA | Brasil | 1100056 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e6c49b69-7700-38f9-ac03-610032643e56 | -12.46641 | -62.98327 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b0b700e0-e648-3f34-a209-2a19389afa83 | -12.46389 | -62.9832 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 3740abd0-e3bd-3bb9-b838-bbbb43e41327 | -12.46131 | -63.0245 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 8f9bc382-136a-39c7-b9a3-f483b43794ec | -12.46084 | -63.02826 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 5795ec8a-155a-3366-af6f-28fdb83a22d0 | -12.46081 | -62.98252 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a5f67007-ee10-33c1-8b9c-1f7f10fc0622 | -12.46035 | -62.98629 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e7c6c1a7-a148-3db6-bd1b-9d4e8371cdeb | -12.45908 | -63.02457 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 70af3bc4-36e4-3db4-96cb-686d387bf177 | -12.45864 | -63.02834 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| e006cd97-3189-3fc0-901b-31e58b103042 | -12.45618 | -63.02005 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| da96ed85-6f53-3c7a-b5fe-015fc721c5e6 | -12.45572 | -63.0238 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b160d248-b820-36c7-9874-4e4210476018 | -12.45525 | -63.02755 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 145aec85-3a9c-327a-b526-36c1d62b0fe7 | -12.45479 | -63.03131 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d9d45571-8a9a-393d-89af-fc53e493e82e | -12.45059 | -63.01934 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 29f138a6-03db-3ff2-82c1-e09cac15c4cb | -12.45012 | -63.02309 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b37e2424-48cf-3682-a5f9-abd700928717 | -12.44966 | -63.02686 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2b2c9147-0277-35b2-9de3-03e1753ea1f0 | -12.4492 | -63.03062 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b3e41862-afd2-333a-a8ce-4d51af774944 | -12.37269 | -62.97254 | 2024-10-15 06:08:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 522833bc-2272-3ddb-95e9-b2fcd6c3423c | -11.69333 | -65.23155 | 2024-10-15 06:08:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| 9a2dd0ac-c89a-35cd-9d3e-172ee734dc86 | -11.69266 | -65.23672 | 2024-10-15 06:08:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 0562eebe-7e40-3a8a-b438-ca0abfbeec2c | -11.68856 | -65.23089 | 2024-10-15 06:08:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| ff112d0e-155c-300c-aa27-e85f9f23b57a | -11.6879 | -65.23604 | 2024-10-15 06:08:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 6ce3b64f-313f-3dc2-bd98-909349c9ad46 | -10.95441 | -68.24841 | 2024-10-15 06:08:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 44d70579-a9be-3d6e-adee-0864e64a1c12 | -10.92972 | -68.36752 | 2024-10-15 06:08:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 19688531-9199-3e08-ab47-f8bc5ce0fc32 | -10.9056 | -69.31621 | 2024-10-15 06:08:00 | NPP-375D | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 029aa6b6-62ac-3f6e-b8a3-516505d82e94 | -7.59144 | -47.07942 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 3146ebbf-a9e9-3b59-9792-fa6daa9fdd68 | -7.59072 | -47.08454 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 5b040760-822f-32f1-a6e2-ffc38e4fb4fa | -7.58138 | -47.54997 | 2024-10-24 04:57:00 | NPP-375D | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| bceffc0b-5dcc-3902-bae1-3589ea87708b | -7.57682 | -47.54927 | 2024-10-24 04:57:00 | NPP-375D | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 30ecf413-e44c-3265-b4c8-afda9d7a3bb2 | -7.51341 | -48.07871 | 2024-10-24 04:57:00 | NPP-375D | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8a4ebd42-3817-34b1-a51c-d4f9c4ec4b72 | -7.50959 | -48.07384 | 2024-10-24 04:57:00 | NPP-375D | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| a64c4db1-0e18-3128-b03d-c67ebdad8653 | -9.24058 | -48.31851 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 80cdfeaa-f3bb-3a76-af05-c1117a73a650 | -9.23998 | -48.32287 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| de8c16a3-e7a1-35b7-b2a7-6b252b3b67cd | -9.23674 | -48.31349 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 3dd09586-51cb-3f2a-b803-9b6ba6ca1a2b | -9.2329 | -48.30849 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 92616e26-a412-3186-8090-141112c0a082 | -9.2323 | -48.31285 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 98dfad50-0672-3a5e-942d-d30c0f2d035e | -9.21176 | -47.95054 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 7918f367-0a60-3539-994a-20ab90c8d09d | -9.20722 | -47.94982 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| cbd9ff44-9364-38e9-8b11-df1c74bed082 | -9.20659 | -47.95438 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 65c7c051-8230-371e-8cfb-26cd75fdcf4d | -9.20268 | -47.94914 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| f053ca88-8f8f-38ab-b144-5a5610c2220e | -9.20204 | -47.95375 | 2024-10-24 04:57:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 437b804a-f5d7-3b7e-bc9d-ab72e5f2b9f1 | -9.01979 | -47.75697 | 2024-10-24 04:57:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 63fa4779-844d-31ca-9946-b4e3c54eb682 | -8.82191 | -47.93791 | 2024-10-24 04:57:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 0a6c8f3d-12b7-3fdb-b56c-146d73f066cf | -8.81738 | -47.9373 | 2024-10-24 04:57:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 61ac7784-2b67-301a-8920-e7a227c4fe0a | -8.41542 | -47.98761 | 2024-10-24 04:57:00 | NPP-375D | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| a69617b5-01c9-3a9b-8487-d460820c3b9f | -8.41094 | -47.9869 | 2024-10-24 04:57:00 | NPP-375D | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 5471c9d6-78af-3cc6-bb03-e668ca8f42a2 | -10.89454 | -47.96338 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b6fe1ff5-2677-3581-9228-484f9d3fa4b5 | -10.8884 | -47.90189 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 28f259d0-92c6-32c6-a4a1-4d1d36e0d04f | -10.88834 | -47.93848 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| b6995da9-2c7b-38ad-aed4-061b8b33617b | -10.88767 | -47.90741 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| e0ef59fb-8e46-355a-80c7-5247ba3cd5fa | -10.88302 | -47.90656 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 2cd784be-58c4-39c3-8648-4119f021dc59 | -10.58929 | -48.02552 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 25.3 |
+| 1dffb9dd-14f6-31e8-a84f-5fad1b6119c1 | -10.58859 | -48.03066 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 8b8a563f-10c6-3961-8480-264e84a149d0 | -10.58465 | -48.02499 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| b914732d-c023-3e8e-9e62-d9a0cfab7b8c | -10.58396 | -48.03012 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 424d684a-5f2a-35ca-b645-d95958b0ac35 | -10.41964 | -47.51801 | 2024-10-24 04:57:00 | NPP-375D | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| ddb3c938-328d-301d-9a95-08750bd457d8 | -9.99254 | -47.99894 | 2024-10-24 04:57:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c958d235-b267-3ae3-b5ba-5e783ab1d880 | -9.92397 | -47.84763 | 2024-10-24 04:57:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| bf2b8013-623d-30cd-96a0-0b614013843e | -9.88906 | -47.80168 | 2024-10-24 04:57:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| b9925fed-4fa3-3243-8d5f-0f6a2a870f6a | -9.8884 | -47.80642 | 2024-10-24 04:57:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 5a88ff73-6ce4-31fc-b3b1-c77f11b8422e | -9.71433 | -47.65445 | 2024-10-24 04:57:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 37283f48-d748-3af9-b5c1-541d117a3ab6 | -9.62671 | -47.91204 | 2024-10-24 04:57:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 61548032-fcd8-33dc-abb3-f7af1cd95599 | -9.60948 | -47.60703 | 2024-10-24 04:57:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 8f01117e-a089-3fab-911c-c791fec1c0f4 | -9.60478 | -47.60647 | 2024-10-24 04:57:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a600f0ad-8e85-3780-ada2-eda55f750902 | -10.08569 | -47.72044 | 2024-10-24 04:57:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 43832056-5e3c-3520-abf0-bd74575a2222 | -10.02455 | -47.45593 | 2024-10-24 04:57:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| d3ebf96b-d993-3b8a-a678-30ca6653547d | -10.01979 | -47.45522 | 2024-10-24 04:57:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| e08590cc-f2c2-377a-83b7-48ff8fb0808a | -10.0191 | -47.46037 | 2024-10-24 04:57:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 69db0231-fd01-3e4a-9fd1-4a774a2e7b61 | -10.01504 | -47.45445 | 2024-10-24 04:57:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 336c0903-5338-3ad7-920e-2a5ecbdbd933 | -10.6426 | -48.55048 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c8d9d2f6-cbe0-388e-b219-c5ba67c8f145 | -10.48069 | -48.27998 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d7947faa-6056-3ccc-8094-02600a0208ed | -10.47944 | -48.28134 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| bb73b090-bdd8-3bd7-989b-61ec640e04b9 | -10.47489 | -48.28083 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| db30c91b-1d2a-336f-b0d2-d0872fda5ff9 | -10.47034 | -48.2803 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c13572e1-dbe2-3a37-938d-d291a3105c93 | -10.4697 | -48.28492 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 174b827c-a248-3fea-a986-915de464ce72 | -10.45857 | -48.58477 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| b02de362-e630-30b6-8864-466168984037 | -10.45797 | -48.58924 | 2024-10-24 04:57:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e4a55e46-bb58-33f5-b67e-87d34f7577cd | -10.32386 | -48.82113 | 2024-10-24 04:57:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 39267bf1-be82-3298-b179-8f96e9045ece | -10.31952 | -48.82038 | 2024-10-24 04:57:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| ade06918-bba9-3fb8-bdfc-3ceb44ef0e3d | -9.99376 | -48.85154 | 2024-10-24 04:57:00 | NPP-375D | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 1a3b8286-2deb-3c36-b41c-b24e7abc99d9 | -9.86836 | -48.56022 | 2024-10-24 04:57:00 | NPP-375D | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| fb20a5f6-5e0c-388d-946f-e2fc55385632 | -9.86777 | -48.5645 | 2024-10-24 04:57:00 | NPP-375D | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 25a54651-f0c2-3ee4-8666-ef627a665d11 | -10.07654 | -48.85966 | 2024-10-24 04:57:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 626c2929-5053-3b3d-8695-b99609f77fcd | -10.69429 | -49.10923 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 6fc8ca0a-b459-384c-98be-bbb4c6da53ee | -10.69194 | -49.10712 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 957d9bfc-ddc0-3208-8ecd-1c6d0ac325d8 | -10.69139 | -49.11122 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| d6d2f9e0-45c0-3806-a1ac-a67b3b2c02f3 | -10.68999 | -49.1086 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e21ff002-cd54-3d98-a11f-0f8f9eff6af7 | -10.68942 | -49.11268 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f9b48fba-fe79-3d1b-8caa-b0cd126f477b | -10.6857 | -49.10796 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c9fbb860-4e5c-322a-b6c1-8cad676f16df | -10.68512 | -49.11204 | 2024-10-24 04:57:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 32115bd2-4f5a-3b9b-b299-2aa94985fec9 | -11.14768 | -48.09431 | 2024-10-24 04:57:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| bcdb9548-b81c-3798-b7ba-24135f4622a4 | -11.14613 | -48.09568 | 2024-10-24 04:57:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 59d8e1e5-6694-3bd8-83ff-98b889ef2909 | -11.10413 | -47.70233 | 2024-10-24 04:57:00 | NPP-375D | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 21ae6061-8531-315c-8fc4-ef150e799e24 | -11.10386 | -47.70352 | 2024-10-24 04:57:00 | NPP-375D | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| d157ce72-04d3-3a0a-9e28-9b3eaa06af2e | -11.09937 | -47.70164 | 2024-10-24 04:57:00 | NPP-375D | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ad608119-7f65-3737-abe0-b511108848a9 | -11.07774 | -47.9059 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 575d49d8-a799-3400-b056-263c936b62a4 | -11.0765 | -47.90429 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| e711ee04-744d-367d-9f55-8433efbcd8ce | -11.07579 | -47.9095 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 5d47496e-dbfe-3148-beec-521c0b2c34e0 | -11.07306 | -47.90516 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 1c66c010-bb79-38ca-9de6-aba85e451220 | -10.97817 | -47.85241 | 2024-10-24 04:57:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 23bf0819-5469-3a4c-8b35-32cf7562ea98 | -10.97603 | -47.85429 | 2024-10-24 04:57:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 8d68869a-94f9-3a18-ac0a-b0925a643297 | -10.95473 | -47.83475 | 2024-10-24 04:57:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 981fccd4-062c-3833-8406-006bd63c491e | -10.93847 | -47.81307 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 9d2c6b39-2f98-33df-a8aa-23a44d57282f | -10.93374 | -47.8125 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| eccd7a1a-6448-3f50-a871-c1808833ace6 | -10.93306 | -47.81758 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| bfbf5fa9-ce54-39db-9a2e-1a99941314fb | -10.92906 | -47.81159 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| b9251e0b-156f-3f04-9074-3e97cab904f2 | -10.92832 | -47.81717 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 88daa3ae-d0bb-32f1-a640-a6b2cb0cf1a6 | -10.92436 | -47.81085 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| cfc6a13e-b77c-3823-b5f1-83362ffc3767 | -10.92361 | -47.81652 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| ccc5f9bc-d36f-3ee2-9b5b-99e2d8989264 | -10.91175 | -47.97662 | 2024-10-24 04:57:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 8b01ecff-6379-3676-84ce-43ae20f49fa1 | -12.20711 | -48.06251 | 2024-10-24 04:57:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 66a6429f-c242-3f56-bb39-884bafe7503d | -12.07711 | -47.98618 | 2024-10-24 04:57:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 4bcf2c35-598f-3d8d-818c-31d6cd3a6360 | -12.07238 | -47.98551 | 2024-10-24 04:57:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 37ae8bd6-c535-3d8c-bf41-4f8d92e6c759 | -11.7939 | -47.88427 | 2024-10-24 04:57:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 16c17529-b6e8-31ab-8837-a998850e4dce | -11.79323 | -47.88936 | 2024-10-24 04:57:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 1fe77581-e24b-3ebd-8128-a0a3538a0d8a | -11.78849 | -47.88866 | 2024-10-24 04:57:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 4e6af416-1e6a-31fd-8540-bf9dbc2efa11 | -11.72621 | -48.35662 | 2024-10-24 04:57:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| fc4e9b2a-8540-39c5-b6f9-9553323b13f5 | -11.65735 | -48.80029 | 2024-10-24 04:57:00 | NPP-375D | GURUPI | TOCANTINS | Brasil | 1709500 | 17 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 83af8ba7-72d6-3f67-8fd0-cd2354aef0f7 | -11.65674 | -48.80478 | 2024-10-24 04:57:00 | NPP-375D | GURUPI | TOCANTINS | Brasil | 1709500 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 59d74ddd-b04f-3bb8-9fa8-490f025e3db1 | -11.64222 | -48.60545 | 2024-10-24 04:57:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| cfc2ebd0-6efc-3deb-bfe6-fbf7f06b93af | -11.62027 | -48.38404 | 2024-10-24 04:57:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 7c8f45b8-113a-3d70-95a4-4aaf507ff7d4 | -11.61839 | -48.56849 | 2024-10-24 04:57:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 710cda8d-7f9c-3a88-83dc-5c269213c421 | -11.60794 | -48.54374 | 2024-10-24 04:57:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| df722a9c-e57a-3877-9c14-0c986d14be9c | -11.60732 | -48.54832 | 2024-10-24 04:57:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 9bce5539-ace3-3403-83f7-92230a1f0316 | -11.60561 | -48.45839 | 2024-10-24 04:57:00 | NPP-375D | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README77.md)

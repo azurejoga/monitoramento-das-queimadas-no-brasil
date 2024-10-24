@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c15dae13-ce4a-39a1-a058-507c4da587ae | -6.40104 | -41.60487 | 2024-10-15 12:44:00 | TERRA_M-T | LAGOA DO SÍTIO | PIAUÍ | Brasil | 2205599 | 22 | 33 | nan | nan | nan | Caatinga | 23.8 |
-| 4674131a-b74e-3a0b-a378-d76c687b1362 | -6.44708 | -43.11834 | 2024-10-15 12:44:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| 9d1f89c5-3a6d-3081-a87f-d584c66238da | -6.49024 | -39.94781 | 2024-10-15 12:44:00 | TERRA_M-T | SABOEIRO | CEARÁ | Brasil | 2311900 | 23 | 33 | nan | nan | nan | Caatinga | 14.5 |
-| 108f2971-48ff-3758-bdb6-45a7992e3dac | -6.9414 | -42.77764 | 2024-10-15 12:44:00 | TERRA_M-T | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 26.9 |
-| 619ae027-775e-3a79-bd23-0cdfe531c66c | -6.94328 | -42.76361 | 2024-10-15 12:44:00 | TERRA_M-T | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 20.1 |
-| 053b7760-f32e-3aa1-ba87-c93cbea230ad | -7.07986 | -43.03049 | 2024-10-15 12:44:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 12.6 |
-| bec177ae-5835-342c-9e0a-64d5327cd35d | -7.08078 | -42.67295 | 2024-10-15 12:44:00 | TERRA_M-T | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 16.8 |
-| 73516570-8a27-3144-a912-a58d1ce7625f | -7.09062 | -43.03194 | 2024-10-15 12:44:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 17.3 |
-| b0b0c0c0-bbb5-319f-97f3-798ee62d945b | -7.17601 | -42.64803 | 2024-10-15 12:44:00 | TERRA_M-T | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 13.9 |
-| f02e5b24-37d6-3a47-961a-d41d14eb5cbe | -7.32861 | -44.28034 | 2024-10-15 12:44:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 27.1 |
-| 1b1e7f15-e3ff-3563-9b8e-b4616dd86597 | -7.43563 | -44.24467 | 2024-10-15 12:44:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| 5da212a3-9d01-3dff-9734-2fda09bf4046 | -7.57209 | -44.96008 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 36.9 |
-| 7576e4b3-a10a-3542-82ea-9356b2a286b9 | -7.69078 | -43.1831 | 2024-10-15 12:44:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 13.3 |
-| d99ede71-c2b2-3c39-8f68-9449db09214c | -7.69256 | -43.16965 | 2024-10-15 12:44:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 13.0 |
-| d6ff7dff-e71c-3420-b1f5-6f18c3778d7a | -7.71053 | -43.27992 | 2024-10-15 12:44:00 | TERRA_M-T | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 57.8 |
-| ab10110f-7d76-392e-bc8a-dd591be6db72 | -7.72045 | -44.8656 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 20.5 |
-| b8a55af1-99b4-35d2-be7d-053203850dee | -7.74639 | -44.5808 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 53b7210b-5222-320e-beca-a0381c78fb18 | -7.7479 | -44.56999 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 36.9 |
-| 2f91912f-2b12-37d3-bf38-21292245c84d | -7.75086 | -44.54881 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 30.2 |
-| 1e1be661-547b-3d72-9eae-4be2428ce959 | -7.75238 | -44.53796 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| b198d1a8-c776-33a7-b0e4-38350982d1af | -7.75552 | -43.30525 | 2024-10-15 12:44:00 | TERRA_M-T | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 18.0 |
-| a305cc98-c242-3dfa-a530-f392c4672d6f | -7.75588 | -44.89176 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 679c7ef6-4af4-319e-b119-f51b7cc0590a | -7.76217 | -44.53917 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 377e1e09-221b-31af-9b5a-42c1aa7eab98 | -7.76526 | -44.53443 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| 0713ec03-7550-350b-92e6-c635eaf96cfa | -7.76545 | -44.89307 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 34.3 |
-| 7f2e9ba8-7a7e-3587-b656-0f8dabd72ac0 | -7.76617 | -43.30675 | 2024-10-15 12:44:00 | TERRA_M-T | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 23.5 |
-| 338c1398-c03d-3c33-92d3-e2ae3a7e939b | -7.77504 | -44.53574 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 24.4 |
-| 44429873-e544-39e9-968c-2a93fa59e85f | -7.90274 | -44.49234 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| f8c35f12-d5ea-32fd-937c-e570f53e139b | -7.94885 | -44.52039 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 19.5 |
-| a5346d3c-92d2-3a3a-9ac7-bd5d500fc0c6 | -7.95008 | -44.52662 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 25.0 |
-| a066a48a-d41f-3cc5-834e-e01440d9a808 | -7.95987 | -44.52808 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 728.9 |
-| 17b1b60d-d325-3e77-9f29-a0a3c9b5434d | -7.96139 | -44.51682 | 2024-10-15 12:44:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 231.7 |
-| 63df7af7-93b3-3eed-9129-f16eaec63954 | -7.98167 | -45.45818 | 2024-10-15 12:44:00 | TERRA_M-T | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 19.0 |
-| fe872617-5533-3d00-a689-67ab27a9dafb | -8.06511 | -45.38451 | 2024-10-15 12:44:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 18.1 |
-| 2645a8ef-f37a-379d-8b88-6d6ad2267ba4 | -8.2479 | -44.87186 | 2024-10-15 12:44:00 | TERRA_M-T | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 19.4 |
-| 10fc5fca-d972-3657-8ded-b11661d040bf | -8.28279 | -40.41273 | 2024-10-15 12:44:00 | TERRA_M-T | SANTA CRUZ | PERNAMBUCO | Brasil | 2612455 | 26 | 33 | nan | nan | nan | Caatinga | 18.4 |
-| 156c4329-449f-3504-9c0c-e91d73eae08e | -8.32631 | -42.79132 | 2024-10-15 12:44:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
-| 6efd5862-b957-3874-acd6-8a234cb61cb7 | -8.32824 | -42.77676 | 2024-10-15 12:44:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 31.8 |
-| f9b09d51-12bb-314d-a0da-0c9175ca2b49 | -10.02057 | -47.25271 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| ab58a4ea-2c6e-3ad2-a88a-caee3fd03a38 | -8.34333 | -42.74909 | 2024-10-15 12:44:00 | TERRA_M-T | BREJO DO PIAUÍ | PIAUÍ | Brasil | 2201988 | 22 | 33 | nan | nan | nan | Caatinga | 19.2 |
-| 2ef75910-6cb5-3ee4-9f22-b952f1f61479 | -8.48626 | -41.56975 | 2024-10-15 12:44:00 | TERRA_M-T | LAGOA DO BARRO DO PIAUÍ | PIAUÍ | Brasil | 2205565 | 22 | 33 | nan | nan | nan | Caatinga | 80.4 |
-| 21ff62ce-80fd-3254-bb7a-a0d0dc21b49f | -8.48859 | -41.5517 | 2024-10-15 12:44:00 | TERRA_M-T | LAGOA DO BARRO DO PIAUÍ | PIAUÍ | Brasil | 2205565 | 22 | 33 | nan | nan | nan | Caatinga | 59.0 |
-| 921a262b-c465-3a5f-bce1-24cf4043018b | -8.59312 | -40.40631 | 2024-10-15 12:44:00 | TERRA_M-T | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 24.6 |
-| ae8c319f-08af-3b0e-bed3-1e69c2077c18 | -8.59682 | -40.4229 | 2024-10-15 12:44:00 | TERRA_M-T | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 31.7 |
-| 888eb0e2-e04b-3af8-87f2-12141af11a4c | -8.6339 | -40.81709 | 2024-10-15 12:44:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 42.7 |
-| 516f943d-7586-3518-8fa8-b7c39366f24d | -8.63421 | -40.83319 | 2024-10-15 12:44:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 26.8 |
-| 2977b040-bac5-3b98-8ce7-ac6eb94a5343 | -8.63702 | -40.81187 | 2024-10-15 12:44:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 24.7 |
-| d13d039e-8de4-38db-8d02-fea9c68147a3 | -8.72265 | -40.72604 | 2024-10-15 12:44:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 32.2 |
-| b6735004-3bad-336e-b536-ee62206936a1 | -8.72703 | -40.71995 | 2024-10-15 12:44:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 36.2 |
-| 9f7c4f94-a382-3717-9ef3-b089e3d0f7a4 | -8.78091 | -40.99567 | 2024-10-15 12:44:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 71.3 |
-| d7352d08-f0bf-3e65-85c1-4d7337761f32 | -8.78303 | -40.99026 | 2024-10-15 12:44:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 131.1 |
-| 0f52beb2-804f-3408-9ed2-1127d5268bf2 | -8.78345 | -40.97496 | 2024-10-15 12:44:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 70.4 |
-| 835c42d1-42a6-3278-89df-c068d9ab04c5 | -9.41806 | -45.50971 | 2024-10-15 12:44:00 | TERRA_M-T | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 1812b67b-a15b-3b6a-a42c-42cb777765b8 | -9.44364 | -44.19895 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 133.7 |
-| af939cba-7621-3c00-a4ad-cd41b0bc344a | -9.44531 | -44.18671 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 522.3 |
-| d5b9c7bb-43bb-366b-851b-a8295cc85876 | -9.44696 | -44.17456 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| 1ec9146f-29de-34f1-8f52-04cb67ddb87e | -9.45028 | -44.15011 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| 1aa28565-263b-37b8-9b78-22028d48eee7 | -9.45555 | -44.18811 | 2024-10-15 12:44:00 | TERRA_M-T | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| 149fd150-3676-3d56-817d-8b76b4f389ad | -9.49017 | -42.007 | 2024-10-15 12:44:00 | TERRA_M-T | REMANSO | BAHIA | Brasil | 2926004 | 29 | 33 | nan | nan | nan | Caatinga | 23.4 |
-| 08449fb8-0bfa-3116-b610-91582afd9602 | -9.56518 | -43.49045 | 2024-10-15 12:44:00 | TERRA_M-T | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 11.8 |
-| 6225e4ce-ce2d-3352-9c18-a387b6070410 | -9.57423 | -43.50544 | 2024-10-15 12:44:00 | TERRA_M-T | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 65.2 |
-| c628576e-31e5-37aa-8a18-2dcd6c30ef84 | -9.57598 | -43.49195 | 2024-10-15 12:44:00 | TERRA_M-T | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 23.0 |
-| 2a226392-3cb2-35fb-b476-34bdd1001c40 | -9.76683 | -41.98783 | 2024-10-15 12:44:00 | TERRA_M-T | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 15.9 |
-| e07d324e-00fd-383c-9bad-a190aa0d350a | -10.02949 | -47.25396 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 59.3 |
-| b8c6390e-1ddb-3a0e-b0a7-62376fb8fc29 | -10.03711 | -47.26425 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 23.1 |
-| 580b2a5b-ef49-37e8-80c8-d8e86d606c5b | -10.03208 | -47.23586 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 4d42d84b-11fa-3712-a0dc-67f995c41e12 | -10.03078 | -47.24491 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 70.5 |
-| 27db0c9c-7d2d-3163-9270-6d024ae293fe | -10.0384 | -47.25521 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 46.0 |
-| be9d0cd9-844e-3651-ac2a-8dcefa2a51b9 | -10.04813 | -47.63916 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 19.4 |
-| 0a02efa9-155f-3106-80f8-04ec0af59d1f | -10.04992 | -47.37372 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 22.3 |
-| ca7c68aa-c44f-368c-b9cd-31c5525cf211 | -10.05571 | -47.64938 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 27.2 |
-| 6db2ae4e-9c59-3644-a733-7e919fa68421 | -10.05701 | -47.64042 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| bc392ef8-753a-3a5a-95b8-3c4288c8e6ec | -10.05942 | -47.68648 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 14340174-12fa-3046-ad50-5b4f4b3233af | -10.06459 | -47.65065 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| dba53cc8-3b0a-3ae0-ad0b-c40a1def077e | -10.08564 | -47.31447 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
-| fcd4b748-92f4-3626-a729-3e1dc7c6373d | -10.11289 | -52.04172 | 2024-10-15 12:44:00 | TERRA_M-T | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| e5389a02-bbd2-3d81-bad4-b4a428b5ae36 | -10.25441 | -47.29559 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 33.4 |
-| ecce2cb0-cda5-3455-88db-43a56d4d0589 | -10.2557 | -47.28653 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 54.2 |
-| 3936823e-30b5-3095-9ddf-78fa025c4593 | -10.25698 | -47.27748 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 19.7 |
-| c755f1b0-dec0-3709-bc19-67962b96a605 | -10.26332 | -47.29685 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 304.9 |
-| 5a46378a-c3b5-33a1-a3c1-b7248d3f4397 | -10.26461 | -47.2878 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 63.6 |
-| c1639b21-4a6c-3dae-bc08-7b98a12709f1 | -10.40123 | -48.19632 | 2024-10-15 12:44:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| 48a38ba8-eafe-303f-b00e-c285a9d6d268 | -10.01928 | -47.26173 | 2024-10-15 12:44:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 38.1 |
-| d9c118ed-1786-32a8-ae89-9bc3b127e0fe | -10.40254 | -48.18735 | 2024-10-15 12:44:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 73a998f9-ab32-3963-a16e-0066ce30c940 | -10.45059 | -47.85588 | 2024-10-15 12:44:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 42.8 |
-| ba464a80-6cf2-3b77-9d9b-eb6708f33c9d | -10.45189 | -47.84692 | 2024-10-15 12:44:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 410075ed-a34a-3bca-b8a2-e189fe22face | -10.65781 | -47.69675 | 2024-10-15 12:44:00 | TERRA_M-T | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 4e211102-b367-3b22-854a-1af122b878d1 | -10.82001 | -47.78743 | 2024-10-15 12:44:00 | TERRA_M-T | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 83bd71e4-f8e8-3b05-a42e-55273edb0e8a | -10.82607 | -49.25521 | 2024-10-15 12:44:00 | TERRA_M-T | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 1cb1fa5b-cc74-3916-870d-0c63912341b9 | -10.82746 | -49.24586 | 2024-10-15 12:44:00 | TERRA_M-T | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 49.1 |
-| 3da2a79f-5cc8-3cd0-8cb2-c8d74668a3a9 | -11.12319 | -54.01384 | 2024-10-15 12:44:00 | TERRA_M-T | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 12.9 |
-| 565cd240-1a2e-3d6c-aa04-2e1c81d4e36f | -11.93671 | -46.59246 | 2024-10-15 12:44:00 | TERRA_M-T | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 3b9cfed0-566c-3af7-a71f-87859c6381a6 | -11.9459 | -46.59371 | 2024-10-15 12:44:00 | TERRA_M-T | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| 7936947a-f2c1-33cd-8883-6986809a01e8 | -11.94724 | -46.58405 | 2024-10-15 12:44:00 | TERRA_M-T | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 7d0cc50a-2bd1-3b0b-9293-6b5538e0055b | -12.05068 | -46.70336 | 2024-10-15 12:44:00 | TERRA_M-T | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 569923e4-ace4-3ca9-ad96-00496ae884e5 | -12.05984 | -46.70465 | 2024-10-15 12:44:00 | TERRA_M-T | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 32.3 |
-| daebe63a-58c0-3c9b-87f0-b223fa678561 | -12.19022 | -46.75479 | 2024-10-15 12:44:00 | TERRA_M-T | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| 8bf9549f-dc9e-3d67-bba5-c773617fee3a | -12.28507 | -46.73468 | 2024-10-15 12:44:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 23.4 |
-| e6efed21-9ae3-3db8-8cf2-71c0f006b950 | -12.28641 | -46.72501 | 2024-10-15 12:44:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 28.5 |
-| fc704490-ceed-3e2a-9337-3bc179b92339 | -12.29424 | -46.73596 | 2024-10-15 12:44:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 32.4 |
+| a05971f9-3b38-3f9d-9a3a-241b31d1e69b | -7.92476 | -44.88758 | 2024-10-24 04:57:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 0aa8d608-0b4f-3dcb-a204-039447ddb57c | -7.91924 | -44.88688 | 2024-10-24 04:57:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| a4519884-a9e8-3c8d-947a-26267f07a75a | -10.50799 | -44.90617 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 99ea163c-0dbc-3a33-8837-a8fd8c43857a | -10.50579 | -44.90767 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 5a31c8a8-3250-34ef-82e1-f6ff06c49515 | -10.50227 | -44.90557 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| f6d771e6-7c61-3e9a-8016-94e4c570ee4c | -10.49397 | -45.15965 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 4e6e5f4b-a2c3-3b84-ab34-39dca8d582be | -10.4935 | -45.16343 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 25988583-b5dc-3ba2-853b-5e08ec83e811 | -10.3766 | -45.08798 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 31e46b14-e469-3c61-8188-4d8bd4d548dc | -10.37611 | -45.0918 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| e1fbd997-032a-3046-8a33-e707368f1bcc | -10.37366 | -45.08776 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 6efbfa11-c358-38c5-9087-387c0a3b1b40 | -10.37319 | -45.09162 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| f78b0e8c-1728-381a-afbc-0a793b98db19 | -10.371 | -45.0871 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| ace39c16-5dcb-3f15-8b89-46612b01360e | -10.3705 | -45.09095 | 2024-10-24 04:57:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 0ee89f61-2429-39d9-bc75-1c856171a5a6 | -11.62913 | -44.92461 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| f9a81e82-e08a-3842-9e81-9106813faf84 | -11.62388 | -44.91948 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| c426b129-26c1-3cdb-958b-8eaa5f157807 | -11.62336 | -44.92372 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 20932d72-df51-3402-ae92-30d678105afb | -11.6176 | -44.92282 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| a3d6c554-35b8-3cd4-88a0-6ab74f1ef4c0 | -14.48361 | -45.52787 | 2024-10-24 04:57:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| cfba0753-d091-3ce4-9a58-50ec6e099a94 | -14.47739 | -45.53122 | 2024-10-24 04:57:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 73e3e1dc-0be3-3373-99f7-cdf005a02e18 | -14.47694 | -45.53529 | 2024-10-24 04:57:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 17a22ab9-b9b0-3c1b-866e-d2467e742d8d | -14.47648 | -45.53937 | 2024-10-24 04:57:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 4ebf4a68-39ed-310b-b857-a7f1c18dbcb5 | -13.10441 | -49.12009 | 2024-10-24 04:57:00 | NPP-375D | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 606406f1-7ab8-3736-a0e0-d1e9077c98a4 | -8.9236 | -47.04842 | 2024-10-24 04:57:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 40aaefe6-433c-32db-a2cd-88c23a3f93dc | -8.92287 | -47.05369 | 2024-10-24 04:57:00 | NPP-375D | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 3c0e4fab-4a17-38ab-ad4f-4f7bbc28494a | -7.89454 | -46.68809 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| cf30b5cf-0f4c-3abe-b0e2-8ffe24d1c315 | -7.89339 | -46.73154 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 1fbc744b-2ad4-3bb8-8a0d-7396e121b8ae | -7.89042 | -46.68199 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b8d0652a-ff15-3773-9c30-027be942f6de | -7.88967 | -46.68739 | 2024-10-24 04:57:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| f5376c4a-e770-3bf3-8d5c-dda7f0fdb30a | -10.68774 | -47.54837 | 2024-10-24 04:57:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 34f08dee-8b07-3bfb-8271-439b3bf87f12 | -9.54239 | -46.76937 | 2024-10-24 04:57:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 163c256d-5773-3e44-bc3a-00f928bd1eb5 | -11.28039 | -47.58189 | 2024-10-24 04:57:00 | NPP-375D | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 512c23fe-3550-31f0-a2ad-61b836144152 | -18.26563 | -48.24656 | 2024-10-24 04:59:00 | NPP-375D | CUMARI | GOIÁS | Brasil | 5206602 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 137ad54d-a281-308c-bd5a-d32d803e4319 | -18.26265 | -48.24627 | 2024-10-24 04:59:00 | NPP-375D | CUMARI | GOIÁS | Brasil | 5206602 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 8ca7b0be-ef08-35d9-8dcd-33570244eed0 | -18.26058 | -48.24586 | 2024-10-24 04:59:00 | NPP-375D | CUMARI | GOIÁS | Brasil | 5206602 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| e622e897-71ef-37c2-ad26-8f92accba114 | -15.78681 | -50.51768 | 2024-10-24 04:59:00 | NPP-375D | GOIÁS | GOIÁS | Brasil | 5208905 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| a0856cf6-b327-3a4c-b412-f2ec031e5959 | -16.76036 | -50.70698 | 2024-10-24 04:59:00 | NPP-375D | CACHOEIRA DE GOIÁS | GOIÁS | Brasil | 5204201 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 941796ce-f151-3ac1-b3e6-063d14e06bfa | -16.75615 | -50.70641 | 2024-10-24 04:59:00 | NPP-375D | CACHOEIRA DE GOIÁS | GOIÁS | Brasil | 5204201 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 3f047132-5da4-3085-a929-a654f5fc5127 | -16.75042 | -50.71759 | 2024-10-24 04:59:00 | NPP-375D | CACHOEIRA DE GOIÁS | GOIÁS | Brasil | 5204201 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 2935bab3-aaad-3365-8c03-213966e0eb03 | -16.74672 | -50.71309 | 2024-10-24 04:59:00 | NPP-375D | CACHOEIRA DE GOIÁS | GOIÁS | Brasil | 5204201 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 53b6419e-d31e-38ac-9f6e-14200066e849 | -16.74622 | -50.717 | 2024-10-24 04:59:00 | NPP-375D | CACHOEIRA DE GOIÁS | GOIÁS | Brasil | 5204201 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 4b09c1e2-10de-3672-9e8d-ca4283b0d99c | -18.31353 | -56.23612 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.5 |
+| dd25866f-a4f8-3767-9507-cd0eef1ee75a | -15.02914 | -52.83444 | 2024-10-24 04:59:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| e28e346a-d476-3011-afd1-947363140739 | -14.82386 | -52.86728 | 2024-10-24 04:59:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b228378c-f32c-3b81-9a05-112a72850731 | -14.72355 | -52.78836 | 2024-10-24 04:59:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 26909208-da34-3406-a2ce-a0c4587397ad | -14.45386 | -52.87911 | 2024-10-24 04:59:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 3b2676e7-985d-3467-a810-369eaeea48bc | -14.45325 | -52.8833 | 2024-10-24 04:59:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f65bdb20-6082-39d1-8209-1db096c02604 | -14.45263 | -52.8875 | 2024-10-24 04:59:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 1c623fb5-784a-3c91-84ec-1f62e76938a3 | -14.45027 | -52.87852 | 2024-10-24 04:59:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 4f15806c-75cb-3d94-be22-c5007bc68b45 | -15.8709 | -53.26237 | 2024-10-24 04:59:00 | NPP-375D | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 091394f4-81c2-38d2-acf8-63deb2d36b7f | -15.87031 | -53.26653 | 2024-10-24 04:59:00 | NPP-375D | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| ed368195-984c-38b2-b9ad-ecba6882603d | -15.3172 | -53.31266 | 2024-10-24 04:59:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 4ca7c163-edd0-3402-af7f-b9027dd68987 | -15.3166 | -53.31681 | 2024-10-24 04:59:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 15630cc6-eca2-3d58-99de-c43cf97718ff | -15.30949 | -53.31567 | 2024-10-24 04:59:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 6f97d2e5-c964-3d20-be4c-9b78dc876edf | -17.3223 | -54.99988 | 2024-10-24 04:59:00 | NPP-375D | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 5f1f0f22-740c-37c3-bf67-42271d1fee5e | -18.30329 | -54.60946 | 2024-10-24 04:59:00 | NPP-375D | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 4875e69e-f2ee-3426-a1c1-869d246a8de9 | -18.3027 | -54.61346 | 2024-10-24 04:59:00 | NPP-375D | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 339d427b-79b2-3715-a607-28bb3db5e1b7 | -18.31132 | -56.22823 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 4346d1f6-8d6d-3ea0-9c7c-513e226dd2b1 | -16.40545 | -55.91919 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| da2d93de-86a6-3200-af3b-8cd35d392902 | -16.40212 | -55.91863 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| d5396a01-f0e7-34b8-941d-6978870384e6 | -17.03062 | -56.0071 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 14694c0a-7dfc-3068-9c3e-c69c39699bcf | -17.02785 | -56.00291 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 98c67328-209d-3060-9aae-0758b1caaad2 | -17.02652 | -55.9995 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 71ab78b2-a58c-39ff-859a-ff198e1fb5b7 | -17.02595 | -56.00314 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| f80f5d84-fdec-390b-953c-953523d4917a | -17.02539 | -56.00676 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| d505e0ea-965d-3824-ba5c-18bfa7af85bb | -17.02318 | -55.99894 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 7fad6886-2a76-3c12-865b-b5b1432679f8 | -17.02262 | -56.00258 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 80a3f20a-2a6c-332f-bd56-c2fd70cea64e | -17.02206 | -56.00621 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 4bc50d00-4f24-3e43-923d-ab86429620dc | -16.56428 | -56.24538 | 2024-10-24 04:59:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 028567b6-f78a-31df-bc09-052977c9054c | -18.31033 | -56.14526 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 5589e986-6a3e-327c-b017-49ed9a528984 | -18.30742 | -56.23133 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| b2300d0f-ae17-3a0e-b148-b6127ebe9b48 | -18.30643 | -56.14837 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| a5fc0ecb-b300-3753-8bed-964353cf83bc | -18.30351 | -56.23443 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| f0a411ea-53f7-3d0a-a7b3-ec7653d79e27 | -18.30309 | -56.1478 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 12e6612d-8c50-3f1d-ae0a-1f77a798969c | -18.30193 | -56.14452 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| d4133c35-b21e-3a26-8cd3-8ae769e03ae7 | -18.30137 | -56.14819 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 24368cfe-ba31-357a-8f80-c99576ee4114 | -18.29206 | -56.075 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 02a775f4-af2a-357b-a610-07cdb60c968c | -18.17412 | -56.30706 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| f3680910-66f5-30fb-9646-27c849f6b84a | -18.17023 | -56.31015 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 424c1310-6cd8-3345-8321-c59f9e7b75b7 | -18.32528 | -56.20426 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| db3cf8e0-c678-3412-8212-ef13781bc6e0 | -18.32025 | -56.2147 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| b02b1b0e-468f-3e47-8a4c-1906e61519ac | -18.31691 | -56.21414 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| e7188b00-fa1e-3967-84f9-13690bf18271 | -18.31526 | -56.20257 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 7dde4709-ccf2-316d-b223-9a9e5d040c30 | -18.31255 | -56.15316 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 96dd88a0-1b17-334e-ac41-bf732d2e9f67 | -18.30685 | -56.235 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 8dd0d079-9676-392c-9663-a352022c48e1 | -18.29803 | -56.14762 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| d3c832a5-0379-3615-99bc-e4374eb2ec1f | -18.16793 | -56.31025 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 2469336a-7927-39a5-af84-1bf1c1117b93 | -18.16685 | -56.33207 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| e31c7227-e873-3e36-bd51-1e13703c5f60 | -18.32194 | -56.2037 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| d3a79092-8fcf-3047-820e-214a236806e7 | -18.31582 | -56.1989 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 4a033f6a-741e-3ff6-b17d-8d3b1e2075d0 | -18.3147 | -56.20624 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 2a4a3ad1-5ddd-3777-a4af-55a79d334891 | -18.31075 | -56.2319 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.5 |
+| bde1d2af-2bbe-3179-8dbb-43483b149984 | -18.31019 | -56.23556 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.5 |
+| c2716118-c7ab-3fcc-9e32-8ba0aed0cfa5 | -18.30586 | -56.15204 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 1f622096-d372-386d-9b7e-ee9cb6a1e4fb | -18.30464 | -56.2271 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 68b60c90-02c0-3b6e-bffe-a86075beeaca | -18.17347 | -56.35558 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 3237b60f-e9ef-379f-9ddf-1ad7a77d8056 | -18.32081 | -56.21103 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.8 |
+| 3ba91952-f0a7-3512-b410-0aba5f22cfc0 | -18.31409 | -56.23246 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.5 |
+| 7f5ff538-0742-3606-9b02-e4c3b53b05c5 | -18.30755 | -56.14102 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 4b64c1b3-3f8b-357d-bbb8-c524ddb6eb63 | -18.30477 | -56.12616 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 1f747d02-e89e-30c1-82ef-9e8dcb1d73b0 | -18.30408 | -56.23077 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
 
 
 [Clique aqui para ver as próximas entradas](README81.md)

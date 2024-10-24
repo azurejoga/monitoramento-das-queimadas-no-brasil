@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 67845425-5834-3189-be73-a61eb2ef2b37 | -10.0545 | -47.3042 | 2024-10-15 13:26:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 120.5 |
-| 30557e10-da1a-3472-bc81-f8f143b79986 | -10.2442 | -47.2824 | 2024-10-15 13:26:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 117.3 |
-| 459d3aea-c764-39e9-8ee0-bac7a7bb6448 | -10.2632 | -47.2802 | 2024-10-15 13:26:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 206.6 |
-| 17326a56-aa3f-3241-867a-79526439b5df | -11.7946 | -44.5072 | 2024-10-15 13:26:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 112.9 |
-| 95f5cb8c-266d-375d-b8c8-7b40827b99c2 | -11.7753 | -44.5101 | 2024-10-15 13:26:12 | GOES-16 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 108.9 |
-| 235e4014-320a-3291-ad6e-3c3bdb090881 | -12.3552 | -45.3255 | 2024-10-15 13:26:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 113.1 |
-| 117aa057-0b87-3324-bc5d-195ff5229bb0 | -12.3359 | -45.3284 | 2024-10-15 13:26:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 105.2 |
-| f76a1452-5bbd-39af-85b4-70a960ef6a5b | -9.01 | -54.5042 | 2024-10-15 13:35:57 | GOES-16 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 103.7 |
-| 64d4bf8b-26aa-3368-9c18-ef842b79630f | -9.4175 | -45.5134 | 2024-10-15 13:35:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 81.9 |
-| 198a843f-84b0-3159-8261-1b9985dd68b2 | -9.5185 | -47.8049 | 2024-10-15 13:36:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 159.7 |
-| 5bdc670d-d212-3bb3-a385-ad58691e2bf4 | -9.5798 | -43.4835 | 2024-10-15 13:36:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 91.7 |
-| 17b35b89-2efe-31ee-b0b0-56b69ba3ada5 | -9.5188 | -47.7828 | 2024-10-15 13:36:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 127.6 |
-| 2c856a0f-431e-300b-a3cb-0f7815169866 | -9.4996 | -47.8068 | 2024-10-15 13:36:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 102.3 |
-| 392927db-2cb6-30ef-ba8f-57bdf175a26c | -9.5795 | -43.507 | 2024-10-15 13:36:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 139.0 |
-| 652489c0-3387-363d-b80e-9c60b9389cea | -9.888 | -47.0342 | 2024-10-15 13:36:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 96.9 |
-| d3a0bc34-2771-3186-934e-12b2e6a98328 | -9.9777 | -47.3795 | 2024-10-15 13:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 131.0 |
-| 109306fc-fe84-3af2-a044-8d0846841372 | -9.9604 | -47.2705 | 2024-10-15 13:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 132.8 |
-| 1d923295-72e1-3710-a835-0a109c2d4c88 | -9.9781 | -47.3573 | 2024-10-15 13:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 132.8 |
-| 27f6c9e9-5656-306e-bb3a-937116e6d7a1 | -9.8883 | -47.0119 | 2024-10-15 13:36:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 115.5 |
-| 9a434f61-58e2-3e75-b904-be09899f297a | -9.997 | -47.3551 | 2024-10-15 13:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 136.8 |
-| 11de8b50-1790-3a33-b5b5-69eaf7417c0a | -9.9793 | -47.2684 | 2024-10-15 13:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 140.3 |
-| e494c26e-79e9-3e99-ac99-b4f2f116da18 | -10.0443 | -44.1717 | 2024-10-15 13:36:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 95.4 |
-| d1e41f37-dbc6-3f30-a60f-5c989057fef6 | -10.0633 | -44.1692 | 2024-10-15 13:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 97.3 |
-| 6d709b25-2143-3129-ac4a-7a7f5640bf95 | -10.2632 | -47.2802 | 2024-10-15 13:36:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 200.4 |
-| 09c06dbe-2799-3cad-aa4f-2e747c8eb6b2 | -12.3167 | -45.3314 | 2024-10-15 13:36:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 110.3 |
-| f3adb426-b3f4-350d-ab4c-731c1d19e3e6 | -12.3552 | -45.3255 | 2024-10-15 13:36:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 116.7 |
-| fa228ef2-5c10-3d55-aaca-d0d91b82db39 | -12.3171 | -45.3083 | 2024-10-15 13:36:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 108.8 |
-| 06f100a9-5f02-39e2-979e-cd01539ce97f | -12.3359 | -45.3284 | 2024-10-15 13:36:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 108.5 |
-| a867c5c9-c44b-3016-a504-fdd60c0d285c | -9.01 | -54.5042 | 2024-10-15 13:45:57 | GOES-16 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 109.0 |
-| 29e2aaaf-5f28-346e-9ca7-961625f4d2fa | -9.4556 | -44.1763 | 2024-10-15 13:45:59 | GOES-16 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 199.3 |
-| a5878314-d9dd-335b-a3c2-51e21e3ed9f7 | -9.4702 | -45.8023 | 2024-10-15 13:45:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 136.3 |
-| 83a7999c-766b-32fa-b6b4-522a5b16b198 | -9.4699 | -45.8249 | 2024-10-15 13:45:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 106.9 |
-| 33737542-016c-376f-acc4-92578589ab05 | -9.4696 | -45.8476 | 2024-10-15 13:45:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| 03ee5d13-f387-391d-9c09-589170331fb8 | -9.4368 | -45.4884 | 2024-10-15 13:45:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 86.2 |
-| 46dc6f8d-a39a-36a8-ab93-ac81fe524e85 | -9.4175 | -45.5134 | 2024-10-15 13:45:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| a8a96871-d4a5-3972-ba3e-70bfb281362d | -9.4513 | -45.8044 | 2024-10-15 13:45:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 5219f3fe-d312-3c5e-a1cd-b442d1ab54b9 | -9.5374 | -47.8029 | 2024-10-15 13:46:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 107.9 |
-| 46198cee-d407-3b4c-8e04-d6849daab393 | -9.5912 | -46.6213 | 2024-10-15 13:46:00 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 98.5 |
-| 9ecde7ae-706e-3aa9-82aa-b09a310121da | -9.5798 | -43.4835 | 2024-10-15 13:46:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 112.1 |
-| a06dfe56-6b84-3a75-bf80-e899234483c0 | -9.5185 | -47.8049 | 2024-10-15 13:46:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 137.2 |
-| e353926d-ed47-3f47-bf59-0fb6ec8e1f83 | -9.5188 | -47.7828 | 2024-10-15 13:46:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 121.5 |
-| e068f01f-1536-3cc4-9700-f7262c18c1ea | -9.5377 | -47.7808 | 2024-10-15 13:46:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 106.1 |
-| d67c44a2-9b84-30b7-b27b-9377e2541e4b | -9.5795 | -43.507 | 2024-10-15 13:46:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 191.6 |
-| dd83512e-1e6f-335d-9baf-adcfa1f27f6e | -9.5909 | -46.6437 | 2024-10-15 13:46:00 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 100.7 |
-| 83e6bdc0-74e9-3741-9b1a-87110d3cb936 | -9.5791 | -43.5306 | 2024-10-15 13:46:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 94.6 |
-| 8c63465e-9a01-32e9-953c-5a8a5f97aea5 | -9.8495 | -45.7579 | 2024-10-15 13:46:01 | GOES-16 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 88.9 |
-| db9e5e42-005c-3390-afa8-7f40b265eb23 | -9.8492 | -45.7806 | 2024-10-15 13:46:01 | GOES-16 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| de961a65-ee50-399d-810d-2a68cabd6739 | -9.997 | -47.3551 | 2024-10-15 13:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 141.5 |
-| d93e1f7f-bc65-3200-8774-7c781429e868 | -9.9777 | -47.3795 | 2024-10-15 13:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 140.3 |
-| 7c6d11d4-d169-3948-956b-702c218e7bde | -9.888 | -47.0342 | 2024-10-15 13:46:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 150.6 |
-| 564ff250-5943-3084-b62b-5623141ef0ee | -9.9781 | -47.3573 | 2024-10-15 13:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 140.4 |
-| a838d320-bef3-3e0f-843d-3abff24b0ad7 | -9.8883 | -47.0119 | 2024-10-15 13:46:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 253.6 |
-| 8ef9cb6e-9cda-3ec1-ac1c-e6a18ec3cd72 | -9.9597 | -47.315 | 2024-10-15 13:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 143.3 |
-| 87ae7ce5-9802-3b38-b321-e09086a416a3 | -10.082 | -44.19 | 2024-10-15 13:46:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 153.5 |
-| 20dda3df-1acb-305f-b39a-ebf2cb04bdd6 | -10.0536 | -47.3709 | 2024-10-15 13:46:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 147.6 |
-| 091ea5f6-20d1-38aa-b0d5-f6490f8c7d59 | -10.1007 | -44.2108 | 2024-10-15 13:46:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 109.3 |
-| 2a00d6d5-1524-32b9-a6af-383ce1fa5138 | -10.2632 | -47.2802 | 2024-10-15 13:46:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 204.3 |
-| baf1bc14-9dee-3f7c-a6d3-dd8b2ab85d5a | -10.2635 | -47.2579 | 2024-10-15 13:46:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 134.1 |
-| d0f802f5-a24f-3759-8c27-6be4ebeba87a | -10.9506 | -44.653 | 2024-10-15 13:46:08 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 104.6 |
-| 973409c8-b8e2-34c9-b47b-e7e78ec93f37 | -11.1304 | -44.1857 | 2024-10-15 13:46:08 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 105.9 |
-| 8bc339a0-44d0-3347-9be7-9f041d82796f | -12.3552 | -45.3255 | 2024-10-15 13:46:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 120.7 |
-| 296890cc-570b-38e9-85cf-b5c182e03651 | -12.3167 | -45.3314 | 2024-10-15 13:46:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 111.2 |
-| ba9317ef-f692-3e1f-86f9-3094d0ab157f | -12.3171 | -45.3083 | 2024-10-15 13:46:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 109.8 |
-| 4ae9ace1-affa-3359-926e-a8548867a0b6 | -12.3359 | -45.3284 | 2024-10-15 13:46:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 110.2 |
-| afc8066e-425c-3e37-8132-6d1d5d31514b | -4.0148 | -43.2408 | 2024-10-15 13:55:29 | GOES-16 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 140.1 |
-| 037e535d-221a-3a02-93e1-6cf9da46ff42 | -9.2012 | -47.5516 | 2024-10-15 13:55:58 | GOES-16 | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 104.0 |
-| 83c75e11-591e-3acb-a2cc-2fa870f9d43e | -9.4699 | -45.8249 | 2024-10-15 13:55:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 107.7 |
-| bb3dabff-db12-314e-9cff-5f55f9000eff | -9.4696 | -45.8476 | 2024-10-15 13:55:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 88.1 |
-| 38167084-bc5f-3d58-b4b6-bd746ef90d8c | -9.456 | -44.1531 | 2024-10-15 13:55:59 | GOES-16 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 79.4 |
-| 2892c7af-b056-3e1e-89c4-97f9159abd10 | -9.4175 | -45.5134 | 2024-10-15 13:55:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| 9f9a9645-ae72-3b62-ac2c-359518caee0f | -9.4702 | -45.8023 | 2024-10-15 13:55:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 93.1 |
-| e80488c3-b957-3036-ab3f-c623ad4f8792 | -9.5798 | -43.4835 | 2024-10-15 13:56:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 105.8 |
-| 66dfc9a9-3a28-37c5-9e2e-91259d4027f5 | -9.5915 | -46.5989 | 2024-10-15 13:56:00 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 99.1 |
-| b8cf0f61-560b-3181-ad6d-3c6935cde5fc | -9.5075 | -45.8433 | 2024-10-15 13:56:00 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.5 |
-| ee8d754f-0d85-3d92-a9cc-950f542bd077 | -9.5909 | -46.6437 | 2024-10-15 13:56:00 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 85.1 |
-| 31d47905-ebce-3472-99d6-1fce86232062 | -9.5791 | -43.5306 | 2024-10-15 13:56:00 | GOES-16 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 86.9 |
-| 8f4a8e8c-a7bf-3fb9-96dc-5b51a93be0a2 | -9.5912 | -46.6213 | 2024-10-15 13:56:00 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 100.9 |
-| a70a1380-6e78-3db3-8549-d8896b03b8fb | -9.5374 | -47.8029 | 2024-10-15 13:56:00 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 110.1 |
-| a74821b2-889c-3c6a-9f9c-c232bc3eebd6 | -9.7064 | -46.4963 | 2024-10-15 13:56:01 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 108.0 |
-| f069d31d-eef3-3619-80c8-12568a19dfeb | -9.7067 | -46.4738 | 2024-10-15 13:56:01 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 104.1 |
-| 2fe84bff-49cd-3ffe-88f6-23e2b0492692 | -9.8685 | -45.7556 | 2024-10-15 13:56:02 | GOES-16 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 94.1 |
-| 921ee150-bc43-33e4-9958-8ffe812fee98 | -9.8883 | -47.0119 | 2024-10-15 13:56:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 105.5 |
-| 0101c1f7-e535-3465-9c44-2956a2354c41 | -9.9777 | -47.3795 | 2024-10-15 13:56:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 140.1 |
-| df856800-077e-3395-97bf-b335a9349e08 | -10.0492 | -47.6811 | 2024-10-15 13:56:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 123.4 |
-| 215957f9-e3b1-31c5-956c-c5aff5f22ff1 | -10.0495 | -47.6589 | 2024-10-15 13:56:03 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 136.6 |
-| 1a1bea15-d32d-36fd-a486-8493403eb67e | -10.2442 | -47.2824 | 2024-10-15 13:56:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 131.1 |
-| 459d3567-7018-3815-aa42-140d4c50471a | -10.2825 | -47.2557 | 2024-10-15 13:56:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 138.9 |
-| 2dd07584-e72c-37c2-bb5a-6a4e8b493533 | -10.2635 | -47.2579 | 2024-10-15 13:56:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 141.6 |
-| 5153e515-4177-34a4-9250-07c99ea6d2f7 | -10.2632 | -47.2802 | 2024-10-15 13:56:04 | GOES-16 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 228.8 |
-| 469fa5d5-a639-3f1b-9aef-691b1bd45d7d | -10.9311 | -44.6789 | 2024-10-15 13:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 103.7 |
-| 7104f3bb-72a8-3381-83c5-189416586529 | -11.1304 | -44.1857 | 2024-10-15 13:56:08 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 105.9 |
-| 43d5c8d4-be73-3078-81c1-ead53cf79406 | -10.9506 | -44.653 | 2024-10-15 13:56:08 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 108.5 |
-| 543dfc36-e10f-31ab-959f-6de711a46549 | -12.3552 | -45.3255 | 2024-10-15 13:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 126.5 |
-| add4ce82-6015-37d2-824b-1af83bbf75c2 | -12.3167 | -45.3314 | 2024-10-15 13:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 114.1 |
-| de32e52e-da4e-332b-bd6b-4ff7e6055e9e | -12.3171 | -45.3083 | 2024-10-15 13:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 113.7 |
-| 6bedaed0-cc00-3736-b89c-12ad9de25a6d | -12.3359 | -45.3284 | 2024-10-15 13:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 114.2 |
-| 79fac010-78e3-332a-b041-fd8686eb255c | -12.2974 | -45.3343 | 2024-10-15 13:56:15 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 106.6 |
-| 8a44e845-9887-3daa-8389-810bcba2aa04 | -1.0796 | -48.8721 | 2024-10-15 14:05:12 | GOES-16 | CACHOEIRA DO ARARI | PARÁ | Brasil | 1502004 | 15 | 33 | nan | nan | nan | Amazônia | 63.1 |
-| 171f6ed7-df1c-3621-92bf-6b3e0be7a2ff | -3.2398 | -41.5554 | 2024-10-15 14:05:24 | GOES-16 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 102.9 |
-| ed996c88-3975-31c7-946e-d16c92ca385b | -3.2211 | -41.5563 | 2024-10-15 14:05:24 | GOES-16 | BOM PRINCÍPIO DO PIAUÍ | PIAUÍ | Brasil | 2201919 | 22 | 33 | nan | nan | nan | Caatinga | 89.7 |
+| 46d2d4e0-2019-3e07-8c87-e949ce9c3fc8 | -19.65309 | -56.84384 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| c7a8d05a-1eea-3fb8-a6a6-8d32c038cb1a | -19.65279 | -56.7796 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 63b28c46-b8ac-3d8e-8d07-52565264027e | -19.65251 | -56.84752 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.6 |
+| d88ac426-133b-32c8-8143-a6358db3407e | -19.65222 | -56.78328 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 26883d73-4096-3005-886d-88878915eecb | -19.65213 | -56.80592 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 0fe5c94c-470f-391c-93e8-f1fda1683975 | -19.65165 | -56.78695 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 5b1b6428-65c4-35aa-8ba7-a0aff73086cc | -19.65137 | -56.85487 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.4 |
+| cdbb57dc-446d-3de3-a3e3-a33fe2a406c6 | -19.65108 | -56.79063 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 91016ba6-b88b-3d85-bd47-6a8aa3b7886d | -19.6509 | -56.83591 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| e8de5321-7736-3dbe-b6b2-f9141c32b7c7 | -19.65051 | -56.79432 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| e4f9ffd5-a2e2-3db6-b47a-2eded1406f81 | -19.65032 | -56.83959 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 3198e644-f0c0-3928-8783-02d221d2102e | -19.65003 | -56.77534 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 9.3 |
+| 468570e9-6644-3099-bbe8-e7f4ddc225ca | -19.64994 | -56.79799 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| c92acbdc-ec09-35db-a3d3-84908d1a9bec | -19.64975 | -56.84327 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| e5629291-3a50-3b6d-92a2-34db110fc5a1 | -19.64946 | -56.77903 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 091dc172-854c-30b1-8284-6fa422fc05d2 | -19.64937 | -56.80167 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 99e42a56-ef27-355b-9399-a6d4ccadee34 | -19.64918 | -56.84694 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.6 |
+| 6461c319-c244-35a2-a776-1a945e50fe7e | -19.64889 | -56.7827 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| d0664b01-ca43-336d-9f00-6828cb734cfe | -19.6488 | -56.80534 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 8d6e095b-474b-3bae-aab2-3172cb4a3c82 | -19.64861 | -56.85062 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.6 |
+| 157b4c4a-371e-37e6-9af5-dd38e7240a1c | -19.64832 | -56.78638 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| b743f4a5-14b3-35d8-a15d-4c10f22ee5a1 | -19.64804 | -56.85429 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.4 |
+| e484b0d7-3969-3b6e-9522-d59e0b31b6d7 | -19.64775 | -56.79006 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| ca31f6d2-8ca7-3da5-a875-e4f8ac288eb4 | -19.64766 | -56.8127 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| e03860f9-aca6-3c5e-bb5b-19a50b476d34 | -19.64757 | -56.83533 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 77963f0a-4f3f-35d0-8447-73882af1d356 | -19.64718 | -56.79374 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 76087ce8-6eeb-3be3-8fc1-ce9c8d2039f4 | -19.64699 | -56.83901 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 56b5ee98-90c7-3912-b0e8-a051fba30d41 | -19.6467 | -56.77477 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 9.3 |
+| 870254c4-8ef6-30b2-9f19-610865e0c588 | -19.64642 | -56.84269 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 08246806-612e-3c92-ae51-153d24501f3c | -19.64613 | -56.77839 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 43f547f3-2437-3b59-8559-7b9d67278468 | -19.64604 | -56.80109 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| c5bfbb04-f5ee-3fd6-b9d5-3240d31dec98 | -19.64585 | -56.84637 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 5bbd11fa-38aa-3b72-b77a-c5e19ba2e3d7 | -19.64556 | -56.78207 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| e3104849-99f3-3983-a980-bd0885c322ca | -19.64547 | -56.80477 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 28a54edc-ec9a-3f7d-a968-1288e4a86163 | -19.64528 | -56.85004 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 6f783d73-93b1-38d8-81de-4675599f0f12 | -19.64499 | -56.7858 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 78e32465-6c60-3dc5-8c18-52148dac97f5 | -19.6449 | -56.80844 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 6a762b96-be7c-30c5-9d10-9622472a3e73 | -19.64471 | -56.85371 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 12.2 |
+| 616ebfbe-808a-3149-84b1-b0a72808d248 | -19.64433 | -56.81212 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| a6c594e5-aa8f-3458-a85f-1270d2cb9f23 | -19.64423 | -56.83476 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 45db12d9-73d0-324b-a779-b5ecd12330d6 | -19.64385 | -56.79316 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| b403c2ee-3840-307c-9a2c-12d2b3da2025 | -19.64376 | -56.8158 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| c4e6574b-b467-3331-9ca1-e6994a7548d7 | -19.56919 | -56.68628 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 22.6 |
+| 3fdca190-39d3-3354-97a1-5fb30a2646e6 | -19.56862 | -56.68996 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 35b27635-c1cf-3222-8cf2-f6196aa093f1 | -19.56529 | -56.68938 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 742080af-4254-3fb2-ae49-ef3ffb0c4f15 | -19.5587 | -56.66557 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| a4eb1412-d745-3fcc-b574-6d0f32c711af | -19.55366 | -56.67604 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| b01a508d-f057-3ef4-8511-0f0a3510bf7e | -19.55203 | -56.66442 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| c64135d2-e602-3f27-b352-86338b57ef6b | -19.55032 | -56.67547 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| 4375ee80-1ee2-3734-ad02-283693f49a3b | -19.54805 | -56.69019 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| f4558b8d-ad3c-3f34-981c-366061809681 | -19.54593 | -56.6596 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 936b77b2-301b-3153-9125-24793ec0b420 | -19.54528 | -56.68594 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 03568d5d-926a-38a9-a5e1-cae329808581 | -19.54479 | -56.66696 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| 1b44b4c5-eeea-385b-839b-0ae60248c6cc | -19.54309 | -56.67801 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 9.3 |
+| 4aa668f8-4e25-3042-9b86-0d5ffa171875 | -19.54146 | -56.66639 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| b6944859-af92-3085-ab59-44c5554db1eb | -19.54081 | -56.69273 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 8a8a82ec-4a02-3f65-9758-8bc7b58030a4 | -19.53861 | -56.68479 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| 2420606f-f55e-3ba4-9382-67827886ed38 | -19.53755 | -56.66949 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 558a9df4-0096-31b5-840f-bc5474e2d3cb | -19.53479 | -56.66524 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| 09b95ab0-b4c2-32b0-a499-3ac9422757fd | -19.53471 | -56.6879 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| cd50d292-120c-3909-94cf-78e3a5775fe0 | -19.53301 | -56.69894 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.6 |
+| d3ba963b-7f95-3c6a-b900-23a3c15f961f | -19.51628 | -56.66273 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| b1565dee-271c-3d02-ac0f-0fba56b50038 | -19.50627 | -56.66101 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 9f5bfb3e-465c-34bb-84a3-7171572a762f | -19.5018 | -56.6678 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.3 |
+| 21d6616b-f40d-3683-939b-8361ae745210 | -19.49961 | -56.65987 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.1 |
+| 4f7e0e96-ac21-3a76-a474-b4741ae52eaf | -19.56935 | -56.64093 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 02c45b28-e554-363c-a19d-866cbfc89407 | -19.56602 | -56.64036 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 722fab94-0d71-3bb0-a1f9-6adc9f8627d1 | -19.55991 | -56.63552 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 507c25da-b0e8-3536-be6e-7b12d69a4c14 | -19.55707 | -56.65395 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| dfc761f2-9847-3cce-9ff5-cdcd83cb8109 | -19.55267 | -56.63806 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| e680e5e7-7e9d-3218-9957-ec462da9b873 | -19.50188 | -56.64514 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.2 |
+| 460fcc01-c0f2-32f9-a989-17ae2eb39da5 | -19.49741 | -56.65193 | 2024-10-24 04:59:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| 686a0ba5-0fcb-3d88-b3f7-42c4b0ff1152 | -19.68191 | -56.72416 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 6e3aebc2-15b4-301e-aa23-440a2d2907c2 | -19.67801 | -56.72726 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
+| 5cf69402-1b71-3197-8c2b-52e429afad79 | -19.67134 | -56.72611 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| eeab7caa-e1e7-360e-af5e-f931ffe21b80 | -19.67077 | -56.7298 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| f3850097-d9d8-3264-b421-b77ff507028c | -19.66801 | -56.72554 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 0aa7adb5-bd99-36f5-b7c9-88204cc6c5f9 | -19.66744 | -56.72922 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| f0b1ed81-58b0-335c-809e-9f10b57f11fe | -19.66687 | -56.7329 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 4308f70a-6853-3d17-b179-264ba5d34832 | -19.6663 | -56.73658 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 4d7f0c29-c047-3aca-8d46-3fcb42383e41 | -19.66354 | -56.73233 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 44cc2b96-37f0-3546-828a-a5e48dc9f0d2 | -19.66297 | -56.73601 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| e7d2c769-ac7e-33d7-951b-655550a6902f | -19.66077 | -56.72807 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 6d40608c-1425-3ab9-bf70-c79dbee46a57 | -19.6602 | -56.73175 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| a3455fdf-4e81-3927-923a-588e4f6e92d9 | -19.65963 | -56.73543 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 04339bd2-566c-3cb3-86ff-b7b91d84edc5 | -19.65687 | -56.73118 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.2 |
+| e4d5f2d3-3db9-352c-b3ab-e13fc2a0c3c7 | -19.6563 | -56.73486 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
+| b6788108-a4d8-34d6-a404-4fd16d376c8a | -19.65573 | -56.73854 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
+| 7d1cca26-2353-37e6-afcf-e7e09ba8b353 | -19.65353 | -56.7306 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.2 |
+| 59689b4e-90fb-309c-ad0b-08d4ad8a5d6d | -19.65297 | -56.73428 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
+| 65835572-c00c-35cb-8e60-367235253e52 | -19.6524 | -56.73796 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
+| 110238a9-2ee1-3d4a-9ac1-fd43ae21f7d5 | -19.64963 | -56.73371 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 20.2 |
+| 129c8a46-a6c6-3e83-ba21-1df1aec234ff | -19.64906 | -56.73739 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 20.2 |
+| 2b9cbafb-5fc7-3c1e-a476-d21d1dd0ae16 | -19.64573 | -56.73681 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 20.2 |
+| 81c12e7e-11b0-3d0f-bdc9-111eef0e6990 | -19.6424 | -56.73624 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 10.9 |
+| 0867dc06-1d5d-3c42-a3d2-9ff08524b459 | -19.6285 | -56.73756 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 8b4b1fc0-18a0-32e2-bdde-c5734743f933 | -19.62516 | -56.73698 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 2aab6e1a-7bc6-3a59-942d-1b1cd9e105ff | -19.57586 | -56.68742 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 21.2 |
+| 7209aadb-86d4-3471-b9e4-f4f8736805d1 | -19.5731 | -56.68317 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 21.2 |
+| a15a6c99-5036-3252-bd91-272e2e991808 | -19.57269 | -56.64151 | 2024-10-24 04:59:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
 
 
 [Clique aqui para ver as próximas entradas](README83.md)
