@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6a160d91-3c2a-32af-b4f3-7931bdf1dd65 | -9.61123 | -49.68133 | 2024-10-24 04:57:00 | NPP-375D | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 7178a358-b90f-3db5-a5cc-bca12d10cbba | -9.61072 | -49.68488 | 2024-10-24 04:57:00 | NPP-375D | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 23ee7c93-cb6c-33a9-b3fb-c3161cc94cc2 | -9.57048 | -49.64582 | 2024-10-24 04:57:00 | NPP-375D | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b4283e1f-ba59-34d7-8b62-faab78a45f30 | -10.89044 | -49.2709 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 97feea65-9b27-3f41-9346-92b90ff157c5 | -10.88901 | -49.2691 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 51ff7820-74f5-3d82-afee-375245ed7306 | -10.87391 | -49.53967 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| b828231a-4b18-311f-8a22-9c02db8dc6eb | -10.87026 | -49.53514 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 67e1ce70-51f3-38c6-b450-fd7058f55c13 | -10.86973 | -49.53902 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 058bb3ea-2f24-3a68-8732-2ee0574e083f | -10.45572 | -49.36493 | 2024-10-24 04:57:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3442cb77-6dce-3a38-be1b-fbb363d2063c | -12.16782 | -49.68033 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f3fede1f-36b2-32bf-89c0-4d7b7b980499 | -12.1636 | -49.67973 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 4c1e6067-3ced-3405-8006-b3c7893485b5 | -11.73158 | -49.85811 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4b0fc715-b5d6-37a2-9321-a27e2a700ca6 | -11.73105 | -49.8619 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 558e8f64-1ddf-3be0-85ae-092ccdad37b6 | -11.72953 | -49.84233 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8ded9a30-e034-3675-8cd3-a06d4e0120af | -11.729 | -49.84614 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e142feaf-66a4-3537-9a52-2daa70686267 | -11.72538 | -49.84174 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 3360f451-dee4-3725-9955-772725145363 | -11.59385 | -49.89626 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 2e17d393-cab4-3ada-874d-80dc24a33d6f | -11.57332 | -49.35396 | 2024-10-24 04:57:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| baecf1e7-b586-3dc9-b08c-b1a8888e0dc1 | -11.49794 | -49.87188 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ac52ab5f-f4d2-31e6-938f-28b8a9201411 | -11.49742 | -49.87564 | 2024-10-24 04:57:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| d75c3260-a6de-339e-a171-d14084089c93 | -11.25249 | -49.94103 | 2024-10-24 04:57:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f889db7f-379a-339d-8a9f-566c87b1a534 | -11.25199 | -49.94471 | 2024-10-24 04:57:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1e00f116-64ae-3bd4-8070-1bb14c33642f | -11.25148 | -49.94839 | 2024-10-24 04:57:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 24fc5831-478b-3cea-ba24-14700c2cb3d1 | -10.98557 | -49.2008 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| de708427-ad63-3550-9c81-bdd4a7bd6c52 | -10.9752 | -49.30588 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 13aac9ea-de78-3aa4-a52a-49b7aee0c706 | -10.97151 | -49.30121 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8b409a3d-21f8-3936-b841-8ce538ecdbb8 | -10.97095 | -49.30521 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 50e27da7-7e67-3487-9808-f9a034a1dd8c | -10.96271 | -49.42527 | 2024-10-24 04:57:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b47fb22e-3244-329b-8be8-80a958f69c48 | -13.54809 | -49.88615 | 2024-10-24 04:57:00 | NPP-375D | BONÓPOLIS | GOIÁS | Brasil | 5203575 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 35fe3cae-dae9-394e-9a18-b5c8d1d0ed39 | -12.90735 | -50.199 | 2024-10-24 04:57:00 | NPP-375D | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ef641894-024b-3d83-b544-02d99b172a8f | -14.26884 | -51.1292 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| ef8c9001-d816-3aa8-8bb5-83eeee4282a9 | -14.26812 | -51.13435 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 8b2faba6-c318-3294-ba38-9660fc0b7279 | -14.26489 | -51.12854 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 69ce0ef0-3fc3-34bd-9159-6d4654a441e0 | -14.26418 | -51.13369 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 6ec898a5-d5f1-3e3c-b2f8-1e836739e0aa | -14.26166 | -51.12274 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 7837c49d-0637-3501-b5c1-23a989b71b02 | -14.26094 | -51.1279 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 73a85b11-3ef4-3f64-99e6-27ab2f035229 | -14.26022 | -51.13305 | 2024-10-24 04:57:00 | NPP-375D | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| f2639915-90f6-353b-8a20-d4d43567cb47 | -7.56925 | -50.70852 | 2024-10-24 04:57:00 | NPP-375D | BANNACH | PARÁ | Brasil | 1501253 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| dd515c4b-a223-3630-8a86-fb1bdbb537f5 | -7.56741 | -50.71033 | 2024-10-24 04:57:00 | NPP-375D | BANNACH | PARÁ | Brasil | 1501253 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 89be60a7-f6f4-3b8d-8ccf-4a75a6d2ca02 | -7.56674 | -50.71476 | 2024-10-24 04:57:00 | NPP-375D | BANNACH | PARÁ | Brasil | 1501253 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 73039f0f-558a-33ac-b6e1-163c8f289aad | -7.56489 | -50.71235 | 2024-10-24 04:57:00 | NPP-375D | BANNACH | PARÁ | Brasil | 1501253 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 4f9478a4-13c9-30d7-bf66-85428516f396 | -8.06287 | -51.00299 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 522b4af2-fbf9-3597-895e-da6575338a01 | -8.06286 | -50.99208 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 43d2a8e8-6af5-38c5-a6f0-13a6c026e59f | -8.06223 | -50.9964 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2dd41743-a5bb-3026-b1fd-132f98ea37e3 | -8.0616 | -51.00071 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f88a6962-7dc8-3571-9a40-b7a81a3d6cf2 | -8.0605 | -50.99384 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 422c06f9-f4cb-37bc-ba94-114534afa957 | -8.05984 | -50.99814 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 924e74be-df6e-3606-b587-1742ef24c54c | -9.29465 | -50.77683 | 2024-10-24 04:57:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 3058c111-a856-3df4-8113-41d9938bc037 | -9.18322 | -50.54405 | 2024-10-24 04:57:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 381d95b3-e339-3a84-8f57-f5dc07a3348a | -9.17938 | -50.54348 | 2024-10-24 04:57:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 73de536c-8d11-360b-be47-8469b5be377f | -8.3268 | -50.89457 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 1320ae41-687c-3bcf-ab4b-bb89325e1fbc | -7.99166 | -50.68956 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 370ffe07-0425-3771-a816-31a056fa5566 | -7.9911 | -50.68713 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a790a9fb-c10b-30be-a636-a562a1cb204e | -7.99101 | -50.69405 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 66cce085-ecff-30af-ada3-306f42b698ca | -7.99042 | -50.69161 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 65b54b01-113d-3a99-8f85-6eca1ba3ffe8 | -7.98974 | -50.69609 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d06b35b7-3ffb-3f12-bf3d-9e0b3798311b | -7.98735 | -50.68657 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1101ceea-87ad-3a7f-a50b-bd6dfecfdfa7 | -7.98667 | -50.69106 | 2024-10-24 04:57:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 158f01cd-a857-36f4-9a98-698156685468 | -9.99579 | -51.45753 | 2024-10-24 04:57:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 578796eb-434a-357e-80e8-dc63f2dce513 | -9.85944 | -51.18622 | 2024-10-24 04:57:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e84b40fe-23c3-3810-a58b-269dc65001d4 | -9.37824 | -51.88504 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ab35a70d-61f6-3043-8e36-ebdc5e55ff54 | -9.37468 | -51.88445 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c00d4dff-0ad3-38a6-8cb4-bf754aa26820 | -9.3711 | -51.88388 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 9dcf18d4-b038-3631-b21f-5dee554d0f1e | -9.37049 | -51.88805 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| fa852546-ee8f-3bf1-8cf7-2d87e9127e2a | -10.51487 | -51.84701 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d3b52ef5-2241-3dc3-aeaa-79ae28abf592 | -10.51424 | -51.8512 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 77732038-5ae8-330d-a3ed-44811f8735da | -10.47621 | -51.9574 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c71b8ba6-3636-3b5a-b7fb-5239d2d7edba | -10.36816 | -51.39333 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0ea4625f-b9ef-3e83-b789-a2ba894d6190 | -10.34184 | -52.00996 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a1819d03-196e-3530-a058-89d7a0a10638 | -10.33825 | -52.00942 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 59fb541d-4587-3e8f-b2d0-7d2a72457913 | -10.33764 | -52.01356 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 9bc64b90-3f1e-379b-9344-121a5313ca36 | -10.30789 | -51.89012 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| da83e7c0-911d-3958-a2b4-ee9d389ef647 | -10.30367 | -51.89377 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1dc03ce2-a8ca-3547-a814-d5e0f6f86e5f | -10.15971 | -51.55396 | 2024-10-24 04:57:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3ee75f02-d18e-36b0-8670-0f5803cac20e | -10.09815 | -51.13017 | 2024-10-24 04:57:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 9ddcb602-4080-391f-8f41-fb987e744e41 | -10.0944 | -51.1296 | 2024-10-24 04:57:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a8d7bfba-21b9-3a14-a731-c0365a2756c2 | -12.35948 | -51.22548 | 2024-10-24 04:57:00 | NPP-375D | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 400d2ea5-e993-30fb-b1e7-146ff481e71a | -11.44359 | -51.48601 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| bd65f329-0a11-30bf-bd1f-aa56c53e66c0 | -11.44275 | -51.48773 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| fc8ffd7f-2fbc-35db-9aae-dceaca48adf9 | -11.09917 | -51.55585 | 2024-10-24 04:57:00 | NPP-375D | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| e5a3002d-e878-3c4b-a21f-4db379f5562f | -11.09772 | -51.55314 | 2024-10-24 04:57:00 | NPP-375D | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 1be55aef-38c1-3821-b955-d588a12766a6 | -11.09402 | -51.55258 | 2024-10-24 04:57:00 | NPP-375D | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ff7acbe6-0d1e-3a39-9dc9-215a9146f6d2 | -12.46811 | -51.33214 | 2024-10-24 04:57:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 656a7264-e205-3587-b93f-84d617329604 | -12.46429 | -51.33158 | 2024-10-24 04:57:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0fdd463e-2492-3e38-b808-6655358e0f89 | -12.46362 | -51.33635 | 2024-10-24 04:57:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 6605a036-36a2-364e-8059-aa34898ee86b | -9.32727 | -52.848 | 2024-10-24 04:57:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8f75b5a8-aa6c-396d-8a40-59e3ff325958 | -9.96537 | -52.24422 | 2024-10-24 04:57:00 | NPP-375D | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 8320609f-1e4f-3bfc-8f97-14343314bb23 | -10.26998 | -52.17507 | 2024-10-24 04:57:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 7825d4e2-1146-3299-9ba7-edcacab31e84 | -10.26642 | -52.17452 | 2024-10-24 04:57:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| be4ad9f8-ac05-37ba-83c9-d0de88da1358 | -10.26286 | -52.17398 | 2024-10-24 04:57:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c0bec2c1-86d1-38fa-ba90-7d25c350eee8 | -10.99254 | -52.88247 | 2024-10-24 04:57:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 87d1ae29-43e9-33cc-8c18-9fdb1d21a784 | -10.99195 | -52.88634 | 2024-10-24 04:57:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 757e5472-5d59-364c-984d-da38c78d34f3 | -13.75795 | -54.06474 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5009e57d-3688-3bc9-9607-3ad330b1d7cb | -13.75553 | -54.05744 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 9158ad5e-f35f-3ddf-98fa-255677d7c7c5 | -13.7551 | -54.06044 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| c99c7f2f-aa82-3e39-b837-0a7cc0576d41 | -13.75496 | -54.06121 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 0d3ec014-72d2-3e33-a54a-02ab83b94f51 | -13.75212 | -54.05691 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 1d8d63f2-4e5f-3d7a-a306-8cd31c72d1a7 | -13.7487 | -54.05638 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 8ff29c02-4851-3de9-a6d5-2cbfd730c60c | -13.74813 | -54.06013 | 2024-10-24 04:57:00 | NPP-375D | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 3da9dc50-f017-3095-97c4-e817cbb7e776 | -9.60515 | -55.05085 | 2024-10-24 04:57:00 | NPP-375D | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e3af35e5-0faf-3954-ab6e-d80748c49c89 | -17.22209 | -57.24013 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.4 |
+| adc6d592-e986-3d92-aa0e-142008f987a7 | -17.22141 | -57.24387 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| 576b1ce0-3fea-3517-b0b5-6f94915827a3 | -17.22126 | -57.2393 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
+| f2671438-cbd5-3ddd-9dbb-f3684719d869 | -17.22074 | -57.24762 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| 875334f5-d655-3fc8-bae6-5a5fdd8c232a | -17.22065 | -57.49212 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| be80695f-6fbe-34d2-893d-a5e2a1ae1540 | -17.21914 | -57.25053 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 2634822e-6c98-36e8-8721-337ae11bd4d9 | -17.21797 | -57.48353 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.3 |
+| 05b481e5-d42a-32a9-8855-9f7c05f90c9f | -17.21724 | -57.48741 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| ce0c6b36-8f36-3264-8aba-2d7695cb100c | -17.2153 | -57.25432 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| b4356320-b994-33be-bfe7-d5352219b428 | -17.20631 | -57.47715 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 125a6ee8-bcae-30a7-9189-9a74572feb96 | -17.20218 | -57.47632 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| c7a34e99-c095-302f-8c8a-757791083b42 | -17.03997 | -57.5052 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| e06a58e9-ec5e-376a-9811-e70e2e902127 | -17.03637 | -57.5248 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 19.0 |
+| 0a2985f2-5d8c-3d27-ac53-7aede9b8c710 | -17.03582 | -57.50436 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| 4e92b061-2ca0-3272-b13b-311caf86df7a | -17.03564 | -57.52872 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 19.0 |
+| 78ea6ac9-2bcb-369b-847d-c7173fff24e7 | -17.0351 | -57.50827 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| eb81984d-125d-3a19-947f-b43dd77422a9 | -17.03221 | -57.52395 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 10.2 |
+| 3f73c9fb-f6b2-3ba4-92b6-4cd9a4b42c8b | -17.02825 | -57.49876 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 00753a58-0f00-3a98-9dfb-98f2962777a1 | -17.02681 | -57.50658 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.4 |
+| d6ee922c-4c93-3618-bd54-cb83f177e003 | -17.02391 | -57.52225 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| 62e4f3aa-07ef-3b78-b60f-b90c826cde00 | -17.02319 | -57.52617 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| cc173f69-a065-3772-b85f-3e37985280e6 | -17.02069 | -57.49318 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 0f38b07d-13d6-39f1-a6ce-9fa993395c3b | -17.01976 | -57.52141 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| 1926ebdd-23d9-32b3-ab2e-bdd35e062be7 | -17.01904 | -57.52532 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| 90a430d4-585a-32da-a7d1-22c2a8225b58 | -17.01654 | -57.49232 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 8792b017-7cc2-3e9d-bdff-802ceb43d30f | -16.97188 | -57.5239 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| 0e70ee7f-3f80-3ec7-bb43-de19e89ac9d7 | -16.96773 | -57.52305 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| 24b03719-c4be-3157-84e4-8708a7d7f1f3 | -16.96357 | -57.52221 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.6 |
+| c6d9bfd4-4625-362b-b00c-15e441914c1d | -16.96283 | -57.52613 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 52.8 |
+| 2b0c3cab-2bf1-335b-a7af-5855c4f63137 | -16.94738 | -57.53932 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 559b506c-a6b3-38de-8b40-4a42e3208d21 | -16.94663 | -57.54325 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| ebfd9642-a766-3198-95a0-876a9e69eaf8 | -16.94459 | -57.69154 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 65a15f83-0741-3372-944e-08b60215625c | -16.93889 | -57.53458 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.0 |
+| 4f1029a3-d3bb-3508-8a78-8a5bc1ab6edb | -16.93762 | -57.51799 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 18168637-267c-3f0b-b1fd-cc9ca5abd7d3 | -16.93418 | -57.51321 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 635caae9-2220-38c6-b77e-793186849008 | -16.93401 | -57.53767 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 11.0 |
+| 4d646fd1-d4b3-3483-b16b-8f6d5cce4e19 | -16.93201 | -57.52501 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
+| f857b48f-cae1-37ec-8946-190244f76d96 | -16.92858 | -57.52023 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
+| a25ff256-6f6b-3863-997f-fdf51a0c1202 | -16.90655 | -57.49944 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 7.6 |
+| 2abb479d-5ab2-36d1-b515-0b0dbf65edbd | -16.88469 | -57.66385 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| f397209f-0a9d-3c92-80ab-6a2570871c09 | -16.88394 | -57.66787 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 8a47e576-e940-3766-9735-6e2c82ad5b51 | -16.88319 | -57.67189 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 6b2283a2-ea92-304a-8827-0d7086ae40d8 | -16.85917 | -57.68372 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| cc5a645c-ea41-34f1-97ec-aba53f434a62 | -16.85841 | -57.68775 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 123c71f5-aa88-3a1a-b03d-4bed4b9e9849 | -17.07146 | -57.42693 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| e838488e-223e-3d28-b594-e7f12e1a7874 | -17.07075 | -57.4308 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 6f68c5e0-8183-374f-8143-3d6ab2c285c4 | -17.06982 | -57.48295 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| a38920a4-a50e-3523-802a-78381039e78b | -17.06568 | -57.4821 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 59b061ba-b33d-3dec-8227-cb94cedcd48f | -17.06167 | -57.45709 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 6aeaaa74-60cd-3c5b-8725-bb39adc8bb8f | -17.06109 | -57.43685 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 0265abfb-f6a8-36cb-a8fd-80a49024785b | -17.05825 | -57.45237 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 495dddcc-291b-32f0-807e-bde374cb89c0 | -17.05754 | -57.45624 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 53ec83f2-272f-38e6-b041-46bddd10f961 | -17.05741 | -57.48042 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.1 |
+| 5fb6ea9a-05a0-3936-9231-6ec0e842b536 | -17.05483 | -57.44764 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| afc3a6c9-4095-3bb8-858d-0c336269d8f4 | -17.05327 | -57.47957 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.1 |
+| 01d56a18-ece7-3c5d-a481-e2550c2281c4 | -17.05213 | -57.43904 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| 5bd9e0fb-9191-3160-8a79-f1aea13ba87d | -17.04984 | -57.47484 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| db846b5c-7193-3a7a-b9bb-054980ebdcb8 | -17.04942 | -57.43047 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 7d4bb652-b811-3a04-ac3c-9e8b1fc87400 | -17.04928 | -57.45456 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| d53071a2-883f-30ad-8444-0d7771c04a56 | -17.04913 | -57.47874 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.8 |
+| 80427f50-32d8-312b-9b39-52cc67ea4e1a | -17.04642 | -57.47011 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 6a15c77c-0e1e-320f-ab7b-02d405e91f20 | -17.04586 | -57.44983 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
+| c80924ad-fcce-3163-8c96-e6460bb172d6 | -17.04529 | -57.42964 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| b1872dea-792e-3299-ada5-70be4fa23ac4 | -17.04316 | -57.44125 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| b950fbf0-b19e-363f-93e6-564358300d96 | -17.04173 | -57.449 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.7 |
+| 1184cf83-0fad-3cd7-905a-76974ffc1f8a | -17.03958 | -57.46065 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 5c845ee6-fdc0-3b26-b391-857da75d0e4e | -17.03934 | -57.39239 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 5cc280b1-653c-35a5-a6b0-e7b1399ac5b0 | -17.03886 | -57.46454 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| 05386aca-5dde-3e4e-91ec-28251a827aff | -17.03863 | -57.39624 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 7d2f3f48-e8d3-3f43-b17b-4f63d9fa52fe | -17.03616 | -57.45593 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 9ae9ca38-8c17-38ed-8cb4-6b3b80dfea60 | -17.03522 | -57.39157 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| b05fd304-f2af-3b0f-a536-3e325e930f0c | -17.03451 | -57.3954 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 9484361e-8a84-3cb8-8737-d420d95606e7 | -17.02916 | -57.47063 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| b1f820a0-c086-3b11-a354-e5477bdda36c | -17.02843 | -57.47453 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 9b3e07e1-3d98-395f-8a3f-41a3bafda057 | -17.02574 | -57.4659 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| e11d9479-c962-3d91-a518-ef140df13903 | -17.02502 | -57.46978 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| c2ec0284-235f-36ef-b74a-8d3d5cbecd72 | -17.0209 | -57.37672 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 356f91c6-c8e7-3e85-bb72-f6bf2261c85b | -17.00999 | -57.36655 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 1113b6a2-26ba-3474-a556-ea35348d576d | -17.00712 | -57.3819 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 1a9245dd-2fba-3979-8f06-c8a40f1b5e74 | -16.99981 | -57.35257 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 6f5aa060-2917-3845-98d5-112b23f5e865 | -16.99499 | -57.35556 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.1 |
+| dd13b3a1-aae5-3b5e-a1aa-4c612c73ee76 | -16.98993 | -57.38242 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 72ba29ca-e0c5-36b7-b914-8990e5a977d3 | -16.98315 | -57.38594 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| e78d4ad8-93c1-311e-a2a3-fbe57f94a5ed | -16.89164 | -57.26927 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| 18595ed2-256e-3486-a039-bea3eb58842d | -16.89096 | -57.27307 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
+| e4fb6b0b-b5d5-3e89-bcf9-c8ea00425fc7 | -16.88686 | -57.27225 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 9080017d-d7e2-3391-beca-8cafe684a4cb | -16.86567 | -57.27193 | 2024-10-25 04:42:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| bc868895-6d5a-363e-99b3-383b05e7d542 | -16.70238 | -57.45232 | 2024-10-25 04:42:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 5bc61537-8af6-3a32-b50c-e7829880f2ec | -29.8151 | -51.17558 | 2024-10-25 04:44:00 | NPP-375D | SAPUCAIA DO SUL | RIO GRANDE DO SUL | Brasil | 4320008 | 43 | 33 | nan | nan | nan | Pampa | 0.6 |
+| 1e569a51-a390-3e5a-8f31-32a6bbc64cea | -29.7776 | -51.1743 | 2024-10-25 04:44:00 | NPP-375D | SÃO LEOPOLDO | RIO GRANDE DO SUL | Brasil | 4318705 | 43 | 33 | nan | nan | nan | Pampa | 0.5 |
+| 114f273b-1b40-365e-bc75-c42a7d83c294 | -23.64981 | -53.46595 | 2024-10-25 04:44:00 | NPP-375D | UMUARAMA | PARANÁ | Brasil | 4128104 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| a0489927-3c7e-325e-be1e-1243e71fb729 | -25.19103 | -52.78938 | 2024-10-25 04:44:00 | NPP-375D | GUARANIAÇU | PARANÁ | Brasil | 4109302 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| c4f8a1f2-10eb-3b2c-805e-6fc1fb208626 | -23.78606 | -55.30129 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 8.2 |
+| c5976efb-f6de-3c68-b23d-8f60770f89bc | -23.84949 | -55.32225 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 8d70eaa0-b13a-342b-8b43-9ad05abc9bec | -23.84675 | -55.31758 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| f00812e3-596c-336c-a87d-dd32a989b3fc | -23.84608 | -55.32156 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 59d9b4d4-047f-3455-90ef-fe2a69533965 | -23.84268 | -55.32085 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 0bf6abdd-3e96-3089-8891-e1a124debb69 | -23.8229 | -55.3127 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 6fe9cbe6-df92-3214-b817-39d3cffb10d6 | -23.82286 | -55.29212 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 6e269b6f-1c96-324e-8b14-d99a687eb83c | -23.81739 | -55.28279 | 2024-10-25 04:44:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
 
 
 [Clique aqui para ver as próximas entradas](README79.md)

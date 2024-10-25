@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6b945b6c-1c5b-3451-a6b0-0898b566b413 | -10.64887 | -58.76421 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| aabd052b-bbee-37a7-b86f-575fc89b17bb | -10.64839 | -58.7679 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 09cb452a-7b83-30f4-97d0-e8e5d3d1b08b | -10.64792 | -58.77165 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f33c770b-a2ca-3999-a2f7-32add6bab3d2 | -10.64358 | -58.76356 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 911a273a-8373-3b13-b169-def5700109ac | -10.64308 | -58.76743 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e8433d68-91b8-3002-b5a6-286f43be6c74 | -10.57683 | -59.40347 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f1fd212f-90c8-3409-ab96-2ef428d6ebb8 | -10.57644 | -59.40644 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 63374a75-3268-38bc-a082-b8e9d399fd55 | -10.5383 | -59.31558 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8a4e1f45-25ea-3b6d-8f73-8038b9c5198b | -10.53788 | -59.3187 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 010483b1-2c28-3bf3-8064-aeb87fa9835f | -10.53649 | -59.3162 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ae0a6a92-9dfb-3421-a3c2-79cfff4d1d9d | -10.5361 | -59.31931 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f5cd1ed6-779e-3823-ab40-43c76889ec50 | -10.53323 | -59.31487 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bf7af4dd-d3ac-3af2-a92f-798fb32da501 | -10.468 | -58.75974 | 2024-10-12 05:48:00 | NOAA-20 | JURUENA | MATO GROSSO | Brasil | 5105176 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| f83aa6bc-bbb3-383a-b340-5102e4aa7b2d | -10.29839 | -58.99799 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 9e16c56a-884b-3bab-9719-bdd15b9367ea | -10.29361 | -58.99425 | 2024-10-12 05:48:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 90a199d5-3dfd-3b8c-a293-f37a03717e4f | -11.83502 | -58.84086 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 497d2eca-b0ab-351f-83d2-3c2160baffe2 | -11.83375 | -58.85095 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| e2c3458c-f9e0-304f-aaba-709f91c02a8a | -11.83289 | -58.85784 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a443ba23-e854-339a-8193-d37f4b9c5f6b | -11.83053 | -58.83336 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 764df4c3-2be6-3f24-8636-70cf029b275e | -11.83009 | -58.83681 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| b269273e-08d9-340c-8917-8d3b78a3194b | -11.82967 | -58.84024 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| e4eb4a79-7e11-3087-a5c3-880591179709 | -11.82881 | -58.84706 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| cd0290ed-e5b0-3e4d-8b07-b1dbd5fca45f | -11.82839 | -58.85047 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 054806b3-a2b5-30a3-83f0-09ec9c9861d2 | -11.82432 | -58.83952 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 2b08e177-257e-335d-bd3e-60870424336c | -11.82263 | -58.85308 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 7cb2edc4-4c5b-385f-a619-5cdf5e8ed6c8 | -11.83997 | -58.84469 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 51bfcc0c-002d-3e67-a346-b30572c46be4 | -11.83954 | -58.84803 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 8ce660b8-daeb-3a6d-9ebb-4ad5125724c9 | -11.8346 | -58.84421 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 0aa9a2e5-6921-3990-80e9-a479fe2b6ecd | -11.83418 | -58.84756 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 40a728de-5667-38fc-bb68-21bc962231bf | -11.83332 | -58.85436 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 86ccb56d-0c02-3a40-942d-2b75d47b431e | -11.82924 | -58.84365 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 68dbeada-ee8b-3ee2-b65a-48c3c198c01d | -11.82796 | -58.85387 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| d5ecb331-3369-3734-94c5-ae3ff559771f | -11.82754 | -58.85726 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 12e6cbdd-7b05-35b2-8f90-8433b8ed44d2 | -11.8239 | -58.84295 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 2a8207bf-10e9-3ff7-831b-91b81fe9f69f | -11.82347 | -58.84634 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 1550c3be-50c8-3e7b-b4c3-fe41ff1d2e11 | -11.72106 | -59.28447 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| d4d75b51-f1b4-3238-84c2-8f1572185b9a | -11.72068 | -59.2876 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c05fa783-765b-398f-860d-e18a18e54bec | -11.71992 | -59.29375 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 31280c6d-ba72-365c-b9bd-084871fb65a4 | -11.71954 | -59.29683 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 3f33d891-109c-3330-a256-de1cc5d86b44 | -11.71914 | -59.28614 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 0e5a986a-5c05-335c-ab3b-60ec37b490cd | -11.71873 | -59.28924 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 96b2cc04-d8e6-3db9-80d3-38ae6e44921e | -11.71793 | -59.29537 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d76bde04-67da-301d-828d-067d765a3122 | -11.71667 | -59.27742 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| a873da9a-782d-3645-8829-df3af0dc09a8 | -11.71628 | -59.28059 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| cda4acf4-96cd-346d-97af-eecda706d88f | -11.71589 | -59.28373 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4fe2f4fc-f2e7-39eb-8efb-7474a172d7b3 | -11.71551 | -59.28685 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 178879d6-608b-3687-97c3-fdb2e40de02d | -11.71475 | -59.29306 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 5a19ddf2-afde-3785-b0a5-e697c1f3f864 | -11.71438 | -59.28227 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8330f4c5-4884-3a6b-9bf9-2ae0bf663a87 | -11.71397 | -59.2854 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 03e3d383-8e87-3466-b0eb-c5fbf7bc7613 | -11.03832 | -58.97657 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c537ce12-f54f-3836-8567-f12e4f35eac0 | -10.99734 | -59.00655 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| be433735-b1d4-34a5-ab97-9b2925021d60 | -10.99695 | -59.00973 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 59577721-c7fe-3209-99f6-2b9d68ed0811 | -10.99656 | -59.01292 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| fedf748a-6e87-3850-8585-e258f0d85880 | -10.99656 | -59.0093 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 28abf74a-8d3e-336d-90cd-690df12a1a39 | -10.99614 | -59.01248 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8fda3b96-f6dc-3eea-9e01-6d655c03e0d3 | -10.9909 | -59.0157 | 2024-10-12 05:48:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 0845ec4d-02f0-333e-a4ce-1aa760fc0770 | -12.33526 | -59.87394 | 2024-10-12 05:48:00 | NOAA-20 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| a20440de-f1d4-370a-82b1-b51d3d846452 | -12.33489 | -59.87691 | 2024-10-12 05:48:00 | NOAA-20 | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 10c46b76-d0f7-3678-ae3c-a6dc462dce06 | -13.76554 | -60.56889 | 2024-10-12 05:48:00 | NOAA-20 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| 9589f290-283c-39e8-abc9-5a6a10568ff5 | -13.74256 | -60.59396 | 2024-10-12 05:48:00 | NOAA-20 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| b07e42d8-1606-38e2-9af6-38491920ab62 | -13.74187 | -60.59945 | 2024-10-12 05:48:00 | NOAA-20 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 3ee3ff09-b329-3805-b645-70f187b9653b | -13.737 | -60.59882 | 2024-10-12 05:48:00 | NOAA-20 | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 14.5 |
-| 2c4339aa-ffca-3668-8e68-61362664074e | -9.26727 | -60.82039 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a3da1158-e287-37ef-8205-fb08b5ae64c1 | -9.26666 | -60.82495 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b92b29c3-411b-3658-a5c2-24a2e9f5850b | -9.265 | -60.82236 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| bf801999-6916-3b0e-abb8-3399d853421d | -9.26277 | -60.81977 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3b6e92b3-d230-3f09-b121-ebeb1e61c6e8 | -9.26216 | -60.82432 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 63804d74-e199-3761-8dd3-45635076af3e | -9.2605 | -60.82173 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| c0fc5c31-97c7-3098-a4a0-838993801879 | -9.20518 | -60.79082 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| dcbab1d4-b2a9-3d06-beca-430fd846d36b | -9.20455 | -60.79538 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| eea2eeef-a223-3c5f-b51c-593a8aeaa6d1 | -9.20393 | -60.79992 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3dd708f8-ba72-3620-81cc-d4f90411c037 | -9.20068 | -60.79019 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 10494009-4b9a-3204-baa7-5202ee81680a | -9.20005 | -60.79477 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9c011c2d-25df-3e0b-91fc-adb097d9c460 | -9.19515 | -60.69606 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| bd7d558c-cc21-39f7-bc89-36a81675c9fa | -9.18999 | -60.70006 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| a82fabb4-4da3-3661-90d1-5518fca9a88f | -9.18128 | -60.76411 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 6433f75c-39b4-3100-8abb-1415207958e1 | -9.17702 | -60.69354 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4f973bcd-e358-37e8-88c3-5d8313b92128 | -9.17677 | -60.76346 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 66b184fc-85a3-3d6e-82f2-1ad0632723a2 | -9.17536 | -60.69503 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 01085140-c8f4-3b9e-b3a3-dcb94fc7e188 | -9.17249 | -60.69287 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e76d8291-e7c1-3ee9-89a9-521ec0333d0c | -9.07974 | -60.58247 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 6b5547cf-9767-3e8a-b796-556cf2653acf | -9.0794 | -60.58141 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d9a29e81-cf18-3635-bb4d-0eeb1e0aaeb3 | -9.07616 | -60.57145 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 267b00e0-19f7-3d6b-ac88-f2f136287beb | -9.07517 | -60.58185 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 37c72379-eabd-3fed-aa8d-359d6108ee4c | -9.07484 | -60.58079 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 59bf1af5-3076-31ee-ad28-1b4112c5bdfa | -8.64589 | -60.74573 | 2024-10-12 05:48:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| dfa4a9a2-a652-3fd1-9209-8d39e2ebf002 | -8.64141 | -60.74509 | 2024-10-12 05:48:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 2a1fcee2-cbe5-3454-bfce-9dd5b11ccee2 | -9.27143 | -60.27371 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| ee113461-5e70-38cf-a0d6-3fcb6d6983e3 | -9.2355 | -60.36378 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9f2bd2df-e8b9-36aa-a203-ad01ef81cfd7 | -9.23484 | -60.36867 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 3f623014-f2b4-3dfc-918b-15c243b38628 | -9.23087 | -60.36308 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cdf7609c-bb28-369e-8db4-1551afc1275b | -9.23021 | -60.36798 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 23cfefe7-7af2-3c12-a40b-b96cdde46741 | -9.22963 | -59.7526 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2b348c5a-731f-3c84-88dd-96b80bbc52b7 | -9.22479 | -59.75194 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 386a8d93-fc4a-308c-b513-0d9327f5ccd6 | -9.21707 | -59.77275 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f0973fd0-47c4-3fde-8b92-3eaa83804f78 | -9.21224 | -59.7721 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0c7270ec-3d0b-30db-bf89-f843b317d2dd | -9.21153 | -59.77737 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 894e45bc-1bca-352a-b7a9-0ef35a7d7833 | -9.16138 | -60.39534 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 73058354-97f0-39f1-9b13-ebb7e5316abd | -9.15676 | -60.39465 | 2024-10-12 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 238514d5-6099-303c-8082-8c04e6633de4 | -10.7491 | -60.74594 | 2024-10-12 05:48:00 | NOAA-20 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b6f0ab50-b5e8-3866-82e9-95c26df8d97b | -15.94881 | -43.52575 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 71614189-f6e7-33f0-8d0d-72d2a14a2ef0 | -15.94791 | -43.5206 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 04ddf27c-e30b-3ff0-9031-709651532b49 | -15.94581 | -43.53164 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| d11e748b-7309-3caa-8419-3926d581357b | -15.93919 | -43.51696 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| 51a52d62-c920-35b6-8ac9-5e92a47713e2 | -15.9389 | -43.53822 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 5ae44c6b-3453-3254-a3e1-9093ede0e9d3 | -15.938 | -43.53312 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 795ce4bf-7c6a-3dae-9c80-0f59a5fadd82 | -15.9371 | -43.528 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 5aed6aad-0a7f-39bd-b851-760f7a70544f | -15.93588 | -43.47523 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 6b4408e3-6bfe-36e5-a31d-bdb74a8e8f4f | -15.92719 | -43.54042 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 7fc16d16-5608-3d84-932d-4eea5fedda17 | -15.92629 | -43.53531 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| bc8533aa-9787-3c0b-af82-628d25fd2b76 | -15.92329 | -43.54117 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 444937a2-45b7-3d88-8062-962a8fb4be7d | -15.92238 | -43.53605 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 816507af-ebe1-35d0-b475-eb78aeecb919 | -15.92147 | -43.53093 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| f446204a-254a-3c1b-84b9-5c48c7f96928 | -15.91848 | -43.5368 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| fec99478-0510-3d7a-a3e1-ed8ff84be6e4 | -15.83802 | -43.46955 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 540967f1-b5c0-3c7d-b858-14da3d62f1fa | -15.83711 | -43.46437 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| a89acab2-bf58-30ef-a007-4be00e30d7d6 | -15.83405 | -42.972 | 2024-10-25 16:50:00 | NOAA-21 | SERRANÓPOLIS DE MINAS | MINAS GERAIS | Brasil | 3166956 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 43220f2e-d591-3503-9f23-5bcdf21e8d8d | -15.83319 | -43.46513 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| d7ec6fa5-3694-3bfe-b62d-04a7c735820e | -15.83257 | -43.43847 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 01717d96-2b4a-3788-9127-2bab84394b3f | -15.83166 | -43.43329 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 73d1ca6b-e735-3c28-a38e-4b51bc5311ec | -15.82955 | -43.4444 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| b8153aac-e7ae-369c-9dc8-50e0a301a20c | -15.82864 | -43.43922 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 80d9b139-e76c-39be-a0a6-e1580fe5a7ce | -15.82681 | -43.42884 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 0ae8a03d-5ecc-34bc-b55d-5f03ff551049 | -15.8247 | -43.43996 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| e20050f1-9644-3f6c-9c7e-8bc40fb956a3 | -15.82077 | -43.44071 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| cb261459-f57e-3646-a31b-228d08ba3c86 | -15.81356 | -43.46891 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| 140a9a8c-e22d-39c0-9a9d-07d5323d7bf4 | -15.79042 | -43.61128 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| a74b79a0-a8c8-3a55-b8d7-cccbdc595f4a | -15.78955 | -43.6079 | 2024-10-25 16:50:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 10.9 |
+| 43738ed2-ad65-37d9-8ea3-69d49447af9b | -15.77937 | -43.80307 | 2024-10-25 16:50:00 | NOAA-21 | VARZELÂNDIA | MINAS GERAIS | Brasil | 3170909 | 31 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 1f572675-4917-3a50-99e3-9a9177a6c1b8 | -15.68012 | -43.02473 | 2024-10-25 16:50:00 | NOAA-21 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 3c4c81f3-2927-35f6-917b-1dc4b830c643 | -15.67977 | -43.02404 | 2024-10-25 16:50:00 | NOAA-21 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| 78bc0080-a2b0-3e48-ab1a-af8af9a9b6a4 | -9.3146 | -43.25735 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 23.9 |
+| 14d008ab-9af9-39f0-bb78-8956a1179575 | -9.28972 | -42.90522 | 2024-10-25 16:50:00 | NOAA-21 | VÁRZEA BRANCA | PIAUÍ | Brasil | 2211357 | 22 | 33 | nan | nan | nan | Caatinga | 21.6 |
+| ac3266b3-fbde-3dd6-8b33-125e07c644a7 | -9.26856 | -43.32886 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 21.9 |
+| f60128b8-35c9-3b8f-bc8c-83f6b7925b33 | -9.26779 | -43.3244 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 25.9 |
+| cca7e1f0-dc24-3cba-b93d-6a664eedb939 | -9.20292 | -43.33974 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| 50215c0e-f60f-32b3-86c2-6a40c655a55e | -9.20237 | -43.34104 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 14.9 |
+| 331c59f9-61eb-385c-9df3-9856f7bfebb9 | -9.20158 | -43.33657 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 16.2 |
+| cea6b9fe-1556-31d7-8922-78ab17611f45 | -9.19927 | -43.34507 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| 71c821a5-3c94-3c25-a59a-1d3c015664c9 | -9.19875 | -43.34631 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 14.9 |
+| 17b96db3-30ff-347a-8866-126c5de66aa0 | -9.19851 | -43.34061 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| 17ae1271-e489-306f-b122-b2ecf523cde7 | -9.19796 | -43.34188 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 14.9 |
+| 16dc254a-d9e8-3fb7-8ce4-0bf628c56d39 | -9.19486 | -43.34589 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 47.7 |
+| 370f913c-2e50-3f05-a431-0b33f41eb3c0 | -9.19013 | -43.26438 | 2024-10-25 16:50:00 | NOAA-21 | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
+| 5b9a7682-58bc-31fe-8af5-51f6a9a6e9aa | -9.14595 | -42.86603 | 2024-10-25 16:50:00 | NOAA-21 | BONFIM DO PIAUÍ | PIAUÍ | Brasil | 2201929 | 22 | 33 | nan | nan | nan | Caatinga | 28.2 |
+| 2082b0f9-a8d8-3a37-8def-fe859216dc7b | -9.06702 | -42.98056 | 2024-10-25 16:50:00 | NOAA-21 | SÃO BRAZ DO PIAUÍ | PIAUÍ | Brasil | 2209559 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| 1fac9696-1afc-39cd-85da-3799b0441f98 | -9.0662 | -42.9759 | 2024-10-25 16:50:00 | NOAA-21 | SÃO BRAZ DO PIAUÍ | PIAUÍ | Brasil | 2209559 | 22 | 33 | nan | nan | nan | Caatinga | 16.6 |
+| fea0b6c0-2a5f-347b-b8dc-a0ee2cc90efc | -9.75481 | -43.85718 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 59.3 |
+| 00f5877d-270f-301e-97ee-a7ed65257c9d | -9.63396 | -43.91219 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 11.1 |
+| 822fdaeb-a623-3ff1-a488-830df3c1617d | -9.63395 | -43.91231 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
+| 926f089a-f6f8-36d8-82a8-daf6fdef609e | -9.63331 | -43.90828 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| 67c9cb3c-ec04-3cc4-b8fd-a9e819ec9069 | -9.63327 | -43.90841 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 18.9 |
+| 1c4d7a7a-b824-333b-b475-3b190eab3bbf | -9.62909 | -43.90908 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| ace70c53-e91b-3241-a951-0e1743dfe8b9 | -9.62905 | -43.90919 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| e28cc187-4e2e-3021-8cf8-966c4ffcb4c9 | -10.22971 | -43.93757 | 2024-10-25 16:50:00 | NOAA-21 | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| f1d26b21-4a28-3787-9276-29861a757c20 | -9.99442 | -44.14383 | 2024-10-25 16:50:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 92ce7299-17e1-3cd1-ae46-ec5e89b32610 | -9.9924 | -44.14414 | 2024-10-25 16:50:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| c11f33ca-975e-365b-820c-b02a6b5e91b1 | -9.96626 | -43.95055 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| db444d06-2b6b-3d6a-947d-f084daa4aee3 | -9.96282 | -43.95135 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 24.9 |
+| 73107243-fc46-3776-aa5f-1fd9c9efca2f | -9.96213 | -43.94743 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 19.7 |
+| 9caaf98f-b33b-3a09-80e0-64187f28c8fd | -9.96208 | -43.95131 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| c027977c-8a5b-372f-bfab-3ef5b6443e9f | -9.83608 | -43.89991 | 2024-10-25 16:50:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| d699c6c0-eba6-3723-915d-7861c2dfdb5b | -10.23039 | -43.9415 | 2024-10-25 16:50:00 | NOAA-21 | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 308fef0d-a70a-32b4-a53e-eec7a691657c | -10.14503 | -44.0271 | 2024-10-25 16:50:00 | NOAA-21 | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 9642fb75-2b70-3040-b4ad-a829e0f923fc | -10.02412 | -44.13054 | 2024-10-25 16:50:00 | NOAA-21 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| efa17c5f-c72e-3488-9471-0f00de78cf66 | -9.9193 | -42.91224 | 2024-10-25 16:50:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 31.3 |
+| 3611a2e8-d458-3032-9237-2564b1bb58f4 | -9.65077 | -42.8347 | 2024-10-25 16:50:00 | NOAA-21 | CAMPO ALEGRE DE LOURDES | BAHIA | Brasil | 2905909 | 29 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| 88ab749d-dfee-3903-a854-20b99f72d8e9 | -9.65014 | -42.83668 | 2024-10-25 16:50:00 | NOAA-21 | CAMPO ALEGRE DE LOURDES | BAHIA | Brasil | 2905909 | 29 | 33 | nan | nan | nan | Caatinga | 10.6 |
+| 328ce852-ea0b-3433-a115-bf5bcd3f1fde | -10.28763 | -43.43923 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 13.2 |
+| e0425d96-5323-347a-a2f1-110f12a10656 | -10.16269 | -43.6265 | 2024-10-25 16:50:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 360f559c-4cb8-31d6-9d2a-d1561db8bb78 | -10.74572 | -43.35743 | 2024-10-25 16:50:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 11.0 |
+| 0fd06718-3005-3674-9aec-055cd808dbec | -10.62431 | -43.33599 | 2024-10-25 16:50:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 5.1 |
+| b2531fd1-19a6-3bf7-b678-67e04ea69c56 | -10.76765 | -43.65315 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| f1996d0e-1ceb-324f-b14b-3869905bc7a8 | -10.47883 | -43.64356 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 33.5 |
+| 44dc8667-d684-3fb9-b171-a2bebff2ddd9 | -10.44512 | -43.47712 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| c57de1bf-502d-3db5-a410-c67046d1ef02 | -10.43231 | -43.49509 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 54f6f694-95d4-335e-bbbb-368d832a71fa | -10.35725 | -43.47021 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 17c78ffd-0416-3e5a-9d39-f1e17897ea13 | -10.79321 | -44.02706 | 2024-10-25 16:50:00 | NOAA-21 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| ca36aa5d-c58a-31b7-8519-4197ef58c483 | -10.76977 | -44.20736 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 39.8 |
+| 99df4d79-51bc-3311-a141-9c933c84b515 | -10.76933 | -44.20423 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 4ecefa3c-6f64-30ef-a6a9-b333b872bf97 | -10.76912 | -44.20367 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| 9a241f55-b2ff-31eb-b258-73081956a634 | -10.7687 | -44.20051 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| f17c19cd-6774-31f6-ab22-8208f26706e7 | -10.76526 | -44.20496 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 09b45907-8af7-38b6-bb4f-f2e43817f951 | -10.76505 | -44.20439 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| bde096ed-1e96-38c1-aba9-f98e35267c98 | -10.71441 | -44.10347 | 2024-10-25 16:50:00 | NOAA-21 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 26.3 |
+| 69c57604-1f9a-3d27-8bfa-8972255a4d06 | -10.6775 | -44.25481 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 07ca3780-a066-3985-939a-72cc22cb34b6 | -10.54288 | -44.22477 | 2024-10-25 16:50:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 0ca607fd-23a2-387e-93b1-7159c52dc215 | -10.54226 | -44.22104 | 2024-10-25 16:50:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 3c9d456e-d62b-3b3c-9237-7aa2baf80c75 | -10.52251 | -44.1789 | 2024-10-25 16:50:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| d367750e-e34f-35a7-b602-f9f3896b47a2 | -10.51018 | -44.03115 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 882ed4a8-da38-3c5c-9ab4-1aa0b149d1b2 | -10.50927 | -44.0509 | 2024-10-25 16:50:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| e0b0a16a-bd6b-311c-bf33-b71586dab554 | -10.50515 | -44.05164 | 2024-10-25 16:50:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 0609c028-9363-3290-9b1f-7961ad9d44c3 | -10.48558 | -44.13567 | 2024-10-25 16:50:00 | NOAA-21 | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 64.4 |
+| 02b5d092-348b-3efb-8dee-6422a1d506b1 | -12.13752 | -44.36885 | 2024-10-25 16:50:00 | NOAA-21 | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 572e5bc4-687b-3fa3-bbd7-a38d0845bc5e | -12.13662 | -44.3637 | 2024-10-25 16:50:00 | NOAA-21 | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 1bba2ae6-e6ec-33eb-b0fe-214bfc77a800 | -12.03625 | -44.24767 | 2024-10-25 16:50:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| addbc8f1-5058-3579-9829-3c52e914658c | -11.99439 | -43.90762 | 2024-10-25 16:50:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 20.2 |
+| 05f6c333-9796-3780-b774-d89d44cf9f0b | -11.99033 | -43.90837 | 2024-10-25 16:50:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| ca670df2-00a2-3029-8980-fbdf57e54b5d | -11.56036 | -44.08393 | 2024-10-25 16:50:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| fa67b520-6e05-3dc9-8f59-b7de37a0fb22 | -11.53918 | -43.98587 | 2024-10-25 16:50:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 16.1 |
 
 
 [Clique aqui para ver as próximas entradas](README144.md)

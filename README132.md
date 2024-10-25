@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| abc2a735-bd59-3849-a9df-df1d4d352022 | -10.912 | -44.6816 | 2024-10-14 12:16:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 109.3 |
-| d7b2df7c-5f38-3a03-a75f-57698c722a1c | -11.245 | -44.1924 | 2024-10-14 12:16:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 102.8 |
-| 398f6c52-8d86-3e4d-afe7-f60bf40b8b46 | -10.349 | -46.6002 | 2024-10-14 12:26:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 65.9 |
-| 3bc24502-3a25-3e54-8611-0184af608fde | -10.8925 | -44.7074 | 2024-10-14 12:26:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| 1d4b3dfb-c7f1-398f-af09-fefba75d3aad | -10.912 | -44.6816 | 2024-10-14 12:26:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 101.4 |
-| 46795d06-622a-32aa-8fb4-860c4d44c2a0 | -10.9116 | -44.7048 | 2024-10-14 12:26:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 227.8 |
-| 4c915090-6c37-344c-98ca-7a4a318d1875 | -11.245 | -44.1924 | 2024-10-14 12:26:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 106.6 |
-| 22965780-6ab9-30fa-8cee-d1b8aa4082e7 | -11.4602 | -43.9263 | 2024-10-14 12:26:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 78.8 |
-| 36ae7adf-b13f-3123-a541-425fd4395ef0 | -11.4794 | -43.9234 | 2024-10-14 12:26:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 114.3 |
-| f73fd1c5-1cd8-3cc9-9519-faf05e4f8800 | -11.4597 | -43.9499 | 2024-10-14 12:26:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 118.5 |
-| ee587158-70ba-3d11-8055-382d948f3e11 | -9.9411 | -47.2949 | 2024-10-14 12:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 64.1 |
-| 58efae32-d395-3fbc-bc73-62be9684e65e | -9.9392 | -47.4281 | 2024-10-14 12:36:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| 08ef2a52-3463-3542-b832-2abeaceeece2 | -10.0622 | -44.2391 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 209.8 |
-| 86b74651-79af-3a44-84e9-d402cfbf5b6d | -10.0626 | -44.2158 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 97.5 |
-| ea0d75cb-6605-30f8-8fbd-cf4459816221 | -10.082 | -44.19 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 180.8 |
-| f3e41c96-3a7a-31e4-8f51-eaed7a24ffc1 | -10.0816 | -44.2133 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 316.9 |
-| bd37f613-5cfc-38df-8fa4-8f4099fcc337 | -10.0813 | -44.2366 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 113.3 |
-| 4210b0b9-b199-3af8-b527-125d6966fa2a | -10.0629 | -44.1925 | 2024-10-14 12:36:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 96.4 |
-| 7ed4822a-ca76-32c9-8780-08c743fd0a2e | -10.349 | -46.6002 | 2024-10-14 12:36:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.0 |
-| 99cc6807-b9cb-3618-aa64-543e69128616 | -10.3303 | -46.58 | 2024-10-14 12:36:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 351109a5-d75c-3f26-826f-a3300fccf365 | -10.9307 | -44.7021 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 379132ef-8c4b-3f01-878d-0e813b723cb0 | -10.8925 | -44.7074 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 99.3 |
-| 7fe9b5b3-a178-3a8c-b5aa-fe92195d9307 | -10.912 | -44.6816 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 97.2 |
-| a1c4ed9c-5fc2-3199-a3d0-e949e2f10155 | -10.9116 | -44.7048 | 2024-10-14 12:36:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 200.6 |
-| 854fe51d-74a8-31ad-99c6-bc3ca48b7fc8 | -13.3889 | -44.694 | 2024-10-14 12:36:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 83.2 |
-| 2682aeec-c577-3512-85ef-aa3a617a86c9 | -21.5414 | -48.0108 | 2024-10-14 12:37:05 | GOES-16 | GUATAPARÁ | SÃO PAULO | Brasil | 3518859 | 35 | 33 | nan | nan | nan | Cerrado | 140.5 |
-| 47b6d392-76b9-3c59-a35c-a07644df0806 | -9.7825 | -46.4651 | 2024-10-14 12:46:01 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 66.7 |
-| 6bf693b0-1995-3959-84ae-9bde1084a3fa | -9.9411 | -47.2949 | 2024-10-14 12:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 67.7 |
-| ee5cac78-1d02-306c-9856-030325c0e5a3 | -9.9392 | -47.4281 | 2024-10-14 12:46:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 131.6 |
-| 8c3adb2d-0a15-3f3c-9ae4-6ec8e703f3f5 | -10.8925 | -44.7074 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 85.1 |
-| e2105c42-dc00-3a0f-9d44-5adeea4381c6 | -10.9307 | -44.7021 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 98.6 |
-| 02874bb8-3483-33dc-92a2-4bd23a47ff3f | -10.912 | -44.6816 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| 8ed4b801-bc97-3959-805c-03ea07a243c5 | -10.9116 | -44.7048 | 2024-10-14 12:46:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 193.6 |
-| d3b02ff5-5bf8-3cb3-9904-a34b99aee5f9 | -11.4597 | -43.9499 | 2024-10-14 12:46:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
-| 8f2ae6d7-47e4-35c4-a9e1-dd26ce8835d7 | -10.0439 | -44.195 | 2024-10-14 12:56:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 89.5 |
-| 9cd757d8-7b5b-3b07-bdea-83ee4d9d7096 | -9.997 | -47.3551 | 2024-10-14 12:56:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 56.2 |
-| 1f478b19-5491-3766-acee-3408689d21de | -10.082 | -44.19 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 138.5 |
-| d8620387-5e3f-340a-9ee7-3a1cb54c4982 | -10.0629 | -44.1925 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 100.4 |
-| 92b11ef7-55cb-38aa-8823-f109c6297297 | -10.0626 | -44.2158 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 119.6 |
-| 1a7b5cfc-8caa-331d-a66f-533226a3734c | -10.0622 | -44.2391 | 2024-10-14 12:56:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 257.6 |
-| 972e7e27-22d7-396b-a5e5-68c4a8cfa5cf | -10.9112 | -44.7279 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 112.8 |
-| b4515504-f67e-30d5-8c77-f3358eb74d22 | -10.9116 | -44.7048 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 361.7 |
-| 88a7d05d-3030-3493-8439-b19004088839 | -10.9311 | -44.6789 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 84.2 |
-| 7ba23ce1-4fe1-3eef-b725-70558ac16f1e | -10.912 | -44.6816 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 124.2 |
-| d0badb62-a8c3-3d03-b2a3-aa296407af15 | -10.8925 | -44.7074 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 75.5 |
-| afce4f1a-1cb5-3b3c-8579-3e0c97545be7 | -10.9307 | -44.7021 | 2024-10-14 12:56:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 141.2 |
-| a278fbb5-de1e-3c9e-8d55-4a470409cdad | -11.4597 | -43.9499 | 2024-10-14 12:56:10 | GOES-16 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 76.1 |
-| 1d3bd963-9a6b-39b0-85f9-ef62d8e1e77c | -13.3889 | -44.694 | 2024-10-14 12:56:21 | GOES-16 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 5da7e727-5db4-345b-8200-f2706fd3d418 | -13.817 | -44.5961 | 2024-10-14 12:56:23 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 81.7 |
-| a04e5364-d177-32a9-9d0c-4fa6dd5adb46 | -17.93 | -57.38 | 2024-10-14 13:03:43 | MSG-03 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| bd31957d-6e92-3734-83c6-e2b0307b64f3 | -10.06 | -44.26 | 2024-10-14 13:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 2c768d19-7df9-3a7b-8823-13701faebe68 | -10.05 | -44.22 | 2024-10-14 13:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 676a7082-92bd-3234-95d6-e1e1f9ec516b | -10.08 | -44.22 | 2024-10-14 13:04:28 | MSG-03 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 51550a76-f75e-375d-af11-d7ea5ee1c515 | -10.04 | -47.33 | 2024-10-14 13:04:28 | MSG-03 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| eba3504c-cb16-39e1-b62d-3c73d042ce9c | -9.72 | -46.46 | 2024-10-14 13:04:30 | MSG-03 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1f8a3e81-c9aa-3bb8-b8b7-75085b9e55ac | -7.57 | -42.51 | 2024-10-14 13:04:41 | MSG-03 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 51d6f314-dfb3-3101-b2ec-811f54917b64 | -9.4888 | -45.8228 | 2024-10-14 13:05:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.7 |
-| 406f63d1-be77-3168-b9e4-fa8d1c2957d3 | -9.4885 | -45.8454 | 2024-10-14 13:05:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 76.4 |
-| 77e7ecba-5322-3e1a-8efd-f61d5748b709 | -9.707 | -46.4513 | 2024-10-14 13:06:01 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.0 |
-| 3ff0c84a-51d5-3b77-a449-1dfe1398d0c6 | -9.997 | -47.3551 | 2024-10-14 13:06:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 76.7 |
-| 94ca1c2d-c48f-34e2-b9e0-f77df7341b27 | -9.8504 | -47.0162 | 2024-10-14 13:06:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 61.4 |
-| 5544b573-2ccc-3882-af76-651ece64d59a | -10.0432 | -44.2416 | 2024-10-14 13:06:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 67.1 |
-| cd0e465b-c12b-37f5-81a1-6ab386ca6ea6 | -10.0439 | -44.195 | 2024-10-14 13:06:02 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 70.3 |
-| 681d5412-3a91-3cda-9ab0-79260225b0e3 | -9.8501 | -47.0385 | 2024-10-14 13:06:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 61.9 |
-| 47bbc63e-934e-32b7-926e-8ea60e70449a | -10.0629 | -44.1925 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 108.7 |
-| 0d7ae41b-73d7-3e8c-b3c1-1c1e604a8bcf | -10.0633 | -44.1692 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 71.6 |
-| 58718ca2-4519-35b5-b8d9-4ec7ace37291 | -10.082 | -44.19 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 122.6 |
-| 625401d7-493d-39e7-ba0a-083116ea6ce7 | -10.0626 | -44.2158 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| fac8636d-db7d-38a3-ba84-89b449ba552e | -10.0622 | -44.2391 | 2024-10-14 13:06:03 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 226.4 |
-| cf8ab8d6-14fe-30b2-bc34-477396f89ff9 | -10.349 | -46.6002 | 2024-10-14 13:06:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 116.4 |
-| bad4db1d-4aed-3f81-9821-59f79a0db3a6 | -10.3493 | -46.5777 | 2024-10-14 13:06:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 91.7 |
-| 9f058029-cf63-39ab-8af3-ac8a7eb809e0 | -10.6795 | -47.3419 | 2024-10-14 13:06:06 | GOES-16 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 67.1 |
-| e3dc988b-26b3-36d7-8e16-8f07c069ea37 | -10.912 | -44.6816 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 107.7 |
-| a6c9a6de-f717-356c-820c-626e1cd553fa | -10.8925 | -44.7074 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 71.0 |
-| 17998b5c-1434-3573-8ed5-1d1a2e4f68e8 | -10.9307 | -44.7021 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 82.2 |
-| 54ad9133-aeb5-359a-8527-568ba87e8e20 | -10.9116 | -44.7048 | 2024-10-14 13:06:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 291.8 |
-| 5076c528-9e2d-3e71-860a-87af832057da | -11.245 | -44.1924 | 2024-10-14 13:06:09 | GOES-16 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 99.5 |
-| 8ee2043c-232a-341e-a85a-85a699151cf9 | -11.2476 | -51.3283 | 2024-10-14 13:06:10 | GOES-16 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 94.6 |
-| 26a035fa-cf90-3007-85a8-4fc433a2b40c | -12.5962 | -44.7783 | 2024-10-14 13:06:17 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 140.5 |
-| af7c6c5e-71ce-3124-ba7f-34a48505809f | -12.6159 | -44.7519 | 2024-10-14 13:06:17 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 108.2 |
-| eebea84b-0305-3283-86d5-fbf62129e553 | -9.4699 | -45.8249 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 90.8 |
-| f422310d-5830-39dc-8c17-2bbb5aa2f88f | -9.4885 | -45.8454 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 68.8 |
-| cde39d43-01c4-30f4-8efe-a3abf3f70243 | -9.4696 | -45.8476 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 63.3 |
-| f4df00b6-f879-3351-8c83-9e18bf5bf0fd | -9.4175 | -45.5134 | 2024-10-14 13:15:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 72.2 |
-| 5ad320ed-52da-38a2-afb2-73feb937755d | -9.4702 | -45.8023 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 84.3 |
-| 2e2537d8-8d5d-36b5-95e5-487ec393812e | -9.4365 | -45.5112 | 2024-10-14 13:15:59 | GOES-16 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 79.6 |
-| 11ea10fe-f65b-3128-9c6e-1584758adc0e | -9.4888 | -45.8228 | 2024-10-14 13:15:59 | GOES-16 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.2 |
-| 857ec6f3-e5d9-3f52-a1c1-fb8a3f88bd67 | -9.5648 | -44.4873 | 2024-10-14 13:16:00 | GOES-16 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 53.5 |
-| b7fcb089-4cdb-349d-a798-09e8a2f8879b | -9.8504 | -47.0162 | 2024-10-14 13:16:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 64.0 |
-| b476904b-b942-3f0f-9641-53d9b9dbb5ba | -9.9222 | -47.297 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 71.9 |
-| acab97de-66d6-3abe-8b07-77a3482e9d52 | -9.9408 | -47.3171 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 159.6 |
-| c7d03fdc-a8e9-3d76-9764-2a09b7cb0cb5 | -9.8501 | -47.0385 | 2024-10-14 13:16:02 | GOES-16 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 68.9 |
-| 617af735-87e3-373e-b869-9693bf4d165b | -9.9411 | -47.2949 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 177.0 |
-| 28adfede-f6b9-3cc4-99e5-9b76dbead3d7 | -9.9414 | -47.2727 | 2024-10-14 13:16:02 | GOES-16 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 69.7 |
-| 7d693ffc-ffc0-38eb-af6a-0b6c5b006ab1 | -10.349 | -46.6002 | 2024-10-14 13:16:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 71.1 |
-| 04fae1b5-2f69-30b0-a49f-a013ad2d8b9d | -10.3493 | -46.5777 | 2024-10-14 13:16:04 | GOES-16 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 66.3 |
-| 6661d5ae-caea-3535-a1fe-30a4a59236cf | -10.4716 | -49.9624 | 2024-10-14 13:16:05 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 83.7 |
-| aed4e896-ac83-38bc-8b08-d12cc4032ec4 | -10.6795 | -47.3419 | 2024-10-14 13:16:06 | GOES-16 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
-| fe48d338-5c6e-30bf-9de1-f59a5e799cc3 | -10.9116 | -44.7048 | 2024-10-14 13:16:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 173.9 |
-| 21c2eb51-ab98-3b87-9da5-e56e6d04dce7 | -10.9311 | -44.6789 | 2024-10-14 13:16:07 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| fbd987bb-8037-30a6-86eb-e38100314d15 | -10.87077 | -47.80534 | 2024-10-25 16:50:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 1130460c-2b06-38ed-92d4-fa41c96178b2 | -10.87018 | -47.80163 | 2024-10-25 16:50:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 12313c4e-20ad-35aa-96d7-9380e5de6746 | -10.86679 | -47.80214 | 2024-10-25 16:50:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 065c1e2e-915c-333a-94fd-de275f872b52 | -10.8662 | -47.79846 | 2024-10-25 16:50:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 427b5cc1-3df7-3640-8782-e980cc99036d | -10.86339 | -47.80264 | 2024-10-25 16:50:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 1961f348-fd3a-335c-8324-f225fd29b9ef | -10.82027 | -47.6418 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| eca7fcf5-cbfc-30db-a05a-d3efc9b5e0c5 | -11.43957 | -48.47912 | 2024-10-25 16:50:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 48.0 |
+| 3a5c486b-b21c-3e64-b4d6-20486274bece | -11.43679 | -48.48322 | 2024-10-25 16:50:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 48.0 |
+| 99cbec5d-c432-3ff0-baa8-bab9c2edab85 | -11.43624 | -48.47966 | 2024-10-25 16:50:00 | NOAA-21 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 48.0 |
+| c79ffd3d-8474-38d3-9850-591eff828ef9 | -11.37372 | -47.99252 | 2024-10-25 16:50:00 | NOAA-21 | SANTA ROSA DO TOCANTINS | TOCANTINS | Brasil | 1718907 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| eb245af8-519a-32ce-bd7e-5e3869cebca1 | -12.17407 | -47.98286 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 61ef6ac7-c1f3-343e-8bf0-cc911ce94611 | -12.17015 | -47.97981 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 31c17561-e875-3540-bf79-5d187cd604ba | -12.14555 | -47.96884 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 6033631e-d725-356d-8d5b-00c5fa629032 | -12.14277 | -47.973 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 0e36f6a9-53ab-3a0c-ad49-641826f086ed | -12.1422 | -47.96939 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| b2131f15-6e63-3e0f-8342-1dab6e14ba92 | -12.14163 | -47.96579 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 3025bf04-73a3-3d8f-a482-c5ee2b33cebf | -12.13885 | -47.96994 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 651bb35a-19a3-3c97-a997-a1149603300d | -12.13828 | -47.96633 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| ed82351d-9391-3e54-908e-95a9fb6b751e | -11.47774 | -47.85159 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 344d3ab6-3eb8-35be-bfb4-7df7e4d310f8 | -11.42894 | -47.76175 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 1c26817d-9d66-3ea6-8397-79352ddfbbce | -11.33573 | -47.75128 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 20.4 |
+| b59eed73-e6e6-35e8-8f23-a329ef65b444 | -11.3308 | -47.78594 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| f5df6ed5-5186-3c53-bcde-03ca406720d3 | -11.29513 | -47.75793 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 57.4 |
+| 061a9ebc-ebbe-3e03-b40d-ce39904c7f98 | -11.29395 | -47.7505 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 20.6 |
+| fb55f706-2752-3b18-aacc-51ced5b7a822 | -11.29175 | -47.7585 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| cca91bd4-73ac-33d9-b9c2-c26a7248e883 | -11.29116 | -47.75476 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 9b60fedf-123f-3fc3-a2fa-370f16840977 | -11.17361 | -47.72149 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| 7cff8822-f629-3b04-815e-c2f09b2bf0af | -16.31546 | -49.53886 | 2024-10-25 16:50:00 | NOAA-21 | INHUMAS | GOIÁS | Brasil | 5210000 | 52 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| eb0cc109-11d6-3cd9-95eb-ec9548176dfc | -16.29848 | -49.46971 | 2024-10-25 16:50:00 | NOAA-21 | INHUMAS | GOIÁS | Brasil | 5210000 | 52 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 3e0aac4a-ce75-363c-b426-ba5f8beb190f | -16.28456 | -48.91551 | 2024-10-25 16:50:00 | NOAA-21 | ANÁPOLIS | GOIÁS | Brasil | 5201108 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 79f4f731-6099-3c57-842d-24c7178680e6 | -18.31 | -56.17589 | 2024-10-25 16:50:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 24.2 |
+| f9afb21b-3de0-3a80-b349-d6e221280c46 | -10.84628 | -49.54585 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 32bcb2d8-3a5b-30ce-aef6-b8a0a0dfe75a | -10.84574 | -49.54235 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 29afda87-7fbb-3380-884c-07a318ca5e1a | -10.8435 | -49.54986 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 041bbf6b-84ee-31d6-bb42-56bc37cf5e1a | -10.84297 | -49.54636 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 86aaabd5-c031-3280-b14a-6ddebda31dd9 | -10.84243 | -49.54287 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| ebed27e5-97ae-3eea-8f85-e62276cfe19b | -10.8402 | -49.55038 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| d842e3e7-1792-369f-901f-108ee3d1fa63 | -10.83966 | -49.54688 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| e3eaed6d-e5ea-39a7-b0a4-8cc323773b32 | -10.83913 | -49.54338 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| f0664295-45cb-350b-8a93-8d82c0e7f3a0 | -10.75799 | -49.14778 | 2024-10-25 16:50:00 | NOAA-21 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 28.4 |
+| ed4b97c5-e85b-3f2b-b3a6-fd735b03e7a4 | -10.68454 | -49.53191 | 2024-10-25 16:50:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| ef194b52-0e8f-3434-baef-5a4682087e79 | -10.10184 | -49.10358 | 2024-10-25 16:50:00 | NOAA-21 | MONTE SANTO DO TOCANTINS | TOCANTINS | Brasil | 1713700 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 20a9504b-88fc-3d43-91d2-e4b77a2da388 | -9.98435 | -49.3767 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DE AREIA | TOCANTINS | Brasil | 1704600 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| f944f416-f422-33a3-86f5-15073a67b943 | -9.88908 | -49.11279 | 2024-10-25 16:50:00 | NOAA-21 | DIVINÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1707108 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| d9dac1b3-bcd3-3db9-a8c0-2545e3311d33 | -9.78737 | -49.31258 | 2024-10-25 16:50:00 | NOAA-21 | DIVINÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1707108 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 580149e1-1a50-3597-9017-bb8c3bf4ca01 | -9.88224 | -49.90837 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| a77c9df7-a184-3383-84ec-b5e09677e4cc | -9.88171 | -49.90488 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 36e89bcb-42b7-3349-a042-f90a7144008d | -9.88 | -49.91586 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| d837f925-6feb-33d2-bfdb-bd314f60df8d | -9.87947 | -49.91238 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| a3b4fdef-3f90-3054-a24c-054b132cd310 | -9.8784 | -49.9054 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| f1236df3-ce94-3b4c-adcd-ccf140fc5731 | -9.87787 | -49.90191 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| bd87528f-f393-3079-8723-7f8bcf5d4fa3 | -9.87509 | -49.90591 | 2024-10-25 16:50:00 | NOAA-21 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| ddfb2501-e849-3b17-8579-88d71f9b89de | -9.868 | -49.99274 | 2024-10-25 16:50:00 | NOAA-21 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| e17184ac-bc45-329b-b629-e3cde649e768 | -11.06345 | -49.63218 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| f30dabce-8c9f-3ed5-9c4d-87429993e370 | -11.06291 | -49.62868 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| fa4ba21f-4f99-3362-9cc8-5c9a2348c48a | -11.06014 | -49.6327 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 3c0a2d52-5aa2-3b62-ae3c-3ddda1153b26 | -11.05961 | -49.6292 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 3430ec39-80b8-3bff-b548-2a45ac8d595b | -10.97838 | -49.2979 | 2024-10-25 16:50:00 | NOAA-21 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 8edb978f-89cc-3baf-88e8-a080ebb9458b | -12.4758 | -49.9192 | 2024-10-25 16:50:00 | NOAA-21 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 3d1e2d60-69ee-313d-8950-139e0a8c836d | -12.30546 | -50.27982 | 2024-10-25 16:50:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| f93a19aa-aad8-3f61-bde1-1ba981562a95 | -16.49665 | -51.27607 | 2024-10-25 16:50:00 | NOAA-21 | IVOLÂNDIA | GOIÁS | Brasil | 5211602 | 52 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| c2b981ec-370e-3ef0-b375-9c66f639b174 | -10.73989 | -51.75416 | 2024-10-25 16:50:00 | NOAA-21 | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 859d9a61-5905-38fb-89a1-19ca1430d195 | -10.73932 | -51.75032 | 2024-10-25 16:50:00 | NOAA-21 | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Amazônia | 18.0 |
+| 74353c7e-dd54-3b74-8be1-8a07a38adc26 | -10.35293 | -51.20227 | 2024-10-25 16:50:00 | NOAA-21 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| aa8c745c-02e3-3254-be39-b66d19527d18 | -10.10002 | -51.12566 | 2024-10-25 16:50:00 | NOAA-21 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| befca218-8442-32ab-b6a6-29a6d6cd3ea2 | -11.55488 | -51.39165 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 72a98cba-0ebc-3a5c-bf81-818f07219659 | -11.55432 | -51.38786 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| eec9e6bd-ff41-3c9f-a08e-15020404d787 | -11.49894 | -51.46613 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 24.3 |
+| 025b455d-90fe-3047-8fc0-ad69c807187a | -11.37202 | -51.29172 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 7d6bcd70-08ec-31a2-a66f-6cbce32dda40 | -11.02355 | -51.49387 | 2024-10-25 16:50:00 | NOAA-21 | PORTO ALEGRE DO NORTE | MATO GROSSO | Brasil | 5106778 | 51 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| 6d35a13a-9afc-34f3-9f8d-785db254c801 | -12.37658 | -51.09848 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| 706b7db3-32d6-30c5-b750-1530d62bf407 | -12.28193 | -51.02762 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 0855b35a-f3db-3c68-878d-491a5850f801 | -12.22707 | -51.08204 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| ebbdaf29-20be-328e-bbb2-248cf40a29f4 | -12.22421 | -51.08632 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0ebbfc7e-7157-3231-b465-079136f285a3 | -12.22366 | -51.08255 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 300c6841-d1a3-34af-800a-7a7253bbb019 | -12.21737 | -51.08735 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| ce78b73b-df16-35b0-85e8-3fa7e0fc06ab | -12.18619 | -51.0651 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| aad3e878-d9ef-3987-a0f4-e8d792de337b | -12.18202 | -51.0621 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| b7ecc4aa-f31d-3d92-b438-41113dc18324 | -12.17805 | -51.05886 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 8669daec-cda1-329a-8302-ad28bc2f236c | -12.17463 | -51.05937 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 08df4e88-bcf1-34d9-93a5-d1cf8cae090a | -12.17408 | -51.05561 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 04b847e3-c188-377e-b4a4-9a1b4c7b3894 | -12.17185 | -51.0406 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 7566c92e-3f33-3ff5-b5f6-453f631a0373 | -12.17122 | -51.05989 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| cc4f9e42-f0db-3c1e-a298-92c6c37f7b8e | -12.169 | -51.04486 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 3619e9a4-9d2d-3e43-9f14-eff0c73ccb5f | -12.1678 | -51.0604 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 6814d894-244d-3814-b1ff-368da9d0bc0f | -12.16725 | -51.05664 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 88e7e0dd-a350-3a83-a55b-e44d58ab9708 | -12.16669 | -51.05289 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 31e04c39-eab6-3335-a7cf-dd440afeba59 | -12.16384 | -51.05716 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 1a2a62b5-84cb-33bc-a792-d2004a421a9c | -12.1452 | -51.02544 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| a3b9017c-8b97-3de3-885d-3ef2515e367d | -12.14124 | -51.02221 | 2024-10-25 16:50:00 | NOAA-21 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| f8f9647f-f511-3116-a2cb-5a60c923348a | -15.52834 | -52.66755 | 2024-10-25 16:50:00 | NOAA-21 | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 167e7974-8610-3ccd-b8f1-7a394d7cdb93 | -14.31546 | -53.98546 | 2024-10-25 16:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 7179f7d0-8bae-37a4-8855-f79501118336 | -14.10196 | -54.28366 | 2024-10-25 16:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 4950c240-8933-358f-9139-6d4be6188e68 | -16.07993 | -53.75002 | 2024-10-25 16:50:00 | NOAA-21 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| a2740e2e-5f64-3a37-bcbe-823e590aa93c | -15.72753 | -53.37207 | 2024-10-25 16:50:00 | NOAA-21 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 478a93c8-37d9-3652-961c-0a91eae39e7f | -16.77648 | -53.62799 | 2024-10-25 16:50:00 | NOAA-21 | ALTO GARÇAS | MATO GROSSO | Brasil | 5100409 | 51 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 8c5fc744-2907-36a0-995a-0426ffaf9ba3 | -10.84108 | -54.09417 | 2024-10-25 16:50:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 11.9 |
+| f817bf0c-e6aa-3301-b467-321a8b076359 | -10.83717 | -54.09475 | 2024-10-25 16:50:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 12.7 |
+| 628c27fa-fc5a-32ae-a2da-55e3b3ae2bd1 | -10.79694 | -53.86386 | 2024-10-25 16:50:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 166.3 |
+| 3d562dc6-830b-3a27-9afe-69544715169b | -10.79625 | -53.85897 | 2024-10-25 16:50:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 49.2 |
 
 
 [Clique aqui para ver as próximas entradas](README133.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e954c6f1-630e-30df-9fb7-9bd933bd148a | -12.90722 | -62.53022 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 31b7fa7b-f2e1-3426-95f4-717ccae22950 | -12.9023 | -62.53465 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c633794e-e8fd-3239-b1de-ce7b92d168bd | -12.89825 | -62.533 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 06fe1dd5-889f-3045-b4b4-ed682cdb73d9 | -12.89808 | -62.53406 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4e8a910c-f6b8-3971-b3cd-fbb312fe5084 | -12.76504 | -62.27327 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 58a0ef84-3738-3376-aae1-db78ba9603e1 | -12.76021 | -62.2768 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 3c7513bd-10be-35df-a9f2-fe52db588ab9 | -12.75966 | -62.28092 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 0dc33afd-25ce-35d6-a7aa-6bbaee5710f7 | -12.75911 | -62.28505 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| fdf5ed4e-3697-31f0-9864-3e6db73053c2 | -12.75537 | -62.28036 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a8a4a34c-c34c-3365-9ba6-ff88b6d583b3 | -12.73452 | -62.23969 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d39e7f39-bf75-3bd3-88bb-16a11403398d | -12.73398 | -62.24379 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 35d7430a-05a4-3f2c-99fa-2e4a05d75571 | -12.7329 | -62.25204 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b3dab372-b0ac-3a85-8dbd-ddad420fcd9f | -12.72969 | -62.24318 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f6b499c9-3602-3a7b-aa88-930e76b2f538 | -12.72915 | -62.2473 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 32efdadb-fd05-3fd3-8368-e497ad99e2e1 | -12.72861 | -62.25146 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| cc5db5b9-7125-32d6-b627-e72b9db4f2cd | -12.9797 | -62.79781 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 56c07a4a-ca1e-35bf-a504-aab3e6892f95 | -12.97241 | -62.78895 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 5181b9c4-3cc6-3e84-9fad-5b48f0ecaee5 | -12.96775 | -62.7922 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6b3d6ec2-e0d9-3409-8fa6-49e227d82e1f | -12.88464 | -62.79743 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 05edd8e5-08b7-3c0b-9893-80d36ec87793 | -12.88413 | -62.80125 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 73fa3360-2236-3a8a-9520-4b225fe25c8d | -12.84319 | -62.80786 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| e2edce68-dcc0-3f18-84f1-be913ce96fe3 | -12.82082 | -62.90891 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 51c74291-1466-361d-a8f5-8ceb4662aecd | -12.74021 | -63.04125 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d585de74-24c3-304b-8584-3e15bec8cc9f | -12.70006 | -62.97157 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8f249844-443c-333b-8b18-fad893c1fb57 | -12.50613 | -63.26874 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 2acae050-9ec6-33cf-b85e-c6752496ba87 | -12.48386 | -63.00531 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6a2c7e00-91ae-3aff-a740-d2c35620d0ac | -12.47421 | -63.01506 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 01f645ec-16ec-3214-b67a-60f3d17b5af2 | -12.47065 | -63.01084 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 9405fdfe-59f9-314f-9b4f-125915d3802c | -12.46708 | -63.00663 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| a131962b-27df-34dc-b02c-e760ef436423 | -12.39957 | -63.01569 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ba2472e7-c904-30d2-9fbc-26d8d55501f3 | -12.377 | -62.96906 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a85354b9-e2c7-3b62-b1f1-25094c6152c1 | -12.82441 | -62.91326 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 39ad46cb-e2d6-3ae7-932a-485ba59ba211 | -12.82073 | -63.00004 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 0081a454-8e32-3cb3-8b94-d7ec9bedd9e9 | -12.73614 | -63.04066 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d6bb96a5-e25f-3fec-9361-11167f4d64ee | -12.71581 | -63.03776 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 5c76f3d6-cfad-374c-bc1c-7a576b6d75a1 | -12.48436 | -63.00166 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cd46fbf4-d2a2-312e-b89a-21a9f26d1b72 | -12.48029 | -63.0011 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 69ef28b9-a25c-3336-ab69-0d29af732480 | -12.47979 | -63.00473 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 0213bf79-dc4a-3151-ac54-45b92f5c6f79 | -12.47928 | -63.00836 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2e17c74a-150e-352b-824c-e5797076ff61 | -12.47572 | -63.00415 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 88cd85ea-2222-38b1-b90c-bd6c510f6b89 | -12.47522 | -63.00779 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c78ca47f-0169-3f1b-97ec-5c285719e251 | -12.47471 | -63.01141 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 7651bf34-821d-34b6-8a8b-2fa57381bd40 | -12.47115 | -63.00721 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| aed96ed3-f7b1-35d6-bc77-0767d0b1a1b6 | -12.47014 | -63.01448 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dd45c4d5-98c9-380a-a409-f7fc38b29904 | -12.46658 | -63.01027 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c53da3fd-14e7-33c4-a214-cd417e4c1e21 | -12.46045 | -62.99453 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 4e356389-5ae1-3e87-9238-a5231ec5c418 | -12.45995 | -62.99818 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 314b08e0-77f8-37d6-9666-0966d715c82f | -12.45945 | -63.00183 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 4a8e4ac2-8231-3667-919a-783ab9039b5d | -12.45588 | -62.99762 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f58f59c5-6f4a-3808-93f8-d5b19e00558e | -12.37649 | -62.97273 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 88d53085-ba3a-32d5-93ed-f0df5d605dba | -12.99254 | -62.73278 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 79865768-ea54-3657-81c6-5fe470754c79 | -12.99152 | -62.74053 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 31846f85-4b4f-3dca-9d29-57ae55dd8c9e | -12.98888 | -62.72831 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| a0c22488-9fdf-3dc8-870e-83990e6ecfe5 | -12.98837 | -62.73219 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 56d71405-4d0b-3284-8aae-b8a5cad4f5d3 | -12.98105 | -62.72324 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 1653ff71-acb2-3d48-8584-8d720356a0dc | -12.97989 | -62.72054 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 24866867-350e-37d8-85cb-c0de6efd1b41 | -12.97936 | -62.72442 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| ffa2ee42-807b-3d70-8bba-054f0f6e2c41 | -12.97687 | -62.72266 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 1bcc3b51-7a39-3cc4-b701-f5f62d491463 | -12.97572 | -62.71997 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1129742e-2bdc-3dcb-b416-03a3dda98371 | -12.97555 | -62.79722 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bdea5479-a75e-34e9-a5bc-eea889c3c5c4 | -12.97504 | -62.80105 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b654ac46-eb43-392e-866e-cd5c0d9071b6 | -12.97335 | -62.79818 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c3de7c4f-df04-3b09-a4aa-b54173acb9b5 | -12.9719 | -62.79279 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7e30e70e-c425-3639-803f-9f6ad527ddbf | -12.97139 | -62.79663 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4206916d-ba37-31eb-847e-5a372633a197 | -12.97089 | -62.80046 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 21a5c443-12fa-34a7-876f-7934caa206aa | -12.97026 | -62.78994 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| ce4eb885-811b-380a-8522-ddc828e45cb4 | -12.96973 | -62.79377 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b57a27bd-bcce-3a1b-8023-451cfeaab93e | -12.96919 | -62.79759 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9438c2ee-2bf1-3491-8502-9795b46d7a38 | -12.96904 | -62.51852 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 36c8d5fe-e7c4-3b77-9af3-24e96abed116 | -12.94736 | -62.51957 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 1c8d2a25-0d3d-3798-96a6-ab4675994af6 | -12.94683 | -62.52357 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ac00300a-460f-36c0-9a62-5fe3b8ad2a5e | -12.94669 | -62.62032 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| dd715ec4-09c5-3ff6-9d96-66d3fe24b9bd | -12.94314 | -62.51897 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9b3a4725-6531-3df5-86f2-cfd99ae6ba3c | -12.93189 | -62.72963 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 25e014a7-17db-3bb7-afa1-b15465a71a40 | -12.92772 | -62.72903 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 0f4c78ad-acb3-394a-bbea-2d3e2246fd81 | -12.92668 | -62.73676 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 5105b70f-7fe8-3081-a5b5-a5bcc68b950f | -12.92199 | -62.74002 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c5f3fce6-c8cf-3aaf-b01a-747ee6a20808 | -12.91196 | -62.52682 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b5d5b4ff-ecf3-3175-b350-5fadd009279f | -12.90247 | -62.53359 | 2024-10-12 05:48:00 | NOAA-20 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a651a136-5126-3b5b-a79f-6936564b761b | -7.83916 | -63.5937 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ea6a5988-5fc7-3283-b59b-4433ccc74d9e | -7.83612 | -63.58878 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| cc326518-926a-3490-ad91-7415a643b7af | -7.83547 | -63.59316 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ea060c84-fd20-35b8-9471-c418466cabce | -7.83243 | -63.58823 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c796317b-9a56-3402-a9a6-aad8a12256b1 | -8.8148 | -63.00828 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 49ae4c8b-093e-312a-a507-3f645fd9df2c | -8.81217 | -63.17747 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d22215f7-5217-3954-a814-c56558ee42a5 | -8.80833 | -63.17693 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 808b71c7-1c47-3330-a990-bb7d7d826219 | -8.80605 | -63.17397 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 1222682d-0c1c-36dc-bb49-7edd834cb4b9 | -8.80534 | -63.17874 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 110dd151-2480-3fa4-b701-98099f270f2e | -8.80373 | -63.11019 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 12c0b217-b12a-3956-8e4e-2828a6dbdedc | -8.77162 | -63.22205 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c7c48b6e-e1a0-30a8-8aa3-e00508b25065 | -8.76781 | -63.22149 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b4172ab3-2018-382b-9782-363cb30ea100 | -8.76712 | -63.22622 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7a405d49-b7c1-3f86-85ae-cf00b83cb6d6 | -8.68976 | -63.09696 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5eae5cdf-3248-3e8c-bd17-71f282b7134e | -8.68592 | -63.0964 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 604066c2-b1fd-30d6-b619-911f1ea5c462 | -8.68365 | -62.86782 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d2f56750-4903-3096-9f50-6cdf0335b618 | -8.68294 | -62.87276 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d23174fb-6b30-3a77-9e77-7591aa74c26e | -8.67824 | -63.09528 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| f6f864cc-34c6-3ff5-8590-cd3bb037034d | -8.6744 | -63.09471 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 956a6c85-8d72-3a18-bff0-da3dc1b24624 | -8.67069 | -63.49107 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fd99d42e-b5b4-3ab1-ab34-896756a29f87 | -8.65774 | -63.26143 | 2024-10-12 05:48:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| abf1f491-3973-331d-a288-e39994d0ff86 | -10.3195 | -47.42856 | 2024-10-25 16:50:00 | NOAA-21 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 6a23380a-51f5-306a-9b39-71d168cd2880 | -10.31442 | -47.44116 | 2024-10-25 16:50:00 | NOAA-21 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 187a48e6-1582-34c3-80f3-140b7c2cfca9 | -10.31321 | -47.43351 | 2024-10-25 16:50:00 | NOAA-21 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| 19214c98-009e-39f4-83b2-915cb6296405 | -10.28687 | -46.58721 | 2024-10-25 16:50:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| caeb79e6-9011-3561-9a09-35ec927b71ed | -10.27365 | -46.75443 | 2024-10-25 16:50:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 19cfdf03-1c24-39fd-93f9-f74046a42f81 | -10.27007 | -46.75477 | 2024-10-25 16:50:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 0c42c636-2e49-3285-ac06-123cdb490122 | -10.14092 | -46.60705 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 18.3 |
+| fdba8817-21b0-3b06-bb2f-670601504dd4 | -10.79535 | -46.50263 | 2024-10-25 16:50:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| 4fad281c-82ad-3d2b-8f20-02b93b5841f8 | -10.78601 | -46.51279 | 2024-10-25 16:50:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| e338205a-abc5-3849-9672-26c3e836cbfd | -10.78534 | -46.50865 | 2024-10-25 16:50:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 723c34c7-26f1-31c8-9a97-af81e8661dc3 | -10.67661 | -47.42501 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 155ccfdc-3637-36ec-bc0f-bf5f701cdf36 | -10.65813 | -47.50614 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 8442dd4f-2c2a-357a-923e-bcf70d143656 | -12.32229 | -46.45489 | 2024-10-25 16:50:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| b6571d8e-2e26-37e6-9ae1-5bfae59a0fd2 | -12.31878 | -46.45551 | 2024-10-25 16:50:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 6f33d84e-9355-35be-9a51-9922505c106e | -12.20429 | -46.9859 | 2024-10-25 16:50:00 | NOAA-21 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 91d7dc10-9066-35f9-b075-a3d2fa3688cb | -12.1966 | -47.13633 | 2024-10-25 16:50:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| 0a07ced0-2ddf-3a23-8cf5-4c4ab0b040d6 | -12.19599 | -47.13253 | 2024-10-25 16:50:00 | NOAA-21 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| 10510b92-f224-30d2-8fda-18e9ac8aa9e4 | -12.16865 | -46.9844 | 2024-10-25 16:50:00 | NOAA-21 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 6e3e4df5-1a38-3117-8364-40abc5efe098 | -12.0423 | -46.63184 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 3a53b647-62f8-38e8-8c24-370f6697965c | -11.96223 | -47.60572 | 2024-10-25 16:50:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| cb5acf0b-aeab-39e7-8fe9-f25960e13aaa | -11.94863 | -46.79276 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 11368aba-8e3a-350b-8eb4-309c01b878db | -11.92801 | -46.64212 | 2024-10-25 16:50:00 | NOAA-21 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 547a3392-dcb0-3be9-bc6d-906115f2014c | -11.90304 | -46.77612 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 28.7 |
+| 2ec68745-b7f2-3de4-86b9-052a1ed477d9 | -11.87997 | -46.78823 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| f34aa086-9d49-30a8-a6fd-1fa907669b9e | -11.87931 | -46.78424 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 8a36a198-9f3a-3ae0-8e4b-6664d26bd64d | -11.87813 | -47.71799 | 2024-10-25 16:50:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| d8355e78-36e0-3041-8889-12f3a4e0d777 | -11.87476 | -47.71856 | 2024-10-25 16:50:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 674fd403-a11a-32ab-a41e-f5b9f8a0afaf | -11.87418 | -47.7149 | 2024-10-25 16:50:00 | NOAA-21 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 16.5 |
+| fdbdcc4d-4c03-39de-91f4-48e8b43e7014 | -11.64866 | -47.35495 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 6efcf648-dd0a-3ceb-87f9-367b760802e8 | -11.6484 | -46.83565 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| dfd08749-ec51-3a23-b763-176f311a3bb7 | -11.59688 | -46.7703 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| a15b56fb-5a29-3eb7-889f-e8960dfc6c35 | -11.58868 | -47.15854 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 32686e85-3949-3e97-bab5-4a84702ef80f | -11.56602 | -47.74339 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| c104241a-37ba-3e2d-95a6-96912f639e88 | -11.56544 | -47.73972 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 7cd85e90-7fee-3d21-bfd9-138a3a298059 | -11.49324 | -47.24096 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 1cb6c6ce-3fc6-35e8-b534-bac6608e6748 | -11.49263 | -47.23717 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 86177cfe-3f83-3899-b213-2ee5f0988f1d | -11.45581 | -46.90248 | 2024-10-25 16:50:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| feea616e-ab9f-3768-914b-316c02ee9723 | -11.43482 | -47.68915 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 2aa0f2a3-5f99-3483-938b-9130391953da | -11.42864 | -47.69405 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 20cd4f57-4a73-3db6-a02d-a557c0dc4e7e | -11.42688 | -47.68296 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 15b69cee-930b-3241-af94-17e247214663 | -11.38752 | -47.71951 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 819f7197-798b-39e5-b21a-4e44329876da | -11.38414 | -47.7201 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 66c32cdb-24ad-33a7-9841-47f608a1e918 | -11.37959 | -47.71335 | 2024-10-25 16:50:00 | NOAA-21 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 08a5bc74-0f3d-33c0-9867-f8edf296ce6c | -11.36658 | -46.9577 | 2024-10-25 16:50:00 | NOAA-21 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 621191f1-c799-3b62-b0b2-8a9c30f30b5b | -11.35805 | -47.22746 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 0d65abba-ee1d-35a4-b6f1-ff817d48f9c2 | -11.21335 | -47.50857 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 3a23850d-519b-3974-b088-018cd7ebccd9 | -11.20994 | -47.50912 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 6bf0b22c-4782-3ac3-b1b9-04c7c9a7824a | -11.1981 | -47.56846 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| ecd867ff-bdf4-3ac9-8742-e9d459b81001 | -11.03843 | -47.57876 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| b86e8860-e0c6-32f3-b274-ea2a5dec6a8c | -11.03783 | -47.57503 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 79f3e459-fc8f-3c7b-bb49-151c09337cbb | -11.03038 | -47.30878 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 178bd60f-9b9d-3e14-ab4f-3e4f9dc219c5 | -11.02694 | -47.30934 | 2024-10-25 16:50:00 | NOAA-21 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 441f4753-3da4-30c4-86e2-2081c272ff11 | -11.00795 | -47.60673 | 2024-10-25 16:50:00 | NOAA-21 | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 7d33102a-3252-30a9-abca-b4e5f5c74783 | -10.99613 | -47.60108 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| c9ce89f2-76cd-3b9b-9ff6-87b3831cf133 | -10.99272 | -47.60165 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| b5eef461-669d-3cc8-a1b2-5ab680c4b080 | -10.98671 | -47.25704 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 75f615d9-4bbf-3d22-b298-9b0ac2abebde | -10.90511 | -47.46985 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| aac71dde-43d9-3024-9441-76d0b68b93ac | -10.85968 | -47.42681 | 2024-10-25 16:50:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 13f35a27-eb1a-3df8-9b48-dbc764dc0e7d | -13.41408 | -46.69348 | 2024-10-25 16:50:00 | NOAA-21 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 184d26a0-41d9-39ea-a85c-cbd0dd493691 | -12.53152 | -46.82045 | 2024-10-25 16:50:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| fd5610c0-775b-3c56-9d94-62c5a27db9d7 | -12.53089 | -46.81659 | 2024-10-25 16:50:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 3a3ec1cb-ec80-3720-98b3-852762a90e0c | -12.5287 | -46.8249 | 2024-10-25 16:50:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 5631b3e2-122e-3081-81ca-062ec4c777f7 | -12.52807 | -46.82104 | 2024-10-25 16:50:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 04161da3-cb05-3b31-8e6e-b441c3c17b56 | -12.51706 | -46.81889 | 2024-10-25 16:50:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 8a41b3e3-631d-3bfe-b61d-697473a83296 | -12.47937 | -46.43711 | 2024-10-25 16:50:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 5f0b5758-ee47-3e81-9d81-7f6696bfed22 | -12.41418 | -46.43979 | 2024-10-25 16:50:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 55b726e6-40f1-3ec8-bb2f-a8cdb23940c8 | -12.41067 | -46.44042 | 2024-10-25 16:50:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 7422f81b-6914-38e7-a56e-d56dcee4759b | -12.39711 | -47.90836 | 2024-10-25 16:50:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 36434291-bf19-3c41-bbd4-d760d7d49d65 | -13.38398 | -61.95532 | 2024-10-25 16:50:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| 8d78f5c9-d528-3233-a560-231b6ca02673 | -12.54085 | -63.05807 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| ac1d2a87-36bf-37c6-8634-5130ee3ddda2 | -12.54011 | -63.05096 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 18.2 |
+| 41c251fe-b4e1-3d4b-8cb7-46d13cbcd2d7 | -12.53685 | -63.05763 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| 0d4b4723-5b22-3ef1-8a3f-f048026636db | -12.53606 | -63.05054 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| 2a48d581-35ba-3e1f-b0c2-54f9ff8f7540 | -12.5337 | -63.05876 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 11.3 |
+| 960a52ae-5d9f-378c-844f-bbad777b5a1a | -12.5297 | -63.05829 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 18.0 |
+| b3f62197-490b-3fb6-a894-255fb96ec2c8 | -12.52656 | -63.05945 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 11.3 |
+| 1af42581-8f95-3e86-b1b9-1f182f9dc2f2 | -12.52255 | -63.05895 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 18.0 |
+| 11fdaab7-7aa5-3702-9448-d731d05464e4 | -12.51941 | -63.06014 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 14.7 |
+| a40c866f-efb2-3594-b1b4-e9d10f9325f4 | -12.51113 | -63.1914 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 26.7 |
+| af4b5712-8021-339c-9600-3df24ee19e5e | -12.5079 | -63.19055 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 33.5 |
+| a78f96bb-38df-31ac-a645-c1bb07013335 | -12.484 | -63.17091 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 27.1 |
+| 9eb56fce-ef45-3026-8baa-676ad8005ed0 | -12.47605 | -63.16438 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 19.2 |
+| f7d3b9aa-e41e-3c68-8ab8-423e544f7b9e | -12.46886 | -63.16504 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| 4f6b2eb3-d1eb-32ef-91b1-ebd13ed3176c | -12.4681 | -63.15783 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| a6ce6804-9ad2-3863-9808-52e1cdb3b3a7 | -12.46618 | -63.16821 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 43.7 |
+| 3ae1fd6d-4c19-3858-bceb-48ce4c4a5249 | -12.46537 | -63.16099 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 87.7 |
+| dc5cd43f-1a4a-317a-8af4-e8607b843b4c | -12.46243 | -63.17292 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 42.8 |
+| abb57643-31ec-3d48-bf78-0a6932f24fee | -12.46167 | -63.1657 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| fdcffdc7-0c5d-3e9b-95b5-f4f7551e8a2a | -12.4598 | -63.17605 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 43.7 |
+| b74bdbc7-574e-3bea-836f-bd5932cb1716 | -12.45899 | -63.16883 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 43.7 |
+| 8ff239d0-51d0-31d0-8f4d-1e6664cab2de | -12.45261 | -63.1767 | 2024-10-25 16:50:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 36.0 |
+| 2e1cf69b-3955-3da8-a121-85b6fcd2e6b6 | -17.18605 | -57.28547 | 2024-10-25 16:50:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 13.4 |
+| 3bc51596-8c35-3389-9f15-f2088d42c96d | -17.18153 | -57.29281 | 2024-10-25 16:50:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 17.0 |
+| c7d5cf45-3113-39cd-be8b-d6469e4c604e | -17.10636 | -57.47412 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| d1da2cf8-1d7e-301e-b637-18c2345ae14d | -17.1014 | -57.47816 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 92a719ab-6bd9-3718-a6d1-4c3f9fe41435 | -17.0818 | -57.40009 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 33.8 |
+| 7ae437ac-b5e7-38a8-8c95-cf90de66d91a | -17.07686 | -57.40409 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
+| 9cbc8f17-c2ce-328f-8049-b2cfa6929716 | -17.07648 | -57.40067 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 8.4 |
+| b0ce3c14-6ec1-3536-bd42-7ff35233d875 | -17.06394 | -57.4333 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 16.9 |
+| 7915f6a3-e8b9-3653-b5e8-a30a1b2b3875 | -17.05822 | -57.47935 | 2024-10-25 16:50:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 13.9 |
 
 
 [Clique aqui para ver as próximas entradas](README148.md)

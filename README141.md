@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 98eed551-bec3-33e9-8494-5778a9267430 | -10.88678 | -63.92855 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 9df10a2f-d77f-38f9-9529-5a741df0ce85 | -10.88238 | -63.93251 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| b0f85a2d-458a-3ca7-befe-ca053eedf2bf | -10.88185 | -63.90907 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8b697433-f6d8-3e20-815c-10822ad87f33 | -10.86318 | -63.92702 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 9b5a9293-90c5-39f0-b120-1e30d0fedc3e | -10.8629 | -63.90281 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| e6a0ecc7-ba39-3d80-970e-5bd85e32bb95 | -10.86013 | -63.92167 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 9a4ae147-31b2-3e37-9ab7-0718b6ff5062 | -10.85914 | -63.90227 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| c50f60ec-2161-31fd-82d9-eaf64ce118a3 | -10.85844 | -63.907 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 8d8d4a6b-e271-3ace-abc3-559af4fc3189 | -10.85775 | -63.91169 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 5f808203-c51a-3949-92c0-4046589a9fc4 | -10.83762 | -64.22086 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 79b38961-4dc0-3a38-a573-cae9cc951cd4 | -10.83151 | -64.21068 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6c71a264-a445-3821-9473-2ac6d11884ef | -10.83044 | -64.17522 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 11baf95a-4e51-3643-a3c4-441b1e27230f | -10.82783 | -64.21001 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 786b7e82-b0eb-390a-81e2-2db7651e61ef | -10.82608 | -64.1791 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 779c2a64-132f-335c-86a8-085fd5232687 | -11.78223 | -64.25053 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| dcd58f5e-517e-36d7-9c20-af17ea8cccfa | -11.77853 | -64.17066 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 83bb5927-2c50-3d7a-9c28-4d45434ca5c1 | -10.97368 | -63.9417 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 9919941a-1cd0-36da-9d61-e78bc494e47b | -10.97288 | -63.94398 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 76b47db1-0500-3179-b8eb-580312d0d0f7 | -10.97025 | -63.99335 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| b7172d16-b293-3b8a-bfa3-94eee7152a0e | -10.96654 | -63.99254 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 08d90dbb-60ed-3ef5-8fa3-fc1c2c13eb07 | -10.92806 | -63.88171 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2a5d4149-3088-393f-a265-02c79f2d99cf | -10.89498 | -63.92487 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| af74af86-0746-3179-a517-04ab451740b4 | -10.89055 | -63.92901 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| c18ff0c3-a574-3ada-aad5-7d101caea398 | -10.88614 | -63.93308 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 42a970c1-1116-3915-a89f-129467a1f000 | -10.87487 | -63.93132 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 709204a7-f825-30a1-8244-cc013343c965 | -10.85945 | -63.92632 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 86e83bc6-7755-37cc-8db7-0aee6970d356 | -10.85468 | -63.90647 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 17.3 |
-| a98bedcf-7a57-39dd-a8e4-40b299bf959a | -10.854 | -63.91109 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 4dd2bc39-48d3-395d-afc7-d0fef6d157b0 | -10.837 | -64.22517 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 9d8bb3d1-d153-3568-8084-fe66b9b02f95 | -10.8288 | -64.21181 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| d414b93f-5133-3a5c-98b0-cde02ec46874 | -10.8286 | -64.17786 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| a2571232-fde2-34d2-bdbb-d3bfeb1d7514 | -12.16798 | -63.34441 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 887d27fe-a096-398a-8197-459efe8d3cea | -12.16402 | -63.34385 | 2024-10-12 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 704557ee-4fc2-3870-ba57-0cb7b04a0d8d | -11.76608 | -63.79466 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 9ddfe402-84ca-3a8d-b7ac-de68ef014750 | -11.75955 | -63.81347 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| a8924e11-7a5e-363f-9400-dbf0d18101a9 | -11.75529 | -64.0918 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 2a2e2e3b-f12e-3f19-b5a7-2efc6adbdd75 | -11.75127 | -63.82528 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 3d9c40d6-f521-34c0-82a3-faf80bb2eb87 | -11.75057 | -63.83009 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| b0a159d2-7ee9-361f-8f25-36af34ce883e | -11.74988 | -63.82686 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 98903852-1007-347a-99c7-c6efea8141a3 | -11.74853 | -63.83661 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 5beb0702-70a9-35aa-b978-5a075a071587 | -11.74744 | -63.82477 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 95685967-8a3f-3af5-97c8-b429e5f259ce | -11.74602 | -63.83453 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| c8ba69b6-07d8-3a0b-b417-3f1f5e1e3a78 | -11.7447 | -63.83616 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 93a62dfd-c2bf-37f0-a3bd-e7d2d405876b | -11.74153 | -63.83081 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 4d76aac9-92c2-359e-a8f3-a2d59c8b73d0 | -11.73904 | -63.8288 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 844337ba-2551-3336-9bca-1d3a57e6e11c | -12.49699 | -63.94568 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| f3451ad6-c809-33eb-9ed6-ad148cbf5803 | -12.49633 | -63.95052 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9ea2523d-c6a7-3705-9f67-9c0718a0e9d5 | -12.49372 | -63.95293 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 90ebd90e-434a-3a3a-a150-61ed1ad3ee9b | -12.49182 | -63.9548 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 6e3c33c6-b08d-33cd-a0e1-c5880a477f66 | -12.48919 | -63.9572 | 2024-10-12 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| bac1a0d0-bea9-313b-94e2-fdfbb1ce8c99 | -7.49043 | -64.28143 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6eeb39d5-9b8a-3216-a3fb-35bce57baa97 | -7.46268 | -64.24831 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a974a862-9579-3f26-bf2c-a8fda5d93cfe | -7.42781 | -64.58005 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 2522398d-c58a-3163-8d8b-b63f808c67ba | -9.21857 | -65.56425 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 9d815866-01b6-3344-8644-211dd836295f | -9.21856 | -65.56482 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c03d8088-99de-3767-850f-f12c70780d14 | -9.49211 | -64.35831 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f64f03f3-36d3-37d2-87ac-15a0939263df | -9.41857 | -64.38159 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b8cc42f1-d9bf-344d-b933-59021c9bdebd | -9.40837 | -64.37575 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a62ebcb2-f446-3639-ba42-a490dc2235c6 | -9.39868 | -64.41698 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 46febb43-cfad-37b3-ae76-5e22bccbbde7 | -9.35162 | -64.35165 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8585ab4b-3c9f-3b0d-8468-21efacd321a7 | -9.31404 | -64.45662 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| ce70750a-c9cf-334a-b872-6f12ef1805ed | -8.93492 | -64.23933 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 9f62aa9a-843c-333f-bebb-92015e0fc0a8 | -8.9343 | -64.24352 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 8d442a01-31e7-3373-a5f4-8c4a51bd03b6 | -8.65805 | -64.29826 | 2024-10-12 05:48:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 9679db8a-475b-318e-abc6-ec25925262d1 | -9.64388 | -65.7382 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 58728a10-9063-3260-914a-0d4c5513b366 | -9.404 | -65.58868 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 967f3a55-cfd1-3299-9a13-66362318264c | -9.40343 | -65.59242 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 041ede8b-17e9-3a9d-8bce-ec01aa180b3e | -9.36144 | -65.75349 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8fb3e166-8217-3961-8d1f-f9823fe9ec2d | -9.35973 | -65.74182 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| bf4d6550-0494-3c59-9483-2d92eb56485f | -9.35917 | -65.74554 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c9abc655-70b6-3a38-a728-4df4416bbfff | -9.3586 | -65.74925 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 2d408f53-e4c5-3f4f-9d99-fac28b2a6484 | -9.35804 | -65.75296 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 65223f04-c3e6-3dc5-bd43-6854d1fdad20 | -9.35633 | -65.74129 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 1ad3b023-d276-30f5-91c9-0529d6e77a88 | -9.35576 | -65.74501 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b20287b0-4483-3ee3-b3ce-0418d4fa561f | -9.3552 | -65.74873 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b04f6049-3769-3ccf-b54a-422dc786ad5a | -9.35463 | -65.75243 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c9ccd623-a837-3d50-a1e4-a9dc570664ca | -9.35236 | -65.74449 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ae552b58-845e-37ee-a8a6-e162cc3ca99d | -9.31498 | -65.76141 | 2024-10-12 05:48:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 9d011bcc-3ef4-3817-ad9a-8f35e38b2d5c | -9.56459 | -64.62267 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c01b26e6-4b69-3f79-928d-dc0ad850371d | -9.53797 | -64.58092 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 977b3b87-91da-3ab5-817b-151cbcba2aa2 | -9.535 | -64.57628 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fa769957-0367-3d8f-a1ce-fb751a60606e | -9.53082 | -64.57982 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fb3ac25d-ac96-3303-ac11-4ce04b81722d | -10.74238 | -65.08124 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| c8ebf1e8-ba37-3174-b634-1dd19918b798 | -10.64322 | -65.14028 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b6419fc2-704c-3ee6-9d8d-fba0710832b8 | -10.64262 | -65.14428 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3b9eb032-52d0-3719-9e5e-9881abbc7573 | -10.6385 | -65.14776 | 2024-10-12 05:48:00 | NOAA-20 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 96c556b0-013e-3c4f-93bf-13836529366c | -10.06307 | -64.93578 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6a2c7b66-3c53-3a24-b67c-5565f9e3d6dc | -10.05954 | -64.93525 | 2024-10-12 05:48:00 | NOAA-20 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 96036334-6ee9-3083-9629-d12463e21d69 | -9.92128 | -64.77162 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| dac4adbf-1fe9-34ff-aa08-6f51dcd964dc | -9.91772 | -64.77106 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ba85a44b-7a6b-3e4f-809a-764575ff87e8 | -9.89163 | -64.80025 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8e0b8bfc-1204-3a1c-8280-21829986b6e8 | -9.89104 | -64.80431 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 1c0cad54-7e76-3c37-94d2-f54031563750 | -9.89044 | -64.80838 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| b5061287-4749-3010-86ff-86ab91802826 | -9.89026 | -65.00533 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 68dc66cd-dee7-3975-b60f-b5d00fc043eb | -9.88985 | -64.81245 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 36610d06-c421-3e0b-a4ce-c1ce1689ab7d | -9.88967 | -65.0093 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6662acac-9e57-380d-ace2-8334e9edaafc | -9.88925 | -64.81649 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 548c2264-910f-3116-bccd-be66b421fd0f | -9.88868 | -64.79563 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| cae1c91d-9780-36f4-ac4c-4b1d0525876c | -9.88808 | -64.7997 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d17d3b81-50c4-30a4-ae56-d3313118620d | -9.88749 | -64.80376 | 2024-10-12 05:48:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 56a7f0d1-6181-3c7d-bc7f-c7a37c74f01c | -11.20696 | -41.62224 | 2024-10-25 16:50:00 | NOAA-21 | JOÃO DOURADO | BAHIA | Brasil | 2918357 | 29 | 33 | nan | nan | nan | Caatinga | 15.6 |
+| 6175831d-a019-3bc5-b3bd-ce66339fd9ec | -11.20598 | -41.61691 | 2024-10-25 16:50:00 | NOAA-21 | JOÃO DOURADO | BAHIA | Brasil | 2918357 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
+| 044169c3-c0ce-36c9-ab94-1e64d816afb9 | -13.77898 | -42.47432 | 2024-10-25 16:50:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 12.5 |
+| 86aaaf43-9b59-33ba-988b-ee0678a970c2 | -13.77465 | -42.47509 | 2024-10-25 16:50:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 12.5 |
+| 41fdd5dd-f52a-3e25-8d20-8fe849d0f64c | -13.7711 | -42.48021 | 2024-10-25 16:50:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| 3a69a2dc-6fe9-34c7-bdcd-773d086f2f9a | -13.70407 | -42.514 | 2024-10-25 16:50:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 16.6 |
+| 26bd34d5-d183-3c23-98a9-4a29253e1600 | -13.68436 | -42.86634 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| 41b5672a-7301-321d-9706-65bb516169ba | -13.68412 | -42.86678 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 15.4 |
+| cadafb2f-4025-3acc-8167-a116d69e9e5a | -13.68013 | -42.86705 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| 56dde271-3d88-3b8a-96d8-04d040018c3f | -13.67727 | -42.87557 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 18.5 |
+| 2fd3b2cc-ccf8-3139-a6d0-3ca4cf625995 | -13.65994 | -42.94972 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 16.7 |
+| eb04e2d8-74d1-3cd4-88e3-198441445b12 | -13.63478 | -43.00294 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 12.0 |
+| 83c172c4-7055-3754-936a-dd06096071b1 | -13.61656 | -42.70693 | 2024-10-25 16:50:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 56.4 |
+| 07ec18a5-df84-3a97-b594-71d13980f92a | -13.64163 | -42.26766 | 2024-10-25 16:50:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 8.7 |
+| b3ff2a72-5812-3d39-b8b0-27b0954d7c68 | -13.63191 | -42.11302 | 2024-10-25 16:50:00 | NOAA-21 | PARAMIRIM | BAHIA | Brasil | 2923605 | 29 | 33 | nan | nan | nan | Caatinga | 5.1 |
+| 2da555ef-aa28-3fa8-8a20-8e9ef714cce3 | -13.00723 | -42.19098 | 2024-10-25 16:50:00 | NOAA-21 | RIO DO PIRES | BAHIA | Brasil | 2926905 | 29 | 33 | nan | nan | nan | Caatinga | 25.0 |
+| 9193569b-ab8f-3629-80d2-f77e43200182 | -13.0027 | -42.1915 | 2024-10-25 16:50:00 | NOAA-21 | RIO DO PIRES | BAHIA | Brasil | 2926905 | 29 | 33 | nan | nan | nan | Caatinga | 7.4 |
+| 1e029dad-a5db-3ded-9402-7f7f33746795 | -12.95956 | -42.33403 | 2024-10-25 16:50:00 | NOAA-21 | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
+| 2211b5c8-c64c-30b1-a7a4-1344c3fabec5 | -12.72263 | -42.02559 | 2024-10-25 16:50:00 | NOAA-21 | NOVO HORIZONTE | BAHIA | Brasil | 2923035 | 29 | 33 | nan | nan | nan | Caatinga | 8.5 |
+| 73c708f6-f702-3e70-aa5d-73a78ebcb087 | -12.64714 | -42.36053 | 2024-10-25 16:50:00 | NOAA-21 | IBITIARA | BAHIA | Brasil | 2913002 | 29 | 33 | nan | nan | nan | Caatinga | 6.4 |
+| bb1b5a33-9cfb-372b-8dc2-ffb84f4c322c | -12.59241 | -42.06175 | 2024-10-25 16:50:00 | NOAA-21 | IBITIARA | BAHIA | Brasil | 2913002 | 29 | 33 | nan | nan | nan | Caatinga | 6.1 |
+| 5f562091-61cf-3840-8ed4-aa2cbaeeefa9 | -12.5737 | -42.03678 | 2024-10-25 16:50:00 | NOAA-21 | IBITIARA | BAHIA | Brasil | 2913002 | 29 | 33 | nan | nan | nan | Caatinga | 7.4 |
+| f8e9975c-55ad-363a-ae2c-f49920677e28 | -12.55489 | -42.01389 | 2024-10-25 16:50:00 | NOAA-21 | IBITIARA | BAHIA | Brasil | 2913002 | 29 | 33 | nan | nan | nan | Caatinga | 10.8 |
+| 7b525362-9c48-38d7-b419-ebc45aeef922 | -12.55476 | -42.0108 | 2024-10-25 16:50:00 | NOAA-21 | IBITIARA | BAHIA | Brasil | 2913002 | 29 | 33 | nan | nan | nan | Caatinga | 7.8 |
+| f65d45e2-355a-3d38-a406-5c747d15b03b | -12.47512 | -42.09249 | 2024-10-25 16:50:00 | NOAA-21 | IBITIARA | BAHIA | Brasil | 2913002 | 29 | 33 | nan | nan | nan | Caatinga | 13.0 |
+| 28683bed-4105-35ef-9f92-55670a569fc8 | -12.39893 | -41.93459 | 2024-10-25 16:50:00 | NOAA-21 | SEABRA | BAHIA | Brasil | 2929909 | 29 | 33 | nan | nan | nan | Caatinga | 15.6 |
+| 5af7c8a9-a6d2-310f-a552-b5f8ea87e0be | -12.38666 | -42.10082 | 2024-10-25 16:50:00 | NOAA-21 | SEABRA | BAHIA | Brasil | 2929909 | 29 | 33 | nan | nan | nan | Caatinga | 15.3 |
+| 21986dcb-9ac4-3e99-9bab-676e76998a3c | -12.38213 | -42.10172 | 2024-10-25 16:50:00 | NOAA-21 | SEABRA | BAHIA | Brasil | 2929909 | 29 | 33 | nan | nan | nan | Caatinga | 15.3 |
+| 91c0a9af-9ded-364e-8503-e81a4f9e4cd9 | -12.22774 | -42.92709 | 2024-10-25 16:50:00 | NOAA-21 | OLIVEIRA DOS BREJINHOS | BAHIA | Brasil | 2923209 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| 2face176-424c-3d2e-8afa-bc52e692c237 | -13.5725 | -42.92379 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 23.2 |
+| a381e42c-316f-3ab3-8a91-17b476f7c194 | -13.53414 | -43.30069 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| fb59539b-7cde-34ff-b7e9-edc6a981a2bb | -13.53348 | -43.29688 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| ed4ca61f-fd19-3a9a-a87a-cccbd7324faa | -13.53326 | -42.9964 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 113c8696-bd00-3dff-8f32-4695a087c32c | -13.52451 | -42.72726 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 5.7 |
+| 7ab6d0d5-663e-3dc3-a1f0-65819e58fdb9 | -13.51546 | -42.92167 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 9.5 |
+| 27971441-fce0-3556-81e1-71a2af864848 | -13.51378 | -43.03262 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| 9c313f66-ed6e-35a9-bcb1-395a2f11759f | -13.50399 | -43.02641 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| f85f7d49-34ec-36f5-bed2-29be9ca744b8 | -13.49304 | -42.62558 | 2024-10-25 16:50:00 | NOAA-21 | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 104.8 |
+| 764b2e3a-127c-3459-965a-97d4107acfa7 | -13.49228 | -42.62136 | 2024-10-25 16:50:00 | NOAA-21 | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 104.8 |
+| 0f1d75b8-c9db-3e04-8896-09e373149359 | -13.45608 | -42.59369 | 2024-10-25 16:50:00 | NOAA-21 | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 10.6 |
+| d194af17-ca21-3006-a840-aadd8d6e0e9f | -13.44526 | -42.94261 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 17.0 |
+| 3631c469-a98a-368e-92d3-03026cc9efde | -13.40348 | -42.48217 | 2024-10-25 16:50:00 | NOAA-21 | BOTUPORÃ | BAHIA | Brasil | 2904209 | 29 | 33 | nan | nan | nan | Caatinga | 5.2 |
+| 40159609-acd0-3fe2-a2af-e7ed705c5e02 | -13.40051 | -42.61688 | 2024-10-25 16:50:00 | NOAA-21 | BOTUPORÃ | BAHIA | Brasil | 2904209 | 29 | 33 | nan | nan | nan | Caatinga | 15.1 |
+| 39444148-ed4e-33a6-af71-aef063bc8f73 | -13.39929 | -42.47949 | 2024-10-25 16:50:00 | NOAA-21 | BOTUPORÃ | BAHIA | Brasil | 2904209 | 29 | 33 | nan | nan | nan | Caatinga | 9.6 |
+| cf533b8c-37ea-3b83-8903-3604db8d0ba4 | -13.31977 | -43.34385 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| ed5f38e0-25a8-3df4-b16b-2f054b9057b6 | -13.31847 | -43.13372 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 12.0 |
+| 27a4a4d8-24be-3583-a144-19d9fd059b8c | -13.3054 | -43.3347 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| e5262250-4400-3092-8848-f05a976ff623 | -13.30473 | -43.33089 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| cb6d901b-a6e0-3e85-a441-940128dd4a35 | -13.29672 | -42.94084 | 2024-10-25 16:50:00 | NOAA-21 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| d38c27c4-2f8e-3af5-86d1-556139d9e970 | -13.27731 | -43.29636 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| a2e4739c-f613-3fa0-b16d-87cb61fcdbad | -13.57282 | -43.42592 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 5d40337c-e183-3a03-a8cd-86c5c35d114a | -13.57218 | -43.42219 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 3e9c3a43-92c6-34dd-9798-066f56faa633 | -13.57205 | -43.42596 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 667cbd0e-811b-36d7-a10f-f53971ab20ad | -13.57138 | -43.42224 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| a68b5d23-749b-3ae0-9316-47ec1da47aa6 | -13.53951 | -43.52421 | 2024-10-25 16:50:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| c991a384-27ee-3f43-bc24-97d9c17a634a | -13.52249 | -43.42751 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| 7a217ad7-681e-3794-a368-2b65bfebd4dd | -13.51474 | -43.47902 | 2024-10-25 16:50:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| bf06beab-e654-381e-998c-3ec004570ab2 | -13.50857 | -43.49168 | 2024-10-25 16:50:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| f015d2f9-abb4-39c6-a874-a4a128383bdd | -13.50681 | -43.43429 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 16cc4d2d-4641-35a1-b15c-6b9f2b1a15ef | -13.50615 | -43.43055 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| d6ee72c9-eb9c-3162-8534-63337411707f | -14.6517 | -42.33539 | 2024-10-25 16:50:00 | NOAA-21 | JACARACI | BAHIA | Brasil | 2917409 | 29 | 33 | nan | nan | nan | Caatinga | 8.0 |
+| ba8a189c-d589-3cd0-bb61-4848275a13e1 | -13.50273 | -43.43505 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 44321a2c-d6d6-3444-a803-6f05ce3b2e80 | -13.48349 | -43.49249 | 2024-10-25 16:50:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 1dd8222d-6193-3949-a91c-80486fa96eaf | -13.46635 | -43.48836 | 2024-10-25 16:50:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 14a251d8-a1d4-3433-8da3-abdc6d2a29a1 | -13.43245 | -43.48699 | 2024-10-25 16:50:00 | NOAA-21 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| d941d0e5-6602-357e-a684-0a2db4904d5d | -13.20236 | -42.94846 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 9.2 |
+| 489e0f2f-519d-3f65-9149-0176bee0b607 | -13.19874 | -43.09769 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
+| bd39907b-4b80-3b39-8d83-adfce0d3897d | -13.16469 | -42.98001 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| daf27c72-aa2b-3886-9b0d-a3ec8f91d71c | -13.14503 | -43.16446 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 34.3 |
+| a650b367-85b9-32bd-82ea-dafecdbf9026 | -13.1162 | -43.05124 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 30.4 |
+| 3709bb30-66a9-3e75-a3f2-b90b0f7ef491 | -13.03331 | -43.09898 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 7.4 |
+| d5a70e4b-61e5-3a74-8e15-1a7ec1881a94 | -13.03121 | -43.1117 | 2024-10-25 16:50:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.7 |
+| 545ef193-4f52-3b3f-a09f-4af0f2146614 | -13.02698 | -43.08784 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 43.4 |
+| 48d857b1-628b-366a-92d0-4c4489eaf933 | -13.02278 | -43.08865 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 43.4 |
+| 1e71b17b-0ea3-3f9c-af19-329a8f05a729 | -13.01578 | -43.09819 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| 5384229b-6a5a-3d72-9b86-b19981c9cbb8 | -12.99977 | -42.91002 | 2024-10-25 16:50:00 | NOAA-21 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 12.2 |
+| 87e5b932-2440-3d0a-90c9-72ec7de5baf8 | -12.96528 | -42.59075 | 2024-10-25 16:50:00 | NOAA-21 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 5.6 |
+| aff8d76f-446c-32ff-af0e-82e60b6b6aff | -12.90548 | -42.58381 | 2024-10-25 16:50:00 | NOAA-21 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 6.1 |
+| 0f8f25a7-b1bf-32b9-bd81-cd3a2d426a3f | -12.9019 | -42.58891 | 2024-10-25 16:50:00 | NOAA-21 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 19.7 |
+| e1842663-5f2a-3833-bdc2-0bed754f2707 | -12.90111 | -42.58458 | 2024-10-25 16:50:00 | NOAA-21 | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 19.7 |
+| 56bcdbbb-b2be-3897-bb27-8af8610bb708 | -12.89353 | -43.19367 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 16.7 |
+| 78437931-5c5c-3ac9-9a52-b28d8dfbe70f | -12.87215 | -43.09913 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 60.2 |
+| a771fa26-a428-36eb-b9d6-c562e2065799 | -12.78768 | -42.7909 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 7.5 |
+| a4bf4eac-07c9-3ea8-a6ef-59529dc2b8cb | -12.78696 | -42.78688 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| 163c6343-bdce-3532-bd35-125fc929d008 | -12.75751 | -42.96954 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 13cc4d47-3a2c-31cb-baf0-6e69a24951dd | -12.75497 | -43.14935 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 10.1 |
+| 003b331e-b828-3ade-a4e1-ae654a34c42b | -12.75481 | -43.14909 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 10.5 |
+| 9ce4d72d-df46-3902-a9fe-8d28907fd5c9 | -12.71828 | -43.13938 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 22.7 |
+| 77474222-06b0-3295-8dea-b661bdfd948a | -12.71406 | -43.14015 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 22.7 |
+| 8125f078-3a20-30a9-94d8-3830e425feba | -12.68969 | -42.97757 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 21.3 |
+| fd4964b8-f737-361b-85d7-3afd48163edf | -12.68898 | -42.97353 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 9.6 |
+| c9ba926f-7187-3845-974f-36c0b785d4e6 | -12.68599 | -42.69768 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 26dca09c-914b-3a9b-a4d1-ecefcaef970e | -12.66924 | -43.01112 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 16.6 |
+| d9c481f6-3bd2-3eac-842d-ca4135f7eff9 | -12.66387 | -42.83203 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 9.6 |
+| ed660549-e6b7-3660-abc3-3769607538aa | -12.66368 | -42.78064 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 8.8 |
+| 3209492e-b556-3ce7-abc4-357dafc7832d | -12.59146 | -42.82576 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| b2fc6eb1-9733-39b0-b173-5bd6cddf9ebe | -12.58942 | -42.82432 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 8.8 |
+| 5f6f03c3-f603-374d-bb71-8d5903cc42cd | -12.57824 | -42.93747 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 7.2 |
+| 18b7fe10-c804-3151-9f03-f27f2ac9798d | -12.57716 | -42.88124 | 2024-10-25 16:50:00 | NOAA-21 | BOQUIRA | BAHIA | Brasil | 2904100 | 29 | 33 | nan | nan | nan | Caatinga | 21.0 |
+| f83907f5-b9de-3b99-8a27-4e90e1ba2a23 | -12.57685 | -42.92964 | 2024-10-25 16:50:00 | NOAA-21 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 6.7 |
 
 
 [Clique aqui para ver as próximas entradas](README142.md)
