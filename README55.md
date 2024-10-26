@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| d4c06d1c-e4e4-3481-9e9c-b00514604f4e | -7.42404 | -47.37548 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1cded3f1-939b-3b48-8f77-1ac4603afefa | -7.36995 | -47.23063 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8d0cd2bc-457c-329a-9fcc-83c9f1a262d4 | -7.3494 | -46.9882 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 9cbc3692-ee30-3f3c-93b2-1df96220232c | -7.27908 | -47.18979 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 3b96f865-5419-372f-bfb3-40e2f3e28901 | -7.27848 | -47.19365 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| da50b4d1-ad08-3368-832a-4e17e19b5569 | -7.24272 | -46.95706 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3afcc794-f253-3bcb-a58e-7d17f44ba3fe | -7.19256 | -46.95425 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 11298c18-95d0-3e8b-90e0-84fc9e5cf05b | -7.18904 | -46.95374 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 511f5fc2-5e74-3b76-958e-40c37bbe4a76 | -7.18843 | -46.9577 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| bf35602f-7a07-3229-b36d-4aa70f463cdf | -7.18782 | -46.96167 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 23047103-a768-3449-84a0-f15d4df31458 | -7.18722 | -46.96564 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ff7e9cf2-089d-31f8-b0c5-2ee76a5121b7 | -7.18429 | -46.96123 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| d9b65d7e-fa22-3fea-92f7-39557a78a298 | -7.13544 | -47.06959 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 669a5fd3-90ec-3732-a23e-7805f2b18e26 | -7.123 | -47.19855 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 80ae3028-a76d-3b94-a594-9cb232611b2e | -7.12243 | -47.20231 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 5377db0d-9c4b-35d4-987a-65df528bbd48 | -7.11951 | -47.19805 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 71d7d78f-9e88-3e63-a86c-4a986392733e | -7.11507 | -46.85058 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 195afcc4-5ae8-33a7-b6b1-ce6188b3c4a3 | -6.99356 | -47.38642 | 2024-10-25 04:38:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0fb90ee4-814e-3006-aa0a-3620cd3836e4 | -6.82171 | -46.78789 | 2024-10-25 04:38:00 | NPP-375D | SÃO PEDRO DOS CRENTES | MARANHÃO | Brasil | 2111573 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 85cd4224-3ea5-373e-a3d6-c426bdf659cf | -6.81818 | -46.78735 | 2024-10-25 04:38:00 | NPP-375D | SÃO PEDRO DOS CRENTES | MARANHÃO | Brasil | 2111573 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 99b23d71-fa9b-3f2e-9d70-85014c0c70e9 | -6.66824 | -47.11213 | 2024-10-25 04:38:00 | NPP-375D | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| bfb0f535-fce1-39a1-9b54-f6c14706c37a | -9.27652 | -48.2612 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| e13bd7a5-0e1b-3b7f-8a0c-988f1a9cd1f9 | -9.25041 | -48.31747 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| eeed4525-7157-309c-8980-6edc01f46845 | -9.24985 | -48.32116 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 68d08dfb-874c-3989-8ef7-9fdfd1fdda70 | -9.247 | -48.31694 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| d7ce7abd-b8d2-3690-9fbf-ab54d31aa805 | -9.24644 | -48.32063 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 58fb920f-5ffe-3745-bbcc-29bddd5548e0 | -9.24587 | -48.32432 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 7821b5b4-8b18-308d-ba85-027b2238007b | -9.2419 | -48.32747 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7ae493a8-7e21-3ccd-b255-a51a5d431afd | -9.23049 | -48.28797 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 435dc254-c51a-367c-bc7e-2d35918bba3b | -9.03565 | -48.71708 | 2024-10-25 04:38:00 | NPP-375D | COLMÉIA | TOCANTINS | Brasil | 1716703 | 17 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d8699f0f-dc3a-3157-a9b7-9dc124466ec0 | -9.03228 | -48.71656 | 2024-10-25 04:38:00 | NPP-375D | COLMÉIA | TOCANTINS | Brasil | 1716703 | 17 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6c312372-d057-3070-8d3c-7cf550de16aa | -8.909 | -48.53872 | 2024-10-25 04:38:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| a0440b32-d2a0-320b-a9f7-c4e63f199453 | -8.90844 | -48.54234 | 2024-10-25 04:38:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| dda75061-4643-3070-ba5b-51eb1f859a46 | -8.90506 | -48.54179 | 2024-10-25 04:38:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| f4f32611-fc6c-3afa-9b8d-bb7ffe6408f7 | -8.56116 | -48.14975 | 2024-10-25 04:38:00 | NPP-375D | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 6fb4ec15-4660-3fe9-897a-63bd474a7b76 | -9.03619 | -48.71352 | 2024-10-25 04:38:00 | NPP-375D | COLMÉIA | TOCANTINS | Brasil | 1716703 | 17 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| fb8acd54-a58b-3a3e-a03a-f4b23c598945 | -8.90563 | -48.53817 | 2024-10-25 04:38:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| defd3f97-322c-33bd-a2d4-7e3cd17b291a | -9.29145 | -48.25145 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 74c9bee7-b730-3142-ad5c-534c70717641 | -9.24531 | -48.328 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 8b5fafb8-ad4e-3cb5-8ece-eac59bd99424 | -9.24303 | -48.32011 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| abdb32b3-b513-3656-a7d0-e0cd65badb76 | -9.22993 | -48.29166 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 1aed0e99-360e-3625-9704-dc4ff3d8cdb1 | -9.10382 | -47.65207 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 0876b255-8bf7-3950-828d-f0dae4f20baf | -9.0766 | -47.99488 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 1673f4a4-28d6-3d2d-8c5b-799b8661fbd1 | -9.07373 | -47.9906 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| a64e9acb-32ae-3017-80fb-0facb08148ea | -9.07316 | -47.99435 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 7be980de-647d-31a9-8600-ab2e86eeab5c | -9.06915 | -47.99758 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| c03b9565-8180-38df-824b-d310671a4add | -9.06857 | -48.00133 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| dc228d5d-75e9-3473-98dd-c929774dd2d2 | -9.04659 | -47.81991 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6a3e6469-c230-374f-bd9d-b1212720151e | -9.04313 | -47.81939 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 2f8f94fa-1c6b-3923-a160-d067a4ff6341 | -9.01869 | -47.75722 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 56b3fe51-1f86-3a66-a2f6-df75ff0f103f | -9.01522 | -47.75669 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 5abe5de2-930d-3b12-a10e-c8d43b374a37 | -8.95792 | -47.64164 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| aff35516-0974-3111-979c-d35c5719e01e | -8.95506 | -47.22858 | 2024-10-25 04:38:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 46c158e6-00e5-35dd-98e7-ea4d26053382 | -8.95501 | -47.63724 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 1654ae10-71a8-398f-b691-80020e5d6259 | -8.91264 | -47.72227 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 11dbb1d3-dd33-3a8b-a973-50ecd9298d84 | -8.82338 | -47.93753 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| cca53ae6-21ca-3fc8-8519-bf0e65a2f79a | -8.81994 | -47.93701 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| df7e6479-0052-3455-aff6-ca4179cb0d02 | -8.80962 | -47.93542 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4d50886e-7cb6-3635-aefe-b69c2711567e | -8.66873 | -47.97271 | 2024-10-25 04:38:00 | NPP-375D | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e35e5a1d-3c99-378d-8c29-18d48bc0d397 | -8.46717 | -47.80819 | 2024-10-25 04:38:00 | NPP-375D | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 8a325fad-0300-3bce-8e64-e376a2e3edd2 | -9.27016 | -47.91094 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| ff83b586-04ae-34d9-9332-7de8b725e264 | -9.2667 | -47.91042 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 8e47dddd-15a3-341c-aaab-64689e83c27d | -9.26613 | -47.9142 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 24cd87fd-b324-33a7-a122-5a3a3242b768 | -9.20925 | -47.78536 | 2024-10-25 04:38:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f8094d15-a58d-359a-a99e-9dcc56ebf9eb | -9.07717 | -47.99112 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 6e3201cc-adfc-33e2-9445-4b06cf2184ea | -9.07259 | -47.9981 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| c5606428-5812-3152-853b-755f92a498b1 | -9.07201 | -48.00185 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| bf23360f-dfeb-3a3f-9ba5-f9df6c36067c | -9.03967 | -47.81887 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 37c6389e-de3e-34c1-83e3-2f249b15473b | -8.9585 | -47.63779 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| bcecd6db-cfd2-3315-91cf-3bd1e35f13ff | -8.95444 | -47.6411 | 2024-10-25 04:38:00 | NPP-375D | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 0614d0b5-fb76-3882-bd4c-82f32ec74d4f | -8.91206 | -47.72609 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 42e8fded-ff09-3340-a6fb-c21542e83901 | -8.90917 | -47.72174 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9aee2d32-16e5-3218-a493-6683ff1d7abd | -8.90859 | -47.72558 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0fa26a07-bbd9-35d2-85ad-b17c5067bb8f | -8.81306 | -47.93596 | 2024-10-25 04:38:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 9e031cfa-f13c-3203-bee3-ba715e2d3e4e | -8.67336 | -47.87377 | 2024-10-25 04:38:00 | NPP-375D | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 23ce0dca-72a1-3dc8-8892-90c7915417b8 | -8.46659 | -47.81197 | 2024-10-25 04:38:00 | NPP-375D | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| f6b8afdb-df4d-3334-a47d-5858fafafaa1 | -9.93824 | -48.8779 | 2024-10-25 04:38:00 | NPP-375D | MONTE SANTO DO TOCANTINS | TOCANTINS | Brasil | 1713700 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ae5dd101-c899-397f-99af-71f910a7a011 | -9.93542 | -48.87375 | 2024-10-25 04:38:00 | NPP-375D | MONTE SANTO DO TOCANTINS | TOCANTINS | Brasil | 1713700 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 19d8cb9f-9586-33b1-acb0-77885108e046 | -9.93486 | -48.87737 | 2024-10-25 04:38:00 | NPP-375D | MONTE SANTO DO TOCANTINS | TOCANTINS | Brasil | 1713700 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 8611df93-703e-344f-8c53-c67c6391f192 | -9.91984 | -48.13509 | 2024-10-25 04:38:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9653895d-95a8-36b8-8798-7c94896c3fa2 | -9.91636 | -48.9078 | 2024-10-25 04:38:00 | NPP-375D | MONTE SANTO DO TOCANTINS | TOCANTINS | Brasil | 1713700 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| df869194-b88b-310e-a5ab-2af5a93a5d85 | -9.8711 | -48.20114 | 2024-10-25 04:38:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 68692d62-9ae7-3ddd-b528-eccc5167c6f3 | -9.85001 | -48.56964 | 2024-10-25 04:38:00 | NPP-375D | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 1756e6aa-27ba-3836-be5e-fe27f3cdfcdd | -9.60353 | -48.87822 | 2024-10-25 04:38:00 | NPP-375D | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 34656b23-22c7-3a6d-aa6b-f03e4d1728ec | -9.95519 | -47.94895 | 2024-10-25 04:38:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 10db1d20-48aa-37ff-875c-b7a0d547f60c | -9.71475 | -47.6603 | 2024-10-25 04:38:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b48b5456-e012-337a-9ee7-9381e2b4dac1 | -9.58265 | -47.67361 | 2024-10-25 04:38:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 46ac4cab-f7fb-3fe8-8086-f944747d7370 | -9.55633 | -47.72925 | 2024-10-25 04:38:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| bad42412-7ada-35a4-8745-aa07fe6f3166 | -9.53724 | -47.61865 | 2024-10-25 04:38:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 58bdb958-a1d1-301d-91e9-ba49568ec2af | -10.30003 | -47.66778 | 2024-10-25 04:38:00 | NPP-375D | SANTA TEREZA DO TOCANTINS | TOCANTINS | Brasil | 1719004 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ae7a234f-a386-3d65-84b8-aae8e88179f2 | -10.17776 | -47.90695 | 2024-10-25 04:38:00 | NPP-375D | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 681b2d5c-d4f9-3206-84ff-6ae60a184d93 | -10.17717 | -47.91085 | 2024-10-25 04:38:00 | NPP-375D | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 655358d2-6831-3b70-9dbd-e6dd0d0a0b8d | -10.17428 | -47.90641 | 2024-10-25 04:38:00 | NPP-375D | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 720b9c8e-489d-3756-a898-272d40a4aa1d | -10.10997 | -48.19094 | 2024-10-25 04:38:00 | NPP-375D | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 5140f733-6dd9-372e-a716-824e0f81ce3e | -10.05705 | -48.0584 | 2024-10-25 04:38:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 3cd03f4f-fc25-3587-ab24-db71f69f19c4 | -10.05646 | -48.06226 | 2024-10-25 04:38:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 77da0f97-b027-38d3-88cc-4deb5a42e492 | -10.053 | -48.06174 | 2024-10-25 04:38:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 9f799a32-6e20-3c50-aeea-6d9533303d63 | -10.02753 | -47.47019 | 2024-10-25 04:38:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e846303b-ab13-3630-babb-30b214b5133e | -10.02105 | -47.46507 | 2024-10-25 04:38:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| fabfa805-3091-3e17-801c-df3c16f8d050 | -10.02045 | -47.46907 | 2024-10-25 04:38:00 | NPP-375D | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0e9a2c9b-742c-3b41-944a-4fc4a3d25bfd | -4.34473 | -55.36216 | 2024-10-26 04:19:00 | NPP-375D | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9d2f4ae2-c88e-349f-803f-d5bb7768b326 | -9.99924 | -56.24888 | 2024-10-26 04:19:00 | NPP-375D | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 920d44a1-7d41-3f23-9195-5ae77c658755 | -9.99336 | -56.24763 | 2024-10-26 04:19:00 | NPP-375D | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 66c72fe6-309c-37e8-903d-8267fc10d2e9 | -9.86772 | -55.41297 | 2024-10-26 04:19:00 | NPP-375D | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9fe2f2f4-daf6-3cc6-9eff-3c6d1dae1fa0 | -11.16767 | -56.28966 | 2024-10-26 04:19:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b1140c2b-7303-3af3-b981-bfbdcdfda97e | -11.16185 | -56.28865 | 2024-10-26 04:19:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ee980d36-b03b-39a5-9d88-78e0326c92f8 | 1.57207 | -55.64001 | 2024-10-26 04:19:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a9e9e575-bfa7-3ff2-8c69-c4d871059eed | 1.57066 | -55.64086 | 2024-10-26 04:19:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d1d16476-e092-3d47-bb74-d713de0d4ba7 | 1.56528 | -55.6411 | 2024-10-26 04:19:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6a7e48a7-5e9f-3607-98c5-d2badda2222e | 1.56386 | -55.6419 | 2024-10-26 04:19:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4deedbc2-6f60-3a79-8ddd-cb2a491c609e | -8.77464 | -44.72911 | 2024-10-26 04:19:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d71717b1-bdc5-3bd1-b60f-799a0cc12606 | -5.85435 | -50.35465 | 2024-10-26 04:19:00 | NPP-375D | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 81e661e0-67a6-3453-9bbf-7e0a5936bb85 | -5.07752 | -56.22653 | 2024-10-26 04:19:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 731f2cab-3991-3e00-835e-ed5eb3c0640b | -5.07111 | -56.22549 | 2024-10-26 04:19:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 6dac2f0b-b1ee-38ed-bfb3-81f27da2bf8d | -5.25676 | -55.96441 | 2024-10-26 04:19:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 96ce8530-d49b-354b-948c-cfa0c5772eb4 | -5.25052 | -55.96314 | 2024-10-26 04:19:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6c9fc677-3f6c-3f4e-bf28-6ba0c451cdbf | -5.24963 | -55.96816 | 2024-10-26 04:19:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 40b9e2b2-dcef-3d40-860c-87ea23f885a8 | -5.24337 | -55.967 | 2024-10-26 04:19:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 18bb30f7-1c5d-3b19-b8e4-30fb102293b8 | -18.046 | -57.35228 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 87e13fab-f25b-3a6b-9a9b-c9b707bf71b5 | -18.04591 | -57.37954 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 31a78ecf-ea3d-3227-bd06-8b8509e3e6fa | -18.04222 | -57.31656 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| a93598e6-04aa-33c4-b888-85e46a780c12 | -18.04143 | -57.32023 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| b028eec2-5b46-37c3-9ca4-4f13f4de64f6 | -18.04135 | -57.34731 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 3ff5f727-bd1e-342c-92fc-8cef205bfc78 | -18.04056 | -57.35099 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 25d27005-4fca-39e3-87cf-d126ab97349e | -18.04046 | -57.37826 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 40e68bdb-ac57-34ea-bb3c-df6aa9ea11e7 | -18.03599 | -57.31897 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 0ee54bb3-6f0f-3c3a-9e9e-959e19c41c8f | -18.03591 | -57.34601 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 871afa1c-918c-33ed-8b2e-c7c4a2bd3cd7 | -18.01891 | -57.31878 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 52226a2d-0d13-3b25-a51c-9729125ec3ce | -18.01859 | -57.31897 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| ab93eb50-24e0-321f-8465-eadce70c1f3f | -18.01812 | -57.32246 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 53644a1a-2ffd-3dd2-aaee-d38d8136e26e | -18.01792 | -57.37722 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 79b8e6d4-a1c3-3596-ac92-fbf99a8a1a97 | -18.01785 | -57.37683 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 4d1f7f89-3b61-3143-8de3-bace809c10b0 | -18.01783 | -57.32266 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 9fa10a14-b933-36a6-be63-a9e614bb6d30 | -18.01732 | -57.32616 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| bf84d2d3-460e-3fdb-a0f7-ab2de68ef9d9 | -18.01706 | -57.32637 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| d8a3db68-9070-3079-b241-1576a3ca79b4 | -17.81925 | -57.5622 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| 0a4b082f-3803-3652-882c-6101247d0a22 | -17.81843 | -57.56606 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| ee4d4faf-12d7-3d3a-ae6a-6b9f45f52616 | -17.81434 | -57.58537 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 1f3b25be-38b4-3343-8ad1-250a4353cd3d | -17.81352 | -57.58924 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 7116af40-5b3a-389f-a1f1-c01b2d0bcc55 | -17.8127 | -57.59309 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 2ba1649d-f971-3666-9413-d05eebc4fab6 | -19.76816 | -45.65463 | 2024-10-26 04:21:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| e8f4f2db-a4b3-33b5-bc7e-f4b8d0faa4cd | -18.61684 | -46.92824 | 2024-10-26 04:21:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 43ffb5ed-dd3a-3ebe-bf9b-895f01f52187 | -18.61627 | -46.93189 | 2024-10-26 04:21:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 07c26a63-354b-3066-88e5-e1597cb77794 | -16.54186 | -47.8484 | 2024-10-26 04:21:00 | NPP-375D | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 89ef8bf2-fcf2-3001-81d8-72e6004ff0cb | -16.04344 | -43.7257 | 2024-10-26 04:21:00 | NPP-375D | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| a149f0de-48de-3a3b-870c-29f75b37c834 | -16.03984 | -43.72517 | 2024-10-26 04:21:00 | NPP-375D | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| d0200a24-742a-3d95-9d83-3aa2e383c64a | -15.96071 | -43.55309 | 2024-10-26 04:21:00 | NPP-375D | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 7e8a67ac-6159-3a45-9c6e-fd38c15fddd4 | -15.96009 | -43.55741 | 2024-10-26 04:21:00 | NPP-375D | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 76e60fbf-e470-3e68-aa06-265d0182ffc3 | -15.77703 | -43.06433 | 2024-10-26 04:21:00 | NPP-375D | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| ea611722-21ad-3bed-8b9e-add6409f12f9 | -15.76654 | -49.24744 | 2024-10-26 04:21:00 | NPP-375D | JARAGUÁ | GOIÁS | Brasil | 5211800 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c9142f01-dc5d-31e8-bd57-4e9e299f602e | -18.0282 | -57.3287 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 38c61622-8f93-3260-8f17-932eff920fb4 | -18.30797 | -56.1805 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 8b6ed025-eb8a-35f9-a03c-370a7abb697f | -18.30294 | -56.17935 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 7d7b23c7-c079-3b92-8861-3d0a5024035d | -17.9468 | -57.55185 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 95c2ba62-0bb5-30ec-8072-e661a5ac2a95 | -17.9461 | -57.55515 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 8e7e0021-3dda-3125-9415-32ddf436098c | -17.94127 | -57.55062 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| aa64ebc2-aa33-39ae-a160-8d0922d34b95 | -17.94066 | -57.55347 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 62b82dcc-d504-3693-971f-addace157446 | -17.93764 | -57.54039 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.9 |
+| 8328fddd-dec5-3876-b587-16f0ab3c6e1f | -17.93717 | -57.56998 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.5 |
+| b43b9c1a-889c-30fc-ac0d-a72ae1785a2c | -17.93696 | -57.54359 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.4 |
+| 1464cd7c-9527-3d99-b8a1-4421fb3d5071 | -17.87166 | -57.52373 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| ab496c69-5054-3558-9efd-acb2da7ad6fb | -17.87091 | -57.52721 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| ef5583bf-3568-3641-bde7-a5b363744b06 | -17.8702 | -57.56858 | 2024-10-26 04:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 0b7a4b35-8af1-3e61-aa1d-5a82e9e2d044 | -14.55358 | -42.9786 | 2024-10-26 04:21:00 | NPP-375D | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 65582dac-9fb5-3de4-b97a-fd018a4841a2 | -14.5499 | -42.9781 | 2024-10-26 04:21:00 | NPP-375D | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 9ea948a2-ff69-325d-b39e-a9a22bcc16af | -13.29368 | -49.57914 | 2024-10-26 04:21:00 | NPP-375D | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 4cfd31e7-1112-3cb4-b7cf-a4b781f87132 | -19.23971 | -40.02306 | 2024-10-26 04:21:00 | NPP-375D | LINHARES | ESPÍRITO SANTO | Brasil | 3203205 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 4dbce1b5-702d-37ac-8215-7f868970d6bb | -19.23891 | -40.0219 | 2024-10-26 04:21:00 | NPP-375D | LINHARES | ESPÍRITO SANTO | Brasil | 3203205 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| b7fee214-5b68-356c-b148-63e553b79dd0 | -19.17327 | -40.13393 | 2024-10-26 04:21:00 | NPP-375D | SOORETAMA | ESPÍRITO SANTO | Brasil | 3205010 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 14ddc778-1bba-3216-bab5-74ab285dcf45 | -15.6147 | -40.78674 | 2024-10-26 04:21:00 | NPP-375D | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| a206696c-ac7a-3103-a56d-15cd5ee71f58 | -15.61395 | -40.78507 | 2024-10-26 04:21:00 | NPP-375D | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 8c145dff-7473-3cab-bd33-f3065ac0b1f1 | -15.5845 | -40.44696 | 2024-10-26 04:21:00 | NPP-375D | MACARANI | BAHIA | Brasil | 2919702 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 7ec62485-b3de-3b6e-b1e0-0905ec1e035f | -17.81011 | -41.06377 | 2024-10-26 04:21:00 | NPP-375D | CARLOS CHAGAS | MINAS GERAIS | Brasil | 3113701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 2edf2917-2f22-3011-b91e-3413850251b0 | -17.80577 | -41.06345 | 2024-10-26 04:21:00 | NPP-375D | CARLOS CHAGAS | MINAS GERAIS | Brasil | 3113701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 1e6dd0cf-8bf7-3aac-bd05-a2f002d15edd | -17.21487 | -41.1588 | 2024-10-26 04:21:00 | NPP-375D | CRISÓLITA | MINAS GERAIS | Brasil | 3120151 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 1ee9322d-dfff-34f2-957d-70cca4fa23af | -20.7259 | -40.60146 | 2024-10-26 04:21:00 | NPP-375D | ANCHIETA | ESPÍRITO SANTO | Brasil | 3200409 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 0610f9ac-c7ef-3265-bc68-95c6a97fb2e4 | -14.76838 | -41.61585 | 2024-10-26 04:21:00 | NPP-375D | PRESIDENTE JÂNIO QUADROS | BAHIA | Brasil | 2925709 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 46e501e8-f62a-3cbd-80b0-948634d20ee7 | -16.54041 | -41.63175 | 2024-10-26 04:21:00 | NPP-375D | ITAOBIM | MINAS GERAIS | Brasil | 3133303 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| ce9a0072-29a6-31f2-ac17-8da793eb9499 | -16.02486 | -41.18989 | 2024-10-26 04:21:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| fc01e155-049e-3701-9f45-ba4706f1c647 | -16.02121 | -41.18529 | 2024-10-26 04:21:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 46ad1adf-caba-3885-9d65-308744ac1ad3 | -16.02073 | -41.18902 | 2024-10-26 04:21:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| ca7b8048-1c3e-36d8-884c-a62d63910443 | -15.32012 | -41.74805 | 2024-10-26 04:21:00 | NPP-375D | NINHEIRA | MINAS GERAIS | Brasil | 3144656 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 1d4aef86-8f96-32fb-abfd-c342adec55d9 | -18.08851 | -41.83525 | 2024-10-26 04:21:00 | NPP-375D | ITAMBACURI | MINAS GERAIS | Brasil | 3132701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 74b4b402-5593-3adb-b337-1856832ba564 | -17.77497 | -42.25747 | 2024-10-26 04:21:00 | NPP-375D | ANGELÂNDIA | MINAS GERAIS | Brasil | 3102852 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 184880f9-079f-3d24-b1d7-d50950f216b3 | -17.77331 | -42.25595 | 2024-10-26 04:21:00 | NPP-375D | ANGELÂNDIA | MINAS GERAIS | Brasil | 3102852 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| ff494efb-6bb1-3fb9-82f6-7daa6edccf59 | -17.68574 | -42.11065 | 2024-10-26 04:21:00 | NPP-375D | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 9a3e1f64-10ff-32d9-baa7-0b557ccebc2b | -17.68502 | -42.116 | 2024-10-26 04:21:00 | NPP-375D | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| c04c2d0b-b22c-3bb6-9797-4383be54c533 | -17.32224 | -41.39342 | 2024-10-26 04:21:00 | NPP-375D | CATUJI | MINAS GERAIS | Brasil | 3115458 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 10899ce2-5937-3f21-8790-a290b25499dd | -18.16044 | -42.45023 | 2024-10-26 04:21:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 4effcd12-7492-3878-a221-728d7f935641 | -18.12672 | -42.24223 | 2024-10-26 04:21:00 | NPP-375D | ÁGUA BOA | MINAS GERAIS | Brasil | 3100609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 35ebf83b-c314-3627-b13a-17432d5b418d | -20.8509 | -42.88965 | 2024-10-26 04:21:00 | NPP-375D | SÃO GERALDO | MINAS GERAIS | Brasil | 3161502 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| ef3c92be-2e87-36e0-87f3-3acd0ab2e810 | -20.41673 | -43.5517 | 2024-10-26 04:21:00 | NPP-375D | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 1a16ee9d-297e-301e-b037-b35bab8312d6 | -14.66444 | -43.10822 | 2024-10-26 04:21:00 | NPP-375D | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 4a12c979-dd44-3d11-b359-586bf00db51d | -14.44485 | -42.44608 | 2024-10-26 04:21:00 | NPP-375D | LICÍNIO DE ALMEIDA | BAHIA | Brasil | 2919405 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 12b85b4e-6f8f-3c48-9d82-125131c6915f | -14.12418 | -42.65137 | 2024-10-26 04:21:00 | NPP-375D | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 6c7010b4-6b65-3e55-87b4-f4a3f19bc6ee | -15.60809 | -43.73026 | 2024-10-26 04:21:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 1c5440df-0788-318a-aa14-bf640263053c | -15.57046 | -43.76296 | 2024-10-26 04:21:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 5913cf78-ba3c-3da9-af4f-72831444c074 | -15.56986 | -43.76715 | 2024-10-26 04:21:00 | NPP-375D | VARZELÂNDIA | MINAS GERAIS | Brasil | 3170909 | 31 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| e005d583-7695-3199-b6d0-82f0857941dc | -15.30249 | -43.70905 | 2024-10-26 04:21:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 6.7 |
+| bb6e7b88-2dba-306c-a93d-1887293a773a | -15.26954 | -43.05846 | 2024-10-26 04:21:00 | NPP-375D | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 1.5 |
 
 
 [Clique aqui para ver as próximas entradas](README56.md)

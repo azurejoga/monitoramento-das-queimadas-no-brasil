@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| bd68c067-29fb-32e2-96f0-8ef9a8d18e65 | -15.7729 | -41.28268 | 2024-10-25 00:24:00 | TERRA_M-M | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
-| d494c3bf-6bc0-3a89-a49d-854dd2987354 | -15.43369 | -41.14372 | 2024-10-25 00:24:00 | TERRA_M-M | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
-| 35deaa37-55d2-3eac-87a4-ab5d04077a7e | -15.21413 | -44.73962 | 2024-10-25 00:24:00 | TERRA_M-M | BONITO DE MINAS | MINAS GERAIS | Brasil | 3108255 | 31 | 33 | nan | nan | nan | Cerrado | 18.5 |
-| ff15a18d-c4c8-3ae1-9ba5-5e0a19cb84dd | -15.03431 | -42.29801 | 2024-10-25 00:24:00 | TERRA_M-M | MORTUGABA | BAHIA | Brasil | 2921807 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 093d4b6b-a338-3a1b-98aa-0205e4a95bbb | -15.03291 | -42.28723 | 2024-10-25 00:24:00 | TERRA_M-M | MORTUGABA | BAHIA | Brasil | 2921807 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| f536ee58-bfb2-311c-889e-c88906305c82 | -14.95296 | -43.17355 | 2024-10-25 00:24:00 | TERRA_M-M | GAMELEIRAS | MINAS GERAIS | Brasil | 3127339 | 31 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| 7caa7131-d1f5-3e63-b10f-78de92f56b1f | -14.95139 | -43.16117 | 2024-10-25 00:24:00 | TERRA_M-M | GAMELEIRAS | MINAS GERAIS | Brasil | 3127339 | 31 | 33 | nan | nan | nan | Caatinga | 6.2 |
-| 56c83c28-2581-33e6-a223-d06efb89944c | -1.0445 | -47.6237 | 2024-10-25 00:25:11 | GOES-16 | MARAPANIM | PARÁ | Brasil | 1504406 | 15 | 33 | nan | nan | nan | Amazônia | 52.6 |
-| f00b1f4c-bfcc-38d1-bdec-2df1f9b15cc2 | -1.1834 | -53.6771 | 2024-10-25 00:25:12 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 87.4 |
-| 27281493-1166-30e7-9c37-ec848f8bfcd3 | -1.1834 | -53.6569 | 2024-10-25 00:25:12 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 92.7 |
-| a61e894a-0a03-3824-acc2-506e40e5bd04 | -2.6192 | -52.4564 | 2024-10-25 00:25:20 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 87.7 |
-| b8d23cd3-f3cb-3872-9376-6967793431bd | -2.6193 | -52.4359 | 2024-10-25 00:25:20 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| 90b1cb00-56e1-3ee3-b65b-52714de787f1 | -2.6297 | -49.247 | 2024-10-25 00:25:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 115.0 |
-| c81264f0-2d98-3b0a-a982-436f859bf760 | -2.6376 | -52.4559 | 2024-10-25 00:25:20 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| 643d49bd-a662-31cc-b7b6-1331f0ec9074 | -2.6482 | -49.2465 | 2024-10-25 00:25:20 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 91.0 |
-| ad39a57e-c888-3c6d-982a-47e9c8a94059 | -2.796 | -49.2636 | 2024-10-25 00:25:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 105.6 |
-| e0e84de4-13d4-3810-94ff-f320a13e0ac9 | -2.796 | -49.2424 | 2024-10-25 00:25:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 136.0 |
-| 73b862d1-c9ea-31d0-bed8-698478f530f1 | -2.8144 | -49.2631 | 2024-10-25 00:25:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 226.0 |
-| af87c5be-9b16-340f-9952-239186c33b86 | -2.8145 | -49.2418 | 2024-10-25 00:25:21 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 271.9 |
-| 7fd05e92-71f4-31e5-801a-1e058c7e7a70 | -2.9578 | -50.4198 | 2024-10-25 00:25:22 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 72.0 |
-| 6b1a76c3-5d36-371e-9aae-4d06deb43df5 | -3.1071 | -45.7232 | 2024-10-25 00:25:23 | GOES-16 | ARAGUANÃ | MARANHÃO | Brasil | 2100873 | 21 | 33 | nan | nan | nan | Amazônia | 106.5 |
-| 3dd9dfcc-9411-31f8-a03d-f80a25045e26 | -3.1072 | -45.7009 | 2024-10-25 00:25:23 | GOES-16 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 144.0 |
-| 7eb010ae-5118-3c5c-9ff6-d9bd1bb7db21 | -3.1257 | -45.7225 | 2024-10-25 00:25:23 | GOES-16 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 75.5 |
-| f4854b74-6fa9-344a-85c2-b1b4072320a9 | -3.1258 | -45.7002 | 2024-10-25 00:25:23 | GOES-16 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 104.6 |
-| 1bbfdd01-2d23-35d8-868c-a5b0ee55ec4b | -3.2368 | -45.8077 | 2024-10-25 00:25:23 | GOES-16 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 107.4 |
-| 99f525bb-6ff0-3cb6-8f2f-735099efb892 | -3.2552 | -45.8293 | 2024-10-25 00:25:24 | GOES-16 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 123.5 |
-| 5813aa02-e16f-37d4-b16b-6ecff82242d9 | -3.2553 | -45.807 | 2024-10-25 00:25:24 | GOES-16 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 284.1 |
-| e5c1b6e2-dc21-37ed-91ee-d2054e70bce4 | -3.3124 | -49.5235 | 2024-10-25 00:25:24 | GOES-16 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 81.1 |
-| d993549a-9775-3bf6-8aae-9b7762f6b288 | -3.4047 | -49.5415 | 2024-10-25 00:25:24 | GOES-16 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| 2e24f320-8f37-36c9-9194-a7eccf1fcde7 | -3.4048 | -49.5203 | 2024-10-25 00:25:24 | GOES-16 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 73.1 |
-| 831d5a9e-d336-31f6-be49-1314fd15d55b | -3.4605 | -45.6645 | 2024-10-25 00:25:25 | GOES-16 | GOVERNADOR NEWTON BELLO | MARANHÃO | Brasil | 2104651 | 21 | 33 | nan | nan | nan | Amazônia | 99.4 |
-| ee29d2fd-d5d7-3879-8bfa-130b1da04434 | -3.4791 | -45.6637 | 2024-10-25 00:25:25 | GOES-16 | GOVERNADOR NEWTON BELLO | MARANHÃO | Brasil | 2104651 | 21 | 33 | nan | nan | nan | Amazônia | 93.3 |
-| f041ea6c-657f-32fb-b841-5386fb5c35cb | -3.9394 | -46.445 | 2024-10-25 00:25:27 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| fc9e3257-b33b-3ce0-8679-7887a2729e05 | -3.9396 | -46.4229 | 2024-10-25 00:25:27 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 79.4 |
-| 3fd02047-0532-308b-8d96-121a2ce7295d | -3.958 | -46.4442 | 2024-10-25 00:25:28 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 101.7 |
-| 73c5b422-5361-3938-b764-e4b62be36bc9 | -3.9581 | -46.422 | 2024-10-25 00:25:28 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 106.3 |
-| cf0af4c0-2ec1-3d96-8ed6-b1519af55a8a | -4.2427 | -48.5689 | 2024-10-25 00:25:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 75.0 |
-| 8bab8b35-3fbd-3b58-9af2-fcee444f82ce | -4.2429 | -48.5474 | 2024-10-25 00:25:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 129.5 |
-| e6ffec0b-2c69-352c-b8aa-cbe07a84a965 | -4.244 | -48.3535 | 2024-10-25 00:25:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 71.4 |
-| c3f0a7a3-f12b-3db2-a549-e27e12bd38b9 | -4.2441 | -48.332 | 2024-10-25 00:25:29 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 93.2 |
-| 11feeb64-1753-385e-a5d9-7504d4870df8 | -4.5231 | -48.2108 | 2024-10-25 00:25:31 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| db6d6aaf-0a5f-32ba-a1e2-e5d94c3f1316 | -4.58 | -48.0132 | 2024-10-25 00:25:31 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 113.7 |
-| a123f09d-95d6-393b-a8f0-49f2c38ac68d | -4.8423 | -45.0309 | 2024-10-25 00:25:32 | GOES-16 | POÇÃO DE PEDRAS | MARANHÃO | Brasil | 2108900 | 21 | 33 | nan | nan | nan | Cerrado | 78.2 |
-| 53fb68d8-3621-3d8e-b7af-45bd7bd6efb7 | -5.6589 | -47.9093 | 2024-10-25 00:25:37 | GOES-16 | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Amazônia | 58.5 |
-| c5dcfcd0-a668-3548-a509-21cd99b3d4df | -6.5219 | -60.0457 | 2024-10-25 00:25:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 133.3 |
-| 453cb70d-c603-379c-9312-223beca44037 | -6.522 | -60.0266 | 2024-10-25 00:25:43 | GOES-16 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 117.5 |
-| c5eb5512-bb99-337c-a688-cd6ffe7bfb30 | -6.6472 | -47.8642 | 2024-10-25 00:25:43 | GOES-16 | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 67.6 |
-| 4b0ea325-d179-3160-a8a0-f560ff0125ef | -7.9046 | -63.7129 | 2024-10-25 00:25:51 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 47.6 |
-| 3642aa1b-e612-3fc7-96c8-7f1a2090d449 | -7.923 | -63.7123 | 2024-10-25 00:25:51 | GOES-16 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 49.0 |
-| 32381944-0751-3e1e-b91e-d6c3af46d4ce | -8.9064 | -48.544 | 2024-10-25 00:25:56 | GOES-16 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | 89.8 |
-| dc25a614-8148-3b73-a484-b33887d33b97 | -9.6498 | -35.8492 | 2024-10-25 00:25:59 | GOES-16 | COQUEIRO SECO | ALAGOAS | Brasil | 2702207 | 27 | 33 | nan | nan | nan | Mata Atlântica | 65.6 |
-| 6f15d0d2-c363-33c3-9844-792549d8c469 | -10.43651 | -48.07146 | 2024-10-25 00:26:00 | TERRA_M-M | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 27.8 |
-| e9c02ed8-1f6d-3da6-b6b0-a77de549eac5 | -10.42089 | -47.53136 | 2024-10-25 00:26:00 | TERRA_M-M | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| a492568d-63ec-3f58-8252-69be61afc021 | -10.25039 | -46.53519 | 2024-10-25 00:26:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 43.0 |
-| 2a58e68b-358a-3b4d-947a-0613f8c5be58 | -10.24735 | -46.54119 | 2024-10-25 00:26:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 37.2 |
-| 7a33c457-7b50-330d-aa30-236ab5c3d14f | -10.24504 | -46.5228 | 2024-10-25 00:26:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 23.3 |
-| 8ceeeaa0-876e-3883-8517-6be91844e2d0 | -10.17113 | -47.90756 | 2024-10-25 00:26:00 | TERRA_M-M | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| 1ce90d33-451d-3611-8f7e-188f1c367826 | -5.94469 | -39.68428 | 2024-10-25 00:26:00 | TERRA_M-M | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| 178d945a-1ae4-31e3-bbe6-24f75ba75e0e | -14.12348 | -44.3139 | 2024-10-25 00:26:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 104.0 |
-| 9499b6b5-6346-30c0-bc32-ae46b78c7dc0 | -14.12176 | -44.29956 | 2024-10-25 00:26:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| 60dd62ba-3caa-3e11-8845-6d10c5dce29f | -9.6537 | -35.85962 | 2024-10-25 00:26:00 | TERRA_M-M | COQUEIRO SECO | ALAGOAS | Brasil | 2702207 | 27 | 33 | nan | nan | nan | Mata Atlântica | 109.3 |
-| 4434c337-3c6a-35e1-8e36-1fede79337b1 | -9.35703 | -43.37272 | 2024-10-25 00:26:00 | TERRA_M-M | CAMPO ALEGRE DE LOURDES | BAHIA | Brasil | 2905909 | 29 | 33 | nan | nan | nan | Caatinga | 10.8 |
-| 16f2f75a-3ef6-3fa0-ab7f-e3c2ea6704eb | -9.34743 | -43.37403 | 2024-10-25 00:26:00 | TERRA_M-M | CARACOL | PIAUÍ | Brasil | 2202505 | 22 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| ed4b1f6f-812e-339e-9c3d-d06dcf6ff8c4 | -8.67122 | -40.97377 | 2024-10-25 00:26:00 | TERRA_M-M | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 7.0 |
-| db4ba62b-a083-3e17-83e6-0ef94a154318 | -8.66998 | -40.96489 | 2024-10-25 00:26:00 | TERRA_M-M | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 28.6 |
-| 2a41767b-3db6-3992-9cab-22a612626b6b | -8.05092 | -41.15069 | 2024-10-25 00:26:00 | TERRA_M-M | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| 3d287f1a-581e-3993-afae-6bed01329a9a | -7.79467 | -43.16987 | 2024-10-25 00:26:00 | TERRA_M-M | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
-| 3e2c624b-cdc3-3a27-ab94-d2d797cbd1e6 | -7.68049 | -35.09564 | 2024-10-25 00:26:00 | TERRA_M-M | ITAQUITINGA | PERNAMBUCO | Brasil | 2607802 | 26 | 33 | nan | nan | nan | Mata Atlântica | 67.6 |
-| ee4c09e3-c404-384d-a8dd-1f0d1af4158c | -7.67762 | -35.07739 | 2024-10-25 00:26:00 | TERRA_M-M | ITAQUITINGA | PERNAMBUCO | Brasil | 2607802 | 26 | 33 | nan | nan | nan | Mata Atlântica | 48.2 |
-| 71b8e225-93e1-3896-9d07-0c9335f77251 | -7.27746 | -43.63909 | 2024-10-25 00:26:00 | TERRA_M-M | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Caatinga | 6.2 |
-| d9bb5fa8-31d8-3929-8826-580796c3340a | -6.95428 | -42.4814 | 2024-10-25 00:26:00 | TERRA_M-M | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 33.8 |
-| 4ee10b22-fc82-3c5d-b126-36a000efbbe8 | -6.69 | -43.58968 | 2024-10-25 00:26:00 | TERRA_M-M | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 2500a994-0582-3328-871a-679a36c0be9d | -6.64262 | -35.17582 | 2024-10-25 00:26:00 | TERRA_M-M | JACARAÚ | PARAÍBA | Brasil | 2507309 | 25 | 33 | nan | nan | nan | Mata Atlântica | 76.7 |
-| d5bbf132-32d0-3ebb-baf7-0fe30043d49e | -6.64159 | -35.18172 | 2024-10-25 00:26:00 | TERRA_M-M | JACARAÚ | PARAÍBA | Brasil | 2507309 | 25 | 33 | nan | nan | nan | Mata Atlântica | 44.4 |
-| 96aad1ec-e41e-365e-baa1-b71f627b91d3 | -6.63968 | -35.1573 | 2024-10-25 00:26:00 | TERRA_M-M | MAMANGUAPE | PARAÍBA | Brasil | 2508901 | 25 | 33 | nan | nan | nan | Mata Atlântica | 17.8 |
-| 74ca715d-fe66-35b1-ae5f-c940d7c8b81c | -6.63879 | -35.16316 | 2024-10-25 00:26:00 | TERRA_M-M | JACARAÚ | PARAÍBA | Brasil | 2507309 | 25 | 33 | nan | nan | nan | Mata Atlântica | 43.1 |
-| de35f7a7-7077-36c5-9279-6083512887f4 | -6.59057 | -42.24419 | 2024-10-25 00:26:00 | TERRA_M-M | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 9cf38ced-8a32-3a4b-b042-e6a4f7e59696 | -6.4612 | -41.77638 | 2024-10-25 00:26:00 | TERRA_M-M | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 6776c411-59ac-3ddb-9ab2-dee971f85055 | -14.48178 | -45.50156 | 2024-10-25 00:26:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 51.3 |
-| 0a0db1b8-172e-33cf-9091-1f07fa0b5dd4 | -14.4797 | -45.48373 | 2024-10-25 00:26:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| 3a243271-e819-3f66-9341-56c6f1e5ff68 | -14.31472 | -44.57587 | 2024-10-25 00:26:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| cd370b55-5018-3799-adaa-f304294dc206 | -14.31324 | -44.56716 | 2024-10-25 00:26:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 35427e5b-3b34-3232-9413-2866eb227a8a | -14.25161 | -43.26583 | 2024-10-25 00:26:00 | TERRA_M-M | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 34.2 |
-| 8ead91cf-dec6-37fd-bcc9-65f42124d4bf | -14.25091 | -43.27264 | 2024-10-25 00:26:00 | TERRA_M-M | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 15.0 |
-| 7cee4352-7cc5-3270-8313-f07603ea97a1 | -14.25003 | -43.25359 | 2024-10-25 00:26:00 | TERRA_M-M | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| e530b4ae-2e98-33c9-9012-7c09caaf5dde | -14.24942 | -43.26038 | 2024-10-25 00:26:00 | TERRA_M-M | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 54.6 |
-| afffe457-5c15-33c9-ba42-f44fedcf94c3 | -14.16256 | -44.17954 | 2024-10-25 00:26:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 24.2 |
-| 9d582058-a80f-3471-b6e5-8d9e20f2545e | -14.14773 | -44.23867 | 2024-10-25 00:26:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 23.0 |
-| e6f61dac-e2e0-3122-9160-466b08c5d073 | -14.1252 | -44.32831 | 2024-10-25 00:26:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 3bd6b7db-631d-3ca1-9cb8-2406eff4d633 | -14.10068 | -44.21585 | 2024-10-25 00:26:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 5ab08776-095d-3533-9e3d-b789630eafd6 | -13.88212 | -43.09013 | 2024-10-25 00:26:00 | TERRA_M-M | MATINA | BAHIA | Brasil | 2921054 | 29 | 33 | nan | nan | nan | Caatinga | 5.3 |
-| c0aa087d-e80f-3aae-bebe-15c5a73d636b | -13.88066 | -43.0784 | 2024-10-25 00:26:00 | TERRA_M-M | MATINA | BAHIA | Brasil | 2921054 | 29 | 33 | nan | nan | nan | Caatinga | 8.4 |
-| e661acfe-fef6-30c4-b28f-8f7d389bdd17 | -13.77092 | -43.17731 | 2024-10-25 00:26:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| 7db763a2-468f-3575-8f57-ba6d5afa7a97 | -13.75187 | -43.60289 | 2024-10-25 00:26:00 | TERRA_M-M | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| eb3018fe-5eca-3702-bdb2-584f686453b6 | -13.64957 | -44.29635 | 2024-10-25 00:26:00 | TERRA_M-M | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 16.8 |
-| 7f714db8-8d39-3531-88c7-ca39a99cf893 | -13.64274 | -44.30552 | 2024-10-25 00:26:00 | TERRA_M-M | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 9d5eda9d-78cf-3a59-b412-6fe5918d4800 | -13.57976 | -42.30584 | 2024-10-25 00:26:00 | TERRA_M-M | PARAMIRIM | BAHIA | Brasil | 2923605 | 29 | 33 | nan | nan | nan | Caatinga | 13.2 |
-| 6445d7d6-e9bc-39af-a529-4d338d7e1328 | -13.28896 | -43.96198 | 2024-10-25 00:26:00 | TERRA_M-M | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | 21.4 |
-| 5e308f87-83bc-3b1c-a4bb-583928c14be2 | -13.08633 | -43.08672 | 2024-10-25 00:26:00 | TERRA_M-M | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| 60c13642-c3ab-3864-ac56-33153f393937 | -12.90032 | -45.07589 | 2024-10-25 00:26:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 24.4 |
+| 011562c6-3d57-32fe-ada8-6ad802acabf5 | -17.2733 | -57.5085 | 2024-10-26 00:26:42 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 51.9 |
+| fc5019eb-b825-37a5-b289-3cb7cf9528c0 | -17.6667 | -57.4822 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 92.4 |
+| db117479-c66e-32c7-b02c-203766c7285f | -17.6861 | -57.5004 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 51.4 |
+| 6dd795e3-cd0a-319f-995e-fe1a19029eaf | -17.6865 | -57.4798 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 133.0 |
+| 964118e6-cccf-30d8-b355-0925243a4409 | -17.7062 | -57.4774 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 46.6 |
+| e904997f-4e54-369c-82f7-d66590c60a12 | -17.7242 | -57.5779 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 47.4 |
+| 70228833-2383-36d2-a258-76b8f94eb9bc | -17.7436 | -57.5961 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 67.5 |
+| 3b90dfbd-e222-34fd-821a-f79a3d1ee05a | -17.744 | -57.5756 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 63.6 |
+| 14c6ad62-d5fa-3b6d-91ce-eccfeaa806b9 | -17.7443 | -57.555 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 35.1 |
+| a5f8f5e2-5b0d-39f6-938a-b5f706e443cc | -17.7671 | -57.3673 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 71.4 |
+| ac8c88e1-822f-3bb8-9cad-a8ef338b06e6 | -17.7674 | -57.3467 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 72.4 |
+| 908f45b3-78ce-31d1-a064-ef391712a957 | -17.7868 | -57.3649 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 141.8 |
+| ad8e9a02-3cd6-34ab-a27c-7b6dd05b4b1d | -17.7872 | -57.3443 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 127.9 |
+| 9937f62c-35d0-313a-99cf-d9cf0881243d | -17.8066 | -57.3625 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 77.6 |
+| 48ce9758-72b2-32c7-babe-9aad849cbd02 | -17.8069 | -57.3419 | 2024-10-26 00:26:45 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 69.9 |
+| d34b5e37-2f2c-3206-b649-e5d87426779b | -18.065 | -57.2481 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 69.2 |
+| 23621e7b-c6f1-33f3-bebb-8dd7c4ac356f | -18.0653 | -57.2274 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 72.3 |
+| a3781a25-d06c-3681-ad93-15c6aaa9b789 | -18.0844 | -57.2663 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 66.4 |
+| fa4593ec-82d4-3c7f-b6e7-347d764e07d8 | -18.1039 | -57.2845 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.6 |
+| 724655d5-ba93-37a1-9b6b-fe4553c276f8 | -18.1042 | -57.2638 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 91.2 |
+| 7a47e515-6ae0-3207-b581-84fbb094f16a | -18.1223 | -57.3647 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 65.0 |
+| 4884ef4d-3e49-33ae-b343-3792a2ca436c | -18.1417 | -57.3829 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 74.5 |
+| 9467a632-28e6-3c94-8d9a-4e6a9d3746c7 | -18.1421 | -57.3622 | 2024-10-26 00:26:47 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 88.1 |
+| 0ead8fd3-fccb-337a-a345-38f32303af8b | -19.6063 | -56.7108 | 2024-10-26 00:26:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 71.2 |
+| b3199a4d-a496-3a16-95c6-e89bffdbbc56 | -19.6067 | -56.6898 | 2024-10-26 00:26:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 155.3 |
+| 2ba5f2e1-e8f5-3850-9f0a-2861d641ad44 | -19.6071 | -56.6688 | 2024-10-26 00:26:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 72.7 |
+| 638381a2-8f9c-3520-b34a-5a2c9ed8bdde | -19.6268 | -56.6869 | 2024-10-26 00:26:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 102.8 |
+| 5b4281cb-57d5-3b76-8370-50a348da200a | -19.6272 | -56.6659 | 2024-10-26 00:26:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 77.4 |
+| d9351128-bd9b-38e0-a539-ff8f61364d4f | -18.537001 | -41.334702 | 2024-10-26 00:30:48 | METOP-B | MENDES PIMENTEL | MINAS GERAIS | Brasil | 3141504 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 80d225a2-019a-3cca-b851-d8fff85fa200 | -17.4247 | -39.937698 | 2024-10-26 00:31:00 | METOP-B | MEDEIROS NETO | BAHIA | Brasil | 2921104 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| bf204bac-cf17-3fab-9f77-4b891c57eb91 | -17.4119 | -39.928398 | 2024-10-26 00:31:01 | METOP-B | TEIXEIRA DE FREITAS | BAHIA | Brasil | 2931350 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| e3c11c51-4d55-37f1-87b6-c5e2d588b0c8 | -17.415001 | -39.940399 | 2024-10-26 00:31:01 | METOP-B | TEIXEIRA DE FREITAS | BAHIA | Brasil | 2931350 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 589797af-9ab8-327e-bba4-ed3809b4e3cc | -17.417999 | -39.952499 | 2024-10-26 00:31:01 | METOP-B | MEDEIROS NETO | BAHIA | Brasil | 2921104 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| f56de8ba-4443-3f64-8e2e-e499f98279ed | -20.304001 | -55.318699 | 2024-10-26 00:31:05 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| a9fe42de-9d99-3148-8b19-da4a8518a435 | -20.307699 | -55.341702 | 2024-10-26 00:31:05 | METOP-B | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 549ba00e-24d0-3335-95e2-77168b28b99b | -17.639601 | -42.0798 | 2024-10-26 00:31:05 | METOP-B | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 0c0ede3f-b1d4-382b-9745-699cd67764e2 | -17.6418 | -42.088799 | 2024-10-26 00:31:05 | METOP-B | SETUBINHA | MINAS GERAIS | Brasil | 3165552 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2c5a40f1-d83e-3c6c-85aa-bc4ed9ceaa2e | -20.2943 | -55.3204 | 2024-10-26 00:31:05 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 15518bcf-6465-348b-ba58-44caa53ed778 | -20.298 | -55.343399 | 2024-10-26 00:31:05 | METOP-B | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 1908fdd4-1b6d-3187-927c-e9f3c3854876 | -19.619499 | -56.645802 | 2024-10-26 00:31:20 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 87903256-cb42-3491-86f3-bb0a051198da | -19.6099 | -56.647499 | 2024-10-26 00:31:20 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 08001afb-af18-3944-b88d-ae40156e1358 | -19.5809 | -56.652302 | 2024-10-26 00:31:21 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| f799574a-b42c-328f-b46a-6a5d411e4233 | -19.5422 | -56.658798 | 2024-10-26 00:31:22 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| cca3b48a-5ad1-3b29-a822-e5b863703a9d | -19.528299 | -56.633099 | 2024-10-26 00:31:22 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| a5335b9f-6d89-3d18-8ff9-f647208afd64 | -19.5326 | -56.6605 | 2024-10-26 00:31:22 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| ae92b764-0f22-3cd8-a22f-c7ef05b39f59 | -19.5186 | -56.634701 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 24a48591-3051-3c77-8d93-528381f9bd71 | -19.5229 | -56.662102 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 93efeeee-2f3c-3f4b-86cd-e52c7880120a | -19.490601 | -56.583698 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 6c98aa7b-3cd6-363a-83f9-e6b6451b70d4 | -19.4949 | -56.610802 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| c8e2d05b-349f-37a3-8047-274373b5bf82 | -19.499201 | -56.6381 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| c274bdd2-e785-3dad-ab2e-3e3abad69add | -19.481001 | -56.5853 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 9f3c714e-55e1-3f35-b075-dbc1e4dbfacb | -19.4853 | -56.612499 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| d4bd222d-2430-3f0a-b555-961e66e2e206 | -19.489599 | -56.639702 | 2024-10-26 00:31:22 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 429689ea-bf1d-3871-940a-db7b553bdb67 | -19.475599 | -56.614101 | 2024-10-26 00:31:23 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 2d43c422-70b0-3eb6-8471-055426d37b0c | -16.0116 | -41.173199 | 2024-10-26 00:31:28 | METOP-B | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6acbbbcb-4be4-3a3e-9e6c-62490b2f8adc | -16.0142 | -41.1838 | 2024-10-26 00:31:28 | METOP-B | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| fd036f80-5278-3305-8608-af12a064ad26 | -16.040001 | -43.715698 | 2024-10-26 00:31:37 | METOP-B | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 36ea4f33-5337-3262-9528-c20e33715ca1 | -15.825 | -43.591202 | 2024-10-26 00:31:40 | METOP-B | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 66ecb326-c154-3c13-baec-e2d385158666 | -15.8269 | -43.5993 | 2024-10-26 00:31:40 | METOP-B | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 9fa2bee1-8939-383d-90cb-95e9c25e3efb | -15.6075 | -43.721699 | 2024-10-26 00:31:44 | METOP-B | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| 1b118970-3b30-38b0-9b95-7d425f5c2c15 | -15.5624 | -43.749901 | 2024-10-26 00:31:45 | METOP-B | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| b8393288-4b22-3a37-b4b4-8e2c4ded4e93 | -15.5642 | -43.757801 | 2024-10-26 00:31:45 | METOP-B | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Caatinga | nan |
+| e8b15af3-dd00-3832-9d1d-c051c3039d42 | -15.4564 | -43.605801 | 2024-10-26 00:31:46 | METOP-B | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| d9e0428c-ebe9-3885-9937-0fd757504db6 | -18.136 | -57.301998 | 2024-10-26 00:31:47 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 1f21c0db-3a72-3b28-83c6-2575e2c40ac0 | -18.126301 | -57.3036 | 2024-10-26 00:31:47 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| d9b50382-dc05-31a0-a0e6-abf8eb23aab7 | -18.131001 | -57.3326 | 2024-10-26 00:31:47 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| d26f7563-ae93-35b5-bcbc-6e496ca3e7a4 | -18.102699 | -57.2192 | 2024-10-26 00:31:47 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| ed542173-3801-3ab7-a50b-5bbc03ced05c | -18.088499 | -57.192299 | 2024-10-26 00:31:47 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 02b06c60-bbb3-30d3-b53b-9ecbfa1e7943 | -18.0931 | -57.220798 | 2024-10-26 00:31:47 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 4bc6b09d-2314-3949-9420-b28d0a37206b | -18.0788 | -57.194 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 512b4ee1-8584-3014-912e-3adc4aa0963e | -18.083401 | -57.2225 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| ed675f2a-37cf-3728-9b8a-7bd5d7617e9c | -18.0646 | -57.167301 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| d085ffce-a9bf-3a80-a9d0-92f090f03eed | -18.069201 | -57.195599 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| fcf925aa-c2ba-311f-a4d3-36038d6804db | -18.0877 | -57.3102 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 1b3ea71e-89a5-3f93-8ea6-9ca8b84f1ca5 | -18.054899 | -57.168999 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| be1f782b-3826-3f47-bac6-1a70e674138b | -18.0734 | -57.2831 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 3cb7097d-8576-3427-a26c-aa7049140ec5 | -18.077999 | -57.311901 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 87e9146b-2954-31fe-9cfc-28004e614099 | -18.0637 | -57.284698 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| c3009df6-1471-31d1-85dd-e4ac6beb63f9 | -18.0683 | -57.313499 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| e50f21ed-e527-3d4f-be6b-d0ec6c3453fa | -18.073 | -57.342499 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 03f1ad81-4a50-31eb-ab75-7fbb6f809220 | -18.058701 | -57.315102 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| edf6d1c8-555a-3b83-8736-e65c76b3c515 | -18.0634 | -57.344101 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| c4eb2e87-2c47-3b60-8a5a-c0cda965245c | -18.044399 | -57.287998 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 8eb7a84f-3a2d-31e3-bad7-2f17db0ef70a | -18.049 | -57.316799 | 2024-10-26 00:31:48 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 06ef7148-c386-3e02-a0fc-e46dd253cd0f | -18.0301 | -57.260899 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| d399a1c2-f9c4-3662-b806-94c067f5d999 | -18.0348 | -57.2896 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 59d8b6bf-7e57-3483-9463-9c58b936b17e | -18.0394 | -57.318401 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| bca6fdcd-07c9-39f7-a13d-87ac2b3473fd | -18.020399 | -57.2626 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| f2e2cfb9-68e6-3d49-a77d-ada818468358 | -18.025101 | -57.291302 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 8975253a-c0c2-3937-9ccc-428ac2f1e14c | -18.029699 | -57.320099 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 1889344b-d2ba-3afb-b052-250bc512761e | -18.02 | -57.321701 | 2024-10-26 00:31:49 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| f56bf33d-6269-3f4b-be28-5f7f601bf452 | -17.865 | -57.4678 | 2024-10-26 00:31:52 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| 3b4e738e-ffaf-3650-821c-b9a72a945f32 | -17.8554 | -57.469501 | 2024-10-26 00:31:52 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| c857825c-63ba-31f3-9404-7ab2c17dd584 | -17.8409 | -57.441799 | 2024-10-26 00:31:52 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| 91e123c0-c0dc-3a05-a215-8132de20aa33 | -17.8312 | -57.443501 | 2024-10-26 00:31:52 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| c5d7ca52-7b40-3cc6-a4c2-ee78ec241522 | -17.783899 | -57.273701 | 2024-10-26 00:31:53 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| e6075715-3b28-3844-89ba-f9cdf09276ee | -17.7885 | -57.3022 | 2024-10-26 00:31:53 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| d20d1f60-9ce2-31fe-a649-1f2a76d34a22 | -17.7743 | -57.275299 | 2024-10-26 00:31:53 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| 4d9a9063-8dd5-3e90-bed8-7eea3c6d17d0 | -17.7789 | -57.303799 | 2024-10-26 00:31:53 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| f9161fce-33ce-3132-968c-c70695265186 | -17.0476 | -53.429798 | 2024-10-26 00:31:54 | METOP-B | ALTO GARÇAS | MATO GROSSO | Brasil | 5100409 | 51 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README4.md)
