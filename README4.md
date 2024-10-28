@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 04dcaba9-7b31-3e84-bf1b-6ce444088338 | -11.5261 | -40.7724 | 2024-10-27 00:12:02 | METOP-B | MORRO DO CHAPÉU | BAHIA | Brasil | 2921708 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 00281531-81d7-3f78-847d-93b21c4f0aa1 | -10.158 | -36.1576 | 2024-10-27 00:12:06 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 42223a37-7c37-3cd1-a8f8-a94d01e5b795 | -10.161 | -36.170101 | 2024-10-27 00:12:06 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 20fad2be-a80a-3e63-846e-4776deee72d4 | -10.1483 | -36.16 | 2024-10-27 00:12:06 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1a945cee-300f-38ef-9032-dc8bf47bdf96 | -10.1513 | -36.172501 | 2024-10-27 00:12:06 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| aa5dafa6-df80-3250-9763-eea914818abc | -10.1746 | -36.3102 | 2024-10-27 00:12:06 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 98ddfe30-26bb-3221-88f4-5b149bbc05ba | -10.1775 | -36.3223 | 2024-10-27 00:12:06 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4d25eb61-c6c6-3a11-a10a-a4f08be5e833 | -10.1649 | -36.312698 | 2024-10-27 00:12:07 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| eac3a6ef-a84e-3582-870e-9b4371427cce | -10.1678 | -36.324799 | 2024-10-27 00:12:07 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3bc696ad-8aec-3840-aa90-f10e2c86aa0d | -10.1708 | -36.336899 | 2024-10-27 00:12:07 | METOP-B | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| d22655bb-42cb-39bc-bd39-c1504b31bb56 | -10.1066 | -36.454899 | 2024-10-27 00:12:08 | METOP-B | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | nan |
-| 4c7cec7e-d975-3528-a16d-c133cf7b376a | -10.1095 | -36.4669 | 2024-10-27 00:12:08 | METOP-B | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | nan |
-| fe4a7fb7-5a57-321d-a7c2-e161ec5f0741 | -11.8568 | -45.284401 | 2024-10-27 00:12:12 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| fcca4ede-835e-3ef1-847d-fd016686354a | -9.6451 | -36.0434 | 2024-10-27 00:12:14 | METOP-B | PILAR | ALAGOAS | Brasil | 2706901 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| e8cf36f9-10e7-3c20-aed2-49751255bc87 | -9.6482 | -36.056301 | 2024-10-27 00:12:14 | METOP-B | PILAR | ALAGOAS | Brasil | 2706901 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| da3b2bed-ee27-3c89-a76c-6485fba0ccf2 | -9.6354 | -36.045799 | 2024-10-27 00:12:14 | METOP-B | PILAR | ALAGOAS | Brasil | 2706901 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f71e3d8b-238f-3c40-877b-541f76b7559b | -9.6385 | -36.058701 | 2024-10-27 00:12:14 | METOP-B | PILAR | ALAGOAS | Brasil | 2706901 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 10c0e0f7-393e-3735-b930-c2bb3cb5030a | -11.2718 | -45.0863 | 2024-10-27 00:12:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 239ccf01-9084-3634-b229-c6675eb9a489 | -11.2735 | -45.094501 | 2024-10-27 00:12:21 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| b0192241-55fd-3d29-a05a-d01e2cf4af51 | -10.9494 | -43.9221 | 2024-10-27 00:12:22 | METOP-B | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d41bbaec-2212-3668-bdec-6fe7a2137c9e | -11.0866 | -45.0835 | 2024-10-27 00:12:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d269a60a-2aa5-39a4-a99b-5d3f814a7613 | -11.0884 | -45.091702 | 2024-10-27 00:12:24 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 4bba49e9-669c-31a1-bdc8-108b2d737f36 | -10.8728 | -45.138302 | 2024-10-27 00:12:28 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 1e683d79-cde7-3bc5-99c0-a98d6e400301 | -10.8745 | -45.1465 | 2024-10-27 00:12:28 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 4a5b4c87-a3ae-38d6-b5c7-f176b4aaa2c4 | -10.7659 | -44.783501 | 2024-10-27 00:12:28 | METOP-B | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| d4cb9106-c2fd-3223-8c87-87639cc989a7 | -10.7676 | -44.791302 | 2024-10-27 00:12:28 | METOP-B | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 09dd5eb3-2c37-3b3e-bd00-2e2bcc1c1cee | -10.6024 | -44.263699 | 2024-10-27 00:12:29 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 9d8e9795-bf50-381e-a356-c9401b32f0df | -10.604 | -44.271198 | 2024-10-27 00:12:29 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| a297a6ec-0263-3516-9110-fc2001b79d01 | -10.591 | -44.2584 | 2024-10-27 00:12:29 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 1ac0d50d-9494-3fe2-aa51-e21c5521d26f | -10.5926 | -44.2659 | 2024-10-27 00:12:29 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| a56b3fc2-8398-35b8-9a1c-ebd35ca6408c | -10.5942 | -44.273399 | 2024-10-27 00:12:29 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 210d5f8c-1b3f-3a6a-8767-2dc4a3a54da7 | -10.5714 | -44.262699 | 2024-10-27 00:12:30 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| f6275009-4003-3317-97bf-f7eda891ef9a | -10.573 | -44.270199 | 2024-10-27 00:12:30 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 65e5a9b6-ce30-3c1d-b76f-4284d4ade2a6 | -10.1601 | -42.441002 | 2024-10-27 00:12:30 | METOP-B | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 1073b6b1-e3b2-35f4-b403-7c3eac187c0a | -10.5599 | -44.257301 | 2024-10-27 00:12:30 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 94c0d32f-35d1-38ef-91d3-d9f92ffdd1a4 | -10.5616 | -44.264801 | 2024-10-27 00:12:30 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| b6f622c1-12db-394f-b150-fb35e4cc7b0a | -10.5632 | -44.272301 | 2024-10-27 00:12:30 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 5adbe3c6-80c7-324f-8417-ec324844b6dc | -10.6755 | -44.935902 | 2024-10-27 00:12:30 | METOP-B | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 13743fab-9f4e-37a7-8209-21be0a2b8fed | -10.6772 | -44.943901 | 2024-10-27 00:12:30 | METOP-B | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c86eb141-9797-3db1-a330-191a4e77ebbf | -10.6685 | -45.0466 | 2024-10-27 00:12:31 | METOP-B | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b0012a4-37a7-3b7f-ad65-34ae7d9f5b56 | -10.6668 | -45.038502 | 2024-10-27 00:12:31 | METOP-B | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 122646dc-c013-3acf-9f19-ffdc9fd3e33b | -10.4393 | -44.553699 | 2024-10-27 00:12:33 | METOP-B | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| b46a7bb0-795b-384a-9385-f5f31d13ba6e | -10.441 | -44.561401 | 2024-10-27 00:12:33 | METOP-B | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| bccaafe0-e99a-39d4-8e04-7bd3461de874 | -10.4426 | -44.569099 | 2024-10-27 00:12:33 | METOP-B | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 76cad52e-7cfa-36c3-850d-ee70b5976d1a | -10.5319 | -45.126999 | 2024-10-27 00:12:33 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| bc74545c-03dc-39a2-8d9b-e4c273b89d03 | -10.5336 | -45.135101 | 2024-10-27 00:12:33 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 06ca3ad2-6dfd-34e3-96dd-b59ca83d22fc | -10.5354 | -45.1432 | 2024-10-27 00:12:33 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| a32b4c35-e2cf-3cde-8173-4f8b6a3b312d | -9.4659 | -40.379501 | 2024-10-27 00:12:33 | METOP-B | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| e57f9ca1-7676-3f54-8b8b-803ee79a1fb1 | -9.4676 | -40.387001 | 2024-10-27 00:12:33 | METOP-B | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| cc6e32ee-29f3-3f66-a9da-902ad6416b28 | -10.2874 | -44.137699 | 2024-10-27 00:12:34 | METOP-B | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 311c7e8e-4e0a-373e-957b-8145ee4d69af | -10.4475 | -44.877499 | 2024-10-27 00:12:34 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| f18e2b9e-1ce3-3c19-ac71-630cf7ffdb98 | -10.4377 | -44.8797 | 2024-10-27 00:12:34 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| dc587084-2c01-3695-adaa-85290196c46d | -10.4394 | -44.8876 | 2024-10-27 00:12:34 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 79f4b0f5-7e56-3bb5-80bd-d620fb6e7cdc | -10.4496 | -44.935101 | 2024-10-27 00:12:34 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 83bffb87-6050-3d95-b424-991fafa59824 | -10.4881 | -45.1619 | 2024-10-27 00:12:34 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| ec21693b-63e8-3120-99da-90e77dbb46d0 | -10.3757 | -45.0681 | 2024-10-27 00:12:36 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 923e6c3d-eb94-3b81-9062-bf95d0c0706d | -10.3774 | -45.076099 | 2024-10-27 00:12:36 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 0eb34b9f-9bc8-311a-a866-5be9cb1deefe | -10.3676 | -45.078201 | 2024-10-27 00:12:36 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 306106af-9eed-36e0-8c4b-30180c662182 | -10.0149 | -44.0667 | 2024-10-27 00:12:38 | METOP-B | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| d536f051-87a6-3edf-887c-9540d9a96cad | -10.0165 | -44.074001 | 2024-10-27 00:12:38 | METOP-B | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 6a6df4f5-9d01-3d59-8958-91dfe86209c2 | -9.9607 | -44.1479 | 2024-10-27 00:12:39 | METOP-B | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b32656e-8a9d-365a-9ea2-5c5bfde704e0 | -9.9624 | -44.1553 | 2024-10-27 00:12:39 | METOP-B | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c20afbbb-8f92-3f7e-a936-ed4fb38f38e4 | -9.9831 | -44.391899 | 2024-10-27 00:12:40 | METOP-B | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 3f0a9a28-1ade-32e6-9245-3bdad05194e2 | -9.9814 | -44.384399 | 2024-10-27 00:12:40 | METOP-B | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| dee69fb7-3825-3cf6-880e-d439cad7690b | -9.6991 | -44.739601 | 2024-10-27 00:12:45 | METOP-B | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 141ec11f-7d2c-3479-a30c-488d1226a104 | -8.7916 | -40.8568 | 2024-10-27 00:12:46 | METOP-B | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 9904089b-0b3e-386a-bd9f-6cc7ee51b081 | -8.7933 | -40.864201 | 2024-10-27 00:12:46 | METOP-B | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 2817aa29-9a73-3b5d-9f46-2a3715715573 | -9.5064 | -44.232498 | 2024-10-27 00:12:47 | METOP-B | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 0858042f-b178-3278-8655-18692f16df78 | -8.6666 | -41.0317 | 2024-10-27 00:12:49 | METOP-B | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 5d6d4ee1-54aa-3a26-8d45-d4b17ecfce94 | -8.6245 | -41.1633 | 2024-10-27 00:12:50 | METOP-B | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 0538e20a-a1d4-3640-9788-ccada535ebf1 | -8.6261 | -41.170502 | 2024-10-27 00:12:50 | METOP-B | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| f983e7bc-7cb3-3856-8b13-4fe09cd3a2d2 | -7.7086 | -37.4198 | 2024-10-27 00:12:51 | METOP-B | INGAZEIRA | PERNAMBUCO | Brasil | 2607109 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 7beed856-0f97-3f64-8839-9c40bf4f0200 | -7.7113 | -37.431 | 2024-10-27 00:12:51 | METOP-B | INGAZEIRA | PERNAMBUCO | Brasil | 2607109 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 5bbb8b8c-e41f-3e07-88a7-d95f63f6f3ee | -7.706 | -37.4086 | 2024-10-27 00:12:51 | METOP-B | INGAZEIRA | PERNAMBUCO | Brasil | 2607109 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 52007f46-8cd0-32dc-88bf-08ad90b58578 | -8.5317 | -41.752602 | 2024-10-27 00:12:54 | METOP-B | CAPITÃO GERVÁSIO OLIVEIRA | PIAUÍ | Brasil | 2202455 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| c31dcaf7-849e-3de5-8410-0a0c2f9d8d89 | -7.8834 | -39.162701 | 2024-10-27 00:12:54 | METOP-B | SALGUEIRO | PERNAMBUCO | Brasil | 2612208 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| a28ecba5-adc1-3ca0-af37-adf7c4f4116f | -7.9417 | -39.323799 | 2024-10-27 00:12:54 | METOP-B | SERRITA | PERNAMBUCO | Brasil | 2614006 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| c8f67a57-c5dc-3737-aee8-835151547fa1 | -7.9437 | -39.3325 | 2024-10-27 00:12:54 | METOP-B | SERRITA | PERNAMBUCO | Brasil | 2614006 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| af6bd16f-4575-3e92-a650-22d2e0e2b72e | -7.8813 | -39.1539 | 2024-10-27 00:12:54 | METOP-B | SALGUEIRO | PERNAMBUCO | Brasil | 2612208 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 1235567d-c5db-3b36-81b9-ec5e48aed004 | -9.13 | -44.720699 | 2024-10-27 00:12:55 | METOP-B | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 340b4fb9-312b-3a56-9c3b-5c7728978e67 | -9.1317 | -44.728199 | 2024-10-27 00:12:55 | METOP-B | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| d88d824e-16ab-3d46-bcfb-c8ffb04e9ea6 | -6.9961 | -35.616402 | 2024-10-27 00:12:55 | METOP-B | ALAGOA GRANDE | PARAÍBA | Brasil | 2500304 | 25 | 33 | nan | nan | nan | Caatinga | nan |
-| 12ce8ca9-85e0-378b-8992-9464b43ebd60 | -9.4133 | -46.080101 | 2024-10-27 00:12:55 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c4fb86c6-f967-31d8-816a-df5e40cec207 | -9.4152 | -46.088799 | 2024-10-27 00:12:55 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d06c0139-a681-3e8f-b580-42f9e5e2fcc0 | -9.1202 | -44.722801 | 2024-10-27 00:12:55 | METOP-B | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 18cee5d5-876b-33b9-9fa2-4bf6f4b35e00 | -9.1219 | -44.7304 | 2024-10-27 00:12:55 | METOP-B | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 7224259c-920c-3a40-8224-b058e1acb11d | -7.5576 | -38.741001 | 2024-10-27 00:12:58 | METOP-B | MAURITI | CEARÁ | Brasil | 2308104 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 39ee4149-4ab2-3cb1-9864-4102b5c22a16 | -7.5598 | -38.750301 | 2024-10-27 00:12:58 | METOP-B | MAURITI | CEARÁ | Brasil | 2308104 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 2dbf8e4c-f033-3a10-9934-56573195e3e8 | -7.5455 | -38.733898 | 2024-10-27 00:12:58 | METOP-B | MAURITI | CEARÁ | Brasil | 2308104 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 18efdc27-6c0a-3a66-b0ab-c90500fa1d86 | -7.5478 | -38.743301 | 2024-10-27 00:12:58 | METOP-B | MAURITI | CEARÁ | Brasil | 2308104 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 9f8e058e-2d12-345e-a660-c2f5b4ee8a8c | -8.3466 | -42.2556 | 2024-10-27 00:12:58 | METOP-B | SÃO JOÃO DO PIAUÍ | PIAUÍ | Brasil | 2210003 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| e8c21eda-74b5-39ad-8f3e-4845dc7bb29f | -8.7177 | -44.011902 | 2024-10-27 00:12:59 | METOP-B | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| bfebb043-8eed-3141-9d7f-7b5fc16a3eb8 | -8.7192 | -44.019001 | 2024-10-27 00:12:59 | METOP-B | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 4ce418df-2a0e-3cbc-a8ce-30bb3a47a892 | -8.7688 | -44.7131 | 2024-10-27 00:13:00 | METOP-B | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| ecc19ff9-3db6-3e26-9322-ae28d094dbd8 | -7.9511 | -41.150002 | 2024-10-27 00:13:01 | METOP-B | JACOBINA DO PIAUÍ | PIAUÍ | Brasil | 2205151 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 66058627-6d62-3095-b3ee-d345d75c8e87 | -7.2591 | -38.919201 | 2024-10-27 00:13:04 | METOP-B | MILAGRES | CEARÁ | Brasil | 2308302 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| c434db8d-805f-3ee6-9b79-4a5d8a88e169 | -7.9895 | -43.327599 | 2024-10-27 00:13:08 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 0f9ce967-54ce-37bd-8a49-d68aebb30ee8 | -7.9911 | -43.334499 | 2024-10-27 00:13:08 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| ecf86ca4-1ac9-3219-914f-0f622bebdac9 | -6.9722 | -39.235699 | 2024-10-27 00:13:09 | METOP-B | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 1b1f65f9-eb9f-33bb-a737-21f082ae2577 | -6.9624 | -39.237999 | 2024-10-27 00:13:10 | METOP-B | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 868dca71-053c-3759-872f-f87f0f76707f | -13.038 | -43.9771 | 2024-10-28 00:46:30 | METOP-C | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 05a438d6-4dbc-3b4a-9f18-cb071e84f560 | -13.04 | -43.985298 | 2024-10-28 00:46:30 | METOP-C | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8c3c1b24-2879-3af8-8764-d2045a426e76 | -12.9051 | -44.5942 | 2024-10-28 00:46:35 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| b8c6e07f-ca28-35a2-bfc2-2d859a8de09f | -12.907 | -44.602001 | 2024-10-28 00:46:35 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 5dd71847-7696-35ae-87ea-66396eb2f330 | -12.8954 | -44.5966 | 2024-10-28 00:46:35 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 12a18319-07ce-34e7-b51d-0d8167386740 | -12.8973 | -44.604401 | 2024-10-28 00:46:35 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 09e1f49f-7888-3b33-b2bc-521e2bb14654 | -12.8991 | -44.612202 | 2024-10-28 00:46:35 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 682ca385-2510-3ad7-bb22-542a6a765000 | -13.2618 | -48.236698 | 2024-10-28 00:46:42 | METOP-C | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d125f508-a132-333d-8148-90971576c9e2 | -12.6718 | -46.571201 | 2024-10-28 00:46:46 | METOP-C | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cb6c5278-ae21-35c2-bcb9-d655fae3f11a | -12.6734 | -46.5783 | 2024-10-28 00:46:46 | METOP-C | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cdd76f4e-8607-30c0-b030-3feabc58deb6 | -11.9327 | -43.937901 | 2024-10-28 00:46:48 | METOP-C | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 52be798d-3efe-3959-ae6e-ea36edade72e | -11.5724 | -42.915298 | 2024-10-28 00:46:50 | METOP-C | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 42252039-90a9-3b24-95c9-16bae452b1c0 | -10.6442 | -44.9972 | 2024-10-28 00:47:13 | METOP-C | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| ae7f887d-c57c-3e9b-b8ae-66b7b694f5d8 | -10.646 | -45.005001 | 2024-10-28 00:47:13 | METOP-C | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| b14f0f31-fca7-34ca-94ff-fa3c5116594b | -11.6272 | -44.9594 | 2024-10-28 00:47:23 | METOP-C | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d20a0ac5-1592-3862-88cf-e70e92eeca18 | -11.6291 | -44.967098 | 2024-10-28 00:47:23 | METOP-C | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e0f6f406-300b-3721-a547-c735dbe2bd2a | -10.0904 | -45.365601 | 2024-10-28 00:47:23 | METOP-C | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| d5a5c1bd-0e5a-32ff-a628-ce46f80c09fc | -9.4539 | -44.464699 | 2024-10-28 00:47:30 | METOP-C | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| ea2ee907-ff4d-35cb-93a5-c9ec14cfc649 | -9.4421 | -44.4585 | 2024-10-28 00:47:30 | METOP-C | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 020c1e7d-f1b3-33d6-823f-53fc59217075 | -9.4441 | -44.466999 | 2024-10-28 00:47:30 | METOP-C | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 5686eacf-ac4f-3230-a0d2-5bb859cfa05a | -9.4461 | -44.475498 | 2024-10-28 00:47:30 | METOP-C | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 5a407f38-5a88-3e77-a673-0b47067d9fbb | -10.8764 | -44.536598 | 2024-10-28 00:47:33 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d3ab3ab1-cf15-3e83-bafe-2683cf35e57f | -8.8316 | -42.7798 | 2024-10-28 00:47:33 | METOP-C | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| f64680f2-2abc-3780-a457-9e177d3aecb9 | -9.6763 | -46.245701 | 2024-10-28 00:47:33 | METOP-C | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f65aabb9-5381-31d2-a0e8-bfa1ae534130 | -9.678 | -46.252899 | 2024-10-28 00:47:33 | METOP-C | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 979a8f9b-af82-3b40-bc0b-3d4c2ca6cf41 | -10.0605 | -48.0569 | 2024-10-28 00:47:34 | METOP-C | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 39d4cd84-7293-34cd-b751-5572c895809b | -10.0621 | -48.063801 | 2024-10-28 00:47:34 | METOP-C | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fba4c1d3-1a9a-36ee-8b71-178a4d0fcd04 | -10.5962 | -44.271 | 2024-10-28 00:47:37 | METOP-C | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 4a5177fa-efdf-3361-9000-09f69a0f9a17 | -10.5982 | -44.279499 | 2024-10-28 00:47:37 | METOP-C | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| e3e61f29-7454-3dc2-b4d7-c7f7053f2723 | -10.6541 | -44.994801 | 2024-10-28 00:47:39 | METOP-C | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| a2b8b0b2-4144-3f03-b1f2-d8cde76de67c | -10.6559 | -45.002701 | 2024-10-28 00:47:39 | METOP-C | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 11ab9b14-745e-35e3-a66b-18f9775bc6fa | -10.6578 | -45.010502 | 2024-10-28 00:47:39 | METOP-C | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| a7227802-be47-34ca-a76a-f10d8a3465f4 | -9.2728 | -47.901402 | 2024-10-28 00:47:46 | METOP-C | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 615e34f7-bbdc-389f-925f-a5cac8f7f193 | -9.2744 | -47.908298 | 2024-10-28 00:47:46 | METOP-C | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| d9080d67-890f-33d0-b126-6d380c1289f8 | -14.13457 | -42.92769 | 2024-10-28 00:48:00 | TERRA_M-M | GUANAMBI | BAHIA | Brasil | 2911709 | 29 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| ae78bfe0-40a2-3bf4-a50a-e7bf0d201588 | -16.53619 | -41.79331 | 2024-10-28 00:48:00 | TERRA_M-M | ITINGA | MINAS GERAIS | Brasil | 3134004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
+| f42f81ef-8226-31d4-bc43-e8e321b3f73a | -15.64149 | -41.70735 | 2024-10-28 00:48:00 | TERRA_M-M | BERIZAL | MINAS GERAIS | Brasil | 3106655 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
+| 09e08250-d499-3725-8fa4-51dced52e9df | -15.63993 | -41.70141 | 2024-10-28 00:48:00 | TERRA_M-M | BERIZAL | MINAS GERAIS | Brasil | 3106655 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.2 |
+| 5cd7b8c7-a5ad-3c78-bb3d-40c7dc71805a | -15.513 | -42.27902 | 2024-10-28 00:48:00 | TERRA_M-M | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| e1cde363-6b2a-374c-a815-37bfea70a3bc | -15.51134 | -42.26809 | 2024-10-28 00:48:00 | TERRA_M-M | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 0449feb5-a9da-3b99-9cf3-a1c94e12718c | -15.43027 | -41.14244 | 2024-10-28 00:48:00 | TERRA_M-M | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
+| 4cd0bd0c-44fd-3fd5-8909-04d85ca6b628 | -15.37011 | -40.18214 | 2024-10-28 00:48:00 | TERRA_M-M | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 19.9 |
+| 8036cd47-a669-3000-bf3c-d6b1d28051b1 | -15.35905 | -40.18427 | 2024-10-28 00:48:00 | TERRA_M-M | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 43.8 |
+| d7044118-e86e-3c99-8b2f-e9b8a71ec8e5 | -15.3566 | -40.16919 | 2024-10-28 00:48:00 | TERRA_M-M | ITAPETINGA | BAHIA | Brasil | 2916401 | 29 | 33 | nan | nan | nan | Mata Atlântica | 17.1 |
+| ddf0a727-9035-3720-971e-5c53f6fec806 | -15.31982 | -41.75077 | 2024-10-28 00:48:00 | TERRA_M-M | NINHEIRA | MINAS GERAIS | Brasil | 3144656 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
+| ff2c994b-db6e-3dee-9fc8-ee04a67a532c | -14.96269 | -41.89413 | 2024-10-28 00:48:00 | TERRA_M-M | CORDEIROS | BAHIA | Brasil | 2909000 | 29 | 33 | nan | nan | nan | Caatinga | 7.6 |
+| 0be3497d-3fa8-32d5-8326-19ccac7bb33f | -14.55673 | -42.98811 | 2024-10-28 00:48:00 | TERRA_M-M | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 46a86a75-4c18-3300-b9ad-ecaac9c4b101 | -14.55517 | -42.97779 | 2024-10-28 00:48:00 | TERRA_M-M | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Cerrado | 53.1 |
+| 843fcc3d-3554-30bf-95b2-ecf3ebbceb7a | -14.32769 | -42.30468 | 2024-10-28 00:48:00 | TERRA_M-M | IBIASSUCÊ | BAHIA | Brasil | 2912004 | 29 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 5b35a40d-c6cb-3ce8-a79b-33431d94bafb | -14.19611 | -43.72556 | 2024-10-28 00:48:00 | TERRA_M-M | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 5fd0dafd-23d2-303b-87ba-1534248359ce | -14.0693 | -43.99216 | 2024-10-28 00:48:00 | TERRA_M-M | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 3a2f3705-e10b-3d2a-8285-d3bee368f52e | -13.89756 | -43.45155 | 2024-10-28 00:48:00 | TERRA_M-M | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 2b30ef1b-080a-3f91-b5ed-77491ad86559 | -13.7008 | -42.88364 | 2024-10-28 00:48:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 8.7 |
+| e8ee4baf-3033-30fe-9995-5bf5d5f21f33 | -13.68869 | -44.03783 | 2024-10-28 00:48:00 | TERRA_M-M | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| a69d943b-7aeb-3ce8-9d4f-b0758c15ec16 | -13.57281 | -43.06538 | 2024-10-28 00:48:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| a18610d5-eff4-3695-807f-686c4f59fd20 | -13.54828 | -44.34008 | 2024-10-28 00:48:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 17.2 |
+| afab69c4-a48b-3408-aead-67ea86201bbe | -13.54692 | -44.33075 | 2024-10-28 00:48:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 35.2 |
+| 9205a928-0bd0-36ab-bb73-579d418d8e84 | -13.45707 | -44.28411 | 2024-10-28 00:48:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| a22cd2f0-f3ac-30eb-9145-e6235090ecd9 | -13.33004 | -44.61908 | 2024-10-28 00:48:00 | TERRA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 1e947145-965c-3319-8c15-53ecafba11ee | -13.17025 | -42.97194 | 2024-10-28 00:48:00 | TERRA_M-M | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 5af1e4f1-cbf4-3158-8cfe-f26693abe881 | -13.16866 | -42.96144 | 2024-10-28 00:48:00 | TERRA_M-M | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 7.4 |
+| be08d42a-ce0e-39e8-bedd-696c480893c2 | -13.0369 | -43.99648 | 2024-10-28 00:48:00 | TERRA_M-M | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| a964733b-f2cd-3f48-a4ba-4ecf8f0e11bc | -13.03549 | -43.9869 | 2024-10-28 00:48:00 | TERRA_M-M | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| e6c327ae-7907-399c-b484-c52818834865 | -12.97691 | -43.46402 | 2024-10-28 00:48:00 | TERRA_M-M | SÍTIO DO MATO | BAHIA | Brasil | 2930758 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 7b13dc6e-8b9f-3044-aa0f-9be0fdb2cdeb | -8.2929 | -40.882599 | 2024-10-28 00:48:01 | METOP-C | ACAUÃ | PIAUÍ | Brasil | 2200053 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 6565780a-88e2-348e-88f4-c296a3601955 | -10.3068 | -51.882099 | 2024-10-28 00:48:09 | METOP-C | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8920d135-5f16-367f-af8a-8497fb4513ec | -8.9983 | -46.749401 | 2024-10-28 00:48:12 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0322a1bb-8ce7-3b7f-ad3a-5b31046fa2df | -9.0 | -46.7565 | 2024-10-28 00:48:12 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ac5d6193-7596-3edd-b5d0-54e2b4a9cbf7 | -9.2631 | -47.903599 | 2024-10-28 00:48:12 | METOP-C | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e9a1c1a9-322f-3b05-a594-cb36d7da605d | -9.2647 | -47.9105 | 2024-10-28 00:48:12 | METOP-C | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 961f710d-0612-309c-99ce-43b1ebbfd428 | -7.01 | -41.321899 | 2024-10-28 00:48:23 | METOP-C | SUSSUAPARA | PIAUÍ | Brasil | 2210938 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 72a98c8d-16c5-3d34-94bb-4460b58021c1 | -7.0135 | -41.336201 | 2024-10-28 00:48:23 | METOP-C | SUSSUAPARA | PIAUÍ | Brasil | 2210938 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| db5a918e-0a0e-3dc9-9c56-cf82b0c02bfd | -7.8821 | -45.416302 | 2024-10-28 00:48:25 | METOP-C | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 03f4b74a-0950-36a7-a50f-bfbfaa35cfaa | -6.2306 | -39.505299 | 2024-10-28 00:48:29 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| e421a6eb-680b-36f1-a212-bbd915817578 | -6.2354 | -39.524799 | 2024-10-28 00:48:29 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 508ad35a-133c-30c1-a7cd-9dc14947617c | -7.4347 | -44.790199 | 2024-10-28 00:48:30 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 31b8437c-f140-39bf-8451-c1a5f67ac420 | -7.5605 | -45.893799 | 2024-10-28 00:48:32 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ed4d864f-1dd4-3c9d-831f-1b6f5386d817 | -7.5623 | -45.901402 | 2024-10-28 00:48:32 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 96b3eab6-5918-39c8-b27b-d2a1ff2d8f24 | -6.6241 | -42.783501 | 2024-10-28 00:48:35 | METOP-C | FRANCISCO AYRES | PIAUÍ | Brasil | 2204105 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| ec985a8b-48d2-3357-9b7e-47b334d86412 | -6.6269 | -42.795101 | 2024-10-28 00:48:35 | METOP-C | FRANCISCO AYRES | PIAUÍ | Brasil | 2204105 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 04e04853-0e1e-35d5-9342-ab6bfa9893c4 | -7.6379 | -47.069698 | 2024-10-28 00:48:35 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9a6fc0a4-5595-30cc-adb1-0d303afe393c | -8.1447 | -49.473801 | 2024-10-28 00:48:36 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0844e584-d9ea-3787-8cdf-c2268c2c9727 | -8.1463 | -49.480999 | 2024-10-28 00:48:36 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1ea81fbc-3694-3316-9d99-50c40d360e53 | -6.2975 | -41.9044 | 2024-10-28 00:48:37 | METOP-C | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| cb4ad2d9-30f2-34c6-a299-64e3ef271880 | -6.3007 | -41.917702 | 2024-10-28 00:48:37 | METOP-C | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 45497fef-2d76-3778-af80-9cb9b1f66740 | -7.4721 | -46.710201 | 2024-10-28 00:48:37 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 145da787-3f04-3f60-a678-aef1cad52bdf | -7.4842 | -46.896 | 2024-10-28 00:48:37 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| cd747ad0-7976-3199-9a83-595246c23c2a | -7.9562 | -49.049198 | 2024-10-28 00:48:37 | METOP-C | BERNARDO SAYÃO | TOCANTINS | Brasil | 1703206 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 2234c0e0-06a6-3f78-a846-43d611648874 | -6.1611 | -41.851898 | 2024-10-28 00:48:39 | METOP-C | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| cc755b37-a0e8-3024-b6dc-d118ad5eab4a | -6.1027 | -41.866001 | 2024-10-28 00:48:40 | METOP-C | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 6030abef-db42-3f77-b989-24a15a58c969 | -6.106 | -41.879501 | 2024-10-28 00:48:40 | METOP-C | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 5ee0237e-6691-3030-8b9b-d17868e8609d | -6.0896 | -41.854801 | 2024-10-28 00:48:40 | METOP-C | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 15569b19-3d71-3f29-b694-06f630248d48 | -6.0929 | -41.868301 | 2024-10-28 00:48:40 | METOP-C | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 79c99e67-ce12-3251-8500-119fcb098357 | -6.0962 | -41.881802 | 2024-10-28 00:48:40 | METOP-C | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 243e2e96-9c77-3f14-a406-0759eb6a54b4 | -6.7274 | -44.680302 | 2024-10-28 00:48:41 | METOP-C | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e27eef91-a86b-3ec1-8d26-ee515b283b15 | -6.1836 | -45.437302 | 2024-10-28 00:48:53 | METOP-C | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 536e802a-0912-33ab-a29e-594bafb2c600 | -5.8198 | -44.117699 | 2024-10-28 00:48:53 | METOP-C | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0e99a224-b78a-3348-92d9-5e4b797a0dc0 | -5.8221 | -44.127499 | 2024-10-28 00:48:53 | METOP-C | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 5afd1a8d-421f-3bc8-9329-b26a13760e9d | -5.8124 | -44.129799 | 2024-10-28 00:48:54 | METOP-C | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 22c76f60-8d35-3bd4-8c27-2f77290f32ee | -5.8471 | -44.754501 | 2024-10-28 00:48:55 | METOP-C | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
