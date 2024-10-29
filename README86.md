@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1a1c60f0-f446-335f-ab31-316547c694c3 | -3.8225 | -44.1522 | 2024-10-28 13:15:27 | GOES-16 | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 86.5 |
-| 95a9b94b-e9af-3501-8014-c07b3f828b31 | -3.8412 | -44.1513 | 2024-10-28 13:15:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 144.3 |
-| 9d080e1e-8f66-30d6-a202-a8288d6e3c63 | -4.8619 | -42.4622 | 2024-10-28 13:15:33 | GOES-16 | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 109.2 |
-| 8451c3e9-52a1-3671-a625-e935775813d1 | -4.8617 | -42.4858 | 2024-10-28 13:15:33 | GOES-16 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 99.6 |
-| c2701180-67eb-3e2f-b6ce-1f01139f1424 | -12.8883 | -44.6143 | 2024-10-28 13:16:18 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 86.6 |
-| be4238ae-df29-3d7f-adfe-8f63ddf90552 | -13.1898 | -43.0957 | 2024-10-28 13:16:20 | GOES-16 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 105.4 |
-| a1a06cba-e9ce-30ae-9d46-73f93f2689a7 | -2.3762 | -47.6853 | 2024-10-28 13:25:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 72.7 |
-| dfda0656-1743-3844-bc66-c457c641af3f | -2.3919 | -48.5484 | 2024-10-28 13:25:19 | GOES-16 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 146.5 |
-| bb058003-6f94-3df0-9003-55656f281afd | -2.3763 | -47.6636 | 2024-10-28 13:25:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 110.2 |
-| 525cbcaf-a199-3df5-8e0b-a13b970f8893 | -2.3578 | -47.6641 | 2024-10-28 13:25:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 70.5 |
-| 95eca0bf-a84c-3ee8-973f-6f252a9f95c1 | -2.2513 | -46.2405 | 2024-10-28 13:25:19 | GOES-16 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 66.2 |
-| e7cb37f3-2c19-3e78-8641-eb3059e0e418 | -2.4104 | -48.5479 | 2024-10-28 13:25:20 | GOES-16 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 146.1 |
-| 130fbb3d-c520-36ea-a7bb-4faee9090194 | -2.8515 | -49.2408 | 2024-10-28 13:25:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 77.7 |
-| 178db130-0530-3b55-9a71-faeb050aec8a | -2.8885 | -49.2397 | 2024-10-28 13:25:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 156.2 |
-| f842ca37-1220-3eaf-b672-f61146025cbe | -2.8739 | -53.3252 | 2024-10-28 13:25:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| e570836f-e89b-3621-8228-2c6a44325a1f | -3.8225 | -44.1522 | 2024-10-28 13:25:27 | GOES-16 | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 82.0 |
-| 061e8b66-2831-327d-9d25-946d80b9aba2 | -3.8412 | -44.1513 | 2024-10-28 13:25:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 113.5 |
-| 1b7a8876-f40b-34b5-be42-0becc1108b70 | -3.8413 | -44.1283 | 2024-10-28 13:25:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 77.6 |
-| 1bcd56f8-ef48-3fff-a67c-6b09f54d3522 | -4.8617 | -42.4858 | 2024-10-28 13:25:33 | GOES-16 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 97.7 |
-| 9a31a11e-7559-33ac-8280-1f3b45bb478c | -4.8619 | -42.4622 | 2024-10-28 13:25:33 | GOES-16 | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 86.3 |
-| d833156b-1153-3b31-bf3b-8e60a6737ef8 | -5.455 | -43.2192 | 2024-10-28 13:25:37 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 94.8 |
-| d0348acf-6b02-3aa2-9500-d964b97013dd | -12.8883 | -44.6143 | 2024-10-28 13:26:18 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 90.0 |
-| d7e7be38-8d2b-34f4-aaeb-f38d371fc753 | -13.1898 | -43.0957 | 2024-10-28 13:26:20 | GOES-16 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 114.5 |
-| 20bcc0a6-c15f-3ada-9775-9bf8be916239 | -13.8157 | -42.8597 | 2024-10-28 13:26:23 | GOES-16 | MATINA | BAHIA | Brasil | 2921054 | 29 | 33 | nan | nan | nan | Caatinga | 90.6 |
-| 0b8b25ee-0e49-3c09-b74e-3ce98b2e64eb | -1.4892 | -47.2035 | 2024-10-28 13:35:14 | GOES-16 | OURÉM | PARÁ | Brasil | 1505403 | 15 | 33 | nan | nan | nan | Amazônia | 64.9 |
-| 5bec035f-d134-3cef-b3d1-ec78f75bbf0d | -2.3763 | -47.6636 | 2024-10-28 13:35:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 126.4 |
-| 0079e35c-46cf-39e5-a4f0-7732c654671e | -2.3919 | -48.5484 | 2024-10-28 13:35:19 | GOES-16 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 198.7 |
-| ab59efd3-0118-33b2-8eea-b4b23cbf8d8e | -2.3762 | -47.6853 | 2024-10-28 13:35:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 65.5 |
-| 5bb35ffe-2b37-3f1d-bcff-0bb4acd3e958 | -2.8146 | -49.2206 | 2024-10-28 13:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 76.0 |
-| 8688054a-ead4-32a8-a2b7-9b2557beb5a0 | -2.8556 | -53.3256 | 2024-10-28 13:35:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 89.0 |
-| daa2e709-8e34-3ead-ad22-79fd554561d9 | -2.8515 | -49.2408 | 2024-10-28 13:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 104.4 |
-| fece0016-ee7e-38b0-b0ab-f5c64ef8570c | -2.87 | -49.2402 | 2024-10-28 13:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 697.0 |
-| 73b456b1-8f7d-30f4-81b6-39c08cc365cf | -2.8739 | -53.3252 | 2024-10-28 13:35:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 67.2 |
-| 374c49c1-3d8e-3560-a010-34d3cbef0f56 | -2.8885 | -49.2397 | 2024-10-28 13:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 245.9 |
-| 0e9558b9-6e19-3bfc-af5e-9cf0ac86e109 | -3.8225 | -44.1522 | 2024-10-28 13:35:27 | GOES-16 | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 78.1 |
-| 94740779-74ee-3024-b66e-227da81c9e1b | -3.8412 | -44.1513 | 2024-10-28 13:35:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 153.9 |
-| 2ffa6e60-a3b4-3f6a-b868-4cf3ade28f8d | -4.1639 | -43.2792 | 2024-10-28 13:35:29 | GOES-16 | AFONSO CUNHA | MARANHÃO | Brasil | 2100105 | 21 | 33 | nan | nan | nan | Cerrado | 80.6 |
-| 5baf17b9-79f0-3aa4-83e2-8bfe8b257f4e | -4.8619 | -42.4622 | 2024-10-28 13:35:33 | GOES-16 | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 106.2 |
-| bc98cb03-22ad-3da9-a409-18472f188565 | -4.8617 | -42.4858 | 2024-10-28 13:35:33 | GOES-16 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 105.5 |
-| 068f67cb-12d3-3343-8aba-47ce2b839db7 | -5.455 | -43.2192 | 2024-10-28 13:35:37 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 103.1 |
-| 2203d22b-238f-3768-9dad-01eaf44086bd | -6.225 | -41.2548 | 2024-10-28 13:35:41 | GOES-16 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 180.2 |
-| 12360d02-9235-383b-bfa3-c03813c6ab40 | -6.2439 | -41.2531 | 2024-10-28 13:35:41 | GOES-16 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 82.7 |
-| b46685a4-c12b-3a1d-8113-691992d656e3 | -6.6813 | -40.8958 | 2024-10-28 13:35:43 | GOES-16 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 94.7 |
-| 786c9f06-6e69-34c9-a685-aa4862ea808a | -12.8883 | -44.6143 | 2024-10-28 13:36:18 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 87.1 |
-| 6750270e-7dc9-3014-ba29-0f341032188c | -13.1898 | -43.0957 | 2024-10-28 13:36:20 | GOES-16 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 97.8 |
-| 26ca628b-3169-3cd4-b97c-4f1f0467cfd0 | -13.2685 | -53.7062 | 2024-10-28 13:36:21 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 65.2 |
-| 36ca49de-91d1-30c8-a741-ede7beffb764 | -1.3932 | -49.0387 | 2024-10-28 13:45:14 | GOES-16 | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| d3b3ca78-ff0f-35c3-ba80-82de5e589aa7 | -2.3919 | -48.5484 | 2024-10-28 13:45:19 | GOES-16 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 117.1 |
-| d5ed12c6-a1c0-3dad-a736-50b9399c2418 | -2.3763 | -47.6636 | 2024-10-28 13:45:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 164.0 |
-| ae5561c4-d53f-3311-b51e-862d05a37219 | -2.3762 | -47.6853 | 2024-10-28 13:45:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| afcd29e0-07b6-3795-a99f-e3b6fad65ae3 | -2.3578 | -47.6641 | 2024-10-28 13:45:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 63.5 |
-| 06ec53e7-70ab-3fdd-a53a-4e4c2c2576da | -2.8146 | -49.2206 | 2024-10-28 13:45:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 73.7 |
-| 62a1d8d2-0c70-3fc7-8991-470437ff1b88 | -2.833 | -49.2413 | 2024-10-28 13:45:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| 4ec3cb7a-fd00-3fb0-871b-902bc1bf6c42 | -2.87 | -49.2402 | 2024-10-28 13:45:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 984.6 |
-| 2226f1e3-6154-3642-813d-1c934e4225f2 | -2.8885 | -49.2397 | 2024-10-28 13:45:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 470.6 |
-| 6b22b02f-a4fa-368e-bb65-ec4a5097bae5 | -2.8515 | -49.2408 | 2024-10-28 13:45:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 211.4 |
-| d7c896f8-cbd7-3973-925f-b7c7a6a32f1c | -2.8556 | -53.3256 | 2024-10-28 13:45:22 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 68.6 |
-| dab8136c-1192-3c89-b4db-402989788185 | -3.0917 | -54.1666 | 2024-10-28 13:45:24 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 67.1 |
-| a11cd596-9e5a-35cc-97c5-104ce349a6e4 | -3.8225 | -44.1522 | 2024-10-28 13:45:27 | GOES-16 | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 80.6 |
-| 8f863a7f-b990-30d4-9fb7-2881bfdb3592 | -3.8412 | -44.1513 | 2024-10-28 13:45:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 195.8 |
-| 8a47504f-df9f-3c58-a87b-576042bbb8ea | -3.8411 | -44.1742 | 2024-10-28 13:45:28 | GOES-16 | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 78.1 |
-| 2acccbb7-ae40-3561-9d51-8fe333008082 | -3.8413 | -44.1283 | 2024-10-28 13:45:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 87.2 |
-| dcc3d156-44e5-32a8-a563-c85767b51699 | -4.447 | -42.8889 | 2024-10-28 13:45:31 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 88.7 |
-| 1d3ccc49-a217-3e2a-bcd0-b740cee77bd5 | -4.8617 | -42.4858 | 2024-10-28 13:45:33 | GOES-16 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 109.0 |
-| 5cfdf39d-152e-339b-83f2-3844caff4ad7 | -4.8619 | -42.4622 | 2024-10-28 13:45:33 | GOES-16 | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 111.1 |
-| a214aa02-3c9a-3402-ac79-7c83e39ccd0d | -4.9496 | -43.2078 | 2024-10-28 13:45:34 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 85.7 |
-| d0bb4347-21d7-3b8b-b1f1-ade812b34ad0 | -5.455 | -43.2192 | 2024-10-28 13:45:37 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 103.2 |
-| 0a903a2c-a67c-3656-b05b-b7cbe3ff6a11 | -5.68 | -43.2024 | 2024-10-28 13:45:38 | GOES-16 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 76.8 |
-| 8ec7d074-7592-381f-b33d-2aa2343b461f | -6.0782 | -44.719 | 2024-10-28 13:45:40 | GOES-16 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 75.3 |
-| 01c1cd24-8164-3e6f-b998-17d72c9e4426 | -6.2248 | -41.279 | 2024-10-28 13:45:41 | GOES-16 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 95.7 |
-| 740297f2-b37d-37e0-8626-631808b0bb8a | -6.225 | -41.2548 | 2024-10-28 13:45:41 | GOES-16 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 82.4 |
-| b266fd55-bb40-3e9a-bfd5-eccc7e1b44f2 | -6.6813 | -40.8958 | 2024-10-28 13:45:43 | GOES-16 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 108.4 |
-| 36c66dd2-1e2e-31b4-b88a-8964e3b252b7 | -12.8883 | -44.6143 | 2024-10-28 13:46:18 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 83.4 |
-| 1710e6c6-fc21-39af-9c61-5e62530146e4 | -13.1898 | -43.0957 | 2024-10-28 13:46:20 | GOES-16 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 114.3 |
-| ae901878-e4c5-3ca4-a3da-79a52acf1b80 | -13.2685 | -53.7062 | 2024-10-28 13:46:21 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 70.2 |
-| 2d1c57cf-f07f-32bf-a36f-614d395abe24 | -13.2874 | -53.7248 | 2024-10-28 13:46:21 | GOES-16 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 65.9 |
-| 7d0cce16-149d-398c-8bb0-9138371569bd | -1.4116 | -49.0384 | 2024-10-28 13:55:14 | GOES-16 | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 63.9 |
-| fbe9c9e1-5f0d-34b9-9416-20fa91193a47 | -1.3932 | -49.0387 | 2024-10-28 13:55:14 | GOES-16 | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 65.1 |
-| c344e3cf-2ed9-397c-9a6e-459fea251a20 | -1.4707 | -47.2038 | 2024-10-28 13:55:14 | GOES-16 | OURÉM | PARÁ | Brasil | 1505403 | 15 | 33 | nan | nan | nan | Amazônia | 70.4 |
-| f7681f18-98b3-31d1-b3fe-14ae7378232e | -1.3747 | -49.039 | 2024-10-28 13:55:14 | GOES-16 | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 69.3 |
-| fcbaa4ea-b1e5-31a8-aca7-d6dabd912be7 | -1.3743 | -49.273 | 2024-10-28 13:55:14 | GOES-16 | MUANÁ | PARÁ | Brasil | 1504901 | 15 | 33 | nan | nan | nan | Amazônia | 75.9 |
-| a0ef4d83-f1fb-397b-9b2d-9f12851bcff5 | -2.3578 | -47.6641 | 2024-10-28 13:55:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 97.5 |
-| 6e051aa7-f35d-32cd-9f1d-bd08c10efd52 | -2.3055 | -46.6811 | 2024-10-28 13:55:19 | GOES-16 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 71.5 |
-| e2db5297-884b-3160-afd2-8c2e3e7eec54 | -2.3762 | -47.6853 | 2024-10-28 13:55:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 78.2 |
-| 365f77d0-022f-353a-bad9-a2119bb5b75e | -2.2664 | -53.7221 | 2024-10-28 13:55:19 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 137.1 |
-| d3a4b3b6-9c67-3e13-a102-104ec3f005fc | -2.3763 | -47.6636 | 2024-10-28 13:55:19 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 118.7 |
-| d315c012-6c8b-36a2-a558-2a8b1e627a19 | -2.3055 | -46.6591 | 2024-10-28 13:55:19 | GOES-16 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 99.9 |
-| 2b8b0d5f-bd22-3f05-a510-0b3db1df2d96 | -2.3919 | -48.5484 | 2024-10-28 13:55:19 | GOES-16 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 93.3 |
-| 85cbbc6f-6c3d-3cc1-8859-0764082eae02 | -2.4104 | -48.5265 | 2024-10-28 13:55:20 | GOES-16 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| 1ff90e0e-42da-3f51-9c11-5fc2b159fff3 | -2.8885 | -49.2397 | 2024-10-28 13:55:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 186.5 |
-| 89e57119-a838-3602-aee4-597ecec11454 | -2.87 | -49.2402 | 2024-10-28 13:55:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 329.1 |
-| 81d05ee4-6c50-38a9-9426-53646072b082 | -2.833 | -49.2413 | 2024-10-28 13:55:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 77.6 |
-| 3323a8ff-ce3b-3e4d-9616-58b30596a911 | -2.8515 | -49.2408 | 2024-10-28 13:55:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 140.2 |
-| 3b19eace-b1d4-3e64-af92-1911f3afeb3a | -3.8225 | -44.1522 | 2024-10-28 13:55:27 | GOES-16 | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 99.3 |
-| a083d29f-5515-3b29-b640-0e683a349b31 | -3.8412 | -44.1513 | 2024-10-28 13:55:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 145.4 |
-| b2262a09-ec77-3180-99ed-a520577750d0 | -3.8413 | -44.1283 | 2024-10-28 13:55:28 | GOES-16 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 91.2 |
-| 917d067f-20a5-3dcd-b8aa-bb78c91b3d1e | -4.447 | -42.8889 | 2024-10-28 13:55:31 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 92.4 |
-| 29bff26e-d10a-3779-97d5-d5d914b53eda | -4.8619 | -42.4622 | 2024-10-28 13:55:33 | GOES-16 | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 106.3 |
-| 5681708a-526a-3e00-85ee-80f4e2982353 | -4.8617 | -42.4858 | 2024-10-28 13:55:33 | GOES-16 | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 125.6 |
-| 4ce55862-9974-3681-b0bd-a494e61da628 | -4.9498 | -43.1845 | 2024-10-28 13:55:34 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 73.7 |
+| f656ff36-0323-3702-826f-4a2d7822430f | -2.56775 | -54.01699 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e7529f3a-1083-3956-9463-d3aea44a2ed8 | -2.56665 | -54.02398 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 22fac950-9ec2-3c9f-9519-07c3a9030dc1 | -2.56441 | -54.01648 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 38b27960-ed0f-3d44-9efd-219da2e1dce1 | -2.56386 | -54.01997 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 009b3b33-5064-3735-846e-48708968616d | -2.56332 | -54.02346 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4941130f-3541-36e8-8f43-500c216b86d3 | -2.56217 | -54.00898 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 9a0251a3-fa2a-3d49-8366-008b3e543dcc | -2.56162 | -54.01247 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| d372873c-2118-3847-ba11-c0f312d9d4b5 | -2.56053 | -54.01945 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 5ee478a4-b392-3c0c-addc-57b4f48cfe5b | -2.55883 | -54.00846 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 382a7ea8-3575-3a98-93bd-e69079949865 | -2.55828 | -54.01196 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| df7d430e-ab76-3f8f-9e4d-8422ed20eedd | -2.55773 | -54.01545 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 18236c3b-a117-3c61-afc4-758289152abb | -2.55719 | -54.01894 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| c285160d-f53d-3798-91e8-75f8de6d6cf1 | -2.49807 | -54.13458 | 2024-10-29 05:01:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 30f56cc8-f50b-3dd5-a936-337ef7f275ea | -3.33958 | -54.6172 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 32d9bf09-e015-31dc-9f39-a9f691699132 | -3.33626 | -54.61668 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 929f7e70-c3b9-3f6f-8128-31f2ce9987b2 | -3.33127 | -54.79987 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| b9e78eeb-69c0-3a5b-aaa6-93beeebb2b54 | -3.33073 | -54.80332 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4b17907f-4d96-3b5d-a232-a91839ba8db4 | -3.3033 | -54.69654 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| ce5a566c-990e-3be0-bb00-f6d7f6889894 | -3.29638 | -54.78383 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 71c30950-b81c-31b2-9d08-889e12e3ab95 | -3.29009 | -54.71566 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 95aabf49-9d0c-321f-bfaa-8ca3ed171b40 | -3.27442 | -54.14803 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| db6d5fae-6558-3944-b233-192dff4cd733 | -3.27393 | -54.17299 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1231f79f-a7a1-31f4-954a-a3ecf8c36d3b | -3.27163 | -54.14401 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 18872ccd-1520-3447-814b-d0d97032df7c | -3.27114 | -54.16897 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f44b4f15-8c4a-322f-93db-61291010cc44 | -3.27059 | -54.17248 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 3f46df49-75ca-3007-b9a9-620266b83459 | -3.26616 | -54.17897 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5bc800eb-23e9-3ebe-be97-7edc031fac08 | -3.26282 | -54.17845 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| b3338c06-f353-3acf-a0b5-0c6aebb63506 | -3.25948 | -54.17794 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 5c2cf1a8-4b5b-3be4-8bdb-689eae138bac | -3.25614 | -54.17743 | 2024-10-29 05:01:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 24807d57-1b5e-3285-9ed3-082374a7d24b | -3.13795 | -54.28358 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 73819d73-02c1-3925-91cd-b8c450781df8 | -3.1374 | -54.28706 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f741f4bd-46c1-3f15-8a2d-8356b5ca1761 | -3.1368 | -54.26913 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 3101a06d-a005-3495-98ef-7c934e507970 | -3.1357 | -54.27611 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a547c659-a82f-3599-9909-a2b358b63800 | -3.13516 | -54.27959 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| af67c74c-f209-3e76-beaf-9cc6dc648818 | -3.13346 | -54.26862 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 99e0eab0-7f26-348d-96aa-6bc503fea23d | -3.03097 | -54.14587 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b97cba53-3382-3578-ad3f-b688810658b7 | -3.13292 | -54.27211 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 520e3b57-0bad-3fb5-89be-ac22950bcbd2 | -3.13237 | -54.27559 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b85d845b-e67e-3514-9485-e7a7a8468bd3 | -3.13068 | -54.26461 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ea080129-689e-38a4-9b82-491eb1ab3f01 | -3.13013 | -54.2681 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e41beadc-01f0-33e4-822e-9374d0c17abe | -3.12958 | -54.2716 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e6a13d1a-3b9d-3ef6-8519-5561ed87a9fc | -3.12904 | -54.27508 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 94270eea-46f2-342b-9c40-958a3ae1248d | -3.12734 | -54.2641 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 83afe372-60b3-3aeb-9cf4-8ab3df5c1739 | -3.1268 | -54.26759 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e8e821a7-9e83-371a-9dfa-dee1abea0014 | -3.12625 | -54.27108 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 52d7734f-eb33-3117-a78c-c8e08921144e | -3.12571 | -54.27457 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| d39a0950-8110-3741-8a64-3ba525f64e80 | -3.12516 | -54.27805 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| a5ec8d79-15f4-38df-bb58-d4ea945bcc9d | -3.12462 | -54.28152 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 9272bc35-9d41-341d-a8db-b1f595f5379c | -3.12394 | -54.24216 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| cd27a8fd-9632-3fb4-a84c-055f9fcd94ec | -3.12346 | -54.26708 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 7e8c816d-4991-3610-873a-72e19cb29683 | -3.12292 | -54.27057 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 5b98d9de-e3c6-33be-ba6c-38af042a9626 | -3.12237 | -54.27405 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| d6206d97-a2b3-34ba-b4c4-a5a48da7ba82 | -3.12183 | -54.27753 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| c852d04f-1473-3a5b-ba7f-e915a6152b42 | -3.12129 | -54.28101 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 99b9a17e-ba49-3aab-914f-fe8c59c66cc8 | -3.1185 | -54.27702 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 0fa330d0-21ce-32cb-bee3-d1a1909dbea8 | -3.11795 | -54.28049 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 1365ef4a-2cff-3021-82a4-69f8403b17f8 | -3.11673 | -54.24462 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| d459bc87-550c-3884-b36f-9a8dfe4429ad | -3.11462 | -54.27998 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| b0060530-d632-3629-8146-35d94145c5fa | -3.11408 | -54.28345 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 809d1e19-20b1-30ab-98d6-b8bc90cb0d5e | -3.11354 | -54.28693 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 305e363f-a9e6-30d4-b47c-178fd2a46cba | -3.1134 | -54.24411 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| b0f0e03f-cb31-382c-b4c7-e04606a7a8de | -3.11276 | -54.16928 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 713ca42b-ac11-3124-9619-c43a1dc37fdc | -3.11129 | -54.27946 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0a261e4e-a3b6-3fdf-85bf-adfea9bd0dc3 | -3.11075 | -54.28294 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 79ae0c29-a6d5-3fdb-9173-db0b2778e0df | -3.1102 | -54.28642 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 38be6cca-48de-3c85-a016-4dd4e5374517 | -3.10832 | -54.17574 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 15543312-8aca-3e27-b361-7942cac46c53 | -3.10796 | -54.27894 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| 4c573c9b-853d-3d2f-8024-b3409e60dd7a | -3.10777 | -54.17923 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| eb704ecf-e483-3b09-9d77-e7c8794188f6 | -3.10742 | -54.28242 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| bdf5d6b8-18cb-3c29-9c6c-3145dcdef2bb | -3.10687 | -54.2859 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
+| 95b4570c-8471-3f71-822f-46d73c762f9d | -3.10571 | -54.27147 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 303a9b56-f6df-34a6-bdf0-2e84909763b3 | -3.1055 | -54.15022 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e89af4b0-7659-3589-a7b7-ac684c946c61 | -3.10517 | -54.27495 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| a86aa114-dc15-3c32-a04c-0a19ca6edc12 | -3.10463 | -54.27842 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| 3e3dffc8-2a06-3fee-9f25-9793db499547 | -3.10408 | -54.2819 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
+| 4942fa96-0a22-3e29-afdd-0b2f4ef33bc3 | -3.1013 | -54.2779 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
+| 5d640076-1e11-3d9b-855b-32935824072d | -3.10075 | -54.28138 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
+| 6625cb09-c3a4-3c8a-a186-7293f88bb1d8 | -3.10021 | -54.28486 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 4c34d397-0b7f-378c-a32b-4956846fbee9 | -3.09967 | -54.28834 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 66fb62af-f498-3675-9a76-287ef7066f76 | -3.09634 | -54.28783 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 7a6decd3-8cf8-3b6a-b9eb-3296ce446d00 | -3.08946 | -54.54952 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7b08685d-6914-3890-aebe-275356d501a4 | -3.0872 | -54.17963 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 0c6f3142-a720-3cb1-864c-9aea909d1800 | -3.08387 | -54.17911 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| fa552f07-8ba8-3e3d-b1c0-0b6a5501de56 | -3.07884 | -54.16758 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| c6a290e2-86c1-3b36-9bee-754fa329133b | -3.07829 | -54.17109 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 990c3fc1-2ab3-3f32-bdf3-96216d4ccb74 | -3.07551 | -54.16707 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 57621149-1d69-3693-9bb3-1af690880e9f | -3.07496 | -54.17057 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| dc83727f-7a50-3336-86d0-46844cda71c4 | -3.07217 | -54.16656 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 14.9 |
+| 99d8b5ed-b9eb-3aff-b17e-b4c93bdb896e | -3.07162 | -54.17005 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 14.9 |
+| a8375d9a-0e28-36ad-94fd-97bdaf4cbb32 | -3.03485 | -54.14291 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 899d7ff9-8c08-3420-b973-34367b214fc8 | -2.88588 | -54.89968 | 2024-10-29 05:01:00 | NPP-375D | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9b76d540-4324-3f93-8022-f5c135ba994f | -2.77995 | -54.73503 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| be287cae-23fc-3bbb-a3ea-6828b8594a6b | -2.77663 | -54.73452 | 2024-10-29 05:01:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| cab636a4-1b21-3e79-bf98-b4f5f2068992 | -2.68335 | -54.96006 | 2024-10-29 05:01:00 | NPP-375D | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c3497021-d46e-344c-8bad-3ff32a0db870 | -2.6828 | -54.96351 | 2024-10-29 05:01:00 | NPP-375D | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 2cf097d4-b388-3403-af2d-5f235a75d03c | -2.55952 | -54.62971 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 74c5e44e-56e7-3f02-b592-a0a83b507575 | -2.4668 | -54.76704 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2e1d33a3-1ab9-362d-9086-b474237fb2f3 | -2.38853 | -54.65956 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| c0dd57c0-b49c-304f-9542-dd84513d44d5 | -2.38799 | -54.66301 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 4bcea4cf-ee9d-320b-a4ec-c3d52c949164 | -2.16296 | -54.63465 | 2024-10-29 05:01:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
 
 
 [Clique aqui para ver as próximas entradas](README87.md)

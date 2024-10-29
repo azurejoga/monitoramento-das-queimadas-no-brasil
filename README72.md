@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| bfcb54cf-b322-34b8-9a96-183838c92c0f | -0.99089 | -53.69928 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7c9394bf-4acb-37e5-ad6f-e2e2231744bb | -0.99031 | -53.70305 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 42531344-8190-3fa8-a5c4-a3fa50088f45 | -0.98972 | -53.70693 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 2da98d69-8ac5-3aaa-9ff3-f2b809c9501f | -0.98786 | -53.691 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 33be3699-33d3-3fa9-b96b-987d6506a053 | -0.98727 | -53.69492 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e44e0c1a-0a37-3271-8f14-174ca90d15eb | -0.98669 | -53.69869 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 0110924d-16c6-3c8f-a995-34a269d3eca4 | -0.98612 | -53.7024 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6b7b3d0a-4872-3016-83e9-f12852398f72 | -0.98554 | -53.70626 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| c6b2bfaf-8576-3e87-ab5d-307cd24cd932 | -0.98493 | -53.71025 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 22536c94-8199-33e2-821f-26cc0dd091c1 | -0.98366 | -53.69045 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f90f26a0-b902-39a0-8f0e-8e8639ac5d04 | -0.98249 | -53.69815 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ad7b75f6-de10-371d-bbf2-a8569f1cafe9 | -0.98193 | -53.70181 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 597b5084-2278-3d40-b155-e8a662389df9 | -0.98135 | -53.70559 | 2024-10-28 05:21:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2d9c1c75-59c0-348c-b19e-497f8fb2172f | -0.98075 | -53.70955 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 44b9127a-cb5d-35b9-8945-481222c144dd | -0.97886 | -53.69382 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 92544a54-c050-3607-9c87-1a7bfa76954f | -0.97773 | -53.70127 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| eaa624e3-23a8-3d2b-9958-1a5863d8b025 | -0.9774 | -53.69739 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cf73a816-272f-3687-b59b-265647856a6e | -0.97715 | -53.70508 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 1e296ead-ee3b-327c-8f61-732ca62482f7 | -0.97681 | -53.70108 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8fcdcf1c-ea5e-3a8f-81a0-dcfbaadb418c | -0.97653 | -53.70916 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 7e3c722a-d321-3bb9-99fb-c197134ab8e7 | -0.97619 | -53.70492 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e85eb0fa-b5a7-30cc-a2ce-53ee6022b51c | -0.97554 | -53.70902 | 2024-10-28 05:21:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ab03d22f-de01-3f08-b7ae-ca447c9fc450 | -1.93498 | -55.63338 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 347d7e2f-3509-3e61-a64f-d87eca05be60 | -1.93122 | -55.63281 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5907800b-050f-31d7-b041-e5525eb1b802 | -1.74561 | -55.26207 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ca666f6a-c180-3b87-8e3f-788ad204bbd5 | -1.73103 | -55.25486 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 194cc708-bc91-3281-a13b-9c6c33d7915b | -1.68182 | -55.30672 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2ea11c11-0822-3130-93d3-53d83b2b33d7 | -1.60406 | -55.703 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3444d1de-7e78-399e-8cf8-f1b715ea3c52 | -1.60337 | -55.70737 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b5a02e32-45f6-32f7-916f-4c5935c825d9 | -1.42219 | -55.28618 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ab9c4c86-8d3b-39aa-962a-4aecf64e62e9 | -1.42137 | -55.86414 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8891e2a7-82d5-348b-bb22-586380686acc | -1.41769 | -55.86355 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 76c97b8c-790c-3662-a9e1-06bdd22b08a8 | -1.41729 | -56.05975 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 6cc5a606-b94a-3e6c-873c-49a3ab3af9d4 | -1.3754 | -55.85466 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 78ca1bc4-6bd4-3ca5-b916-a28e2df0be0f | -1.37472 | -55.85896 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b5adca35-3811-34ac-976e-145919abf368 | -1.37411 | -55.39648 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6a2c5d90-96ab-34b8-8133-102a43af5b48 | -1.37404 | -55.86325 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 62ecbc35-e42c-31b8-a6a0-c5bc9fe9304b | -1.34192 | -55.87584 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8354d761-a88d-3472-86f4-5f53d366f4bc | -1.34125 | -55.88013 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 1ba3774a-6b9a-3ebe-bfc9-1100a158d243 | -1.31915 | -55.82825 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1b655387-62d9-3c46-b97f-7f624a93e05a | -1.30121 | -55.72315 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9cb0d696-4ec2-3038-a526-a422582f90ae | -1.29965 | -55.72035 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c33610bf-7d0e-3ec6-928e-d91ac1e9c147 | -1.29896 | -55.7247 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| b75f31bf-11f7-3829-8587-3e93456d9695 | -1.29594 | -55.71979 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 7a50c606-99f1-38b6-a8a7-9c17679be016 | -1.29525 | -55.72414 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 097ca395-11ae-335a-a6c1-c6f2c0c6da50 | -1.29292 | -55.71489 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| d80146c3-c7d0-344d-b1e7-208cbe0f9599 | -1.29223 | -55.71923 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 7208737e-91b1-305b-b803-b4aa7618260b | -1.28261 | -55.78009 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f5a0cfed-75b8-3906-b136-4732b4ac3954 | -1.25953 | -55.70985 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3dec5787-9007-375d-8307-7b1087402ece | -1.23487 | -55.89182 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 0e5c4bc3-7c42-3d64-9734-7757a3268e5b | -1.2221 | -55.7801 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d90d58a8-e016-3af1-b11f-1ee8a68430e6 | -1.21551 | -55.87131 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8f63b85d-435c-3f90-acf7-b73820a3ad6f | -1.19956 | -55.9258 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 1c672d13-47db-37bf-8817-3d3d881f4ea2 | -1.19889 | -55.93009 | 2024-10-28 05:21:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 893147a9-96f9-36e2-9543-878e62200bbb | -1.76042 | -55.08893 | 2024-10-28 05:21:00 | NPP-375D | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7a0e6690-6f72-3038-96ed-0177dfca743c | -1.73484 | -54.99594 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 90e65a5c-5084-3144-adc8-94bc48dd373d | -1.73443 | -54.99829 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| ee1d93ab-7ae6-3d75-bedd-60f073676b01 | -1.7341 | -55.00082 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| e07af6f0-1ec7-38b4-8827-aa7a0792f10e | -1.72046 | -55.01112 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a74b98bf-60db-35fe-ab71-2858385afcd0 | -1.69363 | -55.08101 | 2024-10-28 05:21:00 | NPP-375D | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 66a5c711-61e6-334d-b334-23cf5a1f23b1 | -1.68976 | -55.08039 | 2024-10-28 05:21:00 | NPP-375D | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| fbe32ef3-76be-37c3-8847-7e5ae0ba83e8 | -1.45673 | -55.11418 | 2024-10-28 05:21:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1984e8b1-960e-3737-ad8c-7301d2c9f191 | -0.60594 | -58.12688 | 2024-10-28 05:21:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7e50c277-35c7-3e9c-bb3e-dfd114ce285d | 1.1066 | -59.59394 | 2024-10-28 05:21:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| 1a42aebc-5aaa-3891-b38f-ef9df571987b | 1.10326 | -59.59445 | 2024-10-28 05:21:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| 62fe8283-ac16-318e-a7d9-4632ce7c9948 | 0.92473 | -59.66193 | 2024-10-28 05:21:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| a007e0a7-0b74-3416-89a6-d52d527cba3d | 0.92418 | -59.65843 | 2024-10-28 05:21:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| 01a1da57-fd02-3c6f-8ef8-af1011ec4cdb | 0.92084 | -59.65896 | 2024-10-28 05:21:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.2 |
-| c5d3241e-2d6a-3da7-a294-8dfb4c4dbf99 | 2.30191 | -61.33166 | 2024-10-28 05:21:00 | NPP-375D | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a1099b3f-39f3-30a8-8e2b-ef946dbe25cf | 0.12426 | -62.5786 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 86243edb-2d36-3103-af1e-be1f6fa861ad | 0.11752 | -62.58414 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 741844ad-1dd1-37a8-8982-b67197605224 | 0.11074 | -62.54039 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c4924118-43b6-3fa8-9e0f-39a1d88aded3 | 0.1101 | -62.5853 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 4ea8d338-21b0-324d-881e-86e4a843bea5 | 0.10704 | -62.54097 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d0fe3a49-b9d9-3d4c-b4c8-e077bdf9fd1e | 0.10638 | -62.58588 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a4bec054-de41-3578-a9b2-04941310488e | 0.10402 | -62.59523 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4b53e7a1-7a94-320c-b0b0-1ef2ffc87363 | 0.10309 | -62.59769 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f66b3c45-e8cd-35a6-ac49-e1097f8beab4 | 0.10239 | -62.59331 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 28ca8dce-7ce5-35a3-ad46-f4a667ae8d90 | 0.09055 | -62.59066 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e50a4d69-15f7-36d5-ad1b-58859d9988ee | 0.08753 | -62.5956 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| fa32a7cf-63d3-3c09-a8d6-05951fe49af5 | 0.08683 | -62.59124 | 2024-10-28 05:21:00 | NPP-375D | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 33c0461b-b812-318a-8152-6a35f9fa2a94 | 3.73973 | -51.80626 | 2024-10-28 05:21:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 24553872-1c9e-3676-8fb3-916377713f31 | 3.59555 | -51.27176 | 2024-10-28 05:21:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| cf090a79-c7cc-3847-82aa-c8e6ed2f929f | 3.59095 | -51.27252 | 2024-10-28 05:21:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 91c1e3bf-50dd-3c70-a919-39dc36ec834f | 3.59089 | -51.27541 | 2024-10-28 05:21:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 4f0cad63-11cd-360b-a785-8bab6185307a | 3.58788 | -51.28271 | 2024-10-28 05:21:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| b541c66e-1ecf-3f90-a217-684ed5e6ffba | 3.58712 | -51.27799 | 2024-10-28 05:21:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 833b7fc0-b134-3bb4-b4d5-fe921798bd84 | -1.7701 | -47.01965 | 2024-10-28 05:21:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e9da84aa-97c2-39db-a2bd-9c5be7d62d91 | -1.76557 | -47.01854 | 2024-10-28 05:21:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| e9570fe4-1f60-390f-a25c-0f382794b4e0 | -1.7647 | -47.02419 | 2024-10-28 05:21:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 4decd4fa-5f1c-3014-8e3e-b2fe7b478dfa | -1.76345 | -47.01887 | 2024-10-28 05:21:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0059c12f-6b65-3e80-8af0-a2a716f69b5a | -1.76262 | -47.02451 | 2024-10-28 05:21:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b63364f6-3b91-3cb6-b6f6-0d210139bda4 | -1.97165 | -48.4345 | 2024-10-28 05:21:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| c4da9330-452b-3096-9f7a-7f1a1741c791 | -1.52485 | -47.20242 | 2024-10-28 05:21:00 | NPP-375D | OURÉM | PARÁ | Brasil | 1505403 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d5dba712-6547-3c50-aa80-1735b3cc6dab | -1.52403 | -47.20794 | 2024-10-28 05:21:00 | NPP-375D | OURÉM | PARÁ | Brasil | 1505403 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 1b645009-73ee-3f95-a361-cf2caa2eab6e | -1.09527 | -47.23984 | 2024-10-28 05:21:00 | NPP-375D | PEIXE-BOI | PARÁ | Brasil | 1505601 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f4d91937-4651-34eb-ab97-f00d3be11b31 | -1.08963 | -47.23354 | 2024-10-28 05:21:00 | NPP-375D | PEIXE-BOI | PARÁ | Brasil | 1505601 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 92a13acf-efb9-3ab6-bab7-2b4a47c41054 | -1.0888 | -47.23883 | 2024-10-28 05:21:00 | NPP-375D | PEIXE-BOI | PARÁ | Brasil | 1505601 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 2cecaade-e53e-3688-b645-f635218630ae | -1.08315 | -47.23263 | 2024-10-28 05:21:00 | NPP-375D | PEIXE-BOI | PARÁ | Brasil | 1505601 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 738a87e5-c412-391b-a939-63053524f668 | -1.0614 | -48.2565 | 2024-10-28 05:21:00 | NPP-375D | SANTO ANTÔNIO DO TAUÁ | PARÁ | Brasil | 1507003 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| de18fac7-26d4-3b0c-a19b-a3c4ad256d7c | -2.52329 | -47.44176 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 4f81287f-df62-32ba-81b6-33126bc7e43b | -2.5218 | -47.45185 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 9f11c777-3be3-325f-9a91-808abd83b8fa | -2.52142 | -47.45035 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| c1544931-1c55-3657-a6c3-87dd7fe0f67f | -2.52107 | -47.45685 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 39675de0-0320-36d7-9257-c673bc50d589 | -2.51853 | -47.44106 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d20c948b-674e-31fc-a8df-3b8fc29a61d5 | -2.51589 | -47.45464 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| de4a4ef5-6485-3b0a-96ab-67e4c3462223 | -2.51114 | -47.4539 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| 275bba85-7bc0-3913-a82d-b86543544f43 | -2.44992 | -48.48796 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 7e5eaea1-6dbb-362e-81f8-3d35f7e7ade1 | -2.43626 | -48.66317 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 26fa2533-b5ad-3863-b834-1d96a52c41b6 | -2.40925 | -48.54729 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 27ffe5dc-b8b0-3865-adf1-078ddf496007 | -2.40485 | -48.54661 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 604ff205-18a4-32b2-adab-c7c7016a600c | -2.40174 | -48.53743 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| cb3e3867-5bc0-3143-bbdb-bcba04e0a386 | -2.40045 | -48.54594 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a4b7d04d-5ac8-3e02-862c-946269444b60 | -2.39542 | -48.54949 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 629884a1-01f3-3571-b45b-11485e40d6f8 | -2.37562 | -47.66874 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0e0febd8-1448-3dc6-8294-7cf916f9d6f5 | -2.97005 | -48.05482 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| bbc42c17-05a5-37e0-b7d5-86647a58bb06 | -2.96932 | -48.05951 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| dbdee004-9af8-33aa-b3fb-774ad3a18291 | -2.9682 | -48.06112 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 3a088257-c1a6-304b-b68f-552585f838ec | -2.94425 | -48.56263 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 6cf04fe7-d5db-3bee-a5c4-fa3ba7848a90 | -2.942 | -48.98488 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f3eb96fd-d8dc-3651-9c2f-a89b01857e30 | -2.92423 | -48.95736 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 0907f8ad-1a56-378f-bb0f-f83219961beb | -2.91992 | -48.9567 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| bc8ed329-5b4a-3383-b3f8-ebf055f34351 | -2.91193 | -48.95135 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 7d1ce87f-e387-34c6-8981-ceda806eb133 | -3.07187 | -47.4862 | 2024-10-29 05:01:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9739f622-192f-31c2-aedd-a1ef0f96658f | -2.97348 | -48.05708 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9136a269-39fd-34e6-8a95-907dfee3ba81 | -2.96957 | -48.05175 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| f144a25e-057d-38b8-95bf-46ce0ea2a0a7 | -2.96889 | -48.05644 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 791d01e1-f1d6-33ee-b655-e6dc4be01eff | -2.9686 | -48.06419 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 9a593c16-0dc7-3a20-afa2-eddc5f66846b | -2.9463 | -48.98553 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d4dda82b-b9a6-3a64-b01e-34398a3afe01 | -2.9449 | -48.55833 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9d5169bf-bbfe-3995-a2da-ae6d956e422e | -2.94379 | -48.98785 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 292cdb54-93c0-3e4c-8fd8-ef3c204da2a8 | -2.91255 | -48.94727 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| dbf83e79-c631-3c31-9655-bd5790de6233 | -2.81477 | -48.43842 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c2cf3157-2054-3c82-b856-8e9544613ba4 | -2.81161 | -48.43999 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 1e82dc0b-872e-3b0f-a38d-af2fdcc18d44 | -2.77219 | -48.69274 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 708bb231-4d2b-309a-a981-4f20ddd939ee | -2.77218 | -48.6953 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| cda78d15-8f0e-3db3-a609-57b589926cce | -2.77153 | -48.69693 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 01cee9fa-5a59-3b7a-8acb-56642e5079e2 | -2.7653 | -48.71149 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d5396d87-c6dd-3a97-8587-1aa6cc31d3ae | -2.76453 | -48.71312 | 2024-10-29 05:01:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 50dc9865-e085-396c-8502-71cba24f01ca | -2.61977 | -48.31984 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3a88bb56-a0a4-3418-a9d2-21949d9abf55 | -2.61794 | -48.31722 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6ee2d871-473c-3138-97ad-059e4bc5313b | -2.61662 | -48.32608 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9cec7e33-7e24-36bb-b246-b12e8d75617f | -2.61391 | -48.32798 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 39cc8946-f6a6-31a8-9804-ca80c8b85eb4 | -2.61007 | -48.37018 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4baef7ef-e9af-3094-a4cc-912b2c59dca5 | -2.59519 | -48.21114 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| af451f2b-0865-3fca-8afa-43c4b7afb37c | -2.52298 | -47.44027 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0165972a-a94c-3cd7-9167-81429be4dfdf | -2.52254 | -47.44682 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9ebd5188-044e-35a7-bbb2-a84b26fd86f4 | -2.52064 | -47.45535 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| dc60575f-d910-31cc-a833-621080661dc1 | -2.51779 | -47.4461 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 458c36c9-27fe-33fd-9948-c818ebf619e0 | -2.51744 | -47.4446 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| f4c50dfd-d7ab-3487-b13a-2b17d9dc0b67 | -2.51705 | -47.45113 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| f1e168a7-66b1-36ef-808f-0b383ae767b4 | -2.51667 | -47.44961 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 0bf3fd95-70e8-32a3-ba55-cb8398a18aa1 | -2.51481 | -48.12734 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 36819fd2-8288-3c19-ba49-a80e10776dbc | -2.51192 | -47.44886 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 39.3 |
+| 5f6d4928-3067-35ac-9de6-722f66519b19 | -2.44727 | -48.50512 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 290b6e87-c2fc-3176-81c7-63547c4e9c0a | -2.44286 | -48.50444 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d652da5d-48db-3329-8cd7-038394444e66 | -2.43553 | -48.46378 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b7d64092-7246-3591-9912-2e44bbb78f75 | -2.4319 | -48.66253 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 4a6997f4-9c77-354f-aab2-53d0e56efbfd | -2.4086 | -48.55152 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a6a71b7b-6b5e-3bb9-b5e7-d6ba5fede5cd | -2.40549 | -48.54237 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9664ddf7-14c9-3204-bdf0-cee871c1fe2a | -2.40421 | -48.55084 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c5c65218-0e4d-303b-ae2d-1adc1339cd23 | -2.40357 | -48.55507 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9e2f572c-1277-31f4-976e-3a08017bc266 | -2.40273 | -48.44108 | 2024-10-29 05:01:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2b6c0b91-6743-39d8-ab31-bad577985faf | -2.39981 | -48.55017 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d89f5a37-d583-36c7-937e-2a59073f6a41 | -2.39917 | -48.55439 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f3cbfceb-80b0-3a44-94dd-dce209576802 | -2.39478 | -48.55372 | 2024-10-29 05:01:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| faa0bade-1cc7-317f-aac5-d469197c34d0 | -2.37095 | -47.66802 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5cb21785-487a-3763-a0a0-5a9f3156f9d2 | -2.36554 | -47.67211 | 2024-10-29 05:01:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5df9a074-66b6-3bd7-bf2b-d92a521ad306 | -2.19857 | -48.83493 | 2024-10-29 05:01:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 8ffdaef6-def1-3af6-90dc-591cadefb062 | -2.1949 | -48.83024 | 2024-10-29 05:01:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 1bdd18ea-1101-3bfe-95c4-697f77977353 | -2.19249 | -48.8175 | 2024-10-29 05:01:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 258fdb13-6363-3289-b79d-078098c79000 | -2.19186 | -48.82154 | 2024-10-29 05:01:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4956e903-3e6b-36f2-bc59-92ccaddc8454 | -2.17611 | -48.72334 | 2024-10-29 05:01:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 77c7318a-a9d4-3791-890a-7e5da5086d51 | -4.91819 | -48.63467 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| cadaae58-6f0b-339a-9759-1fbd73d45115 | -4.91365 | -48.63403 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 749552d4-f02c-36ce-b560-cb56f4401075 | -4.91228 | -48.64311 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 5b8f859e-b31a-382a-9e5b-6bd5006b1023 | -4.91161 | -48.64759 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| d6bde2d8-1ed1-3aed-85f4-374eff76681c | -4.90774 | -48.64244 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 0449afd0-1e33-3ad9-8b75-b63625945292 | -4.90707 | -48.64694 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 2efad55e-27cb-32c7-85b1-5188b3703e48 | -4.89072 | -48.66326 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 5fab42db-2a75-3db1-b0d7-f9adc1d937c9 | -4.89005 | -48.66777 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 5009f910-6f39-3346-95c0-e4b8bcc1a8ca | -4.88619 | -48.66262 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fac1785d-c70a-3e0a-942b-3a4b0f73434b | -4.88099 | -48.66646 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0277255a-828e-3c3d-b6fc-86998af1b898 | -4.84802 | -48.63849 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0ba44cc7-89ed-37c9-b025-479a35e9486b | -4.84736 | -48.64307 | 2024-10-29 05:01:00 | NPP-375D | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ab79bc51-50a4-3fff-ac5f-859441b6bd80 | -4.57218 | -48.01578 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 48c89904-beac-3334-8b6c-ebe2d5d76ab1 | -4.57144 | -48.02073 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 9ef8fb90-ea35-33d5-8f00-6ae58abbf929 | -4.35636 | -48.15046 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e0bc8557-3ed4-3c63-b495-974183bfcbe7 | -4.35424 | -48.15199 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 0eab63eb-619e-3d34-83eb-5aa5e321232d | -4.35171 | -48.14972 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 7e7112d9-b0a0-3661-bce2-e9e2974f03b8 | -4.35028 | -48.14644 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 78b4efb9-55b2-337e-ab13-a4c8db39004e | -4.3496 | -48.15118 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 7237eeb8-126e-3bed-a91a-c96f6be876e4 | -4.34767 | -48.61285 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 73dcbe02-54a5-394a-ae4c-e83af720212a | -4.34706 | -48.14895 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| e7f7fa1b-a791-3693-9f01-d2ec0dcd597c | -4.32948 | -48.64229 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e5fec6d7-9477-3ed6-be0f-f2f8a34218bb | -4.29734 | -48.64191 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 234733fc-647a-3964-9175-50b489ffcbe2 | -4.29606 | -48.65074 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 292be0a1-d22a-3fba-bc6a-4012a08bbaaf | -4.29606 | -48.60732 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 138117fa-57b9-3607-99d0-70a8837ba207 | -4.29538 | -48.61179 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 7a708571-4d3c-3137-be65-e06c16a3b394 | -4.29399 | -48.62081 | 2024-10-29 05:01:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
 
 
 [Clique aqui para ver as próximas entradas](README73.md)
