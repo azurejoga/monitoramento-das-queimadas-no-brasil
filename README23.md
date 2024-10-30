@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8abd1ae5-f22e-3d13-a000-186f4f124942 | -12.00941 | -42.95049 | 2024-10-29 03:23:00 | NPP-375D | OLIVEIRA DOS BREJINHOS | BAHIA | Brasil | 2923209 | 29 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| fccb5d37-fd41-3396-a810-770123d855b7 | -12.00337 | -42.94926 | 2024-10-29 03:23:00 | NPP-375D | OLIVEIRA DOS BREJINHOS | BAHIA | Brasil | 2923209 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 77107b18-616c-318f-a2b2-24dc7f10c591 | -11.28808 | -41.86 | 2024-10-29 03:23:00 | NPP-375D | IRECÊ | BAHIA | Brasil | 2914604 | 29 | 33 | nan | nan | nan | Caatinga | 5.2 |
-| 7dd83e07-c71f-3ce1-b264-1740acd63029 | -11.28728 | -41.86412 | 2024-10-29 03:23:00 | NPP-375D | IRECÊ | BAHIA | Brasil | 2914604 | 29 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| 44a3f616-b2d3-3603-abde-f2482f33f7c0 | -13.24761 | -42.80334 | 2024-10-29 03:23:00 | NPP-375D | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| d53e0d45-e356-3866-af8d-1ce678c676a8 | -13.55848 | -43.42035 | 2024-10-29 03:23:00 | NPP-375D | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bf244c48-0727-3f3c-af09-aa6a8f0d0327 | -13.55244 | -43.41903 | 2024-10-29 03:23:00 | NPP-375D | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 042aefa3-8838-3c62-af56-f7891a59e62b | -14.47828 | -43.35974 | 2024-10-29 03:23:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| baadb6eb-9e8e-3eda-86d1-b2088ec6892c | -14.47596 | -43.36015 | 2024-10-29 03:23:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 74f2085c-7131-3a8c-a07a-f96fcc9a0d1b | -8.7197 | -44.01723 | 2024-10-29 03:23:00 | NPP-375D | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 4cf376a2-e977-325a-9c78-43bb8094b8d6 | -8.71841 | -44.02386 | 2024-10-29 03:23:00 | NPP-375D | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 354fe6bc-8a9f-3dc2-b7f1-c3f505079194 | -11.105 | -43.33789 | 2024-10-29 03:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| a9056dad-4a9c-3192-bec4-610a8b01e2b8 | -11.104 | -43.3429 | 2024-10-29 03:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
-| e4871e54-4b5c-3813-97ff-1c9149424841 | -11.90854 | -43.81248 | 2024-10-29 03:23:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 2eefa3c9-5a3f-3a16-a1f1-aa94c89f2315 | -11.90743 | -43.81782 | 2024-10-29 03:23:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ff087033-dfa9-300d-8798-f77c67797474 | -11.54359 | -43.98509 | 2024-10-29 03:23:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 30ffdd6a-6554-3733-b932-fa8403735d57 | -11.53712 | -43.98372 | 2024-10-29 03:23:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| ce27b080-7dd6-364d-aeb7-cd1eed3ba208 | -13.30486 | -43.57709 | 2024-10-29 03:23:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| d117071e-ab4a-38e4-8334-b6f317c1cc74 | -13.29874 | -43.57573 | 2024-10-29 03:23:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 683e1979-a693-3d5f-adde-ad56bf758238 | -12.88786 | -44.61722 | 2024-10-29 03:23:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 08cd914a-2432-37ea-a37c-92a33098b787 | -12.88668 | -44.62288 | 2024-10-29 03:23:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 669e0e5e-e63a-3ed5-bb7b-4636092e32e9 | -12.879 | -44.62679 | 2024-10-29 03:23:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 66786c1c-0ee6-3ea3-a5c0-d25d09e468dc | -12.87121 | -44.63119 | 2024-10-29 03:23:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| efee7193-1cd7-3659-adec-fba8a59c3ba0 | -12.86997 | -44.6371 | 2024-10-29 03:23:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| c629c1ac-515a-3258-a27c-ff2edeab8bc3 | -12.6692 | -43.82172 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| b587a2ab-41e5-3fbc-9065-95bebfd4a954 | -12.66816 | -43.82687 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 1429258e-9ced-3780-968f-b27f98891117 | -12.66588 | -43.81628 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 37e59856-74d5-3665-a800-d2c474519c70 | -12.6648 | -43.82143 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| d62a3f85-f979-3c02-9a92-832ba6291a16 | -12.66395 | -43.8152 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 1df01315-538a-3aab-8d11-d9049c43fb92 | -12.66373 | -43.82657 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| d8c51a88-0bd7-31fd-9ac5-6093cd4a1911 | -12.66291 | -43.82037 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 3ea79d92-3600-325f-a79e-361b18ad6e0e | -12.66187 | -43.82552 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 1653f840-0abd-3a9e-8720-b44137704c5c | -12.65852 | -43.82008 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| d2dc30d8-904b-3b31-b1c5-bed79cb80d9c | -12.65744 | -43.82522 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 624bad18-b292-32f6-94f3-fd9a764ee32d | -12.49516 | -43.79269 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8a9b4211-5b42-3ea2-9292-70ac24bb4c6d | -12.4941 | -43.79786 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| b055a482-a240-3b14-a91d-db905c79bc52 | -12.44195 | -43.73271 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 094b5eec-ad32-3239-a62b-491e5662d795 | -12.44088 | -43.73779 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 552f9f25-83d6-3985-982f-80181f1d8f75 | -12.43948 | -43.73414 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| a55fbe86-ed41-36e2-975c-fafb36178cb5 | -12.43845 | -43.73925 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 9faafdd7-4373-3ecc-bae3-9e82f0f42179 | -12.43322 | -43.7327 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| cd17602b-d902-3f1a-83e6-6397c1cfca24 | -12.43217 | -43.73787 | 2024-10-29 03:23:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| b931f15b-dd0c-3258-9918-fecb03ffe4b9 | -12.2302 | -44.68886 | 2024-10-29 03:23:00 | NPP-375D | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 4902e621-0f4a-3d27-ab01-df50cc3f0b02 | -12.2248 | -44.68133 | 2024-10-29 03:23:00 | NPP-375D | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ade1f851-f740-3bcd-ad8b-5a32da2bc620 | -12.22359 | -44.68717 | 2024-10-29 03:23:00 | NPP-375D | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 4c928a11-d04d-31cc-8319-5a1f8dbad38a | -14.5962 | -44.26198 | 2024-10-29 03:23:00 | NPP-375D | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| a5bed930-cbe5-33aa-a980-2a49cd2bcd45 | -14.59513 | -44.26688 | 2024-10-29 03:23:00 | NPP-375D | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 307ab5b8-9087-398a-8871-addad49d7873 | -14.59244 | -44.26429 | 2024-10-29 03:23:00 | NPP-375D | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| aefa0e89-3dd5-3cb8-8efc-646d4c470fd5 | -14.58901 | -44.26497 | 2024-10-29 03:23:00 | NPP-375D | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 2a3684bb-1156-3ab0-83c6-87c8cfdf7275 | -14.16667 | -44.66064 | 2024-10-29 03:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 4edbe2ba-3ea4-3035-ab35-4ff4d668514f | -14.1491 | -44.07804 | 2024-10-29 03:23:00 | NPP-375D | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 22a96954-8afb-3349-b0dc-a0fa69eae416 | -14.14804 | -44.08308 | 2024-10-29 03:23:00 | NPP-375D | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| eb410495-a5ee-35d1-a35e-8bdfa2d263f0 | -14.1429 | -44.07661 | 2024-10-29 03:23:00 | NPP-375D | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 688fce06-8545-3a66-a1f7-016aceb34a91 | -14.14182 | -44.08168 | 2024-10-29 03:23:00 | NPP-375D | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| c98fa1b8-1aa0-3bbc-b281-f50ced1db5cc | -14.12952 | -44.35779 | 2024-10-29 03:23:00 | NPP-375D | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 62292d3b-a39e-3a1c-9cd5-cfd23be21041 | -14.12842 | -44.363 | 2024-10-29 03:23:00 | NPP-375D | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| acc52ca3-7a59-3e93-a5e4-119120fffde6 | -13.88709 | -43.97556 | 2024-10-29 03:23:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 3f9e2b01-d961-33b5-8e7c-8c376a4098c5 | -13.85914 | -43.98494 | 2024-10-29 03:23:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| a859af53-ffd0-3967-be8d-b4b132c353f8 | -13.85809 | -43.98994 | 2024-10-29 03:23:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 05ca1449-a62a-3cb1-8811-08e01e0a1efc | -13.85293 | -43.98354 | 2024-10-29 03:23:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| c74758a7-b4d4-35ec-bc6d-4763358875fd | -9.44601 | -44.4803 | 2024-10-29 03:23:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| b62effc6-6fbe-303b-a3a3-71164c223d51 | -9.44466 | -44.48725 | 2024-10-29 03:23:00 | NPP-375D | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 66f6d646-fb93-3aa8-97c3-7956242a4352 | -9.12274 | -44.42121 | 2024-10-29 03:23:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| a075ed0a-2039-3bbc-bf4c-2d412b9df5df | -9.12145 | -44.42759 | 2024-10-29 03:23:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ce26c122-3a1b-309d-a129-9b9262210781 | -8.76438 | -44.72485 | 2024-10-29 03:23:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ebdcb1e1-b906-377a-89d5-128e96c91b54 | -8.76015 | -44.70924 | 2024-10-29 03:23:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| febfe162-3613-3b66-be8d-964a9329842b | -8.75873 | -44.71631 | 2024-10-29 03:23:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 176e6961-b88f-3d3f-988d-d466c5678edd | -8.75631 | -44.70875 | 2024-10-29 03:23:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 3b9dd0bd-fc3e-3fb1-851b-c092606a56e2 | -8.75495 | -44.71583 | 2024-10-29 03:23:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| e813fc7d-325a-3ae3-a885-5730ff49901e | -8.75169 | -44.71479 | 2024-10-29 03:23:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 51ece84c-d47b-3d57-9a86-684564f15722 | -10.54628 | -45.14073 | 2024-10-29 03:23:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| f6dd6541-14b2-3550-8da2-e2d7478f3dc8 | -10.54219 | -45.1398 | 2024-10-29 03:23:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 98e785e1-6db9-31c8-8225-c4d72c693747 | -10.51639 | -44.85004 | 2024-10-29 03:23:00 | NPP-375D | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 65b8149d-5b0d-3473-b19d-ab19d006bbe5 | -10.5148 | -44.84882 | 2024-10-29 03:23:00 | NPP-375D | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 87fe3b69-f0c7-3f09-82fb-1274c4788e15 | -10.45039 | -44.89043 | 2024-10-29 03:23:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 29b0f17b-3cd4-3f42-9d44-c6c5d269d50d | -10.44906 | -44.89691 | 2024-10-29 03:23:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 31dff4ca-5fa2-3cd8-bfa8-c13d2bc54db4 | -11.40246 | -45.14062 | 2024-10-29 03:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 961d1901-87ad-38d0-86c9-19be875ff48d | -11.401 | -45.14083 | 2024-10-29 03:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 0d936580-7647-356e-a0cc-b17ae792bf9c | -11.40099 | -45.14778 | 2024-10-29 03:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0397f67d-64ff-33c7-b4a2-a0d431e4f4b7 | -11.39954 | -45.15481 | 2024-10-29 03:23:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 5b3bdefb-209b-301d-9d88-d92d57888162 | -11.39947 | -45.14799 | 2024-10-29 03:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 1762a992-4b83-34c4-b008-a8dc85983ec7 | -11.39799 | -45.15498 | 2024-10-29 03:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 16ad47bc-2458-3b2f-b961-51361fa62726 | -13.61179 | -45.5812 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 8e608d82-899f-30c6-82ed-33d371efc2d1 | -13.61039 | -45.5876 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| a9d3d27e-0c4a-3b81-80af-a26abb981180 | -13.609 | -45.59399 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 32719279-4a71-3861-9cb5-1dec2f4901c6 | -13.60497 | -45.57959 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 3069287e-fc3a-3df0-8df3-450a9c2bff4d | -13.60468 | -45.58421 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 44d8eafe-8ae1-3d54-89ea-f4fafcb4a776 | -13.60357 | -45.58597 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| e954ed2c-755d-38c8-82f3-6eb0eb64869b | -13.60333 | -45.59061 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 9cbfdd1a-abd6-3cdc-a0ed-5bd9be8280b2 | -13.60218 | -45.59239 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 79ef6794-1d41-3629-95fa-507d765309bd | -13.60196 | -45.59708 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| a8d329ca-b2d8-333f-a3b0-0da76d0fc2c2 | -13.60076 | -45.59888 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 35a07c68-8c8f-3eca-84c4-1daa1b3cebe0 | -13.59784 | -45.58266 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| fcf2e703-7228-31f7-bca4-aa3584aa84e9 | -13.59673 | -45.58447 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 500c8416-2732-30d1-bcd3-62c888da4600 | -13.59511 | -45.59559 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 88c63558-3f25-3179-b076-4c245bc9586b | -13.37113 | -45.10951 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 4412b123-9398-32f9-8869-2aadb3716fd5 | -13.36982 | -45.11558 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 08851ed0-a2b2-37cd-87f3-c05a7be6743b | -13.36893 | -45.10814 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5ef288d2-592f-3794-8f01-17a17b8e040f | -13.36766 | -45.11423 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 695e83ef-f30b-3952-94e3-d2b79a3962f8 | -13.36577 | -45.10191 | 2024-10-29 03:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 6aa9d2da-851b-3fc2-baec-bf8d85938f49 | -4.6049 | -44.3161 | 2024-10-30 02:05:32 | GOES-16 | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 169.5 |
+| 3b05c823-2673-398e-8fab-abbd8be6d480 | -5.2308 | -47.9349 | 2024-10-30 02:05:35 | GOES-16 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 56.8 |
+| fdb51cab-be51-3aae-ba23-963f03d79f59 | -5.2306 | -47.9566 | 2024-10-30 02:05:35 | GOES-16 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| b72efe04-e5c6-31a9-951f-088aab5993f6 | -5.212 | -47.9577 | 2024-10-30 02:05:35 | GOES-16 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 53.0 |
+| 8d50bffe-806e-3ad0-883f-26770cd1772d | -6.0933 | -47.203 | 2024-10-30 02:05:40 | GOES-16 | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 76.0 |
+| 94e4901d-abc9-3cfa-b6f5-555a82b29414 | -6.0746 | -47.2043 | 2024-10-30 02:05:40 | GOES-16 | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 68.9 |
+| 5e08ce88-7739-3d83-87cb-7ab07529f4ae | -5.9788 | -45.3621 | 2024-10-30 02:05:40 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 5c6e850d-2e60-3393-88ed-87e15d636c10 | -6.8592 | -59.0511 | 2024-10-30 02:05:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.7 |
+| befe05af-5438-34c1-9d43-2de87da68753 | -6.8408 | -59.0519 | 2024-10-30 02:05:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 51.8 |
+| d3825c9f-6bc8-3cc1-9d04-835f32967f18 | -19.61632 | -56.70845 | 2024-10-30 02:06:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 96.4 |
+| 9c9cbdf7-5da9-31d5-9631-f055f0761472 | -19.60293 | -56.71129 | 2024-10-30 02:06:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 104.5 |
+| 14ae93a8-dcd0-3b5c-aeaf-8b9ac2ecbfd9 | -19.58195 | -56.72222 | 2024-10-30 02:06:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 85.5 |
+| 09613861-3f82-35d7-a586-942dc269ab18 | -19.57614 | -56.71694 | 2024-10-30 02:06:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 99.9 |
+| db086ec5-76f0-3ca1-9796-ccb6317ae64d | -19.50234 | -56.59247 | 2024-10-30 02:06:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 25.4 |
+| 7f6e950a-267d-3b78-b3ca-440034ea11fd | -18.25246 | -55.99522 | 2024-10-30 02:06:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 29.9 |
+| 44057572-46b2-32e4-9b48-eabb1c5038f1 | -10.3437 | -49.6321 | 2024-10-30 02:06:04 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 71.0 |
+| 07085c3d-9a12-3a7f-95e5-88c376547585 | -10.3434 | -49.6536 | 2024-10-30 02:06:04 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 150.3 |
+| c72f3c2b-c787-3307-8b2e-e405f5198094 | -10.3245 | -49.6556 | 2024-10-30 02:06:04 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| 664418d3-10ae-3e99-8f86-ef3ddf0fef25 | -10.7171 | -44.9391 | 2024-10-30 02:06:06 | GOES-16 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 76.5 |
+| a9b200d5-c49c-32e4-b3fe-835a4afafc45 | -10.7175 | -44.916 | 2024-10-30 02:06:06 | GOES-16 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 130.5 |
+| 727fded9-3975-3c41-ba3a-f700f63f48c5 | -19.5862 | -56.7136 | 2024-10-30 02:06:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 102.3 |
+| deda79f6-ab69-321a-8cd6-1d282d90e397 | -19.5866 | -56.6926 | 2024-10-30 02:06:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 51.4 |
+| 6f200f01-04a6-39bb-a47e-b77c0d905b6f | -19.6063 | -56.7108 | 2024-10-30 02:06:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 153.5 |
+| 33b1a5bd-d01d-3d62-9329-5040079bd8fa | -19.6067 | -56.6898 | 2024-10-30 02:06:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 81.4 |
+| b8792515-66f8-361d-a0f3-83045181b26d | -19.6264 | -56.7079 | 2024-10-30 02:06:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 115.6 |
+| b21d6ae9-c5a8-3a98-86fa-726b538c55de | -9.49444 | -64.44518 | 2024-10-30 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 3cd2eb88-9b6c-34c2-bfa4-27cc489f7c73 | -10.69096 | -64.99996 | 2024-10-30 02:09:00 | TERRA_M-M | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 17.5 |
+| 7fc6216a-192b-3d87-a6b0-6ac702d147e5 | -11.90922 | -63.67392 | 2024-10-30 02:09:00 | TERRA_M-M | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| f49eecc4-b51b-3ba1-93a5-6421219dd797 | -11.9818 | -64.04058 | 2024-10-30 02:09:00 | TERRA_M-M | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 2289a7f2-afab-3441-9d0c-c852cd69ee6d | -12.02788 | -64.04755 | 2024-10-30 02:09:00 | TERRA_M-M | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 088c014c-35e6-3c21-9f54-41636de76b85 | -12.33264 | -63.98186 | 2024-10-30 02:09:00 | TERRA_M-M | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 2a628532-d80a-3a43-b7aa-8ee5dd5cee0f | -8.85662 | -64.23564 | 2024-10-30 02:09:00 | TERRA_M-M | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| e9f3014c-610f-3c50-8df7-8abde22c5a0d | -8.85811 | -64.24584 | 2024-10-30 02:09:00 | TERRA_M-M | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 18.1 |
+| 67dd9954-67ca-3435-ae95-5f148abaaee9 | -9.01213 | -64.3655 | 2024-10-30 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| cfee8521-4544-3b76-bf59-22548e59ed67 | -9.37782 | -64.45497 | 2024-10-30 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| c5d46342-52ed-36c3-9528-f3e75ee293b3 | -9.493 | -64.43536 | 2024-10-30 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 7d6438b8-0ce6-39b4-b2b4-09a97f735c9b | -9.55601 | -63.14296 | 2024-10-30 02:09:00 | TERRA_M-M | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| 48e86b97-e0d1-3b35-9b3e-e171ba038e0e | -9.5543 | -63.13132 | 2024-10-30 02:09:00 | TERRA_M-M | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 3cb18c31-3240-30a7-8011-4c2b7c69e110 | -9.5412 | -66.64923 | 2024-10-30 02:09:00 | TERRA_M-M | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| efe98280-e66e-3e99-ab77-2f7844a4871e | -9.54078 | -64.43822 | 2024-10-30 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 19c0c4c3-edbe-3f3a-a880-f2e16fa55a1e | -9.51301 | -65.59729 | 2024-10-30 02:09:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 52834e59-9565-3cf3-bb28-ace6f69d8a46 | -0.76991 | -62.89479 | 2024-10-30 02:11:00 | TERRA_M-M | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 14.0 |
+| ec2c5caf-65ae-3df0-8ab8-b21ae29a70bd | -2.3906 | -48.955 | 2024-10-30 02:15:19 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 45.6 |
+| 48edca8f-f19b-3aba-8312-3a026a88fe5e | -2.3906 | -48.9337 | 2024-10-30 02:15:19 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 62.9 |
+| 58ced8e8-7f66-34ff-b7b9-41f3bd3c1f5e | -2.833 | -49.2413 | 2024-10-30 02:15:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 96.9 |
+| 2d202fc0-d07a-3ca4-ad07-7cdad8da5774 | -2.8331 | -49.22 | 2024-10-30 02:15:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 48.3 |
+| b8687007-9235-39d2-b1d2-8331cd93023f | -2.8515 | -49.2408 | 2024-10-30 02:15:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 41.1 |
+| 2855f4cd-6752-3746-8adb-3e914edac919 | -3.0734 | -54.167 | 2024-10-30 02:15:23 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 42.9 |
+| 3bfa817b-6ab9-31a2-bc56-d1228460b6a4 | -3.1094 | -45.2293 | 2024-10-30 02:15:23 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 9039ec91-4915-3f37-b69a-bca25e3caef8 | -3.1601 | -50.6021 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 73.1 |
+| c34f0fb4-8f2a-396b-8a50-04fdeedc3f28 | -3.1602 | -50.5812 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| fbfaef8b-74a1-320b-a724-419fef4de967 | -3.1786 | -50.6016 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 119.4 |
+| d4e5bfb8-fd36-3b32-841a-8302b148bfd9 | -3.1787 | -50.5807 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 113.8 |
+| 5f9b3da9-e45d-3194-8432-df6988b97292 | -3.234 | -50.5789 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 47.3 |
+| 3ae02e7e-0679-3837-a300-aa5dda8a0006 | -3.2534 | -50.3689 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 68.5 |
+| e0d67014-54f1-3ecd-b9f2-a48196bfa9b8 | -3.2535 | -50.3479 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 154.2 |
+| 6e6ba9d0-d285-3632-aa49-0b41efbfab04 | -3.2719 | -50.3473 | 2024-10-30 02:15:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 80.8 |
+| 60b75564-afc6-38ba-bf02-053faf7eca9d | -3.5631 | -47.3847 | 2024-10-30 02:15:26 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 224.0 |
+| c6854513-4425-3a0b-9f87-419141b6f226 | -3.5632 | -47.3629 | 2024-10-30 02:15:26 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 101.8 |
+| c97d644d-989f-3492-9ee4-d5b4c450ab91 | -3.5817 | -47.384 | 2024-10-30 02:15:26 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 280.1 |
+| 7c6813da-71da-3937-8b8b-16313b1f1e59 | -3.5818 | -47.3621 | 2024-10-30 02:15:26 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 126.7 |
+| c0d1090e-d50c-3151-937a-8e7a75deafca | -3.8037 | -51.1644 | 2024-10-30 02:15:27 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 47.0 |
+| fe0e04f0-d2d4-3fbc-8643-ef7c4830de2f | -3.9326 | -41.4957 | 2024-10-30 02:15:28 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 60.9 |
+| 964c882f-d918-3b82-9600-78d79a109191 | -3.8845 | -49.7568 | 2024-10-30 02:15:28 | GOES-16 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 33.3 |
+| ddf57d32-f519-38fb-8566-f81dba674c53 | -3.8846 | -49.7356 | 2024-10-30 02:15:28 | GOES-16 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 35.5 |
+| 61659001-aa7b-353a-b4d0-8ba0597bb330 | -4.0681 | -50.024 | 2024-10-30 02:15:29 | GOES-16 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 44.6 |
+| bb484d15-8ea3-3433-ab42-ad0a3c461f6f | -4.0682 | -50.0029 | 2024-10-30 02:15:29 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 39.1 |
+| 5845f8e6-2cba-34da-997c-23e6bdcbb9fe | -4.2563 | -43.4368 | 2024-10-30 02:15:30 | GOES-16 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 73.2 |
+| 446469fd-03b0-32a1-aa33-aa1d3595b60a | -4.2748 | -43.4589 | 2024-10-30 02:15:30 | GOES-16 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 72.8 |
+| e07348d2-8d81-30de-a556-c2a2f2013e12 | -4.2749 | -43.4357 | 2024-10-30 02:15:30 | GOES-16 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 98.4 |
+| fcad6194-b277-3279-899e-385ea3120c7c | -4.2496 | -50.6677 | 2024-10-30 02:15:30 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 39.3 |
+| 17bdd62c-df3b-369e-b959-a3d0bcaa6667 | -4.2681 | -50.6669 | 2024-10-30 02:15:30 | GOES-16 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 68.5 |
+| 1f73ba22-3175-38c3-b3be-47bf8da63bd7 | -4.6049 | -44.3161 | 2024-10-30 02:15:32 | GOES-16 | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 280.9 |
+| 2e675205-293d-3fe0-a98b-b18b84179a86 | -4.5862 | -44.3172 | 2024-10-30 02:15:32 | GOES-16 | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| 45d0d0a9-4187-3d40-877c-b15c56231c05 | -4.5864 | -44.2943 | 2024-10-30 02:15:32 | GOES-16 | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| dbb8d3c8-27b5-34d1-8019-27104ccbd4db | -4.6051 | -44.2932 | 2024-10-30 02:15:32 | GOES-16 | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 400.4 |
+| 0e93f6da-0d91-3eb1-839b-0b5bf09f8b88 | -5.2308 | -47.9349 | 2024-10-30 02:15:35 | GOES-16 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 52.4 |
+| 219b0456-de2c-38d5-b7c8-32d782c272b5 | -5.2306 | -47.9566 | 2024-10-30 02:15:35 | GOES-16 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 77.5 |
+| f6259df0-ec24-36d6-9895-2018574b9011 | -5.212 | -47.9577 | 2024-10-30 02:15:35 | GOES-16 | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 49.9 |
+| 83af7511-355a-3028-9b6e-de736b477174 | -5.9788 | -45.3621 | 2024-10-30 02:15:40 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 79.3 |
+| 019b0e1b-4dc3-3cd6-8606-5e16ab33b4ce | -6.8593 | -59.0318 | 2024-10-30 02:15:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 41.4 |
+| 72ec4ce7-1664-3293-9085-45e35ca158a9 | -6.8592 | -59.0511 | 2024-10-30 02:15:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| 6894288b-6321-3d8c-b6b1-80bb28863fb2 | -6.8408 | -59.0519 | 2024-10-30 02:15:45 | GOES-16 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 57.9 |
+| a0d30b01-d6f2-37c8-9f1a-dbf496f266a5 | -10.3437 | -49.6321 | 2024-10-30 02:16:04 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 66.6 |
+| 1852cf9a-39f9-32ee-bff9-02a7a1603f40 | -10.3434 | -49.6536 | 2024-10-30 02:16:04 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 137.6 |
+| 6b4e5a65-02dd-342e-b60d-ee46c10a1982 | -10.3245 | -49.6556 | 2024-10-30 02:16:04 | GOES-16 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 72.5 |
+| 36becacf-00ff-3880-ada5-aadbc5f906b7 | -10.7175 | -44.916 | 2024-10-30 02:16:06 | GOES-16 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 114.3 |
+| f4bdc544-31d1-3cb0-bf01-1b6804d83781 | -12.899 | -45.0549 | 2024-10-30 02:16:18 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 77.7 |
+| dbb1941b-aa38-347c-a4df-55c1943c2918 | -19.5862 | -56.7136 | 2024-10-30 02:16:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 58.5 |
+| 86036e33-c211-355f-b8d4-03c761bfc0c8 | -19.6063 | -56.7108 | 2024-10-30 02:16:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 113.5 |
+| 9e34c3fc-9b93-32b8-b81d-e843d399e11d | -19.6067 | -56.6898 | 2024-10-30 02:16:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 61.7 |
+| 12988ee6-8b73-3096-9282-b9c5c3415746 | -19.6264 | -56.7079 | 2024-10-30 02:16:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 91.1 |
+| 7fe32a29-1d14-388c-814b-a98cc68bd44b | -19.6268 | -56.6869 | 2024-10-30 02:16:55 | GOES-16 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 59.2 |
+| 6e2065dd-b675-3c6d-b37f-42a71df80c71 | -2.833 | -49.2413 | 2024-10-30 02:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 87.8 |
+| 7f787a03-3b58-3324-b7cf-f1ae1a26f583 | -2.8331 | -49.22 | 2024-10-30 02:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 33.9 |
+| 8b9b670a-aeb6-3292-951c-aba266a029f1 | -2.8515 | -49.2408 | 2024-10-30 02:35:22 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 44.4 |
+| 1b4b51ba-cc9c-32fe-b870-2e42b120ba74 | -3.2719 | -50.3473 | 2024-10-30 02:35:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 104.4 |
+| 6aba702d-be8e-3be9-9aa3-6ffd31893594 | -3.16 | -50.6231 | 2024-10-30 02:35:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 39.3 |
+| d7958bbf-253f-348f-b6f6-0a2f56067a85 | -3.1601 | -50.6021 | 2024-10-30 02:35:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 61.6 |
+| df10dcde-0318-37d8-9547-1d6e7f8fe4ec | -3.1602 | -50.5812 | 2024-10-30 02:35:24 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 47.4 |
 
 
 [Clique aqui para ver as próximas entradas](README24.md)
