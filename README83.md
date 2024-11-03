@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6c95b34e-8abc-3c58-a5ea-8de7831f76e1 | -4.33136 | -55.09518 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5717ded3-9787-32f6-8824-d0d9fce630cf | -4.29907 | -55.12892 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 24658211-80c0-3413-ac80-e77db5a6939f | -4.29836 | -55.0901 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| dc8cbc47-a5b9-3d0f-9bd4-db863088f77a | -4.28246 | -55.36551 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| fe507e05-f50b-3cf6-a1f7-80dd337ba801 | -4.2797 | -55.36156 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e99959f5-3b13-396e-b8a7-6e898401b966 | -4.27606 | -55.14642 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f24f4c6e-dabb-3cda-9354-e3b7e96657c0 | -4.27553 | -55.14985 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 0c37042c-5329-3dc1-811e-b09d5a5e074e | -4.27535 | -55.10765 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2308ec39-61a6-36e8-891e-bbf8878f39f1 | -4.27499 | -55.15329 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| bf6ef42e-ef50-3211-9e24-88f86667e98f | -4.27482 | -55.1111 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 22170fa8-34ca-38ec-861d-83511d7e53c6 | -4.27276 | -55.1459 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 02cf1cf2-f632-36ad-9464-3a3ec36be813 | -4.27116 | -55.15622 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| dbac832d-b2f8-3114-89d9-c714276f6cd2 | -4.26946 | -55.1454 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 4ac2bc65-51b9-3801-a2ce-4f559f9ebf16 | -4.26795 | -55.17683 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 684f4741-11f2-38e9-b689-bb5cfb736313 | -4.26786 | -55.15571 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 772f5de7-a2f5-35cd-889c-1f47b344819b | -4.26741 | -55.18026 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7d1fa143-9f7c-3a3f-af6c-ca9d02cb3431 | -4.26509 | -55.15176 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 12eab331-14b3-389d-98c6-1d3e2a4e19af | -4.26455 | -55.1552 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5dbcb666-278d-3b0b-95f8-17660487c6ca | -4.26411 | -55.17976 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| aa11ffcf-9099-37ac-af85-eec7d6630be7 | -4.26348 | -55.16207 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 89362fe3-a92d-3e80-9ca7-f11f0635d7c0 | -4.21225 | -55.40392 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 9a3fc55e-a963-3862-a58f-e0bf22aa2e00 | -4.21171 | -55.40736 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 57875b09-a7a5-3aef-8eec-264097eecc31 | -4.15552 | -55.15591 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b6fc66d6-4adf-3fb0-a4fa-c7ff0cd2b8ad | -4.15276 | -55.15197 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7d4cea62-abcb-3f7b-8870-5737392256ea | -4.15222 | -55.1554 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0435e1a7-0265-340f-815e-e079de540fca | -4.14344 | -55.4284 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b8ddc291-b18d-3ec4-9d03-b002b0be6926 | -4.14291 | -55.43184 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 7a568f79-2dd5-3ec1-b089-1571ed6db890 | -4.1396 | -55.43132 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e728772b-8086-3ff0-aa49-17b68051c8ff | -4.1012 | -55.06657 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 537c873e-0956-3b5c-9b58-386719f75589 | -3.89293 | -55.37846 | 2024-11-02 05:04:00 | NOAA-21 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 2c89fe8b-9c04-3c6e-afd0-f8be4ce858d0 | -4.17103 | -54.7919 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| bf403821-1b21-30d6-9e04-6982c8547b48 | -4.16719 | -54.79485 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 342ba8bb-f8b6-3022-8bfb-41a159683ee6 | -4.16388 | -54.79433 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 45f3abc2-28d9-382c-bf4a-7225da510d1f | -4.16334 | -54.79779 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 599bfd6c-a31f-322a-9065-64c120686869 | -4.1368 | -54.64156 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8a0dc84d-0684-399c-8905-7dc2abc2dd82 | -4.13074 | -54.89857 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d8359028-d983-39de-bcea-60b717c671a5 | -4.1053 | -53.94062 | 2024-11-02 05:04:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4a3efef4-8cf2-31d2-b110-1cbeefb83ade | -4.10239 | -54.35835 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a042462f-8c4c-38d8-bf31-bae61c4ee70c | -4.09547 | -54.88608 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9dd0cb71-f213-3017-a528-a944418eee4f | -4.0863 | -54.35235 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 7ab68cc8-7a97-3919-b98d-7aabc3f9a5de | -4.08298 | -54.35184 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8781851b-7dee-3ad8-adf4-1733b406004e | -4.07634 | -54.08492 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 44f73cf8-20c7-3d34-ba4f-ad6621d7a3ba | -4.07354 | -54.08084 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5933b404-b7d7-3b87-8a3e-ad1b3c925368 | -4.073 | -54.08437 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1c603718-79b8-3cb9-a67b-3622fcfe217c | -4.0165 | -54.82403 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| d2ddfdd6-9ee1-3aba-aaef-7afd8180ab4e | -4.0132 | -54.82352 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 15a1943a-e6ed-3c66-a26f-6d5505282960 | -4.01043 | -54.81956 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 139554b3-baff-35d8-8363-336aa489e7e3 | -4.00989 | -54.82301 | 2024-11-02 05:04:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 543045a3-1148-3634-9213-431845bcbead | -3.97791 | -54.34998 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 5283d3e3-bd58-3305-83dc-cf03ab849d68 | -3.88469 | -54.13845 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| d4cf6d9b-9ccd-3c22-9a89-a94e84bed9a0 | -3.88415 | -54.14196 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f0715c60-887b-3446-a84b-d367440e4587 | -3.88135 | -54.13794 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| c5df0743-f641-3af0-8aee-fa49f6647b08 | -3.88081 | -54.14145 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 88c7a40e-4941-3e1d-b66e-644f159602df | -3.87802 | -54.13742 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d5e42a0b-74a6-3f16-8ed0-157b1c3af075 | -3.87748 | -54.14093 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 1e9ee79b-d01d-3ac1-9fd8-883ed3107169 | -3.85944 | -54.08056 | 2024-11-02 05:04:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| deb445af-8e38-37f3-b848-8ce1b07e3e69 | -3.75362 | -54.74464 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 29101d18-b24d-38d0-afd4-c4d1482faac1 | -3.75031 | -54.74413 | 2024-11-02 05:04:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d76be30f-4169-3271-a297-97d7618e0b07 | -2.20161 | -55.48676 | 2024-11-02 05:04:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7ad95b7f-a238-3bcd-a630-f758cfda7e67 | -2.12731 | -55.78844 | 2024-11-02 05:04:00 | NOAA-21 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9331d689-4989-3c3a-999c-7d2c1ae48c8a | -2.0873 | -55.36993 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 76e3b897-4038-3f80-b425-fce4bbcdc459 | -2.08713 | -56.00153 | 2024-11-02 05:04:00 | NOAA-21 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 3db9d214-ecad-30cd-b261-dc462c5d936d | -2.06708 | -56.02015 | 2024-11-02 05:04:00 | NOAA-21 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 09c1aaae-caf7-3696-af9c-e2d6d8592b00 | -2.0392 | -55.69965 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 990debe4-6b49-3cb3-accb-5198c986e98e | -3.99049 | -55.73245 | 2024-11-02 05:04:00 | NOAA-21 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8f575f9f-b570-3608-83d5-228d93a44ca3 | -2.02099 | -55.72897 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fb08c262-9020-37f0-92b5-280b9af60ac7 | -1.99317 | -55.99419 | 2024-11-02 05:04:00 | NOAA-21 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fb6fbfe7-658a-3464-a098-71c98f027efd | -1.99262 | -55.99772 | 2024-11-02 05:04:00 | NOAA-21 | JURUTI | PARÁ | Brasil | 1503903 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d868e270-1749-3ac6-b77b-6cada0f9acc6 | -1.92346 | -55.46077 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e5700ad0-8b5c-30e1-bb3c-25e56a5bde5f | -1.88888 | -55.13775 | 2024-11-02 05:04:00 | NOAA-21 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| e979ca2b-7e48-3df1-9c14-6313999772b1 | -1.88834 | -55.14119 | 2024-11-02 05:04:00 | NOAA-21 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| d18a5610-1238-34b1-98b8-3114772f57db | -1.88414 | -55.66805 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 82e7d69e-474d-3297-bdac-45b672cd6874 | -1.88195 | -55.68199 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| cae386b5-f35d-36e8-aa64-c1985f865796 | -1.85539 | -55.15723 | 2024-11-02 05:04:00 | NOAA-21 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 90df5b47-3269-3fbe-b61d-db59b985e205 | -1.82001 | -55.27507 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| a594e316-5be4-331a-b2cd-155014888089 | -1.81948 | -55.27852 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 21657697-d51d-3f93-b176-13813dab35ca | -1.81811 | -55.37368 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 68cca1f2-f05f-3bd6-aff2-5e5353d160d1 | -1.80354 | -55.15978 | 2024-11-02 05:04:00 | NOAA-21 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 2338f8ac-6cf5-37c7-aab5-849e03f05b51 | -1.80301 | -55.16322 | 2024-11-02 05:04:00 | NOAA-21 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 09a8c357-2758-3fec-96c5-b10b3c971195 | -1.78363 | -55.41792 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4c19443a-4d98-3c9d-b16c-b335096962ef | -1.56467 | -55.88377 | 2024-11-02 05:04:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| a44131ad-6f7e-3dd4-8f56-647d3f79f078 | -1.56412 | -55.88729 | 2024-11-02 05:04:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 2e6db522-b203-31b8-bacb-8f978e0ecbd7 | -1.56078 | -55.88679 | 2024-11-02 05:04:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 7d298ad7-2cf9-3028-972e-348240689567 | -1.56022 | -55.89031 | 2024-11-02 05:04:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 6a5aca5d-4bc4-372f-a0d3-993fb493a028 | -1.51738 | -55.68581 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1ec794a7-d06c-3d66-a8aa-1438921263ea | -1.51683 | -55.68932 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 6941e7e1-a9c4-33e5-a08c-73ddaf2e97c2 | -1.47832 | -55.84881 | 2024-11-02 05:04:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| cf6baf8d-8c6b-34e8-a332-bda906d8da75 | -1.47777 | -55.85234 | 2024-11-02 05:04:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| b5c8caa4-ffa9-31d4-ba93-393001bc7781 | -1.41999 | -55.48163 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 049b9c23-fe17-3b98-bf34-7e38f30dd173 | -1.41944 | -55.4851 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a7e548e1-e4ae-3813-8133-f14eaff1b65a | -1.41612 | -55.48459 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 21734cbc-042d-35b9-a6f2-cd3330fcd01f | -1.34016 | -55.44745 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9c6850c9-143e-3cfa-a4cd-02fcb27f494d | -1.33684 | -55.44694 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 63670b22-979b-331a-b48a-faa39ad47f31 | -1.26163 | -55.68894 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| db3a724d-7063-3033-89be-61c6d35261cc | -1.26108 | -55.69245 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| fc4753f4-2f4c-398c-81eb-e4dea88b3c47 | -1.19954 | -55.93217 | 2024-11-02 05:04:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| cddf612b-3206-3a97-9a82-5a2544220321 | -1.66728 | -55.18385 | 2024-11-02 05:04:00 | NOAA-21 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8bcd928e-4782-38f2-9ef2-3fc8d2ff9690 | -1.56259 | -54.89688 | 2024-11-02 05:04:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 9d8731cb-ebb9-373f-8e40-6da75f41b0ec | -1.55929 | -54.89637 | 2024-11-02 05:04:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2c4c7233-9142-3305-8d64-a1a10ce390b5 | -3.57141 | -55.45447 | 2024-11-02 05:04:00 | NOAA-21 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 54117a80-b30f-388e-955e-f04146a49752 | -1.26288 | -55.69668 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 2dfb9519-1c55-3bd9-a72a-f554581c6f1e | -1.26218 | -55.70119 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| faca65f5-19d8-375c-bfaf-edae0b3b9db9 | -1.26146 | -55.70576 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 8f4ff18f-bbe3-3657-8064-39956015d496 | -1.26073 | -55.71045 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 0d49e39b-829f-331a-9633-9e115930ed0f | -1.25904 | -55.69131 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 4587ee05-16eb-3740-8702-2a4cafbdb449 | -1.25833 | -55.69588 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| a329ddea-33e9-3055-9693-5bfb09822ce6 | -1.2576 | -55.70051 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| ec586769-b251-3c70-bb65-920609536b0a | -1.25688 | -55.70516 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| ddaac527-283d-3d5b-bf59-c9f4b95440cb | -1.23239 | -51.95166 | 2024-11-03 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 5bcb4eaf-a7d3-3bf2-a0ea-0fb8af6209f3 | -1.22386 | -55.82749 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 05c94655-18bc-3c5f-97e2-d6ee6ac80a59 | -1.22166 | -54.14881 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8773a9db-b76d-30b6-ae29-e957e6874576 | -1.21934 | -55.82674 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9beb2a5c-0771-3ad5-b25e-dff6e552cb88 | -1.21906 | -54.16594 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2c14448d-ec58-3cec-b968-6dd28e404fad | -1.21863 | -55.8313 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 314539fe-aef0-3e9d-b5e3-e948d37c1b66 | -1.21792 | -55.83588 | 2024-11-03 05:31:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 5f1b9bcf-a761-30f9-868c-96f1fa39daff | -1.21405 | -54.16464 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 5d133918-1421-31ea-bec9-db115ff68d04 | -1.20818 | -53.91155 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c8072730-3d4f-35fb-8504-64e4c7795431 | -1.20248 | -53.9142 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| ebed607b-c756-3276-af9b-0f9a8362f262 | -1.1992 | -53.65797 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| d209a4b4-770f-322d-8c67-0ffebcee4eef | -1.19502 | -53.65006 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 3ed96d0d-2371-3e1c-8f27-aaae215e74b4 | -1.19447 | -53.65371 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 9925878e-99ff-3f4c-9a9b-994a90ea8c5e | -1.18944 | -53.68682 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 0beb19bb-1604-30ed-8691-7c2a04f141a4 | -1.18892 | -53.69021 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 7b93d64a-cbf3-3acb-87fe-f50eb336e068 | -1.18518 | -53.67947 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 8c3ed30f-f4f8-343d-9295-92e866d23269 | -1.18468 | -53.68275 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| b0dff699-63f4-3aaa-9ac7-f4223344fc59 | -1.18418 | -53.68609 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 28b5f75a-1997-3778-a37b-86e24203b34e | -1.18366 | -53.68953 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 7021e72b-3880-3540-be60-110dd0babb4d | -1.17949 | -53.68157 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5db4159a-9f39-3386-9b6e-95c708b59cc6 | -1.16675 | -54.17742 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 0807e84f-c894-3b13-9707-3da073dd5abe | -1.16629 | -54.18035 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| e565a3aa-8d3a-31b9-8cb7-48422866663e | -1.16126 | -54.07844 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ce106372-880f-3f03-8a82-cc0c21b456a7 | -1.16079 | -54.08146 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0098364d-7a71-34ff-afb7-f4d01effba15 | -1.16032 | -54.08449 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c83c57bd-fb91-3118-94dc-eaafefe675e4 | -1.15985 | -54.08752 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 660e837c-0606-3df0-9fb5-d453001abe17 | -1.15938 | -54.09057 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 3fcb1735-84f3-39e3-8ac2-bc4484d1f488 | -1.13664 | -54.10267 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 1490a9dc-dd51-36ff-aadb-ab768268c9da | -1.13153 | -54.10194 | 2024-11-03 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2a17f96b-90ba-3fea-a5c6-b505730b88f6 | -1.09306 | -53.65069 | 2024-11-03 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 04c03cbe-598b-3c6a-8653-c0a81024b926 | -1.09257 | -53.65393 | 2024-11-03 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 65790d55-2a08-3296-8b5e-326daf4305e4 | -1.08827 | -53.64684 | 2024-11-03 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 573f9e4a-304f-3727-a099-e33a7c63e3cc | -1.08776 | -53.65017 | 2024-11-03 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 8d3a3094-075d-3125-a0d0-9c3c0b214391 | -1.07309 | -62.65009 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 29f9f3f1-7853-37f7-a53d-e0bf272764e6 | -1.07201 | -62.65694 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2c6235c2-39c0-3837-bef3-f3c65a44b0ba | -1.06871 | -62.65643 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e701adc1-7f91-3644-aa70-155d34f39185 | -1.03202 | -53.73068 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| cffe4733-23d6-33e1-ae46-e925e139fa86 | -1.02624 | -53.73345 | 2024-11-03 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1b7f1ef1-f05e-31fc-9d82-edb5babf8498 | -0.77706 | -62.89182 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 1c0e413f-6504-38f1-a6af-60df64bfa905 | -0.77652 | -62.89526 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 275af7d3-ebc5-3f59-94de-ebeee02f3e58 | -0.77321 | -62.89474 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| bf6a3f51-91af-3d4d-a7fc-e4014e87f15a | -0.76936 | -62.89767 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 37ed95cc-6f20-31be-83fe-c8e0bd70c999 | -0.76498 | -62.90403 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2bf5eeda-4594-3190-b3d2-6fc7f85b28fb | -0.76167 | -62.90351 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 90e1bac8-6bf0-33ee-b4f9-3f75bc07168d | -0.76113 | -62.90695 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 65359d2e-a3b1-3cca-af7b-d6a3ee8438f4 | -0.75837 | -62.903 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| dc3d0d46-f336-3bcf-be65-7c4f33d635ae | -0.75783 | -62.90644 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 3df3b206-fe79-36ea-b368-f8f5406097df | -0.75675 | -51.96021 | 2024-11-03 05:31:00 | NOAA-20 | LARANJAL DO JARI | AMAPÁ | Brasil | 1600279 | 16 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| e5c9c8ef-3d88-3b6a-b2f7-cb3a8f13d9dc | -0.75452 | -62.90593 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a02538ec-e528-3cd3-9304-0a1b13744d7b | -0.75284 | -62.8951 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8a038bb3-1c8d-3a82-9310-e924d170f19d | -0.7523 | -62.89854 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 72db2cfa-705f-35d4-84ca-34f85ce6f5f4 | -0.75176 | -62.90198 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 57aa324e-cd98-320c-a2c9-d48df9505bd0 | -0.74953 | -62.89459 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 089175a5-3c96-3119-ad37-06f24a287a5c | -0.74899 | -62.89803 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| d79fe72e-a1ae-36ae-ab07-2fe32f9eef70 | -0.69953 | -63.21207 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 49d4bb3a-91c2-3c7f-b449-2ad235553338 | -0.69621 | -63.21156 | 2024-11-03 05:31:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0eef93de-b1cd-3a47-bcf6-ce54db634e8a | -0.68159 | -51.67886 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 04fb0419-9466-3396-9b8e-0299ba596960 | -0.67563 | -51.67801 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 4742faeb-e09d-3213-8de7-c664b6c489f8 | -0.67495 | -51.68236 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 914893a8-1970-3621-9ae3-b90fb9460464 | -0.67359 | -51.69105 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8b210993-8580-3650-8f38-2a8fabea6a78 | -0.11623 | -51.56508 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 63961981-0815-34ad-85b6-e1bd5ea6ee62 | -0.11556 | -51.56944 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1bf811bf-45e2-3369-ad9b-2caefe743833 | -0.11221 | -51.56765 | 2024-11-03 05:31:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 6641fb97-7b9e-3269-a882-8feb792144e7 | 4.24469 | -61.02195 | 2024-11-03 05:31:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3db03274-9aed-3217-947f-75fd6cfd7285 | 3.51614 | -51.27523 | 2024-11-03 05:31:00 | NOAA-20 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| c667105c-92b3-30a7-bbee-4196ab50a1c7 | 3.51546 | -51.27125 | 2024-11-03 05:31:00 | NOAA-20 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 2635c9b5-3213-3cef-ba72-7a36ce291afe | 3.51042 | -51.27621 | 2024-11-03 05:31:00 | NOAA-20 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| b3a7504f-14b8-38ac-8f6f-104441583e0a | 3.36356 | -60.82438 | 2024-11-03 05:31:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5e3b5dc2-e0ce-34f4-88de-23f5aadb3d5d | 2.81908 | -60.82112 | 2024-11-03 05:31:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 489e58d4-d778-33fc-ac24-288198095d72 | 2.55704 | -51.10643 | 2024-11-03 05:31:00 | NOAA-20 | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| c99c3084-4f5e-3938-961d-6c7ccacaa564 | 2.55633 | -51.1022 | 2024-11-03 05:31:00 | NOAA-20 | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| ffa64e79-d66d-3b69-9617-213e6ed6416b | 2.55306 | -61.00872 | 2024-11-03 05:31:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 08c8f5be-a040-31c9-83a9-8688069e8523 | 2.55046 | -51.10318 | 2024-11-03 05:31:00 | NOAA-20 | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 9a22c97e-0c1b-38c2-b5d0-775edbef0a27 | 2.54387 | -51.09988 | 2024-11-03 05:31:00 | NOAA-20 | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| cbfcbb62-0549-347f-8f4b-d59c9a59dfcb | 2.53729 | -51.09663 | 2024-11-03 05:31:00 | NOAA-20 | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0835a9a7-84ab-33cf-a2ff-edc72809ec3f | 1.84874 | -50.52005 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c8f8cb99-08f9-306f-81e0-f82ef56f78f3 | 1.84391 | -50.52643 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e86ba167-2c93-396b-8d9d-3a16328d2e97 | 1.84338 | -50.52576 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d4e70355-6df4-36e9-b139-faaea0a96187 | 1.84313 | -50.52164 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c16a0b34-fa5b-3f8f-af3f-635e90379f05 | 1.84257 | -50.52097 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 97fc1cc8-24e5-34e5-b937-d067715ca96c | 1.84235 | -50.51682 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8fcbe141-ad85-3513-b434-e0e2f74b0db8 | 1.78486 | -50.4375 | 2024-11-03 05:31:00 | NOAA-20 | AMAPÁ | AMAPÁ | Brasil | 1600105 | 16 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 6b3caf07-3d44-3591-b80d-df7d6989c51a | 1.72669 | -55.90981 | 2024-11-03 05:31:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5f9642f9-94d4-34fc-b0a6-59017824a4a7 | 1.7211 | -55.90237 | 2024-11-03 05:31:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3d0f3de9-a2c5-3bfa-938c-f084189cec81 | 1.72045 | -55.89831 | 2024-11-03 05:31:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 881b3157-14df-3552-aa6d-4c7cb401647b | 1.13296 | -59.44559 | 2024-11-03 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 371e5e08-abf3-3343-bbd5-cb767e4d5683 | 1.12946 | -59.44614 | 2024-11-03 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 3e9ba152-b93e-34f6-8a9f-bf5224315136 | 1.12885 | -59.44226 | 2024-11-03 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| a3fda03c-0618-3493-9b03-432763d1937c | 1.12534 | -59.44279 | 2024-11-03 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cfb03fd5-3d05-357f-a29b-86c3e531c9f8 | 1.12473 | -59.43891 | 2024-11-03 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1d064bf9-ed36-3d31-b332-99869d151304 | 1.0388 | -59.60652 | 2024-11-03 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 166360e6-dd6f-3881-80c9-3827d536b087 | 0.68059 | -59.80984 | 2024-11-03 05:31:00 | NOAA-20 | SÃO JOÃO DA BALIZA | RORAIMA | Brasil | 1400506 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README84.md)
