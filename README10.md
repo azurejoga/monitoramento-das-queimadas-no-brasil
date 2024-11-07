@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2a20645d-1dda-38a0-84ce-5ed914c19ac9 | 3.6166 | -51.3102 | 2024-11-06 00:54:00 | METOP-C | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 89ae16a1-9a99-3746-aafa-463169c22792 | -3.1096 | -51.107899 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8308c0d6-3c93-3820-bf6c-91b617deed41 | -2.8356 | -52.9217 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 075079de-15d5-38e7-b949-be0bea4d7a36 | -6.1242 | -43.976299 | 2024-11-06 00:54:00 | METOP-C | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 4623b15a-15d4-3c04-8e1c-34964f280fb7 | -2.7559 | -53.2043 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e4b7447-ec4f-3db7-8d00-70c9b997c875 | -5.6531 | -45.926201 | 2024-11-06 00:54:00 | METOP-C | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7f4293b6-dd9a-3aa2-81dd-1d6e9fc07686 | -2.9973 | -54.125 | 2024-11-06 00:54:00 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ea634725-bf2d-3268-9335-ae352862b081 | -2.6756 | -51.820999 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2d2c4fb9-04a4-38aa-a368-807803ebf718 | -3.0101 | -53.413502 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ec5ac629-0e93-3484-818e-4a7e8de048ca | -5.6561 | -45.938801 | 2024-11-06 00:54:00 | METOP-C | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 765ffc96-4382-30f0-a3b7-8a3f2d0cdde3 | -10.0235 | -55.059502 | 2024-11-06 00:54:00 | METOP-C | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 15484ff7-dda4-3c86-813c-1cf2e981c5fa | -3.1392 | -51.191601 | 2024-11-06 00:54:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 68274a01-5dd0-3b21-a92e-8825d3636440 | -3.2437 | -53.397598 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b68254c5-4661-3fa8-b742-f1ae15589ea1 | -4.647 | -43.818298 | 2024-11-06 00:54:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ebb641ae-1b86-3771-a08d-4f7dfeac5dfa | -4.1243 | -43.567799 | 2024-11-06 00:54:00 | METOP-C | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8ecca318-3c93-35e6-a13e-9dddc7040cf8 | -5.027 | -43.609501 | 2024-11-06 00:54:00 | METOP-C | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| aa912acd-50a6-3075-83c5-22e857b9ece9 | -2.6788 | -51.8349 | 2024-11-06 00:54:00 | METOP-C | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3fd6ec44-f9fd-33cb-ac65-f70091d70155 | -4.1919 | -51.013802 | 2024-11-06 00:54:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 795baf42-3626-32fa-8f0b-3f8831b46954 | -2.1575 | -53.6539 | 2024-11-06 00:54:00 | METOP-C | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0e41faae-1457-3f6b-abe6-52806b1e8258 | -2.9277 | -51.035198 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4c08c9b2-22b0-3e00-9140-25e4678cca0f | -2.9327 | -52.535301 | 2024-11-06 00:54:00 | METOP-C | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 59b625c6-d2c0-3ab0-b83c-f08f06c5e90a | -3.2551 | -53.402302 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 331b8fac-8a11-3af1-b63e-25bfaa7b1d9e | -3.1816 | -53.848 | 2024-11-06 00:54:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2845a0ec-b593-33a6-86e5-a8dd6e6ed950 | -2.9098 | -51.046902 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1f3d636f-02f3-3a60-98b2-b7c30fdd1b81 | -2.8155 | -51.488098 | 2024-11-06 00:54:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fb8d2b1a-79d3-38e7-a667-1ce1a551d45b | -0.8572 | -52.841801 | 2024-11-06 00:54:00 | METOP-C | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a1138721-8014-3a19-93b8-674c777d61e1 | -2.7227 | -54.141499 | 2024-11-06 00:54:00 | METOP-C | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 6853e59e-0a20-340b-a588-971a64ababc8 | 3.5178 | -51.246201 | 2024-11-06 00:54:00 | METOP-C | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 508c8172-9073-3a32-9357-636f5728fa88 | -2.9675 | -53.858898 | 2024-11-06 00:54:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| dd344bba-0970-3698-92a2-24cb0f2c946c | -2.8078 | -52.935101 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8beef51d-c5b1-3857-8c02-958ac3f1d9cb | -2.7234 | -51.715199 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 43f00b58-0e54-3712-a0ae-fc22a901992c | -2.9991 | -54.087502 | 2024-11-06 00:54:00 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| eadf91c7-f08a-3702-810b-fdc500454bfd | -2.7145 | -54.1507 | 2024-11-06 00:54:00 | METOP-C | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ff2a795-7e43-373c-a782-56d2a36036fa | -2.7591 | -53.217899 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 23a1c821-9e25-3b8c-acdf-a56c0f99646e | -5.1389 | -47.6973 | 2024-11-06 00:54:00 | METOP-C | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| c5c82096-cfb6-31b5-86d4-6c844d9929f3 | 3.5276 | -51.248402 | 2024-11-06 00:54:00 | METOP-C | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 29b7b420-cca3-3e47-b9e8-74497ece5cd6 | -6.1145 | -43.9786 | 2024-11-06 00:54:00 | METOP-C | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 21cef120-9f82-398a-a8e8-b27932660083 | -3.1425 | -51.205799 | 2024-11-06 00:54:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b2c9845c-3de1-3bcd-8dc7-2606218ef468 | -12.1655 | -44.615398 | 2024-11-06 00:54:00 | METOP-C | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 2396eaf4-5c96-345b-afbb-1d559686b79f | -23.932699 | -54.075802 | 2024-11-06 00:54:00 | METOP-C | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 091c07a9-bb47-3638-8ae2-a635ae4113e4 | -2.9969 | -53.852299 | 2024-11-06 00:54:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8e372c68-d696-35c1-bd82-c01721e6c13d | -2.8778 | -51.310398 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ce77ba0a-86fb-32f9-90a0-9df22ca39f53 | -5.9391 | -43.767799 | 2024-11-06 00:54:00 | METOP-C | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f876b8c9-95da-39af-8ea5-adba49b389fe | -2.8227 | -52.910198 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a63d1347-a442-3c8c-b90f-1805f1815574 | -6.5006 | -44.6689 | 2024-11-06 00:54:00 | METOP-C | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| bafa46a4-b0ff-309a-b606-2b89f3fbdf42 | -3.3397 | -51.6133 | 2024-11-06 00:54:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4e4ac11d-f329-3a1d-b459-739b454a9a76 | -3.1606 | -50.2145 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 29910457-b186-354b-a8ee-aca079a42928 | -3.3252 | -50.079399 | 2024-11-06 00:54:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a44576cd-84ea-378a-ab5e-2b75c5314d98 | -3.0285 | -54.081001 | 2024-11-06 00:54:00 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a5ffdbd8-6324-3177-8414-5f50ba91d370 | -3.1308 | -51.110699 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 132886c2-dc6a-32f3-9247-8f4cb72843a4 | -2.9392 | -51.040298 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 548648da-ba3f-343c-83ba-01147b141c57 | -4.4701 | -50.655701 | 2024-11-06 00:54:00 | METOP-C | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 92e4a2ae-eca2-3e6c-85f0-2332b3b1cdbe | -2.8129 | -52.912399 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 723cc74b-7915-3142-b08a-380c162bf3a0 | -3.9659 | -48.144199 | 2024-11-06 00:54:00 | METOP-C | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fd1e6382-b75d-3145-ae47-91eca598df1a | -1.0655 | -53.66 | 2024-11-06 00:54:00 | METOP-C | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 714441a3-b0cd-39dd-8308-15d7931a21bf | -3.3315 | -51.622398 | 2024-11-06 00:54:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 54f06cda-39dc-3b22-ab22-daf6c82bd244 | -2.9179 | -51.037498 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c497a765-fa06-3833-ad32-0b8f1ebe4f9b | -3.0294 | -53.272499 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 56515d13-cd6a-3175-8301-fefca0cf2395 | -3.2307 | -53.386101 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| dfcfa6f0-a963-3fb7-8093-408e0fce4111 | -23.9499 | -54.058998 | 2024-11-06 00:54:00 | METOP-C | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 2975accd-a5c0-3407-ac31-9747827a4c78 | -4.0923 | -50.494801 | 2024-11-06 00:54:00 | METOP-C | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c2eafc7c-ea09-381f-9984-39533f7de13b | -1.3634 | -51.946899 | 2024-11-06 00:54:00 | METOP-C | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e9804500-3c67-38f3-b8b1-181fea132dc1 | -2.8342 | -51.792702 | 2024-11-06 00:54:00 | METOP-C | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b4d7631a-c857-322d-be2e-27566d328183 | -4.0621 | -50.009499 | 2024-11-06 00:54:00 | METOP-C | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b95f5160-4e1d-350d-9163-bb30f3432de6 | -0.3572 | -51.429199 | 2024-11-06 00:54:00 | METOP-C | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 3017bbc9-c5d7-38e2-9723-274288df0dc4 | -3.0247 | -53.251999 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a8c93159-f346-3681-a9fd-bdc984de5f8b | -3.5154 | -53.142601 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| bc9aa04b-8ec0-3ebb-a283-83f192e0c149 | -2.6718 | -52.522202 | 2024-11-06 00:54:00 | METOP-C | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 70d4a66b-c787-3ddb-b6f2-a3b6910c0905 | -1.5129 | -52.1036 | 2024-11-06 00:54:00 | METOP-C | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ebcf48dd-f31b-3077-ae85-0541b26d737b | -3.178 | -50.6007 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 184e3bd2-2398-3e77-be56-518ab917ab05 | -3.1752 | -51.258301 | 2024-11-06 00:54:00 | METOP-C | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 581d2e72-e5e2-3ff2-803c-8f6c890eb5d0 | -3.02 | -53.231499 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 55af61fa-48e4-3983-a72d-40018313aeac | -3.1089 | -53.710499 | 2024-11-06 00:54:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 243c416a-7957-3d97-ad5e-9342c85f8f6b | -3.186 | -50.591099 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 96ee0053-6364-3e2d-a935-8616a5c6896b | -3.6808 | -50.233299 | 2024-11-06 00:54:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3969983f-4194-37db-8c65-d33cb6368fd4 | -3.7432 | -50.0578 | 2024-11-06 00:54:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 31744096-03ae-39f2-9517-491c776966ea | -2.8423 | -52.9058 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 78e31c69-6342-3f0d-ba42-a1050865524c | -2.8211 | -52.9034 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a2962018-8ac4-3dac-94de-9e3d940e2d90 | -3.0164 | -53.441002 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4f522343-0351-3d29-9737-1b0b81155f7a | -5.5413 | -43.696499 | 2024-11-06 00:54:00 | METOP-C | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3dcc0bbc-2fe8-32ba-bfdb-bb2066f1e63a | -6.5007 | -47.480701 | 2024-11-06 00:54:00 | METOP-C | AGUIARNÓPOLIS | TOCANTINS | Brasil | 1700301 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ea7b0baa-51d9-3e2e-8b7f-a45eb466b203 | -1.8604 | -54.699501 | 2024-11-06 00:54:00 | METOP-C | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 853c7cf7-b0e8-3dfd-8855-bfb21e7e3584 | -3.0392 | -53.270302 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 800b6066-7845-34f7-aa43-d1823115fb85 | -5.6629 | -45.923901 | 2024-11-06 00:54:00 | METOP-C | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 6e1225d8-b07a-3a02-8490-b19d625a6c85 | -4.2428 | -48.532299 | 2024-11-06 00:54:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| aed8b257-96ff-30e8-9dc0-63f4dfe04bf8 | -3.0975 | -53.705799 | 2024-11-06 00:54:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a0e81816-3894-35ac-adf8-fe45a8d88330 | -6.5139 | -44.6814 | 2024-11-06 00:54:00 | METOP-C | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 24c01f39-8674-3204-b984-fde6dd5929ae | -2.8191 | -52.939701 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3a86a3c7-86f6-345b-93f3-3d2f853473c3 | -3.6693 | -50.227901 | 2024-11-06 00:54:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 007a4ff2-176e-30f3-900a-17f2a169ba76 | -3.2045 | -53.2262 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 95a40958-3ad4-3347-b910-f555dcb531e8 | -2.6159 | -54.531898 | 2024-11-06 00:54:00 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7458a9fa-a08d-3313-813c-034355056260 | -3.0861 | -50.961498 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| dab939bd-6a79-3884-bdb8-a1d79aec44a3 | -2.8207 | -52.946499 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 07004bdd-2b05-3e09-a766-99acfdb422d6 | -4.217 | -53.551701 | 2024-11-06 00:54:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c9689e23-d526-371d-91e6-4990027e8053 | -3.1588 | -50.206799 | 2024-11-06 00:54:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1bec6cc8-ff2e-3bab-bfe5-a5991ab30196 | -2.816 | -52.926102 | 2024-11-06 00:54:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ad7a36f6-a264-3795-a936-f8540295c75d | -4.0764 | -53.930199 | 2024-11-06 00:54:00 | METOP-C | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| bdd9cd32-bf33-3aa8-b3e7-80397085e2d7 | -5.5466 | -43.676201 | 2024-11-06 00:54:00 | METOP-C | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 6de2460d-fd3c-3b89-b582-ae58b6f5e0f1 | -3.671 | -50.2355 | 2024-11-06 00:54:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2ccbaf23-74c8-30c6-b223-ee2afad005cf | -1.5014 | -53.491199 | 2024-11-06 00:54:00 | METOP-C | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d8e374e1-99d2-3949-9732-23fcd8b990d9 | -5.034 | -46.8521 | 2024-11-07 00:40:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 139.8 |
+| 60cede85-8328-329a-90b0-b42bf8a12b0d | -3.7033 | -48.9986 | 2024-11-07 00:40:00 | GOES-16 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 71.3 |
+| d2bd2bb2-46a4-363e-93b1-c21e47e25fae | -5.0526 | -46.851 | 2024-11-07 00:40:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 108.1 |
+| b1786163-0dd3-3086-aad6-359c41a855d9 | -2.8016 | -52.9414 | 2024-11-07 00:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 92.0 |
+| 4d9b0e72-a814-392a-a638-1700473f93ab | -3.0207 | -53.443 | 2024-11-07 00:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 79.8 |
+| 10034f1d-142f-3f6b-bafc-97f7cfd7be29 | -5.0528 | -46.8289 | 2024-11-07 00:40:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| b04baf86-6be6-3a5c-94f7-c0dc4be7b73a | -2.8167 | -48.6653 | 2024-11-07 00:40:00 | GOES-16 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 43.9 |
+| 9920ec59-aa54-3dcd-a011-173177ac3300 | -1.1831 | -53.8985 | 2024-11-07 00:50:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 102.5 |
+| ccc13949-3452-3b37-8b5c-2fbf0bb6f9d9 | -2.8722 | -48.6636 | 2024-11-07 00:50:00 | GOES-16 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 47.2 |
+| 386af160-c445-387c-8bfb-f38930e83326 | -2.8536 | -48.6856 | 2024-11-07 00:50:00 | GOES-16 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 85.2 |
+| 460f7f63-f8bb-39ea-ab77-a6bcf679b7d1 | -3.7033 | -48.9986 | 2024-11-07 00:50:00 | GOES-16 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 68.2 |
+| 22aa6bf6-8101-3d28-8eee-3ad561c679e0 | -3.9485 | -48.1508 | 2024-11-07 00:50:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 45.8 |
+| d6a037e8-bfbe-3144-be9b-442f3ca5b556 | -4.5031 | -42.8854 | 2024-11-07 00:50:00 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 53.0 |
+| 009920d2-32b8-358b-918a-98a919dd440f | -6.0782 | -44.719 | 2024-11-07 00:50:00 | GOES-16 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| 70c46c5b-670f-3ff2-9896-4bef64bd38f2 | -3.967 | -48.15 | 2024-11-07 00:50:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| cd1d4e41-bceb-3e92-90a3-039b348ce3d1 | -2.7639 | -53.2265 | 2024-11-07 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 81.7 |
+| 9b2b083a-c933-3cd5-9e0e-a9047db3db78 | -3.0207 | -53.443 | 2024-11-07 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| 7b511cb3-46ed-3d17-969a-af1b65baec22 | -2.82 | -52.9613 | 2024-11-07 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 108.3 |
+| fcd1a1fc-8686-3a75-942f-6b089bb76947 | -5.9788 | -45.3621 | 2024-11-07 00:50:00 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 130.7 |
+| ad914b53-dabf-3b87-8e5f-0441b8ea3952 | -17.293 | -57.5062 | 2024-11-07 00:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 52.7 |
+| 64e9e7df-d31b-3e49-a7e9-aaa12373b7f6 | -5.0154 | -46.8531 | 2024-11-07 00:50:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 61.4 |
+| 9b3810a7-aeb2-333d-85cb-a76221cd927f | -2.8352 | -48.6648 | 2024-11-07 00:50:00 | GOES-16 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 49.3 |
+| 29dbabd5-45be-3207-ab23-c1dc1d54014a | -1.2014 | -53.8983 | 2024-11-07 00:50:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 75.2 |
+| 67e716d1-c139-3513-8548-d9ae1d2cec56 | -4.5218 | -42.8843 | 2024-11-07 00:50:00 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 42be68e0-d616-3c84-a4ab-cf121f311c74 | -2.82 | -52.9409 | 2024-11-07 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 125.4 |
+| 31e57ac4-65e7-39d1-8896-425de0eff7fe | -2.603 | -51.7589 | 2024-11-07 00:50:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 76.5 |
+| 52b4c6ee-a551-339e-aa99-e1e6a5bdd4f4 | -5.0155 | -46.8311 | 2024-11-07 00:50:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 51.1 |
+| dc30a6bc-752c-323e-a755-6519a7b7e6bd | -2.8016 | -52.9414 | 2024-11-07 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 82.5 |
+| 14a55817-6640-3bf9-8fbb-6d16467491e4 | -4.6653 | -46.3418 | 2024-11-07 00:50:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 67.6 |
+| df1110f1-b1f8-3ce0-b3d4-a36a7ceeee13 | -5.034 | -46.8521 | 2024-11-07 00:50:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 92.8 |
+| d63b89f5-f4a0-3b78-944f-fbbaa1c5ffe0 | -2.4319 | -53.6584 | 2024-11-07 00:50:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 80.4 |
+| 1a5aa3aa-c0fd-345b-9370-0eb340930925 | -5.1581 | -47.6997 | 2024-11-07 00:50:00 | GOES-16 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 81.0 |
+| a8fc8714-9db6-33e3-a55d-6aabfa9c3d2c | -3.4564 | -50.3832 | 2024-11-07 00:50:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 74.5 |
+| 0e43d7e4-16a8-35ab-930d-bee90e3ada47 | -4.522 | -42.8608 | 2024-11-07 00:50:00 | GOES-16 | UNIÃO | PIAUÍ | Brasil | 2211100 | 22 | 33 | nan | nan | nan | Cerrado | 83.4 |
+| f488bd8b-d422-3d4c-8be5-f57f6638a95a | -3.9669 | -48.1716 | 2024-11-07 00:50:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| 570e369b-affe-3988-beba-45a89ac4326e | -1.1466 | -53.7379 | 2024-11-07 00:50:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 69.6 |
+| 502b5177-3dfc-33bd-bf04-9767ec9e2a23 | -5.1397 | -47.679 | 2024-11-07 00:50:00 | GOES-16 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 50.5 |
+| 61042864-ea61-3eb1-9a37-d2ccf9a17187 | -5.0526 | -46.851 | 2024-11-07 00:50:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 64.0 |
+| ad7915cc-0bac-3501-8021-bba69c27f76b | -4.5033 | -42.862 | 2024-11-07 00:50:00 | GOES-16 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 68.8 |
+| 3d65b9ee-7ae7-3451-be79-225315350dc9 | -2.8537 | -48.6642 | 2024-11-07 00:50:00 | GOES-16 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 127.1 |
+| 7d05a738-baa9-3f3f-96f9-6773ce50815d | -5.9975 | -45.3607 | 2024-11-07 00:50:00 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 121.2 |
+| 149b01e3-3309-3b68-bd0e-83c516c159ce | -5.1394 | -47.7226 | 2024-11-07 00:50:00 | GOES-16 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 53.4 |
+| a3ad3766-26b7-3679-b68a-2da691dcf0ef | -5.0342 | -46.83 | 2024-11-07 00:50:00 | GOES-16 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | 66.9 |
+| 44c4a02c-6df7-34a2-a7fb-cf7d0b6412db | -1.1466 | -53.7177 | 2024-11-07 00:50:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 115.2 |
+| cc628e3a-df2a-3f08-92ff-a2f7b5594345 | -5.1395 | -47.7008 | 2024-11-07 00:50:00 | GOES-16 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 149.6 |
+| bfae1a11-51a1-35c5-ae81-481e3c6208b8 | -3.1617 | -50.2038 | 2024-11-07 00:50:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| d0bdd15d-584c-3cf1-8df7-6bb7d341d898 | -2.8351 | -48.6862 | 2024-11-07 00:50:00 | GOES-16 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 41.5 |
+| 6c12cb56-9752-3abf-8e7e-ae69fb264b9f | -3.7218 | -48.9979 | 2024-11-07 00:50:00 | GOES-16 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| f15e88d4-f535-32e7-8f4d-d9f79db3e063 | -14.06903 | -44.14759 | 2024-11-07 00:54:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| 1cbc3ecf-1e9a-37f2-93c9-907053d985ba | -10.67568 | -49.45105 | 2024-11-07 00:54:00 | TERRA_M-M | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 736673de-107d-36c0-a05b-5794d1005b92 | -8.93619 | -42.60456 | 2024-11-07 00:54:00 | TERRA_M-M | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | 25.2 |
+| 8fb24906-5d8b-3d0a-95c3-37561a05fa5c | -11.60755 | -44.12987 | 2024-11-07 00:54:00 | TERRA_M-M | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| 80b9031d-e2df-38e5-98bd-3a7f16d77da4 | -10.87296 | -49.5482 | 2024-11-07 00:54:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| e8c9d783-9d02-35dd-8b93-e4a03f9b5f81 | -10.13706 | -49.14645 | 2024-11-07 00:54:00 | TERRA_M-M | CHAPADA DE AREIA | TOCANTINS | Brasil | 1704600 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| dbf3f9c0-e211-3b2c-9abb-770c571c6f7c | -10.37056 | -49.17045 | 2024-11-07 00:54:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| efa74140-7c0a-3bdb-b59c-69e48421f4ae | -10.71556 | -49.47847 | 2024-11-07 00:54:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 4894ec3c-ced2-37a7-9136-f0c15ad6ce28 | -9.14887 | -43.13604 | 2024-11-07 00:54:00 | TERRA_M-M | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 18.4 |
+| 872dc17d-a358-39ae-bb55-05b45937ed6d | -13.51655 | -43.00838 | 2024-11-07 00:54:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 11.6 |
+| e711caa9-97c1-320b-b843-fc4e80269999 | -14.41093 | -43.17633 | 2024-11-07 00:54:00 | TERRA_M-M | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 044e242e-7f03-3e5c-b9ff-312de4ee9941 | -8.94341 | -42.609 | 2024-11-07 00:54:00 | TERRA_M-M | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | 9.5 |
+| 609c25b8-31d1-3a60-a454-8c6fc02c096f | -9.29718 | -43.13128 | 2024-11-07 00:54:00 | TERRA_M-M | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 23.2 |
+| d9899d3f-1c93-3c70-9a5a-7e13fd841cd2 | -10.73243 | -49.53474 | 2024-11-07 00:54:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| a01e75c8-b7bc-37bd-9100-8eea466341a0 | -9.29734 | -43.12185 | 2024-11-07 00:54:00 | TERRA_M-M | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 30.6 |
+| 5b025127-3255-37a6-b484-d1736053b7db | -10.73113 | -49.52512 | 2024-11-07 00:54:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| b316fc05-0c8e-35ec-8cf8-30c4d200ac8c | -12.9879 | -43.44615 | 2024-11-07 00:54:00 | TERRA_M-M | SÍTIO DO MATO | BAHIA | Brasil | 2930758 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 4ba33bf8-29c2-3d0d-80c4-c040c53f1cfe | -10.70652 | -48.79753 | 2024-11-07 00:54:00 | TERRA_M-M | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| f0e9c0a7-167f-30a7-b961-924c6b514af0 | -10.70528 | -48.78839 | 2024-11-07 00:54:00 | TERRA_M-M | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 39.9 |
+| 091bc116-88fe-37cb-bdc6-e5f55b64a85b | -10.90919 | -48.93461 | 2024-11-07 00:54:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 853ca123-e069-38d9-97fb-064711d61b10 | -12.28019 | -51.22049 | 2024-11-07 00:54:00 | TERRA_M-M | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 124a4d63-c2c0-3039-9975-079d4f586e72 | -13.71907 | -42.88649 | 2024-11-07 00:54:00 | TERRA_M-M | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 6.6 |
+| 2e3698ef-3137-3b23-9179-a7af2aa7992d | -10.46968 | -48.28117 | 2024-11-07 00:54:00 | TERRA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 8177428f-adae-3c15-ba71-07d40efc779b | -11.60942 | -44.14203 | 2024-11-07 00:54:00 | TERRA_M-M | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 56069538-bbae-3d9e-bbb5-39d4858d56a0 | -10.95364 | -44.40723 | 2024-11-07 00:54:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 6caf18a8-d63a-32c6-823f-9535cc095237 | -8.9334 | -42.58726 | 2024-11-07 00:54:00 | TERRA_M-M | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | 16.1 |
+| a843c7c4-a01c-3da0-836d-1c1167e71e2e | -12.054 | -51.21275 | 2024-11-07 00:54:00 | TERRA_M-M | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 9391d8d3-948f-3ea4-ad02-72cf9f522fb9 | -12.45999 | -46.64346 | 2024-11-07 00:54:00 | TERRA_M-M | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 253f364b-f4a2-3e33-9922-c569de27d8ce | -12.27859 | -51.20815 | 2024-11-07 00:54:00 | TERRA_M-M | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 1ccfc119-e15e-38bd-a615-8aed35c81e58 | -10.17998 | -48.85297 | 2024-11-07 00:54:00 | TERRA_M-M | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| 3d8d63c4-1d7d-3d71-a08e-25bc78541a1c | -10.37181 | -49.17973 | 2024-11-07 00:54:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 96ba1814-0d38-3091-8f56-8b29735f9401 | -14.41295 | -43.18914 | 2024-11-07 00:54:00 | TERRA_M-M | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| aa57fbe6-ed92-3ff3-af45-a521f595bb06 | -8.94076 | -42.59161 | 2024-11-07 00:54:00 | TERRA_M-M | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | 25.9 |
+| d84638e2-f354-30d9-8067-eb99b0601c39 | -14.07161 | -44.1525 | 2024-11-07 00:54:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 9deb69fe-7009-3fd5-b39e-fee79333d5d2 | -14.06984 | -44.14117 | 2024-11-07 00:54:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 19.1 |
+| 8329c1f7-d946-31fc-b36f-d79aa785036d | -12.94029 | -49.1311 | 2024-11-07 00:54:00 | TERRA_M-M | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 59b76e4b-2b03-3973-a06d-0dc37bc13289 | -9.29969 | -43.13738 | 2024-11-07 00:54:00 | TERRA_M-M | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 7.8 |
+| 988a1dbb-96e4-3409-bf90-ab8761d2baa4 | -9.74693 | -43.58643 | 2024-11-07 00:54:00 | TERRA_M-M | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 299bcb14-876e-37e4-bb5d-4f4cf8c95dbe | -12.64156 | -49.02024 | 2024-11-07 00:54:00 | TERRA_M-M | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | 14.1 |
+| 84f491fc-9f0f-3357-9d32-e08dfb7e76d9 | -12.46857 | -46.9594 | 2024-11-07 00:54:00 | TERRA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 00b5ec46-ca1c-3184-bb61-a9f4b029d7b4 | -10.54725 | -49.04792 | 2024-11-07 00:54:00 | TERRA_M-M | NOVA ROSALÂNDIA | TOCANTINS | Brasil | 1715002 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| df647ebe-aaac-3158-a3e6-e352ea157ed9 | -15.13519 | -43.40852 | 2024-11-07 00:54:00 | TERRA_M-M | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| 7be4c63f-8603-3b9d-8abf-21faf619eed7 | -10.67438 | -49.4415 | 2024-11-07 00:54:00 | TERRA_M-M | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 18f5593d-e65c-39fc-91ea-726f81027f54 | -12.99835 | -43.44439 | 2024-11-07 00:54:00 | TERRA_M-M | SÍTIO DO MATO | BAHIA | Brasil | 2930758 | 29 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| e983d3e4-0190-3738-966c-691b2ea198f4 | -12.05556 | -51.22503 | 2024-11-07 00:54:00 | TERRA_M-M | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| ddfe68ac-c79e-3668-91c8-ca40337d2623 | -9.2947 | -43.11572 | 2024-11-07 00:54:00 | TERRA_M-M | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
+| ea7a00a6-c9fc-300f-ba98-c0062ba50bea | -12.46728 | -46.95032 | 2024-11-07 00:54:00 | TERRA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| b4672ce5-43fc-331b-9df4-2e4236113f04 | -9.74843 | -43.57985 | 2024-11-07 00:54:00 | TERRA_M-M | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| ec06e30c-5291-31b0-9f08-40c0dda96dc9 | -11.00568 | -48.69941 | 2024-11-07 00:54:00 | TERRA_M-M | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| c3ed3c8a-e4ba-3f07-8246-24edc69bfaea | -14.07965 | -44.13955 | 2024-11-07 00:54:00 | TERRA_M-M | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| b22dd9c1-7946-3b28-9626-4749caf6f858 | -2.66986 | -51.82826 | 2024-11-07 00:56:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| d444ecdd-93a2-3e22-a858-0b9a5e6638a9 | -2.60801 | -49.25744 | 2024-11-07 00:56:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 40.0 |
 
 
 [Clique aqui para ver as próximas entradas](README11.md)
