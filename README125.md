@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| fa4b8ce4-1b2f-3bee-838c-f90d3d0a81f1 | -4.70179 | -40.13343 | 2024-10-25 15:33:00 | NPP-375 | CATUNDA | CEARÁ | Brasil | 2303659 | 23 | 33 | nan | nan | nan | Caatinga | 6.9 |
-| da8abcbd-6a3a-34f9-abc4-fa525afa3495 | -4.69969 | -40.13734 | 2024-10-25 15:33:00 | NPP-375 | CATUNDA | CEARÁ | Brasil | 2303659 | 23 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| 143d513e-58cd-3dbd-8b0e-a4ae0adcd9a5 | -4.69924 | -40.13431 | 2024-10-25 15:33:00 | NPP-375 | CATUNDA | CEARÁ | Brasil | 2303659 | 23 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| 7ea6deb8-e8cf-3d22-bb70-b3599f5b78dc | -4.32899 | -40.15224 | 2024-10-25 15:33:00 | NPP-375 | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 0f0f5851-bf62-3bfa-9648-53490f7f3d06 | -4.32413 | -40.48829 | 2024-10-25 15:33:00 | NPP-375 | HIDROLÂNDIA | CEARÁ | Brasil | 2305209 | 23 | 33 | nan | nan | nan | Caatinga | 5.3 |
-| 50226901-de52-3a3d-9d01-8187a0839ec7 | -4.32391 | -40.1529 | 2024-10-25 15:33:00 | NPP-375 | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 51db2bee-0bad-3db9-aa76-708fa3d38f12 | -4.32389 | -40.49033 | 2024-10-25 15:33:00 | NPP-375 | HIDROLÂNDIA | CEARÁ | Brasil | 2305209 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| aa021eb6-92f1-3da8-a1f5-2e45b9ab133f | -4.32343 | -40.4872 | 2024-10-25 15:33:00 | NPP-375 | HIDROLÂNDIA | CEARÁ | Brasil | 2305209 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| aa856a16-52b5-3375-8574-efa2a68b02d6 | -4.30181 | -40.41173 | 2024-10-25 15:33:00 | NPP-375 | HIDROLÂNDIA | CEARÁ | Brasil | 2305209 | 23 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| ff0d576b-7e89-396b-a225-60c27e79ba80 | -4.64864 | -40.97493 | 2024-10-25 15:33:00 | NPP-375 | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 5.7 |
-| d0c15e1b-0cb6-345a-a6c9-731c23cfd5ed | -4.41611 | -40.91502 | 2024-10-25 15:33:00 | NPP-375 | CROATÁ | CEARÁ | Brasil | 2304236 | 23 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| 1d0fafe2-41e5-3cf2-853e-135a2b48a74c | -5.16588 | -40.5903 | 2024-10-25 15:33:00 | NPP-375 | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| ea9ef150-ded7-3525-99f3-eae12b25035b | -5.86597 | -41.53539 | 2024-10-25 15:33:00 | NPP-375 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 9.0 |
-| 88c8ae60-91b1-36bb-8bcf-66118bdb4915 | -5.8687 | -41.53879 | 2024-10-25 15:33:00 | NPP-375 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 7b544762-67db-352d-9506-6dc7d8442ae2 | -5.86819 | -41.535 | 2024-10-25 15:33:00 | NPP-375 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| b9e910af-5e65-3751-8bf2-78d42753354f | -5.86247 | -41.53563 | 2024-10-25 15:33:00 | NPP-375 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 6.4 |
-| 2ddedb56-5943-3ac1-9db2-42a34cfc9b12 | -5.57568 | -41.18965 | 2024-10-25 15:33:00 | NPP-375 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 6.2 |
-| 4984a7f8-5570-3965-a308-a20c25108c40 | -5.39729 | -41.11409 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 12.5 |
-| d33430a1-7b4c-3b3e-8b4d-e060b03bc0e6 | -5.39679 | -41.11047 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 28.3 |
-| d7e9d27d-420f-3d0c-845a-94521d29b0a6 | -5.39179 | -41.11487 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| f03f3e9a-3b3d-364a-8f7a-1c1d9797735f | -5.3913 | -41.11127 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 115f8128-c383-3ab6-9644-a57b2494b206 | -5.38782 | -41.12688 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 7d4dcc08-a9d4-3212-b3b4-e2a8ab57de10 | -5.38763 | -41.1276 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 609a5c84-8af0-36a4-86f3-4b4fa81319ac | -5.38629 | -41.11566 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| 7ca8f657-73e4-39d6-a4ae-2dadc9724898 | -5.38601 | -41.11638 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 2faee907-9a04-3e48-8148-9eb1851b6e59 | -5.38581 | -41.1121 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 903ccb44-bd5c-398e-89e1-54083cf29407 | -5.3855 | -41.11282 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 5.7 |
-| 33774a94-0f2b-348f-8b4e-fecb898ee096 | -5.26152 | -40.98988 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 539fa55b-9243-3b44-b2db-aa7b8bffccd5 | -5.2569 | -40.99102 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
-| 9e4bf46e-7e6a-37a1-a9ef-aa8f4d746e3f | -5.25657 | -40.99405 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 8ade3ac6-d384-3c20-9ff1-7ef8bde0c7e4 | -5.25605 | -40.99041 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 379d2f49-8835-3bc5-bdd4-ddc2721f5bb7 | -5.25242 | -40.9989 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 7.1 |
-| 4c58b3ca-42a7-355f-974c-26b08a402fe6 | -5.25193 | -40.99526 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
-| 013392ce-7071-3ec4-9ced-ca474ff3995b | -5.25163 | -40.99827 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| ba8cc489-9ba3-3589-bd32-e88d5e40c2ea | -5.25143 | -40.99162 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
-| 56cd510b-8d3e-3514-a831-56673fa7cb80 | -5.25111 | -40.99464 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 17.7 |
-| 8c3c206b-5faa-3cfd-87f8-268be40a35ec | -5.24955 | -41.17941 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 12.2 |
-| c9f51c6c-253b-3a82-8b68-a9fe4580de68 | -5.24903 | -41.17571 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
-| 89af0b2c-68b6-3454-bfb5-b13dd22aafa7 | -5.24353 | -41.17653 | 2024-10-25 15:33:00 | NPP-375 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 55.5 |
-| ba98ce72-da4e-31b9-b904-a77b58f79f69 | -5.96185 | -40.98706 | 2024-10-25 15:33:00 | NPP-375 | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 22.7 |
-| bbcfc1a5-677c-3122-a70a-c904663e915a | -5.86651 | -41.5392 | 2024-10-25 15:33:00 | NPP-375 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| cc8c3ba0-88db-3bbc-9cf2-82257ceab19c | -7.09609 | -41.14461 | 2024-10-25 15:33:00 | NPP-375 | FRANCISCO SANTOS | PIAUÍ | Brasil | 2204204 | 22 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| c7e0bc87-b740-371d-a353-b06f75520005 | -7.0046 | -41.30331 | 2024-10-25 15:33:00 | NPP-375 | SANTO ANTÔNIO DE LISBOA | PIAUÍ | Brasil | 2209401 | 22 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| 0e340c6f-4b04-3e84-9492-357f2b5bd352 | -6.86519 | -41.72305 | 2024-10-25 15:33:00 | NPP-375 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| 4bd230e9-acaa-3b73-891b-8c705b7d61c0 | -6.8339 | -41.65853 | 2024-10-25 15:33:00 | NPP-375 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 5441ddec-3f83-38fe-86d3-2bc4cedfab05 | -6.65134 | -41.9614 | 2024-10-25 15:33:00 | NPP-375 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 139.7 |
-| ee54d672-e1fb-3300-ae70-9d27cecdd31e | -7.32945 | -42.17676 | 2024-10-25 15:33:00 | NPP-375 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| 24383c33-f9b1-3409-b441-40ee4100005e | -7.32901 | -42.17833 | 2024-10-25 15:33:00 | NPP-375 | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| 5fc5f55a-b825-3525-8c69-0a3ba7f52d76 | -6.71213 | -41.10816 | 2024-10-25 15:33:00 | NPP-375 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| eb4dafff-6eea-3e1f-a9ae-74dd6259ec31 | -6.65406 | -41.95805 | 2024-10-25 15:33:00 | NPP-375 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 53.6 |
-| 5a5d2f25-6f1d-388d-91ae-18be7e387bd1 | -6.65188 | -41.96534 | 2024-10-25 15:33:00 | NPP-375 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 44.4 |
-| 9c77b0b5-d325-3174-b145-a52b2cf938c6 | -6.64855 | -41.96201 | 2024-10-25 15:33:00 | NPP-375 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 29.5 |
-| 18ecdbd5-7386-39dd-aa51-bd34bd998edf | -6.45908 | -41.76982 | 2024-10-25 15:33:00 | NPP-375 | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| a40775e8-d9b3-397c-b42c-0ccfe3059627 | -6.9594 | -41.32222 | 2024-10-25 15:33:00 | NPP-375 | BOCAINA | PIAUÍ | Brasil | 2201804 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
-| fec801ef-71c9-39fa-846e-098d2ea53e31 | -6.83301 | -41.65861 | 2024-10-25 15:33:00 | NPP-375 | IPIRANGA DO PIAUÍ | PIAUÍ | Brasil | 2204808 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| b03d9229-7447-340e-910d-87ff7e9fb67d | -6.65454 | -41.96173 | 2024-10-25 15:33:00 | NPP-375 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 53.6 |
-| b3736c41-7820-39de-a401-11bd0a770c84 | -6.45961 | -41.77375 | 2024-10-25 15:33:00 | NPP-375 | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 34a0a467-3346-39e5-a3fa-4634976d550a | -6.45381 | -41.77476 | 2024-10-25 15:33:00 | NPP-375 | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 1457e276-ef72-3a83-8903-3b5d2f4106ca | -6.45328 | -41.7708 | 2024-10-25 15:33:00 | NPP-375 | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 053df063-b15b-3400-8473-6a0d9c114244 | -7.98242 | -41.03246 | 2024-10-25 15:33:00 | NPP-375 | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| c5833829-2b26-34fb-8aaa-fdca11be6fec | -7.41679 | -41.79522 | 2024-10-25 15:33:00 | NPP-375 | FLORESTA DO PIAUÍ | PIAUÍ | Brasil | 2203859 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| bd7bef99-8a00-3b12-b9e0-0738b8420445 | -7.00329 | -41.30366 | 2024-10-25 15:33:00 | NPP-375 | SANTO ANTÔNIO DE LISBOA | PIAUÍ | Brasil | 2209401 | 22 | 33 | nan | nan | nan | Caatinga | 7.9 |
-| ed2e1f4e-d103-34ed-8e34-f7fa882fe560 | -8.54998 | -41.14166 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| 5a388f96-5745-3529-bb52-fd869cb4a253 | -8.43811 | -40.90466 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| 0a2c949a-2160-302c-ba9a-2d28bc1703d9 | -9.21255 | -42.32273 | 2024-10-25 15:33:00 | NPP-375 | DIRCEU ARCOVERDE | PIAUÍ | Brasil | 2203354 | 22 | 33 | nan | nan | nan | Caatinga | 6.9 |
-| e84618e2-69e3-3607-ae7e-1e598fd65bf2 | -9.17371 | -41.41887 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| 470f0491-d963-3135-a35a-e89a1505cf34 | -8.87955 | -41.04732 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| efe9382d-c308-36b1-8067-203b49fa740e | -8.85352 | -41.39454 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 0ad6bc48-4529-3f1d-b44d-dede3d9b6ff0 | -8.81026 | -41.09983 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| 0bec3029-7a90-3f5c-bb94-df90666a2fa7 | -8.77762 | -42.17244 | 2024-10-25 15:33:00 | NPP-375 | CORONEL JOSÉ DIAS | PIAUÍ | Brasil | 2202851 | 22 | 33 | nan | nan | nan | Caatinga | 5.3 |
-| 01591d7d-2f2d-36e8-8122-ce0f664cb441 | -8.75577 | -41.32114 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| c966e652-bd85-3643-ab7e-e68c681e6615 | -8.7499 | -41.32163 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 0ee1329b-5aad-38b0-8f35-8f486e4330a3 | -8.5512 | -41.14373 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| 3152eff7-9bcf-3440-8787-f02fa531be7c | -8.44185 | -40.9046 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 4e80420f-0a98-3cf9-90c5-bb0217f1a54c | -8.10581 | -41.21186 | 2024-10-25 15:33:00 | NPP-375 | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| e348e5c1-2fe0-39c9-b494-662c34c5e2d7 | -7.9999 | -42.35339 | 2024-10-25 15:33:00 | NPP-375 | PEDRO LAURENTINO | PIAUÍ | Brasil | 2207934 | 22 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| 90e91d6a-5fa6-3bb2-8094-128f134a9516 | -7.89123 | -42.09471 | 2024-10-25 15:33:00 | NPP-375 | SIMPLÍCIO MENDES | PIAUÍ | Brasil | 2210805 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 968db14d-502f-357b-9a5f-306030559690 | -7.88516 | -42.09556 | 2024-10-25 15:33:00 | NPP-375 | SIMPLÍCIO MENDES | PIAUÍ | Brasil | 2210805 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| cf46c2be-8403-3f2d-b9fa-f5c5ec7f3417 | -8.87993 | -41.04707 | 2024-10-25 15:33:00 | NPP-375 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| e5d4a974-a24d-338f-bac9-064505e46475 | -8.82732 | -41.00486 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| cd657640-8a07-322f-b00e-a1469493ba31 | -8.77188 | -41.49389 | 2024-10-25 15:33:00 | NPP-375 | LAGOA DO BARRO DO PIAUÍ | PIAUÍ | Brasil | 2205565 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 6e5ce5c3-0c48-3b0c-b5f1-f18d35aa1731 | -8.5505 | -41.14558 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| d056d27d-d2b7-346b-a114-e68e001cc8af | -8.43616 | -40.90516 | 2024-10-25 15:33:00 | NPP-375 | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 122b8109-bef1-3d79-be1e-767406b8f9ac | -9.94864 | -42.47193 | 2024-10-25 15:33:00 | NPP-375 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 4.2 |
-| d89fbac3-d2e0-3a92-b5a6-0f53c37b4899 | -10.51265 | -42.39663 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| c6ce4dbb-e90c-3a5a-9a7c-ff7e9f8a9820 | -10.51211 | -42.39952 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 8.9 |
-| 8020bb1f-342a-3ed2-9451-cc7a2c040449 | -10.29757 | -42.41178 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
-| 1970c275-2928-35ad-ab4b-2a0d5c6ee4c0 | -10.29619 | -42.40991 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 10.9 |
-| 38c5d976-f07d-3cda-8492-6cef11a2c4a7 | -10.29578 | -42.39621 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| 407a3c7c-4dfd-3a0a-89c2-1bb0061490c8 | -10.29492 | -42.39956 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 15.8 |
-| c462ba07-d83a-3d43-a541-01748a3a3785 | -10.28999 | -42.40216 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| c8931921-1047-3f6f-b25d-2f431e8e479c | -10.28854 | -42.4003 | 2024-10-25 15:33:00 | NPP-375 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 5.5 |
-| da840a0c-d857-37bd-937b-0959787e9a0a | -10.16344 | -42.45442 | 2024-10-25 15:33:00 | NPP-375 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 9.6 |
-| 1c2d04c1-d2d5-3bc2-a80b-0f584de78ad3 | -10.16282 | -42.44922 | 2024-10-25 15:33:00 | NPP-375 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
-| 15bd0179-37e9-33b6-a844-cad44331c155 | -10.04147 | -42.69432 | 2024-10-25 15:33:00 | NPP-375 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
-| 2ddbfae5-51f4-3624-b2d6-dc4ce73fd609 | -10.04142 | -42.69708 | 2024-10-25 15:33:00 | NPP-375 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| c5bd86e5-cbad-3928-86ea-002855a23034 | -12.09739 | -42.24532 | 2024-10-25 15:33:00 | NPP-375 | BROTAS DE MACAÚBAS | BAHIA | Brasil | 2904506 | 29 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 7a22fd53-44f3-3f9c-a10f-a3f434df2bb1 | -12.05829 | -42.86648 | 2024-10-25 15:33:00 | NPP-375 | OLIVEIRA DOS BREJINHOS | BAHIA | Brasil | 2923209 | 29 | 33 | nan | nan | nan | Caatinga | 8.8 |
-| a251aaed-8728-39ee-9423-0c35e7caac2d | -11.87966 | -42.59026 | 2024-10-25 15:33:00 | NPP-375 | IPUPIARA | BAHIA | Brasil | 2914109 | 29 | 33 | nan | nan | nan | Caatinga | 3.8 |
-| 6d6bc7b2-6136-3cb5-a3b7-377c3edf3dbd | -11.84107 | -41.85584 | 2024-10-25 15:33:00 | NPP-375 | BARRO ALTO | BAHIA | Brasil | 2903235 | 29 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| ed0e0bb5-e2ab-3471-9ae9-369e4cd81ed9 | -23.9095 | -54.0606 | 2024-11-10 10:40:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 175.0 |
+| eaf46bc5-42bb-35e9-b357-5566d60ccd32 | -17.6266 | -57.5281 | 2024-11-10 10:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 126.0 |
+| 3ab91c58-1290-3ac8-9b0f-66fd7ec0b79e | -23.9306 | -54.0564 | 2024-11-10 10:40:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 124.1 |
+| c8716cf9-c645-3148-82ab-52e275658262 | -17.6069 | -57.5304 | 2024-11-10 10:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 235.2 |
+| 512c3311-cee5-38c9-8820-02773c1f0ecf | -17.627 | -57.5075 | 2024-11-10 10:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 90.1 |
+| 790ad071-c648-32cd-93db-a306a44b9bea | -17.6073 | -57.5099 | 2024-11-10 10:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 208.0 |
+| 0c9b0764-1091-3754-8ee9-193cc30b5d09 | -1.5115 | -55.0142 | 2024-11-10 10:50:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 73.4 |
+| 431c4cf2-74d1-3885-aaf3-d488c4f09dd4 | -17.6266 | -57.5281 | 2024-11-10 10:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 130.0 |
+| f5669b08-cf56-3621-83a0-831724ca40c9 | -17.2933 | -57.4857 | 2024-11-10 10:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 88.6 |
+| 18232aaa-d59b-3cab-8201-9173be9bdaf6 | -23.9089 | -54.083 | 2024-11-10 10:50:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 127.4 |
+| cc35cc80-a845-3784-85e6-7c709746bf13 | -23.9095 | -54.0606 | 2024-11-10 10:50:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 183.8 |
+| d24aa734-4c6d-3ef9-afff-b19b8b11da37 | -17.6073 | -57.5099 | 2024-11-10 10:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 169.6 |
+| 0fd982b0-dc41-3348-995e-7855c6fe3ea0 | -1.5299 | -54.9941 | 2024-11-10 10:50:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 115.6 |
+| 365a1439-2576-30c9-84b0-c19731649b68 | -17.627 | -57.5075 | 2024-11-10 10:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 113.3 |
+| c60bded3-f008-3545-8d89-a2b53249e1a3 | -17.6069 | -57.5304 | 2024-11-10 10:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 179.0 |
+| 8c6f486d-c88e-31b3-809b-19ff4499494b | -1.5116 | -54.9944 | 2024-11-10 10:50:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 136.5 |
+| bfc46ee2-8dbc-3507-a94c-f5607927c01e | -23.9095 | -54.0606 | 2024-11-10 11:00:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 150.7 |
+| 3c98bbcf-1875-3f69-a86b-76ede6b39394 | -17.6266 | -57.5281 | 2024-11-10 11:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 127.0 |
+| df0ceb65-5d86-362d-a893-1475bac6fe28 | -1.5116 | -54.9944 | 2024-11-10 11:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 135.3 |
+| da8aefe0-ff56-3a33-a55b-160b5fb89613 | -17.6073 | -57.5099 | 2024-11-10 11:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 179.5 |
+| 114701b9-dc01-3726-8625-742faf1d7a7b | -23.9089 | -54.083 | 2024-11-10 11:00:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 93.3 |
+| 46fea3f5-36d4-3f73-be6d-c33dda0179d8 | -1.5299 | -54.9941 | 2024-11-10 11:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 119.9 |
+| b7012910-9e0a-3e6f-a67f-3bc161c219e5 | -17.627 | -57.5075 | 2024-11-10 11:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 117.9 |
+| 8688cf7b-2b60-3c60-b053-75bbbd4846d7 | -17.2933 | -57.4857 | 2024-11-10 11:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 83.6 |
+| 35688caf-e588-3357-962c-598a6d241ac5 | -6.13 | -42.57 | 2024-11-10 11:00:00 | MSG-03 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 500e0831-d124-3e55-a51a-d8e1805204b2 | -6.16 | -42.58 | 2024-11-10 11:00:00 | MSG-03 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| a69b6731-009a-349a-baa2-1b25f92e87c9 | -17.627 | -57.5075 | 2024-11-10 11:10:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 113.9 |
+| 9f315f58-04cc-313c-b15f-dbe46cbcdf85 | -17.6266 | -57.5281 | 2024-11-10 11:10:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 146.3 |
+| 0c688f08-18d9-3cac-b02e-d4418dad49da | -23.9095 | -54.0606 | 2024-11-10 11:10:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 149.8 |
+| bb0568e0-8542-3a8b-a975-a7a1e4f0dcb8 | -17.2933 | -57.4857 | 2024-11-10 11:10:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 80.3 |
+| 19796567-621e-39ce-80dc-1c6cf71eea42 | -23.9089 | -54.083 | 2024-11-10 11:10:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 102.8 |
+| 32955a09-8030-3bfb-b2b4-7c7310c895a6 | -1.5299 | -54.9941 | 2024-11-10 11:10:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 102.4 |
+| a921f14f-5708-3fb9-adf6-0e45f12c7d0b | -1.5116 | -54.9944 | 2024-11-10 11:10:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 139.5 |
+| 8ec013b9-e1d5-33ea-8064-523c7ead9476 | -17.6073 | -57.5099 | 2024-11-10 11:10:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 212.5 |
+| 3d93e456-0795-3c14-93b3-25f3d7becfd3 | -23.9089 | -54.083 | 2024-11-10 11:20:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 114.3 |
+| a30c8b54-ffbb-349c-a607-20871e686911 | -17.2933 | -57.4857 | 2024-11-10 11:20:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 95.2 |
+| b3a6afbc-4b80-3dd0-8ae5-9796970b203e | -1.5116 | -54.9944 | 2024-11-10 11:20:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 162.5 |
+| 9bab10a1-c36b-3a7e-af44-41a062f96286 | -23.9095 | -54.0606 | 2024-11-10 11:20:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 177.0 |
+| d151f079-269b-3c4e-83f9-8e25c0e8dad4 | -17.5872 | -57.5328 | 2024-11-10 11:20:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 87.5 |
+| 82336714-b0dd-3baf-a132-0c67830d26d8 | -17.627 | -57.5075 | 2024-11-10 11:20:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 132.4 |
+| ff45470c-ef07-3c52-8f1e-520d4687819d | -1.5299 | -54.9941 | 2024-11-10 11:20:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 114.4 |
+| 279f913b-4987-362b-a852-7fd71d69ee13 | -17.6073 | -57.5099 | 2024-11-10 11:20:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 183.6 |
+| 86318d98-3b5f-34ac-a0b7-c068a91ea5be | -17.6266 | -57.5281 | 2024-11-10 11:20:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 156.0 |
+| ebf06471-369a-3f11-a92e-9f48d4f4a769 | -17.2933 | -57.4857 | 2024-11-10 11:30:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 85.6 |
+| 4750a6bc-a40a-3f2a-87a8-fb7bcdebe8c3 | -1.5299 | -54.9941 | 2024-11-10 11:30:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 177.4 |
+| 6355ddd4-a4bf-39ff-beef-0625c18b0b1d | -17.6266 | -57.5281 | 2024-11-10 11:30:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 154.5 |
+| 240be62d-8c79-3c7f-a7f2-83359e254200 | -17.627 | -57.5075 | 2024-11-10 11:30:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 122.2 |
+| 104e2e1b-c04a-3929-8f0a-85296d8d92fe | -1.5116 | -54.9944 | 2024-11-10 11:30:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 92.2 |
+| 6def515f-cf60-3039-b1a8-44b47ca357ae | -23.9095 | -54.0606 | 2024-11-10 11:30:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 137.9 |
+| ab3ce550-6ab2-3a48-ab1e-60dadec9c75c | -23.9089 | -54.083 | 2024-11-10 11:30:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 138.8 |
+| 08ef6521-a648-30b4-a7c8-a028e8d52752 | -17.6073 | -57.5099 | 2024-11-10 11:30:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 211.7 |
+| 16b433ca-6cd7-3bff-ab25-9ffaff0d3501 | -23.9095 | -54.0606 | 2024-11-10 11:40:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 120.6 |
+| 0737d12d-4bf2-314b-9f1e-bc1a4fa120aa | -17.6266 | -57.5281 | 2024-11-10 11:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 215.9 |
+| 53b4c30f-ee5f-3dcd-af0f-2077fc6eec3c | -17.627 | -57.5075 | 2024-11-10 11:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 183.9 |
+| f0ef863b-3ef7-381b-b914-9dff3c9d8ac0 | -23.9089 | -54.083 | 2024-11-10 11:40:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 129.0 |
+| eb03831b-1c00-3ba4-9749-79c31bfb6215 | -17.2933 | -57.4857 | 2024-11-10 11:40:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 95.6 |
+| f786c4ef-1467-37e9-a0aa-35a92a4c656c | -1.5299 | -54.9941 | 2024-11-10 11:40:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 104.7 |
+| 566781ad-489b-33ae-9310-64345b330cfe | -17.6073 | -57.5099 | 2024-11-10 11:40:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 233.0 |
+| afef7017-69d4-3a0d-9283-e0e39d6c35ce | -1.5116 | -54.9944 | 2024-11-10 11:40:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 88.4 |
+| 69971229-2d29-3ac1-ba22-fca9f23b3d3e | -17.627 | -57.5075 | 2024-11-10 11:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 155.6 |
+| 92bf8f37-fd42-39a0-b8f8-e6c4bac3a3f0 | -1.5116 | -54.9944 | 2024-11-10 11:50:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 105.6 |
+| 82483134-dec5-30be-b965-f99ad06e249f | -17.2933 | -57.4857 | 2024-11-10 11:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 89.2 |
+| 2c2c06cb-bed7-3e8f-8cd1-675b29f281d4 | -1.5299 | -54.9941 | 2024-11-10 11:50:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 123.2 |
+| 095215f6-017b-3b54-8c12-5d931bb5023d | -23.9095 | -54.0606 | 2024-11-10 11:50:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 114.8 |
+| 2cf11778-c684-35fc-a447-172470486a5f | -23.9089 | -54.083 | 2024-11-10 11:50:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 105.8 |
+| 149bd014-fd6f-3a25-86a8-aef0ec359ebc | -17.5872 | -57.5328 | 2024-11-10 11:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 73.0 |
+| dace9988-954d-3b30-b95f-56a320c66a55 | -17.6073 | -57.5099 | 2024-11-10 11:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 239.6 |
+| eac1e530-a208-31b7-b661-9f74027a0e8b | -1.5116 | -54.9944 | 2024-11-10 12:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 113.4 |
+| 294cddcc-b8a6-3da8-aa52-66c57a110695 | -1.5299 | -54.9941 | 2024-11-10 12:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 140.4 |
+| a9cb4296-a40f-3089-9c90-42edb72508ab | -1.476 | -54.3166 | 2024-11-10 12:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 118.1 |
+| 5aa0d569-7b52-391b-8766-65dd9f8c8758 | -17.2933 | -57.4857 | 2024-11-10 12:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 114.2 |
+| 54c92a30-90dc-35bf-ae9f-3982721c98a8 | -17.627 | -57.5075 | 2024-11-10 12:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 181.9 |
+| 0fa152d9-fa80-350f-89ad-e9ea1e44b611 | -17.6073 | -57.5099 | 2024-11-10 12:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 226.2 |
+| 78819672-dc76-3194-aa6a-817898ffa2a7 | -23.9095 | -54.0606 | 2024-11-10 12:00:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 214.9 |
+| 87728abd-befb-3498-a0fc-ee8fe5dfbe76 | -23.9089 | -54.083 | 2024-11-10 12:00:00 | GOES-16 | ALTÔNIA | PARANÁ | Brasil | 4100509 | 41 | 33 | nan | nan | nan | Mata Atlântica | 177.8 |
+| 4b7885ba-ff6c-3d29-963c-f9ac5e4d28b3 | -1.476 | -54.2965 | 2024-11-10 12:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 88.7 |
+| 247106c1-4bd7-31b7-a81c-a98c1cee2225 | -17.5872 | -57.5328 | 2024-11-10 12:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 94.3 |
+| a85592a1-a39d-301f-a386-680b0cd19fa2 | -6.13 | -42.62 | 2024-11-10 12:00:00 | MSG-03 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 1cbb00e2-bcb8-34cd-92a2-e275a66f4964 | -6.13 | -42.57 | 2024-11-10 12:00:00 | MSG-03 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| eba848da-686a-3d95-92e2-2eff5c5a10ee | -8.42 | -44.17 | 2024-11-10 12:00:00 | MSG-03 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 6e82c9db-c559-3b81-883a-cd2b5158ae00 | -6.16 | -42.58 | 2024-11-10 12:00:00 | MSG-03 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 8705b3bd-b8ab-31ed-b5dc-2181dc7b8118 | -8.39 | -44.12 | 2024-11-10 12:00:00 | MSG-03 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 9e85b087-b80c-3488-914e-f011cf52814a | -8.39 | -44.16 | 2024-11-10 12:00:00 | MSG-03 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| addda120-17b2-3f31-a2e0-b5a4be00df5e | -3.979 | -42.08009 | 2024-11-10 12:01:00 | TERRA_M-T | BATALHA | PIAUÍ | Brasil | 2201507 | 22 | 33 | nan | nan | nan | Caatinga | 17.8 |
+| d464946a-41b4-3ea5-9ccb-48d6a2aae55c | -3.98145 | -42.06411 | 2024-11-10 12:01:00 | TERRA_M-T | BATALHA | PIAUÍ | Brasil | 2201507 | 22 | 33 | nan | nan | nan | Caatinga | 35.2 |
+| 7af62463-3390-36f2-8f9c-c7601a75df9c | -3.57141 | -42.17884 | 2024-11-10 12:01:00 | TERRA_M-T | MORRO DO CHAPÉU DO PIAUÍ | PIAUÍ | Brasil | 2206670 | 22 | 33 | nan | nan | nan | Caatinga | 42.5 |
+| 8a366aa4-582d-3378-9f7a-6e3fe2c96d04 | -3.4018 | -41.48791 | 2024-11-10 12:01:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 25.7 |
+| bc1e81ee-0832-39e7-b526-9eaef6030b85 | -3.40083 | -41.49432 | 2024-11-10 12:01:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 27.9 |
+| 96e54535-acb9-3c84-8b5e-1a0e4465eda3 | -3.52308 | -44.02464 | 2024-11-10 12:01:00 | TERRA_M-T | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 28.0 |
+| 693d4e1d-408b-3919-b065-c93bce456cdb | -3.56539 | -42.17182 | 2024-11-10 12:01:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 47.6 |
+| d690d09c-11aa-30a2-988b-d25cbaca64c9 | -4.12733 | -43.5868 | 2024-11-10 12:01:00 | TERRA_M-T | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| 4272afaf-216a-3f26-a3c2-965108c3a377 | -6.11992 | -38.90264 | 2024-11-10 12:04:00 | TERRA_M-T | JAGUARIBE | CEARÁ | Brasil | 2306900 | 23 | 33 | nan | nan | nan | Caatinga | 55.0 |
+| 4cadc079-9bcf-3070-acca-f86b4ace1998 | -8.38611 | -44.14647 | 2024-11-10 12:04:00 | TERRA_M-T | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 333.6 |
+| c9d0ee70-8810-3b41-8fc0-fa88b21cfefb | -10.9086 | -40.20425 | 2024-11-10 12:04:00 | TERRA_M-T | PONTO NOVO | BAHIA | Brasil | 2925253 | 29 | 33 | nan | nan | nan | Caatinga | 10.3 |
+| 92d950b7-9d9f-309e-b10a-24eae2bd690b | -8.80656 | -41.40018 | 2024-11-10 12:04:00 | TERRA_M-T | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 16.3 |
+| 37785342-f2cd-3081-b841-1af92639cff7 | -9.12985 | -37.62031 | 2024-11-10 12:04:00 | TERRA_M-T | CANAPI | ALAGOAS | Brasil | 2701605 | 27 | 33 | nan | nan | nan | Caatinga | 8.6 |
+| 2752da0e-9a17-3ef0-b201-6548237f5642 | -6.11851 | -38.91213 | 2024-11-10 12:04:00 | TERRA_M-T | ORÓS | CEARÁ | Brasil | 2309508 | 23 | 33 | nan | nan | nan | Caatinga | 9.0 |
+| 8eae9a63-aeb5-373a-b310-56ce9804a020 | -5.56432 | -43.97064 | 2024-11-10 12:04:00 | TERRA_M-T | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 28.5 |
+| b3f0d414-c09d-30d8-981d-42e140cc98ee | -8.63182 | -41.07051 | 2024-11-10 12:04:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 11.3 |
+| a0ef2ce1-2c35-3b5c-b1a0-93e0c20dbf97 | -6.13687 | -42.56978 | 2024-11-10 12:04:00 | TERRA_M-T | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 71.3 |
 
 
 [Clique aqui para ver as próximas entradas](README126.md)
