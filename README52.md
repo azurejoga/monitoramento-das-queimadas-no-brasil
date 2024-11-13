@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| da96a38e-f87d-3cdb-8d73-e744d77ac26a | -8.395 | -44.1606 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 8d36afce-5277-3508-af63-f7d259ec8bda | -8.39662 | -44.12878 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 0f0909a9-a775-3110-91d6-7e4de228dffc | -7.12982 | -46.31488 | 2024-11-10 04:16:00 | NOAA-21 | NOVA COLINAS | MARANHÃO | Brasil | 2107258 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 871bb165-b053-3e66-a62a-b03d4c46f2d1 | -8.36986 | -44.14538 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| e35632cb-0bfd-3f1f-b4bd-b7f040a58429 | -7.47266 | -43.59726 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| a47c7de2-af62-3f64-b542-872f760bb9f3 | -8.26349 | -48.49496 | 2024-11-10 04:16:00 | NOAA-21 | BRASILÂNDIA DO TOCANTINS | TOCANTINS | Brasil | 1703602 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ffc08795-a13c-317b-8221-df58129fa6d3 | -8.37317 | -44.1459 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7e568d7c-9d55-3d4b-8399-6d763ca991d1 | -8.40767 | -44.14476 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 910957e4-5815-3383-87c8-1b93e59cdedd | -6.67588 | -43.53845 | 2024-11-10 04:16:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4884b70d-234c-37a4-9a0d-6fb91d00d8ac | -8.39167 | -44.13869 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 6e3025bc-3ac9-3245-aa87-c83d6b5a77b9 | -8.39112 | -44.14216 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 2cf30785-d09d-3fd6-bdae-8149b17d1517 | -8.38122 | -44.16199 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bad0d274-aa47-32b0-a0d2-2b6f6a37d030 | -8.84664 | -47.70582 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a4afc33c-c4c2-3f5c-9f07-f0d60152b1a7 | -8.40988 | -44.15224 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| ff73f238-98bd-3dfb-9021-525e9c7f7f3c | -8.37791 | -44.16147 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c49883dc-9faf-3e93-9a4c-29c3edff6a51 | -8.38284 | -44.13017 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| a81ae28e-c072-33a8-ae13-dc6869099bed | -8.38175 | -44.13712 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 9c9cfc24-a5c3-3fe2-826a-1b7c480f3731 | -8.37429 | -44.16035 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 8eb0839d-15b1-3642-b006-2ef914491060 | -8.40821 | -44.14128 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0e4ad3d6-1451-3f81-b27f-90e243d55d0b | -8.36492 | -44.1553 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| d68ba8d4-0510-316e-ad3c-b93a903d8906 | -8.39884 | -44.13625 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 455a9dcd-835f-3e16-b9de-db6d2a95e707 | -8.36822 | -44.15582 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 0aed6533-9401-33af-9292-b1cf012462d9 | -6.22817 | -47.27831 | 2024-11-10 04:16:00 | NOAA-21 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 495525c4-36ef-30c8-b007-d3625fcbb3fb | -6.41106 | -47.51613 | 2024-11-10 04:16:00 | NOAA-21 | TOCANTINÓPOLIS | TOCANTINS | Brasil | 1721208 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 47305dc9-88d6-39fb-ad28-ffff3b79594a | -8.37153 | -44.15634 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| c1ccf8c8-eb02-357f-a32b-7643ced0b97c | -8.38948 | -44.1526 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| c2e15da8-49be-372c-8e0a-03b6239327dd | -7.45722 | -43.58776 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 6f8bb618-9842-34b6-91ce-f2e0a7d9036f | -8.38727 | -44.14512 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 2ac3408a-2ed8-3d9b-8ae8-7d5310bf33be | -8.3878 | -44.12026 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ebafbeb0-6a3f-35f6-b916-5d3b2fb9daa6 | -8.39445 | -44.16407 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0eceaacb-8cde-3e10-9787-d9cd91e1905b | -8.39717 | -44.1253 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 2f093c5a-f94a-3995-ac1d-487348a4c954 | -8.36601 | -44.14834 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 2ad634eb-1fb7-3e3a-89e8-d9375e19edc8 | -6.31403 | -44.28044 | 2024-11-10 04:16:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d6d7c075-4f86-337b-9b01-8a1127704f9b | -8.40438 | -44.16564 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| e8eeb1df-61be-38eb-86fd-3032e87dee02 | -8.69126 | -47.96252 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| eff06a63-e556-3b5b-91cf-b84868c3aa1c | -7.1053 | -42.7016 | 2024-11-10 04:16:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 4779e6eb-eed9-3060-8bbc-2d02a5524c31 | -6.28643 | -47.3486 | 2024-11-10 04:16:00 | NOAA-21 | PORTO FRANCO | MARANHÃO | Brasil | 2109007 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 461c720c-ced4-3417-9b04-a2d179e8e6db | -8.3627 | -44.14782 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| ccedde88-9c74-3aa9-9dd1-306f2c272d9f | -11.70717 | -48.98448 | 2024-11-10 04:16:00 | NOAA-21 | GURUPI | TOCANTINS | Brasil | 1709500 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ef0a072c-21b9-3bad-9bef-480deb39e87e | -8.84365 | -47.70063 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b206d210-6ed2-30b7-b4bc-57e014d36013 | -8.38451 | -44.14112 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| a08ffe53-ea42-36e0-9b9d-1e851e19ae51 | -7.22104 | -44.99976 | 2024-11-10 04:16:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 1f4dff95-204d-3a34-85d9-8ae69f4de466 | -8.39498 | -44.13921 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8d779451-eb11-3db1-89cc-621bbf1a361f | -11.19167 | -37.33499 | 2024-11-10 04:16:00 | NOAA-21 | ITAPORANGA D'AJUDA | SERGIPE | Brasil | 2803203 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 155629ab-c4e8-379e-ab0b-64cb5a98fcd1 | -12.94624 | -46.62135 | 2024-11-10 04:16:00 | NOAA-21 | NOVO ALEGRE | TOCANTINS | Brasil | 1715150 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 43b3b74c-5046-36ef-9555-1a09169e43f7 | -7.47873 | -43.60175 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 25a71a8e-194f-3163-b773-1a01ba8509ec | -6.79879 | -43.40554 | 2024-11-10 04:16:00 | NOAA-21 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| 33e68d52-a134-34fb-be6d-591ca897094f | -7.22838 | -44.99717 | 2024-11-10 04:16:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| fb999fac-a78d-37a7-9d45-fba371796a44 | -8.85114 | -47.70191 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 4925b5e8-59c0-3ea4-aa74-2c11362e61a8 | -7.46329 | -43.59225 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| e06d8cdc-4ef3-3129-9c3a-bbb10ede3327 | -8.41428 | -44.14581 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 505326a5-ab7d-3595-9fda-6b7f5aba00c8 | -8.39389 | -44.14616 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 0e4105a0-efc4-3529-b0e8-89218b745070 | -8.39608 | -44.13225 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e74bc294-51c4-3be9-b298-7a4e56fbc80d | -9.58604 | -44.80476 | 2024-11-10 04:16:00 | NOAA-21 | MONTE ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2206605 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 2bf0b108-1b3e-3181-900a-160976a902b7 | -8.38339 | -44.12669 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 2e2e1bff-b2f5-3518-b2eb-b6217a295488 | -8.36546 | -44.15182 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 9b827c97-d7b7-3794-a0ac-311d5baedf0d | -8.40545 | -44.13729 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 830c2393-d7eb-3b27-ac38-1f7936b93870 | -8.39056 | -44.12426 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 182ce13d-f706-3ad0-96cb-5437196e2cad | -8.40162 | -44.16164 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 4800bf93-bc91-3a1e-a7b6-c56e0b89d141 | -6.27233 | -44.54276 | 2024-11-10 04:16:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| f18df699-0b36-32fd-9a11-89b72f5a37fc | -7.46249 | -43.51065 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 2918711c-db14-3807-8006-eaad5478f711 | -6.26898 | -44.54222 | 2024-11-10 04:16:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 2796b57e-fb2c-35f2-9cbf-552b59f85db1 | -8.39441 | -44.1213 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 9a3ba5b5-dbe0-3611-9ac5-998e01679e4f | -8.85189 | -47.69736 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 19879dd2-fcc3-3843-ac1b-2213d6042060 | -8.40548 | -44.15868 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 84d7a8a5-afe6-3e86-a5ea-860e089f9660 | -8.40326 | -44.1512 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ffde08ea-9547-3688-a0f9-94055724f284 | -8.38617 | -44.15208 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| babedc5a-b692-3fe7-bc1b-377c80ab1b38 | -10.69428 | -42.69387 | 2024-11-10 04:16:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 31fc75d1-f62f-31b7-a710-0f66b970ffc8 | -7.14388 | -41.10772 | 2024-11-10 04:16:00 | NOAA-21 | CAMPO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2202133 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| f796f994-1235-364d-aed8-160c666b18e9 | -8.1529 | -43.59952 | 2024-11-10 04:16:00 | NOAA-21 | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 79de4c74-570d-3e47-9ab5-62e87d24d090 | -8.37539 | -44.15338 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 27239767-3caa-3692-b1fd-ab0ce3350c9e | -8.84739 | -47.70127 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 9b4a5724-c0e2-30ee-99a0-0fd46cb2054b | -8.37811 | -44.13599 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0ad5d026-1bcc-3eae-8fbd-3f4970400143 | -8.37866 | -44.13251 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| bb2093ec-e413-3e01-9fef-225c56b832cf | -7.11683 | -39.7239 | 2024-11-10 04:16:00 | NOAA-21 | NOVA OLINDA | CEARÁ | Brasil | 2309201 | 23 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 9d9a456f-5721-3ed2-88b0-40c2c900810f | -8.40933 | -44.15572 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| a17bdd3a-7e2b-3083-b872-051361bb4d59 | -8.36655 | -44.14486 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 7ce0a166-f1e3-3603-9979-faa067db0b2e | -8.85038 | -47.70647 | 2024-11-10 04:16:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b6bb4bbb-8e88-3392-9ce8-56fb3db33c99 | -7.48515 | -43.60698 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 614d16b8-ad08-3ad3-a967-7db5b6d7247f | -8.40381 | -44.14772 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 92593f05-e01b-3231-8eef-ca6b165f8182 | -9.02449 | -37.7896 | 2024-11-10 04:16:00 | NOAA-21 | MATA GRANDE | ALAGOAS | Brasil | 2705002 | 27 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 51e04db8-0dea-3657-9dfb-cbcb3e7bc7ee | -8.406 | -44.13381 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 4ebd1f2b-3fa8-38ed-8a41-35481428ec78 | -9.59805 | -36.02617 | 2024-11-10 04:16:00 | NOAA-21 | PILAR | ALAGOAS | Brasil | 2706901 | 27 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| a8260650-b724-3ddf-ac65-58bc3e624615 | -7.11748 | -39.71945 | 2024-11-10 04:16:00 | NOAA-21 | NOVA OLINDA | CEARÁ | Brasil | 2309201 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 9750a40d-8e57-3eb1-8822-481e1e5bd194 | -9.82977 | -36.16032 | 2024-11-10 04:16:00 | NOAA-21 | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| d1363808-2ecf-3cca-b2bf-65258933cc7f | -8.2983 | -43.62585 | 2024-11-10 04:16:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| ab2e1d4b-093b-3d8e-80e0-93d888af7212 | -8.4005 | -44.1472 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 244a5ec0-ec1a-3ab1-bb36-8a779532ad75 | -8.40824 | -44.16268 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 5b54c2ba-a22c-3694-8945-4773f3aa982f | -7.47596 | -43.59778 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 317c6d93-3abf-36fd-acbb-44b4b4a12acb | -8.4104 | -44.12738 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 0fc12c30-59e7-39f4-a925-08c022d47f91 | -8.40214 | -44.13677 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 5a87ae05-50eb-3656-bd6b-77c3523392f0 | -6.32552 | -46.71988 | 2024-11-10 04:16:00 | NOAA-21 | SÃO JOÃO DO PARAÍSO | MARANHÃO | Brasil | 2111052 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| dafaa1f5-62c2-3a6c-a3b5-412bcd07042a | -8.39169 | -44.16008 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 64c085e3-9510-31a5-ae7c-d106ca90850b | -8.39386 | -44.12478 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d58b4200-e73e-396f-909a-cb8a7cb29698 | -8.37371 | -44.14242 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 1555c580-aa41-344a-a2ae-0b8266d7a3b7 | -8.3792 | -44.12902 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 572a0335-e09f-3eb2-ab6e-7d388a406f5c | -8.36325 | -44.14434 | 2024-11-10 04:16:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| c258de0b-7dfb-3c55-9fd6-5d6728a1723c | -8.3867 | -44.12721 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| bb1e418b-3a40-3193-8805-ed6f853ae4f9 | -7.40058 | -43.6037 | 2024-11-10 04:16:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6d0ed87d-45a3-366f-a8a8-85795ca1ee4f | -8.38946 | -44.13121 | 2024-11-10 04:16:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e9359e91-ae14-319a-88cd-25392c9ffd21 | -3.0534 | -45.2764 | 2024-11-13 06:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 70.8 |
+| 0f5c2409-371f-3c9d-b59d-c6c51f1ef0b5 | -4.658 | -47.4434 | 2024-11-13 06:10:00 | GOES-16 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 53.5 |
+| 596fdc99-93e1-3cd2-b807-3cf3b3be461b | -3.8692 | -49.1202 | 2024-11-13 06:10:00 | GOES-16 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 82b71488-2148-3988-8bdb-a2183cd39368 | -4.6767 | -47.4206 | 2024-11-13 06:10:00 | GOES-16 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 39955b92-548a-3b9f-be6f-21a4f96c9967 | -3.0535 | -45.2539 | 2024-11-13 06:10:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 68.2 |
+| a0ba54b8-f6ce-372a-b501-0f1f6f8adda0 | -3.9483 | -48.1724 | 2024-11-13 06:10:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 46.0 |
+| d185c780-b2da-3b88-bf66-ba88d05b44b6 | -3.0504 | -50.3332 | 2024-11-13 06:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 62.5 |
+| f2551816-b5b6-36f3-939c-61a8827b4688 | -3.0689 | -50.3326 | 2024-11-13 06:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 65.7 |
+| 2221a4b3-8df0-3a10-a6ee-6641b08428ba | -3.0721 | -45.2532 | 2024-11-13 06:20:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 59.0 |
+| 2dda9c8d-acf4-3002-9240-371859453147 | -3.0535 | -45.2539 | 2024-11-13 06:20:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 70.4 |
+| c5b0c2bb-f6fe-3944-9a45-1b96094573a8 | -3.9483 | -48.1724 | 2024-11-13 06:20:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 39.3 |
+| 3ecd862b-96aa-35ce-8088-6ebb5bb5af4b | -3.0504 | -50.3332 | 2024-11-13 06:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.3 |
+| d75d044b-a807-3e8f-9c50-279b90d20621 | -3.0534 | -45.2764 | 2024-11-13 06:20:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 9eb9cdcf-6328-30e6-93d9-bce2118da7bf | -3.9483 | -48.1724 | 2024-11-13 06:30:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 43.8 |
+| 8046c898-ad96-32b0-9ebf-57c48934bf15 | -3.0534 | -45.2764 | 2024-11-13 06:30:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 66.1 |
+| 51868639-36e9-3434-bf5e-9514e53409ce | -3.0535 | -45.2539 | 2024-11-13 06:30:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 63.2 |
+| aea74fff-747c-3ae5-8c6b-e0361e3d1d0e | -2.25163 | -53.73825 | 2024-11-13 06:33:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 40.7 |
+| 9297744d-d0a8-37a8-8b65-d7f4ad4b9b2c | 1.06091 | -60.60258 | 2024-11-13 06:33:00 | AQUA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 30.2 |
+| bbca39de-d911-30bd-8995-a91d57ea0869 | -2.24733 | -53.73022 | 2024-11-13 06:33:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 36.6 |
+| 4f585112-2249-35c6-85a4-e972ba14cf3a | 1.05009 | -60.59404 | 2024-11-13 06:33:00 | AQUA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 20.7 |
+| a62b8671-75d4-3a4b-962b-fc35ed622963 | 1.05156 | -60.60393 | 2024-11-13 06:33:00 | AQUA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| d167d655-5812-39e4-8a1f-93eb03cb1c2c | 1.05944 | -60.59269 | 2024-11-13 06:33:00 | AQUA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 18.5 |
+| c75ea942-d4a8-3134-b2aa-0de7a18ba8b3 | -3.0721 | -45.2532 | 2024-11-13 06:40:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 72.6 |
+| 45495c15-7790-33ae-b58e-7ab4fce99dbb | -3.072 | -45.2757 | 2024-11-13 06:40:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| f0679c24-1165-38ae-9133-f97a99c7cac9 | -3.0721 | -45.2532 | 2024-11-13 07:00:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 58.8 |
+| e1a0b3c4-9030-3f42-9752-f669bee98f14 | -3.072 | -45.2757 | 2024-11-13 07:00:00 | GOES-16 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 55.8 |
+| 13ae36d0-160b-35ad-942a-93020d2626cb | -2.9052 | -45.1692 | 2024-11-13 07:10:00 | GOES-16 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 50.8 |
+| 1f113b48-d990-30ab-aeb4-ea6158211fd8 | -2.9238 | -45.1685 | 2024-11-13 07:10:00 | GOES-16 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 106.7 |
+| 0faa570f-374f-31a7-b90b-abb5558531bf | -3.0534 | -45.2764 | 2024-11-13 07:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 49.9 |
+| 5593dd83-2f13-31a9-84f0-ef7a25b6f1b7 | -2.9238 | -45.1685 | 2024-11-13 07:20:00 | GOES-16 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 147.2 |
+| 33b21544-3d3e-3180-9cdc-be2471ebe439 | -2.9238 | -45.1685 | 2024-11-13 07:30:00 | GOES-16 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 105.3 |
+| 24d0f858-734b-33ec-a3e8-6c2a91cff1d5 | -2.9238 | -45.1685 | 2024-11-13 07:40:00 | GOES-16 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 66.9 |
+| a73ab758-e67d-3e68-bc66-8e833451f7cc | -3.2495 | -43.2547 | 2024-11-13 11:10:00 | GOES-16 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 93f1eb20-4d4a-3287-aa0b-0f500e37b476 | -4.2078 | -42.3141 | 2024-11-13 11:30:00 | GOES-16 | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 118.0 |
+| 93ab00fb-26b4-3bce-b3e3-b45cdeecadbc | -4.2077 | -42.3378 | 2024-11-13 11:30:00 | GOES-16 | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 155.7 |
+| 78293da2-dd4f-3ca8-8f5f-478b64a35e15 | -3.2495 | -43.2547 | 2024-11-13 11:30:00 | GOES-16 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| 1119f0cd-76af-34d4-8418-3e55968e90a5 | -4.2077 | -42.3378 | 2024-11-13 11:40:00 | GOES-16 | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 108.5 |
+| d71b4c51-5cdf-3213-a51c-cdf39e0f3c3a | -4.2077 | -42.3378 | 2024-11-13 11:50:00 | GOES-16 | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 120.7 |
+| dae176d9-0fa3-3a6c-95f0-29f75225a498 | -4.2077 | -42.3378 | 2024-11-13 12:10:00 | GOES-16 | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 87.4 |
+| 29c9b5d1-308a-398c-a763-ac9443a28c89 | -4.2077 | -42.3378 | 2024-11-13 12:20:00 | GOES-16 | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 80.8 |
+| 1d7312f6-8693-3b11-9152-ecb8bf59e882 | -3.57701 | -42.08938 | 2024-11-13 12:25:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 18.2 |
+| 4121fcfb-430d-343c-9c13-ca264ba602d7 | -3.42914 | -41.44686 | 2024-11-13 12:25:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| c2ea0e56-b393-3aa8-b652-393ea48df42b | -4.20617 | -42.32865 | 2024-11-13 12:25:00 | TERRA_M-T | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 96.8 |
+| 325274f9-275b-30e8-8be9-b65e15561491 | -4.2049 | -42.33744 | 2024-11-13 12:25:00 | TERRA_M-T | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 31.5 |
+| 5c9f5200-8bd8-3f43-81cc-b09962dad40f | -7.64137 | -37.70346 | 2024-11-13 12:25:00 | TERRA_M-T | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 41.4 |
+| b2533342-7641-3f4f-8bfc-d8e5abcb9c5b | -3.37186 | -41.5928 | 2024-11-13 12:25:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 6.3 |
+| 62db103d-b73b-3c2b-b51f-0dec438d3da6 | -3.49113 | -42.10719 | 2024-11-13 12:25:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 67.0 |
+| a826b8fc-9ded-316f-9921-ce59f4ccdf83 | -4.34581 | -43.78141 | 2024-11-13 12:25:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 067a1c0e-db8a-3bc9-b111-17b9c22c778e | -6.45765 | -44.29162 | 2024-11-13 12:25:00 | TERRA_M-T | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| 963173de-cf0b-3d63-92bf-71060033d2f5 | -3.07573 | -42.42751 | 2024-11-13 12:25:00 | TERRA_M-T | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 28.7 |
+| 1a141920-6be3-3ee5-8d1e-e8f701bda510 | -7.74542 | -37.94135 | 2024-11-13 12:25:00 | TERRA_M-T | QUIXABA | PERNAMBUCO | Brasil | 2611533 | 26 | 33 | nan | nan | nan | Caatinga | 21.5 |
+| 4bbec6db-92a9-3881-b3ca-d22f097f3c07 | -6.70104 | -38.7208 | 2024-11-13 12:25:00 | TERRA_M-T | BAIXIO | CEARÁ | Brasil | 2301802 | 23 | 33 | nan | nan | nan | Caatinga | 15.1 |
+| f04e5a39-5d72-3277-83c2-11a1b2e54a09 | -4.34941 | -43.82011 | 2024-11-13 12:25:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 83.5 |
+| 963212f7-edc2-372d-a816-adacb1f47d95 | -3.06689 | -42.42628 | 2024-11-13 12:25:00 | TERRA_M-T | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 59.4 |
+| 559ef130-8b3d-3963-a97a-9e5b2b59da02 | -3.4924 | -42.0984 | 2024-11-13 12:25:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 33.4 |
+| 467d17c2-45fe-3eb7-a84d-99edd98cf897 | -4.38632 | -43.12106 | 2024-11-13 12:25:00 | TERRA_M-T | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 2e76a770-2193-3a0f-bfbe-73411486986b | -7.34482 | -38.54764 | 2024-11-13 12:25:00 | TERRA_M-T | CONCEIÇÃO | PARAÍBA | Brasil | 2504405 | 25 | 33 | nan | nan | nan | Caatinga | 35.3 |
+| 19ecae7e-7a6d-33fe-8c7d-d7da7f923d28 | -3.37886 | -42.18359 | 2024-11-13 12:25:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 21.2 |
+| 88cba674-468f-35f8-8bf4-259c1f52c031 | -6.46642 | -36.23793 | 2024-11-13 12:25:00 | TERRA_M-T | PICUÍ | PARAÍBA | Brasil | 2511400 | 25 | 33 | nan | nan | nan | Caatinga | 28.5 |
+| 57b4b735-5b7b-3b94-ba96-6d797c7328e3 | -3.24963 | -43.26324 | 2024-11-13 12:25:00 | TERRA_M-T | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| d5ad658a-253a-3642-88f9-4aad6a91996c | -3.57574 | -42.09817 | 2024-11-13 12:25:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 51.0 |
+| 4a05787a-455d-358b-94d0-32f0bbfad5ae | -7.63675 | -37.70895 | 2024-11-13 12:25:00 | TERRA_M-T | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 42.1 |
+| b815be9e-3488-3e88-9c09-f4dc142029da | -7.40154 | -38.53961 | 2024-11-13 12:25:00 | TERRA_M-T | CONCEIÇÃO | PARAÍBA | Brasil | 2504405 | 25 | 33 | nan | nan | nan | Caatinga | 12.0 |
+| 63da49d6-c616-3ceb-8df0-c6bb90dd6f75 | -7.81572 | -37.77016 | 2024-11-13 12:25:00 | TERRA_M-T | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 48.5 |
+| b4425a00-52a8-3122-822b-c5b85856cc4a | -5.95753 | -43.23808 | 2024-11-13 12:25:00 | TERRA_M-T | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| b05769a0-a6fc-321d-b65d-291310d73f81 | -4.87189 | -38.38484 | 2024-11-13 12:25:00 | TERRA_M-T | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 18.7 |
+| 0d344e58-d507-3d91-aef6-1c2d186989a2 | -4.85074 | -44.48243 | 2024-11-13 12:25:00 | TERRA_M-T | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| efa5fce4-5df6-3b03-b0e6-14004dcb7fe0 | -3.46682 | -42.97484 | 2024-11-13 12:25:00 | TERRA_M-T | MILAGRES DO MARANHÃO | MARANHÃO | Brasil | 2106672 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| f0080cda-e198-3812-88dd-7fd376f1e12d | -6.23486 | -41.89043 | 2024-11-13 12:25:00 | TERRA_M-T | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| e70d9dd0-8d01-3665-8085-9af4e6b78f7b | -6.94292 | -42.80806 | 2024-11-13 12:25:00 | TERRA_M-T | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
+| 46316538-16c8-3948-8cb7-15fe9b31d58a | -4.07166 | -44.13592 | 2024-11-13 12:25:00 | TERRA_M-T | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 08ebe61c-03f3-3769-945f-9745ac270d20 | -4.65387 | -44.75836 | 2024-11-13 12:25:00 | TERRA_M-T | BERNARDO DO MEARIM | MARANHÃO | Brasil | 2101939 | 21 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| cdb88e35-0338-3f3a-b927-9421ed2a9569 | -3.29673 | -43.51067 | 2024-11-13 12:25:00 | TERRA_M-T | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 0ea94217-3dbc-3ef5-bf9e-54b23306f741 | -3.55735 | -41.58592 | 2024-11-13 12:25:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 8.8 |
+| 0c1cf301-e8b7-3a34-a02e-dfa8a2382d2f | -3.71955 | -42.76595 | 2024-11-13 12:25:00 | TERRA_M-T | BREJO | MARANHÃO | Brasil | 2102101 | 21 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| c3395292-e099-31d6-bb8a-42294b70f72f | -4.44935 | -44.63366 | 2024-11-13 12:25:00 | TERRA_M-T | SÃO LUÍS GONZAGA DO MARANHÃO | MARANHÃO | Brasil | 2111409 | 21 | 33 | nan | nan | nan | Cerrado | 12.4 |
+| e06d0116-7b1c-3f46-8e65-aef178420eef | -3.16433 | -43.53281 | 2024-11-13 12:25:00 | TERRA_M-T | BELÁGUA | MARANHÃO | Brasil | 2101731 | 21 | 33 | nan | nan | nan | Cerrado | 31.3 |
+| bdeb6373-8b7a-3fea-be3d-9175a587d1af | -8.13272 | -35.04448 | 2024-11-13 12:25:00 | TERRA_M-T | JABOATÃO DOS GUARARAPES | PERNAMBUCO | Brasil | 2607901 | 26 | 33 | nan | nan | nan | Mata Atlântica | 53.8 |
+| 4e33c6c3-ce59-3b83-aa31-2162d72a539f | -3.31064 | -42.20378 | 2024-11-13 12:25:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 66.6 |
+| db8a39d7-069c-374e-ab7b-2afeff20186d | -3.68511 | -42.43065 | 2024-11-13 12:25:00 | TERRA_M-T | LUZILÂNDIA | PIAUÍ | Brasil | 2205805 | 22 | 33 | nan | nan | nan | Caatinga | 80.4 |
+| 94196b58-5026-3d89-a611-959e60ff9359 | -4.56093 | -44.26637 | 2024-11-13 12:25:00 | TERRA_M-T | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 13.2 |
+| 4376fff8-e341-3227-abfa-16423ab1e001 | -3.68793 | -44.85364 | 2024-11-13 12:25:00 | TERRA_M-T | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | 26.2 |
+| 94747293-9c9c-3f28-bb4e-10df771242cd | -3.2898 | -43.11813 | 2024-11-13 12:25:00 | TERRA_M-T | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| 47778f04-1425-377b-827b-4354bd8b9eb4 | -5.45821 | -43.23852 | 2024-11-13 12:25:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 24.2 |
+| 4b29d72b-0f55-3c23-b9d5-8e75bc53bf02 | -5.32028 | -42.97986 | 2024-11-13 12:25:00 | TERRA_M-T | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Caatinga | 15.7 |
+| ce9b4b8c-e330-32a2-bc96-64ca0a717933 | -7.34091 | -38.55533 | 2024-11-13 12:25:00 | TERRA_M-T | MAURITI | CEARÁ | Brasil | 2308104 | 23 | 33 | nan | nan | nan | Caatinga | 22.7 |
+| 0ea5435a-76e4-3f7d-aef3-ea6b7ad7f388 | -4.34033 | -43.81881 | 2024-11-13 12:25:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 20.0 |
+| 8fd95182-3cb7-3c57-a518-32d4367eb093 | -5.01081 | -44.0891 | 2024-11-13 12:25:00 | TERRA_M-T | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 41.1 |
+| b1412c4b-2a92-36cb-955e-779a9c60090b | -8.13374 | -35.05012 | 2024-11-13 12:25:00 | TERRA_M-T | JABOATÃO DOS GUARARAPES | PERNAMBUCO | Brasil | 2607901 | 26 | 33 | nan | nan | nan | Mata Atlântica | 43.2 |
+| 7a08f043-1769-3644-9748-994ce4537215 | -3.42786 | -41.45575 | 2024-11-13 12:25:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| 410505ed-a52e-32e9-8485-6025fa6cba08 | -6.6109 | -38.19059 | 2024-11-13 12:25:00 | TERRA_M-T | SOUSA | PARAÍBA | Brasil | 2516201 | 25 | 33 | nan | nan | nan | Caatinga | 13.8 |
+| d74640ac-1aa8-3af4-9119-3997728bc248 | -5.56582 | -44.20628 | 2024-11-13 12:25:00 | TERRA_M-T | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| ce9f1c15-d64a-3055-923b-3b20af3fdaab | -3.4151 | -42.38333 | 2024-11-13 12:25:00 | TERRA_M-T | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Caatinga | 8.5 |
+| c15e0627-33fd-3bf2-a193-dd0ee8cecab3 | -8.2022 | -44.47203 | 2024-11-13 12:25:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 880c4f4a-ba34-39ba-8660-8204a1b774bd | -7.34279 | -38.54166 | 2024-11-13 12:25:00 | TERRA_M-T | CONCEIÇÃO | PARAÍBA | Brasil | 2504405 | 25 | 33 | nan | nan | nan | Caatinga | 15.8 |
+| b22d4c07-175a-303d-b68f-00912c04e14e | -3.31191 | -42.19501 | 2024-11-13 12:25:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 7.0 |
+| e65c7ac1-76ad-3acc-b023-9f9a917c5129 | -4.88016 | -42.071 | 2024-11-13 12:25:00 | TERRA_M-T | JATOBÁ DO PIAUÍ | PIAUÍ | Brasil | 2205276 | 22 | 33 | nan | nan | nan | Caatinga | 7.2 |
+| 6be60fa5-045e-36ed-a4cc-fb4def61138d | -4.66385 | -43.81371 | 2024-11-13 12:25:00 | TERRA_M-T | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| e894e207-9901-3647-9bab-6d5b3fc85ad1 | -5.4679 | -43.93147 | 2024-11-13 12:25:00 | TERRA_M-T | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 79458fa8-9bc0-352b-bdb2-3847fba3e730 | -6.70285 | -38.70735 | 2024-11-13 12:25:00 | TERRA_M-T | BAIXIO | CEARÁ | Brasil | 2301802 | 23 | 33 | nan | nan | nan | Caatinga | 46.8 |
 
 
 [Clique aqui para ver as próximas entradas](README53.md)

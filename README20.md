@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| feb621fc-e5b0-3b93-b058-b48916b0526d | -2.78385 | -51.75097 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 2245e2da-ea4c-3330-8e36-62ae040acd96 | -2.7294 | -54.13767 | 2024-11-12 05:18:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d18214ac-8ae5-31e5-91ff-e26e0a3e6100 | -2.03663 | -56.65616 | 2024-11-12 05:18:00 | NOAA-21 | FARO | PARÁ | Brasil | 1503002 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2ab9c872-75cf-32e5-8914-5ab0f9891cf6 | -4.25064 | -50.25286 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 46079b75-2bf3-3a28-bed3-2bb470cc096a | -3.89617 | -55.73384 | 2024-11-12 05:18:00 | NOAA-21 | AVEIRO | PARÁ | Brasil | 1501006 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 58669344-cd4c-3334-b40e-7917776d0892 | -3.92589 | -49.92201 | 2024-11-12 05:18:00 | NOAA-21 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b1eba4a5-b938-3973-a6b1-581810880834 | -3.08175 | -49.19895 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d8a09310-0134-3048-b8cd-064f02fec26b | -3.08125 | -49.20234 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| f305846f-057f-3e34-a200-7ca466030471 | -4.4222 | -49.72194 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 701684a3-6d6f-3864-8777-56ece0230252 | -3.09945 | -54.30334 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 22486cfc-3644-3639-8bd4-39a785d0bf34 | -2.59665 | -54.24772 | 2024-11-12 05:18:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 9d8d4043-f559-3978-a3ba-65317499560e | -3.0985 | -54.28698 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 406970ca-0882-37da-8457-18b682c96858 | -2.62889 | -54.29033 | 2024-11-12 05:18:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 877b5aa4-9452-3fea-8e39-ee35ddecabfa | -2.60015 | -51.71777 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 6192d42e-b2d7-3026-9de1-ba826fd81e91 | -3.06914 | -54.57604 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 8dbd9d81-d5f9-3d3a-b5d6-6ac92974e4b0 | -3.07004 | -49.20404 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 51120255-9381-31dc-8b16-ae745b55997b | -3.70179 | -54.3963 | 2024-11-12 05:18:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| c819ad8b-2063-39bb-acdb-0adaa7fbd6b3 | -2.71508 | -57.34698 | 2024-11-12 05:18:00 | NOAA-21 | BARREIRINHA | AMAZONAS | Brasil | 1300508 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f1728032-d247-30e8-901b-436c62b0f8e2 | -3.06168 | -54.57485 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 56fc3a3c-0476-3e0e-b90e-b28cdb021db2 | -3.9536 | -48.12685 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 519ad8a7-b9cb-3eb2-a782-8c00d02c8791 | -3.68038 | -49.95159 | 2024-11-12 05:18:00 | NOAA-21 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| ef113a3d-9a2e-3e67-925a-917d2bf6be15 | -2.73322 | -54.13826 | 2024-11-12 05:18:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| ad321c6f-7250-37e3-a6e6-44b1c1f2a5c7 | -3.07539 | -49.2049 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f8762bbe-7353-3a2a-a32e-3b951c3abddc | -3.28722 | -50.05508 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| ef9d3d1d-0401-3049-951c-8250af21c130 | -2.9877 | -49.54309 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 53c7165d-1ccd-3ff6-aa95-80f975d6363b | -3.09944 | -54.30608 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 44a1239e-c31e-3784-be87-f029901ea89c | -4.42168 | -49.72127 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 61c82c1c-9a67-3ede-8e9b-5c405ea13d0b | -3.34648 | -54.18858 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 424ceebb-df2a-3920-9932-101892cc6608 | -2.62651 | -54.28057 | 2024-11-12 05:18:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 32cc1e7e-ad3a-3e50-a4b2-35fc797e09bb | -4.01964 | -49.00428 | 2024-11-12 05:18:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 69c4ded0-33f4-32d7-a488-85ee34bc87f3 | -3.34525 | -54.18633 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e02198bc-3268-3e22-9a46-e42524a77b75 | -3.07439 | -49.21163 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| cbf74c35-cbfc-36a1-a18a-72907d04542e | -3.9535 | -48.16915 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 0a5a15fa-56b9-360a-88e9-d14d7a16b62a | -2.7195 | -57.3405 | 2024-11-12 05:18:00 | NOAA-21 | BARREIRINHA | AMAZONAS | Brasil | 1300508 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b38f7029-63c3-3a1b-b4a7-eee450143b4e | -3.52268 | -49.95431 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0c8d0851-b8d2-3172-a356-354903583194 | -3.10611 | -54.28814 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b9bf2a0f-44e8-333f-9675-473a71905718 | -3.05157 | -50.33327 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 1f5072cc-949f-3cc2-a057-43ed0679d6b7 | -4.17239 | -55.65768 | 2024-11-12 05:18:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| af71c1a8-8d2d-3297-82a4-021d5a03b0ec | -4.09242 | -47.71093 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 69e2ec06-918b-3543-948a-ef9d253bc67a | -3.53133 | -54.08966 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| d7c507c2-b813-3938-86c3-ca3e548b357b | -4.05797 | -55.78967 | 2024-11-12 05:18:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 89a8228a-5402-3130-b545-07867d464ba7 | -3.10015 | -54.30147 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| 1e8832a1-d0a9-34da-a9d0-c99769ee26dc | -2.85055 | -54.1577 | 2024-11-12 05:18:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f232f9ab-23c6-3726-958c-668ef4f10486 | -3.38838 | -50.13238 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ab0de2a6-6712-37a0-989f-75bc5d77e802 | -2.7287 | -54.14237 | 2024-11-12 05:18:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 53ddfc05-2f20-3032-bc74-c3f9bd71942b | -3.78785 | -50.09472 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| 4f716f5f-4277-3e50-adf9-98144d046ecd | -3.10159 | -54.29221 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0ba31139-a8fe-39f8-8742-f8373f6a4408 | -3.9517 | -48.18179 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 2f543eda-4d4d-3108-9ded-acfffe3bb436 | -3.84676 | -50.21621 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 87f7228f-e177-3911-9116-cbdf98a28f2f | -3.10231 | -54.28756 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e93096ef-5251-31ec-8b9f-2898421624ea | -3.43938 | -50.30661 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 6b5afaeb-e3f1-3008-a1b0-9cd8ca196549 | -3.10393 | -54.29928 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| b9384bdc-ea22-34af-835d-26cb1083e7ab | -3.74316 | -50.18821 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 2981e845-7383-3c5e-aa70-ad24830327ff | -3.10082 | -54.29406 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| a4bf93a8-ebf3-355a-a291-9594ae6a848e | -3.34573 | -54.19341 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 28abb673-4e2a-3e40-8569-03ea46ab577d | -3.43854 | -50.31229 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 5ee5c08f-89ee-3785-a0b8-4ada2b84d448 | -3.34231 | -54.64389 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| b75f00a7-d11d-37e7-96fd-727afaa6c303 | -3.84633 | -50.2192 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4333760e-37df-3305-bbd0-5249e2a060a9 | -2.78832 | -51.75167 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 90bbbc4b-d520-3f29-b762-f5a3972eb480 | -3.06954 | -49.20742 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8cbcccee-3bd3-36a7-b983-f0eb6e2e76e5 | -3.38882 | -50.12942 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 873c7bf8-8f19-3ecd-8474-cdf1cbb903a8 | -3.10539 | -54.29279 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f3fd5095-c363-33fa-862f-233134532542 | -3.08024 | -49.2091 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 00891794-ab24-3a9d-9023-85977d66a394 | -3.07589 | -49.20151 | 2024-11-12 05:18:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 60ed49f7-eb01-3016-be70-7da081c7889a | -3.95228 | -48.17769 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 10a9b168-bf8b-34c1-91c6-daf1de669fd2 | -3.09876 | -54.30795 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 74d43e05-32a9-34b5-af4a-a603527b8c98 | -3.99739 | -49.27769 | 2024-11-12 05:18:00 | NOAA-21 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a2e751d1-0d92-38cf-8dde-259ba89935ee | -4.11612 | -50.23447 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 40f106ab-b9eb-3b49-9ac4-8fde245f0d55 | -3.57311 | -53.78704 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6c7ac064-9f41-3d28-9cc1-de911fa8e9eb | -4.42269 | -49.71866 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| e179db97-9edf-3ec2-990a-e7e746319a75 | -3.09635 | -54.30091 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 18157a80-e379-3b64-ac2b-165ff60dc20f | -4.33932 | -55.4455 | 2024-11-12 05:18:00 | NOAA-21 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| dd197ba5-112c-3a3b-9f0b-bc26bc3cfe0e | -3.94474 | -48.14731 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fa76e640-65ca-36a9-b0d7-2ea0622f8183 | -4.25022 | -50.25581 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f71890c1-dfeb-37f8-a3c3-6d976e6e1ffb | -2.62581 | -54.28515 | 2024-11-12 05:18:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 67dcf96c-111c-3112-bcd1-2ba44d807098 | -3.65891 | -54.65355 | 2024-11-12 05:18:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 480c897a-a78c-37fb-9d69-5015eb2f08ba | -3.43481 | -50.30295 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a7e6fe15-35df-3e59-8bd2-bb3df5ddef19 | -3.34333 | -53.21004 | 2024-11-12 05:18:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| b39efc63-4347-309b-9bae-dff4c78be870 | -3.10013 | -54.29871 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 6eff649d-d851-370a-9439-36822198ccde | -3.95419 | -48.12276 | 2024-11-12 05:18:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3dfc6737-73d7-3083-97d4-07a0c3954fc3 | -3.40428 | -50.37229 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 84985231-d22f-3828-9800-9f53381cc7be | -3.57388 | -53.7819 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4f6749da-f67e-370d-a09f-32887c0c259f | -4.7391 | -49.53079 | 2024-11-12 05:18:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b204c1a8-5589-3f35-8931-5ab7d34adda8 | -3.10467 | -54.29743 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| 9135ad87-5dc0-3e1b-af1f-5df806269931 | -3.36031 | -53.40517 | 2024-11-12 05:18:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| e20f9da4-db3b-3c43-ad0d-a48d06e20a25 | -3.06644 | -54.5778 | 2024-11-12 05:18:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e0b082ab-1356-301d-84eb-dff02bef086a | -3.51665 | -49.95958 | 2024-11-12 05:18:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 473c7b44-3ac2-304b-a99f-751154c5175b | -3.05814 | -50.32286 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 99063a34-f68b-317f-b7f3-cc3dc6b57d96 | -4.03775 | -53.74255 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| dc156c59-d2ff-366a-a95e-264f0f8bdd3b | -3.71363 | -53.40737 | 2024-11-12 05:18:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| e2335edd-3d98-31c8-9476-14d2e2c375fe | -2.78765 | -51.75612 | 2024-11-12 05:18:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| bb1489f2-8694-3b69-8942-26018824a0ba | -3.1096 | -54.3066 | 2024-11-12 05:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 127.9 |
-| 3f4f31d4-d835-3f1f-bcef-a5d63e0aebcd | -3.9482 | -48.194 | 2024-11-12 05:20:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 68.4 |
-| 57db8eaa-d977-3d30-8a94-739927dd3699 | -2.1087 | -50.6916 | 2024-11-12 05:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 60.9 |
-| cc68f250-84e3-3ec0-85b7-2ecd30af3400 | -3.0504 | -50.3332 | 2024-11-12 05:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 104.9 |
-| f6ee38f0-856b-3880-aa5c-58a0d1a63d8c | -2.7588 | -49.3285 | 2024-11-12 05:20:00 | GOES-16 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 60.3 |
-| 6f53d14b-5951-3e32-b0bf-0ee8e7eb93d9 | -3.0913 | -54.307 | 2024-11-12 05:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 70.8 |
-| 5bb47101-a307-3b48-b3cd-f7d77c8f5243 | -3.9483 | -48.1724 | 2024-11-12 05:20:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| 8f02c149-8468-3e14-aed1-809a97cec5a1 | -2.1271 | -50.7121 | 2024-11-12 05:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 67.6 |
-| f03acd44-88d0-3bba-a261-e28c7ddbb4be | -3.9669 | -48.1716 | 2024-11-12 05:20:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| afd9edbb-4122-3904-a94a-f8ac2a1cb2dc | -1.41554 | -51.11641 | 2024-11-13 04:04:00 | NOAA-20 | MELGAÇO | PARÁ | Brasil | 1504505 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| b6e2c687-a23a-3c45-bb47-3695f0518914 | -2.60828 | -46.17361 | 2024-11-13 04:04:00 | NOAA-20 | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b5019373-fe4e-3df6-8d16-388c5908779d | -3.35445 | -48.96975 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 9d9cff39-c078-3b1c-9667-efd16b91a84b | -3.25265 | -50.39974 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4ab4d62d-4f14-3e4f-912e-42f4b43d5edf | -3.09491 | -54.31546 | 2024-11-13 04:04:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| cf595f84-a867-3a8f-98ba-92a27fb036d2 | -4.05833 | -48.32302 | 2024-11-13 04:04:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| adf7eeed-2f85-3736-932b-32ae14779f8b | -2.39897 | -53.73749 | 2024-11-13 04:04:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 10157bbf-bdb0-3442-af1e-3b0b15a53de3 | -3.1647 | -50.45109 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| dca34508-df11-32c8-9376-4e1cf4de1898 | -2.68567 | -48.66603 | 2024-11-13 04:04:00 | NOAA-20 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| a7247712-c395-3a2c-a93b-0b1c0e269e8b | -3.25814 | -50.4007 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 034ebf1d-e846-39d0-95a2-e9ec4f3f1607 | -2.78651 | -48.08404 | 2024-11-13 04:04:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 41d6701c-23d7-3afe-b633-d1717e6e19fc | -1.65088 | -47.47459 | 2024-11-13 04:04:00 | NOAA-20 | IRITUIA | PARÁ | Brasil | 1503507 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 0494b861-a4b8-3c77-8932-5fe543166f7b | -3.51568 | -49.95601 | 2024-11-13 04:04:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7628f179-db4c-3feb-8247-aac89a8f1ef6 | -1.65226 | -52.63042 | 2024-11-13 04:04:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| f31693f0-1b7e-3435-bad4-4a15e7085f9f | -3.34355 | -48.97377 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 3ddc46ef-0837-399c-a358-ae148581f610 | -3.02224 | -50.97916 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7a716a31-eb49-31fa-a313-03f45fca867f | -3.99028 | -48.3147 | 2024-11-13 04:04:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7d2c59e6-6d38-357d-819a-53f3d512810f | -2.24036 | -53.75299 | 2024-11-13 04:04:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| 98c021fe-cc94-3228-a33d-a6afc79b2cba | -3.29404 | -51.59925 | 2024-11-13 04:04:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1997d8c5-5be2-30e3-b9bc-883a02b071c0 | -2.65537 | -46.7925 | 2024-11-13 04:04:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| bd1f2ce6-2049-351e-9c10-4c9f362df27d | -3.52096 | -49.96618 | 2024-11-13 04:04:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 11d11dfd-39fa-3994-a99c-e32694eb0cde | -2.97708 | -45.1641 | 2024-11-13 04:04:00 | NOAA-20 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 71c08186-a52e-39e1-b572-e113f2e37c98 | -1.98375 | -51.10158 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 99c918dd-43a1-31a4-8e36-0f0645d5d94e | -4.00312 | -46.53194 | 2024-11-13 04:04:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3d96b92c-7a5e-3764-b14e-405259805820 | -3.33671 | -48.9853 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| bfcc6367-7939-34f0-b0b1-79c732598b59 | -1.82262 | -45.91996 | 2024-11-13 04:04:00 | NOAA-20 | MARACAÇUMÉ | MARANHÃO | Brasil | 2106326 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 027c3a1d-1eb3-34da-9f30-bf89b93d7d77 | -2.24622 | -53.76032 | 2024-11-13 04:04:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| 96899a27-ed68-3827-b469-f2c8a8f371b5 | -3.95232 | -46.41538 | 2024-11-13 04:04:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 13.2 |
+| eaa78bb0-3a04-352a-aca9-2e7b6f878a10 | -2.98798 | -53.98298 | 2024-11-13 04:04:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| e8165bae-053b-3cea-8edd-018e23c6cca3 | -3.16169 | -48.36966 | 2024-11-13 04:04:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 645310c7-71d1-316f-a791-08ece361f7e1 | -1.65013 | -47.47939 | 2024-11-13 04:04:00 | NOAA-20 | IRITUIA | PARÁ | Brasil | 1503507 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6733da6c-3e05-37db-8c2e-53975b9b3fc7 | -3.95066 | -48.17526 | 2024-11-13 04:04:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| df40b7d4-8f74-3639-adb9-33b301949cf7 | -2.31503 | -50.68925 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5db2fa5b-f241-33ea-b3fc-c6f823e77265 | -3.34654 | -48.95773 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 38.4 |
+| 7cadc60e-c57e-39b0-bcbc-e7723599fa03 | -2.11593 | -50.68903 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 55966430-38bc-3914-aeae-7f4c4a37c0a6 | -3.07642 | -50.33647 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c66e085f-960c-38f3-8b52-80b14002cece | -2.46609 | -50.12701 | 2024-11-13 04:04:00 | NOAA-20 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| 97d9c643-273a-3c67-b85d-036ca1d41af6 | -1.97307 | -46.57369 | 2024-11-13 04:04:00 | NOAA-20 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 11487fbc-0be0-3c48-893f-c5e26b96cff4 | -3.51454 | -49.96264 | 2024-11-13 04:04:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 196b12ea-567e-368b-bc05-7f84850c1901 | -4.06593 | -47.96633 | 2024-11-13 04:04:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 356b71e6-91ea-342d-9d43-ce6561a66e05 | -2.65358 | -46.83062 | 2024-11-13 04:04:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| facc28b7-6b92-3d37-9110-2ca4d9289edf | -3.33452 | -48.96637 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 992ad085-18e9-33d7-a145-e79361484629 | -3.02429 | -50.97413 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2ff6d529-9e3b-3518-b21a-2bece555476c | -3.49414 | -50.84226 | 2024-11-13 04:04:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| ba09442f-b1c2-3c29-a1bb-2f47ae22dbc5 | -2.65903 | -46.79736 | 2024-11-13 04:04:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| c561840d-e83d-32c4-86c9-b9aad104256c | -1.82202 | -45.92368 | 2024-11-13 04:04:00 | NOAA-20 | MARACAÇUMÉ | MARANHÃO | Brasil | 2106326 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 93e67ff8-1a7f-3907-b6f7-ac219ea12fe3 | -3.35165 | -48.98794 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 00f5aaeb-6466-3384-a0e5-a1bbe5912d97 | -2.63694 | -46.1656 | 2024-11-13 04:04:00 | NOAA-20 | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 547a5efb-b5c7-3583-90dd-3999c7a67483 | -3.39832 | -52.47444 | 2024-11-13 04:04:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e49620d1-c4d4-31f7-8701-133cc0c13ed4 | -2.52992 | -47.09195 | 2024-11-13 04:04:00 | NOAA-20 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2e99e595-2ad0-353f-b95e-61855eeaefc4 | -2.66203 | -46.80623 | 2024-11-13 04:04:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e8160f05-0df1-3944-817a-b7a7aa139855 | -3.07582 | -50.34002 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 0f4e6bcc-cdf8-3f1b-90b3-681e11f73c72 | -2.81723 | -46.65448 | 2024-11-13 04:04:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a5beb758-bd2d-3d6f-88c5-038b31cc5e3f | -5.79764 | -35.58318 | 2024-11-13 04:04:00 | NOAA-20 | IELMO MARINHO | RIO GRANDE DO NORTE | Brasil | 2404606 | 24 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 4340121f-6575-306f-b652-77e6be831d7c | -1.59821 | -47.00401 | 2024-11-13 04:04:00 | NOAA-20 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a3ba64e5-5bbe-3be9-8b4e-3d2747cb4d12 | -3.20989 | -46.53069 | 2024-11-13 04:04:00 | NOAA-20 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 78bba624-61b1-399f-a2a3-2b083e0798e7 | -2.34263 | -48.59819 | 2024-11-13 04:04:00 | NOAA-20 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 2ec4dc16-bda3-3a70-a954-d314d75baef3 | -4.13527 | -40.63338 | 2024-11-13 04:04:00 | NOAA-20 | RERIUTABA | CEARÁ | Brasil | 2311702 | 23 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 90d57e46-131e-3c28-9bfb-7dfb87f5faad | -3.05446 | -50.33283 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| ad53e65a-2305-3dea-a24e-0c0f7ece3ab5 | -2.9836 | -51.24697 | 2024-11-13 04:04:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1dce60fc-76e2-3b49-80bf-8b45f7708f45 | -1.38334 | -52.39838 | 2024-11-13 04:04:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d4c96ad1-e416-3152-85eb-c874a0940040 | -3.05756 | -50.34797 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 98fe0d05-0f65-3561-8816-4565ec75ee9d | -3.3446 | -48.9691 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 28f3d015-412f-38ca-b4ee-f64a9b82a1be | -3.84167 | -46.0167 | 2024-11-13 04:04:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 092e94f6-dad9-36f7-9f5c-f4fb21a7c3b0 | -2.47213 | -50.12439 | 2024-11-13 04:04:00 | NOAA-20 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| fc49eedb-2ed0-3783-8211-e734db696143 | -3.02351 | -50.97137 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 997d59eb-a250-35ca-88f0-cbf95aea1baa | -2.2393 | -53.7594 | 2024-11-13 04:04:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| e2546693-aa5b-365e-863c-63cf0580b52c | -3.50043 | -50.8394 | 2024-11-13 04:04:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| da7afe38-5b09-35a3-946d-79703fcc2287 | -3.5433 | -51.59479 | 2024-11-13 04:04:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| fe6580a0-3ae6-34f7-9739-85340649a5be | -3.06603 | -50.33112 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 14.3 |
+| 4e36b8dc-e4c7-3eec-849d-b25390c11bf6 | -3.19163 | -50.28973 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 032f2771-d60b-37ea-b3a6-d31e2dbdbea3 | -3.94902 | -48.1851 | 2024-11-13 04:04:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| ad174367-88ab-393b-80e8-8c6e026673d5 | -3.34262 | -48.97953 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 8f9addac-be80-3703-a6ac-1cf70ca5de1c | -3.9927 | -48.33863 | 2024-11-13 04:04:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 264337e0-01fc-3e4e-bdae-f18daa6df5c3 | -4.13581 | -40.62993 | 2024-11-13 04:04:00 | NOAA-20 | RERIUTABA | CEARÁ | Brasil | 2311702 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| ee54248a-3b7f-3c0e-862d-7fdfc0a59a00 | -2.72535 | -51.8331 | 2024-11-13 04:04:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7ce0aaa8-1af1-39b8-81c7-feeae4f81fa1 | -2.77594 | -50.30539 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 17cc4500-58b9-3742-926a-9858df6cb24b | -3.06975 | -50.34262 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| fd1eab64-a9f5-30d7-b56e-e79211e1ba26 | -3.3395 | -48.96725 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2638bb7e-ab61-31d4-8396-9e86c0821ef8 | -3.04229 | -50.33801 | 2024-11-13 04:04:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 763d5fb2-d263-3bb4-b548-048e2e4c4480 | -2.56083 | -49.11707 | 2024-11-13 04:04:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 631fc011-04a5-3fef-9786-0bf61725eeb9 | -5.45834 | -43.24815 | 2024-11-13 04:06:00 | NOAA-20 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 51c8bc64-ffe5-3501-81e6-b27d8b5b4193 | -5.97453 | -46.3002 | 2024-11-13 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 1283aec7-251a-370f-9d71-ce18282eface | -3.97173 | -50.9366 | 2024-11-13 04:06:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9864fde9-bd5b-35e8-b73f-82a086b50f4c | -4.33525 | -50.4282 | 2024-11-13 04:06:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| b5066a79-21ca-34cf-a657-3bc4c7426824 | -4.41665 | -48.85595 | 2024-11-13 04:06:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| b2fac859-0da6-349f-868b-e0ea60dd3133 | -4.51635 | -48.9351 | 2024-11-13 04:06:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| c050babf-144a-3634-a349-4efc9918e4f8 | -4.3306 | -48.7233 | 2024-11-13 04:06:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 08dd14f0-203d-3681-9367-65158f155e19 | -4.3241 | -48.61439 | 2024-11-13 04:06:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 4da89ea5-d7b7-3f4b-bca4-59db6bf82d2d | -4.60229 | -46.94617 | 2024-11-13 04:06:00 | NOAA-20 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d3b82d74-80ad-3aa6-8d53-cbb1c72cfb7b | -5.25095 | -49.7961 | 2024-11-13 04:06:00 | NOAA-20 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| e1f8c772-ee63-3b79-bcfd-56b9c5ac9554 | -5.35789 | -46.06741 | 2024-11-13 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 70f91c11-00ec-3936-bebc-f5bd395e2ea3 | -6.96708 | -40.3752 | 2024-11-13 04:06:00 | NOAA-20 | CAMPOS SALES | CEARÁ | Brasil | 2302701 | 23 | 33 | nan | nan | nan | Caatinga | 0.4 |
+| 78f321e0-15d4-3b6a-ae8c-c23ce1ab4cec | -4.41849 | -49.72326 | 2024-11-13 04:06:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7d8f4c93-2648-3b74-853c-86efbe4aea06 | -3.98644 | -49.94638 | 2024-11-13 04:06:00 | NOAA-20 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 22f9eb9a-a642-3974-91ce-8ae8a9365f98 | -4.16047 | -50.75307 | 2024-11-13 04:06:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fea9475e-759f-3393-9e91-ede5f1a24458 | -3.25107 | -54.53981 | 2024-11-13 04:06:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| edf62fdc-84c6-3c07-9617-29f0b1fc63ba | -4.33043 | -50.42381 | 2024-11-13 04:06:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 7dda3fea-f49a-3785-8790-e459a33f9ba1 | -4.40908 | -49.64109 | 2024-11-13 04:06:00 | NOAA-20 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 4887f7a7-7423-3851-923a-e92db1ba7776 | -5.70093 | -45.67121 | 2024-11-13 04:06:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
 
 
 [Clique aqui para ver as próximas entradas](README21.md)
