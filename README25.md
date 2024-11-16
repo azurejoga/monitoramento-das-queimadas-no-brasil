@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b2a94242-08c8-3f2f-a197-18844aac31b1 | -17.69702 | -57.54691 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| e99d6c40-b7df-3acd-900f-f197e5f44225 | -17.25248 | -57.47513 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.9 |
-| c6b201f2-eb2a-3e2b-89b0-ad2740b4e3ac | -17.58302 | -57.44922 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| c9045ee9-b9b8-38ff-b39f-f5c01aadd8cb | -17.69202 | -57.48748 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 38ab6310-5877-30b3-a00c-dc55a4328b8c | -17.58467 | -57.48355 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 53.6 |
-| 93af5bc4-24a3-36a2-bde4-60172e050595 | -17.6185 | -57.55116 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.3 |
-| f9fd12a8-58c9-343d-baab-cab549afda57 | -17.69994 | -57.55237 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 72af2d5c-90a5-315a-879c-bb122d6d28de | -17.6436 | -57.54137 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.9 |
-| 0c738295-a569-3589-a1b7-136a0d6fb688 | -15.90706 | -59.10803 | 2024-11-15 04:48:00 | NPP-375D | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 902d9440-2bcc-3266-be67-9bfc2707b959 | -17.04605 | -57.43603 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| b7a5b398-a539-31f2-a5d2-12eb5d56de9d | -17.62892 | -57.55808 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 42.1 |
-| b5d8ef7a-6528-3f1e-89d4-8a7a2ea4e20b | -17.63985 | -57.54064 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.7 |
-| f6e6f054-77d7-3f9f-afa4-86ac199bb091 | -15.71256 | -59.10879 | 2024-11-15 04:48:00 | NPP-375D | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6487a790-cb65-3887-93d3-d65db00a7ac6 | -17.25917 | -57.48133 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| ad70937b-42b4-32e3-8a5a-b457e17a626b | -17.5851 | -57.45933 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 3667665e-e179-39f6-b9ec-e02e877525bb | -21.34245 | -54.41756 | 2024-11-15 04:48:00 | NPP-375D | NOVA ALVORADA DO SUL | MATO GROSSO DO SUL | Brasil | 5006002 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 6e44f584-127b-32bd-bca6-4e083d2f5fd3 | -17.63148 | -57.54389 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| e4f2458f-6cc1-303f-93f0-e847ca9b18e3 | -17.65047 | -57.45999 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| eb761cc1-3ff3-3fec-8dcf-aac379d78fdb | -16.01991 | -59.37884 | 2024-11-15 04:48:00 | NPP-375D | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| b8bf296e-97ee-3d82-b336-2c1ed3fe8cf1 | -17.29359 | -57.30849 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.1 |
-| 4bc6f8a3-510d-3713-9c74-e1b9eb1c3479 | -17.23451 | -57.46675 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 87e1d621-59bc-3561-8aa4-9fbfaf30ca58 | -17.62351 | -57.54971 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| d6f7bcf9-655f-3d48-a46f-8f78460c53d6 | -16.95889 | -57.63779 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 3cabbfe9-e1ed-31b3-bca7-57b894087427 | -17.69743 | -57.52258 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| af84527a-42b3-3a49-8af4-939755088d79 | -17.64076 | -57.4508 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 996148d5-1c61-3a24-8ac3-45f52483f59a | -17.57627 | -57.57486 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
-| 0eadcc25-873a-3698-9220-dbf6aefdbe30 | -15.85449 | -59.29743 | 2024-11-15 04:48:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 41eb5f3d-2390-3bd6-bf2b-9cce9884bd63 | -17.5738 | -57.5449 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.0 |
-| 2ffdd0e1-5bb4-372a-b265-e705c97bb11a | -17.57796 | -57.56535 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 21.3 |
-| 2625052c-bc57-3ff2-8acf-c1279b75e002 | -17.25416 | -57.46566 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 13.7 |
-| 6cd0265a-e04d-3f71-99fe-b8ec31b77f34 | -16.9533 | -57.64678 | 2024-11-15 04:48:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| 846729bf-dd40-3899-9c59-d17c339474bb | -16.02016 | -59.40125 | 2024-11-15 04:48:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| ef2353ba-a6c1-3e42-8911-7ee512b2ab59 | -17.63268 | -57.55882 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 11.3 |
-| ca7a36c3-d992-37a2-9292-f9867dae3dd0 | -17.61936 | -57.54643 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| 25a88e7e-67f4-3854-9118-7d28f955547f | -17.55584 | -57.5365 | 2024-11-15 04:48:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| a1e6764a-3819-3312-a8b0-b545e17ecde1 | -17.5672 | -57.5557 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 96.9 |
-| c9b3be33-a94a-3d12-b996-0aed82bb7b82 | -17.235 | -57.4516 | 2024-11-15 04:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 69.8 |
-| d21589e8-d580-3c71-b38c-427228c72da5 | -17.2543 | -57.4698 | 2024-11-15 04:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 124.8 |
-| 0d01a1fa-c060-3a52-a675-362dab0b0bbb | -17.646 | -57.5463 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 76.4 |
-| a5276e07-44f4-3847-ba59-4f8a06a3e908 | -17.2547 | -57.4493 | 2024-11-15 04:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 107.7 |
-| fc289d16-24e7-3541-94b1-5b632cb1f3c9 | -17.5675 | -57.5351 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 116.5 |
-| 949535ba-85d8-3818-becf-5e040682503f | -17.2347 | -57.4721 | 2024-11-15 04:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 65.7 |
-| 89e2111b-0541-36aa-a8fe-3e9b7d0405f4 | -17.626 | -57.5692 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 65.3 |
-| 2d66e0ef-1757-3c81-9222-554d28d55d34 | -17.5882 | -57.4711 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 97.6 |
-| 6e3b7444-c37c-317e-bd87-8cf691827e04 | -17.5869 | -57.5533 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 148.6 |
-| 8c9202bf-811e-328f-aa8c-a1c22918aed6 | -17.5668 | -57.5762 | 2024-11-15 04:50:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 63.4 |
-| c7b55710-108a-3343-80ad-ce2c09b70053 | -17.5879 | -57.4917 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 59.0 |
-| 3f935e61-57d3-3530-96ab-139f4d26d158 | -17.6263 | -57.5486 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 128.3 |
-| 12e9031b-dcaa-391e-bc0c-42e74ae1f2ed | -17.5865 | -57.5739 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 148.2 |
-| 784c99b6-0424-3ddf-933d-6464e548b5b9 | -17.5678 | -57.5146 | 2024-11-15 04:50:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 61.4 |
-| ea13647a-eb92-3759-ac62-fbfed7caa168 | -23.59816 | -54.73862 | 2024-11-15 04:50:00 | NPP-375D | TACURU | MATO GROSSO DO SUL | Brasil | 5007950 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 707ff0d2-df34-3f51-b278-bf40c86ab0b6 | -22.86781 | -54.65586 | 2024-11-15 04:50:00 | NPP-375D | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| c73c6860-cba6-37d7-a69e-f9d0f4b4bfb9 | -22.87055 | -54.66022 | 2024-11-15 04:50:00 | NPP-375D | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
-| a4a4b134-b8ed-3ddc-a75e-20f06e3fa8f3 | -22.86722 | -54.65961 | 2024-11-15 04:50:00 | NPP-375D | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 13.5 |
-| fe5bb7be-252d-3cd3-8148-9313622aa202 | -23.71373 | -55.16608 | 2024-11-15 04:50:00 | NPP-375D | TACURU | MATO GROSSO DO SUL | Brasil | 5007950 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| eab87fa6-8acf-3b64-88cb-b391fe93cfd1 | -23.64692 | -54.55717 | 2024-11-15 04:50:00 | NPP-375D | IGUATEMI | MATO GROSSO DO SUL | Brasil | 5004304 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| a0e73594-5a3f-3800-9882-7ee1ba338e8a | -23.59424 | -54.74179 | 2024-11-15 04:50:00 | NPP-375D | TACURU | MATO GROSSO DO SUL | Brasil | 5007950 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 78bb7a0b-254c-3b15-8632-48431664e19c | -23.64924 | -54.5799 | 2024-11-15 04:50:00 | NPP-375D | IGUATEMI | MATO GROSSO DO SUL | Brasil | 5004304 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 7dbe12f5-5b1b-3cc6-932b-26ffadf91ed1 | -23.73393 | -55.38385 | 2024-11-15 04:50:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 4f1bfc33-ea9b-3e67-871e-00c021f715bc | -23.7358 | -55.38713 | 2024-11-15 04:50:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 317fc175-dbf5-32ce-b610-307fc0a0cea5 | -23.7104 | -55.16545 | 2024-11-15 04:50:00 | NPP-375D | TACURU | MATO GROSSO DO SUL | Brasil | 5007950 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 69519ed9-9572-3913-8df3-78c836432c25 | -24.2434 | -50.74194 | 2024-11-15 04:50:00 | NPP-375D | ORTIGUEIRA | PARANÁ | Brasil | 4117305 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 623952c5-a479-3fcb-9e3a-0a8d27b03459 | -23.64983 | -54.57612 | 2024-11-15 04:50:00 | NPP-375D | IGUATEMI | MATO GROSSO DO SUL | Brasil | 5004304 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 54f71625-f6a0-3271-9aa8-f478c9b0c71a | -22.86996 | -54.66397 | 2024-11-15 04:50:00 | NPP-375D | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 5.0 |
-| 651c5dc9-eb9b-30d2-9ce3-59f5c21effbd | -23.73333 | -55.38763 | 2024-11-15 04:50:00 | NPP-375D | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| ead35892-44d7-3007-8f37-4265d24fa36e | -25.46694 | -52.74709 | 2024-11-15 04:50:00 | NPP-375D | RIO BONITO DO IGUAÇU | PARANÁ | Brasil | 4122156 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 0e0fd558-665c-3088-b459-372fa49fd072 | -23.59483 | -54.73801 | 2024-11-15 04:50:00 | NPP-375D | TACURU | MATO GROSSO DO SUL | Brasil | 5007950 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| bf5268c0-6801-3382-ba6f-9590c111aa58 | -30.52094 | -51.65512 | 2024-11-15 04:50:00 | NPP-375D | SENTINELA DO SUL | RIO GRANDE DO SUL | Brasil | 4320354 | 43 | 33 | nan | nan | nan | Pampa | 0.8 |
-| b813e464-2ec2-33af-bee6-adcc9506bc9f | -31.5908 | -52.93665 | 2024-11-15 04:53:00 | NPP-375D | CANGUÇU | RIO GRANDE DO SUL | Brasil | 4304507 | 43 | 33 | nan | nan | nan | Pampa | 0.4 |
-| 9ff08551-e892-399b-8f04-c5f16cf2a64b | -17.2547 | -57.4493 | 2024-11-15 05:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 94.1 |
-| 74bd4294-1b82-3d28-bb3d-6bac4de640ed | -17.5882 | -57.4711 | 2024-11-15 05:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.1 |
-| 4bc545a2-209b-3466-a1dd-4ee71e5fecb1 | -17.2543 | -57.4698 | 2024-11-15 05:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 125.8 |
-| 3151735f-431a-3afa-b7ea-8a21a6cfe14c | -17.235 | -57.4516 | 2024-11-15 05:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 73.9 |
-| 782a9a4f-63ae-36fd-9d8e-03ead87dcdd7 | -17.2347 | -57.4721 | 2024-11-15 05:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 62.9 |
-| a53f9991-996b-350c-b647-87cb76fba216 | 1.0749 | -59.24042 | 2024-11-15 05:05:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| db17ee3f-3778-3cec-a36a-d0b45aeabdb7 | 1.0763 | -51.14521 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 9dc1536d-b2d7-3821-a51d-abea97e7d344 | 0.43541 | -50.9287 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 14a71711-dc74-3312-b95d-6debdafa49b8 | 1.06836 | -51.12361 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 42295542-7b7a-379a-be1e-7abbc98740b3 | 0.90547 | -50.14363 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 26e38b4e-1a1d-3994-9e26-4e3cb9f36859 | 1.19956 | -51.29567 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d0297485-78be-3261-9aa0-cb8301a8d03c | 1.08252 | -51.13416 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 15836bcf-00ac-3eda-9194-0a156a4387c7 | 0.8505 | -50.21043 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 45fdbec0-8b06-395d-ba9b-4c103d60b4ba | 1.0747 | -51.13533 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 5d0f8be3-2e80-3880-a02e-be0c536c4b30 | 1.04339 | -51.09189 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 00f4e778-dff1-30ab-b502-8e66268fbb96 | 0.43886 | -50.92466 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 56e27ddf-c704-3235-ad93-681db4418a8e | 1.30028 | -60.41195 | 2024-11-15 05:05:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 802280a5-8c11-30eb-8005-41af80f50654 | 0.90965 | -50.14298 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0a2c2c37-79e2-3004-94cb-a1ca8b9f27cc | 1.07143 | -51.14345 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 63b56e71-5159-3327-a78b-f4deffee123c | 1.0761 | -51.14777 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| d329f935-6a51-37b6-a676-ff6f7cdea14e | 0.11665 | -49.84798 | 2024-11-15 05:05:00 | NOAA-20 | CHAVES | PARÁ | Brasil | 1502509 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 348575e3-3106-3e05-ba1b-a72f4232745c | 1.8241 | -56.43976 | 2024-11-15 05:05:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 09f1b54d-0d69-3f88-a045-0eeb4f86365d | 0.44686 | -50.92342 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 8a5e5406-23cf-3816-a28a-43341f0182d6 | 1.0755 | -51.14028 | 2024-11-15 05:05:00 | NOAA-20 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| fa07a601-b141-367f-987f-b919906e1ab5 | 0.4434 | -50.9275 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| baba6766-6392-3fb5-aabd-712775b1d143 | 1.30424 | -60.41133 | 2024-11-15 05:05:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5e746f96-463f-3ae8-b70d-8d12c1d0de6f | 0.3871 | -50.88288 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 7cdb614d-1917-3864-855e-aec62c63a680 | 2.58085 | -60.69551 | 2024-11-15 05:05:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 61215e4f-06c9-3efa-9640-611623ca358b | 0.12097 | -49.84731 | 2024-11-15 05:05:00 | NOAA-20 | CHAVES | PARÁ | Brasil | 1502509 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ec79c33e-7fe1-3d17-81e3-f107ccca0bdd | 0.60722 | -50.85184 | 2024-11-15 05:05:00 | NOAA-20 | ITAUBAL | AMAPÁ | Brasil | 1600253 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 3314cb37-7868-360f-98ec-2f1141144b06 | 0.4394 | -50.92809 | 2024-11-15 05:05:00 | NOAA-20 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| a01f5efb-5ef1-39ce-97a2-e84efbb3f182 | -2.28155 | -47.91777 | 2024-11-16 04:23:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 72b563db-6e57-3295-aeee-95dc3eb64150 | -4.99498 | -44.32265 | 2024-11-16 04:23:00 | NPP-375D | DOM PEDRO | MARANHÃO | Brasil | 2103802 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| a63f3033-a13a-3693-8ea9-dd6353ed55bc | -2.58467 | -48.94049 | 2024-11-16 04:23:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 32f3cedd-7f45-38c2-b0b0-fc1237c6de73 | -2.14644 | -46.55586 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 56673f7c-1e17-3f70-bcbf-f056dcd7382b | -2.3484 | -47.46984 | 2024-11-16 04:23:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| f7321490-49a3-3f68-b85e-5b348d2c1877 | -2.17878 | -47.95158 | 2024-11-16 04:23:00 | NPP-375D | SÃO DOMINGOS DO CAPIM | PARÁ | Brasil | 1507201 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4378da84-ede8-3344-a64c-e7a356caa39d | -2.64518 | -48.47457 | 2024-11-16 04:23:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| cc694091-4ddf-3893-bcfe-ccb5ec205b21 | -2.66575 | -46.18377 | 2024-11-16 04:23:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 9b525fd1-fe42-3913-9c42-8437403c7d25 | -3.25086 | -46.52737 | 2024-11-16 04:23:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 07b77646-da4c-39ae-a7ed-2745674b840e | -4.00394 | -44.34019 | 2024-11-16 04:23:00 | NPP-375D | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1b25101a-6805-33eb-9548-e3209a7d5035 | -3.58144 | -50.52868 | 2024-11-16 04:23:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 10.7 |
+| 709d8420-9b6c-31eb-992d-9fbe693453d9 | -3.39519 | -51.57531 | 2024-11-16 04:23:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d1eadece-c98b-3d99-8f8c-7d80a59af83d | -1.99705 | -46.57637 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a44eb894-ca34-3e32-a0ac-ca315d6727a8 | -2.07538 | -46.47485 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3053a680-00bf-30c5-b208-a203b32b3619 | -4.13444 | -47.23803 | 2024-11-16 04:23:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 44eb4112-f732-3476-8089-55f816346d81 | -3.99859 | -46.39989 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 762f1d05-bb17-3671-b1ef-08210c0fb93c | -3.68499 | -40.77917 | 2024-11-16 04:23:00 | NPP-375D | FRECHEIRINHA | CEARÁ | Brasil | 2304509 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| c79cff9a-09d3-3b0e-a48e-822ef8599611 | -3.89447 | -46.47977 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 9966f70c-2d34-3caf-a9ed-1ad54a710f00 | -3.46367 | -51.62293 | 2024-11-16 04:23:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 068eefc5-96a9-3156-9f02-d4c670561f06 | -2.65179 | -46.16364 | 2024-11-16 04:23:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0d94abd1-0a69-3d6a-9574-8f038ab2b310 | -4.23077 | -46.56192 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 202d8326-7e81-3a4d-9830-3e0bc0403f7c | -2.66854 | -46.18779 | 2024-11-16 04:23:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| d1918e12-4bda-3517-8262-0b40b7d814c2 | -3.76899 | -50.78325 | 2024-11-16 04:23:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 19b73afe-8efd-3abb-9fd0-29d9deb9667e | -5.00627 | -44.31699 | 2024-11-16 04:23:00 | NPP-375D | DOM PEDRO | MARANHÃO | Brasil | 2103802 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 08a05821-bfb3-394e-bc98-8e4bf7b4cd35 | -3.32777 | -43.8213 | 2024-11-16 04:23:00 | NPP-375D | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 30154ae5-282f-3866-b6fd-e0f888e6eac5 | -2.59853 | -48.32434 | 2024-11-16 04:23:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b3ed540f-0d05-3749-914c-d199c741b614 | -5.43338 | -42.88588 | 2024-11-16 04:23:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 497e4c33-2f00-3b43-afdb-e79aab07be3c | -2.8252 | -46.66481 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7e07232e-3592-3a3a-bbcb-b89614c7d366 | -2.7917 | -48.56166 | 2024-11-16 04:23:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0f66f7f5-e529-3dd5-9247-c6801b095f65 | -3.10691 | -45.98095 | 2024-11-16 04:23:00 | NPP-375D | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 5cbac14e-2b1f-30f3-8374-23236bd9727f | -2.45184 | -48.02503 | 2024-11-16 04:23:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c951a273-aa3d-3f6f-8b4b-9ef40f0b7637 | -4.72795 | -48.11511 | 2024-11-16 04:23:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2defc128-10cd-3eab-a80c-088c257f3e9f | -3.22933 | -45.39832 | 2024-11-16 04:23:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| d58e5703-e197-3196-b85f-8ebeabe126e2 | -2.7919 | -46.64877 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7ca649ed-8dfd-34fb-a600-f90e8aab6047 | -2.66464 | -46.19077 | 2024-11-16 04:23:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| b3c97a24-a188-383c-8260-698a5187c205 | -1.08804 | -53.17645 | 2024-11-16 04:23:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b31bc9f0-c57f-3820-9b4b-e30b6359eecf | -2.7874 | -48.56525 | 2024-11-16 04:23:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 18.1 |
+| 573b305c-6675-3861-8703-42c021d0b0be | -2.60938 | -46.81193 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| aa53bb68-d472-3cdc-98bd-2ec4e0fde883 | -3.09966 | -45.96204 | 2024-11-16 04:23:00 | NPP-375D | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 95559f69-c1f4-31f7-b418-df198602e3c4 | -4.81344 | -42.91597 | 2024-11-16 04:23:00 | NPP-375D | UNIÃO | PIAUÍ | Brasil | 2211100 | 22 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| ec567579-269f-30fb-bc2c-33cb7b1abd81 | -4.09376 | -49.97844 | 2024-11-16 04:23:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 2c4fd24c-0dcb-359e-ad9d-1acb311554ca | -2.65124 | -46.16714 | 2024-11-16 04:23:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e9341922-2dec-3c17-b7df-723ffe987a6f | -4.6623 | -44.08216 | 2024-11-16 04:23:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c516fc07-dc11-3f1e-afa8-07c052fbd5a3 | -4.15438 | -45.4342 | 2024-11-16 04:23:00 | NPP-375D | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9d6b74b0-00cd-3eea-85e9-bf4e5854010d | -3.69221 | -50.1077 | 2024-11-16 04:23:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 61998277-6616-32e9-b6b9-d1659848b11f | -4.30035 | -45.99123 | 2024-11-16 04:23:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| efe2921f-d2e4-3eca-8501-026735d3b4d3 | -2.15998 | -46.42638 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3d9cedf3-4fad-3df8-aca1-2c7a1ccb939b | -4.64932 | -45.12766 | 2024-11-16 04:23:00 | NPP-375D | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| cd533e28-eebc-36c8-b9e2-4ce316dd1f0a | -3.959 | -50.01912 | 2024-11-16 04:23:00 | NPP-375D | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 025dc091-dec5-3892-9a2e-36f3da713d74 | -3.72991 | -45.65738 | 2024-11-16 04:23:00 | NPP-375D | TUFILÂNDIA | MARANHÃO | Brasil | 2112274 | 21 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| dc201307-218f-3aad-96f0-e232f6d92fcb | -2.67378 | -46.8444 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 70d4ba6e-9358-3a1d-a350-368fd0009680 | -4.22993 | -50.67755 | 2024-11-16 04:23:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| dd55f910-b525-3c19-8ae6-23129a0a160e | -3.99526 | -46.39935 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 043b1e2b-b7d2-3d1a-95e0-bc014cbb53b5 | -2.6348 | -46.82698 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 45be7184-92e8-3970-ba10-2ef67871295e | -2.64382 | -48.48294 | 2024-11-16 04:23:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 12c515cf-29c3-3fb8-9606-43c91eabece4 | -2.65072 | -46.19217 | 2024-11-16 04:23:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 21849e90-34f4-3baf-917d-20bef654bc96 | -2.89644 | -45.34317 | 2024-11-16 04:23:00 | NPP-375D | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 6575e897-675a-3d1e-807d-902206b5db6f | -2.78569 | -45.95957 | 2024-11-16 04:23:00 | NPP-375D | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 05e302cb-d57f-357a-9b6a-65f65841aef6 | -2.47794 | -46.36303 | 2024-11-16 04:23:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6bba78e6-b02b-3993-90d6-2ac0a1c7a56a | -1.08691 | -54.21271 | 2024-11-16 04:23:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 26d3606e-33af-3e48-bf15-1d1c44eea12b | -5.00176 | -44.32369 | 2024-11-16 04:23:00 | NPP-375D | DOM PEDRO | MARANHÃO | Brasil | 2103802 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0262e0bb-ef9e-3c88-a995-5fb1ff565922 | -3.58028 | -50.53592 | 2024-11-16 04:23:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 35460dcf-94c0-3c2f-8449-59ba4ae06202 | -3.6122 | -44.79169 | 2024-11-16 04:23:00 | NPP-375D | ARARI | MARANHÃO | Brasil | 2101004 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 72a15bf1-0b36-328c-ba71-67e3ea8776ac | -5.67808 | -35.64283 | 2024-11-16 04:23:00 | NPP-375D | POÇO BRANCO | RIO GRANDE DO NORTE | Brasil | 2410108 | 24 | 33 | nan | nan | nan | Caatinga | 13.7 |
+| 61079634-d9be-3c0e-96f6-980c4d4f9046 | -3.95066 | -46.70218 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| aa178309-0030-3dac-afed-5034f32b7b5e | -0.65351 | -49.39437 | 2024-11-16 04:23:00 | NPP-375D | SANTA CRUZ DO ARARI | PARÁ | Brasil | 1506401 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 8bce4991-0c84-371c-84a4-c5bdb600d102 | -2.63122 | -46.18552 | 2024-11-16 04:23:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 7c9b01c7-7e7a-3022-a73d-2199038de60e | -3.2707 | -45.50072 | 2024-11-16 04:23:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 29.4 |
+| 2b5fd881-998a-39f2-b6ad-271dd765a038 | -2.82354 | -46.65357 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5cb59ef2-68b0-3663-aec5-f3a9593b3374 | -2.25453 | -48.75192 | 2024-11-16 04:23:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 25206f95-1fd0-3d81-812b-916f74e007cc | -2.19695 | -46.34494 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 34e6ded6-be1c-3f6f-ad92-b4cae71b55fb | -1.81386 | -46.95816 | 2024-11-16 04:23:00 | NPP-375D | SANTA LUZIA DO PARÁ | PARÁ | Brasil | 1506559 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 088230d5-e43d-30a0-b210-06297fff0efc | -3.98997 | -45.8535 | 2024-11-16 04:23:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e3c79796-448e-38bc-a3a4-7c3918defe66 | -3.91568 | -46.51912 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 63525e6c-e4f4-307f-a110-5a6488dd32f6 | -3.85208 | -46.63903 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 58a387e9-0337-369c-8eec-6ff931d31dba | -3.89586 | -43.29982 | 2024-11-16 04:23:00 | NPP-375D | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 93519f40-53cd-368b-8595-8c0afb54e192 | -3.0849 | -47.76537 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8c8db1df-fa8a-3f24-92d2-c7d98f0b7424 | -2.64651 | -46.55694 | 2024-11-16 04:23:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 05c14350-0c9f-3843-a06b-da76a721aa85 | -3.56332 | -51.64679 | 2024-11-16 04:23:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 26a83979-bf39-3a55-8be0-56c26d6deee6 | -2.6827 | -46.83405 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 990decf1-ef68-3d30-a373-797a8fb3e696 | -5.24601 | -44.18904 | 2024-11-16 04:23:00 | NPP-375D | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 0df32d54-868c-3f42-a899-ae36386db4cc | -4.73724 | -44.09364 | 2024-11-16 04:23:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b108a50c-aecf-3df2-81f6-97de37e95cf2 | -1.68041 | -48.46502 | 2024-11-16 04:23:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3593e86a-fe99-34cb-bb76-8cbe45016cff | -2.39337 | -47.93902 | 2024-11-16 04:23:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 56d477ae-b5dc-3c95-98ed-f6f7b1f634d9 | -3.24413 | -46.43947 | 2024-11-16 04:23:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8c6c39c9-3faf-3631-887a-3c8d4e59a36e | -2.16091 | -48.90865 | 2024-11-16 04:23:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8f505356-f05e-367d-a8f5-b073ef3029ca | -4.37849 | -45.6248 | 2024-11-16 04:23:00 | NPP-375D | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 884c8725-4c81-3b98-b802-a146df49f7a1 | -2.36009 | -49.11118 | 2024-11-16 04:23:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 1e491a0b-fa85-3165-b8a0-c3b6c61b0a8d | -5.00288 | -44.31647 | 2024-11-16 04:23:00 | NPP-375D | DOM PEDRO | MARANHÃO | Brasil | 2103802 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e53f5f81-a016-3ad5-a7fa-1a6d24fc0cc0 | -1.69149 | -47.97382 | 2024-11-16 04:23:00 | NPP-375D | BUJARU | PARÁ | Brasil | 1501907 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2c7797bb-b893-347e-89c8-f8b991e4722d | -2.66072 | -46.17221 | 2024-11-16 04:23:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 103b963e-ee9d-3908-90ea-a1ff27bcfa93 | -4.8154 | -42.91475 | 2024-11-16 04:23:00 | NPP-375D | UNIÃO | PIAUÍ | Brasil | 2211100 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b17ad58f-e9f4-3589-b9df-15e9c85104e0 | -2.81903 | -46.66018 | 2024-11-16 04:23:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 80db7a2a-82ae-3daf-af14-f41acd4f290e | -3.94619 | -46.70869 | 2024-11-16 04:23:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5278d6b2-fbd1-3053-a558-6516e7d0cc8f | -2.09907 | -46.59249 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 86fb9907-d089-30f4-b4e5-84223d274c31 | -3.91537 | -45.85606 | 2024-11-16 04:23:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c235fb69-7dff-38c8-a2b8-06b77e29d407 | -3.53864 | -51.49098 | 2024-11-16 04:23:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 44354665-947b-3516-943b-8bb9360fd9b3 | -2.35559 | -49.11509 | 2024-11-16 04:23:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 0667a217-a6f2-3ddf-aadb-a1602d62d84b | -2.11285 | -46.41897 | 2024-11-16 04:23:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3cb7f458-65e9-3d74-8d41-944a79d81c09 | -4.90764 | -43.35342 | 2024-11-16 04:23:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
 
 
 [Clique aqui para ver as próximas entradas](README26.md)
