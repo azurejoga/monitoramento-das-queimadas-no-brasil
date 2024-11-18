@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b188dd28-7326-38f1-9947-ff0f0845c8bb | -3.82888 | -50.23678 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 737e5e68-f29c-3e2b-9756-181eda74bf0e | -3.69055 | -50.96439 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 13.7 |
-| 7cfa1307-c1f8-3abd-82a3-b0d3437b79bb | -4.05402 | -44.77004 | 2024-11-17 01:04:00 | TERRA_M-M | BACABAL | MARANHÃO | Brasil | 2101202 | 21 | 33 | nan | nan | nan | Amazônia | 32.8 |
-| 041e5abb-ea39-3171-b676-ef87ed186b17 | -2.67937 | -52.43577 | 2024-11-17 01:04:00 | TERRA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
-| df6ce58a-cb1d-3655-81c4-fb55cef36cac | -0.83303 | -52.34162 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 3b8ffbbd-c638-3c32-a671-0c91fcb20930 | -3.95259 | -46.707 | 2024-11-17 01:04:00 | TERRA_M-M | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 04131cef-6032-38ae-9e31-e6be3bb93bbf | -2.93104 | -48.32363 | 2024-11-17 01:04:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 14.8 |
-| 21cafb05-b166-3220-914e-6e63fca9e813 | -3.52661 | -50.51455 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| b4ff5e61-ad49-3bb5-adf3-8462cb6392bb | -4.58504 | -48.01906 | 2024-11-17 01:04:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 13.5 |
-| 4c849c6a-e5fe-36f0-9051-979a016cf997 | -2.95768 | -45.79537 | 2024-11-17 01:04:00 | TERRA_M-M | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 124.1 |
-| 4d92d2c5-5623-3b73-bdeb-cfc958a526ea | -1.32867 | -51.86625 | 2024-11-17 01:04:00 | TERRA_M-M | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 15.6 |
-| c1f6ebee-27e7-3c04-ac6e-f59b10045c57 | -2.83141 | -46.67001 | 2024-11-17 01:04:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 19.9 |
-| fc60c2e5-05e0-3fb7-b3f3-fe88a980a61e | -1.2055 | -51.7733 | 2024-11-17 01:04:00 | TERRA_M-M | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 1799d242-99dd-386d-bb43-2be7df42fa93 | -1.86816 | -50.05525 | 2024-11-17 01:04:00 | TERRA_M-M | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 3b6996f5-77fa-3163-b0c1-126551b38fb8 | -4.21427 | -50.69135 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 59af29da-5817-3315-965d-a100d26a8637 | -3.86736 | -51.16986 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| cd1faea8-a7b7-37d3-bce4-80355c8d611d | -3.04439 | -45.75891 | 2024-11-17 01:04:00 | TERRA_M-M | ARAGUANÃ | MARANHÃO | Brasil | 2100873 | 21 | 33 | nan | nan | nan | Amazônia | 62.5 |
-| ed4c9b75-8d08-362d-a1bd-18a67734bda9 | -3.48388 | -53.9809 | 2024-11-17 01:04:00 | TERRA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| f9de60d0-7b01-3da3-97a9-f1e2aa4a5566 | -1.55483 | -53.09534 | 2024-11-17 01:04:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 7840bd7c-44a4-3fe0-b90f-824eec8bf3e1 | -2.83903 | -45.49433 | 2024-11-17 01:04:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 161.6 |
-| 80908cc9-e688-3a68-bda4-cdaaaf57f685 | -0.93231 | -51.7313 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| ad906e0e-f8e6-3c3f-b041-acf5712ac91a | -1.52713 | -53.56236 | 2024-11-17 01:04:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 19.0 |
-| b38c84ea-f5df-3523-9568-b9a92620fb22 | -3.17703 | -46.60058 | 2024-11-17 01:04:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| 5dd33391-4cdb-31f4-89be-ca5ec90f54c3 | -0.8683 | -52.25847 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| ed1fe131-d302-32c0-bde6-3218ace8e15d | -2.81043 | -52.92045 | 2024-11-17 01:04:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 94b67fb3-020b-353a-a042-e11bda3f7b3d | -3.72157 | -51.84925 | 2024-11-17 01:04:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| adb9654d-5a5a-3425-85cd-eeb108cff322 | -2.60782 | -51.78947 | 2024-11-17 01:04:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 9764d84d-89e0-39b7-9115-f0495cd2185c | -2.62542 | -46.03873 | 2024-11-17 01:04:00 | TERRA_M-M | MARANHÃOZINHO | MARANHÃO | Brasil | 2106375 | 21 | 33 | nan | nan | nan | Amazônia | 41.3 |
-| b49055d7-f749-3787-a530-2f733a64cda5 | -2.92693 | -45.40821 | 2024-11-17 01:04:00 | TERRA_M-M | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 15.4 |
-| 253f992c-ff98-316f-947b-54ec6b245ba2 | -1.64128 | -52.51977 | 2024-11-17 01:04:00 | TERRA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| b45ddda8-33f5-31cd-ae3f-ed769cd8f17b | -2.57793 | -47.56216 | 2024-11-17 01:04:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 28.3 |
-| d373db39-5cf3-35de-954d-605cb37569f0 | -2.65076 | -46.21533 | 2024-11-17 01:04:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 17.1 |
-| f539b946-f485-36d7-a831-50f3d0696e7a | -3.02073 | -47.44213 | 2024-11-17 01:04:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 43b3339b-ce3f-3c01-9c9b-bfe03600a808 | -0.11507 | -51.62352 | 2024-11-17 01:04:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 27.1 |
-| a6c03930-4d71-3ab4-9dde-54616e49ab93 | -3.53693 | -50.45842 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 2188ac7c-02c4-3a5f-a36b-5658feb1e84a | -2.82946 | -46.66122 | 2024-11-17 01:04:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 16.0 |
-| a4976f56-074a-30fe-8532-d4d237bc2117 | -0.90579 | -51.73504 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 7.1 |
-| af714298-5606-3fb2-8735-4b7adf2cb61f | -3.35185 | -46.06269 | 2024-11-17 01:04:00 | TERRA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 14.3 |
-| 34cb1b84-7921-3956-8c95-4061aeae0c0d | -1.52578 | -53.55255 | 2024-11-17 01:04:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| f476dc59-6425-3ad2-961d-37f39993c1d3 | -4.29899 | -48.09016 | 2024-11-17 01:04:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| 6b29b3d3-29cd-33cd-b449-2da8161160eb | -4.56381 | -48.01091 | 2024-11-17 01:04:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 27.1 |
-| d51efea1-cdab-371f-95d7-40e81f1829cb | -1.2056 | -52.03361 | 2024-11-17 01:04:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| ec080151-3b42-336e-8943-dae733fe19b5 | -0.88545 | -51.79792 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| 0275013f-d578-34b7-ae28-e8803339803e | -3.52595 | -50.24913 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 378.2 |
-| 32f11a45-d0b0-335a-b946-9f898e5508dc | -0.11262 | -51.6059 | 2024-11-17 01:04:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 12.1 |
-| 1871d0af-e8cb-3ec7-83a7-8d0a9d49e947 | -3.34243 | -53.30735 | 2024-11-17 01:04:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 19.4 |
-| 1e01b81f-34b8-3833-a2a7-e60634702196 | -1.40465 | -51.0887 | 2024-11-17 01:04:00 | TERRA_M-M | MELGAÇO | PARÁ | Brasil | 1504505 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 15011d9f-eab6-3166-bb18-4639f19dfb89 | -1.19703 | -52.04961 | 2024-11-17 01:04:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 25a082a7-e04a-3e16-88c3-c99184f9596d | -4.59014 | -49.62557 | 2024-11-17 01:04:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| 5222e8ab-ced7-34ae-ba84-1517db1fde53 | -0.89499 | -51.93104 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 0c95a595-d7f5-316e-8c65-11c429d8a61a | -3.62578 | -43.15829 | 2024-11-17 01:04:00 | TERRA_M-M | MATA ROMA | MARANHÃO | Brasil | 2106409 | 21 | 33 | nan | nan | nan | Cerrado | 27.7 |
-| 34c58081-8175-34f4-93dd-cb36c129cfd9 | -2.17476 | -49.10566 | 2024-11-17 01:04:00 | TERRA_M-M | IGARAPÉ-MIRI | PARÁ | Brasil | 1503309 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
-| c809e3a1-5dc2-3d56-8320-a49e979d1c9c | -1.83169 | -46.59459 | 2024-11-17 01:04:00 | TERRA_M-M | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 31.4 |
-| 51c236ef-8cbd-3af4-8f59-6c6203bab1ec | -4.73152 | -46.84487 | 2024-11-17 01:04:00 | TERRA_M-M | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 23.4 |
-| ea9ef71c-45b6-365b-b572-b432e5337f7d | -2.57971 | -47.57479 | 2024-11-17 01:04:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 45.8 |
-| d6e5da57-cfe1-34f9-98c8-57011eac1574 | -3.32582 | -52.7793 | 2024-11-17 01:04:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 40478771-acba-307c-b86f-1ceafff08a61 | -3.61411 | -50.15039 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 21.7 |
-| 64f837cb-7cab-3463-87a4-c9e1514d25bb | -2.93233 | -45.41917 | 2024-11-17 01:04:00 | TERRA_M-M | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 22.8 |
-| 924279cf-9ce2-365f-9710-99cc2bf79879 | -5.32008 | -45.45326 | 2024-11-17 01:04:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| 40ecf7d9-edfd-3726-bbf7-a09f66797cc2 | -1.84572 | -46.53018 | 2024-11-17 01:04:00 | TERRA_M-M | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 10.7 |
-| ce89e947-a45e-3983-abad-5291381845ba | -0.10255 | -51.59834 | 2024-11-17 01:04:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 2b398c4b-bbc2-3482-84bd-6077277c3ca4 | -2.68555 | -46.21002 | 2024-11-17 01:04:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 11.8 |
-| 8cb383b2-aa2f-36d6-a011-4f47886a7ca2 | -0.99501 | -51.77928 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 3c07dc2f-ce11-33b2-a577-57b158cabca8 | 1.39763 | -50.67522 | 2024-11-17 01:04:00 | TERRA_M-M | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| e522c7b3-f40a-30cc-be68-ab10b1a5f6ed | -3.02982 | -54.09621 | 2024-11-17 01:04:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 24.5 |
-| ddfa3245-4f0a-3b08-bc56-b526a595ad01 | -0.04742 | -53.24903 | 2024-11-17 01:04:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| 81b3a5a2-9b37-3166-9dc6-8eedb1b59b4c | -2.29988 | -49.1339 | 2024-11-17 01:04:00 | TERRA_M-M | IGARAPÉ-MIRI | PARÁ | Brasil | 1503309 | 15 | 33 | nan | nan | nan | Amazônia | 13.1 |
-| 3ab60607-86b0-3520-9e16-35e38409d81a | -2.60905 | -51.79831 | 2024-11-17 01:04:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| cf2dc828-35d5-31b2-b127-f98b23c68007 | -3.32995 | -50.49091 | 2024-11-17 01:04:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 22.9 |
-| 46e1e228-d5f4-30e1-a3f7-0fc2afe814a3 | -2.67029 | -46.20583 | 2024-11-17 01:04:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 75.3 |
-| ea102960-09ec-3862-b17c-80364990daf1 | -0.32199 | -51.51296 | 2024-11-17 01:04:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 6e1b2736-3d2c-3d37-ad3b-3286b647bf2f | -3.60793 | -52.22615 | 2024-11-17 01:04:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 16b403bc-31b3-350c-ad39-cdf5d5b7212a | -2.66556 | -46.17426 | 2024-11-17 01:04:00 | TERRA_M-M | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
-| 49728ac8-7fba-387f-ad5c-862f2422d9d8 | -4.407 | -45.52647 | 2024-11-17 01:04:00 | TERRA_M-M | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 183.7 |
-| 6a4aec84-f021-3cd4-89e1-16e8fe83f763 | -1.28782 | -51.9618 | 2024-11-17 01:04:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 17.2 |
-| 25bf45e8-ec2a-32c9-8245-b2bb37451d33 | -4.20163 | -48.70048 | 2024-11-17 01:04:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 86c0968b-5a7e-3c07-b9a0-fb7683e92eb7 | -1.07261 | -53.00395 | 2024-11-17 01:04:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 716466c8-33a2-3200-a949-c96d244c300c | -4.68226 | -49.6249 | 2024-11-17 01:04:00 | TERRA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| ae707b15-a652-3cd6-82cf-21f7f0481f7f | 0.91113 | -52.0502 | 2024-11-17 01:04:00 | TERRA_M-M | PEDRA BRANCA DO AMAPARI | AMAPÁ | Brasil | 1600154 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| f435352a-a375-37a4-9bdc-b884771ad948 | -0.3119 | -51.50539 | 2024-11-17 01:04:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 283b7115-839c-3595-acd3-c3cc5d9b1d56 | -4.30566 | -48.06654 | 2024-11-17 01:04:00 | TERRA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| 9fbd93ba-7828-3e04-b112-33c2ca72f42e | -3.80359 | -51.37337 | 2024-11-17 01:04:00 | TERRA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 4aa27b2c-0d59-37d5-a954-cca0504313cc | -3.21195 | -46.67764 | 2024-11-17 01:04:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| 6ef37b61-fc8f-3517-a53a-d4e83b426a9e | -2.8183 | -46.66286 | 2024-11-17 01:04:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 806843af-0bf5-39f1-ae8e-1cb280da251d | -1.49799 | -47.38783 | 2024-11-17 01:04:00 | TERRA_M-M | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| 27041551-44cd-38c9-aecb-3ede515caa36 | -3.68299 | -49.00791 | 2024-11-17 01:04:00 | TERRA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| da244f41-52ca-36bc-96ff-9030a9b8b07b | -3.52721 | -50.25813 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 227.0 |
-| 6a21c03a-fb6d-31b1-805f-ca75013bd2fc | -3.69104 | -50.11165 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 22.3 |
-| 8beb57dd-2bf1-3408-8930-90d000b965af | -0.95 | -51.72881 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 31.8 |
-| d4fbfdae-3937-39c0-95d2-ae42a254880d | -4.32645 | -49.38483 | 2024-11-17 01:04:00 | TERRA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 6475232e-b3d5-350e-b8f0-800c62103844 | -2.60444 | -47.55249 | 2024-11-17 01:04:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 121.0 |
-| c3b189a4-ff5d-3a3c-b564-955673f2a977 | -3.82761 | -50.22776 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| bc87f1ae-d111-325b-88b8-77466fd84b94 | -3.44979 | -49.11079 | 2024-11-17 01:04:00 | TERRA_M-M | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 25.6 |
-| bbcc6a32-0fd4-3078-8398-1ca5d388c098 | -3.77171 | -46.03329 | 2024-11-17 01:04:00 | TERRA_M-M | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| 7c2025a9-366c-3e29-b176-955611b179e1 | -1.37898 | -51.56633 | 2024-11-17 01:04:00 | TERRA_M-M | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 8525f58d-9951-3b21-94bf-c0e15737fd0b | -2.29844 | -49.12376 | 2024-11-17 01:04:00 | TERRA_M-M | IGARAPÉ-MIRI | PARÁ | Brasil | 1503309 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 0de3e49b-f3f2-34fd-be9e-cd56de1cb30f | -3.53676 | -50.52223 | 2024-11-17 01:04:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| f9c159d3-1561-30e5-a803-f627528b6400 | -3.03565 | -47.98356 | 2024-11-17 01:04:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 16.2 |
-| a2fdde6d-e128-3668-9f49-2f56b73ffa9b | -1.01727 | -52.27644 | 2024-11-17 01:04:00 | TERRA_M-M | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 23.5 |
-| 634deadf-2ddd-32c7-99fa-e4cf68890be2 | -3.46231 | -43.88865 | 2024-11-17 01:04:00 | TERRA_M-M | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 28.5 |
+| c6208cb2-a61b-3d23-a8d0-5bbc4131003c | -2.87614 | -51.78465 | 2024-11-18 01:43:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 30.4 |
+| 7afbe20a-31d0-3a0c-a4ec-1cbc3e385cac | -3.315 | -53.37984 | 2024-11-18 01:43:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 29.1 |
+| 7a4862e9-67ae-318d-ab24-ead2d2ee858f | -2.77287 | -52.62137 | 2024-11-18 01:43:00 | TERRA_M-M | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 35.8 |
+| 2e42639c-3e61-3c13-b275-3437df2b1677 | -14.2837 | -57.630699 | 2024-11-18 01:44:00 | METOP-C | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 57143089-3f17-37eb-b2f3-aa2fa6a800cc | -12.55 | -57.820301 | 2024-11-18 01:44:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| aed31728-a132-3636-963e-8289771a69e2 | -15.6688 | -59.729801 | 2024-11-18 01:44:00 | METOP-C | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 09a30d09-c2c8-3d1f-a143-4b675ac74697 | -14.2865 | -57.642101 | 2024-11-18 01:44:00 | METOP-C | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b33cb87a-e9ea-3eda-8afe-beb3dd19fe79 | 2.94987 | -60.35923 | 2024-11-18 01:45:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 41bfd441-4f28-3d76-97e9-27f22c6e4354 | -0.18052 | -60.68795 | 2024-11-18 01:45:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 11.5 |
+| 034abc46-2cd2-3896-9f0c-2f46fd28dc33 | -0.17923 | -60.67878 | 2024-11-18 01:45:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| 3a52914d-885d-35ad-aa4a-f01cc4330ac2 | 0.95281 | -59.56221 | 2024-11-18 01:45:00 | TERRA_M-M | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 0161b4ab-54d5-392a-9717-4ba30875e440 | -13.0158 | -56.469299 | 2024-11-18 01:46:00 | METOP-C | LUCAS DO RIO VERDE | MATO GROSSO | Brasil | 5105259 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ecb2b9bd-7320-39a2-9b40-7fb6e93653d8 | -0.1781 | -60.690601 | 2024-11-18 01:46:00 | METOP-C | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| fc92f2f0-b53d-325c-a76f-3291eaf1a630 | -3.0568 | -54.410999 | 2024-11-18 01:46:00 | METOP-C | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9ae81d8a-3c10-3a4c-adbb-dfe80ca1bd69 | -13.0121 | -56.455101 | 2024-11-18 01:46:00 | METOP-C | LUCAS DO RIO VERDE | MATO GROSSO | Brasil | 5105259 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3a3a9b82-d70d-36b3-ade3-eefc58a03854 | -16.0763 | -60.092499 | 2024-11-18 01:46:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 744d0265-5ce1-3d24-bae9-f03f78e1302b | -1.2964 | -51.741 | 2024-11-18 01:50:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 268.5 |
+| 27898bb2-ce4a-3895-a33c-9dce3d7ea9e0 | -2.8791 | -51.7932 | 2024-11-18 01:50:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 92.3 |
+| 09c5320c-12e1-346d-96fc-d821040e71db | -2.8792 | -51.7726 | 2024-11-18 01:50:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 59.6 |
+| 6cd46623-605a-349b-be8b-c16b009a4be2 | -2.8607 | -51.7937 | 2024-11-18 01:50:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 93.2 |
+| 72bd4ce4-a72f-385d-959e-f264e06a77d7 | -2.5847 | -51.7181 | 2024-11-18 01:50:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 96.7 |
+| 3076761f-b84b-3627-99a3-3abfe11c35c4 | -1.7147 | -45.8307 | 2024-11-18 01:50:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 217.5 |
+| eb33d212-e1ef-38b1-8795-67c3f6f610ad | -1.6962 | -45.8087 | 2024-11-18 01:50:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 90.9 |
+| 77aca38e-edcc-336f-a6ad-1ec494ae784d | -1.2964 | -51.7616 | 2024-11-18 01:50:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 105.8 |
+| 1e1b24a0-ea7c-34ab-9a5c-824c4b622d52 | -1.2964 | -51.7204 | 2024-11-18 01:50:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 85.2 |
+| fc3fed6e-9a1a-3b0f-afa6-1ba6e5c44536 | -2.4888 | -47.2466 | 2024-11-18 01:50:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 79.2 |
+| 895e27da-d24d-3093-82fd-c10cfdde23b9 | -2.5074 | -47.2242 | 2024-11-18 01:50:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 188.8 |
+| 616e78ed-b5a8-3ae7-95ad-2e3de094a446 | -2.5258 | -47.2455 | 2024-11-18 01:50:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 82.9 |
+| 637f0973-9da1-3590-a4a8-e7b15c94e8a2 | -2.5072 | -47.2679 | 2024-11-18 01:50:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 62.6 |
+| 3f1a35d0-c6f0-3c41-a727-25f7ba33a966 | -1.7148 | -45.8084 | 2024-11-18 01:50:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 81.2 |
+| c9c0e8c9-0b3e-331f-a29f-0acc50409729 | -3.3267 | -50.4923 | 2024-11-18 01:50:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| e7e43c43-f66c-3dc1-a880-cb652c88fc2a | -1.3148 | -51.7408 | 2024-11-18 01:50:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 208.5 |
+| af174a99-4468-3d9e-94cd-c7d806c29429 | -2.8608 | -51.7731 | 2024-11-18 01:50:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 61.4 |
+| 2e878307-543c-3e55-b2df-98e4a0bb956a | -3.1461 | -45.3404 | 2024-11-18 01:50:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 66.8 |
+| eba1ce1c-c58e-3cb8-bfdd-0e4665397ed0 | -3.3452 | -50.4917 | 2024-11-18 01:50:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 56.3 |
+| 317d50a9-660c-37fe-9177-c72b687bab36 | -3.0542 | -54.4081 | 2024-11-18 01:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 57.7 |
+| deae4e56-c559-365f-942b-3e10741651d2 | -3.6593 | -50.439 | 2024-11-18 01:50:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 46.7 |
+| 73b58443-5d8c-3093-83ac-b8fa4b076d30 | -1.6962 | -45.8311 | 2024-11-18 01:50:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 251.4 |
+| 2b395af3-d648-33a5-83da-e7fa3009e672 | -1.3148 | -51.7614 | 2024-11-18 01:50:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 87.3 |
+| 535a9f2a-4f2e-3245-bb61-21e35d6b4b8d | -2.5073 | -47.2461 | 2024-11-18 01:50:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 446.2 |
+| 298d1fb3-aef6-30df-9978-3a3e33b21c9b | -1.7147 | -45.8307 | 2024-11-18 02:00:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 211.0 |
+| 5e22d757-a105-307e-bab9-4d6ec5f2e950 | -1.2964 | -51.7204 | 2024-11-18 02:00:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 78.9 |
+| dd156068-ae88-32e0-b3b9-ea01c4b49ad2 | -2.5074 | -47.2242 | 2024-11-18 02:00:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 53.4 |
+| f9f462a1-fbde-3ba6-a9d2-b05e506d371f | -2.8607 | -51.7937 | 2024-11-18 02:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| 20d826b0-bf70-349e-9010-67159205c8a1 | -3.1461 | -45.3404 | 2024-11-18 02:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 407.4 |
+| ea5658b9-65f6-3686-8e3d-643f8f25b744 | -1.3148 | -51.7614 | 2024-11-18 02:00:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| 6deb50d2-3d3f-3b12-b5d6-cc0e0beb2eb2 | -3.3267 | -50.4923 | 2024-11-18 02:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 48.5 |
+| 327f79f7-ef89-3df0-a2f0-505c38df7753 | -3.146 | -45.3629 | 2024-11-18 02:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 231.8 |
+| f52cef61-5f68-3382-8f57-ac41a98def91 | -1.7147 | -45.853 | 2024-11-18 02:00:00 | GOES-16 | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| b9a3a96d-a54d-38de-a89a-5765da0e7595 | -3.1275 | -45.3412 | 2024-11-18 02:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 176.0 |
+| 1f0c0f2d-b5bc-362a-81fe-911756bb2380 | -1.6962 | -45.8311 | 2024-11-18 02:00:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 177.2 |
+| 63ffe058-96b0-3a45-8187-d35659412334 | -3.0542 | -54.4081 | 2024-11-18 02:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 59.4 |
+| 4a09c419-0d42-3880-8342-ac3cfe45437a | -3.3452 | -50.4917 | 2024-11-18 02:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.2 |
+| 82a28c31-3a72-306c-86c1-ebcd0c557db2 | -3.1645 | -45.3622 | 2024-11-18 02:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 73.1 |
+| 3d21154f-525b-3369-9571-dac61b0c72c7 | -2.5847 | -51.7181 | 2024-11-18 02:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 75.6 |
+| ca80b598-f35b-36b5-bc3e-a7480590961f | -3.1647 | -45.3397 | 2024-11-18 02:00:00 | GOES-16 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 103.5 |
+| 083af0ab-3cb4-3f19-9029-09bcc4d0b7b4 | -2.8608 | -51.7731 | 2024-11-18 02:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 43.5 |
+| c8c371cb-c3b6-3aa7-9022-cfde81ab607a | -1.2964 | -51.7616 | 2024-11-18 02:00:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 80.5 |
+| e9a998d0-59bb-39a3-b534-608a92de857e | -2.5073 | -47.2461 | 2024-11-18 02:00:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 107.8 |
+| 9faea810-9d6a-3e93-97d4-42107a3e9fce | -1.2964 | -51.741 | 2024-11-18 02:00:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 272.6 |
+| 3d0cc3c8-2fd6-34e3-8a22-96817724100f | -1.7148 | -45.8084 | 2024-11-18 02:00:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 69.5 |
+| b6a8b751-3bcb-31e2-aa27-ea17c195e9cd | -3.1274 | -45.3637 | 2024-11-18 02:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 107.4 |
+| 6383a2a3-1ae4-3ef7-9453-345c3e5aa088 | -1.3148 | -51.7408 | 2024-11-18 02:00:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 182.5 |
+| 4ca35c5f-3db0-3fc0-bd75-7087b238df20 | -4.9059 | -44.022 | 2024-11-18 02:00:00 | GOES-16 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 57.5 |
+| 7bf2123b-3e8a-3ad3-80e9-3f89c56ba206 | -2.8791 | -51.7932 | 2024-11-18 02:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 78.1 |
+| 733fc7e0-ff0c-3a47-b8e1-6e64cc41c51e | -2.8792 | -51.7726 | 2024-11-18 02:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 49.4 |
+| 18a68ee6-219a-3411-aed7-d8001f39d5f8 | -1.7 | -45.83 | 2024-11-18 02:00:00 | MSG-03 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| a557c50d-697e-3eb3-be9e-b6263e9098d4 | -3.13 | -45.35 | 2024-11-18 02:00:00 | MSG-03 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 5acd9bcf-6dc6-3bf9-9fb1-7c97cb453e07 | -1.28 | -51.75 | 2024-11-18 02:00:00 | MSG-03 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4663b691-c681-3191-9b0a-33400b0e431b | -3.13 | -45.3 | 2024-11-18 02:00:00 | MSG-03 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 49bc20b9-4613-37d8-b54d-6e5438e8277f | -3.16 | -45.35 | 2024-11-18 02:00:00 | MSG-03 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 130238d3-caae-31bc-ac72-683d28be33c3 | -2.8607 | -51.7937 | 2024-11-18 02:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 92.2 |
+| b46e96c7-2003-3334-b4cd-71937e927701 | -1.3148 | -51.7408 | 2024-11-18 02:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 189.7 |
+| 1018efc9-3f3e-3ef8-a4c4-f7f771d0b85a | -3.3267 | -50.4923 | 2024-11-18 02:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 38.2 |
+| 48cdd663-f47b-3c2e-98e1-f9e1d89eaae6 | -3.0542 | -54.4081 | 2024-11-18 02:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| 14d6acc5-b83a-358a-88ce-614596462086 | -2.5847 | -51.7181 | 2024-11-18 02:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 83.8 |
+| 97535617-6347-3bca-893f-4418f8eb9a44 | -1.3148 | -51.7202 | 2024-11-18 02:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 62.0 |
+| 316b9921-ed5d-36fd-88d3-1192b35ac965 | -1.3148 | -51.7614 | 2024-11-18 02:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 81.8 |
+| f010bf15-1219-3e15-a680-7dd22449a6c6 | -3.1647 | -45.3397 | 2024-11-18 02:10:00 | GOES-16 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 90.2 |
+| 04e61e9a-dd63-32fc-b9a3-afb943be50e7 | -3.1461 | -45.3404 | 2024-11-18 02:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 270.1 |
+| f280819b-f2ec-308a-8bc5-9725d8a7f4c0 | -3.6593 | -50.439 | 2024-11-18 02:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 44.7 |
+| 74576a1a-a7b2-3200-a25c-4dcad0bbd90d | -4.9059 | -44.022 | 2024-11-18 02:10:00 | GOES-16 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 69.4 |
+| b8c214d9-8652-364a-9e73-3322db673ee0 | -1.2964 | -51.7616 | 2024-11-18 02:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 75.8 |
+| 5e31305f-14d1-30aa-8e36-ad82440f6c9a | -3.1274 | -45.3637 | 2024-11-18 02:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| 0e2ec4e9-42ec-3815-9e16-b6c7f55ceccf | -2.5073 | -47.2461 | 2024-11-18 02:10:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 82.2 |
+| e21c8d8c-04f5-3dbf-9a29-8f44455a48a7 | -1.2964 | -51.7204 | 2024-11-18 02:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| 02f577ae-f511-3b1d-8255-21316b2eb587 | -1.6962 | -45.8311 | 2024-11-18 02:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 217.2 |
+| 0e3b7108-0b84-320b-a5ca-6ca0f9a88827 | -2.8608 | -51.7731 | 2024-11-18 02:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 54.3 |
+| 85f60fe6-90e6-345a-8433-326ff7fdc1f7 | -1.6962 | -45.8087 | 2024-11-18 02:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 71.8 |
+| 0ddcc1fc-ffb4-35a4-8328-0a6c7e9e5572 | -3.146 | -45.3629 | 2024-11-18 02:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 143.6 |
+| 15e0027a-9a4c-38c1-b916-fa103237b6a7 | -1.7147 | -45.8307 | 2024-11-18 02:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 149.6 |
+| 21394a41-5cf6-3174-b857-75b0fa4ca536 | -3.1275 | -45.3412 | 2024-11-18 02:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 88.5 |
+| e7c4c00d-0be7-30a1-9d64-02874d96745a | -1.2964 | -51.741 | 2024-11-18 02:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 189.1 |
+| d809a119-67be-3205-9c1d-24a72912443e | -2.8791 | -51.7932 | 2024-11-18 02:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 63.8 |
+| 4839df1b-070f-3e9d-83d4-7d691c4a4a14 | -1.6962 | -45.8087 | 2024-11-18 02:20:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 79.9 |
+| bb5a79a5-ced1-3bf7-81b9-1b8c4bba61b6 | -1.2964 | -51.7204 | 2024-11-18 02:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 57.0 |
+| 34ee82ac-0d07-365c-8fb9-65af4a2a4f67 | -1.3148 | -51.7614 | 2024-11-18 02:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 107621e0-23e1-37bd-bae4-bf1d18f4d910 | -2.8792 | -51.7726 | 2024-11-18 02:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 42.8 |
+| 21a9bc7b-7b29-3c68-b08e-161b7736626f | -1.7147 | -45.8307 | 2024-11-18 02:20:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 127.1 |
+| a61e1333-f9ec-3114-bdb8-193237cb0e31 | -2.8791 | -51.7932 | 2024-11-18 02:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 57.9 |
 
 
 [Clique aqui para ver as próximas entradas](README13.md)

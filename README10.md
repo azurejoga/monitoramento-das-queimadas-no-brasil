@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e721df29-33d6-323d-a474-7b188e873d77 | -2.9582 | -45.7957 | 2024-11-17 00:40:00 | GOES-16 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 211.6 |
-| 38f95746-75d8-39c7-9438-eebb22f5b93a | -3.5125 | -50.2343 | 2024-11-17 00:40:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 62.3 |
-| f75c2cad-0631-391a-9790-acab0349ce33 | -3.4436 | -49.115 | 2024-11-17 00:40:00 | GOES-16 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 84.8 |
-| fb5c560e-b105-3d58-99f3-30bd9e6dfc42 | -1.8981 | -46.5808 | 2024-11-17 00:40:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 81.5 |
-| e510c505-acbb-395c-b87f-3d746ad17337 | -3.531 | -50.2337 | 2024-11-17 00:40:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 112.2 |
-| 0b32f52d-58b3-3e2a-8a45-a9190b7807b6 | -3.4968 | -53.995 | 2024-11-17 00:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.4 |
-| a31b2a0b-ec6e-3f4d-a5e2-a9ec3e712664 | -8.4339 | -44.1788 | 2024-11-17 00:40:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 72.2 |
-| f454222f-9b18-3e9d-8b5a-91e92d54fd73 | -8.4528 | -44.1767 | 2024-11-17 00:40:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 106.4 |
-| f4b64b4c-158f-3ef2-b2c8-0e519230355a | -3.5851 | -50.5255 | 2024-11-17 00:40:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 70.1 |
-| a418591c-bfaf-36d0-9782-d043e31dc659 | -2.8295 | -45.4868 | 2024-11-17 00:40:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 98.1 |
-| e79178cc-fca9-3933-aeb8-fcd5689e80f2 | -3.5678 | -50.2534 | 2024-11-17 00:40:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 67.2 |
-| 78957f7f-efd4-3dc0-a69d-6e09d160cb12 | -3.5494 | -50.254 | 2024-11-17 00:40:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 98.7 |
-| 6e177fe6-1f66-3620-b64b-ddae5666cb7c | 0.6159 | -51.7881 | 2024-11-17 00:40:00 | GOES-16 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 55.0 |
-| 2e7f92e5-865a-333e-905a-53dd5c59bb48 | -2.6231 | -46.0299 | 2024-11-17 00:40:00 | GOES-16 | MARANHÃOZINHO | MARANHÃO | Brasil | 2106375 | 21 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| 2d287b26-090d-38d9-938e-cf727ae0face | -4.4681 | -48.1054 | 2024-11-17 00:40:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 40.3 |
-| 0b18eb96-d48c-3f78-b638-32dd088f174e | -1.9166 | -46.5804 | 2024-11-17 00:40:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 108.3 |
-| fb155572-771d-34fe-9569-65b7be2c659a | -2.6595 | -46.2065 | 2024-11-17 00:40:00 | GOES-16 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 84.1 |
-| b337c664-714d-3f9d-9218-8637a878efb9 | -4.5429 | -48.0151 | 2024-11-17 00:40:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 44.2 |
-| 7c58ed49-e0e4-37b9-a00d-eea2f6d08308 | -2.8614 | -46.7306 | 2024-11-17 00:40:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 132.6 |
-| 14e65469-cbfa-366e-8651-5a5319fda21b | -12.4004 | -57.5127 | 2024-11-17 00:50:00 | GOES-16 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 62.5 |
-| 833b38bc-70d8-3ae2-951a-a0490d586c79 | -3.4968 | -53.995 | 2024-11-17 00:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 48.9 |
-| 02f0d124-774c-3165-81b7-a70432e58d71 | -2.8615 | -46.7086 | 2024-11-17 00:50:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 96.1 |
-| 271bd667-c774-3a46-925b-893a10427e7a | -1.9166 | -46.5804 | 2024-11-17 00:50:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 136.6 |
-| 81ecb400-aff3-391f-abd3-2f384806cf66 | -2.678 | -46.2059 | 2024-11-17 00:50:00 | GOES-16 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 103.3 |
-| 9dbcb78a-ed4b-3835-b33e-11c99c662a50 | -2.9581 | -45.8181 | 2024-11-17 00:50:00 | GOES-16 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 112.0 |
-| 67d35e77-f771-391a-a668-369b38e51da7 | 0.6159 | -51.7881 | 2024-11-17 00:50:00 | GOES-16 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 65.4 |
-| 81bac185-60ea-3acd-81f0-8a9c5ba92ee0 | -1.8981 | -46.5808 | 2024-11-17 00:50:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 91.4 |
-| 66aa1a60-7c63-3aac-99b7-f0b751400b4c | -4.58 | -48.0132 | 2024-11-17 00:50:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 46.0 |
-| 76268d1a-cff9-3982-8887-aa609f6dad80 | -1.8982 | -46.5588 | 2024-11-17 00:50:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 62.3 |
-| 2ee8820f-e7f3-3be6-b45e-cb52c7a283eb | -2.5987 | -47.5705 | 2024-11-17 00:50:00 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 114.6 |
-| 41eb1814-ec53-34dd-baff-04f106d2d233 | -2.5988 | -47.5488 | 2024-11-17 00:50:00 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 113.0 |
-| 5f063d90-a1aa-35d2-9966-87795255b97f | -2.6141 | -54.1575 | 2024-11-17 00:50:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 55.7 |
-| 749baaca-b1c7-35d0-84da-b2db032e8c2b | -2.8801 | -46.7079 | 2024-11-17 00:50:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 78.5 |
-| a6d76682-30a1-3093-a718-06dc4d7a2ae2 | -2.8614 | -46.7306 | 2024-11-17 00:50:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 105.5 |
-| 5ed65ffc-361a-3b61-8bda-4b0c7ed763ee | -4.5616 | -47.9925 | 2024-11-17 00:50:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 74.1 |
-| 33519940-81b8-3871-a6f2-5e1eb82360e2 | 0.6159 | -51.7676 | 2024-11-17 00:50:00 | GOES-16 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 100.1 |
-| 7282411c-eaa6-3d84-b88c-fcc2cf5ea3c0 | -8.4336 | -44.2019 | 2024-11-17 00:50:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 126.6 |
-| 078bd6b7-f18e-3bd6-b39e-9386516f91ec | -2.88 | -46.73 | 2024-11-17 00:50:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 93.9 |
-| c661d8a1-c579-319f-81ad-51c3f5be90f4 | -3.7931 | -46.0297 | 2024-11-17 00:50:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 69.1 |
-| 9ec665bd-7b6c-353c-b540-c8b8290444ce | -2.6595 | -46.2065 | 2024-11-17 00:50:00 | GOES-16 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 86.9 |
-| 079820f6-b224-3329-8e18-6a2811a5b9e9 | -3.3359 | -52.7643 | 2024-11-17 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 72.4 |
-| 7a448ff4-d427-342d-838c-b5bd879a70a4 | -2.9582 | -45.7957 | 2024-11-17 00:50:00 | GOES-16 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 165.9 |
-| c12e3436-86d8-36a3-8da7-7c9e28c0184c | -2.8295 | -45.4868 | 2024-11-17 00:50:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 106.0 |
-| 564c67d0-9c56-3f33-97a9-d59d2e085427 | -4.543 | -47.9934 | 2024-11-17 00:50:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 44.7 |
-| 3e6b4f65-1b4a-3998-9a50-e7f0c5192c67 | -4.3012 | -48.0917 | 2024-11-17 00:50:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 34.8 |
-| db4b7dd8-cc8b-37de-a601-1796c6ca7534 | -2.5802 | -47.571 | 2024-11-17 00:50:00 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 82.5 |
-| 97723d8d-880e-3819-ac21-2fd2261a0c3b | -4.5799 | -48.0349 | 2024-11-17 00:50:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 42.3 |
-| 5d856a18-3abb-30d6-a4f7-1197df471d9a | -4.5614 | -48.0141 | 2024-11-17 00:50:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 5c3742d3-1913-3f8f-8de6-d613e63c3f6e | -8.4528 | -44.1767 | 2024-11-17 00:50:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 76.6 |
-| a6c454bb-93e0-328b-bdd8-b4260464c02e | -8.4525 | -44.1999 | 2024-11-17 00:50:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 143.6 |
-| 8e2a5068-3190-3802-b0bc-d12edf3f265e | -3.5851 | -50.5255 | 2024-11-17 00:50:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 67.1 |
-| ecc08819-f5ef-3062-b5ba-0a3f6662f759 | -1.9167 | -46.5584 | 2024-11-17 00:50:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 101.3 |
-| e866b53c-cba5-3e12-b1b7-d908a373698e | -2.6325 | -54.1571 | 2024-11-17 00:50:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 55.7 |
-| c15be9e4-3848-35fc-8503-6a31df5c3215 | -28.95756 | -49.40441 | 2024-11-17 00:56:00 | TERRA_M-M | BALNEÁRIO ARROIO DO SILVA | SANTA CATARINA | Brasil | 4201950 | 42 | 33 | nan | nan | nan | Mata Atlântica | 22.1 |
-| 50bb66bb-edfe-3d95-b5ac-0ec4c155377f | -28.57855 | -50.15206 | 2024-11-17 00:56:00 | TERRA_M-M | BOM JESUS | RIO GRANDE DO SUL | Brasil | 4302303 | 43 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
-| d3f0e4fa-fb3e-3fe8-9b85-43153a209420 | -28.96625 | -49.41118 | 2024-11-17 00:56:00 | TERRA_M-M | BALNEÁRIO ARROIO DO SILVA | SANTA CATARINA | Brasil | 4201950 | 42 | 33 | nan | nan | nan | Mata Atlântica | 16.3 |
-| 8cadbdc7-e009-355e-8404-9c7ca5b21e95 | -28.57314 | -50.14397 | 2024-11-17 00:56:00 | TERRA_M-M | BOM JESUS | RIO GRANDE DO SUL | Brasil | 4302303 | 43 | 33 | nan | nan | nan | Mata Atlântica | 10.0 |
-| 7dbe2f6e-be38-3145-9227-fe2552384efe | -28.956 | -49.41267 | 2024-11-17 00:56:00 | TERRA_M-M | BALNEÁRIO ARROIO DO SILVA | SANTA CATARINA | Brasil | 4201950 | 42 | 33 | nan | nan | nan | Mata Atlântica | 23.0 |
-| 7f478f80-c97a-33a7-9d6b-852c4c19fe0f | -27.66113 | -50.65163 | 2024-11-17 00:56:00 | TERRA_M-M | SÃO JOSÉ DO CERRITO | SANTA CATARINA | Brasil | 4216800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
-| c845882f-1fad-3bc2-861b-bd16ffaaf66e | -1.8981 | -46.5808 | 2024-11-17 01:00:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 84.0 |
-| b50e3faf-8162-3376-b52c-2b9565e38854 | -3.4784 | -53.9955 | 2024-11-17 01:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 43.7 |
-| 3f94b8ba-5949-37ba-8bf9-a2f8789ea85a | -2.8614 | -46.7306 | 2024-11-17 01:00:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 99.0 |
-| 1e2679a8-085a-3838-b468-126f72c8823a | -2.8294 | -45.5093 | 2024-11-17 01:00:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 50.1 |
-| 324816e2-edc8-3a48-835e-b72007deefae | -2.678 | -46.2059 | 2024-11-17 01:00:00 | GOES-16 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 100.6 |
-| 583c8c05-316a-3dab-84b7-bfc95ff38239 | -1.8982 | -46.5588 | 2024-11-17 01:00:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 62.6 |
-| 715995b0-020b-308a-a99f-f48dce65cc2e | -2.8615 | -46.7086 | 2024-11-17 01:00:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 80.0 |
-| d32d289d-50ff-3db1-80e4-45906232d892 | -3.5851 | -50.5255 | 2024-11-17 01:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| fdeea08f-0c96-3a74-bd67-98b335df3a8b | -4.5614 | -48.0141 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 61.7 |
-| 1d8f20ce-4057-308a-a000-56772511d485 | -8.4336 | -44.2019 | 2024-11-17 01:00:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 126.6 |
-| 95a1f094-3433-3d6b-b16c-64f23b9221d8 | -2.88 | -46.73 | 2024-11-17 01:00:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 87.6 |
-| 3596b783-c7e2-30f1-a177-f0173516bb5a | -8.4525 | -44.1999 | 2024-11-17 01:00:00 | GOES-16 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 119.3 |
-| 6d2e15c4-914a-3153-a1a0-880ecb885b1b | -4.3012 | -48.0917 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 38.5 |
-| 4c61685b-5be0-30de-9c6c-cebe10eb6931 | -3.7931 | -46.0297 | 2024-11-17 01:00:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 63.0 |
-| 723318af-a550-3a94-85d3-c6b922550cd8 | -2.8801 | -46.7079 | 2024-11-17 01:00:00 | GOES-16 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 68.1 |
-| e489133c-f52e-3ee7-962b-71d6ffd83b70 | -2.9581 | -45.8181 | 2024-11-17 01:00:00 | GOES-16 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 85.8 |
-| b24e330d-9fd5-374d-86a3-5c4f4cc5496a | -2.5987 | -47.5705 | 2024-11-17 01:00:00 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 100.9 |
-| bf3d7e68-db8a-3d21-b40d-4b018caad11d | -4.4103 | -45.5069 | 2024-11-17 01:00:00 | GOES-16 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 83.8 |
-| 379de91f-a24d-3a2b-b7df-fcc045169d7a | -4.5429 | -48.0151 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 43.5 |
-| 9d1b0493-d411-3468-9042-30fd588c4ec9 | 0.6159 | -51.7881 | 2024-11-17 01:00:00 | GOES-16 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 52.5 |
-| 4ed93c5b-a98e-32ab-8a21-dc7eb2cfe25a | -4.4101 | -45.5293 | 2024-11-17 01:00:00 | GOES-16 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 132.3 |
-| f69856e1-a49d-3607-8bb7-b70cba0c655a | -3.3359 | -52.7643 | 2024-11-17 01:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 65.3 |
-| 0bcacb42-4802-3797-ab70-c09049d57611 | -4.58 | -48.0132 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 50.7 |
-| 2c5b82c2-8d28-37d3-bcef-2c3390b31751 | -2.6595 | -46.2065 | 2024-11-17 01:00:00 | GOES-16 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 100.7 |
-| 1e5d1ffa-1640-38d3-9169-1b7e7cff35e5 | -4.543 | -47.9934 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 46.5 |
-| 5f9a83d6-a78a-30e8-9f83-d5ae80391c12 | -2.5802 | -47.571 | 2024-11-17 01:00:00 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 94.9 |
-| c307bf4e-c888-3267-83bc-2736a847106f | -2.6141 | -54.1575 | 2024-11-17 01:00:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 55.1 |
-| e6c355f4-f92c-38d4-9f3f-615c747a06d7 | -1.9166 | -46.5804 | 2024-11-17 01:00:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 178.2 |
-| ff5b68f9-cb31-39e8-ae06-0f962b6edce5 | -3.7745 | -46.0305 | 2024-11-17 01:00:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 62.9 |
-| 8c2c3de8-1a02-35f0-8ad3-1373d7ee419d | -2.8295 | -45.4868 | 2024-11-17 01:00:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 121.5 |
-| b5943290-d99d-32c6-9dcd-5a93b7368223 | -4.5616 | -47.9925 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 68.5 |
-| a9b9fb3c-91fd-328c-a0fc-0d3880f3027d | -1.9167 | -46.5584 | 2024-11-17 01:00:00 | GOES-16 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 152.6 |
-| d5e457e4-c5ce-3485-9d2e-dae76519fe1e | -2.9582 | -45.7957 | 2024-11-17 01:00:00 | GOES-16 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 129.8 |
-| 55feaa0c-6e82-3311-8a84-3ba82871936e | 0.6159 | -51.7676 | 2024-11-17 01:00:00 | GOES-16 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 73.6 |
-| c7baa7d7-82b9-36b7-97a9-d5d9bbb8a4df | -4.5799 | -48.0349 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 47.3 |
-| d783052c-0870-3525-b351-42d5824a7f42 | -4.4866 | -48.1045 | 2024-11-17 01:00:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 40.8 |
-| 9f51ed2d-dff9-3f9a-9b8d-98e170c4b413 | -2.5988 | -47.5488 | 2024-11-17 01:00:00 | GOES-16 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 94.7 |
-| d869e54f-518a-3c4e-af32-4d6fdbd4a43a | -3.52 | -50.24 | 2024-11-17 01:00:00 | MSG-03 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| db09e20a-a2b3-3235-bb4a-4d6906571473 | -1.9 | -46.56 | 2024-11-17 01:00:00 | MSG-03 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7e042b15-183d-375a-a424-c1a04c54cde2 | -9.12323 | -44.41467 | 2024-11-17 01:02:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| d2a996a2-6601-39f3-ab0f-a23a0976631e | -12.43759 | -43.79823 | 2024-11-17 01:02:00 | TERRA_M-M | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 694a6a18-be09-3a01-883f-23533a19c423 | -6.522 | -35.1666 | 2024-11-18 01:00:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 67.1 |
+| 5c335198-4f40-3e9c-b46f-5de3afcf3fdb | -2.8791 | -51.7932 | 2024-11-18 01:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 94.5 |
+| b0bff0a8-3717-3402-a717-3136fbbf34ef | -3.5678 | -50.2534 | 2024-11-18 01:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 47.9 |
+| cbab4be2-c6d3-3bee-b7b2-1f3566cf4f1c | -14.286 | -57.624 | 2024-11-18 01:00:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 49.7 |
+| 760dfa9c-668b-33a0-bda4-012e0480b0fd | -2.8607 | -51.7937 | 2024-11-18 01:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 134.5 |
+| 3c7e759b-807a-3f8e-83a8-63b04e1f4889 | -1.2964 | -51.7616 | 2024-11-18 01:00:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 103.0 |
+| 1751fa57-03c9-3340-9237-6c3923fb122c | -2.5846 | -51.7387 | 2024-11-18 01:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.8 |
+| 241b82f4-d6ad-336b-926b-d56868c358a2 | -1.7147 | -45.8307 | 2024-11-18 01:00:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 119.3 |
+| ee8321b7-cc6f-35a3-8b90-ba3a27dd9943 | -14.2857 | -57.6442 | 2024-11-18 01:00:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 44.4 |
+| 7a59e57c-75c9-3587-af3b-68eb6c853376 | -1.7324 | -46.1862 | 2024-11-18 01:00:00 | GOES-16 | BOA VISTA DO GURUPI | MARANHÃO | Brasil | 2101970 | 21 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| a30fb928-166a-388f-b110-d5b6e5daea09 | -3.775 | -45.9413 | 2024-11-18 01:00:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 139.4 |
+| fa4de846-cfc0-3e06-b324-a1007c3fdfc2 | -1.3148 | -51.7408 | 2024-11-18 01:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 321.3 |
+| 1d6eb65f-5d9c-34ae-89e7-e6a241451f2a | -1.6962 | -45.8311 | 2024-11-18 01:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 167.3 |
+| c66260ff-bd41-3193-bc48-3d430b9ec49b | -2.5073 | -47.2461 | 2024-11-18 01:10:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 103.6 |
+| f1f59f89-869b-34d6-ad91-c2e2be9d244e | -1.3148 | -51.7202 | 2024-11-18 01:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 84.1 |
+| d8a9be38-0667-3b49-a127-b7a4a9ead8c6 | -2.5846 | -51.7387 | 2024-11-18 01:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 51.5 |
+| 7d4710a1-dceb-35f5-b266-2af1714b0892 | -6.5407 | -35.1917 | 2024-11-18 01:10:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 79.9 |
+| a3dcee10-676e-3b99-9ed5-3bc04214e53b | -2.5847 | -51.7181 | 2024-11-18 01:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 101.0 |
+| cd6a955c-e18a-3bd5-84d8-44bb613e8800 | -1.7138 | -46.1866 | 2024-11-18 01:10:00 | GOES-16 | BOA VISTA DO GURUPI | MARANHÃO | Brasil | 2101970 | 21 | 33 | nan | nan | nan | Amazônia | 69.5 |
+| ef3d2a82-7bce-3062-9309-dc42e3d97ed0 | -3.3267 | -50.4923 | 2024-11-18 01:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| 603faa41-6b86-3304-b690-127964f78730 | -1.3148 | -51.7614 | 2024-11-18 01:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 122.3 |
+| 36907428-d907-3469-ab5d-1bf195752896 | -2.8792 | -51.7726 | 2024-11-18 01:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 71.6 |
+| 883a8ede-6bb2-3bd6-9c06-40ae240b039e | -3.7564 | -45.9422 | 2024-11-18 01:10:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 87.8 |
+| ec21a407-a81b-3010-9bb8-e17f7b33d71d | -3.6593 | -50.439 | 2024-11-18 01:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| 682e991d-b9aa-3ca3-a7aa-5f9a100e2317 | -1.6962 | -45.8087 | 2024-11-18 01:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 76.8 |
+| fbd50799-f7ed-32a5-a934-368a42e5cd9b | -3.775 | -45.9413 | 2024-11-18 01:10:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 100.4 |
+| 04125ea3-20a1-3597-909b-05ca021b1dac | -2.8607 | -51.7937 | 2024-11-18 01:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 133.6 |
+| d60ffe50-d699-37a7-8b14-95d61bb3c28a | -2.5074 | -47.2242 | 2024-11-18 01:10:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 81.4 |
+| 1173bd4d-cd03-328d-af8e-c158df53406a | -1.2964 | -51.7616 | 2024-11-18 01:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 137.7 |
+| 42d1703c-822b-3f6d-ab74-2bc9bb41642b | -3.6778 | -50.4384 | 2024-11-18 01:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 41.3 |
+| 0afa13ad-0cb5-3fc2-8a26-d0f827395f26 | -2.7659 | -52.6163 | 2024-11-18 01:10:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 116.4 |
+| 039dbef5-f286-3cf5-8b1f-5016cfe31518 | -2.8608 | -51.7731 | 2024-11-18 01:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| 2a3d7f58-a443-3d5f-bbeb-3ef24912b360 | -3.5678 | -50.2534 | 2024-11-18 01:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 44.6 |
+| 27a67510-f3f4-3bc9-971c-c04b26a19772 | -3.3452 | -50.4917 | 2024-11-18 01:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 61.8 |
+| 4d7967e5-9c94-3fc4-ab27-fef2222bef56 | -1.7147 | -45.8307 | 2024-11-18 01:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 129.3 |
+| 09ff930f-b540-38be-83e8-b0428522c6c0 | -1.2964 | -51.7204 | 2024-11-18 01:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 118.1 |
+| 3674a7de-1d6e-3406-b75b-d0eedf8cc1f0 | -3.0542 | -54.4081 | 2024-11-18 01:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 66.5 |
+| a5f0b60f-d5dd-3c44-ab63-81809baf40ba | -14.286 | -57.624 | 2024-11-18 01:10:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 51.2 |
+| 67a6d440-272b-3cfa-9b5d-bbefe9bf1ef2 | -6.5216 | -35.194 | 2024-11-18 01:10:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 85.3 |
+| 8b0e5f8c-8959-36d8-b143-4e5f325feb94 | -3.0764 | -53.2796 | 2024-11-18 01:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 62.3 |
+| ba99ffbb-db80-3535-a46f-de6f18643122 | -1.2964 | -51.741 | 2024-11-18 01:10:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 370.4 |
+| 82eb6997-eacc-32d2-b9db-eb4efa72909d | -14.2857 | -57.6442 | 2024-11-18 01:10:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 46.8 |
+| 6b4bab40-f8c5-331d-aa8e-ab7ffee4b69e | -2.8791 | -51.7932 | 2024-11-18 01:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 113.1 |
+| 6a9dac64-efff-3ff7-b02d-665b50c28c32 | -2.5847 | -51.7181 | 2024-11-18 01:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 87.5 |
+| cbc33e75-034d-3806-b9f8-e06de3899546 | -6.5407 | -35.1917 | 2024-11-18 01:20:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 62.5 |
+| cbb0c498-56f7-3a94-bb88-e55ab3faa60c | -1.3148 | -51.7408 | 2024-11-18 01:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 367.5 |
+| f1cb5730-137d-3797-b795-28d829860c69 | -1.2964 | -51.741 | 2024-11-18 01:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 319.0 |
+| b74034c2-7ab8-3272-a736-4f2ed7c072c4 | -2.8792 | -51.7726 | 2024-11-18 01:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 65.6 |
+| c1f80f92-6289-35c5-8641-662f5cc01e0a | -5.5292 | -43.3071 | 2024-11-18 01:20:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 50.0 |
+| 35a39182-e9cf-3e7f-8d41-e40b90bcb6a2 | -2.8607 | -51.7937 | 2024-11-18 01:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 125.9 |
+| 3495ca9e-1236-32bd-92e3-76905e78c99b | -3.6593 | -50.439 | 2024-11-18 01:20:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 50.1 |
+| 6070bad5-42a0-3cd5-92db-60f807ba97c1 | -3.3452 | -50.4917 | 2024-11-18 01:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 65.0 |
+| 3989dfc8-08e2-329f-bc9f-10568da411da | -3.5678 | -50.2534 | 2024-11-18 01:20:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 42.5 |
+| 5550bd35-5747-3336-a881-73e0615ba107 | -14.2857 | -57.6442 | 2024-11-18 01:20:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 34a9c8d1-757c-3047-a972-0c84e5bc40ce | -5.5479 | -43.3057 | 2024-11-18 01:20:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 54.7 |
+| 91693287-e625-3930-ae8e-0b8d4c028040 | -1.3148 | -51.7614 | 2024-11-18 01:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 90.7 |
+| fc2cd142-b3cd-39b4-aa32-c840a5cfc510 | -2.5074 | -47.2242 | 2024-11-18 01:20:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 108.6 |
+| ad74a9db-3ea8-3279-9074-e7b4fc3f587c | -1.7147 | -45.8307 | 2024-11-18 01:20:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 136.4 |
+| eb7e6aa0-690d-3e7d-b44a-beac5c388439 | -3.775 | -45.9413 | 2024-11-18 01:20:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 79.2 |
+| aa34cd1e-edd0-3986-8994-e76743ea5206 | -1.6962 | -45.8311 | 2024-11-18 01:20:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 151.5 |
+| 5d7b53e5-fac8-3c4b-a2ef-82a89dc70077 | -3.0542 | -54.4081 | 2024-11-18 01:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| abf6de06-ea29-3e78-88d0-10de32c014ab | -14.286 | -57.624 | 2024-11-18 01:20:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 50.9 |
+| e9552153-67e7-3df8-815e-0152e0a3c9e0 | -3.3267 | -50.4923 | 2024-11-18 01:20:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 57.8 |
+| 7b0e1c79-38b5-37e8-87b5-615f82d9be95 | -1.2964 | -51.7616 | 2024-11-18 01:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 92.1 |
+| 32c14486-b113-3d0c-8f04-499081abd4f3 | 0.966 | -51.1452 | 2024-11-18 01:20:00 | GOES-16 | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| fd302beb-72d9-3e63-a84f-295d00742cf6 | -2.7659 | -52.6163 | 2024-11-18 01:20:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 91.9 |
+| 98c984b1-ce51-3273-862e-dd74a631104b | -6.5216 | -35.194 | 2024-11-18 01:20:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 92.7 |
+| 607b836a-1de6-3a5b-b43d-9aa464737850 | -1.2964 | -51.7204 | 2024-11-18 01:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 92.5 |
+| 0d610f6c-5428-34bb-9fbd-3477f93904ac | -2.8608 | -51.7731 | 2024-11-18 01:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 88.0 |
+| 19f9dc2f-4a38-3921-a141-b21da438d0af | -2.5073 | -47.2461 | 2024-11-18 01:20:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 145.9 |
+| 100f628a-5622-321b-819b-cfdb9e42c667 | -1.6962 | -45.8087 | 2024-11-18 01:20:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 69.6 |
+| 6baebd1d-8a05-3597-acec-5030cb5c4d9c | -5.5481 | -43.2824 | 2024-11-18 01:20:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| 1ff576ce-2e55-37f9-8820-8e7d6d456454 | -2.8791 | -51.7932 | 2024-11-18 01:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 93.4 |
+| 19f22dd0-61de-38d9-9baf-7438c1cdf951 | -1.3148 | -51.7202 | 2024-11-18 01:20:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 94.6 |
+| 7907f10c-8b1e-33e6-9bab-a3169e1b5c13 | -6.5407 | -35.1917 | 2024-11-18 01:30:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 99.3 |
+| 2613ea16-1cb2-360b-8022-759ab0f1d48e | -2.8791 | -51.7932 | 2024-11-18 01:30:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 85.2 |
+| 840f499b-8688-340e-b8eb-b893238f5c47 | -2.8792 | -51.7726 | 2024-11-18 01:30:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 881d51b6-14ea-3c42-8cd0-33901ff52684 | -2.5258 | -47.2455 | 2024-11-18 01:30:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| 907a0836-b013-310b-b034-a1a5f86cfb84 | -10.0799 | -36.5294 | 2024-11-18 01:30:00 | GOES-16 | IGREJA NOVA | ALAGOAS | Brasil | 2703205 | 27 | 33 | nan | nan | nan | Mata Atlântica | 75.2 |
+| 919cecfd-dcaf-3cc2-8851-f2b316efdbae | -6.522 | -35.1666 | 2024-11-18 01:30:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 131.9 |
+| b812dcbf-a943-30b3-92d8-7d80f17b321b | -2.5072 | -47.2679 | 2024-11-18 01:30:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 104.6 |
+| b8a2d9a7-30bc-30e4-b75e-04f507be58a4 | -2.4889 | -47.2247 | 2024-11-18 01:30:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 67.8 |
+| e40400a9-146f-3825-a4f1-9cf5a617bfaa | -2.5847 | -51.7181 | 2024-11-18 01:30:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 82.4 |
+| d799a702-b828-34a1-9617-1ceb291ac74b | 0.966 | -51.1452 | 2024-11-18 01:30:00 | GOES-16 | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 87.2 |
+| ad6115a5-6743-354a-9189-2084ce82c103 | -6.5411 | -35.1643 | 2024-11-18 01:30:00 | GOES-16 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 63.7 |
+| f7de4b8c-72e5-3d73-b211-07a4bb8a0c9d | -1.2964 | -51.741 | 2024-11-18 01:30:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 271.5 |
+| 0c4fb6ce-d2f3-3e26-b1d7-3926c1fd636a | -2.8608 | -51.7731 | 2024-11-18 01:30:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 88.4 |
+| 07d3dcd6-1268-382b-9e69-0b789b7d153b | -1.3148 | -51.7614 | 2024-11-18 01:30:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 83.4 |
+| 51e3c69f-882d-3dbe-9e29-f7f061d93ec8 | -1.2964 | -51.7616 | 2024-11-18 01:30:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 81.9 |
+| 51dba49f-e020-3ad5-9917-6b590b240f46 | -3.3452 | -50.4917 | 2024-11-18 01:30:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 65.5 |
+| 3588fd86-38d4-302e-abda-7d30eec4fcff | -2.5073 | -47.2461 | 2024-11-18 01:30:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 478.8 |
+| 6a0f12f4-48af-37a7-8baa-169248d9ce8d | -3.0542 | -54.4081 | 2024-11-18 01:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 65.7 |
+| 752ff1c0-21a5-3d0d-8464-b2e95753878b | -2.8607 | -51.7937 | 2024-11-18 01:30:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 130.9 |
+| 6f08aca6-748f-3b29-9c62-e9f293af95c7 | -2.4888 | -47.2466 | 2024-11-18 01:30:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 111.6 |
+| e4635855-a49f-3be5-956e-409b9e395bf7 | -14.286 | -57.624 | 2024-11-18 01:30:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 52.4 |
+| c75d4f2e-9e58-3048-9683-6f9b5161c25e | -1.3148 | -51.7408 | 2024-11-18 01:30:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 293.6 |
+| 0fedd991-527c-3d4c-a87f-bf59070cd618 | -2.5074 | -47.2242 | 2024-11-18 01:30:00 | GOES-16 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 235.1 |
+| 5a2065e0-fe54-37da-838b-c3b359354d57 | -3.6593 | -50.439 | 2024-11-18 01:30:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| c074f258-ec83-3da3-93f5-f92c1a05db45 | -14.2857 | -57.6442 | 2024-11-18 01:30:00 | GOES-16 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 5d1770d3-c5df-3fe9-b8c2-0cce76927b9e | -1.2964 | -51.7204 | 2024-11-18 01:30:00 | GOES-16 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 85.8 |
 
 
 [Clique aqui para ver as próximas entradas](README11.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 11ff0d2e-2ea5-34c4-a504-5dbf48958cda | -3.6806 | -50.114498 | 2024-11-17 00:28:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ab9f4db1-09dd-3c65-930c-c37fadf5233a | -2.604 | -46.1866 | 2024-11-17 00:28:00 | METOP-C | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| e6ca20b4-6356-3ecc-851d-54d2f16ed91d | -2.6179 | -46.833099 | 2024-11-17 00:28:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 869ab904-c6e3-3735-964e-07a253bc841c | 0.6266 | -51.777901 | 2024-11-17 00:28:00 | METOP-C | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 6a624711-7920-351d-ba7f-9ee0aea94d5f | -3.2035 | -46.688301 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e4890a4-2a6b-3bda-875d-1928de4a22fa | -4.2911 | -42.191502 | 2024-11-17 00:28:00 | METOP-C | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 48ae130a-a9e8-39ce-a6e9-012cfdf26c81 | -2.5057 | -46.387798 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 6cbfbf0e-35fd-3105-ba18-75c786fe8800 | -3.2857 | -45.605099 | 2024-11-17 00:28:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 54725546-5e86-33a8-86bb-70b8cac2a9e5 | -2.6516 | -46.1688 | 2024-11-17 00:28:00 | METOP-C | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 16ab48e2-875d-30be-8497-85147758ea38 | -4.4431 | -42.9314 | 2024-11-17 00:28:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ed32ff95-a804-3611-8bf2-e65809cf6820 | -2.6277 | -46.830898 | 2024-11-17 00:28:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 98a7a075-5bad-3da6-885c-b76098918827 | -5.5723 | -44.8699 | 2024-11-17 00:28:00 | METOP-C | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| cbc639a0-8c6d-38cd-a3b1-1d8a55206a34 | -3.7855 | -46.030602 | 2024-11-17 00:28:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 7593b75d-b590-340c-9dc5-51502c055c37 | -0.8933 | -51.729198 | 2024-11-17 00:28:00 | METOP-C | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 51f36d70-f693-3299-8306-19b4a1126966 | -4.2052 | -48.698502 | 2024-11-17 00:28:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d9dfe114-afbb-305e-acac-1f737e221eec | -5.6918 | -46.571098 | 2024-11-17 00:28:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 172b6f7b-e338-3320-b7f7-0b59d876ab78 | -5.1964 | -44.222599 | 2024-11-17 00:28:00 | METOP-C | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d4d008f3-4fd1-3a7a-83a7-e9dbf2f75d8d | -3.0701 | -45.474499 | 2024-11-17 00:28:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 606637e5-49e9-3e36-a570-1c3083e5f3eb | -2.4659 | -45.674 | 2024-11-17 00:28:00 | METOP-C | SANTA LUZIA DO PARUÁ | MARANHÃO | Brasil | 2110039 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 28b91040-5cde-33c3-b983-2de24b61e17d | -2.9491 | -45.801899 | 2024-11-17 00:28:00 | METOP-C | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 967675e0-600f-3c83-aa09-68e9f1abb871 | -1.8329 | -46.602402 | 2024-11-17 00:28:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 90211106-2d67-3078-8595-ee1ffca66183 | -4.1009 | -46.8717 | 2024-11-17 00:28:00 | METOP-C | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| f66932d2-e369-3641-a921-a5e6c543b40a | -2.9637 | -45.820099 | 2024-11-17 00:28:00 | METOP-C | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 39ba48c3-cad6-3947-99dc-6641ca6a9633 | -4.9331 | -40.8433 | 2024-11-17 00:28:00 | METOP-C | IPAPORANGA | CEARÁ | Brasil | 2305654 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| b9b945df-6dfb-3214-ae5c-ffa8801d5d07 | -3.2504 | -46.532398 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| d62e73e5-a09d-3a21-8a35-d9544a1e74de | -2.2127 | -48.4007 | 2024-11-17 00:28:00 | METOP-C | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 31452432-11df-38a4-990a-52a5bfef967f | -2.6155 | -46.1912 | 2024-11-17 00:28:00 | METOP-C | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| caee2d0e-5254-3ad1-ae8f-c464fb7459bc | -1.491 | -47.406799 | 2024-11-17 00:28:00 | METOP-C | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0b9ef00c-68e9-3d2a-8cbe-afff896c3be4 | -3.1633 | -46.602501 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 44ace20c-72b8-3801-8bc6-ce136174d898 | -0.3192 | -51.510101 | 2024-11-17 00:28:00 | METOP-C | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| bccaba4c-1da0-3855-abd0-54c01a4a97cd | -2.6619 | -46.8452 | 2024-11-17 00:28:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3fcecab9-fd28-38ec-8d76-f86ee1b14465 | -8.9114 | -44.135601 | 2024-11-17 00:28:00 | METOP-C | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 066b8dbc-5574-35ad-8201-89c554a5dfe3 | -4.9861 | -44.071301 | 2024-11-17 00:28:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1f435e40-2d77-3cf5-99d5-7e27d30f46e7 | -3.252 | -46.539299 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| fabb1bc0-a75a-32bf-a6fa-bd5ed3f00afd | -1.2846 | -51.958401 | 2024-11-17 00:28:00 | METOP-C | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| df068c0d-46e3-36e7-847c-56833ea795e3 | -4.1025 | -46.878799 | 2024-11-17 00:28:00 | METOP-C | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 20f63038-c763-33e7-8c5a-b44666e656a4 | -10.6644 | -44.5 | 2024-11-17 00:28:00 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| c14a5662-476d-3a09-95ae-9775d1a935e0 | -2.6083 | -46.250099 | 2024-11-17 00:28:00 | METOP-C | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 751444ea-8c01-3340-979d-3c2fb3eb9c20 | -6.3004 | -39.4856 | 2024-11-17 00:28:00 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 66db49b3-d0d5-3952-b8ec-abfd3e5c5bdc | -2.6739 | -46.2211 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| ff2e9342-f9ee-3548-b6c7-906b7a7f75b7 | -2.6635 | -46.8521 | 2024-11-17 00:28:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e9f065f0-742b-38e1-ba1e-d3caed708980 | -4.2975 | -48.103401 | 2024-11-17 00:28:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 15515971-ecd1-3267-8d0a-b7cae5ccfd2c | -4.098 | -44.470699 | 2024-11-17 00:28:00 | METOP-C | SÃO MATEUS DO MARANHÃO | MARANHÃO | Brasil | 2111508 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 94552318-98c2-3ba3-bc17-51faa611fbfe | -4.4663 | -44.233299 | 2024-11-17 00:28:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3491e38a-dd0e-3de4-adc1-372c1651e281 | -8.4526 | -44.203899 | 2024-11-17 00:28:00 | METOP-C | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 7d5e99b2-45c0-31ca-b14e-117de25d9137 | -3.2826 | -45.591499 | 2024-11-17 00:28:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 2364f47b-c196-3e35-b8f6-22eb53348431 | -1.0147 | -47.758598 | 2024-11-17 00:28:00 | METOP-C | MARAPANIM | PARÁ | Brasil | 1504406 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b4dc0ae8-d2b3-36e3-b63f-2da123bbc29f | -2.6922 | -49.287399 | 2024-11-17 00:28:00 | METOP-C | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f36307ca-6b55-34cf-904c-fedf9c7d31fe | -2.1612 | -46.414299 | 2024-11-17 00:28:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fb86b122-4083-39f7-b030-e267b4da659b | -2.4778 | -45.635601 | 2024-11-17 00:28:00 | METOP-C | SANTA LUZIA DO PARUÁ | MARANHÃO | Brasil | 2110039 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 370adb8f-37fd-3851-9819-7f23f3892336 | -3.7953 | -46.0284 | 2024-11-17 00:28:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 27e30f98-3024-335e-92bc-921c9b22d6dc | -5.4036 | -46.345699 | 2024-11-17 00:28:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 6c93cff1-0994-36f0-b350-0d5400c23b0c | -5.6256 | -46.370098 | 2024-11-17 00:28:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| fe4757d5-c0be-3493-8e6e-fbba0701f834 | -2.9164 | -45.164501 | 2024-11-17 00:28:00 | METOP-C | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 329ef24c-4c46-3c95-a5c0-8eb366d26115 | -3.7772 | -46.0397 | 2024-11-17 00:28:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| ed5a1451-1122-35ce-bcf1-ce56e618b825 | -2.9207 | -45.4077 | 2024-11-17 00:28:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 1128519c-4eaa-3ba0-85c6-f4b1ba4da49f | -2.6511 | -46.211899 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 40c538fe-1602-3030-b758-dfe1316de78f | -10.6628 | -44.493099 | 2024-11-17 00:28:00 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 048c165d-34fa-3582-be7e-04fa00929937 | -1.9946 | -46.588001 | 2024-11-17 00:28:00 | METOP-C | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 6b1702d1-e3cf-334c-8664-3f950dcd3a2e | -2.6188 | -46.025799 | 2024-11-17 00:28:00 | METOP-C | MARANHÃOZINHO | MARANHÃO | Brasil | 2106375 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 1b2692a1-1532-34ab-9357-56939822369b | -2.5105 | -45.4636 | 2024-11-17 00:28:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 109b14e8-673e-3836-a8c8-378a20e0ed74 | -8.4494 | -44.190102 | 2024-11-17 00:28:00 | METOP-C | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 4b6f87a3-4f39-3912-8e6d-8a2891960a84 | -2.8283 | -45.5 | 2024-11-17 00:28:00 | METOP-C | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 62082b1c-1163-34d8-a1b5-6415fdbd2306 | -2.226 | -46.832901 | 2024-11-17 00:28:00 | METOP-C | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ea041714-1bfd-350a-9144-437947788502 | -5.265 | -47.1898 | 2024-11-17 00:28:00 | METOP-C | JOÃO LISBOA | MARANHÃO | Brasil | 2105500 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 7eb4095f-fb8d-3f22-8a3a-f613090582cd | -2.239 | -46.844601 | 2024-11-17 00:28:00 | METOP-C | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 090c8380-f100-3ba9-8cf6-fa98ed7de160 | -2.2374 | -46.837601 | 2024-11-17 00:28:00 | METOP-C | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 085a7941-6b85-30de-b8f2-d1eeae9f29bc | -3.9529 | -46.719601 | 2024-11-17 00:28:00 | METOP-C | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 45034939-3a47-3a68-86aa-4b3fb705a74f | -2.5961 | -47.550701 | 2024-11-17 00:28:00 | METOP-C | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a0cc54da-e4a2-38b8-9505-a3855fe1f84f | -2.0586 | -46.552101 | 2024-11-17 00:28:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3b940a3b-f012-328a-b2e4-816ed92d122c | -0.8908 | -51.717999 | 2024-11-17 00:28:00 | METOP-C | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 5ce813dc-ebdb-3e42-a6c1-77e70ad13a09 | -3.0147 | -47.442799 | 2024-11-17 00:28:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c550529c-03bd-3dd1-9b3a-e100e1ee0d61 | -4.2117 | -47.223301 | 2024-11-17 00:28:00 | METOP-C | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 0f9a735f-4d19-3ea0-91f7-ec26e2c96a49 | -4.0506 | -44.757999 | 2024-11-17 00:28:00 | METOP-C | BACABAL | MARANHÃO | Brasil | 2101202 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 97299b1d-be57-338d-89f0-2177c0d55f17 | -2.1226 | -46.5163 | 2024-11-17 00:28:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 11ad727b-90df-35f5-b566-195a25289909 | -3.3226 | -50.486198 | 2024-11-17 00:28:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 6d601042-d3f8-36c4-a86c-66d913e65e2b | -3.0105 | -45.394699 | 2024-11-17 00:28:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| c6e42ce1-15a2-325a-9cc5-e6bcebd86aab | -3.6222 | -50.220299 | 2024-11-17 00:28:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 829f299e-73ef-3996-99de-0550bba237b8 | -4.0522 | -44.7649 | 2024-11-17 00:28:00 | METOP-C | BACABAL | MARANHÃO | Brasil | 2101202 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| e2bf1886-73b0-3ab1-9b53-8799a8f0ae0a | -4.5343 | -45.246799 | 2024-11-17 00:28:00 | METOP-C | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 6fc274a2-ee29-3011-a824-d3702d8ea2c9 | -1.5599 | -47.347099 | 2024-11-17 00:28:00 | METOP-C | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 288d3668-650c-3e8b-83e6-82097c34b232 | -3.8882 | -46.616402 | 2024-11-17 00:28:00 | METOP-C | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| dda1bf01-49c2-3f9c-8379-5e7c581475d5 | -0.7703 | -49.482399 | 2024-11-17 00:28:00 | METOP-C | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| adbd3bc4-abcd-38b4-90eb-2a67e58cd67c | -3.1403 | -45.4659 | 2024-11-17 00:28:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 6a18b84d-2570-319c-aaac-6c253123b919 | -2.5986 | -51.7826 | 2024-11-17 00:28:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2dc7462e-d7da-38a8-8a5c-26d9e86e3983 | -0.8959 | -51.740501 | 2024-11-17 00:28:00 | METOP-C | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| 99945246-5b53-379b-a300-e8d2926ce461 | -3.0925 | -45.977299 | 2024-11-17 00:28:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| c1eccc9c-70b8-35fd-a897-e776bc34b203 | -4.722 | -46.838501 | 2024-11-17 00:28:00 | METOP-C | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 829f0389-1bef-33e8-bd0c-eed6ee13d5e8 | -1.8313 | -46.5956 | 2024-11-17 00:28:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c4f6e841-2e13-332a-aaf5-d9d9421bb3c4 | -3.9415 | -46.714699 | 2024-11-17 00:28:00 | METOP-C | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| c991b0db-4947-38e8-86d4-0b4f2ab2fe31 | -2.8236 | -45.479599 | 2024-11-17 00:28:00 | METOP-C | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e8180a5-5e8b-3ae9-8bb8-838cd159aa43 | -4.2891 | -42.183201 | 2024-11-17 00:28:00 | METOP-C | BOA HORA | PIAUÍ | Brasil | 2201770 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 31e28984-9cfe-3d30-9a35-f09807b78c6f | -2.3205 | -45.175301 | 2024-11-17 00:28:00 | METOP-C | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 48c1c11c-7334-3258-a958-fc20f0109c5d | -1.4894 | -47.3997 | 2024-11-17 00:28:00 | METOP-C | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7f8a4609-7555-319d-b499-a1136a0e2976 | -2.6805 | -46.205299 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 096602c2-869e-3b00-bf1b-021174f520ef | -2.9653 | -45.8269 | 2024-11-17 00:28:00 | METOP-C | ARAGUANÃ | MARANHÃO | Brasil | 2100873 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 34ef0022-73ba-39ed-bebd-f6ec8337c207 | -2.6317 | -46.5326 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 5470c212-4078-35b0-b1cb-fdfe3dfa3f43 | -3.5167 | -50.253799 | 2024-11-17 00:28:00 | METOP-C | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| eca3486b-c86d-397d-a093-23046d48905e | -0.9057 | -51.7383 | 2024-11-17 00:28:00 | METOP-C | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| c41e1992-e8c9-3ebc-a4c6-4ae120740543 | -2.6197 | -46.2547 | 2024-11-17 00:28:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 522dbf58-5367-3c05-a174-f46e56897017 | -2.7553 | -52.633999 | 2024-11-18 00:09:00 | METOP-C | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 4f1709e2-4af6-39ee-b743-f1c15c851a9b | -2.9684 | -49.091702 | 2024-11-18 00:09:00 | METOP-C | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d7439faa-9506-38ec-b987-a1ed74c529f5 | -10.5128 | -36.747799 | 2024-11-18 00:09:00 | METOP-C | JAPOATÃ | SERGIPE | Brasil | 2803401 | 28 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 7615fe6e-7e46-3d43-a2b9-50ad6298c4d9 | -5.6066 | -36.875 | 2024-11-18 00:09:00 | METOP-C | IPANGUAÇU | RIO GRANDE DO NORTE | Brasil | 2404705 | 24 | 33 | nan | nan | nan | Caatinga | nan |
+| 81a3db26-ed33-3e51-b8f1-4eeba6dd03e1 | -9.288 | -46.198502 | 2024-11-18 00:09:00 | METOP-C | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1ac70520-60b2-3ca5-81a6-4bdf3c6acf6d | -4.3876 | -44.7206 | 2024-11-18 00:09:00 | METOP-C | SÃO LUÍS GONZAGA DO MARANHÃO | MARANHÃO | Brasil | 2111409 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0e4c6541-f37f-35d9-b7fc-0e4b2b758703 | -10.1134 | -36.366199 | 2024-11-18 00:09:00 | METOP-C | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b3387ac1-20e5-3f7a-91dd-b7f2fbaa9e63 | -2.9725 | -49.1101 | 2024-11-18 00:09:00 | METOP-C | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5fd9ec39-e998-3e2d-8fd5-556c3ea0d3c7 | -2.4096 | -45.7411 | 2024-11-18 00:09:00 | METOP-C | SANTA LUZIA DO PARUÁ | MARANHÃO | Brasil | 2110039 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 8ea8a417-8f04-399c-91c5-7176ae69b512 | -3.2675 | -43.761101 | 2024-11-18 00:09:00 | METOP-C | MORROS | MARANHÃO | Brasil | 2107100 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 819a6c59-e3bf-3780-8980-16233fa7647b | -5.5618 | -46.4174 | 2024-11-18 00:09:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 03c3cde4-1f18-3789-8508-494eaa31d634 | -5.2498 | -44.074501 | 2024-11-18 00:09:00 | METOP-C | SENADOR ALEXANDRE COSTA | MARANHÃO | Brasil | 2111748 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 366f26c2-cc73-3884-a738-18734b6a91bd | -3.2266 | -45.5401 | 2024-11-18 00:09:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| b28a1705-761a-39a8-acc4-410b91583463 | -2.5683 | -51.707401 | 2024-11-18 00:09:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 88c3a5ae-199f-3df1-b238-6072260b11a2 | -2.6516 | -46.222 | 2024-11-18 00:09:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 98bd4c71-2f80-306c-9b92-3044efb6b593 | -2.6418 | -46.224098 | 2024-11-18 00:09:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| e6ec06f0-f2c5-3de9-b2d0-0fef10f2d1ba | -4.9457 | -44.507401 | 2024-11-18 00:09:00 | METOP-C | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 90fc8fc8-2e6a-3749-bc5e-9be2a4cf37f7 | -3.157 | -46.6007 | 2024-11-18 00:09:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 034fe151-3f82-39d1-b4c4-3ee855c4c2b0 | -5.9501 | -48.0653 | 2024-11-18 00:09:00 | METOP-C | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 82a1bcb4-2aed-3a7a-b349-9ed0cc97e764 | -5.4827 | -43.2757 | 2024-11-18 00:09:00 | METOP-C | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6154f0e3-3e1c-3bd0-8af5-bb974522478a | -3.3436 | -45.604198 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| a6e69ff9-409b-378d-bde8-f27dd072716f | -2.6257 | -46.834801 | 2024-11-18 00:09:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0004bb2e-9765-3c9a-9197-88e6e493ec5f | -5.3289 | -40.902802 | 2024-11-18 00:09:00 | METOP-C | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| d318ccf4-3676-3c45-a2b7-f7b0d619fcd4 | -2.7506 | -52.567902 | 2024-11-18 00:09:00 | METOP-C | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3cde6912-267f-3a3b-846d-820d53db7e68 | -2.1688 | -46.4006 | 2024-11-18 00:09:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d253b2bf-94ef-34a8-a2df-bd09c42b9038 | -5.9403 | -48.067299 | 2024-11-18 00:09:00 | METOP-C | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e04c1088-2007-35f8-a29a-c70dc700195c | -7.7077 | -45.666599 | 2024-11-18 00:09:00 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1791363f-99e9-3cb3-96ef-b9daae1c7cd5 | -4.3454 | -45.865898 | 2024-11-18 00:09:00 | METOP-C | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 6a82b872-0dab-3d12-bf5f-86f23bcaee4a | -3.2661 | -46.1731 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 6fd19526-27a5-3c8a-978c-5da23dfac953 | -2.5621 | -51.679901 | 2024-11-18 00:09:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 63cbd41e-2d1a-39ee-a18a-706cd9956d34 | -3.3179 | -45.9925 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| c9c0513d-4b95-3a6f-9ea5-2ee64c49fbf0 | -10.1115 | -36.358398 | 2024-11-18 00:09:00 | METOP-C | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2983b23e-156d-32d3-abd4-478b73b540c2 | -2.1138 | -45.3423 | 2024-11-18 00:09:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 9aea5bbc-d160-3d25-aeef-6d57389a38ee | -4.8154 | -44.474998 | 2024-11-18 00:09:00 | METOP-C | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8be56527-681f-3bae-ba61-868295285b1c | -3.746 | -45.935398 | 2024-11-18 00:09:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 1724ef49-1cc8-3fb6-ac37-b586543c1395 | -3.038 | -44.338501 | 2024-11-18 00:09:00 | METOP-C | BACABEIRA | MARANHÃO | Brasil | 2101251 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 15f3f550-2732-3138-a941-71dcf222f9cd | -3.3183 | -46.223202 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 35a98ce8-54b6-37f0-a71c-c7a4da39e776 | -2.8537 | -51.762501 | 2024-11-18 00:09:00 | METOP-C | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e59a1a19-71d6-3b22-b49e-0964b0e87e0e | -3.1759 | -45.451698 | 2024-11-18 00:09:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 8baf482e-1975-3d99-943c-f9232d1a83cc | -4.9857 | -44.318001 | 2024-11-18 00:09:00 | METOP-C | DOM PEDRO | MARANHÃO | Brasil | 2103802 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 347e4d22-afe5-355c-a6df-1918ffab2ac7 | -3.3019 | -45.738499 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 6f16a7e2-453e-3bc5-90ec-87c5f0d0041f | -4.3479 | -45.877499 | 2024-11-18 00:09:00 | METOP-C | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 1b6a4879-3b6f-3a46-a5c2-8bfdc0d4c668 | -10.5111 | -36.740299 | 2024-11-18 00:09:00 | METOP-C | JAPOATÃ | SERGIPE | Brasil | 2803401 | 28 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 80800203-b50d-3765-8342-f1670e17efe1 | -2.8319 | -46.658501 | 2024-11-18 00:09:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 38de98ae-9aba-3177-8a57-aa8879bd56e0 | -2.5717 | -51.677799 | 2024-11-18 00:09:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ac18ebc-34a6-3ea1-a034-c082b191bf61 | -10.1097 | -36.350601 | 2024-11-18 00:09:00 | METOP-C | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| f4fee4a0-9eb3-324b-a718-8fe17ad32621 | -6.1653 | -42.925598 | 2024-11-18 00:09:00 | METOP-C | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 4cb6be5d-4ba0-35d7-87cc-dd7698e4abda | -3.7485 | -45.9468 | 2024-11-18 00:09:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 1ca6b2ea-5f98-3172-ae68-79cc347c21e7 | -5.9463 | -48.048 | 2024-11-18 00:09:00 | METOP-C | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e73b8bde-0a32-3776-bde2-67d6ad260d8e | -10.1036 | -36.368599 | 2024-11-18 00:09:00 | METOP-C | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | nan |
+| baf2875e-f907-3da3-abd7-b0bfa2dcb842 | -6.7497 | -34.9902 | 2024-11-18 00:09:00 | METOP-C | MARCAÇÃO | PARAÍBA | Brasil | 2509057 | 25 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 161ac10e-4abd-356a-ac72-d80ef958c5e8 | -4.559 | -45.628502 | 2024-11-18 00:09:00 | METOP-C | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 296f8297-7f9c-3d7c-8d6a-cb87b40c3038 | -6.5288 | -35.188599 | 2024-11-18 00:09:00 | METOP-C | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 48dd2510-3b61-3e6a-b6be-39c0f01cfa97 | -2.8221 | -46.660702 | 2024-11-18 00:09:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bd95a18a-eb01-3552-b448-b7d3e7d92ec5 | -4.3898 | -44.7304 | 2024-11-18 00:09:00 | METOP-C | SÃO LUÍS GONZAGA DO MARANHÃO | MARANHÃO | Brasil | 2111409 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 878cbcbc-3339-3948-b920-850e773c82c7 | -4.676 | -41.1138 | 2024-11-18 00:09:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| e70c118e-312e-31e9-b6a1-e11bbe5a6ca8 | -1.2715 | -51.708302 | 2024-11-18 00:09:00 | METOP-C | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 51c124b0-942b-30aa-8d88-aa322d92c4b9 | -5.3273 | -40.895901 | 2024-11-18 00:09:00 | METOP-C | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 7127f07c-15e5-3d3d-baa7-ac1c6a52149f | -5.5107 | -41.067501 | 2024-11-18 00:09:00 | METOP-C | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 18d77f6b-bcd6-3b1f-9d25-cabefd104b3d | -5.5647 | -46.430599 | 2024-11-18 00:09:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0311b2c6-523b-387f-ab4d-de020971c682 | -1.7506 | -45.688202 | 2024-11-18 00:09:00 | METOP-C | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| aa3cd4e8-e083-31a9-bb10-09c8eeecbebc | -4.4896 | -46.377998 | 2024-11-18 00:09:00 | METOP-C | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 397e063f-a520-3381-9db9-cb686493d022 | -6.7423 | -35.002499 | 2024-11-18 00:09:00 | METOP-C | MARCAÇÃO | PARAÍBA | Brasil | 2509057 | 25 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 1722fcec-0522-3d16-bc19-9d14de872917 | -5.5025 | -41.076801 | 2024-11-18 00:09:00 | METOP-C | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| c18ddce9-6262-3cce-8123-f8b9bfee9853 | -7.393 | -42.762402 | 2024-11-18 00:09:00 | METOP-C | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 4c8c1ecd-8533-3dfe-b21f-6ce950cd56ec | -4.1563 | -43.916901 | 2024-11-18 00:09:00 | METOP-C | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 537b7260-c076-3dbf-9c57-0f1975a3c9b2 | -7.0965 | -39.293598 | 2024-11-18 00:09:00 | METOP-C | CARIRIAÇU | CEARÁ | Brasil | 2303204 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 18322939-5747-3f58-8d18-50071118f271 | -6.3928 | -44.7444 | 2024-11-18 00:09:00 | METOP-C | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1a1d10e3-ca32-3ca6-8e65-ea27d66a75b3 | -1.2908 | -51.704102 | 2024-11-18 00:09:00 | METOP-C | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3821e99e-30db-3733-8d76-849ec53470a2 | -6.3294 | -39.6828 | 2024-11-18 00:09:00 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| b3bfbebc-506e-3a93-9241-e72f71dd94b7 | -5.6732 | -42.702099 | 2024-11-18 00:09:00 | METOP-C | MONSENHOR GIL | PIAUÍ | Brasil | 2206407 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| ba8872fe-1891-3e69-a580-38c2c6f3c18f | -4.0355 | -45.487598 | 2024-11-18 00:09:00 | METOP-C | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 3c03b6d4-3484-3c37-ac37-7bc077395ee9 | -9.0749 | -40.5196 | 2024-11-18 00:09:00 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| 2d1c6591-f13b-3cab-b051-d6f366117521 | -3.1668 | -46.598598 | 2024-11-18 00:09:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| ffb81539-9b8a-3b4d-b554-e15916ccfb78 | -3.2635 | -46.1614 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| ced1aeac-60da-35de-8c84-64251262a36e | -1.2811 | -51.7062 | 2024-11-18 00:09:00 | METOP-C | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 757e853e-44ff-3539-99d7-4b6f1a8cea90 | -2.4617 | -45.608101 | 2024-11-18 00:09:00 | METOP-C | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 44068bf2-3ff4-303d-a7dd-6da8569ab1a4 | -2.1635 | -46.377399 | 2024-11-18 00:09:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ca712788-05cf-3fcb-b1c4-26bb8c972243 | -2.6706 | -46.169701 | 2024-11-18 00:09:00 | METOP-C | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 8e15014c-29bb-3ac3-8349-34ad47ed0370 | -7.6479 | -35.335999 | 2024-11-18 00:09:00 | METOP-C | VICÊNCIA | PERNAMBUCO | Brasil | 2616308 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| b1041db6-dd66-377b-9212-9350660623ca | -4.7745 | -46.463299 | 2024-11-18 00:09:00 | METOP-C | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| dc88d5e0-e1b4-34ed-9fbd-d7126aff5c39 | -4.2017 | -44.027401 | 2024-11-18 00:09:00 | METOP-C | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6692d9db-e4c7-33dd-9247-1b64ccc25268 | -3.323 | -46.015301 | 2024-11-18 00:09:00 | METOP-C | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| a9e9ad7c-3f35-3648-8f2c-720250a54546 | -1.8925 | -46.4491 | 2024-11-18 00:09:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 447d9de1-6c2d-33cb-ae3e-e196e2218b0d | -4.8021 | -42.215801 | 2024-11-18 00:09:00 | METOP-C | CAMPO MAIOR | PIAUÍ | Brasil | 2202208 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| bf161a3f-370a-3559-8ab5-d993d427bcdc | -3.1834 | -45.439201 | 2024-11-18 00:09:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 68fb6b33-41c5-3708-9d43-e3dbca3585eb | -8.8748 | -40.821499 | 2024-11-18 00:09:00 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| 6ecbf031-0340-3578-a181-cced19f53949 | -4.9878 | -44.327499 | 2024-11-18 00:09:00 | METOP-C | DOM PEDRO | MARANHÃO | Brasil | 2103802 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7b0a147d-2ec6-3784-8bd9-9756ebf706d7 | -6.3905 | -44.733898 | 2024-11-18 00:09:00 | METOP-C | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 47db387f-fc16-3b12-9d00-8514e611387c | -2.2211 | -46.4505 | 2024-11-18 00:09:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5c7b021e-4303-3f2e-b548-1c73704ccb54 | -5.1334 | -44.335701 | 2024-11-18 00:09:00 | METOP-C | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4f0d73c7-6a8d-3edb-a501-ccba357120f8 | -5.1355 | -44.3452 | 2024-11-18 00:09:00 | METOP-C | GONÇALVES DIAS | MARANHÃO | Brasil | 2104404 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8782caae-4276-3ff7-b59f-7659ded42e5a | -7.705 | -45.653999 | 2024-11-18 00:09:00 | METOP-C | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 868689f9-2a02-3282-bdd8-39a7568d8eb6 | -2.6685 | -46.2062 | 2024-11-18 00:09:00 | METOP-C | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| fd161eba-c461-34f1-82ec-69ee0eccf439 | -7.6501 | -35.3452 | 2024-11-18 00:09:00 | METOP-C | VICÊNCIA | PERNAMBUCO | Brasil | 2616308 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| 6aa696f2-6447-33fe-83c4-1c3c6c53d8cb | -3.7861 | -46.023399 | 2024-11-18 00:09:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 7b7d9d83-7d42-359c-9a38-82ccb30190ef | -7.052 | -35.2183 | 2024-11-18 00:09:00 | METOP-C | SAPÉ | PARAÍBA | Brasil | 2515302 | 25 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5bcfd218-414d-336b-9937-6c46d66d72ac | -1.2968 | -51.7304 | 2024-11-18 00:09:00 | METOP-C | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ffce9c4a-049a-3b31-ad0e-51a2d9bead73 | -3.7558 | -45.9333 | 2024-11-18 00:09:00 | METOP-C | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 7d158f8b-4ea6-3966-b53e-f5cd3f38439d | -2.7314 | -52.572102 | 2024-11-18 00:09:00 | METOP-C | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | nan |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
