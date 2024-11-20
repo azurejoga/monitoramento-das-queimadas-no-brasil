@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f0489024-a3e6-3143-aeb1-24750bcc1755 | -23.97067 | -54.13469 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 743197fe-db79-3755-af43-dd2275db5d9b | -22.30714 | -49.76392 | 2024-11-19 05:14:00 | NPP-375D | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| d3967634-d6eb-3caa-87ab-d37e94a78131 | -23.96907 | -54.14955 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 09a7d674-6834-3120-ae51-bc425d965e99 | -22.30677 | -49.7682 | 2024-11-19 05:14:00 | NPP-375D | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| 0704da5f-3b1a-3d74-a6df-17c94ab2b06e | -23.97415 | -54.1452 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 54f37798-7674-3dac-9d5b-da837883e354 | -23.97468 | -54.14025 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 50d26a8e-c632-3212-b07a-435bb0f4ce53 | -23.95403 | -54.11739 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 45499ef8-dba6-30d6-9756-946dac078eea | -23.96664 | -54.12913 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 9d0eddfc-efef-3324-83d5-e0da567d47a7 | -23.96262 | -54.12356 | 2024-11-19 05:14:00 | NPP-375D | MUNDO NOVO | MATO GROSSO DO SUL | Brasil | 5005681 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| 81e1ed54-2b5f-3174-8e42-b6862be8c260 | -5.9788 | -45.3621 | 2024-11-19 05:20:00 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 63.7 |
-| 43417953-5c73-35ff-be82-9f568361ddbc | -5.9788 | -45.3621 | 2024-11-19 05:30:00 | GOES-16 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 95823447-30c9-3cbc-8d43-477b9c503cf3 | -4.5429 | -48.0151 | 2024-11-19 05:30:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 135.1 |
-| d78efbb1-5546-32a4-8551-e6329551e633 | -4.5614 | -48.0141 | 2024-11-19 05:30:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 110.5 |
-| 7dc09c1d-c4a6-3268-8db0-6da7fa4cc1a4 | -1.51945 | -60.32965 | 2024-11-19 05:31:00 | NOAA-20 | PRESIDENTE FIGUEIREDO | AMAZONAS | Brasil | 1303536 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2097c7de-7773-33f6-8f03-148c0379330f | -2.76405 | -52.60601 | 2024-11-19 05:31:00 | NOAA-20 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 70522994-242e-3156-b796-4229af66035c | -3.04371 | -54.40186 | 2024-11-19 05:31:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 101aeecf-74a9-3a7d-9eb4-8f3781ea3dbf | 1.18804 | -60.22195 | 2024-11-19 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| bb3a4135-c910-325d-a0ee-9247cee50793 | -3.18773 | -53.24308 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0d75881a-e369-3c41-aa2c-49432212981b | -2.84981 | -54.0112 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 03e9a518-4d05-3ba7-98f7-5895cdea24a6 | -1.70472 | -52.15069 | 2024-11-19 05:31:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 320582dc-3d1e-3f44-a775-fd961026105a | -2.85028 | -54.00799 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 2ec81760-8338-33a2-a505-33f749e00aa2 | -2.60854 | -54.54053 | 2024-11-19 05:31:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ecbf31db-915e-3042-acfd-d940cc6a0f7e | -2.58795 | -51.72056 | 2024-11-19 05:31:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 2f62a007-c17d-3b7e-892c-dbf6b33ddc66 | -1.20427 | -51.77387 | 2024-11-19 05:31:00 | NOAA-20 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4d1060a0-f89e-3ec4-8b50-25b69ee4e492 | -3.66325 | -50.44822 | 2024-11-19 05:31:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| b850688c-a303-3da7-83da-0e902c38a637 | -1.14281 | -51.6974 | 2024-11-19 05:31:00 | NOAA-20 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 1d3b61c5-17b0-3e92-8078-d3cbbd3faaa4 | -0.85416 | -48.75188 | 2024-11-19 05:31:00 | NOAA-20 | CACHOEIRA DO ARARI | PARÁ | Brasil | 1502004 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 424313b2-f99e-3b1a-9e49-6fe4964494a5 | -1.24942 | -52.05775 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| dc858e88-ac0a-3e11-9494-a5b26f7336c6 | -3.36507 | -50.82726 | 2024-11-19 05:31:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 29cba684-e37f-397e-8f40-0675a0e1cd5b | -2.90014 | -53.0534 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6cf63cba-c0d9-3f29-b76b-1b3a0bb885bf | -1.37605 | -52.08396 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 35859db9-80b8-3b5c-9b1e-e31c19fc1078 | -0.94333 | -51.7253 | 2024-11-19 05:31:00 | NOAA-20 | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 99b2b9ca-13c4-3d16-a2b6-a2ec2f8322de | -3.20339 | -52.44324 | 2024-11-19 05:31:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4182ab6c-ff1e-3fd5-ac39-3a5cfd22103c | -2.68722 | -51.81009 | 2024-11-19 05:31:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b511ea54-67ca-3e88-b807-17b286c7c5f7 | -3.06932 | -53.28127 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 82645ab0-e13f-336e-b4ec-0be7144add40 | -1.20562 | -51.76514 | 2024-11-19 05:31:00 | NOAA-20 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 46d9133e-79de-3e34-a158-7f199d489a82 | -3.04089 | -49.47652 | 2024-11-19 05:31:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 36c8e166-499b-3c4c-a62b-056330382ac9 | -0.93257 | -52.49965 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 03d673a4-6731-36e3-9083-84ed441c4719 | -2.61358 | -54.54135 | 2024-11-19 05:31:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4b6b38ef-e8f7-3c0b-af27-320d2f27098f | -2.76986 | -52.60656 | 2024-11-19 05:31:00 | NOAA-20 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 53547ef9-78b3-3e8a-bdf7-a7b073633197 | -1.59209 | -53.80951 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d5046a5b-05f1-38d5-9f98-c4e7d7c17bfa | -3.51527 | -53.80059 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 34c47f0b-8b96-3f9f-a9e9-10f596391ade | -2.42729 | -54.62009 | 2024-11-19 05:31:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 6e06a919-e99a-3530-a3c6-764dcf97dfbe | -0.94927 | -51.72622 | 2024-11-19 05:31:00 | NOAA-20 | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 1e431b73-bbd6-3dba-8688-8d2a0478235f | -1.58217 | -53.80015 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| c411cf0f-7d48-3282-af07-168c53cc96b0 | -1.29933 | -52.23291 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7e4c1e26-d400-3720-be00-aa31336b4e82 | -3.71607 | -51.84743 | 2024-11-19 05:31:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f95e5b39-1106-3b91-8f19-060c520a1a59 | -2.86608 | -51.79068 | 2024-11-19 05:31:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 138cf5d4-2996-311b-b726-8f1df31138d8 | -2.77048 | -52.60238 | 2024-11-19 05:31:00 | NOAA-20 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| effdaa19-4fbc-31eb-b3cf-d588b2c20265 | 1.18464 | -60.22248 | 2024-11-19 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2f98924f-511c-36ec-b97f-bdb32367bb63 | -3.1088 | -53.74439 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 9666f6ca-cd25-3496-8a0b-d2e3fb72c03e | -3.51576 | -53.79737 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ef58d139-2ff9-315d-bbfb-282ef125cf15 | 1.18861 | -60.2256 | 2024-11-19 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cf4d0a24-c4a9-3f4e-8ee1-d31e86ced314 | -3.3142 | -54.17096 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| e2899713-39b3-38e9-9d49-5ef36bd0d384 | -3.98408 | -49.91691 | 2024-11-19 05:31:00 | NOAA-20 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e21b4eab-0def-3570-9de1-69b46086bc36 | -3.36719 | -54.10439 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8f131308-c0a2-392a-b74b-4d4a37be2804 | -2.787 | -54.07086 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2aa783c0-e679-3d9a-bb80-8bad1f04e351 | -3.65999 | -50.447 | 2024-11-19 05:31:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1715100d-205f-3546-a58f-0027c83c242f | -1.20359 | -51.77823 | 2024-11-19 05:31:00 | NOAA-20 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| dd15c2ff-2017-353e-9fc8-c8f4a0c0e335 | -3.59818 | -53.99792 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 7def0df7-53a4-3b75-9c73-6d01f48bbf97 | -0.95521 | -51.72713 | 2024-11-19 05:31:00 | NOAA-20 | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 89ac0201-df4b-35d5-944f-17607647adf9 | -3.71061 | -51.8418 | 2024-11-19 05:31:00 | NOAA-20 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9d86e1f7-9622-324b-9aa9-3edda972b948 | -1.64018 | -52.67776 | 2024-11-19 05:31:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 0ba40330-33a2-3c7e-bdfb-e53907f4bded | -1.07486 | -53.36845 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 93227797-1499-3a4d-97d3-1b544923242d | -3.55499 | -51.53244 | 2024-11-19 05:31:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 05672984-3771-3b0d-a515-cbc7c3dd0ff7 | -1.62508 | -55.1467 | 2024-11-19 05:31:00 | NOAA-20 | CURUÁ | PARÁ | Brasil | 1502855 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| b9d786ce-13c3-37fe-a0ee-0478899560f5 | -3.06823 | -53.28873 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 31f9ae13-70a4-32e7-9af3-6e0154eeae4c | -3.04838 | -54.40572 | 2024-11-19 05:31:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| effbfdb4-b332-3b68-bce4-32a78f119d04 | -2.21728 | -53.7934 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0f0befd7-de92-391c-b7d5-752387c3e4d7 | -3.34089 | -53.31367 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a49931e3-3fea-3f14-ad9c-510035e2644e | -2.6637 | -51.71751 | 2024-11-19 05:31:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 353bf7f1-18b8-3cd8-a347-1b2e647e1786 | -2.36759 | -53.68113 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 54d3889f-b4db-3433-a0fb-5ab8b9d55c35 | -3.06424 | -53.28111 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fdadc580-140e-3d35-969c-4c2e00b7e21d | -3.10293 | -53.74696 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f0b6c62c-0c48-3635-bdc6-58f7b9692535 | -1.25006 | -52.0536 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| ee5692c0-adbe-3820-ae42-6db550eb4529 | -1.58165 | -53.80342 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 8b5c5d43-23ee-3596-a80c-cb152be1bba0 | -3.36588 | -50.82168 | 2024-11-19 05:31:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 20b74541-48ea-37b2-997e-1fc2aba5b768 | -1.58782 | -53.80233 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 24e0fe4d-757d-3178-8bf1-d55bfc6264ed | -2.77633 | -52.60265 | 2024-11-19 05:31:00 | NOAA-20 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 2edeef10-5d35-39bb-925d-c85bd1927f5e | -1.42259 | -52.43777 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 87588c73-ff83-3a44-9a33-d0a4d3afbc45 | -1.33721 | -56.03582 | 2024-11-19 05:31:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7646047b-8c8f-3206-8ad9-04d18980da9e | -3.1078 | -53.75117 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b0a425d7-c7a2-3f2f-b464-3aa2949cadc7 | -1.39518 | -52.42592 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3a579c2d-529e-3ac7-a0bc-aa99dddc05d6 | -3.18103 | -53.25007 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 607e5fe9-0cad-34c5-b797-b3d98fcce03d | -1.24485 | -52.04856 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 10d65f6f-aea9-39d7-a99e-d804654774ad | -3.59867 | -53.99468 | 2024-11-19 05:31:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 6b57309e-c4f7-3ce3-98ea-a069518556a8 | -3.06367 | -53.28484 | 2024-11-19 05:31:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0323eeaa-4c98-3249-a537-413d993e051c | -3.05812 | -54.41064 | 2024-11-19 05:31:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0094a48c-c130-3d02-9760-1f0afe0634e2 | -1.9501 | -54.45791 | 2024-11-19 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 78619331-53eb-32d7-8296-c2fd8f28dba7 | -1.43289 | -53.3838 | 2024-11-19 05:31:00 | NOAA-20 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 17b82efe-d358-30ea-af4c-0a7d6fdd5e61 | -3.09921 | -51.31975 | 2024-11-19 05:31:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9d6dc260-31a6-3ff5-b86e-6366750d2758 | -1.92421 | -54.05832 | 2024-11-19 05:31:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 8.5 |
-| 512cb8d6-f173-3249-95f3-cdbe03ccf59e | -1.5869 | -53.8041 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| e232e088-2960-3d37-9b66-3de184b51362 | -1.70534 | -52.14664 | 2024-11-19 05:31:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 02ada289-74a4-30fb-a55f-2d4075ee00e5 | -1.58685 | -53.8088 | 2024-11-19 05:31:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 043a9e4e-4991-33fb-a029-dcf3be9f15dd | -1.63765 | -52.67648 | 2024-11-19 05:31:00 | NOAA-20 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 5c2b0909-6d34-3df4-bddc-651cb53a2856 | -1.53615 | -60.33612 | 2024-11-19 05:31:00 | NOAA-20 | PRESIDENTE FIGUEIREDO | AMAZONAS | Brasil | 1303536 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ea40c2e9-66bd-3516-afd8-8daf3ab0d6db | -2.58726 | -51.72515 | 2024-11-19 05:31:00 | NOAA-20 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 628569a4-acda-301a-a064-1b70e249063c | -3.04884 | -54.40265 | 2024-11-19 05:31:00 | NOAA-20 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d38f1581-fcd5-3085-abc1-3a69cd4a00ee | -2.95894 | -51.41684 | 2024-11-19 05:31:00 | NOAA-20 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 4795413d-2f74-3de6-903d-c755d1f24d98 | -5.05637 | -49.86143 | 2024-11-20 04:50:00 | NPP-375D | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 868576bb-de7d-368d-b771-88cc6a46244f | -2.0268 | -51.1779 | 2024-11-20 04:50:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5f7ec38f-3184-322f-93d0-9adfe3d3adab | -1.63641 | -52.68021 | 2024-11-20 04:50:00 | NPP-375D | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e39a73b2-4247-3700-bf58-a094cd01b362 | -2.33914 | -54.79015 | 2024-11-20 04:50:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 5aec0598-d1bf-32a2-b330-bffe3b9f7f25 | -1.83873 | -50.80154 | 2024-11-20 04:50:00 | NPP-375D | MELGAÇO | PARÁ | Brasil | 1504505 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d2fbc286-fcdc-3792-a072-2646762c2acb | -3.11547 | -53.70216 | 2024-11-20 04:50:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5a4aa296-366a-3def-a1ea-f117be2d0960 | -4.15404 | -43.97802 | 2024-11-20 04:50:00 | NPP-375D | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| d811d94d-c954-3c78-9e9a-b37f82d42c33 | -3.98818 | -49.91305 | 2024-11-20 04:50:00 | NPP-375D | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| e57321d2-cb6e-3f7a-be19-38b90ec6ddf7 | -2.63954 | -46.22019 | 2024-11-20 04:50:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3f48380f-c463-3ede-b6d6-e9b3b7ce4551 | -5.97481 | -45.36442 | 2024-11-20 04:50:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 203dbeb7-bca2-363a-b8b2-44c4f9edcf95 | -1.09279 | -51.7384 | 2024-11-20 04:50:00 | NPP-375D | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 26d9f2ec-43eb-3d7d-ac80-9c7fe395839e | -2.16088 | -46.38773 | 2024-11-20 04:50:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f64e1a14-c1eb-3322-94f4-e78a635cb45a | -1.48164 | -51.97611 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5b8c9a55-8005-3b58-acd9-1cfb25efde63 | -2.80569 | -51.79764 | 2024-11-20 04:50:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 0ec33d45-bfe4-3ec8-b809-b22dfb0ac555 | -5.97942 | -45.36521 | 2024-11-20 04:50:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 24fe079d-1d1d-3986-881a-6cc425af1c74 | -2.60441 | -48.21507 | 2024-11-20 04:50:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d6261b1d-56c8-386b-b4a7-ebc1eafc86f9 | -0.92383 | -51.65149 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ebc53f92-da24-3dfa-9ec5-2923752ee061 | -6.2449 | -47.27304 | 2024-11-20 04:50:00 | NPP-375D | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| ce2cd127-d1f5-3870-a248-bd424531d546 | -2.86286 | -54.03643 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 105fd6af-4a9f-3cff-b9e7-ee99d58fec08 | -1.38655 | -52.55753 | 2024-11-20 04:50:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b768719a-4a9a-39e4-8375-1f65498b711e | -0.936 | -51.72052 | 2024-11-20 04:50:00 | NPP-375D | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2bf78019-6c28-3ed5-bf7a-c92f99dc7343 | -8.32312 | -45.11337 | 2024-11-20 04:50:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 19be6334-86ae-3675-b39b-02cf40240e0e | -1.20832 | -51.77749 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 298af9ea-903b-30ae-9f99-c48187c06721 | -2.59619 | -48.29222 | 2024-11-20 04:50:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| df04378f-28da-3cd1-ad47-f52430d72268 | -2.4924 | -49.02914 | 2024-11-20 04:50:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 0c94e619-229e-3300-b558-b48f1631bd35 | -2.77553 | -48.57741 | 2024-11-20 04:50:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 327fd3a7-1923-3ea5-9599-8b107fa3677c | -3.28597 | -53.8358 | 2024-11-20 04:50:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 321b565e-1088-30e7-b0a5-ed9a93595034 | -0.48675 | -52.08173 | 2024-11-20 04:50:00 | NPP-375D | LARANJAL DO JARI | AMAPÁ | Brasil | 1600279 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 8b557b9a-22b5-3d3d-83f6-4ad8c9cce2cd | -3.18273 | -54.31643 | 2024-11-20 04:50:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 37dfea4b-98d3-35af-ba1c-c393f8e0aebf | -4.13887 | -47.7342 | 2024-11-20 04:50:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 394a9cc8-1102-3027-93d4-3795597d12a5 | -2.99865 | -45.4412 | 2024-11-20 04:50:00 | NPP-375D | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| e7d04813-d329-3cdc-8a04-a8060b8a75ed | -3.20204 | -54.33147 | 2024-11-20 04:50:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| b2f3b466-d95a-3cee-97e7-5606d2067a2f | -0.96483 | -51.73209 | 2024-11-20 04:50:00 | NPP-375D | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 07f83ac1-aefe-39bc-b367-8e87630672a4 | -2.69226 | -46.07652 | 2024-11-20 04:50:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| faf03b6a-1411-3035-a208-cd4fe3e91d6c | -3.63465 | -51.01968 | 2024-11-20 04:50:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 791bfd91-abab-3888-8058-e9bf01ac8296 | -2.2814 | -53.63312 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7a8020d0-21cf-3714-a37b-7c4047cad484 | -2.51454 | -44.99697 | 2024-11-20 04:50:00 | NPP-375D | PERI MIRIM | MARANHÃO | Brasil | 2108405 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d90acefd-39c0-37b5-a7f3-d2c61ca280d1 | -2.76684 | -52.59878 | 2024-11-20 04:50:00 | NPP-375D | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 84f98321-fd50-336f-9fd3-2b243fcdb0a0 | -3.22249 | -53.84195 | 2024-11-20 04:50:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 6c541f04-65e3-398a-889d-ec7803b3c3c8 | -2.11991 | -48.55164 | 2024-11-20 04:50:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d6a510a1-ac62-3476-80a0-fd699b2a1e2f | -2.64071 | -46.21275 | 2024-11-20 04:50:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| cb0cb818-7a14-398f-a1ec-a918f68b2841 | -2.56136 | -54.07045 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 3432aa5a-607b-39c6-9c53-e8719ca75a09 | -1.38197 | -51.5534 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a62a2e56-7020-3789-90f6-2299dcb944d4 | -3.24052 | -48.78063 | 2024-11-20 04:50:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| a1708163-081a-3437-bb63-0d2bbf4bd6db | -3.7768 | -53.96144 | 2024-11-20 04:50:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4f83379b-0613-3ac1-92a9-66e540a17636 | -0.92915 | -51.6345 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ca256c50-e195-3141-93ac-20c7e344f9ca | -3.24145 | -48.43331 | 2024-11-20 04:50:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 571d51bf-fd36-3ca9-9a4a-ca0eacfce325 | -2.80183 | -51.80057 | 2024-11-20 04:50:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 5f19880a-184e-37eb-9096-da32ab190cb0 | -4.09025 | -51.0723 | 2024-11-20 04:50:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a3a3a061-5263-338a-80b5-23c24daa3ded | -1.15197 | -53.51535 | 2024-11-20 04:50:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8defa7f3-498f-36c0-8089-6177558bca78 | -1.13777 | -51.68508 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 70e9cc31-5661-31f6-bf63-0414f0de94f4 | -1.20717 | -51.76314 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c96bec9e-cfdb-3ec8-828d-197c708a385b | -2.24452 | -50.07714 | 2024-11-20 04:50:00 | NPP-375D | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 52076a70-904f-334c-8e41-5d37dc67d0b4 | -0.81285 | -51.60236 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b20e76c6-2c47-3591-8024-57d3a0927c26 | -2.53084 | -54.01395 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| efb95d1c-a376-3ac8-839d-cd58ae7797d8 | -2.82218 | -54.02213 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| d0e9a3ad-8d58-3f71-b32a-28c9afd5bc48 | -2.49302 | -49.02522 | 2024-11-20 04:50:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 88af43ab-79a7-39d4-ad12-e003b8cf31f5 | -2.72883 | -49.34375 | 2024-11-20 04:50:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 82114b80-ca06-3bf3-9173-a481eff1b779 | -3.88368 | -52.23584 | 2024-11-20 04:50:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 8b9286e1-9251-330d-90ce-b1e25b37464c | -2.61128 | -54.05414 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 52aa0850-5631-3824-945c-d776ee64348d | -2.73825 | -48.65149 | 2024-11-20 04:50:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 85576de6-2205-3744-8ff5-9e8b542b6d02 | -5.44402 | -45.58094 | 2024-11-20 04:50:00 | NPP-375D | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 8a8727bf-66ac-31c2-9cba-d463d2269eed | -3.59512 | -43.62399 | 2024-11-20 04:50:00 | NPP-375D | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ac49f60c-fd6d-3f1f-9ffc-4529d9da1f5a | -1.61895 | -52.41298 | 2024-11-20 04:50:00 | NPP-375D | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 7dca66da-6bc8-3c7b-8812-f584129eb666 | -2.38419 | -49.85403 | 2024-11-20 04:50:00 | NPP-375D | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0f2c33a2-f961-37cb-8857-b156ca307c1a | -3.41402 | -51.6526 | 2024-11-20 04:50:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a1d54162-6ec2-38d3-bfc5-bf22c25f0d99 | -9.17546 | -44.71803 | 2024-11-20 04:50:00 | NPP-375D | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 39e6cc56-2dc1-3722-b397-a6f808b82c79 | -1.39044 | -55.62676 | 2024-11-20 04:50:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 338c3e28-fa05-39b9-8da2-6634b4fc61dd | -1.53383 | -52.02732 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e0f85ac6-7240-3691-897e-62363979fb7c | -2.90374 | -53.05636 | 2024-11-20 04:50:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 22feef6d-ac1d-350e-9b4f-7f1361498dba | -2.78723 | -51.7206 | 2024-11-20 04:50:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| fc9c627d-bab0-3341-b102-621fc32e7a73 | -2.78391 | -51.72009 | 2024-11-20 04:50:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 5f843ae5-df45-3f6e-90e0-df6db8707b4a | -2.59923 | -54.01255 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 8c59c2c0-38e5-3081-a056-1e9f6da38546 | -2.92962 | -53.06783 | 2024-11-20 04:50:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| d84e64bf-463a-3942-80ec-ae59e6d61665 | -2.7861 | -48.60428 | 2024-11-20 04:50:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| abf9f8d4-9933-3acc-b7bf-626744652781 | -1.14665 | -51.69354 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 751c8c17-6356-311e-b8f0-d632eb4c203c | -3.11143 | -53.70534 | 2024-11-20 04:50:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| b4846536-fbed-3e7e-940b-c444ed7fa099 | -5.5134 | -46.44329 | 2024-11-20 04:50:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 601b69ba-0a2b-3a77-b669-d6c9deaf3019 | -3.28761 | -53.84762 | 2024-11-20 04:50:00 | NPP-375D | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a11cf769-19d3-318f-9376-87e23891d763 | -1.14387 | -51.68957 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 0d30c060-ae99-3d65-a150-f7f44a10a012 | -4.0803 | -50.03696 | 2024-11-20 04:50:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| df0a370b-3379-3d7a-abe2-678dae4ffc82 | -0.90898 | -51.78369 | 2024-11-20 04:50:00 | NPP-375D | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d439119a-e37b-3f41-b331-70a93e1521c9 | -3.88561 | -52.37442 | 2024-11-20 04:50:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| d1781fc2-9edc-3f9a-ac43-a22d6026c722 | -2.64795 | -46.14367 | 2024-11-20 04:50:00 | NPP-375D | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a1f7d15f-d045-3ca0-ab74-075ba38da911 | -4.63003 | -49.54169 | 2024-11-20 04:50:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ca6a4376-7fb5-3e87-901f-361a715b1683 | -2.27974 | -48.41096 | 2024-11-20 04:50:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 994488aa-4517-3fca-8a0c-8de647e7c8e5 | -3.10566 | -53.1058 | 2024-11-20 04:50:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| f615b00d-94f5-3505-973f-72bc8abe3122 | -1.25104 | -52.04362 | 2024-11-20 04:50:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 9387f953-1992-3892-9ebc-c6b472fca76a | -0.90565 | -51.78318 | 2024-11-20 04:50:00 | NPP-375D | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 5ec2fd66-d483-3b1d-9416-feac5f3912fa | -1.13194 | -51.68431 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fdff2ebe-7586-3199-8c86-31ce555676e6 | -2.13148 | -49.502 | 2024-11-20 04:50:00 | NPP-375D | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| ac5738ea-0cc4-3c8a-8a4f-c1fb98f7c4e7 | -2.59345 | -54.00372 | 2024-11-20 04:50:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 7289ac9c-b59b-39e8-812e-5851c70df7ff | -1.43273 | -52.28648 | 2024-11-20 04:50:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 30690c53-9f95-3b6f-9a6c-34ab0c5b2a75 | -1.35021 | -51.43568 | 2024-11-20 04:50:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 71a2f558-6a6c-38bd-bc99-8b01cd75e82c | -4.46294 | -46.58787 | 2024-11-20 04:50:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| e69830be-8d2b-39ef-97e5-c633d8218b79 | -2.74607 | -51.83073 | 2024-11-20 04:50:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 17b9ee58-a0d2-3958-be2a-f89848bb9855 | -4.1206 | -46.85201 | 2024-11-20 04:50:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d0e5ca76-c4ac-3ed9-ad30-5e8d64f8b09a | -4.06306 | -46.84758 | 2024-11-20 04:50:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| d88d2faf-a8d8-3a3b-9c96-2ec30203723b | -1.85959 | -47.82476 | 2024-11-20 04:50:00 | NPP-375D | SÃO DOMINGOS DO CAPIM | PARÁ | Brasil | 1507201 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 8a465845-f59b-3967-ac01-3b9d554aed29 | -2.26562 | -45.46017 | 2024-11-20 04:50:00 | NPP-375D | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
 
 
 [Clique aqui para ver as próximas entradas](README47.md)
