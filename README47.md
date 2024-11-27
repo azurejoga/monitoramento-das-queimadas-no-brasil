@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 458f0436-b717-3e20-9608-13db1aca85f4 | -2.08719 | -46.59921 | 2024-11-26 12:53:00 | TERRA_M-T | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 13.9 |
-| b01ddf61-2e4e-3329-99a8-9b7291090155 | -3.72693 | -50.1928 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 33.7 |
-| 0950d609-ab6c-35e7-b727-c0086ac5590b | -3.45195 | -42.08448 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 41.9 |
-| 3f9422f4-9ae8-3c22-b2ce-09815bd7634c | -2.94185 | -44.92311 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO JOÃO BATISTA | MARANHÃO | Brasil | 2111003 | 21 | 33 | nan | nan | nan | Amazônia | 18.9 |
-| a4f38025-2627-30a7-b53f-f8a34503a39a | -3.27389 | -51.26505 | 2024-11-26 12:53:00 | TERRA_M-T | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| b9afdc4b-c953-3eb7-a527-0de85b5ae1c3 | -6.65725 | -47.30562 | 2024-11-26 12:53:00 | TERRA_M-T | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 266563af-0fe9-3f2f-9ef2-47dede5f6fc4 | -3.09912 | -41.98948 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 669.5 |
-| 3747bd62-ca9e-3134-9e4b-01db87838e88 | -6.84099 | -50.41959 | 2024-11-26 12:53:00 | TERRA_M-T | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | 17.5 |
-| 3ae42cd1-1a14-324b-a420-e9dc0c642c59 | -3.57687 | -41.93813 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 184.4 |
-| 82817e2d-0485-355d-b068-92a8334a67c5 | -3.0603 | -53.2697 | 2024-11-26 12:53:00 | TERRA_M-T | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 15.3 |
-| 894e77b4-06db-36e4-8d04-24eebcad2b53 | -3.33433 | -42.17863 | 2024-11-26 12:53:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 50.2 |
-| e4c3f746-2daf-3aa7-88db-385d082d3f20 | -2.1938 | -46.36423 | 2024-11-26 12:53:00 | TERRA_M-T | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 30.4 |
-| 9fc26d8d-8eb6-3f15-b406-b2fea76b71fd | -1.17569 | -47.53806 | 2024-11-26 12:53:00 | TERRA_M-T | IGARAPÉ-AÇU | PARÁ | Brasil | 1503200 | 15 | 33 | nan | nan | nan | Amazônia | 15.1 |
-| a0742dea-41ab-37be-8de2-44755154d976 | -3.97576 | -48.08157 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 127.2 |
-| d2809d68-a625-3007-8625-e3535f5e36b8 | -3.0675 | -49.19858 | 2024-11-26 12:53:00 | TERRA_M-T | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 7a0b513f-6d5c-30ca-be49-fa4f56dc955b | -3.50315 | -50.46109 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 19.3 |
-| 46dfac9b-8658-3a3f-9901-4cf130f38f5a | -6.13009 | -46.90899 | 2024-11-26 12:53:00 | TERRA_M-T | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 7d1ec0e1-d0ba-330c-bf39-9f7fdcf44495 | -2.93343 | -48.01844 | 2024-11-26 12:53:00 | TERRA_M-T | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 22.2 |
-| cb2358f4-e8a4-3b9b-aa04-41be0063b769 | -1.65613 | -52.42628 | 2024-11-26 12:53:00 | TERRA_M-T | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 91.0 |
-| ce131a6f-46bd-3914-ac1c-9af321973bab | -3.57159 | -41.93183 | 2024-11-26 12:53:00 | TERRA_M-T | CARAÚBAS DO PIAUÍ | PIAUÍ | Brasil | 2202539 | 22 | 33 | nan | nan | nan | Caatinga | 71.9 |
-| 238da26b-323b-347c-a95c-39ef1f49e31a | -5.50323 | -47.65044 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO MIGUEL DO TOCANTINS | TOCANTINS | Brasil | 1720200 | 17 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 65871919-7e36-3962-be7f-bc99f1ba4b36 | -4.02958 | -45.53931 | 2024-11-26 12:53:00 | TERRA_M-T | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 42.3 |
-| ef0774cd-8acb-38e4-8b48-a5bcb6826c83 | -3.09303 | -41.98202 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 99.9 |
-| 1c9ac697-8929-3e65-b440-f5f04ad0cedf | -3.05112 | -42.35 | 2024-11-26 12:53:00 | TERRA_M-T | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 50.8 |
-| 289d80b4-b989-3b5e-ab6e-be8b361e99d3 | -3.58239 | -42.10752 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 59.2 |
-| 845fccc7-7e43-3aa7-aa8d-057f30a848f8 | -4.26089 | -48.66489 | 2024-11-26 12:53:00 | TERRA_M-T | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 19.1 |
-| 24bfa833-e256-3972-bb00-8236aff75afc | -3.28968 | -51.15842 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 14.2 |
-| aa7a10ba-b0ae-322d-a6d0-4840962741cd | -1.57758 | -48.65221 | 2024-11-26 12:53:00 | TERRA_M-T | BARCARENA | PARÁ | Brasil | 1501303 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| b7d7427b-beeb-38e1-a4cf-9fd5ebdf70e1 | -2.94675 | -42.56156 | 2024-11-26 12:53:00 | TERRA_M-T | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 19.1 |
-| 38f74e13-3c3a-38f5-97f9-c5df54ddfe25 | -2.94406 | -42.56676 | 2024-11-26 12:53:00 | TERRA_M-T | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 20.6 |
-| b96c1b0f-9764-3287-be23-38e8d2ddd261 | -5.44327 | -43.23729 | 2024-11-26 12:53:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 27.1 |
-| ef982cea-de88-3f80-be6c-4a859ce6fa01 | -3.96938 | -48.0618 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 164.2 |
-| 71ba4b41-dab7-3996-8cbb-7ff32ed28ec3 | -3.45834 | -50.83034 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 11.8 |
-| dbbfac85-f831-3482-a64e-cf98dc6c01b4 | -3.97843 | -48.06301 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 84.8 |
-| 3faff41b-4ea0-3442-b6dc-2d77d959e619 | -1.86252 | -44.82507 | 2024-11-26 12:53:00 | TERRA_M-T | CURURUPU | MARANHÃO | Brasil | 2103703 | 21 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| dff8f88c-b8e0-3703-818d-7f5ea11b8da3 | -3.46284 | -42.05546 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 22.8 |
-| 3dfdc4d7-a12b-3f81-a3a8-e70f1fc67736 | -3.73532 | -49.94912 | 2024-11-26 12:53:00 | TERRA_M-T | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 6f517f36-4ead-3cbe-942a-5e5d5c094e42 | -3.0898 | -42.00511 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 178.6 |
-| 5cfddaea-aa88-3144-8ef6-806186686e72 | -3.32707 | -42.17202 | 2024-11-26 12:53:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 21.9 |
-| 2974489a-f15a-3ad1-9e98-b2d5dd932c33 | -3.58214 | -41.95781 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 44.9 |
-| 4ac9dfba-2552-326c-a72e-a2005d0f597b | -3.39117 | -44.17554 | 2024-11-26 12:53:00 | TERRA_M-T | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 114.0 |
-| 432c1144-4c90-353e-97fe-25d2fd49d78d | -1.21846 | -46.32842 | 2024-11-26 12:53:00 | TERRA_M-T | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 29.0 |
-| 8aac882d-96ae-3216-a1cc-9e776a55faa8 | -3.08839 | -41.96437 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 85.3 |
-| 8a148e15-0b76-3d76-94f3-32b9ebfc2561 | -1.30693 | -47.653 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO FRANCISCO DO PARÁ | PARÁ | Brasil | 1507409 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| d4ebc1a5-d3e7-3a28-a353-4bb4fe44012e | -1.84704 | -47.74648 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO DOMINGOS DO CAPIM | PARÁ | Brasil | 1507201 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 3452bd81-fb69-3535-9084-0274daac9b77 | -1.52343 | -47.68605 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO MIGUEL DO GUAMÁ | PARÁ | Brasil | 1507607 | 15 | 33 | nan | nan | nan | Amazônia | 32.3 |
-| 1b1a0c5d-2bd8-314a-88b3-f07461c125b4 | -3.57366 | -41.96231 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 186.1 |
-| bd56af4a-3be8-3406-bcf4-fcddc4ea0594 | -3.27332 | -48.98923 | 2024-11-26 12:53:00 | TERRA_M-T | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 10.4 |
-| 5689b59c-1f3b-3b14-89d6-e6a8cd7c41e4 | -3.59822 | -50.37925 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 04a478a2-0123-3329-bf38-7ad07207be81 | -4.07357 | -46.54339 | 2024-11-26 12:53:00 | TERRA_M-T | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 24.2 |
-| 74592046-c0d2-3da5-9a0c-54c8f773227f | -2.07768 | -46.59789 | 2024-11-26 12:53:00 | TERRA_M-T | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 24.8 |
-| 5e5bd3e8-a703-3039-9e5b-c028c2e8bbfb | -3.16698 | -42.37131 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| 377f3e00-c234-3aed-90ed-da7732e94b70 | -3.9268 | -50.08804 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| d10e77a8-90b7-3707-8ed7-54b7dae9b508 | -2.59119 | -47.44668 | 2024-11-26 12:53:00 | TERRA_M-T | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 16.6 |
-| d833301e-3a5f-31e6-ab51-37b8af3acc37 | -1.21699 | -46.33882 | 2024-11-26 12:53:00 | TERRA_M-T | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 23.7 |
-| 4794df9c-9d03-3e0d-92f4-6ae3d7d44df8 | -3.97709 | -48.07232 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 55.9 |
-| 4e259204-24bb-3096-8184-186706b8ef5a | -1.30563 | -47.66213 | 2024-11-26 12:53:00 | TERRA_M-T | SÃO FRANCISCO DO PARÁ | PARÁ | Brasil | 1507409 | 15 | 33 | nan | nan | nan | Amazônia | 13.8 |
-| 190f4887-be97-3c7f-aed1-7e680bb27507 | -1.73211 | -46.30164 | 2024-11-26 12:53:00 | TERRA_M-T | BOA VISTA DO GURUPI | MARANHÃO | Brasil | 2101970 | 21 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 54a67c66-304b-34b6-80ba-5352d0e3c02b | -3.64392 | -41.54319 | 2024-11-26 12:53:00 | TERRA_M-T | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 40.5 |
-| a4e75506-3b4b-343b-845a-3f1085ba8e4a | -3.58555 | -41.93369 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 28.0 |
-| c245513d-9c60-3891-93c0-74d8965c8873 | -3.10917 | -51.25896 | 2024-11-26 12:53:00 | TERRA_M-T | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 18.2 |
-| 44cd8858-7741-3a65-abd9-b5543a153ef3 | -3.39333 | -44.15984 | 2024-11-26 12:53:00 | TERRA_M-T | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 38.2 |
-| fcea67f6-c284-3eba-a10a-03beb33dd8b8 | -1.47092 | -52.29146 | 2024-11-26 12:53:00 | TERRA_M-T | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 41.5 |
-| 53fa054e-6028-358e-8ece-7de7e4fb711d | -2.88501 | -48.7331 | 2024-11-26 12:53:00 | TERRA_M-T | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 29.5 |
-| b57dabde-a364-3151-bfba-b9607066d950 | -4.38922 | -47.77099 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
-| 14e9fe40-43bb-374e-acce-92f86916f826 | -3.40182 | -41.4165 | 2024-11-26 12:53:00 | TERRA_M-T | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 52.9 |
-| 8770ceba-1fed-366e-a62c-36d541cb4896 | -4.66854 | -47.94084 | 2024-11-26 12:53:00 | TERRA_M-T | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 17.0 |
-| da8110c5-bf6b-3a10-bfda-b0b757b7355d | -3.68418 | -50.22628 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 14.6 |
-| ac4a0b2c-e983-3224-8e09-2892f6a2e589 | -0.3729 | -51.53947 | 2024-11-26 12:53:00 | TERRA_M-T | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 16.8 |
-| 66f6f344-97c5-3691-9f4b-1ae589cdb9b8 | -1.92528 | -50.58458 | 2024-11-26 12:53:00 | TERRA_M-T | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 12.5 |
-| 11b05083-6af9-3c48-94c4-65495ad2b52b | -5.45355 | -43.25902 | 2024-11-26 12:53:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 25.3 |
-| 78928172-4193-3fd2-9923-6d9f56b2f1ae | -3.18491 | -42.23896 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 101.3 |
-| 1c4a1a92-02ab-3dbe-9b6b-862c50599423 | -3.96673 | -48.0803 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 108.2 |
-| 46af14de-f5e8-3982-88b4-71b89b111ae6 | -4.45724 | -41.96792 | 2024-11-26 12:53:00 | TERRA_M-T | CAPITÃO DE CAMPOS | PIAUÍ | Brasil | 2202406 | 22 | 33 | nan | nan | nan | Caatinga | 57.0 |
-| 87739910-e18b-3be4-bd83-1fc738c7c10e | -2.34777 | -48.43153 | 2024-11-26 12:53:00 | TERRA_M-T | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 0c9747e9-f10b-3575-8139-1b256250939a | -2.34906 | -48.42266 | 2024-11-26 12:53:00 | TERRA_M-T | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| bfb0ae4b-e2e4-3e44-bd69-778ea66e29cb | -3.65705 | -45.06927 | 2024-11-26 12:53:00 | TERRA_M-T | IGARAPÉ DO MEIO | MARANHÃO | Brasil | 2105153 | 21 | 33 | nan | nan | nan | Amazônia | 13.6 |
-| 8cfb5a03-39ee-372a-9402-2a73fc1abc9e | -3.9707 | -48.05254 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 17.5 |
-| 33217773-0e31-3eb8-8162-804514cb5170 | -1.06204 | -48.01133 | 2024-11-26 12:53:00 | TERRA_M-T | VIGIA | PARÁ | Brasil | 1508209 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| af10c824-80c4-3635-9d22-c1462985a3e6 | -3.94243 | -47.99173 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 62e5c490-15c9-3ebc-957c-f8031e2e779c | -3.97443 | -48.0908 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 105.1 |
-| 9db235e7-8560-31f6-ae5f-69101a2ecb9f | -3.11016 | -41.96031 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 44.5 |
-| 76822c42-eb83-39c7-8944-996b0b787628 | -3.16881 | -51.10916 | 2024-11-26 12:53:00 | TERRA_M-T | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 1d12f00e-075d-38db-8557-dcb0c198e55e | -0.3574 | -51.99306 | 2024-11-26 12:53:00 | TERRA_M-T | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| fd9ae524-15fb-38ff-8151-5f6a9fa97ba3 | -3.03915 | -48.505 | 2024-11-26 12:53:00 | TERRA_M-T | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 7f6484f4-845e-3215-a5bd-e168d28f2ad4 | -5.53672 | -43.41777 | 2024-11-26 12:53:00 | TERRA_M-T | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 35.9 |
-| 646247e2-0644-3a77-bc05-d4588efced6d | -3.32389 | -42.19497 | 2024-11-26 12:53:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 59.7 |
-| a015795c-2838-343c-9021-56290e224100 | -4.2596 | -48.67386 | 2024-11-26 12:53:00 | TERRA_M-T | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 16.5 |
-| 72f904b8-29b3-393c-b7ef-72335cecbe4a | -3.33131 | -42.20164 | 2024-11-26 12:53:00 | TERRA_M-T | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Caatinga | 38.6 |
-| 0b85ce4d-5021-307a-aeef-545f4f35f28e | -4.45296 | -41.96181 | 2024-11-26 12:53:00 | TERRA_M-T | CAPITÃO DE CAMPOS | PIAUÍ | Brasil | 2202406 | 22 | 33 | nan | nan | nan | Caatinga | 48.2 |
-| d327b4d4-6f88-3755-b34c-a22249afbbd9 | -1.13479 | -48.33541 | 2024-11-26 12:53:00 | TERRA_M-T | BELÉM | PARÁ | Brasil | 1501402 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 840add03-e8db-3569-9612-4624a2e75a70 | -3.94375 | -47.98241 | 2024-11-26 12:53:00 | TERRA_M-T | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| a47cb8b2-4ea7-3253-8262-b0cdcf8656ed | -3.05402 | -42.32824 | 2024-11-26 12:53:00 | TERRA_M-T | TUTÓIA | MARANHÃO | Brasil | 2112506 | 21 | 33 | nan | nan | nan | Cerrado | 28.4 |
-| 3376c0ee-4317-3819-9ce3-78c984aad43b | -4.53946 | -42.95304 | 2024-11-26 12:53:00 | TERRA_M-T | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 31.1 |
-| 3894b384-1b13-3d2f-97d8-e82ffc02eb19 | -2.08569 | -46.6095 | 2024-11-26 12:53:00 | TERRA_M-T | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 23.0 |
-| ba3422b6-330c-3932-8665-0d9fa98b0271 | -1.86062 | -44.83828 | 2024-11-26 12:53:00 | TERRA_M-T | CURURUPU | MARANHÃO | Brasil | 2103703 | 21 | 33 | nan | nan | nan | Amazônia | 16.3 |
-| 860b68dd-ae23-3b63-9611-24923e3ab19a | -3.4996 | -42.04338 | 2024-11-26 12:53:00 | TERRA_M-T | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 76.7 |
-| d7613357-c71f-335f-91bd-c6fcd341a696 | -3.09605 | -42.01261 | 2024-11-26 12:53:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 330.3 |
-| 05ec10c8-1a54-3c45-a879-9a9cf7154513 | -3.64736 | -41.5174 | 2024-11-26 12:53:00 | TERRA_M-T | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 45.7 |
-| 404df68f-4265-3ff3-bc26-d0895d1496c6 | -6.12857 | -46.92004 | 2024-11-26 12:53:00 | TERRA_M-T | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 26.1 |
+| a758ffdb-181c-3908-a882-c2be60093982 | -9.81453 | -48.16174 | 2024-11-27 04:21:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| a467b075-1f4c-3a85-b360-2154d2ab9569 | -7.98068 | -49.69101 | 2024-11-27 04:21:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 132287e0-31aa-3886-9fc1-73c0ae59ca47 | -5.57942 | -49.45446 | 2024-11-27 04:21:00 | NPP-375D | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 253c1816-6db8-3280-a421-cfb26019dcbe | -6.73173 | -39.90346 | 2024-11-27 04:21:00 | NPP-375D | ANTONINA DO NORTE | CEARÁ | Brasil | 2300804 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 7181eb8b-aed6-31c9-9e10-463314f8dab9 | -9.51777 | -42.99501 | 2024-11-27 04:21:00 | NPP-375D | CAMPO ALEGRE DE LOURDES | BAHIA | Brasil | 2905909 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| dab9e715-423e-374a-9bd7-2e8ecd708d11 | -7.07642 | -35.26316 | 2024-11-27 04:21:00 | NPP-375D | MARI | PARAÍBA | Brasil | 2509107 | 25 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| d1a3e5b3-2e61-3442-9848-8bfff0511465 | -9.12413 | -47.7084 | 2024-11-27 04:21:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b4f3ef3d-4fa6-336d-921a-86bbd8f8da79 | -9.726 | -50.34513 | 2024-11-27 04:21:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 459f5f72-60e8-30b4-b63e-e9eff629496f | -5.49422 | -47.65928 | 2024-11-27 04:21:00 | NPP-375D | SÃO MIGUEL DO TOCANTINS | TOCANTINS | Brasil | 1720200 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 6e4729f6-d50b-3402-a75a-d951c32d31b9 | -5.73773 | -46.51498 | 2024-11-27 04:21:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 2cbe542f-030c-3d9c-a105-55701b264890 | -6.90464 | -35.04167 | 2024-11-27 04:21:00 | NPP-375D | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| a41cdec1-65c0-36fa-ad7a-45cb95873187 | -5.50094 | -46.25175 | 2024-11-27 04:21:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9a3c64c6-9e0b-3269-ad4d-cfe8e0f10e29 | -5.70681 | -44.95914 | 2024-11-27 04:21:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| a144d8a8-f56b-30df-99b5-d3524ba9c621 | -5.52461 | -47.58662 | 2024-11-27 04:21:00 | NPP-375D | SÃO MIGUEL DO TOCANTINS | TOCANTINS | Brasil | 1720200 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1bc3ce69-2dcd-3b1c-9dc5-7529b55d08b1 | -5.89862 | -43.409 | 2024-11-27 04:21:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 6f8960d6-02b7-3cb9-9cc1-0ed474431f72 | -8.38428 | -44.47731 | 2024-11-27 04:21:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 9b9041da-3ec5-3eb6-9c06-342293b7c1e2 | -9.7305 | -48.05793 | 2024-11-27 04:21:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 91ed8acf-1a3c-306e-8fa8-1d7d43d5d9ef | -8.13047 | -44.47638 | 2024-11-27 04:21:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 6820f9ae-e5ac-3eef-a4f5-dbc2dd082e46 | -6.82722 | -44.3964 | 2024-11-27 04:21:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| ee391897-f58a-3896-aca7-b47cfcee925b | -5.75854 | -46.2584 | 2024-11-27 04:21:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| b17d3076-f663-3d46-9c05-d47d29a1341d | -11.70261 | -44.61967 | 2024-11-27 04:21:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e0410df0-2809-3a52-9a56-d04e70d6572b | -7.26158 | -49.51313 | 2024-11-27 04:21:00 | NPP-375D | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 78fcd1e5-38cb-3602-bd85-4b27544b8a5a | -5.63833 | -46.96861 | 2024-11-27 04:21:00 | NPP-375D | MONTES ALTOS | MARANHÃO | Brasil | 2107001 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 9dde72bb-87af-3a01-ac1b-40f8a48a2322 | -8.10932 | -38.9622 | 2024-11-27 04:21:00 | NPP-375D | SALGUEIRO | PERNAMBUCO | Brasil | 2612208 | 26 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| a46f2fa8-651f-3212-b735-e4a3ef288688 | -6.69463 | -43.06372 | 2024-11-27 04:21:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 64c93df1-99e0-3681-92d3-c4bef7cf427e | -9.7254 | -50.34865 | 2024-11-27 04:21:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 98e08c08-5332-30d8-91d2-6dc206ef923c | -7.85415 | -48.71065 | 2024-11-27 04:21:00 | NPP-375D | BANDEIRANTES DO TOCANTINS | TOCANTINS | Brasil | 1703057 | 17 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 3d4172b8-e195-361d-baca-cd8cb502b9ec | -5.50212 | -46.2444 | 2024-11-27 04:21:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| b9f25953-792a-31b0-b8b6-1695e2cb2f15 | -5.98462 | -45.36526 | 2024-11-27 04:21:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| f08a7f34-c595-3254-a206-6061bf0073db | -5.98239 | -45.35771 | 2024-11-27 04:21:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c2335d01-a9e0-32f1-b0ed-a75766332272 | -9.53187 | -43.20921 | 2024-11-27 04:21:00 | NPP-375D | CAMPO ALEGRE DE LOURDES | BAHIA | Brasil | 2905909 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 61e11680-8716-365f-8651-abc2d5937f1f | -5.20096 | -48.18055 | 2024-11-27 04:21:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a83d8841-18ed-3b47-b9e2-02a662052401 | -6.70141 | -47.26895 | 2024-11-27 04:21:00 | NPP-375D | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 355ad2f5-8d66-339a-870d-ecd9b67bdc9a | -5.80325 | -43.00641 | 2024-11-27 04:21:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 86d24993-5908-32c4-8bfb-55cbb64b0a00 | -6.96441 | -45.07304 | 2024-11-27 04:21:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 29c8a8a9-d6e9-335f-848d-a3bf371cbb1f | -12.02639 | -49.54218 | 2024-11-27 04:21:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 6bd73e2c-9778-3a46-a673-8fb9d6162af7 | -5.50231 | -47.16703 | 2024-11-27 04:21:00 | NPP-375D | BURITIRANA | MARANHÃO | Brasil | 2102358 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 10940a11-fc09-396c-b6a9-d82e3bf2c24e | -6.34542 | -47.30849 | 2024-11-27 04:21:00 | NPP-375D | PORTO FRANCO | MARANHÃO | Brasil | 2109007 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 9fbde9cb-3ebe-3af0-ac6a-e104e1444d7c | -10.52827 | -49.05066 | 2024-11-27 04:21:00 | NPP-375D | NOVA ROSALÂNDIA | TOCANTINS | Brasil | 1715002 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| bc507aae-3c65-3719-b7b5-4a13f4676545 | -4.0663 | -54.38459 | 2024-11-27 04:21:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| df063630-dc96-385f-9e39-4373f61ba81c | -6.63384 | -43.86251 | 2024-11-27 04:21:00 | NPP-375D | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| ea154f92-e0d6-35eb-bbb1-55ff0bb4ce88 | -6.1964 | -44.42872 | 2024-11-27 04:21:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 57124f74-27f3-344d-9fd3-d6ccae88486e | -12.02715 | -49.53773 | 2024-11-27 04:21:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 06c13c18-093c-3f52-9cf5-c7dd4bdd8e0f | -5.50153 | -46.24807 | 2024-11-27 04:21:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| c92e94da-4e1c-30cd-b8bb-099cfe114a38 | -7.68306 | -49.12747 | 2024-11-27 04:21:00 | NPP-375D | ARAPOEMA | TOCANTINS | Brasil | 1702307 | 17 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 35620697-80d0-3e1f-99c0-8b1c7ad18542 | -7.7299 | -42.95391 | 2024-11-27 04:21:00 | NPP-375D | FLORES DO PIAUÍ | PIAUÍ | Brasil | 2203800 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| b2ada645-b8df-3767-90a1-6bc063ceb522 | -9.5165 | -42.99516 | 2024-11-27 04:21:00 | NPP-375D | CAMPO ALEGRE DE LOURDES | BAHIA | Brasil | 2905909 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| d564036d-5ddd-3826-b1b7-bb1795ba4ce6 | -5.59598 | -49.86219 | 2024-11-27 04:21:00 | NPP-375D | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8e244d44-0427-30c4-a673-10363683ad15 | -5.75432 | -43.07634 | 2024-11-27 04:21:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| d3b2c2b6-900c-3299-977d-a546923308b7 | -5.97849 | -45.36069 | 2024-11-27 04:21:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 7e3a69a4-59a4-3ba8-8aff-dec9bb768372 | -6.13052 | -41.98338 | 2024-11-27 04:21:00 | NPP-375D | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| c44c4ec4-edd3-3f63-986b-a7944360ef20 | -9.81165 | -48.15712 | 2024-11-27 04:21:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e0067309-75ab-37cd-8433-34e42b6acd1c | -5.65074 | -46.64534 | 2024-11-27 04:21:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 97be74e4-365e-3209-b0f7-c0812c3d4ed5 | -5.75453 | -46.26153 | 2024-11-27 04:21:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| c271f7f2-fbe7-3be4-a7fd-d7d7fcbe17eb | -5.90197 | -43.40952 | 2024-11-27 04:21:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 85f829eb-b25b-3f19-a9bc-ae80398518d7 | -6.3774 | -45.68446 | 2024-11-27 04:21:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 844b3cfb-2953-3f6f-bb36-60046c119caa | -6.38075 | -45.68499 | 2024-11-27 04:21:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 122afbe0-ce41-38b4-a757-e77629c3a152 | -8.13822 | -44.47042 | 2024-11-27 04:21:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| a16a8d31-dc1d-3244-baac-e5a19d68c919 | -6.48001 | -47.4983 | 2024-11-27 04:21:00 | NPP-375D | AGUIARNÓPOLIS | TOCANTINS | Brasil | 1700301 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| fc7e444d-68c2-3967-ba79-2571a4d34a49 | -6.13071 | -46.91649 | 2024-11-27 04:21:00 | NPP-375D | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 9f7f2402-b3fe-3841-9d50-f4859b9edd9d | -7.69209 | -42.97132 | 2024-11-27 04:21:00 | NPP-375D | FLORES DO PIAUÍ | PIAUÍ | Brasil | 2203800 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| 9d4ad232-fda3-3b6f-8289-7756dfc471e2 | -8.1099 | -38.95811 | 2024-11-27 04:21:00 | NPP-375D | SALGUEIRO | PERNAMBUCO | Brasil | 2612208 | 26 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| d1385791-5873-318e-ae58-5aa3532655ac | -6.6867 | -48.8732 | 2024-11-27 04:21:00 | NPP-375D | PIÇARRA | PARÁ | Brasil | 1505635 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| b7e7a89f-dbda-310f-8ea3-79eb0224b71c | -6.1342 | -46.91705 | 2024-11-27 04:21:00 | NPP-375D | LAJEADO NOVO | MARANHÃO | Brasil | 2105989 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 6653b259-bb00-3763-82f1-8190feb60c29 | -6.83054 | -44.39692 | 2024-11-27 04:21:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 5c638e7c-901b-3254-948e-441c29cad633 | -5.98127 | -45.36473 | 2024-11-27 04:21:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 6122db51-d41e-3d28-90a2-88b0dece5f0a | -7.54524 | -47.58373 | 2024-11-27 04:21:00 | NPP-375D | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 19c0c0a5-1e0a-395c-8e66-a52168d99c27 | -5.8643 | -42.77036 | 2024-11-27 04:21:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| fb03deeb-0bca-3a94-aa5d-227780066a6f | -6.92967 | -37.13794 | 2024-11-27 04:21:00 | NPP-375D | SÃO MAMEDE | PARAÍBA | Brasil | 2514909 | 25 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 31d83e30-8445-3595-994c-e9da7e56666d | -7.69153 | -42.97507 | 2024-11-27 04:21:00 | NPP-375D | FLORES DO PIAUÍ | PIAUÍ | Brasil | 2203800 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| 5c92219a-7c5a-3fe4-9b46-35f1b470d157 | -6.83441 | -44.39396 | 2024-11-27 04:21:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 4a98d728-b20b-3124-a3a4-2316c89e8600 | -5.61838 | -43.95092 | 2024-11-27 04:21:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 1ca5ceda-d1e3-3352-b24a-350c9945da89 | -9.8152 | -48.15772 | 2024-11-27 04:21:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8aaaa07f-3c9f-31c4-9f41-efd27b91aed4 | -9.17277 | -47.83021 | 2024-11-27 04:21:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| ca2d4497-4a88-3bf8-8b34-30bcfd9a6e3a | -5.4981 | -46.24751 | 2024-11-27 04:21:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 63c46569-2a19-3492-8960-7a8b9a9f1343 | -9.25343 | -50.66275 | 2024-11-27 04:21:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a6c5ae5e-9765-3dc8-88c2-d5ff175b4f04 | -7.68387 | -49.12271 | 2024-11-27 04:21:00 | NPP-375D | ARAPOEMA | TOCANTINS | Brasil | 1702307 | 17 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d2b4c00c-b689-3ccc-8e47-b153fbb748bb | -5.1972 | -48.17992 | 2024-11-27 04:21:00 | NPP-375D | VILA NOVA DOS MARTÍRIOS | MARANHÃO | Brasil | 2112852 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3e73ea92-663b-300b-a52e-2339c97f3424 | -12.01899 | -49.54082 | 2024-11-27 04:21:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 53fd4e6e-f769-3f8c-b6d8-d390d9cf498e | -15.29093 | -56.51972 | 2024-11-27 04:23:00 | NPP-375D | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 8e4b3c83-df48-3e50-b00f-6a15fb876da4 | -17.75151 | -42.8914 | 2024-11-27 04:23:00 | NPP-375D | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 6eaed155-b7cb-3f4b-8c03-80357648a5d9 | -19.27566 | -51.46836 | 2024-11-27 04:23:00 | NPP-375D | PARANAÍBA | MATO GROSSO DO SUL | Brasil | 5006309 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2e45d1ea-77e6-3c64-baab-f1899d95cea4 | -15.29568 | -56.52439 | 2024-11-27 04:23:00 | NPP-375D | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 51495456-12e8-3f13-9bfb-1c23055b83a4 | -23.83572 | -47.05496 | 2024-11-27 04:23:00 | NPP-375D | IBIÚNA | SÃO PAULO | Brasil | 3519709 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 8ea1ed6e-4ba9-313c-9cca-699b075cc58d | -20.01785 | -44.59526 | 2024-11-27 04:23:00 | NPP-375D | ITAÚNA | MINAS GERAIS | Brasil | 3133808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| c13f5adf-edc7-3179-b940-cbe3ea3389ab | -22.97896 | -50.39769 | 2024-11-27 04:23:00 | NPP-375D | ITAMBARACÁ | PARANÁ | Brasil | 4111001 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| 4d678315-5357-3011-9471-8a1f0003db91 | -18.59355 | -46.55134 | 2024-11-27 04:23:00 | NPP-375D | PATOS DE MINAS | MINAS GERAIS | Brasil | 3148004 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 228b60aa-9f29-370b-b69c-356d4df7179c | -18.30144 | -50.90069 | 2024-11-27 04:23:00 | NPP-375D | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 566369cb-edf6-322f-b8f6-e293fffbf56b | -16.67901 | -43.88534 | 2024-11-27 04:23:00 | NPP-375D | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 67a2e82e-ecf5-3906-86a2-a4c7c0f2111e | -20.15484 | -48.91434 | 2024-11-27 04:23:00 | NPP-375D | FRUTAL | MINAS GERAIS | Brasil | 3127107 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 23c473cc-dfdd-3de0-8139-588684cceb19 | -19.45378 | -45.30779 | 2024-11-27 04:23:00 | NPP-375D | MARTINHO CAMPOS | MINAS GERAIS | Brasil | 3140506 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| fe855226-08e6-3a3c-a690-c65967876655 | -19.1687 | -45.33912 | 2024-11-27 04:23:00 | NPP-375D | ABAETÉ | MINAS GERAIS | Brasil | 3100203 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| fa8ee8b0-e10d-3aeb-9426-707e6e9cd93b | -20.38346 | -47.47855 | 2024-11-27 04:23:00 | NPP-375D | CRISTAIS PAULISTA | SÃO PAULO | Brasil | 3513207 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| b3c5fa8c-57c4-3172-9941-baf984e679a0 | -23.46876 | -46.29924 | 2024-11-27 04:23:00 | NPP-375D | ITAQUAQUECETUBA | SÃO PAULO | Brasil | 3523107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| e4d500a9-34f2-3dab-b777-2c821003125f | -12.68226 | -52.26963 | 2024-11-27 04:23:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4107e54b-f523-3f27-9a5d-e0ac1a7ceaa2 | -12.6866 | -52.27039 | 2024-11-27 04:23:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 4644e399-4ed9-3cf0-9a53-f66af36ee6e7 | -23.70297 | -46.47736 | 2024-11-27 04:23:00 | NPP-375D | MAUÁ | SÃO PAULO | Brasil | 3529401 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 51510850-4ce3-33ae-ba54-e2d4d670992a | -19.2062 | -45.37387 | 2024-11-27 04:23:00 | NPP-375D | ABAETÉ | MINAS GERAIS | Brasil | 3100203 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 8029abf8-9661-325e-a720-1d53f66e9165 | -18.70878 | -47.47897 | 2024-11-27 04:23:00 | NPP-375D | MONTE CARMELO | MINAS GERAIS | Brasil | 3143104 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| a9349b91-d376-3d65-a985-0671f7ccbe6f | -18.29777 | -50.90002 | 2024-11-27 04:23:00 | NPP-375D | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README48.md)
