@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 12880a18-85b9-3a31-9b5d-baf768cc8882 | -1.6938 | -46.7833 | 2024-11-30 00:00:00 | GOES-16 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 156.1 |
-| e81b614e-6572-34a2-a374-884b4d600352 | -2.5963 | -53.9771 | 2024-11-30 00:00:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| 90c792ee-9f73-33df-8fe5-d18cdf65de9c | -17.6654 | -57.5645 | 2024-11-30 00:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 124.8 |
-| dd368a8a-8f33-3e77-8f57-f5b1e5bc7bea | -3.9886 | -41.5165 | 2024-11-30 00:00:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 287.7 |
-| 72d30cf3-78cc-37d3-ae9e-e269b82327a6 | -4.8713 | -41.2915 | 2024-11-30 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 304.1 |
-| 3525ec5c-7951-3f88-b5f5-db68185a9e56 | -3.2406 | -53.6393 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 86.0 |
-| 50392a73-11b0-310a-a012-9507531ec416 | -4.8523 | -41.317 | 2024-11-30 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 75.6 |
-| e8020f76-0264-37cb-b44b-c552cf2bb446 | -3.9884 | -41.5405 | 2024-11-30 00:00:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 66.3 |
-| 383a8e70-62e6-3da8-a5e9-e476a1300d69 | -3.3668 | -49.7545 | 2024-11-30 00:00:00 | GOES-16 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 73.7 |
-| fcdff1fc-5f8b-3be5-a060-797a1fac7951 | -6.086 | -48.0557 | 2024-11-30 00:00:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 84.7 |
-| 98f02716-9814-33fd-9b15-437160ed1f58 | -3.2591 | -53.6186 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.7 |
-| f5d6920b-5e08-3d7a-aa1d-896637fb806b | -11.4205 | -45.095 | 2024-11-30 00:00:00 | GOES-16 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 70.9 |
-| 3294ac02-05ba-313f-b488-c2a13178cfd6 | -6.0862 | -48.0339 | 2024-11-30 00:00:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 91.1 |
-| 1c1b70e9-cdbc-34a4-ba3f-1b5c7ae200e4 | -4.8711 | -41.3157 | 2024-11-30 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 91.6 |
-| d38bd17e-4309-3689-bbed-3663839e0989 | -17.6651 | -57.585 | 2024-11-30 00:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 103.5 |
-| 20a61ecd-8d34-343a-8565-2fe977f6abe0 | -1.6777 | -45.7868 | 2024-11-30 00:00:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 83.4 |
-| 2222a277-d1b2-376a-8f5e-10c231d7d4d8 | -3.9699 | -41.5176 | 2024-11-30 00:00:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 325.2 |
-| c386cd4d-5e94-30f1-92df-744337074292 | -1.4379 | -55.2533 | 2024-11-30 00:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 142.1 |
-| 70d01331-3dee-3995-9ee4-de5253f9cbf9 | -1.2739 | -54.5587 | 2024-11-30 00:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 141.2 |
-| 94c5097f-b87d-3df3-8f28-41c5f9c3a82f | -1.2556 | -54.5589 | 2024-11-30 00:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 91.4 |
-| 3842c98a-79bf-3194-8346-0de5c2538adc | -3.1481 | -53.8233 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 69.3 |
-| 3e13afb2-96c7-3410-b282-f438e9365c8a | -1.438 | -55.1343 | 2024-11-30 00:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 53.6 |
-| 2d97d8f4-eab0-3cd6-9803-8e0f33dc61be | -1.2556 | -54.5389 | 2024-11-30 00:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 70.9 |
-| 625b2ca3-dbde-3b38-8886-2c789154a7ed | -1.6419 | -53.8731 | 2024-11-30 00:00:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
-| 21819343-0f6e-3edd-811d-d4cc935b0f4c | -2.614 | -54.2177 | 2024-11-30 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 81.4 |
-| cb10701e-df8c-3091-8552-2760900ed92a | -3.9888 | -41.4925 | 2024-11-30 00:00:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 147.5 |
-| af9cc1c5-9322-38b7-b066-cf16b23cca16 | -4.8525 | -41.2928 | 2024-11-30 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 113.7 |
-| e9856800-ea54-3c22-87de-67798d56f463 | -4.6652 | -46.364 | 2024-11-30 00:00:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 107.7 |
-| 899b362c-d817-3b49-8930-b620999d0e8a | -3.9697 | -41.5416 | 2024-11-30 00:00:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 96.8 |
-| 47d37a66-6479-3793-8292-e3a0531d27fe | -3.4976 | -53.7935 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 77.5 |
-| 1ebb46a8-7e6b-363b-91da-d95a7d2d7510 | -3.7021 | -45.6764 | 2024-11-30 00:00:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 84.1 |
-| 81049e89-4495-3306-b189-23b480b506d0 | -3.2407 | -53.6191 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 53.3 |
-| 961f0bf9-6032-31b6-9893-199bfd5c1c20 | -4.665 | -46.3862 | 2024-11-30 00:00:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 72.8 |
-| 2229234c-5ad6-3887-97f4-a23237da6bf0 | -1.2739 | -54.5387 | 2024-11-30 00:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 84.8 |
-| 7cbcd121-3d7a-32fd-a42a-847b8d2d4237 | -1.6595 | -54.2341 | 2024-11-30 00:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 85.3 |
-| 591f249e-57c7-341d-a8f3-d419b35abe60 | -4.6838 | -46.363 | 2024-11-30 00:00:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 158.0 |
-| dd80da1d-7c68-3560-addc-11df53f4efb6 | -2.9965 | -45.5258 | 2024-11-30 00:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 194.2 |
-| 2b0f7b1b-7466-3682-95a2-f8fa80ac7d79 | -4.6237 | -47.0069 | 2024-11-30 00:00:00 | GOES-16 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 48.4 |
-| b8c3a096-00a9-327e-b79f-b8cc33ead3c0 | -2.9966 | -45.5033 | 2024-11-30 00:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 55.4 |
-| 0ba8e084-9d4d-3ab6-b650-1e61b4a8ae65 | -3.4792 | -53.7941 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 93.1 |
-| 6fdc066f-e7b0-31fe-bff7-8ed18273d0fa | -4.8715 | -41.2674 | 2024-11-30 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 125.1 |
-| 0075d8bd-36b8-31f5-953e-11a59d21ed9d | -3.148 | -53.8434 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 68.3 |
-| d2f83e94-c5a8-3bd1-8a08-a924d139f905 | -3.3306 | -54.1805 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 54.7 |
-| fa2ace36-a5d9-38dd-a078-6aa21bcf9323 | -3.0151 | -45.5251 | 2024-11-30 00:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 81.1 |
-| 90d0e5bd-0bec-3cca-bef7-1b4f2c02924b | -1.4379 | -55.2335 | 2024-11-30 00:00:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 91.4 |
-| 1fd0200c-eb2c-3e45-b256-af0d5b7f61f9 | -1.0022 | -51.7235 | 2024-11-30 00:00:00 | GOES-16 | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| 7b2a0b5d-625b-38b4-84cf-c49c6d44e9f5 | -3.259 | -53.6388 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 113.4 |
-| 91026295-c90a-30b0-83f1-8838ab0b946f | -3.1292 | -44.9801 | 2024-11-30 00:00:00 | GOES-16 | MATINHA | MARANHÃO | Brasil | 2106508 | 21 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| 478aa3f7-3d6f-3268-9ab4-8feb9d0fad4c | -2.1928 | -47.1451 | 2024-11-30 00:00:00 | GOES-16 | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| d7adba77-0a66-385c-b6bf-9300d022362d | -3.97 | -41.4935 | 2024-11-30 00:00:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 114.5 |
-| 7747df3f-46be-3900-a484-338a316b7858 | -1.5668 | -45.6549 | 2024-11-30 00:00:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 50.2 |
-| 50b3ddb6-02f4-3801-a1cc-74dde2c0c93d | -4.6837 | -46.3852 | 2024-11-30 00:00:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 93.1 |
-| 4a62993c-71eb-3005-9cc0-f6075aa944c4 | -1.6753 | -46.7836 | 2024-11-30 00:00:00 | GOES-16 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 60.8 |
-| dc41806f-92a0-32e5-80ee-cbd467420f96 | -4.6051 | -47.0079 | 2024-11-30 00:00:00 | GOES-16 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 46.7 |
-| 32108dc2-2992-376c-8656-a8845dd770bb | -3.4975 | -53.8137 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 118.6 |
-| eefc3a56-3679-3b68-aed5-2fcaeac5858c | -17.6457 | -57.5668 | 2024-11-30 00:00:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 82.5 |
-| 523e580b-2079-3f13-83fe-f88fdd1c5e05 | -3.3998 | -50.6573 | 2024-11-30 00:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 98.7 |
-| 57d21025-4138-39a5-9db1-87a1a1cb6412 | -2.8304 | -45.2845 | 2024-11-30 00:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 51.3 |
-| b11d7c18-68d2-32dc-a140-51a57ff3d185 | -1.6939 | -46.7613 | 2024-11-30 00:00:00 | GOES-16 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| cd72d7d0-0865-399a-ae9c-30fbb670897e | -3.1291 | -45.0028 | 2024-11-30 00:00:00 | GOES-16 | MATINHA | MARANHÃO | Brasil | 2106508 | 21 | 33 | nan | nan | nan | Amazônia | 55.1 |
-| fb99f7e5-1a72-30ef-b56d-fe1454a9cbf2 | -3.4791 | -53.8142 | 2024-11-30 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 154.9 |
-| 1191f241-1d4b-3000-bd43-2d2a452b6337 | -3.99 | -41.54 | 2024-11-30 00:00:00 | MSG-03 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 176d1ddf-b0d5-382d-a8d3-5c524266270e | -4.85 | -41.32 | 2024-11-30 00:00:00 | MSG-03 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| c43caf5e-dd95-3b1b-a631-b97379d93ab4 | -3.97 | -41.54 | 2024-11-30 00:00:00 | MSG-03 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 0c3c0ab4-4f9d-3596-97a5-b49c772aae47 | -3.97 | -41.5 | 2024-11-30 00:00:00 | MSG-03 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 8415dadb-2508-3b39-9f38-b2286f27c457 | -4.85 | -41.27 | 2024-11-30 00:00:00 | MSG-03 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| d864476b-af30-3f2b-ba80-4f087a2a4e32 | -3.99 | -41.5 | 2024-11-30 00:00:00 | MSG-03 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| bc7d9499-d4cc-35ae-a647-e9f504f37561 | -17.6654 | -57.5645 | 2024-11-30 00:10:00 | GOES-16 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 121.3 |
-| a1e8c2b6-869a-3ab5-acac-606a9fdef7ed | -2.9614 | -45.0769 | 2024-11-30 00:10:00 | GOES-16 | OLINDA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2107456 | 21 | 33 | nan | nan | nan | Amazônia | 143.4 |
-| 1331494b-36d4-33b1-be75-8d4ff2834e4f | -3.9886 | -41.5165 | 2024-11-30 00:10:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 259.9 |
-| 09d79c32-acc1-3ab5-8b22-2f2c8ed691bb | -4.8525 | -41.2928 | 2024-11-30 00:10:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 100.8 |
-| 8f1c7235-d9a9-3b3f-a33b-0e55969b02cf | -3.97 | -41.4935 | 2024-11-30 00:10:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 89.8 |
-| 7258a4e8-d8bc-3a3c-b534-4d943d995c2a | -2.614 | -54.2177 | 2024-11-30 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 64.3 |
-| ebf8217b-e628-3956-aafa-8f999a9951a3 | -1.6753 | -46.7836 | 2024-11-30 00:10:00 | GOES-16 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 65.6 |
-| bb6ddb59-0481-3193-b585-914fc4346179 | -1.2739 | -54.5387 | 2024-11-30 00:10:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 65.2 |
-| 4d962f92-f063-3425-80d9-886559352f99 | -3.702 | -45.6988 | 2024-11-30 00:10:00 | GOES-16 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 56.2 |
-| e2d28df8-0964-310b-86a6-2dac69ea98a7 | -3.3998 | -50.6573 | 2024-11-30 00:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 87.7 |
-| 481122a1-8794-35dc-b3e0-21726ff274a6 | -3.9699 | -41.5176 | 2024-11-30 00:10:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 286.7 |
-| 2edf6209-c295-3cf9-ad88-9747460ab218 | -3.4791 | -53.8142 | 2024-11-30 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 198.9 |
-| 2d5de849-347d-3455-b38b-8385c1a9a688 | -1.2739 | -54.5587 | 2024-11-30 00:10:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 146.0 |
-| 8570ab5f-59d4-3f48-953d-d77cd4b23ed6 | -1.6938 | -46.7833 | 2024-11-30 00:10:00 | GOES-16 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 166.6 |
-| 9fbdf454-29ec-362f-87a1-2edca0f70d10 | -1.4379 | -55.2533 | 2024-11-30 00:10:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 139.6 |
-| b60e6986-cfb2-3e83-a32a-7599cb1f3a3d | -2.5963 | -53.9771 | 2024-11-30 00:10:00 | GOES-16 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 57.5 |
-| e90a5038-dd11-3273-8816-91b6165fd167 | -4.6051 | -47.0079 | 2024-11-30 00:10:00 | GOES-16 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 140.0 |
-| 0d808549-729f-37cd-a59f-680c940f7b12 | -1.2556 | -54.5389 | 2024-11-30 00:10:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 62.1 |
-| 01f37ae8-5374-3951-8eac-6c6ac5c41516 | -3.4976 | -53.7935 | 2024-11-30 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 75.9 |
-| e0162d18-d72a-3609-8b77-7587f7603360 | -4.6237 | -47.0069 | 2024-11-30 00:10:00 | GOES-16 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 137.9 |
-| f250d8d6-cb91-35c6-9b19-d8ccd8991cd4 | -2.9966 | -45.5033 | 2024-11-30 00:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 48.1 |
-| 0bd70c85-1c4f-341d-8a8f-e25033a61215 | -1.4562 | -55.2134 | 2024-11-30 00:10:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 87.6 |
-| ce140444-eaab-336c-b17e-fdfdd30250b7 | -3.2591 | -53.6186 | 2024-11-30 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 60.2 |
-| fc678e1a-558d-3807-b954-55a239b35c1a | -3.148 | -53.8434 | 2024-11-30 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 63.7 |
-| 7f2a93f6-4b59-3397-b487-bb7045ba4020 | -3.2406 | -53.6393 | 2024-11-30 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 81.7 |
-| 9a357241-73f2-3793-9673-c8869e1fba41 | -3.259 | -53.6388 | 2024-11-30 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 122.6 |
-| 87234d6a-4b21-3434-93c2-00250036d41e | -3.9888 | -41.4925 | 2024-11-30 00:10:00 | GOES-16 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 121.1 |
-| ef1ac0c0-ad9c-331a-bc2d-d53f1d6b41f4 | -4.6652 | -46.364 | 2024-11-30 00:10:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 127.2 |
-| b2343ed4-4f7c-33d7-9c92-66e7b428ccd8 | -3.6758 | -47.1176 | 2024-11-30 00:10:00 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 48.3 |
-| febeef81-c711-3018-97a2-b339143167cf | -2.9965 | -45.5258 | 2024-11-30 00:10:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 109.3 |
-| 56f035af-ef1a-3f0a-9050-600369f996e2 | -1.6777 | -45.7868 | 2024-11-30 00:10:00 | GOES-16 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 81.2 |
-| 08c61582-6375-32dd-9a5e-859189306be3 | -1.4933 | -54.9548 | 2024-11-30 00:10:00 | GOES-16 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 52.6 |
-| 2df4f988-49b4-3fbb-a131-5a7eb2940789 | -4.6838 | -46.363 | 2024-11-30 00:10:00 | GOES-16 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 117.3 |
+| 45f12c5e-b762-3f56-856b-51414e0a1860 | -2.7687 | -51.7548 | 2024-12-01 00:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 60.1 |
+| 2fb6f6e3-3f64-3092-bd9c-1b49b61c3e19 | -3.2775 | -53.6181 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 83.0 |
+| 63d7ae3e-18b2-3662-a748-3683c9421f24 | -4.8897 | -41.3385 | 2024-12-01 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 70.5 |
+| 1f8785d9-6fac-3f12-8017-349eeff162c6 | -4.5562 | -43.3028 | 2024-12-01 00:00:00 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 268.5 |
+| a254fa3d-dde5-31dc-8b89-3c65b965e400 | -3.457 | -50.2572 | 2024-12-01 00:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 73.6 |
+| fc36f03d-7628-34b2-a389-ea74134705a8 | 1.1622 | -55.9672 | 2024-12-01 00:00:00 | GOES-16 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 56.6 |
+| 20866c28-4d09-3feb-a690-ed66bd4a620e | 1.1439 | -55.9871 | 2024-12-01 00:00:00 | GOES-16 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 86.9 |
+| 4d33301f-d89d-3f9e-a695-35b2afefaa1c | -4.5578 | -45.7232 | 2024-12-01 00:00:00 | GOES-16 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 218.6 |
+| c06c08d0-18c3-30f3-86f9-4ef03ece52bb | -3.0081 | -51.7897 | 2024-12-01 00:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 69.7 |
+| e1a81f71-daf9-34e7-8c3c-a2b93b7a7a77 | -6.9158 | -43.5185 | 2024-12-01 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 69.2 |
+| f4062381-e870-3beb-8d6d-0b3531746d0a | -3.0896 | -45.4999 | 2024-12-01 00:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 51.3 |
+| 1c4c70fe-76a2-3078-bd17-b123373272c7 | -3.2058 | -53.1138 | 2024-12-01 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 82.5 |
+| f292a5bf-7295-32f3-9b6e-e71bd316142b | -2.8013 | -53.043 | 2024-12-01 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 64.7 |
+| a21e69a8-500f-3afa-ba28-849d7d4b7bb9 | -4.556 | -43.3261 | 2024-12-01 00:00:00 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| 33b6d325-5ced-306a-aef2-c53832531561 | -2.1535 | -54.8659 | 2024-12-01 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 174.4 |
+| 6f975c49-1086-3889-99f1-a5120211207d | 1.1621 | -56.0066 | 2024-12-01 00:00:00 | GOES-16 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 53.6 |
+| 85c57dcd-c588-3afd-ad42-99b57b49c93d | -6.9346 | -43.5168 | 2024-12-01 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| fee09234-34e2-35b0-aa01-259f9661a15d | -2.1351 | -54.8861 | 2024-12-01 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 110.7 |
+| 6eaf74f3-272a-35e9-b60d-1e5a27f1e8ae | -3.69 | -51.8101 | 2024-12-01 00:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 106.3 |
+| 0cac0053-12a9-392d-96db-a26204aaab88 | -4.5395 | -45.6794 | 2024-12-01 00:00:00 | GOES-16 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 79.6 |
+| 4916a39d-584e-3b26-a25e-73cb61b7e435 | -4.9087 | -41.313 | 2024-12-01 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 129.7 |
+| 718346db-2e5e-38a6-bfc9-56893981abf6 | -3.259 | -53.6388 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 197.6 |
+| e942dc26-dde6-3807-b496-fa86d03f59a4 | -4.8899 | -41.3143 | 2024-12-01 00:00:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 140.9 |
+| b292e3b5-9b14-3d91-9899-f67ca85a294d | -3.1273 | -54.5264 | 2024-12-01 00:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 87.6 |
+| d78e514d-56ef-3cf5-8b63-241c0b9c0589 | -3.4754 | -50.2776 | 2024-12-01 00:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 191.9 |
+| 52601a5c-d90e-342a-9ba7-770e52073e1c | -3.2774 | -53.6383 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 156.7 |
+| c2271c1d-a0d0-3bcc-8c11-489ec87456a4 | -3.3134 | -53.8592 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 74.3 |
+| c86071a2-29dd-30cb-844d-3fd2246eb4aa | -3.2057 | -53.1341 | 2024-12-01 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 94.1 |
+| 5b032b85-c2f3-386c-a457-238b84a72d60 | -4.558 | -45.7008 | 2024-12-01 00:00:00 | GOES-16 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 108.0 |
+| 52593359-752f-321a-b8a9-4cfe3aeae775 | -6.9344 | -43.5401 | 2024-12-01 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 292.7 |
+| aee324f6-bc3d-30bd-babe-08f34271aa38 | -2.8196 | -53.0629 | 2024-12-01 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 79.2 |
+| cbbab945-0f94-3e11-b699-b8d00bc2bf78 | -3.4974 | -53.8339 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 106.0 |
+| 99919ef7-f37f-3da9-92f0-c2fb1a05b654 | -10.6674 | -44.4835 | 2024-12-01 00:00:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| 8c4df83e-f2d8-3010-9cc2-6a78c8962609 | -3.4755 | -50.2566 | 2024-12-01 00:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 143.6 |
+| 7982c762-f1be-3ba8-ab40-ac0a014888a5 | -2.849 | -49.8974 | 2024-12-01 00:00:00 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 73.3 |
+| 0542324e-baf8-31f7-bb02-978f57cf3a83 | -3.0895 | -45.5223 | 2024-12-01 00:00:00 | GOES-16 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 78.0 |
+| 7bb89665-50ba-34c9-8296-422e47d6545c | -4.5765 | -45.7222 | 2024-12-01 00:00:00 | GOES-16 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 44.2 |
+| 62a0aa01-d8a0-320a-94cc-8eab2a0e71b3 | -4.5392 | -45.7243 | 2024-12-01 00:00:00 | GOES-16 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 83.0 |
+| 96432d68-8773-3a59-ac4a-97d4e590478f | -4.5563 | -43.2795 | 2024-12-01 00:00:00 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 102.5 |
+| 8f42c066-bcd6-364e-9f4f-76116d81b547 | -3.2591 | -53.6186 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 128.7 |
+| 873a64e0-86d5-32ca-8c52-d7228f7d2665 | -2.8197 | -53.0425 | 2024-12-01 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 87.0 |
+| d5134020-21e2-3c98-8c30-3d9955e66942 | -2.6578 | -51.8811 | 2024-12-01 00:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 94.0 |
+| ee3236f9-cc6d-36bd-8f5c-e2d3466cf5dd | -3.6899 | -51.8307 | 2024-12-01 00:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 70.8 |
+| 26f50fa7-dc09-38c4-a650-36cc1a4918a5 | -6.9156 | -43.5418 | 2024-12-01 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 277.4 |
+| ababdf1b-8a46-3dd6-8f5a-022dd5651484 | -4.5394 | -45.7019 | 2024-12-01 00:00:00 | GOES-16 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 189.4 |
+| 6cdad6f5-ba68-3c4d-bb15-7988b25093e9 | -2.6579 | -51.8606 | 2024-12-01 00:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 71.0 |
+| 8e6e2be0-18c7-3c9b-bdc9-a26dc1b17915 | -6.9341 | -43.5634 | 2024-12-01 00:00:00 | GOES-16 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 136.9 |
+| 3d491898-d443-396c-b386-12a970068a5c | -10.6483 | -44.4861 | 2024-12-01 00:00:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 22301166-1488-3180-9f45-93c5eff880f5 | -2.7503 | -51.7553 | 2024-12-01 00:00:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 124.6 |
+| 1836a8aa-1008-357a-afad-4ec27215fe80 | -3.4569 | -50.2782 | 2024-12-01 00:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 91.6 |
+| f4dd5c66-03a7-3fe8-b9da-2663166d0b48 | -3.5158 | -53.8333 | 2024-12-01 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 78.2 |
+| 78176c18-6aff-31c7-827d-d97f548b8098 | -2.1535 | -54.8858 | 2024-12-01 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 238.1 |
+| a26d4181-3329-3e12-be36-117fe044d2bc | 1.1622 | -55.9869 | 2024-12-01 00:00:00 | GOES-16 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 107.2 |
+| 35604d18-be41-3326-95b3-fc7b6e27f925 | -2.1352 | -54.8662 | 2024-12-01 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 91.3 |
+| a52be41f-0a74-35ba-a134-c5febd5e323a | -2.8491 | -49.8763 | 2024-12-01 00:00:00 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 97.5 |
+| 98367398-045b-33ac-b641-e1b3f4fbfac3 | -3.1456 | -54.5259 | 2024-12-01 00:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 82.7 |
+| 0cab44af-36cc-35a5-8872-c7d67f341f70 | -6.9153 | -43.5652 | 2024-12-01 00:00:00 | GOES-16 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 88.5 |
+| a2b31671-5f9b-36fe-8dcf-f9b6f5ed79ea | -6.9 | -43.56 | 2024-12-01 00:00:00 | MSG-03 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 495dcb59-bb2b-35ed-a060-8ccae8d7c29d | -3.2 | -45.77 | 2024-12-01 00:00:00 | MSG-03 | ARAGUANÃ | MARANHÃO | Brasil | 2100873 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 491f570e-827f-31c2-a557-e500846a2d34 | -4.52 | -45.7 | 2024-12-01 00:00:00 | MSG-03 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 8faef1a5-0cf0-342e-9d1e-0c3e75e6b638 | -4.55 | -45.7 | 2024-12-01 00:00:00 | MSG-03 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 3e2dc3fc-84ba-313c-b1ec-3fb0ba68ad5e | -3.22 | -45.78 | 2024-12-01 00:00:00 | MSG-03 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| fab4cb58-d010-38a5-b250-dca6dceac620 | -6.9 | -43.51 | 2024-12-01 00:00:00 | MSG-03 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| b73718c9-8960-35f4-81ec-1c475ee50dd8 | -3.22 | -45.73 | 2024-12-01 00:00:00 | MSG-03 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| e6925a2c-5460-31ad-9ac0-5ba8181cec90 | -6.92 | -43.52 | 2024-12-01 00:00:00 | MSG-03 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 27699166-d714-3aea-bd99-525260572b42 | -4.88 | -41.32 | 2024-12-01 00:00:00 | MSG-03 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 7ff00471-54db-33fd-9ed2-3e605c5fb08a | -6.93 | -43.56 | 2024-12-01 00:00:00 | MSG-03 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 16f03377-4d09-3e5d-950b-7a80bae07fea | -3.4754 | -50.2776 | 2024-12-01 00:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 177.2 |
+| 39aff89b-7b68-32ae-a4fe-38d768a8a147 | -4.556 | -43.3261 | 2024-12-01 00:10:00 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| 12a9dd14-203e-37ef-b1c5-b1bfcabbaab3 | -3.259 | -53.6388 | 2024-12-01 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 182.3 |
+| ac541ddc-a218-3e76-b61c-917f6316dc67 | -2.1535 | -54.8858 | 2024-12-01 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 303.7 |
+| 35361eb1-7dea-308e-90b2-24b915889bac | -3.0081 | -51.7897 | 2024-12-01 00:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| 28eaadff-b8b8-323e-b46b-deb2be640212 | -10.6674 | -44.4835 | 2024-12-01 00:10:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 81.5 |
+| 41906027-682c-362f-ba13-0a4c3ccb02ad | -3.3134 | -53.8592 | 2024-12-01 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 71.6 |
+| 115aefce-6a59-371e-a6dc-9852faafaaa4 | -2.6579 | -51.8606 | 2024-12-01 00:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 74.9 |
+| d729d097-3e0c-3ba9-91e6-002d246effd5 | -4.5392 | -45.7243 | 2024-12-01 00:10:00 | GOES-16 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 84.2 |
+| 4ac4ab9b-895e-3aa6-bab4-20406246280a | -2.1535 | -54.8659 | 2024-12-01 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 314.5 |
+| 2bb2208e-ec0e-3841-ba27-0493976a735c | -3.2591 | -53.6186 | 2024-12-01 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 125.9 |
+| ca676e13-2672-343b-98a5-b8c2e5d85b22 | -4.5563 | -43.2795 | 2024-12-01 00:10:00 | GOES-16 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 89.2 |
+| fceb24ae-4f48-3b17-97ae-946c243dde19 | -3.1273 | -54.5264 | 2024-12-01 00:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 103.9 |
+| e8466abe-3b9d-3537-b765-409e120b9c45 | -2.7503 | -51.7553 | 2024-12-01 00:10:00 | GOES-16 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 108.1 |
+| bc286f3e-1f91-3f6d-b7b5-871ad0c6060a | -3.457 | -50.2572 | 2024-12-01 00:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 82.8 |
+| 8daaefb8-0dd7-3a42-ae1d-b589adf37f8d | -4.5395 | -45.6794 | 2024-12-01 00:10:00 | GOES-16 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| b7c864dc-d471-37ab-8f61-56a305c75ce0 | -3.5158 | -53.8333 | 2024-12-01 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 74.5 |
+| 9e2a47b9-296d-3181-9004-453190d781fa | -3.2774 | -53.6383 | 2024-12-01 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 140.7 |
+| 7c4662c7-0807-39e7-9680-8231db262063 | -4.5394 | -45.7019 | 2024-12-01 00:10:00 | GOES-16 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 198.0 |
+| 8e552608-6f58-3745-8439-521b06cc2977 | -3.1114 | -53.8041 | 2024-12-01 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 69.8 |
+| d99bc39e-39bd-3ea8-a230-b9c80e48bd6e | -6.9153 | -43.5652 | 2024-12-01 00:10:00 | GOES-16 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 89.7 |
+| 849ec015-7809-3386-b3e5-e1daee56413e | -4.558 | -45.7008 | 2024-12-01 00:10:00 | GOES-16 | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Amazônia | 96.9 |
+| 641ca4ec-b662-379c-8b39-3beaa1821156 | -2.6578 | -51.8811 | 2024-12-01 00:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 101.1 |
+| 252fb9ea-e0aa-3df2-a029-2569ebeab59a | -4.5578 | -45.7232 | 2024-12-01 00:10:00 | GOES-16 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 226.8 |
+| ba61a1c5-4b41-38bc-bfb9-96b32df138ce | -2.8196 | -53.0629 | 2024-12-01 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 67.6 |
+| 3f0e60ae-b099-379f-ac2e-5e61b6a64356 | -3.2369 | -45.7853 | 2024-12-01 00:10:00 | GOES-16 | ARAGUANÃ | MARANHÃO | Brasil | 2100873 | 21 | 33 | nan | nan | nan | Amazônia | 68.6 |
+| 8576a4d8-4d35-349a-b562-5e954febc00c | -3.4755 | -50.2566 | 2024-12-01 00:10:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 129.1 |
+| bc51020d-38c8-3cd1-af43-d2a6c79dc8a5 | -2.8491 | -49.8763 | 2024-12-01 00:10:00 | GOES-16 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 78.0 |
+| 78fa575c-7268-3be8-9c41-a089386ef727 | -4.5577 | -45.7457 | 2024-12-01 00:10:00 | GOES-16 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 42.9 |
+| 9c373cf0-219e-39a3-970c-7f3f4d539c1d | -2.8013 | -53.043 | 2024-12-01 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| 7a631368-c2f1-31d8-86bf-2c5c50adef6f | -6.9158 | -43.5185 | 2024-12-01 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 68.8 |
+| 3025edf7-1090-3a1c-a03a-11aeb0ed7c79 | -6.9156 | -43.5418 | 2024-12-01 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 266.7 |
+| 16c646ab-301f-3885-aa14-0e1f617b9d8e | -2.1351 | -54.8861 | 2024-12-01 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 134.9 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
