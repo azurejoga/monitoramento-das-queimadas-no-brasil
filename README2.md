@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f6f63f45-f38e-3926-bf7d-d90065c7af0f | -8.9434 | -44.2373 | 2024-12-07 00:50:00 | GOES-16 | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 87.0 |
-| 3725cb9b-966f-36c1-8098-b959ad907961 | 2.5064 | -61.0012 | 2024-12-07 00:50:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 79.7 |
-| aef954b7-0b61-35e0-9b82-ff5a09a217a3 | 2.5247 | -60.982 | 2024-12-07 00:50:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 73.6 |
-| 24d5ec11-33f4-3f08-8971-9921d63aacb1 | -15.2528 | -53.5723 | 2024-12-07 00:50:00 | GOES-16 | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 55.3 |
-| d3940c22-d655-3948-89b9-1f9d2b1a1948 | 2.7267 | -60.3916 | 2024-12-07 00:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| 22aa4c17-c374-3481-8bff-643da306c093 | -12.2944 | -45.4958 | 2024-12-07 00:50:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 88.1 |
-| eb9290f9-aeb3-3bd7-b212-9c7b40a5f1a9 | -12.2703 | -45.451599 | 2024-12-07 00:53:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 8faeeb0c-7185-31ec-885d-95565ca3898c | -13.6653 | -52.933399 | 2024-12-07 00:53:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 0f4d2518-9876-35c0-bda9-bc5ae0a0f359 | 2.4138 | -60.636002 | 2024-12-07 00:53:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 17eb3fb6-0d8d-388c-b831-b7ea3eb3f8f5 | -10.759 | -54.767899 | 2024-12-07 00:53:00 | METOP-B | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4f9fa8ce-9607-3c53-bf41-1adf6b905caf | -12.2326 | -52.4431 | 2024-12-07 00:53:00 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8f37676d-14a8-3576-abbd-a8e864c2915b | 2.946 | -60.3353 | 2024-12-07 00:53:00 | METOP-B | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| f78935f5-b068-3a00-91ae-d3aae9777023 | -12.8576 | -51.930801 | 2024-12-07 00:53:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a24620cc-de69-3f91-bd24-8c8962476a34 | 2.7404 | -60.378399 | 2024-12-07 00:53:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| d5f62a94-3587-3411-93d6-1a2383526d36 | -12.2849 | -45.468102 | 2024-12-07 00:53:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 6ce79c83-1c12-3b77-9d82-da2ee221559f | 2.9443 | -60.342999 | 2024-12-07 00:53:00 | METOP-B | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| fff867dd-98e8-340e-b1ba-ab98698cf7ca | 2.5099 | -60.9827 | 2024-12-07 00:53:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 5a5617d2-d4ac-3523-b1ee-df4801d14d9a | -15.2664 | -53.5462 | 2024-12-07 00:53:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| cdda9b75-eb4a-354a-99aa-599812605227 | -15.2695 | -53.560299 | 2024-12-07 00:53:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| adc3778b-8f11-30dd-9422-bf6089a59abb | -12.2752 | -45.470699 | 2024-12-07 00:53:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 79b55df6-7229-304f-9049-6bd22a8c4657 | -8.9136 | -44.217201 | 2024-12-07 00:53:00 | METOP-B | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 3b9954ff-c7d3-3c8e-bf49-31e09d158636 | -11.0492 | -45.356602 | 2024-12-07 00:53:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 7d8c42e1-6298-36dc-8c67-5aaec288970f | -9.218 | -50.6782 | 2024-12-07 00:53:00 | METOP-B | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 79478067-a79a-3986-8404-4d5e0640497a | -15.2566 | -53.548401 | 2024-12-07 00:53:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| aa12807c-119c-3835-9a7d-057c05d1e8b9 | 2.7323 | -60.368401 | 2024-12-07 00:53:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 3331d9f6-bb1e-33bc-b21a-fa3a43c3343c | 2.5057 | -60.9557 | 2024-12-07 00:53:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 9c5c521d-4668-345c-a37c-2151401d451a | -12.9116 | -49.667599 | 2024-12-07 00:53:00 | METOP-B | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 32b74e08-b774-32ac-bba8-3be0f29d19c3 | -8.9232 | -44.214699 | 2024-12-07 00:53:00 | METOP-B | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| f1fb7c1f-d76b-312c-9e90-90b04dee804f | 2.7306 | -60.376202 | 2024-12-07 00:53:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| d124bbfe-170d-31dc-93ac-c8eddc1dedfa | -12.5335 | -49.258099 | 2024-12-07 00:53:00 | METOP-B | ALVORADA | TOCANTINS | Brasil | 1700707 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a922409e-16ba-3195-882a-f5ba45b61dc0 | -12.8674 | -51.928398 | 2024-12-07 00:53:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8c35860d-7b23-3fb4-8b01-72cdaafb062d | -5.7652 | -46.533298 | 2024-12-07 00:53:00 | METOP-B | SÍTIO NOVO | MARANHÃO | Brasil | 2111805 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 18b1bb38-6a8f-3705-95f3-03a0f0e4092e | -9.2203 | -50.687901 | 2024-12-07 00:53:00 | METOP-B | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d4ae009d-ba26-3e6f-b1b4-84f7683052ef | 2.5118 | -60.974499 | 2024-12-07 00:53:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 0729f544-583e-3eef-9575-e84de5075ff9 | -11.7353 | -54.296902 | 2024-12-07 00:53:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d7b949f5-b332-365d-8813-0025dac1c97f | -15.2581 | -53.5555 | 2024-12-07 00:53:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 4e1d0f69-bc37-3ba6-8882-bd7bcc45cd5d | -13.3814 | -41.276901 | 2024-12-07 00:53:00 | METOP-B | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| bd252d42-59ec-3ab9-807a-6fc018f82134 | -13.3909 | -41.274101 | 2024-12-07 00:53:00 | METOP-B | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 06957ad7-96ce-3f7f-8bb8-da3f41bde0b5 | -12.4048 | -49.666199 | 2024-12-07 00:53:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 63b2dd0d-995b-3737-aecb-a6fbc4d8ab91 | -12.2802 | -45.489799 | 2024-12-07 00:53:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 69389afb-1f38-33d5-9367-0d421d5fd078 | -17.5646 | -47.994202 | 2024-12-07 00:53:00 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| cad12f54-3309-34e6-90ee-f687ad6e274b | -12.2343 | -52.4506 | 2024-12-07 00:53:00 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8cba0c80-2415-372d-92e0-6770a6baafc9 | 2.502 | -60.972301 | 2024-12-07 00:53:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| e52de623-5579-3c54-8018-21107fecc6ac | 2.4156 | -60.627998 | 2024-12-07 00:53:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| f442f348-2ca4-3da6-9c9a-d80f46b867a8 | -10.0347 | -50.5532 | 2024-12-07 00:53:00 | METOP-B | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 424145c0-9d64-3dc7-a22e-074ca150d882 | -11.7338 | -54.289902 | 2024-12-07 00:53:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4654b5f8-bf7a-34bd-9aef-f3aa3fb203ab | -10.037 | -50.562801 | 2024-12-07 00:53:00 | METOP-B | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d5e4e016-9b2c-3482-8139-510e2c6df6df | -12.8656 | -51.920601 | 2024-12-07 00:53:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d49f8943-106e-38a7-b993-0890b1d5c9c3 | -15.2597 | -53.562599 | 2024-12-07 00:53:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| e5699673-32c9-3da4-92d5-9958aa88cc61 | -12.8638 | -51.912899 | 2024-12-07 00:53:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| efa321ed-3051-3295-884c-a8d73c088625 | 2.5137 | -60.966202 | 2024-12-07 00:53:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| b093318c-bb2f-307a-9493-a5f032dd9cf5 | -15.2679 | -53.5532 | 2024-12-07 00:53:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 8a7c17d0-abcc-361a-b08b-08e10afb0081 | -16.0126 | -51.8675 | 2024-12-07 00:53:00 | METOP-B | BOM JARDIM DE GOIÁS | GOIÁS | Brasil | 5203401 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| b4e6bb41-dd96-3edc-ad10-c79aca9eb749 | 2.5039 | -60.964001 | 2024-12-07 00:53:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 6ac0ec02-6fdc-3bf1-8789-7e487409a060 | -17.561899 | -47.983398 | 2024-12-07 00:53:00 | METOP-B | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 9cf0394b-3b76-3c78-9424-dd5d74c45407 | 2.7421 | -60.370602 | 2024-12-07 00:53:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 917dc150-014d-3f97-a06d-25c1d1600c90 | -12.8558 | -51.923 | 2024-12-07 00:53:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 476b20a6-3aae-33ea-afe6-b9048f9a3108 | -13.4027 | -41.3273 | 2024-12-07 01:00:00 | GOES-16 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 105.7 |
-| a0bd5ca4-88ec-3ea0-a673-f7722f765950 | 2.5065 | -60.9822 | 2024-12-07 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 107.7 |
-| 5f722ba7-a17c-38b0-b1a4-731952a3e341 | 2.5247 | -61.0009 | 2024-12-07 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 63.8 |
-| cbab4033-9248-32aa-9916-afc4456cdc26 | 2.5247 | -60.982 | 2024-12-07 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 90.8 |
-| 5ce1ca15-0c4e-3762-8dbe-0cece757b45a | -15.2528 | -53.5723 | 2024-12-07 01:00:00 | GOES-16 | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 56.4 |
-| b8dece6a-1c37-3b5e-be81-d9642060500a | -12.2944 | -45.4958 | 2024-12-07 01:00:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| 7f3a7798-cccb-3130-9f0e-d8399eed5427 | 2.5064 | -61.0012 | 2024-12-07 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 68.1 |
-| 75a8c711-034b-3b96-a733-c8130a370171 | 2.745 | -60.3913 | 2024-12-07 01:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 68.9 |
-| 5647bf7f-4b12-3803-956c-12cf1eeaf9cc | -13.4222 | -41.3234 | 2024-12-07 01:00:00 | GOES-16 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 129.4 |
-| d72992b2-2f7d-3727-885e-2913f0c2dc71 | -13.4222 | -41.3234 | 2024-12-07 01:10:00 | GOES-16 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 68.8 |
-| 6f8c9d1b-75cc-345c-8179-a0a2fa898b9a | 2.5065 | -60.9822 | 2024-12-07 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 109.8 |
-| e6475e63-a246-3903-b040-cb57ff283e16 | -12.2944 | -45.4958 | 2024-12-07 01:10:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 78.9 |
-| 9dbd1e98-fa7c-3a3a-8ec5-d89a152074d8 | 2.5247 | -60.982 | 2024-12-07 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 82.9 |
-| 4b1ed0cd-fdd6-36b4-92cd-4721eb7d3ddd | -13.4027 | -41.3273 | 2024-12-07 01:10:00 | GOES-16 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 74.7 |
-| 939db178-2ba3-3519-b22f-0cf971f95461 | 2.5064 | -61.0012 | 2024-12-07 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 63.8 |
-| 3af68d5e-0ad2-3b74-9bf5-19a2e6fd500c | -15.2528 | -53.5723 | 2024-12-07 01:10:00 | GOES-16 | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| d3551e8f-02bc-38dd-8517-e4e5115a0bc1 | -16.01535 | -51.88938 | 2024-12-07 01:11:00 | TERRA_M-M | BOM JARDIM DE GOIÁS | GOIÁS | Brasil | 5203401 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 2d659306-ac47-3f43-8463-3f9acb73e236 | -17.5681 | -48.01587 | 2024-12-07 01:11:00 | TERRA_M-M | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 7f0bc2f6-fef8-36ca-aa3b-7be53f94ba76 | -15.25891 | -53.56678 | 2024-12-07 01:11:00 | TERRA_M-M | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 106.2 |
-| d5c01325-12f2-3776-8a87-d170b75da953 | -15.26019 | -53.57648 | 2024-12-07 01:11:00 | TERRA_M-M | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 28.8 |
-| 23466820-9665-32ea-aed3-8900f093a159 | -16.01407 | -51.8802 | 2024-12-07 01:11:00 | TERRA_M-M | BOM JARDIM DE GOIÁS | GOIÁS | Brasil | 5203401 | 52 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| e6df70e8-2da2-3fdb-8cfb-6147e0666ed3 | -7.09136 | -45.21053 | 2024-12-07 01:13:00 | TERRA_M-M | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 19.5 |
-| 4a71b1f7-11d6-333f-9a12-44eab0774349 | -12.40549 | -49.68316 | 2024-12-07 01:13:00 | TERRA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 9f59f76f-bc54-37b7-9cc9-92f84521e5d3 | -12.4153 | -49.68159 | 2024-12-07 01:13:00 | TERRA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 20c0ff5b-655e-3819-9754-d37cddc09060 | -12.23685 | -52.45339 | 2024-12-07 01:13:00 | TERRA_M-M | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 6d1c0dd8-983c-3fd4-88b9-c158c9f8364e | -11.7357 | -54.30563 | 2024-12-07 01:13:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 10.9 |
-| 3c6653a4-aba3-3050-98fe-d0c7d9b16252 | -13.6587 | -52.94819 | 2024-12-07 01:13:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| adcf6296-5dd4-356f-b0bb-0de71fc597ed | -12.86446 | -51.94612 | 2024-12-07 01:13:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| ee12fe51-d6c5-3124-9213-37f958bf2548 | -11.06521 | -45.38856 | 2024-12-07 01:13:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 27.9 |
-| f31cdb48-0800-3752-ae17-0e756878f549 | -12.91793 | -49.67866 | 2024-12-07 01:13:00 | TERRA_M-M | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| bfb20648-b013-3105-905d-69275ae3a4bc | -12.23812 | -52.46243 | 2024-12-07 01:13:00 | TERRA_M-M | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 9.3 |
-| 5972afc6-d36c-3a55-88c0-1a44c5d977d4 | -12.86317 | -51.93698 | 2024-12-07 01:13:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 22.6 |
-| 27ed7aba-312e-301d-997f-576b24621fd6 | -12.538 | -49.27231 | 2024-12-07 01:13:00 | TERRA_M-M | ALVORADA | TOCANTINS | Brasil | 1700707 | 17 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 535e3893-02c1-3fba-97b5-e21b8d3fd69e | -10.04062 | -50.57714 | 2024-12-07 01:13:00 | TERRA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 30.1 |
-| 2436f46c-e3f3-3044-9875-8c96e2a0de5b | -11.41477 | -51.27868 | 2024-12-07 01:13:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 9c6d74e0-be4d-3777-ae40-e9bb77d03e87 | -8.93239 | -44.25742 | 2024-12-07 01:13:00 | TERRA_M-M | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 74.5 |
-| 210d0713-a80f-3f10-b2db-0dff082cce90 | -12.2799 | -45.50333 | 2024-12-07 01:13:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 27.7 |
-| b77f1ebf-44dd-34e1-8b65-65e4e81a8ac9 | -11.73697 | -54.3152 | 2024-12-07 01:13:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 0c83312f-a7d1-3465-9c55-d33d938fc5b8 | -8.27381 | -48.03642 | 2024-12-07 01:13:00 | TERRA_M-M | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| 5ef7bf8a-0685-3089-bd0e-856b50df113f | -12.85426 | -51.93833 | 2024-12-07 01:13:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 419c5e7a-d8df-394c-b2b8-7c23f151ee3e | -8.93898 | -44.26283 | 2024-12-07 01:13:00 | TERRA_M-M | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 57.6 |
-| f2d9505b-3399-313f-9556-d3648aa2ee88 | -12.2933 | -45.50064 | 2024-12-07 01:13:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 77.0 |
-| ec439493-5a67-3238-b9c2-3b27606ab1c4 | -8.93381 | -44.23087 | 2024-12-07 01:13:00 | TERRA_M-M | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 41.7 |
+| 9ebbef30-fb80-3865-8260-b2713ef36391 | -12.4061 | -49.661098 | 2024-12-08 00:30:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 51d7e4d3-cc8b-3cc6-a937-0edb46437556 | -12.8628 | -51.920101 | 2024-12-08 00:30:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 04aaee01-72c2-315b-b09b-a9387b5bac81 | -3.0863 | -54.035702 | 2024-12-08 00:30:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b1f654be-3392-3b01-b63f-2001a133d6c4 | -12.8645 | -51.928299 | 2024-12-08 00:30:00 | METOP-B | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 74b5668a-bc8c-380b-ba9a-1ece5acaef0d | -3.0978 | -54.0415 | 2024-12-08 00:30:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1bd376d4-0b00-3b27-a12f-95790265ea1d | -3.0898 | -54.051601 | 2024-12-08 00:30:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d6629f70-d840-39dc-9cab-ef188c7e7807 | -12.4189 | -49.673 | 2024-12-08 00:30:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c27168a3-e2c0-3665-aa24-9f733f10f987 | -15.3744 | -53.096199 | 2024-12-08 00:30:00 | METOP-B | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2d46e0e6-dfea-3f01-a504-4bd08d92aa27 | -15.2637 | -53.563702 | 2024-12-08 00:30:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2f963fe2-5205-3ab6-bbba-ba34a2ae54a3 | -16.2047 | -55.932999 | 2024-12-08 00:30:00 | METOP-B | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | nan |
+| d6aa0828-d719-376a-a99b-54bab7a62569 | -15.3764 | -53.1063 | 2024-12-08 00:30:00 | METOP-B | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| b8fced3a-cfee-35fe-bdce-33a10dd2bfbc | -12.4205 | -49.68 | 2024-12-08 00:30:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a2c36525-ac22-3a59-8907-54d2fc689d47 | -12.4076 | -49.668201 | 2024-12-08 00:30:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 3ae5a361-cf6d-3a47-9196-aa49886a6cae | -15.2714 | -53.550999 | 2024-12-08 00:30:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| c6583758-8ff4-3ed4-aff7-16303f4fe67c | -3.088 | -54.043701 | 2024-12-08 00:30:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3b6c121f-3953-35fe-88cc-7aa3a21a4707 | -15.2594 | -53.542301 | 2024-12-08 00:30:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2b196704-ed0c-3f56-bd0b-d643f4adac04 | -12.2859 | -49.489899 | 2024-12-08 00:30:00 | METOP-B | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 44cfa0db-1246-3e7b-8efe-9b1ff3113516 | -15.2616 | -53.553001 | 2024-12-08 00:30:00 | METOP-B | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 6a095713-7353-372b-9a17-9ef0b4c48125 | -15.3666 | -53.108299 | 2024-12-08 00:30:00 | METOP-B | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| edc4c3e5-3818-3833-8438-9dbb0f88657d | -13.9032 | -54.6073 | 2024-12-08 00:30:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 80d009d3-2760-38ac-b9a9-dd45f657fa8a | -17.8069 | -42.931702 | 2024-12-08 00:30:00 | METOP-B | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 2518c012-01d6-3794-9bb2-7f34a8d240f2 | 4.0858 | -61.122501 | 2024-12-08 00:33:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| b7b60b95-4393-3cea-bd14-f02ff848b1e7 | -5.4279 | -46.994301 | 2024-12-08 00:33:00 | METOP-B | BURITIRANA | MARANHÃO | Brasil | 2102358 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8cf42d5b-1f92-3887-9497-65bae8f388bf | -5.9017 | -48.019699 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| d9b3f6b9-e1f6-38ff-854a-73cab1f8c12d | -13.8935 | -54.609299 | 2024-12-08 00:33:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 3d981c58-7ac7-3d8e-b582-a77f1df8ed8a | 4.0816 | -61.139801 | 2024-12-08 00:33:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| daf95838-7608-3021-8ed8-d4a4a330446a | -5.9115 | -48.017399 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e9c3823a-08b1-3e73-8a8b-438059ca8428 | -11.763 | -54.700001 | 2024-12-08 00:33:00 | METOP-B | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4108c8cd-8452-3306-be3b-2de18d75bdb8 | -5.9133 | -48.0252 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bb7d28f8-eb65-3a67-a696-cb43ce802cb9 | -12.9111 | -49.6647 | 2024-12-08 00:33:00 | METOP-B | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bf10f8ff-6b95-3f11-85cb-4a2998f86981 | 1.9985 | -61.1152 | 2024-12-08 00:33:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 214be625-656c-3bea-8be4-d684727e66c2 | -1.4327 | -52.583698 | 2024-12-08 00:33:00 | METOP-B | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 58146904-875c-3f46-855c-904361eb755f | -5.4986 | -46.235199 | 2024-12-08 00:33:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 5841edf9-3c3d-3a8e-80da-2489c11613b5 | -5.9035 | -48.0275 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| afb7e569-151b-38cf-8513-81a5627fa420 | -11.7653 | -54.711201 | 2024-12-08 00:33:00 | METOP-B | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6abb51c1-016e-3091-963f-4e544422bec4 | -11.7533 | -54.702 | 2024-12-08 00:33:00 | METOP-B | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 06ee817d-5b5d-33c6-bb1d-366d6c702d62 | -5.9329 | -48.020699 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c293471b-d56e-3724-a1ec-f9fa67ee59f7 | -5.6419 | -46.717899 | 2024-12-08 00:33:00 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4cf10fb5-27b5-3a41-a085-d24bc5601b98 | 4.0719 | -61.1376 | 2024-12-08 00:33:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 3718d9ca-81f1-36f3-ae55-b28fbbb08cf5 | -5.9098 | -48.009602 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b1e6af9b-a2b6-310b-811a-b71ce86a7c38 | -5.9231 | -48.022999 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b1b9ab4a-48aa-3752-bd84-646d5259f5fb | -4.5903 | -48.0103 | 2024-12-08 00:33:00 | METOP-B | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9b1d7153-6de2-3c93-9f29-13c755b0afe0 | 4.0775 | -61.157299 | 2024-12-08 00:33:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| ef316239-01e5-3ee5-bfce-deef167398d0 | -5.4299 | -47.003201 | 2024-12-08 00:33:00 | METOP-B | BURITIRANA | MARANHÃO | Brasil | 2102358 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 64578474-a496-3a85-9306-80bb528fd147 | -5.9311 | -48.012901 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| be7b965d-d040-3805-9946-5f843c23c225 | 1.9932 | -61.094299 | 2024-12-08 00:33:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 52d3eb0b-f23b-3ea1-a1db-b5c219c19a08 | -11.751 | -54.6908 | 2024-12-08 00:33:00 | METOP-B | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 15ccff60-b0b3-3c99-b92d-48212aa65118 | -1.4636 | -52.446201 | 2024-12-08 00:33:00 | METOP-B | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 66e72898-bb5c-3dbb-a219-d4e8a3a93c6f | 4.0761 | -61.1203 | 2024-12-08 00:33:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 6aa2fc8e-6c00-3fb2-b206-fbe37ed028d9 | -9.2976 | -40.2244 | 2024-12-08 00:33:00 | METOP-B | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| f2e49a08-634b-3b87-8dc4-d6ce107f2740 | -12.4 | -46.582298 | 2024-12-08 00:33:00 | METOP-B | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a1b6e8a9-7f29-3ebb-ba63-975bccd04d32 | 2.0029 | -61.0965 | 2024-12-08 00:33:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| f56f41df-43d1-377a-9ead-6d4a9ff62013 | -12.4018 | -46.590199 | 2024-12-08 00:33:00 | METOP-B | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2b998a6e-c8e8-38c1-8e81-4319e929e0cd | -11.7555 | -54.7132 | 2024-12-08 00:33:00 | METOP-B | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7b74c57d-9fd9-388f-808f-6554bebe3573 | -12.9126 | -49.6717 | 2024-12-08 00:33:00 | METOP-B | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b28ef632-acac-322c-a22d-e698da712191 | -9.3072 | -40.221901 | 2024-12-08 00:33:00 | METOP-B | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 0b975ec5-ef38-343e-bd91-8659503ed6e1 | -5.9213 | -48.015202 | 2024-12-08 00:33:00 | METOP-B | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cb5749a3-b237-302a-992a-4cbc8e1d1756 | -11.752 | -54.7255 | 2024-12-08 00:40:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 147.6 |
+| 11ffa11f-d605-3239-8fd4-dcbafb4a17bc | -11.7523 | -54.705 | 2024-12-08 00:40:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 43.4 |
+| f5a4b4a2-56e4-33d0-869e-d22fcebe743c | 1.9955 | -61.1394 | 2024-12-08 00:40:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 57.8 |
+| 0623d02f-914e-3572-8583-ef837b828db6 | -5.9185 | -48.0449 | 2024-12-08 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 90.3 |
+| 323bc12f-4d98-3547-bc83-0e8a65ba44b3 | -5.9 | -48.0244 | 2024-12-08 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 88.5 |
+| ef7bef35-5cff-3ea3-b822-33ccb2d8ed6b | -11.7518 | -54.7459 | 2024-12-08 00:40:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| 26aa3d4b-548c-3b7b-8356-db941e085598 | -5.9186 | -48.0232 | 2024-12-08 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 162.9 |
+| 39d9918c-6ff5-3c15-bdfc-8238fb5f7ab0 | -5.9373 | -48.022 | 2024-12-08 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 82.8 |
+| 298f8bee-1ec2-3d38-942a-644bc66bfd67 | -11.752 | -54.7255 | 2024-12-08 00:50:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 144.6 |
+| 2303fd23-fddd-34c0-9f73-f242ba2a4f8e | -11.7518 | -54.7459 | 2024-12-08 00:50:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 43.6 |
+| d90cfb27-6a58-3ca7-93e3-2728217c3c90 | -11.771 | -54.7237 | 2024-12-08 00:50:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 48.2 |
+| 49c81f9d-d9ae-3af7-bd30-dbf4374519c6 | 1.9955 | -61.1394 | 2024-12-08 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 60.6 |
+| e10ac91a-838b-3a74-8535-006503875b73 | -11.7518 | -54.7459 | 2024-12-08 01:00:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 43.0 |
+| b9d9a67c-d022-3b7a-ab43-245e794902e6 | -11.752 | -54.7255 | 2024-12-08 01:00:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 142.0 |
+| 938665d7-a9ff-3441-8c10-a21c60d1ed09 | 1.9955 | -61.1394 | 2024-12-08 01:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 62.1 |
+| 1a95f38d-0cb6-32ed-b3b1-8eb598c7f110 | -11.752 | -54.7255 | 2024-12-08 01:10:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 107.3 |
+| 2e035c69-b063-36f4-8ce2-756df67756d5 | -11.771 | -54.7237 | 2024-12-08 01:10:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 56.5 |
+| 43915745-e7fc-3523-8f38-4a0af2e3246c | 1.9955 | -61.1394 | 2024-12-08 01:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 88.8 |
+| decb2c2b-4daf-36a4-93c1-6f3703710da2 | -5.9186 | -48.0232 | 2024-12-08 01:10:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 55.0 |
+| 9e4b310d-29df-3273-a7f0-923f599edd20 | 1.9954 | -61.1583 | 2024-12-08 01:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 51.7 |
+| 15ba2fdc-a110-3e8b-bd2e-c784a514f550 | -5.9186 | -48.0232 | 2024-12-08 01:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| 8e967fd5-886c-33c2-8898-05798ac45c3d | 1.9955 | -61.1394 | 2024-12-08 01:20:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| cffc1bcd-28e0-3aa6-b0b4-d5a5468f920a | -5.9 | -48.0244 | 2024-12-08 01:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 59.4 |
+| d3cf4d23-a81e-3e2b-9782-918ee12482f4 | -11.752 | -54.7255 | 2024-12-08 01:20:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 123.6 |
+| 1d9f4ca6-fcef-34f0-afb2-9545b903bd05 | -5.9185 | -48.0449 | 2024-12-08 01:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 63.2 |
+| 17323aa6-d6a9-3100-89f3-2ce2748dd906 | -11.752 | -54.7255 | 2024-12-08 01:30:00 | GOES-16 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 45.7 |
+| 353fe723-f663-36be-a41c-ee191a3fdedb | -4.5986 | -48.0123 | 2024-12-08 01:30:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| f88459b4-e12f-3094-b5c1-65fd089ee7a4 | 1.9955 | -61.1394 | 2024-12-08 01:30:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| 61415c17-cf96-3dcd-a290-b018cebca18b | -4.58 | -48.0132 | 2024-12-08 01:30:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 73.1 |
+| 93ff0fcc-490a-3e65-81b3-24d0d00b30af | -4.5799 | -48.0349 | 2024-12-08 01:30:00 | GOES-16 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 54.7 |
+| f30dbe57-2b92-3a8b-8b43-28f083093d2f | -15.3742 | -53.125599 | 2024-12-08 01:32:00 | METOP-C | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 6fb6a0ce-a48c-3169-b492-36b910ec3dd1 | -15.1677 | -56.4785 | 2024-12-08 01:32:00 | METOP-C | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 4a68b31a-cccd-3523-993e-34cf87a85fa1 | 2.5685 | -60.695 | 2024-12-08 01:32:00 | METOP-C | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 5e73a3b1-fb15-3cfd-920b-7167859f984b | 4.0805 | -61.155399 | 2024-12-08 01:32:00 | METOP-C | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 17ef8181-d173-3c19-ab5a-03d87a740f49 | -1.0817 | -62.634201 | 2024-12-08 01:32:00 | METOP-C | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| cd5bb0c0-d317-380c-8ebe-bc22e2e2a0c1 | 1.9946 | -61.1339 | 2024-12-08 01:32:00 | METOP-C | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 3ebc7288-3bc6-3476-8de9-7811a02164a8 | -15.2594 | -53.570499 | 2024-12-08 01:32:00 | METOP-C | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| ffc28912-4d6c-3be5-a486-86c7805a1eb4 | -12.779 | -54.209801 | 2024-12-08 01:32:00 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2c7ae795-7693-3839-9915-995d9bbb8f02 | -1.0832 | -62.640999 | 2024-12-08 01:32:00 | METOP-C | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| efeb32ab-df44-35fe-9156-39b2415f77b2 | -15.3709 | -53.112701 | 2024-12-08 01:32:00 | METOP-C | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 3e3a63a8-82b0-33e5-b541-bbd72a13acd8 | -11.7581 | -54.722099 | 2024-12-08 01:32:00 | METOP-C | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 11d91c72-8433-3344-9354-8d8e2f0d8829 | -12.5391 | -57.7341 | 2024-12-08 01:32:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e0b8b19c-1aff-3a9b-8054-786779e705fd | -11.761 | -54.733601 | 2024-12-08 01:32:00 | METOP-C | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | nan |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
