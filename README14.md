@@ -29,25 +29,29 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 88b97028-ecd5-3c17-8938-fe9dcffc47d4 | -10.80388 | -44.5976 | 2024-12-08 12:42:00 | TERRA_M-T | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| d69e9d95-d427-3ebe-8c56-0a882fd84b2c | -18.54519 | -49.26618 | 2024-12-08 12:44:00 | TERRA_M-T | CENTRALINA | MINAS GERAIS | Brasil | 3115805 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
-| bc3551ac-0f18-3697-825c-27d396bdccb2 | -7.983 | -50.699 | 2024-12-08 13:30:00 | GOES-16 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 100.8 |
-| 2b99b864-b738-3f9b-9452-2749d6577856 | -7.983 | -50.699 | 2024-12-08 13:40:00 | GOES-16 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 109.7 |
-| c6cbe20f-92b5-3303-9b5e-3294d506e51c | -10.6398 | -47.4577 | 2024-12-08 13:50:00 | GOES-16 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 107.9 |
-| b88c62bb-0df2-3abc-9651-f5c97b6dc9c8 | -10.0626 | -44.2158 | 2024-12-08 13:50:00 | GOES-16 | CURIMATÁ | PIAUÍ | Brasil | 2203206 | 22 | 33 | nan | nan | nan | Cerrado | 71.5 |
-| d7edb6d7-8ab9-3c48-9295-2f967bf19da4 | -12.6938 | -46.7576 | 2024-12-08 14:00:00 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 166.0 |
-| c503ce6d-8c7f-302d-b6b8-1534f112616c | -15.774 | -41.2669 | 2024-12-08 14:00:00 | GOES-16 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 86.7 |
-| 06e47926-464e-3ae9-b9f0-bef3613922f8 | -10.6398 | -47.4577 | 2024-12-08 14:00:00 | GOES-16 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 82.7 |
-| 75b396e8-c3cd-33f1-9146-6c4eeeb2c58a | -7.5953 | -46.6205 | 2024-12-08 14:00:00 | GOES-16 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 112.7 |
-| 6fb38b92-e097-36d7-af7d-068188151c9c | -12.6938 | -46.7576 | 2024-12-08 14:10:00 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 118.7 |
-| 394438a9-e3dd-3195-83d4-8f824879c226 | -15.774 | -41.2669 | 2024-12-08 14:10:00 | GOES-16 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 96.1 |
-| f486b682-c2d4-32ca-92ec-4839e61f69f5 | -7.5953 | -46.6205 | 2024-12-08 14:10:00 | GOES-16 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 139.9 |
-| e723616b-db28-3b49-bf30-81f4d4faaf66 | -12.6938 | -46.7576 | 2024-12-08 14:20:00 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 90.4 |
-| 7e7505c8-c0f5-380c-8d46-218197597845 | -15.774 | -41.2669 | 2024-12-08 14:20:00 | GOES-16 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 98.5 |
-| b6a466ad-1733-3c59-a403-10131d543a04 | 3.6575 | -60.774 | 2024-12-08 14:30:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 62.7 |
-| 980d7bb6-fa27-3337-be76-fd71bee09872 | -12.6938 | -46.7576 | 2024-12-08 14:30:00 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 98.9 |
-| a4001018-573d-321f-8559-4770046e0d9a | -15.774 | -41.2669 | 2024-12-08 14:30:00 | GOES-16 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 105.0 |
-| c1fe2b03-0408-31ed-a0aa-7ab072377b1c | -15.774 | -41.2669 | 2024-12-08 14:40:00 | GOES-16 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 112.3 |
-| 6fa56022-9229-3124-8439-878255c85cf3 | -12.6938 | -46.7576 | 2024-12-08 14:40:00 | GOES-16 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 121.8 |
+| 922e3863-15f2-3204-8294-472250bfcc95 | -17.4 | -44.93 | 2024-12-09 11:00:00 | MSG-03 | PIRAPORA | MINAS GERAIS | Brasil | 3151206 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 8b75a780-2b59-3594-8b21-7e951a45f342 | -15.73 | -45.95 | 2024-12-09 11:00:00 | MSG-03 | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 319f111b-49c2-3851-bab7-4879a444b68d | -6.9828 | -34.9165 | 2024-12-09 11:20:00 | GOES-16 | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 135.8 |
+| 2cb48d4a-1d4c-3177-90a1-7b4711891ddc | -6.9825 | -34.9441 | 2024-12-09 11:20:00 | GOES-16 | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 101.8 |
+| 7658f0de-c32d-3da6-b923-a880942cab4c | -8.85762 | -35.57455 | 2024-12-09 11:42:00 | TERRA_M-M | CAMPESTRE | ALAGOAS | Brasil | 2701357 | 27 | 33 | nan | nan | nan | Mata Atlântica | 12.4 |
+| e489e720-dbcf-3dcb-90a1-d0b94def5b37 | -6.98431 | -34.92076 | 2024-12-09 11:42:00 | TERRA_M-M | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 23.2 |
+| 36a24c50-cf26-3983-a387-1451d6fabbf8 | -4.76031 | -40.49865 | 2024-12-09 11:42:00 | TERRA_M-M | NOVA RUSSAS | CEARÁ | Brasil | 2309300 | 23 | 33 | nan | nan | nan | Caatinga | 45.9 |
+| 52160dff-da48-33c3-a0c1-7408c80fd7b3 | -10.56825 | -36.71631 | 2024-12-09 11:42:00 | TERRA_M-M | PACATUBA | SERGIPE | Brasil | 2804904 | 28 | 33 | nan | nan | nan | Mata Atlântica | 10.8 |
+| 298237fd-860d-3e78-be93-360763ef871b | -7.27308 | -35.9394 | 2024-12-09 11:42:00 | TERRA_M-M | CAMPINA GRANDE | PARAÍBA | Brasil | 2504009 | 25 | 33 | nan | nan | nan | Caatinga | 18.3 |
+| dc03360e-70a9-3e72-82ae-5d568c2d9762 | -4.7574 | -40.50544 | 2024-12-09 11:42:00 | TERRA_M-M | NOVA RUSSAS | CEARÁ | Brasil | 2309300 | 23 | 33 | nan | nan | nan | Caatinga | 42.2 |
+| a12cf4fd-7d24-3a2d-9078-90485c4e7073 | -6.98278 | -34.93109 | 2024-12-09 11:42:00 | TERRA_M-M | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 37.2 |
+| b27c9cd5-a31f-38b4-86b1-035217d2072c | -6.6225 | -35.09569 | 2024-12-09 11:42:00 | TERRA_M-M | MAMANGUAPE | PARAÍBA | Brasil | 2508901 | 25 | 33 | nan | nan | nan | Mata Atlântica | 12.6 |
+| e0ba873f-0687-3395-ae26-b72b5cba7377 | -6.98123 | -34.94157 | 2024-12-09 11:42:00 | TERRA_M-M | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 27.5 |
+| f4b6a208-108d-3b95-ba04-ac1a92a9a67b | -7.06824 | -39.04843 | 2024-12-09 11:42:00 | TERRA_M-M | AURORA | CEARÁ | Brasil | 2301703 | 23 | 33 | nan | nan | nan | Caatinga | 47.5 |
+| 812216d2-57a6-3572-a3bb-75c92abf7f5c | -6.62402 | -38.78355 | 2024-12-09 11:42:00 | TERRA_M-M | UMARI | CEARÁ | Brasil | 2313708 | 23 | 33 | nan | nan | nan | Caatinga | 23.4 |
+| bedb7566-af33-3078-86e2-775a8958ac8b | -17.41514 | -44.89495 | 2024-12-09 11:44:00 | TERRA_M-M | PIRAPORA | MINAS GERAIS | Brasil | 3151206 | 31 | 33 | nan | nan | nan | Cerrado | 46.9 |
+| 0b0efebb-2dbc-3e01-a9e4-a946a2fd94be | -7.5953 | -46.6205 | 2024-12-09 13:00:00 | GOES-16 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 132.5 |
+| da208938-e9fc-370a-9a10-9665055934fe | 1.803 | -55.9997 | 2024-12-09 13:30:00 | GOES-16 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 69.2 |
+| 79b286d8-d2ee-3f35-95f9-5899d7cd0018 | 1.803 | -55.9997 | 2024-12-09 13:50:00 | GOES-16 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 77.6 |
+| 43b38e65-3541-3201-aa06-42c7aa37730f | -1.6589 | -45.921 | 2024-12-09 13:50:00 | GOES-16 | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | 101.8 |
+| 4e53cc86-8b20-3ce4-8a70-9b024c3a9618 | -7.0625 | -39.044 | 2024-12-09 14:00:00 | GOES-16 | AURORA | CEARÁ | Brasil | 2301703 | 23 | 33 | nan | nan | nan | Caatinga | 92.6 |
+| 4b11fe81-4cc4-36ed-b437-f27dfd1842f6 | -12.6532 | -43.8312 | 2024-12-09 14:00:00 | GOES-16 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| 321d138d-2e82-3715-8bbb-a40c31e5a4d6 | -7.7913 | -37.1241 | 2024-12-09 14:10:00 | GOES-16 | MONTEIRO | PARAÍBA | Brasil | 2509701 | 25 | 33 | nan | nan | nan | Caatinga | 103.4 |
+| 3f738624-3f44-3f30-beca-af42f354e819 | -1.4549 | -45.9248 | 2024-12-09 14:10:00 | GOES-16 | LUÍS DOMINGUES | MARANHÃO | Brasil | 2106201 | 21 | 33 | nan | nan | nan | Amazônia | 159.1 |
 
 
