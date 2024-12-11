@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 16f80775-b3e4-30c8-93a6-3cc80ae7062d | -5.9183 | -48.0667 | 2024-12-10 00:00:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 9abca23a-c6fc-3f43-8747-ef3cbb32fd99 | 2.4159 | -60.6426 | 2024-12-10 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.4 |
-| 3f369e4a-e047-3ab9-8289-614b342807f3 | -3.631 | -52.6737 | 2024-12-10 00:00:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 43.0 |
-| e85aeae0-8099-345a-b75f-0983397ecdb2 | -13.9383 | -44.3628 | 2024-12-10 00:00:00 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| d74e0047-8c78-3a61-ab81-92b5e9a59a82 | -1.6404 | -45.899 | 2024-12-10 00:00:00 | GOES-16 | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | 52.4 |
-| bd8d593d-f57c-31c0-bf25-bcea2e71a34f | -3.843 | -50.6627 | 2024-12-10 00:00:00 | GOES-16 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 68.4 |
-| 151ddf13-dde3-3ddc-8d38-da3d830a02a9 | -5.9371 | -48.0437 | 2024-12-10 00:00:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 97.3 |
-| 925e6175-104b-3aea-a52b-cc42cf459d54 | -13.206 | -56.8807 | 2024-12-10 00:00:00 | GOES-16 | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 74.3 |
-| 185ac974-2578-3862-8725-2d60ff6ec56e | 2.4341 | -60.6613 | 2024-12-10 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.7 |
-| ba1660b4-71d6-329b-9c6c-e92381c92679 | -3.0921 | -54.0662 | 2024-12-10 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 58.0 |
-| 1ca11fdf-3eec-3aa9-92b6-104e08da8e8d | 2.4341 | -60.6424 | 2024-12-10 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 76.1 |
-| b942bf35-0bbd-3db4-8df4-bd529f34eeb9 | -11.5426 | -56.4438 | 2024-12-10 00:00:00 | GOES-16 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 72.5 |
-| 6687125e-2e64-3c03-af23-79149c8b0773 | -2.219 | -44.8068 | 2024-12-10 00:00:00 | GOES-16 | CENTRAL DO MARANHÃO | MARANHÃO | Brasil | 2103125 | 21 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| b9fa7c0f-73b9-37c8-b6a4-51ed63fb5894 | -4.2726 | -46.6723 | 2024-12-10 00:00:00 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 2cfc577f-c855-3a9f-b5bc-75a1d264f5b4 | -2.9859 | -52.8554 | 2024-12-10 00:00:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 146.6 |
-| 326fc7a3-798c-3214-a901-b797973eee15 | -3.0043 | -52.8549 | 2024-12-10 00:00:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 79.5 |
-| d29617fb-21e4-3da7-9750-5fe0e0d57d35 | -2.8199 | -52.9816 | 2024-12-10 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 98.5 |
-| 83e77452-ad75-36a8-a51a-fde08bcb7c2f | -2.986 | -52.835 | 2024-12-10 00:00:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 84.4 |
-| ad7acb19-90e5-3f5c-9fed-9ae90d99a37f | -2.0872 | -45.3519 | 2024-12-10 00:00:00 | GOES-16 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 77.6 |
-| 21897212-a0b6-3dde-a7c0-aac2fc16f90c | -2.82 | -52.9613 | 2024-12-10 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 56.3 |
-| 6904acad-be10-3086-8a86-805b3aa2a6a3 | -3.1105 | -54.0657 | 2024-12-10 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 63.9 |
-| 310c7952-cc39-3ebd-b07f-1daa5546ded7 | -2.9119 | -52.959 | 2024-12-10 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 95.7 |
-| dda92887-67c8-3894-8dd4-90d57f39907b | -5.9185 | -48.0449 | 2024-12-10 00:00:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 186.0 |
-| 4529268e-e1eb-39ae-b3a9-c4b2da88e505 | -3.0547 | -54.2478 | 2024-12-10 00:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 72.0 |
-| fb0619dc-5a3f-35c9-8034-2747ffe26078 | -3.1104 | -54.0858 | 2024-12-10 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 56.8 |
-| c008768c-2755-3329-9802-c7569338ce9b | -13.9389 | -44.3392 | 2024-12-10 00:00:00 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 64.0 |
-| cf71f7ad-5b14-382a-aa41-8cb8350506e7 | -3.5837 | -43.5413 | 2024-12-10 00:00:00 | GOES-16 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 67.0 |
-| 8c9217a3-e186-30f5-b4ed-5bb2542929ab | 2.4341 | -60.6613 | 2024-12-10 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 51.4 |
-| 5501c71d-766f-39a1-aa9c-fce8e5b1501f | -3.1105 | -54.0657 | 2024-12-10 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 63.1 |
-| 0b769d5e-81b0-348c-8f30-10f3c90ec47b | -3.0547 | -54.2478 | 2024-12-10 00:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 73.4 |
-| e5100bce-03b2-3060-87d9-fb745fc9f620 | -2.9859 | -52.8554 | 2024-12-10 00:10:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 262.0 |
-| 0652c6ce-fd46-3bb1-8234-30639e039182 | -3.0921 | -54.0662 | 2024-12-10 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 58.4 |
-| bdf0ac41-cb4c-38cf-9a9b-556fe7e4f517 | -4.2726 | -46.6723 | 2024-12-10 00:10:00 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 59.9 |
-| c423b52d-85d0-329a-9129-2d2aca123f98 | -13.206 | -56.8807 | 2024-12-10 00:10:00 | GOES-16 | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 70.5 |
-| 98612afc-a7e5-32a8-acac-48c22fbe08ee | -2.986 | -52.835 | 2024-12-10 00:10:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 151.0 |
-| 6e57fb48-c41f-3f22-9243-31e7a67b1a7f | -5.9183 | -48.0667 | 2024-12-10 00:10:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 103.5 |
-| f83a27ff-d0c6-3c6b-8267-df111e69b9ae | -4.2725 | -46.6944 | 2024-12-10 00:10:00 | GOES-16 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 51.5 |
-| e4ec3099-9763-39cf-a637-10c183dcbbf8 | -13.9383 | -44.3628 | 2024-12-10 00:10:00 | GOES-16 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 74.4 |
-| d2182114-1b27-3446-8463-21013b6ff813 | -6.9158 | -43.5185 | 2024-12-10 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 87.6 |
-| 6e8a4551-ac73-3902-ae49-88446cb8196d | -3.5837 | -43.5413 | 2024-12-10 00:10:00 | GOES-16 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| 2a141b30-22b5-3ab1-9065-193d67508234 | -2.8199 | -52.9816 | 2024-12-10 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 98.6 |
-| a996400c-c88a-3542-95a7-3176b82174c7 | -3.0044 | -52.8345 | 2024-12-10 00:10:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 89.5 |
-| 3f886880-ee2f-33a6-b598-bdbd28d4de24 | -2.9119 | -52.959 | 2024-12-10 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 85.0 |
-| d00d7079-494c-368f-8628-1b3ad81bfa43 | -5.9185 | -48.0449 | 2024-12-10 00:10:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 170.6 |
-| e7f46845-f4e7-3459-98ad-75de0aa7a71c | -12.8667 | -58.2106 | 2024-12-10 00:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| f0601e2d-aa73-3edc-9892-f7c68349ca6e | 2.4341 | -60.6424 | 2024-12-10 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.4 |
-| 03e79a76-8f37-3688-ba82-ac1da85d0f34 | -5.9371 | -48.0437 | 2024-12-10 00:10:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 84.9 |
-| 58bd05ad-7d13-3069-b11c-d0b2798f8d2f | -3.0043 | -52.8549 | 2024-12-10 00:10:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 151.7 |
-| 182a8716-0bcb-3c6f-95fb-c1a4f24dbaec | -3.0547 | -54.2478 | 2024-12-10 00:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 68.5 |
-| 1c25767e-f77c-3a46-b824-6defcb977feb | -5.9183 | -48.0667 | 2024-12-10 00:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 107.1 |
-| 6afdf0e0-8fd9-3167-9910-fcb0309cc537 | -3.5837 | -43.5413 | 2024-12-10 00:20:00 | GOES-16 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 58.5 |
-| c117fe13-a547-3117-bc11-f807ba8418a0 | -5.9371 | -48.0437 | 2024-12-10 00:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 110.4 |
-| f9ecedfb-091d-3bf5-b431-73391f4355a6 | -3.1105 | -54.0657 | 2024-12-10 00:20:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 60.6 |
-| 9be16186-bcea-30d2-94be-35ec00d5e05d | -2.9859 | -52.8554 | 2024-12-10 00:20:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 231.1 |
-| 19234519-a29e-34cb-b47a-c81eba39b95c | -3.0043 | -52.8549 | 2024-12-10 00:20:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 126.0 |
-| debc14ab-74bd-3e4e-ab4a-af372c1adbc6 | -3.0044 | -52.8345 | 2024-12-10 00:20:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 74.6 |
-| 84d6ef34-62cd-3333-9f81-20f6aae160c3 | 2.4341 | -60.6424 | 2024-12-10 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 57.6 |
-| c4678664-5970-3a44-a20d-76100ed37370 | -5.9185 | -48.0449 | 2024-12-10 00:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 187.9 |
-| 01ecae6e-db9f-3db2-ab43-80d5b5dc558c | -2.986 | -52.835 | 2024-12-10 00:20:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 130.0 |
-| c8d853f9-af37-3f78-aeb0-bab539d6c2f0 | -6.9158 | -43.5185 | 2024-12-10 00:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 107.1 |
-| 312818e8-f9f0-33fa-9f8a-131cfc667832 | -4.3959 | -47.7618 | 2024-12-10 00:20:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 52.5 |
-| 65b56efc-37c5-3516-b6e1-88c1e6c219d3 | -2.8199 | -52.9816 | 2024-12-10 00:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 97.7 |
-| f9fde6ec-c63d-3140-af56-4db7907aa768 | -5.8998 | -48.0461 | 2024-12-10 00:20:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 76.3 |
-| a4e54436-9691-318f-9e7f-b237e5ee0ab9 | -2.9119 | -52.959 | 2024-12-10 00:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 77.1 |
-| 33513cca-3f2b-3df6-8e4a-041d4c85c99c | -2.9303 | -52.9585 | 2024-12-10 00:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 59.2 |
-| 41df4fda-5194-36f1-a617-2aee52e75d8a | -4.3961 | -47.74 | 2024-12-10 00:30:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 58.9 |
-| 4a760396-6937-39f1-8bff-7ddb0774d065 | -6.9158 | -43.5185 | 2024-12-10 00:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 115.8 |
-| bad262c2-f836-39f3-8b37-ffad2886bcf1 | -3.5313 | -54.5957 | 2024-12-10 00:30:00 | GOES-16 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 50.6 |
-| d540f6dd-368c-366c-a908-d23f7e727676 | -5.9371 | -48.0437 | 2024-12-10 00:30:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 103.3 |
-| 8e05387c-ae7f-3d0f-a384-21d0ad475f1c | -3.0043 | -52.8549 | 2024-12-10 00:30:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 109.8 |
-| df61b70c-cd5c-3ec9-a61a-3b9e1e5fff33 | -4.3959 | -47.7618 | 2024-12-10 00:30:00 | GOES-16 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 77.9 |
-| 422cf070-eb82-3ba0-ae85-38586daa5b23 | -2.986 | -52.835 | 2024-12-10 00:30:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 85.2 |
-| f4fc073d-1c09-3b92-bb57-f25733903255 | -2.9119 | -52.959 | 2024-12-10 00:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| f40e884f-aafe-3bc5-bd42-6601e651efa8 | -3.0044 | -52.8345 | 2024-12-10 00:30:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 67.0 |
-| 3f521527-3e04-3748-8f1c-12d90ed3de00 | -6.9161 | -43.4952 | 2024-12-10 00:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 96.0 |
-| b77a5c88-dcfb-3806-9b66-6a539f52d9f1 | -5.9183 | -48.0667 | 2024-12-10 00:30:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 97.6 |
-| 9efba962-b3be-3bee-9efb-927f37e55e79 | -5.9185 | -48.0449 | 2024-12-10 00:30:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 201.2 |
-| 665c955a-135b-32ed-a4ee-40cae8a1520e | -2.8199 | -52.9816 | 2024-12-10 00:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 78.6 |
-| aa59a049-162d-3cb0-9918-89c1d7968891 | -3.0547 | -54.2478 | 2024-12-10 00:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| be75175a-6a7b-30d8-83fa-bcca26e3b0b2 | -2.9859 | -52.8554 | 2024-12-10 00:30:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 172.7 |
-| 19b240ab-d656-3a14-8689-d26ed547504e | -12.3664 | -54.1534 | 2024-12-10 00:30:00 | GOES-16 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 50.0 |
-| 9fa5923c-3cec-3cb9-b915-7970c0e46bf0 | -5.9183 | -48.0667 | 2024-12-10 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 94.8 |
-| e379bc53-535f-3a87-b7e0-94d68f39b1eb | -2.9119 | -52.959 | 2024-12-10 00:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 62.2 |
-| 039ea710-5779-3e33-aa61-451bb6e3c362 | -3.0547 | -54.2478 | 2024-12-10 00:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 60.7 |
-| 4fa66343-b719-3ece-9e6a-54c15bbc0447 | -3.1105 | -54.0657 | 2024-12-10 00:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 57.6 |
-| 910c5747-bc33-3ee0-b0cf-5aa12d1f3228 | 2.4341 | -60.6424 | 2024-12-10 00:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| b0b1ea6e-336e-3012-9b07-adf0b3f525b9 | -3.5313 | -54.5957 | 2024-12-10 00:40:00 | GOES-16 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| 76234e9a-6707-30a9-9488-9870939323ff | -3.0044 | -52.8345 | 2024-12-10 00:40:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 59.7 |
-| 3e485b06-1fd1-39d0-9d01-0964d4a8df6c | -3.0043 | -52.8549 | 2024-12-10 00:40:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 103.4 |
-| e0eef2a5-5e7f-3bb7-90f1-ef9b87383458 | -6.9158 | -43.5185 | 2024-12-10 00:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 137.0 |
-| 800fd966-a239-316e-a0b1-526649aadf26 | -2.9859 | -52.8554 | 2024-12-10 00:40:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 191.0 |
-| 64008d93-46d6-392c-b8ba-fff2afacbd95 | -6.9161 | -43.4952 | 2024-12-10 00:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 95.7 |
-| 058e4dc3-8ab2-39ae-8159-149616b492c7 | -11.5426 | -56.4438 | 2024-12-10 00:40:00 | GOES-16 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 80.4 |
-| af52e414-d59f-3a55-87bf-b6e3407fd6ac | -5.9185 | -48.0449 | 2024-12-10 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 145.0 |
-| 0bef5b99-bb16-38ed-bd22-f2c0bff8fef9 | -5.9371 | -48.0437 | 2024-12-10 00:40:00 | GOES-16 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 88.6 |
-| f322fdcc-8b7e-3df5-9356-0cc7c3e922ba | -2.8199 | -52.9816 | 2024-12-10 00:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 89.2 |
-| b6d32990-e1ef-38d8-9eb6-391446469ead | -12.3661 | -54.174 | 2024-12-10 00:40:00 | GOES-16 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 48.3 |
-| bc27ed7a-2408-3a45-8caa-a0d8e9eb9e63 | -2.986 | -52.835 | 2024-12-10 00:40:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 111.3 |
-| 932857f4-8898-38b2-a2d6-73516fab4e68 | -2.986 | -52.835 | 2024-12-10 00:50:00 | GOES-16 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 93.6 |
-| 02a29a41-f5fe-3729-b117-c16a59274398 | -2.8199 | -52.9816 | 2024-12-10 00:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 90.0 |
+| d52b95a8-eed2-3485-a060-edfb1952f2ba | -3.3341 | -53.2523 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 70.8 |
+| 63ae480a-c7ad-3499-a8d3-221ed46f7271 | -2.9483 | -53.1003 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 60.8 |
+| b31b5fa8-92d1-34cc-ae6a-e998b78c71b0 | 2.7627 | -60.6188 | 2024-12-11 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 71.5 |
+| 925f7cca-3ac7-3099-8365-6b568ca40849 | -6.8972 | -43.4969 | 2024-12-11 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 98727a85-96d0-383a-b7ec-0bc5352249ba | -11.1295 | -54.6391 | 2024-12-11 00:00:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 75.2 |
+| 58fb3b0f-af04-3fef-98bd-14773df3c30f | -18.0266 | -52.9614 | 2024-12-11 00:00:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 114.6 |
+| 83311717-0b39-3355-a825-10b9eefe7c28 | -2.8197 | -53.0425 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 61.6 |
+| b20e145e-9752-38f9-8950-049f2aef2a4b | -2.8196 | -53.0629 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 74.1 |
+| 7173b154-e953-3b67-a703-1e8749f3c2a6 | 2.7627 | -60.6378 | 2024-12-11 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 161.4 |
+| 1043823e-6a43-39bb-b891-a47cf5df9615 | -6.9594 | -42.9759 | 2024-12-11 00:00:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 65.7 |
+| 45eb12da-de44-3b5a-821b-fa06fd39c645 | -2.9482 | -53.1206 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 79.9 |
+| 2de2f874-3654-3621-862e-2772777321c6 | 2.7444 | -60.657 | 2024-12-11 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 126.4 |
+| cebfcc56-6336-3dd4-8ce6-92442dcfb375 | -3.0949 | -53.2385 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 65.2 |
+| 801931dc-b191-38be-9980-57297ae78980 | -6.9158 | -43.5185 | 2024-12-11 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 148.9 |
+| 253d6f32-d793-3296-81eb-40fdbff0413c | -2.9666 | -53.1201 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 76.4 |
+| abb5a602-a27a-3265-9b9e-c2f9e1a41cf8 | -6.9783 | -42.9741 | 2024-12-11 00:00:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 45.6 |
+| 8a12d665-5c4c-35b9-920d-5e099700fda2 | -6.897 | -43.5202 | 2024-12-11 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 125.3 |
+| 9101b354-dea7-3bbb-9a06-9e5aa04cdae4 | -11.1106 | -54.6408 | 2024-12-11 00:00:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 134.1 |
+| a65698f9-92ae-3c0d-b13f-9c3dacf9094e | -6.9403 | -43.0012 | 2024-12-11 00:00:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 61.9 |
+| 00f392dc-7a3c-31ed-a605-8f18e2a15db1 | 2.7444 | -60.6381 | 2024-12-11 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 178.1 |
+| b5711ead-b346-3f9b-9e6e-588e4cb01bce | -3.1287 | -54.1054 | 2024-12-11 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| 787aeeef-f3ba-3e6e-b629-edb66882fc1e | -3.1133 | -53.2381 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 74.4 |
+| b2074d1d-7012-3391-8a87-ba6e4ef6fabe | 2.7627 | -60.6567 | 2024-12-11 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 86.1 |
+| e0482610-7edb-3a8b-a9b8-e00b1199c338 | -3.1288 | -54.0853 | 2024-12-11 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 94.2 |
+| fe1a40c5-8452-32e3-8569-ab4516ad588e | -6.9592 | -42.9994 | 2024-12-11 00:00:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 193.7 |
+| 13a453de-8eed-3880-8d2c-0ae8a1cdf409 | -2.9667 | -53.0998 | 2024-12-11 00:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 60.9 |
+| 44a9c0ff-6cee-396b-a859-f4178215760d | -3.1471 | -54.0849 | 2024-12-11 00:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.2 |
+| d50ca3d9-1974-3ac4-bd95-3c9ae9d90660 | -6.978 | -42.9977 | 2024-12-11 00:00:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 124.8 |
+| 102134ed-65fa-3c47-95b5-85573a940119 | -3.8165 | -52.3813 | 2024-12-11 00:00:00 | GOES-16 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 6865fdc6-ccfc-3fdf-854c-99286d0be34e | -6.9161 | -43.4952 | 2024-12-11 00:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 116.0 |
+| 84f69f49-bfac-3342-afcb-773dda32e222 | -11.1109 | -54.6204 | 2024-12-11 00:00:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| cf08b9f1-7dbb-3952-8a77-a7be04111734 | -15.971 | -57.1669 | 2024-12-11 00:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 63.5 |
+| 377dbfde-09d0-3a87-b461-269ac7a6d896 | -15.0865 | -59.6487 | 2024-12-11 00:00:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| c0a05d77-8571-3dc3-b0ff-bf2d3cffa99b | -3.1104 | -54.0858 | 2024-12-11 00:00:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 64.0 |
+| 58f560c7-b976-3b2d-8406-e4e68b60ba98 | -3.2351 | -42.4353 | 2024-12-11 00:00:00 | GOES-16 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 55.9 |
+| 1a42b63c-6848-35cf-93e6-9a1dea5bd6b8 | -18.0261 | -52.9829 | 2024-12-11 00:00:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 115.7 |
+| c8776431-bfc2-3c8b-b868-77f45fb0b4e7 | -18.1192 | -40.1311 | 2024-12-11 00:10:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 105.1 |
+| 98e62298-3576-3bfb-a5da-44553c092e94 | -12.5427 | -58.3362 | 2024-12-11 00:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| bc171724-10d5-317f-987b-3f457f5a1ffd | -3.1104 | -54.0858 | 2024-12-11 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| 3325fafe-2419-326c-8bcf-800b741777a7 | -15.971 | -57.1669 | 2024-12-11 00:10:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 65.6 |
+| 513f4f30-bf32-3ed7-b0f9-34467c94cdcb | -6.9161 | -43.4952 | 2024-12-11 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 113.5 |
+| 688e2030-f7a1-3804-996a-4aee4d540963 | -2.9666 | -53.1201 | 2024-12-11 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 80.6 |
+| b775498a-3aca-39e3-ac7c-764ab324ee90 | -6.9158 | -43.5185 | 2024-12-11 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 133.1 |
+| ca94db4c-1090-302c-bf5c-f63dae1cd0d3 | -12.5425 | -58.3561 | 2024-12-11 00:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 84.0 |
+| 7f672b4f-4e26-3be3-bf6d-00a6b4a3443e | -12.5617 | -58.3347 | 2024-12-11 00:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 55.0 |
+| d48cf027-db01-3e85-8621-2cd1d2cef2da | -6.9592 | -42.9994 | 2024-12-11 00:10:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 61.0 |
+| fe1860fe-e6d0-33b8-a6ac-e8247861d2e8 | 2.7444 | -60.6381 | 2024-12-11 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 184.3 |
+| bdfd4212-d8b0-3819-8fec-e1c7e3b8cf23 | -12.5615 | -58.3546 | 2024-12-11 00:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 78.3 |
+| 699ef175-e8c0-36df-8a68-59e195b2c2f9 | -18.0266 | -52.9614 | 2024-12-11 00:10:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 91.0 |
+| 1caa3ba0-104c-3958-aa1e-b7565aebb05b | -2.9482 | -53.1206 | 2024-12-11 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 72.8 |
+| 97ac5b04-399d-3acd-8e5d-318c10f28d6b | 2.7627 | -60.6567 | 2024-12-11 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 83.5 |
+| 6dc2b3ff-8f95-3a17-a537-e026e845fac1 | -18.0062 | -52.9861 | 2024-12-11 00:10:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| b5e7ab2e-829c-3902-987a-b8b8c1fb8fef | 2.7444 | -60.657 | 2024-12-11 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 108.4 |
+| 90496c30-666b-3fec-80fb-4c4260c2774d | -11.1106 | -54.6408 | 2024-12-11 00:10:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 101.0 |
+| fd090cab-0eac-3bb6-9fd0-93de557bef3b | -3.1287 | -54.1054 | 2024-12-11 00:10:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 78.9 |
+| 7896e019-0796-3d25-9823-f2c64ce6532f | -15.0865 | -59.6487 | 2024-12-11 00:10:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 70.7 |
+| 6f1f40d3-7015-332a-b3c9-dcd9c7b13f06 | -3.1288 | -54.0853 | 2024-12-11 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 121.7 |
+| 254e0c38-1e6e-3d77-bea4-7ee67f18b69c | -18.0261 | -52.9829 | 2024-12-11 00:10:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 93.0 |
+| aa766154-671a-39ec-b124-c4e7dc165713 | -6.978 | -42.9977 | 2024-12-11 00:10:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 48.9 |
+| ca579825-2d67-3c77-a02e-653c30ba10dc | 2.7445 | -60.6191 | 2024-12-11 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.5 |
+| f2c60293-de46-3de4-b23f-1717297b2c72 | -6.8972 | -43.4969 | 2024-12-11 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 140.7 |
+| ac72e740-7e6a-3d85-9b66-6396d9002883 | -3.1471 | -54.0849 | 2024-12-11 00:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 60.8 |
+| 6a91f96e-5fc5-3963-92fc-1b78398077e7 | 2.7627 | -60.6188 | 2024-12-11 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 76.8 |
+| b96d77b6-6fe2-3f75-8e4e-1942c8afe5c6 | -11.1295 | -54.6391 | 2024-12-11 00:10:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 95.6 |
+| 567d803b-e65e-3e1b-adeb-1222d3503c05 | -3.1133 | -53.2381 | 2024-12-11 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 71.0 |
+| f2a1b410-267c-362b-a52c-b63ff1262bbf | -6.897 | -43.5202 | 2024-12-11 00:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 194.9 |
+| 8491a5bc-d85a-38eb-ac04-af22668cdae9 | -3.8165 | -52.3813 | 2024-12-11 00:10:00 | GOES-16 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 75.1 |
+| f3182361-4131-3ff4-9a5c-50a29de34fa4 | 2.7627 | -60.6378 | 2024-12-11 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 172.0 |
+| f1791050-5d67-385e-a26b-c93b420a8a3c | -3.3341 | -53.2523 | 2024-12-11 00:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 71.7 |
+| 72f6390d-8fe6-30ab-85fe-0c5148e4a397 | -6.9592 | -42.9994 | 2024-12-11 00:20:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 114.7 |
+| 2e866e99-2857-304d-90a2-53744e24de78 | -18.0261 | -52.9829 | 2024-12-11 00:20:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 100.6 |
+| 02d73c98-2d26-34d8-aa99-3ea2c75e5964 | 3.2362 | -61.1982 | 2024-12-11 00:20:00 | GOES-16 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 62.1 |
+| 9d6184a1-8c68-3494-b0e4-1e581607ff8f | -18.0981 | -40.1629 | 2024-12-11 00:20:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 101.4 |
+| abc8d4d2-9b21-3f08-a890-a93632d0ad00 | 2.7444 | -60.657 | 2024-12-11 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 118.4 |
+| b37f89bf-c53d-3c56-97cd-efd6338f9e40 | -6.978 | -42.9977 | 2024-12-11 00:20:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 77.9 |
+| 92548f1f-f759-3826-a17a-54b9627a685d | -18.0997 | -40.1106 | 2024-12-11 00:20:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 100.9 |
+| dcabb128-5025-3b55-9f77-2f139e478a79 | -3.1288 | -54.0853 | 2024-12-11 00:20:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 121.2 |
+| d274d9a6-4ad3-37f6-88d0-2856fedff848 | -11.1295 | -54.6391 | 2024-12-11 00:20:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 85.5 |
+| 934f184b-d0c3-38af-95d8-766c5e7f145a | -18.1184 | -40.1572 | 2024-12-11 00:20:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 117.3 |
+| fde18889-7401-3f04-bfb7-e0d111da033b | 2.7627 | -60.6567 | 2024-12-11 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 68.4 |
+| 1b06ef58-562a-3e2d-a745-c8f142b2f333 | -18.1192 | -40.1311 | 2024-12-11 00:20:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 300.8 |
+| 3e37199c-edc8-362c-9bea-efa538ac6f38 | -11.1104 | -54.6612 | 2024-12-11 00:20:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 97318c15-fae7-38d9-ad52-cd540e71d572 | -11.1106 | -54.6408 | 2024-12-11 00:20:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 157.2 |
+| 9ca9cf9f-2cec-3eb4-9e00-9685b464264f | -3.1471 | -54.0849 | 2024-12-11 00:20:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| f1435675-1f62-31c2-8e67-ba7f9207baf3 | -3.1287 | -54.1054 | 2024-12-11 00:20:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 91.9 |
+| a5960e75-cb38-3d02-8d21-816c4c14ab2e | -9.5316 | -36.0053 | 2024-12-11 00:20:00 | GOES-16 | ATALAIA | ALAGOAS | Brasil | 2700409 | 27 | 33 | nan | nan | nan | Mata Atlântica | 95.4 |
+| 845da7a2-f2fe-30d3-a9dc-171087116f29 | -2.9666 | -53.1201 | 2024-12-11 00:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 78.0 |
+| 1b70b757-bff0-3063-8c41-fa5ddab928e8 | -18.12 | -40.1049 | 2024-12-11 00:20:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 109.8 |
+| 2da3cda1-1594-3260-bf95-21c8ce3017d5 | 2.7444 | -60.6381 | 2024-12-11 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 203.7 |
+| a558bd1b-0ed6-3c34-96b4-12e2c7309b13 | -3.1471 | -54.1049 | 2024-12-11 00:20:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 54.9 |
+| 1b8d0889-097e-3930-b9fd-6ddf5c50fd0f | -15.971 | -57.1669 | 2024-12-11 00:20:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| f7779987-3bdf-3f9f-9157-a4b1803f802e | -15.0865 | -59.6487 | 2024-12-11 00:20:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 49.2 |
+| cc6e1e71-c3c0-3a05-b74b-f00b97e4ad62 | -18.0266 | -52.9614 | 2024-12-11 00:20:00 | GOES-16 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 99.6 |
+| 7e61b287-f2d4-32b0-9fa6-16c0f43fb8bb | -3.1133 | -53.2381 | 2024-12-11 00:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 74.2 |
+| 7bd7257b-1d25-3d29-90c8-9b31e1bcc016 | -11.1109 | -54.6204 | 2024-12-11 00:20:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 84.1 |
+| 57ad04fc-ed1e-3557-aeb0-4a7744619883 | 3.2179 | -61.1985 | 2024-12-11 00:20:00 | GOES-16 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 54.6 |
+| e9ecc19a-537d-37ab-9e11-86331f136298 | -18.0989 | -40.1368 | 2024-12-11 00:20:00 | GOES-16 | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 277.1 |
+| 9822a7c8-3ceb-369d-922e-88eb348d8106 | 2.7627 | -60.6378 | 2024-12-11 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 153.5 |
+| 4bb30029-07e0-3b11-b592-17212da1e541 | -2.9482 | -53.1206 | 2024-12-11 00:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 73.3 |
+| 2300275b-3924-39d2-91bf-01ca6a5cba49 | 2.7627 | -60.6188 | 2024-12-11 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.5 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
