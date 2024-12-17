@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 66281541-55e4-3deb-b704-be171e4ed13f | -4.6568 | -43.82327 | 2024-12-14 04:25:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 89644307-1c56-3db7-8c63-1cdcd546b59c | -13.16883 | -53.28899 | 2024-12-14 04:25:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 45071a2c-d107-3509-ac08-f8d7faf8e5fd | -4.41298 | -45.83025 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 097ff46c-05e3-36f3-b151-b1689a8fda30 | -4.31611 | -47.528 | 2024-12-14 04:25:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| af44e9cb-83ae-3fae-aad3-d400c4c0200a | -14.68725 | -52.63506 | 2024-12-14 04:25:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 443a78ca-115f-3e24-9750-71a18d719782 | -13.16537 | -53.2844 | 2024-12-14 04:25:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| bcf7ccb0-89d7-3bdc-b19e-1f63f23fd016 | -4.31952 | -47.52857 | 2024-12-14 04:25:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f2d7cd73-5a60-3f32-b8b8-c9ffdf9c87fa | -4.05199 | -46.67463 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| beb6b52d-266f-3a35-8092-29ee6e2c9605 | -4.05255 | -46.6711 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| a6d41576-baf8-301f-a9b2-d4c1b22051d9 | -12.55754 | -57.71334 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c9d578ad-614a-3111-9363-13ab94ebd94d | -4.40967 | -45.82973 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| f875fc83-bd8a-3fe1-a71e-ab2909e8d6b5 | -4.00775 | -46.54874 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e025cbe9-d3fc-3d4a-a6c3-ba72fc10d302 | -4.09766 | -46.66745 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d9f85666-b77f-3956-958a-5d95c0cb0397 | -4.41352 | -45.8268 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 63d90a3e-8797-3d96-ab2a-18ac5e39f025 | -6.01921 | -45.81136 | 2024-12-14 04:25:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e9fa9807-69dc-3f0c-b2fa-ffbcea36ca87 | -15.56889 | -47.85393 | 2024-12-14 04:25:00 | NOAA-20 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| db9e040b-c85a-36ff-b6bd-83a8193bdb85 | -5.06013 | -42.61327 | 2024-12-14 04:25:00 | NOAA-20 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 4c370c95-bed3-34d5-a865-b9d7303a2d05 | -4.01089 | -46.54559 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 7429e1ea-4cc6-32d1-9884-b503b9d64969 | -6.0379 | -44.04089 | 2024-12-14 04:25:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 9e404db4-8ac0-3b31-b77c-f38cab9d73d0 | -13.94861 | -44.2028 | 2024-12-14 04:25:00 | NOAA-20 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| a189af9a-0cd5-3ad3-9327-745858d8430a | -5.35269 | -46.22604 | 2024-12-14 04:25:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ab511766-532b-3bcb-823a-1181413fba26 | -14.95818 | -46.90518 | 2024-12-14 04:25:00 | NOAA-20 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| e70f95cf-2272-319b-aeb4-d2a3d6ae9573 | -5.50584 | -45.48961 | 2024-12-14 04:25:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 9b705ca2-85ba-30dd-a4d2-9e3c3f0b8728 | -4.04865 | -46.67409 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 50504e65-2d4e-3d75-9a8a-d5758d35b32a | -5.53482 | -42.8536 | 2024-12-14 04:25:00 | NOAA-20 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 2158489c-bdae-3a6d-9dc1-8852eac4499d | -14.9701 | -44.40791 | 2024-12-14 04:25:00 | NOAA-20 | ITACARAMBI | MINAS GERAIS | Brasil | 3132107 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 32491e33-c2c4-3a98-9c96-30ff430feb4d | -4.09745 | -46.68502 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3b0a145a-79d3-30f0-9f5c-bcfd1ee26daf | -4.05311 | -46.66757 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 04033d43-a124-3981-9af0-662920f2df01 | -4.37722 | -47.62897 | 2024-12-14 04:25:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f37e2f59-bb4c-3fd9-9a4a-164a5b34ca34 | -4.72259 | -43.19668 | 2024-12-14 04:25:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 189a71c4-3d27-37e6-8e26-e6c71c29f8a1 | -4.42013 | -45.82784 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| af639822-1d41-3cef-b0a2-3c4b95407d32 | -4.23008 | -46.79266 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ba4afe28-c1e9-3622-acf8-9ecc62f17fd4 | -3.98241 | -46.89615 | 2024-12-14 04:25:00 | NOAA-20 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a65dd51e-557f-3835-b8b8-210e9edcd705 | -4.01033 | -46.5491 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| e84ece6d-6b63-329c-9ef5-b33d44c6ab5d | -13.18582 | -49.77797 | 2024-12-14 04:25:00 | NOAA-20 | NOVO PLANALTO | GOIÁS | Brasil | 5215256 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 66b08b66-c3fd-3274-bc77-fe502414ea79 | -4.08485 | -46.66183 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d94e5e89-4586-3c9e-ad46-6c6e34b32b33 | -11.82742 | -57.82821 | 2024-12-14 04:25:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 29597f6e-a464-32ca-a5d2-e61836659413 | -4.22673 | -46.79216 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| aa7af803-bf54-3594-9785-47aaef06be5e | -16.92112 | -43.59652 | 2024-12-14 04:25:00 | NOAA-20 | GLAUCILÂNDIA | MINAS GERAIS | Brasil | 3127354 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 616b826c-ecd2-3bfa-9c2e-d51a1f1a0a4a | -4.09875 | -46.61708 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 13.0 |
-| 65f69f64-b65d-30a3-8599-8e2d7ebd726e | -4.41574 | -45.83421 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 4f706ab0-4e42-3c02-aba7-7986cc763230 | -4.40745 | -45.82232 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c1072905-d990-3776-9952-5b60e9021d75 | -6.01645 | -45.80738 | 2024-12-14 04:25:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e6d00b89-bbcb-3b0e-9e22-4eedac8fc7d1 | -6.92288 | -35.71482 | 2024-12-14 04:25:00 | NOAA-20 | AREIA | PARAÍBA | Brasil | 2501104 | 25 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| e7c9d578-cd6d-3021-bfc7-ae572042aa7e | -6.52276 | -41.28428 | 2024-12-14 04:25:00 | NOAA-20 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 6958db80-51d5-3722-a1a2-4fb242dcfd05 | -12.55193 | -57.71227 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| a819a7c3-f51e-32f4-a790-3cb319598734 | -12.33991 | -51.36286 | 2024-12-14 04:25:00 | NOAA-20 | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e6f461f3-a531-3620-a1ea-c462156f534d | -4.09764 | -46.62414 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 3a815b21-2f68-3f96-889c-bae9c4516354 | -6.02252 | -45.81187 | 2024-12-14 04:25:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 7f7c9b50-3f6e-3781-9b15-e52c450ef865 | -6.93018 | -42.84777 | 2024-12-14 04:25:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 684c48e1-2c77-3515-a4ef-5a4838cb6422 | -12.55896 | -57.76559 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 11433e2b-0d79-336c-95c4-fc9b437088d5 | -4.40582 | -45.83265 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ea723661-51b9-3387-a337-45fb2648ed93 | -5.30607 | -46.07013 | 2024-12-14 04:25:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 58dca910-8d89-370a-ad79-77c625473748 | -4.40305 | -45.82869 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 747b9397-ea95-3432-b5ec-78da916feb69 | -11.82903 | -57.82013 | 2024-12-14 04:25:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| c90064ac-4674-3bfc-949a-7f4a5304bcb4 | -4.40913 | -45.83317 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| f4ae3c5e-1fe3-32a2-a9d5-8276d89b1568 | -5.4319 | -37.85137 | 2024-12-14 04:25:00 | NOAA-20 | APODI | RIO GRANDE DO NORTE | Brasil | 2401008 | 24 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 4b5c4414-baac-3188-b022-03237231e688 | -4.01467 | -46.65073 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| f5a512e3-4487-3a55-87b0-c1f13bee5c61 | -6.51427 | -41.28651 | 2024-12-14 04:25:00 | NOAA-20 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 1a0ee60b-9ed5-3131-b339-4835f9e4ebd9 | -4.09541 | -46.61655 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 13.0 |
-| 8bc3d1c7-9d0d-3190-9373-bb4352ee90c7 | -5.53419 | -42.85768 | 2024-12-14 04:25:00 | NOAA-20 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 6aede229-3dea-3707-aadd-737740bb5014 | -11.82251 | -57.82304 | 2024-12-14 04:25:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c97a01f9-4233-3689-8521-9b132092bd78 | -5.04455 | -43.21932 | 2024-12-14 04:25:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 33fcdef0-77ce-3a01-b732-e75570dea809 | -4.10153 | -46.62114 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 584f5d11-91b7-32d5-965c-5db784da355e | -6.04819 | -44.04253 | 2024-12-14 04:25:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| a5867842-821e-3eab-96b1-f8e69700c667 | -6.92232 | -35.71879 | 2024-12-14 04:25:00 | NOAA-20 | AREIA | PARAÍBA | Brasil | 2501104 | 25 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| c4631ed4-7e55-32a0-bdc2-883bed0a74b1 | -4.0952 | -46.69909 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 13366d20-d26b-397c-b998-429ef4febbc1 | -4.42068 | -45.82439 | 2024-12-14 04:25:00 | NOAA-20 | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e900b10f-d8a5-3f1e-929f-ce3f3100f405 | -7.8349 | -35.18473 | 2024-12-14 04:25:00 | NOAA-20 | PAUDALHO | PERNAMBUCO | Brasil | 2610608 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| e269d45a-2a7a-3f0c-a175-579877dac005 | -5.43298 | -37.85197 | 2024-12-14 04:25:00 | NOAA-20 | APODI | RIO GRANDE DO NORTE | Brasil | 2401008 | 24 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 4366fc6d-44d3-3e6c-86a2-60bf945385e7 | -11.82679 | -57.82547 | 2024-12-14 04:25:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| a5df1734-ee61-3c9c-a50b-9b197404c0cd | -4.02723 | -46.89592 | 2024-12-14 04:25:00 | NOAA-20 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d11d3c08-68a2-38db-9010-623f75d52322 | -5.30661 | -46.06668 | 2024-12-14 04:25:00 | NOAA-20 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f444797d-3088-31d8-9c73-d9d08a08ce70 | -4.09377 | -46.67042 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ff852648-8b4b-3f1c-86ac-ad3d21c70d9b | -13.541 | -55.38546 | 2024-12-14 04:25:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| c537babd-b248-368f-a0be-c929718ea593 | -6.04133 | -44.04145 | 2024-12-14 04:25:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| cddcde34-b6c2-3c7f-a7b7-97c01be75547 | -6.66811 | -39.2412 | 2024-12-14 04:25:00 | NOAA-20 | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 6ae5335a-82cd-3896-b62d-53b7a83a4a8c | -12.55117 | -57.71614 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| ed4b8509-b869-30d2-a0a0-7f214cb38505 | -4.41959 | -45.83128 | 2024-12-14 04:25:00 | NOAA-20 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 2e9bb097-b585-3c91-9b62-45fc2ec9f8da | -5.28684 | -44.91351 | 2024-12-14 04:25:00 | NOAA-20 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 264b995d-9248-340f-844b-c35ae341752f | -15.54759 | -48.46602 | 2024-12-14 04:25:00 | NOAA-20 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 64000a1b-1e91-3f17-8563-ef0154d20515 | -4.04806 | -46.72102 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| aab3478d-4fc1-300f-ad55-95ef50174f58 | -12.54633 | -57.71121 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| d27ea038-3c2b-3b0b-891d-e16fefd23622 | -11.91243 | -48.88158 | 2024-12-14 04:25:00 | NOAA-20 | SUCUPIRA | TOCANTINS | Brasil | 1720853 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 4ed10d13-ee07-392f-abcc-601918bd7df4 | -4.09711 | -46.67094 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| f2b6a416-52df-30b2-bd00-08fe3b4596ae | -4.0982 | -46.62061 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 7d602d1b-a654-31ab-8c0a-9c4fee598bb0 | -12.56531 | -57.76295 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 541cde90-dcf9-38d0-b45d-e0781ab8b643 | -16.05097 | -43.80017 | 2024-12-14 04:25:00 | NOAA-20 | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 7ff72675-624f-3696-aa23-632a01d18395 | -5.42113 | -44.85784 | 2024-12-14 04:25:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 96288a95-6a5c-30a9-8a80-52709655254c | -4.05692 | -46.88242 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e96d31bb-b4f7-3b7b-8eae-185e89183ece | -4.3847 | -47.75608 | 2024-12-14 04:25:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 28807b06-e821-399a-8fee-3fa2e339594d | -5.53779 | -42.85819 | 2024-12-14 04:25:00 | NOAA-20 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| af27d631-fbd3-3afe-9559-20b5f4ab4b1e | -6.0419 | -44.03772 | 2024-12-14 04:25:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 50fb348a-550f-3638-ac75-88c9c72f5254 | -12.55041 | -57.72001 | 2024-12-14 04:25:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| af91461f-176d-3c72-8382-a0229db3c618 | -4.66551 | -44.03899 | 2024-12-14 04:25:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 80e57705-6207-30e5-8071-a040ce0b9231 | -14.69593 | -52.63134 | 2024-12-14 04:25:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| d1ef22b2-08f8-37f9-b224-84c4f4456ebf | -4.03002 | -46.90005 | 2024-12-14 04:25:00 | NOAA-20 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| dd346f6e-aaf1-3eab-a400-a7e4583d3427 | -11.82822 | -57.82416 | 2024-12-14 04:25:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 96ff7035-4eda-3d33-ba79-79b1e75b69a4 | -6.04532 | -44.03828 | 2024-12-14 04:25:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 621dd463-a23f-3cec-b8b2-018f7aabeea3 | -4.09913 | -46.67447 | 2024-12-14 04:25:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a84fe86d-a44c-381b-9823-d207e90f1386 | -6.92757 | -43.50557 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 44.6 |
+| ae870099-00a1-3106-9418-9ded777f5a36 | -8.98968 | -36.49984 | 2024-12-17 03:27:00 | NOAA-20 | BREJÃO | PERNAMBUCO | Brasil | 2602407 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| df3297ab-ba3c-3777-a1f0-80ec2b00cdc0 | -6.96709 | -42.83612 | 2024-12-17 03:27:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| d84b27de-935a-3776-983a-09adeee97c6e | -7.40727 | -44.73254 | 2024-12-17 03:27:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| d4ee35cd-3612-3f47-bea5-942785ab28e9 | -6.97306 | -40.63664 | 2024-12-17 03:27:00 | NOAA-20 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 0.4 |
+| 2858d415-52b8-33ad-80ce-c7212acfd535 | -7.81995 | -35.23561 | 2024-12-17 03:27:00 | NOAA-20 | CARPINA | PERNAMBUCO | Brasil | 2604007 | 26 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
+| 843bc81d-d32d-3fbe-9ab2-b92609ac3b35 | -5.98179 | -41.5737 | 2024-12-17 03:27:00 | NOAA-20 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 67859a2a-cb1b-3f60-8023-6e1d1ce7ad6f | -6.96728 | -43.0045 | 2024-12-17 03:27:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| ad92694a-c4d9-3a10-bf24-d429c18dbe83 | -6.0319 | -42.15889 | 2024-12-17 03:27:00 | NOAA-20 | SÃO FÉLIX DO PIAUÍ | PIAUÍ | Brasil | 2209609 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 384f1c8c-4185-37f1-8ae6-40793629d7cf | -6.98482 | -43.56165 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| bf1ca68a-add1-363d-bac0-f536a7d0fe7c | -5.20409 | -44.56833 | 2024-12-17 03:27:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 64708607-7459-37cb-96f8-ce5c1abac930 | -9.27825 | -35.91024 | 2024-12-17 03:27:00 | NOAA-20 | MURICI | ALAGOAS | Brasil | 2705507 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| d1e48e73-0c42-3138-a8d3-f58771f3ffa9 | -7.85965 | -43.09352 | 2024-12-17 03:27:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| c1998b16-59cf-3df2-81c4-27e79878bd4b | -8.75764 | -35.75013 | 2024-12-17 03:27:00 | NOAA-20 | MARAIAL | PERNAMBUCO | Brasil | 2609204 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| f5c88f66-8a47-37c2-bebf-b7ae49bc1cef | -8.05898 | -41.2721 | 2024-12-17 03:27:00 | NOAA-20 | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 778c4f2c-91ba-3f28-8e36-e0c54a2c04c1 | -10.03284 | -36.17517 | 2024-12-17 03:27:00 | NOAA-20 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 74356c44-6245-3de7-b702-e99f67a19d38 | -6.93114 | -43.51464 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 43.8 |
+| 7c20535f-0901-34c8-ac85-be4d6d78f866 | -6.98803 | -36.24619 | 2024-12-17 03:27:00 | NOAA-20 | OLIVEDOS | PARAÍBA | Brasil | 2510501 | 25 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 4eaf4be1-e36a-30f0-a359-10de46399294 | -6.95526 | -42.83392 | 2024-12-17 03:27:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| c693e462-abbd-3b7d-8181-b1b332d59bc9 | -5.62315 | -44.83887 | 2024-12-17 03:27:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 88a560d8-7991-3428-9e03-e5bc25677e8e | -6.97301 | -42.8372 | 2024-12-17 03:27:00 | NOAA-20 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| a968d52b-5399-3730-90df-410dbac3f03b | -6.03261 | -42.15487 | 2024-12-17 03:27:00 | NOAA-20 | SÃO FÉLIX DO PIAUÍ | PIAUÍ | Brasil | 2209609 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| aaeacaaa-2b44-3185-9233-f2b72d90d88d | -8.87835 | -41.10806 | 2024-12-17 03:27:00 | NOAA-20 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 4cf70fea-469f-34f0-87c6-451137b1ff69 | -6.93204 | -43.5098 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 37.9 |
+| d696e4f3-1c99-3c6a-abad-a209c0e916f3 | -10.03212 | -36.1795 | 2024-12-17 03:27:00 | NOAA-20 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 075cb699-e05d-395d-bcf7-f3098028d657 | -7.86048 | -43.08891 | 2024-12-17 03:27:00 | NOAA-20 | RIO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2209005 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| fa304d40-0a47-3f7e-adf6-1b9930e52818 | -6.91612 | -43.52668 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 99f35dc6-a24b-306b-bc96-a4939c998a13 | -6.9867 | -43.56026 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 90324126-3f20-3a79-8ac5-485a12bca55f | -5.20246 | -44.56574 | 2024-12-17 03:27:00 | NOAA-20 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 36942314-5e60-3dc3-ab38-2c1a2be67692 | -7.41148 | -44.73393 | 2024-12-17 03:27:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f0fccd31-04a5-3e08-b87d-b66ad67a038c | -5.35959 | -44.0543 | 2024-12-17 03:27:00 | NOAA-20 | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| cc8cc2c8-1ec3-33fb-8aed-466eff9fb063 | -10.60882 | -37.00183 | 2024-12-17 03:27:00 | NOAA-20 | CAPELA | SERGIPE | Brasil | 2801306 | 28 | 33 | nan | nan | nan | Mata Atlântica | 44.5 |
+| 4e7ad871-8069-3355-b29b-a47f05bd0a8e | -6.91523 | -43.53149 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| ed2a6e55-b5b9-3c33-bb14-1755e42a0967 | -7.98086 | -35.23206 | 2024-12-17 03:27:00 | NOAA-20 | CHÃ DE ALEGRIA | PERNAMBUCO | Brasil | 2604403 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| b363b65c-a219-3bf2-99fd-85241739b412 | -12.86021 | -43.74665 | 2024-12-17 03:27:00 | NOAA-20 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e6998ee0-1afc-3b34-a002-a8d4da261b14 | -6.92585 | -43.51525 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 39.1 |
+| e2d31cb6-21c8-3a9a-989e-307d3bb211b4 | -6.92409 | -43.51821 | 2024-12-17 03:27:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 43.8 |
+| c3898d90-62d2-366f-b7ce-41a78883996b | -14.24809 | -41.75065 | 2024-12-17 03:29:00 | NOAA-20 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 11629054-2b59-3b3f-be1c-3832b99b06e5 | -14.24553 | -41.75134 | 2024-12-17 03:29:00 | NOAA-20 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| a653e608-da14-3618-9c98-44bf3c20f7a6 | -15.0865 | -59.6487 | 2024-12-17 03:30:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 3ca4e5d5-ed34-3fa4-82c4-487a27bd1089 | -5.1125 | -43.8933 | 2024-12-17 03:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 110.9 |
+| 6c8efefb-eb0b-3654-9e83-cc0b033cfe59 | -3.2968 | -53.3749 | 2024-12-17 03:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 67.6 |
+| 0f62c890-e7e7-3d40-bf57-d5d9384eb0ae | -5.0749 | -43.9189 | 2024-12-17 03:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| b8302244-ed77-37f5-9811-b45980763f0c | -5.1123 | -43.9164 | 2024-12-17 03:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 115.2 |
+| e82edcfd-19c1-3baf-a344-4b6816a47e08 | -6.9158 | -43.5185 | 2024-12-17 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 101.4 |
+| a0f33eaa-b48c-351c-be3e-f7b41e2b7eed | -5.0751 | -43.8958 | 2024-12-17 03:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 72.8 |
+| 765a6fae-10b1-39be-8bee-66dc5f426b99 | -6.9349 | -43.4934 | 2024-12-17 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 96.2 |
+| fad51d33-20b9-3f80-80dd-79c8a2889b72 | -6.9161 | -43.4952 | 2024-12-17 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 82.6 |
+| 806c49b7-fc5e-33e8-8361-6b504c441d37 | -5.0938 | -43.8945 | 2024-12-17 03:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 293.6 |
+| a2558896-69d2-3476-a5fa-b6f7fe7528d2 | -5.0936 | -43.9176 | 2024-12-17 03:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 326.0 |
+| 2769094a-6c39-376c-8494-a8266554e5d9 | -6.9346 | -43.5168 | 2024-12-17 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 120.9 |
+| 51f5e021-bf31-35f3-96ee-cff58c7556bb | -23.84909 | -50.00584 | 2024-12-17 03:32:00 | NOAA-20 | TOMAZINA | PARANÁ | Brasil | 4127809 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| f723b1d7-51e1-382d-8e1f-9cbed9449a31 | -20.76279 | -46.77158 | 2024-12-17 03:32:00 | NOAA-20 | ITAÚ DE MINAS | MINAS GERAIS | Brasil | 3133758 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| aecab953-ffc4-38e4-b94a-1e7f20c7c4f3 | -22.54064 | -48.81614 | 2024-12-17 03:32:00 | NOAA-20 | MACATUBA | SÃO PAULO | Brasil | 3528007 | 35 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| dde32782-450b-3cc3-8d9a-c22467e34163 | -23.84747 | -50.01228 | 2024-12-17 03:32:00 | NOAA-20 | TOMAZINA | PARANÁ | Brasil | 4127809 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| 543f6d86-cee8-3ff2-8b5f-b1f3b086a779 | -23.85237 | -50.00898 | 2024-12-17 03:32:00 | NOAA-20 | TOMAZINA | PARANÁ | Brasil | 4127809 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| 7511cbd4-5642-3df3-b0a7-4aa6ed61a1a8 | -5.0938 | -43.8945 | 2024-12-17 03:40:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 210.4 |
+| 5984babe-f404-33ac-97bc-3a0f7f6f0e43 | 4.4435 | -60.9657 | 2024-12-17 03:40:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| a3b84525-4121-31d8-b1f2-389124803c5a | -19.1043 | -52.8493 | 2024-12-17 03:40:00 | GOES-16 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 88.4 |
+| 144409c9-b1a8-331f-a8d7-cf23acec9b4a | -5.0936 | -43.9176 | 2024-12-17 03:40:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 247.1 |
+| 1565f8a3-325f-3d7c-8ba1-1fe1c24a38f3 | -6.9349 | -43.4934 | 2024-12-17 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 92.3 |
+| 089bc605-3efd-32a9-9b4d-a5687b4eff13 | 4.4435 | -60.9846 | 2024-12-17 03:40:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 65.0 |
+| b655b2ab-aa67-30a9-bef3-d8fd1b73c1a5 | -6.9158 | -43.5185 | 2024-12-17 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 87.0 |
+| bb40cbab-6d00-30b6-830b-e8adae57f891 | -6.9346 | -43.5168 | 2024-12-17 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 103.9 |
+| 3e7a4ab4-4753-3fc6-92e6-81ea4bf1cd31 | -6.9161 | -43.4952 | 2024-12-17 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 76.9 |
+| 246151c3-269d-3bbc-9bd2-d4f7f898a653 | -5.1125 | -43.8933 | 2024-12-17 03:40:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 96.8 |
+| 250e2f86-b74e-3d17-a6d1-4970e7a6ea0f | -5.1123 | -43.9164 | 2024-12-17 03:40:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 96.6 |
+| 2932f7b2-2d14-3f76-811e-a82a1e89e7c5 | -15.0865 | -59.6487 | 2024-12-17 03:40:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 63.2 |
+| 9a6b8477-19e9-3679-8db9-3191817793a3 | -5.0749 | -43.9189 | 2024-12-17 03:40:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 74.4 |
+| ebff49c4-512e-34b0-a222-bf3f8d9f1231 | -5.0751 | -43.8958 | 2024-12-17 03:50:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 71.2 |
+| 52595655-a9fd-32cb-a8e1-376d11a3e34d | -5.0936 | -43.9176 | 2024-12-17 03:50:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 204.9 |
+| 4e931f2a-679b-3008-a03d-e9e82bf9aa09 | -3.2968 | -53.3749 | 2024-12-17 03:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 60.1 |
+| 63cde95c-3ea8-372f-85fd-8bd1b1f5682b | -6.9158 | -43.5185 | 2024-12-17 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 79.2 |
+| c04514e4-0bd4-36b6-9bf9-315d260f310d | -5.0749 | -43.9189 | 2024-12-17 03:50:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| 0502f65b-7ce8-3d40-8404-a805365c765a | -6.9346 | -43.5168 | 2024-12-17 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 113.3 |
+| 849709af-d689-3bec-b228-71077150f9ef | -5.0938 | -43.8945 | 2024-12-17 03:50:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 189.5 |
+| 2e8c4226-7e2e-3fee-bf50-b03ea223da7e | -6.9349 | -43.4934 | 2024-12-17 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 86.7 |
+| 10310da8-a3d4-3bfc-bf15-4fbf0c1874cd | 4.4435 | -60.9846 | 2024-12-17 03:50:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 61.7 |
+| 8d57efbe-894d-31db-ba59-9b0b712a58a4 | -5.1125 | -43.8933 | 2024-12-17 03:50:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 86.0 |
+| e358adb6-c459-3fc2-9a3d-5281d39fa143 | -15.0865 | -59.6487 | 2024-12-17 03:50:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 62.3 |
+| 8df1dc77-6135-3fba-a196-711175d2e2a4 | -5.1123 | -43.9164 | 2024-12-17 03:50:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 104.7 |
+| c9978c18-d299-3d2b-b872-c84dde54ce10 | -6.214 | -46.2202 | 2024-12-17 04:00:00 | GOES-16 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 56.9 |
+| 84031b63-c642-32ff-b04c-9217f5014224 | -3.2968 | -53.3749 | 2024-12-17 04:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 67.0 |
+| dab5ecf2-4332-3820-9b4d-34e3f1e217a7 | -6.9346 | -43.5168 | 2024-12-17 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 103.4 |
+| 36dd6980-67e0-3a3f-8cb1-58e4c51898a6 | -6.9349 | -43.4934 | 2024-12-17 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 82.8 |
+| e343ef36-1ffe-3e74-8edf-500bf24f2106 | -5.0938 | -43.8945 | 2024-12-17 04:00:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 165.8 |
+| c228513e-3e4d-345c-87a1-f7296181d6cc | -6.9158 | -43.5185 | 2024-12-17 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 999a4267-02cd-30a4-9dd8-d1fa5297ff72 | -15.0865 | -59.6487 | 2024-12-17 04:00:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 69.4 |
+| eb7812c2-5658-370a-86c4-4d38336bae58 | -5.0936 | -43.9176 | 2024-12-17 04:00:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 175.6 |
+| ef66629b-5666-3c03-84db-2fb3acfb5838 | -5.0936 | -43.9176 | 2024-12-17 04:10:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 156.5 |
+| bc6a7f70-bb0b-3557-954b-e714245326c2 | -3.2969 | -53.3547 | 2024-12-17 04:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 60.9 |
+| 0e441985-7b17-3075-abb5-03e86f32401c | -3.2968 | -53.3749 | 2024-12-17 04:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 74.8 |
+| f1b2db65-160c-3669-9b05-6291434e2436 | -6.9349 | -43.4934 | 2024-12-17 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 69.4 |
+| e82b5465-208b-3516-acfe-3c5a8e2b5577 | -6.9346 | -43.5168 | 2024-12-17 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| 74f627d4-a470-3652-ac8d-6d4497272d4d | -5.0938 | -43.8945 | 2024-12-17 04:10:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 137.2 |
+| 119376c1-e347-320d-a61e-bd3968a600a3 | -19.1043 | -52.8493 | 2024-12-17 04:10:00 | GOES-16 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 53f0a933-2e4e-3767-beb9-607abc4184d2 | -15.0865 | -59.6487 | 2024-12-17 04:10:00 | GOES-16 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| 39f772f8-4072-3427-b449-cdbc1d3d62be | -6.9158 | -43.5185 | 2024-12-17 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| 4715920b-fd7b-3d4d-9f0a-d5793d367490 | -19.1043 | -52.8493 | 2024-12-17 04:20:00 | GOES-16 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 76.0 |
+| 10585374-d76d-35e2-9dfe-3e3f9fb1ffc0 | -5.1123 | -43.9164 | 2024-12-17 04:20:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 71.6 |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)

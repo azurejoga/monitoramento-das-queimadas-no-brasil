@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 04f7a811-4619-349c-a4fc-b6e66a720e1d | -13.53771 | -55.38184 | 2024-12-13 04:44:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 2db00853-df44-33ea-87e9-a7aa3325cd42 | -13.70016 | -54.7646 | 2024-12-13 04:44:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| a966fe81-5fe6-33b8-b44c-af0d412b59d8 | -13.68323 | -54.74661 | 2024-12-13 04:44:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8e0bb56d-c1d8-3674-890f-063403b10291 | -12.32741 | -49.99796 | 2024-12-13 04:44:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ef409049-ccea-386c-bc6a-5e0eeaea4505 | -13.06395 | -52.04044 | 2024-12-13 04:44:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 4a2ff7e0-9570-3fc1-9cd8-2229bf2ec6f5 | -13.69735 | -54.76015 | 2024-12-13 04:44:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b9851f0e-64dc-3090-bb6d-44f51af4b948 | -11.51814 | -45.00566 | 2024-12-13 04:44:00 | NOAA-20 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 624b9483-fcf7-3c1d-958b-dcd7add7dc42 | -13.36876 | -54.24736 | 2024-12-13 04:44:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 8e58cb64-d3a8-30e5-9e0c-ffa8851eaa5f | -12.53635 | -57.73425 | 2024-12-13 04:44:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c5a81c56-cc0d-36cf-b20b-90318da4a976 | -11.48037 | -48.23185 | 2024-12-13 04:44:00 | NOAA-20 | SANTA ROSA DO TOCANTINS | TOCANTINS | Brasil | 1718907 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b79d5dc3-d39f-340e-b293-25076a134456 | -12.49716 | -55.74249 | 2024-12-13 04:44:00 | NOAA-20 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 0c37e062-6e5b-3a09-8475-f832a8c0b720 | -10.52836 | -47.81478 | 2024-12-13 04:44:00 | NOAA-20 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 19e1d7bd-e984-33d0-802d-02a7a4fe7113 | -10.5197 | -51.96161 | 2024-12-13 04:44:00 | NOAA-20 | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| abed7a88-e2f0-3b61-846a-545e52efad02 | -13.68541 | -54.75492 | 2024-12-13 04:44:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 411f1b4c-f002-31f9-a5c3-0dc13eaddb10 | -13.37278 | -54.24418 | 2024-12-13 04:44:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 9dc3102f-4b93-3e48-a169-6bfa4fc9aa1c | -13.075 | -52.03497 | 2024-12-13 04:44:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| be24af56-201e-39c7-8d65-15b8f788cb6b | -13.07168 | -52.03444 | 2024-12-13 04:44:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| d60eb7b0-21e9-3765-bcd9-3c26842d87b2 | -11.53724 | -51.27406 | 2024-12-13 04:44:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 0f79758b-06a5-33be-9e14-6ebc5aa1e678 | -8.71616 | -44.00351 | 2024-12-13 04:44:00 | NOAA-20 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| aa46ce39-4b84-3caf-adb5-b668d7e8797e | -11.2052 | -53.8325 | 2024-12-13 04:44:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 16.4 |
-| e8427d4a-8080-3a7a-a18a-4baa96575bd3 | -13.07113 | -52.03798 | 2024-12-13 04:44:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e9630d19-1027-3f2d-9903-0ea8e938db86 | -8.43196 | -49.8663 | 2024-12-13 04:44:00 | NOAA-20 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fa695cf1-d037-3715-bd41-3e642ee684d0 | -12.33844 | -43.67107 | 2024-12-13 04:44:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| bf943f42-995a-354e-bf08-46490055102e | -11.20057 | -53.83942 | 2024-12-13 04:44:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 0d8ec5e2-03a5-38f6-961a-2e0313324ab1 | -14.76695 | -52.65599 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b9b3c245-f2cf-3469-be34-a7aa3ce94fd7 | -14.76643 | -52.63765 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 895715f9-b953-3c63-ad41-c0576c2172a0 | -14.76807 | -52.64887 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 4d00cf6b-6a26-3618-b980-04359ad99b6b | -14.91541 | -52.87777 | 2024-12-13 04:46:00 | NOAA-20 | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| a2c17fd3-5fb4-38aa-b17f-611ef4c6b784 | -14.77968 | -52.63984 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 20528467-106b-31c9-bc82-172252cf539d | -14.77637 | -52.63929 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 07a17864-0fcc-36b2-a3a9-2259142c9f06 | -14.77306 | -52.63874 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 12e887b2-5c4b-31b8-8120-c0f3be5bcf7f | -14.76256 | -52.64066 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| dd295880-d701-32fc-94d0-babd469985ae | -14.77138 | -52.64942 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 9bdde31c-02e7-3b55-8d49-3dd1670c6e1b | -15.30401 | -53.31933 | 2024-12-13 04:46:00 | NOAA-20 | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 3f8ac496-5418-31ee-9277-6491466c168e | -14.783 | -52.64038 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 35b148ad-9baf-348a-bbec-255f08f3a509 | -14.77027 | -52.65654 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6ccb3bbb-44ef-3a12-aff9-d2ca7d024d22 | -14.7725 | -52.6423 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| ffb8a42b-a291-3784-ad87-3d8fc48c9f5a | -14.77526 | -52.6464 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 0e8d08fa-136d-36ba-a296-960e5536c704 | -14.77358 | -52.65708 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| fba9cdb4-2dd8-3875-9c33-11aa1f382984 | -14.77083 | -52.65298 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 8ae58395-905d-3470-9dbc-f7a2cdd1b3d4 | -14.77362 | -52.63518 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e9454fec-ea42-3989-a46d-10ae229eb72d | -14.76919 | -52.64175 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 7f97c2c2-faef-3335-a09f-b462c161930f | -14.78575 | -52.64449 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 86de2a00-45e6-3160-9d29-5459963e9180 | -14.76144 | -52.64778 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 8d3baf47-d16c-376c-8948-27324cf302c6 | -14.76476 | -52.64833 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| bc9229b0-f36f-3444-b3d5-45fb9af2b6b7 | -14.78244 | -52.64394 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 599c0023-2362-3077-a07a-53bec4747823 | -14.78519 | -52.64805 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 941895db-f96c-3e54-80e3-74b9b25e44ee | -14.77194 | -52.64586 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 8b066e8f-a952-3b6e-a1be-bc372c693632 | -14.76312 | -52.6371 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 7f3b2796-f5b1-3db2-9cfd-4dde9d5bced6 | -14.76971 | -52.66009 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 35c8dbea-a0cc-342b-866b-6ee0c4938637 | -14.76587 | -52.64121 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| a879e434-6bbf-3a91-814e-94899df46c6a | -14.77581 | -52.64285 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 8a73f10d-6b86-3e3f-b84c-52110ebf4e54 | -14.76751 | -52.65243 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 25ca3b37-fd97-314c-ae65-a4951158ba3f | -14.76532 | -52.64476 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 85785d08-143e-3f82-8c0a-f7bc8886c8de | -14.7642 | -52.65189 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 44ac1051-66f5-3de7-b620-489bc2c065fe | -14.76863 | -52.64531 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| ddbee804-c0b8-33d2-92fa-22a1b25f56d9 | -14.77414 | -52.65353 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 80b87ff4-ae93-3111-b30d-f366567c39d8 | -14.76699 | -52.63409 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 90f7c3f0-fbce-3085-bfa6-65a3102278ef | -14.76974 | -52.6382 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 8378776f-6db8-3a8d-9fe0-fe7b3a02fa09 | -14.7703 | -52.63463 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 746cec0f-bd83-38f2-b2d9-9235bb3c04eb | -14.78188 | -52.6475 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| b7ab9573-dc6d-3edd-8d1a-c8d2e6ea19d0 | -14.77913 | -52.64339 | 2024-12-13 04:46:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| c803f671-f346-3286-a1f0-eee497263d99 | -14.9121 | -52.87721 | 2024-12-13 04:46:00 | NOAA-20 | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b83e3a8d-a453-3ff5-9798-01e69f1f142e | -6.9158 | -43.5185 | 2024-12-13 04:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 44.7 |
-| 0b168a65-e97e-3946-b21b-0c466cda8618 | -5.2108 | -43.3067 | 2024-12-13 04:50:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 87.3 |
-| fbfb61f5-ef2a-30e6-a63f-5c4266b2b6b2 | -5.211 | -43.2833 | 2024-12-13 04:50:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| 85bfbd21-66b7-3547-aab7-e1cce34f5db6 | -11.2151 | -53.8125 | 2024-12-13 04:50:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 57.1 |
-| ce5caadf-d2e0-3b74-b8bc-6da211be69c8 | -11.1962 | -53.8142 | 2024-12-13 04:50:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| 5460b98a-ff56-3b17-a5eb-e10bde6f1123 | -6.9344 | -43.5401 | 2024-12-13 04:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 68.7 |
-| 22ef688c-1dd8-3ef4-81bc-de8fc94773d5 | -11.1959 | -53.8348 | 2024-12-13 04:50:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 63.0 |
-| f42859e8-1372-3b19-a427-edaf45b121ab | -6.9156 | -43.5418 | 2024-12-13 04:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| 8e436133-028a-3b85-87f0-c68eb07941a7 | -13.0644 | -52.0326 | 2024-12-13 04:50:00 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 60.1 |
-| edba2bf7-03cc-3b21-a7cf-373a7938fafc | -11.2148 | -53.833 | 2024-12-13 04:50:00 | GOES-16 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 75.0 |
-| f34e6e69-2014-33dd-bf36-9cae50bc38ee | -6.9346 | -43.5168 | 2024-12-13 04:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 51.0 |
-| 708b43d9-eae6-324b-894e-d716c564ae05 | -29.14352 | -52.8699 | 2024-12-13 04:50:00 | NOAA-20 | TUNAS | RIO GRANDE DO SUL | Brasil | 4322152 | 43 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| c625bc55-916e-39ad-854e-243ea6bf57cb | -29.62322 | -51.97061 | 2024-12-13 04:50:00 | NOAA-20 | CRUZEIRO DO SUL | RIO GRANDE DO SUL | Brasil | 4306205 | 43 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| f326af92-0c33-3429-b75e-88e420daea65 | -29.62259 | -51.97589 | 2024-12-13 04:50:00 | NOAA-20 | CRUZEIRO DO SUL | RIO GRANDE DO SUL | Brasil | 4306205 | 43 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| a25ddd8d-820d-3a60-9dbb-3b8a580af07c | -5.2108 | -43.3067 | 2024-12-13 05:00:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 69.8 |
-| c2a2f0ff-b311-328b-912e-12a2071ce094 | -5.211 | -43.2833 | 2024-12-13 05:00:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 75.0 |
-| 16c7fc30-8afa-3e6c-809b-870cf5041998 | -13.0644 | -52.0326 | 2024-12-13 05:00:00 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 64.7 |
-| 688601b4-5bdc-391e-9d35-8681eb0615dd | -12.5497 | -57.7196 | 2024-12-13 05:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 67.1 |
-| b3b24623-52b8-37f5-b8e0-aa62bbe757f2 | -5.2108 | -43.3067 | 2024-12-13 05:10:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 64.4 |
-| 9c7b58d1-64d8-3dce-bf4d-5a7475e562b9 | -6.9161 | -43.4952 | 2024-12-13 05:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 46.9 |
-| ba3f2e9b-a714-38e0-8e96-a81bc2058993 | -12.5499 | -57.6996 | 2024-12-13 05:10:00 | GOES-16 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 54.2 |
-| 3deeabcb-f708-3090-80b4-bf60fe636ae0 | -5.211 | -43.2833 | 2024-12-13 05:10:00 | GOES-16 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 69.8 |
-| ec14470f-55c6-3358-926c-a712b457729f | -13.0644 | -52.0326 | 2024-12-13 05:10:00 | GOES-16 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 59.4 |
-| 008cb51d-5f23-38b6-bd06-1bfb0ee113a6 | -0.74589 | -47.75787 | 2024-12-13 05:10:00 | AQUA_M-M | MARAPANIM | PARÁ | Brasil | 1504406 | 15 | 33 | nan | nan | nan | Amazônia | 14.0 |
-| 4ed7efbd-d2b7-37a7-9392-09dfddab8219 | -6.92165 | -43.52507 | 2024-12-13 05:10:00 | AQUA_M-M | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 8c1e6d73-10ab-3170-8245-bae31b39d0cd | -4.77869 | -48.49364 | 2024-12-13 05:10:00 | AQUA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 11.5 |
-| 3b32e656-f69e-3102-88a3-61b213e7cead | -6.92441 | -43.50682 | 2024-12-13 05:10:00 | AQUA_M-M | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 580322db-02fe-3162-84b5-f486226971cd | -4.15841 | -42.43575 | 2024-12-13 05:10:00 | AQUA_M-M | BARRAS | PIAUÍ | Brasil | 2201200 | 22 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| 32d1ecd2-d607-3aba-930e-48af9d63a88e | -3.28666 | -45.5971 | 2024-12-13 05:10:00 | AQUA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| b7fd1b1f-2db6-3ace-bc7a-e4aade18ee0f | -6.30386 | -43.46044 | 2024-12-13 05:10:00 | AQUA_M-M | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| dca0ebdd-a994-3838-847d-524555bdca02 | -6.75762 | -44.82666 | 2024-12-13 05:10:00 | AQUA_M-M | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 52fcb3c5-ad93-3852-9976-f0b8c9f09d1b | -8.26621 | -48.0191 | 2024-12-13 05:10:00 | AQUA_M-M | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 671cb52a-d2a3-3c9c-94b3-97a74ddcba7a | -1.61917 | -46.66101 | 2024-12-13 05:10:00 | AQUA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 56d3d15c-e9da-3f5e-978b-b0a9ec62052c | -5.08125 | -42.56131 | 2024-12-13 05:10:00 | AQUA_M-M | ALTOS | PIAUÍ | Brasil | 2200400 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
-| 423f0b3f-fe32-315e-9d48-bd7376569c91 | -3.66881 | -39.5779 | 2024-12-13 05:10:00 | AQUA_M-M | ITAPAJÉ | CEARÁ | Brasil | 2306306 | 23 | 33 | nan | nan | nan | Caatinga | 17.1 |
-| 7c4b8bef-efb6-3f65-bdda-be9c4a14530d | -5.20164 | -43.29073 | 2024-12-13 05:10:00 | AQUA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| 94714fbb-e60b-3017-a999-a23da6cc9a83 | -4.65265 | -43.81231 | 2024-12-13 05:10:00 | AQUA_M-M | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 3e66a5a7-d80d-3e8e-94e6-4422b4c99857 | 4.4618 | -60.9842 | 2024-12-17 05:50:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 105.6 |
+| 09eabe4a-9ca5-3d3c-b6d6-eb29de04a7ce | 4.4435 | -60.9657 | 2024-12-17 05:50:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 67.0 |
+| ecee4c9c-5f06-39f2-9657-faa61af52a01 | 4.4434 | -61.0036 | 2024-12-17 05:50:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 72.4 |
+| d45c43da-e0dd-305a-b4e6-889c88531529 | -6.214 | -46.2202 | 2024-12-17 05:50:00 | GOES-16 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 50.3 |
+| 5edc4588-a13c-3f1d-96d7-c1abf00eeb9e | 4.4435 | -60.9846 | 2024-12-17 05:50:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 191.2 |
+| 709f20fd-5406-30f5-ade4-90808e6847f1 | -6.214 | -46.2202 | 2024-12-17 06:00:00 | GOES-16 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 51.4 |
+| 4d9ca7e6-2915-33da-9a81-4c2872e9580a | 4.4435 | -60.9846 | 2024-12-17 06:00:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 133.6 |
+| 4e1b5a9f-22d5-3857-b293-649c135d15d1 | 4.4435 | -60.9657 | 2024-12-17 06:00:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 57.9 |
+| 9d5f46fd-9f1b-3527-8787-a0597d2b04ae | 4.4618 | -60.9842 | 2024-12-17 06:00:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| 31f93e8a-8ba4-32dd-9359-48fa605e44c5 | -6.9349 | -43.4934 | 2024-12-17 06:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 1e36f715-83e4-363d-b128-200c2be1e078 | -6.9346 | -43.5168 | 2024-12-17 06:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| 5eb15880-0e2c-3c5f-b60a-06c2c9c122ce | 4.43831 | -60.97501 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 09bc6682-2a56-3a37-bd2c-5909f1ccda7d | 4.43607 | -60.98984 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| 786b4fc6-7356-35e8-b9ec-a4c1d98bb4c8 | 4.44067 | -60.98947 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| 51af77f5-c8a0-3825-8062-0e731de5dab2 | 4.44979 | -60.98825 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 15.8 |
+| 9bb58e7b-6ce0-3cd3-a4f1-74e18d2cce50 | 4.45281 | -60.97813 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| df82583a-e1a9-3c1f-ac62-73611b8d1a5f | 3.31959 | -60.63052 | 2024-12-17 06:01:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| b0afbd20-9641-388a-867a-9e10d2e0fa15 | 4.45631 | -60.9655 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| acfc56c1-244c-3ac0-8bc0-0804af184447 | 4.45789 | -60.97478 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| c3e676bc-6881-3f5b-a017-e040fbac9f91 | 4.45553 | -60.96086 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 21d6bedf-f424-392e-99be-d43cd3422fb3 | 4.44134 | -60.96496 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 85dece5e-134d-3160-b1af-be6c9f350b1b | 4.44901 | -60.98343 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 15.8 |
+| 49b3622b-a8e1-3392-a590-cba1255b8e2f | 4.44434 | -60.95463 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 892a0918-9d4c-3ed4-98fe-118045b39bbe | 4.45727 | -60.9768 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| e549db91-9f19-3eb9-927b-c94552d2d7bc | 4.43989 | -60.98471 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 20.3 |
+| fc162b03-1316-3236-bc16-332e93fbf824 | 4.44058 | -60.96027 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 25ec9a49-2d74-38bf-82db-36a63d7bef79 | 3.32033 | -60.62918 | 2024-12-17 06:01:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| a0d8f05c-1f64-34c5-9a84-3f89b8411bc8 | 4.43979 | -60.95544 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 6b0edaa2-d0cb-3385-81c5-427e8e4b8e9c | -6.99287 | -71.11862 | 2024-12-17 06:01:00 | NOAA-21 | IPIXUNA | AMAZONAS | Brasil | 1301803 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 045685d5-fc69-3f74-8351-aaad27d5c57e | 4.44444 | -60.98404 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 15.8 |
+| b26cc88f-23a0-317d-81aa-f4d078f1eaad | 4.45652 | -60.9722 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| bec2dadd-0e11-3485-94ae-a6fa864251f5 | 4.45358 | -60.98285 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 58.6 |
+| 55e94600-6a8e-3091-82d1-e315d6eea07b | 4.43521 | -60.95596 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| f725672d-50ec-3e59-a328-891cfae8ae4f | 4.45203 | -60.97329 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| ab4a146c-0892-38ee-9969-4ad9e9536e80 | 4.43678 | -60.96561 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 5ff5e974-83af-3904-8404-9474d9e27a0e | 4.44523 | -60.98889 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 15.8 |
+| 9287c1da-7a71-38d0-8d6a-6f0979500b22 | 4.44822 | -60.97858 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| 957ede20-299b-3271-9b8d-8c60ec0d044f | 4.43601 | -60.96089 | 2024-12-17 06:01:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| d313f501-e450-342b-8fbb-0829ee144139 | -9.30061 | -69.43892 | 2024-12-17 06:03:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 47e215fd-06a4-300a-84f3-7ba438553020 | 4.44134 | -60.99621 | 2024-12-17 06:07:00 | AQUA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 17.3 |
+| 9c4c2a96-d80d-3218-be5c-9ef09038f270 | 4.43887 | -60.97871 | 2024-12-17 06:07:00 | AQUA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 24.7 |
+| 8f290af8-eb31-3866-bd7f-dd835462f3b9 | 4.45114 | -60.97652 | 2024-12-17 06:07:00 | AQUA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 125.6 |
+| aeb3690a-d5e7-352c-a243-ff84f7502447 | 4.45368 | -60.99437 | 2024-12-17 06:07:00 | AQUA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 32.6 |
+| 6abe3119-289f-3623-8ebf-073691f2af3e | 4.4637 | -60.97635 | 2024-12-17 06:07:00 | AQUA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| c87863a2-a193-3cc7-b36c-223a52181665 | -3.14703 | -53.17472 | 2024-12-17 06:09:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 1794ef97-8fec-303c-8897-e486a7a8103e | -1.37178 | -53.47234 | 2024-12-17 06:09:00 | AQUA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| cb4c34d9-95e4-32b6-b758-2f964a8e9463 | 4.4435 | -60.9846 | 2024-12-17 06:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 151.6 |
+| 85c2f5a2-eb94-3deb-932f-3468d51b0f85 | 4.4618 | -60.9842 | 2024-12-17 06:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 87.4 |
+| 6d401981-b434-3c93-8338-08a7e8a6d8cb | 4.4435 | -60.9657 | 2024-12-17 06:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| bee792e2-d664-3fd3-a12c-b80515142c13 | 4.4434 | -61.0036 | 2024-12-17 06:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 66.3 |
+| 58046e78-95b0-3c21-99f0-f66a8d00d44c | -6.214 | -46.2202 | 2024-12-17 06:10:00 | GOES-16 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 52.3 |
+| 0a0faeec-3688-393a-836b-c22749767de5 | -19.09315 | -52.85981 | 2024-12-17 06:14:00 | AQUA_M-M | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 46.0 |
+| 59c9901d-e00d-3176-ab19-fa59f8cc24b2 | -18.88961 | -56.04642 | 2024-12-17 06:14:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.8 |
+| 6ad1b74f-911f-36f7-b0b0-954e57976c52 | -18.89688 | -56.0394 | 2024-12-17 06:14:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.9 |
+| 436d9a0e-fdd0-319c-afae-f37194b73336 | -18.89522 | -56.05285 | 2024-12-17 06:14:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 12.8 |
+| 2d1b55a2-8da7-3a39-9ca6-e95a3e9ae53e | -18.90014 | -56.04786 | 2024-12-17 06:14:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
+| 59f23bf6-1569-398b-8994-84501f80f0b8 | -19.08839 | -52.86451 | 2024-12-17 06:14:00 | AQUA_M-M | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 40.5 |
+| 747a380a-07bd-3c9c-9ac5-eb0dfb127695 | -19.09088 | -52.84085 | 2024-12-17 06:14:00 | AQUA_M-M | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 31.8 |
+| 2403c62a-1439-3700-bece-2d4e6c822617 | 4.4618 | -60.9842 | 2024-12-17 06:20:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 94.2 |
+| 9b0c18a1-f0d2-3819-b4d8-a9ea371248ab | 4.4434 | -61.0036 | 2024-12-17 06:20:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 71.6 |
+| 4d95ead0-db3a-3cdf-8db1-ba352ff5bb5c | -6.214 | -46.2202 | 2024-12-17 06:20:00 | GOES-16 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 50.7 |
+| 2f0b71de-ace8-397d-abbd-cb4d8d9e90db | -6.9349 | -43.4934 | 2024-12-17 06:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 8cebb2ed-b983-339d-9d6b-676009dc9911 | -6.9346 | -43.5168 | 2024-12-17 06:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| ca20a2bd-3e42-3713-bfc9-e0ba7cc313ef | 4.4435 | -60.9657 | 2024-12-17 06:20:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| d6afd423-dae8-369c-96e9-bd71563f315f | 4.4435 | -60.9846 | 2024-12-17 06:20:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 160.5 |
+| 32daa608-ecc2-3878-bcb1-12e3693794f3 | 4.45616 | -60.97179 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 09b10ba1-73b1-316e-94fe-ce1e152b978b | 4.44492 | -60.98746 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| 1966a5b0-bab5-31d2-baa2-33e967b743ed | 4.45829 | -60.98357 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| c5283acb-3a3a-355f-bed8-85955f889fc3 | 4.44614 | -60.99417 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| 3c98c5dd-2e39-3584-9f54-b8338822fbd1 | 4.44937 | -60.97319 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 16.5 |
+| 4881dd55-77b8-3afd-8fb6-ba89a0006782 | 4.45545 | -60.96826 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| a69d38fc-6627-3a20-a083-36f529cf7e06 | 4.44012 | -60.96103 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 82b2b856-b2a8-3c57-9785-99a674d05dc2 | 4.45301 | -60.99324 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| 5cfd47ea-902f-36cc-83db-5f0214c85b82 | 4.44572 | -60.95301 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 5576a1dc-3d30-3333-8dd9-9979faf7a2d6 | 4.43944 | -60.95723 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 25d97fb8-265a-3711-a748-5413da72b805 | 4.438 | -60.9881 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 8eece1eb-b32b-3d45-b737-c1f81a875af0 | 4.44526 | -60.99052 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 10.7 |
+| e2fdd737-a6bf-34bb-8e55-b8d837870250 | 4.45062 | -60.98005 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 16.5 |
+| 23493ed5-cd93-386d-a464-3583f3421c2d | 4.4383 | -60.99094 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 10.7 |
+| 540957e3-aaf1-3751-8fb2-8d1d280da2ac | 4.45099 | -60.98306 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 46.2 |
+| fe46d804-9a76-38e6-9e08-755d825f5fe8 | 4.45856 | -60.98615 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 46.2 |
+| efe35766-7af9-3218-92c1-75a6ebc848d2 | 4.43913 | -60.99435 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 51efe288-1d16-36bd-bb58-bc83c11bec99 | 4.45215 | -60.98972 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 46.2 |
+| 2359ca10-b683-3d01-8a06-1fd758e38cca | 4.4498 | -60.97622 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| cf0bbbde-99ea-313c-b5a8-6711be1a066d | 4.44406 | -60.98363 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 10.7 |
+| 7f41e562-105a-3cbb-b22e-844b48e0de29 | 4.45726 | -60.97784 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| c599f657-c15b-36de-965d-1ac6ac209eb0 | 4.43888 | -60.95422 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| afab6160-7e78-35e6-b886-ffa9851234c5 | 4.45183 | -60.98677 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| c3943988-9ada-3c2e-8e68-3c49175d10a7 | 4.45654 | -60.97454 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| d644b4be-3c9d-3f1f-98c4-e821dc503126 | 4.44625 | -60.95585 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 3dcb4f2a-9c44-30cc-8618-a3f3d1b14963 | 4.44365 | -60.98048 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 16.5 |
+| ce1a4881-fca3-3414-9a3c-9d39e771cc1b | 4.43305 | -60.96095 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d584e4c1-baa2-3698-ade8-24db08e5cfb9 | 4.44124 | -60.96721 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| cfaad86a-67b4-3e92-87c1-a473f86a40ef | 4.4406 | -60.96383 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 24a34c8b-17c4-3e8b-9205-48e87d4420d8 | 4.45758 | -60.9805 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 46.2 |
+| b07380af-3934-315c-802f-cc998a86fc06 | 4.43357 | -60.96394 | 2024-12-17 06:22:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 7ad76fb2-6a5c-3cbe-9012-a97896856a31 | -6.9346 | -43.5168 | 2024-12-17 06:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| afdaca3d-e482-3f0b-a579-e3cac22f5e84 | 4.4618 | -60.9842 | 2024-12-17 06:30:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 66.5 |
+| db52e0fa-75cf-30f7-928a-0fe25c07075f | 4.4435 | -60.9846 | 2024-12-17 06:30:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 116.1 |
+| c58e8bc3-d35f-34fd-a005-7a47f7202361 | 4.4435 | -60.9846 | 2024-12-17 06:40:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 78.4 |
 
 
 [Clique aqui para ver as próximas entradas](README31.md)
