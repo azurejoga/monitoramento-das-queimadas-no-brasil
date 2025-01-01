@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2efa0d8d-3838-311a-9ecd-c8fbdff73fe4 | -4.312 | -40.075199 | 2024-12-31 00:14:00 | METOP-C | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| f3877528-c98d-3827-89d5-41394016aa8a | -6.1351 | -39.7976 | 2024-12-31 00:14:00 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| c37ea6da-e320-3e22-8771-4f1be6be6943 | -5.9415 | -39.6759 | 2024-12-31 00:14:00 | METOP-C | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 9b999b3f-9dcb-3ee2-80fa-10e172379e4b | -1.5705 | -46.049 | 2024-12-31 00:14:00 | METOP-C | CARUTAPERA | MARANHÃO | Brasil | 2102903 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| ef55d924-f27e-3bfc-b272-d6f779b906c5 | -5.8535 | -39.081402 | 2024-12-31 00:14:00 | METOP-C | SOLONÓPOLE | CEARÁ | Brasil | 2313005 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| dbec0bc0-d618-3e50-8e20-180f9ce27642 | -2.3266 | -45.6157 | 2024-12-31 00:14:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| b91b14c8-ad99-3deb-8d70-e607f4e4963b | -4.8939 | -39.916901 | 2024-12-31 00:14:00 | METOP-C | MONSENHOR TABOSA | CEARÁ | Brasil | 2308609 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 17bfae16-a0c9-3d78-844d-fdaa5ef26010 | -10.6394 | -40.214699 | 2024-12-31 00:14:00 | METOP-C | FILADÉLFIA | BAHIA | Brasil | 2910859 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 2e0df42e-5b1f-32c6-8a2d-a49278a44c60 | -6.1234 | -39.792099 | 2024-12-31 00:14:00 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 69e35438-00c5-31a3-992e-0b067425ec51 | -4.9017 | -41.103901 | 2024-12-31 00:14:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 54a0cdc2-027e-3e64-9257-e1bbbbdd8cfd | -4.9115 | -41.1017 | 2024-12-31 00:14:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| bb77a622-5b2a-3d49-a338-97ae36a34ff2 | -5.3843 | -42.934399 | 2024-12-31 00:14:00 | METOP-C | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Caatinga | nan |
-| 6c78c2b0-a0a4-32ff-b11c-4965a9692c3b | -6.3816 | -39.3964 | 2024-12-31 00:14:00 | METOP-C | IGUATU | CEARÁ | Brasil | 2305506 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| ece20bc0-0402-3e92-b495-93f011efca50 | -6.2723 | -41.768799 | 2024-12-31 00:14:00 | METOP-C | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| e7b343db-dd03-34c0-8835-ab451ffbf62f | -5.9434 | -39.683899 | 2024-12-31 00:14:00 | METOP-C | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| fec3b490-8e22-3765-8bf4-1103d575b375 | -1.5669 | -46.033501 | 2024-12-31 00:14:00 | METOP-C | CARUTAPERA | MARANHÃO | Brasil | 2102903 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 481ce865-82a5-321a-bb81-502e51d51cb9 | -4.914 | -40.7565 | 2024-12-31 00:14:00 | METOP-C | IPAPORANGA | CEARÁ | Brasil | 2305654 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 261a7031-f310-3890-b38d-6c13634ee5da | -2.5645 | -51.888699 | 2024-12-31 00:14:00 | METOP-C | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a94070fd-a175-3602-aea6-6c895f48d73e | -4.6183 | -38.479099 | 2024-12-31 00:14:00 | METOP-C | OCARA | CEARÁ | Brasil | 2309458 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| fbfa4fd5-d23c-34ef-9650-a648bbe60f68 | -4.9148 | -41.1161 | 2024-12-31 00:14:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| c0997fff-202c-35b3-8bb4-f16818db4e80 | -4.9033 | -41.111099 | 2024-12-31 00:14:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 8368fc7c-4f33-359d-9fb5-811acd250e11 | -5.2994 | -43.2854 | 2024-12-31 00:14:00 | METOP-C | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 36172565-1011-375b-b1ee-b9f2ffe17800 | -2.3248 | -45.608101 | 2024-12-31 00:14:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| f2d939a6-4d84-3d22-ba58-9a3169dbcae3 | -5.8515 | -39.072899 | 2024-12-31 00:14:00 | METOP-C | SOLONÓPOLE | CEARÁ | Brasil | 2313005 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 65aa0a71-2e79-371c-b477-d3975fbb264e | -1.5157 | -46.486 | 2024-12-31 00:14:00 | METOP-C | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c72e4187-6ea1-3ef8-8ebb-c2c162b23b83 | -5.7207 | -43.234901 | 2024-12-31 00:14:00 | METOP-C | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ef8eb4a0-837e-3c3c-b4a2-06d9827ed483 | -6.2769 | -43.825401 | 2024-12-31 00:14:00 | METOP-C | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7570f4f4-0b23-38f5-8811-fe6e17ef64d7 | -4.2565 | -39.7052 | 2024-12-31 00:14:00 | METOP-C | CANINDÉ | CEARÁ | Brasil | 2302800 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 03d45841-aa76-3487-a2d1-86df76d9f4b5 | -6.9561 | -43.002602 | 2024-12-31 00:14:00 | METOP-C | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| ab8c310f-1e69-3c2c-9361-c406abacfe14 | -9.3699 | -38.934299 | 2024-12-31 00:14:00 | METOP-C | MACURURÉ | BAHIA | Brasil | 2919900 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 2b7733e7-0be7-3c69-aaf4-d710dbfb3a4b | -2.8091 | -41.779499 | 2024-12-31 00:14:00 | METOP-C | ILHA GRANDE | PIAUÍ | Brasil | 2204659 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 201538aa-1d69-3166-b5ef-5ba6bb2ae08b | -6.2753 | -43.818199 | 2024-12-31 00:14:00 | METOP-C | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7ceb078e-e9dc-34f6-9477-f70281a4f1ca | -4.9098 | -41.094501 | 2024-12-31 00:14:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 891484d7-b8c2-3768-a59a-4a7e114e5433 | -5.9099 | -39.497101 | 2024-12-31 00:14:00 | METOP-C | PIQUET CARNEIRO | CEARÁ | Brasil | 2310902 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 98636657-8050-37b1-b2b3-c04cd90a4109 | -4.2546 | -39.696999 | 2024-12-31 00:14:00 | METOP-C | CANINDÉ | CEARÁ | Brasil | 2302800 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 09274fe1-a6f9-315a-ac0a-5868d3ef634f | -6.2737 | -43.8111 | 2024-12-31 00:14:00 | METOP-C | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 609d3c5c-fc63-3792-bdaa-a3344ca6a90a | -9.3717 | -38.9422 | 2024-12-31 00:14:00 | METOP-C | MACURURÉ | BAHIA | Brasil | 2919900 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 10123207-b8b1-353e-ad21-b69e612d957f | -7.3578 | -40.039501 | 2024-12-31 00:14:00 | METOP-C | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| fb826f0f-3698-3d2c-951a-6de53a2f5dcf | -2.7977 | -41.774601 | 2024-12-31 00:14:00 | METOP-C | ILHA GRANDE | PIAUÍ | Brasil | 2204659 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 64d43955-f93d-30c9-951d-9cd13e7c9b97 | -6.1253 | -39.7999 | 2024-12-31 00:14:00 | METOP-C | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| a57a9e6c-429c-346b-b0bf-d3c24cb703f0 | -1.5687 | -46.041199 | 2024-12-31 00:14:00 | METOP-C | CARUTAPERA | MARANHÃO | Brasil | 2102903 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 1c375e7e-f000-36e5-8842-af4a6ef9ff43 | -4.3101 | -40.0672 | 2024-12-31 00:14:00 | METOP-C | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 68fe6f9c-90f6-3701-823a-14d6a1d2001b | -4.9131 | -41.108898 | 2024-12-31 00:14:00 | METOP-C | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 2ba2a1dc-f10d-3d6e-ab11-3ce0713d2506 | -6.0866 | -42.668999 | 2024-12-31 00:14:00 | METOP-C | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 70cdfdfe-44fe-3010-9acc-63d069e16c50 | -6.2707 | -41.761902 | 2024-12-31 00:14:00 | METOP-C | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 73ad8a28-8e70-3c2a-9ef7-e351e0ac224c | -10.6377 | -40.2075 | 2024-12-31 00:14:00 | METOP-C | FILADÉLFIA | BAHIA | Brasil | 2910859 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 0f774007-ad9a-390b-86b9-c3e33d098e8d | -4.5262 | -44.236099 | 2024-12-31 00:18:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 768da7ca-43d3-32ee-ab46-e426b92eded2 | -4.5148 | -44.231098 | 2024-12-31 00:18:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f0e33cfa-f2d0-3297-9435-518281628cb9 | -3.5479 | -43.560398 | 2024-12-31 00:18:00 | METOP-C | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9ed1fe5e-7084-3c2e-8ff7-459702214b36 | -1.6396 | -45.855801 | 2024-12-31 00:18:00 | METOP-C | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 437af7ac-cd61-3065-a1cd-2cb9934cbec2 | -1.6529 | -45.868801 | 2024-12-31 00:18:00 | METOP-C | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a311397-b0b4-3bdf-8801-153636a6af3b | -1.2444 | -46.6059 | 2024-12-31 00:18:00 | METOP-C | AUGUSTO CORRÊA | PARÁ | Brasil | 1500909 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8df57f0d-9661-38bd-a5f9-f96ad1beb3c5 | -2.8365 | -40.293701 | 2024-12-31 00:18:00 | METOP-C | ACARAÚ | CEARÁ | Brasil | 2300200 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 827b1c1d-bd5d-3b16-b34a-de968f8ea464 | -1.6494 | -45.8536 | 2024-12-31 00:18:00 | METOP-C | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 0e773e5c-9ffd-3694-b415-29a828357a4e | -4.5164 | -44.238201 | 2024-12-31 00:18:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 68b14669-531a-3668-851a-9c6ef34b30ea | -1.6512 | -45.861198 | 2024-12-31 00:18:00 | METOP-C | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 51e98330-518b-3f66-8ef9-b424cdcfd362 | -2.4819 | -45.4389 | 2024-12-31 00:18:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 80943cc2-04b8-3505-b16a-2308f9a09c30 | -5.3076 | -44.549301 | 2024-12-31 00:18:00 | METOP-C | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d5270442-fb3c-3142-9d76-c7c8f7d64e8e | -3.91 | -40.7421 | 2024-12-31 00:18:00 | METOP-C | MUCAMBO | CEARÁ | Brasil | 2309003 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 85e0c254-3c93-3aab-9e3d-5861ef864e40 | -2.8384 | -40.301701 | 2024-12-31 00:18:00 | METOP-C | ACARAÚ | CEARÁ | Brasil | 2300200 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 9f12e70e-48ba-3d90-b766-a1aa50aac47b | -4.5278 | -44.243198 | 2024-12-31 00:18:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8792730f-8794-3dd8-ae85-b2862cbf6f48 | -3.5495 | -43.567299 | 2024-12-31 00:18:00 | METOP-C | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b4ae0350-d265-3169-8742-93d6bc5c774f | -2.4836 | -45.4464 | 2024-12-31 00:18:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a0c1e4e-f9f2-39eb-9c61-f7d2fc5f4f50 | -4.5131 | -44.2239 | 2024-12-31 00:18:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| bfcd4e38-612c-30c4-8f59-d64e9d8f4b7b | -2.4917 | -45.436699 | 2024-12-31 00:18:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| c4cda5b5-69bf-3737-8263-ec8046054b0b | -1.6771 | -45.839401 | 2024-12-31 00:18:00 | METOP-C | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 28b889f3-0864-37d7-8a22-64b533a1c047 | -2.4934 | -45.444199 | 2024-12-31 00:18:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 22c2e757-fba1-3b59-9c4b-f4e22a4ed3b1 | -1.2425 | -46.597698 | 2024-12-31 00:18:00 | METOP-C | AUGUSTO CORRÊA | PARÁ | Brasil | 1500909 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 617d2527-f191-36c2-ac8a-52763190d7d1 | -1.6414 | -45.8634 | 2024-12-31 00:18:00 | METOP-C | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| d5e42749-440a-3818-92a6-7762a3f8520d | -3.7617 | -43.9552 | 2024-12-31 00:18:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9d1dbb49-4de1-3b63-87df-904a347e4429 | -2.7077 | -45.571301 | 2024-12-31 00:18:00 | METOP-C | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| d33042e9-1672-30fb-8e4b-89d25e3fcbb9 | -3.7601 | -43.9482 | 2024-12-31 00:18:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 12af56d5-cb2a-3202-aea2-21b6615bb235 | -2.706 | -45.563702 | 2024-12-31 00:18:00 | METOP-C | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 36b80900-8f92-3950-b345-43cee2178d7d | -3.9117 | -40.749599 | 2024-12-31 00:18:00 | METOP-C | MUCAMBO | CEARÁ | Brasil | 2309003 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 098536c0-f0ec-31d2-af2d-a7e6b50f859d | -2.4853 | -45.4538 | 2024-12-31 00:18:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 0ede5cf5-625d-3fd7-9702-3395d47ae5ec | -4.5246 | -44.229 | 2024-12-31 00:18:00 | METOP-C | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9e83f141-5fe1-3345-b801-048c77210819 | -2.0918 | -45.580399 | 2024-12-31 00:18:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 035300ad-5ce1-38cf-a3db-9d64afc1f7be | -22.54615 | -48.3791 | 2024-12-31 00:43:00 | TERRA_M-M | MINEIROS DO TIETÊ | SÃO PAULO | Brasil | 3529807 | 35 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 0cd59a92-f71d-3e9c-af61-fa46542c98a0 | -22.11684 | -51.46638 | 2024-12-31 00:43:00 | TERRA_M-M | PRESIDENTE PRUDENTE | SÃO PAULO | Brasil | 3541406 | 35 | 33 | nan | nan | nan | Mata Atlântica | 69.2 |
-| a6540cde-900e-3a6b-b6ee-59aa80eb2591 | -1.56916 | -46.03772 | 2024-12-31 00:49:00 | TERRA_M-M | CARUTAPERA | MARANHÃO | Brasil | 2102903 | 21 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| 016ed0b1-a263-32ab-adad-3627f931e3f0 | -1.86405 | -48.52799 | 2024-12-31 00:49:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 519df6fd-6743-3c33-87ec-a2174d8e3b66 | -6.95914 | -43.00602 | 2024-12-31 00:49:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 18.9 |
-| e872aa1a-534b-3049-83f2-777bec98ae11 | -3.5568 | -43.55932 | 2024-12-31 00:49:00 | TERRA_M-M | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| d5d96618-e60b-3f8e-b951-defd4ec1bc43 | -2.09673 | -45.57993 | 2024-12-31 00:49:00 | TERRA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 9e831607-f09e-3159-92a4-065dd46ed066 | -2.49192 | -49.39447 | 2024-12-31 00:49:00 | TERRA_M-M | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 30217eff-e41b-332b-9589-92bffa0d52a4 | -4.31205 | -40.07361 | 2024-12-31 00:49:00 | TERRA_M-M | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | 30.3 |
-| 1c74dee4-d14d-3b96-a258-0874a7f8ea7a | -2.49747 | -45.44548 | 2024-12-31 00:49:00 | TERRA_M-M | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 13.1 |
-| a79a78a5-8031-3b1d-b647-29a62a3fa323 | -4.52043 | -44.23491 | 2024-12-31 00:49:00 | TERRA_M-M | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 3740a74b-2d41-3e2e-8f66-3b3f2ab35d55 | -3.76396 | -43.95137 | 2024-12-31 00:49:00 | TERRA_M-M | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| d1aa54b8-bd0f-3469-ab62-aa0f042afe71 | -5.72789 | -43.23653 | 2024-12-31 00:49:00 | TERRA_M-M | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 5aa92e8d-5eed-3af6-ba90-f6b68781e3d5 | -6.13222 | -39.79654 | 2024-12-31 00:49:00 | TERRA_M-M | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 19.3 |
-| fb6bab0d-e8ee-3b5c-ac26-dd030e2e57c3 | -2.55185 | -44.08784 | 2024-12-31 00:49:00 | TERRA_M-M | SÃO JOSÉ DE RIBAMAR | MARANHÃO | Brasil | 2111201 | 21 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| 9fd7b1e1-005f-33db-bc30-c8edd5892fc5 | -2.70998 | -45.57293 | 2024-12-31 00:49:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 4c791f9c-4e90-3b33-8aad-a6a28964ecae | -1.65659 | -45.86495 | 2024-12-31 00:49:00 | TERRA_M-M | AMAPÁ DO MARANHÃO | MARANHÃO | Brasil | 2100550 | 21 | 33 | nan | nan | nan | Amazônia | 50.2 |
-| d80b1d87-8549-30ea-b9b8-647caf9e769b | -4.91435 | -41.11482 | 2024-12-31 00:49:00 | TERRA_M-M | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | 17.0 |
-| c75a53bd-a03b-34c2-ae52-8d6941bb0e00 | -1.68287 | -45.83894 | 2024-12-31 00:49:00 | TERRA_M-M | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| e0af5c5d-1cf9-3703-8540-999d9aa30c23 | -1.24598 | -46.59929 | 2024-12-31 00:49:00 | TERRA_M-M | AUGUSTO CORRÊA | PARÁ | Brasil | 1500909 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 9ffbdc8e-adf3-34b4-aaad-979cf954595c | -2.50084 | -49.39321 | 2024-12-31 00:49:00 | TERRA_M-M | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 0dd1f9c0-cb2c-3415-9e1a-ac7987582105 | -3.76596 | -43.96502 | 2024-12-31 00:49:00 | TERRA_M-M | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 96c6918f-7483-33a4-b220-deaac765599c | -2.48753 | -45.4469 | 2024-12-31 00:49:00 | TERRA_M-M | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 30.4 |
+| dc5630c6-735c-3449-a3ed-10f68bc727e7 | -19.7334 | -55.399899 | 2025-01-01 00:35:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| e92cb13b-b8f2-348f-8473-e8ece719807c | -12.2198 | -49.323898 | 2025-01-01 00:35:00 | METOP-B | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 74aa7f04-28e2-3119-b5a3-9bcb69959dab | -12.2181 | -49.316601 | 2025-01-01 00:35:00 | METOP-B | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bb7b7d6d-a17d-3fb5-a2c9-ea54113aee33 | -19.731001 | -55.386799 | 2025-01-01 00:35:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 5bf6daca-b4bf-3aea-ac83-01715532beb8 | -15.2145 | -60.173901 | 2025-01-01 00:38:00 | METOP-B | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 76a6d214-702e-3d29-9315-a5c33fa5ce23 | -15.209 | -60.198799 | 2025-01-01 00:38:00 | METOP-B | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 27218493-f7ae-3500-b51e-cab52e4c35b0 | -12.2099 | -49.326199 | 2025-01-01 00:38:00 | METOP-B | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| efa4e37d-11b7-347a-8086-596eb0bff731 | -12.2082 | -49.318901 | 2025-01-01 00:38:00 | METOP-B | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| db79d61f-e253-3486-855c-5251d061a01b | -15.2187 | -60.196999 | 2025-01-01 00:38:00 | METOP-B | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4210d1e6-95b1-3886-a3cd-fca1ac433aef | -19.721201 | -55.388802 | 2025-01-01 00:38:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| e5d1d582-7c97-3ce0-9780-668a6e706b92 | -19.7236 | -55.401798 | 2025-01-01 00:38:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| ad5c4f45-c1a1-34a4-a121-2c22dcdad3bb | -11.7592 | -49.339699 | 2025-01-01 00:38:00 | METOP-B | CARIRI DO TOCANTINS | TOCANTINS | Brasil | 1703867 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4e31e38e-d60d-3441-95db-3c2dcdfa09d3 | -15.2048 | -60.175701 | 2025-01-01 00:38:00 | METOP-B | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| da30218f-a831-3b70-86d6-8e52d9794771 | -23.0883 | -55.49762 | 2025-01-01 01:24:00 | TERRA_M-M | ARAL MOREIRA | MATO GROSSO DO SUL | Brasil | 5001243 | 50 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
+| c6d9b630-767d-3af4-8500-67aacb16514b | -19.76626 | -55.39889 | 2025-01-01 01:24:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 784654f3-f2a8-3a88-9d67-3ba2b26f5d6c | -19.76756 | -55.40836 | 2025-01-01 01:24:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 14.2 |
+| 32e63ff6-e765-36bb-934a-e1144bb1d8e5 | -15.16664 | -56.47333 | 2025-01-01 01:26:00 | TERRA_M-M | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| aeadfe43-a7fb-3de7-a491-e6eb22085ff5 | -14.70648 | -56.81359 | 2025-01-01 01:26:00 | TERRA_M-M | DENISE | MATO GROSSO | Brasil | 5103452 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
+| 7af484c6-1c7c-38e4-a0a7-06700c4aefee | -15.39117 | -59.88623 | 2025-01-01 01:26:00 | TERRA_M-M | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 19.6 |
+| 835e067e-6964-3214-8dfb-ea892e2a8ec8 | -15.16539 | -56.46412 | 2025-01-01 01:26:00 | TERRA_M-M | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 216bd961-473d-34d6-b374-0b42a379a94d | -19.8172 | -57.466801 | 2025-01-01 01:36:00 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 20607054-3e5a-3570-8d88-bb96c1bc7258 | -15.2405 | -60.205399 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 540bf125-1abf-3746-a3b1-f99c7248a3eb | -15.2421 | -60.212399 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f1fbd369-9e18-32bf-847a-7d2110e742c7 | -15.3737 | -59.882599 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 32e1e7be-5b5e-3ec1-9f64-be5b001e8ab7 | -15.2437 | -60.219501 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| db9e8f34-37d5-34c5-90a6-db180904e01f | -11.9759 | -63.964699 | 2025-01-01 01:36:00 | METOP-C | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 87f9b343-c9b8-3146-9585-d36b19d64daa | -9.2149 | -60.3368 | 2025-01-01 01:36:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e44b2da4-6348-35a2-8459-c5c30f2c77e9 | -9.2165 | -60.344002 | 2025-01-01 01:36:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 10f8dc16-53f4-3a4c-b33a-ac3a363db516 | -23.0709 | -55.499001 | 2025-01-01 01:36:00 | METOP-C | ARAL MOREIRA | MATO GROSSO DO SUL | Brasil | 5001243 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 153743cc-4881-3d4a-b409-8cc779a1f321 | -14.6867 | -56.819302 | 2025-01-01 01:36:00 | METOP-C | DENISE | MATO GROSSO | Brasil | 5103452 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f60a17c8-ceb9-3793-b0df-c72542398c6d | -15.3655 | -59.892101 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6a5180a4-84e4-3c30-8eb2-cbb180d41e8b | -15.2519 | -60.210098 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4321dc36-b773-3e6e-9208-47706304662f | -19.751301 | -55.4081 | 2025-01-01 01:36:00 | METOP-C | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| dada040c-db7d-31ea-b34a-f183bc627f13 | -15.3753 | -59.889702 | 2025-01-01 01:36:00 | METOP-C | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 47502e64-bec7-323a-8bea-c38e2b08a1d8 | -11.9776 | -63.972698 | 2025-01-01 01:36:00 | METOP-C | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 924b1459-0daa-3af6-95f3-d004a39fd514 | -6.02204 | -38.04951 | 2025-01-01 02:57:00 | NOAA-21 | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| eb445baa-9166-37d1-a20b-2a28bfb17081 | -6.02325 | -38.04303 | 2025-01-01 02:57:00 | NOAA-21 | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 3e6aef86-3865-34eb-8bb2-1d9069e41e6f | -6.01855 | -38.04906 | 2025-01-01 02:57:00 | NOAA-21 | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 4.1 |
+| 4ba59fe2-1ed1-3592-a921-bee4c8c9db19 | -10.29931 | -37.53892 | 2025-01-01 03:00:00 | NOAA-21 | NOSSA SENHORA APARECIDA | SERGIPE | Brasil | 2804458 | 28 | 33 | nan | nan | nan | Caatinga | 6.4 |
+| a31e5a12-a1c1-3ff4-b54e-0f9e08e74f53 | -8.02585 | -35.06974 | 2025-01-01 03:00:00 | NOAA-21 | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 78cc181c-a8a2-3cb8-abf2-fbc2d16466bf | -8.02507 | -35.07385 | 2025-01-01 03:00:00 | NOAA-21 | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 9174030b-6eba-31f5-9c18-97d04d00b08e | -8.81294 | -35.12532 | 2025-01-01 03:00:00 | NOAA-21 | BARREIROS | PERNAMBUCO | Brasil | 2601409 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 127bb6c9-5fbf-33d0-b59f-dd6041687a84 | -10.29284 | -37.53773 | 2025-01-01 03:00:00 | NOAA-21 | NOSSA SENHORA APARECIDA | SERGIPE | Brasil | 2804458 | 28 | 33 | nan | nan | nan | Caatinga | 6.4 |
+| 40da4177-0e8f-3258-a274-47235481e4f5 | -8.20753 | -35.4758 | 2025-01-01 03:00:00 | NOAA-21 | CHÃ GRANDE | PERNAMBUCO | Brasil | 2604502 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 814163c7-7439-30b5-bc1c-d50e3c857d25 | -12.30884 | -37.88919 | 2025-01-01 03:00:00 | NOAA-21 | ENTRE RIOS | BAHIA | Brasil | 2910503 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 136e10a7-8a12-38a5-b02a-56f9cfd0ac65 | -12.30992 | -37.88391 | 2025-01-01 03:00:00 | NOAA-21 | ENTRE RIOS | BAHIA | Brasil | 2910503 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 9b5d02d7-5eaf-35ff-ad28-af5dc5c3123a | -8.81223 | -35.12908 | 2025-01-01 03:00:00 | NOAA-21 | BARREIROS | PERNAMBUCO | Brasil | 2601409 | 26 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| 6edf071d-7baa-3854-9b82-81db20452805 | -8.02482 | -35.07248 | 2025-01-01 03:00:00 | NOAA-21 | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| fdefd04e-7403-37b5-a0fd-980dbd12b542 | -5.18693 | -37.63774 | 2025-01-01 03:21:00 | NPP-375D | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| e2ddad7a-5d0d-3f83-b760-ce0ae0b56b9f | -5.10517 | -38.02562 | 2025-01-01 03:21:00 | NPP-375D | LIMOEIRO DO NORTE | CEARÁ | Brasil | 2307601 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 675bc4af-f6b2-3316-8cf7-18e3c445220b | -3.82089 | -38.47887 | 2025-01-01 03:21:00 | NPP-375D | FORTALEZA | CEARÁ | Brasil | 2304400 | 23 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 0e04c499-c5ad-3bd7-9ffc-efc87e7ad98b | -3.82139 | -38.47586 | 2025-01-01 03:21:00 | NPP-375D | FORTALEZA | CEARÁ | Brasil | 2304400 | 23 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| f3a0f371-af0c-3bb5-ab42-9ac4f91557a7 | -5.10791 | -38.02441 | 2025-01-01 03:21:00 | NPP-375D | LIMOEIRO DO NORTE | CEARÁ | Brasil | 2307601 | 23 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 8f747bd3-7aee-367b-ad61-cdad4dfff9e8 | -4.37375 | -39.05716 | 2025-01-01 03:21:00 | NPP-375D | ARATUBA | CEARÁ | Brasil | 2301406 | 23 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 465e9e63-ddd9-3fef-943e-1725ee29ac2d | -4.3744 | -39.05329 | 2025-01-01 03:21:00 | NPP-375D | ARATUBA | CEARÁ | Brasil | 2301406 | 23 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| ce3500fb-21d7-37e8-a310-b24ef353bf40 | -6.81806 | -34.91558 | 2025-01-01 03:23:00 | NPP-375D | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| d0b47418-f947-3adf-9621-4e9cd600b66b | -9.87745 | -40.29245 | 2025-01-01 03:23:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| ec14a4a7-3be3-36c3-8764-669ef445debc | -6.81667 | -34.91835 | 2025-01-01 03:23:00 | NPP-375D | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| febf7628-97eb-3f38-865f-5abe64087754 | -6.01846 | -38.04509 | 2025-01-01 03:23:00 | NPP-375D | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 4aa21b1d-3e1c-3e6c-91a0-900802a4d42d | -8.81273 | -35.13062 | 2025-01-01 03:23:00 | NPP-375D | BARREIROS | PERNAMBUCO | Brasil | 2601409 | 26 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| e1c20225-554c-36b5-aac3-acddab7fcc8e | -10.29644 | -37.54002 | 2025-01-01 03:23:00 | NPP-375D | NOSSA SENHORA APARECIDA | SERGIPE | Brasil | 2804458 | 28 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| cfcf2bbc-a29d-3cdb-b216-a74b1dfd6de3 | -6.81281 | -34.91771 | 2025-01-01 03:23:00 | NPP-375D | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
+| deb2c26d-a8d6-346d-83ac-5a78e80f9f1b | -7.5399 | -35.31693 | 2025-01-01 03:23:00 | NPP-375D | TIMBAÚBA | PERNAMBUCO | Brasil | 2615300 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 0ed88d42-15d8-3b57-af79-fbc8ab2cddc4 | -8.36047 | -35.19945 | 2025-01-01 03:23:00 | NPP-375D | ESCADA | PERNAMBUCO | Brasil | 2605202 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 57e029d7-f53d-3dc8-b83e-4d4140707b74 | -7.37649 | -34.88549 | 2025-01-01 03:23:00 | NPP-375D | ALHANDRA | PARAÍBA | Brasil | 2500601 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| e23b42dc-a50d-3d20-859e-050365a0f087 | -8.81349 | -35.12602 | 2025-01-01 03:23:00 | NPP-375D | BARREIROS | PERNAMBUCO | Brasil | 2601409 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| fee0e84d-055f-39e0-ac5d-907a6d5171ca | -9.28784 | -40.44586 | 2025-01-01 03:23:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 95117254-7659-35cd-9f36-4265cc7f7ada | -5.60703 | -35.63861 | 2025-01-01 03:23:00 | NPP-375D | TAIPU | RIO GRANDE DO NORTE | Brasil | 2413904 | 24 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| e3c04c13-aa2d-3f39-8e44-9fa4328db33a | -10.74947 | -37.20568 | 2025-01-01 03:23:00 | NPP-375D | RIACHUELO | SERGIPE | Brasil | 2805901 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 29a33946-d35b-38ac-a61c-2535cb0a9879 | -8.21021 | -35.4777 | 2025-01-01 03:23:00 | NPP-375D | CHÃ GRANDE | PERNAMBUCO | Brasil | 2604502 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| f07113c5-2563-3e87-b945-9dbd68718c3c | -10.80224 | -36.91056 | 2025-01-01 03:23:00 | NPP-375D | BARRA DOS COQUEIROS | SERGIPE | Brasil | 2800605 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 06871a39-e1c0-38c1-ade1-18d0290a81ec | -6.75544 | -39.13791 | 2025-01-01 03:23:00 | NPP-375D | LAVRAS DA MANGABEIRA | CEARÁ | Brasil | 2307502 | 23 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 15097445-b10d-3fa9-a20d-290f2d9554bd | -9.29317 | -40.44685 | 2025-01-01 03:23:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 94f6bce1-03d1-3de4-a8e5-3d3114e156e7 | -8.21104 | -35.47272 | 2025-01-01 03:23:00 | NPP-375D | CHÃ GRANDE | PERNAMBUCO | Brasil | 2604502 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 8aee8b29-bef1-3ea1-9ae3-c8881fe6697c | -6.75491 | -39.14089 | 2025-01-01 03:23:00 | NPP-375D | LAVRAS DA MANGABEIRA | CEARÁ | Brasil | 2307502 | 23 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 7dfdebe8-a25b-38c6-a289-ebb75a13e6aa | -8.8097 | -35.12537 | 2025-01-01 03:23:00 | NPP-375D | BARREIROS | PERNAMBUCO | Brasil | 2601409 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| c4600d10-d98b-389a-b59d-e00918301409 | -6.81421 | -34.91494 | 2025-01-01 03:23:00 | NPP-375D | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
+| 98beebc7-c6a2-36dc-8621-c72031cfa12e | -10.29718 | -37.5359 | 2025-01-01 03:23:00 | NPP-375D | NOSSA SENHORA APARECIDA | SERGIPE | Brasil | 2804458 | 28 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 6ff7b85f-8aad-38ff-b17e-faba5393e0cf | -8.0258 | -35.07198 | 2025-01-01 03:23:00 | NPP-375D | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| c7a76e2e-7416-3647-bde1-2adb6fa622c0 | -6.76053 | -39.13886 | 2025-01-01 03:23:00 | NPP-375D | LAVRAS DA MANGABEIRA | CEARÁ | Brasil | 2307502 | 23 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 88ac1b00-0c7f-3cbd-b4ce-000aee25f6d3 | -6.0233 | -38.0457 | 2025-01-01 03:23:00 | NPP-375D | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 9d2f43bd-b886-3132-9a0a-cd30fc72d252 | -9.29098 | -40.44501 | 2025-01-01 03:23:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 85663207-e4c7-3af4-a5a9-826ae26e73e9 | -9.29037 | -40.44837 | 2025-01-01 03:23:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| c8de4c8f-e872-313d-9dd0-172c539b3e62 | -5.60532 | -35.6375 | 2025-01-01 03:23:00 | NPP-375D | TAIPU | RIO GRANDE DO NORTE | Brasil | 2413904 | 24 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 95b0e4c8-9a6d-351c-9d4f-3166fd408660 | -11.96934 | -41.33546 | 2025-01-01 03:25:00 | NPP-375D | BONITO | BAHIA | Brasil | 2904050 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| fc19796f-33e9-3804-af84-c24c168b2a36 | -10.60736 | -44.32645 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 9ec6c842-8a11-376e-9989-c2f4ccc594a8 | -10.6128 | -44.33382 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 8b3b2e39-573b-3370-b1c1-c8c3f85c75ae | -10.61149 | -44.32312 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 2818fb35-dca8-315d-9d32-f89dd386641a | -10.6062 | -44.33234 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 8f7d2a0a-5dd6-39ed-a5ef-5351631cfcfe | -10.61395 | -44.32795 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 794af284-4747-3b39-b078-dfd9e1818773 | -10.6103 | -44.32895 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| f954916c-62d1-3970-9a4d-cc0cda5de220 | -11.96463 | -41.3309 | 2025-01-01 03:25:00 | NPP-375D | BONITO | BAHIA | Brasil | 2904050 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 7e189920-473a-3f35-80e7-80ed609d0919 | -10.60911 | -44.33484 | 2025-01-01 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 818e7be1-e02e-32c8-9ee6-78763885a571 | -15.77949 | -38.95957 | 2025-01-01 03:46:00 | NOAA-20 | BELMONTE | BAHIA | Brasil | 2903409 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 2855d560-b1e7-3024-8313-375638a26373 | -3.55574 | -40.84174 | 2025-01-01 03:46:00 | NOAA-20 | COREAÚ | CEARÁ | Brasil | 2304004 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 54d332b0-f1cb-3ee9-a6c9-2c791e3b1708 | -6.23712 | -39.62178 | 2025-01-01 03:46:00 | NOAA-20 | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| d3367c27-70c3-36b6-a713-1149ccb12a8d | -7.91495 | -38.47624 | 2025-01-01 03:46:00 | NOAA-20 | SERRA TALHADA | PERNAMBUCO | Brasil | 2613909 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| de51a3fc-4a28-3883-bb5f-68b06ff1d706 | -11.95326 | -38.96971 | 2025-01-01 03:46:00 | NOAA-20 | SANTA BÁRBARA | BAHIA | Brasil | 2927507 | 29 | 33 | nan | nan | nan | Caatinga | 0.4 |
+| e2be799b-3ee7-36c6-b23a-c73493130a0e | -3.97636 | -40.85413 | 2025-01-01 03:46:00 | NOAA-20 | SÃO BENEDITO | CEARÁ | Brasil | 2312304 | 23 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 72391b93-43ce-39f7-8d12-6cb6f011c89b | -3.89883 | -38.35232 | 2025-01-01 03:46:00 | NOAA-20 | AQUIRAZ | CEARÁ | Brasil | 2301000 | 23 | 33 | nan | nan | nan | Caatinga | 1.6 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
