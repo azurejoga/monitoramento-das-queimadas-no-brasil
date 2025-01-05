@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4dc7efee-368b-303c-9322-4da0b52b4ac3 | -10.6319 | -44.3257 | 2025-01-04 00:00:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 54.3 |
-| 06024f5a-3df8-3c8e-9587-49bf93891d53 | -10.6124 | -44.3517 | 2025-01-04 00:00:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 103.3 |
-| 78a3326b-cf2f-3e6e-917b-1e3518bb9194 | 1.34 | -60.3122 | 2025-01-04 00:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 101.2 |
-| 5b863308-ecd5-3e6a-abac-8dfcf7d5c80e | -10.6128 | -44.3284 | 2025-01-04 00:00:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 185.9 |
-| 7da105b8-3328-335e-a23c-9e479a4ea361 | -8.03135 | -35.13846 | 2025-01-04 00:09:00 | TERRA_M-M | SÃO LOURENÇO DA MATA | PERNAMBUCO | Brasil | 2613701 | 26 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
-| ce5105f6-e259-32d2-8cd8-f203b709b7b4 | -9.24367 | -35.59543 | 2025-01-04 00:09:00 | TERRA_M-M | SÃO LUÍS DO QUITUNDE | ALAGOAS | Brasil | 2708501 | 27 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| ebf06a36-ed6d-3840-8147-4e565a02dde6 | -7.85042 | -37.71431 | 2025-01-04 00:09:00 | TERRA_M-M | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| 4d075af0-2815-32f9-b55f-b49f4c7f99ee | -9.24218 | -35.58519 | 2025-01-04 00:09:00 | TERRA_M-M | PASSO DE CAMARAGIBE | ALAGOAS | Brasil | 2706505 | 27 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
-| 033f076c-6cba-32a0-9658-228f825a6887 | -9.27841 | -43.05075 | 2025-01-04 00:09:00 | TERRA_M-M | ANÍSIO DE ABREU | PIAUÍ | Brasil | 2200707 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
-| 4244136d-cfb2-36e1-9b6d-d904d1371b1f | -10.41905 | -39.86431 | 2025-01-04 00:09:00 | TERRA_M-M | ANDORINHA | BAHIA | Brasil | 2901353 | 29 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| a15f3aab-b829-3a17-86c0-09e7f9447352 | -9.48545 | -35.99343 | 2025-01-04 00:09:00 | TERRA_M-M | ATALAIA | ALAGOAS | Brasil | 2700409 | 27 | 33 | nan | nan | nan | Mata Atlântica | 21.5 |
-| b397fbd4-e435-3d83-84f7-063a0275e303 | -11.76749 | -38.68409 | 2025-01-04 00:09:00 | TERRA_M-M | ÁGUA FRIA | BAHIA | Brasil | 2900405 | 29 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| feb360bf-cb89-3396-a0a4-e6fbb7003b9f | -9.98371 | -36.38436 | 2025-01-04 00:09:00 | TERRA_M-M | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Mata Atlântica | 10.2 |
-| 97ee8fd9-0490-3a92-8c24-c2da5cab999e | -9.86448 | -37.09719 | 2025-01-04 00:09:00 | TERRA_M-M | TRAIPU | ALAGOAS | Brasil | 2709202 | 27 | 33 | nan | nan | nan | Caatinga | 10.3 |
-| 6ed96054-7fc8-3662-a4c4-0325bc23dab0 | -12.56433 | -39.62653 | 2025-01-04 00:09:00 | TERRA_M-M | RAFAEL JAMBEIRO | BAHIA | Brasil | 2925956 | 29 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| ba85a273-6405-3868-91a6-b053b51f629a | -8.50819 | -40.84069 | 2025-01-04 00:09:00 | TERRA_M-M | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 11.6 |
-| c36c5d1b-8958-3d0a-8df3-52a4b8dcbf0a | -9.62072 | -36.16411 | 2025-01-04 00:09:00 | TERRA_M-M | PILAR | ALAGOAS | Brasil | 2706901 | 27 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| 6ea09d98-8497-341d-b0e5-6e77bcd56e19 | -8.58963 | -35.10639 | 2025-01-04 00:09:00 | TERRA_M-M | SIRINHAÉM | PERNAMBUCO | Brasil | 2614204 | 26 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
-| 0bcb6878-9566-3495-ae27-1778678a27c9 | -9.86575 | -37.10619 | 2025-01-04 00:09:00 | TERRA_M-M | TRAIPU | ALAGOAS | Brasil | 2709202 | 27 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| 17e99e66-9019-3720-b271-8ffad4a2e5b8 | -10.54501 | -36.89838 | 2025-01-04 00:09:00 | TERRA_M-M | JAPARATUBA | SERGIPE | Brasil | 2803302 | 28 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| bef86e07-7191-3bb5-ad8d-75fac9235581 | -9.84873 | -37.12382 | 2025-01-04 00:09:00 | TERRA_M-M | BELO MONTE | ALAGOAS | Brasil | 2700904 | 27 | 33 | nan | nan | nan | Caatinga | 19.1 |
-| 44ead6ee-50e2-3626-ab2a-3534750ec415 | -7.85167 | -37.72321 | 2025-01-04 00:09:00 | TERRA_M-M | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 5.2 |
-| fb5422d8-51c5-3623-aec5-2be6c126ac55 | -8.4353 | -40.6636 | 2025-01-04 00:09:00 | TERRA_M-M | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| 5f2f056e-2b5b-3708-a99b-1d0d9aba12b6 | -9.90287 | -38.10859 | 2025-01-04 00:09:00 | TERRA_M-M | PEDRO ALEXANDRE | BAHIA | Brasil | 2924207 | 29 | 33 | nan | nan | nan | Caatinga | 19.6 |
-| 4fb7b629-2565-35dc-9df5-14abf92aee90 | 1.34 | -60.3122 | 2025-01-04 00:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 95.1 |
-| bd30b6c5-9803-3be9-a54e-92f732b4ea90 | 1.3583 | -60.3121 | 2025-01-04 00:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| d449b909-8d64-3008-a7e3-fbd77f268d7c | 1.3401 | -60.2932 | 2025-01-04 00:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 62.6 |
-| 00df7b3a-2e48-3970-9a38-7aa75691ab49 | -6.34722 | -39.56523 | 2025-01-04 00:11:00 | TERRA_M-M | JUCÁS | CEARÁ | Brasil | 2307403 | 23 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| 6f727776-6b65-32fa-9220-14fd405a18a5 | -5.99714 | -41.13942 | 2025-01-04 00:11:00 | TERRA_M-M | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 11.7 |
-| 6ee6f87e-6c2f-38a9-a6a9-73a9c7dcbb65 | -2.96758 | -41.86235 | 2025-01-04 00:11:00 | TERRA_M-M | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Caatinga | 5.6 |
-| 9df98625-fdc0-3728-a562-ef1c19b2f4ec | -6.08252 | -39.85165 | 2025-01-04 00:11:00 | TERRA_M-M | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 3.8 |
-| 0cbe8517-71c0-31c6-8a53-deb36276b5e0 | -5.8572 | -39.41425 | 2025-01-04 00:11:00 | TERRA_M-M | PIQUET CARNEIRO | CEARÁ | Brasil | 2310902 | 23 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| e19d10bf-ee63-3c00-a6ce-e9c8074f16f1 | -5.14651 | -39.4712 | 2025-01-04 00:11:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| e20837a1-5262-33c7-9f22-894b8449bbac | -2.96371 | -41.85775 | 2025-01-04 00:11:00 | TERRA_M-M | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Caatinga | 13.4 |
-| 7fd27fdd-d914-3d63-bbfa-344ff4e2a9df | -4.52082 | -38.68439 | 2025-01-04 00:11:00 | TERRA_M-M | ARACOIABA | CEARÁ | Brasil | 2301208 | 23 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| 2a915072-49dd-304e-8a21-ef034e5bba06 | -4.38703 | -47.74105 | 2025-01-04 00:11:00 | TERRA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 26.6 |
-| 3e0920b0-d266-34bb-8733-390e0e12992c | -7.29187 | -34.98705 | 2025-01-04 00:11:00 | TERRA_M-M | ALHANDRA | PARAÍBA | Brasil | 2500601 | 25 | 33 | nan | nan | nan | Mata Atlântica | 11.5 |
-| 8f35dc34-ff2a-3fe3-9355-547968284b29 | -5.72257 | -39.5099 | 2025-01-04 00:11:00 | TERRA_M-M | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| 8174911b-7601-3d98-ae65-d5d432e5f049 | -4.91763 | -39.01727 | 2025-01-04 00:11:00 | TERRA_M-M | QUIXADÁ | CEARÁ | Brasil | 2311306 | 23 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 0621a2e6-a2d7-3094-b43b-f0e4f5e9e798 | -5.24104 | -37.70884 | 2025-01-04 00:11:00 | TERRA_M-M | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 5.7 |
-| 037092bd-39ec-3307-9546-fe621acdc807 | -5.62966 | -38.6426 | 2025-01-04 00:11:00 | TERRA_M-M | JAGUARETAMA | CEARÁ | Brasil | 2306702 | 23 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| b276ab0b-71a1-3704-b431-ec1395eab975 | -6.704 | -39.14875 | 2025-01-04 00:11:00 | TERRA_M-M | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| ccf248df-31cf-3dc4-8624-753d1a1cd50f | -7.48373 | -37.07702 | 2025-01-04 00:11:00 | TERRA_M-M | ITAPETIM | PERNAMBUCO | Brasil | 2607703 | 26 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| a8a8be41-caf2-3ae3-9d3f-f74b5e5909a8 | -5.23978 | -37.69978 | 2025-01-04 00:11:00 | TERRA_M-M | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 17.7 |
-| 66aad530-8b1b-3172-96f1-35aea5da4d0a | -5.13884 | -39.48143 | 2025-01-04 00:11:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| a57f4b3e-01d5-3285-8fc7-a90dc45eed05 | -2.96615 | -41.85169 | 2025-01-04 00:11:00 | TERRA_M-M | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Caatinga | 12.5 |
-| 96af3b0d-539e-3116-8741-f5a96c217a66 | -5.20161 | -39.73944 | 2025-01-04 00:11:00 | TERRA_M-M | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 10.6 |
-| 6cbdfa8e-6708-3e08-b66d-04e71c40fc09 | -5.51083 | -39.11365 | 2025-01-04 00:11:00 | TERRA_M-M | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| 44cefa9f-08bc-38e2-83af-913dd50d1370 | -5.1376 | -39.47246 | 2025-01-04 00:11:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 4.0 |
-| 9a401b5a-237c-32a6-9f91-11a1dd2d5f72 | -5.71834 | -39.61211 | 2025-01-04 00:11:00 | TERRA_M-M | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | 14.6 |
-| 579663be-4d25-3333-9c61-a9b54b96c0dd | -3.00014 | -39.9373 | 2025-01-04 00:11:00 | TERRA_M-M | ITAREMA | CEARÁ | Brasil | 2306553 | 23 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 37ec12c8-204e-3f32-94aa-36c415cac072 | -6.44427 | -40.00653 | 2025-01-04 00:11:00 | TERRA_M-M | SABOEIRO | CEARÁ | Brasil | 2311900 | 23 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 1e378483-6d6d-360f-97e4-df9b047d6f5b | -6.97853 | -40.01186 | 2025-01-04 00:11:00 | TERRA_M-M | ASSARÉ | CEARÁ | Brasil | 2301604 | 23 | 33 | nan | nan | nan | Caatinga | 11.0 |
-| 182b28a9-5614-3839-ac5a-f12b82ea34d6 | -5.50959 | -39.10475 | 2025-01-04 00:11:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 13.8 |
-| c40522a1-82dd-329a-87b1-974616c86add | -6.57347 | -37.15728 | 2025-01-04 00:11:00 | TERRA_M-M | CAICÓ | RIO GRANDE DO NORTE | Brasil | 2402006 | 24 | 33 | nan | nan | nan | Caatinga | 9.7 |
-| 7a908b31-4200-36a0-8f10-4106b586c84e | -6.18562 | -36.5616 | 2025-01-04 00:11:00 | TERRA_M-M | CURRAIS NOVOS | RIO GRANDE DO NORTE | Brasil | 2403103 | 24 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| 6954042f-2a88-3199-a819-97214000b309 | -5.71959 | -39.62123 | 2025-01-04 00:11:00 | TERRA_M-M | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | 16.9 |
-| 5c4d79de-f8fd-3f54-8f98-c71f78fc7367 | -7.60385 | -41.25095 | 2025-01-04 00:11:00 | TERRA_M-M | PATOS DO PIAUÍ | PIAUÍ | Brasil | 2207777 | 22 | 33 | nan | nan | nan | Caatinga | 10.6 |
-| f84e3548-52da-3b5a-9123-4396b5fa98e7 | -6.83388 | -35.07503 | 2025-01-04 00:11:00 | TERRA_M-M | RIO TINTO | PARAÍBA | Brasil | 2512903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 9.6 |
-| 33d4f6be-d42b-3070-8fad-558f59561dd4 | -10.6319 | -44.3257 | 2025-01-04 00:20:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 62.0 |
-| 63436252-c86f-38a6-b48f-895ac0942bc5 | -3.8604 | -47.2849 | 2025-01-04 00:20:00 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 74.4 |
-| 0604c64e-7446-31ac-a1a3-cb643adfb09f | -10.6131 | -44.3051 | 2025-01-04 00:20:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 57.0 |
-| f38a2797-70f7-3f69-bac5-40e600a91c61 | -10.6128 | -44.3284 | 2025-01-04 00:20:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 209.4 |
-| 8ced4d7f-9701-3b9b-b7f9-15c1277e85cf | -3.879 | -47.2841 | 2025-01-04 00:20:00 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 69.4 |
-| b2133d3f-1a5e-31df-87ca-a283dca3c3d4 | -10.6124 | -44.3517 | 2025-01-04 00:20:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 132.5 |
-| 9dccb2df-4850-3f4b-8a67-b4e1da1e6c42 | 1.34 | -60.3122 | 2025-01-04 00:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 148.8 |
-| e79fc56b-a079-3c01-b30a-21b5f2be0a7c | 1.3401 | -60.2932 | 2025-01-04 00:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 73.7 |
-| e8e4da0e-5c94-361c-a199-88bf0dfff1a3 | 1.3401 | -60.2932 | 2025-01-04 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 82.2 |
-| 3685b33d-b499-3dff-85ea-ccb23307124b | 1.34 | -60.3122 | 2025-01-04 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 160.7 |
-| 5d94906c-f908-3dd8-a486-86f7ffb29f60 | -10.5469 | -44.670601 | 2025-01-04 00:34:00 | METOP-C | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c7763e0c-770e-3923-98fa-5e103e4696ba | -9.8511 | -37.1171 | 2025-01-04 00:34:00 | METOP-C | BELO MONTE | ALAGOAS | Brasil | 2700904 | 27 | 33 | nan | nan | nan | Caatinga | nan |
-| c4faeeea-1400-3ade-a7d2-9d7421dd3261 | -5.9104 | -48.072498 | 2025-01-04 00:34:00 | METOP-C | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9b82a030-0ab8-3b8f-b577-b98c1a14db27 | -3.8647 | -47.281799 | 2025-01-04 00:34:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ea0a5b3-a554-3f58-aa17-6a6cfe55ad8a | -10.6162 | -44.345501 | 2025-01-04 00:34:00 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 935ec9b9-47ba-308b-a730-313af5f636c3 | -12.5014 | -46.3367 | 2025-01-04 00:34:00 | METOP-C | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 66bf8c9c-9c43-3827-95b2-e9131feff48c | -9.2787 | -43.043499 | 2025-01-04 00:34:00 | METOP-C | ANÍSIO DE ABREU | PIAUÍ | Brasil | 2200707 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| ee939331-2261-34e7-89be-64bb0e8df64a | -6.9777 | -40.004299 | 2025-01-04 00:34:00 | METOP-C | ASSARÉ | CEARÁ | Brasil | 2301604 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 4ca33590-41a7-35e9-b091-ef21ed0abb80 | -5.4184 | -46.861698 | 2025-01-04 00:34:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8966ed0e-c8b3-3737-8e32-9999c2fb38a7 | -3.8745 | -47.279598 | 2025-01-04 00:34:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 09894df4-3161-3f94-b3bc-80d0f1d30bc9 | -5.7187 | -39.613499 | 2025-01-04 00:34:00 | METOP-C | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| c39a2e4c-0348-3134-a039-41ec909c23d5 | -5.5056 | -44.294601 | 2025-01-04 00:34:00 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 13aef674-9c7e-3532-8c17-68df4a01711a | -9.2903 | -43.049301 | 2025-01-04 00:34:00 | METOP-C | ANÍSIO DE ABREU | PIAUÍ | Brasil | 2200707 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 48c30f46-18d0-3f52-a929-9739f39b54f2 | -10.6129 | -44.3311 | 2025-01-04 00:34:00 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 8c584c09-64a9-3813-b43c-f68d34c20b76 | -9.2884 | -43.0411 | 2025-01-04 00:34:00 | METOP-C | ANÍSIO DE ABREU | PIAUÍ | Brasil | 2200707 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 205d6df6-4dba-34aa-bae3-4f5776721594 | -9.856 | -37.135799 | 2025-01-04 00:34:00 | METOP-C | BELO MONTE | ALAGOAS | Brasil | 2700904 | 27 | 33 | nan | nan | nan | Caatinga | nan |
-| 128a9166-01fe-38d0-a50a-1d8f21c0330b | -10.6145 | -44.338299 | 2025-01-04 00:34:00 | METOP-C | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 7b0529d1-dfe5-366c-8e84-9c60a4c06723 | -12.503 | -46.3438 | 2025-01-04 00:34:00 | METOP-C | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9c977889-20cc-38e0-b665-3711bd1afc8b | -7.6913 | -35.4048 | 2025-01-04 00:34:00 | METOP-C | VICÊNCIA | PERNAMBUCO | Brasil | 2616308 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| c6db1c95-ae99-3302-a263-07eaeaa87209 | -10.5485 | -44.6777 | 2025-01-04 00:34:00 | METOP-C | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 6f57e03c-7ec7-3f09-aa25-3c357106c4d5 | -3.8761 | -47.2864 | 2025-01-04 00:34:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 47b005ff-80e3-3046-9e21-78e8cd770a3e | -3.8663 | -47.288601 | 2025-01-04 00:34:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3a3b0ae4-c2c7-3f94-873a-31b40e7cd1a3 | 1.34 | -60.3122 | 2025-01-04 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 102.7 |
-| e07f4218-4a19-3aaa-b367-24a1c05629c1 | -3.879 | -47.2841 | 2025-01-04 00:40:00 | GOES-16 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 71.4 |
-| 9c1489d1-ad4e-30ff-8a62-2e45fd9ecdb5 | 1.3401 | -60.2932 | 2025-01-04 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.4 |
-| b6dbb406-58e5-302f-9c55-5f4f01876718 | -5.2607 | -37.7172 | 2025-01-04 00:40:00 | GOES-16 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 56.1 |
-| e63be206-386c-31d5-956e-5073e390cb65 | -10.6124 | -44.3517 | 2025-01-04 00:50:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 122.0 |
-| c2f6be43-fc83-3979-834c-27092df5f6ac | -10.6319 | -44.3257 | 2025-01-04 00:50:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 71.9 |
-| ffba3dde-ed83-3c32-8b08-553fa441bfc2 | 1.34 | -60.3122 | 2025-01-04 00:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 55.8 |
-| 205ab99b-dcdb-336e-931e-f4d647e34992 | -10.6128 | -44.3284 | 2025-01-04 00:50:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 189.4 |
-| 62fef36e-6f0c-3177-89ff-3ac701074b56 | -10.6128 | -44.3284 | 2025-01-04 01:00:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 220.5 |
+| b9ddd55f-9345-3260-aca1-2cc1507514bf | -6.0785 | -37.3271 | 2025-01-05 00:00:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 42.9 |
+| 7fb40777-998d-33e7-aa8c-e21975e62341 | -6.0788 | -37.301 | 2025-01-05 00:00:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 58.3 |
+| 9dbbadf7-c1ba-3588-b160-5e1f8749b70b | -6.0785 | -37.3271 | 2025-01-05 00:10:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 59.8 |
+| a7666956-5c14-3dad-97ca-2510bca76308 | -6.0788 | -37.301 | 2025-01-05 00:10:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 79.6 |
+| 254bcd79-ea3b-35bf-81a8-224db529073c | -9.5603 | -40.306999 | 2025-01-05 00:14:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 507025d0-03bc-3e59-9372-1a23843baafb | -9.5587 | -40.300098 | 2025-01-05 00:14:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 7d1cd80e-723c-3722-a105-847e35f6c7a4 | -6.0722 | -37.3046 | 2025-01-05 00:14:00 | METOP-C | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | nan |
+| 5b4280b4-8f55-3279-8be0-12e7713c0d87 | -5.9837 | -39.740501 | 2025-01-05 00:14:00 | METOP-C | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| d67955bd-5b39-3856-a5e5-3719c36acffb | -10.427 | -39.8587 | 2025-01-05 00:14:00 | METOP-C | ANDORINHA | BAHIA | Brasil | 2901353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 6991f560-3eca-3497-82bb-ebad58651aee | -8.7158 | -41.261398 | 2025-01-05 00:14:00 | METOP-C | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| 8c2590f4-a822-3465-ba75-bf2f00fadd31 | -4.328 | -39.142502 | 2025-01-05 00:14:00 | METOP-C | CANINDÉ | CEARÁ | Brasil | 2302800 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| b5e5f2d5-4abb-3799-adf3-a56d8c3ffb24 | -12.3536 | -39.262699 | 2025-01-05 00:14:00 | METOP-C | IPECAETÁ | BAHIA | Brasil | 2913804 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2492a373-a90b-3c07-8417-c468b4d11f13 | -6.9085 | -38.838299 | 2025-01-05 00:14:00 | METOP-C | AURORA | CEARÁ | Brasil | 2301703 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| a40638c5-3957-33fa-bdd6-8f841264bfc6 | -9.5113 | -40.318199 | 2025-01-05 00:14:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 42147f68-9529-3969-86e9-e29cb8d04caf | -11.2855 | -40.276501 | 2025-01-05 00:14:00 | METOP-C | JACOBINA | BAHIA | Brasil | 2917508 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 84a3195e-23b4-3191-bb34-48b2d8f10cfc | -12.4194 | -41.476898 | 2025-01-05 00:14:00 | METOP-C | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 46811537-223a-3958-b0aa-68a16e14b8a9 | -6.0841 | -37.311699 | 2025-01-05 00:14:00 | METOP-C | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | nan |
+| b316912c-af2e-3162-b4eb-0005ba01a0fc | -6.3722 | -39.858299 | 2025-01-05 00:14:00 | METOP-C | SABOEIRO | CEARÁ | Brasil | 2311900 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| d1e8688a-73ab-315f-ba91-144165c0c773 | -12.4096 | -41.479099 | 2025-01-05 00:14:00 | METOP-C | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 5d70ceb4-5a99-3e7e-b4ba-4f6a6bad7999 | -12.4178 | -41.469601 | 2025-01-05 00:14:00 | METOP-C | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| a6727b80-bde3-32a1-a34c-104abfa16b55 | -12.421 | -41.4841 | 2025-01-05 00:14:00 | METOP-C | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 5e8076be-9f3a-3c4f-8b63-8939bad1eaa5 | -6.038 | -40.465599 | 2025-01-05 00:14:00 | METOP-C | TAUÁ | CEARÁ | Brasil | 2313302 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 6644d9b8-20cd-3bd4-ab2e-1a5a44eaba66 | -6.0744 | -37.313999 | 2025-01-05 00:14:00 | METOP-C | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | nan |
+| e48313ef-5913-3a1a-b887-2cd819051381 | -11.3955 | -37.807201 | 2025-01-05 00:14:00 | METOP-C | TOMAR DO GERU | SERGIPE | Brasil | 2807501 | 28 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 29078f15-b3b0-3d29-8577-aa36f41a1063 | -7.1327 | -40.1572 | 2025-01-05 00:14:00 | METOP-C | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| fa8e6fc7-ef58-3567-96b4-3418ca6e07bb | -12.408 | -41.471802 | 2025-01-05 00:14:00 | METOP-C | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| fc70190b-8b1e-368b-be96-beb2223c67a5 | -12.3552 | -39.269798 | 2025-01-05 00:14:00 | METOP-C | IPECAETÁ | BAHIA | Brasil | 2913804 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4b7af989-48aa-38ab-8067-ff8c9a1be11d | -5.9586 | -39.6768 | 2025-01-05 00:14:00 | METOP-C | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 127bba4f-fdbf-3a62-8ba9-a4a6e8169b12 | -6.0819 | -37.302299 | 2025-01-05 00:14:00 | METOP-C | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | nan |
+| b13ef37f-7e65-3336-bc8f-04109257cdff | -8.583 | -37.750999 | 2025-01-05 00:14:00 | METOP-C | IBIMIRIM | PERNAMBUCO | Brasil | 2606606 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| 78f402de-ee25-3ceb-a847-9dc9a5fe2ed9 | -5.7034 | -39.555901 | 2025-01-05 00:14:00 | METOP-C | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| a0535255-0542-38eb-92b5-3adcff9da14b | -6.3738 | -39.865501 | 2025-01-05 00:14:00 | METOP-C | SABOEIRO | CEARÁ | Brasil | 2311900 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 5695646f-790a-3302-a4a4-c403ce64775f | -2.942 | -40.057899 | 2025-01-05 00:14:00 | METOP-C | ACARAÚ | CEARÁ | Brasil | 2300200 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 6c05a58d-9518-32f3-a051-3068bab22fe1 | -4.3298 | -39.150501 | 2025-01-05 00:14:00 | METOP-C | CANINDÉ | CEARÁ | Brasil | 2302800 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| a22e049f-03f6-3c3d-bbb3-9c26046437b6 | -9.4942 | -41.012798 | 2025-01-05 00:14:00 | METOP-C | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 06246bc6-1c1a-3e3b-994b-c9f51570f24e | -9.5097 | -40.311298 | 2025-01-05 00:14:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 3a9162ca-3d28-3132-b1b6-53c29486100a | -12.4112 | -41.486301 | 2025-01-05 00:14:00 | METOP-C | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| ed9e2906-c42d-35ee-bfb1-42f7eb2eef20 | -7.131 | -40.150101 | 2025-01-05 00:14:00 | METOP-C | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| e70a2451-da3d-398a-b228-b0d8d74f5c7a | -6.0364 | -40.458599 | 2025-01-05 00:14:00 | METOP-C | TAUÁ | CEARÁ | Brasil | 2313302 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| f51f1f71-7beb-331f-82ac-8253483feb06 | -6.0796 | -37.292801 | 2025-01-05 00:14:00 | METOP-C | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | nan |
+| 76439a35-e08f-3353-a0af-d023dc06cfb1 | -6.0785 | -37.3271 | 2025-01-05 00:20:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 49.2 |
+| 34fe3a35-13f8-36ba-838f-9e0dc8f524a9 | -6.0788 | -37.301 | 2025-01-05 00:20:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 56.6 |
+| eef87ed4-bc70-36b9-9db0-c2a4426d0bef | -10.6674 | -44.4835 | 2025-01-05 00:20:00 | GOES-16 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 58.6 |
+| 20875a82-92d1-39a2-adf2-88f4f59ab142 | -6.0788 | -37.301 | 2025-01-05 00:30:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 71.0 |
+| f700f7bc-63be-3b7d-b445-58d9648b8202 | -6.0785 | -37.3271 | 2025-01-05 00:30:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 52.4 |
+| 9f7c0a9f-7051-35ae-8157-ae93d6e1c003 | -6.0785 | -37.3271 | 2025-01-05 00:40:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 64.4 |
+| 926b3531-2786-3db3-b468-9de6ab2921c4 | -2.6435 | -45.5603 | 2025-01-05 00:40:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 65.0 |
+| f72fc52a-5baf-35d1-8ca1-73abebf2dc8b | -6.0788 | -37.301 | 2025-01-05 00:40:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 77.4 |
+| e4a0358f-3179-30eb-a097-2f87f5d7ce26 | -12.41222 | -41.48795 | 2025-01-05 00:49:00 | TERRA_M-M | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | 38.7 |
+| d9320cf5-68e6-3bfa-a96b-f22d22a29395 | -12.40024 | -41.48972 | 2025-01-05 00:49:00 | TERRA_M-M | PALMEIRAS | BAHIA | Brasil | 2923506 | 29 | 33 | nan | nan | nan | Caatinga | 10.2 |
+| ef485324-fc7a-334d-9d4d-67fe7dc2c815 | -10.21621 | -44.76425 | 2025-01-05 00:49:00 | TERRA_M-M | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 1890d246-f55c-3257-ab33-33efe112f4d6 | -9.55303 | -40.30868 | 2025-01-05 00:49:00 | TERRA_M-M | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 16.1 |
+| 1f381082-b0a2-339e-be0a-b6ca45faad81 | -6.0788 | -37.301 | 2025-01-05 00:50:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 90.0 |
+| 57c1db29-c376-3a03-868e-2013d41b5b28 | -6.0785 | -37.3271 | 2025-01-05 00:50:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 65.3 |
+| ddd8d5c9-7911-359f-9a52-595f7f48f31f | -2.63609 | -45.56365 | 2025-01-05 00:52:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 13.6 |
+| bc284b7b-e856-3427-b761-8ad74c9943ba | -2.64641 | -45.56215 | 2025-01-05 00:52:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 40.9 |
+| b49173c8-622e-3260-af4a-61b425f28ae7 | -2.64814 | -45.57442 | 2025-01-05 00:52:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| e629913c-1e2e-3f5f-ac7d-a6fff48f1bd2 | 1.3366 | -60.2929 | 2025-01-05 00:55:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 776aea4d-b11e-3f26-8567-aae202a09d8d | -21.853201 | -56.3904 | 2025-01-05 00:55:00 | METOP-B | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| f94aa546-5336-3a27-9a5c-b212aa49a5b4 | -21.8514 | -56.3815 | 2025-01-05 00:55:00 | METOP-B | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 2c6e6fdb-bc4f-3b97-8c98-d3dd8b2bcfb2 | -2.6435 | -45.5603 | 2025-01-05 01:00:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| bc3b1612-605c-3f47-bc94-6afae6409c46 | -6.0785 | -37.3271 | 2025-01-05 01:00:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 61.7 |
+| e5539a0d-f0e0-3463-85ac-f77b61883c5e | -6.0788 | -37.301 | 2025-01-05 01:00:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 102.4 |
+| 37c2643b-4fec-3ad3-b5de-844cbb332823 | -6.0598 | -37.303 | 2025-01-05 01:10:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 48.2 |
+| 87c10f06-6def-3359-9e56-b42eccbbd053 | -6.0788 | -37.301 | 2025-01-05 01:10:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 74.2 |
+| 1ee4a10b-3952-3d20-a3bb-4dd03db794e4 | -2.6435 | -45.5603 | 2025-01-05 01:10:00 | GOES-16 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 79b7854f-e337-386a-b786-73282ef7091e | -6.0785 | -37.3271 | 2025-01-05 01:10:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 57.2 |
+| 0dca0b43-6f65-3166-a020-0e9fe54c9910 | -6.0788 | -37.301 | 2025-01-05 01:20:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 85.3 |
+| e7d06e6b-2161-34f7-9570-71f900de9513 | -6.0785 | -37.3271 | 2025-01-05 01:20:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 48.2 |
+| 496a7da3-3826-3b78-89ce-857fa40f18c7 | -6.0785 | -37.3271 | 2025-01-05 01:30:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 50.5 |
+| 4a1bb782-4f4e-3a46-a690-24113e94c379 | -6.0788 | -37.301 | 2025-01-05 01:30:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 92.0 |
+| 5fd459b0-70f8-316e-acda-e05e95e15eaa | -6.0785 | -37.3271 | 2025-01-05 01:40:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 46.5 |
+| efb74dda-e674-3b58-bfa9-9bdfe6f91f62 | -6.0788 | -37.301 | 2025-01-05 01:40:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 71.9 |
+| 6711671f-d5e9-3f1c-b855-0aa294470158 | -6.0785 | -37.3271 | 2025-01-05 01:50:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 36.7 |
+| f85c7603-0d64-3eef-b94f-44cf57f2cecc | -6.0788 | -37.301 | 2025-01-05 01:50:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 50.4 |
+| e8abcf3b-5167-3670-86fd-fc45ebada397 | -9.7238 | -64.531303 | 2025-01-05 01:53:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 1256313b-83e6-3d61-ba40-36f320098989 | -9.7254 | -64.538597 | 2025-01-05 01:53:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 75a33670-e510-3a59-abc4-79dd02737528 | -6.0788 | -37.301 | 2025-01-05 02:00:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 51.4 |
+| 56d291e1-a143-367b-abcc-6035e88e3842 | -6.0788 | -37.301 | 2025-01-05 02:10:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 41.2 |
+| f3b9e111-0f7e-3ae5-a8a6-070a0c0bec0c | -6.0788 | -37.301 | 2025-01-05 02:20:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 42.5 |
+| ce5d97c8-cc9d-3951-bde4-97369bf33b97 | -6.0788 | -37.301 | 2025-01-05 02:30:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 40.8 |
+| 5d0b760d-3380-3577-9fa0-09bf118cf428 | -6.0788 | -37.301 | 2025-01-05 02:40:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 48.9 |
+| 9710148c-e4b4-3f53-9e97-579f0d83d885 | -6.0788 | -37.301 | 2025-01-05 02:50:00 | GOES-16 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 38.7 |
+| c80aea45-4cff-3738-bec0-87030408384d | -7.12421 | -40.16546 | 2025-01-05 03:23:00 | NOAA-21 | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 2f9e3e39-5dd7-3473-b8a7-e042dc46dd39 | -8.67593 | -35.37448 | 2025-01-05 03:23:00 | NOAA-21 | GAMELEIRA | PERNAMBUCO | Brasil | 2605905 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| d295f1bb-1099-3070-b776-a35b12162556 | -8.6416 | -35.77377 | 2025-01-05 03:23:00 | NOAA-21 | CATENDE | PERNAMBUCO | Brasil | 2604205 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| f05c7f5f-5682-3f72-85e3-ee12762acd13 | -7.12826 | -40.16224 | 2025-01-05 03:23:00 | NOAA-21 | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| e9460521-23e5-31e6-9837-9e80a0c5708c | -6.07545 | -37.30654 | 2025-01-05 03:23:00 | NOAA-21 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| 219e1dca-cb66-359f-a468-0888de996566 | -6.07467 | -37.31121 | 2025-01-05 03:23:00 | NOAA-21 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 17.7 |
+| d95c8b3f-d3f3-3cea-a471-75204fb606d1 | -7.12764 | -40.16583 | 2025-01-05 03:23:00 | NOAA-21 | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 0bfd2f2c-4f3d-3037-927d-dc607cb5a1d5 | -6.06707 | -35.243 | 2025-01-05 03:23:00 | NOAA-21 | SÃO JOSÉ DE MIPIBU | RIO GRANDE DO NORTE | Brasil | 2412203 | 24 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 9559f55a-5122-3003-b56f-b7078882076e | -6.83626 | -35.19505 | 2025-01-05 03:23:00 | NOAA-21 | ITAPOROROCA | PARAÍBA | Brasil | 2507101 | 25 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 709556fa-8b9f-354a-b520-0ac680b91d1d | -6.07389 | -37.31586 | 2025-01-05 03:23:00 | NOAA-21 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 17.7 |
+| 21454cc4-5ab9-3604-9960-9a1a6c880ad3 | -7.12486 | -40.1619 | 2025-01-05 03:23:00 | NOAA-21 | ARARIPE | CEARÁ | Brasil | 2301307 | 23 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| ea546a83-1333-3a5a-ab7b-ac12a96dc3ba | -9.1903 | -35.41159 | 2025-01-05 03:23:00 | NOAA-21 | PORTO DE PEDRAS | ALAGOAS | Brasil | 2707404 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| d50989ba-c0ab-3a53-a7de-6d858166acbb | -9.49536 | -36.8374 | 2025-01-05 03:23:00 | NOAA-21 | CACIMBINHAS | ALAGOAS | Brasil | 2701209 | 27 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| dea5b3e0-463a-3762-ae5e-1b998a298ed9 | -9.1895 | -35.41632 | 2025-01-05 03:23:00 | NOAA-21 | PORTO DE PEDRAS | ALAGOAS | Brasil | 2707404 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| c58cdca2-019f-3fe0-9fd6-140f86186cd5 | -8.42028 | -40.54124 | 2025-01-05 03:23:00 | NOAA-21 | DORMENTES | PERNAMBUCO | Brasil | 2605152 | 26 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| ffc83c33-31ab-3863-a5f4-238630662611 | -6.84015 | -35.19574 | 2025-01-05 03:23:00 | NOAA-21 | ITAPOROROCA | PARAÍBA | Brasil | 2507101 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| c9001e4d-aaa2-340a-b4c8-a92de5731fcb | -8.85964 | -35.34245 | 2025-01-05 03:23:00 | NOAA-21 | BARREIROS | PERNAMBUCO | Brasil | 2601409 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
