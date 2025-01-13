@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6651d673-d4e9-3d1a-91fb-a92d1c2d12af | -28.73645 | -55.84337 | 2025-01-12 03:49:00 | NOAA-20 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 2.9 |
-| a1d85b3d-2947-3620-ab9b-be5d88427fb4 | -28.73836 | -55.83665 | 2025-01-12 03:49:00 | NOAA-20 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 2.9 |
-| c6e61386-00b8-3909-b3ea-44197e20ccfe | -30.38727 | -56.17936 | 2025-01-12 03:49:00 | NOAA-20 | QUARAÍ | RIO GRANDE DO SUL | Brasil | 4315305 | 43 | 33 | nan | nan | nan | Pampa | 1.1 |
-| 4c7b2103-8e14-345f-aea2-fd1694511f62 | 0.5563 | -59.6885 | 2025-01-12 03:50:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 80.5 |
-| 16ab6426-05db-3d13-b559-7da278a05f36 | 0.5563 | -59.7076 | 2025-01-12 03:50:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 63.1 |
-| 22384705-bd14-3cf8-afe9-4ac353d0f21d | 0.5563 | -59.7076 | 2025-01-12 04:00:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 73.6 |
-| 02457ddc-068b-3fc1-8ed5-fcc82db186be | 0.5563 | -59.6885 | 2025-01-12 04:00:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 92.5 |
-| 72e955e4-921f-3ba6-911c-0c664ee57e17 | 0.5563 | -59.7076 | 2025-01-12 04:10:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 68.4 |
-| 3bc7d2db-7ced-315f-aa76-c0b3fd69c297 | 0.5563 | -59.6885 | 2025-01-12 04:10:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 81.5 |
-| 41c5b18c-2c31-3e79-ba57-5f497dd7b024 | -3.27163 | -43.51937 | 2025-01-12 04:31:00 | NOAA-21 | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 9a956000-16a6-38ca-80e7-7bdb926200e1 | -4.46857 | -44.22223 | 2025-01-12 04:31:00 | NOAA-21 | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| d5546bf4-9d7a-35d8-adaa-710eecbe8465 | -4.38496 | -42.60095 | 2025-01-12 04:31:00 | NOAA-21 | MIGUEL ALVES | PIAUÍ | Brasil | 2206209 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 87b1692d-82f7-3504-b58b-affaaff8e395 | 1.11043 | -59.46016 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 61d64449-9632-3711-b605-c9a02dfd33b3 | -3.82945 | -45.3619 | 2025-01-12 04:31:00 | NOAA-21 | SANTA INÊS | MARANHÃO | Brasil | 2109908 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7c18afd3-0e92-34b3-81cd-13ddab83f3ca | -5.45094 | -39.44687 | 2025-01-12 04:31:00 | NOAA-21 | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 15ec22f0-742e-3efd-9a48-e0dd844707a2 | -3.87221 | -54.23117 | 2025-01-12 04:31:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 56bbdcfc-eac9-3619-b660-0e2589bb7574 | -2.68955 | -42.76115 | 2025-01-12 04:31:00 | NOAA-21 | BARREIRINHAS | MARANHÃO | Brasil | 2101707 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 203ce283-973c-3537-b410-7f63d1a8e887 | 1.11807 | -59.46217 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 63c5579e-5aa9-356c-aebc-1072415634a6 | -5.44592 | -39.44615 | 2025-01-12 04:31:00 | NOAA-21 | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 1b905322-8dce-3229-b72a-4015c0a7fa66 | 0.55922 | -59.68895 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 21.9 |
-| cb0e4e7d-8478-3201-b732-ff60c8ae2fb3 | -2.6857 | -42.76057 | 2025-01-12 04:31:00 | NOAA-21 | BARREIRINHAS | MARANHÃO | Brasil | 2101707 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| f61ce474-6a5e-3ede-b4ef-461b377ebef5 | 0.66069 | -59.66019 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4bf749f0-ea81-3904-970d-8de37be306f2 | -3.44941 | -39.63718 | 2025-01-12 04:31:00 | NOAA-21 | ITAPIPOCA | CEARÁ | Brasil | 2306405 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 5eb745e1-b97d-35d9-8c81-d9ddf995f470 | 0.5613 | -59.70214 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 31.5 |
-| 3b4b07f5-4ddf-347a-9793-7d52d5cd71ef | 1.11736 | -59.45924 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| efe5a839-6c2d-3c41-af21-c32703b05667 | 0.56025 | -59.69548 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 21.9 |
-| 94cb8a07-3e2f-3a01-9c53-e65041a2df11 | 1.125 | -59.46122 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 86284071-664a-33f6-9ce3-8c0e32b2c179 | 0.55328 | -59.69648 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 21.9 |
-| b604fa89-32d2-36c3-afef-3e419e7815cb | 1.11114 | -59.46312 | 2025-01-12 04:31:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 95a985bc-7a13-364d-8478-0affce082dba | -15.07978 | -48.94641 | 2025-01-12 04:36:00 | NOAA-21 | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 4e3a6d04-6b1c-36d9-8965-4455a86516d0 | -26.08174 | -53.73267 | 2025-01-12 04:38:00 | NOAA-21 | SANTO ANTÔNIO DO SUDOESTE | PARANÁ | Brasil | 4124400 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 28ac3a03-0ec5-3c6b-90c0-268d49183d80 | -21.449 | -48.60962 | 2025-01-12 04:38:00 | NOAA-21 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| ba0b97d2-a0c0-3595-9ee0-052105ede7a0 | -21.44489 | -48.61322 | 2025-01-12 04:38:00 | NOAA-21 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 346f2ba0-dd2b-3634-ab4f-611559d3bc82 | -21.56499 | -54.19715 | 2025-01-12 04:38:00 | NOAA-21 | NOVA ALVORADA DO SUL | MATO GROSSO DO SUL | Brasil | 5006002 | 50 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| f19b6479-cc47-3737-9370-de58acc414dd | -21.44548 | -48.60903 | 2025-01-12 04:38:00 | NOAA-21 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 26140250-5ea2-3e4a-8148-561758731cbc | -23.46181 | -51.8694 | 2025-01-12 04:38:00 | NOAA-21 | SARANDI | PARANÁ | Brasil | 4126256 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 58da1295-b19e-3a1b-b797-361076040d57 | 0.5563 | -59.6885 | 2025-01-12 04:40:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 69.3 |
-| 1385ee12-88ae-3443-a155-abc36a1dbe8c | 0.5563 | -59.7076 | 2025-01-12 04:40:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 54.6 |
-| a706c02d-767b-32c4-bb4d-a193bff7021a | -29.95466 | -51.61678 | 2025-01-12 04:40:00 | NOAA-21 | CHARQUEADAS | RIO GRANDE DO SUL | Brasil | 4305355 | 43 | 33 | nan | nan | nan | Pampa | 1.0 |
-| e4b65eac-c7ac-3832-9552-c0bb90a5e016 | -30.39813 | -56.16466 | 2025-01-12 04:40:00 | NOAA-21 | QUARAÍ | RIO GRANDE DO SUL | Brasil | 4315305 | 43 | 33 | nan | nan | nan | Pampa | 0.7 |
-| c4827d39-fd58-3c7c-8d8d-be1630dee693 | -30.83722 | -55.38962 | 2025-01-12 04:40:00 | NOAA-21 | SANT'ANA DO LIVRAMENTO | RIO GRANDE DO SUL | Brasil | 4317103 | 43 | 33 | nan | nan | nan | Pampa | 1.2 |
-| ef480018-4ae3-3b2d-95d4-86a207345066 | -30.24931 | -51.58619 | 2025-01-12 04:40:00 | NOAA-21 | MARIANA PIMENTEL | RIO GRANDE DO SUL | Brasil | 4311981 | 43 | 33 | nan | nan | nan | Pampa | 1.8 |
-| d390dbb8-c090-3d2e-8165-67267f314fa7 | -30.83652 | -55.39375 | 2025-01-12 04:40:00 | NOAA-21 | SANT'ANA DO LIVRAMENTO | RIO GRANDE DO SUL | Brasil | 4317103 | 43 | 33 | nan | nan | nan | Pampa | 1.8 |
-| 20b1f6b4-4f91-37d1-975b-3a192959c4a9 | -28.41557 | -54.97913 | 2025-01-12 04:40:00 | NOAA-21 | SÃO LUIZ GONZAGA | RIO GRANDE DO SUL | Brasil | 4318903 | 43 | 33 | nan | nan | nan | Pampa | 1.1 |
-| 4273f3c8-c799-378d-85ca-6e3dc2cb22dd | -28.73931 | -55.83991 | 2025-01-12 04:40:00 | NOAA-21 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 5.7 |
-| 9d0e90fc-307a-3d2e-ad04-32e2d339dbb5 | -30.95947 | -53.07096 | 2025-01-12 04:40:00 | NOAA-21 | SANTANA DA BOA VISTA | RIO GRANDE DO SUL | Brasil | 4317004 | 43 | 33 | nan | nan | nan | Pampa | 0.7 |
-| 5963f99b-1b6c-35da-ae0d-7582f79c4cb6 | -30.15211 | -52.02586 | 2025-01-12 04:40:00 | NOAA-21 | MINAS DO LEÃO | RIO GRANDE DO SUL | Brasil | 4312252 | 43 | 33 | nan | nan | nan | Pampa | 0.4 |
-| 3f05a433-0768-3319-a630-740dbaf7363f | -28.73586 | -55.83915 | 2025-01-12 04:40:00 | NOAA-21 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
-| 051702d1-95d6-3f77-bdcf-4331aee0ca15 | -30.24871 | -51.59044 | 2025-01-12 04:40:00 | NOAA-21 | MARIANA PIMENTEL | RIO GRANDE DO SUL | Brasil | 4311981 | 43 | 33 | nan | nan | nan | Pampa | 1.8 |
-| 3ff968e0-1dd7-3af2-bdbe-3cd173907db3 | -28.73855 | -55.84419 | 2025-01-12 04:40:00 | NOAA-21 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 5.5 |
-| 0cd6962d-8ba1-347f-b3ca-c591cef8cdc2 | -29.74558 | -53.88836 | 2025-01-12 04:40:00 | NOAA-21 | SANTA MARIA | RIO GRANDE DO SUL | Brasil | 4316907 | 43 | 33 | nan | nan | nan | Pampa | 4.1 |
-| 24f177eb-91c2-3510-bbef-c73a87cb91e4 | -29.39083 | -54.75177 | 2025-01-12 04:40:00 | NOAA-21 | NOVA ESPERANÇA DO SUL | RIO GRANDE DO SUL | Brasil | 4313037 | 43 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 6af34744-5654-3149-b8b8-5a7dd91ce91d | -30.83387 | -55.38886 | 2025-01-12 04:40:00 | NOAA-21 | SANT'ANA DO LIVRAMENTO | RIO GRANDE DO SUL | Brasil | 4317103 | 43 | 33 | nan | nan | nan | Pampa | 1.2 |
-| c1864a9a-0bd0-3ee8-873b-6b968a8a4df3 | -28.74351 | -55.83638 | 2025-01-12 04:40:00 | NOAA-21 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 5.7 |
-| 8e94589c-aad2-37d4-a720-8fd61fd4962f | 0.5563 | -59.6885 | 2025-01-12 04:50:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 68.5 |
-| f0bff479-a8a4-3512-a829-c8874197ddc9 | 0.5563 | -59.7076 | 2025-01-12 04:50:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 57.6 |
-| c7289599-60c2-30c9-a492-ddacbfb65018 | 0.55946 | -59.69219 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 23.0 |
-| fa84eef4-86c5-3cad-a141-e9367c3d4c22 | 0.62059 | -60.62172 | 2025-01-12 04:55:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 46d714cd-d2fa-3351-9f78-12a7e24c70ae | 1.94003 | -60.40584 | 2025-01-12 04:55:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d56e31bc-547e-36aa-b9a5-498e0a6caa1c | 1.17282 | -60.50011 | 2025-01-12 04:55:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4cbe06c4-130e-3a62-ab5f-a2e78eeebf70 | 0.55792 | -59.68855 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 017c37d1-9c12-3f6a-9a54-f7e2e465338c | 0.56323 | -59.69253 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 20.6 |
-| 377956c8-0569-3261-bfa4-ff6813e8e91c | 0.85222 | -59.54079 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 7be94538-7514-33eb-acc4-2c2ca4c1947f | 0.66493 | -59.65981 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| acbcbd4c-5262-3010-a000-f05284117f15 | 0.56006 | -59.70271 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 16.7 |
-| 033caa53-a8f4-3be9-a4f9-442867a8cf88 | 0.56021 | -59.69688 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 23.0 |
-| 0f87e0bf-1ae2-3018-949b-969b8c01493a | 1.94085 | -60.41114 | 2025-01-12 04:55:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2336f632-9e71-3f3d-8661-de97a3949743 | 1.11394 | -59.45751 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| cd2e3e47-637b-3bfc-b2e6-723e7c4df600 | 0.61569 | -59.75718 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| de6219ce-e32f-30ce-b007-2bc9bf7624ea | 1.17366 | -60.50561 | 2025-01-12 04:55:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 854048a6-c9e7-387a-80b9-5831ba9441d7 | 1.17773 | -60.49936 | 2025-01-12 04:55:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 32857dc0-49cd-395e-8483-88bcaa1fabae | 2.17552 | -60.04279 | 2025-01-12 04:55:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 06437c9d-eeee-33bb-ba73-5dbe3e311894 | 0.66159 | -59.65818 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 184a5b19-9a4e-3de1-a7b7-c937d25f2352 | 0.56406 | -59.69147 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 9de035c1-cc94-3f73-9faa-bb07d52598bd | 1.11923 | -59.46145 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| ac18f7b5-5256-37ed-8354-f7dce9d09a9e | 0.5556 | -59.69759 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 23.0 |
-| ea8c657f-bea6-3996-89c9-6d24af713c9b | 0.66032 | -59.66051 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e0065467-6065-3b4f-bc82-ccacd89d0d56 | 1.93513 | -60.40685 | 2025-01-12 04:55:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 86209e23-3f54-3c77-b40a-2c26312086d3 | 0.62192 | -60.62093 | 2025-01-12 04:55:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 93dfc3d7-6862-3247-bdbe-9299a3978ea0 | 0.85295 | -59.54538 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5ac5f962-0c39-30ca-9b98-84cb401342db | 1.12381 | -59.46076 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8955b16f-6503-3de7-b4d0-ae9fc3984ecd | 0.55871 | -59.68751 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| dfda385f-6a31-38ba-8c52-166fa10885dc | 0.66459 | -59.67699 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 59667e9b-a4c4-3ea6-8af2-369191272847 | 1.93598 | -60.41233 | 2025-01-12 04:55:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8cc7bba9-707f-3230-9b96-112a6e7dd9bc | 0.56252 | -59.68781 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8dbd02be-c811-3f5d-8aa1-d3b49b91bfa0 | 0.91211 | -60.39038 | 2025-01-12 04:55:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 7cde2b80-7eb2-3004-a0fe-b2bafc3ea7b1 | 0.67856 | -60.62879 | 2025-01-12 04:55:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5ab676f6-bbad-3693-bb59-0fc7219dcbf6 | 0.66619 | -59.65749 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b4a2c5ff-8bb4-3e73-83c0-73440247c7be | 0.55863 | -59.69324 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 20.6 |
-| cc6e60ac-a010-35bf-9ef5-7526e0b8b497 | 0.55934 | -59.69796 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 20.6 |
-| 7b1e3938-f931-3df5-b243-707ec9e37e71 | 0.56395 | -59.69725 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 20.6 |
-| be8920a4-da44-329c-9a2e-9273472ae720 | 0.56331 | -59.68679 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 66632895-653b-3a8e-a8a4-83fd52200995 | 0.56096 | -59.70162 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 33.0 |
-| f40d4e10-ae4a-3269-a007-96ad5e1416ac | 1.10937 | -59.4582 | 2025-01-12 04:55:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 00150aad-8657-3398-a531-39a86ec3d96d | 0.68349 | -60.62804 | 2025-01-12 04:55:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 03eb4699-1f1f-324d-87fc-c0c443fb0df7 | -4.03974 | -54.78989 | 2025-01-12 04:57:00 | NPP-375D | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 40b97118-36a1-3a5e-ad74-ad305f21b5d7 | -4.04309 | -54.79042 | 2025-01-12 04:57:00 | NPP-375D | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| ca3a0994-9b10-318d-94c4-5053fb9a5640 | -1.3064 | -53.42075 | 2025-01-12 04:57:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| b8ddcb90-cb85-391c-9deb-dc1c851c741f | -15.07715 | -48.94522 | 2025-01-12 04:59:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b2b57065-b72d-3c90-ba43-3926e870faa2 | 0.5563 | -59.7076 | 2025-01-12 05:00:00 | GOES-16 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| 9800e5ed-16a2-3deb-86d2-448ffc914632 | -28.7367 | -55.6396 | 2025-01-13 02:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 138.2 |
+| a9022092-8159-3f6f-810f-349dbceb5979 | -28.7599 | -55.6114 | 2025-01-13 02:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 306.3 |
+| 215eb610-e8e0-3936-aa3f-7e537fbf452a | -28.7367 | -55.6396 | 2025-01-13 02:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 194.8 |
+| 34ee0788-59f6-3370-bc31-5f802882ac0d | -28.7585 | -55.6576 | 2025-01-13 02:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 64.0 |
+| 4e7e9d9e-8d8f-3e0e-a8f2-9fb3361402d8 | -28.7374 | -55.6165 | 2025-01-13 02:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 147.4 |
+| 93fd5c82-a581-3afc-8bcf-31b511a5bff4 | -28.7592 | -55.6345 | 2025-01-13 02:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 335.6 |
+| 8283846c-a92e-39e4-89b3-c6fa24a1fc9b | -28.7599 | -55.6114 | 2025-01-13 02:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 427.0 |
+| c7d39db6-ef32-349c-9012-5273d867f7c2 | -28.7374 | -55.6165 | 2025-01-13 02:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 104.4 |
+| 012529ec-788b-3811-a387-de59cb274e51 | -28.7367 | -55.6396 | 2025-01-13 02:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 188.1 |
+| 53f21192-3f57-35e1-bb91-0979f175d751 | -28.7585 | -55.6576 | 2025-01-13 02:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 72.5 |
+| feba3c6d-8218-3fa8-bd76-34f3cdac97a7 | -28.7592 | -55.6345 | 2025-01-13 02:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 518.1 |
+| 67987246-4009-3268-ae30-f48d1c9fb052 | -28.7592 | -55.6345 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 500.1 |
+| 97e011d6-cb4b-331b-96cf-bee5c75d2c14 | -28.7824 | -55.6063 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 111.2 |
+| a334dad6-80e7-3be3-a2ff-4b1a16dad3f0 | -28.7817 | -55.6294 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 73.3 |
+| 913d9a23-76ce-34f5-986d-82fcf760eea4 | -28.7374 | -55.6165 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 198.2 |
+| fb66047c-64cc-32fe-b8d2-d125e648bd80 | -28.736 | -55.6627 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 187.8 |
+| 60707212-9ec5-3038-aa98-6f459f5eaa65 | -28.7585 | -55.6576 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 131.6 |
+| 511c6460-2858-380f-b822-a7956f2cd811 | -28.7367 | -55.6396 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 465.4 |
+| 6e3c8d0e-5b85-3699-bccd-2b36960d6eca | -28.7599 | -55.6114 | 2025-01-13 03:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 445.3 |
+| 96683f9d-7200-3071-bb6e-5e36813559f3 | -28.74 | -55.62 | 2025-01-13 03:00:00 | MSG-03 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | nan |
+| 00324af3-bf93-3dec-ba6c-846c32456678 | -28.7367 | -55.6396 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 297.9 |
+| 46237f1d-7e72-3ef9-b378-7fa0ea6bdeb6 | -28.7605 | -55.5883 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 78.3 |
+| d24aef6d-f3d0-3647-a61b-aa8678cf8e3c | -28.7599 | -55.6114 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 568.6 |
+| 5b757f8d-35da-3507-8f36-f8127ee695f3 | -28.7592 | -55.6345 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 482.4 |
+| f3da637d-dfc4-3983-ad14-9711edb55488 | -28.7374 | -55.6165 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 185.7 |
+| e776ed72-0bda-3dab-96b2-129f286fd045 | -28.7824 | -55.6063 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 161.3 |
+| b792e3fb-b4e5-33d6-9a5b-a2d835223946 | -28.7817 | -55.6294 | 2025-01-13 03:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 100.9 |
+| 830ac06e-fd26-3237-b9bd-7ab1a2d51de1 | -3.32358 | -39.7002 | 2025-01-13 03:19:00 | NOAA-20 | ITAPIPOCA | CEARÁ | Brasil | 2306405 | 23 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 166c46b0-6604-3bbf-b500-b4cf12f4c1be | -28.7817 | -55.6294 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 83.7 |
+| 2ae69227-e07f-32bb-9b2a-05e4f9f9016c | -28.7824 | -55.6063 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 106.8 |
+| b5beb8a6-fa5d-3a22-811d-0573d2333610 | -28.7374 | -55.6165 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 108.7 |
+| aaaf8988-c2d0-3db6-8f7a-8a6f187f0c32 | -28.7605 | -55.5883 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 87.2 |
+| e2017112-eb83-37bb-b622-0aaf4369290a | -28.7367 | -55.6396 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 158.6 |
+| 638b11e3-7156-3ac9-b662-f698f0f6f02d | -28.7599 | -55.6114 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 581.3 |
+| 6751a095-78ba-384a-bb3a-89e065b87b75 | -28.7592 | -55.6345 | 2025-01-13 03:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 498.0 |
+| 40ead609-a470-30ca-ab34-4eba1fb0155e | -21.44324 | -48.61111 | 2025-01-13 03:25:00 | NOAA-20 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 0af8a0af-fdee-32ac-a35f-71980427b344 | -20.71214 | -48.63859 | 2025-01-13 03:25:00 | NOAA-20 | COLINA | SÃO PAULO | Brasil | 3512001 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 1cdee8bb-ccfa-3f49-a1b3-4d6e13391ac4 | -22.20499 | -47.70799 | 2025-01-13 03:25:00 | NOAA-20 | ANALÂNDIA | SÃO PAULO | Brasil | 3502002 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 13d8d98c-3e0c-315c-980b-aa9808ab7bc1 | -21.4414 | -48.61827 | 2025-01-13 03:25:00 | NOAA-20 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 1ee71e61-fa8a-329d-8590-f7902ad48a0a | -21.44287 | -48.61939 | 2025-01-13 03:25:00 | NOAA-20 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| c94640e4-e337-3b05-b996-b99b606153cf | -22.19847 | -47.70644 | 2025-01-13 03:25:00 | NOAA-20 | ANALÂNDIA | SÃO PAULO | Brasil | 3502002 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d40d37e9-a2d9-3c00-b286-4055a6b8ae09 | -21.44465 | -48.61225 | 2025-01-13 03:25:00 | NOAA-20 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4a5d3b38-f314-30a6-88e8-cdbfd4012f0d | -28.7367 | -55.6396 | 2025-01-13 03:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 98.1 |
+| b4e116d6-0282-3dbf-94d7-59bb1079a0eb | -28.7592 | -55.6345 | 2025-01-13 03:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 484.0 |
+| f9800cc6-bb44-3b8f-95da-31aaeda13fdb | -28.7374 | -55.6165 | 2025-01-13 03:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 67.4 |
+| 1a2a5f7f-3f2d-3fab-8a1f-2f79301c85eb | -28.7599 | -55.6114 | 2025-01-13 03:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 431.0 |
+| 33044405-50fd-3c1b-abde-09157811e9b0 | -28.7817 | -55.6294 | 2025-01-13 03:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 64.2 |
+| 74c2d8c2-6c49-355a-8a53-7cf4cb3955d2 | -28.7367 | -55.6396 | 2025-01-13 03:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 93.5 |
+| 1fccaa37-91d4-331b-8697-19ba75453099 | -28.7592 | -55.6345 | 2025-01-13 03:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 296.1 |
+| 8b758ab4-6296-3113-887c-06c4555313d8 | -28.7824 | -55.6063 | 2025-01-13 03:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 75.5 |
+| 5f0c0944-02a9-323d-9207-2833861ff4bf | -28.7605 | -55.5883 | 2025-01-13 03:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 64.0 |
+| 22c59ed3-bf44-3e20-b598-af4640a1bf7b | -28.7599 | -55.6114 | 2025-01-13 03:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 338.2 |
+| 99e8e992-8335-322a-85c4-a1ca674b958b | -28.7374 | -55.6165 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 73.2 |
+| 5b0d8290-6cd3-3861-ba75-7bbbb1838e16 | -28.7599 | -55.6114 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 368.3 |
+| cbb2c536-5b5a-373b-9ad9-937584e85ad8 | -28.7605 | -55.5883 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 68.1 |
+| bdcfd800-423e-383f-86f3-2b781a17c4da | -28.7367 | -55.6396 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 126.8 |
+| ec0b3960-ce82-39c5-ba47-8ea5218b914e | -28.7817 | -55.6294 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 108.7 |
+| 83265f6a-59fd-3041-9288-44114bac9e7c | -28.7592 | -55.6345 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 355.6 |
+| fd679a6a-0881-30da-8c60-5916b7f76649 | -28.7824 | -55.6063 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 133.0 |
+| acd0e349-2663-3894-9d92-59b7da17abdd | -28.7585 | -55.6576 | 2025-01-13 03:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 67.0 |
+| 630e2eb8-8773-3c7b-8fe4-24a53b70a439 | -28.7374 | -55.6165 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 101.9 |
+| 7258c4b6-447f-34b4-a4fa-eee23efd1fe9 | -28.7817 | -55.6294 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 92.3 |
+| b44a691e-4157-399c-9502-9b5bb32ab2f0 | -28.7599 | -55.6114 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 300.8 |
+| fa2fcd67-8361-379d-a7e5-c6349f9c6abf | -28.7592 | -55.6345 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 437.8 |
+| fef7f485-bfb3-367a-8838-2c973630bdac | -28.7824 | -55.6063 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 120.3 |
+| 228f96bb-5a61-3c91-b3ee-a915927a7abe | -28.7367 | -55.6396 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 183.9 |
+| 229d7710-6f22-33ed-a6bc-5413aed8c540 | -28.7585 | -55.6576 | 2025-01-13 04:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 70.5 |
+| 630aa5b0-89ce-36e8-adc1-a6d09bbac1f7 | -28.7374 | -55.6165 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 80.6 |
+| c802d135-d648-3b5d-8867-0a9816a06225 | -28.7817 | -55.6294 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 106.6 |
+| f4880a1b-a506-383e-889d-ead2e13d6d6c | -28.7592 | -55.6345 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 323.7 |
+| 3c626802-27f7-3c3f-9776-a3f8fbfa525c | -28.7824 | -55.6063 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 121.0 |
+| e1315b53-b0bf-32f5-9561-7ff4859d40be | -28.7599 | -55.6114 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 263.0 |
+| 3391250d-2919-396b-8e12-dab09b3fe6f2 | -28.7585 | -55.6576 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 64.9 |
+| b27f6326-35fe-313e-8977-892661bb9242 | -28.7367 | -55.6396 | 2025-01-13 04:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 134.4 |
+| f0201f2e-5a80-34d4-b77e-b035bf4b21c4 | -1.46719 | -45.71148 | 2025-01-13 04:12:00 | NOAA-21 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| ff977585-e152-3ecc-b85f-50f9a4190545 | -1.4709 | -45.71207 | 2025-01-13 04:12:00 | NOAA-21 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| 70362b75-18ee-3bcd-952a-ef68d26cc9d2 | -5.21595 | -43.30051 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7d5c886a-eea0-3799-84eb-c881142cc8f8 | -5.21541 | -43.30396 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| cacf0721-6380-319e-95ec-6145598dd28f | -2.42786 | -48.05434 | 2025-01-13 04:14:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 31b410ed-362f-3c89-8bc2-4752c2942b0b | -1.87805 | -48.71416 | 2025-01-13 04:14:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 34bb2569-3eca-354a-b090-29c8cddb0dcc | -5.21926 | -43.30101 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 5e7f1b1a-4db7-307a-9c2b-edd4fa4e6a15 | -5.21157 | -43.3069 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 0de36aa6-3cfc-3d67-b7bd-380f2764419d | -5.20881 | -43.30294 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 7cdb8967-e55c-31fd-bb2b-91c8c2facdc8 | -5.21649 | -43.29705 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d7c68558-509b-3c74-825b-7962d62999b6 | -2.42772 | -48.05453 | 2025-01-13 04:14:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8dec90ab-3e6e-38f9-a36f-abfc25b6f3a1 | -2.01534 | -52.07689 | 2025-01-13 04:14:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 9694546c-0c0b-3693-bf24-0ffddc355e18 | -5.21319 | -43.29655 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| c7e92032-b5c1-3551-b048-6c360594952d | -2.606 | -47.52885 | 2025-01-13 04:14:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f97d46c0-dc0b-3078-8b71-a1fac618b62e | -5.2055 | -43.30243 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 96b30c43-de23-3693-95f5-b10dcf6a66a2 | -5.21211 | -43.30345 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d1c6da4d-0253-37c2-b89a-4c652cc22c3d | -5.20826 | -43.30639 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| d7034bee-176e-331f-ac2f-cd328771f45c | -5.20604 | -43.29898 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| aae3e606-ddd2-3d40-a907-90d3afde6d74 | -3.28901 | -46.5903 | 2025-01-13 04:14:00 | NOAA-21 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| ee031508-207b-34a2-97f0-942fccd220f1 | -5.20935 | -43.29948 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 95b44cee-1768-36ce-aa64-c6857fcbec7f | -5.21265 | -43.3 | 2025-01-13 04:14:00 | NOAA-21 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 4c61dc7c-861f-360a-aca5-c50c50f08969 | -2.60543 | -47.53249 | 2025-01-13 04:14:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 10f43717-f0d2-3dd5-94e8-d38ba544628b | -3.50481 | -39.3097 | 2025-01-13 04:14:00 | NOAA-21 | TRAIRI | CEARÁ | Brasil | 2313500 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| af576ac7-37e6-3ad3-a975-824ce6a98828 | -15.07936 | -48.94407 | 2025-01-13 04:16:00 | NOAA-21 | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0a32c8e9-bb70-3942-aba5-e4bd00ad603a | -19.81949 | -53.83143 | 2025-01-13 04:18:00 | NOAA-21 | RIBAS DO RIO PARDO | MATO GROSSO DO SUL | Brasil | 5007109 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| ff49c85d-1aa0-3589-9e58-0fa2bdade7e4 | -21.44613 | -48.6079 | 2025-01-13 04:18:00 | NOAA-21 | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
