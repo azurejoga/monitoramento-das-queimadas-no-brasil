@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 82aa474c-325d-3cb8-bfe8-a7e75a9aac51 | -28.7824 | -55.6063 | 2025-01-14 00:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 76.8 |
-| ca3b3a5a-2f7b-3624-b5a3-ebd8414af3c2 | 2.9463 | -60.179 | 2025-01-14 00:30:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 75.0 |
-| d94e4e2e-f17f-3ac1-813a-0e4fc0c26d12 | 2.4341 | -60.6424 | 2025-01-14 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| 5766d11d-7047-3144-aaea-54514123cdf9 | 2.4341 | -60.6613 | 2025-01-14 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 40.0 |
-| 232ff95c-612f-329f-ac7e-e2fbb02a9e59 | -28.7824 | -55.6063 | 2025-01-14 00:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 75.0 |
-| 5b9810c7-296d-32be-900a-dcf90b51557d | 1.3217 | -60.4262 | 2025-01-14 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 74.2 |
-| 14b73332-1c07-3323-ae14-f137e6893b3f | 1.3034 | -60.4263 | 2025-01-14 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 99.4 |
-| b871bcfb-0aff-3cbf-a324-ebc68b885020 | 1.3221 | -60.0272 | 2025-01-14 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 55.5 |
-| 35cae7f3-d9f6-3f35-9fae-2c8f058c0537 | -28.7824 | -55.6063 | 2025-01-14 00:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 79.3 |
-| bb95e738-309c-3950-94ab-c30c177194fc | 1.3217 | -60.4262 | 2025-01-14 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 86.4 |
-| aa00e631-6756-346f-ba6b-bee2f2a4b107 | 1.3221 | -60.0272 | 2025-01-14 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 51.7 |
-| 7daf340c-f60d-3ea9-bdb3-4c68324bccdf | 2.9463 | -60.179 | 2025-01-14 00:40:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 70.2 |
-| b1e90357-6c6f-3a28-9c9d-4f607e7ccf9f | 2.4341 | -60.6424 | 2025-01-14 00:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.0 |
-| 411b7e22-21ee-3158-b2d3-ef887299fdc5 | -28.7817 | -55.6294 | 2025-01-14 00:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 67.6 |
-| 5d34a6ca-2185-32b8-ae44-585ba5bfdce6 | 1.3034 | -60.4263 | 2025-01-14 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 78.1 |
-| d4473229-4a41-3ee0-ad25-963577e5a980 | 1.3217 | -60.4262 | 2025-01-14 00:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 70.1 |
-| 162adc9b-e715-33ed-99e6-9c333655ec95 | 1.3034 | -60.4263 | 2025-01-14 00:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 84.8 |
-| 8f8f81d3-ead4-3525-99be-e85d8dfaf2c8 | 1.3221 | -60.0272 | 2025-01-14 00:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 41.4 |
-| 51b8c96e-696c-361c-8d81-94f54969d387 | 2.4341 | -60.6424 | 2025-01-14 00:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 48.8 |
-| d586a618-d8d6-3cf8-9324-3b991b4dc7ef | 2.9463 | -60.179 | 2025-01-14 00:50:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 69.3 |
-| 964ff17e-a149-3ec1-b391-5664c392323c | -28.7824 | -55.6063 | 2025-01-14 01:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 71.7 |
-| 64a3e1b6-b0f1-3843-a36d-190e6573463c | 1.3217 | -60.4262 | 2025-01-14 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.5 |
-| e74cfa84-9137-3043-8bc3-64c864c3c4fc | 1.3221 | -60.0272 | 2025-01-14 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.5 |
-| f9bcb6bc-7a22-3873-8cea-8fbcacc362ba | -28.7824 | -55.6063 | 2025-01-14 01:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 78.4 |
-| a34fef9b-2e4c-32ce-8cc4-663e8269081c | -16.1118 | -58.1666 | 2025-01-14 01:10:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 55.3 |
-| 12f60a73-21e2-307b-ae2c-16f762544d38 | 1.3034 | -60.4263 | 2025-01-14 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 83.7 |
-| e1b85b9a-0fa8-3ef0-b7ab-ccd78d3a1c4f | 2.9463 | -60.179 | 2025-01-14 01:10:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 73.2 |
-| 8fa0e4aa-c150-34b5-a7dd-20ef77bb7de6 | 2.4341 | -60.6424 | 2025-01-14 01:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.1 |
-| b24256a9-e1c4-3bec-946e-414eedffa2f8 | -16.1115 | -58.1868 | 2025-01-14 01:10:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 57.3 |
-| 00b23652-b2a5-3d11-8823-cd8bd95c4101 | -28.7817 | -55.6294 | 2025-01-14 01:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 68.4 |
-| 37ef57cf-20b2-3021-b405-91e975d01776 | 1.3217 | -60.4262 | 2025-01-14 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 76.7 |
-| 25173b8a-f955-3df6-8a88-3b3f2189892f | -28.7824 | -55.6063 | 2025-01-14 01:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 80.6 |
-| af1c88ca-6b89-34df-a3d3-6e6f2b0c2296 | 2.9463 | -60.179 | 2025-01-14 01:20:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 55.6 |
-| 9e433aed-679b-32fb-81c0-6393649f0893 | 1.3034 | -60.4263 | 2025-01-14 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 75.2 |
-| 1e5a242a-92d6-3536-af04-e1f86196af5e | -16.1115 | -58.1868 | 2025-01-14 01:20:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 62.7 |
-| 38b36a4f-c2c1-3bf2-b22f-fbcd825d83f4 | -16.1118 | -58.1666 | 2025-01-14 01:20:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 58.7 |
-| ea70859b-fef0-304d-8f09-a3f967eb9de4 | -28.7817 | -55.6294 | 2025-01-14 01:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 72.3 |
-| 1c91a330-f791-319a-8df2-06173fbfb724 | 2.4341 | -60.6424 | 2025-01-14 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 44.4 |
-| ba0acb3f-46fe-3716-94e1-217d70a6d6e2 | 1.3217 | -60.4262 | 2025-01-14 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 55.3 |
-| 40e3479e-ca5a-3d5b-b181-5bf0181a1129 | 1.3221 | -60.0272 | 2025-01-14 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 63.0 |
-| 0b686ca3-12c7-3326-8c53-9c692744b4a2 | 2.9463 | -60.179 | 2025-01-14 01:30:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 7360c96c-c459-3b60-aed5-a646f59ca249 | -28.7824 | -55.6063 | 2025-01-14 01:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 95.3 |
-| 1db3a8b6-2acd-3578-adef-520577214e43 | -28.7817 | -55.6294 | 2025-01-14 01:30:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 106.6 |
-| 2c397519-5b3d-3030-895f-b80d0a0b9059 | 1.3034 | -60.4263 | 2025-01-14 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 68.0 |
-| a4e7d605-5ce8-3367-a8dd-c894fd097539 | 1.3217 | -60.4262 | 2025-01-14 01:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 51.3 |
-| d19042ce-d6de-3b99-88a8-a47f5fefa87d | -28.7824 | -55.6063 | 2025-01-14 01:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 83.9 |
-| 15ea0d57-fbb6-3f0f-9937-3723f48b9772 | 2.9463 | -60.179 | 2025-01-14 01:40:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 64.3 |
-| e8425120-b939-3dfa-87c2-0f3d35b0ff2f | -28.7817 | -55.6294 | 2025-01-14 01:40:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 90.5 |
-| 4daa0247-6c4a-373f-b5f1-f93e6abb33c8 | 1.3034 | -60.4263 | 2025-01-14 01:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 70.9 |
-| 498383c9-1321-39cd-bc95-4026aece0dc2 | 2.4341 | -60.6424 | 2025-01-14 01:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 40.3 |
-| 9f42d8d3-0166-3b5e-bebd-f00ab504b771 | 1.3221 | -60.0272 | 2025-01-14 01:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 64.1 |
-| 83823502-0e07-3b24-bb7c-08d0e9d7f26c | -28.77827 | -55.62307 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 68.6 |
-| 1a4678fa-d09f-3575-b174-23ba7d1d1713 | -29.73528 | -53.87154 | 2025-01-14 01:49:00 | TERRA_M-M | SANTA MARIA | RIO GRANDE DO SUL | Brasil | 4316907 | 43 | 33 | nan | nan | nan | Pampa | 10.2 |
-| f2e87acb-b72a-33dc-a603-adc51466f12f | -28.78048 | -55.63619 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 14.8 |
-| 02258d6f-5817-3177-9aae-11b15e7f2b8a | -28.77606 | -55.60996 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 48.6 |
-| 36db5856-cbe4-3c04-959b-d0737550bd3c | -28.76823 | -55.62535 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 14.1 |
-| fb5bc49a-1d49-3840-9547-a5d8d7d63887 | -28.77045 | -55.63847 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 23.8 |
-| fbe7d488-4dba-3dd4-a83c-9b5343ad12bd | -28.7638 | -55.59912 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 25.0 |
-| 87181c73-ca15-38b4-afd7-090c98fd5217 | -28.77384 | -55.59679 | 2025-01-14 01:49:00 | TERRA_M-M | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 9.7 |
-| a78c1d6c-580f-3605-9870-775184694ff6 | -28.7817 | -55.6294 | 2025-01-14 01:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 102.0 |
-| 9f249e15-a844-3ef6-b375-5f1ffae671dd | 1.3217 | -60.4262 | 2025-01-14 01:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 50.5 |
-| 630e27af-7ea5-37e0-b5d4-aa47385e63a7 | 1.3221 | -60.0463 | 2025-01-14 01:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| c7143f29-46ee-3e50-87b3-722233fe60ef | 1.3221 | -60.0272 | 2025-01-14 01:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 63.0 |
-| 79223cbb-4d38-30cc-a425-a74fd635dd6b | -28.7824 | -55.6063 | 2025-01-14 01:50:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 83.7 |
-| e69f2083-973c-3cc8-b6b4-9225c4882cf6 | 1.3034 | -60.4263 | 2025-01-14 01:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 74.0 |
-| b0cb85cb-3537-3b5c-9af0-6f0016d16267 | 2.9463 | -60.179 | 2025-01-14 01:50:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| 621ee8f4-0b20-351e-80a0-bd21c4392e7f | 2.94323 | -60.16904 | 2025-01-14 01:58:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 24.1 |
-| d8d5d34f-5fc2-324d-85e3-69507b0bfabe | 1.3073 | -60.42782 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 30.7 |
-| 61b6169e-39d7-3816-8f57-4d5e221a694e | 2.4304 | -60.66411 | 2025-01-14 01:58:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 14.2 |
-| b819892a-c00f-3902-a8d8-36a9f2bac377 | 1.3194 | -60.42943 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 68.6 |
-| ed2da534-8efb-319e-b13a-b307cf914a15 | 1.31417 | -60.41773 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 58.0 |
-| 784cd90a-d11c-3c77-a463-ef70f8080f95 | 1.32332 | -60.04683 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 54.9 |
-| e9b017c1-a3ca-35ec-ab96-e693c82bda75 | 1.32589 | -60.02833 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 69.8 |
-| 8f4ac759-5491-3b36-bb86-f93809f46a3c | 2.19214 | -61.81087 | 2025-01-14 01:58:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 2bd32b4c-b400-318a-8734-2e281938e5b7 | 2.43276 | -60.64686 | 2025-01-14 01:58:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 51.3 |
-| b4a9df6a-542a-3a13-bfdd-5803326d802e | 1.31184 | -60.43498 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.5 |
-| 75982da3-b35e-3493-82a6-8684a11f8d5c | 1.32187 | -60.41219 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 11.2 |
-| c91f1819-0c1e-35e7-a68f-5ef6f29abb1c | 1.1819 | -60.492 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 32.6 |
-| f9cd0306-7ad6-3d19-9898-bd04cdd366e7 | 1.17952 | -60.50896 | 2025-01-14 01:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 15.9 |
-| 11260348-1023-3db9-9d87-fd169a3d0ba6 | 2.94063 | -60.18836 | 2025-01-14 01:58:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 53.7 |
-| 54100bb2-3c78-3f89-a5db-e9aca69db231 | 2.95333 | -60.18996 | 2025-01-14 01:58:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 14.8 |
-| 75c8b9e0-23f5-3045-a713-fb503cb9b27c | -28.7817 | -55.6294 | 2025-01-14 02:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 79.5 |
-| b15a49f6-fad8-3129-bd3c-7dfbe771f490 | 2.9463 | -60.179 | 2025-01-14 02:00:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 57.3 |
-| 7a442ce1-d33a-3975-bc86-0550d97e29d7 | 1.3221 | -60.0463 | 2025-01-14 02:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 73.0 |
-| ac21d51b-e247-38b4-8743-23819e133884 | 1.3217 | -60.4262 | 2025-01-14 02:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| 32c94a30-8809-354b-b183-5f3d764afe48 | 1.3034 | -60.4263 | 2025-01-14 02:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 59.6 |
-| bc665214-8902-34c2-93c6-588d97484c4d | -28.7824 | -55.6063 | 2025-01-14 02:00:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 74.5 |
-| 6b743e34-0410-383d-bcbc-15fe6f007418 | -16.1118 | -58.1666 | 2025-01-14 02:00:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 59.0 |
-| 33c7d2ac-7f86-37a1-a5f7-450b2a94060a | 1.3221 | -60.0272 | 2025-01-14 02:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 92.4 |
-| 289a9961-b943-35a2-b0ff-acbae5c55ecb | -16.1115 | -58.1868 | 2025-01-14 02:10:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 72.8 |
-| 69a95f19-4f5f-3267-ad51-6cbab769038b | 2.9463 | -60.179 | 2025-01-14 02:10:00 | GOES-16 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 61.7 |
-| e560c1f5-5710-3b31-945a-cae3e05916e7 | 1.3221 | -60.0272 | 2025-01-14 02:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 96.5 |
-| 2b07b8b5-90a4-342e-becd-6192fb2e9d2e | 1.3221 | -60.0463 | 2025-01-14 02:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 75.9 |
-| 61e478a5-62c5-3aad-9fd0-d9beb1ae0a89 | -16.1118 | -58.1666 | 2025-01-14 02:10:00 | GOES-16 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 84.5 |
-| 4b663e31-3ce7-3c91-a486-dbe01c2e9f8c | 1.3034 | -60.4263 | 2025-01-14 02:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 59.7 |
-| 0d2111d3-c12d-3316-994e-9077569c12c6 | -28.7817 | -55.6294 | 2025-01-14 02:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 85.9 |
-| 9a44c738-73f8-3745-9c20-4e5e319ca780 | -28.7824 | -55.6063 | 2025-01-14 02:10:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 74.5 |
-| 88ef6dc1-2982-3872-b9c3-be8056671403 | 1.3034 | -60.4263 | 2025-01-14 02:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 54.0 |
-| f709c78b-8cdc-3953-9ad1-b651a41816bf | 1.3221 | -60.0272 | 2025-01-14 02:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 122.0 |
-| 11d57505-c71f-334f-9d6b-61c593866c8d | -28.7824 | -55.6063 | 2025-01-14 02:20:00 | GOES-16 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 88.0 |
+| 2306008f-9472-3b17-b94c-167885aae139 | -1.4762 | -54.1964 | 2025-01-15 00:00:00 | GOES-16 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 62.5 |
+| f54dca27-306d-3041-a2a7-fc32b2b7c7ea | 2.0856 | -61.8168 | 2025-01-15 00:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 133.3 |
+| 3e4a7985-9865-36d0-8997-59258a09428c | 2.1039 | -61.8166 | 2025-01-15 00:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 211.0 |
+| ce87c566-68a9-3404-9d21-2b234d24ecd3 | 1.3217 | -60.4452 | 2025-01-15 00:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 110.5 |
+| 9ac07ac9-2479-3bfb-9a4f-f385f7a0151e | 2.1038 | -61.8354 | 2025-01-15 00:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 107.9 |
+| dbb2c172-af1f-3493-b5cd-61c285c3fe0f | 1.3217 | -60.4262 | 2025-01-15 00:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 95.9 |
+| fabd22c7-57bd-3c83-aee2-32b3da25b475 | 2.0857 | -61.798 | 2025-01-15 00:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 83e85fa5-8610-3d30-934f-c12511863e18 | 2.0856 | -61.8356 | 2025-01-15 00:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 76.8 |
+| a41b2d56-4b71-36ea-9fcb-836160bed6eb | 2.1039 | -61.7978 | 2025-01-15 00:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 80.8 |
+| 75367d4f-a849-3ae4-b6d4-c116d855633e | -2.5104 | -51.9258 | 2025-01-15 00:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 72.9 |
+| b5d6d0d7-1960-3f0e-b5a5-41c47a5de836 | 2.0856 | -61.8356 | 2025-01-15 00:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 65.8 |
+| 1be12e3d-e398-30e0-8e90-a3350df9fccc | 2.0856 | -61.8168 | 2025-01-15 00:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 93.3 |
+| 6f05c50c-3474-3404-8a2a-f53e5cd14cf9 | 2.1038 | -61.8354 | 2025-01-15 00:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 108.0 |
+| 181bd796-368d-387a-873c-8dc686d38d6f | 2.1039 | -61.8166 | 2025-01-15 00:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 236.8 |
+| 4f47b6e7-aff7-3fb2-99fd-2af60b858575 | -2.5104 | -51.9258 | 2025-01-15 00:10:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 64.1 |
+| 2515ed00-30f7-3ca0-8dad-e50f35e68a4b | 2.1039 | -61.7978 | 2025-01-15 00:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 89.2 |
+| ec5ff048-b27e-3e66-885d-0179c43184d2 | 2.1039 | -61.8166 | 2025-01-15 00:20:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 232.7 |
+| 3803f0e7-8d65-3970-bc7a-34d957691ac4 | 2.1039 | -61.7978 | 2025-01-15 00:20:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 68.9 |
+| b77a8e73-7483-34af-ad55-9dda1a7da448 | 2.0856 | -61.8356 | 2025-01-15 00:20:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| cea06f33-a1bf-3547-b57a-1ee8cb46a11d | -2.5104 | -51.9258 | 2025-01-15 00:20:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 69.9 |
+| f2c0f8b1-b9c5-3d84-9b08-c65fa39f3b62 | 2.1038 | -61.8354 | 2025-01-15 00:20:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 93.6 |
+| 254bba48-c90b-3ad9-ae44-70513fd75bb6 | 2.0856 | -61.8168 | 2025-01-15 00:20:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 91.8 |
+| 3d2a41da-ebe2-3d96-b475-cf2df3e4a16c | 1.3217 | -60.4262 | 2025-01-15 00:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 41.3 |
+| 79a741dc-ce6c-3250-b2a2-1f6945e297ae | 1.3217 | -60.4452 | 2025-01-15 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| 15dc5b16-4d47-3ec5-96c5-6ff2933c597c | 2.1039 | -61.8166 | 2025-01-15 00:30:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 114.0 |
+| 20692ce2-8fdf-35a8-88c7-48137a5be769 | 2.0856 | -61.8168 | 2025-01-15 00:30:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 61.4 |
+| 79886723-dba8-34b2-a1e4-3d1223c409f6 | 2.1038 | -61.8354 | 2025-01-15 00:30:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 49.0 |
+| 8ee60742-dfe6-3448-ae59-5e951c1e9e1e | 2.1039 | -61.7978 | 2025-01-15 00:40:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 59.4 |
+| ff68b62f-ef79-3d0d-9b02-d970ec0e70aa | -2.5104 | -51.9258 | 2025-01-15 00:40:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| 967f620f-55b8-3ec7-9c58-271dc2066fd9 | 2.1039 | -61.8166 | 2025-01-15 00:40:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 176.7 |
+| dea0eba0-47cc-308f-a43d-24118f0388e9 | 1.3217 | -60.4262 | 2025-01-15 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 78.4 |
+| 1ca4b1e4-4ea3-3dcc-a55f-1a30b1ad4a81 | 1.3217 | -60.4452 | 2025-01-15 00:40:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.8 |
+| 66831b1d-d9cd-3669-a598-854765d2931b | 2.1038 | -61.8354 | 2025-01-15 00:40:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 67.4 |
+| 85096c73-c7d7-3eb2-bffd-a9fd4d058da7 | 2.0856 | -61.8168 | 2025-01-15 00:40:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 8fdd15e2-4da6-3ccd-9b69-fcf103cc84e6 | -21.4554 | -48.623199 | 2025-01-15 00:47:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 618947cf-8908-3e85-a816-8e4276f2cb08 | -3.314 | -53.874599 | 2025-01-15 00:47:00 | METOP-B | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 76be1caa-4367-3d6a-b066-39e7a5af069d | -21.4534 | -48.614601 | 2025-01-15 00:47:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| abcbf002-6306-311e-8def-216be03c2f88 | 2.0945 | -61.832199 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| e6d4dc1f-33aa-3b2e-84ad-a385fbbadf9c | 1.3153 | -60.4212 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| fa2b6a42-25dd-3f1a-9ade-d61e92bb3dbb | 1.3193 | -60.4491 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| dd9bc845-7295-3335-8193-ec327e7a348b | 0.6574 | -59.599602 | 2025-01-15 00:49:00 | METOP-B | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 75cb24c6-59b4-329e-8ad1-a3c4d2636072 | 2.087 | -61.82 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 746f7123-23b0-37a3-bc59-f6711c62f6c7 | 2.2789 | -60.214199 | 2025-01-15 00:49:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| b277580c-f728-3626-b9a6-af9928748937 | 1.3114 | -60.438301 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| a353af02-c03b-3bd5-8c86-cad85535b61d | 2.277 | -60.222301 | 2025-01-15 00:49:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 741967bc-3cbe-33fd-a47e-05e7d5017f76 | 1.3095 | -60.446899 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| d48a2186-adf1-3e78-b319-c7ba1e427ddb | -2.5085 | -51.927399 | 2025-01-15 00:49:00 | METOP-B | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 54176e75-81a6-3c3a-8615-111d982dcf1a | -2.5106 | -51.9366 | 2025-01-15 00:49:00 | METOP-B | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2c70cca9-4f09-31f2-ae10-d05d7d64b575 | -2.5127 | -51.9459 | 2025-01-15 00:49:00 | METOP-B | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 3eae6cd3-034a-39f4-9af7-a0c9600f8de4 | 2.0847 | -61.830002 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 630d4c32-5780-3348-bf02-403f12d35467 | 2.0922 | -61.8423 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 66751656-7eee-3569-b816-ea1f0f2f9399 | 1.3188 | -60.043201 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 3f4a260c-5aef-3b43-8bbc-750aec058644 | 2.0968 | -61.822201 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 9ef5a90a-5fd7-30d7-bc7c-19bf3041c4de | 2.0801 | -61.850201 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| fd612acb-d375-375f-aa3f-aa11d8c2537d | 1.3207 | -60.035 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 73f4cd1b-369a-31a9-9fbe-4f01f71e72a9 | 3.2224 | -60.188099 | 2025-01-15 00:49:00 | METOP-B | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 167567aa-729c-3aa7-9c48-caac6cc2040b | 2.0991 | -61.812099 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 81f065db-07f7-3107-b06c-6f8952fdee96 | 2.0899 | -61.852402 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 333e2dcd-a873-35db-af8b-75775f90ad1d | 1.3212 | -60.440498 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| aff53eb7-5a91-349f-bcee-5d1283609c18 | 1.3403 | -60.039398 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 3644470d-18a4-3927-9d20-35aea7d309ab | 1.3421 | -60.0312 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 46f3e8e3-e36f-318a-a613-6d1da3694088 | 2.0893 | -61.809898 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| c577c8d1-e900-35b6-ba9d-622a3c4c3947 | 2.0824 | -61.840099 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| e6f8a962-d908-3d04-a8c6-2439d54785e6 | 2.2752 | -60.230499 | 2025-01-15 00:49:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| f74ee492-1fa6-31f3-82d3-a4a096bb3369 | 1.3134 | -60.429699 | 2025-01-15 00:49:00 | METOP-B | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 61f0f515-c293-3c91-ba46-aa620763c72a | 4.245 | -60.673302 | 2025-01-15 00:49:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 876a5e93-d1f1-36af-9361-90084f1bfde7 | 2.1043 | -61.8344 | 2025-01-15 00:49:00 | METOP-B | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 521eae8d-0af1-3d65-942e-899fbc8995fb | 2.1038 | -61.8354 | 2025-01-15 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 72.3 |
+| 75bb6981-adc6-3bbc-8c4a-5e24df44a25e | 2.1039 | -61.8166 | 2025-01-15 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 123.1 |
+| 64258082-d750-34bb-9614-30528007213d | 2.0856 | -61.8356 | 2025-01-15 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 51.2 |
+| ec16f4ef-3385-3dca-92ff-25b5a3152df6 | 2.1039 | -61.7978 | 2025-01-15 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 50.4 |
+| 17ffcbfd-608c-3ac0-97c5-591c2a5b15f6 | -2.5104 | -51.9258 | 2025-01-15 00:50:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 63.0 |
+| f56d9e24-cbe5-3691-bdf3-1e4d99431cef | 2.0856 | -61.8168 | 2025-01-15 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 73.5 |
+| d2f353ef-3ab5-3c1b-bca4-09b797a07d26 | -21.45196 | -48.60518 | 2025-01-15 00:52:00 | TERRA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 35.7 |
+| 67a2303b-6b6c-3ae8-a18f-ba4bf61c96d3 | -22.10526 | -49.63263 | 2025-01-15 00:52:00 | TERRA_M-M | GARÇA | SÃO PAULO | Brasil | 3516705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
+| 90793d70-24e8-3252-a948-e41fc296d751 | -21.45328 | -48.61575 | 2025-01-15 00:52:00 | TERRA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 206ddd40-04ce-34da-81f6-de997ea8dff3 | -21.44519 | -48.60139 | 2025-01-15 00:52:00 | TERRA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.7 |
+| eb4051eb-c592-3fd9-b88e-1428c5b78117 | -21.74551 | -50.82182 | 2025-01-15 00:52:00 | TERRA_M-M | PARAPUÃ | SÃO PAULO | Brasil | 3536000 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| 77973044-b0b2-3070-b2e3-897a11f81908 | -21.44655 | -48.61192 | 2025-01-15 00:52:00 | TERRA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | 27.1 |
+| b87f602e-10d9-3686-8d73-3f15bea73036 | -2.51643 | -51.91631 | 2025-01-15 00:56:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 12.5 |
+| 09a39fd9-a6b3-306f-be83-676ca1669202 | -2.50868 | -51.92686 | 2025-01-15 00:56:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 24.5 |
+| a77adf19-9445-3504-8fa9-79d994e70144 | -2.5177 | -51.92556 | 2025-01-15 00:56:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| 2eb08bf7-d470-3d2e-b4e6-5ed49d429fc3 | -2.50741 | -51.91762 | 2025-01-15 00:56:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 27.3 |
+| 3b1bf2d9-2627-33b0-a11d-8ae673e18353 | 2.28359 | -60.23409 | 2025-01-15 00:58:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 39.3 |
+| d511be79-dbf6-3e2e-bd2c-e5f3ebf8dd55 | 2.0903 | -61.81996 | 2025-01-15 00:58:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 99.6 |
+| bf85a58e-8e7a-3796-b23f-5e903da1a871 | 2.28812 | -60.2048 | 2025-01-15 00:58:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 46.7 |
+| 451e4d9f-a402-3ca6-8751-63d8441a88a1 | 1.32422 | -60.03043 | 2025-01-15 00:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 24.7 |
+| b24d3886-e1e6-30ca-acca-1dcb25a65775 | 2.10765 | -61.822 | 2025-01-15 00:58:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 80.6 |
+| b070678c-f3de-3546-9ee4-a2aa2d6efc05 | 2.28657 | -60.22953 | 2025-01-15 00:58:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 56.0 |
+| 99fb0625-7fb8-3926-a4c7-88d23a53d867 | 2.10564 | -61.81686 | 2025-01-15 00:58:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 109.4 |
+| 910df8d0-2acd-3f76-ae27-6634c6b633a8 | 2.08828 | -61.8149 | 2025-01-15 00:58:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| 061cae1a-231a-3d03-972e-09aacdf36854 | 1.32689 | -60.44092 | 2025-01-15 00:58:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| 8ed30b5e-b2fa-395b-b680-1d43541a9b8a | 2.29089 | -60.20004 | 2025-01-15 00:58:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 32.5 |
+| c0c36c8c-4e4a-356a-9a3b-71657f7d19d3 | 2.0856 | -61.8356 | 2025-01-15 01:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 52.1 |
+| 9c5cb97f-062f-3ac3-a9ba-29c00f836721 | 2.1039 | -61.8166 | 2025-01-15 01:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 100.0 |
+| 1e6cadf3-9247-3cdd-96be-cade53131074 | 1.3217 | -60.4262 | 2025-01-15 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 51.2 |
+| 1f335805-a0b1-3b44-9a61-8deb3c87cd9c | -2.5104 | -51.9258 | 2025-01-15 01:00:00 | GOES-16 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 61.7 |
+| 921f7707-043e-3066-bb89-4501b0cc8981 | 1.3217 | -60.4452 | 2025-01-15 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 56.1 |
+| 6bd9c9f5-e6ea-305a-9dd0-624792f3157c | 2.1038 | -61.8354 | 2025-01-15 01:00:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 78.7 |
+| c9f8f7b6-a10d-3a32-83a1-84cd1ff9ac7c | 2.1038 | -61.8354 | 2025-01-15 01:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 65.9 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
