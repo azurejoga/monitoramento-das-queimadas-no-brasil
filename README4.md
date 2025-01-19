@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 23c5bd41-e0e5-385b-bec8-6d8a554ff483 | -22.8594 | -53.50518 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 11.5 |
-| f899b2cd-235b-3ce5-acad-f5a97e9d9cf8 | -22.83963 | -53.47362 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 18057a61-7764-3433-97ad-68610c04dbec | -22.85376 | -53.49617 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 31e513f8-654f-3885-8ad6-05716ff770ca | -21.88677 | -56.10923 | 2025-01-18 04:50:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 327234ae-6c44-3e95-b45e-83baf5d5588c | -22.83905 | -53.47755 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| dc59ecd6-e06b-39a3-a97a-7ffafd0e1e1a | -22.85765 | -53.51694 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 32903afd-0b13-3754-93f8-a9eb8b228edf | -22.85658 | -53.50068 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 0d9008d0-95d1-3120-9a1b-4d527dd09066 | -22.856 | -53.50459 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 465faf39-b72b-3c43-9da7-66a50e0c4b99 | -21.88613 | -56.11306 | 2025-01-18 04:50:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6d73c72e-0112-3968-a45a-be1265c2fd65 | -22.85882 | -53.5091 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| 24b16cc0-7330-387b-b750-65cb80c90921 | -22.8628 | -53.50576 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 11.5 |
-| f51a0da4-1775-3d0c-a2f5-60c8da0b4fc9 | -22.85035 | -53.49559 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 8e08cc06-0bff-304f-88cc-136c01a56153 | -22.86164 | -53.51361 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| bbe3db93-68aa-386f-a86f-e75faed43994 | -22.85542 | -53.50851 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 014f5aac-b838-34b5-b48a-2462525e844c | -20.76382 | -46.76971 | 2025-01-18 04:50:00 | NPP-375D | ITAÚ DE MINAS | MINAS GERAIS | Brasil | 3133758 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| b3152943-2151-34c6-af03-cc728fcd4e94 | -22.86222 | -53.50968 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| 461c0ca0-4879-3d34-a1c4-3ea622a82280 | -21.88277 | -56.11239 | 2025-01-18 04:50:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| a9802d13-d0a1-307e-ac32-8c4aa4b02e0d | -22.86106 | -53.51752 | 2025-01-18 04:50:00 | NPP-375D | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 1714f3cc-8309-32fe-9fde-5184b57ad977 | -27.08055 | -50.50832 | 2025-01-18 04:53:00 | NPP-375D | SANTA CECÍLIA | SANTA CATARINA | Brasil | 4215505 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 0a931a4a-7ede-3a2e-ac00-e39590abc092 | -29.10692 | -55.93958 | 2025-01-18 04:53:00 | NPP-375D | MAÇAMBARÁ | RIO GRANDE DO SUL | Brasil | 4311718 | 43 | 33 | nan | nan | nan | Pampa | 1.4 |
-| 564fc3fe-a7ec-3bdb-b3a5-0ca549451c83 | -29.31955 | -56.00767 | 2025-01-18 04:53:00 | NPP-375D | ITAQUI | RIO GRANDE DO SUL | Brasil | 4310603 | 43 | 33 | nan | nan | nan | Pampa | 1.3 |
-| adc61ef8-f4c4-39d7-9989-e6c9471a16f7 | -29.31498 | -56.01503 | 2025-01-18 04:53:00 | NPP-375D | ITAQUI | RIO GRANDE DO SUL | Brasil | 4310603 | 43 | 33 | nan | nan | nan | Pampa | 1.0 |
-| d65ccb91-693b-376f-8274-338e300a21b8 | -26.46208 | -52.22988 | 2025-01-18 04:53:00 | NPP-375D | CLEVELÂNDIA | PARANÁ | Brasil | 4105706 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 02cf8b5e-6438-3a8e-9ff1-fd166a39b53d | -29.31103 | -56.01838 | 2025-01-18 04:53:00 | NPP-375D | ITAQUI | RIO GRANDE DO SUL | Brasil | 4310603 | 43 | 33 | nan | nan | nan | Pampa | 1.0 |
-| fbacdb60-e174-36e4-9c2b-587215765073 | -29.10752 | -55.93557 | 2025-01-18 04:53:00 | NPP-375D | MAÇAMBARÁ | RIO GRANDE DO SUL | Brasil | 4311718 | 43 | 33 | nan | nan | nan | Pampa | 1.4 |
-| 01744f2a-61fe-34b2-bea3-a8bd9f90874c | -27.08466 | -50.50875 | 2025-01-18 04:53:00 | NPP-375D | SANTA CECÍLIA | SANTA CATARINA | Brasil | 4215505 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 7cc20fc1-35a5-3e65-b348-3e04e5581d03 | -25.20166 | -52.78273 | 2025-01-18 04:53:00 | NPP-375D | GUARANIAÇU | PARANÁ | Brasil | 4109302 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| dcafa10d-a7a8-3180-a468-aabb2a89a8d3 | -22.8585 | -53.4947 | 2025-01-18 05:00:00 | GOES-16 | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 70.6 |
-| 56de8831-ec03-3c41-819b-7ad84db08d8a | -22.8579 | -53.5169 | 2025-01-18 05:00:00 | GOES-16 | TAQUARUSSU | MATO GROSSO DO SUL | Brasil | 5007976 | 50 | 33 | nan | nan | nan | Mata Atlântica | 65.6 |
-| 0d448cf8-7e63-360b-84af-d26fafb39b2e | 3.61895 | -60.11448 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2d924790-52c6-31bf-b075-ab87d9dd814b | 2.9429 | -60.16461 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 4bb98e0f-b36c-3968-a24a-1a5f7795648d | 4.36282 | -60.81875 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| ccfeca8e-f770-357b-9dba-7c68e4554289 | 4.91343 | -60.28422 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9c150d3a-10d5-32d6-b2ad-2caf68eb9064 | 4.91529 | -60.29645 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| acce6641-bfff-30b2-b1aa-a9a52ce79b8f | 3.28743 | -59.95882 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| f69787af-49a1-3805-a550-61e5a8865f59 | 3.67279 | -60.61889 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9a6408d7-797c-30f2-b438-e42d80151c3b | 3.11039 | -60.76682 | 2025-01-18 05:05:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a716a99e-2a93-3897-a4af-022328e0d77e | 4.12839 | -60.0145 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 688429ff-6699-3fa1-b628-ddc3f19e7f26 | 3.29139 | -59.95821 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| b5c58673-2c35-3c6f-9da8-b3ba278c3f9b | 3.61494 | -60.11512 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 6462a7e1-4161-3295-893e-4853e4cff2b3 | 3.10681 | -60.77125 | 2025-01-18 05:05:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f6eaf45b-2324-3349-aafe-88e0b1a5a816 | 3.30413 | -59.93555 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 82f83b45-3a75-3322-bd06-88ee0209ab2e | 4.81083 | -60.63396 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 52184c4e-d3ce-310e-9e0f-28a883958723 | 4.11632 | -60.84229 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 12dbcb81-57e7-311e-a285-f3014eadf4d7 | 2.37656 | -61.25797 | 2025-01-18 05:05:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 9b0c81b7-fadc-3d8a-84d2-aafcd2738d8e | 2.6274 | -61.46189 | 2025-01-18 05:05:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 681c06b4-98d6-3c1f-8b61-8ec83dba4ecc | 3.61739 | -60.104 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fdb55025-8ee9-37c4-8e32-ed688c4a5303 | 4.36706 | -60.81797 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| f4fa95c7-4d4b-30f2-acee-65d90630f5a2 | 1.87851 | -60.36323 | 2025-01-18 05:05:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| baf850a3-4b17-314d-a831-20623bb10c79 | 4.53408 | -60.68956 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 4ab6d32d-30b7-3c58-933f-5f05d613b551 | 3.67103 | -60.61843 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7f7160ff-dc64-3b57-b903-d820bba2f7a8 | 4.72114 | -60.46963 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 32c6a28a-09b5-364e-a0a7-4520fe68b6c5 | 1.88897 | -60.4828 | 2025-01-18 05:05:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1f19147e-2dc8-399a-9efb-fa526f13dc3b | 3.28028 | -59.96511 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 0bebfc4f-1460-3309-96c7-a02f8337cf65 | 3.27312 | -59.9714 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 63c27300-5aeb-3313-86d3-9681b59dbdab | 2.94689 | -60.16401 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 55adefc4-cd1a-312d-9aed-7d4ff90121da | 4.37069 | -60.81304 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| ba673cc4-c730-37a1-ba7b-3f4b69879a28 | 4.53299 | -60.68234 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| a9d20800-daea-33b6-9b95-e815758c2023 | 3.61546 | -60.11862 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 00a739fe-d3fb-332b-b0f7-2bf0e5f0402c | 2.67858 | -60.41632 | 2025-01-18 05:05:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 70fbf7ff-fe49-39fd-b343-f96ec842207f | 4.11046 | -60.01383 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 60a0ed3a-2c78-3268-a39a-b668f1bc23fa | 2.0517 | -60.00801 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5fdba5cb-2593-37d7-983a-6dad04c416e0 | 4.81503 | -60.63312 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a69c5ca4-c860-37ee-8468-f91b4027b8e2 | 4.36341 | -60.82278 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| 2a7b0027-ef3d-3821-ae32-f05c8e2a507c | 3.28347 | -59.95942 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| f880710e-0b9b-3422-b5b4-1c890e1764e1 | 1.88952 | -60.48628 | 2025-01-18 05:05:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ccf44c22-3268-3e7a-b6bf-ca39a20cab96 | 3.28424 | -59.9645 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 96b42396-918b-3445-a864-2a53d23812ff | 4.13293 | -60.01745 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 12cd6f45-62ba-338e-8530-d86f620391e7 | 1.65867 | -60.1384 | 2025-01-18 05:05:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 3a3b17de-d43f-338b-97ea-466bad4dc1e0 | 4.36765 | -60.82204 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| 592660d7-7c44-3191-bbb8-0f4e5436feda | 3.10207 | -60.7681 | 2025-01-18 05:05:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 07ea77ff-d1c1-3e1d-8e4b-9b37e4ffcdd5 | 4.29348 | -60.1205 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d5701f68-67ae-32b3-8474-541c25bb07fd | 2.37229 | -61.25859 | 2025-01-18 05:05:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 15a52655-0c73-34cb-b24c-0165bc4379cf | 4.11393 | -60.00962 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 61f99b40-486f-3dbc-bc4c-4fb3ec156ac9 | 3.10982 | -60.76303 | 2025-01-18 05:05:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 239b6cdc-d7a2-3e18-b42b-59de15264a89 | 2.68262 | -60.41569 | 2025-01-18 05:05:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 46a992a0-33c1-3c37-ba63-182c4a55cbc6 | 3.29535 | -59.95761 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 30052b23-d4e1-3069-9200-887f14165600 | 4.10994 | -60.0104 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a262fb80-da92-32ee-b52b-f1a90c77a5c8 | 4.29752 | -60.1198 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 64fe51dc-8e78-3a87-a582-938a80bebf4c | 3.26992 | -59.97708 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 8bafe462-3d51-3d06-a9a6-6cea731f61bb | 3.61791 | -60.10749 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1a6b93af-5659-305e-b7f1-acc7090703fd | 4.37128 | -60.81712 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| d80f3fc3-f46a-38a4-b7fe-3a6222e23708 | 1.65921 | -60.14143 | 2025-01-18 05:05:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 751fb491-bf9f-3827-8a61-04853144df5d | 2.61401 | -61.31353 | 2025-01-18 05:05:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 8afa1e04-9e83-3737-843a-cf8d37c2318e | 4.53353 | -60.6859 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 13c5ca2f-30e6-3fe4-861c-274d55de08de | 3.61843 | -60.11098 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 8140c65c-e824-3034-b68a-0b247242b550 | 3.27708 | -59.97079 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 400054d5-ba99-3ada-a4fb-4bd3b7de143f | 4.37187 | -60.82113 | 2025-01-18 05:05:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 580c6944-51d4-3714-8468-3a37047ca810 | 3.79994 | -59.71663 | 2025-01-18 05:05:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d1393898-57c7-3d46-9928-34acde0a45c0 | 4.91746 | -60.29661 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| e33f2904-501d-3554-961c-9d90f0882e52 | 3.27632 | -59.96572 | 2025-01-18 05:05:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 267f6254-54f5-36e6-9c40-1d56d7102656 | 4.91934 | -60.29525 | 2025-01-18 05:05:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1e30e5d6-c66f-31bc-8dbd-a9b1882f1186 | 2.60972 | -61.31419 | 2025-01-18 05:05:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c825a99a-e949-3844-aa40-515fc3cc0052 | -0.3543 | -62.7527 | 2025-01-18 05:08:00 | NOAA-20 | BARCELOS | AMAZONAS | Brasil | 1300409 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3c95ef3c-1329-3ce4-8b38-c122804b22ff | 1.11478 | -59.46201 | 2025-01-18 05:08:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 35956354-f32e-32dd-a5a6-1c089e5d3ade | 0.63545 | -60.04029 | 2025-01-18 05:08:00 | NOAA-20 | SÃO JOÃO DA BALIZA | RORAIMA | Brasil | 1400506 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c5ef8391-c84c-33e7-95b3-22442ff4c585 | 1.09965 | -59.54468 | 2025-01-18 05:08:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4ed5ce69-fbdd-3d6b-afb3-d8a3575b499b | 1.12628 | -59.4374 | 2025-01-18 05:08:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| cc23b65b-0b1f-30b1-a13e-df150733e225 | 0.46622 | -60.44277 | 2025-01-18 05:08:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6aca7f97-62a9-3b7b-bfd5-d8ce5690821b | 0.76678 | -60.10957 | 2025-01-18 05:08:00 | NOAA-20 | SÃO LUIZ | RORAIMA | Brasil | 1400605 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ef9d16e0-74bc-3e16-8458-a2005f15b9eb | 2.90289 | -60.57939 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| d3b2b6f5-b817-3316-896f-a7bd7d694985 | 4.10935 | -60.83906 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| c88c7355-65a5-368c-a918-3032eb45aadf | 1.58346 | -60.07662 | 2025-01-19 05:40:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5c75f956-8898-3f3e-b62f-d8b078d42c8a | 3.6202 | -60.09018 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9d990fcc-4b25-3fb5-b07a-395a7ae87421 | 3.28749 | -59.93764 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| f0bb7000-8700-3304-a297-6ac21b079b84 | 3.11866 | -60.74938 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| 567dd044-229e-3b25-96e0-90ab2e125087 | 4.50082 | -60.71569 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 00eda242-c442-3cfd-88d8-405e32c2d153 | 4.13199 | -59.99742 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 77a41c2e-ff16-3024-a19e-ba1d100488a6 | 4.50766 | -60.69247 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 926e2e2e-f4ba-3c94-9e96-f7a8120a9e2c | 4.5111 | -60.69199 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 2b27c75f-48a6-3dc2-b544-b70d90e51e66 | 3.11745 | -60.74171 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 223213a3-079b-30b5-8ca0-ceaa27823a71 | 4.11276 | -60.83839 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 7067746e-bf96-3c9b-98b6-276c86b110fc | 3.28389 | -59.93822 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| f9573036-0b1c-3dee-972c-43ede34b47d3 | 4.51796 | -60.69097 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 81d73bd8-8b6f-38a4-95da-c6aeceb71958 | 1.12417 | -59.40576 | 2025-01-19 05:40:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 6c151196-e93e-33ac-8520-0ec31e2240c2 | 4.1277 | -59.99554 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 711a9ca6-c170-3dfa-9d8d-6b27bd396343 | 3.27736 | -59.94352 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 94710b3a-99e1-352d-816c-2bcae5e29f47 | 3.11475 | -60.76964 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| fe2a1497-2aa3-3f70-ac46-5355d53e5eec | 3.27016 | -59.94466 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 297ebbcc-1258-38ba-bf20-fcd4e8025846 | 4.52484 | -60.68997 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| f1a4ed2e-6325-3662-8d73-3c7717b5dc4c | 1.12186 | -59.41581 | 2025-01-19 05:40:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 77110bef-4b91-3e86-8e09-a335deb0e21d | 4.53065 | -60.70449 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 0970056c-370e-3b15-af63-d6cf3b5fb188 | 2.17398 | -61.82021 | 2025-01-19 05:40:00 | NOAA-21 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 6cb4d540-22e1-3032-a5ce-6414b264fe7e | 3.42148 | -60.39289 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 56604a5c-10c2-3ce8-954b-44caf90ca1f3 | 2.90411 | -60.58725 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 0870886c-a18e-3aec-814e-b9b09d3d8e52 | 3.26723 | -59.94939 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 20593bfc-c62a-3c02-9ddd-abc8ce941775 | 3.80427 | -60.05818 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 368cd2dc-28bc-3b09-ab7e-ead58de53832 | 4.52202 | -60.69438 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a73def50-5cb2-32b1-8963-33e553bc45dc | 1.65796 | -60.38629 | 2025-01-19 05:40:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 11b85741-65c7-3800-8477-8d0b0868801a | 3.62151 | -60.09829 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 52dd1d30-78b2-3514-9550-9ca54c6d1423 | 3.11685 | -60.73786 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 79b1636e-d2f4-3533-8592-c1a4842e3ae7 | 3.1164 | -60.7576 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 64e4c5bc-c0e9-3fd5-a685-ecade8a3dcfd | 3.68773 | -60.23994 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e770e36b-653a-3ba8-a27a-138f3835e6c8 | 4.02678 | -60.49777 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ff75808e-856d-3bc4-8335-b54d48e94602 | 3.28029 | -59.93879 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| cca34dd4-073d-313d-8e79-509b7db76a81 | 3.97979 | -59.61948 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| b8e0600c-2fed-38d8-9d5c-64a59214336d | 4.10653 | -60.84343 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 03d1e789-3fa9-3cde-90b3-28951115a399 | 3.26364 | -59.94996 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| e30b3614-b543-37aa-8b5a-f2677315a93c | 2.9035 | -60.58332 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 7cb711bc-4b26-36a5-ba28-bd30f0776b7d | 4.12835 | -59.99951 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 9e39648d-f170-3bc9-9354-0b0f96e2a47a | 3.98781 | -59.62302 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| b421f40d-7884-3f05-932a-c28a46f788a1 | 4.50483 | -60.69678 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 4c418f8b-2bfc-35fd-a88d-f420e2a4cd06 | 1.1279 | -59.42926 | 2025-01-19 05:40:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 0aea061d-deb2-37d3-8e6a-a36db3fb0049 | 3.57428 | -60.71941 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 04934319-d359-3fbf-ae2b-023b13d66d8e | 3.11216 | -60.73072 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a5b10de8-147e-36fc-bd4d-e6f139f944ef | 3.11987 | -60.75705 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| dbf6b4ad-13e0-37b5-a912-9734dc545e3d | 4.50599 | -60.70407 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 49c8d25c-8b5f-3e76-93cf-d0b25f74ff82 | 3.27669 | -59.93936 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 91ab7a6c-d257-36eb-a839-37a2f0b041b2 | 3.27083 | -59.94881 | 2025-01-19 05:40:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| c62963f3-c10b-38cd-9f4c-ab3a036d69ad | 1.93655 | -60.40917 | 2025-01-19 05:40:00 | NOAA-21 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 49624c16-eea1-3bd8-b428-d927b7ebbe33 | 4.05826 | -60.51646 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| eab25ef5-c891-3b53-b9d9-149a692c1dc6 | 3.97616 | -59.62 | 2025-01-19 05:40:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| af18dbe5-1bef-38ef-80ae-22a8da8a1a16 | 4.50827 | -60.69632 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 4396c419-f3a5-3b12-8804-dbd392732224 | 3.11701 | -60.76144 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 2607abe1-3912-3650-8ec8-c6773e7e50ee | 3.11806 | -60.74554 | 2025-01-19 05:40:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| dbc980dc-d846-311d-9942-fc95bb54474f | 4.50541 | -60.70042 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 2c6c58e4-c3e1-3dba-9fa3-f619b4d4a639 | 4.50253 | -60.7044 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 02a6df02-5806-3e9a-958d-e3b58a6c7acb | 4.50137 | -60.69714 | 2025-01-19 05:40:00 | NOAA-21 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 3e1aa3bb-7e0c-3eec-855d-1cfbc22ff9a4 | -15.03595 | -57.60603 | 2025-01-19 05:44:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 0f4a1472-8d34-3b67-87fe-f5c6a21b7466 | -15.03051 | -57.60524 | 2025-01-19 05:44:00 | NOAA-21 | BARRA DO BUGRES | MATO GROSSO | Brasil | 5101704 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 78f29e41-32a8-323f-8f19-3476ddd3ae61 | 1.3586 | -60.027 | 2025-01-19 06:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| 5a5a9045-0329-39c3-b3ca-aed7ceab6021 | 3.26577 | -59.95229 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 3993c53e-6407-31e2-9f6d-fc43ffa4443b | 4.13081 | -59.99541 | 2025-01-19 06:03:00 | NPP-375D | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 83071973-2667-3c19-944b-14c8593e1d8a | 3.32977 | -59.83657 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a69d0a09-9c8b-3be9-a170-22f862697154 | 4.52442 | -60.69272 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 822b93ae-77ec-3878-b3ae-cfcd6b75d12e | 3.41946 | -60.40014 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| ce32bb07-757e-3fa8-9e1c-9265dc1bd5f4 | 4.5087 | -60.69417 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 12a0b812-4021-35be-a26b-bfb752c4fd48 | 4.50809 | -60.69057 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 495fdc9c-0a39-3a87-a057-533011c84ae7 | 4.50443 | -60.70039 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 4990f2f5-e49e-3b72-9fd2-4971dcedd7ff | 3.42498 | -60.38944 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 4840e1d3-8c91-3c59-bb8f-98eacb1a99d3 | 4.12539 | -59.99657 | 2025-01-19 06:03:00 | NPP-375D | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| fb679143-19df-3db0-a821-88cf0152f5c5 | 3.42076 | -60.39709 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fdcdc875-0f9d-3484-8709-84bbfa97c55e | 4.53625 | -60.69982 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b219f57a-d4bd-3551-874d-dc44fc0a68e8 | 3.74871 | -59.69744 | 2025-01-19 06:03:00 | NPP-375D | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6980081a-52da-381e-9166-04f1ba3784b5 | 4.5325 | -60.70914 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 1d1be2ec-86a1-367b-98a0-504e7acd035d | 3.26514 | -59.94862 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 9cc8d1a8-1826-3c53-ad28-1cf457525adc | 4.50185 | -60.7165 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| bf7f7cf5-26e5-3ba8-9796-a7cc55d1e486 | 4.53207 | -60.70656 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 6ce2f267-cf5a-33a9-9b4d-d9eeb965b9e7 | 3.41835 | -60.39335 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 86a4b894-097b-3507-9e3d-586334f91455 | 4.13138 | -59.99872 | 2025-01-19 06:03:00 | NPP-375D | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| dad18af2-10cb-3a95-ada1-b7470ebeabeb | 3.4196 | -60.39034 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 29738d28-f41f-36aa-b8de-2a106d9f3081 | 4.50397 | -60.69764 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| d3c504d6-b144-3836-8ce7-90dced36b922 | 3.27069 | -59.94768 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 7f4ff4d9-cab9-37f0-979f-8a7c9f104d29 | 3.28118 | -59.94216 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 35426aa0-9e3c-349f-90af-9200c5e8cc49 | 4.51853 | -60.68935 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| cd93a1df-c4bd-3f31-9e46-cb222bc77a02 | 4.53163 | -60.70396 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 969667d3-6583-3fb8-8546-9b8b3d8646c7 | 3.41597 | -60.40138 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b17f0c72-930f-3cdd-804a-6cb1aa837373 | 3.42317 | -60.38906 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 5d9a0875-0b2c-33a2-986b-875b7dc4d0b0 | 4.51916 | -60.69308 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 240d793b-8af3-386b-b3fc-614de08a15a3 | 3.27625 | -59.94678 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 0e8d3f9c-53e1-3edc-b460-77db9333e6c1 | 3.33201 | -59.83479 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0588eda4-a681-378c-81de-d1faddb379ce | 3.74625 | -59.69951 | 2025-01-19 06:03:00 | NPP-375D | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 9478765a-168e-3942-8f63-e7ea6fb497f5 | 3.27007 | -59.944 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 7f475c96-1ddc-37fd-bd11-0193b73b1d9c | 3.27563 | -59.94311 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 391e7014-f27f-3440-9229-b392b9113aec | 4.51394 | -60.69367 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 552dc612-8e13-3711-9536-5d5d05b1bcb6 | 4.50762 | -60.71912 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 0094e142-6cd3-35d1-8a7a-d6e11820d7bf | 4.50489 | -60.7031 | 2025-01-19 06:03:00 | NPP-375D | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 54b9c510-40e9-30ed-8a99-d811eef1021d | 3.28055 | -59.93845 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 2f4d5d35-973a-3727-939f-a373ff6237dc | 3.42018 | -60.39371 | 2025-01-19 06:03:00 | NPP-375D | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4f7cf41f-8ff7-34c7-8016-c7d6438f3265 | 3.28611 | -59.93751 | 2025-01-19 06:03:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
