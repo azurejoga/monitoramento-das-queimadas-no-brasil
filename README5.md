@@ -29,20 +29,45 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f101ce40-5197-34a7-9558-75481a2d5c3d | -7.34914 | -72.59886 | 2025-01-20 06:12:00 | NOAA-20 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2b4fedc1-87e8-3328-879f-8b624e1c6856 | -7.35128 | -72.56314 | 2025-01-20 06:12:00 | NOAA-20 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ff2af107-1f29-3890-83d7-c4ee25336c62 | -7.34849 | -72.5591 | 2025-01-20 06:12:00 | NOAA-20 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 98e3957b-e761-3e92-8313-5e6d84c97e83 | -7.35183 | -72.55962 | 2025-01-20 06:12:00 | NOAA-20 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 007dab20-f9e3-3d1b-9978-9a8a765fe174 | -7.34794 | -72.56262 | 2025-01-20 06:12:00 | NOAA-20 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 430f5cda-3e8f-3525-9dba-61ad4c0d0730 | -7.34968 | -72.59534 | 2025-01-20 06:12:00 | NOAA-20 | GUAJARÁ | AMAZONAS | Brasil | 1301654 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| fde145a0-abf1-3179-b60d-8e478f60bc6f | -17.37 | -44.92 | 2025-01-20 11:00:00 | MSG-03 | PIRAPORA | MINAS GERAIS | Brasil | 3151206 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| a3ac7ef5-9475-3e82-865b-53820baa1b7e | -8.06922 | -34.97369 | 2025-01-20 11:44:00 | TERRA_M-M | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 21.1 |
-| b17ebe18-3093-33a8-8c93-802b04eb304d | -7.77474 | -35.77082 | 2025-01-20 11:44:00 | TERRA_M-M | VERTENTE DO LÉRIO | PERNAMBUCO | Brasil | 2616183 | 26 | 33 | nan | nan | nan | Caatinga | 12.0 |
-| 57d53773-ae39-34d6-8888-0938ae7fdeb0 | -15.73 | -45.9 | 2025-01-20 12:00:00 | MSG-03 | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 5b9f0d85-27f9-3397-a129-7d8c15b7352a | -15.83 | -43.46 | 2025-01-20 12:00:00 | MSG-03 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 2a62a4f9-718a-35a5-9b7d-8d7c1b99829e | -15.73 | -45.95 | 2025-01-20 12:00:00 | MSG-03 | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 41af9a1a-8b5a-3c3f-9a91-bbd7fedcd0cf | -15.39 | -43.78 | 2025-01-20 12:00:00 | MSG-03 | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 01baae5a-fcc8-3e82-bb1c-475e504921fb | 2.8723 | -60.6171 | 2025-01-20 13:20:00 | GOES-16 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 63.5 |
-| 4f6d243c-7d84-3fed-a53a-fb00db4c051f | 2.8723 | -60.6171 | 2025-01-20 14:30:00 | GOES-16 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 74.1 |
+| b9edcf45-6593-3fb0-8288-017d962c3c56 | -12.38054 | -43.46083 | 2025-01-21 12:23:00 | TERRA_M-T | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 19eab9a7-66e3-3c6c-a73b-3ab05819542d | -13.21812 | -40.49849 | 2025-01-21 12:23:00 | TERRA_M-T | MARACÁS | BAHIA | Brasil | 2920502 | 29 | 33 | nan | nan | nan | Caatinga | 13.2 |
+| 8546346b-cead-3ffc-b448-a20ba367110a | -12.23416 | -38.80731 | 2025-01-21 12:23:00 | TERRA_M-T | CORAÇÃO DE MARIA | BAHIA | Brasil | 2908903 | 29 | 33 | nan | nan | nan | Caatinga | 18.3 |
+| 94b12858-0374-3aee-b5e5-d90aa99e6216 | -7.73277 | -37.63558 | 2025-01-21 12:23:00 | TERRA_M-T | AFOGADOS DA INGAZEIRA | PERNAMBUCO | Brasil | 2600104 | 26 | 33 | nan | nan | nan | Caatinga | 31.1 |
+| c748a604-e894-3cf3-a206-3391f130cb21 | -10.23671 | -36.8982 | 2025-01-21 12:23:00 | TERRA_M-T | CEDRO DE SÃO JOÃO | SERGIPE | Brasil | 2801603 | 28 | 33 | nan | nan | nan | Mata Atlântica | 38.2 |
+| f8589e72-4c4d-3582-b853-8d8d53ab2d75 | -7.73142 | -37.62975 | 2025-01-21 12:23:00 | TERRA_M-T | AFOGADOS DA INGAZEIRA | PERNAMBUCO | Brasil | 2600104 | 26 | 33 | nan | nan | nan | Caatinga | 62.3 |
+| b0d37567-4768-352a-9f4a-95273e04469e | -12.52057 | -44.22801 | 2025-01-21 12:23:00 | TERRA_M-T | TABOCAS DO BREJO VELHO | BAHIA | Brasil | 2930907 | 29 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 467e40ad-cb49-3f80-99bc-2a25dd10edbc | -11.13429 | -41.56524 | 2025-01-21 12:23:00 | TERRA_M-T | JOÃO DOURADO | BAHIA | Brasil | 2918357 | 29 | 33 | nan | nan | nan | Caatinga | 13.9 |
+| 77662e87-d581-3950-a5ea-5f8199ca90b8 | -12.23102 | -38.80016 | 2025-01-21 12:23:00 | TERRA_M-T | CORAÇÃO DE MARIA | BAHIA | Brasil | 2908903 | 29 | 33 | nan | nan | nan | Caatinga | 11.0 |
+| 941f918c-8fbd-3844-af29-cffd4b4b86a1 | -10.45251 | -40.33469 | 2025-01-21 12:23:00 | TERRA_M-T | CAMPO FORMOSO | BAHIA | Brasil | 2906006 | 29 | 33 | nan | nan | nan | Caatinga | 7.6 |
+| 41e4e34e-6aea-3b57-9090-2fbee97d6f28 | -17.04638 | -42.85606 | 2025-01-21 12:25:00 | TERRA_M-T | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| e8c3b7cf-c80e-3d35-83fd-42a191b717af | -16.94355 | -42.77174 | 2025-01-21 12:25:00 | TERRA_M-T | LEME DO PRADO | MINAS GERAIS | Brasil | 3138351 | 31 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 536ae58b-4aeb-3fc7-9f7e-840b97a4736c | -16.98397 | -42.78334 | 2025-01-21 12:25:00 | TERRA_M-T | LEME DO PRADO | MINAS GERAIS | Brasil | 3138351 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 466632db-8e04-3787-a24c-918d6907c80e | -14.87562 | -40.12732 | 2025-01-21 12:25:00 | TERRA_M-T | NOVA CANAÃ | BAHIA | Brasil | 2922706 | 29 | 33 | nan | nan | nan | Mata Atlântica | 18.7 |
+| d7defe05-3f5e-3bbf-b566-bb41bf320ad8 | -16.72844 | -42.70727 | 2025-01-21 12:25:00 | TERRA_M-T | CRISTÁLIA | MINAS GERAIS | Brasil | 3120300 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| c7573a01-93b5-3593-a86b-f5ce2524bb60 | -16.72994 | -42.69565 | 2025-01-21 12:25:00 | TERRA_M-T | CRISTÁLIA | MINAS GERAIS | Brasil | 3120300 | 31 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| e2d080ee-7563-30c5-8be8-45ca7fb04bd4 | -16.87629 | -42.7512 | 2025-01-21 12:25:00 | TERRA_M-T | BOTUMIRIM | MINAS GERAIS | Brasil | 3108503 | 31 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| f1212a47-8eab-3d49-82c3-9944942c1918 | -16.87776 | -42.73962 | 2025-01-21 12:25:00 | TERRA_M-T | BOTUMIRIM | MINAS GERAIS | Brasil | 3108503 | 31 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 835bfd0d-17b9-31c7-aa92-015dc4e8e2d8 | -19.87748 | -45.00474 | 2025-01-21 12:27:00 | TERRA_M-T | NOVA SERRANA | MINAS GERAIS | Brasil | 3145208 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 382f1e65-4e35-3c64-b274-1619b617951d | -21.4514 | -42.86736 | 2025-01-21 12:27:00 | TERRA_M-T | ITAMARATI DE MINAS | MINAS GERAIS | Brasil | 3132602 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
+| a1183cb7-56b6-359d-b242-8551a3e6f694 | -21.53563 | -43.01658 | 2025-01-21 12:27:00 | TERRA_M-T | SÃO JOÃO NEPOMUCENO | MINAS GERAIS | Brasil | 3162906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
+| 95c0053f-042b-3330-9247-88027b650158 | -21.46034 | -43.55213 | 2025-01-21 12:27:00 | TERRA_M-T | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
+| 094b92c3-267c-3501-9172-853b10b2c796 | -19.58788 | -42.64662 | 2025-01-21 12:27:00 | TERRA_M-T | TIMÓTEO | MINAS GERAIS | Brasil | 3168705 | 31 | 33 | nan | nan | nan | Mata Atlântica | 11.3 |
+| 9281c7d7-8b11-3572-b3df-c2a430bf9bed | -20.32855 | -41.4151 | 2025-01-21 12:27:00 | TERRA_M-T | MUNIZ FREIRE | ESPÍRITO SANTO | Brasil | 3203700 | 32 | 33 | nan | nan | nan | Mata Atlântica | 13.1 |
+| 014a913f-f2c1-391b-8ad6-ba399e809f3c | -22.42834 | -44.34334 | 2025-01-21 12:27:00 | TERRA_M-T | PORTO REAL | RIO DE JANEIRO | Brasil | 3304110 | 33 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| 46774bca-1d8d-3be8-b11b-aab0c08e55c3 | -18.86619 | -45.00467 | 2025-01-21 12:27:00 | TERRA_M-T | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 9ee621af-5040-3d35-807f-135a94cb2c8c | -22.28732 | -42.5292 | 2025-01-21 12:27:00 | TERRA_M-T | NOVA FRIBURGO | RIO DE JANEIRO | Brasil | 3303401 | 33 | 33 | nan | nan | nan | Mata Atlântica | 10.7 |
+| a3c5da6b-ba50-32bd-a2ef-3d7964fa82bd | -21.86435 | -43.00092 | 2025-01-21 12:27:00 | TERRA_M-T | MAR DE ESPANHA | MINAS GERAIS | Brasil | 3139805 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
+| 58877599-894b-359d-8031-b7ac18ebcbb6 | -23.95477 | -46.45881 | 2025-01-21 12:27:00 | TERRA_M-T | SÃO VICENTE | SÃO PAULO | Brasil | 3551009 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| 5fd68948-1c0f-3c59-a4fa-20c5d17cf131 | -19.8882 | -43.66488 | 2025-01-21 12:27:00 | TERRA_M-T | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| 862f3954-aa45-3c41-a18b-c77b63477f07 | -20.39798 | -43.41586 | 2025-01-21 12:27:00 | TERRA_M-T | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
+| c5d0f252-39de-3076-8b83-b7968c004e13 | -17.99212 | -43.42776 | 2025-01-21 12:27:00 | TERRA_M-T | SÃO GONÇALO DO RIO PRETO | MINAS GERAIS | Brasil | 3125507 | 31 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| c33b61d6-62ee-3be0-ae8b-a5fa27d82a26 | -19.3238 | -47.93898 | 2025-01-21 12:27:00 | TERRA_M-T | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 16be65a5-981d-3bba-8c88-66891be2faa0 | -17.60933 | -43.62104 | 2025-01-21 12:27:00 | TERRA_M-T | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| cc22d46f-5d94-3502-9038-9aad173ab637 | -20.60404 | -41.20798 | 2025-01-21 12:27:00 | TERRA_M-T | CASTELO | ESPÍRITO SANTO | Brasil | 3201407 | 32 | 33 | nan | nan | nan | Mata Atlântica | 12.5 |
+| f557a436-22ca-34b4-acbc-cf6f39802183 | -22.90296 | -43.73491 | 2025-01-21 12:27:00 | TERRA_M-T | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 16.0 |
+| 904d5ff6-bd04-326a-8310-78404d52d9c2 | -20.95205 | -43.79643 | 2025-01-21 12:27:00 | TERRA_M-T | CARANDAÍ | MINAS GERAIS | Brasil | 3113206 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
+| 98bf4c0c-bc89-347f-83d9-18ad4c0f02fe | -18.72854 | -42.27621 | 2025-01-21 12:27:00 | TERRA_M-T | GOVERNADOR VALADARES | MINAS GERAIS | Brasil | 3127701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 0fe5e10d-eed8-3edb-a4aa-d4569fd5bdbd | -19.89047 | -43.80014 | 2025-01-21 12:27:00 | TERRA_M-T | SABARÁ | MINAS GERAIS | Brasil | 3156700 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
+| 18d42b68-10fa-3ca6-86e5-87d279feef91 | -29.73993 | -50.01393 | 2025-01-21 12:29:00 | TERRA_M-T | CAPÃO DA CANOA | RIO GRANDE DO SUL | Brasil | 4304630 | 43 | 33 | nan | nan | nan | Pampa | 13.3 |
 
 
