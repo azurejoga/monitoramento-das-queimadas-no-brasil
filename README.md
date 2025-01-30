@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 49fb4437-83f7-33de-99f7-d33df0d18aed | -9.8379 | -36.480598 | 2025-01-29 00:18:00 | METOP-C | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| eabd6070-da4f-3275-95e4-29e99b891e59 | -8.11 | -43.126701 | 2025-01-29 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 3ba9af82-3a1f-375c-8b12-2b2c1ccf8910 | -6.3201 | -43.3633 | 2025-01-29 00:18:00 | METOP-C | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 6bb7869f-8952-3579-962f-a213cecec34c | -3.1015 | -41.867298 | 2025-01-29 00:18:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 2c5bbd80-5320-3736-bbb3-be4d5bf936a0 | -5.9758 | -35.361599 | 2025-01-29 00:18:00 | METOP-C | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | nan |
-| 928d53b4-ff4c-363d-bbf3-de7c3d36f9c8 | -6.2876 | -43.129601 | 2025-01-29 00:18:00 | METOP-C | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1674440f-bc8d-331a-b4d5-078f1c753414 | -3.5083 | -43.640499 | 2025-01-29 00:18:00 | METOP-C | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b63388df-44e8-3460-b3b6-b48876801889 | -9.5613 | -38.291401 | 2025-01-29 00:18:00 | METOP-C | PAULO AFONSO | BAHIA | Brasil | 2924009 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 19cf2a34-9e61-3d2d-8f8b-b7bcfdbfb8c4 | -3.8181 | -43.868999 | 2025-01-29 00:18:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| bd141ed7-2735-3188-80b1-725485bbefda | -3.0999 | -41.860298 | 2025-01-29 00:18:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 323bbb9b-f4eb-3be3-9e49-5d6311909dc1 | -8.1132 | -43.1408 | 2025-01-29 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 86dcb734-8a0a-3f0d-9343-4ed1e91a37bd | -6.5014 | -47.5952 | 2025-01-29 00:18:00 | METOP-C | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 34a434d0-b510-339a-96c5-0538ef41867a | -4.5108 | -38.2701 | 2025-01-29 00:18:00 | METOP-C | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| f9070dbb-f393-3d67-a55d-7cc2e51d095d | -12.1836 | -41.368198 | 2025-01-29 00:18:00 | METOP-C | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 6536d3ad-e47a-3666-bdf5-f8a2101649fa | -5.9723 | -35.347198 | 2025-01-29 00:18:00 | METOP-C | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | nan |
-| cd5f6a26-9f57-3c25-a45d-0663e0d58d8e | -6.5088 | -47.582199 | 2025-01-29 00:18:00 | METOP-C | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 030ddd2c-2451-350c-9120-221d1cf79cd4 | -2.8817 | -48.276501 | 2025-01-29 00:18:00 | METOP-C | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ac5e3b7e-e33e-3a19-b060-c45376181061 | -19.029301 | -39.882099 | 2025-01-29 00:18:00 | METOP-C | JAGUARÉ | ESPÍRITO SANTO | Brasil | 3203056 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 49a84031-427c-391f-b149-f9f2a1c7997e | -2.8841 | -48.287201 | 2025-01-29 00:18:00 | METOP-C | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 67d46622-cb60-3422-8c21-21b38c33c10a | -6.5112 | -47.593102 | 2025-01-29 00:18:00 | METOP-C | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| df6efb77-aafd-3bf0-8618-b6ec02869e4d | -3.8197 | -43.8759 | 2025-01-29 00:18:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b0288054-db09-3f88-93f6-db44faddcb6a | -3.4985 | -43.6427 | 2025-01-29 00:18:00 | METOP-C | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 421aee8b-9c63-3ddb-b8a4-79849d47917c | -9.5593 | -38.282902 | 2025-01-29 00:18:00 | METOP-C | PAULO AFONSO | BAHIA | Brasil | 2924009 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 57e2ef12-b5c4-33c1-b429-a7d192b751bc | -3.5099 | -43.6474 | 2025-01-29 00:18:00 | METOP-C | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| bcd0cc07-e3ac-3168-87f4-76d52362fa78 | -9.8353 | -36.469898 | 2025-01-29 00:18:00 | METOP-C | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3161283c-fa97-342a-8855-41e852f2fa50 | -8.1116 | -43.133701 | 2025-01-29 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 8ff62ec7-4ecf-3386-b1fc-d778da935c1c | -16.30557 | -42.05126 | 2025-01-29 00:20:00 | TERRA_M-M | RUBELITA | MINAS GERAIS | Brasil | 3156502 | 31 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
-| 44b7c40e-b774-377c-b8af-83fe00f433d6 | -17.35476 | -41.71223 | 2025-01-29 00:20:00 | TERRA_M-M | ITAIPÉ | MINAS GERAIS | Brasil | 3132305 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| 2dae57a8-e5f8-309b-8f99-1a310c1039e0 | -5.97371 | -35.3519 | 2025-01-29 00:22:00 | TERRA_M-M | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | 32.0 |
-| ee09553d-757d-38dc-ab8b-93433daa2398 | -9.84023 | -36.48666 | 2025-01-29 00:22:00 | TERRA_M-M | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 45.9 |
-| 5fc8606d-e05d-3cf0-af77-4703afed8840 | -6.32709 | -43.36619 | 2025-01-29 00:22:00 | TERRA_M-M | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 86112c51-b9a3-3a23-9dac-7f167f67b7aa | -9.56624 | -38.28566 | 2025-01-29 00:22:00 | TERRA_M-M | PAULO AFONSO | BAHIA | Brasil | 2924009 | 29 | 33 | nan | nan | nan | Caatinga | 10.4 |
-| dc3ef189-0352-3180-b0ef-aa0898feb6a4 | -8.10898 | -43.13192 | 2025-01-29 00:22:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| 0b77f9b4-7181-3284-8919-8cb7194e3417 | -9.83806 | -36.47246 | 2025-01-29 00:22:00 | TERRA_M-M | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 26.7 |
-| 0a4e08ab-a680-3d34-9995-3bbf39f08e3f | -5.97681 | -35.37222 | 2025-01-29 00:22:00 | TERRA_M-M | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | 18.4 |
-| 46f59e74-6a13-3339-98ac-fe918fce0d40 | -12.48657 | -43.79019 | 2025-01-29 00:22:00 | TERRA_M-M | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| c3593d83-d040-3c97-9b34-b4715d173507 | -12.1877 | -41.36633 | 2025-01-29 00:22:00 | TERRA_M-M | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| d69ff554-f7e7-368a-a5bb-edce289ce9cf | -3.82558 | -43.86584 | 2025-01-29 00:24:00 | TERRA_M-M | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 4649c0ab-4dc7-3380-9d02-ba01bedcef1c | -4.51808 | -38.27019 | 2025-01-29 00:24:00 | TERRA_M-M | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 12.2 |
-| 9ef9704b-5919-3eb6-b9ca-17a634ddb0fd | -3.50912 | -43.64437 | 2025-01-29 00:24:00 | TERRA_M-M | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| 38f93157-a4e0-310b-9b78-3291c4c45276 | -3.50012 | -43.64562 | 2025-01-29 00:24:00 | TERRA_M-M | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| a25417bb-3493-3d73-ba36-8cec172bf42f | -3.09827 | -41.87274 | 2025-01-29 00:24:00 | TERRA_M-M | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
-| 6292b443-7b83-3359-92e9-f3f1bbd5ee26 | -2.88541 | -48.28894 | 2025-01-29 00:24:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 18.3 |
-| e857314d-01fc-33e4-a84a-a2676fbab383 | -4.51498 | -38.2771 | 2025-01-29 00:24:00 | TERRA_M-M | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 9.6 |
-| eeba61a2-aff4-33d2-8ed7-61f8e5db493b | -5.46536 | -42.92483 | 2025-01-29 00:24:00 | TERRA_M-M | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 6.9 |
-| d596d81a-4386-34d1-b86d-0ee28c1665b0 | -3.51812 | -43.64314 | 2025-01-29 00:24:00 | TERRA_M-M | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| dadfcc27-3741-3a1a-83bd-8da0da23d412 | -6.50881 | -47.60013 | 2025-01-29 00:24:00 | TERRA_M-M | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | 33.6 |
-| afcc450a-41e7-3ccc-a592-408cf428cb7f | -6.63373 | -47.85598 | 2025-01-29 00:24:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 19.0 |
-| 3101b103-2e95-3cf9-b03d-8cd2e2005397 | -3.09703 | -41.8639 | 2025-01-29 00:24:00 | TERRA_M-M | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| 8975da8a-74af-35bf-95ce-efbd8223fcf8 | -3.82689 | -43.87522 | 2025-01-29 00:24:00 | TERRA_M-M | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 22.6 |
-| e4e439f5-58c6-39c3-99a3-61f1d9190a31 | -20.9053 | -56.527699 | 2025-01-29 00:58:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| a0377938-1ae2-331b-aa36-159121d43a15 | -9.2608 | -60.302502 | 2025-01-29 00:58:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c28c7661-6747-3d32-ae01-7a62cad27b1a | -15.8025 | -58.509602 | 2025-01-29 00:58:00 | METOP-B | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| de87adcd-e9ef-3991-a002-7d9bfab005e6 | -15.8008 | -58.501801 | 2025-01-29 00:58:00 | METOP-B | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7f3d1150-4bb6-3499-8b64-8fa3ddc5997c | -9.8695 | -36.4591 | 2025-01-29 01:00:00 | GOES-16 | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 94.5 |
-| 2733f2cb-5424-39c8-ac03-ecd48cca25ab | -9.87 | -36.4321 | 2025-01-29 01:00:00 | GOES-16 | JUNQUEIRO | ALAGOAS | Brasil | 2704005 | 27 | 33 | nan | nan | nan | Mata Atlântica | 76.0 |
-| f133fe89-ff87-372d-9a40-353b78d749f4 | -11.25543 | -60.79638 | 2025-01-29 02:00:00 | TERRA_M-M | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| d0764584-bf41-3220-9c22-31e3577685d6 | -6.9532 | -43.5384 | 2025-01-29 02:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| 9cf6a5a9-cd67-3c9f-87f6-a38f4709f021 | -6.9532 | -43.5384 | 2025-01-29 03:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 68.0 |
-| 65b75991-4534-3377-858d-51720a285a17 | -6.9344 | -43.5401 | 2025-01-29 03:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 55.5 |
-| 208596e6-955e-3433-ab75-89bce5311685 | -6.9344 | -43.5401 | 2025-01-29 03:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| de78526a-915b-3590-8106-85eaf428fca1 | -6.9532 | -43.5384 | 2025-01-29 03:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 71.9 |
-| 3373858c-2ed1-320a-9969-51e1ecece745 | -3.09993 | -41.86656 | 2025-01-29 03:19:00 | NOAA-20 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 5933143f-9832-3a75-9265-dc7523004bf2 | -2.92675 | -39.94017 | 2025-01-29 03:19:00 | NOAA-20 | ITAREMA | CEARÁ | Brasil | 2306553 | 23 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| 45c11d2f-5927-323b-a48a-d69c607e39bc | -3.41532 | -43.16375 | 2025-01-29 03:19:00 | NOAA-20 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 9a86c152-9b2a-3d8d-949a-436270647c35 | -3.41418 | -43.17031 | 2025-01-29 03:19:00 | NOAA-20 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 68df4ed1-6ae6-32e1-bb88-eae374493892 | -3.09898 | -41.87206 | 2025-01-29 03:19:00 | NOAA-20 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 807759ff-00f9-3b51-b963-6d61fb6d4b4d | -2.9274 | -39.93618 | 2025-01-29 03:19:00 | NOAA-20 | ITAREMA | CEARÁ | Brasil | 2306553 | 23 | 33 | nan | nan | nan | Caatinga | 3.6 |
-| 34bf5037-bdf5-39ed-b666-1898b2625892 | -8.11057 | -43.13889 | 2025-01-29 03:21:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 087f1dac-a23b-3e3d-9711-7574b7ce58b2 | -8.11701 | -43.14014 | 2025-01-29 03:21:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| ae122d63-6e9e-3cca-a726-7e6b4a5edac4 | -5.29854 | -35.99037 | 2025-01-29 03:21:00 | NOAA-20 | PARAZINHO | RIO GRANDE DO NORTE | Brasil | 2408805 | 24 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| f3af35a9-3c87-3008-8d20-d523d9fa1995 | -9.56093 | -38.28787 | 2025-01-29 03:21:00 | NOAA-20 | PAULO AFONSO | BAHIA | Brasil | 2924009 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| d7e7e54d-a35a-3975-ab8c-496efce14862 | -8.11598 | -43.14558 | 2025-01-29 03:21:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 14a81a77-dea8-3ba0-ae3c-5ebc6ccb7128 | -8.1116 | -43.13348 | 2025-01-29 03:21:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 7cbecffc-1457-3d01-bd7e-95faaa1e4996 | -9.56005 | -38.29282 | 2025-01-29 03:21:00 | NOAA-20 | PAULO AFONSO | BAHIA | Brasil | 2924009 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| a1be587b-14fb-3381-9d18-aa4824c94394 | -16.87596 | -39.25972 | 2025-01-29 03:23:00 | NOAA-20 | PORTO SEGURO | BAHIA | Brasil | 2925303 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| e357aabd-71a7-3dd2-9fe8-18ddbe17ea9d | -13.98108 | -41.82764 | 2025-01-29 03:23:00 | NOAA-20 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 06c35075-98ca-3d42-b582-820c7f1d2bf2 | -13.4103 | -41.34047 | 2025-01-29 03:23:00 | NOAA-20 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| db9b3d54-861f-37bc-980d-d4526e1c3285 | -13.40958 | -41.3441 | 2025-01-29 03:23:00 | NOAA-20 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 4.3 |
-| a92abdb2-d891-3d75-ba02-66f086b9af2d | -6.9344 | -43.5401 | 2025-01-29 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| cd98297c-f425-3f8a-9c5b-bdbd712d2e37 | -6.9532 | -43.5384 | 2025-01-29 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 77.7 |
-| f74288ba-8101-3a3c-9915-a3493ce43023 | -6.9344 | -43.5401 | 2025-01-29 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| 402cb928-62a0-3c04-ab5d-d8603c5027b9 | -17.9194 | -40.0833 | 2025-01-29 03:40:00 | GOES-16 | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 108.5 |
-| cd37ed98-7491-3ff1-91e1-b91ca790e2c8 | -6.9532 | -43.5384 | 2025-01-29 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 74.3 |
-| 4712fc71-aeef-3c89-8f5f-4175e491a51f | -6.9346 | -43.5168 | 2025-01-29 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 57.8 |
-| 7f1fa6f6-6283-3aea-9582-fda739498eaa | -6.9344 | -43.5401 | 2025-01-29 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 77.2 |
-| cc58b7b7-912c-3a85-890a-a2510ba7a28d | -6.9535 | -43.515 | 2025-01-29 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 58.2 |
-| 8a1f3e3f-0895-36db-99b0-fcfa97f86a5b | -6.9532 | -43.5384 | 2025-01-29 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 76.0 |
-| ea68c2c5-d4ac-30df-98e8-30db59241b1c | -6.9535 | -43.515 | 2025-01-29 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 60.3 |
-| 51facdd8-c46f-3ff8-92cc-c7fd9423e119 | -6.9346 | -43.5168 | 2025-01-29 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 60.9 |
-| 0ef03170-7e03-3697-9670-e96b35cfe9f3 | -6.9532 | -43.5384 | 2025-01-29 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 98.9 |
-| 6b787b72-8692-30ba-826e-c6d5608cb2c4 | -6.9344 | -43.5401 | 2025-01-29 04:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 82.7 |
-| 06d30681-769a-31df-9cd7-5a0e09d2a1d4 | -6.9535 | -43.515 | 2025-01-29 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 55.2 |
-| d3e81962-a284-3451-b531-d089cc420145 | -6.9346 | -43.5168 | 2025-01-29 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 61.1 |
-| 250a4610-eb50-367e-adae-a7a40696370b | -6.9344 | -43.5401 | 2025-01-29 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 73.9 |
-| 0448b4dd-5548-30b0-b3ec-5a909006e76a | -6.9532 | -43.5384 | 2025-01-29 04:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 74.3 |
-| 77d36a6e-4bb7-333f-af88-f5a67e659dbc | -3.6112 | -47.31137 | 2025-01-29 04:12:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 939b5457-1143-3591-8865-a360cd728099 | -3.44498 | -42.90279 | 2025-01-29 04:12:00 | NOAA-21 | MILAGRES DO MARANHÃO | MARANHÃO | Brasil | 2106672 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3b63193a-cae6-3175-9eae-3b6d107ab0b7 | -2.93025 | -39.93441 | 2025-01-29 04:12:00 | NOAA-21 | ITAREMA | CEARÁ | Brasil | 2306553 | 23 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| 8ffd1848-af53-39c0-b5e3-ab99403374da | -3.45936 | -43.35331 | 2025-01-29 04:12:00 | NOAA-21 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 769978b8-ad9f-3a99-a5dc-19d3685d56dd | -3.328 | -54.9205 | 2025-01-30 00:00:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 62.4 |
+| ff27fd27-6c8e-33c9-9f8d-55fcb59bb5e6 | -3.328 | -54.9006 | 2025-01-30 00:00:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 59e5c714-e658-353c-8d7d-bcb07c844039 | -3.328 | -54.9205 | 2025-01-30 00:10:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| 7057cc4d-6251-33f1-a93b-3eba3c44a151 | -3.328 | -54.9006 | 2025-01-30 00:20:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 64.1 |
+| 3f42c1e8-0642-3d86-b78f-304d338e7664 | -3.328 | -54.9205 | 2025-01-30 00:30:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| 8dceea4a-0407-31cd-a08d-0d7a8cb3ee13 | -17.8018 | -39.9865 | 2025-01-30 00:40:00 | GOES-16 | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 72.2 |
+| 5e084104-40dc-39c1-bc65-a336332aadeb | -3.328 | -54.9006 | 2025-01-30 00:40:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 64.9 |
+| 71a0c2e9-3be3-3345-afda-e10f3c662141 | -3.328 | -54.9205 | 2025-01-30 00:40:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 64.2 |
+| 94c3406d-cdf1-33b2-8fb9-d3ac13f561f2 | -17.7815 | -39.9921 | 2025-01-30 00:40:00 | GOES-16 | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 88.3 |
+| 1ca58b5e-125c-3da6-a77c-ef2787f937da | -6.9192 | -43.494099 | 2025-01-30 00:40:00 | METOP-B | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 6dcfe9d7-aaa5-3f81-ac45-1a14114f4ec2 | -3.3219 | -54.893501 | 2025-01-30 00:40:00 | METOP-B | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 00a465be-6a21-327c-a6c4-7105a8499d70 | -3.3137 | -54.902699 | 2025-01-30 00:40:00 | METOP-B | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| faf6f274-c748-3702-aa4d-2ede401bc4c3 | -17.775299 | -39.979 | 2025-01-30 00:40:00 | METOP-B | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 38507c9e-6c19-3f27-9f87-10657bc6ea68 | -20.283199 | -50.952702 | 2025-01-30 00:40:00 | METOP-B | SANTA FÉ DO SUL | SÃO PAULO | Brasil | 3546603 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 0720aa84-61e2-3621-bdc9-576444239c32 | -3.325 | -54.9076 | 2025-01-30 00:40:00 | METOP-B | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2dbd7287-f232-3edb-9ee0-a1176cde87a1 | -3.3266 | -54.9146 | 2025-01-30 00:40:00 | METOP-B | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cb4eef3a-7086-39a1-821e-f4dc84957bca | -20.286301 | -50.967602 | 2025-01-30 00:40:00 | METOP-B | SANTA FÉ DO SUL | SÃO PAULO | Brasil | 3546603 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4ac61d04-6eb9-3fb7-b796-23085bb8abfe | -3.3235 | -54.9006 | 2025-01-30 00:40:00 | METOP-B | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b4d38d00-b0a2-381a-ae7b-0a455eb0ccad | -11.2518 | -44.477501 | 2025-01-30 00:40:00 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 770e3a2e-c5fa-3a20-aa00-a098021088e6 | -20.2847 | -50.960098 | 2025-01-30 00:40:00 | METOP-B | SANTA FÉ DO SUL | SÃO PAULO | Brasil | 3546603 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d7b03d4c-0bd3-380c-bfab-e8cbd31222bc | -17.8026 | -39.9603 | 2025-01-30 00:50:00 | GOES-16 | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 57.6 |
+| 778eee75-495f-3b21-aeaf-3959a3a06c5e | -17.8018 | -39.9865 | 2025-01-30 00:50:00 | GOES-16 | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 166.2 |
+| e1d70838-cd76-3bb8-acf4-65c73a1353e0 | -17.7815 | -39.9921 | 2025-01-30 00:50:00 | GOES-16 | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 123.8 |
+| 4148bbcf-144a-3928-a475-45083a3e859f | -3.328 | -54.9205 | 2025-01-30 01:00:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 61.4 |
+| 70abce8d-232c-37ff-a608-4311725772bc | -6.9346 | -43.5168 | 2025-01-30 01:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 79.5 |
+| 0469d833-4f65-34ee-a43b-e8a6bb535469 | -6.9349 | -43.4934 | 2025-01-30 01:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 63.5 |
+| d65bb75d-d275-3287-8414-5ff9f59b92eb | -6.93563 | -43.50748 | 2025-01-30 01:02:00 | TERRA_M-M | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 54.0 |
+| ef43546d-2201-3bbd-8fb8-29afd3e360b9 | -6.93531 | -43.51411 | 2025-01-30 01:02:00 | TERRA_M-M | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 58.9 |
+| c0becad5-6da9-3731-9922-419dbff7af0b | -3.32184 | -54.92278 | 2025-01-30 01:04:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| 99c60c71-38cb-37ee-afbf-93267cd65890 | -3.32551 | -54.91648 | 2025-01-30 01:04:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 29.8 |
+| cf384dd2-7991-3d12-b5d2-418a405bb4d3 | -3.3269 | -54.92685 | 2025-01-30 01:04:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 16.9 |
+| 28f34249-32b7-39f9-8689-b51b3a243e00 | -3.3204 | -54.91248 | 2025-01-30 01:04:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 45.5 |
+| 9d755bcf-42b2-34f0-ba34-e0e1a9b13a1d | -3.32413 | -54.90619 | 2025-01-30 01:04:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 51.5 |
+| 54bbf627-f2bf-30b2-ae87-d61fa46fe77f | -3.31897 | -54.90223 | 2025-01-30 01:04:00 | TERRA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| 9c34fdd5-985e-3f0d-a29f-928f29ebeb7f | -3.328 | -54.9205 | 2025-01-30 01:10:00 | GOES-16 | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 64.3 |
+| 9552e06b-13af-3081-84fe-d32bd1f7394a | -6.9346 | -43.5168 | 2025-01-30 01:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 69.3 |
+| 195a0b2b-6aea-38d8-9dba-6da0d612df44 | -6.9349 | -43.4934 | 2025-01-30 01:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 84.6 |
+| 1fa6accc-6aea-3626-8658-a0c184c1a299 | -6.9346 | -43.5168 | 2025-01-30 01:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 94.5 |
+| e035c779-adbb-3e7d-aaa9-ca49daebf0b7 | -6.9349 | -43.4934 | 2025-01-30 01:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 82.9 |
+| d8bdeaab-929a-326f-baa3-4b62db981b70 | -6.9346 | -43.5168 | 2025-01-30 01:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 92.2 |
+| 36e73e3e-b29d-3807-87ed-921a2d4f31e9 | 2.625 | -61.456902 | 2025-01-30 01:36:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 59f1bccd-6a41-3da8-b86b-35f1b2ba33d0 | -3.3176 | -54.892399 | 2025-01-30 01:36:00 | METOP-C | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e5a4de9e-4153-3ff3-a18f-0f97c48f4742 | -3.3217 | -54.909801 | 2025-01-30 01:36:00 | METOP-C | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| af5702b4-c479-3783-98c9-de8b93442a0b | -6.9537 | -43.4917 | 2025-01-30 01:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 66.9 |
+| 3d7b83d3-5936-3e3a-af43-64e05bd66c91 | -6.9349 | -43.4934 | 2025-01-30 01:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 91.1 |
+| c192a2b4-e559-30ca-898c-df5ae492a443 | -6.9346 | -43.5168 | 2025-01-30 01:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 83.5 |
+| e2fdeb91-f724-32c3-9a2e-31049dd74c1a | -6.9535 | -43.515 | 2025-01-30 01:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| e4fdd4f2-57f8-36b6-a633-a6d43900f756 | -6.9346 | -43.5168 | 2025-01-30 01:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 107.5 |
+| 66d1c228-035d-3d17-bf59-e9d7929ddc11 | -6.9349 | -43.4934 | 2025-01-30 01:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 105.3 |
+| 0cb85d95-dc62-31fb-8a8e-49a9566977c5 | -6.9537 | -43.4917 | 2025-01-30 01:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 75.4 |
+| cd98b9b0-388d-34b0-9ca8-0fd9ac5ad9e1 | -6.9535 | -43.515 | 2025-01-30 02:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 80.9 |
+| ea37c156-1573-39ee-84d2-99c19b5c5f60 | -6.9537 | -43.4917 | 2025-01-30 02:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 79.9 |
+| 6beacd26-b33f-39a5-8e51-e02acb359739 | -6.9349 | -43.4934 | 2025-01-30 02:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 122.9 |
+| 9cfd84b6-0816-354b-a2a9-aec2b1991b89 | -6.9346 | -43.5168 | 2025-01-30 02:00:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 130.7 |
+| 2d2da1e3-7e6b-3639-987d-a729911ad82b | -6.9346 | -43.5168 | 2025-01-30 02:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 90.3 |
+| e8696fb3-9b08-31b1-a079-95829e1ea924 | -6.9349 | -43.4934 | 2025-01-30 02:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 90.6 |
+| ad5976dd-84b6-30d4-bbd8-e6ce062879b8 | -6.9349 | -43.4934 | 2025-01-30 02:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 103.5 |
+| 2814b6e5-bc0a-3efa-8730-4ad12713d88a | -6.9346 | -43.5168 | 2025-01-30 02:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 94.4 |
+| 7922b6c7-f51b-3774-ad28-4dde046e92a7 | -6.9346 | -43.5168 | 2025-01-30 02:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 113.4 |
+| 66b8d53d-2679-3cc7-aebd-509ef37c1674 | -6.9349 | -43.4934 | 2025-01-30 02:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| 5062f400-23bc-344a-afbc-2b5b26131400 | -6.9346 | -43.5168 | 2025-01-30 02:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 78.1 |
+| 223419ab-aae4-3484-86b9-e4d37d1d95b4 | -6.9349 | -43.4934 | 2025-01-30 02:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 80.1 |
+| ba70e30a-d94c-3e59-b027-6436aed788e2 | -5.52097 | -37.48603 | 2025-01-30 03:02:00 | NOAA-20 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 5d209986-dfaf-3053-8b13-896a0924ca7f | -5.52002 | -37.49122 | 2025-01-30 03:02:00 | NOAA-20 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| c1b14897-2fb5-3208-92ac-fd55b25b4e2a | -17.87762 | -40.12064 | 2025-01-30 03:06:00 | NOAA-20 | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 18fd602d-0b3f-3c22-bfa3-b2c0ad283d5f | -17.87659 | -40.12534 | 2025-01-30 03:06:00 | NOAA-20 | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
+| b508646b-1bdd-3a62-92bd-a0dd0cf698b2 | -6.9346 | -43.5168 | 2025-01-30 03:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 87.5 |
+| 080de393-3257-3c8e-a39c-6f88ba4cbf9e | -6.9349 | -43.4934 | 2025-01-30 03:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 91.3 |
+| 4f67f124-5203-3c8f-9d9b-449fb89ae03c | -6.9346 | -43.5168 | 2025-01-30 03:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 90.5 |
+| 8d2f03bd-0e0a-31f4-8c61-91d7b495f94c | -6.9349 | -43.4934 | 2025-01-30 03:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| 0eb2fcdb-e83e-3ff1-99ca-dd84144baf88 | -6.9349 | -43.4934 | 2025-01-30 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 190.3 |
+| aa2d881a-91d1-340f-ad72-c54008c3a7bc | -6.9346 | -43.5168 | 2025-01-30 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 171.2 |
+| efad8203-b309-35dd-823b-e8a3e8ba8713 | -6.9535 | -43.515 | 2025-01-30 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| bd6bd226-5d87-359e-b489-596f1c524076 | -6.9537 | -43.4917 | 2025-01-30 03:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 74.8 |
+| 7b71255d-d10f-3c43-9605-de5f897f67b4 | -6.9537 | -43.4917 | 2025-01-30 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 132.4 |
+| b1e1463f-7447-3874-907e-34453fab7f86 | -6.9158 | -43.5185 | 2025-01-30 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| f7bc21f8-fc8e-370c-af92-b7c8946e53cf | -6.9346 | -43.5168 | 2025-01-30 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 151.2 |
+| 5f748622-56d6-38d0-a5a2-2c39f3d95776 | -6.9535 | -43.515 | 2025-01-30 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 95.6 |
+| b6579ffd-0957-3bde-98ed-3248946f60d5 | -6.9349 | -43.4934 | 2025-01-30 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 186.0 |
+| 7c44a58e-3c49-3915-bb5c-a9474b64738f | -6.9161 | -43.4952 | 2025-01-30 03:40:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 66.2 |
+| c4c5101f-37d9-3652-a2c6-0da69b4ba970 | -6.9346 | -43.5168 | 2025-01-30 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 93.5 |
+| 2b6fcf95-4739-3c01-8643-8242af6b8ed1 | -6.9537 | -43.4917 | 2025-01-30 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 67.0 |
+| ad0bff93-a108-338e-9e55-692b0311252f | -6.9349 | -43.4934 | 2025-01-30 03:50:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 112.7 |
+| 32b6f11c-07bb-3ab3-9a5a-323fa17562c0 | -6.92976 | -43.504 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 5f5b8c77-59da-3d9c-9cb8-2968e22bf808 | -6.93259 | -43.51188 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| fd5bc0b9-142c-3798-9a2c-f9755c1aac62 | -5.17456 | -39.74975 | 2025-01-30 03:53:00 | NOAA-21 | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 66b4f8da-ceb0-3c7e-81e4-97d0a0083466 | -5.0178 | -41.86727 | 2025-01-30 03:53:00 | NOAA-21 | SIGEFREDO PACHECO | PIAUÍ | Brasil | 2210656 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| b2448084-4ee9-39ed-a6ed-4c148fd86e88 | -5.01909 | -39.71385 | 2025-01-30 03:53:00 | NOAA-21 | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 07c94fc7-4e49-3da2-890e-915aa0be8f0e | -5.25242 | -40.40402 | 2025-01-30 03:53:00 | NOAA-21 | INDEPENDÊNCIA | CEARÁ | Brasil | 2305605 | 23 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 45b9bae6-1020-3217-a557-f933d5735a7d | -5.0185 | -39.71751 | 2025-01-30 03:53:00 | NOAA-21 | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 0e487649-a9fe-3b1c-abdb-dbc4179de295 | -6.9356 | -43.49408 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 8e359e20-f889-37b4-85cf-6ff69d4c358e | -6.94249 | -43.50248 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 37.5 |
+| 9e965838-4443-3908-b677-0c27ad212e91 | -6.9338 | -43.50472 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| b85ed631-a5c2-3f7f-b030-0121067d3fbd | -6.94773 | -43.49604 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| ad2c87cf-e539-34d8-a376-07c366ba266d | -6.9344 | -43.50116 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 79c539b5-2474-3dc6-a806-97832ed76853 | -6.44486 | -40.00221 | 2025-01-30 03:53:00 | NOAA-21 | SABOEIRO | CEARÁ | Brasil | 2311900 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| dd510007-971c-3f2d-a8cf-0a39144cb3fe | -6.93844 | -43.50185 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 37.5 |
+| 4b677cd4-6279-39b2-a096-060b12b5006b | -6.93619 | -43.49057 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 33c43bac-ae45-3fbe-afa7-de8ff377b2f4 | -6.46392 | -35.24149 | 2025-01-30 03:53:00 | NOAA-21 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 60211d45-7aee-3c90-9aed-f2e55748cd9e | -6.9332 | -43.5083 | 2025-01-30 03:53:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 11.6 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
