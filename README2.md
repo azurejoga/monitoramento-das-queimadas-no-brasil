@@ -29,84 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ec47ddf2-280a-33eb-b8f2-d8b3e46b1aa5 | -17.55445 | -46.5447 | 2025-02-17 04:08:00 | NOAA-20 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f9af283f-a11d-3667-9eb5-afbcc0857cd3 | -18.51962 | -39.93095 | 2025-02-17 04:08:00 | NOAA-20 | CONCEIÇÃO DA BARRA | ESPÍRITO SANTO | Brasil | 3201605 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| ec9f00de-fd54-368e-815c-1bc60ba4c1dd | -21.12159 | -47.81522 | 2025-02-17 04:10:00 | NOAA-20 | RIBEIRÃO PRETO | SÃO PAULO | Brasil | 3543402 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a3ef1d35-0696-3bc3-9708-a80519720945 | -21.19605 | -44.93711 | 2025-02-17 04:10:00 | NOAA-20 | IJACI | MINAS GERAIS | Brasil | 3130408 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| e7e03944-4d7b-398f-8d9e-8466c9419e3f | -22.7871 | -43.75737 | 2025-02-17 04:10:00 | NOAA-20 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 8b6cbdff-92ec-368d-9705-30822029c912 | -21.30137 | -48.63029 | 2025-02-17 04:10:00 | NOAA-20 | CÂNDIDO RODRIGUES | SÃO PAULO | Brasil | 3510104 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 6f4febdd-0b2c-3028-8ffc-31132c2dbbcf | -22.85766 | -43.87305 | 2025-02-17 04:10:00 | NOAA-20 | ITAGUAÍ | RIO DE JANEIRO | Brasil | 3302007 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| d448213d-04d3-3618-a82f-07a87f19b9fd | -20.32093 | -41.68707 | 2025-02-17 04:10:00 | NOAA-20 | IRUPI | ESPÍRITO SANTO | Brasil | 3202652 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 450fc9b7-a08f-3d49-b05e-24c68a811066 | -22.90569 | -43.52219 | 2025-02-17 04:10:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| f6a4455c-8f15-335a-a0e8-f808b537368c | -20.37946 | -45.41355 | 2025-02-17 04:10:00 | NOAA-20 | FORMIGA | MINAS GERAIS | Brasil | 3126109 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 8ad94f9f-4a47-318e-8eaa-0b9d1ac534c0 | -21.30217 | -48.6258 | 2025-02-17 04:10:00 | NOAA-20 | CÂNDIDO RODRIGUES | SÃO PAULO | Brasil | 3510104 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 691d7f94-886a-3d09-bc38-a51ec5cff9b9 | -20.76237 | -46.76946 | 2025-02-17 04:10:00 | NOAA-20 | ITAÚ DE MINAS | MINAS GERAIS | Brasil | 3133758 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| ddf69cd3-cbd8-303e-afda-b594555b9857 | -20.31736 | -41.68645 | 2025-02-17 04:10:00 | NOAA-20 | IRUPI | ESPÍRITO SANTO | Brasil | 3202652 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 16a4831d-e9e5-3d03-b8a0-579d0e9c160e | -23.40397 | -46.55578 | 2025-02-17 04:10:00 | NOAA-20 | GUARULHOS | SÃO PAULO | Brasil | 3518800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 625ddd4c-bf80-3a0e-8f45-92156068646f | -22.67686 | -42.85447 | 2025-02-17 04:10:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 91eb4f9c-8775-39d0-a7fc-bd071406624c | -20.33615 | -46.7758 | 2025-02-17 04:10:00 | NOAA-20 | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| a895b15b-267e-3984-ab70-843271be75a8 | -23.98187 | -48.91642 | 2025-02-17 04:10:00 | NOAA-20 | ITAPEVA | SÃO PAULO | Brasil | 3522406 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 4c8b4d8d-05c9-367e-9774-8b46696ca81e | -22.67627 | -42.85862 | 2025-02-17 04:10:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| d88a90ad-4903-3df2-ad02-7b8ec1b3b1bd | -19.74117 | -40.11776 | 2025-02-17 04:10:00 | NOAA-20 | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| c6d3dc95-ab73-3b88-b3ec-e57b17e5a2a5 | -23.98543 | -48.91717 | 2025-02-17 04:10:00 | NOAA-20 | ITAPEVA | SÃO PAULO | Brasil | 3522406 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 8658de55-e8bf-399d-9a14-d17ee3c820bb | -20.32152 | -41.68275 | 2025-02-17 04:10:00 | NOAA-20 | IBATIBA | ESPÍRITO SANTO | Brasil | 3202454 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
-| 762e73ea-395b-3c35-8700-2e2a7352d2fe | -22.85768 | -42.97954 | 2025-02-17 04:10:00 | NOAA-20 | SÃO GONÇALO | RIO DE JANEIRO | Brasil | 3304904 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| c9021627-a345-3776-bee1-c4b89ebe17ee | -20.41805 | -43.5519 | 2025-02-17 04:10:00 | NOAA-20 | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.9 |
-| 0e5a14ff-6f0e-3b29-9e7f-8217d20ce273 | -21.18009 | -43.98157 | 2025-02-17 04:10:00 | NOAA-20 | BARROSO | MINAS GERAIS | Brasil | 3105905 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| ee14445e-be76-3747-b91f-309748d0b6e7 | -20.34021 | -46.77258 | 2025-02-17 04:10:00 | NOAA-20 | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0f37e3b1-15f3-3a6c-8c92-380f4b088f08 | -22.54025 | -48.81457 | 2025-02-17 04:10:00 | NOAA-20 | MACATUBA | SÃO PAULO | Brasil | 3528007 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 9b2b58bf-f18f-3cf5-9f15-b6272a4dd562 | -20.31138 | -45.58403 | 2025-02-17 04:10:00 | NOAA-20 | ARCOS | MINAS GERAIS | Brasil | 3104205 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6dbabfac-0919-3d3b-9622-0cffa09377c1 | -23.33745 | -46.77162 | 2025-02-17 04:10:00 | NOAA-20 | CAIEIRAS | SÃO PAULO | Brasil | 3509007 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| acf025e0-f428-3016-8e75-60a48f6699a6 | -22.90626 | -43.51823 | 2025-02-17 04:10:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 36b7d175-d789-350e-b3f5-ae1059b28621 | -25.1923 | -49.32764 | 2025-02-17 04:10:00 | NOAA-20 | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 4fc8f73e-7be0-3e43-bba9-c9734ce0369a | -20.98133 | -43.03396 | 2025-02-17 04:10:00 | NOAA-20 | DIVINÉSIA | MINAS GERAIS | Brasil | 3121902 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| c0ab47da-479c-3422-9c30-c4398e427931 | -22.90283 | -43.51778 | 2025-02-17 04:10:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 16e41eae-1777-3641-a1dc-363136d93b61 | -20.89964 | -43.81968 | 2025-02-17 04:10:00 | NOAA-20 | CARANDAÍ | MINAS GERAIS | Brasil | 3113206 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| ab316319-e241-3a1f-a775-c46497fd9a32 | -20.98475 | -43.03453 | 2025-02-17 04:10:00 | NOAA-20 | DIVINÉSIA | MINAS GERAIS | Brasil | 3121902 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| f13dfcb0-e45f-327e-88e3-1694dea46a2e | -23.70903 | -46.89717 | 2025-02-17 04:10:00 | NOAA-20 | ITAPECERICA DA SERRA | SÃO PAULO | Brasil | 3522208 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| c743228a-1379-39f3-aa4c-00502a638e0f | -8.12603 | -43.1432 | 2025-02-17 04:57:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 474d4217-8e16-3421-8aaf-8f75a114bd3f | -9.12891 | -61.469 | 2025-02-17 04:57:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 24d15d08-6b49-31f1-89eb-6f7c1be30c1e | -9.12522 | -61.46383 | 2025-02-17 04:57:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| bce38f47-9308-301e-8597-bc850f9bb9f0 | -8.12726 | -43.13328 | 2025-02-17 04:57:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 4b88281e-1bbe-3511-84e5-fbfcac38b405 | -8.12664 | -43.13829 | 2025-02-17 04:57:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 9c04ca07-1220-3d64-8ba2-5ae92afd364d | -9.12968 | -61.46457 | 2025-02-17 04:57:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| ff619c02-17e6-3cbc-8913-d9ea8162eb70 | -12.32199 | -52.48424 | 2025-02-17 04:59:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 73e2d578-547e-376d-94a8-a6d53f94f5e4 | -17.55681 | -46.54361 | 2025-02-17 04:59:00 | NOAA-21 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 10e9d75d-a268-306e-991b-3f1e22947406 | -16.2881 | -46.2718 | 2025-02-17 04:59:00 | NOAA-21 | URUANA DE MINAS | MINAS GERAIS | Brasil | 3170479 | 31 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| b2268927-f91d-3b5d-98d8-1879018ed505 | -15.56084 | -59.44908 | 2025-02-17 04:59:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8ca4a94a-e5ba-3069-bae9-5b767a06129a | -25.19333 | -49.32722 | 2025-02-17 05:01:00 | NOAA-21 | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 90d3ee8d-4be1-3b68-a7d2-1f170398607f | -25.1988 | -49.32434 | 2025-02-17 05:01:00 | NOAA-21 | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 6b0ea973-241f-301c-8abf-8164116a22f6 | -21.30487 | -48.63003 | 2025-02-17 05:01:00 | NOAA-21 | CÂNDIDO RODRIGUES | SÃO PAULO | Brasil | 3510104 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 18349626-80a1-3893-85be-f5580da4589e | -24.24454 | -50.73795 | 2025-02-17 05:01:00 | NOAA-21 | ORTIGUEIRA | PARANÁ | Brasil | 4117305 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 779401cc-5357-330c-ae6e-632a739adeb3 | -21.30521 | -48.62671 | 2025-02-17 05:01:00 | NOAA-21 | CÂNDIDO RODRIGUES | SÃO PAULO | Brasil | 3510104 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 91f31921-ab3c-3b69-ae1f-2e156c8a8517 | -19.022 | -57.62224 | 2025-02-17 05:01:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 63166444-5fa5-38a2-9b9f-cb46ed97cd26 | -9.12968 | -61.46607 | 2025-02-17 05:22:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 3f771ce8-0a14-3539-85da-ef204673b934 | -9.91963 | -59.91208 | 2025-02-17 05:22:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 8363c08c-7501-35c2-9ea7-1714d4b1f5a1 | -9.12636 | -61.46553 | 2025-02-17 05:22:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| a115799b-f036-3ea9-aca3-618053cf2227 | 2.91533 | -60.42461 | 2025-02-17 05:22:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| da4b8449-baa5-307a-ad70-5fda05fb45e9 | 2.91591 | -60.4283 | 2025-02-17 05:22:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 6003e312-2a55-3053-ae3a-43fd0092e847 | -9.12639 | -61.46669 | 2025-02-17 05:48:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 01da1814-631e-3844-9cca-cf7e45044fd8 | -13.99852 | -53.94281 | 2025-02-17 06:03:00 | AQUA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 9040d20c-f7ca-3ea1-a493-5dd071dfc11a | -7.11189 | -39.44877 | 2025-02-17 12:14:00 | TERRA_M-T | CRATO | CEARÁ | Brasil | 2304202 | 23 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| dbcaa81f-1a88-3558-848a-1cc149d2e4c7 | -7.3612 | -40.57984 | 2025-02-17 12:14:00 | TERRA_M-T | CALDEIRÃO GRANDE DO PIAUÍ | PIAUÍ | Brasil | 2202091 | 22 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| d3eaf462-5560-39bc-99dc-84797c14ef88 | -9.21964 | -40.00503 | 2025-02-17 12:14:00 | TERRA_M-T | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 23.0 |
-| ac3cd8e1-8a55-34e1-8331-54a1b8fe1f61 | -18.13827 | -42.04026 | 2025-02-17 12:16:00 | TERRA_M-T | FRANCISCÓPOLIS | MINAS GERAIS | Brasil | 3126752 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| 9896eb41-d8ef-3981-8a93-3771fcf5399c | -11.58774 | -44.87012 | 2025-02-17 12:16:00 | TERRA_M-T | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 3295bb8f-fde6-3d29-9e2e-9a321797ca5b | -13.30178 | -39.87475 | 2025-02-17 12:16:00 | TERRA_M-T | SANTA INÊS | BAHIA | Brasil | 2927903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
-| a99c074e-48a9-3e6d-a87a-84413963856f | -11.92005 | -43.11979 | 2025-02-17 12:16:00 | TERRA_M-T | MORPARÁ | BAHIA | Brasil | 2921609 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
-| 2769c6b9-e3ca-3baf-af86-c61e87ea7199 | -18.13685 | -42.05087 | 2025-02-17 12:16:00 | TERRA_M-T | FRANCISCÓPOLIS | MINAS GERAIS | Brasil | 3126752 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| bb340d17-0118-3c53-88fc-f5cebbd61cb6 | -15.05058 | -45.16485 | 2025-02-17 12:16:00 | TERRA_M-T | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| f3fcb3d0-bfbb-3b94-b367-5457b2cdcbd0 | -18.79784 | -40.0353 | 2025-02-17 12:16:00 | TERRA_M-T | SÃO MATEUS | ESPÍRITO SANTO | Brasil | 3204906 | 32 | 33 | nan | nan | nan | Mata Atlântica | 11.2 |
-| 55598234-4387-3fe0-9a8c-79403f3a305e | -14.30694 | -43.18787 | 2025-02-17 12:16:00 | TERRA_M-T | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| 133470dd-6041-367f-8a0d-fa2b40ab7400 | -16.34534 | -45.0218 | 2025-02-17 12:16:00 | TERRA_M-T | ICARAÍ DE MINAS | MINAS GERAIS | Brasil | 3130051 | 31 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| e38f27bc-54f8-360b-ab72-0cb9ba2f4bd1 | -13.30031 | -39.88616 | 2025-02-17 12:16:00 | TERRA_M-T | SANTA INÊS | BAHIA | Brasil | 2927903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 14.3 |
-| 0d52f0f1-a1ac-3bfe-a2d1-e5837af223c9 | -11.58923 | -44.8603 | 2025-02-17 12:16:00 | TERRA_M-T | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 38.6 |
-| dffc7112-ca94-3dc2-87b7-6a40ab250a7e | -14.69429 | -44.14711 | 2025-02-17 12:16:00 | TERRA_M-T | MANGA | MINAS GERAIS | Brasil | 3139300 | 31 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| 94f55307-0f16-3512-b369-d4ffdc4dd564 | -21.2461 | -41.74419 | 2025-02-17 12:18:00 | TERRA_M-T | ITAPERUNA | RIO DE JANEIRO | Brasil | 3302205 | 33 | 33 | nan | nan | nan | Mata Atlântica | 11.9 |
-| 0f356081-d271-3073-88f8-07c678f3718e | -20.79017 | -45.27519 | 2025-02-17 12:18:00 | TERRA_M-T | CANDEIAS | MINAS GERAIS | Brasil | 3112000 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| 9800d9f2-7176-3a40-8deb-d2fedb45c47d | -22.15447 | -43.40726 | 2025-02-17 12:18:00 | TERRA_M-T | PARAÍBA DO SUL | RIO DE JANEIRO | Brasil | 3303708 | 33 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
-| 7e452f48-f612-3220-9870-b80fd788dc94 | -20.64132 | -43.98744 | 2025-02-17 12:18:00 | TERRA_M-T | SÃO BRÁS DO SUAÇUÍ | MINAS GERAIS | Brasil | 3160900 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.5 |
-| d3853edd-118d-33bf-849b-a8ec83f09ba7 | -20.41684 | -43.54794 | 2025-02-17 12:18:00 | TERRA_M-T | OURO PRETO | MINAS GERAIS | Brasil | 3146107 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
-| 05b323d2-a431-380c-8ce7-d65e7ed53ea1 | -14.4704 | -45.8306 | 2025-02-17 14:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 88.3 |
+| be992524-064b-3aee-894b-79a3871b7cbf | -21.5242 | -47.121201 | 2025-02-18 00:48:00 | METOP-B | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| d481e03a-140d-3ec3-89e5-d8c686d525f7 | -19.118099 | -56.214001 | 2025-02-18 00:48:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| a41b918a-5ae3-3b7d-a4fe-1def5e0446fb | -19.127899 | -56.2118 | 2025-02-18 00:48:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 089d1c3b-4f62-3bae-909e-31e13f992316 | -21.0826 | -56.3634 | 2025-02-18 00:48:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 62678947-036c-3a59-a350-bc7a4efc6242 | -21.9634 | -57.558601 | 2025-02-18 00:48:00 | METOP-B | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 16817609-3d38-3ffc-a102-c24c2d75234c | -20.9041 | -56.548302 | 2025-02-18 00:48:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 5e25a45f-0c97-3b77-9084-70bbb4aa7946 | -21.072901 | -56.365501 | 2025-02-18 00:48:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 6d13bb7a-c97c-32d5-a58f-3389dd226c53 | -12.3289 | -52.4674 | 2025-02-18 00:48:00 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e553bb03-446f-303c-a0ff-cab75077d73f | -21.4203 | -48.539001 | 2025-02-18 00:48:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 5580c06c-16a7-3623-9f72-fd9fdcaaf5c9 | -20.4314 | -55.6819 | 2025-02-18 00:48:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| bb4c61ce-055d-3f2c-a412-51a062ec4ff0 | -21.373699 | -48.560902 | 2025-02-18 00:48:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 28f00a57-d1b5-3ffc-b96c-e4b497c98d1f | -21.371599 | -48.552101 | 2025-02-18 00:48:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6d3a1807-7dea-3547-acdf-bab2649dd198 | -19.1243 | -56.193401 | 2025-02-18 00:48:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 5124160a-3509-3979-a9d5-86379e572437 | -19.1145 | -56.195499 | 2025-02-18 00:48:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 20b5aa47-392a-320e-b380-9b00bbcee865 | -10.5981 | -45.079201 | 2025-02-18 00:48:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| d622d0f1-2b10-388e-870e-6b63cba07c50 | -12.3306 | -52.474701 | 2025-02-18 00:48:00 | METOP-B | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d750cb5c-7663-39dd-b182-47978d1442f5 | -20.9198 | -56.5238 | 2025-02-18 00:48:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 1e2c29c6-4243-32eb-95f4-0d2bf4daf472 | -21.3654 | -48.525799 | 2025-02-18 00:48:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 56f0d530-6d10-389d-9f3f-c5e87d0b1735 | -21.3834 | -48.5583 | 2025-02-18 00:48:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| e2be2c1d-78eb-3fba-9792-f9b808c2150c | -21.4182 | -48.5303 | 2025-02-18 00:48:00 | METOP-B | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 5d2d6f0f-2fbb-3f9a-845c-22ed73e02056 | -21.0748 | -56.3755 | 2025-02-18 00:48:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| c7b67536-9a8a-33ec-8c9d-8dd016faf31a | -19.116301 | -56.2048 | 2025-02-18 00:48:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 6692c196-9b74-34fb-a6d4-4ec5a38baef7 | -19.126101 | -56.202599 | 2025-02-18 00:48:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 6fded9d5-9b45-311d-9bd0-5688b8f7a82e | -20.9217 | -56.533901 | 2025-02-18 00:48:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 75d2bc68-b7db-3237-bc87-4e9059f5a3b7 | -14.9892 | -50.7509 | 2025-02-18 00:49:00 | METOP-B | ARAGUAPAZ | GOIÁS | Brasil | 5202155 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| f53ba8f2-9663-311e-8623-d95e9042faae | -19.0741 | -56.042702 | 2025-02-18 00:49:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 458cdf57-9b38-30d5-8cd8-111420fd136a | -10.6079 | -45.076599 | 2025-02-18 00:49:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 4402869c-9a1a-3d07-a921-fb7a47d17cd6 | -14.9911 | -50.7589 | 2025-02-18 00:49:00 | METOP-B | ARAGUAPAZ | GOIÁS | Brasil | 5202155 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 4843f050-d50c-3f9f-bfef-51a836d04d10 | -19.0644 | -56.0448 | 2025-02-18 00:49:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 65fa51a8-6d91-3d3c-bd02-0832aa6eab61 | -14.9813 | -50.761299 | 2025-02-18 00:49:00 | METOP-B | ARAGUAPAZ | GOIÁS | Brasil | 5202155 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| dd385f4c-3520-3734-97cb-6df61a733849 | -19.0723 | -56.033699 | 2025-02-18 00:49:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 15b22619-babe-3ee0-ac17-d722cd3ed189 | -11.2511 | -48.980099 | 2025-02-18 00:49:00 | METOP-B | ALIANÇA DO TOCANTINS | TOCANTINS | Brasil | 1700350 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e290f210-d826-3c0f-b70d-e6a886408289 | -10.613 | -45.096802 | 2025-02-18 00:49:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 309f8c92-09a7-39f9-98cc-6caaa716cd0c | -11.2537 | -48.991001 | 2025-02-18 00:49:00 | METOP-B | ALIANÇA DO TOCANTINS | TOCANTINS | Brasil | 1700350 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 5398e441-7b98-3d47-ba6a-d59315162e9b | -19.075899 | -56.051701 | 2025-02-18 00:49:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| fca2e3d5-f480-30fe-aa30-efd189b27272 | -10.6 | -45.1158 | 2025-02-18 00:50:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 66.5 |
+| a3c25135-b511-391c-b973-a5bf00605d6c | -19.1353 | -56.2324 | 2025-02-18 00:50:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 59.8 |
+| 650465b7-71d3-3f32-8160-b5788ff67468 | -10.6191 | -45.1132 | 2025-02-18 00:50:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 111.5 |
+| 8fc89eaa-58de-341a-b4fe-3c8bb72aa307 | -10.6195 | -45.0902 | 2025-02-18 00:50:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 68.9 |
+| 062ce57c-d3df-3ac9-a23e-8c08755edcff | -19.1157 | -56.2142 | 2025-02-18 00:50:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.5 |
+| 91cfdb47-393c-35e1-9d65-66dbee60bc85 | -19.1357 | -56.2114 | 2025-02-18 00:50:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 53.7 |
+| 23262305-0384-312d-9c92-fa4582b8b293 | -19.1153 | -56.2352 | 2025-02-18 00:50:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 87.0 |
+| bc1ff2bc-8776-3699-b0a6-cd3c2ebe21af | -10.6191 | -45.1132 | 2025-02-18 01:00:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 92.0 |
+| f27ba345-d583-3083-a65d-70a98de982d7 | -19.1157 | -56.2142 | 2025-02-18 01:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 54.6 |
+| 243a0b9c-8633-3398-af0b-d4326e02cbfc | -10.6195 | -45.0902 | 2025-02-18 01:00:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 65.7 |
+| 6b45941e-3942-3634-85d1-e7f482893cf4 | -19.1153 | -56.2352 | 2025-02-18 01:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 59.2 |
+| 1b5c0045-16aa-3e6d-9db3-500fe65bcde2 | -10.6 | -45.1158 | 2025-02-18 01:00:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| 9a58fb33-5b33-3952-8591-8e0ed30b6136 | -19.1353 | -56.2324 | 2025-02-18 01:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.1 |
+| c5148c27-0ecd-395c-8996-937178f440bc | -19.1357 | -56.2114 | 2025-02-18 01:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.1 |
+| de326e29-86ff-30cc-b21d-bcc8f532b351 | -19.0785 | -56.0727 | 2025-02-18 01:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 47.0 |
+| 2de95ff4-1ee8-392d-b8f4-3091e32b0084 | -10.6 | -45.1158 | 2025-02-18 01:10:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 81.4 |
+| b22c1a0e-fe56-3e12-bc09-ee62153765c8 | -19.1157 | -56.2142 | 2025-02-18 01:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 58.7 |
+| 0eb0d1c7-addc-3c53-873a-ac17f0990772 | -19.1153 | -56.2352 | 2025-02-18 01:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.0 |
+| dd15e1ee-a362-31b0-ad4c-a293c9eece64 | -10.6191 | -45.1132 | 2025-02-18 01:10:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 83.3 |
+| 85b99f37-f342-376f-bfa1-3e64cfca816c | -19.0789 | -56.0516 | 2025-02-18 01:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.7 |
+| 67e4ba0c-c640-30e9-b05d-5667f6782f8a | -19.1353 | -56.2324 | 2025-02-18 01:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 55.6 |
+| bbdb534a-69f5-30ae-bd73-2fdf3439befe | -19.1357 | -56.2114 | 2025-02-18 01:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 46.2 |
+| cc1b7fca-34ce-380e-a46f-54005d6a94c0 | -10.6 | -45.1158 | 2025-02-18 01:20:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 670644cb-e485-3601-adb5-2ae1aaa9ef00 | -19.1153 | -56.2352 | 2025-02-18 01:20:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 81.7 |
+| d953c62e-6afc-3da3-91d6-03714bc88ea4 | -10.6191 | -45.1132 | 2025-02-18 01:20:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| e0b4f36d-1851-3df8-a201-21d6f8173785 | -19.1357 | -56.2114 | 2025-02-18 01:20:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 52.5 |
+| 0d9140fb-723b-39a2-8ea1-1c4bb36671db | -19.1157 | -56.2142 | 2025-02-18 01:20:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 69.8 |
+| 78742020-733d-305e-aa48-09f9c378749a | -19.1353 | -56.2324 | 2025-02-18 01:20:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 62.1 |
+| 7c346958-77b4-3899-adb2-93469bd07829 | -19.1157 | -56.2142 | 2025-02-18 01:30:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.0 |
+| e2a23d80-6561-3c7c-a259-aeb1e0eb4e70 | -19.1353 | -56.2324 | 2025-02-18 01:30:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.9 |
+| 11992e5d-33e8-3f93-8e98-9a866c91c19c | -10.6191 | -45.1132 | 2025-02-18 01:30:00 | GOES-16 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| 79a67847-b307-37d1-a8f4-525551da8ff8 | -19.1357 | -56.2114 | 2025-02-18 01:30:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 62.0 |
+| f85adf2c-1955-3992-9459-4b2a6beb4265 | -19.1153 | -56.2352 | 2025-02-18 01:30:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 68.2 |
+| cc9fc440-23ac-3fab-9a62-e67af05fbe97 | -19.1157 | -56.2142 | 2025-02-18 01:40:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 57.1 |
+| 82524b27-6bdc-326d-bbd9-848f963c2187 | -19.1357 | -56.2114 | 2025-02-18 01:40:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.4 |
+| cfbeb011-eae6-333d-b0db-4eca4c7b9d65 | -19.1353 | -56.2324 | 2025-02-18 01:40:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.1 |
+| 1111f77b-dc66-3542-9fbf-3c81574eae7a | -19.1153 | -56.2352 | 2025-02-18 01:40:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 63.4 |
+| 40ab8d93-1623-3e5b-9ee4-b39b004ed056 | -19.124701 | -56.219799 | 2025-02-18 01:42:00 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 89b00d5a-cdf8-3c60-9065-a079d1225012 | -21.0744 | -56.379002 | 2025-02-18 01:42:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 826e1147-3786-3296-bdd4-035e0f1759f7 | -21.076799 | -56.388802 | 2025-02-18 01:42:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| fc33c563-3951-3dba-ac01-c489ebf25650 | -20.916599 | -56.538101 | 2025-02-18 01:42:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| c42e761d-05d0-3c7a-9f76-5f595b484d8f | -19.127399 | -56.230499 | 2025-02-18 01:42:00 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 40fa4be4-27e2-34c5-af9c-b4350595036e | -19.134399 | -56.217201 | 2025-02-18 01:42:00 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| b844d317-f7ab-3aaf-8ca7-99be7210ffc6 | -20.9116 | -56.5602 | 2025-02-18 01:42:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 9b8ea61a-08f3-3f7f-b66e-adced3a0661b | -19.122101 | -56.209202 | 2025-02-18 01:42:00 | METOP-C | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| f7159cff-cb28-3dab-b3f9-3a362437d6fd | -21.9685 | -57.583099 | 2025-02-18 01:42:00 | METOP-C | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 3e32e625-1129-32f4-abce-3d4905764a69 | -21.966499 | -57.574501 | 2025-02-18 01:42:00 | METOP-C | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 3ffbc8ad-400d-3b1f-b174-2bd29ed6c071 | -20.9263 | -56.5354 | 2025-02-18 01:42:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| df53a852-e963-3549-9b44-72a497afeb44 | -19.1153 | -56.2352 | 2025-02-18 02:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 65.5 |
+| c011f91d-89a4-3946-9103-c2face528318 | -19.1353 | -56.2324 | 2025-02-18 02:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.8 |
+| 848fa502-9739-33b5-9df6-baaa1fc76da4 | -19.1157 | -56.2142 | 2025-02-18 02:00:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.2 |
+| 68ea24a9-28db-326c-aae5-3bc251062764 | -19.1231 | -56.23198 | 2025-02-18 02:04:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 90.7 |
+| ad711913-1e62-3cc8-afc9-faf49e6d47e3 | -19.11485 | -56.22697 | 2025-02-18 02:04:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 68.9 |
+| 918ba3d7-bd36-34b4-ad16-534d1e899052 | -19.0627 | -56.05268 | 2025-02-18 02:04:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 42.0 |
+| 7399c3ad-5915-333c-a699-adc7ff55391c | -19.07227 | -56.05748 | 2025-02-18 02:04:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 53.2 |
+| 9426d1f9-ae48-3a35-b97b-1c368453f696 | -19.1353 | -56.2324 | 2025-02-18 02:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 73.1 |
+| ad73f7bd-5848-353b-8387-afc10173405a | -19.1157 | -56.2142 | 2025-02-18 02:10:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 70.0 |
+| e1e7a0bd-5a02-3dcb-9d9a-b7b6674c19aa | -19.1153 | -56.2352 | 2025-02-18 02:40:00 | GOES-16 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.3 |
+| a8dc78b6-60fb-3532-8c70-02083ff6eb6d | -20.61088 | -40.99117 | 2025-02-18 03:02:00 | NOAA-21 | VARGEM ALTA | ESPÍRITO SANTO | Brasil | 3205036 | 32 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
+| 70430b22-9fca-3f83-a191-26a9e5816d12 | -19.16796 | -40.13546 | 2025-02-18 03:02:00 | NOAA-21 | SOORETAMA | ESPÍRITO SANTO | Brasil | 3205010 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| f564d152-e0d5-3dba-89be-0512949d4dd1 | -10.18083 | -36.45924 | 2025-02-18 03:23:00 | NPP-375D | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 4b4aa8e4-b019-3646-8eb7-d79e53716cfe | -6.61312 | -36.17805 | 2025-02-18 03:23:00 | NPP-375D | CUITÉ | PARAÍBA | Brasil | 2505105 | 25 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 6037045d-f910-349d-b36e-f8082124a9dd | -9.73196 | -37.25436 | 2025-02-18 03:23:00 | NPP-375D | PÃO DE AÇÚCAR | ALAGOAS | Brasil | 2706406 | 27 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| cdf570c9-675f-3df3-8003-5e626955a610 | -6.6944 | -42.13612 | 2025-02-18 03:23:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| bdf39782-4384-3176-b130-c54574a4480e | -5.25186 | -35.86877 | 2025-02-18 03:23:00 | NPP-375D | PARAZINHO | RIO GRANDE DO NORTE | Brasil | 2408805 | 24 | 33 | nan | nan | nan | Caatinga | 0.7 |
 
 
+[Clique aqui para ver as próximas entradas](README3.md)
