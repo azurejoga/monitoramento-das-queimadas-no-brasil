@@ -29,22 +29,44 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 09e96c6a-6ea8-3425-a1ab-9b58e38186ad | -12.16867 | -44.60447 | 2025-01-04 12:38:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| d8474a5a-0c9d-3204-a7f4-8862a122d69b | -17.56182 | -49.9622 | 2025-01-04 12:38:00 | TERRA_M-T | EDÉIA | GOIÁS | Brasil | 5207402 | 52 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| bf778d35-bd42-37fc-81ae-a3129e4aa224 | -15.79387 | -49.01523 | 2025-01-04 12:38:00 | TERRA_M-T | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| 8733f14e-9381-3c17-b11d-efef25e0acf3 | -12.16722 | -44.61531 | 2025-01-04 12:38:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 47.0 |
-| 6822cb84-0c2f-3a8e-88f5-dd27b0f4731a | -12.83568 | -39.80038 | 2025-01-04 12:38:00 | TERRA_M-T | ITATIM | BAHIA | Brasil | 2916856 | 29 | 33 | nan | nan | nan | Caatinga | 40.1 |
-| 6de79e22-cb93-3551-8c82-7a9a7e262b2f | -27.62896 | -50.21054 | 2025-01-04 12:40:00 | TERRA_M-T | CORREIA PINTO | SANTA CATARINA | Brasil | 4204558 | 42 | 33 | nan | nan | nan | Mata Atlântica | 20.9 |
-| c1d5129a-924a-3926-b607-e96c40f13dde | -26.9007 | -49.00263 | 2025-01-04 12:40:00 | TERRA_M-T | GASPAR | SANTA CATARINA | Brasil | 4205902 | 42 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
-| 9dc793f3-3d2b-3a82-893b-87c730f4c89f | -21.13022 | -42.38908 | 2025-01-04 12:40:00 | TERRA_M-T | MURIAÉ | MINAS GERAIS | Brasil | 3143906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
-| 1dfa3465-4b2e-3480-ae97-1a1888630919 | -27.37459 | -51.65097 | 2025-01-04 12:40:00 | TERRA_M-T | CAPINZAL | SANTA CATARINA | Brasil | 4203907 | 42 | 33 | nan | nan | nan | Mata Atlântica | 21.8 |
-| b49617e0-aaa2-3164-9f4c-a9e560524c1b | -21.13043 | -42.87289 | 2025-01-04 12:40:00 | TERRA_M-T | UBÁ | MINAS GERAIS | Brasil | 3169901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 13.2 |
-| eb446e14-954f-3a32-9ca1-d9c9dd8d3e6c | -25.92519 | -50.79284 | 2025-01-04 12:40:00 | TERRA_M-T | MALLET | PARANÁ | Brasil | 4113908 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.3 |
-| 9db73417-dea8-34c0-8e98-597b6d86d047 | -21.13246 | -42.36736 | 2025-01-04 12:40:00 | TERRA_M-T | MURIAÉ | MINAS GERAIS | Brasil | 3143906 | 31 | 33 | nan | nan | nan | Mata Atlântica | 17.8 |
-| 2784ef56-42ee-3d8c-8e01-1b21a8aaa0a5 | -27.67934 | -50.04932 | 2025-01-04 12:40:00 | TERRA_M-T | LAGES | SANTA CATARINA | Brasil | 4209300 | 42 | 33 | nan | nan | nan | Mata Atlântica | 21.3 |
-| 442e6cdb-57c5-3168-8a92-914149765e58 | -27.67794 | -50.05945 | 2025-01-04 12:40:00 | TERRA_M-T | LAGES | SANTA CATARINA | Brasil | 4209300 | 42 | 33 | nan | nan | nan | Mata Atlântica | 16.7 |
-| 28c3a68e-3979-368d-acc6-6806e76e5260 | -26.47269 | -48.97855 | 2025-01-04 12:40:00 | TERRA_M-T | GUARAMIRIM | SANTA CATARINA | Brasil | 4206504 | 42 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
-| 2b67fa96-6d5b-350b-a061-852a5cb64de5 | -28.97242 | -51.06295 | 2025-01-04 12:42:00 | TERRA_M-T | SÃO MARCOS | RIO GRANDE DO SUL | Brasil | 4319000 | 43 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| 0a79c13a-7021-3001-a2f2-c569afafaadd | -4.9103 | -41.1196 | 2025-01-04 14:00:00 | GOES-16 | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | 80.8 |
+| 0d47a166-43f5-31ee-80b5-f9beaea40783 | -14.0285 | -45.6072 | 2025-03-04 13:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 186.7 |
+| 658496b8-355a-3442-a466-34826caf0c24 | -14.0085 | -45.6338 | 2025-03-04 13:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 317.4 |
+| 70705ecc-6376-3b87-bcdf-7f617a81679b | -14.009 | -45.6106 | 2025-03-04 13:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 227.1 |
+| 758cfb2d-e32b-3c0b-bda9-f39de214cdf3 | -14.0285 | -45.6072 | 2025-03-04 13:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 209.0 |
+| 752459f3-28c6-36cf-b15f-0d4065e7adf5 | -14.0085 | -45.6338 | 2025-03-04 13:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 384.1 |
+| fc4383e4-ae91-31d5-8e8a-b5d8602b1e79 | -8.8607 | -44.7541 | 2025-03-04 13:20:00 | GOES-16 | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 122.6 |
+| fa89426d-25f7-360f-b701-143e7a0e609e | -14.0081 | -45.6569 | 2025-03-04 13:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 116.1 |
+| a498d5c9-8f7a-3ba7-b82a-ffa5a6ec69b1 | -14.0285 | -45.6072 | 2025-03-04 13:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 180.9 |
+| 17692111-6001-3335-a0c4-7b5a2e670db3 | -14.009 | -45.6106 | 2025-03-04 13:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 201.5 |
+| 3b3bea7a-ec4b-323d-8676-c79a6592cc24 | -14.0085 | -45.6338 | 2025-03-04 13:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 375.8 |
+| 454c4130-be44-3eef-b6f8-468520f1076f | -14.0275 | -45.6536 | 2025-03-04 13:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 98.0 |
+| ad47c066-f017-35b0-925e-17ab7d77d911 | -14.0085 | -45.6338 | 2025-03-04 13:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 420.8 |
+| bb6120cb-32c8-3381-878d-3cf5ec78b62b | -14.0285 | -45.6072 | 2025-03-04 13:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 153.8 |
+| cd288db5-4a2b-3f39-9131-dfbfd87d5022 | -14.0081 | -45.6569 | 2025-03-04 13:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 136.4 |
+| d004e387-a627-3ba8-8b67-6163df7ba68f | -14.009 | -45.6106 | 2025-03-04 13:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 217.1 |
+| b1502b6b-111c-3997-870c-1853d3f36750 | -14.0275 | -45.6536 | 2025-03-04 13:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| 78c30f75-7f0a-31e5-bb51-ced6ee58ac53 | -14.0285 | -45.6072 | 2025-03-04 13:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 150.1 |
+| a998ac05-d3a2-32ca-9fb9-4bae8583cf47 | -14.0081 | -45.6569 | 2025-03-04 13:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 135.6 |
+| 3ed650af-fb48-352c-9287-21c92913fcb6 | -14.0275 | -45.6536 | 2025-03-04 13:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| 271d708d-b4a6-37fe-8a4f-570ce817004f | -14.009 | -45.6106 | 2025-03-04 13:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 194.6 |
+| 308fc4cc-8da8-3ae1-9f4d-535f8ac45eaa | -14.0081 | -45.6569 | 2025-03-04 13:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 114.3 |
+| 69186760-3ffc-3d4e-a43c-032517bc685e | -14.0275 | -45.6536 | 2025-03-04 13:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 131.0 |
+| be43f8cb-be76-35c2-af1a-1a8805451b1e | -14.0285 | -45.6072 | 2025-03-04 13:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 130.0 |
+| 29838a43-7fd6-364b-8fd9-f2bb27f479f9 | -14.009 | -45.6106 | 2025-03-04 13:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 187.0 |
+| ec20fb9a-b09e-3729-9c87-7ca0f56762c6 | -14.0285 | -45.6072 | 2025-03-04 14:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 139.5 |
+| 4c788e68-4e46-3872-8a70-8bad81332aa6 | -14.0275 | -45.6536 | 2025-03-04 14:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 155.6 |
+| 5f1791d4-eccd-3d98-bd5d-cffb0f5a74ca | -14.009 | -45.6106 | 2025-03-04 14:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 184.3 |
+| 067b93f9-dfc8-39ce-bce5-ca9272d12056 | -14.009 | -45.6106 | 2025-03-04 14:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 210.3 |
+| 1b016517-e158-3fe1-95b1-98f21e093fb3 | -14.0275 | -45.6536 | 2025-03-04 14:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 160.0 |
+| 41d9583c-c3c1-3d9f-a5b0-9329fe6dccd8 | -14.0285 | -45.6072 | 2025-03-04 14:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 152.2 |
+| 9a36f6a6-c808-346a-8418-50ca3901019a | -14.0081 | -45.6569 | 2025-03-04 14:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 131.7 |
+| e321cbfc-9f4f-3f26-a0fd-45d9fa6c80d6 | -14.009 | -45.6106 | 2025-03-04 14:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 211.2 |
+| 2e23498f-4e90-3f9f-8788-dc5bb9aa38e0 | -14.0275 | -45.6536 | 2025-03-04 14:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 129.7 |
+| 061d9b49-6048-3ab1-ab42-bb87ee29b7ee | -14.0285 | -45.6072 | 2025-03-04 14:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 164.3 |
+| 66c85d54-25fd-35d5-adcf-b0f5f839056a | -14.0081 | -45.6569 | 2025-03-04 14:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 160.8 |
+| a2e618c4-d37d-35de-8797-52909f0c4f91 | -14.0285 | -45.6072 | 2025-03-04 14:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 168.4 |
+| f578e347-69ef-32d7-ad7d-0b8ba459a06d | -14.009 | -45.6106 | 2025-03-04 14:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 223.2 |
+| 4288d077-a8a7-316e-9533-97b99dbd204c | -14.0275 | -45.6536 | 2025-03-04 14:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 128.7 |
+| 9ce552dd-7859-3aa4-972a-49c0fbe7bd0f | -13.9896 | -45.6139 | 2025-03-04 14:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 91.8 |
 
 

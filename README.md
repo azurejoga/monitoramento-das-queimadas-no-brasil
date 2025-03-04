@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2f649a21-b624-3f6f-a269-84b0340b4689 | -22.89765 | -43.75231 | 2025-03-03 03:08:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 94c15e7f-4e5f-352c-b2f6-fccb03867529 | -6.96258 | -34.89011 | 2025-03-03 03:53:00 | NOAA-21 | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| 5a64b4ee-b94f-3801-b942-7b43e12761ec | -5.07038 | -37.71609 | 2025-03-03 03:53:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| f69d86c0-ddf3-3ba6-b963-2f9faab3b6a2 | -13.96307 | -45.55587 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8040cc1e-1375-3287-9d37-c7df8a8c99c9 | -13.9583 | -45.55887 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 6c3d23a8-34e1-30cc-ac35-0fa652bd3bd0 | -13.96511 | -45.56786 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ef2d61b5-dc2c-34d9-9d6e-ababe55d597f | -10.48578 | -42.41671 | 2025-03-03 03:55:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| b3e65dc1-f8cd-36ff-b6fe-55e1c267c0c5 | -13.95967 | -45.55138 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 720a89c6-2a72-3254-91f8-2fad22b7fe1c | -13.96579 | -45.5641 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ddefe665-22e9-3f09-a292-58440cbb9270 | -10.50718 | -42.39892 | 2025-03-03 03:55:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 7.4 |
-| 1929e6a8-da32-3b5a-94e2-521a4ec381ba | -13.96171 | -45.56336 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| bb0ef754-ea64-3a4c-b6bb-4fe13b590821 | -8.1152 | -43.14058 | 2025-03-03 03:55:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| f89dd545-f28f-3c5f-a052-b3ebc5f4aae3 | -13.66503 | -44.06144 | 2025-03-03 03:55:00 | NOAA-21 | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| c7eae710-5464-3f41-898f-21f44cebe9c4 | -13.96716 | -45.5566 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f5bb1325-a1e1-38bb-b03c-469bee87df3c | -13.95899 | -45.55513 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 839ab4f6-6fd1-34f7-a9f4-80eae4b83067 | -14.12081 | -41.6781 | 2025-03-03 03:55:00 | NOAA-21 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 98947499-e988-3a80-ba8e-ef6346a80897 | -13.96239 | -45.55961 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e5747543-bf1f-39b6-a0db-6aab01a36ada | -14.13592 | -41.69172 | 2025-03-03 03:55:00 | NOAA-21 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| fb905d51-2771-3c8e-9827-7677b439f7fc | -13.95908 | -45.55849 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| dd487848-9282-38b6-a821-3d9f7f9beb98 | -10.50648 | -42.40307 | 2025-03-03 03:55:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 4.4 |
-| cabc0ea0-c6e7-3a50-aa4e-234515117ebf | -13.9604 | -45.55097 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 12947e84-9947-3859-8928-2a55cc5b1a22 | -13.96376 | -45.55212 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c3c15fa6-72b8-3878-8cbd-9a60b6806e3f | -13.95565 | -45.55398 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 4a0eb5b5-d6a3-3d67-b9a7-e68bad0bff07 | -13.95974 | -45.55473 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 6e681235-25c7-397c-b810-c08568294e4b | -13.95842 | -45.56224 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 7d769e5d-d215-3152-99c6-92bb4964c118 | -13.34122 | -41.32336 | 2025-03-03 03:55:00 | NOAA-21 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| abd7cd95-22bc-3579-8e7a-7b7a347ea11f | -13.96648 | -45.56035 | 2025-03-03 03:55:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| cd2e4cd6-1bc8-3a31-a0e5-367f494e1017 | -10.48149 | -42.42027 | 2025-03-03 03:55:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 503d2c64-bf93-346d-ba55-6eeea49e4329 | -9.99759 | -42.47791 | 2025-03-03 03:55:00 | NOAA-21 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| ce66f95f-9a7e-3c55-a5ad-4d75d70d2bde | -14.00732 | -45.56792 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 68bc2a50-97e4-31b5-91b1-379255fbfc93 | -13.99236 | -45.58063 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| f6cdbc7f-379c-3bcd-82bf-f6d1404445bb | -20.90156 | -43.82 | 2025-03-03 03:57:00 | NOAA-21 | CARANDAÍ | MINAS GERAIS | Brasil | 3113206 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 0a055f21-b0b3-3746-8041-228e939daeb6 | -15.80202 | -47.99576 | 2025-03-03 03:57:00 | NOAA-21 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7f444b50-cd2a-34a6-a9b0-98bbb0ac25b6 | -13.98556 | -45.59492 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f33bf7fa-ddc2-325e-8ad3-1e275f78bb13 | -13.99919 | -45.58966 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f20bf33c-8f8d-3e2a-9842-12491dafe43c | -14.00121 | -45.57841 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 62e46674-300b-3a59-a553-f6a536dcb059 | -13.99578 | -45.58514 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| d182f9fc-523b-38cf-8fa4-16316287aa38 | -13.99645 | -45.5814 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 21a1fb4d-3eb1-3707-8089-f8e0006cc080 | -14.00602 | -45.59872 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| c5d676ca-91de-358f-bc97-16745db33501 | -14.0053 | -45.57918 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 6a5a34d8-115f-3d36-abc1-19f83d3508f8 | -13.98283 | -45.58663 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| c9f0f6b0-399c-35ee-8648-b9d254b2a3c8 | -13.99101 | -45.58813 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 870cdf5a-bc88-378b-bc19-bb7a90224a26 | -13.98146 | -45.59417 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 7f547e51-e20f-3417-88bd-ebc106c94a7b | -13.9951 | -45.58889 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 561193d0-186a-3c91-a638-bdba154cc9dc | -14.00188 | -45.57467 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| b30a61bc-d076-3e44-bb72-21b720b33a52 | -13.97942 | -45.58212 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 59c28c91-eff2-304e-9b28-4299e0736ac1 | -19.71707 | -40.35118 | 2025-03-03 03:57:00 | NOAA-21 | JOÃO NEIVA | ESPÍRITO SANTO | Brasil | 3203130 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| eb1543e8-3549-3f78-862a-17b5cccc71a3 | -13.99306 | -45.6002 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 362bbd4d-4466-3b49-a441-bf0f7079b9ff | -13.98897 | -45.59945 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ba4093bf-6a8d-35e3-ae49-a95f2348fd04 | -14.00938 | -45.57994 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 57dbcfdf-bdb2-332e-9926-9bcc3ff4c61a | -13.98965 | -45.59567 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c09bed5c-81b6-3164-8a5f-cbc72d3be3fe | -17.39943 | -46.56248 | 2025-03-03 03:57:00 | NOAA-21 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 1c2b050a-bfba-3816-8fcd-1caaa6b0fca4 | -17.40015 | -46.55864 | 2025-03-03 03:57:00 | NOAA-21 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 9462c815-e733-300d-890e-5d8a68c6209e | -14.45842 | -45.64796 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 082f35a9-8b07-3be1-b020-306bf07acbc0 | -14.00395 | -45.58669 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| bf8ea4ec-993c-3ce2-b078-e2bd0e6e0f89 | -13.98419 | -45.57911 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 69c73190-0285-330b-956f-08d312fd10b8 | -13.98895 | -45.57611 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ffadbfcf-fc04-3eaf-8eb3-86bd5f07ec23 | -20.34683 | -40.36125 | 2025-03-03 03:57:00 | NOAA-21 | CARIACICA | ESPÍRITO SANTO | Brasil | 3201308 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 806be5ff-97b4-365b-8260-8461bcc37d63 | -19.96939 | -44.21655 | 2025-03-03 03:57:00 | NOAA-21 | BETIM | MINAS GERAIS | Brasil | 3106705 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 8a0eb479-0552-34b8-bf5d-98fe047aa304 | -19.83397 | -40.1118 | 2025-03-03 03:57:00 | NOAA-21 | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| 33610622-dc34-36d6-9e00-7ca789f40289 | -19.83848 | -40.08149 | 2025-03-03 03:57:00 | NOAA-21 | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 64f0c707-311c-3ace-b4c9-42445d8e3534 | -21.82156 | -44.20758 | 2025-03-03 03:57:00 | NOAA-21 | ANDRELÂNDIA | MINAS GERAIS | Brasil | 3102803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 3900844b-942c-384e-b084-6ae8c819b3d0 | -18.19495 | -46.80631 | 2025-03-03 03:57:00 | NOAA-21 | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| c36665ae-8df6-377f-b8df-8db88f1773c0 | -21.81194 | -44.20162 | 2025-03-03 03:57:00 | NOAA-21 | ANDRELÂNDIA | MINAS GERAIS | Brasil | 3102803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 6c382f66-ee9f-364f-8098-5736f24551e4 | -13.96988 | -45.56485 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 9b5b4f1b-a1a3-3664-824a-f522a064c0be | -14.01006 | -45.57618 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6be20a7a-796d-31a0-b9f7-4581cb1fcf04 | -20.35019 | -40.36181 | 2025-03-03 03:57:00 | NOAA-21 | CARIACICA | ESPÍRITO SANTO | Brasil | 3201308 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| c17f8402-505c-3ec4-9f34-9a516c4f049e | -13.98624 | -45.59115 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| 00fa1c5a-1a19-3625-b358-29cad7bd092f | -13.98488 | -45.59869 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 7955c270-140c-3b45-aa1a-cc641d984937 | -21.80783 | -44.20499 | 2025-03-03 03:57:00 | NOAA-21 | ANDRELÂNDIA | MINAS GERAIS | Brasil | 3102803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 93119c14-b6e4-3cac-ad9b-bfb6a5da65f0 | -21.37218 | -42.48011 | 2025-03-03 03:57:00 | NOAA-21 | LARANJAL | MINAS GERAIS | Brasil | 3138005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 035bc8e5-589d-3788-b389-ae7c6f8f0cf9 | -13.99713 | -45.57765 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 049e8dc0-96a8-32df-82fa-4076c56d9ce7 | -13.99033 | -45.5919 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 33175b8f-7fc0-3ef1-99c6-91855c76e184 | -14.72856 | -42.8773 | 2025-03-03 03:57:00 | NOAA-21 | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| ba9942e5-21c9-385d-ad6b-a1fb2c534e7a | -14.0026 | -45.59418 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 7412df19-4987-36fe-bb9b-a4e1924827c2 | -21.82499 | -44.20824 | 2025-03-03 03:57:00 | NOAA-21 | ANDRELÂNDIA | MINAS GERAIS | Brasil | 3102803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 0ccc19d8-798f-3fca-b2e0-ee8c4c5257d3 | -13.9801 | -45.57836 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| fecbe6d4-7bbe-3533-8535-5809d6c41ccb | -14.00256 | -45.57092 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 0e111189-367b-3910-901e-71068ecf3c71 | -14.45909 | -45.64423 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 98905f1a-7bd8-38f6-b9e5-a955dd0ef3d7 | -14.01078 | -45.59573 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| d0dd447d-e38f-311b-a9ce-cd2275970a3d | -15.7988 | -47.99655 | 2025-03-03 03:57:00 | NOAA-21 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| b34d5916-24b4-3b57-a0bb-868d1a6db75c | -14.00669 | -45.59496 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 255d2dde-57d1-38db-bdef-21d1a0725f2d | -14.00804 | -45.58744 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| c7955fa4-302f-3683-a93f-5c9786dd2e26 | -16.04112 | -41.80325 | 2025-03-03 03:57:00 | NOAA-21 | SANTA CRUZ DE SALINAS | MINAS GERAIS | Brasil | 3157377 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| da49c1ab-63e8-3537-b7d7-1ed2ad51e2bd | -14.00597 | -45.57542 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| f7f261b2-b874-39f6-abd6-9ec1649b1c81 | -14.00328 | -45.59044 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 9b5a0398-6226-3666-b7f1-115b45b7460b | -13.98351 | -45.58287 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 81a331ff-4875-3b8d-838e-e9e183184a1b | -14.00871 | -45.58369 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 37b8394d-58dd-36a0-947f-7396754099ee | -14.00664 | -45.57167 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 6408d7d5-5878-3de3-aec1-4965f03a7358 | -13.98487 | -45.57535 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7a70f6a8-c80e-31ad-961e-9a6ca737b135 | -13.98351 | -45.60625 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 323131b2-6cc3-3cd3-a11b-8f48e14393f2 | -13.98215 | -45.5904 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| 51ee704e-7893-3521-a5e5-4a76ba39b95d | -22.21278 | -42.84225 | 2025-03-03 03:57:00 | NOAA-21 | TERESÓPOLIS | RIO DE JANEIRO | Brasil | 3305802 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| fa28f53d-7928-3f9a-90da-7d15ca29de78 | -17.39604 | -46.55787 | 2025-03-03 03:57:00 | NOAA-21 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a83cc97c-93ce-3047-b09d-9d0d00cbb688 | -13.98419 | -45.60247 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 6afb3abe-f5f4-34d3-a9a4-fcab4f69be08 | -14.00534 | -45.60248 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 2d5c0fcb-84fb-3a27-bd8b-7a68419b0868 | -14.00943 | -45.60325 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 836a0bb4-dd01-37a4-b261-bb2cecc79cf4 | -14.00737 | -45.5912 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 83669efe-552b-30cc-ac46-9a3b08eb7142 | -14.00462 | -45.58293 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| a15cec91-679d-34d3-ad7e-3af1d48d9d3f | -14.00054 | -45.58216 | 2025-03-03 03:57:00 | NOAA-21 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 9e498873-5689-3469-b1ea-2045f1b641f1 | 1.2856 | -60.0656 | 2025-03-04 00:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 54.0 |
+| 332d5022-b5ca-3b15-ac00-3392fdf19551 | 1.9955 | -61.1394 | 2025-03-04 00:10:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 91.9 |
+| 2f41a2a2-c0c3-3185-874b-14f96fd33381 | 2.3421 | -61.06 | 2025-03-04 00:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 201.3 |
+| 0fd000b3-180d-3154-925d-2c5bf8842348 | 2.3604 | -61.0597 | 2025-03-04 00:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 160.1 |
+| d26affc3-a4d1-3b02-9046-a0a974be928d | 1.2856 | -60.0846 | 2025-03-04 00:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 62.1 |
+| 5368bd29-51bc-3b06-88b4-93c1adaf06a9 | 2.3422 | -61.0411 | 2025-03-04 00:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 122.8 |
+| d7aa5555-d1e2-3053-8387-cd602c056cb5 | 2.3604 | -61.0408 | 2025-03-04 00:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 121.3 |
+| b3e0eeba-2f60-3d99-b49e-6b11cbc789f3 | 1.9955 | -61.1394 | 2025-03-04 00:30:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 87.6 |
+| 10250920-5aab-3d68-ae8f-51016c5b285a | 2.3422 | -61.0411 | 2025-03-04 00:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 122.8 |
+| 51e16f94-2825-35eb-98bd-0d0027bd7974 | 1.632 | -60.2338 | 2025-03-04 00:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 54.3 |
+| 2ce22ebf-5729-3a9d-bda8-02a211edcc2d | 2.3604 | -61.0408 | 2025-03-04 00:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 127.2 |
+| 0e89d0e4-84c9-3a26-a611-1571bd4d8df5 | 2.3421 | -61.06 | 2025-03-04 00:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 203.4 |
+| 79fbe732-e1bf-31d4-a15e-d1af88234410 | 2.3604 | -61.0597 | 2025-03-04 00:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 188.7 |
+| 30e63284-a81d-3da1-9116-84e51cf386e2 | 2.3604 | -61.0408 | 2025-03-04 00:40:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 112.7 |
+| 08436310-18cd-37df-bc4d-cf3c6d77ed79 | 2.3421 | -61.06 | 2025-03-04 00:40:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 232.2 |
+| 8654434d-88dc-30aa-a32e-5d6a9ab6fe06 | -13.99 | -45.5907 | 2025-03-04 00:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 84.1 |
+| 9d5bf150-c776-3863-b29b-f97da3b3a534 | -14.0085 | -45.6338 | 2025-03-04 00:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 83.5 |
+| c77f5e6f-65fd-357a-bd0e-8d38a67bb0f7 | -14.028 | -45.6304 | 2025-03-04 00:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 165.5 |
+| 0ca9adf9-d32c-32f2-bba0-69a3535ca27c | -14.009 | -45.6106 | 2025-03-04 00:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| fce5f7eb-cf19-38bc-a607-891b3309355c | -14.0095 | -45.5874 | 2025-03-04 00:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 93.7 |
+| 4b84e60a-0096-3ded-832f-39519f025b7b | -14.0285 | -45.6072 | 2025-03-04 00:40:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 103.9 |
+| c9969c16-db1c-382c-ac01-7ec482c31c1c | 2.3422 | -61.0411 | 2025-03-04 00:40:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 105.7 |
+| a77c32af-241f-305b-957b-e2deac77fa99 | 2.3421 | -61.0788 | 2025-03-04 00:40:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 72.4 |
+| 69242520-2d1b-3a7d-8092-af513cd98617 | 2.3604 | -61.0597 | 2025-03-04 00:40:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 163.7 |
+| 61c8f9a6-e88f-3871-b089-edc2f2ea1f98 | 1.9955 | -61.1394 | 2025-03-04 00:40:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 73.6 |
+| 97774e25-4885-32a8-bcac-455cd66d8fca | 1.632 | -60.2148 | 2025-03-04 00:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.8 |
+| 4676bc62-3f8d-365d-a8e4-d01ec20caa87 | 2.3604 | -61.0408 | 2025-03-04 00:50:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 106.7 |
+| a5a14ab1-592a-3e05-b769-2f252779b7d7 | -14.0085 | -45.6338 | 2025-03-04 00:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 87.2 |
+| 89113728-aced-3f0f-a579-3ddcad1e9067 | 1.9955 | -61.1394 | 2025-03-04 00:50:00 | GOES-16 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| 25746cda-01dd-3dd6-a13e-d88f997ad522 | -14.0095 | -45.5874 | 2025-03-04 00:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 93.2 |
+| 65e8edc9-8782-34c5-b285-3273cbf419fd | -14.009 | -45.6106 | 2025-03-04 00:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 78.4 |
+| ae6656ee-c223-3615-9aa9-5bcac4ffe959 | 2.3421 | -61.06 | 2025-03-04 00:50:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 183.7 |
+| bd370de7-f64c-32d9-ab94-9196b9214d39 | 2.3604 | -61.0597 | 2025-03-04 00:50:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 163.8 |
+| 075f1452-a4c9-3f88-a725-eacf664eaf4f | -14.0285 | -45.6072 | 2025-03-04 00:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| 18e37867-5339-3887-9a6e-b0427e28b657 | -13.99 | -45.5907 | 2025-03-04 00:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| cc40c18a-7626-328f-b75c-6ccdc1a61455 | -14.028 | -45.6304 | 2025-03-04 00:50:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 140.2 |
+| 9316eeb8-2e88-3679-bc80-1e76c3c504a1 | 1.632 | -60.2338 | 2025-03-04 00:50:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 91.5 |
+| 0f5f8633-9ce9-3a36-8c01-804337eb405a | 2.3422 | -61.0411 | 2025-03-04 00:50:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 98.4 |
+| 770628b2-3cbb-3385-98ed-5867c15c416c | -14.028 | -45.6304 | 2025-03-04 01:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 130.8 |
+| 20921c39-b90f-3148-ac03-ad299a88057d | 1.1393 | -60.5222 | 2025-03-04 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 59.4 |
+| 5a6b88de-fcc5-3fc6-8be1-70ca332e578c | 2.3422 | -61.0411 | 2025-03-04 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 106.0 |
+| 605243b7-3496-33ca-ba7f-736c10e7328a | 1.1393 | -60.5033 | 2025-03-04 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| a81e9508-e7ef-3b4e-8905-8172e4ff73b1 | 2.3604 | -61.0408 | 2025-03-04 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 109.8 |
+| 8083c837-49bb-39c1-b060-a48d5ec1dee9 | -14.009 | -45.6106 | 2025-03-04 01:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 70.4 |
+| 30d557cc-fd8b-3c7a-ba37-04767169492c | -14.0285 | -45.6072 | 2025-03-04 01:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| 457c1521-662d-30cf-af99-1e256f97ad5c | -14.0095 | -45.5874 | 2025-03-04 01:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 84.9 |
+| c9cff365-aac1-3cf3-a8b3-18de08e2c77d | 1.121 | -60.5224 | 2025-03-04 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 56.3 |
+| b121ba17-6b0a-3688-b1e7-66557c04b223 | 1.632 | -60.2148 | 2025-03-04 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 57.5 |
+| eff46321-705c-3ad3-88f1-1bd62130f741 | 1.632 | -60.2338 | 2025-03-04 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 62.4 |
+| 6ebc36be-cbec-3fb2-97f3-e1ef93247bff | -14.0085 | -45.6338 | 2025-03-04 01:00:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 82.4 |
+| ea42759f-00f1-38eb-96ce-a5300c4508fe | 2.3421 | -61.06 | 2025-03-04 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 189.4 |
+| 22542c2c-e67c-3457-b9d8-c26358eb3b9f | 2.3604 | -61.0597 | 2025-03-04 01:00:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 141.0 |
+| ef2fbc0c-7ecb-3a1c-a698-fe302a0096db | 1.121 | -60.5034 | 2025-03-04 01:00:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 54.9 |
+| a62f91f8-0982-35ad-8c88-aab22264d5a1 | -14.0285 | -45.6072 | 2025-03-04 01:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 73.7 |
+| 5688ee03-2ddb-3876-93b5-4a677d96d469 | 2.3604 | -61.0408 | 2025-03-04 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 108.2 |
+| 325bebd0-d1d5-3fa7-b70c-5579e9bb8692 | 2.3422 | -61.0411 | 2025-03-04 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 86.2 |
+| 442a6f08-345b-33cc-804a-d0c01eebe7bc | 1.1393 | -60.5222 | 2025-03-04 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| c63b7854-ed1b-308d-8b8f-62a04e84c644 | 1.121 | -60.5224 | 2025-03-04 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 75.8 |
+| a65bfedc-bab4-3acd-aa6d-898ddbf9678b | 2.3421 | -61.06 | 2025-03-04 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 189.7 |
+| a7608d96-60ea-35bc-a351-5632a52dbd00 | -14.0095 | -45.5874 | 2025-03-04 01:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| ae30fae4-dde7-37a0-9ee4-368227ddeba9 | 1.121 | -60.5034 | 2025-03-04 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 58.4 |
+| d9782a14-c188-3c8d-9345-80f57c8c03d3 | 1.7597 | -60.2326 | 2025-03-04 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 63.7 |
+| 8c2a4d03-a242-35d6-8eb2-3af6637ddd48 | 2.3604 | -61.0597 | 2025-03-04 01:10:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 144.9 |
+| 6829b48b-d46b-3b96-8185-0fcd0e33f2b1 | -14.028 | -45.6304 | 2025-03-04 01:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 125.4 |
+| b60fedde-cd47-350b-ab17-fcb628f1f52f | 1.1393 | -60.5033 | 2025-03-04 01:10:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 51.6 |
+| 1d29810d-257a-329e-8645-3250f8d9be55 | -14.0085 | -45.6338 | 2025-03-04 01:10:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| 164f55f7-13fd-3eb4-a772-72723298286d | 1.632 | -60.2338 | 2025-03-04 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 57.7 |
+| cdf911af-dfa3-3376-8bc3-58ace3f9c4c1 | 2.3604 | -61.0408 | 2025-03-04 01:20:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 100.6 |
+| 8198c565-56b4-38b0-b050-b19b0d5e0db4 | -14.028 | -45.6304 | 2025-03-04 01:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 114.7 |
+| 29840503-6907-39e2-b529-7e23885c4cd9 | -14.0095 | -45.5874 | 2025-03-04 01:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 82.1 |
+| afe410e2-4e63-3a77-8d28-bf4229ee8a2c | 2.3604 | -61.0597 | 2025-03-04 01:20:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 138.6 |
+| 6f65e412-a22b-33e5-84ce-b564dbfef2b6 | 1.121 | -60.5224 | 2025-03-04 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 159.3 |
+| 8ce3c9c2-c3aa-324a-bbaf-b0c0549b0d8f | 2.3421 | -61.06 | 2025-03-04 01:20:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 161.9 |
+| 21fa81d3-1624-309f-9028-98fb5caea0f2 | 1.121 | -60.5034 | 2025-03-04 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 108.0 |
+| 57d53cd4-1b7e-35ab-ad9a-5f397ae91563 | 2.3422 | -61.0411 | 2025-03-04 01:20:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 83.4 |
+| a6b5c78f-e496-3b55-b27e-7af86fee2c7e | 1.1393 | -60.5033 | 2025-03-04 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 64.5 |
+| c8bafce7-9acc-3b4f-bee7-7d3164d8e187 | -14.0285 | -45.6072 | 2025-03-04 01:20:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 70.1 |
+| 805133b1-dfb3-3400-9bbe-8a897fe578d7 | 1.1393 | -60.5222 | 2025-03-04 01:20:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| 7c491e88-0f8f-32db-9665-1e08b5f3ed16 | 2.3422 | -61.0411 | 2025-03-04 01:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 88.5 |
+| 7e45d9b3-a40e-322d-a03d-ce5943fd2e97 | 2.3604 | -61.0597 | 2025-03-04 01:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 137.6 |
+| f1d94142-4866-3875-84cd-dddc0a3f5356 | 2.2706 | -60.2459 | 2025-03-04 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.2 |
+| 2e54db98-f443-333e-878c-011aa7c87e52 | 1.121 | -60.5034 | 2025-03-04 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 81.5 |
+| ef40aae0-5dde-3e11-ae96-0e5b2f10c2de | 1.7597 | -60.2326 | 2025-03-04 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 49.0 |
+| f11fabf1-82ad-324c-bfbe-6f0515a08328 | 2.3421 | -61.06 | 2025-03-04 01:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 140.8 |
+| 12fb06b6-7779-3639-a4ed-20e1873ade4a | -14.028 | -45.6304 | 2025-03-04 01:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 103.7 |
+| 1ff199b1-a89a-3313-81a1-a842b4e0e52c | 2.3604 | -61.0408 | 2025-03-04 01:30:00 | GOES-16 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 100.1 |
+| 890cf6ef-562d-3706-9224-3093cebbab21 | -13.99 | -45.5907 | 2025-03-04 01:30:00 | GOES-16 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 71.4 |
+| 2778f50f-5699-3c15-a6a9-86b138ddec5e | 1.632 | -60.2338 | 2025-03-04 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 55.9 |
+| 83217b84-de38-365d-add5-f6857e43ea0f | 1.121 | -60.5224 | 2025-03-04 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.7 |
+| 6469974e-1578-3926-9a1d-356cd2897bef | 1.1393 | -60.5033 | 2025-03-04 01:30:00 | GOES-16 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| 45761184-9ef9-3988-97df-5877450726fe | 2.2705 | -60.2649 | 2025-03-04 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 60.5 |
+| 2439de67-ad19-3e2a-b2d0-ddd32dff2fbc | -9.80918 | -38.10238 | 2025-03-04 03:36:00 | NOAA-21 | SANTA BRÍGIDA | BAHIA | Brasil | 2927606 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 1a7c5462-109e-3070-9c71-3f8608d7ce8f | -8.43648 | -36.34565 | 2025-03-04 03:36:00 | NOAA-21 | CACHOEIRINHA | PERNAMBUCO | Brasil | 2603108 | 26 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| e466fe03-4897-3efc-b218-6a51392e2e4a | -8.10451 | -43.14788 | 2025-03-04 03:36:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| 733a7f81-321f-3afc-8332-60717abecd13 | -9.80995 | -38.09785 | 2025-03-04 03:36:00 | NOAA-21 | SANTA BRÍGIDA | BAHIA | Brasil | 2927606 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 978023c1-b894-3685-b2d7-0d00fe7e2666 | -8.1057 | -43.14127 | 2025-03-04 03:36:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 5.2 |
+| 1ae6b19a-26bf-3b1d-a2cd-8b18458264b6 | -8.1051 | -43.14457 | 2025-03-04 03:36:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 5.2 |
+| 749eda2a-63af-3780-a4bc-38059d5642d5 | -7.83442 | -36.85962 | 2025-03-04 03:36:00 | NOAA-21 | CAMALAÚ | PARAÍBA | Brasil | 2503902 | 25 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 0017ba1d-4397-3dc2-bcab-9a8cb466882a | -8.10629 | -43.13797 | 2025-03-04 03:36:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 822e9789-717a-3535-950d-e22932fc0143 | -8.43587 | -36.34946 | 2025-03-04 03:36:00 | NOAA-21 | CACHOEIRINHA | PERNAMBUCO | Brasil | 2603108 | 26 | 33 | nan | nan | nan | Caatinga | 1.3 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
