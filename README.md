@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b75b410f-4df5-32d3-85b5-2560cf0753c4 | -12.9183 | -45.0517 | 2025-03-20 00:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 100.4 |
-| 0b2541e0-bd76-3c5f-ade4-582a2c758ba3 | -12.899 | -45.0549 | 2025-03-20 00:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 84.5 |
-| a1833e6c-f328-3a8c-b277-60530e824b90 | -12.9183 | -45.0517 | 2025-03-20 00:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 123.8 |
-| 9f8ab8b7-4298-36b7-b5e0-37dfe556bbad | -12.9183 | -45.0517 | 2025-03-20 00:30:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 119.9 |
-| f005d2fd-6101-376b-8d7f-67fac0de4fbe | -19.83624 | -40.11664 | 2025-03-20 00:37:00 | TERRA_M-M | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| bb8ae983-5d3a-3122-8d2a-3bcf297b2ed0 | -19.8305 | -40.10955 | 2025-03-20 00:37:00 | TERRA_M-M | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| 36006d27-8395-31da-9151-dd621d9cd7c2 | -14.83268 | -46.54718 | 2025-03-20 00:39:00 | TERRA_M-M | SÍTIO D'ABADIA | GOIÁS | Brasil | 5220702 | 52 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| ca872f16-f1f5-376e-a433-6b0a98cc3d43 | -12.58704 | -48.3279 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 33bf692e-5acf-3a7c-b988-d35e7a3591bb | -12.90256 | -45.04819 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 32.5 |
-| 77983a71-a3f3-31ea-84be-f09cfd0da5eb | -12.91414 | -45.06534 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 50.3 |
-| 570c7514-9c09-3744-a539-22dbd2502d46 | -12.09308 | -45.63676 | 2025-03-20 00:39:00 | TERRA_M-M | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 59b63b60-7954-3ce1-8218-e5b2765b32f5 | -12.10196 | -45.63543 | 2025-03-20 00:39:00 | TERRA_M-M | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 4b8d1dc9-ac91-31ce-9e98-be75476ab85c | -12.10068 | -45.62636 | 2025-03-20 00:39:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| e2380704-9f93-3727-bb68-13c33ebae91a | -12.88637 | -44.87001 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| b676c0bd-00ba-3eba-b67d-e464eda6cc5e | -18.43703 | -41.87817 | 2025-03-20 00:39:00 | TERRA_M-M | FREI INOCÊNCIO | MINAS GERAIS | Brasil | 3126901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
-| 15f34b6d-6796-3448-9f2c-c11c1802cbd9 | -12.90124 | -45.03894 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 22.8 |
-| ba7e8ab9-4974-3b33-927f-caaa8b2ac70d | -12.91282 | -45.05609 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 67.6 |
-| 1bc9bc03-1e0b-34be-9e39-9ad3bcc57d73 | -12.18341 | -41.375 | 2025-03-20 00:39:00 | TERRA_M-M | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| ad37c580-264e-3b93-9a6d-ded4b61c7e2f | -12.9102 | -45.03757 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 5ce3c99c-8087-3025-949c-0acc47b9bb6e | -10.6512 | -44.39481 | 2025-03-20 00:39:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 295e8e42-739e-360c-adbe-a04f6d50c854 | -12.90519 | -45.06671 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 0a4dfc43-d58e-3a2e-86a3-224506934d7c | -10.66054 | -44.39336 | 2025-03-20 00:39:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 554987e5-2e8f-3a26-ae2d-1264c2694905 | -10.47893 | -47.35133 | 2025-03-20 00:39:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| ca5db424-c0fb-3732-91ed-b742844a211d | -12.90387 | -45.05745 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 27.8 |
-| 3f05a70d-9252-311c-ab15-efa9621ab077 | -12.18312 | -41.36938 | 2025-03-20 00:39:00 | TERRA_M-M | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 11.6 |
-| caa3655f-fc34-380c-b0ee-8461207ac274 | -10.35635 | -44.83627 | 2025-03-20 00:39:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 2b5d4088-60de-3de3-adee-186379c132f8 | -10.48926 | -47.35324 | 2025-03-20 00:39:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| ee16f07a-fc26-3042-b7a1-84acff5ae7a6 | -11.57536 | -47.63147 | 2025-03-20 00:39:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 52310b5f-096f-3d02-9981-8983b3e3ff24 | -14.83394 | -46.55651 | 2025-03-20 00:39:00 | TERRA_M-M | SÍTIO D'ABADIA | GOIÁS | Brasil | 5220702 | 52 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| 93df7ea9-061b-3ed9-ad9b-904b0e33e7c8 | -16.08267 | -40.87811 | 2025-03-20 00:39:00 | TERRA_M-M | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.5 |
-| 476007d9-beb5-31e5-bb33-26213aadee9d | -12.91151 | -45.04683 | 2025-03-20 00:39:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 23.7 |
-| 31bc0d11-3ef1-3120-a5d5-0af444501b0b | -12.0918 | -45.62769 | 2025-03-20 00:39:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| f6c9ac0f-1a08-3b5c-b730-733dde8d3ed7 | -16.08433 | -46.62247 | 2025-03-20 00:39:00 | TERRA_M-M | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 21.6 |
-| 96a3d1ff-ec0a-3af6-b997-7593ea3a0573 | -12.9183 | -45.0517 | 2025-03-20 00:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 102.6 |
-| f0fc6256-bd67-39ba-84f7-d78a00759e5d | -7.06493 | -44.38241 | 2025-03-20 00:41:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 16b89ca3-1e49-3903-9074-3c597c3724cb | -7.05516 | -44.3839 | 2025-03-20 00:41:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 20.1 |
-| 1e47931c-f61e-367f-9f01-68bf63c150cf | -7.0633 | -44.37127 | 2025-03-20 00:41:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| eb77b7e6-bd59-3bb3-a8d7-c0ce013350af | -12.9183 | -45.0517 | 2025-03-20 00:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 97.0 |
-| 6e8683cf-f6af-33c7-8c3f-6c9be65e7e10 | -12.9183 | -45.0517 | 2025-03-20 01:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 90.7 |
-| e472260f-83b9-37dd-b989-073cac079fef | -12.9183 | -45.0517 | 2025-03-20 01:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 72.8 |
-| 3bd042c8-cfdc-3173-ba78-581ac0568dea | -12.9183 | -45.0517 | 2025-03-20 01:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 71.9 |
-| 39f3139c-937e-3717-ae99-854c35814007 | -12.9183 | -45.0517 | 2025-03-20 01:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 78.8 |
-| 3a1da90f-19db-391a-bfda-2c4e37e4fa5f | -12.9183 | -45.0517 | 2025-03-20 01:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 77.3 |
-| 5a6bb4fe-b1c3-3a91-9778-1d13be227603 | -12.9183 | -45.0517 | 2025-03-20 02:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 78.4 |
-| 13798ffd-5cc4-3f91-a3e9-f89447fe5491 | -12.9183 | -45.0517 | 2025-03-20 02:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 71.1 |
-| b0fed1e5-b064-306e-98da-5108fde74e62 | -12.9183 | -45.0517 | 2025-03-20 02:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 67.6 |
-| 0637f15f-a9c8-3cbb-be67-1253e411eb00 | -6.5631 | -51.1126 | 2025-03-20 04:00:00 | GOES-16 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 60.1 |
-| 6980266c-ed32-3de0-8439-d50fd3cf791a | -6.24181 | -44.82531 | 2025-03-20 04:02:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 3a5bb114-f475-36af-90d2-e649e070406c | -10.47916 | -47.34769 | 2025-03-20 04:02:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 4b832661-7328-30df-a84a-5b6ec157a5fc | -12.86074 | -38.36715 | 2025-03-20 04:02:00 | NPP-375D | SALVADOR | BAHIA | Brasil | 2927408 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 2a5f224a-6968-30a0-b52c-bfcc0206a49a | -11.77011 | -37.88954 | 2025-03-20 04:02:00 | NPP-375D | ESPLANADA | BAHIA | Brasil | 2910602 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| d093e8e7-e625-3cac-961d-553743498753 | -7.05943 | -44.37433 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 0b8c8672-7bc5-380b-bba5-a160fe5b70e9 | -8.7355 | -36.83014 | 2025-03-20 04:02:00 | NPP-375D | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 7b731b1f-620c-3d44-9188-58a288adf90c | -12.90748 | -45.05197 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 0778a8e0-d49d-3db7-a17f-08b74591c73e | -12.09176 | -45.62946 | 2025-03-20 04:02:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0a545cc5-e8db-38a4-87d1-f878ea0bf561 | -7.05995 | -44.37648 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 019f5e70-7ef3-3fa0-bf21-ddf83a7cb949 | -11.21369 | -37.7319 | 2025-03-20 04:02:00 | NPP-375D | ITABAIANINHA | SERGIPE | Brasil | 2803005 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| f0f85e41-1aee-3100-b5a6-e7f3d87c6445 | -12.09952 | -45.63087 | 2025-03-20 04:02:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| e705cbed-3c98-3645-85d9-c9c84ee2a481 | -12.91027 | -45.06388 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 1a488cfa-7296-39cd-845a-b753ecefc6d3 | -12.29485 | -43.50045 | 2025-03-20 04:02:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 3b792d8a-ebe3-301e-a2dd-0b766cec0af1 | -7.06382 | -44.37713 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| df1ddc68-70c7-35cf-af2e-c7e325a3a503 | -12.29833 | -43.50105 | 2025-03-20 04:02:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1c55ec1e-b338-3a99-9b94-54788920efa9 | -12.1495 | -40.2988 | 2025-03-20 04:02:00 | NPP-375D | MACAJUBA | BAHIA | Brasil | 2919603 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 68d5b415-1a20-3bac-bee0-8a8c91817559 | -6.8357 | -44.3223 | 2025-03-20 04:02:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ce33b33a-83f3-355d-8995-07f91a5178cd | -10.35807 | -44.84193 | 2025-03-20 04:02:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| ef8d13da-a197-3818-9821-577e0d5bcf74 | -12.90824 | -45.04747 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| c7e6c9d2-dfc0-3c07-8d30-4980cb94755f | -7.05787 | -44.38389 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| fc5ec608-f052-3772-8145-c936bb17c41c | -12.1742 | -44.05449 | 2025-03-20 04:02:00 | NPP-375D | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 7d55dded-bad8-3951-98c9-83cbc77548f4 | -12.906 | -45.04456 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4d2d9fe5-d0dc-374a-b9c5-b2b694115cce | -12.90229 | -45.04389 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| fa2b887a-1e1a-3620-a085-3406f054aa35 | -11.6403 | -37.78915 | 2025-03-20 04:02:00 | NPP-375D | RIO REAL | BAHIA | Brasil | 2927002 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 992bc8ee-4f80-3a2f-a0bf-199ba1191654 | -11.4595 | -39.94088 | 2025-03-20 04:02:00 | NPP-375D | SÃO JOSÉ DO JACUÍPE | BAHIA | Brasil | 2929370 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 1943c294-e213-3ba0-b30e-eb60777c4a50 | -10.87966 | -44.17352 | 2025-03-20 04:02:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f081dbb1-9900-3590-ad64-1979ddcf5383 | -12.09564 | -45.63016 | 2025-03-20 04:02:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| af498477-6045-31fe-abed-04afd19b0610 | -13.18768 | -39.69425 | 2025-03-20 04:02:00 | NPP-375D | UBAÍRA | BAHIA | Brasil | 2932101 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| e3064587-32c6-360e-b0d1-477da938d5f6 | -12.89858 | -45.04322 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f5b16646-3c2c-3bb2-87f5-0f7741a21903 | -9.22501 | -37.77176 | 2025-03-20 04:02:00 | NPP-375D | INHAPI | ALAGOAS | Brasil | 2703304 | 27 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 3233d64b-97a8-3ecb-b81b-65a2c965369b | -12.29192 | -43.54016 | 2025-03-20 04:02:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| eec50fce-e4c7-3fc2-ac9f-e0ee0b618585 | -7.05832 | -44.38603 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 87039e1a-a6f0-3f82-97bc-efbb423f89ec | -10.35888 | -44.83724 | 2025-03-20 04:02:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 77a23e30-12ae-30d0-b691-8599a890031b | -12.39819 | -38.7926 | 2025-03-20 04:02:00 | NPP-375D | AMÉLIA RODRIGUES | BAHIA | Brasil | 2901106 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| a634bd81-2111-36e4-b531-f3559659d819 | -12.90892 | -45.04972 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| d7a65b2e-6bca-3c41-a015-9aca57a1f84e | -12.09262 | -45.62453 | 2025-03-20 04:02:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 5d743336-36e0-375a-bdfb-62e4a0a4668c | -12.09866 | -45.63581 | 2025-03-20 04:02:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| b4e34b85-b592-33e8-97e7-ce4e252a227a | -12.90521 | -45.04905 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 4c28f23f-6f62-3deb-9618-debd8264ce96 | -12.0978 | -45.64076 | 2025-03-20 04:02:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3d1bbf0c-3a1c-380c-84c3-bb78fbd29ab3 | -12.90453 | -45.04679 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| b4eb675e-589b-3452-9a85-dd68497e8433 | -12.90376 | -45.0513 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| fe2447d7-5359-3f4a-89e7-2d89bd1feb9f | -9.41605 | -40.51757 | 2025-03-20 04:02:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| e458665b-bb71-388b-99d3-effc90bda0d8 | -7.05865 | -44.3791 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| e410bcf5-9ff7-3dd8-8968-d3aeae8481f6 | -12.14671 | -40.2947 | 2025-03-20 04:02:00 | NPP-375D | MACAJUBA | BAHIA | Brasil | 2919603 | 29 | 33 | nan | nan | nan | Caatinga | 0.4 |
-| 121cca48-6acc-37ee-a496-f05f25bbc4b8 | -12.28926 | -43.5387 | 2025-03-20 04:02:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 96bdcbe5-abc8-39b9-995e-1d4e67453880 | -7.06463 | -44.37239 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| fcb4dc93-72cc-36dc-b0ac-1b4ef141d01e | -12.90158 | -45.04162 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| e0827e1f-74d4-3fcb-9d4a-348e0472958c | -7.06331 | -44.375 | 2025-03-20 04:02:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 38aab4db-2fd7-3576-950e-7d6874c2660d | -12.91263 | -45.05038 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| cc238029-4685-315d-93d7-26617ee73851 | -12.90971 | -45.04522 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 8f7c691d-d51f-3a9a-aeb4-421af8ef2855 | -12.09478 | -45.6351 | 2025-03-20 04:02:00 | NPP-375D | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 18b8cb45-8f7c-38b2-aaa9-53c481d191d2 | -10.48282 | -47.35293 | 2025-03-20 04:02:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 10aa7b99-b63d-3a8c-bb55-8cb142bcfdf9 | -12.9015 | -45.04839 | 2025-03-20 04:02:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a7a99152-eaba-33da-83c5-3a966d6da62e | -19.444 | -54.7708 | 2025-03-21 00:00:00 | GOES-16 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 40.2 |
+| b6255811-20a8-362f-97d5-5d726576f0fa | -30.7106 | -54.1727 | 2025-03-21 00:00:00 | GOES-16 | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 73.2 |
+| 787c4ed6-a240-338a-9cd4-383bf15a49e9 | -11.8921 | -40.956699 | 2025-03-21 00:06:00 | METOP-B | TAPIRAMUTÁ | BAHIA | Brasil | 2931301 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| e8318248-2172-32ab-a73f-a025d8f8990b | -11.8942 | -40.965302 | 2025-03-21 00:06:00 | METOP-B | TAPIRAMUTÁ | BAHIA | Brasil | 2931301 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 783f8436-940b-3842-8ac2-8fe422034866 | -21.1884 | -48.783401 | 2025-03-21 00:06:00 | METOP-B | ARIRANHA | SÃO PAULO | Brasil | 3503703 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6a356d34-92ad-3159-b3e9-0417ffb4cb92 | -11.4868 | -40.0308 | 2025-03-21 00:06:00 | METOP-B | SÃO JOSÉ DO JACUÍPE | BAHIA | Brasil | 2929370 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| fda0ca8a-63a4-377a-8045-37d49b4b2066 | -13.67 | -52.1343 | 2025-03-21 00:58:00 | METOP-C | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| df4993e2-6c54-3d84-938b-92ba41f13094 | -20.917999 | -56.5312 | 2025-03-21 00:58:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 692e990b-f605-307e-8e53-1ad31fc12aa3 | -19.434099 | -54.778099 | 2025-03-21 00:58:00 | METOP-C | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| e1f9a930-c01a-3445-8591-15e585ae55d4 | -19.424299 | -54.780201 | 2025-03-21 00:58:00 | METOP-C | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| eaef9864-a4ae-3531-9c14-703fe8178d60 | -13.6766 | -52.118 | 2025-03-21 00:58:00 | METOP-C | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 98896165-2638-3c7a-a025-0d771a8150cc | -13.6782 | -52.125 | 2025-03-21 00:58:00 | METOP-C | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 3a1657ab-07d5-3db3-b394-31dfe414157c | -20.9203 | -56.5439 | 2025-03-21 00:58:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| dd89fe46-249a-332b-b85f-fa0869bfb9d2 | -19.432199 | -54.768501 | 2025-03-21 00:58:00 | METOP-C | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| f710e74b-a858-3534-aa7c-8c5e2ffacc49 | -13.6798 | -52.132 | 2025-03-21 00:58:00 | METOP-C | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 88fbf5d7-af60-3a11-80e5-4ecaff7c401a | -30.7097 | -54.168598 | 2025-03-21 00:58:00 | METOP-C | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | nan |
+| 693dc534-a798-325e-b647-93cd717359af | -13.6684 | -52.1273 | 2025-03-21 00:58:00 | METOP-C | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 92739f15-01b9-3ef3-9dd6-559677927722 | -19.436001 | -54.787601 | 2025-03-21 00:58:00 | METOP-C | RIO NEGRO | MATO GROSSO DO SUL | Brasil | 5007307 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 2a9ec315-174f-3fea-8141-f7aad7c3dd87 | -23.7526 | -55.415298 | 2025-03-21 00:58:00 | METOP-C | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 93d3b0cb-1721-39da-a966-447206707fc6 | -27.850201 | -50.174301 | 2025-03-21 00:58:00 | METOP-C | LAGES | SANTA CATARINA | Brasil | 4209300 | 42 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| fc644c79-f6f0-3ebc-90e7-02157f241d8f | -23.7624 | -55.4133 | 2025-03-21 00:58:00 | METOP-C | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 57d14ae9-223d-3ee6-b992-d9dcb186cbec | -19.444 | -54.7708 | 2025-03-21 01:10:00 | GOES-16 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 43.6 |
+| 3b146688-6b4f-379b-b3b8-b36ce15669df | -13.6761 | -52.1274 | 2025-03-21 01:10:00 | GOES-16 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 57.8 |
+| 2a342be3-ef27-3a1e-81d2-06a45cb2f856 | -30.7087 | -54.17602 | 2025-03-21 01:15:00 | TERRA_M-M | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 10.8 |
+| f80f7e03-7a8d-3e99-9a5f-55f0940c2d98 | -30.71013 | -54.18768 | 2025-03-21 01:15:00 | TERRA_M-M | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 28.6 |
+| 52530f5e-d53f-3eac-92ed-ac47f48beb96 | -27.85193 | -50.18227 | 2025-03-21 01:15:00 | TERRA_M-M | LAGES | SANTA CATARINA | Brasil | 4209300 | 42 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| 9758b7d2-dd97-39cd-9cf8-ed58111b739a | -30.43858 | -53.48352 | 2025-03-21 01:15:00 | TERRA_M-M | CAÇAPAVA DO SUL | RIO GRANDE DO SUL | Brasil | 4302808 | 43 | 33 | nan | nan | nan | Pampa | 5.7 |
+| c6385571-67be-3632-86dd-0a468b6ee948 | -30.73029 | -54.19588 | 2025-03-21 01:15:00 | TERRA_M-M | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 9.8 |
+| 11b63495-194f-3837-bdb9-41aa3b9d4972 | -30.71806 | -54.17436 | 2025-03-21 01:15:00 | TERRA_M-M | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 6.3 |
+| 525474c8-272f-3993-8afe-8ab1e8341f13 | -19.43722 | -54.78098 | 2025-03-21 01:17:00 | TERRA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| cead1291-8ef6-373b-b7c5-07251362a187 | -19.42964 | -54.79173 | 2025-03-21 01:17:00 | TERRA_M-M | RIO NEGRO | MATO GROSSO DO SUL | Brasil | 5007307 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| e2d8d595-638d-3844-9e6d-1faa05e37328 | -20.93012 | -56.54945 | 2025-03-21 01:17:00 | TERRA_M-M | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 7257dc8b-ef3f-3eaf-b51e-7446cb4abbac | -19.43851 | -54.79035 | 2025-03-21 01:17:00 | TERRA_M-M | RIO NEGRO | MATO GROSSO DO SUL | Brasil | 5007307 | 50 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| c22dfadf-adb0-384f-ae54-b5202c252dd1 | -20.92067 | -56.55075 | 2025-03-21 01:17:00 | TERRA_M-M | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| a42fd997-ba2e-344b-8f54-7862e180cda4 | -20.91932 | -56.54007 | 2025-03-21 01:17:00 | TERRA_M-M | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 0ecdc76d-bea4-36aa-8aad-84ca23ff8ed2 | -23.75884 | -55.43215 | 2025-03-21 01:17:00 | TERRA_M-M | PARANHOS | MATO GROSSO DO SUL | Brasil | 5006358 | 50 | 33 | nan | nan | nan | Mata Atlântica | 15.2 |
+| 426b441c-3126-31eb-a3c1-8bac8763ef60 | -19.42835 | -54.78236 | 2025-03-21 01:17:00 | TERRA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| d45cce43-ff75-391c-903b-f8c75b262b48 | -22.94073 | -51.09841 | 2025-03-21 01:17:00 | TERRA_M-M | PRIMEIRO DE MAIO | PARANÁ | Brasil | 4120507 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
+| c88fef56-1ccf-3bf2-907e-4350e462a79a | -21.11787 | -55.66518 | 2025-03-21 01:17:00 | TERRA_M-M | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| ee1408fc-1d5c-3bf2-928e-b6f5bd900639 | -13.6761 | -52.1274 | 2025-03-21 01:20:00 | GOES-16 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 63.1 |
+| 404c480b-efed-3b63-ac57-8c6c685efd66 | -18.0022 | -54.00968 | 2025-03-21 01:20:00 | TERRA_M-M | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 2c9926ad-eff9-3b73-8826-3eb8a768869c | -12.94164 | -55.94165 | 2025-03-21 01:20:00 | TERRA_M-M | LUCAS DO RIO VERDE | MATO GROSSO | Brasil | 5105259 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| a41bd1eb-aa3b-3d9b-99a3-155fee01d6cb | -15.59554 | -57.3335 | 2025-03-21 01:20:00 | TERRA_M-M | PORTO ESTRELA | MATO GROSSO | Brasil | 5106851 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 2de95245-a4a0-3ca6-9260-944ee5d34237 | -13.67845 | -52.13194 | 2025-03-21 01:20:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 9cce638e-a96b-35ed-a785-5301e07a989d | -13.6682 | -52.13368 | 2025-03-21 01:20:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 26.5 |
+| 4740c054-c72f-3c26-9dc6-827a2411d2aa | -11.95425 | -55.91864 | 2025-03-21 01:20:00 | TERRA_M-M | IPIRANGA DO NORTE | MATO GROSSO | Brasil | 5104526 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 5d3bf7c9-8603-380a-be64-be033bd11ca2 | -6.92782 | -35.13408 | 2025-03-21 03:15:00 | NOAA-21 | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
+| bfa4498c-a8b0-3498-8b91-b73e856620b2 | -6.92349 | -35.13334 | 2025-03-21 03:15:00 | NOAA-21 | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
+| b997a25c-64e6-35f2-972e-3cd6f7ec6838 | -6.92711 | -35.13824 | 2025-03-21 03:15:00 | NOAA-21 | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 89873657-7074-3616-9eda-f71a00045780 | -6.92279 | -35.13749 | 2025-03-21 03:15:00 | NOAA-21 | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| 47acba16-d24a-34c9-b616-6e45457cd546 | -8.86983 | -36.43387 | 2025-03-21 03:17:00 | NOAA-21 | SÃO JOÃO | PERNAMBUCO | Brasil | 2613206 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| aea81a24-6d0c-3c65-9381-74fac9ed95fb | -8.39321 | -35.0255 | 2025-03-21 03:17:00 | NOAA-21 | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 3db7e68c-844e-3c26-bfe2-4ab017422fe0 | -8.38902 | -35.02476 | 2025-03-21 03:17:00 | NOAA-21 | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| b056816a-15ac-3957-9f21-afa944a7e248 | -15.79951 | -42.03601 | 2025-03-21 03:19:00 | NOAA-21 | TAIOBEIRAS | MINAS GERAIS | Brasil | 3168002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.6 |
+| 74a958b0-b1d5-303f-a120-cc981255b708 | -17.46837 | -39.24382 | 2025-03-21 03:19:00 | NOAA-21 | ALCOBAÇA | BAHIA | Brasil | 2900801 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| 01b90758-18d4-3568-ba02-047b179bc4c3 | -18.11861 | -39.68628 | 2025-03-21 03:19:00 | NOAA-21 | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 133941b8-aeec-38ef-9fa3-7228d65826c8 | -19.83396 | -40.11237 | 2025-03-21 03:19:00 | NOAA-21 | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| 522aa21f-1379-36ad-b45f-da6b1853308e | -18.11999 | -39.6837 | 2025-03-21 03:19:00 | NOAA-21 | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| ea1870d3-3543-3bd4-bbfb-86ebd6d6b2a6 | -17.46365 | -39.24285 | 2025-03-21 03:19:00 | NOAA-21 | ALCOBAÇA | BAHIA | Brasil | 2900801 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| e1c6886c-93aa-33a3-9e2c-e4f6a7da79c9 | -13.35924 | -41.3413 | 2025-03-21 03:19:00 | NOAA-21 | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| e685638c-6c81-3b60-9ee1-170019f7cc47 | -15.80046 | -42.03155 | 2025-03-21 03:19:00 | NOAA-21 | TAIOBEIRAS | MINAS GERAIS | Brasil | 3168002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.6 |
+| 57c31169-e81b-3258-a365-efc518a7cc1c | -20.12735 | -46.78954 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| c4b6dee0-1958-3ad6-95db-fb1438746232 | -20.11851 | -46.76571 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 53d7d9d1-043a-3144-88ff-bb7bf8a6c36f | -20.20727 | -46.67606 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 05ce7bbf-6aac-3dd0-978e-9d3a604502ee | -20.11835 | -46.77675 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 83919f6f-9320-3e89-93ba-e6d34180b908 | -20.12199 | -46.78134 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 40a93e3c-5498-3730-ba78-a8f05a806e20 | -20.12391 | -46.7737 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 0979cbfa-c2bd-3421-a750-dc7c2fbb1a95 | -20.13098 | -46.77504 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 7d6abf95-5f8a-3af8-b560-73422367d6d8 | -20.11663 | -46.77316 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| 2235005a-e8ca-3433-826a-8337f31065d9 | -20.12021 | -46.7691 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| 15785763-36d9-334c-a536-53fd78b349e0 | -20.13084 | -46.7862 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 3caf29b3-8568-3537-95f1-a355758df43f | -20.1255 | -46.77776 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| b982de2b-b037-3939-96bb-8277809f9985 | -20.11274 | -46.76941 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| bb2aad65-a119-31f7-a99d-848e2dc9aca0 | -20.12915 | -46.78237 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| be1f83f8-c34a-309b-83e5-283df3d98d57 | -20.21334 | -46.68123 | 2025-03-21 03:21:00 | NOAA-21 | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 455734bd-0066-34d6-bb8e-795f7d7a3043 | -2.92984 | -39.98148 | 2025-03-21 03:40:00 | NPP-375D | ACARAÚ | CEARÁ | Brasil | 2300200 | 23 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 68de3edb-d4b9-3407-b7cb-fcfb9762d614 | -8.39204 | -35.0257 | 2025-03-21 03:42:00 | NPP-375D | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 6053f965-49b8-309b-af9a-c5c1876d3835 | -6.9268 | -35.13691 | 2025-03-21 03:42:00 | NPP-375D | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| c7a558b1-047f-3ff3-ab4a-642f057357fb | -8.67445 | -36.24018 | 2025-03-21 03:42:00 | NPP-375D | LAJEDO | PERNAMBUCO | Brasil | 2608800 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| a1688525-edba-3377-acc4-733b866780f1 | -6.92735 | -35.13344 | 2025-03-21 03:42:00 | NPP-375D | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 45a1f49c-1b12-32fb-a3c4-ab20fe44c62a | -8.87038 | -36.43391 | 2025-03-21 03:42:00 | NPP-375D | SÃO JOÃO | PERNAMBUCO | Brasil | 2613206 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 84519d4f-eba3-3274-b89e-c9270da05dff | -8.38916 | -35.02551 | 2025-03-21 03:42:00 | NPP-375D | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| ba5b8e78-07f4-3a0a-bcfa-7f0522a68bb8 | -8.8791 | -36.52938 | 2025-03-21 03:42:00 | NPP-375D | GARANHUNS | PERNAMBUCO | Brasil | 2606002 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 098e5372-6745-3214-9034-10b08d7ec933 | -7.21875 | -35.79257 | 2025-03-21 03:42:00 | NPP-375D | MASSARANDUBA | PARAÍBA | Brasil | 2509206 | 25 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 1925e5db-31e1-3f1e-83ab-acf4f3f947e8 | -9.11515 | -40.61827 | 2025-03-21 03:42:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 0b7c1086-2044-341c-9bac-4b73fa329350 | -9.11575 | -40.6148 | 2025-03-21 03:42:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 188e9bcb-34b0-3fd4-9738-eb06e037a1a9 | -8.87372 | -36.43443 | 2025-03-21 03:42:00 | NPP-375D | SÃO JOÃO | PERNAMBUCO | Brasil | 2613206 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 5e1faa08-9416-3418-ae02-e18ba41502a2 | -6.92403 | -35.13292 | 2025-03-21 03:42:00 | NPP-375D | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 2d7dd61c-a133-387a-bc4d-f4d18e86a3f2 | -6.92348 | -35.13639 | 2025-03-21 03:42:00 | NPP-375D | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 296a7fe4-5453-3926-8b4f-02523a929a79 | -10.36655 | -38.27422 | 2025-03-21 03:45:00 | NPP-375D | ANTAS | BAHIA | Brasil | 2901601 | 29 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| c7007e80-44c9-3e63-b0f6-75993050d1cd | -12.78467 | -45.40157 | 2025-03-21 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| d31ed6bc-9a1b-3c09-8440-a109460d5fc2 | -12.04747 | -40.47612 | 2025-03-21 03:45:00 | NPP-375D | MUNDO NOVO | BAHIA | Brasil | 2922102 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 8ecbc96d-b24f-3fc5-9bdc-15b202def092 | -15.80361 | -42.02842 | 2025-03-21 03:45:00 | NPP-375D | TAIOBEIRAS | MINAS GERAIS | Brasil | 3168002 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
+| 70eb22f9-de48-334f-a1bf-62f07ca48959 | -13.3598 | -41.34146 | 2025-03-21 03:45:00 | NPP-375D | IBICOARA | BAHIA | Brasil | 2912202 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 77fb3133-cbbb-313e-8e80-9dfead9a8fe5 | -10.52734 | -37.34153 | 2025-03-21 03:45:00 | NPP-375D | RIBEIRÓPOLIS | SERGIPE | Brasil | 2806008 | 28 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 2449e032-2334-3070-a61a-253331ddbdc8 | -12.77792 | -45.40403 | 2025-03-21 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a9a86555-d113-3d6a-a891-680b7a5f5da7 | -10.24464 | -40.51315 | 2025-03-21 03:45:00 | NPP-375D | CAMPO FORMOSO | BAHIA | Brasil | 2906006 | 29 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 1da32e50-bfd2-3057-8f53-8e0279356e56 | -16.13611 | -42.32877 | 2025-03-21 03:45:00 | NPP-375D | SALINAS | MINAS GERAIS | Brasil | 3157005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| cbc9bb1e-1412-3fba-8a64-da1e383668f3 | -12.05078 | -40.47416 | 2025-03-21 03:45:00 | NPP-375D | MUNDO NOVO | BAHIA | Brasil | 2922102 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 59f7cb0e-850a-3350-8bef-4738cac9ed5a | -12.78981 | -45.40266 | 2025-03-21 03:45:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)

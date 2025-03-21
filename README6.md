@@ -29,49 +29,57 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 72a58410-f425-316c-b3ed-e4803de1cf49 | -30.20347 | -53.60917 | 2025-03-19 04:51:00 | NOAA-20 | SÃO SEPÉ | RIO GRANDE DO SUL | Brasil | 4319604 | 43 | 33 | nan | nan | nan | Pampa | 0.8 |
-| 7b16d7c8-7c25-31aa-9855-bbc988550653 | -31.73365 | -53.9026 | 2025-03-19 04:51:00 | NOAA-20 | HULHA NEGRA | RIO GRANDE DO SUL | Brasil | 4309654 | 43 | 33 | nan | nan | nan | Pampa | 1.0 |
-| d9c6bbf5-7e2a-3511-9403-2aeddb410b6b | -30.35703 | -54.2906 | 2025-03-19 04:51:00 | NOAA-20 | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 4.2 |
-| dfd3ae58-7bf1-3383-a345-f56a404a1c09 | 3.87697 | -60.94904 | 2025-03-19 05:33:00 | NOAA-21 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| d80943e6-09e0-39fe-b4b4-5f30fb83fe3f | 3.87973 | -60.9451 | 2025-03-19 05:33:00 | NOAA-21 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 2a699039-ba75-3849-8940-634b44c3c6b0 | -16.16245 | -60.11308 | 2025-03-19 05:38:00 | NOAA-21 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d10715a9-8e27-3a83-be9e-6c5ab8e00eda | -13.28137 | -54.38438 | 2025-03-19 05:38:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| 3669f45e-1c1e-3fc8-99fc-4e93481182cf | 3.88375 | -60.94427 | 2025-03-19 05:57:00 | NPP-375D | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 02cb8cb8-ea13-3e96-9eb5-0029ec998cbb | 3.87928 | -60.94535 | 2025-03-19 05:57:00 | NPP-375D | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| f50581fe-a25f-3bad-8e68-7db52877b95d | -13.2595 | -54.3283 | 2025-03-19 08:00:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 60.6 |
-| a9dcb8f4-5206-3a11-b035-e9ea1f70c9a3 | -13.2592 | -54.3489 | 2025-03-19 08:00:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 64.1 |
-| 17689428-f2e8-3f73-a31a-ae4a758f98ad | -13.2595 | -54.3283 | 2025-03-19 08:10:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 75.3 |
-| 3254e99d-9dfe-3b95-a920-5e8fa684854b | -13.2783 | -54.3469 | 2025-03-19 08:10:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 58.4 |
-| f0e9b57b-3b0d-35e0-9213-617cb785acde | -13.2592 | -54.3489 | 2025-03-19 08:10:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 80.9 |
-| 686cdaa9-98da-30a6-8e0a-6db45294c77f | -13.2786 | -54.3262 | 2025-03-19 08:10:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 52.3 |
-| ccef5f2e-7b07-3adb-b4d5-e2f92525063e | -13.2595 | -54.3283 | 2025-03-19 08:20:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 62.7 |
-| 8d3ba814-095a-3d89-a096-7836a298801f | -13.2786 | -54.3262 | 2025-03-19 08:20:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 57.5 |
-| 59fa8d17-6708-31b2-8db8-f04033c304a9 | -13.2783 | -54.3469 | 2025-03-19 08:20:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 53.1 |
-| af71fc82-fd22-324b-a8e8-c1ce2f7642cb | -13.2592 | -54.3489 | 2025-03-19 08:20:00 | GOES-16 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 55.1 |
-| c811cf3b-0e79-3a49-9ee8-226774d6823b | -12.8995 | -45.0316 | 2025-03-19 12:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 139.4 |
-| 1b3dea56-6749-30f3-9256-24ea6d88dacd | -12.899 | -45.0549 | 2025-03-19 12:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 76.4 |
-| 09c2724b-1e1c-3061-bafd-d190fe752fa2 | -12.8995 | -45.0316 | 2025-03-19 12:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 202.4 |
-| c93b04e5-9f41-3024-8572-60e15484341c | -12.899 | -45.0549 | 2025-03-19 13:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 100.9 |
-| 0ea36f12-80aa-3a4c-b88f-d455ad491c28 | -12.8995 | -45.0316 | 2025-03-19 13:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 231.6 |
-| 58b38723-32a8-3d4b-b0aa-f5163ad2f817 | -12.899 | -45.0549 | 2025-03-19 13:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 126.0 |
-| af7659c7-dd81-31c6-b841-18b87774ab6b | -12.8995 | -45.0316 | 2025-03-19 13:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 301.8 |
-| f5c4db89-48b9-32cc-8942-d841036ae2e4 | -12.899 | -45.0549 | 2025-03-19 13:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 125.3 |
-| 40e94c7b-5e00-3d45-bf8a-66c17f02acc3 | -12.8995 | -45.0316 | 2025-03-19 13:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 290.2 |
-| 9115f208-e662-3742-92ec-373e4b07d96e | -12.0812 | -45.6195 | 2025-03-19 13:30:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 131.8 |
-| 2b6bae91-b3f7-3d39-b55a-ae0d50c8c875 | -12.8995 | -45.0316 | 2025-03-19 13:30:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 204.2 |
-| 5c08d1c9-678a-3a52-b642-b2546c6027d0 | -12.0812 | -45.6195 | 2025-03-19 13:40:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 129.7 |
-| 5b0a492e-9716-34ee-9709-654abed6ecd7 | -12.0808 | -45.6425 | 2025-03-19 13:40:00 | GOES-16 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 85.2 |
-| f13dbd98-c088-3077-a771-e241d0055c47 | -12.0812 | -45.6195 | 2025-03-19 13:50:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 142.9 |
-| 0fd7221b-92c2-3add-8da4-ae151a1f1555 | -17.5193 | -40.0383 | 2025-03-19 14:00:00 | GOES-16 | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 98.3 |
-| f25b98b6-9f00-380b-82ff-52e4548eaba0 | -12.1 | -45.6396 | 2025-03-19 14:00:00 | GOES-16 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 95.2 |
-| 8871d9d3-e113-348b-a66f-07603231a949 | -12.0812 | -45.6195 | 2025-03-19 14:00:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 167.6 |
-| db3de50f-fbf2-3216-a811-edd74a9c7b51 | -12.8995 | -45.0316 | 2025-03-19 14:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 291.5 |
-| 829684e2-0d44-3193-ab13-559a7a9a8a5c | -12.1 | -45.6396 | 2025-03-19 14:10:00 | GOES-16 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 175.3 |
-| 2826f3ac-7258-3750-b90a-660e132bbbb7 | -12.0812 | -45.6195 | 2025-03-19 14:10:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 174.9 |
-| 870c4e29-efd3-3693-b2e7-7c0d2428df20 | -17.5193 | -40.0383 | 2025-03-19 14:20:00 | GOES-16 | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 111.5 |
-| 3cd5add9-09e1-3e7d-a0b8-bfcbeef41e3a | -12.8995 | -45.0316 | 2025-03-19 14:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 273.5 |
-| 312bdca9-d8aa-3970-bc57-e57ad27eb1df | -12.0812 | -45.6195 | 2025-03-19 14:20:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 180.9 |
-| 52c8be8a-6a87-3153-b04a-a59e33d3c80f | -12.0812 | -45.6195 | 2025-03-19 14:30:00 | GOES-16 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 158.2 |
-| df55e7fc-0763-3705-ae08-f07026798acf | -17.5193 | -40.0383 | 2025-03-19 14:30:00 | GOES-16 | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 177.9 |
+| 171288b1-c414-3f36-8086-228a02e138c5 | -30.71371 | -54.1819 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 4.7 |
+| cf8dd5fd-95f3-3181-8854-b8dba73056a8 | -30.73155 | -54.18454 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
+| b846a516-00b8-3724-9127-8ccb60fe7154 | -30.72915 | -54.18927 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 2.5 |
+| 1f85cf0f-4794-3335-8de8-6073559478a6 | -30.71453 | -54.1682 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 1.5 |
+| 1a0c9109-268e-3ae9-b98d-57a4e62d9c2e | -30.71164 | -54.18184 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 3.5 |
+| 39298146-4c18-3198-833e-4764e5d7e4e1 | -30.71344 | -54.18645 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 3.3 |
+| 2da21a25-d9d3-3eb9-992b-b75079fb3e9f | -30.71135 | -54.18633 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 3.5 |
+| 271f9275-b129-3cdc-84d0-01cc4abc483a | -30.72884 | -54.1939 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 2.6 |
+| b88bdd52-178b-3bbb-b3a5-74cb2d01977e | -30.73481 | -54.1944 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 2.6 |
+| 441a8e85-7099-3047-b7fd-0e52da953c58 | -30.70774 | -54.18142 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 1.3 |
+| ceed969b-ec53-373c-8ea3-f1c257b0ace4 | -30.73126 | -54.18941 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 2.9 |
+| 5aa47175-fa2b-32af-9d10-53587a0fab10 | -30.73098 | -54.19406 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 2.9 |
+| 366cc33c-dc29-3e37-b461-6d898e3f6449 | -30.7148 | -54.16357 | 2025-03-21 05:29:00 | NPP-375D | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
+| cbfd42a4-313e-375b-b73b-077c5c4e4180 | -19.42573 | -54.78091 | 2025-03-21 05:44:00 | AQUA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| a882dcc0-cc81-3e4f-b20b-b5bf810fd322 | -19.43617 | -54.78307 | 2025-03-21 05:44:00 | AQUA_M-M | RIO NEGRO | MATO GROSSO DO SUL | Brasil | 5007307 | 50 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| e36793ee-c36a-3e27-88e9-e0b9bcee5e12 | -13.66851 | -52.12641 | 2025-03-21 05:44:00 | AQUA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 2e96d16e-934e-39dc-975d-81b8e4cc3fb8 | 2.59712 | -61.29834 | 2025-03-21 05:44:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 81e9ff9d-ec99-3139-a716-3534d2be2d0e | -0.2575 | -65.07442 | 2025-03-21 05:44:00 | NOAA-20 | SANTA ISABEL DO RIO NEGRO | AMAZONAS | Brasil | 1303601 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| a05598d6-4455-3648-b483-80e416e93c02 | 3.87317 | -59.65514 | 2025-03-21 05:44:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1b469584-11af-3b76-aa88-ff1d7736253f | 2.51778 | -60.99284 | 2025-03-21 05:44:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ce4d2161-b866-3879-95b2-388af42d5901 | -30.72719 | -54.19142 | 2025-03-21 05:46:00 | AQUA_M-M | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 7.7 |
+| cb2162ed-c9e8-39e8-84a7-ddaaa3bc3c2f | -30.71102 | -54.17742 | 2025-03-21 05:46:00 | AQUA_M-M | SÃO GABRIEL | RIO GRANDE DO SUL | Brasil | 4318309 | 43 | 33 | nan | nan | nan | Pampa | 9.6 |
+| c75d9339-eff2-3070-9f32-f7c45c0cb306 | -7.93265 | -61.55627 | 2025-03-21 05:46:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 134c604c-24db-391c-9020-321697fdbff1 | -7.93001 | -61.55561 | 2025-03-21 05:46:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5c966e0f-029b-3694-8dec-026d8b9398b3 | -12.25977 | -63.80214 | 2025-03-21 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c96a84a2-6deb-3cbb-9d6d-78f1b3b442e7 | -15.5954 | -57.33069 | 2025-03-21 05:48:00 | NOAA-20 | PORTO ESTRELA | MATO GROSSO | Brasil | 5106851 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5b6b682c-9d9a-3d62-bc0b-5a4d31f5cffb | -15.59488 | -57.33563 | 2025-03-21 05:48:00 | NOAA-20 | PORTO ESTRELA | MATO GROSSO | Brasil | 5106851 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 17dd4f45-8467-3892-ad27-98f26da7de15 | -12.2577 | -63.80397 | 2025-03-21 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| cea3be66-9991-337b-a027-657ba3df3634 | -12.26155 | -63.80452 | 2025-03-21 05:48:00 | NOAA-20 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| d65421b6-ca6c-3e24-93ce-b67ac71dfd80 | -12.12775 | -63.66673 | 2025-03-21 05:48:00 | NOAA-20 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 976059fa-9f97-3410-bf79-a035f84f130f | -12.73322 | -57.26674 | 2025-03-21 05:48:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4fb52011-2a3d-3a0a-978a-dcf2a050571d | -20.92183 | -56.5472 | 2025-03-21 05:50:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 0081d290-a577-3026-93fc-9677aafa36ea | -20.9273 | -56.54743 | 2025-03-21 05:50:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 91a1f600-1276-3389-96bb-0641a4ec6234 | -20.92046 | -56.54724 | 2025-03-21 05:50:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| c9bcd3ae-e7a4-3716-98f7-079a0afdff6f | -9.45269 | -36.80079 | 2025-03-21 12:06:00 | TERRA_M-T | ESTRELA DE ALAGOAS | ALAGOAS | Brasil | 2702553 | 27 | 33 | nan | nan | nan | Caatinga | 16.5 |
+| 5a02c4e3-b7ea-3984-9da8-86f95fb8b2f3 | -9.17003 | -38.45871 | 2025-03-21 12:06:00 | TERRA_M-T | GLÓRIA | BAHIA | Brasil | 2911402 | 29 | 33 | nan | nan | nan | Caatinga | 6.9 |
+| 51fc8c41-83e3-3557-ba36-88e6831c1541 | -10.82615 | -39.48929 | 2025-03-21 12:06:00 | TERRA_M-T | NORDESTINA | BAHIA | Brasil | 2922656 | 29 | 33 | nan | nan | nan | Caatinga | 9.0 |
+| f8b0b4b7-e3bc-3d96-a2d8-395925d80167 | -12.26611 | -38.83687 | 2025-03-21 12:06:00 | TERRA_M-T | CORAÇÃO DE MARIA | BAHIA | Brasil | 2908903 | 29 | 33 | nan | nan | nan | Caatinga | 29.1 |
+| 5581f00a-678d-399a-b94a-aac1b95abec2 | -10.8248 | -39.49902 | 2025-03-21 12:06:00 | TERRA_M-T | NORDESTINA | BAHIA | Brasil | 2922656 | 29 | 33 | nan | nan | nan | Caatinga | 9.9 |
+| f01df838-e236-38b5-83ea-5d9f454d2839 | -12.4161 | -38.39342 | 2025-03-21 12:06:00 | TERRA_M-T | CATU | BAHIA | Brasil | 2907509 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| 255e56fa-2f28-344d-8530-45094edb9374 | -10.08478 | -39.31813 | 2025-03-21 12:06:00 | TERRA_M-T | UAUÁ | BAHIA | Brasil | 2932002 | 29 | 33 | nan | nan | nan | Caatinga | 51.8 |
+| b8ff0967-31a9-32a8-b107-da1c97c1f3e3 | -12.67545 | -38.28428 | 2025-03-21 12:06:00 | TERRA_M-T | CAMAÇARI | BAHIA | Brasil | 2905701 | 29 | 33 | nan | nan | nan | Mata Atlântica | 11.8 |
+| fa1ecaff-adeb-3d5c-ae2e-1631c78bc5a4 | -12.31857 | -40.41967 | 2025-03-21 12:06:00 | TERRA_M-T | ITABERABA | BAHIA | Brasil | 2914703 | 29 | 33 | nan | nan | nan | Caatinga | 7.3 |
+| ab366a80-23e8-3704-8626-3d963c440de6 | -12.31986 | -40.41036 | 2025-03-21 12:06:00 | TERRA_M-T | ITABERABA | BAHIA | Brasil | 2914703 | 29 | 33 | nan | nan | nan | Caatinga | 7.6 |
+| ab8c94ea-cdf6-3c38-8a49-36470ccc0c3a | -12.26753 | -38.82616 | 2025-03-21 12:06:00 | TERRA_M-T | CORAÇÃO DE MARIA | BAHIA | Brasil | 2908903 | 29 | 33 | nan | nan | nan | Caatinga | 22.1 |
+| 7eb3c041-da2a-3983-a084-b13d1e721aac | -10.09398 | -39.31942 | 2025-03-21 12:06:00 | TERRA_M-T | UAUÁ | BAHIA | Brasil | 2932002 | 29 | 33 | nan | nan | nan | Caatinga | 23.1 |
+| 2842c71e-300e-3bb8-9ba6-c6d47d0b514f | -11.06929 | -38.60032 | 2025-03-21 12:06:00 | TERRA_M-T | TUCANO | BAHIA | Brasil | 2931905 | 29 | 33 | nan | nan | nan | Caatinga | 23.1 |
+| ed99a878-e2b0-374a-916d-82872e6f9f9d | -16.03029 | -43.33987 | 2025-03-21 12:08:00 | TERRA_M-T | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 2c74cfed-0e54-32ed-9269-5c8639d8fbe8 | -16.38311 | -39.43093 | 2025-03-21 12:08:00 | TERRA_M-T | SANTA CRUZ CABRÁLIA | BAHIA | Brasil | 2927705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 817b22bb-c82d-307f-b5b8-18f3a2be5c88 | -13.68109 | -42.99696 | 2025-03-21 12:08:00 | TERRA_M-T | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 47.1 |
+| 5da05013-1dd9-3900-bdad-51b0881a07b9 | -13.69144 | -42.99509 | 2025-03-21 12:08:00 | TERRA_M-T | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 9.9 |
+| a3249890-2d87-3dd4-a8ae-c399033bc297 | -15.82133 | -40.19543 | 2025-03-21 12:08:00 | TERRA_M-T | ITARANTIM | BAHIA | Brasil | 2916807 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
 
 
