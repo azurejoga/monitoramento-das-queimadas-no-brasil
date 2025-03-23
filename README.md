@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 49f102dd-4974-3367-8d98-724363f7debc | -20.22178 | -46.68554 | 2025-03-22 00:20:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 40.3 |
-| 667ba965-df9c-31b3-8112-35102d1ef08a | -19.65187 | -40.18789 | 2025-03-22 00:20:00 | TERRA_M-M | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
-| ef407c50-f505-323b-bb48-6a62f8ed18a2 | -14.15298 | -42.85152 | 2025-03-22 00:20:00 | TERRA_M-M | GUANAMBI | BAHIA | Brasil | 2911709 | 29 | 33 | nan | nan | nan | Caatinga | 15.3 |
-| ee5d4910-d77a-381f-a343-4dc74933f725 | -16.03787 | -40.80593 | 2025-03-22 00:20:00 | TERRA_M-M | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.8 |
-| b1bc374a-047a-3d94-9d67-035f923f1a14 | -20.21931 | -46.66105 | 2025-03-22 00:20:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 28463758-98e9-3efd-b975-ae81744c2582 | -14.6892 | -40.50784 | 2025-03-22 00:20:00 | TERRA_M-M | PLANALTO | BAHIA | Brasil | 2925006 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.5 |
-| a5ccc6f1-da65-36c4-b54b-d0a2f1fe7b5e | -13.13559 | -40.20951 | 2025-03-22 00:20:00 | TERRA_M-M | PLANALTINO | BAHIA | Brasil | 2924900 | 29 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| d91526b4-e5b3-3aed-b8dd-d5826010139a | -9.71654 | -37.83704 | 2025-03-22 00:22:00 | TERRA_M-M | CANINDÉ DE SÃO FRANCISCO | SERGIPE | Brasil | 2801207 | 28 | 33 | nan | nan | nan | Caatinga | 10.6 |
-| dcaad232-f1d8-346f-bc6f-8f8b9d908922 | -12.36744 | -41.42657 | 2025-03-22 00:22:00 | TERRA_M-M | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| b81dccb5-f9f9-3cdf-9815-585e6459ee59 | -11.91785 | -41.23249 | 2025-03-22 00:22:00 | TERRA_M-M | BONITO | BAHIA | Brasil | 2904050 | 29 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| 5dfafa81-b04f-3ca8-9805-ac8ce92aeb1f | -8.27115 | -39.12647 | 2025-03-22 00:22:00 | TERRA_M-M | SALGUEIRO | PERNAMBUCO | Brasil | 2612208 | 26 | 33 | nan | nan | nan | Caatinga | 16.6 |
-| e507d009-7ec9-36c1-a27c-ccfeb16ed1a1 | -8.26121 | -39.12796 | 2025-03-22 00:22:00 | TERRA_M-M | SALGUEIRO | PERNAMBUCO | Brasil | 2612208 | 26 | 33 | nan | nan | nan | Caatinga | 10.2 |
-| c735e1ee-8927-34a3-8364-32985e9e89df | -7.06652 | -35.06477 | 2025-03-22 00:22:00 | TERRA_M-M | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 97.6 |
-| 287c6bdb-12a4-339a-99fb-a789515eb0dc | -7.06272 | -35.04071 | 2025-03-22 00:22:00 | TERRA_M-M | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 33.3 |
-| ab14dfac-748a-3292-8227-ac10151a7490 | -12.3687 | -41.43557 | 2025-03-22 00:22:00 | TERRA_M-M | IRAQUARA | BAHIA | Brasil | 2914406 | 29 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| 3f6657c2-8474-3920-9ca6-e4baa4e3df63 | -12.41195 | -39.15636 | 2025-03-22 00:22:00 | TERRA_M-M | ANTÔNIO CARDOSO | BAHIA | Brasil | 2901700 | 29 | 33 | nan | nan | nan | Mata Atlântica | 16.3 |
-| a7f39637-4877-3c62-b31e-b0b623364e79 | -14.1607 | -42.844799 | 2025-03-22 00:37:00 | METOP-C | GUANAMBI | BAHIA | Brasil | 2911709 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 74fb3c5e-d0a2-30d6-84f6-289a6bebb920 | -20.1404 | -50.714802 | 2025-03-22 00:37:00 | METOP-C | SANTA ALBERTINA | SÃO PAULO | Brasil | 3545704 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 31711fc0-695a-3cf3-8c04-a4bc0d3d399e | -20.2183 | -46.680302 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 31dd6a30-8074-35ae-bb3b-255af99ed258 | -21.1731 | -53.0653 | 2025-03-22 00:37:00 | METOP-C | SANTA RITA DO PARDO | MATO GROSSO DO SUL | Brasil | 5007554 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 02de6d27-aeeb-3959-8230-3c067e35cd74 | -20.224899 | -46.662899 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 054b4f12-b0db-326f-ae36-f12a9983df81 | -20.2265 | -46.670502 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| c85aa3e0-0347-32df-94dd-beda59a713db | -12.3732 | -41.423801 | 2025-03-22 00:37:00 | METOP-C | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| a1931f48-d933-3e68-b6d3-4546c70538f7 | -20.180799 | -46.696999 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 68f0fd9c-a747-3e8a-9193-f3d6216d9d28 | -20.1824 | -46.704498 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 3ab03df6-8e7b-3ee4-b1b8-b17172419c8f | -20.2167 | -46.672798 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 38d36e5e-061a-3186-ba69-f131a28f5210 | -22.719299 | -55.5751 | 2025-03-22 00:37:00 | METOP-C | PONTA PORÃ | MATO GROSSO DO SUL | Brasil | 5006606 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c0ff4b76-826e-357b-8662-3795cdf38825 | -20.1425 | -50.7262 | 2025-03-22 00:37:00 | METOP-C | ASPÁSIA | SÃO PAULO | Brasil | 3503950 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 12c6a8c6-a49d-372e-a9e1-a9ad359bd6a5 | -22.715401 | -55.5495 | 2025-03-22 00:37:00 | METOP-C | PONTA PORÃ | MATO GROSSO DO SUL | Brasil | 5006606 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 8d3c2a05-04cc-35a2-b473-f68342812a8a | -20.2199 | -46.687801 | 2025-03-22 00:37:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| f5b8bbbc-a438-3255-95b9-27194b8931c4 | -22.7356 | -55.571201 | 2025-03-22 01:27:00 | METOP-B | ARAL MOREIRA | MATO GROSSO DO SUL | Brasil | 5001243 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 2e4bcde2-30c8-3df5-b59b-e8db08b17c66 | -22.732401 | -55.558498 | 2025-03-22 01:27:00 | METOP-B | PONTA PORÃ | MATO GROSSO DO SUL | Brasil | 5006606 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| e1485dd5-df02-3e7d-9e3d-4fd5ad70d275 | -9.71516 | -37.83771 | 2025-03-22 02:58:00 | NOAA-21 | CANINDÉ DE SÃO FRANCISCO | SERGIPE | Brasil | 2801207 | 28 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 0aaf6ed3-f750-3e00-b595-a4c8aae8cd5e | -8.39002 | -35.02814 | 2025-03-22 02:58:00 | NOAA-21 | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
-| 5cf21400-0402-3647-98ac-767ac3921887 | -4.90391 | -37.4296 | 2025-03-22 03:21:00 | NPP-375D | TIBAU | RIO GRANDE DO NORTE | Brasil | 2411056 | 24 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| e768c7d2-93fe-3954-985f-89adeb6ecc69 | -4.67232 | -38.06152 | 2025-03-22 03:21:00 | NPP-375D | PALHANO | CEARÁ | Brasil | 2310001 | 23 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| e37488f9-3bcc-39e1-9641-bda99c9fbbfa | -4.67274 | -38.0606 | 2025-03-22 03:21:00 | NPP-375D | PALHANO | CEARÁ | Brasil | 2310001 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 681e6884-3a8f-357b-88a6-e4c086913cf8 | -9.71338 | -37.8372 | 2025-03-22 03:23:00 | NPP-375D | CANINDÉ DE SÃO FRANCISCO | SERGIPE | Brasil | 2801207 | 28 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 0fb44af5-7f66-307b-9245-d8dda97e6f01 | -8.90963 | -37.84242 | 2025-03-22 03:23:00 | NPP-375D | INAJÁ | PERNAMBUCO | Brasil | 2607000 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 2bd9052d-ad29-3706-94d4-47e18be94b0c | -7.47547 | -34.84296 | 2025-03-22 03:23:00 | NPP-375D | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 95a018d1-6e15-3f34-8102-3bf0ef595fbe | -8.81415 | -38.92472 | 2025-03-22 03:23:00 | NPP-375D | RODELAS | BAHIA | Brasil | 2927101 | 29 | 33 | nan | nan | nan | Caatinga | 5.8 |
-| fec48d47-ffcf-36ea-8c9a-929bad86cf67 | -11.62145 | -38.05244 | 2025-03-22 03:23:00 | NPP-375D | ACAJUTIBA | BAHIA | Brasil | 2900306 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 4a1fb445-c898-34f2-ab6d-fbc35b99cd06 | -8.81322 | -38.9283 | 2025-03-22 03:23:00 | NPP-375D | RODELAS | BAHIA | Brasil | 2927101 | 29 | 33 | nan | nan | nan | Caatinga | 8.8 |
-| 5a220e89-3196-33bf-b6f1-5c7edfa6dcf2 | -7.22215 | -35.61341 | 2025-03-22 03:23:00 | NPP-375D | INGÁ | PARAÍBA | Brasil | 2506806 | 25 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| be24ac97-dbc8-3fa3-bc18-d57794b6feea | -8.07358 | -34.97641 | 2025-03-22 03:23:00 | NPP-375D | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 270bedc6-56a1-3f51-8d2b-9047f0ef039a | -12.3622 | -41.42542 | 2025-03-22 03:25:00 | NPP-375D | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| fc059aab-4807-3f9c-a793-3d887d7e1577 | -13.24945 | -41.33088 | 2025-03-22 03:25:00 | NPP-375D | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 4a167544-bbb7-36e1-a676-a62a748a852c | -19.83172 | -40.11261 | 2025-03-22 03:25:00 | NPP-375D | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 0d0986b8-059b-3f55-b626-beaa55c16dac | -13.28913 | -39.1688 | 2025-03-22 03:25:00 | NPP-375D | VALENÇA | BAHIA | Brasil | 2932903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 99d86001-e56b-375d-b6d9-6520c86332ee | -13.25482 | -41.33185 | 2025-03-22 03:25:00 | NPP-375D | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 13.1 |
-| b179152b-97f7-3777-b34e-e4413589a348 | -12.35672 | -41.42436 | 2025-03-22 03:25:00 | NPP-375D | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| d39cf4e8-1c6a-3fb4-9bff-f9e5c59bc761 | -13.25416 | -41.33514 | 2025-03-22 03:25:00 | NPP-375D | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| 8b780221-f82c-397c-9726-e68e53e51d3f | -15.42988 | -39.47642 | 2025-03-22 03:25:00 | NPP-375D | CAMACAN | BAHIA | Brasil | 2905602 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| f8235c21-ed93-32d7-b765-e4c620b76d19 | -13.25349 | -41.33854 | 2025-03-22 03:25:00 | NPP-375D | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| 66ae5a29-cfc4-3469-9096-d5f4d6696d50 | -13.24878 | -41.33426 | 2025-03-22 03:25:00 | NPP-375D | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| 95a98122-b273-3748-a30c-24b662b8a6c9 | -20.21924 | -46.68063 | 2025-03-22 03:28:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b9eccc5f-5669-3ecd-b858-863c0481d27d | -20.22541 | -46.68341 | 2025-03-22 03:28:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| dc4f1fe5-ef3b-3bd1-8657-1c20bcacd34e | -20.22074 | -46.67432 | 2025-03-22 03:28:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| eb45488e-6329-326c-88ec-8b1da45b2810 | -20.22679 | -46.6776 | 2025-03-22 03:28:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| d4db23e8-ffe8-362f-a69e-1699fe2f523f | -27.74045 | -50.42524 | 2025-03-22 03:30:00 | NPP-375D | SÃO JOSÉ DO CERRITO | SANTA CATARINA | Brasil | 4216800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 964391eb-00e5-38c1-ac95-7187b70ddceb | -27.73933 | -50.42554 | 2025-03-22 03:30:00 | NPP-375D | SÃO JOSÉ DO CERRITO | SANTA CATARINA | Brasil | 4216800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 0892eff5-0600-36ef-b221-621d57322082 | -28.93899 | -51.40213 | 2025-03-22 03:30:00 | NPP-375D | NOVA ROMA DO SUL | RIO GRANDE DO SUL | Brasil | 4313359 | 43 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 8f22de32-ef20-32c5-a46f-c591fed020db | -29.52114 | -50.68064 | 2025-03-22 03:30:00 | NPP-375D | TAQUARA | RIO GRANDE DO SUL | Brasil | 4321204 | 43 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 49049368-9e96-3964-852f-073a39c8915e | -27.73385 | -50.4228 | 2025-03-22 03:30:00 | NPP-375D | SÃO JOSÉ DO CERRITO | SANTA CATARINA | Brasil | 4216800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| acd6cc6d-4beb-3d0d-b6b2-d901d662258d | -29.51792 | -50.6782 | 2025-03-22 03:30:00 | NPP-375D | TAQUARA | RIO GRANDE DO SUL | Brasil | 4321204 | 43 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 92558486-e5c7-3085-9acf-f4e3c083f3c1 | -27.73274 | -50.42309 | 2025-03-22 03:30:00 | NPP-375D | SÃO JOSÉ DO CERRITO | SANTA CATARINA | Brasil | 4216800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| a892f598-0818-3649-b3ba-227e11b2eaea | -8.81208 | -38.92518 | 2025-03-22 03:47:00 | NOAA-20 | RODELAS | BAHIA | Brasil | 2927101 | 29 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| d3db532b-abed-3426-83e9-69a2838d3fcc | -8.07242 | -34.97601 | 2025-03-22 03:47:00 | NOAA-20 | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 4ecd4449-d6b4-39b9-8192-5ac929106cd6 | -8.81149 | -38.92886 | 2025-03-22 03:47:00 | NOAA-20 | RODELAS | BAHIA | Brasil | 2927101 | 29 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| 93f867ec-128e-3a4b-98df-0eaae727277f | -9.78302 | -37.0123 | 2025-03-22 03:47:00 | NOAA-20 | TRAIPU | ALAGOAS | Brasil | 2709202 | 27 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| f198991a-d31d-3868-9a6c-a53f21594f01 | -4.90581 | -37.42855 | 2025-03-22 03:47:00 | NOAA-20 | TIBAU | RIO GRANDE DO NORTE | Brasil | 2411056 | 24 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 47a40f22-256f-3ccc-987d-a854c10aa738 | -9.7108 | -37.83688 | 2025-03-22 03:47:00 | NOAA-20 | CANINDÉ DE SÃO FRANCISCO | SERGIPE | Brasil | 2801207 | 28 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 8cfd8d53-a29c-3b27-9c80-b73fd512246f | -9.78578 | -37.01632 | 2025-03-22 03:47:00 | NOAA-20 | TRAIPU | ALAGOAS | Brasil | 2709202 | 27 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 792f900b-a588-3cd9-8c03-40d9b004ef6e | -8.39098 | -35.02304 | 2025-03-22 03:47:00 | NOAA-20 | IPOJUCA | PERNAMBUCO | Brasil | 2607208 | 26 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 18c8cc05-e3db-3ac6-a41a-c653891e8c48 | -8.87684 | -36.52927 | 2025-03-22 03:47:00 | NOAA-20 | GARANHUNS | PERNAMBUCO | Brasil | 2606002 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| e3fa8298-9b9d-3d5a-b566-9f4833fe8e64 | -8.17004 | -34.97916 | 2025-03-22 03:47:00 | NOAA-20 | JABOATÃO DOS GUARARAPES | PERNAMBUCO | Brasil | 2607901 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 7a136810-eff4-3a2a-8c7c-35c94d30af64 | -7.47653 | -34.84147 | 2025-03-22 03:47:00 | NOAA-20 | PITIMBU | PARAÍBA | Brasil | 2511905 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 48b10502-efb0-33a1-bd51-70c3ed58f913 | -7.22724 | -35.7816 | 2025-03-22 03:47:00 | NOAA-20 | MASSARANDUBA | PARAÍBA | Brasil | 2509206 | 25 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 84309c9b-11be-3059-94fc-2099c9065d27 | -4.67166 | -38.05851 | 2025-03-22 03:47:00 | NOAA-20 | PALHANO | CEARÁ | Brasil | 2310001 | 23 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| be824eb2-5a8d-3ac2-92fe-fb28eb8ed7e7 | -9.71411 | -37.83741 | 2025-03-22 03:47:00 | NOAA-20 | CANINDÉ DE SÃO FRANCISCO | SERGIPE | Brasil | 2801207 | 28 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| 442cab3d-3f44-3dbf-ba33-d5b56ca1d0a1 | -10.41265 | -36.82798 | 2025-03-22 03:47:00 | NOAA-20 | JAPOATÃ | SERGIPE | Brasil | 2803401 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| f83008d6-fcc4-3e4a-8dcd-0f10d8d14540 | -13.25527 | -41.33698 | 2025-03-22 03:47:00 | NOAA-20 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| 593905bc-6ca0-345b-80c7-ad6ca648c336 | -13.25239 | -41.33219 | 2025-03-22 03:47:00 | NOAA-20 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| ae5c4f31-2b71-3464-89ec-4e2368e4435a | -16.03563 | -40.80644 | 2025-03-22 03:47:00 | NOAA-20 | ALMENARA | MINAS GERAIS | Brasil | 3101706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 2907941f-0169-362b-b109-779cdf9c1572 | -14.11789 | -41.67751 | 2025-03-22 03:47:00 | NOAA-20 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 327094eb-3351-3303-bfe8-8c24f4a2296d | -14.13383 | -41.69291 | 2025-03-22 03:47:00 | NOAA-20 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 91806799-dc2e-39a9-8afc-afced092c325 | -15.42991 | -39.47522 | 2025-03-22 03:47:00 | NOAA-20 | CAMACAN | BAHIA | Brasil | 2905602 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 8292f2d0-d258-3715-950d-1fdd30bb172c | -13.25169 | -41.33636 | 2025-03-22 03:47:00 | NOAA-20 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| 24fa1cf5-c90b-3a21-8832-ab0bacb3f3a8 | -13.28703 | -39.17093 | 2025-03-22 03:47:00 | NOAA-20 | VALENÇA | BAHIA | Brasil | 2932903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| e6b3e125-b582-31ff-aaa4-8ece2fd3dc55 | -13.25597 | -41.33284 | 2025-03-22 03:47:00 | NOAA-20 | MUCUGÊ | BAHIA | Brasil | 2921906 | 29 | 33 | nan | nan | nan | Caatinga | 11.1 |
-| 3f6a27a7-bb6c-3683-8ef9-675c714b78b1 | -13.20481 | -40.49178 | 2025-03-22 03:47:00 | NOAA-20 | PLANALTINO | BAHIA | Brasil | 2924900 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 9de15e04-ad7e-3d27-b732-0f7279375020 | -12.8041 | -40.39054 | 2025-03-22 03:47:00 | NOAA-20 | BOA VISTA DO TUPIM | BAHIA | Brasil | 2903805 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| d7d385dd-5651-35dd-bef4-9dd9074fccaf | -15.36647 | -39.49016 | 2025-03-22 03:47:00 | NOAA-20 | CAMACAN | BAHIA | Brasil | 2905602 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| a027a79d-147c-376a-9e2a-e5f146180ca4 | -13.28761 | -39.16735 | 2025-03-22 03:47:00 | NOAA-20 | VALENÇA | BAHIA | Brasil | 2932903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| d4ee565e-cd59-3bb7-b298-a4fbe7c6ddee | -12.29979 | -41.31235 | 2025-03-22 03:49:00 | NOAA-20 | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 0.4 |
-| 44279985-8bb4-3f30-a37e-636f056e9c3c | -11.62056 | -38.04944 | 2025-03-22 03:49:00 | NOAA-20 | ACAJUTIBA | BAHIA | Brasil | 2900306 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 516280b5-2ecd-32d9-aa11-4de11d8ff49d | -12.36506 | -41.43433 | 2025-03-22 03:49:00 | NOAA-20 | IRAQUARA | BAHIA | Brasil | 2914406 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| eb5de290-8295-3aa1-b229-70815a433f68 | -12.41598 | -39.15581 | 2025-03-22 03:49:00 | NOAA-20 | ANTÔNIO CARDOSO | BAHIA | Brasil | 2901700 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 0f371e1d-51af-3f22-9826-f58720ed6378 | -12.35923 | -41.42439 | 2025-03-22 03:49:00 | NOAA-20 | LENÇÓIS | BAHIA | Brasil | 2919306 | 29 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 1c05d9e2-6ded-3008-a42c-cf0198546eb1 | -12.36869 | -41.43505 | 2025-03-22 03:49:00 | NOAA-20 | IRAQUARA | BAHIA | Brasil | 2914406 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| d9626145-4d78-30ec-b8d7-7955eb092074 | 2.745 | -60.3913 | 2025-03-23 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 74.0 |
+| 77d1a1e5-2591-3d4d-9700-0d9fddcb8040 | -8.1075 | -43.1411 | 2025-03-23 00:00:00 | GOES-16 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 77.5 |
+| 83e1ac76-a9a0-33a8-a0fd-7e7a124b0f0b | 2.7267 | -60.4106 | 2025-03-23 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 95.1 |
+| c7726f6b-37b0-322a-aa7c-1903ec9df1ec | 2.7449 | -60.4103 | 2025-03-23 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| 845f1e04-5dbb-3286-bc4a-e523fda0c3e4 | 2.7267 | -60.3916 | 2025-03-23 00:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 62.7 |
+| 1b90f635-5d2b-322d-b4f5-efb4665b936b | 2.7449 | -60.4103 | 2025-03-23 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| c8b64a21-c5d5-35c6-94d2-d7e46e4eb13c | 2.7267 | -60.4106 | 2025-03-23 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 93.0 |
+| 92f8cf9e-f8ec-34f2-b170-655a970f1905 | 2.7267 | -60.3916 | 2025-03-23 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| 8136f6fe-2aef-3795-8df2-10532f83428f | 2.745 | -60.3913 | 2025-03-23 00:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 69.0 |
+| 18560e1d-8b20-33d8-9559-9110d5615c3a | -8.1148 | -43.138199 | 2025-03-23 00:17:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| c9fcc32f-f248-3bf7-8434-17cf30428496 | -8.0699 | -41.278801 | 2025-03-23 00:17:00 | METOP-C | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| acb26248-423a-315e-a64f-721fa6d0266a | -12.3802 | -41.443802 | 2025-03-23 00:17:00 | METOP-C | IRAQUARA | BAHIA | Brasil | 2914406 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| c591314f-aa55-3924-9536-611ae27746b6 | -11.7421 | -37.632099 | 2025-03-23 00:17:00 | METOP-C | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| c99e95db-8c57-35b4-9cfe-911b2f0e5a4e | -8.1116 | -43.124401 | 2025-03-23 00:17:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| d4e5590d-ca90-30f0-b83b-833dad1885bd | -11.7374 | -37.612701 | 2025-03-23 00:17:00 | METOP-C | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 4d3e8e53-e958-3d65-b5db-e0fafb9791d4 | -11.0632 | -41.594299 | 2025-03-23 00:17:00 | METOP-C | SÃO GABRIEL | BAHIA | Brasil | 2929255 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| d0778df6-34d6-351c-8209-c0535d5963d1 | -11.7398 | -37.622398 | 2025-03-23 00:17:00 | METOP-C | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 89643e23-3dff-3286-924d-f1b14b4a0527 | -8.0666 | -41.264301 | 2025-03-23 00:17:00 | METOP-C | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9b5ee81f-5d3d-3c80-8428-33aa67de5e8d | -8.1163 | -43.145 | 2025-03-23 00:17:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 8f4f5466-e43f-3335-a266-0f4fd1ce2304 | -8.0683 | -41.2715 | 2025-03-23 00:17:00 | METOP-C | PAULISTANA | PIAUÍ | Brasil | 2207801 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| f5033e69-4ccf-30b3-a848-c4fe026f34bf | -8.1132 | -43.131302 | 2025-03-23 00:17:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| ca062343-e49e-3361-8c08-ed40cfe74226 | 2.7449 | -60.4103 | 2025-03-23 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| 3ddfb4f0-7b46-3957-a2bd-e1582f8a952e | 2.7267 | -60.4106 | 2025-03-23 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 100.8 |
+| d14e3093-1e1d-39c2-b006-d0d1d3035e55 | 2.745 | -60.3913 | 2025-03-23 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 69.0 |
+| a22e0724-c6d3-3a26-a355-2863d3d9437e | 2.7267 | -60.3916 | 2025-03-23 00:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 73.5 |
+| 09ab25c3-e2ed-327d-8752-48b0d890da6e | 2.7267 | -60.3916 | 2025-03-23 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 64.0 |
+| 52043f13-bb5b-373d-bee2-c472001b54dc | 2.7449 | -60.4103 | 2025-03-23 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 64.0 |
+| 6692b48c-9ce4-37dc-ae87-6807117970cd | 2.745 | -60.3913 | 2025-03-23 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 73.8 |
+| 3207b721-340b-316a-8ed2-005b207e6fb6 | 2.7267 | -60.4106 | 2025-03-23 00:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 88.9 |
+| 743e3e68-23cf-3bf4-b16e-42e0fedc060d | 2.7449 | -60.4103 | 2025-03-23 00:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 86.0 |
+| 4c77ea55-669b-3bb6-927a-06f541a92f49 | 2.7267 | -60.3916 | 2025-03-23 00:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 56.3 |
+| 42117680-2522-3d2a-834a-2d988f94b6b7 | 2.7267 | -60.4106 | 2025-03-23 00:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 81.0 |
+| 2f29449b-39de-34e9-ab29-d5137300ec03 | 2.745 | -60.3913 | 2025-03-23 00:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 69.5 |
+| 02ea9da0-2a6d-3bb9-8b17-7f848eaa5b21 | 2.745 | -60.3913 | 2025-03-23 00:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| e0c6ddad-38fd-3520-9272-d61efab0c7b8 | 2.7267 | -60.4106 | 2025-03-23 00:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 80.1 |
+| e6a92d87-a903-3e64-a95f-d4e3a874ae4f | 2.7449 | -60.4103 | 2025-03-23 00:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 79.4 |
+| 48e5b203-ddf4-3903-b4b0-f3832b6f1759 | 2.7267 | -60.4106 | 2025-03-23 01:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 74.0 |
+| f3ee0e6a-5d62-3d6b-9428-cc6d57fe02e6 | 2.7449 | -60.4103 | 2025-03-23 01:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 86.6 |
+| fcc813ab-08ad-3e34-ad27-c326305cc146 | 2.745 | -60.3913 | 2025-03-23 01:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 69.6 |
+| 29ad3d05-9bf3-3981-8ef5-9a15a7c68f0a | -11.50425 | -51.95433 | 2025-03-23 01:02:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| f806bed8-012d-38cd-91f9-e2f58221de24 | -11.50549 | -51.96334 | 2025-03-23 01:02:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 66f67516-b04c-3a32-8f8e-258c12326fb3 | -8.1146 | -43.14518 | 2025-03-23 01:02:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 28.7 |
+| 555e995c-b7e5-340a-8869-0330776d4068 | -8.09881 | -43.14783 | 2025-03-23 01:02:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 22.4 |
+| 3f2aec62-6d2d-3a31-ba2a-9e85a5cfd895 | 1.30068 | -59.99854 | 2025-03-23 01:05:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| ec7e2ff8-94ee-3753-a299-fdafcc102a11 | 1.2982 | -60.01581 | 2025-03-23 01:05:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 13.0 |
+| 09e30aa2-a770-3af9-a123-c8992f8bc0b6 | 2.16349 | -61.26227 | 2025-03-23 01:05:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 16.9 |
+| 8bb5ad73-e310-3c91-bd9e-811f1de81840 | 2.73988 | -60.37587 | 2025-03-23 01:05:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 40.3 |
+| 4461f1c6-2c8a-310d-9563-9e41dc6ca6d3 | 2.20404 | -61.35614 | 2025-03-23 01:05:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 21.0 |
+| 2e7da20b-81aa-30cb-b656-de444edf47b5 | 2.16781 | -61.25724 | 2025-03-23 01:05:00 | TERRA_M-M | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 26.2 |
+| db402e5e-6800-39b7-b94f-e14108855846 | 2.73472 | -60.41163 | 2025-03-23 01:05:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 148.9 |
+| 777b584b-fb2e-34f2-9019-b3f834aea93c | 2.7373 | -60.39372 | 2025-03-23 01:05:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| 1648f142-ec70-35e6-8ba1-d81702fd2951 | 2.7449 | -60.4103 | 2025-03-23 01:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| cfb383fc-4e48-3c56-aaae-f182e9965cd6 | 2.745 | -60.3913 | 2025-03-23 01:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| 1cf571dd-e353-360a-96e5-c052478d1c27 | 2.7267 | -60.3916 | 2025-03-23 01:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| 061aeece-a81f-35d5-87a7-8b13890fdebe | 2.7267 | -60.4106 | 2025-03-23 01:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 87.0 |
+| 0c96343f-4208-3b28-84a0-d65641beb22d | 2.745 | -60.3913 | 2025-03-23 01:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| b9ca1199-39c4-31f1-b86c-1ef293bcf1ce | 2.7449 | -60.4103 | 2025-03-23 01:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 57.8 |
+| 48d9c8c0-3fb6-32e3-8ca6-06973675010d | 2.7267 | -60.4106 | 2025-03-23 01:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 94.7 |
+| 63df224f-12bc-3ba6-b026-4669abcc1a05 | 2.7267 | -60.3916 | 2025-03-23 01:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.4 |
+| 0e943278-ab74-3e63-8e0e-093bffe5094d | 2.7267 | -60.4106 | 2025-03-23 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 103.2 |
+| 1a8a8e09-8316-3862-8134-b5a65e2146b9 | 2.745 | -60.3913 | 2025-03-23 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 62.1 |
+| 785e1b0b-888c-3be8-9bc2-1bfc0ccb60cb | 2.7267 | -60.3916 | 2025-03-23 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| 319dbbeb-5f30-3127-b496-d80f5d44c94c | 2.7449 | -60.4103 | 2025-03-23 01:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| 2f2342a7-f457-3352-9819-496a360a5fb9 | 2.7267 | -60.3916 | 2025-03-23 01:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| 8ef252c9-df8c-33e8-ab60-53d0d42f817a | 2.7449 | -60.4103 | 2025-03-23 01:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 60.1 |
+| 256355aa-97a0-303f-b947-439914e8b843 | 2.745 | -60.3913 | 2025-03-23 01:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 34ecbd91-0021-306e-9fef-219f2ee2530f | 2.7267 | -60.4106 | 2025-03-23 01:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 108.7 |
+| c2499688-7f46-3c84-afa0-ac6d82c70c57 | 2.7449 | -60.4103 | 2025-03-23 01:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 86.9 |
+| 41ae177d-b07b-38cd-b642-8ac783a93cb7 | 2.7267 | -60.4106 | 2025-03-23 01:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 79.7 |
+| 9cb7f657-9c85-3798-95b5-6f1fa16c181d | 2.745 | -60.3913 | 2025-03-23 01:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.2 |
+| c2156a7f-fdfd-3707-bf36-984682ce887a | 2.7449 | -60.4103 | 2025-03-23 02:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 82.0 |
+| 12ac22f2-a615-3690-9979-a3393b5591cd | 2.745 | -60.3913 | 2025-03-23 02:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 70.2 |
+| 8122b4de-3634-3745-a0e6-fee913822b96 | 2.7267 | -60.4106 | 2025-03-23 02:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 72.9 |
+| d8f120dd-edb7-3657-97f3-ffacfbc065f6 | 2.7267 | -60.4106 | 2025-03-23 02:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 71.6 |
+| fdc05d5e-5f62-36b5-96aa-45e2a5925cbd | 2.7449 | -60.4103 | 2025-03-23 02:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 82.7 |
+| 08c42979-0bf4-3ac3-b091-7e5ad45a7bc8 | 2.745 | -60.3913 | 2025-03-23 02:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 67.4 |
+| 2bd57ee8-2e35-316d-bfc6-2c9ceee0e05c | 2.745 | -60.3913 | 2025-03-23 02:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 58.9 |
+| 79bc0a37-be40-3343-bdd1-84f69e4fe327 | 2.7267 | -60.4106 | 2025-03-23 02:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 75.4 |
+| a3eb9910-f965-335f-8c4d-b69cece75b3e | 2.7449 | -60.4103 | 2025-03-23 02:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 84.1 |
+| 9893f049-0632-3c7f-90e3-63c9351b943a | 2.7267 | -60.4106 | 2025-03-23 02:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 90.2 |
+| d5881afc-770f-364e-bb65-799abde7c35b | 2.7449 | -60.4103 | 2025-03-23 02:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 60.2 |
+| fe2dac68-346c-3cba-851c-d304f52ce734 | 2.7267 | -60.3916 | 2025-03-23 02:30:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.8 |
+| a3ecefd4-4077-388c-bc20-8e8df3506bb7 | 2.7267 | -60.4106 | 2025-03-23 02:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 76.4 |
+| 801814ba-d364-3994-a6fb-2d2efe84bc13 | 2.7449 | -60.4103 | 2025-03-23 02:40:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 74.8 |
+| feb48a54-bb87-3d59-80ff-47d7cd92e61d | 2.7267 | -60.4106 | 2025-03-23 02:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 85.9 |
+| c17d122d-4321-3650-9bb4-21983565e504 | -6.5631 | -51.1126 | 2025-03-23 02:50:00 | GOES-16 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| ad64f825-ff46-318a-85b3-13f6d45cd16b | 2.7449 | -60.4103 | 2025-03-23 02:50:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 62.6 |
+| 17f6793f-d187-3caa-ab72-c5b7fcc25b6e | 2.7267 | -60.3916 | 2025-03-23 03:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 54.4 |
+| 531df6aa-c8b5-3a7f-b491-a3f84db6c9bd | 2.7267 | -60.4106 | 2025-03-23 03:00:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 94.0 |
+| eceb8f75-d802-3d87-bd39-be563519d637 | -11.7304 | -37.62541 | 2025-03-23 03:06:00 | NPP-375D | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
+| 5b9a246e-6232-3ecf-a64d-423d32638ce3 | -11.72545 | -37.61956 | 2025-03-23 03:06:00 | NPP-375D | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| ead9218e-2d4c-38e3-8eba-dd185a664ec2 | -11.73126 | -37.62107 | 2025-03-23 03:06:00 | NPP-375D | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 4f13d9ad-97d0-3e7e-8ecf-0fe5803421fc | 2.7267 | -60.4106 | 2025-03-23 03:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 92.8 |
+| 5446aa53-beaa-3d09-aad5-80dfe81962a1 | 2.7449 | -60.4103 | 2025-03-23 03:10:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 54.7 |
+| e92a97ad-03e4-3e4e-b550-5ca50d398ced | 2.7267 | -60.4106 | 2025-03-23 03:20:00 | GOES-16 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 92.7 |
+| 29916471-553b-3b35-945c-470dc7dd372c | -5.51298 | -35.60148 | 2025-03-23 03:25:00 | NOAA-20 | TAIPU | RIO GRANDE DO NORTE | Brasil | 2413904 | 24 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| cfb71891-c97d-3a5b-a39c-236e06c33dcb | -5.18884 | -35.75844 | 2025-03-23 03:25:00 | NOAA-20 | SÃO MIGUEL DO GOSTOSO | RIO GRANDE DO NORTE | Brasil | 2412559 | 24 | 33 | nan | nan | nan | Caatinga | 5.3 |
+| 8307db64-f966-3397-8243-9ce651ede7a2 | -8.10603 | -43.13749 | 2025-03-23 03:28:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| fa52fabf-2852-3831-b06a-18901fd30dc2 | -8.10523 | -43.14184 | 2025-03-23 03:28:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
+| dfb3900d-8411-3df9-ad67-b7a21f00f4cb | -11.05987 | -41.59394 | 2025-03-23 03:28:00 | NOAA-20 | SÃO GABRIEL | BAHIA | Brasil | 2929255 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
