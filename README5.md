@@ -29,37 +29,50 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e0d640a0-94f8-37ee-8f46-40fe71fb7b89 | -9.25806 | -60.31688 | 2025-03-29 05:50:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 56e2274a-44f8-360d-b782-b977109d9c31 | -9.26338 | -60.31256 | 2025-03-29 05:50:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 8bda0996-4c07-3a2f-92ce-65e02bde7dae | -9.26273 | -60.31754 | 2025-03-29 05:50:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| ec173d4d-3e20-306e-aba8-b0c66b59a533 | -20.57883 | -56.03978 | 2025-03-29 05:53:00 | NOAA-21 | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| a28c2768-fdc5-37fd-b685-1d0546b0b00c | -20.57278 | -56.03555 | 2025-03-29 06:03:00 | AQUA_M-M | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 8e7a3cac-cde8-3635-8d3b-953c985af3ce | -20.58166 | -56.03708 | 2025-03-29 06:03:00 | AQUA_M-M | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 16.5 |
-| 17b437d9-96bb-39cc-993e-3b19757a297c | 2.30691 | -61.60962 | 2025-03-29 06:10:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| b3926904-6718-3d1a-9bbb-9a46684d1db8 | 2.18231 | -61.81328 | 2025-03-29 06:10:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 3cb18472-dcf3-36b2-a570-82f580fb8b19 | 2.18174 | -61.80978 | 2025-03-29 06:10:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6eb0327f-efbb-3794-bd88-3e7afb54021f | -7.81144 | -45.55068 | 2025-03-29 12:29:00 | TERRA_M-T | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 66ba26bf-a576-3a91-ad9f-543fbc8e35be | -8.54181 | -39.56718 | 2025-03-29 12:29:00 | TERRA_M-T | OROCÓ | PERNAMBUCO | Brasil | 2609808 | 26 | 33 | nan | nan | nan | Caatinga | 17.2 |
-| e96572cc-03fb-3f33-b61c-de02cb24620b | -11.33343 | -41.67533 | 2025-03-29 12:29:00 | TERRA_M-T | JOÃO DOURADO | BAHIA | Brasil | 2918357 | 29 | 33 | nan | nan | nan | Caatinga | 10.9 |
-| c3e44af8-225c-30df-b436-888df96ce924 | -13.1694 | -53.65277 | 2025-03-29 12:29:00 | TERRA_M-T | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 17.9 |
-| 17a49a95-593c-35b0-83a5-e6dcfad144ea | -10.6058 | -43.26309 | 2025-03-29 12:29:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 12.5 |
-| e6bc72cf-f3ea-3059-8b86-5c78e1b0b8ce | -13.15877 | -53.9485 | 2025-03-29 12:29:00 | TERRA_M-T | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 17.5 |
-| 5d28c51f-9250-3cb8-8b76-f69b9ad94260 | -7.93037 | -45.36169 | 2025-03-29 12:29:00 | TERRA_M-T | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 630030b3-1be4-363a-8f08-8572694dc563 | -13.1107 | -53.04302 | 2025-03-29 12:29:00 | TERRA_M-T | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 17.5 |
-| e11a6f09-3260-3278-a830-bb0bae31b4b3 | -15.15046 | -47.44037 | 2025-03-29 12:29:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 34d0deee-fabf-3fad-93bb-7deda645b8e5 | -7.31424 | -45.86727 | 2025-03-29 12:29:00 | TERRA_M-T | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 2b63a586-1f8a-3afa-b123-5ceab58da530 | -13.30513 | -54.48458 | 2025-03-29 12:29:00 | TERRA_M-T | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 17.6 |
-| 1a306a48-c56b-310c-af91-aa0734f5c5da | -10.60868 | -43.25753 | 2025-03-29 12:29:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
-| 5b6ae5fe-316a-3ce6-a4b2-6ff7d8afab52 | -17.40551 | -50.70979 | 2025-03-29 12:32:00 | TERRA_M-T | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 4a960752-b3a7-3a25-9ee3-07e3d40eefbd | -18.47569 | -50.83653 | 2025-03-29 12:32:00 | TERRA_M-T | QUIRINÓPOLIS | GOIÁS | Brasil | 5218508 | 52 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 4a45e91b-1560-38cc-bbc7-001bfac117f3 | -17.68279 | -47.84961 | 2025-03-29 12:32:00 | TERRA_M-T | CAMPO ALEGRE DE GOIÁS | GOIÁS | Brasil | 5204805 | 52 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| a1fab491-03ec-3ef8-b654-7f6d666db05e | -18.39577 | -44.18681 | 2025-03-29 12:32:00 | TERRA_M-T | SANTO HIPÓLITO | MINAS GERAIS | Brasil | 3160603 | 31 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| 2429f663-b7f3-3004-8c16-7ce8877cfe84 | -17.95331 | -50.09688 | 2025-03-29 12:32:00 | TERRA_M-T | PORTEIRÃO | GOIÁS | Brasil | 5218052 | 52 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 7c18110e-c33d-3cd5-9908-0ec65d4c900a | -17.68148 | -47.8589 | 2025-03-29 12:32:00 | TERRA_M-T | CAMPO ALEGRE DE GOIÁS | GOIÁS | Brasil | 5204805 | 52 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 0b463b23-13a3-39ab-a342-dd781f5e32f6 | -17.23316 | -44.8785 | 2025-03-29 12:32:00 | TERRA_M-T | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 15b651c8-f572-30a8-accf-ccb2ddc8e2b1 | -20.52234 | -44.64622 | 2025-03-29 12:32:00 | TERRA_M-T | CARMÓPOLIS DE MINAS | MINAS GERAIS | Brasil | 3114501 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.3 |
-| 879cac50-2f6e-33c4-92ab-e5f16ddf37eb | -17.23162 | -44.89077 | 2025-03-29 12:32:00 | TERRA_M-T | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| 3b10a84b-bc7f-3eda-9681-6f47097b8e00 | -18.4011 | -44.1853 | 2025-03-29 13:50:00 | GOES-16 | SANTO HIPÓLITO | MINAS GERAIS | Brasil | 3160603 | 31 | 33 | nan | nan | nan | Cerrado | 99.1 |
-| af7f8df6-13ba-343d-bfd0-ebdf7dcb8f92 | -18.4011 | -44.1853 | 2025-03-29 14:30:00 | GOES-16 | SANTO HIPÓLITO | MINAS GERAIS | Brasil | 3160603 | 31 | 33 | nan | nan | nan | Cerrado | 129.0 |
+| 2c991f0e-ab9a-3348-8583-68ec56b2661a | -16.30101 | -45.08952 | 2025-04-03 12:32:00 | TERRA_M-T | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| c0d2c8e5-87b1-3133-97c0-2b3a88a0c07c | -12.90488 | -44.37135 | 2025-04-03 12:32:00 | TERRA_M-T | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| e690d316-a520-3b95-b32b-85f561156c95 | -13.7359 | -48.27137 | 2025-04-03 12:32:00 | TERRA_M-T | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 7950c6e9-cc74-3d0c-9802-d9246f83bdcd | -16.76827 | -41.14096 | 2025-04-03 12:32:00 | TERRA_M-T | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 20.7 |
+| ea8acf83-3f87-3420-91e7-a206027c1166 | -14.68432 | -45.82934 | 2025-04-03 12:32:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 29.3 |
+| 6350ef6c-7ebd-38f6-8496-0b39065d3555 | -12.9033 | -44.38329 | 2025-04-03 12:32:00 | TERRA_M-T | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| 70da5d38-e7ba-3d55-a410-3b2fa1364e2f | -14.6857 | -45.81894 | 2025-04-03 12:32:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| cecfe931-0d46-3515-b4ed-64ee980fd76c | -16.28932 | -45.10035 | 2025-04-03 12:32:00 | TERRA_M-T | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| 93e1b39c-815a-3356-b643-c882bbaca2f4 | -11.75133 | -46.34408 | 2025-04-03 12:32:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 5b0dabf3-c063-3fd9-93dd-b1bfa7d7e8e4 | -11.27039 | -44.5311 | 2025-04-03 12:32:00 | TERRA_M-T | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 31.1 |
+| a99747db-10a4-3ba3-8c3a-bfe5ff74dd37 | -13.03589 | -45.08413 | 2025-04-03 12:32:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 139.7 |
+| c465788c-08f2-36ee-a09b-4e6e187ee11d | -15.14371 | -43.92569 | 2025-04-03 12:32:00 | TERRA_M-T | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 72fd2df2-7a54-3fa9-9243-fc3865dc8064 | -12.75991 | -44.8419 | 2025-04-03 12:32:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| 483f2821-da3a-3b3e-a4ff-c77a7216cfa5 | -20.15904 | -47.31992 | 2025-04-03 12:34:00 | TERRA_M-T | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 05a9799b-aeec-3ce8-92e8-d8a82c291aad | -20.17274 | -50.50605 | 2025-04-03 12:34:00 | TERRA_M-T | VITÓRIA BRASIL | SÃO PAULO | Brasil | 3556958 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.8 |
+| 9d7598bf-28c3-36ad-a9ca-9d91e8d98b77 | -20.46543 | -44.78208 | 2025-04-03 12:34:00 | TERRA_M-T | CLÁUDIO | MINAS GERAIS | Brasil | 3116605 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
+| 9d82d21d-a385-37d7-af7d-a020fb286ea0 | -13.033 | -45.1027 | 2025-04-03 12:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 111.9 |
+| 6eae5c2b-51ec-35c6-bcb3-48df00b337ab | -13.0335 | -45.0794 | 2025-04-03 12:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 124.9 |
+| fc8ad77d-1a70-3cbe-9ce8-325dbcd3a8b3 | -13.0524 | -45.0995 | 2025-04-03 12:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 93.9 |
+| 62cdd33d-ccce-3f75-b450-eff94ed5e242 | -13.0528 | -45.0762 | 2025-04-03 12:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 97.0 |
+| e1ba0f51-9bcb-3b5e-bd2b-cba32acbfff9 | -13.0528 | -45.0762 | 2025-04-03 12:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 112.8 |
+| 97e31e8a-6328-3d79-b871-45a469f06f0f | -13.0335 | -45.0794 | 2025-04-03 12:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 136.6 |
+| 7db858c0-05b0-326f-8e21-752ca46abc9b | -13.0524 | -45.0995 | 2025-04-03 12:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 85.9 |
+| 16334661-db20-303e-b5f5-302f40449048 | -13.033 | -45.1027 | 2025-04-03 12:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 103.5 |
+| 2f3ef857-5fb6-3c07-97ed-1a5748819fea | -13.033 | -45.1027 | 2025-04-03 13:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 119.1 |
+| bcfa7390-5e39-3c7e-80e5-841c14d47ed9 | -13.0524 | -45.0995 | 2025-04-03 13:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 79.5 |
+| bee37123-e596-3f2e-95fd-3dc226ed53b7 | -13.0335 | -45.0794 | 2025-04-03 13:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 156.1 |
+| 4fc16f09-bba2-3a06-97a8-6c09b89451a1 | -13.0528 | -45.0762 | 2025-04-03 13:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 93.5 |
+| 7c06fddb-a177-3a13-aab2-542b94c942d2 | -13.0528 | -45.0762 | 2025-04-03 13:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 120.6 |
+| 9e16f757-f501-3a92-85c0-28af023a7872 | -13.0335 | -45.0794 | 2025-04-03 13:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 146.0 |
+| 3423efdd-ccbd-3327-bafc-4ee67e0950a9 | -13.0524 | -45.0995 | 2025-04-03 13:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| 3348565e-b885-3f22-af8a-8625b44129a0 | -13.033 | -45.1027 | 2025-04-03 13:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 105.5 |
+| a9c61be1-1889-3089-92a6-5f89cb78a35b | -13.033 | -45.1027 | 2025-04-03 13:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 135.6 |
+| 72dd4406-5cc4-3822-a6b3-29200fd511bd | -13.0528 | -45.0762 | 2025-04-03 13:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 73.1 |
+| 3b7c2337-8eb6-3bec-bcc0-675348077859 | -13.0335 | -45.0794 | 2025-04-03 13:20:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 183.0 |
+| 6f459d71-aba3-32a2-99a2-d82e225f43e0 | -13.033 | -45.1027 | 2025-04-03 13:30:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 137.4 |
+| 08cd5ae6-8178-3833-8fca-0a39a75ced70 | -13.0335 | -45.0794 | 2025-04-03 13:30:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 172.3 |
+| f67b21e2-fdd1-3e96-8ed2-e8240af0e291 | -13.0528 | -45.0762 | 2025-04-03 13:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 135.5 |
+| 3770e01c-e4ca-38ee-9f11-ce3276239fb5 | -13.033 | -45.1027 | 2025-04-03 13:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 101.9 |
+| 4ed334e9-6002-3b7b-b07e-d9c902abab22 | -13.0335 | -45.0794 | 2025-04-03 13:40:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 145.8 |
+| 69f2a861-daa0-3297-823f-37e8e25fec0c | -13.0335 | -45.0794 | 2025-04-03 13:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 140.2 |
+| 79aadea3-5fc5-3188-ad14-331a98a19836 | -13.033 | -45.1027 | 2025-04-03 13:50:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 114.5 |
+| f7a4dad4-77e8-3eb7-9c3e-989de400d98f | -13.033 | -45.1027 | 2025-04-03 14:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 117.8 |
+| bc64d4e8-8627-339d-b479-dc515e56a87b | -13.0335 | -45.0794 | 2025-04-03 14:00:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 175.0 |
+| 2f424292-ec33-3656-aaef-85c1974fcfc7 | -13.033 | -45.1027 | 2025-04-03 14:10:00 | GOES-16 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 107.1 |
 
 
