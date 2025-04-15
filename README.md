@@ -29,101 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 64f71c23-8d9b-327f-9edb-406780e6a7ca | -5.9565 | -44.4538 | 2025-04-14 00:14:00 | METOP-B | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c8282190-c525-3652-b089-80b03245ce59 | -5.9467 | -44.456001 | 2025-04-14 00:14:00 | METOP-B | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e901870a-b655-38d6-8047-dc0378d57a31 | -7.0615 | -44.372501 | 2025-04-14 00:14:00 | METOP-B | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 36e715c1-0823-3882-8f91-139d5ac87ba2 | -7.0731 | -44.377998 | 2025-04-14 00:14:00 | METOP-B | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 169c201a-730c-3f83-a74f-5c71d172c0b1 | -7.0713 | -44.370201 | 2025-04-14 00:14:00 | METOP-B | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e7cdd675-bc61-3f30-a513-9ad201a3a54e | -5.9583 | -44.461601 | 2025-04-14 00:14:00 | METOP-B | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8246c046-f237-32a5-9289-306822c066e1 | -5.9485 | -44.463799 | 2025-04-14 00:14:00 | METOP-B | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ee384c11-c30d-3e19-bf06-74be891ef528 | -5.94671 | -44.45895 | 2025-04-14 00:50:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 24.3 |
-| 93535d68-b65c-3dc6-8c10-6b3f2fd81257 | -7.06037 | -44.38615 | 2025-04-14 00:50:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 0b293e67-ea2c-33e8-8dfe-30306a098e22 | -7.06106 | -44.37559 | 2025-04-14 00:50:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| ceed4f8b-d191-3294-8b2e-65b45c5fa793 | -4.8603 | -65.2649 | 2025-04-14 01:04:00 | METOP-C | COARI | AMAZONAS | Brasil | 1301209 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| ce28913c-2188-3c50-82df-1012e5cad50a | -5.2229 | -36.14718 | 2025-04-14 03:13:00 | NOAA-20 | GALINHOS | RIO GRANDE DO NORTE | Brasil | 2404101 | 24 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| ca8c78f7-2154-349a-812f-3904dc7ded5f | -16.2704 | -40.07038 | 2025-04-14 03:17:00 | NOAA-20 | SANTA MARIA DO SALTO | MINAS GERAIS | Brasil | 3158102 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 76181ed9-de64-3927-8520-7b31587c31a7 | -16.27106 | -40.0672 | 2025-04-14 03:17:00 | NOAA-20 | SANTA MARIA DO SALTO | MINAS GERAIS | Brasil | 3158102 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 3374c522-d76b-37c4-b74d-09dfd17de5da | -5.93678 | -44.35719 | 2025-04-14 04:06:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| dabd9ab6-3b88-3f18-9fc7-1b28bc1014e8 | -5.94533 | -44.46423 | 2025-04-14 04:06:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| a4258712-0e61-385b-a358-02c11f79978a | -5.95319 | -44.46126 | 2025-04-14 04:06:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 0314eb82-7084-3aed-9c81-fb51ce653628 | -5.94599 | -44.46009 | 2025-04-14 04:06:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 573f3928-5463-3937-8e86-8ba9e59534fd | -5.94959 | -44.46068 | 2025-04-14 04:06:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 81e4ba83-055e-3118-a673-341268af57a9 | -5.76395 | -43.64541 | 2025-04-14 04:06:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 82a7b864-5e23-36da-9e73-240de6dc3288 | -7.06474 | -44.38138 | 2025-04-14 04:08:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| b7a92a17-901a-30cf-bb9b-72c7c6f2355c | -7.06552 | -44.3765 | 2025-04-14 04:08:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f953b7a7-7658-3822-b231-54548eb3fdcc | -7.0612 | -44.38081 | 2025-04-14 04:08:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 9b09b6e7-cc5f-3bcb-9fcd-9bb93c646634 | -10.98731 | -40.39418 | 2025-04-14 04:08:00 | NOAA-21 | SAÚDE | BAHIA | Brasil | 2929800 | 29 | 33 | nan | nan | nan | Caatinga | 0.4 |
-| fc1866c5-471c-3738-bb15-b1ccf2d66a9a | -7.06487 | -44.38045 | 2025-04-14 04:08:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| a0143ce9-a047-34aa-a688-db286f27456d | -14.11975 | -41.67631 | 2025-04-14 04:08:00 | NOAA-21 | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 286a31b7-7745-3a95-aeca-8efdd2ed8d42 | -10.5902 | -40.93931 | 2025-04-14 04:08:00 | NOAA-21 | UMBURANAS | BAHIA | Brasil | 2932457 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| ccbbd01e-68de-3d43-8cca-97ce7290c5cc | -7.06183 | -44.37685 | 2025-04-14 04:08:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| f4bc7af7-b062-30a2-a2b5-ebba791c7ec2 | -10.69686 | -37.04891 | 2025-04-14 04:08:00 | NOAA-21 | ROSÁRIO DO CATETE | SERGIPE | Brasil | 2806107 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 4ff3edb1-eeb9-3cef-96ae-85d65db5f53a | -7.06537 | -44.37741 | 2025-04-14 04:08:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f96d2ef2-578d-33a0-8b4c-f47b508f3a5c | -21.45074 | -47.00323 | 2025-04-14 04:10:00 | NOAA-21 | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f531400c-9743-3f94-9385-4d1f69b87a1a | -17.67864 | -42.7424 | 2025-04-14 04:10:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 7d6bc449-8c93-3104-8ca4-3eb31acae97c | -19.8328 | -40.11424 | 2025-04-14 04:10:00 | NOAA-21 | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 0f418a93-9508-348d-a1f6-8d214d43d54d | -16.27341 | -40.06665 | 2025-04-14 04:10:00 | NOAA-21 | SANTA MARIA DO SALTO | MINAS GERAIS | Brasil | 3158102 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 7864326d-4c32-3159-bbed-777412b5ba6e | -16.09183 | -42.28627 | 2025-04-14 04:10:00 | NOAA-21 | SALINAS | MINAS GERAIS | Brasil | 3157005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 32ceec6d-1e6f-3e17-ae77-5e01c4e0e12c | -19.79884 | -41.97248 | 2025-04-14 04:10:00 | NOAA-21 | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| f8616e24-8da4-3dc6-992c-de967337320a | -17.59679 | -43.19734 | 2025-04-14 04:10:00 | NOAA-21 | CARBONITA | MINAS GERAIS | Brasil | 3113503 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| cf1e86ce-5c44-3411-95d3-7b232debb2f2 | -17.75423 | -42.89538 | 2025-04-14 04:10:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1431ddcd-54a7-3b96-bb0b-b8f6ac850533 | -17.7809 | -42.80864 | 2025-04-14 04:10:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c3493bd8-67a9-3aef-b931-7995c54783cd | -16.22827 | -39.35192 | 2025-04-14 04:10:00 | NOAA-21 | SANTA CRUZ CABRÁLIA | BAHIA | Brasil | 2927705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 736ef110-a7df-338b-a824-5ff4cfb45562 | -16.84586 | -42.07174 | 2025-04-14 04:10:00 | NOAA-21 | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 7e3a8cb5-46df-3556-8bf6-e96750a7e6c6 | -21.45081 | -47.00351 | 2025-04-14 04:10:00 | NOAA-21 | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f89f8352-8849-313b-bd37-c589e007ad04 | -27.01948 | -48.86694 | 2025-04-14 04:12:00 | NOAA-21 | BRUSQUE | SANTA CATARINA | Brasil | 4202909 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 5d6ae0cc-680b-3a4a-94c5-87626ea7ec9d | -23.98413 | -48.91757 | 2025-04-14 04:12:00 | NOAA-21 | ITAPEVA | SÃO PAULO | Brasil | 3522406 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| d5e4a65a-37ee-3192-b5d9-6c30b72c536e | -23.04707 | -49.89434 | 2025-04-14 04:12:00 | NOAA-21 | OURINHOS | SÃO PAULO | Brasil | 3534708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 44c2a7a8-a314-3362-b607-7f078073d79b | -29.85915 | -54.66314 | 2025-04-14 04:14:00 | NOAA-21 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 2.9 |
-| 71f91a77-d98b-3ec4-bfd2-a81446190937 | -29.85369 | -54.6669 | 2025-04-14 04:14:00 | NOAA-21 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 5.1 |
-| dec2c333-7d1e-3385-9a1f-ee36bc8aa2cf | -29.85519 | -54.66523 | 2025-04-14 04:14:00 | NOAA-21 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 8.1 |
-| dfd7ec4b-7d5b-3d4f-8d48-185419c1d8c2 | -29.85477 | -54.66196 | 2025-04-14 04:14:00 | NOAA-21 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 5.1 |
-| 68d45d68-b498-3458-a0d2-e5f8e4df9c0b | -5.94593 | -44.46618 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| cf264724-ad91-3280-8707-1908d955a0f1 | -5.94658 | -44.46192 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 438f5835-5ecc-3870-bd5b-60e3639b4826 | -5.79602 | -46.30888 | 2025-04-14 04:32:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 6e40a6a3-728d-35c2-bb2c-a34ecde52bd0 | -6.29245 | -45.26641 | 2025-04-14 04:32:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 274aabdd-1a44-373b-b87e-254c2d1b4a5b | -5.95086 | -44.45826 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| ddd3d488-023c-3dc3-8807-0cd9b9263ff8 | -5.94722 | -44.45771 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| ee74af2c-b75b-37c2-9837-cc6dd8d0bebd | -5.93635 | -44.35618 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 2062ee8d-fe1e-3634-8cd4-0b73ac8bbe78 | -5.94293 | -44.46138 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 3e4ffd02-0138-30cc-850f-9d7e95652a60 | -6.28893 | -45.26589 | 2025-04-14 04:32:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 0e54882c-2fd1-30fb-99fe-f7cd5934ae69 | -5.95022 | -44.46247 | 2025-04-14 04:32:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 2cc1f01f-ab30-3142-a21b-345f7ca21ea5 | -7.06548 | -44.37562 | 2025-04-14 04:34:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 30e68ac7-8646-3ffa-ae6d-7f1ce34bc585 | -7.06177 | -44.37505 | 2025-04-14 04:34:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| a097aad6-38a0-31e0-bcc8-5eb28c6021fa | -7.06109 | -44.37952 | 2025-04-14 04:34:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9cd3f31b-0dee-325f-ab37-f3d675b9c353 | -18.11051 | -42.88459 | 2025-04-14 04:36:00 | NPP-375D | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| cfb6a6fe-9e22-3b5f-8b3c-776917697662 | -18.11524 | -42.88535 | 2025-04-14 04:36:00 | NPP-375D | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 8d7f97f4-a3fb-343e-b1fa-159eebd0647b | -17.56919 | -50.66118 | 2025-04-14 04:36:00 | NPP-375D | SANTO ANTÔNIO DA BARRA | GOIÁS | Brasil | 5219712 | 52 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 797cd8b7-538d-31e1-ac47-e50dddccddf1 | -16.2744 | -40.06561 | 2025-04-14 04:36:00 | NPP-375D | SANTA MARIA DO SALTO | MINAS GERAIS | Brasil | 3158102 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| a2b78d5c-6283-3d80-a1d7-c4c4181e58fc | -21.19589 | -44.93784 | 2025-04-14 04:38:00 | NPP-375D | IJACI | MINAS GERAIS | Brasil | 3130408 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 04a4d41d-3793-38e1-bf1e-2044977ab444 | -23.04577 | -49.89487 | 2025-04-14 04:38:00 | NPP-375D | OURINHOS | SÃO PAULO | Brasil | 3534708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
-| 3de06df6-4ca8-3a24-90a7-14537befd78f | -21.45063 | -47.002 | 2025-04-14 04:38:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 553ee4b4-450f-304f-8820-96f0e25157b6 | -29.85615 | -54.66336 | 2025-04-14 04:40:00 | NPP-375D | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 0.8 |
-| 880cbf25-58c2-3162-877c-40b2c77abc14 | -29.85279 | -54.66262 | 2025-04-14 04:40:00 | NPP-375D | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 0.8 |
-| bb762996-2fb1-3c1d-acec-930b5c6a3c8b | -30.27604 | -55.18492 | 2025-04-14 04:40:00 | NPP-375D | ROSÁRIO DO SUL | RIO GRANDE DO SUL | Brasil | 4316402 | 43 | 33 | nan | nan | nan | Pampa | 0.4 |
-| 161f7a9b-6464-31a9-bbab-dafefa11ee2e | -29.85951 | -54.66409 | 2025-04-14 04:40:00 | NPP-375D | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 1.5 |
-| 0ec3b47e-8306-3302-8136-454efef83d14 | -5.94693 | -44.4609 | 2025-04-14 04:55:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 88809d9c-d1e4-317b-86cf-d41e6041adee | -5.94643 | -44.46449 | 2025-04-14 04:55:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| f1568282-8a79-3baa-9e11-e4ad38192810 | -5.94592 | -44.46815 | 2025-04-14 04:55:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| eb3a3d0e-11fd-31d8-aa26-7ef1118e27b9 | -5.93326 | -44.35711 | 2025-04-14 04:55:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 0ccdd605-c4a8-3443-9332-3adf03691add | -5.94741 | -44.45739 | 2025-04-14 04:55:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 747d6a48-9a3a-3562-b88b-5fc27dd6bb95 | -11.39833 | -52.95046 | 2025-04-14 04:55:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b48be689-173f-36bb-b55e-c3e08cc143d5 | -5.9524 | -44.46165 | 2025-04-14 04:55:00 | NOAA-20 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| d2ef7491-e5a5-35cd-9ce7-0e73e568414f | -16.90609 | -48.19575 | 2025-04-14 04:57:00 | NOAA-20 | ORIZONA | GOIÁS | Brasil | 5215306 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6ec74685-c7b9-3746-861d-0220f6369234 | -17.36878 | -52.34461 | 2025-04-14 04:57:00 | NOAA-20 | PEROLÂNDIA | GOIÁS | Brasil | 5216452 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| cfce794f-001f-30ee-828e-e317c87c2855 | -23.04502 | -49.89208 | 2025-04-14 04:59:00 | NOAA-20 | OURINHOS | SÃO PAULO | Brasil | 3534708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 5369f251-b627-3a93-8852-1c786f088bcc | -29.86034 | -54.66503 | 2025-04-14 05:01:00 | NOAA-20 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
-| 16c440b7-488d-34d2-9530-3464376d5593 | -29.85644 | -54.66438 | 2025-04-14 05:01:00 | NOAA-20 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
-| c6b0b91a-663e-3c79-afb2-1ad9fb0bb92d | -30.27497 | -55.18584 | 2025-04-14 05:01:00 | NOAA-20 | ROSÁRIO DO SUL | RIO GRANDE DO SUL | Brasil | 4316402 | 43 | 33 | nan | nan | nan | Pampa | 0.8 |
-| f02ee733-c034-3310-bf08-74cd9689501b | -29.85252 | -54.66374 | 2025-04-14 05:01:00 | NOAA-20 | CACEQUI | RIO GRANDE DO SUL | Brasil | 4302907 | 43 | 33 | nan | nan | nan | Pampa | 1.2 |
-| 393e2a8f-c3ac-3601-b5bd-7d12d74eb968 | 2.64237 | -61.41505 | 2025-04-14 05:46:00 | NOAA-21 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a1991b01-1d07-3c66-992f-5f781553a41d | 2.65596 | -61.43027 | 2025-04-14 05:46:00 | NOAA-21 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9831d6bf-db73-3d68-90f4-a20a96fa4f5e | -9.86605 | -63.30277 | 2025-04-14 05:50:00 | NOAA-21 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 299e8375-2de7-3319-becb-bfffef71b894 | -9.86221 | -63.30214 | 2025-04-14 05:50:00 | NOAA-21 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| bdd94ae2-98ed-3a7d-af3e-d2520d99bb05 | -9.86989 | -63.30339 | 2025-04-14 05:50:00 | NOAA-21 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 07587cb7-cd53-3573-b0d1-7e32ae4447a4 | -6.3698 | -43.6364 | 2025-04-14 12:20:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 184.9 |
-| 868964a4-5593-3266-b415-6498f94e4151 | -6.3698 | -43.6364 | 2025-04-14 13:40:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 238.1 |
-| a2a2b7d7-5b5a-36c0-8d4e-67eb13c4ec93 | -6.3698 | -43.6364 | 2025-04-14 13:50:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 115.0 |
-| c036abac-6850-3502-aeaa-abb699c051e3 | -6.3698 | -43.6364 | 2025-04-14 14:00:00 | GOES-19 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 185.2 |
+| ce0cbec6-ba59-3414-8c6f-7f8332a8a5ff | 2.3964 | -61.3048 | 2025-04-15 00:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 152.8 |
+| d1f1308d-cba5-3f4b-bce8-5b96230b6d02 | 2.3965 | -61.2859 | 2025-04-15 00:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 210.1 |
+| 6a2fda2d-4862-3129-bbbe-817e7a4bd290 | 2.4147 | -61.3045 | 2025-04-15 00:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 80.5 |
+| 5a5889ba-6a5f-3be4-8013-2c7734ddc4b8 | 2.3782 | -61.2861 | 2025-04-15 00:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 88.3 |
+| 76a4ec54-873d-3d1c-a806-6fb53d9df643 | 2.4147 | -61.2857 | 2025-04-15 00:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 104.5 |
+| aab4a157-874a-35e8-831a-5d7ad1487bef | 2.3782 | -61.305 | 2025-04-15 00:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 74.5 |
+| 2dc01078-e820-34cd-abb2-2adfd0bbd088 | 2.4147 | -61.3045 | 2025-04-15 00:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 85.8 |
+| 6a5cc830-7d55-3156-b743-8c993bbabba2 | 2.3965 | -61.2859 | 2025-04-15 00:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 191.5 |
+| f1e31b27-50c4-38bb-a110-13a685f0c706 | 2.3964 | -61.3048 | 2025-04-15 00:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 153.7 |
+| 35816d88-fd26-32e8-b1a6-3344e83c55d6 | 2.4147 | -61.2857 | 2025-04-15 00:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 105.2 |
+| 8545761e-1f77-3ee3-984a-1c5d59cae5ba | 2.3782 | -61.305 | 2025-04-15 00:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 70.9 |
+| 7d547d3a-1955-324d-83fb-0e3de6146d90 | 2.3782 | -61.2861 | 2025-04-15 00:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 79.1 |
+| 1ea470e0-1faf-3562-9383-c45376a5889a | 2.3965 | -61.2859 | 2025-04-15 00:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 201.4 |
+| 8432d254-1867-318e-9a55-46ebe102ea61 | 2.4147 | -61.3045 | 2025-04-15 00:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 76.5 |
+| cae5a484-c3ac-36ed-9d13-12e9edb9ef41 | 2.3964 | -61.3048 | 2025-04-15 00:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 179.5 |
+| 574198df-ff9b-343d-9d42-fd8bfa00dfcf | 2.4147 | -61.2857 | 2025-04-15 00:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 91.5 |
+| e9f8ab4e-054c-3472-a4bb-2f27a7562d12 | 2.3782 | -61.2861 | 2025-04-15 00:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 67.9 |
+| 50b9aa70-f6a6-33f6-8b8b-c81dadc10389 | 2.4147 | -61.2857 | 2025-04-15 00:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 85.2 |
+| ef1eeec4-9815-335c-8c3f-aa8f19b5167c | 2.4147 | -61.3045 | 2025-04-15 00:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 76.9 |
+| 596b8fba-5d67-355b-b20f-7704bebf005d | 2.3964 | -61.3048 | 2025-04-15 00:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 181.0 |
+| 47af3056-9cb0-3ab3-8efc-6fb863f79cba | 2.3965 | -61.2859 | 2025-04-15 00:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 202.0 |
+| 43637f7f-ed87-347d-8801-794a96ee144f | 2.3965 | -61.2859 | 2025-04-15 00:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 162.2 |
+| 44b465b8-218f-3d29-a361-c76c70744781 | 2.4147 | -61.3045 | 2025-04-15 00:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 72.7 |
+| 95b78cbf-4f63-33f6-b900-9a8e34feed1a | 2.3782 | -61.2861 | 2025-04-15 00:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| f212b01c-b017-3f97-80d3-f123a9b78c49 | 2.3964 | -61.3048 | 2025-04-15 00:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 131.6 |
+| b14197a0-dac1-3269-9146-275bc7b24d60 | 2.4147 | -61.2857 | 2025-04-15 00:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 87.4 |
+| 149bde7b-40d7-3df6-8bc7-5bef409fef18 | -6.3724 | -43.6586 | 2025-04-15 00:44:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 31685d29-9742-30ee-8efc-506ed4e7511d | -20.098301 | -41.565399 | 2025-04-15 00:44:00 | METOP-C | LAJINHA | MINAS GERAIS | Brasil | 3137700 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 0b26e846-3594-35bd-acd4-c23fbf61dfc7 | 2.4145 | -61.278999 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| dafe8da9-8d41-3e72-955b-646483724335 | -5.5837 | -44.541698 | 2025-04-15 00:44:00 | METOP-C | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d344966d-cd84-3d52-9243-7614c74317a8 | 2.409 | -61.301899 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 2fbf3cfe-7d47-3778-9d71-ac9a94aed596 | -5.5812 | -44.5312 | 2025-04-15 00:44:00 | METOP-C | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ce08a40e-b556-32fc-88ed-4fd29b272a5e | -20.2498 | -46.569 | 2025-04-15 00:44:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 1e094a4c-130a-3846-82b8-7edbeabff4b1 | 2.4048 | -61.276699 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 2f354593-dc8e-3371-8e95-cf4983a65c2f | -7.4574 | -45.522701 | 2025-04-15 00:44:00 | METOP-C | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| be8af2af-ca5d-353a-9262-ba10817f8170 | -21.3647 | -48.599602 | 2025-04-15 00:44:00 | METOP-C | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d7257060-8f07-301f-b812-328bafd9579f | -6.3627 | -43.6609 | 2025-04-15 00:44:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7e1f3122-0cc2-3635-81a9-43b26ca40cdd | 2.3897 | -61.297401 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 4019f2b6-e9b9-34f8-9500-e4c1d6481ea7 | 2.3993 | -61.299599 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| c7654d84-801c-3395-8855-ab9432bd920d | -6.3696 | -43.646999 | 2025-04-15 00:44:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 863254cb-5547-3c11-8369-ad01f6d26a95 | -6.3599 | -43.6493 | 2025-04-15 00:44:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 49a0f031-6a35-35db-9225-eeca886d0fcc | -20.246599 | -46.554401 | 2025-04-15 00:44:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 8ce5a685-2e64-3ddd-b818-7e452a9e3dcf | -19.762501 | -48.1343 | 2025-04-15 00:44:00 | METOP-C | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 216dbf42-8d5c-3a4a-bcbc-cfa992652c9a | -20.248199 | -46.561699 | 2025-04-15 00:44:00 | METOP-C | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 0f1b7ddb-18f2-3963-9d3a-532d0e59a6b1 | 2.4102 | -61.254002 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 09d3de31-22e4-3fe7-a13b-849496571eea | 2.3952 | -61.274502 | 2025-04-15 00:44:00 | METOP-C | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 2a903f19-ad2d-3b50-9b87-63ef79c0ffee | -21.363001 | -48.591301 | 2025-04-15 00:44:00 | METOP-C | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 72776db8-1a48-34aa-844b-04113ed0d9ce | 2.4147 | -61.2857 | 2025-04-15 00:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 78.3 |
+| 51f00700-c8b4-3e51-9c8b-ed72497ad255 | 2.4147 | -61.3045 | 2025-04-15 00:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 68.4 |
+| eab6d6ee-01f2-3a83-a325-a5987fb88259 | 2.3965 | -61.2859 | 2025-04-15 00:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 182.9 |
+| 57a29836-8ac0-311b-8033-458ed20c18c5 | 2.3964 | -61.3048 | 2025-04-15 00:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 167.9 |
+| 0287affe-b69c-3e55-a00e-d82f536aab9f | 2.4147 | -61.3045 | 2025-04-15 01:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 72.9 |
+| 380c1009-800a-3fe7-8465-4fdc37fc48e1 | 2.3782 | -61.305 | 2025-04-15 01:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 71.2 |
+| 1573574f-1d77-3401-9b9a-f860958805b8 | 2.4147 | -61.2857 | 2025-04-15 01:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 84.6 |
+| 6364f5b9-449f-30e2-a484-ceb5a6f31721 | 2.3782 | -61.2861 | 2025-04-15 01:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 73.8 |
+| 383388b8-c1e9-3ab0-aae7-4b7a0fd4f213 | 2.3965 | -61.2859 | 2025-04-15 01:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 169.0 |
+| 3b18f6d1-b7fd-3884-abbc-a9a2324187a0 | 2.3964 | -61.3048 | 2025-04-15 01:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 143.5 |
+| a14520fa-6a07-3a9a-b042-38c370d345d3 | 2.3964 | -61.3048 | 2025-04-15 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 109.2 |
+| 3229d542-5687-3221-874f-a2e6c91ede85 | 2.4147 | -61.3045 | 2025-04-15 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 66.0 |
+| 30fb5d6d-b371-3a37-b270-2b2f4b782019 | 2.3965 | -61.2859 | 2025-04-15 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 121.3 |
+| 47f3e470-ed22-32e7-91a9-f7cc0aac70d5 | 2.4147 | -61.2857 | 2025-04-15 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 73.3 |
+| 0d1e481c-aeb0-3e2b-9153-a8eb412c15b2 | -20.24058 | -46.5748 | 2025-04-15 01:24:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 66.4 |
+| 9dd7f6b7-b926-3456-8e5b-ec1b146559fb | -20.23357 | -46.53952 | 2025-04-15 01:24:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 38.4 |
+| 319e71c3-2747-3bf8-b128-7fb6fc23641e | -20.23178 | -46.57172 | 2025-04-15 01:24:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 54.4 |
+| 833166ea-43bc-313e-9b74-70f22e567f2e | 2.4147 | -61.3045 | 2025-04-15 01:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 65.8 |
+| f905f876-0bc7-3642-9afa-f75dd783cbed | 2.3965 | -61.2859 | 2025-04-15 01:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 143.2 |
+| 9b05d796-c9ba-3660-bfdd-98c2ce662816 | 2.3964 | -61.3048 | 2025-04-15 01:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 121.0 |
+| cd5d862d-fa70-37d1-a2e3-5aa4df051202 | 2.4147 | -61.2857 | 2025-04-15 01:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 75.4 |
+| 7177b16d-74ed-3da7-bfd3-b53a028fe2d3 | 2.40329 | -61.29747 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 49.5 |
+| f6522fd7-99fd-3b4b-98dd-6165cdcfc435 | 2.40572 | -61.27989 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 4ac1c5f4-22b4-3c09-869d-d1ff13702456 | 2.40207 | -61.30625 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| d327de12-24e0-314f-9075-eec9ad402909 | 2.39568 | -61.28744 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 68.4 |
+| 363a587d-a82a-3dfb-9e97-b3fdda7edd5f | 2.40451 | -61.28868 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 56.1 |
+| 75df4c45-29bf-3156-825b-8a9ed94b0bbb | 2.41211 | -61.29874 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 2ba90133-0d99-3abe-9e07-a16870fa11f0 | 1.64735 | -60.23462 | 2025-04-15 01:30:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 18f74ec8-1166-3602-a6fe-715e02fb34b6 | 2.41333 | -61.28993 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 6cb3753c-3f05-3782-a748-cb077fe7ad27 | 2.39324 | -61.305 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 19.3 |
+| 5e32a968-744c-3f37-9498-c75da7b50cd7 | 2.3969 | -61.27865 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 5d6f3ff7-1a03-386d-a744-45be73ee812f | 2.39446 | -61.29622 | 2025-04-15 01:30:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 120.2 |
+| fd6cd950-6fa7-3dfb-b47f-a370d82a8788 | 2.3978 | -61.315899 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| fa70e269-ae63-32de-b0c1-e3748b51a45d | 2.4013 | -61.2999 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| b033327a-759d-3e14-8004-984f75775375 | 2.3881 | -61.313801 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| e6e158b5-3788-3819-9411-43be412d1706 | 2.4049 | -61.283798 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 636eb487-bcf1-3329-8424-d92e8fb97080 | 2.3952 | -61.2817 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| b7470f13-1302-3abd-9269-1c658968e4ca | 2.3916 | -61.297699 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| a2b88045-6563-3b73-9c1d-5a81a1321ff2 | 2.3819 | -61.295601 | 2025-04-15 01:33:00 | METOP-B | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 2333278a-6959-3ae3-bb18-f1dbaa76cedb | 2.3965 | -61.2859 | 2025-04-15 01:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 137.7 |
+| f3bab399-729a-3dfc-9b2e-e1663315aa3f | 2.3964 | -61.3048 | 2025-04-15 01:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 111.8 |
+| e00ab85c-eea7-35e7-a3ce-3b4c91ccd568 | 2.4147 | -61.3045 | 2025-04-15 01:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 71.1 |
+| 5859304e-093e-39ed-94fb-2fc0c5c98026 | 2.4147 | -61.2857 | 2025-04-15 01:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 86.5 |
+| e8c3e478-eb80-33d7-8b25-9961f0c01e0c | 2.3964 | -61.3048 | 2025-04-15 01:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 107.0 |
+| 9e339c22-b8c3-3a24-a156-10754ac6c780 | 2.3965 | -61.2859 | 2025-04-15 01:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 128.0 |
+| fb48a013-5acc-3aa6-9576-63ae44268cf7 | 2.4147 | -61.2857 | 2025-04-15 01:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 68.3 |
+| d9ac7d3c-9d22-34c3-b743-e31021ff9f85 | 2.3964 | -61.3048 | 2025-04-15 02:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 112.6 |
+| 55337320-cefc-3e7d-8a99-54ec1cd2fab1 | 2.3782 | -61.2861 | 2025-04-15 02:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 60.9 |
+| f3b79020-040f-3c03-99f1-e645c28cd47b | 2.3965 | -61.2859 | 2025-04-15 02:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 125.8 |
+| 51f3ed01-75c5-3bbd-a70e-70170ba2fb59 | 2.4147 | -61.3045 | 2025-04-15 02:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 61.6 |
+| 4dddc8da-3796-38b4-aef0-08967c3429cc | 2.3782 | -61.305 | 2025-04-15 02:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 59.0 |
+| 5196a8e1-6f09-37e8-854c-22a453822500 | 2.4147 | -61.2857 | 2025-04-15 02:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 69.1 |
+| 4c3c6ccc-f6ef-3472-90d4-59d88dd92bb6 | 2.3964 | -61.3048 | 2025-04-15 02:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 105.7 |
 
 
+[Clique aqui para ver as próximas entradas](README2.md)
