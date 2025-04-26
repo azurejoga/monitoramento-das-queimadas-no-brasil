@@ -29,49 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b0af0515-7a82-3216-b056-52a004c7a56b | -9.91932 | -59.90702 | 2025-04-18 04:59:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 996d3d69-36be-3628-8c11-007a35745023 | -7.90819 | -61.51217 | 2025-04-18 04:59:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 670fd1ef-83fb-38ec-82fc-ed4a0daafc56 | -15.07619 | -48.94643 | 2025-04-18 04:59:00 | NPP-375D | BARRO ALTO | GOIÁS | Brasil | 5203203 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| dd95a8e3-c7d4-308b-a284-374b8b57f93b | -9.92823 | -59.90316 | 2025-04-18 04:59:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| bedff23d-4e16-3216-9688-4724ec32b498 | -11.39985 | -52.94244 | 2025-04-18 04:59:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| eaeeb96d-6de0-337c-be7f-800816c75933 | -9.92423 | -59.90245 | 2025-04-18 04:59:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| a6a77f98-d032-366a-9b16-2b12e2619b2d | -7.90358 | -61.51143 | 2025-04-18 04:59:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4432138a-2e52-38fa-b0d9-b84c8119eb3c | -19.49183 | -57.42965 | 2025-04-18 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 637e6a50-4c4c-3820-bfae-9d05db6d1294 | -29.40721 | -54.03866 | 2025-04-18 05:04:00 | NPP-375D | SÃO MARTINHO DA SERRA | RIO GRANDE DO SUL | Brasil | 4319125 | 43 | 33 | nan | nan | nan | Pampa | 0.6 |
-| 323689c3-5d23-3836-bc41-e2cb35f6ea81 | -29.40314 | -54.03794 | 2025-04-18 05:04:00 | NPP-375D | SÃO MARTINHO DA SERRA | RIO GRANDE DO SUL | Brasil | 4319125 | 43 | 33 | nan | nan | nan | Pampa | 0.6 |
-| 03ebe1e1-ccd0-358f-a023-63a534a76d25 | 1.99566 | -60.87229 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| db374dc3-be3e-3df4-87dc-1299cfe45065 | 1.99218 | -60.87284 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 57d9adde-4a88-3efe-96a4-26d8cde1dec3 | 1.99854 | -60.86792 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6d95708b-ad1b-35da-86fe-c28a858efb57 | 2.39348 | -61.29448 | 2025-04-18 05:18:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4a13e90c-aede-34ae-a6af-e2a60e3543bc | 1.99913 | -60.87175 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5b5d9839-87e7-3e4d-8eb8-550bce64d871 | 0.69276 | -51.44619 | 2025-04-18 05:18:00 | NOAA-20 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 8c2f26c6-6e2a-3270-bacd-1536abc69ef7 | 1.98812 | -60.86957 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4db0d8ab-137f-3f30-8bcb-908481ca08c0 | 1.99514 | -60.892 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a714d305-3e9e-31ca-8513-2e68c7bb35a1 | 0.6945 | -51.44855 | 2025-04-18 05:18:00 | NOAA-20 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| ec7e6c93-8aac-3cbf-a1d7-6bae5eca8111 | 1.98871 | -60.8734 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 774e4475-1188-34cc-aaa9-91414bdf153a | 1.99159 | -60.86902 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f0e1efb1-c8e7-3686-b7d3-d0b8b270f494 | 1.991 | -60.86519 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 808fc7ae-4518-3984-ad6e-d0b52e8efc23 | 1.99448 | -60.86464 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 76623932-9195-3d61-a7eb-9544e226fb8b | 1.99277 | -60.87666 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 1160aad5-5964-3de3-8887-61f3d3194b0b | 1.99507 | -60.86847 | 2025-04-18 05:18:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 3269e233-2730-3d32-aff7-7790dc1d2a7d | -5.00928 | -56.17452 | 2025-04-18 05:21:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bd49a063-2743-3e87-8eb8-2f9a9ad65adf | 0.76654 | -60.60608 | 2025-04-18 05:21:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 3a437cdf-4676-3898-82b6-3626484fed69 | -9.92486 | -59.90437 | 2025-04-18 05:23:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| edd35ce8-3168-3dfe-a77f-4bbdcdccd6c1 | -9.92663 | -59.93786 | 2025-04-18 05:23:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2e3fbfa3-4903-3e52-89f0-d8bd6a2170c2 | -7.90485 | -61.51071 | 2025-04-18 05:23:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 8cea38ce-02e5-3f29-9db3-be7b6289f775 | -19.49188 | -57.42753 | 2025-04-18 05:23:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 14522148-e1b0-383d-b855-3961f3cd02d6 | -12.36214 | -60.80592 | 2025-04-18 05:23:00 | NOAA-20 | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e8775796-3a63-3648-89fb-49c5087aaecf | -5.7898 | -43.61024 | 2025-04-18 05:55:00 | AQUA_M-M | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 21.3 |
-| 89a97dda-d854-3f3b-ab71-aff25b91baa8 | -6.95272 | -43.03838 | 2025-04-18 12:34:00 | TERRA_M-T | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 30.7 |
-| 7e05d8ac-548b-3990-a3b7-8e9f63dbfdc9 | -7.32423 | -46.31542 | 2025-04-18 12:34:00 | TERRA_M-T | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 89a06e88-b3e2-3f2e-8a23-3d69d53be127 | -12.21767 | -44.15723 | 2025-04-18 12:34:00 | TERRA_M-T | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 7650a656-a3a1-3215-a618-281fc5719432 | -7.07942 | -44.37784 | 2025-04-18 12:34:00 | TERRA_M-T | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| 42b8aee0-f388-3ab7-ba74-8b9a4666ec9a | -7.76103 | -46.74881 | 2025-04-18 12:34:00 | TERRA_M-T | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 2e13c492-03b8-36c3-b6ca-5f71c9c0a857 | -12.21954 | -44.14236 | 2025-04-18 12:34:00 | TERRA_M-T | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 69b9dc09-3fd5-3f32-b482-c384afe565e7 | -6.7167 | -47.60182 | 2025-04-18 12:34:00 | TERRA_M-T | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| 2bf0f788-7ae0-3060-a148-d2e2d701dac0 | -7.69947 | -47.57404 | 2025-04-18 12:34:00 | TERRA_M-T | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| a8ce50b8-85d5-3f3a-9f98-c3fad3d4a561 | -5.48756 | -43.3317 | 2025-04-18 12:34:00 | TERRA_M-T | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 357bada3-48c6-3cbe-9600-79e69fefc2a3 | -5.7951 | -43.61027 | 2025-04-18 12:34:00 | TERRA_M-T | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| 03f2096d-6adb-37b2-b38d-56f56275d6f5 | -6.51224 | -44.03115 | 2025-04-18 12:34:00 | TERRA_M-T | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| 9b8992fa-43b3-3d0f-9a25-44ad2e5a8d9d | -13.66377 | -43.79336 | 2025-04-26 04:32:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f2998fe6-5a52-3479-a1ab-8d3f0313aed0 | -13.6643 | -43.78927 | 2025-04-26 04:32:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f9a0f605-bab7-339b-90d6-b00b5f4d1d6e | -13.66211 | -43.79469 | 2025-04-26 04:32:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8848d0d6-a748-373c-8a51-00fd619e1cc6 | -11.39414 | -52.9387 | 2025-04-26 04:32:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| 80aedb02-f2a8-35f9-8d36-b76deec4facb | -11.39673 | -52.94672 | 2025-04-26 04:32:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 2c29624a-f44e-3199-a59e-56b462b257b9 | -13.66742 | -43.78709 | 2025-04-26 04:32:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 222f81ec-1393-3b3c-8384-11d5da89db3c | -11.39458 | -52.93679 | 2025-04-26 04:32:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 25.4 |
+| cdedc5cd-7448-3387-bc92-82ccb070ff1d | -12.55788 | -45.35736 | 2025-04-26 04:32:00 | NOAA-20 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 26f849e4-22a6-3164-afa0-2951afdb1341 | -12.33366 | -55.15683 | 2025-04-26 04:32:00 | NOAA-20 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| db2aa037-4a6b-3f0a-82ec-53759c78f15c | -8.94048 | -44.23271 | 2025-04-26 04:32:00 | NOAA-20 | SANTA LUZ | PIAUÍ | Brasil | 2209302 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| da262af2-1ca2-3494-9996-1fa72cfd8335 | -11.39336 | -52.94333 | 2025-04-26 04:32:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| f08f4e3f-e0d6-3560-8b6d-289c8e07a574 | -11.4013 | -52.94277 | 2025-04-26 04:32:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| ade2605f-8548-322e-8496-e51cfcbc7127 | -15.59733 | -41.7948 | 2025-04-26 04:32:00 | NOAA-20 | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
+| d844b0ad-dbe2-3c06-af25-b4cd3edd1e7e | -11.40722 | -52.95344 | 2025-04-26 04:32:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 374f8fac-3a3b-3936-b554-e41e4bf10cc7 | -16.68198 | -43.88424 | 2025-04-26 04:34:00 | NOAA-20 | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 10f8393b-04e2-3b92-be8e-a2260d155ae3 | -28.20219 | -48.70236 | 2025-04-26 04:36:00 | NOAA-20 | IMBITUBA | SANTA CATARINA | Brasil | 4207304 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 36a782b1-5757-37a7-8a77-893216dd25e7 | -23.5921 | -47.43971 | 2025-04-26 04:36:00 | NOAA-20 | VOTORANTIM | SÃO PAULO | Brasil | 3557006 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 922fc838-ca98-3938-8b4f-e311d2753722 | -28.88592 | -51.20855 | 2025-04-26 04:36:00 | NOAA-20 | ANTÔNIO PRADO | RIO GRANDE DO SUL | Brasil | 4300802 | 43 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 007edde7-5c76-3acf-8112-4199cca559a8 | -26.33356 | -53.18644 | 2025-04-26 04:36:00 | NOAA-20 | FLOR DA SERRA DO SUL | PARANÁ | Brasil | 4107850 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 28fb0fc5-e69f-3fd9-9678-812a3335ff68 | -27.3038 | -48.78103 | 2025-04-26 04:36:00 | NOAA-20 | CANELINHA | SANTA CATARINA | Brasil | 4203709 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 9a0fd806-be8b-36d1-9a2c-d2bceb10d723 | -28.8825 | -51.20792 | 2025-04-26 04:36:00 | NOAA-20 | ANTÔNIO PRADO | RIO GRANDE DO SUL | Brasil | 4300802 | 43 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
+| e8a960e0-0783-36ec-8994-6e73121a200a | -28.05979 | -48.67234 | 2025-04-26 04:36:00 | NOAA-20 | GAROPABA | SANTA CATARINA | Brasil | 4205704 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| cd3d42e6-aa5d-33c6-83fd-19291ae31dba | -29.80853 | -51.3443 | 2025-04-26 04:38:00 | NOAA-20 | NOVA SANTA RITA | RIO GRANDE DO SUL | Brasil | 4313375 | 43 | 33 | nan | nan | nan | Pampa | 1.4 |
+| 106dd2a0-7973-36f4-990f-670b7878aa69 | -29.63326 | -51.30274 | 2025-04-26 04:38:00 | NOAA-20 | SÃO SEBASTIÃO DO CAÍ | RIO GRANDE DO SUL | Brasil | 4319505 | 43 | 33 | nan | nan | nan | Pampa | 5.7 |
+| 520b8d18-ca0e-3be3-a4e2-64cedbc36ead | -29.58206 | -50.63192 | 2025-04-26 04:38:00 | NOAA-20 | TAQUARA | RIO GRANDE DO SUL | Brasil | 4321204 | 43 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| ac2fdfe7-e5e1-3fcf-9144-57d15b94e8ae | -30.86089 | -51.67777 | 2025-04-26 04:38:00 | NOAA-20 | ARAMBARÉ | RIO GRANDE DO SUL | Brasil | 4300851 | 43 | 33 | nan | nan | nan | Pampa | 0.6 |
+| 5a3afe51-5331-3b36-b61a-644607234e47 | -29.81196 | -51.34494 | 2025-04-26 04:38:00 | NOAA-20 | NOVA SANTA RITA | RIO GRANDE DO SUL | Brasil | 4313375 | 43 | 33 | nan | nan | nan | Pampa | 0.3 |
+| 844d67cb-ad8f-3687-a34a-6e444b1bdd82 | -11.3965 | -52.9269 | 2025-04-26 04:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 53.0 |
+| 43d9c557-8a13-37fd-9686-ad1855792c67 | -11.4152 | -52.9458 | 2025-04-26 04:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| ed787c09-574d-3d31-8152-812ca50aca1a | -11.3963 | -52.9477 | 2025-04-26 04:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 75.9 |
+| 8da449db-4217-329c-ab01-5e3d370ab7e7 | -11.4152 | -52.9458 | 2025-04-26 04:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 51.7 |
+| 97d7a5aa-4c33-3203-a8aa-caec7873c6dc | -11.3963 | -52.9477 | 2025-04-26 04:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 78.0 |
+| ea851185-f948-32da-b68a-b94206c4441e | -11.3965 | -52.9269 | 2025-04-26 05:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 53.3 |
+| a8564e1e-3fbc-3b6f-8ecd-8dbd191c4e81 | -11.3963 | -52.9477 | 2025-04-26 05:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| 53eb8265-f2d7-3a00-97f9-8aaf1d7c4ad7 | -11.3963 | -52.9477 | 2025-04-26 05:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 78.7 |
+| b9dae068-60e8-319d-a120-62fc34637f07 | -11.3963 | -52.9477 | 2025-04-26 05:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 77.8 |
+| 26282d8e-4725-3ac5-ac98-412d95e32ada | 4.89323 | -60.61462 | 2025-04-26 05:21:00 | NOAA-21 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 71638370-c6fa-3df5-8759-b7130b1d7eaa | -3.11805 | -59.92879 | 2025-04-26 05:23:00 | NOAA-21 | MANAUS | AMAZONAS | Brasil | 1302603 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7bf157c1-52b2-3a55-a453-fa53b53c5079 | -12.3366 | -55.15761 | 2025-04-26 05:23:00 | NOAA-21 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a0dd46ab-5c3a-328b-a8b5-d0410ab952cf | -13.94715 | -52.53867 | 2025-04-26 05:23:00 | NOAA-21 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 897241e0-f2fc-32cf-827d-623723370e65 | -13.94671 | -52.54241 | 2025-04-26 05:23:00 | NOAA-21 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| fe708326-78e0-3299-89ce-2c5eb8e67093 | -13.94836 | -52.54112 | 2025-04-26 05:23:00 | NOAA-21 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 56c72b87-332d-3c9c-98d6-e4b39d558306 | -12.27444 | -63.83141 | 2025-04-26 05:23:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| f12725f4-186e-3c4c-9690-3ed4dda61bf8 | -13.94877 | -52.53743 | 2025-04-26 05:23:00 | NOAA-21 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a0d279ab-4687-3902-aa09-038f13743d55 | -9.92954 | -59.90478 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| f6e54479-b771-3792-9be0-1706e8f6aa19 | -11.40651 | -52.953 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 32bdf59f-b517-3095-8120-24156622e665 | -15.26246 | -60.18813 | 2025-04-26 05:25:00 | NOAA-21 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| a6ec2cda-e38e-3d38-a623-d85ae15efae1 | -11.40612 | -52.95604 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 966e2b5f-8d1b-34dd-b035-7e32559bd2af | -9.9329 | -59.90531 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| fb1ac5e7-d1f5-3554-a10a-79f522895c03 | -11.39782 | -52.93937 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| fce2a221-a521-3099-9b44-65ca47dce78f | -9.93009 | -59.90119 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 131fc1ea-5307-3b62-81dc-f679e70126e1 | -11.40768 | -52.94377 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| a01decb0-1d3b-38a9-9dac-6592406b0eef | -9.92287 | -59.92586 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 80cc0196-153d-31ed-b9a9-18c338a2a270 | -11.39704 | -52.94559 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| e47362c2-b319-3455-8d20-0f74e354aca0 | -9.92623 | -59.92639 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 5b5a4d4b-06b5-3115-87ef-c4758baabdfe | -11.40062 | -52.95842 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9057d236-44b5-31ee-bb72-871f2676a355 | -11.401 | -52.95541 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 800cf01a-736b-398f-943d-36e451e4c6e5 | -11.40138 | -52.95238 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 237e176c-8825-3786-9341-cd9c96e961a1 | -11.39665 | -52.94865 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 355a156a-7c8d-3770-9c9f-0d81af29286f | -11.40177 | -52.94932 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| dfb43358-be45-3f53-ad58-c29d43e56bcc | -11.40334 | -52.93692 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 10.8 |
+| 9ec9d2e9-0e4c-35af-8b35-0080a33a4858 | -11.40255 | -52.94314 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| 9bd850c0-0026-3f04-a36d-70d14a007caf | -11.39743 | -52.94249 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| 319d02f7-0ce1-3b25-9813-ec89af3481f6 | -11.40216 | -52.94625 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| d8696a45-7c6d-36c8-b949-52787da39b84 | -11.4069 | -52.94994 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| f59ed276-91d3-32ba-b9bc-8ceca0be4ef0 | -9.93345 | -59.90171 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| a2035124-db94-3573-8698-25e7bb98a13d | -9.92618 | -59.90426 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| aeab77b2-ab78-3f75-89ab-a0f3b3fc3ae3 | -11.40295 | -52.94003 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| ec76d675-15c0-3a61-97e9-3a68a733534c | -11.39822 | -52.93626 | 2025-04-26 05:25:00 | NOAA-21 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 10.8 |
+| e2d41adf-b92a-362a-bd21-b86e5afd740f | -9.92232 | -59.92945 | 2025-04-26 05:25:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 266aeedb-f9fb-3651-b689-eba0346d93cb | -11.4152 | -52.9458 | 2025-04-26 05:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 49.4 |
+| 22466141-4cb3-315c-b046-265562c84931 | -11.3963 | -52.9477 | 2025-04-26 05:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 74.5 |
+| 32a30858-0cef-394c-8f7f-01cd1f9480da | -11.3963 | -52.9477 | 2025-04-26 05:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 78.8 |
+| 994deeb1-b3e6-37b8-ae28-a49f079a6606 | -11.3963 | -52.9477 | 2025-04-26 05:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| 01b798a5-13b5-3729-82ca-a799f3df6656 | -9.92197 | -59.92658 | 2025-04-26 05:50:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 4ec4ff97-8cb0-3d0d-98bb-058774734709 | -11.3963 | -52.9477 | 2025-04-26 06:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 74.1 |
+| cb5335cb-392b-3072-9dcb-5744ac469546 | -11.3963 | -52.9477 | 2025-04-26 06:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 68.6 |
+| bc148e67-8430-3ed2-846f-a4c40b7d9d57 | 2.55466 | -61.32707 | 2025-04-26 06:10:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 26b3e647-b71c-3066-8967-c4cdcb1790f2 | 2.55529 | -61.3308 | 2025-04-26 06:10:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 04e9bcfa-cbd7-3340-9dbb-250de62963b0 | -11.39924 | -52.94426 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 53.1 |
+| 99be7ee8-10ca-3742-aefa-d696c5795839 | -11.39772 | -52.955 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 13.5 |
+| 0617e616-3896-35eb-95d9-73fde83ac21e | -11.40078 | -52.93345 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 45.8 |
+| f9a9ae54-0d5b-31e2-91f3-077cc8bcb757 | -11.40887 | -52.94557 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 14.8 |
+| 65c9c6d3-64b6-3202-9f13-35890323e4cd | -11.39114 | -52.93213 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| 64858273-deab-38aa-97f0-77e52391d1b2 | -11.38962 | -52.94291 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 8a882148-8a6f-3403-888a-92b87c613df7 | -11.40734 | -52.95631 | 2025-04-26 06:14:00 | AQUA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| fd7ddec6-4236-30fc-b0f4-7bedc8533678 | -11.3963 | -52.9477 | 2025-04-26 06:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 71.2 |
+| 0fb3a25b-fe27-33f8-80b0-2c8eb28fcfbf | -11.3963 | -52.9477 | 2025-04-26 06:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| 316f7cee-ce41-312f-ad76-bb4670cd5db6 | -11.3963 | -52.9477 | 2025-04-26 06:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| c2d65254-eb06-37c2-89a7-ad582dfe8945 | -11.3963 | -52.9477 | 2025-04-26 06:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 57.7 |
+| 0a12caf0-8b56-37c5-be4a-37f4e3c8b701 | -11.3963 | -52.9477 | 2025-04-26 07:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| 30ef8541-032f-3221-acad-0420a351c3ea | -11.3963 | -52.9477 | 2025-04-26 07:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 62.0 |
+| b91569ff-eae8-36fc-9b8d-a9d736964fce | -11.3963 | -52.9477 | 2025-04-26 07:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| f057d996-18d0-362f-98b3-ce63922a6f8a | -11.4152 | -52.9458 | 2025-04-26 07:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 47.4 |
+| 8c6c2104-9f7f-30dd-8a66-0b8fcc4093ce | -11.3963 | -52.9477 | 2025-04-26 07:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| 511f44f1-7380-3aa9-a94e-87e2e67c43cb | -11.3963 | -52.9477 | 2025-04-26 07:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 60.7 |
+| a7f8ea32-cc55-3d2e-9679-7a7202243a0f | -11.3963 | -52.9477 | 2025-04-26 07:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| 5099ceb1-db27-36ec-875b-5500d09b068e | -11.3963 | -52.9477 | 2025-04-26 08:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 53.8 |
+| a36837cb-1c0a-3024-b36f-7661adefadc6 | -11.3963 | -52.9477 | 2025-04-26 08:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 88215c24-47c3-3266-806f-855f0810360c | -11.3963 | -52.9477 | 2025-04-26 08:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 57.1 |
 
 
+[Clique aqui para ver as próximas entradas](README5.md)
