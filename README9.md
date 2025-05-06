@@ -29,45 +29,28 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| bda753ad-a9d9-36b5-9a9f-6b64bd9fee0b | -6.04813 | -37.51295 | 2025-03-26 12:06:00 | TERRA_M-T | JANDUÍS | RIO GRANDE DO NORTE | Brasil | 2405207 | 24 | 33 | nan | nan | nan | Caatinga | 25.4 |
-| a0c53ffe-131c-337e-846a-9faec6b39003 | -9.52413 | -37.31611 | 2025-03-26 12:08:00 | TERRA_M-T | OLHO D'ÁGUA DAS FLORES | ALAGOAS | Brasil | 2705705 | 27 | 33 | nan | nan | nan | Caatinga | 15.9 |
-| 489e124b-6cfa-3ecd-81ad-54fcaf2530a1 | -10.6208 | -40.21378 | 2025-03-26 12:08:00 | TERRA_M-T | FILADÉLFIA | BAHIA | Brasil | 2910859 | 29 | 33 | nan | nan | nan | Caatinga | 21.9 |
-| 718b008f-e168-3f4f-a964-dfe67dbadd16 | -9.23063 | -40.52983 | 2025-03-26 12:08:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 14.5 |
-| df493aa5-47a0-32e7-a25f-9db7fe07cc75 | -10.70797 | -38.88823 | 2025-03-26 12:08:00 | TERRA_M-T | QUIJINGUE | BAHIA | Brasil | 2925907 | 29 | 33 | nan | nan | nan | Caatinga | 20.9 |
-| cf6f44c4-0584-338d-bf0a-9002295e05a9 | -9.2741 | -36.92413 | 2025-03-26 12:08:00 | TERRA_M-T | IATI | PERNAMBUCO | Brasil | 2606507 | 26 | 33 | nan | nan | nan | Caatinga | 49.3 |
-| d842e5b4-c7bd-358a-94ad-633b1d79f62e | -10.69823 | -38.88706 | 2025-03-26 12:08:00 | TERRA_M-T | QUIJINGUE | BAHIA | Brasil | 2925907 | 29 | 33 | nan | nan | nan | Caatinga | 18.8 |
-| 0da57390-80f0-3099-b1a3-ccd1c982a473 | -9.02095 | -40.24967 | 2025-03-26 12:08:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| e0eda794-9583-397e-962b-4f9201c15fff | -9.47103 | -40.78487 | 2025-03-26 12:08:00 | TERRA_M-T | SOBRADINHO | BAHIA | Brasil | 2930774 | 29 | 33 | nan | nan | nan | Caatinga | 9.4 |
-| 45335112-dfc5-39c8-8e3f-2fe7b9bfaf29 | -10.79211 | -40.30757 | 2025-03-26 12:08:00 | TERRA_M-T | PINDOBAÇU | BAHIA | Brasil | 2924603 | 29 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| c732e347-8ed4-3f0a-9b30-eae1e8afb714 | -9.60595 | -41.64905 | 2025-03-26 12:08:00 | TERRA_M-T | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 15.5 |
-| f5fced46-58b1-3ece-8fd4-33b45161bba1 | -13.47906 | -42.48997 | 2025-03-26 12:08:00 | TERRA_M-T | TANQUE NOVO | BAHIA | Brasil | 2931053 | 29 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| 9eb2d570-dd5e-334d-bd82-d1e1e1d043e5 | -8.8499 | -44.18126 | 2025-03-26 12:08:00 | TERRA_M-T | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 068a6b45-ba3a-36ea-b391-ce1bb6df9d4d | -9.11781 | -40.73783 | 2025-03-26 12:08:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| 6d820235-9516-38a4-9c2f-ac90c31e2b25 | -10.1314 | -37.99714 | 2025-03-26 12:08:00 | TERRA_M-T | CORONEL JOÃO SÁ | BAHIA | Brasil | 2909208 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
-| 1e90d5d1-7ec5-3c10-95f5-6121448312a5 | -10.7908 | -40.31704 | 2025-03-26 12:08:00 | TERRA_M-T | PINDOBAÇU | BAHIA | Brasil | 2924603 | 29 | 33 | nan | nan | nan | Caatinga | 9.5 |
-| f3a7ed8c-7a6b-3c85-bbc3-5434fbc38cde | -14.01449 | -41.31951 | 2025-03-26 12:08:00 | TERRA_M-T | ITUAÇU | BAHIA | Brasil | 2917201 | 29 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| c7e311a1-ad5f-32f5-af3a-f67de35188d4 | -9.5203 | -37.30934 | 2025-03-26 12:08:00 | TERRA_M-T | OLHO D'ÁGUA DAS FLORES | ALAGOAS | Brasil | 2705705 | 27 | 33 | nan | nan | nan | Caatinga | 10.3 |
-| b9191969-4ead-392a-a8d6-9054daf7cb09 | -9.2368 | -40.02775 | 2025-03-26 12:08:00 | TERRA_M-T | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 14.6 |
-| 7e2c56ce-d8da-3921-8104-99dd25ac5b8a | -10.59383 | -39.05497 | 2025-03-26 12:08:00 | TERRA_M-T | EUCLIDES DA CUNHA | BAHIA | Brasil | 2910701 | 29 | 33 | nan | nan | nan | Caatinga | 15.1 |
-| 6bce744f-822b-39b8-a560-ac9db9a2ead8 | -12.20591 | -39.30593 | 2025-03-26 12:08:00 | TERRA_M-T | IPECAETÁ | BAHIA | Brasil | 2913804 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| 443e6783-b8fc-3f5a-bcdd-5b3c3f22e81a | -8.56084 | -36.95894 | 2025-03-26 12:08:00 | TERRA_M-T | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 12.0 |
-| fc66cbf7-d9fa-3e6a-8344-c5919c07dc3e | -12.20449 | -39.31678 | 2025-03-26 12:08:00 | TERRA_M-T | IPECAETÁ | BAHIA | Brasil | 2913804 | 29 | 33 | nan | nan | nan | Mata Atlântica | 11.9 |
-| 359f15f5-00e1-3dbf-85b6-1e6508351147 | -10.6626 | -40.11259 | 2025-03-26 12:08:00 | TERRA_M-T | FILADÉLFIA | BAHIA | Brasil | 2910859 | 29 | 33 | nan | nan | nan | Caatinga | 9.6 |
-| 11a81aff-31b7-3647-b1c8-7125202221e9 | -17.07081 | -39.55343 | 2025-03-26 12:10:00 | TERRA_M-T | ITAMARAJU | BAHIA | Brasil | 2915601 | 29 | 33 | nan | nan | nan | Mata Atlântica | 12.0 |
-| c94d549b-4317-3a85-b5db-5fe7970d2fff | -14.81234 | -39.27224 | 2025-03-26 12:10:00 | TERRA_M-T | ITABUNA | BAHIA | Brasil | 2914802 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
-| ac7e3995-da08-3163-86c2-8102f310fbe5 | -17.32335 | -39.56788 | 2025-03-26 12:10:00 | TERRA_M-T | ALCOBAÇA | BAHIA | Brasil | 2900801 | 29 | 33 | nan | nan | nan | Mata Atlântica | 10.0 |
-| ab64963b-ecf5-3623-8d88-f6e6ddaee323 | -17.07235 | -39.54107 | 2025-03-26 12:10:00 | TERRA_M-T | ITAMARAJU | BAHIA | Brasil | 2915601 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
-| 669a0696-54aa-3198-b1f1-1722ad456273 | -15.34299 | -42.10215 | 2025-03-26 12:10:00 | TERRA_M-T | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 39.2 |
-| 24035c58-3ca1-307f-ab68-c94b69209e5f | -17.93601 | -39.80489 | 2025-03-26 12:10:00 | TERRA_M-T | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
-| edb46992-a229-39bd-902c-26a195bae905 | -15.52492 | -41.25672 | 2025-03-26 12:10:00 | TERRA_M-T | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| d63c0bc2-6a27-3904-abe9-bf02516befe0 | -15.34428 | -42.09297 | 2025-03-26 12:10:00 | TERRA_M-T | SÃO JOÃO DO PARAÍSO | MINAS GERAIS | Brasil | 3162708 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| 3c26741d-3dd6-35f4-9942-84f8f4f03c34 | -9.1113 | -38.162 | 2025-03-26 13:00:00 | GOES-16 | TACARATU | PERNAMBUCO | Brasil | 2614808 | 26 | 33 | nan | nan | nan | Caatinga | 150.4 |
-| fab26499-e836-34b4-9862-9c8034c34a98 | 3.9662 | -61.5246 | 2025-03-26 13:10:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 73.1 |
-| 55be2078-86c5-3289-b622-320e1ae7f345 | 3.9662 | -61.5246 | 2025-03-26 13:50:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 82.7 |
-| e31062e0-0dac-3baf-baa5-0bb54a00e9c3 | 3.9662 | -61.5246 | 2025-03-26 14:00:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 79.3 |
-| 58b77322-42f5-36c1-8625-98e01b23ca6f | 3.9662 | -61.5246 | 2025-03-26 14:10:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 92.0 |
-| 01349874-f329-3f8e-a8fe-88405431beef | 3.9662 | -61.5058 | 2025-03-26 14:10:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 67.0 |
-| a10744a5-154d-347a-8b41-3766edbbed31 | 3.9662 | -61.5058 | 2025-03-26 14:20:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 84.6 |
-| 6943eee8-c14b-3d26-9f42-21c5125042be | 3.9662 | -61.5058 | 2025-03-26 14:30:00 | GOES-16 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 69.3 |
+| 76826f36-8442-3624-a5df-184750c8b4c9 | -6.6208 | -44.7896 | 2025-05-06 13:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 115.2 |
+| f0d2288a-cbb9-3a03-bc68-9f7c7683742b | -6.6208 | -44.7896 | 2025-05-06 13:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 79.7 |
+| 9a65b98e-56ec-31f8-afe3-732f6c598183 | -6.6211 | -44.7668 | 2025-05-06 13:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 768489ca-d9f5-34cf-a39f-f6126c2e142c | -9.193 | -45.3342 | 2025-05-06 13:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 97.3 |
+| 90ca448e-4f18-3847-96dc-aa3cff7910f5 | -18.4279 | -54.7129 | 2025-05-06 13:50:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 84.4 |
+| 47d4192b-40d3-359e-b439-7d0f15ea40f8 | -6.8485 | -42.7979 | 2025-05-06 13:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 122.3 |
+| b485444f-332d-39ca-b137-2ab02db6ef71 | -12.8355 | -47.4117 | 2025-05-06 13:50:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 110.7 |
+| ee6273f0-305c-37b3-8fee-1417f270f1e5 | -6.6211 | -44.7668 | 2025-05-06 14:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| fa103645-21e6-3103-bc48-07a130153fc2 | -20.7222 | -54.4124 | 2025-05-06 14:00:00 | GOES-19 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 94.2 |
+| de05e6b2-cd34-3a03-b3e4-3f9363e055c4 | -9.193 | -45.3342 | 2025-05-06 14:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 97.0 |
+| 612446bd-98e6-3ed2-a1af-cedc84a0fc4d | -12.8355 | -47.4117 | 2025-05-06 14:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 84.6 |
+| a1d2341c-7db2-35fa-9479-447e1110602d | -20.7222 | -54.4124 | 2025-05-06 14:10:00 | GOES-19 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 99.0 |
+| a5e9258f-2881-3515-8dd3-119ce3d60b6f | -9.193 | -45.3342 | 2025-05-06 14:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 93.5 |
+| ecb726c3-9dad-3f8e-85c1-1f46390be112 | -20.2744 | -55.4714 | 2025-05-06 14:10:00 | GOES-19 | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| f99264aa-98a0-3c37-bb10-a14a9cf0cf15 | -12.8355 | -47.4117 | 2025-05-06 14:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| 93ee89e0-aa47-3aa0-bab0-4d797091b1f4 | -12.8355 | -47.4117 | 2025-05-06 14:20:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| 1075c4c8-8207-3939-a1dc-5de91b9cdff1 | -9.193 | -45.3342 | 2025-05-06 14:20:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 90.5 |
+| a74d1c02-917b-3b21-b378-636b23059891 | -20.7222 | -54.4124 | 2025-05-06 14:20:00 | GOES-19 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 113.9 |
+| dcab39b8-b443-3559-8628-0c02436a4c2a | -6.6211 | -44.7668 | 2025-05-06 14:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 109.7 |
+| aae01e94-3c8b-3474-9dbc-9fb7c93ca761 | -9.193 | -45.3342 | 2025-05-06 14:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 88.3 |
+| 257bc5fb-2b38-3d2b-b6d4-d3ce4530f2d2 | -20.2744 | -55.4714 | 2025-05-06 14:30:00 | GOES-19 | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 104.0 |
+| 6fbd4a71-d37b-3e93-8c8e-d02689ae3227 | -20.7222 | -54.4124 | 2025-05-06 14:30:00 | GOES-19 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 132.4 |
+| 5672c301-8ab9-39c5-84af-ff3c7ce5deb4 | -20.2947 | -55.4682 | 2025-05-06 14:30:00 | GOES-19 | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 97.4 |
 
 
