@@ -29,25 +29,19 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b1e87f67-9e4f-3f92-b316-56f8a4645046 | -11.3668 | -49.6265 | 2025-05-07 14:10:00 | GOES-19 | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 79.5 |
-| 8c8b23c8-c965-323a-b10f-b425ce14771c | -18.4279 | -54.7129 | 2025-05-07 14:10:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 117.7 |
-| f2388a78-c732-3538-a960-a290b9800ade | -10.6479 | -46.9221 | 2025-05-07 14:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| 3e9361f1-8585-38f1-88b3-c157ca0c0729 | -10.5144 | -46.9608 | 2025-05-07 14:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| bfdda581-65ac-355e-9fe9-260979bd929a | -11.3668 | -49.6265 | 2025-05-07 14:20:00 | GOES-19 | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 78.4 |
-| 7af4fd50-535b-33fd-9a4e-12a3b6d60028 | -10.6479 | -46.9221 | 2025-05-07 14:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 67.0 |
-| e5c75469-b054-3af6-af47-d92c19900b88 | -18.4283 | -54.6916 | 2025-05-07 14:20:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 97.6 |
-| 58336c5f-fdf5-33aa-8dec-d23377ec4cb0 | -10.9733 | -44.441 | 2025-05-07 14:20:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 147.0 |
-| ffd72998-224f-3178-9123-cf9587d1ef2c | -18.408 | -54.7158 | 2025-05-07 14:20:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 121.0 |
-| bbd43472-d8f8-3e5d-b1ab-3ab409a17bde | -10.8126 | -49.9258 | 2025-05-07 14:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 66.0 |
-| 2b4dc728-8c8d-3f6e-8094-1e8596a5936d | -10.6479 | -46.9221 | 2025-05-07 14:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 63.5 |
-| bcaf12bb-9f6e-3e1a-8c37-b0a3ee0bb3d8 | -10.9736 | -44.4177 | 2025-05-07 14:30:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 72.8 |
-| 866f22b8-5ef1-3c3f-ad19-b08e09bd1764 | -18.408 | -54.7158 | 2025-05-07 14:30:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 144.3 |
-| 1eba8eab-9a22-31c6-9a91-4d20c2ce08cc | -10.5904 | -46.9515 | 2025-05-07 14:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 60.8 |
-| 5825321d-9c9c-3fdf-b512-5ca41c3d6e47 | -10.8566 | -49.4902 | 2025-05-07 14:40:00 | GOES-19 | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 73.5 |
-| 3e569552-642c-3a0d-b392-ef8220d85c63 | -10.6479 | -46.9221 | 2025-05-07 14:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 64.1 |
-| c305caba-7648-3026-9f66-007908a200ac | -10.9541 | -44.4437 | 2025-05-07 14:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 76.9 |
-| aa04bdbf-8e4e-3ff3-b091-3bbd0c525250 | -9.6634 | -49.7228 | 2025-05-07 14:40:00 | GOES-19 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 67.8 |
-| 6a9245c1-d299-354f-bc1c-4ed19e9edc8d | -18.408 | -54.7158 | 2025-05-07 14:40:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 153.0 |
-| 363fea96-2aba-318d-817b-4a21446ccdad | -13.4905 | -52.9505 | 2025-05-07 14:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 59.9 |
+| ee95ce63-ef3e-33cf-87d4-a98caf6f1a98 | -18.4084 | -54.6946 | 2025-05-08 14:30:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| 11602eec-d069-3e23-95e2-e2f2b5be0101 | -6.9804 | -42.7854 | 2025-05-08 14:40:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 62.9 |
+| 8df9b91a-502c-32ae-984b-c26bd00817a1 | -18.408 | -54.7158 | 2025-05-08 14:40:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 61.8 |
+| f75273dd-cbb4-3ff1-984e-5cf1d6c28fa6 | -6.6208 | -44.7896 | 2025-05-08 14:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 62.2 |
+| 6eca0c81-7f13-3da8-9cda-da29efb01531 | -6.9801 | -42.809 | 2025-05-08 14:40:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 90.2 |
+| 22d4fd3f-1f8f-3875-8325-e2786e806cf5 | -10.6689 | -44.3904 | 2025-05-08 14:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 4c344ddf-1a38-3d1e-960c-e27cc3e12d48 | -12.8355 | -47.4117 | 2025-05-08 14:40:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
+| 36fe63de-fa97-3c80-a137-9eb2ca2aa641 | -10.9736 | -44.4177 | 2025-05-08 14:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| c8b7d788-38db-3268-8825-5f1ade1a27aa | -18.4283 | -54.6916 | 2025-05-08 14:40:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 78.4 |
+| f1c8049a-eb72-3ff6-858c-88623171ab1c | -10.9733 | -44.441 | 2025-05-08 14:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 270.6 |
+| 7f4af83c-fb1b-3dc2-a86f-5eb66d5186aa | -10.6693 | -44.3671 | 2025-05-08 14:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 60.5 |
+| 812ac51e-2b46-3ff1-bb4d-5e98afec332b | -12.653 | -54.0622 | 2025-05-08 14:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 55.1 |
+| fef51118-ef91-3729-b5ca-34cdaac48481 | -18.4084 | -54.6946 | 2025-05-08 14:40:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 64.4 |
+| 3dab2a08-259f-3d29-8b76-35507a1b71cc | -13.3752 | -54.2538 | 2025-05-08 14:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 62.1 |
 
 
