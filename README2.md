@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8a509f5e-a052-36eb-9212-63437ac187c5 | -20.061001 | -49.3559 | 2025-05-08 00:17:00 | METOP-B | PAULO DE FARIA | SÃO PAULO | Brasil | 3536604 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 5c245e56-c66e-3cfa-a3e1-6406eab4a6b0 | -15.8337 | -46.5718 | 2025-05-08 00:17:00 | METOP-B | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 88948a96-7650-305b-aea0-91befb886efa | -14.6509 | -45.140301 | 2025-05-08 00:17:00 | METOP-B | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| de31e1c8-fa8f-3ea3-84b8-9f910368ff91 | -13.4977 | -52.9426 | 2025-05-08 00:17:00 | METOP-B | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 138f6dff-9aac-3f30-8872-79281fe3d7f9 | -6.7065 | -42.1418 | 2025-05-08 00:17:00 | METOP-B | TANQUE DO PIAUÍ | PIAUÍ | Brasil | 2210979 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| cdcd30f3-bebc-3cf5-965f-59c1458c71ac | -5.1626 | -45.095501 | 2025-05-08 00:17:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8368726c-5318-3b00-80e5-0066983f561b | -4.0027 | -43.245998 | 2025-05-08 00:17:00 | METOP-B | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ae1880fe-0dd9-317a-a5b3-4a005fae2dd9 | -19.5301 | -43.908199 | 2025-05-08 00:17:00 | METOP-B | JABOTICATUBAS | MINAS GERAIS | Brasil | 3134608 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| ff5adb76-4389-3da7-9dbe-aff037e1fcce | -23.6019 | -48.996101 | 2025-05-08 00:17:00 | METOP-B | ITAÍ | SÃO PAULO | Brasil | 3521804 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 341140b4-339b-3dde-87ad-61b368c862ee | -13.0393 | -53.710201 | 2025-05-08 00:17:00 | METOP-B | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e0142b8-78a2-351a-a9aa-2e08f3bc05a0 | -10.7269 | -42.3083 | 2025-05-08 00:17:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 614ddcaf-8c02-3cde-8289-63297134baad | -11.7819 | -48.694801 | 2025-05-08 00:17:00 | METOP-B | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| bcfc8cf2-3536-38a5-b41f-01d83b8ace55 | -14.6476 | -45.125801 | 2025-05-08 00:17:00 | METOP-B | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| c64a81f2-fe2f-3680-8f18-ee45a8ef099c | -15.8239 | -46.574001 | 2025-05-08 00:17:00 | METOP-B | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 26cbd24e-7a34-3d47-b16a-d85beda0fd53 | -6.7036 | -42.129601 | 2025-05-08 00:17:00 | METOP-B | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 3b6b32b6-8f80-3c99-8259-4f1953d04ba6 | -10.7196 | -42.321098 | 2025-05-08 00:17:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 4c73ba54-caa9-34b5-b0c4-dc230e6aacf2 | -15.8223 | -46.566898 | 2025-05-08 00:17:00 | METOP-B | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 818d671e-a3c4-3421-b1b5-84152c7ae241 | -13.3639 | -54.2351 | 2025-05-08 00:17:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 15d87cc0-5778-3bde-981d-65cc7d7e49f5 | -15.8321 | -46.564602 | 2025-05-08 00:17:00 | METOP-B | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 6c808e35-4a11-37ad-9b8a-f9155fbf5f74 | -8.0805 | -43.110802 | 2025-05-08 00:17:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 19b311db-9efd-3f2f-928c-131bc3144f00 | -14.1051 | -44.240799 | 2025-05-08 00:17:00 | METOP-B | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 52a80490-9812-32f2-9cce-35652a57b878 | -10.7171 | -42.310699 | 2025-05-08 00:17:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| a77cadd0-4aeb-30d6-a0da-2569f99b586d | -14.646 | -45.1185 | 2025-05-08 00:17:00 | METOP-B | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 34e642e9-3b30-31de-9a8d-f1a1e1d56af8 | -6.9695 | -47.915401 | 2025-05-08 00:17:00 | METOP-B | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 91619368-ebae-32a3-9a23-9573528460fc | -15.8352 | -46.578899 | 2025-05-08 00:17:00 | METOP-B | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 3e6fd907-3ffe-3378-affe-00df9553b46b | -5.1646 | -45.103901 | 2025-05-08 00:17:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ced13189-bbe0-33ab-b59c-364871a27396 | -13.4906 | -52.9575 | 2025-05-08 00:17:00 | METOP-B | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 74d925b1-b1c3-3bc5-a229-b828ec21e3d4 | -5.798 | -43.616501 | 2025-05-08 00:17:00 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c86ccb85-5d9f-3ca6-82e0-bc5561bb31af | -20.7628 | -43.6548 | 2025-05-08 00:17:00 | METOP-B | SANTANA DOS MONTES | MINAS GERAIS | Brasil | 3159100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| d9e86b11-7aee-3c9f-8579-9a99599370f9 | -8.07 | -43.1216 | 2025-05-08 00:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.2 |
-| 2d5e1a00-fe2d-3777-89e3-fe47c5821c5b | -15.8208 | -46.5763 | 2025-05-08 00:20:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| f6c576b2-2c49-3bdf-827e-3e434fa6348b | -8.0889 | -43.1196 | 2025-05-08 00:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 67.1 |
-| 65e3a6fa-31a2-3862-bf22-94e1cef77b73 | -14.6414 | -45.1263 | 2025-05-08 00:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 103.9 |
-| 6972b887-247e-3958-b5fa-3e57748ff3ea | -13.4901 | -52.9715 | 2025-05-08 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 63.3 |
-| 45d34231-47d8-3e3b-ba87-da9a7b098803 | -13.5093 | -52.9692 | 2025-05-08 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 51.8 |
-| 070d36f5-7120-3fe1-a3d5-bcc136c224b3 | -8.0889 | -43.1196 | 2025-05-08 00:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 69.0 |
-| ec52e1df-99ac-337a-a62a-2e7655048695 | -13.4901 | -52.9715 | 2025-05-08 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 51.5 |
-| fa701f9f-f184-3ece-a689-a38e55602350 | -14.6414 | -45.1263 | 2025-05-08 00:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 119.9 |
-| b0c70b20-05d5-3a64-bd6a-adb33ae1c97c | -15.8208 | -46.5763 | 2025-05-08 00:30:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 47.1 |
-| 3208de06-cc26-3813-a2d2-88f71ceb392b | -13.5093 | -52.9692 | 2025-05-08 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 51.2 |
-| 84402e0a-f5ff-3ab4-bde9-b2477d193550 | -8.07 | -43.1216 | 2025-05-08 00:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 75.1 |
-| a037d196-1f3a-31ac-a2c3-9c3f07af37b9 | -14.0964 | -44.2397 | 2025-05-08 00:30:00 | GOES-19 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 64.2 |
-| 5c91a782-e554-3532-b2f3-47b4546b348a | -13.4901 | -52.9715 | 2025-05-08 00:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 56.7 |
-| 0c6a3703-a95e-3526-91a7-617554651e97 | -8.0889 | -43.1196 | 2025-05-08 00:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.6 |
-| a33717a5-9413-3a06-87f6-0131b219c671 | -15.8208 | -46.5763 | 2025-05-08 00:40:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 56.0 |
-| 1bd42b30-0faf-39b4-9cd9-08331dca86af | -14.6414 | -45.1263 | 2025-05-08 00:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 127.4 |
-| 4355997d-7775-3e87-8aea-ebe0d92d6f97 | -14.0964 | -44.2397 | 2025-05-08 00:40:00 | GOES-19 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 59.5 |
-| 7a9b7f37-5b1b-3505-beb6-988bbd38d324 | -13.5093 | -52.9692 | 2025-05-08 00:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 49.6 |
-| 485daf58-da09-3bda-8793-a7cd2fbd9ab6 | -8.07 | -43.1216 | 2025-05-08 00:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.2 |
-| 94fdb6c0-7da7-3538-a50b-266d47a77a3e | -14.0964 | -44.2397 | 2025-05-08 00:50:00 | GOES-19 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 55.1 |
-| bb82bf35-7b2a-320f-82c5-17c126a90013 | -13.4901 | -52.9715 | 2025-05-08 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 55.0 |
-| 0b3edce8-f07a-34ca-8329-9d6f84f03ea3 | -13.5093 | -52.9692 | 2025-05-08 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 54.7 |
-| 63ea2829-53ea-376d-9ad0-c65b6221b67e | -8.0889 | -43.1196 | 2025-05-08 00:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 57.6 |
-| f2eabd0a-70e4-327a-9e62-9e69e0acf45d | -14.6414 | -45.1263 | 2025-05-08 00:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 130.5 |
-| 149a7a55-2d35-3ee4-b809-688b92297acc | -15.8405 | -46.5726 | 2025-05-08 00:50:00 | GOES-19 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 45.9 |
-| 5b827fe6-aa1c-3b0b-8311-ed334608e6c3 | -8.07 | -43.1216 | 2025-05-08 00:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 87.0 |
-| aaf271c9-b4ad-3c5c-bd5b-a830ede0b7d6 | -8.0889 | -43.1196 | 2025-05-08 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 54.8 |
-| e73cde6c-91d7-3545-b286-eb1aa0d01fc2 | -8.07 | -43.1216 | 2025-05-08 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 85.1 |
-| bb6dfa17-7e28-3ae3-b19a-282d2895cead | -14.6419 | -45.1028 | 2025-05-08 01:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 49.9 |
-| e5ea91c7-db4b-3684-b1f5-1fc90b6032d2 | -14.6414 | -45.1263 | 2025-05-08 01:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 124.5 |
-| 3701f87b-9e7f-37e5-97d9-5eff0c62cd9f | -15.8405 | -46.5726 | 2025-05-08 01:00:00 | GOES-19 | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 49.1 |
-| 98325fd9-b9a5-37f0-bc1c-444f3b6abcbd | -13.5093 | -52.9692 | 2025-05-08 01:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 52.5 |
-| d533536d-d71d-3e9c-843b-8bbe20b15c9a | -13.4901 | -52.9715 | 2025-05-08 01:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 50.3 |
-| 35a30a99-bd9d-355d-a0e0-e31ce4f25bd2 | -8.092 | -43.117401 | 2025-05-08 01:07:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| c31b2d85-810f-3ff9-ba8b-cd314cfb8882 | -20.566099 | -54.072498 | 2025-05-08 01:07:00 | METOP-C | RIBAS DO RIO PARDO | MATO GROSSO DO SUL | Brasil | 5007109 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 1b8c7cac-5380-30f3-a173-007b75359b8c | -23.5996 | -49.0121 | 2025-05-08 01:07:00 | METOP-C | ITAÍ | SÃO PAULO | Brasil | 3521804 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 30588368-8052-3e85-a8ea-e81ff759c6b5 | -22.6817 | -49.827801 | 2025-05-08 01:07:00 | METOP-C | SÃO PEDRO DO TURVO | SÃO PAULO | Brasil | 3550506 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 3c839f7a-bdcd-3b1c-9a3c-be88ebc595d0 | -19.057501 | -53.453602 | 2025-05-08 01:07:00 | METOP-C | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| eb454597-5375-3275-9a1e-38c96c82e882 | -23.607401 | -49.001301 | 2025-05-08 01:07:00 | METOP-C | ITAÍ | SÃO PAULO | Brasil | 3521804 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 0cdf7a6d-abd9-3146-9af9-09a12c48bb30 | -8.0906 | -43.1507 | 2025-05-08 01:07:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 3425c902-9c8f-3c6f-85c6-9e6dde968b6f | -23.5977 | -49.003899 | 2025-05-08 01:07:00 | METOP-C | ITAÍ | SÃO PAULO | Brasil | 3521804 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| f2f210bb-a3b2-3f1f-b6f1-0b9f7b16b8b3 | -20.388201 | -55.395901 | 2025-05-08 01:07:00 | METOP-C | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| c4a25d4d-b4d8-3b7a-befe-aefac3eec4d4 | -23.609301 | -49.009499 | 2025-05-08 01:07:00 | METOP-C | ITAÍ | SÃO PAULO | Brasil | 3521804 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 06d4f477-a8c3-32e0-8292-888f36541273 | -20.0676 | -49.364201 | 2025-05-08 01:07:00 | METOP-C | PAULO DE FARIA | SÃO PAULO | Brasil | 3536604 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 95a617cf-587b-3475-9aef-6888a8dd619c | -8.0824 | -43.1199 | 2025-05-08 01:07:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 5a35fda0-9692-35ae-a94a-890a74e0a4db | -21.7959 | -52.752602 | 2025-05-08 01:07:00 | METOP-C | BATAGUASSU | MATO GROSSO DO SUL | Brasil | 5001904 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 9766696e-5174-3304-97f6-2d8534423fbe | -20.069599 | -49.372601 | 2025-05-08 01:07:00 | METOP-C | PAULO DE FARIA | SÃO PAULO | Brasil | 3536604 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 9222e385-e14f-3e2a-96f5-7d73b7f4e7fc | -20.386499 | -55.387199 | 2025-05-08 01:07:00 | METOP-C | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| dfdf4cb8-56fd-34d5-8cce-460f3173ec11 | -21.0606 | -56.001301 | 2025-05-08 01:07:00 | METOP-C | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| eb84604c-ce22-354f-9737-fb2a9e9f015b | -19.067301 | -53.451302 | 2025-05-08 01:07:00 | METOP-C | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| acb630d3-665f-34f0-95a3-7f05fbd0277f | -6.5866 | -51.115501 | 2025-05-08 01:07:00 | METOP-C | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| bd6ef273-02c2-3037-814b-6950a1d2a93b | -23.6128 | -48.9944 | 2025-05-08 01:10:00 | GOES-19 | ITAÍ | SÃO PAULO | Brasil | 3521804 | 35 | 33 | nan | nan | nan | Cerrado | 63.7 |
-| 9de50bce-f8d4-3b09-b1b9-5600c1f18a1b | -8.07 | -43.1216 | 2025-05-08 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 82.2 |
-| b9580ae0-b158-38bd-a6b1-22255a42f078 | -8.0889 | -43.1196 | 2025-05-08 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.8 |
-| e0a1e6e2-94af-3cb7-bb21-1795adfaf31d | -14.0964 | -44.2397 | 2025-05-08 01:10:00 | GOES-19 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 58.3 |
-| 724b49f5-83ac-325d-bf1b-f2d8ee7937c7 | -13.4901 | -52.9715 | 2025-05-08 01:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 49.3 |
-| ffc9396d-6825-3c15-969b-0686045c666b | -14.6414 | -45.1263 | 2025-05-08 01:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 126.1 |
-| 63425b3d-773f-3d7e-be77-2d1e9886361b | -14.6414 | -45.1263 | 2025-05-08 01:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 100.7 |
-| c7f5103e-24f1-30f8-bf3e-08462136f7ab | -13.5093 | -52.9692 | 2025-05-08 01:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 49.3 |
-| 1a1a97ce-5297-34f9-9b2b-494fbe6b0955 | -8.0889 | -43.1196 | 2025-05-08 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 60.1 |
-| 2893d6ae-e0ec-3df3-a9af-379232453bd7 | -14.0964 | -44.2397 | 2025-05-08 01:20:00 | GOES-19 | FEIRA DA MATA | BAHIA | Brasil | 2910776 | 29 | 33 | nan | nan | nan | Cerrado | 55.4 |
-| c524a348-f541-3129-904c-da14384787e8 | -8.07 | -43.1216 | 2025-05-08 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 61.5 |
-| bb50827e-f260-3257-a677-36eb707245ed | -14.6414 | -45.1263 | 2025-05-08 01:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 102.5 |
-| 3f855529-4074-3b73-8d9e-bec9a02b480e | -8.07 | -43.1216 | 2025-05-08 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.0 |
-| a99f51cb-856f-311d-84ce-9716ab484030 | -13.5093 | -52.9692 | 2025-05-08 01:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 51.1 |
-| ca73830b-92a0-375d-9df6-8d0efed8567a | -8.07 | -43.1216 | 2025-05-08 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.5 |
-| 0fcdd170-fb60-33d9-8aee-245b0cee532b | -14.6414 | -45.1263 | 2025-05-08 01:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 82.5 |
-| 23cad9c7-8f26-3939-b679-1f1cb4a14c1c | -8.07 | -43.1216 | 2025-05-08 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.4 |
-| fb2fb18f-1ac6-315a-af04-bd8ba33924b5 | -14.6414 | -45.1263 | 2025-05-08 01:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 83.9 |
-| 8903ea8c-762b-36ee-bc1d-eb9cf0b25867 | -8.0889 | -43.1196 | 2025-05-08 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 54.1 |
+| 3de2f09d-74ed-3d66-882e-90d4cb9b855b | -10.97217 | -44.4506 | 2025-05-09 00:52:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 16.6 |
+| 2aba983c-f33c-3845-a43f-7368d280f405 | -14.64755 | -45.13362 | 2025-05-09 00:52:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 25.0 |
+| 88379779-79ff-3e0c-a46d-2ced4eb7726f | -11.40956 | -52.95019 | 2025-05-09 00:52:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 12.4 |
+| ebb604d7-6a96-35d7-b389-746cad26b32d | -13.80828 | -52.2436 | 2025-05-09 00:52:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 9f0a9411-a52b-359f-a0c6-2f49b49aefee | -17.52622 | -52.12649 | 2025-05-09 00:52:00 | TERRA_M-M | PEROLÂNDIA | GOIÁS | Brasil | 5216452 | 52 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 160df1e0-9f5c-3f30-8673-e745cdc2b66d | -18.26538 | -53.00958 | 2025-05-09 00:52:00 | TERRA_M-M | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 985de3fb-101e-3e61-94e3-82e623a090a5 | -13.38103 | -54.2542 | 2025-05-09 00:52:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.7 |
+| e0cfb868-edd6-3131-886b-6b56c7cb82ff | -11.56437 | -47.62037 | 2025-05-09 00:52:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| 41f1e8ed-87ce-3bdc-992a-21456e90bc31 | -13.24587 | -48.41006 | 2025-05-09 00:52:00 | TERRA_M-M | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 9603b496-c93a-3cd4-87a4-34f17c2f9e18 | -11.39045 | -52.95273 | 2025-05-09 00:52:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| fcc4dbb2-ebae-38a2-be8d-a272394270d1 | -13.03842 | -53.72365 | 2025-05-09 00:52:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 18.3 |
+| b3da5028-c8b6-3e5d-8379-f0d81e4e0f7a | -11.3841 | -52.93848 | 2025-05-09 00:52:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 17.2 |
+| 428e2057-5d32-3263-ad53-4228ee539ca0 | -14.64983 | -45.1479 | 2025-05-09 00:52:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 1986a62f-8d4f-311b-8fb0-24ce6217ab10 | -10.67102 | -44.39409 | 2025-05-09 00:52:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 34.7 |
+| 23e1c65f-7c75-3adb-805b-4850c2786b5d | -10.96911 | -44.43211 | 2025-05-09 00:52:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| 204e57c4-f11e-3f56-9839-284d63e780e9 | -12.17577 | -54.23358 | 2025-05-09 00:52:00 | TERRA_M-M | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 12.7 |
+| 2cee24b0-21df-3ffb-9c6a-9293bc58dceb | -14.63665 | -45.13551 | 2025-05-09 00:52:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 07a25cf8-99fd-37a8-bd28-b26f60aa8810 | -11.38909 | -52.94217 | 2025-05-09 00:52:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 41.9 |
+| 3eeeac62-b6d7-3cd9-9aed-7a2cc831a300 | -14.20671 | -45.47013 | 2025-05-09 00:52:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 33.5 |
+| 8b1a61f9-780e-37d4-a89c-dbae9a2a647e | -12.32966 | -50.33118 | 2025-05-09 00:52:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 338d13b7-d2c1-3fff-b25d-548e131b5bd6 | -14.21743 | -45.46833 | 2025-05-09 00:52:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| 93fc624d-6d49-3d88-ae79-eeaa542e18e0 | -11.56674 | -47.61368 | 2025-05-09 00:52:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 19.1 |
+| 61beb510-2b68-33b7-9099-6c27a5b614c4 | -11.4 | -52.95144 | 2025-05-09 00:52:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 13.9 |
+| 1835f9b8-ac16-35bd-a5f5-02f8b5fbde70 | -10.97926 | -44.43619 | 2025-05-09 00:52:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| d86e7741-d1ee-3baf-852e-715687ff4281 | -13.38277 | -54.26801 | 2025-05-09 00:52:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 18.0 |
+| 3877b4da-5d4a-3865-9265-a9d8efc264c0 | -13.04735 | -53.72942 | 2025-05-09 00:52:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 37.9 |
+| da727d9c-76ee-30ec-bba2-ab1218112a93 | -12.36034 | -52.48789 | 2025-05-09 00:52:00 | TERRA_M-M | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| b4512cfd-7886-38d9-b076-479f66352d85 | -14.63436 | -45.1212 | 2025-05-09 00:52:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 63f18c7c-8e00-394f-8dc9-8293612af93d | -6.68808 | -42.12637 | 2025-05-09 00:54:00 | TERRA_M-M | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 41.8 |
+| b84dffbc-238e-3011-af5c-2f06b8b6db62 | -8.0803 | -43.11115 | 2025-05-09 00:54:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 77.3 |
+| d879c379-5b3f-34da-8c24-6a3f23d83c18 | -7.62176 | -46.48067 | 2025-05-09 00:54:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| efd80e86-bcb8-3611-b504-192b79054f99 | -6.70135 | -42.15154 | 2025-05-09 00:54:00 | TERRA_M-M | TANQUE DO PIAUÍ | PIAUÍ | Brasil | 2210979 | 22 | 33 | nan | nan | nan | Caatinga | 89.5 |
+| 782a6e53-108b-3408-9f94-47b893f58c19 | -8.08472 | -43.13763 | 2025-05-09 00:54:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 87.7 |
+| 6e158692-427b-34d3-ba7f-c11135bd0596 | -8.07873 | -43.11823 | 2025-05-09 00:54:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 139.9 |
+| 37bd6389-d31d-3189-a666-20c1af4473c5 | -6.69331 | -42.16003 | 2025-05-09 00:54:00 | TERRA_M-M | TANQUE DO PIAUÍ | PIAUÍ | Brasil | 2210979 | 22 | 33 | nan | nan | nan | Caatinga | 43.3 |
+| 1bfea823-e3ab-30e0-9a26-a43f84ff7fd8 | -8.08293 | -43.14462 | 2025-05-09 00:54:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 52.9 |
+| 7df79938-63a8-37ef-9cef-6fa1f206fa7d | -7.07187 | -44.39219 | 2025-05-09 00:54:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 13.9 |
+| ea20bdbd-d8ad-3b92-b455-465eb39da771 | -5.16184 | -45.1097 | 2025-05-09 00:54:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 73.2 |
+| bf97d64d-14ac-3fd5-998d-174a76e2367a | -6.69591 | -42.11787 | 2025-05-09 00:54:00 | TERRA_M-M | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 35.2 |
+| 768f3157-8366-3509-996c-6c178847aead | -8.0889 | -43.1196 | 2025-05-09 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 77.2 |
+| e7a7aa5f-bfb3-3f52-acf3-12f04da324e4 | -8.07 | -43.1216 | 2025-05-09 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 89.7 |
+| 352c3f1a-5694-3dfb-af75-4b411a03ab10 | -8.0889 | -43.1196 | 2025-05-09 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 86.1 |
+| a76580a3-d3e0-3e69-8b23-15463d112646 | -8.07 | -43.1216 | 2025-05-09 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 80.5 |
+| 6fc79107-f5dc-3aa3-96c1-a1e22c4e1097 | -8.07 | -43.1216 | 2025-05-09 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 80.8 |
+| 0e11fa4e-efb3-3cc0-ac22-aec2de7f9583 | -8.0889 | -43.1196 | 2025-05-09 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 77.3 |
+| ac8c0787-8b50-3b77-b79c-19d7bfba605c | -8.0889 | -43.1196 | 2025-05-09 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 63.5 |
+| 496299c1-b285-3fbb-8eb6-cdc792ac523d | -8.07 | -43.1216 | 2025-05-09 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 68.3 |
+| 23da1971-541a-3f6e-9bba-7d8ecb1a7fde | -19.166 | -47.8122 | 2025-05-09 01:40:00 | GOES-19 | NOVA PONTE | MINAS GERAIS | Brasil | 3145000 | 31 | 33 | nan | nan | nan | Cerrado | 45.3 |
+| e5a90fbb-fcc0-3f5f-88aa-0692fdb6bd78 | -8.0889 | -43.1196 | 2025-05-09 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 79.8 |
+| 9fe47f76-5fd5-325e-b7fd-c468310c1550 | -8.07 | -43.1216 | 2025-05-09 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 79.6 |
+| d2fa9821-d888-3775-997f-8c5889b3a178 | -8.0889 | -43.1196 | 2025-05-09 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 62.0 |
+| edf55342-e436-34ba-9eeb-f78421da1cb5 | -8.07 | -43.1216 | 2025-05-09 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 72.2 |
+| 5a67efdc-4a58-363f-a073-8c70e615b47a | -8.07 | -43.1216 | 2025-05-09 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.9 |
+| 163a7c20-29dc-3439-9fd3-289c078b1177 | -8.0889 | -43.1196 | 2025-05-09 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 81.6 |
+| c0d04728-02cf-3058-97e8-ff313c82af4f | -8.07 | -43.1216 | 2025-05-09 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 89.6 |
+| 6302dbd6-7b3e-3bb3-ad25-2edefcdf0ac8 | -8.07 | -43.1216 | 2025-05-09 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 86.0 |
+| c3cc31d7-b216-3a04-ae13-858ec7d6c248 | -8.0889 | -43.1196 | 2025-05-09 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 63.7 |
+| 2ae881ee-00b1-3f83-a237-4fb20318f864 | -8.0889 | -43.1196 | 2025-05-09 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 66.2 |
+| 57e2bf20-81a0-3834-ae5f-b1c1a388f813 | -8.07 | -43.1216 | 2025-05-09 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 69.8 |
+| ebb206b1-ca27-309e-9e85-cde3d0023cd4 | -8.07 | -43.1216 | 2025-05-09 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.1 |
+| d6d50b18-fa43-3e17-a69d-99fdbdad06fd | -8.0889 | -43.1196 | 2025-05-09 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 66.8 |
+| 6fbce725-0107-3954-8976-bbc9341dd164 | -7.2303 | -35.59523 | 2025-05-09 02:58:00 | NOAA-21 | INGÁ | PARAÍBA | Brasil | 2506806 | 25 | 33 | nan | nan | nan | Caatinga | 3.5 |
+| 3e13d74f-5c22-3df6-9871-8b8f0cc06e27 | -8.0889 | -43.1196 | 2025-05-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.0 |
+| 8e14229e-9c73-3cce-b851-a09f94bda659 | -8.07 | -43.1216 | 2025-05-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 60.0 |
+| bbdf7286-0f22-3d5d-ade6-acaf481a3894 | -8.07 | -43.1216 | 2025-05-09 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.5 |
+| 5ece7330-1cc4-32ba-ba24-8c26ea0d5487 | -8.07 | -43.1216 | 2025-05-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.9 |
+| f2278bac-84ca-3e79-a92c-01b682518ce1 | -8.0889 | -43.1196 | 2025-05-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 75.1 |
+| d3c3e017-28c2-3300-bffb-81019115d507 | -6.69891 | -42.13285 | 2025-05-09 03:23:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| a212651b-0a5c-3984-b2e5-eefc87ea1094 | -6.97019 | -42.78669 | 2025-05-09 03:23:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 33571da6-547f-3111-82d9-4835fa387fa0 | -7.07089 | -44.39202 | 2025-05-09 03:23:00 | NPP-375D | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 6f74f95f-a6e3-3c3b-8515-c6cfcb221cca | -6.698 | -42.13779 | 2025-05-09 03:23:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| ce8ca7a7-7b21-3d31-aaaa-36187a32e16e | -8.01038 | -41.60491 | 2025-05-09 03:23:00 | NPP-375D | CONCEIÇÃO DO CANINDÉ | PIAUÍ | Brasil | 2202802 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 686341f4-dfc2-3e34-b037-6e8cf5f33488 | -6.97121 | -42.78218 | 2025-05-09 03:23:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| fd5fe524-e875-30b6-9202-15845cc08665 | -6.97117 | -42.78147 | 2025-05-09 03:23:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| d479799a-29b3-3847-a343-574132b27712 | -6.97026 | -42.7874 | 2025-05-09 03:23:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 7488ac4c-9540-3814-8523-9b79d8cfcf08 | -8.05905 | -36.15065 | 2025-05-09 03:23:00 | NPP-375D | CARUARU | PERNAMBUCO | Brasil | 2604106 | 26 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 67129490-0a9c-3dab-9b24-ccebd07eaa68 | -7.21576 | -43.12059 | 2025-05-09 03:23:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| e73c226c-44bf-30c9-abce-024875ef12bb | -6.96371 | -42.78555 | 2025-05-09 03:23:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 6ca323f4-b851-35b1-bb4b-29606f640807 | -8.01118 | -41.60058 | 2025-05-09 03:23:00 | NPP-375D | CONCEIÇÃO DO CANINDÉ | PIAUÍ | Brasil | 2202802 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 76547913-b3b0-3b42-9f51-89418abd4b7d | -6.70422 | -42.1391 | 2025-05-09 03:23:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| 070cfaae-5c12-3919-9e00-70e10d5f7b0a | -6.96378 | -42.78625 | 2025-05-09 03:23:00 | NPP-375D | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 9ba5e7e0-b5f9-37f1-943d-52d300478d05 | -10.5543 | -42.42509 | 2025-05-09 03:25:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 22b80109-8386-3d13-aa99-5ae53c5d8d1b | -14.64135 | -45.12918 | 2025-05-09 03:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| afa6204a-fc46-3322-adc3-d186fadd3ced | -10.96765 | -44.43757 | 2025-05-09 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 1fe97ebd-2822-3309-b6d9-ec78b9555b1d | -14.6449 | -45.13731 | 2025-05-09 03:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 75b813ee-01c4-36d8-abe2-446c10f5a380 | -8.06873 | -43.12438 | 2025-05-09 03:25:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| a2fab544-5f10-3252-88fc-cbc0880d7ae2 | -14.63606 | -45.12199 | 2025-05-09 03:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 60cd5bb1-0fd9-31a4-a512-2b0a47e1a978 | -8.08166 | -43.12702 | 2025-05-09 03:25:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 19.0 |
+| ff492be4-fa26-32bc-bf56-04a9452a015e | -14.19977 | -45.46477 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f2e67d61-eafc-3cf6-b9b0-a65dbd88c5ae | -14.19845 | -45.47089 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| cbb41b54-8954-3d24-a5e2-fbde76b1a9fc | -14.21849 | -45.47542 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 0857cb0b-b0b9-32e4-8c44-a69cec880f66 | -14.22185 | -45.46891 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 1a81042d-9c36-3ef7-9f3b-c6d6cc3fe35a | -14.64366 | -45.14297 | 2025-05-09 03:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 41a360d9-2be4-3985-8e59-884737af13f5 | -14.20183 | -45.46439 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 563f34ae-9f76-3169-928a-cd1dfb8fbe26 | -10.9755 | -44.43314 | 2025-05-09 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 7e8286b8-4333-31e7-be1e-4ccc60111399 | -8.07404 | -43.12601 | 2025-05-09 03:25:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 21.7 |
+| e90dd4dd-ce2f-3075-a0c1-4e55d1f888df | -14.20047 | -45.4705 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 3bfd195a-b657-351c-89f8-af9387955331 | -12.31657 | -44.51136 | 2025-05-09 03:25:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 00cf32f2-82c4-33cf-8b68-7af26fcc07e3 | -14.20645 | -45.46626 | 2025-05-09 03:25:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 0be55882-d676-3b35-a028-88a33a1106aa | -10.9743 | -44.43903 | 2025-05-09 03:25:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
