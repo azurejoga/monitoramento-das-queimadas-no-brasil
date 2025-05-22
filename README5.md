@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c1c4bbfa-1ae5-39cc-b3aa-fcc6e2dca506 | -11.0901 | -54.7852 | 2025-05-21 01:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 83.5 |
-| 42599cb8-04d7-3537-a7ef-9b25f5794b86 | -6.2226 | -43.3459 | 2025-05-21 01:50:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 89.8 |
-| 1cef49ee-67e4-3413-a849-a8da8f57987d | -11.0712 | -54.7868 | 2025-05-21 01:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 63.9 |
-| 251b0b4f-9b15-361c-ba52-49a68568a190 | -12.2946 | -52.4785 | 2025-05-21 01:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 107.2 |
-| a796c363-3a70-3307-889a-ea53653cbd92 | -12.2943 | -52.4995 | 2025-05-21 01:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 62.1 |
-| a625f780-f9d7-35b7-8c29-2679d9f005d2 | -20.9601 | -56.5967 | 2025-05-21 01:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| bbad1ec6-5e9f-3496-ab43-34c22c97c41c | -11.7988 | -44.2733 | 2025-05-21 01:50:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| 27d2cb5f-fc6a-35c7-ba13-19e6d62c90b6 | -11.0903 | -54.7648 | 2025-05-21 01:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 60.1 |
-| d1581f21-20e0-3bc6-854e-a91ef898b18a | -6.2224 | -43.3693 | 2025-05-21 01:50:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 60.5 |
-| ba2b55ce-0d44-3a9c-baae-47cf5c2808f9 | -6.2411 | -43.3677 | 2025-05-21 02:00:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 60.4 |
-| 4af26c48-8aa6-364f-91d5-a88a6c345449 | -11.0901 | -54.7852 | 2025-05-21 02:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 52.0 |
-| 45be7111-e1b3-3d88-91b2-e42c797da169 | -11.0712 | -54.7868 | 2025-05-21 02:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 72.0 |
-| 31e70b6d-307d-394e-bfff-6f80e1933e3a | -12.2943 | -52.4995 | 2025-05-21 02:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 68.2 |
-| 41f85fa5-8a2d-3af8-90f0-d8af04b6194e | -6.2224 | -43.3693 | 2025-05-21 02:00:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 64.2 |
-| 6a1129fc-c492-3e68-9a29-4492e3a72e0c | -11.0714 | -54.7664 | 2025-05-21 02:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 60.9 |
-| 19a9cd10-9b9d-31d5-967d-bd04cc74ae10 | -6.2414 | -43.3444 | 2025-05-21 02:00:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 75.8 |
-| 96cfe18e-49e7-3fc5-991a-0d4b1383906c | -6.2226 | -43.3459 | 2025-05-21 02:00:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 109.8 |
-| 2b0897f3-1912-3dd7-bac9-591bef8d292f | -12.2946 | -52.4785 | 2025-05-21 02:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 110.3 |
-| ee77da2f-8947-3980-aa54-d37d2bd3047c | -11.0903 | -54.7648 | 2025-05-21 02:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 51.2 |
-| 9d1bab41-0a14-3d09-8406-f397d8f695b5 | -12.424 | -43.7274 | 2025-05-21 02:00:00 | GOES-19 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 45.7 |
-| ac0fba8e-a627-375c-adc1-f974112b63b3 | -11.0901 | -54.7852 | 2025-05-21 02:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 59.5 |
-| 967bd60b-1039-3ae3-9a7f-17e1616686d8 | -15.1943 | -49.3862 | 2025-05-21 02:10:00 | GOES-19 | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 46.7 |
-| 9a85d85b-ef2d-3074-a0ea-e2daee8aad14 | -12.2946 | -52.4785 | 2025-05-21 02:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 100.3 |
-| 6863c993-79b9-34fd-98f6-ff19ac0c0dd9 | -11.0712 | -54.7868 | 2025-05-21 02:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 68.7 |
-| f88d0b7d-b4e8-34e7-8d96-a3acda29cfa1 | -11.0903 | -54.7648 | 2025-05-21 02:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 52.7 |
-| 35b6e107-efe5-3ebc-baab-5694257245ab | -6.2411 | -43.3677 | 2025-05-21 02:10:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 69.3 |
-| df6c0087-7ae6-3c9e-ba1e-3d9377496025 | -6.2226 | -43.3459 | 2025-05-21 02:10:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 110.1 |
-| 00adff29-e5c6-3b89-bf18-530a1ba3b308 | -9.0291 | -47.7452 | 2025-05-21 02:10:00 | GOES-19 | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 56.8 |
-| 4d739634-da56-360d-a43c-c1b451a37673 | -12.2943 | -52.4995 | 2025-05-21 02:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 58.0 |
-| 2379ab08-063c-34c7-b0e8-084831f7d324 | -6.2414 | -43.3444 | 2025-05-21 02:10:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 72.7 |
-| 2e54ba22-03e6-30a4-b895-9b58ab4fdde9 | -15.1939 | -49.4083 | 2025-05-21 02:10:00 | GOES-19 | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| b4cc6d48-9c7f-3c6d-8ddf-be1a22df706e | -11.0714 | -54.7664 | 2025-05-21 02:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| 49aea502-3cdd-3aa5-a585-0a7abe02dee6 | -6.2224 | -43.3693 | 2025-05-21 02:10:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| 9a818b5c-daf5-3332-a560-ca05471cac26 | -12.2946 | -52.4785 | 2025-05-21 02:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 107.8 |
-| ffba2a77-acde-3306-bf47-a63350ed0456 | -11.0903 | -54.7648 | 2025-05-21 02:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 52.7 |
-| 079df412-0582-373d-8c2b-6e617a37e881 | -12.2943 | -52.4995 | 2025-05-21 02:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 57.0 |
-| 92968082-badd-3b4b-bf97-f5e863e62982 | -11.0714 | -54.7664 | 2025-05-21 02:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 56.3 |
-| 8f59dafd-0382-3124-8303-f8d9b4733192 | -11.0901 | -54.7852 | 2025-05-21 02:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 52.9 |
-| b7e2e3bc-3976-3b77-b574-b8c9ee6c8864 | -6.2226 | -43.3459 | 2025-05-21 02:20:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 49.1 |
-| d09f2cdc-47ce-3506-a1d9-982c0acee53a | -11.0712 | -54.7868 | 2025-05-21 02:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 65.8 |
-| 37a42896-0148-3134-8ea4-6a224e7865db | -11.0712 | -54.7868 | 2025-05-21 02:30:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| 3da67592-a5f3-3290-8052-12cd494d662b | -11.0903 | -54.7648 | 2025-05-21 02:30:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 51.0 |
-| f772dc88-fd14-32b7-b5b0-a7827d708444 | -12.2943 | -52.4995 | 2025-05-21 02:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 64.3 |
-| 21f20ddd-271e-3610-a876-ace25310bd7c | -11.0901 | -54.7852 | 2025-05-21 02:30:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 63.4 |
-| e34ba680-2476-3f36-93bf-ac91e0043087 | -12.2946 | -52.4785 | 2025-05-21 02:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 88.4 |
-| 39d3cdc9-b386-384e-9548-84510fe3bf4f | -11.0714 | -54.7664 | 2025-05-21 02:40:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 50.7 |
-| 48ab93bd-22db-38b9-b766-77f5e045c252 | -11.0712 | -54.7868 | 2025-05-21 02:40:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 76.0 |
-| 97e8e4cd-7bd0-3ab1-8792-886d31af95b4 | -15.1939 | -49.4083 | 2025-05-21 02:40:00 | GOES-19 | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 40.6 |
-| fd339223-ea7b-3195-ad70-c2c6d20a4a1f | -12.2943 | -52.4995 | 2025-05-21 02:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| 8dfb52a3-cc4a-3ef5-b916-f73e320a13eb | -11.0901 | -54.7852 | 2025-05-21 02:40:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 51.6 |
-| 62f832bf-a247-3489-8d41-7fa10d735868 | -11.818 | -44.2703 | 2025-05-21 02:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 48.6 |
-| 0faaed2d-ca71-3ed0-a449-d9c0419d7112 | -9.0291 | -47.7452 | 2025-05-21 02:40:00 | GOES-19 | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 46.9 |
-| a1334649-1fda-375f-93b5-b2002e6aeb54 | -12.2946 | -52.4785 | 2025-05-21 02:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 102.6 |
-| 578eef88-260c-344e-914d-f9f43a597930 | -12.2943 | -52.4995 | 2025-05-21 02:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 55.5 |
-| 8d0b9883-e5fb-3cf7-9bce-10daa19900b0 | -11.0901 | -54.7852 | 2025-05-21 02:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| fa0a11c2-88fd-3e3a-8593-02b23239a950 | -15.2134 | -49.4052 | 2025-05-21 02:50:00 | GOES-19 | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 54.6 |
-| d5987c93-8dba-3f4a-b2f7-cab65cbb8124 | -11.0712 | -54.7868 | 2025-05-21 02:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 70.4 |
-| 59cc0161-79fd-30e4-b34f-7eb306fb0f6d | -12.2946 | -52.4785 | 2025-05-21 02:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 97.9 |
-| 090d38e6-2a9b-39ed-b54f-a57fd528741b | -15.1939 | -49.4083 | 2025-05-21 02:50:00 | GOES-19 | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 101.0 |
-| eaed994c-e633-3ebc-9409-3aeff3ef45f8 | -11.0714 | -54.7664 | 2025-05-21 02:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 55.1 |
-| a8b83ce8-cc0e-3efe-80ad-c9f53358218d | -12.2943 | -52.4995 | 2025-05-21 03:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 54.5 |
-| e913b948-2e21-3614-a5a6-d5fbf1483166 | -11.0903 | -54.7648 | 2025-05-21 03:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 45.0 |
-| c5d9d7d3-1c4e-37ba-8ea7-bf943e986c5a | -12.2946 | -52.4785 | 2025-05-21 03:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 82.8 |
-| d2a7dd27-c423-31ba-927a-4c9da504049a | -11.0712 | -54.7868 | 2025-05-21 03:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 59.7 |
-| 91ffbe81-db9a-3288-a9bd-093350133e9e | -11.0901 | -54.7852 | 2025-05-21 03:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 59.0 |
-| 61c7a922-1bfa-3a2b-a852-b69fd0147eff | -11.0903 | -54.7648 | 2025-05-21 03:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 44.9 |
-| e28692cf-db27-31f4-9643-082571199609 | -11.0901 | -54.7852 | 2025-05-21 03:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 63.7 |
-| c76dae91-80e0-391f-893d-a67bdfc6c138 | -12.2946 | -52.4785 | 2025-05-21 03:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 84.3 |
-| 3396e988-4791-33d1-ae9c-41710fa3544d | -11.0712 | -54.7868 | 2025-05-21 03:10:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| 521ee74c-eeb6-3bb1-ae46-a30662f466bf | -12.2943 | -52.4995 | 2025-05-21 03:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 49.7 |
-| 4ce3772e-4f30-38b0-a4fd-85eb79b15021 | -12.2946 | -52.4785 | 2025-05-21 03:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 79.0 |
-| 060672a3-8830-39fa-a950-df727082d151 | -11.0712 | -54.7868 | 2025-05-21 03:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 64.5 |
-| 1b2c72e9-c372-3123-a96d-08b91f95d722 | -11.0901 | -54.7852 | 2025-05-21 03:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 49.2 |
-| e8ec388a-69a8-3dc1-8fa0-f3e477bfb4af | -11.0714 | -54.7664 | 2025-05-21 03:20:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 48.5 |
-| b069e3af-3dc3-3fc3-b9d8-f1427d8bfcbc | -12.2943 | -52.4995 | 2025-05-21 03:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 55.2 |
-| f9415da8-dea1-3d15-9b57-b4a1db2c60a1 | -12.4297 | -43.72981 | 2025-05-21 03:23:00 | NOAA-20 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| f5856c60-b2af-3d71-9956-ec2556d22bc4 | -14.15482 | -45.48215 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 96c8ff8b-d098-3952-8ba9-a8ce627c8e29 | -11.8131 | -44.28055 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 1672b53f-0448-3527-8da8-e9a4e1642de8 | -17.75612 | -42.89637 | 2025-05-21 03:23:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a43212ed-568b-3394-b2b4-de06ca025ee4 | -12.43388 | -43.72702 | 2025-05-21 03:23:00 | NOAA-20 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 47bb5339-b087-3265-a9d8-e63522a56aed | -11.78625 | -44.28403 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 3bf1ef9c-c76b-3b21-9177-3c68b29403af | -14.15083 | -45.46834 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 35ef36a0-423f-3259-a8aa-05ee613ca5a9 | -14.15616 | -45.47601 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 19b5d4da-6f30-36cd-9d7d-75dad10820a7 | -11.80155 | -44.27546 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 8.9 |
-| 8b325c50-44ca-3189-b640-edc89a1ee4e7 | -14.15751 | -45.46986 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 8b2894b6-578d-3e17-bd7a-77f1d444dba3 | -11.78588 | -44.28078 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 2b9b6aac-cc65-3e7f-99c7-f98fe95322f0 | -14.15274 | -45.47966 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 177ea161-fa3c-3b85-9d24-045e93c9db09 | -12.42768 | -43.7256 | 2025-05-21 03:23:00 | NOAA-20 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| e18b89b6-c835-36a1-9676-c803f0f68a0c | -12.86979 | -43.18108 | 2025-05-21 03:23:00 | NOAA-20 | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| aeb6fbb3-ccf6-3452-ada9-332760951068 | -14.04837 | -45.50793 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 658a7b36-c78b-3319-a7e6-e94c0d84b3f1 | -14.16817 | -45.48523 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| dd13d8e5-d4e8-386e-aee3-46294d663890 | -14.04706 | -45.51391 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| acac811f-f2ac-3d20-b006-507c10032ea7 | -14.16284 | -45.47754 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 701a747d-f92c-33ae-9d06-cc0b97c752bb | -11.81192 | -44.28622 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 27e2ca1d-1530-3263-8147-79fdb09198b2 | -14.15404 | -45.47351 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 8fb20d0d-823e-3c30-ad9d-6ec7794df7b7 | -16.04299 | -43.80723 | 2025-05-21 03:23:00 | NOAA-20 | SÃO JOÃO DA PONTE | MINAS GERAIS | Brasil | 3162401 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 4de522e0-3230-3950-a97b-a11d2b1d72d3 | -12.43072 | -43.72472 | 2025-05-21 03:23:00 | NOAA-20 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| eeee6d53-0d31-3c67-a20a-440d8d1e2a74 | -11.7847 | -44.28642 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 30449101-7332-3860-8c23-e92e222b4bc0 | -14.16952 | -45.47905 | 2025-05-21 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| cacb5d9d-32f2-3bbc-950b-4ccbe6c7b6fe | -11.81342 | -44.28391 | 2025-05-21 03:23:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 2038dcd8-4766-3b98-8e51-4962588a8d21 | -10.8304 | -56.954102 | 2025-05-22 01:18:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f86526ab-1f56-3a4e-8e8b-3733e3e50824 | -21.484501 | -57.1171 | 2025-05-22 01:18:00 | METOP-C | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| eb78d49b-d346-300e-92b0-bc07257c50c9 | -20.946699 | -56.597599 | 2025-05-22 01:18:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| f8b5a614-4db4-33e0-8de9-ac1adad2abf6 | -12.2943 | -52.4995 | 2025-05-22 01:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 85.8 |
+| cb94710a-d241-3c14-bd02-e888988acff5 | -20.9601 | -56.5967 | 2025-05-22 01:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 140.7 |
+| a9fbaeef-8b1b-3d2f-a24e-78dc47b49b47 | -20.9402 | -56.5786 | 2025-05-22 01:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 92.2 |
+| 52139c15-c7fa-3ffe-ade6-28eb5e756090 | -10.3237 | -47.0283 | 2025-05-22 01:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 31ba014a-3e43-3ea8-81e0-3ec9b581122c | -20.9398 | -56.5998 | 2025-05-22 01:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 90.2 |
+| 3b663e62-fb63-300f-b506-9cb704535081 | -11.5719 | -47.4521 | 2025-05-22 01:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 134.1 |
+| 61bbc28d-4300-312d-8d95-edddac4333f8 | -11.5528 | -47.4546 | 2025-05-22 01:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 118.0 |
+| f19db21e-59d0-33cd-b3c0-08a0828da487 | -11.5723 | -47.4298 | 2025-05-22 01:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
+| 88786bae-15cf-3b65-aef4-e012921e494c | -20.9606 | -56.5755 | 2025-05-22 01:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 141.8 |
+| 6b11058c-ff9a-3b65-b691-9ce9f6067065 | -11.5532 | -47.4323 | 2025-05-22 01:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 57.0 |
+| b4ee2ed0-08b8-3c16-a1bb-4375b48f377c | -20.9606 | -56.5755 | 2025-05-22 01:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 110.1 |
+| 0dc54760-5ce3-3058-9f2e-3b6d15860d0f | -11.5719 | -47.4521 | 2025-05-22 01:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 98.2 |
+| 601f5c81-72d2-3556-89a5-5e4262f024c7 | -20.9601 | -56.5967 | 2025-05-22 01:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 136.6 |
+| d4f1d46e-38bb-3431-a221-b77fc48a7f12 | -20.9402 | -56.5786 | 2025-05-22 01:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| e71cba8b-1d85-3ce6-88fd-28524e94b6da | -10.3237 | -47.0283 | 2025-05-22 01:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 73.0 |
+| 5d2c6d79-1682-3de1-ac02-9c3fe44e8330 | -20.9398 | -56.5998 | 2025-05-22 01:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 98.5 |
+| 21e800d1-396d-382d-aed4-a708bbe7c9d4 | -12.2943 | -52.4995 | 2025-05-22 01:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 77.0 |
+| e227fd9d-11ad-3a3f-9c95-9f1ae37297fc | -11.5528 | -47.4546 | 2025-05-22 01:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 56.6 |
+| 8c3e40ed-a956-32c7-bad9-53c65e3eed65 | -12.3515 | -49.9833 | 2025-05-22 01:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 34.2 |
+| dc5b94c6-a511-3f60-8569-5dfaaec2757d | -11.5528 | -47.4546 | 2025-05-22 01:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 109.6 |
+| ced5d408-7c1f-3a83-8246-895ae9514a73 | -12.2943 | -52.4995 | 2025-05-22 01:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 76.8 |
+| 2e721c2b-9aa0-3ef2-978e-98b6fae5f6d4 | -11.5723 | -47.4298 | 2025-05-22 01:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 62.7 |
+| be602a75-b1df-3b58-818b-e7af34966fe5 | -20.9398 | -56.5998 | 2025-05-22 01:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 72.1 |
+| a204b8c5-0642-3f06-b26b-b2d24288abc6 | -20.9606 | -56.5755 | 2025-05-22 01:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 115.4 |
+| 04ca2d7d-589b-374a-b7c0-0ad069106fbb | -11.5719 | -47.4521 | 2025-05-22 01:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 137.5 |
+| ca2b60d9-6479-35b2-8eb6-7b76a186f7d4 | -20.9402 | -56.5786 | 2025-05-22 01:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 74.2 |
+| 531b9cff-ec71-3f77-b703-4cb0267c22b0 | -11.5532 | -47.4323 | 2025-05-22 01:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 51.2 |
+| b2fe2bf9-976f-3231-b76a-24c6c991df06 | -20.9601 | -56.5967 | 2025-05-22 01:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 114.5 |
+| 0479640f-7cbb-3e6f-8f91-cbe818729db5 | -12.2943 | -52.4995 | 2025-05-22 02:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 69.0 |
+| 636c6c88-b699-3b12-82dc-10824b4a61f9 | -12.3515 | -49.9833 | 2025-05-22 02:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 33.7 |
+| 122802a6-3e1e-34d4-a3a3-314a41451182 | -20.9606 | -56.5755 | 2025-05-22 02:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| f28cb8f1-33d0-3d08-8529-765465a4ed04 | -20.9398 | -56.5998 | 2025-05-22 02:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| 57fe45e6-b3ab-3272-b5fb-a2c37f12b16b | -11.5719 | -47.4521 | 2025-05-22 02:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 116.7 |
+| 540c5270-c6e6-3a38-9fe4-ca9c4f6730d3 | -11.5723 | -47.4298 | 2025-05-22 02:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 47.1 |
+| 2bb28431-0286-3de3-943d-05050c0bf312 | -20.9601 | -56.5967 | 2025-05-22 02:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 87.9 |
+| 3bb83cbf-12ae-3b98-8920-1f9f76f7141a | -20.9402 | -56.5786 | 2025-05-22 02:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 82.3 |
+| 4d331a6d-eb3d-35ba-9030-8f22b85b7db5 | -11.5528 | -47.4546 | 2025-05-22 02:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 91.6 |
+| 7b81db93-ecb7-3a85-a224-7bbeacee8292 | -12.2943 | -52.4995 | 2025-05-22 02:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| fdb39a9a-e8e9-3b58-927c-ea019270fc0f | -20.9402 | -56.5786 | 2025-05-22 02:10:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 7b569e2d-aa20-38fd-a9d6-7b22956df5ca | -20.9606 | -56.5755 | 2025-05-22 02:10:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 88.1 |
+| 948b91dd-1f30-3bf4-be9c-d43e4860eb55 | -20.9601 | -56.5967 | 2025-05-22 02:10:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 107.1 |
+| 07a9beae-a004-3495-83bd-a72f177a1f03 | -20.9398 | -56.5998 | 2025-05-22 02:10:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 76.8 |
+| ca8dbc48-1c5c-368f-bfdf-985af75a5b6a | -11.5528 | -47.4546 | 2025-05-22 02:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 49.8 |
+| 26d7a189-ea54-3b3d-be0f-b061be423335 | -11.5719 | -47.4521 | 2025-05-22 02:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
+| 99793592-5efe-3bd3-bd2f-7cad877d085f | -11.5723 | -47.4298 | 2025-05-22 02:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| 0156a47b-8645-37af-8329-f540cdfe8abd | -20.9606 | -56.5755 | 2025-05-22 02:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 78.4 |
+| f306db95-53ba-3e4b-934b-3efa5103aad9 | -20.9398 | -56.5998 | 2025-05-22 02:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 326c798d-4afa-3dc1-a066-dc427b9246a6 | -20.9402 | -56.5786 | 2025-05-22 02:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 73.7 |
+| 8e5c7710-dc21-364e-9b91-2e98db6b71fd | -12.2943 | -52.4995 | 2025-05-22 02:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 67.5 |
+| 4e2b0563-e562-36e2-bd7a-45037d0b4c0d | -11.5528 | -47.4546 | 2025-05-22 02:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 70.8 |
+| 462edf79-255d-3c93-a641-5c6fc6e3abb6 | -11.5719 | -47.4521 | 2025-05-22 02:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 87.9 |
+| a089e48d-a321-3e91-9b7f-900ab0c94977 | -20.9601 | -56.5967 | 2025-05-22 02:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 82.4 |
+| d6e16482-7ed4-3510-ace6-0733c64c12ee | -12.2943 | -52.4995 | 2025-05-22 02:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 60.6 |
+| cef3fffa-9cf4-34ae-a12f-95a92f1555ad | -11.5719 | -47.4521 | 2025-05-22 02:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 63.4 |
+| 83f22137-89ef-3e65-b839-b956933459fa | -20.9398 | -56.5998 | 2025-05-22 02:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 65.9 |
+| b4179def-d382-3c3d-a8d9-c4f110ed2efb | -20.9402 | -56.5786 | 2025-05-22 02:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 64.9 |
+| e5ee673d-ae98-30d3-9f8e-66b536cfb9e9 | -20.9601 | -56.5967 | 2025-05-22 02:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| 091e1354-d032-3248-9b94-a32bcb6e4e63 | -20.9606 | -56.5755 | 2025-05-22 02:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| 0a4c82fc-4c22-3135-a443-3795119a61bf | -11.5528 | -47.4546 | 2025-05-22 02:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 72.0 |
+| cdbbe146-a74c-3bc0-bd97-a4b52b2502c7 | -12.2943 | -52.4995 | 2025-05-22 02:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| 792dfbfc-d59d-3a01-bbbd-71d29f413909 | -20.9398 | -56.5998 | 2025-05-22 02:40:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| 32009e5b-e11e-37f8-b840-8f15cab444c3 | -20.9402 | -56.5786 | 2025-05-22 02:40:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 66.2 |
+| fa64780c-f29c-34df-a11a-7934520e34dd | -20.9601 | -56.5967 | 2025-05-22 02:40:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 69.4 |
+| 03e26e61-9759-362a-9610-8bc5c4c7b326 | -11.5532 | -47.4323 | 2025-05-22 02:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 44.1 |
+| 29ae3733-d12a-362c-a581-d1cea2a16aef | -20.9398 | -56.5998 | 2025-05-22 02:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 60.6 |
+| 8ba71769-e7a8-3786-88a7-b1a00890f9c7 | -11.5723 | -47.4298 | 2025-05-22 02:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 45.1 |
+| 8a9298f3-5422-3609-9598-d4096279673d | -11.5528 | -47.4546 | 2025-05-22 02:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 80.1 |
+| b10c35a4-292c-3f2a-853a-6cd1457d35cf | -11.5719 | -47.4521 | 2025-05-22 02:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 90.4 |
+| 0c8e1999-f83b-3ff0-a027-6afdd83a54d7 | -20.9606 | -56.5755 | 2025-05-22 02:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| 1b4d79a2-3f7a-3758-ae5e-6c224be326e8 | -12.2943 | -52.4995 | 2025-05-22 02:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 58a9be66-5695-34f9-8c35-a9969efd549f | -20.9601 | -56.5967 | 2025-05-22 02:50:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 80.1 |
+| 7e694677-7cbb-355d-b276-dd52d43d6c6b | -11.5723 | -47.4298 | 2025-05-22 03:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| e0b23b6d-2891-3217-8341-bf2c5f8d0d63 | -11.5528 | -47.4546 | 2025-05-22 03:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 79.1 |
+| 8bc27546-55d4-38a5-992a-94b7a3ed8eb0 | -20.9601 | -56.5967 | 2025-05-22 03:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| 4675ed13-3005-3c45-a216-73c7d7e1c1dd | -11.5719 | -47.4521 | 2025-05-22 03:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 104.6 |
+| 95df0575-3c8e-33ff-912e-841d8eaf3e9c | -20.9606 | -56.5755 | 2025-05-22 03:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 72.7 |
+| 8988014f-5ee4-3e33-b4a4-862ebb9e1991 | -12.2943 | -52.4995 | 2025-05-22 03:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 56.7 |
+| 8717f23c-104c-3d15-a26a-f094938fe6dc | -17.27547 | -42.64922 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 146cc95c-e559-3a56-97d7-2881c8996a6f | -17.27785 | -42.65577 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 4c606138-744c-3ce9-8a34-0b04e8eaae24 | -17.27395 | -42.65567 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| e1c98a11-1622-3242-a0f2-2e9602d6f469 | -17.26521 | -42.66133 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| a822ce75-098c-387f-b9bf-08178c622fe7 | -17.26684 | -42.65436 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 25237066-eceb-3096-b04c-292e079fa93e | -17.26903 | -42.66153 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| b663652b-7023-38c6-bef8-860effa74d89 | -17.27073 | -42.65447 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 36c26b2f-629a-3850-9bd3-26da9736827f | -17.27939 | -42.64934 | 2025-05-22 03:06:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| ccb47026-ab1a-32ce-b7cf-f5eb3ae2644f | -22.6755 | -42.85715 | 2025-05-22 03:08:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
+| 20e434c1-7fd8-35b1-882f-6dc204df5e59 | -22.16444 | -42.94081 | 2025-05-22 03:08:00 | NOAA-20 | SÃO JOSÉ DO VALE DO RIO PRETO | RIO DE JANEIRO | Brasil | 3305158 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 1bd3be0f-140e-3f5a-b02d-5c6c7ad073cb | -22.67446 | -42.86249 | 2025-05-22 03:08:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 167f268d-dcde-3d5f-b73d-f9b62ffa7c51 | -22.16293 | -42.94693 | 2025-05-22 03:08:00 | NOAA-20 | SÃO JOSÉ DO VALE DO RIO PRETO | RIO DE JANEIRO | Brasil | 3305158 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 6cf3d0ce-0633-3b96-b381-6bef9aec5302 | -22.67586 | -42.85672 | 2025-05-22 03:08:00 | NOAA-20 | ITABORAÍ | RIO DE JANEIRO | Brasil | 3301900 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 34e2047f-a2c1-3c17-8298-c6fab38796cf | -20.9402 | -56.5786 | 2025-05-22 03:10:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 62.8 |
+| 2a449b2e-2ee2-34a4-8370-8b3043021dfd | -12.2943 | -52.4995 | 2025-05-22 03:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 52.0 |
+| 07735bf4-7c85-3bfd-8349-ca0041c05c94 | -11.5528 | -47.4546 | 2025-05-22 03:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 92.6 |
+| ff508abd-94fa-3d5c-83c1-f152a9b980fb | -11.5723 | -47.4298 | 2025-05-22 03:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 42.9 |
+| b9a8cc70-16b5-3a69-80e6-7ab2aef79202 | -20.9398 | -56.5998 | 2025-05-22 03:10:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| 07ffeca4-b2cd-3ebf-88ba-e1f62b45c96a | -11.5719 | -47.4521 | 2025-05-22 03:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| 47ec2d7d-4a82-3544-b3fe-0ff3f4aae514 | -20.9402 | -56.5786 | 2025-05-22 03:20:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 62.0 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
