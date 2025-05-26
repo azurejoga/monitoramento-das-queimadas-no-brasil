@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 811e14fb-6424-3a0f-95b2-8d3b83f221d6 | -8.05151 | -43.14532 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 11.8 |
-| 40c094a2-dec3-35e7-8bdf-5538988fa902 | -10.9409 | -55.32009 | 2025-05-25 05:06:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 58688e1b-0120-3370-abbd-28aecd790075 | -7.22193 | -43.11927 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 728e68c0-8f72-38c8-96cd-81a7f126b693 | -7.66084 | -46.09447 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 16a8b8ef-87c1-374d-80f9-f82963df87c7 | -10.36412 | -47.96645 | 2025-05-25 05:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 653efc3b-bdb9-3a45-a8f7-7a260c3acbe6 | -11.1435 | -48.1124 | 2025-05-25 05:06:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| b3441d10-b93a-3dcb-afcc-3d506f25782e | -6.55727 | -44.48682 | 2025-05-25 05:06:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| b9599f5c-470a-34de-9978-6af9d4839432 | -10.74116 | -49.2884 | 2025-05-25 05:06:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 46d386ab-d8b1-3b08-bf51-0cc3fe7cb4fc | -11.1342 | -53.91994 | 2025-05-25 05:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 15ec22ef-dd6a-3dda-aaf0-3b787e9d1cb5 | -5.12112 | -56.1152 | 2025-05-25 05:06:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 6d6a25ac-8b5f-39a3-8943-82d6db17288d | -6.55662 | -44.4915 | 2025-05-25 05:06:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 134cdd79-dc43-3b9d-9a45-80fdf2aa8689 | -7.64896 | -46.09666 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| fcdc8a8b-a1d8-3920-b1e9-e1cf9fb184b1 | -9.03509 | -48.93959 | 2025-05-25 05:06:00 | NPP-375D | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| fea0ee87-3760-3c01-a5e8-ee336577e734 | -10.93521 | -55.31163 | 2025-05-25 05:06:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 530a6d6d-b717-3d68-a5bd-51f7b38b2423 | -8.90272 | -44.78178 | 2025-05-25 05:06:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 7b7895cb-727f-3187-bab3-ec6ad4c0a7f6 | -8.75264 | -48.03838 | 2025-05-25 05:06:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c5520cd2-dcbe-37dd-aee4-41b3217c399d | -7.22274 | -43.11314 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| d1de51e0-2b50-3187-8146-718d5e530815 | -7.65928 | -46.10611 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 0501c4c4-d8b8-3577-bacd-657c6479e0dd | -11.57474 | -47.61991 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 6ad686de-a5b4-336e-bf00-571f577253a8 | -11.57428 | -47.62343 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 29e99a4e-7073-3d2e-af9d-ea7092893194 | -6.84258 | -44.62463 | 2025-05-25 05:06:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 85d3554e-ab13-3a49-94f2-bbecd8a2fb86 | -11.57519 | -47.61644 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 37929812-3028-3fd4-8dd6-11a82c07c66b | -11.57185 | -47.61184 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 65453f48-4681-3487-a7cb-93f6303fba27 | -7.66031 | -46.09843 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 26b79a77-50ee-35c4-b351-bb01852af30f | -11.57601 | -47.62296 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| e66b1fd6-6006-37ab-8ef8-624bc7bb3ad3 | -7.65979 | -46.10234 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 756b7366-9702-3694-8a26-2805da2d76fb | -10.72566 | -52.47504 | 2025-05-25 05:06:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 60041ec4-814c-312a-a295-d5ff41cbedc1 | -11.76009 | -47.25679 | 2025-05-25 05:06:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 720df560-558d-3d6a-a43c-20f14317c4df | -6.56017 | -44.49482 | 2025-05-25 05:06:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 993d661f-0d8c-3df5-85e0-ea5e53eafc7b | -7.20753 | -43.12343 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 7.2 |
-| e7ded973-e1d3-366a-8827-a4f73050bf38 | -11.75405 | -47.25984 | 2025-05-25 05:06:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 166248af-50dd-31a3-9c8e-dcf0e9176128 | -9.03474 | -48.94086 | 2025-05-25 05:06:00 | NPP-375D | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f6587b0f-bfa0-3c7b-8ce9-01d4bfab6cdf | -10.73794 | -53.88232 | 2025-05-25 05:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 15f7c752-dcea-348c-9725-3cbc9dd82577 | -6.83641 | -44.62371 | 2025-05-25 05:06:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6a46c08a-b11e-3b2f-8ff9-3861f60093ff | -5.32378 | -55.94439 | 2025-05-25 05:06:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2e2d2cf0-514b-3561-9830-ee7bb72d0274 | -7.65515 | -46.09366 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 4f992dc8-fc99-3f98-820a-bbf6f9a0bfd2 | -6.83579 | -44.62824 | 2025-05-25 05:06:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ec90e4cc-2aae-3197-8e50-7479c70be88e | -8.06764 | -43.12851 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| e99dd711-d3f4-3d99-8f8a-cd207cafd291 | -6.56076 | -44.49038 | 2025-05-25 05:06:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| aef73c0f-b131-3682-9918-b70922a833a5 | -11.61632 | -47.99514 | 2025-05-25 05:06:00 | NPP-375D | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| cc8d0ad0-0fbd-3a19-85d0-ebfe3753a23a | -11.56601 | -47.61445 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| b8eb9fe3-1093-3432-a0db-e17e49693bc0 | -8.73034 | -47.98676 | 2025-05-25 05:06:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 3eed3507-74eb-3551-8f29-56fdee84e76d | -8.0523 | -43.13916 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| 1ba7ace7-82f2-30a6-9486-e6dc24a35e65 | -11.14019 | -53.92939 | 2025-05-25 05:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 06dca307-e81f-3219-b9eb-26a2fe6c221e | -6.63808 | -55.01233 | 2025-05-25 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e3d3e376-d3ec-3432-8eb4-6539e3b366f4 | -11.7545 | -47.25616 | 2025-05-25 05:06:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d5418c16-687d-32be-a447-7c8adddcd368 | -7.65411 | -46.10149 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| c3745ad1-7dbc-3208-84ee-9cf2a3169c76 | -10.37814 | -47.9812 | 2025-05-25 05:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 74f87891-eb75-33c2-b275-da9a0536e33b | -8.75304 | -48.03542 | 2025-05-25 05:06:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 3e8afbed-ba03-3955-9662-17ad6205582b | -6.55448 | -44.49003 | 2025-05-25 05:06:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8d13b095-286a-3d77-aa66-666c56819121 | -8.06844 | -43.12224 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 61000c18-b521-3e2e-ac44-95afec0ce606 | -7.86651 | -48.05547 | 2025-05-25 05:06:00 | NPP-375D | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e013e361-623b-3ceb-8b92-6f5ce118e471 | -8.72953 | -47.99261 | 2025-05-25 05:06:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 2b1842f9-19d9-38b8-a130-ab4c00f96ace | -11.75963 | -47.2605 | 2025-05-25 05:06:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| fa07cc13-b476-3199-a6d1-b09fb0a8feab | -11.61589 | -47.99847 | 2025-05-25 05:06:00 | NPP-375D | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 597b15ac-dffd-3807-a405-950d296850fa | -11.57143 | -47.61526 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| cc9b7ba2-ba98-3330-81c7-c7a7838c5bf5 | -10.36734 | -47.98272 | 2025-05-25 05:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 342e3826-8e0b-3c52-b3ea-33916e1586fe | -7.20673 | -43.12957 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 3e7b1715-4160-3e1e-bd9b-f1daaa401386 | -11.57686 | -47.61598 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| f21f34f9-04f8-307d-8070-1b4c1d1dd534 | -11.57644 | -47.61945 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 4c74b2f6-0456-3917-9916-3ac37b11d65c | -10.93805 | -55.31586 | 2025-05-25 05:06:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 9ffc1855-dc6d-32d7-8a39-9520706d0561 | -11.13659 | -53.92883 | 2025-05-25 05:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 5aefbcde-2f16-3fe0-9a1c-9d37824317ae | -7.21433 | -43.12443 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| b2a0a67b-ce18-358b-8d9c-451280b69ea2 | -6.55597 | -44.49625 | 2025-05-25 05:06:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 7611821a-5a8b-381f-9030-8623ba60cb3c | -8.05997 | -43.1338 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| 55068337-4dfc-39bb-be6d-f545230caf02 | -7.6536 | -46.10527 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 77890edf-af0c-3a37-8eb4-5bba1c19b516 | -10.72635 | -52.47015 | 2025-05-25 05:06:00 | NPP-375D | SÃO JOSÉ DO XINGU | MATO GROSSO | Brasil | 5107354 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 812f599f-d292-3f6a-8925-c00d21ff13b6 | -7.22872 | -43.12038 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| a1fb183b-0f09-31fc-8abb-7be93da12cdd | -8.05919 | -43.13993 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
-| 50dbbc19-c7f6-352d-8518-e357c4f201f8 | -11.56976 | -47.61572 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 2ef46f4a-1543-3777-82b4-b52ee828be03 | -8.06686 | -43.13463 | 2025-05-25 05:06:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 349e9158-d912-32ad-a9c1-bc23dd34003a | -10.36371 | -47.96967 | 2025-05-25 05:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| bb964a96-bc2c-37c9-a4f6-e9b03d142509 | -7.66548 | -46.10308 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 0687a052-018f-3a0f-963c-d605ec799ea6 | -11.14391 | -48.10921 | 2025-05-25 05:06:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c660fdce-43cc-3774-861d-dbdca052848f | -7.22953 | -43.11425 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| f1be3455-233e-3a76-8662-a88ca391971d | -10.35852 | -47.96875 | 2025-05-25 05:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| acbd6782-f421-313c-94a3-e30ae86f4a32 | -6.63473 | -55.01181 | 2025-05-25 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 953081ee-1300-377d-8235-2b92f469046c | -7.65462 | -46.09762 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 0c3c23dd-f8f3-3d0e-b117-32ef1872ca8d | -6.55385 | -44.49481 | 2025-05-25 05:06:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| c3895ecb-09e0-34d5-96fa-a8adeb91a59d | -11.5702 | -47.6123 | 2025-05-25 05:06:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 80b9e486-605d-39cc-801c-f4f8309eed67 | -11.13682 | -53.91772 | 2025-05-25 05:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 66fa92cd-923e-3f3e-8368-d73ffa7f7fda | -8.44014 | -49.62694 | 2025-05-25 05:06:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f881f877-d266-3e42-aade-61aa238c0d30 | -7.66601 | -46.09916 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| e730fe33-1e0d-3f51-8177-1c00ed48476b | -8.89642 | -44.78102 | 2025-05-25 05:06:00 | NPP-375D | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| f0df82a5-e1c4-31b2-a2ff-5a7e4cd9b59d | -6.55511 | -44.48522 | 2025-05-25 05:06:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ddc3b045-8382-3b77-9f0c-352d78a59acc | -6.8352 | -44.63252 | 2025-05-25 05:06:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6103449d-25b1-372c-840a-a09fc8aa327d | -10.74185 | -49.28322 | 2025-05-25 05:06:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 8f611604-7f29-3b27-9eee-1666d0f8e005 | -7.64844 | -46.10056 | 2025-05-25 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| f72baffc-97c4-34b4-bb28-78e4fb3345d5 | -8.72993 | -47.98968 | 2025-05-25 05:06:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 67bfb903-e2a9-3f10-988b-59627308fbcb | -7.21513 | -43.11824 | 2025-05-25 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| f5c182d7-8ab4-3513-b78e-e1cb2618430b | -11.1378 | -53.92051 | 2025-05-25 05:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 455ad333-a112-3289-8495-43835011969e | -5.12446 | -56.11572 | 2025-05-25 05:06:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| aa020e50-a724-3797-8dbc-c7f8ff303514 | -10.37294 | -47.98046 | 2025-05-25 05:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 34766499-2e8c-3b8c-876c-132da1c194b4 | -12.37259 | -49.988 | 2025-05-25 05:08:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| ade8c406-1710-3969-a636-a051db445063 | -17.15553 | -54.00796 | 2025-05-25 05:08:00 | NPP-375D | ITIQUIRA | MATO GROSSO | Brasil | 5104609 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 6a913d9b-2477-3364-b360-1b0f493bc180 | -13.3655 | -54.26464 | 2025-05-25 05:08:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 832402a3-1a3b-3154-9932-c9831fea5d9f | -11.8883 | -56.41473 | 2025-05-25 05:08:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 71dc98c0-24c7-3b6d-8cda-709e6679e7be | -11.46688 | -61.94139 | 2025-05-25 05:08:00 | NPP-375D | CASTANHEIRAS | RONDÔNIA | Brasil | 1100908 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 6a2ca4de-a07f-318c-89a2-3d99c3e160ab | -12.14011 | -54.66278 | 2025-05-25 05:08:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3041bb13-7169-3e4e-adfa-3a54fc07133e | -13.09849 | -52.2901 | 2025-05-25 05:08:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 4a9e633c-1f0e-3937-92ce-9e49f3916912 | -12.14876 | -64.15821 | 2025-05-26 06:01:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ee90682e-dc57-3501-918a-6c708b7e6d3e | -9.858 | -65.25938 | 2025-05-26 06:01:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| e93773c6-df80-3c99-9c39-a93a4035e71e | -14.04023 | -55.1277 | 2025-05-26 06:03:00 | AQUA_M-M | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 3cf342ad-0496-3144-a03a-c28322309aeb | -13.78187 | -54.31615 | 2025-05-26 06:03:00 | AQUA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| ae48ddc2-5f62-3c45-b50f-221f4b67e08a | -19.87473 | -54.36134 | 2025-05-26 06:05:00 | AQUA_M-M | BANDEIRANTES | MATO GROSSO DO SUL | Brasil | 5001508 | 50 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| 78544a8d-499d-34a7-953b-472d37cfb9e4 | -8.07 | -43.1216 | 2025-05-26 06:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 62.2 |
+| 31949587-faf6-3adb-93e1-7b1ce7c700dd | -8.07 | -43.1216 | 2025-05-26 06:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 58.5 |
+| fe901684-c2e9-3e3e-8430-2af1a9435d19 | -8.0696 | -43.1452 | 2025-05-26 06:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 63.9 |
+| 1ae0792d-6257-3d5e-8aba-463b8b0847b3 | -8.07 | -43.1216 | 2025-05-26 06:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.1 |
+| cdc18eba-e088-3922-b2f8-e2cf2b9fba2a | -8.07 | -43.1216 | 2025-05-26 06:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 92.3 |
+| 133bb58e-b73a-39fc-8cb4-636659f5e8bb | -8.0696 | -43.1452 | 2025-05-26 06:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.7 |
+| 7ddf820f-378b-3374-a132-7eb29de0bda9 | -8.07 | -43.1216 | 2025-05-26 07:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 80.5 |
+| 913099ce-a729-3f19-8769-d605fe1c5d45 | -8.0696 | -43.1452 | 2025-05-26 07:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 79.1 |
+| 29c5ee34-e1cb-3bb2-9bda-0acec0af6208 | -8.07 | -43.1216 | 2025-05-26 07:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 96.0 |
+| b75462a1-4011-3564-a349-220dde1d7b5f | -8.0696 | -43.1452 | 2025-05-26 07:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 87.8 |
+| 47a4008b-f877-32b9-8daf-7f685cfa97ed | -8.07 | -43.1216 | 2025-05-26 07:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 103.5 |
+| 86f036e7-1614-3058-8d3c-fdc8df74c10c | -8.0696 | -43.1452 | 2025-05-26 07:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.0 |
+| b2c18bda-3a62-33ee-8af5-5d980acf355a | -8.07 | -43.1216 | 2025-05-26 07:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 113.5 |
+| 822b7b8a-25dd-3834-a03c-a8105f2e0ad4 | -8.0696 | -43.1452 | 2025-05-26 07:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 102.2 |
+| 07a380b7-53e4-3ac7-ac02-634c639f0548 | -8.07 | -43.1216 | 2025-05-26 07:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 102.5 |
+| bfc8b87b-b651-39eb-89cd-44deb7a9aae8 | -8.0696 | -43.1452 | 2025-05-26 07:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 103.4 |
+| 337e016f-9e27-3a20-b341-319ff5df40a3 | -8.07 | -43.1216 | 2025-05-26 07:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 112.8 |
+| 4fad67c8-6724-3ce3-ae3a-6b8e1762e6db | -8.0696 | -43.1452 | 2025-05-26 07:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 84.8 |
+| f7f14f43-150b-3e0e-8271-47d5c123cc84 | -8.07 | -43.1216 | 2025-05-26 08:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.3 |
+| 3b5eae78-f994-3247-af3f-8f0b39c45472 | -8.0696 | -43.1452 | 2025-05-26 08:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.3 |
+| 7277c90c-f398-379e-aa97-e900fc167c46 | -8.07 | -43.1216 | 2025-05-26 09:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 110.5 |
+| ed043a5f-d004-3617-8eff-0393d3659b5c | -8.07 | -43.1216 | 2025-05-26 09:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 130.2 |
+| a8cda3b2-00c3-3cfc-a550-410d91634445 | -8.0696 | -43.1452 | 2025-05-26 09:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 115.6 |
+| 559e26a5-17c3-3873-836c-b7ff3c69acf7 | -8.07 | -43.1216 | 2025-05-26 10:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 120.3 |
+| 74d69583-d4c5-30dc-9275-a38d9b864a38 | -8.07 | -43.1216 | 2025-05-26 10:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 153.7 |
+| 77e8217c-41f1-3faa-b4f7-26b1a297736a | -8.0696 | -43.1452 | 2025-05-26 10:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 136.3 |
+| 85d69ee5-8411-3246-9b1b-c5b3a08ce602 | -8.07 | -43.1216 | 2025-05-26 10:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 150.4 |
+| ced0205d-8719-35bc-a9ba-189200b6b721 | -8.0696 | -43.1452 | 2025-05-26 10:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 160.0 |
+| d996ee91-94b1-3807-878f-721798e3fa67 | -8.07 | -43.1216 | 2025-05-26 10:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 136.0 |
+| 4c23ef54-7f14-33a6-8f9b-46bd785d0886 | -8.0696 | -43.1452 | 2025-05-26 10:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 133.1 |
+| 29313c13-bfe6-3c4b-8290-f3018139b692 | -8.0696 | -43.1452 | 2025-05-26 10:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 112.7 |
+| 922ecd45-c177-332b-8a17-b581b18e0f5f | -8.07 | -43.1216 | 2025-05-26 10:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 147.7 |
+| 2119a9b0-1e95-338c-a740-5e8f55d013ec | -8.07 | -43.1216 | 2025-05-26 10:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 139.3 |
+| 4eb88cf5-7dbb-3a4b-9a4e-6fa4af12a5fa | -8.0696 | -43.1452 | 2025-05-26 10:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 102.3 |
+| dbd1a41d-d5d6-34b8-9fe6-4d5ac0f50e05 | -8.07 | -43.1216 | 2025-05-26 11:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 160.6 |
+| 63d56c49-e947-3487-872d-a175c7917d60 | -8.0696 | -43.1452 | 2025-05-26 11:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 118.5 |
+| 74ff63ac-b90a-30fa-8270-3e4ec61782c2 | -8.07 | -43.1216 | 2025-05-26 11:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 174.8 |
+| f535129f-2b4c-30f6-81aa-08a664accdd5 | -8.0696 | -43.1452 | 2025-05-26 11:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 167.1 |
+| 70c78f0d-aeff-3d88-b6d0-f5477dbc3622 | -8.07 | -43.1216 | 2025-05-26 11:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 185.9 |
+| b81c4ef4-223a-39cc-a7b9-ec4fd435a3bc | -8.0696 | -43.1452 | 2025-05-26 11:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 176.6 |
+| 430c1f7d-d52c-3910-9f47-7710d2f0e652 | -13.6402 | -41.69604 | 2025-05-26 11:23:00 | TERRA_M-M | RIO DE CONTAS | BAHIA | Brasil | 2926707 | 29 | 33 | nan | nan | nan | Caatinga | 30.6 |
+| 7bca2050-91e1-32d4-8a3a-520da1c8a9bf | -12.4089 | -49.9762 | 2025-05-26 11:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 84.0 |
+| c84a56e3-af0b-3f49-9c00-c00151e40afe | -7.595 | -43.3828 | 2025-05-26 11:30:00 | GOES-19 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Cerrado | 217.7 |
+| 7124a565-a95a-312f-a9cf-0845d859a13f | -8.0696 | -43.1452 | 2025-05-26 11:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 102.6 |
+| b7e17f81-b14f-3d97-8a51-31c2c957bb75 | -8.07 | -43.1216 | 2025-05-26 11:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 118.9 |
+| 246242e9-8498-3b5d-a928-2f92790158bd | -8.07 | -43.1216 | 2025-05-26 11:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 103.9 |
+| de344c5d-8b0c-3934-b3e6-c449a26ead4c | -8.0696 | -43.1452 | 2025-05-26 11:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 92.0 |
+| 852b36db-8e68-3efd-8b48-0a7f3266b315 | -8.0312 | -43.1964 | 2025-05-26 11:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 143.9 |
+| 1cf9955c-9873-3fd4-90c5-92828487aa72 | -7.595 | -43.3828 | 2025-05-26 11:40:00 | GOES-19 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Cerrado | 89.2 |
+| cd637ee5-a180-38eb-97dd-dae2bf9931cf | -12.4089 | -49.9762 | 2025-05-26 11:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 127.6 |
+| b533975d-a849-3a0c-98ad-4cb2dba59324 | -8.07 | -43.1216 | 2025-05-26 11:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 101.0 |
+| 2fa316eb-5cb1-35ad-8eea-4b24deecdd98 | -12.3526 | -49.9184 | 2025-05-26 11:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 105.1 |
+| b3dd1ea8-ebe0-3bb6-80df-5f63733b28b2 | -8.0312 | -43.1964 | 2025-05-26 11:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 193.8 |
+| 7a5a3eaa-3edc-355a-8d37-b1a2eabae85d | -12.4089 | -49.9762 | 2025-05-26 11:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 168.3 |
+| 6ea48dc8-549f-3b0f-bf77-deca9305f518 | -12.3898 | -49.9786 | 2025-05-26 12:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 83.3 |
+| f5edc41b-406b-3b46-882f-045d24c80d2d | -12.4089 | -49.9762 | 2025-05-26 12:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 209.4 |
+| cd4a505a-6187-3f9d-91e9-c3a00c9c031d | -12.3717 | -49.916 | 2025-05-26 12:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 83.2 |
+| 03496d12-95d8-32f0-b87e-b8a3108e1065 | -8.0312 | -43.1964 | 2025-05-26 12:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 160.6 |
+| 9d3f829c-9d2d-3182-a8c6-6b0ebc0ecce0 | -12.3526 | -49.9184 | 2025-05-26 12:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 112.8 |
+| 42a08c68-609a-3f9a-b85f-c697d1b19d37 | -12.3526 | -49.9184 | 2025-05-26 12:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 149.1 |
+| 36034f79-c05c-39bb-84b0-f0838e629094 | -12.3522 | -49.94 | 2025-05-26 12:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| f4dd42e5-600d-3aaf-9690-9c38cd1186a5 | -8.0312 | -43.1964 | 2025-05-26 12:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 292.7 |
+| 4e928f10-7623-3a34-a67d-3a7ff933b77a | -12.3898 | -49.9786 | 2025-05-26 12:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 90.3 |
+| cef1fad1-04c2-3fbf-a499-fdc817bc399c | -12.4089 | -49.9762 | 2025-05-26 12:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 276.2 |
+| 784360d5-8c73-3507-ac81-a978c76736eb | -7.9827 | -50.7201 | 2025-05-26 12:10:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 80.4 |
+| 8077e2e3-2e63-3748-ab92-eb6dacb7e438 | -12.4086 | -49.9978 | 2025-05-26 12:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 99.1 |
+| c4116c92-4be3-398d-bfa1-4205256b9049 | -12.3717 | -49.916 | 2025-05-26 12:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| 16c18bd9-d448-3f54-9d8e-827ddefeba66 | -12.3898 | -49.9786 | 2025-05-26 12:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 109.3 |
+| 01f5f040-8e22-3856-a31f-24243652f541 | -12.3522 | -49.94 | 2025-05-26 12:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 86.1 |
+| 10a7c12a-e3eb-3212-88b3-2ae56d386e81 | -8.0312 | -43.1964 | 2025-05-26 12:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 191.9 |
+| 41d077d9-aa0a-325d-b2dc-ca790696f3e1 | -12.0703 | -47.3408 | 2025-05-26 12:20:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 86.2 |
+| da7754ba-fbb3-3352-b668-f4931d2a1322 | -12.3526 | -49.9184 | 2025-05-26 12:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 206.7 |
+| 66b7ebc6-88d4-3ab2-80f4-883e1ba474d9 | -12.4086 | -49.9978 | 2025-05-26 12:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 96.5 |
+| 38d00287-c350-38c7-8ca6-610b59caa4fb | -12.0699 | -47.3632 | 2025-05-26 12:20:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 88.3 |
+| 8908b86a-6050-3138-af05-f95ffbc4c20e | -12.4089 | -49.9762 | 2025-05-26 12:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 297.5 |
+| 4f029f14-5943-3315-99c9-8bdc78c7cf16 | -12.3526 | -49.9184 | 2025-05-26 12:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 207.0 |
+| fcffb8e6-73b8-3cfa-a19d-0cb83e0a54a3 | -12.0703 | -47.3408 | 2025-05-26 12:30:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 101.1 |
+| 831111fa-0c8b-3699-a44d-7d4e3967b54c | -8.0312 | -43.1964 | 2025-05-26 12:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 220.1 |
+| 11c0fdbc-02d9-38b5-907d-0898d7921e49 | -12.0699 | -47.3632 | 2025-05-26 12:30:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 81.9 |
+| a14f6671-bb21-347e-96b5-adb59cbd7c93 | -8.0123 | -43.1984 | 2025-05-26 12:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 90.6 |
+| ae220f4c-2d73-3d4c-b141-69663c350cb8 | -12.4089 | -49.9762 | 2025-05-26 12:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 297.2 |
+| e62aa930-b6f9-3603-9c7c-bdd98f82f914 | -12.3898 | -49.9786 | 2025-05-26 12:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 128.5 |
+| 90b76272-cb41-3274-b35d-203b31d782aa | -12.4086 | -49.9978 | 2025-05-26 12:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 135.7 |
+| 9a92be25-fdca-367a-b6bc-d62fc36dc3ca | -12.3522 | -49.94 | 2025-05-26 12:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| 1342fce8-e020-3ad6-877e-af72e2ebf358 | -12.4086 | -49.9978 | 2025-05-26 12:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 129.1 |
+| f823363f-68e5-3fd1-ab83-b6be561f9245 | -8.0123 | -43.1984 | 2025-05-26 12:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 88.5 |
+| 581f1e18-7346-3a2e-8543-280249502fd6 | -12.3522 | -49.94 | 2025-05-26 12:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 112.0 |
+| 404ad914-3b17-3122-a197-10b5817d0a7f | -12.3526 | -49.9184 | 2025-05-26 12:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 249.0 |
+| cd54a37c-d861-38a1-83eb-43bb97233994 | -12.0703 | -47.3408 | 2025-05-26 12:40:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 120.0 |
+| faa12709-37a3-3725-b28d-c20c7adacaa9 | -12.4089 | -49.9762 | 2025-05-26 12:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 330.5 |
+| e816d05c-d220-3386-87a4-e12f35d4f0d4 | -12.3717 | -49.916 | 2025-05-26 12:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| 22bab7c4-eaa8-36dc-9299-2cd6fe8bfcdf | -12.0699 | -47.3632 | 2025-05-26 12:40:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 106.8 |
+| 24267af9-2322-33f7-9f14-f39734c252db | -7.541 | -43.1774 | 2025-05-26 12:40:00 | GOES-19 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 91.3 |
+| c45b53d3-9935-3932-b2ef-ad8ad202a7ce | -8.0312 | -43.1964 | 2025-05-26 12:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 283.1 |
+| 9a7b52a6-9b67-3a10-bd09-7b4a19fafef7 | -12.3898 | -49.9786 | 2025-05-26 12:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 145.2 |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)
