@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 715cf0d9-feee-37d7-b797-5ea0923255f5 | -21.87709 | -57.09896 | 2025-06-03 05:14:00 | NOAA-21 | CARACOL | MATO GROSSO DO SUL | Brasil | 5002803 | 50 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 8a29b93c-cd94-3edb-98bd-8f4b4fce9332 | -16.39926 | -58.17695 | 2025-06-03 05:14:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| cc99e0e8-6f34-37fd-979a-22bdec62d8f7 | -18.83942 | -47.6856 | 2025-06-03 05:14:00 | NOAA-21 | ESTRELA DO SUL | MINAS GERAIS | Brasil | 3124807 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 629df21d-faca-38e3-8d45-fd12ea4e4485 | -18.8875 | -53.6402 | 2025-06-03 05:20:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 106.0 |
-| 9824a2b3-43c5-3889-92e7-566318e5adb1 | -11.9027 | -54.7931 | 2025-06-03 05:20:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 54.9 |
-| f24080c8-68b5-35c6-96e2-002738e40770 | -18.8679 | -53.6218 | 2025-06-03 05:20:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 96.7 |
-| d2288ebf-f592-37a1-b63f-90d9c5671e2c | -18.8675 | -53.6434 | 2025-06-03 05:20:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 132.5 |
-| fee7da74-c9a0-37a9-8529-8c2761df349f | -18.888 | -53.6186 | 2025-06-03 05:20:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 73.5 |
-| ed56c7f8-75d6-339b-92e9-a8603dbd74f1 | -18.888 | -53.6186 | 2025-06-03 05:30:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 72.4 |
-| 613908de-d821-330c-8c36-e02a6c22eb82 | -18.8875 | -53.6402 | 2025-06-03 05:30:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 113.9 |
-| 0d26230a-ad62-3cec-8dae-1a0722f94324 | -11.9027 | -54.7931 | 2025-06-03 05:30:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 44.9 |
-| 983a486a-da56-34cc-97e1-155429c3be2c | -18.8675 | -53.6434 | 2025-06-03 05:30:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 133.6 |
-| ceba5789-4f69-323f-8ba0-108fac6abbbb | -18.8679 | -53.6218 | 2025-06-03 05:30:00 | GOES-19 | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 84.4 |
-| 6dc29af7-7e05-3596-b1aa-1cf4e0da2b6b | -13.09529 | -52.04136 | 2025-06-03 05:38:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| a8a61578-490a-3854-ba3f-0078db730b66 | -12.36189 | -54.17267 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 60cdb198-c5a0-3a81-b5bc-0dedf9f71c8f | -9.23909 | -63.28755 | 2025-06-03 05:38:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7c8e8516-f38d-3ba6-a0d1-de90a6ef3022 | -11.5526 | -56.42536 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 41f002f8-fa38-3657-8741-0778f7dfe7bf | -11.64387 | -55.36929 | 2025-06-03 05:38:00 | NPP-375D | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 822e3214-0cea-3263-85b0-69350c4d342a | -12.37357 | -54.16354 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 81d3b66c-6ce9-39bb-a3c8-6487c0cfda2d | -11.92344 | -54.81716 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 8821af7f-00d1-3ade-a90a-61b35197273e | -11.90959 | -54.78724 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| c71c4736-2992-3e82-b98f-0041f702bc8d | -11.89559 | -56.40837 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ce917cb4-3529-3c5d-ba9d-a0388afa73fb | -12.37493 | -54.16504 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c3c6b106-661f-31bd-956f-b97f53d81de7 | -9.61899 | -67.29192 | 2025-06-03 05:38:00 | NPP-375D | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 2eb56795-1449-35ac-84d1-2fdcbb93cc76 | -9.61652 | -62.06105 | 2025-06-03 05:38:00 | NPP-375D | VALE DO ANARI | RONDÔNIA | Brasil | 1101757 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 4d3d89f0-ae47-3e36-9c42-349e9f2aaef3 | -12.09419 | -54.66678 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d62d329c-3be6-37e0-8013-5e337d421edf | -11.55772 | -56.42602 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5043e674-0872-3eb9-b4d1-704d0440d466 | -9.23854 | -63.29114 | 2025-06-03 05:38:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b03c01fd-e43e-3123-b8e7-6eafb31d027f | -10.69132 | -57.651 | 2025-06-03 05:38:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| b83d04a7-89e2-3404-8923-a76cf713d844 | -11.89682 | -56.40874 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a52c9ebe-b539-3f4b-89ee-22bc1b53c69e | -12.0882 | -54.57619 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 0e2d0444-3b70-34eb-90eb-4a4ad58541fc | -11.64981 | -55.36646 | 2025-06-03 05:38:00 | NPP-375D | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 0d9ca856-93c7-324f-854d-cd186010aa35 | -9.63535 | -65.40914 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 42456ecb-c7b3-320b-8f8e-1069e33a9606 | -11.89667 | -54.79185 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ff708c4b-f7ca-32ee-8129-1323d8899e78 | -11.43423 | -55.0034 | 2025-06-03 05:38:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 5d4625e4-20e8-30f9-a385-3813f23af160 | -11.89717 | -54.79372 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| cd45ef6c-753b-3f93-af26-becbadc7b126 | -12.1712 | -54.25994 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7eaa5fba-2b99-3776-b252-ca14b8a03e08 | -10.30269 | -57.14354 | 2025-06-03 05:38:00 | NPP-375D | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 3d064291-797e-3b16-b2f7-67514f513f91 | -9.63592 | -65.40558 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ecabab75-4996-3b8a-930c-11f3e370afa9 | -10.2979 | -57.1429 | 2025-06-03 05:38:00 | NPP-375D | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| c101d1a0-6c5a-3733-bfc4-50831c819e31 | -9.43453 | -62.46351 | 2025-06-03 05:38:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| bf15dbdb-1b81-36d8-9e6b-2b7ae1f5f2f4 | -10.69195 | -57.64622 | 2025-06-03 05:38:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9ad19c42-128f-37fd-96a2-d14dece0be2e | -11.91743 | -54.42097 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8a9bc40a-a9da-314a-b0d1-c0d61284dc5e | -9.43556 | -62.46433 | 2025-06-03 05:38:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a6e540e4-ef3f-31d1-a6d4-a81a47d0a9c8 | -13.09671 | -52.02818 | 2025-06-03 05:38:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| a1a0324f-fdbc-3c4e-b76f-5a8c51304ad7 | -11.90074 | -56.40903 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 64cf843a-8429-3652-9522-4c82dbe59684 | -9.24135 | -63.29525 | 2025-06-03 05:38:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e8201eae-85ea-3dba-b241-03ec158c4866 | -11.92297 | -54.82106 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6a264dd6-9c24-300e-9ad1-5bc34a6f8a36 | -11.65576 | -55.36359 | 2025-06-03 05:38:00 | NPP-375D | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| aad3a105-9b92-38ee-a006-5f2b10898ee7 | -11.43935 | -55.00803 | 2025-06-03 05:38:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ba278a1f-5eb5-30d4-8899-2e0c3841d9ce | -9.96118 | -64.96197 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 78052149-32c1-3f0d-b22f-b9eb6984bd65 | -11.92391 | -54.81325 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| abdafc89-f2cc-3f6f-891e-4493317926c8 | -12.10033 | -54.66975 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| eeb61256-68d5-372f-9d76-074bc1cc53a9 | -9.33532 | -63.52194 | 2025-06-03 05:38:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 91ce2ff2-199a-3388-adf9-e3bae39c7a17 | -9.65232 | -65.75377 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 204c05a0-777f-3e40-a75e-51c0cb09a511 | -11.65025 | -55.3629 | 2025-06-03 05:38:00 | NPP-375D | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 3cb3425a-0e9d-3557-baf8-374c176f28a6 | -12.09998 | -54.6676 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 2c5f0078-6f74-33b2-93f9-e97cfcb5f3d9 | -7.89109 | -61.47506 | 2025-06-03 05:38:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| d692f7b6-00dc-3115-974f-a06ca7e72819 | -12.09951 | -54.67165 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 2d12d873-fabf-3ae0-8c95-794e7707e747 | -10.69661 | -57.64677 | 2025-06-03 05:38:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f1718d6c-6e68-392e-91cd-361ed7eca90c | -11.91677 | -54.8242 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e8c15482-40e8-37db-9248-767b7631ed94 | -12.3684 | -54.16892 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 96a6362f-27b5-3f09-8789-1d5a8c1e32f2 | -12.08189 | -54.57949 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4aeb2ad1-d4e3-37b5-9440-ad3c66be00fb | -11.91007 | -54.78319 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 3d0bf489-dc12-3b22-92ee-1ad168860a8e | -12.37302 | -54.16806 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 39cf69a8-4fca-37ba-8915-04b5dedee1d1 | -12.36647 | -54.17188 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 422110f8-0883-3105-af4d-9c463869f577 | -9.23798 | -63.29473 | 2025-06-03 05:38:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| bc51961a-14b2-3f58-9427-a3520247c00c | -11.90433 | -54.78253 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 46c127ea-1858-37ae-a452-ae4440bca95f | -9.6387 | -65.40969 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4ddaa209-7160-327e-97ec-07e63ac0c3ac | -9.96062 | -64.96548 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e3aa2b45-203c-31b7-9815-5cdd4a5a3e47 | -11.90197 | -56.4094 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 247a77ee-a346-3251-88a2-290e07c4190e | -12.36891 | -54.16439 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c2b6a4eb-2d29-32c9-8fa1-140d8c564a60 | -11.9225 | -54.82494 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 15c9ec5e-41d9-3e65-8b58-809a3565ad6a | -11.9029 | -54.79446 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| 051a993a-dd95-3413-954a-f5248a62283e | -12.36701 | -54.1674 | 2025-06-03 05:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 74f4fc6f-0da7-3974-9c7b-a2d756fbcbe9 | -12.10083 | -54.66571 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ccb0897a-20ae-3950-911a-8b2de7999f98 | -10.01671 | -67.00356 | 2025-06-03 05:38:00 | NPP-375D | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 1d3d9b72-eab5-3d16-bc74-967a8a45eb46 | -11.43375 | -55.00719 | 2025-06-03 05:38:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 52fdd340-3829-3ccc-abff-4da113b552a9 | -12.67112 | -58.21746 | 2025-06-03 05:38:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| b45c1244-b6fd-3e1c-9c08-523c02999e59 | -11.5522 | -56.4284 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e5d0f6d7-de0c-3e65-9519-ed2023ba2a3c | -11.91958 | -54.41971 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| ded72477-8f36-3454-815d-d239fa4c2b26 | -12.17069 | -54.26431 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 444f1a2f-2355-358b-b5c3-4c31165504e6 | -11.55693 | -56.43208 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 38a6c530-d3dc-3ff4-af2d-eb9eeaf8ebba | -10.01321 | -67.00298 | 2025-06-03 05:38:00 | NPP-375D | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 956f49bd-b461-3258-a95c-fd0b4972a26d | -12.16851 | -54.26222 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 1a0f5cc5-dc69-3370-a0f3-a3a2b9202fcc | -12.0814 | -54.58354 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4bee4a40-d02e-319b-9a76-6b61cb57a531 | -11.89617 | -54.79578 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a7bdceb9-ea5d-3fc6-8369-48ab0f0c1a02 | -11.55732 | -56.42906 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 9657b821-2a13-3a8c-b27b-f2f2c0f70ab9 | -11.90384 | -54.78656 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 6180e96b-bc63-3507-9a95-e28c2991294b | -11.92332 | -54.4216 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4e62ae68-c476-3c82-80d8-5e7525a1b7da | -11.43672 | -55.00607 | 2025-06-03 05:38:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| beee10f0-7d56-31a7-b28f-efc310bd2db3 | -9.67837 | -67.40926 | 2025-06-03 05:38:00 | NPP-375D | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| c4a5de30-26d3-3e3f-8a40-65e12cf6efea | -9.96451 | -64.96251 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 6cafa552-1afa-3e18-b07e-66f573892d3a | -10.69598 | -57.65156 | 2025-06-03 05:38:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| c2d851fd-81e9-3956-a726-bee023736def | -9.96395 | -64.96602 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0788c364-283b-3f0e-8489-786386ab286e | -8.73274 | -63.8503 | 2025-06-03 05:38:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| d6256bbf-a104-33ba-aa96-fcd7edc43803 | -9.75635 | -67.32926 | 2025-06-03 05:38:00 | NPP-375D | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 9256a029-c875-3398-b0bb-c953ec28676d | -11.55181 | -56.43143 | 2025-06-03 05:38:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 14cabfd5-c547-3e40-bec1-828922f71eed | -12.09454 | -54.66897 | 2025-06-03 05:38:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 853f9c9e-c0a4-3ce4-b67f-6970beaab7bf | -11.90337 | -54.79052 | 2025-06-03 05:38:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 7.4 |
+| ced68629-f8bd-3e0c-82fa-c4604114e3bd | -10.71161 | -48.77889 | 2025-06-04 05:21:00 | NPP-375D | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 66b03eae-20c5-376e-b465-8a2c71866b31 | -12.51305 | -57.18586 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 5ee94e71-314d-36c9-b335-968d11922404 | -12.28125 | -57.27068 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 9a3f5cce-f61d-3085-938b-4e5939418d40 | -11.91925 | -54.81581 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 6830206b-69e9-37a2-9955-51b6c7fcee46 | -13.09068 | -52.0242 | 2025-06-04 05:21:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| fa27a39a-c87b-32e1-9a75-08448ae1f91d | -15.27432 | -51.47697 | 2025-06-04 05:21:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2d9fe3c8-69c2-33b5-9d00-53f88a40e96e | -11.82312 | -57.81623 | 2025-06-04 05:21:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f24f5fb6-0ca4-340a-b4a3-e5e5f485ecd6 | -13.90686 | -54.66505 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| fc552c9c-74f8-3bdc-9f70-942e2024e51f | -10.26063 | -48.45882 | 2025-06-04 05:21:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| eb41b6b7-13e6-39eb-a627-3a861fbde718 | -11.90493 | -54.78821 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 16ec0b2c-c07a-3975-b509-3e21e83f8c86 | -11.8378 | -51.28846 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 91b42adf-eb4d-3f44-b67d-a0cc42883f37 | -11.70501 | -54.56038 | 2025-06-04 05:21:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 07f059bb-84ba-3cf6-bc43-7b33c1aeb94c | -13.14537 | -56.81002 | 2025-06-04 05:21:00 | NPP-375D | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1805cf1b-68ae-3d8c-84be-4429e18dd4b1 | -10.29328 | -57.14106 | 2025-06-04 05:21:00 | NPP-375D | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cbfef4c6-f380-3c5f-bb9f-7690005bc989 | -12.64504 | -54.11897 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 4443b2cd-ec8d-3ac7-b9f4-888e1fd1ac3c | -14.01778 | -55.12162 | 2025-06-04 05:21:00 | NPP-375D | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 88ccb736-4133-3a75-80a4-e0d09f06f556 | -12.64944 | -54.11955 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 9db8d157-b9f0-3d69-9997-dd10dc29e6e7 | -11.80792 | -57.35717 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6c474395-1973-39bf-9ae3-361a028e4bf2 | -14.0296 | -55.13008 | 2025-06-04 05:21:00 | NPP-375D | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 8bb9872c-ae87-3174-94ac-45afc54a3cfc | -13.09106 | -52.02117 | 2025-06-04 05:21:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| b809a899-1b8e-3bc8-bc5e-54478f26e2be | -10.69399 | -57.64114 | 2025-06-04 05:21:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 91a17bc6-fce0-3b2e-9350-aed1ece06c6f | -11.4089 | -54.71933 | 2025-06-04 05:21:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 41774623-74aa-35d2-8624-9effa0a6ae1f | -12.71938 | -56.56213 | 2025-06-04 05:21:00 | NPP-375D | TAPURAH | MATO GROSSO | Brasil | 5108006 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 15c50f30-fccb-3b64-8a7b-647718759660 | -11.91781 | -54.81704 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7ca1e5b2-1266-354e-aaaf-9ff551e6cbfe | -10.30039 | -57.14217 | 2025-06-04 05:21:00 | NPP-375D | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 21d2a819-423e-39ae-82a6-7e27ec27a170 | -11.55955 | -56.41473 | 2025-06-04 05:21:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 57cda5ad-97b0-3f6e-947a-cdc7e1f6c183 | -14.03275 | -55.13854 | 2025-06-04 05:21:00 | NPP-375D | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 28bbe1db-9936-31b2-b95c-fcd47d2f0cc6 | -11.40512 | -52.94321 | 2025-06-04 05:21:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 7ebe8cef-22c3-37a8-af8b-ea2cb4c6167e | -11.90001 | -58.67795 | 2025-06-04 05:21:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 1e7e9e3c-1741-3cc8-9ab0-d0b2d2df2bdb | -10.8701 | -49.55111 | 2025-06-04 05:21:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4a33edb2-d4d7-3caa-b1ed-b6b22c6709bc | -11.91366 | -54.81643 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 51981c59-d3d8-3968-8569-3018d56ed7ea | -12.51369 | -57.18156 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f1ce288e-1ca4-3984-a54d-84cee7eff34f | -11.9048 | -47.44755 | 2025-06-04 05:21:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 206d2627-2d97-3580-9bda-5a6dd1a2d174 | -11.83696 | -51.29121 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| ef8d044e-dd02-3220-90a4-7f875723c2d1 | -11.5558 | -56.41418 | 2025-06-04 05:21:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 40a6e8a9-52e5-31af-8630-87099b6179b1 | -10.49514 | -53.65332 | 2025-06-04 05:21:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 634cafce-4362-379f-b831-3d614c5fe5ca | -12.27947 | -64.27626 | 2025-06-04 05:21:00 | NPP-375D | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9dc6e202-ddf5-324d-88c4-678fee21a8c1 | -11.89509 | -56.41145 | 2025-06-04 05:21:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 93dac8aa-55c2-3e1a-a2b5-6c347ff3eebe | -12.52333 | -57.19179 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1e89a2d4-be20-3f74-a5e0-723fbd01287b | -14.33325 | -54.13842 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| ee40e4b8-20f6-3656-a7b0-a544dedb6089 | -12.64449 | -54.12323 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 747a9603-3a33-314e-b97a-2f2d4f8a96ec | -10.36421 | -57.22588 | 2025-06-04 05:21:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 87beea62-1c5f-3a07-815a-00ab67357278 | -11.84265 | -51.29242 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| 7f21f0b3-8d30-34ab-bc80-75ba92ebbb5f | -9.96121 | -64.96391 | 2025-06-04 05:21:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| a50b6ff0-e8da-36e5-ac39-f105351c3a33 | -10.35698 | -48.73166 | 2025-06-04 05:21:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 15d09531-c3e9-38e5-b7ac-02fc1e3cea7c | -13.14147 | -56.80719 | 2025-06-04 05:21:00 | NPP-375D | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 287aefb1-cdcc-33c2-98c1-e74bec94980a | -12.65049 | -54.11747 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 38091975-9296-39d6-a3ee-4d7da5d34573 | -14.68069 | -52.689 | 2025-06-04 05:21:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4e085b80-a8ec-3e37-b716-ce8d7a07d39e | -11.84183 | -51.29521 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 4e9e3ccb-2515-3f49-b2e1-18a9d4f4231e | -10.29683 | -57.14164 | 2025-06-04 05:21:00 | NPP-375D | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 323a7ed0-6155-3f1f-aa29-20440cc783c4 | -11.89608 | -54.7908 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 208f964a-939b-354c-b855-ff3e9a5bad6d | -11.90415 | -47.4534 | 2025-06-04 05:21:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 83177444-382d-3049-b9a6-3028c5bc1e25 | -11.90342 | -58.67849 | 2025-06-04 05:21:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| bc06a741-3552-324c-a2ca-bc564edf1ecf | -11.83735 | -51.28796 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| c5bf0253-1225-301e-b7f5-fba75e56136e | -14.02856 | -55.13795 | 2025-06-04 05:21:00 | NPP-375D | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| dda56a63-f302-322a-a8ac-3957e7166feb | -11.9142 | -54.81264 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b5b6afcc-0859-3709-b115-8c38a1f01b51 | -14.02908 | -55.13401 | 2025-06-04 05:21:00 | NPP-375D | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 796cfdda-d8a6-393c-8a23-e51b8ac9cdd9 | -9.59763 | -63.25615 | 2025-06-04 05:21:00 | NPP-375D | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| bf4d5f09-7a9c-3419-8784-c763061c8377 | -12.3717 | -54.16549 | 2025-06-04 05:21:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 535a4308-95fd-3c15-837b-80935c0fbc63 | -13.58799 | -54.27396 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9f489f2d-0b44-35ae-b8d1-99941dc70b87 | -11.83822 | -51.28519 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 9f4f60c7-666f-32ff-94b5-2da74d04ac31 | -14.32934 | -54.1333 | 2025-06-04 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2b049850-e850-31c9-ade8-74e6c3a623f1 | -10.38628 | -53.50961 | 2025-06-04 05:21:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ab803bb1-91e7-3420-9a95-05619a194cd6 | -12.45952 | -54.91274 | 2025-06-04 05:21:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d8d721d8-0029-3a6a-a2ec-4a5ea7d5bf17 | -11.84262 | -51.28867 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 9c6b68f9-9978-3737-8fd4-0011a4aab91e | -11.90116 | -47.45356 | 2025-06-04 05:21:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 9164266a-b7c5-3806-9b24-51a46f3ee318 | -13.14601 | -56.80545 | 2025-06-04 05:21:00 | NPP-375D | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ede39e88-90b7-30ad-8d43-206287a4056d | -10.69283 | -57.6489 | 2025-06-04 05:21:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| dd7454bd-3012-3926-b541-0c4851a85cac | -11.89971 | -54.79518 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 02d82523-e896-373e-a388-3b5b29f06ae4 | -9.61974 | -62.81242 | 2025-06-04 05:21:00 | NPP-375D | RIO CRESPO | RONDÔNIA | Brasil | 1100262 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| c07c5677-5768-33ff-bb0b-b253cc898c62 | -11.90858 | -47.44854 | 2025-06-04 05:21:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 7cd3fd7b-bbed-3198-ab19-b19d9b2f4b27 | -11.90398 | -58.67477 | 2025-06-04 05:21:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 144ad769-48af-32cd-a837-2de0fcf99c5f | -11.14288 | -53.94288 | 2025-06-04 05:21:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 6a339776-c275-3181-b38c-25e1e9509e7e | -12.27916 | -64.27769 | 2025-06-04 05:21:00 | NPP-375D | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 384ce28f-6c16-328a-b818-5d6757c66819 | -13.14227 | -56.80491 | 2025-06-04 05:21:00 | NPP-375D | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 9646eebf-9207-3093-ae7d-030407944f6d | -10.49955 | -53.6539 | 2025-06-04 05:21:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| e5ddaa43-48f0-36af-9747-13a8e3b497b8 | -11.94514 | -62.84248 | 2025-06-04 05:21:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e6954436-1bec-3d9b-b7fb-f3c4217aa094 | -11.91975 | -54.81203 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c416502b-30be-36ef-913a-e231c870384b | -11.91727 | -54.82082 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c5474243-bb3c-3e9f-9c82-a346498d04bb | -10.76017 | -54.78492 | 2025-06-04 05:21:00 | NPP-375D | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 7303e860-6b66-3289-b141-b18d4f7bfd20 | -12.50942 | -57.18531 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bc8c3644-5b97-3fcb-a634-b63b06ff34e0 | -11.71169 | -56.45618 | 2025-06-04 05:21:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f858b8a5-12c3-3893-9678-024662b85c53 | -11.83775 | -51.28469 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c45d8ef1-38d4-3628-9f9e-8dbaca6f1781 | -15.26846 | -51.47985 | 2025-06-04 05:21:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 46f931bf-92be-3bdf-bdc0-b98b5d25150c | -9.62335 | -62.81301 | 2025-06-04 05:21:00 | NPP-375D | RIO CRESPO | RONDÔNIA | Brasil | 1100262 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 6434b350-7ddc-354d-a865-689f07287744 | -11.80137 | -57.35194 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| a725b083-376b-3d85-a28d-97fdbb116579 | -9.96465 | -64.96824 | 2025-06-04 05:21:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 4ae2e7c3-8907-31d4-97ab-51e41b6be27a | -15.26887 | -51.4763 | 2025-06-04 05:21:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| f4dcc063-5624-37f5-8874-b556e654f339 | -15.0891 | -56.33955 | 2025-06-04 05:21:00 | NPP-375D | ACORIZAL | MATO GROSSO | Brasil | 5100102 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c7a2a48d-4864-32a3-9961-a6554744bc81 | -12.31674 | -47.25628 | 2025-06-04 05:21:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 08e2ee11-56b5-32c1-bdfb-95ecba61fba3 | -11.83656 | -51.29445 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 8e78ba0b-a98b-353c-98de-f2db54d73ba4 | -11.83696 | -51.29493 | 2025-06-04 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 4af075ea-2390-36f4-bc01-f14331d00a16 | -11.91312 | -54.82023 | 2025-06-04 05:21:00 | NPP-375D | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 3f108ee1-9dbd-31c0-b19d-607281e09fe1 | -12.51432 | -57.17726 | 2025-06-04 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0fb68018-0d01-39b3-9f2c-a86e542159d2 | -10.12486 | -58.20454 | 2025-06-04 05:21:00 | NPP-375D | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 02164d08-99e1-38f2-b16d-a8674032ebeb | -11.64213 | -58.01331 | 2025-06-04 05:21:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a46ede7c-56e9-3865-82d6-10795db44045 | -14.55998 | -59.49644 | 2025-06-04 05:21:00 | NPP-375D | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 252b1a37-1010-3615-8ce0-145edaf05d6a | -9.96059 | -64.96751 | 2025-06-04 05:21:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| c64de9c4-d4ba-3b09-be4a-531043d28a98 | -12.27799 | -50.09858 | 2025-06-04 05:21:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 68a71b51-4dda-3dd6-a2c7-91daf5029699 | -15.26806 | -51.48335 | 2025-06-04 05:21:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README16.md)
