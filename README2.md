@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6d340629-bc91-30bb-8bf1-e777237672ad | -12.9628 | -46.7626 | 2025-06-06 03:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 34.9 |
-| e25405ba-b244-3017-abd3-fad2ee463f96 | -12.9628 | -46.7626 | 2025-06-06 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 45.3 |
-| 0ffd316a-2d5d-3b1f-92c7-8c2694c5fe57 | -12.9623 | -46.7853 | 2025-06-06 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 42.4 |
-| 339c5ffc-0943-321d-adaf-cf419d67b28b | -7.0169 | -44.5954 | 2025-06-06 03:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 46.0 |
-| dde5c8cf-6678-3fdb-9b79-f5c913f9b73f | -7.01009 | -44.60511 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| 85ab6c03-6892-324b-9276-150ad285a73b | -7.02097 | -44.60125 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 4b6d57dd-bc26-31ea-b05e-d2ce3ef1cd20 | -8.07418 | -34.97769 | 2025-06-06 03:21:00 | NOAA-20 | RECIFE | PERNAMBUCO | Brasil | 2611606 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 2e975fd4-4c46-38b9-afc3-e8c3250f01f4 | -7.20899 | -43.13405 | 2025-06-06 03:21:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| fa2124cc-2b1e-3385-a6a3-778df50b91c9 | -7.72162 | -44.18296 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| f003def1-df6b-3f0c-b13b-b097a01979c3 | -4.00087 | -43.24586 | 2025-06-06 03:21:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5f39e87c-eac1-360b-8ce0-e507e54dfd25 | -7.72753 | -44.18587 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 7443c762-2c76-30cb-b733-5609c70e69d8 | -7.20242 | -43.13286 | 2025-06-06 03:21:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.4 |
-| 9e12cd98-380e-3e40-9e70-34ae83dd5579 | -7.72287 | -44.17639 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 9044de97-085d-3d8a-8e4a-b7be0b6fff15 | -7.72881 | -44.17929 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 48ce27bd-541f-379e-90ac-567410a90077 | -7.00867 | -44.61266 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| a75cfb2e-841c-38a1-aad4-43b2aa9cbf66 | -7.01107 | -44.614 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 21.3 |
-| 777b9cef-cda8-363f-9ffb-cb71ba47921d | -7.00511 | -44.60646 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| b68e359d-93ec-33c8-b520-7a1ea2ee44c3 | -7.20384 | -43.13549 | 2025-06-06 03:21:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 43483189-0c5c-3fe6-8e3b-a73f5f0b8669 | -7.71626 | -44.17017 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| bae728c6-5311-33aa-addd-3bbc9aff42c1 | -10.65053 | -44.49563 | 2025-06-06 03:21:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d1e056bd-0961-32a0-b9eb-b9284195da86 | -7.72853 | -44.18433 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| eebaba25-8159-3f3e-a234-d0aaff772c98 | -7.19728 | -43.13424 | 2025-06-06 03:21:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| fdecbb15-022a-32d1-b051-691023d3f180 | -6.95394 | -42.06958 | 2025-06-06 03:21:00 | NOAA-20 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 1925bdbf-9a2d-3c74-9d99-ede972e00df2 | -7.71497 | -44.17672 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| e608f60c-3501-36ac-9feb-7ab04b751340 | -7.43369 | -37.21041 | 2025-06-06 03:21:00 | NOAA-20 | SÃO JOSÉ DO EGITO | PERNAMBUCO | Brasil | 2613602 | 26 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 3010edd3-f18d-316b-b8b9-79b9443c5d3e | -7.7219 | -44.17798 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 54086f39-73d4-30b7-bef3-fd5a49d23b7e | -7.71594 | -44.1751 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 54ae2892-350f-3979-8df9-33a6f54de318 | -3.99392 | -43.24464 | 2025-06-06 03:21:00 | NOAA-20 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| ad97520d-3817-36f4-bc09-af0b912b0c80 | -7.0125 | -44.60664 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| 8c07cfd3-0058-3316-98a3-82e0b50646fe | -10.64799 | -44.49578 | 2025-06-06 03:21:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 0314abb4-4bed-3f33-a2e7-3d7d3d7e95a0 | -7.01861 | -44.59919 | 2025-06-06 03:21:00 | NOAA-20 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| fc607139-1aea-3553-a0e2-ba156d6e5323 | -7.20132 | -43.13866 | 2025-06-06 03:21:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 000b2e63-2ff9-3433-899c-d3f47229e788 | -7.72978 | -44.17775 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 7ef2120f-131c-3a77-b844-5e057a92ad40 | -7.19474 | -43.13747 | 2025-06-06 03:21:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| cab249f7-a908-3876-9933-b9c77f44d5cc | -7.71754 | -44.16363 | 2025-06-06 03:21:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 5ce9978e-1c0d-3ded-bc89-0e134bc0ec86 | -14.73527 | -45.10041 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6ff28ab7-ab43-3b6f-98c7-79bd5bb519ba | -14.90283 | -45.99615 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| fd27e9ff-829c-3448-95e9-e767714ceacc | -14.73014 | -45.09287 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 5f315d29-b161-3274-939f-3fdf7b5f9766 | -14.23104 | -45.4935 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 479c8615-13a4-34d4-b11a-551b9f85a51a | -14.73162 | -45.08961 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e324c586-0368-3fec-b1cf-2c413b920af0 | -17.25116 | -43.64138 | 2025-06-06 03:23:00 | NOAA-20 | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 279c69fb-cb38-3f43-a617-aefb1d36f471 | -14.12533 | -44.83532 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| cc8a9594-0e31-3ed6-af68-6c78e24af00d | -14.223 | -45.49817 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1491dcd2-93ea-3b34-9dd8-d05ba5ac8da9 | -12.15762 | -43.20843 | 2025-06-06 03:23:00 | NOAA-20 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 12964b74-96a9-3ead-83c3-1ddbf69e8c0a | -12.15857 | -43.20372 | 2025-06-06 03:23:00 | NOAA-20 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 854fed4a-f118-34c0-8640-eb8537c5ea0b | -14.73137 | -45.08732 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d4f35f5e-f855-368e-80f2-fe76d73a0a52 | -14.11888 | -44.83391 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1f0ffd9a-6c90-3614-ab7f-5cc081100187 | -14.74199 | -45.10466 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 18df0d0c-8d81-3b76-8d8d-edf1701e8354 | -14.73682 | -45.09704 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 3a44cf11-a9eb-34f3-9569-fd0158d865a1 | -14.22865 | -45.49273 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 3f07a609-8eb2-33fa-8b45-1a18c2dbef66 | -13.64081 | -44.44891 | 2025-06-06 03:23:00 | NOAA-20 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 458b5e7d-7cbd-3cb5-a54b-fbdc8aa8b158 | -14.22198 | -45.49121 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 72d2111c-4b3f-3aa3-9784-8b393c8c7d64 | -14.23239 | -45.48735 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 6b1b8a8e-054a-3bfa-a830-113f4e93172c | -14.73654 | -45.09466 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8e66c737-0bd2-3a75-8038-5b885e4ce858 | -14.22436 | -45.49199 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 83642532-faeb-3c00-bff4-0eea38b57813 | -14.22066 | -45.49738 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 30cbda94-f233-3802-9225-94a137263876 | -14.74167 | -45.10221 | 2025-06-06 03:23:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 17ebd4d7-1ee0-35a5-b7a3-1199c6b3e4e4 | -14.22997 | -45.48657 | 2025-06-06 03:23:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 258fe9de-128a-36c2-b352-af114782319a | -19.83901 | -40.08221 | 2025-06-06 03:25:00 | NOAA-20 | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 77a4c9e3-72e8-3be6-b822-3cb75e319808 | -17.75297 | -42.89519 | 2025-06-06 03:25:00 | NOAA-20 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| d1dd1195-aa22-3ee3-ba82-6201b6d4c9e3 | -19.24274 | -45.02115 | 2025-06-06 03:25:00 | NOAA-20 | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4776ad5d-68ff-306d-8927-22e825eaf2fd | -19.2438 | -45.01644 | 2025-06-06 03:25:00 | NOAA-20 | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 342e1505-004d-3319-9656-897306b454cf | -20.09261 | -41.34164 | 2025-06-06 03:25:00 | NOAA-20 | BREJETUBA | ESPÍRITO SANTO | Brasil | 3201159 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 1cf0aadc-5d65-3311-abea-c30df738bc2e | -11.9214 | -54.8117 | 2025-06-06 03:30:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 51.4 |
-| 98d49282-2595-3f5f-ae43-929884c53144 | -7.0169 | -44.5954 | 2025-06-06 03:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 47.0 |
-| ef98d939-09c1-3c34-8b27-fc12d725d031 | -7.0169 | -44.5954 | 2025-06-06 03:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 35.4 |
-| 2fbfd7a7-338e-3d58-96c2-3bb4e66b058b | -11.9214 | -54.8117 | 2025-06-06 03:40:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 47.8 |
-| 9ddbc38a-7fbd-3556-a1db-6832cd03eca5 | -7.0169 | -44.5954 | 2025-06-06 03:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 37.6 |
-| 1ac60999-450f-34a9-a017-25ac33b46155 | -11.9214 | -54.8117 | 2025-06-06 03:50:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 57.1 |
-| 32288975-4cf0-3ac0-848b-102c2b2e9942 | -7.0166 | -44.6184 | 2025-06-06 04:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 54.9 |
-| 27367089-5054-3ff9-8ea6-e4509c83fd3c | -7.0169 | -44.5954 | 2025-06-06 04:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 59.7 |
-| 96a48e4f-d2e9-353b-8f4c-c966c1c50a06 | -7.0169 | -44.5954 | 2025-06-06 04:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 58.6 |
-| 59058d90-6d5f-3032-8373-dc17c27a2c32 | -3.13801 | -41.79008 | 2025-06-06 04:12:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| bc2c1137-5596-3654-9294-c0b2a1fa6a41 | -3.41904 | -44.31125 | 2025-06-06 04:12:00 | NOAA-21 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8fffba67-f58d-3179-a795-f5477cd9feed | -3.13033 | -40.98781 | 2025-06-06 04:12:00 | NOAA-21 | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| e967b51d-2002-3958-9350-b026abf0c011 | -2.91851 | -48.23363 | 2025-06-06 04:12:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 466e67e0-d8e6-3d8c-aadf-fc790835d3fc | -2.94806 | -41.76373 | 2025-06-06 04:12:00 | NOAA-21 | PARNAÍBA | PIAUÍ | Brasil | 2207702 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| d783d2a5-5ee3-33a0-9886-c48afe123e4b | -6.20445 | -48.54348 | 2025-06-06 04:14:00 | NOAA-21 | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| cee6cfa8-c7f4-373f-935f-eb7b4c762099 | -7.90415 | -50.36353 | 2025-06-06 04:14:00 | NOAA-21 | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
-| 116b7603-b751-3ffe-8965-f38f585cf0ba | -6.66498 | -51.96059 | 2025-06-06 04:14:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 467f2bb1-e605-3497-b148-a9ace0dd16ca | -6.959 | -42.07039 | 2025-06-06 04:14:00 | NOAA-21 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| 91531565-0dc5-378c-a651-d58783f52e4a | -6.46817 | -48.0263 | 2025-06-06 04:14:00 | NOAA-21 | RIACHINHO | TOCANTINS | Brasil | 1718550 | 17 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d0462661-99d3-3062-8f89-aa2cdaa6abca | -10.57226 | -45.98647 | 2025-06-06 04:14:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1fa24206-00c0-37fb-8860-4721a164347f | -8.96409 | -47.97169 | 2025-06-06 04:14:00 | NOAA-21 | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 017b9e0b-ea9b-38b5-99fd-02a5ad7e7289 | -6.96212 | -42.90545 | 2025-06-06 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 6b6ffecf-0094-3e45-9698-81c88d29baa6 | -6.06562 | -44.23783 | 2025-06-06 04:14:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 255b5aa6-6356-3057-81ee-77f6508c4e95 | -4.42379 | -47.73187 | 2025-06-06 04:14:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cd41a12b-6383-3ad9-becf-2c095e554c79 | -6.64096 | -47.35168 | 2025-06-06 04:14:00 | NOAA-21 | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 05acfda4-6930-3e36-9549-679795014713 | -9.6093 | -49.01985 | 2025-06-06 04:14:00 | NOAA-21 | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 6c18662a-2ae7-3cc9-b7ae-7bf60c5de603 | -8.49592 | -43.91483 | 2025-06-06 04:14:00 | NOAA-21 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 3708e892-269f-3946-ab64-0bae61a7111b | -9.20198 | -49.68612 | 2025-06-06 04:14:00 | NOAA-21 | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 867a3cac-aac5-3bc8-8e87-8e5cdddb2509 | -8.66909 | -44.2628 | 2025-06-06 04:14:00 | NOAA-21 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 82045bb6-1f57-324f-a22d-196b881cd95e | -6.1889 | -48.56036 | 2025-06-06 04:14:00 | NOAA-21 | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f6c8ad87-40a0-3f5c-8509-5d31011719f0 | -9.39657 | -48.42643 | 2025-06-06 04:14:00 | NOAA-21 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| f1320bf3-d4b2-3818-adc5-998afd96bbc6 | -7.5551 | -45.82246 | 2025-06-06 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 102494cc-e531-34c3-bd31-1192a449d1f0 | -7.02331 | -44.59733 | 2025-06-06 04:14:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| f75ce4c5-1be7-39c2-9570-8bfb5e5367bb | -8.46778 | -46.48632 | 2025-06-06 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 52eed3d9-21e4-34c7-b691-6d5c039b8047 | -7.19915 | -43.13401 | 2025-06-06 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| db8df41c-eb9e-3b9f-8110-5fcfd2ce115f | -7.72029 | -44.1709 | 2025-06-06 04:14:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 6faef9b1-4551-3d06-acde-f774a9f5bd6d | -7.72581 | -44.17892 | 2025-06-06 04:14:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 268706b8-df6d-315f-a302-215885a864ee | -7.73334 | -44.17884 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| dbac3382-1e0b-3267-9094-ab0700873d47 | -6.95946 | -42.91925 | 2025-06-07 00:20:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 14.7 |
+| e0d3e5fd-1675-38d4-b36b-75af2cf6d3d1 | -7.02578 | -44.60287 | 2025-06-07 00:20:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 1a3c3877-ed67-354c-af65-2bf8b67a17cf | -7.20713 | -43.11526 | 2025-06-07 00:20:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| f6e5f8bb-51d1-3a76-b7f8-e4fd04c37ccd | -8.17151 | -46.49691 | 2025-06-07 00:20:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| 3f130d7b-2d6c-3c8b-933d-19c249692005 | -7.01804 | -44.61322 | 2025-06-07 00:20:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 16.4 |
+| 775664e4-860e-3f41-b592-8e3d26ef10af | -9.39698 | -48.43567 | 2025-06-07 00:20:00 | TERRA_M-M | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 64.4 |
+| 5ec0e877-5f04-32ae-9b01-bf97fa6e0b45 | -8.37968 | -41.80694 | 2025-06-07 00:20:00 | TERRA_M-M | CAMPO ALEGRE DO FIDALGO | PIAUÍ | Brasil | 2202117 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 331859ab-7baa-30da-b539-911ceb60f959 | -12.53355 | -45.42328 | 2025-06-07 00:20:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 6eccd7b7-661e-3b36-807b-2b7044276983 | -12.95368 | -46.76851 | 2025-06-07 00:20:00 | TERRA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 20.4 |
+| 89c72ed3-f4bf-3b45-af20-dd227a62994d | -6.96705 | -42.90911 | 2025-06-07 00:20:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
+| d9115adb-c562-3ad7-a73e-d3984587130c | -7.7227 | -44.17742 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 41.4 |
+| f85ab1bf-f889-3c33-bdf2-44442970b60d | -12.7765 | -48.71651 | 2025-06-07 00:20:00 | TERRA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 27.7 |
+| d141e404-1b32-3ff9-8413-d845e9bf34a6 | -8.20327 | -48.98603 | 2025-06-07 00:20:00 | TERRA_M-M | COUTO MAGALHÃES | TOCANTINS | Brasil | 1706001 | 17 | 33 | nan | nan | nan | Amazônia | 17.5 |
+| 19b2190a-df37-3ab2-9cf2-9de9c4db4737 | -10.63294 | -49.44011 | 2025-06-07 00:20:00 | TERRA_M-M | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| f8813b07-4342-3b84-8e4e-29def418ed21 | -10.64712 | -44.49178 | 2025-06-07 00:20:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 4fbb6439-0ae0-3b82-b47d-5fc5414e6b29 | -12.28708 | -50.11923 | 2025-06-07 00:20:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 27.6 |
+| c887983e-e959-3bfd-957b-94ac6ed795c8 | -7.85947 | -47.90062 | 2025-06-07 00:20:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 18.8 |
+| 5098ccda-79ed-355c-a23d-0afe8ccfccbf | -7.86164 | -47.90892 | 2025-06-07 00:20:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 15.4 |
+| a1b324e8-7743-3c40-977e-07a1f899424d | -6.59764 | -43.89236 | 2025-06-07 00:20:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 24.8 |
+| b95e3e17-f686-38d1-801d-27ec656059b6 | -9.39918 | -48.45272 | 2025-06-07 00:20:00 | TERRA_M-M | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 25.9 |
+| c3d6c1f9-1a84-3d7c-a7b9-5f72d3bb6460 | -6.21287 | -44.51437 | 2025-06-07 00:20:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 48e0937e-a48c-39bb-99c5-0457b353be93 | -13.79355 | -44.08585 | 2025-06-07 00:20:00 | TERRA_M-M | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 4719b260-82ad-3474-8fab-c764a4e4e733 | -5.45888 | -42.93211 | 2025-06-07 00:20:00 | TERRA_M-M | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| 247a5cd7-9602-3b6c-8f84-e94eafbcb61c | -11.81264 | -44.2615 | 2025-06-07 00:20:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 55.8 |
+| 88100f20-3515-32ba-bfd2-d524d6b1f5b2 | -11.77162 | -47.40307 | 2025-06-07 00:20:00 | TERRA_M-M | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 20.7 |
+| 60ea9763-37bb-33ed-8b2b-a5286c5f80b2 | -8.87638 | -50.18775 | 2025-06-07 00:20:00 | TERRA_M-M | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 15.3 |
+| 15a7dced-d318-3b0c-b4bd-ce00e85a48c7 | -12.28416 | -50.09348 | 2025-06-07 00:20:00 | TERRA_M-M | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 37.7 |
+| 40e69432-9bdb-31d3-b5b9-d24da6b07dab | -7.01552 | -44.59483 | 2025-06-07 00:20:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 16.7 |
+| f7b8c24a-d9e5-3e1d-8461-8e2fba0fc327 | -5.78331 | -43.61332 | 2025-06-07 00:20:00 | TERRA_M-M | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| b9adb6dd-1c13-3df2-bbd2-0c0a81c8e0fc | -5.64433 | -43.7286 | 2025-06-07 00:20:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 06d5b864-d01d-3ed9-9b75-c3652ea82389 | -7.73981 | -44.1596 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| ec7eb4a9-2f79-364a-9dcf-50340b7a8ee7 | -7.73089 | -44.16076 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 45.2 |
+| ab46e605-66c6-399c-8d31-9e1b0416e7ae | -6.45057 | -45.7167 | 2025-06-07 00:20:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| f29be89c-5eb9-3400-a32d-c38c65285e08 | -7.74103 | -44.16859 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 52.7 |
+| 391e66e5-9a7e-3b72-92e2-5826d3cd49f8 | -7.72146 | -44.16837 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 119.2 |
+| 0035b6c8-3aa6-3223-97d6-f5f5e9ce96ce | -5.92652 | -45.52724 | 2025-06-07 00:20:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 84b9fed3-9f1e-37a5-9032-44649bbd66e5 | -7.7138 | -44.17868 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| c07dd692-2b2b-3b26-bd8b-7b9320fbae21 | -7.01678 | -44.60402 | 2025-06-07 00:20:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| e19eadfb-6579-3fd8-ba45-344e1c512e2a | -9.07182 | -47.15155 | 2025-06-07 00:20:00 | TERRA_M-M | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 26.3 |
+| 855d31fc-85ba-328e-b909-625d861157e1 | -12.77893 | -48.73719 | 2025-06-07 00:20:00 | TERRA_M-M | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| dfccfde5-05fd-3da3-b8ba-cf2405787e3d | -9.08253 | -47.15016 | 2025-06-07 00:20:00 | TERRA_M-M | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 21.6 |
+| f252bb24-05c2-3d0b-98af-cc490c119df4 | -8.45628 | -46.4875 | 2025-06-07 00:20:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 28.9 |
+| fe1ce02f-9c83-3281-bec5-94525dd91f06 | -8.37724 | -41.85445 | 2025-06-07 00:20:00 | TERRA_M-M | CAMPO ALEGRE DO FIDALGO | PIAUÍ | Brasil | 2202117 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| 38ffeaf4-0826-3fdf-9dc3-90e302f85efc | -13.07131 | -49.25411 | 2025-06-07 00:20:00 | TERRA_M-M | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| e7635a92-8d23-3e43-a07f-e893f57b8f2b | -7.02451 | -44.59361 | 2025-06-07 00:20:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 34.5 |
+| 368c66f2-dc5e-319a-a0de-28dc628f123d | -6.19552 | -43.32657 | 2025-06-07 00:20:00 | TERRA_M-M | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 7ba8325e-b61f-3428-97f5-6e794af204e0 | -8.89297 | -44.78746 | 2025-06-07 00:20:00 | TERRA_M-M | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 380ba53e-9a7c-3bae-9b36-c482cc5fb05b | -9.07011 | -47.13811 | 2025-06-07 00:20:00 | TERRA_M-M | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| 17612c5b-9544-325b-9e4f-83af73ae3d04 | -5.64311 | -43.7198 | 2025-06-07 00:20:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 32.4 |
+| cbfbd90c-56d7-3c88-b858-673928308946 | -5.23876 | -36.20397 | 2025-06-07 00:20:00 | TERRA_M-M | GALINHOS | RIO GRANDE DO NORTE | Brasil | 2404101 | 24 | 33 | nan | nan | nan | Caatinga | 18.7 |
+| 44caef6b-dec5-3ab0-aaec-2beccfec828a | -7.71255 | -44.16963 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 45.5 |
+| ef5594d6-667f-3efb-94c6-1f2b6a3f6158 | -6.59885 | -43.90121 | 2025-06-07 00:20:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 50d43024-3642-30d9-bf1a-ca2f12ea4bc5 | -7.90329 | -50.36844 | 2025-06-07 00:20:00 | TERRA_M-M | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 20.2 |
+| 74049049-fb26-3d89-8b3c-57f603394b81 | -6.54156 | -45.7081 | 2025-06-07 00:20:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 20.6 |
+| 5785c047-3a8d-3b72-a146-104de68eb2b9 | -7.72021 | -44.15932 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| c46dec7b-5445-3ce2-9eac-b93799cc2f90 | -10.71203 | -48.78191 | 2025-06-07 00:20:00 | TERRA_M-M | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| a16cd227-93b3-3b22-88d1-0ffe553e266c | -10.46584 | -47.94862 | 2025-06-07 00:20:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 19.1 |
+| 0ab6f8f7-f09d-39be-ab3c-177b2affbdc7 | -6.15146 | -45.97279 | 2025-06-07 00:20:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| ed319d44-9f36-3f92-854b-834f93ea7a2d | -8.58835 | -45.87008 | 2025-06-07 00:20:00 | TERRA_M-M | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| c995536f-4f9b-3d9f-97cc-6ff4e5f860c1 | -7.21741 | -43.10746 | 2025-06-07 00:20:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 7e5ac8b8-3f0f-34ec-b141-85ff6cbde269 | -9.12922 | -46.88244 | 2025-06-07 00:20:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 9922455f-8361-3215-957a-f59d3b3e17ec | -7.73211 | -44.16978 | 2025-06-07 00:20:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 60.7 |
+| 2ebbd9e9-bc29-35b6-8524-ee4bfae977d1 | -6.45195 | -45.72677 | 2025-06-07 00:20:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| ef99b49b-5c61-3c9a-bf25-072aaacdfe17 | -7.85978 | -47.89415 | 2025-06-07 00:20:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| a6753dfe-b74d-3b6d-aa7b-131771cd9ec3 | -11.81393 | -44.27136 | 2025-06-07 00:20:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 34.4 |
+| 97348060-0217-3a79-91db-3fc5b238f56a | -6.20555 | -43.33413 | 2025-06-07 00:20:00 | TERRA_M-M | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 61.9 |
+| 514c5c2d-1172-369c-9967-3815b8552659 | -12.2731 | -44.60411 | 2025-06-07 00:20:00 | TERRA_M-M | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| b8d3a8b0-d445-3142-a523-f760567de754 | -12.32642 | -52.48082 | 2025-06-07 00:20:00 | TERRA_M-M | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 55.5 |
+| c626d751-93f1-3e9e-a867-1db1151c49a6 | -9.50818 | -40.36954 | 2025-06-07 00:20:00 | TERRA_M-M | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 8.6 |
+| cdc3a691-652f-31ed-b255-812cf34c20cc | -5.65069 | -43.70976 | 2025-06-07 00:20:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| f98ae315-21a1-304d-8751-9bf3cdf39b46 | -9.08082 | -47.13676 | 2025-06-07 00:20:00 | TERRA_M-M | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 25.4 |
+| 8457205e-89ab-3362-9c67-ca6027730adc | -6.95822 | -42.91037 | 2025-06-07 00:20:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 135.5 |
+| 10a86e98-952c-3185-a5de-01e096418b69 | -7.21865 | -43.11629 | 2025-06-07 00:20:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 24.2 |
+| 003a9f3e-fb07-397f-b60d-704c0fff62a1 | -8.45784 | -46.49939 | 2025-06-07 00:20:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 3e021931-8ab3-316d-aa34-1f2d931940e5 | -3.05187 | -49.44228 | 2025-06-07 00:22:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 13.0 |
+| 98f16d08-cc3e-3e40-95fc-53e9f3c37d2e | -6.96 | -42.9288 | 2025-06-07 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 49.4 |
+| 2b0adc6f-4bab-3fcc-b918-409657750602 | -17.2639 | -42.6527 | 2025-06-07 00:30:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| a4f41c3e-3742-3eb8-8ff5-fee05054de6c | -11.7826 | -47.402 | 2025-06-07 00:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 58.8 |
+| 81a9156f-a16e-30df-9c2d-db4cc0bd86a6 | -5.6379 | -43.7175 | 2025-06-07 00:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 111.6 |
+| d5370ba2-3dc7-3c66-8338-6206ffb062b8 | -11.3716 | -56.558 | 2025-06-07 00:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 49.4 |
+| 72d1e18f-7ae7-3d2d-b404-6f0fa54765ea | -6.9602 | -42.9052 | 2025-06-07 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 158.4 |
+| 66b93bea-110d-3015-aa95-a8dd21ed5153 | -11.2548 | -60.7957 | 2025-06-07 00:30:00 | GOES-19 | ESPIGÃO D'OESTE | RONDÔNIA | Brasil | 1100098 | 11 | 33 | nan | nan | nan | Amazônia | 86.8 |
+| 05e28343-333b-3031-87c9-10984ea0b34f | -7.7361 | -44.1823 | 2025-06-07 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 62.9 |
+| 2319a503-6ce9-315b-b5b7-79075f976835 | -7.7173 | -44.1842 | 2025-06-07 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 76.8 |
+| 3caedfde-6628-3e78-8889-28d0783193b5 | -7.7176 | -44.1611 | 2025-06-07 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 139.6 |
+| 64bf0efc-3125-39cb-aa0d-15a2f77f7130 | -12.5238 | -58.3378 | 2025-06-07 00:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 75d64e52-6dc5-3566-9034-6034f6e7a381 | -5.6567 | -43.7161 | 2025-06-07 00:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 70.7 |
+| b0b7e768-868c-3485-b0ef-18809f8f5f56 | -6.9414 | -42.907 | 2025-06-07 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 96.2 |
+| f814d4b9-38d3-3a9c-b815-4cefcfd5fe23 | -12.5236 | -58.3576 | 2025-06-07 00:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 112.6 |
+| 0f5b078e-69e7-395e-a953-05b4717d1ad7 | -13.4733 | -56.8557 | 2025-06-07 00:30:00 | GOES-19 | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Cerrado | 100.7 |
+| b3fc2252-beee-37fd-8057-335f05103c62 | -7.7364 | -44.1592 | 2025-06-07 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 104.2 |
+| ed40fb83-df35-3d3e-b299-32949b49fde2 | -6.96 | -42.9288 | 2025-06-07 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 47.3 |
+| 5d9ebc5e-5e7a-390a-90c7-dbe2cd863a1f | -12.5425 | -58.3561 | 2025-06-07 00:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 49.2 |
+| 307d832c-81ab-3955-9562-9fa461a77954 | -6.9602 | -42.9052 | 2025-06-07 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 153.0 |
+| 4dd61eb1-a342-350b-8d1f-14f2595fe78f | -12.5236 | -58.3576 | 2025-06-07 00:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| 91a63ee2-4c8b-3a88-8064-33d905e2fbd7 | -7.0169 | -44.5954 | 2025-06-07 00:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| b7c61a60-22a0-3bab-bc17-ac3bb9eb06f7 | -6.9414 | -42.907 | 2025-06-07 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 56.7 |
+| 681e083a-035b-367d-8d7c-c25f86014295 | -17.2639 | -42.6527 | 2025-06-07 00:40:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 120.3 |
+| 430b3776-b0e6-3dcc-858f-74eb24fc3406 | -11.7826 | -47.402 | 2025-06-07 00:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 70.1 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
