@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c4853b94-f493-364b-afa5-c7e6f1e74e82 | -14.73731 | -45.08981 | 2025-06-07 04:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 8d93a1c7-5eda-3b61-bbe6-60af93f3968d | -14.33858 | -47.58931 | 2025-06-07 04:23:00 | NPP-375D | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 067628e5-7015-35dd-b507-846f61c92041 | -18.23864 | -47.94036 | 2025-06-07 04:23:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 680c5dd6-9e42-326c-9927-f2ebdfdb2989 | -16.71493 | -47.91354 | 2025-06-07 04:23:00 | NPP-375D | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 4d9f25a2-d83f-3b38-97e3-779b949fbcab | -12.28245 | -57.27104 | 2025-06-07 04:23:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 07c56194-6563-395a-ae56-9c50da99145e | -12.96486 | -46.76711 | 2025-06-07 04:23:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 13d9337e-37b6-322f-b675-ad7584988dce | -14.23726 | -45.48732 | 2025-06-07 04:23:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| db0d658e-ea8e-3083-91d7-10d691ebc25e | -13.66306 | -47.70475 | 2025-06-07 04:23:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| dff3d859-4db1-3746-b25e-75060e336257 | -12.71134 | -58.02686 | 2025-06-07 04:23:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f3a0c5e0-5d0d-3f47-ab8d-f2cb747de42f | -14.20087 | -45.50008 | 2025-06-07 04:23:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 3156611c-ec96-31c1-a218-279de092c9a9 | -17.26453 | -42.65892 | 2025-06-07 04:23:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 08f511de-8317-391e-b6b0-29e5d042b3cf | -14.2199 | -45.48824 | 2025-06-07 04:23:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 1e3e5942-0e60-3359-bc55-e1cbe80ad60b | -14.73164 | -45.08124 | 2025-06-07 04:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| f2cf426e-8f9a-3fb8-97b8-d0ccbeb51f02 | -17.26062 | -42.65831 | 2025-06-07 04:23:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 3d9b69e7-cfb0-3920-8bd7-06c1db8fb0e1 | -12.28037 | -49.5323 | 2025-06-07 04:23:00 | NPP-375D | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 54eae245-1a57-36f9-ba0b-7909b3d9e399 | -12.88568 | -52.20689 | 2025-06-07 04:23:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ce515929-3885-3198-ba38-8a3b6994de3f | -14.82054 | -40.78009 | 2025-06-07 04:23:00 | NPP-375D | VITÓRIA DA CONQUISTA | BAHIA | Brasil | 2933307 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| d4f3e5b8-bdaf-36fb-8073-5a0dfb370b3c | -18.23922 | -47.93671 | 2025-06-07 04:23:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 7bdb3167-8bd2-3be9-a9ee-2ac482bdddc6 | -14.2143 | -45.47989 | 2025-06-07 04:23:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c86c9408-4d19-3ee0-87a7-6d5c30757227 | -11.54092 | -56.44943 | 2025-06-07 04:23:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| ede9357f-8878-3d2b-a661-2de59995c459 | -14.73447 | -45.08553 | 2025-06-07 04:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6aa7c52a-b12b-3b6f-83b1-10173006edc3 | -16.00156 | -49.71646 | 2025-06-07 04:23:00 | NPP-375D | ITABERAÍ | GOIÁS | Brasil | 5210406 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| a1c8506d-33b0-3e09-9c76-bafd2bc68764 | -12.88142 | -52.20608 | 2025-06-07 04:23:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| afa124fc-2835-3fba-b5f7-389b434e3bee | -15.16882 | -45.64185 | 2025-06-07 04:23:00 | NPP-375D | CHAPADA GAÚCHA | MINAS GERAIS | Brasil | 3116159 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 1777396b-8be6-3373-9cec-0a8e86fffe2a | -12.6999 | -58.24187 | 2025-06-07 04:23:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d991ce67-85de-335c-a586-b56ab1aabd00 | -10.69489 | -57.6459 | 2025-06-07 04:23:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| cecb5929-9b6d-31b6-b34e-072ea2c6e588 | -12.28013 | -50.10177 | 2025-06-07 04:23:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 3e69e324-66bb-3bef-aa78-4eaa19545ef7 | -12.53175 | -58.3465 | 2025-06-07 04:23:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| abbef693-f3a2-39fe-927c-8178ef09a727 | -14.72766 | -45.08448 | 2025-06-07 04:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 6f5a2187-442f-3a8a-b827-68ee4b049063 | -13.06491 | -49.2435 | 2025-06-07 04:23:00 | NPP-375D | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 098130cb-a0f5-3eab-b30c-188d434fe5a8 | -14.03969 | -55.13648 | 2025-06-07 04:23:00 | NPP-375D | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 05ea9f64-32b7-34ce-8cd5-08c263a1945d | -14.74354 | -45.0946 | 2025-06-07 04:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 16ec0e29-cb91-376e-9b8b-9183925904ea | -13.65969 | -47.70414 | 2025-06-07 04:23:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| b107a6db-bd27-3070-a363-9c7bf1f1fb44 | -11.37096 | -56.55441 | 2025-06-07 04:23:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| 0c4f9499-59ab-39e2-977f-7b7fe6b8983d | -11.56698 | -54.56952 | 2025-06-07 04:23:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 72d11aaf-b4ff-3475-bacf-f6c588812e7b | -14.92648 | -46.01233 | 2025-06-07 04:23:00 | NPP-375D | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5cfbb087-20a1-31a9-86a7-6c34f4eb17b4 | -13.06849 | -49.24416 | 2025-06-07 04:23:00 | NPP-375D | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4200086d-fc70-333b-9894-0a896ff88d74 | -12.33137 | -52.48138 | 2025-06-07 04:23:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 20b05621-6109-3ac3-b95d-4956d3375075 | -12.70265 | -58.2412 | 2025-06-07 04:23:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d45d9124-5bc8-3ee3-bad9-8e96128cdbcd | -13.07137 | -49.24895 | 2025-06-07 04:23:00 | NPP-375D | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 97658b51-b604-3d48-ab3e-2b6e157d817a | -21.19646 | -44.93867 | 2025-06-07 04:25:00 | NPP-375D | IJACI | MINAS GERAIS | Brasil | 3130408 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| b3a28360-22dc-3bb9-8a03-130e41eeca1a | -20.92435 | -49.09659 | 2025-06-07 04:25:00 | NPP-375D | TABAPUÃ | SÃO PAULO | Brasil | 3552601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 19ba63f6-0a12-3aad-b045-63ca6c19e5dc | -20.99772 | -51.79242 | 2025-06-07 04:25:00 | NPP-375D | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| f30e04bf-0d3c-3359-989a-b8dd3689fd2a | -20.92499 | -49.05024 | 2025-06-07 04:25:00 | NPP-375D | TABAPUÃ | SÃO PAULO | Brasil | 3552601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| c3f13b8e-715b-390b-a6e5-a747fd9acb56 | -18.40682 | -54.57507 | 2025-06-07 04:25:00 | NPP-375D | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 83585789-05d0-3cf1-ba9f-4b733da617cb | -19.07944 | -53.46513 | 2025-06-07 04:25:00 | NPP-375D | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| e07cf351-b811-390a-a5e5-9585a732367f | -19.05038 | -53.45922 | 2025-06-07 04:25:00 | NPP-375D | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 972d2f39-8674-33cc-9730-fe7c32314da6 | -19.93257 | -47.26519 | 2025-06-07 04:25:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ccf47670-99ef-3015-9089-0d5623469fd1 | -20.76542 | -46.77066 | 2025-06-07 04:25:00 | NPP-375D | ITAÚ DE MINAS | MINAS GERAIS | Brasil | 3133758 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| f4c3fdc7-d613-36ec-90cf-592fbf6af66c | -21.47943 | -56.61367 | 2025-06-07 04:25:00 | NPP-375D | JARDIM | MATO GROSSO DO SUL | Brasil | 5005004 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 5525aa98-572b-34ac-9810-d200cf8fc87c | -21.61384 | -54.3316 | 2025-06-07 04:25:00 | NPP-375D | NOVA ALVORADA DO SUL | MATO GROSSO DO SUL | Brasil | 5006002 | 50 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 7f48686c-19e0-37a9-baf5-d39aae398dd1 | -23.33832 | -46.77173 | 2025-06-07 04:25:00 | NPP-375D | CAIEIRAS | SÃO PAULO | Brasil | 3509007 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 647a5e19-9144-3a81-984b-8af580082d86 | -20.76541 | -46.76782 | 2025-06-07 04:25:00 | NPP-375D | ITAÚ DE MINAS | MINAS GERAIS | Brasil | 3133758 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 4232c482-776d-35c2-bf90-2dc063fd2fd1 | -20.9256 | -49.04649 | 2025-06-07 04:25:00 | NPP-375D | TABAPUÃ | SÃO PAULO | Brasil | 3552601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 89de6ed1-7d7b-3270-891b-c36c453cc248 | -20.921 | -49.09596 | 2025-06-07 04:25:00 | NPP-375D | TABAPUÃ | SÃO PAULO | Brasil | 3552601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| b86cc563-cc3a-37d4-a3e6-5cd7fb3807e9 | -19.07528 | -53.46433 | 2025-06-07 04:25:00 | NPP-375D | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c180c154-8ee4-3511-adef-4cc5be7cf079 | -19.61486 | -46.25902 | 2025-06-07 04:25:00 | NPP-375D | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 5e39ccd3-1adf-3ed0-b251-955105d2f9f5 | -20.93989 | -56.59592 | 2025-06-07 04:25:00 | NPP-375D | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 30ebb978-84da-3e1b-a8d8-1c72bb291986 | -23.40597 | -46.55793 | 2025-06-07 04:25:00 | NPP-375D | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| b9b8ea28-18d9-3cf4-8caa-2106a0667519 | -20.73129 | -56.65542 | 2025-06-07 04:25:00 | NPP-375D | BODOQUENA | MATO GROSSO DO SUL | Brasil | 5002159 | 50 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 27d60cbe-bf3c-3653-a8c1-ce04581939df | -20.92496 | -49.09282 | 2025-06-07 04:25:00 | NPP-375D | TABAPUÃ | SÃO PAULO | Brasil | 3552601 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 972a07f6-b3d4-3479-a970-7f52046f54fc | -23.3889 | -46.4722 | 2025-06-07 04:25:00 | NPP-375D | GUARULHOS | SÃO PAULO | Brasil | 3518800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| a22cbacc-e8ad-3f58-9721-7bff5380fbe6 | -19.07869 | -53.46915 | 2025-06-07 04:25:00 | NPP-375D | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 1540e5c3-2167-3a00-908c-546f42712c89 | -21.35574 | -44.75224 | 2025-06-07 04:25:00 | NPP-375D | ITUTINGA | MINAS GERAIS | Brasil | 3134509 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 7b829aa3-29f1-3791-8b09-c7cafc1bb63d | -27.45581 | -48.45365 | 2025-06-07 04:27:00 | NPP-375D | FLORIANÓPOLIS | SANTA CATARINA | Brasil | 4205407 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 7d847c74-747a-31d3-a544-0440c4d3a54e | -7.7173 | -44.1842 | 2025-06-07 04:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 59.1 |
-| 9d42bef2-97df-3896-92cb-c47957b30ba8 | -6.9602 | -42.9052 | 2025-06-07 04:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 125.8 |
-| 3b24d192-5944-38ea-b930-68e7f4fe0ece | -5.6379 | -43.7175 | 2025-06-07 04:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| b39a2c95-80f2-330f-912b-2405a3ef2a0f | -7.7364 | -44.1592 | 2025-06-07 04:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 91.7 |
-| 36735ad8-12cf-3037-a24a-e4fae34e461b | -7.7361 | -44.1823 | 2025-06-07 04:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 72.7 |
-| 2241231a-77e8-35fb-8669-460020b490da | -7.7176 | -44.1611 | 2025-06-07 04:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 83.3 |
-| 9707616f-50d0-3941-811c-1a49fadb3216 | -7.7364 | -44.1592 | 2025-06-07 04:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 103.9 |
-| f1835839-c244-30e4-b8c4-b59b4f09793d | -6.9602 | -42.9052 | 2025-06-07 04:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 126.3 |
-| 965cfdf5-49b1-3ac4-92ea-ea6820cc38b5 | -7.7176 | -44.1611 | 2025-06-07 04:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 69.2 |
-| 9e47d6f9-66d4-3958-ba41-7d0098fe8389 | -7.7361 | -44.1823 | 2025-06-07 04:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| df3ce6fe-eef1-386d-985e-c8ffd3066963 | -4.66952 | -41.96179 | 2025-06-07 04:42:00 | NOAA-20 | COCAL DE TELHA | PIAUÍ | Brasil | 2202711 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| b938e79f-7884-3492-acf0-c1aca0534580 | -4.66818 | -41.96083 | 2025-06-07 04:42:00 | NOAA-20 | COCAL DE TELHA | PIAUÍ | Brasil | 2202711 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 4ab09043-97d8-3beb-bcf2-16294eb6493d | -1.0724 | -50.72898 | 2025-06-07 04:42:00 | NOAA-20 | BREVES | PARÁ | Brasil | 1501808 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 202cb117-7010-3153-a4f2-c3fd1cd468b8 | -2.44404 | -47.47426 | 2025-06-07 04:42:00 | NOAA-20 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 67edf526-3137-354f-88a3-ee80b07fb33e | -0.948 | -51.38217 | 2025-06-07 04:42:00 | NOAA-20 | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 69ffe922-6472-3f6c-a920-a2db192d2d47 | -4.66436 | -41.96096 | 2025-06-07 04:42:00 | NOAA-20 | COCAL DE TELHA | PIAUÍ | Brasil | 2202711 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| c079041a-e6a3-3dd1-86db-7c57f9939060 | -2.44344 | -47.47817 | 2025-06-07 04:42:00 | NOAA-20 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 139fd743-0f19-3aee-86da-d4b53816dd86 | -4.66997 | -41.95867 | 2025-06-07 04:42:00 | NOAA-20 | COCAL DE TELHA | PIAUÍ | Brasil | 2202711 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| fe6f48c9-3980-349b-9e09-0f2ce94facb9 | -2.91841 | -48.23542 | 2025-06-07 04:42:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 53ebd78a-39e2-38b6-a400-10b41d8b2fc6 | -9.0708 | -47.14104 | 2025-06-07 04:44:00 | NOAA-20 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 92291d47-dc22-3221-a713-393fbc8ba375 | -6.96293 | -42.90016 | 2025-06-07 04:44:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 9a0df2d1-12c7-34ab-88ff-0a180ac9c292 | -9.50142 | -40.37394 | 2025-06-07 04:44:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 17.9 |
-| 81f25b0d-96f3-3b18-8928-52863b7495ac | -5.64999 | -43.70742 | 2025-06-07 04:44:00 | NOAA-20 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| ec4286c0-97f6-3e35-823a-05f29797ce3d | -6.23613 | -48.54469 | 2025-06-07 04:44:00 | NOAA-20 | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 4f2fc4cf-74c8-3b6b-8f15-6ab934bd71a4 | -8.72447 | -47.98693 | 2025-06-07 04:44:00 | NOAA-20 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 291ab0c9-d8fe-30af-858b-9597dedf4ba7 | -6.95211 | -42.90433 | 2025-06-07 04:44:00 | NOAA-20 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 14.8 |
-| b2636ff9-8f47-3cae-b247-82c117f58d87 | -9.07858 | -47.14216 | 2025-06-07 04:44:00 | NOAA-20 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| d6b3344f-f3a2-3d53-ae4c-7f746ba4eb97 | -6.29405 | -48.50058 | 2025-06-07 04:44:00 | NOAA-20 | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| c9c5b438-4c3a-3aaf-b597-1143db272880 | -11.81994 | -44.26634 | 2025-06-07 04:44:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 43fadbee-70dd-3921-aff1-826cddc5669d | -7.73509 | -44.17102 | 2025-06-07 04:44:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 14.0 |
-| 9927a620-1df4-36f3-b41e-d50cf9a66b2f | -8.4561 | -46.49434 | 2025-06-07 04:44:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a874ece9-9456-3746-81e9-e8eaacfa400e | -10.64455 | -44.48854 | 2025-06-07 04:44:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a03c10a9-6756-3440-a0a7-c4d1b781c00a | -10.23374 | -52.237 | 2025-06-07 04:44:00 | NOAA-20 | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b25e1a41-70cd-3c1f-b4ed-8241bb9e004e | -3.88193 | -54.21316 | 2025-06-07 04:44:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d3264032-ce06-3baa-8d20-74a4045a3021 | -9.50201 | -40.36925 | 2025-06-07 04:44:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 17.9 |
+| fd1e10c0-9729-317f-8975-07ca399e3bf2 | -11.99767 | -57.20969 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 0d5d9365-93ba-3319-9590-da98adf62ff8 | -10.86841 | -54.32354 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 4cf605d6-48f9-3524-9d67-255ff38cd377 | -10.99445 | -50.75675 | 2025-06-12 04:51:00 | NOAA-20 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a938f18e-089d-39df-923a-48cbc6e0b9bb | -13.28918 | -57.07456 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 47bdb1bd-c622-3f9d-ad60-125dc176766c | -10.86898 | -54.32001 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 35685385-9c49-3860-906e-e7fc8604b22d | -9.25322 | -57.53357 | 2025-06-12 04:51:00 | NOAA-20 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| 5f566e62-df00-3f6b-b429-99ab226ad355 | -11.76898 | -54.36618 | 2025-06-12 04:51:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2530b8ca-f7f0-3d96-81eb-365aef19d086 | -11.13941 | -53.92443 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 7cd6f86f-8804-347b-87da-793b10972c6c | -11.83972 | -43.79995 | 2025-06-12 04:51:00 | NOAA-20 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 29d3c417-63c4-322a-9d84-2c2b921189f8 | -10.35509 | -51.99025 | 2025-06-12 04:51:00 | NOAA-20 | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| f8e2515f-fad4-3a34-8f1d-cbff5b26ae2b | -10.7024 | -49.51242 | 2025-06-12 04:51:00 | NOAA-20 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| f88ab070-47e0-3198-adf0-edbd21fb8f3d | -10.8815 | -54.75299 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| f432fe93-cd86-31d9-b73e-6d0a47824170 | -11.5769 | -47.44112 | 2025-06-12 04:51:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 62ad8b11-1148-397f-9967-f1ff7899b883 | -10.62851 | -49.4366 | 2025-06-12 04:51:00 | NOAA-20 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 2f17745f-16de-3505-9073-6f7ad794c299 | -13.29418 | -57.08823 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| a64a7ec3-a607-3683-9d68-0932b65acbab | -11.78797 | -54.77685 | 2025-06-12 04:51:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ce9bb9af-f48c-3b58-ae43-37c1af8687ae | -11.85591 | -62.7654 | 2025-06-12 04:51:00 | NOAA-20 | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| b63f04f9-da96-30d3-9f59-c0759bc519da | -13.89642 | -48.73472 | 2025-06-12 04:51:00 | NOAA-20 | CAMPINAÇU | GOIÁS | Brasil | 5204656 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 210669d7-4026-3eeb-857d-8e42f531ce5a | -9.87634 | -61.40078 | 2025-06-12 04:51:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0adc4c02-e51d-37c8-b537-413e50636dfe | -14.02965 | -55.12296 | 2025-06-12 04:51:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| d9ca6041-bbb8-34e6-9217-6692a32c08b7 | -10.88266 | -54.7458 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| bdba32fe-1a53-3700-a8b3-e9a1619e0b25 | -12.43201 | -54.87225 | 2025-06-12 04:51:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 5428bf0e-39ca-32c4-b1d9-f63a9b19f8d7 | -13.8907 | -54.65402 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 81dabbeb-1530-3f3d-a3fd-39f150c4e67f | -11.7706 | -54.3773 | 2025-06-12 04:51:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d7536544-37b5-3bac-9a57-e72db6568621 | -11.99476 | -57.20477 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| fe037bbd-8a4c-34dc-83da-f5c4d55b6507 | -9.46037 | -55.94039 | 2025-06-12 04:51:00 | NOAA-20 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 403bf64b-c110-34af-a82f-73574675ddda | -16.26645 | -48.80315 | 2025-06-12 04:51:00 | NOAA-20 | ABADIÂNIA | GOIÁS | Brasil | 5200100 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 7bc36f15-23f3-34ad-abf3-c00776208ae3 | -11.77004 | -54.38083 | 2025-06-12 04:51:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 9e3a6bf1-3fa6-34b5-b972-a3a2fbde7f75 | -12.38348 | -45.77341 | 2025-06-12 04:51:00 | NOAA-20 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 88fda65b-272f-3054-9d63-f48d816d8d29 | -13.9048 | -48.73538 | 2025-06-12 04:51:00 | NOAA-20 | CAMPINAÇU | GOIÁS | Brasil | 5204656 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 618d084d-097c-33c1-925a-21ddd72bae89 | -12.5229 | -57.2328 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| db5e9826-e6ea-3722-9876-828c46beaeca | -13.88908 | -54.64283 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 218d6b5d-a83b-3346-b18a-f89b50561abe | -12.1741 | -54.23365 | 2025-06-12 04:51:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9fcfd98a-c14d-34a2-96b4-7626b95cff68 | -10.69794 | -49.51651 | 2025-06-12 04:51:00 | NOAA-20 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 9537d920-1980-3cdf-aef9-c4587c73b196 | -13.28702 | -57.06572 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1be16c62-8f2b-3944-aea0-3cf756afd6df | -12.70929 | -58.03222 | 2025-06-12 04:51:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| b257a5fd-c672-3543-af3e-9a4a7fed4219 | -12.1068 | -48.8762 | 2025-06-12 04:51:00 | NOAA-20 | SUCUPIRA | TOCANTINS | Brasil | 1720853 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c2aad8c2-efc6-3af8-a347-00e9832312ef | -10.5163 | -53.63329 | 2025-06-12 04:51:00 | NOAA-20 | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| fefe04b9-18d2-3223-8ec1-e29cff5e78fa | -11.86704 | -52.25076 | 2025-06-12 04:51:00 | NOAA-20 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 525428c7-7ff6-3895-8236-cd204cbf1c4d | -14.0363 | -55.12408 | 2025-06-12 04:51:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 6736476b-fec4-3bc7-b139-736c55ec0b40 | -10.87173 | -54.32409 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 1dac6f2c-1525-3db0-80ac-07c0d0d26581 | -10.88208 | -54.7494 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 0c4023e1-6b5d-3225-98a6-efa60d5c0ab9 | -10.29907 | -57.13639 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1321ca4a-f566-3d32-b919-ee8f1f893f42 | -10.70483 | -49.5223 | 2025-06-12 04:51:00 | NOAA-20 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 7bce3956-a6bb-3f4c-ae7b-16cb1b342f38 | -14.03297 | -55.12352 | 2025-06-12 04:51:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 673fa850-aced-37f1-96f7-7e077363402f | -14.04122 | -55.13595 | 2025-06-12 04:51:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8690d328-4638-3ddf-a35b-4fc6f021ec34 | -12.70632 | -58.02696 | 2025-06-12 04:51:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| b78ba73a-1fec-3eee-950f-2a1498a932fe | -11.90981 | -54.82257 | 2025-06-12 04:51:00 | NOAA-20 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| c01d57d9-af35-3c11-aa4e-bf15c398efb0 | -11.56752 | -51.3049 | 2025-06-12 04:51:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 2d2ba0db-fce5-344e-ad7e-8b76918e745d | -13.65033 | -53.93901 | 2025-06-12 04:51:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 5ceef44f-b952-3d03-bfac-d68fd7948261 | -10.65424 | -49.36107 | 2025-06-12 04:51:00 | NOAA-20 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a82f6fe1-ec8d-3f30-a593-47d37caaf11c | -11.7036 | -54.50064 | 2025-06-12 04:51:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 5a1c896f-a810-341c-9797-e113bb1943c6 | -14.84246 | -52.28411 | 2025-06-12 04:51:00 | NOAA-20 | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| d498fcde-2f0d-3ec3-92ca-55c8c549d112 | -11.91315 | -54.82313 | 2025-06-12 04:51:00 | NOAA-20 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 9f5784e2-77b9-3119-9120-8b815edfdbfe | -10.2956 | -57.14267 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 5e9bb474-a098-35ea-aae9-8dfb63780d9d | -13.89014 | -54.65757 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 15ef6ebb-df23-3d4c-884b-d8d5bac012c7 | -11.37465 | -56.5516 | 2025-06-12 04:51:00 | NOAA-20 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| db19acfe-dc71-32b3-a0e0-974470817ceb | -14.84302 | -48.31266 | 2025-06-12 04:51:00 | NOAA-20 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| dcc2f017-17f4-3a71-8685-483abe8d2836 | -13.97135 | -54.4238 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 03933df9-9af9-31d8-92ad-ede17405ee6b | -9.39279 | -57.52736 | 2025-06-12 04:51:00 | NOAA-20 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c495c21b-210c-3c76-94d8-daff4a126b5d | -14.04455 | -55.13652 | 2025-06-12 04:51:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| b2dc498e-87a1-30ea-a602-f6aaba2b3fa1 | -15.37719 | -47.87647 | 2025-06-12 04:51:00 | NOAA-20 | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 58c9ce28-41fc-395b-997d-d2a7f2bfaad8 | -11.33894 | -45.2173 | 2025-06-12 04:51:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 17537901-6fec-3a7c-a797-fa3efe00f388 | -9.83641 | -62.88449 | 2025-06-12 04:51:00 | NOAA-20 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| d9cdc359-cfbd-3dff-afe9-54aaa4ee39c5 | -11.38527 | -56.55343 | 2025-06-12 04:51:00 | NOAA-20 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 93faa955-9ab7-3cc7-aed8-6abdb09a6a7b | -10.80552 | -55.87131 | 2025-06-12 04:51:00 | NOAA-20 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 625e1de6-f85f-34f6-8e90-b4aee1f94f9c | -13.89514 | -54.64748 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| ab49f7fc-8752-3787-8f74-f411d9df68c4 | -11.9191 | -57.47396 | 2025-06-12 04:51:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 9ef17742-ef06-308d-9c02-ca5d0843861f | -11.91648 | -54.82368 | 2025-06-12 04:51:00 | NOAA-20 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 7322abb8-48bf-3231-8168-60100946c48d | -10.65762 | -49.41954 | 2025-06-12 04:51:00 | NOAA-20 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e66a154d-cf63-3030-9554-c155fcaa29ab | -10.95039 | -55.32837 | 2025-06-12 04:51:00 | NOAA-20 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 87227c68-64d9-3a0f-a081-81a263bc9db2 | -11.60916 | -46.98785 | 2025-06-12 04:51:00 | NOAA-20 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 815c1cae-c60d-3883-a68e-008e0c1aa5dc | -9.17731 | -61.86388 | 2025-06-12 04:51:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| b0074e58-d0c3-35ab-8897-5d92131bb8b8 | -10.69552 | -49.5066 | 2025-06-12 04:51:00 | NOAA-20 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 13143fd2-3d10-3317-a6f1-1f8bb4857d60 | -10.33857 | -57.49256 | 2025-06-12 04:51:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 9bf14101-6f7d-36f6-b69d-11ed3ed8265d | -11.38458 | -56.55749 | 2025-06-12 04:51:00 | NOAA-20 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 63db4c02-829e-3aa3-a0d0-54de9806880c | -11.13777 | -53.91338 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 04fbe591-52ac-3f37-ab89-ac6d04b7a1d5 | -11.13609 | -53.94547 | 2025-06-12 04:51:00 | NOAA-20 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 305fede8-b24e-37b5-ab3f-d26261479601 | -13.49564 | -53.49173 | 2025-06-12 04:51:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| c7b33bea-1a63-3691-873b-d80c7b709ca1 | -13.88739 | -54.65347 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 15d90773-368b-356b-895b-0d2c71c1649e | -10.23817 | -52.23532 | 2025-06-12 04:51:00 | NOAA-20 | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| b82805ec-0dfa-3c68-909a-b59e3cb7a4e8 | -10.94941 | -55.31304 | 2025-06-12 04:51:00 | NOAA-20 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7b4f667b-4805-31d4-899d-39bf93a32fc5 | -15.3701 | -47.87743 | 2025-06-12 04:51:00 | NOAA-20 | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| a271dfff-92e6-3bbb-9f91-6bf6410319ce | -11.7065 | -54.50101 | 2025-06-12 04:51:00 | NOAA-20 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 04264998-2f8e-3027-8b73-d6359fa10ca7 | -14.03182 | -55.13068 | 2025-06-12 04:51:00 | NOAA-20 | SANTA RITA DO TRIVELATO | MATO GROSSO | Brasil | 5107768 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 4aacfd99-aa1d-3e36-950a-7cf8c4575820 | -9.3936 | -57.52258 | 2025-06-12 04:51:00 | NOAA-20 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| c82f3249-d98f-3f50-897d-ef89f576a9b8 | -10.94663 | -55.30878 | 2025-06-12 04:51:00 | NOAA-20 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5cce3029-c5a2-3442-ba78-a92479556bd9 | -15.36785 | -47.89465 | 2025-06-12 04:51:00 | NOAA-20 | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| f7801901-e820-3b63-ba57-92188a24409f | -14.53742 | -53.64737 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 612842b8-633c-3fd9-a31d-bc700d540f57 | -13.29488 | -57.08411 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 8dd08b3d-b628-39fb-9374-6a7e344098f0 | -10.36386 | -57.50406 | 2025-06-12 04:51:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a2082136-3983-3835-99d1-0de8394a1f78 | -12.05116 | -48.0774 | 2025-06-12 04:51:00 | NOAA-20 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c9a0e24b-3092-3459-aafc-1d085b1fcf0c | -13.66026 | -53.94063 | 2025-06-12 04:51:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| bbad6012-4788-30db-b023-5a464741db14 | -11.37888 | -56.54814 | 2025-06-12 04:51:00 | NOAA-20 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 70706f33-0305-32ff-9080-4295171a3d24 | -9.24938 | -57.53292 | 2025-06-12 04:51:00 | NOAA-20 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| 61b46b60-c76e-3805-84e2-36f6f50b4a8b | -15.3806 | -47.88577 | 2025-06-12 04:51:00 | NOAA-20 | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 217ab6e2-2632-37a3-85ef-2dc12118fc86 | -11.99404 | -57.20907 | 2025-06-12 04:51:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 5761f3a3-6bce-32be-a9cb-3568c14c7fba | -10.65491 | -49.35633 | 2025-06-12 04:51:00 | NOAA-20 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c8a89b0d-bac2-3ad7-977d-e495b748c9ca | -13.89845 | -54.64803 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| a2dfbeb8-3f10-3132-b963-861585996e91 | -13.89345 | -54.65811 | 2025-06-12 04:51:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README18.md)
