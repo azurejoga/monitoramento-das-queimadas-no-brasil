@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6f550080-15d7-33c0-bccd-16d22398a6cb | -7.4575 | -45.5116 | 2025-06-12 01:20:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 43.3 |
-| 6d9be61f-3e86-3097-8451-f150fc3d0dc3 | -7.4763 | -45.5099 | 2025-06-12 01:30:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 55.9 |
-| 869f9137-2c85-3d50-a575-3010b103675d | -7.4575 | -45.5116 | 2025-06-12 01:30:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 93.8 |
-| cdf633a6-1ec8-32cb-b2c4-0aecca4c3279 | -11.9874 | -57.2076 | 2025-06-12 01:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 45.4 |
-| 1601e540-6140-33f0-bc6f-ffdb0c5df8a6 | -13.8864 | -54.6519 | 2025-06-12 01:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 63.0 |
-| 4fa9fe10-f5dd-326c-a2dd-5721373c1d2a | -13.9056 | -54.6498 | 2025-06-12 01:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 90.6 |
-| 9149add4-ccf1-35bc-8ba7-9bc9a2ce22c2 | -13.2798 | -57.0751 | 2025-06-12 01:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 64.3 |
-| 28fd62b6-16ce-3fd8-9f50-e12abeb607f5 | -10.8832 | -54.742 | 2025-06-12 01:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 45.8 |
-| b940695f-bee8-3dbb-bad8-4c0a5087240a | -12.0063 | -57.2061 | 2025-06-12 01:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 53.7 |
-| a7559e79-286c-3af7-864f-da566fc0306e | -12.7169 | -58.0242 | 2025-06-12 01:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 42.2 |
-| 2c3534b0-a2b0-3895-9cf0-e238f89c0f38 | -13.2986 | -57.0935 | 2025-06-12 01:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 66.0 |
-| 396fe7f9-0898-398d-9166-ef56067ce71f | -13.2989 | -57.0734 | 2025-06-12 01:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 88.5 |
-| eb9eb7dc-efdf-37f2-a730-1a3eb7a15c0a | -7.4572 | -45.5342 | 2025-06-12 01:30:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 68.2 |
-| b51709f5-94ca-3a74-99ab-87c3f358c314 | -12.6268 | -58.049 | 2025-06-12 01:31:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| d25e32f8-8cb1-30bf-932c-598db20811d0 | -13.8224 | -54.658901 | 2025-06-12 01:31:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 4529d91c-a26f-3c53-9679-35a4615c8b82 | -13.8051 | -54.6334 | 2025-06-12 01:31:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 3e4d5201-3cda-3e40-9eba-4fc191ae4305 | -13.205 | -57.0919 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8d8034d8-d126-37d9-84b9-58a0a8f85f42 | -11.9133 | -57.205399 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 01729385-9572-3c48-8d86-12a92037c7fd | -13.8033 | -54.664501 | 2025-06-12 01:31:00 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 810b48e2-22dd-30ed-8290-6488c0ee64e9 | -10.8094 | -54.781898 | 2025-06-12 01:31:00 | METOP-B | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 98c7eba5-4e85-3f2c-aef8-ad71cb383338 | -11.9186 | -57.226002 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c03299b5-0e71-3a8a-9f48-3b202036d3c3 | -10.7914 | -54.753201 | 2025-06-12 01:31:00 | METOP-B | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f3961ddd-e8c3-3ffc-82c0-336db9a7fd34 | -10.801 | -54.750599 | 2025-06-12 01:31:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 61b4b5d5-b5a9-3108-9f72-5221c3c6685a | -12.6223 | -58.031399 | 2025-06-12 01:31:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 88b044ad-a7a3-3e9b-8249-d433574aae88 | -11.9037 | -57.208 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 06dd4a43-8f05-3461-98a3-47e032c29a7b | -13.8128 | -54.661701 | 2025-06-12 01:31:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 85b06692-5456-3db9-a6ac-390dfac7b8da | -13.2102 | -57.111698 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| d8cac04b-3abb-33d5-b000-03be2d446de4 | -11.8411 | -57.483601 | 2025-06-12 01:31:00 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 857d5bb9-8057-3de6-9bae-1853fc185ac8 | -13.2094 | -57.069199 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 80baf1c5-4269-3537-ac72-c61242fd8d64 | -11.8315 | -57.486198 | 2025-06-12 01:31:00 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 05dbb6e6-d2dc-31d0-9cdd-509236de88df | -13.2198 | -57.109001 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 505dde11-71b7-37bc-972d-0cbb36718f0c | -13.8206 | -54.689899 | 2025-06-12 01:31:00 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 4e1f80c6-32a1-3893-b434-200dba90302c | -11.909 | -57.2286 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 356f8aeb-94a4-37f1-a66c-89749a084741 | -10.7999 | -54.7845 | 2025-06-12 01:31:00 | METOP-B | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8c66a328-8bd5-3ffb-817a-024bfa34eaec | -13.2146 | -57.089199 | 2025-06-12 01:31:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a7b2dd08-1dae-3471-a1a0-734849a2d53b | -9.17 | -57.548801 | 2025-06-12 01:32:00 | METOP-B | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1082dc47-81e8-3abc-805f-94f18aae3806 | -13.2989 | -57.0734 | 2025-06-12 01:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 81.9 |
-| 3b99a72a-7e7e-3e79-84a8-91bd86e775c6 | -10.8832 | -54.742 | 2025-06-12 01:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 44.1 |
-| b752bebd-7ed7-384d-889b-cd1bb3229806 | -13.9056 | -54.6498 | 2025-06-12 01:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 86.6 |
-| 0cb66e6e-78ff-3229-a2e2-df41b4e31516 | -13.8864 | -54.6519 | 2025-06-12 01:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| fc96ebf9-41b6-3a59-aec1-7128cbb65292 | -12.0063 | -57.2061 | 2025-06-12 01:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 49.3 |
-| d33c0a3d-4ca3-3d0e-968e-79d4d60ddb81 | -7.4575 | -45.5116 | 2025-06-12 01:40:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 55.2 |
-| 9c97ae54-b172-3e32-9f17-c842d0876925 | -11.9874 | -57.2076 | 2025-06-12 01:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 44.2 |
-| a732d5dc-bc73-3f3b-8932-f79343a35a7d | -13.2798 | -57.0751 | 2025-06-12 01:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| 1e133034-9ac2-333f-9a88-ae083113f119 | -13.2986 | -57.0935 | 2025-06-12 01:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 62.5 |
-| cd388bfc-f57b-3382-ae78-90dfccb453cb | -13.8864 | -54.6519 | 2025-06-12 01:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 58.8 |
-| 7de4899a-8e4d-302d-94e4-165f97a41cf2 | -13.2798 | -57.0751 | 2025-06-12 01:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 59.6 |
-| 2e79d187-7004-3aa7-a8ba-ce0426ae428f | -7.4572 | -45.5342 | 2025-06-12 01:50:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 85.7 |
-| 8650f0ed-fda3-372a-9149-cc05ad3983d1 | -13.9056 | -54.6498 | 2025-06-12 01:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| 18576f2b-53a6-394b-b151-f595e628faa0 | -13.2989 | -57.0734 | 2025-06-12 01:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 78.7 |
-| 90c1838b-64b2-39dc-80b7-fe2f28195367 | -7.476 | -45.5325 | 2025-06-12 01:50:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 83.8 |
-| 95883b9a-cbad-38f7-a02d-d8bc4e430c08 | -7.4763 | -45.5099 | 2025-06-12 01:50:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 148.6 |
-| 19fb9caf-1115-39b9-8f83-82a5acb79c3e | -13.2986 | -57.0935 | 2025-06-12 01:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| 09332fab-a10b-3de4-9848-dcf23c929946 | -7.4575 | -45.5116 | 2025-06-12 01:50:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 165.3 |
-| 2be21f19-6fde-3ff4-b7ee-08a958e8b276 | -11.9874 | -57.2076 | 2025-06-12 01:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 38.0 |
-| 5c16ec02-5b29-3c50-be73-d181c5852f21 | -12.0063 | -57.2061 | 2025-06-12 01:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 46.6 |
-| 9e598b77-7f02-3484-b1af-cf75c73f5fef | -12.70386 | -58.04625 | 2025-06-12 01:56:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 37.0 |
-| 317414d5-ec7f-3163-a3b6-3a951e77b180 | -13.29391 | -57.07432 | 2025-06-12 01:56:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 169.1 |
-| 6cced126-c2cf-337e-8e5a-eb808e2ca99b | -13.28842 | -57.08236 | 2025-06-12 01:56:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 202.1 |
-| fe4f0ed5-d8f5-3ed0-9046-9c6c9b6175f5 | -12.70904 | -58.0521 | 2025-06-12 01:56:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 31.3 |
-| 1452e798-56ae-3b4f-bfc9-d4db9a19f921 | -12.70343 | -58.02002 | 2025-06-12 01:56:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 48.8 |
-| 7a7ee4f3-c24a-3f67-998c-93a423f4b8bd | -11.92549 | -57.47938 | 2025-06-12 01:56:00 | TERRA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 48.7 |
-| 04253733-2d5a-394c-8e68-b11c0b64a83c | -11.91482 | -57.47463 | 2025-06-12 01:56:00 | TERRA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 59.0 |
-| bb8abb42-837b-3e46-aa17-4c85be6426de | -13.30054 | -57.11013 | 2025-06-12 01:56:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 75.4 |
-| 10f599ed-48e5-36c1-a10e-780689fea4e8 | -9.25409 | -57.55789 | 2025-06-12 01:58:00 | TERRA_M-M | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 37.5 |
-| d3e2b29a-a2d8-35bc-8d77-86e977691d6c | -8.75383 | -64.80372 | 2025-06-12 01:58:00 | TERRA_M-M | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 1988d01d-8046-3f48-ad55-0242fd42cae7 | -13.2798 | -57.0751 | 2025-06-12 02:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 52.1 |
-| 0c5873f6-df75-3a4a-94f1-6f07a464bac3 | -13.8864 | -54.6519 | 2025-06-12 02:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 52.8 |
-| a42a7d0a-34e1-3983-a246-71d73a531e6d | -13.9059 | -54.6291 | 2025-06-12 02:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 46.7 |
-| c3624c32-84ad-3840-a09a-9673cabdcb3e | -13.2986 | -57.0935 | 2025-06-12 02:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 60.2 |
-| e37085ce-1a5e-3bc9-9d60-7f56192eac65 | -13.9056 | -54.6498 | 2025-06-12 02:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 84.9 |
-| 5ad6c0a4-3a63-3aca-9c88-77cf29cc9c41 | -13.2989 | -57.0734 | 2025-06-12 02:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 78.5 |
-| 90f19c5d-4f57-323a-8d79-55fb4d2a057b | -13.2986 | -57.0935 | 2025-06-12 02:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 45.0 |
-| 1996afed-53a3-3038-98f1-4872039dbbe9 | -13.2798 | -57.0751 | 2025-06-12 02:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 54.5 |
-| 1b28025c-4d41-30d2-b5cd-824ec8264f08 | -13.8864 | -54.6519 | 2025-06-12 02:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| 80d52dae-55fe-3588-852c-b8423fcc57fe | -10.8832 | -54.742 | 2025-06-12 02:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 44.2 |
-| 4f7da513-99eb-3c69-bfd4-29b180e447ca | -13.9056 | -54.6498 | 2025-06-12 02:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 71.6 |
-| 358cd5e1-9e99-341a-b457-41e192b8b957 | -13.2989 | -57.0734 | 2025-06-12 02:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 60.9 |
-| 8310247f-12ce-3d23-8e1a-6df42e775f6f | -13.9056 | -54.6498 | 2025-06-12 02:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 65.9 |
-| 7eed1c47-be26-3617-99d0-dffa12718536 | -13.8864 | -54.6519 | 2025-06-12 02:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 61.0 |
-| bbd2f6cc-891f-3d59-ba93-358c859ad0ba | -13.2989 | -57.0734 | 2025-06-12 02:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 84.5 |
-| 87a9e334-ef07-3170-9be0-ff514e8a0206 | -13.2986 | -57.0935 | 2025-06-12 02:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 55.8 |
-| 0acc5c6d-6e13-3ffd-87a2-8d44bf04d860 | -13.8864 | -54.6519 | 2025-06-12 02:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 68.3 |
-| 023902a1-5d4e-370e-81f3-c8ed2314fe5c | -10.8832 | -54.742 | 2025-06-12 02:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 44.9 |
-| b20aa26f-8dbe-3683-9c5c-cd42eca590a1 | -11.9874 | -57.2076 | 2025-06-12 02:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 34.6 |
-| c7c584bf-b895-35ba-bade-d8976d6c815d | -13.9056 | -54.6498 | 2025-06-12 02:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| d32df8c6-a631-3860-96e5-a17fbf1dc47d | -13.2989 | -57.0734 | 2025-06-12 02:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 61.5 |
-| 6a0f805a-5240-3412-b6fd-98661ba5527a | -13.2798 | -57.0751 | 2025-06-12 02:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 45.4 |
-| 769fdfc7-5818-30e4-85a4-b93a1c19a19f | -7.4575 | -45.5116 | 2025-06-12 02:40:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 64.6 |
-| 1f3414d4-a0a0-3694-9384-185bcf42210f | -13.2798 | -57.0751 | 2025-06-12 02:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 41.2 |
-| 281a3d01-fdc2-3d3b-85d2-262009e6f203 | -10.8832 | -54.742 | 2025-06-12 02:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 42.6 |
-| 39e10e6b-5444-31f0-a578-ef128428f760 | -13.8864 | -54.6519 | 2025-06-12 02:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| b0e0bf73-127a-361c-9431-1214883ff442 | -13.9056 | -54.6498 | 2025-06-12 02:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| de23293d-824e-3d36-ae0a-1e3515ff52d0 | -13.2989 | -57.0734 | 2025-06-12 02:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| 7a83923d-ec4f-3992-b9b3-f90eb8169b3d | -13.8864 | -54.6519 | 2025-06-12 02:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 63.6 |
-| b78d13fd-484b-309f-b21d-45faf3f3355f | -13.9056 | -54.6498 | 2025-06-12 02:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 60.4 |
-| bb17562b-0f1f-3517-9943-81538d54611d | -13.2989 | -57.0734 | 2025-06-12 02:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| f0ced59a-006f-3ac1-a161-26a7c6b18d87 | -7.4575 | -45.5116 | 2025-06-12 03:00:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 44.0 |
-| e7122430-743f-37af-87c4-103a7d7a62b8 | -13.9056 | -54.6498 | 2025-06-12 03:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 51.9 |
-| bd0053d7-061f-3b17-af73-722d19894f4c | -13.2989 | -57.0734 | 2025-06-12 03:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| 1700b9ca-7701-3dfd-ace6-4a82f166c42f | -11.3447 | -54.604099 | 2025-06-13 01:09:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 55286d6c-3d00-3805-b7bc-18ddf8576bb5 | -13.9059 | -54.6291 | 2025-06-13 01:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 106.5 |
+| b0f75cc0-d6a9-3af2-9559-b4efad42caaa | -10.6495 | -49.4051 | 2025-06-13 01:10:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 41.9 |
+| a9de7688-c3b9-316b-8093-cb268a1dcd8a | -7.2403 | -43.1134 | 2025-06-13 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 87.8 |
+| 58660d13-7a81-3cde-8375-b7196bfc7fea | -13.8867 | -54.6312 | 2025-06-13 01:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 72.8 |
+| c6d288dd-eeeb-3525-a201-5dbaa1fa1196 | -10.6492 | -49.4267 | 2025-06-13 01:10:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 112.3 |
+| 78879543-fa82-3971-9e9d-898866b0ef7e | -11.5649 | -54.559 | 2025-06-13 01:10:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 65.4 |
+| bf52e238-eb0a-39de-b840-d6dc3f702cad | -6.9422 | -44.5562 | 2025-06-13 01:10:00 | GOES-19 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 77.0 |
+| 6cc41770-b76a-3267-99d0-5b0f723b9a24 | -7.2214 | -43.1153 | 2025-06-13 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 81.6 |
+| dc3787cd-026e-31b2-af57-9fb206c4db64 | -13.9062 | -54.6084 | 2025-06-13 01:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 55.0 |
+| 5a855bc4-3fce-3a5c-87aa-27dcbf9a2153 | -10.9167 | -56.8336 | 2025-06-13 01:10:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 44.8 |
+| 761bd61f-d67b-3c88-8f3d-294a927370c6 | -11.5647 | -54.5794 | 2025-06-13 01:10:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 69.6 |
+| 470149c6-10d7-3e25-831e-b7d50b9bca9d | -10.7048 | -49.507 | 2025-06-13 01:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 47.3 |
+| f1899327-1f75-3f22-9cd9-e01feeda9c81 | -10.6302 | -49.4288 | 2025-06-13 01:10:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 56.7 |
+| d746de29-8f53-3d5c-9050-0d5e71a3e739 | -8.8165 | -46.682 | 2025-06-13 01:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 60.1 |
+| b06a72c5-ce35-3c46-9055-5e6c55f3a5a8 | -9.4114 | -57.5529 | 2025-06-13 01:10:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 60.3 |
+| aebaf5ff-0e02-36bf-88a2-932a9480fe35 | -10.7051 | -49.4853 | 2025-06-13 01:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 52.7 |
+| f046a5f2-d048-3f93-b317-4b4ec1155b6a | -10.9355 | -56.8322 | 2025-06-13 01:10:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| d1325cba-0085-3e8d-a974-f8c69dce1943 | -13.887 | -54.6106 | 2025-06-13 01:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 44.0 |
+| 88ef9dd0-92ff-3ba1-a3a5-ff11f7924e62 | -11.5649 | -54.559 | 2025-06-13 01:20:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 45.1 |
+| 710578dd-999b-3fd4-8e60-166b38ed8803 | -7.2214 | -43.1153 | 2025-06-13 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 87.0 |
+| 249f2bac-5c51-3b7b-9b4f-e01da658877a | -13.9059 | -54.6291 | 2025-06-13 01:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 84.7 |
+| 2fd305ef-1fc6-3801-83d0-ecf2893be182 | -10.6302 | -49.4288 | 2025-06-13 01:20:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 44.1 |
+| 655c456f-0658-376a-97bf-5ae35c3e83e9 | -9.4114 | -57.5529 | 2025-06-13 01:20:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 78.4 |
+| 57094e8a-fdac-3576-b2c8-0374fae889ea | -11.5647 | -54.5794 | 2025-06-13 01:20:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 69.6 |
+| a1b881cb-92ba-3340-a9dc-fbe6cb05e088 | -11.5836 | -54.5777 | 2025-06-13 01:20:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 43.1 |
+| 03b5f999-31e4-380c-8d4f-8c361167ea1f | -10.6492 | -49.4267 | 2025-06-13 01:20:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 117.1 |
+| e6eae394-1b2c-3051-ba75-90878f06deea | -8.8165 | -46.682 | 2025-06-13 01:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 57.9 |
+| 6f3a6007-cb44-3178-afd4-7fe3e8ade3c5 | -13.8867 | -54.6312 | 2025-06-13 01:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| ea514a7c-9197-3ae6-8c3c-faafa9eabcf7 | -6.9422 | -44.5562 | 2025-06-13 01:20:00 | GOES-19 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 74.4 |
+| 415550fe-b81f-3f5a-8912-b85c6bf4765a | -10.9355 | -56.8322 | 2025-06-13 01:20:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 49.0 |
+| 047de00a-4553-3a5a-bd2c-bea92ecab496 | -10.9167 | -56.8336 | 2025-06-13 01:20:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 48.6 |
+| c2658817-6c5f-347f-b83f-f3d3a9f886ec | -11.5649 | -54.559 | 2025-06-13 01:30:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| 2fd322ac-df90-390e-809f-3442417a891c | -10.9355 | -56.8322 | 2025-06-13 01:30:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 43.2 |
+| c91b4de7-f1d6-316b-b3d1-0be462954bfe | -13.8867 | -54.6312 | 2025-06-13 01:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 62.2 |
+| 34e8bf96-6947-3dc4-87cb-78f2593b6a77 | -13.9062 | -54.6084 | 2025-06-13 01:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| ed084764-8e9c-3587-a846-24447a0869e6 | -11.5647 | -54.5794 | 2025-06-13 01:30:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 90.0 |
+| d558f059-2092-3585-acb4-bb9df825a778 | -9.4114 | -57.5529 | 2025-06-13 01:30:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 48.2 |
+| ecb17b0b-8638-3208-9476-0a9b54fbb14c | -10.9167 | -56.8336 | 2025-06-13 01:30:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 42.6 |
+| 14462df6-72bf-3290-8de8-419776843fdf | -6.9422 | -44.5562 | 2025-06-13 01:30:00 | GOES-19 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| 84f0b2fe-11bc-3a6e-81e4-124b4a1799b1 | -10.7051 | -49.4853 | 2025-06-13 01:30:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 48.5 |
+| 84714dae-9818-3611-9376-346ec2e2a95b | -7.2214 | -43.1153 | 2025-06-13 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 80.5 |
+| ae2f1176-5d34-3f51-97a7-6f13f4f567f5 | -10.7048 | -49.507 | 2025-06-13 01:30:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 57.7 |
+| beb1300b-1686-398a-a6c9-4d4c82077524 | -10.6302 | -49.4288 | 2025-06-13 01:30:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 63.5 |
+| 1cd4e18c-65cc-354c-b00e-10035acca16a | -10.6492 | -49.4267 | 2025-06-13 01:30:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| 06ff168e-c19f-3bc7-b17d-7c33bac734c3 | -13.9059 | -54.6291 | 2025-06-13 01:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 119.0 |
+| fa348ba6-52a2-38b1-a7a7-ccfbd8db4630 | -9.3927 | -57.5541 | 2025-06-13 01:30:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| c00e33c0-4a11-3bdc-ab2e-72111a6fe96e | -7.2214 | -43.1153 | 2025-06-13 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 76.4 |
+| e44998a9-68ef-3c1a-ae80-8799bcebaca6 | -10.6302 | -49.4288 | 2025-06-13 01:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 56.6 |
+| 4392be2b-35e2-3ecc-96be-58a4938586bd | -13.9062 | -54.6084 | 2025-06-13 01:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| 98cc9685-5a05-321c-bc65-d2c6336db9fe | -10.7051 | -49.4853 | 2025-06-13 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 51.3 |
+| f04bfe33-0b3f-38e3-a9b3-5a17697be797 | -10.6492 | -49.4267 | 2025-06-13 01:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 109.8 |
+| f5501c34-94be-3a7b-a661-9aca0272f8f4 | -9.4114 | -57.5529 | 2025-06-13 01:40:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| a9aca3a7-1a8b-3d3d-a143-f51b94392882 | -7.2403 | -43.1134 | 2025-06-13 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 76.5 |
+| d20ed451-44c4-3bc3-9d93-3b319c3a3266 | -10.7048 | -49.507 | 2025-06-13 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 47.6 |
+| 4a529456-e979-3342-82af-109612f504d3 | -11.5647 | -54.5794 | 2025-06-13 01:40:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 70.2 |
+| 206a11d3-3f91-3201-9cf0-8cfffed8f44a | -11.5649 | -54.559 | 2025-06-13 01:40:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 59.7 |
+| 38c04675-5575-34f9-834e-e9aa043e047c | -6.9422 | -44.5562 | 2025-06-13 01:40:00 | GOES-19 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 8dd9209c-f89e-3b66-9fd8-74fdc02b308d | -13.8867 | -54.6312 | 2025-06-13 01:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 63.6 |
+| 955880a5-d497-3153-b365-bb74527bfbe3 | -13.9059 | -54.6291 | 2025-06-13 01:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 106.8 |
+| 416fc16e-d060-3e08-ae6d-61da0fb3168f | -10.9355 | -56.8322 | 2025-06-13 01:50:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 48.5 |
+| 11fd4403-fa16-348f-8d15-2b6413c8a52c | -10.7051 | -49.4853 | 2025-06-13 01:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 46.1 |
+| 9581f2cd-40d5-3872-b6a0-e10302043ecb | -13.9062 | -54.6084 | 2025-06-13 01:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 55.2 |
+| 03124e32-5354-3da8-aacd-66e43037ccaf | -11.5649 | -54.559 | 2025-06-13 01:50:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 55.0 |
+| 20684d35-686d-35d1-9008-a635f1e95e23 | -6.9422 | -44.5562 | 2025-06-13 01:50:00 | GOES-19 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 70.2 |
+| ad43379c-cdda-39bc-b0bd-f461faa8885e | -11.5647 | -54.5794 | 2025-06-13 01:50:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 78.2 |
+| 690a6ffe-5b76-3732-8fd8-f76484d8cb7c | -7.2214 | -43.1153 | 2025-06-13 01:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 72.5 |
+| b93fcbe9-7335-333f-9452-b97a8f428d7d | -10.6492 | -49.4267 | 2025-06-13 01:50:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| 1610f99e-b168-3451-b5e9-4f6d992dc510 | -10.6302 | -49.4288 | 2025-06-13 01:50:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 49.6 |
+| 500b745c-0e1e-3da2-859a-3567d5d89b65 | -10.6483 | -44.4861 | 2025-06-13 01:50:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 54.8 |
+| bb946184-3112-302b-ae8b-57df9f10339e | -9.3927 | -57.5541 | 2025-06-13 01:50:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 50.6 |
+| 321f1127-3e6e-33ef-883f-0f7cb6adb919 | -9.4114 | -57.5529 | 2025-06-13 01:50:00 | GOES-19 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| cd5d63db-4508-316f-a736-4b501d4a3fb9 | -13.8867 | -54.6312 | 2025-06-13 01:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 54.5 |
+| 008219c0-7775-34e4-b836-e109838c5a64 | -13.9059 | -54.6291 | 2025-06-13 01:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 114.0 |
+| e5802324-a501-3159-9028-2564e5770599 | -10.7048 | -49.507 | 2025-06-13 01:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 52.5 |
+| 2c0c818c-a6d9-3357-9d6f-fa4308e81c5f | -7.6671 | -43.6557 | 2025-06-13 01:50:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 49.5 |
+| 438f6998-d92d-3016-8004-224344f3e813 | -10.9167 | -56.8336 | 2025-06-13 01:50:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 49.1 |
+| d781dd7b-767e-3bdf-a3b7-a4904f973cce | -7.6671 | -43.6557 | 2025-06-13 02:00:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 427.4 |
+| eff19f55-16e2-3520-89a0-0f603732296e | -10.6492 | -49.4267 | 2025-06-13 02:00:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 85.9 |
+| 68883b49-87b2-364d-b42c-110c6b2c90b0 | -10.9167 | -56.8336 | 2025-06-13 02:00:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 42.3 |
+| 84e65cbe-21e5-325d-8422-db319f2db30b | -11.5647 | -54.5794 | 2025-06-13 02:00:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| b513fd91-a617-318c-a561-27612a113d3b | -10.7048 | -49.507 | 2025-06-13 02:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 47.8 |
+| 71d9e38a-4862-30ba-ba6c-7221185a412d | -13.9059 | -54.6291 | 2025-06-13 02:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 100.0 |
+| 64c23b7b-4249-3268-a28c-092b7cfa2cf6 | -13.8867 | -54.6312 | 2025-06-13 02:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 63.9 |
+| 8b72457d-3230-3a47-910b-228b713adc7d | -11.5649 | -54.559 | 2025-06-13 02:00:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 51.6 |
+| a18f8213-c400-3e78-b753-ad1b52676dcc | -7.686 | -43.6538 | 2025-06-13 02:00:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 92.1 |
+| 707c8c41-5657-3c27-9300-bebe60130a0c | -7.6863 | -43.6304 | 2025-06-13 02:00:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 58.6 |
+| 65a521ea-a98e-38f4-8591-4712b6ed48fb | -13.9062 | -54.6084 | 2025-06-13 02:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 48.1 |
+| 64c4435b-1933-351a-b738-89d25cac643c | -10.9355 | -56.8322 | 2025-06-13 02:00:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 4e99efe7-bae0-323f-b51e-df7c8147875a | -7.6485 | -43.6343 | 2025-06-13 02:00:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 49.9 |
+| de150086-5dff-39de-a642-b52d12584e36 | -7.6483 | -43.6576 | 2025-06-13 02:00:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 52.7 |
+| 5097a527-4b81-3bf4-befe-cd57838ca201 | -7.6674 | -43.6323 | 2025-06-13 02:00:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 304.8 |
+| a55f231a-82ea-35a1-b195-fd5fc1d971cf | -10.9297 | -56.849201 | 2025-06-13 02:03:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b11c5407-8041-3284-99ae-56dc4c00ebe5 | -9.9566 | -64.975899 | 2025-06-13 02:03:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 0934b2d7-fd22-37f3-8f13-78a142f0d994 | -10.9201 | -56.851898 | 2025-06-13 02:03:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 48b9eb90-e2a7-3268-a7d0-f13b4db0c73a | -9.9587 | -64.984703 | 2025-06-13 02:03:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 24910a8e-5084-3eb1-adb1-34274b1c09aa | -10.6492 | -49.4267 | 2025-06-13 02:10:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 94.0 |
+| 871070f5-a7e3-3a49-985f-d197a2828f51 | -13.9062 | -54.6084 | 2025-06-13 02:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 48.5 |
+| ec3a2042-e95f-3b29-ab55-4e0029f1168c | -7.6863 | -43.6304 | 2025-06-13 02:10:00 | GOES-19 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 50.7 |
+| 8d2f6f08-16b8-31cd-b80f-6360ec3edae5 | -11.5647 | -54.5794 | 2025-06-13 02:10:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 66.3 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
