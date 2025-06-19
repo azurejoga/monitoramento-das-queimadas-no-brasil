@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6c4c7ff4-598f-3a8e-9377-75bb0072da2e | -5.09301 | -43.90534 | 2024-12-17 05:08:00 | NOAA-20 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 20.1 |
-| 697c69f1-e381-3ce3-a976-de451eca67b4 | -6.98935 | -43.55926 | 2024-12-17 05:08:00 | NOAA-20 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7abb3678-405a-32bf-bc43-64cf0d15d293 | -5.08442 | -43.91695 | 2024-12-17 05:08:00 | NOAA-20 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| 30a069db-c5e7-3378-b797-3a04b3e8ee09 | -5.21293 | -43.29971 | 2024-12-17 05:08:00 | NOAA-20 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| 36572087-7853-3c24-a2a1-08c64c5e6892 | -3.55601 | -54.7249 | 2024-12-17 05:08:00 | NOAA-20 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| b10896bd-aad1-3f5a-9365-ef87e47ce27d | -3.86826 | -47.03645 | 2024-12-17 05:08:00 | NOAA-20 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| c6679fd5-c35c-3da7-b8ac-4bf1f0af8f74 | -4.06791 | -46.59159 | 2024-12-17 05:08:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9e76522d-7839-342b-b060-e779e85ca1d7 | -4.89196 | -44.17514 | 2024-12-17 05:08:00 | NOAA-20 | GOVERNADOR ARCHER | MARANHÃO | Brasil | 2104503 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 9c81932d-8ad7-3187-a619-41cca1ee819a | -4.04246 | -46.92416 | 2024-12-17 05:08:00 | NOAA-20 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 79db4be7-eccc-31f9-9a05-7cb92d8dfce3 | -3.95755 | -46.9302 | 2024-12-17 05:08:00 | NOAA-20 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 1ed6b43b-db43-3f37-a214-22000325cb09 | -3.50093 | -53.94706 | 2024-12-17 05:08:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a8b7fe79-13aa-3b28-9e64-39fcefa4fcb1 | -2.94036 | -54.17775 | 2024-12-17 05:08:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 15182883-f71e-3534-be4d-5b3c2624822d | -2.08039 | -54.23435 | 2024-12-17 05:08:00 | NOAA-20 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 232c299f-c942-3f52-8e4b-bd061e04c5cb | -3.50324 | -53.95546 | 2024-12-17 05:08:00 | NOAA-20 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3d11434c-e8dc-30e8-ace2-cdb5026f58b1 | -4.67827 | -44.04501 | 2024-12-17 05:08:00 | NOAA-20 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d583f8e2-9358-3ca3-8fa8-2d7412042595 | -3.29823 | -53.36412 | 2024-12-17 05:08:00 | NOAA-20 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 17.9 |
-| 1e46bde1-a2a0-37e4-90bc-f78a01a46656 | -4.97085 | -44.96754 | 2024-12-17 05:08:00 | NOAA-20 | ESPERANTINÓPOLIS | MARANHÃO | Brasil | 2104008 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3ed31a75-5dc9-3c98-9ed5-99bb59e70281 | -4.76299 | -46.71315 | 2024-12-17 05:08:00 | NOAA-20 | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c0125796-23b7-3101-bf26-ea3f43a2cba1 | -5.0936 | -43.9176 | 2024-12-17 05:10:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 86.6 |
-| 4cc6435e-c754-38c1-bceb-a5e0189c1f1a | 4.4251 | -60.9851 | 2024-12-17 05:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 63.5 |
-| 200a17ff-dc28-35de-a44f-f3278e6337ac | 4.4435 | -60.9657 | 2024-12-17 05:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 60.8 |
-| 3ab8a99c-536c-3aab-bd5e-b2e035b7621e | 4.4435 | -60.9846 | 2024-12-17 05:10:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 115.3 |
-| f6863fe3-9c50-3677-bf77-c5efb793100f | -6.9346 | -43.5168 | 2024-12-17 05:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 85.4 |
-| 2c0daf3e-3450-39b1-bfa9-51cf09e87dfa | -6.9349 | -43.4934 | 2024-12-17 05:10:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 68.8 |
-| f664ab93-59df-3f11-a107-9ba053c200a3 | -5.0938 | -43.8945 | 2024-12-17 05:10:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 72.1 |
-| b07e69b1-0a1b-386b-a8de-a8f6f4ea3b46 | -15.07065 | -59.64851 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 6170b3aa-b44d-319a-a07d-723d1e2cad6f | -15.07397 | -59.64907 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 6c33f908-5f48-3fd7-867b-9d10cac4071f | -14.86701 | -59.22008 | 2024-12-17 05:10:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 93f78537-1fd1-39a1-ab82-a24b41fd0eb1 | -15.07122 | -59.64494 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 259736a1-b399-3699-aea1-1320382bb5cf | -15.10164 | -59.6464 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3b6aefd1-7fa9-3cef-ac60-05d9f2066c71 | -15.08003 | -59.65377 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| eebf73a7-f5a5-360f-95c0-da6aa4460838 | -15.09397 | -59.63043 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d0ddd549-0023-396a-a151-876c39441f0c | -15.07454 | -59.6455 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| d156af91-b8dc-3b1a-9f7b-45bfec539322 | -15.07008 | -59.65209 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| fcddd38c-b850-3138-8647-e66e29efdeef | -15.71394 | -58.92712 | 2024-12-17 05:10:00 | NOAA-20 | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3a4d3012-7c93-3fc7-9ef8-60562f8b6707 | -15.0806 | -59.65019 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 09121ef6-db71-3d59-9382-997606c3a93b | -15.87327 | -53.2709 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| fdf8f84b-a7fc-38ef-a5b0-6134b508ead9 | -15.07511 | -59.64193 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| aa312923-96c7-32a2-bad3-ac56b93229cb | -15.87524 | -53.27435 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 588daeb5-fbce-337f-86c9-9759345ebe8f | -15.06951 | -59.65567 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 21090e86-1f33-39ee-a8a8-983c56c547e0 | -15.88006 | -53.27089 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a966d701-90b6-3db1-b63d-d96077d043fa | -15.87145 | -53.26966 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| ba69b4a7-9952-3d3e-9e90-e8c8f2d03fb9 | -15.0734 | -59.65265 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| e0fd2e89-4150-3c28-9ba8-ed64921366a7 | -15.07729 | -59.64964 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 44234e74-8b53-3002-a45b-9883ce9d929f | -15.87953 | -53.27505 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 580fc432-2cab-3902-99ff-55df63c9027c | -15.87575 | -53.27029 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a73ed8a3-3c5b-3fd3-8c06-ef6f4d5a73f7 | -15.87757 | -53.27153 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 37f5ca68-df96-3802-a222-cb05f30d168e | -15.09055 | -59.65187 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8249da7a-dd08-3725-b22d-f5cf6d58f165 | -15.09387 | -59.65244 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f5b1a30f-1983-3078-833c-0d939bc86cbf | -15.08392 | -59.65075 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| eb451b57-865d-3551-88b1-6a30b9fa3874 | -15.24232 | -59.91296 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2862ed1f-466e-36a7-bf77-db7567ce6f96 | -15.0989 | -59.64227 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b9f03912-3618-3fe0-bbbf-4cb0f22c8bcb | -15.32491 | -60.0157 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 74c14b8a-527c-3b98-a475-b88646ec6ff5 | -15.08724 | -59.65131 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 33557a8e-4634-3f26-80ae-43e8db467e63 | -15.23842 | -59.91599 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7e1c3c5e-ec0c-3758-904f-d116f9d36b03 | -15.09444 | -59.64886 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1b254187-a7f6-3335-8f08-e369ffc6367b | -15.09112 | -59.6483 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c33327d3-2a25-3e5e-8665-4ec7e0116331 | -15.07283 | -59.65622 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 32523d04-c86d-334a-bd7b-6f821f5c3c4e | -15.07786 | -59.64606 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| db547939-80eb-3827-bf48-bbf029055a6c | -15.09833 | -59.64584 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b2895b63-48d0-380e-9c88-ac8038be844d | -15.07179 | -59.64138 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| df683f75-40cb-3d85-8bbd-5bd70893067a | -15.91463 | -59.80869 | 2024-12-17 05:10:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 9859ff35-8695-3b6b-b9dc-1a9f0566e4ae | -15.87703 | -53.27561 | 2024-12-17 05:10:00 | NOAA-20 | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 95770551-2ec3-331d-aebf-b74ec7414e02 | -15.07843 | -59.64248 | 2024-12-17 05:10:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 70f45044-f8d9-367a-a052-e576c18b3416 | -19.09185 | -52.86032 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 8d3c8276-38a7-3db2-8e44-3f6ab7fd62a5 | -17.70272 | -54.08434 | 2024-12-17 05:12:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 0b91c476-cbe2-3998-a055-723e5138f909 | -18.8999 | -56.05108 | 2024-12-17 05:12:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.2 |
-| ce3adf4d-1fb8-318d-a5c4-501218b542d4 | -17.70159 | -54.08474 | 2024-12-17 05:12:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| aa173a1b-ef9c-3b96-9e51-383d8359f063 | -19.0641 | -52.85677 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| e619375f-0f17-3279-9ed1-6fa1a5797a56 | -20.91689 | -56.5475 | 2024-12-17 05:12:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a847a3cc-0297-38e4-81dc-8a0401b98711 | -18.89613 | -56.05052 | 2024-12-17 05:12:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.9 |
-| 13d5c48b-f37f-3127-9903-79f15135057a | -18.01538 | -54.4299 | 2024-12-17 05:12:00 | NOAA-20 | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 5ec56f15-68b8-32ee-a6b4-b2d13917ad97 | -19.29968 | -53.26145 | 2024-12-17 05:12:00 | NOAA-20 | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 7d4f1b02-739e-3772-a6b0-6c8b3bec6d48 | -19.09589 | -52.86596 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| bdd91ad9-c105-3035-960b-23ee1a18f766 | -19.08783 | -52.85462 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 088d1228-4542-3acc-a5de-17ec05d92cdc | -19.05888 | -52.86135 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| a1cf8cca-1618-3713-84c6-92b5ab86a8ca | -19.06873 | -52.85733 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 1dc0dfa5-e146-3662-9141-6ca326c63969 | -19.08723 | -52.85972 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 8da0dc0c-b5ee-308f-acbb-2ae8b5bff7cf | -20.56573 | -55.08881 | 2024-12-17 05:12:00 | NOAA-20 | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 5f5e6b79-f33b-3606-9541-3c923f7088cc | -18.89678 | -56.04573 | 2024-12-17 05:12:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.9 |
-| d198d6a6-eb9c-3043-b83f-52001a86a4f4 | -19.09126 | -52.86536 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 513b963e-84a4-3c30-b25c-2734f0dabeec | -19.16298 | -54.83684 | 2024-12-17 05:12:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| e7650717-fc20-344e-88b9-6a5fa7ba617d | -23.85112 | -50.00737 | 2024-12-17 05:12:00 | NOAA-20 | TOMAZINA | PARANÁ | Brasil | 4127809 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| b83cc859-4a74-3766-9ae7-598ecefbeda6 | -19.30421 | -53.26194 | 2024-12-17 05:12:00 | NOAA-20 | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ce9eca55-a5dd-3bf8-b2c0-ebcdb706e9a4 | -19.05946 | -52.85629 | 2024-12-17 05:12:00 | NOAA-20 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 4673c678-ad64-32df-8f00-25c4ea2131ab | -18.90055 | -56.04629 | 2024-12-17 05:12:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.2 |
-| 46854165-0ddf-31be-b54a-c8df47a12e26 | -24.24375 | -50.74226 | 2024-12-17 05:14:00 | NOAA-20 | ORTIGUEIRA | PARANÁ | Brasil | 4117305 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| b2d05d6a-bd72-3c4f-913e-251b60fe6011 | -6.9346 | -43.5168 | 2024-12-17 05:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 81.2 |
-| 6eb99e07-7af6-3c7a-b7ad-d791210b2d00 | -6.9349 | -43.4934 | 2024-12-17 05:20:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 71.6 |
-| 99996b0f-11a3-39c5-9503-15a7d110af35 | -5.0936 | -43.9176 | 2024-12-17 05:20:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 82.0 |
-| 94751f5b-36c6-3e29-ab6c-2789cc6bacf8 | 4.4435 | -60.9846 | 2024-12-17 05:20:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 68.5 |
-| 43887416-d66f-36d8-b470-0129110271e5 | 4.4435 | -60.9846 | 2024-12-17 05:30:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 73.6 |
-| 1908575e-d1c2-390b-90be-a18f0b82e1bb | -5.0936 | -43.9176 | 2024-12-17 05:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 71.8 |
-| c57eb070-d7fe-34a1-9798-b3780c4556b8 | -3.2968 | -53.3749 | 2024-12-17 05:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| 7622e8c5-4c6b-37dc-b508-f99dea27649a | 4.4618 | -60.9842 | 2024-12-17 05:40:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 88.2 |
-| 3104758a-f338-3fa2-902d-ea7f03d1a679 | -3.2968 | -53.3749 | 2024-12-17 05:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 54.3 |
-| 4fb160a3-9c7e-3b3c-aad2-9d3499f9e4f1 | -5.0936 | -43.9176 | 2024-12-17 05:40:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 73.4 |
-| 0e31939c-12b1-3454-a0da-0790402bfab9 | 4.4435 | -60.9657 | 2024-12-17 05:40:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| b3e0a101-7438-30f7-bbdb-a183f4c3ad85 | 4.4435 | -60.9846 | 2024-12-17 05:40:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 134.7 |
-| 7dacd57f-a0cc-3791-a21e-adb590dc81c2 | 4.4251 | -60.9851 | 2024-12-17 05:50:00 | GOES-16 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 64.7 |
+| e7f6ee1a-f403-33ec-b7ba-3b4383bba52c | -19.13265 | -52.71098 | 2025-06-19 12:29:00 | TERRA_M-T | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| e9c14335-b6cd-3f39-971d-788a2d5322ee | -16.33224 | -53.94313 | 2025-06-19 12:29:00 | TERRA_M-T | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 775e6d7a-947b-3178-b1de-7d36d1196d2b | -15.10393 | -54.65211 | 2025-06-19 12:29:00 | TERRA_M-T | CAMPO VERDE | MATO GROSSO | Brasil | 5102678 | 51 | 33 | nan | nan | nan | Cerrado | 18.1 |
+| 6ecf09ce-080e-3b00-a88b-2095839e7471 | -16.31857 | -53.81052 | 2025-06-19 12:29:00 | TERRA_M-T | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 163.7 |
+| dae1fa03-2480-3523-bee1-980448e437e1 | -13.99348 | -58.11561 | 2025-06-19 12:29:00 | TERRA_M-T | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 35.6 |
+| 6cb75b3a-2707-3f46-8006-69a0d6cbd57d | -16.3185 | -53.8094 | 2025-06-19 12:30:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 148.5 |
+| d0203bc6-98c7-32cb-865a-13dc8f1de32b | -11.4602 | -47.2883 | 2025-06-19 12:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 79.8 |
+| 9c9d3d3e-de8a-3a7d-afd3-58c16f9b82ac | -8.5911 | -51.5537 | 2025-06-19 12:30:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 90.4 |
+| a567ae82-9fd6-3e1c-8662-9dd7ab8c5e12 | -16.3189 | -53.7883 | 2025-06-19 12:30:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 88.7 |
+| 90df2a5f-40af-3977-ad75-66fef97a1cb3 | -4.8375 | -43.1919 | 2025-06-19 12:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 137.6 |
+| 7cca473c-a8e7-30c4-b9cf-02a9014e1542 | -11.4793 | -47.2858 | 2025-06-19 12:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| 65b93872-fa33-3859-8104-2dafcadf0814 | -4.8375 | -43.1919 | 2025-06-19 12:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 166.7 |
+| cd9123da-98e2-3e2f-81c8-c09ef6b48850 | -16.3189 | -53.7883 | 2025-06-19 12:40:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 80.1 |
+| 0511ed69-2bf3-3caa-8517-674e636ff8b8 | -11.5366 | -56.9847 | 2025-06-19 12:40:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 1e0874a1-c2d8-30c7-b429-9df2a6600cc1 | -11.4602 | -47.2883 | 2025-06-19 12:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 117.1 |
+| 55984a76-5dfc-30e7-811a-937a75ae8d69 | -8.5911 | -51.5537 | 2025-06-19 12:40:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 80.8 |
+| 0bc21f5f-c48e-35e2-a197-bf809720f2c0 | -11.4793 | -47.2858 | 2025-06-19 12:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 83.8 |
+| 339ceaa9-4a64-3256-9aef-a1ff6125065a | -16.3185 | -53.8094 | 2025-06-19 12:40:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 119.4 |
+| 7bb76ed6-6b15-3b81-b017-5453ffb9616d | -16.3185 | -53.8094 | 2025-06-19 12:50:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 156.4 |
+| 8fd4951f-101e-3d66-afa1-5c28298597af | -8.5911 | -51.5537 | 2025-06-19 12:50:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| cc1578dc-882c-348f-bc4f-a8a20178eea1 | -4.8375 | -43.1919 | 2025-06-19 12:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 157.0 |
+| 8dfebace-922f-3821-adac-da58cc862242 | -16.3189 | -53.7883 | 2025-06-19 12:50:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 88.2 |
+| e167eef6-dd82-3f2a-9ffd-9421aee4e984 | -11.4602 | -47.2883 | 2025-06-19 12:50:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 115.8 |
+| f1cfc1b6-1d6e-358a-8605-a15ea04f4d9c | -10.8353 | -54.0112 | 2025-06-19 12:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 66.5 |
+| f6b1e166-87af-36ce-a269-ec0670456f48 | -11.4793 | -47.2858 | 2025-06-19 12:50:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 106.9 |
+| b79d29d9-659d-3e4c-b790-faba8de36372 | -11.5366 | -56.9847 | 2025-06-19 12:50:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 76.6 |
+| 0703bfac-624d-3629-8594-ca362e63288b | -16.3189 | -53.7883 | 2025-06-19 13:00:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| c47d0ec4-e8a7-3554-9c6b-6f35c7ecde72 | -11.5366 | -56.9847 | 2025-06-19 13:00:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 83.7 |
+| 6da0e833-b258-3206-ac3a-edbbc2d5ebb6 | -8.5911 | -51.5537 | 2025-06-19 13:00:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 68.0 |
+| 60454fd3-0e4c-3ff9-a4ad-f505591535b0 | -11.7754 | -54.3756 | 2025-06-19 13:00:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 74.7 |
+| 2fda46ea-a095-3338-9eb2-d865c27fafff | -11.4793 | -47.2858 | 2025-06-19 13:00:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 123.1 |
+| 5b95917e-29fc-3a18-926a-deb472e2f76d | -16.3185 | -53.8094 | 2025-06-19 13:00:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 153.7 |
+| 05cdbd12-4ac7-355e-8006-d4951241c2dd | -4.8375 | -43.1919 | 2025-06-19 13:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 180.1 |
+| f91119c7-a8eb-318a-aa05-dda94f653be9 | -16.3381 | -53.8067 | 2025-06-19 13:00:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 73.6 |
+| 864e62fa-d085-33ed-a708-891f3f7c4c56 | -11.4602 | -47.2883 | 2025-06-19 13:00:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 174.2 |
+| bf51bac0-ac88-35b4-bd73-859cc3ca218e | -10.8353 | -54.0112 | 2025-06-19 13:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 70.0 |
+| 61385137-b023-3d5e-8ea7-51c81537e54f | -4.8562 | -43.1907 | 2025-06-19 13:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 88.1 |
+| 693a844a-4d07-3511-aa10-233e7703bf5a | -11.5366 | -56.9847 | 2025-06-19 13:10:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 97.5 |
+| e08ec773-a3fa-30d0-b2f6-a45d3058d9e3 | -8.5911 | -51.5537 | 2025-06-19 13:10:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 71.9 |
+| ece38f88-0ae5-30f8-8081-622eead3667d | -16.3185 | -53.8094 | 2025-06-19 13:10:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 152.7 |
+| 8583e678-710e-306e-ad31-50a37b5aabaf | -16.3189 | -53.7883 | 2025-06-19 13:10:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 112.3 |
+| 59f65736-cfa2-3b86-82bc-20ddbe7cb6ac | -11.4602 | -47.2883 | 2025-06-19 13:10:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 212.1 |
+| aa3cfcfd-d47b-3a91-b045-ee3c88b319f6 | -11.4793 | -47.2858 | 2025-06-19 13:10:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 183.9 |
+| 21d0ff8a-5e3f-3a21-b22e-bf20237925e5 | -11.7754 | -54.3756 | 2025-06-19 13:10:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 74.6 |
+| c33b902f-1731-32ac-bea4-ddc55e29c299 | -4.8375 | -43.1919 | 2025-06-19 13:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 236.5 |
+| 7cae2529-f305-3fef-a9bd-2b2b979d7a11 | -4.8562 | -43.1907 | 2025-06-19 13:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 104.4 |
+| 37657ffa-98d7-3462-a359-0e2a6a517307 | -16.3189 | -53.7883 | 2025-06-19 13:20:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 162.8 |
+| 16c27180-7d6d-39b7-b00a-d7da6b89006b | -11.4602 | -47.2883 | 2025-06-19 13:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 232.3 |
+| e74f7afe-9b41-356f-9289-efaa5280b701 | -11.7754 | -54.3756 | 2025-06-19 13:20:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 74.8 |
+| c8ab4555-a001-3d15-9ea6-b82b3c145ebe | -16.3185 | -53.8094 | 2025-06-19 13:20:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 206.9 |
+| add7d69c-b6b7-34dd-afef-f020e8375a8b | -10.8353 | -54.0112 | 2025-06-19 13:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 70.0 |
+| 0b8d7646-c595-3d21-8fd4-735007b08f49 | -4.8375 | -43.1919 | 2025-06-19 13:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 264.0 |
+| b78cc410-1913-3e63-b921-cc7f56ac199e | -11.5366 | -56.9847 | 2025-06-19 13:20:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 90.2 |
+| c068cc21-13d2-3eaf-9d6d-445c797eec72 | -11.4793 | -47.2858 | 2025-06-19 13:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 200.4 |
+| b6d400c7-c92a-3b6d-8e9c-be49124489db | -11.7754 | -54.3756 | 2025-06-19 13:30:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 74.7 |
+| 0366e59a-6c65-3cf4-842e-9aa1ef6d8459 | -11.5366 | -56.9847 | 2025-06-19 13:30:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 63.1 |
+| 038f2ce1-a32f-3987-9f05-50535738a624 | -4.8375 | -43.1919 | 2025-06-19 13:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 213.8 |
+| 8c252723-263c-30d1-9791-b8950cdc177b | -11.4602 | -47.2883 | 2025-06-19 13:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 119.7 |
+| ba941039-7395-3f91-9d81-acc9b7ecc80f | -11.4793 | -47.2858 | 2025-06-19 13:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 263.8 |
+| bf8ade1e-acdc-3c0b-a703-7b5dfb03ea01 | -11.5177 | -56.9862 | 2025-06-19 13:30:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 79.1 |
+| afe3b182-7ee3-34c8-9d5b-8491d4d7e436 | -16.3189 | -53.7883 | 2025-06-19 13:30:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 150.1 |
+| e181eb43-5b56-31c2-9645-8692fdedc0d8 | -16.3185 | -53.8094 | 2025-06-19 13:30:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 225.1 |
+| 90302ed1-8197-3125-99a8-ca30fd8e5e5b | -10.8353 | -54.0112 | 2025-06-19 13:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 96.8 |
+| a0016cbe-e869-3494-9f7b-0f812d43623b | -4.8562 | -43.1907 | 2025-06-19 13:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 139.8 |
+| 4b679447-f6fc-3776-8721-5ee420864142 | -6.6935 | -43.2117 | 2025-06-19 13:40:00 | GOES-19 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Caatinga | 75.4 |
+| 895f72e2-1063-3c08-a557-86aae8e9bd23 | -4.8375 | -43.1919 | 2025-06-19 13:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 302.4 |
+| af93ee56-5274-32db-9261-11b9e0761cf8 | -9.4994 | -56.0788 | 2025-06-19 13:40:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 59.7 |
+| 01819f77-0dd8-3c9e-bb37-6cc9cfd2287f | -16.3381 | -53.8067 | 2025-06-19 13:40:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 81.2 |
+| 69a24342-9131-3235-9f6d-09822fcab361 | -16.3189 | -53.7883 | 2025-06-19 13:40:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 132.8 |
+| 2a88ec55-c47b-38e0-bcea-82f3ecf22199 | -11.4793 | -47.2858 | 2025-06-19 13:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 184.2 |
+| 473ba0d4-2cd8-35ac-bc5d-6032742cde17 | -16.3185 | -53.8094 | 2025-06-19 13:40:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 176.9 |
+| 1d03f23a-1e16-39d7-aab9-928cf8b0a447 | -16.3385 | -53.7856 | 2025-06-19 13:40:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| 13c2336d-78a1-398a-aa9a-239ceddc3d8c | -11.5366 | -56.9847 | 2025-06-19 13:40:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 94.8 |
+| da2f5ad0-1833-3f3f-83ad-770afaeede60 | -11.4602 | -47.2883 | 2025-06-19 13:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 194.6 |
+| b2539db0-1198-30a3-8d24-c3f0f7a7df66 | -9.0021 | -46.9079 | 2025-06-19 13:40:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 68.5 |
+| 794cda20-85b9-30e4-8b00-56c1e8acdd22 | -10.8353 | -54.0112 | 2025-06-19 13:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 75.1 |
+| 779df6c2-7e39-362d-a0f5-e908104c99b2 | -12.2412 | -44.2277 | 2025-06-19 13:50:00 | GOES-19 | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 69.3 |
+| 7e2e912a-952f-3c1a-9fd3-1e61d1a91e13 | -20.274 | -55.4927 | 2025-06-19 13:50:00 | GOES-19 | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 1b86ab11-2a0f-3652-a487-ddf2d60ea5d6 | -9.4994 | -56.0788 | 2025-06-19 13:50:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 61.7 |
+| 9bad2144-a83d-3d61-9abf-1baa8b2adf30 | -7.3162 | -44.7056 | 2025-06-19 13:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 209.9 |
+| 5518becc-3fa8-3a7a-81b0-dd4782c05947 | -6.6747 | -43.2133 | 2025-06-19 13:50:00 | GOES-19 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Caatinga | 69.1 |
+| 9fce1e89-bbc1-325b-8f18-2cf31bde077d | -9.0021 | -46.9079 | 2025-06-19 13:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 72.2 |
+| 668aa2ad-2c92-3c92-b08d-19e1f0f69bb3 | -4.8375 | -43.1919 | 2025-06-19 13:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 307.4 |
+| b91c2579-40fe-363e-8148-0f6f23881995 | -7.8626 | -47.898 | 2025-06-19 13:50:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
+| 9dc499af-80a2-38c8-a297-4c7748a50629 | -4.0148 | -43.2408 | 2025-06-19 13:50:00 | GOES-19 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 9a5cd753-3917-3181-834d-c1de28e00e08 | -11.4793 | -47.2858 | 2025-06-19 13:50:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 207.7 |
+| 4689c292-8447-3087-aecf-a7334d76148f | -10.8353 | -54.0112 | 2025-06-19 13:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 80.4 |
+| ca0d3340-e8b9-3a7c-a21c-d41ceb25ac2d | -16.3185 | -53.8094 | 2025-06-19 13:50:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 197.4 |
+| f03e512e-6e6b-3176-a823-57eacc7715cf | -11.5366 | -56.9847 | 2025-06-19 13:50:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 105.2 |
+| 56d9cb55-552a-3fde-800a-08fe5f038d26 | -16.3189 | -53.7883 | 2025-06-19 13:50:00 | GOES-19 | GUIRATINGA | MATO GROSSO | Brasil | 5104203 | 51 | 33 | nan | nan | nan | Cerrado | 163.0 |
+| e62516de-773a-3e0b-9f0c-704166912ae0 | -11.1419 | -55.1869 | 2025-06-19 13:50:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 64.0 |
+| 99b8a8aa-4c57-3bd6-b10e-f27254ba6e3f | -11.7754 | -54.3756 | 2025-06-19 13:50:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 62.1 |
+| f13935e5-1b41-301e-b902-8fd75ff928e9 | -11.4602 | -47.2883 | 2025-06-19 13:50:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 174.3 |
+| c0ae87b8-0031-322f-b126-96d4f2773707 | -9.4994 | -56.0788 | 2025-06-19 14:00:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 92.6 |
+| 01aef5be-85ed-318d-9604-c385960b7763 | -11.5366 | -56.9847 | 2025-06-19 14:00:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 118.6 |
+| 1519778c-6a8f-34f2-870d-6f1c119ce82a | -4.8375 | -43.1919 | 2025-06-19 14:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 334.7 |
+| cda3d72c-641c-3fa3-82c0-af4c1e512c83 | -10.8353 | -54.0112 | 2025-06-19 14:00:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 88.7 |
+| 73aa6bee-0eca-3066-ab0d-e8f14cd864c3 | -11.4602 | -47.2883 | 2025-06-19 14:00:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 157.5 |
+| 08e3313f-0236-399e-a542-bf9e5b069298 | -7.3162 | -44.7056 | 2025-06-19 14:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 93.8 |
+| 2dab6a72-2730-386c-a9fc-624367c9440a | -3.9961 | -43.2418 | 2025-06-19 14:00:00 | GOES-19 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 92.5 |
 
 
 [Clique aqui para ver as próximas entradas](README30.md)
