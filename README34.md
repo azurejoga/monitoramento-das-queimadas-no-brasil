@@ -29,18 +29,34 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8c376b52-e1cd-36b4-9515-68f2f75bc5d6 | -3.6296 | -42.0613 | 2024-12-17 14:30:00 | GOES-16 | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 87.6 |
-| 12c686df-fed9-36b2-b937-bbfc5668d149 | -6.0836 | -44.1454 | 2024-12-17 14:30:00 | GOES-16 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 102.1 |
-| 6c9a4f69-9a2a-3bbe-8d5d-3fff748212f0 | -3.4915 | -43.3368 | 2024-12-17 14:30:00 | GOES-16 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 117.6 |
-| 4e4b68ca-6d31-3366-8881-b1c6c9caf1ce | -4.9643 | -43.7182 | 2024-12-17 14:30:00 | GOES-16 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 206.9 |
-| e6b94bbd-d0ea-301d-84b3-0971238599dd | -6.9158 | -43.5185 | 2024-12-17 14:30:00 | GOES-16 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 51.8 |
-| fdecf181-66af-3d88-b635-ed418cf8873f | -4.8707 | -41.3639 | 2024-12-17 14:30:00 | GOES-16 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 106.2 |
-| 9f67ddfb-d770-35ca-bfdf-ab1b1215afd8 | -10.2638 | -42.3701 | 2024-12-17 14:30:00 | GOES-16 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 81.6 |
-| e04ce3e2-bedc-3f4c-aca7-84c6ea21d39c | -5.9597 | -43.3673 | 2024-12-17 14:30:00 | GOES-16 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Caatinga | 64.4 |
-| 97873358-abf5-35be-b964-ba62dcc16efb | -3.4102 | -44.6055 | 2024-12-17 14:30:00 | GOES-16 | ANAJATUBA | MARANHÃO | Brasil | 2100709 | 21 | 33 | nan | nan | nan | Amazônia | 76.6 |
-| bc615ba3-fc49-3d31-9ec8-123637b327e6 | -4.3092 | -43.8966 | 2024-12-17 14:30:00 | GOES-16 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 78.2 |
-| 821fbf29-62f5-3118-a5ab-6e71a9ec3406 | -6.961 | -42.8344 | 2024-12-17 14:30:00 | GOES-16 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 167.4 |
-| 2389f506-43f9-30dd-bf65-40471e293abf | -5.0807 | -38.8064 | 2024-12-17 14:30:00 | GOES-16 | BANABUIÚ | CEARÁ | Brasil | 2301851 | 23 | 33 | nan | nan | nan | Caatinga | 83.0 |
-| ff0ceff8-41f7-307d-b29d-c87f8a7ad73e | -6.0335 | -37.98 | 2024-12-17 14:30:00 | GOES-16 | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 97.0 |
+| dcdd96ca-6ce4-3f8d-b4b7-1d7b784a6e76 | -5.9028 | -43.4418 | 2025-06-27 14:30:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 84.2 |
+| ba09ef09-d6c6-3417-a34c-b9f71d76d6f2 | -11.1903 | -55.9101 | 2025-06-27 14:30:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 144.7 |
+| 4b0ad835-d8f2-37b8-9637-a3ea1056a0ef | -10.8196 | -53.7459 | 2025-06-27 14:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 90.9 |
+| 51611384-2bb8-37c4-a176-1556746e856a | -10.3128 | -57.1367 | 2025-06-27 14:30:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| 1f0e5448-a6fd-3ebc-bfeb-c263ececda5f | -10.2653 | -44.6298 | 2025-06-27 14:30:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| 77ac05fb-2207-3f2f-93dd-91bd6e462ba8 | -10.6129 | -46.725 | 2025-06-27 14:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 77.6 |
+| e9cb5a6b-49d5-3d71-9d6c-560071235c30 | -10.2941 | -57.138 | 2025-06-27 14:30:00 | GOES-19 | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 69.4 |
+| a16d1812-1e54-3c55-9ba8-cd8ff73a4576 | -5.9216 | -43.4403 | 2025-06-27 14:30:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 83.0 |
+| 5b761546-e5e9-3352-a59b-6675cbcbee13 | -11.546 | -47.8772 | 2025-06-27 14:30:00 | GOES-19 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 196.3 |
+| fbb09044-193f-307f-8478-761d0bdb6a61 | -11.5779 | -52.115 | 2025-06-27 14:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 90.7 |
+| b9bc7d8d-e50e-36ab-b1bd-33e5ffb269b6 | -10.6319 | -46.7226 | 2025-06-27 14:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 197.0 |
+| 7e98ae95-f7bd-34b1-ba57-6c391e65e4d0 | -10.8196 | -53.7459 | 2025-06-27 14:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 100.7 |
+| 3890b75a-1f2c-36ed-8799-84b84e3f7071 | -10.384 | -46.7977 | 2025-06-27 14:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| 65dab298-d479-3836-bc16-ceb2c82f69bc | -5.9216 | -43.4403 | 2025-06-27 14:40:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 100.3 |
+| a23d53e2-36e7-39ae-8ed7-a8cf40e2bb58 | -10.6129 | -46.725 | 2025-06-27 14:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 120.5 |
+| fb8b80e3-43d9-3dcc-9094-2e15729d0e10 | -11.19 | -55.9303 | 2025-06-27 14:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 201.8 |
+| d89dc6b7-904d-39d5-9995-85f09b21c1a7 | -5.9213 | -43.4636 | 2025-06-27 14:40:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 103.7 |
+| e7bf34d5-aeb0-399a-b729-836f2b75dff3 | -11.4337 | -54.4689 | 2025-06-27 14:40:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 54.5 |
+| f1a12a61-b567-3d12-a55e-d97f7d988f2f | -8.5722 | -51.5761 | 2025-06-27 14:40:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 59.6 |
+| 0d55106a-0749-3f8c-ad9f-0cce55700a3d | -11.1903 | -55.9101 | 2025-06-27 14:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 118.1 |
+| 48c90407-fc8c-3930-9e4d-b2addb51890a | -11.5779 | -52.115 | 2025-06-27 14:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 89.4 |
+| 2146fc50-d06b-3459-b629-0dee7d1ebece | -10.8198 | -53.7253 | 2025-06-27 14:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 65.3 |
+| cf40638c-f389-33d3-a886-3086a4a5c605 | -11.546 | -47.8772 | 2025-06-27 14:40:00 | GOES-19 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 181.1 |
+| 1414c526-76ba-39a8-a5c9-3467b7fcae96 | -8.8499 | -50.1616 | 2025-06-27 14:40:00 | GOES-19 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| ece949a6-93fc-34ba-b5fb-cbe1e0f7f23d | -10.2941 | -57.138 | 2025-06-27 14:40:00 | GOES-19 | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 71.5 |
+| f46e80f3-e60e-3acf-a4ff-c2325a4625de | -5.9028 | -43.4418 | 2025-06-27 14:40:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 86.8 |
+| 184265ea-94c1-3582-afa4-bc31f68eb461 | -5.9026 | -43.4651 | 2025-06-27 14:40:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| 98c21b44-f081-3455-a07b-b5485a75edb1 | -10.8385 | -53.7442 | 2025-06-27 14:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 57.8 |
+| b8630bd2-0c0b-3f16-826b-48079e151f50 | -10.6323 | -46.7001 | 2025-06-27 14:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 121.1 |
 
 
