@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| fc9877a4-54a8-34ea-b707-e30b87353fce | -6.9605 | -42.8816 | 2025-06-27 02:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 348.3 |
-| 864caa9c-6d30-39cc-ad7a-c71c384fd217 | -11.559 | -52.117 | 2025-06-27 02:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 146.5 |
-| 1517f168-f3be-3a0e-83eb-011ce76a0f24 | -6.9793 | -42.8798 | 2025-06-27 02:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 142.0 |
-| 5518fb23-f1de-35cf-a92c-65b61bdbf9a0 | -6.9416 | -42.8834 | 2025-06-27 02:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 65.2 |
-| 9ea05e1b-f266-3b0c-8751-94432cebfe02 | -11.0644 | -55.3757 | 2025-06-27 02:00:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 72.9 |
-| 397d2acf-2fab-3ede-8e46-883d2410c42a | -8.6097 | -51.5731 | 2025-06-27 02:00:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 122.9 |
-| f9235212-80d4-36af-9c5a-0b39286210a9 | -11.5969 | -52.113 | 2025-06-27 02:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 110.6 |
-| 27c936b4-bbf8-3d5b-9b55-39c755fd4f99 | -6.1789 | -48.0929 | 2025-06-27 02:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 144.8 |
-| 0b374cc4-cff0-3215-bf3f-c3d5274e9cee | -6.1791 | -48.0712 | 2025-06-27 02:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 85.9 |
-| f3dace2b-6cd9-39c3-8b37-fa80b09b0d54 | -7.2219 | -43.0682 | 2025-06-27 02:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 78.0 |
-| 2d35d492-27ae-34f9-b8d4-7ae2c53484a7 | -11.5779 | -52.115 | 2025-06-27 02:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 535.9 |
-| 449656c5-ec7f-3e86-934c-29d785c2197c | -6.9602 | -42.9052 | 2025-06-27 02:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 293.9 |
-| 2a230032-4017-32d9-b74b-00dad507982c | -8.6282 | -51.5925 | 2025-06-27 02:00:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 46.0 |
-| fd4244d9-2c7f-35e0-aab1-c118b624fd9a | -7.2031 | -43.0701 | 2025-06-27 02:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 73.9 |
-| 8f12121a-feaf-3e26-9d87-2b981bd3bb02 | -10.71143 | -59.14719 | 2025-06-27 02:00:00 | TERRA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 20.3 |
-| 21bc3de1-79f0-3c24-8b38-cad585814700 | -11.5779 | -52.115 | 2025-06-27 02:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 503.4 |
-| c21963c8-7692-3cfa-9cbe-48759684a970 | -6.1791 | -48.0712 | 2025-06-27 02:10:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 72.5 |
-| 65757d81-af1d-32b6-9141-c7d24be5774c | -11.5776 | -52.136 | 2025-06-27 02:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 112.6 |
-| d710a0f2-b1d6-303f-bc91-4bfbd8a7bbec | -8.6097 | -51.5731 | 2025-06-27 02:10:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 105.3 |
-| 52de34b9-cc45-3851-8cf6-ca620df83b24 | -6.9793 | -42.8798 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 133.4 |
-| 1a1c7e52-4ec0-39be-b577-fc7ace6c63e2 | -11.5592 | -52.096 | 2025-06-27 02:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 45.4 |
-| 6075150a-c885-3cc6-9fd5-cec8412c6248 | -8.6282 | -51.5925 | 2025-06-27 02:10:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 46.3 |
-| 4d36b1c2-8ef3-30ed-868f-a06e9af795b0 | -11.5782 | -52.094 | 2025-06-27 02:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 121.2 |
-| 264068e3-4eb9-3f1d-b922-bf7f7dbea67e | -11.0644 | -55.3757 | 2025-06-27 02:10:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 70.4 |
-| fe80a146-df5a-32f6-bbf8-60c9dc03dbaf | -11.559 | -52.117 | 2025-06-27 02:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 156.0 |
-| 3bb00109-1dfe-36ac-ac03-a7e8e26c9f82 | -6.9602 | -42.9052 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 301.2 |
-| 0b060c2a-d69d-33b8-91c5-cd3a4076d18f | -6.9416 | -42.8834 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 72.0 |
-| 8e531cc6-f9da-306c-ac2c-dbb8ea164b3f | -8.6284 | -51.5716 | 2025-06-27 02:10:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 82.7 |
-| 7605bc9e-ce9e-3dfb-8ec6-bb3e1a00142d | -6.9414 | -42.907 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 69.2 |
-| b85998cc-9138-3db8-9669-148dd53ea438 | -6.9605 | -42.8816 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 326.5 |
-| d0ae1dbc-d82a-3c2b-8b52-7a53987c9e7c | -6.1789 | -48.0929 | 2025-06-27 02:10:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 132.4 |
-| dd9a0f47-15a6-3b6e-aff2-7164550f7fec | -8.6094 | -51.594 | 2025-06-27 02:10:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 65.9 |
-| 20137568-8fd4-3221-972c-99346a0f818a | -6.9791 | -42.9034 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 130.7 |
-| 37b52214-b7a7-3f4a-8b66-467b6649a594 | -11.5969 | -52.113 | 2025-06-27 02:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 106.7 |
-| 7290e511-8720-3b9c-b9f2-bec1e781d5db | -7.2219 | -43.0682 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 67.5 |
-| d08b3da6-017d-3a13-825a-82d4d3e86608 | -7.2031 | -43.0701 | 2025-06-27 02:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 75.7 |
-| 3b0cad4d-a687-3b06-931f-e2af396b5ff0 | -6.9791 | -42.9034 | 2025-06-27 02:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 147.4 |
-| f3615da2-a644-3b88-845a-663266402b75 | -11.5969 | -52.113 | 2025-06-27 02:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 103.2 |
-| 341ca12e-908d-38b5-a773-e7ee2ed5b236 | -8.6097 | -51.5731 | 2025-06-27 02:20:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 86.6 |
-| f7c5fba6-d34d-33f5-b334-301047fc08cd | -6.1789 | -48.0929 | 2025-06-27 02:20:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 122.8 |
-| 9ea7d0af-2fc2-380b-a3ce-881d82702fcb | -6.1791 | -48.0712 | 2025-06-27 02:20:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 68.4 |
-| 068451dd-5206-39d5-ad09-ee092465652b | -6.9793 | -42.8798 | 2025-06-27 02:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 126.9 |
-| d2653d8e-d888-394c-9617-902ba579178b | -8.6094 | -51.594 | 2025-06-27 02:20:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 54.5 |
-| f00b3af1-272d-3019-ba09-6caef846ad16 | -7.2219 | -43.0682 | 2025-06-27 02:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 69.4 |
-| fdc070c5-0fb5-3678-ac74-2d039ea3f55b | -7.2031 | -43.0701 | 2025-06-27 02:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 66.4 |
-| 7669d534-6681-3e42-b7f5-670928739338 | -8.6284 | -51.5716 | 2025-06-27 02:20:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 67.5 |
-| 63673832-1f8e-342c-b8c7-9905fa4ea643 | -6.9602 | -42.9052 | 2025-06-27 02:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 328.9 |
-| adaf5652-b699-358f-986d-72e415f6c061 | -11.5782 | -52.094 | 2025-06-27 02:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 122.5 |
-| b1e4c42a-03b0-3f9b-9c23-9db0f73ee078 | -11.0644 | -55.3757 | 2025-06-27 02:20:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 66.8 |
-| 06180dbc-42de-3c3a-879b-e2a3e6714792 | -6.9605 | -42.8816 | 2025-06-27 02:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 298.0 |
-| 5ea1860f-67c8-3b88-a372-c4898356d44a | -11.5776 | -52.136 | 2025-06-27 02:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 102.6 |
-| ab63865d-92ac-39c7-889c-c3d09821f608 | -11.5779 | -52.115 | 2025-06-27 02:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 506.4 |
-| 3aa429fb-87fd-3987-88fa-d199c047d868 | -11.559 | -52.117 | 2025-06-27 02:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 137.2 |
-| 3fab664c-7867-3179-9e40-0582f75d14dd | -11.5969 | -52.113 | 2025-06-27 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 102.6 |
-| d8d8952e-2760-37b4-856c-2c487014ad8b | -6.9602 | -42.9052 | 2025-06-27 02:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 314.0 |
-| 1b6e245a-bd55-30f4-9f1e-5165a922e9af | -6.1791 | -48.0712 | 2025-06-27 02:30:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 72.6 |
-| 64a6b42a-4844-3227-9330-a90dc9dd00d3 | -6.9793 | -42.8798 | 2025-06-27 02:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 136.9 |
-| 8fb269dc-ee39-3bf7-8dcf-f7b8fa1cc268 | -8.6097 | -51.5731 | 2025-06-27 02:30:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 81.1 |
-| a8c6dc69-f00a-39a1-8a0f-7d81513dcce9 | -7.2219 | -43.0682 | 2025-06-27 02:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 64.1 |
-| ff2b8cf9-1c16-3bcc-8db3-b4bc17b52d03 | -6.9791 | -42.9034 | 2025-06-27 02:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 139.1 |
-| 92320d3b-12bf-3058-bfc7-82e2385faaaa | -6.9605 | -42.8816 | 2025-06-27 02:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 343.5 |
-| cf653601-5c5d-3160-8e42-4a65a1a91ed8 | -11.5782 | -52.094 | 2025-06-27 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 147.5 |
-| 3bd74d38-a418-3cf5-9c70-2aa5542df2ed | -11.559 | -52.117 | 2025-06-27 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 121.5 |
-| 1ba27c98-721e-3d55-956f-60cc163a4974 | -6.1789 | -48.0929 | 2025-06-27 02:30:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 91.1 |
-| bd047e84-f1dd-350b-ba04-a50e8321f97d | -11.5776 | -52.136 | 2025-06-27 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 112.5 |
-| ff554010-df77-336b-937e-5dd9705626c4 | -11.0644 | -55.3757 | 2025-06-27 02:30:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 58.8 |
-| a829c464-c80d-3d35-be8a-b866e6b2950d | -11.5592 | -52.096 | 2025-06-27 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 47.2 |
-| bc5c6f02-f2b9-3f67-98e2-14debd747afb | -11.5779 | -52.115 | 2025-06-27 02:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 428.1 |
-| 80703164-08ec-34ef-83a6-fff74103558d | -8.6284 | -51.5716 | 2025-06-27 02:30:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| ffe88b1c-912a-3f9d-abbb-990e8d7a1d48 | -6.9602 | -42.9052 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 323.8 |
-| b1fd579c-706f-3c08-a04b-b67e18da65af | -6.9416 | -42.8834 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 63.1 |
-| 66331bbf-3515-3f36-ad00-212f0924cfe8 | -7.2031 | -43.0701 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 69.5 |
-| 7a3a74be-d72d-38c4-8a99-c33b351a91d7 | -11.5776 | -52.136 | 2025-06-27 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 103.8 |
-| b418477d-928f-3c89-8b15-ad7799af7334 | -11.5782 | -52.094 | 2025-06-27 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 175.6 |
-| 73b3c1ca-cfff-3899-92c4-ff9eb04cc42f | -8.6097 | -51.5731 | 2025-06-27 02:40:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| 70cdcc86-a870-31f3-a7ba-0a7fb24d66d5 | -6.9605 | -42.8816 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 285.2 |
-| ce5c5446-493e-3987-8e73-964318de5234 | -11.559 | -52.117 | 2025-06-27 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 85.5 |
-| 7dba996b-62ba-36ad-bc5e-b0ad97aadc5d | -8.6284 | -51.5716 | 2025-06-27 02:40:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 54.4 |
-| 561836ee-63f0-3ff9-aa92-3dfdfe03dd52 | -11.5969 | -52.113 | 2025-06-27 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| e42f9cfd-3539-3bbe-91d8-09976f2f9b0c | -6.1789 | -48.0929 | 2025-06-27 02:40:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 94.8 |
-| f28b825d-67f0-31b1-8194-5407c7943de6 | -6.9791 | -42.9034 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 165.0 |
-| 9697f70e-380f-386c-afbf-e7c680cbc23c | -11.5779 | -52.115 | 2025-06-27 02:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 466.9 |
-| a3fd6389-12f1-381f-85b0-d5ae46d25e3e | -6.9414 | -42.907 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 72.6 |
-| a49bdb86-b39c-3ea6-b4df-8faf7598b75f | -6.1791 | -48.0712 | 2025-06-27 02:40:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| 3da81496-4bef-3eb0-9c21-0e2387b121da | -6.9793 | -42.8798 | 2025-06-27 02:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 142.4 |
-| 6767f3ac-87cc-3dbd-8830-1617a57b91e0 | -11.0644 | -55.3757 | 2025-06-27 02:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| 3d0b9b2c-0822-30af-874d-acecaf9730cd | -11.0644 | -55.3757 | 2025-06-27 03:00:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 56.0 |
-| fda2db1f-9aec-30b1-9895-096dcdb2dfb6 | -6.9793 | -42.8798 | 2025-06-27 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 141.1 |
-| 5eda5510-cadb-3c11-a5b7-985431dc52e9 | -11.559 | -52.117 | 2025-06-27 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 161.2 |
-| bd06833a-87be-36a1-b731-eb0b8cbbaba4 | -11.5779 | -52.115 | 2025-06-27 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 365.6 |
-| 9a0fee15-6323-35dd-8835-0ad19c523954 | -6.1789 | -48.0929 | 2025-06-27 03:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 70.0 |
-| 6874b347-3028-3f78-8ee2-f27ebf583b3c | -6.9791 | -42.9034 | 2025-06-27 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 138.6 |
-| 36e29d5c-8887-3e76-be7f-829e4ecfe01f | -6.9414 | -42.907 | 2025-06-27 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 68.1 |
-| e20a2499-b955-390d-9903-63106e0cfd2c | -6.9416 | -42.8834 | 2025-06-27 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 71.0 |
-| d5570335-08f9-3a4d-9c58-0bd57c9fbfbf | -8.6097 | -51.5731 | 2025-06-27 03:00:00 | GOES-19 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 53.4 |
-| 78b89c7a-5d2d-3bcb-8f82-7f9ebb5688b8 | -6.9602 | -42.9052 | 2025-06-27 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 360.9 |
-| 2266c7cf-5bb6-3c77-aba4-b964f31d7bd4 | -6.9605 | -42.8816 | 2025-06-27 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 393.9 |
-| 98240f08-5a1d-3997-b97c-c3b66b902d7d | -11.5782 | -52.094 | 2025-06-27 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 99.6 |
-| bd22f6b7-20a5-32f3-8174-e9d7d024d3ab | -11.5969 | -52.113 | 2025-06-27 03:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 95.0 |
-| 60ed0cf8-ba66-3ee5-bd16-8aedaae8cece | -6.1791 | -48.0712 | 2025-06-27 03:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 47.7 |
+| ba1a698e-5935-361d-b139-e0a53ce77c33 | -9.1205 | -49.4958 | 2025-06-28 01:10:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 144.5 |
+| bb6fb7e3-f2a0-394f-a31b-51e8caef54e2 | -11.0266 | -55.3789 | 2025-06-28 01:10:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| 78a5d3c7-bb7b-3dd1-8e55-3446837c2140 | -7.2028 | -43.0936 | 2025-06-28 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 71.5 |
+| 8aeb61b2-f5ff-372c-bc72-8118fb29f34b | -7.2217 | -43.0917 | 2025-06-28 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 139.6 |
+| f51bd6fa-d66a-3902-aacb-f1030df05ce5 | -7.2031 | -43.0701 | 2025-06-28 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 88.0 |
+| 6b223cc0-9a73-310f-80e6-388572f2f4ac | -6.9108 | -43.9834 | 2025-06-28 01:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 197.8 |
+| 5c5e8c0c-1182-3af6-9b03-6ce707913bbd | -12.2715 | -46.7739 | 2025-06-28 01:10:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 58.9 |
+| c93536a2-0f31-30ba-aa50-bea0d80b3246 | -11.0457 | -55.3571 | 2025-06-28 01:10:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 102.7 |
+| 53bcfd7e-26a3-328f-ab8d-8bb2138af952 | -11.0453 | -55.3976 | 2025-06-28 01:10:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| 5891c70e-77f0-393d-b036-4539a44d7223 | -9.1208 | -49.4743 | 2025-06-28 01:10:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 132.4 |
+| 83bb5f54-91b8-3b40-8151-893e0f8fa93b | -9.7041 | -56.1843 | 2025-06-28 01:10:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 87.2 |
+| 83841414-3d57-3a28-b362-5153656dbf9b | -9.1017 | -49.4976 | 2025-06-28 01:10:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 75.0 |
+| 77788699-9f98-3ac8-b7dc-006bec2b755a | -10.8382 | -53.7648 | 2025-06-28 01:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 45.7 |
+| ff9f3326-9017-3d38-ab43-e8c1bbc7eabe | -11.2853 | -52.7508 | 2025-06-28 01:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 78.6 |
+| 54e76dff-4548-3a13-8778-ca397543f349 | -11.2664 | -52.7527 | 2025-06-28 01:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 176.8 |
+| 1a2d11fd-ef2d-3efa-ae0d-a1a8f683653f | -6.911 | -43.9602 | 2025-06-28 01:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| 5edacc7a-b379-3a8b-bc92-17ecd2b93a8e | -11.0455 | -55.3773 | 2025-06-28 01:10:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 388.8 |
+| 24b9c2d1-4bb5-31e8-9429-819d8bd823dc | -9.7228 | -56.183 | 2025-06-28 01:10:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 101.9 |
+| 46de832a-8352-3fe6-91ac-6c3a0812fc76 | -7.2219 | -43.0682 | 2025-06-28 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 139.9 |
+| 5b0538a2-6f9a-3344-b22c-f086cad77761 | -9.1208 | -49.4743 | 2025-06-28 01:20:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 100.6 |
+| 7b76d239-b4d8-34d4-8b79-65d8893e12e5 | -12.2523 | -46.7766 | 2025-06-28 01:20:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 53.4 |
+| 7ab81127-c888-3dd9-8ee2-489b8f4fbe0f | -12.2715 | -46.7739 | 2025-06-28 01:20:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| 5dbe194f-3108-36c9-a0c0-e1d820af1c97 | -9.7228 | -56.183 | 2025-06-28 01:20:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 99.5 |
+| 51876e0f-3316-3b65-b5f4-cc90133a90ac | -6.8922 | -43.9619 | 2025-06-28 01:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 53.4 |
+| e379630e-b7e5-32c7-bf1b-0d7afec16dbd | -6.892 | -43.9851 | 2025-06-28 01:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 138.6 |
+| 8fda4b04-27b9-3c58-bdb9-6a604c840671 | -11.2853 | -52.7508 | 2025-06-28 01:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| 572cf4b0-0e94-3630-84a2-99a52d0207f5 | -9.102 | -49.4761 | 2025-06-28 01:20:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 60.6 |
+| 9e997b38-9ad6-389f-9723-21b90f3798fd | -9.1205 | -49.4958 | 2025-06-28 01:20:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 135.5 |
+| 307f2364-30de-361f-b573-dab9f9020f88 | -10.8382 | -53.7648 | 2025-06-28 01:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 50.5 |
+| 01ccc882-3cca-3ad8-ac9f-05bfe64ac69e | -11.0644 | -55.3757 | 2025-06-28 01:20:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 102.9 |
+| dbcb31e3-eaaf-3d00-be74-7d9d28f7a9fc | -7.2031 | -43.0701 | 2025-06-28 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 99.0 |
+| de0f33ac-3904-3a13-9501-98697763c5cb | -11.0457 | -55.3571 | 2025-06-28 01:20:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 128.0 |
+| 91f2dc22-2d6e-300e-b6bf-d6b8c13e9007 | -6.9416 | -42.8834 | 2025-06-28 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 86.1 |
+| 3dabea81-9b5b-3b83-9c20-b12e055bfd59 | -11.2666 | -52.7318 | 2025-06-28 01:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| cc38ab27-e31e-3db6-a7de-bad679e65d37 | -9.7041 | -56.1843 | 2025-06-28 01:20:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 110.6 |
+| 0edfe49a-0569-3e33-b12c-cc6019ee777f | -11.0455 | -55.3773 | 2025-06-28 01:20:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 302.8 |
+| 03df5cf7-e90b-35cf-820d-9dd4ad13806b | -11.0453 | -55.3976 | 2025-06-28 01:20:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 63.3 |
+| 7ea374cb-c5cf-3052-8e7d-16db166c3b35 | -9.1017 | -49.4976 | 2025-06-28 01:20:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 76.1 |
+| 9161a97f-f795-3b53-a7ed-998a0bce8b61 | -11.0266 | -55.3789 | 2025-06-28 01:20:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 66cf8ce0-d045-3426-8bd6-8b2bdf7aece6 | -6.911 | -43.9602 | 2025-06-28 01:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 55.8 |
+| 79412ad6-6e5f-373c-bdc6-a38b94f11296 | -6.9108 | -43.9834 | 2025-06-28 01:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 140.0 |
+| 9a122b4e-ab83-3837-8e45-45053b733dca | -11.2664 | -52.7527 | 2025-06-28 01:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 152.8 |
+| 2212ec40-19a4-3312-8b92-96e0b89fd1ed | -7.2217 | -43.0917 | 2025-06-28 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 100.5 |
+| ebe03434-d1f4-30bf-a03b-f084590e858b | -9.7228 | -56.183 | 2025-06-28 01:30:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 87.0 |
+| fbbe6f90-b36f-3c9f-bdcd-fc1197be3bb3 | -6.9108 | -43.9834 | 2025-06-28 01:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 146.4 |
+| 88ab64c7-de09-3805-8928-77e934b38af8 | -6.9416 | -42.8834 | 2025-06-28 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 73.0 |
+| 8f514654-c7c6-3632-a8a2-f8ea97bb4608 | -11.2666 | -52.7318 | 2025-06-28 01:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 62.3 |
+| 3ff3c33c-0e2a-337a-8947-4d3871f0c091 | -11.2853 | -52.7508 | 2025-06-28 01:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 79.8 |
+| 0cbfb8f0-01de-344e-a715-1ae095c99fd2 | -7.2031 | -43.0701 | 2025-06-28 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 84.1 |
+| 715328f8-7738-3f62-b64f-611441adda54 | -9.1208 | -49.4743 | 2025-06-28 01:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 107.5 |
+| 099e111a-136f-3a78-8434-feefcd5c1545 | -7.2028 | -43.0936 | 2025-06-28 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 76.8 |
+| ec799e5e-2502-3ff7-8d03-7019e415390d | -6.892 | -43.9851 | 2025-06-28 01:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 125.5 |
+| 2301e990-d2e4-3794-ac19-687f0c9e9515 | -9.1017 | -49.4976 | 2025-06-28 01:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| 62114d75-0edb-3c51-b916-f656687dc16b | -11.0457 | -55.3571 | 2025-06-28 01:30:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 98.6 |
+| 505fe64e-f665-3ee9-adff-f5bd8c258b1a | -11.2664 | -52.7527 | 2025-06-28 01:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 197.5 |
+| a6fb8644-cbab-32a7-a6cd-618272e8d64d | -12.2715 | -46.7739 | 2025-06-28 01:30:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 65.2 |
+| 140323ca-acc9-3dee-8b0c-28bf484177e0 | -12.2523 | -46.7766 | 2025-06-28 01:30:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 56.5 |
+| f5511b3f-6be8-3314-a41e-a36f00b4411b | -7.2219 | -43.0682 | 2025-06-28 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 127.3 |
+| de02da19-69b6-370f-9e12-bcaee4bd46b4 | -9.7041 | -56.1843 | 2025-06-28 01:30:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 86.4 |
+| 038a6978-f1ce-345d-bc86-9c87d2f09e50 | -7.2217 | -43.0917 | 2025-06-28 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 123.4 |
+| 0e5e3aaf-5630-38ee-8a69-f95215fd7ce3 | -11.0644 | -55.3757 | 2025-06-28 01:30:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 123.1 |
+| 8cb0b7cd-987b-33fc-bded-194116e124db | -11.0266 | -55.3789 | 2025-06-28 01:30:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 63.1 |
+| 3430ca3f-88d3-30bd-bbad-b5488db3f292 | -11.0455 | -55.3773 | 2025-06-28 01:30:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 315.8 |
+| 8e1151c0-8747-32aa-8162-28afaacdf28c | -9.102 | -49.4761 | 2025-06-28 01:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 58.7 |
+| c90ac634-5b87-368a-936f-584c026d4246 | -9.1205 | -49.4958 | 2025-06-28 01:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 115.2 |
+| 8ca2f6b9-b632-3074-b687-4505c4784f73 | -7.2031 | -43.0701 | 2025-06-28 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 90.6 |
+| 313acd0a-331b-398d-a445-93bc62bc7930 | -6.892 | -43.9851 | 2025-06-28 01:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 107.2 |
+| a5212204-7702-342b-a98f-77adb7da87ff | -11.2853 | -52.7508 | 2025-06-28 01:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 119.0 |
+| 2d9b33d0-d9f2-32cd-9be3-d67286fef247 | -12.2527 | -46.754 | 2025-06-28 01:40:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 52.3 |
+| 0353d4b3-d341-36f6-acc9-3adeae1af05c | -11.2856 | -52.7299 | 2025-06-28 01:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 47.7 |
+| d032c07b-b1d2-3b9d-bbb8-1e9af32eed18 | -6.9108 | -43.9834 | 2025-06-28 01:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 129.9 |
+| 9bedbc50-1b38-3553-bed0-0ffdc2d12104 | -11.0266 | -55.3789 | 2025-06-28 01:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 70.1 |
+| f0d88ca5-ac8c-338f-9265-efffe1fbbd4e | -7.2219 | -43.0682 | 2025-06-28 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 127.7 |
+| a2ddb3ac-667a-3c1b-898b-145d7caad556 | -11.0457 | -55.3571 | 2025-06-28 01:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 98.5 |
+| d7384cf0-df0b-3508-bf20-6116b35dca95 | -7.2028 | -43.0936 | 2025-06-28 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 69.7 |
+| 4d7d6e3e-a35b-3d27-9564-b236d78ee892 | -12.2523 | -46.7766 | 2025-06-28 01:40:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| ad4a38e0-7078-35d1-9563-89b187414dc3 | -11.2666 | -52.7318 | 2025-06-28 01:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 49.0 |
+| f224e694-2205-336a-b5e3-b682e2209762 | -9.7228 | -56.183 | 2025-06-28 01:40:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 87.4 |
+| a60eb7d2-706d-3359-b821-ad5af243c0a2 | -11.0455 | -55.3773 | 2025-06-28 01:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 245.3 |
+| 2d1b6972-9261-3736-b607-5ff2352e8c8f | -11.0646 | -55.3555 | 2025-06-28 01:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| bc7b21f6-4fee-30fd-b791-99727bdddf40 | -11.0644 | -55.3757 | 2025-06-28 01:40:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 122.5 |
+| ed266c21-3f70-37a6-bf41-aad91d58065c | -9.7041 | -56.1843 | 2025-06-28 01:40:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 98.1 |
+| 0c61e6ae-7a9b-3da8-94b9-fdf2a1454cf7 | -7.2217 | -43.0917 | 2025-06-28 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 104.0 |
+| 5d1c76ca-9677-3738-ac3b-76ff2fafa0eb | -9.1205 | -49.4958 | 2025-06-28 01:40:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 131.9 |
+| 17a3beb7-b075-37d4-89e4-e5890fa81b37 | -6.9416 | -42.8834 | 2025-06-28 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 70.9 |
+| f46c8644-f040-3212-90fc-0cebfa1fc989 | -11.2664 | -52.7527 | 2025-06-28 01:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 117.5 |
+| 157533d0-e31a-30b6-887b-977f6181e8b4 | -9.1208 | -49.4743 | 2025-06-28 01:40:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| 8dac143e-191e-322c-9072-60936cde0104 | -9.7228 | -56.183 | 2025-06-28 01:50:00 | GOES-19 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 82.2 |
+| bb960b2b-179e-3bf0-aefe-0bd45946f306 | -11.0457 | -55.3571 | 2025-06-28 01:50:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 77.9 |
+| 02d10cf3-bd2a-36a4-8e2b-30c63200291d | -11.0266 | -55.3789 | 2025-06-28 01:50:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 59.0 |
+| 6a348de6-7430-3109-bfd5-491f5b231804 | -9.1208 | -49.4743 | 2025-06-28 01:50:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 110.4 |
+| 33b959c6-b3aa-3c5d-a352-7919ac8b92c3 | -9.1205 | -49.4958 | 2025-06-28 01:50:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 117.5 |
+| 36489978-23c7-33b8-8500-89de359f84f2 | -11.0644 | -55.3757 | 2025-06-28 01:50:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 90.5 |
+| 80a16e73-3f18-3f59-a0ae-ccaa2fb1c07d | -11.0455 | -55.3773 | 2025-06-28 01:50:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 289.3 |
+| 120c9b75-4de3-3fe4-93b0-2140466f8f09 | -6.9108 | -43.9834 | 2025-06-28 01:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 139.6 |
+| 2687395d-8203-36a2-bf20-a379681a1705 | -7.2219 | -43.0682 | 2025-06-28 01:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 116.0 |
+| 11979bc7-cf47-301a-aecc-66208d7e69dc | -12.2523 | -46.7766 | 2025-06-28 01:50:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 59.0 |
+| 36b7523c-f6d8-360b-84d8-e299919d574c | -6.892 | -43.9851 | 2025-06-28 01:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 88.5 |
+| 9df55026-ac12-3859-b13f-5c32b25ab17a | -11.0453 | -55.3976 | 2025-06-28 01:50:00 | GOES-19 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 49.2 |
+| 4a85155e-2444-3d64-8379-95afb318ad4a | -7.2217 | -43.0917 | 2025-06-28 01:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 116.6 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)
