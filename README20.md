@@ -29,48 +29,39 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1a687fc9-b71d-38bf-933a-f3b15a5a512f | -12.6632 | -45.3008 | 2025-07-01 13:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 81.0 |
-| a0a17cde-7b78-3fc2-a04f-b1bd03dfc639 | -6.2226 | -43.3459 | 2025-07-01 13:40:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 76.0 |
-| 0875d04d-29fa-350c-828f-e36996fcd839 | -7.7133 | -47.8453 | 2025-07-01 13:40:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 88.3 |
-| 40c68152-0cdf-3e40-a34e-b3733a5f5ea4 | -7.732 | -47.8437 | 2025-07-01 13:50:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| fb8f4f27-a96c-3bce-a7a4-57aa307a1fee | -7.7133 | -47.8453 | 2025-07-01 13:50:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| 400f6879-8ab9-3504-9aa5-feef1f4f46ca | -12.6632 | -45.3008 | 2025-07-01 13:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 83.8 |
-| 6fa7c8a6-ae62-3273-b1d4-c5157ec3eb04 | -12.427 | -50.0387 | 2025-07-01 13:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 83.4 |
-| 56699c4e-4f00-363a-bb60-e0341878a316 | -12.6632 | -45.3008 | 2025-07-01 14:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 87.5 |
-| 372d0074-0f8b-3f66-bc8f-80f07f2f38f8 | -7.0752 | -44.4066 | 2025-07-01 14:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 121.5 |
-| 8f3d0478-2186-3db4-bb95-238eeda86e12 | -12.427 | -50.0387 | 2025-07-01 14:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 93.4 |
-| ee2520a4-3049-33e7-b694-3ff4b787944f | -7.7133 | -47.8453 | 2025-07-01 14:00:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| 5a520036-3e7c-3e94-9cdd-5dbf48498e4a | -7.7133 | -47.8453 | 2025-07-01 14:10:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 71.2 |
-| 2e8a1c59-92c7-33b2-bdeb-e24dd3bce4a9 | -12.6632 | -45.3008 | 2025-07-01 14:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 87.2 |
-| edd6fdc0-0f8a-32c8-8c15-d0145fb15ada | -12.0708 | -48.4495 | 2025-07-01 14:10:00 | GOES-19 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| c22fae4b-ca6e-3328-a3f4-5dc6aaf90da4 | -7.732 | -47.8437 | 2025-07-01 14:10:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 63.4 |
-| 1ff2f200-6cf3-3af4-895e-83bf14cfd1a9 | -12.0708 | -48.4495 | 2025-07-01 14:20:00 | GOES-19 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| 294f0397-370b-392f-8c0a-a05078810bde | -13.8667 | -45.9344 | 2025-07-01 14:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| b90c9180-9b38-3d63-b3ad-1d932ec9785b | -12.427 | -50.0387 | 2025-07-01 14:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 86.5 |
-| a51f0b4d-5081-3250-9012-4a5c46693d30 | -9.577 | -49.107 | 2025-07-01 14:20:00 | GOES-19 | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 70.1 |
-| 9da823b9-183d-3fd7-960d-fe55436b7683 | -7.7133 | -47.8453 | 2025-07-01 14:20:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 63.6 |
-| a16e0046-07ce-3713-b492-bd0975736ca0 | -12.6443 | -45.2806 | 2025-07-01 14:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 63.8 |
-| 06f82804-0f53-3598-b211-5b0d6d7f39e1 | -12.6632 | -45.3008 | 2025-07-01 14:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 100.1 |
-| 3bae1605-3fa4-3e17-8090-a16ddcacf7de | -12.0705 | -48.4716 | 2025-07-01 14:30:00 | GOES-19 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 59.9 |
-| 2c6d75f4-f322-316f-8053-ac259eccd5ca | -9.577 | -49.107 | 2025-07-01 14:30:00 | GOES-19 | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 70.0 |
-| 2a08ebf8-3c5c-37fd-9346-e2d9e270f55e | -10.8832 | -56.4367 | 2025-07-01 14:30:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 121.5 |
-| bc4402f6-df66-33e1-9d8e-6f1628969098 | -12.0708 | -48.4495 | 2025-07-01 14:30:00 | GOES-19 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| 955a6be1-bfa2-3fa0-8186-865eb8c9692b | -12.6632 | -45.3008 | 2025-07-01 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 117.1 |
-| bb6a1510-0ea3-347c-be44-6efe9eb3fdfd | -10.9018 | -56.4552 | 2025-07-01 14:30:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 115.2 |
-| 47326741-f947-3385-a8a7-7fa73ab4d15e | -12.427 | -50.0387 | 2025-07-01 14:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 91.3 |
-| 4cdfcb13-cd12-314a-b532-bc1a761f6903 | -12.6443 | -45.2806 | 2025-07-01 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 66.1 |
-| a752e099-5640-3264-903d-2df19b87e1a0 | -7.7133 | -47.8453 | 2025-07-01 14:30:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 62.1 |
-| de11d514-d962-3f77-9b1a-565dba8068b5 | -10.876 | -53.7614 | 2025-07-01 14:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 61.3 |
-| 14b12862-42ca-3600-b06a-b88586731614 | -12.6632 | -45.3008 | 2025-07-01 14:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 137.9 |
-| 222791be-4837-3f06-841e-23716549ceb1 | -7.0755 | -44.3836 | 2025-07-01 14:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 143.7 |
-| 4abe764b-b1ee-35ab-b856-d42721c4de5c | -12.427 | -50.0387 | 2025-07-01 14:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 84.0 |
-| 2d002278-3bec-39b5-ad23-1fcfb2fd2d16 | -9.577 | -49.107 | 2025-07-01 14:40:00 | GOES-19 | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 67.1 |
-| 408d4a1f-d896-39b4-bb7f-440daa28cd5a | -12.0705 | -48.4716 | 2025-07-01 14:40:00 | GOES-19 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 62.3 |
-| 2812c085-591c-3acc-9a03-b852a9b27e52 | -10.9018 | -56.4552 | 2025-07-01 14:40:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 121.8 |
-| eefedd92-9045-3a77-b12a-7e2a296751f2 | -12.6443 | -45.2806 | 2025-07-01 14:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 75.8 |
-| f7ce6f3a-7ade-32b4-a5c8-831819a3f829 | -12.0708 | -48.4495 | 2025-07-01 14:40:00 | GOES-19 | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | 98.8 |
-| 7a9c89a7-c3fb-3696-ad53-4f4be18bad88 | -10.883 | -56.4567 | 2025-07-01 14:40:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 200.1 |
-| c0110168-20b4-3425-834b-b03acb5265ac | -7.7133 | -47.8453 | 2025-07-01 14:40:00 | GOES-19 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| 44538911-6f43-3a79-9f5c-71da1af8b337 | -10.8832 | -56.4367 | 2025-07-01 14:40:00 | GOES-19 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 128.4 |
+| 54d0f607-040b-3107-9f28-93a9909f5096 | -6.8193 | -45.5446 | 2025-07-02 14:00:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 68.7 |
+| 1099c03d-1b40-3687-bd3b-ed478935c22a | -12.4274 | -50.0171 | 2025-07-02 14:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 157.6 |
+| 5b106546-7bc5-3c70-8870-321ad0394a37 | -8.3146 | -55.0961 | 2025-07-02 14:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 83.4 |
+| e28c78f0-caec-37a1-8b82-2f2a49329f5e | -6.9605 | -42.8816 | 2025-07-02 14:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 94.6 |
+| 117bb2fa-a4f3-3cf3-820a-29b75ee575ef | -12.6632 | -45.3008 | 2025-07-02 14:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 135.5 |
+| 6771d134-7a51-3216-ae4b-f3bf677c3b05 | -12.4274 | -50.0171 | 2025-07-02 14:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 150.4 |
+| 8dc5cffc-ad90-3b57-a3d6-d692547ed489 | -12.427 | -50.0387 | 2025-07-02 14:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 158.0 |
+| 4321aefd-9721-35ed-9468-51cbfc3da173 | -9.9761 | -46.1725 | 2025-07-02 14:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 112.6 |
+| a2afe255-636d-3f5c-93d1-bb1814e92c9b | -6.9605 | -42.8816 | 2025-07-02 14:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 127.2 |
+| 0f8ada0a-df64-3b31-a328-cb2894622de1 | -7.6051 | -45.7464 | 2025-07-02 14:10:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 119.4 |
+| d7a10ae8-4189-3fef-8b10-28c1f0ef2f03 | -11.1666 | -49.0428 | 2025-07-02 14:10:00 | GOES-19 | CRIXÁS DO TOCANTINS | TOCANTINS | Brasil | 1706258 | 17 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| eadd5be3-dfb6-35a1-a832-7c22f562dbc1 | -7.6239 | -45.7447 | 2025-07-02 14:10:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 78.7 |
+| 42669aa8-9754-30f1-a962-f2669c46c87d | -5.9216 | -43.4403 | 2025-07-02 14:10:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 89.3 |
+| c07b0bac-add4-3fb5-98dc-9bb98f5e536f | -7.6051 | -45.7464 | 2025-07-02 14:20:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 115.7 |
+| 3d2bdea4-efea-30fb-832a-4f882a25e3e0 | -9.9761 | -46.1725 | 2025-07-02 14:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 54.0 |
+| b27767a4-b173-37b3-8b6b-2e6e34d53ecd | -12.4274 | -50.0171 | 2025-07-02 14:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 225.2 |
+| ece33d08-bfd9-3e7b-8c9a-791d253dbb98 | -7.6239 | -45.7447 | 2025-07-02 14:20:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 93.7 |
+| 15922093-2563-3332-894f-406815613d4d | -12.6632 | -45.3008 | 2025-07-02 14:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 113.5 |
+| d517217f-3875-3901-a31f-4786f30851ef | -6.9605 | -42.8816 | 2025-07-02 14:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 205.1 |
+| f390c6f5-a377-3393-8920-9db0756b679d | -12.427 | -50.0387 | 2025-07-02 14:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 180.5 |
+| cfbca44d-9f5b-322f-8b80-8f6ccc6ef5f2 | -12.427 | -50.0387 | 2025-07-02 14:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 176.4 |
+| e4c2f039-68b1-317f-9fa5-b7afa9d120b1 | -7.6051 | -45.7464 | 2025-07-02 14:30:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| 08505be5-5969-3597-8fcc-a54f0fe34cd4 | -7.6239 | -45.7447 | 2025-07-02 14:30:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 103.4 |
+| 246861d8-9624-31cc-a10d-0e907b70ba71 | -6.9605 | -42.8816 | 2025-07-02 14:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 174.2 |
+| 7e222911-edb5-3acb-83e6-56ed906b18ba | -12.6632 | -45.3008 | 2025-07-02 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 131.1 |
+| 8a4a304d-71f9-3e8b-b4b8-1c46b6ce56c9 | -12.4274 | -50.0171 | 2025-07-02 14:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 197.0 |
+| 0a60d17b-edc8-340e-947f-0523a424c04c | -5.9216 | -43.4403 | 2025-07-02 14:40:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 94.1 |
+| 11f202bc-9ec5-3e2e-8eda-768db9ca7bb2 | -6.9605 | -42.8816 | 2025-07-02 14:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 135.0 |
+| 99db4413-48ff-361b-8841-be04bda64936 | -12.4461 | -50.0363 | 2025-07-02 14:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 55.0 |
+| 9638139a-ef19-3d47-912d-716b5cac8d90 | -7.6239 | -45.7447 | 2025-07-02 14:40:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| 86e3f15c-2fef-3560-997b-43fcd18edf78 | -12.427 | -50.0387 | 2025-07-02 14:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 162.3 |
+| 62f8df56-a3ee-3cbc-9b65-5949c9fb26d0 | -12.4274 | -50.0171 | 2025-07-02 14:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 181.2 |
+| 6faaf673-e94c-3b95-a5e5-4bbacea1e203 | -5.9028 | -43.4418 | 2025-07-02 14:40:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| a4211e9d-849c-3ff8-839b-3e01772a8f61 | -12.6632 | -45.3008 | 2025-07-02 14:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 135.3 |
 
 
