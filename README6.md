@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ac95af93-125c-3a20-8bd7-cc3ebf50f095 | -6.82596 | -43.58789 | 2025-07-08 04:14:00 | NOAA-21 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 309911ba-f67b-3705-8b48-06f417e2939e | -8.2184 | -44.93466 | 2025-07-08 04:14:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 175f6050-8905-3af6-8a1e-2f0a383944a3 | -6.86553 | -44.07043 | 2025-07-08 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| c43dddb1-e36c-35c3-a242-9f3054f9429e | -7.23003 | -49.59865 | 2025-07-08 04:14:00 | NOAA-21 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 199da986-8749-3bd4-b451-be8b4155c055 | -7.10095 | -43.91565 | 2025-07-08 04:14:00 | NOAA-21 | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| bbf68882-51dc-3757-be12-7ca05732a335 | -6.34915 | -46.36454 | 2025-07-08 04:14:00 | NOAA-21 | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 43e725c1-78e3-3f93-a78c-d3d2735e8bf1 | -7.10005 | -44.15806 | 2025-07-08 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| fe114ff6-439a-3349-9c30-0e905a346ced | -6.436 | -44.80476 | 2025-07-08 04:14:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 09656b84-9e5f-37e6-84d0-72466a8eae5e | -7.67197 | -44.35009 | 2025-07-08 04:14:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 58de648f-95d6-3480-9592-4db2866197db | -5.4149 | -46.07453 | 2025-07-08 04:14:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| e2d70af0-003d-36d6-a964-69042d977cfe | -7.44869 | -44.59938 | 2025-07-08 04:14:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ee4b22b4-d406-36cd-adb2-d0a1544371b7 | -7.19034 | -43.12897 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| ee485464-445c-32d4-82be-c8ffe393f1f4 | -6.93276 | -43.05621 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 2b6f6914-d102-3247-9c19-5878f2da19ba | -6.67873 | -43.76678 | 2025-07-08 04:14:00 | NOAA-21 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d0151ceb-01a1-3fd6-a90a-9395ecc3af3e | -4.28218 | -48.18667 | 2025-07-08 04:14:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 76510258-1266-38d0-8b58-a5f09ea6fe86 | -7.25567 | -43.07889 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| de282bda-962e-36be-b3c6-1fda3a8142d9 | -8.98078 | -49.18007 | 2025-07-08 04:14:00 | NOAA-21 | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 45c92327-dc3f-34c3-9c28-8631853ee6c7 | -7.58093 | -45.22252 | 2025-07-08 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| f7bc525b-6fed-34b5-b7ce-6a81eb08b9c1 | -6.38304 | -43.57063 | 2025-07-08 04:14:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 81c7b144-d496-3b08-b473-000faea64ae6 | -5.25106 | -44.46303 | 2025-07-08 04:14:00 | NOAA-21 | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 403240ab-4b43-35ae-8aef-cec5bf33abbc | -6.73554 | -44.33342 | 2025-07-08 04:14:00 | NOAA-21 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 7965b7b2-2645-3328-8899-cb83d101fb0c | -8.70503 | -50.02036 | 2025-07-08 04:14:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| ca1cac2a-127b-3a3b-ac4a-3ffb78e92dcd | -9.22216 | -48.59122 | 2025-07-08 04:14:00 | NOAA-21 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| a5605cd5-2821-3a3e-b20b-dd2eb1d02ad5 | -6.83203 | -43.59237 | 2025-07-08 04:14:00 | NOAA-21 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d14da815-8f17-3989-8312-274b74acd81c | -8.06937 | -43.11811 | 2025-07-08 04:14:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 19.6 |
-| 5eb8a578-371c-3b4e-9125-fe8bd2c9d282 | -4.81898 | -44.35416 | 2025-07-08 04:14:00 | NOAA-21 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e3c0e020-4446-35e7-807b-5f5b18e5f51f | -4.2863 | -48.18734 | 2025-07-08 04:14:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 6c8c6346-6cad-37a6-9ee3-ccb3f4f1533a | -6.69344 | -44.06116 | 2025-07-08 04:14:00 | NOAA-21 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| a054f9b6-5393-3378-9618-4edee02f2327 | -7.19641 | -43.13347 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 5d170373-0723-3c50-afe3-4a61da74e698 | -8.71157 | -50.00851 | 2025-07-08 04:14:00 | NOAA-21 | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| eb47a446-2ffe-3651-97b5-81ab77ec8b16 | -6.34556 | -46.36393 | 2025-07-08 04:14:00 | NOAA-21 | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 70ce334f-45d7-3a8e-8856-404e557c3cd9 | -9.00926 | -48.72546 | 2025-07-08 04:14:00 | NOAA-21 | COLMÉIA | TOCANTINS | Brasil | 1716703 | 17 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| ca2d2b33-0662-325a-a883-083be69ce964 | -6.66125 | -43.89912 | 2025-07-08 04:14:00 | NOAA-21 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| c7409275-e757-3a11-9630-a53b76c2d155 | -6.34204 | -43.74493 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 0d16b31f-5b25-3647-ba6a-c1c0fb9b09a4 | -9.00606 | -48.72039 | 2025-07-08 04:14:00 | NOAA-21 | COLMÉIA | TOCANTINS | Brasil | 1716703 | 17 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5f2cb8c6-11b1-3056-b8c2-df1a6001c321 | -8.06606 | -43.1176 | 2025-07-08 04:14:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 7cf75d25-e288-3d79-8857-06a62af4e2a0 | -6.49705 | -43.64535 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e28a5849-7c68-353e-b79d-ab2b12c272ee | -9.23 | -48.59261 | 2025-07-08 04:14:00 | NOAA-21 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 615870f6-30f5-3523-a652-d1077017c19f | -4.29017 | -48.05931 | 2025-07-08 04:14:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| fefbcce4-d401-3a6b-b505-55abff8806b8 | -5.98457 | -45.36321 | 2025-07-08 04:14:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 21a6a447-85d4-3ce0-b018-260533172b71 | -6.67157 | -43.7692 | 2025-07-08 04:14:00 | NOAA-21 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 945c0124-3af1-34f9-be8b-454f613062ba | -9.29223 | -44.84145 | 2025-07-08 04:14:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| dbd13b7f-a3bd-3fb5-b4c3-159ae9a6a979 | -6.67488 | -43.76972 | 2025-07-08 04:14:00 | NOAA-21 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| a7efabfc-38e8-3d55-8483-ba26592141b6 | -7.19257 | -43.13641 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
-| c0678006-36b9-37a1-8395-1ceb318d21bb | -5.14468 | -48.88859 | 2025-07-08 04:14:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| d53cae01-04a6-3b3e-9dd9-0ca8623d7aeb | -6.67819 | -43.77024 | 2025-07-08 04:14:00 | NOAA-21 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 2574f926-d4be-3d06-8385-dc697d99a031 | -8.06991 | -43.11463 | 2025-07-08 04:14:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 21.8 |
-| 6f03ef9c-c8be-3571-9c79-70f70b8a7ab4 | -7.11056 | -44.15615 | 2025-07-08 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| b24f56a4-b106-3c35-a1a2-f64fdf8491fc | -7.24629 | -43.07388 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| c574114e-83d7-3c82-95a3-c1880d14733a | -7.87237 | -44.91187 | 2025-07-08 04:14:00 | NOAA-21 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4626370c-b2b4-3820-88a8-bd57503230ab | -7.64 | -45.35969 | 2025-07-08 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 182a3e31-9a42-3c2c-ad6c-15cce2a5f6ba | -6.01009 | -44.52765 | 2025-07-08 04:14:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2167c717-fa49-36e0-b143-47ca68e0155f | -6.82158 | -43.59428 | 2025-07-08 04:14:00 | NOAA-21 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 5a41f13a-4632-3692-9509-d91f88f24eed | -5.23901 | -46.04333 | 2025-07-08 04:14:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6e7da138-21cc-3395-aed0-befa71f9fa79 | -7.22223 | -43.11978 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| d357f3ef-c6b2-35fc-9d1b-185f8d02c4f0 | -5.90922 | -42.99029 | 2025-07-08 04:14:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 85e58745-458d-3689-9a94-042181ce7537 | -7.313 | -44.03807 | 2025-07-08 04:14:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 938681c6-44e1-3588-921b-44fad95a4ee2 | -8.74352 | -48.03456 | 2025-07-08 04:14:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 3d4eba72-f649-3979-8d07-e382ccb018ca | -7.25459 | -43.08582 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 2ff30f5b-518c-3fb2-bef0-bdc8b0798b4d | -7.21892 | -43.11927 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| c9dd85ac-5052-3ecf-a3ce-ce26fe990f4c | -5.41133 | -46.07391 | 2025-07-08 04:14:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 882bea8e-2fd5-3fdb-84a1-0bfddd7c4abe | -6.01288 | -44.53176 | 2025-07-08 04:14:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 86f01a3d-9777-37cc-8f55-e87749c7e1f1 | -7.63659 | -45.35917 | 2025-07-08 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 50d5105e-96a6-381b-bdbf-c0dd878fe372 | -7.3141 | -44.03111 | 2025-07-08 04:14:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| ed41e00b-37fc-3814-9968-e935a579692a | -4.30068 | -48.07222 | 2025-07-08 04:14:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 98b9321f-e34e-3eb4-b0bf-785d320215f2 | -6.88977 | -47.40236 | 2025-07-08 04:14:00 | NOAA-21 | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| fafa6610-8d56-370f-8d21-3c8b5b634f40 | -6.67651 | -43.75934 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0ff4b03f-1d84-3a86-a29d-fee5f960a043 | -9.21737 | -48.5957 | 2025-07-08 04:14:00 | NOAA-21 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 5d34a8b0-5a57-3ad0-a5dd-275fde275690 | -8.86655 | -47.27301 | 2025-07-08 04:14:00 | NOAA-21 | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b78a0664-9b27-329d-80f0-c45b0afa124a | -6.86608 | -44.06695 | 2025-07-08 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6b4c4428-7720-3585-ab09-14800e715eb2 | -7.24906 | -43.07786 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| e501e751-bcd4-33cb-89a0-0e4940334258 | -6.53315 | -43.54477 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 1ea4d29c-9ade-3040-909a-820f5fe34863 | -8.50172 | -44.76096 | 2025-07-08 04:14:00 | NOAA-21 | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 9ae95bc7-2697-38dd-9b2a-25ce90857e1c | -7.19748 | -43.12655 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| ca31d73d-e1dd-36e2-a37a-d5b4b15e0046 | -6.9366 | -43.05328 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 4f86d4ed-26da-32fb-baa0-5113fa0beeb2 | -5.412 | -46.06979 | 2025-07-08 04:14:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 79929e9b-dfbe-3304-81d6-c9f0e02421b6 | -6.85447 | -44.07585 | 2025-07-08 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| da2ee30c-7eeb-3897-93a4-31aa2527ced0 | -6.95313 | -43.22927 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 61f38ad2-569e-3115-b5a8-85d6e0766595 | -7.19971 | -43.13398 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| ee4bf713-dfa2-3d76-8c43-eeab425be9d3 | -6.33874 | -43.7444 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 620772f1-872d-3204-9135-0643bcf9c400 | -6.53369 | -43.54132 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 0e862f81-a770-356f-9fcf-5fac8e356346 | -9.12865 | -47.59232 | 2025-07-08 04:14:00 | NOAA-21 | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| db444b03-f7bf-3db2-ab16-32fefafe3230 | -6.85944 | -44.0659 | 2025-07-08 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 95d1b13b-312a-3bda-98e1-a6e8512455d8 | -7.31556 | -43.8713 | 2025-07-08 04:14:00 | NOAA-21 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 9aab5f3d-01e4-356c-8b76-7117c99ee410 | -7.14685 | -44.01188 | 2025-07-08 04:14:00 | NOAA-21 | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 828ae383-56e5-31b4-af58-78e149d12240 | -4.68991 | -47.00569 | 2025-07-08 04:14:00 | NOAA-21 | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 598b7f6c-9c8e-3220-84a9-350c02141114 | -7.6394 | -45.36338 | 2025-07-08 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 03ff5a8c-cab0-3ac1-a423-f739f32e32da | -7.2496 | -43.07439 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| 765a37d4-22b3-3de6-b7b8-cce7dd149196 | -5.41327 | -46.07092 | 2025-07-08 04:14:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| b2d1e99e-70ef-3445-aa90-17703046db45 | -7.60785 | -37.81551 | 2025-07-08 04:14:00 | NOAA-21 | TAVARES | PARAÍBA | Brasil | 2516607 | 25 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 41dc9dcc-e183-351c-8bb9-64cc6de4e2b8 | -4.68649 | -43.259 | 2025-07-08 04:14:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 0a530fe3-a553-33c8-9163-0cbd97ae6b72 | -6.8823 | -45.24331 | 2025-07-08 04:14:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| ebaea472-43ab-3b8a-90b1-a7949ed7aa39 | -9.22608 | -48.59192 | 2025-07-08 04:14:00 | NOAA-21 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| f15bdd15-a9cc-30e6-bae0-5a0e18abb21a | -7.63879 | -45.36715 | 2025-07-08 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 38f8c871-5df6-3fa5-9f07-60e4d9eafd36 | -9.22915 | -48.59768 | 2025-07-08 04:14:00 | NOAA-21 | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| b1fc9b28-5d33-376c-856e-987b5cfcc77e | -7.27771 | -44.64519 | 2025-07-08 04:14:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 4b640f50-211d-3070-b390-0e48bd723adc | -6.37055 | -43.65007 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c890a50c-8b4b-31c3-b1aa-48966f751245 | -7.40781 | -43.73677 | 2025-07-08 04:14:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| ec76aa2f-d46d-308f-b906-8e3a11aa1e11 | -6.53261 | -43.54823 | 2025-07-08 04:14:00 | NOAA-21 | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 9b937470-f2e6-3bc2-8059-cf0529540b33 | -7.24575 | -43.07734 | 2025-07-08 04:14:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
+| 09e39820-093a-3cc1-a3f3-0b2ea76cae62 | -8.5217 | -43.2593 | 2025-07-09 02:50:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 65.9 |
+| 7f9c97c4-e43a-39ff-816d-21742efc7824 | -11.4397 | -45.0923 | 2025-07-09 02:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 120.0 |
+| d73a41b0-8a9f-301f-8ea7-2210e3a8180e | -11.4588 | -45.0895 | 2025-07-09 02:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 50.1 |
+| 596d9d67-aac5-3282-8e26-faace70eed95 | -8.5211 | -43.3063 | 2025-07-09 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 82.9 |
+| ce625148-2c8a-3fcf-9bc6-9b5a0e746d44 | -11.4393 | -45.1154 | 2025-07-09 02:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 143.0 |
+| b75960ec-478b-3e77-ba8d-af5750fa237c | -11.4584 | -45.1126 | 2025-07-09 02:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 69.2 |
+| 7e205063-c78f-3123-8ed2-9e77dfb386ea | -10.5779 | -49.1098 | 2025-07-09 02:50:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| 653ca747-fbf7-362d-b036-3d697a4e108a | -11.4205 | -45.095 | 2025-07-09 02:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 63.8 |
+| 5380b1a8-0aaf-3920-844e-040541c981b9 | -8.5025 | -43.285 | 2025-07-09 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 270.7 |
+| 4fd55f81-7faf-3b97-b1b5-5d509653575b | -8.5022 | -43.3085 | 2025-07-09 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.2 |
+| 05651f18-9b1d-3cb0-87dc-f1b352ced669 | -6.1792 | -48.0494 | 2025-07-09 02:50:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 106.8 |
+| 6521a3ba-7127-3ddf-9d48-dc3d513cc02a | -7.2408 | -43.0664 | 2025-07-09 02:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 79.5 |
+| 72ef8d26-aff7-3af7-9b5a-59cbe2a3138f | -8.5028 | -43.2614 | 2025-07-09 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 137.6 |
+| 0a0f1a62-c61b-352c-a898-44d6035bdf90 | -11.4201 | -45.1181 | 2025-07-09 02:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 71.2 |
+| 8889d9e1-977f-3bf5-89b1-b94f2137c501 | -6.1606 | -48.0507 | 2025-07-09 02:50:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 65.6 |
+| a42bef41-a07d-34f5-bbd8-770c2fae68ba | -6.1606 | -48.0507 | 2025-07-09 03:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 87.0 |
+| c9bcbc95-ea3b-3f9d-9f14-3b93c1605953 | -7.2408 | -43.0664 | 2025-07-09 03:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 77.6 |
+| e5582c20-d393-3410-abe9-d6800260c6f4 | -11.4584 | -45.1126 | 2025-07-09 03:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 54.5 |
+| 222796af-2cdf-3a7d-a910-e7a9a9849c58 | -8.5022 | -43.3085 | 2025-07-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 62.3 |
+| a9a7eb1a-c1fc-3d86-b884-763fb4f8ca2c | -8.5211 | -43.3063 | 2025-07-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| 83aaa01d-0486-30de-a677-a32bbdadd4b5 | -8.5025 | -43.285 | 2025-07-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 184.3 |
+| 205453c5-40b6-3ec2-9e4b-caccf0eb0795 | -6.1792 | -48.0494 | 2025-07-09 03:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| 5351cce7-5487-3fae-84b8-eda919ef9737 | -10.5776 | -49.1316 | 2025-07-09 03:00:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 73625631-9e05-3e14-b1eb-20f3fe2de0d0 | -11.4201 | -45.1181 | 2025-07-09 03:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 64.5 |
+| 97b8dd24-e737-332b-892f-d787ae8050ba | -11.4393 | -45.1154 | 2025-07-09 03:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 148.4 |
+| 0dd132aa-d612-33c2-923f-ee71d3d03906 | -8.5214 | -43.2828 | 2025-07-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 205.2 |
+| f24dff4a-c9d3-3f56-ac54-7ad29ec30d8a | -11.4397 | -45.0923 | 2025-07-09 03:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 127.7 |
+| 0b048fb0-254a-33a7-ba11-b158c4937a3f | -8.5028 | -43.2614 | 2025-07-09 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 112.3 |
+| 4a21d73d-8bfa-337d-ba9e-69bc1467ae74 | -11.4205 | -45.095 | 2025-07-09 03:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 51.8 |
+| 6403a5e6-4e05-31d4-935d-8580071ed97e | -8.5217 | -43.2593 | 2025-07-09 03:00:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 90.3 |
+| 4d714415-f26e-31d0-93ac-34523e4b7030 | -6.57327 | -38.10964 | 2025-07-09 03:04:00 | NOAA-20 | SANTA CRUZ | PARAÍBA | Brasil | 2513208 | 25 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| f6ec87df-1fa7-3b86-9472-31a686858987 | -9.28697 | -40.24825 | 2025-07-09 03:04:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 8.3 |
+| 514e4a88-e982-3d2b-ad53-2e46c9b7c5d9 | -9.28833 | -40.2414 | 2025-07-09 03:04:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 8.3 |
+| e77e3a28-0d2c-3ed0-900f-73ca1c41402f | -6.57424 | -38.10437 | 2025-07-09 03:04:00 | NOAA-20 | SANTA CRUZ | PARAÍBA | Brasil | 2513208 | 25 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| eed1e6c2-504e-342f-8c9d-edbe200c128e | -16.62407 | -42.21878 | 2025-07-09 03:06:00 | NOAA-20 | CORONEL MURTA | MINAS GERAIS | Brasil | 3119500 | 31 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| 54df46ba-fdb3-3826-98f7-682f885e97d5 | -16.62645 | -42.21253 | 2025-07-09 03:06:00 | NOAA-20 | CORONEL MURTA | MINAS GERAIS | Brasil | 3119500 | 31 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| bfdf6a32-2de5-30d8-99cf-ccfbc088bfdb | -16.62487 | -42.21949 | 2025-07-09 03:06:00 | NOAA-20 | CORONEL MURTA | MINAS GERAIS | Brasil | 3119500 | 31 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| 221b4cfe-30dc-3eb6-8908-30e58029f6f7 | -16.6257 | -42.21183 | 2025-07-09 03:06:00 | NOAA-20 | CORONEL MURTA | MINAS GERAIS | Brasil | 3119500 | 31 | 33 | nan | nan | nan | Cerrado | 26.1 |
+| 39842c84-8950-3a49-8e85-8797d175d10d | -6.1606 | -48.0507 | 2025-07-09 03:10:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 82.6 |
+| 18a009f3-ad70-3422-9fd6-773d7b36e039 | -8.5217 | -43.2593 | 2025-07-09 03:10:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 77.2 |
+| c74434ea-9b89-3a71-aadd-d89a112ccfe2 | -8.5022 | -43.3085 | 2025-07-09 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 63.2 |
+| 4ecc1069-7750-3ae9-995a-e7f4aec448e0 | -7.2408 | -43.0664 | 2025-07-09 03:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 68.5 |
+| 4877f0a4-57a5-3dc5-aaa2-32ccb5c736b1 | -10.5776 | -49.1316 | 2025-07-09 03:10:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| ea0d1a5a-fb1a-3a78-9eb7-712288460af4 | -11.4584 | -45.1126 | 2025-07-09 03:10:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| 4fa83745-be1b-37aa-af14-a55db0f05654 | -11.4201 | -45.1181 | 2025-07-09 03:10:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| d0f22f1e-443e-3842-93a3-d7f659cf1b29 | -8.5025 | -43.285 | 2025-07-09 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 202.4 |
+| f1a623da-3f21-32d6-a3c1-f65f7e1acac1 | -6.1792 | -48.0494 | 2025-07-09 03:10:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 84.5 |
+| 0fd73ccd-5939-344f-a216-9c8f9540d637 | -11.4393 | -45.1154 | 2025-07-09 03:10:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 125.4 |
+| f4acffcb-0fd5-3f5b-902c-b5f0c03a9e63 | -11.4205 | -45.095 | 2025-07-09 03:10:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 55.3 |
+| a13ee822-807c-3793-91d3-08a8dc988673 | -8.5214 | -43.2828 | 2025-07-09 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 177.7 |
+| e9f9499d-8783-302b-9f61-38dd1a744a28 | -8.5211 | -43.3063 | 2025-07-09 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| aebacaf4-215c-31a4-9d61-151d89c161fb | -11.4397 | -45.0923 | 2025-07-09 03:10:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 108.8 |
+| 78dc06bf-bf4f-36c7-973c-ce606f92886a | -8.5028 | -43.2614 | 2025-07-09 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 119.4 |
+| 2e441a3a-6ff4-36a6-b31c-c1023348da6e | -11.4201 | -45.1181 | 2025-07-09 03:20:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 79.4 |
+| 1bb5d33d-ef23-3142-b1b8-b326758f4a0f | -8.5028 | -43.2614 | 2025-07-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 96.5 |
+| 9e0491a4-6738-380c-838a-b6b5074795dd | -11.4397 | -45.0923 | 2025-07-09 03:20:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 127.3 |
+| d94022ef-42de-3734-95e6-3a88040168b7 | -11.4393 | -45.1154 | 2025-07-09 03:20:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 152.8 |
+| dd0bdb58-b2d8-37ee-b153-06d8a6f908e8 | -8.5022 | -43.3085 | 2025-07-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 58.4 |
+| 8b94ba23-f0f6-3fc3-9128-7f9cc52cde40 | -8.5211 | -43.3063 | 2025-07-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| 8dcb9ceb-ca53-3adf-a714-e9b3dc528e4e | -6.1606 | -48.0507 | 2025-07-09 03:20:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 69.5 |
+| d550dd7d-6979-37e0-bd09-72804ed8e848 | -11.4584 | -45.1126 | 2025-07-09 03:20:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 56.5 |
+| 588f964e-c2c9-3f45-bd19-8a1705858fe8 | -10.5776 | -49.1316 | 2025-07-09 03:20:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 61.5 |
+| c203daaf-32c5-3238-9fdc-a45e02d550ce | -8.5214 | -43.2828 | 2025-07-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 213.2 |
+| 61e273dd-eb52-307e-8527-2b1b15422b88 | -8.5217 | -43.2593 | 2025-07-09 03:20:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 93.3 |
+| 17a8c452-852c-3205-ad58-a6678d2946de | -8.5025 | -43.285 | 2025-07-09 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 186.9 |
+| 4674dd28-4392-3734-973e-152aaefa5b79 | -6.1792 | -48.0494 | 2025-07-09 03:20:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 79.4 |
+| 2d2c8221-156d-3f65-9c0c-cc1cf725e080 | -11.4205 | -45.095 | 2025-07-09 03:20:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 26cfae2c-dc36-31f0-99cc-21c866a45685 | -11.4201 | -45.1181 | 2025-07-09 03:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 81.2 |
+| dd4af360-0342-3147-a854-d6540b48dff2 | -6.1792 | -48.0494 | 2025-07-09 03:30:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 102.9 |
+| 938af713-1f6c-3788-baa4-84e5e8bda839 | -11.4393 | -45.1154 | 2025-07-09 03:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 138.4 |
+| 94456d90-32c6-3f12-b825-2ea32fa6a082 | -8.5211 | -43.3063 | 2025-07-09 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| cf1bd6ce-628d-34a9-a6ac-2f31d37dfdd3 | -11.4397 | -45.0923 | 2025-07-09 03:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 106.8 |
+| 6a07bcfc-6ea2-3c02-bd60-931711063600 | -8.5028 | -43.2614 | 2025-07-09 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 138.9 |
+| d84b2142-0777-387e-8561-9d99384a22d4 | -10.5779 | -49.1098 | 2025-07-09 03:30:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 52.9 |
+| 30c38f3f-61e6-3638-9cc2-4b8597403d92 | -11.4205 | -45.095 | 2025-07-09 03:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 60.6 |
+| 61dcfb48-575f-330c-9adc-2b3050e49377 | -8.5025 | -43.285 | 2025-07-09 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 262.3 |
+| 6a14c282-12a9-3b9f-b437-0427af544a88 | -8.5022 | -43.3085 | 2025-07-09 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.1 |
+| 92725d82-44ee-3d6f-8ca2-871435deec98 | -11.4584 | -45.1126 | 2025-07-09 03:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 59.9 |
+| 108a61a0-4c08-308a-bebd-f99605d2fd8f | -8.5214 | -43.2828 | 2025-07-09 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 164.5 |
+| 01ce5aec-ae64-36bc-8d88-cad981e92c08 | -8.5217 | -43.2593 | 2025-07-09 03:30:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 70.0 |
+| 6752ebd2-f00d-396c-afe1-a6e27c8901f3 | -10.5776 | -49.1316 | 2025-07-09 03:30:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 60.7 |
+| 2dbd1764-1bd6-3a66-b8cc-0f639a503c6f | -8.5022 | -43.3085 | 2025-07-09 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 62.8 |
+| 51da37d6-9a6f-39c6-84a5-ff616393eca5 | -10.5776 | -49.1316 | 2025-07-09 03:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 62.7 |
+| b65c8efa-3327-39b7-a908-231ede420405 | -11.4393 | -45.1154 | 2025-07-09 03:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 132.9 |
+| 31c7f1bc-4d3e-34d3-b6b4-e76f16f9f365 | -11.4397 | -45.0923 | 2025-07-09 03:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 120.6 |
+| 5e9eaa06-3890-30f8-8596-96e3f047259c | -8.5214 | -43.2828 | 2025-07-09 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 166.0 |
+| a342e2d2-b9bd-3d99-8668-22cd2e4f4b7d | -8.5028 | -43.2614 | 2025-07-09 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 119.7 |
+| bfa5cabb-a17d-33b8-9f2b-c0e67ef31240 | -6.1792 | -48.0494 | 2025-07-09 03:40:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 84.5 |
+| 3c7e33c2-0822-3295-9662-4d2a9d6b6934 | -8.5025 | -43.285 | 2025-07-09 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 243.2 |
+| 45fb2cf9-e9af-319b-a648-292cca5bef88 | -11.4205 | -45.095 | 2025-07-09 03:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 64.9 |
+| 3833daed-9493-3c6e-a684-8f854974d49d | -11.4584 | -45.1126 | 2025-07-09 03:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 55.8 |
+| b6040fb5-8ec9-31fc-baec-ce2251fa69b4 | -8.5217 | -43.2593 | 2025-07-09 03:40:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 68.9 |
+| 46987cc6-65c3-3d38-9e8f-128fe1230e11 | -11.4201 | -45.1181 | 2025-07-09 03:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 82.2 |
+| dc2e5847-9fbe-30ef-8124-f6dcdfade471 | -8.5211 | -43.3063 | 2025-07-09 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| 79764eb9-e11f-344d-b76e-f235808c737a | -8.5211 | -43.3063 | 2025-07-09 03:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| 622a1a41-8abb-321d-ac0f-a469c87784c9 | -8.5217 | -43.2593 | 2025-07-09 03:50:00 | GOES-19 | TAMBORIL DO PIAUÍ | PIAUÍ | Brasil | 2210953 | 22 | 33 | nan | nan | nan | Caatinga | 91.0 |
+| f1094cbf-9f4f-307a-a297-9e1202ec6ced | -11.4201 | -45.1181 | 2025-07-09 03:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| e9488e1c-0990-3bc6-a924-b6ba5e39825f | -6.1792 | -48.0494 | 2025-07-09 03:50:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 89.4 |
+| 60dff0cb-fc19-3521-8cf3-ec05d85162d5 | -11.4584 | -45.1126 | 2025-07-09 03:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| 228c155b-ef5d-3f0d-a63e-96de3a6b0acf | -8.5025 | -43.285 | 2025-07-09 03:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 203.5 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)
