@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3afbe98b-70ca-3937-872d-93b73672db53 | -13.84362 | -46.9012 | 2025-07-13 01:02:00 | TERRA_M-M | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 43.5 |
-| 84ae41c9-e60a-337c-b422-e33d34ee685f | -13.13763 | -47.31861 | 2025-07-13 01:02:00 | TERRA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 22.8 |
-| 0a020db1-7d30-3747-9205-428436f0c050 | -13.85669 | -46.89832 | 2025-07-13 01:02:00 | TERRA_M-M | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 19.8 |
-| 4655b8a1-954e-3fd4-9e37-3dc3621c511e | -13.83873 | -45.89707 | 2025-07-13 01:02:00 | TERRA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 65.8 |
-| 734b03a0-3acf-322a-976d-66bf1cc5d47e | -13.84027 | -45.93059 | 2025-07-13 01:02:00 | TERRA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 43.1 |
-| 9acfc574-4fb6-399e-b986-febd104a99fe | -13.13929 | -47.32399 | 2025-07-13 01:02:00 | TERRA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 26.9 |
-| 25f30f60-cbe3-3f8d-832f-1ef82c5000cb | -13.8358 | -45.90428 | 2025-07-13 01:02:00 | TERRA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 97.0 |
-| 77c096b4-52f8-3c0b-9ee2-11698f6a0b68 | -19.0902 | -56.04235 | 2025-07-13 01:02:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 19.7 |
-| c20d900d-1b8c-3b36-9bab-d9ad64b3eae6 | -13.84338 | -45.92331 | 2025-07-13 01:02:00 | TERRA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 82.8 |
-| 5de43b28-b4ce-32a4-b1ac-e80d3e566f8c | -10.57369 | -49.12473 | 2025-07-13 01:05:00 | TERRA_M-M | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 44.2 |
-| 2ffa61d8-8a4b-361b-a232-fa18b82168a4 | -9.02641 | -59.54914 | 2025-07-13 01:05:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 13.9 |
-| 2998fe54-2014-3e7b-8eae-57096090bd7c | -5.74722 | -45.00885 | 2025-07-13 01:05:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| 8049019e-be16-3923-abaa-751c8a305087 | -9.02407 | -59.5411 | 2025-07-13 01:05:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 11.0 |
-| 8cf229c0-2545-34c2-bbb8-ce7b60badfe0 | -4.53239 | -48.01608 | 2025-07-13 01:05:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 20.2 |
-| ffff1488-2f9a-3bd3-9f36-d6aeec6a62de | -5.72664 | -49.10971 | 2025-07-13 01:05:00 | TERRA_M-M | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 19.3 |
-| 7c92f7c9-17bf-393d-861b-56e75c800287 | -11.72893 | -47.46807 | 2025-07-13 01:05:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 23.6 |
-| 26ccd9fd-54be-319b-9de3-cb89e7b314cc | -12.01702 | -49.52723 | 2025-07-13 01:05:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 3834c667-a05b-3117-b21b-fdfed74eab52 | -5.74685 | -45.00387 | 2025-07-13 01:05:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 80.0 |
-| 1bf3c379-bd45-3a1f-9e07-7e39a3bb13ad | -10.50649 | -53.59158 | 2025-07-13 01:05:00 | TERRA_M-M | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 10.6 |
-| eab53fd4-13fa-303d-9356-36f4bd4a7ef1 | -12.42594 | -50.46205 | 2025-07-13 01:05:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 20.3 |
-| 27255b0a-f96e-3ef6-a85b-a759807e8966 | -10.67239 | -56.54943 | 2025-07-13 01:05:00 | TERRA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| 25fe7ace-76b0-3e88-ba1f-37785a400c8d | -11.87493 | -58.70946 | 2025-07-13 01:05:00 | TERRA_M-M | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 43e59dfa-a9ad-3ae6-9a42-a7e62dc0e2f0 | -11.86405 | -58.71098 | 2025-07-13 01:05:00 | TERRA_M-M | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| b80f42cf-f4c9-3639-adac-8b2ed8e193b6 | -4.54456 | -48.02041 | 2025-07-13 01:05:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 17.4 |
-| 11b19f49-1166-351b-b931-cb2003970db8 | -12.11613 | -58.01314 | 2025-07-13 01:05:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 14.4 |
-| 430d7e7d-4895-352a-82a5-80d121c6b157 | -10.95783 | -54.37692 | 2025-07-13 01:05:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 6a0b53cc-b24f-3c61-85c1-908547565cbb | -10.57115 | -49.1083 | 2025-07-13 01:05:00 | TERRA_M-M | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| dcbfa3cb-d960-3d22-888e-09e97777c7da | -4.53013 | -48.02221 | 2025-07-13 01:05:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 18.1 |
-| 40c87b07-ee74-308d-a3ad-b7a4799b3cb6 | -7.9913 | -43.3649 | 2025-07-13 01:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 130.4 |
-| d5356a71-7c52-3c53-83ce-7a576ad4af25 | -7.9721 | -43.3904 | 2025-07-13 01:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 70.9 |
-| a0a8ebec-298e-3555-93ff-4be7bc86add0 | -8.0099 | -43.3864 | 2025-07-13 01:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 68.6 |
-| bb3068c9-a872-363d-89f4-d5a04e515382 | -7.991 | -43.3884 | 2025-07-13 01:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 328.6 |
-| 6f1e4581-3ac3-3f8f-90ec-8500f2170e06 | -5.739 | -44.9945 | 2025-07-13 01:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 60.1 |
-| 77a8c827-07ff-3484-8106-c40fc36e0334 | -18.0597 | -50.5142 | 2025-07-13 01:10:00 | GOES-19 | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 55.1 |
-| 040c0333-e129-30c4-9d2a-bf1dfcc171c4 | -7.9913 | -43.3649 | 2025-07-13 01:20:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 106.1 |
-| 2f6e778c-641a-3e5b-af2b-3968f6c9bb5c | -7.9721 | -43.3904 | 2025-07-13 01:20:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 53.6 |
-| 80f93e02-272f-3b55-97e5-4a737feae6f2 | -7.991 | -43.3884 | 2025-07-13 01:20:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 308.2 |
-| 929fb99e-8fbd-3b9d-ae6a-f90641e1c6b7 | -5.739 | -44.9945 | 2025-07-13 01:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 61.8 |
-| 8d370e4a-56dd-395c-9c4d-53c4a8c0f87c | -8.0099 | -43.3864 | 2025-07-13 01:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 56.8 |
-| c9abffda-eaaf-30b9-9b50-83a8d85f077c | -7.9913 | -43.3649 | 2025-07-13 01:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 72.0 |
-| 602ccca2-120e-348a-a926-cfaf6a6e3d6d | -7.991 | -43.3884 | 2025-07-13 01:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 292.3 |
-| 67f35048-d37e-3982-a126-b65fa6a409f5 | -5.739 | -44.9945 | 2025-07-13 01:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| b1cf1086-a096-388c-b225-e5a7a6944bee | -7.9721 | -43.3904 | 2025-07-13 01:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| 0900e951-d2b2-3dea-a4ec-69a5b5911656 | -5.739 | -44.9945 | 2025-07-13 01:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 63.2 |
-| 27863d08-eb7e-3ab9-8d19-d82e59d40374 | -7.9913 | -43.3649 | 2025-07-13 01:40:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 102.1 |
-| bd5546b3-88d3-3703-aa46-f5687a565713 | -7.991 | -43.3884 | 2025-07-13 01:40:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 217.8 |
-| ae619cb2-919c-3b56-89e7-55298957efe5 | -12.0236 | -63.787899 | 2025-07-13 01:40:00 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d25cfa2d-2fc7-33d2-b107-fa14f42224ea | -12.43 | -50.457001 | 2025-07-13 01:40:00 | METOP-C | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| b0e87e57-ae99-3ea9-9f93-42dcfb22e31d | -12.022 | -63.7808 | 2025-07-13 01:40:00 | METOP-C | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 887c59e5-b792-34f7-a11f-b2cdf3217f39 | -9.0263 | -59.5485 | 2025-07-13 01:40:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 66c2ddde-8b68-3878-b108-172b35edca34 | -11.8719 | -58.7048 | 2025-07-13 01:40:00 | METOP-C | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| fc4b7ba7-9922-3975-bdf9-50eae3677264 | -9.248 | -64.406998 | 2025-07-13 01:42:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 099a5c53-68c7-3188-9f88-3229ef9cc38b | -9.2464 | -64.400002 | 2025-07-13 01:42:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c12b05b8-8920-317f-b9ea-64a88b3bd31e | -7.9721 | -43.3904 | 2025-07-13 01:50:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 75.4 |
-| 8dd8c0c5-d4a6-3d43-8664-bc8e1d80e9db | -7.991 | -43.3884 | 2025-07-13 01:50:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 146.0 |
-| 345b6ff1-847f-3f72-8b47-4811fa3b8d3f | -7.9913 | -43.3649 | 2025-07-13 01:50:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 56.0 |
-| 473c19ee-670a-3a1a-a46d-d1f7005ffdee | -5.739 | -44.9945 | 2025-07-13 01:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| 21be81f2-62cb-358e-8102-7bf71e070e99 | -13.8474 | -46.8964 | 2025-07-13 01:50:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 63.9 |
-| d252257b-c72c-30e1-b1cb-b947759180e3 | -5.7392 | -44.9718 | 2025-07-13 02:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 58.4 |
-| 443b5e3a-d862-3590-8bd7-26520d73a675 | -7.991 | -43.3884 | 2025-07-13 02:00:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 183.8 |
-| bf60c8d1-7edf-3794-abc8-c03b64077d1e | -5.739 | -44.9945 | 2025-07-13 02:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 76.4 |
-| 86c2e599-2d83-3653-972b-f6367f7f5220 | -7.9913 | -43.3649 | 2025-07-13 02:00:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 56.5 |
-| f636144d-b6f8-3984-8bf7-68c6f5d47714 | -5.7392 | -44.9718 | 2025-07-13 02:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 63.9 |
-| 2e696ee7-ea19-3358-982a-773d64c4c79c | -7.9913 | -43.3649 | 2025-07-13 02:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 61.3 |
-| 8a895719-c392-33fb-bc7a-56f820197785 | -13.8474 | -46.8964 | 2025-07-13 02:10:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| d6f26004-3d53-3941-86d9-98cb37f374c3 | -7.991 | -43.3884 | 2025-07-13 02:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 144.5 |
-| 2615105a-6072-39c6-820f-7c88862457fd | -5.739 | -44.9945 | 2025-07-13 02:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 84.0 |
-| e66f2d8f-869e-3816-9b73-30f1338fd4b0 | -5.739 | -44.9945 | 2025-07-13 02:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 90.4 |
-| 4ed16789-97a1-38db-bebc-3919c6e87d60 | -7.991 | -43.3884 | 2025-07-13 02:20:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 128.4 |
-| b58cec07-6cd2-3c81-a083-ab47fcf9fdb8 | -5.7392 | -44.9718 | 2025-07-13 02:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 70.5 |
-| 1fbe66f2-b315-3e58-8032-5d0bd884cac7 | -7.991 | -43.3884 | 2025-07-13 02:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 81.3 |
-| 648e17c4-427d-3ad2-a8c9-d4f803ee1b88 | -5.7392 | -44.9718 | 2025-07-13 02:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 57.0 |
-| 0d499c48-c1ca-395c-a8a0-93da45780400 | -5.739 | -44.9945 | 2025-07-13 02:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| d92f3202-58fb-364b-9df8-6b07cc7428f0 | -13.8474 | -46.8964 | 2025-07-13 02:30:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 59.1 |
-| 487c4884-c4c0-38ec-927f-d63ac094aa64 | -5.7392 | -44.9718 | 2025-07-13 02:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 59.5 |
-| 4c0b4a08-330d-3915-8ade-3b2b7252dd50 | -5.739 | -44.9945 | 2025-07-13 02:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| 5e0c762c-dd79-3352-945a-037959e430e4 | -13.8474 | -46.8964 | 2025-07-13 02:40:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 58.3 |
-| 6fb891a7-3545-3f71-9b80-71f56e68b62e | -7.991 | -43.3884 | 2025-07-13 02:40:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 84.0 |
-| 4f37f5f9-589a-34d0-9026-2696899894ad | -5.739 | -44.9945 | 2025-07-13 02:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 74.8 |
-| d20f074b-9249-3221-a34e-533a85afaffd | -7.991 | -43.3884 | 2025-07-13 02:50:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 52.1 |
-| 9e84c7dc-88cd-3cd9-932d-1949bfccaa4e | -13.8474 | -46.8964 | 2025-07-13 02:50:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 69.8 |
-| 2f578584-6346-3ba5-8516-374d23425b49 | -5.7392 | -44.9718 | 2025-07-13 02:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| 168a60f4-c3ea-394c-bf5a-2a3c0a59e786 | -13.8474 | -46.8964 | 2025-07-13 03:00:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 62.8 |
-| 5c5fe2c7-5d5e-3e9d-8110-b49485cc1d5b | -5.739 | -44.9945 | 2025-07-13 03:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 93.3 |
-| e6287a6a-b999-3595-859e-c9ef14da7abb | -7.991 | -43.3884 | 2025-07-13 03:00:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Cerrado | 57.0 |
-| 50df3d21-175d-3155-b12c-1034cb21d8f3 | -5.7392 | -44.9718 | 2025-07-13 03:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 57.5 |
-| 7d5cffb0-cd91-3a40-bdff-66c527833c98 | -5.739 | -44.9945 | 2025-07-13 03:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| 9981ee6b-b45e-3005-9b36-929e861231de | -13.8474 | -46.8964 | 2025-07-13 03:10:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 68.9 |
-| a00bb49a-fd0e-31c3-8103-66101a51aebd | -5.7392 | -44.9718 | 2025-07-13 03:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 69.0 |
-| cb36132f-8597-3bea-aaf8-fdf6bce60df7 | -22.65806 | -43.29609 | 2025-07-13 03:10:00 | NPP-375D | DUQUE DE CAXIAS | RIO DE JANEIRO | Brasil | 3301702 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 2b63d713-20c6-38f1-8a55-2173b3dfa102 | -22.6627 | -43.29014 | 2025-07-13 03:10:00 | NPP-375D | DUQUE DE CAXIAS | RIO DE JANEIRO | Brasil | 3301702 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 7500a3dd-773d-33c7-b992-a3d8a4702b7a | -22.66113 | -43.29632 | 2025-07-13 03:10:00 | NPP-375D | DUQUE DE CAXIAS | RIO DE JANEIRO | Brasil | 3301702 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 62109e9c-807d-3e91-8343-e2963e44be38 | -22.65959 | -43.2899 | 2025-07-13 03:10:00 | NPP-375D | DUQUE DE CAXIAS | RIO DE JANEIRO | Brasil | 3301702 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| fd582890-aeb5-3602-b6b1-4ffdaaa13bc1 | -5.739 | -44.9945 | 2025-07-13 03:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 110.9 |
-| ff2a217e-32f7-3753-92ae-977e10ea276a | -13.8474 | -46.8964 | 2025-07-13 03:20:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 63.6 |
-| 8bce6382-a9eb-3aa7-b25c-ed589a5767db | -5.7392 | -44.9718 | 2025-07-13 03:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 90.1 |
-| 0348c415-65b2-32e5-9280-25ad2e1750d7 | -6.95176 | -42.73703 | 2025-07-13 03:28:00 | NOAA-20 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 10.7 |
-| 9e257bfd-c7ab-34cd-9053-f92a02500cb7 | -6.64085 | -39.32882 | 2025-07-13 03:28:00 | NOAA-20 | CARIÚS | CEARÁ | Brasil | 2303303 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 51ad7e51-6b4b-3367-86e5-bbc6f8bf1c18 | -7.10911 | -40.39154 | 2025-07-13 03:28:00 | NOAA-20 | SALITRE | CEARÁ | Brasil | 2311959 | 23 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| 30debd0e-fee6-3fd3-ad53-1276af009200 | -6.12878 | -42.9613 | 2025-07-13 03:28:00 | NOAA-20 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 12.9 |
+| c389c043-b70d-3767-81d6-160440289c20 | -8.9137 | -47.349998 | 2025-07-14 00:31:00 | METOP-B | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 371dfecf-09df-3348-86b1-c0c690e253e7 | -9.4887 | -47.5555 | 2025-07-14 00:31:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e6d20790-44ef-333b-8a49-b9759129d035 | -8.498 | -43.286999 | 2025-07-14 00:31:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| e2317f18-7951-3a1a-a80c-155a66ad9165 | -10.5825 | -49.136902 | 2025-07-14 00:31:00 | METOP-B | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| be9725a7-c025-3aa7-8b68-cf43a15acbb3 | -3.5814 | -47.533001 | 2025-07-14 00:31:00 | METOP-B | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d6e6f0df-8a01-38c5-a917-85446e031ee2 | -3.9807 | -48.41 | 2025-07-14 00:31:00 | METOP-B | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 242ea4ca-7638-3de0-aabb-9e9ba1c62cce | -10.5671 | -49.115299 | 2025-07-14 00:31:00 | METOP-B | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 56416d51-4225-326d-bbfb-83b37dea53f6 | -7.2668 | -45.3004 | 2025-07-14 00:31:00 | METOP-B | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6bc039ca-e919-3ac4-b8ee-27101945c86b | -8.503 | -43.306702 | 2025-07-14 00:31:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 70aa9f80-afeb-3e7f-8113-cfc3cb1296b4 | -7.2607 | -45.317699 | 2025-07-14 00:31:00 | METOP-B | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| fbdb57a5-cd36-3777-a83a-1f24fea1b7a7 | -3.5786 | -47.520901 | 2025-07-14 00:31:00 | METOP-B | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c0680a8f-ac1b-3448-9b66-19654cbed8ba | -4.2999 | -48.101101 | 2025-07-14 00:31:00 | METOP-B | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 29b567ff-68e2-3b30-be7e-86cc798afd96 | -21.493299 | -54.2617 | 2025-07-14 00:31:00 | METOP-B | NOVA ALVORADA DO SUL | MATO GROSSO DO SUL | Brasil | 5006002 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 30b215fb-059e-36b2-a503-97c81bbe9555 | -10.2766 | -47.613701 | 2025-07-14 00:31:00 | METOP-B | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9a236224-0846-3839-b184-e579440df587 | -8.9039 | -47.352402 | 2025-07-14 00:31:00 | METOP-B | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c35b485e-5030-30d5-a4b2-bc33b3a4ce5f | -8.9087 | -47.329102 | 2025-07-14 00:31:00 | METOP-B | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e3a9a585-04c8-3f4a-a38a-2a7ae9ffb762 | -8.9014 | -47.3419 | 2025-07-14 00:31:00 | METOP-B | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4e079da8-a393-36d4-ade4-5a34c6067c87 | -3.5856 | -47.506599 | 2025-07-14 00:31:00 | METOP-B | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b2d9ca27-8d7c-3ffd-85c1-2ec2fbcf761a | -21.499901 | -47.263599 | 2025-07-14 00:31:00 | METOP-B | TAMBAÚ | SÃO PAULO | Brasil | 3553302 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 74c09b9a-1585-3c37-a1e8-e8846be202f7 | -4.2422 | -46.624599 | 2025-07-14 00:31:00 | METOP-B | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| b427633f-c17c-3c1f-a38f-cbdc04890bbd | -10.2863 | -47.611301 | 2025-07-14 00:31:00 | METOP-B | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9fcea122-fb86-3b0f-a0e8-2397e194262e | -9.4911 | -47.565399 | 2025-07-14 00:31:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cf22fac8-5a09-3b94-a415-085e63c1a47e | -7.2465 | -46.9725 | 2025-07-14 00:31:00 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e95731a5-72eb-3bc7-a365-b3be0266f163 | -7.2437 | -46.960899 | 2025-07-14 00:31:00 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 73b460fd-8b54-37ad-b24f-6a0268593225 | -10.569 | -49.123299 | 2025-07-14 00:31:00 | METOP-B | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0d049c56-72f9-3b4a-a412-6f222d6fa5d7 | -5.2753 | -44.882401 | 2025-07-14 00:31:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 2b6d610c-cc55-3a26-b1dc-b736ed376221 | -14.5098 | -58.580101 | 2025-07-14 00:31:00 | METOP-B | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 46f1dccf-54e2-380d-82bb-7bc28cde41ea | -3.5809 | -47.5367 | 2025-07-14 00:40:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 50.2 |
+| a18649b8-0ca6-36e7-81aa-81a00917bd3b | -8.5211 | -43.3063 | 2025-07-14 00:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 84.6 |
+| 6b57b03a-3bd2-3908-b71e-8d393b513f43 | -10.2773 | -47.611 | 2025-07-14 00:40:00 | GOES-19 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 70.1 |
+| 486f44b3-3e81-3d91-a838-d023c84bbda1 | -3.581 | -47.5149 | 2025-07-14 00:40:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 77.3 |
+| 0435f813-f68e-3bf7-8904-6e75577f837a | -8.5022 | -43.3085 | 2025-07-14 00:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 61.6 |
+| 7312ed31-ff62-31de-b3e4-4cbf2cfc5cae | -3.5809 | -47.5367 | 2025-07-14 00:50:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 48.2 |
+| 3139f354-08e6-35f4-9415-bc21eeddc6ae | -4.301 | -48.1133 | 2025-07-14 00:50:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 48.1 |
+| 7489d886-448f-323f-a48b-ec850b3ba673 | -8.5211 | -43.3063 | 2025-07-14 00:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 85.5 |
+| 1d1da6b4-d504-3c7f-9481-40f41e2fa3e6 | -3.581 | -47.5149 | 2025-07-14 00:50:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 66.2 |
+| babbe170-a3a5-3cb3-9ba0-33737f116a0c | -10.2773 | -47.611 | 2025-07-14 00:50:00 | GOES-19 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 59.4 |
+| 2dd45070-0c8f-3ba4-a2e3-7374420221a8 | -8.5211 | -43.3063 | 2025-07-14 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 84.1 |
+| 52dd87de-a6e1-3ffc-b37e-28d0b84fa469 | -9.361 | -40.4273 | 2025-07-14 01:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 66.3 |
+| 15d8f9d4-9704-3666-81f8-c6b422531a78 | -3.581 | -47.5149 | 2025-07-14 01:00:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| fe27cb05-9768-369b-a695-230877835d17 | -9.3614 | -40.4025 | 2025-07-14 01:00:00 | GOES-19 | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 65.1 |
+| 0df3796b-8e3a-3d2c-9cb2-6b6fef95c7c2 | -10.2773 | -47.611 | 2025-07-14 01:00:00 | GOES-19 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 57.4 |
+| cf940409-8aa7-3695-bcb9-b42752f1a73f | -3.581 | -47.5149 | 2025-07-14 01:10:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 58.1 |
+| e8e9384e-5544-36d6-b7e5-8ab82d4e80bc | -8.5211 | -43.3063 | 2025-07-14 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 91.2 |
+| 34a3665f-d623-3443-9f69-87e80ec3a450 | -10.2773 | -47.611 | 2025-07-14 01:10:00 | GOES-19 | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 50.9 |
+| 3d9f334c-44ee-37e4-81a1-53fa895bd6e8 | -8.5211 | -43.3063 | 2025-07-14 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 96.1 |
+| 52577e32-b644-3ca8-bad1-c52506398805 | -3.581 | -47.5149 | 2025-07-14 01:20:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 60.3 |
+| 174637c8-bf4a-3b87-aedb-c0ef8fb0932d | -20.146999 | -50.717899 | 2025-07-14 01:21:00 | METOP-C | ASPÁSIA | SÃO PAULO | Brasil | 3503950 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 32154f33-937f-315a-a196-d63d01e5e233 | -3.5915 | -47.512699 | 2025-07-14 01:21:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0e2bed57-c714-35c3-8236-ae3a01d6d1d5 | -3.5819 | -47.515099 | 2025-07-14 01:21:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d1b0ea56-7f57-3bab-939a-1af5379d3561 | -10.2748 | -60.546398 | 2025-07-14 01:21:00 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e0ef9e96-6349-371e-b302-d2da1d5753f2 | -14.5026 | -58.592999 | 2025-07-14 01:21:00 | METOP-C | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 8a59300b-40cc-3639-b9da-b0e4b927fc44 | -9.0236 | -59.544899 | 2025-07-14 01:21:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 017ab44f-5918-38f7-ab29-574fe4627d6c | -21.495701 | -54.273201 | 2025-07-14 01:21:00 | METOP-C | NOVA ALVORADA DO SUL | MATO GROSSO DO SUL | Brasil | 5006002 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| ff9f545f-ac21-3b5b-a450-898767748a64 | -11.8726 | -58.7034 | 2025-07-14 01:21:00 | METOP-C | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| a1556d44-af3b-37e6-a517-f037306881bb | -7.6326 | -56.758999 | 2025-07-14 01:21:00 | METOP-C | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 22fca2f5-5d51-3e92-ac45-cd3079ef2ccd | -9.4768 | -57.323002 | 2025-07-14 01:21:00 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1c7b2da7-61c1-34ce-844e-de2a3ef2eea0 | -10.2799 | -47.608501 | 2025-07-14 01:21:00 | METOP-C | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1453a760-5639-3f56-a9eb-7fc3401e6da6 | -21.493999 | -54.265701 | 2025-07-14 01:21:00 | METOP-C | NOVA ALVORADA DO SUL | MATO GROSSO DO SUL | Brasil | 5006002 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 993095de-8744-386a-b50d-92d15c50f9ba | -14.5042 | -58.6003 | 2025-07-14 01:21:00 | METOP-C | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| fe23161a-7a5f-3342-9da4-3ebb5e5c5674 | -10.0576 | -59.105301 | 2025-07-14 01:21:00 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| bb65e4e4-575e-307a-8d96-bee348f21383 | -9.3585 | -58.836899 | 2025-07-14 01:21:00 | METOP-C | COTRIGUAÇU | MATO GROSSO | Brasil | 5103379 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 93b05c4e-c007-3801-9ea5-c30958e626ea | -8.9163 | -47.3512 | 2025-07-14 01:21:00 | METOP-C | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ac9d88bf-9e47-3fdb-abeb-c143335931b7 | -10.2895 | -47.6059 | 2025-07-14 01:21:00 | METOP-C | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1e0df190-ad92-3915-8ec0-ecb3f36ab1c3 | -8.5211 | -43.3063 | 2025-07-14 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 96.3 |
+| 0c389405-d972-371e-97d5-a495921a1641 | -8.5211 | -43.3063 | 2025-07-14 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 90.3 |
+| 32c22923-773f-3844-b7ae-103695a13f70 | -14.49647 | -58.60448 | 2025-07-14 01:41:00 | TERRA_M-M | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| b98cc9e0-a8e1-39c7-bc2b-e3fce5568066 | -8.5022 | -43.3085 | 2025-07-14 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 54.8 |
+| e2e4d9b5-c96a-3ae3-9230-315526e04626 | -9.3805 | -40.3998 | 2025-07-14 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 205.8 |
+| 083901ed-6c66-3090-b7a4-df0604dbfb67 | -6.1112 | -47.2897 | 2025-07-14 01:50:00 | GOES-19 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 100.9 |
+| 37cd5c6a-2bdb-3952-9737-54d8e3e1b892 | -6.1299 | -47.2884 | 2025-07-14 01:50:00 | GOES-19 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 98.5 |
+| 02d926b5-e194-3616-b2c5-b82984a7977f | -9.3614 | -40.4025 | 2025-07-14 01:50:00 | GOES-19 | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 192.8 |
+| da0f5d0e-91cd-3038-887d-8dbe9cf0e2b0 | -6.111 | -47.3116 | 2025-07-14 01:50:00 | GOES-19 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| a088b5a2-ba2f-3e6c-bf29-1e772b2be412 | -8.5211 | -43.3063 | 2025-07-14 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| 9d2b85ca-261d-3c1d-b97e-98788a6305a4 | -9.3801 | -40.4246 | 2025-07-14 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 188.6 |
+| e027e93c-8148-365c-bb81-3e2b9df5272b | -7.272 | -45.3019 | 2025-07-14 01:50:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 60.9 |
+| 91b766f5-7862-3d88-bea9-096e87a818e2 | -7.2718 | -45.3246 | 2025-07-14 01:50:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 57.3 |
+| f71b0694-2087-3e56-a52b-17a41970f7a6 | -9.361 | -40.4273 | 2025-07-14 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 172.7 |
+| 38308ede-9dea-3ea0-a7fd-2e3d49de5734 | -8.5211 | -43.3063 | 2025-07-14 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 71.4 |
+| f4d58c6f-bfff-38ea-95c3-897c223e3284 | -8.5211 | -43.3063 | 2025-07-14 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 72.1 |
+| 13e65c77-e7fc-3dd7-9972-5563f17b107d | -8.5211 | -43.3063 | 2025-07-14 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 73.5 |
+| 1f165b0d-1ca3-3d55-8358-2e21d78cca48 | -8.5211 | -43.3063 | 2025-07-14 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| 98071f38-d8ec-3064-b100-eee72f4fefd7 | -8.5022 | -43.3085 | 2025-07-14 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 51.7 |
+| 7d05b08e-51ea-394a-928c-6194b903bc11 | -4.301 | -48.1133 | 2025-07-14 02:30:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 49.6 |
+| 2898c192-1d83-3a36-9389-fb6ebfb31cf8 | -8.5211 | -43.3063 | 2025-07-14 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 68.7 |
+| 7a997fa9-81cc-32b1-8faf-4afe845485d2 | -8.5211 | -43.3063 | 2025-07-14 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| ba07df08-3d39-3b99-b324-55b966b12ba7 | -8.5022 | -43.3085 | 2025-07-14 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 54.5 |
+| 7f27f4d3-f32e-30d5-b739-8108e439b021 | -8.5022 | -43.3085 | 2025-07-14 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 49.5 |
+| 1231a86f-b2d6-382c-8998-5afb53109391 | -8.5211 | -43.3063 | 2025-07-14 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 015c8c5e-9d0a-38cf-956e-4c942f3045fd | -8.5022 | -43.3085 | 2025-07-14 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 51.1 |
+| 5aeff22c-4e27-311a-832e-68acf0de0124 | -8.5211 | -43.3063 | 2025-07-14 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| ec79a267-6370-3694-ab57-5016c05f9e76 | -4.51792 | -38.54954 | 2025-07-14 03:10:00 | NOAA-20 | OCARA | CEARÁ | Brasil | 2309458 | 23 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| a145c639-3f03-3b92-a362-5563124b248a | -5.15339 | -37.68623 | 2025-07-14 03:10:00 | NOAA-20 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| f9cb6f07-9ce3-3d7b-84ad-98a36940dc2b | -9.45153 | -40.37987 | 2025-07-14 03:10:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| 6df7cde6-eeb1-3abe-9db1-e5b7362f31c2 | -5.15266 | -37.68419 | 2025-07-14 03:10:00 | NOAA-20 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 467e8128-5d04-3d8f-9b8f-ff6e75ed648a | -5.1585 | -37.68522 | 2025-07-14 03:10:00 | NOAA-20 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 6297f61c-ff4b-3676-a21d-bfd334d9242a | -9.45794 | -40.38118 | 2025-07-14 03:10:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 5.9 |
+| 586485da-81a5-3723-9a90-39f437c01320 | -5.15775 | -37.68939 | 2025-07-14 03:10:00 | NOAA-20 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 748faa79-756c-3e56-8857-0be593e33d67 | -5.15191 | -37.68837 | 2025-07-14 03:10:00 | NOAA-20 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| b1e96505-9395-31c7-bc61-c9ce274f4c80 | -8.24641 | -41.93401 | 2025-07-14 03:10:00 | NOAA-20 | NOVA SANTA RITA | PIAUÍ | Brasil | 2207959 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
