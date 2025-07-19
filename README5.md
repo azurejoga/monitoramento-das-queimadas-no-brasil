@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c8e5bc31-869f-3039-bfee-cbb84da5f394 | -11.5587 | -47.0966 | 2025-07-18 01:40:00 | GOES-19 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 45.4 |
-| 944c40cf-e110-3429-b355-76ac07e22cc5 | -3.1198 | -47.0075 | 2025-07-18 01:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 58.3 |
-| 5e1a664d-95c7-3b89-88e6-e866de75ea7d | -11.7317 | -48.1849 | 2025-07-18 01:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 58.2 |
-| 86b8622d-baf4-3fad-a07b-31efd52a0e1e | -8.0883 | -43.1667 | 2025-07-18 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 128.2 |
-| de0f9f1a-d53c-30c2-a137-d44ea93c82e2 | -8.0693 | -43.1687 | 2025-07-18 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 59.6 |
-| 1082854c-b1af-3e46-998c-260f015eb907 | -11.559 | -47.0742 | 2025-07-18 01:40:00 | GOES-19 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| 62e7c602-1d04-3d6f-be4e-e9881fbca674 | -8.0696 | -43.1452 | 2025-07-18 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 108.0 |
-| 29db278e-effe-32e7-a530-4b0cd1846f4e | -5.6754 | -43.7147 | 2025-07-18 01:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 57.4 |
-| 04e705c3-7b1d-3b1d-ad31-9538b288159f | -5.6379 | -43.7175 | 2025-07-18 01:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 67.8 |
-| 3a3dcca3-7771-3774-aefe-62fc32da471b | -3.3958 | -47.4785 | 2025-07-18 01:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 126.4 |
-| 0e86718e-7fd2-3939-87cc-0e195afffd65 | -3.3772 | -47.4792 | 2025-07-18 01:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 57.6 |
-| 2fc5a9ce-5208-3f71-87c9-8269fa2e545d | -5.6567 | -43.7161 | 2025-07-18 01:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 264.4 |
-| ded8f9e7-14a8-372e-bbbf-2e12aa7132cd | -8.0886 | -43.1431 | 2025-07-18 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 264.0 |
-| 369f4076-1a33-3526-b50f-6e29fa7c45df | -11.559 | -47.0742 | 2025-07-18 01:50:00 | GOES-19 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 46.7 |
-| f679f693-5cd4-3bf9-bd96-114fc6f3cfa1 | -8.0883 | -43.1667 | 2025-07-18 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 105.8 |
-| a4ae4b8f-b570-334f-81ff-3f2efa05a57c | -5.6567 | -43.7161 | 2025-07-18 01:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 244.7 |
-| 77565a6f-e3a9-37c8-b1c4-02c0106d1939 | -3.3958 | -47.4785 | 2025-07-18 01:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 129.3 |
-| ac7ce0fc-93fd-303d-a4a7-94532d29d6e9 | -11.7317 | -48.1849 | 2025-07-18 01:50:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 56.3 |
-| 6bcbfcfd-d4f4-377f-8858-d52b037fcb19 | -3.3772 | -47.4792 | 2025-07-18 01:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 64.7 |
-| 8f7f4410-77bc-3b24-936b-534c10ac8834 | -5.6569 | -43.6929 | 2025-07-18 01:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| ac4c97ca-c8e9-3462-9cdf-9bf1646a727f | -20.038 | -41.6611 | 2025-07-18 01:50:00 | GOES-19 | CHALÉ | MINAS GERAIS | Brasil | 3116001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 61.5 |
-| 265fd326-14e3-39a7-8796-c784d9bb5181 | -5.6379 | -43.7175 | 2025-07-18 01:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 51.0 |
-| d5c3910e-0667-346a-8362-0e8283772ea5 | -8.1075 | -43.1411 | 2025-07-18 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.1 |
-| 86decf97-e14f-306b-9fde-cf7955299308 | -3.1198 | -47.0075 | 2025-07-18 01:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| 4b938945-f23d-3e1d-b5bf-0dfe5c2f8404 | -8.0696 | -43.1452 | 2025-07-18 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 92.2 |
-| b905abc0-9269-30dd-9016-8abd25ea262b | -8.0886 | -43.1431 | 2025-07-18 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 229.6 |
-| 39775a71-1c84-3901-94d3-0a501d10a1fd | -3.3957 | -47.5003 | 2025-07-18 01:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 72.8 |
-| ba176e02-be90-3f15-9759-b39939751390 | -5.6569 | -43.6929 | 2025-07-18 02:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 73.1 |
-| a1708fa0-bddc-3f06-aa1c-6dd0123494cf | -11.559 | -47.0742 | 2025-07-18 02:00:00 | GOES-19 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 44.9 |
-| 6cd344b0-3ad4-35d1-bd15-8942220fe5c2 | -5.6379 | -43.7175 | 2025-07-18 02:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 54.9 |
-| 69cb1fb6-4bfa-320c-babd-7bc498f9caa2 | -5.6567 | -43.7161 | 2025-07-18 02:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 236.8 |
-| c68ab0cb-4707-3795-9ccb-3e835bb93d46 | -8.0886 | -43.1431 | 2025-07-18 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 170.5 |
-| 529e80a7-4392-334d-9c47-258eab81fc1e | -5.6565 | -43.7393 | 2025-07-18 02:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 51.4 |
-| e86bd359-cc27-3ceb-9ccc-18d5afe202c6 | -8.0883 | -43.1667 | 2025-07-18 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 108.6 |
-| 8e3a8c30-4908-32cf-ac90-f94754955ba1 | -11.7317 | -48.1849 | 2025-07-18 02:00:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 56.7 |
-| e1ba4e93-d959-3ac2-9f88-8be8e66ff708 | -8.0696 | -43.1452 | 2025-07-18 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 70.4 |
-| aa60824a-854c-3226-95d8-3c4b5f90a1a0 | -8.1075 | -43.1411 | 2025-07-18 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.8 |
-| a734c016-ae3b-3709-95f5-ef42381b8d9e | -3.3958 | -47.4785 | 2025-07-18 02:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 144.3 |
-| 95d207e1-c275-30cb-8782-e5d753a3f0d3 | -3.3772 | -47.4792 | 2025-07-18 02:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| 0d2ff037-b018-3f52-a9ef-9ad25aa90e81 | -3.3957 | -47.5003 | 2025-07-18 02:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 72.3 |
-| 2bebb788-fa71-36c1-9a71-e683ee3ea6cd | -5.6569 | -43.6929 | 2025-07-18 02:10:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 93.8 |
-| 845ab032-7a83-3224-87f4-914b3245c761 | -8.1075 | -43.1411 | 2025-07-18 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 56.1 |
-| ad9b4507-cf54-3bcf-b29b-ba2a001da832 | -5.6565 | -43.7393 | 2025-07-18 02:10:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 50.2 |
-| a6b69717-3590-3597-924b-91c1b45dc3b9 | -8.0883 | -43.1667 | 2025-07-18 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 91.6 |
-| 976e1b6d-8098-3e3b-9692-281963bcca55 | -11.7317 | -48.1849 | 2025-07-18 02:10:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 47.3 |
-| a95f6374-6ccf-35d0-a2cb-e188f469c3d6 | -11.7508 | -48.1825 | 2025-07-18 02:10:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 45.5 |
-| ea6e6d27-e14e-35b5-ad7f-d863aa527c4d | -5.6379 | -43.7175 | 2025-07-18 02:10:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| 0207970f-9f51-36d7-b340-1461b90af76f | -3.3957 | -47.5003 | 2025-07-18 02:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 77.3 |
-| 7f9d59c6-6e72-38cc-a9da-af7af0e2379d | -3.3958 | -47.4785 | 2025-07-18 02:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 128.9 |
-| b3dde616-6328-36a8-8fb6-2f38261e8554 | -5.6567 | -43.7161 | 2025-07-18 02:10:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 242.3 |
-| 60fb28d1-53c0-3f0c-ac7b-12fcc3567efb | -8.0696 | -43.1452 | 2025-07-18 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 53.7 |
-| 011cc042-c3e3-3dff-8fb9-31623672a348 | -8.0886 | -43.1431 | 2025-07-18 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 184.3 |
-| 328babb0-3d3d-32c7-9bc3-479020649609 | -11.7508 | -48.1825 | 2025-07-18 02:20:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| 91d33e25-6fb6-31fb-8dad-cbcbbe3274dc | -3.3957 | -47.5003 | 2025-07-18 02:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 61.3 |
-| 6a0ce2ac-4733-3188-8412-a360947de950 | -8.0886 | -43.1431 | 2025-07-18 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 151.6 |
-| 7ba94d50-ea49-3c7a-826a-20b3b79a3379 | -3.1198 | -47.0075 | 2025-07-18 02:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 57.3 |
-| b2d9d789-2272-32ea-97ea-c5a954e7e8ca | -3.3958 | -47.4785 | 2025-07-18 02:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 144.5 |
-| f8b004df-07a8-322d-9857-931556c78f34 | -5.6379 | -43.7175 | 2025-07-18 02:20:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 56.1 |
-| 43a76208-a474-38f7-9b07-f9602dd27db3 | -5.6567 | -43.7161 | 2025-07-18 02:20:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 246.5 |
-| 20a96dda-c2d4-3041-b4f9-3ef9641a651f | -5.6569 | -43.6929 | 2025-07-18 02:20:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 2b79830f-c0dd-318f-b17e-c86d626b0beb | -3.3772 | -47.4792 | 2025-07-18 02:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 52.8 |
-| da29735e-cdf5-33ca-9a96-2cc3c973970e | -8.0883 | -43.1667 | 2025-07-18 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 100.0 |
-| 23e50be3-f7fa-3953-b57d-341b2aae1db2 | -3.3772 | -47.4792 | 2025-07-18 02:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 65.5 |
-| 4393991a-52e8-38c4-95a6-4b1d87d77efd | -5.6379 | -43.7175 | 2025-07-18 02:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 50.8 |
-| f682bad0-3750-3c67-a0eb-81bdcfdfed97 | -7.5988 | -46.308 | 2025-07-18 02:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 51.6 |
-| 9b4f839c-9a19-31b9-9a2b-e93d2a770f04 | -5.6567 | -43.7161 | 2025-07-18 02:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 229.3 |
-| 1d6ed947-b823-31f7-9898-fda880e90987 | -3.3958 | -47.4785 | 2025-07-18 02:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 132.4 |
-| 75c517b9-2268-354f-b126-136fe560468a | -8.0886 | -43.1431 | 2025-07-18 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 126.7 |
-| f9b9bc79-da50-33c1-86b1-5cde6540ad01 | -3.3957 | -47.5003 | 2025-07-18 02:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 58.5 |
-| 8fbdd5cd-e02c-3729-b675-4f39bec7e1b6 | -5.6569 | -43.6929 | 2025-07-18 02:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 58.4 |
-| 84b7ab47-b805-3c95-bc68-ab868ff41f4e | -8.0883 | -43.1667 | 2025-07-18 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 84.7 |
-| f0fb79ec-2228-35cf-97bd-953391583019 | -8.0696 | -43.1452 | 2025-07-18 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 53.5 |
-| 06ce38f5-41ce-392d-8216-07a2ab44b261 | -11.7317 | -48.1849 | 2025-07-18 02:30:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 64.4 |
-| cffd9958-51bb-3605-8609-bfc55e619eb7 | -3.3958 | -47.4785 | 2025-07-18 02:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 142.4 |
-| ba1f6a62-9402-3079-af59-16ec60ef5f69 | -11.7508 | -48.1825 | 2025-07-18 02:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 46.5 |
-| 25e9ecd0-beb4-3a2d-b1e9-fb9bab520072 | -5.6567 | -43.7161 | 2025-07-18 02:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 204.0 |
-| 9250f5ea-2463-3fb8-b4c2-5aafae6c5a58 | -11.7317 | -48.1849 | 2025-07-18 02:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| 2394f88b-1ba2-32b0-844a-c2be0ac86ba9 | -3.3772 | -47.4792 | 2025-07-18 02:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 54.2 |
-| a37bf5b2-10d3-3726-b75b-9b2f952654d8 | -3.3957 | -47.5003 | 2025-07-18 02:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 64.3 |
-| cdc45b15-9edf-3836-9430-f668c6d507bf | -8.0886 | -43.1431 | 2025-07-18 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 110.9 |
-| b1ca2745-a385-34c6-a346-e16705744f32 | -8.0883 | -43.1667 | 2025-07-18 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.0 |
-| ad499f00-96a1-3fa8-8cdf-74022d930d6b | -5.6379 | -43.7175 | 2025-07-18 02:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 64.9 |
-| 43bcead9-1eb0-3e43-b9c7-15368fa33984 | -11.559 | -47.0742 | 2025-07-18 02:50:00 | GOES-19 | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 43.4 |
-| af5e1816-6259-3a96-a328-e14a8d4ea3c7 | -3.3958 | -47.4785 | 2025-07-18 02:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 126.5 |
-| c99604de-26f8-3b4f-a049-bfde03f15e5d | -5.6379 | -43.7175 | 2025-07-18 02:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| f055e083-febb-34ad-a6e8-b5dd831a292d | -8.0886 | -43.1431 | 2025-07-18 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 114.9 |
-| 3ebed972-d764-3f36-b388-35976c6f17dc | -11.7317 | -48.1849 | 2025-07-18 02:50:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 55.9 |
-| 03922b40-7148-373d-a3e1-6256646090b6 | -5.6567 | -43.7161 | 2025-07-18 02:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 169.5 |
-| a0c9025c-6c3c-3d61-b446-7f3e503d4f61 | -3.3957 | -47.5003 | 2025-07-18 02:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 73.2 |
-| 44e380fe-4bae-3d7a-82ef-18a32f64b0c5 | -5.6569 | -43.6929 | 2025-07-18 02:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| f4126593-32e3-38af-9ad0-88472d649ca3 | -5.6379 | -43.7175 | 2025-07-18 03:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 70.0 |
-| 58cb0f5b-c8cf-3d56-ac4d-3d81fe609710 | -8.0886 | -43.1431 | 2025-07-18 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 94.2 |
-| b4735eef-382a-3de7-97fe-c01f9e7b4350 | -11.7508 | -48.1825 | 2025-07-18 03:00:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| b4a5ea4f-b0a3-3d1c-aae4-bf25dc456597 | -9.5343 | -40.3282 | 2025-07-18 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 86.9 |
-| 6292a32a-a0d0-3ba4-9625-a3966d4b220c | -3.3958 | -47.4785 | 2025-07-18 03:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 137.6 |
-| 2c53456f-caac-3556-8a2c-a1d19f25047f | -5.6569 | -43.6929 | 2025-07-18 03:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 53.6 |
-| c4964fbf-bc39-37c1-b067-82ee04179d4c | -3.3957 | -47.5003 | 2025-07-18 03:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 83.9 |
-| 09e6be5e-6707-33ff-a163-e571ac6b9834 | -5.6567 | -43.7161 | 2025-07-18 03:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 146.1 |
-| a83e8227-57fc-374d-a483-518710f67952 | -8.0886 | -43.1431 | 2025-07-18 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 83.3 |
-| 805f9419-1a58-361e-ba7e-ed1b2709e037 | -3.3772 | -47.4792 | 2025-07-18 03:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 59.0 |
+| f9a71b5b-6b95-3e53-a86a-8f07f9b9580f | -3.1384 | -47.0068 | 2025-07-19 00:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 92.9 |
+| 5767b5c3-82ef-3dd1-a650-3959b1cd6d42 | -9.8104 | -48.5622 | 2025-07-19 00:30:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| bf053b0e-9638-3524-85df-b9441b772e76 | -5.6567 | -43.7161 | 2025-07-19 00:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 456.9 |
+| 9fe4b384-7a2c-305b-8f7e-aa7ae3937317 | -11.7508 | -48.1825 | 2025-07-19 00:30:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 67.6 |
+| cc6ae890-8fbb-3924-9b51-9d74673521ab | -7.4923 | -47.4914 | 2025-07-19 00:30:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 155.3 |
+| 95ef40e0-6f81-37ac-86ce-f9169b4e3f94 | -10.6438 | -44.7645 | 2025-07-19 00:30:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 103.0 |
+| f2772bd7-5f90-321c-8aef-cd017df6841b | -5.6565 | -43.7393 | 2025-07-19 00:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| ea82b7f0-deac-3c26-9cd1-e2a7e45db32f | -7.492 | -47.5134 | 2025-07-19 00:30:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 150.1 |
+| 9c4d937f-eed4-368a-bd90-bb8e5cb60388 | -10.625 | -44.7439 | 2025-07-19 00:30:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 53.5 |
+| 209723a3-6ac9-3481-9292-26506285fa3e | -6.1792 | -48.0494 | 2025-07-19 00:30:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 148.2 |
+| 4bcb86a6-d62d-3abc-b74b-ddcf26727ec2 | -5.6569 | -43.6929 | 2025-07-19 00:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| fbf186cf-dfab-3445-a60d-16fa062eb196 | -3.1198 | -47.0075 | 2025-07-19 00:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 51.7 |
+| 25554578-8b46-388b-839d-b50dd0f489b1 | -23.9623 | -52.8642 | 2025-07-19 00:40:00 | GOES-19 | TUNEIRAS DO OESTE | PARANÁ | Brasil | 4127908 | 41 | 33 | nan | nan | nan | Mata Atlântica | 86.0 |
+| a5e12775-a0a0-3e50-8ab5-b451d496f70d | -7.4923 | -47.4914 | 2025-07-19 00:40:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 132.1 |
+| bdd19d6b-7752-3452-9b5a-66ae33d1208d | -5.6565 | -43.7393 | 2025-07-19 00:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 67.2 |
+| a6ecd6c1-f066-3b30-9303-b2874b4fa3ce | -10.6507 | -49.3184 | 2025-07-19 00:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 100.9 |
+| cb442eff-e127-3b1b-a434-2275eeebaef0 | -6.1792 | -48.0494 | 2025-07-19 00:40:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 82.7 |
+| 2f40850b-d80d-3715-83ec-fac11f573934 | -5.6379 | -43.7175 | 2025-07-19 00:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 206.1 |
+| b50052ee-ae4f-382f-9b55-9735e52751e4 | -3.1384 | -47.0068 | 2025-07-19 00:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 68.0 |
+| 46ab12bf-fe74-357a-8369-d4cc4c30b965 | -10.625 | -44.7439 | 2025-07-19 00:40:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 54.5 |
+| dc8e195d-4038-3c0f-ba80-37cb84723a20 | -5.6569 | -43.6929 | 2025-07-19 00:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 73.1 |
+| 4f81abb0-2876-3351-8167-d664ce40940b | -2.9109 | -48.2325 | 2025-07-19 00:40:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 84.4 |
+| 7e8e9dff-a2cf-37ec-bf6b-907b2676d087 | -10.6247 | -44.767 | 2025-07-19 00:40:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 186.1 |
+| 74a3f0e5-ce2b-3c26-aed1-bc4fdf9fcb89 | -10.6438 | -44.7645 | 2025-07-19 00:40:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 77ea7bee-1638-3927-bcc8-ef456d0ca051 | -6.1606 | -48.0507 | 2025-07-19 00:40:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 214.2 |
+| 5a8f2cd3-19e4-399f-9159-c8b4c5cdaef0 | -6.1608 | -48.0289 | 2025-07-19 00:40:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 44.7 |
+| 96282c77-c3d5-385a-8468-519ef601195b | -7.4733 | -47.5149 | 2025-07-19 00:40:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 58.9 |
+| 839d784c-cd91-3d21-b9a6-b6c7944a6d8a | -7.492 | -47.5134 | 2025-07-19 00:40:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 139.9 |
+| cb09af48-995a-3bec-97d9-d5302173cf56 | -5.6567 | -43.7161 | 2025-07-19 00:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 264.1 |
+| 196841ef-2e82-3f89-9af1-3122ab05eb86 | -11.7508 | -48.1825 | 2025-07-19 00:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| fbd1b9ac-3f26-3355-b48c-2bb4ebc030c3 | -10.651 | -49.2967 | 2025-07-19 00:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 252.4 |
+| 25db7b01-e135-329e-8f90-d78f399f9c1b | -10.67 | -49.2947 | 2025-07-19 00:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 125.6 |
+| 2e4c4055-5f33-3e86-9b20-7ead78adec83 | -11.7126 | -48.1874 | 2025-07-19 00:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 68.0 |
+| 05a989eb-cf40-3da3-ad1d-1791807beb4a | -5.6377 | -43.7407 | 2025-07-19 00:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 56.8 |
+| 256ac8f5-c6c4-34f5-81a1-1924ca2f80e1 | -2.9108 | -48.254 | 2025-07-19 00:40:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 87.1 |
+| 576515c9-d0ff-365a-b841-32805b9f76d2 | -5.6382 | -43.6943 | 2025-07-19 00:40:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 57.0 |
+| 2be64d37-f17d-3149-8377-a2ffe63de9c7 | -10.6697 | -49.3163 | 2025-07-19 00:40:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 51.7 |
+| 17092020-e419-3af6-8c82-0f9318cbd70c | -7.4735 | -47.493 | 2025-07-19 00:40:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 28e5caca-43fd-3d25-b7a3-fcf295212f22 | -9.8104 | -48.5622 | 2025-07-19 00:40:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 73.1 |
+| b5370b0f-d8b2-36e6-aa5b-79fded10854a | -11.7313 | -48.207 | 2025-07-19 00:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 109.9 |
+| bfae4c27-72c7-3b1d-b889-199648311e13 | -23.963 | -52.8416 | 2025-07-19 00:40:00 | GOES-19 | TUNEIRAS DO OESTE | PARANÁ | Brasil | 4127908 | 41 | 33 | nan | nan | nan | Mata Atlântica | 133.3 |
+| 5181b99f-dcdb-38f9-a34c-d8480c4caee2 | -11.7317 | -48.1849 | 2025-07-19 00:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 222.1 |
+| 88002eb2-2e5c-3615-bbda-055c15c2b0f9 | -11.4786 | -47.3306 | 2025-07-19 00:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 7c59924c-ce3c-3bf2-99d6-b27ecd237906 | -3.1198 | -47.0075 | 2025-07-19 00:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| 55b7f1e5-9566-31d9-bed0-995cc8b57d8d | -7.492 | -47.5134 | 2025-07-19 00:50:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 91.0 |
+| 456be64a-0b06-3d2d-8d94-62326f5904ad | -2.9108 | -48.254 | 2025-07-19 00:50:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 109.0 |
+| 29fbf198-2114-30ba-b021-8769c51d38c9 | -9.8104 | -48.5622 | 2025-07-19 00:50:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| 32d68c56-db3c-31a9-bcf2-2edd27dd47b6 | -11.7313 | -48.207 | 2025-07-19 00:50:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 100.8 |
+| 9bd0abb5-97d5-337d-a170-125cd47f92c7 | -6.1792 | -48.0494 | 2025-07-19 00:50:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| c9690bc1-c744-3596-92d1-38ddb989163f | -14.1828 | -58.1953 | 2025-07-19 00:50:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 48.3 |
+| 38823b5a-9e8e-302a-bf89-8c0465c12d02 | -6.1606 | -48.0507 | 2025-07-19 00:50:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 185.6 |
+| e9068d79-6649-318a-812b-4d16928f4a6a | -5.6567 | -43.7161 | 2025-07-19 00:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 329.1 |
+| d4244b30-f47a-380c-9300-b6a56894532e | -3.1198 | -47.0075 | 2025-07-19 00:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 58.6 |
+| ad654f41-0997-3348-b426-5dfcf3fd4799 | -10.6438 | -44.7645 | 2025-07-19 00:50:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 138.3 |
+| 5fdfbbf5-e71e-38f2-aa39-35630ae21975 | -14.199 | -58.4336 | 2025-07-19 00:50:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 75.8 |
+| 2848c158-c3c2-3216-85d5-a756e1722887 | -11.7508 | -48.1825 | 2025-07-19 00:50:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 68.2 |
+| 9acf9893-c237-3af5-ab9d-deb42c6ae656 | -3.1384 | -47.0068 | 2025-07-19 00:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 81.6 |
+| 7222078b-ccec-35e3-bb8e-755825f06224 | -11.7317 | -48.1849 | 2025-07-19 00:50:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 287.7 |
+| b7dde774-5d14-3d97-84a3-6f2d1517e646 | -7.4923 | -47.4914 | 2025-07-19 00:50:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 113.0 |
+| eb6ec0f4-e8ae-3cfe-b74c-c2209fc90fbb | -10.651 | -49.2967 | 2025-07-19 00:50:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 232.9 |
+| e82668cb-3de4-3fa9-b852-f2848d8ed395 | -10.6247 | -44.767 | 2025-07-19 00:50:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| 324d2291-90b8-3c46-bbe0-a7dfbbd3f3e5 | -2.9109 | -48.2325 | 2025-07-19 00:50:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 92.1 |
+| d14f3888-7fd1-3556-a1fd-e5b2e52caa59 | -5.6565 | -43.7393 | 2025-07-19 00:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 60.3 |
+| 1bf3bfa0-52f2-3f79-b2f2-3193010be151 | -11.4786 | -47.3306 | 2025-07-19 00:50:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 51.8 |
+| 53769461-3b79-3e07-8026-369c46b7f2f3 | -5.6379 | -43.7175 | 2025-07-19 00:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 149.2 |
+| 5ed2f64e-4bf8-30ec-8d90-97aed362d7cb | -7.4735 | -47.493 | 2025-07-19 00:50:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| 7dae4298-1958-374f-8c1c-263b01f15973 | -10.6507 | -49.3184 | 2025-07-19 00:50:00 | GOES-19 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 71.0 |
+| bdf4c8b4-9603-3ed0-8894-d90ad3c07b5b | -14.1798 | -58.4354 | 2025-07-19 01:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 46.0 |
+| 3b4842e4-8435-30e2-84ad-2b3cb84ba77c | -10.6247 | -44.767 | 2025-07-19 01:00:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 125.1 |
+| 4de635fd-047c-36c7-bf12-0fcf1b93ef59 | -11.7508 | -48.1825 | 2025-07-19 01:00:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| c424e591-bc3c-3108-8a75-fe89bfe4656f | -6.1792 | -48.0494 | 2025-07-19 01:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| 9a9b7cb3-dbd5-3595-91fd-cd5a18ba729a | -11.7126 | -48.1874 | 2025-07-19 01:00:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 54.6 |
+| 26697f81-152b-3f2a-a50b-5ae3f8cacff1 | -2.9108 | -48.254 | 2025-07-19 01:00:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 98.5 |
+| 6433223b-d1d7-381c-b2b5-16575c850872 | -11.7313 | -48.207 | 2025-07-19 01:00:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 83.4 |
+| 2b596597-d48c-30c2-b01d-890326aadda0 | -14.199 | -58.4336 | 2025-07-19 01:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 47.3 |
+| c4e6be47-f629-39fe-acfd-3e5f24263007 | -5.6379 | -43.7175 | 2025-07-19 01:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 167.8 |
+| c518c141-fcc8-3e09-953e-16e0ba5033fe | -2.9109 | -48.2325 | 2025-07-19 01:00:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 92.8 |
+| b2312285-d507-343b-aa8f-5cbf1e8362c1 | -10.6438 | -44.7645 | 2025-07-19 01:00:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 100.1 |
+| 84389f86-34fe-3d13-95b8-aa44aef3630f | -7.4735 | -47.493 | 2025-07-19 01:00:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 59.8 |
+| 8bf8a613-3eae-3273-a13b-e3e741ca5332 | -11.7317 | -48.1849 | 2025-07-19 01:00:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 223.4 |
+| dbfa53f2-510d-313d-9529-0468c5f88332 | -7.492 | -47.5134 | 2025-07-19 01:00:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 81.2 |
+| c7054bd5-7491-3c5a-9667-7e2122628bc5 | -7.4923 | -47.4914 | 2025-07-19 01:00:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 100.8 |
+| bc326d14-3beb-3386-93ea-be25d3898cb7 | -3.1384 | -47.0068 | 2025-07-19 01:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 77.0 |
+| dc267165-6941-3256-9ada-167d659108c9 | -9.8104 | -48.5622 | 2025-07-19 01:00:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 56.5 |
+| 08c348ef-44eb-3674-86dd-35f30d4d3063 | -3.1198 | -47.0075 | 2025-07-19 01:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 57.5 |
+| 85e1843e-d1cd-3b96-b705-b28fc60931fb | -10.625 | -44.7439 | 2025-07-19 01:00:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| 60451aff-b8ee-36fc-bf6a-0423036736f2 | -6.1606 | -48.0507 | 2025-07-19 01:00:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 185.2 |
+| ae9e9127-6f98-3ce1-9fda-fb21e897704a | -5.6567 | -43.7161 | 2025-07-19 01:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 269.3 |
+| afd7128d-cb66-3ab5-9b3e-f698f3cecb2a | -6.1604 | -48.0724 | 2025-07-19 01:10:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 52.7 |
+| 1981470e-6690-3ca3-9ef8-e0f077204d5b | -6.1792 | -48.0494 | 2025-07-19 01:10:00 | GOES-19 | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| b186abca-012e-3aa1-a279-95e013221988 | -5.6565 | -43.7393 | 2025-07-19 01:10:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 75.7 |
+| 1069acfe-7355-326e-879f-8c182663cb1d | -2.9108 | -48.254 | 2025-07-19 01:10:00 | GOES-19 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 123.0 |
+| 2097d137-0d4e-3c2b-b0fd-4442b0462029 | -3.1198 | -47.0075 | 2025-07-19 01:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| 1e0bfc11-b091-3e1c-88a1-2a2da644b859 | -11.7313 | -48.207 | 2025-07-19 01:10:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 97.0 |
+| bf80f3c5-e27d-394f-adf6-d123a1b435aa | -10.6247 | -44.767 | 2025-07-19 01:10:00 | GOES-19 | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 120.4 |
+| 9dbcde9d-7af4-35fc-89af-974583acf8b7 | -7.4923 | -47.4914 | 2025-07-19 01:10:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 88.7 |
+| f45c3424-781c-3c10-96a6-f3a142918813 | -7.492 | -47.5134 | 2025-07-19 01:10:00 | GOES-19 | BARRA DO OURO | TOCANTINS | Brasil | 1703073 | 17 | 33 | nan | nan | nan | Cerrado | 75.8 |
+| f6f93e46-3c82-3479-8cb5-a6824e6721ae | -11.4786 | -47.3306 | 2025-07-19 01:10:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 49.9 |
+| 0046a8f2-c009-31e9-b673-6404d300e6fc | -11.7508 | -48.1825 | 2025-07-19 01:10:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 86.7 |
+| d1503e4d-695d-3da7-bd58-589e67a7418c | -9.8104 | -48.5622 | 2025-07-19 01:10:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 56.0 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
