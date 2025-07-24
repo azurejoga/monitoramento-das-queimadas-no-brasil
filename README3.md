@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 02c4c55d-3fc0-35b4-b77b-c2683ab07dda | -9.0642 | -45.0749 | 2025-07-23 01:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 77.6 |
-| 33e5d8e5-2984-3e9d-b49b-2e8ec65ff619 | -7.7569 | -44.0183 | 2025-07-23 01:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 112.6 |
-| fbeefa4f-6847-3246-80ae-83d9c7757628 | -3.1832 | -49.4642 | 2025-07-23 01:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 143.7 |
-| 9e21cc76-4b8c-3e0d-910e-bbc3dc728cbb | -7.1966 | -45.3313 | 2025-07-23 01:40:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 65.0 |
-| 7bbc786c-3a5d-3970-affd-f6df3b369ddf | -9.0646 | -45.052 | 2025-07-23 01:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 93.1 |
-| d3761b4f-a718-34f5-b133-de2832931c1d | -3.1648 | -49.4648 | 2025-07-23 01:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 149.3 |
-| ded175ca-be81-31f0-ac43-42e7feef2db6 | -3.1649 | -49.4435 | 2025-07-23 01:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 147.5 |
-| 8d6c111f-e9d1-3f70-9c81-3ac810f19bb6 | -3.1832 | -49.4642 | 2025-07-23 01:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 142.1 |
-| b68a356a-a2df-3cdc-bd9c-96edc5b010f6 | -7.7569 | -44.0183 | 2025-07-23 01:50:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 109.5 |
-| 3646bd8a-b174-38e7-837d-6391b042186e | -3.1649 | -49.4435 | 2025-07-23 01:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 114.0 |
-| 9ea5d8bc-88fb-3db3-ab22-6ff2e4937855 | -3.1833 | -49.4429 | 2025-07-23 01:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 90.8 |
-| 95477837-8ec4-3658-82b9-0fea548dd4e7 | -3.1648 | -49.4648 | 2025-07-23 01:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 176.9 |
-| 08f25b16-8cda-3f62-9b71-c40b502ac304 | -3.1648 | -49.4648 | 2025-07-23 02:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 109.5 |
-| b649e2c8-8c84-3741-855d-298a90c6e5fb | -3.1833 | -49.4429 | 2025-07-23 02:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 143.9 |
-| 64d1571d-29ae-395c-bab3-ff90cb25f6e6 | -3.1649 | -49.4435 | 2025-07-23 02:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 114.9 |
-| cfb2f00a-0abf-383a-a87c-268829702387 | -9.0646 | -45.052 | 2025-07-23 02:00:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 50.0 |
-| 94de5bb3-0d4d-3457-b581-af778c1989dc | -7.7569 | -44.0183 | 2025-07-23 02:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 100.8 |
-| b26bdecd-a882-3987-b7cd-606660c11876 | -3.1832 | -49.4642 | 2025-07-23 02:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 138.4 |
-| ed5e37ab-e134-32b8-8ff4-0b8e230061c4 | -9.0646 | -45.052 | 2025-07-23 02:10:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 59.2 |
-| 73b2e6d5-68bb-3433-a54c-9431df8d44b0 | -3.1833 | -49.4429 | 2025-07-23 02:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 87.4 |
-| 8542e3de-9c90-3e74-b539-a99ef5ecc544 | -3.1648 | -49.4648 | 2025-07-23 02:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 150.0 |
-| 62f6968b-10a8-3254-87d7-f29c31b390d4 | -7.7569 | -44.0183 | 2025-07-23 02:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 101.7 |
-| e5052acb-a53e-335c-b8c2-631deae2ec2b | -3.1649 | -49.4435 | 2025-07-23 02:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 113.3 |
-| 202d2465-09ba-3c96-a761-483556bb6641 | -3.1832 | -49.4642 | 2025-07-23 02:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 116.5 |
-| b23e5d5a-5ce6-34c2-b0cb-3f120439ac65 | -3.1648 | -49.4648 | 2025-07-23 02:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 149.7 |
-| 9cda837a-11ed-368f-8d73-f53b94f2740c | -3.1832 | -49.4642 | 2025-07-23 02:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 101.2 |
-| 1b9eb49e-6b13-394a-8d51-92d53e104b8b | -9.0642 | -45.0749 | 2025-07-23 02:20:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 59.4 |
-| c6b5c0c8-dc19-39fe-8c6e-b1f697bd3507 | -9.0646 | -45.052 | 2025-07-23 02:20:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| 0a3d971a-b721-3cde-9d7f-3457c536cbe4 | -3.1649 | -49.4435 | 2025-07-23 02:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 133.7 |
-| 248187ba-4313-3448-a324-b75fb1b8fab1 | -7.7569 | -44.0183 | 2025-07-23 02:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 7df5278e-e044-3dd1-85d2-4a338b1befe4 | -3.1833 | -49.4429 | 2025-07-23 02:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 84.7 |
-| f7738ec1-8359-3e2f-95a0-aeb5c2a53ff7 | -3.1649 | -49.4435 | 2025-07-23 02:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 100.3 |
-| 918851d5-442b-3d57-8f3d-f0278976eff3 | -3.1833 | -49.4429 | 2025-07-23 02:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 85.7 |
-| 1b50d103-706b-3161-bc7d-e0e7f87e3ae5 | -7.7569 | -44.0183 | 2025-07-23 02:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 90.2 |
-| 0c9a1977-1a7d-33eb-a348-4ffa84f2efeb | -9.0646 | -45.052 | 2025-07-23 02:30:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 64.3 |
-| ee6c4129-ee4b-36ea-b38a-505313b240d9 | -3.1832 | -49.4642 | 2025-07-23 02:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 110.5 |
-| cf0e958d-53a9-3de9-87f7-e45fb713810e | -3.1648 | -49.4648 | 2025-07-23 02:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 123.5 |
-| 7288354c-0829-387b-b472-68a0cee9106c | -3.1832 | -49.4642 | 2025-07-23 02:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 85.6 |
-| aa06ba6c-e0dc-35f9-9668-f00ccfd48370 | -9.0646 | -45.052 | 2025-07-23 02:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 58.9 |
-| 7a17bfe3-9f67-36c8-92b3-45bf430221b0 | -3.1833 | -49.4429 | 2025-07-23 02:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 75.3 |
-| 7fdcea54-3788-398e-8f7c-4926ed426da1 | -7.7569 | -44.0183 | 2025-07-23 02:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| 2928a72e-462f-3a44-a35d-328a96846059 | -3.1649 | -49.4435 | 2025-07-23 02:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 109.2 |
-| 340e30cb-4f62-33ba-8df5-07ab929201bf | -3.1648 | -49.4648 | 2025-07-23 02:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 124.9 |
-| 439dc198-2b11-34be-bed3-50b4e2c745d5 | -3.1832 | -49.4642 | 2025-07-23 02:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 103.9 |
-| 967dca19-5dec-30b3-be96-bbf5ebea2775 | -3.1648 | -49.4648 | 2025-07-23 02:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 102.2 |
-| 71ba7dfe-6ccd-3b9c-b0b4-c4b819e2ca0d | -3.1833 | -49.4429 | 2025-07-23 02:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 93.4 |
-| e723e7e7-275f-3281-83a7-6dcb2d73b2e0 | -9.0646 | -45.052 | 2025-07-23 02:50:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| 0e9cc205-b402-3be8-a4a3-8d123cb73bc8 | -7.7569 | -44.0183 | 2025-07-23 02:50:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 79.4 |
-| 78e4f946-e5bf-367a-9dd2-063a31d0f217 | -3.1649 | -49.4435 | 2025-07-23 02:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 102.6 |
-| 14f4bfdf-3ac8-3fff-b0bb-2b6c0d123442 | -3.1833 | -49.4429 | 2025-07-23 03:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 78.2 |
-| 8d7197f0-870d-3101-9529-f6c6a4affb0b | -7.7569 | -44.0183 | 2025-07-23 03:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 75.2 |
-| 98f7bc95-a1b8-376c-9c13-916e3ba361f6 | -3.1832 | -49.4642 | 2025-07-23 03:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 82.4 |
-| 259dd9b7-7dce-322e-838f-83d3548d9f18 | -22.8016 | -52.482 | 2025-07-23 03:00:00 | GOES-19 | PARANAVAÍ | PARANÁ | Brasil | 4118402 | 41 | 33 | nan | nan | nan | Mata Atlântica | 68.8 |
-| 91fb8dba-1a33-3d77-a06d-b2126d310fa9 | -3.1648 | -49.4648 | 2025-07-23 03:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 111.8 |
-| e2385e6c-b667-3eeb-8f93-33614ee3889c | -22.8225 | -52.4776 | 2025-07-23 03:00:00 | GOES-19 | PARANAVAÍ | PARANÁ | Brasil | 4118402 | 41 | 33 | nan | nan | nan | Mata Atlântica | 52.0 |
-| 4ef49761-a7e0-3eb0-890d-ae6edb8c9be6 | -3.1649 | -49.4435 | 2025-07-23 03:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 106.2 |
-| 8bb9c240-0dd6-365e-984b-4c897014b39a | -3.1649 | -49.4435 | 2025-07-23 03:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 88.6 |
-| 69904235-2c7e-36aa-9275-01270d3e23b2 | -7.7569 | -44.0183 | 2025-07-23 03:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 73.0 |
-| a4a2efcf-3e81-3be7-9db0-5141fbc8b122 | -3.1832 | -49.4642 | 2025-07-23 03:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 84.1 |
-| 5ba21e8b-d2f5-3e9e-ab61-c753df6a0ffd | -3.1648 | -49.4648 | 2025-07-23 03:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 98.9 |
-| c82586c5-4e5f-31cb-9700-7b9ea97bc0dc | -3.1833 | -49.4429 | 2025-07-23 03:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 77.0 |
-| 72863924-8b20-304b-821e-3028e4d45534 | -4.58006 | -38.2993 | 2025-07-23 03:17:00 | NPP-375D | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 2a0beb79-e743-365e-bf2f-e5041fb26213 | -5.36093 | -36.89524 | 2025-07-23 03:17:00 | NPP-375D | CARNAUBAIS | RIO GRANDE DO NORTE | Brasil | 2402501 | 24 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 967158b8-b754-38c6-9048-8f1819ec2921 | -4.25489 | -39.22845 | 2025-07-23 03:17:00 | NPP-375D | CARIDADE | CEARÁ | Brasil | 2303006 | 23 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 5f055582-bce0-3ab6-8800-e59c0776effa | -5.36041 | -36.89819 | 2025-07-23 03:17:00 | NPP-375D | CARNAUBAIS | RIO GRANDE DO NORTE | Brasil | 2402501 | 24 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| c1f4849d-f729-36ee-b5ac-c6c763675bdc | -4.5857 | -38.30024 | 2025-07-23 03:17:00 | NPP-375D | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| dafb3836-521d-39e1-803b-83562c335a72 | -9.6544 | -40.59278 | 2025-07-23 03:19:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 4bcf6293-932b-3675-9af6-a80de70983b1 | -13.5438 | -43.71136 | 2025-07-23 03:19:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| b2895157-b7fb-3300-8511-933e9fb65fc4 | -6.60807 | -42.41026 | 2025-07-23 03:19:00 | NPP-375D | ARRAIAL | PIAUÍ | Brasil | 2201002 | 22 | 33 | nan | nan | nan | Caatinga | 15.1 |
-| 2e58c284-2620-316a-9388-fc2fa4e9d1db | -9.65527 | -40.58826 | 2025-07-23 03:19:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| c9e534d5-a751-3644-85cc-97629a89e8ef | -6.60734 | -42.40288 | 2025-07-23 03:19:00 | NPP-375D | ARRAIAL | PIAUÍ | Brasil | 2201002 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
-| 9004b889-83cf-3cfc-ac85-0d95d983d634 | -8.01126 | -37.0745 | 2025-07-23 03:19:00 | NPP-375D | MONTEIRO | PARAÍBA | Brasil | 2509701 | 25 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 74cb1d4a-eed1-39e8-a817-2494547da231 | -8.01284 | -37.07639 | 2025-07-23 03:19:00 | NPP-375D | MONTEIRO | PARAÍBA | Brasil | 2509701 | 25 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| bcbb0151-beaf-391c-bbb1-5680b31cd8fe | -6.60602 | -42.40977 | 2025-07-23 03:19:00 | NPP-375D | ARRAIAL | PIAUÍ | Brasil | 2201002 | 22 | 33 | nan | nan | nan | Caatinga | 8.9 |
-| 14a1a59f-1d9e-3198-8418-4b4b987a0b29 | -13.53709 | -43.70984 | 2025-07-23 03:19:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 1a80f260-d2a8-3c1b-b129-25454ffb69ae | -6.60934 | -42.40337 | 2025-07-23 03:19:00 | NPP-375D | ARRAIAL | PIAUÍ | Brasil | 2201002 | 22 | 33 | nan | nan | nan | Caatinga | 12.6 |
-| 643d46a2-584e-3baf-8bb1-35bd9e8041a9 | -3.1833 | -49.4429 | 2025-07-23 03:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 62.7 |
-| 18731d46-5bd2-3083-90a4-bc154860f8c2 | -3.1649 | -49.4435 | 2025-07-23 03:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 73.0 |
-| 0e3b77be-ddec-3cef-af4c-5d02413821b8 | -3.1832 | -49.4642 | 2025-07-23 03:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 98.4 |
-| ed54f297-8b85-3801-8359-0e01362e1d94 | -7.7569 | -44.0183 | 2025-07-23 03:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 58.9 |
-| f214a03c-bf5b-33e5-8e2a-4507fd8e2462 | -3.1648 | -49.4648 | 2025-07-23 03:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 116.9 |
-| b30ac489-29cc-3ef0-b380-e2f3f0faac1d | -17.50934 | -39.94612 | 2025-07-23 03:21:00 | NPP-375D | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| f760587a-befb-3d0a-8981-585dcefa0680 | -15.57394 | -41.07143 | 2025-07-23 03:21:00 | NPP-375D | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| c9988b7c-9f1e-3441-a941-59589423a0b7 | -15.57473 | -41.06765 | 2025-07-23 03:21:00 | NPP-375D | ENCRUZILHADA | BAHIA | Brasil | 2910404 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 1e6fcb9c-a725-3663-88c4-f13820cb0343 | -17.51056 | -39.94022 | 2025-07-23 03:21:00 | NPP-375D | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| a95713c4-8096-3afc-a150-9e820636d4be | -16.09931 | -42.28033 | 2025-07-23 03:21:00 | NPP-375D | SALINAS | MINAS GERAIS | Brasil | 3157005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| c71c4eea-9413-3989-971b-987fe352bc49 | -17.51024 | -39.94614 | 2025-07-23 03:21:00 | NPP-375D | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 540f9d59-5892-3dda-9b3e-643332206949 | -3.1833 | -49.4429 | 2025-07-23 03:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 95.6 |
-| 80a35850-81e8-3fd6-b00d-e39544d4689a | -3.1832 | -49.4642 | 2025-07-23 03:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 108.3 |
-| 7a0926c3-127b-3beb-84d4-f6fb64bf88fd | -3.1649 | -49.4435 | 2025-07-23 03:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 70.2 |
-| f6e6f252-67ea-38ff-bdeb-1248bdd2e3d4 | -3.1648 | -49.4648 | 2025-07-23 03:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 76.8 |
-| 4b119a23-f721-3477-ba44-3015311771c7 | -7.7569 | -44.0183 | 2025-07-23 03:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 59.0 |
-| 57c6c94e-b620-3f0e-8c0e-91a2f48a692e | -3.1649 | -49.4435 | 2025-07-23 03:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 65.7 |
-| b578373a-aba8-3299-85ad-7c57ee91b885 | -3.1832 | -49.4642 | 2025-07-23 03:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 93.9 |
-| dbd85c9e-fd07-3646-8fe6-142e4fde801c | -3.1833 | -49.4429 | 2025-07-23 03:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 65.3 |
-| aed7f0c6-293d-352a-b60e-fa8f855c6e70 | -3.1648 | -49.4648 | 2025-07-23 03:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 92.8 |
-| 4d7934f5-a441-3159-9a24-7654a531b9a4 | -4.58383 | -38.29685 | 2025-07-23 03:40:00 | NOAA-20 | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 7b4c8d41-3164-3ed2-a6f2-6fd911bdfafc | -4.09397 | -46.92617 | 2025-07-23 03:40:00 | NOAA-20 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 662ba970-328e-3304-b3ac-f4b4d1df2720 | -4.04949 | -42.52107 | 2025-07-23 03:40:00 | NOAA-20 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 10.4 |
-| b774e99b-538f-3b60-be85-657422db458e | -3.8227 | -43.02161 | 2025-07-23 03:40:00 | NOAA-20 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| a324e643-6930-3d16-84f6-7831ea94530a | -7.4541 | -49.4018 | 2025-07-24 00:20:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 110.5 |
+| 76a39308-cd34-338d-80a4-993e75fa6b91 | -13.7169 | -45.6833 | 2025-07-24 00:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| a489c751-17eb-31f2-a2f7-877c48ef51df | -11.2383 | -46.8699 | 2025-07-24 00:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 54.2 |
+| 3a4a6630-aa2a-31eb-b8c4-563ac327dd2a | -7.2408 | -43.0664 | 2025-07-24 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 145.4 |
+| eec2edda-e0fc-3a6c-a195-08ebda9ab442 | -7.2405 | -43.0899 | 2025-07-24 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 109.2 |
+| 00941667-751a-3ccf-b95f-f5acc7fb5242 | -7.4728 | -49.4004 | 2025-07-24 00:20:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 55.7 |
+| 07c2e333-7141-3968-8a16-6c8154e401a0 | -3.1648 | -49.4648 | 2025-07-24 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 203.3 |
+| 58a1256a-e7d1-31ea-84f7-a0a2b5b44eb9 | -7.2597 | -43.0645 | 2025-07-24 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 436.4 |
+| 11033d1b-6cda-318b-a0f5-9d7ea0bc81dd | -3.2321 | -46.7836 | 2025-07-24 00:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 58.2 |
+| 1092eb7d-4ce0-36ff-91c8-786f7c79baad | -3.1649 | -49.4435 | 2025-07-24 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 239.9 |
+| d95d7c53-bd40-3ef7-addf-6505bf89248d | -11.257 | -46.8899 | 2025-07-24 00:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 55.7 |
+| adb8392f-5e61-3545-82e1-c56e9af74fde | -12.4309 | -45.383 | 2025-07-24 00:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 43.8 |
+| ea3dcec4-403e-3c01-be26-4f8d1c59351e | -11.7317 | -48.1849 | 2025-07-24 00:20:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 54.4 |
+| 52f9ada4-74a3-38c8-82ca-7dc39c49c6d5 | -7.2594 | -43.0881 | 2025-07-24 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 298.6 |
+| edb81746-4b53-3966-82c8-601e36c7b41e | -4.7842 | -45.3282 | 2025-07-24 00:30:00 | GOES-19 | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Cerrado | 60.4 |
+| 3181773e-237e-3f98-9ba9-12984b196805 | -13.7169 | -45.6833 | 2025-07-24 00:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 61.3 |
+| fd20327e-98d2-33ca-a6a8-9a9af2d7ce22 | -7.4541 | -49.4018 | 2025-07-24 00:30:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 96.7 |
+| eded9a7d-6de3-3af6-ad36-84f45ae10d7b | -4.0569 | -42.5118 | 2025-07-24 00:30:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 153.6 |
+| 608a193e-31b0-3f40-8952-7f05e25f31e0 | -11.7317 | -48.1849 | 2025-07-24 00:30:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 51.7 |
+| 7f96914f-2f2f-3181-b493-720324b638d4 | -11.2574 | -46.8674 | 2025-07-24 00:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 67.7 |
+| 9473214b-54f9-34b6-a282-65b3cf76e8ad | -4.0567 | -42.5354 | 2025-07-24 00:30:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 73.3 |
+| e6646b81-2515-39d9-9c2a-b08aaeb7a5bc | -3.1832 | -49.4642 | 2025-07-24 00:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 236.1 |
+| b3b95cf2-1450-3837-a644-fbb5a05ff2c6 | -7.2408 | -43.0664 | 2025-07-24 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 142.3 |
+| 194d93d3-fdfe-3184-9add-b87328035f46 | -3.1833 | -49.4429 | 2025-07-24 00:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 264.2 |
+| 85a53d32-2b8f-31ac-b15f-61c1b6c6187d | -7.4728 | -49.4004 | 2025-07-24 00:30:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 51.6 |
+| 31808fd9-9a4d-3bab-ad2f-99ddbf776dd4 | -7.2405 | -43.0899 | 2025-07-24 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 98.7 |
+| 37c500f4-22c0-3c52-88a9-eb3fc08ba888 | -3.1648 | -49.4648 | 2025-07-24 00:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 189.5 |
+| 23b4f474-d77d-3049-97ed-735748d46e84 | -7.2597 | -43.0645 | 2025-07-24 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 498.2 |
+| 781d11df-1c09-3377-89a9-23888ace0908 | -3.1649 | -49.4435 | 2025-07-24 00:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 199.0 |
+| 3f39dc04-f717-315e-b0ed-1c30a5d927aa | -7.4728 | -49.4004 | 2025-07-24 00:40:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| 84b23a3f-8108-3466-8c78-5aa646af0e5f | -7.2594 | -43.0881 | 2025-07-24 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 320.9 |
+| 0ac92d9e-b84b-31eb-af9a-94feba194e38 | -13.6975 | -45.6865 | 2025-07-24 00:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 52.7 |
+| dbd35989-b865-3477-acda-eedde1d02afe | -4.0567 | -42.5354 | 2025-07-24 00:40:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 62.2 |
+| be3d04fa-a0b1-30f7-bc21-07bba7191588 | -3.1832 | -49.4642 | 2025-07-24 00:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 225.4 |
+| f8ba0285-b76a-3e53-896b-987432a79708 | -3.1648 | -49.4648 | 2025-07-24 00:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 207.1 |
+| d9cdf67d-31fc-3dc8-a592-8affe4c7335a | -3.1833 | -49.4429 | 2025-07-24 00:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 240.8 |
+| 42eb1502-c2eb-3b9c-855d-2f49688a9385 | -7.4541 | -49.4018 | 2025-07-24 00:40:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 76.4 |
+| baae1224-3ea4-3d1f-9b9e-2114bbf4f962 | -4.0569 | -42.5118 | 2025-07-24 00:40:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 127.0 |
+| 06145272-9ea5-3580-8b8d-d3918683b8bb | -3.1649 | -49.4435 | 2025-07-24 00:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 215.4 |
+| 72c73e22-e5eb-35ad-8457-f75eae25aada | -11.2574 | -46.8674 | 2025-07-24 00:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 53.0 |
+| 9c2afb20-4ce9-3c29-b3df-fd571231ed6c | -4.0382 | -42.5129 | 2025-07-24 00:40:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 53.8 |
+| 0fc9787d-3e0e-316f-b7f4-03ff764a0552 | -7.2785 | -43.0627 | 2025-07-24 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 61.0 |
+| 3e9c24f0-e4fc-34d6-bda4-cfc69b0222f6 | -7.2405 | -43.0899 | 2025-07-24 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 101.8 |
+| 8775b4d1-62eb-37b2-8678-4903e2eeed1b | -13.698 | -45.6634 | 2025-07-24 00:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 43.8 |
+| 6ba77d19-64c5-3476-b03a-3cb884bbd710 | -7.2408 | -43.0664 | 2025-07-24 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 141.1 |
+| 1f8894f1-72dc-30b6-bdcd-f0f69f3233b6 | -7.2597 | -43.0645 | 2025-07-24 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 494.9 |
+| 4bfbf95f-7b4a-3eaa-aed4-a2335cce0708 | -3.1649 | -49.4435 | 2025-07-24 00:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 171.6 |
+| 4de8103b-17b2-355e-bcd9-f583fd356d8c | -3.1648 | -49.4648 | 2025-07-24 00:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 184.8 |
+| 7de01d33-64e4-3f7b-81b1-e6ce962092f4 | -7.4541 | -49.4018 | 2025-07-24 00:50:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 66.9 |
+| f59534c3-00f1-3e86-a5e4-c6749c4eb2aa | -7.2597 | -43.0645 | 2025-07-24 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 393.2 |
+| 2ada38d6-09ed-36f2-a76d-15f41a406582 | -7.2782 | -43.0862 | 2025-07-24 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 71.0 |
+| 3c322dae-3317-3ae8-8e7f-2e5c5688c0de | -7.4728 | -49.4004 | 2025-07-24 00:50:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| ce245538-f259-3157-b1c7-003d013e2e46 | -4.0569 | -42.5118 | 2025-07-24 00:50:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 95.7 |
+| 81ad454e-f3eb-3cbc-aef5-b302ebb0066c | -4.0567 | -42.5354 | 2025-07-24 00:50:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 67.3 |
+| 3745bdba-aaad-331b-8a3d-2bf40a121de0 | -13.6975 | -45.6865 | 2025-07-24 00:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 46.0 |
+| 2180e0a9-e27b-3a88-b5ad-1c62fc4d58d1 | -7.2408 | -43.0664 | 2025-07-24 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 123.0 |
+| 51940e84-66c7-3c8a-829b-2026586f444b | -7.2405 | -43.0899 | 2025-07-24 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 113.3 |
+| 505f53bd-ba70-3c78-8547-25aeba95e798 | -7.2594 | -43.0881 | 2025-07-24 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 358.5 |
+| 4dbfdf29-7b14-39c8-85fd-8c9bf4bc8eb0 | -7.2785 | -43.0627 | 2025-07-24 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 75.6 |
+| 88de6e0b-aeaa-3ff7-8207-df34d6adb15c | -3.1833 | -49.4429 | 2025-07-24 00:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 250.2 |
+| 0cfe92d5-43ab-3f8a-b4d5-7719d6caa96a | -3.1832 | -49.4642 | 2025-07-24 00:50:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 264.6 |
+| 92ed0d0b-a505-3c62-9627-0119afd9f439 | -3.1649 | -49.4435 | 2025-07-24 01:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 155.5 |
+| cda21e33-0354-3d4c-a935-4614d4b91b97 | -4.0569 | -42.5118 | 2025-07-24 01:00:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 97.5 |
+| a2bcd5d6-e703-301a-a419-1186b026b722 | -13.6975 | -45.6865 | 2025-07-24 01:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 53.5 |
+| e3aefd9f-c9b5-310b-b631-b419ee7946e2 | -7.2408 | -43.0664 | 2025-07-24 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 132.7 |
+| a812b9e5-5bc9-3063-859c-ea4bf1497e37 | -3.1648 | -49.4648 | 2025-07-24 01:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 162.8 |
+| a95acf7a-63ab-3692-b537-85a5cc0cb303 | -7.4541 | -49.4018 | 2025-07-24 01:00:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 54.4 |
+| 9eebf13f-7e05-38b6-bde3-99c01ba3c25d | -3.1833 | -49.4429 | 2025-07-24 01:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 226.5 |
+| 24adb68a-a7ca-39f0-8e44-d7f4f0578be2 | -13.698 | -45.6634 | 2025-07-24 01:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 45.0 |
+| 46d4d063-c3f1-3377-abef-8d5c8a0f29e9 | -7.4728 | -49.4004 | 2025-07-24 01:00:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 64.2 |
+| da85cbad-8052-3bc9-bc0b-2586c53dce31 | -3.1832 | -49.4642 | 2025-07-24 01:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 238.3 |
+| 6ae01401-6d37-3149-8b19-931152835382 | -7.2782 | -43.0862 | 2025-07-24 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 73.6 |
+| f5b57e79-7a4f-3d29-a92f-2c22cf8776dd | -7.2597 | -43.0645 | 2025-07-24 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 371.9 |
+| a7e2b104-6315-3acd-935a-4c4f116f3a7d | -7.2785 | -43.0627 | 2025-07-24 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 91.4 |
+| 36bfa70c-1785-3e5f-b9da-6ad85af3223b | -7.2405 | -43.0899 | 2025-07-24 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 111.7 |
+| b9d141f5-e5e1-3c3e-a83a-829ce2a4ca65 | -7.2594 | -43.0881 | 2025-07-24 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 297.2 |
+| c9697ba5-0ccc-3d4b-8808-bc9ead45b5d0 | -3.1649 | -49.4435 | 2025-07-24 01:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 131.2 |
+| 57edc3fb-4574-3c25-9730-e680de39a266 | -7.2594 | -43.0881 | 2025-07-24 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 250.4 |
+| 479b2521-a3a5-3e37-b22a-4dcb75a01c6f | -7.2785 | -43.0627 | 2025-07-24 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 98.8 |
+| 8af23d47-6de6-39ea-9a7c-750b31cd83cb | -7.2597 | -43.0645 | 2025-07-24 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 317.2 |
+| f1cef817-e44b-3db1-be76-8a65c2030e2d | -3.1832 | -49.4642 | 2025-07-24 01:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 240.5 |
+| cc689c93-18ee-3230-8fbc-c9531d1b628b | -7.4728 | -49.4004 | 2025-07-24 01:10:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| 3ed333df-f513-33ff-9130-75a45059aabf | -3.1648 | -49.4648 | 2025-07-24 01:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 144.9 |
+| 6ff520e0-1a68-319e-9bff-faadcc622ca2 | -3.1833 | -49.4429 | 2025-07-24 01:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 228.9 |
+| 36e27914-16d1-36c7-b420-eed2616a69e1 | -4.0569 | -42.5118 | 2025-07-24 01:10:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 97.2 |
+| 62430b71-3af8-3ff2-a438-baadc687fa2c | -7.2405 | -43.0899 | 2025-07-24 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 113.3 |
+| d6a287bd-2a0a-37a8-95f2-f2072bf724d9 | -7.2782 | -43.0862 | 2025-07-24 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 81.2 |
+| 19ec0abc-0abe-31d7-84ee-c5a3d133b753 | -7.2408 | -43.0664 | 2025-07-24 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 140.6 |
+| 40bd965f-ff63-340a-8984-70c6e69bcd52 | -7.2597 | -43.0645 | 2025-07-24 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 326.5 |
+| 2d7324ca-5a43-3027-aed0-e8c8e0b6bc6a | -3.1832 | -49.4642 | 2025-07-24 01:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 224.0 |
+| 9d304d21-8f44-3bf7-b2bd-c18a3303797f | -7.4728 | -49.4004 | 2025-07-24 01:20:00 | GOES-19 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 50.6 |
+| 73ea1296-e541-3adf-800f-546bceffca66 | -7.2785 | -43.0627 | 2025-07-24 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 104.0 |
+| 0ef9d8a7-6b83-3533-9c33-f241e039eb44 | -7.2405 | -43.0899 | 2025-07-24 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 89.8 |
+| b5d9469f-d074-3993-a7b5-a34206bc60f5 | -7.2594 | -43.0881 | 2025-07-24 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 209.0 |
+| 2657e2ef-a861-3043-aa7e-6e50ade51d6c | -4.0569 | -42.5118 | 2025-07-24 01:20:00 | GOES-19 | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 99.2 |
+| c5aa20ed-4ccd-300a-bdef-cda424611ec0 | -3.1648 | -49.4648 | 2025-07-24 01:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 121.9 |
+| b22c2eca-1cb1-363c-9a1e-71a1ad8288b0 | -3.1649 | -49.4435 | 2025-07-24 01:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 117.1 |
+| 43293b63-1a04-3964-9e7b-102c3ff07b82 | -7.2408 | -43.0664 | 2025-07-24 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 132.4 |
+| f213a9a6-1919-304d-8dd4-0d2845288563 | -3.1833 | -49.4429 | 2025-07-24 01:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 226.1 |
+| d42783c6-3354-34c3-b4bf-a39d8dd7f9e0 | -7.2782 | -43.0862 | 2025-07-24 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 71.0 |
 
 
 [Clique aqui para ver as próximas entradas](README4.md)
