@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 116f3709-975b-34e9-aa65-4e114effcea0 | -6.6671 | -58.8473 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3b9380cf-c8ec-32f4-af4c-dcfdfc4be8d4 | -3.57093 | -49.50431 | 2025-07-27 04:57:00 | NOAA-21 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 9f2c8c00-1b62-3ee2-9457-dbf6b95822fa | -7.56827 | -61.40634 | 2025-07-27 04:57:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 23061c07-12ac-3c57-b6df-6f3e73464cbc | -6.6329 | -58.86178 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| ad62d202-4d52-3dcf-b8ef-a990eea56530 | -4.13069 | -47.64761 | 2025-07-27 04:57:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 9593dc07-9804-381b-b966-b4d591bbe82a | -3.27836 | -48.8173 | 2025-07-27 04:57:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 9a36da79-0d77-31c3-b9e2-585c6a17dbf5 | -6.55258 | -56.19965 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e53994aa-3402-3c9c-bba3-1971adee0fa3 | -6.49294 | -56.20146 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 4cb8324b-bba3-3225-b918-c4921352011f | -6.22777 | -44.52337 | 2025-07-27 04:57:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 5cedc51a-94b4-3534-b536-54db005c6e82 | -7.75957 | -51.12313 | 2025-07-27 04:57:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 77893eb3-6799-38d5-915f-c20f275bc862 | -6.89228 | -44.80629 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0d204d2e-f806-321a-844c-bfd09a23dd7f | -6.56337 | -56.1976 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 875b5896-118a-3d12-9905-753e9894c654 | -5.77814 | -43.60728 | 2025-07-27 04:57:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| f3c9d6e7-a988-3815-96d6-49f3c642b9c0 | -3.06761 | -49.50248 | 2025-07-27 04:57:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 16b78e21-10e0-3745-9771-674b3bcf39a3 | -6.89099 | -52.8686 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| c775017f-b805-3246-a79e-4936b526dd57 | -6.01407 | -44.05648 | 2025-07-27 04:57:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5ee7ee7f-b4bd-3afa-acac-c861e1cdc0de | -7.8046 | -46.5685 | 2025-07-27 04:57:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 724b013c-8fd0-3ed7-8f33-01bc86432452 | -6.6315 | -58.84636 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 5c9a335a-54a7-35c8-983e-15311aed284f | -6.66404 | -58.84181 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 2a8d3813-3e9c-3c08-94a6-9e9c5d6727d3 | -3.37234 | -52.80179 | 2025-07-27 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b8694299-7a4b-3bdc-8589-7b2d5c9dedba | -2.90735 | -48.24857 | 2025-07-27 04:57:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e84087ee-089b-34d3-a190-89501ec3cc08 | -6.66243 | -58.85154 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 38b6c4fb-f566-317b-b3a5-7a4f58268d0a | -6.54015 | -56.19009 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f8c44ee2-6d2a-304b-a1ef-cc258ba3fe68 | -3.74857 | -49.04782 | 2025-07-27 04:57:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 7bcc6c26-bd77-3c9b-bc67-59cab1a35d23 | -3.13492 | -47.0112 | 2025-07-27 04:57:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 4441414b-150a-386c-b672-e8415091a219 | -9.43477 | -51.75616 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| df608736-d200-38f0-9346-ca32c1753318 | -6.01273 | -44.05472 | 2025-07-27 04:57:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| ec789782-a80c-3de0-b4f2-16004048b006 | -6.63537 | -58.84701 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 0782371c-bde8-3375-8ce5-db81feb7053f | -3.39235 | -47.49633 | 2025-07-27 04:57:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 9e8034d7-5bf0-3d69-9742-bde9dc1c91bc | -6.67097 | -58.84794 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3eb82488-c297-384b-a231-d0b73acbe89b | -6.54637 | -56.19485 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 2ea8aec2-352c-38c2-b144-21d293a27676 | -6.6563 | -58.84056 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 06fa2b6a-5341-3b27-953d-7d5cb1952c72 | -6.01219 | -44.05851 | 2025-07-27 04:57:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 7debfb96-a699-3f1f-b7e3-f3205f6c22ab | -3.04864 | -47.38098 | 2025-07-27 04:57:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 36399451-6c46-36ce-8359-0a6595885877 | -6.66017 | -58.84119 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| ca51cd41-b9f8-37a3-bd58-6aee624424d4 | -2.91146 | -48.24921 | 2025-07-27 04:57:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 2525c985-f27b-3c27-a9b8-89406f035606 | -6.55892 | -56.1818 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 9d19c89a-f92b-3443-a48b-905d2505a667 | -6.89043 | -43.10834 | 2025-07-27 04:57:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 89dba285-8cd5-3f34-ac45-a6e1e341899b | -6.53515 | -56.26493 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5d951485-eca5-3df2-8fd7-261e7c4c5a03 | -6.53574 | -56.26124 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 63fa668f-a4de-30df-8142-4d5db01bf38c | -4.59231 | -47.97625 | 2025-07-27 04:57:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 4d8cbae8-529c-3782-8954-1108710c5505 | -8.28819 | -45.00848 | 2025-07-27 04:57:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 9b884b1e-5a5a-3b55-98bf-e103ac2a8041 | -9.43902 | -51.75253 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 55237599-3a03-3d7c-a516-7c75820a3cb5 | -7.24537 | -49.62144 | 2025-07-27 04:57:00 | NOAA-21 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c8aea414-439b-33d2-85d1-1ef6e96151c6 | -6.62598 | -58.85558 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 538181ce-d00a-32e0-8dd6-36e1a6c519b9 | -4.13447 | -47.65228 | 2025-07-27 04:57:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 742d4fdb-bdeb-3375-a958-82eace1e9f24 | -6.64937 | -58.83448 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 5bf6f9e3-6b04-37cb-b42b-68734200cc10 | -7.10432 | -59.76427 | 2025-07-27 04:57:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d6f72674-d369-3785-8aa7-0e6b5de0608f | -5.18728 | -44.9545 | 2025-07-27 04:57:00 | NOAA-21 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| d9aafb76-4ba9-3dba-9526-a541a6c3d691 | -6.53633 | -56.25756 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 260fcf45-db39-3316-b2c1-9eeee1beb904 | -4.11256 | -48.12572 | 2025-07-27 04:57:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 0419fcf8-1bea-3dd4-9b2b-6bdf3bb71f9d | -6.63759 | -58.85752 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| 42d30596-60fe-3d23-9e41-0c0591a9bc15 | -5.68168 | -43.6651 | 2025-07-27 04:57:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| cfffa0a0-fc91-340c-9557-868e967e74e1 | -6.54296 | -56.1943 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 64b001b7-87d2-3e23-88b2-cec77fc140f9 | -8.29476 | -45.00164 | 2025-07-27 04:57:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 9f346f56-7fcc-338f-a44d-84dd78d26769 | -3.36536 | -49.16741 | 2025-07-27 04:57:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 3c6b0bef-85aa-326f-9c45-80955002811c | -6.6819 | -58.82975 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 2fe97a25-2279-337f-ba5e-f5530f383f8e | -6.66324 | -58.84666 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| f109f74e-24d0-3b97-ba40-e8976679aaf2 | -4.96086 | -43.72916 | 2025-07-27 04:57:00 | NOAA-21 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 98de9c37-e880-3287-9846-45f3bdad3173 | -6.65163 | -58.84478 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| e8b8139e-61eb-38d6-ad72-fa278a4a4f5e | -6.66257 | -58.82664 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 48677927-9d8c-3667-90dc-78d4f907ddda | -6.65484 | -58.82541 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| e24fefe2-a982-3ed4-b968-a12fd8f77714 | -6.62293 | -58.85004 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 70d5cb85-b18a-3bdf-93f0-bec1a3993ecb | -6.02024 | -44.05412 | 2025-07-27 04:57:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0c520b2d-319f-3423-9f6a-68e653eab01a | -6.54754 | -56.18752 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c4b2f16b-3ca3-31b2-807a-7d1452bd2897 | -3.14402 | -53.13189 | 2025-07-27 04:57:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 701a5758-1502-3c7e-8bbb-cffebefcd2e7 | -3.48391 | -51.18777 | 2025-07-27 04:57:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 14724734-7ca3-3984-8597-b25c95637a9f | -3.06366 | -49.49975 | 2025-07-27 04:57:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 54a736c2-21c1-31ef-b30d-0ea7e1b4de70 | -8.87627 | -49.00859 | 2025-07-27 04:57:00 | NOAA-21 | GOIANORTE | TOCANTINS | Brasil | 1708304 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 8df9c6d2-74c9-30c3-b295-cd93292214d2 | -7.08655 | -44.90859 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d66ad8ff-6476-3a60-a49b-85c438411936 | -6.6803 | -58.83944 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 76c2b79e-264d-3e58-8a74-46504a648301 | -6.64776 | -58.84415 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 3a8902cf-6a41-3a39-9c82-fe49a4b3f276 | -8.44043 | -47.51503 | 2025-07-27 04:57:00 | NOAA-21 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2fb875da-6a15-3b8a-9055-9b5d8dc6e9ef | -6.65001 | -58.85453 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 9f1948a4-9292-36f4-8c9b-9a77a4511586 | -6.39638 | -53.33851 | 2025-07-27 04:57:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| afcff861-0404-336d-8c57-a5bcc42b5969 | -6.64856 | -58.83932 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 85b934af-c8df-3d71-a3d2-7791a472fb8f | -3.07058 | -49.50559 | 2025-07-27 04:57:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5f48c4b0-5a61-33a9-b3ab-468a59d80480 | -7.4997 | -63.5047 | 2025-07-27 04:57:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 95001f1d-ac67-3263-8161-6946f05fbc52 | -6.8918 | -44.80988 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| fd5231d7-c835-3083-a524-28b0507da6ef | -6.64228 | -58.85326 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 8.7 |
-| 205f69d5-a451-347d-bc03-fe2e818f0d10 | -6.65082 | -58.84965 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 1afcaf86-44df-3530-bd6a-f5b08ecaa92f | -6.66484 | -58.83697 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 1c9ee8bf-9d0e-36ac-8717-a0aae74865ef | -6.67257 | -58.83819 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| aee460f4-fb9f-3aaa-9690-9dfaea175dbb | -8.17331 | -43.19506 | 2025-07-27 04:57:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 1d6f128a-a0f3-3468-b6ec-fdb5536945ed | -6.6447 | -58.83869 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 3c72bb36-7602-339a-b0bb-be369f0f313b | -3.40481 | -47.50245 | 2025-07-27 04:57:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| ef80a23c-2ca6-38a3-b351-cb764f552f38 | -8.01244 | -48.17204 | 2025-07-27 04:57:00 | NOAA-21 | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 6bd7aa70-6dd8-3389-9ebc-ea5100ebabea | -8.04557 | -50.67733 | 2025-07-27 04:57:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 712241bc-f5a8-325c-b792-0c48e9b893d2 | -6.67177 | -58.84307 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3b8b177a-9958-39f2-b08f-b7d97f8172df | -6.55317 | -56.19595 | 2025-07-27 04:57:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 04f06bfc-cf91-315b-8350-2f938daf0906 | -6.63231 | -58.84151 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 04c8e131-af69-319f-b53a-9ba1f8f41d8d | -7.28817 | -60.18426 | 2025-07-27 04:57:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| dd9e204a-6a1a-3be0-83f9-717e2d38b641 | -6.67417 | -58.8285 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5a27b3d5-f6eb-34c1-854f-5e0311e2daee | -7.293 | -60.18108 | 2025-07-27 04:57:00 | NOAA-21 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| defbc0db-640a-3076-abac-dc02c9f3b08c | -6.89592 | -43.11413 | 2025-07-27 04:57:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 8ad9518c-30a9-38fa-a605-6477e27113ca | -6.63006 | -58.83123 | 2025-07-27 04:57:00 | NOAA-21 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| f0f1975e-68d3-3dbe-afc2-2dd87a84e2a3 | -9.43237 | -51.7473 | 2025-07-27 04:57:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 043a6d39-558b-341d-8abd-2cec0552aac4 | -3.0669 | -49.50708 | 2025-07-27 04:57:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 6f454855-34e8-3c79-ac84-5e10ec3e4349 | -6.89658 | -43.10928 | 2025-07-27 04:57:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 18a22a00-cf14-360d-9186-46bfacc837e6 | -7.74909 | -51.11765 | 2025-07-27 04:57:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 9fc48dd5-5184-3b42-abe7-0ac26cfea47c | -6.49428 | -56.20253 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1e7d15a6-e507-3534-9bb8-b7f20c15a0e7 | -6.39841 | -53.32887 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ffa5f061-7c64-37dd-b4e3-a8be1651c417 | -6.40242 | -53.34923 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2d00ce61-7a56-3435-ad05-7afee7aff04d | -7.24167 | -45.38837 | 2025-07-28 05:06:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 64f45f73-efb0-369b-8022-2cfe56706b53 | -6.54319 | -56.18927 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a96cb406-b3ac-325e-a122-e6b282370e95 | -7.24645 | -45.3976 | 2025-07-28 05:06:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 51743598-2a21-3d23-ac14-4a14368b90c9 | -6.89079 | -52.8662 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 99bffaee-5047-3d13-aeb3-afb01b1cce80 | -6.49539 | -56.19557 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8ecb07be-2547-3a84-b3eb-5a909073fe0f | -7.54213 | -44.43037 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 1d93e7d0-9b21-3f43-8217-9b710aee0ef8 | -7.75086 | -51.11221 | 2025-07-28 05:06:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0be89b59-660e-336d-ab8e-14308d4a49ea | -6.40182 | -53.35309 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| b2e74012-53ad-3b35-b403-fb943a80f091 | -9.29303 | -48.32657 | 2025-07-28 05:06:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 760a9d28-157e-3bf4-b1e4-1bcbbb04e0f7 | -9.29375 | -48.32752 | 2025-07-28 05:06:00 | NPP-375D | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d065db00-9c2a-3792-9e15-8ff696c28ef4 | -7.11641 | -44.91475 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 17ba1ebb-4b7b-3b9d-ac02-fd775f01f6eb | -8.30838 | -55.10068 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 8e78e14e-a697-3d7c-aa22-2dbdbc62babf | -6.39714 | -53.36027 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| fa3d93d3-69f4-3fd2-ab55-3fe2d775a0b0 | -6.25584 | -44.96754 | 2025-07-28 05:06:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c9f56ee1-5ca4-3853-8993-3e4bdeca8b2d | -7.21329 | -44.16407 | 2025-07-28 05:06:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 98a8f0c4-5157-35c8-9863-5574e9aba96c | -7.24699 | -45.39346 | 2025-07-28 05:06:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| bac5893e-769f-33ec-998c-31ecd31867ab | -6.54873 | -56.19727 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 99c7d5cb-093a-370b-8fd5-4ef617208eff | -10.52007 | -42.55827 | 2025-07-28 05:06:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| a3294cf9-e9e8-3082-9fae-ab42e088df1f | -6.49483 | -56.19905 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 9c6b214c-01de-39e0-9f79-2102628a8bc2 | -6.54928 | -56.1938 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 5475ed66-78b1-352d-9b46-b7c84e2d2051 | -7.69223 | -46.04631 | 2025-07-28 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 110b8d61-1b47-3f6a-b7fa-a288080c4dd6 | -7.74684 | -51.11167 | 2025-07-28 05:06:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 527254e9-beb9-3261-8b9b-071803445145 | -6.43958 | -53.34686 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ae84ac4d-cdd6-313d-9460-b417f2b2b16d | -6.88331 | -44.79515 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| b22c67dc-790c-3bad-b39e-6928b2b7fbd2 | -7.24112 | -45.39258 | 2025-07-28 05:06:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| a7e45db6-e976-3112-bced-4ffc98d99ea1 | -7.81187 | -44.59319 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0ac590b5-3c13-30cf-a82b-69a159583f09 | -7.24057 | -45.39679 | 2025-07-28 05:06:00 | NPP-375D | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 7059cda9-8d4c-3b2e-b1d5-b3092c873c49 | -6.54264 | -56.19274 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 05288394-2fc5-316a-b689-77ad8409ad2d | -4.30841 | -48.09774 | 2025-07-28 05:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| a3ee2fa6-f8ec-35df-8440-cdcabb49d536 | -6.49595 | -56.21349 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| e3f0ca68-399a-3a7c-ad74-7850ab4c2c48 | -6.40472 | -53.3575 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 233d01ca-b8d7-35e5-b180-cd0648d39604 | -6.25934 | -44.96859 | 2025-07-28 05:06:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| f68990ea-157a-3e56-aeb3-c41d65782857 | -6.50093 | -56.20359 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 154c7156-f922-34b6-9d0d-6aaa711c5049 | -6.45121 | -53.36446 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ab5042e5-cfd0-3ed7-a5a3-ab665f163416 | -7.80697 | -50.77865 | 2025-07-28 05:06:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 30e01f4a-f229-3de7-ac77-12e8d49dfd0e | -7.29859 | -43.07973 | 2025-07-28 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 53ad8b8b-ff5e-35e1-913b-e4d2faebc279 | -7.11 | -44.91214 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 49ad99d6-af9d-3e54-896c-a0131259ca74 | -6.88271 | -44.79953 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 8a449fc5-922e-38ca-a064-d2b4c21a10e8 | -7.09365 | -44.94747 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| b102043d-a0e2-34f5-bb27-77a9904ce29a | -7.10049 | -44.93633 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ef4ddcec-e1fb-3085-952b-38540cc3e5e7 | -7.65489 | -44.79774 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5e3e2957-c253-3d51-bba1-c3b2897c20a9 | -7.11036 | -44.91393 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| a12ccbc3-e74c-3f57-aba2-e010363225d4 | -4.30771 | -48.10264 | 2025-07-28 05:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| 4d3cd749-4f92-3252-ae7a-d4ee5c1894a1 | -7.21261 | -44.16903 | 2025-07-28 05:06:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 27a2c3b3-8959-3772-88fd-0d51eee37277 | -7.65545 | -44.79335 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| ce0fae94-c613-3c32-b7fc-26a547002805 | -7.0773 | -44.92593 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 1d3b49eb-d871-3134-aa7a-6f749d645c04 | -6.49373 | -56.20601 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 312f962c-3979-3df3-8f75-1c361e3ee28b | -6.4094 | -53.35033 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| e3c1b33c-987d-373a-bbc3-35f58e62b661 | -6.89017 | -52.87029 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| df2c718d-8792-33fc-9cac-862f31b4848c | -10.45999 | -46.51345 | 2025-07-28 05:06:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| f114d88c-7efe-3daa-9312-c3862647ce4f | -7.74231 | -51.11465 | 2025-07-28 05:06:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| cf3086ca-5475-395d-9643-e8ad87836bf6 | -6.26239 | -44.96403 | 2025-07-28 05:06:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ba281685-43c7-3ab6-a8cf-f7ed56991ad6 | -7.69549 | -46.04429 | 2025-07-28 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b2989ff2-0e34-3340-9f23-79d33d6d8533 | -7.0955 | -44.93336 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| fe23742b-7264-3cbd-8bb7-4224ca541fcf | -7.07979 | -44.90781 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 7be83049-dc1f-31f5-bcb8-d385982b7f57 | -7.084 | -44.92197 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| e0a0b42c-6e11-35af-8748-63bec64ec865 | -6.54651 | -56.18979 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 206a8074-f874-36b2-bbc2-18afc9d315fc | -7.5328 | -44.40425 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 82b900c4-4251-3cef-a401-eebf3b78b44c | -7.0924 | -44.95033 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 10dc93a1-d065-3432-b518-a91ef3a62965 | -6.49096 | -56.20201 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e2c010b6-feb3-3cbb-90c4-2bfc4b071bfa | -7.11605 | -44.91294 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 6a237240-b3c9-31c4-868f-03d28fcf1926 | -6.5037 | -56.20759 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| 0aa717b4-7c9e-36e0-b123-bce9a1956767 | -7.66036 | -44.80373 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 3844fa31-92de-3147-a449-fc8a298c1e14 | -10.52094 | -42.55071 | 2025-07-28 05:06:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 89010465-259b-387f-b316-d938d92fe14a | -7.6979 | -46.04708 | 2025-07-28 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d3b8e169-73b2-3e7a-8055-fb6c838549e8 | -7.07314 | -44.91135 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 6e4043a5-42f8-3e3c-ab51-9b2f79e56959 | -7.65543 | -44.7941 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 79e6c3d8-24a7-342e-b4ce-c039995d9a5c | -7.69443 | -46.05198 | 2025-07-28 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 5105dfa2-76bb-3b32-a614-989348894ef2 | -6.49041 | -56.20549 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 486d59c5-6177-3ed5-a402-fe02c7b5b5dc | -6.4483 | -53.36007 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| f48e0a8b-10e6-3ae6-b546-0676366920d7 | -6.49761 | -56.20306 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 66d3bc94-761d-3ac0-993f-da36cf032a5e | -6.54209 | -56.19622 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| a6f344e0-c709-3e42-ab3d-f9f16cdb495d | -6.25776 | -42.83939 | 2025-07-28 05:06:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 432560cb-519c-3e99-9c7b-6bbd77f2723f | -7.74183 | -51.11802 | 2025-07-28 05:06:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d29826d4-5a68-367f-93b1-56f9e4949ac4 | -7.15384 | -44.36435 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 399b40f3-4df8-306c-960a-fa32859b10a3 | -4.30627 | -48.10077 | 2025-07-28 05:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 12.9 |
+| 00f848dd-32b3-31e8-8728-15f474cc174b | -7.08041 | -44.90321 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 4f25e292-3370-3939-b451-9ef9299ba8e0 | -7.69496 | -46.04813 | 2025-07-28 05:06:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 1f3375f6-ebb8-3d17-9eb4-dd4288ac633c | -7.093 | -44.95242 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 74216627-de68-3bbc-beb9-3af2f9d1bf11 | -6.50148 | -56.20011 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 412c8130-473f-3eb6-8de2-4381a4cdbe87 | -7.10984 | -44.91788 | 2025-07-28 05:06:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| f1762187-dad6-3618-820b-fcc9dd0c4bdc | -6.40531 | -53.35364 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 935af9c1-6d96-3d0c-8e73-c07db3d8dc13 | -6.40591 | -53.34977 | 2025-07-28 05:06:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f4eaf397-ca53-3506-ab73-5b0618ac5db4 | -4.86601 | -47.75113 | 2025-07-28 05:06:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| a988a019-c8e2-31fd-8f7b-06232aa4c0fb | -6.92534 | -44.2538 | 2025-07-28 05:06:00 | NPP-375D | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 84da12e8-6e0b-3bf5-89b3-756379ea013d | -6.26179 | -44.96843 | 2025-07-28 05:06:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 001bc4c1-0f07-3cdb-a6b7-199dca5a6730 | -6.49983 | -56.21054 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| e2ee5250-5da2-33f8-a9f8-749a0d40b4c3 | -7.29177 | -43.07905 | 2025-07-28 05:06:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 5af75372-1c83-3dfe-8196-babfa2705b36 | -7.81803 | -44.59454 | 2025-07-28 05:06:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 5f4ae0ae-04d0-3bff-bcb6-28a4164fd4b0 | -6.50315 | -56.21107 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| b335a9d2-b3eb-3f71-a521-7ad18ca3cc1f | -7.8075 | -50.77494 | 2025-07-28 05:06:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| fd379a75-7c87-31fb-9ca7-f4b022287813 | -6.53932 | -56.19221 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| fe73ed37-7e5b-30d9-b056-4ef9be019641 | -4.30373 | -48.09705 | 2025-07-28 05:06:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| 0b39d95e-a453-3b88-965d-6328add0011e | -6.54596 | -56.19327 | 2025-07-28 05:06:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2c0f4083-0250-3ffb-8b8e-e336fdffb1b2 | -15.36956 | -52.18103 | 2025-07-28 05:08:00 | NPP-375D | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8765a1a6-61b5-3702-87b5-3b77eafba98d | -9.02229 | -59.76189 | 2025-07-28 05:08:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 4ec3f4c0-d920-3690-87dc-a6b5cb4dcc61 | -14.98371 | -46.97283 | 2025-07-28 05:08:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README17.md)
