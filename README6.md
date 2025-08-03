@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 976c2309-d6fe-3abb-855c-ff804dbf080d | -16.70923 | -47.57781 | 2025-08-02 03:34:00 | NPP-375D | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 2ae3d1f5-eefb-341e-a1fe-3b6e4556b92f | -12.67568 | -44.48676 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 2dfd3949-54e8-35d5-ae6b-5dce9c7a2694 | -12.67273 | -44.48088 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| bc105810-d94c-3d4c-9439-bcb52e9006e8 | -12.67391 | -44.49575 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
-| 729e9015-e43e-34a9-8c92-093f4b00a072 | -12.65124 | -44.49489 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| db47192f-4723-35b0-8fd4-93ff1647838e | -12.66588 | -44.53625 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| cd61c81e-5e0a-311a-a08c-766fd7b3f6fa | -12.44531 | -47.05874 | 2025-08-02 03:34:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2519cded-6b28-3800-bb5e-303ca23fea69 | -12.65396 | -44.53373 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 6437c0fc-47c0-35c9-a166-637b70cf3325 | -15.8051 | -47.70864 | 2025-08-02 03:34:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| da2bd428-741c-3abb-b717-b5bda3397691 | -13.21564 | -42.25521 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 12.2 |
-| ad490ad6-5773-35f4-a388-05c0d1ec9c67 | -13.21631 | -42.25163 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 12.2 |
-| e258a0bd-84ab-311f-a810-cbd64a1b080c | -12.66166 | -44.53472 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 8e4c23b5-8dee-32f6-9467-8679ca03ee91 | -12.67781 | -44.53875 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 9d08f6b5-e059-37ac-8ed7-3c846a5971a8 | -12.03107 | -44.02365 | 2025-08-02 03:34:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 2dd9cf07-98f7-3a6c-a23b-8529311b897f | -14.79523 | -42.72566 | 2025-08-02 03:34:00 | NPP-375D | URANDI | BAHIA | Brasil | 2932606 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 4cec2626-84eb-3076-b1b4-f32df3e839d0 | -12.67682 | -44.49113 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| b6cbe6ec-7d61-3f2f-a358-686d54be4b74 | -12.67266 | -44.54169 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 99a4c2b2-d8ea-3c50-bfe0-13bad6fa3202 | -16.2483 | -48.95525 | 2025-08-02 03:34:00 | NPP-375D | ANÁPOLIS | GOIÁS | Brasil | 5201108 | 52 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| cda723f4-919f-3155-a7f1-738a153eb5f8 | -12.66708 | -44.49891 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 7fceb84b-593a-348b-8ab2-f56ea20b44db | -12.66947 | -44.51817 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 4f5eae33-7e90-3365-a0be-4ed14333ed51 | -12.6704 | -44.52243 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b1804c6d-efe5-3864-b384-5a712f65bc48 | -12.65992 | -44.535 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| d5a16840-5986-3233-8d0a-d3a238923e13 | -13.06067 | -47.44505 | 2025-08-02 03:34:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| b8b0771c-e976-343d-b558-8b46fb07b60b | -17.91928 | -42.74191 | 2025-08-02 03:34:00 | NPP-375D | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c461c06e-2c14-3763-a34e-84b14138d650 | -12.67807 | -44.50602 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 6b21e1e0-9a5e-3e93-b9fe-d696b2f90027 | -12.67274 | -44.53298 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| ca34d879-8091-318c-a918-9c0337747316 | -12.67223 | -44.51348 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| fd8eeb9a-ccd5-3669-99b7-12aef3c02a80 | -12.65847 | -44.51107 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| 93752d9a-9a93-3655-8768-02f89f268ea5 | -19.57254 | -40.78964 | 2025-08-02 03:34:00 | NPP-375D | COLATINA | ESPÍRITO SANTO | Brasil | 3201506 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 110717a9-0998-3d4e-a52c-ef6b3b6fc7dd | -12.66947 | -44.52693 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| f162bfbd-dcba-3b7f-a9c7-a1b497d3aa86 | -13.89699 | -42.13615 | 2025-08-02 03:34:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 004ca308-e810-3850-8928-3f465c643512 | -12.54133 | -44.71984 | 2025-08-02 03:34:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 65ddc19b-e8f9-31ae-a9c4-7c646f8bb863 | -13.21764 | -42.25591 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 9e9a6cba-42e6-353d-affc-b4e6b97ba300 | -18.23993 | -45.17031 | 2025-08-02 03:34:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 5c5c5284-0ad4-381e-b7f6-0c367a487ffd | -12.6787 | -44.53424 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 5341cdc4-5055-3224-9672-4c18c21eb2e2 | -13.85047 | -40.86892 | 2025-08-02 03:34:00 | NPP-375D | MANOEL VITORINO | BAHIA | Brasil | 2920403 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 4f510757-deb7-3763-adbf-b102981d10ea | -12.66857 | -44.52268 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 1b7d7675-32b1-31a3-a9cd-89d4cea6a399 | -13.89615 | -42.13554 | 2025-08-02 03:34:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| b694f0c9-a37e-3f97-bea2-89905c9635df | -18.2184 | -44.7061 | 2025-08-02 03:34:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e13e5de8-2e59-3d2b-b76b-5b789cd16632 | -12.64939 | -44.50382 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 755f044d-7360-38dc-86c6-61fa1342f5c3 | -13.89753 | -42.13328 | 2025-08-02 03:34:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 66c121a1-1a4a-357d-9c20-c11f674b3237 | -16.24696 | -48.95777 | 2025-08-02 03:34:00 | NPP-375D | ANÁPOLIS | GOIÁS | Brasil | 5201108 | 52 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 9ee554b8-8f99-3c1b-8d6f-c340a2cfb7fc | -12.67213 | -44.50473 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| f8b77254-bb81-3495-959a-8a2c6c56327b | -17.22849 | -42.55014 | 2025-08-02 03:34:00 | NPP-375D | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 7c28f0ba-6b22-3925-950f-d6f85a471492 | -12.67774 | -44.48666 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 823c4a6d-f0cd-3bb3-a4b5-7c01880c4aef | -12.67543 | -44.52818 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c557202b-1590-3e7b-8153-e0c997d56481 | -13.21836 | -42.25226 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 6f73a234-da35-3ec3-ad26-bf8af138b20c | -12.66905 | -44.49878 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 00403621-f387-320d-ab79-993ceedd231a | -18.53129 | -49.50508 | 2025-08-02 03:34:00 | NPP-375D | CACHOEIRA DOURADA | MINAS GERAIS | Brasil | 3109808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
-| 47117124-387a-3f10-b606-e9b9c4f1cf5b | -12.67315 | -44.50901 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| b8a20ea8-ab80-3a04-9247-dd7720f407f2 | -13.17166 | -42.23536 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 66ea11a8-fde5-3de1-b961-d8aa0240cfda | -12.65432 | -44.50075 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| 75f92298-516a-33d3-8b42-1dcbd1d7ea8f | -16.68633 | -41.01757 | 2025-08-02 03:34:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 22e68563-e8bb-37c8-ad58-bf3d0edd74ae | -12.66496 | -44.48852 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 96114058-15d4-37a4-8f60-9026709c8e5f | -12.65757 | -44.51559 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 6c314f76-92e6-389b-a4c1-73f51e56e117 | -12.66127 | -44.50642 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 0a483382-65a9-3426-a1c0-ed34235493f4 | -12.66813 | -44.50327 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 033b4032-a692-37c5-a994-ad7ec56278d6 | -12.67451 | -44.53268 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 328e41ae-ac9f-39ab-903c-fb571a93ea04 | -18.52858 | -49.5042 | 2025-08-02 03:34:00 | NPP-375D | CACHOEIRA DOURADA | MINAS GERAIS | Brasil | 3109808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 3c16bdb4-7da8-3dec-8afb-abe0d0869111 | -12.67453 | -44.52394 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| cf5bb3cd-ebd6-31f2-a4f5-476b4b05ebdc | -13.0592 | -47.45179 | 2025-08-02 03:34:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| c25b0bfa-a30e-340b-a8d9-317503a95c60 | -13.21315 | -42.25171 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| b79af952-74ba-39f7-a628-6a7cd658fbd0 | -13.89835 | -42.12897 | 2025-08-02 03:34:00 | NPP-375D | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 7e8e5666-c332-3145-a3f8-d0966d58dfca | -12.66025 | -44.50208 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| 6644cb1b-9c52-3e1c-b384-92f9497a9f19 | -12.67095 | -44.54202 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| d38a3cd5-f4d0-3eb9-9281-c4d091204248 | -12.44403 | -47.05851 | 2025-08-02 03:34:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 7e833227-9a0c-331c-9879-68eb5c2798b5 | -12.65347 | -44.51412 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 63451fb2-013e-37cf-9166-8b7840de54e3 | -13.21914 | -42.24826 | 2025-08-02 03:34:00 | NPP-375D | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 8.4 |
-| 8db8df5a-8edc-3816-a124-d341b5a78029 | -12.6544 | -44.50961 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 4386b4cc-fc3c-369b-bd9b-975abfc119d5 | -12.44815 | -47.04525 | 2025-08-02 03:34:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 16d34696-78b2-3595-80dc-6c1f8b9d193d | -15.0599 | -43.87403 | 2025-08-02 03:34:00 | NPP-375D | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 2886f907-c7aa-3dec-9949-4f0133507b79 | -12.66997 | -44.49429 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 6cfa6928-ea4a-3b5d-bd96-ff557eaef719 | -12.6748 | -44.49125 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
-| ab7dbf9b-c0e1-39ce-9742-3f1986c4e030 | -11.94844 | -46.6753 | 2025-08-02 03:34:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d3bd2780-7da1-3feb-9d47-40b6d4a845c2 | -12.66404 | -44.49299 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 1947f585-40d3-3fea-ba10-756f6e3c4942 | -15.36833 | -44.2837 | 2025-08-02 03:34:00 | NPP-375D | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 907fe623-aa46-385c-9c35-19bf1df62d89 | -12.66311 | -44.49747 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 702db4fd-0d2b-30d8-b86a-6b7dd518b841 | -12.65162 | -44.51429 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 26717c6a-a1d6-36b9-a7e2-66aafd5b9257 | -12.67363 | -44.52846 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 7285be19-909e-3f93-a306-dc07d5f1b6c3 | -12.67407 | -44.50455 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 89c0feae-2913-32d8-883c-9446e8dc6257 | -12.6561 | -44.49181 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 676c82e2-6dff-3de4-8773-abf329084f6b | -15.37388 | -44.28511 | 2025-08-02 03:34:00 | NPP-375D | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 24aab192-5a0d-3b29-a6d2-d88805cbf770 | -12.65032 | -44.49934 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 7a203c24-5ae3-3719-bc6b-e6f9790e4f4a | -11.96461 | -46.66631 | 2025-08-02 03:34:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| b447c827-9361-3470-b249-e7346bff3df1 | -12.66619 | -44.50341 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 5d5fd780-0c29-3f77-8211-5e3dcadb6664 | -15.06064 | -43.87033 | 2025-08-02 03:34:00 | NPP-375D | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 15b9faab-644e-3061-a790-e37155925227 | -12.6759 | -44.49561 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 83c82fbc-8595-3cbd-869b-236a79cf3bce | -12.66797 | -44.49442 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
-| df63817f-1862-32d6-a5d0-f3bddabfd8d9 | -12.66115 | -44.49759 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 14.5 |
-| 62f11fbd-7ad2-31bc-add1-7be4944b30c7 | -18.53298 | -49.49827 | 2025-08-02 03:34:00 | NPP-375D | CACHOEIRA DOURADA | MINAS GERAIS | Brasil | 3109808 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| af8312b9-9b56-3a88-9127-bae15a604f66 | -16.68716 | -41.01313 | 2025-08-02 03:34:00 | NPP-375D | JOAÍMA | MINAS GERAIS | Brasil | 3136009 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 30631154-5872-3069-b74e-df00a7de3331 | -12.67657 | -44.4823 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 17cabdc3-16ae-3d03-bec9-bf28f453647d | -12.67035 | -44.51368 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 0e5b48bb-97bd-386f-b07c-eaef0ac5ce8a | -12.65216 | -44.49044 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 53b0bcb4-0fd8-356f-98a4-6fc7e28a0365 | -15.36911 | -44.27987 | 2025-08-02 03:34:00 | NPP-375D | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| b6105de8-8eee-317b-856a-848d019cf1c5 | -12.65569 | -44.53348 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| c0ada89e-ab13-3218-89c5-779c3eac981d | -12.67185 | -44.5375 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| a04dd561-9f4c-3e9f-821c-cfec828a827c | -12.44549 | -47.05178 | 2025-08-02 03:34:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 79a6cf81-44e1-3d78-b6d4-ecbaad1fd6cd | -12.03279 | -44.01508 | 2025-08-02 03:34:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0b48d31e-6bbc-353c-bd95-daacc02e6c60 | -12.66537 | -44.51668 | 2025-08-02 03:34:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 79c940f2-ba7b-3b67-a04e-c03993faa8bf | -9.462 | -57.8302 | 2025-08-03 01:08:00 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2da7ffc1-47ca-307e-940b-75deca37a6c0 | -6.6516 | -59.103802 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 699ac139-3823-323b-a757-fd51d3a68aaa | -23.7143 | -51.648499 | 2025-08-03 01:08:00 | METOP-C | MARUMBI | PARANÁ | Brasil | 4115507 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 79ba6838-7476-3a2b-8981-5c6289c90130 | -4.3256 | -48.116299 | 2025-08-03 01:08:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| fa02010f-060a-3bd6-8205-185a743fca89 | -8.0148 | -43.178902 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| e04e4d3e-eb05-3285-9f7e-9a742aa89cfa | -21.313299 | -48.563 | 2025-08-03 01:08:00 | METOP-C | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| bd79fbd4-ba74-396b-8659-f77aab1dffcb | -10.4717 | -50.2784 | 2025-08-03 01:08:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a0759ce7-1045-3a91-b67b-6bb75f217d73 | -24.2246 | -51.868801 | 2025-08-03 01:08:00 | METOP-C | JARDIM ALEGRE | PARANÁ | Brasil | 4112504 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 11dd8439-13fe-3320-b93b-2e795f31dd39 | -6.6535 | -59.112598 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| fae80f29-d2ed-36fc-85da-94c32f74e083 | -8.0355 | -43.1409 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 72e5a553-51df-371c-a101-d6ff464abc9c | -27.1689 | -51.2043 | 2025-08-03 01:08:00 | METOP-C | TANGARÁ | SANTA CATARINA | Brasil | 4217907 | 42 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2e1c5b0f-bd0f-31b7-ac8d-e6bea6f3ed55 | -21.4569 | -55.097801 | 2025-08-03 01:08:00 | METOP-C | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 8a953ff0-b1f8-36e6-a4e1-eb6354e4205f | -10.4619 | -50.2808 | 2025-08-03 01:08:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 79038fa2-bc63-3d04-9d75-863bd19229fa | -21.712999 | -47.690701 | 2025-08-03 01:08:00 | METOP-C | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| b2f50045-d3fd-3c5d-bea8-1949a97fa0f0 | -6.7379 | -59.168999 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| b96867b9-846d-3fcb-b27a-985290dd1918 | -8.9438 | -46.734402 | 2025-08-03 01:08:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 403acaa8-18df-3c33-b3cf-1672768fd24c | -6.6751 | -59.163898 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 45167299-7d4f-3e0c-a765-4b5a1dfd7927 | -8.0067 | -43.148499 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| f86be58b-358d-3eec-a431-82ccf7de90cd | -8.0323 | -43.206699 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 1e7ec03e-270d-3294-988c-daa3e61570c0 | -4.5836 | -44.2216 | 2025-08-03 01:08:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4530f069-e6e7-32d7-aabe-c5ee349cbb9d | -4.3217 | -48.1003 | 2025-08-03 01:08:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 5930d491-8666-3a77-ab0f-525a1166eb3a | -12.6402 | -44.4913 | 2025-08-03 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 118.8 |
+| d606c2cd-ee91-35dd-a6fd-4ce03ef998bd | -6.6376 | -59.0988 | 2025-08-03 01:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 88.8 |
+| 90af2c97-efe3-3474-9e48-dcc968c97667 | -6.6375 | -59.1181 | 2025-08-03 01:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 83.5 |
+| 15ec6ba9-f3dc-3eeb-b6da-4e2aa71e5e34 | -6.656 | -59.0981 | 2025-08-03 01:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 137.7 |
+| e195eb90-28aa-30c3-998a-f405971a6d00 | -6.6741 | -59.1746 | 2025-08-03 01:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 15a0a926-4e02-3d76-914f-ec7ef7b7c780 | -12.6398 | -44.5148 | 2025-08-03 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 69.5 |
+| cf82c155-cf6d-3d0d-99a3-05a1c8a87d3f | -12.6209 | -44.4945 | 2025-08-03 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 54.7 |
+| 00c915b5-11e6-3b18-8a1e-d8a3fd41110d | -6.6559 | -59.1174 | 2025-08-03 01:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 128.7 |
+| 7b5e0edc-454d-30ac-83a2-3b6644303360 | -18.8407 | -46.4417 | 2025-08-03 01:10:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 93.3 |
+| b365a9ef-8cd5-3702-b309-a1be604ada2f | -12.6591 | -44.5117 | 2025-08-03 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 102.0 |
+| f4fbbed1-7e57-306e-a7d0-22294b5742f6 | -6.6742 | -59.1553 | 2025-08-03 01:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.0 |
+| b5322ddb-d50b-3e85-b9c2-11a119148f26 | -4.5684 | -44.2036 | 2025-08-03 01:10:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 127.1 |
+| 2c479488-c2d6-39e6-900a-7bcaa56a0c5d | -12.6595 | -44.4882 | 2025-08-03 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 142.3 |
+| 0c32cefb-6c68-3d56-b64b-35a681b2828c | -4.3196 | -48.1125 | 2025-08-03 01:10:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| aa734b22-8b45-3701-bc97-b79e9e9adbf8 | -12.6789 | -44.4851 | 2025-08-03 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 63.2 |
+| 093c718d-df2d-3629-9d18-52b9e3cb4b9f | -6.6559 | -59.1174 | 2025-08-03 01:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 104.6 |
+| fbbce82c-4bbd-37e7-88f9-5e15346b8cc1 | -12.6789 | -44.4851 | 2025-08-03 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 64.4 |
+| ebebcb85-ecde-3ac0-a326-63b4825721ba | -4.5497 | -44.2047 | 2025-08-03 01:20:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 75.3 |
+| 7257da8e-331e-38d0-89b2-b0f067626900 | -12.6595 | -44.4882 | 2025-08-03 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 131.3 |
+| f9dc0402-c71e-3b2d-9c04-3e681862ac8b | -6.6375 | -59.1181 | 2025-08-03 01:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| f507c9e2-5479-316e-9463-1229540be395 | -12.6402 | -44.4913 | 2025-08-03 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 112.5 |
+| fbe86ede-ca27-3ae9-9ab0-1aa90aa8b6c4 | -6.6329 | -59.9649 | 2025-08-03 01:20:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 47.2 |
+| 4603b9cd-a3a3-3830-8091-0b2495788152 | -12.6591 | -44.5117 | 2025-08-03 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 85.5 |
+| 1320d8c0-828c-38b4-8c5d-36a8542f5195 | -18.8407 | -46.4417 | 2025-08-03 01:20:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 115.1 |
+| 54d18df3-e9de-379f-b568-9be562a4f7f1 | -4.5684 | -44.2036 | 2025-08-03 01:20:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 132.7 |
+| 6b591125-c2cb-39e9-96de-ad6b064f7e98 | -6.656 | -59.0981 | 2025-08-03 01:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 99.3 |
+| a7c008c0-34de-3618-aefb-4b3c2d1fff31 | -6.6741 | -59.1746 | 2025-08-03 01:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 70.3 |
+| 85085d01-b8b5-3506-8b5c-67a83f1271aa | -6.6144 | -59.9656 | 2025-08-03 01:20:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 62.0 |
+| 9f0bc838-9a5f-3d26-afc8-fc983999a127 | -12.6209 | -44.4945 | 2025-08-03 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| e21a0a26-5b7d-3ada-8b1d-778b9bbb4c7f | -6.6376 | -59.0988 | 2025-08-03 01:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.7 |
+| 305404cf-6153-3c61-909a-2e1769fc8c90 | -12.6398 | -44.5148 | 2025-08-03 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| ca8feae8-6c69-39af-b1dd-51e53fa9d5e4 | -12.6595 | -44.4882 | 2025-08-03 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 123.6 |
+| 69135ddf-7c56-37c0-8dc0-88264d5ff376 | -21.7152 | -47.7101 | 2025-08-03 01:30:00 | GOES-19 | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 58.2 |
+| 5190f4e0-4e9e-311d-bef3-ddb9cf8abe27 | -21.7159 | -47.6864 | 2025-08-03 01:30:00 | GOES-19 | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | 129.2 |
+| 773653dc-7496-33e1-aa91-54acea7fd21f | -15.5513 | -54.2674 | 2025-08-03 01:30:00 | GOES-19 | PRIMAVERA DO LESTE | MATO GROSSO | Brasil | 5107040 | 51 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| e5c3ecd9-59cd-3c0b-b9b8-6d80ef3d6f5f | -6.6559 | -59.1174 | 2025-08-03 01:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 88.9 |
+| 9635688b-5004-3b10-8288-4ac466814e23 | -15.551 | -54.2883 | 2025-08-03 01:30:00 | GOES-19 | PRIMAVERA DO LESTE | MATO GROSSO | Brasil | 5107040 | 51 | 33 | nan | nan | nan | Cerrado | 72.5 |
+| 477b8a12-8955-3339-9156-b2aceccdc06d | -4.5684 | -44.2036 | 2025-08-03 01:30:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 100.8 |
+| 64178b5f-34b4-3f9c-aaab-a852bda87107 | -12.6402 | -44.4913 | 2025-08-03 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 88.7 |
+| 0ddcace6-261d-3323-8ea7-b164404e2f4a | -6.6145 | -59.9464 | 2025-08-03 01:30:00 | GOES-19 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 59.2 |
+| 37d11f0f-c48c-3c7f-803c-1b3ccd562776 | -6.6741 | -59.1746 | 2025-08-03 01:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.3 |
+| 78c5543d-a0e4-379c-af6b-693c5a624210 | -12.6591 | -44.5117 | 2025-08-03 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 88.7 |
+| 35c99650-6665-3a95-be5a-87f45e1acd87 | -6.6144 | -59.9656 | 2025-08-03 01:30:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 80.7 |
+| 7c3a7666-6942-3504-973d-69cdd2592367 | -18.8407 | -46.4417 | 2025-08-03 01:30:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 55.7 |
+| 882b3e92-f87b-39c4-b181-4ed7e5ebdd3a | -6.6376 | -59.0988 | 2025-08-03 01:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 81.1 |
+| 66bc7f16-8f16-336b-9e44-30f6920c6530 | -6.6742 | -59.1553 | 2025-08-03 01:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 49.2 |
+| 2502b63f-e626-3beb-bbe0-4c0ff6a717fa | -6.656 | -59.0981 | 2025-08-03 01:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 89.4 |
+| 1815af05-517f-3efa-8ff1-12f43fcae833 | -6.6375 | -59.1181 | 2025-08-03 01:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 81.1 |
+| 27f9c2de-b6df-3810-81cb-3384934a5d54 | -12.6789 | -44.4851 | 2025-08-03 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 56.4 |
+| d0f5c927-80b9-3d07-8f60-089db0f6073c | -12.6209 | -44.4945 | 2025-08-03 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 48.1 |
+| bd1dddc6-d3e9-3e72-977d-3807ac500d54 | -6.633 | -59.9457 | 2025-08-03 01:30:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 68.2 |
+| cc5b0b5e-f683-30b2-b3e4-cdeb1956a682 | -12.6398 | -44.5148 | 2025-08-03 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 55.9 |
+| ee9fc8ef-ae97-3a00-bd1a-d0001ac08b58 | -4.5497 | -44.2047 | 2025-08-03 01:30:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 72.1 |
+| fcd963d9-e316-37d9-82b8-4936509bd0c5 | -6.6329 | -59.9649 | 2025-08-03 01:30:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 89.2 |
+| 73b5dbd9-68b0-35a4-80a5-cf795598a1f4 | -6.6741 | -59.1746 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 49.4 |
+| 310dc806-f270-3b74-9b6c-00377473ce25 | -6.6144 | -59.9656 | 2025-08-03 01:40:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 94.0 |
+| 98f91903-b97a-3f9b-9a15-9e32e37dd80e | -6.6375 | -59.1181 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 51.1 |
+| 343db4aa-5100-3efe-8946-e1c6af57ef24 | -6.6376 | -59.0988 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 47.5 |
+| b53cdfa5-59a4-387a-bc9f-7c1f3d6752e8 | -6.6329 | -59.9649 | 2025-08-03 01:40:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 76.3 |
+| 88242dae-2141-3992-98e7-cefd43323e64 | -6.6559 | -59.1174 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 105.3 |
+| a8869252-f9a4-3c0b-9e44-2dfb0b67c48d | -6.656 | -59.0981 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 91.7 |
+| f0e081fe-0e0e-397a-8e48-0439573de9d1 | -12.6398 | -44.5148 | 2025-08-03 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.3 |
+| faf1f1fe-ecc1-323c-95a4-44bacc81db65 | -12.6591 | -44.5117 | 2025-08-03 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 75.7 |
+| 82089891-15fd-3ea0-b395-3cff5f9822d7 | -7.0208 | -59.8346 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| 38c79670-9071-3515-8114-5123e932b8dc | -18.8407 | -46.4417 | 2025-08-03 01:40:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 90.5 |
+| 14b860fe-948b-3692-95e8-7fed9ddd5535 | -6.6145 | -59.9464 | 2025-08-03 01:40:00 | GOES-19 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| c855ac49-c5c9-33c9-81bb-9bb76684b36b | -6.633 | -59.9457 | 2025-08-03 01:40:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 65.0 |
+| 082d3b5e-1c56-370c-86ea-07e1e983af4e | -12.6402 | -44.4913 | 2025-08-03 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 99.6 |
+| 6ba1ad08-3b64-3234-89d2-64855b7cdf67 | -12.6789 | -44.4851 | 2025-08-03 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 59.6 |
+| 8cd1b565-84e2-3b80-ab4c-e4ce8a37b9fa | -7.0391 | -59.8531 | 2025-08-03 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 48.9 |
+| 1ec192dd-e93a-3a21-9fe3-0b14de2686ed | -12.6595 | -44.4882 | 2025-08-03 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 116.3 |
+| c956c0e6-efe2-3edc-9342-935ab7bcdcc2 | -4.5684 | -44.2036 | 2025-08-03 01:40:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 111.8 |
+| 9c07ffdf-abc9-358f-9d1d-5fb72f24ec65 | -6.64389 | -59.10067 | 2025-08-03 01:47:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 41.4 |
+| 9444157c-edf4-3ada-a5ac-254061c3503e | -6.65109 | -59.10615 | 2025-08-03 01:47:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 65.9 |
+| e96c0006-279d-30ab-ab41-37f5889c395a | -7.02226 | -59.83453 | 2025-08-03 01:47:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 20.8 |
+| ca37b426-623d-3ab5-abf0-3a8eb8f91cd8 | -6.64759 | -59.12395 | 2025-08-03 01:47:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 37.4 |
+| eeac799b-e3ae-3116-946e-be120a7c312a | -6.6328 | -59.9462 | 2025-08-03 01:47:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 25.8 |
+| 81e91d51-0a93-3643-bd09-8855a954e0c1 | -6.61999 | -59.9482 | 2025-08-03 01:47:00 | TERRA_M-M | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 37.4 |
+| 1e9fa241-a711-31f4-9ddd-6a779cd84304 | -6.62304 | -59.96798 | 2025-08-03 01:47:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 72.1 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)

@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| cfc80f50-0e24-3ebf-900f-1fee596336b0 | -12.6784 | -44.5085 | 2025-08-02 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 135.4 |
-| 14317532-2d14-35d3-bd2c-45bcea555aa7 | -12.6595 | -44.4882 | 2025-08-02 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 299.5 |
-| b5894f03-b141-3967-adb4-fa9abc64aa87 | -12.6402 | -44.4913 | 2025-08-02 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 51.4 |
-| a3acd505-cb1c-3ed6-b742-5dbbf408ed59 | -8.0513 | -43.1001 | 2025-08-02 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 85.5 |
-| bcb7ed65-31a1-3098-80b8-af912c310290 | -8.0324 | -43.1022 | 2025-08-02 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 81.2 |
-| 0eb0c444-8dba-3b15-ba03-9803cc6c65b3 | -12.6591 | -44.5117 | 2025-08-02 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 218.4 |
-| ddb787b7-eec0-3bc4-a63f-0a753609ddc7 | -8.0321 | -43.1257 | 2025-08-02 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 263.6 |
-| af240a89-e261-32e7-ab1d-8a1c040c743b | -12.6595 | -44.4882 | 2025-08-02 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 280.4 |
-| ccf808b7-5ea9-37fc-9e85-077226d49d83 | -10.036 | -44.7056 | 2025-08-02 01:20:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 108.3 |
-| 4837f26e-ea26-39d9-a88e-69d25d18d6ed | -12.6591 | -44.5117 | 2025-08-02 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 196.4 |
-| 87c1a11e-b461-3d7e-89fd-49c54099ba50 | -9.3989 | -45.4928 | 2025-08-02 01:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| e48fb5a8-d1fa-36af-97f1-a3343de282b4 | -12.6789 | -44.4851 | 2025-08-02 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 220.5 |
-| 946efef4-1e67-396a-b896-5a9e8cd71d34 | -12.6784 | -44.5085 | 2025-08-02 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 139.4 |
-| 63b5d6dc-1f71-3f30-9c82-6638b1f3d22b | -9.4572 | -57.839199 | 2025-08-02 01:28:00 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9abfde60-9399-34fd-a880-e0ce00af2e18 | -20.883301 | -56.375099 | 2025-08-02 01:28:00 | METOP-C | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| a308fbc9-221c-30ba-89e8-0181198db444 | -11.4173 | -56.860802 | 2025-08-02 01:28:00 | METOP-C | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 21d2a847-cd76-3ecc-9b7b-f003cd9ff1b2 | -9.467 | -57.836899 | 2025-08-02 01:28:00 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cba79876-f87d-3e89-a85a-83a408504c35 | -11.4155 | -56.852901 | 2025-08-02 01:28:00 | METOP-C | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0413eee9-1c86-3aa3-9dc4-2b45824c9403 | -29.7789 | -53.8437 | 2025-08-02 01:28:00 | METOP-C | SANTA MARIA | RIO GRANDE DO SUL | Brasil | 4316907 | 43 | 33 | nan | nan | nan | Pampa | nan |
-| 64b68068-69dc-3ed3-aeb3-e7a1f652000d | -22.3622 | -54.979 | 2025-08-02 01:28:00 | METOP-C | LAGUNA CARAPÃ | MATO GROSSO DO SUL | Brasil | 5005251 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3c07db95-3e5a-3f1c-83cf-b73babba9e46 | -22.364 | -54.986801 | 2025-08-02 01:28:00 | METOP-C | LAGUNA CARAPÃ | MATO GROSSO DO SUL | Brasil | 5005251 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 7b4c0bdb-18aa-33cb-b428-c2904b27f3fd | -15.12 | -55.213402 | 2025-08-02 01:28:00 | METOP-C | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 6e0bc796-dfcb-3825-ab1a-3bbae0f33b5e | -13.9911 | -53.940498 | 2025-08-02 01:28:00 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| e1f2283a-8d99-3ed4-b0a8-6cf2c2d4d875 | -15.1179 | -55.2047 | 2025-08-02 01:28:00 | METOP-C | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 1e701f3f-ceda-3138-a073-ce8f6cc49555 | -22.3701 | -54.968498 | 2025-08-02 01:28:00 | METOP-C | LAGUNA CARAPÃ | MATO GROSSO DO SUL | Brasil | 5005251 | 50 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a678497c-c43d-380d-9361-f566a4b7f9f5 | -11.4192 | -56.868801 | 2025-08-02 01:28:00 | METOP-C | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f385042c-45cf-36d3-8cb5-4002517fbf75 | -12.678 | -44.532 | 2025-08-02 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| cdf70f5e-42ec-3d1a-81b1-c2b77c54550b | -10.036 | -44.7056 | 2025-08-02 01:30:00 | GOES-19 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 70.1 |
-| e216aeca-f4cc-3d73-a3b5-9858ba74d70a | -12.6784 | -44.5085 | 2025-08-02 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 134.4 |
-| f98d6c63-c152-3e40-87c1-f0a82239e993 | -12.6595 | -44.4882 | 2025-08-02 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 264.6 |
-| ca372f04-fc05-3957-b5e9-5d74026438d2 | -12.6591 | -44.5117 | 2025-08-02 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 195.0 |
-| 692b6af5-ed55-35c0-bad0-17156a8b097f | -12.6789 | -44.4851 | 2025-08-02 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 201.6 |
-| d918498b-c265-39af-958d-e4f40db5b6aa | -9.3989 | -45.4928 | 2025-08-02 01:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 74.0 |
-| 0561bbbc-5c1a-39a1-b92b-401c1628a59b | -12.678 | -44.532 | 2025-08-02 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 62.0 |
-| b817e0b4-f619-3258-8658-0e2a99db53ec | -12.6591 | -44.5117 | 2025-08-02 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 197.3 |
-| aec83fb9-7447-337a-999e-0c1f5fdeb890 | -9.1937 | -45.2886 | 2025-08-02 01:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 100.8 |
-| 11cd29ec-5f79-3d8b-a3a3-f8ed10400a01 | -12.6789 | -44.4851 | 2025-08-02 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 202.8 |
-| 8bf81c81-11d0-3e6f-9b73-eb8dbc49a1f8 | -12.6784 | -44.5085 | 2025-08-02 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 138.6 |
-| c85d209f-417d-3452-aba8-f2c2039b64fa | -12.6595 | -44.4882 | 2025-08-02 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 239.0 |
-| 31299fcf-322f-35dd-9b02-ca4da63d1f27 | -8.2815 | -47.3554 | 2025-08-02 01:50:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 58.7 |
-| 41ea67af-0a7f-3955-a4ef-9a3e8101f125 | -12.6784 | -44.5085 | 2025-08-02 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 134.4 |
-| 3d54a9b2-0354-3a48-adb4-aa6fcddcee9f | -8.0318 | -43.1493 | 2025-08-02 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 132.3 |
-| ec7a08dc-36db-3c7e-8e6b-c091d3cef6f7 | -8.0321 | -43.1257 | 2025-08-02 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 191.5 |
-| 595644d6-cbf9-33c7-8dbd-1d172c0c97a7 | -12.6591 | -44.5117 | 2025-08-02 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 175.4 |
-| 88d72fb4-2dad-3d0e-b573-5329e8c58f1c | -12.6595 | -44.4882 | 2025-08-02 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 214.8 |
-| afcdfdcd-7f73-342e-8ab8-98846daa3cfc | -8.0324 | -43.1022 | 2025-08-02 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.5 |
-| e1c57570-0d66-33c9-bbbf-4b53bb8b30a1 | -9.3989 | -45.4928 | 2025-08-02 01:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 3f2bd97d-8d0d-3a5c-b21b-99e3e14f1731 | -8.0513 | -43.1001 | 2025-08-02 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 82.2 |
-| 6e760336-50b8-3378-bb74-c9c298b99564 | -8.051 | -43.1237 | 2025-08-02 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 70.8 |
-| 4b17b9c4-1e52-3616-83f7-291144186c62 | -12.6789 | -44.4851 | 2025-08-02 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 190.9 |
-| 9b0e942f-d34b-3b2c-af5b-6d5e746beb41 | -9.3989 | -45.4928 | 2025-08-02 02:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 96.3 |
-| 57b5a401-0372-3ff4-be47-9ef95dc8f9e6 | -8.051 | -43.1237 | 2025-08-02 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 81.1 |
-| e909babb-ca1b-3345-b7f3-1bfeee68b349 | -12.6595 | -44.4882 | 2025-08-02 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 209.6 |
-| 71538071-f631-3ada-bfed-0b1e915aad6b | -8.0324 | -43.1022 | 2025-08-02 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.7 |
-| 1b7c77fe-59a6-3202-9d78-d8fd529bc7a2 | -8.0513 | -43.1001 | 2025-08-02 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.9 |
-| d7aa6def-9997-3798-b034-ba0014a3e312 | -8.0318 | -43.1493 | 2025-08-02 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 105.8 |
-| bcebd034-ac6e-3778-b906-d2e9b52de352 | -8.0321 | -43.1257 | 2025-08-02 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 175.4 |
-| 9826eead-b7dd-318a-8e27-e4d496fa3a99 | -12.6591 | -44.5117 | 2025-08-02 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 164.7 |
-| b9a5a752-f86c-3ddc-b5dd-04d5d3836867 | -12.6784 | -44.5085 | 2025-08-02 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 126.4 |
-| 8e6bc344-beaa-33df-a756-7f0fb9436abd | -8.0129 | -43.1513 | 2025-08-02 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 74.5 |
-| e0acfa5e-1a1b-325e-9fcd-ce728bd9d910 | -12.6789 | -44.4851 | 2025-08-02 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 182.9 |
-| ca1d93d4-3d4c-3b9b-91bb-2c1cedd38b83 | -12.6595 | -44.4882 | 2025-08-02 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 197.4 |
-| 5825daec-bab6-343f-b01e-ad7349174137 | -8.051 | -43.1237 | 2025-08-02 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 79.8 |
-| 1d426ff9-b840-3458-84e8-c018a8625d9d | -12.6784 | -44.5085 | 2025-08-02 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 127.8 |
-| 39049610-8686-346c-aa04-b3f281a6d8bb | -9.3989 | -45.4928 | 2025-08-02 02:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 92.2 |
-| a35f9c12-301b-3f8e-a42f-c38b96dd92ae | -8.0513 | -43.1001 | 2025-08-02 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 79.8 |
-| 8117d560-63c3-39c2-bd19-0cc45c7ea078 | -8.0318 | -43.1493 | 2025-08-02 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 112.8 |
-| ebb361b1-a5cb-3cc5-b373-77a3dd84d1d6 | -8.0321 | -43.1257 | 2025-08-02 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 185.2 |
-| fc3da782-182e-3359-85d2-062c25282d02 | -8.0324 | -43.1022 | 2025-08-02 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 85.0 |
-| ccd5a417-0126-31df-acc9-232c84cd2dc3 | -12.6591 | -44.5117 | 2025-08-02 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 164.7 |
-| 65766149-bcef-3f81-91db-e1394ef89f7a | -8.0129 | -43.1513 | 2025-08-02 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.7 |
-| 5734917e-798e-3e9e-9ae8-9ec6e139f230 | -12.6789 | -44.4851 | 2025-08-02 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 177.7 |
-| 4ef767b4-276c-3737-9404-61449a66f879 | -12.6784 | -44.5085 | 2025-08-02 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 110.0 |
-| f918020f-8c9f-3912-9cdc-162866b5bd23 | -12.6789 | -44.4851 | 2025-08-02 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 163.9 |
-| 85d37d71-5422-3ef0-8d17-21b9a1a3c594 | -12.6591 | -44.5117 | 2025-08-02 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 150.4 |
-| eae966b6-07d7-3bfc-a4a1-0dfdc6ab776b | -9.3989 | -45.4928 | 2025-08-02 02:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 94.7 |
-| 8be6530c-5487-3040-82bc-9d7cd01f30e6 | -12.6595 | -44.4882 | 2025-08-02 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 209.1 |
-| 4848fc7e-339b-3aa3-8808-d6fc144ae39a | -8.051 | -43.1237 | 2025-08-02 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 67.6 |
-| 8a3abbec-a085-3d16-b0b5-dfb5908e47a8 | -8.0318 | -43.1493 | 2025-08-02 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 94.0 |
-| 8cc83e5d-493a-32c0-a09e-0544e1099641 | -8.0321 | -43.1257 | 2025-08-02 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 169.1 |
-| 60f0c8d5-54bb-3d0e-9203-ea598271b022 | -12.6789 | -44.4851 | 2025-08-02 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 164.8 |
-| d9148c31-5a1f-31b3-90dd-2b57b3008d30 | -8.0324 | -43.1022 | 2025-08-02 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 84.0 |
-| 920ede9b-5a65-3fad-a231-89bdf6ed4ae5 | -9.3989 | -45.4928 | 2025-08-02 02:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| b6712163-4d64-359c-b4a9-871bef717f9f | -12.6595 | -44.4882 | 2025-08-02 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 192.8 |
-| b5ea16f2-18f7-3a18-9af2-cb290b0bb986 | -8.0513 | -43.1001 | 2025-08-02 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 77.2 |
-| acf73ddf-5b9e-3cd6-b4c5-153613b5f171 | -12.6591 | -44.5117 | 2025-08-02 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 131.1 |
-| d856ca93-cdef-33d2-be48-20b247eca1b4 | -9.1937 | -45.2886 | 2025-08-02 02:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 71.7 |
-| 0264d5c5-2950-33e2-a76d-524472a9c9b9 | -12.6784 | -44.5085 | 2025-08-02 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 105.8 |
-| 8a3bf91c-5550-38bb-a767-f56979444ee2 | -8.0318 | -43.1493 | 2025-08-02 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 91.7 |
-| 44f0c772-dacd-3a1d-804b-92234733f158 | -12.6595 | -44.4882 | 2025-08-02 02:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 179.6 |
-| 7b00a99c-30c5-3c33-91b3-a2ab0c24e727 | -12.6784 | -44.5085 | 2025-08-02 02:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 105.9 |
-| 36becc2b-1e11-3e5e-9ef0-a07981937720 | -8.0513 | -43.1001 | 2025-08-02 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 75.3 |
-| 1efcee26-c4e5-3513-9952-9779b0ec4cae | -8.051 | -43.1237 | 2025-08-02 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.5 |
-| 0d798bea-694e-3f07-b413-492bca5d6a8f | -9.3989 | -45.4928 | 2025-08-02 02:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 926d042a-cbcd-3312-aeb8-57107c0b4b2e | -8.0324 | -43.1022 | 2025-08-02 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 74.2 |
-| f44c7264-ff4b-389a-b70e-4bd12200fa6f | -8.0129 | -43.1513 | 2025-08-02 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.7 |
-| 0f168dd8-1225-3279-863c-96926228c042 | -12.6591 | -44.5117 | 2025-08-02 02:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 130.1 |
-| 98f6e7b6-34a9-3d1a-9778-e69d321cf7a1 | -8.0321 | -43.1257 | 2025-08-02 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 163.0 |
-| fcba5cde-755a-3a33-adf2-b19094612811 | -12.6789 | -44.4851 | 2025-08-02 02:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 152.7 |
-| 952ff5be-94c5-3b38-bfa7-167d6841a974 | -12.6591 | -44.5117 | 2025-08-02 02:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 139.1 |
+| 6cfd6da6-935e-3af1-869e-a1bbeaaaec88 | -12.3993 | -43.4869 | 2025-08-03 00:18:00 | METOP-B | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| ca8f8a64-11ec-33ba-89e7-0449c06e4ae7 | -22.566601 | -46.372398 | 2025-08-03 00:18:00 | METOP-B | BUENO BRANDÃO | MINAS GERAIS | Brasil | 3109105 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 755235f5-cc14-30f7-9363-f9fcda2f9201 | -6.5582 | -51.0989 | 2025-08-03 00:18:00 | METOP-B | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 04cd65b4-0a5c-3e9a-aec5-05ae8cb97832 | -4.539 | -44.197701 | 2025-08-03 00:18:00 | METOP-B | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 6a2fa474-a360-3032-bf83-0b7c66436a5a | -12.5978 | -44.488998 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 6cce6763-f948-350e-9950-7ec15fc7448c | -4.2891 | -48.107899 | 2025-08-03 00:18:00 | METOP-B | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cefe3e77-53ff-36cf-87f5-f255951ba5fc | -12.6141 | -44.513901 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 9e3f6afd-74ee-36f7-a821-711e3fedd21c | -13.6544 | -41.3624 | 2025-08-03 00:18:00 | METOP-B | BARRA DA ESTIVA | BAHIA | Brasil | 2902807 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 0cec6faf-1337-3984-adbe-d751554e0b69 | -21.6952 | -47.701099 | 2025-08-03 00:18:00 | METOP-B | SANTA RITA DO PASSA QUATRO | SÃO PAULO | Brasil | 3547502 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| d12a3fe8-491a-35f0-9a67-2b70bf46d0de | -14.1579 | -45.459599 | 2025-08-03 00:18:00 | METOP-B | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 1ee3594f-832f-39a3-967a-dafb272d290a | -20.0079 | -46.431702 | 2025-08-03 00:18:00 | METOP-B | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 438b4d4d-2f0c-3e97-a3c4-1cb0596d82ec | -7.992 | -43.181099 | 2025-08-03 00:18:00 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| a09f39ab-4aa7-30a1-a6c6-f5cbe4592846 | -11.9254 | -44.964901 | 2025-08-03 00:18:00 | METOP-B | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| f945744f-c037-318b-942f-46119e04c428 | -8.9163 | -46.754101 | 2025-08-03 00:18:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 06632360-deb8-3655-bb13-13225f8a04d8 | -7.9761 | -43.1581 | 2025-08-03 00:18:00 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 3ba2a1ba-43f8-3ad2-8ea7-f98ea4d41ede | -6.5598 | -51.105999 | 2025-08-03 00:18:00 | METOP-B | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a7b94428-8f41-3d22-b861-923ff4b667c7 | -18.8262 | -46.4426 | 2025-08-03 00:18:00 | METOP-B | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| a7b8a34d-fb7f-3ff9-a2e8-efebdb739867 | -11.0372 | -49.536301 | 2025-08-03 00:18:00 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 31ce899b-c27d-3db6-849a-bd0fef819204 | -7.0948 | -43.476898 | 2025-08-03 00:18:00 | METOP-B | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9796e59f-5a68-3c71-9ae0-5d08921acc42 | -8.0156 | -43.1082 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 8d8e36db-ce28-398b-aaa3-fe1fba1499b0 | -7.9828 | -43.1432 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 67057da0-10ad-39e0-b404-1634bdde45a1 | -8.3147 | -46.917999 | 2025-08-03 00:18:00 | METOP-B | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 58d9547c-279e-3db0-8156-7cd6f573881c | -15.66 | -47.586601 | 2025-08-03 00:18:00 | METOP-B | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
+| e5dc3201-9674-33dd-b786-5a8f292225f5 | -6.6246 | -59.090801 | 2025-08-03 00:18:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| cbf9accd-1fe1-3ffb-8637-ea4f8d18d620 | -4.5418 | -44.2099 | 2025-08-03 00:18:00 | METOP-B | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 69acba30-cc03-3ae9-a17f-932647b10664 | -9.3687 | -45.504101 | 2025-08-03 00:18:00 | METOP-B | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| c497fad0-fa95-3e1a-8051-3ad8122f5793 | -20.2215 | -40.244301 | 2025-08-03 00:18:00 | METOP-B | SERRA | ESPÍRITO SANTO | Brasil | 3205002 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2f8445c3-fee9-3ead-a72e-d7e740c17ff1 | -8.0254 | -43.1059 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 541d4bc3-7ab9-3a5b-b9fd-c5eccc80a4f3 | -14.3585 | -50.319099 | 2025-08-03 00:18:00 | METOP-B | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 5328aa5f-caad-39f4-a7d1-a65cf2438f60 | -10.3221 | -44.906898 | 2025-08-03 00:18:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 026814ce-4f88-3055-8255-3259c122b095 | -14.1426 | -45.438099 | 2025-08-03 00:18:00 | METOP-B | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 12fb7cb1-545b-3243-9295-730c4b159ee9 | -22.019699 | -47.584801 | 2025-08-03 00:18:00 | METOP-B | DESCALVADO | SÃO PAULO | Brasil | 3513702 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 7330eea6-e0d6-3fd6-8be2-09d04db46e2b | -7.9895 | -43.128101 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 7cf10584-e3bb-3839-bb90-7492ee2a621d | -4.5292 | -44.200001 | 2025-08-03 00:18:00 | METOP-B | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3eb85499-531b-3cc7-b04d-8252dabe5a37 | -23.3675 | -47.5107 | 2025-08-03 00:18:00 | METOP-B | SOROCABA | SÃO PAULO | Brasil | 3552205 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| aa04a711-9692-3ed4-94ff-316a16d57c9e | -3.7906 | -42.546001 | 2025-08-03 00:18:00 | METOP-B | MATIAS OLÍMPIO | PIAUÍ | Brasil | 2206100 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| ad70a8c9-e585-380d-b6af-12d93b37c161 | -9.5347 | -47.880402 | 2025-08-03 00:18:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1123d3b8-4d66-3ded-9cf2-47e3e15fd591 | -6.6202 | -59.07 | 2025-08-03 00:18:00 | METOP-B | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
+| 1bb645ad-64bc-3949-826c-dfb72217a525 | -22.267 | -52.108002 | 2025-08-03 00:18:00 | METOP-B | MARABÁ PAULISTA | SÃO PAULO | Brasil | 3528700 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 30c7f580-53e3-3d68-aa25-07d4d2bed22d | -7.9992 | -43.125702 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 89f3326b-28a5-3b0f-97c2-e66f6335ada8 | -14.156 | -45.451698 | 2025-08-03 00:18:00 | METOP-B | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8d26959d-3291-3fef-acce-a3cf2aa8ed8a | -10.3242 | -44.9161 | 2025-08-03 00:18:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 16e2f2d7-32d4-35ca-ae2c-c04330be443f | -7.0977 | -43.4893 | 2025-08-03 00:18:00 | METOP-B | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 1b77d9e8-2f57-3eab-b703-ff455b161b59 | -12.6173 | -44.4842 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 4347496d-d071-36f9-b10e-14f2455815b6 | -4.5447 | -44.222 | 2025-08-03 00:18:00 | METOP-B | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| c503eebb-a607-3786-8e9e-3e5d8a0ed4c3 | -12.6369 | -44.479401 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 987c7f2f-d194-3d20-afd5-8ce027b82733 | -12.6336 | -44.509102 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 98ce57cf-b4d4-3d16-945c-3e815a4f226d | -12.0214 | -44.020599 | 2025-08-03 00:18:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 1a49716d-29f7-369d-a207-fa84c4ccd097 | -11.0388 | -49.543301 | 2025-08-03 00:18:00 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| d4b53fd5-b004-32fd-8f6b-0ab16a9dc2be | -9.3785 | -45.501701 | 2025-08-03 00:18:00 | METOP-B | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 36babf3f-36f1-357d-b807-66bae423108a | -22.005199 | -47.564201 | 2025-08-03 00:18:00 | METOP-B | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 03597b26-eb2c-358b-ab20-3afadf11ad19 | -21.2491 | -48.374001 | 2025-08-03 00:18:00 | METOP-B | JABOTICABAL | SÃO PAULO | Brasil | 3524303 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 225d56ac-5923-3f46-8335-5e3f01d426bb | -12.6238 | -44.511501 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 40cf3927-d1f4-37ad-a3f8-3f19c48defca | -12.0037 | -44.815201 | 2025-08-03 00:18:00 | METOP-B | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 273047dd-8cdb-3d92-a384-8ce8ac62f62e | -8.012 | -43.136101 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| dae24f6b-cea9-3ba5-813e-8babcfe0973d | -21.247499 | -48.3661 | 2025-08-03 00:18:00 | METOP-B | JABOTICABAL | SÃO PAULO | Brasil | 3524303 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| ba82055b-cf7a-3fac-9b04-9e722898b98d | -12.6021 | -44.507198 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 4d49b821-f602-3a73-aeb1-7d9c0bbaaaee | -7.9451 | -45.107399 | 2025-08-03 00:18:00 | METOP-B | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 14509bab-b7a8-3d44-a227-cea961ff0ad5 | -10.4397 | -50.2813 | 2025-08-03 00:18:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2cb85ffa-9bd2-3af4-b1ab-264408f5e3a6 | -4.2972 | -48.098202 | 2025-08-03 00:18:00 | METOP-B | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| e05197fb-974b-3e6f-9891-c3b4b86980cb | -12.6379 | -44.527199 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8dab6bfb-8e09-320e-9a06-a4119981428c | -9.3368 | -50.737099 | 2025-08-03 00:18:00 | METOP-B | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c775f545-cedb-31eb-bc12-6e84f05b7aa8 | -12.6487 | -44.486099 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2ee5b97c-88dc-3b89-8c16-f3a179f9f541 | -8.0023 | -43.138401 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 18eb9614-03c5-3297-99de-ecf5b4ce0268 | -19.976999 | -45.776001 | 2025-08-03 00:18:00 | METOP-B | BAMBUÍ | MINAS GERAIS | Brasil | 3105103 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| ac514ddb-b663-3f8f-b7d1-c9851634d0e8 | -18.8148 | -46.437698 | 2025-08-03 00:18:00 | METOP-B | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f0e18b90-8d7e-320f-babf-9b294f6e1976 | -12.6466 | -44.477001 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2c4774ce-a8ec-3fff-a108-f1d2d1f952c7 | -21.4373 | -55.0863 | 2025-08-03 00:18:00 | METOP-B | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| d193ea42-b3fd-3f2f-b092-4641dc3aafbb | -14.1542 | -45.443699 | 2025-08-03 00:18:00 | METOP-B | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 23513556-d71e-346f-b9fe-fb460ed5186e | -6.1814 | -46.3405 | 2025-08-03 00:18:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1fa75643-b9d0-3d93-a763-287c598a0480 | -7.9859 | -43.1558 | 2025-08-03 00:18:00 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 281d3768-0829-30c0-9087-557d48e98ed2 | -7.8589 | -45.530899 | 2025-08-03 00:18:00 | METOP-B | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 61f9269e-d477-36a7-a980-3d6e76b3916b | -20.2183 | -40.231602 | 2025-08-03 00:18:00 | METOP-B | SERRA | ESPÍRITO SANTO | Brasil | 3205002 | 32 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 719a6549-8ae7-356e-9033-7034a03606b5 | -18.827801 | -46.449799 | 2025-08-03 00:18:00 | METOP-B | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 4967f926-f339-3f36-9efa-a66ede7c1f85 | -9.3765 | -45.493 | 2025-08-03 00:18:00 | METOP-B | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 5485ebaa-ba97-3351-90b8-3ad18f314903 | -12.639 | -44.488499 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d2bac2d8-fda8-389f-91ea-6b4f08e3abca | -12.662 | -48.0882 | 2025-08-03 00:18:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 686dbdaf-eef0-3527-bae3-b0b6d5454340 | -10.8006 | -50.476299 | 2025-08-03 00:18:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b28250f1-3ead-3adb-b8eb-ce6d4af6cdd1 | -10.8104 | -50.474098 | 2025-08-03 00:18:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 7c8bbd60-444b-32fc-a0ea-a56843556e87 | -7.9429 | -45.097801 | 2025-08-03 00:18:00 | METOP-B | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 55cffc1b-8419-32a0-9bf4-d61ce54e40d9 | -7.9986 | -43.1661 | 2025-08-03 00:18:00 | METOP-B | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| fa414832-5e68-393e-a303-da11aa48ef37 | -7.4919 | -49.7444 | 2025-08-03 00:18:00 | METOP-B | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bf26de70-5d1a-3c5a-a1a5-ccc212469d91 | -6.1834 | -46.349098 | 2025-08-03 00:18:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 698fab1e-53fe-380f-9d7e-2303a87c9cf9 | -12.0058 | -44.8241 | 2025-08-03 00:18:00 | METOP-B | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| c36952aa-0a96-39a6-a789-7ab033aaaa42 | -8.4083 | -47.4608 | 2025-08-03 00:18:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cede8fcd-02a1-3c26-8d71-180db3ff5495 | -7.9889 | -43.168499 | 2025-08-03 00:18:00 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 10b69ebd-be3d-3dd6-a54c-7951bc727a38 | -12.6271 | -44.4818 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 33b35c16-9898-3289-b0bb-ebc391f0d2c1 | -22.0165 | -47.5695 | 2025-08-03 00:18:00 | METOP-B | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| d18dbedd-1428-34a4-a728-f6ef442d243a | -4.532 | -44.2122 | 2025-08-03 00:18:00 | METOP-B | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ea716879-071c-3ee1-8426-7c71adb29224 | -3.9654 | -47.998299 | 2025-08-03 00:18:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d84b3b0e-b872-3568-b213-4de0bbcc9aaf | -12.6476 | -44.524799 | 2025-08-03 00:18:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 70e6c929-b28f-38d5-b3e3-23eea1638423 | -6.7997 | -48.6357 | 2025-08-03 00:18:00 | METOP-B | ARAGUANÃ | TOCANTINS | Brasil | 1702158 | 17 | 33 | nan | nan | nan | Amazônia | nan |
+| 66044919-0d72-3a70-8364-d8a3c229d9c9 | -10.8088 | -50.466702 | 2025-08-03 00:18:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9cd0b382-f1e8-36f5-ba11-ee51b7aee3f2 | -12.0093 | -44.0131 | 2025-08-03 00:18:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d9ec55c1-2ab4-32ce-ac26-530cbfc0fe9f | -6.1854 | -46.3577 | 2025-08-03 00:18:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ae1f6663-96e6-385f-9862-0838399cb077 | -4.7549 | -45.342499 | 2025-08-03 00:18:00 | METOP-B | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7bea81c8-6e2c-3bf6-94fb-dde58686080f | -7.9791 | -43.170799 | 2025-08-03 00:18:00 | METOP-B | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| d77fde82-6a56-3789-97bd-07e619a81564 | -27.161699 | -53.390701 | 2025-08-03 00:18:00 | METOP-B | VICENTE DUTRA | RIO GRANDE DO SUL | Brasil | 4323101 | 43 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2c3ada8c-64a6-37b8-8e3d-c0fcd77db09c | -22.018101 | -47.577202 | 2025-08-03 00:18:00 | METOP-B | DESCALVADO | SÃO PAULO | Brasil | 3513702 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 386dbd7e-27a6-3d3a-b7dc-b0fa99726d74 | -11.7743 | -44.936501 | 2025-08-03 00:18:00 | METOP-B | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README4.md)
