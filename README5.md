@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9abbabbf-1eda-3de7-8d91-ff66b7621327 | -13.6935 | -41.3685 | 2025-08-03 00:40:00 | GOES-19 | ITUAÇU | BAHIA | Brasil | 2917201 | 29 | 33 | nan | nan | nan | Caatinga | 83.9 |
-| e18f85d6-b09d-3042-abe6-ba3eb7f94bb1 | -4.3196 | -48.1125 | 2025-08-03 00:40:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 54.8 |
-| 1b71d4eb-3af6-35c7-8372-e73823876395 | -18.8407 | -46.4417 | 2025-08-03 00:40:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 50.2 |
-| 451bf0bd-4949-3d60-bb65-faf26acc196d | -6.6741 | -59.1746 | 2025-08-03 00:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.0 |
-| 8091c308-6764-3ba7-9032-24abc002be1d | -6.6376 | -59.0988 | 2025-08-03 00:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 77.6 |
-| 0b9cd834-6846-338b-8fc3-e4935ad8fac8 | -4.5497 | -44.2047 | 2025-08-03 00:40:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 70.1 |
-| a5eccb1b-3b42-3c53-8946-196f4bdf8ceb | -12.6789 | -44.4851 | 2025-08-03 00:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 44.0 |
-| d731d328-e492-349c-ae4f-76163e3ec31d | -6.656 | -59.0981 | 2025-08-03 00:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 130.8 |
-| aaa69a5e-0ee9-36b2-9b14-4803d5547eef | -6.6559 | -59.1174 | 2025-08-03 00:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 120.0 |
-| a6743b3d-2433-3565-84f9-ef787239e511 | -4.3197 | -48.0908 | 2025-08-03 00:50:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 45.1 |
-| 25556a10-55ff-3874-888f-3b7e4d2ab9d7 | -13.6935 | -41.3685 | 2025-08-03 00:50:00 | GOES-19 | ITUAÇU | BAHIA | Brasil | 2917201 | 29 | 33 | nan | nan | nan | Caatinga | 78.4 |
-| 26c948ba-1bc0-33a6-a104-11e2328635b4 | -18.8407 | -46.4417 | 2025-08-03 00:50:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 79.2 |
-| 5e7b8977-0c6f-361b-b123-6cbca25697dc | -6.6559 | -59.1174 | 2025-08-03 00:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 176.1 |
-| 68cbdbd7-b4e1-3892-9d3f-95fe95a1c975 | -12.6402 | -44.4913 | 2025-08-03 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 140.5 |
-| f108991c-23fc-3909-a504-efcc02484a51 | -4.5497 | -44.2047 | 2025-08-03 00:50:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| 30d60b32-13a2-39f1-a5c9-51d67b210783 | -12.6398 | -44.5148 | 2025-08-03 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 82.6 |
-| 691ffcb3-9cb1-32b5-8a26-de23dd157b2e | -4.5684 | -44.2036 | 2025-08-03 00:50:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 115.4 |
-| c5df472b-af83-3dbc-bec9-108295efef0f | -6.6742 | -59.1553 | 2025-08-03 00:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.4 |
-| 5f4d0735-a9c6-3968-a16a-81ee9b117607 | -6.6741 | -59.1746 | 2025-08-03 00:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 59.8 |
-| 52a098c9-a589-331f-bc3e-79e2433563eb | -4.3196 | -48.1125 | 2025-08-03 00:50:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 45.2 |
-| 08886210-7fc4-3fb4-803f-9b96d9daf555 | -12.6789 | -44.4851 | 2025-08-03 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 69.0 |
-| ef4c4202-b0ee-32a5-80c4-bc1a1c27a4dc | -12.6209 | -44.4945 | 2025-08-03 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 61.9 |
-| 42ec8ebf-efd2-34a2-a178-0138dd147535 | -12.6595 | -44.4882 | 2025-08-03 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 163.9 |
-| 9827740d-bfd1-35d4-adc5-2f7c098c1345 | -6.6375 | -59.1181 | 2025-08-03 00:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 85.7 |
-| f05bda6c-48be-3cc3-bd95-dd30992cbc77 | -6.656 | -59.0981 | 2025-08-03 00:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 160.5 |
-| 54158e14-4429-3f72-9c17-84cef6d5e027 | -13.7131 | -41.3646 | 2025-08-03 00:50:00 | GOES-19 | ITUAÇU | BAHIA | Brasil | 2917201 | 29 | 33 | nan | nan | nan | Caatinga | 47.3 |
-| 5be90ca0-62c4-3b3e-bd67-529de8c631d1 | -12.6591 | -44.5117 | 2025-08-03 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 100.9 |
-| 0fb63ad5-17e8-34d1-bdf9-c805c943009b | -15.5513 | -54.2674 | 2025-08-03 00:50:00 | GOES-19 | PRIMAVERA DO LESTE | MATO GROSSO | Brasil | 5107040 | 51 | 33 | nan | nan | nan | Cerrado | 51.9 |
-| bfb6dd6c-6e94-317f-8c4e-4a66857d7a3f | -6.6376 | -59.0988 | 2025-08-03 00:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 80.1 |
-| 3bcec065-0d6e-38de-a7ff-71b74c6964bf | -23.7228 | -51.6495 | 2025-08-03 01:00:00 | GOES-19 | MARUMBI | PARANÁ | Brasil | 4115507 | 41 | 33 | nan | nan | nan | Mata Atlântica | 57.7 |
-| f92afb6c-2393-3028-bbb3-cd07fee74dfe | -4.5684 | -44.2036 | 2025-08-03 01:00:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 118.1 |
-| 23528470-7b9c-373b-9c0f-890c76fd5230 | -18.8407 | -46.4417 | 2025-08-03 01:00:00 | GOES-19 | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | 98.4 |
-| 4bccdea7-2854-3bfa-a84e-e0ffa9410ba4 | -6.6742 | -59.1553 | 2025-08-03 01:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 60.7 |
-| 041c0e1d-f3cd-3e73-ab73-64eb8018bf82 | -6.6559 | -59.1174 | 2025-08-03 01:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 160.7 |
-| 299818b2-c554-3171-908c-d4b2af713c93 | -12.6209 | -44.4945 | 2025-08-03 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.4 |
-| 703f9bd4-0983-3126-8765-08bc62d79510 | -22.029 | -47.5843 | 2025-08-03 01:00:00 | GOES-19 | DESCALVADO | SÃO PAULO | Brasil | 3513702 | 35 | 33 | nan | nan | nan | Cerrado | 220.1 |
-| 211c19e3-3de7-3e06-8822-39455ff15b70 | -12.6591 | -44.5117 | 2025-08-03 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 96.1 |
-| 8a4cd771-9bfb-3fdb-957a-b41a274bce12 | -13.6935 | -41.3685 | 2025-08-03 01:00:00 | GOES-19 | ITUAÇU | BAHIA | Brasil | 2917201 | 29 | 33 | nan | nan | nan | Caatinga | 67.2 |
-| beb55bb3-f9da-3a3d-8510-93807d704d2d | -13.7131 | -41.3646 | 2025-08-03 01:00:00 | GOES-19 | ITUAÇU | BAHIA | Brasil | 2917201 | 29 | 33 | nan | nan | nan | Caatinga | 43.6 |
-| a45bc488-efea-33a0-8306-74f6572d880e | -6.656 | -59.0981 | 2025-08-03 01:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 129.2 |
-| 68705c7e-eb19-3070-bdcb-60a13f3af66e | -12.6402 | -44.4913 | 2025-08-03 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 132.0 |
-| 3d74889a-0af3-3823-9055-c996905d65cd | -6.6376 | -59.0988 | 2025-08-03 01:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| 64528a3b-5682-3948-bbc3-573694cd8b99 | -23.7017 | -51.6543 | 2025-08-03 01:00:00 | GOES-19 | MARUMBI | PARANÁ | Brasil | 4115507 | 41 | 33 | nan | nan | nan | Mata Atlântica | 74.7 |
-| 654e6369-cf02-339e-b9d7-0e8b420af943 | -12.6789 | -44.4851 | 2025-08-03 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 73.1 |
-| 61038bf4-698f-3aa7-8fb6-4fd2afb5b76d | -6.6375 | -59.1181 | 2025-08-03 01:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 73.9 |
-| ecc8ed28-7a9a-3248-9811-c2233ec22287 | -12.6398 | -44.5148 | 2025-08-03 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
-| 04978bf6-87f1-33fa-a3f6-6ed48da79cdc | -6.6741 | -59.1746 | 2025-08-03 01:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 73.3 |
-| b0633551-7c57-3938-a7c9-d154eb94b65e | -12.6595 | -44.4882 | 2025-08-03 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 161.0 |
-| 52e8ddc8-7df7-3830-ae44-e1c35673cbb4 | -22.0297 | -47.5605 | 2025-08-03 01:00:00 | GOES-19 | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Cerrado | 150.5 |
-| 404e88f4-edca-381e-96d9-2cf5a5478949 | -4.574 | -44.223999 | 2025-08-03 01:08:00 | METOP-C | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8ad9e1fe-1791-31d0-aed9-a48ffa242fd0 | -22.0362 | -47.569199 | 2025-08-03 01:08:00 | METOP-C | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| a0735d9d-11f6-3a2d-b5a5-aeb3e317e3bb | -8.045 | -43.138302 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 5bf56502-6b88-3a02-ae11-f9346ccfc109 | -8.0339 | -43.173901 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| a235b1e7-d198-3e49-826a-e4395529ce53 | -22.292601 | -52.119301 | 2025-08-03 01:08:00 | METOP-C | MIRANTE DO PARANAPANEMA | SÃO PAULO | Brasil | 3530201 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f9d29979-490a-37eb-9a95-5c5f00a4af68 | -18.854601 | -46.449799 | 2025-08-03 01:08:00 | METOP-C | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e2e2541b-cc1a-3d08-8276-23eb8d975010 | -8.0083 | -43.115398 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| ca2a1696-fd15-33c5-b89f-29a4e1c80458 | -18.8515 | -46.437599 | 2025-08-03 01:08:00 | METOP-C | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e3a1889d-9c65-3066-8469-bf4c49f32be2 | -4.7818 | -45.340599 | 2025-08-03 01:08:00 | METOP-C | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| af9fb135-5533-36e1-b196-1ec3d9cd83ec | -4.5761 | -44.192001 | 2025-08-03 01:08:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ccedd93e-0908-3d1a-801e-7ade3cfc43e9 | -8.037 | -43.1077 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 9ee04e30-367b-3497-80d5-3660c3201071 | -6.6771 | -59.172901 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 5cbeb2f7-ca48-348b-bacf-2f1dac75353f | -2.9104 | -54.159698 | 2025-08-03 01:08:00 | METOP-C | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 5bb50974-3203-3766-8740-bda052f3d30b | -23.1388 | -49.986599 | 2025-08-03 01:08:00 | METOP-C | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1ead68fd-4407-399c-9b87-670bd442921b | -7.9731 | -45.108501 | 2025-08-03 01:08:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 804f64ad-c195-3af9-aced-31ff0c19099e | -6.6232 | -59.9524 | 2025-08-03 01:08:00 | METOP-C | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 34798dc5-d5cb-3cd5-8f49-50d0493f788b | -21.458599 | -55.106499 | 2025-08-03 01:08:00 | METOP-C | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| fe8d1eff-be37-3bc5-8069-43f4db76e50e | -18.8449 | -46.452499 | 2025-08-03 01:08:00 | METOP-C | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 3a317700-4afb-3e79-9a5c-5794802141b2 | -22.291 | -52.1119 | 2025-08-03 01:08:00 | METOP-C | MIRANTE DO PARANAPANEMA | SÃO PAULO | Brasil | 3530201 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 376e8920-72da-3cfa-8f20-ff821808a4b5 | -4.5644 | -44.226398 | 2025-08-03 01:08:00 | METOP-C | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2c634e61-72c3-3550-a6a1-e62b72ecd63a | -6.6849 | -59.1618 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| dda89cc9-31c4-3b5d-9387-2902a18e8ded | -27.181299 | -53.407398 | 2025-08-03 01:08:00 | METOP-C | VICENTE DUTRA | RIO GRANDE DO SUL | Brasil | 4323101 | 43 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 5bcaec57-c2d3-33d1-a076-87467549723e | -18.841801 | -46.4403 | 2025-08-03 01:08:00 | METOP-C | LAGOA FORMOSA | MINAS GERAIS | Brasil | 3137502 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 00ae4669-734f-3912-ad78-43392d9d3a29 | -6.6732 | -59.154999 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| a503b341-3ef1-3995-b1ff-7061ff1df195 | -4.312 | -48.102699 | 2025-08-03 01:08:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d8f781c2-ffbe-3252-b2e7-b7c38138dbd6 | -24.223 | -51.861301 | 2025-08-03 01:08:00 | METOP-C | JARDIM ALEGRE | PARANÁ | Brasil | 4112504 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| e7e81610-b29b-34c3-b2f3-ecc1a99a3c3c | -9.4027 | -45.505501 | 2025-08-03 01:08:00 | METOP-C | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| cffaa49e-14e9-390f-bfcb-015315f649a7 | -6.6254 | -59.962299 | 2025-08-03 01:08:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| f04fa05d-d969-38dd-b4db-70826072db7e | -9.4638 | -57.838501 | 2025-08-03 01:08:00 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3b43e37d-3425-322d-acc7-604e758ab938 | -6.6496 | -59.094898 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 140926fc-1f68-3634-9571-e498105f27c5 | -24.2327 | -51.858898 | 2025-08-03 01:08:00 | METOP-C | JARDIM ALEGRE | PARANÁ | Brasil | 4112504 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 70d6db0b-2094-3f5f-91ad-aaff7d587976 | -8.0465 | -43.105202 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 6bc250ba-7a9e-3d92-bc3f-0758d1a7808c | -22.038601 | -47.5788 | 2025-08-03 01:08:00 | METOP-C | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 7101a53a-1e4e-3125-abca-1ada90d26c4d | -8.0227 | -43.209202 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 17640475-f01f-389d-8dff-f619c6bccfc5 | -8.0244 | -43.176399 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| a59d417c-3c17-33a6-8bde-03d0f78b2423 | -8.948 | -46.751202 | 2025-08-03 01:08:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 0d79398e-8904-3e6e-b421-a3dbce4e2dc8 | -8.0052 | -43.181499 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 9478dd02-81dc-3c26-9d7e-5b0a640fd8dd | -6.683 | -59.152901 | 2025-08-03 01:08:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 6dfe028e-b60e-3ed0-9758-a443bbd9c29e | -29.1826 | -50.065399 | 2025-08-03 01:08:00 | METOP-C | PRAIA GRANDE | SANTA CATARINA | Brasil | 4213807 | 42 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 21edc6ea-bb2c-3794-b135-9b655a6a8e69 | -8.0274 | -43.110298 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 9cbadb2b-e31a-3255-9518-8bd20cc85252 | -22.3515 | -47.541801 | 2025-08-03 01:08:00 | METOP-C | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 28e22366-1c62-3ab6-a20c-5d9872be0a20 | -21.468399 | -55.104301 | 2025-08-03 01:08:00 | METOP-C | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 6f5be963-1314-35d6-b49b-9675c7f525c3 | -23.717501 | -51.663502 | 2025-08-03 01:08:00 | METOP-C | MARUMBI | PARANÁ | Brasil | 4115507 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4793a955-35f7-3545-a6ec-a6f509197a0d | -7.9972 | -43.1511 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 86198a88-afa4-3f7d-971d-70b2cd7d48b9 | -8.0132 | -43.2118 | 2025-08-03 01:08:00 | METOP-C | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| f758165f-c841-30a6-a678-1ab0ce41cd16 | -8.0259 | -43.143398 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| a90706d4-7a08-3c2c-b8e1-0a9ce2fab9bf | -4.5666 | -44.194401 | 2025-08-03 01:08:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7257ea39-0534-3e5f-ac1e-2a13086ba668 | -27.1705 | -51.212002 | 2025-08-03 01:08:00 | METOP-C | IBIAM | SANTA CATARINA | Brasil | 4206751 | 42 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 941db58d-1223-3520-8b36-44a869367d77 | -18.516399 | -45.667801 | 2025-08-03 01:08:00 | METOP-C | TIROS | MINAS GERAIS | Brasil | 3168903 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| edf1e029-feb6-3d2a-bccd-e209af6e524e | -23.7159 | -51.655998 | 2025-08-03 01:08:00 | METOP-C | MARUMBI | PARANÁ | Brasil | 4115507 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| cd294ff3-5a9e-3438-84b7-05a08a65577e | -8.0163 | -43.146 | 2025-08-03 01:08:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9491f334-00f6-3647-b665-0f78a37ac141 | -6.656 | -59.0981 | 2025-08-04 01:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| 99f2d21a-7d56-3d52-a5a5-ee4f68fd3e37 | -8.0132 | -43.1278 | 2025-08-04 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 59.1 |
+| c2809001-434c-301d-b3a9-46824a71fbd3 | -7.9934 | -43.2005 | 2025-08-04 01:40:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 71.8 |
+| e66fa75b-7383-3715-9611-22d291dcacd3 | -4.7346 | -44.4457 | 2025-08-04 01:40:00 | GOES-19 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| edd3280c-2491-3ceb-a6c0-721c7f17268b | -8.0126 | -43.1749 | 2025-08-04 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 90.9 |
+| a040ebad-3dee-3f0d-a639-0f708e46411e | -6.6144 | -59.9656 | 2025-08-04 01:40:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 45.1 |
+| 92ebbeda-0a39-3061-876a-2467a198fd45 | -6.6329 | -59.9649 | 2025-08-04 01:40:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 64.4 |
+| 5c30eee4-0f09-3235-8a73-c78812873cdd | -8.0123 | -43.1984 | 2025-08-04 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 74.5 |
+| 86f41bc4-c14a-3785-a728-66e7edc90460 | -6.656 | -59.0981 | 2025-08-04 01:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 66.1 |
+| 5fdd8764-db6d-3a5b-8551-f39463742d84 | -7.9934 | -43.2005 | 2025-08-04 01:50:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 62.1 |
+| 96001054-012c-37f6-9333-1f2d313c8852 | -8.0129 | -43.1513 | 2025-08-04 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 112.9 |
+| 4f662c6b-9313-36fc-a055-8b09e0db15e3 | -6.6144 | -59.9656 | 2025-08-04 01:50:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 49.4 |
+| 23211a39-f1a2-33b4-b098-22bc8ecd92c6 | -6.6329 | -59.9649 | 2025-08-04 01:50:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 48.9 |
+| f553d62b-beb4-32b8-bba7-725ce5e3078e | -4.7346 | -44.4457 | 2025-08-04 01:50:00 | GOES-19 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 65.1 |
+| ec92aad5-e8e8-3f2c-8f95-330c869c2384 | -8.0132 | -43.1278 | 2025-08-04 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 62.8 |
+| e0ae6216-e890-3cd2-bbcc-354cb55ceba2 | -21.1418 | -49.0559 | 2025-08-04 01:50:00 | GOES-19 | ELISIÁRIO | SÃO PAULO | Brasil | 3514924 | 35 | 33 | nan | nan | nan | Mata Atlântica | 63.7 |
+| a4425ee0-2567-3186-9ab2-20f19db96949 | -7.994 | -43.1534 | 2025-08-04 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 89.3 |
+| 567a8e98-b68a-35c5-bcc7-bc214c897239 | -21.1624 | -49.0512 | 2025-08-04 01:50:00 | GOES-19 | ELISIÁRIO | SÃO PAULO | Brasil | 3514924 | 35 | 33 | nan | nan | nan | Mata Atlântica | 80.9 |
+| c26a3bd0-fabb-3445-9c7b-bfc647aec255 | -8.0123 | -43.1984 | 2025-08-04 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.6 |
+| 3edf0419-b4f4-3250-adff-fa4da391da74 | -8.0126 | -43.1749 | 2025-08-04 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 79.9 |
+| 642512c1-71fb-30a3-a533-64be6f25ef5e | -6.1465 | -57.9165 | 2025-08-04 01:50:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 40.7 |
+| eb2f1cae-1243-3141-b4b8-f30e7cb3e1f4 | -7.9934 | -43.2005 | 2025-08-04 02:00:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 66.3 |
+| 872c4260-1465-343b-8664-3a8e17ce5c50 | -21.1418 | -49.0559 | 2025-08-04 02:00:00 | GOES-19 | ELISIÁRIO | SÃO PAULO | Brasil | 3514924 | 35 | 33 | nan | nan | nan | Mata Atlântica | 78.9 |
+| f7c3a197-ccb7-3a78-8ff6-7381f7cac752 | -7.994 | -43.1534 | 2025-08-04 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 92.2 |
+| b9282d90-6c80-3115-96ce-55735f943384 | -8.0123 | -43.1984 | 2025-08-04 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 68.1 |
+| 9ea81ff5-c1aa-3ddf-b736-d716754285ab | -8.0129 | -43.1513 | 2025-08-04 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 97.0 |
+| 8a153306-fa9b-39a2-912f-9d01bb3608b4 | -8.0126 | -43.1749 | 2025-08-04 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.9 |
+| 8a170d80-b042-3e14-86ce-9a8cc8ef19c1 | -6.656 | -59.0981 | 2025-08-04 02:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.5 |
+| 932d6521-74fe-3951-85bc-b4c059be45f8 | -6.6144 | -59.9656 | 2025-08-04 02:00:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 49.3 |
+| 4444865b-49c1-310d-8a34-b973b3a6e88b | -6.1465 | -57.9165 | 2025-08-04 02:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 40.5 |
+| 8d338290-2842-398e-9f64-f778154e4715 | -6.6329 | -59.9649 | 2025-08-04 02:00:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| 9ca2f823-dfc7-3d0c-9280-60417eb9c4e1 | -21.1624 | -49.0512 | 2025-08-04 02:00:00 | GOES-19 | ELISIÁRIO | SÃO PAULO | Brasil | 3514924 | 35 | 33 | nan | nan | nan | Mata Atlântica | 103.6 |
+| 0a14a712-b491-339e-9739-f86ac39a6b33 | -8.0132 | -43.1278 | 2025-08-04 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 57.9 |
+| bd54bb78-4bf2-36db-a00e-72efe649329e | -8.0129 | -43.1513 | 2025-08-04 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 125.4 |
+| 1ace6b06-6a83-3cbd-88fe-1331fcb4403b | -8.0123 | -43.1984 | 2025-08-04 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.0 |
+| 958e6caf-c0cf-3fcc-85da-7f7ffc7f60ba | -7.994 | -43.1534 | 2025-08-04 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 113.8 |
+| 02904693-fbd6-3bc3-b646-06a8fffd9149 | -7.9934 | -43.2005 | 2025-08-04 02:10:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 67.6 |
+| ca26c671-1a0a-36c4-ac2f-4cd353b43246 | -6.6329 | -59.9649 | 2025-08-04 02:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 45.8 |
+| 3ec7cf9d-ea0c-37e1-a8d0-63e740c4fe9d | -6.656 | -59.0981 | 2025-08-04 02:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 7a0c9101-d49d-3665-8bc5-3f12b382bb79 | -7.0208 | -59.8346 | 2025-08-04 02:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 26.5 |
+| 48a71330-29c8-3851-9126-3cb2d2c5fe57 | -6.6144 | -59.9656 | 2025-08-04 02:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 45.9 |
+| 37b71580-7a34-30be-8f6e-1acffcd5de32 | -8.0126 | -43.1749 | 2025-08-04 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 69.2 |
+| 839f433f-8a47-365a-a0bd-35d3e4f4c729 | -8.7259 | -46.4009 | 2025-08-04 02:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 47.3 |
+| b93fe266-71cb-339c-873c-19c3cb6d1b95 | -6.1465 | -57.9165 | 2025-08-04 02:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 44.7 |
+| 26adc205-c3d1-395a-b297-0a5d0173cbe4 | -8.0132 | -43.1278 | 2025-08-04 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 72.8 |
+| 10b640ab-bce5-3f3f-84a6-6085153302fd | -6.656 | -59.0981 | 2025-08-04 02:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 59.4 |
+| ea3c92b4-8e72-3e08-a4e5-9eba63e83e5f | -8.7259 | -46.4009 | 2025-08-04 02:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| 45218929-9541-37d0-8633-438d225b30b2 | -7.9943 | -43.1298 | 2025-08-04 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.2 |
+| 64b009ca-6aea-342b-b6f4-c2aba54a1e54 | -7.994 | -43.1534 | 2025-08-04 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 85.3 |
+| 8b7a09a0-1b62-3a01-bb34-1614c6653c50 | -6.6329 | -59.9649 | 2025-08-04 02:20:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 45.3 |
+| f8036f6f-ebf1-348a-a5e8-a6de23133b88 | -8.7448 | -46.3989 | 2025-08-04 02:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 75.3 |
+| d8a04780-b00f-3caf-88c8-1bf52192b8b7 | -8.0132 | -43.1278 | 2025-08-04 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 70.7 |
+| a197f2ce-6a45-3c89-bc06-d05fb53a2439 | -8.0123 | -43.1984 | 2025-08-04 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.1 |
+| df575537-e61d-36f4-b22b-3f8c7cc12c81 | -8.0126 | -43.1749 | 2025-08-04 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.3 |
+| 69cf5513-f152-3a00-bf3a-a6ed554ebe11 | -8.0129 | -43.1513 | 2025-08-04 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 101.6 |
+| da86dd49-0c61-3643-b681-c3fa5cc269d6 | -7.9934 | -43.2005 | 2025-08-04 02:20:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 60.1 |
+| 64ff420c-3648-38bd-a3ed-594850c9dd07 | -6.6144 | -59.9656 | 2025-08-04 02:20:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 45.1 |
+| 9071d6cf-5fe3-3a4a-8cbe-5b0d02677047 | -6.1465 | -57.9165 | 2025-08-04 02:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 45.9 |
+| 82813c21-7343-33dc-9b15-713f471a5331 | -9.98656 | -67.57198 | 2025-08-04 02:24:00 | TERRA_M-M | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 25.5 |
+| 01691636-c5ec-389d-ad11-2b39e21323e0 | -9.9466 | -67.585701 | 2025-08-04 02:29:00 | METOP-C | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | nan |
+| 28aca36a-0341-3b09-8078-c7ad72808249 | -8.012 | -43.2219 | 2025-08-04 02:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 44.7 |
+| a7f1293d-74bc-321b-846f-60c0c65d6925 | -6.6329 | -59.9649 | 2025-08-04 02:30:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 46.6 |
+| 2fb1a71a-f29b-32b0-9bf8-10e217751d93 | -6.1465 | -57.9165 | 2025-08-04 02:30:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 51.5 |
+| 54135953-fb44-3215-a8ca-342b5989e710 | -7.9931 | -43.224 | 2025-08-04 02:30:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 47.4 |
+| e1b082c5-ba69-367c-980f-8701d233ccbc | -7.994 | -43.1534 | 2025-08-04 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 107.0 |
+| a9b614b5-1e9c-38f1-b0cf-429229804b35 | -6.656 | -59.0981 | 2025-08-04 02:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 44.6 |
+| c958b376-b1c9-3cd1-9ce3-9dd334189b34 | -8.0132 | -43.1278 | 2025-08-04 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 72.5 |
+| d5bcb7fa-a499-352f-ae94-8c49656e1bc5 | -8.0123 | -43.1984 | 2025-08-04 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 61.1 |
+| 6436c41a-cef9-31b9-8dca-c7c53ebc8d2c | -8.0126 | -43.1749 | 2025-08-04 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.2 |
+| c157cc90-ce7d-33ca-8a8b-c9ca1f2b141d | -8.0129 | -43.1513 | 2025-08-04 02:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 127.7 |
+| d999e9ae-b71f-3ba2-a5bd-b2b68baa4679 | -6.6329 | -59.9649 | 2025-08-04 02:40:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 42.2 |
+| d455486d-0180-36b3-a5cb-baee681911d6 | -8.0129 | -43.1513 | 2025-08-04 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 86.6 |
+| f2d7d742-f0d7-3646-b719-d4801c758d63 | -6.656 | -59.0981 | 2025-08-04 02:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 30.5 |
+| 7a1368a4-2b6c-36b5-8cd8-f19345b4c124 | -7.994 | -43.1534 | 2025-08-04 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.6 |
+| 115d55a2-fd4b-3ef6-964a-2c0dcf15ac2c | -7.9931 | -43.224 | 2025-08-04 02:40:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 68.0 |
+| a7a070fe-6d99-35b7-a1b1-f9bd81983e16 | -8.0132 | -43.1278 | 2025-08-04 02:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.9 |
+| 3652a0c8-d5aa-3bfd-9e08-c1a932ffedbc | -7.9934 | -43.2005 | 2025-08-04 02:40:00 | GOES-19 | PAVUSSU | PIAUÍ | Brasil | 2207850 | 22 | 33 | nan | nan | nan | Caatinga | 77.6 |
+| be1d40e8-74f5-3cf3-b0e6-3a336bfd85c0 | -6.1465 | -57.9165 | 2025-08-04 02:50:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 43.0 |
+| c6c09087-5579-390f-af50-205b076cf618 | -6.6329 | -59.9649 | 2025-08-04 02:50:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 36.7 |
+| 4d7ab815-ae80-39dd-8ac9-b41219ad60cb | -7.994 | -43.1534 | 2025-08-04 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 88.8 |
+| 0d9b61e9-9df3-3fa3-a644-726726faf6e4 | -8.0129 | -43.1513 | 2025-08-04 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 109.6 |
+| 1d644618-9a14-3921-badb-e38fc9c657b6 | -8.0132 | -43.1278 | 2025-08-04 02:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 63.5 |
+| 8d9b1ad7-d188-3b76-91c2-a6aaf34f1e14 | -6.6329 | -59.9649 | 2025-08-04 03:00:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 43.4 |
+| 67ba84ca-9be9-3b04-b69f-cdf6d5bdd960 | -7.994 | -43.1534 | 2025-08-04 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 97.3 |
+| 2c072245-9ad0-3bdb-b918-02aa2787d322 | -8.0132 | -43.1278 | 2025-08-04 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.7 |
+| 6c8b1af4-5b8c-3ab5-b9e9-e797ceb3b925 | -8.0129 | -43.1513 | 2025-08-04 03:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 98.9 |
+| 0962f96a-1103-38d5-9c3f-1b5f98ed11b0 | -6.656 | -59.0981 | 2025-08-04 03:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 36.8 |
+| 2edca567-e90f-38ed-9558-c9285ec4ea23 | -21.1405 | -49.1022 | 2025-08-04 03:10:00 | GOES-19 | ELISIÁRIO | SÃO PAULO | Brasil | 3514924 | 35 | 33 | nan | nan | nan | Mata Atlântica | 69.6 |
+| 77f35243-afdf-33bf-8c5b-7ee59b05920a | -8.0132 | -43.1278 | 2025-08-04 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 98.9 |
+| 860694fe-abdd-3d42-8b86-24cd2d7d4159 | -6.6329 | -59.9649 | 2025-08-04 03:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 41.5 |
+| 553535fb-2501-34a6-a8ad-f5c895edcacc | -21.1611 | -49.0976 | 2025-08-04 03:10:00 | GOES-19 | ELISIÁRIO | SÃO PAULO | Brasil | 3514924 | 35 | 33 | nan | nan | nan | Mata Atlântica | 96.2 |
+| bf9be1e6-713e-3a8b-a675-b3f20139c522 | -7.994 | -43.1534 | 2025-08-04 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 89.9 |
+| e1f9bd17-c783-3180-9978-fb11276e4caf | -8.0129 | -43.1513 | 2025-08-04 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 123.4 |
+| 85afe1f4-1eec-3a71-aa77-149dda30147a | -4.7346 | -44.4457 | 2025-08-04 03:10:00 | GOES-19 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 80.9 |
+| 20bcbcd3-31a6-37e1-a943-c6ffa59487a3 | -8.04423 | -43.10606 | 2025-08-04 03:15:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.8 |
+| 7b38c28e-29ca-37fd-8774-501201839983 | -8.0359 | -43.11145 | 2025-08-04 03:15:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.8 |
+| bb854581-f65d-3dfb-8fe2-c1cb742500e1 | -8.04852 | -43.1087 | 2025-08-04 03:15:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 9.3 |
+| 69bec4e9-bca9-3ecb-83b3-9818bdd637c4 | -7.98982 | -43.1605 | 2025-08-04 03:15:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| 689b8d94-c190-3673-8bae-841f89ea4b3b | -8.00945 | -43.13485 | 2025-08-04 03:15:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 10.8 |
+| c60a1dfd-6e8b-3d23-84e4-4c9e95e3d94e | -8.014 | -43.18675 | 2025-08-04 03:15:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
