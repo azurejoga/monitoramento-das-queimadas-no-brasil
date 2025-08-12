@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c6cbc511-2207-3b6c-bb8c-7832cc6d6062 | -7.0799 | -59.1964 | 2025-08-11 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 85.9 |
-| bd4edb34-221f-3cf6-84f5-0551bfc7ab33 | -7.0614 | -59.1972 | 2025-08-11 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 89.3 |
-| 5114b503-6d23-3a38-a9aa-19bea33bec49 | -6.5856 | -44.564 | 2025-08-11 03:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| faa85436-e6ac-3986-9ccf-24efb2170bd5 | -5.5013 | -44.3726 | 2025-08-11 03:20:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 77.4 |
-| dfe75087-dc08-3fb8-b3af-b92a285fe73b | -8.9401 | -60.7288 | 2025-08-11 03:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 44.5 |
-| f73e24d7-5995-37a7-980d-f9479a5e97ee | -5.4825 | -44.374 | 2025-08-11 03:20:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 123.2 |
-| 990fce59-1d1c-3562-9a18-f99cf4b1f539 | -7.0613 | -59.2165 | 2025-08-11 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 57.5 |
-| 91622e29-c52a-35f6-bd4c-1dcd2bcf9782 | -5.5011 | -44.3956 | 2025-08-11 03:20:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 112.5 |
-| 5f32dec7-b7a3-3ed1-af32-7a5a621c9974 | -8.9399 | -60.7481 | 2025-08-11 03:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 56.5 |
-| 4ff27577-4d9b-320a-a35d-4911c0dcd463 | -5.4822 | -44.4198 | 2025-08-11 03:30:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 76.8 |
-| 614e1870-4120-306a-a298-c6a364a8c7df | -5.5011 | -44.3956 | 2025-08-11 03:30:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 194.2 |
-| 53b35453-5633-36da-8e15-10539db6dc60 | -5.5013 | -44.3726 | 2025-08-11 03:30:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 110.2 |
-| 5bfac88b-80e0-3912-94fd-d30e265055f1 | -7.0614 | -59.1972 | 2025-08-11 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 82.9 |
-| 3b574140-8fc9-362f-9911-6a288d9c6e95 | -15.4216 | -53.9073 | 2025-08-11 03:30:00 | GOES-19 | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 51.2 |
-| 0dc5e5e0-6ac1-3a7b-aba4-1708d7f204ab | -8.9399 | -60.7481 | 2025-08-11 03:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| c47e3c68-c6f5-3d41-8ddc-812fd00d8979 | -8.9401 | -60.7288 | 2025-08-11 03:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 44.4 |
-| 1966f4aa-f3b8-3ba3-9176-dcce750cdcfc | -5.4824 | -44.3969 | 2025-08-11 03:30:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 342.3 |
-| 86de6f99-b08e-37b0-8798-24367ae82702 | -5.4636 | -44.3982 | 2025-08-11 03:30:00 | GOES-19 | GRAÇA ARANHA | MARANHÃO | Brasil | 2104701 | 21 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| 1a1cc482-f0a9-32f1-b02a-7b2713de38e0 | -7.0799 | -59.1964 | 2025-08-11 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 78.3 |
-| 578d61da-9741-314d-a2b9-9fd09f2228e9 | -7.0613 | -59.2165 | 2025-08-11 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.3 |
-| c8ccb4eb-9b37-3822-a47d-0472724638dd | -6.5856 | -44.564 | 2025-08-11 03:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 71.3 |
-| e36357a7-24d0-3f03-b21f-ef5e045a69ea | -15.4407 | -53.9258 | 2025-08-11 03:30:00 | GOES-19 | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 128.0 |
-| 3ed82a79-a046-3018-83df-224ce0174e7a | -5.4825 | -44.374 | 2025-08-11 03:30:00 | GOES-19 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 174.7 |
-| e8f29c4e-63db-374c-bf96-57f611d4c9ec | -15.4212 | -53.9283 | 2025-08-11 03:30:00 | GOES-19 | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 79.8 |
-| eca646f0-f019-324b-9251-a30a5c0b9107 | -5.47933 | -44.40054 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| c039bd34-7e5e-3c24-aff4-93aca60a6c18 | -6.57206 | -44.57679 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 00b21435-8e09-3bca-bdba-7ab5c605c000 | -7.16902 | -44.27551 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| e7d31030-64dd-38f5-940a-565906e353ca | -6.92821 | -42.96405 | 2025-08-11 03:36:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
-| 89bffd47-695c-386a-b615-f5af1c784843 | -7.1761 | -44.27722 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 153e64c3-7f06-3a7a-9719-412a8bc65358 | -5.48161 | -44.38757 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 175.6 |
-| 8e10c9f7-51bb-38ce-852e-e63ffb0e6c13 | -7.16949 | -44.281 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| a30f18c1-8cb1-36bc-b934-e48738a50634 | -7.62049 | -45.19127 | 2025-08-11 03:36:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 26c69933-348c-399a-9a32-a003168eae67 | -6.65902 | -40.92017 | 2025-08-11 03:36:00 | NOAA-21 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 4c533942-036a-3535-a94d-df109d87f6b3 | -7.36551 | -44.85159 | 2025-08-11 03:36:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| a944c125-65f0-391a-88c5-f0c4f5fa8aad | -5.4801 | -44.39619 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| 6e219f38-a898-357d-8131-51534ff3ff43 | -6.57867 | -44.5633 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 481089c0-49fd-3421-9cd1-73be7c202fd7 | -6.57506 | -44.55972 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| 562d00ea-1a16-32e6-8ec3-f83730f2043d | -7.36803 | -44.85772 | 2025-08-11 03:36:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 784f234f-9a8c-3dc7-b104-364a24182923 | -7.17044 | -42.93852 | 2025-08-11 03:36:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| b97fdb24-24f3-38b0-9ac1-7527b1e4509d | -6.92761 | -42.96748 | 2025-08-11 03:36:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
-| bd72d876-96b5-3e67-a514-becfab831c0d | -6.58022 | -44.55486 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 15.9 |
-| 08fa8ca7-ff90-3272-b9e2-49d24266536d | -7.17028 | -44.27671 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| b5470f2b-d1b1-34f8-baba-32eac87408cc | -6.59191 | -44.55735 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 3eed2ae9-d2cf-33cc-84d2-77ac3a801404 | -5.27607 | -37.67965 | 2025-08-11 03:36:00 | NOAA-21 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 6be3baa6-69da-3ebe-9aeb-85d4a465e273 | -5.49272 | -44.39391 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 95b3dd9c-42a8-3a6f-9bb1-f083d7bb7f55 | -6.58167 | -44.55662 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| 2af5ed91-0157-3a24-926a-af9f6027cb23 | -6.57792 | -44.578 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 4c6af2e4-45cc-3475-a603-c5e2b06f7112 | -7.35961 | -44.85042 | 2025-08-11 03:36:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b08143db-21a9-3901-b86f-fa2e4f497f41 | -5.47857 | -44.40489 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 0986173b-92c3-3ec1-bfa7-d7e46e34cad4 | -7.61626 | -45.19088 | 2025-08-11 03:36:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| d9772c7b-402a-31d1-816a-fda12971374d | -6.14384 | -38.94556 | 2025-08-11 03:36:00 | NOAA-21 | ORÓS | CEARÁ | Brasil | 2309508 | 23 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 9bc48051-d62b-3da7-97d0-89d505c376c2 | -7.36473 | -44.85597 | 2025-08-11 03:36:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 52549646-54ad-3fa8-9694-6999cc914fcc | -7.17102 | -42.93523 | 2025-08-11 03:36:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 8c366418-932d-3416-935a-3ebe905a56fb | -6.58373 | -44.56891 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| 87160969-a634-3289-9be2-df61d5563f2d | -7.16825 | -44.27987 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| ae7b98f3-6309-3052-8f01-6b6de468ef84 | -6.58018 | -44.56516 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| a1ab6ff3-9a1d-3643-aafb-1ed74f52f6e2 | -7.17674 | -42.93355 | 2025-08-11 03:36:00 | NOAA-21 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| a568c245-3b2d-35a2-9a44-f46b1a8161ab | -6.5927 | -44.55302 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 4c330474-841a-3a1f-b8e9-966cd2cd2dc7 | -5.48452 | -44.40582 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b8b49906-eeab-38e1-ba4f-9aa6373c52a8 | -6.58451 | -44.56462 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| 665ecfb8-4a9a-39dd-b0dc-b065cc0de3cf | -7.87591 | -44.96994 | 2025-08-11 03:36:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| ce289a15-daa7-3a10-aecc-bfe2577fe467 | -7.16297 | -44.28425 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 38270945-f593-3cd8-a447-94db5d348009 | -7.87514 | -44.97419 | 2025-08-11 03:36:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| b5c86f38-591c-3b3d-900e-628e158eda3b | -6.5771 | -44.57188 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 16.8 |
-| 278d099b-38f2-315d-b279-11232ae30a54 | -6.57579 | -44.55552 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| b4d0488d-214b-37b9-b650-d71d8aa3ac9f | -7.17108 | -44.27235 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 6bb28d85-fc5d-3d9c-86c4-7aa9209fe202 | -5.48604 | -44.39717 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| 90f110c1-ba9e-38bf-b3b6-873b54b2a1b2 | -6.57867 | -44.57373 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 12d45eb8-4916-3fcf-b65e-0dfa1a50f04b | -7.1637 | -44.28032 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 30b858ac-2395-3cfe-ab94-82bd7261e95e | -6.66399 | -40.92352 | 2025-08-11 03:36:00 | NOAA-21 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 3266a010-33a5-33a3-99ca-6e1d62c1bf36 | -5.48755 | -44.38853 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 175.6 |
-| 3b5d1720-bb79-3673-81a7-5e42d5c69297 | -6.57632 | -44.57615 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 41c2afac-facb-3f1e-9503-67ab15491cdb | -6.5853 | -44.56028 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 16.3 |
-| 5be85265-e103-3482-9668-5fb1f9b35659 | -7.36295 | -44.85217 | 2025-08-11 03:36:00 | NOAA-21 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 0f40a355-0558-3d1b-b137-177a6189be67 | -7.16176 | -44.28316 | 2025-08-11 03:36:00 | NOAA-21 | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 77edfaf7-04a5-349d-9775-0c3f072da778 | -6.57431 | -44.56396 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| 55233065-7848-3a1b-8997-8da6658b5134 | -6.57945 | -44.55907 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 20.7 |
-| 6e00b87c-729b-3c0a-ad0c-a9709ccccbaf | -6.58093 | -44.56087 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| e60b5dc3-a41a-3a8b-9c08-15b0427b0729 | -6.5861 | -44.55591 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 889d53df-e6d2-3d12-82a9-4c56224450d8 | -5.48085 | -44.39188 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 175.6 |
-| 751a552d-b165-35e9-b72d-2e208244de1d | -6.65937 | -40.92272 | 2025-08-11 03:36:00 | NOAA-21 | PIO IX | PIAUÍ | Brasil | 2208205 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| d1d8cc0a-0abf-38d5-b26e-a2560d820938 | -5.48528 | -44.40149 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| 63a6927f-d5c0-3fbc-b0cb-1253727eee49 | -7.17089 | -42.93594 | 2025-08-11 03:36:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 515ccf6c-239c-34e6-8499-242803a1b60a | -6.57942 | -44.56946 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| a6929a9e-c828-3d14-adde-7235d5a2818c | -7.62234 | -45.19166 | 2025-08-11 03:36:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 18380741-4cb0-3d2a-b637-54899c3a2e96 | -6.57356 | -44.56824 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 8f6fb73f-b94a-3367-90db-c09c4e0d1482 | -7.18198 | -42.93446 | 2025-08-11 03:36:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 1d5ecbe7-251c-3de8-92bd-b6a84d9a84fb | -5.4883 | -44.38424 | 2025-08-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| ef31f8e3-bff6-3c90-9eab-c88e280d3486 | -6.57789 | -44.5676 | 2025-08-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 16.8 |
-| 5aa2b5a3-76c7-337c-a6f9-52faf56dd51f | -10.42207 | -46.25293 | 2025-08-11 03:38:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| ebf19813-09f6-37a7-8567-5dfe130b2446 | -9.63192 | -40.58782 | 2025-08-11 03:38:00 | NOAA-21 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 924df234-4cf7-30ea-b0bb-ee285c455a09 | -7.87407 | -44.968 | 2025-08-11 03:38:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 3694fae6-95de-3099-a523-514ccbaa5b57 | -15.09779 | -46.53848 | 2025-08-11 03:38:00 | NOAA-21 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 6f4b6497-103e-3e86-afa4-c97f0b9e6897 | -8.30191 | -44.98709 | 2025-08-11 03:38:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| a0fc13c6-2950-35e3-acbc-9b39a963ae95 | -8.30276 | -44.99086 | 2025-08-11 03:38:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 5e4d51e4-e1c6-35d4-afcf-46f9169b867d | -11.94943 | -43.39217 | 2025-08-11 03:38:00 | NOAA-21 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 379c4e20-128f-380d-9c9d-011ea8bcacab | -9.21019 | -44.52502 | 2025-08-11 03:38:00 | NOAA-21 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2befbc99-884e-3994-8850-6df29a9e2244 | -11.94391 | -43.39419 | 2025-08-11 03:38:00 | NOAA-21 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| c2e220f3-76f5-3a43-a707-10de0968f34d | -14.48418 | -47.07373 | 2025-08-11 03:38:00 | NOAA-21 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 7324cdda-36e3-3398-9462-5b9edf1a4b30 | -13.33864 | -43.37719 | 2025-08-11 03:38:00 | NOAA-21 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| 99c2f0fd-00b2-3a51-8dc4-f1a6f7483a09 | -8.52165 | -43.32521 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| dbf2a7cb-34dd-3f17-926a-5e8e46316d74 | -7.23212 | -41.90778 | 2025-08-12 03:17:00 | NOAA-21 | WALL FERRAZ | PIAUÍ | Brasil | 2211704 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| ab5911e5-0d7d-38ac-b0c4-8a9ca66f59a4 | -9.33153 | -37.9802 | 2025-08-12 03:17:00 | NOAA-21 | ÁGUA BRANCA | ALAGOAS | Brasil | 2700102 | 27 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 32cc42c2-cbaf-30f2-8d79-edef6d84a929 | -7.20888 | -35.5959 | 2025-08-12 03:17:00 | NOAA-21 | INGÁ | PARAÍBA | Brasil | 2506806 | 25 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 46af99ab-5b30-373b-8927-b10b715c5709 | -7.23101 | -41.91362 | 2025-08-12 03:17:00 | NOAA-21 | WALL FERRAZ | PIAUÍ | Brasil | 2211704 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| d9508839-cc73-3aec-bd58-ddd1314b41c3 | -9.331 | -37.98306 | 2025-08-12 03:17:00 | NOAA-21 | ÁGUA BRANCA | ALAGOAS | Brasil | 2700102 | 27 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 5e0ffb2a-7758-332d-a18f-6b61276c98cb | -8.51594 | -43.3171 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 10.9 |
+| a81b27ff-4b27-3404-8746-b6733269938d | -8.52297 | -43.31843 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 30ea449f-5102-3ce3-bc99-65ca54b2559b | -7.30233 | -39.64135 | 2025-08-12 03:17:00 | NOAA-21 | SANTANA DO CARIRI | CEARÁ | Brasil | 2312106 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 786b463c-47fa-3f9e-96d0-1cd0958e3820 | -9.33115 | -37.98163 | 2025-08-12 03:17:00 | NOAA-21 | ÁGUA BRANCA | ALAGOAS | Brasil | 2700102 | 27 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 68ee83fc-b219-3d23-bea8-945e72e36c53 | -7.2336 | -41.91295 | 2025-08-12 03:17:00 | NOAA-21 | WALL FERRAZ | PIAUÍ | Brasil | 2211704 | 22 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| 51c41eef-d4ad-3ecc-a91a-bce7c7e869e9 | -9.33064 | -37.9845 | 2025-08-12 03:17:00 | NOAA-21 | ÁGUA BRANCA | ALAGOAS | Brasil | 2700102 | 27 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 65f5741a-5184-354f-a359-c784d8b63b56 | -8.51892 | -43.32581 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| 71a98e51-fd1c-308e-863d-1140a76ec88a | -7.30234 | -39.64486 | 2025-08-12 03:17:00 | NOAA-21 | SANTANA DO CARIRI | CEARÁ | Brasil | 2312106 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| d1972227-d4d0-3d5d-b6f7-98af6ea6a86c | -8.51726 | -43.3103 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| 610f251b-800a-365c-a6ff-501813b35f39 | -8.52429 | -43.31163 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 5e8cb3ef-77fd-3e66-859e-76321279a83c | -8.52165 | -43.31228 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 18.0 |
+| c54bf6e2-7f7b-35e0-8fe8-6c4adc28745d | -8.52029 | -43.31905 | 2025-08-12 03:17:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 18.0 |
+| 9e69da1d-5526-3fd2-8574-62e951f9d779 | -17.57263 | -45.32927 | 2025-08-12 03:19:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| e656d9eb-f94b-368a-a3c3-f2f1cd30c6c4 | -17.9635 | -44.29701 | 2025-08-12 03:19:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 7328ca1d-7643-3bfe-b569-089b8ef898d9 | -17.56598 | -45.32739 | 2025-08-12 03:19:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| b5f11e38-b256-308f-8b0a-3762642a74a4 | -17.56454 | -45.33366 | 2025-08-12 03:19:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 2b444b3e-2963-33d2-b492-8b858b35cfb0 | -17.57124 | -45.33535 | 2025-08-12 03:19:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 16597877-05f9-360e-9a9c-927eca9e8c89 | -16.00742 | -43.2761 | 2025-08-12 03:19:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 4d05cd1d-e737-32e5-be1e-10535a86b621 | -12.04456 | -40.29503 | 2025-08-12 03:19:00 | NOAA-21 | MACAJUBA | BAHIA | Brasil | 2919603 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 8fc1419c-da60-3212-82b0-fdc1f464b5bf | -17.56751 | -45.32895 | 2025-08-12 03:19:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 17.1 |
+| 575d4382-8818-33f6-8a93-71181a867b8b | -13.96358 | -42.58424 | 2025-08-12 03:19:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| 246b95ae-8a03-3e5f-9460-71d771c1a451 | -17.56604 | -45.33516 | 2025-08-12 03:19:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| cdddb38b-1be7-3419-a0d0-4ecdeba32b2a | -12.9972 | -44.89373 | 2025-08-12 03:19:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 0fafa0c4-f8f1-324f-bc94-4dcfa5e5871d | -17.96217 | -44.30283 | 2025-08-12 03:19:00 | NOAA-21 | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 09d5be67-db83-397f-99da-234cbb9cc475 | -12.99879 | -44.88641 | 2025-08-12 03:19:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c64ed992-39f1-36a0-b958-7a7446daf8ba | -12.98463 | -44.88305 | 2025-08-12 03:19:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 22eb8700-043d-3fbd-bca8-490d563fe5f7 | -12.5738 | -47.0232 | 2025-08-12 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 126.6 |
+| fb1e1c52-a691-3e60-a49e-bb408d33615c | -16.2957 | -52.923 | 2025-08-12 03:20:00 | GOES-19 | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| 046cece5-9ddd-3bc2-a85f-6eb726e7d637 | -8.9401 | -60.7288 | 2025-08-12 03:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 54.4 |
+| ebf18729-24da-39e4-96a8-c2e55c2d3792 | -7.1299 | -60.1182 | 2025-08-12 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| 6259a31f-4ee3-303e-b7fc-7a543c1f1c38 | -12.555 | -47.0034 | 2025-08-12 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 205.9 |
+| 26d28a60-c90d-3e15-8b00-28375bba9c86 | -12.5546 | -47.026 | 2025-08-12 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| e16b9dc2-11a1-354a-8754-5486f417d690 | -7.1482 | -60.1366 | 2025-08-12 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| 840bbcc2-4061-3ecd-a82b-e4aed5c537e3 | -9.7041 | -49.4825 | 2025-08-12 03:20:00 | GOES-19 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 31.0 |
+| 493419b9-2ea3-3950-bcb9-53c7199b61b3 | -17.6349 | -46.6799 | 2025-08-12 03:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 135.1 |
+| 9c0ef8f5-0710-3c1f-a4f4-4c5db8e7bc35 | -9.723 | -49.4806 | 2025-08-12 03:20:00 | GOES-19 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 41.3 |
+| 905bc138-2b01-30e2-85e6-c3c5b0ae36d0 | -17.6544 | -46.699 | 2025-08-12 03:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 182.9 |
+| 084d05c4-741f-3af1-b1be-49c4adfa28da | -8.5211 | -43.3063 | 2025-08-12 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 55.1 |
+| 08aeb51e-ecfc-3ed5-b5af-e4222d9f1ad2 | -17.6549 | -46.6757 | 2025-08-12 03:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 660.8 |
+| 2a9eb424-8248-3448-a095-112d047be617 | -17.6749 | -46.6715 | 2025-08-12 03:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 198.6 |
+| e080a711-4867-3f22-8059-c228d4ef20f0 | -17.6555 | -46.6523 | 2025-08-12 03:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 116.1 |
+| 3fe0f984-bac3-30ec-9e70-e3e2262ed989 | -17.6743 | -46.6948 | 2025-08-12 03:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 1ae60b2e-1935-3f99-8c4c-35be57c6a8ae | -12.5746 | -46.9781 | 2025-08-12 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 86.4 |
+| 4ca47f6e-7c35-3d23-ad27-090156759537 | -6.5856 | -44.564 | 2025-08-12 03:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 81.8 |
+| 0adfd037-f6f0-31e8-b0c6-fd0e4cb4ef9e | -12.5742 | -47.0006 | 2025-08-12 03:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 348.1 |
+| 8d579e37-8e6f-3b8e-a135-d57de966046e | -16.2961 | -52.9016 | 2025-08-12 03:20:00 | GOES-19 | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| 459e1f0d-e083-3159-b24e-1f443db46d79 | -7.1483 | -60.1174 | 2025-08-12 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 69.2 |
+| ce48da69-c42e-3bec-8bbb-1554e244c6a2 | -7.1298 | -60.1374 | 2025-08-12 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 46.2 |
+| cbe70d7f-6dcd-3919-bca7-ef7afb2b16cc | -21.24469 | -46.71934 | 2025-08-12 03:21:00 | NOAA-21 | GUARANÉSIA | MINAS GERAIS | Brasil | 3128303 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
+| a544f6d8-7956-3314-8f7a-2168589bb7c2 | -23.07999 | -46.98479 | 2025-08-12 03:21:00 | NOAA-21 | VINHEDO | SÃO PAULO | Brasil | 3556701 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| 7671fef1-0889-33e7-b93c-bdf65fb339f5 | -21.2435 | -46.71875 | 2025-08-12 03:21:00 | NOAA-21 | GUARANÉSIA | MINAS GERAIS | Brasil | 3128303 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| d33f4811-ea8a-360e-88e2-e0851d314b5d | -21.27023 | -45.26594 | 2025-08-12 03:21:00 | NOAA-21 | NEPOMUCENO | MINAS GERAIS | Brasil | 3144607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| d73aa461-6ead-3eda-b73f-02184c13d6fe | -19.71828 | -46.22802 | 2025-08-12 03:21:00 | NOAA-21 | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 7bb3cfb0-89f5-3ba1-ae34-d9932fc7266d | -22.71588 | -43.23849 | 2025-08-12 03:21:00 | NOAA-21 | DUQUE DE CAXIAS | RIO DE JANEIRO | Brasil | 3301702 | 33 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 8c489105-6d66-385e-915e-982479e7c210 | -20.42881 | -46.49279 | 2025-08-12 03:21:00 | NOAA-21 | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 90e2763f-b2f4-3759-b6e2-76f9b55e503c | -19.33547 | -44.4213 | 2025-08-12 03:21:00 | NOAA-21 | CAETANÓPOLIS | MINAS GERAIS | Brasil | 3109907 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| f23c8b02-40f0-3a34-a5e1-1823f309be85 | -23.0815 | -46.97871 | 2025-08-12 03:21:00 | NOAA-21 | LOUVEIRA | SÃO PAULO | Brasil | 3527306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
+| e90f4cf5-da24-3ef3-8e94-00a3f0d3b0c8 | -21.99297 | -44.88136 | 2025-08-12 03:21:00 | NOAA-21 | BAEPENDI | MINAS GERAIS | Brasil | 3104908 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| e0d1f09a-08fa-3d09-81ea-8f869d8b8d9d | -23.07714 | -46.9818 | 2025-08-12 03:21:00 | NOAA-21 | VINHEDO | SÃO PAULO | Brasil | 3556701 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 7b204513-d7d8-329f-9bb7-0a8c5ace576b | -9.723 | -49.4806 | 2025-08-12 03:30:00 | GOES-19 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 37.5 |
+| 4de35662-85d9-38c4-9c9b-b5daa11c0600 | -12.555 | -47.0034 | 2025-08-12 03:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 115.8 |
+| d15f75f3-95d4-3449-9ab6-027e4e8663f9 | -6.5856 | -44.564 | 2025-08-12 03:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 88.3 |
+| 3128babe-83cb-35c1-8dd6-592a75ae1ec2 | -8.9401 | -60.7288 | 2025-08-12 03:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 53.2 |
+| dacf462d-31a8-3ea5-8e50-e17c54d35e36 | -7.1483 | -60.1174 | 2025-08-12 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 64.7 |
+| 06490972-205c-39cf-9b5e-3c18be7abb29 | -8.5788 | -54.7162 | 2025-08-12 03:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 46.3 |
+| c8a61877-2fbb-3748-8e3b-eb1f3f3cb609 | -7.1298 | -60.1374 | 2025-08-12 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 41.6 |
+| 07fafd6f-9792-39ec-98f2-be03b0dee387 | -8.5211 | -43.3063 | 2025-08-12 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| e0a3c364-705a-388e-a38f-c400b329553d | -6.5858 | -44.541 | 2025-08-12 03:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 46.5 |
+| 61e4dc67-da69-37c6-a94f-69ed7d4bcd69 | -12.5742 | -47.0006 | 2025-08-12 03:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 154.5 |
+| 28a99107-c5fc-3823-b84f-e60f46c8d756 | -16.2957 | -52.923 | 2025-08-12 03:30:00 | GOES-19 | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 66.7 |
+| 733ac483-5fd5-3ee8-ad2d-5706f7b51706 | -7.1299 | -60.1182 | 2025-08-12 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 61.2 |
+| 991f07a1-d303-3f85-9fd6-608aca28fad0 | -12.5746 | -46.9781 | 2025-08-12 03:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 90.0 |
+| d875e94d-e283-3349-ae69-bb4bbab9a5e0 | -7.1482 | -60.1366 | 2025-08-12 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 41.8 |
+| d16cdc8d-1aab-34f1-adf8-2d1d0b031dfe | -16.2961 | -52.9016 | 2025-08-12 03:30:00 | GOES-19 | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 79.2 |
+| 2f89eb6e-4a17-3966-a86e-67d739c15724 | -7.1483 | -60.1174 | 2025-08-12 03:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.3 |
+| 4d0b1936-72ea-3ea9-ab59-c81298ca1a9a | -7.1298 | -60.1374 | 2025-08-12 03:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 44.4 |
+| d246b7fb-c7f3-394a-97bf-ec2e3e3f788d | -16.2957 | -52.923 | 2025-08-12 03:40:00 | GOES-19 | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 66.6 |
+| 507b0b88-8223-3102-9973-a6fc2ac1dc12 | -23.0038 | -49.0309 | 2025-08-12 03:40:00 | GOES-19 | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| 678270ba-9927-3ab6-af80-fefd2b8fd1ad | -9.723 | -49.4806 | 2025-08-12 03:40:00 | GOES-19 | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 29.6 |
+| ff57413f-60a5-3d33-8d89-4df93b53ab83 | -16.2961 | -52.9016 | 2025-08-12 03:40:00 | GOES-19 | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 75.9 |
+| e057ab6f-33e8-35df-a15f-61c78048eaf5 | -6.5856 | -44.564 | 2025-08-12 03:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 58.3 |
+| 8df8e04e-3f22-3b47-9f50-30519ad973c1 | -3.9684 | -47.8901 | 2025-08-12 03:40:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 78.3 |
+| 5f5ad4ac-61cd-33ba-84d7-8f1b3282dcbd | -7.1299 | -60.1182 | 2025-08-12 03:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.3 |
+| c0047945-1b68-3834-b02c-2c5c9e02974b | -8.9401 | -60.7288 | 2025-08-12 03:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 57.5 |
+| 249e3c36-58d7-3245-926d-a4b8b010ecc1 | -22.9828 | -49.0361 | 2025-08-12 03:40:00 | GOES-19 | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 142.9 |
+| 7a335a7d-45fe-3129-85b3-2d87ec30fe2f | -12.5742 | -47.0006 | 2025-08-12 03:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 114.7 |
+| e39d34ae-59f1-3d55-ac5a-a686cd44dd95 | -7.1482 | -60.1366 | 2025-08-12 03:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 42.7 |
+| 5bf3bdfe-9ff5-3907-bf49-3d010e2008fb | -22.9835 | -49.0126 | 2025-08-12 03:40:00 | GOES-19 | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 62.4 |
+| c419c4c7-2355-392d-b8d4-080713b8a813 | -8.5211 | -43.3063 | 2025-08-12 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 45.2 |
+| 2acd255c-ba8a-337c-80c0-bf383f752997 | -12.555 | -47.0034 | 2025-08-12 03:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 85.9 |
+| 044c3143-48df-3b3e-8d36-35a4e66f8561 | -3.0707 | -40.81714 | 2025-08-12 03:42:00 | NPP-375D | GRANJA | CEARÁ | Brasil | 2304707 | 23 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 7d88bb47-d0ef-3aca-85e6-51b608814c3a | -3.05979 | -39.89508 | 2025-08-12 03:42:00 | NPP-375D | ITAREMA | CEARÁ | Brasil | 2306553 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 5fd797c5-5827-3165-95a9-735f264a2c60 | -6.58045 | -44.56335 | 2025-08-12 03:45:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| c4e33c8e-444e-3861-8555-4722d80f1e5f | -6.57982 | -44.56688 | 2025-08-12 03:45:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README8.md)
