@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8ec98e0b-5bad-3a1c-bcb5-23a271fcec66 | -11.69209 | -51.58962 | 2025-08-12 05:25:00 | NPP-375D | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7a045d31-9c65-36ce-872b-aea636e9eaff | -11.72913 | -50.10729 | 2025-08-12 05:25:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| b650f216-edd8-323e-9aa1-a49196b59f89 | -7.14093 | -60.12035 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| d2a07847-6f2b-302d-8f36-e745ebe793e0 | -9.03421 | -59.76295 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 808c348f-fee5-3465-94dd-373d18c3491e | -7.12979 | -60.13256 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 715e6203-e230-312c-a9bb-7af19420a5bc | -9.88575 | -55.39595 | 2025-08-12 05:25:00 | NPP-375D | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 270611cb-b048-3422-abda-d75c3283beec | -7.06859 | -59.18554 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| ec36a688-8f0b-3a5e-86cd-7e7135342b30 | -6.96746 | -59.28029 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 605cb291-46cd-30dd-9b67-c98035b79499 | -9.93258 | -60.48003 | 2025-08-12 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1ea42a0e-aa89-36aa-85c6-c7989e1225df | -9.18661 | -59.66079 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| eb588696-6f09-3497-af4e-5d3c0c7fab41 | -8.93014 | -60.72853 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 28918cf8-3cab-3150-9ec7-3b9dd4927256 | -8.9252 | -60.75996 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| dd9a7027-6876-3e3d-80b5-3e334dbe98b4 | -9.37458 | -61.53388 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ca2538c9-30ea-3a35-8a83-da088808bfcf | -7.25602 | -59.99529 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b64f4b91-270e-3030-b7e2-27bc790ae6af | -9.37569 | -61.52687 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b9967b31-989c-3452-84ce-d01144609146 | -8.56912 | -54.69233 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 55b4b231-4eb6-354d-b49b-863d50aa3ab5 | -10.75675 | -48.78516 | 2025-08-12 05:25:00 | NPP-375D | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 20e176e1-4cfb-3515-bcc1-0bb4a5427fce | -7.13864 | -60.11965 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 1e6928ee-209e-3773-8379-82f644446c81 | -9.26333 | -60.78114 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 56eb6dfd-2248-3b1b-8b70-a54ba7eab69c | -9.47086 | -57.83975 | 2025-08-12 05:25:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 4e5c8796-c6ee-3498-8bea-cb73718e1661 | -8.56474 | -54.69169 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 01b4af81-24cc-30a5-ad22-1c41edfff585 | -8.56535 | -54.68743 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5aa4e48e-a05c-3420-ab02-c382d0823e77 | -7.06634 | -59.19997 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| cd9a1168-8fda-37fc-a734-47ad9fa8c4c2 | -9.1804 | -59.65607 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9085144e-f3ab-352b-af7e-0652176c0e4f | -9.20015 | -59.66286 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 808c8481-e074-3e04-85f3-e559424e0810 | -3.43556 | -49.04505 | 2025-08-12 05:25:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 818b6983-8fa1-33b2-a6a3-27d501d08693 | -9.37402 | -61.53738 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 260f1630-03e2-30cb-ac90-021ab2c01441 | -11.7314 | -50.10934 | 2025-08-12 05:25:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c417e251-9e09-3361-8030-a61d2a9a7283 | -9.93482 | -60.48763 | 2025-08-12 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b586d506-e334-32eb-abd1-3f8b73c35f3b | -9.68453 | -63.5984 | 2025-08-12 05:25:00 | NPP-375D | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 533602db-4b39-3870-afa6-5212ce2b4d0f | -9.38567 | -61.52847 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 855df28d-3ba9-3e62-9898-ce1b5701c9eb | -9.37625 | -61.52336 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2dbf385e-42de-3737-89ac-0006fe48a422 | -10.04644 | -64.89777 | 2025-08-12 05:25:00 | NPP-375D | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| af334363-8929-3dbb-8e61-affaa0cf8ad7 | -8.93624 | -60.73308 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 1678b41e-3bca-339a-9d01-a9383a12d2b7 | -6.97646 | -59.28905 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 55a0479e-5285-39d5-ba92-e6f02c7e897a | -10.74315 | -58.01472 | 2025-08-12 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 03410d89-3418-3975-a6f9-2cb7fa927954 | -7.25548 | -59.99879 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f9919cf1-7a36-3baa-9cb3-70d7c5f1179a | -7.07041 | -59.2001 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7d9b2dc7-ee50-38f6-9a04-5a0b2b57fc4d | -9.38899 | -61.52901 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 14.0 |
-| cde9d5d0-d770-3de5-ac93-a5d40aca3462 | -8.93682 | -60.75106 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e751c4fe-a4c9-3e01-a19f-92875f16ad9d | -7.08449 | -59.19855 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 62deb0e4-9b14-3d49-85f0-83d2399e80e3 | -7.1393 | -60.13081 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| 68b33dd8-5fd6-3bd5-b73b-31d3450c524b | -10.00776 | -59.21524 | 2025-08-12 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9ac8a822-34a0-3be2-8da7-6dcd306f22a8 | -6.10833 | -59.93281 | 2025-08-12 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| d50952f3-cf6a-3ff0-ad69-2fbc717f479d | -13.90282 | -51.83339 | 2025-08-12 05:25:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 1bb7f1ab-fd7a-3bec-b48c-b578c40b847a | -8.93295 | -60.75403 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 85f0ea7b-d1fd-33ed-9361-e96383c4d6f4 | -11.72857 | -50.11219 | 2025-08-12 05:25:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| ed4ccb93-5d29-37b3-8a51-a8a67718b951 | -10.35693 | -50.82077 | 2025-08-12 05:25:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 1d5080e5-4efd-35d4-b2db-cd53963b42cd | -8.92853 | -60.76044 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 668a0f98-efab-3ab0-8e76-1fa47c8f8964 | -10.6268 | -65.00795 | 2025-08-12 05:25:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 071aa2f1-3296-35e2-a3d6-4a808e884890 | -11.6907 | -51.60119 | 2025-08-12 05:25:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 57302ef6-cf1b-31e7-96ed-d775a06f5cc8 | -13.06906 | -56.84498 | 2025-08-12 05:25:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| bab42838-cd57-3b53-9a7c-5b871daa05a0 | -13.34876 | -50.25287 | 2025-08-12 05:25:00 | NPP-375D | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| 92ead4e5-98ad-3d7f-afd0-6fbdefff62a6 | -9.37236 | -61.52633 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 251470d0-6197-3997-ad55-f40f00af99e9 | -9.47082 | -65.6029 | 2025-08-12 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f7cb1498-6e62-354e-afe7-b985bf861b8f | -8.93241 | -60.75748 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 5b662a9d-7b4d-3144-976b-7f92d654c752 | -13.35506 | -50.25355 | 2025-08-12 05:25:00 | NPP-375D | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 217244fe-e087-3a43-9210-bf1feca59efc | -11.67759 | -50.13734 | 2025-08-12 05:25:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9065c2ed-324a-3bf0-90bc-1c8f6abac759 | -9.5383 | -66.1407 | 2025-08-12 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 5f8c2e31-8d39-3946-ab83-b8c38a109014 | -2.58784 | -51.92133 | 2025-08-12 05:25:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 26859ab3-40db-359f-ad00-734848ad6913 | -10.97372 | -49.57296 | 2025-08-12 05:25:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 58cdaeb1-45a0-39ae-99b7-7261826c65a1 | -13.343 | -50.24734 | 2025-08-12 05:25:00 | NPP-375D | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 12.8 |
-| bc8a5ff2-d420-3c82-8714-6bb9fa14bf4a | -11.68924 | -51.5904 | 2025-08-12 05:25:00 | NPP-375D | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 44815b36-34a2-34da-bbd8-befb599d0a5f | -8.55902 | -54.66903 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 43c7bd84-b1d9-345c-8cc2-803a6f742043 | -8.72404 | -63.13972 | 2025-08-12 05:25:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 19f301d5-ec76-398c-90db-1254194e19a3 | -10.35747 | -50.81652 | 2025-08-12 05:25:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| bb5eb9c3-0cbb-35e7-a30c-36e394548421 | -9.19338 | -59.66182 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| acc384ee-dae3-3d2f-b9a0-9cf35c30643e | -7.14262 | -60.13134 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| aaace67d-c0f3-3547-9aad-bafa12fd735f | -10.97432 | -49.5678 | 2025-08-12 05:25:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 18661112-de98-3d1c-8b6b-dfc0bc3e0853 | -7.07662 | -59.20473 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 63efe2a6-9b63-3387-9723-5728f78a2b88 | -7.13644 | -60.13361 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 7de6532a-b1fb-3fe2-855d-eab6ec7ceede | -3.83645 | -47.75027 | 2025-08-12 05:25:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 227497de-0dd5-3e23-80a1-09adec331107 | -10.62234 | -65.01176 | 2025-08-12 05:25:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 92b95a20-99e7-3581-9922-eac694941b98 | -8.5673 | -54.70507 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 37fcfba2-bcfb-3477-9eea-2b7c4f9799af | -7.07607 | -59.20833 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 3a8ad209-79a8-329f-b011-c0e6c90f1822 | -3.42895 | -49.04852 | 2025-08-12 05:25:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| f91ab16f-0691-35ec-8efe-d14388def20b | -3.43623 | -49.04065 | 2025-08-12 05:25:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| b915c86a-4e9e-3f4f-a681-2cc68e6bbe42 | -10.31622 | -54.15564 | 2025-08-12 05:25:00 | NPP-375D | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| cc080adf-74c1-3218-ab99-52c11f336ecb | -7.07773 | -59.19752 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c5dc9da0-7afc-33e5-b02a-afb1b0afa9de | -10.35005 | -50.8282 | 2025-08-12 05:25:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 94c0b45f-45ab-3bd9-b2fa-cc457cf224d0 | -6.9602 | -60.13089 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3b3b27d3-a019-39de-a26a-ae77f4571392 | -8.93237 | -60.73604 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 21d5c990-4c3f-34c7-ba21-03b0890fc89e | -8.57545 | -54.71056 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 3401f854-5d5a-3c5b-a4d9-f21ca7a2e1b9 | -7.25214 | -59.99825 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| bbeea846-9b2b-3f65-bc6d-696fb0c36ed7 | -10.6305 | -65.00858 | 2025-08-12 05:25:00 | NPP-375D | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f8cd613f-c4c2-3ef9-a134-69bfadef56cd | -7.48178 | -68.33719 | 2025-08-12 05:25:00 | NPP-375D | PAUINI | AMAZONAS | Brasil | 1303502 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2c4bbb23-98d0-36ce-829d-a8dcd5fa262d | -9.03537 | -59.7636 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| c4a3875f-67a1-3ab6-b0fc-6effa7b5bbe2 | -8.90849 | -60.5452 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 36a52f06-3a4d-323a-bc73-399ae3c87335 | -7.81962 | -61.32741 | 2025-08-12 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 78c63654-f065-3d57-bf49-434c59fda104 | -7.13144 | -60.1221 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| cf2190c2-3c5e-320f-8d23-b3f39514933c | -8.93569 | -60.73657 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| e1057686-70c4-33d5-98b4-fc59104e40ff | -9.18267 | -59.66389 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bc9c1cba-e307-31dc-957a-5618189d23b6 | -8.91747 | -60.76584 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 6f13f6d0-137b-37f9-af88-2c2703e23937 | -9.38067 | -61.53845 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 457b0570-3a37-3591-8dbd-12ccd1d8189e | -10.34371 | -50.83145 | 2025-08-12 05:25:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ab201e13-1965-3540-bc1d-b51f58b7079c | -10.75975 | -48.78458 | 2025-08-12 05:25:00 | NPP-375D | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 4ba0ad99-045b-35e2-be33-31779a21f37e | -6.96353 | -60.13141 | 2025-08-12 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 440f329c-2937-30b7-a50a-8d0105d78226 | -8.56608 | -54.71358 | 2025-08-12 05:25:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 60939319-d087-3d95-9b70-f9b18e8943de | -10.35057 | -50.82412 | 2025-08-12 05:25:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 674ea205-d3b0-3fe7-b549-1260a06a057a | -9.19676 | -59.66234 | 2025-08-12 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| ff7cd867-8980-3c2e-93fd-43a1225d4dc0 | -6.09055 | -59.92662 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8ecae2fd-3d7b-35b2-bda7-72ccba3418d0 | -7.06834 | -59.20204 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 5f73f07e-d3d1-392e-b697-a15bd4fdcb1d | -6.89444 | -59.14696 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 41.3 |
+| efd83f47-6d0a-3d1f-8696-a9671ccf1e03 | -2.90994 | -48.25383 | 2025-08-13 05:27:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 15.5 |
+| 258de9ac-29b6-36c4-a909-45ede38b7240 | -6.90906 | -59.1235 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 04cf9583-ed2e-33fa-8dab-4bd1862abd32 | -7.07778 | -59.19736 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 925b8512-04bd-34f7-b150-326de6ad101d | -6.96805 | -59.28031 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 97d4cbd8-77e6-345b-92f1-2b5aa11d2342 | -7.14324 | -60.12439 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| cc524dc1-58ca-3157-9067-42873edd3190 | -7.06508 | -59.2083 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| facc4654-1106-30f2-b80e-2627e8bf7315 | -6.90781 | -59.13184 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| b7bd60e5-fc80-3e69-a5d4-3ba48b2c08f5 | -6.88909 | -59.13329 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 19.4 |
+| 024482d0-f9df-3135-87b5-31df6b81af60 | -7.13977 | -60.12387 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 0e2b8daa-8875-38e2-af35-840bd3b4c7db | -7.25767 | -57.63741 | 2025-08-13 05:27:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 75849a42-4f51-3cf5-98f0-a7fbb24f07c1 | -6.10554 | -59.92119 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 5f17b921-4d52-33c4-987f-bba771063738 | -6.89083 | -59.14641 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 39.8 |
+| 34406e6d-75ea-3c51-ac3d-8e1f537b0c10 | -2.91029 | -48.25262 | 2025-08-13 05:27:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| eabd21da-ec66-32a3-98af-f8bf42bc272c | -6.07257 | -59.93595 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 76c66949-88af-31af-9acd-ff40033f355b | -6.87761 | -59.13585 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 292be5b1-0fa5-30cd-89d0-7b5f4286bd7c | -7.06345 | -59.20982 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 20df520f-0046-37e7-acbc-bbe6d65715f1 | -6.88485 | -59.13693 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| d2aa884f-6b33-3e75-9992-d000360ec484 | -6.974 | -59.28969 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b976a96f-9710-3aab-9784-faaa66c9aacc | -6.89507 | -59.14275 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 41.3 |
+| 0e12fcb8-f61c-3506-9574-13e48bede68e | -6.08997 | -59.93042 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 4cbd6b6f-51aa-3553-8102-425710aebbdf | -6.89757 | -59.12605 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| a03777e5-b65c-3070-98ab-330a87f50338 | -6.89271 | -59.13383 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 19.4 |
+| 8974876b-485e-32c8-bf61-dbd98b47ccef | -6.89633 | -59.13437 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 18.8 |
+| 9d6b2a80-3301-3bb1-a2ed-488a992b5dba | -7.09485 | -60.02279 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 49161c09-bdfa-3314-b22a-636593c8ade7 | -6.91177 | -59.63239 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 922c385b-2137-3818-b47f-846db5746c3d | -7.09715 | -60.03105 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| f2499680-c593-3c74-86d3-839d14b8a4cc | -6.09106 | -59.93091 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f8f816db-6737-34da-9049-04af8f25041d | -6.88609 | -59.12855 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| f54a4818-095c-30f6-a1c9-10229815be41 | -6.88359 | -59.14533 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| 06281f37-7304-3f1f-b8e2-cb494cfc7ccb | -7.09079 | -60.02608 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| b6b39223-2b55-3572-b7f9-030867c65c1a | -6.90231 | -59.14384 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.0 |
+| 1a333b75-f54b-365f-8790-c621a2b514f4 | -6.69403 | -59.13651 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 23a4cafd-a803-377b-abd1-a8b62a600f4c | -6.91142 | -59.1324 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 11.8 |
+| 60c27198-762c-36f7-abc0-c8ef0ae4985e | -7.09833 | -60.02331 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| d1cfdb6c-b5f3-3d20-972b-4e05eda1f65a | -6.07198 | -59.93975 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| eb718f72-5355-3995-87ae-e824fe454dc7 | -6.88422 | -59.14112 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| d4ddd00d-5fe2-3ecb-bb58-dd1b50da3a52 | -6.09047 | -59.9347 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c70fbabe-3ae4-325a-a952-0b093649c91b | -6.89333 | -59.12966 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 11.0 |
+| 0604f7c4-0633-3b34-9037-1187ea954985 | -6.6934 | -59.14066 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 91a8084f-04c9-348c-92ee-ec9cfe8679f9 | -6.97462 | -59.28555 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 1577d6aa-6700-3a15-8864-7f4c576713ed | -7.06472 | -59.20151 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| fb02b67e-e62d-340f-a6ce-04708f18d3b0 | -6.87823 | -59.13165 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 0ac5bb22-cd43-344c-8b84-9143d09ab5bc | -6.88721 | -59.14586 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 39.8 |
+| 314b965e-eb2f-3929-9718-a71bec1f4f79 | -6.06852 | -59.93922 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 610ac9f9-40c5-380b-9ad1-c387c14502b7 | -3.21853 | -60.60087 | 2025-08-13 05:27:00 | NOAA-20 | MANACAPURU | AMAZONAS | Brasil | 1302504 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4d2d5705-22a7-3ac9-b5bf-9bccfa2cc508 | -6.90119 | -59.12659 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| ea4c405e-16a8-374f-a549-49dba9f294bd | -6.86675 | -59.13426 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| ede22aba-be0c-379b-853b-1a6ff26d3061 | -6.91471 | -59.63688 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 33253bec-49fb-377b-9689-6a5e913d6225 | -7.07132 | -59.2067 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 994a3d54-c430-3340-96b7-cdc5e7a9c385 | -5.88646 | -57.74704 | 2025-08-13 05:27:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 99a5c506-ad76-3596-ab91-260f0df40718 | -7.09138 | -60.02224 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| e8a953cc-219d-3138-89b8-b0e83d16bcef | -6.87511 | -59.15266 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| b6c1e8bc-9990-3fae-8bdf-5cbdf00229cf | -7.13572 | -60.12715 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 96d76391-5de1-342c-8432-bfe2bdb3223a | -7.07354 | -59.20103 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0e0f6e98-5aa5-3792-9580-dc010ae39ae9 | -6.88297 | -59.14954 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 26.8 |
+| 0daa0696-3172-38fc-a77b-dd3076e4ad10 | -6.1113 | -59.92988 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6f0bc868-1331-3ba2-a393-84cb9b1db6a8 | -7.06992 | -59.20052 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a02cbaf3-dbf6-3d04-99f7-1febd9127135 | -6.87399 | -59.13533 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 89d15b7c-04a1-3e9d-b765-777cf3579229 | -5.89213 | -57.74497 | 2025-08-13 05:27:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| 466c38aa-440e-31ee-800f-ac1ef318c7b4 | -7.09196 | -60.01836 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8aff39da-7880-3a83-af2c-baaea5129f54 | -6.09804 | -59.92389 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 51919330-bdc2-387b-a0c5-cc14eacd6a1e | -5.88336 | -57.74144 | 2025-08-13 05:27:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 98221f3a-4a4d-339c-b8b5-8802ef08baf9 | -5.84633 | -59.9262 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 1b54323f-22e5-3da5-be3f-668941a056e1 | -6.97103 | -59.28501 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 315eaf8a-fe83-3101-8bc4-18322fcc781c | -7.12474 | -60.12935 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 87bbe861-1a49-351c-84d9-2cdffb4e6915 | -6.87997 | -59.1448 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| 457fae5e-9c52-3a9c-a16d-932f4a46ff48 | -2.9034 | -48.25151 | 2025-08-13 05:27:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| ff4ae465-34fb-3e60-acca-e7e33b4483df | -7.14384 | -60.12055 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 62f036f1-5876-3a0e-8920-b44dc840e3c1 | -7.13166 | -60.13045 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 007baeb9-2cfc-3115-a1d5-67829d736c8b | -6.90843 | -59.12767 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 6866f567-90b8-3d9e-8e0c-4c695ade79d1 | -5.85389 | -59.90023 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 39de126d-6cc3-376d-ba63-dfd050d89712 | -6.89146 | -59.1422 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 39.8 |
+| c94bc040-85cb-313d-a862-12d10110c557 | -6.88971 | -59.1291 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 11.0 |
+| 3592cc59-7afd-309b-9708-f5e4dfc0054d | -5.88722 | -57.74208 | 2025-08-13 05:27:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 9bc360a9-9927-3055-9361-100495bb3a33 | -7.12997 | -60.11843 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f6d000cb-cb78-3726-849f-a50cafd5de80 | -6.90057 | -59.13075 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| f372a5b6-7d93-38f8-b7ac-1dd578a64cc5 | -6.87935 | -59.14901 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 26.8 |
+| 537552ac-966d-34d4-8be5-3cc08fdf43db | -6.86974 | -59.139 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| f92a3f3f-c0fb-32aa-8ad4-51cf3b1e5ac3 | -6.88547 | -59.13274 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 5606795a-044b-3227-864e-5cf1353d8eae | -6.97165 | -59.28086 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 1c660fb8-055c-3737-94b1-2f2b5191668e | -6.10842 | -59.92554 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 5db13ff3-253a-3cca-bdf3-7ef14228e7f1 | -7.07716 | -59.20155 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| d2eb6b48-5885-35ae-a624-dd0f04b89d6e | -6.88123 | -59.13639 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 9c1eb6d8-1147-3914-9630-18eb7c4a4afa | -7.06409 | -59.20567 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 307a9b0f-7ed0-3aa2-b407-7ef6e322e759 | -6.89208 | -59.13801 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 19.4 |
+| a25829cf-4fd4-3281-85c5-b63b9460f590 | -7.11496 | -59.84285 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 8d777c96-2043-3162-ad60-78d1d0cb890b | -2.9021 | -48.25894 | 2025-08-13 05:27:00 | NOAA-20 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| e871dbcc-cf87-3ec6-bb19-5f1d2ffa95f0 | -7.1282 | -60.12991 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 0220694d-1183-3d38-afa0-1d7bc6c10a0c | -7.09427 | -60.02665 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 3a211415-fda1-3794-b0fa-1b40cc0c1106 | -6.09977 | -59.93585 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| ec988a45-52c5-3728-8e4a-995850d71d49 | -6.1015 | -59.92444 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 49029a17-b23f-3e1f-8387-d6eaadd03367 | -6.10035 | -59.93205 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| ca2d2176-1d94-3f8c-aee2-84bf0c0d9019 | -6.87636 | -59.14427 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| b676826e-30ad-3d05-9654-9a998e732e2a | -3.42992 | -49.04622 | 2025-08-13 05:27:00 | NOAA-20 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 39f36da1-dcb1-30e0-8964-08ad1c81737c | -6.87573 | -59.14847 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| edb906d8-a921-3473-97db-bdf2225fe5b8 | -7.06569 | -59.20415 | 2025-08-13 05:27:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c614395a-ed30-3656-9d91-dda6118f3008 | -5.84346 | -59.92189 | 2025-08-13 05:27:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
 
 
 [Clique aqui para ver as próximas entradas](README31.md)
