@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2b6d8035-29d0-3989-8ccd-792c2f6d9cd3 | -2.8197 | -53.0425 | 2024-12-04 06:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 56.3 |
-| e910ae01-0a29-3ab3-815f-7ef310d53a7c | -3.1086 | -54.6268 | 2024-12-04 06:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 55.0 |
-| ecae2974-1828-3155-ba33-bff233b5b8bd | -3.259 | -53.659 | 2024-12-04 06:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 59.0 |
-| 0fba83bf-dfb3-3e62-ad30-b9f69554c1ae | -2.8197 | -53.0425 | 2024-12-04 06:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 55.1 |
-| d60ce72f-ea59-3bf7-9a32-a9c7776ad470 | -2.7942 | -55.3703 | 2024-12-04 06:40:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 43.1 |
-| cab07665-d6f5-348c-9773-1d96fc1ae5d1 | -3.2774 | -53.6585 | 2024-12-04 06:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 47.8 |
-| 8228abb4-ca7d-37b6-8c09-6f1527ea848d | -2.7943 | -55.3505 | 2024-12-04 06:40:00 | GOES-16 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 55.9 |
-| 3abf697f-367a-3b1c-b51e-ccd0787c568a | -1.7545 | -52.6159 | 2024-12-04 06:40:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 61.4 |
-| a74153a5-b67c-357d-9f82-732b809ec6f7 | -3.259 | -53.6388 | 2024-12-04 06:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 50.1 |
-| 0a8199ca-2d07-3717-bd73-dc6a1a35c297 | -3.127 | -54.6063 | 2024-12-04 06:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 102.4 |
-| 4c75cc5c-0c71-31b7-be38-79b9a8feaea8 | -1.7544 | -52.6363 | 2024-12-04 06:40:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 68.8 |
-| 79a41ad7-26fd-3193-8587-8eb6f030fc53 | -2.8196 | -53.0629 | 2024-12-04 06:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 70.7 |
-| c91114bf-c87c-3b84-9abe-4fa8c24a4c71 | -3.1086 | -54.6068 | 2024-12-04 06:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 42.4 |
-| b72f7033-4754-3b0e-9c6f-9891a6fbca6c | -3.1269 | -54.6263 | 2024-12-04 06:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 141.6 |
-| 4902d815-c82e-3f5c-89d0-89c8d58ea4ad | -3.259 | -53.6388 | 2024-12-04 06:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| 105580e6-8535-3105-a5fc-2abea7699c15 | -3.1269 | -54.6263 | 2024-12-04 06:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 162.9 |
-| bb08b622-84bd-3f4c-a4b5-cb6f65d70c3d | -2.8196 | -53.0629 | 2024-12-04 06:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 67.5 |
-| b32685c7-d908-34ee-ab26-182f65a467d5 | -3.259 | -53.659 | 2024-12-04 06:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 58.8 |
-| 8c8c4dea-2478-3948-94e9-b56db8f68144 | -3.1086 | -54.6068 | 2024-12-04 06:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 43.6 |
-| 2c7f372a-0df1-3e95-886b-5feaed4f77f6 | -1.7544 | -52.6363 | 2024-12-04 06:50:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 75.8 |
-| cc6531be-0a6b-323b-9468-948333f95e46 | -3.2774 | -53.6585 | 2024-12-04 06:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 46.8 |
-| 32b6e769-c839-342a-93aa-359b6b849c23 | -3.1086 | -54.6268 | 2024-12-04 06:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| 5157f183-fead-3010-81bf-9a2d1f68c262 | -1.7545 | -52.6159 | 2024-12-04 06:50:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 76.6 |
-| 0aa7cc37-35b0-3e56-b3d3-b6102c33231f | -2.8197 | -53.0425 | 2024-12-04 06:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 54.1 |
-| a95e5797-946d-3fec-8296-f0142ea3f0de | -3.127 | -54.6063 | 2024-12-04 06:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 93.5 |
-| 49c6cde0-b137-361c-af9c-10737a655cdd | -3.259 | -53.6388 | 2024-12-04 07:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 52.3 |
-| 9ebf9e89-8a0e-3189-955c-374f48cb1919 | -3.259 | -53.659 | 2024-12-04 07:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.6 |
-| 1d8adad1-6d44-3305-8be2-188f7b9f4be3 | -1.7728 | -52.636 | 2024-12-04 07:00:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
-| 47cfcf93-5352-3a56-9ce0-0926ff5bca32 | -2.8196 | -53.0629 | 2024-12-04 07:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 69.3 |
-| efba69fe-8192-38a8-8421-0b59c5c77ecc | -3.2774 | -53.6585 | 2024-12-04 07:00:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 50.2 |
-| 3fa8d45f-4042-3ea5-901a-b490e661d95b | -3.1086 | -54.6268 | 2024-12-04 07:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 56.5 |
-| 3771860c-54fc-33fb-a2c4-3da5fb4f6a81 | -3.1086 | -54.6068 | 2024-12-04 07:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 42.6 |
-| 7ac88d7c-da6d-32f9-89be-ecd8164d95a2 | -3.127 | -54.6063 | 2024-12-04 07:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 107.1 |
-| 6d143e1c-c5bf-3f90-8384-e924f9324993 | -2.8197 | -53.0425 | 2024-12-04 07:00:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 54.1 |
-| 10c63fc5-fc14-3877-a218-8ceb6abe8c95 | -1.7361 | -52.6162 | 2024-12-04 07:00:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| fe5aa7b3-4b9f-30fb-8ddb-5ece656005af | -1.7544 | -52.6363 | 2024-12-04 07:00:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 80.2 |
-| 48f89563-3616-3d1e-ae42-fe83e80ba742 | -3.1269 | -54.6263 | 2024-12-04 07:00:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 151.2 |
-| 226de9aa-c921-3216-9d68-4e69b5d1f3cd | -1.7545 | -52.6159 | 2024-12-04 07:00:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 96.9 |
-| e9632e50-dd0c-3230-8db8-687bd2e73d42 | -2.8196 | -53.0629 | 2024-12-04 07:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 70.6 |
-| a5f46de0-b854-30b9-ae1f-6f23c27f9779 | -3.1269 | -54.6263 | 2024-12-04 07:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 145.2 |
-| 76fd92cb-de90-3bf1-b14a-a2555e62974f | -3.2774 | -53.6585 | 2024-12-04 07:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 46.2 |
-| 8b5b6022-ffd7-305c-bb93-4fc5398d1658 | -2.8197 | -53.0425 | 2024-12-04 07:10:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 57.3 |
-| 8a54d6d0-1ce7-37b1-bbdd-d845626f9e16 | -3.259 | -53.659 | 2024-12-04 07:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.3 |
-| 82f451f4-e0b8-3559-9e31-3729d0d2e2b7 | -1.7361 | -52.6162 | 2024-12-04 07:10:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 74.4 |
-| 5bb5456e-a933-34d3-8dd3-48ef29d7da41 | -1.7545 | -52.6159 | 2024-12-04 07:10:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 140.9 |
-| 8d280f9d-31df-3ba2-81ee-2aa62322302d | -3.1086 | -54.6268 | 2024-12-04 07:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 55.3 |
-| 507608f8-f900-379b-b284-0e6dcbc501d5 | -1.7728 | -52.636 | 2024-12-04 07:10:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| dc7ec6af-61a2-3439-b11e-e46a6ce06d80 | -3.127 | -54.6063 | 2024-12-04 07:10:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 107.0 |
-| a180bb6a-4a03-30e0-a781-50f2c2ad00ba | -3.259 | -53.6388 | 2024-12-04 07:10:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 52.9 |
-| 4a50981a-f8f0-3191-a9ff-bf69db0d385e | -1.7544 | -52.6363 | 2024-12-04 07:10:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 89.1 |
-| 81b1478e-e4a7-3110-aecb-f3834d92eef5 | -3.1086 | -54.6068 | 2024-12-04 07:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 45.3 |
-| 293e4017-f966-329d-938a-064545e86893 | -2.8197 | -53.0425 | 2024-12-04 07:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 58.3 |
-| f470e169-e40c-39ec-b650-b88d89088b9b | -3.259 | -53.6388 | 2024-12-04 07:20:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 62.1 |
-| 7f5c8199-6c42-3a6d-bcd5-648cd6dad53a | -3.259 | -53.659 | 2024-12-04 07:20:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 73.0 |
-| 0f9af5f6-09ad-3a90-8312-b8888aa4bf40 | -3.1086 | -54.6268 | 2024-12-04 07:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| cc10d4a3-705c-3d8e-8b40-aa09ca2fd13b | -1.7728 | -52.636 | 2024-12-04 07:20:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 68.6 |
-| e4abda3b-6891-3276-b2d4-70a16e84e178 | -2.8196 | -53.0629 | 2024-12-04 07:20:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 73.4 |
-| c9fb9c9f-4dc7-3172-8f3a-f7246dc6e57d | -1.7544 | -52.6363 | 2024-12-04 07:20:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 83.7 |
-| e78ac8e3-13fe-3f2f-8fae-06dff9080135 | -3.127 | -54.6063 | 2024-12-04 07:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 83.4 |
-| ddb6aa69-5168-3262-9c51-4bda88c39763 | -3.1453 | -54.6259 | 2024-12-04 07:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 45.7 |
-| f0894232-070f-3f7a-828a-67d5b7afc679 | -3.1269 | -54.6263 | 2024-12-04 07:20:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 117.2 |
-| ad97ce33-72f3-329f-959d-fb5a9dc41420 | -1.7361 | -52.6162 | 2024-12-04 07:20:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 60.3 |
-| e154a97f-8ce7-3dc6-b8c6-be31d6b78f88 | -1.7545 | -52.6159 | 2024-12-04 07:20:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 113.8 |
-| 71f65e2f-c702-3c1a-a138-ee5e7caae029 | -1.7728 | -52.636 | 2024-12-04 07:30:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| 05a6baa1-0e2a-3244-99b4-a964629ac81f | -3.1086 | -54.6068 | 2024-12-04 07:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 47.6 |
-| d780fa1d-e9bb-352f-a357-9c302e95dc98 | -1.7545 | -52.6159 | 2024-12-04 07:30:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 89.1 |
-| 21c501bb-9b61-3ac2-a651-775d75902895 | -3.1453 | -54.6259 | 2024-12-04 07:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 44.4 |
-| acd1f276-1fbf-3aea-8d6c-1909386811ad | -3.259 | -53.6388 | 2024-12-04 07:30:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 49.2 |
-| d55bdf04-7d4b-37ba-b972-3a536c45dc9e | -2.8196 | -53.0629 | 2024-12-04 07:30:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 74.2 |
-| 84d86ef6-8b29-352c-9614-f03b78554d10 | -3.259 | -53.659 | 2024-12-04 07:30:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 53.3 |
-| 9cee472a-7db9-38ec-a2db-d389cf4e19bb | -3.127 | -54.6063 | 2024-12-04 07:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 76.7 |
-| cbc91817-3226-3f2a-b396-7d54ef3df9a6 | -3.1269 | -54.6263 | 2024-12-04 07:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 104.1 |
-| bf50402f-2c9d-3dd2-bb35-f994f478ac9a | -1.7544 | -52.6363 | 2024-12-04 07:30:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 78.1 |
-| 9abdd308-673b-33ca-9bbe-1425faa12ea2 | -3.1086 | -54.6268 | 2024-12-04 07:30:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 58.9 |
-| 0c55d56c-3d7b-31dd-94b8-d23489c2608b | -2.8196 | -53.0629 | 2024-12-04 07:40:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 66.0 |
-| eb5d162a-2b10-3ae9-bf70-df7c01a1b258 | -3.1086 | -54.6268 | 2024-12-04 07:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 61.2 |
-| 992d9c04-72dd-3e2e-a5c6-71439ed87e5c | -1.7545 | -52.6159 | 2024-12-04 07:40:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 67.3 |
-| 3b389de8-75fd-34d8-8d06-0d07353d9cd2 | -5.588 | -45.1638 | 2024-12-04 07:40:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 53.4 |
-| ce13e5ce-9a92-34e3-a6ae-d383a6573a01 | -3.1269 | -54.6263 | 2024-12-04 07:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 107.4 |
-| 3c0a63ec-8861-30df-bde5-b81373a245aa | -5.5882 | -45.1412 | 2024-12-04 07:40:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 49.2 |
-| f9624337-8cd6-3bdf-93af-fbe989deda9d | -5.5693 | -45.1651 | 2024-12-04 07:40:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 69.9 |
-| 8e57da72-a9a3-351b-8cce-54e36d9a3e02 | -1.7544 | -52.6363 | 2024-12-04 07:40:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 60.3 |
-| 07c0c983-dd49-3cd0-947b-6621b4e9e93d | -3.127 | -54.6063 | 2024-12-04 07:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 78.3 |
-| d2d4bd76-cef5-342a-a233-34a37134696b | -3.1086 | -54.6068 | 2024-12-04 07:40:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 49.8 |
-| 1da56eef-f575-3175-ac5e-05c405d822e2 | -5.5695 | -45.1425 | 2024-12-04 07:40:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 51.9 |
-| 4c8ff850-5597-3620-abc7-725420f1ef97 | -3.259 | -53.6388 | 2024-12-04 07:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 50.3 |
-| 1bbdc7ea-4f88-34b7-b27f-0baad6952f30 | -3.259 | -53.659 | 2024-12-04 07:40:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 60.1 |
-| f85f0a08-5056-3627-a85a-64cdc6e6f2bf | -5.588 | -45.1638 | 2024-12-04 07:50:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 65.2 |
-| 1597b50f-6e53-3223-aac2-9cad440bb507 | -3.1269 | -54.6263 | 2024-12-04 07:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 100.0 |
-| ae43bcef-9386-3222-b244-3e7b9efd7934 | -1.7544 | -52.6363 | 2024-12-04 07:50:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 77.4 |
-| 55956c54-8af3-38cd-bb57-e22037e8f976 | -3.1086 | -54.6268 | 2024-12-04 07:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 57.8 |
-| 6ad31a60-6462-38e7-8126-9adbe33dd111 | -1.7361 | -52.6162 | 2024-12-04 07:50:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 70.8 |
-| d2760b90-56b2-3f80-9337-0992a645b3c3 | -5.5882 | -45.1412 | 2024-12-04 07:50:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 58.1 |
-| 566ef419-c81c-3d0b-b326-ac42868e73a8 | -2.8196 | -53.0629 | 2024-12-04 07:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 68.8 |
-| 7c8d11fd-99cf-34bb-8b2c-bd6c59e7408a | -5.5693 | -45.1651 | 2024-12-04 07:50:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 86.1 |
-| 9a6ae0f6-c81e-3d9b-8b17-ad9d3444dec6 | -3.259 | -53.6388 | 2024-12-04 07:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 57.1 |
-| 6bd4e093-8596-3d0c-b38a-ad81b8eaaec8 | -2.8197 | -53.0425 | 2024-12-04 07:50:00 | GOES-16 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 55.9 |
-| d8ce9f9e-5ce7-30b1-9097-a3d90dc1fabe | -1.7545 | -52.6159 | 2024-12-04 07:50:00 | GOES-16 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 95.4 |
-| 591af091-782b-317c-9d93-6b133d1b5f1b | -3.259 | -53.659 | 2024-12-04 07:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 69.7 |
-| 02f7c2e5-4481-3653-9618-138cfc0daded | -3.127 | -54.6063 | 2024-12-04 07:50:00 | GOES-16 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 71.2 |
+| bfba22dd-def3-3e4f-8992-74b9e23e1f84 | -9.90651 | -60.4367 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 7e666967-8f52-3db9-a51d-c6ef651b3581 | -7.60318 | -63.52264 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 5c9e6b16-f905-34dc-a035-b82a4ae5f2d2 | -13.11803 | -57.15623 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 1bb43779-6a4a-366e-8b53-53d965a9e7fa | -7.60914 | -63.52326 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| cd8e991b-018b-3b33-bf1d-e1133a47d478 | -9.53595 | -63.57628 | 2025-08-15 05:44:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 9f7162fd-314f-3d89-9dbb-776dc69af8a0 | -9.14623 | -59.4259 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 5f4ceffe-da71-34bb-b7c4-3052e4cef17b | -9.052 | -60.65205 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| e5512dfc-5b05-3ef4-95a0-0b9119e0ea84 | -10.32155 | -63.62239 | 2025-08-15 05:44:00 | NOAA-21 | CAMPO NOVO DE RONDÔNIA | RONDÔNIA | Brasil | 1100700 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a5c4606d-7b65-3abc-aa1f-7af04da6e602 | -9.15845 | -59.65764 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 91bea98f-d334-3009-92fe-76713b14cc9f | -9.92176 | -60.48343 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 28698497-d815-373c-b055-9ab93adfaacd | -9.93446 | -60.48518 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| abee8f8d-0bd5-3118-a48f-24a4c0ec1b0f | -13.11349 | -57.15183 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b6d103d3-a4e9-366a-9f20-fefa35b2fe0c | -8.11367 | -55.58485 | 2025-08-15 05:44:00 | NOAA-21 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 0615f8dd-c60c-3f77-b5e7-3cdfd9cf4b57 | -9.1808 | -59.69205 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 247e2c7c-2f55-3535-943c-07f089b02669 | -9.1673 | -59.65889 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| b05f89d4-0117-3602-9cf9-a51dd2952172 | -9.15786 | -59.66198 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| dccef337-308c-35b9-aa1b-6b2f4abd3c23 | -9.16492 | -59.67637 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 5c1a3656-12b3-351d-abb2-d029701a5c20 | -9.39008 | -60.55147 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 9866cdd3-c34b-36da-8f30-3f4338c48e5a | -10.16774 | -59.66376 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 788f2061-fa80-37c2-beb8-c227a6220c9b | -9.15757 | -59.69744 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 20736de4-106f-3521-87f9-108723c5acac | -9.15551 | -59.67935 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| bc89703b-d097-3d22-b86f-6c9e6cbf9571 | -7.9685 | -71.37505 | 2025-08-15 05:44:00 | NOAA-21 | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 823bc696-c138-33af-9e57-92dbbf3374d1 | -9.50664 | -60.51987 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| b5ced053-6472-3437-9bce-11a67c80a35f | -7.9455 | -61.74483 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 824edccb-aa71-33ff-9d92-c2b83e52cbc3 | -8.40314 | -70.43417 | 2025-08-15 05:44:00 | NOAA-21 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| b54c91b1-42ac-37fb-b45f-5c9376587f85 | -10.05481 | -59.11589 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 09740941-8697-30fb-91ad-9d85dc651c82 | -13.1177 | -57.16346 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| d53221ba-dcfc-341d-a1b3-17a4147466a4 | -7.52673 | -61.37739 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| fdc21a6b-1076-3762-9352-5cf885e053fd | -9.54298 | -63.57735 | 2025-08-15 05:44:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| f0e3f0fa-8963-319c-b4bb-aa5ad5129edf | -9.39952 | -60.54492 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a5ccb642-9151-3169-a2d2-6d7716aebe13 | -7.53547 | -61.34426 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 7705adbc-2cf9-3950-9be0-561e7a7f80be | -7.52603 | -61.38225 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| c49f7e41-c838-3c70-98d3-2bcfb5aebd3a | -8.47025 | -64.06644 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 0a285f24-57be-3fb0-9871-7356be8f0549 | -11.34282 | -55.41364 | 2025-08-15 05:44:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 321d8bca-31c6-384b-b1d7-affb53c42381 | -9.17758 | -59.68269 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 4ffb97b7-07bc-36d3-939f-c4e37b5c6aab | -15.39819 | -55.78139 | 2025-08-15 05:44:00 | NOAA-21 | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| bdde9120-e82f-37b7-9cdb-dabedf0a57b1 | -9.2063 | -59.63786 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| be0d72a1-9ef2-3fd7-8846-6b3f8993c027 | -8.60421 | -62.6541 | 2025-08-15 05:44:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 0a1b93ce-da51-3a46-89bb-ade0e9f80379 | -8.10799 | -61.18119 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 174f179e-1839-3dcb-b520-f74baa251b53 | -11.72649 | -64.89772 | 2025-08-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 5cd4aef6-bc81-399d-80d9-f0bfde2d39de | -7.55072 | -63.49512 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| aedf37c0-0421-3117-ab18-ffdd797f9311 | -9.18199 | -59.68335 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| f00a592a-5d09-370d-ba46-7a759fc6fd70 | -9.19262 | -59.67157 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| e4c4db4c-42ca-33bb-85d6-9f7d1ae2beb1 | -7.60609 | -63.50357 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 10.0 |
+| 9317c6d2-333d-31ff-aac5-8fbbe5eae383 | -7.87903 | -61.82955 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 4e7c62bd-7d89-3717-b046-e6342063ed29 | -13.12036 | -57.14167 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 68e79692-d1ea-3282-9933-5b3bcf61407a | -7.61663 | -63.5205 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| fe82b8d9-61a0-3b24-b0f9-389347425c6d | -12.88946 | -62.09037 | 2025-08-15 05:44:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 3188bc30-4f44-3363-9d3b-69d7d5f82321 | -8.10509 | -61.20139 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 838cc1bf-006d-368f-ad8e-c29a143345fb | -9.90956 | -64.23482 | 2025-08-15 05:44:00 | NOAA-21 | BURITIS | RONDÔNIA | Brasil | 1100452 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 36181086-4bbf-37c0-b5c3-67f7f0b3fcee | -7.95171 | -61.75527 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 1078cd95-2525-3253-b46b-c892833b5d90 | -9.15285 | -59.66568 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| aeb6951e-f1c3-381a-a447-2bd9610f6f1e | -11.7367 | -64.89931 | 2025-08-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e7eb4b3a-1dfd-3cd8-a302-c8cec2a4f653 | -7.90021 | -63.5268 | 2025-08-15 05:44:00 | NOAA-21 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 46611145-27e8-387b-b608-a81eabbbf0c3 | -9.19143 | -59.68025 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8304b0c1-3e7e-3ac3-b563-dd59be531bf0 | -9.63033 | -63.09229 | 2025-08-15 05:44:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| af191ad5-7469-3a1a-947e-deb13d9cb0ee | -11.34724 | -55.4283 | 2025-08-15 05:44:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 8da2d420-8b8c-35fc-9026-531d9556a88a | -9.17138 | -59.69511 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 4493b1a9-35c3-304d-9c79-aa0448fee374 | -9.15199 | -59.41745 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 75fa3ca2-e98f-30a7-9a5e-a9dbe1fbe066 | -7.60663 | -63.52318 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 17f74003-732a-3f09-be93-26f3c6040195 | -8.60326 | -62.65595 | 2025-08-15 05:44:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| d65da3e3-f02f-3c09-ae02-099821fbb458 | -13.13424 | -57.16206 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2e185eb3-6f65-3724-9d4b-db90f8694159 | -9.63171 | -63.09568 | 2025-08-15 05:44:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| beb6f313-2447-3a45-972a-d64d1b59f9ba | -9.90227 | -60.43607 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f70c27de-0408-36a9-ab15-591ac5c2780f | -8.56444 | -66.96112 | 2025-08-15 05:44:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 7e845b5d-c9b2-3171-8aa6-d4e6e66c890e | -9.5019 | -60.52318 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| 24faba38-326e-36d2-bb9d-4924a82d1537 | -9.90239 | -60.43768 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| cb4528aa-f7a5-30bd-a98b-3babe2d8593d | -7.43282 | -67.73702 | 2025-08-15 05:44:00 | NOAA-21 | PAUINI | AMAZONAS | Brasil | 1303502 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 84879198-0908-3913-99f8-777520e5840d | -9.21093 | -59.66959 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| b1953589-4991-399e-987c-979609dad3cf | -12.88874 | -62.0956 | 2025-08-15 05:44:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 88d61e80-2ad4-3969-b57c-418abcb38ecc | -7.53371 | -61.32906 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| d7ae7c4f-0232-3e31-8d18-dbb6a8f46c0a | -13.47947 | -56.66496 | 2025-08-15 05:44:00 | NOAA-21 | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Cerrado | 18.2 |
+| 5d39bea2-c13e-333d-ac7f-7df504b83210 | -7.94792 | -61.75469 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| c24fb007-09e5-352f-a5f0-a839d33c3450 | -10.00795 | -59.21807 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 2cc3bdc0-f8af-3e72-8336-2b01b9ada6c0 | -9.1195 | -63.9202 | 2025-08-15 05:44:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2db18687-be11-3f0c-bc93-3a7019f91ac3 | -7.59056 | -63.466 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a0e21c90-fdb7-32e4-980c-e605e5001281 | -11.41086 | -58.53614 | 2025-08-15 05:44:00 | NOAA-21 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 354d96c7-e77f-3334-8260-79d66badc825 | -13.11678 | -57.16718 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 150679a4-b865-3e6a-973a-9559b331466f | -7.63047 | -63.52262 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 909d0356-270a-3cc1-84ea-eab1a05b5f34 | -8.55612 | -63.91488 | 2025-08-15 05:44:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 8758ab7d-4faa-3927-b3fa-031792951346 | -9.20329 | -59.65965 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 3b38fc45-30cd-3b75-a225-5f554734fd98 | -7.52984 | -61.32848 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 30.8 |
+| 8b7bc667-44cf-36e5-bd63-626600c4e350 | -11.7333 | -64.89878 | 2025-08-15 05:44:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9b07deff-afef-3537-8d29-b414636516fa | -9.9223 | -60.47944 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 743b2587-4ece-3cb4-aa3a-d0480ced0dd0 | -7.89207 | -61.47769 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 036838bb-577a-37f4-b26a-6a8cbdf5678a | -8.05169 | -61.59877 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 2bb25e60-cd87-3e98-8efd-dccf19d07c96 | -9.89644 | -68.5942 | 2025-08-15 05:44:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| bf611d6a-9aac-327f-aa0c-1fddad5a8403 | -8.11295 | -61.20255 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| d63b2da1-d919-3ab1-98b7-963bcb2418a7 | -11.35491 | -55.41548 | 2025-08-15 05:44:00 | NOAA-21 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 9d71f8f5-8a89-3a85-a04b-c39f4d90fbae | -8.1144 | -61.19246 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 1a2151d5-a037-3b20-89e7-7618bf31e481 | -9.17877 | -59.67399 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 8c5083a6-92d4-36b6-a162-54eca34d1496 | -7.53745 | -63.48918 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 2c3d80d4-fd30-30f6-9194-3bcf3d303aa1 | -9.915 | -60.43787 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 89dc8bc9-1797-30b2-b8e2-9d7a9780a889 | -9.19441 | -59.65856 | 2025-08-15 05:44:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 40954836-3d0a-33e5-8bca-198bf1e8034f | -7.62298 | -63.52538 | 2025-08-15 05:44:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 5e75f199-28e8-3fac-af94-2bad8e8d779b | -7.9593 | -61.75643 | 2025-08-15 05:44:00 | NOAA-21 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 18cb11ea-6e6c-3a3f-a34b-8f4f359eb6b7 | -9.50555 | -60.52763 | 2025-08-15 05:44:00 | NOAA-21 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 15.4 |
+| 51e2ac36-a4bb-3c2e-a897-b2591e118a8a | -7.81745 | -61.3305 | 2025-08-15 05:44:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 07e4288f-cbea-3242-b117-d75b454e1d93 | -10.25116 | -64.31659 | 2025-08-15 05:44:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b3b03c5e-3cb9-3914-ade4-850fa724f436 | -10.11779 | -57.76735 | 2025-08-15 05:44:00 | NOAA-21 | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
 
 
 [Clique aqui para ver as próximas entradas](README62.md)

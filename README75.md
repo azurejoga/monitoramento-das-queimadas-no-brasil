@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1fc585f9-8ef2-348a-8841-48f3aa326aee | -12.41688 | -63.74612 | 2024-12-02 05:46:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2ba5597c-2180-3ff1-b540-48e7dac91f4f | -13.50651 | -61.53317 | 2024-12-02 05:46:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 6789e659-23c3-3f9f-b10b-fd6239eafde8 | -12.79956 | -62.00987 | 2024-12-02 05:46:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 17022db3-5373-3af1-86a5-b349b9b72536 | -13.50477 | -61.53357 | 2024-12-02 05:46:00 | NOAA-21 | PIMENTEIRAS DO OESTE | RONDÔNIA | Brasil | 1101468 | 11 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 2b527c24-35fe-3901-bf2a-6f72fe182bea | -12.80146 | -62.01022 | 2024-12-02 05:46:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 6a197b8a-3d03-3a63-a0f9-6c9470cf4845 | -20.73019 | -54.42438 | 2024-12-02 05:48:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| a22b9de3-70a2-3432-b22c-570cd7611500 | -20.72967 | -54.43208 | 2024-12-02 05:48:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 0609ca5a-4dbe-3278-8181-0094dd82c34d | -20.72254 | -54.43149 | 2024-12-02 05:48:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 5da7ac5a-e6d4-351a-87f7-9e78959826a6 | -20.72617 | -54.43119 | 2024-12-02 05:48:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| a0029581-2f81-3ccc-9e2c-3016197ac171 | -20.72675 | -54.42353 | 2024-12-02 05:48:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| bdbceb85-1b13-3d16-9f54-6e14fac924a1 | -3.2591 | -53.6186 | 2024-12-02 05:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 61.7 |
-| 268d28f1-e1ce-3fa6-bf76-ae3ccfdfbe62 | -5.5882 | -45.1412 | 2024-12-02 05:50:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 77.2 |
-| ddef97b5-2886-3e3f-887b-49f2f686a038 | -3.259 | -53.6388 | 2024-12-02 05:50:00 | GOES-16 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 49.2 |
-| 11d596e3-0ff7-3f18-b50f-3d09a8f281ac | -5.5882 | -45.1412 | 2024-12-02 06:00:00 | GOES-16 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 80.3 |
-| d411ae2b-6254-30d4-a890-200232d932ed | -1.27598 | -54.54832 | 2024-12-02 06:03:00 | AQUA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 8d4eeaf7-aa90-3f89-ad79-e92b8ae0b985 | -2.56371 | -54.33583 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| a82300c5-8eda-3c4a-bba7-5c280d946c22 | -2.45305 | -53.71289 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| b4afe451-77af-397f-a1a7-b94ccdd91b94 | -3.26835 | -53.62937 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 6250be93-d03b-3269-82c9-19fc9b679345 | -3.01779 | -54.01122 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 816a1070-a8f6-3412-9503-b987e3f0b11a | -3.77904 | -52.0352 | 2024-12-02 06:03:00 | AQUA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 13.2 |
-| 156e7818-d753-3ea3-a43c-433ea6eaeb34 | -4.26428 | -50.83794 | 2024-12-02 06:03:00 | AQUA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 5d3f7a63-1adf-3448-93d8-b62c2e9730bf | -1.68637 | -55.00839 | 2024-12-02 06:03:00 | AQUA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| fcbc0dcd-e1d4-3c5d-bf3d-5bacd3a2650b | -4.26202 | -50.85333 | 2024-12-02 06:03:00 | AQUA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| 318e36cb-1d54-3386-b703-2799b6b0b8b7 | -2.99282 | -52.50724 | 2024-12-02 06:03:00 | AQUA_M-M | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| 561e21cc-11d3-3881-9b56-f935407e57f2 | -2.63272 | -53.36412 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 21.1 |
-| 228509c5-f864-3bc0-b229-2c548d0aa89e | -3.06583 | -53.68689 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| ee84c741-ca96-3139-8a9e-438d46dc8d0f | -3.11505 | -53.97413 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 539541ab-0c22-3220-b178-641b03b57edb | -3.12557 | -54.52844 | 2024-12-02 06:03:00 | AQUA_M-M | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 7db230d5-2025-30a9-86ac-527e696514c8 | -2.46189 | -53.7102 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| ad395b5c-a6b7-3083-96ee-61b62e77951a | -3.11225 | -53.993 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 1b8a797d-310b-3a43-8a24-b3e6906de33c | -2.70906 | -51.99948 | 2024-12-02 06:03:00 | AQUA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| f45ae48f-0c7b-37e6-8992-c3a901568db1 | -3.96398 | -52.17381 | 2024-12-02 06:03:00 | AQUA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 1d625747-4f30-390e-ac24-be8ccea2798c | -2.80195 | -54.0346 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 932b8d5c-2aec-3439-916d-1fa484de0af2 | -1.64548 | -53.86333 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 9d6766a2-8c5a-310c-86da-8f8ea03ec065 | -3.25158 | -53.93164 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 8b5c62c4-88c1-3384-96f8-6c9c79f5f1da | -1.69259 | -52.63227 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| d2e38d5b-6708-393c-9152-a547bc6f2644 | -1.735 | -52.77235 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| f09ec788-686c-3a71-9bc8-0f62344b1f1a | -1.57337 | -55.34131 | 2024-12-02 06:03:00 | AQUA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 9f591820-911d-3bb9-a9c2-585660934474 | -4.26135 | -50.84476 | 2024-12-02 06:03:00 | AQUA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 22.9 |
-| dd66dd62-3abb-39e6-8f42-b6503aecd148 | -1.72636 | -52.63202 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| fddc9f87-94b5-35ba-9f0f-2cd900ba9bee | -3.70505 | -54.60319 | 2024-12-02 06:03:00 | AQUA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 7b0ce0eb-95f5-3b4d-937a-2f355e026cbe | -3.10528 | -54.03998 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| 539dc332-b323-3ca3-bb16-a0d64eb18f3d | -3.29171 | -53.83729 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| e910a5dc-a36d-34fe-9479-f0e92ae4f0ed | -1.23072 | -51.6098 | 2024-12-02 06:03:00 | AQUA_M-M | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| 1a99361f-5775-363a-9d1c-7e8c408b0ec0 | -3.25123 | -53.61682 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| e0052bfb-1140-3fdc-b7e3-66dcc8c0811e | 1.2147 | -56.00624 | 2024-12-02 06:03:00 | AQUA_M-M | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
-| 067acedc-1df4-3e1f-978d-b7b905e21e55 | -3.2021 | -53.12093 | 2024-12-02 06:03:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 084fa82e-e83e-3dc8-9ae5-cbc1317757c3 | -3.10389 | -54.04938 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| 74f277e0-3953-3118-9720-9981e5137a6b | -3.09513 | -54.2946 | 2024-12-02 06:03:00 | AQUA_M-M | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| 263f1892-e442-344d-9fe1-855322b14944 | -2.80057 | -54.04393 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 132af086-6778-3997-81ab-165a30654c4b | -3.26806 | -46.43814 | 2024-12-02 06:03:00 | AQUA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 30.7 |
-| 887d3dff-5b75-3d28-b1c0-07c7ecc03e9f | -2.44759 | -53.62393 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 5caafc11-508e-36c2-a21b-76fc83d118ad | -2.98819 | -51.32932 | 2024-12-02 06:03:00 | AQUA_M-M | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 112dbdec-670e-3f92-a785-118871ec1027 | -2.89387 | -55.21685 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 7d420d80-dbd7-30c6-b9f6-2aa9c887fc9a | -1.23249 | -51.59777 | 2024-12-02 06:03:00 | AQUA_M-M | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
-| 5883b8b8-6a3f-3643-af0b-507b75cc4cd7 | -3.2903 | -53.84687 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 4e75ff4c-825e-39f5-be03-164d66adbe6a | -2.83136 | -54.08643 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| 802297c6-a262-3470-96d9-64c304e0306f | -2.45825 | -53.6156 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 5a09f3e0-bbd8-3865-a165-a1b540ea7c6a | -3.25906 | -53.62805 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 26.0 |
-| 8048b1bd-29ee-3d00-86aa-16135d2ffb2a | -2.71079 | -54.95512 | 2024-12-02 06:03:00 | AQUA_M-M | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| 816682d0-82e5-32fe-9793-7dd3641d71db | -1.61829 | -53.85954 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 363c92b3-6df9-3ad7-a488-436e45871829 | -1.69591 | -52.63842 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 48ebaa62-b24e-30f3-9bd8-473f38def6b0 | -1.98925 | -53.2877 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 7fcda5ce-e827-31ed-b0e2-e2b29a8cbcd6 | -2.63418 | -53.35417 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 24.7 |
-| 6963f97f-8e16-3f16-9ef4-0cca3287fda4 | -3.63913 | -54.67702 | 2024-12-02 06:03:00 | AQUA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| bd694525-0cf4-39d2-bdbc-375c2a9c7173 | -3.78085 | -52.02284 | 2024-12-02 06:03:00 | AQUA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| a4b4f015-266f-302b-a858-ba87de225f75 | -3.21164 | -53.12234 | 2024-12-02 06:03:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
-| ffe73e03-6a84-3e8c-9b7c-bf7f1770252f | -2.01355 | -54.31133 | 2024-12-02 06:03:00 | AQUA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| e2ed91e5-8c0a-3fff-84d9-63e721f3932b | -3.25805 | -53.82562 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| c3c53d33-69a7-3032-b43e-89f53b1cfa38 | -4.27551 | -50.68088 | 2024-12-02 06:03:00 | AQUA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
-| 3aaa9714-2e23-3234-90c8-aa66f72d2def | -3.7473 | -54.504 | 2024-12-02 06:03:00 | AQUA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| 4e73fdaa-3e36-318e-a2fa-6cbb8222d052 | -3.85333 | -50.89503 | 2024-12-02 06:03:00 | AQUA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 13.4 |
-| 194ffad1-6f38-3e10-a11c-58590e20ec8f | -1.33069 | -54.97682 | 2024-12-02 06:03:00 | AQUA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 5ab0df50-d61b-3a0b-a38d-feb3a74c37b2 | -3.2669 | -53.63916 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
-| 5f9a5210-6f21-32aa-aea3-3f5ff3a6680d | -2.43838 | -53.62259 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| 276ac511-382c-3383-a395-45b42fc77e21 | -2.43981 | -53.61293 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 7f14ac7c-110e-3ed5-ac4e-7369b7a653ca | -2.35669 | -54.48726 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 6da04487-6fb4-323e-a90f-7ee7c7a9741e | -2.56457 | -53.39814 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 15.6 |
-| 8b6c602c-691f-3ddd-8d82-c10bd6810972 | -3.24382 | -53.92095 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 58c622f4-c0fe-3fb3-847e-37dd35b07520 | -3.08511 | -54.11345 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 13f41e71-fb4c-3f04-a258-0421992f1f4b | -2.6574 | -54.07705 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 8bfd6110-8f91-36e9-bff6-bc207249d20d | -3.08373 | -54.1228 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| c9181c83-e29a-3208-ae1c-7d7882c32ba6 | -1.7821 | -52.74324 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| ddd5f399-d407-3e9f-b296-22e2c9a648cc | -1.67313 | -52.79519 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 006d0a62-bb01-3114-85b7-45497d26e38a | -4.1949 | -50.68061 | 2024-12-02 06:03:00 | AQUA_M-M | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| c54f9280-b9f4-337b-b015-ea669aea1a4a | -3.26052 | -53.61819 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 26.9 |
-| b376a8e2-3755-310f-968b-95280d0af51e | -1.71912 | -52.4783 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 6b9ae15a-bdec-30b1-b090-b73fc01c5511 | -2.55378 | -53.40667 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| e88b621f-98cb-3082-af73-bfab767f11f5 | 1.1358 | -55.97663 | 2024-12-02 06:03:00 | AQUA_M-M | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 2a74f403-52b6-3515-a0a9-de53f0e58329 | -2.88477 | -54.1575 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 94ffb002-25e7-313e-bab9-1ef4a905432a | -2.41352 | -53.85205 | 2024-12-02 06:03:00 | AQUA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 6ffdd687-658f-322e-900c-9f590a151133 | -1.90611 | -52.86215 | 2024-12-02 06:03:00 | AQUA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| b88f8eae-1a10-379b-89b6-72fbd33885e4 | 1.20723 | -56.02263 | 2024-12-02 06:03:00 | AQUA_M-M | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| c426fae4-14e3-3b37-854c-6566a97734f3 | -3.74595 | -54.51316 | 2024-12-02 06:03:00 | AQUA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
-| ef5ef15e-b3ee-3110-b10c-f8b2f05e6826 | -3.09479 | -54.04802 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| b8172d78-d8a6-3b80-abfb-23d5b171b48f | -3.42498 | -53.88142 | 2024-12-02 06:03:00 | AQUA_M-M | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| c40067e0-9c89-39e9-b99c-974e69088718 | -1.67962 | -53.94397 | 2024-12-02 06:03:00 | AQUA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 71d655c6-1e0d-3b50-a446-b649fc15b454 | -2.89381 | -54.15887 | 2024-12-02 06:03:00 | AQUA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 9e030806-a2f4-3e7a-a66b-f74071fa12d9 | -3.18246 | -54.33166 | 2024-12-02 06:03:00 | AQUA_M-M | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| b41fd993-53d7-3ffa-b6f4-657c73fd7d96 | -1.2507 | -54.53561 | 2024-12-02 06:03:00 | AQUA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 9edeffbf-7df9-3e7b-8790-e15045077948 | -12.5942 | -46.9527 | 2025-08-15 12:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| c801e836-edcb-3a77-b4ab-0b7056cd8e67 | -12.5947 | -46.9301 | 2025-08-15 12:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 71.9 |
+| 35a3ee74-930d-3229-9216-014ecf3d5cfe | -13.3203 | -45.2177 | 2025-08-15 12:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 372.1 |
+| fbacb190-a0b3-35fc-8ea4-b925efe1f6ec | -7.3896 | -44.8589 | 2025-08-15 12:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 92.8 |
+| 81e0e509-4fe5-3464-8d90-b50706138a11 | -6.8673 | -42.7961 | 2025-08-15 12:30:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 448.7 |
+| a8b77c54-aec6-343e-a193-d8e622912259 | -13.3397 | -45.2145 | 2025-08-15 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 421.6 |
+| 8d6c0512-5ec1-3603-a0b2-ff2da625a2b3 | -13.3203 | -45.2177 | 2025-08-15 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 466.9 |
+| ec787bf0-7e42-3af7-82bf-d8ba3ee88d8d | -7.4085 | -44.8571 | 2025-08-15 12:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 238.7 |
+| a51c972c-39ac-3041-84a7-31211070a729 | -13.3198 | -45.2409 | 2025-08-15 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 322.4 |
+| 9e612e3b-bc30-3726-ba9d-edb2f6bf8131 | -12.5947 | -46.9301 | 2025-08-15 12:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 87.3 |
+| 3af8dbac-ee64-3e54-9e5d-f60b2659512d | -6.4165 | -44.6008 | 2025-08-15 12:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 79.1 |
+| 56f82026-4b41-36fb-933b-b2ab52a9af10 | -13.3009 | -45.2209 | 2025-08-15 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 104.9 |
+| c7c52c9b-5ad2-381f-8e5e-22f994a337f6 | -13.8937 | -45.561 | 2025-08-15 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 99.5 |
+| fb5455ef-796c-331d-a8ff-0d4e39cb3e69 | -9.1708 | -59.6568 | 2025-08-15 12:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 83.0 |
+| ad4c1be0-b91e-388a-a10e-1d6a25abe2a6 | -7.3896 | -44.8589 | 2025-08-15 12:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 132.7 |
+| 05dff934-c02d-3210-ad30-f279b47134b6 | -7.3894 | -44.8817 | 2025-08-15 12:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 140.6 |
+| 247baf06-0e59-3a59-887f-2d0cbbfcfb77 | -12.5942 | -46.9527 | 2025-08-15 12:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| d8168cf5-4aaa-36a4-b5e5-99c097c44116 | -13.3392 | -45.2377 | 2025-08-15 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 317.7 |
+| 7f0f9c26-c74e-3c54-a486-3c9728fa992b | -7.3894 | -44.8817 | 2025-08-15 12:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 157.5 |
+| 8e310614-b214-384e-acdd-1bb26a8b5632 | -9.1708 | -59.6568 | 2025-08-15 12:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 122.1 |
+| 7a8dc827-9777-368e-8388-cf59472cd5da | -13.3198 | -45.2409 | 2025-08-15 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 357.9 |
+| 716268c8-341c-3617-b18b-8b2f96c41091 | -13.8937 | -45.561 | 2025-08-15 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 118.2 |
+| 9608b524-5301-3cc4-a0c6-dfeaa4b66223 | -6.4165 | -44.6008 | 2025-08-15 12:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 136.6 |
+| ca9bd683-c554-35d8-b3ac-15aef33148f5 | -7.3896 | -44.8589 | 2025-08-15 12:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 126.5 |
+| 768f48e3-5269-36b7-ad89-4813535b11cc | -7.4085 | -44.8571 | 2025-08-15 12:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 388.0 |
+| fd5153e8-fcba-3215-87cd-d5b294c68102 | -5.2647 | -43.582 | 2025-08-15 12:40:00 | GOES-19 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 96.3 |
+| c3738053-7984-36d5-a0af-3728b896c4aa | -8.7382 | -44.0289 | 2025-08-15 12:40:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 83.6 |
+| dfee5f54-0c70-38d7-a4ce-d2943fd59d4e | -12.4973 | -47.0118 | 2025-08-15 12:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| 5eb24e0e-eb3e-3c21-a749-156485f9984f | -12.5942 | -46.9527 | 2025-08-15 12:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 102.1 |
+| 4906d85f-9dd7-3bc7-8591-33766240b4dc | -13.3009 | -45.2209 | 2025-08-15 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 89.0 |
+| 826f3095-81a6-3ca4-b9f7-c06385f6ccaf | -13.3203 | -45.2177 | 2025-08-15 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 462.2 |
+| fa3b159b-8ffa-3353-a4d1-602d0b57765b | -9.1706 | -59.6762 | 2025-08-15 12:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 105.1 |
+| 45929438-984a-316c-aacf-879b57c78fec | -13.3397 | -45.2145 | 2025-08-15 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 408.5 |
+| d5a62415-91a4-33f8-95bf-90f06d3753a0 | -6.8673 | -42.7961 | 2025-08-15 12:40:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 360.9 |
+| 6cc3ace0-ac11-36d4-b735-ab8258e42346 | -13.3392 | -45.2377 | 2025-08-15 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 345.7 |
+| 73ca2b24-1c3c-3458-bc77-c77239f7d3bf | -12.5938 | -46.9753 | 2025-08-15 12:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 91.5 |
+| 875c165a-2dc0-39d7-a53a-13a3ccb82ca2 | -13.3203 | -45.2177 | 2025-08-15 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 393.6 |
+| 3a4be03c-cf2e-38c0-901a-86ab24773b6e | -7.0201 | -44.2966 | 2025-08-15 12:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 79.4 |
+| 647592b4-78b3-3376-9c25-532c7eb83bf1 | -13.3392 | -45.2377 | 2025-08-15 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 381.0 |
+| 33dc0a7d-5d6f-3039-92e5-6bc2c7d1c6e7 | -16.0026 | -48.0914 | 2025-08-15 12:50:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 78.3 |
+| aae3b09c-36d0-3b2f-85f2-cf680ccbe93e | -7.3896 | -44.8589 | 2025-08-15 12:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 190.7 |
+| f5056d18-697d-38db-b11a-a9f18bc1275f | -12.5942 | -46.9527 | 2025-08-15 12:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 207.6 |
+| 225140b9-10f7-3219-b802-cf9c9fc8b5e9 | -13.3009 | -45.2209 | 2025-08-15 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 82.1 |
+| d86727c4-6bae-3e54-8f63-2476c417c929 | -8.7382 | -44.0289 | 2025-08-15 12:50:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 287.9 |
+| f51d1f66-3035-39a3-8d1c-e05caa3cbd6f | -6.4353 | -44.5993 | 2025-08-15 12:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| 75527a20-9b6b-371b-b305-eeb269ff6109 | -5.6946 | -43.6669 | 2025-08-15 12:50:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 92.2 |
+| 5538e0a4-adca-329f-83c6-9e8e3f4ddeec | -12.5947 | -46.9301 | 2025-08-15 12:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 88.9 |
+| e64562fb-2aa7-362e-9232-d3850efea7ed | -12.575 | -46.9555 | 2025-08-15 12:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 85.7 |
+| c9516c80-3c58-3aaf-8fa0-8ef36bff9fb7 | -9.1706 | -59.6762 | 2025-08-15 12:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 96.5 |
+| 3c05c03f-d088-3b79-8920-e1efbc2da5f6 | -13.3397 | -45.2145 | 2025-08-15 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 521.5 |
+| 60263c58-0c28-39be-86a3-07b783be3eaa | -6.8673 | -42.7961 | 2025-08-15 12:50:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 441.4 |
+| 0c0dd815-fd85-312f-93f0-5f5ecc8ca67f | -7.4085 | -44.8571 | 2025-08-15 12:50:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 390.0 |
+| af16776a-5d1a-31ee-8fb5-d81411e28156 | -7.3894 | -44.8817 | 2025-08-15 12:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 306.9 |
+| 1e6e6df2-6412-30b8-baf4-bb3b49c2c64a | -13.8937 | -45.561 | 2025-08-15 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 128.2 |
+| d1341b5a-9990-3337-932b-1497267129e7 | -8.7572 | -44.0267 | 2025-08-15 12:50:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 93.0 |
+| ba6e9c08-703a-390e-86bb-3990a8746af4 | -8.7568 | -44.05 | 2025-08-15 12:50:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 83.8 |
+| e878fb78-402d-3261-b4de-bf1f12a73db5 | -9.1708 | -59.6568 | 2025-08-15 12:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 124.5 |
+| ba47d381-3976-334c-b01f-2da6f290eafe | -6.4165 | -44.6008 | 2025-08-15 12:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 170.2 |
+| dea7058a-949a-30d7-97f1-abf2a07fd428 | -13.3198 | -45.2409 | 2025-08-15 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 289.3 |
+| d15a4a1e-0d99-3dc9-93d5-591e744f199c | -8.7379 | -44.0522 | 2025-08-15 12:50:00 | GOES-19 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 256.1 |
+| d079ce12-9ef9-3677-8523-97cd81488cce | -12.575 | -46.9555 | 2025-08-15 13:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 81.9 |
+| af3cb740-b2f2-3c4e-b4b6-284b438b3854 | -12.5942 | -46.9527 | 2025-08-15 13:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 210.0 |
+| 7db938f1-6ed8-3e88-9585-d633dbd29ef5 | -6.4353 | -44.5993 | 2025-08-15 13:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 122.5 |
+| be750dd6-474a-3952-9bfb-8c179fe91a26 | -6.8673 | -42.7961 | 2025-08-15 13:00:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 400.9 |
+| 18022bed-20fe-3919-b6a3-9d20c9d33251 | -6.4165 | -44.6008 | 2025-08-15 13:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 151.8 |
+| a26f8212-1fb9-343f-8c3b-b7a61d347be4 | -12.5947 | -46.9301 | 2025-08-15 13:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 81.2 |
+| 053658f8-587b-3898-aade-cd953e02e4a2 | -9.1706 | -59.6762 | 2025-08-15 13:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 100.9 |
+| d654258a-4918-37b8-ade6-bbebe0338459 | -13.3397 | -45.2145 | 2025-08-15 13:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 670.8 |
+| a9967aa7-006b-32e3-92e6-a4a55c811548 | -13.4566 | -56.6757 | 2025-08-15 13:00:00 | GOES-19 | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| d1f4f1b0-2ec3-3803-8d44-cd64fc4fdd36 | -5.6946 | -43.6669 | 2025-08-15 13:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 95.8 |
+| 6ab4d845-46d9-39ff-a4c7-7d110639eabd | -13.3198 | -45.2409 | 2025-08-15 13:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 305.0 |
+| 45575fc5-254f-3504-838f-82142cbfaee2 | -12.5938 | -46.9753 | 2025-08-15 13:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 101.8 |
+| 1d780759-d2c8-35b9-8807-1ebdddfa326a | -13.8937 | -45.561 | 2025-08-15 13:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.6 |
+| 445abb98-5728-33ef-a525-de83a6a0f349 | -9.1522 | -59.6578 | 2025-08-15 13:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 68.0 |
+| 8f6df559-0375-39f1-8984-72ac927551ec | -6.435 | -44.6222 | 2025-08-15 13:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| bb83a9ff-469c-35bb-b3be-728ed5b67f83 | -13.3392 | -45.2377 | 2025-08-15 13:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 567.5 |
+| 507a694d-435b-3fab-9707-50cd6091f0a6 | -9.1708 | -59.6568 | 2025-08-15 13:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 111.3 |
+| cf365b2d-1702-3a0a-8802-a134d974b1c9 | -13.3203 | -45.2177 | 2025-08-15 13:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 344.8 |
+| 42314fca-6bab-33d8-acb9-cab8dcd72236 | -12.7856 | -45.9481 | 2025-08-15 13:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 65.7 |
+| b255c1bf-b96a-3485-94d0-d093a07e556e | -6.8673 | -42.7961 | 2025-08-15 13:10:00 | GOES-19 | NAZARÉ DO PIAUÍ | PIAUÍ | Brasil | 2206704 | 22 | 33 | nan | nan | nan | Caatinga | 390.4 |
+| 6c99f7f4-529d-3965-8aaf-5262375f31f8 | -9.152 | -59.6772 | 2025-08-15 13:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 70.7 |
+| 5bc8e521-f21d-3d02-b906-80b27f3fa8dc | -6.4165 | -44.6008 | 2025-08-15 13:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 209.7 |
+| 87ebc267-8d50-3348-9b40-e7b431e399ac | -5.6946 | -43.6669 | 2025-08-15 13:10:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 106.9 |
+| 6131023e-6f2c-3fa3-9e72-4448b0e76ec5 | -12.575 | -46.9555 | 2025-08-15 13:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| a83229bd-fd92-3a3e-affe-209b1f101f80 | -6.4353 | -44.5993 | 2025-08-15 13:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 93.9 |
+| 41acaccb-3687-38a6-a6c1-4ae96d5d9201 | -9.1708 | -59.6568 | 2025-08-15 13:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 149.3 |
+| 229a2d75-a3a8-3bf8-9dbc-3feab5041655 | -12.5938 | -46.9753 | 2025-08-15 13:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 72.5 |
+| 98c54fd2-c81a-3391-ad81-df9f29ed6136 | -16.0026 | -48.0914 | 2025-08-15 13:10:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 73.7 |
+| 7fb72694-92b3-3816-a757-739c2fe96806 | -6.435 | -44.6222 | 2025-08-15 13:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 9a3bb9b2-1c36-3ce0-b28e-3e18fdd70432 | -13.3198 | -45.2409 | 2025-08-15 13:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 315.9 |
+| a25a598e-2b28-3830-8229-c3c0c762317f | -13.3392 | -45.2377 | 2025-08-15 13:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 653.4 |
+| efe88d0e-d995-3e40-9a68-53ab7bcfd717 | -9.1706 | -59.6762 | 2025-08-15 13:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 105.3 |
+| e85e5127-b1c7-3f75-a7ae-ad5331376f6e | -9.1522 | -59.6578 | 2025-08-15 13:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 75.0 |
+| 4d39878b-bd44-3e21-9cb5-08deb5e7aff2 | -12.5942 | -46.9527 | 2025-08-15 13:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 170.7 |
+| b3321d60-7edd-374b-bc93-c4b0f2219ccf | -13.3203 | -45.2177 | 2025-08-15 13:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 383.6 |
+| 6ff2d151-51f6-345b-91fa-523ad27f00af | -12.5947 | -46.9301 | 2025-08-15 13:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 72.5 |
+| df5fcb53-cd83-3677-b35b-4fcee2f44cd2 | -13.4566 | -56.6757 | 2025-08-15 13:10:00 | GOES-19 | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Cerrado | 81.2 |
+| 03fbb965-1d8e-3170-887c-3be0dd5df7bd | -13.3397 | -45.2145 | 2025-08-15 13:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 801.1 |
+| e9bc6555-ade3-3c5f-8c67-0ff30f0035f7 | -9.152 | -59.6772 | 2025-08-15 13:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 84.3 |
+| f91644ad-d5c7-3df9-9914-26b4fe1593eb | -6.4165 | -44.6008 | 2025-08-15 13:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 319.1 |
 
 
 [Clique aqui para ver as próximas entradas](README76.md)
