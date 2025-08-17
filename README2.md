@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| cd27af4e-51eb-3d09-8a9d-dc4c93eac2b5 | -6.5541 | -43.032501 | 2025-08-16 00:02:00 | METOP-C | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| fd17ef22-0383-3f30-bc1b-130afc9fbfa1 | -3.8278 | -47.7281 | 2025-08-16 00:02:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1fb3f8ad-cd3a-321a-8811-db3da372caa1 | -11.9336 | -44.125301 | 2025-08-16 00:02:00 | METOP-C | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| ef332afa-997a-320e-a25c-a9ee300ae603 | -13.4178 | -43.685299 | 2025-08-16 00:02:00 | METOP-C | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| ec8dcf8f-d579-3e23-96da-6b10fdcef2aa | -11.4148 | -44.6721 | 2025-08-16 00:02:00 | METOP-C | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 06afb9ea-58ea-3dd6-b368-e08897e896ac | -12.8155 | -45.9911 | 2025-08-16 00:02:00 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 05f32d73-68d2-3299-b18d-c822ab6f0c32 | -7.4042 | -44.885101 | 2025-08-16 00:02:00 | METOP-C | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ed625656-6cd7-32d7-91b2-cc159c6ce8b7 | -4.9194 | -43.241501 | 2025-08-16 00:02:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b387a77c-2f16-38d5-bad4-400fc441101e | -11.9306 | -44.1101 | 2025-08-16 00:02:00 | METOP-C | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| fb55e6f9-feae-316f-b79b-d5da8e475b76 | -3.9833 | -43.2304 | 2025-08-16 00:02:00 | METOP-C | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3490d319-ea52-3fea-b8f0-84a531954407 | -2.3716 | -47.633301 | 2025-08-16 00:02:00 | METOP-C | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 77bca7a2-ecf3-31f0-9a67-e8c1939e9464 | -3.8233 | -47.708 | 2025-08-16 00:02:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3c2936d6-2eb1-3d44-a92d-bb868445e3ec | -14.59 | -47.903198 | 2025-08-16 00:02:00 | METOP-C | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| ee537cb0-446d-39f0-a602-5adc7327eff3 | -12.5869 | -46.901699 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 49031b2f-6695-380f-9c99-caff475b6610 | -6.6696 | -43.749298 | 2025-08-16 00:02:00 | METOP-C | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 33c4fd45-046f-3d63-af92-8ec6c8903f9d | -4.9142 | -43.2645 | 2025-08-16 00:02:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 97e24031-e4f3-3d77-a4c3-49222e8b89a7 | -13.4247 | -43.6684 | 2025-08-16 00:02:00 | METOP-C | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 5c77753f-fbbf-3f97-9e33-f12bd379674e | -3.8181 | -47.730202 | 2025-08-16 00:02:00 | METOP-C | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1dc2dc95-edc7-3845-84a2-97ebb0cc7a84 | -5.7532 | -46.6772 | 2025-08-16 00:02:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 0c6eb86c-8c27-32a8-81f5-61f2a2c3304f | -6.6722 | -43.7612 | 2025-08-16 00:02:00 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ace6086c-1e35-342c-9e28-8f0ab8e68eef | -12.5671 | -46.955799 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3ad33cc6-8687-3c8b-b8af-abf324b40ba4 | -7.3812 | -44.920399 | 2025-08-16 00:02:00 | METOP-C | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| dfd1f8f1-3e53-3637-a95d-b6c10727cbc1 | -12.5624 | -46.9314 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ff27c789-6e3e-3dc7-a20a-596f073292d5 | -12.5966 | -46.899799 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 816b3756-576d-3c66-b6cc-069d438a78ba | -14.605 | -47.9319 | 2025-08-16 00:02:00 | METOP-C | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 88accab0-c1d1-34a9-93c3-1eba789c4860 | -9.1725 | -45.314899 | 2025-08-16 00:02:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 590a37e7-2452-3ee5-85e6-c31ad14c9ebf | -12.6058 | -46.948399 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6e31fc30-cb46-386f-9e10-794d117b599a | -5.1986 | -46.090199 | 2025-08-16 00:02:00 | METOP-C | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 4704762c-2726-3eab-85a5-e0516c776b30 | -5.2636 | -36.181301 | 2025-08-16 00:02:00 | METOP-C | GALINHOS | RIO GRANDE DO NORTE | Brasil | 2404101 | 24 | 33 | nan | nan | nan | Caatinga | nan |
-| 5d203897-68f5-36bd-bd2c-117013f8a554 | -12.8195 | -46.012199 | 2025-08-16 00:02:00 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 0e4d95cf-c36b-345b-99c2-246eef0c07a0 | -2.3801 | -47.671101 | 2025-08-16 00:02:00 | METOP-C | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 164648ad-25a1-3cfa-8e81-4ce640c94d8c | -12.5915 | -46.9259 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9f504475-59f1-3b7e-98fd-7607649da834 | -3.9855 | -43.240501 | 2025-08-16 00:02:00 | METOP-C | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 03e3678e-0334-3ff4-b76f-4c8977d4e4f6 | -3.77 | -39.192799 | 2025-08-16 00:02:00 | METOP-C | PENTECOSTE | CEARÁ | Brasil | 2310704 | 23 | 33 | nan | nan | nan | Caatinga | nan |
-| 6ab8c02a-1996-35fc-b5c2-b8b875ae947d | -5.759 | -46.657001 | 2025-08-16 00:02:00 | METOP-C | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e2dea3e5-1476-38ca-b111-5412653fbd2b | -13.649 | -44.192699 | 2025-08-16 00:02:00 | METOP-C | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 3d4fa100-2921-3a06-9b8e-74b8f45d09a9 | -6.9278 | -43.008499 | 2025-08-16 00:02:00 | METOP-C | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 6bd7973b-3ef1-3184-98b4-642e0124f419 | -12.5961 | -46.950298 | 2025-08-16 00:02:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2a7ebabe-885b-37ee-92b6-fcdfa19066fc | -4.9096 | -43.243599 | 2025-08-16 00:02:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 856dd0ad-32f0-3fe4-88f8-3048ac58d37e | -13.6522 | -44.209099 | 2025-08-16 00:02:00 | METOP-C | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 7d185152-885d-3528-b339-df42d1e22d39 | -4.9119 | -43.254002 | 2025-08-16 00:02:00 | METOP-C | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 58a3a808-bbd0-3fa0-b24f-878ab7a236b4 | -5.762 | -46.6741 | 2025-08-16 00:10:00 | GOES-19 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 61.3 |
-| b24fc0da-3a65-343a-b571-b511d633d0f7 | -9.2082 | -59.6354 | 2025-08-16 00:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 68.1 |
-| 638f5739-6f79-3e4d-b972-d2034d8f4d86 | -9.0531 | -67.4265 | 2025-08-16 00:10:00 | GOES-19 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 56.3 |
-| 3be4815f-541b-31b1-b62d-0a30f0606053 | -14.9628 | -54.7351 | 2025-08-16 00:10:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 70.9 |
-| c9dec3e0-a532-36b0-b22c-57682d93319b | -9.0346 | -67.427 | 2025-08-16 00:10:00 | GOES-19 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 62.2 |
-| 8a037ddd-ba84-3d16-9b50-d3b84610375d | -6.5638 | -43.0357 | 2025-08-16 00:10:00 | GOES-19 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 69.9 |
-| f8d29cef-f5b8-36b5-bf45-992b663ec722 | -13.4294 | -43.6733 | 2025-08-16 00:10:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| dc8faf11-0f03-371c-b9dc-4ee697523d6e | -11.3466 | -55.4326 | 2025-08-16 00:10:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 117.0 |
-| 47f01b12-0abf-39c8-a5e1-a7b56d333afa | -7.0404 | -59.6222 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 86.2 |
-| befad394-5fff-394f-b584-6507e4f73277 | -11.2593 | -50.4981 | 2025-08-16 00:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 87.2 |
-| 4495634f-8136-3398-9048-bc40dc7abaf5 | -6.6142 | -60.0039 | 2025-08-16 00:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 54.6 |
-| 3acd8f34-edda-3f6b-b0d2-c92a45ea614a | -4.9305 | -43.2558 | 2025-08-16 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 76.4 |
-| 9eabda77-238a-3fa2-b0dc-4f68d2655f24 | -7.9333 | -61.7471 | 2025-08-16 00:10:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 78.6 |
-| abcfd107-a2ae-37fd-8354-73452ebcdc4c | -13.4099 | -43.6768 | 2025-08-16 00:10:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 66.3 |
-| 8141c796-778a-37f8-b80e-b3c907d95fb5 | -9.518 | -60.5268 | 2025-08-16 00:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 84.4 |
-| 0b432bc5-32db-3bbb-9206-3c2b668638df | -7.4258 | -60.0292 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| 9dda8489-298a-3219-bf33-28f011fcace9 | -4.9116 | -43.2803 | 2025-08-16 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 86.3 |
-| 3d31061e-aced-3f3c-ac9b-9c931f551b30 | -6.6326 | -60.0224 | 2025-08-16 00:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 78.4 |
-| 34a1ec0d-9a05-3dc7-9719-06f98c6f3eaf | -7.0796 | -59.2351 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 93.6 |
-| a1e60bd6-60f5-3968-b610-a7bec9c73ab2 | -7.0981 | -59.2343 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 60.2 |
-| 5e50cf8d-76e9-3f78-b248-bb3835b5f522 | -13.1265 | -57.1494 | 2025-08-16 00:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 93.7 |
-| b6cad0bd-06db-3c1e-993a-2fa971daa4e0 | -6.7811 | -59.8249 | 2025-08-16 00:10:00 | GOES-19 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 51.7 |
-| 1410bee3-1220-36a3-9209-e27f0fcf4fc7 | -2.3763 | -47.6636 | 2025-08-16 00:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 34.7 |
-| 8eeab21b-0ccc-3bc2-af1b-974c2cd8450c | -9.1711 | -59.618 | 2025-08-16 00:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 79.7 |
-| f9cd6713-6f31-3f6f-b74f-61e4a4e92194 | -9.1708 | -59.6568 | 2025-08-16 00:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 132.5 |
-| d926feb2-8c8a-3cf8-a689-2382c680ef54 | -6.9296 | -59.646 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| 67d24636-ffcb-3b0b-b847-60e0a26a3966 | -9.5179 | -60.5461 | 2025-08-16 00:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 89.3 |
-| 884677f8-dcaf-382c-8a0e-a1e8fe41a485 | -7.9149 | -61.7288 | 2025-08-16 00:10:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 139.8 |
-| ad571c6f-ac11-32ca-b207-e26bfe978029 | -9.4992 | -60.547 | 2025-08-16 00:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 107.0 |
-| 13c71246-3014-39c1-bf62-338ace8bded7 | -9.1523 | -59.6384 | 2025-08-16 00:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 87.6 |
-| 2d97634d-e74c-359d-be1b-5fb3a779de93 | -13.1077 | -57.131 | 2025-08-16 00:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 174.6 |
-| 2b100a0f-b47d-3928-8b37-e5031f734fd0 | -6.9481 | -59.6452 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 49.2 |
-| adb1c261-4a04-3c68-b123-cc4d7b882b6e | -14.9438 | -54.7166 | 2025-08-16 00:10:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 127.3 |
-| 68a7e044-42d8-3d18-a75c-602dd682beb2 | -7.0589 | -59.6215 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.1 |
-| 9c296b33-0953-3030-8a07-463e5a9923be | -14.9441 | -54.6959 | 2025-08-16 00:10:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 96.1 |
-| a0286c1e-b182-3c06-a445-2801360a1689 | -7.0797 | -59.2157 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.2 |
-| 1cbafe07-b7bc-3aef-a3c9-5ebcbddea830 | -13.1267 | -57.1293 | 2025-08-16 00:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 199.1 |
-| 64da1604-120b-3d0d-a722-5de7af779c27 | -9.1709 | -59.6374 | 2025-08-16 00:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 176.8 |
-| 51073cb3-f45f-3ab8-8c5e-40f4cca65a87 | -7.9148 | -61.7478 | 2025-08-16 00:10:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 169.9 |
-| f5b3693a-c153-327a-a4ab-6c2b091dec4e | -4.9118 | -43.257 | 2025-08-16 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 183.6 |
-| 5aca47b0-e6cf-3947-bcb1-87089016c953 | -7.8247 | -61.3327 | 2025-08-16 00:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 133.9 |
-| 4ba10d94-b0aa-3f4d-aed8-0cbe4f10d8a7 | -14.9632 | -54.7143 | 2025-08-16 00:10:00 | GOES-19 | PRIMAVERA DO LESTE | MATO GROSSO | Brasil | 5107040 | 51 | 33 | nan | nan | nan | Cerrado | 88.6 |
-| 58721190-acca-3fa3-af0a-c4db0db76783 | -7.0612 | -59.2358 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 73.7 |
-| b96f907b-67f6-3ef2-8363-1a6a51e19eb3 | -6.7995 | -59.8242 | 2025-08-16 00:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 73.9 |
-| 2447e11f-b823-36a1-ac2d-26c401133ad7 | -17.615 | -46.684 | 2025-08-16 00:10:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| a4b8bcf0-5e75-3eca-9ea5-09ffc69f719a | -9.4994 | -60.5278 | 2025-08-16 00:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 101.6 |
-| b0b85d17-2fa4-3f2b-a5bb-f95594393136 | -7.8963 | -61.7485 | 2025-08-16 00:10:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 73.0 |
-| 4bf2fc70-453c-3545-8004-3041341f147f | -11.2596 | -50.4767 | 2025-08-16 00:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 95.5 |
-| 03510294-4ea0-337f-bbc8-20118c578be7 | -13.1074 | -57.1511 | 2025-08-16 00:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 87.1 |
-| a5fd82d7-b881-356f-a532-0666724f85ad | -14.9635 | -54.6936 | 2025-08-16 00:10:00 | GOES-19 | PRIMAVERA DO LESTE | MATO GROSSO | Brasil | 5107040 | 51 | 33 | nan | nan | nan | Cerrado | 44.9 |
-| 62b2bdb1-2745-3059-8925-6cb0bb0918b5 | -18.5325 | -50.7384 | 2025-08-16 00:10:00 | GOES-19 | QUIRINÓPOLIS | GOIÁS | Brasil | 5218508 | 52 | 33 | nan | nan | nan | Cerrado | 65.8 |
-| 0b7fe46e-e9b2-383f-b8f6-fa2d346b0a3c | -11.3655 | -55.431 | 2025-08-16 00:10:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 52.6 |
-| 018709f4-4825-3a9d-89bc-e1bf22c236aa | -7.5292 | -61.3254 | 2025-08-16 00:10:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 67.5 |
-| d5715b7a-1237-3713-a732-45a7a1e5c834 | -7.8248 | -61.3137 | 2025-08-16 00:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 65.1 |
-| 9799e1cd-3eaf-3803-9186-b510a19de090 | -6.6327 | -60.0033 | 2025-08-16 00:10:00 | GOES-19 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 111.9 |
-| 168b3eb0-3306-3ac9-b7ae-c4029a7b0bbe | -9.208 | -59.6548 | 2025-08-16 00:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 65.1 |
-| c7f945b7-29ed-3e8c-977e-5ab0b930fb7a | -3.8209 | -47.7444 | 2025-08-16 00:10:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 110.6 |
-| a4c946b6-0670-3802-be54-9f4008be61b5 | -11.3468 | -55.4124 | 2025-08-16 00:10:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 60.7 |
-| 3f80e1ee-3e3b-3a9a-872c-59b46d442f65 | -9.4994 | -60.5278 | 2025-08-16 00:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 102.2 |
+| e22b7890-0437-3821-ac0e-3b97be95c79e | -22.7684 | -49.110901 | 2025-08-17 00:26:00 | METOP-B | IARAS | SÃO PAULO | Brasil | 3519253 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 773d1440-4a24-34a5-bacc-1881118c7ea6 | -9.1786 | -59.626499 | 2025-08-17 00:26:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| da47477d-a276-39f5-b6b4-d4494a6e6dd4 | -14.6302 | -54.8792 | 2025-08-17 00:26:00 | METOP-B | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| ff96babf-36f1-3027-9d31-65d7bd8c1ab2 | -13.4343 | -45.882599 | 2025-08-17 00:26:00 | METOP-B | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| a64e66a4-df2a-36f3-ad5a-4e2fad730bfd | -9.5017 | -60.524601 | 2025-08-17 00:26:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b8f1d6c7-3168-335c-bd7b-79679baa6fdf | -12.5402 | -46.931301 | 2025-08-17 00:26:00 | METOP-B | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a1a85f33-60ed-3559-8d1c-d9afe0eb0d43 | -7.1129 | -46.109402 | 2025-08-17 00:26:00 | METOP-B | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4891f58e-668c-3cfd-a736-4b34888af2f9 | -13.4369 | -45.893398 | 2025-08-17 00:26:00 | METOP-B | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| b15c2cf6-99ef-329b-960f-94aee957e23f | -7.1098 | -46.0965 | 2025-08-17 00:26:00 | METOP-B | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 7a23529f-a4f8-3e3e-ab1f-37042540e62d | -12.55 | -46.928902 | 2025-08-17 00:26:00 | METOP-B | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c39c56c5-4d62-32de-8a22-2bcf365a6427 | -9.5114 | -60.522598 | 2025-08-17 00:26:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 81dc3491-7242-39e2-a9de-48496daa1ff1 | -10.4477 | -55.416801 | 2025-08-17 00:26:00 | METOP-B | NOVA GUARITA | MATO GROSSO | Brasil | 5108808 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8a7953d1-60e0-38d3-a2fc-c1d5176ce7f7 | -15.1815 | -48.770802 | 2025-08-17 00:26:00 | METOP-B | VILA PROPÍCIO | GOIÁS | Brasil | 5222302 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 288305d3-99a4-364a-85e6-b0494622e925 | -8.7488 | -44.037201 | 2025-08-17 00:26:00 | METOP-B | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 2f1baf93-53ec-34ee-9ba6-d58065b4c4d3 | -4.776 | -45.320499 | 2025-08-17 00:26:00 | METOP-B | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 15999bb9-e012-32e5-b15c-4b8e6815f0e9 | -14.084 | -54.061798 | 2025-08-17 00:26:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| be8eddb8-66bf-3b3f-92cd-b35361c6aecd | -11.3631 | -55.389801 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d41665e5-04bb-3cca-a2e3-b42741bb47c6 | -14.9712 | -54.748501 | 2025-08-17 00:26:00 | METOP-B | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2c6db39b-5d2c-3cea-8c36-54a1556e6850 | -10.1155 | -57.743999 | 2025-08-17 00:26:00 | METOP-B | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ceaa0613-6d66-3b85-a89b-382e9824606f | -10.8275 | -45.318199 | 2025-08-17 00:26:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e9dd72c1-5924-34b4-af58-cf1119d464e1 | -13.5739 | -46.976398 | 2025-08-17 00:26:00 | METOP-B | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 05009c6b-d690-39ac-9d12-77b64f7f522f | -6.1904 | -45.4375 | 2025-08-17 00:26:00 | METOP-B | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| edf599f5-c745-35d5-908c-08d75e7ac65f | -14.5973 | -47.9417 | 2025-08-17 00:26:00 | METOP-B | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| f093a090-a369-36ed-ab9a-61a46d5b47ef | -11.4286 | -52.206001 | 2025-08-17 00:26:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b2885fbd-e76f-355c-a6c7-dbe2f494d6a5 | -14.0875 | -54.078701 | 2025-08-17 00:26:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 0a81a447-2742-3366-a703-1dacba192e80 | -6.54 | -43.0396 | 2025-08-17 00:26:00 | METOP-B | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a9d771e0-18af-3cd6-a5b2-377119ea149a | -9.7665 | -48.739101 | 2025-08-17 00:26:00 | METOP-B | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 10fbe82c-ce95-3b37-ac65-fbcc201b3825 | -9.6944 | -46.259102 | 2025-08-17 00:26:00 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| bd1ac331-557d-32a6-b22f-d9641fbb229d | -4.0701 | -48.041698 | 2025-08-17 00:26:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ac9ccdf5-5fe7-32c3-ac24-6c52412e50b1 | -12.1402 | -47.900799 | 2025-08-17 00:26:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 178bfb0e-b3e3-3446-b927-0ee374e87c3b | -23.3083 | -50.072201 | 2025-08-17 00:26:00 | METOP-B | SANTO ANTÔNIO DA PLATINA | PARANÁ | Brasil | 4124103 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 78a464d3-0644-373c-aaed-abb54b08c88c | -14.5521 | -48.5919 | 2025-08-17 00:26:00 | METOP-B | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 141fff49-3cde-3992-bab3-e315f662c495 | -11.092 | -44.7999 | 2025-08-17 00:26:00 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| ce6f2b5a-f356-3f8f-8954-23b57fe0e8bb | -14.9248 | -54.6712 | 2025-08-17 00:26:00 | METOP-B | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 8f4e1534-4084-38d1-81e5-8d43abac722d | -15.1798 | -48.763199 | 2025-08-17 00:26:00 | METOP-B | VILA PROPÍCIO | GOIÁS | Brasil | 5222302 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 10ab2da0-1d89-3738-8378-00f1d343a0c4 | -19.482401 | -44.751202 | 2025-08-17 00:26:00 | METOP-B | PAPAGAIOS | MINAS GERAIS | Brasil | 3146909 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 99add7aa-d0b3-3956-abd6-1e8ccddb0500 | -9.5175 | -60.502602 | 2025-08-17 00:26:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| efd30648-7c66-33b9-af21-f0af00705dd7 | -25.183701 | -50.076 | 2025-08-17 00:26:00 | METOP-B | PONTA GROSSA | PARANÁ | Brasil | 4119905 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| d3321c67-be4c-3b98-86d0-5f3806e9a36b | -13.5642 | -46.978901 | 2025-08-17 00:26:00 | METOP-B | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| c6bf1533-2941-3cc3-b5ba-a9738a9ac2eb | -10.8403 | -45.328701 | 2025-08-17 00:26:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 28e1d012-b5f2-3c25-a3dd-4739d7f2a658 | -16.493799 | -45.111 | 2025-08-17 00:26:00 | METOP-B | PONTO CHIQUE | MINAS GERAIS | Brasil | 3152131 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 4b15540e-737d-3352-98ab-629d564b56f1 | -14.3625 | -47.033401 | 2025-08-17 00:26:00 | METOP-B | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 3bc246ae-1f35-3b87-98ae-42aaf75f0e69 | -6.0768 | -44.625801 | 2025-08-17 00:26:00 | METOP-B | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| eb5293e7-034b-3e8a-b68a-e08a31ee605a | -8.8055 | -52.073101 | 2025-08-17 00:26:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 12ac03f6-8325-309f-9b88-ac408994983e | -6.1413 | -57.922798 | 2025-08-17 00:26:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a7168b33-e134-332f-a9ea-819054ef6546 | -13.0126 | -42.316101 | 2025-08-17 00:26:00 | METOP-B | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 82e97f30-af70-3829-9278-6b65bcaec49f | -8.0382 | -47.659698 | 2025-08-17 00:26:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 01ba0fd9-5c27-3fcc-bdb0-83863ecbc5db | -11.3649 | -55.3988 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c7e33b26-6c05-3a84-be1f-7c117c536978 | -10.3202 | -54.1474 | 2025-08-17 00:26:00 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 92b4cd6e-26d2-3541-8586-1cf4b5beb472 | -9.7685 | -48.747398 | 2025-08-17 00:26:00 | METOP-B | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ed84c4a7-57e1-3497-bf89-755cbf96ab16 | -9.5041 | -60.486301 | 2025-08-17 00:26:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| beb80861-670b-3e5a-8174-8d7e74daa691 | -9.7704 | -48.755798 | 2025-08-17 00:26:00 | METOP-B | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1117a42d-f51e-306e-a210-d1676c9b18a4 | -10.3219 | -54.155102 | 2025-08-17 00:26:00 | METOP-B | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 25c0beac-f3c7-3540-8874-4a5b13034c15 | -8.819 | -52.0411 | 2025-08-17 00:26:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b33767cd-7e22-3d23-9795-1fd506a867cd | -15.1895 | -48.760799 | 2025-08-17 00:26:00 | METOP-B | VILA PROPÍCIO | GOIÁS | Brasil | 5222302 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 97f0b953-dfe1-301d-a052-7718ac168543 | -14.9693 | -54.739201 | 2025-08-17 00:26:00 | METOP-B | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 60977dd6-1ee1-344c-8f39-19725fe498a2 | -8.4976 | -44.73 | 2025-08-17 00:26:00 | METOP-B | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 0fc9c47a-d219-3db8-9f3a-948a9c205ada | -12.5546 | -46.948299 | 2025-08-17 00:26:00 | METOP-B | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f9f4d60c-02fb-3e8c-9ec0-5d1b969022a2 | -20.8241 | -44.514301 | 2025-08-17 00:26:00 | METOP-B | OLIVEIRA | MINAS GERAIS | Brasil | 3145604 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 21536941-9584-3ded-bbb9-7e4546324822 | -11.3785 | -55.414799 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 861408bd-c465-3765-9d34-5a0cdc24b448 | -11.3593 | -55.3717 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 92ebc22a-5c72-3b32-9751-d3c305f646f4 | -14.0857 | -54.070202 | 2025-08-17 00:26:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| cdd1f6d5-35b8-31ac-94fc-9cc088950f3c | -13.0174 | -42.334801 | 2025-08-17 00:26:00 | METOP-B | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 64205c00-2941-39e9-8c88-cc82bc92e0e8 | -20.483801 | -49.344101 | 2025-08-17 00:26:00 | METOP-B | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 38cf1578-c90a-317c-9feb-cc56c831636c | -6.1389 | -57.911999 | 2025-08-17 00:26:00 | METOP-B | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 807a72f3-9d6f-32ba-845a-26989957beda | -13.5951 | -47.763802 | 2025-08-17 00:26:00 | METOP-B | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 57530ca1-5268-3354-8730-35f7832a906d | -14.9614 | -54.750599 | 2025-08-17 00:26:00 | METOP-B | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 95cd30e0-cb40-3c78-b41c-9c2fef8f907e | -11.3687 | -55.416901 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 78c374b8-6d01-39b3-8425-31014cfa1268 | -8.0406 | -47.6698 | 2025-08-17 00:26:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 96e4c5c3-16cc-3640-94d0-31a6285f369f | -8.9864 | -60.478298 | 2025-08-17 00:26:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 19f89d88-2b6e-39b0-b1b8-288fd982aaa6 | -6.1807 | -45.439899 | 2025-08-17 00:26:00 | METOP-B | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ec7f7294-c215-3a97-b8ca-78f60fcc49e9 | -11.3551 | -55.400799 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4e578c6c-7de3-35ca-8c6a-ccabe3233b6b | -2.9008 | -51.472801 | 2025-08-17 00:26:00 | METOP-B | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9e069e8a-efa6-3c82-87ca-9812576c24a7 | -9.5078 | -60.504501 | 2025-08-17 00:26:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 26f4466f-f01e-3d29-b313-8c4dba5d817e | -20.292299 | -46.044899 | 2025-08-17 00:26:00 | METOP-B | BAMBUÍ | MINAS GERAIS | Brasil | 3105103 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| c62890ee-6784-31b2-9d25-15e1acfdc2b0 | -11.3491 | -55.421001 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 12969ad2-a82f-3440-98a1-c051bb839de0 | -8.9767 | -60.480202 | 2025-08-17 00:26:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1afc420d-ab62-3bcc-b523-4f9ed9aaf86f | -14.9354 | -47.0522 | 2025-08-17 00:26:00 | METOP-B | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| bf050931-886a-3167-9e94-163f1d95dd32 | -6.5496 | -43.037201 | 2025-08-17 00:26:00 | METOP-B | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 4d36a843-a803-3c57-a552-b0d009126482 | -4.9139 | -43.255299 | 2025-08-17 00:26:00 | METOP-B | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| acc00049-45ff-3db5-8002-b543d6bcef42 | -13.1644 | -55.701599 | 2025-08-17 00:26:00 | METOP-B | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f64422ff-2bee-32e3-b0b9-c7215b416f92 | -11.8583 | -48.1954 | 2025-08-17 00:26:00 | METOP-B | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ebcd149a-dc68-3583-ac6d-2886f2a71fd1 | -12.616 | -46.902302 | 2025-08-17 00:26:00 | METOP-B | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bceca189-1be7-337f-9c36-21646b1207ea | -14.9791 | -54.737099 | 2025-08-17 00:26:00 | METOP-B | CAMPO VERDE | MATO GROSSO | Brasil | 5102678 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f742159d-498b-3538-8721-83a5fd9261a9 | -13.5853 | -47.766201 | 2025-08-17 00:26:00 | METOP-B | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 59709f13-2ec9-3f8e-857f-7f5b26bebedb | -4.9183 | -43.230801 | 2025-08-17 00:26:00 | METOP-B | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| b5f7edab-14ad-360a-b54e-da725398c8be | -11.3533 | -55.3918 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| dc9df147-9ded-3ff9-8a5f-7c654e9dfa97 | -8.0359 | -47.6497 | 2025-08-17 00:26:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fc59f86c-e917-3bba-bbae-7be5f4c7687d | -11.3668 | -55.407799 | 2025-08-17 00:26:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7f8901fa-6523-3efd-bb5a-731e0963f997 | -10.834 | -45.303001 | 2025-08-17 00:26:00 | METOP-B | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 0bcb2b84-7ef9-35c1-9d62-c558f5a970f0 | -6.175 | -47.273899 | 2025-08-17 00:26:00 | METOP-B | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 09fbd4bd-3145-36b6-842a-3227a1bea85f | -14.1836 | -45.310902 | 2025-08-17 00:26:00 | METOP-B | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| c5141d68-d9db-3dcf-b979-d49090ce26b3 | -14.3647 | -47.0424 | 2025-08-17 00:26:00 | METOP-B | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 8d56bd48-8740-3e5d-8fdc-b5ee9427db23 | -13.6288 | -46.903198 | 2025-08-17 00:26:00 | METOP-B | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| aa0adaec-8480-308e-8ce4-206c66b32e21 | -8.0285 | -47.661999 | 2025-08-17 00:26:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 8de35deb-b5a4-3ce8-b39d-fd8716d17b87 | -4.9193 | -43.277302 | 2025-08-17 00:26:00 | METOP-B | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1fd71e8f-7c88-341e-bfe9-f413c70c47ae | -14.9772 | -54.727798 | 2025-08-17 00:26:00 | METOP-B | CAMPO VERDE | MATO GROSSO | Brasil | 5102678 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 8e910ac7-bea1-3aec-b645-f413921fed81 | -20.482201 | -49.3368 | 2025-08-17 00:26:00 | METOP-B | NOVA GRANADA | SÃO PAULO | Brasil | 3533007 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 9fb763eb-bcb9-37b9-a319-5bd2b6f40e3c | -13.5931 | -47.755299 | 2025-08-17 00:26:00 | METOP-B | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d1fdcbed-6615-357e-8c4e-19c7afea6d78 | -6.5347 | -43.018101 | 2025-08-17 00:26:00 | METOP-B | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
