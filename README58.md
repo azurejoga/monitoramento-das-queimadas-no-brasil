@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 5ec8fafb-d590-3829-9602-f079dda52b0a | -10.821 | -43.2903 | 2025-08-20 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 50.3 |
-| 6b88557d-92df-3561-83a4-b0abc9822262 | -10.8214 | -43.2665 | 2025-08-20 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 46.9 |
-| 68ab6a6f-66c2-34dc-9df5-f3730efa18b8 | -20.339 | -51.7062 | 2025-08-20 06:50:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 56.7 |
-| 627c8b6f-2e89-3ae0-95c2-482e08d3eb1e | -10.7043 | -48.2226 | 2025-08-20 07:00:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 59.3 |
-| a2c393af-7569-3568-9dd9-dc0aad053e00 | -20.339 | -51.7062 | 2025-08-20 07:00:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| afb99d1f-481e-3d5f-afc7-4c88eaaf3c45 | -13.1555 | -54.9357 | 2025-08-20 07:10:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 38.5 |
-| 3b881780-d1d8-3fb3-8c72-be88efa418c6 | -13.1558 | -54.9151 | 2025-08-20 07:10:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 35.3 |
-| 84320590-efdc-3436-beb5-7f1125841348 | -11.6002 | -50.5454 | 2025-08-20 07:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 76.0 |
-| 4046a438-756a-39e6-aac9-abafa9fc2f43 | -10.7043 | -48.2226 | 2025-08-20 07:10:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 71.0 |
-| 482b45aa-ac1d-3601-b77f-81345e9ad5fb | -11.6006 | -50.524 | 2025-08-20 07:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| 37446922-5588-3d07-ae0b-54aae407d389 | -10.6853 | -48.2248 | 2025-08-20 07:20:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 58.7 |
-| 38451986-5d0c-3fbe-beca-2261a18e06f6 | -10.7043 | -48.2226 | 2025-08-20 07:20:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| b3d7abcb-6455-3520-9431-c845a03bf3a1 | -10.7043 | -48.2226 | 2025-08-20 07:30:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 48845787-468b-3fad-a593-edc23e0a2537 | -10.6853 | -48.2248 | 2025-08-20 07:30:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 969e8f31-c248-3845-a459-8b26af8813da | -8.55925 | -66.93926 | 2025-08-20 07:39:00 | AQUA_M-M | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 16.7 |
-| 3e1e8a5d-ea12-34dd-90c5-29a3f2dd9d4b | -10.6853 | -48.2248 | 2025-08-20 07:40:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| 0bdee809-215c-3485-99c9-9608c2efd9f7 | -10.7043 | -48.2226 | 2025-08-20 08:00:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 88.2 |
-| c3d468fd-9f5e-3ffb-a406-d3358cc6f35e | -10.6853 | -48.2248 | 2025-08-20 08:00:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 73.2 |
-| 6dfd0cab-88d6-3905-b304-2936219cffcc | -15.426 | -46.7178 | 2025-08-20 08:40:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 39.9 |
-| c92192ce-2c9c-3baf-9452-418a4178255b | -13.1555 | -54.9357 | 2025-08-20 08:50:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 39.8 |
-| e5520197-1249-3ec2-8d8c-cf8521397abe | -13.1364 | -54.9376 | 2025-08-20 08:50:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 46.3 |
-| 2eb5aaf3-71cf-3351-80d3-2661f490c3ed | -13.8743 | -45.5643 | 2025-08-20 09:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 119.7 |
-| 1cddc65b-9dbf-3c82-a8f5-c544340915e4 | -13.8748 | -45.5411 | 2025-08-20 09:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 165.3 |
-| dacc11a2-eb6c-32d5-a68b-8257f6163c4c | -13.8743 | -45.5643 | 2025-08-20 09:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 127.5 |
-| 74927cd0-5fd4-3024-8129-80849c8c3dc8 | -13.8748 | -45.5411 | 2025-08-20 09:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 169.0 |
-| 77d3c6ef-3da9-3162-ace9-89a47ce68b86 | -13.8748 | -45.5411 | 2025-08-20 09:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 154.0 |
-| ad765cda-d2ce-395b-b4ec-da807f4b9b9a | -13.8743 | -45.5643 | 2025-08-20 09:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 108.5 |
-| e48cdf69-173b-3018-b11e-8afe239e9808 | -13.8553 | -45.5444 | 2025-08-20 09:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 147.8 |
-| 6be15416-c944-38b8-a155-d4a4e1484412 | -13.8553 | -45.5444 | 2025-08-20 09:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 191.9 |
-| 0cac990a-d847-3e57-aace-ee03d070f051 | -13.8748 | -45.5411 | 2025-08-20 09:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 162.4 |
-| 4f6a78c0-9ca6-3af3-ac6e-f567bc1bb3e4 | -13.8743 | -45.5643 | 2025-08-20 10:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 117.8 |
-| fb9b5b80-9ada-336e-879c-1207c9c2f373 | -13.8553 | -45.5444 | 2025-08-20 10:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 174.3 |
-| b50a4f2c-fffc-3812-ab49-ca0bbbfb3fd4 | -13.8748 | -45.5411 | 2025-08-20 10:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 183.0 |
-| d7015ef0-16e7-3b2d-ae79-8e90df81273c | -13.8748 | -45.5411 | 2025-08-20 10:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 178.4 |
-| 638ac9aa-40b6-3709-a032-b51397c03817 | -13.8553 | -45.5444 | 2025-08-20 10:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 194.2 |
-| 9dfe8ec7-3cb6-379e-915a-bf69c3eec1bb | -13.8743 | -45.5643 | 2025-08-20 10:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 104.9 |
-| 768e70e7-9c17-3c33-bd34-7ffaa78fe656 | -13.8743 | -45.5643 | 2025-08-20 10:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 113.0 |
-| adc35ccd-d2ab-3fea-b341-1f6febb7ad00 | -13.8553 | -45.5444 | 2025-08-20 10:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 193.0 |
-| ab355373-d340-3597-9a2e-d68f49e97567 | -13.8748 | -45.5411 | 2025-08-20 10:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 174.6 |
-| e1db3796-f9a3-32ab-9e97-e8eb04b80ef2 | -13.8743 | -45.5643 | 2025-08-20 10:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 109.6 |
-| 024f9cb6-f494-324b-8659-e8a58984787b | -13.8748 | -45.5411 | 2025-08-20 10:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 168.0 |
-| 61bcb6cb-146a-3da3-bd59-0638af55c0f9 | -13.8553 | -45.5444 | 2025-08-20 10:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 176.3 |
-| ad704643-abdb-3f29-844c-5e5cd0598700 | -13.8553 | -45.5444 | 2025-08-20 10:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 129.7 |
-| 8858e586-61ee-3316-85f4-af9c99138e2a | -13.8743 | -45.5643 | 2025-08-20 10:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 121.6 |
-| 9100c477-f469-35f9-bae3-09d55c70c180 | -13.8748 | -45.5411 | 2025-08-20 10:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 181.7 |
-| 3faac8cc-2ba5-3d91-8d81-125128ff98a7 | -13.8743 | -45.5643 | 2025-08-20 10:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 109.3 |
-| 160c20c3-f6d3-3531-aba5-ebebaa15417b | -13.8553 | -45.5444 | 2025-08-20 10:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 97.9 |
-| a7649d0d-cb4d-3564-8c1b-7d14ec8b094e | -13.8748 | -45.5411 | 2025-08-20 10:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 194.3 |
-| fc438f29-4fb1-3146-98b3-b0c708e52ac2 | -13.8553 | -45.5444 | 2025-08-20 11:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 115.1 |
-| 015e105d-0428-3b7a-8ea8-8a98650bf14b | -13.8743 | -45.5643 | 2025-08-20 11:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 95.5 |
-| 71fc7207-89fa-3969-8957-1dbb6ee083a6 | -13.8748 | -45.5411 | 2025-08-20 11:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 139.0 |
-| c7eda969-5a0b-3d11-931e-eab8ebad1e91 | -13.8748 | -45.5411 | 2025-08-20 11:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 131.9 |
-| d9fc716a-819e-38c0-9d6e-f0ed5075d12d | -13.8553 | -45.5444 | 2025-08-20 11:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 102.3 |
-| ccaed184-f2b6-3c98-9ed3-0b1b8176ee5d | -13.8748 | -45.5411 | 2025-08-20 11:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 131.2 |
-| e8e91c2a-d12f-3e43-afc0-0796bc18de9f | -12.6698 | -44.9525 | 2025-08-20 11:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 104.7 |
-| 78e5b499-509b-345d-ba0f-a9346e994cde | -12.6698 | -44.9525 | 2025-08-20 11:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 106.1 |
-| 45b9375a-8aa2-3df5-8f56-b0d47f0bf2bc | -13.8748 | -45.5411 | 2025-08-20 11:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 124.6 |
-| 0ae50049-4f9d-3b96-ab04-4218b50ef16a | -13.8748 | -45.5411 | 2025-08-20 11:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 122.9 |
-| d6552965-c783-373b-abbe-288f7b330a43 | -10.7043 | -48.2226 | 2025-08-20 11:40:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 91.1 |
-| 8b0f4764-5bb8-3d2b-a683-aa3c19679386 | -12.6698 | -44.9525 | 2025-08-20 11:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 85.6 |
-| 8e91b937-792d-3283-a590-84dd41391b73 | -12.9925 | -45.202 | 2025-08-20 11:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 91.6 |
-| 91c82988-7ac4-3510-9374-b724c5145861 | -13.8748 | -45.5411 | 2025-08-20 11:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 91.7 |
-| 293bee65-cb43-3254-8246-1b5b7a96b236 | -6.9607 | -42.858 | 2025-08-20 12:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 94.3 |
-| d3dc827a-00d8-3ad2-b612-8038ad3b656f | -12.6698 | -44.9525 | 2025-08-20 12:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 115.9 |
-| d25d137c-d9d7-3613-8ab1-50fc01a30d4b | -13.8748 | -45.5411 | 2025-08-20 12:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 95.6 |
-| 8acac41e-a127-3957-894f-4ceed25758e6 | -10.7043 | -48.2226 | 2025-08-20 12:00:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 105.9 |
-| 2291086d-3a77-36d1-a962-ad1b37eebbd4 | -12.9925 | -45.202 | 2025-08-20 12:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 135.1 |
-| d376497e-8456-3642-b22a-cc5c329ad493 | -13.3346 | -54.4233 | 2025-08-20 12:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 74.2 |
-| 43d0708c-a09d-3935-99b2-d8a8f0c072dc | -6.9607 | -42.858 | 2025-08-20 12:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 87.4 |
-| c893980b-c353-333c-adfa-20dc0fc12bc9 | -5.9711 | -44.1542 | 2025-08-20 12:10:00 | GOES-19 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 230.6 |
-| 197244b1-0037-33f5-8c7f-48bb0beb0f21 | -5.9713 | -44.1312 | 2025-08-20 12:10:00 | GOES-19 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 83.2 |
-| 90f79731-81ff-301e-b3e5-c91dbadabcb4 | -12.9921 | -45.2252 | 2025-08-20 12:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 114.6 |
-| 61c26700-b6cc-3ff7-8fa1-d23db35d740b | -12.6698 | -44.9525 | 2025-08-20 12:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 150.1 |
-| 703afb57-fa77-3142-a391-05000360e405 | -6.9605 | -42.8816 | 2025-08-20 12:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 87.7 |
-| ea59e34f-f5c2-3823-a032-52c9d4285936 | -13.8748 | -45.5411 | 2025-08-20 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 94.7 |
-| e1ee21da-e958-3605-a8de-de4f3cf1c2d7 | -10.7043 | -48.2226 | 2025-08-20 12:10:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 76.4 |
-| 7d6a93cb-ca4a-3e08-bef6-87f202db0c7e | -12.9925 | -45.202 | 2025-08-20 12:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 239.0 |
-| a4da7826-9c27-3f65-8546-ced5fb28d75d | -13.03067 | -46.80263 | 2025-08-20 12:14:00 | TERRA_M-T | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| f9c508dc-a4c5-35db-9783-2d4046d54a24 | -7.15593 | -43.49407 | 2025-08-20 12:14:00 | TERRA_M-T | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 50.7 |
-| bba4f34b-16c3-3220-8aa2-744daa728717 | -10.69486 | -48.23566 | 2025-08-20 12:14:00 | TERRA_M-T | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 36.4 |
-| d8d47e7f-4475-32ac-991a-b29228678559 | -6.10772 | -45.41381 | 2025-08-20 12:14:00 | TERRA_M-T | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 49fd7c8b-b637-3927-a119-82b7c99280e0 | -6.09957 | -44.6414 | 2025-08-20 12:14:00 | TERRA_M-T | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 0e82d9be-1f7f-3336-ad48-0db7ee7695e7 | -4.17513 | -42.03068 | 2025-08-20 12:14:00 | TERRA_M-T | BATALHA | PIAUÍ | Brasil | 2201507 | 22 | 33 | nan | nan | nan | Caatinga | 15.3 |
-| 6eb57368-7e66-3921-919d-45895d6b721d | -10.99204 | -45.90039 | 2025-08-20 12:14:00 | TERRA_M-T | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 9843338c-1d3f-37aa-9251-cbdc6764056c | -13.40807 | -46.35172 | 2025-08-20 12:14:00 | TERRA_M-T | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 74595ca2-4faa-3cfc-a6b5-ab322e6b0f1b | -6.53666 | -45.51424 | 2025-08-20 12:14:00 | TERRA_M-T | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 268cf580-8c28-3846-8719-ca9788303ac4 | -13.53384 | -40.69901 | 2025-08-20 12:14:00 | TERRA_M-T | IRAMAIA | BAHIA | Brasil | 2914307 | 29 | 33 | nan | nan | nan | Caatinga | 24.1 |
-| aefd20d7-e604-32eb-bfbe-834ee22f88f8 | -6.62333 | -43.8762 | 2025-08-20 12:14:00 | TERRA_M-T | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 30.4 |
-| 1d5cfa51-a4fa-3664-a5cf-ab4feb06d2fb | -10.82469 | -43.27299 | 2025-08-20 12:14:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 52.0 |
-| 8623be3f-ef1f-39f9-8ce0-d11b0923c619 | -13.17417 | -46.8849 | 2025-08-20 12:14:00 | TERRA_M-T | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 883f065a-7dd9-32ed-abb2-1b8f24e004ee | -6.65457 | -43.055 | 2025-08-20 12:14:00 | TERRA_M-T | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 3cda2c9b-c2e7-3bec-b7b4-1950ff5e5bb1 | -12.61935 | -46.89482 | 2025-08-20 12:14:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| aa067bc2-1a5b-3b71-85d7-281f89577543 | -11.79979 | -44.28358 | 2025-08-20 12:14:00 | TERRA_M-T | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| 8f43c8c0-9eb7-31d1-b761-3f633afe44f0 | -6.44457 | -45.45025 | 2025-08-20 12:14:00 | TERRA_M-T | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| 64c8a817-b055-31d9-81ba-d34f2c48d683 | -4.9173 | -43.22955 | 2025-08-20 12:14:00 | TERRA_M-T | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 17.9 |
-| 1827b921-4456-366d-b30f-e49302311d4f | -13.53122 | -40.69316 | 2025-08-20 12:14:00 | TERRA_M-T | MARACÁS | BAHIA | Brasil | 2920502 | 29 | 33 | nan | nan | nan | Caatinga | 36.6 |
-| 7a3a0af1-6996-3af7-9965-eb8591b11b7b | -7.6722 | -45.2538 | 2025-08-20 12:14:00 | TERRA_M-T | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| c776a4f3-71f8-3434-80c2-422a110e21de | -12.99695 | -45.21029 | 2025-08-20 12:14:00 | TERRA_M-T | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 30.7 |
-| 8fbbfeb2-8ea9-3f13-81ab-d5b18d25cad8 | -7.27594 | -50.18734 | 2025-08-20 12:14:00 | TERRA_M-T | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 22.8 |
-| 93a93dab-47d9-3f7d-8914-fa18f74ebd15 | -9.5257 | -47.23034 | 2025-08-20 12:14:00 | TERRA_M-T | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| a19f9d0c-0968-3fe6-8e5b-1a1eda554532 | -8.8552 | -62.3933 | 2025-08-21 06:30:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 95.6 |
+| 042ff249-8874-3b69-b3a6-e58c8ca71de2 | -13.0317 | -45.1724 | 2025-08-21 06:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 252.7 |
+| d146a90d-e59f-3212-9c0c-6022c9a4b004 | -13.0128 | -45.1523 | 2025-08-21 06:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 84.2 |
+| 641ae421-c1f0-3f2a-9d27-51a3a525ed78 | -13.0321 | -45.1492 | 2025-08-21 06:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 118.4 |
+| 40028c35-b99d-3d6e-88c4-cdcb970e2842 | -13.0123 | -45.1756 | 2025-08-21 06:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 187.7 |
+| c4c052f4-cc14-33d7-9b62-b08f4d360e5d | -13.051 | -45.1693 | 2025-08-21 06:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| cfb63b08-a785-3751-9242-f689bbab63a7 | -7.0354 | -44.6167 | 2025-08-21 06:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 170.2 |
+| f9641bb7-cea8-39e3-9edd-2e1f54a3c299 | -7.0164 | -44.6413 | 2025-08-21 06:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| f03d8fba-3e74-36da-b084-1e95c64bcaae | -7.0352 | -44.6396 | 2025-08-21 06:30:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 145.1 |
+| be7ce55c-77ce-3144-8ac5-809ea0f31851 | -8.8737 | -62.3925 | 2025-08-21 06:30:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 91.1 |
+| 0ccbb77f-3315-3744-892c-e9ea423d05f4 | -8.8551 | -62.4123 | 2025-08-21 06:30:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 50.1 |
+| c42fa346-b6c8-3967-b556-1059bf857eea | -13.0312 | -45.1957 | 2025-08-21 06:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 99.2 |
+| 71680f01-e9cb-322e-bc8a-d5eb7afa76b2 | -13.0317 | -45.1724 | 2025-08-21 06:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 267.4 |
+| 1f11fa0a-5ac3-3ed4-bc71-38dad6c5c5b1 | -13.0312 | -45.1957 | 2025-08-21 06:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 80.4 |
+| 8358c23e-a088-34ca-9657-bc760b6281e5 | -8.8736 | -62.4115 | 2025-08-21 06:40:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 69.9 |
+| 92c4086d-0d15-3c6e-8f06-bbb81c23a48b | -7.0164 | -44.6413 | 2025-08-21 06:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 81.0 |
+| 767409f5-fc97-3583-a065-8d900875258c | -13.5356 | -47.0363 | 2025-08-21 06:40:00 | GOES-19 | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 53.1 |
+| 3a090fa2-d3fd-3dd6-916f-47c2b78f8a39 | -7.0354 | -44.6167 | 2025-08-21 06:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 206.3 |
+| 2beded38-34b8-3b01-99ac-260080fddbe0 | -14.8543 | -47.9279 | 2025-08-21 06:40:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 49.2 |
+| 8dff969a-ae17-306e-9b10-522916148442 | -13.051 | -45.1693 | 2025-08-21 06:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 74.9 |
+| 856f2911-3cec-3798-98d2-1a4f9b96cc3b | -8.8737 | -62.3925 | 2025-08-21 06:40:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 89.3 |
+| 5e06e884-0f0a-38cf-b942-123b9d0c08d3 | -7.0166 | -44.6184 | 2025-08-21 06:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 131.9 |
+| 63c0a816-3838-3321-9b0c-f714452b30d0 | -13.0128 | -45.1523 | 2025-08-21 06:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 91.7 |
+| 8eea46df-dcef-3667-b4bb-ba08a96495cf | -8.8551 | -62.4123 | 2025-08-21 06:40:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 50.6 |
+| 83e8805f-29eb-37f5-9f0d-437228d1fda8 | -8.8552 | -62.3933 | 2025-08-21 06:40:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 96.2 |
+| 9cb7df7c-9fe5-3434-bd40-3d651dd3b28c | -13.0321 | -45.1492 | 2025-08-21 06:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 129.5 |
+| 931fb0fb-5dc2-3556-a647-097b7839cf4d | -7.0352 | -44.6396 | 2025-08-21 06:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 121.0 |
+| 8aefb40c-0a96-3004-8438-e9bd0ce08524 | -13.0123 | -45.1756 | 2025-08-21 06:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 179.0 |
+| ce2f8810-6f6a-36f6-ae39-4226249c7249 | -5.88526 | -57.74918 | 2025-08-21 06:40:00 | AQUA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 69cd4cb6-bfe2-321f-94e1-814e5d8a55d8 | -8.86789 | -62.39682 | 2025-08-21 06:40:00 | AQUA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 71.0 |
+| 7782516d-f1ba-33dc-b31b-bd422fe9eb72 | -10.41035 | -59.37706 | 2025-08-21 06:40:00 | AQUA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 12.2 |
+| 805abf24-cd95-33f9-b2af-110a2cbae919 | -8.85768 | -62.39516 | 2025-08-21 06:40:00 | AQUA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 123.4 |
+| ee1ad56d-4e58-3b7d-973a-38fd19d3403d | -11.80267 | -55.51774 | 2025-08-21 06:40:00 | AQUA_M-M | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 28.0 |
+| efaf18be-dd8e-383f-a6ab-bf58ff38eba6 | -10.40156 | -59.37572 | 2025-08-21 06:40:00 | AQUA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 6b3c395f-0613-3047-a7b7-d57787d311e3 | -8.86983 | -62.38461 | 2025-08-21 06:40:00 | AQUA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 22.1 |
+| 3f164154-49bf-3c2e-a749-c5cef8938e1e | -8.85963 | -62.38298 | 2025-08-21 06:40:00 | AQUA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 46.2 |
+| bd9f537b-3ead-3f91-9250-3d421afff9a9 | -9.18859 | -59.63103 | 2025-08-21 06:40:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 93be9084-5931-3169-88e0-0cc3d402b38a | -7.55148 | -63.84635 | 2025-08-21 06:40:00 | AQUA_M-M | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| 7d01fbb7-48a8-3a16-82d7-89b590a59ac7 | -6.34522 | -55.5561 | 2025-08-21 06:40:00 | AQUA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| 0f064d92-e46c-33af-b917-132f38d95c79 | -8.86594 | -62.40905 | 2025-08-21 06:40:00 | AQUA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 34.9 |
+| 468272bc-a624-3c7f-92ff-726fa67c81ce | -5.88395 | -57.75796 | 2025-08-21 06:40:00 | AQUA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| fd2dcd12-8d2a-34d4-a00b-2263ccb4e5a6 | -11.80096 | -55.53048 | 2025-08-21 06:40:00 | AQUA_M-M | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| 95f5630d-5fe8-3ee9-b519-4c89becf5db2 | -8.87616 | -62.4107 | 2025-08-21 06:40:00 | AQUA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 17.6 |
+| 5a787521-582c-32ef-b4b5-68741b539a2e | -9.15729 | -59.59871 | 2025-08-21 06:40:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| 87fcbb52-d10e-38c1-b9f7-004944a169fc | -10.41169 | -59.36818 | 2025-08-21 06:40:00 | AQUA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| f5a4b8c9-c9e4-3ed4-beb3-9d094eaa956c | -14.65061 | -54.87434 | 2025-08-21 06:42:00 | AQUA_M-M | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| 3555d88d-5347-368c-b1cb-890bba095f58 | -12.58081 | -60.36235 | 2025-08-21 06:42:00 | AQUA_M-M | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| f73c434c-d75d-34d2-ad39-85cb8fcfe0f6 | -12.5822 | -60.35328 | 2025-08-21 06:42:00 | AQUA_M-M | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| b80d5306-1870-3513-98e8-a549bcadf121 | -13.14435 | -54.91888 | 2025-08-21 06:42:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| 426366dd-7f86-3bf2-98b5-75cce30a32b7 | -13.14346 | -54.91326 | 2025-08-21 06:42:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 11.3 |
+| 79676bb0-663a-3b49-8e3a-526038d3431b | -7.0352 | -44.6396 | 2025-08-21 06:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 127.7 |
+| b8e86595-5386-3bc8-b2dd-ab1538272170 | -13.0128 | -45.1523 | 2025-08-21 06:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 101.6 |
+| 9a899b35-8457-357d-a72c-ba52abc5eca4 | -8.8737 | -62.3925 | 2025-08-21 06:50:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 73.2 |
+| 4e8c73f3-3d7e-3edc-b46b-074a531eb378 | -8.8736 | -62.4115 | 2025-08-21 06:50:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 72.2 |
+| 936d11a4-29fc-35a3-97e7-57acf1c05973 | -8.8552 | -62.3933 | 2025-08-21 06:50:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 80.4 |
+| bb096eed-70d7-3d21-b70e-904f9e5755c5 | -13.0312 | -45.1957 | 2025-08-21 06:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 84.3 |
+| 30ee3d2c-1356-3cef-8629-c7dd1e7aca62 | -7.0354 | -44.6167 | 2025-08-21 06:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 156.9 |
+| e2a75f6a-1de9-3b65-9e82-01e2cfde7e7e | -14.8543 | -47.9279 | 2025-08-21 06:50:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 45.9 |
+| 3c396b0f-4b0f-3794-bea1-388506c71ecb | -13.0123 | -45.1756 | 2025-08-21 06:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 172.8 |
+| 34fa9338-93af-32c7-bbce-cf210eb44dd2 | -13.0321 | -45.1492 | 2025-08-21 06:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 138.0 |
+| 3f715d28-b175-3c57-b9fa-bd4dd119cc94 | -8.8551 | -62.4123 | 2025-08-21 06:50:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 50.5 |
+| 5681d7ab-3793-3406-be6b-1de64ee2e7ae | -13.051 | -45.1693 | 2025-08-21 06:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 77.6 |
+| 07d4b111-2c15-357f-a3d3-c0d0867c9de8 | -13.0317 | -45.1724 | 2025-08-21 06:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 243.3 |
+| 9f2a1f1f-58de-3802-bd80-841dc720c596 | -7.0164 | -44.6413 | 2025-08-21 06:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| a029f781-e399-3507-a95d-17308cd5fd05 | -7.0166 | -44.6184 | 2025-08-21 06:50:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 115.5 |
+| 1c54ae51-c8e2-3a5f-87f4-ee037a8d8aaf | -7.0354 | -44.6167 | 2025-08-21 07:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 126.4 |
+| 18ebb3c2-f74f-3723-9a5d-d1809b63915c | -7.0166 | -44.6184 | 2025-08-21 07:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 155.0 |
+| a6618c6b-5efb-3352-aaef-d8848071693a | -8.8552 | -62.3933 | 2025-08-21 07:00:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 51.3 |
+| fb6f344c-7abc-31d7-baad-6848ed633654 | -7.0164 | -44.6413 | 2025-08-21 07:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 99.4 |
+| 4427f5a8-f745-3926-b51d-6d932e115ab2 | -8.8737 | -62.3925 | 2025-08-21 07:00:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 105.4 |
+| bd13aecf-966f-393c-a354-87cf950e5079 | -14.8543 | -47.9279 | 2025-08-21 07:00:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 38.8 |
+| c3241606-efcd-3531-97f8-6b16a1165603 | -7.0352 | -44.6396 | 2025-08-21 07:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 79.7 |
+| a88631c9-07db-3594-a8f0-b61ad3ba2402 | -8.8736 | -62.4115 | 2025-08-21 07:00:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 78.3 |
+| ebd4fceb-cc04-33e5-b618-9da58eca321c | -7.0354 | -44.6167 | 2025-08-21 07:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 104.6 |
+| 31e33703-e20f-3d21-b027-0d400fc4ae6f | -13.0123 | -45.1756 | 2025-08-21 07:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 159.5 |
+| 171dde47-568d-3d4b-b9c6-e47b984e4dbc | -8.8737 | -62.3925 | 2025-08-21 07:10:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 3035397f-1d14-3886-944a-6981751a8d6e | -13.0312 | -45.1957 | 2025-08-21 07:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 85.3 |
+| 7f728ca9-2a54-3363-81f1-d275ae168af6 | -7.0352 | -44.6396 | 2025-08-21 07:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| 4b4ed00c-8ed3-3dcd-8bb6-c563e41bd1ea | -7.0166 | -44.6184 | 2025-08-21 07:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 130.3 |
+| 3cf64de1-2409-3db7-b0a2-c17b31576421 | -13.0321 | -45.1492 | 2025-08-21 07:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 148.4 |
+| 93f71a0c-46bf-33eb-8756-a57943ff3a52 | -13.0317 | -45.1724 | 2025-08-21 07:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 227.6 |
+| 2c1cebf7-0fce-3ba1-9122-3fe1ac8189e2 | -13.0128 | -45.1523 | 2025-08-21 07:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 90.6 |
+| 5ab1e894-f4ee-3808-b815-fb5dc9178f56 | -7.0164 | -44.6413 | 2025-08-21 07:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 100.8 |
+| 334cb834-ecd8-3253-8673-7050d2ec08ec | -13.051 | -45.1693 | 2025-08-21 07:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 87.4 |
+| 188036b4-5c59-305f-b7f4-38cb6bf1bcfb | -14.8543 | -47.9279 | 2025-08-21 07:10:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 47.3 |
+| 291d1893-bce5-3aff-b37f-8d606364fdbb | -8.8736 | -62.4115 | 2025-08-21 07:10:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| b77dc28f-7fc2-353e-88aa-b5d9c2e4f354 | -14.8538 | -47.9504 | 2025-08-21 07:20:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 46.4 |
+| c5443354-d983-33ee-8387-d2fa9116dc72 | -8.8736 | -62.4115 | 2025-08-21 07:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 60.2 |
+| def6c39a-0ec5-375d-923c-81ec8c855f97 | -8.8737 | -62.3925 | 2025-08-21 07:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 56.8 |
+| 0d8cff3f-b173-3d10-96dc-d344ae293433 | -13.0317 | -45.1724 | 2025-08-21 07:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 189.1 |
+| 56c804bc-8d1a-3c15-b8f8-ff82672e2383 | -8.8552 | -62.3933 | 2025-08-21 07:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 47.3 |
+| e241d6fd-40ef-360e-aa55-c7f419877a9e | -13.0128 | -45.1523 | 2025-08-21 07:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| d513e11a-7b9d-3396-9cd9-d1a1d36c4ec4 | -7.0354 | -44.6167 | 2025-08-21 07:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 140.0 |
+| dec3aa2b-8608-3fab-9575-9d9d17c5aeac | -7.0166 | -44.6184 | 2025-08-21 07:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| 52c7d6e8-5e11-3d0a-a21e-2f7aa0240d4b | -7.0352 | -44.6396 | 2025-08-21 07:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 84.5 |
+| d7dabd80-3a5c-3519-83f1-27c1c63998b9 | -8.8551 | -62.4123 | 2025-08-21 07:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 32.0 |
+| ceb1ea60-ef2f-32e9-8d01-fdf5f60e6c77 | -14.8543 | -47.9279 | 2025-08-21 07:20:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 57.4 |
+| 6d2d5aef-8c2e-3c04-bea1-b873c127b231 | -7.0164 | -44.6413 | 2025-08-21 07:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| 31377e47-2810-3d47-969d-16892fd8a13e | -14.8733 | -47.9472 | 2025-08-21 07:20:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 39.0 |
+| 576221be-52ba-339d-8890-0c4c08bb8328 | -13.0312 | -45.1957 | 2025-08-21 07:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 77.6 |
 
 
 [Clique aqui para ver as próximas entradas](README59.md)

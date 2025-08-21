@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 160d6846-7b4f-3faf-9550-0a1312167b11 | -20.4858 | -42.275501 | 2025-08-20 00:14:00 | METOP-C | SANTA MARGARIDA | MINAS GERAIS | Brasil | 3157906 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 0bf773fc-4de3-3d74-8b22-ba48be130e85 | -21.7278 | -46.512699 | 2025-08-20 00:14:00 | METOP-C | POÇOS DE CALDAS | MINAS GERAIS | Brasil | 3151800 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| a63bd0fa-8f64-31df-8ae4-fea95b8cb6b5 | -6.9247 | -46.990501 | 2025-08-20 00:14:00 | METOP-C | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 33207be9-6a79-3b43-ab4b-c079ef55f1db | -6.8627 | -43.6124 | 2025-08-20 00:14:00 | METOP-C | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 879df69d-7e81-3ffe-9569-7be36f8485e2 | -5.2844 | -44.195301 | 2025-08-20 00:14:00 | METOP-C | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e7eacd94-5845-3314-b49e-f2e1a47362a7 | -5.9887 | -42.849098 | 2025-08-20 00:14:00 | METOP-C | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 50f1888c-0c12-3b96-86c4-10996def36d9 | -13.0351 | -46.8041 | 2025-08-20 00:14:00 | METOP-C | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| bfc3930b-16bb-3629-8a99-cc9fec743ace | -5.8818 | -48.120701 | 2025-08-20 00:14:00 | METOP-C | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ab66d279-ba14-36fa-96a0-1c52de49ea69 | -11.7487 | -48.183102 | 2025-08-20 00:14:00 | METOP-C | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f57acc79-a1f9-33eb-9240-605aed15282f | -5.7818 | -43.889801 | 2025-08-20 00:14:00 | METOP-C | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 33eae44b-fdcb-3e4b-9012-515767c551b0 | -7.5851 | -44.400902 | 2025-08-20 00:14:00 | METOP-C | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 6418347e-d817-3952-b381-a7bc274fb92b | -22.714701 | -42.133301 | 2025-08-20 00:14:00 | METOP-C | SÃO PEDRO DA ALDEIA | RIO DE JANEIRO | Brasil | 3305208 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 85a14f09-9584-31b3-875e-aafd7fe82b23 | -6.9607 | -42.858 | 2025-08-20 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 62.3 |
-| 52236d15-0ad8-389d-933d-7db1b0e491a0 | -4.4331 | -47.76 | 2025-08-20 00:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| 2a87f074-6a0b-3820-8297-f2e969e6a5ba | -8.6343 | -62.1367 | 2025-08-20 00:20:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 96.3 |
-| 46cae33a-4489-353f-a1cf-1c07372cc08b | -12.9775 | -56.8816 | 2025-08-20 00:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| eba276d1-166f-32dd-9e98-d2d2846a3f6c | -12.9778 | -56.8614 | 2025-08-20 00:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 59.7 |
-| 6de7a7b1-83be-3d2e-ab0c-ac3d8caa0d23 | -8.0152 | -47.6656 | 2025-08-20 00:20:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 58.1 |
-| 017b8e45-3b76-3762-8484-c5d444dfe5e8 | -7.2787 | -50.1812 | 2025-08-20 00:20:00 | GOES-19 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| 62032f13-9bd3-357d-871c-ebced026ff39 | -20.3385 | -51.7284 | 2025-08-20 00:20:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 67.6 |
-| 004e0750-9efc-3c0d-9d69-04fab2050396 | -2.3763 | -47.6636 | 2025-08-20 00:20:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 41.2 |
-| 92619511-a0cc-3b10-9b57-7afd8db047a8 | -12.955 | -46.1504 | 2025-08-20 00:20:00 | GOES-19 | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 73.2 |
-| cd10d960-a773-3d20-81e8-be6e35d96d26 | -13.3346 | -54.4233 | 2025-08-20 00:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| 26c6ad53-33aa-3e58-8bcc-d6abb9e3bd32 | -13.1364 | -54.9376 | 2025-08-20 00:20:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
-| 8ed498dd-d279-3377-913f-dc59c9fcbf76 | -6.1476 | -57.7215 | 2025-08-20 00:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 57.6 |
-| 0c825c0f-5c95-31e9-8cfa-7893af3243ac | -15.0002 | -54.8135 | 2025-08-20 00:20:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 47.6 |
-| 1e859b28-d67a-3bb4-9231-5b8eb3183f45 | -20.3594 | -51.7023 | 2025-08-20 00:20:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 63.3 |
-| 6fe6e71e-52a4-3b2e-91ce-fe830e9cd80d | -3.982 | -42.516 | 2025-08-20 00:20:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 47.9 |
-| afec840b-5728-30a7-8765-a7a7a0c6a84c | -7.26 | -50.1825 | 2025-08-20 00:20:00 | GOES-19 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 56.0 |
-| a83be4dd-3241-383d-9c40-03dc3f688413 | -6.9605 | -42.8816 | 2025-08-20 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 82.6 |
-| e2c42f2f-d572-3a3f-9bdb-a6122d4ed300 | -20.339 | -51.7062 | 2025-08-20 00:20:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 116.3 |
-| e9f557dc-7fc7-3d98-b6ed-a9f9d1509256 | -3.232 | -46.8056 | 2025-08-20 00:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 39.2 |
-| 8118641a-c10a-377a-a60b-38a611d600e0 | -13.1558 | -54.9151 | 2025-08-20 00:20:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 113.6 |
-| 866209c1-f9bc-3b22-8cbf-2cc4fd3209d5 | -8.034 | -47.6639 | 2025-08-20 00:20:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 65.2 |
-| 2b103673-303e-3566-96d8-ee693ab2a54d | -4.912 | -43.2337 | 2025-08-20 00:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 150.4 |
-| 841c6a6d-d0aa-3e6b-a3ed-bef47f61e604 | -8.6342 | -62.1557 | 2025-08-20 00:20:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 76.1 |
-| 998e07d9-c62a-32e0-abb5-0cb795f6dc41 | -13.1555 | -54.9357 | 2025-08-20 00:20:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 165.6 |
-| 2f0028c2-3e62-37eb-a739-83b6f7ca0468 | -6.9605 | -42.8816 | 2025-08-20 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 60.7 |
-| 11706e00-361c-3d9b-aaf9-b25aa506fdfb | -7.26 | -50.1825 | 2025-08-20 00:30:00 | GOES-19 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 65.8 |
-| a795ffe2-7923-3cb1-9a82-891b45e9e7a1 | -12.955 | -46.1504 | 2025-08-20 00:30:00 | GOES-19 | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 90.4 |
-| d83f2336-170e-373f-a97a-2fe5dcc29ff1 | -20.339 | -51.7062 | 2025-08-20 00:30:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 116.0 |
-| 23e92d2e-42c0-3a30-a575-2006dc04cad8 | -6.8586 | -43.5936 | 2025-08-20 00:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 46.7 |
-| c913c103-efb8-3d4b-907e-b9547858587c | -13.1364 | -54.9376 | 2025-08-20 00:30:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 68.0 |
-| b62b82ec-88a6-3d9e-9f5f-fc6c9d5f83c3 | -6.9607 | -42.858 | 2025-08-20 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 62.6 |
-| 942960b7-c572-33c9-a238-a02555c296ff | -3.232 | -46.8056 | 2025-08-20 00:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 32.5 |
-| ae0d7b88-a020-3c5e-a451-9649807df41f | -6.8583 | -43.6169 | 2025-08-20 00:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 57.6 |
-| 37b6f46b-3938-3d4c-8895-13bcb0fab43c | -15.0002 | -54.8135 | 2025-08-20 00:30:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 48.5 |
-| c510b989-f1cc-3a6e-aa78-84442b6a6f1b | -13.3346 | -54.4233 | 2025-08-20 00:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 45.6 |
-| 087342b5-0ed0-3359-951c-bca2bd50b361 | -8.6342 | -62.1557 | 2025-08-20 00:30:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 51.4 |
-| 5f8a1259-de54-338d-b8d2-a2f394a6b86f | -20.3594 | -51.7023 | 2025-08-20 00:30:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| 7d9d38a1-274a-3014-aad2-414471e20f34 | -6.1476 | -57.7215 | 2025-08-20 00:30:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| e154c1e0-5570-3a54-8187-d99874745c14 | -13.1555 | -54.9357 | 2025-08-20 00:30:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 178.6 |
-| 2b2bfbaa-87e0-3e18-97af-596c4dce2a7a | -7.2787 | -50.1812 | 2025-08-20 00:30:00 | GOES-19 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| 74c66c5e-0a2f-3f93-8415-a8637ba4cf77 | -12.9775 | -56.8816 | 2025-08-20 00:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 41.7 |
-| f043fcaf-8ba7-3b93-95b6-f25070b73cb0 | -4.912 | -43.2337 | 2025-08-20 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 156.4 |
-| 9b4036d9-914f-339d-af90-30b260c12544 | -13.1558 | -54.9151 | 2025-08-20 00:30:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 110.5 |
-| 078c569c-aee8-3c33-8b65-1dc46dcf8ca0 | -3.982 | -42.516 | 2025-08-20 00:30:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 40.5 |
-| 013f2f8b-cd1c-3d31-8f2e-6e3abf8255bf | -8.034 | -47.6639 | 2025-08-20 00:30:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 64.1 |
-| f7ab73d2-8105-3870-8679-4af84757a18e | -12.9778 | -56.8614 | 2025-08-20 00:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 54.1 |
-| 62162928-5353-3484-9a55-effedab9e18c | -13.1364 | -54.9376 | 2025-08-20 00:40:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 86.7 |
-| 872e1240-f04a-3011-9e45-2ab3f4b72c8d | -12.955 | -46.1504 | 2025-08-20 00:40:00 | GOES-19 | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| cad29d27-4788-3cfb-8ab2-a0c4dc9d86e4 | -12.9775 | -56.8816 | 2025-08-20 00:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 42.2 |
-| 32d46c76-51e6-3803-8e01-2d640bdac38b | -7.2787 | -50.1812 | 2025-08-20 00:40:00 | GOES-19 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 77.5 |
-| 2acbd834-47db-3e70-9dfc-5c56d0fe4c98 | -8.034 | -47.6639 | 2025-08-20 00:40:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| 79007fda-5fa4-304a-8244-49a938499ce4 | -4.4331 | -47.76 | 2025-08-20 00:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 58.0 |
-| e73f3890-4097-3d8e-b05a-c5408629d63e | -6.9607 | -42.858 | 2025-08-20 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 62.0 |
-| 6e05404e-c4e2-37cb-98fe-b5cacb5ebf9a | -20.3594 | -51.7023 | 2025-08-20 00:40:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 67.5 |
-| 3a71374f-de85-3f9a-a911-c4b7e7029834 | -15.0002 | -54.8135 | 2025-08-20 00:40:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 44.1 |
-| 4c5c1048-60aa-32cb-b4ad-23a8b6f3a6d0 | -4.912 | -43.2337 | 2025-08-20 00:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 112.6 |
-| ace08f84-2392-3417-87ae-cbbb79a8abf8 | -20.339 | -51.7062 | 2025-08-20 00:40:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 136.4 |
-| 150c474d-820a-31f9-9120-e3092c46b0a6 | -13.1367 | -54.9171 | 2025-08-20 00:40:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| 20e646bf-070c-31c2-b2d9-04e20ef35e00 | -3.232 | -46.8056 | 2025-08-20 00:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 35.6 |
-| b16ea28a-5a82-3f9d-832a-56b76533d449 | -13.1558 | -54.9151 | 2025-08-20 00:40:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 98.2 |
-| 1913db5b-009d-337f-aac6-80bb20196b49 | -6.1476 | -57.7215 | 2025-08-20 00:40:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| 5d7ebec1-6b31-3c1b-81b6-ab2e9e330076 | -12.9778 | -56.8614 | 2025-08-20 00:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 58.7 |
-| e2e084fd-242b-3547-86ee-f5deca11afa7 | -13.3346 | -54.4233 | 2025-08-20 00:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 45.5 |
-| bf1af94c-7acb-30da-8abd-ef9ecd9ac361 | -13.1555 | -54.9357 | 2025-08-20 00:40:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 155.8 |
-| 3c9bb21c-ddf3-3edb-a75f-4fdb65a04de6 | -6.9605 | -42.8816 | 2025-08-20 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 77.9 |
-| d0e94380-9af3-3fd4-a863-a2707a36784d | -3.982 | -42.516 | 2025-08-20 00:40:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 53.9 |
-| bb2701b3-9dd2-381f-bc32-89d1f5be3f15 | -11.7508 | -48.1825 | 2025-08-20 00:50:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 66.8 |
-| 1ea1326a-93af-3426-8fbf-1a8ea63daef5 | -18.9816 | -50.3437 | 2025-08-20 00:50:00 | GOES-19 | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 162.2 |
-| 3311c00c-1c9d-345f-a814-d7473eb31a5e | -13.1364 | -54.9376 | 2025-08-20 00:50:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 73.5 |
-| 4f84efa3-2876-3140-bdad-c6d078d6d63d | -20.339 | -51.7062 | 2025-08-20 00:50:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 137.7 |
-| ac996137-1c55-3469-b4af-64f7cef71816 | -8.034 | -47.6639 | 2025-08-20 00:50:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 75.8 |
-| b5124c26-07ca-3770-a722-baed788a8611 | -8.8736 | -62.4115 | 2025-08-20 00:50:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 58.4 |
-| c885372c-8268-300c-a54c-b02fa9f40088 | -15.0002 | -54.8135 | 2025-08-20 00:50:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 43.7 |
-| adfc1fee-b417-373d-a0bf-ea7269d92b54 | -18.9822 | -50.3213 | 2025-08-20 00:50:00 | GOES-19 | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 76.3 |
-| cd74368f-281c-3a5c-9768-9d6a0280408b | -3.232 | -46.8056 | 2025-08-20 00:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 45.5 |
-| ae018435-4448-388e-ab12-dcc4653178fd | -12.9357 | -46.1534 | 2025-08-20 00:50:00 | GOES-19 | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
-| 6c069a45-01e0-3589-b497-4c5fc717b3f1 | -13.1555 | -54.9357 | 2025-08-20 00:50:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 147.7 |
-| e16d599a-770f-3df4-93c1-b9d5b7d873bc | -9.2216 | -60.3302 | 2025-08-20 00:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 38.6 |
-| 9741e705-dc6f-35cb-9c77-14b542f2be80 | -12.9778 | -56.8614 | 2025-08-20 00:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 49.4 |
-| c6e865ae-d48a-3ce2-9032-7cd6db40450d | -13.1558 | -54.9151 | 2025-08-20 00:50:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 113.6 |
-| 6a0caceb-74d3-325e-aa64-07d06b393cd2 | -9.1895 | -59.6364 | 2025-08-20 00:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 69.5 |
-| b7bbe76e-d023-35fe-9b4e-4fb359eba0af | -4.912 | -43.2337 | 2025-08-20 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 121.1 |
-| fd630142-6baf-3cd6-a483-d9b92b8e8d4a | -6.9605 | -42.8816 | 2025-08-20 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 37.2 |
-| 6e92a7b7-de7e-397e-ab30-723815a576d2 | -18.9615 | -50.3475 | 2025-08-20 00:50:00 | GOES-19 | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 115.7 |
-| 7048d9f2-01aa-318d-b015-236c2aaba2aa | -8.0152 | -47.6656 | 2025-08-20 00:50:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 57.6 |
-| 8c9c19d9-f499-3896-9b19-fcee6a0f8a70 | -13.3349 | -54.4027 | 2025-08-20 00:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 43.7 |
-| e9dd1a38-1d8d-308f-8b83-7e8e31f8365e | -18.962 | -50.3251 | 2025-08-20 00:50:00 | GOES-19 | SANTA VITÓRIA | MINAS GERAIS | Brasil | 3159803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 57.6 |
+| 540bae5e-51ad-3602-978b-53932dd2d1d6 | -3.99204 | -42.50769 | 2025-08-21 00:30:00 | TERRA_M-M | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 31.4 |
+| 39e5ec5e-58b6-334c-a78b-89a6ac51dfd8 | -5.79494 | -45.07955 | 2025-08-21 00:30:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 22.4 |
+| ea5d12fd-556a-3f44-97b1-09bf81eb9d07 | -4.30931 | -48.08535 | 2025-08-21 00:30:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 22.3 |
+| 40c39330-53dc-321b-8e76-5e9f53d6907e | -6.13174 | -44.7201 | 2025-08-21 00:30:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| aec7c153-6c96-3f38-8a2c-683fe7fa9011 | -6.1754 | -44.73022 | 2025-08-21 00:30:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 8a33294c-6da8-3d18-be9a-9154f6ef6ee7 | -8.37733 | -55.01743 | 2025-08-21 00:30:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 18.1 |
+| 639684c1-3649-323b-9a04-ce03b5111faa | -6.9563 | -42.86429 | 2025-08-21 00:30:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 60.8 |
+| 21f576ce-ae44-3836-89cf-a215c6ef58ed | -7.27728 | -50.17899 | 2025-08-21 00:30:00 | TERRA_M-M | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 31.5 |
+| ade84e04-dadc-3c95-8296-ef19f2a74d0f | -6.62486 | -43.88562 | 2025-08-21 00:30:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 20.0 |
+| ca5e8d6a-56eb-3ff1-a540-35ac268c2254 | -4.91806 | -45.32263 | 2025-08-21 00:30:00 | TERRA_M-M | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 25.3 |
+| 4d02e56e-f554-32ad-9116-aad8934e35a6 | -6.54078 | -45.5197 | 2025-08-21 00:30:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| af21e5ac-b5e7-3efb-8d63-2eaf6d2ea6ec | -6.61461 | -43.88721 | 2025-08-21 00:30:00 | TERRA_M-M | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 25.1 |
+| c3df6a73-ada3-3268-a782-92284ad41d52 | -6.80489 | -50.08848 | 2025-08-21 00:30:00 | TERRA_M-M | ÁGUA AZUL DO NORTE | PARÁ | Brasil | 1500347 | 15 | 33 | nan | nan | nan | Amazônia | 27.4 |
+| 6c2e884b-826d-3ef0-b0cd-e56a9b163167 | -6.95479 | -44.18025 | 2025-08-21 00:30:00 | TERRA_M-M | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 10.6 |
+| 68556e18-b98a-3fc1-9de9-c3a4c5d173c9 | -4.86123 | -42.54204 | 2025-08-21 00:30:00 | TERRA_M-M | JOSÉ DE FREITAS | PIAUÍ | Brasil | 2205508 | 22 | 33 | nan | nan | nan | Caatinga | 36.1 |
+| a9d06893-2275-3bb5-8163-09b2ea7eb1a2 | -6.49882 | -43.10964 | 2025-08-21 00:30:00 | TERRA_M-M | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 402c04c7-330b-3708-93ca-69aad067975a | -7.59982 | -44.38651 | 2025-08-21 00:30:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 2fffdac7-84a2-3fda-9760-2d47ee046381 | -7.69907 | -44.01975 | 2025-08-21 00:30:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| 08857315-b98c-329a-88b5-9a5393460c97 | -7.86225 | -46.72511 | 2025-08-21 00:30:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 49.6 |
+| 00b49cf4-e7f5-3a14-8ce1-3081f13aa277 | -3.99853 | -42.51226 | 2025-08-21 00:30:00 | TERRA_M-M | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 12.3 |
+| aeb7f029-487f-3f51-b04e-27246f7bb2c7 | -4.9085 | -45.32403 | 2025-08-21 00:30:00 | TERRA_M-M | LAGOA GRANDE DO MARANHÃO | MARANHÃO | Brasil | 2105963 | 21 | 33 | nan | nan | nan | Cerrado | 15.6 |
+| e7686b21-c551-3bce-9eb9-8dc4aaf57706 | -7.01822 | -44.61678 | 2025-08-21 00:30:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 150.9 |
+| d05e18e0-60a6-3efb-a94c-e250fb678b33 | -7.99287 | -47.34023 | 2025-08-21 00:30:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 2ff5f206-1c2f-3373-89eb-dc7c69e2b5f2 | -7.38157 | -47.04854 | 2025-08-21 00:30:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 69726a68-620c-3d47-b10a-46ddff3cd95b | -6.45219 | -53.37234 | 2025-08-21 00:30:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 21.8 |
+| 290e376c-afd4-3dd3-826e-5d52e345c646 | -8.04934 | -47.00344 | 2025-08-21 00:30:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 76fd785c-9d89-3b7d-ab23-96b26199a629 | -6.22041 | -43.34362 | 2025-08-21 00:30:00 | TERRA_M-M | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 51298cf4-bf28-3330-8644-0ddc5c6d041b | -7.21027 | -45.31103 | 2025-08-21 00:30:00 | TERRA_M-M | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| 9c8af137-6ab1-33cf-9ddc-d0e185b33c8b | -5.1035 | -46.18093 | 2025-08-21 00:30:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| bdb648de-b767-3fe7-ab42-f7d08cab162d | -6.42243 | -44.66424 | 2025-08-21 00:30:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| fdfcda1c-c41c-3397-bdbf-809f97225c1d | -5.75414 | -45.30376 | 2025-08-21 00:30:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| 0baf5a20-f15e-37c9-8392-f087a1ab06ed | -7.70077 | -44.03154 | 2025-08-21 00:30:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 4b59a7c3-b286-3cd3-86fc-66c423bb33e3 | -7.27923 | -50.17295 | 2025-08-21 00:30:00 | TERRA_M-M | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
+| 4f796d7e-e6fc-3800-9506-d2aa13403b32 | -5.78382 | -45.07038 | 2025-08-21 00:30:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 29.1 |
+| 446c1bc5-e66c-35a9-a2c1-4900d2d07d1f | -6.42574 | -45.49159 | 2025-08-21 00:30:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| 49213530-134e-38cc-ae5a-d6f74ec1a056 | -5.87818 | -42.41879 | 2025-08-21 00:30:00 | TERRA_M-M | PASSAGEM FRANCA DO PIAUÍ | PIAUÍ | Brasil | 2207751 | 22 | 33 | nan | nan | nan | Caatinga | 25.9 |
+| f670975e-ff22-33e6-a768-1258c24b69ea | -7.01979 | -44.62764 | 2025-08-21 00:30:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 31.7 |
+| 5d77db16-b966-35d9-95fe-e4f0a6188992 | -5.96569 | -44.13222 | 2025-08-21 00:30:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 19.5 |
+| f804ab52-8c80-3d37-9d30-2cad27400ae4 | -8.43532 | -49.57985 | 2025-08-21 00:30:00 | TERRA_M-M | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 16.2 |
+| 1030b9aa-a7d0-3345-be5b-0cb53593f222 | -5.96737 | -44.14399 | 2025-08-21 00:30:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 20.6 |
+| e677e2ef-2b0f-3c84-95e2-ffabb5733925 | -6.20014 | -43.57686 | 2025-08-21 00:30:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| c5f64592-806f-3068-a4b7-fa799333e7e0 | -6.94528 | -42.86592 | 2025-08-21 00:30:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 48.8 |
+| a7c6c664-4901-3fa6-a577-bed6e61c4fb6 | -5.40487 | -46.2248 | 2025-08-21 00:30:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 61364a3f-4f79-36f3-b244-1400cada4bda | -7.39039 | -45.99288 | 2025-08-21 00:30:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| afab3e63-d77b-3f75-8db3-fbbb2be9f955 | -7.61795 | -45.27082 | 2025-08-21 00:30:00 | TERRA_M-M | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 22.1 |
+| a57f968f-8d22-3808-ab2a-9c36705a2c50 | -5.78534 | -45.08094 | 2025-08-21 00:30:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| f9ea06de-7244-3a52-8729-0b6eea276681 | -5.87176 | -48.12132 | 2025-08-21 00:30:00 | TERRA_M-M | ARAGUATINS | TOCANTINS | Brasil | 1702208 | 17 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| efee5cdb-a69c-300a-be4c-47961d96996a | -8.43393 | -49.56944 | 2025-08-21 00:30:00 | TERRA_M-M | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 14.2 |
+| bbd1d74c-dd58-3bfb-ad8e-23d485ab3fdd | -3.98659 | -42.51408 | 2025-08-21 00:30:00 | TERRA_M-M | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 48.6 |
+| 224260f0-58c3-3190-b042-1794595ebda9 | -5.16572 | -37.99448 | 2025-08-21 00:30:00 | TERRA_M-M | LIMOEIRO DO NORTE | CEARÁ | Brasil | 2307601 | 23 | 33 | nan | nan | nan | Caatinga | 41.3 |
+| 1bbabd1b-d976-381b-95ab-10bf69ec8613 | -3.65291 | -48.32769 | 2025-08-21 00:33:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 2ce42254-2252-3285-9965-a725ba5abc7a | -3.04089 | -49.43512 | 2025-08-21 00:33:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
+| f05f6a1c-32d5-3a4e-b69d-993a329675ed | -2.69704 | -48.20976 | 2025-08-21 00:33:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 17.3 |
+| 823e2a45-e1a7-34cf-853c-38a7a12f8837 | -2.29842 | -47.99438 | 2025-08-21 00:33:00 | TERRA_M-M | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| ec859f97-fc01-3ca7-a7ae-69f9208e681e | -3.04214 | -49.44428 | 2025-08-21 00:33:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 11.5 |
+| b6409afb-560c-3216-be10-cd1df79f8fec | -3.96881 | -47.8825 | 2025-08-21 00:33:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| b66149ba-9906-3828-9a3c-f84917b1fde3 | -0.75242 | -47.75362 | 2025-08-21 00:33:00 | TERRA_M-M | MARAPANIM | PARÁ | Brasil | 1504406 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 8a2fdb04-0dd5-3011-b80a-f59beca5c974 | -2.25754 | -47.84429 | 2025-08-21 00:33:00 | TERRA_M-M | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| daf2f1a9-75c1-3dfb-a4eb-91c401b0e29a | -3.82824 | -47.72903 | 2025-08-21 00:33:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| ae452448-052f-3aa1-91e8-2346392b3c42 | -2.444 | -47.32523 | 2025-08-21 00:33:00 | TERRA_M-M | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| 30b9c5d9-d393-3e7d-8f5a-684c5c9c8fb4 | -2.55396 | -47.71478 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 22.9 |
+| 5b19a6e1-e5a8-30f6-9c60-e5a53633e0a0 | -5.13539 | -56.96074 | 2025-08-21 00:33:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 32.0 |
+| f6ef2dc3-98c8-3c38-9db8-2fb5c456bda6 | -4.29076 | -48.27637 | 2025-08-21 00:33:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| f1cc7b6d-99a9-3827-ac1a-e683a99f7c1b | -3.82947 | -47.73785 | 2025-08-21 00:33:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
+| e364cd12-94a5-3dab-b4ac-db2710378fef | -5.13222 | -56.98812 | 2025-08-21 00:33:00 | TERRA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 22.6 |
+| 9aeab93e-0e6c-3f6c-a3ac-1bf74f4e12aa | -2.92088 | -48.30025 | 2025-08-21 00:33:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
+| cb64d077-2355-3e3c-8fd2-4d84e14521ba | -2.69826 | -48.21854 | 2025-08-21 00:33:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| cea8b01c-4d1e-3a8e-8ce1-7f2eaed29c19 | -2.82245 | -47.72165 | 2025-08-21 00:33:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| 296b64f3-6cb8-3e06-96a3-9a31b49c9ad9 | -2.90476 | -48.24883 | 2025-08-21 00:33:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 0d022040-aafb-304a-ab6b-eb5f9b550c62 | -2.91327 | -48.31027 | 2025-08-21 00:33:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 12.1 |
+| 268a56b0-170f-3e15-b1ee-994c121d0b86 | -2.91206 | -48.30149 | 2025-08-21 00:33:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 24.3 |
+| 333abe46-7fdb-391d-be82-38267efa490d | -2.55273 | -47.70591 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 21.6 |
+| 993fe53f-d252-3e9b-b114-2c1dd28236b3 | -3.45589 | -48.96954 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 21c5f5a4-6328-360f-8f92-b78b733ac6c2 | -2.37898 | -47.65188 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| fe13a13a-0a15-3f46-b817-5546fc873e40 | -2.39034 | -47.66845 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 84f8c6d8-8cbe-356b-a08b-50ec4fa7b2b6 | -2.3891 | -47.65953 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 26.3 |
+| 01d3a612-8e42-33ee-aa7a-52937811a712 | -3.73597 | -48.93015 | 2025-08-21 00:33:00 | TERRA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 15.8 |
+| 9294b209-ff16-3aed-a149-4a67ace23764 | -4.13581 | -48.01706 | 2025-08-21 00:33:00 | TERRA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| bf5a941f-9772-3015-8882-f2f4a027e135 | -2.25876 | -47.85316 | 2025-08-21 00:33:00 | TERRA_M-M | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 13.2 |
+| 61e74d13-7db9-3f18-9e63-c37e7a895dbc | -2.38022 | -47.6608 | 2025-08-21 00:33:00 | TERRA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 30.8 |
+| 35356022-e743-3f66-9e14-7fa7808f691f | -14.507 | -45.9396 | 2025-08-21 00:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 40.6 |
+| 3e051026-56df-3c6f-8c24-38d8d4457f7a | -15.0193 | -54.832 | 2025-08-21 00:40:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 67.9 |
+| 69b1605e-5139-3f6c-b58a-9d5574cec039 | -15.8845 | -49.0299 | 2025-08-21 00:40:00 | GOES-19 | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 46.9 |
+| ae659aea-fa88-3fff-b790-3c5660b4a88c | -7.0354 | -44.6167 | 2025-08-21 00:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 72.5 |
+| 65ecc0f3-9c8a-3cd9-bcc5-3fefeaefbcb0 | -5.9713 | -44.1312 | 2025-08-21 00:40:00 | GOES-19 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 59.8 |
+| 1aeb2f81-2b0f-3dd4-ac81-6ffc1554de22 | -13.1367 | -54.9171 | 2025-08-21 00:40:00 | GOES-19 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 0fb73a65-6f0a-38ac-a398-8484ff124a25 | -14.8538 | -47.9504 | 2025-08-21 00:40:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 70.5 |
+| d9d15ef4-44ee-3e8a-8c1d-3282dc4321a7 | -12.9537 | -46.219 | 2025-08-21 00:40:00 | GOES-19 | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 117.9 |
+| 21dbe7a0-7f3a-38e9-a553-c6f86badd2e7 | -14.8738 | -47.9246 | 2025-08-21 00:40:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 44.6 |
+| 31508367-2aa3-372b-8034-86ecd6a0db21 | -7.0166 | -44.6184 | 2025-08-21 00:40:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 161.6 |
+| d55dedac-e3d2-3c46-9e79-e0d9267b01a9 | -8.6716 | -62.0971 | 2025-08-21 00:40:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 51.3 |
+| 7859ff73-88d5-3c22-ab9c-a44507c6b82d | -15.9046 | -49.0043 | 2025-08-21 00:40:00 | GOES-19 | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 59.2 |
+| c8dcf42e-7457-33d8-b5f9-0caf5b3b630e | -12.9533 | -46.2419 | 2025-08-21 00:40:00 | GOES-19 | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 132.8 |
+| 68f16ffd-5b84-3da2-81df-0a78221f12d7 | -8.6344 | -62.1177 | 2025-08-21 00:40:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 68.8 |
+| 04ba7db3-72c5-3e00-b931-ccb11b287d26 | -14.8733 | -47.9472 | 2025-08-21 00:40:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 95996755-1753-39bf-aaa3-d28c4905853d | -8.6343 | -62.1367 | 2025-08-21 00:40:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 73.8 |
+| 32f87aa5-c28b-35b1-ba44-4a3d5de1ebb1 | -14.8543 | -47.9279 | 2025-08-21 00:40:00 | GOES-19 | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| dfb834eb-0347-3166-a3c9-24c70fbecfb3 | -15.8849 | -49.0076 | 2025-08-21 00:40:00 | GOES-19 | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 108.1 |
+| db34dde1-041d-3aa3-94c1-d6afd7d5c14c | -8.6901 | -62.0963 | 2025-08-21 00:40:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 73.1 |
+| 9703ae62-66f2-3230-a691-69bfebc9e716 | -14.9999 | -54.8343 | 2025-08-21 00:40:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 75.0 |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
