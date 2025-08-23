@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 08b6e83f-a8d0-39d3-b330-354821bafd6c | -14.7592 | -56.02727 | 2025-08-22 05:40:00 | NPP-375D | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| d71ca826-7be6-3ac0-8143-9071b0b0b52d | -13.37385 | -47.48846 | 2025-08-22 05:42:00 | AQUA_M-M | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 295fdc47-6333-32f6-ae6a-4ec42bef6660 | -12.99689 | -45.22607 | 2025-08-22 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 55fedbde-859a-3fa2-926a-7b69d77c7cb0 | -11.12193 | -44.71721 | 2025-08-22 05:42:00 | AQUA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 76885da8-0dd1-39a1-a99c-cfbc5ba70562 | -10.72886 | -48.22916 | 2025-08-22 05:42:00 | AQUA_M-M | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| 1d92df88-30fd-354e-8096-dd870c33789b | -13.36291 | -46.25915 | 2025-08-22 05:42:00 | AQUA_M-M | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| c0fb3e6c-fe69-3e67-b692-fd6e6265752b | -13.01916 | -46.33135 | 2025-08-22 05:42:00 | AQUA_M-M | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| cb91657f-c5ce-3aed-a94e-53a6541ae41f | -12.95183 | -46.28518 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 21.4 |
-| fa7d5884-9733-336d-809b-65429c5392fe | -11.81077 | -44.2553 | 2025-08-22 05:42:00 | AQUA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 19.4 |
-| 8e7c3c15-3ae8-3d54-a600-63373887d49f | -12.95038 | -46.29443 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 156b3a0a-01f7-3542-82f3-348bf3e70de4 | -14.88551 | -47.95355 | 2025-08-22 05:42:00 | AQUA_M-M | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 20.9 |
-| 7a4e78d3-54da-3838-91d3-489eba7faf81 | -12.00097 | -44.65832 | 2025-08-22 05:42:00 | AQUA_M-M | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | 57.1 |
-| 033ce36b-67f6-3fda-a4b4-6ecb38f46633 | -12.93232 | -46.17782 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| c242ba8d-0550-3f4f-82cc-522eda4a6f0b | -13.37786 | -47.49442 | 2025-08-22 05:42:00 | AQUA_M-M | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 8814dde3-c50c-34e3-aef8-df35095fb4d9 | -14.82783 | -47.92581 | 2025-08-22 05:42:00 | AQUA_M-M | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| 920d7e14-2293-3fd8-8005-6f9e2360e5df | -16.78577 | -47.65717 | 2025-08-22 05:42:00 | AQUA_M-M | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| a482679e-192e-37e1-a0c7-699e075c6cb4 | -11.31956 | -44.94071 | 2025-08-22 05:42:00 | AQUA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| a29a773f-e180-32a1-b000-1b7ae9db2706 | -10.86608 | -50.81831 | 2025-08-22 05:42:00 | AQUA_M-M | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 27.0 |
-| 33755772-91d4-310c-a242-f7605a848b02 | -11.99962 | -44.66724 | 2025-08-22 05:42:00 | AQUA_M-M | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | 33.8 |
-| 5d4bbd98-6f8c-3398-9b42-9f56a034d727 | -10.28437 | -46.77261 | 2025-08-22 05:42:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 4943fbd8-fe3f-3a18-9e46-12e33040d076 | -13.03125 | -46.31361 | 2025-08-22 05:42:00 | AQUA_M-M | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 1cdcdd38-6db4-3747-b32f-d53d7f70ea04 | -12.95627 | -46.25691 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| fe37f7c4-2a68-3acd-9375-3bb50e4b7d49 | -15.88713 | -43.45642 | 2025-08-22 05:42:00 | AQUA_M-M | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 43.7 |
-| b611f058-827e-3696-aa92-e88a22c5d367 | -10.86266 | -50.83853 | 2025-08-22 05:42:00 | AQUA_M-M | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 39.9 |
-| dae61602-d919-3599-a5ae-2695e6f26add | -12.96531 | -46.2584 | 2025-08-22 05:42:00 | AQUA_M-M | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 19.8 |
-| 6fc285e2-6336-32af-853a-d2e4e4ecd157 | -11.31074 | -44.93937 | 2025-08-22 05:42:00 | AQUA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| a955bcd4-920c-39b5-a633-89a45e6439df | -13.14437 | -46.88658 | 2025-08-22 05:42:00 | AQUA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| a2d5b713-4ecd-3d15-b65a-36ff7c36f66b | -15.15442 | -47.95181 | 2025-08-22 05:42:00 | AQUA_M-M | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 18.0 |
-| a020ad6b-f240-390c-b8d5-ad8944410359 | -15.88854 | -43.44645 | 2025-08-22 05:42:00 | AQUA_M-M | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 27.8 |
-| b2cfeab2-efaf-31e1-b7b5-d72cc66aec9f | -13.0057 | -45.22744 | 2025-08-22 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| d9a9f608-95a5-3238-8017-a8d50cc66557 | -14.88734 | -47.94245 | 2025-08-22 05:42:00 | AQUA_M-M | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 5937f8ff-0445-3575-a970-e74f34637f62 | -12.92478 | -46.16673 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 12.0 |
-| deb249c0-b0d2-3e3e-85ec-5a8258f4d81d | -13.45997 | -47.04839 | 2025-08-22 05:42:00 | AQUA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 23.2 |
-| 90a05401-cc72-3e32-a77c-54542f3199db | -12.92332 | -46.17613 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 4b73b547-5def-386b-84bb-0b8e94ed006c | -13.02823 | -46.33278 | 2025-08-22 05:42:00 | AQUA_M-M | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| f5f165ca-5ee1-3368-82a9-b238ad05ff63 | -10.86379 | -50.82542 | 2025-08-22 05:42:00 | AQUA_M-M | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 33.2 |
-| 2fc17277-6965-3b3d-94fb-dc0b23099365 | -15.89633 | -43.4578 | 2025-08-22 05:42:00 | AQUA_M-M | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| 0406d200-c454-3fcd-a1d0-b30d065aab6f | -12.99551 | -45.23508 | 2025-08-22 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| 4d28bdc0-7db1-39c3-b461-e8a31b0226ac | -13.02975 | -46.3231 | 2025-08-22 05:42:00 | AQUA_M-M | CAMPOS BELOS | GOIÁS | Brasil | 5204904 | 52 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 7494dbbe-a731-39dd-ad15-7d433e4f5e4d | -14.89328 | -47.96632 | 2025-08-22 05:42:00 | AQUA_M-M | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 3ecd61e5-e84f-3ed2-8905-6be44ec1dc89 | -13.14269 | -46.89716 | 2025-08-22 05:42:00 | AQUA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 15.6 |
-| e9d5357b-a111-3a81-b372-1d2bdcb71b73 | -13.65112 | -45.70739 | 2025-08-22 05:42:00 | AQUA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| d6f329dd-bc63-3e33-ad5c-4f7f4fa90758 | -11.30937 | -44.94834 | 2025-08-22 05:42:00 | AQUA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| ffb2d525-8728-3239-a141-6eb0efc8dbff | -12.99826 | -45.21706 | 2025-08-22 05:42:00 | AQUA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| c51d385f-c790-34eb-96ad-7db9d63d321f | -15.89774 | -43.44784 | 2025-08-22 05:42:00 | AQUA_M-M | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| f98e77b4-8880-31bc-b30f-861ebc7c8b13 | -12.95478 | -46.26643 | 2025-08-22 05:42:00 | AQUA_M-M | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 3b253906-54bd-350a-b7ca-a70bdc005e7c | -23.19922 | -46.85373 | 2025-08-22 05:44:00 | AQUA_M-M | JUNDIAÍ | SÃO PAULO | Brasil | 3525904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 5c054ad0-d330-3021-8eb7-980c51e013ee | -20.23872 | -46.69636 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 20.1 |
-| ebe25533-c95f-3edd-adf6-bfb88dc772cc | -23.20968 | -44.89619 | 2025-08-22 05:44:00 | AQUA_M-M | UBATUBA | SÃO PAULO | Brasil | 3555406 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.7 |
-| 63e31382-098a-3da8-9171-7154087dfc21 | -23.29121 | -47.46901 | 2025-08-22 05:44:00 | AQUA_M-M | PORTO FELIZ | SÃO PAULO | Brasil | 3540606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 6574f4d1-8b66-3f78-a344-f3369081cc2c | -20.24407 | -46.60147 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 1de0a905-98f3-3e73-8fd5-9de45a9ff344 | -20.23386 | -46.60932 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 12.1 |
-| 7a5b2118-41df-3f7a-81f5-05489bf9de88 | -19.67301 | -48.98439 | 2025-08-22 05:44:00 | AQUA_M-M | COMENDADOR GOMES | MINAS GERAIS | Brasil | 3116902 | 31 | 33 | nan | nan | nan | Cerrado | 24.6 |
-| e1acf758-0a6e-3eb8-b068-bcf265821297 | -20.2946 | -46.63583 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 314c372e-a0f0-3f54-b716-2cc4bb483bef | -23.30003 | -47.47056 | 2025-08-22 05:44:00 | AQUA_M-M | PORTO FELIZ | SÃO PAULO | Brasil | 3540606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.2 |
-| 6d546239-0f21-38e0-9d88-06ee11598676 | -20.26729 | -46.56713 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| a150428c-b2ec-3196-993d-ec661fe06384 | -18.88091 | -45.0215 | 2025-08-22 05:44:00 | AQUA_M-M | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| a6915040-1374-3781-80e2-b068fedc86b4 | -20.35973 | -46.5034 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| ff429516-bd15-3633-8bdc-ea1d6de928f7 | -19.68255 | -48.98612 | 2025-08-22 05:44:00 | AQUA_M-M | COMENDADOR GOMES | MINAS GERAIS | Brasil | 3116902 | 31 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| ab15f7d1-dbf0-3427-8fcf-28e266693782 | -19.97394 | -44.92208 | 2025-08-22 05:44:00 | AQUA_M-M | DIVINÓPOLIS | MINAS GERAIS | Brasil | 3122306 | 31 | 33 | nan | nan | nan | Cerrado | 16.5 |
-| 4627d04b-002a-385d-b79e-7588c5ce5be3 | -20.23527 | -46.59999 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 3618c4ba-8e05-3e68-bc98-2d47d57a8f1d | -21.23762 | -44.58247 | 2025-08-22 05:44:00 | AQUA_M-M | NAZARENO | MINAS GERAIS | Brasil | 3144508 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.1 |
-| d2e04013-b77a-3580-8e0c-06a997402996 | -20.30339 | -46.63734 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| ed78b213-6b0a-3fcb-9a76-ad646893053a | -22.78281 | -44.78819 | 2025-08-22 05:44:00 | AQUA_M-M | SILVEIRAS | SÃO PAULO | Brasil | 3552007 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
-| 0473a809-9319-3655-b8fb-d5880aa8a486 | -18.88229 | -45.01194 | 2025-08-22 05:44:00 | AQUA_M-M | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 15.7 |
-| b02cd849-d505-3b01-a6ef-745022241f75 | -20.24265 | -46.61081 | 2025-08-22 05:44:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 15.0 |
-| da4148d5-ec98-334c-a27e-b88645ad1780 | -15.8955 | -43.4523 | 2025-08-22 05:50:00 | GOES-19 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Cerrado | 82.4 |
-| bba4b7d3-6318-3f3b-825e-08de6d84fce0 | -7.05419 | -59.82766 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 4f91dfdc-569b-39e4-acf5-39f65ced807d | -5.88098 | -57.75791 | 2025-08-22 05:59:00 | NOAA-20 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 0cd6f221-9bce-3991-8a72-52c76e6d035a | -7.05364 | -59.83177 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4fffb638-b244-37f9-b5f5-bc03f54af140 | -7.05474 | -59.82364 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| b9a940ab-4f85-34f0-938a-fb54740f4e9f | -7.5105 | -63.83195 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| daa15bbf-d6d0-3ab8-8834-a5c14d682627 | -6.89695 | -59.89636 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| dae820c8-6d43-3a17-92d8-6437a9244ee5 | -5.44498 | -60.18071 | 2025-08-22 05:59:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f43dd9ac-ece2-3d1a-97ef-c0bae2553ebf | -7.55148 | -63.85336 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b079cc41-dfea-34d8-8b62-180cc9e2ff0a | -5.80415 | -59.22536 | 2025-08-22 05:59:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 58fbbbcb-d6bd-37f3-9fe1-550669922f86 | -7.30546 | -59.63129 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 65a25ef7-5ab2-3406-998d-6b419a63a101 | -7.08778 | -63.08443 | 2025-08-22 05:59:00 | NOAA-20 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 8e3fdda2-ca95-37e0-9b2c-d03fd580f7d4 | -6.89706 | -59.89371 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ebbd7ac3-12e5-34b3-a0dd-0d4292c71d43 | -7.50539 | -63.83577 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a72252d9-faf0-32b4-946d-593f88c23628 | -7.29364 | -59.62954 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 381d9b95-84de-3daf-8a3e-1f7b0aa33c0d | -7.43932 | -60.62896 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7908a311-5ff3-3cdb-9a77-b90d63c3c43f | -6.5736 | -59.87563 | 2025-08-22 05:59:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 414727d7-b035-3a9d-b86c-039d88c33552 | -7.58549 | -63.44215 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 3053b1ed-55ca-369e-a1f1-d59c44143f4d | -7.94155 | -63.04594 | 2025-08-22 05:59:00 | NOAA-20 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 8386a804-e5ee-3ad5-8cdb-c28ae15f8894 | -5.80181 | -59.21741 | 2025-08-22 05:59:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| fdef00cb-e2ef-357b-b815-eee7d77c7529 | -7.5858 | -63.44063 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 054f8cb3-17ff-30a9-bc58-813d4a164e3d | -7.93752 | -63.04021 | 2025-08-22 05:59:00 | NOAA-20 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d4f105fc-a0db-3267-9938-e3f0dbf04282 | -5.8053 | -59.21683 | 2025-08-22 05:59:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| a351943e-a2d3-3136-a287-7ffc7ede81c1 | -5.43941 | -60.1799 | 2025-08-22 05:59:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| cd78b3df-ab8c-3d5f-9693-4497e3a0d11e | -7.55979 | -63.85904 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6b8d49ff-a8cb-34d4-b751-769a0a1e3733 | -4.0945 | -60.66542 | 2025-08-22 05:59:00 | NOAA-20 | CAREIRO | AMAZONAS | Brasil | 1301100 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8659fbad-5ee8-3beb-bb64-604d7666a24c | -7.55719 | -63.84513 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c57c6690-1f5d-3715-a057-3d76e9336d91 | -5.80777 | -59.21826 | 2025-08-22 05:59:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 48bb183a-2e9a-3e33-b839-22546207057f | -7.54763 | -63.84829 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 064e9aaa-8bb7-384d-bf9f-ed71b4d42675 | -7.58649 | -63.43588 | 2025-08-22 05:59:00 | NOAA-20 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 041b387e-e814-3896-b659-1ce820a4f500 | -7.05308 | -59.83595 | 2025-08-22 05:59:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b0e2b544-ed60-35f1-94cd-df4c288f5776 | -5.8012 | -59.2217 | 2025-08-22 05:59:00 | NOAA-20 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 8e0f0ac1-baae-3987-b5ff-4ba518671132 | -6.62799 | -58.54136 | 2025-08-22 05:59:00 | NOAA-20 | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f6a2ea0b-1595-3b20-bbf5-e729e46807b3 | -5.43332 | -60.1828 | 2025-08-22 05:59:00 | NOAA-20 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 70f7c42c-1aa6-385b-8f3f-feca2e5267d4 | -5.43958 | -60.17093 | 2025-08-23 05:18:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 9b460a5d-207d-36b3-a2d7-d22fa690750b | -6.44033 | -53.39309 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c68ad3fb-666e-33c6-be53-0d1d44161ade | -6.68998 | -58.85992 | 2025-08-23 05:18:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 38a065fd-3c2d-38ab-94f0-e9455a2eb214 | -5.87688 | -53.62709 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 13d2ac93-edd4-3bb6-aa3c-19b654a26e9f | -5.87469 | -57.7604 | 2025-08-23 05:18:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| cfc29ece-43fe-36e4-a063-38cac7eebe06 | -7.64305 | -45.24454 | 2025-08-23 05:18:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 65399f91-93e7-3253-bd0b-d6764b2fb852 | -5.80072 | -59.22083 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a50995c5-6fe5-34bb-8467-7661ef0cbc14 | -7.18406 | -48.42765 | 2025-08-23 05:18:00 | NPP-375D | ARAGUAÍNA | TOCANTINS | Brasil | 1702109 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ea0aac3d-854a-3319-9a0c-98112b80e295 | -5.75525 | -57.60049 | 2025-08-23 05:18:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| f90fef0a-e87d-30e2-a660-aa155504751e | -7.18348 | -48.43192 | 2025-08-23 05:18:00 | NPP-375D | ARAGUAÍNA | TOCANTINS | Brasil | 1702109 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 141f51b8-7aed-32e2-b3ff-bf36fb76afe0 | -5.888 | -53.63607 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4d265801-e1e3-336e-b8e6-8ff47938067b | -5.88078 | -57.74328 | 2025-08-23 05:18:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| dabb6ffb-57ee-3d85-aaea-286b6b510b1d | -6.27453 | -52.8294 | 2025-08-23 05:18:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0f548173-ee9d-3bda-89a7-60056c11af02 | -5.79795 | -59.21682 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 884cef66-688c-3c3e-aef4-7d230f56564e | -5.88193 | -57.75794 | 2025-08-23 05:18:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4962e9e5-9cc2-38a4-a94e-91e3a4f09dee | -6.57412 | -59.86917 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e08fee4f-28d1-3899-a7fb-6da15a1b2e5c | -7.63877 | -46.28477 | 2025-08-23 05:18:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 1c605289-7021-3319-adaa-72d036e634b5 | -6.05917 | -53.8792 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| dc5b5c38-2744-3443-99b9-0138330921ec | -6.31022 | -59.88511 | 2025-08-23 05:18:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 88b910a0-46e7-3e45-90a9-653cb2e5abe0 | -6.00782 | -53.32157 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| c42db0cb-825a-3448-80a5-5b7587386576 | -3.13405 | -58.04437 | 2025-08-23 05:18:00 | NPP-375D | URUCURITUBA | AMAZONAS | Brasil | 1304401 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 07707c1d-bd7a-3eb1-b552-f8030a5fe0db | -6.72672 | -51.9805 | 2025-08-23 05:18:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 7c9fbd6b-6a79-36d6-8c9b-71172f0cd628 | -6.47764 | -55.88428 | 2025-08-23 05:18:00 | NPP-375D | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 71cd609c-2898-30d9-aeed-bcb85e39f186 | -6.2538 | -53.68186 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 20c1002c-b053-3912-bd86-9d8d2bbc9143 | -5.44181 | -60.17875 | 2025-08-23 05:18:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 0a418306-a47a-3848-9349-559268cd4ebf | -6.61863 | -60.01096 | 2025-08-23 05:18:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f26519ec-503e-3bb8-8433-c712c33df4b5 | -5.88084 | -57.76497 | 2025-08-23 05:18:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 5d141385-6d21-3f43-a827-cbe203c11d68 | -5.88852 | -53.63257 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b01ede7c-3cb9-3296-a44f-14b4c2efc32c | -5.80017 | -59.22432 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 74ee53e7-239a-3e95-a9c4-40aabd8327f6 | -5.80794 | -59.2184 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8a6e6648-0771-3870-9bbf-b27547d1b4a2 | -6.28543 | -52.82514 | 2025-08-23 05:18:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 29671ad9-e03f-3a3a-9957-f92c36d794f1 | -6.28112 | -52.82448 | 2025-08-23 05:18:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b79f4ce9-7e52-3e98-abd2-b3da9c820c12 | -6.05516 | -53.8786 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 812bad0a-8e9e-33f8-bc85-659fe13c50cd | -6.58305 | -59.87785 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| e58ff3b7-7025-3c08-a43c-db923352e2f0 | -5.79684 | -59.22379 | 2025-08-23 05:18:00 | NPP-375D | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 0c46a22d-af2e-3e09-b0ea-de5b4c0dd79a | -6.62772 | -58.54735 | 2025-08-23 05:18:00 | NPP-375D | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| da956813-57cd-3e45-90d9-69a9802a5b8a | -5.32466 | -55.94329 | 2025-08-23 05:18:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 70fe1ba9-347a-315f-a4f6-333aef164930 | -3.65818 | -54.75921 | 2025-08-23 05:18:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ce2304cd-8279-33dc-98ca-3a0b26d837b7 | -7.63955 | -46.27905 | 2025-08-23 05:18:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 083da710-5f36-331e-a10d-ca788203eb94 | -5.87524 | -57.75688 | 2025-08-23 05:18:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 251dd8e6-4b6b-3cd2-a4f0-0a8b1cdfa028 | -6.46113 | -53.39612 | 2025-08-23 05:18:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| e18bf84e-e2c5-3d82-adfa-a8fe8030bf66 | -6.30965 | -59.88867 | 2025-08-23 05:18:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 3d76954c-d0bd-34a5-9186-8c5ffc550db2 | -6.27681 | -52.8238 | 2025-08-23 05:18:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0e0f7b76-9a63-3dd0-b527-8223801675bb | -5.7363 | -59.88574 | 2025-08-23 05:18:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7c0e2170-e695-3268-873b-565e2e671aa9 | -5.22944 | -56.02235 | 2025-08-23 05:18:00 | NPP-375D | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a19f8a8c-268d-3bf5-bec7-842f898de4ec | -4.34767 | -46.47327 | 2025-08-23 05:18:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 24b1f0fc-726f-3d35-a35c-e8e6c5050697 | -2.29479 | -47.99269 | 2025-08-23 05:18:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b0eb6c29-2c97-34a3-8766-83b220cd7a3a | -2.25815 | -47.85344 | 2025-08-23 05:18:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 4f65513c-5949-38dc-a654-476b2ae3a997 | -2.70799 | -48.21221 | 2025-08-23 05:18:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a7dd6a4b-08c5-30f4-91c7-b417940241d8 | -2.92877 | -53.69635 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| afa481c7-753a-312c-83b6-9cfec56e18d6 | -2.92902 | -53.6982 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 5f6ac895-b527-342a-a8a2-a8854629bf39 | -2.25874 | -47.84952 | 2025-08-23 05:18:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| daac1082-2c0b-3368-b34e-30d7e2ba072b | -2.4438 | -47.32847 | 2025-08-23 05:18:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f1898d0e-ff51-3b63-a9b8-233cd8d74949 | -3.43355 | -49.04024 | 2025-08-23 05:18:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 89a3f335-713e-340a-ab20-d0b9c82f9464 | -2.55748 | -47.71203 | 2025-08-23 05:18:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 671b166b-a881-3a36-8e94-c79340e69074 | -4.07648 | -48.03881 | 2025-08-23 05:18:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6b860bea-338b-3b69-88b8-fe1fcf2dfef8 | -2.93362 | -53.69397 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 598f6e91-bb38-3cb6-be4a-bb56dad81203 | -4.22949 | -47.21254 | 2025-08-23 05:18:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 485d637b-bc48-39c6-81a0-91b9b78e9aea | -4.33995 | -46.47095 | 2025-08-23 05:18:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| d0158a1e-93ec-3b1e-afbb-b1388271d5c3 | -4.30967 | -48.09783 | 2025-08-23 05:18:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 3c172222-a5a2-34ea-a123-042059f4e7ec | -2.93289 | -53.69879 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 46da9ab9-4483-364d-9e7e-6f885b8b3b24 | -3.37265 | -52.79682 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| edfc053a-14b5-3250-9fca-ec7c3ec7e5bf | -3.43305 | -49.04364 | 2025-08-23 05:18:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| d7a29b23-1e06-33eb-ad93-ae7b5cb72415 | -4.34842 | -46.46798 | 2025-08-23 05:18:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| b45c4528-d660-34c5-8f65-cc3fe6290c30 | -2.5511 | -47.71523 | 2025-08-23 05:18:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 4929df14-1d1b-32a2-9942-72bdde4af138 | -2.44316 | -47.33268 | 2025-08-23 05:18:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 024220e6-b346-3419-86e0-957dcc7a5a86 | -3.43891 | -49.04105 | 2025-08-23 05:18:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| d98f5b2e-e3b4-33eb-8e2c-987c9ae2db94 | -2.55168 | -47.71123 | 2025-08-23 05:18:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| af0b736d-720b-3b77-af56-072ca37f9420 | -4.34076 | -46.46545 | 2025-08-23 05:18:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 69c966bc-6986-3217-b3b0-8086e4ab83ea | -4.31033 | -48.09626 | 2025-08-23 05:18:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| c8485ff6-bcb9-3868-b95a-855bf87af2d0 | -2.97084 | -54.65671 | 2025-08-23 05:18:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 401a93f9-d61d-3e5f-b018-849301fa3be4 | -1.51153 | -54.69135 | 2025-08-23 05:18:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ef12bf78-7a6b-3d82-a10e-76e957b6445f | -4.12434 | -48.11623 | 2025-08-23 05:18:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 752141ad-4883-33bc-b52c-665b6e3ab4a8 | -1.5614 | -54.53802 | 2025-08-23 05:18:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2a8404dc-2ab4-35aa-9da8-366bfabb65a0 | -3.28177 | -48.80842 | 2025-08-23 05:18:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 12fe4451-0e6d-3c8a-82b3-807d095994d8 | -2.91796 | -48.31016 | 2025-08-23 05:18:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2d2767c3-c489-3840-a55e-704953d122bf | -2.93217 | -53.70362 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 24ba29a9-f967-37f0-8524-5a41adbe0e9f | -3.04721 | -47.01746 | 2025-08-23 05:18:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 532fcb15-5648-3217-a01a-aa83d66126dc | -3.43841 | -49.04445 | 2025-08-23 05:18:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 08a14e73-698c-3cbf-818a-3f3663489a87 | -2.92975 | -53.69337 | 2025-08-23 05:18:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ba4f7f95-0c80-3c05-bd04-740cb49b788c | -2.55216 | -47.70934 | 2025-08-23 05:18:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4566c2cc-3d1d-3d37-9d8b-69536369e1b7 | -4.31612 | -48.09708 | 2025-08-23 05:18:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 86c68e58-9edd-3c0c-b5c4-60f5c5096a67 | -1.7006 | -55.18999 | 2025-08-23 05:18:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3a02eb80-85db-3b2d-b4f9-f535775d9ccd | -1.55777 | -54.53747 | 2025-08-23 05:18:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 0ce520f6-ff7d-320a-b6b2-e1e07b46f1d6 | -1.55644 | -54.54591 | 2025-08-23 05:18:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c475aa70-5421-3577-8835-5881b01108f3 | -2.96718 | -54.65612 | 2025-08-23 05:18:00 | NPP-375D | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 71b9f63f-e21e-3bfd-bbcc-112a0dc5b4a3 | -3.51813 | -47.20903 | 2025-08-23 05:18:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| a400821a-4b1a-3b9e-ac0b-ff146d230226 | -1.4624 | -54.11811 | 2025-08-23 05:18:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| eb217013-8be2-3e64-a677-aa116035f5a4 | -1.46174 | -54.12246 | 2025-08-23 05:18:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| be912302-c55a-3554-bf9f-31f690690426 | -1.55711 | -54.54169 | 2025-08-23 05:18:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| ed419ac0-ce27-37e2-aef7-b684a216d7cb | -4.30398 | -48.09945 | 2025-08-23 05:18:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 162c11e7-ee47-3ee9-83fc-b5411fa9bbba | -4.07265 | -49.45663 | 2025-08-23 05:18:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e0691b51-5613-3dc8-9b59-3943b5f4929c | -4.34127 | -46.47224 | 2025-08-23 05:18:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 11.0 |
+| ce010976-765d-30d0-bb06-025404cb56f2 | -4.2242 | -47.20873 | 2025-08-23 05:18:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 75ac3bd6-5299-3913-8c38-90434d199f4c | -4.07593 | -48.04273 | 2025-08-23 05:18:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4336c54a-85df-34b2-9327-f46fd342ac8b | -4.12376 | -48.12026 | 2025-08-23 05:18:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 093edf3b-1ae4-391a-95a1-ee13a1ea585e | -4.31555 | -48.1011 | 2025-08-23 05:18:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 8ed692b4-090e-3bf4-861e-76a91985ded0 | -4.22337 | -47.21172 | 2025-08-23 05:18:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8c4d3d38-8852-33b2-9d72-e66b4f488671 | -2.70295 | -48.20753 | 2025-08-23 05:18:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 179ec177-52ef-3575-9763-2bc6292e9d55 | -2.55734 | -47.71406 | 2025-08-23 05:18:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
 
 
 [Clique aqui para ver as próximas entradas](README61.md)
