@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3c2a50b8-014b-3646-90b1-48fe00bea2dc | -5.7431 | -57.5814 | 2025-08-23 01:50:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 106.1 |
-| 92bc158b-88d1-3219-8280-2d6e2139fd87 | -9.9495 | -60.1754 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 213.8 |
-| 6a27b12a-d3d1-30d2-bd77-0c8890612007 | -17.5779 | -46.5756 | 2025-08-23 01:50:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 51.9 |
-| 6de75780-4663-3462-b082-24e5a3672b1b | -9.518 | -60.5268 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 109.9 |
-| 550010c7-f01c-32e9-a32f-48bfee22f265 | -9.1897 | -59.6171 | 2025-08-23 01:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 92.9 |
-| 28cdf469-6c0c-3396-816c-83c5dca9750d | -17.2751 | -46.777 | 2025-08-23 01:50:00 | GOES-19 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 60.2 |
-| 225503a4-8103-3f24-ae47-d1aef687e2fc | -9.9681 | -60.1743 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 193.1 |
-| e986ddc0-7c91-301f-9a0f-8c1335773097 | -17.2757 | -46.7538 | 2025-08-23 01:50:00 | GOES-19 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 60.0 |
-| f10a109c-668f-38ef-8d67-7d9b6efd9f7d | -17.5785 | -46.5523 | 2025-08-23 01:50:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 68.7 |
-| 0155bfbd-0e46-3564-b417-a228ab58ebee | -9.5177 | -60.5653 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 99.3 |
-| 32564467-01b0-383f-b0ca-3cc43d6c7742 | -9.5365 | -60.5451 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 61.2 |
-| 97b6a9cb-68c6-3721-a791-64ea90480df6 | -9.968 | -60.1937 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 425.2 |
-| dfffa1d9-7f8c-3f34-9365-dbc61c71751d | -9.5181 | -60.5075 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 79.4 |
-| 9eef80b4-b936-3d8c-8cc6-a4c49c55d7c4 | -5.7429 | -57.6009 | 2025-08-23 01:50:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 152.3 |
-| 4c2829f8-34fd-33a1-a101-75170655353c | -9.9492 | -60.2141 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 48.0 |
-| aaa8b22b-4905-32a9-84bd-c6aed6da72f0 | -7.813 | -63.5656 | 2025-08-23 01:50:00 | GOES-19 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 114.1 |
-| fcc78a66-94e7-3607-8ed3-ccbe79d9cc65 | -9.5179 | -60.5461 | 2025-08-23 01:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 113.8 |
-| e88a25d6-0a3f-3bfd-801a-000d8ce923e6 | -7.8131 | -63.5468 | 2025-08-23 01:50:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 46.9 |
-| 2f420b73-7d19-3b9f-80ad-6ebe48d68591 | -7.0164 | -44.6413 | 2025-08-23 02:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| 2a98adaf-e1f8-31dd-abd8-65ae87a2d9b3 | -5.7431 | -57.5814 | 2025-08-23 02:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 89.1 |
-| 9f0eb376-62b7-34d9-a139-bc36d5fcc90d | -20.097 | -47.7676 | 2025-08-23 02:00:00 | GOES-19 | ARAMINA | SÃO PAULO | Brasil | 3503000 | 35 | 33 | nan | nan | nan | Cerrado | 42.1 |
-| 8096bcd2-3e31-332f-a811-bb95f85a025d | -17.2751 | -46.777 | 2025-08-23 02:00:00 | GOES-19 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 61.3 |
-| 2448bcd1-631c-3993-863d-dd294efc2e54 | -14.37 | -52.06 | 2025-08-23 02:00:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 53.9 |
-| bb5eacc5-a3dc-363b-b8c5-bfa68d37f5a4 | -9.968 | -60.1937 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 318.1 |
-| 43c9cfa7-ce8c-33d7-b79d-42d5266304dd | -17.5979 | -46.5715 | 2025-08-23 02:00:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 106.7 |
-| a27af4b2-04ce-3acb-8f21-b26f1ef4bd82 | -9.5179 | -60.5461 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 125.3 |
-| 44c739b8-3a92-38ab-bec2-e3c8c0782464 | -6.6041 | -44.5853 | 2025-08-23 02:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 60.4 |
-| 941282f5-5ed5-3005-ba35-d2246ec4f3bf | -5.7429 | -57.6009 | 2025-08-23 02:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 119.2 |
-| f239cbf7-8f31-3a43-98a1-06700403893e | -6.3887 | -45.5342 | 2025-08-23 02:00:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 57.2 |
-| 2bee23c2-91fe-3d24-a42c-b032824f9e5e | -18.9885 | -46.9233 | 2025-08-23 02:00:00 | GOES-19 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 43.7 |
-| 26d3684d-8c36-3f13-b405-978b00a66c21 | -9.518 | -60.5268 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 132.7 |
-| e6d13e31-12a5-3b6c-a4df-f682ca35993a | -9.1897 | -59.6171 | 2025-08-23 02:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 74.5 |
-| 9f5fd851-6d6c-33e4-8976-acb0362286a3 | -9.1895 | -59.6364 | 2025-08-23 02:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| cb4a4181-cc81-37c9-a6e0-ae5b2d2d4910 | -5.7614 | -57.6002 | 2025-08-23 02:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 103.0 |
-| 62251e9a-cf02-32c9-8783-29edbf9a2280 | -5.7615 | -57.5807 | 2025-08-23 02:00:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 82.5 |
-| a0df57e6-d8cc-3990-8cab-bda254d8a4b8 | -8.8921 | -62.4297 | 2025-08-23 02:00:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 60.5 |
-| d1ebc285-a352-3a22-a74a-a40f663ad178 | -18.9683 | -46.9278 | 2025-08-23 02:00:00 | GOES-19 | PATROCÍNIO | MINAS GERAIS | Brasil | 3148103 | 31 | 33 | nan | nan | nan | Cerrado | 91.9 |
-| 903caeed-ae25-36f3-b283-75416738bef6 | -9.9681 | -60.1743 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 162.3 |
-| c78f8073-2934-3d40-bbfb-e19ae30bfcf9 | -7.8131 | -63.5468 | 2025-08-23 02:00:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 45.9 |
-| 1e535a71-9418-3e60-9936-f3eedb3e7b52 | -9.4449 | -47.6585 | 2025-08-23 02:00:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 56.3 |
-| c180bc6c-4c69-31b3-a0c6-aac72139d603 | -7.0352 | -44.6396 | 2025-08-23 02:00:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 63.9 |
-| 36641e34-03db-3607-b379-6d4426dd579e | -3.4439 | -49.051 | 2025-08-23 02:00:00 | GOES-19 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| 53dcf064-987c-3b17-9303-1c3391301968 | -9.5177 | -60.5653 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 101.5 |
-| 43ae5e5e-1fd4-3faa-80fd-5c15ff649d0c | -9.5181 | -60.5075 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 77.2 |
-| 53080c4a-97db-33a0-844c-f21808d1099a | -9.9493 | -60.1947 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 445.0 |
-| f65028aa-2348-3c10-974c-05944cd51a0e | -6.6044 | -44.5624 | 2025-08-23 02:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 154.1 |
-| 040fb2f0-0fdd-357c-811b-c25d7e9c672b | -7.813 | -63.5656 | 2025-08-23 02:00:00 | GOES-19 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 127.1 |
-| 5bfce2b9-7c93-3f0a-90aa-989e843b33ad | -12.9921 | -45.2252 | 2025-08-23 02:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 84.1 |
-| 27ff2a58-10e0-31bb-9c92-64b847ffdf1f | -9.5366 | -60.5258 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 59.8 |
-| e8877689-ad57-3873-8a5d-0acea3fe39ff | -17.5985 | -46.5481 | 2025-08-23 02:00:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 109.9 |
-| 5d5b97d2-c639-3f74-801d-066e1cb973f7 | -17.2757 | -46.7538 | 2025-08-23 02:00:00 | GOES-19 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 69.7 |
-| 050e3e18-2870-33a5-88bc-f25999337c05 | -14.6706 | -54.9142 | 2025-08-23 02:00:00 | GOES-19 | NOVA BRASILÂNDIA | MATO GROSSO | Brasil | 5106208 | 51 | 33 | nan | nan | nan | Cerrado | 76.2 |
-| 5e7ab1e1-bd6f-38d3-b13b-9af78aaabbfa | -9.1712 | -59.5987 | 2025-08-23 02:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 54.7 |
-| 9b3eda0e-5cf8-38e7-ae55-c16829b8a820 | -9.9495 | -60.1754 | 2025-08-23 02:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 218.3 |
-| d205d74a-d36a-3690-b1cb-a06456a4c0b0 | -17.5979 | -46.5715 | 2025-08-23 02:10:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 89.0 |
-| 6da63f24-994f-3c57-a673-ece81d7400b5 | -9.5179 | -60.5461 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 97.9 |
-| 12aa7c2e-ce9e-30ee-917b-e3382a8110ed | -17.2757 | -46.7538 | 2025-08-23 02:10:00 | GOES-19 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 48.2 |
-| 6a9b1ae4-ba29-3222-91b6-4377056f2752 | -9.518 | -60.5268 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 128.3 |
-| e140a3f3-fc9c-3759-a308-d525b87e0dca | -9.9493 | -60.1947 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 378.4 |
-| d8a6fdcb-a120-33c1-90b3-4e6ee1c842b5 | -5.7431 | -57.5814 | 2025-08-23 02:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 51.4 |
-| ac4f298b-4f06-3de4-8231-d4368ae84b35 | -6.6041 | -44.5853 | 2025-08-23 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 62.8 |
-| 8ef47986-60c3-3886-b94e-6218f629af63 | -9.9681 | -60.1743 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 141.2 |
-| 521acdbf-6778-312d-8297-8c448d3ce22f | -7.8131 | -63.5468 | 2025-08-23 02:10:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 53.5 |
-| 93fa5677-0edf-3d8e-be34-f1fda998121c | -9.5366 | -60.5258 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 52.2 |
-| 2d86d918-272d-3bce-b914-829f3f9fdf65 | -9.5177 | -60.5653 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 106.8 |
-| 3c0d9a49-5616-361b-af22-e9eb73f9619e | -9.9492 | -60.2141 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 68.3 |
-| 0cb17cbe-328b-3bbb-a700-aa17c3e37b87 | -5.7615 | -57.5807 | 2025-08-23 02:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 57.0 |
-| df83ced5-52bc-343a-8ab1-018537977a4c | -8.8921 | -62.4297 | 2025-08-23 02:10:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 75.7 |
-| de03eb3d-9760-3a8a-a7f8-8cfad7be8a37 | -9.1897 | -59.6171 | 2025-08-23 02:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 82.0 |
-| e488af73-6f28-38c2-9952-1cb0c06ea2b0 | -9.5181 | -60.5075 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 78.8 |
-| 175694e4-c69a-392e-9722-e67ab3def6d4 | -17.5785 | -46.5523 | 2025-08-23 02:10:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 66.9 |
-| 486066d1-1814-329c-8882-642fb5638108 | -5.7614 | -57.6002 | 2025-08-23 02:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 55.0 |
-| bd86dd3d-f1ef-332f-840d-7a81912260d0 | -7.0164 | -44.6413 | 2025-08-23 02:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 82.5 |
-| b391c073-ea7e-35a9-89d2-9129c36f1257 | -17.5985 | -46.5481 | 2025-08-23 02:10:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 118.6 |
-| d07534eb-31af-3643-b8f0-46dc0554789a | -7.0352 | -44.6396 | 2025-08-23 02:10:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| 0db2120c-2724-37e8-aee1-8dedaa23504d | -6.6044 | -44.5624 | 2025-08-23 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 128.7 |
-| 0e4750fa-fc9d-3656-ae9a-8dbb24c35194 | -12.9921 | -45.2252 | 2025-08-23 02:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 83.9 |
-| ffb2d26e-85b8-30bc-a306-d6d06ef208c3 | -9.968 | -60.1937 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 218.5 |
-| 7ed405f4-6cf8-337a-8ff6-d613f126e1d7 | -5.7429 | -57.6009 | 2025-08-23 02:10:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 48.1 |
-| ef3e8bf9-e667-3165-9695-a91fea9b353d | -9.9495 | -60.1754 | 2025-08-23 02:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 219.9 |
-| 33d2c821-3e82-39a4-bd37-1a03c735b4d8 | -7.813 | -63.5656 | 2025-08-23 02:10:00 | GOES-19 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 112.1 |
-| 0b79e64e-871a-3120-b239-ce1ae1ae3cfd | -17.5985 | -46.5481 | 2025-08-23 02:20:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 119.8 |
-| 48c131e7-d5dd-389c-a590-d15af4857cae | -9.5181 | -60.5075 | 2025-08-23 02:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 75.5 |
-| 5f537754-6ece-31ab-87d2-974f7dadef94 | -7.8131 | -63.5468 | 2025-08-23 02:20:00 | GOES-19 | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | 46.0 |
-| 3cd46b5c-f3bb-36f1-99ae-d1087a07329c | -9.9681 | -60.1743 | 2025-08-23 02:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 123.4 |
-| dbc9bf16-65d4-3ced-a666-02fb0cccdfd6 | -8.5944 | -62.6126 | 2025-08-23 02:20:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 66.6 |
-| 8904f9d9-06ea-3c09-84de-daca9e22c0dc | -6.6041 | -44.5853 | 2025-08-23 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| 72e2b8ba-adc3-3a23-ab69-350cefdb1af5 | -17.5979 | -46.5715 | 2025-08-23 02:20:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| 4d690407-9c43-3680-aa0a-efcca51dc0af | -17.5785 | -46.5523 | 2025-08-23 02:20:00 | GOES-19 | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 66.1 |
-| 5590c1c0-61ac-33a3-a9fa-b80d2ff74ffd | -9.9495 | -60.1754 | 2025-08-23 02:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 197.4 |
-| 4eae2bff-a9a5-36c5-b56d-4776b74421cc | -12.9921 | -45.2252 | 2025-08-23 02:20:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 80.8 |
-| 11381910-c5d8-3f41-bb4e-674e95655213 | -9.518 | -60.5268 | 2025-08-23 02:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 112.7 |
-| 800d77ad-28b8-3bff-858f-00702ce40764 | -9.5179 | -60.5461 | 2025-08-23 02:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 109.9 |
-| 1aeafd9f-a16a-3b28-839f-3ea714f5b7f3 | -7.0164 | -44.6413 | 2025-08-23 02:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 64.2 |
-| b791de8b-2768-3036-9c33-ca6a76519c22 | -6.6044 | -44.5624 | 2025-08-23 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 137.4 |
-| b2bad9f3-fc89-36a3-ad04-b309df1d340a | -5.7614 | -57.6002 | 2025-08-23 02:20:00 | GOES-19 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 38.1 |
-| 69fc40ae-4091-3451-bbb4-9ab6053ad3f5 | -9.1897 | -59.6171 | 2025-08-23 02:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 72.8 |
-| 26add070-55a0-3bfe-bb9d-1a4390a60e57 | -8.8921 | -62.4297 | 2025-08-23 02:20:00 | GOES-19 | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 56.7 |
-| ca6bd448-169e-3482-a6db-1d02268e8cf9 | -9.5177 | -60.5653 | 2025-08-23 02:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 107.4 |
-| 96adc3c8-2f61-3b53-be52-f8293fa9f644 | -7.0352 | -44.6396 | 2025-08-23 02:20:00 | GOES-19 | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 74.0 |
+| 2042a118-4b17-3b5e-824e-39add5efd411 | -9.15929 | -59.50002 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 141.8 |
+| 95c993fb-792c-3e88-8264-acbf4c66ea19 | -6.61445 | -48.05143 | 2025-08-24 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| 5573c573-1496-37e9-86d9-5c108b541037 | -14.77754 | -55.98512 | 2025-08-24 00:50:00 | TERRA_M-M | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 26641f4b-862f-3da2-805a-9569b16cd02f | -5.8604 | -52.09063 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 6078b775-e85a-3485-863d-6148bd443d3f | -11.99757 | -61.03217 | 2025-08-24 00:50:00 | TERRA_M-M | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 171.1 |
+| caf77baf-5f9e-3811-b94d-db879dfe13ca | -8.83859 | -49.90077 | 2025-08-24 00:50:00 | TERRA_M-M | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| d4187a74-3cc6-3ca4-b172-3e9f56e996ff | -7.62161 | -45.24419 | 2025-08-24 00:50:00 | TERRA_M-M | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 24.7 |
+| c66dfdf0-3b77-3788-aa79-054368009207 | -9.2036 | -60.79862 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 134.7 |
+| 3b57a325-ea58-3db4-9fdd-9cd0e0b93dc1 | -8.54144 | -48.86607 | 2025-08-24 00:50:00 | TERRA_M-M | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | 9.2 |
+| 9487cd08-1c9e-3aa1-a658-729278369570 | -9.19683 | -59.62506 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 22.7 |
+| 57a9fcde-c0f9-30a5-9715-b2f578854378 | -13.47359 | -46.88485 | 2025-08-24 00:50:00 | TERRA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 6f0e9ae3-28ba-3495-bea4-facc4ec2e059 | -6.61228 | -48.03723 | 2025-08-24 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Amazônia | 13.8 |
+| a80b5e1d-5080-337e-965a-3dc365908c57 | -6.31129 | -59.88633 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 24.1 |
+| 91f27629-d8e4-3685-a276-a1128a8cfbc7 | -13.04669 | -45.22962 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 46.7 |
+| 3b82c19e-ef0c-32f4-a0a5-5d83decb293b | -14.50413 | -53.09751 | 2025-08-24 00:50:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 264eeed6-f9fe-33c5-8611-90d9c6b08031 | -10.59584 | -50.18609 | 2025-08-24 00:50:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 142.6 |
+| 2c84a977-a19c-3313-9da6-afabdfbfd7ce | -8.71292 | -51.1425 | 2025-08-24 00:50:00 | TERRA_M-M | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 21.4 |
+| 916f62b1-b7d0-3efc-92f5-fd065d9013a3 | -5.85915 | -52.08169 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 18.5 |
+| 6c54974e-fab1-3b1f-be80-1836d0d78a2d | -10.61053 | -55.41305 | 2025-08-24 00:50:00 | TERRA_M-M | COLÍDER | MATO GROSSO | Brasil | 5103205 | 51 | 33 | nan | nan | nan | Amazônia | 30.5 |
+| 1bdf1a0d-09ca-34ed-a682-0e112b99a38b | -8.76741 | -49.97955 | 2025-08-24 00:50:00 | TERRA_M-M | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 28.6 |
+| cef49265-f34c-356f-b150-5ad81b64d4c6 | -12.73462 | -48.13413 | 2025-08-24 00:50:00 | TERRA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| 6bdc2aca-06b0-3f3d-ae1b-2dee36f55701 | -7.02035 | -44.64078 | 2025-08-24 00:50:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 83.9 |
+| bba92030-5bdd-377d-bfc5-832c53e9908d | -15.32347 | -56.16253 | 2025-08-24 00:50:00 | TERRA_M-M | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 97eea79d-cc18-3da2-9eb3-4a109d613a4b | -11.53887 | -51.91279 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| 97aad6b5-728f-333f-8444-eaf179bf949f | -8.76595 | -49.96951 | 2025-08-24 00:50:00 | TERRA_M-M | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| e661859d-f5f1-301a-9ccc-f60d841d88ab | -11.53146 | -51.85881 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 15.3 |
+| b8a0ff52-0a0d-3578-b126-8634385a78e1 | -8.51135 | -48.87048 | 2025-08-24 00:50:00 | TERRA_M-M | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 7d74b802-e551-3ca7-81bd-dcfd93433e9d | -6.61317 | -48.0573 | 2025-08-24 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Amazônia | 27.4 |
+| 27d2d715-423c-3185-9bd8-46a7138c4e71 | -5.7931 | -59.23128 | 2025-08-24 00:50:00 | TERRA_M-M | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 11.2 |
+| a2fec73f-28e5-3125-a1a3-2bbffcf75d21 | -9.15082 | -59.48291 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 195.2 |
+| 450ae1af-c5b3-34d0-be8b-9ef1f021ba3e | -9.18741 | -59.62007 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 28.4 |
+| 1818f7fd-3068-3785-8105-1c6d26bf91a3 | -6.68492 | -58.85372 | 2025-08-24 00:50:00 | TERRA_M-M | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | 69.9 |
+| 399a18c9-2934-33ac-8b59-03b636cde889 | -6.87124 | -59.81817 | 2025-08-24 00:50:00 | TERRA_M-M | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 24.6 |
+| e5f2f449-baf5-3ca7-8fd8-610f14e4613d | -5.4226 | -60.17882 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 303.0 |
+| 0a1e04ac-e594-3525-83b7-2a5d8dbac207 | -13.46714 | -47.01625 | 2025-08-24 00:50:00 | TERRA_M-M | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 14.1 |
+| c5fb7f7a-4e75-3905-8303-bb872cef049e | -10.80326 | -46.40229 | 2025-08-24 00:50:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 40.8 |
+| fa550f0f-b4b3-3a8b-9149-ac6dde4d58d6 | -9.1983 | -59.47073 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 25.0 |
+| 4e12f18f-89f2-35d3-a27f-1d86c1576c31 | -9.16179 | -59.45723 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 285.4 |
+| f4c47201-024e-379f-8e73-78f4ba2c0d84 | -11.83137 | -55.22338 | 2025-08-24 00:50:00 | TERRA_M-M | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| 10f0ea21-dc5f-3eea-bd32-2807ebaf100a | -4.93665 | -55.81387 | 2025-08-24 00:50:00 | TERRA_M-M | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| bd2b6cbf-c19c-3624-8869-d0d9cbb483aa | -5.41507 | -45.0007 | 2025-08-24 00:50:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 124.3 |
+| 1f860f8b-20f0-3f04-9971-e03b6553b09e | -3.78639 | -47.57801 | 2025-08-24 00:50:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| 06221945-6193-3f8c-8e91-11758c98e534 | -9.14789 | -59.45898 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 162.2 |
+| e83f7fc7-cef3-3128-8c6a-cfa3344403c9 | -11.54773 | -51.91151 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 19.1 |
+| fe059d81-7e80-3c45-b6dc-fd8ada2e76e0 | -11.33066 | -47.8647 | 2025-08-24 00:50:00 | TERRA_M-M | SANTA ROSA DO TOCANTINS | TOCANTINS | Brasil | 1718907 | 17 | 33 | nan | nan | nan | Cerrado | 27.3 |
+| 041d9485-78b7-34ce-9c09-9df7ce1477e4 | -11.54649 | -51.90251 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 24.7 |
+| 69e0d323-248b-3b33-b2a1-d43d067d913f | -8.70398 | -51.14382 | 2025-08-24 00:50:00 | TERRA_M-M | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
+| 0ee66cfd-db6f-3901-a4f7-92f32da0bc0a | -13.37652 | -54.39218 | 2025-08-24 00:50:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 13.7 |
+| d294765e-16a6-3ab8-97cf-923cc005a60f | -5.42823 | -60.17163 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 404.4 |
+| 0e5954d7-7fd3-3479-ac52-dc347066bffe | -6.57672 | -59.8747 | 2025-08-24 00:50:00 | TERRA_M-M | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 17.7 |
+| f1bc4307-326c-341d-ae6a-c92d1f70d9ce | -8.76436 | -46.75667 | 2025-08-24 00:50:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 23.6 |
+| 3971114d-ee30-38ca-a413-aa52a309cb85 | -5.806 | -59.22945 | 2025-08-24 00:50:00 | TERRA_M-M | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 20.1 |
+| 43df7e33-14dc-365f-9860-0585ca4062d5 | -8.89905 | -47.33033 | 2025-08-24 00:50:00 | TERRA_M-M | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 39834f03-5817-3318-9d40-03adfefe5ef3 | -6.26943 | -53.65046 | 2025-08-24 00:50:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 20f0bbcd-d5ee-3d75-9dde-1d5c6d876ea3 | -6.61111 | -48.04314 | 2025-08-24 00:50:00 | TERRA_M-M | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Amazônia | 47.7 |
+| 6b0ae968-2a58-341f-985c-91977718aac0 | -10.59448 | -50.17656 | 2025-08-24 00:50:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 21.9 |
+| c0c5fba7-6f0f-3d38-bf06-ea43bb0d6540 | -9.16207 | -59.52414 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 26.7 |
+| 029e913c-721e-358c-b2eb-8898bd242e38 | -5.66637 | -45.15455 | 2025-08-24 00:50:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 40.7 |
+| da6193ac-2880-3caf-84fe-0d534bd9d7dc | -11.52385 | -51.86909 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 22808eca-16c8-38dc-b76f-bfe7ea6ce470 | -11.53126 | -51.92308 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 39.2 |
+| 1578b5cf-c7db-33c1-9f12-482e0a8c421d | -12.99175 | -45.22638 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 27.7 |
+| 3d3a7df4-7613-377f-a2dd-8f97a79a4db4 | -9.83023 | -47.76889 | 2025-08-24 00:50:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 566170a3-2ddf-3d64-b345-26921ec2dede | -5.43119 | -60.19529 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 42.9 |
+| 99ed0628-ce2c-34a6-87cf-e89b4453de45 | -6.18261 | -45.43369 | 2025-08-24 00:50:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 42.0 |
+| 1ecb8e03-626a-363d-9fa2-142c731b9f0c | -12.99489 | -45.22001 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 17.0 |
+| 0cbff809-fba6-3bb2-8fed-9193aa0463c4 | -8.90501 | -62.4398 | 2025-08-24 00:50:00 | TERRA_M-M | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 102.8 |
+| a00e5c5f-fabe-3ad1-9700-e380f51ca5a0 | -10.79561 | -46.4095 | 2025-08-24 00:50:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 13.6 |
+| 926cdc48-af8c-39ab-a1f9-dcd82ee49b49 | -6.42529 | -53.37747 | 2025-08-24 00:50:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| a70d050c-0d88-34dd-a7f6-7c3f98ecd183 | -14.32781 | -53.08208 | 2025-08-24 00:50:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 8fbefdb6-05fe-36a8-bf35-5f365d614376 | -5.43648 | -60.17703 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| 17c34d17-8784-30a6-b3d1-524ef890a4a4 | -14.82096 | -55.97319 | 2025-08-24 00:50:00 | TERRA_M-M | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 60.2 |
+| 5e8f9d58-d90b-35ed-a2e1-3076c29fd732 | -11.82975 | -55.21075 | 2025-08-24 00:50:00 | TERRA_M-M | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 21.1 |
+| 1e5576f0-ac07-39fc-aa87-770adae040e5 | -14.0404 | -54.07804 | 2025-08-24 00:50:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| 698df3b1-e716-31d1-adb1-b88700642397 | -8.61982 | -62.60925 | 2025-08-24 00:50:00 | TERRA_M-M | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 69.0 |
+| aed031d5-71dd-3880-8fd1-18da50f57632 | -10.40755 | -47.18368 | 2025-08-24 00:50:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| 3781d980-aefe-3927-bac4-f4f4885ba137 | -12.05047 | -50.36716 | 2025-08-24 00:50:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 19bb78bc-cbb6-34c4-a02f-d7c9ae92c1ce | -9.16772 | -59.50517 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 27.7 |
+| 19c58c3d-8e8c-353d-a713-316046cb3c75 | -5.45035 | -60.17524 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 30.4 |
+| 0e6f82dc-1cd9-34d9-a31e-462a1cc9a4a0 | -8.85937 | -52.04827 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
+| abca6dbc-ec2f-30c9-81e6-a2a6e31830ff | -14.55174 | -49.11356 | 2025-08-24 00:50:00 | TERRA_M-M | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| de3eb8af-2a6c-3f75-9f81-8ce212b7ca8e | -5.85154 | -52.09194 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 15.4 |
+| b9692fab-e47e-3eb7-b4e8-67cfc7e13fee | -8.51309 | -48.88211 | 2025-08-24 00:50:00 | TERRA_M-M | ITAPORÃ DO TOCANTINS | TOCANTINS | Brasil | 1711100 | 17 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 3e46371f-b270-3d02-b4e6-1ab840751a23 | -5.85028 | -52.08297 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 32.9 |
+| 02a4f0ce-ef4c-3f0c-ad62-270232bec8ac | -4.30821 | -48.09602 | 2025-08-24 00:50:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 19.0 |
+| 1fee5eba-660a-37cd-98c0-b2bcba4ad74e | -5.76022 | -53.76739 | 2025-08-24 00:50:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 9.1 |
+| 03ef2386-5b99-370a-8da7-ea34f73eaa2a | -14.59543 | -54.85522 | 2025-08-24 00:50:00 | TERRA_M-M | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 3204473a-0e24-3283-82b8-7a8d6c7ab1ee | -4.01886 | -49.50923 | 2025-08-24 00:50:00 | TERRA_M-M | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
+| b16a05bf-89a3-3bd0-ae7d-4af79a419e0e | -12.99793 | -45.23816 | 2025-08-24 00:50:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 15.1 |
+| 99918776-d859-38db-bd67-75f2d6388307 | -9.16475 | -59.48115 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 291.1 |
+| 9a7464ee-21cd-300f-94c9-27ed83ba1f55 | -4.48548 | -47.66404 | 2025-08-24 00:50:00 | TERRA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
+| d9195d4d-fda6-369d-9905-4d28e74a1e3d | -9.13821 | -60.77499 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 79.0 |
+| 619a0377-df75-3d81-8016-38b1a71cc3e1 | -14.32916 | -53.09229 | 2025-08-24 00:50:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| c8953c29-0463-3978-88f2-ace33f59fbde | -8.71164 | -51.13338 | 2025-08-24 00:50:00 | TERRA_M-M | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
+| e13d107c-fd3b-3183-9a63-73b01f41dd0e | -5.45899 | -60.19166 | 2025-08-24 00:50:00 | TERRA_M-M | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 31.3 |
+| 27a9a57c-88be-3738-bed7-3e1724472327 | -10.81215 | -46.3834 | 2025-08-24 00:50:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 12.8 |
+| 54104089-d42b-3121-9692-a261b45b670e | -3.7915 | -47.57125 | 2025-08-24 00:50:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 82.1 |
+| 8ab14c9c-5658-3e69-a671-06412d6eef17 | -14.79689 | -59.62487 | 2025-08-24 00:50:00 | TERRA_M-M | NOVA LACERDA | MATO GROSSO | Brasil | 5106182 | 51 | 33 | nan | nan | nan | Amazônia | 52.0 |
+| 99797c21-ee71-3422-ab4a-25d6363d9cfb | -5.41277 | -45.00661 | 2025-08-24 00:50:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| c17d60ef-802f-38f6-ac4d-b1552263d1d9 | -3.78393 | -47.56076 | 2025-08-24 00:50:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 30.0 |
+| 9ff832e8-0113-38f7-a2c7-56c0da7d5dc5 | -9.17044 | -59.47416 | 2025-08-24 00:50:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 209.2 |
 
 
 [Clique aqui para ver as próximas entradas](README11.md)
