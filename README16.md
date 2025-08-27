@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9255fee7-1ffc-3712-825c-0874ad358680 | -9.1954 | -59.5336 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 60aef647-cf5e-339e-9e48-4f7ed72ef7f3 | -9.2644 | -59.787601 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ed8fc848-62be-3768-8553-d32c1ba1c8a8 | -9.1933 | -59.4356 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1fb28ffb-cf5b-371c-ad52-eb8cc651772e | -6.5644 | -51.071499 | 2025-08-26 01:32:00 | METOP-C | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e05ea196-8f47-34b6-b658-ba3a23ad1e5f | -7.4239 | -60.622002 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 822218ef-301f-3ce7-b9d4-cbdf6e1016b9 | -9.6514 | -59.630901 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 96c96855-569b-3519-a9af-0492aa1eab39 | -7.3789 | -64.345703 | 2025-08-26 01:32:00 | METOP-C | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| b890509c-6a70-3459-81d7-36003d4a3972 | -9.8087 | -64.282204 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| d3c6fc2f-3624-324a-a7cb-89a86ae89613 | -9.1904 | -59.5121 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3b5c1297-3621-31d8-af24-32da5438d353 | -9.1673 | -59.456902 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3428b5c3-71e1-3f10-8f27-b839c5edf4e9 | -8.3252 | -50.538601 | 2025-08-26 01:32:00 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 025facdc-cc61-306e-bb6c-55173d64a3fb | -11.5535 | -52.136799 | 2025-08-26 01:32:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7a9ba0d0-df05-3d71-9f10-8f463f91526a | -9.1741 | -59.530998 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 877b95a7-58fa-3c00-b9a7-c1ac2b0a01fc | -4.9607 | -55.815498 | 2025-08-26 01:32:00 | METOP-C | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| be86bfd7-8c62-3657-9f4d-573b60ed4901 | -10.7471 | -60.721901 | 2025-08-26 01:32:00 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 97dca8f1-d218-3ac9-8d4e-f174fe3c7443 | -9.1944 | -60.7854 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f7cf10e2-6867-33f4-a710-6b3cd356874f | -11.3006 | -55.105999 | 2025-08-26 01:32:00 | METOP-C | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 87a2f5d2-56fc-36c5-8ec4-37e3eb27e608 | -7.4852 | -61.339298 | 2025-08-26 01:32:00 | METOP-C | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 61866b91-6dd7-39c3-aa4f-a0681120081d | -8.7444 | -63.735699 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9295ec03-d7c9-3a40-a84c-402bbf1361f7 | -8.351 | -62.937199 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 4925f1d1-7f25-3fd9-8391-bab53d8969ee | -6.2597 | -60.0051 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 553766d9-aa1e-3a9d-8f6c-bce54dd7cc65 | -6.7065 | -58.559101 | 2025-08-26 01:32:00 | METOP-C | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| fe72494b-c090-3b56-ab24-c37d565641ea | -6.8145 | -58.975498 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 4ce7fae0-9585-339d-8f4d-3e9eec01e988 | -14.1129 | -53.971901 | 2025-08-26 01:32:00 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| f4b6eddd-75ef-3e35-880e-eb3944d57e10 | -7.7448 | -50.279598 | 2025-08-26 01:32:00 | METOP-C | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2c6e5807-d304-3601-967a-cdf328bc7e71 | -6.313 | -59.878799 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| ee34b5d1-4a90-3df1-8ef3-30931e9aa7ed | -6.7809 | -59.6717 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 38498adf-a3ee-37f9-af1d-d4b00971dded | -7.5329 | -63.374298 | 2025-08-26 01:32:00 | METOP-C | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| a35140d3-d66b-32b4-a9bf-195390f5e906 | -7.4419 | -60.6106 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c79471c5-3e44-3602-9018-86a74d10aa69 | -8.8453 | -62.4319 | 2025-08-26 01:32:00 | METOP-C | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| c547b26b-5739-334e-a342-b761cd22687e | -10.5239 | -57.972401 | 2025-08-26 01:32:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| eb234994-a021-3859-b0d7-cdceec8c1a00 | -4.9577 | -55.8032 | 2025-08-26 01:32:00 | METOP-C | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8e3e35d6-23d1-3f1c-8d7f-3f9ffd5f54a6 | -9.0329 | -65.718002 | 2025-08-26 01:32:00 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 66f9ee8d-9b0c-3a00-ae5f-9b1bc7ea1897 | -9.17 | -60.769199 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c1582a9e-f28e-391b-a0cb-0c5452d7246b | -10.4244 | -60.300301 | 2025-08-26 01:32:00 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a29fb450-a0ed-3921-a59a-4e956af10f3b | -9.152 | -60.780499 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 65d05d01-4038-3724-bb74-8dcfccd38962 | -9.0057 | -65.402 | 2025-08-26 01:32:00 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 0160d3c0-a879-367c-b943-65d9ac56a9a2 | -9.2356 | -60.921001 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9ebcbcde-6cd8-3379-8b2c-3dd8bc49e281 | -8.8583 | -62.444 | 2025-08-26 01:32:00 | METOP-C | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 50991964-59ce-3f8c-8b71-5b529bfc0177 | -9.2128 | -59.431099 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cc6d7504-56e2-332b-9179-06f402922691 | -6.8403 | -58.953201 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c9522d92-1f4a-3675-963f-26a7d0e5fbf9 | -6.6948 | -58.553299 | 2025-08-26 01:32:00 | METOP-C | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 91c6e003-9aec-3014-9dbe-eca5c13e6aff | -8.8501 | -62.4534 | 2025-08-26 01:32:00 | METOP-C | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 21ae1c1c-3e5b-320b-9c7a-8f38430b5ae1 | -8.5523 | -62.640499 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 490430f9-d4d7-3ee5-9b9a-9685dda6ba62 | -8.3221 | -50.565899 | 2025-08-26 01:32:00 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7b2fd149-c133-307f-9c32-0981f46fc283 | -9.2666 | -56.901699 | 2025-08-26 01:32:00 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 358161da-eb9f-379c-beac-661c2bfd9637 | -6.2483 | -60.000198 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| b1955e4a-fc1d-31c1-a5c6-17ab67abe773 | -10.8797 | -55.793598 | 2025-08-26 01:32:00 | METOP-C | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| acdb448f-bd0e-3cdb-8739-beb0feb87b69 | -6.8421 | -58.960999 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 96f32dae-4184-39b4-b016-d4fa402f4e89 | -9.0015 | -65.382599 | 2025-08-26 01:32:00 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 94c58b9e-f8a2-336e-93da-394e9b326598 | -6.8243 | -58.973202 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| e3bfb86b-1117-320f-a855-2a9a86d672e5 | -10.4262 | -64.387299 | 2025-08-26 01:32:00 | METOP-C | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 13b4ef15-1afb-3425-9c69-27dfe12fdff3 | -9.3332 | -63.191002 | 2025-08-26 01:32:00 | METOP-C | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 22cfffa1-3b79-3c62-b44d-d6796a0fd546 | -6.669 | -58.795101 | 2025-08-26 01:32:00 | METOP-C | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c4417d74-4fe6-3fd2-8c0e-05699080c109 | -9.0448 | -65.726097 | 2025-08-26 01:32:00 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a2901e8-4768-3012-b07c-0b8608afae55 | -7.3967 | -64.333199 | 2025-08-26 01:32:00 | METOP-C | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 1ae415c6-da68-3fcb-9ee7-e16eb5ee42a8 | -6.7856 | -59.647499 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 14cc644f-4b68-389c-9c79-853be986cc5c | -6.2401 | -60.009602 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c82c9246-9763-313a-8570-e0a128ad3627 | -9.2547 | -56.894901 | 2025-08-26 01:32:00 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 10f4dcfb-5570-3463-88fd-0a0bb2604b6c | -9.1656 | -59.449699 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| fd5b2427-0967-33fd-b1d4-30372cec737e | -9.5259 | -60.520901 | 2025-08-26 01:32:00 | METOP-C | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 31777738-f01a-3368-ac7b-23a3a8349265 | -8.1108 | -62.875401 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 88633c0a-cb1d-3d50-beb1-f654511c8588 | -8.9903 | -65.425598 | 2025-08-26 01:32:00 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| e310f970-08fa-3dbe-8b47-ada5d940f440 | -8.3477 | -62.922501 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 9f45d4e9-26a1-39ac-bd07-c889887f90bc | -13.4508 | -51.1675 | 2025-08-26 01:32:00 | METOP-C | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 49360720-4519-3041-bc03-9f643fa241b5 | -8.6144 | -62.641899 | 2025-08-26 01:32:00 | METOP-C | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| 8a8f2324-1e78-365b-85ae-511763b91750 | -13.4363 | -51.151699 | 2025-08-26 01:32:00 | METOP-C | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 59546e19-35f6-3b8b-b939-d75fddb51d15 | -7.4722 | -61.327801 | 2025-08-26 01:32:00 | METOP-C | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 3dff41fb-0095-334d-96c2-5b246c3b7d17 | -6.8394 | -59.3465 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 00638dbb-838b-3b33-93c4-cabeeabcba91 | -6.2385 | -60.002399 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| e7e433a3-e417-3462-8063-8a7e570c47bc | -6.5812 | -59.878399 | 2025-08-26 01:32:00 | METOP-C | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 64925243-efde-3867-bb52-14d3c698cca6 | -7.6217 | -61.034199 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 4211e7d9-a089-3844-8d92-4f005a63815c | -7.3869 | -64.335297 | 2025-08-26 01:32:00 | METOP-C | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 858d1dcf-59fd-3976-8980-6f96915caa92 | -6.6574 | -58.789501 | 2025-08-26 01:32:00 | METOP-C | MAUÉS | AMAZONAS | Brasil | 1302900 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| c0df24fd-8f38-3430-bdd0-1ea5222abf81 | -6.8385 | -58.945499 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 2ce028b9-70bd-36c6-ab0e-a9e2bd506db3 | -7.4868 | -61.3461 | 2025-08-26 01:32:00 | METOP-C | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 209a4083-cc04-36f8-991b-5f43587867a1 | -11.5438 | -52.1394 | 2025-08-26 01:32:00 | METOP-C | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 58c77c3b-846c-37f3-8993-39b1ed7ee91a | -9.1779 | -60.8036 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f2b5f109-d265-345a-8477-95c41592e00e | -9.1985 | -59.502701 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 62d1fc9c-31ea-31c7-8f4c-4721137ccf1d | -11.3075 | -55.092602 | 2025-08-26 01:32:00 | METOP-C | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e960782-04d1-30c7-aaeb-8dd654a8f261 | -9.1887 | -59.505001 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a36b7261-5541-34d1-ba9e-b7724ae6d13c | -8.3156 | -50.5411 | 2025-08-26 01:32:00 | METOP-C | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8c3daa51-678f-35dd-9dbf-39226232b7ac | -6.2499 | -60.007401 | 2025-08-26 01:32:00 | METOP-C | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| e3015931-10d0-36fb-9f6b-10373eed7b00 | -8.9024 | -62.456902 | 2025-08-26 01:32:00 | METOP-C | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| ca96dae8-5587-339b-86bf-a98ab18fe1ed | -9.6416 | -59.633202 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a350581-86c5-34c6-845e-0a450754b07b | -10.7456 | -60.715 | 2025-08-26 01:32:00 | METOP-C | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6f4453be-b6a2-3e11-bd9d-d018f1da55e1 | -6.7907 | -59.669399 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 81069022-2cf1-3ac5-921e-9a16f399f155 | -8.8665 | -62.4347 | 2025-08-26 01:32:00 | METOP-C | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | nan |
-| f54cd98d-1c3c-32d2-8e66-82a7dddd1685 | -7.8819 | -63.0028 | 2025-08-26 01:32:00 | METOP-C | HUMAITÁ | AMAZONAS | Brasil | 1301704 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 3f45569d-fa11-3d0c-a707-7e25efc63d94 | -9.2002 | -59.509899 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5457511c-ca93-3a58-9d29-f2226c64c833 | -7.4207 | -60.6082 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 5090b900-41a3-3f7b-ba9a-1b6cf1d86ac1 | -9.2547 | -65.6073 | 2025-08-26 01:32:00 | METOP-C | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 2d016bfd-1412-37c7-9cb7-90be9edab25c | -9.2742 | -59.785301 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 028e179f-ab52-3dc7-9a54-3619d84909b6 | -9.1852 | -59.445099 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f2a04191-a66d-3406-a93a-706127af9d30 | -9.1861 | -60.794498 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f2b5f4dd-43cd-376b-a802-e0154f63e2d8 | -9.166 | -59.540401 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3ca805b1-06f9-3552-a0ba-502714d9ed5a | -9.1633 | -60.785198 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8448f638-7672-336c-aeca-6e7ef86def92 | -9.2325 | -60.907299 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 6c6d20c2-3746-342c-b916-ee5c3daf7a8f | -7.4435 | -60.6175 | 2025-08-26 01:32:00 | METOP-C | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | nan |
-| 6b381ea6-6cc7-3341-9b97-481a4fcf8e95 | -9.1708 | -59.516701 | 2025-08-26 01:32:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d2f7536a-c98b-3bf1-b503-0a5a7babc242 | -9.1715 | -59.5599 | 2025-08-27 02:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 67.8 |
+| a74a575c-9b6a-38f2-a492-5b9273d2e109 | -13.1837 | -45.2865 | 2025-08-27 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 65.2 |
+| 7b3d8995-dedd-38cf-938c-f8fb42247b63 | -9.1529 | -59.5609 | 2025-08-27 02:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 54.0 |
+| 4c28326f-63a2-3c74-9287-b1248deb0e0a | -9.0821 | -49.5638 | 2025-08-27 02:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 68.5 |
+| 1e57c44e-0ac1-3b64-ac16-a0e752d11ab6 | -9.7915 | -64.265 | 2025-08-27 02:30:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 62.8 |
+| bae8f66c-b21b-3662-b914-e4adb3e0df09 | -6.8412 | -58.9746 | 2025-08-27 02:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 69.5 |
+| aac70919-daad-36b1-bd60-08f549440990 | -6.8228 | -58.9753 | 2025-08-27 02:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 7019706d-2d7c-364d-b2fd-77d0d196747e | -9.4062 | -60.5326 | 2025-08-27 02:30:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 109.1 |
+| cac05871-d524-3e7b-b8a9-a71ec2aacd3c | -9.4065 | -60.4941 | 2025-08-27 02:30:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 91.3 |
+| efd73022-33a7-35f6-8607-f7ec2ccf72bd | -9.1007 | -49.5835 | 2025-08-27 02:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 98.7 |
+| 19a5ce1d-fd4b-33fd-96d8-d31c339fe703 | -9.1009 | -49.5621 | 2025-08-27 02:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 90.7 |
+| 953b2dfc-60d7-3742-97c5-ad23fc41a4d1 | -9.4065 | -60.4941 | 2025-08-27 02:40:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 79.9 |
+| eab1a3df-29d5-3862-a002-52d1394653b2 | -9.4062 | -60.5326 | 2025-08-27 02:40:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 90.9 |
+| f7a87b96-09f9-34f9-bba1-69bcaff981db | -13.1837 | -45.2865 | 2025-08-27 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 69.3 |
+| b5833a0f-5557-3acc-9325-86ca5bdab04d | -10.2743 | -64.4907 | 2025-08-27 02:40:00 | GOES-19 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 36.4 |
+| f9c50d69-147d-315f-8672-13438d9e32b2 | -9.4064 | -60.5133 | 2025-08-27 02:40:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 115.0 |
+| 3a7b994c-a40a-35c7-a811-9f1339499a7c | -9.8101 | -64.2642 | 2025-08-27 02:40:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 39.3 |
+| 1dea9917-7d9c-332a-ba60-7305e3db58dc | -20.7074 | -49.2447 | 2025-08-27 02:40:00 | GOES-19 | GUAPIAÇU | SÃO PAULO | Brasil | 3517505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 57.1 |
+| a39a518e-c3ee-3170-abc9-9eb0652e55cd | -9.1009 | -49.5621 | 2025-08-27 02:40:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 89.9 |
+| bc74b2a8-344e-3b22-b141-9a7f2e575105 | -20.6869 | -49.2492 | 2025-08-27 02:40:00 | GOES-19 | GUAPIAÇU | SÃO PAULO | Brasil | 3517505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 140.7 |
+| 4d5b18b0-0d05-36dd-ab4f-dbdc1140fab4 | -6.8413 | -58.9552 | 2025-08-27 02:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 86.7 |
+| 6043f262-22e9-316d-8df8-7d9ae20dc9ad | -5.118 | -43.2198 | 2025-08-27 02:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 46.2 |
+| 1fe73b73-32b1-3c6c-99d1-280d4fb3a177 | -9.1715 | -59.5599 | 2025-08-27 02:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| 0edb8be0-0379-34bd-baeb-decb1fb42ca7 | -5.1181 | -43.1964 | 2025-08-27 02:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 64.1 |
+| bf7a5b92-6754-3804-ad0e-82ce32a04fef | -6.8412 | -58.9746 | 2025-08-27 02:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 78.3 |
+| 14fb543b-b4b4-3fb7-9fcb-fbdb35c84d15 | -9.1529 | -59.5609 | 2025-08-27 02:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 54.9 |
+| eff14bc3-fccc-34ec-81bd-fd5c8b1d3b6a | -9.1007 | -49.5835 | 2025-08-27 02:40:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| 184e1126-ec0f-34e1-a362-731d59a3682a | -20.6863 | -49.2722 | 2025-08-27 02:40:00 | GOES-19 | GUAPIAÇU | SÃO PAULO | Brasil | 3517505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 65.7 |
+| 420bfb45-3242-3d5d-831c-8171425d0b88 | -6.41071 | -35.04014 | 2025-08-27 02:43:00 | NOAA-20 | BAÍA FORMOSA | RIO GRANDE DO NORTE | Brasil | 2401404 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 6c1e43f4-6d1c-3b66-925d-d26d624a6c64 | -6.40932 | -35.04749 | 2025-08-27 02:43:00 | NOAA-20 | BAÍA FORMOSA | RIO GRANDE DO NORTE | Brasil | 2401404 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| b0050602-3bd9-3c95-b0fc-bc58e22abcbb | -6.40795 | -35.05479 | 2025-08-27 02:43:00 | NOAA-20 | BAÍA FORMOSA | RIO GRANDE DO NORTE | Brasil | 2401404 | 24 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| fabdf34f-2bb5-3752-a1c2-d3e5aed9ce7c | -9.4064 | -60.5133 | 2025-08-27 02:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 127.0 |
+| 4ed8c410-d0fb-3b7f-810c-d1633193549c | -12.9068 | -44.658 | 2025-08-27 02:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| 84ebb3df-5ae1-3ddf-b4a7-95786dba5953 | -5.118 | -43.2198 | 2025-08-27 02:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 48.7 |
+| 019cc602-89df-3dc2-8c50-08dcfe16d98b | -9.1007 | -49.5835 | 2025-08-27 02:50:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| bbf34e4a-1c10-3e18-aba3-45e930a274c1 | -9.4065 | -60.4941 | 2025-08-27 02:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 86.1 |
+| 0a80be4a-6e3a-3fb0-933f-6920c1d78bde | -20.6869 | -49.2492 | 2025-08-27 02:50:00 | GOES-19 | GUAPIAÇU | SÃO PAULO | Brasil | 3517505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 73.4 |
+| 46d49c3b-fdb8-344c-a5d2-7a0e93c4d9cf | -9.7915 | -64.265 | 2025-08-27 02:50:00 | GOES-19 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 35.9 |
+| 4599bfa6-39c9-373e-be32-8462bec2a383 | -9.1009 | -49.5621 | 2025-08-27 02:50:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 79.1 |
+| c5d805c8-f24e-3d25-9d14-4d507f446eaa | -6.8413 | -58.9552 | 2025-08-27 02:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.9 |
+| 2585e7be-ae6f-3d0b-86c4-daeffe5ebfc4 | -9.0821 | -49.5638 | 2025-08-27 02:50:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 60.1 |
+| 8d0fffc3-4542-35a9-a68d-120de2377a27 | -9.1715 | -59.5599 | 2025-08-27 02:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 68.0 |
+| 398b8bac-4c5d-3717-9a25-f6eefcb5b820 | -9.0819 | -49.5853 | 2025-08-27 02:50:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 58.9 |
+| a3340de4-06fe-3fda-9298-b607432d4f4e | -6.8228 | -58.9753 | 2025-08-27 02:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 15b96687-8aef-32c7-a408-b5db99d6ddd7 | -6.8412 | -58.9746 | 2025-08-27 02:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 75.8 |
+| 8937e375-b421-387b-a266-bce37fcd8bca | -9.4062 | -60.5326 | 2025-08-27 02:50:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 104.9 |
+| 56b284c4-1295-344f-b39e-9c35c87f5eef | -5.1181 | -43.1964 | 2025-08-27 02:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 66.0 |
+| 51f0d6d0-b04b-3683-9395-49457d6526f1 | -13.1644 | -45.2897 | 2025-08-27 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| f00ef2a7-7e8f-3049-9eb4-8febbf73c8ed | -9.4065 | -60.4941 | 2025-08-27 03:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 71.7 |
+| 058dae19-d57a-3549-83c9-a13987ece3f8 | -6.8413 | -58.9552 | 2025-08-27 03:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 78.7 |
+| 61565b29-276a-3aa9-bcd2-2fc3f51f29a1 | -9.1715 | -59.5599 | 2025-08-27 03:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| 66ed73d4-109c-3a39-b5df-a31df092f3a3 | -12.9072 | -44.6346 | 2025-08-27 03:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 84.8 |
+| 7fce3b37-8517-392e-abee-8467bd14afda | -9.1009 | -49.5621 | 2025-08-27 03:00:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 73.2 |
+| a23837fa-2f4f-33a0-aa68-8aedbb972fa3 | -6.8228 | -58.9753 | 2025-08-27 03:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 49.5 |
+| d99c81f4-3866-3218-a563-9c9748035f6c | -9.4062 | -60.5326 | 2025-08-27 03:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 93.6 |
+| b8927810-3db5-34a9-a6ed-4c70cd9fee80 | -6.8412 | -58.9746 | 2025-08-27 03:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 76.7 |
+| 5cd0f807-1eac-309e-9755-d95ed4e87c0d | -9.1007 | -49.5835 | 2025-08-27 03:00:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 4a30e880-e710-32cf-8d99-567c2e2323ff | -12.9068 | -44.658 | 2025-08-27 03:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 95.7 |
+| 433b8521-9004-3a52-8291-7570043600ff | -9.4064 | -60.5133 | 2025-08-27 03:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 125.5 |
+| 79aedcca-ea41-3e77-b078-d2a4ea923b92 | -9.1715 | -59.5599 | 2025-08-27 03:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 60.3 |
+| 6cba52d2-8b2b-33ea-90a2-a668b3276290 | -12.9072 | -44.6346 | 2025-08-27 03:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 148.1 |
+| 2b5a490c-4654-30ad-906a-47034145cb14 | -9.1007 | -49.5835 | 2025-08-27 03:10:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| d9f54dc0-ff8c-3810-ab5e-f4bb6cea7dc4 | -9.4065 | -60.4941 | 2025-08-27 03:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 89.4 |
+| 6de6959a-600b-38ac-bf36-662b2c821614 | -6.8228 | -58.9753 | 2025-08-27 03:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| 354a2e18-ee79-3894-a0f4-1d9fa35f5bef | -6.8413 | -58.9552 | 2025-08-27 03:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 59.9 |
+| 9358a59c-899e-3509-addf-0bedfa832524 | -6.8412 | -58.9746 | 2025-08-27 03:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 69.7 |
+| 91594c93-443c-39da-8fde-21aedb153da4 | -9.4062 | -60.5326 | 2025-08-27 03:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 97.1 |
+| bdfaa8b4-9de1-3814-bd82-b901a67eaa7c | -12.9068 | -44.658 | 2025-08-27 03:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 83.9 |
+| 89d82e38-1d51-36dc-a701-efb3dbe35825 | -9.4064 | -60.5133 | 2025-08-27 03:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 121.2 |
+| b253eb38-f84d-3c7c-8ee5-3418a343cd00 | -15.748 | -49.9586 | 2025-08-27 03:10:00 | GOES-19 | ITAPURANGA | GOIÁS | Brasil | 5211206 | 52 | 33 | nan | nan | nan | Cerrado | 94.1 |
+| 05aedccc-1330-3a55-a470-9d53a3b816fb | -9.1009 | -49.5621 | 2025-08-27 03:10:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 65.7 |
+| 06718754-a819-3acc-ab55-02c5f5d6c32d | -12.8879 | -44.6378 | 2025-08-27 03:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 54.6 |
+| 1c741835-4752-34ed-a089-cc6efff8e53f | -13.3943 | -51.7595 | 2025-08-27 03:20:00 | GOES-19 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 50.8 |
+| 940f95d4-a7ff-378a-a882-d876e21cadc3 | -6.8413 | -58.9552 | 2025-08-27 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.7 |
+| ee213f9c-c0ea-3a2f-a1a8-734a1f575cb5 | -6.8412 | -58.9746 | 2025-08-27 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 64.7 |
+| a0f08702-9c3d-32c4-a830-f414d629ebb8 | -9.1009 | -49.5621 | 2025-08-27 03:20:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 52.2 |
+| 161a8807-3871-3cfa-88b3-f1b5bfeec6aa | -15.7284 | -49.9617 | 2025-08-27 03:20:00 | GOES-19 | ITAPURANGA | GOIÁS | Brasil | 5211206 | 52 | 33 | nan | nan | nan | Cerrado | 77.8 |
+| e0158c13-1cd5-3fc0-8a5c-ec1f242e7140 | -13.4032 | -46.8987 | 2025-08-27 03:20:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 77.2 |
+| 1bdae0d2-cf1b-3cc5-a5ae-9e97610de878 | -9.4062 | -60.5326 | 2025-08-27 03:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 92.9 |
+| da573ca9-4725-38ad-aa8a-bccfa06392a7 | -13.4027 | -46.9214 | 2025-08-27 03:20:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 81.6 |
+| 2c1e7bf4-5e79-3ccc-b473-9cc73e27b58e | -9.4065 | -60.4941 | 2025-08-27 03:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 94.2 |
+| 056a6193-ac1e-3e12-b9f3-d0e5bd17563e | -9.1007 | -49.5835 | 2025-08-27 03:20:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| e45c61e9-721e-39c9-9f14-4887e655261d | -15.7484 | -49.9365 | 2025-08-27 03:20:00 | GOES-19 | HEITORAÍ | GOIÁS | Brasil | 5209606 | 52 | 33 | nan | nan | nan | Cerrado | 177.8 |
+| 49405573-ceae-3437-9433-5bd8fe472c01 | -9.4064 | -60.5133 | 2025-08-27 03:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 119.9 |
+| c9787766-c9ff-3b98-b899-0b2e8afdd7df | -15.748 | -49.9586 | 2025-08-27 03:20:00 | GOES-19 | ITAPURANGA | GOIÁS | Brasil | 5211206 | 52 | 33 | nan | nan | nan | Cerrado | 346.6 |
+| 437c4ee8-01d5-3999-bceb-34e985db7e72 | -9.1715 | -59.5599 | 2025-08-27 03:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 58.1 |
+| 76e00198-b62a-35e0-8752-17168e4355bd | -6.8228 | -58.9753 | 2025-08-27 03:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 47.9 |
+| c842910d-b3dd-3dcb-990f-d1e425c25d4f | -6.8228 | -58.9753 | 2025-08-27 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 47.7 |
+| 1d058b50-0bcf-3814-93aa-ea758770737b | -6.8413 | -58.9552 | 2025-08-27 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| 39221077-3fdc-3d72-ba00-ce83cc6817ff | -9.4065 | -60.4941 | 2025-08-27 03:30:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 101.1 |
+| b69f5706-eed8-34f7-b283-84408c2e1e07 | -5.1181 | -43.1964 | 2025-08-27 03:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 42.4 |
+| 9af7fd54-bfff-3255-9085-ccb9f9499ac5 | -9.1715 | -59.5599 | 2025-08-27 03:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| ef4d640f-597b-3581-8ccd-f1511f812f18 | -9.4062 | -60.5326 | 2025-08-27 03:30:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 87.1 |
+| d199444c-09be-34ad-8103-30a4497ff480 | -9.4064 | -60.5133 | 2025-08-27 03:30:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 139.1 |
+| 202fc87e-cb5c-3c50-bb9c-bc1a49f7593c | -5.118 | -43.2198 | 2025-08-27 03:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 9f55aecd-8611-37d3-80be-31df371a9654 | -6.8412 | -58.9746 | 2025-08-27 03:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 63.0 |
+| f7cf7c62-5778-377d-bf0f-73fc77774295 | -9.1009 | -49.5621 | 2025-08-27 03:30:00 | GOES-19 | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 53.0 |
+| eba0c64f-51a5-3c27-bd5c-b3b7e1dd4d4b | -6.84151 | -42.82141 | 2025-08-27 03:36:00 | NOAA-21 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| d24dc496-9b4b-3a75-a6c6-44bf56616ae5 | -6.32109 | -43.60849 | 2025-08-27 03:36:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 833260c5-bb6e-333a-994d-585f62cabb83 | -6.96085 | -44.09106 | 2025-08-27 03:36:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 2.7 |
 
 
 [Clique aqui para ver as próximas entradas](README17.md)
