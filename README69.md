@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a800da0b-d52b-3912-979f-5259ef28a08d | -9.47707 | -62.38292 | 2025-08-28 05:25:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| fbf14b77-b191-3aa1-811a-4b507ceeef53 | -9.69545 | -61.28598 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 84277488-7d63-3516-85d1-ea4cfbdf0b82 | -9.15339 | -62.35252 | 2025-08-28 05:25:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| ba14abe4-373b-3a7d-83fd-9223e8cfbb01 | -8.88479 | -62.48071 | 2025-08-28 05:25:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0c256f48-6a96-383b-9773-c4228c730855 | -13.63299 | -48.23969 | 2025-08-28 05:25:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d3c347a5-d04d-3950-95bd-30bb83f4df19 | -9.49393 | -62.38566 | 2025-08-28 05:25:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e174ac19-efb3-3738-81c5-0cf1d379a855 | -7.56233 | -63.84534 | 2025-08-28 05:25:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| be057c8f-37c7-3ede-8bba-f2ba55321797 | -8.93034 | -65.93269 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7a07e4c9-cbc3-31fd-90dc-6483a1e8eef3 | -11.36035 | -63.264 | 2025-08-28 05:25:00 | NPP-375D | SÃO MIGUEL DO GUAPORÉ | RONDÔNIA | Brasil | 1100320 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5668840d-cdc6-3c5a-9a96-7d580a799c7c | -8.8847 | -60.74817 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 1c7cb598-7cd5-3477-8007-cb5ee9d042f7 | -8.34764 | -62.9428 | 2025-08-28 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| fceb6387-edb6-381f-b760-1ccf55463eaf | -12.99602 | -56.90668 | 2025-08-28 05:25:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| c66b67ba-57eb-39e1-9133-d26eb3af7e7a | -8.8825 | -60.76214 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 607b0ed8-7f74-3db8-94b6-25151390d2fd | -9.18966 | -60.80742 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ed85b295-5a4c-35c3-a9dc-5a6fe7282710 | -12.85859 | -48.11174 | 2025-08-28 05:25:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 8b947966-a9c2-3f85-984c-c5ad5135207a | -6.2373 | -60.00562 | 2025-08-28 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| e5d9607b-8f89-3b1c-9e89-7dea736b19d3 | -8.51488 | -69.79543 | 2025-08-28 05:25:00 | NPP-375D | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| dc29ccc2-f05f-3cc5-8be0-f26c8f9a7b5a | -8.88415 | -60.75166 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 75f43581-0f5e-3bb4-beb2-69536d3e4def | -9.14943 | -62.35559 | 2025-08-28 05:25:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3b1f8d48-0ae3-3bc9-8537-40302ba9073d | -9.59655 | -55.38713 | 2025-08-28 05:25:00 | NPP-375D | NOVO MUNDO | MATO GROSSO | Brasil | 5106265 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 5686aac8-46ed-358d-b832-a51852e9d935 | -9.11495 | -65.78109 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 34.5 |
-| 9cde349e-9649-38dd-83ac-ab19abcab6b3 | -8.94474 | -65.94914 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 07388e0b-e35b-3a7f-89da-8406df29bd4d | -6.24843 | -60.02163 | 2025-08-28 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f6a8c553-ea2f-36d0-a4a9-9ce8a4b8b41c | -9.25617 | -65.89789 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 11183b51-1492-3e64-bfba-5fc1e3163b9c | -7.62364 | -60.84791 | 2025-08-28 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 181ed631-4cbf-3d44-82d6-0c5f8823e913 | -9.10521 | -61.42828 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 8c487fff-c69b-3c9c-8edb-1a9177ad3984 | -8.70569 | -70.5487 | 2025-08-28 05:25:00 | NPP-375D | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| be33add1-3907-3628-8b18-c755c18ef46d | -7.46163 | -61.40194 | 2025-08-28 05:25:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| cc2d8cb5-086b-31bd-bf02-90bbd041a776 | -8.44572 | -70.14481 | 2025-08-28 05:25:00 | NPP-375D | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 97a0df6d-bffb-35a3-a2e3-d9e1d0711704 | -10.47773 | -57.9346 | 2025-08-28 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 28.2 |
-| 29ca43eb-5143-39a9-ab20-42824647d1ec | -9.16439 | -59.55725 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 66a5ea64-4d44-3ff1-90c6-9566891bc689 | -12.81837 | -48.12318 | 2025-08-28 05:25:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| ad87b328-7038-3145-9f1b-d68471fd04f5 | -8.24559 | -61.45185 | 2025-08-28 05:25:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d80b094d-244b-36f7-8089-65a39471c8d8 | -9.79965 | -64.27008 | 2025-08-28 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 4faf625e-e7f6-3fa4-a880-ac5f6155f3bf | -7.35196 | -59.6551 | 2025-08-28 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 6e254d1c-e0f1-3566-b1a5-3c912dd25238 | -9.66155 | -48.31659 | 2025-08-28 05:25:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| 676b7cab-7ba7-3207-ab36-89f1f5627d2e | -7.3529 | -59.6585 | 2025-08-28 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 631eadc0-af48-300d-86dd-3f1f9c51e313 | -9.20061 | -59.54787 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b2265938-6905-320a-9e7c-4eded9a82a83 | -7.47221 | -61.40003 | 2025-08-28 05:25:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| eab7ceac-d822-30bd-ab27-4d99a33316e0 | -7.3447 | -59.6576 | 2025-08-28 05:25:00 | NPP-375D | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 02ccd875-c117-32ab-b04f-4529dd3ab47d | -9.79163 | -64.2516 | 2025-08-28 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 66985d56-00d3-3f8e-9b89-dfbbe25183d5 | -12.86517 | -48.11734 | 2025-08-28 05:25:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 5b5402b1-03bf-3654-9590-b003c1960037 | -7.35008 | -57.63326 | 2025-08-28 05:25:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 87103bf0-24e7-319d-9f7e-6144dc62e370 | -9.45347 | -51.96404 | 2025-08-28 05:25:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 8b9463a6-3096-344e-9f1f-0a1583d95c70 | -9.31846 | -57.70401 | 2025-08-28 05:25:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 925ac57b-d2d9-3d5f-adbe-3e5ff7081eb6 | -9.21244 | -60.85766 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| c06f540c-1d06-318e-80e1-77f0f71bbc83 | -7.54423 | -63.84233 | 2025-08-28 05:25:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 0155dfd8-ed56-3a87-9d95-977ccbf17ea1 | -9.63778 | -59.63357 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 55b5e79e-84df-3763-9cb5-2a561510455c | -10.4739 | -57.96069 | 2025-08-28 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| aff301fb-b9d6-31f1-b0f8-a7c407265b1d | -9.40975 | -60.50038 | 2025-08-28 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bfce3320-67d9-3d87-b3d7-ef58091b266e | -7.37024 | -64.36898 | 2025-08-28 05:25:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| c18c11d0-3353-3249-937c-b6adaec8fc65 | -9.27027 | -59.7751 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 3c04d5f2-a359-37c8-a2fd-afde810d4490 | -9.52773 | -60.52679 | 2025-08-28 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 44d572c3-deb8-3757-8bfb-74ab6d5129d5 | -10.25523 | -64.49313 | 2025-08-28 05:25:00 | NPP-375D | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 07ea966c-0669-38e6-a9e0-e321469fbf34 | -13.37823 | -51.75644 | 2025-08-28 05:25:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 79988a88-a65a-31d9-af65-1d78cf1c5b92 | -9.7093 | -61.28462 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| df6a25cc-4559-3574-b978-da9c8dd697ea | -12.81055 | -48.1294 | 2025-08-28 05:25:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 8822ddee-6edc-309c-9099-bb7d77a746a6 | -11.22705 | -55.0481 | 2025-08-28 05:25:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 7339fd81-1801-30cc-99de-ac534e2c5f13 | -8.09329 | -71.24937 | 2025-08-28 05:25:00 | NPP-375D | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a0dfe2f9-dff5-301b-a364-3c87d8c60485 | -8.8207 | -63.11218 | 2025-08-28 05:25:00 | NPP-375D | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 7fe15275-cf1a-37a6-abdd-af6b6967f351 | -8.93733 | -65.9443 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 183610e6-b0fd-39dd-acfd-895da9575ac9 | -8.07671 | -61.53314 | 2025-08-28 05:25:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9b1f2342-6a59-3915-a076-b8b414dd3849 | -9.10436 | -65.74791 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7adf82c9-fdf4-3750-bf9c-ab131de1b266 | -10.48011 | -57.94395 | 2025-08-28 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 0f185fbe-a893-33c6-8967-9e3ecdb8b6eb | -8.95676 | -65.95123 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 6c66c918-3ac7-373b-a76c-1afd0457520e | -10.53894 | -57.97249 | 2025-08-28 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 0ec0925a-0d80-3d5b-a511-73853c244698 | -6.00675 | -57.85322 | 2025-08-28 05:25:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 79bb8492-5f2e-3d54-8295-4167f47cc56e | -13.72999 | -51.91267 | 2025-08-28 05:25:00 | NPP-375D | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d83986ab-6424-347c-ba0b-d96573145a53 | -8.95895 | -65.96249 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 762d42ca-6456-3750-a405-7656bb525bdb | -2.44469 | -47.32505 | 2025-08-28 05:25:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 13281749-a36b-31c3-9ed9-47dbeef0f5a8 | -10.08632 | -62.89301 | 2025-08-28 05:25:00 | NPP-375D | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7beb7137-ce94-3d9e-89a0-af838a02c20d | -9.1728 | -59.45721 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7efcd90b-726f-3f63-8f4d-d4395414377c | -8.95737 | -65.94772 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| bd623cd3-a3ca-3e85-933d-a51a815e51f2 | -9.41591 | -60.52662 | 2025-08-28 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 36348f3e-6671-37c1-847a-a5d8111149fb | -8.96116 | -65.97363 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 3e254879-4e16-32b8-a770-f5dda367e138 | -8.34419 | -62.94223 | 2025-08-28 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| fb860bf7-1e7c-3045-82ed-2d41ee940f82 | -9.2593 | -65.90364 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 1699a657-cca3-3d7a-8df5-d7c2cd6cb750 | -9.08259 | -65.7158 | 2025-08-28 05:25:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8a8809b5-d061-3a22-a348-5291290a3091 | -10.31859 | -62.62335 | 2025-08-28 05:25:00 | NPP-375D | THEOBROMA | RONDÔNIA | Brasil | 1101609 | 11 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 68a21364-d97c-3cbe-a45b-ef86ba5f8d09 | -12.55707 | -60.9202 | 2025-08-28 05:25:00 | NPP-375D | CHUPINGUAIA | RONDÔNIA | Brasil | 1100924 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 9d5f9107-e204-330a-82af-7067e756de0e | -8.8836 | -60.75515 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| b28d3efa-2b09-3efb-85f8-1e39b5d1d29a | -9.8079 | -61.19997 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| cb80cb6e-2f55-3e19-a15a-50f863ae3840 | -8.4554 | -64.06471 | 2025-08-28 05:25:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1d764c29-7924-3dc8-bf07-eb3b27d5c139 | -6.00263 | -57.85659 | 2025-08-28 05:25:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| c16f8613-22bd-39d4-a950-eab82f33a659 | -10.46223 | -57.96353 | 2025-08-28 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 4ec33c18-3d7c-3c9b-a714-cab7c0822be0 | -6.62814 | -60.02032 | 2025-08-28 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c92b8b74-c437-3287-a112-4307320d9da1 | -7.45055 | -57.62698 | 2025-08-28 05:25:00 | NPP-375D | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| e5a15787-890b-3ce7-b773-ad957644a823 | -9.21737 | -59.75925 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 27d51ade-71e4-3e54-b7f9-1b6eced6f248 | -8.90682 | -60.71587 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 57763a2d-348d-3ce7-a586-0dfa22193bca | -10.81164 | -60.77231 | 2025-08-28 05:25:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 25fe8bfe-808a-35b1-9cd6-570692d669db | -9.18085 | -60.86338 | 2025-08-28 05:25:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 5efa8963-2709-3df4-8298-3bf67b8a7cf7 | -9.39238 | -62.49907 | 2025-08-28 05:25:00 | NPP-375D | CUJUBIM | RONDÔNIA | Brasil | 1100940 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| a26c7897-f611-3d9e-bd68-27a9f7f0df9c | -10.47644 | -57.94336 | 2025-08-28 05:25:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| 59081a2a-7e7a-3e67-b8e7-e305df302e7c | -7.46219 | -61.39843 | 2025-08-28 05:25:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2fa89d13-16c3-3dbc-b2dc-fa2841aac3ca | -10.0835 | -62.8888 | 2025-08-28 05:25:00 | NPP-375D | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 29da157b-1ea0-397b-be75-fded8e1af230 | -7.62697 | -60.84844 | 2025-08-28 05:25:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| e15423b0-b5fb-33c3-a4bc-088b72c2fae8 | -12.80969 | -48.16474 | 2025-08-28 05:25:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 4057eecd-6ee8-3053-83fe-69a287d8a064 | -9.78734 | -64.25515 | 2025-08-28 05:25:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| bf159747-c104-38c0-a339-4f8dbe1d31ff | -9.40266 | -60.5678 | 2025-08-28 05:25:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| cf3452a7-564f-33d7-b15c-0866f027312a | -8.90505 | -67.45756 | 2025-08-28 05:25:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7acc44e4-40a9-3927-beea-3633f39486ed | -9.31247 | -57.70231 | 2025-08-29 05:08:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2e0c81f1-152f-35f0-9b12-da86f2cd5040 | -13.6365 | -48.20537 | 2025-08-29 05:08:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 7b675938-8ce8-3309-a7ae-4fb1a7fd5a8f | -12.66707 | -48.18534 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| c8b3943c-1656-3fb5-b9ab-21a46ca319c6 | -13.60091 | -46.86736 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 989826e6-4731-3812-af77-5f2780964bb5 | -8.19019 | -61.3759 | 2025-08-29 05:08:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| d14ced7b-bf4b-38ac-9d41-8cae15958740 | -9.16819 | -59.55983 | 2025-08-29 05:08:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 594c8afc-c18a-3a26-b2b2-dbb4ca8802d9 | -13.41905 | -46.97186 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 8481e874-52a6-377d-95a1-577b288d918f | -7.54489 | -63.84642 | 2025-08-29 05:08:00 | NPP-375D | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 0833946f-a665-330c-a6a3-e7af3373bcfb | -9.11757 | -65.78501 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| d8b90d11-7566-39f2-bf0f-7fd15bea4a0b | -12.40608 | -46.49509 | 2025-08-29 05:08:00 | NPP-375D | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 4c5ef46c-671b-3c27-931a-694314f34ca8 | -11.26738 | -45.49601 | 2025-08-29 05:08:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| de14cc1c-4ebb-3c47-ac5b-bc8ddc00760a | -12.89041 | -48.13958 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| b147a456-20bc-3ea6-9a99-a215a367a48c | -11.51613 | -57.99101 | 2025-08-29 05:08:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2760111b-6f07-349c-83e5-100cadd9a8e1 | -10.86245 | -47.49412 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| a221607e-3082-3a2a-a5e3-011d016687aa | -10.37201 | -57.82623 | 2025-08-29 05:08:00 | NPP-375D | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| 6f2679c4-f771-32a0-9a57-134d6a06441b | -12.99825 | -56.92762 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 9ea07f15-2f00-3831-8947-ce70ed9e1aee | -13.00547 | -56.92516 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f61120e8-9884-3cda-aba7-10078255504c | -12.32028 | -47.05002 | 2025-08-29 05:08:00 | NPP-375D | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| fa08dd60-7838-3078-8a3d-d12576baeaab | -9.10933 | -65.7427 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 254993e3-5725-3459-a604-9c0a37168e8c | -9.21947 | -60.8709 | 2025-08-29 05:08:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 89c7d5c3-46bb-30a5-89f0-7a7ea797d977 | -11.72969 | -61.75698 | 2025-08-29 05:08:00 | NPP-375D | ROLIM DE MOURA | RONDÔNIA | Brasil | 1100288 | 11 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 25f08bff-6c91-3e7d-93ec-7814f775d06c | -9.15828 | -60.92424 | 2025-08-29 05:08:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 63dc0ce2-6a5d-35a5-93d9-b17e91af1375 | -9.10999 | -65.7392 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 3c0fd661-e0a3-323b-bb85-87d0d129f6e6 | -12.8404 | -48.15863 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8e58efe0-34ec-3773-8d4a-92d216ba619c | -14.78142 | -59.73159 | 2025-08-29 05:08:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| df014c44-b5e5-3b27-af03-22da814ac542 | -9.31701 | -57.69563 | 2025-08-29 05:08:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| c8541faf-404d-3daf-b0dc-0f9e721b4c6b | -14.32129 | -60.35951 | 2025-08-29 05:08:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ffe3bca2-9268-3126-9636-5b9f7338060d | -13.37652 | -46.87657 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a99d3f12-87a5-37a9-a053-548b7ce5fb95 | -14.31549 | -51.89101 | 2025-08-29 05:08:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| cd919acb-cd0a-3a54-a067-917437b1099f | -12.69728 | -48.19976 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 16.1 |
+| 2976d820-03e9-32d5-aafb-7d683f8ce7dc | -10.97621 | -46.91369 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| d5a0a711-1b30-31b1-b509-c96a6edd340a | -12.52199 | -53.81686 | 2025-08-29 05:08:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 9395aede-f245-3f4c-a7ba-61ed8245b15f | -10.97808 | -46.92747 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 44.4 |
+| 5fc776f1-038a-3075-85c4-b3100e9d3c2f | -9.1163 | -65.79205 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3e90c35b-9df8-3bec-9d90-20cf2e8c72cd | -9.18338 | -65.79646 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2aef4665-31ee-31b8-845f-0f1ea48a7c87 | -12.39978 | -46.49813 | 2025-08-29 05:08:00 | NPP-375D | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 214ee3bf-0e64-35a1-81bc-e81b1d816944 | -12.92358 | -46.34158 | 2025-08-29 05:08:00 | NPP-375D | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| e3c5eac2-d14d-3fa3-9aab-ba3afbc92718 | -9.46516 | -60.3013 | 2025-08-29 05:08:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1f388cc7-d06b-3b63-aa72-464cdf015d1d | -14.3323 | -53.29637 | 2025-08-29 05:08:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 9440d588-18ed-3100-af19-23b4d314b792 | -10.85414 | -60.81683 | 2025-08-29 05:08:00 | NPP-375D | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| a22955e7-1b11-34ba-a557-6ef9a3b1d231 | -13.49817 | -46.84468 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| fa046c23-602e-3cec-be08-4b3f97a8c1b2 | -10.98345 | -46.85761 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| bc1f778e-79e1-309e-837c-f89b71ed7096 | -9.15956 | -59.58906 | 2025-08-29 05:08:00 | NPP-375D | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 3ef8eddf-119c-3868-9f96-55b1c2838d05 | -10.38612 | -57.8322 | 2025-08-29 05:08:00 | NPP-375D | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| d691ae7c-4a88-338c-a45f-92b1a0a1bf38 | -11.32013 | -43.56161 | 2025-08-29 05:08:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| e4ca0970-86fe-3ff9-898c-6bfdcc7760b9 | -14.60461 | -54.50103 | 2025-08-29 05:08:00 | NPP-375D | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 6586a185-3b72-347f-b0ee-7e59e7564e58 | -13.41336 | -46.97061 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0bb52cfa-6f12-355f-80e2-734f897fa096 | -13.19781 | -45.2883 | 2025-08-29 05:08:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a6d216a5-7190-3393-8f32-0b9319562ff4 | -13.41639 | -46.98306 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| 391c518f-185c-30aa-84c2-43f1201ce1f8 | -12.82817 | -48.17065 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 4935081f-b2c5-33a6-a765-3c26b94a1ec2 | -9.10348 | -65.73909 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fcdb4a89-cb3d-30ea-a594-7d781abc6cda | -10.37085 | -57.83346 | 2025-08-29 05:08:00 | NPP-375D | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| 9b1f14ee-13a1-3498-885e-a9fae4968943 | -12.69802 | -48.19384 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 18.5 |
+| 2a43b801-3d46-3445-a4df-b9ea343b4bee | -9.13135 | -65.80457 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 74deba9c-4332-357f-bbb8-dbc77a9631e9 | -9.11214 | -65.78398 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 606b3fa4-b14e-3301-bfc0-183230a2663e | -10.41174 | -57.69583 | 2025-08-29 05:08:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| ad71d1aa-6941-3aa8-8b09-32e0e6a9ee0a | -13.51377 | -46.85846 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| e6f1c17d-0efa-3011-8d55-d9c9efd85e66 | -15.04642 | -48.1305 | 2025-08-29 05:08:00 | NPP-375D | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 48d30841-26fa-31d2-aeae-7a52989a3898 | -13.14042 | -54.92683 | 2025-08-29 05:08:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| dc6e3e84-043c-39a1-a0ef-4fc071cc62a0 | -10.45816 | -59.1218 | 2025-08-29 05:08:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3c9a2a84-439a-339b-97f8-ed80a7e82e0e | -8.12332 | -61.2107 | 2025-08-29 05:08:00 | NPP-375D | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| eeea4412-d3b2-38b6-bcd2-377a7ad36d17 | -14.50574 | -52.07375 | 2025-08-29 05:08:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 60182142-6a02-3186-a73f-e43841794713 | -13.00048 | -56.91342 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 74fe04f5-ff55-3056-8ba2-96006e596191 | -9.11771 | -65.78748 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5ff4977e-1f9e-32ed-91c1-301d5c2446e1 | -9.45338 | -63.09168 | 2025-08-29 05:08:00 | NPP-375D | ITAPUÃ DO OESTE | RONDÔNIA | Brasil | 1101104 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 522eb4ee-c5ea-3e55-ac82-3d7412ee5df9 | -9.00375 | -64.15788 | 2025-08-29 05:08:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 0c02f225-f03e-3dfd-acf7-e2b7e0bdf340 | -9.45589 | -60.56384 | 2025-08-29 05:08:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| ed195acf-563c-3dc9-b1e9-23db59c0cf05 | -11.13762 | -59.22726 | 2025-08-29 05:08:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 7225b045-3fa3-32a5-b70f-bc37e5233caa | -10.87667 | -56.37277 | 2025-08-29 05:08:00 | NPP-375D | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| e911c82f-2c34-3b55-aaed-fc76f1abfe00 | -9.11162 | -65.79 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 50fb90e1-1bca-3dda-a1dd-90c57f357ce0 | -13.02644 | -56.91364 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 35826c1b-fc74-3a5f-a6e7-0e0741952296 | -10.72723 | -47.02207 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 8105083d-bfbf-32e7-87f8-2a8c947b7641 | -12.70861 | -48.19448 | 2025-08-29 05:08:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f74b1e31-f1bc-36af-b862-ff3939664a6c | -9.45369 | -60.55354 | 2025-08-29 05:08:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 32.1 |
+| c7a0b761-1949-3364-98ec-c70b79241029 | -9.11094 | -65.79356 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| ddb1b181-9fc7-3c9a-823a-dc41b730c813 | -15.19944 | -52.34146 | 2025-08-29 05:08:00 | NPP-375D | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 00f139b3-eeb3-3ec5-b613-7aed9ec9f919 | -13.00104 | -56.90987 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a5425432-0bf4-3785-8da4-a152c34ba224 | -13.54101 | -46.8773 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 4ff11149-abb4-3eba-b244-83481e415bcf | -10.46466 | -57.97096 | 2025-08-29 05:08:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| e50bce15-97bb-3a0e-a54d-2a040d22add9 | -13.00935 | -56.92215 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 2f773707-b5e1-3b52-9a6d-2d89625f0bb8 | -8.2793 | -61.41379 | 2025-08-29 05:08:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2f234721-2939-3b8f-b652-0129e443d64f | -11.61403 | -46.20266 | 2025-08-29 05:08:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| b4a6881e-62fb-3919-b523-fd4ebd00e11f | -9.72949 | -64.90601 | 2025-08-29 05:08:00 | NPP-375D | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 14.7 |
+| 339b580f-f30c-3c06-80a5-f3d187ba6e44 | -13.53607 | -46.87194 | 2025-08-29 05:08:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 14f803de-a40b-3d1e-87d1-72d4b14387af | -10.37143 | -57.82983 | 2025-08-29 05:08:00 | NPP-375D | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
+| 2fa328ce-1ed0-3a31-bb21-2fa5e86c6df5 | -9.11901 | -65.78056 | 2025-08-29 05:08:00 | NPP-375D | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 8cccab5d-3b73-3473-aaf3-a02c3ea49711 | -10.02318 | -51.10921 | 2025-08-29 05:08:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 0fc29322-2e02-3b3c-b879-ba122aa5f1a2 | -8.29826 | -61.40194 | 2025-08-29 05:08:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 63d9c2ed-be3d-3a62-ac47-3c1b8af6b025 | -12.91716 | -46.34492 | 2025-08-29 05:08:00 | NPP-375D | LAVANDEIRA | TOCANTINS | Brasil | 1712157 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 867a2706-ddae-31bc-a76d-132b3d68c8ac | -10.46711 | -57.93093 | 2025-08-29 05:08:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| bb9c52b9-a429-3ddf-b41e-edf0b6fc495b | -9.41902 | -60.57208 | 2025-08-29 05:08:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| d5ac131b-2306-3f00-806e-c5f91a4f4e23 | -14.7821 | -59.7275 | 2025-08-29 05:08:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 63ffac35-708b-3b23-96f5-29a613fb4e38 | -11.15706 | -54.3055 | 2025-08-29 05:08:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8636392d-5b2f-3e6f-b4df-1de07632a681 | -10.98082 | -46.90503 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| dc4a8945-fbd0-3fb3-9fdb-fa10d14f6926 | -10.36538 | -57.80292 | 2025-08-29 05:08:00 | NPP-375D | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 1edf36a2-456e-35e0-bcb8-d58a1e28a20d | -8.17378 | -61.37305 | 2025-08-29 05:08:00 | NPP-375D | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 7419cc0d-9228-34dc-bd60-9e401fa170e8 | -11.4399 | -55.18718 | 2025-08-29 05:08:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| e0309c9b-8e0d-3f2a-8097-2e25ac9f9252 | -14.50988 | -52.07433 | 2025-08-29 05:08:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 2aaf6597-617c-3d4c-8aed-e9b10e3070ae | -13.01923 | -56.91611 | 2025-08-29 05:08:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| d453b536-d464-3cbe-a4f7-38ec2c425337 | -10.95106 | -46.8883 | 2025-08-29 05:08:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
 
 
 [Clique aqui para ver as próximas entradas](README70.md)
