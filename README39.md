@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 00899b9b-8a99-31b6-bef6-fc24f40f36af | -15.54834 | -48.4197 | 2025-09-05 04:38:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d716116d-26e2-3960-8600-7cfa67dd50ef | -19.68687 | -54.81065 | 2025-09-05 04:38:00 | NPP-375D | CORGUINHO | MATO GROSSO DO SUL | Brasil | 5003108 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| b9acbe0b-70f8-351f-b36b-651048422ac1 | -12.96788 | -54.78354 | 2025-09-05 04:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| cbfe8020-bbee-3a76-a59a-8c78ea339427 | -12.9054 | -57.00443 | 2025-09-05 04:38:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8050f27c-0bee-3270-92b7-1a368d339b77 | -15.5937 | -52.92207 | 2025-09-05 04:38:00 | NPP-375D | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 3dff221f-4015-30e2-9777-9ac663ef82e6 | -14.73391 | -47.48439 | 2025-09-05 04:38:00 | NPP-375D | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 8f4090fc-5ebf-3e8e-8b9b-8303fd2775dd | -12.98443 | -54.81012 | 2025-09-05 04:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 58970166-8313-30b7-9c91-09876f1a24be | -15.04996 | -50.04294 | 2025-09-05 04:38:00 | NPP-375D | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 4d776d16-84c8-3c45-ab7c-29e4d00f5371 | -15.62378 | -52.89725 | 2025-09-05 04:38:00 | NPP-375D | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| d669f63d-96be-3b54-a5f9-ed8c84d1cdea | -15.58518 | -52.88589 | 2025-09-05 04:38:00 | NPP-375D | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| d76db083-96b9-322b-92b3-4d371cc08688 | -20.39418 | -51.34271 | 2025-09-05 04:38:00 | NPP-375D | ILHA SOLTEIRA | SÃO PAULO | Brasil | 3520442 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 758320ea-9af8-3246-8e90-9de765fa4801 | -15.71259 | -53.61862 | 2025-09-05 04:38:00 | NPP-375D | TESOURO | MATO GROSSO | Brasil | 5108105 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 36844d42-af19-3bea-8d99-755cca1cd299 | -14.28559 | -45.21424 | 2025-09-05 04:38:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 8dc50b0a-62c8-36e6-ae23-f738dc287641 | -21.27591 | -44.92112 | 2025-09-05 04:38:00 | NPP-375D | LAVRAS | MINAS GERAIS | Brasil | 3138203 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| ca39dd09-119a-37a3-b775-751069080f4a | -15.15657 | -52.3909 | 2025-09-05 04:38:00 | NPP-375D | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 1db7aa42-074f-3bc1-baf3-a132929d487b | -14.37693 | -53.12582 | 2025-09-05 04:38:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| dd2aae93-92da-305e-a421-45e363eb06db | -15.06099 | -50.0595 | 2025-09-05 04:38:00 | NPP-375D | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5b002f1a-f0bd-39b0-ad1d-b33f5efa7d8f | -15.55173 | -48.42024 | 2025-09-05 04:38:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f9f67774-17ad-3685-83f8-1b8598b6956f | -14.7368 | -47.48887 | 2025-09-05 04:38:00 | NPP-375D | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c4deb11b-907b-34a3-b07d-dee9e09aad9e | -14.55334 | -48.08543 | 2025-09-05 04:38:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 34563420-f5d3-35fb-89d5-79923d6320c6 | -14.74028 | -47.4894 | 2025-09-05 04:38:00 | NPP-375D | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 33942a16-417f-3946-b3c8-4fbbc6fd284b | -12.96927 | -54.79943 | 2025-09-05 04:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| e851c1ec-4c5d-3d4d-9142-a0a031a850f8 | -12.98374 | -54.81393 | 2025-09-05 04:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 6d7f1f6b-7d3f-32d8-80e6-435ec5c15e09 | -15.01107 | -50.08111 | 2025-09-05 04:38:00 | NPP-375D | CRIXÁS | GOIÁS | Brasil | 5206404 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| be471ac4-c246-3be4-b334-6d1dc92f8e24 | -16.49945 | -43.73109 | 2025-09-05 04:38:00 | NPP-375D | FRANCISCO SÁ | MINAS GERAIS | Brasil | 3126703 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 2cb235f5-2f3e-367e-8b09-eeed57ec027c | -23.39169 | -46.8444 | 2025-09-05 04:40:00 | NPP-375D | CAJAMAR | SÃO PAULO | Brasil | 3509205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 5bcd0a6f-c57e-3568-a948-ab6182fb48e5 | -23.3601 | -46.32514 | 2025-09-05 04:40:00 | NPP-375D | ARUJÁ | SÃO PAULO | Brasil | 3503901 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| f04f0900-42c6-3214-9af0-ef4359d76432 | -23.36056 | -46.32128 | 2025-09-05 04:40:00 | NPP-375D | ARUJÁ | SÃO PAULO | Brasil | 3503901 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 4f8172d5-ed3d-3ca8-ad99-df4f23e24e56 | -22.65719 | -46.81803 | 2025-09-05 04:40:00 | NPP-375D | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
-| 6704c223-9c74-341f-b8d7-6ac892bc3991 | -24.91844 | -49.7376 | 2025-09-05 04:40:00 | NPP-375D | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| c5fe2753-0411-300c-9c89-bed8a16122f1 | -21.79948 | -46.7921 | 2025-09-05 04:40:00 | NPP-375D | SÃO SEBASTIÃO DA GRAMA | SÃO PAULO | Brasil | 3550803 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 1b4f86c4-7081-3e97-b3a5-a0008fed3e16 | -23.09124 | -49.85997 | 2025-09-05 04:40:00 | NPP-375D | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| b951ee8d-ef3f-3a59-b997-783517461cfb | -24.37968 | -50.68786 | 2025-09-05 04:40:00 | NPP-375D | TELÊMACO BORBA | PARANÁ | Brasil | 4127106 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| db989578-1e57-3ac1-9f56-82193d345a12 | -22.92271 | -49.60693 | 2025-09-05 04:40:00 | NPP-375D | SANTA CRUZ DO RIO PARDO | SÃO PAULO | Brasil | 3546405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| fd01e9e6-d100-3e47-8b5d-941ef6e17cbb | -22.5095 | -47.69765 | 2025-09-05 04:40:00 | NPP-375D | CHARQUEADA | SÃO PAULO | Brasil | 3511706 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| ba4883f8-3fa6-3c46-b79c-29384ca4c6c5 | -23.08153 | -48.91875 | 2025-09-05 04:40:00 | NPP-375D | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 96008573-2ff3-33fe-917b-4cf17e78924f | -23.12806 | -45.76474 | 2025-09-05 04:40:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| cb56d44b-4bb3-3b61-8a6d-429ff3cdbedb | -22.29647 | -54.81969 | 2025-09-05 04:40:00 | NPP-375D | DOURADOS | MATO GROSSO DO SUL | Brasil | 5003702 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c87b848d-633d-3677-87bf-cfb550b5bca9 | -22.4629 | -49.40339 | 2025-09-05 04:40:00 | NPP-375D | CABRÁLIA PAULISTA | SÃO PAULO | Brasil | 3508306 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 202f028c-de18-3197-bebe-da179960f4c7 | -23.12385 | -45.7641 | 2025-09-05 04:40:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 98669564-a3bf-3971-8f5e-fb14c6579e40 | -21.80337 | -46.79272 | 2025-09-05 04:40:00 | NPP-375D | SÃO SEBASTIÃO DA GRAMA | SÃO PAULO | Brasil | 3550803 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 6b4423b2-a8d0-3a65-81ed-7b2590e5c2b0 | -23.35968 | -47.16511 | 2025-09-05 04:40:00 | NPP-375D | ITU | SÃO PAULO | Brasil | 3523909 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 4f2624d2-bce0-3115-bc7e-c55dccbb587e | -22.27107 | -49.56685 | 2025-09-05 04:40:00 | NPP-375D | GÁLIA | SÃO PAULO | Brasil | 3516606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 3bae4f71-5689-3cad-81fc-d7bf56d9b3b7 | -20.85761 | -54.98859 | 2025-09-05 04:40:00 | NPP-375D | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| b6dfb347-a49f-36d4-9e45-94e08ff13238 | -22.66892 | -46.82018 | 2025-09-05 04:40:00 | NPP-375D | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 80d90d00-285a-3ca7-9d91-dc252ec7c7e3 | -22.26419 | -49.56573 | 2025-09-05 04:40:00 | NPP-375D | GÁLIA | SÃO PAULO | Brasil | 3516606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 5d21374a-824b-36e7-acb2-aef22557fb69 | -23.83772 | -50.01638 | 2025-09-05 04:40:00 | NPP-375D | TOMAZINA | PARANÁ | Brasil | 4127809 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| a90e80c8-f4bc-3be1-b4c4-d36f58ef6106 | -22.6611 | -46.81879 | 2025-09-05 04:40:00 | NPP-375D | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
-| dd0fe25c-d975-3d11-bc95-6aeb1dc036c5 | -21.80207 | -46.80285 | 2025-09-05 04:40:00 | NPP-375D | VARGEM GRANDE DO SUL | SÃO PAULO | Brasil | 3556404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| cd68643e-385d-337c-b90e-7c442bc30267 | -22.27699 | -47.62659 | 2025-09-05 04:40:00 | NPP-375D | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 16.7 |
-| 82fe968c-9418-3f1b-8430-6fe0cf4c9944 | -22.75996 | -46.45277 | 2025-09-05 04:40:00 | NPP-375D | PEDRA BELA | SÃO PAULO | Brasil | 3536802 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 5cb7bf81-fbec-374f-a648-c2043521b4d1 | -21.79819 | -46.80217 | 2025-09-05 04:40:00 | NPP-375D | VARGEM GRANDE DO SUL | SÃO PAULO | Brasil | 3556404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
-| f31ff76d-93c0-3155-879e-6e95e6cc4e96 | -24.91853 | -49.74101 | 2025-09-05 04:40:00 | NPP-375D | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 388013ef-0e97-34b2-b09e-a746ad82e04f | -22.27164 | -49.56292 | 2025-09-05 04:40:00 | NPP-375D | GÁLIA | SÃO PAULO | Brasil | 3516606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 44fcce98-8d66-3f29-bab6-1aa454ae23a5 | -23.41951 | -46.97527 | 2025-09-05 04:40:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 4485b706-3dda-3ab8-a274-55c5f3fb8300 | -22.66501 | -46.8195 | 2025-09-05 04:40:00 | NPP-375D | AMPARO | SÃO PAULO | Brasil | 3501905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 4f689986-de9a-3da0-a1f7-ce02e9ba191c | -22.67342 | -46.22645 | 2025-09-05 04:40:00 | NPP-375D | ITAPEVA | MINAS GERAIS | Brasil | 3133600 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 8ec52ceb-9073-3552-8689-ef3f0b41f58a | -22.48949 | -52.76571 | 2025-09-05 04:40:00 | NPP-375D | ROSANA | SÃO PAULO | Brasil | 3544251 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 922187f5-4de1-34a5-a960-b7c567c00eb8 | -25.09302 | -49.79863 | 2025-09-05 04:40:00 | NPP-375D | PONTA GROSSA | PARANÁ | Brasil | 4119905 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 532c833a-f571-3c1e-9df3-f84a9ceb7511 | -22.68558 | -47.13128 | 2025-09-05 04:40:00 | NPP-375D | COSMÓPOLIS | SÃO PAULO | Brasil | 3512803 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 5d99b98b-373b-3965-8a9b-6294c201c434 | -22.33309 | -54.78162 | 2025-09-05 04:40:00 | NPP-375D | DOURADOS | MATO GROSSO DO SUL | Brasil | 5003702 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 1b7929e3-4591-3211-bb04-4e34e96c81c7 | -21.79884 | -46.79712 | 2025-09-05 04:40:00 | NPP-375D | VARGEM GRANDE DO SUL | SÃO PAULO | Brasil | 3556404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 7660ede6-cb3d-3422-8215-6b2b98e54662 | -23.04512 | -47.82458 | 2025-09-05 04:40:00 | NPP-375D | LARANJAL PAULISTA | SÃO PAULO | Brasil | 3526407 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| f644d48c-d951-3545-b5c3-c7a5f5250950 | -22.27797 | -49.56794 | 2025-09-05 04:40:00 | NPP-375D | GÁLIA | SÃO PAULO | Brasil | 3516606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 23e01b0d-3dc5-3dab-a60a-aa12b0385794 | -21.80272 | -46.79779 | 2025-09-05 04:40:00 | NPP-375D | VARGEM GRANDE DO SUL | SÃO PAULO | Brasil | 3556404 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| a5df4d7d-8782-34a5-a1dd-cbd63fc33603 | -23.37385 | -47.17822 | 2025-09-05 04:40:00 | NPP-375D | ITU | SÃO PAULO | Brasil | 3523909 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| fe57651d-ab6c-3e5c-9a09-94a521a156d9 | -22.49286 | -52.76636 | 2025-09-05 04:40:00 | NPP-375D | ROSANA | SÃO PAULO | Brasil | 3544251 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| b2116eb5-11ae-3548-aa1c-d8bbd7add5c5 | -22.49274 | -47.44698 | 2025-09-05 04:40:00 | NPP-375D | CORDEIRÓPOLIS | SÃO PAULO | Brasil | 3512407 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 4bfb1a4f-fba5-3f32-9e6e-45693de13e72 | -21.26119 | -50.29636 | 2025-09-05 04:40:00 | NPP-375D | BIRIGUI | SÃO PAULO | Brasil | 3506508 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 4a667b6c-0a35-389c-a630-df9097f91e54 | -23.37451 | -47.17302 | 2025-09-05 04:40:00 | NPP-375D | ITU | SÃO PAULO | Brasil | 3523909 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 4443fa43-9ccf-3fd0-b2f1-c8cd97b3ec6c | -22.04972 | -47.90023 | 2025-09-05 04:40:00 | NPP-375D | SÃO CARLOS | SÃO PAULO | Brasil | 3548906 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 88c1face-4185-357f-bc05-9706796cb532 | -24.20119 | -50.15031 | 2025-09-05 04:40:00 | NPP-375D | ARAPOTI | PARANÁ | Brasil | 4101606 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 956f8319-5ee6-3212-979e-03efc63a2606 | -23.43881 | -47.04313 | 2025-09-05 04:40:00 | NPP-375D | ARAÇARIGUAMA | SÃO PAULO | Brasil | 3502754 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| bb89f878-9a8a-32f6-b4f0-b361bbccf64f | -23.17725 | -46.81492 | 2025-09-05 04:40:00 | NPP-375D | JUNDIAÍ | SÃO PAULO | Brasil | 3525904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 77d32ed9-2d67-3689-8aa2-ecb6280c1b4a | -20.88878 | -54.9857 | 2025-09-05 04:40:00 | NPP-375D | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 598e3633-4c5e-3887-aa9c-9f9cd1b766bd | -22.91926 | -49.60636 | 2025-09-05 04:40:00 | NPP-375D | SANTA CRUZ DO RIO PARDO | SÃO PAULO | Brasil | 3546405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| 1a95d535-3bc7-31ab-88ed-34e372af9128 | -22.51387 | -47.69341 | 2025-09-05 04:40:00 | NPP-375D | CHARQUEADA | SÃO PAULO | Brasil | 3511706 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 592ad209-901f-37f2-844c-023c8f15bb90 | -22.26075 | -47.6339 | 2025-09-05 04:40:00 | NPP-375D | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 1f8af894-5e2e-3795-a292-c24c67de41b6 | -22.26691 | -47.64477 | 2025-09-05 04:40:00 | NPP-375D | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| b5f745e1-15eb-3881-8a8c-43b5a5887e1b | -22.51988 | -47.0883 | 2025-09-05 04:40:00 | NPP-375D | ARTUR NOGUEIRA | SÃO PAULO | Brasil | 3503802 | 35 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| b98047ab-897a-3fcd-a177-06433e5937e8 | -25.62603 | -49.73699 | 2025-09-05 04:40:00 | NPP-375D | LAPA | PARANÁ | Brasil | 4113205 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| d994978d-c6da-3ecc-b805-2679ff12e91f | -23.39102 | -46.84979 | 2025-09-05 04:40:00 | NPP-375D | CAJAMAR | SÃO PAULO | Brasil | 3509205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 3259642f-7b70-3184-a1e1-51dec5c59c5c | -23.39499 | -46.85031 | 2025-09-05 04:40:00 | NPP-375D | CAJAMAR | SÃO PAULO | Brasil | 3509205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
-| 446d5416-74e9-3cb3-981a-1bcb696888d5 | -22.50996 | -47.6909 | 2025-09-05 04:40:00 | NPP-375D | CHARQUEADA | SÃO PAULO | Brasil | 3511706 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 052bb10f-5c57-3c55-9e2c-2a9929839206 | -23.12855 | -45.76062 | 2025-09-05 04:40:00 | NPP-375D | SÃO JOSÉ DOS CAMPOS | SÃO PAULO | Brasil | 3549904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 61e94fd9-ae0b-35bd-894f-9f828eede9d4 | -22.28072 | -47.6272 | 2025-09-05 04:40:00 | NPP-375D | CORUMBATAÍ | SÃO PAULO | Brasil | 3512704 | 35 | 33 | nan | nan | nan | Cerrado | 16.7 |
-| 3b198861-f19c-369b-9df9-19916249c774 | -22.68449 | -47.1297 | 2025-09-05 04:40:00 | NPP-375D | COSMÓPOLIS | SÃO PAULO | Brasil | 3512803 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 0a74ad45-0da4-3bb1-9076-d932354482f9 | -23.10976 | -51.51387 | 2025-09-05 04:40:00 | NPP-375D | JAGUAPITÃ | PARANÁ | Brasil | 4111902 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| d9866f9e-a48c-370f-b654-1add75d37bdd | -23.04139 | -47.82399 | 2025-09-05 04:40:00 | NPP-375D | LARANJAL PAULISTA | SÃO PAULO | Brasil | 3526407 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 2fcc4c99-e8a7-3b1d-b514-6d3e7475a046 | -22.44599 | -47.56861 | 2025-09-05 04:40:00 | NPP-375D | RIO CLARO | SÃO PAULO | Brasil | 3543907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 75e8632e-a5b5-3e7b-a41f-d0a3db2d70af | -22.27452 | -49.56739 | 2025-09-05 04:40:00 | NPP-375D | GÁLIA | SÃO PAULO | Brasil | 3516606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 5a599a28-5252-33c8-af3b-d81baea22f21 | -22.67995 | -47.13428 | 2025-09-05 04:40:00 | NPP-375D | COSMÓPOLIS | SÃO PAULO | Brasil | 3512803 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| aa81357d-0fb7-3659-ac9c-84cacceb25aa | -23.07799 | -48.91816 | 2025-09-05 04:40:00 | NPP-375D | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 6a3abf9f-b5a7-3b8e-9b44-0e0bbd57cb29 | -22.51014 | -47.69279 | 2025-09-05 04:40:00 | NPP-375D | CHARQUEADA | SÃO PAULO | Brasil | 3511706 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 9720daba-c4f1-3eee-80a4-5e2f72cd5d78 | -23.47265 | -46.82417 | 2025-09-05 04:40:00 | NPP-375D | SANTANA DE PARNAÍBA | SÃO PAULO | Brasil | 3547304 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 678b88a9-1d2e-375a-820a-569e97b77241 | -22.68062 | -47.12918 | 2025-09-05 04:40:00 | NPP-375D | COSMÓPOLIS | SÃO PAULO | Brasil | 3512803 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 180ccf83-9b43-33d4-9fb3-2d82816a506c | -23.1131 | -51.51448 | 2025-09-05 04:40:00 | NPP-375D | JAGUAPITÃ | PARANÁ | Brasil | 4111902 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 669020af-581b-39ea-b569-ae21e0ee13e0 | -22.5137 | -47.6915 | 2025-09-05 04:40:00 | NPP-375D | CHARQUEADA | SÃO PAULO | Brasil | 3511706 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 0f140754-391c-3a34-8f05-d26116895865 | -22.26763 | -49.56629 | 2025-09-05 04:40:00 | NPP-375D | GÁLIA | SÃO PAULO | Brasil | 3516606 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| ef4913d1-8b95-3860-ae8c-c133863b3d3d | -22.19039 | -54.91084 | 2025-09-05 04:40:00 | NPP-375D | DOURADOS | MATO GROSSO DO SUL | Brasil | 5003702 | 50 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 81bd2a59-a8c1-36f6-a1ec-4a8052e5ed9f | -5.44291 | -42.80696 | 2025-09-06 04:17:00 | NPP-375D | NAZÁRIA | PIAUÍ | Brasil | 2206720 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| da300978-ae2d-34d6-b1ab-1ba96f12b1a7 | -13.66801 | -46.94935 | 2025-09-06 04:17:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| fac5d39f-6377-3d97-be5b-1c0a47549924 | -5.94573 | -42.96457 | 2025-09-06 04:17:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 1be0d553-dbab-316d-9235-b8c3c6a14ec0 | -8.7752 | -49.63734 | 2025-09-06 04:17:00 | NPP-375D | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 02388be8-e06d-3031-9993-f7596b9b93a6 | -6.49455 | -44.21035 | 2025-09-06 04:17:00 | NPP-375D | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 0de417f7-9e1b-3bc0-9cd5-59b7b385ccf2 | -13.00252 | -54.83472 | 2025-09-06 04:17:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| c3d94657-5fc5-3aad-b173-f30e8bd08b53 | -9.31321 | -45.40235 | 2025-09-06 04:17:00 | NPP-375D | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 38ae4455-20ac-3c6f-a829-d1217d35f6c7 | -15.18455 | -48.03698 | 2025-09-06 04:17:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 8b27bb02-0b47-338f-b5aa-d188b9e564e6 | -7.36382 | -44.3196 | 2025-09-06 04:17:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 084ccf31-04a9-30b0-9188-b90a19bdb803 | -4.80119 | -47.26052 | 2025-09-06 04:17:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 95b90819-ae13-3e1f-b3bb-b1827cbf5b88 | -8.45009 | -45.0369 | 2025-09-06 04:17:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 31161cb4-add3-3e33-b51c-f9d80f0d1243 | -10.65159 | -44.8388 | 2025-09-06 04:17:00 | NPP-375D | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 390b39aa-8c3c-3a91-ac0d-1d546872772a | -3.69605 | -49.57298 | 2025-09-06 04:17:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| a2952bd7-7345-3b9c-a5e8-368651c83e0d | -12.99686 | -54.83363 | 2025-09-06 04:17:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c3d3ead6-1dee-39d4-8123-d29a4837516c | -6.23332 | -43.28406 | 2025-09-06 04:17:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1a2c4dfe-a4ea-3202-a516-6b16af0f1a9e | -5.42028 | -43.187 | 2025-09-06 04:17:00 | NPP-375D | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 247cb26d-325f-3515-8b87-86ee07be0fbb | -7.67835 | -50.29971 | 2025-09-06 04:17:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 3260ec5a-51e9-390b-832a-978096cf36ef | -9.01195 | -49.8016 | 2025-09-06 04:17:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 1ce9e2cf-30e2-3e7e-bf63-1bc6101e395a | -13.00203 | -48.05158 | 2025-09-06 04:17:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a050defa-bad0-3ea5-9025-938cc695c2a4 | -6.2422 | -43.29259 | 2025-09-06 04:17:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| f4f56c80-dc5f-3c4c-8b7c-6ade0b18396e | -7.08107 | -43.86609 | 2025-09-06 04:17:00 | NPP-375D | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 0d6ae97f-e9ee-30a5-86ec-36dfbe98e005 | -12.95563 | -54.79264 | 2025-09-06 04:17:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 4eb878f0-f0da-3c9d-b322-7ae7b2ed452c | -5.79219 | -45.62236 | 2025-09-06 04:17:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 4e460529-1546-3208-971f-d5558859e2f5 | -15.29407 | -46.98608 | 2025-09-06 04:17:00 | NPP-375D | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| b4596576-9a1a-3f4d-a2f0-2e4307a80d86 | -13.00485 | -54.82298 | 2025-09-06 04:17:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| e34b3ba7-7d66-3124-a9d0-113289f47f07 | -5.93141 | -43.01207 | 2025-09-06 04:17:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 2.9 |
+| 0bd7fa51-9586-3a9e-a40b-f7f2926b6ab9 | -5.94914 | -53.80001 | 2025-09-06 04:17:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 9e8cb654-0979-3718-86d5-d61cc638c610 | -5.72916 | -43.90361 | 2025-09-06 04:17:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 089bf21a-7b25-3cb0-93c8-893ae08044ec | -12.98073 | -54.82618 | 2025-09-06 04:17:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 07fe6947-1c69-36e0-821c-91c57a048b2e | -12.51056 | -53.84903 | 2025-09-06 04:17:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 4bae0229-8fe8-3de9-b2f4-1fa16b603076 | -5.9531 | -53.78917 | 2025-09-06 04:17:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 248f559f-7e57-3784-9db4-9e8225c644d5 | -6.15599 | -43.17593 | 2025-09-06 04:17:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| cd522e84-bf76-399d-bba7-4cd8153d0713 | -6.28403 | -53.44373 | 2025-09-06 04:17:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 0a00f437-b497-31fa-b848-8d4e3cfcb156 | -13.65918 | -46.9594 | 2025-09-06 04:17:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 44074f46-0b5c-3f6f-8d33-177fd7fc9493 | -3.75087 | -44.37334 | 2025-09-06 04:17:00 | NPP-375D | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 30b34203-b00a-394c-81d5-4778e01d732e | -4.50634 | -42.89022 | 2025-09-06 04:17:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 884327d4-0bbe-372d-9b75-8c8ad99dcfa0 | -5.55141 | -43.06546 | 2025-09-06 04:17:00 | NPP-375D | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| fef5adec-fc50-383c-987f-f118cb6f6994 | -5.86497 | -52.17025 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| da60c3a5-1e1c-310b-8481-367dbeaa191b | -9.70436 | -49.49297 | 2025-09-06 04:17:00 | NPP-375D | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| b9524b43-5c9a-33e1-a6ff-ef2351ac392f | -9.84481 | -48.84124 | 2025-09-06 04:17:00 | NPP-375D | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 88918a29-c5fa-3444-9a0a-7eaa753eeeaf | -14.58799 | -48.08942 | 2025-09-06 04:17:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 9f085fd9-80f4-320e-959d-ded9800fde39 | -5.94715 | -53.78805 | 2025-09-06 04:17:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3252415d-e476-3c33-b772-d4503eaf7094 | -8.49469 | -45.06295 | 2025-09-06 04:17:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 77f34328-d6b3-32f4-b238-091bee168a2c | -3.75488 | -49.05431 | 2025-09-06 04:17:00 | NPP-375D | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 5c00f69b-2051-3b2a-8b5e-4d7de032a514 | -5.87318 | -46.04671 | 2025-09-06 04:17:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 4909d79f-ab06-3f3c-a842-0ec26e14b5f0 | -15.84329 | -52.28553 | 2025-09-06 04:17:00 | NPP-375D | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 4acc3b6b-233a-3ac8-8aa6-836465f6e054 | -8.34142 | -47.49078 | 2025-09-06 04:17:00 | NPP-375D | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| acf55497-37ed-3557-912a-ac2938bef63d | -6.15157 | -43.18235 | 2025-09-06 04:17:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 7346b306-a1e9-3bba-9ca5-156b6f52d1b5 | -2.8561 | -49.50672 | 2025-09-06 04:17:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f8d9e2fa-c5e4-3dd4-82bd-35d03cd2bd4a | -12.89712 | -48.01235 | 2025-09-06 04:17:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 23fc3712-fb4f-3239-9c3e-237731546b0b | -13.47358 | -46.83718 | 2025-09-06 04:17:00 | NPP-375D | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 57cb2cb8-c800-32fe-a943-0e936c63f166 | -5.72803 | -43.91069 | 2025-09-06 04:17:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 968d814f-384f-3576-9867-848971c03b2c | -9.17587 | -46.02928 | 2025-09-06 04:17:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 78cdba3c-4085-3c1b-8bfc-bd4c9770f2ac | -5.65694 | -43.61438 | 2025-09-06 04:17:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| f0f727c6-c64f-3144-9c58-408ef7320961 | -15.36747 | -46.41515 | 2025-09-06 04:17:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| e4e95544-9fb3-32c2-bef5-058ca8a91fee | -6.23852 | -41.82718 | 2025-09-06 04:17:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| ae3e7736-41c5-37f7-9bbf-20d8747e8ca6 | -6.26371 | -53.45683 | 2025-09-06 04:17:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4a9d178b-a69c-3840-acd7-9250542075b4 | -8.0259 | -44.76748 | 2025-09-06 04:17:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 71beb3a7-c507-3bb2-8276-e79ee00387dd | -2.65484 | -48.7969 | 2025-09-06 04:17:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2af4d266-f841-3b39-9233-3fbd72fdcc91 | -5.4957 | -42.15335 | 2025-09-06 04:17:00 | NPP-375D | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 2419ad34-cf44-33ab-bfbd-d25e3736368b | -10.15289 | -46.2327 | 2025-09-06 04:17:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d6b8771d-236a-3d2a-8114-7052ff3135ba | -16.29509 | -45.68606 | 2025-09-06 04:17:00 | NPP-375D | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 4a3e056a-4671-36de-92d6-d67f7eed1ca1 | -7.98698 | -44.50739 | 2025-09-06 04:17:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 24a3b753-c2bc-34cc-95d8-2bc75452bf9b | -7.32702 | -48.50395 | 2025-09-06 04:17:00 | NPP-375D | ARAGUAÍNA | TOCANTINS | Brasil | 1702109 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| f4cfd160-366b-3de8-9f8f-79727f75c5ae | -3.75024 | -44.37257 | 2025-09-06 04:17:00 | NPP-375D | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| c7328178-289c-3351-8394-0903f016534f | -8.0177 | -45.43546 | 2025-09-06 04:17:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| fde45f54-0abb-367d-85c2-3fd61496a749 | -14.57936 | -48.00946 | 2025-09-06 04:17:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| dd83cbf7-ca83-34da-b1ea-9981aa28ee98 | -10.6067 | -44.33447 | 2025-09-06 04:17:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 74.2 |
+| 46995d3e-ee4d-38de-a014-5ce68da6bbde | -9.82541 | -46.53285 | 2025-09-06 04:17:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| dd3736fa-240f-3273-9972-eaffad04b50c | -8.06137 | -52.38759 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 55f4d9db-6627-328a-9400-3ef6259321fa | -6.37925 | -43.02599 | 2025-09-06 04:17:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 8e36016d-50d3-3a6a-acb1-2e3ab84808c1 | -10.61059 | -44.3315 | 2025-09-06 04:17:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 74.2 |
+| bbad98cc-084b-3a2e-a1e9-065c0796d4be | -6.22529 | -45.12597 | 2025-09-06 04:17:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 617dfc4e-7d25-3d33-83dd-6c99053f8480 | -6.5385 | -49.5069 | 2025-09-06 04:17:00 | NPP-375D | XINGUARA | PARÁ | Brasil | 1508407 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 8d6aa320-ab16-3d03-9b1f-6b3ac07f7a12 | -5.92715 | -43.71808 | 2025-09-06 04:17:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bffa759e-afd8-3a9d-9140-f2888af2c281 | -7.21137 | -43.98374 | 2025-09-06 04:17:00 | NPP-375D | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 98773676-141f-36c9-81d1-cfca5bc67e51 | -6.20623 | -43.36879 | 2025-09-06 04:17:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| b7a3018e-01cc-3300-bafa-3a5af4161fb7 | -5.5135 | -42.66183 | 2025-09-06 04:17:00 | NPP-375D | LAGOA DO PIAUÍ | PIAUÍ | Brasil | 2205581 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| e8e5cccd-2443-3aa9-a1b1-1dceb9318f42 | -9.84139 | -48.83713 | 2025-09-06 04:17:00 | NPP-375D | BARROLÂNDIA | TOCANTINS | Brasil | 1703107 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| c04b0bb5-c907-3e85-a95e-97a767abec48 | -14.56855 | -48.02927 | 2025-09-06 04:17:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| ae7bc67c-c0bd-3d85-a242-48f95c1e88a0 | -12.62094 | -56.98507 | 2025-09-06 04:17:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 270efa37-145f-3062-a483-fda50d302ec5 | -6.59271 | -44.55401 | 2025-09-06 04:17:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 5e4ab9c7-48fa-38a1-920d-e258e67729ed | -9.71485 | -48.99023 | 2025-09-06 04:17:00 | NPP-375D | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b8468f98-ab5d-3f9a-98d8-0d357f9acf8a | -5.92808 | -43.01154 | 2025-09-06 04:17:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 90b53f05-2ad2-3d87-b2f0-2d18eab1ff7f | -14.18623 | -53.06305 | 2025-09-06 04:17:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 13.0 |
+| b97f8e93-a8fa-3bd8-a424-74d50d6f7bea | -5.92553 | -52.00034 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0dbf7788-1bd3-3094-8d8a-d3cfa6c55906 | -14.37284 | -51.91646 | 2025-09-06 04:17:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 7f46534b-ef0a-30dc-ba39-5e11cb855fa1 | -7.69064 | -50.28349 | 2025-09-06 04:17:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 244e0e3d-6d0a-3b73-9257-2d5525df37d2 | -5.62104 | -42.87746 | 2025-09-06 04:17:00 | NPP-375D | CURRALINHOS | PIAUÍ | Brasil | 2203255 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 38b2f557-2c99-3e2c-a3c5-e951a1428aaa | -6.80824 | -52.81258 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 00a07dad-7e5c-332b-8d96-870443480401 | -6.20215 | -45.49753 | 2025-09-06 04:17:00 | NPP-375D | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c44efc3b-535e-3731-97fa-e0831173b53f | -13.55614 | -48.11559 | 2025-09-06 04:17:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 6c3f8c3e-e08c-388c-9dec-bead35f12acb | -6.18737 | -43.35868 | 2025-09-06 04:17:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| e85ab9b0-3baa-301d-828b-19846404cbcf | -9.78032 | -46.91345 | 2025-09-06 04:17:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 6165e65f-d45b-3f0c-9261-7673bd612042 | -7.41641 | -44.94741 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 830c8ef6-bc7a-322a-b655-f5c246a6f64a | -5.73303 | -45.36161 | 2025-09-06 04:17:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 5ed06a25-d74b-39d2-8ea9-22343b7d1543 | -5.87155 | -52.16428 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 39b2d821-7aeb-3458-b0f1-bfadaffc8478 | -10.60506 | -44.32338 | 2025-09-06 04:17:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 32.0 |
+| 000b7016-54b7-3344-8ff1-8a648605a0e5 | -3.38287 | -47.61191 | 2025-09-06 04:17:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 2e1d46ad-aef7-3bcc-973d-f6f267eeca68 | -7.41358 | -44.94321 | 2025-09-06 04:17:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README40.md)
