@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 09efd243-de2e-3953-9a68-f1894ff92f93 | -22.42209 | -47.44477 | 2025-09-07 03:34:00 | NOAA-21 | ARARAS | SÃO PAULO | Brasil | 3503307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.7 |
-| f2fa6be5-88b6-38b5-8b1c-76dda0710e53 | -19.74035 | -42.12622 | 2025-09-07 03:34:00 | NOAA-21 | CARATINGA | MINAS GERAIS | Brasil | 3113404 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
-| f1734396-6d29-3ad4-a149-a93db78d4324 | -22.3307 | -49.37498 | 2025-09-07 03:34:00 | NOAA-21 | DUARTINA | SÃO PAULO | Brasil | 3514502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 7311792f-6e46-3e15-a094-65d255df69d5 | -17.67269 | -43.53263 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| c323c4c1-1266-310b-9d56-84bafd4e4137 | -17.87957 | -44.3368 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 864114e9-f1a3-331c-99a8-87119b79ecf5 | -22.41762 | -47.43525 | 2025-09-07 03:34:00 | NOAA-21 | ARARAS | SÃO PAULO | Brasil | 3503307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 024008e7-17a0-3e69-a912-018168525c6a | -17.55515 | -44.4032 | 2025-09-07 03:34:00 | NOAA-21 | FRANCISCO DUMONT | MINAS GERAIS | Brasil | 3126604 | 31 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| b4a04d24-56d0-3050-8f25-b20d994fea5e | -19.50953 | -42.56757 | 2025-09-07 03:34:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 2eb5d995-7ba2-33ca-8915-c49446bd461c | -16.90342 | -45.76563 | 2025-09-07 03:34:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| f1fd6a62-7307-3ec0-a9e5-01c96d2a4f8d | -19.89537 | -41.44699 | 2025-09-07 03:34:00 | NOAA-21 | MUTUM | MINAS GERAIS | Brasil | 3144003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| d3ec341c-f345-3186-8885-2149610556fa | -22.4166 | -47.43958 | 2025-09-07 03:34:00 | NOAA-21 | ARARAS | SÃO PAULO | Brasil | 3503307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.8 |
-| c7f2ebf8-d10f-3931-80f9-05b3016e5210 | -19.42382 | -42.32771 | 2025-09-07 03:34:00 | NOAA-21 | IPABA | MINAS GERAIS | Brasil | 3131158 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| f29e61a9-48b9-3c65-b7a0-36072476d4be | -18.03403 | -47.09601 | 2025-09-07 03:34:00 | NOAA-21 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| b1e2ca5a-64f4-3902-a16a-9079a52114bf | -18.6899 | -44.45234 | 2025-09-07 03:34:00 | NOAA-21 | CURVELO | MINAS GERAIS | Brasil | 3120904 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 6f6cb707-43af-337a-89ac-4ed61fed0829 | -17.70301 | -44.48386 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 53279305-09cc-3586-ac2e-147409e3a0a9 | -19.83339 | -44.24028 | 2025-09-07 03:34:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 0d47ed9b-96cf-3dc7-ad28-7416697e08d1 | -17.87585 | -44.32837 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ab2bfc29-a69c-3385-8291-74aaee30c5cc | -20.54978 | -46.44676 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| dd6f1178-c2d3-3320-8486-1aaf3ce7b628 | -21.48316 | -45.56174 | 2025-09-07 03:34:00 | NOAA-21 | TRÊS PONTAS | MINAS GERAIS | Brasil | 3169406 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
-| abc2c6d6-b8a4-39b0-a52a-3a18bb4f9c6e | -22.41719 | -47.43945 | 2025-09-07 03:34:00 | NOAA-21 | ARARAS | SÃO PAULO | Brasil | 3503307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.7 |
-| f2ef2866-07ff-3688-8328-f5a9d2d1049c | -17.69056 | -43.54327 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d51f061a-0552-3c64-b470-9d657ed2f3f9 | -18.63744 | -42.77145 | 2025-09-07 03:34:00 | NOAA-21 | GUANHÃES | MINAS GERAIS | Brasil | 3128006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| b1ef6bca-1fdf-3231-ae21-15a54aa56a3b | -16.9208 | -45.79831 | 2025-09-07 03:34:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 7bb29ccb-758b-3f61-bc11-08614e986364 | -16.90778 | -45.77995 | 2025-09-07 03:34:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 586c94cb-9e92-3c31-8dc8-a6d2e5fec535 | -20.54658 | -46.43468 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| 3e0bf929-c5fd-33aa-ac03-fab02ff188d1 | -17.71856 | -44.48927 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| c3d34889-a128-3edf-b458-9534e22c3f6c | -22.70045 | -46.92008 | 2025-09-07 03:34:00 | NOAA-21 | PEDREIRA | SÃO PAULO | Brasil | 3537107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| bb1f6578-66f4-311c-a44d-c76e7c602f65 | -18.37331 | -43.89248 | 2025-09-07 03:34:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 40a2f88d-d490-34a2-9751-23dbc8457a35 | -17.22432 | -46.71989 | 2025-09-07 03:34:00 | NOAA-21 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| c6b89a43-088c-3c60-a265-865874bae7ce | -18.01651 | -44.90893 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| ab1c4e35-6f64-3551-88f4-e45cb5eae9ab | -20.53642 | -46.44575 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 8b8f3ae5-4e63-3eef-9ee0-2810824eb251 | -20.45912 | -42.52436 | 2025-09-07 03:34:00 | NOAA-21 | SERICITA | MINAS GERAIS | Brasil | 3166303 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 7f59a99e-8085-38ed-8ad7-ceaee7e0272f | -22.42344 | -47.4365 | 2025-09-07 03:34:00 | NOAA-21 | ARARAS | SÃO PAULO | Brasil | 3503307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 54aca484-4f17-3a13-97a1-dbefa776d08a | -18.35819 | -43.91499 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 4f9d4184-3765-30ef-a0d1-0d721dad2d20 | -17.68631 | -44.51104 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| b4be315f-76d2-3e94-bf4f-29e28852cf7d | -18.54784 | -43.82265 | 2025-09-07 03:34:00 | NOAA-21 | GOUVEIA | MINAS GERAIS | Brasil | 3127602 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 77793138-784e-3b92-ae6a-fcfcbce68829 | -22.69479 | -46.91907 | 2025-09-07 03:34:00 | NOAA-21 | PEDREIRA | SÃO PAULO | Brasil | 3537107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 8637787e-8b25-34dc-a477-5bc7916fbe78 | -16.92175 | -45.79394 | 2025-09-07 03:34:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 2b7b75c2-8348-3582-ac18-4187c3a9ad2d | -17.69591 | -43.52088 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| e33e377b-c67d-3342-9c68-78e7859a43fc | -20.34677 | -43.89392 | 2025-09-07 03:34:00 | NOAA-21 | ITABIRITO | MINAS GERAIS | Brasil | 3131901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 3cee02d6-1c6e-35eb-a79f-cadceffc80cb | -19.8341 | -44.23693 | 2025-09-07 03:34:00 | NOAA-21 | ESMERALDAS | MINAS GERAIS | Brasil | 3124104 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 91a8d611-59ba-3f90-9012-53839a2895bc | -17.55434 | -44.40711 | 2025-09-07 03:34:00 | NOAA-21 | FRANCISCO DUMONT | MINAS GERAIS | Brasil | 3126604 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 10ef631a-18fc-3674-8769-770f8bfa79e2 | -18.68958 | -44.45188 | 2025-09-07 03:34:00 | NOAA-21 | CURVELO | MINAS GERAIS | Brasil | 3120904 | 31 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 48dc76f8-7434-35b0-b79f-7980891e2911 | -17.68073 | -43.54024 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| a6097ef5-a6c8-30ca-8db8-54f717d13231 | -17.70003 | -44.48753 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 98b5c006-174c-37c6-83e0-7741fd6758ec | -16.96843 | -45.83328 | 2025-09-07 03:34:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8f014ebd-5961-325d-86f2-5fea9fce56c7 | -17.69077 | -43.54673 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 13d691a5-3ed2-3dd2-a44e-debd3393cc97 | -17.71767 | -44.49362 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 9a9282ba-b5c4-3e0b-9320-5df117b030ce | -18.01571 | -44.91273 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 31ccce57-52ce-3a54-9951-5da6fdd65c0a | -17.68431 | -43.54817 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 3a94e981-3cf9-368d-b061-1f425861d8cb | -19.64885 | -46.07191 | 2025-09-07 03:34:00 | NOAA-21 | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| eb962418-1783-30a8-8481-a4b490b6d9f8 | -17.22005 | -46.70603 | 2025-09-07 03:34:00 | NOAA-21 | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 34a9c997-e0e4-37d9-bf1e-08dc99214c80 | -16.94015 | -45.76538 | 2025-09-07 03:34:00 | NOAA-21 | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 86a36e79-d5e5-35a2-bab1-3ca6fb74c21c | -18.03501 | -47.0917 | 2025-09-07 03:34:00 | NOAA-21 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 75365547-9bfb-3279-8948-156d25a7ccbe | -17.69123 | -43.54003 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 9f56bd3b-3204-351e-9d14-93ebd29a5cf0 | -18.23641 | -42.66625 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOSÉ DO JACURI | MINAS GERAIS | Brasil | 3163508 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| acc6c7ef-a77b-3696-b8f1-bfc674e1ef97 | -17.8766 | -44.3248 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 060e423a-a7e3-3e87-ada9-b4cbb937375d | -21.34006 | -45.87267 | 2025-09-07 03:34:00 | NOAA-21 | ALFENAS | MINAS GERAIS | Brasil | 3101607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| a8e7aeeb-933b-3182-9819-469644c16bac | -17.38267 | -49.23663 | 2025-09-07 03:34:00 | NOAA-21 | PROFESSOR JAMIL | GOIÁS | Brasil | 5218391 | 52 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| c0eebb2c-654b-38fc-9bd9-fc8dbd15249b | -17.69614 | -44.49025 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 42d058e6-60f0-35c2-a5c6-86e07964e822 | -17.68366 | -43.5513 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 4eb46b74-b748-32d9-a87c-a6748d2edc0e | -17.95109 | -45.30099 | 2025-09-07 03:34:00 | NOAA-21 | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 66a85ce4-a267-3d4d-8ab7-b9a6099e0dd7 | -18.03088 | -47.08912 | 2025-09-07 03:34:00 | NOAA-21 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| c36c1713-d67c-3457-83bf-66ac6ffaf629 | -20.35866 | -43.88542 | 2025-09-07 03:34:00 | NOAA-21 | ITABIRITO | MINAS GERAIS | Brasil | 3131901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 92e0d1b5-8ec6-35a9-9516-9c188279d8f2 | -17.95234 | -42.77346 | 2025-09-07 03:34:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 78299a90-96f9-33d7-9c7a-77bce3d212a3 | -17.86393 | -44.33292 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| d37fd9bb-aa70-3a1b-a57a-bbb8e6be84b1 | -19.88293 | -45.03084 | 2025-09-07 03:34:00 | NOAA-21 | PERDIGÃO | MINAS GERAIS | Brasil | 3149705 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 3b31c729-e843-3046-8a76-c94426eaec5a | -20.54281 | -46.4438 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 17.3 |
-| 0315a959-1c54-3634-b1d2-29f026a0e655 | -17.40432 | -49.31578 | 2025-09-07 03:34:00 | NOAA-21 | MAIRIPOTABA | GOIÁS | Brasil | 5212600 | 52 | 33 | nan | nan | nan | Cerrado | 9.7 |
-| a7e8a0da-66cc-35df-86e0-a5e1ba8709c1 | -18.37265 | -43.89578 | 2025-09-07 03:34:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| e575fdaf-0452-338f-aba1-f332e2761128 | -20.54703 | -46.45171 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOÃO BATISTA DO GLÓRIA | MINAS GERAIS | Brasil | 3162203 | 31 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| da9f6f3a-bcb1-3e1e-beac-60eeb84d79a6 | -17.63419 | -44.79037 | 2025-09-07 03:34:00 | NOAA-21 | VÁRZEA DA PALMA | MINAS GERAIS | Brasil | 3170800 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 9fd40bba-a654-38b2-a096-9aea69e08e32 | -20.22063 | -44.20632 | 2025-09-07 03:34:00 | NOAA-21 | BRUMADINHO | MINAS GERAIS | Brasil | 3109006 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| ff9687dd-6927-3d8c-a6fb-e8be46636540 | -20.35738 | -43.8798 | 2025-09-07 03:34:00 | NOAA-21 | ITABIRITO | MINAS GERAIS | Brasil | 3131901 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
-| 40a497fd-dafe-3a55-8736-c4d66837e443 | -22.70134 | -46.91619 | 2025-09-07 03:34:00 | NOAA-21 | PEDREIRA | SÃO PAULO | Brasil | 3537107 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| a9a222c6-f541-3620-b857-72672ef32bce | -17.95698 | -42.7725 | 2025-09-07 03:34:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0127cf0b-c39d-3ea0-b40c-fbba5bd5b1af | -19.48024 | -47.77753 | 2025-09-07 03:34:00 | NOAA-21 | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 27f78fe9-4cd6-38da-9b44-a3d0c82f40cb | -19.36654 | -43.65779 | 2025-09-07 03:34:00 | NOAA-21 | JABOTICATUBAS | MINAS GERAIS | Brasil | 3134608 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 73560588-509c-34c9-8401-60751beb90dc | -23.22239 | -47.05738 | 2025-09-07 03:34:00 | NOAA-21 | ITUPEVA | SÃO PAULO | Brasil | 3524006 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 19c48848-1c65-35a0-af4c-aa570540f69f | -17.40203 | -49.31069 | 2025-09-07 03:34:00 | NOAA-21 | MAIRIPOTABA | GOIÁS | Brasil | 5212600 | 52 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 7426a996-d1dc-3eb0-b557-cf32c6f06086 | -21.46996 | -43.91173 | 2025-09-07 03:34:00 | NOAA-21 | IBERTIOGA | MINAS GERAIS | Brasil | 3129400 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 313489de-0827-3d51-843a-291525f7f9be | -21.33511 | -49.1232 | 2025-09-07 03:34:00 | NOAA-21 | ITAJOBI | SÃO PAULO | Brasil | 3521903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 48904d7f-216e-35b1-94d5-e0592b7ac78b | -18.59979 | -43.6454 | 2025-09-07 03:34:00 | NOAA-21 | DATAS | MINAS GERAIS | Brasil | 3121001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 4b1e25d5-9410-306f-9cfc-c3dd208c8eb7 | -19.50912 | -42.57112 | 2025-09-07 03:34:00 | NOAA-21 | IPATINGA | MINAS GERAIS | Brasil | 3131307 | 31 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| ad28a692-1f40-335c-a4c8-871db9ed391d | -22.42245 | -47.44072 | 2025-09-07 03:34:00 | NOAA-21 | ARARAS | SÃO PAULO | Brasil | 3503307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.8 |
-| 933565ac-e314-322f-92c9-f7c256b2f1b8 | -21.33334 | -49.12712 | 2025-09-07 03:34:00 | NOAA-21 | ITAJOBI | SÃO PAULO | Brasil | 3521903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.1 |
-| 5123c63b-00ca-38f3-9e4c-fe5f38b5ee1c | -19.06824 | -46.77445 | 2025-09-07 03:34:00 | NOAA-21 | SERRA DO SALITRE | MINAS GERAIS | Brasil | 3166808 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 2b5367db-2c76-3301-acaf-099e0a3efdf7 | -17.86317 | -44.33648 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 16c6b7a4-8dd7-380d-aa88-30868d375d56 | -19.34489 | -42.17238 | 2025-09-07 03:34:00 | NOAA-21 | SÃO JOÃO DO ORIENTE | MINAS GERAIS | Brasil | 3162609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 8b7cc91d-6fed-316f-b26e-4d92587a7800 | -17.40895 | -49.31287 | 2025-09-07 03:34:00 | NOAA-21 | MAIRIPOTABA | GOIÁS | Brasil | 5212600 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 6687f70b-1a7b-3877-bb93-3f194c0e17a9 | -18.38163 | -43.89487 | 2025-09-07 03:34:00 | NOAA-21 | MONJOLOS | MINAS GERAIS | Brasil | 3142502 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 195858b7-0138-3cc5-8e24-35cc57cbc85c | -17.67024 | -43.54484 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 489e26a8-41a0-3e35-ac13-e2211cc67c9b | -21.62791 | -44.01146 | 2025-09-07 03:34:00 | NOAA-21 | SANTANA DO GARAMBÉU | MINAS GERAIS | Brasil | 3158706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
-| 31d3be3c-6c3e-3405-ac9d-96eb6fa587b2 | -21.3416 | -45.87277 | 2025-09-07 03:34:00 | NOAA-21 | ALFENAS | MINAS GERAIS | Brasil | 3101607 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.1 |
-| 1c7b66b4-b700-39ac-8b0b-12a30b2985d8 | -17.69156 | -44.51252 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 6807d7f7-ee96-3968-8b56-7d5b7b57128f | -21.63243 | -44.01701 | 2025-09-07 03:34:00 | NOAA-21 | SANTANA DO GARAMBÉU | MINAS GERAIS | Brasil | 3158706 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| ca5ddb0f-6685-3c44-b247-d76908615679 | -19.53479 | -41.54789 | 2025-09-07 03:34:00 | NOAA-21 | POCRANE | MINAS GERAIS | Brasil | 3151909 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 1dc81269-dbc0-3137-bff2-f51874f6d723 | -18.35695 | -43.92106 | 2025-09-07 03:34:00 | NOAA-21 | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 20fcdb13-4759-3999-89b6-5b26d2fb4c18 | -18.03592 | -47.08765 | 2025-09-07 03:34:00 | NOAA-21 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 6705e289-e02b-355d-b77c-a7fb6afb3f9d | -18.02193 | -44.91013 | 2025-09-07 03:34:00 | NOAA-21 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| c466f6c5-8dc0-3353-8c03-6b17e25f4c32 | -7.10976 | -44.14328 | 2025-09-08 03:38:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8dd4c0a1-0e00-3745-918f-d270d2cf4140 | -6.00911 | -40.22799 | 2025-09-08 03:38:00 | NPP-375D | TAUÁ | CEARÁ | Brasil | 2313302 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| dcd9ad5e-500e-31f1-9150-d2b6590b8552 | -11.4128 | -50.374 | 2025-09-08 03:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 63.5 |
+| cfb91811-82f1-358a-9a62-ed954ae99833 | -11.2007 | -54.9992 | 2025-09-08 03:40:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| c38a6f00-e2f0-3ad0-a097-0819fb6be28c | -12.6153 | -56.9742 | 2025-09-08 03:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 85.7 |
+| 0d36efdc-ca92-3ebb-bba1-ff0d5e9334cc | -14.5067 | -48.8085 | 2025-09-08 03:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 60.5 |
+| a11a2271-b93a-32b4-8070-14d7233c030e | -14.2383 | -58.3502 | 2025-09-08 03:40:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 223.1 |
+| 4ec503f9-d5a8-3228-b828-9fbcd1624f01 | -14.2578 | -58.3284 | 2025-09-08 03:40:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 105.1 |
+| 331a98da-e620-3b9d-8a12-384f0f08033f | -7.4168 | -61.6339 | 2025-09-08 03:40:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 52.7 |
+| ced7e1ad-a997-38e9-b281-0a213ba62852 | -14.2575 | -58.3484 | 2025-09-08 03:40:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 157.1 |
+| 60460a71-9979-3912-90b9-7351e4ec5833 | -7.3983 | -61.6346 | 2025-09-08 03:40:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 105.5 |
+| 8c175303-fa14-3282-9ec3-3bd3a6f15c91 | -12.6343 | -56.9725 | 2025-09-08 03:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 72.2 |
+| 3e15cf1d-b2a0-3f26-9e3c-571b4d3dde83 | -14.2386 | -58.3302 | 2025-09-08 03:40:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 164.3 |
+| b2c42df5-d012-360f-b741-3a8fe6e6ac9d | -11.4125 | -50.3955 | 2025-09-08 03:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 56.6 |
+| 5a1a9106-ef4b-3f1a-bf8f-91e42b769337 | -7.3984 | -61.6156 | 2025-09-08 03:40:00 | GOES-19 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| 27622e3e-d423-3ce7-b797-f46740a33279 | -10.82108 | -47.73764 | 2025-09-08 03:40:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 66cceeec-a183-364c-9e4b-8bd43e12c385 | -14.49693 | -48.8192 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 7efc13c6-0629-3412-9561-49d4eca62c37 | -8.69784 | -45.31071 | 2025-09-08 03:40:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| f8214272-8faa-34d5-b94c-590cc5cb4815 | -13.74143 | -46.90418 | 2025-09-08 03:40:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 76d3ea86-65e9-3cd7-8306-35d34741ffdf | -9.72452 | -43.97767 | 2025-09-08 03:40:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| 4b4b8148-8f86-356a-8939-ced0201e3f45 | -9.2018 | -46.04307 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| c165b1fc-34f2-3a98-9a4c-e7a204e4313b | -11.01885 | -46.02681 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| da03e753-61b7-3572-9b26-b1e561cc45a3 | -10.14322 | -46.22251 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 959d79a2-69eb-38be-81da-3fcfb89fc349 | -11.28647 | -46.46569 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 51dd063f-8b72-3378-b71a-939e71fad243 | -11.2769 | -46.4677 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 18.8 |
+| d518f6e8-ef9a-3fa5-8694-2fb16e3f0bd9 | -11.14416 | -45.25771 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 59ee15a5-c10d-383c-bec7-7669a8ef399c | -9.20195 | -46.05627 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| d9d8cf4e-7a3f-354d-9bf2-d4117fc6ec8f | -11.61303 | -47.15017 | 2025-09-08 03:40:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 708ede19-cc44-31df-a4be-2c0545336f76 | -9.88219 | -46.53627 | 2025-09-08 03:40:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 1e72ef29-4eb8-3fc3-a9f3-063febede306 | -11.24551 | -47.56104 | 2025-09-08 03:40:00 | NPP-375D | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| f488ec2e-61b4-39da-b233-33c9e73c51cf | -14.51733 | -48.76375 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ca3a81b2-249f-34ca-a8c9-208b8c79385b | -10.28725 | -48.80763 | 2025-09-08 03:40:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 9200469f-1f10-37de-af8a-c5f627708ea7 | -13.71975 | -46.88531 | 2025-09-08 03:40:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| e4895313-a6b4-3061-a018-40c2e314fae4 | -15.18697 | -47.95982 | 2025-09-08 03:40:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 74d5c242-7068-34d5-99d2-b7fd3366f865 | -16.27846 | -45.68562 | 2025-09-08 03:40:00 | NPP-375D | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f4cb075e-efbb-37ac-b37d-a13fa748d7c0 | -11.60534 | -47.15486 | 2025-09-08 03:40:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| ee2a9f21-112d-3604-9ffa-a9cde19f937a | -11.41072 | -43.58649 | 2025-09-08 03:40:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 4da1c271-2231-3a0d-876d-38230adaa3cb | -14.60897 | -48.08611 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 75e75d75-a3e9-3b31-b97f-fa54271995f5 | -11.01798 | -46.02762 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 6c8bbac9-0651-3400-b178-bf80cbc22a78 | -16.27949 | -45.68098 | 2025-09-08 03:40:00 | NPP-375D | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 8663ecbd-96a1-3c99-b06b-7bb675660b2c | -10.82081 | -47.74611 | 2025-09-08 03:40:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| c7c290c6-d723-3e4b-8fec-1e7f1f8d22b1 | -14.50845 | -48.80334 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 5dfec864-6662-3021-a2d9-1d82a6a81608 | -15.09406 | -48.13871 | 2025-09-08 03:40:00 | NPP-375D | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 6ec4e5c8-eeec-3498-a622-4c248baa70ae | -14.49973 | -48.80634 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d21e35a0-74bb-316f-9817-da6a97676c23 | -9.32942 | -46.52849 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0c43237c-9025-30f8-b927-a406646ca294 | -11.27891 | -46.45781 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 21.3 |
+| 9bc4d61d-aa8c-3134-a2c4-bf6e56579cb0 | -15.13629 | -48.06932 | 2025-09-08 03:40:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 3396525f-927b-3045-9ca5-46b961bd7072 | -11.13792 | -46.34875 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 3545681d-bd33-3e8c-8e67-9b433c881503 | -10.78212 | -46.01152 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d2f8379d-7926-3b10-adf1-027a5aec8c1b | -14.51897 | -48.78289 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 418545d4-a945-3956-aaec-3295c02c9827 | -15.08816 | -48.13706 | 2025-09-08 03:40:00 | NPP-375D | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 935eed06-e0b3-37d9-a763-af062da06f56 | -13.81949 | -46.25199 | 2025-09-08 03:40:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| d0c2eea9-e3a9-39ca-b803-afd65ca3c06a | -16.28931 | -45.68805 | 2025-09-08 03:40:00 | NPP-375D | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 128d59df-672d-35c8-8971-826b0b6a67cf | -9.33046 | -46.52306 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 4c8ad5fb-62fb-3beb-9862-b1a6bfed05a4 | -15.13635 | -48.06889 | 2025-09-08 03:40:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 70007db8-9f72-3bf0-897d-fb35c4f09af8 | -11.28086 | -46.44827 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 246f8697-6ddf-306c-8d44-c6333f79cb39 | -10.14717 | -46.20197 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 437f452a-c6bc-3392-8115-3e5612e8060f | -13.82625 | -46.24901 | 2025-09-08 03:40:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f82ebc35-8a9e-3508-a280-996c4494496a | -10.79518 | -47.73359 | 2025-09-08 03:40:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 4ff87060-3a47-389d-9277-125a84049855 | -12.41082 | -47.50447 | 2025-09-08 03:40:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 4a4b17b3-e83f-3304-870c-11f455392ad6 | -9.20298 | -46.05106 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 3c8e6e62-97cd-3108-b594-7fa264dee3d3 | -14.29916 | -44.87561 | 2025-09-08 03:40:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 6952131a-6344-3287-910a-bd4a6988f510 | -15.52888 | -48.18208 | 2025-09-08 03:40:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 66194608-966b-34b2-8807-bd06e1318576 | -13.7167 | -46.89996 | 2025-09-08 03:40:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 190aa1c5-b9dd-3688-b966-ceea32428894 | -9.81847 | -47.77087 | 2025-09-08 03:40:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 8a8f9533-2b7d-3522-9a15-9e94e099e08f | -13.67285 | -44.22659 | 2025-09-08 03:40:00 | NPP-375D | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 69dd8643-6687-3380-9cfd-53a81d8a5260 | -16.28463 | -45.68316 | 2025-09-08 03:40:00 | NPP-375D | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 696785f1-fe4b-3faf-8451-4a9aca8ed079 | -13.70912 | -46.8749 | 2025-09-08 03:40:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 8dc84e20-9a2b-39ca-835e-189278e7ba7c | -14.77716 | -48.11417 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 44d68dd8-d983-3efe-b6dc-24081cd71fb3 | -13.0007 | -45.20882 | 2025-09-08 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 9e54cafa-af20-3590-a68c-1b05c14a952a | -13.70991 | -46.87113 | 2025-09-08 03:40:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| d4713011-edf3-382d-9000-fd697020d78e | -11.28129 | -46.45904 | 2025-09-08 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 38.8 |
+| dbea6573-ef5d-304e-b2ae-9da8cccc7a1e | -14.29307 | -44.87815 | 2025-09-08 03:40:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 6fe2f329-4f6c-349b-8cc8-26e99c666bcb | -12.99994 | -45.21265 | 2025-09-08 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 256149ac-18ab-3e40-9d5a-29b3075d955e | -11.41011 | -43.58966 | 2025-09-08 03:40:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 5aa2b058-852b-34cc-8a55-e984fe36c214 | -13.64804 | -43.80284 | 2025-09-08 03:40:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 84737695-2c18-3c2b-b049-0a8f8e60129c | -14.51753 | -48.78953 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| cebe679e-b8e8-3dce-986c-3171f7cfa7e2 | -10.18225 | -46.23653 | 2025-09-08 03:40:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 183b1575-c7e8-3064-a30f-a95db83d36d9 | -8.69729 | -45.31548 | 2025-09-08 03:40:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 17.2 |
+| 13907482-c259-362c-95da-43a8efef3731 | -14.79143 | -48.14244 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| e1e44b24-5d1f-31ff-a161-d3f317059bea | -10.13822 | -46.19617 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| af342509-ba43-3bfd-a6a8-a53d8f534018 | -12.16795 | -43.9437 | 2025-09-08 03:40:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 0f851239-99e4-323c-bff8-9a9375048474 | -15.16697 | -47.99041 | 2025-09-08 03:40:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 85bf6d23-98c7-3c15-9b8a-21792cc5d978 | -14.78939 | -48.14904 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| be84596c-3c49-3de1-815a-c9d5b9389a6a | -14.26134 | -44.9451 | 2025-09-08 03:40:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 4122da9f-010d-3eea-8bcd-719f04ac9936 | -14.50503 | -48.81447 | 2025-09-08 03:40:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| f0d487db-026a-32ac-9b2e-63d915308ca8 | -9.71942 | -43.97792 | 2025-09-08 03:40:00 | NPP-375D | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| a6f656c4-0789-33a9-b950-62abe6fc831d | -15.19214 | -47.96669 | 2025-09-08 03:40:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 2bf3a8c1-0574-3821-b0db-616b021fbaf1 | -15.29035 | -43.38268 | 2025-09-08 03:40:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 4323c4fa-fce2-3623-87d0-1997bca9b8bb | -13.64633 | -43.81155 | 2025-09-08 03:40:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| c57e878b-acd8-3d4c-806b-66b4c2336a56 | -9.19979 | -46.03408 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b4430212-21ed-36ed-a12f-d3beb32e9d0e | -15.13515 | -48.07453 | 2025-09-08 03:40:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 53740775-254c-3f1a-92cb-ba13ef2a117c | -12.81538 | -47.99974 | 2025-09-08 03:40:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 8126aaa4-81de-33da-9d6e-f99160dd0bac | -10.13937 | -46.22291 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 46a452eb-2e49-3db8-ba7c-7b56c2988833 | -15.42188 | -47.68999 | 2025-09-08 03:40:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 90639e48-0ff4-3b95-b7da-c1697a8a0998 | -9.87663 | -46.53074 | 2025-09-08 03:40:00 | NPP-375D | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| b4b9f09d-0258-3cc7-836b-b1abc93f8be1 | -14.29245 | -44.8718 | 2025-09-08 03:40:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 905d126a-eeed-37ff-9e28-6d296823319a | -9.19873 | -46.03945 | 2025-09-08 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 58614b95-b5ed-31ab-ad5d-c23b694e053d | -16.34016 | -45.05473 | 2025-09-08 03:40:00 | NPP-375D | ICARAÍ DE MINAS | MINAS GERAIS | Brasil | 3130051 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0f2b18ba-c368-341d-9697-8fe88dc3224f | -8.70396 | -45.3116 | 2025-09-08 03:40:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 8.8 |
 
 
 [Clique aqui para ver as próximas entradas](README23.md)
