@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a431a173-0610-3e86-9112-e3da28cc9f97 | -8.06357 | -52.33029 | 2025-09-10 04:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| dbb31bed-a884-32ed-a687-8ce95e27b884 | -8.8635 | -45.85473 | 2025-09-10 04:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| d7d0693f-5d96-3229-badd-871d4711c7d6 | -9.01059 | -46.05645 | 2025-09-10 04:42:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 73b91811-89b7-3013-bcb6-73bd5fd9130d | -5.47991 | -51.22488 | 2025-09-10 04:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b87b763a-dde4-3186-84c5-5b2ce744f616 | -10.14827 | -46.17468 | 2025-09-10 04:42:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 31f2bc61-59ca-3901-ab94-8ddd0dd5f35b | -9.34747 | -46.7529 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 3b556ccd-103c-3138-ae71-1e9f9e8ce20f | -7.74438 | -50.72717 | 2025-09-10 04:42:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 42a08f24-2828-3ab3-afe1-eb1eb315393a | -7.30881 | -44.15608 | 2025-09-10 04:42:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ccab7afb-b0d2-34e2-b9c6-57a7435b5c3c | -10.72358 | -48.2889 | 2025-09-10 04:42:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 31747821-bf90-36f9-9ff5-cfebb78caa82 | -9.51996 | -46.54628 | 2025-09-10 04:42:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7bcde4dd-27ed-316e-b161-4529d277d1a4 | -7.66653 | -50.26683 | 2025-09-10 04:42:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 6e1d13ca-c59c-3e22-8f4e-cf19a55e9918 | -11.47456 | -49.26682 | 2025-09-10 04:42:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 44536bc2-3624-3ece-8445-edab37cf72ae | -9.51321 | -46.54067 | 2025-09-10 04:42:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 36c7b791-c3be-3c81-88b5-5c04aef9f860 | -11.12072 | -45.11895 | 2025-09-10 04:42:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 23abd32c-90fc-300a-b0dd-2ddbd6f06d30 | -11.95152 | -46.64854 | 2025-09-10 04:42:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 4f66a5c3-de61-3cfa-b62d-6b0826c750e2 | -6.38286 | -44.45285 | 2025-09-10 04:42:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 02d77589-d680-313e-b413-dfbdd555ec2d | -7.80124 | -46.06704 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 079ad749-41b4-3c9c-b741-0644570bc6fd | -9.55489 | -48.30021 | 2025-09-10 04:42:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| ec59738b-3e51-3c00-9dad-1d5bb5fabb55 | -10.74715 | -48.91608 | 2025-09-10 04:42:00 | NPP-375D | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 6bde013d-169c-3b4d-a403-1af4f11a208f | -11.66773 | -46.90845 | 2025-09-10 04:42:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| b5fbac7a-0680-38e1-b54e-93c1b3bb9a27 | -11.85084 | -46.76343 | 2025-09-10 04:42:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0c816120-2180-3569-99c7-4fff9be1c0a3 | -10.55185 | -51.51128 | 2025-09-10 04:42:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 7bedeb78-90bb-3659-9931-44c5e8637fe5 | -10.31048 | -48.80846 | 2025-09-10 04:42:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 27c0b722-a633-3b63-9a53-ee43c49e5f8b | -8.38535 | -45.02815 | 2025-09-10 04:42:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 4b0a0118-036c-36f4-b10f-c34808acd422 | -9.44151 | -46.72104 | 2025-09-10 04:42:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 6f2e7ae1-46b0-3fdd-96cd-2fcdb9a9461e | -8.52473 | -51.38802 | 2025-09-10 04:42:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 656c0370-1cd6-3111-9fb8-9a40b3d3adfb | -8.86419 | -45.85005 | 2025-09-10 04:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 3d8d5d3d-3d8b-3269-93f5-85235e84bdd8 | -6.61874 | -43.99732 | 2025-09-10 04:42:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 03164209-6730-3781-b865-1a76d74c4a22 | -9.14565 | -46.05629 | 2025-09-10 04:42:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 1b1a7759-41e7-3bd9-bcbe-ad10f2adff69 | -8.04353 | -48.66768 | 2025-09-10 04:42:00 | NPP-375D | BANDEIRANTES DO TOCANTINS | TOCANTINS | Brasil | 1703057 | 17 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 86db596f-96d4-3e1b-9e2e-09dd83d3a903 | -7.3664 | -47.43567 | 2025-09-10 04:42:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c8c001d2-c2bb-352b-8050-c2262b59e462 | -11.12309 | -48.43384 | 2025-09-10 04:42:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 95fac7e8-5ee4-3415-8780-9a283eb3a802 | -7.68631 | -44.7653 | 2025-09-10 04:42:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| cd44c35f-8d55-3520-bd7c-cf9dd979e1aa | -6.88865 | -47.88494 | 2025-09-10 04:42:00 | NPP-375D | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 99f1a09f-0a40-3833-933c-5193ba0098e4 | -11.33488 | -46.52544 | 2025-09-10 04:42:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| e1643cdf-90f2-335d-9ba2-782a92155be4 | -7.5472 | -44.667 | 2025-09-10 04:42:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| e1ddad7c-a93d-305f-a628-e1dc95cfe65c | -11.32348 | -46.52392 | 2025-09-10 04:42:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| cb42e65e-9ca6-3293-85ff-11013d5d5308 | -9.16953 | -45.58977 | 2025-09-10 04:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c21a3339-fd96-31d4-9492-3bb250b09a39 | -8.05236 | -52.33252 | 2025-09-10 04:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| c71a8a7c-b5e2-3fc1-81a7-80ded8695227 | -7.71058 | -45.1503 | 2025-09-10 04:42:00 | NPP-375D | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 2a708362-a0c1-32c8-86b7-a5ba3b928ea3 | -8.4417 | -47.28194 | 2025-09-10 04:42:00 | NPP-375D | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 2df0f445-90d1-3a04-94c0-a3ed158c0952 | -6.55902 | -47.4906 | 2025-09-10 04:42:00 | NPP-375D | AGUIARNÓPOLIS | TOCANTINS | Brasil | 1700301 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 04f68a75-680d-3ecb-b337-38b070966c4a | -11.75189 | -50.62915 | 2025-09-10 04:42:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0e8bb644-d9bb-38fd-9df2-8018f93919b2 | -10.02147 | -48.09596 | 2025-09-10 04:42:00 | NPP-375D | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a66bd1e5-bd34-3c57-aa03-88a3605c4681 | -7.75052 | -50.73183 | 2025-09-10 04:42:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 857e0a5a-d44e-3be3-80c5-c9ad608d6889 | -8.84763 | -47.26204 | 2025-09-10 04:42:00 | NPP-375D | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 570cce36-f1df-3a4a-9810-e679afbc03a1 | -10.65398 | -48.61453 | 2025-09-10 04:42:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| df24277f-145f-3f51-bd7d-f687df1f6047 | -11.14252 | -48.35115 | 2025-09-10 04:42:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e9190e1d-904c-371d-a163-abd9dadc1630 | -9.079 | -50.46459 | 2025-09-10 04:42:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c462bb8c-67a5-3ec4-8f31-dc7b431cab11 | -7.30937 | -44.15229 | 2025-09-10 04:42:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 9e422de2-dfb1-3804-b5ee-02c3d35c7a0f | -7.77166 | -50.77176 | 2025-09-10 04:42:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ad71723f-2490-371e-8734-042175605313 | -7.70225 | -47.29208 | 2025-09-10 04:42:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| fbe85043-70a0-3b18-ac1b-3e69d651c2ea | -11.44082 | -49.28379 | 2025-09-10 04:42:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 88dc6ac6-c93a-3dbe-af54-e756818bc3fa | -5.65897 | -51.26817 | 2025-09-10 04:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 316432e0-c647-31f6-b0f3-536bcc67aff5 | -7.85063 | -46.04228 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f3f9f390-2cf7-39ab-bd9c-09674c77b39a | -10.3037 | -48.80733 | 2025-09-10 04:42:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a381b7b6-f002-31eb-a097-8b96e73d7e1a | -7.99407 | -46.32513 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| a63b4b06-8e09-394a-9f53-0a6738d67542 | -8.42407 | -47.27912 | 2025-09-10 04:42:00 | NPP-375D | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| d575c8b5-9e4e-336c-a3e9-c085d5ec3423 | -7.79881 | -46.07326 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 2700aad0-3f57-3a4f-8905-5aa1ddc18259 | -7.34997 | -46.16064 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4a78cbd5-2213-3ab1-8ce1-0dc5f9a7944d | -10.74659 | -48.91975 | 2025-09-10 04:42:00 | NPP-375D | FÁTIMA | TOCANTINS | Brasil | 1707553 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 24072ee3-501c-3d59-8910-96d483886c8b | -12.08548 | -43.33047 | 2025-09-10 04:42:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 320f3e04-6375-334d-a526-e2acee5c22f8 | -10.30883 | -48.81924 | 2025-09-10 04:42:00 | NPP-375D | PARAÍSO DO TOCANTINS | TOCANTINS | Brasil | 1716109 | 17 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 69592a14-99d6-301d-a5f1-b7074d7a129b | -6.18397 | -45.80024 | 2025-09-10 04:42:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8a318478-ff08-34a7-bd5b-f882cd0ef823 | -11.44823 | -43.62172 | 2025-09-10 04:42:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 0a2958d8-56f3-3828-91e3-bb6b7c6f39d9 | -11.4442 | -49.28432 | 2025-09-10 04:42:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| b3f8dc8a-dd52-3325-bafe-da397f9450fa | -6.22752 | -46.24534 | 2025-09-10 04:42:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 634519a4-d8a3-3a64-bd97-4306ce657be8 | -9.06741 | -49.83151 | 2025-09-10 04:42:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e4a0f774-7e92-3317-b7d5-c9e8777b8e4a | -8.07486 | -48.6537 | 2025-09-10 04:42:00 | NPP-375D | BANDEIRANTES DO TOCANTINS | TOCANTINS | Brasil | 1703057 | 17 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| ca6ff8e1-5f77-3896-a00c-7e58e467461d | -9.06622 | -50.48046 | 2025-09-10 04:42:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| a3c6ae1f-869f-3d1a-b562-4a8eff688c31 | -9.05208 | -50.48899 | 2025-09-10 04:42:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| c7c84a30-89d1-3d7e-b714-bbb27fa4b536 | -11.44132 | -49.25784 | 2025-09-10 04:42:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 30d3ce75-c620-3dde-ab2b-5c4a3a9b254c | -7.66541 | -50.29533 | 2025-09-10 04:42:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 4ecabca7-b355-3fc9-8df5-fb5ddbc2b80b | -8.84998 | -47.27058 | 2025-09-10 04:42:00 | NPP-375D | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 4907e07c-6665-37a1-96b8-e030a4b56c18 | -11.43619 | -43.71031 | 2025-09-10 04:42:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| c1ddc2d9-8505-38c7-bcfe-7d95095ac240 | -8.00384 | -46.3354 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| bb347f9e-4844-3e96-a9ce-2233d4f682e1 | -6.56679 | -43.14608 | 2025-09-10 04:42:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 0938701c-5f65-3d06-9022-0bfba79181ba | -9.06317 | -45.74733 | 2025-09-10 04:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 11a6f1a8-72ab-3473-946e-4a89154b623f | -11.5366 | -47.314 | 2025-09-10 04:42:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| cefaea5d-7a82-3643-a285-36b6a699653d | -11.19568 | -48.375 | 2025-09-10 04:42:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f8fa096c-c60a-3bc9-a379-4981f247b7fd | -11.11663 | -48.40606 | 2025-09-10 04:42:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| a76c68a8-9b3c-3200-a2eb-b50928f12daf | -9.02753 | -49.78897 | 2025-09-10 04:42:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 5c12310e-e03b-3ac9-86d2-63b14d260ca8 | -7.78157 | -46.06133 | 2025-09-10 04:42:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 5b09492f-4c96-3249-9231-be9db25ee5cb | -9.0493 | -50.48496 | 2025-09-10 04:42:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 2a9e0848-9b59-3511-b045-872d88032d78 | -11.46428 | -43.63507 | 2025-09-10 04:42:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 8bd5f91a-bffa-3587-bc91-f7775811526a | -7.66708 | -50.26336 | 2025-09-10 04:42:00 | NPP-375D | PAU D'ARCO | PARÁ | Brasil | 1505551 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 5bddcc4e-52ad-36cb-8d4f-c5905a614d46 | -6.87898 | -47.87974 | 2025-09-10 04:42:00 | NPP-375D | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 31178bc2-af74-3d75-8f97-0cae4203cbdf | -9.07011 | -50.47748 | 2025-09-10 04:42:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1f134e5b-93ea-3ffb-84fa-2c922d94f175 | -10.83986 | -47.75033 | 2025-09-10 04:42:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| b1c2aebc-a729-33ba-9010-836726be5d00 | -6.4074 | -44.39916 | 2025-09-10 04:42:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 96400643-6b45-399c-b55a-10d2adfcc95b | -8.06449 | -50.18691 | 2025-09-10 04:42:00 | NPP-375D | REDENÇÃO | PARÁ | Brasil | 1506138 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| a375b941-831e-3f81-b90a-51efb38fc18b | -9.06241 | -49.81996 | 2025-09-10 04:42:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f82dbd20-cc6d-36fc-b495-20fdd28b2962 | -5.8786 | -52.15971 | 2025-09-10 04:42:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 3eecf200-ede9-3c39-b1ee-a0df77805590 | -7.73921 | -50.75928 | 2025-09-10 04:42:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| d7494d84-5752-351b-9058-920aa455af8c | -9.13657 | -45.5701 | 2025-09-10 04:42:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 47061fd3-85d5-39b0-9dfd-7cd3249086c9 | -8.42951 | -49.11234 | 2025-09-10 04:42:00 | NPP-375D | COUTO MAGALHÃES | TOCANTINS | Brasil | 1706001 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b2656058-e6ef-38cd-ae8f-bc0443b787ca | -9.04707 | -50.49905 | 2025-09-10 04:42:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| e0fe2ecd-7cee-3d08-a5fc-e7bcca916282 | -7.10921 | -50.76489 | 2025-09-10 04:42:00 | NPP-375D | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| e95dc6b0-de3a-35f9-95c4-f1957cd7feb9 | -10.02859 | -51.6572 | 2025-09-10 04:42:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c71cdd7e-5306-3b3c-8d74-a0fc20530efb | -9.35675 | -46.49894 | 2025-09-10 04:42:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| f4d8193b-3992-3681-b2d0-ea69a6e63093 | -13.24686 | -51.77533 | 2025-09-11 04:23:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c2445b22-026f-3520-b20d-65453dc7398d | -11.88079 | -58.8096 | 2025-09-11 04:23:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 61a6028f-9e9f-3929-a9d7-c709a071b212 | -11.02088 | -45.06686 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| b3bae291-0882-38c8-abf8-6880583f5e6b | -11.40678 | -43.5449 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 7d9fa82a-d240-3e14-adb9-bd9478ad663f | -11.48078 | -49.25436 | 2025-09-11 04:23:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| f55ed378-4b9e-3281-90ae-374b6590c76f | -14.38723 | -47.33921 | 2025-09-11 04:23:00 | NPP-375D | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| b626eca3-5c99-3782-8cf5-a6f22cc6b4d9 | -15.22872 | -44.03253 | 2025-09-11 04:23:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 1e04a186-ad02-3340-b1e3-49c13bde95e0 | -11.15702 | -48.35151 | 2025-09-11 04:23:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| f2e305f0-d733-3d32-9876-6d376dd34e6a | -11.47394 | -43.64229 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 3f4fc87e-6562-33b8-a876-4bd77d40bffa | -11.31284 | -50.74764 | 2025-09-11 04:23:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 08a08f48-9b9b-30b4-bc28-62bef908220c | -11.0181 | -45.06278 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| c8ff2fe7-14c0-3373-a16a-5ddc46738642 | -10.39142 | -50.51704 | 2025-09-11 04:23:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d7cd3d56-e101-3aac-9f63-90885fedd690 | -11.40969 | -43.54933 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 02f286ba-b870-3f10-9be7-524dfdef60ea | -13.84253 | -47.35523 | 2025-09-11 04:23:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 5f817228-ca0b-391e-b110-3424a8b97647 | -11.81986 | -46.74775 | 2025-09-11 04:23:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f4bc7040-2ee9-3d3e-bf08-003f4bcf9cd1 | -9.34052 | -48.94204 | 2025-09-11 04:23:00 | NPP-375D | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 71a42dd1-63e7-3e96-94ad-aac3be18bbc3 | -12.01579 | -47.58748 | 2025-09-11 04:23:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 84e24090-1ecf-3527-ae01-f6556eb00f22 | -15.19926 | -44.03627 | 2025-09-11 04:23:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| a5cb4911-7bec-30b0-9256-4b0d6149865d | -13.20382 | -48.3767 | 2025-09-11 04:23:00 | NPP-375D | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 6138744a-33f0-329d-8acd-61d949700cce | -11.99291 | -47.5989 | 2025-09-11 04:23:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| f7248769-a471-3670-9815-29b6c0470c42 | -10.5698 | -51.5153 | 2025-09-11 04:23:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 01177dbd-77fc-3386-b3d6-527879a1ee32 | -9.02301 | -49.78434 | 2025-09-11 04:23:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| dba5588c-3f69-3b00-8b4b-9984e54a423d | -11.72276 | -50.639 | 2025-09-11 04:23:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 38.8 |
+| 6f4b351b-d84d-33da-803e-c9eba5ed51c0 | -12.06229 | -50.93903 | 2025-09-11 04:23:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 321321aa-e4bb-3996-aa11-db422ee692d7 | -9.55087 | -48.24402 | 2025-09-11 04:23:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f14764f6-8759-33af-b1e8-78432fcfcab5 | -11.41432 | -43.5421 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0a95f51f-ff8f-3225-8cd0-0f04da971b67 | -11.45429 | -43.60778 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 13.7 |
+| 088719dc-ba21-30ba-8e52-f9274ad5cf65 | -8.5235 | -54.76548 | 2025-09-11 04:23:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 9b6cb253-cac6-3b91-bf48-bc9892f002f9 | -13.3002 | -43.7527 | 2025-09-11 04:23:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 37222b82-cbf3-35ca-9359-7166f17799b4 | -12.94436 | -54.8131 | 2025-09-11 04:23:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| f8ca3229-3f04-3867-89c5-40c4d58a65de | -11.49249 | -43.64817 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 86e80095-af4a-32c3-b9ff-b5d7100641e8 | -8.57164 | -51.35173 | 2025-09-11 04:23:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 921f9e2d-e8e5-3679-ac83-15e8816ce940 | -13.65035 | -44.20073 | 2025-09-11 04:23:00 | NPP-375D | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 17d04a33-1041-358a-ba3e-4acebc992c61 | -11.1671 | -45.27526 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 74788468-1822-3745-9d0e-7e4341b067ad | -11.41723 | -43.54652 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 33f79601-3e56-3853-aabc-41f8e0ddd6b3 | -13.85539 | -47.36096 | 2025-09-11 04:23:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| f12b8745-594a-34ed-ac3f-58c1fd247af9 | -11.68566 | -46.90992 | 2025-09-11 04:23:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 756947a6-9db3-3256-a726-cf942d78549d | -14.78674 | -48.22564 | 2025-09-11 04:23:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| e754d775-35dd-3e95-af2c-eff50e6f4f09 | -11.48902 | -43.64763 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| a9cad2ca-110a-3585-9c03-d5b3d1831879 | -11.50117 | -43.66139 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| cd1882e6-1b8c-38aa-957c-fe69f5859c19 | -10.06144 | -50.37457 | 2025-09-11 04:23:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 714fa45c-bb6f-3cb9-a21c-cbcee7f98fd7 | -9.01357 | -49.52887 | 2025-09-11 04:23:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 485a3065-031a-3f60-b5e9-88f5d5bcd35b | -14.3071 | -44.99532 | 2025-09-11 04:23:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| a61333a9-ea8a-3166-a127-cc18d7a35d3c | -9.38488 | -46.77253 | 2025-09-11 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| b868e273-48da-324d-8faf-a8d8fc4e61db | -11.72849 | -46.4729 | 2025-09-11 04:23:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| d5c04e55-471d-3190-a27c-221f0003c83b | -11.71396 | -50.64271 | 2025-09-11 04:23:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| fd37c2cf-2406-31a7-92aa-0e758ceceaa5 | -11.4705 | -43.61815 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 0c9fc2e1-c8f5-3bd2-8fbb-1b94134b23a6 | -8.08021 | -54.74732 | 2025-09-11 04:23:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a3b048dc-7012-3859-bdc8-002f67d16f64 | -12.39666 | -54.16633 | 2025-09-11 04:23:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| e01cfd4c-a548-3c0a-8da3-af933273aa11 | -11.47397 | -43.61868 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| b7e67099-70d5-3e16-a815-0e87d0302990 | -14.13366 | -45.40124 | 2025-09-11 04:23:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 5aed4d06-b1a6-32c5-9c0e-ae833045c808 | -13.16412 | -45.28202 | 2025-09-11 04:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| e356007b-633d-3020-8d85-a316f9e63260 | -12.97428 | -48.04701 | 2025-09-11 04:23:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 61b75a42-9483-3b11-a466-fb9325794311 | -11.60218 | -52.22032 | 2025-09-11 04:23:00 | NPP-375D | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 36747e84-c48f-3cf5-a4dd-8d7fc6e4ae12 | -9.44847 | -46.42352 | 2025-09-11 04:23:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 2260a0e7-3fea-3651-a272-5daf6d5e49cf | -13.31796 | -44.64628 | 2025-09-11 04:23:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| f31253a6-dd1d-34d0-9e05-d7dc48a9580f | -12.13135 | -44.85735 | 2025-09-11 04:23:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 42596460-6561-3e00-a2e5-060559b5c9bd | -8.80282 | -48.09341 | 2025-09-11 04:23:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 9124c5a7-57fa-3f76-96e7-643a46fd5eb2 | -11.94505 | -46.64385 | 2025-09-11 04:23:00 | NPP-375D | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 33a1e498-b628-38bd-bb54-c604d8582c17 | -14.39129 | -47.31407 | 2025-09-11 04:23:00 | NPP-375D | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 7ac56694-2457-3c92-a36c-6186f72de8d5 | -11.18725 | -48.36407 | 2025-09-11 04:23:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 26e0d788-6b9e-34d9-8881-f9b9dc5d1332 | -11.48445 | -43.67842 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 13432195-fc08-3287-90e1-59b491cf0802 | -14.3677 | -47.2993 | 2025-09-11 04:23:00 | NPP-375D | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| faa8e4a1-b890-3c05-9804-5fb3793dd0c5 | -10.56412 | -43.66344 | 2025-09-11 04:23:00 | NPP-375D | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b164adcc-8d23-35ce-9e5e-f3dea9fff31f | -11.36837 | -46.56351 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| f74a2cfd-b9a6-3250-ac87-dfa68dd8cb15 | -12.60891 | -56.96224 | 2025-09-11 04:23:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 91aca95c-7e18-353f-81b5-39695e9d48c4 | -13.97942 | -46.6532 | 2025-09-11 04:23:00 | NPP-375D | IACIARA | GOIÁS | Brasil | 5209903 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| d86c85c1-0c6d-3842-9244-82490a6c55ed | -13.85506 | -43.81905 | 2025-09-11 04:23:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 3f89ce34-d624-312c-9cb4-d5431832ac9f | -13.58254 | -47.70618 | 2025-09-11 04:23:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 71a07c7f-fc0f-3bc6-bb22-6993113c570a | -11.34407 | -46.49041 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| ec0f07d5-fb12-384e-89dc-4e7311714ee0 | -11.35124 | -46.50988 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 8bf98e15-6356-378f-b636-0121f930a33e | -13.9549 | -48.22604 | 2025-09-11 04:23:00 | NPP-375D | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 3c476671-96eb-39d4-9410-84940d4e03b6 | -8.80997 | -48.09464 | 2025-09-11 04:23:00 | NPP-375D | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| b84c2b5f-0df6-36a1-a12e-d3bf2314c65c | -10.89211 | -47.77078 | 2025-09-11 04:23:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 8652a8d3-ac42-3e0f-943b-ad490ff9b3f2 | -12.56919 | -44.64146 | 2025-09-11 04:23:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 2db93be2-c46c-3c56-abbf-eb5bccb37488 | -13.0521 | -47.16492 | 2025-09-11 04:23:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 0326c118-3390-339c-ac30-522fb2944825 | -13.01222 | -48.72501 | 2025-09-11 04:23:00 | NPP-375D | MONTIVIDIU DO NORTE | GOIÁS | Brasil | 5213772 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b5c0b27e-76db-36e7-b183-16013ce7c738 | -12.12854 | -44.85319 | 2025-09-11 04:23:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4974d2d1-69ce-3d99-922f-91e3492447ad | -15.09597 | -48.04547 | 2025-09-11 04:23:00 | NPP-375D | ÁGUA FRIA DE GOIÁS | GOIÁS | Brasil | 5200175 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 54f25a87-af0e-3324-be72-6a36c793cfa5 | -11.48208 | -43.64658 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 17235d1b-1ba9-3dd4-83ca-4f47348cd29c | -11.73245 | -50.63017 | 2025-09-11 04:23:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 5ee57347-d479-302f-864e-56e4cf212f35 | -9.72071 | -43.52554 | 2025-09-11 04:23:00 | NPP-375D | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| bd310680-5c53-3a1a-a704-cea602bcec25 | -11.68025 | -46.87936 | 2025-09-11 04:23:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 3f4e51a8-6403-3046-ad21-8319c24f2655 | -12.02153 | -46.75513 | 2025-09-11 04:23:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a9a85355-4c1d-382a-aff5-9b23502f4d6a | -13.34509 | -44.00416 | 2025-09-11 04:23:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| e681fec4-9b36-3098-9c15-0501ca846b23 | -11.16377 | -45.27472 | 2025-09-11 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 828365a0-72ff-3701-96d9-8449003c97cf | -9.45856 | -46.42514 | 2025-09-11 04:23:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 5a7809dc-1107-3cbd-b5ea-2c8e68db9a45 | -9.34229 | -48.94426 | 2025-09-11 04:23:00 | NPP-375D | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| df57e181-9c1f-37a8-b45e-73cfc31aa0ff | -10.57619 | -51.50399 | 2025-09-11 04:23:00 | NPP-375D | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| f5553e8b-7f1f-3277-b813-5948c98a7cf1 | -10.0071 | -51.71718 | 2025-09-11 04:23:00 | NPP-375D | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 1c6fceb5-bfe0-3bdd-a195-09441671eded | -12.13697 | -44.86557 | 2025-09-11 04:23:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 0857aa1f-b10a-30b8-a450-ddac408f3a97 | -11.65822 | -46.90896 | 2025-09-11 04:23:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 2e8d0d1d-98d6-3570-89db-30d660a0c22c | -11.18371 | -48.36351 | 2025-09-11 04:23:00 | NPP-375D | IPUEIRAS | TOCANTINS | Brasil | 1709807 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 64f3e662-b91a-3953-8fc6-601292d7c4fc | -9.02127 | -49.53024 | 2025-09-11 04:23:00 | NPP-375D | ARAGUACEMA | TOCANTINS | Brasil | 1701903 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 33983c78-b994-3026-8dab-38ef7e6bf9bc | -9.08144 | -47.07175 | 2025-09-11 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| e648c3cb-0d27-39e8-a8fd-727b5d988ac4 | -11.45025 | -43.58741 | 2025-09-11 04:23:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| dde47652-9343-3998-90a9-ab742ec17c89 | -15.25347 | -44.03641 | 2025-09-11 04:23:00 | NPP-375D | ITACARAMBI | MINAS GERAIS | Brasil | 3132107 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| d8c5a200-5d19-345e-b4d6-f5600eb397eb | -9.84336 | -47.78006 | 2025-09-11 04:23:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 3e776b4e-b13a-311c-83fb-3689c8e8080e | -11.15271 | -52.03812 | 2025-09-11 04:23:00 | NPP-375D | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2c52d4d5-6be7-317a-bcc1-240c718506be | -9.58968 | -48.06698 | 2025-09-11 04:23:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
 
 
 [Clique aqui para ver as próximas entradas](README60.md)
