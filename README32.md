@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 491abff2-3ced-32c7-b169-ab53bb7a3972 | -17.04757 | -45.89461 | 2025-09-17 04:14:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| a1579363-6f69-3dc2-88e8-ffb2eb56d42c | -19.00883 | -49.9296 | 2025-09-17 04:14:00 | NPP-375D | GURINHATÃ | MINAS GERAIS | Brasil | 3129103 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4016b875-0cc3-38ab-9530-ae691e650a82 | -17.56454 | -43.78981 | 2025-09-17 04:14:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 66f8e3be-a6e1-3e05-bdab-c6b7a0d4e6ab | -17.31791 | -46.82003 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 10bd20b2-9ada-326d-8278-669c01992c1e | -17.93925 | -45.25351 | 2025-09-17 04:14:00 | NPP-375D | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 348f6fe9-b0e0-3a2a-b028-f0094f5f93a0 | -17.34201 | -46.80725 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 4eb6a115-3612-3d06-ba3b-30ef7ef63d4a | -17.5696 | -49.0651 | 2025-09-17 04:14:00 | NPP-375D | MORRINHOS | GOIÁS | Brasil | 5213806 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 0850de9d-0085-31d3-8b0e-ed63cc401333 | -17.33777 | -46.81067 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 4c7a0f6c-eea3-3ac9-a798-42f6d69abe9d | -18.33515 | -43.3001 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 276f255c-3888-3b06-ae66-35f76e28ac16 | -18.31782 | -43.3009 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 42263508-513f-397e-8f04-e1445f4e7024 | -18.3318 | -43.29952 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 72406655-ea8b-3258-b7d8-fb116d715baf | -18.19173 | -44.53957 | 2025-09-17 04:14:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 3b286570-aea3-377c-88f4-f19e41b81bfd | -18.16376 | -45.22483 | 2025-09-17 04:14:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| a83b63fa-3723-3701-9bce-3aa9c89937ef | -18.17493 | -45.17725 | 2025-09-17 04:14:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ff0c3d37-b55d-374c-b50a-ce88adca1251 | -17.19848 | -45.91472 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 7ea6f8ab-0bb3-367c-80c5-3da3737f2f3c | -19.52934 | -50.59336 | 2025-09-17 04:14:00 | NPP-375D | LIMEIRA DO OESTE | MINAS GERAIS | Brasil | 3138625 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
-| 498a2da0-de76-3c63-945f-2458c5233de1 | -17.33068 | -46.80944 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 01e03b55-36b1-3a8e-92b7-15d79318dbf8 | -23.45693 | -49.2507 | 2025-09-17 04:14:00 | NPP-375D | TAQUARITUBA | SÃO PAULO | Brasil | 3553807 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| cf64ad3a-22b8-3014-80a0-4dc5f4cab06f | -17.1944 | -45.91795 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4295f7cf-50f7-36f5-ad74-548192338bf4 | -17.1957 | -45.91024 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 44e77720-7b82-384a-b169-862a31b4bebf | -17.00344 | -45.86274 | 2025-09-17 04:14:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 7277afe8-c1f7-359d-a1e6-2a160995c5b7 | -18.17373 | -45.18464 | 2025-09-17 04:14:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 55d212ba-a11c-3992-8cea-9ff2ca08801b | -20.43262 | -40.74632 | 2025-09-17 04:14:00 | NPP-375D | MARECHAL FLORIANO | ESPÍRITO SANTO | Brasil | 3203346 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 314902c7-cb13-3cd9-b30b-32535790e4ea | -22.36049 | -49.03917 | 2025-09-17 04:14:00 | NPP-375D | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 8e492de5-d896-386e-9793-688942f93314 | -18.53978 | -48.13697 | 2025-09-17 04:14:00 | NPP-375D | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fac117f2-c326-37aa-94f7-a3546be91e09 | -17.19766 | -45.90754 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 5ab0b4ba-d87d-3ecb-b00f-2dc4edc340d3 | -23.13545 | -49.63955 | 2025-09-17 04:14:00 | NPP-375D | TIMBURI | SÃO PAULO | Brasil | 3554607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| a6e44d5d-f432-3694-a210-de3fb3977a26 | -18.36696 | -43.31704 | 2025-09-17 04:14:00 | NPP-375D | SERRA AZUL DE MINAS | MINAS GERAIS | Brasil | 3166501 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| cfa60a94-dfab-3b38-986d-5b5510912e01 | -17.71759 | -47.94441 | 2025-09-17 04:14:00 | NPP-375D | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 9ac32a64-086b-3710-a4d2-7de5789c7083 | -18.23617 | -46.83727 | 2025-09-17 04:14:00 | NPP-375D | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 7ae24b57-4821-3a26-bddb-cfd0bc93a977 | -18.33013 | -43.31048 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 5bcfb538-7251-3416-bb18-e9cfafc3923f | -18.33293 | -43.29215 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 69e8721f-ecba-3f6b-84f3-c3730efc8661 | -17.94321 | -45.25041 | 2025-09-17 04:14:00 | NPP-375D | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 632d99f4-96e5-3bff-b63c-d71a0e78f419 | -17.00408 | -45.85888 | 2025-09-17 04:14:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 5e52b40a-e0f7-3fff-a0f3-411ed1635926 | -23.50867 | -47.04827 | 2025-09-17 04:14:00 | NPP-375D | SÃO ROQUE | SÃO PAULO | Brasil | 3550605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| ffe1adb5-7250-3e38-b966-5a37a8c75814 | -18.37081 | -43.32478 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.9 |
-| 8b58b355-efde-3697-97f3-33df06b6ee31 | -17.32855 | -46.82188 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 8cb8928f-b813-3ba8-90c4-86786b1051e2 | -16.89018 | -45.79143 | 2025-09-17 04:14:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 3a487aeb-623a-37cd-9f60-79bde050f06e | -18.16977 | -45.18777 | 2025-09-17 04:14:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bb8b225b-a728-3fad-b49d-041c448836f1 | -23.48265 | -46.40256 | 2025-09-17 04:14:00 | NPP-375D | GUARULHOS | SÃO PAULO | Brasil | 3518800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 6ee9bdd1-d292-3dc0-bdb3-f4cf0b2c70b7 | -17.33281 | -46.797 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 9a60cf4a-5cb3-38ae-8320-b2163756cb81 | -17.04971 | -45.90299 | 2025-09-17 04:14:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 3e35306a-cee9-3f64-aa46-7ac281d116df | -18.32788 | -43.30261 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 8c3fb46f-58f3-35eb-b287-691028f5d583 | -18.5505 | -49.24779 | 2025-09-17 04:14:00 | NPP-375D | CENTRALINA | MINAS GERAIS | Brasil | 3115805 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| f85af2bd-a321-3881-8524-c7e8544653d3 | -17.33353 | -46.81415 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ed4aca8d-728a-3053-83a6-09ccf95d7723 | -19.54931 | -47.68895 | 2025-09-17 04:14:00 | NPP-375D | NOVA PONTE | MINAS GERAIS | Brasil | 3145000 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 7abacb27-aa0a-3d86-9291-56d59c7ccd90 | -18.19564 | -44.53651 | 2025-09-17 04:14:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 993093cb-1034-30ab-9b6d-91a7b52edf1b | -18.19839 | -44.54074 | 2025-09-17 04:14:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| e6892006-85fd-36c2-b90b-34bfe3f0511c | -17.9653 | -45.24691 | 2025-09-17 04:14:00 | NPP-375D | BURITIZEIRO | MINAS GERAIS | Brasil | 3109402 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 659c8fa0-935e-381a-ba47-a2528f7bd2c1 | -17.20386 | -45.90382 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| e58ea43a-0ce0-3753-9cf1-aca9aad26f4e | -18.32622 | -43.29101 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| e49fe9c4-c253-3f10-b3fe-664283be1b91 | -18.55145 | -49.24255 | 2025-09-17 04:14:00 | NPP-375D | CENTRALINA | MINAS GERAIS | Brasil | 3115805 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| 5b8e42e1-f55b-3522-abc8-2b3e415717d7 | -17.11437 | -43.59749 | 2025-09-17 04:14:00 | NPP-375D | GUARACIAMA | MINAS GERAIS | Brasil | 3128253 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 1c4c91c4-d933-3403-943e-8b16b9c7a25e | -18.17037 | -45.18408 | 2025-09-17 04:14:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f6683204-994a-30f6-8c97-927817026934 | -18.25127 | -43.32413 | 2025-09-17 04:14:00 | NPP-375D | COUTO DE MAGALHÃES DE MINAS | MINAS GERAIS | Brasil | 3120102 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| d726f293-42ee-3820-a802-9b4fe4de808b | -17.31508 | -46.81525 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f9634ce0-9ce5-30a3-94c0-f45940469a86 | -18.19506 | -44.54015 | 2025-09-17 04:14:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 2c07dc09-5b87-3228-8239-f73f06a31160 | -18.16041 | -45.22423 | 2025-09-17 04:14:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 10aac1b9-ea8a-32cf-ab9b-3d9329859c45 | -18.32118 | -43.30147 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 29c15c62-3d98-3018-92b4-89fa6e8bf59a | -18.3223 | -43.29412 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| a7aa12b7-ac28-31f3-b93f-ef8f052cd247 | -18.54686 | -48.14491 | 2025-09-17 04:14:00 | NPP-375D | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 95ccd9f6-da53-35b3-961f-705417162436 | -18.36135 | -43.33117 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| a2c1924c-980a-3c18-b3dd-158173a476c8 | -17.05314 | -45.90362 | 2025-09-17 04:14:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 74064351-41bd-32ee-877d-ec470a584146 | -19.55138 | -47.6983 | 2025-09-17 04:14:00 | NPP-375D | NOVA PONTE | MINAS GERAIS | Brasil | 3145000 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7557e0b3-4d3d-389d-adb3-9eb334dd7c36 | -17.31863 | -46.81583 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ce097c1c-04db-3679-9ef8-34ece02ee62a | -17.34131 | -46.81132 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 9785ab89-b387-3d34-8465-27f9a68a653f | -21.94672 | -48.00519 | 2025-09-17 04:14:00 | NPP-375D | IBATÉ | SÃO PAULO | Brasil | 3519303 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| be868e75-a73f-334a-a4ab-c2f88040e98a | -19.28044 | -47.42916 | 2025-09-17 04:14:00 | NPP-375D | SANTA JULIANA | MINAS GERAIS | Brasil | 3157708 | 31 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 4767f980-b54c-3eec-91e3-38d0530fc5d3 | -18.55315 | -49.24418 | 2025-09-17 04:14:00 | NPP-375D | CENTRALINA | MINAS GERAIS | Brasil | 3115805 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 6c299e83-921a-3bcc-8096-dbb0a676056e | -18.32565 | -43.2947 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 4dc1ea41-a90d-36a5-9e35-37b635e253b9 | -23.12947 | -49.71486 | 2025-09-17 04:14:00 | NPP-375D | CHAVANTES | SÃO PAULO | Brasil | 3557204 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 16ded377-27c6-30e8-b286-c9f24de27ff0 | -19.53352 | -50.59436 | 2025-09-17 04:14:00 | NPP-375D | LIMEIRA DO OESTE | MINAS GERAIS | Brasil | 3138625 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.0 |
-| 1ed622db-7b42-3eb3-a2d8-0f8397db7c03 | -17.19702 | -45.91138 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 40368430-02ef-3f94-ae97-f896b82f70ed | -23.4842 | -50.3702 | 2025-09-17 04:14:00 | NPP-375D | RIBEIRÃO DO PINHAL | PARANÁ | Brasil | 4121901 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
-| de25951c-4729-3731-a708-e11e314c6f3c | -18.32062 | -43.30514 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 932074c8-172b-3e4d-97bb-de504f987f01 | -17.19783 | -45.91858 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 9d3878fa-dac6-3c62-b9b6-e6ad929ea445 | -18.32006 | -43.30878 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 25c00fe1-39e5-33e5-be07-d1625a55acad | -18.32174 | -43.2978 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 4737cb7f-b92b-39ad-a629-db99be5e4612 | -18.36802 | -43.32053 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 1fd99bfc-9182-35c5-9e9c-5c0b76a02656 | -19.28117 | -47.42494 | 2025-09-17 04:14:00 | NPP-375D | SANTA JULIANA | MINAS GERAIS | Brasil | 3157708 | 31 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 2202367d-f921-3c95-a914-8946f10260a8 | -22.20224 | -48.35652 | 2025-09-17 04:14:00 | NPP-375D | DOIS CÓRREGOS | SÃO PAULO | Brasil | 3514106 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 34966f33-4b57-30b6-a6ab-9d66678a7c4e | -17.32996 | -46.79232 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 5ce2d105-efaf-3bf5-90ef-9710d209b74e | -17.20043 | -45.90318 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 2793ffa4-9b9a-33c3-8ab1-9dba0dde42eb | -23.50463 | -47.05154 | 2025-09-17 04:14:00 | NPP-375D | SÃO ROQUE | SÃO PAULO | Brasil | 3550605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| ca94195a-595f-324f-b769-038b593f8e47 | -21.5916 | -50.32806 | 2025-09-17 04:14:00 | NPP-375D | BRAÚNA | SÃO PAULO | Brasil | 3507704 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| a57498eb-8af0-30f4-b78c-ad28157952a2 | -18.37361 | -43.32901 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 7dd66365-2433-324b-8865-7f834a6a401a | -17.19638 | -45.91524 | 2025-09-17 04:14:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 182ebd6d-3967-335a-947b-3d1a96f76012 | -17.32998 | -46.81354 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| a2120af1-f5ed-3a0a-bb0d-e399cbc8b246 | -17.32501 | -46.82125 | 2025-09-17 04:14:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 4227d238-114c-3360-ac03-8d468fe6859b | -18.54058 | -48.13242 | 2025-09-17 04:14:00 | NPP-375D | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ce41a47a-7133-3776-a6fe-505c4cf2a9aa | -18.32845 | -43.29895 | 2025-09-17 04:14:00 | NPP-375D | SERRO | MINAS GERAIS | Brasil | 3167103 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| aefb67b3-e143-3429-b14a-058f8b8881cb | -23.54492 | -52.90726 | 2025-09-17 04:17:00 | NPP-375D | RONDON | PARANÁ | Brasil | 4122602 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 8a4c99ba-f688-3348-8f61-8cb28d9f0abe | -24.75589 | -51.99069 | 2025-09-17 04:17:00 | NPP-375D | PITANGA | PARANÁ | Brasil | 4119608 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 1c9428e5-45a9-311b-8dc8-87c95bce9c83 | -23.81047 | -50.97835 | 2025-09-17 04:17:00 | NPP-375D | TAMARANA | PARANÁ | Brasil | 4126678 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 36ce07f3-faf1-346a-99b1-bb08581f6c6b | -25.12074 | -51.99914 | 2025-09-17 04:17:00 | NPP-375D | GOIOXIM | PARANÁ | Brasil | 4108650 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 0e8acc52-bbb6-3648-bd6a-266b410f93f8 | -23.8065 | -50.9774 | 2025-09-17 04:17:00 | NPP-375D | TAMARANA | PARANÁ | Brasil | 4126678 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 76404365-5d48-3ca9-9898-1a7a5c132bd2 | -25.18228 | -52.40687 | 2025-09-17 04:17:00 | NPP-375D | LARANJEIRAS DO SUL | PARANÁ | Brasil | 4113304 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| 2e97da1c-b206-3be0-980a-0674c74e3a58 | -24.75506 | -51.99489 | 2025-09-17 04:17:00 | NPP-375D | PITANGA | PARANÁ | Brasil | 4119608 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| bdad33e1-c899-3ae6-9c3a-825240222046 | -1.97827 | -47.98349 | 2025-09-17 04:29:00 | NOAA-20 | CONCÓRDIA DO PARÁ | PARÁ | Brasil | 1502756 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ab23a282-6686-3ae8-bdcb-31624f268da0 | -3.07227 | -49.46329 | 2025-09-17 04:29:00 | NOAA-20 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 1265b350-a509-3621-bd09-2c7bbf57818c | -10.4085 | -61.1915 | 2025-09-18 08:00:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 64.2 |
+| f36fd7ca-97fb-314d-be9b-3f144c83823a | -12.9068 | -44.658 | 2025-09-18 08:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| 9d2dd77d-d098-3ab7-af82-9e82328e37ac | -12.9068 | -44.658 | 2025-09-18 08:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 61.0 |
+| 309c45c0-6e03-3e6b-afaf-cb0cfa65f655 | -10.4085 | -61.1915 | 2025-09-18 08:10:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 64.1 |
+| b70d4011-a98a-352a-b6b7-5bd0e1bfe7ae | -10.4084 | -61.2108 | 2025-09-18 08:10:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 37a9c9cc-3024-3274-aed8-b7663cc190f9 | -18.4408 | -52.1583 | 2025-09-18 08:30:00 | GOES-19 | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 200.9 |
+| 9ba39373-bd97-3245-afc8-6f2fec6eca3e | -18.4213 | -52.1398 | 2025-09-18 08:30:00 | GOES-19 | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| ac358b10-797c-365c-90d9-4e1690692833 | -10.4085 | -61.1915 | 2025-09-18 08:30:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 64.3 |
+| 44fee20e-0543-3b3e-867b-156097cc024b | -18.4208 | -52.1617 | 2025-09-18 08:30:00 | GOES-19 | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 125.6 |
+| fcb45aa2-67c2-3b3e-998e-e54881f46495 | -18.4413 | -52.1365 | 2025-09-18 08:30:00 | GOES-19 | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 159.5 |
+| f7b1720e-9c96-39fc-9ff3-0f168de8c4c7 | -10.4084 | -61.2108 | 2025-09-18 08:30:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| f2f4484f-0398-36ed-9a76-9a4348208e8d | -10.4085 | -61.1915 | 2025-09-18 08:40:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 5eb3d539-cd70-3ee1-9059-2129bbe6d702 | -10.4085 | -61.1915 | 2025-09-18 09:10:00 | GOES-19 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| b54aad38-76bd-3b45-8199-ca37e3425538 | -7.5818 | -44.4971 | 2025-09-18 09:50:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 284.4 |
+| d364bd87-0118-3471-8dfb-129abe3f0bd8 | -7.5816 | -44.5201 | 2025-09-18 09:50:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 119.9 |
+| 6551f8b7-a574-3989-8f2e-78a790738468 | -7.5818 | -44.4971 | 2025-09-18 10:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 155.1 |
+| 0aee3091-a7c9-3ebb-a731-8bdd75b6f992 | -7.5816 | -44.5201 | 2025-09-18 10:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 103.5 |
+| 6175de4b-6867-38e2-8bfb-a15e85fbd30c | -7.5993 | -44.6102 | 2025-09-18 10:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 115.1 |
+| 72505cea-706d-3e8b-97b6-b7cbe2358b78 | -8.6887 | -46.3599 | 2025-09-18 10:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 95.9 |
+| 97fbb7ff-5502-36a6-9595-dae49168c455 | -8.7073 | -46.3804 | 2025-09-18 10:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 93.1 |
+| 1ffb0c3f-c729-33a2-ac7d-569ec340bfec | -8.7076 | -46.3579 | 2025-09-18 10:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 138.5 |
+| 9f181546-69a2-39b7-9b03-9c33cb52ba8a | -8.7076 | -46.3579 | 2025-09-18 10:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 107.2 |
+| 0e257a03-2eb6-3096-8b7e-0eb5358ccb3d | -8.7073 | -46.3804 | 2025-09-18 10:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 141.6 |
+| 6165ae88-e73d-31aa-b1ea-16856187447d | -7.5993 | -44.6102 | 2025-09-18 10:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 94.8 |
+| 8dca2850-847a-3bac-a339-d38ed6386c76 | -8.7073 | -46.3804 | 2025-09-18 10:40:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 349.5 |
+| f315085a-7563-3ab8-b1cc-921503f98619 | -8.7076 | -46.3579 | 2025-09-18 10:40:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 290.6 |
+| 85d29785-b4d5-377f-b224-90c9d93d9842 | -9.01 | -46.3039 | 2025-09-18 10:40:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 92.4 |
+| cf41e4ab-c2a3-3e19-be0f-bd9ce632a33e | -9.1898 | -46.9772 | 2025-09-18 10:40:00 | GOES-19 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 158.9 |
+| 8c15c175-c9ec-3e57-91bd-0335134d06f4 | -8.669 | -46.4291 | 2025-09-18 10:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 86.7 |
+| fc7c63a6-d87b-3f26-86e1-555768f32d90 | -9.2087 | -46.9752 | 2025-09-18 10:50:00 | GOES-19 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 122.7 |
+| 30a719cd-6cad-3a58-81be-0cdfe5d985d7 | -8.6502 | -46.431 | 2025-09-18 10:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 80.0 |
+| 06fb190b-a48a-379a-a307-a6b434b6ba01 | -9.1898 | -46.9772 | 2025-09-18 10:50:00 | GOES-19 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 329.7 |
+| dfdf6e00-e278-320a-bdaa-312915482761 | -8.7076 | -46.3579 | 2025-09-18 10:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 173.0 |
+| 485c62be-a5d6-3ba0-8eff-3f91f126c100 | -8.7073 | -46.3804 | 2025-09-18 10:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 291.3 |
+| 011e8c4d-b3db-3cb9-a6de-2c220209a432 | -9.01 | -46.3039 | 2025-09-18 10:50:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 98.9 |
+| a170291d-c172-3b6e-a31b-d451507c605c | -8.6887 | -46.3599 | 2025-09-18 11:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 89.0 |
+| 2727c3f9-52e3-3778-967f-0676b78cfd32 | -8.7076 | -46.3579 | 2025-09-18 11:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 211.8 |
+| 51c27aef-f2b7-39f3-9109-16c79df91050 | -9.01 | -46.3039 | 2025-09-18 11:00:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 92.8 |
+| c5402790-6531-3627-bb66-e852f3fb25fa | -8.6502 | -46.431 | 2025-09-18 11:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| 7e9a7624-c771-37c2-9440-c45e0141328e | -8.7073 | -46.3804 | 2025-09-18 11:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 241.7 |
+| d89a3c8f-b2fb-37a4-9dc4-05af9c173689 | -8.7073 | -46.3804 | 2025-09-18 11:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 230.2 |
+| bb8c71a0-f7a9-3363-879b-e27db956d296 | -8.9911 | -46.3059 | 2025-09-18 11:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 79.5 |
+| 55656b9a-296f-3a7e-8a18-e1d6a7907356 | -9.01 | -46.3039 | 2025-09-18 11:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 125.1 |
+| 0219a1bb-8e66-31dc-a347-0e1749a06497 | -7.5598 | -44.7743 | 2025-09-18 11:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 86.6 |
+| 6da4c22c-f584-3b96-b853-41af77b88165 | -8.7076 | -46.3579 | 2025-09-18 11:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 103.5 |
+| 6450ce38-d45d-304d-a041-d79fceb2f850 | -8.6502 | -46.431 | 2025-09-18 11:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 93.0 |
+| c5e3c5aa-6d1c-39eb-9d17-9d4e2576bf93 | -8.6504 | -46.4086 | 2025-09-18 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 109.5 |
+| ea40c3a4-0fc4-32a2-bf4d-48d81771dccc | -8.7073 | -46.3804 | 2025-09-18 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 154.5 |
+| 6dd368f3-a1df-358c-beb1-bf05cc3a8be3 | -9.01 | -46.3039 | 2025-09-18 11:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 89.5 |
+| 70eae2c5-4857-3f72-b312-cde68ccf2717 | -8.6502 | -46.431 | 2025-09-18 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| 1d7b1407-44d4-3621-8ec4-5b41cd7ba0fc | -8.7076 | -46.3579 | 2025-09-18 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 95.0 |
+| 8a3e6f4d-72c9-3a31-8235-677d2da50155 | -8.9911 | -46.3059 | 2025-09-18 11:30:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 78.0 |
+| 27f89e46-dd62-33ee-b966-b61e451d765e | -9.01 | -46.3039 | 2025-09-18 11:30:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 274.0 |
+| f62e9b4b-f94a-3400-baf8-92d0fb05f455 | -8.7073 | -46.3804 | 2025-09-18 11:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 280.9 |
+| fd4ba100-9d39-3be4-a6bc-e13c78edb494 | -8.7076 | -46.3579 | 2025-09-18 11:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 134.6 |
+| a0247be9-10e0-3689-a126-54e72dd5c3bd | -8.34545 | -44.63168 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 33.5 |
+| 27dca9d6-0619-30c6-aff2-17938be794c2 | -6.22284 | -36.70201 | 2025-09-18 11:36:00 | TERRA_M-M | SÃO VICENTE | RIO GRANDE DO NORTE | Brasil | 2413003 | 24 | 33 | nan | nan | nan | Caatinga | 7.6 |
+| fc5aaec6-8b58-3bcf-8a7b-9124dd12d549 | -4.94163 | -37.71241 | 2025-09-18 11:36:00 | TERRA_M-M | JAGUARUANA | CEARÁ | Brasil | 2307007 | 23 | 33 | nan | nan | nan | Caatinga | 7.4 |
+| 5d512197-079f-3740-b203-ece8a430a2a2 | -8.35544 | -44.65924 | 2025-09-18 11:36:00 | TERRA_M-M | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 26.4 |
+| 4de98301-9e89-3fda-981f-334c559792cb | -8.54782 | -42.26932 | 2025-09-18 11:36:00 | TERRA_M-M | JOÃO COSTA | PIAUÍ | Brasil | 2205359 | 22 | 33 | nan | nan | nan | Caatinga | 16.0 |
+| f11a14cf-1d62-3dac-a1f6-3305c551739b | -5.08628 | -37.60683 | 2025-09-18 11:36:00 | TERRA_M-M | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 7.2 |
+| a8f82152-a3f1-345d-8148-ccb2b0c1af97 | -7.70896 | -37.08063 | 2025-09-18 11:36:00 | TERRA_M-M | PRATA | PARAÍBA | Brasil | 2512200 | 25 | 33 | nan | nan | nan | Caatinga | 9.4 |
+| 1aeb94d2-1f77-3189-ab9b-14e01dc394e8 | -8.34152 | -44.65603 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 145.3 |
+| 42e8a110-a5fc-3dc9-b081-362d60f1ccf7 | -8.1146 | -37.58764 | 2025-09-18 11:36:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 25.3 |
+| 38b7d2dc-e92b-3663-94e3-d53e9686ef41 | -8.1835 | -37.68594 | 2025-09-18 11:36:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 8.4 |
+| b13d471b-d259-3b83-a8a7-89655ea7f166 | -8.34983 | -44.63879 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 40.1 |
+| 18b30660-f5f3-3abf-80e2-8590f9d96c3f | -4.58478 | -38.01291 | 2025-09-18 11:36:00 | TERRA_M-M | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 13.1 |
+| bd76dfd1-d5d2-3542-8990-ee04bfe67968 | -7.57469 | -44.76806 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 22.4 |
+| 49325f98-71ac-371c-bc79-f6cf698b23be | -7.61281 | -45.19303 | 2025-09-18 11:36:00 | TERRA_M-M | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 34.8 |
+| 41935e6a-d5ac-38f5-91ce-272d3eac3c4e | -7.00539 | -44.61082 | 2025-09-18 11:36:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 34.3 |
+| 79009520-d25f-3559-8eef-52e9ac1234f2 | -4.33934 | -40.73211 | 2025-09-18 11:36:00 | TERRA_M-M | IPU | CEARÁ | Brasil | 2305803 | 23 | 33 | nan | nan | nan | Caatinga | 88.8 |
+| d4b25f71-e89d-3ef1-8f4b-0393d9d706a9 | -6.52334 | -38.063 | 2025-09-18 11:36:00 | TERRA_M-M | SANTA CRUZ | PARAÍBA | Brasil | 2513208 | 25 | 33 | nan | nan | nan | Caatinga | 6.6 |
+| 98b54ac4-6774-342d-92b0-2f509cd62bc7 | -7.51944 | -45.29433 | 2025-09-18 11:36:00 | TERRA_M-M | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 30.3 |
+| d0f17972-185a-31d4-b395-e7b86eab3710 | -6.08251 | -37.73295 | 2025-09-18 11:36:00 | TERRA_M-M | RAFAEL GODEIRO | RIO GRANDE DO NORTE | Brasil | 2410603 | 24 | 33 | nan | nan | nan | Caatinga | 10.1 |
+| 3f2c3ddd-a424-3ed4-a78a-2e34eceaeccf | -7.56033 | -44.76553 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 32.6 |
+| 66af5f1f-fec5-30d7-8b72-e16920ffd3f6 | -5.63879 | -45.41392 | 2025-09-18 11:36:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 38.7 |
+| 629ebedc-9b95-395b-8a4e-0f57bb50828a | -7.70028 | -37.51525 | 2025-09-18 11:36:00 | TERRA_M-M | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 9.5 |
+| 9100b4c8-84eb-398d-a35f-1d773b9eda8c | -4.45484 | -38.44551 | 2025-09-18 11:36:00 | TERRA_M-M | OCARA | CEARÁ | Brasil | 2309458 | 23 | 33 | nan | nan | nan | Caatinga | 6.9 |
+| 5bb938ee-4119-3eb1-bdf6-b92fc7dd1cb1 | -8.34573 | -44.66311 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 62.1 |
+| 48701e44-3394-3700-9126-f9df23e62b80 | -3.2714 | -43.04685 | 2025-09-18 11:36:00 | TERRA_M-M | SANTA QUITÉRIA DO MARANHÃO | MARANHÃO | Brasil | 2110104 | 21 | 33 | nan | nan | nan | Cerrado | 26.8 |
+| b3821511-eb80-38a3-84ad-b34a191c1a95 | -8.9532 | -37.20282 | 2025-09-18 11:36:00 | TERRA_M-M | ITAÍBA | PERNAMBUCO | Brasil | 2607505 | 26 | 33 | nan | nan | nan | Caatinga | 81.3 |
+| 8814c9c1-04e7-33c7-a0c1-7a9ea4967fb4 | -5.82981 | -39.18713 | 2025-09-18 11:36:00 | TERRA_M-M | DEPUTADO IRAPUAN PINHEIRO | CEARÁ | Brasil | 2304269 | 23 | 33 | nan | nan | nan | Caatinga | 95.1 |
+| 468a2957-45dd-3f02-b938-f02f5a64bb8d | -6.94612 | -41.30346 | 2025-09-18 11:36:00 | TERRA_M-M | BOCAINA | PIAUÍ | Brasil | 2201804 | 22 | 33 | nan | nan | nan | Caatinga | 16.8 |
+| eda5c8b5-8ff7-3645-a028-368138e88421 | -5.97688 | -35.45521 | 2025-09-18 11:36:00 | TERRA_M-M | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | 8.2 |
+| 43e7332b-8873-3a31-985d-db75c8b6c44b | -3.79604 | -44.12152 | 2025-09-18 11:36:00 | TERRA_M-M | PIRAPEMAS | MARANHÃO | Brasil | 2108801 | 21 | 33 | nan | nan | nan | Cerrado | 31.5 |
+| 7a723a72-e0a7-3deb-8828-81e72b7a08be | -6.58057 | -37.86034 | 2025-09-18 11:36:00 | TERRA_M-M | LAGOA | PARAÍBA | Brasil | 2508109 | 25 | 33 | nan | nan | nan | Caatinga | 18.0 |
+| ebea922b-de8d-3ee4-b1fb-46fb5d9ee6b8 | -8.95448 | -37.19394 | 2025-09-18 11:36:00 | TERRA_M-M | ITAÍBA | PERNAMBUCO | Brasil | 2607505 | 26 | 33 | nan | nan | nan | Caatinga | 27.5 |
+| 3135d524-e9c4-305e-8753-b40a396fb5e4 | -7.52103 | -45.28879 | 2025-09-18 11:36:00 | TERRA_M-M | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 29.1 |
+| dec8fba0-9e75-37d7-9ae4-0ebb1d3d4682 | -4.14174 | -41.43891 | 2025-09-18 11:36:00 | TERRA_M-M | BRASILEIRA | PIAUÍ | Brasil | 2201960 | 22 | 33 | nan | nan | nan | Caatinga | 19.8 |
+| a0a32f07-8b66-3cdb-b332-37ae9a4ea54b | -7.59962 | -44.61367 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 21.6 |
+| 540c229d-c796-3eec-a3ef-b8e6b266d908 | -8.18219 | -37.69491 | 2025-09-18 11:36:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 4.8 |
+| abe5298f-b297-301a-93aa-24a622358134 | -4.33743 | -40.74485 | 2025-09-18 11:36:00 | TERRA_M-M | IPU | CEARÁ | Brasil | 2305803 | 23 | 33 | nan | nan | nan | Caatinga | 58.4 |
+| c346cf3c-8628-3783-af1a-c45c37e903c7 | -7.58382 | -44.50172 | 2025-09-18 11:36:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 23.4 |
+| 897b0145-6851-34e3-9677-a90a02700dd5 | -7.00337 | -44.60393 | 2025-09-18 11:36:00 | TERRA_M-M | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 28.5 |
+| a295404a-011d-3678-835a-0259d7c0967a | -4.13003 | -41.43714 | 2025-09-18 11:36:00 | TERRA_M-M | BRASILEIRA | PIAUÍ | Brasil | 2201960 | 22 | 33 | nan | nan | nan | Caatinga | 30.3 |
+| 7ce289ea-5abe-38cf-933b-43a611e31891 | -9.20227 | -47.0007 | 2025-09-18 11:38:00 | TERRA_M-M | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 271.9 |
+| 00be01d5-c9e1-333a-834a-58f1ffc74ca2 | -8.95818 | -45.01764 | 2025-09-18 11:38:00 | TERRA_M-M | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 22.5 |
+| 6833c1f1-bbb6-3ee5-8b45-1f0db320ee0e | -12.96088 | -42.49482 | 2025-09-18 11:38:00 | TERRA_M-M | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 16.5 |
+| e3628757-f97e-3606-914d-eefaf5511857 | -9.1921 | -46.96125 | 2025-09-18 11:38:00 | TERRA_M-M | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| 051def60-0809-371b-9c24-a8147b2ffa23 | -14.16333 | -42.04713 | 2025-09-18 11:38:00 | TERRA_M-M | LAGOA REAL | BAHIA | Brasil | 2918753 | 29 | 33 | nan | nan | nan | Caatinga | 34.0 |
 
 
 [Clique aqui para ver as próximas entradas](README33.md)
