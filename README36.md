@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| eca3292d-e961-3247-b0fa-b386d9f29897 | -15.03433 | -55.28772 | 2025-09-22 05:31:00 | NOAA-21 | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 3eea88e3-08d7-3c67-81ff-6f5de927f4ec | -10.1618 | -64.7256 | 2025-09-22 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 87009f6b-8346-3855-a9da-a4c6bab04909 | -9.91636 | -65.04816 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| dd03a844-a065-34e8-8979-5cffc356a539 | -9.7931 | -64.96248 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 532f1a82-f30f-3f49-8895-6b0e44697aa7 | -10.43809 | -61.33889 | 2025-09-22 05:31:00 | NOAA-21 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| abb7e9e8-3f14-3d79-bdf8-556773588786 | -15.97685 | -59.39508 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 254dd853-4c8d-365a-9414-498dba9e8d30 | -15.34789 | -59.19406 | 2025-09-22 05:31:00 | NOAA-21 | VALE DE SÃO DOMINGOS | MATO GROSSO | Brasil | 5108352 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| f37e41b4-14ab-3bd2-81c1-b9a2ded6c538 | -15.2893 | -59.41813 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a720ec5a-a96d-3fe4-a692-2be5f86a8e1b | -9.921 | -65.04119 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 826e55fd-ed18-39a0-9a77-bac0c98d85a9 | -9.47251 | -67.09724 | 2025-09-22 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 17bab92b-b1e1-359b-a584-e38e436b4700 | -11.31193 | -54.34228 | 2025-09-22 05:31:00 | NOAA-21 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1f5446c5-6049-35a7-afb2-0785cd4cf205 | -11.6359 | -52.85424 | 2025-09-22 05:31:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 15.5 |
-| 6791a76b-29c1-35ae-b469-0ca203b98587 | -15.84022 | -59.51647 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 1036e061-888f-31b7-8b13-631b1d0f07cd | -16.01556 | -59.45695 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 5e8d07c5-fd09-3b98-b487-6af7d3b868fb | -8.95972 | -68.87527 | 2025-09-22 05:31:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 168888cb-400f-3189-800d-ed8457cbd9ab | -15.95481 | -59.37727 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 2ae1f97a-b20b-38ef-afd4-8db7a760c91f | -15.96166 | -59.47746 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 2cc7e212-e11f-377a-8269-440b3ea75e7d | -8.95669 | -68.87581 | 2025-09-22 05:31:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d3f8a870-a911-3496-82d2-c4d589705f3d | -11.877 | -64.94292 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 6356c55f-ae01-3ffb-8c3a-920834bc7e7a | -10.2744 | -68.77303 | 2025-09-22 05:31:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 9ed96b6e-9080-384a-aa2e-4db7af7d361e | -9.88205 | -64.82806 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 9d80f146-65e9-364b-8b03-58fe2549d820 | -15.93122 | -59.46289 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 16ad772f-3da7-35a1-8478-e483093b732a | -15.42417 | -58.78192 | 2025-09-22 05:31:00 | NOAA-21 | JAURU | MATO GROSSO | Brasil | 5105002 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 7a168e0a-9003-3da9-8633-346515a73821 | -15.03917 | -55.29133 | 2025-09-22 05:31:00 | NOAA-21 | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 9369551d-e4ba-3a99-9ad0-e21e2ad107ba | -11.86355 | -64.9407 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| c16085fb-de5c-3a93-a2ec-1f19272464ce | -12.01887 | -63.12118 | 2025-09-22 05:31:00 | NOAA-21 | SERINGUEIRAS | RONDÔNIA | Brasil | 1101500 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 737950bf-0844-350c-a424-111a7f6462e8 | -15.28857 | -59.42362 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 72f7531d-fd60-3a1c-bfd8-882955dde6e6 | -15.95427 | -59.47224 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1618be5f-3c0a-33aa-9ee2-649ab3aea9c2 | -15.95881 | -59.3778 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| 56658617-2ad5-3830-9665-808ed7b3cf54 | -15.96563 | -59.47807 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7c248ab5-aff6-315f-b696-a568de79678e | -15.7725 | -59.41732 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| ed474ad3-1be1-3268-a685-a57060244a95 | -11.64226 | -52.85059 | 2025-09-22 05:31:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f7671f70-a9ad-3519-a562-cba27dbdf7b4 | -9.91355 | -65.04383 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| cb257c5f-5cd2-321e-ade4-928000aa5db4 | -15.35688 | -59.1881 | 2025-09-22 05:31:00 | NOAA-21 | VALE DE SÃO DOMINGOS | MATO GROSSO | Brasil | 5108352 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3e7e961f-0c82-3215-89f5-8a2ae57efd9f | -9.49275 | -65.60185 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 628f114d-b43f-31b3-8d84-c1bce7801b9d | -15.95145 | -59.40242 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 06d671d0-b5a4-3fda-88f6-2c6f3b12a671 | -16.00423 | -59.4505 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| b7271599-c2b9-36d6-b531-51769de44442 | -15.76308 | -59.42756 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 03408768-da15-32f9-9597-2a5d0293cc14 | -16.00625 | -59.46612 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 93beb8f7-ef0d-3b9b-b5a7-69efdc12ffb7 | -9.92039 | -65.04496 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| f478fe6c-e2e3-38cb-801c-53ded45e5f0a | -9.71656 | -69.07812 | 2025-09-22 05:31:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 0da48ac7-ace8-34c2-8bd5-9e24ba0ccef9 | -11.79096 | -64.92897 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 9cf4b616-47af-39b7-a45c-f70bdb18f1eb | -9.92441 | -65.04177 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| de1ff948-856d-3a3a-8a6e-f8472ff514d8 | -15.42004 | -58.78143 | 2025-09-22 05:31:00 | NOAA-21 | JAURU | MATO GROSSO | Brasil | 5105002 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 5fba33f4-fa47-3f27-a171-52cb6131c2e7 | -9.91697 | -65.04439 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| d418e80e-c803-33e6-9637-1cca9359958b | -15.83624 | -59.51606 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| ddddca01-57b3-30e2-b082-e9d720119841 | -9.74133 | -68.43752 | 2025-09-22 05:31:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 924bab75-dcd6-3b8f-8642-d836ee3a3348 | -16.01093 | -59.46133 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| c86d2dab-2311-394b-a448-c05c9f6bae04 | -10.85537 | -68.55679 | 2025-09-22 05:31:00 | NOAA-21 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| bb7903fd-dd5a-3040-8371-78d8b6083b28 | -15.35238 | -59.1911 | 2025-09-22 05:31:00 | NOAA-21 | VALE DE SÃO DOMINGOS | MATO GROSSO | Brasil | 5108352 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 30ee99f8-b650-3444-80fe-75d538085c85 | -12.59237 | -62.95281 | 2025-09-22 05:31:00 | NOAA-21 | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7e63314f-2c9f-3d8e-895d-e3a2183aba4f | -9.027 | -68.51889 | 2025-09-22 05:31:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9c510d8d-6d26-3a36-8311-8f0d6f8f2dd3 | -10.85474 | -68.56046 | 2025-09-22 05:31:00 | NOAA-21 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 9518cef5-8c10-3842-89b7-f97c7b4128a0 | -11.79154 | -64.92532 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a62eb220-c277-396a-857d-9b498cdb37aa | -15.97313 | -59.47159 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 45fa16f8-a7b7-31b3-8933-2b3196d2c1cd | -10.16003 | -64.73662 | 2025-09-22 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| aaad4511-a6c1-3920-851c-b864df468a23 | -15.92721 | -59.46257 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 25e8374b-54b1-31c1-91de-7fe2c52c7c4b | -9.78695 | -65.06561 | 2025-09-22 05:31:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f733cf95-8b5d-33cc-8c1f-fabfd1d0c635 | -15.76363 | -59.46404 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 98b68a8f-003b-3587-8f32-929b478709ec | -12.40877 | -63.89338 | 2025-09-22 05:31:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 69ea77e5-88c3-352e-918b-d3b354873c5d | -15.76546 | -59.4209 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 0f7f8c88-4dbb-30d5-b484-131f73c56e49 | -10.27287 | -68.75694 | 2025-09-22 05:31:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c803cf33-4e47-3197-b8ae-e1b3130ee0eb | -15.42283 | -58.78144 | 2025-09-22 05:31:00 | NOAA-21 | JAURU | MATO GROSSO | Brasil | 5105002 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| a1f1372e-8a86-32fa-bfbc-99fc5f8c0b85 | -15.8383 | -59.50082 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 49b69e5c-f73e-3af8-a7b6-de92b9c9c664 | -11.8754 | -64.93143 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 70c2d73c-9f8e-30c0-b680-81557e09385c | -15.83431 | -59.58984 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 7dd239cb-b71d-313e-8601-8c701514ad03 | -16.0149 | -59.46191 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 10.2 |
-| 109a2db2-25b3-3295-a596-fd83d54ea81a | -11.87759 | -64.93927 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 88288d47-5382-320d-b291-e8aa4a9c5bbf | -15.96333 | -59.3745 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 810b38c4-ba61-3fae-9fa8-8c835c811d90 | -11.62907 | -52.86187 | 2025-09-22 05:31:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| e3f9ece7-17f2-3158-9600-a3e1fcb94eaf | -11.86691 | -64.94125 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 109f4541-0326-3a02-b8dd-c0a756af466a | -11.55624 | -64.73336 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cd7a549d-6eef-3092-9e27-18ab70e6a885 | -9.91658 | -63.50894 | 2025-09-22 05:31:00 | NOAA-21 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 5260c0c8-3e02-3f60-95ed-33ed2a35fd3a | -16.00554 | -59.47151 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f15dc640-e610-34c2-95e2-d07975efc50a | -15.30116 | -59.41983 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| f1b30f4b-729b-3393-bda7-e1149e4938b2 | -15.04436 | -55.29195 | 2025-09-22 05:31:00 | NOAA-21 | CHAPADA DOS GUIMARÃES | MATO GROSSO | Brasil | 5103007 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 3479d295-0371-3e07-8a40-02bb9007c417 | -15.83896 | -59.58522 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 7ca49592-5317-3c47-b515-3ace36e7cee2 | -8.72763 | -70.77998 | 2025-09-22 05:31:00 | NOAA-21 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 275e4375-3bee-3626-9240-a1c8c0959763 | -11.87086 | -64.93816 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| 8a042486-0558-36af-b363-e78509fc4698 | -15.95336 | -59.38812 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a0815750-5e57-3cf5-b602-d6a2e7b77e39 | -10.16638 | -68.69422 | 2025-09-22 05:31:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 89b973ad-6ae3-37ef-8b48-d65ae4e9f6f3 | -12.40602 | -63.88933 | 2025-09-22 05:31:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 705462f3-07d0-3df6-b69a-ff84af898542 | -9.19103 | -71.8365 | 2025-09-22 05:31:00 | NOAA-21 | JORDÃO | ACRE | Brasil | 1200328 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 497b8d4a-897b-3c03-8797-f8f8de0ba5b0 | -10.15237 | -64.84887 | 2025-09-22 05:31:00 | NOAA-21 | NOVA MAMORÉ | RONDÔNIA | Brasil | 1100338 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 59540305-5562-3824-82f9-6c47c9640b7b | -9.46714 | -67.10607 | 2025-09-22 05:31:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| cbf6e6f8-8329-345e-95e9-a0d3bcaeab1a | -9.67654 | -69.01295 | 2025-09-22 05:31:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 60b5c928-0a2b-3936-aaf7-701b77ee0170 | -15.95287 | -59.39182 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8f6ef0d8-99af-325a-9e72-8ed3e59adef0 | -10.67578 | -69.09546 | 2025-09-22 05:31:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ca7be909-961f-3ad2-8226-da09d0893fcd | -10.19022 | -69.3505 | 2025-09-22 05:31:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 61c97833-9d09-3565-9745-d41a10778b0b | -11.64195 | -52.85194 | 2025-09-22 05:31:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| ef80b22f-a35e-3cb8-ba59-9ec061c42f70 | -11.65235 | -52.86478 | 2025-09-22 05:31:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 2ac78684-2979-359d-8e5c-c0f7f2ba3806 | -11.67978 | -61.16682 | 2025-09-22 05:31:00 | NOAA-21 | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 6bb6a44e-16ea-3f64-b2ab-254de4be15fb | -11.86414 | -64.93705 | 2025-09-22 05:31:00 | NOAA-21 | GUAJARÁ-MIRIM | RONDÔNIA | Brasil | 1100106 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 7de5dd7e-dee5-322d-b50b-75e558c7e773 | -15.95432 | -59.38096 | 2025-09-22 05:31:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| dee0b4c1-3393-33a4-9c17-b5a355cf8db0 | -8.72472 | -70.78145 | 2025-09-22 05:31:00 | NOAA-21 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 75f47b60-f009-36a0-a253-5b87bc4a27d9 | -9.48465 | -68.83884 | 2025-09-22 05:31:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| fb42f9da-46e8-3765-878a-1536a34fa064 | -10.17554 | -68.791 | 2025-09-22 05:31:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f5cc1773-386f-3b13-a43a-38bfbe7b3dbb | -9.13929 | -67.79162 | 2025-09-22 05:31:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 42c9c4fd-ca50-3fb3-8c95-14e5920dc877 | -10.02273 | -68.40697 | 2025-09-22 05:31:00 | NOAA-21 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 196a78d3-f361-3b6a-909a-f5656a2a660c | -11.64097 | -52.86049 | 2025-09-22 05:31:00 | NOAA-21 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| d0f28cfc-df91-3203-b005-b2bc8abcbee0 | -20.9871 | -50.01525 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 27f83963-8b69-33fb-b0bc-d459dc0b498a | -15.89699 | -59.3478 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 06b01f4c-e9f4-3019-bfbf-49c103984157 | -15.88609 | -59.41922 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e28145fc-64c5-386f-a57a-b64462f2ad6a | -20.9796 | -50.02023 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
+| e98daa40-96fc-3bb8-b6e4-6bb8ccc69dfd | -21.97389 | -49.50359 | 2025-09-25 05:25:00 | NOAA-20 | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| dc7256c6-75cd-395e-b0fa-6a30582a323f | -20.70449 | -57.86211 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 7bb97b74-efe6-3292-a65d-82b087878b38 | -20.70501 | -57.85801 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| a163a439-17f7-3f58-8962-75f8d66ed050 | -17.93994 | -55.85287 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| d2f11fdd-74d6-3e16-ad66-17512d9935a0 | -15.90397 | -59.3469 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 39d9036a-b013-30fd-a701-5314bcaef0ff | -17.93411 | -55.86222 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 26.5 |
+| 23c922ce-ae56-31de-a57e-c575f447aa59 | -15.92247 | -59.35105 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7da20bf9-17ee-352a-8310-b9787f79b862 | -20.70116 | -57.81979 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 212c44ab-eeca-3d00-a513-72fae59191f6 | -15.88863 | -59.40171 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f537d03b-5e1a-3521-aba2-aca5ac70b39f | -15.90913 | -59.39339 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 14f8eb84-93ed-3db0-836d-ebf9c97b8d3f | -17.93068 | -55.85167 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.7 |
+| 8dc9a706-eadc-3156-bb17-7db6d21caa57 | -15.97048 | -59.50672 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e028a87c-2bba-3d7f-b2cc-93fc86b6b5d4 | -15.89672 | -59.34584 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 09d4b816-b4a9-3226-8489-1f88635e9732 | -15.88676 | -59.4213 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 7b3af603-cb3a-3d40-84a4-1192774719fc | -17.93351 | -55.86719 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.7 |
+| a9e55879-b8d0-37cd-987b-a1c695b96aaf | -15.9085 | -59.39786 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ed0429aa-a2b1-3ae7-953b-7d9919ec221b | -21.99535 | -56.06289 | 2025-09-25 05:25:00 | NOAA-20 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| ea73cd0c-c209-3e7e-b391-de1c72732614 | -17.93933 | -55.85785 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| 96d7c450-71b4-382b-ac7a-2c4c201fcf45 | -15.97408 | -59.50728 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 31a1c4bc-7fd4-3a53-8164-ead88cbe0c17 | -17.92888 | -55.86659 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.7 |
+| 2fa11e39-49c2-374f-a3da-89c3318ec464 | -17.93531 | -55.85228 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.7 |
+| 57d855de-ccad-3b7d-aaa9-136f296eda86 | -15.96627 | -59.5104 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 2625499a-c05d-32f3-a6c5-9c8613f98aba | -17.95443 | -55.84967 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 2631ed0e-f824-3305-9564-10c617790be6 | -20.73494 | -57.82444 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 73d5830b-d36a-3260-8456-21534dfecae0 | -21.00122 | -50.01003 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 861085a5-e820-3c22-a25f-bf0d27698e06 | -20.99337 | -50.02201 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| c01a403c-d9fb-3903-9561-1e70ae92be1d | -21.99599 | -56.05706 | 2025-09-25 05:25:00 | NOAA-20 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 240ce259-abe4-309e-8484-95a1ab2e094d | -20.7096 | -57.82095 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| b8ec2db5-886e-3e3c-b826-60b6e751c381 | -22.36316 | -54.63833 | 2025-09-25 05:25:00 | NOAA-20 | DOURADOS | MATO GROSSO DO SUL | Brasil | 5003702 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 1a84f543-9ca6-3eeb-8214-c15c0de1772d | -18.18337 | -53.33571 | 2025-09-25 05:25:00 | NOAA-20 | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| f2e2b8f7-6942-3fa9-9fbb-09e4056ad5fa | -20.7351 | -57.82352 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 3171d0e5-44f8-3adc-8623-77fb3cd4c0de | -15.91884 | -59.35052 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 8b314edc-2bfd-39dc-8c53-ae10fd671a63 | -20.70547 | -56.74189 | 2025-09-25 05:25:00 | NOAA-20 | BODOQUENA | MATO GROSSO DO SUL | Brasil | 5002159 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 0b6d797d-8e3e-320d-b6b9-ac6641b6ac8b | -15.9079 | -59.34925 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| b5c7d734-837a-35cc-a63e-a6cf07c1af3c | -15.91218 | -59.34514 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 17fb019a-7a92-34a7-be45-03332980c129 | -15.8916 | -59.40669 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 07c1de56-a19a-363e-a46d-a00e0b1151d0 | -15.97109 | -59.50247 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 3c90ee8e-9cb8-31ba-b06b-82506dda3204 | -20.98695 | -50.01485 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
+| 0f2d34cc-7b4c-375b-9919-c1cf9ccfe78a | -15.8892 | -59.40377 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| 44180cf4-20f8-3ba0-8da2-877362014453 | -20.99501 | -50.00346 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 31f373e8-a5a8-3feb-99ab-a1415a8f6b93 | -17.95845 | -55.85526 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 2717832a-d773-3e90-87ac-42bc0bffcbf2 | -15.90034 | -59.34638 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 46b2814d-0919-33c5-a9b5-207625f71fcc | -21.00075 | -50.01624 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 751a9810-2e6f-3161-8b21-fbfcc033dc94 | -18.87928 | -51.52222 | 2025-09-25 05:25:00 | NOAA-20 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 2fe4455c-454a-3c31-8490-cc280a3532b6 | -22.36412 | -54.63979 | 2025-09-25 05:25:00 | NOAA-20 | DOURADOS | MATO GROSSO DO SUL | Brasil | 5003702 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 72434637-b742-3d51-bd39-60de58f0b526 | -15.90124 | -59.34389 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 461767bb-fd4f-3772-a43e-8e9e92cdf9d6 | -20.97972 | -50.02065 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 26.1 |
+| 72195b9b-1a1d-3bf6-ab21-b9d04e2762c5 | -20.99348 | -50.02236 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| afae2b44-0a09-315a-a8e9-3e4f359541bf | -20.99384 | -50.01573 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 50770c57-2352-3f73-9aab-497c85ee846c | -20.99399 | -50.01608 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 0c44cce5-58f1-31ec-ba98-161d3998fd32 | -17.93291 | -55.87215 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.7 |
+| 9c12db08-a40d-3e19-9422-ba1d2dfbfb3e | -20.7265 | -57.82328 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 94239c5c-c1fd-366d-860c-8b329990435a | -22.37928 | -53.73674 | 2025-09-25 05:25:00 | NOAA-20 | IVINHEMA | MATO GROSSO DO SUL | Brasil | 5004700 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 15e92a79-f338-30c6-a25d-453e22e79748 | -20.98686 | -50.46632 | 2025-09-25 05:25:00 | NOAA-20 | SANTO ANTÔNIO DO ARACANGUÁ | SÃO PAULO | Brasil | 3548054 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| efc7a1db-e43c-35bf-8326-41a58b1ff231 | -17.94396 | -55.85844 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| ac440732-8f38-3130-8b29-7fece0752b58 | -17.93471 | -55.85726 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 26.5 |
+| 3db3103d-c102-33b4-b9d5-4b29067a48ec | -15.89761 | -59.34332 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 92b6d0a9-51d1-3fd8-9a04-d5b62bf0c0b1 | -20.98762 | -50.00882 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 5108d8bd-0c0d-31c2-81a4-68b1fde202e9 | -18.8731 | -51.52146 | 2025-09-25 05:25:00 | NOAA-20 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 105b4361-78e0-3b04-ab1c-5ddffa13280b | -20.98647 | -50.02134 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
+| a4821378-cdc0-33ce-90df-bc924b470b0b | -19.59086 | -57.73679 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 020c7e31-c689-3167-a353-57481dc3dc8b | -18.18371 | -53.33243 | 2025-09-25 05:25:00 | NOAA-20 | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 40a95a12-a28d-32c3-9f6b-5e0ac3264f6d | -21.9702 | -49.50957 | 2025-09-25 05:25:00 | NOAA-20 | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| a1456a4b-6a0d-3139-86bd-0ce899fb2a2a | -20.9943 | -50.00949 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 0903b2bc-99e1-3b94-926c-9d6c4b8fa908 | -15.96987 | -59.51097 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 47cc6379-3d65-303c-a632-13ac2069cf96 | -20.70096 | -56.74117 | 2025-09-25 05:25:00 | NOAA-20 | BODOQUENA | MATO GROSSO DO SUL | Brasil | 5002159 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| b1ee73f9-da58-3428-8603-a1e7550261a7 | -17.95906 | -55.85028 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 3ffd0292-ce68-38eb-9089-a8168ffa3279 | -20.73913 | -57.86181 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| affd2a11-6719-3b0b-833c-d26effbdc576 | -21.01406 | -50.0242 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 7902a624-614e-3e36-a441-d47e114eb932 | -20.70028 | -57.86152 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 3a11527d-6844-395d-850a-60cff4a4412e | -20.99296 | -50.0289 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 90456f33-551a-3d70-96e4-b2a6ed8b9415 | -15.90487 | -59.34441 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| d9a53a76-7fa0-3f35-9c07-b8ab591fbb52 | -17.93873 | -55.86282 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| e2d81236-820b-3443-83be-6b8731e95d96 | -21.00669 | -50.02982 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 56a4ba37-2072-3bec-ad47-7dcb75b0f996 | -21.99511 | -56.05889 | 2025-09-25 05:25:00 | NOAA-20 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| d6b19e32-180f-3d3a-bb8a-9063c55836c3 | -9.00179 | -63.67468 | 2025-09-25 05:25:00 | NOAA-20 | CANDEIAS DO JAMARI | RONDÔNIA | Brasil | 1100809 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ba0b6d83-6761-31a2-ab12-9e934c09d40c | -15.91947 | -59.34598 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a33f222f-9024-3a54-8194-cb6ac30d11b7 | -15.888 | -59.4061 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| e5cbe108-3d22-3085-ac03-8f7b6c2138b3 | -20.76468 | -57.82763 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 285f5f6a-652c-35bd-8213-f8c544860156 | -21.97341 | -49.51079 | 2025-09-25 05:25:00 | NOAA-20 | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| 54dca812-f7d0-333f-8e4a-90de01bd496a | -20.98743 | -50.0084 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.9 |
+| a1ed4141-c126-3d48-9d7d-62bca55e7bc8 | -21.0009 | -50.01655 | 2025-09-25 05:25:00 | NOAA-20 | PLANALTO | SÃO PAULO | Brasil | 3539608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| 96db5b04-330c-3cc2-97b0-4118bdb39f80 | -20.69607 | -57.86094 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| e9e0f7bb-4f1e-3ab3-90ff-9332206a812b | -15.93634 | -59.35778 | 2025-09-25 05:25:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1a9c4155-4b31-30e6-8ae4-9467784237d1 | -20.24452 | -56.05863 | 2025-09-25 05:25:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 29e03df2-396c-3596-b6f8-69309c0c017d | -22.36282 | -54.6419 | 2025-09-25 05:25:00 | NOAA-20 | DOURADOS | MATO GROSSO DO SUL | Brasil | 5003702 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| d7a30f4f-fbe3-3df2-a8ec-a533bf069aa0 | -17.92828 | -55.87155 | 2025-09-25 05:25:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.7 |
+| d9aa7d43-50cc-3d2b-8ced-e142798292ab | -17.9506 | -55.8731 | 2025-09-25 06:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 107.7 |
+| 9bdb93a7-d790-3953-8feb-c896add028cf | -17.9304 | -55.8967 | 2025-09-25 06:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 98.8 |
+| 25490dca-9678-3eb2-bc0b-ac71904f883e | -17.9308 | -55.8758 | 2025-09-25 06:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 308.1 |
+| e5a3b923-de80-30e5-b740-67a81ad58224 | -17.9304 | -55.8967 | 2025-09-25 06:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 79.9 |
+| 9c9c3156-6022-3dc5-aeee-dffe6f7d5135 | -17.9312 | -55.8548 | 2025-09-25 06:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 177.1 |
+| 63b3b446-09c1-34b5-be6f-3a4b68b76757 | -17.9506 | -55.8731 | 2025-09-25 06:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 90.0 |
+| 190a224f-7d00-3535-b623-efc73b2ae7c8 | -3.08098 | -52.91568 | 2025-09-25 06:16:00 | AQUA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| 9546e953-e60b-3823-821b-b8541b8bb0c8 | -2.92264 | -48.29814 | 2025-09-25 06:16:00 | AQUA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 22.3 |
+| 0841c725-7d29-3c91-94c3-491a237969c8 | -3.6391 | -49.13789 | 2025-09-25 06:16:00 | AQUA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 10.3 |
 
 
 [Clique aqui para ver as próximas entradas](README37.md)

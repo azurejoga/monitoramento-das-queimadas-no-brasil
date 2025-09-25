@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 10bfe14e-f263-38b3-9186-5b320fd78f6a | -8.37196 | -38.65302 | 2025-09-23 11:36:00 | TERRA_M-M | CARNAUBEIRA DA PENHA | PERNAMBUCO | Brasil | 2603926 | 26 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| 39fe4dff-1188-30a8-8a43-32c0fea6170c | -7.4346 | -39.13219 | 2025-09-23 11:36:00 | TERRA_M-M | MISSÃO VELHA | CEARÁ | Brasil | 2308401 | 23 | 33 | nan | nan | nan | Caatinga | 7.0 |
-| 86397d48-3ec0-322c-8fe8-cc3163f9ff69 | -7.35491 | -38.85515 | 2025-09-23 11:36:00 | TERRA_M-M | MILAGRES | CEARÁ | Brasil | 2308302 | 23 | 33 | nan | nan | nan | Caatinga | 32.4 |
-| 39b6fdf7-ebfd-3b9e-b6cb-cd5ccd3c8c65 | -7.44795 | -39.94712 | 2025-09-23 11:36:00 | TERRA_M-M | BODOCÓ | PERNAMBUCO | Brasil | 2602001 | 26 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| c3b57221-fd5b-3f0e-9c35-1107479b9936 | -5.05636 | -37.03657 | 2025-09-23 11:36:00 | TERRA_M-M | AREIA BRANCA | RIO GRANDE DO NORTE | Brasil | 2401107 | 24 | 33 | nan | nan | nan | Caatinga | 9.5 |
-| c04ef9e9-f62d-39e8-b2e1-12b443d014bc | -7.91848 | -40.01708 | 2025-09-23 11:36:00 | TERRA_M-M | OURICURI | PERNAMBUCO | Brasil | 2609907 | 26 | 33 | nan | nan | nan | Caatinga | 11.9 |
-| 8ad9d80a-d291-3b3d-a803-95b49d6bc3a7 | -7.46587 | -41.83539 | 2025-09-23 11:36:00 | TERRA_M-M | FLORESTA DO PIAUÍ | PIAUÍ | Brasil | 2203859 | 22 | 33 | nan | nan | nan | Caatinga | 35.4 |
-| 2ee2a978-3290-3d66-b49b-548977a6db1a | -7.97947 | -37.99511 | 2025-09-23 11:36:00 | TERRA_M-M | FLORES | PERNAMBUCO | Brasil | 2605608 | 26 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| dd98a17b-e519-331a-b5b6-2152f61b2e15 | -8.53396 | -44.94339 | 2025-09-23 11:38:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 42.3 |
-| 8e9db816-45e7-3357-afb0-1a09e3a082fd | -13.95876 | -42.4933 | 2025-09-23 11:38:00 | TERRA_M-M | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 22.7 |
-| 2c9bcae5-741d-3af8-a122-969266a0c00b | -14.24419 | -42.19996 | 2025-09-23 11:38:00 | TERRA_M-M | IBIASSUCÊ | BAHIA | Brasil | 2912004 | 29 | 33 | nan | nan | nan | Caatinga | 10.7 |
-| d0a35d5e-d5c1-3e7b-bd96-e738620e3f5e | -11.51288 | -42.6927 | 2025-09-23 11:38:00 | TERRA_M-M | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 15.8 |
-| e5d34ebe-cb2a-32fb-8c77-f2eaf80ee7fb | -10.3088 | -45.23677 | 2025-09-23 11:38:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 61.8 |
-| a5e83227-49c6-3eed-a00a-c9eb5f4b1871 | -11.2247 | -39.07615 | 2025-09-23 11:38:00 | TERRA_M-M | ARACI | BAHIA | Brasil | 2902104 | 29 | 33 | nan | nan | nan | Caatinga | 8.2 |
-| 7838b9d4-d057-34d9-b2a1-2176a6c0472c | -9.61851 | -37.12356 | 2025-09-23 11:38:00 | TERRA_M-M | BATALHA | ALAGOAS | Brasil | 2700706 | 27 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 81e58763-28d9-358b-8b87-fab36f589531 | -13.28911 | -42.4017 | 2025-09-23 11:38:00 | TERRA_M-M | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 11.2 |
-| c14e7da1-75c7-3e71-9167-306567eac968 | -9.20897 | -41.02185 | 2025-09-23 11:38:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 12.1 |
-| fbade906-d74c-3175-bc9f-0de4693b5067 | -14.62803 | -42.17383 | 2025-09-23 11:38:00 | TERRA_M-M | JACARACI | BAHIA | Brasil | 2917409 | 29 | 33 | nan | nan | nan | Caatinga | 20.2 |
-| b2094d54-8bac-35d2-8514-69dba2d4fdf3 | -10.30398 | -45.23016 | 2025-09-23 11:38:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 53.2 |
-| db32ace0-1d72-3afd-a357-747f34c984d7 | -8.80801 | -37.11639 | 2025-09-23 11:38:00 | TERRA_M-M | BUÍQUE | PERNAMBUCO | Brasil | 2602803 | 26 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| a7df86e1-301b-32c3-b9b1-cc85bb2fd46c | -13.86444 | -42.70636 | 2025-09-23 11:38:00 | TERRA_M-M | IGAPORÃ | BAHIA | Brasil | 2913408 | 29 | 33 | nan | nan | nan | Caatinga | 21.2 |
-| e48e588b-59c2-31e0-a9b8-ae48cf16ce75 | -12.70414 | -42.39211 | 2025-09-23 11:38:00 | TERRA_M-M | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 9.7 |
-| 8c0757d3-809b-3299-a30c-1740c022e093 | -11.91285 | -43.42637 | 2025-09-23 11:38:00 | TERRA_M-M | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 20.8 |
-| c6d1fd60-f3ab-3eb7-ad9d-0220d0c7f546 | -9.19065 | -44.6079 | 2025-09-23 11:38:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 23.2 |
-| 90ad184b-0b4b-31e6-ba9d-e376b3d7c0f9 | -14.25084 | -42.29145 | 2025-09-23 11:38:00 | TERRA_M-M | IBIASSUCÊ | BAHIA | Brasil | 2912004 | 29 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 166d81f1-4bd5-3421-ac49-463aa5f83587 | -9.0864 | -40.03021 | 2025-09-23 11:38:00 | TERRA_M-M | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 8.0 |
-| 67bd1ea3-7af0-391a-8d0e-95ece1e0577e | -12.91242 | -43.16719 | 2025-09-23 11:38:00 | TERRA_M-M | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 58.6 |
-| 60280f8c-9d39-3530-b75d-8001d845a0e5 | -13.48169 | -41.57334 | 2025-09-23 11:38:00 | TERRA_M-M | JUSSIAPE | BAHIA | Brasil | 2918605 | 29 | 33 | nan | nan | nan | Caatinga | 35.1 |
-| d460f0bc-9332-3781-b4b7-835dffb455bc | -9.19366 | -44.62423 | 2025-09-23 11:38:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 65.8 |
-| 4bbd951d-f1ce-39dd-a641-c1c564cca97c | -8.51589 | -44.9649 | 2025-09-23 11:38:00 | TERRA_M-M | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 69.7 |
-| 331cbe47-235f-3de9-b37d-3ec54c926e4b | -12.21735 | -43.04712 | 2025-09-23 11:38:00 | TERRA_M-M | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Caatinga | 22.0 |
-| a72c69e9-489c-337a-b1e3-113299f0533d | -12.26463 | -43.10897 | 2025-09-23 11:38:00 | TERRA_M-M | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Caatinga | 12.8 |
-| 6e1d2bb4-d0f6-3f22-a17d-5871d1786a37 | -13.76052 | -42.14025 | 2025-09-23 11:38:00 | TERRA_M-M | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 20.6 |
-| 8494676a-73bc-371d-955a-e34b098fc195 | -12.93541 | -42.58282 | 2025-09-23 11:38:00 | TERRA_M-M | MACAÚBAS | BAHIA | Brasil | 2919801 | 29 | 33 | nan | nan | nan | Caatinga | 10.9 |
-| 5bf0c8bd-fbf9-3a06-93a9-5aaa3945a928 | -13.0453 | -42.06015 | 2025-09-23 11:38:00 | TERRA_M-M | PIATÃ | BAHIA | Brasil | 2924306 | 29 | 33 | nan | nan | nan | Caatinga | 9.1 |
-| b259b476-a31f-3eb2-842e-8f5f4dc0e1cf | -11.51051 | -42.70774 | 2025-09-23 11:38:00 | TERRA_M-M | GENTIO DO OURO | BAHIA | Brasil | 2911303 | 29 | 33 | nan | nan | nan | Caatinga | 75.0 |
-| 6d4fe4cd-d574-30a5-95bd-3815ae847c93 | -8.19609 | -42.54492 | 2025-09-23 11:38:00 | TERRA_M-M | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 18.3 |
-| 486930d5-b776-38a2-9adb-8082065ce326 | -12.77879 | -42.33519 | 2025-09-23 11:38:00 | TERRA_M-M | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 41.0 |
-| 186e7462-befa-3ea9-b90f-3197a734d502 | -8.28526 | -44.38769 | 2025-09-23 11:38:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 24.2 |
-| 699d2fcd-2475-3a98-ae84-666fbff500ec | -7.88438 | -44.01993 | 2025-09-23 11:38:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 31.6 |
-| 036631f8-4715-3064-bdb4-747ed917024e | -13.76255 | -42.12766 | 2025-09-23 11:38:00 | TERRA_M-M | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 13.9 |
-| 245e445d-dfc7-3bf7-8192-96f68b6ad340 | -12.04085 | -43.35361 | 2025-09-23 11:38:00 | TERRA_M-M | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 21.7 |
-| 17df2fd7-2f13-350b-b014-6b243857e18a | -14.29419 | -43.80103 | 2025-09-23 11:38:00 | TERRA_M-M | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 29.8 |
-| 222a9a1b-7dcd-3557-9df0-7432777d82fb | -12.78496 | -42.32846 | 2025-09-23 11:38:00 | TERRA_M-M | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 26.3 |
-| eefc6ac0-e915-3e50-8f55-06ce4ead6a41 | -11.65352 | -44.35942 | 2025-09-23 11:38:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 31.0 |
-| df9d2c98-1757-3f25-b1c1-0a38d8ef168c | -13.95421 | -42.48598 | 2025-09-23 11:38:00 | TERRA_M-M | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 27.6 |
-| 8676ee72-21ab-33e4-aff5-7b49eec4a9cd | -12.78277 | -42.34185 | 2025-09-23 11:38:00 | TERRA_M-M | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 15.4 |
-| 9776bf94-1223-3097-a69d-e3655786bf5b | -9.18695 | -44.62994 | 2025-09-23 11:38:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 40.2 |
-| 5f92b36a-b920-3f1f-a948-c71485c0471a | -9.082 | -40.0345 | 2025-09-23 11:38:00 | TERRA_M-M | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 32.3 |
-| c9ff01d8-d20f-3134-ac74-661431e5b95c | -8.39611 | -39.9093 | 2025-09-23 11:38:00 | TERRA_M-M | SANTA MARIA DA BOA VISTA | PERNAMBUCO | Brasil | 2612604 | 26 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| 5b6f6f66-b726-3778-85c5-e2658a13a368 | -12.21809 | -43.03714 | 2025-09-23 11:38:00 | TERRA_M-M | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Caatinga | 22.9 |
-| 8053dc12-72dd-331b-bd1c-4155d9fa6724 | -11.52277 | -43.63226 | 2025-09-23 11:38:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 24.4 |
-| 05aa1fc0-870b-3c5d-9349-f27e45f26299 | -12.9149 | -43.15171 | 2025-09-23 11:38:00 | TERRA_M-M | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 11.8 |
-| dc289f10-24f4-3e10-af38-aceb417fe964 | -13.61778 | -41.5536 | 2025-09-23 11:38:00 | TERRA_M-M | JUSSIAPE | BAHIA | Brasil | 2918605 | 29 | 33 | nan | nan | nan | Caatinga | 21.1 |
-| 6e2c389b-870b-334c-95fa-9f0f43678c4e | -13.616 | -41.56503 | 2025-09-23 11:38:00 | TERRA_M-M | JUSSIAPE | BAHIA | Brasil | 2918605 | 29 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| 7b4f5b82-353d-370f-8c4e-1c1dd9fe6291 | -8.2803 | -44.3801 | 2025-09-23 11:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 113.8 |
-| ffc78283-954b-382e-a744-e0873298dd0d | -8.5179 | -44.9749 | 2025-09-23 11:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 86.1 |
-| 56b9be0e-7dfc-3832-ab67-38eeeafccaca | -8.5179 | -44.9749 | 2025-09-23 11:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 77.7 |
-| 04fae2ba-32fc-3738-bd88-16fade9cfb28 | -8.2803 | -44.3801 | 2025-09-23 12:00:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 115.5 |
-| 71eff7cd-7249-3905-bf14-5d0d84b475c4 | -8.8609 | -46.1625 | 2025-09-23 12:00:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 94.2 |
-| 487d5e28-c3f9-351d-84df-a8cbd989427c | -8.5179 | -44.9749 | 2025-09-23 12:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| fb0bfda9-f325-33ef-b9a1-a7221b87d0c3 | -10.9519 | -45.7324 | 2025-09-23 12:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 172.4 |
-| 105cc6ea-7188-3fa7-a9ab-9c289821a1cf | -10.9519 | -45.7324 | 2025-09-23 12:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 268.7 |
-| 325ea24c-9685-3290-94ca-5809ddfce23c | -10.313 | -45.2219 | 2025-09-23 12:10:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 89.4 |
-| 960e500b-e9a0-369b-b60c-31c48c1eb9a6 | -8.8609 | -46.1625 | 2025-09-23 12:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 167.4 |
-| 3b696cc5-7c41-3387-9fab-dde943202acd | -8.2803 | -44.3801 | 2025-09-23 12:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 80.3 |
-| 70985ac5-1bdc-35a6-a9bc-e522631f2586 | -8.5182 | -44.952 | 2025-09-23 12:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 74.1 |
-| 2d962250-0169-3e3a-a69f-d1db06ccfcd6 | -10.3188 | -46.0859 | 2025-09-23 12:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 95.1 |
-| f451eb62-0de3-3bd0-9a89-1668d4c70b09 | -8.8798 | -46.1605 | 2025-09-23 12:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 105.4 |
-| 561eb023-445a-3394-9270-58540726f5f8 | -8.5179 | -44.9749 | 2025-09-23 12:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 92.6 |
-| ace7cb22-7f19-37e1-8bfd-6790ebe6df8f | -10.3382 | -46.0609 | 2025-09-23 12:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 238.3 |
-| 574ccb5a-ad4c-38b9-b1ba-43b0f329cc11 | -9.1671 | -43.1588 | 2025-09-23 12:10:00 | GOES-19 | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 98.0 |
-| 27ac700b-0a7d-34f3-9d84-9d1502221b89 | -10.3572 | -46.0585 | 2025-09-23 12:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 102.1 |
-| 16520b4c-352d-3b45-9eb2-f88a6ab175b1 | -10.3127 | -45.2449 | 2025-09-23 12:10:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 88.6 |
-| 5e8a518a-eb48-3158-8d94-12331f1399fd | -5.678 | -41.3987 | 2025-09-23 12:20:00 | GOES-19 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 70.3 |
-| 9e9f29bd-1e63-38f2-8355-44bb578e25b2 | -8.2803 | -44.3801 | 2025-09-23 12:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| 60fca77a-be49-3080-a085-db3a3682d062 | -9.1671 | -43.1588 | 2025-09-23 12:20:00 | GOES-19 | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 115.9 |
-| 4c999365-27a0-3071-9d7b-1a152b5a75d6 | -8.5182 | -44.952 | 2025-09-23 12:20:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 80.3 |
-| 74ab8f68-220e-373c-83ca-ac995657fad4 | -8.5179 | -44.9749 | 2025-09-23 12:20:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 129.2 |
-| 4c805dab-4e0c-38dc-8a55-349052cc165d | -8.5179 | -44.9749 | 2025-09-23 12:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 90.6 |
-| c79e17f5-ebe6-3aba-812f-d9b1e26581cb | -10.9519 | -45.7324 | 2025-09-23 12:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 391.3 |
-| 4020717e-5041-3461-8648-bc0159c355dd | -8.5182 | -44.952 | 2025-09-23 12:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 76.6 |
-| 1ddadc42-fac4-3c83-bea0-43c9b598d4d3 | -9.1671 | -43.1588 | 2025-09-23 12:30:00 | GOES-19 | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 123.2 |
-| 477d9ac1-4747-3543-a803-3355543177cf | -10.313 | -45.2219 | 2025-09-23 12:30:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 173.5 |
-| fb6720bc-6367-3511-8986-a7c4280cc9b8 | -11.5229 | -43.6344 | 2025-09-23 12:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 94.9 |
-| 1aa6211a-2754-3124-b306-af43ff9539b5 | -9.1671 | -43.1588 | 2025-09-23 12:40:00 | GOES-19 | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 130.4 |
-| c824a636-b3e7-398b-acc6-61fda3b31819 | -11.9108 | -43.4081 | 2025-09-23 12:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 100.4 |
-| 61661ed5-561f-3842-affa-1ee766eca104 | -11.9296 | -43.4288 | 2025-09-23 12:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 97.8 |
-| 651cf463-e1e6-3231-a866-466d1df81b74 | -11.5229 | -43.6344 | 2025-09-23 12:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 96.8 |
-| 9a3ec905-e63d-3113-ac60-43fb2caa14cc | -11.9104 | -43.4319 | 2025-09-23 12:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 101.8 |
-| 61b9e189-c84f-3fc0-aa47-a0ebb4b9af80 | -8.5179 | -44.9749 | 2025-09-23 12:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 85.4 |
-| 3f1922df-3d80-3bd4-bac9-c81d27a2e765 | -11.9301 | -43.405 | 2025-09-23 12:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 98.4 |
-| c7ba54ae-9e54-39e4-97e2-8d1249e731d0 | -11.9104 | -43.4319 | 2025-09-23 12:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 100.5 |
-| 69ac1f47-ac8d-3ce4-91e1-ce715906f1f5 | -5.678 | -41.3987 | 2025-09-23 12:50:00 | GOES-19 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 99.3 |
-| 7621f948-7aa7-3a12-a23d-2c224e30af96 | -11.5233 | -43.6107 | 2025-09-23 12:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 96.6 |
-| 853c9364-fd2d-3a9d-b30e-e2bad2361671 | -4.5192 | -55.7589 | 2025-09-23 12:50:00 | GOES-19 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 94.6 |
-| 65e04d68-447c-32c9-9476-058bf1f2c87d | -7.3493 | -38.859 | 2025-09-23 12:50:00 | GOES-19 | MILAGRES | CEARÁ | Brasil | 2308302 | 23 | 33 | nan | nan | nan | Caatinga | 91.3 |
-| c3e46e2d-7029-3fff-91d4-d01b4a44f878 | -11.9301 | -43.405 | 2025-09-23 12:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 98.9 |
-| 1030fb4b-62c7-3991-9d75-9f2f3760cff8 | -11.9108 | -43.4081 | 2025-09-23 12:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 94.0 |
-| e4a41355-d8c3-3666-a5d2-352d72cb72c0 | -8.5179 | -44.9749 | 2025-09-23 12:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 145.0 |
+| 0858610b-02e7-30a2-9f00-0d66e0ed4b08 | -5.86343 | -45.28154 | 2025-09-25 04:59:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5fba7847-2e2f-354c-9dd3-80e8d6eb300e | -5.53459 | -43.87519 | 2025-09-25 04:59:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 2cc7f0cf-8ea7-3c6a-a631-762dc4289f48 | -5.63407 | -45.7271 | 2025-09-25 04:59:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a51b168e-5ff5-38e1-99cc-922ff89c2f90 | -6.25625 | -46.1107 | 2025-09-25 04:59:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 732b4f00-4d4b-37c8-be77-7d8c284a460b | -2.44655 | -57.9464 | 2025-09-25 04:59:00 | NPP-375D | SÃO SEBASTIÃO DO UATUMÃ | AMAZONAS | Brasil | 1303957 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8e6354c8-be29-39c2-a067-960e092ce937 | -7.32084 | -45.76244 | 2025-09-25 04:59:00 | NPP-375D | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1e8cd4f5-d994-3cc2-b62f-89b381d3131f | -4.5707 | -48.02273 | 2025-09-25 04:59:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c33dc0a6-2a0e-39ce-a0ca-3428e0043c9b | -4.34889 | -50.50454 | 2025-09-25 04:59:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5f0cc381-c244-390e-9745-654491b81962 | -5.96167 | -42.90303 | 2025-09-25 04:59:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 6cb4dab6-bb4f-3523-a113-4afea65c5991 | -6.07906 | -44.08007 | 2025-09-25 04:59:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| dcf30f50-3fa6-3b21-b907-10b70f7a21bc | -6.59063 | -44.62463 | 2025-09-25 04:59:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| e660eefa-9f1e-3548-b40c-26241ecae057 | -6.94742 | -44.63871 | 2025-09-25 04:59:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| accdb0e2-595e-3f8e-b3e4-8600424d61c5 | -3.80309 | -47.58575 | 2025-09-25 04:59:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c9d395b6-65a2-3352-ae97-e1dadec31dcd | -6.69347 | -44.61822 | 2025-09-25 04:59:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d026fd13-5932-3cf9-98eb-b1a892d9f317 | -5.93316 | -42.92775 | 2025-09-25 04:59:00 | NPP-375D | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| 925f9418-abfa-32c8-964c-0006d5aeb670 | -6.54903 | -43.83802 | 2025-09-25 04:59:00 | NPP-375D | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 1b3603ca-c44f-3b8d-b3fb-1da7034775fc | -1.15194 | -54.22109 | 2025-09-25 04:59:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 67376152-1e02-3d44-bf7c-f9a1b1db23d5 | -4.73624 | -44.42934 | 2025-09-25 04:59:00 | NPP-375D | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 47701e29-f445-37ca-8216-14ca78323fa2 | -5.06069 | -44.32072 | 2025-09-25 04:59:00 | NPP-375D | GOVERNADOR ARCHER | MARANHÃO | Brasil | 2104503 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8ef9d5f7-fb7a-32bf-aa45-286815fca573 | -2.69157 | -48.47382 | 2025-09-25 04:59:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f8988d96-a02c-3e9e-a673-d852e66c17e0 | -1.94783 | -52.08466 | 2025-09-25 04:59:00 | NPP-375D | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a08c9147-727c-3916-a7fb-ab84b50ef053 | -7.10302 | -44.09567 | 2025-09-25 04:59:00 | NPP-375D | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c1eefa5d-a73b-384e-b300-7ce5d83c9b31 | -5.5186 | -43.8641 | 2025-09-25 04:59:00 | NPP-375D | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| f75bec0a-ed3a-3674-92ea-227f6b3013af | -1.79852 | -55.59003 | 2025-09-25 04:59:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1cc3d990-1669-3363-b7c4-785dae5b545d | -3.43858 | -44.4795 | 2025-09-25 04:59:00 | NPP-375D | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 7c6960c4-868c-35d7-ae08-ea95f28b84c4 | -6.82531 | -43.1841 | 2025-09-25 04:59:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 51d52ee9-d660-35ac-8915-96eab6459a50 | -4.21446 | -53.52422 | 2025-09-25 04:59:00 | NPP-375D | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 16df5690-8598-32dd-9305-b26879361ecb | -4.7973 | -43.54506 | 2025-09-25 04:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 1def2078-6bbe-307d-9b07-95a0250dc5d9 | -2.35838 | -48.89307 | 2025-09-25 04:59:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0e18e549-486c-3384-b252-bd4384e418d2 | -2.06558 | -47.8227 | 2025-09-25 04:59:00 | NPP-375D | SÃO DOMINGOS DO CAPIM | PARÁ | Brasil | 1507201 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9e13f026-e76b-3d07-97e8-cb254941f87d | -3.83194 | -50.97405 | 2025-09-25 04:59:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 69a651da-0eed-390c-b68b-01de07514908 | -6.13559 | -43.45115 | 2025-09-25 04:59:00 | NPP-375D | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 9ea3c019-58d6-3422-b248-145bfd67e817 | -5.52887 | -43.87418 | 2025-09-25 04:59:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 41483d28-54db-377f-8425-178a718f6257 | -2.30304 | -48.14699 | 2025-09-25 04:59:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| be422584-39b5-309f-b73d-d8d12fb987fb | -5.06023 | -44.3197 | 2025-09-25 04:59:00 | NPP-375D | GOVERNADOR ARCHER | MARANHÃO | Brasil | 2104503 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7149f96f-6dd7-3dfa-9292-f5712fdd2a80 | -5.63491 | -45.72117 | 2025-09-25 04:59:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 6107429a-86ca-3846-894e-b0166c8ebabb | -3.61852 | -51.79628 | 2025-09-25 04:59:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 02753194-d568-3cfb-886d-3fc8db5c35cc | -3.01507 | -51.35588 | 2025-09-25 04:59:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2bbe74a0-59bd-35bb-9004-24e8cc74f536 | -4.4283 | -47.26525 | 2025-09-25 04:59:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 80bcb063-305d-32a1-9304-a6490e1880fa | -3.21042 | -54.95931 | 2025-09-25 04:59:00 | NPP-375D | BELTERRA | PARÁ | Brasil | 1501451 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| d9f73c7b-3477-349b-92a5-c189bd3a9249 | -6.565 | -42.06852 | 2025-09-25 04:59:00 | NPP-375D | BARRA D'ALCÂNTARA | PIAUÍ | Brasil | 2201176 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| 7fb4ce03-cdd2-35ea-bb25-d6764e6a0131 | -7.25836 | -44.90134 | 2025-09-25 04:59:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 4be68e0f-fef4-3996-8737-9021465bd4b9 | -5.78803 | -42.81035 | 2025-09-25 04:59:00 | NPP-375D | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
+| 34b3dd77-47c5-3962-b3ca-71ccc57eea2d | -3.15595 | -49.47421 | 2025-09-25 04:59:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b7b5bbaf-38eb-39e7-98cd-a3a257ccaa0a | -6.11939 | -44.00046 | 2025-09-25 04:59:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 226385ae-9051-3fa9-8f58-806282bdb41f | -7.26335 | -44.90579 | 2025-09-25 04:59:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 268eb1e5-743e-3c43-a54d-e89586a9cb91 | -3.84323 | -50.99168 | 2025-09-25 04:59:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fb96b549-a666-373b-bef7-43fcca68001a | -5.22987 | -43.69506 | 2025-09-25 04:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 89c7fbcc-aefc-3465-90af-d06bf0583b1d | -6.0734 | -44.07883 | 2025-09-25 04:59:00 | NPP-375D | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c080c58f-4669-329d-82ab-1e269d3998bd | -1.08692 | -54.10934 | 2025-09-25 04:59:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4df5f26e-8799-3250-9f91-5a9bd9f37589 | -5.53024 | -43.873 | 2025-09-25 04:59:00 | NPP-375D | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 91958110-a811-3eb1-bc37-9ce0f3804965 | -7.26321 | -43.02152 | 2025-09-25 04:59:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 845e6d83-ece7-35b0-8258-d3e376c6e925 | -1.08748 | -54.10582 | 2025-09-25 04:59:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 781013df-cc51-38b6-bfda-ad3079e709c3 | -7.04854 | -46.40794 | 2025-09-25 04:59:00 | NPP-375D | NOVA COLINAS | MARANHÃO | Brasil | 2107258 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| dc48ab74-936b-3743-a39b-b9c7226c5877 | -4.67085 | -48.15649 | 2025-09-25 04:59:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 908f04f3-e098-3eb3-a346-f54f37e23337 | -2.92131 | -48.30268 | 2025-09-25 04:59:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 8babc0e4-289c-3b93-accd-e1df7936dfc1 | -7.13462 | -44.33822 | 2025-09-25 04:59:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 41cd763e-bf4a-34e6-9474-1b37280ca133 | -5.59998 | -52.15829 | 2025-09-25 04:59:00 | NPP-375D | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 4481ce57-d092-360a-b5d8-55187b840144 | -4.74171 | -44.43019 | 2025-09-25 04:59:00 | NPP-375D | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| f5f7d03f-6a8e-353c-881d-978bf50bd618 | -3.79393 | -41.73516 | 2025-09-25 04:59:00 | NPP-375D | SÃO JOSÉ DO DIVINO | PIAUÍ | Brasil | 2210052 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 51566f4c-1eef-3e84-b34a-e7e9d6f5d7c6 | -2.26345 | -47.19468 | 2025-09-25 04:59:00 | NPP-375D | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4296bd6b-e931-3e8e-bbbe-f0717c66ea2c | -5.09202 | -47.47274 | 2025-09-25 04:59:00 | NPP-375D | SÃO FRANCISCO DO BREJÃO | MARANHÃO | Brasil | 2110856 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 72c17609-6d89-3d68-bb2e-67a1230c6d47 | -3.69986 | -49.57441 | 2025-09-25 04:59:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| eea118dd-b66b-3def-862f-a0df6037f6b6 | -5.06076 | -44.31595 | 2025-09-25 04:59:00 | NPP-375D | GOVERNADOR ARCHER | MARANHÃO | Brasil | 2104503 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bf85ba69-9481-3988-aa41-48b09701d403 | -3.08565 | -52.92137 | 2025-09-25 04:59:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| c610b194-1e7a-34b5-bc7e-0b71b0616c9a | -3.49605 | -59.05462 | 2025-09-25 04:59:00 | NPP-375D | AUTAZES | AMAZONAS | Brasil | 1300300 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b0f2276e-da28-3741-b7c0-8438718aa3b4 | -5.86782 | -45.28207 | 2025-09-25 04:59:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 23beaf1f-a166-34b0-bacb-4d19b335554a | -4.03047 | -47.77497 | 2025-09-25 04:59:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 03731ef3-355b-32ff-b99f-7a993c988ca6 | -4.45523 | -55.43198 | 2025-09-25 04:59:00 | NPP-375D | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 99787623-4e80-38e7-92e7-2ee8d3a88547 | -2.3837 | -57.2398 | 2025-09-25 04:59:00 | NPP-375D | PARINTINS | AMAZONAS | Brasil | 1303403 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4e403199-c64c-38ca-a5d3-8485f990d829 | -4.7995 | -47.2721 | 2025-09-25 04:59:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 17df013a-78a6-3e6e-90cf-001b8681fde3 | -4.44279 | -50.7422 | 2025-09-25 04:59:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 02601b7b-b187-3183-8c08-48f69714532a | -2.64132 | -54.5479 | 2025-09-25 04:59:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| df8ae12a-381d-3f32-9aff-f0e705c0644c | -7.25701 | -43.0205 | 2025-09-25 04:59:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| d9fa0366-22e4-3ce4-a65d-216c05465889 | -2.68808 | -48.46978 | 2025-09-25 04:59:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| aa2670d0-d82d-3678-a7d9-ffef4caeb968 | -5.39813 | -48.84849 | 2025-09-25 04:59:00 | NPP-375D | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 05c29936-5330-3acc-b75b-ee89b9a4a682 | -2.44736 | -57.94139 | 2025-09-25 04:59:00 | NPP-375D | SÃO SEBASTIÃO DO UATUMÃ | AMAZONAS | Brasil | 1303957 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 42c19e54-6261-3aed-bbfb-0946014b7baf | -1.53578 | -51.61526 | 2025-09-25 04:59:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| cdc857f2-898a-32cc-aa17-c4de06f9df44 | -4.34524 | -50.50399 | 2025-09-25 04:59:00 | NPP-375D | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| eb409e8c-e2d6-37fd-872c-6f2dbcf88970 | -4.76276 | -43.25411 | 2025-09-25 04:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 7c9db37c-b5d7-339c-81f4-0389031621c1 | -4.08383 | -54.30598 | 2025-09-25 04:59:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 967a650f-99f8-3ae3-925f-e95cde34b433 | -6.69296 | -44.6218 | 2025-09-25 04:59:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 2859966f-d85f-3f2b-8095-e15e52543594 | -7.26287 | -44.90931 | 2025-09-25 04:59:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c5d479a6-1fcb-36a5-b1ee-658e29df8a1d | -4.20258 | -55.15491 | 2025-09-25 04:59:00 | NPP-375D | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 3c921912-474a-3651-bd98-e2388e7be20b | -2.9202 | -48.30985 | 2025-09-25 04:59:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 13.8 |
+| d8daa95b-ebe3-3864-a43f-da6b063199c7 | -3.83319 | -50.96612 | 2025-09-25 04:59:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 1fa06643-11e1-3f26-b554-936b0852317d | -5.51287 | -43.86314 | 2025-09-25 04:59:00 | NPP-375D | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 41f366cb-cbe8-3e01-9084-f29b8ddaf386 | -3.61739 | -51.80363 | 2025-09-25 04:59:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 3c5a6189-430a-3d63-ab80-f633be0bbcac | -5.22997 | -43.6974 | 2025-09-25 04:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b18271f0-290c-314c-8bb1-83800f78f93d | -3.61453 | -51.79942 | 2025-09-25 04:59:00 | NPP-375D | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7d9f5223-51ff-3967-a43b-2cb3769796d6 | -7.31692 | -45.75239 | 2025-09-25 04:59:00 | NPP-375D | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 7225f5bd-2647-3f9e-bf2a-f9aa588fdb84 | -6.68366 | -43.12777 | 2025-09-25 04:59:00 | NPP-375D | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| daa94ca1-b7e4-38db-8bb9-a4f4d26cc89c | -5.52507 | -43.86794 | 2025-09-25 04:59:00 | NPP-375D | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 287526dc-3700-3ff1-aa58-7f16d00fea84 | -1.82298 | -55.27713 | 2025-09-25 04:59:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| cf85adb9-e398-3659-89c7-088bbd2c1205 | -1.72684 | -55.74654 | 2025-09-25 04:59:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f5b08806-8945-32f5-bb87-f71428fbe586 | -3.4915 | -53.28397 | 2025-09-25 04:59:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 63efa519-e7d3-3174-a2b7-d7dd54ef743d | -3.78105 | -41.73352 | 2025-09-25 04:59:00 | NPP-375D | SÃO JOSÉ DO DIVINO | PIAUÍ | Brasil | 2210052 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 811b8831-e20f-39ef-9f53-404f6522890e | -6.34664 | -43.36688 | 2025-09-25 04:59:00 | NPP-375D | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| b0afe17d-e611-3f22-84a8-4b0590fdab90 | -4.01007 | -43.27435 | 2025-09-25 04:59:00 | NPP-375D | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 256025ea-17c4-33c7-a37d-9314f1f9ae4f | -6.75242 | -44.63532 | 2025-09-25 04:59:00 | NPP-375D | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
 
 
 [Clique aqui para ver as próximas entradas](README28.md)
