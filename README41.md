@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f4bf3ab9-6bb4-331b-bf54-70d7e5d536b7 | -20.83883 | -46.361 | 2025-09-27 04:25:00 | NPP-375D | ALPINÓPOLIS | MINAS GERAIS | Brasil | 3101904 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 6ee63e4b-cdc9-3fcc-986f-11b16ea8c3ef | -15.01825 | -46.96782 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 53d57228-67b7-3650-9749-1640c2384e67 | -15.2827 | -46.4311 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 7612f365-c366-326c-8a38-60ae422a5bf9 | -15.04051 | -46.95683 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 294608e0-028d-30e9-a793-789847e7da73 | -14.06599 | -48.8268 | 2025-09-27 04:25:00 | NPP-375D | CAMPINORTE | GOIÁS | Brasil | 5204706 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| b218e718-b266-380a-8696-17fac3c896d1 | -17.10976 | -46.86889 | 2025-09-27 04:25:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| b7028716-47c4-3442-89f3-f95c52e3baf5 | -13.60072 | -47.30644 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 6db39ec2-3399-3abf-8b07-d3bb2326adec | -15.53663 | -44.33908 | 2025-09-27 04:25:00 | NPP-375D | PEDRAS DE MARIA DA CRUZ | MINAS GERAIS | Brasil | 3149150 | 31 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 315bb0c1-504b-3b79-ba7d-b7f605719c1a | -20.79062 | -49.39009 | 2025-09-27 04:25:00 | NPP-375D | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| e8298405-e3be-3ba5-979e-9c378a0af51b | -15.93543 | -57.49724 | 2025-09-27 04:25:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| 92abf35d-63cc-35a2-9a31-9f5bd0a4cd71 | -15.60051 | -46.45385 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| d9af0ddf-635a-3345-9b93-8b78eb9c0fbd | -15.2766 | -46.4264 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 602e0591-1063-3272-8a02-77c96a3a5e4a | -17.18775 | -44.79761 | 2025-09-27 04:25:00 | NPP-375D | VÁRZEA DA PALMA | MINAS GERAIS | Brasil | 3170800 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| d9a955b5-27df-334f-ae99-5c91b5bced73 | -15.14742 | -46.43114 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 42a360b2-3916-33a7-92e5-06a6059fadae | -13.63241 | -48.07461 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 16378e3f-c307-39dc-b3a2-659e0c09adff | -13.50909 | -47.41788 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| c28f6512-b2d9-3a05-8088-82a2a3ff2ed8 | -20.65844 | -48.78517 | 2025-09-27 04:25:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 3b28ce96-b5b5-3b36-9eb1-8290dd190f44 | -13.67851 | -50.6386 | 2025-09-27 04:25:00 | NPP-375D | NOVA CRIXÁS | GOIÁS | Brasil | 5214838 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1f6d5ece-04dc-3f44-9744-e6c5bc666d46 | -16.81653 | -48.81441 | 2025-09-27 04:25:00 | NPP-375D | BELA VISTA DE GOIÁS | GOIÁS | Brasil | 5203302 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 15d98319-57fe-332e-a0d6-01ead34f3753 | -14.51664 | -48.01252 | 2025-09-27 04:25:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1545793e-13a6-33da-9245-87174a49b09c | -15.93124 | -59.48865 | 2025-09-27 04:25:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 42c9f639-7033-3bc8-8479-d39817ab1252 | -13.50296 | -47.41313 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f4dd0b6b-579c-3f9e-a781-d66b021ef222 | -15.01437 | -49.53722 | 2025-09-27 04:25:00 | NPP-375D | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f1ef6668-22cb-32c9-a00d-322d7e2509f6 | -16.81717 | -48.81059 | 2025-09-27 04:25:00 | NPP-375D | BELA VISTA DE GOIÁS | GOIÁS | Brasil | 5203302 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| aa241d6c-cd5e-3c17-a88f-0d8441f2737b | -14.5999 | -48.24947 | 2025-09-27 04:25:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 5d4daa3a-5d5d-3e21-ae37-220cd42fe4c0 | -13.78661 | -46.93198 | 2025-09-27 04:25:00 | NPP-375D | NOVA ROMA | GOIÁS | Brasil | 5214903 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c5e06e20-c587-3b03-94db-889e1c0e838f | -19.40588 | -44.30815 | 2025-09-27 04:25:00 | NPP-375D | SETE LAGOAS | MINAS GERAIS | Brasil | 3167202 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 96729277-318b-3a40-83d2-cc421da0f40c | -15.2788 | -46.43414 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 9ed81562-d2ec-3962-9638-a0774ab9646e | -15.9111 | -59.33154 | 2025-09-27 04:25:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 583cd33e-d52b-37f5-9b61-8b94e48a7bcb | -20.31925 | -47.13198 | 2025-09-27 04:25:00 | NPP-375D | IBIRACI | MINAS GERAIS | Brasil | 3129707 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0b64abe8-0b9d-3d16-8240-bfebcb2dba98 | -15.97205 | -50.87578 | 2025-09-27 04:25:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 444bb2ff-fd69-31fd-a8b9-34cd7130c8a5 | -15.45283 | -47.54629 | 2025-09-27 04:25:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 0b8fa951-dcb3-3db4-8b24-0e249314dd32 | -18.29227 | -57.09454 | 2025-09-27 04:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| cc6a7bd7-7f14-37d2-8fc4-65811faf8eec | -13.63584 | -48.0751 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 81ed6d08-969a-3a3e-aad6-a889c3b73aba | -15.41698 | -48.21086 | 2025-09-27 04:25:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 60d7d817-10d2-3db7-93c2-b81eafd017f6 | -15.02215 | -46.96479 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f1b7c58b-6329-3be7-a629-79a2e4f3675b | -13.36955 | -47.82684 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| ea9518c3-be90-3f74-bb6a-73d7d898af36 | -14.02049 | -56.10379 | 2025-09-27 04:25:00 | NPP-375D | NOVA MUTUM | MATO GROSSO | Brasil | 5106224 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 17381557-d2b2-3846-b8c0-1b3199f5743f | -14.84356 | -45.62363 | 2025-09-27 04:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 59ae4d62-3b35-3de1-b41e-e35eaecddc14 | -20.43269 | -43.36866 | 2025-09-27 04:25:00 | NPP-375D | MARIANA | MINAS GERAIS | Brasil | 3140001 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| df1f16f5-261f-3008-834f-8e39ad622e7e | -18.25067 | -47.00698 | 2025-09-27 04:25:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| a945688e-59d4-3bab-8f56-6cff970a2da8 | -15.04971 | -47.13517 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c5e3f857-bad0-3f3b-b8e9-fce42fa3e488 | -15.55703 | -47.9119 | 2025-09-27 04:25:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| e4c8fb78-6977-3664-90b0-18cd2f71f5ca | -14.83908 | -45.60793 | 2025-09-27 04:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 4585136b-8958-3d8b-bb8d-b33a3c1b0f2f | -15.53019 | -44.33398 | 2025-09-27 04:25:00 | NPP-375D | PEDRAS DE MARIA DA CRUZ | MINAS GERAIS | Brasil | 3149150 | 31 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 24aee0af-baaa-32fa-a2b9-67d0436a5ad8 | -15.03776 | -46.95267 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 42d20c0e-cdc2-302d-a1d4-7c81a93ad808 | -15.27431 | -46.46281 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 33126b97-19f8-35cb-b752-6fa262db7cec | -13.633 | -48.07495 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 814e4feb-f23d-317a-bbe5-3c35b84693ad | -15.01249 | -49.23203 | 2025-09-27 04:25:00 | NPP-375D | GOIANÉSIA | GOIÁS | Brasil | 5208608 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| ad4878bb-52f3-386c-9357-e0bf51b68998 | -15.9683 | -50.87316 | 2025-09-27 04:25:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| caac3aac-0ca5-3cf8-80a3-7ead69b7b44d | -14.83236 | -45.6293 | 2025-09-27 04:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 26ce509a-c3fa-3640-8558-953d8673d4ab | -16.02053 | -44.39824 | 2025-09-27 04:25:00 | NPP-375D | BRASÍLIA DE MINAS | MINAS GERAIS | Brasil | 3108602 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 897ff978-a6e0-33e7-adbd-ba9c19ccc937 | -15.26987 | -51.4684 | 2025-09-27 04:25:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 5528aa66-ffb8-3fdc-9c50-c83cda3fa27e | -15.27323 | -46.44793 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 823296a6-88a4-3342-aa36-7eca59b82747 | -17.17865 | -56.38122 | 2025-09-27 04:25:00 | NPP-375D | BARÃO DE MELGAÇO | MATO GROSSO | Brasil | 5101605 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 2ffc5483-e4de-317d-816e-dedb7d70d37d | -13.63179 | -48.07833 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 4089ca36-e92f-32be-850d-404b83ed77be | -19.04921 | -48.1364 | 2025-09-27 04:25:00 | NPP-375D | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| cf1bb1ae-4220-3812-a296-338d9023900b | -18.22165 | -45.05326 | 2025-09-27 04:25:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 017291e6-3a98-385a-b5d3-817de0385976 | -15.90697 | -59.32743 | 2025-09-27 04:25:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 88cac63a-941d-3df9-a80c-a552a542172f | -15.41637 | -48.21458 | 2025-09-27 04:25:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| fe5b5a22-9c42-3d50-9c69-49e18c99ae19 | -19.63633 | -45.5773 | 2025-09-27 04:25:00 | NPP-375D | DORES DO INDAIÁ | MINAS GERAIS | Brasil | 3123205 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d27a2f24-5317-3219-a13a-7f59538b23b0 | -15.90481 | -59.32991 | 2025-09-27 04:25:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| abd2afa5-860c-3ec6-8700-0502dc1b1fef | -15.9015 | -57.48895 | 2025-09-27 04:25:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| eb668cca-42e5-3efe-8a9d-6fb3ed1f57c0 | -14.43012 | -44.88124 | 2025-09-27 04:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| ac41d996-6dd6-320d-9d4c-d9484605a293 | -15.45809 | -47.09646 | 2025-09-27 04:25:00 | NPP-375D | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 26a260e6-8e56-314a-92d1-efb29b4180fe | -13.60349 | -47.31061 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 038e4d7e-e613-342a-9409-345a4d7d76fb | -15.89257 | -46.19775 | 2025-09-27 04:25:00 | NPP-375D | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 9f4e05b5-89d9-3d90-8ce7-7a623c98e762 | -15.88923 | -46.19715 | 2025-09-27 04:25:00 | NPP-375D | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 3dc266c3-38ce-365a-ace9-f631b67ec46c | -15.9683 | -50.87505 | 2025-09-27 04:25:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 9c68eb22-2fec-381c-a887-6ae020193053 | -20.31004 | -47.78056 | 2025-09-27 04:25:00 | NPP-375D | ITUVERAVA | SÃO PAULO | Brasil | 3524105 | 35 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 0740113b-9652-331a-9f98-d53092fd580b | -15.42932 | -48.22051 | 2025-09-27 04:25:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| a5928371-8084-325a-bf91-0f0749a35fee | -18.32497 | -57.12405 | 2025-09-27 04:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 067a04bc-4106-3649-85b5-599703258e48 | -15.26595 | -51.46766 | 2025-09-27 04:25:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 533dbd6b-fca8-3091-acbe-44b65fe33bbb | -14.82788 | -45.63606 | 2025-09-27 04:25:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f28c4ef2-2730-32d2-b295-737482e9784f | -13.61471 | -47.30511 | 2025-09-27 04:25:00 | NPP-375D | TERESINA DE GOIÁS | GOIÁS | Brasil | 5221080 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2a627af2-6e21-39c8-9d5f-97b99de6217e | -20.01993 | -47.62513 | 2025-09-27 04:25:00 | NPP-375D | CONQUISTA | MINAS GERAIS | Brasil | 3118205 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 5399a0b2-708b-3353-9cd9-f002396dfd82 | -13.51755 | -47.40833 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 00974f9b-3e99-3127-ba10-1a09345f3891 | -13.757 | -47.87004 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8cf2c412-9aaa-3e06-8b7e-fac8a5558a95 | -15.20066 | -48.46281 | 2025-09-27 04:25:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 46c4fe16-f4eb-352f-9ae3-daf158e349a4 | -13.75982 | -47.87409 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e68f1675-0c1c-387c-9c95-5522b1d61af4 | -18.29154 | -57.09801 | 2025-09-27 04:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 14321e59-2f7b-3731-b6d2-2cb9e788fc20 | -13.63113 | -48.08646 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 4efba212-d50b-313e-8d91-c8c5109d553a | -19.92773 | -43.61716 | 2025-09-27 04:25:00 | NPP-375D | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 599eb99d-c3fc-3104-84f7-b8bd25bfa245 | -13.83007 | -47.95895 | 2025-09-27 04:25:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 19fe54c6-a2ce-3ab2-bcda-bee16884fce3 | -20.30268 | -46.66692 | 2025-09-27 04:25:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| affef0fa-ce50-3d9a-97d7-00d788bed831 | -19.93156 | -43.61773 | 2025-09-27 04:25:00 | NPP-375D | CAETÉ | MINAS GERAIS | Brasil | 3110004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 18cbf1a7-14a6-35c7-b19f-fceb93946f2e | -16.91303 | -45.95209 | 2025-09-27 04:25:00 | NPP-375D | BRASILÂNDIA DE MINAS | MINAS GERAIS | Brasil | 3108552 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 9e719597-6175-3ba9-8693-2763958c1d0c | -15.89744 | -59.33317 | 2025-09-27 04:25:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| bfdb444c-144c-3c4a-a0db-dfbf2eecaee3 | -15.96745 | -50.87792 | 2025-09-27 04:25:00 | NPP-375D | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| ba1dc838-cf42-3bca-a786-8c0392a47438 | -14.59308 | -48.24834 | 2025-09-27 04:25:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c5b8ad4f-180e-312f-b09d-f416fe2e20aa | -15.28485 | -49.48108 | 2025-09-27 04:25:00 | NPP-375D | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 4a85a09c-d479-3760-b594-ea54aee4a19e | -15.20154 | -56.02306 | 2025-09-27 04:25:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| ee7ba2d4-a4c7-3065-9523-7210fac86be1 | -19.71742 | -45.86926 | 2025-09-27 04:25:00 | NPP-375D | LUZ | MINAS GERAIS | Brasil | 3138807 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 72154693-11b9-3f48-8c09-b46059009849 | -17.73074 | -46.70737 | 2025-09-27 04:25:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 1a2b16b5-0f17-329f-b93e-924798306c25 | -14.06665 | -48.82289 | 2025-09-27 04:25:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 948164b5-831b-32e3-8ae8-818c73c8fc49 | -14.95059 | -47.49562 | 2025-09-27 04:25:00 | NPP-375D | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 612e2082-9035-3207-99f5-780e574b59ca | -15.02996 | -46.95871 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 35627a67-4c12-30d4-8f43-cb52c28b3e78 | -15.27379 | -46.44434 | 2025-09-27 04:25:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| b328751f-4667-38d3-bd06-3cddad84a465 | -15.03443 | -46.9521 | 2025-09-27 04:25:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 62110e70-d710-3587-b55d-b8a257cba220 | -14.63396 | -48.29791 | 2025-09-27 04:25:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 4e253b6b-ce06-383d-a36d-b305074366ea | -15.97414 | -42.0084 | 2025-09-28 04:06:00 | NPP-375D | TAIOBEIRAS | MINAS GERAIS | Brasil | 3168002 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 1b8e7ab3-e912-3478-9467-e86af96f2ed5 | -12.00005 | -47.06846 | 2025-09-28 04:06:00 | NPP-375D | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| f7f8c667-30eb-3ae2-b60e-66b82cb74b33 | -11.44689 | -45.00457 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| bd1c62cd-44b3-3d7c-b03b-04a106c949eb | -10.2986 | -45.39498 | 2025-09-28 04:06:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 868bf9d8-79ef-3c89-b6e3-314e54a75381 | -15.28043 | -49.48059 | 2025-09-28 04:06:00 | NPP-375D | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 5a600da0-abbb-3cad-8fdf-063c573949b1 | -14.54295 | -48.40351 | 2025-09-28 04:06:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| bec6de66-cf3c-3bbd-a01e-2dca9d79a38b | -10.90967 | -45.73957 | 2025-09-28 04:06:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| c5b316be-3299-3da6-891f-1fdb9fb9b8ad | -10.9273 | -44.31904 | 2025-09-28 04:06:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c1110d5e-2203-3934-b835-23843c066270 | -10.96308 | -49.57229 | 2025-09-28 04:06:00 | NPP-375D | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| da696c35-d9ac-398a-8fe5-f0e523ef5aed | -14.43423 | -44.87848 | 2025-09-28 04:06:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| d4215af9-4ac4-3bba-9f9a-83ffbf146f70 | -11.4947 | -43.52683 | 2025-09-28 04:06:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e0a1fc28-1594-3ea3-bf15-02b79889093d | -10.28311 | -45.2041 | 2025-09-28 04:06:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 10d975dc-ea07-3ca2-9148-e2c50bc86b07 | -15.44362 | -48.22968 | 2025-09-28 04:06:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 80cfdca3-ac75-33a9-a0d4-e7a2599ed373 | -11.60105 | -44.35504 | 2025-09-28 04:06:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 561260dc-b6d9-3dd0-b2ea-83444282b25e | -12.02271 | -47.91874 | 2025-09-28 04:06:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 65e0e795-ef99-3bd1-b2bb-412a3bdec221 | -11.38838 | -46.97952 | 2025-09-28 04:06:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 815cef15-6625-3a86-ba12-4c23bf8002e7 | -13.75789 | -47.86705 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 52145bb1-f5ff-3314-a93b-f05881b6e16a | -10.45495 | -48.20629 | 2025-09-28 04:06:00 | NPP-375D | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| e80cbd26-ee39-3899-aec1-0c479325d2a0 | -14.53858 | -48.409 | 2025-09-28 04:06:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 5b5ef21f-876f-367b-9218-f70cd753a0f2 | -11.44016 | -44.9986 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| d80ae1e0-d9c3-3f57-8e05-8ff18b4c5b87 | -11.37188 | -44.96822 | 2025-09-28 04:06:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| ca496661-0bbf-38a3-9edb-d32a3a3675db | -11.44545 | -44.99022 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| ce196d63-f542-3fa4-be5e-cd2e76667bb3 | -11.21022 | -47.74104 | 2025-09-28 04:06:00 | NPP-375D | PINDORAMA DO TOCANTINS | TOCANTINS | Brasil | 1717008 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| ad2d115c-dbac-3446-92d5-b0e9870b4bc0 | -13.40096 | -48.16191 | 2025-09-28 04:06:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 025e823f-a65b-3e59-b22a-8fa12f1ea7b9 | -11.37075 | -45.01939 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| bc1cfa66-0667-3a82-88ea-1c68b3bcb48e | -11.9972 | -47.88087 | 2025-09-28 04:06:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| f2807376-2da9-38c3-be3b-73511f5fde41 | -13.61422 | -48.08326 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 69f82b47-2fe5-33d7-bafb-c2bae293a0c8 | -15.62123 | -48.35962 | 2025-09-28 04:06:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 136018b5-6ccf-3ed9-9df8-a4d14e4e9c8b | -11.41097 | -46.95095 | 2025-09-28 04:06:00 | NPP-375D | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 31f146a6-54e0-3421-b779-3a11379e16ce | -11.58465 | -45.4919 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2cf3ee9e-ee49-39d4-8d73-e77d7ae565fe | -13.77113 | -47.86796 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 831c0baa-b6c8-34f3-9c92-77a452f43406 | -10.85236 | -47.79316 | 2025-09-28 04:06:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| e418969e-d645-3eef-b6a0-fed00dff196a | -13.58806 | -47.31783 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 7df18088-93af-3861-ad6c-05e752272686 | -11.98944 | -47.07882 | 2025-09-28 04:06:00 | NPP-375D | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| e85462f9-6a6b-3e44-8dec-e05ca0ec9e68 | -13.40013 | -48.16636 | 2025-09-28 04:06:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 2adc6692-94ae-3c54-a430-2dde3e99c6c2 | -13.02378 | -49.45732 | 2025-09-28 04:06:00 | NPP-375D | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| e39d66a4-3eba-3878-a43a-6bca44a165ba | -12.68316 | -46.88454 | 2025-09-28 04:06:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| e5dcb290-70a6-3ea2-8c19-9090d4bedf9f | -10.90672 | -45.74722 | 2025-09-28 04:06:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| cc321cae-91bf-38f8-915b-101385196f62 | -13.62754 | -47.31461 | 2025-09-28 04:06:00 | NPP-375D | TERESINA DE GOIÁS | GOIÁS | Brasil | 5221080 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 15fcaadb-fba8-356d-9a61-7867b8f7ba55 | -11.98844 | -48.00631 | 2025-09-28 04:06:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 0137cc4d-6c4f-34ad-928b-d46d7a7505e4 | -11.64946 | -52.8709 | 2025-09-28 04:06:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2773877d-dea5-3a78-aadc-42c46e74435b | -12.00506 | -47.04068 | 2025-09-28 04:06:00 | NPP-375D | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 862a05aa-8b85-3039-8be7-54d4479aee93 | -15.33424 | -47.89185 | 2025-09-28 04:06:00 | NPP-375D | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| cbb76eae-94c1-3f16-aba2-47326944a5ee | -11.9566 | -47.97686 | 2025-09-28 04:06:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| bf5e89f6-aac2-3915-b819-c581465bacfb | -12.32162 | -51.51942 | 2025-09-28 04:06:00 | NPP-375D | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 37f24703-033f-313e-bc56-6836546b9946 | -13.01287 | -49.46174 | 2025-09-28 04:06:00 | NPP-375D | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 0674801a-6cc8-3e98-b2e4-e667d84fffed | -11.5816 | -45.48654 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d51a3610-d4c8-30eb-a61f-d54f145d2421 | -14.33327 | -44.50063 | 2025-09-28 04:06:00 | NPP-375D | MONTALVÂNIA | MINAS GERAIS | Brasil | 3142700 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 9ce0f8b4-e6b5-3051-abe5-25075cf8d38b | -11.92888 | -38.32978 | 2025-09-28 04:06:00 | NPP-375D | INHAMBUPE | BAHIA | Brasil | 2913705 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| c10dffc0-f765-3530-889f-8dd2a5fb78f4 | -15.43338 | -48.23667 | 2025-09-28 04:06:00 | NPP-375D | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| f3948e4d-38af-392d-bcc5-c2821a0cf62d | -10.5963 | -46.27526 | 2025-09-28 04:06:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| fe1f3bf5-04c1-3897-84e0-65e23f74261c | -12.694 | -46.87165 | 2025-09-28 04:06:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d498bc48-3339-3f17-9cdc-5f08ab57a166 | -15.08549 | -48.3309 | 2025-09-28 04:06:00 | NPP-375D | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 851137f9-9f47-3a1f-a492-5a3e809dffbd | -11.49546 | -43.52616 | 2025-09-28 04:06:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 0819887e-a8c4-3026-be51-ef5d08df9e22 | -9.54265 | -50.77952 | 2025-09-28 04:06:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3c6ae10d-e8cd-3f03-a654-cc1af082bb20 | -13.5896 | -47.30932 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| ffab03d5-d80f-373c-8bb8-58293090829f | -11.99095 | -47.04631 | 2025-09-28 04:06:00 | NPP-375D | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| e5236251-804e-3a8b-b84c-2f80dd2eb0cb | -11.98928 | -48.00167 | 2025-09-28 04:06:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 33724d78-37df-3b8b-acac-5d5136a7a1a8 | -15.03275 | -46.96297 | 2025-09-28 04:06:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2d43fd36-96c1-3cff-bcd4-7652534f9335 | -13.60097 | -47.2943 | 2025-09-28 04:06:00 | NPP-375D | TERESINA DE GOIÁS | GOIÁS | Brasil | 5221080 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0160a229-fcc2-3eac-895a-ccbac402a834 | -11.7908 | -44.86923 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a9e80268-4e2e-32db-8904-eb289f323d2c | -11.09565 | -54.28576 | 2025-09-28 04:06:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| be71c111-6f3b-309a-a3fa-e78465a80aff | -11.62317 | -52.85493 | 2025-09-28 04:06:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| e91f5cf0-1db2-3f41-aa48-d9386d51fc0c | -13.39837 | -48.16288 | 2025-09-28 04:06:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 36c9c821-d6d5-3708-9b2c-b7d9c8392380 | -15.62551 | -46.26073 | 2025-09-28 04:06:00 | NPP-375D | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 5ed13cce-66a9-3bdf-928d-86822742a747 | -13.78109 | -47.89296 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| cb68a51b-e1f6-332f-b0e2-3a1c6267aabf | -11.79596 | -44.90671 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ab37c6e5-8164-3109-a3cb-d29896ac54b3 | -10.94408 | -44.26306 | 2025-09-28 04:06:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| 571ccc7c-ce53-3696-b04d-74c456a2eb53 | -14.77194 | -45.67278 | 2025-09-28 04:06:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 582047ed-5255-323b-9278-40aef97138e4 | -14.45553 | -41.67347 | 2025-09-28 04:06:00 | NPP-375D | BRUMADO | BAHIA | Brasil | 2904605 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 66bd05cc-0e19-3679-81e2-7a589032d383 | -13.01772 | -49.46278 | 2025-09-28 04:06:00 | NPP-375D | ARAGUAÇU | TOCANTINS | Brasil | 1702000 | 17 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| f104791f-e0a0-34ae-ad1d-bad79bea9d21 | -13.61928 | -47.31247 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 5b46b2ad-fdca-3e65-9a79-2ffb66755a3f | -13.52464 | -47.40309 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| da10bc23-28c1-399e-95f2-e7ad70d5f314 | -13.77485 | -47.87208 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| c24acb16-e76a-324f-8314-0d3dca030555 | -14.32538 | -47.09322 | 2025-09-28 04:06:00 | NPP-375D | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| f4be82d7-ee4b-33f0-96af-136f11b31ba8 | -13.58712 | -47.29919 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| dab3a624-c437-37ba-9ab2-51b7dce4797f | -13.4054 | -48.16272 | 2025-09-28 04:06:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 39192be9-e4f2-3fab-bc03-35e103e7c5ad | -13.53916 | -43.49973 | 2025-09-28 04:06:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| d4c6292a-d029-31d4-bfe5-bcb57a2d8e6e | -10.92727 | -44.31739 | 2025-09-28 04:06:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2e6b4502-e417-36be-8782-ee3109433884 | -11.77721 | -43.76369 | 2025-09-28 04:06:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 8e88f763-b5ea-34cd-a3a4-05f64471086e | -13.60089 | -47.31857 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 78cce5dd-6536-3264-bd44-ca1f1da5010f | -13.56211 | -44.10205 | 2025-09-28 04:06:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 2fb304d7-6d22-3a3e-9b5d-3fc7b6ce9883 | -14.32107 | -52.92855 | 2025-09-28 04:06:00 | NPP-375D | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 1b20906a-d2e8-331a-a653-7defa6d49d2e | -13.64844 | -48.07053 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5a34666d-fe9c-3bfe-b5fb-5423e87002fa | -12.74214 | -46.81634 | 2025-09-28 04:06:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 067c8bbb-525f-3be4-8ae1-2db1bbce52fd | -10.41775 | -46.15596 | 2025-09-28 04:06:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 14d0f727-7030-33d6-9bb8-16bcc1bef4d0 | -13.77547 | -47.86869 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 9dde72af-2e55-30bc-9d00-e8f0b0efe9b3 | -15.29462 | -49.48251 | 2025-09-28 04:06:00 | NPP-375D | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 1066419a-4b35-398b-a26b-d30a988f32aa | -13.59084 | -47.32633 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| d58fb25b-3f09-3c26-8565-e5c526ce35c3 | -13.71426 | -48.34845 | 2025-09-28 04:06:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| bb4f8e62-5a60-36c0-803e-2f903d6a4a42 | -11.50989 | -46.95254 | 2025-09-28 04:06:00 | NPP-375D | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 9f553a58-b87e-385c-98b8-8c64fba431fc | -11.98801 | -46.60145 | 2025-09-28 04:06:00 | NPP-375D | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| c0c1fb5c-ec3e-3b4b-a293-fb83acf412b2 | -15.52097 | -42.20179 | 2025-09-28 04:06:00 | NPP-375D | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 3ca6a0a1-36e1-3bb2-bfc5-428a7cc97ef0 | -13.59684 | -47.29324 | 2025-09-28 04:06:00 | NPP-375D | TERESINA DE GOIÁS | GOIÁS | Brasil | 5221080 | 52 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| a7250874-07e2-3fe1-8404-c2230fc8d3c1 | -12.02315 | -47.92746 | 2025-09-28 04:06:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| e10063a8-ae3e-306c-8634-dea6fedbe79c | -11.52404 | -54.31726 | 2025-09-28 04:06:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c2591bdf-eace-3756-83d1-6cada20184c2 | -13.29998 | -44.15756 | 2025-09-28 04:06:00 | NPP-375D | SANTA MARIA DA VITÓRIA | BAHIA | Brasil | 2928109 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| da6ed3b1-e1ec-39ea-a2a6-7c89e294de14 | -11.69025 | -44.42208 | 2025-09-28 04:06:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 93cfc791-4fcc-3595-afe8-279bb6f1ac6d | -13.60606 | -48.0844 | 2025-09-28 04:06:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| afda1a80-ec8d-3960-a0c3-72f0cda6968a | -11.41736 | -44.9059 | 2025-09-28 04:06:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
 
 
 [Clique aqui para ver as próximas entradas](README42.md)
