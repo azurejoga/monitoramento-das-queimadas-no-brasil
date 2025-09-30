@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 801a0301-75f1-38d0-a537-3c28bb761ea1 | -13.6122 | -48.0787 | 2025-09-28 14:30:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 147.1 |
-| 6f7f89e9-e6c1-3ba6-b462-3a92fb19aded | -15.8879 | -46.2177 | 2025-09-28 14:30:00 | GOES-19 | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | 123.8 |
-| dc9c84e5-db83-3f89-9436-c4783329b057 | -9.3013 | -45.7082 | 2025-09-28 14:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 99.9 |
-| 8581b7f2-2cdd-38de-ba6d-a941ae6052d6 | -10.9137 | -45.7375 | 2025-09-28 14:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 206.2 |
-| 6cd9fe0b-ac12-3fe7-a5d3-c0467a72717b | -9.1102 | -45.8653 | 2025-09-28 14:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 59.1 |
-| 34080315-ede4-3e5f-a4cc-e274e473e4bd | -9.0874 | -47.6074 | 2025-09-28 14:30:00 | GOES-19 | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 71.3 |
-| 1028f1cc-10a5-3bab-96cd-a847768b7a32 | -5.7583 | -42.8447 | 2025-09-28 14:30:00 | GOES-19 | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 97.2 |
-| c93cee92-6046-3631-836c-3d458a9d9b0b | -3.2898 | -42.6918 | 2025-09-28 14:30:00 | GOES-19 | SANTANA DO MARANHÃO | MARANHÃO | Brasil | 2110237 | 21 | 33 | nan | nan | nan | Cerrado | 94.1 |
-| fb2678af-cc2c-3204-9e59-dc2baf5b89f7 | -6.6978 | -44.6003 | 2025-09-28 14:30:00 | GOES-19 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 79.9 |
-| b757a046-244e-3c0d-b8ac-6939fe629673 | -14.8263 | -45.5815 | 2025-09-28 14:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 115.4 |
-| e2699492-97dd-32c5-9215-d5ceaccd8704 | -11.4413 | -44.9998 | 2025-09-28 14:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 96.0 |
-| 79fc894b-640c-3295-b835-9d5e3dc18efd | -5.6223 | -43.3701 | 2025-09-28 14:30:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 101.4 |
-| d587f3a0-cd97-3351-8ff4-443afd489fd0 | -11.9986 | -47.0596 | 2025-09-28 14:30:00 | GOES-19 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 99.1 |
-| 66d7e50a-bd23-3028-b1d0-379910ae9880 | -11.9456 | -47.936 | 2025-09-28 14:30:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 187.8 |
-| 17bbafca-bd1f-3c87-baa6-8699034cadcd | -7.3849 | -47.0157 | 2025-09-28 14:30:00 | GOES-19 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 147.6 |
-| d6997184-c759-31af-8d70-dbd7eea6c8f2 | -11.3642 | -45.0339 | 2025-09-28 14:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 92.5 |
-| 3943149a-8317-36eb-ac10-18a21a5bc022 | -8.2856 | -45.4545 | 2025-09-28 14:30:00 | GOES-19 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 177.2 |
-| df1804f3-9868-3286-aee3-f51ec0963457 | -7.8634 | -44.5612 | 2025-09-28 14:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 173.9 |
-| c751f099-3d19-35cf-aa2b-75f984cdf791 | -9.3331 | -47.56 | 2025-09-28 14:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 65.0 |
-| 7ae28fd2-483f-3486-8c45-744eec3afa35 | -5.6462 | -44.9102 | 2025-09-28 14:30:00 | GOES-19 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 93.8 |
-| 73cbee76-0c10-3b06-b139-dd7d00f4fb5f | -6.6181 | -45.0631 | 2025-09-28 14:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 83.4 |
-| 27d28903-9910-37eb-a722-a8796cb8917a | -11.3842 | -44.9849 | 2025-09-28 14:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 96.7 |
-| 5e308b71-aa75-3470-bec9-1a313d7edc1e | -12.9547 | -45.1618 | 2025-09-28 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 172.8 |
-| 7f94e4f0-0523-3e6b-a181-1ad228953c4e | -5.3057 | -43.1599 | 2025-09-28 14:30:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 102.6 |
-| 2e78f1d2-5757-33a8-b59f-82c8f6e12741 | -10.8242 | -45.3841 | 2025-09-28 14:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 429.2 |
-| f66a4be1-eb0a-35e3-8e99-6aaf8be6ddf8 | -11.9794 | -47.0622 | 2025-09-28 14:30:00 | GOES-19 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 110.3 |
-| 499dd6cc-6626-3e7a-9533-067a4a484aca | -5.8885 | -45.0064 | 2025-09-28 14:30:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 152.4 |
-| 2811789c-f147-3766-a583-aa864255ec88 | -6.3154 | -43.4548 | 2025-09-28 14:30:00 | GOES-19 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 110.9 |
-| 0cd73d2d-13c8-3860-8b40-d06282b436f4 | -5.8272 | -45.5985 | 2025-09-28 14:30:00 | GOES-19 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 74.4 |
-| 10273796-4edd-343a-9192-f0c4d7a740e5 | -5.9076 | -42.9268 | 2025-09-28 14:30:00 | GOES-19 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 83.5 |
-| 6371dde6-ff0c-37d1-bf28-2c9375770be1 | -4.1574 | -44.2726 | 2025-09-28 14:30:00 | GOES-19 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 95.6 |
-| a8c22be2-b2cb-339a-9854-7c4cd50d1fb4 | -12.7637 | -50.4921 | 2025-09-28 14:30:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 79.8 |
-| b98aad94-f492-31bc-afe9-654da2787105 | -12.9354 | -45.1649 | 2025-09-28 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 93.0 |
-| a729a8bc-c307-3d57-8d1f-568cb14d812f | -14.885 | -45.5708 | 2025-09-28 14:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 138.6 |
-| 34488d15-200c-333c-a44c-c5761fe7338d | -6.6986 | -42.741 | 2025-09-28 14:30:00 | GOES-19 | FRANCISCO AYRES | PIAUÍ | Brasil | 2204105 | 22 | 33 | nan | nan | nan | Caatinga | 64.8 |
-| 29503221-7509-374c-8c97-02a28aec787f | -13.6069 | -47.3408 | 2025-09-28 14:30:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 73.0 |
-| 6ea3e7e8-1e63-3ea5-a5ef-74a8a29c28a6 | -5.17 | -43.7276 | 2025-09-28 14:30:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 111.4 |
-| 2e98f9c8-b252-3070-8765-3f4e520c2ca9 | -10.0373 | -48.5381 | 2025-09-28 14:30:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 64.8 |
-| 28d901b3-b9a1-3941-b5ad-af97b9aca718 | -9.2824 | -45.7104 | 2025-09-28 14:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| edf31423-c6f6-3487-8dbd-b35136856e67 | -5.6275 | -44.9115 | 2025-09-28 14:30:00 | GOES-19 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 93.8 |
-| 2fbdbae3-8df8-3124-93f5-b7b324c9117c | -4.1391 | -44.2277 | 2025-09-28 14:30:00 | GOES-19 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 86.3 |
-| b4961eb4-3c70-368c-83d1-4ab925652342 | -6.5611 | -45.1359 | 2025-09-28 14:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 140.6 |
-| 9881d99d-22a9-3fff-9e65-b4048ee4f193 | -9.9578 | -43.6222 | 2025-09-28 14:30:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 99.3 |
-| 988c659b-5de3-34c3-a67d-2c371d1e9a97 | -6.3 | -45.0205 | 2025-09-28 14:30:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 75.3 |
-| 2a82b53c-472c-39e1-8421-8afd63bf8334 | -9.4196 | -54.6767 | 2025-09-28 14:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 296.1 |
-| 9e29f795-94ed-3ed8-9b6f-d90b66b3357d | -9.1099 | -45.8879 | 2025-09-28 14:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 71.0 |
-| b3a0372e-f434-3f8b-bb0f-86f2ac0decc6 | -11.9044 | -44.7928 | 2025-09-28 14:30:00 | GOES-19 | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | 95.0 |
-| d8a883b0-0ec7-39d5-a48d-177586d2f7d9 | -5.1885 | -43.7495 | 2025-09-28 14:30:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 125.6 |
-| cf5eae01-573e-31b9-a3e5-ee8c27ad47c1 | -11.9644 | -47.9557 | 2025-09-28 14:30:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 170.1 |
-| 71d30d94-9c6d-3227-8870-a10807d03194 | -8.2859 | -45.4317 | 2025-09-28 14:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 63.0 |
-| 410d4236-4168-35d5-b236-1083bfeb4ef0 | -5.9041 | -43.3018 | 2025-09-28 14:30:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 92.1 |
-| 327546ee-67bf-3345-8e6d-52c23f5c5d6b | -5.3693 | -42.3077 | 2025-09-28 14:30:00 | GOES-19 | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 106.3 |
-| 6e63cacd-ce94-39c9-82c5-3625c0207113 | -5.7585 | -42.8211 | 2025-09-28 14:30:00 | GOES-19 | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 112.8 |
-| 854a1ebc-738b-3c7a-813c-780198d03817 | -7.2605 | -42.9939 | 2025-09-28 14:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 86.2 |
-| 34fcdc57-eca4-3689-9431-4c7f9bac9857 | -8.1611 | -46.4122 | 2025-09-28 14:30:00 | GOES-19 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 360.2 |
-| 7447bb16-bfa1-3225-87c6-c790f9b9f98c | -12.0218 | -47.9481 | 2025-09-28 14:30:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 74.4 |
-| 173367b1-ab12-39bf-b588-86a2c81675f9 | -4.4013 | -44.0755 | 2025-09-28 14:30:00 | GOES-19 | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 257.9 |
-| 896152e8-eb47-3bd8-b9f0-e893835585ba | -14.8845 | -45.5941 | 2025-09-28 14:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 100.8 |
-| 15ccaf55-e6d1-3adf-8725-cb89d3746ece | -9.4455 | -47.6144 | 2025-09-28 14:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 88.3 |
-| 125b78f9-63d8-3391-bbd6-39bf73522326 | -7.7555 | -45.7324 | 2025-09-28 14:30:00 | GOES-19 | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | 54.2 |
-| 1d6392b3-3a5f-3182-bd60-33c894cb19f0 | -14.5955 | -48.2386 | 2025-09-28 14:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 84.9 |
-| 2116dc56-a475-3134-be2a-c4b93216d792 | -12.9363 | -45.1184 | 2025-09-28 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 111.3 |
-| 7d0d93e6-303d-3cc7-b851-5779e85d93c4 | -8.2668 | -45.4564 | 2025-09-28 14:30:00 | GOES-19 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 151.3 |
-| c763eb33-6f5f-3882-8333-c0bda2f23f5b | -9.4009 | -54.6781 | 2025-09-28 14:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 182.1 |
-| 9bce7f70-f6ab-3e87-bd9d-741aae4cd269 | -5.8883 | -45.0291 | 2025-09-28 14:30:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 95.7 |
-| f323ae94-5f68-3e7d-a333-192969b3db01 | -10.0184 | -48.5401 | 2025-09-28 14:30:00 | GOES-19 | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | 82.4 |
-| 818e0018-a69d-39b2-9786-88aa760c1748 | -6.6192 | -44.9493 | 2025-09-28 14:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| fa07ba79-898e-3f18-bb14-d82293dc7511 | -5.9006 | -43.6744 | 2025-09-28 14:30:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 112.8 |
-| 9196a033-22f9-32dc-8f53-b5d641152d33 | -15.9076 | -46.2139 | 2025-09-28 14:30:00 | GOES-19 | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| 3b4745f4-9d75-36e9-9b9b-447142e6a1f1 | -13.7893 | -47.8957 | 2025-09-28 14:30:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 164.5 |
-| 9a8f9eeb-70a5-35e6-9fc4-ff61e4f882c9 | -5.7398 | -42.8226 | 2025-09-28 14:30:00 | GOES-19 | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 87.9 |
-| c9457454-6c8d-3d1e-892c-ca43d594b110 | -11.3654 | -44.9645 | 2025-09-28 14:30:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 159.5 |
-| 1bfd886a-bf7a-314c-ad72-f3b74de96f0d | -6.619 | -44.9721 | 2025-09-28 14:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 72.4 |
-| 240b2c43-fa70-3d0a-99d4-f96230484697 | -5.8187 | -44.4413 | 2025-09-28 14:30:00 | GOES-19 | JATOBÁ | MARANHÃO | Brasil | 2105450 | 21 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| d298ed52-d336-380c-ac85-616d634f1059 | -10.8051 | -45.3866 | 2025-09-28 14:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 169.8 |
-| d351d1a1-fa81-3e7b-87d1-751136cc5260 | -6.6178 | -45.0859 | 2025-09-28 14:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 110.5 |
-| 230f825c-25c4-3c7a-b712-8872f9339d7b | -11.4217 | -45.0257 | 2025-09-28 14:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 80.6 |
-| 7c99212c-7943-3545-88de-e5f9bea5c24a | -7.8634 | -44.5612 | 2025-09-28 14:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 117.6 |
-| 3d2f6a61-26f2-3ab5-8777-65342dfa77f0 | -11.9828 | -47.9976 | 2025-09-28 14:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 96.9 |
-| 55c4b1cc-13aa-36fe-a4c4-77c957a96fb5 | -5.2869 | -43.1613 | 2025-09-28 14:40:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 106.3 |
-| 0a1b08e5-da10-3edc-be47-5e4c6ce2e605 | -6.3154 | -43.4548 | 2025-09-28 14:40:00 | GOES-19 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 100.9 |
-| 1ffe5887-c214-35fd-942e-c7a4a0d5ed73 | -6.9954 | -44.8488 | 2025-09-28 14:40:00 | GOES-19 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 108.6 |
-| 92e1c61b-bca9-3bfe-991d-3ae5c88ff62f | -5.1885 | -43.7495 | 2025-09-28 14:40:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 165.2 |
-| e0d2d9ae-b0f7-33a9-abb0-23ab99d28038 | -6.619 | -44.9721 | 2025-09-28 14:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 66.9 |
-| 8b9867cf-fde2-38a0-8db4-d7efea47e554 | -5.7583 | -42.8447 | 2025-09-28 14:40:00 | GOES-19 | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 88.3 |
-| 9024973b-9543-3e26-b9b6-55cbc7969a23 | -6.6005 | -44.9509 | 2025-09-28 14:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 95.6 |
-| 16fecb6f-c931-3690-88f1-b940add957b4 | -13.7898 | -47.8733 | 2025-09-28 14:40:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 81.6 |
-| 3e641f6e-9bb5-3869-a706-702db4bb89f1 | -14.576 | -48.2417 | 2025-09-28 14:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 145.3 |
-| e8f48895-596a-35d3-b4de-dc177e0d7651 | -7.8163 | -47.0003 | 2025-09-28 14:40:00 | GOES-19 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 73.8 |
-| 5d27ea2a-17f5-32a7-bfd0-b8f1371837f5 | -13.6122 | -48.0787 | 2025-09-28 14:40:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 248.5 |
-| e9c87e12-efd1-3cc6-9f4b-470047fdee2e | -7.8823 | -44.5594 | 2025-09-28 14:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 162.0 |
-| 40337d11-5972-31b5-bd97-e1e263a19117 | -8.8407 | -47.7639 | 2025-09-28 14:40:00 | GOES-19 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 59.7 |
-| 9d57618b-f929-3abc-8053-0696479f033a | -11.3889 | -46.9847 | 2025-09-28 14:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
-| 6856ae2d-6e31-324a-a0c8-b8971937356d | -5.9006 | -43.6744 | 2025-09-28 14:40:00 | GOES-19 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 125.8 |
-| cecb6965-dc6f-3af6-a899-9627b4096a60 | -11.9456 | -47.936 | 2025-09-28 14:40:00 | GOES-19 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 194.4 |
-| cf42aba3-98b2-30ce-804c-178be9ab7af7 | -5.1712 | -48.4792 | 2025-09-28 14:40:00 | GOES-19 | SÃO PEDRO DA ÁGUA BRANCA | MARANHÃO | Brasil | 2111532 | 21 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| 0aacc93f-6b2b-32e6-b84f-6ce993b4b6c3 | -9.7643 | -47.7786 | 2025-09-28 14:40:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 82.0 |
-| 3f3efb02-8b05-31c2-a544-8ceb17728026 | -17.7338 | -46.7056 | 2025-09-28 14:40:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 98.7 |
-| a22cecd8-3357-3016-9e53-fbd4d62e83db | -11.3654 | -44.9645 | 2025-09-28 14:40:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 164.8 |
-| b984e0da-590b-3dc6-b75f-f9a4b87fe8ce | -8.2665 | -45.4791 | 2025-09-28 14:40:00 | GOES-19 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 67.7 |
+| 0e5cf71f-2282-3995-8a90-62ef04aba745 | -14.70891 | -48.1532 | 2025-09-30 06:16:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 15.9 |
+| 57f44e1b-be3b-3c46-8c9e-28a8593156fe | -14.51738 | -48.46758 | 2025-09-30 06:16:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 19.9 |
+| c88e67f8-0d5f-3c3b-8142-11aaf65a1f22 | -13.21364 | -47.30832 | 2025-09-30 06:16:00 | AQUA_M-M | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| 65ca2b04-bc9b-3356-8d6f-aedeec4d0d4d | 4.15513 | -60.01684 | 2025-09-30 06:16:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 003b6ad6-408f-32be-ae6e-437bb96844cd | 4.15424 | -60.01158 | 2025-09-30 06:16:00 | NOAA-21 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 23c13f5a-8254-3580-a92e-148e88cbd7c3 | -17.70022 | -46.65949 | 2025-09-30 06:18:00 | AQUA_M-M | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 18.6 |
+| 409efcce-4913-3651-b971-83bcc5598e48 | -18.21117 | -53.30258 | 2025-09-30 06:18:00 | AQUA_M-M | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| d151457a-d3d5-3abd-974f-235d56579b7a | -17.89845 | -57.5823 | 2025-09-30 06:18:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| eb6ffb3e-0d33-36ec-96bf-7081dbc86d49 | -17.38453 | -47.13333 | 2025-09-30 06:18:00 | AQUA_M-M | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 28.9 |
+| 89647afa-ff74-3c1c-8363-5ff68bd929ef | -15.88093 | -52.26799 | 2025-09-30 06:18:00 | AQUA_M-M | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| 745c97ee-f6fa-3448-966b-37eedf5d227c | -17.88132 | -57.62032 | 2025-09-30 06:18:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| d64e2119-a491-3db5-97ef-b5ae597ba477 | -18.18806 | -53.33665 | 2025-09-30 06:18:00 | AQUA_M-M | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| d4d009e8-3ccb-3702-aaa4-48f2e812c3be | -17.90878 | -57.58375 | 2025-09-30 06:18:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| a7f86f54-b037-37c5-8cbd-1474ba767d17 | -18.16523 | -53.29812 | 2025-09-30 06:18:00 | AQUA_M-M | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| ac565252-fb34-3938-9def-33d80ad28a65 | -18.1625 | -53.31657 | 2025-09-30 06:18:00 | AQUA_M-M | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 3a8b2eec-b36c-394d-a7a9-9cbb7e86bb39 | -18.20235 | -53.3011 | 2025-09-30 06:18:00 | AQUA_M-M | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 87d963bb-eb30-313d-8613-f4939ac71614 | -22.08147 | -55.97112 | 2025-09-30 06:20:00 | AQUA_M-M | PONTA PORÃ | MATO GROSSO DO SUL | Brasil | 5006606 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 35dc1787-9711-34bd-b606-f6251956538e | -22.08303 | -55.9612 | 2025-09-30 06:20:00 | AQUA_M-M | PONTA PORÃ | MATO GROSSO DO SUL | Brasil | 5006606 | 50 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 425d0599-b19f-3009-8b7f-ed3e2ed60cee | -7.0096 | -71.6211 | 2025-09-30 06:20:00 | NOAA-21 | IPIXUNA | AMAZONAS | Brasil | 1301803 | 13 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c94d4369-2bb2-3da0-8615-78f03ea99657 | -8.47884 | -72.79565 | 2025-09-30 06:20:00 | NOAA-21 | PORTO WALTER | ACRE | Brasil | 1200393 | 12 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a9cb770f-4520-3c46-a470-9ce16ab78812 | -6.93733 | -71.50151 | 2025-09-30 06:20:00 | NOAA-21 | IPIXUNA | AMAZONAS | Brasil | 1301803 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2fdf631a-c164-3872-8310-fb47d9274e28 | -6.941 | -71.50206 | 2025-09-30 06:20:00 | NOAA-21 | IPIXUNA | AMAZONAS | Brasil | 1301803 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| c0b7cd8f-9a6e-3c8f-be0a-f57f5bc97732 | -15.2598 | -56.7965 | 2025-09-30 07:00:00 | GOES-19 | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| 8733d095-c645-386f-b918-aebad1d79544 | -14.5141 | -48.4299 | 2025-09-30 07:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 63.2 |
+| 16542a15-73ee-3eb2-82e5-be8e37ca8d71 | -14.5137 | -48.4522 | 2025-09-30 07:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 88.7 |
+| 3af9e3ac-6f6a-3601-b144-0f86f3fc37b4 | -11.1546 | -54.126 | 2025-09-30 07:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 81.2 |
+| 3c58e0b1-bf80-3054-9b94-266c0c1e2bff | -14.5327 | -48.4715 | 2025-09-30 07:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| 766af1c9-9ca5-346b-97e2-087e31589d0e | -14.5522 | -48.4684 | 2025-09-30 07:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 65.5 |
+| 28c77bd7-9a89-3d81-bb27-9dc465bb3b7c | -14.5327 | -48.4715 | 2025-09-30 07:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 73.1 |
+| b6f30f04-3d8a-330f-ad4a-998808a0d5cd | -14.5137 | -48.4522 | 2025-09-30 07:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 75.4 |
+| 7c2efcfb-1803-3471-94a4-8b6122427f44 | -14.5517 | -48.4907 | 2025-09-30 07:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 61.1 |
+| 66c42613-ccb9-3edf-8da2-96161c0a2f14 | -11.1546 | -54.126 | 2025-09-30 07:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 79.6 |
+| 4b88c656-a6fd-319b-b9d3-0406dafc3213 | -14.5517 | -48.4907 | 2025-09-30 07:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 80.9 |
+| 5977114c-1c4c-3e3f-804c-3c0bbca32074 | -14.5522 | -48.4684 | 2025-09-30 07:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 78.4 |
+| 2a8a4cb3-889c-3bd6-ab79-0390a33895e3 | -14.5323 | -48.4938 | 2025-09-30 07:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 67.7 |
+| b1c9624a-c899-3cf1-90ea-70e0f9e159c2 | -11.1546 | -54.126 | 2025-09-30 07:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 88.6 |
+| 80351278-f17a-3048-a2f1-d49cae490e78 | -14.5137 | -48.4522 | 2025-09-30 07:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 69.3 |
+| 240266a7-4434-3550-9eb3-7b77233a8fd5 | -14.5141 | -48.4299 | 2025-09-30 07:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 57.9 |
+| 7423161d-e0dd-3484-af99-463c9f4cd141 | -14.5327 | -48.4715 | 2025-09-30 07:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 86.7 |
+| ac0ba99d-e7a9-35a1-950b-2af6017be75a | -14.2849 | -57.7045 | 2025-09-30 08:00:00 | GOES-19 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 55.5 |
+| 2ccc704b-f34a-3644-9a5a-b2ebb34b8a82 | -14.5327 | -48.4715 | 2025-09-30 08:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 97.9 |
+| e4bf1c46-57af-3d7b-90c5-a7989c668f51 | -11.1546 | -54.126 | 2025-09-30 08:00:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 78.5 |
+| 8c580995-af37-35c7-82c4-cd2d4977997e | -14.5137 | -48.4522 | 2025-09-30 08:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 69.0 |
+| eb93e939-58ab-3730-8ee7-d06c1974d0a0 | -14.2849 | -57.7045 | 2025-09-30 08:10:00 | GOES-19 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 57.1 |
+| 8947294c-700e-3b69-8ebc-625d553b5e2b | -14.5137 | -48.4522 | 2025-09-30 08:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 68.8 |
+| e3278cca-c30f-311b-a500-ddc33e7ed02c | -14.5133 | -48.4745 | 2025-09-30 08:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 58.4 |
+| 81973529-d5d9-35cd-b429-ebc38eb13563 | -14.5327 | -48.4715 | 2025-09-30 08:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 112.1 |
+| c7940038-2696-34c8-b72f-c2103a530d02 | -11.1546 | -54.126 | 2025-09-30 08:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 74.5 |
+| eda60ab1-840a-35ed-a7f8-8003ccdf47b3 | -14.5323 | -48.4938 | 2025-09-30 08:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 77.0 |
+| ed494d2a-5994-3e7e-9d43-4f48a7ff9f91 | -14.5327 | -48.4715 | 2025-09-30 08:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 146.9 |
+| e9ec5aa9-0034-39bd-a51f-bef0790d494b | -14.5137 | -48.4522 | 2025-09-30 08:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 62.5 |
+| d7af0549-a4a6-3813-a3f6-0a3b54b13737 | -14.5323 | -48.4938 | 2025-09-30 08:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| 9d516aee-9a11-3488-958e-f7ed6dbe4df5 | -14.2849 | -57.7045 | 2025-09-30 08:20:00 | GOES-19 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 63.0 |
+| 1e4fd4fa-d347-3cd0-bd5c-2d5524fc6c54 | -14.5133 | -48.4745 | 2025-09-30 08:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 62.7 |
+| c62e0247-65e4-3e59-8305-c93f0321f54a | -11.1546 | -54.126 | 2025-09-30 08:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 74.9 |
+| fa831899-21e6-3b0e-8d16-8bd93a63148b | -14.2849 | -57.7045 | 2025-09-30 08:30:00 | GOES-19 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 65.9 |
+| e1dffcbb-6423-3154-a857-35e4a5ee8597 | -11.1546 | -54.126 | 2025-09-30 08:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 72.6 |
+| 1def96cb-4812-359a-896b-5776f53d8a18 | -11.1546 | -54.126 | 2025-09-30 08:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 78.2 |
+| d34dcaee-9eea-374d-9bc2-a6fdba20308d | -14.5137 | -48.4522 | 2025-09-30 09:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 109.8 |
+| a44d7140-a734-3470-a31a-85ff6bc40a1f | -14.5327 | -48.4715 | 2025-09-30 09:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 128.8 |
+| 43a1d48a-b5e0-3f2d-b214-26b7f75193c6 | -14.5137 | -48.4522 | 2025-09-30 09:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 102.1 |
+| 67ce7a93-62dd-3fe8-a924-b1603c3ba8a9 | -14.5133 | -48.4745 | 2025-09-30 09:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 168.0 |
+| 72890e1c-7332-32fb-a1f7-443da76241b5 | -10.9582 | -46.5242 | 2025-09-30 10:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| 23639b84-958b-3f38-a5fb-3739b18a5935 | -12.2344 | -47.8086 | 2025-09-30 10:20:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 85.8 |
+| 8129cf3f-c5f9-3f26-8cda-faa4badce349 | -10.9582 | -46.5242 | 2025-09-30 10:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 130.9 |
+| e49e79c5-4cf6-325f-9fb7-e891dd1d291c | -12.2344 | -47.8086 | 2025-09-30 10:30:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 177.4 |
+| 86fbc912-81dc-3c32-82e8-ac6cd6cf765e | -14.5323 | -48.4938 | 2025-09-30 10:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 93.3 |
+| ffc7943b-d1ae-3620-99e5-e3f460270a26 | -11.7537 | -46.8461 | 2025-09-30 10:40:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 120.8 |
+| cf83b76b-29b5-3471-ae01-17e28ba52e13 | -12.2344 | -47.8086 | 2025-09-30 10:40:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 145.0 |
+| ed599b22-ab24-3d74-a022-4191d8921057 | -11.1753 | -47.2358 | 2025-09-30 10:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| 6d3fe5fa-3c50-3a3b-b1d9-c98270080b71 | -14.5327 | -48.4715 | 2025-09-30 10:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 93.3 |
+| cb2f166d-fb38-3e02-bbcb-9bc2a551dd36 | -14.5133 | -48.4745 | 2025-09-30 10:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 83.6 |
+| a37016d0-9710-3500-9422-8bc509931223 | -8.8732 | -46.6762 | 2025-09-30 11:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| 53b1dfe3-75f2-34b1-8754-18555c5ee4c5 | -14.5327 | -48.4715 | 2025-09-30 11:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 92.1 |
+| 9735bea6-b8a7-3ce6-b88c-492186beb704 | -14.6603 | -46.9663 | 2025-09-30 11:00:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 86.3 |
+| f2221fd6-8764-3b4b-9a80-fc9bb481483c | -10.9586 | -46.5016 | 2025-09-30 11:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 89.0 |
+| 406f47e3-6289-36d0-b4ab-ab0f2f480229 | -8.8732 | -46.6762 | 2025-09-30 11:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 79.8 |
+| 87737ae8-1384-34c4-a192-ec9472d9cd4f | -14.5327 | -48.4715 | 2025-09-30 11:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 91.5 |
+| 6fa0cb10-1942-388f-9e5b-c4dad84a61a4 | -14.6603 | -46.9663 | 2025-09-30 11:10:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 103.9 |
+| 2b3c2388-a306-3182-b985-9e7596f33c4c | -8.672 | -47.7144 | 2025-09-30 11:10:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| db80954a-5f75-3060-bfbb-59ef62d44d4c | -10.823 | -46.6538 | 2025-09-30 11:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 99.6 |
+| d91b92d5-1d31-3849-9c92-de4cf6d4b452 | -14.5323 | -48.4938 | 2025-09-30 11:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| 0a376925-bc91-3a9e-ac37-f91fa78c54be | -8.5407 | -44.6745 | 2025-09-30 11:20:00 | GOES-19 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 74.7 |
+| ebda7d43-3d1d-3e34-bc2f-50973276eb9d | -8.8732 | -46.6762 | 2025-09-30 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 102.1 |
+| 8f219b6b-bb6f-37a5-9059-b4d3cadefe38 | -14.6603 | -46.9663 | 2025-09-30 11:20:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 138.1 |
+| c9c0600e-c2c2-3178-b463-8490caa3ed6f | -8.8734 | -46.6539 | 2025-09-30 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 80.2 |
+| 0b689a77-9f35-30e4-8419-b8e89e00e9ba | -10.8227 | -46.6763 | 2025-09-30 11:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 100.4 |
+| 33f14444-9a22-3074-99fb-684b5ce1668f | -8.541 | -44.6515 | 2025-09-30 11:20:00 | GOES-19 | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 99.8 |
+| 591f5573-7932-3e78-8c0e-c47e05b14d8f | -8.8549 | -46.6335 | 2025-09-30 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 69.5 |
+| f782afde-7ced-33d9-a7ae-cf45c0dc2deb | -8.8546 | -46.6558 | 2025-09-30 11:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| 4238de70-05e6-302a-b1f8-f17b62342bd9 | -14.5141 | -48.4299 | 2025-09-30 11:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 84.7 |
+| 76cd085f-1f56-3c73-8ab0-0dbfa1090945 | -10.823 | -46.6538 | 2025-09-30 11:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 162.8 |
+| 7a42ac6a-3173-381c-bb61-040051e4bc77 | -10.8417 | -46.6739 | 2025-09-30 11:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 51864672-a80c-3fb0-aa23-8633f36aa8b9 | -10.823 | -46.6538 | 2025-09-30 11:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| 24a97448-8470-3a39-8379-7913eaf283f7 | -10.1045 | -47.7851 | 2025-09-30 11:30:00 | GOES-19 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 94.8 |
+| 773e5955-db20-35f5-aaa5-6bcb51676372 | -11.1546 | -54.126 | 2025-09-30 11:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 71.4 |
+| 64eea465-f6d4-3a7d-a133-1e4d36ce06de | -11.2138 | -47.2086 | 2025-09-30 11:30:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 72.1 |
+| c7a6c30f-7785-3822-a9e5-aa98a913e14f | -14.5141 | -48.4299 | 2025-09-30 11:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 95.6 |
+| df20a5a0-d942-3b9f-b0c9-5539cfa57f82 | -15.9273 | -46.2101 | 2025-09-30 11:30:00 | GOES-19 | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| fe120663-9b37-3907-a7f6-7ad0decfb8e9 | -12.6829 | -45.2746 | 2025-09-30 11:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 76.8 |
 
 
 [Clique aqui para ver as próximas entradas](README108.md)
