@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 370db04c-e413-3db1-a6c0-592bcc0ded88 | -5.9856 | -44.6118 | 2025-10-02 02:00:00 | GOES-19 | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 74.2 |
-| ba6dbefa-e38a-3271-81d3-1836d743c3f7 | -7.7752 | -42.539 | 2025-10-02 02:00:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 140.4 |
-| 354992c0-d815-3342-9d70-45461f80900d | -13.0119 | -45.1988 | 2025-10-02 02:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 51.3 |
-| 01503201-4a35-32aa-8c67-d56d64166c6b | -14.3119 | -45.9736 | 2025-10-02 02:10:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 104.9 |
-| 7ace3bc4-d99c-33ea-9438-5a2826a38286 | -13.1546 | -47.8345 | 2025-10-02 02:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 86.9 |
-| 810b7d47-d146-3f15-b5fc-8deb239ce8a8 | -7.7755 | -42.5152 | 2025-10-02 02:10:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 79.0 |
-| 2067f228-077c-378b-8446-1726af3dd1d1 | -11.0144 | -46.5844 | 2025-10-02 02:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 75.7 |
-| 67fcde50-8f41-38dc-8417-4242c62561b3 | -12.9024 | -46.9073 | 2025-10-02 02:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 64.3 |
-| 3581270a-cadd-34fb-8f84-a8ee69cc0246 | -13.3081 | -47.8565 | 2025-10-02 02:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 80.1 |
-| b8a54dbd-24db-347e-9866-c66212d36718 | -10.8424 | -46.6289 | 2025-10-02 02:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 60.7 |
-| 87996df5-3a55-3598-92d2-3779551399da | -10.8234 | -46.6313 | 2025-10-02 02:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| 66a67ece-cb5f-35f1-b224-22f88c0dd9e1 | -6.6955 | -48.7062 | 2025-10-02 02:10:00 | GOES-19 | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 109.1 |
-| aacd14b4-0fb8-360e-b751-0b482589b177 | -10.8237 | -46.6088 | 2025-10-02 02:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 60.5 |
-| 0a211838-2b2c-31ee-87d2-509beaa97724 | -5.986 | -44.5661 | 2025-10-02 02:10:00 | GOES-19 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 73.2 |
-| f5fb7b43-bd73-3694-83f5-c538ee08ea60 | -6.7213 | -44.1387 | 2025-10-02 02:10:00 | GOES-19 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 69.9 |
-| f8580630-cd47-307c-8bb6-50fa73994099 | -13.3085 | -47.8341 | 2025-10-02 02:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 70.2 |
-| 51219427-2747-3f82-a6a5-1292e6b053fa | -13.155 | -47.8121 | 2025-10-02 02:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 65.7 |
-| fe1af210-60e4-3a7b-8292-95f220a1735f | -13.1739 | -47.8317 | 2025-10-02 02:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 73.5 |
-| bad348bb-f4d8-3648-a9df-7ebc5ecd2918 | -5.9858 | -44.589 | 2025-10-02 02:10:00 | GOES-19 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| 50aec977-b1a3-33ca-88a6-edec485ee910 | -7.7563 | -42.541 | 2025-10-02 02:10:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 91.8 |
-| 128014b2-c24b-303c-950d-dab587a44b62 | -15.1839 | -43.625 | 2025-10-02 02:10:00 | GOES-19 | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 63.1 |
-| 683bb573-d46e-38cb-af96-3396c533b2df | -14.3114 | -45.9967 | 2025-10-02 02:10:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 130.6 |
-| 5bb8f405-ff47-3df9-8c13-c04dd070407a | -7.7752 | -42.539 | 2025-10-02 02:10:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 163.4 |
-| 8863c441-5bcc-3975-849f-79897d03baf7 | -15.2542 | -49.3104 | 2025-10-02 02:10:00 | GOES-19 | GOIANÉSIA | GOIÁS | Brasil | 5208608 | 52 | 33 | nan | nan | nan | Cerrado | 70.9 |
-| 8d070e5e-6610-3bc5-a483-2551535019a9 | -15.2738 | -49.3073 | 2025-10-02 02:10:00 | GOES-19 | GOIANÉSIA | GOIÁS | Brasil | 5208608 | 52 | 33 | nan | nan | nan | Cerrado | 91.5 |
-| 3d937435-f3ef-396b-bf45-5020188d0eaf | -9.9567 | -43.6927 | 2025-10-02 02:20:00 | GOES-19 | PILÃO ARCADO | BAHIA | Brasil | 2924405 | 29 | 33 | nan | nan | nan | Cerrado | 76.1 |
-| 1115ccba-20e7-398a-98a1-b35da7d5d5d6 | -7.7941 | -42.5369 | 2025-10-02 02:20:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 77.6 |
-| a51035bb-2565-3805-b1ab-b67320b2d0e7 | -10.8429 | -45.4044 | 2025-10-02 02:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 54.9 |
-| be9cf540-f18f-328d-96e9-9d05f23781cd | -7.7563 | -42.541 | 2025-10-02 02:20:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 128.3 |
-| 40c0894d-746a-31cf-bc13-23866c6e0d31 | -7.7752 | -42.539 | 2025-10-02 02:20:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 289.4 |
-| 80a3bda7-93e4-32ea-aef5-8de06416bd15 | -9.9365 | -43.7657 | 2025-10-02 02:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 210.2 |
-| eef7fbc5-514b-3733-88c3-a8fb6b8fed23 | -14.407 | -46.0722 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 67.5 |
-| 1156b692-0c6e-3c44-b514-db1d786d9076 | -10.862 | -45.4019 | 2025-10-02 02:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 58.0 |
-| cf24585c-128e-3097-af69-629b60e8d388 | -14.3114 | -45.9967 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 209.9 |
-| 3f9f46b6-5f2c-318b-b49d-27fb5a2a4a43 | -14.426 | -46.0919 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 94.5 |
-| a955d7e0-aab0-3a95-80da-e02ccd433c54 | -14.4255 | -46.115 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 208.5 |
-| aaaf6096-a498-3b69-8b09-ffd08212f24b | -9.9559 | -43.7397 | 2025-10-02 02:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 139.9 |
-| 4d0d2060-11e2-3884-aa2f-ac4af7553e33 | -14.425 | -46.1381 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 102.0 |
-| 5bb5f150-55b6-3045-b8ad-f4c328bf7498 | -10.8424 | -46.6289 | 2025-10-02 02:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 155.5 |
-| 39ef1dcb-df01-3582-9a0d-17c688f74417 | -6.6955 | -48.7062 | 2025-10-02 02:20:00 | GOES-19 | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 93.9 |
-| 0e7de0f3-eaf7-313b-8cf5-9218ca7f2b7a | -9.9372 | -43.7187 | 2025-10-02 02:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 186.1 |
-| 1d6c1b68-c631-364e-a769-84635d505f8c | -10.8433 | -45.3815 | 2025-10-02 02:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 121.9 |
-| 0e39f180-2625-3ea7-81ec-e2415c83f426 | -15.2738 | -49.3073 | 2025-10-02 02:20:00 | GOES-19 | GOIANÉSIA | GOIÁS | Brasil | 5208608 | 52 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| b3d36393-0131-37ce-b22a-bf357fced9c6 | -10.8237 | -46.6088 | 2025-10-02 02:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 69.0 |
-| a1ea0479-2a7c-3f6f-8291-7adfb4c007f3 | -10.8234 | -46.6313 | 2025-10-02 02:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 115.8 |
-| b9bf07ee-fa67-3e5b-b3f3-bac3b35ea0eb | -14.3119 | -45.9736 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 121.6 |
-| 65dc4e8d-4ae4-3bb7-95f3-56e5aea2c3b1 | -15.2542 | -49.3104 | 2025-10-02 02:20:00 | GOES-19 | GOIANÉSIA | GOIÁS | Brasil | 5208608 | 52 | 33 | nan | nan | nan | Cerrado | 67.1 |
-| b3dac825-cac4-354e-ac5a-6769f5412bb8 | -10.8428 | -46.6064 | 2025-10-02 02:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 65.6 |
-| a6a82835-7845-3c2b-a260-31160c95f4c9 | -9.9563 | -43.7162 | 2025-10-02 02:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 151.1 |
-| e9f3a910-b3f8-3faa-9656-956c669f9bd6 | -9.9556 | -43.7632 | 2025-10-02 02:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 79.0 |
-| bf586a8e-73f1-3777-b15f-46f3ea130b87 | -7.7749 | -42.5628 | 2025-10-02 02:20:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 98.9 |
-| 98e6a495-9610-31f4-a918-355bf0ce08a5 | -14.4065 | -46.0953 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 146.4 |
-| 63645919-e394-35c1-a25c-61e0ef9f430d | -9.9369 | -43.7422 | 2025-10-02 02:20:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 274.8 |
-| 1de26f69-1eb1-3d4a-86b5-1f188964bf27 | -7.7755 | -42.5152 | 2025-10-02 02:20:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 111.3 |
-| 4d45a01b-dc91-3e87-b91f-158886e04926 | -14.406 | -46.1184 | 2025-10-02 02:20:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 105.3 |
-| 275e7ab0-268a-30fe-a5e3-1440d5af0443 | -10.8234 | -46.6313 | 2025-10-02 02:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 93.9 |
-| 00f4491d-4354-3ecf-86d7-8f02a3a2bcbe | -9.9372 | -43.7187 | 2025-10-02 02:30:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 144.3 |
-| ab53b25c-98c8-3fa7-8169-e55cfdcb661b | -16.0426 | -50.8522 | 2025-10-02 02:30:00 | GOES-19 | FAZENDA NOVA | GOIÁS | Brasil | 5207600 | 52 | 33 | nan | nan | nan | Cerrado | 41.2 |
-| e3d5dd4f-101d-337a-bb59-3eac50cd31d6 | -7.7752 | -42.539 | 2025-10-02 02:30:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 199.6 |
-| 7b280fc3-49cf-3715-8df3-1dd9e1662738 | -14.426 | -46.0919 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 82.1 |
-| 33881511-cfed-3764-b805-57d75f36e9f8 | -10.862 | -45.4019 | 2025-10-02 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 103.1 |
-| 591ca400-0fa8-3cba-98ba-53163c9dfc56 | -17.8614 | -57.623 | 2025-10-02 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 59.2 |
-| 42550f66-5d4e-367f-94de-98726ccca6df | -14.425 | -46.1381 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 67.7 |
-| fc7cfede-87f1-3f5f-ba9c-5bf4a02e86c5 | -7.7941 | -42.5369 | 2025-10-02 02:30:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 71.9 |
-| a4c22742-044a-3497-b814-4b8067d5f100 | -14.406 | -46.1184 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| d2d08ff6-4b57-3c18-842c-1e2ecee2cbdb | -14.3119 | -45.9736 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 75.2 |
-| 7748a607-c435-3c8a-b3ee-c613faeb2ee5 | -10.8424 | -46.6289 | 2025-10-02 02:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 73.5 |
-| da54c3ab-ffc3-32ac-9406-644a9169168a | -10.8429 | -45.4044 | 2025-10-02 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| 58eca72f-dd98-3f88-8c7d-dd6bc1a65e17 | -13.1739 | -47.8317 | 2025-10-02 02:30:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 73.4 |
-| 12e59578-d17e-3f95-9db3-d8bef586c075 | -9.9563 | -43.7162 | 2025-10-02 02:30:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 93.5 |
-| e4046973-cf63-3ae0-a1bf-bd01e8861427 | -6.6953 | -48.7277 | 2025-10-02 02:30:00 | GOES-19 | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 38.3 |
-| 1bcf8c85-124e-3ae2-a10e-d66c8f3cf93c | -14.3114 | -45.9967 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 108.0 |
-| 9db25067-4095-367e-907d-81ff2963c9fa | -9.9559 | -43.7397 | 2025-10-02 02:30:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 92.0 |
-| 033a907d-a6ae-3a2c-852b-e8801df74b7f | -10.8616 | -45.4248 | 2025-10-02 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 84.3 |
-| 47665d3b-05fe-3599-98b9-2ec839cb3d54 | -14.4255 | -46.115 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 154.9 |
-| d1afe0ed-0c5c-309d-8b85-68e4d2cc38eb | -9.9365 | -43.7657 | 2025-10-02 02:30:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 227.6 |
-| 7172499c-e28f-3c2f-ac20-4ab7c581eb92 | -6.6955 | -48.7062 | 2025-10-02 02:30:00 | GOES-19 | ARAGOMINAS | TOCANTINS | Brasil | 1701309 | 17 | 33 | nan | nan | nan | Amazônia | 59.9 |
-| d61e1a21-0c70-32d3-b136-84ac2877caf1 | -16.0217 | -50.9207 | 2025-10-02 02:30:00 | GOES-19 | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 69.3 |
-| 566ef377-9d50-3524-b423-9b0c845e437d | -17.8812 | -57.6206 | 2025-10-02 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.8 |
-| acd1b461-7920-35fa-ab87-f7c772781e79 | -14.4065 | -46.0953 | 2025-10-02 02:30:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| 765a05ce-0476-376c-9888-79ac21ffd833 | -7.7563 | -42.541 | 2025-10-02 02:30:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 108.4 |
-| 9554d616-1b56-34d5-9795-5f0e627f1045 | -10.8433 | -45.3815 | 2025-10-02 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| 129eaa8a-8529-3152-b615-e0b6383868f7 | -6.7213 | -44.1387 | 2025-10-02 02:30:00 | GOES-19 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 67.5 |
-| 521ea32a-bb36-3f4c-a814-d5d038ebc633 | -9.9369 | -43.7422 | 2025-10-02 02:30:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 226.5 |
-| e5f9e8a0-8ef6-3151-943e-278f0aff6354 | -14.4255 | -46.115 | 2025-10-02 02:40:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 154.8 |
-| 6f8d018f-a7c5-3f57-b702-14b5a156b156 | -7.7755 | -42.5152 | 2025-10-02 02:40:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 76.6 |
-| d2a708fa-4ffa-3341-bb32-4c859550ba9a | -9.9365 | -43.7657 | 2025-10-02 02:40:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 277.0 |
-| f059f257-682d-3208-845d-ce7e50ce4958 | -9.9372 | -43.7187 | 2025-10-02 02:40:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 157.9 |
-| 313c0a93-9825-39f7-b876-a5a2aac4a5cf | -6.7213 | -44.1387 | 2025-10-02 02:40:00 | GOES-19 | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| c35a7fe3-d458-37d1-953e-fd025fd012c1 | -10.8234 | -46.6313 | 2025-10-02 02:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 120.7 |
-| 8bafad39-1e13-3261-8588-324d5205d8b3 | -14.3114 | -45.9967 | 2025-10-02 02:40:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 107.7 |
-| fd4eb8c7-3887-319b-91d9-16ec61197729 | -10.8237 | -46.6088 | 2025-10-02 02:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 61.5 |
-| 9837d2a6-0c80-35b5-b56f-0854d1499d75 | -16.0217 | -50.9207 | 2025-10-02 02:40:00 | GOES-19 | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 80.9 |
-| e99b5c51-ad31-354d-be86-e51e1a99faed | -7.7752 | -42.539 | 2025-10-02 02:40:00 | GOES-19 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 172.0 |
-| fa8f29b2-5111-375b-a66c-78ea11882ab4 | -14.4065 | -46.0953 | 2025-10-02 02:40:00 | GOES-19 | MAMBAÍ | GOIÁS | Brasil | 5212709 | 52 | 33 | nan | nan | nan | Cerrado | 82.0 |
-| e9e9c61f-d79c-39b8-9e66-f7f1f020d565 | -9.9361 | -43.7891 | 2025-10-02 02:40:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 85.1 |
-| 2c1dc189-8334-316c-98e3-2e474038df7f | -11.1746 | -47.2805 | 2025-10-02 02:40:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 71.1 |
-| 8c75b8a3-1de1-373b-a926-061ea4aa8d05 | -9.9559 | -43.7397 | 2025-10-02 02:40:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 82.6 |
-| 2c4228a3-0794-3caa-8b05-1c8c991d93de | -13.1739 | -47.8317 | 2025-10-02 02:40:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 89.5 |
-| 42e7048b-110b-3adf-ba30-ec5d61a8f874 | -9.9369 | -43.7422 | 2025-10-02 02:40:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 263.1 |
+| 9a454fd1-802d-3149-9f8e-6184313b4782 | -13.7764 | -47.5617 | 2025-10-03 02:40:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 94.3 |
+| e4bd3027-618a-352e-a2a1-29d5239c0546 | -7.7746 | -42.5865 | 2025-10-03 02:40:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 117.9 |
+| 162840d5-596d-3d25-8995-6ab2b23ffb3f | -13.1345 | -47.882 | 2025-10-03 02:40:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| 4d1fb593-8211-3ba0-84fe-6c1443c3f312 | -9.062 | -46.6565 | 2025-10-03 02:40:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 48.9 |
+| da228735-90b2-3db6-880c-32fda32acbc4 | -13.9771 | -48.1793 | 2025-10-03 02:40:00 | GOES-19 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 71.4 |
+| f033e920-ffb6-3d64-bfb9-8218f91568dd | -6.3444 | -44.3086 | 2025-10-03 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| 12a9c718-549d-35c5-b60f-d1398a31af0e | -18.2167 | -53.3607 | 2025-10-03 02:40:00 | GOES-19 | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 63.9 |
+| eb2d7572-378b-3fb4-b62e-03cf20003130 | -6.0605 | -44.6061 | 2025-10-03 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 71.2 |
+| 65a05689-7088-3748-937f-2be47e7930aa | -11.144 | -43.4082 | 2025-10-03 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 74.6 |
+| 3f8630af-8a47-3083-b58f-c1e70421d6cb | -7.756 | -42.5648 | 2025-10-03 02:40:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 76.1 |
+| a0148717-3b7c-3f8c-a090-0ab8025383cc | -6.0416 | -44.6304 | 2025-10-03 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 105.7 |
+| 812ce1e9-a2e9-3991-8fec-8c8a3ecc648e | -6.0418 | -44.6076 | 2025-10-03 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 68.2 |
+| e93ef753-98fe-3d97-aca0-493112f56895 | -5.3568 | -43.761 | 2025-10-03 02:40:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| 49465f03-83f3-338f-b1ac-f9ddc45bbb52 | -9.9182 | -43.7212 | 2025-10-03 02:40:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 96.1 |
+| 3a0fd212-9d2f-3f3f-8696-c72484dbef34 | -9.9175 | -50.4881 | 2025-10-03 02:40:00 | GOES-19 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 35.0 |
+| 4031316b-33a4-3f54-8bb0-bcef60461a7d | -8.6138 | -54.976 | 2025-10-03 02:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 43.3 |
+| d34b4183-0ec8-351b-991b-0ebcbe92fe28 | -12.6135 | -46.9499 | 2025-10-03 02:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 71.6 |
+| 1b537889-2528-3606-8c14-0bc9e12c3a0e | -12.6131 | -46.9725 | 2025-10-03 02:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 131.8 |
+| 7391338c-2e04-3137-8c0b-db4c44253f76 | -14.9342 | -46.8965 | 2025-10-03 02:40:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 86.0 |
+| 96d078b4-ecae-3ee5-be62-f63748783ebc | -13.1345 | -47.882 | 2025-10-03 02:50:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 110.7 |
+| 6a91ea61-e4ad-32ee-98e8-cedb20c0c4a2 | -18.2167 | -53.3607 | 2025-10-03 02:50:00 | GOES-19 | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 61.0 |
+| 75bbc64d-e1cf-3be4-9b36-411c5346f23f | -6.0603 | -44.629 | 2025-10-03 02:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 70.9 |
+| 7f41c6a0-2769-3737-aa6e-a3cf8b363f4c | -5.3568 | -43.761 | 2025-10-03 02:50:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 55.5 |
+| 71cb85fd-a744-3427-9f71-dcdf1141ac29 | -6.0416 | -44.6304 | 2025-10-03 02:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 104.3 |
+| c645a3ca-bfc1-3961-ba1a-85caa90f5a68 | -9.9182 | -43.7212 | 2025-10-03 02:50:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 83.0 |
+| 52e2389a-8838-3da4-bce5-cbdf0c4ae4bf | -10.6024 | -48.7157 | 2025-10-03 02:50:00 | GOES-19 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 49.4 |
+| b0bda931-ff6c-3687-88ea-3f0261ca94e1 | -13.1152 | -47.8848 | 2025-10-03 02:50:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
+| c12ffcab-6fe8-3433-805a-0415477be6cf | -6.0418 | -44.6076 | 2025-10-03 02:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| 76b2a5ae-4f05-3bf3-baca-d90da3255293 | -12.6323 | -46.9697 | 2025-10-03 02:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 81.6 |
+| cf17276c-3005-3977-a9e9-1c05db6212f3 | -14.9342 | -46.8965 | 2025-10-03 02:50:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 82.9 |
+| aa8fb3ae-7c40-323e-98b2-02095d4c755c | -13.776 | -47.5843 | 2025-10-03 02:50:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 69.2 |
+| 9f27fc30-749c-3f4d-8464-82558da01500 | -5.338 | -43.7623 | 2025-10-03 02:50:00 | GOES-19 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| ca217dbd-299f-3e40-b150-cd931a4a173f | -7.7746 | -42.5865 | 2025-10-03 02:50:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 115.9 |
+| 933362a3-2d81-38e7-b092-53ffef69cc2e | -7.7496 | -46.2496 | 2025-10-03 02:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 119.3 |
+| c68481e9-b74a-3a0d-8aae-07b6fc5ea405 | -8.6138 | -54.976 | 2025-10-03 02:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 40.7 |
+| 7a1a8d2c-3d15-3378-a5ba-90a50b626a11 | -12.6135 | -46.9499 | 2025-10-03 02:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 63.6 |
+| 97b77a58-f612-37db-b6cc-5759dcd3e8a1 | -13.7764 | -47.5617 | 2025-10-03 02:50:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| 62a146f0-1e2c-339f-9df2-b84c239ff6d8 | -12.6131 | -46.9725 | 2025-10-03 02:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 118.0 |
+| bd21c40a-4563-3334-a7f9-2debb9d20866 | -9.9172 | -50.5094 | 2025-10-03 02:50:00 | GOES-19 | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 42.1 |
+| e7477c86-a079-35e3-abf5-1a8f89380bf8 | -12.6131 | -46.9725 | 2025-10-03 03:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 109.9 |
+| 8084821b-7f70-35e3-999c-6e222e6e30df | -18.2167 | -53.3607 | 2025-10-03 03:00:00 | GOES-19 | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 57.8 |
+| ac971686-29da-301a-bf43-53cb59a9e49d | -6.0418 | -44.6076 | 2025-10-03 03:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 64861010-4869-3d8f-94f8-89162d0c3965 | -7.7684 | -46.2479 | 2025-10-03 03:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 132.8 |
+| 26fdaef4-f635-3576-aba7-7d422ed4f206 | -14.9538 | -46.8931 | 2025-10-03 03:00:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| eefd37fb-aed5-317d-b7ff-856e0f8cb907 | -7.7494 | -46.272 | 2025-10-03 03:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| 166215f7-c704-3870-8bfc-510c92eabd98 | -7.756 | -42.5648 | 2025-10-03 03:00:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 76.3 |
+| 052ce463-7a4c-3ea1-b6b2-dff124fd09cb | -13.7764 | -47.5617 | 2025-10-03 03:00:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 125.7 |
+| 6f2f1734-a8b4-32f8-8514-d5ca6ab24f44 | -7.7499 | -46.2272 | 2025-10-03 03:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 81.4 |
+| f47b0035-07b8-3d32-b750-836f6670c27c | -8.6138 | -54.976 | 2025-10-03 03:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 38.3 |
+| 6829f86c-99f8-352c-b3de-6b0f0adb026b | -13.7769 | -47.5392 | 2025-10-03 03:00:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 74.4 |
+| 750ea425-42d5-3689-9de2-ab4ddae3ba93 | -7.7746 | -42.5865 | 2025-10-03 03:00:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 117.8 |
+| be92991f-b10f-3818-8efc-26baaf84b8dc | -13.776 | -47.5843 | 2025-10-03 03:00:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 144.1 |
+| 308ce915-dc4e-3a98-a92c-d46b357c2548 | -6.0416 | -44.6304 | 2025-10-03 03:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 90.4 |
+| 5bbe6eda-1a2a-362a-b9c6-72fb06314e50 | -13.1345 | -47.882 | 2025-10-03 03:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 125.4 |
+| 5a15e0df-94f3-3861-ae02-70afa8c44434 | -7.7496 | -46.2496 | 2025-10-03 03:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 214.7 |
+| dc4a9747-8b07-3c3b-a2e8-8f44ec7ee73d | -14.9342 | -46.8965 | 2025-10-03 03:00:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| cad4c9f3-303a-3020-b066-4fbff5fb79b9 | -9.9182 | -43.7212 | 2025-10-03 03:00:00 | GOES-19 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 78.3 |
+| eac2c08a-ec20-3167-80fa-a35cebdad5a2 | -12.6319 | -46.9923 | 2025-10-03 03:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 73.6 |
+| fb8d6298-7de3-3115-9961-7c8b280adba7 | -6.0603 | -44.629 | 2025-10-03 03:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| 2935e000-2a6d-3d74-af9e-2ceb6b641891 | -12.6323 | -46.9697 | 2025-10-03 03:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 117.6 |
+| f19ec385-de45-3d0c-9294-146067193834 | -6.0605 | -44.6061 | 2025-10-03 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 71.8 |
+| 66cf58a3-6d08-3082-a499-a8e72d090cc3 | -4.669 | -45.8066 | 2025-10-03 03:10:00 | GOES-19 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 766.2 |
+| d099b95f-395d-3661-af63-5a8762ab9783 | -13.7666 | -48.0777 | 2025-10-03 03:10:00 | GOES-19 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 80.7 |
+| 0bba7245-cf90-3aac-a74c-6ebf32610d12 | -6.0416 | -44.6304 | 2025-10-03 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 92.5 |
+| 2640a188-04ec-3261-959e-af3d60e41618 | -4.6504 | -45.8077 | 2025-10-03 03:10:00 | GOES-19 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 355.2 |
+| 3e31e741-63f6-3541-9ded-036553131f71 | -14.8855 | -48.3035 | 2025-10-03 03:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 72.8 |
+| 6bc9075a-cb2c-3dd2-bb50-9ed6213f9042 | -13.776 | -47.5843 | 2025-10-03 03:10:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 194.1 |
+| c5b929a1-460e-37ec-acaf-de3598effa6b | -8.798 | -46.6616 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 59.2 |
+| c8aa4d0e-55bb-3295-930d-33e35bd09fb5 | -11.9163 | -46.2817 | 2025-10-03 03:10:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| cbb6d4fa-66bd-3bdf-b52e-255456c2e2e3 | -4.6505 | -45.7853 | 2025-10-03 03:10:00 | GOES-19 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 313.7 |
+| 5a937653-66e0-3b5e-9059-e4c84245b7b2 | -13.9771 | -48.1793 | 2025-10-03 03:10:00 | GOES-19 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 66.1 |
+| f03082ea-5a75-3bce-9b38-a07dd2a75a6f | -12.6323 | -46.9697 | 2025-10-03 03:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 114.4 |
+| 32a91046-9b5c-37ab-9509-275291e712bf | -4.6878 | -45.7832 | 2025-10-03 03:10:00 | GOES-19 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 57.0 |
+| 0147da0c-cdc3-3b03-9ba7-bc2bd67ad06a | -13.1345 | -47.882 | 2025-10-03 03:10:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 90.7 |
+| 7e2b6101-3406-3cd9-bfc9-80f316ce77e6 | -8.8168 | -46.6597 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 48.4 |
+| e570f08e-dafc-374f-ba31-ce84d3a8200c | -12.6131 | -46.9725 | 2025-10-03 03:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 121.5 |
+| 282e3752-7d1d-3ee3-8f7e-a423d5ed5e6d | -7.7499 | -46.2272 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 110.6 |
+| 9e8f5e28-a67f-3c66-91a1-bdc91ec920a4 | -7.7494 | -46.272 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 187.7 |
+| 4532514c-3e32-363e-882d-a324aa002825 | -6.0418 | -44.6076 | 2025-10-03 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 68.4 |
+| 5dc46eb6-b689-3f64-87f8-3d85c06aaacd | -12.6127 | -46.9951 | 2025-10-03 03:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 78.0 |
+| fbb5b924-e67a-31e9-8988-4bce7afd8e1c | -13.7764 | -47.5617 | 2025-10-03 03:10:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 127.2 |
+| e3e89f58-34df-3698-b900-902317848bc4 | -10.8026 | -46.7462 | 2025-10-03 03:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 39.5 |
+| cdd2ea10-fd77-3905-a735-ecbfaf0f2f6d | -4.6692 | -45.7842 | 2025-10-03 03:10:00 | GOES-19 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 637.3 |
+| 050c4931-a90e-324f-b369-2749d540ae36 | -13.9775 | -48.157 | 2025-10-03 03:10:00 | GOES-19 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 90.5 |
+| a0e1a2de-ac64-329d-9be0-06e834c8fcf4 | -18.2167 | -53.3607 | 2025-10-03 03:10:00 | GOES-19 | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 55.2 |
+| 2debb456-e046-3633-bdb5-bcf02603993b | -13.7566 | -47.5873 | 2025-10-03 03:10:00 | GOES-19 | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 70.4 |
+| 60c82a20-fae7-363b-a1cc-b3275862b5f6 | -7.7682 | -46.2703 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 62.5 |
+| 0838cbe6-f59f-3d60-8caf-c59603b32d53 | -10.8216 | -46.7438 | 2025-10-03 03:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 26.7 |
+| 95f89079-3776-3104-ae11-a8eee69f88be | -14.9342 | -46.8965 | 2025-10-03 03:10:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 109.9 |
+| 07f51f04-6396-37da-924b-819dcf0f5d3a | -6.0603 | -44.629 | 2025-10-03 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.1 |
+| 3f740c5a-53fd-385c-808c-788bf9fb2089 | -7.7684 | -46.2479 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 157.5 |
+| 198f12b8-6ef3-36d6-8748-4abd6673150d | -8.7977 | -46.684 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 39.2 |
+| 5a1acd0f-94b0-384b-bff7-be5dee7e3b59 | -7.7749 | -42.5628 | 2025-10-03 03:10:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 84.6 |
+| 7cc16b41-581d-3de7-8ce0-462575fd1e78 | -7.7746 | -42.5865 | 2025-10-03 03:10:00 | GOES-19 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 115.3 |
+| e93c43ee-c4a0-35ae-8d22-9763d739a67f | -12.6135 | -46.9499 | 2025-10-03 03:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 66.0 |
+| 4bb419c3-7d2d-3cdb-9a16-c8ddb3f69b16 | -8.8165 | -46.682 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 31.4 |
+| f7657b5c-2bf0-3251-9a00-cdb6a1f5de93 | -4.6877 | -45.8056 | 2025-10-03 03:10:00 | GOES-19 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 64.1 |
+| 24c466ef-a962-3305-8325-a2e7045081a8 | -8.6138 | -54.976 | 2025-10-03 03:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 36.8 |
+| b1ca1364-a033-3cbb-b482-c224a0848c22 | -7.7496 | -46.2496 | 2025-10-03 03:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 510.9 |
+| 4b75e84d-d240-38da-a836-f58b42921df7 | -13.9775 | -48.157 | 2025-10-03 03:20:00 | GOES-19 | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 73.9 |
 
 
 [Clique aqui para ver as próximas entradas](README15.md)
