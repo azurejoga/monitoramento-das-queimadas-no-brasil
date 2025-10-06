@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7e3992e4-39f2-3d22-99db-0c19698d21cb | -6.32241 | -41.62882 | 2025-10-05 04:44:00 | NOAA-21 | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 77490ed1-30ec-35d0-87b6-11663bd0d6d5 | -6.06545 | -41.24005 | 2025-10-05 04:44:00 | NOAA-21 | ASSUNÇÃO DO PIAUÍ | PIAUÍ | Brasil | 2201051 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| b271061a-772e-31e2-bd85-0491b5ddca99 | -5.76595 | -43.98878 | 2025-10-05 04:44:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| c3225a22-7a48-3ef1-ad7c-bbdfc228c9f7 | -6.151 | -44.60575 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 748abc69-8f6e-382e-9b8c-7ab9164d2d2a | -5.77199 | -45.78148 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 1e078284-d683-380c-86e1-e38901b1479a | -5.77166 | -45.75559 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 173a2278-d57d-3cd0-81b0-078524b1a220 | -3.81229 | -53.83929 | 2025-10-05 04:44:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 77575b4f-633b-3e92-99ff-8de90f8b3df1 | -6.37045 | -42.88183 | 2025-10-05 04:44:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 42a799b2-d8c6-33cd-8f18-7e335532afea | -6.37508 | -42.88515 | 2025-10-05 04:44:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 51c8a16a-4d1b-34b7-bc8e-a7c186d480ab | -6.37233 | -43.29602 | 2025-10-05 04:44:00 | NOAA-21 | BARÃO DE GRAJAÚ | MARANHÃO | Brasil | 2101509 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 5eba562e-a624-3c31-966c-ee8cf7ae6183 | -5.21436 | -46.18452 | 2025-10-05 04:44:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 7efbed3b-cf38-3ec6-b3f3-902ea9553141 | -3.6474 | -48.32093 | 2025-10-05 04:44:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 48405433-9901-384d-8784-503788ec5790 | -5.35853 | -45.95025 | 2025-10-05 04:44:00 | NOAA-21 | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| d6a9a483-77d9-3b53-bdbc-b1ed7826e592 | -5.7991 | -42.72136 | 2025-10-05 04:44:00 | NOAA-21 | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 1bf4132e-5d5d-347e-aabb-9c8d2e9c37df | -6.36207 | -43.91692 | 2025-10-05 04:44:00 | NOAA-21 | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| d79fd33a-2aa3-3d7f-bcd0-e08400e2c182 | -4.80528 | -48.34003 | 2025-10-05 04:44:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9f638365-8e1b-3fe6-b13e-4ec1bc6f3a86 | -6.40062 | -44.77572 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 109cf574-0755-366b-ab75-86874831d3f7 | -5.77202 | -45.86498 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 2eafe9d7-fb1e-376b-b80f-5355496742b8 | -4.44558 | -43.23924 | 2025-10-05 04:44:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 45c362fa-a1a0-3085-9a03-1fe10691e3d5 | -3.44002 | -43.33862 | 2025-10-05 04:44:00 | NOAA-21 | URBANO SANTOS | MARANHÃO | Brasil | 2112605 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 01b4b16a-6b47-309d-a1a6-f743692bcaaa | -5.78945 | -42.9287 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| 59cf7512-3b46-3c5b-a3c7-e266ff7522c3 | -5.84591 | -45.81736 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| becc77a8-e089-3341-8834-7e7064f51789 | -5.84747 | -42.88658 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| d9a8d5e5-f4aa-3811-9d46-883fe8315f28 | -5.97622 | -44.12604 | 2025-10-05 04:44:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 6eac95f7-1b91-3557-98c7-980147683407 | -2.90254 | -48.07486 | 2025-10-05 04:44:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b052f839-d928-3e5f-bd5f-d0a7ed3db408 | -6.67584 | -42.78505 | 2025-10-05 04:44:00 | NOAA-21 | FRANCISCO AYRES | PIAUÍ | Brasil | 2204105 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 1993e507-839b-3a8f-9246-bffc9b96b3ef | -4.26713 | -46.74905 | 2025-10-05 04:44:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 394eb5c8-738d-3543-ad0e-6b8793e2cd31 | -6.14479 | -44.64888 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 2e1eaeff-1859-3f17-a7ef-5c979c7499c2 | -5.85368 | -42.80648 | 2025-10-05 04:44:00 | NOAA-21 | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 2bb4e9c9-daa0-3ec2-8889-7fa5146d9bed | 0.44529 | -50.80169 | 2025-10-05 04:44:00 | NOAA-21 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f50e2750-64e4-38e0-aec4-ad85b109c233 | -5.91259 | -42.53402 | 2025-10-05 04:44:00 | NOAA-21 | OLHO D'ÁGUA DO PIAUÍ | PIAUÍ | Brasil | 2207108 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| 27b9ce26-249a-309a-9c7a-762f8ec41ca9 | -6.18829 | -42.71992 | 2025-10-05 04:44:00 | NOAA-21 | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 8d3abf41-c3f9-39ca-8ad7-cb76d6bf9077 | -5.05149 | -47.67097 | 2025-10-05 04:44:00 | NOAA-21 | CIDELÂNDIA | MARANHÃO | Brasil | 2103257 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 3b4d5c12-024e-3277-9070-1c16f483cf08 | -3.83791 | -51.33516 | 2025-10-05 04:44:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| fca14cc9-0da6-3775-92aa-4ac541c91d10 | -4.13694 | -47.65714 | 2025-10-05 04:44:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 3de68566-2882-3044-bca0-2baaa190205e | -6.70588 | -42.15808 | 2025-10-05 04:44:00 | NOAA-21 | TANQUE DO PIAUÍ | PIAUÍ | Brasil | 2210979 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 078a7ab9-1026-3dc2-b710-3483eacf65e6 | -6.4407 | -44.155 | 2025-10-05 04:44:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 0d59172b-4ff2-363f-85a5-941959f8f3b6 | -5.64212 | -43.90417 | 2025-10-05 04:44:00 | NOAA-21 | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| f5220b35-379b-3711-bd64-24e354a038f2 | -5.38005 | -45.69876 | 2025-10-05 04:44:00 | NOAA-21 | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| eeeea1b7-9ed3-3a83-ac3c-2b0aafd9fd40 | -4.22641 | -49.78689 | 2025-10-05 04:44:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 91e967f8-47bf-3ab7-9913-e114fad12130 | -3.77375 | -51.93896 | 2025-10-05 04:44:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 7742bbad-aecd-3d1d-bf5d-7cf8f521bd2f | -5.81729 | -45.95763 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 8999a3e9-aeb9-33c6-923c-934b32647962 | -5.78865 | -42.93419 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| f6d2dc33-1a12-30c7-b4f0-89789eaae127 | -2.68413 | -48.39636 | 2025-10-05 04:44:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| b6daed9f-3f1e-3b89-8da8-59bb1acc234b | -4.2284 | -46.75235 | 2025-10-05 04:44:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 34e9b9e6-23c5-38b3-9077-0ad3739721b7 | -5.34655 | -45.29777 | 2025-10-05 04:44:00 | NOAA-21 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 950c3c02-c05b-34f2-ac5f-e58d24aa72df | -2.14545 | -53.63643 | 2025-10-05 04:44:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| b5a1336a-a15d-3341-b038-d553736672cf | -5.8549 | -42.79781 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 576b0b66-42d1-308d-91ac-0ec7618189ea | -6.40196 | -43.60229 | 2025-10-05 04:44:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| a415ee81-39a4-37b6-8489-66b86110600c | -6.29555 | -44.0542 | 2025-10-05 04:44:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| f4d5baa6-b994-3d1e-877e-0f79a9c59918 | -5.76482 | -45.80202 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 302f6532-df5a-3b71-8242-19fbe5df4e0c | -0.90656 | -47.54567 | 2025-10-05 04:44:00 | NOAA-21 | MARACANÃ | PARÁ | Brasil | 1504307 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d5b6a4b5-ec82-3c90-952b-356a384ade3f | -5.79847 | -45.77061 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 9402f998-d385-38c0-b284-1a7a38cb4658 | -6.25856 | -45.35664 | 2025-10-05 04:44:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 7850647f-477a-33ea-ae19-8fd7cd70eb7a | -3.81295 | -53.83509 | 2025-10-05 04:44:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f0a0fd9d-968e-379a-bc89-45f0a600c9ae | -2.69208 | -48.39007 | 2025-10-05 04:44:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| ec15a61f-1479-32da-a02b-57d4d5c39330 | -6.37468 | -42.88806 | 2025-10-05 04:44:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 248cd2a1-377b-3a6a-9714-e8430e27aef2 | -6.40927 | -43.04941 | 2025-10-05 04:44:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 6ee85965-34fa-3b00-8c84-6a4e98a38fa4 | -4.63514 | -43.18628 | 2025-10-05 04:44:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 40.5 |
-| e3aedaba-eac7-33e4-ab76-3fad7c6d73d8 | -4.06869 | -48.95921 | 2025-10-05 04:44:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| b32cf102-918e-3ec4-b1c5-8d12590b5e6b | -6.25913 | -45.35273 | 2025-10-05 04:44:00 | NOAA-21 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 9da1ab17-70ea-3477-962a-f09f6d2fcc77 | -4.26906 | -46.74678 | 2025-10-05 04:44:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 3437348e-41e1-3149-970e-1f4e7bb9bedd | -5.91345 | -42.52796 | 2025-10-05 04:44:00 | NOAA-21 | OLHO D'ÁGUA DO PIAUÍ | PIAUÍ | Brasil | 2207108 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 080a29d8-2bb5-3ad5-aadd-1b9ea323b547 | -6.45847 | -43.44532 | 2025-10-05 04:44:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 4451e4e3-2970-3af3-9988-e0cb921ca22a | -5.66744 | -42.74614 | 2025-10-05 04:44:00 | NOAA-21 | MIGUEL LEÃO | PIAUÍ | Brasil | 2206308 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| f0d4eca1-cd5b-383a-997a-d76514357f8f | -6.35285 | -43.91507 | 2025-10-05 04:44:00 | NOAA-21 | PARAIBANO | MARANHÃO | Brasil | 2107704 | 21 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 459e4a0d-9351-3609-ba5c-4072327e02bc | -6.14728 | -44.66277 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| dea57553-f981-361d-9481-ea30e90ee7b1 | -5.78451 | -42.92801 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 9.8 |
-| a1ed082a-a648-3ec0-9809-7965c5697519 | -6.52697 | -43.37497 | 2025-10-05 04:44:00 | NOAA-21 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 22c08ccb-f3ba-383e-8e5e-87c66d5ba2da | -5.64882 | -43.92135 | 2025-10-05 04:44:00 | NOAA-21 | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| a32daac4-e55d-316d-bea7-75c83d4e8edd | -6.6592 | -41.59405 | 2025-10-05 04:44:00 | NOAA-21 | INHUMA | PIAUÍ | Brasil | 2204709 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 6b8051ea-1fd0-35a0-85b9-52107d498bbb | -4.25993 | -46.77091 | 2025-10-05 04:44:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b5789fe5-f3a2-3089-bdd2-3ebfebe3d60b | -4.26316 | -48.26084 | 2025-10-05 04:44:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c14ae638-b5d1-34c1-8add-f4511ae6300c | -5.91302 | -42.53098 | 2025-10-05 04:44:00 | NOAA-21 | OLHO D'ÁGUA DO PIAUÍ | PIAUÍ | Brasil | 2207108 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| 199a35e0-e79c-3214-b8f3-ad5ccedc590a | -6.15859 | -44.64666 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 4cf6524d-dbcf-3604-bcab-4c7c02cd39b5 | -6.15047 | -44.67175 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 45.7 |
-| 01a68722-4291-3081-b272-841376fa488b | -6.27962 | -44.03612 | 2025-10-05 04:44:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| b1c5ebe7-0678-355c-86d0-14d6d43a1475 | -2.68073 | -48.39584 | 2025-10-05 04:44:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8753cfec-4402-3489-804c-238c4852dca5 | -6.37232 | -44.30997 | 2025-10-05 04:44:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 5fae22e3-461e-32cf-bcf5-a2c1e49d71e2 | -3.67045 | -41.75726 | 2025-10-05 04:44:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 68b18d7f-1b99-3f10-a207-7c5a53091492 | -3.77903 | -43.36569 | 2025-10-05 04:44:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 62865fde-af74-3026-b7be-4c58f2bcae86 | -6.26218 | -42.45222 | 2025-10-05 04:44:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| e5347f36-01cf-37b3-91df-33397a06e575 | -5.6446 | -43.91928 | 2025-10-05 04:44:00 | NOAA-21 | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 23.6 |
-| 2cc65bc0-5b99-3d56-bff5-247bd79c0b76 | -6.01901 | -44.0221 | 2025-10-05 04:44:00 | NOAA-21 | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| be76706b-c92f-3e38-8405-8aefacc0ac66 | -5.23052 | -42.89678 | 2025-10-05 04:44:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Caatinga | 4.1 |
-| dbefb401-521b-3986-90a6-46a031bb9e8f | -3.04257 | -51.47856 | 2025-10-05 04:44:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| b88a4234-db31-3bf7-9d5c-e09451b1ec04 | -5.89031 | -42.91641 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 17.4 |
-| bf43bb52-e12e-3b67-8406-5664a4df3ac6 | -5.7722 | -45.7519 | 2025-10-05 04:44:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4a493e50-81f9-3e94-9a18-0a7233619b69 | -5.46212 | -51.00874 | 2025-10-05 04:44:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 53af2f51-3950-3749-8258-968d6f6df04a | -5.78044 | -42.93347 | 2025-10-05 04:44:00 | NOAA-21 | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 4ea12866-cd7f-36b4-8b09-cc241e1ad935 | -2.89894 | -50.72695 | 2025-10-05 04:44:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 57e1d2b5-8fc5-3fc3-93ba-85b67e761e68 | -5.65075 | -43.20361 | 2025-10-05 04:44:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 03d7a519-f2fb-3ef2-a25c-eaa166607bfa | -0.90943 | -47.55 | 2025-10-05 04:44:00 | NOAA-21 | MARACANÃ | PARÁ | Brasil | 1504307 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| c778a256-7813-3b31-8d72-251fe7d6138d | -3.09367 | -47.01881 | 2025-10-05 04:44:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d72fa1a8-c414-3fa0-85dd-46c44bbc8473 | -5.88891 | -43.70928 | 2025-10-05 04:44:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| 4dc4141f-777b-3ae9-a1e1-fda6e77e37aa | -4.6344 | -43.19138 | 2025-10-05 04:44:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| b1d712fe-4603-311d-b3a2-03a904a8b85d | -6.63811 | -42.79705 | 2025-10-05 04:44:00 | NOAA-21 | FRANCISCO AYRES | PIAUÍ | Brasil | 2204105 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 28ec60e0-06a1-38ae-891a-118c8482c34c | -2.89456 | -50.73332 | 2025-10-05 04:44:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f3737738-1948-3b40-8a18-9fa77f6b9a7e | -6.08147 | -43.48199 | 2025-10-05 04:44:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| de271009-fbd4-3571-ae21-f39d5f3662f6 | -4.22704 | -46.76132 | 2025-10-05 04:44:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 5b5d83b1-11b5-3649-bb8e-3c2cc194142e | -17.85781 | -57.59506 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 6ce5c88d-553a-376d-8fb9-2b1c1484aa45 | -17.92536 | -57.6114 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 79341f36-4129-3714-a33b-f4b34a01f29a | -17.85747 | -57.63504 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| 6fac6df5-e58d-3180-aa19-fdad4b322652 | -18.00119 | -57.59637 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| 8a863a6c-e1dc-3cee-96c8-9c07aac78b5d | -17.96485 | -57.55465 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| 663ed116-a787-35dd-8a7e-b2851ef93938 | -17.95786 | -57.59689 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 6bc63c75-8992-3681-99d9-b96e4dd8da79 | -17.95881 | -57.59965 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 0e17ad42-533d-3382-b30a-99ccb0f6f0cf | -17.95819 | -57.60429 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| fa8fdcd4-34fc-392d-83bc-361c17836466 | -17.93035 | -57.60283 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 5aecf319-7530-316e-88a9-a991f7928eaf | -17.85805 | -57.63074 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| 9efa9e91-8559-3c3a-8eb5-da7fe1d49e2f | -17.88609 | -57.64804 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 876e6458-d77e-37b8-bbb9-a20f855445da | -17.87552 | -57.64197 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| f0262eb1-7075-3864-999f-6572349098c7 | -17.86805 | -57.58483 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 12.9 |
+| b6b73d40-e42b-3572-b9e0-29199e84bd02 | -17.99058 | -57.53371 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 60.3 |
+| cc1c2b9f-fd7b-3d32-8e37-3d7010c2f318 | -22.36774 | -50.02573 | 2025-10-06 05:21:00 | NOAA-20 | MARÍLIA | SÃO PAULO | Brasil | 3529005 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| c3f769fa-89d0-3ec3-96ad-05ea47d02019 | -17.97288 | -57.54399 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 5b6922dd-879e-3b57-94a7-c11de2408a67 | -17.85315 | -57.63894 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 2eab4a93-1730-3b33-b15d-414ee16c0401 | -17.95942 | -57.59504 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| b84642c8-2d1b-322e-9b2f-c277a879060d | -17.9047 | -57.65087 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 2e92c82c-af4b-3fc2-a605-1f73e317f80f | -17.97734 | -57.53947 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.1 |
+| 220f7eda-7e1f-3917-bfbd-c14af7224cc2 | -21.70177 | -50.08286 | 2025-10-06 05:21:00 | NOAA-20 | GETULINA | SÃO PAULO | Brasil | 3517000 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| 41419ef6-be80-32d3-ab52-5e57b92f1e88 | -17.96338 | -57.61192 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
+| ea5c2aa1-ac0c-37aa-8ba9-5f3313546a9b | -17.96316 | -57.5956 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| b7eb30a6-3789-3501-9982-01d99bf56119 | -17.96816 | -57.58676 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| e0a7850c-1c88-3868-b8df-4d5f89ead377 | -17.96794 | -57.5794 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| da510883-67c8-37d7-86c7-2b9807084f63 | -17.9766 | -57.5447 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| a62242ad-d7c9-3244-965c-640b39496dee | -17.85658 | -57.60387 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
+| c458f2b6-a90d-34fa-ad59-94ab67063ec6 | -17.96748 | -57.56339 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| fd98983e-3839-3045-a49b-44eeb1f1be15 | -17.87553 | -57.58586 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| c68266d2-0369-30f1-9915-5cb087a9ed0c | -17.94096 | -57.60874 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 091b6180-8811-3726-897a-5772504dbcb3 | -17.97863 | -57.53724 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.8 |
+| 488f3b65-0ec4-31d0-8789-a59d5fdce198 | -17.99432 | -57.53434 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 60.3 |
+| 9f2168c4-e483-33c3-97b3-e109b61ae9c1 | -17.97689 | -57.57858 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| c357ee7d-1da3-3058-9f10-d663e094ebb0 | -17.85815 | -57.60175 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
+| bda47e4d-7359-3155-a641-10731b5626f4 | -17.98613 | -57.53836 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 23.4 |
+| 4c9f590a-c4d3-3f9b-baa3-4e32a78def6b | -17.96533 | -57.598 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 3b3f622f-384b-39e1-a05a-710086ab0b44 | -17.95283 | -57.60563 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 30db4b24-dfa4-32a3-83a4-9898ad0159d4 | -17.99228 | -57.54953 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| f0f88479-9113-3067-9995-1991e6bd41dd | -18.00556 | -57.59224 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| 8dd6d90f-e570-30fd-a612-cb0b1da57b94 | -17.87925 | -57.64249 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 7064dc06-3527-3877-857e-3c1c09f14491 | -17.96599 | -57.59334 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 31cc740f-c452-3280-9f1c-d4c7a421e4b2 | -17.92472 | -57.61598 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 155879e5-5660-3bcb-ac63-6e64ed00ba04 | -17.99977 | -57.55063 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| 007e5eef-f7dc-3b14-b676-a20bcdcabc32 | -17.88981 | -57.6486 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| a9dad5aa-7aca-3b9c-a33b-4e2257e846ec | -17.97934 | -57.53195 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.8 |
+| 25d692c4-a1d3-3264-9c23-c375163a4021 | -17.97119 | -57.53571 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 8b95cc95-17e6-3e43-8f8e-7442025f711a | -17.96861 | -57.55505 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
+| ad838e5c-3111-32b9-bb89-9d9e9e9393b3 | -17.86094 | -57.59992 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 56b0ada6-b4ca-3256-acd9-fe84825bdf26 | -17.92974 | -57.60729 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| 49f6f61f-0d1e-31ca-8f8a-701bed28f34c | -17.96814 | -57.61528 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| a0095dde-5832-3200-88f7-4bd9cc307f61 | -17.84819 | -57.63643 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 7fd6c295-5995-3c37-9e39-dc07b55da369 | -17.86367 | -57.58908 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.1 |
+| 186b54f5-bc24-3a0f-8b42-45507a62fae7 | -18.00042 | -57.54578 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| d38aa80b-4d90-3e38-ae77-a19fa4e5ea9a | -17.98987 | -57.53896 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 60.3 |
+| 1ca6fe51-dd45-3b6b-ac12-a7832466972b | -17.9178 | -57.61099 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| b1289a45-3166-3f5e-9356-b41113712757 | -17.87434 | -57.59459 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| 365dfa2e-d739-3ff2-add3-c28bfc7c9c88 | -17.9617 | -57.54195 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 5545530e-9b24-3c6b-a54f-76b49ad2f821 | -17.96617 | -57.53735 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| b94b4df5-1429-3eb9-a722-344889b1b8a3 | -17.96753 | -57.59143 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 84144bf1-148c-34be-abea-8f7a35f0af96 | -22.29181 | -49.90855 | 2025-10-06 05:21:00 | NOAA-20 | MARÍLIA | SÃO PAULO | Brasil | 3529005 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| d786f0a8-a214-305c-a744-af24c05f143d | -17.95722 | -57.60151 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 715a403e-b952-3f9c-8cba-7132314138fa | -17.98934 | -57.59937 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 369901be-f7bd-3ca2-a339-67bbe01c8cb2 | -17.85934 | -57.59294 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
+| dc299653-46c9-3daf-a3b1-51dabf3ebc27 | -17.96664 | -57.58867 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| d523bf75-6669-3921-934a-47fe437a5989 | -17.96627 | -57.57239 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 7513b892-79e6-3aca-bb16-c030fe408fb2 | -17.8767 | -57.63336 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| bea6e937-9746-3b85-8854-b5734d6f6071 | -17.97315 | -57.57803 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 8c432227-cc02-348e-b12d-60c87edbee55 | -17.95756 | -57.60897 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 804dc9be-b091-3358-911d-1df4033bfce9 | -17.97162 | -57.55304 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| dd045df1-0a2f-333e-b717-e0db144b63a0 | -17.97294 | -57.55121 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 6853c705-a4b6-3d93-9e63-3dc4d4638d66 | -17.97363 | -57.5387 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.1 |
+| ee634ae8-a0d5-3539-b6ed-45737de223d0 | -17.87493 | -57.59026 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| 8c0d4220-ac37-3ffe-9e59-b135a570ce3d | -17.99992 | -57.60569 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| aaef1b2a-2d30-3c10-a19f-07c80ecfab38 | -17.94787 | -57.58644 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.4 |
+| 73a70d6a-05ca-3b99-a0f4-691427618b79 | -17.96842 | -57.60315 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 6ee44832-4d61-36a8-a4b2-fdebc46ae591 | -17.96923 | -57.57021 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 6b95f01d-d453-3a5d-bd68-636a7f46d389 | -17.96095 | -57.60207 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| ed34e97b-d42c-3053-ac5c-4354e813fe48 | -17.96312 | -57.56745 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| 0b09ced5-c22c-3a5d-b03e-0502a91fcdf9 | -17.91718 | -57.61548 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 20d604e9-1092-3925-8a28-57f99e0008ce | -17.84562 | -57.6385 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 67c29a9f-c7f4-3bef-b256-75dcdbb51dae | -17.98249 | -57.59362 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.6 |
+| bd5ee63e-c070-3298-a2ea-b04dfa0d027e | -17.99805 | -57.53505 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.1 |
+| 65e94276-2cb5-399f-a8d6-fcabb925d4bc | -17.94032 | -57.61337 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
+| fe3e0382-2162-3f21-9eb9-3ce3d803a2ff | -17.87061 | -57.59408 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 8a869f9d-075e-3cff-af24-d7086547358e | -17.84938 | -57.63874 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 4a031266-d0a6-345b-80dc-878a07255736 | -17.93658 | -57.61284 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| ca9d55ca-a230-3259-9953-c687fab40a2d | -17.97421 | -57.54179 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.7 |
+| 6a0da153-8f41-30cb-859f-19c3d6109114 | -17.98046 | -57.55214 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| bba00853-7129-318f-b7d3-04b0a2ed2b9c | -17.99928 | -57.61037 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 056562ed-3dab-3a64-aea6-157beb662add | -18.00301 | -57.61093 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 69036e5e-fe0a-39d3-aa34-e90ff47613bd | -22.07631 | -54.12987 | 2025-10-06 05:21:00 | NOAA-20 | DEODÁPOLIS | MATO GROSSO DO SUL | Brasil | 5003454 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
+| b84a4262-9de7-32bd-a746-32e01043947a | -17.9775 | -57.60237 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| bd9838b5-db02-36ef-afe3-018e40652097 | -17.97237 | -57.55548 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 6f98f63e-d0f8-3155-ae16-b53a26b8ea2a | -17.97812 | -57.59771 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| a295abd9-4fa8-3fba-8032-a90f86c42219 | -17.86684 | -57.59381 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 01ce85ba-81a7-3461-b009-efbcf4ad7712 | -17.92657 | -57.60257 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| f8dd7396-5c2a-30ce-83b4-3a687aca2689 | -17.95964 | -57.6114 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| 441ae3ec-f7a2-3e04-9c26-6bc8d81ebb15 | -17.85688 | -57.63941 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 312d0fa9-449f-3bbf-8893-4a1847a970ed | -17.86743 | -57.5894 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 12.9 |
+| 8dbf138c-629e-3d0b-b736-5e033f073ff7 | -17.98186 | -57.59826 | 2025-10-06 05:21:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
 
 
 [Clique aqui para ver as próximas entradas](README76.md)
