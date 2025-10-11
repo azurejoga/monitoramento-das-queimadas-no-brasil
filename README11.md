@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 97ded8e0-cf49-3bf8-9045-78794488152f | -17.9029 | -57.4947 | 2025-10-10 03:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 51.6 |
-| 5d4f0aca-b05c-3021-83bc-3ff667bf4087 | -17.9369 | -45.0388 | 2025-10-10 03:40:00 | GOES-19 | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 85.1 |
-| ce6c70e0-b360-30aa-99c9-ce601ba826b1 | -18.6497 | -43.9301 | 2025-10-10 03:40:00 | GOES-19 | SANTANA DE PIRAPAMA | MINAS GERAIS | Brasil | 3158508 | 31 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| 53ebca98-a55f-3267-b16e-16cc57b07017 | -4.8595 | -42.7688 | 2025-10-10 03:40:00 | GOES-19 | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| 33ad43d8-4537-348f-873e-c40398a9883d | -17.9026 | -57.5153 | 2025-10-10 03:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 60.9 |
-| 124bd636-4f9f-3630-93fa-15e2b04fb10a | -10.1707 | -44.5959 | 2025-10-10 03:40:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 121.2 |
-| a2bf37a1-84b2-3ed2-af46-98a098ee5fc7 | -8.20838 | -43.37617 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 16741f52-6611-376d-85a4-d835a98d2473 | -7.25851 | -44.09877 | 2025-10-10 03:40:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 725990cb-797c-31e3-8ca1-1fd40c3a8ca5 | -7.73758 | -42.41542 | 2025-10-10 03:40:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 77a2f643-47b6-30e2-b885-5bb4ab77f56d | -5.33756 | -45.57425 | 2025-10-10 03:40:00 | NPP-375D | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 404d85d1-0228-3467-83e0-ec03694cb77d | -7.14566 | -42.19815 | 2025-10-10 03:40:00 | NPP-375D | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 93fb0fc8-d67b-356d-a501-50ba8145d125 | -12.63038 | -45.05835 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| 1f2cd7a4-6b45-3641-94d0-976d66327e8d | -7.71297 | -42.37738 | 2025-10-10 03:40:00 | NPP-375D | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 4d0a7f4d-dd5f-380d-ad11-2442b3d05808 | -7.42468 | -42.98807 | 2025-10-10 03:40:00 | NPP-375D | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| ee8abcad-6eb3-3567-9e2f-68925eeaa183 | -7.77475 | -44.04334 | 2025-10-10 03:40:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 7ccd47ac-bbcf-3563-ac06-9f16ea16b52d | -7.41771 | -45.15817 | 2025-10-10 03:40:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 8fdf8909-6c48-3c7a-afa2-bfa254860fa1 | -7.45118 | -37.33062 | 2025-10-10 03:40:00 | NPP-375D | SÃO JOSÉ DO EGITO | PERNAMBUCO | Brasil | 2613602 | 26 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| b5f408d9-e36d-35f2-b71a-a74afa8462ea | -8.15991 | -43.32489 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| f8e876f3-b520-3e97-94b1-a0239facddd9 | -10.16012 | -44.59351 | 2025-10-10 03:40:00 | NPP-375D | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 0ffd3942-2285-389a-bc3f-ce44deed55f1 | -10.16783 | -44.5836 | 2025-10-10 03:40:00 | NPP-375D | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 2a4235c0-076b-3ee2-8b5f-545e0c8b46c0 | -13.0584 | -43.8418 | 2025-10-10 03:40:00 | NPP-375D | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| f06a0b9d-9b66-39e0-9aa5-818e3a4299a2 | -8.50944 | -46.18695 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| bd722cc8-09a1-3b48-8e18-748dac5854b7 | -10.16084 | -44.5897 | 2025-10-10 03:40:00 | NPP-375D | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 19d2499e-cb1f-3b18-83a5-c4c0be1fb565 | -8.20256 | -43.34742 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| dbf9641c-c6dd-32f1-bef0-e835202a3cda | -7.26279 | -44.91076 | 2025-10-10 03:40:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 31d5c946-38f1-39ec-b269-fe7a5dff2b58 | -8.50844 | -46.19226 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| bab8f2f4-6ea0-34e1-86ce-d9f8c808edd8 | -6.81803 | -42.80304 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 14454879-011f-385a-9291-266b4c3e3b7b | -13.05899 | -43.83879 | 2025-10-10 03:40:00 | NPP-375D | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 804d78cd-6df8-30b7-8c46-88972c18d4d8 | -12.23046 | -43.78968 | 2025-10-10 03:40:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 800070ee-0a3f-341b-94fd-bdbf8b9e2b5a | -7.77424 | -42.41599 | 2025-10-10 03:40:00 | NPP-375D | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| a217bfa0-43cc-3ac1-80aa-e0c771c91794 | -8.20777 | -43.3795 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 27fad21c-7a79-3989-9de9-39f337b1e013 | -6.98803 | -41.93096 | 2025-10-10 03:40:00 | NPP-375D | SÃO JOÃO DA VARJOTA | PIAUÍ | Brasil | 2209955 | 22 | 33 | nan | nan | nan | Caatinga | 3.3 |
-| 848d2d51-96c7-334f-867e-b5dc3190ab9f | -8.49276 | -46.20516 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| afffae5c-83fc-36c6-aec8-d5eaa95a2944 | -8.51142 | -46.14888 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| d1110da0-3735-3533-85fe-47337f156f97 | -11.46826 | -41.89313 | 2025-10-10 03:40:00 | NPP-375D | LAPÃO | BAHIA | Brasil | 2919157 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| aa23a446-4ba0-3986-97ed-0b25da151d33 | -7.66381 | -42.58076 | 2025-10-10 03:40:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 628c9c7b-2d9e-38e6-a642-f252e23d7912 | -9.30439 | -40.23076 | 2025-10-10 03:40:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 755c8a48-edb7-3a44-a173-cdab7b7d4373 | -8.51664 | -46.19005 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| e3459842-f933-3588-bb67-de49551b831a | -10.16094 | -44.5585 | 2025-10-10 03:40:00 | NPP-375D | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 61cb5ad4-d688-3975-bcb6-a7e943e8d6c1 | -8.20194 | -43.35076 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| b3c38b2a-b274-3b67-b147-5d012091ac0c | -11.77744 | -45.04083 | 2025-10-10 03:40:00 | NPP-375D | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| f678b0a3-903e-3f29-9196-35ae79c247ea | -7.79969 | -44.19698 | 2025-10-10 03:40:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| cd83e805-3daf-32b5-8565-c9920c6ada15 | -7.77826 | -44.05613 | 2025-10-10 03:40:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e0b5cec6-4116-3f01-b1e6-e0b3b488666b | -8.84216 | -46.06416 | 2025-10-10 03:40:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 051b1e49-43f4-3ff3-a2ad-595e415f4f39 | -5.97898 | -45.91987 | 2025-10-10 03:40:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| da1dc73f-95d3-3d07-a26a-4d439d107681 | -8.50916 | -46.19441 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 11b43577-54b2-37dd-b189-a0257ca06ef4 | -10.93781 | -42.85181 | 2025-10-10 03:40:00 | NPP-375D | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 5.7 |
-| b6f88d97-d9be-3ebd-84bb-3075ecad44ce | -7.40446 | -45.92791 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| eaf10434-d4a2-3526-8092-88163d39bf3f | -12.43751 | -45.78175 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1be8e476-16ab-3af7-8f4c-d074fd164226 | -11.0949 | -41.05593 | 2025-10-10 03:40:00 | NPP-375D | VÁRZEA NOVA | BAHIA | Brasil | 2933158 | 29 | 33 | nan | nan | nan | Caatinga | 5.4 |
-| 64322d35-230a-34d4-bd2c-c6ffbd1a5880 | -8.51343 | -46.13047 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| b0b1fffd-1299-39ca-a1a4-c22727e0afc4 | -6.74046 | -42.85051 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 25e64681-89e4-3fc7-93b5-f4c58d6e357e | -12.62406 | -45.06114 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| d0bbe204-83d9-3f13-940f-6193c1e65930 | -12.92688 | -45.05733 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c334dd83-53bf-3f21-8e10-5f63b03a07bd | -8.19906 | -43.33629 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 7.6 |
-| 1cde4e30-a411-39a2-bb9e-f589ba0eb19d | -7.57505 | -44.38508 | 2025-10-10 03:40:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| e1e8ee0a-fbfb-3cab-bff5-362b13b70755 | -7.31936 | -42.94286 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 391e1b79-6b89-377f-a78f-502e11e0eb21 | -8.51483 | -46.19349 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| e6146b9f-4428-3324-9fda-f29c0480906f | -12.62178 | -45.07264 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 6a902f27-e1b7-391d-b34e-17a586e6cc85 | -5.74358 | -43.37935 | 2025-10-10 03:40:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 26521255-a5c7-383e-9603-86c6e0300c50 | -7.53657 | -44.3036 | 2025-10-10 03:40:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 79971795-471d-3d08-84c6-a918bec23504 | -6.73987 | -42.85392 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 10db684f-0067-3e4d-91a4-4d4b1f9c7c39 | -7.26346 | -44.10415 | 2025-10-10 03:40:00 | NPP-375D | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6d8f94ce-1254-381d-a91d-38bad0c35017 | -7.76457 | -42.4113 | 2025-10-10 03:40:00 | NPP-375D | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 8a7b33f8-69be-3316-ac65-4cd1b87b383a | -8.17948 | -43.32219 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 9a3185ff-02cb-3e82-be29-cd6f15c71e01 | -7.77899 | -44.05212 | 2025-10-10 03:40:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 55237567-b8f7-36ef-8636-b01d62fed934 | -6.74997 | -42.82756 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 48792b76-07ce-3ee5-9f19-ffccbc03d6d9 | -7.26722 | -44.91415 | 2025-10-10 03:40:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| cc32b41d-85fd-31c5-99f0-c6e899178da7 | -5.74919 | -43.38033 | 2025-10-10 03:40:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| f5a9ad31-21b0-33e4-aa3b-752bbb64c17f | -5.33852 | -45.56874 | 2025-10-10 03:40:00 | NPP-375D | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 2677605a-5199-3b8c-bc58-e10684e41129 | -7.53008 | -44.30642 | 2025-10-10 03:40:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 14a007e0-832c-39f9-833a-f45c7b7c6d22 | -11.46735 | -41.89799 | 2025-10-10 03:40:00 | NPP-375D | LAPÃO | BAHIA | Brasil | 2919157 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 9788744d-6f58-3c09-b3f2-9789c5f551e7 | -9.30011 | -40.23 | 2025-10-10 03:40:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 9.0 |
-| 0a15417b-d35d-3a28-b109-4c2a6549b669 | -8.19493 | -43.32859 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 9.4 |
-| 049d708a-1572-3753-8e37-b79e0b348c7a | -7.39584 | -45.17342 | 2025-10-10 03:40:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| f185c16f-3bf1-37e2-911b-6d0d440e951a | -12.63113 | -45.05455 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 93ebf6ed-c155-3ca7-b95f-ee44c0c08ea5 | -12.72118 | -45.83493 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 176a764e-0049-394b-b607-ff833bc480c3 | -8.50197 | -46.1563 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 15ad2df2-d129-37ba-93e6-74b2e3f16090 | -8.07206 | -42.94483 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 0.3 |
-| 338404a0-164d-332f-b825-e1e8297dace0 | -11.63854 | -47.53854 | 2025-10-10 03:40:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 94187903-3282-3045-94e7-660cb5cd12ef | -12.22566 | -43.78685 | 2025-10-10 03:40:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| d92e2cce-1727-380a-875e-53a2fc0a43ea | -8.20669 | -43.35512 | 2025-10-10 03:40:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 7fd59189-d1c3-38b9-8ddf-5e710ce7f0f6 | -11.97085 | -45.21297 | 2025-10-10 03:40:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| c48c211f-4ca1-388a-91c0-6a4377a5d0af | -6.75411 | -42.83532 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 3.2 |
-| c860bd8d-dcd8-361d-8bc8-b63a90b830d9 | -8.51018 | -46.18919 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 56e934cf-27e4-33de-8945-be3615cabee1 | -7.57582 | -44.38095 | 2025-10-10 03:40:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 7796e7e5-e34b-3a8b-8cfb-0d5ded51e863 | -11.53181 | -47.1058 | 2025-10-10 03:40:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 80165aa6-ae27-36c5-9e4f-d8c8917f910f | -10.17278 | -44.55743 | 2025-10-10 03:40:00 | NPP-375D | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 46eb6e7f-a947-3121-96c2-98fe928efc8c | -12.6233 | -45.06497 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 16.5 |
-| 4896e5c4-5667-3b48-860d-7f20312e1e0c | -6.66113 | -41.98355 | 2025-10-10 03:40:00 | NPP-375D | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 6863e1e4-a75d-3d6f-a194-dce651e4929a | -12.74552 | -45.85572 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d43f3677-94a9-3064-b5b1-e37dfea407f2 | -6.8186 | -42.79982 | 2025-10-10 03:40:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| f21391c5-3a4e-32b5-ae5f-ec2153ff6f0b | -6.45518 | -44.57852 | 2025-10-10 03:40:00 | NPP-375D | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| a92634d0-6c9b-3fbb-b918-3bc7252acef6 | -7.26116 | -44.91315 | 2025-10-10 03:40:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 1ad91e92-fc34-37f7-bf61-e41d5c54bf74 | -8.51898 | -46.17801 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| a82b78ab-2c1b-37af-b096-ae6c7e7c3a5d | -7.78964 | -44.05795 | 2025-10-10 03:40:00 | NPP-375D | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 7772370f-44e9-3ea3-a5b2-94b319b6a907 | -7.79474 | -42.60553 | 2025-10-10 03:40:00 | NPP-375D | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| ebf2a71e-6aeb-360a-beaa-81641689d56f | -8.51248 | -46.14345 | 2025-10-10 03:40:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 2b36affe-dd80-3f5d-9444-159c6024c142 | -7.79986 | -42.6066 | 2025-10-10 03:40:00 | NPP-375D | RIBEIRA DO PIAUÍ | PIAUÍ | Brasil | 2208874 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| e85742c0-0586-39b8-a827-79d6f58fbdd4 | -12.62733 | -45.07378 | 2025-10-10 03:40:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| 1feafc9a-a562-3c3b-ae4d-3c0b6c15859e | -8.00486 | -44.45144 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 9ed587d7-0bcb-30b0-b5de-83d477a3852f | -7.5014 | -45.14135 | 2025-10-11 03:42:00 | NOAA-20 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 5139bd5f-7898-38a3-9381-621147ad5d41 | -8.20939 | -43.34599 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
+| a05cc148-6163-35f9-bd9c-bb7720c6bde8 | -7.67711 | -43.99175 | 2025-10-11 03:42:00 | NOAA-20 | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| 7b123342-f977-32b8-9b7f-f3bb32142171 | -8.14608 | -43.33374 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| 3df40440-7ff3-3ab1-b208-2d1041f9eac7 | -11.44994 | -43.48556 | 2025-10-11 03:42:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 3cd95962-c4ef-374c-b840-d2dbaec1a177 | -7.8563 | -44.495 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| 4d0998d1-f246-3112-af32-e534d0910e41 | -11.75773 | -46.36767 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 76797f85-fb70-382d-9b2a-488f80659c8f | -11.75471 | -43.3208 | 2025-10-11 03:42:00 | NOAA-20 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 785b2681-71eb-358a-9b63-62abfae58522 | -7.45768 | -46.86103 | 2025-10-11 03:42:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| a0c48b30-733c-3a2e-bb1b-0348c5efa117 | -13.20555 | -42.33951 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 22.0 |
+| 2b47d677-6dd5-3670-912b-cb67d305408f | -7.40813 | -42.97753 | 2025-10-11 03:42:00 | NOAA-20 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 76b33228-bb48-3fb1-8e12-7f0af55b539d | -13.20831 | -42.34814 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 18.2 |
+| f60ce36e-8702-3866-ab1b-86244a48d253 | -7.33575 | -43.86905 | 2025-10-11 03:42:00 | NOAA-20 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 1e2a4c8a-7584-3226-98dd-62666c0aa39b | -9.11606 | -45.07245 | 2025-10-11 03:42:00 | NOAA-20 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c1b667a9-6d4b-3796-bc3b-9df24011f4e8 | -7.85854 | -44.12431 | 2025-10-11 03:42:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c5c747cc-b2b6-376f-83c7-6faaeb40d658 | -10.15038 | -44.56427 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| a7b101b0-75f4-315d-8c2e-7347009a227f | -7.40681 | -42.97738 | 2025-10-11 03:42:00 | NOAA-20 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
+| 57bebc27-5deb-36dd-ad63-2eb67ed3703d | -13.21462 | -42.3372 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 71.0 |
+| a55d18dc-8c42-3beb-98c5-e56aa7a48e95 | -7.85272 | -44.48444 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 7cdc5d50-f234-3078-aa63-239ab76afc41 | -7.46161 | -46.86511 | 2025-10-11 03:42:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 5d411327-6aa1-3db5-97aa-534d1cc9446f | -7.7387 | -42.41432 | 2025-10-11 03:42:00 | NOAA-20 | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 91b12eeb-9755-3ca9-af48-ce2f5f36c890 | -10.15227 | -44.61242 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 39f5120d-9eb0-3494-8714-dbcb4be0339e | -10.15731 | -44.55522 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d8a549cb-4e1f-36f8-bd63-12f2849a2fd5 | -9.33335 | -46.11155 | 2025-10-11 03:42:00 | NOAA-20 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 20.2 |
+| 2b0d659a-d9d2-376e-8b5b-fd7b0a473cf1 | -11.89246 | -45.49567 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| cb825d2f-14bd-3db9-809a-953ad05b562a | -10.13828 | -45.77066 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| c9744093-00ce-32b0-8599-e2199d458dd2 | -8.21033 | -43.34057 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 3e74b9fd-6c98-3c4f-9b91-1ab669c952c7 | -9.34576 | -40.33987 | 2025-10-11 03:42:00 | NOAA-20 | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| eac943f7-15f0-33e9-9bc5-fa5209e6adc1 | -10.87299 | -44.19417 | 2025-10-11 03:42:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| c9701d84-2a73-3c04-a831-5e3f58a71704 | -8.01294 | -44.46111 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8b1fb962-7591-304e-9a53-07cbaee8e397 | -8.20082 | -43.3232 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 10.0 |
+| 4a9860c7-4c48-38c9-bdb5-13c4424a2fe1 | -9.1586 | -41.06308 | 2025-10-11 03:42:00 | NOAA-20 | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 3f5979ca-54e4-301e-b43a-38eef729997d | -8.18788 | -43.32514 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 1a4173a7-ad39-3003-83ba-f5ce89824c45 | -10.56655 | -44.51086 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| d07dd118-e51d-3070-b93d-229b1d7b6ac9 | -7.42711 | -42.97515 | 2025-10-11 03:42:00 | NOAA-20 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| c8d6b07d-73e5-35bb-a943-ae60df294810 | -13.47351 | -42.25092 | 2025-10-11 03:42:00 | NOAA-20 | PARAMIRIM | BAHIA | Brasil | 2923605 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| ea2fab5f-4106-3f6f-b0e7-a62a814a2f9c | -12.99583 | -45.22459 | 2025-10-11 03:42:00 | NOAA-20 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| e101b23d-60c8-3774-8ddb-a2fc7c2537c7 | -8.21731 | -43.37104 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| f7b644cb-a180-3060-bd03-c85a1b93c0f6 | -8.19275 | -43.32606 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 20.3 |
+| e1f6cdc0-aad4-391a-bb2a-8f3c66cf206f | -7.74901 | -44.22097 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| e5a3a022-2d4e-313d-b9c9-0a8bafc4eeca | -10.20327 | -44.6051 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d31fd7cd-6ac2-3f7c-9d48-2253533f893b | -7.52932 | -44.60692 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| c443b131-d6cb-3c5a-a1b8-b1b83196f9e6 | -11.13335 | -40.90352 | 2025-10-11 03:42:00 | NOAA-20 | VÁRZEA NOVA | BAHIA | Brasil | 2933158 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 0ed3a3c1-bca2-3793-adc5-11581d644619 | -9.11545 | -45.07573 | 2025-10-11 03:42:00 | NOAA-20 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| d2835ca0-12ed-35e9-95e5-1f0b29218983 | -10.13446 | -45.76652 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 6a110e1c-3317-3405-8124-166434da2e00 | -12.64 | -48.31828 | 2025-10-11 03:42:00 | NOAA-20 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| a0e96387-ba84-30a9-9a95-7ae01cade81c | -7.80332 | -42.42588 | 2025-10-11 03:42:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| 06ef2344-1a32-389a-81ef-b372ac7e43b4 | -11.7398 | -46.39931 | 2025-10-11 03:42:00 | NOAA-20 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| e86aa4ba-f649-3b68-a006-a48fadd8f59f | -8.21539 | -43.36944 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 9eda0df2-84f4-3019-a6c3-6cc92b5a8f99 | -8.01341 | -44.46472 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| d9a2412c-ef68-39c6-b7b3-0f2e2182d59e | -13.21881 | -42.33796 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 71.0 |
+| d1471be3-b9da-3953-a4ec-75a74ee8898d | -7.77646 | -42.41613 | 2025-10-11 03:42:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| f3a17c97-c9b6-329e-9547-481208dafcc3 | -7.66436 | -42.57612 | 2025-10-11 03:42:00 | NOAA-20 | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 2.5 |
+| e0024435-32d6-3465-a38f-81cc9391ad4a | -13.21391 | -42.3411 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 71.0 |
+| bc65e2ba-0e0d-3cd9-b461-4dd6356d75fb | -13.21738 | -42.34583 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 22.7 |
+| 3bf29692-b2a7-39c9-b2d6-8ccdfd0ff749 | -7.79461 | -44.11717 | 2025-10-11 03:42:00 | NOAA-20 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 1bad4223-ef53-3844-ac2b-2b7bfd073445 | -9.32933 | -46.10618 | 2025-10-11 03:42:00 | NOAA-20 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| ca2c32a0-c211-39fe-b0cd-b1aca0aa575e | -8.21335 | -43.3522 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 6.6 |
+| f5af1af4-3298-3275-ab8f-f52f15af8f8b | -7.342 | -43.8636 | 2025-10-11 03:42:00 | NOAA-20 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| d9cd7ffe-a474-314c-a3db-20aeef0bb9a9 | -7.5347 | -44.60786 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| bf82c1e1-f4c0-3978-aa58-8f85ecc175f5 | -8.17422 | -43.317 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 15b456c7-d59d-3ae5-9997-a222514db8f4 | -7.77101 | -42.4201 | 2025-10-11 03:42:00 | NOAA-20 | SOCORRO DO PIAUÍ | PIAUÍ | Brasil | 2210904 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 46b0d8c9-17a7-31b3-bac9-62e24c50fcae | -11.76016 | -43.31689 | 2025-10-11 03:42:00 | NOAA-20 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| bfc34cd9-c2a2-3570-b592-71d4fba671e0 | -7.40783 | -45.91846 | 2025-10-11 03:42:00 | NOAA-20 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| b2672f27-5754-33cc-bf42-bc90adabf719 | -11.75645 | -43.31123 | 2025-10-11 03:42:00 | NOAA-20 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 2cfd2b5c-db9f-3768-adc6-956ca2d5d09d | -10.42307 | -44.99414 | 2025-10-11 03:42:00 | NOAA-20 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| f3055e37-24bc-35a4-9681-071c36a1b2f6 | -11.88718 | -45.4947 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 31f7096d-e219-345c-9ed4-adbd77d5710e | -7.35393 | -43.85587 | 2025-10-11 03:42:00 | NOAA-20 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| fdd1b8e2-65ee-3062-8e21-8e9b75545e7c | -9.81035 | -45.52308 | 2025-10-11 03:42:00 | NOAA-20 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 1643ec20-eba8-3f88-995d-8df60945d5ac | -13.48633 | -42.01378 | 2025-10-11 03:42:00 | NOAA-20 | ÉRICO CARDOSO | BAHIA | Brasil | 2900504 | 29 | 33 | nan | nan | nan | Caatinga | 4.3 |
+| 5c88c7b2-cf1a-397d-bbce-5f57e7e031d9 | -8.15869 | -43.31953 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 3.0 |
+| 508180ac-a200-3b2c-8a63-71af63e9ebdc | -7.29264 | -45.56628 | 2025-10-11 03:42:00 | NOAA-20 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 15661411-77c0-3bfd-b5fe-e5389e882969 | -10.87186 | -44.19428 | 2025-10-11 03:42:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| a9ac346d-25fa-3e57-a7d1-6e92a0711b0e | -8.21049 | -43.35302 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 7.1 |
+| 44b159ad-a8bf-343c-8435-75c7b0e34532 | -7.52873 | -44.61021 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 249cca09-aefb-3596-884b-ad34bc8c1dec | -7.40906 | -42.97211 | 2025-10-11 03:42:00 | NOAA-20 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| eb33c43c-52f5-3aee-b143-61230234f50c | -9.11669 | -45.06908 | 2025-10-11 03:42:00 | NOAA-20 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 2b27f369-818c-3066-a730-2506ccbd16bd | -11.025 | -44.64655 | 2025-10-11 03:42:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| b502930f-9ad0-3b96-aec7-5fb8693a0600 | -7.46068 | -46.87003 | 2025-10-11 03:42:00 | NOAA-20 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 4c6d646d-d783-3a4c-b208-ddf81106b0d9 | -7.34824 | -43.85818 | 2025-10-11 03:42:00 | NOAA-20 | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 12b25e32-b61a-3a61-9ede-9a89d9185a86 | -10.1964 | -44.61351 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 1efbda74-8e0b-3467-8977-42e21b8b00c2 | -8.20856 | -43.33596 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 5.0 |
+| f476b79b-7f6b-3a7f-9522-6a1261dc18c6 | -8.14703 | -43.32842 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| af3c68b2-4046-3995-91de-fcea624de392 | -8.16355 | -43.32045 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| ad7c4023-0552-3f2e-b5aa-b3585bfb2772 | -11.78358 | -46.38392 | 2025-10-11 03:42:00 | NOAA-20 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 690fbcaa-a7f9-3f54-b446-f52b32d05f3c | -11.9123 | -44.18209 | 2025-10-11 03:42:00 | NOAA-20 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 21.1 |
+| efa695de-6fa1-3930-b267-fcdeb5763aef | -10.163 | -44.55304 | 2025-10-11 03:42:00 | NOAA-20 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| a39e7da2-9b26-3f52-a8cb-a98a45258f30 | -9.81652 | -45.52044 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| ab4d92e2-e1ef-366d-a9bb-ff0deb604409 | -7.8646 | -44.47922 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c1b6857c-d174-32db-b15b-04bd23bad140 | -7.85867 | -44.48177 | 2025-10-11 03:42:00 | NOAA-20 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 45f9f0cf-e2fc-3f96-af7b-b3a600a23bf9 | -8.40129 | -45.09321 | 2025-10-11 03:42:00 | NOAA-20 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| b85175c4-135e-3ade-ab34-a8351e13dfec | -7.41204 | -42.98373 | 2025-10-11 03:42:00 | NOAA-20 | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
+| 5e474a63-5928-3641-966a-d4e4f157d509 | -8.20641 | -43.33419 | 2025-10-11 03:42:00 | NOAA-20 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 11.0 |
+| 6a7ad409-2f91-3b9f-9f35-24b6f46af23e | -9.39928 | -42.67453 | 2025-10-11 03:42:00 | NOAA-20 | FARTURA DO PIAUÍ | PIAUÍ | Brasil | 2203750 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 26ba9458-7743-32d7-9118-6215dcb8f280 | -9.4001 | -42.66983 | 2025-10-11 03:42:00 | NOAA-20 | FARTURA DO PIAUÍ | PIAUÍ | Brasil | 2203750 | 22 | 33 | nan | nan | nan | Caatinga | 4.2 |
+| 1e9dad56-9319-3309-a1dc-93898d7964f4 | -7.67654 | -43.99487 | 2025-10-11 03:42:00 | NOAA-20 | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| eae8da2c-4007-3cbe-9b80-b6b8f867b174 | -10.13276 | -45.76952 | 2025-10-11 03:42:00 | NOAA-20 | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 187efa98-7c0e-3a18-82a1-2db5bd6e9011 | -11.74706 | -43.38903 | 2025-10-11 03:42:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c29363ec-3e3e-3e9b-a13a-02c77d09d28a | -13.22299 | -42.33872 | 2025-10-11 03:42:00 | NOAA-20 | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 16.4 |
 
 
 [Clique aqui para ver as próximas entradas](README12.md)

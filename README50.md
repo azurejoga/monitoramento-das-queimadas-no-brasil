@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 8bd9b8af-7020-378d-a630-40c0e964c727 | -7.39838 | -45.91031 | 2025-10-10 06:10:00 | AQUA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 0431d668-6df8-3c0a-b6e9-aadaadcee93d | -14.87742 | -48.23283 | 2025-10-10 06:12:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| f025943c-d369-3dc6-8da5-aa7f8706e200 | -14.92477 | -46.76756 | 2025-10-10 06:12:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 18.6 |
-| 3bf74d3d-45d2-3057-bbf1-04074ed46a56 | -15.08594 | -46.60751 | 2025-10-10 06:12:00 | AQUA_M-M | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| 7c8265e4-7379-3caa-aa87-53b5b5317bab | -14.92295 | -46.78107 | 2025-10-10 06:12:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| 419dd721-0986-3825-9959-f4f3963d7712 | -15.08778 | -46.59335 | 2025-10-10 06:12:00 | AQUA_M-M | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| bc631256-2b4f-3a30-98f1-fdad982309de | -15.42413 | -47.98045 | 2025-10-10 06:12:00 | AQUA_M-M | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 17.1 |
-| 54b93574-add0-3c05-a955-26629c251957 | -17.92404 | -44.99903 | 2025-10-10 06:12:00 | AQUA_M-M | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 77a109c1-4859-3f50-af4a-e58fa3a9c54b | -15.74874 | -48.97771 | 2025-10-10 06:12:00 | AQUA_M-M | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 16.1 |
-| 9982a08b-1143-34e1-bf25-eaaa5cfcc48d | -17.92167 | -45.01978 | 2025-10-10 06:12:00 | AQUA_M-M | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 38.4 |
-| a3fd2ffa-c7ea-3e42-9b94-1e09239e0bbe | -17.93454 | -45.02107 | 2025-10-10 06:12:00 | AQUA_M-M | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 22.2 |
-| b673dd9c-3eed-32b3-bf5e-07f5b22ef2da | -14.86495 | -48.46152 | 2025-10-10 06:12:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 49eda759-4ef8-37b2-b2f4-fb92c32071e9 | -17.89495 | -57.5023 | 2025-10-10 06:12:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.3 |
-| 951aa09e-2e44-3b69-b438-01185eaf63c2 | -15.74733 | -48.9879 | 2025-10-10 06:12:00 | AQUA_M-M | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 79f763ba-716e-3b85-817b-4149e614bc08 | -15.42261 | -47.99177 | 2025-10-10 06:12:00 | AQUA_M-M | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 20.4 |
-| c7356b97-d45e-3cc7-8c83-9817a369859b | -14.88062 | -47.23258 | 2025-10-10 06:12:00 | AQUA_M-M | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 130c92a0-acf0-3c4b-bc65-d157b4340514 | -17.88827 | -57.49609 | 2025-10-10 06:12:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.5 |
-| d71f2173-44e1-3dfb-a557-2aeee4619e2b | -14.879 | -48.2215 | 2025-10-10 06:12:00 | AQUA_M-M | MIMOSO DE GOIÁS | GOIÁS | Brasil | 5213053 | 52 | 33 | nan | nan | nan | Cerrado | 9.1 |
-| c03e3af7-0f18-3374-87c7-f897a771a62f | -14.92945 | -46.77411 | 2025-10-10 06:12:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| b5671f03-c59f-340e-99e7-ab01f3860448 | -14.93119 | -46.76053 | 2025-10-10 06:12:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 26.2 |
-| bf5cf113-6cc9-3259-b548-80fbae95f55f | -14.88228 | -47.21994 | 2025-10-10 06:12:00 | AQUA_M-M | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 17.7 |
-| 4413ae17-bc0d-3647-bf5b-384d9f766bd2 | -17.81241 | -57.64465 | 2025-10-10 06:12:00 | AQUA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.9 |
-| 3a97fa34-0d60-33dd-8efa-3f6387cf7314 | -14.9266 | -46.754 | 2025-10-10 06:12:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| ba55438d-76ed-3ef0-b1c0-fa984f32a5e6 | -14.83656 | -48.45662 | 2025-10-10 06:12:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| bcaa3b3c-3675-3de0-8798-3e274cda1318 | -15.29523 | -46.14079 | 2025-10-10 06:12:00 | AQUA_M-M | FORMOSO | MINAS GERAIS | Brasil | 3126208 | 31 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 9b4b5adc-4ae3-33d1-9062-2ee0803cd3d2 | -14.68784 | -48.05775 | 2025-10-10 06:12:00 | AQUA_M-M | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 7.3 |
-| 0cdce6f7-b24d-32fd-83a6-763f4f168686 | -14.9417 | -46.76328 | 2025-10-10 06:12:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 24.6 |
-| 3f8aa804-89a6-3e1f-8067-6ba52d7acc5d | -10.7996 | -69.30861 | 2025-10-10 06:33:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 775c2644-14b4-331f-8a9b-49cace6a4224 | -9.68716 | -67.44935 | 2025-10-10 06:33:00 | NOAA-21 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e11da689-8c96-3e5a-b230-981f628c19cd | -10.7941 | -69.30784 | 2025-10-10 06:33:00 | NOAA-21 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ed7033fd-d2c3-3356-b0c3-89fbc0ecd49e | -10.08241 | -67.53466 | 2025-10-10 06:33:00 | NOAA-21 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| 9661f8e1-f140-3510-b89c-af97f9440c99 | -9.68662 | -67.45066 | 2025-10-10 06:33:00 | NOAA-21 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2e7af4f1-3db2-3432-a184-112d353e614b | -8.25827 | -71.11903 | 2025-10-10 06:33:00 | NOAA-21 | TARAUACÁ | ACRE | Brasil | 1200609 | 12 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| e20ce73b-ce7e-3206-9080-afdcfb2f18b4 | -10.08273 | -67.53551 | 2025-10-10 06:33:00 | NOAA-21 | SENADOR GUIOMARD | ACRE | Brasil | 1200450 | 12 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| c371cbba-646b-3401-a353-b4e512fcd31c | -9.69213 | -67.45965 | 2025-10-10 06:33:00 | NOAA-21 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| c30115e2-d5f6-365e-ae91-8ffd23066f2a | -10.82206 | -68.22948 | 2025-10-10 06:33:00 | NOAA-21 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| f6dc64ea-b749-3c55-abc9-d01c5b1be937 | -7.68142 | -72.33041 | 2025-10-10 06:33:00 | NOAA-21 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 79a5e78a-7698-3243-a2b2-e214018a7887 | -9.68659 | -67.45406 | 2025-10-10 06:33:00 | NOAA-21 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| cb8c4b73-e7e7-3910-aff2-3581e48355ec | -13.8491 | -45.8454 | 2025-10-10 10:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 119.7 |
-| 93c33175-c3e6-33c8-b7e2-5c05a317a731 | -13.8491 | -45.8454 | 2025-10-10 10:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 98.9 |
-| 42895784-b639-38dd-956c-34c5f5ff0900 | -13.8491 | -45.8454 | 2025-10-10 10:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 101.4 |
-| 15e10494-c844-3008-906c-4339240233e6 | -11.7589 | -43.3136 | 2025-10-10 10:30:00 | GOES-19 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 100.6 |
-| bf4eb008-f6a3-34a1-917a-3624fed84eb6 | -11.7589 | -43.3136 | 2025-10-10 10:50:00 | GOES-19 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 132.6 |
-| 60ef7b32-97a7-305c-9c48-a95f1da2050d | -13.8491 | -45.8454 | 2025-10-10 10:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 133.4 |
-| 3660cce8-6f9e-3ec5-b419-1d243f119663 | -13.8491 | -45.8454 | 2025-10-10 11:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 261.0 |
-| 85b35bf8-3125-3efc-8520-5268148f35f6 | -13.8496 | -45.8223 | 2025-10-10 11:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 130.7 |
-| 002ab5f2-263d-345d-9e9c-d142a7b02888 | -15.4375 | -47.9871 | 2025-10-10 11:10:00 | GOES-19 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 109.0 |
-| 73b64e9d-1e22-3813-8d64-5f3cdb96383b | -5.56624 | -38.39429 | 2025-10-10 11:19:00 | TERRA_M-M | ALTO SANTO | CEARÁ | Brasil | 2300705 | 23 | 33 | nan | nan | nan | Caatinga | 19.6 |
-| 9f4585f5-c421-385e-b077-951ef6e61e31 | -6.65802 | -36.17565 | 2025-10-10 11:19:00 | TERRA_M-M | CUITÉ | PARAÍBA | Brasil | 2505105 | 25 | 33 | nan | nan | nan | Caatinga | 17.0 |
-| 00d621fc-d721-3b4e-850e-817ddea2a354 | -12.68169 | -43.08518 | 2025-10-10 11:19:00 | TERRA_M-M | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 31.4 |
-| 68e6efad-f066-35ff-92fe-8244235f63e7 | -11.75544 | -43.31145 | 2025-10-10 11:19:00 | TERRA_M-M | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 214.9 |
-| 57fcaa4f-4959-3ebc-b1b2-3005f8af2330 | -8.20858 | -43.38933 | 2025-10-10 11:19:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 107.4 |
-| e0e2766a-f8d6-354e-a72f-546e690be9d3 | -8.19789 | -43.33984 | 2025-10-10 11:19:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 109.2 |
-| 4fec725a-dd54-39b5-be26-000c3c233e5d | -11.77179 | -43.31443 | 2025-10-10 11:19:00 | TERRA_M-M | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 137.8 |
-| e636f56e-fd93-3b7b-8618-64b4257a730b | -11.76188 | -43.27564 | 2025-10-10 11:19:00 | TERRA_M-M | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Caatinga | 36.4 |
-| 4a59bd3c-1f47-3412-8bb9-6b983c1e9e7b | -6.42729 | -38.42634 | 2025-10-10 11:19:00 | TERRA_M-M | UIRAÚNA | PARAÍBA | Brasil | 2516904 | 25 | 33 | nan | nan | nan | Caatinga | 27.6 |
-| a51f32b3-c9b4-3294-b15e-7d1d8d78ea54 | -8.20844 | -43.3837 | 2025-10-10 11:19:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 138.8 |
-| 7e5a5762-96b5-37fa-9f98-de8a4be40efc | -17.9357 | -45.02952 | 2025-10-10 11:21:00 | TERRA_M-M | LASSANCE | MINAS GERAIS | Brasil | 3138104 | 31 | 33 | nan | nan | nan | Cerrado | 39.0 |
-| 1e05480e-184a-3d2d-996d-e05d51b8d55a | -12.3592 | -47.2335 | 2025-10-10 11:30:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 109.8 |
-| 9a01dfe5-0348-386f-a844-368cd933948d | -13.8491 | -45.8454 | 2025-10-10 11:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 123.1 |
-| b96a6757-7228-32c2-b0f0-c1c85b2473bf | -13.8496 | -45.8223 | 2025-10-10 11:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 157.3 |
-| 230dd55d-1504-3abf-823a-7dc5f30c2db3 | -15.4375 | -47.9871 | 2025-10-10 11:30:00 | GOES-19 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 105.3 |
-| c148208e-0bc3-37ce-94c6-cf5d390288d1 | -13.8302 | -45.8255 | 2025-10-10 11:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 114.3 |
-| 3c404a68-fcaa-38ec-8328-336a89e7f4ed | -10.1517 | -44.5984 | 2025-10-10 11:30:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 110.0 |
-| d017527d-3f1b-398c-a972-06be09a2806d | -12.3592 | -47.2335 | 2025-10-10 11:40:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 156.5 |
-| 2bad8c84-7a03-365d-bcc1-7dc1e953f29f | -13.8496 | -45.8223 | 2025-10-10 11:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 119.0 |
-| 45d2794d-c550-3ef3-9edc-cc30e883a47a | -13.8491 | -45.8454 | 2025-10-10 11:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 157.9 |
-| 2c8a06fe-6c72-3797-9242-49063cd1566f | -15.4375 | -47.9871 | 2025-10-10 11:40:00 | GOES-19 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 139.0 |
-| 2439066d-d2cb-3884-8e22-5a78a3f14d10 | -13.8491 | -45.8454 | 2025-10-10 11:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 94.5 |
-| ba083f44-4aeb-3c5d-9d0c-c699d8458851 | -13.8496 | -45.8223 | 2025-10-10 11:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 103.2 |
-| 0c6166c7-87cc-39a1-a71f-06c1ab8d551f | -13.8311 | -45.7793 | 2025-10-10 11:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 281.2 |
-| f146bcaf-9aef-385c-8a5b-67b01611deda | -12.3592 | -47.2335 | 2025-10-10 11:50:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 160.0 |
-| 03759e3c-8b1c-3678-b987-769adf588d3d | -13.8307 | -45.8024 | 2025-10-10 11:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 124.3 |
-| 46d6a429-63a5-39f2-a319-c1a6d46a3c1d | -13.8117 | -45.7826 | 2025-10-10 11:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 105.2 |
-| 703befb4-287c-3d63-81e3-edb2315a2c5c | -12.3592 | -47.2335 | 2025-10-10 12:00:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 106.0 |
-| 189a64ba-25b3-300b-b832-390f039870c0 | -13.8307 | -45.8024 | 2025-10-10 12:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 4582e531-65eb-3fb3-8767-27445b287d2e | -13.8491 | -45.8454 | 2025-10-10 12:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 154.1 |
-| 6fb8771c-b0da-33e1-99c8-3c14f9bb6486 | -13.8496 | -45.8223 | 2025-10-10 12:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 115.1 |
-| 9f8f4645-611d-3ffc-97fe-51a752611d3e | -12.3592 | -47.2335 | 2025-10-10 12:10:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 92.1 |
-| 14f1f0a8-4eb5-3900-96fc-a5113637c3fe | -13.8496 | -45.8223 | 2025-10-10 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 89.7 |
-| 87d1b8db-0ac0-3c94-9ba0-b99a242e375f | -13.8491 | -45.8454 | 2025-10-10 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 87.3 |
-| 8e7cc597-794d-30a3-884e-f1b0344a9e60 | -15.0962 | -46.6167 | 2025-10-10 12:10:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 97.5 |
-| c9744fe1-4bfd-37b0-b68c-a10dd2636f67 | -13.8491 | -45.8454 | 2025-10-10 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 114.1 |
-| 33e67c5c-8468-343b-82ec-cb13804b57ed | -13.8496 | -45.8223 | 2025-10-10 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 103.7 |
-| 43c86ff4-a629-3079-a4bb-bf1df8eda40c | -12.3592 | -47.2335 | 2025-10-10 12:20:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 90.8 |
-| 82f4e97c-97cf-3a8f-8085-13bbf0838c79 | -15.0962 | -46.6167 | 2025-10-10 12:20:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 99.2 |
-| a6c9ab0b-8d0f-3b1b-8fd7-e187995c24f1 | -13.8496 | -45.8223 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 120.9 |
-| bd518e75-84ab-353e-ba91-6a0427ccaac2 | -15.0962 | -46.6167 | 2025-10-10 12:30:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 131.8 |
-| ff8de02a-bd30-3f5d-90da-e19c2e5a7ccf | -14.2744 | -45.911 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 276.8 |
-| 751ff629-3ece-3560-af88-4b66564fba28 | -13.8311 | -45.7793 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 113.0 |
-| 7e78d8aa-d01e-32b3-b596-97f77bff38b7 | -13.8307 | -45.8024 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 103.0 |
-| cfcf754c-7d88-31fb-bed3-5abf0cd7fe33 | -15.0967 | -46.5937 | 2025-10-10 12:30:00 | GOES-19 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 105.5 |
-| f3786267-6612-32ef-9130-5ad73ba4e5d4 | -13.8491 | -45.8454 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 134.9 |
-| 16cf4b23-a510-3267-95d5-533b2f0148de | -15.4375 | -47.9871 | 2025-10-10 12:30:00 | GOES-19 | PADRE BERNARDO | GOIÁS | Brasil | 5215603 | 52 | 33 | nan | nan | nan | Cerrado | 91.9 |
-| d8ba5779-16a5-3c52-961e-3a47abdff8fa | -14.2749 | -45.8879 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 200.4 |
-| 7c85b8ea-9866-301c-9d29-f906e3b2e72b | -13.8487 | -45.8685 | 2025-10-10 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 92.1 |
-| c7c53266-39e9-3fb2-8e52-a86af9c6301a | -12.3592 | -47.2335 | 2025-10-10 12:30:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 117.5 |
-| b339ea2e-8cde-3186-90f3-13dac78e75c9 | -12.3592 | -47.2335 | 2025-10-10 12:40:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 102.3 |
-| 15752135-86a7-3f96-949b-a31eb425684b | -10.1517 | -44.5984 | 2025-10-10 12:40:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 75.2 |
-| 84f98625-81b0-3f3e-a062-ac0c1104b871 | -10.1707 | -44.5959 | 2025-10-10 12:40:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 67.0 |
+| 3a41b4c3-e669-347d-9174-c93c6733e9b2 | -10.9293 | -47.1553 | 2025-10-11 12:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| 44e43d0a-0bf1-375f-a8ab-200a6843a938 | -13.8501 | -45.7992 | 2025-10-11 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 232.7 |
+| fa64dd5e-a32b-388d-bc71-3113b3a698ad | -11.6282 | -47.5115 | 2025-10-11 12:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 69.0 |
+| 5e921203-81bf-3152-9e7a-f3df1e51bacb | -13.8004 | -45.3917 | 2025-10-11 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| da53f73e-8519-3398-b7c7-216a0a07b6b1 | -15.0021 | -45.5725 | 2025-10-11 12:10:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 295.1 |
+| d4ee065d-4d97-394d-8de2-cad4adcf3982 | -13.8491 | -45.8454 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 347.1 |
+| 0508e28a-8fa0-3bc4-bde3-14700b49384f | -13.8496 | -45.8223 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 594.5 |
+| 2f3febaf-feda-3215-80e3-9f5f9e15f7cc | -15.0021 | -45.5725 | 2025-10-11 12:20:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 194.3 |
+| 90cdb590-e31d-3c19-a5a7-57adde4aae66 | -10.9293 | -47.1553 | 2025-10-11 12:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 76.8 |
+| 73f2ea64-fc57-3794-a422-f7ce7ecbee6e | -13.8501 | -45.7992 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 295.5 |
+| 6acd22f0-f343-3e37-80ca-cd5955508a60 | -13.322 | -47.1144 | 2025-10-11 12:20:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| c934a468-1726-33cc-bb45-6fda65a295aa | -10.2088 | -44.591 | 2025-10-11 12:20:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 81.6 |
+| 40f504a2-b7bc-3c34-b6a0-8d4123eed80d | -10.5274 | -47.3601 | 2025-10-11 12:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| 83cbb6bf-fd77-3b50-8823-528989a414a8 | -10.5084 | -47.3624 | 2025-10-11 12:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 83.6 |
+| 57d8920c-8b61-39a4-bf30-cb2eb88e0f3b | -11.6282 | -47.5115 | 2025-10-11 12:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| d409d1fb-4c1f-3e2e-86d2-955a06264a5c | -13.8686 | -45.8421 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 732.6 |
+| b1d81479-7ecb-327e-85f1-c8391f2e5792 | -13.3026 | -47.1174 | 2025-10-11 12:20:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 114.4 |
+| bab02c56-5e42-3792-a521-f0dfb266c4a5 | -14.9825 | -45.5761 | 2025-10-11 12:30:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 123.3 |
+| 2c2dbc18-6e92-39d1-be5c-03cfc7a79ff7 | -13.8491 | -45.8454 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 396.5 |
+| fa6b4289-a326-3137-80aa-11e314470b28 | -13.8686 | -45.8421 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 549.5 |
+| 9b000a7f-876e-3866-bdfa-f129731d2c76 | -9.4137 | -45.7861 | 2025-10-11 12:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 84.6 |
+| 32a62f9f-d41d-38cd-bfcf-90fdd023ce73 | -10.9231 | -47.5564 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 83.0 |
+| 4fd2b2ec-e362-3ab3-8af6-c3b940d061ee | -13.8501 | -45.7992 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 648.6 |
+| dd27981c-233b-3723-a00a-66469ca8ec87 | -12.5097 | -47.3913 | 2025-10-11 12:30:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 69.3 |
+| ff746889-8fdc-33bb-a772-64bf92a7730a | -10.9041 | -47.5588 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 160.9 |
+| f92f09b7-8f3c-3db0-9445-81c53470fe3a | -9.3947 | -45.7882 | 2025-10-11 12:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 86.1 |
+| 89dc3d90-c7a8-39a7-a03d-6468ee191307 | -13.8496 | -45.8223 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1095.2 |
+| 1e021076-36cb-30e2-9f06-bbde99a46f7e | -10.5087 | -47.3401 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| 104f847f-a0fb-365b-a43e-7e8277097879 | -15.0016 | -45.5958 | 2025-10-11 12:30:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 131.8 |
+| 890d8aae-f83e-3851-98ed-3ce5cdbceacf | -11.6282 | -47.5115 | 2025-10-11 12:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 96.3 |
+| 5e1d2e65-ff54-36ea-8616-708465abcb4c | -10.5274 | -47.3601 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| 8e0a2256-3d32-359a-86b4-2444455c989e | -10.5084 | -47.3624 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 84.7 |
+| de36d037-46c7-313a-83d4-78bcda4de2c9 | -12.5093 | -47.4138 | 2025-10-11 12:30:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 130.3 |
+| 30e7255f-3665-3260-b01e-b71aacc57904 | -13.322 | -47.1144 | 2025-10-11 12:30:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 99.3 |
+| 6b2b4db2-bf3f-314e-9fe2-aa9111e44536 | -11.892 | -45.4868 | 2025-10-11 12:30:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 213.9 |
+| e508d991-4b8a-3968-91d2-e1dc44e56160 | -15.0021 | -45.5725 | 2025-10-11 12:30:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 446.8 |
+| ab02da64-0fbf-3e49-abbb-bf062f72578e | -10.5084 | -47.3624 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
+| 399e48c7-4ab7-34c2-a86b-1a3ffe1163a9 | -10.8341 | -47.1671 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 128.3 |
+| 01c56a6b-c673-3096-b0c0-14bf3af36c8d | -13.8491 | -45.8454 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 332.9 |
+| 429d4b3d-7fcc-3495-b970-617f5169c2e6 | -11.6282 | -47.5115 | 2025-10-11 12:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 146.0 |
+| c70b1d82-b791-351f-839c-3521def6d31d | -10.5277 | -47.3379 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 66.7 |
+| 01ca72c1-251c-3f6d-ba9c-02e2ce0c0e98 | -10.0747 | -45.9121 | 2025-10-11 12:40:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| 5e856e61-bda6-3a4c-aa03-4ae686405c9e | -13.2833 | -47.1203 | 2025-10-11 12:40:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 69.5 |
+| 8f2119dd-d281-3794-aa09-e476b3be35d3 | -12.5093 | -47.4138 | 2025-10-11 12:40:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 74.9 |
+| 22737d2f-02a5-305b-950d-7c1acdeab1a9 | -13.8686 | -45.8421 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 754.6 |
+| 680e14d1-b03d-3683-9da3-f127569edc8e | -9.1028 | -45.0248 | 2025-10-11 12:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 90.1 |
+| 773551d7-db2c-3a0a-8648-29194ace2d37 | -10.9293 | -47.1553 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 65.4 |
+| 75c09afe-594b-3ef7-bdd3-73b241937d15 | -9.1024 | -45.0477 | 2025-10-11 12:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| c2073f2f-e9f8-3b46-bc35-5a58e26001ea | -10.5654 | -47.3556 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 69.1 |
+| a7c6af85-23a1-3851-8d59-3eeb60bac48e | -15.0016 | -45.5958 | 2025-10-11 12:40:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 165.1 |
+| 718f5fa2-1788-3bba-a4d1-36051fcf17da | -13.8501 | -45.7992 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 324.9 |
+| 374bab46-117e-3208-b365-522d6170b835 | -13.3026 | -47.1174 | 2025-10-11 12:40:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 111.7 |
+| af2c28aa-82d9-3e14-adb2-696a600edb1e | -11.6469 | -47.5313 | 2025-10-11 12:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 68.7 |
+| 6837adc1-146a-32e8-97c7-e35849392196 | -11.7809 | -46.3687 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| f50644d3-ff67-3814-b72b-233b9f65b1ba | -11.7622 | -46.3487 | 2025-10-11 12:40:00 | GOES-19 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 74.8 |
+| 01240a64-8358-37fc-a2de-fcbe994e2e55 | -13.322 | -47.1144 | 2025-10-11 12:40:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 76.5 |
+| 6c0fd408-268d-3074-878f-5b583e7238fa | -9.3947 | -45.7882 | 2025-10-11 12:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 83.5 |
+| d9635230-0a81-3aeb-9a2d-37b07f06f234 | -15.0021 | -45.5725 | 2025-10-11 12:40:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 288.0 |
+| 769602eb-0e5e-3e8a-ab88-24ba2c8c0555 | -10.5274 | -47.3601 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 87.5 |
+| 7db537d1-92d4-38f1-98f6-1338f420aaf7 | -13.8307 | -45.8024 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| d331b852-2d2c-3f96-89bb-6687070bd5bb | -11.6278 | -47.5338 | 2025-10-11 12:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 03cc5ff1-f69d-306b-914f-81bca3374521 | -9.4137 | -45.7861 | 2025-10-11 12:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 173.8 |
+| ca68b2b0-967a-32da-8487-38a51f6db108 | -13.8496 | -45.8223 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 824.3 |
+| 2d445511-ba57-34a3-b598-027005dd4a9a | -11.892 | -45.4868 | 2025-10-11 12:50:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| 87cbd43c-07fa-3c5c-a9ec-8c3df01f14eb | -10.5084 | -47.3624 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| c2c9d9fd-2a1d-3fc3-81ce-857f860427de | -11.6278 | -47.5338 | 2025-10-11 12:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 65.4 |
+| e509cee2-14b3-3398-a288-0622e8337276 | -11.6282 | -47.5115 | 2025-10-11 12:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 140.0 |
+| 5562505a-be8a-30b0-9817-23b72a5be5f9 | -11.7622 | -46.3487 | 2025-10-11 12:50:00 | GOES-19 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| 0ad513d1-2fde-3988-a364-39609cf8d3ee | -9.1028 | -45.0248 | 2025-10-11 12:50:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 92.0 |
+| 63ceeca1-df97-3a33-a0e2-b229059ecf45 | -13.8491 | -45.8454 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.0 |
+| e995bdfd-6647-3c82-8e6f-dcd793d7b487 | -10.5277 | -47.3379 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 68.5 |
+| 45e3734b-2e90-31d4-b8f1-60bce482cda9 | -13.8496 | -45.8223 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 242.3 |
+| 1e4b4b89-fd89-33ec-bc52-94f38d41fe7d | -9.1024 | -45.0477 | 2025-10-11 12:50:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 78.0 |
+| aa646b60-5ba4-3244-9d62-29e64b850b11 | -15.0021 | -45.5725 | 2025-10-11 12:50:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 320.6 |
+| 6bed0216-955f-3d3b-b97f-e6b861237cce | -13.322 | -47.1144 | 2025-10-11 12:50:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 92.3 |
+| 3e84a152-53c2-3dae-8c9d-c42f64350f95 | -10.9293 | -47.1553 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| 7b83da66-5a94-352f-82a1-e07ef7af6b83 | -11.7618 | -46.3714 | 2025-10-11 12:50:00 | GOES-19 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 84.3 |
+| c8aa2eb4-65ab-35c9-8b89-9b13a684cd56 | -13.3026 | -47.1174 | 2025-10-11 12:50:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 107.3 |
+| 452f83f5-c42b-3673-8444-fa89d225a6c6 | -10.0747 | -45.9121 | 2025-10-11 12:50:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 106.3 |
+| db146333-b342-3fe6-96d0-6a2a306a6fdb | -13.7999 | -45.415 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 6a5a0adf-dff2-3e84-a872-eb72937dea71 | -10.9041 | -47.5588 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 63.8 |
+| 99973a87-18e6-3a54-81b3-32fadef0b8cd | -13.8004 | -45.3917 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 106.7 |
+| aef803bf-57e0-3e21-8dc1-72fc82217681 | -10.5654 | -47.3556 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 99.1 |
+| 63827ef2-3ab4-3011-9e98-27c2cf278177 | -11.7809 | -46.3687 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 91.2 |
+| 8e2fc302-df3d-3d3b-a1d6-a0ea35715480 | -10.5274 | -47.3601 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 93.3 |
+| a3bd4c6e-6f18-3ff9-8532-9a71f982b932 | -10.2543 | -46.5892 | 2025-10-11 13:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 160.1 |
+| a7bd92d6-bd9f-302c-afa4-2207506cab6a | -10.8341 | -47.1671 | 2025-10-11 13:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 88.8 |
+| 12cdc4e5-7cac-3ec3-91c5-685d83d72b6a | -10.0747 | -45.9121 | 2025-10-11 13:00:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 185.3 |
+| c5bfda7c-98fc-31d4-b86d-e6995ea34061 | -12.5097 | -47.3913 | 2025-10-11 13:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| eed39831-1ce3-3979-83f4-dd58bbf9ba23 | -10.6703 | -46.6954 | 2025-10-11 13:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| eda62fd5-9c60-32d8-ae4c-8a33f1dd6d75 | -15.0021 | -45.5725 | 2025-10-11 13:00:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 240.5 |
+| 961e35c2-4d7e-3045-8bee-95bc2ccd7f21 | -8.9008 | -46.0007 | 2025-10-11 13:00:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 98.7 |
+| de975aab-7e34-3dee-9ef7-fab689f754dc | -13.8004 | -45.3917 | 2025-10-11 13:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 177.8 |
+| 13908c6c-b4e4-3631-aefa-f1a793dad142 | -15.0016 | -45.5958 | 2025-10-11 13:00:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 142.3 |
+| 66c22314-99f7-3ec0-a81a-865704bd5ad1 | -12.5093 | -47.4138 | 2025-10-11 13:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 136.8 |
+| 5aa51c45-89f3-327f-80a4-4997cae62bbf | -10.5274 | -47.3601 | 2025-10-11 13:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 99.3 |
+| a4dbafc6-cdb2-36d4-b21c-1d7167ead169 | -12.4705 | -47.4416 | 2025-10-11 13:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 68.3 |
+| c811bba6-eee6-3a16-ad05-ac74e760363d | -9.3951 | -45.7655 | 2025-10-11 13:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 77.5 |
+| 4d4b2d6e-bf1b-3d04-9430-896eee64ba87 | -11.6278 | -47.5338 | 2025-10-11 13:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| 6757e166-5f86-35ac-953d-fd48308def5d | -10.5464 | -47.3578 | 2025-10-11 13:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
 
 
 [Clique aqui para ver as próximas entradas](README51.md)

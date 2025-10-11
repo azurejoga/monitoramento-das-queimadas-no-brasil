@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b1773f66-36c2-3586-9b46-e201dd55285f | -18.06072 | -57.55841 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 31de2517-1193-3733-8c38-7cd2b1731686 | -17.8448 | -57.65374 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| dc51c46e-f073-3f51-bd66-7b317364966d | -17.906 | -57.51683 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 5cdcc81a-1399-3ac9-bc0f-39749275a7b4 | -17.88577 | -57.66434 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| a5c1b794-a364-32a3-b21a-11db5a27e70e | -17.82166 | -57.659 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| ff261d32-0883-3d7f-9e72-01004e446355 | -17.8902 | -57.6602 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| d07f867a-1a4b-3d40-bcab-5592a2f90452 | -17.81914 | -57.64945 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 66a66fc0-7c82-3557-85ff-da37f3f8f3f1 | -17.89671 | -57.49934 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| a263dbba-f980-3e80-8c8e-2e79697dcfd7 | -17.829 | -57.65662 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| d23d98a2-4f23-3f18-8035-79f5166b2342 | -17.81981 | -57.64465 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
-| 2aa53394-6b05-3fd3-9548-1f261983df8b | -17.90674 | -57.5114 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 007691bc-c70a-305b-a332-d217532f36a7 | -18.06967 | -57.54966 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 780574ff-2f7b-3f6b-aebe-c6ef490e15fc | -17.82504 | -57.63491 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 5298e316-ba19-36e5-a67c-6a349e69acb0 | -17.82272 | -57.62394 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 287ad4b9-8d77-3a2c-bc11-cd6856ecf6ec | -17.8378 | -57.64849 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| c0e6ab57-27a3-3da3-949f-30acc59a960c | -17.93401 | -57.62286 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 9629e02a-fb90-327b-bae2-4cec28961360 | -17.90121 | -57.49493 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 014f483e-0f25-3e21-9d53-93177f427bfa | -18.03845 | -57.56282 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| c3dc43b5-f4b3-3ebc-be2a-dee5afd15237 | -17.8328 | -57.65698 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 2f860762-03f4-32b7-b85d-27ad353c17e7 | -17.85124 | -57.60606 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 9e829257-36ae-3b47-aecf-6b5bae9d321d | -18.04227 | -57.56329 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 24a7ed7d-4465-3885-bfa7-c5e96f347ef0 | -18.06456 | -57.55876 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| fd31d611-fa01-3f2e-bf9d-d4df139ca8d9 | -17.82077 | -57.66055 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.6 |
-| 6e35667f-fcae-36af-a5bf-76d8c75ae7b5 | -17.90977 | -57.51764 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 850dfe9a-4ffb-344f-b93a-63011a1fb7f9 | -17.82129 | -57.63416 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 7e3f3b64-ce04-36ca-9594-17cf29c7c358 | -18.03526 | -57.55779 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 4f4e1a5f-9c99-3be4-9af7-8dc01eaa6432 | -17.92262 | -57.62134 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| bf0c189a-821b-367e-945b-8eacdc5de80d | -18.04163 | -57.56796 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| d1c6a18a-8ee7-31ae-b13f-d89cc104a68a | -17.82994 | -57.65503 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| f4bcacc1-ae3a-32ef-84d2-bb1656d9324e | -18.03144 | -57.55732 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 2380f9b2-4673-3e16-962a-176a6968c9ae | -18.07351 | -57.54996 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| daef7ac9-9e9b-3183-91db-3896522a9f03 | -17.71585 | -56.78226 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 1f6595ef-3624-3404-9a80-4717b4fc05f4 | -17.90052 | -57.49996 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| dba86aa3-d034-3c5c-8d73-3f2207b09601 | -17.82839 | -57.66113 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| 79dfc10d-41a3-37af-81b7-376866e37759 | -17.82458 | -57.66083 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.2 |
-| 63a89d54-dfb9-31ff-86b3-fc711f73ad66 | -18.02879 | -57.54834 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 84c86f92-7e3d-35ba-a8b0-71ecf71a8a99 | -17.82222 | -57.6207 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 5c9d1bd0-79ae-33b8-b86b-308efad29fb7 | -17.90903 | -57.52308 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| c01be29c-ee40-303c-923b-967f8d78fac6 | -17.82579 | -57.62962 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 61f6e14f-33a4-359c-b2b7-91e51b11cf8a | -17.84121 | -57.59431 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| b9e0c659-1d27-391f-b933-21eb72b4a672 | -17.8889 | -57.66966 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 7a9f910b-7c23-3542-8b16-a988b53cafa0 | -17.88955 | -57.66494 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 77c12ae9-eec3-3d3b-a5fc-aaa6d09c4ebc | -17.82106 | -57.66334 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.1 |
-| adaf0fb9-2cee-3ee7-b4cc-359831726ddb | -17.89911 | -57.51034 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 0b3ecac8-61d2-3a82-a49e-e9e3cb4320e2 | -17.82931 | -57.6595 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 26c2a506-7e22-3d0b-9cf0-f266fbd8cabd | -18.05432 | -57.56052 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| f713bae7-4f21-3aa4-a123-a3b406afbe8e | -18.02761 | -57.5569 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 90b83d9c-828f-3b61-858b-5525db6bfdd8 | -18.06643 | -57.54476 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| ce2a5346-73fe-3ce2-a835-57fc5e810031 | -17.90364 | -57.50562 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| fbe90c2b-0e27-392f-b187-bea37f0f980c | -17.81787 | -57.65858 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| 55d58655-a4cb-3cfe-8c63-32424ca08ca8 | -17.71742 | -56.78364 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 443efa87-fac9-3f06-a836-71501296fdcb | -17.8334 | -57.65251 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
-| ed7dda6c-4d3b-3a46-875d-e6ec33a195df | -17.8507 | -57.58125 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| d943e816-b6ca-3797-9693-a692756f2c3c | -17.89776 | -57.66135 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| fdd6d8db-e6d2-3abb-a7c4-9f3310d87542 | -17.84101 | -57.65329 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 6d677001-705e-30c8-aa02-430ade90325b | -17.90433 | -57.50053 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 041f904a-fb5d-31de-ab73-bb1fd5ed1f84 | -17.88775 | -57.50806 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| c2f06dd4-1e38-39bb-9989-b6359e48659d | -17.9022 | -57.51617 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| c7b46c59-f5a5-3be0-9245-3fad44260a53 | -18.03464 | -57.56234 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| 04f11716-6aa9-385e-b3ca-ef48099f105e | -17.89332 | -57.66552 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 3d83f990-d50e-39de-89bb-1b0eabd0154b | -17.89528 | -57.50986 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 540f9ba7-be19-31d5-be0a-78bf282571d5 | -17.84628 | -57.58532 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| a29bf09c-a7ad-30a3-932c-8f423212be62 | -18.02821 | -57.55255 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| e1942015-5e4b-3e64-9d9c-70ec82190742 | -17.89152 | -57.50896 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 524bc3d7-1270-3005-b355-23cadc8edcd1 | -17.89267 | -57.67027 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 63d3c6b2-ed5c-3528-9ecd-0995ef1ad5f7 | -17.8486 | -57.65418 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| d03fa950-e890-3d69-9e0a-8d34914612ae | -17.84186 | -57.58949 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 5937cc30-78b6-3b6c-9b93-9e770ca615aa | -17.84694 | -57.58047 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| f7f4efe0-7b0e-3a7d-992c-3e9f118d85dc | -18.05816 | -57.56088 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 728a0d62-7dbf-35af-bb78-4909a1b3e978 | -18.03907 | -57.55838 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 1d3b0b0e-1c3a-317e-86e1-ec725fa246a2 | -18.06579 | -57.54956 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| bfabaf16-7add-36f7-8b3f-d45d352e5a54 | -17.90532 | -57.66242 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 62da337f-09f2-3eae-80ea-44e111440ec7 | -17.84161 | -57.64884 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| d8bd4dc2-f20d-381c-b09b-c32cc689d288 | -17.89602 | -57.50442 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.2 |
-| 9fc0bbcb-be1c-3614-8f5e-4e5bff19fe61 | -17.8971 | -57.66608 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 37bd5f25-b72f-317d-83d2-e9000157a779 | -18.0326 | -57.54882 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 23b684b6-d88b-3a9d-90ec-f42d8779fd23 | -17.82549 | -57.65926 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| ae637fd2-9f24-3ef5-819b-3a8c6cb60c30 | -19.58638 | -54.02818 | 2025-10-10 05:25:00 | NPP-375D | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 1b4736a9-ae59-325d-9d7d-281b06b64e9d | -18.06841 | -57.55904 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| e0c8e4e0-3aa4-3617-bb75-389efa1c333c | -17.82611 | -57.65482 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 2349b6b4-31cb-31da-a918-a3e59741ad72 | -17.81884 | -57.64622 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
-| 50257029-f71c-361c-8bf3-76ea8b2a24c5 | -17.82467 | -57.63136 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| 3a374dca-802c-38fb-acc8-5e996ce67b33 | -18.06256 | -57.54468 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| ab19bee8-286b-3d24-bf9f-dafdb5e3695a | -17.93371 | -57.62051 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| b3357288-5744-3d36-889a-99bdab68535b | -17.90219 | -57.65718 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| bdaca01a-d79f-3710-af89-a74747ad3d30 | -17.92991 | -57.62 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| cee4c15e-a339-32ca-8040-429b2a8150a9 | -17.82534 | -57.62626 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 335b360b-1378-3b4d-97c0-b93e53a080b7 | -18.06902 | -57.55449 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 8fcd5c0c-030e-37a9-a48e-579542f1495c | -17.85238 | -57.65467 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 37a85c48-ce0d-3ec5-9721-c8cbf8dfe466 | -17.89645 | -57.67084 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 71dda3d9-f024-3775-8940-a6d2a0da4064 | -19.587 | -54.02259 | 2025-10-10 05:25:00 | NPP-375D | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| fff4269c-182f-3ed7-9668-fe981cdff069 | -17.84563 | -57.59018 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| b3aa57a7-0d8f-33b9-a6b5-d116894bc0f1 | -17.90154 | -57.6619 | 2025-10-10 05:25:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 0fa215b0-4b8d-3c8c-be21-429062549a5b | -2.1853 | -54.48003 | 2025-10-10 05:40:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3972fe48-cb3d-3ebb-b270-01b9abf6ee64 | -2.19086 | -54.48083 | 2025-10-10 05:40:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 9339f3ca-6bbe-3a94-80bc-db9ba3898ae2 | -2.1903 | -54.48446 | 2025-10-10 05:40:00 | NOAA-20 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| a09efc7c-e992-3e94-9833-e1efc5ededf0 | -9.64426 | -66.94125 | 2025-10-10 05:42:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| cd2c5dbe-1532-344a-b690-64320ee7e58a | -9.63976 | -67.39539 | 2025-10-10 05:42:00 | NOAA-20 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 917eb6e5-3ba3-35fa-971a-78074b8e3b3e | -10.49579 | -69.13624 | 2025-10-10 05:42:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| d086aa87-3c2f-3aa8-824c-13dac167e3d4 | -9.95048 | -66.77279 | 2025-10-10 05:42:00 | NOAA-20 | ACRELÂNDIA | ACRE | Brasil | 1200013 | 12 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 8a589d55-7c2e-3872-9a25-938f6aadad56 | -6.23708 | -41.57861 | 2025-10-11 11:57:00 | TERRA_M-M | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 8.6 |
+| 62abfadf-7cbf-3bae-a493-a02cd554b73c | -4.05491 | -42.51517 | 2025-10-11 11:57:00 | TERRA_M-M | NOSSA SENHORA DOS REMÉDIOS | PIAUÍ | Brasil | 2206803 | 22 | 33 | nan | nan | nan | Caatinga | 11.3 |
+| 32164954-bb02-3b45-b109-183657c043cd | -5.60397 | -39.53098 | 2025-10-11 11:57:00 | TERRA_M-M | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 25.6 |
+| 021c37f9-19c1-3236-9e51-d928dcda3968 | -6.16334 | -42.54794 | 2025-10-11 11:57:00 | TERRA_M-M | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 11.0 |
+| 8907daab-46c1-3b0e-a9c6-d176879478da | -6.21028 | -40.19344 | 2025-10-11 11:57:00 | TERRA_M-M | ARNEIROZ | CEARÁ | Brasil | 2301505 | 23 | 33 | nan | nan | nan | Caatinga | 6.3 |
+| 9d3f228d-22fa-3d02-bdab-68a563169fbf | -6.72746 | -42.08266 | 2025-10-11 11:57:00 | TERRA_M-M | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 12.4 |
+| acfbd24f-31f0-3675-a81e-77a6cd441272 | -5.48497 | -43.40412 | 2025-10-11 11:57:00 | TERRA_M-M | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| ef7f3b40-224b-3ae7-aaae-492630cd65e5 | -6.18728 | -42.56934 | 2025-10-11 11:57:00 | TERRA_M-M | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 34.1 |
+| e4c1711d-5252-3c9d-824a-ed94dbd1d3ab | -4.4142 | -43.47176 | 2025-10-11 11:57:00 | TERRA_M-M | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| a305e5b0-afd2-36a2-beb1-ddca7e0a2398 | -3.55889 | -44.41886 | 2025-10-11 11:57:00 | TERRA_M-M | CANTANHEDE | MARANHÃO | Brasil | 2102705 | 21 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 48aafaa8-ca41-358e-a79e-69d6a591f461 | -5.64206 | -43.90865 | 2025-10-11 11:57:00 | TERRA_M-M | FORTUNA | MARANHÃO | Brasil | 2104206 | 21 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| b7854cee-daf7-3f37-bcb2-2bdcbefeb978 | -6.15451 | -42.54671 | 2025-10-11 11:57:00 | TERRA_M-M | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 50.2 |
+| d1ac7c16-946e-3b6f-9786-9d1318f9c404 | -6.73556 | -42.8559 | 2025-10-11 11:57:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 7.1 |
+| 93cc3e60-93d2-323b-b686-a435c85508fa | -6.25444 | -42.99292 | 2025-10-11 11:57:00 | TERRA_M-M | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 108.4 |
+| e962e23a-7645-35ce-9170-cc93a1e6927c | -6.76065 | -42.82056 | 2025-10-11 11:57:00 | TERRA_M-M | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 24.6 |
+| acddb51f-a196-3d9c-88ba-8f5f59d92459 | -6.20987 | -42.66274 | 2025-10-11 11:57:00 | TERRA_M-M | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 15.9 |
+| 9b10ae5c-92f8-3774-b7d1-29a26b5b1334 | -6.22692 | -41.58633 | 2025-10-11 11:57:00 | TERRA_M-M | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 17.9 |
+| 071a0177-b04e-34a3-af96-e8dfe7075b9c | -6.26806 | -42.97351 | 2025-10-11 11:57:00 | TERRA_M-M | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 7ecc7eee-e0b9-36a5-8a54-4c5a6a8d1f72 | -4.97421 | -38.61559 | 2025-10-11 11:57:00 | TERRA_M-M | IBICUITINGA | CEARÁ | Brasil | 2305332 | 23 | 33 | nan | nan | nan | Caatinga | 11.0 |
+| 1faf3fb6-d030-32ac-9bad-7286ec42194b | -6.25459 | -42.92917 | 2025-10-11 11:57:00 | TERRA_M-M | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| b2347164-4d1c-35f9-b81b-6aa9125ae088 | -6.25371 | -42.74775 | 2025-10-11 11:57:00 | TERRA_M-M | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 7.6 |
+| cad8fb2b-4423-3893-9f65-f04e8fe5fd94 | -5.26368 | -43.78085 | 2025-10-11 11:57:00 | TERRA_M-M | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 09af1ce4-6ff4-3f6b-9ff2-5fcd691ff079 | -5.32817 | -43.08983 | 2025-10-11 11:57:00 | TERRA_M-M | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 0c8681a0-f5de-3dc1-8319-d32a205f69c4 | -6.16206 | -42.55677 | 2025-10-11 11:57:00 | TERRA_M-M | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 18.1 |
+| 538b1515-ee7c-3a27-bd02-82034900c5e2 | -6.19739 | -42.56174 | 2025-10-11 11:57:00 | TERRA_M-M | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 339.4 |
+| 3c557b47-43e0-3499-a81f-760296c32f47 | -6.10999 | -38.01791 | 2025-10-11 11:57:00 | TERRA_M-M | SERRINHA DOS PINTOS | RIO GRANDE DO NORTE | Brasil | 2413557 | 24 | 33 | nan | nan | nan | Caatinga | 18.6 |
+| bab61bf4-75da-31d1-b99e-a21690fb2ce5 | -5.87117 | -42.84086 | 2025-10-11 11:57:00 | TERRA_M-M | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 21.6 |
+| 91480db0-d23f-3166-bc48-bde7b9988648 | -6.24685 | -42.98279 | 2025-10-11 11:57:00 | TERRA_M-M | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 18.9 |
+| 9564038f-0b97-3793-95bc-9e7f1feaff94 | -5.15564 | -39.37417 | 2025-10-11 11:57:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 9.1 |
+| ce528804-fd67-3fe9-b770-0f087e1f5a0f | -10.5274 | -47.3601 | 2025-10-11 12:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 71.2 |
+| 23ead44b-d45e-3e99-b0b1-7a7e43ab3e4d | -10.9293 | -47.1553 | 2025-10-11 12:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| 3c0f78bc-545c-3f50-bd22-b500b01679dc | -10.2088 | -44.591 | 2025-10-11 12:00:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| 6e8952c9-f40e-3b44-a325-e175a959dd1c | -10.5084 | -47.3624 | 2025-10-11 12:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 92.1 |
+| 87620f1f-92e9-38c4-a2e8-faf7f9607393 | -10.2085 | -44.6141 | 2025-10-11 12:00:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 84.8 |
+| b0dbcbf3-f20c-3090-9f10-e7267c3ab3a7 | -15.0016 | -45.5958 | 2025-10-11 12:00:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 104.3 |
+| d8a1c83a-c9d5-3ce5-87e3-78b9ad19c787 | -15.0021 | -45.5725 | 2025-10-11 12:00:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 176.4 |
+| d23d0166-15ce-36e2-a89d-a0ef074f4636 | -13.22616 | -42.33943 | 2025-10-11 12:00:00 | TERRA_M-T | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 8.9 |
+| 90d896ef-55ac-3d26-afc7-049de5357065 | -7.5501 | -44.29155 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| 26dfdbb1-4d6a-3570-9383-2e87d34cead1 | -6.76063 | -44.95439 | 2025-10-11 12:00:00 | TERRA_M-T | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 75e972f2-61be-3839-84ee-035438f33c3f | -8.97742 | -46.90648 | 2025-10-11 12:00:00 | TERRA_M-T | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 18.0 |
+| 0708c41c-58d7-36d8-b989-dfaee94aab7a | -15.00063 | -45.58053 | 2025-10-11 12:00:00 | TERRA_M-T | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 46.5 |
+| 1f0209ae-5c88-3962-8faf-236754b9f26f | -14.9992 | -45.59019 | 2025-10-11 12:00:00 | TERRA_M-T | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 25.8 |
+| fba21948-4426-3837-98b4-d8c264ebf331 | -15.01617 | -47.56315 | 2025-10-11 12:00:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 17.7 |
+| c60a038c-9dd8-374e-8992-e10fa1f3731e | -10.52644 | -47.34346 | 2025-10-11 12:00:00 | TERRA_M-T | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 21.7 |
+| 20f5eb82-5e74-3553-aa33-018fad696349 | -14.27808 | -45.90252 | 2025-10-11 12:00:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.9 |
+| d84b3e68-e879-3f3b-b8de-93e6ab4cc7c7 | -14.56095 | -45.55566 | 2025-10-11 12:00:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| 41a352d6-930d-3e9b-a472-f154344f137d | -10.19963 | -44.5994 | 2025-10-11 12:00:00 | TERRA_M-T | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| edaf8bf5-c0c7-3ce2-9e1a-4f32a69a42e3 | -7.35713 | -44.79499 | 2025-10-11 12:00:00 | TERRA_M-T | BENEDITO LEITE | MARANHÃO | Brasil | 2101806 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| 4e456670-994b-37ba-841e-d6a2771260bc | -8.13599 | -44.45391 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.5 |
+| 9723d214-1b6a-34da-b081-29f1dbda1ea6 | -13.27858 | -47.13058 | 2025-10-11 12:00:00 | TERRA_M-T | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 30.3 |
+| 4dfaecbe-d705-3c09-9212-795750ee8f8a | -15.57593 | -45.31086 | 2025-10-11 12:00:00 | TERRA_M-T | CHAPADA GAÚCHA | MINAS GERAIS | Brasil | 3116159 | 31 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| 02afd82c-3d62-3683-accd-5a52ba48cbca | -8.50206 | -44.60186 | 2025-10-11 12:00:00 | TERRA_M-T | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| 8e5efd71-4c94-3861-a69e-65988ec79d83 | -7.84469 | -44.55168 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| 9bceef52-37ec-38a6-9f61-e05693668bc0 | -10.51581 | -47.34172 | 2025-10-11 12:00:00 | TERRA_M-T | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 22.0 |
+| 12a944b3-249a-3dd2-95db-3d586f74ddbb | -7.52976 | -44.61715 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 24.2 |
+| b1f23e78-6598-3d5a-b61f-69bdfa12227f | -14.5519 | -47.3179 | 2025-10-11 12:00:00 | TERRA_M-T | SÃO JOÃO D'ALIANÇA | GOIÁS | Brasil | 5220009 | 52 | 33 | nan | nan | nan | Cerrado | 25.2 |
+| eb4463a5-1b8d-3c4d-a983-1572bedb7d6a | -9.12377 | -45.06636 | 2025-10-11 12:00:00 | TERRA_M-T | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 21.0 |
+| 7737f6af-ad93-3b46-a171-da55d4d105f3 | -15.00969 | -45.58192 | 2025-10-11 12:00:00 | TERRA_M-T | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| 40de96d8-cc4b-383c-9476-7012b1068259 | -14.83615 | -47.33587 | 2025-10-11 12:00:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 9.3 |
+| 0c237ee9-fd57-3eb1-b8e0-c2ba6ff41250 | -7.85765 | -44.46381 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 62.0 |
+| d7e3763a-0809-3365-a32e-c6232c617343 | -16.23076 | -44.80568 | 2025-10-11 12:00:00 | TERRA_M-T | ICARAÍ DE MINAS | MINAS GERAIS | Brasil | 3130051 | 31 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| f5f7bb1e-ef50-3e7e-9cd1-0f6bed36d953 | -8.50349 | -44.5921 | 2025-10-11 12:00:00 | TERRA_M-T | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 537.5 |
+| b7e2bd11-ec73-3d50-931a-988aa9c1b93c | -12.50065 | -43.17122 | 2025-10-11 12:00:00 | TERRA_M-T | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Cerrado | 48.9 |
+| 8eac5d0a-c067-39c7-8960-2d02a4c9cc6a | -8.0146 | -44.45971 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 11.9 |
+| 4d925fc2-e36b-342b-bff8-48f3e4ad0b39 | -8.166 | -44.0615 | 2025-10-11 12:00:00 | TERRA_M-T | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| f4b351c6-260d-3e09-b2e1-b2d09e5bedad | -13.31134 | -47.11747 | 2025-10-11 12:00:00 | TERRA_M-T | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 36.0 |
+| b03d1e1d-8f22-3e05-bdaa-972048dd34af | -12.38779 | -42.53804 | 2025-10-11 12:00:00 | TERRA_M-T | OLIVEIRA DOS BREJINHOS | BAHIA | Brasil | 2923209 | 29 | 33 | nan | nan | nan | Caatinga | 38.2 |
+| 5ced58c1-96ee-3f9c-85b3-60c8b3b566ad | -12.92653 | -42.30787 | 2025-10-11 12:00:00 | TERRA_M-T | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 15.2 |
+| c6b5eb14-80f9-3a32-a3af-f06bdc86c4eb | -6.91776 | -43.57732 | 2025-10-11 12:00:00 | TERRA_M-T | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 17.3 |
+| afbdcee8-d110-3160-9c7d-144533438ce6 | -7.84282 | -44.80056 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 28.9 |
+| af88a2b8-2c40-3a53-97c9-9af74fafa470 | -7.87183 | -44.49543 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 25.4 |
+| 4ba95e84-6fec-3536-86b2-1cef2b3dbbc3 | -8.49589 | -46.1608 | 2025-10-11 12:00:00 | TERRA_M-T | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 52.5 |
+| 67dec9eb-3470-3138-9750-4d6facdf6cdc | -7.3219 | -45.32084 | 2025-10-11 12:00:00 | TERRA_M-T | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| d97f3e4d-748f-3faa-8968-a914d01ae212 | -10.2073 | -44.61024 | 2025-10-11 12:00:00 | TERRA_M-T | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 25.7 |
+| 9cb492c5-9064-3818-8212-42e10a1eddc2 | -15.30198 | -43.8335 | 2025-10-11 12:00:00 | TERRA_M-T | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 175e3ce6-3677-368c-9df6-f5adf9e44e7a | -14.99302 | -45.5695 | 2025-10-11 12:00:00 | TERRA_M-T | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 208.8 |
+| ba5c7fdf-7e59-351c-bcb4-c8d9d21e0ec9 | -15.02506 | -41.67833 | 2025-10-11 12:00:00 | TERRA_M-T | PIRIPÁ | BAHIA | Brasil | 2924702 | 29 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| cc0aef1f-36d2-333b-aac6-9889795a0760 | -10.42678 | -44.99469 | 2025-10-11 12:00:00 | TERRA_M-T | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 31.2 |
+| 1e049ad1-22ac-377e-be41-20748572ee65 | -14.99444 | -45.55992 | 2025-10-11 12:00:00 | TERRA_M-T | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| b25b64da-2573-32de-adf7-05bcccef4546 | -16.31262 | -47.14704 | 2025-10-11 12:00:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 20.7 |
+| 5d109640-2f0c-3709-b480-ea2bc83ff727 | -8.20106 | -43.31612 | 2025-10-11 12:00:00 | TERRA_M-T | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 27.5 |
+| 147696f9-def3-31a4-b5c2-f59681b3bd5f | -7.87326 | -44.4857 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 21.9 |
+| fb5d42e8-3ad4-3cf4-9184-f63bf88c99de | -12.74929 | -48.65733 | 2025-10-11 12:00:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 53.5 |
+| ca5f0adb-e90a-3d31-909c-56a0e02a0355 | -10.84531 | -47.14533 | 2025-10-11 12:00:00 | TERRA_M-T | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| 94fd90cc-65cc-3ebc-9310-6ea86b0cde50 | -9.40534 | -45.77564 | 2025-10-11 12:00:00 | TERRA_M-T | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| 0cfc3652-0241-37d0-9c3c-266e155e24f7 | -12.46011 | -43.20221 | 2025-10-11 12:00:00 | TERRA_M-T | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 6ea6d5ea-f743-3412-a027-59cf81c37eb5 | -8.8326 | -44.42009 | 2025-10-11 12:00:00 | TERRA_M-T | CURRAIS | PIAUÍ | Brasil | 2203230 | 22 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 3eb61caa-b949-3d17-b02d-57b16cee466a | -13.3324 | -42.37037 | 2025-10-11 12:00:00 | TERRA_M-T | CATURAMA | BAHIA | Brasil | 2907558 | 29 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| 3b85b5c9-e16f-3b7e-bb32-776ad65cccd6 | -12.74064 | -48.63914 | 2025-10-11 12:00:00 | TERRA_M-T | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 35.4 |
+| 7f608fde-df03-3ad1-86e0-7ea2a55f7134 | -15.69792 | -46.63082 | 2025-10-11 12:00:00 | TERRA_M-T | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 22.2 |
+| 2164677e-63b7-3ac6-9abb-89bb656f6f81 | -13.49209 | -42.01649 | 2025-10-11 12:00:00 | TERRA_M-T | ÉRICO CARDOSO | BAHIA | Brasil | 2900504 | 29 | 33 | nan | nan | nan | Caatinga | 6.8 |
+| a029681a-7a75-3384-a9eb-eb993cb874bb | -7.41132 | -42.97443 | 2025-10-11 12:00:00 | TERRA_M-T | ITAUEIRA | PIAUÍ | Brasil | 2205102 | 22 | 33 | nan | nan | nan | Caatinga | 16.1 |
+| 75d10fd1-c920-3f5d-9669-be2f59146517 | -15.11164 | -41.53801 | 2025-10-11 12:00:00 | TERRA_M-T | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 13.2 |
+| 3cc16ec3-5b45-394a-ab08-70b3c63d5649 | -11.72222 | -44.28989 | 2025-10-11 12:00:00 | TERRA_M-T | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 7c4b7520-3538-3ca0-8d58-519f70e44455 | -13.30958 | -47.97242 | 2025-10-11 12:00:00 | TERRA_M-T | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 16.0 |
+| a0088234-c235-3994-9e7b-5b6594b1d77a | -7.86261 | -44.49409 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 42.9 |
+| cd36d782-d24c-327b-9535-9178cfa74ec1 | -12.50786 | -47.40735 | 2025-10-11 12:00:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 41.6 |
+| 65a4bcd4-118a-37ac-9566-9b2ff025220e | -15.49062 | -47.99459 | 2025-10-11 12:00:00 | TERRA_M-T | PLANALTINA | GOIÁS | Brasil | 5217609 | 52 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| 2be3948e-6d3f-3dd6-bd8f-6b3e6dd765b4 | -14.03174 | -48.14259 | 2025-10-11 12:00:00 | TERRA_M-T | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 11.3 |
+| 477d7724-d0f3-37f0-96d7-4ac8bba8f5ab | -7.86404 | -44.48437 | 2025-10-11 12:00:00 | TERRA_M-T | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 12.2 |
 
 
 [Clique aqui para ver as próximas entradas](README48.md)
