@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3a41b4c3-e669-347d-9174-c93c6733e9b2 | -10.9293 | -47.1553 | 2025-10-11 12:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 83.1 |
-| 44e43d0a-0bf1-375f-a8ab-200a6843a938 | -13.8501 | -45.7992 | 2025-10-11 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 232.7 |
-| fa64dd5e-a32b-388d-bc71-3113b3a698ad | -11.6282 | -47.5115 | 2025-10-11 12:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 69.0 |
-| 5e921203-81bf-3152-9e7a-f3df1e51bacb | -13.8004 | -45.3917 | 2025-10-11 12:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 82.0 |
-| da53f73e-8519-3398-b7c7-216a0a07b6b1 | -15.0021 | -45.5725 | 2025-10-11 12:10:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 295.1 |
-| d4ee065d-4d97-394d-8de2-cad4adcf3982 | -13.8491 | -45.8454 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 347.1 |
-| 0508e28a-8fa0-3bc4-bde3-14700b49384f | -13.8496 | -45.8223 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 594.5 |
-| 2f3febaf-feda-3215-80e3-9f5f9e15f7cc | -15.0021 | -45.5725 | 2025-10-11 12:20:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 194.3 |
-| 90cdb590-e31d-3c19-a5a7-57adde4aae66 | -10.9293 | -47.1553 | 2025-10-11 12:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 76.8 |
-| 73f2ea64-fc57-3794-a422-f7ce7ecbee6e | -13.8501 | -45.7992 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 295.5 |
-| 6acd22f0-f343-3e37-80ca-cd5955508a60 | -13.322 | -47.1144 | 2025-10-11 12:20:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 106.6 |
-| c934a468-1726-33cc-bb45-6fda65a295aa | -10.2088 | -44.591 | 2025-10-11 12:20:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 81.6 |
-| 40f504a2-b7bc-3c34-b6a0-8d4123eed80d | -10.5274 | -47.3601 | 2025-10-11 12:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 97.5 |
-| 83cbb6bf-fd77-3b50-8823-528989a414a8 | -10.5084 | -47.3624 | 2025-10-11 12:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 83.6 |
-| 57d8920c-8b61-39a4-bf30-cb2eb88e0f3b | -11.6282 | -47.5115 | 2025-10-11 12:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 71.1 |
-| d409d1fb-4c1f-3e2e-86d2-955a06264a5c | -13.8686 | -45.8421 | 2025-10-11 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 732.6 |
-| b1d81479-7ecb-327e-85f1-c8391f2e5792 | -13.3026 | -47.1174 | 2025-10-11 12:20:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 114.4 |
-| bab02c56-5e42-3792-a521-f0dfb266c4a5 | -14.9825 | -45.5761 | 2025-10-11 12:30:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 123.3 |
-| 2c2dbc18-6e92-39d1-be5c-03cfc7a79ff7 | -13.8491 | -45.8454 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 396.5 |
-| fa6b4289-a326-3137-80aa-11e314470b28 | -13.8686 | -45.8421 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 549.5 |
-| 9b000a7f-876e-3866-bdfa-f129731d2c76 | -9.4137 | -45.7861 | 2025-10-11 12:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 84.6 |
-| 32a62f9f-d41d-38cd-bfcf-90fdd023ce73 | -10.9231 | -47.5564 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| 4fd2b2ec-e362-3ab3-8af6-c3b940d061ee | -13.8501 | -45.7992 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 648.6 |
-| dd27981c-233b-3723-a00a-66469ca8ec87 | -12.5097 | -47.3913 | 2025-10-11 12:30:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 69.3 |
-| ff746889-8fdc-33bb-a772-64bf92a7730a | -10.9041 | -47.5588 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 160.9 |
-| f92f09b7-8f3c-3db0-9445-81c53470fe3a | -9.3947 | -45.7882 | 2025-10-11 12:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 86.1 |
-| 89dc3d90-c7a8-39a7-a03d-6468ee191307 | -13.8496 | -45.8223 | 2025-10-11 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1095.2 |
-| 1e021076-36cb-30e2-9f06-bbde99a46f7e | -10.5087 | -47.3401 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 64.8 |
-| 104f847f-a0fb-365b-a43e-7e8277097879 | -15.0016 | -45.5958 | 2025-10-11 12:30:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 131.8 |
-| 890d8aae-f83e-3851-98ed-3ce5cdbceacf | -11.6282 | -47.5115 | 2025-10-11 12:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 96.3 |
-| 5e1d2e65-ff54-36ea-8616-708465abcb4c | -10.5274 | -47.3601 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 72.6 |
-| 8e0a2256-3d32-359a-86b4-2444455c989e | -10.5084 | -47.3624 | 2025-10-11 12:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 84.7 |
-| de36d037-46c7-313a-83d4-78bcda4de2c9 | -12.5093 | -47.4138 | 2025-10-11 12:30:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 130.3 |
-| 30e7255f-3665-3260-b01e-b71aacc57904 | -13.322 | -47.1144 | 2025-10-11 12:30:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 99.3 |
-| 6b2b4db2-bf3f-314e-9fe2-aa9111e44536 | -11.892 | -45.4868 | 2025-10-11 12:30:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 213.9 |
-| e508d991-4b8a-3968-91d2-e1dc44e56160 | -15.0021 | -45.5725 | 2025-10-11 12:30:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 446.8 |
-| ab02da64-0fbf-3e49-abbb-bf062f72578e | -10.5084 | -47.3624 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
-| 399e48c7-4ab7-34c2-a86b-1a3ffe1163a9 | -10.8341 | -47.1671 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 128.3 |
-| 01c56a6b-c673-3096-b0c0-14bf3af36c8d | -13.8491 | -45.8454 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 332.9 |
-| 429d4b3d-7fcc-3495-b970-617f5169c2e6 | -11.6282 | -47.5115 | 2025-10-11 12:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 146.0 |
-| c70b1d82-b791-351f-839c-3521def6d31d | -10.5277 | -47.3379 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 66.7 |
-| 01ca72c1-251c-3f6d-ba9c-02e2ce0c0e98 | -10.0747 | -45.9121 | 2025-10-11 12:40:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| 5e856e61-bda6-3a4c-aa03-4ae686405c9e | -13.2833 | -47.1203 | 2025-10-11 12:40:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| 8f2119dd-d281-3794-aa09-e476b3be35d3 | -12.5093 | -47.4138 | 2025-10-11 12:40:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| 22737d2f-02a5-305b-950d-7c1acdeab1a9 | -13.8686 | -45.8421 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 754.6 |
-| 680e14d1-b03d-3683-9da3-f127569edc8e | -9.1028 | -45.0248 | 2025-10-11 12:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 90.1 |
-| 773551d7-db2c-3a0a-8648-29194ace2d37 | -10.9293 | -47.1553 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 65.4 |
-| 75c09afe-594b-3ef7-bdd3-73b241937d15 | -9.1024 | -45.0477 | 2025-10-11 12:40:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 73.9 |
-| c2073f2f-e9f8-3b46-bc35-5a58e26001ea | -10.5654 | -47.3556 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| a7c6af85-23a1-3851-8d59-3eeb60bac48e | -15.0016 | -45.5958 | 2025-10-11 12:40:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 165.1 |
-| 718f5fa2-1788-3bba-a4d1-36051fcf17da | -13.8501 | -45.7992 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 324.9 |
-| 374bab46-117e-3208-b365-522d6170b835 | -13.3026 | -47.1174 | 2025-10-11 12:40:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 111.7 |
-| af2c28aa-82d9-3e14-adb2-696a600edb1e | -11.6469 | -47.5313 | 2025-10-11 12:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 68.7 |
-| 6837adc1-146a-32e8-97c7-e35849392196 | -11.7809 | -46.3687 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 59.1 |
-| f50644d3-ff67-3814-b72b-233b9f65b1ba | -11.7622 | -46.3487 | 2025-10-11 12:40:00 | GOES-19 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 74.8 |
-| 01240a64-8358-37fc-a2de-fcbe994e2e55 | -13.322 | -47.1144 | 2025-10-11 12:40:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 76.5 |
-| 6c0fd408-268d-3074-878f-5b583e7238fa | -9.3947 | -45.7882 | 2025-10-11 12:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 83.5 |
-| d9635230-0a81-3aeb-9a2d-37b07f06f234 | -15.0021 | -45.5725 | 2025-10-11 12:40:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 288.0 |
-| 769602eb-0e5e-3e8a-ab88-24ba2c8c0555 | -10.5274 | -47.3601 | 2025-10-11 12:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 87.5 |
-| 7db537d1-92d4-38f1-98f6-1338f420aaf7 | -13.8307 | -45.8024 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 101.5 |
-| d331b852-2d2c-3f96-89bb-6687070bd5bb | -11.6278 | -47.5338 | 2025-10-11 12:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| 03cc5ff1-f69d-306b-914f-81bca3374521 | -9.4137 | -45.7861 | 2025-10-11 12:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 173.8 |
-| ca68b2b0-967a-32da-8487-38a51f6db108 | -13.8496 | -45.8223 | 2025-10-11 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 824.3 |
-| 2d445511-ba57-34a3-b598-027005dd4a9a | -11.892 | -45.4868 | 2025-10-11 12:50:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 76.3 |
-| 87cbd43c-07fa-3c5c-a9ec-8c3df01f14eb | -10.5084 | -47.3624 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 73.4 |
-| c2c9d9fd-2a1d-3fc3-81ce-857f860427de | -11.6278 | -47.5338 | 2025-10-11 12:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 65.4 |
-| e509cee2-14b3-3398-a288-0622e8337276 | -11.6282 | -47.5115 | 2025-10-11 12:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 140.0 |
-| 5562505a-be8a-30b0-9817-23b72a5be5f9 | -11.7622 | -46.3487 | 2025-10-11 12:50:00 | GOES-19 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 87.7 |
-| 0ad513d1-2fde-3988-a364-39609cf8d3ee | -9.1028 | -45.0248 | 2025-10-11 12:50:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 92.0 |
-| 63ceeca1-df97-3a33-a0e2-b229059ecf45 | -13.8491 | -45.8454 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 100.0 |
-| e995bdfd-6647-3c82-8e6f-dcd793d7b487 | -10.5277 | -47.3379 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 68.5 |
-| 45e3734b-2e90-31d4-b8f1-60bce482cda9 | -13.8496 | -45.8223 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 242.3 |
-| 1e4b4b89-fd89-33ec-bc52-94f38d41fe7d | -9.1024 | -45.0477 | 2025-10-11 12:50:00 | GOES-19 | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 78.0 |
-| aa646b60-5ba4-3244-9d62-29e64b850b11 | -15.0021 | -45.5725 | 2025-10-11 12:50:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 320.6 |
-| 6bed0216-955f-3d3b-b97f-e6b861237cce | -13.322 | -47.1144 | 2025-10-11 12:50:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 3e84a152-53c2-3dae-8c9d-c42f64350f95 | -10.9293 | -47.1553 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 101.5 |
-| 7b83da66-5a94-352f-82a1-e07ef7af6b83 | -11.7618 | -46.3714 | 2025-10-11 12:50:00 | GOES-19 | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 84.3 |
-| c8aa2eb4-65ab-35c9-8b89-9b13a684cd56 | -13.3026 | -47.1174 | 2025-10-11 12:50:00 | GOES-19 | MONTE ALEGRE DE GOIÁS | GOIÁS | Brasil | 5213509 | 52 | 33 | nan | nan | nan | Cerrado | 107.3 |
-| 452f83f5-c42b-3673-8444-fa89d225a6c6 | -10.0747 | -45.9121 | 2025-10-11 12:50:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 106.3 |
-| db146333-b342-3fe6-96d0-6a2a306a6fdb | -13.7999 | -45.415 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
-| 6a5a0adf-dff2-3e84-a872-eb72937dea71 | -10.9041 | -47.5588 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 63.8 |
-| 99973a87-18e6-3a54-81b3-32fadef0b8cd | -13.8004 | -45.3917 | 2025-10-11 12:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 106.7 |
-| aef803bf-57e0-3e21-8dc1-72fc82217681 | -10.5654 | -47.3556 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 99.1 |
-| 63827ef2-3ab4-3011-9e98-27c2cf278177 | -11.7809 | -46.3687 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 91.2 |
-| 8e2fc302-df3d-3d3b-a1d6-a0ea35715480 | -10.5274 | -47.3601 | 2025-10-11 12:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 93.3 |
-| a3bd4c6e-6f18-3ff9-8532-9a71f982b932 | -10.2543 | -46.5892 | 2025-10-11 13:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 160.1 |
-| a7bd92d6-bd9f-302c-afa4-2207506cab6a | -10.8341 | -47.1671 | 2025-10-11 13:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 88.8 |
-| 12cdc4e5-7cac-3ec3-91c5-685d83d72b6a | -10.0747 | -45.9121 | 2025-10-11 13:00:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 185.3 |
-| c5bfda7c-98fc-31d4-b86d-e6995ea34061 | -12.5097 | -47.3913 | 2025-10-11 13:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 75.5 |
-| eed39831-1ce3-3979-83f4-dd58bbf9ba23 | -10.6703 | -46.6954 | 2025-10-11 13:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| eda62fd5-9c60-32d8-ae4c-8a33f1dd6d75 | -15.0021 | -45.5725 | 2025-10-11 13:00:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 240.5 |
-| 961e35c2-4d7e-3045-8bee-95bc2ccd7f21 | -8.9008 | -46.0007 | 2025-10-11 13:00:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 98.7 |
-| de975aab-7e34-3dee-9ef7-fab689f754dc | -13.8004 | -45.3917 | 2025-10-11 13:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 177.8 |
-| 13908c6c-b4e4-3631-aefa-f1a793dad142 | -15.0016 | -45.5958 | 2025-10-11 13:00:00 | GOES-19 | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 142.3 |
-| 66c22314-99f7-3ec0-a81a-865704bd5ad1 | -12.5093 | -47.4138 | 2025-10-11 13:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 136.8 |
-| 5aa51c45-89f3-327f-80a4-4997cae62bbf | -10.5274 | -47.3601 | 2025-10-11 13:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 99.3 |
-| a4dbafc6-cdb2-36d4-b21c-1d7167ead169 | -12.4705 | -47.4416 | 2025-10-11 13:00:00 | GOES-19 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 68.3 |
-| c811bba6-eee6-3a16-ad05-ac74e760363d | -9.3951 | -45.7655 | 2025-10-11 13:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 77.5 |
-| 4d4b2d6e-bf1b-3d04-9430-896eee64ba87 | -11.6278 | -47.5338 | 2025-10-11 13:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 66.8 |
-| 6757e166-5f86-35ac-953d-fd48308def5d | -10.5464 | -47.3578 | 2025-10-11 13:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
+| 69296d76-d490-37ee-b38e-0bd3fa05976a | -12.26713 | -50.40781 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| bc1c9dd2-1c0e-30a7-b63d-1525b2441ca5 | -10.68447 | -68.86237 | 2025-10-15 05:27:00 | NPP-375D | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| bf8e8280-f0e2-3fcf-8e27-1f196eeb7a14 | -12.27452 | -50.39881 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| 372c5cfe-220f-3bbb-a14c-925d640417fa | -12.24962 | -50.39573 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| b0736a3d-90b3-3180-980c-940c00f7fa5a | -12.22189 | -50.41703 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 9aca5499-4077-3ca7-8ada-4199a6b231f3 | -12.59169 | -62.02528 | 2025-10-15 05:27:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 8a95ac8b-0001-3d65-9864-7e73d8924024 | -12.23096 | -50.39342 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 8774aaaf-ee53-3ef0-b336-36c3b43ca4cc | -12.21286 | -50.38619 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 8b88ba37-c62d-382d-a791-d0c50ae2f695 | -8.97276 | -61.97448 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| aa0db4eb-9641-35d7-8fe0-a27f72ab764d | -12.22811 | -50.41781 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 6eb33746-78af-3e17-b28b-85d37fcda31e | -12.26623 | -50.40165 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| b45e0243-c1e0-37b2-9201-f3f9b8644599 | -12.27245 | -50.40243 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| cae063bb-0945-32b3-b82f-50850b89e60d | -15.85606 | -54.00134 | 2025-10-15 05:27:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b9cf1071-bdf1-3a79-8da8-03ae5119ab1c | -12.26207 | -50.39727 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| e45ff0d7-3706-3f4c-a6ba-ae4e2de6c213 | -9.27448 | -61.82746 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 6bb1f745-8ba3-3697-b114-b52e4791b85f | -12.25585 | -50.3965 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| cbf590b3-eefd-35f8-a4d5-8c911bc18787 | -12.59225 | -62.02174 | 2025-10-15 05:27:00 | NPP-375D | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| cdf0d705-0c14-3b2a-bada-f5c443d37c8b | -8.9761 | -61.97503 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2d0a640c-5502-3b2b-95c2-bedcc9400138 | -12.27867 | -50.40323 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| dc1b2b33-c55c-3ff7-ba7e-c5899a1d7780 | -12.21568 | -50.41626 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| c8f7b86c-a9bd-3d15-8f63-e3fb65477c15 | -15.87415 | -53.98159 | 2025-10-15 05:27:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 1e7c2a6c-67b1-3920-8a25-f44509ba6486 | -12.27812 | -50.40814 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| 5bde6c37-8d67-3e75-9bc6-a33e4ce464df | -8.97944 | -61.97556 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9efc8181-fad6-305a-af29-f202c9ef9591 | -12.26771 | -50.40292 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.6 |
+| 7d43230c-9edc-3d53-a359-25705936c416 | -12.2253 | -50.38774 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| b0f2749e-90f1-3e86-bbe0-3fba54c6bb7c | -15.86937 | -53.97773 | 2025-10-15 05:27:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| b6706dc2-4901-3aa6-9ef0-3fe27649eeea | -12.25411 | -50.41116 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| abf79e80-8ae3-36c6-9e26-eb84ec92cc68 | -12.22246 | -50.41216 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| dafb6d18-f933-38b6-9c98-ff841cebdf98 | -12.27135 | -50.41224 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| 9a9e7012-b23f-3cd5-ab6f-9916d2acc204 | -15.85642 | -53.9983 | 2025-10-15 05:27:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 16acad5a-3869-300a-9fa5-49cc046ce659 | -15.86899 | -53.98085 | 2025-10-15 05:27:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 49ad05fc-06b0-33db-ad01-e242247adac1 | -9.01284 | -62.00274 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 049887ae-cfa0-39d5-be07-5fc838c6bde8 | -9.01227 | -62.00629 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 61b13f58-1358-3587-9ce1-66334b1e4b47 | -12.27276 | -50.41347 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 4f6e6a4a-63f5-3fb2-9847-26c0e2df382e | -12.20326 | -50.41471 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 970862ff-829d-3c77-8e68-ed3800a5e014 | -12.21908 | -50.38697 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| e27bd9ca-8973-322c-98a5-f5692a313e90 | -12.25527 | -50.40139 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 3bcc8479-da8e-3727-84ef-2e4ace258964 | -12.2434 | -50.39496 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 7ef96f21-2f4a-3f42-99cb-b3b30eeffbc3 | -12.22867 | -50.41295 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 103da261-c37f-3b86-a176-ea375cb3e548 | -12.24905 | -50.40062 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2fa4a117-92ef-30b6-9b56-fd377c3e84e4 | -12.26033 | -50.41194 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 138c3388-8381-3cd4-9940-1f2da006ce50 | -12.273 | -50.39755 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| 4e67b740-bf94-38b5-88db-a1bf777116a6 | -12.27335 | -50.40858 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 82eeb21c-c5e5-3162-81ff-412af84733c4 | -12.22473 | -50.39265 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 2a8b89ba-21bb-3f33-bf24-156fddc7a57c | -12.2719 | -50.40734 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| b670c5b1-4320-33cd-b3cd-5e49587e39c4 | -12.26001 | -50.40086 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 5ab01437-7f70-3087-b7a2-c8ca78190162 | -12.26655 | -50.41271 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| 1e397394-abd7-3534-9bdf-2a10e0609076 | -12.24283 | -50.39986 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 05502fe9-4509-3033-906d-ef8393199c14 | -12.26149 | -50.40216 | 2025-10-15 05:27:00 | NPP-375D | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ecda081a-9ed5-319c-95fd-3a09e12732db | -15.87453 | -53.97845 | 2025-10-15 05:27:00 | NPP-375D | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 33a9b8c4-9503-3733-82d4-6608a2fc369a | -9.27504 | -61.82394 | 2025-10-15 05:27:00 | NPP-375D | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2627e455-64d9-3ffc-8f70-13e13a3ecc3b | -20.5596 | -54.65708 | 2025-10-15 05:29:00 | NPP-375D | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 726f4868-0e29-357a-b6ea-3ac89bda74fd | -16.20866 | -59.32652 | 2025-10-15 05:29:00 | NPP-375D | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| e86a392f-9f0f-3e04-a6c1-41efeb3cff6a | -27.74981 | -50.39978 | 2025-10-15 05:31:00 | NPP-375D | LAGES | SANTA CATARINA | Brasil | 4209300 | 42 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| d5032815-198a-337f-b5af-87cd8fbc3906 | 1.87513 | -55.68123 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6850f4d5-8181-39b5-b802-fedd96d33386 | 1.86414 | -55.70443 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3a6a2338-5ad6-3d66-9fc0-d972b82dd180 | 1.77205 | -55.76553 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 68673002-387c-39da-bca9-5f3904d952ca | 1.88014 | -55.66782 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 24e477a6-4f41-3aa9-86e0-bf587752b471 | 1.77734 | -55.76458 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ce3b7dde-8f56-3300-a2be-dc2a5ce05e40 | 1.85935 | -55.7086 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f3d39de0-f42c-3966-a5e0-b1e5119dd646 | 1.87533 | -55.67199 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f2e89878-a21a-397c-a60a-3243ef41d4e5 | 1.87641 | -55.67874 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 32c92c89-afe4-3026-a9de-e7bfa62e289b | 1.87934 | -55.6737 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 1dc722f7-a5fc-3b7b-aa56-f7891968f1e1 | 1.88067 | -55.67115 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 013e26eb-9ffc-33c1-a2ac-0b30b8104866 | 1.87457 | -55.67789 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 7efd17e7-9823-3741-bfb5-a8a552873024 | 1.88835 | -55.66205 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 6c4c2c04-1ad0-3350-ad86-b58a7b734b75 | 1.87878 | -55.67034 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ca65ffaa-9134-35ea-bc8b-11c158353887 | 1.81839 | -55.85686 | 2025-10-15 05:44:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d061a586-4336-365a-88f7-e1e76d56589c | 1.85882 | -55.7053 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| fa5cb6c4-5749-3cec-8f11-5c7f0d60f6fa | 1.77788 | -55.76792 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4c92c5f4-36c8-33bc-b58b-204b4b9c5283 | 1.81893 | -55.86011 | 2025-10-15 05:44:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 38fe9483-e615-399d-93e1-cd0a31b5bb7a | 1.87587 | -55.67537 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 07e0ffe1-a1df-3c31-80f8-75eaff34ff72 | 1.89369 | -55.66125 | 2025-10-15 05:44:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 4fe8096b-eb49-317b-a10b-5f88e039c7c3 | -10.59516 | -69.02112 | 2025-10-15 05:48:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7c4c1ed6-6f93-36da-b001-218149bd3e22 | -10.96495 | -68.4795 | 2025-10-15 05:48:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| e354cc00-fc38-3cf9-bbe7-b9762396a64b | -10.00316 | -67.53945 | 2025-10-15 05:48:00 | NOAA-20 | RIO BRANCO | ACRE | Brasil | 1200401 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 3647d496-badf-3d95-bf17-dae0d0ba2759 | -9.25217 | -68.41166 | 2025-10-15 05:48:00 | NOAA-20 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c94c5f83-e043-33f1-a6b2-a235f839c8ef | -8.97358 | -61.97757 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f79c278a-9287-3bd4-a8a8-ad46bc470906 | -10.87364 | -68.68685 | 2025-10-15 05:48:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 04739748-3f8d-36cc-89ad-0131e378f992 | -9.27679 | -61.82549 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0f1c57e9-58be-3517-963b-8dadc7825fd1 | -8.60115 | -69.75012 | 2025-10-15 05:48:00 | NOAA-20 | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9b916702-b910-314b-ade6-e3f982064730 | -9.54985 | -67.42033 | 2025-10-15 05:48:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| bb69a3b1-b13a-3592-9b2d-0a5503b45317 | -10.96838 | -68.47629 | 2025-10-15 05:48:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 7e7cbbc4-d948-334b-8644-3cb2bd2de41c | -9.01505 | -62.00522 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8f03521c-0b02-32b6-9cb6-b8f07209fb51 | -9.01128 | -62.00553 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e48baf19-278c-3571-8fa3-ba2a0dff3029 | -10.57657 | -69.02917 | 2025-10-15 05:48:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 08bdc6fd-5533-373e-9281-c23576a11d7c | -8.9741 | -61.97389 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 67b2ded6-d305-3b54-aebb-bc0f15321379 | -10.59575 | -69.01749 | 2025-10-15 05:48:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| a2cf4942-fa16-3618-bff6-45bc5346dac0 | -10.96551 | -68.47597 | 2025-10-15 05:48:00 | NOAA-20 | EPITACIOLÂNDIA | ACRE | Brasil | 1200252 | 12 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| c75ee41e-aeed-3b55-8eef-ef8d6546a1a4 | -8.97767 | -61.97819 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 0fd8ef33-088f-3896-a49c-ea94d248b7cb | -10.81552 | -69.19567 | 2025-10-15 05:48:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| c3df3a00-f8ed-3f2f-a3c0-3763e880f863 | -10.68323 | -69.02046 | 2025-10-15 05:48:00 | NOAA-20 | BRASILÉIA | ACRE | Brasil | 1200104 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3c0d9347-11aa-38b8-b84c-0703644c4c2f | -10.68243 | -68.86485 | 2025-10-15 05:48:00 | NOAA-20 | XAPURI | ACRE | Brasil | 1200708 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 2912ba3a-fbcf-345f-a889-11185eb7c3b1 | -8.9782 | -61.9745 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| e267dd0f-f33f-3602-ab22-416bb1dfad7a | -9.01537 | -62.00614 | 2025-10-15 05:48:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 05410bff-f48d-3189-b9ed-c054a06713f0 | -9.58182 | -67.41116 | 2025-10-15 05:48:00 | NOAA-20 | PORTO ACRE | ACRE | Brasil | 1200807 | 12 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2328e9b7-dc9d-3089-9897-91051269e3b9 | -3.53801 | -44.02776 | 2025-10-15 06:03:00 | AQUA_M-M | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 60dffacd-470f-3356-8c1e-cea35acf7f93 | -2.95068 | -49.34105 | 2025-10-15 06:03:00 | AQUA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| e9e7bb92-7e4c-3382-9216-40b8d3c26d0e | -2.86977 | -50.73383 | 2025-10-15 06:03:00 | AQUA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 9.8 |
+| 7f2f8e4f-cf9d-391d-91f4-8be7c86f921c | -3.05402 | -44.46975 | 2025-10-15 06:03:00 | AQUA_M-M | SANTA RITA | MARANHÃO | Brasil | 2110203 | 21 | 33 | nan | nan | nan | Amazônia | 19.9 |
 
 
 [Clique aqui para ver as próximas entradas](README51.md)
