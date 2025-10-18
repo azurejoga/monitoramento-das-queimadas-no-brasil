@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 59c1c1b4-d36d-3359-b9f4-9be271757d7f | -6.19961 | -41.74879 | 2025-10-17 00:13:00 | TERRA_M-M | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 16.3 |
-| 272bf412-754a-31d5-85a4-1e1d84871551 | -4.9515 | -45.06667 | 2025-10-17 00:13:00 | TERRA_M-M | SÃO ROBERTO | MARANHÃO | Brasil | 2111672 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 7a32d463-0ceb-321d-b34c-a86e62b12943 | -7.46501 | -42.15598 | 2025-10-17 00:13:00 | TERRA_M-M | SANTO INÁCIO DO PIAUÍ | PIAUÍ | Brasil | 2209500 | 22 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| cfea0cd6-3851-31d1-b5a0-2aea537613f7 | -8.49906 | -48.50563 | 2025-10-17 00:13:00 | TERRA_M-M | PRESIDENTE KENNEDY | TOCANTINS | Brasil | 1718402 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 0a55065f-2754-3dc2-a4de-2b12bc7d4a74 | -8.23641 | -43.44123 | 2025-10-17 00:13:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 10.0 |
-| 5b36b5e2-fb58-3e2b-87c5-a546d8822570 | -5.93467 | -43.79366 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| e89b5f51-b153-333d-8d34-dd44969b8b7e | -6.25695 | -43.91648 | 2025-10-17 00:13:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| c7e2f3b0-2d2c-3c3d-8be1-4dce432bb057 | -6.7584 | -42.37191 | 2025-10-17 00:13:00 | TERRA_M-M | CAJAZEIRAS DO PIAUÍ | PIAUÍ | Brasil | 2202075 | 22 | 33 | nan | nan | nan | Caatinga | 17.4 |
-| 10dd1dc0-1eab-3a73-8447-c1f81c9c3b0d | -7.84337 | -45.46043 | 2025-10-17 00:13:00 | TERRA_M-M | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 4b6d3fe3-c5cc-3bb7-b919-5929d4903d90 | -7.02865 | -41.81735 | 2025-10-17 00:13:00 | TERRA_M-M | SÃO JOÃO DA VARJOTA | PIAUÍ | Brasil | 2209955 | 22 | 33 | nan | nan | nan | Caatinga | 14.2 |
-| d1c519c0-b53e-3f71-882d-c521b2712c04 | -8.19927 | -43.30749 | 2025-10-17 00:13:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 9.6 |
-| 4e08cb81-c291-32dc-863d-6dfa186ab5e7 | -9.23234 | -48.58386 | 2025-10-17 00:13:00 | TERRA_M-M | MIRANORTE | TOCANTINS | Brasil | 1713304 | 17 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 4f0dda94-cf6a-3eee-aa15-cb60b46380a4 | -8.39777 | -46.2215 | 2025-10-17 00:13:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| dbc6a81a-6365-3b97-b886-a494f064c8ce | -5.92573 | -43.79492 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 881280d0-0c16-3bd4-ba79-b2bf6ae76dfe | -9.89944 | -47.67988 | 2025-10-17 00:13:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 4c456ce4-44ac-39ba-8f10-b0def9b85007 | -7.12939 | -46.44205 | 2025-10-17 00:13:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 06f4fea0-0dec-3fe7-8619-765dc6b2692a | -6.16573 | -44.32372 | 2025-10-17 00:13:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 10.1 |
-| beca745d-892f-3e41-b2ef-c2349975ab55 | -10.66154 | -44.85655 | 2025-10-17 00:13:00 | TERRA_M-M | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 1a82b503-1de8-334c-8b61-63b87d14968c | -8.2275 | -43.4425 | 2025-10-17 00:13:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Cerrado | 14.3 |
-| 79e6fba1-d6d5-3fbf-9e03-d64d99b36299 | -5.88747 | -43.9114 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 9d5c65cc-94cc-3098-b314-2e5fef2f8254 | -7.00211 | -47.00125 | 2025-10-17 00:13:00 | TERRA_M-M | ESTREITO | MARANHÃO | Brasil | 2104057 | 21 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 01ac4a94-6731-30d2-a5f9-cb59508a0713 | -9.07917 | -48.02802 | 2025-10-17 00:13:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| 11a5eab9-a54e-3661-bd13-9e63a583dc37 | -4.40651 | -43.40967 | 2025-10-17 00:13:00 | TERRA_M-M | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 143.3 |
-| 622e4971-8871-353e-9861-d91d022a50f4 | -6.5211 | -46.51368 | 2025-10-17 00:13:00 | TERRA_M-M | SÍTIO NOVO | MARANHÃO | Brasil | 2111805 | 21 | 33 | nan | nan | nan | Cerrado | 44.2 |
-| 3d75f976-4d83-3ee2-b146-bfa1ca9f759b | -6.06894 | -41.89766 | 2025-10-17 00:13:00 | TERRA_M-M | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 11.6 |
-| e461e103-d4d9-359c-a955-d156f48bfdb8 | -6.89269 | -43.98955 | 2025-10-17 00:13:00 | TERRA_M-M | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| a31a6997-c813-3e01-ba35-501f5aae299c | -4.66535 | -44.80238 | 2025-10-17 00:13:00 | TERRA_M-M | IGARAPÉ GRANDE | MARANHÃO | Brasil | 2105203 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| 3163d396-9ce3-36d0-a5d6-d1fb6f9be005 | -5.84509 | -43.8772 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| b085e542-137c-3c88-a662-588ccfede43b | -5.49265 | -42.16924 | 2025-10-17 00:13:00 | TERRA_M-M | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 6.4 |
-| efcf8950-1090-3566-a768-66ec32c5a7f4 | -10.50161 | -43.43224 | 2025-10-17 00:13:00 | TERRA_M-M | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 62.8 |
-| 97dab7eb-858d-30c7-922a-c817ad72a641 | -4.71758 | -46.45206 | 2025-10-17 00:13:00 | TERRA_M-M | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 26.9 |
-| c1ad0fe1-63aa-384d-8931-dfbd18e74f1a | -6.35101 | -41.51884 | 2025-10-17 00:13:00 | TERRA_M-M | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 10.8 |
-| 0f9eabbc-cc5b-33cf-a87b-86b968d1fb8b | -5.88491 | -43.8933 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 4b8da8f3-df17-31c8-8d76-55eae83026df | -10.26581 | -44.04879 | 2025-10-17 00:13:00 | TERRA_M-M | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 32.9 |
-| d7554024-e762-3ad5-beba-cf2d6a6ec2dd | -10.05228 | -43.83756 | 2025-10-17 00:13:00 | TERRA_M-M | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 0e5c1bc0-3ea9-309a-978b-b10b47e90271 | -6.2343 | -44.15388 | 2025-10-17 00:13:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 30.9 |
-| 331a9c14-3b3a-3b2b-816a-939779373f96 | -6.35607 | -41.48287 | 2025-10-17 00:13:00 | TERRA_M-M | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 8.0 |
-| e78b065d-f8b8-3457-9a66-444cc7f8ea59 | -5.86921 | -43.91981 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 11.7 |
-| 5de3b23d-cfb4-307e-9fd4-4f8d454327e0 | -5.51141 | -43.7954 | 2025-10-17 00:13:00 | TERRA_M-M | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 4c0fd660-1863-3549-b40a-5db74efd82d6 | -8.39119 | -46.24236 | 2025-10-17 00:13:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 23.2 |
-| 8baf9f61-1f37-3ad4-ab5b-1920fd7ea6b3 | -5.91932 | -45.33699 | 2025-10-17 00:13:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 67139ec6-de38-34a8-81d8-54f5feb6c030 | -10.53902 | -44.49948 | 2025-10-17 00:13:00 | TERRA_M-M | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| af2cafdf-58b4-3d19-975b-b786984ac225 | -10.51142 | -45.04031 | 2025-10-17 00:13:00 | TERRA_M-M | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| ef1efd86-8c84-3d67-bcfa-c81fe7fd8c22 | -6.13091 | -41.75983 | 2025-10-17 00:13:00 | TERRA_M-M | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 15.4 |
-| fee9f9de-f391-3b93-8de4-8951d75dbdcf | -11.1784 | -49.80396 | 2025-10-17 00:13:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 71e20b22-9113-3be9-9d9f-316ad1ce0c91 | -5.74811 | -49.02602 | 2025-10-17 00:13:00 | TERRA_M-M | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 15.9 |
-| 10168235-39cd-3e72-8ff8-634faff71441 | -6.12927 | -41.74869 | 2025-10-17 00:13:00 | TERRA_M-M | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 15.1 |
-| b959129b-5481-362a-aefd-c630868f34b9 | -6.13305 | -44.2832 | 2025-10-17 00:13:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 4c7565ab-d44a-3318-8e57-c28b523b498c | -8.27968 | -43.36084 | 2025-10-17 00:13:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 7.4 |
-| 53c2382a-7a67-349c-8de0-afc01846bd95 | -4.39602 | -43.40147 | 2025-10-17 00:13:00 | TERRA_M-M | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 76.2 |
-| a947712f-a137-3a03-a120-0105909c3138 | -7.1844 | -42.19514 | 2025-10-17 00:13:00 | TERRA_M-M | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 4.9 |
-| 5027d3fc-eaa3-33a0-a6ae-500850c549a4 | -10.28098 | -44.02843 | 2025-10-17 00:13:00 | TERRA_M-M | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 107.4 |
-| c29076bb-d5ed-35c2-bfd5-85245bd72da2 | -9.10257 | -46.6692 | 2025-10-17 00:13:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| eaa68d3a-13a4-35f1-9194-4ab6629f5e73 | -9.62352 | -49.14149 | 2025-10-17 00:13:00 | TERRA_M-M | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 19.1 |
-| e9e105ef-3893-3bbd-b64c-84be73c81ec2 | -9.88212 | -47.68802 | 2025-10-17 00:13:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 37.6 |
-| a57f02cb-217b-3050-a6ff-ccb64b61766e | -7.17286 | -42.51518 | 2025-10-17 00:13:00 | TERRA_M-M | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| e098c712-05bc-3205-ac28-2628c99c27c7 | -5.83839 | -40.81282 | 2025-10-17 00:13:00 | TERRA_M-M | QUITERIANÓPOLIS | CEARÁ | Brasil | 2311264 | 23 | 33 | nan | nan | nan | Caatinga | 9.7 |
-| 0810f27d-15b3-3e2e-b21b-7a3bcf966629 | -4.38551 | -43.39324 | 2025-10-17 00:13:00 | TERRA_M-M | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 30.7 |
-| 2ab37afb-d55c-3f88-8b67-3325f41867a1 | -6.2928 | -45.50512 | 2025-10-17 00:13:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 08b149a3-2306-3266-ad7e-b4d92153a389 | -7.2912 | -42.29765 | 2025-10-17 00:13:00 | TERRA_M-M | COLÔNIA DO PIAUÍ | PIAUÍ | Brasil | 2202778 | 22 | 33 | nan | nan | nan | Caatinga | 5.1 |
-| 254f5524-207b-37f7-bdc9-09848fdbed84 | -5.83765 | -45.54473 | 2025-10-17 00:13:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| a93c1396-4f43-3876-9add-85eded3c7962 | -10.94887 | -49.75689 | 2025-10-17 00:13:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 28.1 |
-| 7dfe8106-2617-3935-aba8-97f1d8b8d0e7 | -5.22582 | -46.19448 | 2025-10-17 00:13:00 | TERRA_M-M | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 13.5 |
-| 8838ede7-76ca-3dcb-ab57-a78ca81ea02a | -10.49537 | -43.38761 | 2025-10-17 00:13:00 | TERRA_M-M | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| 7e26159d-80e9-3ee4-afcd-a06acd5bb855 | -10.56434 | -43.60838 | 2025-10-17 00:13:00 | TERRA_M-M | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 59a2602f-eabe-3f1b-9f4c-c39252d2262f | -8.33448 | -46.2408 | 2025-10-17 00:13:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 19.0 |
-| 7375011a-d2af-3b3f-b9a4-f07d0c3afe33 | -7.95226 | -44.10881 | 2025-10-17 00:13:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 60.0 |
-| 35d35505-2503-3e6a-8ccc-e35bda25bb4a | -7.18347 | -41.68103 | 2025-10-17 00:13:00 | TERRA_M-M | PAQUETÁ | PIAUÍ | Brasil | 2207553 | 22 | 33 | nan | nan | nan | Caatinga | 6.8 |
-| 9ccbd074-ea7b-3567-855c-9cb6c242d3dd | -9.15061 | -41.05665 | 2025-10-17 00:13:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 32.8 |
-| cda5c2ce-5b74-37da-98dd-f6d4d6d72f0d | -10.0611 | -43.83628 | 2025-10-17 00:13:00 | TERRA_M-M | AVELINO LOPES | PIAUÍ | Brasil | 2201101 | 22 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| a838d40a-37ca-3c38-a062-87fa00a81dd9 | -6.25569 | -43.9075 | 2025-10-17 00:13:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 14.9 |
-| b334606c-0bf4-3343-b8ad-1831439e4afc | -5.85401 | -43.87596 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 17.1 |
-| 0a680bde-53b4-320d-ba29-da7fee873435 | -9.96399 | -43.86576 | 2025-10-17 00:13:00 | TERRA_M-M | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 6ad24d2d-9357-34c8-91b8-337af13d1f67 | -8.82253 | -47.31247 | 2025-10-17 00:13:00 | TERRA_M-M | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 35.1 |
-| 3ec3eeae-64d6-3881-95f2-b70c6a693057 | -10.48074 | -43.79971 | 2025-10-17 00:13:00 | TERRA_M-M | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 35aada20-6281-3cda-a12a-42075beb921c | -8.33318 | -46.23101 | 2025-10-17 00:13:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 37.0 |
-| f82060ae-cb56-3ac3-8a63-05d41cfdfeb1 | -5.2453 | -49.22551 | 2025-10-17 00:13:00 | TERRA_M-M | NOVA IPIXUNA | PARÁ | Brasil | 1504976 | 15 | 33 | nan | nan | nan | Amazônia | 16.2 |
-| 9faf5218-d7f6-3949-8a75-ce9c66cbd788 | -8.23887 | -43.32963 | 2025-10-17 00:13:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| a67c65b3-5de5-3c71-96dc-e6e6812ecb09 | -6.20945 | -41.74735 | 2025-10-17 00:13:00 | TERRA_M-M | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 10.0 |
-| a9b86032-241d-37a5-a2b0-3ac1da483725 | -11.51957 | -49.13667 | 2025-10-17 00:13:00 | TERRA_M-M | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 629120f9-0ee2-358c-af4d-1b5dfc85c656 | -6.17334 | -42.61732 | 2025-10-17 00:13:00 | TERRA_M-M | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 10.1 |
-| b0da4165-8ac1-338b-8264-cb89c34673dc | -7.54413 | -42.06482 | 2025-10-17 00:13:00 | TERRA_M-M | SANTO INÁCIO DO PIAUÍ | PIAUÍ | Brasil | 2209500 | 22 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 9ed77dd5-133b-3c53-b316-b8b834de629e | -9.24795 | -44.359 | 2025-10-17 00:13:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 13.4 |
-| 7c000e19-7968-36c0-b257-635631e6faf3 | -9.88047 | -47.67555 | 2025-10-17 00:13:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 55.7 |
-| 09062939-ce92-3426-a31a-fee5a918f2b1 | -10.51479 | -44.19181 | 2025-10-17 00:13:00 | TERRA_M-M | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| 66229c49-3479-365b-a566-7f1430c784a0 | -6.25594 | -44.50308 | 2025-10-17 00:13:00 | TERRA_M-M | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 3f9ef7e9-ece9-3e72-bb9b-471a3e28781b | -8.38336 | -46.32414 | 2025-10-17 00:13:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| a713f955-976a-3472-8384-19de178dfcbd | -8.25801 | -43.33611 | 2025-10-17 00:13:00 | TERRA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| 22359dd1-6f72-39ac-8403-f34d0b8c7117 | -6.28963 | -42.97028 | 2025-10-17 00:13:00 | TERRA_M-M | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 80a7e314-a6b4-3709-bac6-ffdb2d8bfb25 | -4.43186 | -43.39962 | 2025-10-17 00:13:00 | TERRA_M-M | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 0a71542f-4a31-369c-9955-7642dfe11e1d | -8.23543 | -44.82447 | 2025-10-17 00:13:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 55.7 |
-| b0d59a97-804d-3e39-b66b-43119d5418eb | -6.39894 | -41.49393 | 2025-10-17 00:13:00 | TERRA_M-M | LAGOA DO SÍTIO | PIAUÍ | Brasil | 2205599 | 22 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| d1da283c-b300-39e4-bcde-3928992f5117 | -10.62037 | -42.30944 | 2025-10-17 00:13:00 | TERRA_M-M | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 23.7 |
-| a6b1c15d-4bc6-37da-8925-2e9c251d2f6e | -6.1827 | -42.61602 | 2025-10-17 00:13:00 | TERRA_M-M | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 22.7 |
-| 801224f6-ef89-3459-b332-1235c53c691d | -6.29788 | -42.9731 | 2025-10-17 00:13:00 | TERRA_M-M | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 826d51e6-62a9-3615-9f79-0a02e805811c | -5.87856 | -43.91267 | 2025-10-17 00:13:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 74e1db0b-d058-3d71-bc68-44582459254e | -7.05197 | -46.68948 | 2025-10-17 00:13:00 | TERRA_M-M | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 37c18f42-639d-3b6e-81bf-d487750d5620 | -6.6031 | -42.06379 | 2025-10-17 00:13:00 | TERRA_M-M | BARRA D'ALCÂNTARA | PIAUÍ | Brasil | 2201176 | 22 | 33 | nan | nan | nan | Caatinga | 12.1 |
-| fee20283-78ef-3ff5-816f-17cc80a48207 | -10.11641 | -44.56578 | 2025-10-17 00:13:00 | TERRA_M-M | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| d08603ac-0916-37f4-a39f-d540992f99d1 | -4.47584 | -42.92904 | 2025-10-17 00:13:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 123.6 |
+| 56c1ae63-e4ec-32e9-9e4f-a9fe612ab402 | -11.204 | -47.8318 | 2025-10-18 02:10:00 | GOES-19 | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| ff6f230e-9e4a-32a9-874d-d40a92001244 | -11.6109 | -44.0678 | 2025-10-18 02:10:00 | GOES-19 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 101.2 |
+| 224d4dc8-469b-3904-aaf7-998f4b1246ac | -10.5128 | -43.4525 | 2025-10-18 02:10:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 383f689e-11de-347a-a4a7-e0a46b980254 | -11.6104 | -44.0913 | 2025-10-18 02:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 86.4 |
+| cc19782f-371c-3a10-8333-3ac0f47a2627 | -13.4663 | -43.7617 | 2025-10-18 02:10:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 3cafdcbb-6d9f-3cf2-b802-126ea5d16774 | -8.6223 | -40.1809 | 2025-10-18 02:10:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 84.2 |
+| cf7afc4a-85ed-3872-9b4c-2a41faca2711 | -10.1718 | -44.5264 | 2025-10-18 02:10:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 78.3 |
+| 42fc8eb3-b03c-3c7e-a674-6b6bddc252e0 | -13.2296 | -43.9692 | 2025-10-18 02:10:00 | GOES-19 | SANTANA | BAHIA | Brasil | 2928208 | 29 | 33 | nan | nan | nan | Cerrado | 31.4 |
+| 4a6128f3-c950-3228-9252-68f03b296f3e | -10.1528 | -44.5289 | 2025-10-18 02:10:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 77.8 |
+| 7f3daedb-3162-3d68-b1b4-2164d27a429c | -6.5259 | -44.9114 | 2025-10-18 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 956.3 |
+| 0b7b339a-fffc-3efd-a73c-8b5f56b80982 | -5.0214 | -46.032 | 2025-10-18 02:10:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 104.5 |
+| 990f40dc-2602-3211-ab49-3ece218c5f77 | -6.5261 | -44.8887 | 2025-10-18 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 629.4 |
+| 61ded7df-c9bf-3840-8bfb-6ba0fb71e97a | -4.4445 | -43.2397 | 2025-10-18 02:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 103.8 |
+| bdc24834-25b0-3557-b295-46e2ca7aa8f6 | -6.5071 | -44.913 | 2025-10-18 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 213.6 |
+| 49a8d64c-9411-361d-9fbe-23f0f94aaf0e | -4.0007 | -45.5054 | 2025-10-18 02:10:00 | GOES-19 | ALTAMIRA DO MARANHÃO | MARANHÃO | Brasil | 2100402 | 21 | 33 | nan | nan | nan | Amazônia | 50.9 |
+| 10bd04e9-004b-3f5c-8d7d-4555cf993e6a | -12.5944 | -52.8223 | 2025-10-18 02:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 66.2 |
+| 110fd0d2-a5fe-3526-9ed9-95b70302a200 | -10.4937 | -43.4552 | 2025-10-18 02:10:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 83.3 |
+| 29098acb-2603-3e9d-b87a-7f71ec89e743 | -6.5074 | -44.8902 | 2025-10-18 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 149.0 |
+| a3e5db09-54d4-3bde-860e-9c31a5c218e1 | -15.038 | -46.6041 | 2025-10-18 02:10:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 86.1 |
+| 7e6ed6eb-c0eb-306e-adc2-30ebc8ecbafe | -19.1114 | -57.5486 | 2025-10-18 02:10:00 | GOES-19 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 64.7 |
+| 66049adf-3783-37bb-8350-abd06a6633ed | -8.6032 | -40.1834 | 2025-10-18 02:10:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 186.7 |
+| 63a40dc2-94a5-35f7-a473-324ec60df2bb | -4.4446 | -43.2164 | 2025-10-18 02:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 72.0 |
+| 254cb25a-d6e2-3b0e-b978-fc9ebf50be07 | -10.4941 | -43.4315 | 2025-10-18 02:10:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 151.4 |
+| 5193b247-65fa-393f-b512-8b133c7a8386 | -8.6029 | -40.2083 | 2025-10-18 02:10:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 113.2 |
+| ba02f873-a267-35d0-80ca-05fb190654e2 | -5.0029 | -46.0108 | 2025-10-18 02:10:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 122.8 |
+| 489a39a2-ff37-36eb-af55-bc7b605ed79e | -6.5257 | -44.9342 | 2025-10-18 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 105.2 |
+| f7ae11c6-28e0-3738-8e87-640376661b69 | -5.0215 | -46.0097 | 2025-10-18 02:10:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 105.0 |
+| 5bc799b5-0825-3ec0-a01b-0d0986c07c9c | -12.6135 | -52.8202 | 2025-10-18 02:10:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| 2ddbfe16-ecc5-32df-9f8f-42ef09571ca5 | -6.5446 | -44.9099 | 2025-10-18 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 62.2 |
+| e9f12b3f-7ed5-3125-82c7-82232a2e53db | -3.1616 | -50.2458 | 2025-10-18 02:10:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 20.0 |
+| d8420d49-a7b7-3134-9262-5ff279299b6d | -5.0027 | -46.0331 | 2025-10-18 02:10:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 124.4 |
+| 2e4993e9-ae2c-356a-accb-7896c42ab1e0 | -18.3934 | -55.477 | 2025-10-18 02:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 76.2 |
+| 1090f7da-82be-32ec-a3f2-95ae272d83d3 | -11.204 | -47.8318 | 2025-10-18 02:20:00 | GOES-19 | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 50.5 |
+| c3a969d6-c1ad-3e82-88b9-e67583bf2dab | -10.4937 | -43.4552 | 2025-10-18 02:20:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 99.1 |
+| 357d7479-a28f-32cb-b027-803433a3d74c | -8.389 | -46.2333 | 2025-10-18 02:20:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 52.1 |
+| 73980ff0-8a34-31c0-b5ff-7b5c4e07abf6 | -11.6109 | -44.0678 | 2025-10-18 02:20:00 | GOES-19 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 89.7 |
+| c03de04b-aded-31d5-9970-0afdb826db67 | -6.5259 | -44.9114 | 2025-10-18 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 621.3 |
+| 697b6ddc-ae86-325c-b2e1-ece6fb3a9b2b | -4.4445 | -43.2397 | 2025-10-18 02:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 121.5 |
+| a5a6c1d6-e460-3d5e-a6ae-c6928e7d9cd5 | -4.4632 | -43.2386 | 2025-10-18 02:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 93.5 |
+| 7256d415-2f6b-3bf5-aab9-d5423f6397f8 | -6.5446 | -44.9099 | 2025-10-18 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 125.0 |
+| a9d6c9b6-4bad-34cd-9b03-ddf644aecdfb | -6.5261 | -44.8887 | 2025-10-18 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 515.6 |
+| 7b179594-5303-3ea7-91f6-cc0df0339fe9 | -12.5944 | -52.8223 | 2025-10-18 02:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 54.6 |
+| f7850d4d-50f9-3ca4-a087-94011f0768ff | -10.4941 | -43.4315 | 2025-10-18 02:20:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 162.5 |
+| 03212057-2031-3f24-8053-fff7cacde919 | -3.1431 | -50.2464 | 2025-10-18 02:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| 815819bb-fbf3-39e3-bdbf-4f19c496d031 | -5.0214 | -46.032 | 2025-10-18 02:20:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 148.1 |
+| d73147cd-0053-3228-8760-1b04e28d0b3e | -6.5071 | -44.913 | 2025-10-18 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 85.9 |
+| b6b011c7-6103-390c-b7bd-782a1affa6ba | -10.1528 | -44.5289 | 2025-10-18 02:20:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 77.2 |
+| 406ccfd7-d333-3a51-9c1c-7a837814eb8e | -8.6029 | -40.2083 | 2025-10-18 02:20:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 125.1 |
+| 276e2562-5d28-32e2-85b0-778d05692048 | -5.0029 | -46.0108 | 2025-10-18 02:20:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 129.8 |
+| b51a8d88-f2c7-3340-84a5-dd11953b3c60 | -6.5449 | -44.8871 | 2025-10-18 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 98.1 |
+| 76ba6ba2-979d-38cd-b536-bfe47d31d868 | -11.6104 | -44.0913 | 2025-10-18 02:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| b43988cf-df8e-396f-8440-04ecbf080753 | -10.1718 | -44.5264 | 2025-10-18 02:20:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 81.3 |
+| c97b41d9-4a80-36f4-9de3-8de462ccfbe0 | -5.0215 | -46.0097 | 2025-10-18 02:20:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 238.4 |
+| d8e9e85c-ace1-35bd-b493-59112bfc4232 | -8.6032 | -40.1834 | 2025-10-18 02:20:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 146.8 |
+| 76367ada-d989-3e4b-a373-24ff4f02eb0c | -6.5074 | -44.8902 | 2025-10-18 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 85.8 |
+| 5bec90a1-4320-340b-9b6e-ca15cdc2e682 | -4.4446 | -43.2164 | 2025-10-18 02:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 49.9 |
+| 3f644534-3d64-301f-9c4b-7458cfc53fad | -12.6135 | -52.8202 | 2025-10-18 02:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 80.3 |
+| 67d6495e-b916-30de-89e9-509c84ce36bd | -5.0027 | -46.0331 | 2025-10-18 02:20:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 85.8 |
+| 67da0934-adb0-3d09-8c4b-047cfc1861cd | -12.398 | -47.2056 | 2025-10-18 02:30:00 | GOES-19 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 33.7 |
+| 823b5dec-91a6-3b76-91dd-78ff008d15c8 | -11.6297 | -44.0884 | 2025-10-18 02:30:00 | GOES-19 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 62.0 |
+| 37b35606-0ebc-3151-96f0-963a1de3425f | -10.1528 | -44.5289 | 2025-10-18 02:30:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 94.4 |
+| 36e96924-eae0-35d0-98de-0a225f1b3d5f | -11.6109 | -44.0678 | 2025-10-18 02:30:00 | GOES-19 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 161.5 |
+| 7e63f992-adb4-3ea8-9a1f-b6ad9716439b | -6.5259 | -44.9114 | 2025-10-18 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 203.6 |
+| 4dfb133a-9a38-396b-a13f-fe88507960f4 | -4.4632 | -43.2386 | 2025-10-18 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 38.0 |
+| 582cdae2-6089-3409-88db-eea6bbc1526b | -8.6219 | -40.2058 | 2025-10-18 02:30:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 73.9 |
+| 35f9945c-cf5f-3bd2-9787-679c2cb6b952 | -4.4445 | -43.2397 | 2025-10-18 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 55.1 |
+| b85b3350-2ee7-31a4-83a3-24698f0b177a | -4.4446 | -43.2164 | 2025-10-18 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 29.8 |
+| 5fb606be-3f8d-3603-b9a5-e088a9150e8e | -5.0029 | -46.0108 | 2025-10-18 02:30:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 92.3 |
+| de962e13-b3fe-3bee-9ba6-56fae19fa6e8 | -6.5261 | -44.8887 | 2025-10-18 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 251.0 |
+| 0ade9916-18dd-3dc1-87d3-b81377ce3702 | -11.5917 | -44.0707 | 2025-10-18 02:30:00 | GOES-19 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 67.8 |
+| f9ba6078-8d3f-3960-a8da-378146e2939c | -10.1718 | -44.5264 | 2025-10-18 02:30:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 64.4 |
+| c582baed-79b8-3210-ae38-fb9f6829b8ae | -10.4941 | -43.4315 | 2025-10-18 02:30:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 142.0 |
+| 4c8b6acf-54f8-34e8-8ef8-dd6035fcb948 | -6.1368 | -44.4629 | 2025-10-18 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 59.7 |
+| 4e0a787f-2188-3537-bb72-e3382c7516da | -13.4663 | -43.7617 | 2025-10-18 02:30:00 | GOES-19 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 34.5 |
+| aae15cfc-7771-389b-aa54-e7b68f27c87a | -14.2577 | -51.8619 | 2025-10-18 02:30:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 57.6 |
+| 711ba4da-dee9-3a0e-9d18-d18277e4f61f | -8.389 | -46.2333 | 2025-10-18 02:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 54.6 |
+| 08710dfe-dfb0-3823-b851-9b7b3a269f69 | -12.6135 | -52.8202 | 2025-10-18 02:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 98.0 |
+| 0cc3ecf5-e81f-3c1f-ba47-5c2f5326a382 | -12.6138 | -52.7993 | 2025-10-18 02:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 63.6 |
+| e7a69b9d-f579-335f-a4d3-1aba280db665 | -6.5449 | -44.8871 | 2025-10-18 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 96.8 |
+| 54f37439-0430-3d35-9968-5f6bd292d119 | -5.0214 | -46.032 | 2025-10-18 02:30:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 140.1 |
+| ea940e79-16ba-3c94-afa9-0574b76c118c | -11.6104 | -44.0913 | 2025-10-18 02:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 148.2 |
+| d43ebaf2-4336-3963-ae94-072be034b095 | -8.6223 | -40.1809 | 2025-10-18 02:30:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 76.5 |
+| a816c846-f951-3125-80d9-a4c32755ee5c | -10.4937 | -43.4552 | 2025-10-18 02:30:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| 2bc5b346-3f5e-30cf-b8c9-53833b4b623c | -8.6032 | -40.1834 | 2025-10-18 02:30:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 118.1 |
+| 02669c13-2b29-371d-aaf8-bfbcde935064 | -11.204 | -47.8318 | 2025-10-18 02:30:00 | GOES-19 | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 56.0 |
+| 4fad3071-9fb0-3796-92c8-ae4e0200abe1 | -6.5446 | -44.9099 | 2025-10-18 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| a2777b09-38d4-32cd-b9fe-fc79c1d3bfcb | -10.9564 | -45.4579 | 2025-10-18 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 56.6 |
+| 88a96273-da9b-35e3-97f9-ed8ac555bec1 | -8.6029 | -40.2083 | 2025-10-18 02:30:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 112.1 |
+| 10ce79b6-99b3-33b5-9b93-e8470b56a53e | -3.1431 | -50.2464 | 2025-10-18 02:30:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| c0002dc7-d069-31d3-95d7-147fd89ad042 | -5.0215 | -46.0097 | 2025-10-18 02:30:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 239.7 |
+| 66838c6e-3718-30af-a3f3-4aab4f671b40 | -5.0027 | -46.0331 | 2025-10-18 02:30:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| 932552ea-b342-3075-9984-7f9295464462 | -11.5917 | -44.0707 | 2025-10-18 02:40:00 | GOES-19 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 60.4 |
+| 39cfe931-dd76-350f-bd6a-c2377c1da1a1 | -11.204 | -47.8318 | 2025-10-18 02:40:00 | GOES-19 | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 44.3 |
+| 5030b02b-a7c1-37b3-a84c-6a9741732d74 | -12.6138 | -52.7993 | 2025-10-18 02:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 73.0 |
+| a13dd58a-eb44-3a26-8a8b-f51e94c45cb4 | -5.0029 | -46.0108 | 2025-10-18 02:40:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 73.3 |
+| ae0c1527-9da0-3dd3-8509-3a6d50b34aee | -5.0214 | -46.032 | 2025-10-18 02:40:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 134.1 |
+| 3abba57b-75a2-3bcd-b1f2-66e0137da650 | -8.6029 | -40.2083 | 2025-10-18 02:40:00 | GOES-19 | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 94.8 |
+| 0c30481e-ff56-3875-8807-f026b4334eeb | -5.0027 | -46.0331 | 2025-10-18 02:40:00 | GOES-19 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 68.6 |
+| aa9bfc00-6196-3032-ae47-4df617c8a448 | -10.1718 | -44.5264 | 2025-10-18 02:40:00 | GOES-19 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 126.2 |
+| 631d0f22-3396-33d6-9993-ba0fc1be5c65 | -10.4941 | -43.4315 | 2025-10-18 02:40:00 | GOES-19 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 160.9 |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)
