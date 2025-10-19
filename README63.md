@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| d0aaefd8-99ba-3bb9-af81-8d2a2562f721 | -14.97559 | -47.09661 | 2025-10-18 04:32:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| fd80e3c6-e562-3468-8ef8-a0f44759f6a7 | -10.91435 | -47.8657 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 81091b61-9847-3e5b-8dc5-987c6d2330cd | -15.05082 | -48.73763 | 2025-10-18 04:32:00 | NPP-375D | VILA PROPÍCIO | GOIÁS | Brasil | 5222302 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| bbb4fb96-73be-3bd5-a31d-f2053f7e9553 | -12.60978 | -52.81413 | 2025-10-18 04:32:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 291b1aaa-5a7f-38c1-905e-98ed97807eee | -13.25086 | -48.5447 | 2025-10-18 04:32:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 54c2a810-1e91-3db3-91e5-3d2aaa640f0f | -15.51135 | -50.38746 | 2025-10-18 04:32:00 | NPP-375D | FAINA | GOIÁS | Brasil | 5207535 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 87640870-5129-35d3-be54-f9d8808f4356 | -14.93362 | -46.71011 | 2025-10-18 04:32:00 | NPP-375D | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 927f0356-7fbb-3773-9845-2a0e55b93b84 | -13.92353 | -45.60042 | 2025-10-18 04:32:00 | NPP-375D | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 633c695d-1de5-302c-872f-e5899dcc950d | -13.739 | -48.32925 | 2025-10-18 04:32:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 7b19cdb9-8887-3561-ae50-fd33d8b4efe8 | -13.06718 | -49.33015 | 2025-10-18 04:32:00 | NPP-375D | PORANGATU | GOIÁS | Brasil | 5218003 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 74cfd29b-1c23-35d0-bc6f-016f908b0a18 | -14.91734 | -46.72678 | 2025-10-18 04:32:00 | NPP-375D | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 5fc74a78-9d2b-3d6c-b6eb-d5163f80fc57 | -10.44007 | -49.47782 | 2025-10-18 04:32:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ee519ea8-9aac-3245-8f88-3b0a11826cc5 | -13.40471 | -48.58451 | 2025-10-18 04:32:00 | NPP-375D | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 7488bc53-d5c4-3c84-a107-d06770f5da9e | -15.78278 | -41.33132 | 2025-10-18 04:32:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 2acedb1f-8d19-3e1c-9319-a14cd5ddb96f | -13.43561 | -47.98359 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fc4fb513-1b93-3056-9cc5-f2d4da289074 | -10.62222 | -48.01728 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| c2ccddaa-2f90-3e1e-96b1-94db6221cc25 | -12.60576 | -52.81337 | 2025-10-18 04:32:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e57c87d0-9182-3999-8a39-7d2ce6e6b06d | -16.4277 | -42.6328 | 2025-10-18 04:32:00 | NPP-375D | JOSENÓPOLIS | MINAS GERAIS | Brasil | 3136579 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 0e7412bd-f2c9-376e-a9a1-bc26eee49b00 | -12.91407 | -48.58002 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 4340de72-f1c4-32e3-bd83-49b8ae44f709 | -10.99627 | -47.90054 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 5a92c6ae-7f67-3d6f-9fb6-fe8ab8dd832b | -13.63496 | -44.41766 | 2025-10-18 04:32:00 | NPP-375D | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 5f8ef958-15d4-3490-a466-2ef499c475f8 | -16.59249 | -42.43275 | 2025-10-18 04:32:00 | NPP-375D | JOSENÓPOLIS | MINAS GERAIS | Brasil | 3136579 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| da9a51bd-7dd3-335c-bcfc-a2415b54e08b | -13.93052 | -48.67938 | 2025-10-18 04:32:00 | NPP-375D | CAMPINAÇU | GOIÁS | Brasil | 5204656 | 52 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| c5677fb6-a197-302f-a27b-4dae05f9f833 | -11.40825 | -44.26542 | 2025-10-18 04:32:00 | NPP-375D | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| e23336d7-8f99-388e-af8b-7c185b8465d3 | -13.51486 | -48.00033 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b091c63a-8ff1-3bcf-9f29-352655e7434f | -10.53638 | -49.54943 | 2025-10-18 04:32:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| ac6931fa-7448-35fa-8ce6-38ad821d2525 | -14.92625 | -46.7128 | 2025-10-18 04:32:00 | NPP-375D | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 1f607bb2-6543-35dc-a32a-7873651de02d | -12.91073 | -48.57946 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| d24e4ce6-3ad3-30cf-9461-d349b0383319 | -11.36329 | -45.25777 | 2025-10-18 04:32:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| e65e7262-1f94-355e-bfdf-04a8ed1324db | -13.41595 | -47.98092 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 288076db-84f1-3f85-aa9e-b91f1c0a25ac | -14.887 | -52.39803 | 2025-10-18 04:32:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 26788f32-9313-37f9-b1de-41c86000ff4d | -16.07263 | -42.55589 | 2025-10-18 04:32:00 | NPP-375D | FRUTA DE LEITE | MINAS GERAIS | Brasil | 3127073 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| c9f52f6a-cee0-3821-a3db-dd6c2ed723ea | -14.09534 | -43.6316 | 2025-10-18 04:32:00 | NPP-375D | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 045e7251-6cb3-39df-8e00-004b5855eae2 | -12.80177 | -48.6461 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| a051d0ea-e817-3948-9a3b-b8bbd87c654b | -12.74781 | -48.63022 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 04388165-3ead-3eba-ba84-e1618ff8244d | -13.03424 | -46.94742 | 2025-10-18 04:32:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 16711b67-f23a-3923-a37b-f08daa62c838 | -18.09448 | -42.45013 | 2025-10-18 04:32:00 | NPP-375D | SANTA MARIA DO SUAÇUÍ | MINAS GERAIS | Brasil | 3158201 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| e669cd38-2067-3e78-b643-aeb74d99a348 | -14.5524 | -49.27549 | 2025-10-18 04:32:00 | NPP-375D | URUAÇU | GOIÁS | Brasil | 5221601 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| daeb7656-56d7-386c-a029-087f930f2c2a | -13.76589 | -48.24617 | 2025-10-18 04:32:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| bd4b1773-156a-3b96-8340-7de74b03859e | -10.93495 | -47.84368 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| fc772e4f-867a-3e8a-b97b-857a8c78ffcc | -17.49684 | -43.46646 | 2025-10-18 04:32:00 | NPP-375D | OLHOS-D'ÁGUA | MINAS GERAIS | Brasil | 3145455 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c42c1d29-a262-3cb7-b657-c6a7dd81328d | -10.92296 | -47.98322 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 3c064555-ef89-3801-afa5-1077658c99d3 | -11.6126 | -44.0875 | 2025-10-18 04:32:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| b4d5034a-f39f-3854-8df0-88ea12d2b048 | -11.37923 | -44.25837 | 2025-10-18 04:32:00 | NPP-375D | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| f9cc8d32-5477-322b-8f67-905d927c4d50 | -13.41357 | -48.59337 | 2025-10-18 04:32:00 | NPP-375D | TROMBAS | GOIÁS | Brasil | 5221452 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 0035f436-3fce-34dd-b033-9474328771e5 | -12.70373 | -48.62653 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 6474344f-24e8-3bf9-b8ba-da2fa1868fdc | -14.90894 | -52.40682 | 2025-10-18 04:32:00 | NPP-375D | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 6bfe4e4e-e2df-3b59-93a4-1ab589eb1b56 | -13.76871 | -48.2284 | 2025-10-18 04:32:00 | NPP-375D | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 359b0a98-9be8-30ff-8c2d-48eff09c84c7 | -13.48778 | -47.95581 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ea91caa1-34a0-3a57-a410-cda7898cd2d3 | -16.237 | -43.50833 | 2025-10-18 04:32:00 | NPP-375D | FRANCISCO SÁ | MINAS GERAIS | Brasil | 3126703 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 033e80d0-97dc-3f71-8e2a-1c20074e664f | -16.81468 | -41.22446 | 2025-10-18 04:32:00 | NPP-375D | MONTE FORMOSO | MINAS GERAIS | Brasil | 3143153 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 2cff348e-bb03-3e1e-b1d5-def04e928bba | -11.60349 | -44.07277 | 2025-10-18 04:32:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| ba76ccb5-a910-3f0f-b756-0dbd68e617a0 | -11.40278 | -44.27762 | 2025-10-18 04:32:00 | NPP-375D | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ed1a8b92-c554-3ad2-9c10-97300cd6bff2 | -16.58552 | -45.67592 | 2025-10-18 04:32:00 | NPP-375D | SANTA FÉ DE MINAS | MINAS GERAIS | Brasil | 3157609 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| f6cc228d-7ac8-3470-a527-69564baa4279 | -12.15516 | -45.08422 | 2025-10-18 04:32:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 20.8 |
-| 6a4d0106-db2c-3cf0-af0c-51385a6527b7 | -13.72698 | -48.11232 | 2025-10-18 04:32:00 | NPP-375D | COLINAS DO SUL | GOIÁS | Brasil | 5205521 | 52 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| eb004b5e-69f0-39cc-b20c-046d6837797d | -11.48778 | -44.02639 | 2025-10-18 04:32:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 6a482fd6-1534-3a7d-a433-aa5d396e6499 | -17.09114 | -44.09661 | 2025-10-18 04:32:00 | NPP-375D | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| ff0d55e6-685d-3092-87ac-ef900a92dbab | -17.84664 | -42.62041 | 2025-10-18 04:32:00 | NPP-375D | ARICANDUVA | MINAS GERAIS | Brasil | 3104452 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| c770c334-ca2c-3ef1-8658-dceb5c5b29c7 | -15.55706 | -42.34698 | 2025-10-18 04:32:00 | NPP-375D | RIO PARDO DE MINAS | MINAS GERAIS | Brasil | 3155603 | 31 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 0bc88fab-a430-37f7-860d-0377e74d4faa | -11.37057 | -44.29171 | 2025-10-18 04:32:00 | NPP-375D | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c12f64d1-7f2f-3a65-bdbd-603a45375ed4 | -13.44568 | -47.91972 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 6c9997b4-ce0c-370f-97bf-13fd6df569ba | -12.91294 | -48.58704 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 25065104-4c42-307c-8567-c3344ec9e756 | -12.70039 | -48.62595 | 2025-10-18 04:32:00 | NPP-375D | JAÚ DO TOCANTINS | TOCANTINS | Brasil | 1711506 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 33fdb8e5-d9f0-31b9-a98c-5b1fed2bd0aa | -11.35501 | -47.28376 | 2025-10-18 04:32:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ef87b85b-cef9-313f-9d9b-efe13654c775 | -12.96566 | -47.94273 | 2025-10-18 04:32:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fa49d017-8abd-3b2a-90ca-d497edfaee7d | -13.61636 | -43.95869 | 2025-10-18 04:32:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| e84b605f-db49-3d34-9f61-4cfe8a05b90e | -15.46681 | -43.20176 | 2025-10-18 04:32:00 | NPP-375D | PAI PEDRO | MINAS GERAIS | Brasil | 3146552 | 31 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| f081f456-d768-396c-a7b8-4dd619e15881 | -10.5329 | -49.54885 | 2025-10-18 04:32:00 | NPP-375D | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| b5cd7e2a-c71a-34d7-b95d-24cfa9830196 | -13.45731 | -47.93256 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 8c083182-9e1c-3dda-98a3-046140f9700c | -11.94269 | -44.24116 | 2025-10-18 04:32:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| a17441a6-e8be-3c79-b493-b452fc8042d3 | -11.36221 | -47.30297 | 2025-10-18 04:32:00 | NPP-375D | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| fb0f6573-6610-3b49-8c43-0afbf3203e02 | -18.39897 | -41.83371 | 2025-10-18 04:32:00 | NPP-375D | JAMPRUCA | MINAS GERAIS | Brasil | 3135076 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| bfb4a01b-9726-32c9-abe2-98762d110e98 | -11.00124 | -47.91225 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a67b43e9-aea9-3985-bf33-5f911517bac9 | -11.49086 | -44.23439 | 2025-10-18 04:32:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 7df0c09a-61f8-3f61-a691-f0ffdbd24c48 | -10.81159 | -54.6092 | 2025-10-18 04:32:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fbe594b4-304a-383d-852f-a2167751242d | -12.99353 | -47.29656 | 2025-10-18 04:32:00 | NPP-375D | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 4d83d2e9-8f37-3d2a-a29d-2ca69d1b9cb6 | -10.99968 | -47.87921 | 2025-10-18 04:32:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 43eeb39b-baf5-396d-b26c-6ea39b98639e | -13.61701 | -43.95399 | 2025-10-18 04:32:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4138516a-79ef-3333-9c02-d1872c14d2fc | -13.4417 | -47.98823 | 2025-10-18 04:32:00 | NPP-375D | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 57b6fa80-7053-31f1-bb5c-07a410dac64c | -10.827 | -47.84075 | 2025-10-18 04:32:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 8d89eb14-b584-312d-96b1-8389a3245df9 | -14.94099 | -46.7074 | 2025-10-18 04:32:00 | NPP-375D | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 6cb95f93-9835-366e-bf11-cc48f8e1bedd | -15.5714 | -42.12917 | 2025-10-18 04:32:00 | NPP-375D | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 86d62230-dfaa-3f0d-b6fa-77ca4dd138d7 | -12.65647 | -54.7773 | 2025-10-18 04:32:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 8948a9ce-0aca-3b12-87b7-0c33b7f80620 | -11.48169 | -44.01651 | 2025-10-18 04:32:00 | NPP-375D | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 734c0802-ba18-3b58-abb7-793bad6abd1f | -11.60045 | -44.06787 | 2025-10-18 04:32:00 | NPP-375D | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| 1e595844-b850-31fc-a27b-23632d3d1638 | -17.96065 | -41.97776 | 2025-10-18 04:32:00 | NPP-375D | FRANCISCÓPOLIS | MINAS GERAIS | Brasil | 3126752 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| ed58169a-0cd8-31c1-aa5c-785306e35baf | -12.65084 | -43.45186 | 2025-10-18 04:32:00 | NPP-375D | SÍTIO DO MATO | BAHIA | Brasil | 2930758 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 9ec56eee-7f4a-31db-a03a-f689d4f10dd7 | -15.4708 | -42.88435 | 2025-10-18 04:32:00 | NPP-375D | MATO VERDE | MINAS GERAIS | Brasil | 3141009 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 82bec23c-0201-3963-9a3c-29873e17b8ea | -11.36771 | -44.26097 | 2025-10-18 04:32:00 | NPP-375D | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fe54f219-0947-3d0e-a7c3-a6f48ca5a0de | -12.60915 | -52.81771 | 2025-10-18 04:32:00 | NPP-375D | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 8e4d6ae5-7427-3d83-882e-2782b211e121 | -15.78595 | -43.65135 | 2025-10-18 04:32:00 | NPP-375D | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b0ff4b0d-0dd1-3b1e-947c-c1b1c6d6c282 | -12.3056 | -47.25919 | 2025-10-18 04:32:00 | NPP-375D | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| e78c4cad-9c0c-3161-90e6-d97ab95f3f15 | -11.20309 | -47.83325 | 2025-10-18 04:32:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 318d9ec0-400a-3e33-8ae8-9316d6c3b4a2 | -11.36094 | -44.28161 | 2025-10-18 04:32:00 | NPP-375D | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 89d6fbbb-7422-303a-9c30-13e0082dc28d | -12.5919 | -43.01944 | 2025-10-18 04:32:00 | NPP-375D | PARATINGA | BAHIA | Brasil | 2923704 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 33ce3113-29b7-3d58-a008-7e946d9ab41d | -11.37545 | -45.27156 | 2025-10-18 04:32:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 61f138d5-2e95-3046-a768-5c355dc0b5ca | -14.93702 | -46.71065 | 2025-10-18 04:32:00 | NPP-375D | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| e661448c-2caf-3c10-a1c5-4c05561b9603 | -15.09283 | -44.00251 | 2025-10-18 04:32:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8b26e761-ed66-3fd9-bbc0-7cd7366dafc1 | -10.99911 | -47.88276 | 2025-10-18 04:32:00 | NPP-375D | SILVANÓPOLIS | TOCANTINS | Brasil | 1720655 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 83b8a599-1cf2-3db6-b5b8-9466a01e57cf | -13.04519 | -42.14366 | 2025-10-19 12:19:00 | TERRA_M-T | RIO DO PIRES | BAHIA | Brasil | 2926905 | 29 | 33 | nan | nan | nan | Caatinga | 52.4 |
+| fc0a7a62-6d46-39c1-8a6d-5d0a58cd9ed8 | -8.58317 | -39.59696 | 2025-10-19 12:19:00 | TERRA_M-T | OROCÓ | PERNAMBUCO | Brasil | 2609808 | 26 | 33 | nan | nan | nan | Caatinga | 42.8 |
+| c1d179ec-2fb7-3559-af61-ca5f5afc31c7 | -14.64328 | -43.18492 | 2025-10-19 12:19:00 | TERRA_M-T | SEBASTIÃO LARANJEIRAS | BAHIA | Brasil | 2930006 | 29 | 33 | nan | nan | nan | Caatinga | 63.1 |
+| 901f2429-9b8e-3057-b88a-38ac64599b67 | -16.45034 | -49.06522 | 2025-10-19 12:19:00 | TERRA_M-T | TEREZÓPOLIS DE GOIÁS | GOIÁS | Brasil | 5221197 | 52 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 36a02461-8796-3593-9b78-999c407dae0a | -8.25475 | -43.31218 | 2025-10-19 12:19:00 | TERRA_M-T | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 32.2 |
+| e3ac939b-09c4-36e4-be26-dc63c6db51f9 | -13.90443 | -42.13066 | 2025-10-19 12:19:00 | TERRA_M-T | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 54.9 |
+| c57b3b3d-81b5-3126-aaf9-522a32d4afd9 | -8.23463 | -43.29521 | 2025-10-19 12:19:00 | TERRA_M-T | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 24.2 |
+| 5aed5b60-fed4-36f8-b59c-128c390c65e8 | -10.55971 | -43.39782 | 2025-10-19 12:19:00 | TERRA_M-T | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 15.6 |
+| 83e096c1-03ac-3f07-9662-acfebea9cd2f | -12.9613 | -47.25938 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 85.6 |
+| 0f2de80c-7693-3617-a6c8-8124ae1b505f | -12.95352 | -47.24847 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 20.6 |
+| 0a862a37-e6bb-373a-aa03-ce4e0ec6944c | -12.01751 | -41.46493 | 2025-10-19 12:19:00 | TERRA_M-T | MULUNGU DO MORRO | BAHIA | Brasil | 2922052 | 29 | 33 | nan | nan | nan | Caatinga | 161.3 |
+| 628d562a-3433-3fb9-b33d-bc9cce5adf2b | -13.87909 | -45.52307 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 75.4 |
+| 317707ff-7618-33ee-9f4b-26b75db4be13 | -10.54954 | -43.3907 | 2025-10-19 12:19:00 | TERRA_M-T | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 11.4 |
+| fba5eac1-03dd-3049-915e-710053463ac8 | -8.94377 | -42.68989 | 2025-10-19 12:19:00 | TERRA_M-T | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | 27.8 |
+| df8e926d-9c21-38a7-a28e-e7b05ed227e4 | -14.49184 | -45.60378 | 2025-10-19 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 54.4 |
+| 6b4b2a68-3826-383f-b1c7-d99f4d33ce2e | -12.95997 | -47.26897 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 32.0 |
+| 58159c1c-a5eb-3984-b8a2-f9d9aaaa458d | -8.565 | -44.56514 | 2025-10-19 12:19:00 | TERRA_M-T | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 55.2 |
+| 39693d4e-b649-3b0c-bd5b-1aa55914a234 | -14.48167 | -45.6024 | 2025-10-19 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 79.7 |
+| add231c1-6fdf-35f4-b5c3-fc118fd94e09 | -11.13828 | -42.17098 | 2025-10-19 12:19:00 | TERRA_M-T | CENTRAL | BAHIA | Brasil | 2907608 | 29 | 33 | nan | nan | nan | Caatinga | 23.8 |
+| 1ac72a8f-18a8-386d-9f17-36e7abb5970d | -12.99493 | -47.27997 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| 79b318ce-0ea7-3053-ba86-286a5df4e1c6 | -15.22919 | -47.2266 | 2025-10-19 12:19:00 | TERRA_M-T | FORMOSA | GOIÁS | Brasil | 5208004 | 52 | 33 | nan | nan | nan | Cerrado | 16.0 |
+| 5bafc7f8-fb21-3897-99d1-2e8025001913 | -14.02703 | -42.66415 | 2025-10-19 12:19:00 | TERRA_M-T | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 38.7 |
+| a17be341-6d35-3f4c-87d4-740a84a5c4df | -10.22308 | -44.06092 | 2025-10-19 12:19:00 | TERRA_M-T | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 15.2 |
+| c847a10a-bd64-3593-a309-43357d0da31d | -13.92887 | -45.61571 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 53.6 |
+| c49a7c1f-efbb-3a1e-88d5-8060f94a5054 | -8.44515 | -44.157 | 2025-10-19 12:19:00 | TERRA_M-T | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 113.0 |
+| 7c257cbe-05fb-38d0-8d14-085139e271ed | -8.94169 | -42.70607 | 2025-10-19 12:19:00 | TERRA_M-T | SÃO RAIMUNDO NONATO | PIAUÍ | Brasil | 2210607 | 22 | 33 | nan | nan | nan | Caatinga | 35.2 |
+| 589407e0-a83e-3376-abeb-411f031e289b | -8.56346 | -44.57692 | 2025-10-19 12:19:00 | TERRA_M-T | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 70.3 |
+| 4bc4466e-d97c-336d-b069-f278f80e29c1 | -16.15607 | -41.14859 | 2025-10-19 12:19:00 | TERRA_M-T | JEQUITINHONHA | MINAS GERAIS | Brasil | 3135803 | 31 | 33 | nan | nan | nan | Mata Atlântica | 61.6 |
+| 190eeb1c-9a16-389a-9802-35c046ed331a | -7.71319 | -47.85952 | 2025-10-19 12:19:00 | TERRA_M-T | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 8.9 |
+| 7dfc7f05-6e8a-3df0-80c1-e7bd4cd691e3 | -14.22972 | -51.84736 | 2025-10-19 12:19:00 | TERRA_M-T | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| be2ce5ff-4c8e-370c-92b7-eed4dc63b04c | -14.47308 | -45.58878 | 2025-10-19 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 22.0 |
+| 4e24f6ea-028f-3467-aa9e-28e44af8b1fb | -10.85742 | -43.94861 | 2025-10-19 12:19:00 | TERRA_M-T | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 45.7 |
+| f22ddef4-6618-3a28-b191-2943a153d24e | -7.93692 | -47.20791 | 2025-10-19 12:19:00 | TERRA_M-T | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 228c1c92-7b69-3952-a90e-f40960760758 | -13.90811 | -42.1242 | 2025-10-19 12:19:00 | TERRA_M-T | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 43.6 |
+| 6c4f9488-4b73-3b67-9828-280ecc9c21dd | -8.43482 | -44.15556 | 2025-10-19 12:19:00 | TERRA_M-T | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 27.1 |
+| 9ba7882f-1e82-30b5-b5b3-2389b7b6b2af | -13.93926 | -45.61079 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 25.4 |
+| 74997be6-3c50-3765-8ce7-be20553dc12b | -8.43831 | -44.1499 | 2025-10-19 12:19:00 | TERRA_M-T | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 26.8 |
+| 8770aa7e-fdaa-3509-88bf-b35292379782 | -8.56432 | -44.57108 | 2025-10-19 12:19:00 | TERRA_M-T | PALMEIRA DO PIAUÍ | PIAUÍ | Brasil | 2207405 | 22 | 33 | nan | nan | nan | Cerrado | 128.3 |
+| d9c235e4-6579-3b60-b444-3868d0f57e2f | -8.25288 | -43.3261 | 2025-10-19 12:19:00 | TERRA_M-T | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 90.2 |
+| 52ff48db-508d-32fd-bbd0-9a3ce7a15b2e | -12.97818 | -47.27155 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| bb10ad8b-1493-31db-9948-8d29b3f69385 | -13.0444 | -47.25779 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| b2d64ad3-c8a6-3be5-b2d2-c889261d6bc7 | -10.55148 | -43.37584 | 2025-10-19 12:19:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 102.0 |
+| ff56fe4c-b3c4-3acc-8232-b12da8c2720c | -7.70564 | -47.84943 | 2025-10-19 12:19:00 | TERRA_M-T | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 26.5 |
+| da01ae6a-5c61-3e4a-8d2b-fe32ddb2d31a | -10.56283 | -43.37723 | 2025-10-19 12:19:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 81.3 |
+| e414e9a6-729c-3fcb-8409-36d33e7cbc86 | -12.96775 | -47.27985 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 178.9 |
+| 767f658f-5d93-329b-91c9-433691f58f12 | -14.71489 | -43.14365 | 2025-10-19 12:19:00 | TERRA_M-T | ESPINOSA | MINAS GERAIS | Brasil | 3124302 | 31 | 33 | nan | nan | nan | Caatinga | 21.9 |
+| f1bf6b85-70dc-3d06-bdf5-1a75e34f41de | -10.55021 | -43.38152 | 2025-10-19 12:19:00 | TERRA_M-T | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 68.6 |
+| 04106fb3-f822-32c0-95a0-4d54299e11ec | -8.49869 | -44.15005 | 2025-10-19 12:19:00 | TERRA_M-T | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 6e37998a-17de-3fca-a3ea-b98ce1329fcf | -14.02686 | -42.65764 | 2025-10-19 12:19:00 | TERRA_M-T | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 68.7 |
+| 5ace5c1d-4ef3-3d8a-b4b3-0606405d9eac | -8.58241 | -40.9925 | 2025-10-19 12:19:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 51.1 |
+| 081b1a30-c892-3f99-b763-c01b4b798f7f | -14.71155 | -43.13662 | 2025-10-19 12:19:00 | TERRA_M-T | ESPINOSA | MINAS GERAIS | Brasil | 3124302 | 31 | 33 | nan | nan | nan | Caatinga | 31.5 |
+| 7d44a720-3dc5-324c-b4e3-bf037bd2a830 | -8.75328 | -40.79206 | 2025-10-19 12:19:00 | TERRA_M-T | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 27.5 |
+| 7ab3073f-0505-31b8-ac17-6899ce3f1e7c | -14.49132 | -45.59718 | 2025-10-19 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 45.5 |
+| d8f87132-f84d-3dec-ba5c-7bb25a693644 | -10.3072 | -44.0366 | 2025-10-19 12:19:00 | TERRA_M-T | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 712218c0-2990-33d6-8570-0393008a9e27 | -13.90554 | -42.14587 | 2025-10-19 12:19:00 | TERRA_M-T | LIVRAMENTO DE NOSSA SENHORA | BAHIA | Brasil | 2919504 | 29 | 33 | nan | nan | nan | Caatinga | 33.9 |
+| c452a148-fa8e-37a5-bf02-ec0762d04ca4 | -10.12272 | -45.52291 | 2025-10-19 12:19:00 | TERRA_M-T | BARREIRAS DO PIAUÍ | PIAUÍ | Brasil | 2201309 | 22 | 33 | nan | nan | nan | Cerrado | 20.6 |
+| f1456ec2-8617-3ef4-ad95-2e102662acf6 | -8.58403 | -41.0078 | 2025-10-19 12:19:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 126.2 |
+| b25ccb96-e435-33c5-ab7f-6a5dee8506c1 | -10.55216 | -43.36571 | 2025-10-19 12:19:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 25.4 |
+| 79164ab6-c523-3d6b-afd1-c9f3f4caf10b | -13.0523 | -42.08309 | 2025-10-19 12:19:00 | TERRA_M-T | PIATÃ | BAHIA | Brasil | 2924306 | 29 | 33 | nan | nan | nan | Caatinga | 28.7 |
+| 41123e8a-88a0-30ec-aace-8f2b8a54e334 | -10.87009 | -43.93605 | 2025-10-19 12:19:00 | TERRA_M-T | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 76.2 |
+| 66974f69-6e4c-3005-81ab-29d88c0ec986 | -14.22805 | -51.85824 | 2025-10-19 12:19:00 | TERRA_M-T | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| ed0a1839-6f70-3fa2-a71e-fb239ad64ddd | -10.57102 | -43.39942 | 2025-10-19 12:19:00 | TERRA_M-T | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 100.1 |
+| c02bda74-e7ce-3e93-ba17-bfeaf0688972 | -12.97041 | -47.26066 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| ff165f66-65e0-37bc-bbfb-1db29b50b621 | -14.02918 | -42.64505 | 2025-10-19 12:19:00 | TERRA_M-T | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 25.8 |
+| 3d1d666e-8d90-3e91-9c78-748414d08046 | -13.21117 | -43.15112 | 2025-10-19 12:19:00 | TERRA_M-T | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | 86.3 |
+| 1ffa864e-698c-31fb-8b39-138e28e641d3 | -12.96263 | -47.24976 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 43.1 |
+| df06e2ee-436f-3c3e-83e3-44ec8659dcdc | -13.93775 | -45.62273 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 863f9cb2-a298-3c03-99d3-9c4064324847 | -12.97685 | -47.28112 | 2025-10-19 12:19:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 44.4 |
+| 4429c7f4-ca3b-303d-ae54-cbc8e87b90df | -13.0547 | -42.06265 | 2025-10-19 12:19:00 | TERRA_M-T | PIATÃ | BAHIA | Brasil | 2924306 | 29 | 33 | nan | nan | nan | Caatinga | 54.9 |
+| 48f07f0a-a2c9-3cb2-8c15-958d598444f2 | -13.89078 | -45.51239 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 14.6 |
+| a5cb4591-ec11-3bd4-a3e8-d3ace4d35244 | -13.93896 | -45.6171 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 25.7 |
+| 687e9d32-d049-3d59-aecc-bfe30435da07 | -14.49025 | -45.6159 | 2025-10-19 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| 012b5f68-00de-340f-bee6-cef1a7cfb747 | -14.21984 | -42.45212 | 2025-10-19 12:19:00 | TERRA_M-T | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 22.3 |
+| 41cddbd5-7d14-3b45-9346-a3f0bc5d9699 | -14.48325 | -45.59025 | 2025-10-19 12:19:00 | TERRA_M-T | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 94cb9df2-56ee-32d5-a21b-b400070ffd9d | -8.12629 | -42.25943 | 2025-10-19 12:19:00 | TERRA_M-T | PEDRO LAURENTINO | PIAUÍ | Brasil | 2207934 | 22 | 33 | nan | nan | nan | Caatinga | 19.1 |
+| 3115d1bd-8289-3014-a284-c1d30d56be5f | -14.52446 | -43.52784 | 2025-10-19 12:19:00 | TERRA_M-T | IUIU | BAHIA | Brasil | 2917334 | 29 | 33 | nan | nan | nan | Cerrado | 28.5 |
+| ff85bdef-a6ba-3aab-8042-65c87e8fb8ef | -16.61347 | -41.66383 | 2025-10-19 12:19:00 | TERRA_M-T | ITINGA | MINAS GERAIS | Brasil | 3134004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 56.3 |
+| f2cef354-4150-3c55-91b4-96cc37a3143c | -8.57069 | -41.00621 | 2025-10-19 12:19:00 | TERRA_M-T | AFRÂNIO | PERNAMBUCO | Brasil | 2600203 | 26 | 33 | nan | nan | nan | Caatinga | 125.9 |
+| b53bdd98-39f5-3444-8db1-9c1a9b13aaac | -15.26151 | -43.57756 | 2025-10-19 12:19:00 | TERRA_M-T | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 19.3 |
+| db6cd89c-783a-347b-8da7-14b7cfc3ff35 | -10.16497 | -42.21367 | 2025-10-19 12:19:00 | TERRA_M-T | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 23.4 |
+| 3ed1f2ae-43a1-30be-b443-697df3df5a7e | -13.92036 | -45.60234 | 2025-10-19 12:19:00 | TERRA_M-T | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| e4b6cd78-7d07-3639-8707-3c76a01e6470 | -14.4949 | -45.5949 | 2025-10-19 12:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 163.8 |
+| 70ac1efe-8bbe-3cf8-9e47-690a70af0cfa | -13.9317 | -45.6007 | 2025-10-19 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 132.6 |
+| 543f1693-a3c2-3b20-917e-9b7e67112485 | -13.8947 | -45.5145 | 2025-10-19 12:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 112.7 |
+| 081477b7-f295-3cbb-bfce-9afd09c712d1 | -14.4754 | -45.5984 | 2025-10-19 12:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 107.3 |
+| 781953a9-d3fe-3af1-be6d-6e3232fdf7d7 | -14.4954 | -45.5716 | 2025-10-19 12:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 105.3 |
+| 22221189-b148-3ed8-b7c7-016e6fdbfefe | -26.78698 | -50.95698 | 2025-10-19 12:23:00 | TERRA_M-T | CAÇADOR | SANTA CATARINA | Brasil | 4203006 | 42 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| 88094be6-1570-3db1-a2dd-9bac5f42f737 | -31.57072 | -51.27939 | 2025-10-19 12:23:00 | TERRA_M-T | SÃO JOSÉ DO NORTE | RIO GRANDE DO SUL | Brasil | 4318507 | 43 | 33 | nan | nan | nan | Pampa | 3.3 |
+| 7f4b64a9-c873-316f-b9db-d9b317a34817 | -14.4949 | -45.5949 | 2025-10-19 12:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 199.4 |
+| b57ad77a-5546-37d8-83c0-c6f39627824d | -14.4954 | -45.5716 | 2025-10-19 12:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 119.3 |
+| 7e633f09-7a88-356f-b721-c3d31cb9828b | -14.4754 | -45.5984 | 2025-10-19 12:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 133.2 |
+| 28c9fb76-8297-3879-a718-e3755836f5c5 | -13.9317 | -45.6007 | 2025-10-19 12:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 152.2 |
+| 623b155a-2b59-3e5c-b8da-e73a0d2c9258 | -14.4759 | -45.5751 | 2025-10-19 12:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 122.4 |
+| 70edd5bd-8b2c-37bb-9516-488d319b3cce | -14.4759 | -45.5751 | 2025-10-19 12:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 141.3 |
+| 86ec437f-4311-3ff6-864b-bca0d6643e0a | -14.4949 | -45.5949 | 2025-10-19 12:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 226.8 |
+| e935f8a6-9c9e-3489-8040-68d8b826757b | -11.358 | -44.2926 | 2025-10-19 12:40:00 | GOES-19 | MANSIDÃO | BAHIA | Brasil | 2920452 | 29 | 33 | nan | nan | nan | Cerrado | 98.7 |
+| d2625ccf-dcde-3feb-8000-7109731f86ab | -13.9317 | -45.6007 | 2025-10-19 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 158.2 |
+| 8e1aea90-4998-32dd-a4bb-bf363388658b | -13.8947 | -45.5145 | 2025-10-19 12:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 106.5 |
+| c42e2b2c-5533-30c8-b99f-c3bdc53ef733 | -14.4954 | -45.5716 | 2025-10-19 12:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 128.7 |
+| f0eb3d11-89c5-32c0-ad5c-aae1971bc337 | -14.4754 | -45.5984 | 2025-10-19 12:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 159.8 |
 
 
 [Clique aqui para ver as próximas entradas](README64.md)
