@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| cd6e9df2-2517-3169-9d56-f5cc86dc5cb0 | -14.23115 | -51.80355 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 3bf46af9-0c66-3cbb-973d-572b0d103603 | -16.09427 | -57.28027 | 2025-10-20 05:06:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e21ce56c-dec1-3638-b1b3-f1e319def5b0 | -15.30396 | -59.23684 | 2025-10-20 05:06:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| fa4642e5-4f54-37a4-b5a5-6de4ad867828 | -14.23319 | -51.7877 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6c78284e-216e-352e-bcf2-7eea04a92435 | -9.64101 | -65.25227 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| f4da39ad-2644-3647-8b45-3db66dd489aa | -14.23268 | -51.79165 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| dcd9fbad-520c-3cc5-8335-d8d73343e119 | -16.90626 | -53.01886 | 2025-10-20 05:06:00 | NOAA-21 | SANTA RITA DO ARAGUAIA | GOIÁS | Brasil | 5219407 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| eee6ed1b-fab4-35a3-9af8-cbdf86d8f714 | -9.90054 | -64.17159 | 2025-10-20 05:06:00 | NOAA-21 | BURITIS | RONDÔNIA | Brasil | 1100452 | 11 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 43c6763a-f716-3107-8136-1a45b5ae540b | -9.89275 | -63.58832 | 2025-10-20 05:06:00 | NOAA-21 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c0b7c1c6-7042-3b29-ac36-008ebf55cafd | -15.30199 | -59.2369 | 2025-10-20 05:06:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 5af03ec9-9496-3664-9abb-984554e7b202 | -12.36982 | -63.88081 | 2025-10-20 05:06:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| d078c811-0151-3c6e-a5d7-b3a19f019d2e | -9.63977 | -64.74642 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7662a3e5-a713-3dcf-83e7-9e048e48b55d | -9.69166 | -63.30684 | 2025-10-20 05:06:00 | NOAA-21 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 3f226607-8687-3bb2-a13b-6b0f7188453a | -9.89733 | -63.5891 | 2025-10-20 05:06:00 | NOAA-21 | ARIQUEMES | RONDÔNIA | Brasil | 1100023 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 4c56f970-0fc4-399a-9ea3-bc2a0ef0a9a3 | -15.30457 | -59.23313 | 2025-10-20 05:06:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 96346ca7-6f79-3343-b508-22984a63816e | -9.73228 | -64.94704 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 66cc0bda-f894-339c-a057-7d824352a7dd | -12.70188 | -62.18854 | 2025-10-20 05:06:00 | NOAA-21 | ALTA FLORESTA D'OESTE | RONDÔNIA | Brasil | 1100015 | 11 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 217cc0f3-0908-3c98-85c2-ced8a40b931f | -9.11676 | -65.36633 | 2025-10-20 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 682f8521-8ad9-3976-92a2-3f6f42773132 | -9.64677 | -64.73598 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 7ca79bad-0408-31e4-9765-dd63d535e05d | -14.23166 | -51.79958 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| fc2b08e0-64b1-3f4c-aa70-01366baa4fbf | -9.64576 | -64.74165 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| e86c8c4d-183a-3591-b128-8bcdac05ce56 | -15.30335 | -59.24055 | 2025-10-20 05:06:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 9f54854f-f7db-32ba-a2ab-14c1b7c89a9d | -9.64727 | -64.7332 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 3ae4c449-6ed0-35ea-9887-223759add752 | -14.21821 | -51.43652 | 2025-10-20 05:06:00 | NOAA-21 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| fdd6be79-595f-347e-9cdb-edde2737d964 | -14.23079 | -51.79626 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 56911862-63ee-3649-983c-dd6f184af580 | -12.36452 | -63.88451 | 2025-10-20 05:06:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 955bbb43-108d-3d2b-9571-60ec030acab0 | -9.11734 | -65.36311 | 2025-10-20 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| ed1f351a-9009-3775-846a-d547acfaa28f | -15.29923 | -59.23262 | 2025-10-20 05:06:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| c3506896-da72-33eb-aa52-339a4dbf153c | -9.64614 | -65.25322 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ee02323d-739e-37eb-b22f-da5d6ea32770 | -9.72112 | -65.87643 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e25d9de6-76b3-30fc-a577-640c9b7648b4 | -9.6408 | -64.74068 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 75cb7844-89b9-3c89-b1b3-5ccfde59ed4a | -9.11217 | -65.36295 | 2025-10-20 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9fd43d2f-4720-378a-be5a-088912ea2d8b | -9.11799 | -65.36072 | 2025-10-20 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| d51b5316-5ab9-3da6-b34b-ad816bd4b421 | -10.59331 | -63.47669 | 2025-10-20 05:06:00 | NOAA-21 | GOVERNADOR JORGE TEIXEIRA | RONDÔNIA | Brasil | 1101005 | 11 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a1b6dbad-673e-3269-a520-65473d692538 | -14.24003 | -51.80077 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e3737ce1-e551-358e-aa3e-e79fb08bd05e | -12.36899 | -63.88535 | 2025-10-20 05:06:00 | NOAA-21 | COSTA MARQUES | RONDÔNIA | Brasil | 1100080 | 11 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 6cb1f3d3-93e8-3f07-a365-a4ee8ad831b8 | -9.62704 | -64.15434 | 2025-10-20 05:06:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 8fbe7e73-b3fe-30fe-8fd4-24d8f654edf3 | -9.11739 | -65.36392 | 2025-10-20 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 7a28f7b8-9eba-3b83-93b9-e135addeff3c | -14.23585 | -51.80017 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 8888f5af-bdb9-34ab-bfc2-3282daae34d1 | -9.11157 | -65.36617 | 2025-10-20 05:06:00 | NOAA-21 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 407c1765-30bd-3f8e-8e24-c7efa4fc25b2 | -15.30671 | -59.24113 | 2025-10-20 05:06:00 | NOAA-21 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 2ba9fd5d-b6f4-31d2-bcd1-3f33af375c6c | -11.75716 | -61.07496 | 2025-10-20 05:06:00 | NOAA-21 | PIMENTA BUENO | RONDÔNIA | Brasil | 1100189 | 11 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 709412b9-afdd-31fe-b31f-04ce37c639f8 | -14.24054 | -51.79682 | 2025-10-20 05:06:00 | NOAA-21 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| c2d081d9-aa90-3a24-87ea-facc096fd283 | -22.30383 | -51.50909 | 2025-10-20 05:08:00 | NOAA-21 | PIRAPOZINHO | SÃO PAULO | Brasil | 3539202 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 038187bb-4916-3e77-9995-1017c367ad4e | -23.35642 | -54.34293 | 2025-10-20 05:08:00 | NOAA-21 | IGUATEMI | MATO GROSSO DO SUL | Brasil | 5004304 | 50 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 6b3065ba-1f4d-31ad-8d0a-1fb407a36d48 | -22.3043 | -51.50956 | 2025-10-20 05:08:00 | NOAA-21 | PIRAPOZINHO | SÃO PAULO | Brasil | 3539202 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| d9749988-e698-3b97-886c-3e5821d15ca5 | -17.68518 | -52.24303 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0e31a0d9-be61-35f9-8d19-751c93a42e54 | -17.68039 | -52.24661 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 74fcdafa-ef67-326c-918b-ed3faf4494b1 | -21.64535 | -48.39734 | 2025-10-20 05:08:00 | NOAA-21 | MATÃO | SÃO PAULO | Brasil | 3529302 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bc956e4e-c370-38c6-8bf1-80e9bd473769 | -17.68943 | -52.24372 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e9eb52b0-f0fc-3ae2-ab01-7fb6ee7ed518 | -19.04361 | -49.70009 | 2025-10-20 05:08:00 | NOAA-21 | GURINHATÃ | MINAS GERAIS | Brasil | 3129103 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 7ce64f3a-44ac-33e4-b910-0cb534c920f0 | -17.68466 | -52.24713 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c5c119d2-e141-3a7d-bafb-1828507f7d1e | -19.03885 | -49.69587 | 2025-10-20 05:08:00 | NOAA-21 | GURINHATÃ | MINAS GERAIS | Brasil | 3129103 | 31 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 828f45da-e1a1-30f3-bbed-3a2c31c3a868 | -18.26107 | -52.89611 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3a31d0c5-b492-3239-9f0d-d235ea595d62 | -17.68142 | -52.23845 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 8d298930-dd71-359c-bddd-87096f250d9c | -18.01775 | -52.68411 | 2025-10-20 05:08:00 | NOAA-21 | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 03a0b5e7-e772-31c5-a4e4-53c84e5a2d55 | -18.26157 | -52.89222 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3c3cd5c0-f042-3354-8c69-f34eb00ea1df | -21.18815 | -56.47807 | 2025-10-20 05:08:00 | NOAA-21 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a349618f-6844-38ab-9134-cbcd8d6450e8 | -17.68091 | -52.2425 | 2025-10-20 05:08:00 | NOAA-21 | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| e2ced64f-1ac1-3d70-a13c-8dea1d5b9b66 | -19.0385 | -49.69916 | 2025-10-20 05:08:00 | NOAA-21 | GURINHATÃ | MINAS GERAIS | Brasil | 3129103 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 235d6c53-6981-31e7-82d3-cb4ec8d5857c | -19.03814 | -49.70246 | 2025-10-20 05:08:00 | NOAA-21 | GURINHATÃ | MINAS GERAIS | Brasil | 3129103 | 31 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 2448424c-141c-3c15-9876-99e1756e2f62 | -2.2527 | -51.9108 | 2025-10-20 05:10:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 67.7 |
-| 3233f6e8-4327-3efd-a1e9-e6dcb3284f8b | -2.2527 | -51.9108 | 2025-10-20 05:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.6 |
-| ba622cf6-d63f-30be-a3df-73a544eb63f5 | 2.04237 | -55.72076 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 967e7275-c9fc-3658-9087-4ecb64757c0f | 1.72047 | -55.75436 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f3153de7-4bc5-32af-be0c-8002dbfa097e | 1.84915 | -55.66349 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 46ffc1c0-8793-3cde-94d8-785327e77298 | 1.76534 | -55.71489 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| d8a1194c-c285-38d9-9020-f6a81d2c4854 | 1.70393 | -55.77744 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 29.3 |
-| ac9cad51-9088-358d-be5c-2cac884f3d97 | 0.97667 | -51.14758 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| ba08d95d-d2cc-39cb-b63c-767f13fa7a26 | 1.81751 | -55.66841 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| a0f8ad74-434d-3b8f-9773-590249d3f147 | 1.79846 | -55.69421 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 529b3261-e1c7-39ed-92d5-3ab38a9aa5ce | 0.98104 | -51.14258 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f795987e-21d4-3db3-88c5-dd249ef2c3a3 | 1.71416 | -55.76559 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| fec8d585-8248-3468-acf8-e6e26a0074e7 | 0.97181 | -51.15491 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1c08322c-2b7e-33a7-92c4-7a659ec12f38 | 2.06674 | -55.72203 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 744ce65c-c7de-3ff4-895e-bcf5b4135e4b | 1.74256 | -55.92091 | 2025-10-20 05:29:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5feeea23-dc04-37b7-bad8-046c9a843e5b | 1.72573 | -55.94035 | 2025-10-20 05:29:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 22.1 |
-| e8a0ecbf-dee8-30bc-ac70-05ed47286c8d | 1.78347 | -55.70175 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 2465c99f-8917-3cc3-8ad5-04c953d3991c | 1.73977 | -55.92817 | 2025-10-20 05:29:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 14.0 |
-| 0e471146-81b4-3107-9dde-386031a8aa8c | 1.82855 | -55.66155 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| afeca1fd-deed-3275-ab1d-b9c5b4813d10 | 0.96637 | -51.15584 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| cc917523-413f-3477-b3d2-68a49fd789f4 | 1.73901 | -55.92332 | 2025-10-20 05:29:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 66f029b4-f82a-3d53-a5d7-c23bd6a09fbd | 1.78428 | -55.70679 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 2a0608cc-eb58-3ada-9932-6306030da1df | 0.85982 | -51.12564 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| dde0ba83-696a-31c1-92a4-730611afe804 | 1.74177 | -55.91608 | 2025-10-20 05:29:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| fe58780f-400d-3eb9-bb70-242ab104b017 | 1.81819 | -55.66516 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| ba739eb9-cdaf-38d3-b06c-83be5be1c232 | 1.72997 | -55.74605 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 44ee3977-6dd9-34c7-809b-f765bea4179c | 0.97615 | -51.14703 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f77a7dc4-8dc9-3d31-af03-086568c67bd8 | 1.71949 | -55.95129 | 2025-10-20 05:29:00 | NPP-375D | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 5f9d701c-d0e4-3759-8b6b-9fba361b0027 | 1.82531 | -55.65889 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5bfa4d1f-6c43-3904-9492-b9bee645135e | 1.74643 | -55.72301 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e5d4903f-acd2-3694-9479-5918487af1e4 | 1.00216 | -51.13252 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ad15d375-8cd1-3552-9026-eb2e89a7ab6c | 0.97238 | -51.15545 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7cd52f06-c863-36c1-a759-aeb460d471e6 | 1.70786 | -55.77681 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| e3a77ef1-4991-3b21-866e-7be7b447287c | 2.04102 | -55.76148 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| ac4bc7e3-51a1-3a0d-ab9e-4af1eaa63b88 | 0.99671 | -51.13347 | 2025-10-20 05:29:00 | NPP-375D | FERREIRA GOMES | AMAPÁ | Brasil | 1600238 | 16 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 0d303b58-aec0-3d6a-aeb9-219ed359b541 | 1.81898 | -55.6702 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 22852ff0-9130-3888-8516-79777ce09f5c | 1.81521 | -55.67912 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| f189c9e1-6c8e-3b7e-9203-586803339083 | 1.71731 | -55.75997 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 55e0d893-fc81-3a89-b1b8-341ecf2f24f9 | 1.8246 | -55.66217 | 2025-10-20 05:29:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2c24fba3-4d1f-376c-8419-c4fe17fb6400 | 1.70376 | -55.71809 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8b58d832-3a4e-3ad9-8e4c-ccbef380cb1a | 1.84818 | -55.64979 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 51171226-784e-3ec5-ad97-a364df7c0c3f | -1.97592 | -50.81295 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| b5780104-b9b2-34af-ba13-172942ac3407 | -2.87116 | -50.72847 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| f8a1f565-59e9-32fe-aebc-cd7e53461104 | -1.14568 | -54.20845 | 2025-10-21 05:12:00 | NPP-375D | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 7d0df807-46e4-30a5-82fe-18d207da8e2f | 1.69989 | -55.71516 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 37821c89-96fb-3a93-ad89-7ee8c3247f1d | 1.76267 | -55.68417 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 23a824ac-e78c-3f15-baa5-67a0d754470f | 1.75826 | -55.6778 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 6cac4d1a-cbd2-33bf-99b9-2ac547ae8a4b | -2.85646 | -50.7386 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 05ddc3ab-fbd5-334f-90a4-a65e0dcff9cc | 1.71948 | -55.71204 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a74f1b2d-e76b-3189-b01a-63014b853ed8 | -2.92802 | -48.30137 | 2025-10-21 05:12:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
+| 6b5675f8-cd4f-3ad1-b83b-754816eedada | 1.69543 | -55.72999 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| a34934ab-7cc4-3a1f-8c09-fbe7bd12c790 | -2.7179 | -48.34451 | 2025-10-21 05:12:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| b56ad215-3086-39ab-ac38-e47601852937 | 1.69821 | -55.72602 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 46f890a0-12e4-3e6c-96df-42f6bdbed469 | -2.73351 | -49.39255 | 2025-10-21 05:12:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 4c5c77e3-493f-3ac2-81c0-a620aa11eb79 | -2.92714 | -48.30726 | 2025-10-21 05:12:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| beda8184-e577-35bb-b945-5fe1a1cda710 | -1.20133 | -49.07976 | 2025-10-21 05:12:00 | NPP-375D | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| eadc0467-b8ca-319d-aefc-357cba166005 | -2.2482 | -51.91386 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| c08a9427-8791-3bf5-a309-7e9a6dc84dde | 1.72283 | -55.69039 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d85ec14d-d3eb-37d7-a103-98dd84b38f56 | -2.72024 | -48.83715 | 2025-10-21 05:12:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| b8be3a96-4660-3c67-875a-9889f340839e | 1.83659 | -55.64101 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 554d7510-92aa-3cb9-b129-24d2b22e9c6e | -1.19739 | -49.07412 | 2025-10-21 05:12:00 | NPP-375D | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 24ebc45f-d4d0-38c8-94c5-152bd0e823ce | -2.71866 | -48.8356 | 2025-10-21 05:12:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| c702a82e-2b8c-3346-9065-2be5621ad30b | 1.69157 | -55.72706 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 5bff472a-0f73-3ce3-8fc1-f7be8039dd78 | 1.73056 | -55.69624 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| a94d1e0c-a47a-36d9-acc6-9a7d693be115 | 1.71897 | -55.68747 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 53817d84-dcac-3ce3-bd48-964f97baf8e3 | -2.86444 | -50.74397 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| e52a939e-239d-3906-be07-486272f43fed | -1.20208 | -49.07485 | 2025-10-21 05:12:00 | NPP-375D | PONTA DE PEDRAS | PARÁ | Brasil | 1505700 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| fcd7938c-c9bc-35ba-a0a0-4ad53dece1c2 | -2.73561 | -49.39073 | 2025-10-21 05:12:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 86ced319-5875-3f2b-9ed4-d2968d869e39 | 1.69489 | -55.72654 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| bec3f7d9-139f-35f9-a90c-c75ddec4de45 | -3.22863 | -46.78477 | 2025-10-21 05:12:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 336f33b2-d832-36fd-9997-3cb17397e147 | -3.22463 | -46.78609 | 2025-10-21 05:12:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 0c867e70-2ab6-304f-bcae-81b8b63ecef5 | 1.73111 | -55.69969 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a2b8c505-db81-3d51-bdb5-c8b6ad5e319d | -3.11928 | -45.27077 | 2025-10-21 05:12:00 | NPP-375D | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| c45f3e0c-2163-3dbc-89f9-430610ac055d | -2.87789 | -50.71304 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 597fa9b0-991f-3ade-9c69-eef23e9031f5 | -2.80662 | -51.35086 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 006e979f-b75f-3c16-ae64-7c3da19cdea5 | -2.87359 | -50.71237 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| c5ad9e43-e78a-393f-8a5c-b2e53e9eebdf | -3.12123 | -45.27009 | 2025-10-21 05:12:00 | NPP-375D | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 772789b3-c61d-350a-9cf0-1311bd755645 | -2.86747 | -50.7238 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 42bf560f-5493-32b0-99bf-b0b57d107e11 | -3.22518 | -46.78228 | 2025-10-21 05:12:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 9ed60b07-3373-306c-91c7-600fff6f7aed | -2.25138 | -51.91945 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 377144dc-b7e3-3810-8c40-f57d83049ea1 | -2.17102 | -53.48477 | 2025-10-21 05:12:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| a0aa9650-4c25-31d8-9436-f112918e1aab | 1.83327 | -55.64153 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| a8521e1b-d766-384f-9fe9-0b362020fe5a | -3.1205 | -45.27493 | 2025-10-21 05:12:00 | NPP-375D | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| cb600644-5fad-3bff-a6c6-31c2836cd7da | -2.80251 | -51.35023 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 3654a5c8-6432-37b2-a428-d63b69c4f5f7 | 1.82881 | -55.65635 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 0276e439-31a2-3fdc-ba8e-32acc0066188 | -2.86135 | -50.73524 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| eb104634-6fc4-3efd-a2d5-bcd1919ff201 | -3.50181 | -45.81803 | 2025-10-21 05:12:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| d3fa77ad-6951-365c-8c85-c4427b1cc7b9 | 1.83714 | -55.64445 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 2b47330d-5611-3235-8034-0b5f46e44484 | -2.86075 | -50.73928 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| a9f57389-8620-38c9-8cb8-9e668d02ff59 | -2.18939 | -54.47482 | 2025-10-21 05:12:00 | NPP-375D | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| dedc199b-e566-3093-b17a-adeb6e85bc72 | 1.72779 | -55.70021 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 9.3 |
+| 74a16628-7b5a-30c2-803e-52871e3a8ce3 | -2.25789 | -47.8811 | 2025-10-21 05:12:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 72021770-f078-32fd-800b-1253132494d3 | -2.25836 | -47.87799 | 2025-10-21 05:12:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 90db47e7-ded3-36d6-a743-8d1d96dd2dea | 1.72839 | -55.68246 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| a7d52b64-cf1b-37b3-b81a-4276ca3acdf1 | -3.22239 | -46.78773 | 2025-10-21 05:12:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| febfc7ac-dd69-3fca-90cc-8e82df82721f | -2.85954 | -50.74733 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 1e0d86a0-1a8e-3f4f-a572-bad9bf650b75 | -2.30114 | -48.57154 | 2025-10-21 05:12:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 7fac17d5-b3ad-36e1-9377-51aac4ad7ad6 | -3.50049 | -45.82713 | 2025-10-21 05:12:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 24.9 |
+| 155ac29a-72ef-3739-ab34-c330fa3db63f | -2.84311 | -51.36018 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 3a9bd6ff-a26c-30d3-bfa9-ea561f500d26 | -2.87237 | -50.72043 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9f759a77-52cd-38fa-b3a4-9d877959308c | 1.70762 | -55.72102 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 038bf739-ff1c-3d8f-bba5-613abad05a28 | -2.26308 | -47.88182 | 2025-10-21 05:12:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 734de24a-105e-3cf7-a5f2-36b17e323345 | -1.97616 | -50.8143 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 745eb758-e766-3160-8b60-382ce32a583a | -2.78722 | -49.61707 | 2025-10-21 05:12:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3b5b943b-9340-33fe-9894-46b4251e736d | -2.27106 | -51.92252 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 20aa46ac-d6fc-3d4c-bd82-94791bfe437f | -2.80648 | -48.66594 | 2025-10-21 05:12:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 751a8ccd-faec-31d8-b142-f0cd44a8b284 | 1.70321 | -55.71465 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 2f0193fd-a42a-3080-96dc-3554338be403 | -2.79185 | -49.61777 | 2025-10-21 05:12:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d44c23c3-3d64-35a1-956a-898d23d5b2ca | -2.8627 | -48.56547 | 2025-10-21 05:12:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e087694b-087f-301d-be0b-3892639f059a | -2.86807 | -50.71978 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 25bf8d10-deb0-375d-b115-d6deb2b9a684 | 1.71322 | -55.69191 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| dbd0c03a-4292-313d-b3e2-fb82cd06afb3 | -2.92757 | -48.30433 | 2025-10-21 05:12:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 6d4b31a4-b36e-303b-a8c4-972e9300d215 | -2.2529 | -51.9095 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| a8995a38-5cbb-3bf9-b5bf-aaf4a2b3ae2c | 1.72724 | -55.69676 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 9.2 |
+| 6bb27cdc-5266-320b-b826-4988d8371029 | -2.26355 | -47.87872 | 2025-10-21 05:12:00 | NPP-375D | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| b50dff0d-8c7e-3067-bcd7-b67649c1ccc5 | -3.50653 | -45.82804 | 2025-10-21 05:12:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| edd31871-2ffd-3f51-a9d8-56aff73ae509 | -2.17038 | -53.48885 | 2025-10-21 05:12:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 8179504f-272a-351b-a4c7-494bf7a48bf1 | -2.24896 | -51.90887 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 190083a8-737b-30f3-a5af-c3dcabbc140a | -3.49509 | -45.82168 | 2025-10-21 05:12:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| 2e5878d5-aa95-36be-9dc7-03f72831b4d2 | 1.76213 | -55.68073 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| bb2e6ed5-43dc-3e2a-885a-6168c5378937 | -2.4446 | -49.37519 | 2025-10-21 05:12:00 | NPP-375D | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 90ae667b-a294-3cf8-94d8-d307a5153ae8 | -1.01855 | -53.73012 | 2025-10-21 05:12:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 95c355ea-f453-3692-9317-a8e248a32dbb | 1.72165 | -55.72582 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| c0f00e1f-dc21-331c-b861-740f51994798 | 1.69875 | -55.72947 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 560e78f4-94e6-38a9-b17b-33832b0dee7c | 1.75772 | -55.67436 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| aaed51de-2155-3e26-9ef3-fb980cd10c23 | 1.74107 | -55.69814 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| ac4d4a01-66fc-3e60-a82c-d8c9b2a96b90 | -2.95044 | -49.58132 | 2025-10-21 05:12:00 | NPP-375D | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8dc3ee17-91cb-3863-bc75-10de68860605 | -2.87298 | -50.7164 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 67c093ef-1f5e-3b05-92f8-7e0c81eb93d2 | 1.72002 | -55.71548 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 31b12972-e30d-39ee-9f96-9b243e5d6576 | -2.87728 | -50.71706 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 2601a83d-e825-3a14-a452-84a0bc47dde8 | -2.86014 | -50.7433 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| dcaeb630-d87e-3406-bdcf-c1c13198af5c | -3.08745 | -49.50908 | 2025-10-21 05:12:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| a7b11b4d-c486-3e24-89a3-0f1aa31791fe | 1.72066 | -55.67661 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 52d396dc-b646-3ae2-a325-05d31362cdf2 | -2.55443 | -47.6573 | 2025-10-21 05:12:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 9ab56109-c08b-31d3-a8f3-393e1612aeda | -2.55494 | -47.65405 | 2025-10-21 05:12:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 7ecbe573-a432-3a99-af08-b550c26f020e | -3.10766 | -48.6003 | 2025-10-21 05:12:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| ef00c34d-921d-3ef4-b7b3-e3aa83ead3e6 | -2.93266 | -48.30509 | 2025-10-21 05:12:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 5ed79ac0-f89e-39ba-9908-bc4a5f0f4c0c | 1.7212 | -55.68006 | 2025-10-21 05:12:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 0d67c847-6d1c-3c50-a1c1-6bf0a067f3a7 | -2.87667 | -50.72109 | 2025-10-21 05:12:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
 
 
 [Clique aqui para ver as próximas entradas](README19.md)
