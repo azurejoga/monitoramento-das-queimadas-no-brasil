@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 824caa85-bc3a-3fdc-971a-08ac4c2e0b3d | -6.70325 | -42.04449 | 2025-10-28 04:14:00 | NOAA-21 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| a710c1f0-39c8-3558-a1fa-2793e80a9e5b | -9.0443 | -46.93716 | 2025-10-28 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 00c39f24-69fd-32ba-883b-76186a94b050 | -6.83668 | -43.99517 | 2025-10-28 04:14:00 | NOAA-21 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 7b74124e-566a-3398-9023-e071ec0840ab | -10.78021 | -43.87234 | 2025-10-28 04:14:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 6c16d485-c453-3f7f-9520-fb7da7fce3d4 | -7.97134 | -45.45748 | 2025-10-28 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| c3eb0876-54c1-3d01-8acd-5837b5f008b3 | -10.691 | -48.02592 | 2025-10-28 04:14:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f5229f36-0126-3a61-b801-861321c5da31 | -6.58867 | -42.69283 | 2025-10-28 04:14:00 | NOAA-21 | FRANCISCO AYRES | PIAUÍ | Brasil | 2204105 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 03bb09ea-124b-3441-9d38-fbf48f1ca48f | -9.27857 | -46.39486 | 2025-10-28 04:14:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 5bf76aa3-19e3-34a6-9d5f-47d979fc2189 | -10.02372 | -44.99568 | 2025-10-28 04:14:00 | NOAA-21 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f969d6a8-2e1b-320d-971c-06810984a1e4 | -10.22404 | -49.84581 | 2025-10-28 04:14:00 | NOAA-21 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 9c878a5d-7a2f-3414-9b0a-aeb7da48d2b7 | -9.29706 | -45.21451 | 2025-10-28 04:14:00 | NOAA-21 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 08a43775-4076-3f2f-b219-77b3a2eb2003 | -7.81177 | -46.46167 | 2025-10-28 04:14:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| 69bfc26d-928d-3209-88ff-085c4a97d60d | -6.86545 | -43.44725 | 2025-10-28 04:14:00 | NOAA-21 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| be57dade-4621-31ec-b8b8-72b98c5389c9 | -11.37897 | -49.8587 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4a301959-5a7f-357f-8958-2b1fa85b3534 | -9.21754 | -46.34773 | 2025-10-28 04:14:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| e4272409-5b71-3672-9bf6-deb79bbc6262 | -7.10301 | -45.2202 | 2025-10-28 04:14:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| cf2621ff-9a01-3332-937b-dcb890e555a3 | -9.72075 | -43.90152 | 2025-10-28 04:14:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 6430a66d-1742-3694-a7d4-2438f3f5a342 | -9.2204 | -46.3523 | 2025-10-28 04:14:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 8e4585b3-c0bb-33a0-8415-3df8f1ff5721 | -7.42312 | -41.87177 | 2025-10-28 04:14:00 | NOAA-21 | SANTO INÁCIO DO PIAUÍ | PIAUÍ | Brasil | 2209500 | 22 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 200f61c8-85e0-3d2e-94c8-047d18aa79cc | -12.13653 | -45.2363 | 2025-10-28 04:14:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 4322a145-16ba-32d1-85a2-c556bb4e267c | -11.94731 | -43.33779 | 2025-10-28 04:14:00 | NOAA-21 | IBOTIRAMA | BAHIA | Brasil | 2913200 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 1a241189-f892-31cd-be6a-5c209c3c9ada | -6.12069 | -43.39964 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d9826df8-2234-3aea-8ce4-abbc3d55de75 | -7.78643 | -46.43622 | 2025-10-28 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| eb26001e-9551-314f-ab64-bed3296525a0 | -7.94267 | -45.50381 | 2025-10-28 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 425dfa8a-0c50-3dc3-b3e5-97b24fb5a189 | -8.1047 | -45.95663 | 2025-10-28 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| e4859d3c-505a-39da-a9e1-d19121166d1b | -10.0886 | -45.33593 | 2025-10-28 04:14:00 | NOAA-21 | SÃO GONÇALO DO GURGUÉIA | PIAUÍ | Brasil | 2209757 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 56942b40-3f99-3f28-82d0-98723651c492 | -8.11169 | -45.95783 | 2025-10-28 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b23706af-111c-33c3-9e8a-eba599c5b9a2 | -7.45499 | -49.57858 | 2025-10-28 04:14:00 | NOAA-21 | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3eb98e17-3e7c-32c4-9d1f-197ca62753e7 | -8.70578 | -47.98409 | 2025-10-28 04:14:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 2bcd387d-e81a-382f-80a0-a456125bf5f0 | -10.5863 | -49.76334 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
-| 51125b02-54ec-35fb-8c8d-998c47cabc9d | -12.20534 | -46.49925 | 2025-10-28 04:14:00 | NOAA-21 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 2cad3015-9803-3aac-9abe-46de59329ea5 | -9.97404 | -47.17531 | 2025-10-28 04:14:00 | NOAA-21 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 0efe6dee-6146-38fa-972b-2d4acdc343f0 | -7.95109 | -45.47369 | 2025-10-28 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| e52316bd-03e3-3c68-a84a-fcaaa2f55c58 | -7.98021 | -46.71718 | 2025-10-28 04:14:00 | NOAA-21 | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| d78e1cd7-956f-3e97-9da2-f2f50e591b50 | -6.44724 | -44.60108 | 2025-10-28 04:14:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 430b94f2-df13-34ed-b808-e8eb99c10a43 | -12.25677 | -47.92395 | 2025-10-28 04:14:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| 8e66d0ef-a0a9-34dc-8e9d-3ea0c1902463 | -9.70652 | -43.9705 | 2025-10-28 04:14:00 | NOAA-21 | MORRO CABEÇA NO TEMPO | PIAUÍ | Brasil | 2206654 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| b2e2dbdb-8d01-3a9c-8816-059da59f9039 | -9.13845 | -51.30353 | 2025-10-28 04:14:00 | NOAA-21 | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| 199c5e37-7013-3081-bcef-77418b0c90f8 | -6.49571 | -42.21981 | 2025-10-28 04:14:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| b68c9bf8-4555-3fc1-8f83-32b7c1798fbd | -7.45737 | -47.15347 | 2025-10-28 04:14:00 | NOAA-21 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| d73dcff5-68c7-39e5-9a19-16c8c59df405 | -11.75082 | -50.21955 | 2025-10-28 04:14:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 5404dd2e-f793-3723-be17-366610305df3 | -5.62627 | -47.62176 | 2025-10-28 04:14:00 | NOAA-21 | SÍTIO NOVO DO TOCANTINS | TOCANTINS | Brasil | 1720804 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| a2b38209-40ea-3c12-9563-936852138062 | -8.18663 | -45.71492 | 2025-10-28 04:14:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 6b921de2-1db4-30f1-8c98-164193923b76 | -6.96188 | -46.24146 | 2025-10-28 04:14:00 | NOAA-21 | FORTALEZA DOS NOGUEIRAS | MARANHÃO | Brasil | 2104107 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 3d27de27-86bc-3203-a9ae-05cc4aae977f | -9.14015 | -45.85915 | 2025-10-28 04:14:00 | NOAA-21 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| c808129f-176e-388b-8b51-e8e1a10a2b93 | -6.88714 | -45.03248 | 2025-10-28 04:14:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| fcd2f2e8-752c-3726-af25-eb3e25b7a5aa | -7.40972 | -47.77464 | 2025-10-28 04:14:00 | NOAA-21 | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 1041ada6-1fb1-30d0-9395-f74024200c2f | -10.88499 | -44.39412 | 2025-10-28 04:14:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| fbb89ea7-32b2-3059-b71e-e3b81d2b2762 | -8.03596 | -45.14285 | 2025-10-28 04:14:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| b57903ae-2b18-33f1-8d72-22a0aa71279e | -5.47238 | -50.16183 | 2025-10-28 04:14:00 | NOAA-21 | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| f182b6e3-e9a2-39e4-94ed-07a1de00f143 | -12.56961 | -43.97739 | 2025-10-28 04:14:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 7932f745-8696-3c7a-a0d0-8c3fd0603abe | -7.9546 | -45.5174 | 2025-10-28 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 570b558c-9d8e-3fbd-a0ba-6586b10ce464 | -10.77855 | -43.86135 | 2025-10-28 04:14:00 | NOAA-21 | BURITIRAMA | BAHIA | Brasil | 2904753 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| c1759522-6f5c-33da-bb60-6dc17ac4e3c1 | -13.04149 | -45.8561 | 2025-10-28 04:14:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 5df3c7cf-b82e-323e-97a1-9b1040413545 | -10.83309 | -44.95638 | 2025-10-28 04:14:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| df551514-cd57-3349-b93f-3c9d5b50c777 | -6.28837 | -42.87482 | 2025-10-28 04:14:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 990b1f21-1e97-36dc-b322-e31c6197b9f8 | -7.78934 | -46.44095 | 2025-10-28 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| d2ba2acf-30e5-3dab-bdd9-32524ce29480 | -6.13306 | -42.69126 | 2025-10-28 04:14:00 | NOAA-21 | ANGICAL DO PIAUÍ | PIAUÍ | Brasil | 2200608 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 1ac4b68e-5e6b-3277-a894-1483cc70f519 | -9.88225 | -44.89957 | 2025-10-28 04:14:00 | NOAA-21 | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 47c05147-1f44-3953-b876-77b3e135b74f | -10.36292 | -47.14464 | 2025-10-28 04:14:00 | NOAA-21 | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 69c561d1-d0f7-3eac-850e-8bb2872da4de | -11.28814 | -45.51268 | 2025-10-28 04:14:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 38.5 |
-| 13a8d32e-03bf-3ed2-9eba-84f56167ba83 | -9.62591 | -47.72257 | 2025-10-28 04:14:00 | NOAA-21 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| a888978f-064b-3616-80fe-b13c515b5803 | -9.29076 | -45.23211 | 2025-10-28 04:14:00 | NOAA-21 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| bdcccf7f-3d3e-3ffa-a7ce-326d0b4e0b3f | -10.86847 | -44.41298 | 2025-10-28 04:14:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ce2928b4-4ff6-3bfe-84b6-b3ce3c26aabc | -7.26592 | -45.01679 | 2025-10-28 04:14:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 0dc13d3f-5183-304e-8b5e-c6b80782464c | -9.31039 | -45.8472 | 2025-10-28 04:14:00 | NOAA-21 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 758ccef6-52ae-3d11-89ad-03aff73c45b9 | -7.30928 | -42.47929 | 2025-10-28 04:14:00 | NOAA-21 | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| bdb7ffe3-237b-3390-bc74-36d4b5933a3b | -7.76127 | -45.40932 | 2025-10-28 04:14:00 | NOAA-21 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| e14423b8-c9a3-3198-85af-8025769ae2c6 | -7.2581 | -45.00041 | 2025-10-28 04:14:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| c5b8e0a0-062e-3a35-91c2-de5e417b168d | -6.24996 | -41.80758 | 2025-10-28 04:14:00 | NOAA-21 | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| da743b74-de52-3d81-ba84-b930f90a527a | -10.52345 | -47.72879 | 2025-10-28 04:14:00 | NOAA-21 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| b99572a3-cf3e-3021-bcc9-71d84754be0a | -8.96975 | -50.18572 | 2025-10-28 04:14:00 | NOAA-21 | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 3deeaa07-b889-3fe6-8fba-3f9c4181f43e | -12.64396 | -46.71877 | 2025-10-28 04:14:00 | NOAA-21 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 28a0cd2a-117b-3c9f-8114-febfba934385 | -7.59978 | -43.58213 | 2025-10-28 04:14:00 | NOAA-21 | CANAVIEIRA | PIAUÍ | Brasil | 2202251 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| ca904d1e-58eb-3388-969b-450c8f704cce | -10.58559 | -49.7673 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 33.2 |
-| 10efe9e3-4369-334e-9ec9-62286b46c926 | -6.87394 | -43.5869 | 2025-10-28 04:14:00 | NOAA-21 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| cfcc5bfd-6144-3343-9cd1-ac5f4ba923b4 | -9.97547 | -47.16673 | 2025-10-28 04:14:00 | NOAA-21 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| a26823d7-2aea-3318-be9c-856033e30e62 | -10.9531 | -50.27272 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| afc57716-72c8-302c-9fa6-3ca45060fa1b | -7.0681 | -47.36581 | 2025-10-28 04:14:00 | NOAA-21 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 73419888-111b-39eb-8c51-8bddbd5daeca | -5.73339 | -45.26271 | 2025-10-28 04:14:00 | NOAA-21 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 36bf7d4e-1ee6-3d97-bbff-ac0e17d220b6 | -7.97669 | -46.73856 | 2025-10-28 04:14:00 | NOAA-21 | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| f00c72fd-c3a0-324f-8686-5a0a25d9ccb2 | -9.95931 | -47.08512 | 2025-10-28 04:14:00 | NOAA-21 | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 6c52c271-766a-3a30-a94e-632e3e33045d | -11.74304 | -50.21395 | 2025-10-28 04:14:00 | NOAA-21 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| caad934e-4ca6-3bf0-a0f2-9cbd547fb217 | -5.10833 | -48.48328 | 2025-10-28 04:14:00 | NOAA-21 | BOM JESUS DO TOCANTINS | PARÁ | Brasil | 1501576 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f6452a5a-1a31-338d-8253-7f6448b74fdd | -10.56029 | -49.78733 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| b329b1fc-9064-3079-83bd-2aaadce17ed8 | -8.66204 | -43.92362 | 2025-10-28 04:14:00 | NOAA-21 | CRISTINO CASTRO | PIAUÍ | Brasil | 2203107 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d5dd4b47-158e-3fd1-937b-2a9d7b8e836a | -11.18653 | -49.78836 | 2025-10-28 04:14:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 60eb0ba4-2560-353b-9457-20b33e337404 | -10.34139 | -44.64722 | 2025-10-28 04:14:00 | NOAA-21 | PARNAGUÁ | PIAUÍ | Brasil | 2207603 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| eefb7336-8dc8-3c43-9eb0-a11d2eecd74e | -10.65218 | -47.9077 | 2025-10-28 04:14:00 | NOAA-21 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 9dc87dd4-b50a-375f-86ca-04b5dd0c31e6 | -7.97799 | -46.70802 | 2025-10-28 04:14:00 | NOAA-21 | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| a006c564-2e25-3637-90b4-47341f81c07b | -7.38911 | -45.12343 | 2025-10-28 04:14:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 69ba4a9d-2ba7-356a-a7df-65d75c80f1c0 | -9.99257 | -48.10385 | 2025-10-28 04:14:00 | NOAA-21 | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 3659cd69-a6d7-314a-b3b3-4444b59dbfa0 | -5.64817 | -46.3312 | 2025-10-28 04:14:00 | NOAA-21 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 8c3a7561-bd76-35f4-8a17-dbde929fd63e | -9.97815 | -46.33922 | 2025-10-28 04:14:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| a3a8f16b-eb0b-3177-9e1e-5b645a38b439 | -8.57166 | -47.02416 | 2025-10-28 04:14:00 | NOAA-21 | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| caa56151-bf55-3096-8b94-d4314e02bf0d | -7.2315 | -44.99236 | 2025-10-28 04:14:00 | NOAA-21 | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 319c9fbb-4d35-3454-913c-717ad53ac146 | -9.22195 | -46.36488 | 2025-10-28 04:14:00 | NOAA-21 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 34700fa9-d025-3fcd-b5bd-6e7f0c0822b9 | -7.97024 | -46.75504 | 2025-10-28 04:14:00 | NOAA-21 | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 38.7 |
-| b4c3591f-1320-310e-aadd-ca66aa45f0bc | -9.03925 | -46.94512 | 2025-10-28 04:14:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f348cf15-e0e7-3df9-a22b-3bb129c9be07 | -6.39972 | -42.62038 | 2025-10-28 04:14:00 | NOAA-21 | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| f9aa8506-ed44-310c-a275-b4c6b7eb1c3d | -10.74637 | -44.7574 | 2025-10-29 04:23:00 | NPP-375D | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 905bed26-1081-37ee-908a-d873ea3f2c77 | -5.75246 | -43.39124 | 2025-10-29 04:23:00 | NPP-375D | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| da7e1345-e028-32ab-ae2b-25450f47670d | -9.88924 | -47.44764 | 2025-10-29 04:23:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 49c0fd28-a5c2-3ca3-9d35-195e901c7e5d | -9.50713 | -46.9593 | 2025-10-29 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 9f11df40-fec2-3acf-b688-378c9db2e37a | -8.50872 | -48.27747 | 2025-10-29 04:23:00 | NPP-375D | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| dbd8bd9f-d434-3ad5-adfc-b972c5abe460 | -5.61626 | -47.11419 | 2025-10-29 04:23:00 | NPP-375D | BURITIRANA | MARANHÃO | Brasil | 2102358 | 21 | 33 | nan | nan | nan | Cerrado | 8.5 |
+| d0e61345-24c5-313a-ae8c-e791342dc562 | -7.30856 | -43.96227 | 2025-10-29 04:23:00 | NPP-375D | LANDRI SALES | PIAUÍ | Brasil | 2205607 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 8289804c-e2af-3de4-b4d7-a2100b22ae74 | -9.49323 | -47.00214 | 2025-10-29 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a1408906-e914-3dfe-9c9a-dc611d0c800e | -7.33113 | -46.62858 | 2025-10-29 04:23:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 46a551a2-39cf-3b7a-95bf-20990d7fc189 | -7.08789 | -47.25151 | 2025-10-29 04:23:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 960eb4e1-0d62-3470-b78f-34d7af8e32a6 | -10.64396 | -48.00303 | 2025-10-29 04:23:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 41064ee7-9c04-3a4b-a15e-8af5fc412b12 | -4.87185 | -48.52627 | 2025-10-29 04:23:00 | NPP-375D | ABEL FIGUEIREDO | PARÁ | Brasil | 1500131 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 188b9eb0-7336-3ac5-aaeb-0a78c5c2f99b | -7.96273 | -46.7413 | 2025-10-29 04:23:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 43bc0b60-be1d-3a13-bb20-5d37380b80af | -10.35598 | -47.5617 | 2025-10-29 04:23:00 | NPP-375D | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| cbb204c6-a230-30fb-a40a-25be67d47721 | -5.93135 | -42.69184 | 2025-10-29 04:23:00 | NPP-375D | SÃO PEDRO DO PIAUÍ | PIAUÍ | Brasil | 2210508 | 22 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| b73b7b7c-fb75-3498-ba6e-32603dc11f5d | -8.47062 | -45.8668 | 2025-10-29 04:23:00 | NPP-375D | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| ae35cb4e-2b5a-3bb1-a0a3-8e567fa7ca7a | -10.85245 | -48.64351 | 2025-10-29 04:23:00 | NPP-375D | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 4ad98df0-1bbc-3d69-af37-9fe2493080d7 | -8.26045 | -46.34961 | 2025-10-29 04:23:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 1b0e650e-5deb-387c-bd84-c388ccd50af5 | -5.19774 | -46.14864 | 2025-10-29 04:23:00 | NPP-375D | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| bf6852fd-fee0-3b3a-9e3a-914155af9e43 | -6.29655 | -41.88633 | 2025-10-29 04:23:00 | NPP-375D | VALENÇA DO PIAUÍ | PIAUÍ | Brasil | 2211308 | 22 | 33 | nan | nan | nan | Caatinga | 12.6 |
+| fbd03d66-b2e2-348e-9dc6-b4560a2be4ff | -9.92594 | -47.67129 | 2025-10-29 04:23:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| d8a155be-17c6-3918-a885-ecf223a23819 | -7.35003 | -45.14323 | 2025-10-29 04:23:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 64d523a8-f831-318d-91bc-061cdefce4b1 | -5.54975 | -42.70327 | 2025-10-29 04:23:00 | NPP-375D | MONSENHOR GIL | PIAUÍ | Brasil | 2206407 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 8d6c16ed-dcd4-3d41-a2cd-263299b7a694 | -6.11457 | -41.71255 | 2025-10-29 04:23:00 | NPP-375D | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 3.8 |
+| b92b2148-ff7a-393c-b54d-29b77434e474 | -7.98322 | -47.36509 | 2025-10-29 04:23:00 | NPP-375D | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 30152a98-9679-3e0e-965e-639bbf874702 | -6.79813 | -40.97521 | 2025-10-29 04:23:00 | NPP-375D | ALAGOINHA DO PIAUÍ | PIAUÍ | Brasil | 2200251 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 1d22cf8b-6bc8-34f4-b996-70db5125ee1a | -6.90877 | -42.86797 | 2025-10-29 04:23:00 | NPP-375D | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
+| ce5116da-c285-368a-91ab-7a118bba371e | -10.54834 | -45.0494 | 2025-10-29 04:23:00 | NPP-375D | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| df3f77f9-a92a-3c7e-bf83-9c0c993543f9 | -6.10174 | -42.47055 | 2025-10-29 04:23:00 | NPP-375D | HUGO NAPOLEÃO | PIAUÍ | Brasil | 2204600 | 22 | 33 | nan | nan | nan | Caatinga | 17.1 |
+| 45af0a5c-c740-3e82-b0a0-d8a8128c0aa7 | -10.52131 | -47.72377 | 2025-10-29 04:23:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ba907e61-e47e-3a49-b21d-030c5e7f7355 | -5.42336 | -44.42872 | 2025-10-29 04:23:00 | NPP-375D | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6d52d6a2-659d-3b38-8320-deeaa52c1cd3 | -4.91554 | -47.32351 | 2025-10-29 04:23:00 | NPP-375D | AÇAILÂNDIA | MARANHÃO | Brasil | 2100055 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ce1b3046-8411-3f5d-937d-37dc529f678b | -4.63503 | -48.69809 | 2025-10-29 04:23:00 | NPP-375D | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fa4c3919-f28d-365c-9f22-ff457c4ee7f7 | -6.12239 | -41.7095 | 2025-10-29 04:23:00 | NPP-375D | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 0f65f195-93a8-36e1-8239-2e625afc79f0 | -9.54132 | -46.91992 | 2025-10-29 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 1cb1f182-3011-381b-84b9-6474cb071794 | -7.07818 | -44.93962 | 2025-10-29 04:23:00 | NPP-375D | SÃO FÉLIX DE BALSAS | MARANHÃO | Brasil | 2110807 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| f862d6ad-0a8b-3a4c-bb3c-dca850dcc2ea | -8.30809 | -46.83368 | 2025-10-29 04:23:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| c52ab4e9-c4f8-3273-b568-75f09f7f7872 | -6.16381 | -43.75966 | 2025-10-29 04:23:00 | NPP-375D | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| b9b49604-70e2-3058-9725-5a9e88c6f3ad | -6.42359 | -42.32515 | 2025-10-29 04:23:00 | NPP-375D | REGENERAÇÃO | PIAUÍ | Brasil | 2208809 | 22 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 5776c9fe-fdaf-367a-8a48-e9cff4b5daf1 | -6.86195 | -43.44337 | 2025-10-29 04:23:00 | NPP-375D | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 3e8c1065-5414-3343-b10f-9d18b43a62a8 | -10.459 | -46.38398 | 2025-10-29 04:23:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a75e49d7-acd4-3d85-88a8-e416bd8e3f20 | -9.94341 | -47.09042 | 2025-10-29 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| f6001145-2142-3b58-bd45-689211fb9261 | -8.54464 | -45.70238 | 2025-10-29 04:23:00 | NPP-375D | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| ac881882-70ca-3c26-ab42-ae4f0ea30081 | -6.1539 | -41.67889 | 2025-10-29 04:23:00 | NPP-375D | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| fe0a5c24-856c-3aeb-a6b0-ada9f63f341d | -6.82469 | -46.37174 | 2025-10-29 04:23:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 55e277d2-a03a-35a1-a70d-fbe9a21d230e | -7.24027 | -45.26141 | 2025-10-29 04:23:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 18c063db-9909-3f29-9451-44aace43b39e | -10.84126 | -44.42134 | 2025-10-29 04:23:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2b7a2aa1-9dd1-3d4a-97ff-de6e256e4f42 | -10.56304 | -47.79359 | 2025-10-29 04:23:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 442e0eeb-1e30-3d80-915a-c0e8812ca539 | -5.34874 | -48.16589 | 2025-10-29 04:23:00 | NPP-375D | BURITI DO TOCANTINS | TOCANTINS | Brasil | 1703800 | 17 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5e441e44-cbca-3cfe-99e0-d46a9c445bc0 | -9.88863 | -47.4514 | 2025-10-29 04:23:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 875c94ac-1c3c-3f8b-a4c5-2b72a0dd47f1 | -10.61264 | -49.61209 | 2025-10-29 04:23:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 8c90417d-7994-3c52-93b4-d0a874c9bc01 | -7.34149 | -42.46961 | 2025-10-29 04:23:00 | NPP-375D | SÃO FRANCISCO DO PIAUÍ | PIAUÍ | Brasil | 2209708 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 6cd65aca-74f5-3cc8-baab-db6b933bac73 | -7.31317 | -47.81942 | 2025-10-29 04:23:00 | NPP-375D | BABAÇULÂNDIA | TOCANTINS | Brasil | 1703008 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| f1afde9c-3d29-3bf2-b0c8-e7854609660f | -7.80135 | -46.46468 | 2025-10-29 04:23:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 69e83367-459f-316e-b2f7-88c0d034ad14 | -7.44822 | -49.41337 | 2025-10-29 04:23:00 | NPP-375D | FLORESTA DO ARAGUAIA | PARÁ | Brasil | 1503044 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 754d1077-329a-3c03-b691-6c4f9f2ca47b | -7.09398 | -45.24855 | 2025-10-29 04:23:00 | NPP-375D | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| fff05ac1-8197-38bc-b720-3442f63c3549 | -6.14762 | -41.56989 | 2025-10-29 04:23:00 | NPP-375D | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 180a95c9-f1c1-3caf-ad20-86bc0bf039dc | -6.23722 | -42.76408 | 2025-10-29 04:23:00 | NPP-375D | AMARANTE | PIAUÍ | Brasil | 2200509 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| c58ac236-d7fb-3c81-8395-81b97724f1c3 | -5.81706 | -50.06422 | 2025-10-29 04:23:00 | NPP-375D | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 8cef9a1d-ac21-3450-90fe-9c8525840fbd | -8.0247 | -47.39561 | 2025-10-29 04:23:00 | NPP-375D | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 8a272608-7766-383f-a8e6-43f464dd0102 | -9.91261 | -45.92978 | 2025-10-29 04:23:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 9be1c194-5e82-36cd-b312-0dc7c2ca100f | -8.7624 | -46.51424 | 2025-10-29 04:23:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| df890b36-23d7-360c-a206-1bfc112462d0 | -5.19315 | -45.62664 | 2025-10-29 04:23:00 | NPP-375D | JENIPAPO DOS VIEIRAS | MARANHÃO | Brasil | 2105476 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5e6db95c-2f9a-391a-a5c0-b28d96f92448 | -9.18324 | -48.84447 | 2025-10-29 04:23:00 | NPP-375D | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 8fee4413-d81f-3b34-b59b-13873c5f3c97 | -6.09262 | -41.78379 | 2025-10-29 04:23:00 | NPP-375D | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| d152d2ad-bf75-30b1-b04a-e3d0d52cba55 | -7.19273 | -46.75046 | 2025-10-29 04:23:00 | NPP-375D | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 8356d20a-38ed-3044-bd8a-2f8276e2f168 | -10.77619 | -45.10771 | 2025-10-29 04:23:00 | NPP-375D | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 67031251-93e0-3fab-8ff7-61c2a4866fe6 | -5.52488 | -45.43284 | 2025-10-29 04:23:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| a5f882a6-8d88-3ca6-aa49-37514a8b026b | -7.50138 | -46.74353 | 2025-10-29 04:23:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| ab68080e-7c01-3569-94c9-8eaa771bb7e9 | -7.79796 | -46.46414 | 2025-10-29 04:23:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| a25c084d-4b3d-368d-bd91-d5426924be77 | -9.80834 | -48.14444 | 2025-10-29 04:23:00 | NPP-375D | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 3939d721-456c-372b-ba1a-a23ba9b298f3 | -9.33811 | -43.10153 | 2025-10-29 04:23:00 | NPP-375D | JUREMA | PIAUÍ | Brasil | 2205532 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 28f4af65-1895-3af5-8c77-a6e1f4e536ec | -11.27181 | -45.5266 | 2025-10-29 04:23:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 96fba29c-d6a1-3de7-bb4b-d3f75640f8ae | -10.65914 | -47.99765 | 2025-10-29 04:23:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| d11244b9-3b7c-32e3-b49f-9d8fefb4151f | -6.13895 | -41.85119 | 2025-10-29 04:23:00 | NPP-375D | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 43fa65c1-4e2e-308a-8986-d605ce6506f1 | -8.00628 | -46.20996 | 2025-10-29 04:23:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 1d8c26a9-9929-3a51-900e-3eaf880f8ea8 | -7.36344 | -47.63685 | 2025-10-29 04:23:00 | NPP-375D | FILADÉLFIA | TOCANTINS | Brasil | 1707702 | 17 | 33 | nan | nan | nan | Cerrado | 8.8 |
+| 9e667d9c-f41a-3cad-8714-4e5e67258fbc | -9.44586 | -46.90788 | 2025-10-29 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e7c82d18-5060-30fe-83ca-a4c9ea82a64d | -7.69026 | -46.89556 | 2025-10-29 04:23:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 7b5024ac-0400-34c7-9e24-86c637e25412 | -6.15061 | -41.57448 | 2025-10-29 04:23:00 | NPP-375D | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| 201aa3f6-e34d-3ace-b147-6e61ab5464bb | -10.39022 | -47.11782 | 2025-10-29 04:23:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 831e9ca1-e6fa-334a-8095-bc8b54d5029a | -5.41306 | -45.21746 | 2025-10-29 04:23:00 | NPP-375D | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 7b4413ae-b06b-367e-b21f-1ae0498a49e3 | -6.12531 | -41.84483 | 2025-10-29 04:23:00 | NPP-375D | AROAZES | PIAUÍ | Brasil | 2200905 | 22 | 33 | nan | nan | nan | Caatinga | 18.7 |
+| 2725a137-b6aa-3131-8233-3f6ced452f54 | -5.59538 | -46.23795 | 2025-10-29 04:23:00 | NPP-375D | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 07826322-5a71-3ea9-ba93-e9ecf121bc1b | -8.21478 | -43.8062 | 2025-10-29 04:23:00 | NPP-375D | COLÔNIA DO GURGUÉIA | PIAUÍ | Brasil | 2202752 | 22 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| f4818dd9-b2ed-3c55-bd69-8209d658cae5 | -6.27942 | -42.87719 | 2025-10-29 04:23:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ae75aa14-86d4-315c-9ad1-6f96a010b88b | -10.5028 | -47.72849 | 2025-10-29 04:23:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 207db471-9256-35dc-bd16-73fa5e17382f | -10.95486 | -47.61615 | 2025-10-29 04:23:00 | NPP-375D | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| be1e4918-a320-3a55-ba10-e161dd430ffc | -7.44467 | -39.26858 | 2025-10-29 04:23:00 | NPP-375D | BARBALHA | CEARÁ | Brasil | 2301901 | 23 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 465b2a7e-528d-394e-bd05-9977266a3300 | -8.1901 | -44.45112 | 2025-10-29 04:23:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| bc764388-3e6b-339e-8dc2-cfed1c536b7f | -8.32617 | -46.15514 | 2025-10-29 04:23:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| f7aa4781-8c5a-329a-b27d-678c48700ca6 | -6.34645 | -46.36732 | 2025-10-29 04:23:00 | NPP-375D | FORMOSA DA SERRA NEGRA | MARANHÃO | Brasil | 2104099 | 21 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 03fb16cb-d4d5-3a88-999a-4b1b3d5b9dbf | -9.9032 | -44.91487 | 2025-10-29 04:23:00 | NPP-375D | RIACHO FRIO | PIAUÍ | Brasil | 2208858 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 71ea6583-560e-33f6-a636-7a5708e7ea97 | -6.27237 | -43.88824 | 2025-10-29 04:23:00 | NPP-375D | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 34b26a79-8ee8-38cb-9567-23d1bfebbb26 | -9.49205 | -47.00946 | 2025-10-29 04:23:00 | NPP-375D | LIZARDA | TOCANTINS | Brasil | 1712405 | 17 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| 31df7d96-1f84-3483-900f-e77c0255b3a3 | -10.75279 | -44.75076 | 2025-10-29 04:23:00 | NPP-375D | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ac8c818a-b8e8-3f03-a4ec-f0d61d915c51 | -8.18343 | -44.45006 | 2025-10-29 04:23:00 | NPP-375D | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 14d0839d-db28-357f-a0eb-431847212ab2 | -10.88474 | -47.99484 | 2025-10-29 04:23:00 | NPP-375D | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7e856445-5350-3fc5-a083-74c3328509a7 | -10.46454 | -46.39218 | 2025-10-29 04:23:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c0b178bb-cf2f-3607-bb87-f3cc1b04104e | -7.32512 | -46.72995 | 2025-10-29 04:23:00 | NPP-375D | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
 
 
 [Clique aqui para ver as próximas entradas](README35.md)
