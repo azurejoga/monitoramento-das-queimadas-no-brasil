@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 5b4a8527-0ddc-3c03-a2e9-fb4422c3353e | -4.7023 | -46.3842 | 2025-11-08 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 176.0 |
-| fa06c98f-90c2-35a9-a8b5-96d3ca5ebac3 | -3.4058 | -45.4424 | 2025-11-08 00:00:00 | GOES-19 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 111.5 |
-| b743f97b-fb36-37d2-9b18-6668f2f12ddc | -4.3925 | -45.3728 | 2025-11-08 00:00:00 | GOES-19 | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 0e10859c-4401-3c09-bf32-7ee7fa07b3a4 | -20.1893 | -47.3735 | 2025-11-08 00:00:00 | GOES-19 | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 110.9 |
-| 11d4a223-4f01-3c5d-b836-ea54cdc9060b | -3.3464 | -50.1979 | 2025-11-08 00:00:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 26.5 |
-| d01c6873-3f1f-3d07-abe8-a5a75ad8b33d | -4.3846 | -49.6723 | 2025-11-08 00:00:00 | GOES-19 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 74.0 |
-| 87ba7d61-db75-3792-b0b6-fe5a370a22af | -4.6835 | -46.4074 | 2025-11-08 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 680.3 |
-| 30816687-123e-3314-941f-6e906696065e | -4.1161 | -48.0136 | 2025-11-08 00:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 52.3 |
-| 84d8e2d9-5ec3-39e5-b6d1-e13e801fa09a | -20.1886 | -47.397 | 2025-11-08 00:00:00 | GOES-19 | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 152.4 |
-| e308e311-6ace-306a-915d-85842bc17c2b | -4.4633 | -43.2152 | 2025-11-08 00:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 262.9 |
-| 4417c322-1efd-394b-89c4-5b52485732f7 | -4.3927 | -45.3503 | 2025-11-08 00:00:00 | GOES-19 | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| f586d895-c999-3fd1-a1a7-e9b64609daed | -4.482 | -43.2141 | 2025-11-08 00:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 121.6 |
-| fe24e45a-aedd-3a7f-b478-8ae613dc686e | -3.0909 | -45.2074 | 2025-11-08 00:00:00 | GOES-19 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 59.8 |
-| 43d2b27b-f87d-3cb0-9a30-bada73685b02 | -4.6837 | -46.3852 | 2025-11-08 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 297.1 |
-| c053a0ed-d4fc-3dcd-a916-5f54c2ec0ac2 | -2.7026 | -49.5422 | 2025-11-08 00:00:00 | GOES-19 | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
-| 9460fb4a-97a0-3521-b529-386e6b7bcafd | -4.4632 | -43.2386 | 2025-11-08 00:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 87.6 |
-| f491a9e5-43d7-3f69-b525-9db2ef5bcfdb | -3.0908 | -45.23 | 2025-11-08 00:00:00 | GOES-19 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 58.4 |
-| 1407b559-960a-33cd-bcfe-0c4cd4fe2257 | -3.6601 | -50.2711 | 2025-11-08 00:00:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 64.0 |
-| 469382ec-9246-302f-91c7-24184c4d9180 | -4.4635 | -43.1919 | 2025-11-08 00:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| 9605e345-307f-3df4-8604-0456c95b67cf | -4.7021 | -46.4064 | 2025-11-08 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 389.0 |
-| 1d2b57a4-355f-3501-bb2b-860bbf2d34b7 | -3.6601 | -50.2711 | 2025-11-08 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 65.5 |
-| e5e00468-2b9d-3db3-8796-eac36f637390 | -4.6834 | -46.4296 | 2025-11-08 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 92.3 |
-| 1bd79cee-76e2-3538-9609-392ce8241ebb | -3.3464 | -50.1979 | 2025-11-08 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 25.1 |
-| 2ca873c2-1d1e-3550-81b0-f97a6d8eccc3 | -4.4446 | -43.2164 | 2025-11-08 00:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| 315220cc-2dce-3845-b351-bae678c2c8f2 | -4.3927 | -45.3503 | 2025-11-08 00:10:00 | GOES-19 | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 72.6 |
-| 42c82b35-32a1-3cdd-844e-162f396953a1 | -20.1886 | -47.397 | 2025-11-08 00:10:00 | GOES-19 | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 200.4 |
-| a3386547-26da-33bd-983e-a314b9e2d192 | -3.4058 | -45.4424 | 2025-11-08 00:10:00 | GOES-19 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 104.4 |
-| de27efa7-5258-3f7f-98a5-a6515eff6326 | -4.6837 | -46.3852 | 2025-11-08 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 276.2 |
-| 8b031c96-a09e-3da8-9492-cc3de69c9a7b | -4.4633 | -43.2152 | 2025-11-08 00:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 242.3 |
-| 39a868b5-7b14-3ca3-8e93-c3e4c2cd2334 | -4.3846 | -49.6723 | 2025-11-08 00:10:00 | GOES-19 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| b96332f2-2783-3e2c-8dc7-65264fecbd6e | -4.482 | -43.2141 | 2025-11-08 00:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 119.6 |
-| 19bc93a1-0d07-36cc-81fd-bf46ef4eb62e | -20.1893 | -47.3735 | 2025-11-08 00:10:00 | GOES-19 | PEDREGULHO | SÃO PAULO | Brasil | 3537008 | 35 | 33 | nan | nan | nan | Cerrado | 131.0 |
-| 6d977238-aca7-32e1-b740-069ba484270a | -2.8308 | -49.8346 | 2025-11-08 00:10:00 | GOES-19 | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
-| acf28d44-161c-3e3e-888f-386f60d0c9a1 | -4.7023 | -46.3842 | 2025-11-08 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 102.9 |
-| 6b70cd5f-9653-36db-ad19-7e06790e7c7d | -4.7021 | -46.4064 | 2025-11-08 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 195.6 |
-| da96299a-c887-3a54-877a-3e0a223dd7ab | -4.1161 | -48.0136 | 2025-11-08 00:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 41.1 |
-| c03b6468-38fd-315f-97b7-2b4766b9357a | -4.6835 | -46.4074 | 2025-11-08 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 558.8 |
-| 75ed74a3-af9c-3b4f-8eae-c9d71dc00d25 | -3.3463 | -50.2189 | 2025-11-08 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 39.7 |
-| d42a7ba9-f60d-3d95-8aaa-2e68f6e45831 | -3.2991 | -44.4735 | 2025-11-08 00:10:00 | GOES-19 | ANAJATUBA | MARANHÃO | Brasil | 2100709 | 21 | 33 | nan | nan | nan | Amazônia | 62.8 |
-| e1fbed9f-c941-383b-bc36-685fb70f15cc | -3.0731 | -45.0501 | 2025-11-08 00:10:00 | GOES-19 | MATINHA | MARANHÃO | Brasil | 2106508 | 21 | 33 | nan | nan | nan | Amazônia | 107.1 |
-| f4f9310a-88ea-37cd-b834-c12705f8f211 | -7.7929 | -46.6376 | 2025-11-08 00:14:00 | METOP-B | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 867a45c5-d820-3925-b213-e01ced060f61 | -6.651 | -44.472 | 2025-11-08 00:14:00 | METOP-B | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 4445746f-3d21-3325-bd0b-ce36770f07a1 | -3.0273 | -50.258499 | 2025-11-08 00:14:00 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 240e0d1e-889e-35d6-973f-d95f4beb3e74 | -4.6267 | -45.886501 | 2025-11-08 00:14:00 | METOP-B | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| adecdcdb-f907-393e-b1a7-c5f3c0e257dd | -13.0507 | -50.277302 | 2025-11-08 00:14:00 | METOP-B | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 8e098ef2-c599-3024-b508-6b762ac464f1 | -4.514 | -41.916302 | 2025-11-08 00:14:00 | METOP-B | CAPITÃO DE CAMPOS | PIAUÍ | Brasil | 2202406 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 63f8773b-1bae-30c3-b43b-511d6817a260 | -4.587 | -45.980598 | 2025-11-08 00:14:00 | METOP-B | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 71ea5b6f-5cce-3815-9e1f-fb736f605a0f | -5.6512 | -46.388901 | 2025-11-08 00:14:00 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 78acd250-b539-3c59-baed-644f2be8f6be | -8.2001 | -46.967098 | 2025-11-08 00:14:00 | METOP-B | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f9a78185-887a-325f-a837-73d750ded446 | -8.0677 | -47.1078 | 2025-11-08 00:14:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 575a8973-d21b-34d3-b653-45c902191994 | -4.825 | -45.5905 | 2025-11-08 00:14:00 | METOP-B | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 462e40d4-0eb2-3f2e-a829-b22ab3ccecc4 | -5.4712 | -46.104801 | 2025-11-08 00:14:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 5dfcc6d0-97e1-3926-9284-4ed30e8e8c41 | -5.6375 | -42.996799 | 2025-11-08 00:14:00 | METOP-B | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 1e9b44be-e404-3868-8240-56381342baed | -4.5772 | -45.9828 | 2025-11-08 00:14:00 | METOP-B | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 99cf9959-639e-3967-b4a0-9cd0d2fb6189 | -15.1847 | -49.503502 | 2025-11-08 00:14:00 | METOP-B | SANTA ISABEL | GOIÁS | Brasil | 5219357 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 2fb73d29-e441-3335-a74f-e4fbde3f23a1 | -14.6739 | -51.884701 | 2025-11-08 00:14:00 | METOP-B | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 4502834e-0c7b-348c-924c-a662902d265f | -3.1462 | -50.5998 | 2025-11-08 00:14:00 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3101fa9e-55fe-3241-906b-5f38311f279e | -7.5748 | -42.294498 | 2025-11-08 00:14:00 | METOP-B | SÃO MIGUEL DO FIDALGO | PIAUÍ | Brasil | 2210391 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 63d38145-57e9-36b1-8b61-343897a3b04e | -9.4939 | -47.338799 | 2025-11-08 00:14:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ddfd20dd-ff34-3de1-8b05-90d095b233f8 | -9.1397 | -51.287201 | 2025-11-08 00:14:00 | METOP-B | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4c5edd88-5e2f-311e-bda3-72f9e8667fd5 | -4.4263 | -47.592602 | 2025-11-08 00:14:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ad8199de-6677-387f-ada4-aad4bf080bc8 | -4.3546 | -46.794601 | 2025-11-08 00:14:00 | METOP-B | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| ffa3ea30-db7e-3a70-84a0-eee98a82ad30 | -8.0091 | -38.5229 | 2025-11-08 00:14:00 | METOP-B | SERRA TALHADA | PERNAMBUCO | Brasil | 2613909 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 356c90e8-4389-3826-ac86-063f36e66fee | -4.8397 | -45.6092 | 2025-11-08 00:14:00 | METOP-B | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| b4c8a16b-383e-38f3-b27d-4022db014d24 | -5.3471 | -47.117901 | 2025-11-08 00:14:00 | METOP-B | SENADOR LA ROCQUE | MARANHÃO | Brasil | 2111763 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 343a055b-4f77-30fc-aad3-356351129cc6 | -2.8262 | -49.828201 | 2025-11-08 00:14:00 | METOP-B | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2079cee6-cd5a-36c6-97b7-f868aab33155 | -6.2185 | -47.317699 | 2025-11-08 00:14:00 | METOP-B | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| cb701ad6-267b-3cb5-9085-5f5b289994de | -6.7258 | -44.139301 | 2025-11-08 00:14:00 | METOP-B | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 6b5b48f8-27ec-3a38-b71f-0cb98f67c594 | -4.3686 | -45.356998 | 2025-11-08 00:14:00 | METOP-B | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| ad0f43c8-5f72-31c8-b0ae-3ddf34868597 | -4.6725 | -46.390499 | 2025-11-08 00:14:00 | METOP-B | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 30c45c55-4ec6-3ac1-8d74-fe4b758b8e7f | -4.6903 | -45.8503 | 2025-11-08 00:14:00 | METOP-B | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 3f6b037b-729a-32bc-9d17-b629fd8ebfaa | -4.6823 | -46.388302 | 2025-11-08 00:14:00 | METOP-B | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| ff235549-34c8-3dd0-80a6-b465cb65a02f | -10.1289 | -46.520199 | 2025-11-08 00:14:00 | METOP-B | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 97e604ac-2e60-3f62-a73a-7cf281b15f79 | -8.0187 | -38.520302 | 2025-11-08 00:14:00 | METOP-B | SERRA TALHADA | PERNAMBUCO | Brasil | 2613909 | 26 | 33 | nan | nan | nan | Caatinga | nan |
-| 0a9216a7-c261-368c-87bb-bfe17ebbee8a | -9.1089 | -48.897301 | 2025-11-08 00:14:00 | METOP-B | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6ad05658-bf6f-307e-ac5e-1f33b7ba0672 | -4.4244 | -47.5844 | 2025-11-08 00:14:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d28bc0ce-e133-35e8-ae67-6e9c77361e71 | -4.4897 | -45.128399 | 2025-11-08 00:14:00 | METOP-B | LAGO DA PEDRA | MARANHÃO | Brasil | 2105708 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 6034cc34-c290-394c-bd6f-c07e3421ae99 | -5.4367 | -44.649399 | 2025-11-08 00:14:00 | METOP-B | SANTA FILOMENA DO MARANHÃO | MARANHÃO | Brasil | 2109759 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 66caa19d-c9d8-3fd1-bc72-fec8641e4490 | -2.4251 | -48.030701 | 2025-11-08 00:14:00 | METOP-B | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7c86c1c8-35b7-35d4-9911-935751fdfd73 | -4.4631 | -43.197399 | 2025-11-08 00:14:00 | METOP-B | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b55dc7e9-53c7-3294-9bf3-e49190ea5d94 | -4.6943 | -46.395401 | 2025-11-08 00:14:00 | METOP-B | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 8b6be1e3-6eb3-3749-b709-287f60c3bd70 | -5.4402 | -47.741299 | 2025-11-08 00:14:00 | METOP-B | PRAIA NORTE | TOCANTINS | Brasil | 1718303 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| bf714dd7-3053-3033-85c9-8b31b5059ff2 | -6.0158 | -49.123299 | 2025-11-08 00:14:00 | METOP-B | ELDORADO DO CARAJÁS | PARÁ | Brasil | 1502954 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 042223dd-7b17-3f22-bcd6-a349f1a594ab | -8.9026 | -47.815899 | 2025-11-08 00:14:00 | METOP-B | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ac2cac6d-02c4-36c3-864a-1202f1ea6703 | -19.4785 | -53.929199 | 2025-11-08 00:14:00 | METOP-B | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 2a112fdd-4457-37c7-b258-c63361d8ef87 | -6.2204 | -47.325802 | 2025-11-08 00:14:00 | METOP-B | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7619b01e-fdbf-34cc-9d94-60ba8a0cbf75 | -5.4142 | -44.814701 | 2025-11-08 00:14:00 | METOP-B | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9f162506-d109-3510-b16d-c28913d8a359 | -13.9343 | -50.0401 | 2025-11-08 00:14:00 | METOP-B | MUNDO NOVO | GOIÁS | Brasil | 5214051 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| c7c65170-28cf-3c2d-b294-0f296c43e431 | -3.1446 | -50.592899 | 2025-11-08 00:14:00 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e53b978-287a-31c8-9d12-d4fb96894f31 | -4.9175 | -44.5438 | 2025-11-08 00:14:00 | METOP-B | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9bb9d015-47f7-3063-b1b6-66782bedfbca | -6.3 | -48.653301 | 2025-11-08 00:14:00 | METOP-B | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e9ec3840-8f6c-34d3-bcc9-04f2487220b8 | -7.7578 | -49.256901 | 2025-11-08 00:14:00 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a5672421-5e26-3ebe-b7ee-f0e991e1c117 | -4.2879 | -45.671101 | 2025-11-08 00:14:00 | METOP-B | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 9320d217-665f-3b26-a17a-039d8e3f5ead | -4.6921 | -46.386002 | 2025-11-08 00:14:00 | METOP-B | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 79aee306-b8f5-38ce-9131-4007e2b6c520 | -9.1299 | -51.289398 | 2025-11-08 00:14:00 | METOP-B | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 376abc64-6e39-3f5d-823e-18faa70d5391 | -17.877199 | -52.383999 | 2025-11-08 00:14:00 | METOP-B | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| fcf8b011-0427-326e-9aba-9549283f368c | -2.427 | -48.038898 | 2025-11-08 00:14:00 | METOP-B | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9a5486ec-9595-32ac-99b3-4cb0fd3a79b0 | -7.5667 | -45.851398 | 2025-11-08 00:14:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 4c3da7c8-c460-393a-a34a-dc5e083c0092 | -7.0375 | -46.981098 | 2025-11-08 00:14:00 | METOP-B | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9bbc7df6-6119-3364-a54a-2a785b9ea2b0 | -14.4894 | -52.129398 | 2025-11-08 00:14:00 | METOP-B | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 3436037d-8d7c-3f34-812d-827c10547c01 | -3.8407 | -51.1423 | 2025-11-09 00:00:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 72.9 |
+| bbd6026c-e9cf-3b9d-a2b8-cc6ec8832f19 | -3.3367 | -44.4034 | 2025-11-09 00:00:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 76.5 |
+| 43a811c6-c550-39a3-a3a8-ad175ad1cbe6 | -5.2722 | -44.9585 | 2025-11-09 00:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 77.5 |
+| 79314fca-bb6a-349c-a726-d3282aefce5b | -4.4074 | -45.955 | 2025-11-09 00:00:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 165.1 |
+| ad870953-5ca3-3a78-9c93-5c800fac5f81 | -4.6278 | -46.3883 | 2025-11-09 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 87.5 |
+| 78839343-221d-3f1d-b7ab-8d1dc31086a0 | -10.3437 | -49.6321 | 2025-11-09 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 172.1 |
+| 6b6e0675-2969-36e8-9ed6-930182675a46 | -3.1659 | -45.0691 | 2025-11-09 00:00:00 | GOES-19 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 46.6 |
+| 4c9913e2-4699-3694-9d70-d30e4367ecab | -3.8408 | -51.1215 | 2025-11-09 00:00:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 160.5 |
+| d27d6696-88f2-38d3-9129-eea1e84ad4bc | -4.6463 | -46.4095 | 2025-11-09 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 64.4 |
+| adb90d8e-b678-3e73-90a5-d254497795b9 | -3.3182 | -44.3814 | 2025-11-09 00:00:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 170.0 |
+| 860b2eda-9981-36e8-a754-339a740002c4 | -3.1472 | -45.0924 | 2025-11-09 00:00:00 | GOES-19 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 74.9 |
+| c78f9c81-1890-3e11-8c11-a1d3bef71636 | -3.1473 | -45.0699 | 2025-11-09 00:00:00 | GOES-19 | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 99.1 |
+| 60c3ba30-0f75-3a02-954a-3096d41d8c72 | -4.3887 | -45.956 | 2025-11-09 00:00:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| a2025714-92b3-3df0-8268-6a8337e67508 | -3.8679 | -49.3757 | 2025-11-09 00:00:00 | GOES-19 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 57.2 |
+| 9bde1a09-cad9-3106-9d83-73bb71c13d39 | -2.5929 | -49.2268 | 2025-11-09 00:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 118.0 |
+| eae3c575-0028-3de5-9b7f-993d7ed60767 | -3.3555 | -44.3798 | 2025-11-09 00:00:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 3fb7ea9f-34c5-383e-bce7-c7da4f85f770 | -2.9435 | -49.3443 | 2025-11-09 00:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 84.6 |
+| 14bcc290-4c6f-306f-8da6-d679c1e797c3 | -2.7379 | -45.1751 | 2025-11-09 00:00:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 102.5 |
+| 7bf357f5-f634-3e62-925d-fe537c69b7ef | -4.4072 | -45.9773 | 2025-11-09 00:00:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 63.1 |
+| 0e627c69-1345-3a2c-b9e5-1206b8edb616 | -2.7565 | -45.1744 | 2025-11-09 00:00:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 38.3 |
+| 53ce8293-9ccf-3f84-8314-1903857dcafa | -2.6113 | -49.2263 | 2025-11-09 00:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 144.1 |
+| 65590ca2-b07c-345b-8d32-91cd64f84710 | -10.3248 | -49.6341 | 2025-11-09 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 87.2 |
+| 5fd20e07-16ca-3929-a3b8-6c4c0d838a86 | -5.2908 | -44.9572 | 2025-11-09 00:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 70.8 |
+| bc2bd129-7803-3e27-a3bf-fbefe89dc1c4 | -3.3369 | -44.3806 | 2025-11-09 00:00:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 458.6 |
+| b3b57f42-07b3-398f-b607-116a94e24caa | -4.6464 | -46.3873 | 2025-11-09 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| 1f3ebaa5-f7eb-3d2f-9ce9-2b2e354ae775 | -4.6277 | -46.4105 | 2025-11-09 00:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 91.6 |
+| 0b2db4ab-247d-362c-9b6f-d093eac2fcf2 | -3.8119 | -45.9842 | 2025-11-09 00:00:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 47.0 |
+| ace7e307-ad1a-38c6-9b71-273c0e2b3814 | -3.8223 | -51.1222 | 2025-11-09 00:00:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 128.2 |
+| 8cfe3255-f51f-3045-b91b-60a934d2105c | -4.426 | -45.954 | 2025-11-09 00:00:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 55.8 |
+| e24e2226-d93e-3985-a138-754e54d3aa16 | -3.5946 | -41.6577 | 2025-11-09 00:00:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 61.8 |
+| bc815255-825e-3021-bd5f-2a58a6050dc4 | -3.3183 | -44.3585 | 2025-11-09 00:00:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 84.2 |
+| a4abb595-2684-35dc-abb8-4c1cb968c158 | -3.337 | -44.3577 | 2025-11-09 00:00:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 199.2 |
+| 2f4eae36-f17a-35d3-97fc-10a94f082c83 | -10.3434 | -49.6536 | 2025-11-09 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| a5c2f258-d173-30c7-8fef-d91844bacac7 | -4.4534 | -44.6447 | 2025-11-09 00:00:00 | GOES-19 | TRIZIDELA DO VALE | MARANHÃO | Brasil | 2112233 | 21 | 33 | nan | nan | nan | Cerrado | 80.1 |
+| 49a8967c-e08b-38ab-b7ee-58c96077d0bd | -2.9434 | -49.3655 | 2025-11-09 00:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 87.2 |
+| 371b069b-9248-3ca6-94c1-6664ada27de4 | -3.8222 | -51.143 | 2025-11-09 00:00:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 59.1 |
+| 635788fd-b7c4-39d0-b42f-d384fa7b9cfa | -2.6114 | -49.205 | 2025-11-09 00:00:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 1d0f4d45-ae16-33a1-9497-cb8eeeeabf2a | -4.4075 | -45.9327 | 2025-11-09 00:00:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 69.3 |
+| 17deb071-0214-3c61-a5b8-cdcad821aca3 | -7.8765 | -42.003 | 2025-11-09 00:00:00 | GOES-19 | SIMPLÍCIO MENDES | PIAUÍ | Brasil | 2210805 | 22 | 33 | nan | nan | nan | Caatinga | 74.4 |
+| 0d93e6bc-09b5-3beb-b13a-d47ff11c899d | -2.738 | -45.1525 | 2025-11-09 00:00:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 90.8 |
+| 13cb8fea-167c-3057-a641-bafff788ff95 | -10.344 | -49.6105 | 2025-11-09 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| 7b2fe36e-af50-39ce-a0cc-120280ad4bc6 | -3.337 | -44.3577 | 2025-11-09 00:10:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 127.6 |
+| 2c96fc31-92e7-3ce9-b2b0-78df478365ec | -3.3182 | -44.3814 | 2025-11-09 00:10:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 159.6 |
+| 0d77896b-73a9-3bbc-91e1-7ad8b35449e7 | -3.8223 | -51.1222 | 2025-11-09 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 85.5 |
+| e61f3544-4094-3c98-866f-d82986ee2443 | -2.7379 | -45.1751 | 2025-11-09 00:10:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 99.7 |
+| 6bfd5aa9-c5da-31f8-940f-c28407fb14e4 | -4.6464 | -46.3873 | 2025-11-09 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 77.9 |
+| 93e845cc-f0ca-3344-8b70-e5f9770598ff | -3.8407 | -51.1423 | 2025-11-09 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 71.3 |
+| f6855513-925d-3f49-bd60-9fa40b3fadab | -4.6278 | -46.3883 | 2025-11-09 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 70.1 |
+| c4602bef-f7bb-3f57-85ff-643c8048db4c | -3.8408 | -51.1215 | 2025-11-09 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 117.2 |
+| c089f195-7928-380a-ad73-2ab4f2d25800 | -2.7365 | -45.5124 | 2025-11-09 00:10:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 23.2 |
+| 2c69b28d-c5ae-3980-9525-fdcaf2a09daf | -5.2908 | -44.9572 | 2025-11-09 00:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 83.5 |
+| 95a64e53-129b-30d0-920b-92a2c364d93e | -4.6463 | -46.4095 | 2025-11-09 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 64.2 |
+| dc81fccf-e71e-3fc9-9713-219735db6e56 | -3.8222 | -51.143 | 2025-11-09 00:10:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| 169701b2-5355-312a-aee4-13901960702a | -3.3183 | -44.3585 | 2025-11-09 00:10:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 69.5 |
+| fcb0bddc-250f-348a-bc05-9d37e3d5ba78 | -2.5929 | -49.2268 | 2025-11-09 00:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 100.0 |
+| 8f070ed5-6db2-3a30-b5f2-6f23181c7dff | -4.4074 | -45.955 | 2025-11-09 00:10:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 97.7 |
+| 6ff0f4f7-5455-3db7-a9e6-f981826bbc53 | -3.3555 | -44.3798 | 2025-11-09 00:10:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 90.1 |
+| 578dffde-bac1-3076-89e3-5481532a5691 | -3.5946 | -41.6577 | 2025-11-09 00:10:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 62.8 |
+| b82718bb-9e31-3205-a7c6-6c54043fc55d | -2.9435 | -49.3443 | 2025-11-09 00:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 70.7 |
+| 893c8f02-c525-339c-ba74-1ce150086f19 | -2.6113 | -49.2263 | 2025-11-09 00:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 118.6 |
+| 82b99248-295b-3580-8a93-6127d351e5b9 | -10.3437 | -49.6321 | 2025-11-09 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 53.9 |
+| 2d02f129-0143-3fdb-81f3-7e314aebad45 | -4.6277 | -46.4105 | 2025-11-09 00:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 58.6 |
+| e354ef8f-e3ea-376b-9c44-3c8ee8b92e22 | -2.738 | -45.1525 | 2025-11-09 00:10:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 90.5 |
+| 8ef58a81-4abf-359e-8819-2a53acad7a6e | -2.6114 | -49.205 | 2025-11-09 00:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 52.9 |
+| df888675-36e5-3a04-8273-3721b5654380 | -7.4096 | -40.0563 | 2025-11-09 00:10:00 | GOES-19 | BODOCÓ | PERNAMBUCO | Brasil | 2602001 | 26 | 33 | nan | nan | nan | Caatinga | 59.5 |
+| 742696b4-f40e-3978-8d32-cf879c69ba8b | -2.7366 | -45.49 | 2025-11-09 00:10:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 26.4 |
+| ba2b5072-776e-3b1a-b4a0-fbf621d79de4 | -4.3887 | -45.956 | 2025-11-09 00:10:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 53.4 |
+| 807f66b7-ca56-3ae2-b7c5-a7f9489b1c92 | -4.4534 | -44.6447 | 2025-11-09 00:10:00 | GOES-19 | TRIZIDELA DO VALE | MARANHÃO | Brasil | 2112233 | 21 | 33 | nan | nan | nan | Cerrado | 79.0 |
+| 9fb569eb-aef7-37cc-88f7-c9af6d2ac9bd | -5.291 | -44.9345 | 2025-11-09 00:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 62.3 |
+| cb2c78bb-6e9c-34a4-9b1c-3eadbab1197b | -2.9434 | -49.3655 | 2025-11-09 00:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 88.6 |
+| aa1dc796-04da-3d8b-867f-2e0edf2a5822 | -3.8679 | -49.3757 | 2025-11-09 00:10:00 | GOES-19 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| 002b120b-ddd3-3acd-aa68-01edfb1bcea8 | -3.3369 | -44.3806 | 2025-11-09 00:10:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 335.3 |
+| 5bcb5d7e-9136-3998-923d-7ed9470957ae | -3.1063 | -50.2055 | 2025-11-09 00:10:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 53.5 |
+| 3c728f04-aee8-3ec1-bce7-8a55ef2614d2 | -2.7379 | -45.1751 | 2025-11-09 00:20:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 94.5 |
+| 0aef4cdf-dbd7-325f-b9a7-93758960f816 | -4.4534 | -44.6447 | 2025-11-09 00:20:00 | GOES-19 | TRIZIDELA DO VALE | MARANHÃO | Brasil | 2112233 | 21 | 33 | nan | nan | nan | Cerrado | 83.6 |
+| 90c551a5-9d61-343c-9deb-1e84b8363945 | -3.8679 | -49.3757 | 2025-11-09 00:20:00 | GOES-19 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| cd5eacf4-fec4-38d5-8f88-e6691d33abbe | -2.7565 | -45.1744 | 2025-11-09 00:20:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 38.0 |
+| c6038a0a-b31a-31c5-9525-31e06127d3ea | -2.6113 | -49.2263 | 2025-11-09 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 103.1 |
+| 0b5e535d-a69e-30fc-8fdd-ff68e017fc13 | -10.3437 | -49.6321 | 2025-11-09 00:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 59.2 |
+| de4d8386-d1b8-31cd-ae11-a2d68a327195 | -4.6278 | -46.3883 | 2025-11-09 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 69.6 |
+| 413deef9-51cd-3abf-a53d-f4f7a6651c1d | -3.3555 | -44.3798 | 2025-11-09 00:20:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 52.2 |
+| 845cba0f-665f-3f5e-805b-6dedc92f25e4 | -2.7566 | -45.1519 | 2025-11-09 00:20:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 36.6 |
+| 446de7f6-4413-37ec-a37a-44cc436aaa4e | -3.337 | -44.3577 | 2025-11-09 00:20:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 111.6 |
+| d2999a4e-b784-3188-904c-93c72bb7e605 | -3.8223 | -51.1222 | 2025-11-09 00:20:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 66.4 |
+| 477f3b9b-ade1-3d80-9624-33a993289622 | -3.3369 | -44.3806 | 2025-11-09 00:20:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 261.5 |
+| b6bba02d-e905-3f77-8067-912e6fcd6dae | -2.9435 | -49.3443 | 2025-11-09 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 63.3 |
+| d4f538fa-c97b-3d1a-a9a9-ae423ca4f318 | -3.1063 | -50.2055 | 2025-11-09 00:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 54.3 |
+| be5e9083-534c-306a-8218-c5a32536a96c | -2.9434 | -49.3655 | 2025-11-09 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 84.0 |
+| 45f110ce-b438-3247-8a56-da353769f742 | -3.3182 | -44.3814 | 2025-11-09 00:20:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 96.5 |
+| 478e246a-74be-3801-bbe5-2dfae1fd834a | -4.6464 | -46.3873 | 2025-11-09 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 55.8 |
+| 9a87e402-1a4b-34bc-903e-86ae9feac8e9 | -2.5929 | -49.2268 | 2025-11-09 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 80.2 |
+| 4fed0df8-7266-33fc-b70c-c5bcf4a0493b | -4.4074 | -45.955 | 2025-11-09 00:20:00 | GOES-19 | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 79.0 |
+| e78e6145-3cfb-32cd-bb0a-2314a11e1857 | -3.3183 | -44.3585 | 2025-11-09 00:20:00 | GOES-19 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 47.4 |
+| 999710b3-9002-3774-a746-780bd2b79376 | -5.291 | -44.9345 | 2025-11-09 00:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 55.7 |
+| b17b1794-4d22-3ce6-8747-e35ef26a7280 | -2.738 | -45.1525 | 2025-11-09 00:20:00 | GOES-19 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 95.3 |
+| c369fc24-7dc2-30fa-bc87-1801027cbbd4 | -3.5946 | -41.6577 | 2025-11-09 00:20:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 58.4 |
+| e25952ac-8fda-31f6-8608-c4e7103e1b33 | -3.8407 | -51.1423 | 2025-11-09 00:20:00 | GOES-19 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 56.5 |
+| a37e14f8-d736-312f-9e2e-1bf894b18db1 | -5.2908 | -44.9572 | 2025-11-09 00:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 79.3 |
+| f22867a2-3f9a-3878-b778-c50a709f880f | -4.6277 | -46.4105 | 2025-11-09 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 56.8 |
+| 6698c92b-80f1-37d9-825f-eabcf5df5ae5 | -7.4096 | -40.0563 | 2025-11-09 00:20:00 | GOES-19 | BODOCÓ | PERNAMBUCO | Brasil | 2602001 | 26 | 33 | nan | nan | nan | Caatinga | 45.2 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
