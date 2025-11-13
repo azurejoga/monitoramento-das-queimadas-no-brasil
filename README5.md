@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 9049c053-291b-33a1-a494-0945d840a930 | -4.0977 | -47.9927 | 2025-11-12 01:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 59.2 |
-| 85d2813d-74b2-3421-82c3-b69008e4ad6f | -4.116 | -48.0352 | 2025-11-12 01:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 71.8 |
-| 67a80eb5-69c3-3e01-96f5-26c2edbc62d9 | -4.0974 | -48.0361 | 2025-11-12 01:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 107.5 |
-| 245abf9f-4bad-3edd-bc26-0461b672ff4a | -9.8389 | -36.0331 | 2025-11-12 01:30:00 | GOES-19 | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 81.0 |
-| e33a5555-5248-3779-b24d-f7c925697723 | -4.1162 | -47.9919 | 2025-11-12 01:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 69.5 |
-| 3492d4ce-5758-366b-847d-e0c656e60aee | -4.0976 | -48.0144 | 2025-11-12 01:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 260.6 |
-| 40de9801-09d5-316e-9bd3-29f1fd6d2b83 | -4.1161 | -48.0136 | 2025-11-12 01:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 209.1 |
-| 999ba13a-6bc4-3b72-a97c-be52166b34b9 | -4.0974 | -48.0361 | 2025-11-12 01:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
-| 7e76dded-10cd-354c-b5a7-e094f0b9280e | -4.1162 | -47.9919 | 2025-11-12 01:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 49.8 |
-| 6d9e3c41-0575-3f66-b0f6-97757e156d1d | -4.9643 | -43.7182 | 2025-11-12 01:40:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 35.9 |
-| 0a9d9a4d-9308-3272-9b02-877762ae7b42 | -4.0976 | -48.0144 | 2025-11-12 01:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 156.7 |
-| 97831dd6-b5ad-301f-a067-999515be6ec9 | -19.7223 | -58.0491 | 2025-11-12 01:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 57.3 |
-| 6f7ce955-dab7-3d35-92df-1632ecf61e77 | -4.116 | -48.0352 | 2025-11-12 01:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 45.1 |
-| 11182f2f-25bc-31e0-9fe3-58a9936db341 | -4.9643 | -43.7182 | 2025-11-12 01:50:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 30.5 |
-| 187ce35e-8733-3642-b0c0-a22e0d5444d8 | -4.9456 | -43.7194 | 2025-11-12 01:50:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 41.0 |
-| d87c917c-c353-3a63-a7ac-2e7cf8aa3907 | -4.0976 | -48.0144 | 2025-11-12 01:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 295.7 |
-| 287d8fe5-15ff-3907-9e58-8d319eca09f1 | -4.0977 | -47.9927 | 2025-11-12 01:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 51.4 |
-| 00890ddf-4251-376a-9430-483a3f816fdc | -4.116 | -48.0352 | 2025-11-12 01:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 46.8 |
-| 1bc4d3ba-f6a2-37b2-a31d-aac6f6146b1c | -4.1162 | -47.9919 | 2025-11-12 01:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 68.1 |
-| fe7d9d31-042d-363b-aa38-7eec5ac53109 | -4.0974 | -48.0361 | 2025-11-12 01:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 82.0 |
-| d0dcb9d5-7daf-392d-849b-285f3ca776cf | -4.1161 | -48.0136 | 2025-11-12 01:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 222.0 |
-| 291ea70e-005c-3efa-904d-3d8d5c2770ad | -4.9643 | -43.7182 | 2025-11-12 02:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 125.6 |
-| 23a5df85-a000-344d-a987-65406e20e8b5 | -4.9456 | -43.7194 | 2025-11-12 02:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 86.0 |
-| 5093f1ec-7e17-385e-81fe-2bf4b497e63b | -4.116 | -48.0352 | 2025-11-12 02:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 43.9 |
-| 56a10dcb-5753-3494-9720-eaeae02e3319 | -4.9641 | -43.7413 | 2025-11-12 02:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 51.3 |
-| 7b1dfa1a-7a5e-3c86-ab91-03bd2e635a24 | -4.1162 | -47.9919 | 2025-11-12 02:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 54.2 |
-| bb7f5516-2d1d-3c8b-af2e-f1c2d00a2de0 | -6.5631 | -51.1126 | 2025-11-12 02:00:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 20f1ce8a-b05c-3dd6-b701-f1ce480f8a92 | -4.1161 | -48.0136 | 2025-11-12 02:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 218.8 |
-| 47e193a9-c722-3deb-a328-090626fea276 | -4.0976 | -48.0144 | 2025-11-12 02:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 280.4 |
-| 4eed2574-6bf2-3185-9d0e-5fc5285f9101 | -4.0974 | -48.0361 | 2025-11-12 02:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 81.9 |
-| 8ad72016-3a2b-3df1-98d1-7a978aed97a5 | -4.0974 | -48.0361 | 2025-11-12 02:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 84.6 |
-| ca518a16-60c5-3185-8005-2d15c4883f2d | -2.6299 | -49.2045 | 2025-11-12 02:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 26.6 |
-| 0f75ff02-821a-30ef-8c49-63d087d39485 | -19.8235 | -57.9943 | 2025-11-12 02:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 87.5 |
-| 090fedcf-a9c6-33b4-af86-8f07f0b07ef0 | -4.9641 | -43.7413 | 2025-11-12 02:10:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 59.2 |
-| 458938f1-df1b-3d45-b5bd-9e52323159f9 | -4.116 | -48.0352 | 2025-11-12 02:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 50.5 |
-| 94e05e45-3fec-3238-8c88-a37070ef240c | -19.7837 | -57.9788 | 2025-11-12 02:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 80.0 |
-| 846fcf16-b4ca-3a77-b607-f86260b49b61 | -4.9456 | -43.7194 | 2025-11-12 02:10:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| 60c7ae86-323c-3f88-954c-4a8c0b4ff46e | -4.1161 | -48.0136 | 2025-11-12 02:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 174.7 |
-| 5ce5d519-dc34-3e2d-afd0-d6d5ca4d22cd | -4.0977 | -47.9927 | 2025-11-12 02:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 49.2 |
-| 14f7ac9f-506a-37c2-98e0-10666c1d843e | -4.9643 | -43.7182 | 2025-11-12 02:10:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 120.9 |
-| 756f92fb-2853-33d7-a18c-e7fbc928e999 | -4.0976 | -48.0144 | 2025-11-12 02:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 274.5 |
-| a3186d0d-044a-38c1-a5c6-c05a4f9e8071 | -4.0974 | -48.0361 | 2025-11-12 02:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 64.5 |
-| 62d1c18e-44d5-3091-b938-9f73ce299bfb | -4.1161 | -48.0136 | 2025-11-12 02:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 191.9 |
-| c31a5735-73cc-3c9d-a3f8-7ddc4a4fd712 | -4.116 | -48.0352 | 2025-11-12 02:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| efdd885f-e4ea-343f-92b9-ff507f2f29b5 | -4.1162 | -47.9919 | 2025-11-12 02:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 62.8 |
-| db6f9611-3f17-3cd5-89f2-4f4535109f63 | -4.0976 | -48.0144 | 2025-11-12 02:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 197.5 |
-| 41de33d7-38a3-3e3c-b1b2-dffc56819b9f | -4.9643 | -43.7182 | 2025-11-12 02:20:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 102.4 |
-| 392822c5-3cc8-389a-88d3-205c7a54c059 | -4.9641 | -43.7413 | 2025-11-12 02:20:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 60.6 |
-| 7999df67-561c-3859-af3c-b8d18fbcf9bf | -4.9456 | -43.7194 | 2025-11-12 02:20:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 57.1 |
-| 612b17fa-0f91-36e1-8a50-8f15a4e10c99 | -2.6484 | -49.204 | 2025-11-12 02:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 34.1 |
-| 6a2b64c9-a1d6-383e-9d5b-0c546180f13e | -4.1161 | -48.0136 | 2025-11-12 02:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 183.5 |
-| b11b40db-fa1c-366b-80e6-6b5f1fffcd62 | -4.0974 | -48.0361 | 2025-11-12 02:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 82.9 |
-| d8040377-c961-31ab-ae92-d2228f760369 | -2.6484 | -49.204 | 2025-11-12 02:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 30.8 |
-| 0eb38ccf-bd7a-3196-b8db-d9708b3f8f2a | -4.116 | -48.0352 | 2025-11-12 02:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 75.9 |
-| be811680-23f9-397a-8c70-49f7a9aa77a7 | -19.8235 | -57.9943 | 2025-11-12 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 52.8 |
-| 8e43e4df-562c-3e23-bbdb-79f3af76e5ba | -4.1162 | -47.9919 | 2025-11-12 02:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 50.1 |
-| 7f648976-2151-3ab3-821c-5320a366ea05 | -4.9456 | -43.7194 | 2025-11-12 02:30:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 53.4 |
-| 01e76145-16f4-3212-a2c5-5a1bab5973bc | -4.9643 | -43.7182 | 2025-11-12 02:30:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 119.6 |
-| d9deed16-09ab-3d9d-b3c8-d542109799d3 | -4.0976 | -48.0144 | 2025-11-12 02:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 157.4 |
-| 9c755e20-0025-38d0-ac3a-d75fdc183a3e | -4.9641 | -43.7413 | 2025-11-12 02:30:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 81.7 |
-| baa49c7c-d7a7-390b-be1f-56bba24a001a | -19.7837 | -57.9788 | 2025-11-12 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 49.4 |
-| 9b8182d7-8db7-327f-942e-c689c7cadc62 | -19.7837 | -57.9788 | 2025-11-12 02:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 47.0 |
-| 26beb851-c306-3ddd-9324-a2a4a688ace8 | -4.9456 | -43.7194 | 2025-11-12 02:40:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 79.0 |
-| b37c1272-cb6c-3091-9e66-bfe5e9f8b293 | -19.7223 | -58.0491 | 2025-11-12 02:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.4 |
-| 1341cc1d-2437-3052-af96-246710f43ffb | -4.0974 | -48.0361 | 2025-11-12 02:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 89.5 |
-| 2b7d7347-6bdb-3706-94b7-91f479a4751f | -4.0976 | -48.0144 | 2025-11-12 02:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 215.0 |
-| 5bbc532a-d102-37bf-abe1-9d956ab32e3a | -4.9454 | -43.7425 | 2025-11-12 02:40:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 45.0 |
-| f14cdb02-0d5e-3a17-9290-394ce6e7618a | -4.9641 | -43.7413 | 2025-11-12 02:40:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 58.1 |
-| e5ad77f1-39db-3268-9e3f-b4c0dca11b84 | -4.9643 | -43.7182 | 2025-11-12 02:40:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 102.3 |
-| 64b0070a-4524-3f90-899a-626908e1e10e | -4.1161 | -48.0136 | 2025-11-12 02:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 139.3 |
-| 175d55a9-cbfa-3f83-8d9e-13da0dcee240 | -4.116 | -48.0352 | 2025-11-12 02:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 46.5 |
-| 182373f0-4c14-3d07-b0dd-28ff628f5476 | -4.0976 | -48.0144 | 2025-11-12 02:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 164.3 |
-| d82e5f7c-14c7-3492-8b18-725a30e55b0e | -19.7837 | -57.9788 | 2025-11-12 02:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 53.3 |
-| a586ff31-dec8-337f-9de5-d20cdfe77f0f | -4.1161 | -48.0136 | 2025-11-12 02:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 164.5 |
-| 5f41d02c-4145-33ac-9399-be02fd1a8fa4 | -4.0974 | -48.0361 | 2025-11-12 02:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| db1a1f4f-bd4d-3ff7-9f49-7d81b47b1599 | -9.6487 | -40.3364 | 2025-11-12 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 83.4 |
-| 334dd372-8ce1-34bd-a489-5a22a04426f0 | -19.8235 | -57.9943 | 2025-11-12 02:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 51.5 |
-| bca13c2d-c94e-374b-9d6a-ee3de4ba9a84 | -4.9641 | -43.7413 | 2025-11-12 02:50:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 67.8 |
-| c6565b23-971d-3129-b0dc-23540b471706 | -4.116 | -48.0352 | 2025-11-12 02:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 50.0 |
-| 8bcc1f05-3e24-38fa-b6db-7cc446410b1e | -4.9456 | -43.7194 | 2025-11-12 02:50:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 45.9 |
-| 51554d03-aff5-3f1a-9dae-2fba84652640 | -4.9643 | -43.7182 | 2025-11-12 02:50:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 113.0 |
-| f9661f7f-b365-31c0-a896-d39251390413 | -7.4192 | -35.28025 | 2025-11-12 02:51:00 | NOAA-21 | CAMUTANGA | PERNAMBUCO | Brasil | 2603603 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| bb404cb1-2175-34cc-8adc-4697d21e8e61 | -9.84132 | -36.03318 | 2025-11-12 02:51:00 | NOAA-21 | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 8393bd0c-4780-38dc-be11-593c67e8038b | -7.37706 | -34.90002 | 2025-11-12 02:51:00 | NOAA-21 | ALHANDRA | PARAÍBA | Brasil | 2500601 | 25 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
-| c1bad9ff-c67a-3da3-8816-fb521797c69d | -7.42016 | -35.27517 | 2025-11-12 02:51:00 | NOAA-21 | CAMUTANGA | PERNAMBUCO | Brasil | 2603603 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
-| e368209f-54e6-3542-8fb0-9da7746479e8 | -4.116 | -48.0352 | 2025-11-12 03:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 47.4 |
-| abef693e-9f66-3dc9-b685-e28c7c17c709 | -19.7837 | -57.9788 | 2025-11-12 03:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 74.0 |
-| 00959a1d-b2ec-39de-a4ef-675a8eddf3e6 | -4.9454 | -43.7425 | 2025-11-12 03:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 44.0 |
-| 0ed40312-4384-3ac9-b19b-17261290c9db | -4.0976 | -48.0144 | 2025-11-12 03:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 159.7 |
-| ca6e7e5b-fa7f-3e08-9f5b-9c4d59540f73 | -4.9641 | -43.7413 | 2025-11-12 03:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| 072242b9-af9b-35d4-8cc2-61d4f0cca792 | -4.0974 | -48.0361 | 2025-11-12 03:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| f2706a83-c06a-3643-8ef0-79392ccdfc55 | -19.8038 | -57.9762 | 2025-11-12 03:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.2 |
-| 2f64410a-cdff-3ce3-b572-0739165d7c10 | -4.9643 | -43.7182 | 2025-11-12 03:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 80.8 |
-| 111cddc2-fee8-3fb5-bec8-a14f25fcd640 | -4.9456 | -43.7194 | 2025-11-12 03:00:00 | GOES-19 | SÃO JOÃO DO SOTER | MARANHÃO | Brasil | 2111078 | 21 | 33 | nan | nan | nan | Cerrado | 65.2 |
-| 73e1b5a7-85bc-3104-9705-028c7fea67da | -10.5076 | -44.944 | 2025-11-12 03:00:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 70.3 |
-| 76473903-5c8f-30af-b98a-ce38cb55f6cf | -19.8235 | -57.9943 | 2025-11-12 03:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 47.3 |
-| f4bb0567-2f4f-39b5-89f7-d5fb5ab57cba | -4.1161 | -48.0136 | 2025-11-12 03:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 129.0 |
-| ba4df283-0142-33bc-985f-9e1ede887d10 | -4.0976 | -48.0144 | 2025-11-12 03:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 166.5 |
-| 86cd7f5d-5bc7-38e5-a351-10c6b6861e8d | -19.7837 | -57.9788 | 2025-11-12 03:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.0 |
-| 07b18df5-56fa-347a-a815-a38a067aef7b | -4.0974 | -48.0361 | 2025-11-12 03:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 76.8 |
+| 5596ce15-4aa5-3be7-aff5-502d0d36d772 | -7.8138 | -41.775799 | 2025-11-13 00:14:00 | METOP-B | CAMPINAS DO PIAUÍ | PIAUÍ | Brasil | 2202109 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| a3bd5a8f-2333-3388-bfa8-4f3bfc2e3f81 | -3.7751 | -45.999802 | 2025-11-13 00:14:00 | METOP-B | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 92cff4b8-0554-39d8-880e-e07ee2033a69 | -6.1461 | -48.052799 | 2025-11-13 00:14:00 | METOP-B | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e7e5966d-49ed-3761-8e03-c87f7fb33f1a | -1.9391 | -52.0807 | 2025-11-13 00:14:00 | METOP-B | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 695da2b3-84e7-3313-8244-34b0b14dd59c | -3.4368 | -45.563 | 2025-11-13 00:14:00 | METOP-B | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 9796f43e-1bd9-34c2-b4f7-a2b462260c95 | -5.4523 | -47.680901 | 2025-11-13 00:14:00 | METOP-B | SÃO MIGUEL DO TOCANTINS | TOCANTINS | Brasil | 1720200 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 17feb43a-7cf3-3141-81e9-bc9fb68ffc85 | -11.7972 | -44.1926 | 2025-11-13 00:14:00 | METOP-B | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d1bc2081-3360-3ad1-ad88-3ecbbe33d0d7 | -13.7306 | -49.123699 | 2025-11-13 00:14:00 | METOP-B | SANTA TEREZA DE GOIÁS | GOIÁS | Brasil | 5219605 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 55446a0c-b6a9-3dc1-acd2-2f6620fd1a8c | -10.3682 | -45.045898 | 2025-11-13 00:14:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 7788f76e-27ba-3246-be96-76e695ed5a16 | -5.3264 | -45.187901 | 2025-11-13 00:14:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 03aa6fcc-66ea-3bcc-90cf-e0bea6eb950c | -3.1027 | -49.2603 | 2025-11-13 00:14:00 | METOP-B | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 54d24923-c9f2-3928-a60c-c89ebed91d81 | -10.9333 | -44.598801 | 2025-11-13 00:14:00 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| eae6c022-174a-3e31-92cb-f9e23327b8d5 | -10.9182 | -44.6217 | 2025-11-13 00:14:00 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 59b0c49c-93b9-3d7f-aa5f-6f0cac96c285 | -10.5511 | -44.815201 | 2025-11-13 00:14:00 | METOP-B | SEBASTIÃO BARROS | PIAUÍ | Brasil | 2210623 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 8667b23d-ea75-3d6f-984e-f421e860efee | -2.9473 | -45.5383 | 2025-11-13 00:14:00 | METOP-B | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 73470da5-50eb-3373-a27f-803d1129b403 | -3.4729 | -45.8517 | 2025-11-13 00:14:00 | METOP-B | GOVERNADOR NEWTON BELLO | MARANHÃO | Brasil | 2104651 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 51d75e46-3067-32a5-9ce2-633735969c54 | -13.3283 | -43.1702 | 2025-11-13 00:14:00 | METOP-B | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| b4f90f89-8dc7-3840-aa4e-dc332b511231 | -18.029301 | -51.026402 | 2025-11-13 00:14:00 | METOP-B | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| e7f0a2ad-8ac5-31d7-9ea8-33d3be7e7688 | -22.4736 | -44.182598 | 2025-11-13 00:14:00 | METOP-B | BARRA MANSA | RIO DE JANEIRO | Brasil | 3300407 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| cbedcfb2-42de-326e-ba1e-7eb4890700ac | -7.674 | -45.8769 | 2025-11-13 00:14:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| d8281928-2051-3ffb-a420-3612c2e38b1d | -8.4122 | -48.042999 | 2025-11-13 00:14:00 | METOP-B | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 990bbf3e-ea28-3799-9de4-fbd1d1a8bb42 | -10.4468 | -47.334599 | 2025-11-13 00:14:00 | METOP-B | LAGOA DO TOCANTINS | TOCANTINS | Brasil | 1711951 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ebe53a0c-b9f7-33db-ba66-5c1a3d20c624 | -6.3046 | -43.7938 | 2025-11-13 00:14:00 | METOP-B | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 1de17a06-6683-38c3-8de8-486729dfa6ff | -14.1698 | -43.57 | 2025-11-13 00:14:00 | METOP-B | MALHADA | BAHIA | Brasil | 2920205 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| ba525bed-326c-39a7-892b-b5d0c7043603 | -3.1548 | -45.5014 | 2025-11-13 00:14:00 | METOP-B | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| e2368c05-cc3f-3c50-8891-702d0675347b | -7.6623 | -45.8708 | 2025-11-13 00:14:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8099f564-cb3b-3dc9-9df1-701df36fdbc5 | -4.5178 | -46.402901 | 2025-11-13 00:14:00 | METOP-B | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| b83b8b13-4ae1-3467-9c8d-4371d1a809de | -3.0337 | -50.271702 | 2025-11-13 00:14:00 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7c569d94-34a8-3613-9ab4-cc432dbf91d4 | -11.0243 | -44.633999 | 2025-11-13 00:14:00 | METOP-B | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2c24c391-62a9-3bb5-a262-d43c39993926 | -3.2109 | -50.189201 | 2025-11-13 00:14:00 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 14150f08-a9d8-36e6-a8ee-07b8dbad3fd2 | -10.6283 | -45.228699 | 2025-11-13 00:14:00 | METOP-B | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| ef7f7f23-e01b-3e69-b89b-03e2a0852bbb | -5.3603 | -46.7467 | 2025-11-13 00:14:00 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8db2a969-02a0-32a6-b503-df8bf2cbd52a | -4.9292 | -44.289299 | 2025-11-13 00:14:00 | METOP-B | GOVERNADOR ARCHER | MARANHÃO | Brasil | 2104503 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| cce660d1-f9cb-3849-8b37-cfc402c16448 | -21.038099 | -48.510502 | 2025-11-13 00:14:00 | METOP-B | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b95c4dfc-16be-3abc-9b8b-dd41e18bf78a | -20.758801 | -47.118401 | 2025-11-13 00:14:00 | METOP-B | SÃO TOMÁS DE AQUINO | MINAS GERAIS | Brasil | 3165107 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| d0ae1592-4a88-32f7-965f-50ef960c4326 | -3.3423 | -48.368801 | 2025-11-13 00:14:00 | METOP-B | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 513f3a05-9a34-334e-aebb-63b603d38071 | -4.5667 | -48.493999 | 2025-11-13 00:14:00 | METOP-B | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b8753356-eab0-343d-bae8-9e533b0ffc5d | -10.685 | -44.987801 | 2025-11-13 00:14:00 | METOP-B | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 23d2f07d-cc3c-3eb3-871e-56e5c3b45253 | -14.1064 | -47.8862 | 2025-11-13 00:14:00 | METOP-B | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 0b39597c-353c-3010-b8c1-33639c2750fa | -3.7079 | -49.021599 | 2025-11-13 00:14:00 | METOP-B | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a6cef1c8-6072-3455-bd4a-757b0602d9a8 | -8.2538 | -44.358101 | 2025-11-13 00:14:00 | METOP-B | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| c45d25a5-cd2f-35d8-b449-bd8e08ee90aa | -6.1657 | -48.048302 | 2025-11-13 00:14:00 | METOP-B | ANANÁS | TOCANTINS | Brasil | 1701002 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| cc67dd8f-6e7a-32c4-89e8-8d9fed2666f0 | -4.5336 | -46.426498 | 2025-11-13 00:14:00 | METOP-B | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| e98da7ce-75f1-3f99-bdf6-49833c443897 | -3.871 | -49.783298 | 2025-11-13 00:14:00 | METOP-B | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 250509ca-4d5a-3e03-a97b-9aa0967a2adf | -2.738 | -45.479 | 2025-11-13 00:14:00 | METOP-B | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 5833b980-a58e-35eb-b819-880c8be9397b | -10.7507 | -44.916599 | 2025-11-13 00:14:00 | METOP-B | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 9fe6f22d-d862-3029-9ca5-d1f4f7431e33 | -22.6448 | -44.900101 | 2025-11-13 00:14:00 | METOP-B | SILVEIRAS | SÃO PAULO | Brasil | 3552007 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6ddb29eb-d1ce-3bca-8628-d0e599bd7a77 | -9.3451 | -46.583099 | 2025-11-13 00:14:00 | METOP-B | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3c24dae9-c3b1-3ed4-a18f-a576a734411e | -3.265 | -50.019299 | 2025-11-13 00:14:00 | METOP-B | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| db78456f-53e7-3ac5-9d13-4a3ff54702bd | -5.3818 | -46.750301 | 2025-11-13 00:14:00 | METOP-B | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| e8279003-9289-3366-a615-fe5b0fd88d72 | -6.6944 | -47.791 | 2025-11-13 00:14:00 | METOP-B | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 185d1c01-97f8-3535-a1a6-54f4efa1a438 | -3.4603 | -43.163799 | 2025-11-13 00:14:00 | METOP-B | ANAPURUS | MARANHÃO | Brasil | 2100808 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 9f43adb3-182c-3ea2-b0c0-bdf271f5f459 | -4.1453 | -47.645699 | 2025-11-13 00:14:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 42922b61-9043-309a-adc1-6016a2e18b1f | -10.2924 | -44.943501 | 2025-11-13 00:14:00 | METOP-B | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 5f836bc7-5983-3f92-bbf9-8b0f30572c70 | -2.4515 | -49.252201 | 2025-11-13 00:14:00 | METOP-B | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7a0a3185-5f05-307d-b0bc-78041483fccd | -3.0915 | -49.2972 | 2025-11-13 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 48.1 |
+| bd78d36f-5a56-3e7a-9326-43cd8f61cfd7 | -3.2378 | -45.5839 | 2025-11-13 00:20:00 | GOES-19 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 55.1 |
+| 6ab34502-ea28-3b06-bf3c-b8c090aa4b19 | -4.7018 | -46.4508 | 2025-11-13 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 89.8 |
+| c628a22e-e2a8-38c3-8e86-bab3292b398f | -2.4634 | -49.2727 | 2025-11-13 00:20:00 | GOES-19 | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| 08500234-b4e1-3e33-9f59-afc3d560e801 | -4.2157 | -50.0812 | 2025-11-13 00:20:00 | GOES-19 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 26.4 |
+| 1a58747c-9e96-3ae7-be46-1593349030fe | -4.7204 | -46.4497 | 2025-11-13 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 143.1 |
+| df4cfaa4-783d-3c6a-a71a-1ede2e183fa4 | -2.4635 | -49.2514 | 2025-11-13 00:20:00 | GOES-19 | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| 00716b61-03d4-32ab-83a3-2601a2279b3e | -3.8658 | -49.7998 | 2025-11-13 00:20:00 | GOES-19 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 82.0 |
+| 64b3c0eb-276d-3d60-ae4c-3f39f0fc3f23 | -4.3188 | -48.2422 | 2025-11-13 00:20:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| c5306bb9-e77c-300f-ad71-426fcba446d2 | -4.2156 | -50.1022 | 2025-11-13 00:20:00 | GOES-19 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 31.5 |
+| e43f34cf-7c57-39bd-bd9b-6b292d7e8249 | -3.3729 | -48.4107 | 2025-11-13 00:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 40.1 |
+| 075df781-aa86-3e20-a081-3a7aea8ac562 | -3.2192 | -45.5846 | 2025-11-13 00:20:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 47.4 |
+| 07b8e147-d36d-3414-bdb8-979da99e6729 | -3.0731 | -49.2765 | 2025-11-13 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 50.5 |
+| 3ec8fcb6-2ef0-3d1a-a4cc-e7caf8de75ea | -3.0917 | -49.2547 | 2025-11-13 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 54.6 |
+| 9163ccbd-ee53-3b30-8753-fcfd2883ab99 | -4.3003 | -48.2431 | 2025-11-13 00:20:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
+| 7dd11099-5caa-300b-a55f-108fd23fb31a | -3.0916 | -49.2759 | 2025-11-13 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 162.4 |
+| 042607fd-04d8-3c41-9f48-5642a00cb229 | -4.5344 | -46.4376 | 2025-11-13 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 96.4 |
+| 1f7f35b6-57ef-3bc6-bdd3-7ccf1686308d | -4.1161 | -48.0136 | 2025-11-13 00:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 39.9 |
+| c317e2b7-5c62-3b09-8c3e-b324a3947ffc | -20.4693 | -53.0457 | 2025-11-13 00:20:00 | GOES-19 | RIBAS DO RIO PARDO | MATO GROSSO DO SUL | Brasil | 5007109 | 50 | 33 | nan | nan | nan | Cerrado | 84.4 |
+| 845312f5-4a2b-3710-ad7f-ff2ff5cb66bf | -3.1453 | -45.4978 | 2025-11-13 00:20:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| 481a9e40-858c-3a04-9d24-a5a39ca389ce | -2.8297 | -45.4419 | 2025-11-13 00:20:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 52.1 |
+| 6e2c8cbb-459f-3ac0-a9de-30ec195c8765 | -3.1101 | -49.2753 | 2025-11-13 00:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| 46270392-b8a6-351c-9ec9-8336b4ccb8ff | -5.3885 | -46.7645 | 2025-11-13 00:20:00 | GOES-19 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 62.1 |
+| 215baae6-c4f5-3082-81c3-6acfb2137411 | -4.7206 | -46.4276 | 2025-11-13 00:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 79.5 |
+| 01cb7f6a-a123-3df9-aaa6-c93013cb5059 | -2.8111 | -45.4426 | 2025-11-13 00:20:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 49.8 |
+| 8db9978d-1534-3c8d-ab17-9c7e56312df1 | -3.7745 | -46.0305 | 2025-11-13 00:20:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 89.0 |
+| 03747eb9-5b08-3ebb-97e5-7752cd0f003f | -3.7746 | -46.0082 | 2025-11-13 00:20:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 131.6 |
+| e599de2a-5499-3a69-855c-9d85dedb3f1b | -3.7932 | -46.0074 | 2025-11-13 00:20:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 63.8 |
+| 57b9bbb8-0045-36f9-b49e-0b21f209880e | -4.7206 | -46.4276 | 2025-11-13 00:30:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 77.9 |
+| fcafa4ff-5e68-38cb-8622-c99b752afedf | -3.2192 | -45.5846 | 2025-11-13 00:30:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 43.1 |
+| 5a53de7e-f54c-31b5-b09f-68320621a0ed | -3.0917 | -49.2547 | 2025-11-13 00:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 53.9 |
+| 0c4366e5-d5ec-3eec-9393-7937b822c5a7 | -3.8658 | -49.7998 | 2025-11-13 00:30:00 | GOES-19 | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | 80.4 |
+| 0956903f-d84e-3727-9ae7-2324107d12d3 | -4.5344 | -46.4376 | 2025-11-13 00:30:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 83.9 |
+| 32368416-9ef0-3493-97bd-841ab61ab589 | -2.8297 | -45.4419 | 2025-11-13 00:30:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 82.5 |
+| d53f738b-f840-3e96-80db-06bee02dadb6 | -3.1639 | -45.497 | 2025-11-13 00:30:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 39.4 |
+| 53810dea-42a0-3344-85db-c074f66eb484 | -7.66 | -45.8764 | 2025-11-13 00:30:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 60.3 |
+| 148eb396-5497-3bd1-96fd-874a0f2658b2 | -4.7204 | -46.4497 | 2025-11-13 00:30:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 157.7 |
+| 1a0aa5f2-03d3-3ba0-8567-459e7d493f3a | -3.0916 | -49.2759 | 2025-11-13 00:30:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 160.0 |
+| c73c8034-e003-3f71-b2a5-527078609f4a | -2.4634 | -49.2727 | 2025-11-13 00:30:00 | GOES-19 | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 47.0 |
+| 81656bbf-d3c0-3b6f-889c-078c5992beaa | -4.0976 | -48.0144 | 2025-11-13 00:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 40.4 |
+| e0f0bbe3-5dec-38ba-bbe5-f90d62fdd648 | -4.7018 | -46.4508 | 2025-11-13 00:30:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 90.3 |
+| af4da727-3c01-3668-b0cc-88367b582c10 | -4.2056 | -48.5706 | 2025-11-13 00:30:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 43.0 |
+| 784549a6-03f1-3f97-9b49-c029186ee884 | -5.968 | -35.3397 | 2025-11-13 00:30:00 | GOES-19 | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | 64.7 |
+| e7741976-ccb0-3136-b0b1-29551c8e746c | -5.949 | -35.3418 | 2025-11-13 00:30:00 | GOES-19 | MACAÍBA | RIO GRANDE DO NORTE | Brasil | 2407104 | 24 | 33 | nan | nan | nan | Caatinga | 88.8 |
+| 2b439ee0-4114-3f76-9b60-6d365453b57d | -2.4449 | -49.2731 | 2025-11-13 00:30:00 | GOES-19 | MOCAJUBA | PARÁ | Brasil | 1504604 | 15 | 33 | nan | nan | nan | Amazônia | 46.7 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
