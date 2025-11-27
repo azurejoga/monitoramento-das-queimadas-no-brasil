@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 72c35f52-6b11-374f-b246-eb0b4b8bb597 | -3.51425 | -43.68925 | 2025-11-26 00:13:00 | TERRA_M-M | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 43b2dc53-aac7-3770-a889-4fbab0813f29 | -3.51 | -43.69621 | 2025-11-26 00:13:00 | TERRA_M-M | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| e0b3d26a-731a-3a28-8fee-8ab7e1cccd81 | -1.51121 | -46.75782 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| d4a46502-427c-3c67-9ba0-b856112178f9 | -1.67141 | -46.24249 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| e1c6d1cd-3836-3924-88d6-6923bf748c43 | -1.51243 | -46.76661 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 12.9 |
-| 1cbb1eaa-f981-38c2-abbc-ab6490336144 | -1.21691 | -46.88874 | 2025-11-26 00:15:00 | TERRA_M-M | BRAGANÇA | PARÁ | Brasil | 1501709 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| c2b65d44-a66f-38ef-a163-3509d2e46a47 | -2.78422 | -52.94841 | 2025-11-26 00:15:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 15.0 |
-| ee732ccd-152c-3519-a7e0-e05873bfb8fd | -1.28141 | -46.3636 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 9e3022e4-532d-3675-a4d8-bb7aedd1305d | -2.41205 | -49.35138 | 2025-11-26 00:15:00 | TERRA_M-M | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 7c26b0a8-8411-3d3e-93b6-af7f3704c654 | -1.45854 | -46.70244 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 4df5a8b7-3d5c-30e1-9874-4fcd72855648 | -2.78709 | -52.96996 | 2025-11-26 00:15:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 18.4 |
-| eb9b651e-a649-3dee-b00f-600826b45efe | -1.45733 | -46.69365 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 3f563888-0ca6-34a9-bd25-53012b281b4f | -1.67019 | -46.23371 | 2025-11-26 00:15:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| 61958948-85db-3c36-b533-7d6666ce62f8 | 1.32413 | -50.85526 | 2025-11-26 00:17:00 | TERRA_M-M | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 53915b89-47ce-36bf-9463-6064035e2e0e | -3.47071 | -43.42828 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| fc29c5bd-1841-37c0-9165-940ebdd0d183 | -4.17472 | -43.7244 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| cbf299d3-9ddc-3c60-822e-aa0150d525e6 | -4.56899 | -43.80013 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| e516c135-b7e5-3074-83cd-691f9f32929d | -5.24824 | -37.40954 | 2025-11-26 03:27:00 | NOAA-21 | MOSSORÓ | RIO GRANDE DO NORTE | Brasil | 2408003 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| c1699a27-b06f-38bd-a6e3-62a873099580 | -4.25354 | -45.13467 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 37d288df-1cce-3b52-aaa1-4a6a68f1fa78 | -4.61885 | -41.06251 | 2025-11-26 03:27:00 | NOAA-21 | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| e11df7e3-cb09-3ff7-9dd5-cec13a76e870 | -4.70767 | -43.9974 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 86bd01ae-58c9-37ce-b986-ea5230605787 | -4.1698 | -43.71381 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 025478f7-52e3-3908-8099-2e6935a1745c | -3.47626 | -43.43466 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| cdb9aa2d-7464-37bf-8c91-3c5a809ed239 | -5.96541 | -35.19021 | 2025-11-26 03:27:00 | NOAA-21 | NÍSIA FLORESTA | RIO GRANDE DO NORTE | Brasil | 2408201 | 24 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 506e9b2b-2ad8-3d51-a619-c6c96f43dfe6 | -4.23659 | -40.39004 | 2025-11-26 03:27:00 | NOAA-21 | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 184fd0ed-20af-3499-8910-0df6eceb935c | -5.60751 | -35.63381 | 2025-11-26 03:27:00 | NOAA-21 | TAIPU | RIO GRANDE DO NORTE | Brasil | 2413904 | 24 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| ed472954-31db-32e7-ba8c-53a64a0e387d | -4.17373 | -43.72989 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| ee2362f5-2a9d-3d7e-8206-d2c95184724a | -4.18022 | -43.73101 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 976ac255-b8c3-383e-935a-6c3c9505edc8 | -3.67278 | -43.57432 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 68653ead-7194-3975-82d3-59e65811c8dd | -4.16886 | -43.71919 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 645c3eae-6638-3245-b268-12c18da50c64 | -4.17631 | -43.71479 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 13c72ba2-b16d-39f3-a82e-95ca355bcd3a | -4.16522 | -43.73999 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 9839a3c8-509a-395b-b047-ca4d345b89e8 | -4.60252 | -44.41293 | 2025-11-26 03:27:00 | NOAA-21 | LIMA CAMPOS | MARANHÃO | Brasil | 2106003 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 250aadd1-e492-3a19-9c03-6af2c365939a | -4.26889 | -45.13003 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| d53aaf90-104f-3f92-8486-4775fcad36ca | -4.27013 | -45.12322 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 084e6a6f-6dde-37b3-a210-1f35560fbd10 | -3.47716 | -43.42936 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| d39189c6-cd01-35c6-85c9-2c28ed5ae25c | -4.17015 | -43.71263 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 7ddb9398-008a-32fe-a294-15958f356cf9 | -4.55579 | -43.30186 | 2025-11-26 03:27:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| c8feb39d-4822-3fb1-ac3f-3a9f420e2a19 | -5.17596 | -35.70664 | 2025-11-26 03:27:00 | NOAA-21 | SÃO MIGUEL DO GOSTOSO | RIO GRANDE DO NORTE | Brasil | 2412559 | 24 | 33 | nan | nan | nan | Caatinga | 5.2 |
-| 361de3fa-0171-3152-8d81-ae42d6b3fc52 | -4.66511 | -43.97694 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| d83ea1a4-9f39-3984-8c35-1b80da2cc39f | -4.16721 | -43.72894 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| 142dc171-d73e-37b7-ba94-f6a2ef9177e3 | -4.18092 | -43.7268 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 3d48b64f-01b7-3eaa-8d89-29c24ec3389f | -4.25784 | -45.12427 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 0c530502-78f6-3dd4-a984-10efdae10fb2 | -4.14782 | -43.64857 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| b90a08b9-f5ac-3465-868a-1196b58fd14e | -4.17537 | -43.72018 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| d0d0e90b-cf94-368e-bc89-c8e313655b90 | -3.67446 | -43.56545 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| a3bdfc6f-ffac-3d60-a105-460f90275b44 | -5.9648 | -35.19069 | 2025-11-26 03:27:00 | NOAA-21 | NÍSIA FLORESTA | RIO GRANDE DO NORTE | Brasil | 2408201 | 24 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 0679a95b-7340-3749-a5b6-38c8cd101cca | -4.17667 | -43.71357 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 7858d737-09e1-30df-96e9-d6f26f5e609c | -4.1711 | -43.70735 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b5ab88c4-a0f1-3cb7-a568-1577d9083328 | -4.17443 | -43.72565 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 16.1 |
-| f593e0bd-3364-3c53-9b85-2265eb9fc112 | -4.4533 | -44.30084 | 2025-11-26 03:27:00 | NOAA-21 | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| e97c9577-c4f8-3342-869c-340a3ff73e6c | -4.5638 | -43.29306 | 2025-11-26 03:27:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 380fa8f0-f638-3925-9c2b-ebbfb576d349 | -4.61398 | -41.05818 | 2025-11-26 03:27:00 | NOAA-21 | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 2.6 |
-| 3935e200-150c-3805-9a61-b8b620e26e80 | -4.56295 | -43.29798 | 2025-11-26 03:27:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 5a17c51d-bd21-366e-8d9a-7f86ea9ced2b | -3.47154 | -43.4277 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 51f2b550-70ad-3b9b-afda-658b15aeea3d | -4.26489 | -45.12541 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 7f9ec841-42f1-3dcb-be7f-abecf2ea9e47 | -4.45223 | -44.30682 | 2025-11-26 03:27:00 | NOAA-21 | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| f2add318-3b0b-3c86-b08f-084f6e069cf7 | -3.67372 | -43.56879 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| db0f145a-7fbf-3d67-8891-5788b607c308 | -4.59478 | -44.41759 | 2025-11-26 03:27:00 | NOAA-21 | LIMA CAMPOS | MARANHÃO | Brasil | 2106003 | 21 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| 7559ab40-a4be-3ebe-81ad-f3e56318abfc | -4.16233 | -43.71834 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d1a037a4-cfb2-362e-915e-5bbb7fa02434 | -5.55194 | -38.14489 | 2025-11-26 03:27:00 | NOAA-21 | ALTO SANTO | CEARÁ | Brasil | 2300705 | 23 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| 968f95b0-d0e9-3d42-a23d-2f47c49f161c | -4.70864 | -43.99197 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 1b12989a-743a-3d1a-9d26-f26d6b48373d | -3.67462 | -43.56351 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 52254e07-b98a-3c57-bb56-ea35272f445a | -4.1682 | -43.72344 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| 04d4bbf5-3f53-387a-8fb7-a978a65a2369 | -4.17157 | -43.74218 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| 998c7786-8a3e-35a4-84fc-d0933617476d | -4.17997 | -43.7323 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 7d53e663-7249-380e-abb1-6fb9ff12c12b | -4.65628 | -43.9831 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 6fa567d1-0a6e-321e-b74d-9318cc879f91 | -5.60303 | -35.6377 | 2025-11-26 03:27:00 | NOAA-21 | TAIPU | RIO GRANDE DO NORTE | Brasil | 2413904 | 24 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| 04493a35-9934-38a7-a70f-bbca31381430 | -4.17174 | -43.74092 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 54fe8e89-9d9b-3787-820e-1a8a3242d439 | -4.65761 | -43.9813 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 97ac9793-7d2b-3b47-adf7-50567d531e10 | -4.59833 | -44.41359 | 2025-11-26 03:27:00 | NOAA-21 | LIMA CAMPOS | MARANHÃO | Brasil | 2106003 | 21 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 771d6790-73e6-396a-a00b-274ecdfcdaaf | -3.67351 | -43.57081 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| d07e272d-dc24-34b3-a70a-cb57c3dbd164 | -4.16791 | -43.72467 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 16.1 |
-| a1e10df1-6e37-32d2-8342-b840b61800ae | -4.1812 | -43.72552 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| d6cb6ae6-fd62-3656-9760-dfdf8623d3b7 | -4.65857 | -43.9758 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| 0d35eefe-fa66-3696-bd82-c261e78cd96c | -4.26058 | -45.13585 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 8013e16f-a03c-3807-bb9f-e67704b8e221 | -3.66797 | -43.56441 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0d2a1226-e5cc-36df-a565-47662101c320 | -3.47705 | -43.43405 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 2b60af23-1f3e-3c8c-a4b6-630fdf26282e | -4.56805 | -43.80546 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 2825f7b7-d24f-3d73-a0d7-80a641cbed94 | -5.20163 | -38.46497 | 2025-11-26 03:27:00 | NOAA-21 | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 53dd6b31-2b3e-3fec-8791-72237f421f49 | -5.80576 | -35.58842 | 2025-11-26 03:27:00 | NOAA-21 | IELMO MARINHO | RIO GRANDE DO NORTE | Brasil | 2404606 | 24 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 7277fa0c-51ee-311c-b465-27643f33acc4 | -4.1757 | -43.71896 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 80b7340c-c7e4-300b-a159-99ca1eca5adb | -4.16044 | -43.72921 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 40635dfb-62bc-3fb0-b274-ad267ccd680d | -4.16505 | -43.74123 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| 7e1b0d34-dad8-3e38-ac0f-d3ab4e066870 | -4.652 | -43.97483 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 29ed3b36-f796-366b-b864-4996bbab01cc | -4.99506 | -40.78489 | 2025-11-26 03:27:00 | NOAA-21 | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 8249d32d-7887-3c3b-946c-da05eba7d08f | -4.17273 | -43.73543 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 7517ac15-e882-3f10-b09d-13ce759237f8 | -4.17724 | -43.70942 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 35e9dfd4-6d93-330f-b915-885ad6c044e4 | -4.25479 | -45.1278 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 6f0aad3a-42dd-3f7b-89a6-52949d698387 | -4.59584 | -44.41158 | 2025-11-26 03:27:00 | NOAA-21 | LIMA CAMPOS | MARANHÃO | Brasil | 2106003 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 517579bc-1543-3423-8fe5-33d92a29a072 | -4.25543 | -45.13802 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| 85f06fe0-9479-30a9-b0a5-6e6af6ddda12 | -3.67059 | -38.80843 | 2025-11-26 03:27:00 | NOAA-21 | CAUCAIA | CEARÁ | Brasil | 2303709 | 23 | 33 | nan | nan | nan | Caatinga | 2.9 |
-| 73194517-5204-388c-90c9-390dff9cfc7f | -3.68022 | -43.56979 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 18b0bf66-2e10-362a-bec8-97b4454731e9 | -3.14467 | -40.17951 | 2025-11-26 03:27:00 | NOAA-21 | MARCO | CEARÁ | Brasil | 2307809 | 23 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| e1834dd8-c42a-3575-8bda-f40382b18854 | -3.66722 | -43.56782 | 2025-11-26 03:27:00 | NOAA-21 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 8b4c3057-29c3-38cc-8257-052368e9c5d0 | -4.56629 | -43.29847 | 2025-11-26 03:27:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 5aa618e3-50c8-3473-a732-33ddab0719cd | -4.26185 | -45.12887 | 2025-11-26 03:27:00 | NOAA-21 | OLHO D'ÁGUA DAS CUNHÃS | MARANHÃO | Brasil | 2107407 | 21 | 33 | nan | nan | nan | Amazônia | 4.7 |
-| 6c872289-d259-34f1-a975-07109f0f93f7 | -4.16621 | -43.73447 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 9c1ed5df-8220-3886-b517-f1e70595e1b8 | -4.16918 | -43.71798 | 2025-11-26 03:27:00 | NOAA-21 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 84db9e86-8128-357f-8f40-c198f128c0f0 | -4.66384 | -43.97862 | 2025-11-26 03:27:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 99aa598f-c741-39e4-a5cf-3718ce5eab27 | -2.3463 | -45.5917 | 2025-11-27 04:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 48.3 |
+| eeb3d5b2-80b1-3312-b4b7-4eea7e1ec509 | -2.3278 | -45.5698 | 2025-11-27 04:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| dea4ac5b-5d34-3524-87b6-2293040e4582 | -2.3277 | -45.5922 | 2025-11-27 04:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 69.3 |
+| 9ce386d5-3149-31b9-9655-423cee0d913e | -13.3848 | -51.164 | 2025-11-27 04:10:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 56.8 |
+| 13a1df3b-5135-3be7-b38e-e50c8ebb3aea | -2.3463 | -45.5917 | 2025-11-27 04:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| f2e2f31b-30b7-30bb-b410-9fd876f50419 | -2.7105 | -47.3929 | 2025-11-27 04:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 70.6 |
+| c5828488-f9da-316f-9f7f-a96e6bc9a174 | -13.4037 | -51.1829 | 2025-11-27 04:10:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 7b205e5d-9208-3862-aca6-dba8eb1a560f | -13.4041 | -51.1615 | 2025-11-27 04:10:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 83.1 |
+| b646620e-3b89-35f3-ae1e-66c08f14a421 | -2.3464 | -45.5693 | 2025-11-27 04:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 40.7 |
+| 4c00564b-8e23-38ff-9c57-cf31664deb46 | -4.7204 | -46.4497 | 2025-11-27 04:10:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 111.3 |
+| c23e9c61-b378-3547-a8d9-f16331db52c7 | -2.3277 | -45.5922 | 2025-11-27 04:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| 66d2a9bd-4167-3e37-ad34-94657bb332b4 | -13.4041 | -51.1615 | 2025-11-27 04:20:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| f4c2e644-3f3a-3a55-80e7-8d9f493e2292 | -2.3278 | -45.5698 | 2025-11-27 04:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 37.6 |
+| 459df4f5-5c49-39b1-9012-ac61d637e9da | -2.3463 | -45.5917 | 2025-11-27 04:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| 8e64031c-a234-3735-98cf-91966567394e | -2.7104 | -47.4147 | 2025-11-27 04:20:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| a0b22c12-b72f-348a-ab1d-730478eee6af | -4.7204 | -46.4497 | 2025-11-27 04:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 96.0 |
+| 7687c695-5e5a-339b-8cc0-a418d9d02799 | -2.3464 | -45.5693 | 2025-11-27 04:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 35.5 |
+| df3de764-66e1-3506-8ab5-71080cc81464 | -3.5269 | -43.6828 | 2025-11-27 04:20:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 39.5 |
+| fb24d966-d290-38dc-be72-ef075a7a0f45 | -2.7105 | -47.3929 | 2025-11-27 04:20:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| 214f2378-4b17-3f27-af8b-32864cd5bccb | -2.3278 | -45.5698 | 2025-11-27 04:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 50.4 |
+| 6cbc4f47-ce6a-3897-a03c-449e517c063c | -13.3848 | -51.164 | 2025-11-27 04:30:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 64.2 |
+| a940f7e8-8918-31d4-b659-2782230462e5 | -3.5269 | -43.6828 | 2025-11-27 04:30:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 45.8 |
+| 22bf7a3c-4203-32da-974b-cfc83fc12573 | -2.3277 | -45.5922 | 2025-11-27 04:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 73.8 |
+| f7a9bc00-1be9-31d3-8487-41f6f8f1f006 | -13.4037 | -51.1829 | 2025-11-27 04:30:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 75.7 |
+| fa9c2466-075b-3e6d-9c1c-94c67b0ac228 | -2.3463 | -45.5917 | 2025-11-27 04:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 32.0 |
+| 5378c2ca-7c13-3f5f-84f1-7e093388f1bc | -4.7204 | -46.4497 | 2025-11-27 04:30:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 76.8 |
+| dcb6b9d9-768c-39d5-b621-9be625e82895 | -13.4041 | -51.1615 | 2025-11-27 04:30:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 86.2 |
+| b91f11f5-9c10-3b40-9510-1776a19f1ec3 | -4.7204 | -46.4497 | 2025-11-27 04:40:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 73.4 |
+| 087e5b00-7937-3aae-9852-4ffc8f1b150c | -13.4041 | -51.1615 | 2025-11-27 04:40:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 74.6 |
+| e9c21d67-e09e-356b-9507-58538623f258 | -3.5269 | -43.6828 | 2025-11-27 04:40:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 105.7 |
+| 253ce438-7ed2-3359-bcfb-3613ff5e5880 | -2.3277 | -45.5922 | 2025-11-27 04:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 55.7 |
+| 28b77f91-2b77-3619-9694-3d40b42cf76f | -2.3278 | -45.5698 | 2025-11-27 04:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 39.5 |
+| 16f9be8a-44b8-3ff5-8947-18351c321438 | -3.5268 | -43.7059 | 2025-11-27 04:40:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 35.8 |
+| 0177a316-1a00-3bd5-bf57-5c6559f9f643 | -13.4041 | -51.1615 | 2025-11-27 04:50:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 63.6 |
+| 1c6af645-6615-3b7d-8e4a-3f331a60e7f3 | -4.7204 | -46.4497 | 2025-11-27 04:50:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 77.9 |
+| a8dc6c67-f7de-3902-a9b7-c3c62227dd85 | -2.3278 | -45.5698 | 2025-11-27 04:50:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 32.8 |
+| ecf2999e-9d8d-3f1d-9455-5fbf1085c1d1 | -3.5269 | -43.6828 | 2025-11-27 04:50:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 62.3 |
+| d1ceb24f-67c7-313b-a292-a76722d52d56 | -3.5083 | -43.6837 | 2025-11-27 04:50:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 42.4 |
+| a7ac29a0-90f3-3097-a237-6b21a9830efb | -2.3277 | -45.5922 | 2025-11-27 04:50:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 44.8 |
+| f729f8a8-947a-38bb-829c-a854c4a6f76b | -4.7204 | -46.4497 | 2025-11-27 05:00:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 70.9 |
+| 5a71443f-6550-3f07-9ae4-7413b460d9cc | -2.3277 | -45.5922 | 2025-11-27 05:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 64.8 |
+| ab9327f1-28ee-39d7-87cc-64bfa04e119d | -2.3278 | -45.5698 | 2025-11-27 05:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 39.2 |
+| cb30649f-153c-3c64-89ec-c62a4b4f74c7 | -3.5083 | -43.6837 | 2025-11-27 05:00:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| 7a8c3bd7-1dbd-39bf-a291-ced4f19d9674 | -3.5269 | -43.6828 | 2025-11-27 05:00:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| 106bd2b5-f6c3-3fe1-b9c8-e29cde50c157 | -2.3463 | -45.5917 | 2025-11-27 05:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 64.9 |
+| 6efc894f-74b7-3dca-a402-8e61ad27ea5c | -2.3464 | -45.5693 | 2025-11-27 05:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 39.1 |
+| 4ab75a83-23af-3335-9a88-5bf1d9a08e12 | -2.3463 | -45.5917 | 2025-11-27 05:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 9eb09733-05a2-3259-833d-972904a641a6 | -2.3278 | -45.5698 | 2025-11-27 05:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 97.2 |
+| e9be343b-6d95-3eca-bd3a-de50d7ef2e10 | -5.703 | -47.0532 | 2025-11-27 05:10:00 | GOES-19 | MONTES ALTOS | MARANHÃO | Brasil | 2107001 | 21 | 33 | nan | nan | nan | Cerrado | 53.4 |
+| 89808a85-14d5-3f50-97a4-19babe72ae3e | -3.5269 | -43.6828 | 2025-11-27 05:10:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 5ee2bfde-7315-3b16-8a9c-e9ef06a0a426 | -2.3277 | -45.5922 | 2025-11-27 05:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 118.7 |
+| 3985f238-ad71-3d76-a3b5-87869764da10 | -2.3464 | -45.5693 | 2025-11-27 05:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 45.2 |
+| 4c5ee7f6-4538-3706-b811-91502b7c3104 | -13.4041 | -51.1615 | 2025-11-27 05:10:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 60.5 |
+| eea83e7c-72bb-3f69-8bf2-564be9c8fdba | -2.7105 | -47.3929 | 2025-11-27 05:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| 96d8cb94-335b-338d-8665-8de55e1b2325 | -4.7204 | -46.4497 | 2025-11-27 05:20:00 | GOES-19 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| c73a1f8e-7178-3a39-bf8b-1f8b841c3684 | -2.3277 | -45.5922 | 2025-11-27 05:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 80.3 |
+| 70a25857-7d39-3dd5-81d1-1aa685fe9915 | -2.3278 | -45.5698 | 2025-11-27 05:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 54.1 |
+| 96aa5f04-30b6-354b-bf9b-323498a60b9b | -13.4041 | -51.1615 | 2025-11-27 05:20:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 75.2 |
+| 57325b23-8532-38e7-8ebe-1861e62ecde6 | -3.5269 | -43.6828 | 2025-11-27 05:20:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 76.4 |
+| 670153c1-0c43-361c-8d8a-66332a30dafa | -3.5083 | -43.6837 | 2025-11-27 05:20:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 58.0 |
+| 9360b020-c4a9-34ba-8732-d074e457bf52 | -2.3463 | -45.5917 | 2025-11-27 05:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| e6eca5ee-6736-39a3-9393-7a616909b3d0 | -2.3277 | -45.5922 | 2025-11-27 05:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 95.7 |
+| 4d86c0e5-d1e8-35d3-a604-b164c266ee45 | -13.4041 | -51.1615 | 2025-11-27 05:30:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| b4a4886c-6387-3f6f-8686-8f39298e25e9 | -2.3464 | -45.5693 | 2025-11-27 05:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 52.7 |
+| aec30b5c-1322-33ba-ab5f-9725fd0fd61d | -2.3278 | -45.5698 | 2025-11-27 05:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| 1c92e91c-b41b-368a-9366-5fc7027a8aff | -2.3463 | -45.5917 | 2025-11-27 05:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 75.7 |
+| 3eb6bfbe-63e6-3634-b389-8b80d6af4e4a | -2.3278 | -45.5698 | 2025-11-27 05:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| 842be75b-48f2-3042-981d-d1c0c822549c | -2.3277 | -45.5922 | 2025-11-27 05:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 92.3 |
+| f7961d3c-4913-3298-9bc1-0a38eb24ea22 | -2.3463 | -45.5917 | 2025-11-27 05:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 77.8 |
+| a3bbdb0c-9e08-3631-932a-aca17e8e331c | -13.4041 | -51.1615 | 2025-11-27 05:40:00 | GOES-19 | COCALINHO | MATO GROSSO | Brasil | 5103106 | 51 | 33 | nan | nan | nan | Cerrado | 57.5 |
+| 0b9e86f0-1760-383b-ac6d-a66cd8bf223b | -2.3464 | -45.5693 | 2025-11-27 05:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| f6ba43ec-9ca0-322c-badc-140813286f93 | -3.5083 | -43.6837 | 2025-11-27 05:40:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 41.9 |
+| d3952f24-4a14-3cf1-9038-3c6a4956aca8 | -5.703 | -47.0532 | 2025-11-27 05:40:00 | GOES-19 | MONTES ALTOS | MARANHÃO | Brasil | 2107001 | 21 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| 5b90ca81-a216-3a73-89e2-172fd5a1339d | -3.5269 | -43.6828 | 2025-11-27 05:40:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 67.0 |
+| dab18db6-3cff-3419-8f5a-5856a6ad432b | -3.52261 | -43.68423 | 2025-11-27 05:48:00 | AQUA_M-M | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 54.6 |
+| 5a455f0c-526c-3840-a2d3-1afbbbad66e4 | -2.70025 | -47.39024 | 2025-11-27 05:48:00 | AQUA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 60.9 |
+| c467a169-5117-371c-b547-2cc7a531a60e | -3.63686 | -44.86812 | 2025-11-27 05:48:00 | AQUA_M-M | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| e3fb4328-1a78-3700-83d1-e796a9066a49 | -2.92768 | -48.21127 | 2025-11-27 05:48:00 | AQUA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
+| dbd65a45-a674-34e8-bd56-0be559546ac8 | -1.48207 | -45.78995 | 2025-11-27 05:48:00 | AQUA_M-M | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 15.9 |
+| d8a7cfea-edd6-37a6-978b-72c4b139d304 | -2.92487 | -48.22895 | 2025-11-27 05:48:00 | AQUA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
+| 93a079b5-e993-39e4-9966-acc3e5ff6350 | -2.92014 | -48.22279 | 2025-11-27 05:48:00 | AQUA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 15.3 |
+| 426eccde-823f-321a-87ec-a2910bd7bad1 | -2.69782 | -47.40573 | 2025-11-27 05:48:00 | AQUA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| d33d9a7c-b2b5-3183-87ca-67db60b9a464 | -3.6353 | -44.87823 | 2025-11-27 05:48:00 | AQUA_M-M | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | 7.0 |
+| 6e7204c9-d8e8-36f0-90fb-746fd98bf07e | -2.33378 | -45.58389 | 2025-11-27 05:48:00 | AQUA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 206.6 |
+| 0e04b4c0-86b3-3e8b-af04-6ea5bea948ce | -2.48468 | -47.82322 | 2025-11-27 05:48:00 | AQUA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 10.0 |
+| 46b46d7c-7d80-31a3-8e8e-2ee5705409d5 | -2.32556 | -45.57087 | 2025-11-27 05:48:00 | AQUA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 9.9 |
+| 0b41fa72-67ab-3ff1-91af-3862b73362ee | -3.13908 | -45.21992 | 2025-11-27 05:48:00 | AQUA_M-M | VIANA | MARANHÃO | Brasil | 2112803 | 21 | 33 | nan | nan | nan | Amazônia | 10.4 |
+| 2cce0724-50a4-3494-90fd-7b576dc33b63 | -3.51275 | -43.68541 | 2025-11-27 05:48:00 | AQUA_M-M | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 35.6 |
+| dc80f9bb-e180-366f-ab77-238e66f1bba0 | -2.7527 | -49.32922 | 2025-11-27 05:48:00 | AQUA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 12.8 |
+| c3e88308-1886-3daa-8012-2fb6da0f26f8 | -3.524 | -43.67518 | 2025-11-27 05:48:00 | AQUA_M-M | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 17.8 |
+| 811835e2-3c45-3a0e-b6b5-312cb8306163 | -2.33556 | -45.57238 | 2025-11-27 05:48:00 | AQUA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 87.7 |
+| 2e14343e-93c3-3c20-8e03-ce50aeb6c623 | -2.51589 | -45.0064 | 2025-11-27 05:48:00 | AQUA_M-M | PERI MIRIM | MARANHÃO | Brasil | 2108405 | 21 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 2af2d8bd-fc85-3202-979e-0b2a9dda504c | -3.51411 | -43.67636 | 2025-11-27 05:48:00 | AQUA_M-M | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 18.4 |
+| e89b2a09-80c9-3a7b-9478-2088d5fe4617 | -2.32377 | -45.58239 | 2025-11-27 05:48:00 | AQUA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 19.1 |
+| 1741f6b5-ee49-3c9e-ac24-a41ee8859800 | -2.3463 | -45.5917 | 2025-11-27 05:50:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| acf0a2f5-3ad4-38d6-8c47-f8880e3b908b | -5.703 | -47.0532 | 2025-11-27 05:50:00 | GOES-19 | MONTES ALTOS | MARANHÃO | Brasil | 2107001 | 21 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| 76994cf8-a143-3467-8d82-8116e2038ce7 | -3.5269 | -43.6828 | 2025-11-27 05:50:00 | GOES-19 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| 60200d8a-73a5-3c4b-99c0-8bb4bc5a263f | -2.3277 | -45.5922 | 2025-11-27 05:50:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 70.7 |
+| 1e143abb-ec66-3631-87f1-33167fc16343 | -2.3278 | -45.5698 | 2025-11-27 05:50:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| 3be04712-a2d2-35bc-9a3d-23ff475fd007 | -5.69513 | -47.06475 | 2025-11-27 05:50:00 | AQUA_M-M | MONTES ALTOS | MARANHÃO | Brasil | 2107001 | 21 | 33 | nan | nan | nan | Cerrado | 9.1 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
