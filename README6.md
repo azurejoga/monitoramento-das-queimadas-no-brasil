@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| cd4b7829-bef3-3cdb-9565-50569bfe124b | -3.2174 | -50.139 | 2025-12-01 02:10:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 66.7 |
-| 839789cb-3454-3842-abf9-c80b85065d0e | -4.3702 | -43.1741 | 2025-12-01 02:10:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 91.8 |
-| baa58c94-f03f-3daa-9116-bb3b87c153f7 | -4.3703 | -43.1508 | 2025-12-01 02:10:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 171.2 |
-| a15a020b-6edd-3c88-992b-f34aac5caa7f | -3.7009 | -45.9 | 2025-12-01 02:10:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 105.6 |
-| a149223c-3e0e-369a-8b64-bd2946380b3f | -4.3877 | -43.3362 | 2025-12-01 02:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 192.6 |
-| b31496de-e39a-317a-9fd9-2193af49a0a6 | -17.5144 | -57.1719 | 2025-12-01 02:10:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 104.4 |
-| 632906bf-ebd4-3248-8c10-9481ed9ba726 | -8.051 | -43.1237 | 2025-12-01 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 68.3 |
-| 26e81cca-dc68-37ff-8223-d5864c929bcb | -4.3703 | -43.1508 | 2025-12-01 02:20:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 144.8 |
-| 0757c766-36db-3235-97a0-6cc8218a38c5 | -4.3877 | -43.3362 | 2025-12-01 02:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 162.4 |
-| 896ffb03-d9f7-36e8-ae57-f526937c7b0e | -4.3879 | -43.3129 | 2025-12-01 02:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 93.1 |
-| f449aef8-57f3-3229-bd9e-8e830561c38a | -3.7009 | -45.9 | 2025-12-01 02:20:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 86.6 |
-| 92981294-979d-3507-9768-41dcbde12f36 | -17.5341 | -57.1695 | 2025-12-01 02:20:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 89.5 |
-| 95ae7531-7c33-32be-a22d-92c1af91161b | -4.4064 | -43.3351 | 2025-12-01 02:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 71.7 |
-| 427c43c5-4b65-30ec-9fe9-33f6005593d3 | -3.2174 | -50.139 | 2025-12-01 02:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 61.8 |
-| 33ca13be-7889-3146-9549-0e1a581db7cb | -4.389 | -43.1497 | 2025-12-01 02:20:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 96.2 |
-| d20da2ad-ce33-3ed9-a680-58d2a68a0e61 | -17.5144 | -57.1719 | 2025-12-01 02:20:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.7 |
-| 7b241b33-eb05-3831-802c-f19faffcd872 | -4.3702 | -43.1741 | 2025-12-01 02:20:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 73.9 |
-| b0b134e6-10e1-3e7e-a083-18cbfa3b5f08 | -20.0142 | -57.4484 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 124.9 |
-| 645c1736-addd-39a5-981f-13fed060f093 | -19.9746 | -57.4121 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 68.0 |
-| 527e187e-d946-3b3b-adce-3e574b257a67 | -20.0145 | -57.4275 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 136.4 |
-| 5d2c995d-7a3f-376f-b2fa-5ed397199fb1 | -4.4064 | -43.3351 | 2025-12-01 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 75.4 |
-| 35493d89-206d-3a2e-9a41-f59f447792c7 | -19.9548 | -57.394 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 66.1 |
-| 27ab6bfe-f21f-3765-a44c-431795f0fc8a | -20.0347 | -57.4247 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.6 |
-| f1e20e65-9458-3dce-be3b-fc0548d38997 | -4.389 | -43.1497 | 2025-12-01 02:30:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 117.8 |
-| 54174899-d817-3356-8490-93f4207d3ed3 | -4.3877 | -43.3362 | 2025-12-01 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 173.6 |
-| 2e76fab5-b7c4-3690-9101-877d8df8f937 | -19.975 | -57.3912 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 96.4 |
-| 444a38db-61c2-3f31-b927-23b6edde89c2 | -3.7195 | -45.8992 | 2025-12-01 02:30:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 63.0 |
-| 7b7fab64-9a3b-310a-b3df-5c5169ebff13 | -4.3702 | -43.1741 | 2025-12-01 02:30:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 91.3 |
-| 32835f10-e852-3e98-969c-484cec0d0d2f | -3.7009 | -45.9 | 2025-12-01 02:30:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 84.2 |
-| c7188e8c-20e3-350e-822a-41ca24455cdd | -3.2174 | -50.139 | 2025-12-01 02:30:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 64.4 |
-| 655cc287-c281-3416-a23c-a8f99ebe7d22 | -4.3879 | -43.3129 | 2025-12-01 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 75.3 |
-| a17bd82c-fc6c-3ead-9078-190fb6c71f0b | -17.5144 | -57.1719 | 2025-12-01 02:30:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 68.4 |
-| 5dd54ff0-6bab-3f0b-beac-e299a3f48c5a | -20.0343 | -57.4457 | 2025-12-01 02:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.1 |
-| 21a8bb88-ab39-37e8-8bf8-bdb7eea1d0b3 | -17.5341 | -57.1695 | 2025-12-01 02:30:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 90.1 |
-| c2603313-de1c-3e78-8d72-b84d5698b09c | -4.3703 | -43.1508 | 2025-12-01 02:30:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 165.5 |
-| dd107b6f-cbbc-3032-9e15-93e0d04c84c6 | -4.3889 | -43.173 | 2025-12-01 02:30:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| c9b16a00-7445-32e4-8aab-796d057b50c7 | -4.3877 | -43.3362 | 2025-12-01 02:40:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 171.7 |
-| 68dc8585-2342-36f3-b232-64f012e19ec8 | -20.0142 | -57.4484 | 2025-12-01 02:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 118.8 |
-| 9eb07464-be4d-3a15-ba3a-227852ca0460 | -3.7195 | -45.8992 | 2025-12-01 02:40:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 85.8 |
-| 0c018fb9-a929-3c83-adac-ac85112a0a54 | -4.3879 | -43.3129 | 2025-12-01 02:40:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| 5d33b0bd-a733-3f6c-889d-56ed427c9ef9 | -4.389 | -43.1497 | 2025-12-01 02:40:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 102.1 |
-| 1143600c-0820-3528-a58c-33ab894d852f | -20.0343 | -57.4457 | 2025-12-01 02:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.8 |
-| 310580ee-6c2e-3eaf-a6ae-13fccc7f96b5 | -4.3703 | -43.1508 | 2025-12-01 02:40:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 146.5 |
-| 56f59fa7-e9a2-3319-a7e4-c48ef5f21766 | -4.3702 | -43.1741 | 2025-12-01 02:40:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| b4d6361e-86a1-333b-8ce4-386cd0d15471 | -3.6008 | -47.2739 | 2025-12-01 02:40:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 61.3 |
-| fdee00b3-8ea6-357f-8dfb-3c72bed6e057 | -20.0145 | -57.4275 | 2025-12-01 02:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 115.4 |
-| cf6a472d-4f66-3e76-a437-5d46a2ce7b82 | -4.4064 | -43.3351 | 2025-12-01 02:40:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| f917c9cd-e745-3ef6-b87a-9e3ba82ac1ce | -3.2174 | -50.139 | 2025-12-01 02:40:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 65.8 |
-| 6277c55f-91ec-3980-9c23-5a31c951bc92 | -20.0347 | -57.4247 | 2025-12-01 02:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 81.2 |
-| 7de124c4-582a-33a7-b343-52e16682c7f9 | -3.7009 | -45.9 | 2025-12-01 02:40:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 105.0 |
-| 3f6ba829-63d9-3f35-823f-6bbceebb84de | -3.7195 | -45.8992 | 2025-12-01 02:50:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 77.2 |
-| 808d5a73-6b25-3e16-8702-b5699f1f8fbf | -4.3703 | -43.1508 | 2025-12-01 02:50:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 152.4 |
-| 9ff4473c-0686-325e-8cce-a9fb311cc33e | -4.3877 | -43.3362 | 2025-12-01 02:50:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 233.8 |
-| 1b1155ca-a6ef-3b0e-af8e-284684e0d06f | -20.0145 | -57.4275 | 2025-12-01 02:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 84.2 |
-| 1a18ebfa-18f5-3d2d-bcad-cee057f2ea68 | -4.3889 | -43.173 | 2025-12-01 02:50:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 78.7 |
-| 98b857b5-3588-3fcd-b08e-6c8de7db63cc | -20.0343 | -57.4457 | 2025-12-01 02:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 88.4 |
-| 769bf197-2b4e-366b-af91-b3a98f3580d5 | -20.0142 | -57.4484 | 2025-12-01 02:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 106.6 |
-| 896f33ee-1512-3117-94d0-fe3701ac5ef6 | -4.4064 | -43.3351 | 2025-12-01 02:50:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 106.8 |
-| 850e3420-48ba-3fa1-8aee-383a52a6633c | -20.0347 | -57.4247 | 2025-12-01 02:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.7 |
-| 000bc33f-073d-3d78-871e-49f81a1526e9 | -4.389 | -43.1497 | 2025-12-01 02:50:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 115.7 |
-| 95b1fe20-9eb6-360c-afd4-2aeef599dc34 | -3.2174 | -50.139 | 2025-12-01 02:50:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 64.9 |
-| 0e71fe05-1efc-35dd-bd30-42eb66ee2885 | -4.4066 | -43.3118 | 2025-12-01 02:50:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 58.4 |
-| 33d942f1-12f1-38ab-9271-61be6a122588 | -4.3876 | -43.3595 | 2025-12-01 02:50:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 65.8 |
-| db0f277b-9b56-3d87-98cf-eef8d0d2dbd9 | -4.3879 | -43.3129 | 2025-12-01 02:50:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 94.4 |
-| 6178cbab-48a9-318a-8ee6-2bea6bf2bb03 | -4.3702 | -43.1741 | 2025-12-01 02:50:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 96.7 |
-| 2c4bf43b-962a-3856-bf24-96d62b941652 | -3.6008 | -47.2739 | 2025-12-01 02:50:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| f6093c42-3218-37ab-b933-58070ee48a6a | -3.7009 | -45.9 | 2025-12-01 02:50:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 83.5 |
-| f4ea4a80-963a-3b2c-b95b-f4071c35fb80 | -3.7195 | -45.8992 | 2025-12-01 03:00:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 78.1 |
-| c14cd279-4047-306a-a46e-02f42d64da1d | -4.4064 | -43.3351 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 233.8 |
-| 87e4a847-f0b5-3701-90cf-b0c166aab5ca | -4.3702 | -43.1741 | 2025-12-01 03:00:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 75.4 |
-| e6c2899a-b8f1-3faf-8f30-f1b419f47cbc | -3.2174 | -50.139 | 2025-12-01 03:00:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 64.7 |
-| 29a6bce4-3ac2-3f32-8b56-3c766af25b6c | -3.7009 | -45.9 | 2025-12-01 03:00:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 81.5 |
-| 9a2d178a-528a-39e5-8bc1-70524218eb57 | -4.3876 | -43.3595 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 103.3 |
-| 1b5afae0-fd43-34a9-bcf7-f4046358ce29 | -4.389 | -43.1497 | 2025-12-01 03:00:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 110.6 |
-| ba2eb227-680b-3c50-9c39-bb0b47348306 | -4.3877 | -43.3362 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 542.0 |
-| 5c1dbad8-7208-3c13-a4ff-816050c20961 | -4.369 | -43.3373 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 72.5 |
-| 95b69aad-3942-3bfe-9ae1-bc4a8a2292a0 | -4.3889 | -43.173 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 63.2 |
-| 4bfd0f05-62e9-3c44-ab3b-b3bb00c2db96 | -4.3703 | -43.1508 | 2025-12-01 03:00:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 146.8 |
-| 0832d965-4beb-35d7-badb-89b6165dc35a | -4.4062 | -43.3584 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 63.1 |
-| 759ec2e0-3dea-3efb-8407-8cf81f0c5aee | -4.3879 | -43.3129 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 301.4 |
-| 69bd51cc-2b3f-3f4e-adb6-f77da12a5549 | -4.4066 | -43.3118 | 2025-12-01 03:00:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 139.4 |
-| 9f65479d-db30-35b2-8f91-d75e3621a1a6 | -3.6008 | -47.2739 | 2025-12-01 03:00:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| f03634de-2b58-3b24-a629-ed189ae40320 | -4.3876 | -43.3595 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 76.8 |
-| f4648887-89e8-3cf4-9279-9922049add78 | -4.3877 | -43.3362 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 329.9 |
-| a3bc102f-318a-3b54-aa58-8dc7cc2682ca | -3.7195 | -45.8992 | 2025-12-01 03:10:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 84.2 |
-| b30fc235-75f1-3bd5-bb95-9391ad169915 | -5.3398 | -43.5535 | 2025-12-01 03:10:00 | GOES-19 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| 4b42c001-5f12-3f9b-958b-44c45f8dd6d3 | -4.3703 | -43.1508 | 2025-12-01 03:10:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 121.9 |
-| 8fada812-ae90-30d1-b494-0fcf238eb786 | -5.3396 | -43.5768 | 2025-12-01 03:10:00 | GOES-19 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 67.4 |
-| 63d77faf-d095-3fac-88f0-89c762c3e136 | -4.3879 | -43.3129 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 182.9 |
-| caf5eecc-ba86-3801-9f77-50b6bcd32957 | -3.6008 | -47.2739 | 2025-12-01 03:10:00 | GOES-19 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 66.6 |
-| e1d7f289-fd0d-37de-94f0-7c8f4728f40f | -4.3702 | -43.1741 | 2025-12-01 03:10:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 66.9 |
-| def9c01b-ff53-3246-bc1d-74a2ebc1ce27 | -3.7009 | -45.9 | 2025-12-01 03:10:00 | GOES-19 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 88.7 |
-| 4eb17baf-3aec-32a9-958d-996ead572242 | -4.4064 | -43.3351 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 155.1 |
-| 97e7075f-a88c-337a-960b-49b3caae7cc5 | -4.389 | -43.1497 | 2025-12-01 03:10:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 105.6 |
-| 03449ff4-86ad-3020-b9bd-415de871c4cf | -4.4066 | -43.3118 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 99.8 |
-| 83353a66-e10d-3111-8424-74002ee600a4 | -4.369 | -43.3373 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| f00ec713-6fec-372e-8957-6394ab3df1f6 | -4.3889 | -43.173 | 2025-12-01 03:10:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 62.4 |
-| 8bb6eac8-d3cf-334d-862e-2d399e019363 | -4.3889 | -43.173 | 2025-12-01 03:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 73.2 |
-| 4b8f2e7a-8305-396b-8616-5996353139e9 | -4.389 | -43.1497 | 2025-12-01 03:20:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 134.3 |
-| 5c1ef4ea-410a-31c2-b19f-a71e4d06267f | -4.3877 | -43.3362 | 2025-12-01 03:20:00 | GOES-19 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 252.8 |
+| db7125da-5f8e-3acf-b972-bfda6c09f9ad | -19.7668 | -56.709 | 2025-12-02 03:10:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 89.0 |
+| bf95fef3-87e9-31e0-ab4f-baf37c4d3c78 | -1.4923 | -45.7903 | 2025-12-02 03:10:00 | GOES-19 | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 73.4 |
+| 6b18b9c3-1eb5-371f-a889-50427a02aa92 | -8.0703 | -43.0981 | 2025-12-02 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 74.3 |
+| 837c5a30-f8b7-3505-8fbc-9424c73f698d | -9.80096 | -37.64775 | 2025-12-02 03:17:00 | NOAA-21 | POÇO REDONDO | SERGIPE | Brasil | 2805406 | 28 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 8e5851b1-ee58-33f6-8f7b-79ec0ead61a8 | -6.74496 | -35.04244 | 2025-12-02 03:17:00 | NOAA-21 | MARCAÇÃO | PARAÍBA | Brasil | 2509057 | 25 | 33 | nan | nan | nan | Mata Atlântica | 37.1 |
+| d9452421-f7de-3d8e-9ed1-44411208a567 | -6.24089 | -40.29718 | 2025-12-02 03:17:00 | NOAA-21 | ARNEIROZ | CEARÁ | Brasil | 2301505 | 23 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| ceadea92-d7e3-3c3a-a538-dee334523b0c | -6.28265 | -39.68813 | 2025-12-02 03:17:00 | NOAA-21 | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| a93c8f54-17e5-3b3c-81e2-9c18bfd0d1e4 | -6.2835 | -39.68345 | 2025-12-02 03:17:00 | NOAA-21 | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 1abb629d-9d10-30e7-b931-29aff65c2de4 | -6.74265 | -35.0408 | 2025-12-02 03:17:00 | NOAA-21 | MARCAÇÃO | PARAÍBA | Brasil | 2509057 | 25 | 33 | nan | nan | nan | Mata Atlântica | 21.2 |
+| 6b516476-89cd-3b43-a5c5-97f4f12c02a5 | -6.74193 | -35.04498 | 2025-12-02 03:17:00 | NOAA-21 | MARCAÇÃO | PARAÍBA | Brasil | 2509057 | 25 | 33 | nan | nan | nan | Mata Atlântica | 21.2 |
+| 563d1dca-a84c-3b4f-b534-c4a7b27c149b | -6.23998 | -40.30206 | 2025-12-02 03:17:00 | NOAA-21 | ARNEIROZ | CEARÁ | Brasil | 2301505 | 23 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 8373c8b1-078a-3cad-bce9-f75c105d4562 | -9.80586 | -37.64862 | 2025-12-02 03:17:00 | NOAA-21 | POÇO REDONDO | SERGIPE | Brasil | 2805406 | 28 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 0855e3bd-7ad7-3a80-93c9-2f6971c18e71 | -6.74696 | -35.04162 | 2025-12-02 03:17:00 | NOAA-21 | MARCAÇÃO | PARAÍBA | Brasil | 2509057 | 25 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| c0a58cc2-509d-3fc4-9343-93f6529fa231 | -9.68005 | -37.3092 | 2025-12-02 03:17:00 | NOAA-21 | PALESTINA | ALAGOAS | Brasil | 2706208 | 27 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 1f3de0ed-4089-310f-ae52-ded4efe6ad7d | -8.05252 | -43.10347 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 13.6 |
+| 1a01fb05-1d59-3a8c-8b0f-719a798d5a99 | -9.71303 | -36.24961 | 2025-12-02 03:19:00 | NOAA-21 | ANADIA | ALAGOAS | Brasil | 2700201 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| b4dbd409-e8be-37f7-919f-d2e49750e5d9 | -8.0489 | -43.09945 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 15.3 |
+| 7c2ba8b9-258e-3853-beed-e09e291306ce | -8.1725 | -43.22091 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 9.0 |
+| 04553c37-2b9f-3b3f-b134-91ffd4f32780 | -8.16542 | -43.21948 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 9.0 |
+| 1fd4f0ce-c405-37c2-8289-9ee243f56855 | -8.04761 | -43.10611 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 15.3 |
+| 2dd55859-2348-3483-975c-1ec6bfae2ca3 | -7.80702 | -35.22152 | 2025-12-02 03:19:00 | NOAA-21 | TRACUNHAÉM | PERNAMBUCO | Brasil | 2615508 | 26 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
+| c5d987b7-da6b-3946-a3e2-bb53f44ab117 | -17.73994 | -39.71755 | 2025-12-02 03:19:00 | NOAA-21 | CARAVELAS | BAHIA | Brasil | 2906907 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| d98a1849-1ff1-318f-986b-650e2e44e762 | -8.0596 | -43.10474 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 13.6 |
+| c01b32bc-de86-3914-b82d-364128912b3c | -9.71751 | -36.25031 | 2025-12-02 03:19:00 | NOAA-21 | ANADIA | ALAGOAS | Brasil | 2700201 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| 26569712-3cfb-3e5e-b7e6-145dc3ecdfa5 | -9.72119 | -36.25552 | 2025-12-02 03:19:00 | NOAA-21 | ANADIA | ALAGOAS | Brasil | 2700201 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 6644e59e-10b8-3534-86e5-852d809273fc | -7.72321 | -35.12902 | 2025-12-02 03:19:00 | NOAA-21 | TRACUNHAÉM | PERNAMBUCO | Brasil | 2615508 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 96614a07-3a78-3a9c-805d-85e8b0b57162 | -8.05386 | -43.09679 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 13.6 |
+| e68c2616-d094-381f-b516-745548c4aaea | -9.71222 | -36.25412 | 2025-12-02 03:19:00 | NOAA-21 | ANADIA | ALAGOAS | Brasil | 2700201 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| 52cb5971-5a74-3cde-b435-b5d0e3eba073 | -8.056 | -43.10059 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 15.3 |
+| af7d04d9-9334-3042-b63a-7858c7b049bd | -8.05114 | -43.11034 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 18.5 |
+| 574098e6-b9db-3d6d-8803-e2e7dfe8f38a | -17.25629 | -41.19618 | 2025-12-02 03:19:00 | NOAA-21 | NOVO ORIENTE DE MINAS | MINAS GERAIS | Brasil | 3145356 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| c3a1c334-f174-30b9-ad4f-c3a791e32cbe | -8.16923 | -43.21986 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 19.7 |
+| baa018b2-4e25-3907-9af6-2457967bbbd3 | -8.05468 | -43.10742 | 2025-12-02 03:19:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 15.3 |
+| 248e0afd-7b63-3e8a-9eb3-ebcbc62e7c79 | -17.03283 | -40.3244 | 2025-12-02 03:19:00 | NOAA-21 | ITANHÉM | BAHIA | Brasil | 2916005 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| c76c400f-4afe-3bb4-9c4e-33e7aee40b68 | -7.72391 | -35.12496 | 2025-12-02 03:19:00 | NOAA-21 | TRACUNHAÉM | PERNAMBUCO | Brasil | 2615508 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| 9ee769b9-d463-3448-9289-f8ce3867c5ff | -17.03348 | -40.32117 | 2025-12-02 03:19:00 | NOAA-21 | ITANHÉM | BAHIA | Brasil | 2916005 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| d51027aa-c63d-32f9-b05a-1d5f6959fd70 | -9.71671 | -36.25481 | 2025-12-02 03:19:00 | NOAA-21 | ANADIA | ALAGOAS | Brasil | 2700201 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.6 |
+| 0dec8d1d-4e7c-3d61-812f-eeef72eaf289 | -8.051 | -43.1237 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 110.2 |
+| e6f94ca3-eb01-3da1-a9d3-bd4a9277939c | -11.1379 | -53.9429 | 2025-12-02 03:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 58.6 |
+| e2f60d57-83a0-3af4-ad39-e162dbfbab37 | -8.0703 | -43.0981 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 87.1 |
+| fb20bbe8-e728-333b-aa42-ceff010f7fb1 | -19.7873 | -56.6851 | 2025-12-02 03:20:00 | GOES-19 | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 66.2 |
+| dd71510c-f8c3-35e9-946e-56ea1df19fa6 | -8.0513 | -43.1001 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 334.1 |
+| b132d440-eafc-326c-a2c5-175ba552e7c5 | -8.0516 | -43.0765 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 83.4 |
+| 0dab5895-642f-3411-b0d3-fb012ee9c844 | -1.4737 | -45.7907 | 2025-12-02 03:20:00 | GOES-19 | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| 3450ef7a-185f-3213-b2ab-ee2bb57eed6a | -8.163 | -43.229 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 68.5 |
+| efcb7ef0-4e35-39cc-b378-c8c8754c9b71 | -8.0324 | -43.1022 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 81.8 |
+| c66ff25d-c749-3080-9c0a-b7756a2b4756 | -8.1633 | -43.2055 | 2025-12-02 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 71.6 |
+| 614f2721-0cec-3007-99c9-11c548e515e3 | -1.4923 | -45.7903 | 2025-12-02 03:30:00 | GOES-19 | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 81.9 |
+| 6d1a3ebb-1fcc-3c4f-b523-ccb259e44ecd | -1.4737 | -45.7907 | 2025-12-02 03:30:00 | GOES-19 | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| 4653a04c-c0f6-3b35-90ce-63d314045823 | -8.0324 | -43.1022 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 92.7 |
+| f60d8402-61f7-362e-8ed7-2fdd1258e4c9 | -8.163 | -43.229 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 88.1 |
+| 9e2edb37-2178-364c-a2f1-48b28e18a992 | -8.1633 | -43.2055 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 77.0 |
+| b3273198-9652-3411-98ec-5db99d53a36c | -8.051 | -43.1237 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 84.5 |
+| ae882c87-13bd-3a10-915f-9f89f75b2e22 | -8.0516 | -43.0765 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 93.6 |
+| 2738fe30-caac-3ba4-b282-09fa9006ab62 | -8.0703 | -43.0981 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 105.3 |
+| 40c4cd95-cd00-3f36-b553-d5969134e55a | -11.1382 | -53.9223 | 2025-12-02 03:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 46.3 |
+| de6d33e1-da92-3d5a-ad13-309c23ed8147 | -8.0513 | -43.1001 | 2025-12-02 03:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 238.4 |
+| 6e0274b8-a9a8-3043-97c4-0db050e5499d | -11.1379 | -53.9429 | 2025-12-02 03:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 62.4 |
+| fa39979d-4ea7-32a5-9e27-92962942acd9 | -3.2565 | -45.5607 | 2025-12-02 03:40:00 | GOES-19 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 68.9 |
+| 76e26996-1c74-3c7f-996a-616cb60c4d41 | -8.163 | -43.229 | 2025-12-02 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.4 |
+| 9f3985e9-a30f-3688-be11-0108eb829fda | -8.051 | -43.1237 | 2025-12-02 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 83.5 |
+| 0542ca0c-12cc-3d80-b8d3-aa3ca9c0685f | -8.0513 | -43.1001 | 2025-12-02 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 309.8 |
+| c1b496e2-dab2-30d7-8f67-0cad976eab55 | -3.2379 | -45.5615 | 2025-12-02 03:40:00 | GOES-19 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 94.4 |
+| 3a372670-d15a-36cc-89f3-443b40013559 | -11.1379 | -53.9429 | 2025-12-02 03:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 62.5 |
+| 375e57ed-3844-359c-a469-f1cddf0417c1 | -8.0703 | -43.0981 | 2025-12-02 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.5 |
+| da6862ec-d288-3096-a42a-f50300acbb1d | -1.4923 | -45.7903 | 2025-12-02 03:40:00 | GOES-19 | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 63.7 |
+| 8d6eb8f9-6ef4-3576-bdae-f5525adfa496 | -8.0324 | -43.1022 | 2025-12-02 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 74.7 |
+| e9086bf9-2a64-3558-8661-0d37e52fbc2a | -1.4737 | -45.7907 | 2025-12-02 03:40:00 | GOES-19 | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 85.4 |
+| 0a6bfe60-9192-3860-b08b-0f7791ec4789 | -8.0516 | -43.0765 | 2025-12-02 03:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.5 |
+| 3eb99feb-b646-31b5-b65e-408d8db5dc22 | -3.23717 | -45.57722 | 2025-12-02 03:46:00 | NPP-375D | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| f73eacaa-2694-36e2-8062-924aa5c52f50 | -3.3208 | -42.50206 | 2025-12-02 03:46:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c2edc377-f388-3e86-b8b5-0d0824227f26 | -1.48346 | -45.78761 | 2025-12-02 03:46:00 | NPP-375D | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 20.7 |
+| b4a468dc-a387-35d1-9f14-57f17ae25d80 | -4.02322 | -40.21493 | 2025-12-02 03:46:00 | NPP-375D | SANTA QUITÉRIA | CEARÁ | Brasil | 2312205 | 23 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 01a6e3e8-1376-355a-a56b-6b06fbc07957 | -7.44164 | -42.5461 | 2025-12-02 03:46:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 123d3a9f-6a03-3e60-8370-4a0a25b5ddcc | -9.80465 | -37.64678 | 2025-12-02 03:46:00 | NPP-375D | POÇO REDONDO | SERGIPE | Brasil | 2805406 | 28 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 9f2ffa5e-8af8-3f62-975c-c486a4b6be6c | -4.37426 | -43.15374 | 2025-12-02 03:46:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 888b8391-382c-3dc2-9d49-6fecf722f374 | -8.04092 | -43.1011 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 740a7936-a868-326d-80f4-7f49491077d6 | -8.05996 | -43.10446 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 31.9 |
+| 08dc3c13-f4b0-313c-a377-6814c05f857d | -6.68672 | -43.54826 | 2025-12-02 03:46:00 | NPP-375D | SÃO JOÃO DOS PATOS | MARANHÃO | Brasil | 2111102 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 575daed0-0b74-362b-ae88-54adba6e604b | -1.47992 | -45.79676 | 2025-12-02 03:46:00 | NPP-375D | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 13.2 |
+| 7d9ae46c-be78-3714-b6cf-c930938910a2 | -4.37782 | -43.1509 | 2025-12-02 03:46:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 37550d9d-a4fc-3bf3-bf5b-69a78c3768b9 | -8.03919 | -43.13797 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| bef036cd-2366-3768-bd5b-d63b87bf4aeb | -8.04895 | -43.11112 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 9.9 |
+| 898e0a36-ddfd-3ef1-95ba-9ebf921223a3 | -7.34651 | -34.89436 | 2025-12-02 03:46:00 | NPP-375D | ALHANDRA | PARAÍBA | Brasil | 2500601 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| cc9f0b6c-edfd-3dd5-b016-2605c8153eef | -8.73535 | -39.6802 | 2025-12-02 03:46:00 | NPP-375D | SANTA MARIA DA BOA VISTA | PERNAMBUCO | Brasil | 2612604 | 26 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 1b5af66b-01a8-3bae-bb78-8091a71e7289 | -3.32668 | -42.49735 | 2025-12-02 03:46:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0e01d598-18d0-3925-9492-d37751a67d9a | -4.3834 | -43.14883 | 2025-12-02 03:46:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 752e8b58-e26f-348d-87d9-5dc6d178947f | -6.24185 | -40.29935 | 2025-12-02 03:46:00 | NPP-375D | ARNEIROZ | CEARÁ | Brasil | 2301505 | 23 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 69949fd3-81db-3446-8639-87496effcd5b | -1.47716 | -45.78645 | 2025-12-02 03:46:00 | NPP-375D | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| bda47fc9-7d59-3fea-b186-bd72b7af3cbc | -8.04507 | -43.10513 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 49.2 |
+| b3cc06f8-7586-3243-986e-92c5722c76bb | -1.48623 | -45.79789 | 2025-12-02 03:46:00 | NPP-375D | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | 13.2 |
+| 5cd62aa5-9f0a-3b46-b993-64c0f129e756 | -8.0486 | -43.11303 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 23.0 |
+| 57bbf9c2-73ed-398b-885f-20f417d6146a | -8.16644 | -43.22134 | 2025-12-02 03:46:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 18.4 |
+| 9453cba2-5ab1-365a-834a-b0580351c7ba | -5.09135 | -40.23926 | 2025-12-02 03:46:00 | NPP-375D | TAMBORIL | CEARÁ | Brasil | 2313203 | 23 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| c585cbb6-9be0-343d-b7a9-bb93a22de2dc | -5.1299 | -36.42856 | 2025-12-02 03:46:00 | NPP-375D | GUAMARÉ | RIO GRANDE DO NORTE | Brasil | 2404507 | 24 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 7d1b6b60-dd62-3a55-b570-22ee19919437 | -4.37883 | -43.14501 | 2025-12-02 03:46:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 818c4910-315e-3072-a349-beec963096d6 | -7.91621 | -43.78844 | 2025-12-02 03:46:00 | NPP-375D | ELISEU MARTINS | PIAUÍ | Brasil | 2203602 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| b80a26d6-c4b2-3379-8d3d-ab123df26102 | -7.44083 | -42.55076 | 2025-12-02 03:46:00 | NPP-375D | SÃO JOSÉ DO PEIXE | PIAUÍ | Brasil | 2210102 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| d397dc37-1ce9-39b0-bdf5-c889c3013496 | -1.68848 | -45.79603 | 2025-12-02 03:46:00 | NPP-375D | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 789cf145-7798-3149-8726-27d9b967d2cc | -3.23796 | -45.57264 | 2025-12-02 03:46:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 8.1 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)
