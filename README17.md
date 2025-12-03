@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2666be5d-4d7c-3c61-a263-86771fc944bb | -15.97124 | -56.62566 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 1602f888-ab1d-3d7a-a9e9-5110c2bd4f5d | -17.73508 | -57.24901 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| 18ae31aa-0a26-3bce-8cee-52f95b04b154 | -17.56015 | -57.1812 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| a1d291f3-849f-3d78-8723-7e720f21d79b | -17.51895 | -57.20631 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| e332cc28-cf63-3197-9832-215eca77be4e | -14.6022 | -56.04005 | 2025-12-02 05:29:00 | NPP-375D | NOBRES | MATO GROSSO | Brasil | 5105903 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 5bd3e2c7-266e-378c-976e-32914843da86 | -17.55047 | -57.15459 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.2 |
-| 8e68cef7-5fd4-3a52-9fa0-d34d89f2bccd | -17.50779 | -57.19223 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 3361fe84-07e5-3c18-90e9-ecec2419db63 | -16.33138 | -57.56974 | 2025-12-02 05:29:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 1adcb50a-eb5a-3110-98c6-28059ebb6351 | -17.51469 | -57.20572 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
-| 7f986a9b-1a96-3a7a-9103-7e6107f4b4bc | -17.49927 | -57.19104 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| ad9e3e8f-ae16-3dc1-b9d4-3bde6a7536ae | -16.76578 | -55.10594 | 2025-12-02 05:29:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 8.8 |
-| ae547274-25fc-3c65-adfa-0ee3b0650feb | -17.49874 | -57.19516 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| f4afe1fd-4e6f-3d08-a3b4-2722cb3ae1eb | -17.503 | -57.19574 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| f70990d9-e8ef-38eb-ad8b-adc271fd61c1 | -14.07766 | -56.16561 | 2025-12-02 05:29:00 | NPP-375D | NOVA MUTUM | MATO GROSSO | Brasil | 5106224 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| d64172b1-a79e-3604-8228-7ffb315a96e6 | -17.55589 | -57.1806 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| d6b37b1c-84b0-345f-8b1b-e2c9247dff29 | -17.51821 | -57.20464 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 48e313b6-dfd6-3832-b207-d9be6bdc715b | -17.52267 | -57.211 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 6ad32e6c-b13a-3698-923c-18765769d593 | -14.07331 | -56.16506 | 2025-12-02 05:29:00 | NPP-375D | NOVA MUTUM | MATO GROSSO | Brasil | 5106224 | 51 | 33 | nan | nan | nan | Cerrado | 9.4 |
-| 283073bd-2062-3f24-9f21-756ec026ea4f | -16.76513 | -55.1114 | 2025-12-02 05:29:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 7.9 |
-| 9e7d444e-baf3-3a95-b329-ada8ef34983c | -15.11834 | -52.94417 | 2025-12-02 05:29:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5d569b22-307b-3ed2-8133-dbc439a41ad8 | -17.51097 | -57.20103 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.9 |
-| 7f3ba564-0982-3ed2-911c-174770bd25bf | -17.49076 | -57.18987 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 1cd02edc-2ebb-3486-954e-9de380b6922b | -17.52195 | -57.20935 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| d4bab7ed-3dbd-3490-b04c-1e1000ac37a2 | -17.51841 | -57.21041 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 2cf32f1b-8e77-3946-adbf-0280fbf628b3 | -16.76094 | -55.10529 | 2025-12-02 05:29:00 | NPP-375D | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| 5e0b4333-a8c6-3736-8bdd-a605ad0f9c71 | -15.12381 | -52.94487 | 2025-12-02 05:29:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 2f749398-7475-3fd0-9316-9b9b197a7925 | -15.11792 | -52.94782 | 2025-12-02 05:29:00 | NPP-375D | NOVO SÃO JOAQUIM | MATO GROSSO | Brasil | 5106281 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| dc575a56-e489-3186-ad26-666b8c642080 | -17.51446 | -57.19993 | 2025-12-02 05:29:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 2.8 |
-| 7713ab4e-f0af-39d8-901d-8862ea570981 | -13.02656 | -57.21924 | 2025-12-02 05:29:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fbca2744-bc4b-3dd5-b844-33e69891698c | -8.0513 | -43.1001 | 2025-12-02 05:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 113.1 |
-| 720d2edb-9506-34a6-8dbd-c8c47f563eef | -8.0324 | -43.1022 | 2025-12-02 05:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 61.3 |
-| f0669f1d-0bd0-3dbf-8a02-d5a9eb4f8cd4 | -18.84754 | -57.72913 | 2025-12-02 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
-| 8363d664-423a-34e5-8687-8446882b0927 | -19.78601 | -56.67079 | 2025-12-02 05:31:00 | NPP-375D | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| be6b9afd-a140-3e4b-901c-f349fa84b06a | -18.84747 | -57.73167 | 2025-12-02 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| ba54a2e9-8051-382f-8e0b-ebc8c3695671 | -19.78998 | -56.67622 | 2025-12-02 05:31:00 | NPP-375D | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| b660c89a-0afd-3531-aa48-525f5e92de54 | -19.78429 | -56.68523 | 2025-12-02 05:31:00 | NPP-375D | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 44968bf3-82f2-3dad-be29-016cc88781a0 | -18.84845 | -57.72367 | 2025-12-02 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 62c25e45-c3c0-3c98-8b9a-950a77f7bf2c | -19.78372 | -56.69004 | 2025-12-02 05:31:00 | NPP-375D | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 282d7160-6241-33b6-8f4d-a59aa7368fe9 | -18.84796 | -57.72767 | 2025-12-02 05:31:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
-| 0841e497-1d27-3051-9c03-ac6e139e3ab5 | -19.78941 | -56.68103 | 2025-12-02 05:31:00 | NPP-375D | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| f39cbc27-7bce-39b2-bf42-924ddfee0bf2 | -8.0513 | -43.1001 | 2025-12-02 05:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 116.2 |
-| 3912a140-a06c-3d12-ba09-061f1afea7a1 | -3.40567 | -42.45373 | 2025-12-02 05:44:00 | AQUA_M-M | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Caatinga | 4.3 |
-| 85fbbb7c-5450-3cba-93d7-c030ae61bd73 | -2.51342 | -45.28778 | 2025-12-02 05:44:00 | AQUA_M-M | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 22.3 |
-| f50234b9-85a6-37af-9d47-77c1baceface | -3.25984 | -45.55347 | 2025-12-02 05:44:00 | AQUA_M-M | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 11.8 |
-| 424257ea-a268-3232-9609-f6c6052ec16b | 3.48614 | -51.26388 | 2025-12-02 05:46:00 | NOAA-20 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 66a73b1b-8f24-37ce-be93-e40b9cfe4860 | 2.01405 | -55.7115 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| cac06f20-a33d-32c8-b9c4-28c4a79c830d | 2.0146 | -55.71476 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 600233d7-ea5b-3a74-99ea-28e7c3a2c0c6 | 2.01184 | -55.71078 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| af71ff7b-2af3-3d05-a1af-f16758310149 | 2.00637 | -55.71131 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 3c716e89-a19b-3631-92ca-90c3048c2c0a | 2.01569 | -55.7213 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 4faae576-adcb-32fd-8826-ff31ed0ad48f | 2.01884 | -55.7198 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| c018d576-7e95-3f59-9629-057edb666cce | -8.04132 | -43.09583 | 2025-12-02 05:46:00 | AQUA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 22.4 |
-| a46fc212-20d8-391b-bbd4-8f6961ebe00e | -8.17105 | -43.22004 | 2025-12-02 05:46:00 | AQUA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| 4a35be87-76fa-36be-ace6-595cac84933d | 2.01627 | -55.72475 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 296283f7-8f1f-3880-a484-769824fbf118 | -8.05177 | -43.10322 | 2025-12-02 05:46:00 | AQUA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 50.0 |
-| 15109a95-94ab-3749-bfec-ea1bc40e5830 | 2.00915 | -55.71547 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| b15b5150-69f2-3a3b-9a24-9fe927cb25cd | 2.00692 | -55.71471 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 21ecfdad-e0e9-389a-a391-d5c20f611b0a | -8.05314 | -43.09427 | 2025-12-02 05:46:00 | AQUA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 30.9 |
-| 1981af8f-3a59-3558-aafd-c4433a473601 | -8.03996 | -43.10479 | 2025-12-02 05:46:00 | AQUA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 26.2 |
-| c6f25c44-709d-3d56-b770-8e370e405d4e | 2.01238 | -55.71412 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 760838a3-9c3a-38e3-8ca5-c992ced3654c | 2.00859 | -55.71212 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 5a53bb80-1a2f-3fab-be9b-7440cdd80212 | 2.01939 | -55.7232 | 2025-12-02 05:46:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8d2fa953-3486-3fe7-b814-62cf753924dc | 3.47916 | -51.26509 | 2025-12-02 05:46:00 | NOAA-20 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f8e90f71-f30b-348d-bcba-23f6d551650a | -8.17243 | -43.21101 | 2025-12-02 05:46:00 | AQUA_M-M | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
-| 65c88606-685e-3c96-bc66-0ab91f5ce447 | -8.0513 | -43.1001 | 2025-12-02 05:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 78.3 |
-| 029aa2f1-5f8c-3ff6-81c4-76fb09ae0056 | -2.5145 | -45.2949 | 2025-12-02 05:50:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 125.0 |
-| 62c95ea4-5ef5-38d6-8b1c-384fbff13517 | -2.5146 | -45.2724 | 2025-12-02 05:50:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 55.5 |
-| 369bacbd-c598-3aed-a39b-a1b280d59dda | -8.0703 | -43.0981 | 2025-12-02 05:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 56.1 |
-| d955cbd1-501d-3455-afe0-7f1ee53c3163 | -12.04247 | -54.25114 | 2025-12-02 05:50:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| add94d93-eaee-3a7d-85f9-45168b094739 | -14.0735 | -56.17184 | 2025-12-02 05:50:00 | NOAA-20 | NOVA MUTUM | MATO GROSSO | Brasil | 5106224 | 51 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 6ec53233-7e00-3fe2-a848-3ad017d49fa8 | -12.04326 | -54.2439 | 2025-12-02 05:50:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 120e994f-0e98-3191-9c51-4f206f24d351 | -14.07413 | -56.16599 | 2025-12-02 05:50:00 | NOAA-20 | NOVA MUTUM | MATO GROSSO | Brasil | 5106224 | 51 | 33 | nan | nan | nan | Cerrado | 5.3 |
-| ea92f865-ce41-36ec-a2b8-a8d1cab70599 | -17.50017 | -57.19767 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 6a9e928c-26ce-3eb4-b9ea-539ffba6c605 | -17.50658 | -57.19833 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 5aa3cf5f-06c1-3f09-aa42-33b869a4a5a3 | -17.51299 | -57.199 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| c0bd4e97-23b5-347d-aebe-88b97d437acb | -16.76277 | -55.11548 | 2025-12-02 05:52:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| 8366364c-13ee-388f-af96-17567b186074 | -17.5071 | -57.19289 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 56c334cd-2b12-3db0-adc2-7027bee5a5d9 | -17.52478 | -57.2112 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| 69f026a1-0a48-3463-a0ed-ecc6ab607215 | -17.53119 | -57.21186 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.8 |
-| dfefe511-3a23-39b2-aba8-040f8338a0a0 | -17.51248 | -57.20444 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| c725342c-8d07-3df7-bb49-5f8bc718789c | -16.76342 | -55.10824 | 2025-12-02 05:52:00 | NOAA-20 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Pantanal | 2.7 |
-| f0698c79-c5ef-3f4d-9b1f-6a3c55af2cb8 | -17.51837 | -57.21053 | 2025-12-02 05:52:00 | NOAA-20 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 2c309c32-edee-3108-a697-e643056112d7 | -8.1633 | -43.2055 | 2025-12-02 06:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 56.6 |
-| 4455786c-b64d-37c2-ad89-558d2de1fac4 | -2.5145 | -45.2949 | 2025-12-02 06:00:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 96.6 |
-| 8aee4d0a-f83d-3efc-98a2-0838e1bb59eb | -8.0513 | -43.1001 | 2025-12-02 06:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 94.3 |
-| 5482a125-13c1-353b-9d8e-1f83109e5eca | -8.0513 | -43.1001 | 2025-12-02 06:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 87.7 |
-| 056e2167-d0ec-32c1-aeac-99f4920a4c6b | -8.163 | -43.229 | 2025-12-02 06:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 60.8 |
-| e01395cb-32c2-3868-91a4-1418942d41fb | -8.1633 | -43.2055 | 2025-12-02 06:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 67.2 |
-| 1e200384-28bc-3f74-84af-56dec13c0218 | -8.0513 | -43.1001 | 2025-12-02 06:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 96.5 |
-| 5327f747-920b-3c89-bc7a-49686c27dab4 | -8.163 | -43.229 | 2025-12-02 06:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 66.2 |
-| d7c84535-3cc1-330a-a282-7d1eddd13198 | -8.1633 | -43.2055 | 2025-12-02 06:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 68.1 |
-| b306ba3a-8a1e-3d3d-b246-ab42b576aa15 | -8.1822 | -43.2034 | 2025-12-02 06:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.8 |
-| b812124e-8988-3c20-8308-4c215ea72a89 | -8.163 | -43.229 | 2025-12-02 06:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 60.8 |
-| 1b03d3fd-c154-34b0-ac6e-646e05d79740 | -8.1633 | -43.2055 | 2025-12-02 06:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.7 |
-| 8a4f1a50-c8cd-3dde-9c37-bc73d6e0513c | -6.42875 | -37.89676 | 2025-12-02 11:36:00 | TERRA_M-M | BOM SUCESSO | PARAÍBA | Brasil | 2502300 | 25 | 33 | nan | nan | nan | Caatinga | 10.5 |
-| 658cc83e-c2f0-3d9a-99cc-80891c3613b0 | -6.7785 | -37.31689 | 2025-12-02 11:36:00 | TERRA_M-M | SÃO JOSÉ DE ESPINHARAS | PARAÍBA | Brasil | 2514404 | 25 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| 2e52e313-58ee-3383-af1d-baee6325f3b5 | -6.1069 | -38.52364 | 2025-12-02 11:36:00 | TERRA_M-M | PEREIRO | CEARÁ | Brasil | 2310803 | 23 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| c9a90e35-e8e7-3304-821a-bb446ae500bd | -6.77723 | -37.32595 | 2025-12-02 11:36:00 | TERRA_M-M | SÃO JOSÉ DE ESPINHARAS | PARAÍBA | Brasil | 2514404 | 25 | 33 | nan | nan | nan | Caatinga | 9.5 |
-| 74b3027d-2aaf-331d-975b-f42d59829a0c | -8.43162 | -36.5721 | 2025-12-02 11:36:00 | TERRA_M-M | SANHARÓ | PERNAMBUCO | Brasil | 2612406 | 26 | 33 | nan | nan | nan | Caatinga | 38.5 |
-| 4a4dc0c9-85c2-3143-a3ca-8366a1239ce7 | -7.82051 | -35.37516 | 2025-12-02 11:36:00 | TERRA_M-M | LAGOA DO CARRO | PERNAMBUCO | Brasil | 2608453 | 26 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
+| a7a228dc-3204-37f9-b89b-0b977842f164 | -2.94028 | -53.28305 | 2025-12-03 05:08:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 82beb930-f139-30ee-8ecc-284dab84ddc8 | -2.19091 | -53.82983 | 2025-12-03 05:08:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ed96f8d8-d50c-3184-9df2-c1d887aff83e | -3.04881 | -48.41809 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| d6a839f2-9ca2-320b-a44f-2ea8baae15ea | -2.70126 | -49.30879 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a2540964-800a-32bd-95cc-b0109b865ef1 | -2.70549 | -49.30943 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| f9300dab-8bd7-3c07-9503-93d3f1ac5e2c | -1.41186 | -55.26811 | 2025-12-03 05:08:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 0dcd4dff-f3ca-342e-88f5-f40de6d7a697 | -2.84184 | -51.06277 | 2025-12-03 05:08:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c598a179-28b0-3bb9-94eb-689040b6e5af | -2.62133 | -45.14197 | 2025-12-03 05:08:00 | NPP-375D | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| 9dd4eabc-cc60-3815-9929-1985de11cd49 | -3.24103 | -45.54598 | 2025-12-03 05:08:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 3a140d60-f8cd-3078-8010-fdfaafe63843 | -2.35809 | -50.10623 | 2025-12-03 05:08:00 | NPP-375D | OEIRAS DO PARÁ | PARÁ | Brasil | 1505205 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 1c3c6228-145e-3aad-acb9-036ded442b4a | -2.57213 | -46.88589 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 6472a569-7648-358c-9cc1-ae7d6e63065f | -3.77187 | -50.13665 | 2025-12-03 05:08:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5bcd4891-fa70-3158-b0e3-74e771738b96 | -3.2225 | -46.86561 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| f4993300-0070-34a9-b827-9be7610510bb | -2.57303 | -49.09921 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 183d2868-80dc-383c-b875-ddb907ef7395 | -3.84651 | -47.05947 | 2025-12-03 05:08:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 555543f7-3e25-32ad-9b36-b98d3c51abbb | -1.43776 | -55.19064 | 2025-12-03 05:08:00 | NPP-375D | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 19b79054-aa58-31f0-a475-5ce17aa16d12 | -3.24763 | -45.53959 | 2025-12-03 05:08:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 87448872-83ea-327e-855f-6f6581766341 | -1.98561 | -46.47694 | 2025-12-03 05:08:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 19f5feaa-ac58-3cce-850d-a0c878d4b4b0 | -1.05834 | -53.10114 | 2025-12-03 05:08:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 60d2e676-e534-3b4f-94f7-92370114cca2 | -2.83322 | -50.4677 | 2025-12-03 05:08:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 105fc82b-7c97-34f8-8be8-d66433a68ba4 | -3.15045 | -50.56332 | 2025-12-03 05:08:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 189307f5-e33d-3dbf-99dc-b7a27fb968bc | -3.85068 | -47.0661 | 2025-12-03 05:08:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 858a0e06-cb71-3869-9101-20e35a5d0d5b | -3.24156 | -45.54238 | 2025-12-03 05:08:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| b7de68aa-ec56-3b6f-83c8-19905bd7d4ea | -2.60665 | -49.25052 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 0e3ef3bc-a5f5-3281-b976-64cdcdff605d | -1.13623 | -53.80327 | 2025-12-03 05:08:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| fceb14c1-54ca-3e29-9450-c313561386be | -2.99113 | -49.52325 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| f379a5c2-65ff-3277-aacb-5ed773577971 | -2.93515 | -53.27111 | 2025-12-03 05:08:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 86bc1855-a014-3b40-8d36-84d5c6015f0b | -1.06519 | -53.60914 | 2025-12-03 05:08:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 7e7941b9-c00c-37fe-bb4e-4f3ae5e548c5 | -2.70488 | -49.31335 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 47344e36-a422-3fb1-8266-848e05e3ed50 | -2.41199 | -48.65034 | 2025-12-03 05:08:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a0ccbc78-27ca-362c-80f5-6e2926be39d8 | -3.23602 | -45.5416 | 2025-12-03 05:08:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 2acd615a-dc7b-3ee0-9b56-30a2ac3d25c5 | -3.19129 | -41.85345 | 2025-12-03 05:08:00 | NPP-375D | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 6add4a40-7924-3b69-b3db-eb5054d97e56 | -2.60604 | -49.25444 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 39487fac-984f-3d88-8630-ce3d15a7159a | -3.22364 | -46.86502 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 46e8b18a-6961-39b2-a857-00426d1db6e4 | -3.36188 | -46.85402 | 2025-12-03 05:08:00 | NPP-375D | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f7df902c-b5e8-3586-bfb7-fc4e2f8d08e7 | -5.9031 | -43.7198 | 2025-12-03 05:08:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| fbe44a20-294b-31cb-bd46-f01a2dbab033 | -1.9107 | -46.28557 | 2025-12-03 05:08:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ca9798d0-466e-33e0-a10a-336fa1dbbf16 | -3.22318 | -46.86797 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 3931fc19-8d73-3d3e-b308-339e0fa56c62 | -3.67723 | -47.61638 | 2025-12-03 05:08:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 89875d1e-c946-386e-a45d-1feceae2c657 | -2.6012 | -49.25768 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 811ac5f8-c10f-35ce-abad-d751062a984b | -5.90334 | -43.71918 | 2025-12-03 05:08:00 | NPP-375D | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| ff46e14a-412a-3670-ae73-0cc58f0766ff | -4.66688 | -46.30889 | 2025-12-03 05:08:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c2a36e44-543a-3aeb-9327-891ab9d2dbc4 | -1.49768 | -52.03768 | 2025-12-03 05:08:00 | NPP-375D | GURUPÁ | PARÁ | Brasil | 1503101 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| bcfc27e2-e2c3-3941-9df7-e1c08db6dc53 | -2.57298 | -46.88049 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 69130c23-751e-356b-93a8-da3e5d59b5ed | -3.2865 | -50.08217 | 2025-12-03 05:08:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0cf68b8c-4ad4-3165-a92d-8d3c2db5bd83 | -3.22207 | -46.86856 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 23015336-001a-3963-b1b6-3cbb646ddfda | -3.96318 | -46.58664 | 2025-12-03 05:08:00 | NPP-375D | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3b7a1fbd-1e9a-34ec-bd5c-cb09a0db8936 | -3.77594 | -50.13727 | 2025-12-03 05:08:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 338b2c3f-0b7e-3e08-8d06-023fe0a6a978 | -2.38281 | -47.69687 | 2025-12-03 05:08:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 753ce675-869f-30f2-a254-5951c16d6658 | -2.61843 | -45.13919 | 2025-12-03 05:08:00 | NPP-375D | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 3656805b-44c7-34ad-b6c6-2b63f4a2141c | -2.83792 | -50.46335 | 2025-12-03 05:08:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 6f00d6f4-309e-37d5-8a92-da56e808fd79 | -1.90772 | -46.27903 | 2025-12-03 05:08:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.2 |
+| 160efa36-70a6-307b-911a-c01f7fbd678c | -2.92318 | -48.22795 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e4318271-2d61-3b25-a75a-bd0ad6af4312 | -5.38569 | -46.75723 | 2025-12-03 05:08:00 | NPP-375D | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 498ec424-d01f-3afb-8a3b-68273240cfd7 | -2.80117 | -52.90124 | 2025-12-03 05:08:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 199ed06c-6d55-3259-88da-176c4554ab99 | -3.53316 | -49.98702 | 2025-12-03 05:08:00 | NPP-375D | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 08e13391-6e19-3d8b-b99a-35ca99e6547f | -3.31178 | -42.50704 | 2025-12-03 05:08:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 6749b2d7-a4a1-34a4-86fe-bd07866bf491 | -3.22756 | -46.86639 | 2025-12-03 05:08:00 | NPP-375D | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 771e872c-1593-33e0-a4bc-e9afb5b17697 | -2.38266 | -49.38842 | 2025-12-03 05:08:00 | NPP-375D | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| ec386bea-0dc1-3ed6-b620-9f50b71b15ac | -3.25316 | -45.54044 | 2025-12-03 05:08:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 16f23803-2483-3c7a-8ddb-c27e2a03d452 | -1.11238 | -53.17962 | 2025-12-03 05:08:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c071b541-c0b4-3488-b419-40adeede7531 | -3.60075 | -47.26582 | 2025-12-03 05:08:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 7588eb36-9096-3a20-a7aa-6f783bd1340f | -3.63499 | -48.89513 | 2025-12-03 05:08:00 | NPP-375D | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| f5b8565a-c956-3619-9859-8fdf78125142 | -2.73998 | -49.33333 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 42f58fb6-90b9-3002-a449-db422162d33a | -2.93458 | -53.27475 | 2025-12-03 05:08:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a036af1d-f36d-36f5-9553-b9d138f55902 | -1.98157 | -46.48192 | 2025-12-03 05:08:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3691eb33-f48b-3035-b4c5-403ef4b074ae | -2.63918 | -48.03889 | 2025-12-03 05:08:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 482792a3-c4e4-3d03-a4fb-cf713b2e17a2 | -2.20647 | -47.99746 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| bfb61a1a-072e-3303-b5fa-16015ddf1a06 | -2.89245 | -53.29829 | 2025-12-03 05:08:00 | NPP-375D | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 5205d031-939e-32ce-aa72-dba2f8bdd079 | -2.17311 | -48.36994 | 2025-12-03 05:08:00 | NPP-375D | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 92458d7d-643a-35a5-aa16-7a042fabbb4c | -2.46484 | -51.25571 | 2025-12-03 05:08:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 50526c9d-2c11-37c4-90be-cbbd0808e604 | -2.98334 | -49.51809 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| 59fd96fa-4970-35ea-ac97-b39832777961 | -1.8663 | -48.0224 | 2025-12-03 05:08:00 | NPP-375D | CONCÓRDIA DO PARÁ | PARÁ | Brasil | 1502756 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| ff40272c-1d58-3661-8abb-f58feda15797 | -3.85739 | -47.05542 | 2025-12-03 05:08:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 68563aac-9b88-3d4c-841a-c46b75f4ef7e | -2.35729 | -50.11136 | 2025-12-03 05:08:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 6ce8da2c-853e-3a70-9088-f287deb508c4 | -3.85195 | -47.05743 | 2025-12-03 05:08:00 | NPP-375D | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| aeb34a05-df80-385f-b163-a3958a962e51 | -2.09106 | -53.41801 | 2025-12-03 05:08:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| ec8aa25d-b25b-38d9-af4b-8807084338f2 | -1.91196 | -46.28597 | 2025-12-03 05:08:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| dbcc5996-7575-3f55-baf8-db21036e517d | -2.24629 | -48.31297 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 0a8a2ba6-85bb-3764-9a22-01e830ad402e | -2.21036 | -48.00285 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 04c9afc3-076a-3aed-8090-dc9efa20f4ad | -2.60181 | -49.25377 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 71384e92-53fb-3686-a806-298bc3d47ce4 | -2.6006 | -49.26158 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 95d46e27-0c97-3e43-93d3-a3c81fe3af43 | -4.41479 | -47.60139 | 2025-12-03 05:08:00 | NPP-375D | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 6f941f51-83c4-3c47-8283-359e5464ae83 | -1.06854 | -53.60966 | 2025-12-03 05:08:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| b73cd0bf-b6c5-3506-9299-d8e29ea6bc2b | -1.30998 | -55.46583 | 2025-12-03 05:08:00 | NPP-375D | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 4c32db67-25fd-3124-a71b-00d205f240b2 | -3.43288 | -49.48079 | 2025-12-03 05:08:00 | NPP-375D | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d19da8fd-8975-32c3-b354-148eaa97cae4 | -1.93233 | -52.11737 | 2025-12-03 05:08:00 | NPP-375D | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| a153add0-f424-3097-af86-b67e6b03fec9 | -2.62712 | -48.05629 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| dfde4eb5-4483-3208-80ca-7c55f4a364bb | -3.2471 | -45.54319 | 2025-12-03 05:08:00 | NPP-375D | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e011360e-442a-3f32-9b76-eaa7a3d1a678 | -1.15409 | -53.88459 | 2025-12-03 05:08:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 57d2c16b-4098-3c7f-93b0-94c3e534e4b0 | -3.2451 | -50.16298 | 2025-12-03 05:08:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| efe78c42-95ac-3a0c-b585-9f9b3819fe4d | -2.15261 | -53.53718 | 2025-12-03 05:08:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 177f5101-54ea-3f11-83d4-4a01ddd7f31b | -2.98753 | -49.51877 | 2025-12-03 05:08:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 3017163e-5be9-33a3-94e6-726bb993ae8e | -8.04632 | -43.09658 | 2025-12-03 05:08:00 | NPP-375D | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 50b26fd2-e100-3fed-bf55-480437e7fd22 | -1.29066 | -53.18076 | 2025-12-03 05:08:00 | NPP-375D | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| f015e586-ca5e-38f1-8de3-8a345ec15b05 | -3.60189 | -47.26699 | 2025-12-03 05:08:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| d3730cc2-7a77-378c-afca-a0817c119fd6 | -3.0436 | -48.42192 | 2025-12-03 05:08:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 86b3a047-9356-3c28-b893-d08b43c0e0a1 | -1.93932 | -50.33251 | 2025-12-03 05:08:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 8954a899-af7a-37df-8ca1-8847f701d7fe | -2.66052 | -54.08955 | 2025-12-03 05:08:00 | NPP-375D | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| acda09e6-1024-37bb-945c-f411a1f1c8d1 | -1.98204 | -46.47891 | 2025-12-03 05:08:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
 
 
 [Clique aqui para ver as próximas entradas](README18.md)
