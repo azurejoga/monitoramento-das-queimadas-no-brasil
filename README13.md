@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 323fe4fa-473a-37d9-81e1-fa5d9a49c893 | -3.23925 | -45.56792 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 15.4 |
-| 0a8a45f5-e656-34cc-9eac-986fd6a20d0c | -2.57231 | -47.16201 | 2025-12-03 04:38:00 | NOAA-21 | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b45ce2d4-6f3d-335d-996c-16a579911e06 | -2.74331 | -49.33419 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a0e5e701-cb1f-3d56-8b80-b76e6dc186ad | 1.37154 | -50.69831 | 2025-12-03 04:38:00 | NOAA-21 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 87c602f3-40aa-326c-9eb9-11c428f8f5aa | -2.59539 | -49.258 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| f16cc551-af4e-3128-9f69-66a46ae9b419 | -3.76047 | -50.15256 | 2025-12-03 04:38:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| bcb18027-f1df-3773-8d95-8bebd9966ff7 | -5.68947 | -47.51003 | 2025-12-03 04:38:00 | NOAA-21 | ITAGUATINS | TOCANTINS | Brasil | 1710706 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| d21660e8-8d8c-3f6d-811a-915d9552bc49 | -3.63223 | -48.89526 | 2025-12-03 04:38:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9e1baab8-b624-3b05-a66c-0621ee6f7e87 | -3.03691 | -50.23752 | 2025-12-03 04:38:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 4f767818-8b5c-39df-9d1a-0fd2c8b5e551 | 1.99558 | -55.70966 | 2025-12-03 04:38:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 98db6ced-0bc9-3576-af48-b021aceed8d7 | -2.99536 | -47.89847 | 2025-12-03 04:38:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8f44e972-2c2a-3572-8cfb-9a74002c83d6 | -2.60148 | -49.26249 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 8a418241-30d2-3f57-b122-c57a881981de | -1.91832 | -52.17439 | 2025-12-03 04:38:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 4167d735-c637-3ce5-95bc-19a6e2bd5a8a | -2.99815 | -47.90245 | 2025-12-03 04:38:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f48f79ee-2b3e-3cf8-9767-b4002d314879 | -3.24172 | -45.56585 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 00c4a460-b55f-38b7-a667-cb9179466d28 | -3.5937 | -47.26689 | 2025-12-03 04:38:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 1abb2e43-89d7-3d98-b664-3ba04c3a278c | -3.2296 | -45.57248 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| cc792ba7-03e8-30bf-b9ef-f9af20dacb46 | -3.53764 | -49.94675 | 2025-12-03 04:38:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 9d31c978-c47a-3bad-b6ed-ec89be2b53a6 | -3.19303 | -41.85158 | 2025-12-03 04:38:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 14.0 |
-| 2b09bf55-652b-394f-a438-337acf1f72c2 | -3.25981 | -45.55409 | 2025-12-03 04:38:00 | NOAA-21 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 04537995-45c9-3a72-918b-edf63df14d61 | -3.63083 | -53.65887 | 2025-12-03 04:38:00 | NOAA-21 | URUARÁ | PARÁ | Brasil | 1508159 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 0431b272-10e7-32e0-9abb-475c5bb1c724 | 2.87176 | -60.26258 | 2025-12-03 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7dc21ca1-4122-3576-abce-1d0f509742f3 | -5.38724 | -46.75641 | 2025-12-03 04:38:00 | NOAA-21 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 29efbb2a-e247-32b6-93a9-0396217292fb | 0.21113 | -50.99574 | 2025-12-03 04:38:00 | NOAA-21 | MACAPÁ | AMAPÁ | Brasil | 1600303 | 16 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 38159d09-2b94-3f92-9520-308e4098c4cb | -3.84971 | -47.06394 | 2025-12-03 04:38:00 | NOAA-21 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| cf4ee90a-8706-3c92-87bc-fec257033d49 | -3.28653 | -50.07788 | 2025-12-03 04:38:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 6beb4d68-6243-3a7c-8f6a-6351ed55ae7b | -3.476 | -51.3672 | 2025-12-03 04:38:00 | NOAA-21 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 3bc4894a-ff3b-3f15-b528-e2bb571f9ffa | -2.89006 | -50.47906 | 2025-12-03 04:38:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 2962ff13-357f-359c-b767-c0e1064477cf | -4.12175 | -50.08573 | 2025-12-03 04:38:00 | NOAA-21 | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 07d2103d-f818-3dde-bce7-9cf54b7ac0a7 | -3.22367 | -45.5631 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| eaf4fb52-1c8c-3a8b-ab49-fc52ec8d49dd | 1.37043 | -50.69944 | 2025-12-03 04:38:00 | NOAA-21 | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c5cad62b-7c53-3cbf-a636-2f321938ff10 | -2.57606 | -46.88241 | 2025-12-03 04:38:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| acdf0d5b-938e-3121-b738-d0285fb1919c | -2.5987 | -49.25851 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| f0fda3f0-9def-3cd6-a58c-4c60e288a503 | -3.53088 | -49.98914 | 2025-12-03 04:38:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c91274a2-4efc-3d4a-904a-ae7e1821e23b | -3.24459 | -45.5815 | 2025-12-03 04:38:00 | NOAA-21 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 72248f58-132d-31fa-aec9-928e5f430fe8 | -2.98355 | -49.51471 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 211b13fe-b27e-3dd0-b765-3f8abf969a1d | -2.84011 | -50.46372 | 2025-12-03 04:38:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| eea3b67d-4568-3106-b451-598cc141e52d | -3.23977 | -45.57829 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 1a96d14e-99ef-3129-96c7-4d844a890c21 | -2.9264 | -48.23083 | 2025-12-03 04:38:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 7989a2c0-6737-3589-810c-a30c4a2c5c4b | -2.43946 | -47.19269 | 2025-12-03 04:38:00 | NOAA-21 | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 2eed37f4-9361-3cb3-9cb7-a36c3a0f8b81 | -1.05911 | -53.10091 | 2025-12-03 04:38:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 4809d94b-5873-3ea2-a037-1c80c8c18bce | -2.78812 | -47.41753 | 2025-12-03 04:38:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| f604b3cc-1894-3429-ba96-87bb26b03591 | -3.23321 | -45.57303 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 032d81ca-444a-3dba-8696-3a23dc846dfe | -2.27048 | -46.95783 | 2025-12-03 04:38:00 | NOAA-21 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ea619822-c257-3de4-b1d8-d4967a856616 | -2.24175 | -48.52175 | 2025-12-03 04:38:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ef7c5d84-16d4-38d4-822b-c45b413d52e7 | -2.1899 | -51.9767 | 2025-12-03 04:38:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 89768560-df16-3f72-a835-0fda7b5bb097 | -3.0496 | -48.42334 | 2025-12-03 04:38:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| ae3d0baf-27bf-3451-859e-e9e4ca29d294 | -2.03865 | -46.59471 | 2025-12-03 04:38:00 | NOAA-21 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c7b2043b-82a0-3e1b-8386-e710dcc8376c | -3.24646 | -45.56907 | 2025-12-03 04:38:00 | NOAA-21 | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| ce846ad0-3437-367a-a225-044d4c3df87e | -3.22535 | -45.57608 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 14be66a7-9109-3a80-965f-87dc23850feb | -4.278 | -48.09106 | 2025-12-03 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 80e6d9f9-a657-3d0e-ab68-d2d1fa26c4c1 | -2.5755 | -46.88601 | 2025-12-03 04:38:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d7fc4f58-b225-39a1-9572-9aace3fed9e6 | -3.27837 | -50.75526 | 2025-12-03 04:38:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| efbbbf28-fa35-39bd-9a82-be00ed2a3324 | -3.24536 | -45.55182 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| dfd759d7-d8b9-3039-a748-eab508f349cc | -3.63607 | -48.89233 | 2025-12-03 04:38:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| d9eba7b3-5e35-3aee-bcba-67e007f252a4 | 0.49275 | -51.15884 | 2025-12-03 04:38:00 | NOAA-21 | PORTO GRANDE | AMAPÁ | Brasil | 1600535 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 7f2ad20f-a0e1-3022-ac9c-0eebaf173667 | -2.38421 | -48.95554 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 8dd8c3f7-8220-33a7-89d7-66cf72bcd9f1 | -2.5722 | -49.10197 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4f2086e5-48d9-3bd2-ab88-204f6f00e9e8 | -3.90869 | -43.96348 | 2025-12-03 04:38:00 | NOAA-21 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| a4c9c0a4-f854-37d0-9b43-f4484f8ca3bb | -3.23644 | -45.55228 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| c9ff0639-de2c-3aa4-b2b8-13b274f9751f | -2.90095 | -45.35094 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 74afad9c-bcd2-33cf-b28d-96cbded9b841 | -1.19614 | -53.09137 | 2025-12-03 04:38:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 8f9426e7-e8bc-3d1f-8ae7-065b0de723be | -3.22581 | -45.7303 | 2025-12-03 04:38:00 | NOAA-21 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 2f88f106-3717-3171-a923-9e4c0dfdba2e | -3.22793 | -45.55949 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| fbe3192d-57bf-3687-a3b6-292852eacd19 | -2.95624 | -49.14828 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 2f7a5fef-2441-3a13-9ad5-e43c01851ee0 | -2.31126 | -45.67479 | 2025-12-03 04:38:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 58eba7e6-a1f2-3678-b6fb-a77c4bf095ba | -6.28469 | -39.68885 | 2025-12-03 04:38:00 | NOAA-21 | ACOPIARA | CEARÁ | Brasil | 2300309 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 01501a97-7535-394c-ba86-c76a2c41fbda | -3.67651 | -50.44092 | 2025-12-03 04:38:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 4e1ab66d-40b4-3d28-adcd-e42241162ae0 | -2.8367 | -50.46319 | 2025-12-03 04:38:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.8 |
-| 3ba8b17c-338c-36b7-aaed-6f38360bce23 | -2.19058 | -51.9724 | 2025-12-03 04:38:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 6bc04ff3-9786-383a-becf-d561fcb73a1c | -3.22728 | -45.56364 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 91fe039b-e07e-30cc-8ee8-f1caaa5478eb | -2.84505 | -52.61728 | 2025-12-03 04:38:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 79bd6c51-d228-3bc1-93ca-7b26907cf176 | -3.22831 | -45.58078 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7b2841b7-c535-3066-a82a-0e8b53eabcc6 | -5.39073 | -46.75695 | 2025-12-03 04:38:00 | NOAA-21 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5d060f65-6456-3206-888b-3a09009b2060 | -3.98638 | -47.99896 | 2025-12-03 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| a9860167-f830-37b0-837e-3a7252d6a25f | -3.22174 | -45.57553 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7559953b-9049-33ef-b0df-6f6d2f537eec | -3.52849 | -49.98874 | 2025-12-03 04:38:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c67ede65-3995-3869-8faa-ec0ea6e9ed9d | -3.56137 | -42.70905 | 2025-12-03 04:38:00 | NOAA-21 | MILAGRES DO MARANHÃO | MARANHÃO | Brasil | 2106672 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 79698baa-7b4f-3c9c-8b5b-e91d271c59d0 | -6.26002 | -37.23764 | 2025-12-03 04:38:00 | NOAA-21 | JARDIM DE PIRANHAS | RIO GRANDE DO NORTE | Brasil | 2405603 | 24 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| ef4a3fe3-5c7e-360b-b83f-93416282e24a | -2.94343 | -49.10038 | 2025-12-03 04:38:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 447ea920-31d9-3b79-8953-74049ffd76e3 | -3.23912 | -45.58244 | 2025-12-03 04:38:00 | NOAA-21 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 743e37ca-7e79-3417-a582-b505f84a04bf | -2.92586 | -48.23427 | 2025-12-03 04:38:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
-| b338f549-3801-3b99-8085-92238ffe4f9e | -3.23626 | -45.56319 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 15.4 |
-| 5e0c0ec3-40c1-32d3-b840-613f385e6bd5 | -3.22922 | -45.5512 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| b2aa1001-4f19-3ed7-814d-9851d3d6db59 | -3.98693 | -47.99547 | 2025-12-03 04:38:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1b711fc1-f802-3508-b9f5-4dd59d1f28e7 | -2.21072 | -48.00242 | 2025-12-03 04:38:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| de57303e-a905-3e79-a27c-52aa3b17236c | -2.09056 | -53.41541 | 2025-12-03 04:38:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 06c45a2a-7d81-37d4-9a22-b9ffed4442fe | -1.91826 | -47.91426 | 2025-12-03 04:38:00 | NOAA-21 | CONCÓRDIA DO PARÁ | PARÁ | Brasil | 1502756 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 205135d9-2672-3e01-b375-c57144fab80d | -3.24175 | -45.55127 | 2025-12-03 04:38:00 | NOAA-21 | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 6c677120-a0ef-3a35-a783-a9ea1deeb5cd | -1.94086 | -50.33247 | 2025-12-03 04:38:00 | NOAA-21 | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 4c7cc8dd-3a9b-3609-b682-1953040f845f | -2.62562 | -45.1438 | 2025-12-03 04:38:00 | NOAA-21 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 201af297-31bb-30b1-b726-3f7f68451256 | -5.38664 | -46.76032 | 2025-12-03 04:38:00 | NOAA-21 | AMARANTE DO MARANHÃO | MARANHÃO | Brasil | 2100600 | 21 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 886641c8-dc2a-3c20-bc5d-4306977b3989 | -3.21942 | -45.5667 | 2025-12-03 04:38:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a807428e-57d8-3772-ab8b-6e66b110b518 | -2.48537 | -47.83284 | 2025-12-03 04:38:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 52f16782-d12d-3006-a54b-835d4808317f | -2.53805 | -47.31716 | 2025-12-03 04:38:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 13ac3737-3842-3cbd-a255-1b8f6e447451 | -3.92034 | -47.70045 | 2025-12-03 04:38:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 539c0547-ecca-3516-9fe9-2d727a9d2ac5 | -4.39359 | -43.13961 | 2025-12-03 04:38:00 | NOAA-21 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 23dc4bcf-5e57-37b3-8c16-1a6f9ba2ce67 | -2.93652 | -53.27713 | 2025-12-03 04:38:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| abd140bf-7e0a-358b-9d10-899209c2e405 | -1.51428 | -45.60414 | 2025-12-03 04:38:00 | NOAA-21 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8bedfe4f-a5c0-366f-8af3-ca9b7d9d2c8d | -3.19234 | -41.85622 | 2025-12-03 04:38:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 27.1 |
+| 1b4a2ff9-5ddc-3355-9e3e-ae557b6fb655 | -19.63614 | -56.8337 | 2025-12-04 04:23:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| d0930755-d6ec-3948-be19-36c91479d833 | -19.26939 | -50.56694 | 2025-12-04 04:23:00 | NOAA-21 | LIMEIRA DO OESTE | MINAS GERAIS | Brasil | 3138625 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| fa1de87d-de80-34cf-807f-373b47c563b9 | -19.61897 | -56.83966 | 2025-12-04 04:23:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 7.8 |
+| 307d6bf8-89c1-3f62-9be5-64c8b79a11b2 | -21.62957 | -56.13681 | 2025-12-04 04:23:00 | NOAA-21 | JARDIM | MATO GROSSO DO SUL | Brasil | 5005004 | 50 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| e20a4c64-ff77-3878-877c-f21f6122a574 | -19.63175 | -56.8294 | 2025-12-04 04:23:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 211b04d6-6e82-31f2-8b4e-d9a635c7c7eb | -19.63531 | -56.77032 | 2025-12-04 04:23:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| ade19dd9-6d0a-3b1e-806e-865a5905ce42 | -19.62335 | -56.84398 | 2025-12-04 04:23:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| 0bc5ddcb-a7e9-3696-bf00-b41256b3036c | -20.91786 | -56.36636 | 2025-12-04 04:23:00 | NOAA-21 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| f1581a92-0561-364b-b23e-f7a409aaaf59 | -12.62979 | -47.43097 | 2025-12-04 04:23:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| dbf8301e-718a-332c-a423-f254d6fb233e | -20.92154 | -56.37292 | 2025-12-04 04:23:00 | NOAA-21 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 3d4de61e-4c05-3d94-a52f-e079c386918c | -12.63038 | -47.42733 | 2025-12-04 04:23:00 | NOAA-21 | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 93d4c562-7505-3b05-8685-11bb579a6c56 | -21.62128 | -56.12957 | 2025-12-04 04:23:00 | NOAA-21 | JARDIM | MATO GROSSO DO SUL | Brasil | 5005004 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 1e105295-aa6b-38a6-8c31-bac9f05b4f3d | -20.92097 | -56.37029 | 2025-12-04 04:23:00 | NOAA-21 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 27cfaf47-9cd1-339b-9021-d077cbf85ccb | -29.64225 | -51.70166 | 2025-12-04 04:25:00 | NOAA-21 | TABAÍ | RIO GRANDE DO SUL | Brasil | 4320859 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
+| 56219432-fff1-3132-b1dd-497dcad82c98 | -27.82674 | -50.72387 | 2025-12-04 04:25:00 | NOAA-21 | CAMPO BELO DO SUL | SANTA CATARINA | Brasil | 4203402 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| cd5b2278-d8f3-3d00-95cf-1638f07bbcf1 | -29.88555 | -51.21361 | 2025-12-04 04:25:00 | NOAA-21 | CANOAS | RIO GRANDE DO SUL | Brasil | 4304606 | 43 | 33 | nan | nan | nan | Pampa | 0.9 |
+| 0f517f8b-a8be-34f2-be78-f1b164820392 | -25.4481 | -49.16662 | 2025-12-04 04:25:00 | NOAA-21 | PINHAIS | PARANÁ | Brasil | 4119152 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 8132f5be-4d12-3afa-9a2b-d4b799d144a1 | -27.82342 | -50.72319 | 2025-12-04 04:25:00 | NOAA-21 | CAMPO BELO DO SUL | SANTA CATARINA | Brasil | 4203402 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 25d07e7a-095e-3c16-969f-16abb9f13c27 | -27.68845 | -48.75229 | 2025-12-04 04:25:00 | NOAA-21 | SANTO AMARO DA IMPERATRIZ | SANTA CATARINA | Brasil | 4215703 | 42 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 510db8b3-34da-3e11-a692-a5cee3d39fd3 | -23.6321 | -50.77433 | 2025-12-04 04:25:00 | NOAA-21 | SÃO JERÔNIMO DA SERRA | PARANÁ | Brasil | 4124707 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| f4d95406-ab1d-3740-8126-6de46cef744f | -30.8993 | -53.49838 | 2025-12-04 04:27:00 | NOAA-21 | CAÇAPAVA DO SUL | RIO GRANDE DO SUL | Brasil | 4302808 | 43 | 33 | nan | nan | nan | Pampa | 0.7 |
+| 6110626a-9d90-3dfd-9a6c-fb50a1f7b379 | -19.6241 | -56.8339 | 2025-12-04 04:40:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 91.4 |
+| 56607497-18d9-3258-b489-eaff42edce6b | 3.46897 | -51.25596 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 2a6c58fe-ec78-311c-8dc2-d2bc70b644af | 2.52154 | -50.85199 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 62f0d9c1-447a-3f88-bab3-641da7f10703 | 3.47535 | -51.25103 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 1994c40a-d0d1-37d9-a4d4-c45d0608e32e | 2.53062 | -50.84306 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d4f70224-a1b1-379b-be9e-0c9482b11d69 | 3.67137 | -51.2813 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| a3f2088d-0923-31c4-abc8-afa678b85016 | 3.47302 | -51.25219 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 523c5384-e865-3d77-976b-3f63f1d5b800 | 3.46669 | -51.26421 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 83ca861c-fdd9-3110-8706-0c0452696e1f | 2.91706 | -51.01611 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 7ab1c97a-542b-3a26-b106-9d6d255e0fd1 | 3.47651 | -51.25164 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 713a1670-c418-38e5-a899-5a0d54b88152 | 3.58607 | -51.28651 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c9a3866d-cb64-35a9-94b2-be6291031414 | 3.46836 | -51.25211 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 60e5c289-5971-3797-94fb-08c88d8cf289 | 3.487 | -51.25002 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.3 |
+| 219b5985-4883-31f4-9515-4daeaf136d92 | 3.67487 | -51.28076 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5e8e0055-efd4-33d7-b926-aa1f92464113 | 2.52721 | -50.84359 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 3cd574cd-a2a8-39a5-a2bb-f5b5488a5510 | 3.48001 | -51.2511 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 89febbc6-08e5-3630-ad7c-aa4bd51cf976 | 3.4835 | -51.25056 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 03b27efb-3def-3d09-a05b-8dc82dba6113 | 2.91304 | -51.01291 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 3c0387f2-1cd8-34dd-ab1a-a885e2bf7d42 | 3.46548 | -51.2565 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 4c184ba2-8467-3fb9-ac6b-3d4b281609e4 | 3.49109 | -51.25334 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| dac2a922-f12e-3c4e-9b57-bef6e76f3984 | 3.67258 | -51.28906 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| dd691244-705f-356d-83ba-ef2aac4d4420 | 2.91362 | -51.01664 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 4.9 |
+| 84a7d70b-8116-3aca-abdd-28da8cebc911 | 3.48759 | -51.25388 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 0b48df76-56f6-3bef-b29b-8baf91692405 | 3.49168 | -51.2572 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 88525e11-d1dc-3c34-912e-5a8a40de3bcd | 2.52553 | -50.85513 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 038fa970-0cbc-3bbc-8078-e5bf341a241c | 3.67899 | -51.2841 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 03aa19e4-c4c9-3d54-b956-b163e928b814 | 2.53004 | -50.8394 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 45d0098b-63a6-3b38-9fa4-bc4fd5cb8b58 | 2.9159 | -51.00863 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 98497153-f7ca-3d8f-a897-c2599cf46905 | 3.58288 | -51.29067 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| c6f5ab02-4e80-311c-b5b7-506426a4a7e9 | 2.52779 | -50.84726 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 182bf70e-d92f-366b-b28e-788ec3fd2f10 | 3.58577 | -51.28625 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b39b13e3-57b4-3a7e-8821-3ab145521299 | 3.47186 | -51.25157 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 625d47f6-6dc1-35e9-85c5-20814a4e6d4f | 3.67198 | -51.28518 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8097620f-5f24-39d1-8057-28a4cc0b1a01 | 3.46608 | -51.26036 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| e8458499-8e54-3e16-a17c-86cc0a9ac0da | 2.91648 | -51.01237 | 2025-12-04 04:46:00 | NPP-375D | CALÇOENE | AMAPÁ | Brasil | 1600204 | 16 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| be305093-f3a5-3f4e-8fbe-2415e6ca6aaf | 3.58227 | -51.28679 | 2025-12-04 04:46:00 | NPP-375D | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| 1f80fbc6-ff66-309f-8589-a11629e9e122 | -4.20848 | -44.24726 | 2025-12-04 04:48:00 | NPP-375D | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| febe6131-a617-371d-9c42-c41cb94da990 | -2.64496 | -51.62482 | 2025-12-04 04:48:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 683b16a7-36dd-3621-9887-61c667d17631 | -3.51592 | -47.20029 | 2025-12-04 04:48:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| fcc20253-b69f-3dbd-9501-7911f24c71fe | -3.38043 | -49.2513 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 5114564d-2ade-3e52-98c1-3a68c005c952 | -3.04866 | -48.42378 | 2025-12-04 04:48:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| 6a8064af-7f87-38e1-b0f6-39d5f43b773d | -2.41478 | -49.34639 | 2025-12-04 04:48:00 | NPP-375D | CAMETÁ | PARÁ | Brasil | 1502103 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 7ae6e11d-e630-3a57-8aa6-4d7148764d91 | -4.73952 | -44.43559 | 2025-12-04 04:48:00 | NPP-375D | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 60fed9d2-0267-3642-b874-377ba6d9e502 | -4.47513 | -44.25574 | 2025-12-04 04:48:00 | NPP-375D | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| aa19b024-72ee-3e9d-b4ed-33403fc9b648 | -4.40557 | -45.38605 | 2025-12-04 04:48:00 | NPP-375D | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 614d7ca3-a40c-3add-bb21-48dc4a5c126d | -4.38835 | -46.6726 | 2025-12-04 04:48:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 772965ea-c9c5-35da-8365-891b23d9ed49 | 0.30941 | -49.81168 | 2025-12-04 04:48:00 | NPP-375D | CHAVES | PARÁ | Brasil | 1502509 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 4bde2f5a-5a72-3c4e-8fad-109d0fd9771d | -4.2175 | -46.45153 | 2025-12-04 04:48:00 | NPP-375D | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| dcb0d9f3-caec-30da-adf4-0b31a8cb574a | -2.5351 | -47.31843 | 2025-12-04 04:48:00 | NPP-375D | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5dd6b7a3-d56b-395e-aeb6-a335ab2bc28e | -2.06723 | -45.35666 | 2025-12-04 04:48:00 | NPP-375D | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| baea639f-2e97-3f6d-987e-baa0dafb3c28 | -3.93696 | -47.20234 | 2025-12-04 04:48:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 891489bc-e79c-3b07-aab4-0bcd38cb8165 | -4.50058 | -45.76896 | 2025-12-04 04:48:00 | NPP-375D | BREJO DE AREIA | MARANHÃO | Brasil | 2102150 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 125b46ca-b269-3392-978d-7608eb11e1b3 | -2.60472 | -49.25423 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 69e97ddb-e892-39aa-9287-8c82300b014c | -1.95663 | -47.90408 | 2025-12-04 04:48:00 | NPP-375D | SÃO DOMINGOS DO CAPIM | PARÁ | Brasil | 1507201 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| e47ed4e9-23ff-3ced-b8bb-1b93fb417dd5 | -2.48381 | -47.83369 | 2025-12-04 04:48:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 8420f88f-83da-3e24-9465-80250b036cfd | -2.362 | -47.68624 | 2025-12-04 04:48:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| cc6f06e7-8b40-307e-b49f-6496ea88ab9f | -3.93631 | -47.20658 | 2025-12-04 04:48:00 | NPP-375D | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 7cdd6a77-5546-34f3-af53-f6adbe6a39e3 | -2.60904 | -49.18285 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| eae8aab9-dd7f-3065-9726-0b919923bced | -3.22011 | -48.62285 | 2025-12-04 04:48:00 | NPP-375D | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| d5ae2b2f-384f-3086-a83b-bfb858b3614b | -2.43764 | -50.2716 | 2025-12-04 04:48:00 | NPP-375D | BAGRE | PARÁ | Brasil | 1501105 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| c3324a62-c5ad-34ce-824b-41b16a6665ef | -2.38308 | -47.12951 | 2025-12-04 04:48:00 | NPP-375D | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 28ce2bfa-bee2-3335-b73f-5cc39faf90b7 | -2.92317 | -45.45532 | 2025-12-04 04:48:00 | NPP-375D | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bddcc84d-4339-3f9e-bc21-2d4c951a2d66 | -2.1439 | -47.88547 | 2025-12-04 04:48:00 | NPP-375D | SÃO DOMINGOS DO CAPIM | PARÁ | Brasil | 1507201 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8e86b2da-e26f-39d1-a2cf-a983b783dcc8 | -4.5649 | -43.8087 | 2025-12-04 04:48:00 | NPP-375D | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 49585b3a-411a-34f8-a6d9-8a87d18a0dea | -2.04076 | -50.64045 | 2025-12-04 04:48:00 | NPP-375D | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| cf9b605a-20f9-3d34-abdd-a0dacf68f519 | -2.61141 | -49.25527 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 55bc0f1c-c922-34cc-9816-f3fd46378267 | -3.77215 | -40.85025 | 2025-12-04 04:48:00 | NPP-375D | FRECHEIRINHA | CEARÁ | Brasil | 2304509 | 23 | 33 | nan | nan | nan | Caatinga | 2.1 |
+| 34c8faf0-1d52-3266-9aaf-a35cd45e4d55 | -4.34768 | -46.14245 | 2025-12-04 04:48:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| fd80d639-2308-301b-ac46-9499f2f7db7c | -4.34454 | -46.13693 | 2025-12-04 04:48:00 | NPP-375D | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ff5ccb02-b0d0-33e9-ad69-005ace3332c5 | -3.14515 | -49.41365 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| b34a6e27-ba48-3a11-8ade-4a467a4384ae | -1.67082 | -45.79304 | 2025-12-04 04:48:00 | NPP-375D | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8875ca75-2cc2-3423-8178-37c216cadda3 | -3.04523 | -48.42325 | 2025-12-04 04:48:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 51b2e8f1-fc7c-3e9a-ae4c-8b85d9efa45e | -3.32256 | -44.37992 | 2025-12-04 04:48:00 | NPP-375D | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| b709202b-28e3-31e0-83cb-6ad6ca0e994f | -2.78683 | -51.67628 | 2025-12-04 04:48:00 | NPP-375D | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| 597d6b30-1b36-3c90-a4c7-03297d2f5ce8 | -2.41384 | -48.08814 | 2025-12-04 04:48:00 | NPP-375D | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 43caaecd-c71c-32fb-9af4-80e4b7b06f2c | -1.62846 | -45.42661 | 2025-12-04 04:48:00 | NPP-375D | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4a03675e-b3a8-3393-9dd3-4acb23fcb6a4 | -3.05848 | -49.62212 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| f06724c0-e641-32cc-ac1c-6fc42eddfd28 | -2.79023 | -47.43695 | 2025-12-04 04:48:00 | NPP-375D | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2b5d9338-c178-3d84-bf9c-421c464e7312 | -3.13847 | -49.4126 | 2025-12-04 04:48:00 | NPP-375D | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README14.md)
