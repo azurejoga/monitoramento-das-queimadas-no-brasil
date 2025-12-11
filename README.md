@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 21937c14-6440-394f-a3e3-1f219be6e8d3 | -4.3988 | -44.4424 | 2025-12-10 00:00:00 | GOES-19 | SÃO LUÍS GONZAGA DO MARANHÃO | MARANHÃO | Brasil | 2111409 | 21 | 33 | nan | nan | nan | Cerrado | 74.6 |
-| 814501a6-0972-30d2-8a40-989b78c92198 | -2.514 | -45.4298 | 2025-12-10 00:00:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 46.7 |
-| be4a25c9-8639-3db8-a440-0fdfc9abf84e | -5.1749 | -43.1224 | 2025-12-10 00:00:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 229.8 |
-| deef9e07-0250-3a97-bc19-d6249d914b93 | -2.2169 | -45.4159 | 2025-12-10 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 163.4 |
-| 0f19f422-df0c-37f6-bee1-fa217c03b973 | -5.1751 | -43.099 | 2025-12-10 00:00:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 110.5 |
-| c226d166-4405-35f7-992d-ea035357dcb6 | -5.1562 | -43.1237 | 2025-12-10 00:00:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 110.5 |
-| f2cdc111-4efb-3402-a9f8-1537e71493df | 3.3788 | -51.2618 | 2025-12-10 00:00:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 46.6 |
-| 63b4de0b-a598-3177-9625-7301be33b49d | -4.381 | -44.3061 | 2025-12-10 00:00:00 | GOES-19 | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 64.8 |
-| d5064778-77cf-3d7d-a9f3-a9055b458e7d | -4.3624 | -44.3072 | 2025-12-10 00:00:00 | GOES-19 | PERITORÓ | MARANHÃO | Brasil | 2108454 | 21 | 33 | nan | nan | nan | Cerrado | 74.8 |
-| 0b5b9d39-2d42-3d2a-be4e-1defbf975214 | -5.1562 | -43.1237 | 2025-12-10 00:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 128.5 |
-| 29587d0e-a5e6-3691-b3d7-8ba02aa7edc5 | -1.7316 | -46.4961 | 2025-12-10 00:10:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 44.3 |
-| e7b672c8-0697-3e33-abe7-b2159a0b69fc | -5.1751 | -43.099 | 2025-12-10 00:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 118.1 |
-| 5f5c10da-d9f8-36ba-b174-023e4f346217 | -1.7315 | -46.5182 | 2025-12-10 00:10:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| 5efecf30-e7cd-3bcd-a042-4690004babfc | -5.1749 | -43.1224 | 2025-12-10 00:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 190.0 |
-| e78d93ed-5123-3920-b959-217af8170534 | -2.2169 | -45.4159 | 2025-12-10 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 94.3 |
-| 78f28713-b51b-30a9-bdb6-9056f70b57bc | -2.5155 | -45.0243 | 2025-12-10 00:10:00 | GOES-19 | PERI MIRIM | MARANHÃO | Brasil | 2108405 | 21 | 33 | nan | nan | nan | Amazônia | 52.5 |
-| a3de504b-a2da-31ae-b40f-5532af9cc77b | -2.1984 | -45.4164 | 2025-12-10 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 78.7 |
-| 76bf9e9c-524b-3662-b50c-7cbdd41c2702 | -5.1564 | -43.1003 | 2025-12-10 00:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 84.5 |
-| ee8acfdc-65c1-3f0c-86fc-c50e3d2ef8d8 | -2.2169 | -45.4159 | 2025-12-10 00:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 92.5 |
-| 2ce12400-e6c4-32dc-aa5b-452f00d0fe66 | -5.1562 | -43.1237 | 2025-12-10 00:20:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 146.6 |
-| 56063c9b-750e-3f78-8689-8a8ae3278972 | -5.1564 | -43.1003 | 2025-12-10 00:20:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| 11c5bc12-be7f-3226-a9d0-d87a3b41928d | -3.694 | -43.8134 | 2025-12-10 00:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| c23bb38d-2453-39e5-b8e3-124c26ff9e99 | -3.6754 | -43.8143 | 2025-12-10 00:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 49.6 |
-| 257f679d-3180-3cd2-b9dc-da26805fc37c | -5.1751 | -43.099 | 2025-12-10 00:20:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| 7d0c155c-db26-3e8f-a9a2-ff0027ba3e39 | -2.1984 | -45.4164 | 2025-12-10 00:20:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 66.0 |
-| 63cafec1-36ec-3f37-831d-ef5229b702d5 | -5.1749 | -43.1224 | 2025-12-10 00:20:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 184.3 |
-| 61d0243b-b55e-335b-978a-5adaa4ff4849 | 3.3788 | -51.2618 | 2025-12-10 00:20:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 56.1 |
-| 2e2e49ae-9ecf-3dd3-a36c-83c8c012d3f8 | -3.6939 | -43.8365 | 2025-12-10 00:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 65.4 |
-| b69e0faf-e80c-356e-962c-034070935901 | -3.694 | -43.8134 | 2025-12-10 00:30:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 242.1 |
-| ce58de03-80db-374e-8758-0dd06894cbd5 | 3.3788 | -51.2618 | 2025-12-10 00:30:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| 2564dc51-ce64-3dd4-81d1-94b33fad9084 | -3.6754 | -43.8143 | 2025-12-10 00:30:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 169.7 |
-| 955ce612-8851-3366-bfc6-2f813aa67de7 | 3.3787 | -51.2826 | 2025-12-10 00:30:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 48.0 |
-| 1974247f-c499-3d36-ab62-574b7763418b | -3.7127 | -43.8125 | 2025-12-10 00:30:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 50.3 |
-| b3e3fd1d-7676-3b92-b074-6e1ef7a77cea | -1.7315 | -46.5182 | 2025-12-10 00:30:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 54.7 |
-| e4cf7aac-6052-3a3e-a097-f6c6a2885a93 | -3.7125 | -43.8356 | 2025-12-10 00:30:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 44.5 |
-| 6a06534a-f17c-3546-b4fe-c0ca01e485ab | -3.6939 | -43.8365 | 2025-12-10 00:30:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 202.5 |
-| a1e726e4-ea7d-38e7-be24-7ff105816de5 | -3.6752 | -43.8374 | 2025-12-10 00:30:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 147.7 |
-| ba56005a-bff8-35bc-a495-30c379d7e1f4 | -2.1984 | -45.4164 | 2025-12-10 00:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 58.9 |
-| 48fcf988-bc1c-356a-9672-fbc8aaeb06ed | -2.2169 | -45.4159 | 2025-12-10 00:30:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 78.4 |
-| 463e568e-daed-3eaa-9de4-e5c2a5bd3a34 | -3.6939 | -43.8365 | 2025-12-10 00:40:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 201.5 |
-| acc3ee3e-3c6a-37cd-ba29-1e2f96f2f885 | -2.2169 | -45.4159 | 2025-12-10 00:40:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 69.3 |
-| 7f0ab988-6c5d-3a2e-b9e6-79ad47629275 | -3.6752 | -43.8374 | 2025-12-10 00:40:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 144.7 |
-| 298ee22b-599c-3206-b43c-cd81dbcda53b | 3.3787 | -51.2826 | 2025-12-10 00:40:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 48.8 |
-| fee0b35f-c2e7-3393-b624-49bb623b023f | -3.7127 | -43.8125 | 2025-12-10 00:40:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 63.7 |
-| 12238760-9057-3132-a30f-53bd32cec84d | -3.6754 | -43.8143 | 2025-12-10 00:40:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 194.8 |
-| f16f8708-dd81-3e6e-86f8-d204eb67d449 | 3.3788 | -51.2618 | 2025-12-10 00:40:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 70.7 |
-| 68e92264-e33e-32ce-b789-66d520204dd4 | -3.694 | -43.8134 | 2025-12-10 00:40:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 278.9 |
-| e942de30-cd56-328d-8589-ee8fe04e76d4 | -5.1562 | -43.1237 | 2025-12-10 00:50:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 59.7 |
-| 09dbb773-a3cb-3dfa-934c-234a179296e0 | -5.1749 | -43.1224 | 2025-12-10 00:50:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 136.5 |
-| 99fc26eb-5c62-3619-9f64-4e77f28d144f | -2.4869 | -47.7909 | 2025-12-10 00:50:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 40.3 |
-| 8cd401ee-334c-3869-8195-798fa5fb6568 | -5.1751 | -43.099 | 2025-12-10 00:50:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 74.0 |
-| eddbf5d7-a0ec-3e46-a952-930abf0a4f12 | -3.694 | -43.8134 | 2025-12-10 00:50:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 286.7 |
-| fcf0333d-faac-354e-8a23-918026e35495 | -3.6939 | -43.8365 | 2025-12-10 00:50:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 230.0 |
-| 7f12ccd3-5400-3f58-bef0-635741f907de | -2.2169 | -45.4159 | 2025-12-10 00:50:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 60.9 |
-| d13b8e7f-e060-3b96-be2c-d731f3f3c11f | -3.6754 | -43.8143 | 2025-12-10 00:50:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 133.2 |
-| 2629e97f-1812-32ee-aa44-07add6c9c378 | -2.487 | -47.7692 | 2025-12-10 00:50:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 39.3 |
-| 1732f69d-8899-39b1-aec3-a10f16fbc2da | -3.6752 | -43.8374 | 2025-12-10 00:50:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 113.2 |
-| 43600327-814e-327d-8b7a-2e8007f2bf7d | 3.399 | -51.2509 | 2025-12-10 00:58:00 | METOP-B | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | nan |
-| bb8f7b58-d7d6-3cff-b791-a48d54c59a72 | 0.4574 | -60.411701 | 2025-12-10 00:58:00 | METOP-B | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 9e6e1128-92dc-3e74-934e-ee3c401c9848 | -3.6939 | -43.8365 | 2025-12-10 01:00:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 177.7 |
-| 9e9b6904-a918-3742-9c00-ce93ac74d1ae | -2.2646 | -47.8617 | 2025-12-10 01:00:00 | GOES-19 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 37.0 |
-| f78d45db-7541-325a-a246-5ac8443c1a28 | -3.6752 | -43.8374 | 2025-12-10 01:00:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 147.7 |
-| 65f172b8-e6ac-363b-8e34-a39bec99411a | -2.487 | -47.7692 | 2025-12-10 01:00:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 48.6 |
-| 3f495789-b820-38b3-b48d-20ce50afecc7 | -2.4869 | -47.7909 | 2025-12-10 01:00:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 45.9 |
-| a0bf079d-e77b-3198-ba62-a43a625f9610 | -3.6754 | -43.8143 | 2025-12-10 01:00:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 156.5 |
-| 16e3e514-c971-3194-bc77-76c459deb82e | -3.694 | -43.8134 | 2025-12-10 01:00:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 200.4 |
-| 45f334b3-9528-35db-91b1-f581d3aed7ea | 3.3788 | -51.2618 | 2025-12-10 01:00:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 61.8 |
-| a5066cb0-c611-34db-9d94-7e91c72ad167 | -21.97557 | -56.78849 | 2025-12-10 01:06:00 | TERRA_M-M | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 011afde9-9ddb-3ca6-9037-6f1f3d885eca | -21.9769 | -56.798 | 2025-12-10 01:06:00 | TERRA_M-M | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 65dfd9b7-1f7c-3f01-9040-3ead4326ad88 | -2.487 | -47.7692 | 2025-12-10 01:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 68.4 |
-| 7751bea7-28da-3b1b-8c0d-1ff8c472f27b | -3.6939 | -43.8365 | 2025-12-10 01:10:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 101.6 |
-| 48a8f344-138f-39af-b1ef-449b5d53fcbe | -5.1749 | -43.1224 | 2025-12-10 01:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 130.6 |
-| e50300ca-3566-35b4-bd52-19b146fe469f | -5.1751 | -43.099 | 2025-12-10 01:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 70.3 |
-| 5735421d-49ff-3001-a775-6949856dab67 | -3.6754 | -43.8143 | 2025-12-10 01:10:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 100.2 |
-| 09b65b56-9db8-3cfc-ae6e-deb26277011f | -3.694 | -43.8134 | 2025-12-10 01:10:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 131.9 |
-| e7239c30-e31e-3b5a-8ead-1f67b6d08673 | 3.3788 | -51.2618 | 2025-12-10 01:10:00 | GOES-19 | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 46.9 |
-| 5d97d983-d7c4-3d23-8ddd-dfafd25c98b4 | -3.6752 | -43.8374 | 2025-12-10 01:10:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| 0b72f219-4f9f-3fb6-8aba-5d3e20d00a8d | -2.4869 | -47.7909 | 2025-12-10 01:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 53.4 |
-| 195059af-d3ae-330d-9aeb-82a0c33b6b2f | -5.1562 | -43.1237 | 2025-12-10 01:10:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 111.0 |
-| 0edbe2b8-d80a-3218-9a70-244b57a70486 | -1.8757 | -54.68737 | 2025-12-10 01:11:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 20.2 |
-| 7ff72df0-9f53-3043-9ea9-e68578d65afd | -1.48092 | -53.54582 | 2025-12-10 01:13:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 18.5 |
-| a393eb5d-3be0-3e1f-945a-391be2ff8443 | -1.58323 | -54.12232 | 2025-12-10 01:13:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 32.7 |
-| 8fb16058-d1ec-30d5-b2b2-c322bd9eeedf | -1.48322 | -53.53903 | 2025-12-10 01:13:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 19.5 |
-| b4a82c7b-4501-3b5b-b8b0-036b9a5dfb80 | 3.3418 | -60.88282 | 2025-12-10 01:13:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 2b6ae269-afc7-3707-b237-7405e7c6fdf6 | -1.47716 | -54.21492 | 2025-12-10 01:13:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 17.0 |
-| f361b6ce-5c01-326a-97ca-c47f07496c7f | -1.47377 | -54.19202 | 2025-12-10 01:13:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| fb11463b-48a0-352c-bbf5-3ff268732a15 | 1.97761 | -60.68671 | 2025-12-10 01:13:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 5.1 |
-| 5cfd155e-5232-354d-8c9f-e89a71ef18e9 | 0.45614 | -60.42678 | 2025-12-10 01:13:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| ef5ff18b-45b5-3ca4-833f-901b188150bb | 2.01994 | -55.65905 | 2025-12-10 01:13:00 | TERRA_M-M | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| 6874efcb-e85c-3979-b75e-60df58550f76 | 3.34308 | -60.87348 | 2025-12-10 01:13:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| 687c18a5-bef4-3e02-9842-d14c4f8b6c6e | -1.48072 | -54.19675 | 2025-12-10 01:13:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 12.7 |
-| ef7d4057-cc6d-398d-95fc-d5ef9b2e0085 | -2.4869 | -47.7909 | 2025-12-10 01:20:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 48.0 |
-| bc284f92-0ae1-3e8f-a6ec-938692c80151 | -3.6754 | -43.8143 | 2025-12-10 01:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 110.2 |
-| 4b29f56f-4cbe-3e8d-9b6f-a038dfc5a842 | -2.487 | -47.7692 | 2025-12-10 01:20:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 70.2 |
-| 22af8b65-fa8f-3993-a050-cc09bbbb0805 | -3.6939 | -43.8365 | 2025-12-10 01:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 115.2 |
-| 4435d50f-9aaf-3eaa-94b2-927494ab14c0 | -5.1562 | -43.1237 | 2025-12-10 01:20:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 97.9 |
-| 87416cbd-4a31-3e5e-8056-bc565b00e09c | -5.1749 | -43.1224 | 2025-12-10 01:20:00 | GOES-19 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 111.5 |
-| 9e881692-e532-347b-a51f-dadc2e0a1cfc | -3.6752 | -43.8374 | 2025-12-10 01:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 90.8 |
-| 2eefa020-6e9a-3f5b-a50f-a067d5c83e81 | -3.694 | -43.8134 | 2025-12-10 01:20:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 149.5 |
-| a0b56989-49e0-3f8f-8a61-c17c27a78c89 | -2.2646 | -47.8617 | 2025-12-10 01:20:00 | GOES-19 | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 42.5 |
+| 3b0862d9-8be5-3668-9014-a0587c699863 | -2.2169 | -45.4159 | 2025-12-11 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 236.3 |
+| 966c7082-184c-3c9a-9ef1-379c12813c80 | -6.0315 | -43.7105 | 2025-12-11 00:00:00 | GOES-19 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 124.7 |
+| 882a0544-6c63-3f08-b2c0-d8655b06f00d | -2.921 | -45.7971 | 2025-12-11 00:00:00 | GOES-19 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| b58e240a-8c60-3408-8c1a-165266cac6d8 | -4.0866 | -43.6779 | 2025-12-11 00:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| 6042c1b4-5479-3f9d-990b-8f9bd684f3dc | -1.6944 | -46.563 | 2025-12-11 00:00:00 | GOES-19 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 133.1 |
+| 3c857f42-9a6c-3fab-9496-886611c4bba2 | -4.0865 | -43.701 | 2025-12-11 00:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 90.7 |
+| 453577b1-5028-312b-a02e-16d9fc770c52 | -4.5322 | -44.0449 | 2025-12-11 00:00:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| a568ec56-3522-3540-bad4-4fb37e534bbc | -3.2525 | -46.4075 | 2025-12-11 00:00:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 122.1 |
+| f407841f-2fcf-3091-9c0b-13e8799ed5f0 | -3.271 | -46.4068 | 2025-12-11 00:00:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 69.8 |
+| 0a7bf80b-ef5b-3f4d-a81f-6e0f3c54e7a0 | -4.5508 | -44.0438 | 2025-12-11 00:00:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 95.7 |
+| 47aa0d0a-419d-31e2-a29a-3f7567dc185b | -3.2709 | -46.429 | 2025-12-11 00:00:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| 176fae11-5670-3711-ac46-a1a736fc4d24 | -2.2169 | -45.4384 | 2025-12-11 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| 1a98b014-e17a-3bfe-bf53-f48887abb194 | -2.217 | -45.3935 | 2025-12-11 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 96.8 |
+| 602fb5a1-7950-3f03-9270-73391a735b28 | -1.6758 | -46.5634 | 2025-12-11 00:00:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| a90de836-c86c-3ad6-9b71-3d3a64ecf83a | -2.1984 | -45.4164 | 2025-12-11 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| 3b855872-947e-3c25-8b60-af92866e903c | -3.2524 | -46.4297 | 2025-12-11 00:00:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 81.9 |
+| 07f7bbf1-5b23-39cf-8d53-06e7e8d539d0 | -4.068 | -43.6789 | 2025-12-11 00:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 69.8 |
+| 0fce243c-d86f-3e23-ba9f-181d8e84be8d | -4.0678 | -43.702 | 2025-12-11 00:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 91.1 |
+| 9021f087-3c48-3929-9584-b70598d58c69 | -1.6944 | -46.541 | 2025-12-11 00:00:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 115.4 |
+| 5642a4e8-6a46-37eb-bdc7-58c3c4d66e31 | -4.068 | -43.6789 | 2025-12-11 00:10:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 75.3 |
+| 911501d7-19b0-305a-a0fe-65d2fa132391 | -3.229 | -47.4629 | 2025-12-11 00:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 48.1 |
+| 063e62f6-0592-357d-a457-7f1317835bcd | -2.921 | -45.7971 | 2025-12-11 00:10:00 | GOES-19 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 57.0 |
+| 34fcd7e6-8b16-32fb-adc1-644046ae98c6 | -1.6944 | -46.563 | 2025-12-11 00:10:00 | GOES-19 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 155.5 |
+| c1b10e72-eabb-3d96-b966-8b7b01f2e044 | -2.2169 | -45.4159 | 2025-12-11 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 143.7 |
+| 65fd842b-c539-3360-a1a7-0698c49e9925 | -2.9798 | -45.1214 | 2025-12-11 00:10:00 | GOES-19 | MATINHA | MARANHÃO | Brasil | 2106508 | 21 | 33 | nan | nan | nan | Amazônia | 95.9 |
+| 29ca0db1-6144-3f90-9843-70ad977c75dc | -4.0865 | -43.701 | 2025-12-11 00:10:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 71.5 |
+| ab40abaf-b28d-39a6-94ab-aea7a9d984cb | -2.1984 | -45.4164 | 2025-12-11 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 83.8 |
+| d73e9537-86f1-3f67-b817-b40dc4c1f632 | -12.5046 | -58.3591 | 2025-12-11 00:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 52.0 |
+| 0154f6da-af93-34c5-b73c-9f9654bacd86 | -2.346 | -45.6589 | 2025-12-11 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 62.3 |
+| b85fe19d-aca0-3f3e-bbc3-2e74d98fbeab | -3.2524 | -46.4297 | 2025-12-11 00:10:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| de5fe5d9-ce4a-32a2-aff0-fd832fdf98e3 | -6.0315 | -43.7105 | 2025-12-11 00:10:00 | GOES-19 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 129.0 |
+| e0b4ac5c-8359-3d2b-b6cd-f80895c9dfcd | -3.2525 | -46.4075 | 2025-12-11 00:10:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 97.3 |
+| b2381f47-089f-3a24-afef-bd89975a31eb | -1.6759 | -46.5413 | 2025-12-11 00:10:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 121.0 |
+| 73cf3c4a-71b6-39fb-84b8-eb260b4fd758 | -1.6944 | -46.541 | 2025-12-11 00:10:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 161.6 |
+| 39cb709d-e3ba-3337-a008-19e774666275 | -4.5508 | -44.0438 | 2025-12-11 00:10:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 85.1 |
+| 81e1f9b5-ea15-3f0a-9753-30675ff3b5f3 | -3.271 | -46.4068 | 2025-12-11 00:10:00 | GOES-19 | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 66.8 |
+| 2b48b4c9-b2dc-3b62-9126-e43425f1d916 | -4.0678 | -43.702 | 2025-12-11 00:10:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 84.9 |
+| 9c632c13-b528-3344-92da-01af75ee5784 | -4.5322 | -44.0449 | 2025-12-11 00:10:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 86.9 |
+| b53354cc-3e44-3375-a8b8-20b0bf5856b4 | -1.6758 | -46.5634 | 2025-12-11 00:10:00 | GOES-19 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 115.3 |
+| c0383ca0-bff1-354f-83e0-bbbaf490e0a6 | -5.35295 | -39.71353 | 2025-12-11 00:11:00 | TERRA_M-M | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 25.6 |
+| d41db857-da99-3aa1-a70b-ad2739cfe309 | -5.59313 | -39.13745 | 2025-12-11 00:11:00 | TERRA_M-M | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 12.7 |
+| 7f34e187-47f1-361e-a109-30f6c5656298 | -6.03664 | -43.7052 | 2025-12-11 00:11:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 27.6 |
+| 6b078d4c-9c46-3b8e-a859-b585ab0dbd14 | -5.98674 | -44.58712 | 2025-12-11 00:11:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 8d013544-3ac3-395e-ac43-58ad2f6492d9 | -6.02739 | -43.70652 | 2025-12-11 00:11:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 165.5 |
+| 418cf687-d293-3a9a-9c4a-5a1a58584675 | -7.4576 | -35.2253 | 2025-12-11 00:11:00 | TERRA_M-M | FERREIROS | PERNAMBUCO | Brasil | 2605509 | 26 | 33 | nan | nan | nan | Mata Atlântica | 43.0 |
+| ad463d74-e31e-3dec-8dd7-549288658818 | -5.97907 | -44.59752 | 2025-12-11 00:11:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| ebb5b5e5-a5bf-3e68-ab98-d96937cae74f | -5.35095 | -39.72003 | 2025-12-11 00:11:00 | TERRA_M-M | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 12.5 |
+| 5e613ed4-a387-3efa-943d-71cf5d47c3fa | -5.55544 | -43.8115 | 2025-12-11 00:11:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| caa817ac-e230-31db-8e3c-444708bce76b | -6.28049 | -39.88251 | 2025-12-11 00:11:00 | TERRA_M-M | CATARINA | CEARÁ | Brasil | 2303600 | 23 | 33 | nan | nan | nan | Caatinga | 12.9 |
+| b274f074-3d36-3107-9101-4709cfb95b06 | -5.57877 | -43.79194 | 2025-12-11 00:11:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| e517733e-68d7-3b44-b851-e8567d18dc6b | -5.3484 | -39.70253 | 2025-12-11 00:11:00 | TERRA_M-M | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 13.3 |
+| 6507c3fc-d09c-35b6-abf1-c293b54be698 | -9.57387 | -44.60094 | 2025-12-11 00:11:00 | TERRA_M-M | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| efb05caf-8892-3ff4-9715-3d4646d08fa6 | -11.66962 | -47.12517 | 2025-12-11 00:11:00 | TERRA_M-M | PORTO ALEGRE DO TOCANTINS | TOCANTINS | Brasil | 1718006 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| c687f1e9-87be-3a82-b671-2bd9fca88f75 | -6.9419 | -38.6144 | 2025-12-11 00:11:00 | TERRA_M-M | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | 25.2 |
+| 1ef471cd-dcee-3e81-9b20-bfd4ab05ff33 | -8.35612 | -42.04755 | 2025-12-11 00:11:00 | TERRA_M-M | SÃO JOÃO DO PIAUÍ | PIAUÍ | Brasil | 2210003 | 22 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| 2b2661c8-4f83-3793-b21e-431aa2d77c12 | -7.45468 | -35.23086 | 2025-12-11 00:11:00 | TERRA_M-M | FERREIROS | PERNAMBUCO | Brasil | 2605509 | 26 | 33 | nan | nan | nan | Mata Atlântica | 42.0 |
+| 006c01bc-b0af-3222-b18a-510bc1a328d1 | -5.98802 | -44.59622 | 2025-12-11 00:11:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 38.1 |
+| 1f0cd31d-e195-3e3e-aa1d-0f11723986d7 | -5.3204 | -40.55522 | 2025-12-11 00:11:00 | TERRA_M-M | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | 12.3 |
+| 69d1ec95-fced-3e7d-99ab-e19d9510c671 | -6.02598 | -43.69675 | 2025-12-11 00:11:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| ee8bfd5a-abf6-316c-8964-a6ed07aa057f | -5.56334 | -43.80045 | 2025-12-11 00:11:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 20c3adf5-65d2-3e4c-88e3-b8c6b8cc302c | -5.59768 | -44.37716 | 2025-12-11 00:11:00 | TERRA_M-M | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 7c7561f5-b1f0-3821-934a-bd273efd2f30 | -6.06069 | -43.74144 | 2025-12-11 00:11:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 7b8baa57-f0f8-35a0-af74-864991c187ab | -6.03803 | -43.71491 | 2025-12-11 00:11:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 51839390-8e85-378d-81f2-05f2e540062b | -6.28761 | -39.89249 | 2025-12-11 00:11:00 | TERRA_M-M | CATARINA | CEARÁ | Brasil | 2303600 | 23 | 33 | nan | nan | nan | Caatinga | 13.1 |
+| dc851736-3ea1-377c-9c97-6013be9168d6 | -8.06048 | -41.85246 | 2025-12-11 00:11:00 | TERRA_M-M | BELA VISTA DO PIAUÍ | PIAUÍ | Brasil | 2201556 | 22 | 33 | nan | nan | nan | Caatinga | 12.1 |
+| 5109465e-9f2a-3f96-9571-e2c65699ea44 | -5.35438 | -38.06586 | 2025-12-11 00:11:00 | TERRA_M-M | TABULEIRO DO NORTE | CEARÁ | Brasil | 2313104 | 23 | 33 | nan | nan | nan | Caatinga | 30.8 |
+| ed2ba05f-dab8-3211-aba3-dc38f2d7021a | -5.35764 | -38.05976 | 2025-12-11 00:11:00 | TERRA_M-M | TABULEIRO DO NORTE | CEARÁ | Brasil | 2313104 | 23 | 33 | nan | nan | nan | Caatinga | 24.8 |
+| 58be661b-5375-3016-acaa-c1cf9c1539e0 | -8.35418 | -42.04223 | 2025-12-11 00:11:00 | TERRA_M-M | SÃO JOÃO DO PIAUÍ | PIAUÍ | Brasil | 2210003 | 22 | 33 | nan | nan | nan | Caatinga | 5.8 |
+| 57096103-8d26-3332-8e70-82aade4c91d7 | -6.02878 | -43.71622 | 2025-12-11 00:11:00 | TERRA_M-M | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| 640a28c1-20e2-39c7-a387-6aced9866e07 | -5.56471 | -43.81027 | 2025-12-11 00:11:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 25fed1a1-9d0e-3a13-a1b1-459770ca8429 | -5.57091 | -43.803 | 2025-12-11 00:11:00 | TERRA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 918291fe-2518-3897-b347-65cc1011cca8 | -2.42356 | -45.27349 | 2025-12-11 00:13:00 | TERRA_M-M | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 3f5bc567-2cd5-35f8-ae85-1ae026a5c516 | -2.21358 | -45.41687 | 2025-12-11 00:13:00 | TERRA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 176.9 |
+| d455ab75-abe5-36dd-a8c3-0c824d1e4414 | -4.39536 | -45.40577 | 2025-12-11 00:13:00 | TERRA_M-M | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| d64f854b-6abf-3179-9f05-7c6034d8ef4c | -4.34892 | -45.93132 | 2025-12-11 00:13:00 | TERRA_M-M | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 91d830a9-df13-3ebd-95a4-56f1c4ba1cae | -3.21664 | -46.0653 | 2025-12-11 00:13:00 | TERRA_M-M | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| a1bf7cbc-214e-3823-bf10-0c0dbb8de037 | -3.84427 | -47.82539 | 2025-12-11 00:13:00 | TERRA_M-M | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 18.3 |
+| 764b209a-4da5-32a0-9a7d-fe76af5bf6d0 | -3.17527 | -44.39151 | 2025-12-11 00:13:00 | TERRA_M-M | SANTA RITA | MARANHÃO | Brasil | 2110203 | 21 | 33 | nan | nan | nan | Amazônia | 6.4 |
+| 67a49549-e193-3ccd-a296-ba020725080d | -2.35729 | -45.65556 | 2025-12-11 00:13:00 | TERRA_M-M | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | 5.7 |
+| 751638ec-663e-30a2-8147-895638ae7f84 | -2.52589 | -45.28054 | 2025-12-11 00:13:00 | TERRA_M-M | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| e8c274fa-a2cb-3d64-8f56-ee07ab77f6b8 | -4.46252 | -44.7598 | 2025-12-11 00:13:00 | TERRA_M-M | IGARAPÉ GRANDE | MARANHÃO | Brasil | 2105203 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| de5a77ae-671d-3fbe-aa89-119a51aceac2 | -1.68775 | -46.55042 | 2025-12-11 00:13:00 | TERRA_M-M | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 420.0 |
+| ae4f9e72-c164-30f4-acc4-3dbf1d9d3972 | -1.68896 | -46.55918 | 2025-12-11 00:13:00 | TERRA_M-M | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 141.7 |
+| 74ae0e4d-2d3b-36b6-a7ea-ddb352409edf | -1.86747 | -46.64707 | 2025-12-11 00:13:00 | TERRA_M-M | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 9cbdb97a-8c8f-37c8-89e1-8ce28d7a600f | -4.49786 | -43.4254 | 2025-12-11 00:13:00 | TERRA_M-M | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| c34094d2-8986-3e38-b944-00b0106e503e | -1.10009 | -46.62461 | 2025-12-11 00:13:00 | TERRA_M-M | AUGUSTO CORRÊA | PARÁ | Brasil | 1500909 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| bd8e5329-1b38-3234-b381-1d6c8b5a8544 | -1.09128 | -46.62584 | 2025-12-11 00:13:00 | TERRA_M-M | AUGUSTO CORRÊA | PARÁ | Brasil | 1500909 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| f42b70dd-a8b6-3fce-a26b-44856ba51f1b | -2.35308 | -46.35477 | 2025-12-11 00:13:00 | TERRA_M-M | CENTRO NOVO DO MARANHÃO | MARANHÃO | Brasil | 2103174 | 21 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 73a354df-e1fb-3744-b1de-ffd854e9eb0d | -2.29185 | -45.65285 | 2025-12-11 00:13:00 | TERRA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 11.4 |
+| e4adbe22-c33e-31db-a205-265bab487660 | -2.75083 | -45.63927 | 2025-12-11 00:13:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 4f697275-68b0-306f-9093-1cd8162bf5ca | -2.26114 | -46.09618 | 2025-12-11 00:13:00 | TERRA_M-M | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| de040ab8-fc76-37ca-bb1f-96aaaac65d12 | -2.42167 | -48.26666 | 2025-12-11 00:13:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
+| 7dfbe36a-0d40-3062-906d-84dc0e5b1df9 | -3.36305 | -45.33725 | 2025-12-11 00:13:00 | TERRA_M-M | MONÇÃO | MARANHÃO | Brasil | 2106904 | 21 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 46efa115-30b3-350b-8655-48e59e1acc03 | -2.68764 | -45.57552 | 2025-12-11 00:13:00 | TERRA_M-M | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| 4bc5d740-332c-3cb7-9c0d-cef1b4a7a3cd | -4.72285 | -44.31903 | 2025-12-11 00:13:00 | TERRA_M-M | CAPINZAL DO NORTE | MARANHÃO | Brasil | 2102754 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 050b683c-4149-3443-a42f-1915096e4f99 | -2.42298 | -48.27632 | 2025-12-11 00:13:00 | TERRA_M-M | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 1ad42aa0-7d26-35d6-aaf0-b30cdd928752 | -2.6278 | -49.11094 | 2025-12-11 00:13:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 1a014d93-d617-33f3-9668-c3ce8f1b1ffe | -3.35578 | -46.20949 | 2025-12-11 00:13:00 | TERRA_M-M | GOVERNADOR NEWTON BELLO | MARANHÃO | Brasil | 2104651 | 21 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 0d096b03-d126-3f36-83f2-84a3a591cd55 | -2.12932 | -45.34238 | 2025-12-11 00:13:00 | TERRA_M-M | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| e9ff7350-e9f4-33c1-beaa-39707ede9558 | -4.64399 | -45.27077 | 2025-12-11 00:13:00 | TERRA_M-M | PAULO RAMOS | MARANHÃO | Brasil | 2108108 | 21 | 33 | nan | nan | nan | Cerrado | 4.2 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
