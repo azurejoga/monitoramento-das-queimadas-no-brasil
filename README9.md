@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2f85863c-5263-3d97-9aec-5517c18a8d01 | -2.4367 | -51.948 | 2025-12-12 03:10:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 66.4 |
-| c60ca9fe-ad1d-3c4d-9d63-653a3845394c | -2.4183 | -51.9278 | 2025-12-12 03:10:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 114.4 |
-| 6588fa6c-2216-38c2-baea-5587b1e2592b | -14.8941 | -58.1282 | 2025-12-12 03:10:00 | GOES-19 | SALTO DO CÉU | MATO GROSSO | Brasil | 5107750 | 51 | 33 | nan | nan | nan | Amazônia | 64.3 |
-| 1862f9e6-64d2-309c-866b-20c78f0b1442 | -2.4367 | -51.9274 | 2025-12-12 03:10:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 160.8 |
-| 7e10ccde-9d8e-331f-bcbc-f7c4dd44551d | -1.7517 | -54.0323 | 2025-12-12 03:10:00 | GOES-19 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 28.9 |
-| 6a84deaa-44c8-31f9-9ff1-051f431ec21e | -8.0513 | -43.1001 | 2025-12-12 03:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 105.8 |
-| 4dd2829a-2d0c-3303-bd15-6ba1e4ca2e79 | -14.9134 | -58.1263 | 2025-12-12 03:10:00 | GOES-19 | SALTO DO CÉU | MATO GROSSO | Brasil | 5107750 | 51 | 33 | nan | nan | nan | Amazônia | 79.4 |
-| ec422908-d895-33f6-9b0f-31c34cd77461 | -2.4183 | -51.9278 | 2025-12-12 03:20:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 124.1 |
-| 73047650-1c42-38fe-8ce0-de8a1955046b | -10.1994 | -36.3197 | 2025-12-12 03:20:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 102.6 |
-| 502cd9df-0bf0-36dc-beac-9d4533355531 | -14.9134 | -58.1263 | 2025-12-12 03:20:00 | GOES-19 | SALTO DO CÉU | MATO GROSSO | Brasil | 5107750 | 51 | 33 | nan | nan | nan | Amazônia | 81.4 |
-| a7d7f76e-3fd6-3c59-ac4f-1731342cba80 | -2.4367 | -51.9274 | 2025-12-12 03:20:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 184.8 |
-| 422699fd-508f-3aa3-b426-dea2d0b92fdb | -10.1796 | -36.3503 | 2025-12-12 03:20:00 | GOES-19 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 76.2 |
-| effc77a5-167d-3a0b-9fd8-0b612a78bfd3 | -8.0327 | -43.0786 | 2025-12-12 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 66.6 |
-| 28abd39a-b972-38ef-ad25-b213bcc30f29 | -8.0324 | -43.1022 | 2025-12-12 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 123.9 |
-| 43cafb7d-5203-30ef-9318-cf24ed42b103 | -14.8941 | -58.1282 | 2025-12-12 03:20:00 | GOES-19 | SALTO DO CÉU | MATO GROSSO | Brasil | 5107750 | 51 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| 4c06eb86-dd74-3dec-a044-dd9c6004ded2 | -2.5108 | -51.8023 | 2025-12-12 03:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 47.0 |
-| 4ca4df43-3306-372e-a639-890c2be2ba5c | -10.1801 | -36.3232 | 2025-12-12 03:20:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 122.3 |
-| f6f32412-06c8-3b8c-b1ae-06e77a873cea | -8.0513 | -43.1001 | 2025-12-12 03:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 88.7 |
-| 211ad3c6-838e-3a47-8bb4-c7437aece0e4 | -2.4367 | -51.948 | 2025-12-12 03:20:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 71.5 |
-| 687d6722-4c1e-369a-82c3-b558dd72e424 | -2.4183 | -51.9484 | 2025-12-12 03:20:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 52.2 |
-| a5840d0d-8427-36d3-8e43-64faa86735f0 | -3.23071 | -42.08168 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 1c1b1e1a-94a6-3da9-ac80-f153fc503535 | -3.23212 | -42.07314 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 3c4fde3c-bc0a-381a-b6d5-78d519effa28 | -3.23414 | -42.08494 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 5b35f815-1786-31bc-b903-a2161441c52a | -3.23591 | -42.08703 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 3ea01880-07d5-3f4f-89f9-1090ad772953 | -3.2356 | -42.07646 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 008ad8e1-a6b2-3875-9cd7-c881c92a9817 | -3.3927 | -42.10519 | 2025-12-12 03:27:00 | NOAA-21 | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 1e98c565-2268-349e-a656-e3c4953b73d1 | -3.23486 | -42.08073 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 1fdfe6fb-9898-3d09-a237-9eb855435426 | -3.43394 | -41.65155 | 2025-12-12 03:27:00 | NOAA-21 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 71b112aa-9364-3f38-aa32-b1c9d4a20b60 | -3.23633 | -42.07219 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 0ee5dad9-2cd8-3888-83d3-cb356911ad98 | -3.30235 | -42.52789 | 2025-12-12 03:27:00 | NOAA-21 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 3ddad993-32f4-37e2-bb2f-5e10a3647cd9 | -3.23044 | -42.07111 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| b6a04e42-ef4b-32e5-a907-2463c71c6506 | -3.23 | -42.08596 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| eeb98d0a-495e-35e3-bab3-8bb942fe38d8 | -3.43969 | -41.65246 | 2025-12-12 03:27:00 | NOAA-21 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| a1a8d9ab-07bb-37c3-b9d1-15f34c878325 | -3.22971 | -42.07534 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 461ab16d-01a9-3ffe-b890-1e403adc766f | -3.39861 | -42.1062 | 2025-12-12 03:27:00 | NOAA-21 | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 8.4 |
-| af7367d4-e050-3f6a-b0d3-0c5deeb539e8 | -3.23731 | -42.07853 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| a8f64bec-3668-371a-88d8-765a46cd2e3b | -3.2366 | -42.08281 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| e176e5f4-3c96-3bb4-bd90-efb5c7cfbaed | -3.22897 | -42.07961 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 70f484f5-7b99-341f-a9aa-aae663adfe82 | -3.30764 | -42.53349 | 2025-12-12 03:27:00 | NOAA-21 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| dc3cee37-b675-3b12-9e14-f524e6606f51 | -3.22823 | -42.08389 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| c3a81e28-c0f4-357f-9aaf-52815cbd3afd | -3.23142 | -42.07739 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 68278a31-2bb3-341d-87e8-b62c682583b0 | -3.44037 | -41.64844 | 2025-12-12 03:27:00 | NOAA-21 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| e0cd8e44-2b9d-3970-b61b-c7ee09ff6ad4 | -3.23802 | -42.07424 | 2025-12-12 03:27:00 | NOAA-21 | MAGALHÃES DE ALMEIDA | MARANHÃO | Brasil | 2106300 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| fff97085-dc1e-33ec-ae76-504e62c2c162 | -3.22947 | -41.79982 | 2025-12-12 03:27:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 387a7dc2-aaa6-36a8-9554-f6acc2dcdcd2 | -6.95251 | -38.61873 | 2025-12-12 03:29:00 | NOAA-21 | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | 2.0 |
-| 7edf65ee-9ef6-3f8d-af2a-6c18814deb4c | -4.16154 | -39.24793 | 2025-12-12 03:29:00 | NOAA-21 | CARIDADE | CEARÁ | Brasil | 2303006 | 23 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| ffe7e3f1-4451-3a4a-a89e-fabfccf94213 | -10.14178 | -36.40588 | 2025-12-12 03:29:00 | NOAA-21 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 52ebe912-cb59-3d39-b841-1cd41b80b27b | -9.15756 | -37.18845 | 2025-12-12 03:29:00 | NOAA-21 | ITAÍBA | PERNAMBUCO | Brasil | 2607505 | 26 | 33 | nan | nan | nan | Caatinga | 1.2 |
-| 4b74490f-fb8e-3b12-aa5f-81c16b49b078 | -5.89236 | -38.17634 | 2025-12-12 03:29:00 | NOAA-21 | IRACEMA | CEARÁ | Brasil | 2306009 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 814d5424-e4ac-3a3a-8baa-751ecd22acfe | -9.40949 | -35.65113 | 2025-12-12 03:29:00 | NOAA-21 | PARIPUEIRA | ALAGOAS | Brasil | 2706448 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| 51f65df6-1e02-3f92-b68d-387b96911eb9 | -8.79888 | -36.95365 | 2025-12-12 03:29:00 | NOAA-21 | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 1caa9d9a-66f0-3bcd-b6bf-92637107ca11 | -3.97307 | -42.51492 | 2025-12-12 03:29:00 | NOAA-21 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 8514c913-bd13-37df-a35f-eb779412c13d | -6.47226 | -35.16893 | 2025-12-12 03:29:00 | NOAA-21 | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
-| 001606be-e81d-3b8a-8496-7ee86f50f7ba | -6.95647 | -38.61887 | 2025-12-12 03:29:00 | NOAA-21 | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 1bcc86d0-c273-33df-becc-b46c95868030 | -5.15986 | -37.69833 | 2025-12-12 03:29:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 2.4 |
-| 52412dd1-ed1b-38fd-9321-d40ce5bf4250 | -8.80273 | -36.95433 | 2025-12-12 03:29:00 | NOAA-21 | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| aa8482fa-b8fd-39c4-9b66-7038d5defc84 | -4.73435 | -43.07565 | 2025-12-12 03:29:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| e29a9b5c-9066-3b6c-b0fe-57ef90cbc74d | -6.11819 | -41.28114 | 2025-12-12 03:29:00 | NOAA-21 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| aec6798d-097b-3969-a3d6-fa03d8818bd0 | -3.96442 | -41.52697 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| f7735be7-cf29-31ef-8c7c-8797e50e54b7 | -6.11758 | -41.28461 | 2025-12-12 03:29:00 | NOAA-21 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
-| 4ad6ef9d-1061-3488-ab15-4dd3ea662cbb | -7.91556 | -37.59784 | 2025-12-12 03:29:00 | NOAA-21 | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 15916d89-c068-3dc8-bc6e-30cfe109238a | -4.33068 | -39.14906 | 2025-12-12 03:29:00 | NOAA-21 | CANINDÉ | CEARÁ | Brasil | 2302800 | 23 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| f996976d-aa89-3c95-a6c8-a45512ecacda | -10.14545 | -36.40647 | 2025-12-12 03:29:00 | NOAA-21 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| cf92c695-ac06-3903-95d7-77c7231ac759 | -3.95379 | -41.52135 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 3732f0e2-4ba0-324d-9564-4a508081e96e | -6.95625 | -38.62356 | 2025-12-12 03:29:00 | NOAA-21 | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| 1ef5b759-9ac7-36b0-abf1-0690cffebec9 | -6.95571 | -38.62323 | 2025-12-12 03:29:00 | NOAA-21 | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 61a179a6-2755-35fc-952d-9119b3f7e806 | -6.11698 | -41.28809 | 2025-12-12 03:29:00 | NOAA-21 | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 5e8beee5-0d13-3581-abda-0548c2bc9546 | -3.97384 | -42.51043 | 2025-12-12 03:29:00 | NOAA-21 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 1a51c85b-cc4c-3de5-b0db-8a86bd1cc2b8 | -7.46848 | -34.86557 | 2025-12-12 03:29:00 | NOAA-21 | CAAPORÃ | PARAÍBA | Brasil | 2503001 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| 2094273d-0d1a-3321-9693-0856d8ca3148 | -7.89537 | -38.44874 | 2025-12-12 03:29:00 | NOAA-21 | SERRA TALHADA | PERNAMBUCO | Brasil | 2613909 | 26 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| f4ee8d2c-5eb8-32f4-97ee-8a5b3c2318a7 | -3.95556 | -41.52646 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 4.5 |
-| e4d92a09-3744-3ebb-98fe-5764643343c2 | -8.09013 | -35.01547 | 2025-12-12 03:29:00 | NOAA-21 | JABOATÃO DOS GUARARAPES | PERNAMBUCO | Brasil | 2607901 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.6 |
-| cbeccf00-5a4a-3916-a16d-a75f92d6ab44 | -7.33379 | -34.98238 | 2025-12-12 03:29:00 | NOAA-21 | PEDRAS DE FOGO | PARAÍBA | Brasil | 2511202 | 25 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 0bf1e406-db45-38a1-b23b-098898b8e2fe | -3.93644 | -40.73208 | 2025-12-12 03:29:00 | NOAA-21 | MUCAMBO | CEARÁ | Brasil | 2309003 | 23 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| efc6198f-7949-308b-9341-43d04862235f | -3.96122 | -41.52734 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| f3fd2cb1-3c02-3ec2-95a1-2fdee957b555 | -9.66931 | -36.0224 | 2025-12-12 03:29:00 | NOAA-21 | MARECHAL DEODORO | ALAGOAS | Brasil | 2704708 | 27 | 33 | nan | nan | nan | Mata Atlântica | 5.7 |
-| 069f5379-7b08-3ffd-8667-bf4fe142aecf | -7.31323 | -35.06512 | 2025-12-12 03:29:00 | NOAA-21 | PEDRAS DE FOGO | PARAÍBA | Brasil | 2511202 | 25 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 99403ce0-fbb6-30fa-b910-128bbbeb6016 | -4.99465 | -38.05846 | 2025-12-12 03:29:00 | NOAA-21 | RUSSAS | CEARÁ | Brasil | 2311801 | 23 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| 6fff2bf6-51f9-3350-a9e1-1c7619349682 | -8.03791 | -43.10283 | 2025-12-12 03:29:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 10.7 |
-| 637a131c-1121-38b4-999e-6b46f2fe5426 | -4.38967 | -43.63379 | 2025-12-12 03:29:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 96728081-c349-3f9a-badd-066174a3eaae | -3.9531 | -41.52526 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 3.7 |
-| 921a0f55-d772-36a4-a5b9-c07ebb537331 | -9.03152 | -35.69594 | 2025-12-12 03:29:00 | NOAA-21 | JOAQUIM GOMES | ALAGOAS | Brasil | 2703809 | 27 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 1ec3d77b-15bf-3609-b23f-7c2fb9a5656c | -3.96753 | -41.52431 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| 98b15587-58f4-36e2-ad28-adc3af7238d9 | -3.96188 | -41.5234 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| 2d44277b-d02c-3fa1-99fe-18779b15d870 | -7.47297 | -35.31002 | 2025-12-12 03:29:00 | NOAA-21 | FERREIROS | PERNAMBUCO | Brasil | 2605509 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.2 |
-| b052fc5c-34ea-3a2b-87f0-acf8cae253ad | -3.96511 | -41.52305 | 2025-12-12 03:29:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| cc299a15-7bf6-3125-869e-60503f399667 | -9.40592 | -35.65055 | 2025-12-12 03:29:00 | NOAA-21 | PARIPUEIRA | ALAGOAS | Brasil | 2706448 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
-| d4469657-6906-3880-b2fc-7fd8064c1b40 | -3.30563 | -44.8675 | 2025-12-12 03:29:00 | NOAA-21 | ARARI | MARANHÃO | Brasil | 2101004 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 8c5fa80b-93e6-3d91-9380-f1cc2286d107 | -7.07088 | -35.21913 | 2025-12-12 03:29:00 | NOAA-21 | SAPÉ | PARAÍBA | Brasil | 2515302 | 25 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| e00486f9-fc12-3b78-8583-1ee6c9674fc8 | -3.30443 | -44.86452 | 2025-12-12 03:29:00 | NOAA-21 | ARARI | MARANHÃO | Brasil | 2101004 | 21 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 5f744f7d-3487-335d-b5b2-a6e8bc3fe4c9 | -8.8334 | -35.44342 | 2025-12-12 03:29:00 | NOAA-21 | ÁGUA PRETA | PERNAMBUCO | Brasil | 2600401 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 9cb91338-bf9a-347a-ba7b-a4d5f9a13db5 | -9.40521 | -35.64946 | 2025-12-12 03:29:00 | NOAA-21 | PARIPUEIRA | ALAGOAS | Brasil | 2706448 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 0feada3c-cf3e-3cb5-b0ed-7b8d0ba43b5d | -9.40809 | -35.65411 | 2025-12-12 03:29:00 | NOAA-21 | PARIPUEIRA | ALAGOAS | Brasil | 2706448 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 0b5d280b-3b74-3195-8c58-ce0a53b67b0d | -5.16054 | -37.69433 | 2025-12-12 03:29:00 | NOAA-21 | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 1cc6f4da-9cd7-3f3f-8e47-a58d751488fd | -8.91845 | -37.94431 | 2025-12-12 03:29:00 | NOAA-21 | INAJÁ | PERNAMBUCO | Brasil | 2607000 | 26 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| d6a1d485-df6d-3f59-a162-a2971e958199 | -6.95274 | -38.61415 | 2025-12-12 03:29:00 | NOAA-21 | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| ba8371c4-1d34-3e0b-9361-3235087a12be | -6.1188 | -41.27767 | 2025-12-12 03:29:00 | NOAA-21 | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 4.3 |
-| 349bd14c-16bb-3f14-8f5a-b0a2b3210441 | -3.30675 | -44.86084 | 2025-12-12 03:29:00 | NOAA-21 | ARARI | MARANHÃO | Brasil | 2101004 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 82e4a5ef-fe0b-3660-9855-acae935544cc | -9.39801 | -36.02374 | 2025-12-12 03:29:00 | NOAA-21 | CAPELA | ALAGOAS | Brasil | 2701704 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 0b3fb90d-b9ce-3caa-b6e3-425ec146e497 | -7.46952 | -34.86496 | 2025-12-12 03:29:00 | NOAA-21 | CAAPORÃ | PARAÍBA | Brasil | 2503001 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 9ab37bdd-df49-3b67-9868-450b625aaef1 | -2.59557 | -46.87251 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 6bab54fd-a8bc-3013-ac94-1563a88b26d0 | -0.69979 | -49.23393 | 2025-12-13 04:50:00 | NOAA-21 | SANTA CRUZ DO ARARI | PARÁ | Brasil | 1506401 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c7ee9f10-d685-379d-867f-0c3cd4b3cf0a | -2.10226 | -53.47865 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| fd43efc1-ba9e-379a-8bc9-c270c527d0f8 | -0.79412 | -48.63155 | 2025-12-13 04:50:00 | NOAA-21 | SALVATERRA | PARÁ | Brasil | 1506302 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 237d9dbc-8b61-3846-9939-fa16bd5c779c | -2.41829 | -51.92251 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| fa3ce242-b1a4-3e40-a710-0d2a02fd124a | -3.2023 | -41.85811 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 30.5 |
+| d99dc118-63f8-3d1f-a019-c17917cf208a | -3.24345 | -47.25402 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 81c4dcff-ffe0-362b-9028-c11395749954 | -3.19717 | -41.85337 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 14.6 |
+| 68115199-ee78-3f13-86fd-a632b6a7bd1f | -1.0322 | -53.7405 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c0d8e8eb-d491-346a-a7eb-912d5939b214 | -2.66261 | -51.64462 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 5f9baaa2-7d71-33b6-9bc3-a92430e4b8ad | -3.44112 | -41.64675 | 2025-12-13 04:50:00 | NOAA-21 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 8301b490-dc84-38b4-8ef7-a756c3acd39a | -1.90931 | -45.47263 | 2025-12-13 04:50:00 | NOAA-21 | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| f66bbed3-0adf-3438-97ab-398a61aa9b42 | -3.24026 | -47.24837 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 17943eb6-2374-3fcb-b180-b8a3f401000d | -3.43476 | -41.64985 | 2025-12-13 04:50:00 | NOAA-21 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| 5db279b6-7672-3a1a-ab55-7799c6f0c62f | -2.49875 | -51.79783 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| ef95cc84-f7b2-3f00-a7c6-18f525709187 | -3.20344 | -41.8503 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 30.2 |
+| a2f6b86f-2aec-345b-bd82-6d062ffaebf5 | -2.15166 | -53.76613 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 1332b569-06c3-3fc7-802f-a5b9ef3e1c9e | -3.23951 | -47.2534 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| abe52712-6e29-3883-ab67-e587123f80ba | -2.58971 | -52.04484 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| f0c2a1d9-dabc-31af-8484-3eb05c602fad | -3.19661 | -41.85722 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 46.5 |
+| a66060c3-575b-3798-a2a9-3158aa61daee | -3.19775 | -41.84941 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 14.6 |
+| 5cac7867-1b04-3265-b25a-7219884c4f6c | -1.55183 | -53.14401 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a00307bd-ff78-351e-9bba-9155f57067aa | -2.44479 | -46.90936 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 31a9cf76-08f7-3e89-8728-7682b389d940 | -2.36345 | -51.94553 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 056ecb88-ce02-3530-ac24-6cf2883b3613 | -2.36014 | -51.94501 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d6c95613-c31b-358f-a484-567829c84573 | -3.02035 | -47.08902 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 9e106678-f2bf-3b01-8e7e-9d8c68456f25 | -2.48436 | -47.76922 | 2025-12-13 04:50:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 7a257a52-f6d2-32ce-83da-8564f5ea323c | -3.52326 | -47.21199 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 99cd7b9a-b65e-3b2d-9a11-1ba618b9afca | -2.43856 | -47.16178 | 2025-12-13 04:50:00 | NOAA-21 | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 561a9747-9f17-3dc7-8166-5a1356b492ae | -3.47685 | -44.20881 | 2025-12-13 04:50:00 | NOAA-21 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| fc65c154-cf69-3884-ac0c-c3722b64300d | -2.70588 | -51.88691 | 2025-12-13 04:50:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 3924f57d-d3a3-3a69-b68d-805eabdf9ebd | -2.70257 | -51.8864 | 2025-12-13 04:50:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e3a74dd5-bc72-3556-982a-dc3430629706 | -1.63407 | -55.58775 | 2025-12-13 04:50:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6c52f37c-c286-309b-9034-e331201d6489 | -2.4999 | -51.81208 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 8abc51d7-47e8-3f64-9fd8-9ecff925c78a | -2.50205 | -51.79834 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a2271f6d-0bc6-3bc6-bdeb-45c560921fa1 | -3.44838 | -44.73286 | 2025-12-13 04:50:00 | NOAA-21 | ARARI | MARANHÃO | Brasil | 2101004 | 21 | 33 | nan | nan | nan | Amazônia | 9.5 |
+| 8509ddd1-9901-332a-bcff-c6e0c687806c | -1.84701 | -54.52431 | 2025-12-13 04:50:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b1f5b62f-dd3d-3440-bf00-407839865b2c | -2.48685 | -47.777 | 2025-12-13 04:50:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 7.2 |
+| 2575aa88-fc2e-3afb-a15e-5c98f14a9ab8 | -1.63322 | -52.11279 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| eda3c619-392b-3b56-ac3a-31491969a205 | -1.89385 | -45.42726 | 2025-12-13 04:50:00 | NOAA-21 | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| e4967dce-8405-3d5f-b407-8d6bfde0bb0c | -1.66445 | -54.57543 | 2025-12-13 04:50:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| e2aedec7-2134-3503-906e-b669dc0c32f8 | -1.41817 | -52.56999 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| fc1db9a2-c4db-3a3c-9828-e27183ea55fc | -1.34955 | -55.39979 | 2025-12-13 04:50:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4d5ef4f0-eaa5-3cb6-a34c-870989b50d7f | -2.48746 | -47.77437 | 2025-12-13 04:50:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| 14d709ac-705e-364b-9564-a224061c147f | -0.6992 | -49.23769 | 2025-12-13 04:50:00 | NOAA-21 | SANTA CRUZ DO ARARI | PARÁ | Brasil | 1506401 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 2c61b265-723a-3a45-8db2-0068dbc5d86f | -1.18418 | -52.09136 | 2025-12-13 04:50:00 | NOAA-21 | VITÓRIA DO JARI | AMAPÁ | Brasil | 1600808 | 16 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c973cee3-6191-3358-8416-64627d633397 | -1.35027 | -55.39527 | 2025-12-13 04:50:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| cebeb445-46ea-32ac-af94-b690153bf61a | -1.11529 | -53.15082 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 553bcc77-a7c5-33f2-a260-50f3beb22505 | -2.48677 | -47.77898 | 2025-12-13 04:50:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 9445eb1c-3500-328d-8297-5bf9b63417e2 | -2.09954 | -53.42957 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 1e28fc9f-e09b-3a72-a71a-202124c8a521 | -2.42874 | -51.92061 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 59811f3a-4dd2-3a3b-a4e7-b55e55a64592 | -1.16945 | -53.7854 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 540a0a23-2a6d-3d5f-b6ee-f6f48e2c173e | -2.67144 | -46.89808 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 2fcd801e-3a04-330b-ab36-7370d4ff9787 | -2.49821 | -51.80127 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ebf937b8-fd0e-3c19-8bdd-8b5784a3f691 | -2.49767 | -51.8047 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 128ba827-8ab8-378b-a9db-50ce37529539 | -1.82588 | -45.7133 | 2025-12-13 04:50:00 | NOAA-21 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| fe82e00d-1656-3ba9-9cbb-fb0a61bda5a8 | -3.1915 | -41.85241 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 14.6 |
+| 95a5beef-8304-31d8-a1af-dfa35e8a4b14 | -1.42928 | -53.47282 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| c341ed71-bb31-3668-b9e1-7fd743fb4bbd | -1.281 | -53.16496 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 8405f2ae-4a0d-37e7-8c40-530c3b280eb0 | -2.01299 | -46.37897 | 2025-12-13 04:50:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e768bcf1-e261-333b-a9b0-887923d5e771 | -1.90496 | -45.47195 | 2025-12-13 04:50:00 | NOAA-21 | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| 190987f9-495c-3467-88e0-e57b393f0bd6 | -2.86817 | -45.44635 | 2025-12-13 04:50:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 8ee08ed4-fdb7-3cc6-be43-c134c398c563 | -2.18201 | -46.09703 | 2025-12-13 04:50:00 | NOAA-21 | MARACAÇUMÉ | MARANHÃO | Brasil | 2106326 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 13ca437a-1522-3266-9c73-979a8eccfeb8 | -2.11066 | -51.431 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| a0eebacc-8a55-33c2-b149-793841fc9443 | -2.3611 | -53.70704 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 393fd98b-6ea3-3981-925d-61f09191d209 | -0.79766 | -48.6321 | 2025-12-13 04:50:00 | NOAA-21 | SALVATERRA | PARÁ | Brasil | 1506302 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 0f0ae0d8-bc6f-3218-8414-333acc563abd | -2.8726 | -45.44704 | 2025-12-13 04:50:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| e4526919-fdc4-3263-9472-3570aa8b0ee7 | -1.42811 | -53.4802 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 72b284e8-cf8a-35dc-9391-5194fbe6eb23 | -3.47763 | -44.20344 | 2025-12-13 04:50:00 | NOAA-21 | ITAPECURU MIRIM | MARANHÃO | Brasil | 2105401 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| c18e0b8c-bfb9-3ed2-a4b0-8daef59d9ae2 | -1.57938 | -54.12738 | 2025-12-13 04:50:00 | NOAA-21 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 36cd0c7f-4556-3027-b662-fcc2bc1ceaa2 | -2.65877 | -51.64754 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6a8a815d-b2e1-3e79-8001-cd90797318ef | -2.48368 | -47.77381 | 2025-12-13 04:50:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 31a1fcc2-e1de-3537-a16d-bfd7d191174f | -2.50098 | -51.80521 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 51180d5a-96f6-3777-b759-d614da8d2a3c | -3.20286 | -41.85426 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 30.2 |
+| bbdb4b49-9ee6-30d2-b1be-c99a137d4028 | -1.7249 | -47.15562 | 2025-12-13 04:50:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 45c13da4-0025-358d-86ea-09067fb7a6c5 | -1.89822 | -45.42794 | 2025-12-13 04:50:00 | NOAA-21 | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 8c6fe5ad-5c96-303d-b232-90c022eba238 | -1.90559 | -45.46775 | 2025-12-13 04:50:00 | NOAA-21 | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| f2940eaa-ca11-31a6-ae9d-882799a6b4b9 | -2.43204 | -51.92112 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ce50bbc7-205a-3160-888f-248ea13eeaa8 | -1.49353 | -53.13129 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| ec6dd84f-0904-39e0-a065-807d493b435e | -2.78518 | -45.78188 | 2025-12-13 04:50:00 | NOAA-21 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 4b11a073-47b0-3d0a-8834-f098ecbe89b4 | -1.88245 | -54.68749 | 2025-12-13 04:50:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 93b08d3c-3f20-30ff-9212-b16e25574977 | -2.42105 | -51.92646 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f7ae4945-7f2b-31c6-be2f-52cc3b844887 | -1.99017 | -52.07008 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| e7cd7896-4975-351d-ac60-9e5223bc4478 | -2.50151 | -51.80178 | 2025-12-13 04:50:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 6306c150-eedc-3166-9741-f05b751f545b | -1.11145 | -53.68722 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bad2f359-fdf8-3452-9941-44cae1eb983e | -2.41837 | -45.05747 | 2025-12-13 04:50:00 | NOAA-21 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 6.0 |
+| 23f17061-d8b3-305a-966b-62cd8c780b31 | -3.37635 | -45.48527 | 2025-12-13 04:50:00 | NOAA-21 | ZÉ DOCA | MARANHÃO | Brasil | 2114007 | 21 | 33 | nan | nan | nan | Amazônia | 0.4 |
+| a9042c92-3129-33ab-a11d-8db95ccd435f | -2.42382 | -51.9304 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| bb4d9e09-b929-3d7a-85f2-bd2d154e226d | -1.49015 | -53.13077 | 2025-12-13 04:50:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 451d9e51-28be-3fd9-9c4f-e11c3ecfc48c | -3.20858 | -41.85489 | 2025-12-13 04:50:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 30.2 |
+| 1ec1acfc-46f0-3433-8fcf-3d91760260aa | -2.4165 | -44.03747 | 2025-12-13 04:50:00 | NOAA-21 | RAPOSA | MARANHÃO | Brasil | 2109452 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| d611d661-bb19-3d14-adf2-7eca13167dad | -3.51927 | -47.21146 | 2025-12-13 04:50:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 4737a445-1d7c-39cd-bd5a-a8d361e1c3ad | -2.01243 | -46.38263 | 2025-12-13 04:50:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b49f6ff1-995b-36a6-b35b-0e984be15a1f | -2.4315 | -51.92456 | 2025-12-13 04:50:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f84dbf23-f594-3332-b8ae-5499a177eeea | -2.78454 | -45.786 | 2025-12-13 04:50:00 | NOAA-21 | NOVA OLINDA DO MARANHÃO | MARANHÃO | Brasil | 2107357 | 21 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 5dcd285f-ef10-328e-9916-b6a52f4458ef | -1.71221 | -47.02556 | 2025-12-13 04:50:00 | NOAA-21 | CAPITÃO POÇO | PARÁ | Brasil | 1502301 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6defaa33-e81f-3a04-9287-2f7aad0f24ad | -2.48815 | -47.76978 | 2025-12-13 04:50:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
+| d3d2c2d4-a95c-383f-b9b0-cbb44358f63f | -1.11432 | -53.69155 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ef295c7d-44b6-3e8f-8678-42bbf8f9cbe5 | -1.03282 | -53.73664 | 2025-12-13 04:50:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3e4649b0-17ac-3d04-ae4c-82b31def7f58 | -2.67197 | -46.89456 | 2025-12-13 04:50:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)
