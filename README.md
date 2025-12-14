@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 624e1e53-3ce5-3ff5-8983-6b5feb8a6eda | -3.2009 | -41.844 | 2025-12-13 00:00:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 170.3 |
-| 4bab039f-321f-3da5-a4b7-ea739b32db5b | -3.182 | -41.8687 | 2025-12-13 00:00:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 41.2 |
-| 2e9bf0d1-f7b6-3cd9-a1f0-517087c906b6 | -3.2194 | -41.867 | 2025-12-13 00:00:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 48.9 |
-| a650e198-4bb0-3ff1-8344-9983b39033df | -3.2007 | -41.8678 | 2025-12-13 00:00:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 160.0 |
-| d836bc00-a4dc-3952-b594-7a2847680ae0 | -3.2196 | -41.8431 | 2025-12-13 00:00:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 52.5 |
-| 63c86722-736a-3244-82dd-c5b7ea1d7106 | -3.1822 | -41.8448 | 2025-12-13 00:00:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 42.9 |
-| 7024ad84-6d21-3f88-9872-3fd520b8e5a0 | -2.6754 | -46.8905 | 2025-12-13 00:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 57.7 |
-| 21155a7e-3ecb-3821-aa00-3506a2864f1f | -12.885 | -52.5172 | 2025-12-13 00:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| 1c7e759c-9662-33d6-9d01-68d25cb1a46c | -3.1822 | -41.8448 | 2025-12-13 00:10:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 51.1 |
-| 20b6f8f2-24ea-3b4d-92d0-c83cfa6228e3 | -3.182 | -41.8687 | 2025-12-13 00:10:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 33.5 |
-| 198c65cf-9079-3584-bdcb-ad7f73f3d65f | -12.885 | -52.5172 | 2025-12-13 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| 32148f73-993b-3c58-8472-41ba0e86226a | -3.2009 | -41.844 | 2025-12-13 00:10:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 217.6 |
-| db636e61-f740-388c-af05-0d6f9dc0c6a8 | -2.6754 | -46.8905 | 2025-12-13 00:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 50.0 |
-| aa1a2379-ce8d-3e0c-a44d-2d311bf2845a | -3.2194 | -41.867 | 2025-12-13 00:10:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 45.5 |
-| d256dd6c-358a-3e01-8692-70860e169200 | -3.2196 | -41.8431 | 2025-12-13 00:10:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 63.0 |
-| 73a987f1-9739-3fa9-9452-26438bf8f64b | -3.2007 | -41.8678 | 2025-12-13 00:10:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 139.2 |
-| cdc209d3-0fe4-306b-89c4-8347aa50d42e | -3.2196 | -41.8431 | 2025-12-13 00:20:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 65.0 |
-| 3c64e838-fd8d-3d6f-9fac-dc4d301da0da | -12.885 | -52.5172 | 2025-12-13 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 62.2 |
-| e8e22e3f-a175-3a09-ad2b-f3a84e639484 | -3.2194 | -41.867 | 2025-12-13 00:20:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 43.2 |
-| db4e5117-7b1a-378b-9495-5543268bea28 | -3.2007 | -41.8678 | 2025-12-13 00:20:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 149.8 |
-| 191184c1-17f9-3144-99c7-3d3ac0039b1f | -3.1822 | -41.8448 | 2025-12-13 00:20:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 45.1 |
-| 957b9652-3dcd-30c6-92c1-8f7f1d210c9c | -3.2009 | -41.844 | 2025-12-13 00:20:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 229.3 |
-| 4925fb5f-d98c-3252-82f8-4c346d0ef23f | -12.885 | -52.5172 | 2025-12-13 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 60.7 |
-| 854de56e-fee5-39cc-a9c1-b449f83de346 | -3.1822 | -41.8448 | 2025-12-13 00:30:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 30.5 |
-| ed40bb3d-a11c-3063-abe3-37f9d800c1a0 | -3.2194 | -41.867 | 2025-12-13 00:30:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 42.7 |
-| 81272183-416b-38f3-9177-fc1df1dcf425 | -3.2009 | -41.844 | 2025-12-13 00:30:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 125.2 |
-| 5e3dd76f-34ea-324e-b44c-5c9475a9d448 | -9.1717 | -35.7132 | 2025-12-13 00:30:00 | GOES-19 | SÃO LUÍS DO QUITUNDE | ALAGOAS | Brasil | 2708501 | 27 | 33 | nan | nan | nan | Mata Atlântica | 83.3 |
-| ea083a81-2878-30f0-a730-d4fda07a885d | -3.1505 | -44.4111 | 2025-12-13 00:30:00 | GOES-19 | SANTA RITA | MARANHÃO | Brasil | 2110203 | 21 | 33 | nan | nan | nan | Amazônia | 46.7 |
-| e7bbe1ce-b043-3f78-b700-9803321fd880 | -3.2196 | -41.8431 | 2025-12-13 00:30:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 43.8 |
-| 6560c33b-49f8-3aa5-921b-1cc224c9d99c | -9.878 | -35.999 | 2025-12-13 00:30:00 | GOES-19 | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | 72.0 |
-| 4bd0a77c-c15e-33ee-9173-465dca44fd36 | -3.2007 | -41.8678 | 2025-12-13 00:30:00 | GOES-19 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | 114.1 |
-| 893062b5-4870-3e6e-8f05-c680e5039de7 | -3.0185 | -47.079399 | 2025-12-13 00:38:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 188e69cd-1cf8-32c3-abb2-45c34ab67283 | -3.1975 | -41.8456 | 2025-12-13 00:38:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 6d55b7f9-0cb1-3568-9a72-e52165b36e4b | -2.5708 | -45.054901 | 2025-12-13 00:38:00 | METOP-C | PALMEIRÂNDIA | MARANHÃO | Brasil | 2107605 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 59db8b80-6cad-37a1-8286-4dc7f31f4d0d | -3.1226 | -50.602699 | 2025-12-13 00:38:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| a2f6d2f1-c75b-321a-924a-e03ef658a4af | -8.3925 | -44.051399 | 2025-12-13 00:38:00 | METOP-C | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 89b29d5d-83ed-3b5c-9522-ce8758f98746 | -2.0901 | -45.605099 | 2025-12-13 00:38:00 | METOP-C | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 6aba2de3-e7a3-3842-9b9c-54cae7f67f29 | -4.027 | -49.866501 | 2025-12-13 00:38:00 | METOP-C | NOVO REPARTIMENTO | PARÁ | Brasil | 1505064 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9c8e0ef2-4afc-3a64-bfd0-76bba7e9944f | -2.422 | -51.916401 | 2025-12-13 00:38:00 | METOP-C | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b6ea5a65-832c-3b1d-b73a-d81faa9a7db3 | -2.1809 | -46.0868 | 2025-12-13 00:38:00 | METOP-C | CENTRO DO GUILHERME | MARANHÃO | Brasil | 2103158 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 343dae53-308d-3421-abed-8a5ee4dadd78 | -3.1523 | -44.409698 | 2025-12-13 00:38:00 | METOP-C | SANTA RITA | MARANHÃO | Brasil | 2110203 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| f7d7e7f5-2e1d-3f48-a54d-539b43362c99 | -3.8258 | -49.706699 | 2025-12-13 00:38:00 | METOP-C | TUCURUÍ | PARÁ | Brasil | 1508100 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b1d4fa03-7d9e-32f2-81ad-d5da5d3c584f | -9.8767 | -35.983898 | 2025-12-13 00:38:00 | METOP-C | ROTEIRO | ALAGOAS | Brasil | 2707800 | 27 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3653efda-be57-3234-8cab-481f392b9639 | -2.664 | -46.883801 | 2025-12-13 00:38:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| d7422274-82e6-3ab9-b697-8a026bab8d59 | -1.8919 | -54.338402 | 2025-12-13 00:38:00 | METOP-C | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7d5feebf-f27f-3795-9d89-1f2794d1f2f1 | -3.3775 | -52.596001 | 2025-12-13 00:38:00 | METOP-C | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 48300f2c-b74a-387f-8817-80221358afa3 | -2.497 | -51.793201 | 2025-12-13 00:38:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fe42af21-aad5-3d06-8ec5-e21727bcd544 | -12.8764 | -52.505001 | 2025-12-13 00:38:00 | METOP-C | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 29a69544-b023-329e-ac9a-eb049e37b1a9 | -3.1877 | -41.847801 | 2025-12-13 00:38:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| bbe96627-051d-3b11-bb70-78a7550bf764 | -3.0218 | -47.093498 | 2025-12-13 00:38:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9f5946d6-99e3-3db6-88ca-c9cfb8623700 | -4.4796 | -44.882198 | 2025-12-13 00:38:00 | METOP-C | LAGO DO JUNCO | MARANHÃO | Brasil | 2105807 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7fafd19e-d4c6-3016-9ebc-1517e2ef21da | -2.5411 | -45.193802 | 2025-12-13 00:38:00 | METOP-C | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| d26054f9-2fed-32b0-bd98-9aeed055bdef | -8.0398 | -43.0882 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| ee505cee-5b41-3e8b-b1fe-6be5e5ea2f41 | -3.4282 | -52.9133 | 2025-12-13 00:38:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1ae9878a-372a-3ba4-b64b-702f9a9284a9 | -3.645 | -49.5005 | 2025-12-13 00:38:00 | METOP-C | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9fc33d4a-ed8e-3ea7-aae6-516814699a68 | -8.0443 | -43.106701 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 1e249a50-f2ac-3f1f-821c-679f4e2af861 | -3.1209 | -50.5951 | 2025-12-13 00:38:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fcfda1ed-4032-3a9a-abb8-4eee2b157659 | -4.1837 | -47.840302 | 2025-12-13 00:38:00 | METOP-C | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 01cb4a4f-5ae8-3243-a001-b830a9d05f6c | -2.4989 | -51.801601 | 2025-12-13 00:38:00 | METOP-C | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| cb94e7c7-fd94-301b-b33b-3192c6d4498a | -1.7933 | -46.061001 | 2025-12-13 00:38:00 | METOP-C | JUNCO DO MARANHÃO | MARANHÃO | Brasil | 2105658 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| daa06179-975d-3984-9191-dab3abaefdbf | -2.5806 | -45.0527 | 2025-12-13 00:38:00 | METOP-C | PALMEIRÂNDIA | MARANHÃO | Brasil | 2107605 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 85733bde-f9bd-3716-be42-675645492d9d | -8.3827 | -44.053699 | 2025-12-13 00:38:00 | METOP-C | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 71ae21fd-aef5-3092-a821-a149e72aacfc | -2.5392 | -45.185501 | 2025-12-13 00:38:00 | METOP-C | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 310ff44e-ae16-3ae8-813f-2c397f4ec046 | -2.6673 | -46.898102 | 2025-12-13 00:38:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 71175b13-dc8f-341d-ac89-3450b97c357f | -8.4102 | -44.038502 | 2025-12-13 00:38:00 | METOP-C | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 40d9b11d-571e-34e1-a41f-bd690cc74472 | -3.2041 | -41.830299 | 2025-12-13 00:38:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 0b907d73-8def-3aa5-8d43-c0d715c9f505 | -8.0323 | -43.0998 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| bb9bf488-8a25-30ed-968a-1dbc0b31b0c6 | -3.4795 | -43.826199 | 2025-12-13 00:38:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e1087a83-0fb8-3661-a80e-49bb5f77aa8a | -2.9461 | -52.5513 | 2025-12-13 00:38:00 | METOP-C | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f61d2400-b7a2-3052-a4ab-184f68602038 | -3.3032 | -43.514198 | 2025-12-13 00:38:00 | METOP-C | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 38d27f5d-f592-3c57-9d70-6e5890de16f3 | -3.2006 | -41.858501 | 2025-12-13 00:38:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| eca46a7b-7e5b-3c18-bcb2-0952c2b2ad81 | -23.3381 | -45.421902 | 2025-12-13 00:38:00 | METOP-C | NATIVIDADE DA SERRA | SÃO PAULO | Brasil | 3532306 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| dc30cd70-894b-3e8b-b0e4-4501c5f8573f | -1.8893 | -54.326698 | 2025-12-13 00:38:00 | METOP-C | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b9877785-f1de-313d-818a-e8d45d19fbbe | -3.4206 | -52.925499 | 2025-12-13 00:38:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ea1933d5-fd9e-3e0c-a1f5-f220b8c22263 | -2.0112 | -46.3792 | 2025-12-13 00:38:00 | METOP-C | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8afa417f-6356-3e0a-80f7-9254a639b461 | -2.1826 | -46.094398 | 2025-12-13 00:38:00 | METOP-C | MARACAÇUMÉ | MARANHÃO | Brasil | 2106326 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 7fc88a23-aeb1-30d7-a900-7677d660ec57 | -2.6656 | -46.890999 | 2025-12-13 00:38:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b56d3dc8-f46f-31f0-a25b-e1083ea0cbcb | -1.7728 | -46.106098 | 2025-12-13 00:38:00 | METOP-C | BOA VISTA DO GURUPI | MARANHÃO | Brasil | 2101970 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 09f8db5c-c8c4-3762-b532-36f2fed525dd | -3.2434 | -47.249298 | 2025-12-13 00:38:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2e65bcfc-0227-305a-901a-c0d03716d6da | -4.2069 | -44.2901 | 2025-12-13 00:38:00 | METOP-C | COROATÁ | MARANHÃO | Brasil | 2103604 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f39660ba-cd3b-3c43-9366-ff81e5f58024 | -2.0039 | -45.410999 | 2025-12-13 00:38:00 | METOP-C | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| edef9e3c-5756-38fa-a112-313c98dd3042 | -3.0497 | -48.473202 | 2025-12-13 00:38:00 | METOP-C | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 4e8d8ae1-b700-3485-aacc-4e6a76262055 | -1.9056 | -45.476299 | 2025-12-13 00:38:00 | METOP-C | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 9294b37a-61b2-3ad6-9253-cb4e8e4da6c9 | -8.03 | -43.0905 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| e501691b-34e5-350e-8bfd-84a3a7da3bd5 | -8.0345 | -43.109001 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 80457fd6-c0bc-3206-9517-22551ad23e56 | -8.0225 | -43.1021 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 9f2960fb-ebbf-3292-83f0-e243dd7414e3 | -3.4773 | -43.816502 | 2025-12-13 00:38:00 | METOP-C | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d4b717d0-6041-3c4e-9071-8727194076ec | -8.0465 | -43.116001 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 5cca198a-ec9a-3141-8597-0dea23a118e9 | -2.4239 | -51.9249 | 2025-12-13 00:38:00 | METOP-C | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fde70a6d-8986-3e9e-b56c-c6a63e785cb8 | -3.1944 | -41.8326 | 2025-12-13 00:38:00 | METOP-C | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 67b9ccb0-665f-325c-bde6-700709d05450 | -1.9037 | -45.468102 | 2025-12-13 00:38:00 | METOP-C | TURIAÇU | MARANHÃO | Brasil | 2112407 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| b6bcbc95-7691-3ef3-b065-9ef50a22ca4c | -8.054 | -43.104301 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 1168a1ed-994c-378f-b860-0dc9f25c0152 | -2.3657 | -45.726799 | 2025-12-13 00:38:00 | METOP-C | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 2a395225-f242-3830-bd0d-a6f42a57629e | -1.8991 | -54.3246 | 2025-12-13 00:38:00 | METOP-C | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f602e704-6c7b-3df2-9e56-51cf665d7c01 | -1.5653 | -45.8325 | 2025-12-13 00:38:00 | METOP-C | GODOFREDO VIANA | MARANHÃO | Brasil | 2104305 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 73badd11-3b29-3852-8ca9-6fd0a0c91e17 | -8.0421 | -43.0975 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 12c01afd-6ad4-3891-8593-0140dcd5f119 | -3.4184 | -52.915501 | 2025-12-13 00:38:00 | METOP-C | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ae9b110b-749f-3366-ab07-5dc4e3b436db | -12.2764 | -38.412498 | 2025-12-13 00:38:00 | METOP-C | CATU | BAHIA | Brasil | 2907509 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 60aa2480-ef5b-336f-a052-2b1dc9a769f9 | -2.5383 | -45.359001 | 2025-12-13 00:38:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| 7d1e34db-98c8-3e68-b78c-e5cc65169403 | -8.0518 | -43.0951 | 2025-12-13 00:38:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| d3a5b0f0-813f-3cd8-9a26-f2ecd6deface | -8.0327 | -43.0786 | 2025-12-14 00:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 101.7 |
+| 43a77ee4-31e5-3210-b1f4-461bd8dfc43a | -3.7317 | -43.7424 | 2025-12-14 00:00:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 74.8 |
+| aa30575f-dcd4-35a6-ba8b-18cd474b4cef | -3.6277 | -45.6797 | 2025-12-14 00:00:00 | GOES-19 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 85.7 |
+| 6c9936b0-cadf-3f2e-93fe-1dcafcb7ce14 | -2.2907 | -45.5709 | 2025-12-14 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 55.6 |
+| 7bc3b9da-b898-3213-ac7d-e8f21029e644 | -5.68 | -39.259 | 2025-12-14 00:00:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 46.9 |
+| c610812f-fe04-3a8a-b56e-83f9cba5eff6 | -2.2906 | -45.5933 | 2025-12-14 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 93.1 |
+| c5e6c73d-41d6-3498-b316-bd5f817f2fae | -5.6797 | -39.2841 | 2025-12-14 00:00:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 42.1 |
+| fb72788d-0ffc-3571-b0f2-b75a6774efca | -2.272 | -45.5938 | 2025-12-14 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 93.9 |
+| 83d8d4c5-c4d2-3700-8abb-2b34dd380eeb | -3.7316 | -43.7655 | 2025-12-14 00:00:00 | GOES-19 | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | 75.8 |
+| df57acfe-4045-3544-a012-74c94a40f6f0 | -2.1425 | -45.4628 | 2025-12-14 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 84.2 |
+| 56b0a31a-3085-3885-9418-5b402b422630 | -2.8485 | -45.3963 | 2025-12-14 00:00:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 1f9a201e-9905-31e4-83e0-eb0846a55d51 | -2.4768 | -45.4309 | 2025-12-14 00:00:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 50.1 |
+| b173e903-ff7b-36f1-8597-2b2f8bd56f68 | -8.0324 | -43.1022 | 2025-12-14 00:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 160.9 |
+| 1ea2949b-3d86-388f-918e-18bda48fc10a | -2.0768 | -56.4674 | 2025-12-14 00:00:00 | GOES-19 | TERRA SANTA | PARÁ | Brasil | 1507979 | 15 | 33 | nan | nan | nan | Amazônia | 67.0 |
+| d5b11e33-ce30-3a3d-b35e-4ab88b15b264 | -3.5186 | -48.9201 | 2025-12-14 00:00:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
+| f880ebc4-ae55-360e-9802-0fe742215f29 | -3.4451 | -41.6413 | 2025-12-14 00:00:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 63.5 |
+| 3ced00fc-7508-38ad-be87-8cad5dcec388 | -2.1426 | -45.4403 | 2025-12-14 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 57.2 |
+| e0ec5440-4f98-39a9-96a7-f4ac123894eb | -8.0696 | -43.1452 | 2025-12-14 00:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 97.2 |
+| dd704479-c946-38fc-9e17-1f753e07941b | -8.0886 | -43.1431 | 2025-12-14 00:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 69.2 |
+| cbe20076-1316-317e-91b8-dbe546f7827c | -8.0513 | -43.1001 | 2025-12-14 00:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 64.8 |
+| c57ea694-4e6f-3876-94ff-d173f1231400 | -16.2383 | -58.8395 | 2025-12-14 00:00:00 | GOES-19 | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | 56.9 |
+| 61cece51-6646-32e0-81ed-bbf85969b45a | -2.8429 | -46.7312 | 2025-12-14 00:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 54.5 |
+| f62f3c9a-2134-34dc-8a73-7b4d2f60566f | -2.2721 | -45.5714 | 2025-12-14 00:00:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 56.0 |
+| 08185039-e43c-3282-9dc1-f5bb2e708faa | -8.0324 | -43.1022 | 2025-12-14 00:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 141.9 |
+| c1d43291-ea30-3787-a4c2-f12a99c2d9a7 | -2.0768 | -56.4674 | 2025-12-14 00:10:00 | GOES-19 | TERRA SANTA | PARÁ | Brasil | 1507979 | 15 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| 8f8d3290-7fc2-374a-8972-f7ed0f05c3c3 | -2.2907 | -45.5709 | 2025-12-14 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 41.9 |
+| 6ecc58bc-d3ed-3be2-b3cb-995b5a6a55e1 | -3.6277 | -45.6797 | 2025-12-14 00:10:00 | GOES-19 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 80.7 |
+| 68145db7-5e5c-305e-8fff-b4e9d40de5e1 | -2.2721 | -45.5714 | 2025-12-14 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 44.9 |
+| 00a2f6e0-7458-38ec-9c87-d6d096feb5a9 | -8.0327 | -43.0786 | 2025-12-14 00:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 115.4 |
+| aa878b58-4818-3c9f-9031-096eda3a10df | -5.6797 | -39.2841 | 2025-12-14 00:10:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 51.5 |
+| a2f13579-0e46-3126-8458-28cfd24d3f92 | -2.1425 | -45.4628 | 2025-12-14 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| ead5cb33-5d97-32f0-8f5d-c6162ac88475 | -8.0886 | -43.1431 | 2025-12-14 00:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 60.0 |
+| e9108da1-0def-3bf1-8cf9-8f7b7cbede91 | -2.8429 | -46.7312 | 2025-12-14 00:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| fcc8951c-9a99-30da-8a4b-d52ce8cef9ef | -8.0696 | -43.1452 | 2025-12-14 00:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 80.3 |
+| 331fdbaa-258e-346a-ab00-5dc38ec0b11c | -2.2906 | -45.5933 | 2025-12-14 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 51.3 |
+| 8c213398-3a48-3e2c-9d88-a9e26eca0462 | -3.5371 | -48.9195 | 2025-12-14 00:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| 69975afc-4d69-35e4-a7ee-05bff9082928 | -2.272 | -45.5938 | 2025-12-14 00:10:00 | GOES-19 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 53.2 |
+| a43ff1d4-3f8e-30f3-95db-80c516b14ee6 | -3.4451 | -41.6413 | 2025-12-14 00:10:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 68.2 |
+| bcbd3810-4072-3f98-b706-6aa42b5fe9d0 | -1.0367 | -53.5575 | 2025-12-14 00:10:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 50.2 |
+| 5eb7e640-cdd5-3ccb-8c3a-1382fcfa5329 | -5.68 | -39.259 | 2025-12-14 00:10:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 47.4 |
+| ab1bc3d6-aad7-39a0-ba23-b30a2cef44b4 | -8.0513 | -43.1001 | 2025-12-14 00:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 61.2 |
+| a04d4d7c-a385-3de6-98d5-03fe6c0f714c | -1.0184 | -53.5576 | 2025-12-14 00:10:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 46.8 |
+| cc1edc21-b949-3cdd-a0fc-09e23db71ba0 | -5.6608 | -39.2858 | 2025-12-14 00:10:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 37.1 |
+| 2832e603-62ee-345e-aba4-6b5234021015 | -3.5186 | -48.9201 | 2025-12-14 00:10:00 | GOES-19 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 54.8 |
+| db48a790-c8ba-3106-981b-0c324dd1437b | -8.0373 | -43.106998 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 3a1dc39a-267b-3baa-8526-cde1d6778d02 | -4.3461 | -43.642601 | 2025-12-14 00:18:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 759a7b2e-504a-35d4-ba7d-d15ea7657ad1 | -2.1324 | -45.463001 | 2025-12-14 00:18:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| d4aca05d-62a6-305a-86dd-c23aae31bb98 | -4.3445 | -43.6357 | 2025-12-14 00:18:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| faaef208-f390-3275-9634-e70ed2f422a8 | -8.0681 | -43.1521 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| c16900a1-7046-349c-8a62-8e6809b4a9fc | -8.0358 | -43.099998 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 674b0d74-887e-31a0-9d17-ac1784c0e8fb | -2.8842 | -44.963299 | 2025-12-14 00:18:00 | METOP-C | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 53688214-8737-3a1f-bf02-129d6d47befd | -3.7424 | -40.8344 | 2025-12-14 00:18:00 | METOP-C | FRECHEIRINHA | CEARÁ | Brasil | 2304509 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 920b99d9-ec2d-3c2a-9745-dc7df029ed64 | -4.6923 | -43.261501 | 2025-12-14 00:18:00 | METOP-C | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 77a08c74-ad2f-39ed-904b-2de5cf2940e4 | -3.6674 | -44.8283 | 2025-12-14 00:18:00 | METOP-C | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| d5e17084-074c-3d42-ac6e-bc591a13b4be | -9.105 | -40.462101 | 2025-12-14 00:18:00 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| 5d3a0372-6fa8-3817-a56e-47c27eaaec4b | -2.7659 | -45.213402 | 2025-12-14 00:18:00 | METOP-C | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| c79c73e9-2251-35ef-a681-79c4c88fae9b | -3.4354 | -41.6492 | 2025-12-14 00:18:00 | METOP-C | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| ff258391-fee5-3c61-82fc-1510948570e7 | -3.4931 | -41.989601 | 2025-12-14 00:18:00 | METOP-C | MURICI DOS PORTELAS | PIAUÍ | Brasil | 2206696 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| e164366d-9e7f-3331-923e-0e610cbbb10f | -3.6219 | -45.6735 | 2025-12-14 00:18:00 | METOP-C | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 5a7a2f54-8a10-3755-b6e2-0f94e02507aa | -5.004 | -42.774899 | 2025-12-14 00:18:00 | METOP-C | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| a0dd25c5-1c39-39b0-b6d8-681bd49c0816 | -2.8858 | -44.9706 | 2025-12-14 00:18:00 | METOP-C | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 82b0c29d-59e2-36c4-923a-a6aea70ec496 | -2.8339 | -46.739201 | 2025-12-14 00:18:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b5836c0e-9fde-38c4-b461-29234d4a6248 | -6.5939 | -39.52 | 2025-12-14 00:18:00 | METOP-C | CARIÚS | CEARÁ | Brasil | 2303303 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 20f12151-1b6d-3a57-a499-a91cc1b1671f | -4.9334 | -43.959702 | 2025-12-14 00:18:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ed56f7de-528a-3808-9eb3-0c2d9e674dc0 | -5.3486 | -40.686699 | 2025-12-14 00:18:00 | METOP-C | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| fe423032-d7bf-3e53-bb75-c2528b161121 | -3.881 | -42.510201 | 2025-12-14 00:18:00 | METOP-C | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 38c94535-7c0c-33a6-b4e3-f4dd827e7649 | -4.343 | -43.628799 | 2025-12-14 00:18:00 | METOP-C | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| eefbd886-f29e-3870-b700-f036d13f74d3 | -3.1423 | -45.3741 | 2025-12-14 00:18:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| bfe2e935-13a7-34e8-849b-e078d394c7d4 | -2.7676 | -45.220798 | 2025-12-14 00:18:00 | METOP-C | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 157e6b80-92f7-3fc9-9c50-61c217d4d862 | -5.6669 | -39.264301 | 2025-12-14 00:18:00 | METOP-C | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| fb315302-029a-355d-92f6-eeea4966d8b7 | -9.1165 | -40.4669 | 2025-12-14 00:18:00 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
+| abf35650-9a2f-3aed-b2d0-b54bac3357b9 | -8.026 | -43.1022 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 779a3c1d-f5e8-392b-8137-1c55cba9b770 | -5.6787 | -39.270401 | 2025-12-14 00:18:00 | METOP-C | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 4e47dd4e-03b6-363b-88a7-99e709e7b2fd | -6.5276 | -39.281601 | 2025-12-14 00:18:00 | METOP-C | CEDRO | CEARÁ | Brasil | 2303808 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 3764422a-a4a2-3476-8000-e461b8650ea2 | -2.2816 | -45.756599 | 2025-12-14 00:18:00 | METOP-C | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 2bf7b81c-ea04-3f05-9cc2-fb6d5784baf8 | -3.7232 | -43.7593 | 2025-12-14 00:18:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 96eadc81-1cf1-3e91-bd66-83152f150c49 | -3.1406 | -45.366501 | 2025-12-14 00:18:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 806260e8-f3da-3772-80cf-970e323c8b7e | -7.0149 | -38.546101 | 2025-12-14 00:18:00 | METOP-C | CAJAZEIRAS | PARAÍBA | Brasil | 2503704 | 25 | 33 | nan | nan | nan | Caatinga | nan |
+| 55dbf69f-95e2-39df-b8a8-8dad582af384 | -3.7298 | -43.743301 | 2025-12-14 00:18:00 | METOP-C | VARGEM GRANDE | MARANHÃO | Brasil | 2112704 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| be1fc375-99eb-3525-b2b0-0652304ff9f1 | -6.5958 | -39.527901 | 2025-12-14 00:18:00 | METOP-C | CARIÚS | CEARÁ | Brasil | 2303303 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| 6099b67e-cbd3-35a8-ac46-d1798e37fe90 | -1.4526 | -46.276901 | 2025-12-14 00:18:00 | METOP-C | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 9f6a126d-f458-369a-858b-051b230c770c | -8.0342 | -43.092899 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 7f5c9f47-aba1-3c15-bf7b-3bcdf9a5f577 | -3.5007 | -42.3363 | 2025-12-14 00:18:00 | METOP-C | LUZILÂNDIA | PIAUÍ | Brasil | 2205805 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 8c0998bb-b6a1-34b3-b306-e02e9c956931 | -2.1307 | -45.455502 | 2025-12-14 00:18:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 36a6c861-1593-3d94-8505-93760bcdd7bb | -2.1422 | -45.4608 | 2025-12-14 00:18:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 488203ba-ad6b-3fe8-b3e8-9caa4a4ff703 | -1.5235 | -45.684601 | 2025-12-14 00:18:00 | METOP-C | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 4cb37e1e-74bf-3d89-b7d3-ad9e83efeed5 | -2.1405 | -45.4534 | 2025-12-14 00:18:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 17fe81f7-21a2-34e3-b269-707cbcea7882 | -8.0665 | -43.145 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| d5edf9f3-128b-3493-bd08-c98925eaadaa | -2.4761 | -45.434101 | 2025-12-14 00:18:00 | METOP-C | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 0f5dbde9-7d7f-3300-8449-6bd340daa1ea | -3.8841 | -42.5238 | 2025-12-14 00:18:00 | METOP-C | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 50549c2e-5948-3b64-8093-5918559286ec | -3.437 | -41.6563 | 2025-12-14 00:18:00 | METOP-C | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 73385f59-2728-3f5b-bf04-0af20b27f76c | -8.0697 | -43.1591 | 2025-12-14 00:18:00 | METOP-C | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 66ce9479-dbae-3cf2-bed9-6996befe6a77 | -3.7406 | -40.8269 | 2025-12-14 00:18:00 | METOP-C | FRECHEIRINHA | CEARÁ | Brasil | 2304509 | 23 | 33 | nan | nan | nan | Caatinga | nan |
+| b68389b4-4b81-36ab-ba61-66cb1a8044cb | -2.8493 | -45.399101 | 2025-12-14 00:18:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| c68cf1da-0795-3839-a838-ff263245f9d4 | -4.6907 | -43.254601 | 2025-12-14 00:18:00 | METOP-C | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3bdb9c7e-82a2-3428-b641-58c35b15abc1 | -5.011 | -41.2784 | 2025-12-14 00:18:00 | METOP-C | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 94f17846-abf9-3651-9d13-73c22378a594 | -2.8476 | -45.391602 | 2025-12-14 00:18:00 | METOP-C | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| e1254663-329e-3af2-af5c-8ab2ccfe765b | -2.2843 | -45.587601 | 2025-12-14 00:18:00 | METOP-C | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| ec794cbd-313a-31b4-a66b-d59d19b75fc0 | -11.7095 | -37.652802 | 2025-12-14 00:18:00 | METOP-C | CONDE | BAHIA | Brasil | 2908606 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| c92ccb7d-b16a-33a4-89ae-13bf37b58c9b | -9.1148 | -40.459801 | 2025-12-14 00:18:00 | METOP-C | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | nan |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
