@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| f2476fa3-ea84-3ed7-99ab-3ca80bd73526 | -8.0696 | -43.1452 | 2025-12-14 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.6 |
-| 876bc6ce-f7f4-38e1-bb5c-374456970275 | -2.4767 | -45.4534 | 2025-12-14 01:00:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 83.6 |
-| a80794cc-094a-3442-ae08-4bd931cec357 | -2.8874 | -44.9892 | 2025-12-14 01:00:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| 40cb1e02-d53d-3fc0-b5d3-60881894eab4 | -8.0513 | -43.1001 | 2025-12-14 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 59.3 |
-| 99447b62-c027-307e-815c-e7e84fe8bdc0 | -5.6797 | -39.2841 | 2025-12-14 01:00:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 80.3 |
-| 0c177535-a8f0-3231-99bd-69be4f47396a | -3.6277 | -45.6797 | 2025-12-14 01:00:00 | GOES-19 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 44.7 |
-| c00cd143-880d-3de8-a02b-94e04cde369d | -1.5296 | -45.678 | 2025-12-14 01:00:00 | GOES-19 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| 2350b3ca-62d1-33da-b27d-59aefda1ca9f | -8.0327 | -43.0786 | 2025-12-14 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 86.9 |
-| 2fd8001a-43d2-399e-bcb6-76b01f10cf38 | -8.0324 | -43.1022 | 2025-12-14 01:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 103.3 |
-| 13b7ebdf-8ac4-30cc-9505-fae5aa410422 | -2.8875 | -44.9666 | 2025-12-14 01:00:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 176.4 |
-| 310302fc-b47f-3477-8e90-d538d0969bb0 | -3.4451 | -41.6413 | 2025-12-14 01:00:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 57.8 |
-| ed8773a8-02cb-3bd4-bd0b-0d320e49b622 | -8.0327 | -43.0786 | 2025-12-14 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.3 |
-| 63e7f7ec-2d35-3ac5-9a7d-83bf527ecbb6 | -5.6797 | -39.2841 | 2025-12-14 01:10:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 63.3 |
-| 04808163-674a-321d-93ca-2f18b00fb861 | -2.4768 | -45.4309 | 2025-12-14 01:10:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 137.8 |
-| e26e1a66-c24f-3c8a-90cc-f3c53e864b42 | -3.4451 | -41.6413 | 2025-12-14 01:10:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 62.7 |
-| d75f7410-0c27-3959-bc2c-df887ec11339 | -5.68 | -39.259 | 2025-12-14 01:10:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 72.6 |
-| fa721430-704f-335c-a51d-54ca95595426 | -1.5296 | -45.678 | 2025-12-14 01:10:00 | GOES-19 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 71.5 |
-| 36283014-584d-34c1-8ef7-ed281e13fb7c | -2.8875 | -44.9666 | 2025-12-14 01:10:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 166.1 |
-| 7ccdcd14-37d0-3eaa-b7a0-5c89dedb5d23 | -5.6611 | -39.2607 | 2025-12-14 01:10:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 48.5 |
-| 8ef5d57f-8d3a-3502-8add-9a28fccb2244 | -16.2383 | -58.8395 | 2025-12-14 01:10:00 | GOES-19 | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | 65.9 |
-| a76286ee-beb1-32a6-a525-541f30e31c56 | -8.0696 | -43.1452 | 2025-12-14 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 64.8 |
-| d4c6a4b5-7d6a-3b42-90f4-f80e4f651ede | -2.4767 | -45.4534 | 2025-12-14 01:10:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 85.7 |
-| a4916fc4-4a65-315e-a71f-7cfbba54597d | -3.6277 | -45.6797 | 2025-12-14 01:10:00 | GOES-19 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 42.9 |
-| 739ac51d-6897-3470-b851-571a2e430660 | -2.4954 | -45.4303 | 2025-12-14 01:10:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 95.9 |
-| 37f4faed-7782-354b-934d-f807c3c1bc7d | -8.0324 | -43.1022 | 2025-12-14 01:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 118.1 |
-| ff0dd6d6-1e58-399b-a0e2-f5f60bba97cb | -16.2267 | -58.8172 | 2025-12-14 01:15:00 | METOP-B | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 279243b0-b80c-3b62-9b6f-86d273c69f3f | -16.229 | -58.826599 | 2025-12-14 01:15:00 | METOP-B | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| e84aedec-b56f-39d3-80ef-a2ed2d393b35 | -5.68 | -39.259 | 2025-12-14 01:20:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 59.4 |
-| 4cc9bd26-c42d-31bd-8979-b38ff14ebc9f | -8.0327 | -43.0786 | 2025-12-14 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.8 |
-| 737d914d-a97f-30af-9b03-88ab956a34fc | -2.8875 | -44.9666 | 2025-12-14 01:20:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 142.6 |
-| 1ba6d97a-63e4-3bf1-9090-efc262ac2cd8 | -1.5296 | -45.678 | 2025-12-14 01:20:00 | GOES-19 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 72.1 |
-| 50ecb9c6-4285-3da0-8a40-1b75969d49f1 | -8.0324 | -43.1022 | 2025-12-14 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 76.2 |
-| d9c5630e-b421-3d22-81bf-732a34570056 | -2.4767 | -45.4534 | 2025-12-14 01:20:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 92.5 |
-| 769bcf9d-b976-3365-97e3-2bc0ee385890 | -3.6277 | -45.6797 | 2025-12-14 01:20:00 | GOES-19 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| fa58146b-c8cd-3e00-8502-5d83ae9cecb0 | -2.8857 | -45.3726 | 2025-12-14 01:20:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 76.4 |
-| 13841d23-28c3-34b1-aa2e-465c86273ea7 | -5.6797 | -39.2841 | 2025-12-14 01:20:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 57.3 |
-| 5cf77736-8276-37c3-a0d3-f4e2b0a7b0fa | -2.4768 | -45.4309 | 2025-12-14 01:20:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 144.6 |
-| 58ecce8a-2bac-3ec2-a514-330baefc78b2 | -8.0696 | -43.1452 | 2025-12-14 01:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 57.8 |
-| 0e033d2d-84a7-3606-89ba-61f2a7ba61e0 | -16.2383 | -58.8395 | 2025-12-14 01:20:00 | GOES-19 | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | 68.2 |
-| ab02a99f-1955-3aca-9583-42c382716ce6 | -8.0324 | -43.1022 | 2025-12-14 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 85.6 |
-| 30c4a546-0eaa-34c9-a455-375777069511 | -2.4767 | -45.4534 | 2025-12-14 01:30:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 74.6 |
-| 1735b406-e9cc-361e-bfc5-607f1588a5b6 | -2.8876 | -44.9439 | 2025-12-14 01:30:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 67.2 |
-| 1a308c2e-dd15-3645-9c84-dfb4a972d4db | -2.8875 | -44.9666 | 2025-12-14 01:30:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 185.3 |
-| d18e7909-4401-3402-afb7-e12fd8c7bf17 | -5.68 | -39.259 | 2025-12-14 01:30:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 58.1 |
-| 7eae53fc-0af1-382a-9733-03bfc20e470b | -1.5296 | -45.678 | 2025-12-14 01:30:00 | GOES-19 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 83.3 |
-| 8628fa8c-e74d-3d47-8058-c800eb77a117 | -2.4768 | -45.4309 | 2025-12-14 01:30:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 116.8 |
-| 721eeca6-e008-301a-91fb-3674def60e92 | -8.0696 | -43.1452 | 2025-12-14 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 51.5 |
-| b5762280-2939-3562-9787-5538564a1e18 | -8.0327 | -43.0786 | 2025-12-14 01:30:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 65.1 |
-| 71cca1f3-d169-3a10-968c-ecc70740b769 | -3.4451 | -41.6413 | 2025-12-14 01:30:00 | GOES-19 | COCAL | PIAUÍ | Brasil | 2202703 | 22 | 33 | nan | nan | nan | Caatinga | 62.9 |
-| cbf600ba-78a0-3bec-9573-4dc0d1d79a54 | -5.6797 | -39.2841 | 2025-12-14 01:30:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 63.7 |
-| d54c7a7a-1987-37ca-ab2b-ec95717cbc11 | -16.2383 | -58.8395 | 2025-12-14 01:30:00 | GOES-19 | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | 55.7 |
-| 40ff9ba2-4326-3a3d-87a3-5b30f2d56de6 | -8.0696 | -43.1452 | 2025-12-14 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 56.8 |
-| 44372a15-4cb0-30a5-9bff-e5067c9ed7bf | -8.0324 | -43.1022 | 2025-12-14 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 73.5 |
-| 434c679b-8431-3652-a56b-7b939f08b12d | -1.5296 | -45.678 | 2025-12-14 01:40:00 | GOES-19 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| fb67eb7a-38a1-3b18-bc79-179c6ec2396e | -5.68 | -39.259 | 2025-12-14 01:40:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 65.6 |
-| 7c5a9a2b-4427-37b7-9bbc-c004cf044ebf | -2.8876 | -44.9439 | 2025-12-14 01:40:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 74.0 |
-| 44f8ecc1-108b-3785-83a3-ef141d025a8a | -2.8874 | -44.9892 | 2025-12-14 01:40:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 69.9 |
-| a466d740-4a7a-389d-b3ba-dc514b4d9786 | -2.8875 | -44.9666 | 2025-12-14 01:40:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 271.1 |
-| be8514a9-e2c8-30d6-9842-caaf18d91fb5 | -5.6797 | -39.2841 | 2025-12-14 01:40:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 53.4 |
-| e8fc3889-f1ac-3c7d-9767-0d50bc1cd794 | -8.0327 | -43.0786 | 2025-12-14 01:40:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 54.6 |
-| 367a717c-9d37-3218-8082-858715e32fc1 | -5.6611 | -39.2607 | 2025-12-14 01:40:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 41.7 |
-| 7293ea94-dd0e-3cb9-9370-c15d6328e49b | -2.8857 | -45.3726 | 2025-12-14 01:40:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| dfd06264-b522-361e-aad1-00a69a59192c | -2.4768 | -45.4309 | 2025-12-14 01:40:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 99.1 |
-| 74e45c8e-f027-3eb5-8be5-2ea215ed7dba | -2.9061 | -44.9659 | 2025-12-14 01:40:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 66.2 |
-| 4d68c074-8d3a-3c31-bea1-cb209689c14b | -8.0513 | -43.1001 | 2025-12-14 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 52.6 |
-| 69a5c9c9-c47c-3c44-bf74-54bb1c873fa6 | -2.4768 | -45.4309 | 2025-12-14 01:50:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 86.5 |
-| a002dcf1-3ad3-3f7a-906c-0e0cf49294cc | -8.0327 | -43.0786 | 2025-12-14 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 49.9 |
-| 1fb06a9d-3d1f-30a4-9cca-20c0ab7769b1 | -8.0696 | -43.1452 | 2025-12-14 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 60.4 |
-| a42cd482-a035-3512-8509-b3228d46b0de | -2.8875 | -44.9666 | 2025-12-14 01:50:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 178.2 |
-| 2f830cec-0316-3034-8bcd-215ffcf506fd | -2.9061 | -44.9659 | 2025-12-14 01:50:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 62.5 |
-| 31922103-214a-3c10-921e-edfdff8d7763 | -5.6797 | -39.2841 | 2025-12-14 01:50:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 54.3 |
-| c887a1b4-da79-3ee7-91e8-71193a6020ec | -2.216 | -45.6848 | 2025-12-14 01:50:00 | GOES-19 | GOVERNADOR NUNES FREIRE | MARANHÃO | Brasil | 2104677 | 21 | 33 | nan | nan | nan | Amazônia | 82.3 |
-| a6341f44-d317-300a-9013-f462ce08d723 | -8.0324 | -43.1022 | 2025-12-14 01:50:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 72.0 |
-| dac173f2-84c2-3a1d-be5e-d92a99393fb1 | -2.8876 | -44.9439 | 2025-12-14 01:50:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 59.0 |
-| 55879693-cd9a-34de-a27e-d978b010b322 | -5.68 | -39.259 | 2025-12-14 01:50:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 60.5 |
-| a639956a-7170-388e-bf28-d079e1d8fb72 | -2.8875 | -44.9666 | 2025-12-14 02:00:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 187.2 |
-| 60bf8aed-465a-3267-9c1b-5221ec60e6d1 | -2.8857 | -45.3726 | 2025-12-14 02:00:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 51.8 |
-| 1e50287c-e921-3996-9dc7-5060ff0842a3 | -2.8876 | -44.9439 | 2025-12-14 02:00:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 60.7 |
-| db67aa09-0679-3142-8a9c-3f6ebd0bb606 | -8.0327 | -43.0786 | 2025-12-14 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 58.2 |
-| 2acc9232-b49a-35b7-9c7a-d90fdb158809 | -8.0696 | -43.1452 | 2025-12-14 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 55.6 |
-| f502ddcf-4a3b-3858-a0be-5540392a10eb | -2.216 | -45.6848 | 2025-12-14 02:00:00 | GOES-19 | GOVERNADOR NUNES FREIRE | MARANHÃO | Brasil | 2104677 | 21 | 33 | nan | nan | nan | Amazônia | 64.8 |
-| 41819dea-1152-33ca-924e-f591bc6636de | -5.68 | -39.259 | 2025-12-14 02:00:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 64.0 |
-| f8bc3cdf-b5bb-3815-9b29-dae1bff31b5f | -8.0324 | -43.1022 | 2025-12-14 02:00:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 84.7 |
-| 2dd82609-a231-31ce-a1f0-b120da3515bd | -1.5296 | -45.678 | 2025-12-14 02:00:00 | GOES-19 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 66.5 |
-| 5975d9ff-175d-31ea-abb4-a7d8bc647216 | -5.6797 | -39.2841 | 2025-12-14 02:00:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 62.6 |
-| 1ddbb98a-c459-3555-a439-de4e8c8b4793 | -2.4768 | -45.4309 | 2025-12-14 02:00:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 69.7 |
-| 10264a26-0b72-3548-bb02-8f1326d7e849 | -8.0327 | -43.0786 | 2025-12-14 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 56.6 |
-| 7c3e9059-bdbb-314b-913e-cc5cd4a92d4b | -5.68 | -39.259 | 2025-12-14 02:10:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 46.1 |
-| 0b21b210-6d89-3345-bac2-4dba8e5d5238 | -8.0324 | -43.1022 | 2025-12-14 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 67.4 |
-| bf67aed8-6fa6-3c81-a5f2-dff79b1249ad | -8.0696 | -43.1452 | 2025-12-14 02:10:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 52.7 |
-| 5fd57476-a622-3d4b-b97b-f72ece4561eb | -2.4768 | -45.4309 | 2025-12-14 02:10:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 50.0 |
-| 2885ad64-a140-35b4-87a6-291a6562a9a3 | -2.8875 | -44.9666 | 2025-12-14 02:10:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 97.7 |
-| 91af5f80-0932-3e3a-a6f4-04c5704f5f01 | -5.6797 | -39.2841 | 2025-12-14 02:10:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 51.1 |
-| 27890e6d-3f6f-30ef-b769-c7a75ae7220a | -5.6797 | -39.2841 | 2025-12-14 02:20:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 47.0 |
-| 33170d50-253e-3ee3-b633-6220ba7d570a | -8.0696 | -43.1452 | 2025-12-14 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 50.5 |
-| d61e2d1d-8ba8-3b88-be8f-bb6aea13a1c5 | -2.8875 | -44.9666 | 2025-12-14 02:20:00 | GOES-19 | SÃO VICENTE FERRER | MARANHÃO | Brasil | 2111706 | 21 | 33 | nan | nan | nan | Amazônia | 77.0 |
-| b73374bc-1930-3f60-8355-cca50793dc5d | -8.0327 | -43.0786 | 2025-12-14 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 57.3 |
-| 1bcf9ddb-f33c-3c60-849a-2a36fe1321e6 | -5.68 | -39.259 | 2025-12-14 02:20:00 | GOES-19 | MILHÃ | CEARÁ | Brasil | 2308351 | 23 | 33 | nan | nan | nan | Caatinga | 51.7 |
-| d50a859c-280c-3dc6-bda3-3d2b5ff78e49 | -8.0324 | -43.1022 | 2025-12-14 02:20:00 | GOES-19 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 66.3 |
-| fa2f220e-afe1-3b6f-b5c7-1370b0e35322 | -2.4768 | -45.4309 | 2025-12-14 02:20:00 | GOES-19 | PRESIDENTE SARNEY | MARANHÃO | Brasil | 2109270 | 21 | 33 | nan | nan | nan | Amazônia | 51.3 |
+| ab1157c8-7866-36ac-96dc-6c49e45aaa46 | -3.20907 | -46.83186 | 2025-12-15 04:14:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ca2194a0-6468-3e91-b97d-0cb75e36b653 | -5.492 | -45.3845 | 2025-12-15 04:14:00 | NOAA-21 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 3d85e936-438e-377a-805f-b118738d0908 | -5.62682 | -35.3417 | 2025-12-15 04:14:00 | NOAA-21 | CEARÁ-MIRIM | RIO GRANDE DO NORTE | Brasil | 2402600 | 24 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| 4b597218-9064-34ae-af78-7e5b0b15e4db | -3.21546 | -41.56581 | 2025-12-15 04:14:00 | NOAA-21 | BOM PRINCÍPIO DO PIAUÍ | PIAUÍ | Brasil | 2201919 | 22 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| fffacbf7-f1ce-3be1-b552-45728d765f57 | -3.71679 | -39.62528 | 2025-12-15 04:14:00 | NOAA-21 | ITAPAJÉ | CEARÁ | Brasil | 2306306 | 23 | 33 | nan | nan | nan | Caatinga | 7.7 |
+| 360854cc-cee9-3cfc-ba2a-a77cfd8d9110 | -7.60427 | -38.28674 | 2025-12-15 04:14:00 | NOAA-21 | SANTANA DE MANGUEIRA | PARAÍBA | Brasil | 2513505 | 25 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| ddcb859a-9937-3366-baad-dc42dfeeaf72 | -3.71676 | -44.5011 | 2025-12-15 04:14:00 | NOAA-21 | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| c4b8f258-8194-3856-90b5-de9322a82c30 | -5.26701 | -45.85739 | 2025-12-15 04:14:00 | NOAA-21 | ITAIPAVA DO GRAJAÚ | MARANHÃO | Brasil | 2105351 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7a41c290-9b18-3b3f-b2e5-e246a11d18cc | -1.9067 | -46.59384 | 2025-12-15 04:14:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 0d8cdde0-342c-38af-b8df-697778c50c2e | -3.72762 | -44.49899 | 2025-12-15 04:14:00 | NOAA-21 | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 7f76c7be-05b9-3f8f-8f86-e0cf5a76ca46 | -2.39375 | -45.77135 | 2025-12-15 04:14:00 | NOAA-21 | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 035fe009-1ce7-3913-a462-12fde08811fb | -8.14222 | -43.55217 | 2025-12-15 04:14:00 | NOAA-21 | ELISEU MARTINS | PIAUÍ | Brasil | 2203602 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 04f6726d-20d7-310f-a349-bd9219ef54d7 | -4.05181 | -42.78686 | 2025-12-15 04:14:00 | NOAA-21 | MIGUEL ALVES | PIAUÍ | Brasil | 2206209 | 22 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| f0a0f72f-7d19-39b5-bb5d-0fdcf46ea76b | -2.58531 | -45.14005 | 2025-12-15 04:14:00 | NOAA-21 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 5b0e5347-16e3-3869-81d6-7bffa0463f1d | -3.3052 | -42.53831 | 2025-12-15 04:14:00 | NOAA-21 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| e4b7e272-efda-3fdc-972d-f7dac53af91e | -3.05706 | -52.83633 | 2025-12-15 04:14:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 5cd07af8-e1ed-302d-8fb9-745c51019fbe | -3.20598 | -46.82644 | 2025-12-15 04:14:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| dc4abd51-900a-327d-91e5-9709465fe5e6 | -1.82054 | -46.29832 | 2025-12-15 04:14:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 8d1e4d37-3241-39d1-96ec-73367019e5c4 | -2.35603 | -45.67894 | 2025-12-15 04:14:00 | NOAA-21 | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 6f95a3a8-f9a6-3bf9-8fcb-8c77394fc824 | -3.93081 | -47.5605 | 2025-12-15 04:14:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 30433405-de77-30ec-9060-1fef71a9dffb | -9.11019 | -35.45364 | 2025-12-15 04:14:00 | NOAA-21 | PORTO DE PEDRAS | ALAGOAS | Brasil | 2707404 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 7fe05438-c243-3136-b26e-23bd5320ae68 | -7.76754 | -35.10331 | 2025-12-15 04:14:00 | NOAA-21 | ARAÇOIABA | PERNAMBUCO | Brasil | 2601052 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 17cf9baf-cedd-319f-bdd5-58537ac0e9e4 | -3.72019 | -44.50163 | 2025-12-15 04:14:00 | NOAA-21 | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| bafbb208-52ef-33f9-ab97-972f7ebf9db1 | -4.69609 | -43.25257 | 2025-12-15 04:14:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| ccc26f04-840d-3bff-8708-cdbaad0f7676 | -3.05731 | -52.83522 | 2025-12-15 04:14:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| ea6d7f97-3acc-379a-8ecc-196bbb27c3aa | -3.05268 | -52.8271 | 2025-12-15 04:14:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| de56cb90-8dbe-3fd6-8507-6d366bdf7689 | -6.10019 | -40.01525 | 2025-12-15 04:14:00 | NOAA-21 | TAUÁ | CEARÁ | Brasil | 2313302 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 944949fd-8d60-3973-91fd-a6ec74a85fa1 | -2.7003 | -45.16999 | 2025-12-15 04:14:00 | NOAA-21 | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 8161a1da-4b9f-3f77-b4b0-09259ceb99ac | -2.39742 | -45.77192 | 2025-12-15 04:14:00 | NOAA-21 | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 5a2e7614-c25a-3d60-bfff-531383fec3ec | -3.965 | -41.53518 | 2025-12-15 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 2461815a-fccf-3664-abb5-2c3716198c5a | -3.65643 | -39.85312 | 2025-12-15 04:14:00 | NOAA-21 | IRAUÇUBA | CEARÁ | Brasil | 2306108 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 501f0c39-7e48-3ae7-8a40-ecfedc1aa8ad | -6.47796 | -38.8243 | 2025-12-15 04:14:00 | NOAA-21 | ICÓ | CEARÁ | Brasil | 2305407 | 23 | 33 | nan | nan | nan | Caatinga | 4.0 |
+| cde8c75e-208e-3caf-ad4a-88cdff979ba3 | -4.69995 | -43.24963 | 2025-12-15 04:14:00 | NOAA-21 | ALDEIAS ALTAS | MARANHÃO | Brasil | 2100303 | 21 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| a76e2e5c-fd50-3477-b577-a2b62cfd560e | -3.12867 | -41.77316 | 2025-12-15 04:14:00 | NOAA-21 | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 10.8 |
+| e955bb7d-bb97-31e9-a928-078e284c449a | -3.72303 | -44.50586 | 2025-12-15 04:14:00 | NOAA-21 | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e06f429a-cd0d-351c-8850-dcf462d7321c | -2.50517 | -48.04078 | 2025-12-15 04:14:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 023b7737-cb3d-34a9-9475-c25635a656ce | -2.23298 | -45.65153 | 2025-12-15 04:14:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| be23a4e8-d2c6-3293-bc89-18871ca2d20f | -7.76357 | -35.10236 | 2025-12-15 04:14:00 | NOAA-21 | ARAÇOIABA | PERNAMBUCO | Brasil | 2601052 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 9c1d4fb3-75f4-312e-8744-ab3169a4938f | -3.72195 | -44.49052 | 2025-12-15 04:14:00 | NOAA-21 | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 2ff67289-6a98-3238-80d4-755b3681eb39 | -4.06671 | -46.59496 | 2025-12-15 04:14:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 9b065bd3-2a1e-3041-9c14-c356142beaa2 | -8.03112 | -43.11166 | 2025-12-15 04:14:00 | NOAA-21 | CANTO DO BURITI | PIAUÍ | Brasil | 2202307 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 52bb498c-c526-30c9-bfe8-408f10d76aa6 | -3.77593 | -47.15793 | 2025-12-15 04:14:00 | NOAA-21 | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b6e97955-9b56-3a1d-ab54-31e368cb0450 | -6.48031 | -38.82131 | 2025-12-15 04:14:00 | NOAA-21 | ICÓ | CEARÁ | Brasil | 2305407 | 23 | 33 | nan | nan | nan | Caatinga | 3.4 |
+| 104d862c-e1d7-3ea9-886d-30b74078ab06 | -3.92322 | -41.69397 | 2025-12-15 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| d6200b9a-d8ea-335f-9fda-0c1dc22199b6 | -2.41328 | -48.28447 | 2025-12-15 04:14:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| f199b6ca-9054-368e-80ea-31e6870b32d9 | -2.83786 | -46.73341 | 2025-12-15 04:14:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| abcbe2a8-5332-3ee2-b014-02319cfa0b7b | -3.06287 | -52.83723 | 2025-12-15 04:14:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| af28f3bb-63d4-36fd-818c-3a26b8755492 | -3.96555 | -41.53167 | 2025-12-15 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 5540437b-9b3f-3d67-97ad-675a3640872c | -2.24794 | -45.78999 | 2025-12-15 04:14:00 | NOAA-21 | PRESIDENTE MÉDICI | MARANHÃO | Brasil | 2109239 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| b2b856e5-f706-3949-b006-717cca39a8d5 | -2.95355 | -41.5219 | 2025-12-15 04:14:00 | NOAA-21 | LUÍS CORREIA | PIAUÍ | Brasil | 2205706 | 22 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 084e51df-0c38-3091-8798-6ca210b58c4d | -3.71618 | -44.50481 | 2025-12-15 04:14:00 | NOAA-21 | MATÕES DO NORTE | MARANHÃO | Brasil | 2106631 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| c170e735-03d4-3753-8a96-3806db2bca56 | -2.22932 | -45.65094 | 2025-12-15 04:14:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 159d25e8-577f-3c97-9ec5-f8556981813f | -3.96889 | -41.53219 | 2025-12-15 04:14:00 | NOAA-21 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 48c2fc21-0d90-3481-92d8-9ebe621d9ed4 | -2.93381 | -41.14778 | 2025-12-15 04:14:00 | NOAA-21 | BARROQUINHA | CEARÁ | Brasil | 2302057 | 23 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| 81f497de-8119-3c07-9ada-a17c36b39cc8 | -3.45306 | -43.63147 | 2025-12-15 04:14:00 | NOAA-21 | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 527c6ab2-ef3f-339f-8f84-53a622b4fd9e | -3.02107 | -45.3418 | 2025-12-15 04:14:00 | NOAA-21 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| fd66814f-7e93-33d7-bdb4-7a26cf63e3e9 | -2.76184 | -42.63973 | 2025-12-15 04:14:00 | NOAA-21 | PAULINO NEVES | MARANHÃO | Brasil | 2108058 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| a2e3c6bf-0edd-3ffb-bbff-3ee2a4f48366 | -2.63645 | -47.29496 | 2025-12-15 04:14:00 | NOAA-21 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| bf2b4999-1774-3e71-a93e-0a673bc5c7ce | -2.22864 | -45.65522 | 2025-12-15 04:14:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 4.4 |
+| 36cca6c4-eb65-3f0e-a0ff-2157c669b15c | -4.23744 | -46.31269 | 2025-12-15 04:14:00 | NOAA-21 | BURITICUPU | MARANHÃO | Brasil | 2102325 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 74b3b1d6-9fe8-3ed6-ac91-a97a5056768b | -4.09934 | -46.39745 | 2025-12-15 04:14:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 980c2dc4-9ed7-35c6-891c-596582346b72 | -9.91879 | -39.0334 | 2025-12-15 04:14:00 | NOAA-21 | CANUDOS | BAHIA | Brasil | 2906824 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 3b447c1a-3bfd-3b6c-b26b-6be2cc853e12 | -8.8004 | -36.95022 | 2025-12-15 04:14:00 | NOAA-21 | PEDRA | PERNAMBUCO | Brasil | 2610806 | 26 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| e7624e82-fa86-347e-b075-1d57b41f26cd | -2.28487 | -53.70342 | 2025-12-15 04:14:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| 804d10ed-84f3-362b-84de-43a61e9f821c | -4.0422 | -41.91226 | 2025-12-15 04:14:00 | NOAA-21 | BRASILEIRA | PIAUÍ | Brasil | 2201960 | 22 | 33 | nan | nan | nan | Caatinga | 4.1 |
+| 9d140332-56ae-3ff2-800d-0c9c268bb37c | -5.49576 | -42.1637 | 2025-12-15 04:14:00 | NOAA-21 | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| a60552ef-bfb8-3be4-be32-8936c025f511 | -6.10959 | -45.84945 | 2025-12-15 04:14:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 53a53b04-5fa1-3936-a197-b51e334f51eb | -2.63991 | -47.29912 | 2025-12-15 04:14:00 | NOAA-21 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 734ad753-d536-37f1-bcc0-e1b2b483489f | -12.34072 | -39.57347 | 2025-12-15 04:16:00 | NOAA-21 | IPIRÁ | BAHIA | Brasil | 2914000 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 3dcd16ed-5b9b-37c7-be08-6779817e411a | -11.27749 | -49.46934 | 2025-12-15 04:16:00 | NOAA-21 | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| d066fa41-7558-36e5-b020-bad92a96416c | -12.63611 | -55.78606 | 2025-12-15 04:16:00 | NOAA-21 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| 1d5b125d-0398-3bbf-9201-2ca0857b50af | -10.78252 | -44.47715 | 2025-12-15 04:16:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 7b2502b2-ea32-3e1a-8dd1-ccbe9f1357bf | -11.00143 | -44.34011 | 2025-12-15 04:16:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 2e4b0c36-33af-3b11-9f1a-420da5bb7e0d | -10.76943 | -45.031 | 2025-12-15 04:16:00 | NOAA-21 | CRISTALÂNDIA DO PIAUÍ | PIAUÍ | Brasil | 2203008 | 22 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 80506000-0398-3327-9cca-878a8c3f216b | -11.1486 | -43.32592 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 8.0 |
+| e20dba2f-0889-3758-aa1f-a65062ae4476 | -10.42817 | -44.95371 | 2025-12-15 04:16:00 | NOAA-21 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 50f04d08-13ac-3bb6-8d4a-39c04bdf58f7 | -12.63412 | -55.77929 | 2025-12-15 04:16:00 | NOAA-21 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 7c6cb489-746d-30be-ad0a-2cccf96036d2 | -12.64005 | -55.78058 | 2025-12-15 04:16:00 | NOAA-21 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| fa8e7762-cc55-35fc-8dc4-493e4877a4cd | -11.1386 | -43.32434 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 533c6a2e-afa5-309e-89d8-562d36db943f | -12.63701 | -55.78151 | 2025-12-15 04:16:00 | NOAA-21 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 29.0 |
+| 581af977-2d28-3dac-b9c2-092e65c94675 | -11.00419 | -44.34414 | 2025-12-15 04:16:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| e930be43-a927-3beb-8656-dad1176154a3 | -12.29597 | -38.08276 | 2025-12-15 04:16:00 | NOAA-21 | ITANAGRA | BAHIA | Brasil | 2915908 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
+| a1915c3f-938c-30b0-80fe-a31a0c7d2ccd | -12.31391 | -46.03257 | 2025-12-15 04:16:00 | NOAA-21 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| c518ba88-f157-3964-934c-e6220ca1d207 | -11.14527 | -43.3254 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 8.0 |
+| 901053e4-bc78-366c-8133-2810d6adbc9e | -11.15248 | -43.32289 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| a8d79dff-18f9-3005-9c3a-89117efbbfe8 | -10.842 | -44.27156 | 2025-12-15 04:16:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d282f797-f507-3252-9fd1-d1d6883720d9 | -12.63319 | -55.78385 | 2025-12-15 04:16:00 | NOAA-21 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| a6c03f7f-e752-340d-a1fb-db37712d47d7 | -14.54114 | -59.54909 | 2025-12-15 04:16:00 | NOAA-21 | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 9d8d644e-2cef-3c75-b869-f3febb69fd5b | -11.15193 | -43.32645 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| c6024774-63c0-3e17-a574-fe4389ea16ad | -11.14806 | -43.32948 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 8.0 |
+| d121971d-fc05-3fec-9d04-179fdcd681ec | -11.14581 | -43.32184 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 6.3 |
+| 81f06e37-c474-31aa-9060-e4937af0dc04 | -12.31729 | -46.03314 | 2025-12-15 04:16:00 | NOAA-21 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| bc519580-e332-3439-8f34-917d14fb978d | -12.63912 | -55.78508 | 2025-12-15 04:16:00 | NOAA-21 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| 136be8e5-851e-317f-9b2f-8ac2a1282f49 | -10.80972 | -44.65036 | 2025-12-15 04:16:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 438d27f1-6261-3efc-854f-05180df6a204 | -11.14914 | -43.32236 | 2025-12-15 04:16:00 | NOAA-21 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 6.3 |
+| 89d6a6b3-cce0-3654-90c4-04d3ce1ec3e6 | -16.22851 | -56.33953 | 2025-12-15 04:18:00 | NOAA-21 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 5bd85bd5-08d2-3acb-a528-4ba8c078e554 | -16.07197 | -56.59343 | 2025-12-15 04:18:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ec7901d8-3028-3593-9a8c-c3423782480f | -16.22763 | -56.34367 | 2025-12-15 04:18:00 | NOAA-21 | NOSSA SENHORA DO LIVRAMENTO | MATO GROSSO | Brasil | 5106109 | 51 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| b40e6b96-3917-3e18-a5fe-b0cea6b56c55 | -16.07877 | -56.59032 | 2025-12-15 04:18:00 | NOAA-21 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| d9efb3e3-1471-3c1c-9ec1-7791aa7eb378 | -12.6301 | -55.7827 | 2025-12-15 04:20:00 | GOES-19 | SORRISO | MATO GROSSO | Brasil | 5107925 | 51 | 33 | nan | nan | nan | Cerrado | 60.6 |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
