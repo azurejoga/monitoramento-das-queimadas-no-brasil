@@ -29,9 +29,10 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ffa0f171-378f-3029-9f87-906adeb176c4 | -25.51753 | -49.46305 | 2025-12-25 12:01:00 | TERRA_M-T | ARAUCÁRIA | PARANÁ | Brasil | 4101804 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
-| 48ce2ec4-1474-3579-8e1a-e88a1a7f7643 | -26.06491 | -48.66095 | 2025-12-25 12:01:00 | TERRA_M-T | ITAPOÁ | SANTA CATARINA | Brasil | 4208450 | 42 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
-| b73322d1-10ab-307c-a0e1-9c1babaa6353 | -24.40434 | -49.97417 | 2025-12-25 12:01:00 | TERRA_M-T | PIRAÍ DO SUL | PARANÁ | Brasil | 4119400 | 41 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| 0a826536-1a7c-3a62-8ae3-cd65a12ee481 | -24.20652 | -49.40745 | 2025-12-25 12:01:00 | TERRA_M-T | SENGÉS | PARANÁ | Brasil | 4126306 | 41 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| cbbb6619-a72d-3315-b3ca-122792e925d8 | -19.2743 | -50.6889 | 2025-12-26 14:20:00 | GOES-19 | LIMEIRA DO OESTE | MINAS GERAIS | Brasil | 3138625 | 31 | 33 | nan | nan | nan | Mata Atlântica | 86.0 |
+| 3e596488-f5f2-3573-a69c-e99b36cf45b1 | -20.4817 | -51.6787 | 2025-12-26 14:20:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 75.9 |
+| 7a1ed855-ba3e-3909-9a7c-cf23e1bcaa1c | -21.0286 | -47.9935 | 2025-12-26 14:30:00 | GOES-19 | PONTAL | SÃO PAULO | Brasil | 3540200 | 35 | 33 | nan | nan | nan | Cerrado | 104.7 |
+| d1850b37-f7d9-3b61-9d1c-36df55669b63 | -20.4817 | -51.6787 | 2025-12-26 14:30:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| e71c106c-5cc3-3739-9df2-5163ec99106c | -20.4817 | -51.6787 | 2025-12-26 14:40:00 | GOES-19 | SELVÍRIA | MATO GROSSO DO SUL | Brasil | 5007802 | 50 | 33 | nan | nan | nan | Cerrado | 78.5 |
 
 
