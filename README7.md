@@ -29,38 +29,50 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b9fe07eb-5fe4-37bf-a24b-8aa3f33e08d1 | -19.37176 | -54.59908 | 2026-01-01 05:40:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 0c70b1a1-53d1-318f-ad40-ddf77f4f9333 | -19.37461 | -54.60388 | 2026-01-01 05:40:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| f51ecdc1-222a-3cc2-86e1-80c531e0ded2 | -19.37506 | -54.59845 | 2026-01-01 05:40:00 | NOAA-21 | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 88cb1c58-db9a-3abc-9835-9027cc9562c3 | -17.70551 | -53.27423 | 2026-01-01 05:40:00 | NOAA-21 | ALTO TAQUARI | MATO GROSSO | Brasil | 5100607 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| f862679c-fbf7-3e99-8c37-2430635d64ea | -9.5821 | -44.6007 | 2026-01-01 05:50:00 | GOES-19 | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 41.4 |
-| 4251486c-d02d-3dee-a12d-837027481c45 | 0.682 | -59.55802 | 2026-01-01 06:03:00 | NPP-375D | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e65fb4d3-06d4-3d0b-b8ac-ae8e6be2aecb | -6.5631 | -51.1126 | 2026-01-01 06:30:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 35.0 |
-| 4ab5eb74-6884-3881-b70d-129669571bcf | -3.86337 | -54.22908 | 2026-01-01 06:56:00 | AQUA_M-M | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 18.4 |
-| 88c005b6-7f92-3c8b-a8b6-924f84523247 | -14.64078 | -55.8218 | 2026-01-01 06:58:00 | AQUA_M-M | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 01652ca2-1ead-3604-b9f6-0cc91ced872a | -19.36553 | -54.60342 | 2026-01-01 07:01:00 | AQUA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 26.7 |
-| be4576c6-5d05-34d9-b964-d2f14c833d9b | -19.36809 | -54.58116 | 2026-01-01 07:01:00 | AQUA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 20.3 |
-| 90021da4-e42b-3af2-9e2f-c46fbfc83335 | -19.36589 | -54.58627 | 2026-01-01 07:01:00 | AQUA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 29.9 |
-| 3d46f6cf-36ec-3771-92c9-75a8d1793f03 | -5.2256 | -37.72982 | 2026-01-01 11:34:00 | TERRA_M-M | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 6.8 |
-| 83b3c957-4e7a-310f-9576-5643e1ad4969 | -6.20692 | -37.44024 | 2026-01-01 11:34:00 | TERRA_M-M | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 13.7 |
-| 82c30a07-5666-3193-b8c8-29cfb6c0542b | -4.65915 | -37.69555 | 2026-01-01 11:34:00 | TERRA_M-M | ARACATI | CEARÁ | Brasil | 2301109 | 23 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| 14138d6d-969d-3e8b-9a25-32d9821ced4f | -5.17259 | -37.06448 | 2026-01-01 11:34:00 | TERRA_M-M | SERRA DO MEL | RIO GRANDE DO NORTE | Brasil | 2413359 | 24 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| 65d9b7aa-14f0-3fe2-b8f8-01946a192fa9 | -2.33569 | -44.89494 | 2026-01-01 11:34:00 | TERRA_M-M | CENTRAL DO MARANHÃO | MARANHÃO | Brasil | 2103125 | 21 | 33 | nan | nan | nan | Amazônia | 38.0 |
-| 9e56cefc-8f4c-36b4-8a25-a6c4f945c866 | -5.17391 | -37.05524 | 2026-01-01 11:34:00 | TERRA_M-M | SERRA DO MEL | RIO GRANDE DO NORTE | Brasil | 2413359 | 24 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| 10b2b229-35bc-3f43-8675-04f3ba259bd0 | -6.20562 | -37.44939 | 2026-01-01 11:34:00 | TERRA_M-M | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 22.6 |
-| 896170c4-0a1d-3096-ae00-93da2263d0eb | -9.26059 | -41.00688 | 2026-01-01 11:36:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 14.3 |
-| 201c2081-58c2-348b-8300-a42f0901660c | -11.4037 | -39.53385 | 2026-01-01 11:36:00 | TERRA_M-M | VALENTE | BAHIA | Brasil | 2933000 | 29 | 33 | nan | nan | nan | Caatinga | 18.4 |
-| d56fa143-77e0-3ae9-90ce-ca6690b407f0 | -10.70555 | -39.44791 | 2026-01-01 11:36:00 | TERRA_M-M | CANSANÇÃO | BAHIA | Brasil | 2906808 | 29 | 33 | nan | nan | nan | Caatinga | 5.3 |
-| 2406a68e-826b-3f74-8e76-a44539837e6b | -9.26979 | -41.00822 | 2026-01-01 11:36:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 10.0 |
-| d070d196-10eb-31f7-b21c-262186a93a75 | -9.19298 | -37.76388 | 2026-01-01 11:36:00 | TERRA_M-M | MATA GRANDE | ALAGOAS | Brasil | 2705002 | 27 | 33 | nan | nan | nan | Caatinga | 8.2 |
-| d43fa3c2-8671-3102-b147-f6254d976edc | -12.42275 | -38.70941 | 2026-01-01 11:36:00 | TERRA_M-M | AMÉLIA RODRIGUES | BAHIA | Brasil | 2901106 | 29 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
-| 125a3761-2622-38e8-8e21-7eaf1c0fc1fa | -9.23188 | -36.74842 | 2026-01-01 11:36:00 | TERRA_M-M | BOM CONSELHO | PERNAMBUCO | Brasil | 2602100 | 26 | 33 | nan | nan | nan | Caatinga | 10.3 |
-| 004655c7-d140-3a40-a661-2b243798a6c3 | -11.41255 | -39.53512 | 2026-01-01 11:36:00 | TERRA_M-M | VALENTE | BAHIA | Brasil | 2933000 | 29 | 33 | nan | nan | nan | Caatinga | 34.9 |
-| a312eb48-a5f9-3452-897e-d0d4e3f6e924 | -11.39517 | -39.90739 | 2026-01-01 11:36:00 | TERRA_M-M | SÃO JOSÉ DO JACUÍPE | BAHIA | Brasil | 2929370 | 29 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| 6f0f8b53-de65-3ac7-ba35-f1a11c22b3c0 | -10.38113 | -40.16589 | 2026-01-01 11:36:00 | TERRA_M-M | SENHOR DO BONFIM | BAHIA | Brasil | 2930105 | 29 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| f673cfbc-a6d9-392a-900d-fa2c94f92d6a | -16.7357 | -39.87243 | 2026-01-01 11:38:00 | TERRA_M-M | GUARATINGA | BAHIA | Brasil | 2911808 | 29 | 33 | nan | nan | nan | Mata Atlântica | 5.1 |
-| 664865b2-23f3-316b-975c-e9f9f13b46b3 | -16.73437 | -39.88198 | 2026-01-01 11:38:00 | TERRA_M-M | GUARATINGA | BAHIA | Brasil | 2911808 | 29 | 33 | nan | nan | nan | Mata Atlântica | 24.9 |
-| ef60c716-db1f-3927-bfea-a9759f3efb00 | -22.26653 | -42.75994 | 2026-01-01 11:40:00 | TERRA_M-M | TERESÓPOLIS | RIO DE JANEIRO | Brasil | 3305802 | 33 | 33 | nan | nan | nan | Mata Atlântica | 28.0 |
-| 1469c339-ce7e-37ff-b2e4-255d459e4cc6 | -2.7678 | -42.5725 | 2026-01-01 13:50:00 | GOES-19 | PAULINO NEVES | MARANHÃO | Brasil | 2108058 | 21 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| 941b84bc-d976-3708-b055-2ad17ccd8dc0 | 2.54342 | -60.36113 | 2026-01-05 06:01:00 | NOAA-21 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 6.3 |
+| 13632ba1-ee95-37aa-9161-9cedd262d8ee | 2.78558 | -60.30645 | 2026-01-05 06:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 7d9e746d-3f77-30ef-ad96-ac8eaecfe6a3 | 2.94811 | -60.2835 | 2026-01-05 06:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 64440ff9-e644-310b-b438-969278221330 | -2.44388 | -47.7771 | 2026-01-05 06:12:00 | AQUA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 09a97ff3-1b12-3989-bb00-8b27fac056f4 | -2.44253 | -47.78601 | 2026-01-05 06:12:00 | AQUA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
+| 59223012-47b4-39f7-9562-9a37e21ea9c5 | -2.45273 | -47.77839 | 2026-01-05 06:12:00 | AQUA_M-M | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 293ff621-39ba-3b38-b66d-b886b270a3f8 | -4.2626 | -48.83432 | 2026-01-05 06:14:00 | AQUA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| a67e6846-1717-3b39-aeb7-f44e95c2b53e | -1.32428 | -49.41533 | 2026-01-05 12:33:00 | TERRA_M-T | MUANÁ | PARÁ | Brasil | 1504901 | 15 | 33 | nan | nan | nan | Amazônia | 19.3 |
+| f767719e-c775-3f49-9b23-9e7af634111c | -3.40587 | -49.53027 | 2026-01-05 12:33:00 | TERRA_M-T | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
+| 812ec181-3605-36ed-a678-b2dab5492d15 | -1.33572 | -49.40562 | 2026-01-05 12:33:00 | TERRA_M-T | MUANÁ | PARÁ | Brasil | 1504901 | 15 | 33 | nan | nan | nan | Amazônia | 14.7 |
+| b09fc205-7658-33ed-965b-b35c2439d5e3 | -3.26507 | -49.14804 | 2026-01-05 12:33:00 | TERRA_M-T | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| d7ed3a9b-3db8-3ba0-93c5-b938d897b544 | -1.32587 | -49.40429 | 2026-01-05 12:33:00 | TERRA_M-T | MUANÁ | PARÁ | Brasil | 1504901 | 15 | 33 | nan | nan | nan | Amazônia | 13.1 |
+| 1b178d87-9b85-3f9b-9d9e-0f0b8558f2e1 | -16.18821 | -55.44991 | 2026-01-05 12:38:00 | TERRA_M-T | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| 7934a662-35c2-3fad-b97c-39c3c9fa6bd3 | -18.86595 | -53.6389 | 2026-01-05 12:40:00 | TERRA_M-T | FIGUEIRÃO | MATO GROSSO DO SUL | Brasil | 5003900 | 50 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 304c0902-ed90-31c8-b265-1fb8515dbedf | -18.64624 | -53.28778 | 2026-01-05 12:40:00 | TERRA_M-T | COSTA RICA | MATO GROSSO DO SUL | Brasil | 5003256 | 50 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 1a74f858-f547-3802-a54b-5aadeb1ae9d2 | -22.23438 | -50.8891 | 2026-01-05 12:40:00 | TERRA_M-T | RANCHARIA | SÃO PAULO | Brasil | 3542206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 14.0 |
+| a9d299c2-e91f-3d24-9ee3-1e8448fa2a17 | -19.52355 | -53.21384 | 2026-01-05 12:40:00 | TERRA_M-T | ÁGUA CLARA | MATO GROSSO DO SUL | Brasil | 5000203 | 50 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 942f77b4-08bd-3a43-9b3e-2ab47c025ccc | -20.24721 | -50.62986 | 2026-01-05 12:40:00 | TERRA_M-T | URÂNIA | SÃO PAULO | Brasil | 3555802 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.5 |
+| d9e10ffa-045c-3e55-a332-6468d711a978 | -22.44295 | -53.31178 | 2026-01-05 12:40:00 | TERRA_M-T | BATAYPORÃ | MATO GROSSO DO SUL | Brasil | 5002001 | 50 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| c02d5c05-4eef-3668-95de-ad8bb5fecfb0 | -24.28188 | -53.83381 | 2026-01-05 12:40:00 | TERRA_M-T | PALOTINA | PARANÁ | Brasil | 4117909 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 2f4ce287-9461-3a13-b28f-9ece5192aa8b | -26.35478 | -52.8417 | 2026-01-05 12:40:00 | TERRA_M-T | SÃO LOURENÇO DO OESTE | SANTA CATARINA | Brasil | 4216909 | 42 | 33 | nan | nan | nan | Mata Atlântica | 12.0 |
+| 200ab1e1-5d5b-3c46-8c78-2071345f1369 | -20.4938 | -55.277 | 2026-01-05 12:40:00 | TERRA_M-T | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| aa9e414c-88c6-34e2-a002-3aae5384ec7e | -28.46789 | -50.89382 | 2026-01-05 12:40:00 | TERRA_M-T | VACARIA | RIO GRANDE DO SUL | Brasil | 4322509 | 43 | 33 | nan | nan | nan | Mata Atlântica | 20.2 |
+| a55fadaf-bbf7-30d4-bab8-4683899f0383 | -25.93036 | -53.47157 | 2026-01-05 12:40:00 | TERRA_M-T | AMPÉRE | PARANÁ | Brasil | 4101002 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.8 |
+| c344a6e3-f30a-31c6-9129-15ac0aedd724 | -24.80178 | -53.29106 | 2026-01-05 12:40:00 | TERRA_M-T | CORBÉLIA | PARANÁ | Brasil | 4106308 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
+| 6b727200-1294-3a8d-84e0-1e4bed94700b | -20.97544 | -49.59507 | 2026-01-05 12:40:00 | TERRA_M-T | JACI | SÃO PAULO | Brasil | 3524501 | 35 | 33 | nan | nan | nan | Mata Atlântica | 23.4 |
+| eadaa2d6-199b-38d0-a9ed-b81683805a0f | -19.20564 | -55.00897 | 2026-01-05 12:40:00 | TERRA_M-T | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| da19acd3-69aa-342f-9d18-9f4eaa6504e7 | -27.31412 | -51.46669 | 2026-01-05 12:40:00 | TERRA_M-T | ERVAL VELHO | SANTA CATARINA | Brasil | 4205209 | 42 | 33 | nan | nan | nan | Mata Atlântica | 10.8 |
+| 70e41b50-2080-3a11-bdc8-12d8bc2d472a | -24.51563 | -53.57656 | 2026-01-05 12:40:00 | TERRA_M-T | ASSIS CHATEAUBRIAND | PARANÁ | Brasil | 4102000 | 41 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
+| cc44be50-f2f7-3c66-8674-2c75504bde21 | -27.45104 | -53.93849 | 2026-01-05 12:40:00 | TERRA_M-T | TRÊS PASSOS | RIO GRANDE DO SUL | Brasil | 4321907 | 43 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
+| 17b14afd-c32a-3b6c-8055-86b6e210e21e | -27.88729 | -52.22707 | 2026-01-05 12:40:00 | TERRA_M-T | GETÚLIO VARGAS | RIO GRANDE DO SUL | Brasil | 4308904 | 43 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
+| b47f2890-74c1-34ee-8f29-2ef79ab93e94 | -20.38918 | -53.13225 | 2026-01-05 12:40:00 | TERRA_M-T | RIBAS DO RIO PARDO | MATO GROSSO DO SUL | Brasil | 5007109 | 50 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| cc2d19ab-e526-3b9c-8ad4-e22cde04f4f5 | -28.85353 | -51.88982 | 2026-01-05 12:40:00 | TERRA_M-T | GUAPORÉ | RIO GRANDE DO SUL | Brasil | 4309407 | 43 | 33 | nan | nan | nan | Mata Atlântica | 15.9 |
+| 2c09927b-cf51-34ca-990d-e48fdec2db73 | -27.35634 | -53.38791 | 2026-01-05 12:40:00 | TERRA_M-T | FREDERICO WESTPHALEN | RIO GRANDE DO SUL | Brasil | 4308508 | 43 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
+| 3a66489a-f611-3e66-b100-7df4e1c34d54 | -25.57669 | -54.57241 | 2026-01-05 12:40:00 | TERRA_M-T | FOZ DO IGUAÇU | PARANÁ | Brasil | 4108304 | 41 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
+| 45a392c9-7e35-3f7b-ba63-c90ff7bc5c5e | -18.34102 | -52.40644 | 2026-01-05 12:40:00 | TERRA_M-T | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 14.2 |
+| 26f6da55-8696-38ac-ade5-0ca91902e2c6 | -25.79353 | -53.30164 | 2026-01-05 12:40:00 | TERRA_M-T | SALTO DO LONTRA | PARANÁ | Brasil | 4123006 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.4 |
+| 0bd0e4f3-da48-3882-90b6-5f145ce63d4e | -18.61807 | -52.79735 | 2026-01-05 12:40:00 | TERRA_M-T | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | 9.7 |
+| 331ac23d-830e-3abf-abc4-781392b50110 | -20.96506 | -49.58748 | 2026-01-05 12:40:00 | TERRA_M-T | JACI | SÃO PAULO | Brasil | 3524501 | 35 | 33 | nan | nan | nan | Mata Atlântica | 54.0 |
+| 43bf2f3c-1136-3aeb-9b6c-5eaa1830ca47 | -28.9387 | -51.5476 | 2026-01-05 12:40:00 | TERRA_M-T | VERANÓPOLIS | RIO GRANDE DO SUL | Brasil | 4322806 | 43 | 33 | nan | nan | nan | Mata Atlântica | 12.2 |
+| db5f92b0-8af1-32ef-a812-401bbaf51754 | -28.85632 | -51.89603 | 2026-01-05 12:40:00 | TERRA_M-T | GUAPORÉ | RIO GRANDE DO SUL | Brasil | 4309407 | 43 | 33 | nan | nan | nan | Mata Atlântica | 13.0 |
+| f4429cc1-3a11-3ce6-aa46-4dfece2157f6 | -29.44908 | -54.07298 | 2026-01-05 12:42:00 | TERRA_M-T | SÃO MARTINHO DA SERRA | RIO GRANDE DO SUL | Brasil | 4319125 | 43 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| e1ae32de-6611-3de2-9f2b-3617579b86dd | -29.19042 | -54.86628 | 2026-01-05 12:42:00 | TERRA_M-T | SANTIAGO | RIO GRANDE DO SUL | Brasil | 4317400 | 43 | 33 | nan | nan | nan | Pampa | 6.6 |
+| ee8d0296-1013-3d26-ac89-818c00727171 | -29.03594 | -51.18413 | 2026-01-05 12:42:00 | TERRA_M-T | FLORES DA CUNHA | RIO GRANDE DO SUL | Brasil | 4308201 | 43 | 33 | nan | nan | nan | Mata Atlântica | 12.9 |
+| 8393ad7b-684d-35eb-9aee-01e49dc37360 | -29.64705 | -53.25009 | 2026-01-05 12:42:00 | TERRA_M-T | AGUDO | RIO GRANDE DO SUL | Brasil | 4300109 | 43 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
 
 
