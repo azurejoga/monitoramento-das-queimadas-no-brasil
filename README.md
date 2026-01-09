@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| aac14d21-5573-3ddd-8c91-6d6082c0fa4b | -1.3309 | -53.1704 | 2026-01-08 00:00:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 65.1 |
-| d3bbe352-fcbb-3595-a382-22c9091ab92a | -9.7642 | -35.9107 | 2026-01-08 00:00:00 | GOES-19 | MARECHAL DEODORO | ALAGOAS | Brasil | 2704708 | 27 | 33 | nan | nan | nan | Mata Atlântica | 83.7 |
-| 8022fbe6-1ce2-3de7-9aa9-85e874ab111b | -1.3309 | -53.1907 | 2026-01-08 00:00:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 91.3 |
-| c9baf9fd-0959-347b-ba58-3e076560fc13 | -20.8921 | -52.3522 | 2026-01-08 00:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 141.7 |
-| d79a73cc-e040-3f84-ae4f-0df08e15d55c | -4.2728 | -43.7601 | 2026-01-08 00:00:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 85.6 |
-| 530e6931-04c4-36ec-8d21-cc6649e6ec48 | -4.2726 | -43.7832 | 2026-01-08 00:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 72.8 |
-| 7d590cb3-1b33-3378-8fdf-ad4ba874298d | -20.8927 | -52.33 | 2026-01-08 00:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 112.6 |
-| c4952c55-4546-316c-983b-33352b02fe41 | -9.8339 | -36.304 | 2026-01-08 00:00:00 | GOES-19 | CAMPO ALEGRE | ALAGOAS | Brasil | 2701407 | 27 | 33 | nan | nan | nan | Mata Atlântica | 134.2 |
-| 1544442d-941e-3181-9ec4-d591da50c9f9 | -9.8339 | -36.304 | 2026-01-08 00:10:00 | GOES-19 | CAMPO ALEGRE | ALAGOAS | Brasil | 2701407 | 27 | 33 | nan | nan | nan | Mata Atlântica | 100.6 |
-| 474f2637-114a-3886-a513-834337d2efa3 | -20.8927 | -52.33 | 2026-01-08 00:10:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 115.3 |
-| cd6dbe3c-4f76-35e7-a927-bdfcc57e528a | -9.8532 | -36.3006 | 2026-01-08 00:10:00 | GOES-19 | CAMPO ALEGRE | ALAGOAS | Brasil | 2701407 | 27 | 33 | nan | nan | nan | Mata Atlântica | 79.5 |
-| abaefe96-e216-315f-96b3-85701ab6271d | -4.2728 | -43.7601 | 2026-01-08 00:10:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 80.5 |
-| 2612bd40-37c8-322c-937a-6a202fd1a3b6 | -20.8921 | -52.3522 | 2026-01-08 00:10:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 134.9 |
-| 85e43bf8-228a-354e-b6c4-9c20ffaf0dae | -1.3309 | -53.1907 | 2026-01-08 00:10:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 108.4 |
-| 258103d2-acca-3d50-a6be-559547f1e27a | -6.9813 | -35.0267 | 2026-01-08 00:20:00 | GOES-19 | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | 90.9 |
-| 8e66af0f-b737-3386-895b-6c6f0d38a4c9 | -20.8927 | -52.33 | 2026-01-08 00:20:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 124.9 |
-| 3cf519ae-9e8e-36d2-a356-821c1c53d526 | -1.3309 | -53.1907 | 2026-01-08 00:20:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 138.9 |
-| 38f8294f-8253-36ca-bc7e-ad73e73fc799 | -4.2728 | -43.7601 | 2026-01-08 00:20:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 75.8 |
-| 6bcdea52-7069-3f86-b88c-6b9f578b9d4b | -20.8921 | -52.3522 | 2026-01-08 00:20:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 149.5 |
-| 8a643134-48f9-373a-bb64-1805444c9f07 | -1.3126 | -53.1909 | 2026-01-08 00:20:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 64.1 |
-| 39820138-5e2c-30e6-b42d-9c260ab7a049 | -1.3309 | -53.1704 | 2026-01-08 00:20:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 71.4 |
-| 086f0f4c-c01c-33c9-83f9-c762661810e5 | -26.8268 | -48.73706 | 2026-01-08 00:24:00 | TERRA_M-M | NAVEGANTES | SANTA CATARINA | Brasil | 4211306 | 42 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| 952adab5-c8e5-37ec-9f7a-7ddca3bc6a74 | -28.1828 | -49.08418 | 2026-01-08 00:24:00 | TERRA_M-M | BRAÇO DO NORTE | SANTA CATARINA | Brasil | 4202800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| 25437633-a133-3cc8-b36d-901d56a27a82 | -28.18139 | -49.09092 | 2026-01-08 00:24:00 | TERRA_M-M | BRAÇO DO NORTE | SANTA CATARINA | Brasil | 4202800 | 42 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
-| f3d2cf53-57c3-3ac7-8874-7be9e041a5ba | -20.7132 | -49.82578 | 2026-01-08 00:26:00 | TERRA_M-M | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
-| 99da162c-ee48-38ca-b269-61d6b5c8d35d | -20.71452 | -49.83624 | 2026-01-08 00:26:00 | TERRA_M-M | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 484b0e40-7ca0-30ff-9414-617dc4b44622 | -25.04473 | -49.39987 | 2026-01-08 00:26:00 | TERRA_M-M | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
-| 0179beb1-a50c-3d6f-b842-0d5cc2fbc3e7 | -26.11816 | -51.54956 | 2026-01-08 00:26:00 | TERRA_M-M | BITURUNA | PARANÁ | Brasil | 4102901 | 41 | 33 | nan | nan | nan | Mata Atlântica | 18.5 |
-| 98cb0ebd-4c10-37c8-b2fc-978f08bf963d | -25.04611 | -49.41134 | 2026-01-08 00:26:00 | TERRA_M-M | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| 4abbcdc1-7e8d-3f91-bd3f-e9b07d7bbda5 | -22.83063 | -49.29369 | 2026-01-08 00:26:00 | TERRA_M-M | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 23.7 |
-| 53934d0f-583a-32fd-a76d-334071846b8c | -20.89057 | -52.35386 | 2026-01-08 00:26:00 | TERRA_M-M | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 66.9 |
-| a3b5f02f-926d-3d9e-9ddb-1d32fe5fde48 | -20.88892 | -52.33881 | 2026-01-08 00:26:00 | TERRA_M-M | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 122.8 |
-| 76720d71-e0c3-33a2-afb0-40e21e0ca41b | -15.142 | -45.27474 | 2026-01-08 00:28:00 | TERRA_M-M | JANUÁRIA | MINAS GERAIS | Brasil | 3135209 | 31 | 33 | nan | nan | nan | Cerrado | 17.4 |
-| 5d5020ed-7de8-32b9-ad5d-535bee3e3aec | -4.2726 | -43.7832 | 2026-01-08 00:30:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 66.5 |
-| 2224f82a-ea61-311e-9084-ac0b6c0220e0 | -9.8339 | -36.304 | 2026-01-08 00:30:00 | GOES-19 | CAMPO ALEGRE | ALAGOAS | Brasil | 2701407 | 27 | 33 | nan | nan | nan | Mata Atlântica | 88.4 |
-| ca68b3f8-1fb9-3181-b992-c6263f6f4f5d | -1.3309 | -53.1704 | 2026-01-08 00:30:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 69.9 |
-| 86316d03-f044-3d01-a7eb-391537a7311d | -20.8927 | -52.33 | 2026-01-08 00:30:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 95.4 |
-| 8d7f2e8d-b4cc-36d5-a0ef-e039d83adfa3 | -20.8921 | -52.3522 | 2026-01-08 00:30:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 108.4 |
-| ef7d0d01-3b5f-3c1e-b08d-dd2394dfb08d | -1.3309 | -53.1907 | 2026-01-08 00:30:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 103.0 |
-| 9dfc9de3-e17e-3227-bf81-f97add31bee1 | -9.9319 | -36.2059 | 2026-01-08 00:30:00 | GOES-19 | JEQUIÁ DA PRAIA | ALAGOAS | Brasil | 2703759 | 27 | 33 | nan | nan | nan | Mata Atlântica | 80.0 |
-| 808e5563-7ab8-3fe7-aa25-87156f87c1c4 | -4.2728 | -43.7601 | 2026-01-08 00:30:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| dc470d40-1faf-3df9-9adb-d15b02a2f1ee | -3.56569 | -47.18205 | 2026-01-08 00:32:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 83f2ebcd-e4b8-3aa5-97e6-74ad99f54753 | -1.7241 | -53.18431 | 2026-01-08 00:32:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| 31c838e6-5f61-3ede-bb72-846d72c1876a | -5.32003 | -44.55546 | 2026-01-08 00:32:00 | TERRA_M-M | TUNTUM | MARANHÃO | Brasil | 2112308 | 21 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| d98ec411-edad-3be7-b98f-41bec4323912 | -5.3839 | -45.39864 | 2026-01-08 00:32:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 21.9 |
-| 5afcda48-88fc-3443-abaf-87071bb5b3ed | -3.43008 | -50.65138 | 2026-01-08 00:32:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| e2720ae6-f29e-3d4b-816a-d5d4be718929 | -3.26596 | -50.5258 | 2026-01-08 00:32:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 15.8 |
-| 0b2c9728-ab47-3029-a8c2-eb039619e83d | -3.66567 | -44.81247 | 2026-01-08 00:32:00 | TERRA_M-M | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | 17.4 |
-| cb17a26e-df0d-3066-b53e-5ea40c6c99dc | -0.08766 | -51.28351 | 2026-01-08 00:32:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 605663ec-0cff-39c1-903f-24d803264dc0 | -3.17988 | -51.10173 | 2026-01-08 00:32:00 | TERRA_M-M | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 9440e482-d8b8-33af-95d0-e2b56e134234 | -3.43132 | -50.66029 | 2026-01-08 00:32:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 69349242-8c29-3fc6-a09c-69841defea5e | -3.51884 | -52.89801 | 2026-01-08 00:32:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| 546c4be7-c554-3ad1-a751-7826b97afa89 | -1.92081 | -53.47876 | 2026-01-08 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 14.6 |
-| 5158af71-2f7e-3580-af3b-ff36ea0e9548 | -1.32721 | -53.17931 | 2026-01-08 00:32:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 40.8 |
-| 2bb2a6e6-8f40-303f-8533-1ca5734537da | -3.3145 | -49.88673 | 2026-01-08 00:32:00 | TERRA_M-M | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| f2a20a3f-bb75-3ed8-9297-783b54e040b6 | -3.65454 | -44.82084 | 2026-01-08 00:32:00 | TERRA_M-M | VITÓRIA DO MEARIM | MARANHÃO | Brasil | 2112902 | 21 | 33 | nan | nan | nan | Amazônia | 19.1 |
-| 9338c4e8-8227-3df3-ab7d-5c8bd3bce681 | -1.32845 | -53.18846 | 2026-01-08 00:32:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 164.5 |
-| 6c58dde6-6a37-30cc-8d9f-c3f4a73f974d | -2.04195 | -52.0785 | 2026-01-08 00:32:00 | TERRA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| efb01ca8-d4a4-3b55-99ec-f69abc26a0ef | -5.3813 | -45.38168 | 2026-01-08 00:32:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| d54c1d82-e3a3-3c1e-a119-c37912df4e40 | -4.27049 | -43.76462 | 2026-01-08 00:32:00 | TERRA_M-M | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 86.2 |
-| e71dd9e0-0a02-3650-837d-3ea11bee9e30 | -2.78652 | -53.00104 | 2026-01-08 00:32:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| a615d961-5a9f-393a-ba37-c282cfc2ba3c | -3.05821 | -50.95416 | 2026-01-08 00:32:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| 7192a8f8-d9f6-3dcc-89a4-ff1216cc3097 | -3.2647 | -50.51679 | 2026-01-08 00:32:00 | TERRA_M-M | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 18.3 |
-| dcc40d70-9e53-356d-bb01-18f75388f469 | -2.15632 | -53.64911 | 2026-01-08 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 8ac1936a-46c2-34b7-9fe4-b3fc95808fe9 | -4.27409 | -43.78861 | 2026-01-08 00:32:00 | TERRA_M-M | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 25.7 |
-| faf632c7-8a18-30f8-823c-ba5e0fc7400e | -5.38816 | -45.38705 | 2026-01-08 00:32:00 | TERRA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 24.4 |
-| db0d0ae3-c123-3e37-a820-adaf3edf181b | -0.21197 | -51.4499 | 2026-01-08 00:32:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| 9f7c45e5-1e9f-3efa-958a-ad71dc330cad | -1.92996 | -53.47748 | 2026-01-08 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| 40f58a69-2fa3-32bc-aff6-2cae9a156676 | -4.2728 | -43.7601 | 2026-01-08 00:40:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| b510c2d3-b99d-3b67-b5af-bd08c8d3dbbf | -20.8921 | -52.3522 | 2026-01-08 00:40:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 110.6 |
-| 514e25b8-10ea-3683-8af7-880aa9c2e377 | -1.3309 | -53.1907 | 2026-01-08 00:40:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 99.3 |
-| a3658382-6786-3e13-bb2c-7c56b59c7e75 | -1.3309 | -53.1704 | 2026-01-08 00:40:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 67.9 |
-| 8c61b4e0-7cef-37ee-abbe-dd79dabe0d22 | -20.8927 | -52.33 | 2026-01-08 00:40:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 88.7 |
-| 36676a30-5919-3d8b-99dc-e223c1d844f5 | -1.3309 | -53.1907 | 2026-01-08 00:50:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 76.2 |
-| 8a666916-c6e0-3a39-9728-1c9c08ac8953 | -20.8921 | -52.3522 | 2026-01-08 00:50:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 94.4 |
-| 6e96086c-ebf6-36cc-ae34-a564b55ea315 | -4.2728 | -43.7601 | 2026-01-08 00:50:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 67.5 |
-| d5974768-e296-32b1-ac8f-806278577d6e | -20.8927 | -52.33 | 2026-01-08 00:50:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 77.4 |
-| 05d465fd-069a-364b-8e50-fd5f0ce6160a | -1.3126 | -53.1909 | 2026-01-08 00:50:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 67.3 |
-| e154b44d-6d1a-3040-b7fa-0b10e4efd1c9 | -20.8941 | -52.346298 | 2026-01-08 00:58:00 | METOP-B | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| b9b8d55f-b43b-3bce-bde4-bd29bf17dbda | -20.559401 | -57.952 | 2026-01-08 00:58:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
-| d90838d6-a2dc-3c8d-8292-582fe76f9220 | -21.5466 | -57.522499 | 2026-01-08 00:58:00 | METOP-B | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 4a824ea3-312a-3823-8dfd-981054c006ae | -21.5385 | -57.5322 | 2026-01-08 00:58:00 | METOP-B | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 32333bcd-2ed8-3681-b5f9-7408a8440547 | -21.5369 | -57.524899 | 2026-01-08 00:58:00 | METOP-B | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 8e82b37a-25e3-3966-8497-875fdd773928 | -20.8815 | -52.337601 | 2026-01-08 00:58:00 | METOP-B | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 816b07c6-f9f4-3026-b793-da89a8ccf96e | -22.817699 | -49.280399 | 2026-01-08 00:58:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 6b8072df-9d94-3b88-89ad-76ef139c2bec | -20.8883 | -52.3232 | 2026-01-08 00:58:00 | METOP-B | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 250a70c9-fa7b-3817-a715-64f00f5d57c7 | -20.891199 | -52.334801 | 2026-01-08 00:58:00 | METOP-B | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| e1b95631-3b47-35ee-9ae6-c38ea73efa0a | -21.548201 | -57.5298 | 2026-01-08 00:58:00 | METOP-B | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 90a2a6b3-b811-3015-956e-9dc49b467589 | -20.729099 | -55.153198 | 2026-01-08 00:58:00 | METOP-B | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 320b2cc6-0d79-37ae-8d07-0a9f343a6b85 | -22.827299 | -49.277401 | 2026-01-08 00:58:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 1182cee2-282a-32bb-9f67-e9ebe9008761 | -4.2728 | -43.7601 | 2026-01-08 01:00:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| 42dba2d5-6c59-3386-a11e-9c0820dfdb50 | -4.2726 | -43.7832 | 2026-01-08 01:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 66.7 |
-| 25b98b7f-70c9-3576-9a40-ba3d9d0009b6 | -20.8921 | -52.3522 | 2026-01-08 01:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 78.4 |
-| eab46602-b773-3893-9681-d8ad6239e8f4 | -20.8927 | -52.33 | 2026-01-08 01:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 69.9 |
-| ddb3761a-c05e-38af-a434-7279c77fe046 | -1.3309 | -53.1907 | 2026-01-08 01:00:00 | GOES-19 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 58.6 |
-| ddcee24d-55b9-3eaa-8a42-42d769e7429b | 3.6666 | -60.279202 | 2026-01-08 01:00:00 | METOP-B | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 3e6dd361-bd99-3b93-81b0-a04533b3c01f | 3.6684 | -60.270802 | 2026-01-08 01:00:00 | METOP-B | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 4c32d025-f238-3885-a18d-876d11215d61 | -1.3212 | -53.1866 | 2026-01-08 01:00:00 | METOP-B | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| eddd0086-12c0-37a8-94d3-3a8b0beefb85 | -4.2726 | -43.7832 | 2026-01-08 01:10:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 81.9 |
-| 445a7493-0c6f-3bec-a64c-402a1efed2a6 | -4.2728 | -43.7601 | 2026-01-08 01:10:00 | GOES-19 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 119.5 |
+| 21655d26-91a7-30da-a223-be75083b1369 | -4.2726 | -43.7832 | 2026-01-09 00:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| 3ce3e49d-734f-3263-94f0-4d4986147335 | -21.2315 | -56.2575 | 2026-01-09 00:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 92.5 |
+| 2e5baa0b-a3a3-34c1-9895-b9916ab0662c | 2.5437 | -60.584 | 2026-01-09 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 80.6 |
+| 8e8be166-d9b2-3792-85e1-d1d63eecb3eb | -21.232 | -56.2361 | 2026-01-09 00:00:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 71.0 |
+| 17d4ae86-996a-3adf-ac29-97054287d4e0 | 2.562 | -60.5838 | 2026-01-09 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 64.3 |
+| 04061874-9ff4-3a43-8e52-3b8f14a41920 | -21.0086 | -48.6943 | 2026-01-09 00:00:00 | GOES-19 | PARAÍSO | SÃO PAULO | Brasil | 3535705 | 35 | 33 | nan | nan | nan | Mata Atlântica | 86.0 |
+| b21e40e2-794a-3083-abf5-5725f1341b02 | -21.0093 | -48.6711 | 2026-01-09 00:00:00 | GOES-19 | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Mata Atlântica | 97.1 |
+| 1df0e830-cb5b-3a87-ac31-bc907674d6d9 | 2.5437 | -60.584 | 2026-01-09 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 102.2 |
+| 965a38d2-207a-3164-9727-ec42e915db8c | -10.9086 | -37.5217 | 2026-01-09 00:10:00 | GOES-19 | LAGARTO | SERGIPE | Brasil | 2803500 | 28 | 33 | nan | nan | nan | Mata Atlântica | 57.9 |
+| c99164cb-4de3-36d5-8c61-a73acb20e5fc | -22.8293 | -49.2836 | 2026-01-09 00:10:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 102.2 |
+| 0704d85c-073a-33d9-b74d-3f24e2182005 | -27.3298 | -51.6661 | 2026-01-09 00:20:00 | GOES-19 | OURO | SANTA CATARINA | Brasil | 4211801 | 42 | 33 | nan | nan | nan | Mata Atlântica | 70.3 |
+| c9d73f42-9ed6-3170-9725-c9a568339aa2 | -22.8293 | -49.2836 | 2026-01-09 00:20:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 121.8 |
+| 6f385c25-6c73-3411-a3d0-ec435e41fbde | -4.2726 | -43.7832 | 2026-01-09 00:20:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 122.1 |
+| a5a2d809-ecd7-3db8-91da-3bc4bedb14ea | -10.928 | -37.5181 | 2026-01-09 00:20:00 | GOES-19 | LAGARTO | SERGIPE | Brasil | 2803500 | 28 | 33 | nan | nan | nan | Mata Atlântica | 71.2 |
+| 0280fe18-6d28-3be8-96e6-70f0fe886ce1 | -10.9086 | -37.5217 | 2026-01-09 00:20:00 | GOES-19 | LAGARTO | SERGIPE | Brasil | 2803500 | 28 | 33 | nan | nan | nan | Mata Atlântica | 106.2 |
+| 44757eed-e184-31c2-9d68-cbcc8394aaa7 | 2.5437 | -60.584 | 2026-01-09 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| fd66ed6b-df83-33bd-a58a-e2a227185169 | 2.5437 | -60.584 | 2026-01-09 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 72.6 |
+| 7ed94c9b-49d7-33a5-855b-f1d81b8084df | -4.2726 | -43.7832 | 2026-01-09 00:30:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 127.9 |
+| 96642e42-8865-33af-84c3-08be02d36cc3 | -21.2315 | -56.2575 | 2026-01-09 00:30:00 | GOES-19 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 84.3 |
+| bb23d2ff-6968-31be-9881-34a6cebbda46 | -22.8293 | -49.2836 | 2026-01-09 00:30:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 133.7 |
+| 420ae879-73f6-3e92-8b9a-d2c79e012eca | 4.3421 | -60.396198 | 2026-01-09 00:39:00 | METOP-B | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ad98250-e4aa-3a0e-b1af-f7a119ee14dd | -19.438999 | -54.7682 | 2026-01-09 00:39:00 | METOP-B | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 15658c0c-55ec-3fc7-bb11-1ff5e4d63a0f | -17.656401 | -56.346401 | 2026-01-09 00:39:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 952ab1f8-3c88-345c-a6fc-d115ee79e0d9 | -16.1103 | -56.739799 | 2026-01-09 00:39:00 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| e332de21-b945-3838-a462-b1fadd1e7858 | -18.958799 | -55.168301 | 2026-01-09 00:39:00 | METOP-B | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 6e989661-6034-31f8-ba7b-f3ee01a09bd2 | -21.0012 | -48.665798 | 2026-01-09 00:39:00 | METOP-B | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| bd8468c4-7d74-3447-a537-795b9b120b1a | 2.5469 | -60.5807 | 2026-01-09 00:39:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| db038836-1bd4-345b-b704-a3b0fd50b6ab | 3.1749 | -60.404499 | 2026-01-09 00:39:00 | METOP-B | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| a6e19888-5f89-35e8-a74e-2051b367b5f0 | -2.624 | -51.950001 | 2026-01-09 00:39:00 | METOP-B | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 00d60a1c-7445-3688-beb8-cdf60bd78ed3 | -20.9083 | -48.881401 | 2026-01-09 00:39:00 | METOP-B | CAJOBI | SÃO PAULO | Brasil | 3509304 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 419d00c3-db6b-3aa0-b7dc-a14a8069120b | -27.32 | -51.66 | 2026-01-09 00:39:00 | METOP-B | OURO | SANTA CATARINA | Brasil | 4211801 | 42 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| a610d692-c9ef-373a-bb5d-2c3887ef2aa7 | 2.5487 | -60.573101 | 2026-01-09 00:39:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 660fd8be-bf50-3465-bce9-1cd7d6bf5790 | 2.5504 | -60.565399 | 2026-01-09 00:39:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| acaa2e43-5b26-3237-bddd-ec4b01a7090b | -22.818399 | -49.286301 | 2026-01-09 00:39:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| c615c3bf-053c-3e20-8b17-82577c292e49 | -21.230101 | -56.232399 | 2026-01-09 00:39:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| bd901e84-4aad-3cf8-aa02-600ff6d99a11 | -21.233601 | -56.2505 | 2026-01-09 00:39:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 419cc6e5-75ef-3b3f-9d7f-7b72f26b4b95 | -17.6581 | -56.354599 | 2026-01-09 00:39:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 48221f74-5be8-3ddb-afdf-fbc3ba0e4a1f | -27.3216 | -51.667801 | 2026-01-09 00:39:00 | METOP-B | OURO | SANTA CATARINA | Brasil | 4211801 | 42 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 69ea16bc-5d2e-3acb-845e-3efb93c8b753 | -22.826099 | -49.275101 | 2026-01-09 00:39:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| d2aac157-97ec-3fc6-a78a-dbb0b73d0f65 | -19.302601 | -55.244999 | 2026-01-09 00:39:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 27500d71-ba4d-3bee-9a4d-6248e6e1b5eb | -21.0035 | -48.675201 | 2026-01-09 00:39:00 | METOP-B | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6211e6c6-0a6f-32c1-8d11-c86bd4da355a | -12.3974 | -58.030102 | 2026-01-09 00:39:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 3ed79575-2c4e-32bc-aaac-6713ce3fc90b | -20.5595 | -57.9305 | 2026-01-09 00:39:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 345302fe-b88e-3e03-8f7a-4b5796a1b052 | -19.3043 | -55.2528 | 2026-01-09 00:39:00 | METOP-B | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 2395c849-cd86-3411-ab62-07be288156ce | -12.4072 | -58.027901 | 2026-01-09 00:39:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f1e98c53-b17c-3b06-9a5b-ff3e5090af3b | -19.437401 | -54.760601 | 2026-01-09 00:39:00 | METOP-B | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 6dcd966a-4123-396a-9593-900aae558be6 | 4.3437 | -60.388901 | 2026-01-09 00:39:00 | METOP-B | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| e1fdbe3b-2258-347a-b484-5809c42e8679 | -22.8281 | -49.283699 | 2026-01-09 00:39:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| ea70da3f-62d9-3450-a96f-36bbc2f9f6bb | -22.830099 | -49.292198 | 2026-01-09 00:39:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 8d567841-a612-3c01-9db1-473f75ca1543 | 3.1766 | -60.396999 | 2026-01-09 00:39:00 | METOP-B | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 2248acc5-9cf3-3a65-ad30-b86fd03f8787 | -20.5616 | -57.941399 | 2026-01-09 00:39:00 | METOP-B | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | nan |
+| 9e2ee050-6244-3e75-b3f9-9b0c8bc374e0 | -21.231899 | -56.241402 | 2026-01-09 00:39:00 | METOP-B | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| e192bd4d-92b6-3c0f-9d4f-d2e0eca4487c | 3.6919 | -60.623199 | 2026-01-09 00:39:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 4a3bdb66-bf15-3c17-8063-40e5af3fe94c | -22.8293 | -49.2836 | 2026-01-09 00:40:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 131.1 |
+| d917892c-11b6-3605-a117-f4e80281dfde | -4.2726 | -43.7832 | 2026-01-09 00:40:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 76.0 |
+| 6a99d134-1dc2-387d-83ae-cbd776feec25 | 2.5437 | -60.584 | 2026-01-09 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 72.9 |
+| c7ba190a-7aea-3cf8-82db-34130adbc6f7 | -22.8293 | -49.2836 | 2026-01-09 00:50:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 103.7 |
+| 1cc2ca55-9dbc-3f0f-b0cd-a02cb3e54bd4 | -22.8293 | -49.2836 | 2026-01-09 01:00:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 127.3 |
+| 3e37fc92-e570-303f-827b-b74e234dd11e | -4.2539 | -43.7843 | 2026-01-09 01:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| f04b2d51-0b1c-35f6-89c2-2dfdbac91b99 | -4.2726 | -43.7832 | 2026-01-09 01:00:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 116.9 |
+| 4afe08b7-967e-3fed-810a-ce3dcb857d45 | 2.5437 | -60.584 | 2026-01-09 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 60.2 |
+| 7b1f958b-f113-36dc-b3e2-4d17ec1e96af | -27.32264 | -51.66933 | 2026-01-09 01:04:00 | TERRA_M-M | OURO | SANTA CATARINA | Brasil | 4211801 | 42 | 33 | nan | nan | nan | Mata Atlântica | 9.9 |
+| 8f3c3b02-2eb0-3444-8658-a12ae3f4f69b | -22.82608 | -49.29373 | 2026-01-09 01:04:00 | TERRA_M-M | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 138.7 |
+| 8188948e-a78b-3d12-8d47-a126fee2863d | -22.824 | -49.31409 | 2026-01-09 01:04:00 | TERRA_M-M | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 42.6 |
+| 36e3ec7b-16d7-38a6-9911-b93172f9fad7 | -22.81925 | -49.28969 | 2026-01-09 01:04:00 | TERRA_M-M | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 110.5 |
+| b802f8b4-152d-3eb1-a642-9692a759e85e | -21.22937 | -56.25986 | 2026-01-09 01:06:00 | TERRA_M-M | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 9886a638-8675-3a27-90ca-0b7a0b7fb247 | -17.65425 | -56.35804 | 2026-01-09 01:06:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.2 |
+| 6ffff3c4-d1d5-33af-bac0-a435b0004b78 | -20.55614 | -57.95414 | 2026-01-09 01:06:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.2 |
+| cc0b7e7f-3871-399a-8475-b7c66766ab93 | -21.22794 | -56.25012 | 2026-01-09 01:06:00 | TERRA_M-M | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 58.0 |
+| 0505c23b-3b8f-3f98-8ec5-3e403ee8ead3 | -23.04296 | -54.91958 | 2026-01-09 01:06:00 | TERRA_M-M | AMAMBAI | MATO GROSSO DO SUL | Brasil | 5000609 | 50 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
+| cef52c35-0691-3b03-80b9-f5edc03f0d87 | -21.00065 | -48.68068 | 2026-01-09 01:06:00 | TERRA_M-M | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 35.3 |
+| 02600516-2f47-386f-bf2d-273af73e82bc | -16.10799 | -56.75203 | 2026-01-09 01:06:00 | TERRA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | 13.6 |
+| 3479a9ad-72cb-3c97-8e73-8971682b1b88 | -16.36322 | -57.30529 | 2026-01-09 01:06:00 | TERRA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| 8ce95ee1-2f16-3d10-9987-d666b1552ad2 | -21.2369 | -56.24856 | 2026-01-09 01:06:00 | TERRA_M-M | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| f2a0c234-0066-3af3-9627-fa5f00079ed0 | -16.09881 | -56.75353 | 2026-01-09 01:06:00 | TERRA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| a59fb46d-9d00-3586-a3a8-5e2af568b78f | -19.30089 | -55.26387 | 2026-01-09 01:06:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 8.4 |
+| f696d0c2-4f75-3c71-b3b4-37b6a651c20b | -17.66344 | -56.35653 | 2026-01-09 01:06:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.1 |
+| 8111c050-2ce9-3b66-a857-ef23018ae3cc | -12.39332 | -58.04666 | 2026-01-09 01:09:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 5e2ea2fe-d6a9-3582-b7da-d03491de9897 | -12.40098 | -58.03588 | 2026-01-09 01:09:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 23.1 |
+| 16d623bb-9209-3307-b5db-c6e4ed06f8e2 | -12.41 | -58.03451 | 2026-01-09 01:09:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| b832a341-78cc-3ee2-8d7d-9ceb6666159e | -12.40233 | -58.0453 | 2026-01-09 01:09:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 23.9 |
+| 70081642-4d66-39dc-bedb-3eb2c6c5e340 | -4.2726 | -43.7832 | 2026-01-09 01:10:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 131.4 |
+| dbb42933-3e1b-36a8-b0d6-60beaf80bd27 | -4.2539 | -43.7843 | 2026-01-09 01:10:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 76.1 |
+| 5ab3fdc7-2bed-3bf5-9799-e304f9837c5b | -22.8293 | -49.2836 | 2026-01-09 01:10:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 118.0 |
+| b4f690aa-d484-36f5-aed6-5bb919a74e67 | 3.37986 | -60.23111 | 2026-01-09 01:13:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| af7cf2e7-3114-32bd-83ed-609c7a491d27 | 2.54621 | -60.58725 | 2026-01-09 01:13:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 22.8 |
+| ff14dbd6-394b-3701-880c-443286f658cd | 2.55545 | -60.58854 | 2026-01-09 01:13:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| e9dc5a52-cf8e-3c31-a374-9c2382a7325f | 2.54753 | -60.57754 | 2026-01-09 01:13:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 33.1 |
+| e238dd40-a476-365d-821f-deb5244c0d1b | 2.55678 | -60.57883 | 2026-01-09 01:13:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| a747ad3d-c5ca-312c-bb42-5067b0284162 | 4.51748 | -60.66921 | 2026-01-09 01:13:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 4cd2a586-0637-350b-b56f-f46681558cca | 4.5189 | -60.65887 | 2026-01-09 01:13:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 39d9d7e7-459f-373b-8d0c-fb6741cbe15f | 3.1779 | -60.405899 | 2026-01-09 01:18:00 | METOP-C | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 5d87c67f-1c4a-36bb-9f7e-5a241073d772 | 3.3832 | -60.23 | 2026-01-09 01:18:00 | METOP-C | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| c3b46f4a-6ee3-33be-b2be-df3366a70dd6 | 2.5499 | -60.580898 | 2026-01-09 01:18:00 | METOP-C | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 41ea3317-b0a4-37d9-b7e0-e7d42cf64be8 | 2.5514 | -60.5741 | 2026-01-09 01:18:00 | METOP-C | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 9c69e367-b92f-3547-b2d4-f20ba6b3d422 | -4.2539 | -43.7843 | 2026-01-09 01:20:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 79.4 |
+| a4906e67-79bc-32ad-87d8-61e91bf10f08 | -4.2726 | -43.7832 | 2026-01-09 01:20:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 108.5 |
+| 0fd5a804-2a42-3359-a502-92b93bf50dbb | -22.8293 | -49.2836 | 2026-01-09 01:20:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 112.3 |
+| 93f7780f-4053-3d7e-b146-7986b42964c5 | -4.2539 | -43.7843 | 2026-01-09 01:30:00 | GOES-19 | TIMBIRAS | MARANHÃO | Brasil | 2112100 | 21 | 33 | nan | nan | nan | Cerrado | 79.3 |
+| c4eeb7c1-ed92-379d-84ef-64673a4f0f6e | -22.8293 | -49.2836 | 2026-01-09 01:30:00 | GOES-19 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 89.1 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
