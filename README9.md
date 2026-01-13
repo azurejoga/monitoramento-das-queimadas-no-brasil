@@ -29,40 +29,29 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 85edb63b-f73c-37b3-abc3-036bf9c0a0f0 | -6.08842 | -37.8654 | 2026-01-11 11:34:00 | TERRA_M-M | MARTINS | RIO GRANDE DO NORTE | Brasil | 2407401 | 24 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| 667954b5-18f0-3946-a8e8-aadce27f06c2 | -8.99399 | -35.5906 | 2026-01-11 11:34:00 | TERRA_M-M | NOVO LINO | ALAGOAS | Brasil | 2705606 | 27 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
-| 2d15f0b3-95fd-3a0c-8020-ef7feedbad43 | -2.84001 | -41.98971 | 2026-01-11 11:34:00 | TERRA_M-M | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 27.6 |
-| db6f0c63-a588-31ca-8651-657f74cc6aed | -8.29139 | -38.71001 | 2026-01-11 11:34:00 | TERRA_M-M | CARNAUBEIRA DA PENHA | PERNAMBUCO | Brasil | 2603926 | 26 | 33 | nan | nan | nan | Caatinga | 11.6 |
-| 7cac2c2c-83b8-3e50-9a3a-5e6af4e88674 | -2.84193 | -41.97674 | 2026-01-11 11:34:00 | TERRA_M-M | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Caatinga | 9.5 |
-| 53ffa7cd-50e1-32f4-849e-dfeb1f0c513a | -3.46467 | -42.27142 | 2026-01-11 11:34:00 | TERRA_M-M | LUZILÂNDIA | PIAUÍ | Brasil | 2205805 | 22 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 657ff9e8-0c70-37ed-a732-bc5f643eceac | -6.75427 | -38.43453 | 2026-01-11 11:34:00 | TERRA_M-M | SÃO JOÃO DO RIO DO PEIXE | PARAÍBA | Brasil | 2500700 | 25 | 33 | nan | nan | nan | Caatinga | 8.9 |
-| d03266c7-c362-3892-9e2a-1c9ca8d70f99 | -4.942 | -37.36229 | 2026-01-11 11:34:00 | TERRA_M-M | MOSSORÓ | RIO GRANDE DO NORTE | Brasil | 2408003 | 24 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| c25bb4e7-44e7-32fa-9abe-9638d7fb4e67 | -5.91069 | -38.07381 | 2026-01-11 11:34:00 | TERRA_M-M | TABOLEIRO GRANDE | RIO GRANDE DO NORTE | Brasil | 2413805 | 24 | 33 | nan | nan | nan | Caatinga | 8.1 |
-| 8709b1c5-fc3a-316a-9fa6-5d6e324a028d | -7.1205 | -35.17616 | 2026-01-11 11:34:00 | TERRA_M-M | SAPÉ | PARAÍBA | Brasil | 2515302 | 25 | 33 | nan | nan | nan | Mata Atlântica | 14.9 |
-| 1fb4a0b8-07ec-3d1c-a3a0-1e10110a3718 | -5.16338 | -39.09734 | 2026-01-11 11:34:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 7.6 |
-| cc016a79-667b-377b-a48e-d47f3d86f430 | -4.50825 | -38.39679 | 2026-01-11 11:34:00 | TERRA_M-M | OCARA | CEARÁ | Brasil | 2309458 | 23 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| e8c205cf-b39a-384d-9e21-d182573d6bfc | -5.16209 | -39.10626 | 2026-01-11 11:34:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 13.6 |
-| e5a77808-932e-3802-b236-a593fab9a537 | -9.30982 | -36.88843 | 2026-01-11 11:36:00 | TERRA_M-M | MINADOR DO NEGRÃO | ALAGOAS | Brasil | 2705309 | 27 | 33 | nan | nan | nan | Caatinga | 14.6 |
-| e243963f-217d-37d8-8fa8-b48d3a67f410 | -10.1253 | -36.97909 | 2026-01-11 11:36:00 | TERRA_M-M | CANHOBA | SERGIPE | Brasil | 2801108 | 28 | 33 | nan | nan | nan | Mata Atlântica | 9.5 |
-| 2209ca23-7ab1-30a3-9da4-d41815fb9a3f | -9.30032 | -36.88715 | 2026-01-11 11:36:00 | TERRA_M-M | MINADOR DO NEGRÃO | ALAGOAS | Brasil | 2705309 | 27 | 33 | nan | nan | nan | Caatinga | 35.3 |
-| f2e8fcc7-8d1e-3d0d-a6a6-8b63781defb4 | -9.68741 | -37.09996 | 2026-01-11 11:36:00 | TERRA_M-M | BATALHA | ALAGOAS | Brasil | 2700706 | 27 | 33 | nan | nan | nan | Caatinga | 10.8 |
-| 49f7f04d-3d3d-3d92-af39-2a881e0b3b5f | -9.98318 | -36.37123 | 2026-01-11 11:36:00 | TERRA_M-M | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Mata Atlântica | 10.6 |
-| 6fe2a516-71e2-3f7c-8670-6d0ca4503916 | -17.7598 | -43.42587 | 2026-01-11 11:38:00 | TERRA_M-M | DIAMANTINA | MINAS GERAIS | Brasil | 3121605 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| bbd03ebf-7e1f-37d6-affa-2d2ded06fbc2 | -20.14661 | -46.83392 | 2026-01-11 11:38:00 | TERRA_M-M | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| afd8d586-86cd-30c7-a994-c4e44811c32d | -20.24026 | -46.48881 | 2026-01-11 11:38:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 11.7 |
-| 84edc3d8-08f7-3736-9b26-e7d48cba1304 | -20.24275 | -46.47411 | 2026-01-11 11:38:00 | TERRA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 11.9 |
-| 90e00bad-122f-3947-988e-802fe0510b84 | -20.14386 | -46.8497 | 2026-01-11 11:38:00 | TERRA_M-M | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| df0ba64e-ff00-31f8-96ce-f841fe088d4d | -19.94355 | -43.09368 | 2026-01-11 11:38:00 | TERRA_M-M | RIO PIRACICABA | MINAS GERAIS | Brasil | 3155702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 12.1 |
-| d10f3737-5db7-3c8c-9b21-eeca574d3fb7 | -18.8119 | -51.6134 | 2026-01-11 12:50:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 85.6 |
-| e5267afd-c1fc-3e9b-952e-dff5e60f8dd5 | -18.8119 | -51.6134 | 2026-01-11 13:10:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 92.5 |
-| bd3857ef-dc4e-38a9-a419-94224f14f9c7 | -18.8119 | -51.6134 | 2026-01-11 13:20:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| f7ee5312-8e3b-36a3-ab4f-037935131c91 | -18.8119 | -51.6134 | 2026-01-11 13:30:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 86.1 |
-| 37b7f12f-85d8-3d7b-ac98-535f95858be2 | -18.8119 | -51.6134 | 2026-01-11 13:40:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 87.2 |
-| 2b4a7d97-8acb-3560-821f-8736bddb99ca | -18.832 | -51.6099 | 2026-01-11 13:40:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 80.1 |
-| fd4c7972-2398-3053-b135-8914ce68c147 | -18.8119 | -51.6134 | 2026-01-11 13:50:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 84.1 |
-| e1a1ad45-b77a-35f0-a015-9d4f8e8b2e15 | -18.832 | -51.6099 | 2026-01-11 13:50:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 93.2 |
-| 8382dbcf-31a3-3fde-849b-76aae6649479 | -18.8119 | -51.6134 | 2026-01-11 14:00:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| 3ada4abb-e68e-30fc-970d-38d8d5b466af | -18.8119 | -51.6134 | 2026-01-11 14:10:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 116.6 |
-| 23657da1-e489-365d-bd47-e5a47f5ab3fd | -18.832 | -51.6099 | 2026-01-11 14:10:00 | GOES-19 | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| f87635f4-6903-3232-808f-5953a70b6da4 | -9.90638 | -36.08403 | 2026-01-13 11:17:00 | TERRA_M-M | JEQUIÁ DA PRAIA | ALAGOAS | Brasil | 2703759 | 27 | 33 | nan | nan | nan | Mata Atlântica | 6.3 |
+| 6bc891f1-33a4-31a6-ba24-fe192b447288 | -10.2 | -36.65071 | 2026-01-13 11:17:00 | TERRA_M-M | IGREJA NOVA | ALAGOAS | Brasil | 2703205 | 27 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| b3aeb8d3-78d3-3bb4-b1dd-42ccfce6724b | -8.45447 | -36.60033 | 2026-01-13 11:17:00 | TERRA_M-M | PESQUEIRA | PERNAMBUCO | Brasil | 2610905 | 26 | 33 | nan | nan | nan | Caatinga | 5.4 |
+| d1ef7606-963d-36e9-8d39-cf809085b91f | -8.05906 | -39.02575 | 2026-01-13 11:17:00 | TERRA_M-M | VERDEJANTE | PERNAMBUCO | Brasil | 2616100 | 26 | 33 | nan | nan | nan | Caatinga | 16.9 |
+| c363a347-95b3-3be4-883f-1a5e806989f1 | -8.2892 | -36.73216 | 2026-01-13 11:17:00 | TERRA_M-M | PESQUEIRA | PERNAMBUCO | Brasil | 2610905 | 26 | 33 | nan | nan | nan | Caatinga | 5.5 |
+| 77a827c2-cd1c-3dd9-ab91-6457faf65471 | -8.05782 | -39.03158 | 2026-01-13 11:17:00 | TERRA_M-M | VERDEJANTE | PERNAMBUCO | Brasil | 2616100 | 26 | 33 | nan | nan | nan | Caatinga | 11.1 |
+| c37de1d7-a5b7-3785-95db-7cb829b432d2 | -10.21511 | -36.86991 | 2026-01-13 11:17:00 | TERRA_M-M | TELHA | SERGIPE | Brasil | 2807303 | 28 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
+| f86b5894-367a-36af-9817-abcebaddac08 | -9.39543 | -36.96046 | 2026-01-13 11:17:00 | TERRA_M-M | CACIMBINHAS | ALAGOAS | Brasil | 2701209 | 27 | 33 | nan | nan | nan | Caatinga | 16.7 |
+| 9d3fddb0-2034-39dc-8cfa-7108136947fa | -8.29576 | -36.12748 | 2026-01-13 11:17:00 | TERRA_M-M | SÃO CAITANO | PERNAMBUCO | Brasil | 2613107 | 26 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| d38b99ec-1c4a-3b94-8bb1-087a72b2a5fa | -9.9078 | -36.07454 | 2026-01-13 11:17:00 | TERRA_M-M | JEQUIÁ DA PRAIA | ALAGOAS | Brasil | 2703759 | 27 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
+| 32acdf24-d951-3cfd-9f6e-c161ed5f779c | -2.71949 | -47.43552 | 2026-01-13 12:53:00 | TERRA_M-T | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 43.1 |
+| e839fba1-bbf4-3f61-b064-0a324a14f5de | 3.3151 | -60.51927 | 2026-01-13 12:53:00 | TERRA_M-T | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 19.5 |
+| 018df612-edfd-30f5-8530-12386df61423 | 3.43188 | -60.61877 | 2026-01-13 12:53:00 | TERRA_M-T | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 18.1 |
+| 11398a15-1c56-30d6-ac31-564772cae930 | -2.71814 | -47.42827 | 2026-01-13 12:53:00 | TERRA_M-T | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| 5d0cfddb-6ffc-3f89-b99d-4309d4b137a4 | 3.31326 | -60.50612 | 2026-01-13 12:53:00 | TERRA_M-T | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 16.7 |
+| 56c26d82-ef7f-3cd6-963c-e4ee73f76fdd | -22.0833 | -54.79257 | 2026-01-13 12:59:00 | TERRA_M-T | ITAPORÃ | MATO GROSSO DO SUL | Brasil | 5004502 | 50 | 33 | nan | nan | nan | Mata Atlântica | 15.4 |
+| 4a90aaee-363c-3c2c-87f7-0bcbcd78ebc1 | -5.7545 | -39.3526 | 2026-01-13 13:20:00 | GOES-19 | SENADOR POMPEU | CEARÁ | Brasil | 2312700 | 23 | 33 | nan | nan | nan | Caatinga | 113.5 |
+| 376e058a-7141-3cc4-97f1-87b51364507d | -3.2905 | -42.5507 | 2026-01-13 13:20:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 114.2 |
+| fa224c13-115b-3665-ba1a-14a6c17ac9dd | -3.2905 | -42.5507 | 2026-01-13 13:30:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 120.6 |
+| c4cec11b-821c-339d-a1a2-4a1bc1c6ccf8 | -3.2906 | -42.5271 | 2026-01-13 13:30:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 114.3 |
+| b3018396-22de-34e5-8850-e2652800f721 | -3.3092 | -42.5498 | 2026-01-13 13:40:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 116.8 |
+| 026528f8-bc84-3f89-b0f1-1f3c739f3506 | -22.6761 | -43.7268 | 2026-01-13 14:00:00 | GOES-19 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 143.7 |
+| ddbcbcce-2ad5-3f32-a4b3-0bf77374cac0 | -22.6761 | -43.7268 | 2026-01-13 14:30:00 | GOES-19 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 165.9 |
+| 4b0e70f5-f65e-39a6-9354-51d3cf2cf684 | -22.6761 | -43.7268 | 2026-01-13 14:40:00 | GOES-19 | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 183.1 |
 
 

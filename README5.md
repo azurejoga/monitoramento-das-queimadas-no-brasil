@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 375e047a-7821-32d6-80d2-2a03faa8f5a7 | -13.37126 | -53.56326 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| af73ce4a-b692-375f-bd08-83aeed5c1065 | -17.29456 | -42.67962 | 2026-01-12 04:42:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 1eb5db6b-ec27-3832-a0e9-5f3cba709d04 | -13.3782 | -53.56449 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| d0e46fa4-9521-37de-beac-3d75ec645b9f | -15.51572 | -47.99178 | 2026-01-12 04:42:00 | NOAA-20 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| da01afbc-13d8-3e81-837b-5641a8b3f926 | -13.38233 | -53.56117 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 7f539794-c824-3bd4-99c5-68aeb7622375 | -16.30777 | -45.10606 | 2026-01-12 04:42:00 | NOAA-20 | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 51b463f8-61d4-37bd-bf68-14a49dab667a | -15.51942 | -47.99233 | 2026-01-12 04:42:00 | NOAA-20 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4c279265-d732-3fe9-87f2-4973eee80a7c | -13.37538 | -53.55994 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 6bed2f37-03b5-3e38-bf5d-7aa98517cd40 | -13.37191 | -53.55933 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f22577fe-b57d-35b7-980c-4093367889a0 | -13.37256 | -53.55542 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 6846a91c-c1e9-3c4f-b6d0-01fce7fa1249 | -13.37473 | -53.56387 | 2026-01-12 04:42:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8deba315-e36b-3ed0-9a72-e43347ffce55 | -16.31225 | -45.10667 | 2026-01-12 04:42:00 | NOAA-20 | SÃO ROMÃO | MINAS GERAIS | Brasil | 3164209 | 31 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 3325054c-4351-3851-abd5-f78753e39d64 | -16.12583 | -49.89199 | 2026-01-12 04:42:00 | NOAA-20 | ITABERAÍ | GOIÁS | Brasil | 5210406 | 52 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 58b2f098-9663-3af6-800a-85d993148f58 | -15.52006 | -47.9878 | 2026-01-12 04:42:00 | NOAA-20 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 49785b03-201f-3473-83b9-f4eb0064f732 | -17.29804 | -42.6807 | 2026-01-12 04:42:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 1b152ae3-8592-3dec-8922-d51f0e9fa68b | -17.29988 | -42.68048 | 2026-01-12 04:42:00 | NOAA-20 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ec2b46f0-12c4-3aec-8237-ead931a86bdc | -16.05199 | -47.21614 | 2026-01-12 04:42:00 | NOAA-20 | CABECEIRA GRANDE | MINAS GERAIS | Brasil | 3109451 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 889f492b-63cf-387a-9da7-9f75a3c1b179 | -15.51203 | -47.99115 | 2026-01-12 04:42:00 | NOAA-20 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 67d66229-828a-3cea-a998-dc0d74ddea8f | -14.43574 | -46.24138 | 2026-01-12 04:42:00 | NOAA-20 | BURITINÓPOLIS | GOIÁS | Brasil | 5203962 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 0e4553be-eb17-334c-9e29-3de65f65d184 | -22.56974 | -46.98491 | 2026-01-12 04:44:00 | NOAA-20 | SANTO ANTÔNIO DE POSSE | SÃO PAULO | Brasil | 3548005 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 09ddef14-b1fe-3a2a-885e-2c48b2340add | -22.56762 | -46.98603 | 2026-01-12 04:44:00 | NOAA-20 | SANTO ANTÔNIO DE POSSE | SÃO PAULO | Brasil | 3548005 | 35 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5a1e2390-b1d8-38a9-8cc2-fff1d35a03a7 | -20.35735 | -40.95294 | 2026-01-12 04:44:00 | NOAA-20 | DOMINGOS MARTINS | ESPÍRITO SANTO | Brasil | 3201902 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| d18e156a-5216-3a27-ad37-e8bf4e9752e2 | -20.12036 | -46.8525 | 2026-01-12 04:44:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 63157045-a94b-3dba-957d-93c8cb4a9e14 | -20.35789 | -40.9469 | 2026-01-12 04:44:00 | NOAA-20 | DOMINGOS MARTINS | ESPÍRITO SANTO | Brasil | 3201902 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| a7b6f587-5231-37ed-b719-67c9c902ebb7 | -17.32551 | -48.79126 | 2026-01-12 04:44:00 | NOAA-20 | CRISTIANÓPOLIS | GOIÁS | Brasil | 5206305 | 52 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 287062ce-90f1-3164-9e6f-c5e8f603a55a | -20.11928 | -46.86089 | 2026-01-12 04:44:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 29a69b62-8a99-30b7-809a-47845a9c9966 | -20.11929 | -46.86271 | 2026-01-12 04:44:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| c5816a5a-8bd9-3a50-bd5a-0cb895f20e62 | -22.68017 | -45.10517 | 2026-01-12 04:44:00 | NOAA-20 | LORENA | SÃO PAULO | Brasil | 3527207 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.1 |
-| ff50ac48-9f80-3725-b6e5-848eb971f25a | -20.12031 | -46.85427 | 2026-01-12 04:44:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| ad2d0018-ba4f-3c5d-9133-d38c632c8d2a | -20.39863 | -50.87276 | 2026-01-12 04:44:00 | NOAA-20 | NOVA CANAÃ PAULISTA | SÃO PAULO | Brasil | 3532843 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| f4be86d4-ef90-32b7-b150-fedd89caa22b | -20.11983 | -46.85664 | 2026-01-12 04:44:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| aba1bd1c-46c3-3ef3-a5a9-114ae32db519 | -22.56543 | -46.9843 | 2026-01-12 04:44:00 | NOAA-20 | SANTO ANTÔNIO DE POSSE | SÃO PAULO | Brasil | 3548005 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 31dfbc17-2edc-3524-a505-ab2473b544d7 | -20.1198 | -46.8585 | 2026-01-12 04:44:00 | NOAA-20 | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 6e9e96f5-3194-393c-8cc7-620234ee0ea6 | -22.56493 | -46.98863 | 2026-01-12 04:44:00 | NOAA-20 | SANTO ANTÔNIO DE POSSE | SÃO PAULO | Brasil | 3548005 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 091fdda2-5602-3da4-a6d0-6ecbc67fcc1c | -22.68209 | -45.11029 | 2026-01-12 04:44:00 | NOAA-20 | LORENA | SÃO PAULO | Brasil | 3527207 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.5 |
-| 96287dc5-ee7c-3f38-a243-2492410c0641 | -0.08932 | -51.27731 | 2026-01-12 05:29:00 | NOAA-21 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| a20e31c2-b993-30de-b9db-c13632467486 | 1.3542 | -60.03383 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 3ea2687c-acda-38c7-820b-68e554c8d111 | 1.35305 | -60.04811 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 5aa8b26e-fcc3-3dae-8f94-8efedee7f0f9 | 1.35198 | -60.04123 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| a3b4c652-39d9-30eb-bfe3-68ff0411be74 | -0.08874 | -51.28092 | 2026-01-12 05:29:00 | NOAA-21 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| cfb21ea5-ad72-34d7-a1b3-a077850e9a78 | 1.35582 | -60.04415 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 4cdead1d-fb66-3660-b79c-ccf1b2d3943b | 1.35643 | -60.02644 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b27e0aba-1ac1-3986-9679-65f16ef7eaed | 1.3482 | -60.01714 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| c5a98147-ed22-3892-b1be-7677eeac93c5 | -0.09479 | -51.27828 | 2026-01-12 05:29:00 | NOAA-21 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| e818c2cd-f3ac-3a3d-b20b-a6714023893d | 1.35973 | -60.02593 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 3.0 |
-| 5ff87a87-5952-32c5-aada-f4926dcada38 | 1.35251 | -60.04466 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 2d64d334-2379-31b7-af63-edce77d64a24 | -0.0899 | -51.27372 | 2026-01-12 05:29:00 | NOAA-21 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| aa2f4096-1c3d-3fe8-959c-f69a5d314702 | 1.35474 | -60.03727 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 044434f4-e298-38b1-b85a-d3741007f805 | 1.41542 | -60.74754 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 592554d8-ab78-3fc8-99db-47fbb74e0e7b | -0.08999 | -51.27597 | 2026-01-12 05:29:00 | NOAA-21 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 12.3 |
-| f6793add-6ae7-3f08-8da4-7f079a9d6527 | 0.73891 | -59.31863 | 2026-01-12 05:29:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 06dcde7e-0b84-3397-908f-81ce663a0f16 | 0.68469 | -59.27969 | 2026-01-12 05:29:00 | NOAA-21 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| a662ff33-136f-30d3-aa51-ea2fe36dae7a | 1.3515 | -60.01662 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 64f7a87a-d7f3-301b-801d-dff3f6081dff | -0.08944 | -51.27958 | 2026-01-12 05:29:00 | NOAA-21 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 12.3 |
-| 94d912e2-be61-32e5-bc8f-2adfebca7e85 | 1.35144 | -60.03779 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 89481e43-0b56-3189-8e86-5cf30807b760 | 1.35481 | -60.01611 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 7013f562-8cfe-317e-9369-a16653a9ce5c | 1.35528 | -60.04072 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| fa5dd067-282c-3768-88db-06d004c2cbb3 | 1.35636 | -60.04759 | 2026-01-12 05:29:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 1b78c92d-466d-39f6-8bf7-5a01d5027a02 | -5.18576 | -40.73523 | 2026-01-12 05:46:00 | AQUA_M-M | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | 4.3 |
-| 854a70c9-0a45-32ce-92fd-ca5d457908dc | -5.49655 | -42.14787 | 2026-01-12 05:46:00 | AQUA_M-M | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 6.5 |
-| 7808c2e1-e2a1-3e07-8892-5323b45c6656 | -5.49516 | -42.15703 | 2026-01-12 05:46:00 | AQUA_M-M | ALTO LONGÁ | PIAUÍ | Brasil | 2200301 | 22 | 33 | nan | nan | nan | Caatinga | 7.0 |
-| b1dbb978-6371-3265-a4ec-fc96c2b67ba1 | -3.71929 | -43.31799 | 2026-01-12 05:46:00 | AQUA_M-M | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| 544f8c49-e143-3f5e-84b0-9e536f7c231f | -7.05205 | -45.05299 | 2026-01-12 05:48:00 | AQUA_M-M | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 12.1 |
-| e8beec86-3dda-347a-8762-28ebfaa13651 | 1.35358 | -60.03981 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| ca181aeb-4aa5-3376-9d3a-908f1b7dd45a | 1.35282 | -60.03517 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 15f9e194-5164-3673-b8fc-c519fbd59007 | 1.35815 | -60.03908 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 5d0c9c16-2b34-3eb5-999a-405a9eaa8ac1 | 1.35433 | -60.04439 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 03c12c02-5f58-3a63-b2cd-3873f5572559 | 1.35508 | -60.04898 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| ba81398f-f673-355b-9703-976dfaf60ffb | 1.36044 | -60.02436 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e38a937d-2c2c-33d6-a9c4-40fa31b58a98 | 1.34976 | -60.01652 | 2026-01-12 05:59:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 74fe6b4f-99bd-34d8-aff5-9eea630f01cb | -2.85017 | -42.02243 | 2026-01-12 12:14:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 24.8 |
-| fb432fe8-b58f-317b-882f-6bbf6b6bb9e3 | -9.42573 | -40.26566 | 2026-01-12 12:14:00 | TERRA_M-T | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 33.9 |
-| 8008af85-7851-3892-8271-ffd3e2b41c89 | -5.82876 | -39.58923 | 2026-01-12 12:14:00 | TERRA_M-T | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | 43.2 |
-| 327d6e07-113d-3827-883f-f817b243a711 | -4.27747 | -45.24929 | 2026-01-12 12:14:00 | TERRA_M-T | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 8.8 |
-| 3a61435e-73df-3357-9cab-6d1edd2d04fc | -4.04057 | -45.62583 | 2026-01-12 12:14:00 | TERRA_M-T | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 19.0 |
-| 7b06d9bd-e3d7-3540-be2e-8e4b95e37fc2 | -2.18083 | -47.74449 | 2026-01-12 12:14:00 | TERRA_M-T | AURORA DO PARÁ | PARÁ | Brasil | 1500958 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
-| 5143b5fa-ce09-3d33-aa59-a24bf4296d1b | -3.2804 | -45.41407 | 2026-01-12 12:14:00 | TERRA_M-T | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 18.3 |
-| a6633c22-dd27-3b99-9d11-f42d0e530b9e | -4.27596 | -45.26015 | 2026-01-12 12:14:00 | TERRA_M-T | VITORINO FREIRE | MARANHÃO | Brasil | 2113009 | 21 | 33 | nan | nan | nan | Amazônia | 15.0 |
-| 1369e853-8321-3396-a52e-07b0a850edae | -4.16929 | -38.36282 | 2026-01-12 12:14:00 | TERRA_M-T | CASCAVEL | CEARÁ | Brasil | 2303501 | 23 | 33 | nan | nan | nan | Caatinga | 70.4 |
-| 0cd4c6af-271a-3f6d-9937-5efc8c8d0c50 | -5.19609 | -40.61216 | 2026-01-12 12:14:00 | TERRA_M-T | CRATEÚS | CEARÁ | Brasil | 2304103 | 23 | 33 | nan | nan | nan | Caatinga | 22.4 |
-| 0f96ae06-e7cf-3e4e-a2a9-16e063acd680 | -3.94456 | -38.38857 | 2026-01-12 12:14:00 | TERRA_M-T | AQUIRAZ | CEARÁ | Brasil | 2301000 | 23 | 33 | nan | nan | nan | Caatinga | 39.6 |
-| 346a1719-48c2-38aa-8c77-1ee6d793a5a6 | -4.70973 | -44.48214 | 2026-01-12 12:14:00 | TERRA_M-T | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 01938c37-9ca1-371c-ad67-83e34e7058b8 | -4.65959 | -40.78773 | 2026-01-12 12:14:00 | TERRA_M-T | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 37.7 |
-| 206cac29-dd65-3a16-afbf-9c17bae40929 | -3.94947 | -38.39586 | 2026-01-12 12:14:00 | TERRA_M-T | AQUIRAZ | CEARÁ | Brasil | 2301000 | 23 | 33 | nan | nan | nan | Caatinga | 38.9 |
-| 01f5b6ed-5e44-39cc-8575-75040ad439a2 | -7.78261 | -44.05433 | 2026-01-12 12:14:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 2da2e71d-b029-3d73-a010-fa1865fc3d9e | -2.84651 | -42.0162 | 2026-01-12 12:14:00 | TERRA_M-T | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 18.9 |
-| ca9ff10b-10b9-354c-9d38-4a4709cab4ac | -3.28545 | -45.41005 | 2026-01-12 12:14:00 | TERRA_M-T | PENALVA | MARANHÃO | Brasil | 2108306 | 21 | 33 | nan | nan | nan | Amazônia | 11.0 |
-| cc63e12b-8c83-391e-b01c-608db05f291c | -9.42079 | -40.27048 | 2026-01-12 12:14:00 | TERRA_M-T | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 31.1 |
-| 690b98c2-d63f-3149-b454-591b282c7c89 | -7.83793 | -43.80335 | 2026-01-12 12:14:00 | TERRA_M-T | BERTOLÍNIA | PIAUÍ | Brasil | 2201705 | 22 | 33 | nan | nan | nan | Caatinga | 4.4 |
-| fc9d377b-9bd8-378c-9e0f-b06ba2675c7b | -4.16452 | -38.35528 | 2026-01-12 12:14:00 | TERRA_M-T | CASCAVEL | CEARÁ | Brasil | 2303501 | 23 | 33 | nan | nan | nan | Caatinga | 76.8 |
-| a6975ba8-2afe-3560-be0d-dcad8fb50760 | -4.04202 | -45.6155 | 2026-01-12 12:14:00 | TERRA_M-T | SANTA LUZIA | MARANHÃO | Brasil | 2110005 | 21 | 33 | nan | nan | nan | Amazônia | 16.5 |
-| b454c82b-3f6d-3ee4-90e0-d4bffedea0f2 | -5.89871 | -42.7959 | 2026-01-12 12:14:00 | TERRA_M-T | PALMEIRAIS | PIAUÍ | Brasil | 2207504 | 22 | 33 | nan | nan | nan | Caatinga | 59.8 |
-| d6e8c963-5a45-3cbd-9466-dea35c20a322 | -2.96366 | -45.56076 | 2026-01-12 12:14:00 | TERRA_M-T | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 13.8 |
-| 259c660b-ba3f-3af8-81e4-a53fed115049 | -5.53065 | -39.20092 | 2026-01-12 12:14:00 | TERRA_M-T | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 45.8 |
-| 327f6bcb-c7dd-311f-985b-a7bd07fa1d8f | -4.6542 | -40.78161 | 2026-01-12 12:14:00 | TERRA_M-T | IPUEIRAS | CEARÁ | Brasil | 2305902 | 23 | 33 | nan | nan | nan | Caatinga | 30.2 |
-| 5528117b-7581-3d72-a4e8-9a64a92ffedc | -3.97482 | -42.51775 | 2026-01-12 12:14:00 | TERRA_M-T | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 32.5 |
-| 9853d401-f1d0-3c44-b76d-9c06a2e13565 | -17.69911 | -45.51359 | 2026-01-12 12:16:00 | TERRA_M-T | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| bdccb99a-6dee-3874-a43e-2a290899bd85 | -17.6972 | -45.53044 | 2026-01-12 12:16:00 | TERRA_M-T | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 13.2 |
-| 8ef2713f-c75c-34f3-a542-80e6de31a490 | -12.66325 | -46.76483 | 2026-01-12 12:16:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 16.8 |
-| e4195aec-65d5-3ef6-b534-d9dc461ab2b6 | -12.66502 | -46.75924 | 2026-01-12 12:16:00 | TERRA_M-T | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 29.8 |
+| 69cda3c4-b65e-303b-b7d6-d17cad7f283f | -3.54491 | -43.65784 | 2026-01-13 03:59:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| acb6b2ef-1c73-39ef-ad0b-a03e34a83d3a | -5.72095 | -41.2744 | 2026-01-13 03:59:00 | NPP-375D | SÃO MIGUEL DO TAPUIO | PIAUÍ | Brasil | 2210409 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| ab330dc2-9d49-333a-be2b-766af78de754 | -3.92366 | -42.41704 | 2026-01-13 03:59:00 | NPP-375D | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 3414ee95-749c-38d5-a31a-33a283652177 | -8.51317 | -37.08414 | 2026-01-13 03:59:00 | NPP-375D | BUÍQUE | PERNAMBUCO | Brasil | 2602803 | 26 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 462d8f00-662b-3cd8-ae40-1a19a71bca90 | -4.91713 | -43.42561 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 0b6b6434-cec4-3c6c-9184-7628b9a19fb8 | -5.10458 | -43.22303 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 1e06617b-5422-3b40-811b-af943aded465 | -5.09188 | -43.22434 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 21.9 |
+| dee51b1c-4b59-3957-bfdb-175aaee97908 | -5.28385 | -43.56508 | 2026-01-13 03:59:00 | NPP-375D | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| 53930859-ea92-3193-bf46-4443fe5fd596 | -4.4223 | -43.10352 | 2026-01-13 03:59:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 91d678bb-a32f-3adc-af05-6a5f1c8aaca4 | -3.60401 | -41.86587 | 2026-01-13 03:59:00 | NPP-375D | CARAÚBAS DO PIAUÍ | PIAUÍ | Brasil | 2202539 | 22 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| 28d0d00f-999c-3664-9bc3-9aea06ee3fc9 | -3.13709 | -42.2094 | 2026-01-13 03:59:00 | NPP-375D | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 9929b854-f787-3eb2-b7fc-e0a241a9c293 | -5.24926 | -37.50069 | 2026-01-13 03:59:00 | NPP-375D | MOSSORÓ | RIO GRANDE DO NORTE | Brasil | 2408003 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 8f20ce7e-053c-31a9-98de-a9eaede64a92 | -1.90295 | -46.269 | 2026-01-13 03:59:00 | NPP-375D | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 42f9fea9-e3a6-3051-bfe6-e82ec10f416a | -5.5312 | -39.19993 | 2026-01-13 03:59:00 | NPP-375D | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 81ba2477-af80-3e28-a004-cdb1a677b316 | -8.57734 | -39.57525 | 2026-01-13 03:59:00 | NPP-375D | OROCÓ | PERNAMBUCO | Brasil | 2609808 | 26 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| b6a76aaf-014d-3d4e-877c-4f748abaadf7 | -4.41765 | -43.1064 | 2026-01-13 03:59:00 | NPP-375D | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 55e90b34-7ef6-3335-adf4-92e076bfb054 | -3.29322 | -42.54641 | 2026-01-13 03:59:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 9f622001-a676-3733-9a9d-190a4adfeda4 | -3.30687 | -42.53811 | 2026-01-13 03:59:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| cb579556-87ee-3b72-9aa6-0bfc06c764aa | -6.48385 | -42.94091 | 2026-01-13 03:59:00 | NPP-375D | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| c704223f-ff65-35dd-996c-5ad29cede561 | -6.30482 | -39.84486 | 2026-01-13 03:59:00 | NPP-375D | CATARINA | CEARÁ | Brasil | 2303600 | 23 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| 00f5effb-2862-3708-a89c-ac51655fb4d4 | -3.73585 | -39.92095 | 2026-01-13 03:59:00 | NPP-375D | IRAUÇUBA | CEARÁ | Brasil | 2306108 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 084db51c-aa5e-350d-a04a-0d60d32edd23 | -4.75153 | -43.24924 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| da5794d5-85ac-306f-94fc-bed60bb1aaae | -3.54001 | -43.66108 | 2026-01-13 03:59:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 929a1ac8-f79d-3f66-a482-37bc1d525a37 | -3.28838 | -42.55088 | 2026-01-13 03:59:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| e7326c7c-f870-3a43-82a9-e84e0d3e34a3 | -3.54926 | -43.6495 | 2026-01-13 03:59:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 859d016a-c540-3807-abc7-ba21e62fe3fa | -3.29571 | -42.54493 | 2026-01-13 03:59:00 | NPP-375D | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 27861a07-70b6-3223-b015-11fcf45de477 | -2.92697 | -40.59616 | 2026-01-13 03:59:00 | NPP-375D | CAMOCIM | CEARÁ | Brasil | 2302602 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| d1223da2-8e04-3af0-be50-be5cd32648e4 | -3.60781 | -41.86652 | 2026-01-13 03:59:00 | NPP-375D | CARAÚBAS DO PIAUÍ | PIAUÍ | Brasil | 2202539 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 7382f6b6-61ef-361e-a22b-f65ec1899cc9 | -7.39797 | -35.20862 | 2026-01-13 03:59:00 | NPP-375D | ITAMBÉ | PERNAMBUCO | Brasil | 2607653 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| cb313c5b-df80-3491-ad4a-ef57d76b6bd5 | -2.41682 | -44.96368 | 2026-01-13 03:59:00 | NPP-375D | PINHEIRO | MARANHÃO | Brasil | 2108603 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 8928d7d4-b84f-3a8f-bb47-2f3c53e4d027 | -5.10284 | -43.2336 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 32.4 |
+| 879399a9-1429-3865-b389-46bbc76999b2 | -5.10973 | -39.46119 | 2026-01-13 03:59:00 | NPP-375D | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 83d2ffbb-63f9-34d1-b148-2c461c8a978d | -5.10804 | -43.22726 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 3d297920-c03a-3e07-9fc0-cb3ce54462a6 | -5.10054 | -43.22229 | 2026-01-13 03:59:00 | NPP-375D | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| b0345d17-a9f2-3561-bb90-551a5527e9ae | -2.87657 | -45.2284 | 2026-01-13 03:59:00 | NPP-375D | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 813fde39-83e8-339c-81dc-9ae53958c785 | -6.80596 | -38.13851 | 2026-01-13 03:59:00 | NPP-375D | SOUSA | PARAÍBA | Brasil | 2516201 | 25 | 33 | nan | nan | nan | Caatinga | 1.4 |
+| 3853ad9b-46e7-3659-b127-c5aa4f2af10f | -5.54461 | -39.77281 | 2026-01-13 03:59:00 | NPP-375D | PEDRA BRANCA | CEARÁ | Brasil | 2310506 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 197cd324-b730-33ab-af49-be99db4884b3 | -5.39606 | -40.34421 | 2026-01-13 03:59:00 | NPP-375D | INDEPENDÊNCIA | CEARÁ | Brasil | 2305605 | 23 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| baeeba24-7613-396a-af17-19c68b143a68 | -3.55108 | -43.64672 | 2026-01-13 03:59:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 1273589d-0150-3043-ba6a-76dc6e4fec1a | -3.5486 | -43.65343 | 2026-01-13 03:59:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| dbcb85e4-b77e-3da0-b632-59a5e82b6a68 | -3.38495 | -42.11422 | 2026-01-13 03:59:00 | NPP-375D | JOAQUIM PIRES | PIAUÍ | Brasil | 2205409 | 22 | 33 | nan | nan | nan | Caatinga | 3.9 |
+| da6eaf74-b947-305d-993b-783ea1ce68c8 | -5.0992 | -43.2211 | 2026-01-13 04:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 217.7 |
+| 08dc8ba6-7be0-35e4-a4fd-8ffd6facfc12 | -5.099 | -43.2444 | 2026-01-13 04:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 138.5 |
+| 68a2122a-e9e1-3e49-bbb1-87204a1323d7 | -9.78521 | -42.03515 | 2026-01-13 04:01:00 | NPP-375D | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| 05fad80b-d164-3564-9c4d-5691f0bac73c | -11.20659 | -40.73194 | 2026-01-13 04:01:00 | NPP-375D | JACOBINA | BAHIA | Brasil | 2917508 | 29 | 33 | nan | nan | nan | Caatinga | 0.3 |
+| 771246c3-4789-3f13-828a-8d1431f99a6d | -10.25912 | -37.86176 | 2026-01-13 04:01:00 | NPP-375D | CORONEL JOÃO SÁ | BAHIA | Brasil | 2909208 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| a98131fe-add3-398c-a66c-b418d49525d1 | -11.3321 | -37.86534 | 2026-01-13 04:01:00 | NPP-375D | TOMAR DO GERU | SERGIPE | Brasil | 2807501 | 28 | 33 | nan | nan | nan | Caatinga | 2.0 |
+| 9af5041c-e85c-3925-ba01-16d37bf65318 | -16.4291 | -42.63585 | 2026-01-13 04:01:00 | NPP-375D | GRÃO MOGOL | MINAS GERAIS | Brasil | 3127800 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 5f52619d-68ba-3ffe-a21e-fbecac3fd7a7 | -16.24801 | -42.23238 | 2026-01-13 04:01:00 | NPP-375D | SALINAS | MINAS GERAIS | Brasil | 3157005 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| b04066f6-9563-37d7-91e4-38c118201c06 | -22.52419 | -44.86707 | 2026-01-13 04:04:00 | NPP-375D | LAVRINHAS | SÃO PAULO | Brasil | 3526605 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 18de94a3-a436-347f-80ce-f30be8637045 | -21.30042 | -43.80432 | 2026-01-13 04:04:00 | NPP-375D | ANTÔNIO CARLOS | MINAS GERAIS | Brasil | 3102902 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 21901d52-96c0-3581-bb02-8576cc4da1d3 | -22.6823 | -43.72187 | 2026-01-13 04:04:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 2a9a90bf-d8e2-3e29-b796-c3d04d9d3a6a | -16.56197 | -43.79087 | 2026-01-13 04:04:00 | NPP-375D | MONTES CLAROS | MINAS GERAIS | Brasil | 3143302 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 7e712ead-e0a1-3ea1-a40a-38000e99f5a2 | -17.88776 | -39.76706 | 2026-01-13 04:04:00 | NPP-375D | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| d1133a93-581d-3e45-8a12-dbe79d413979 | -21.56627 | -43.66065 | 2026-01-13 04:04:00 | NPP-375D | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 2de28dde-b7c3-30bc-895b-78804fcd6384 | -22.59511 | -44.64637 | 2026-01-13 04:04:00 | NPP-375D | AREIAS | SÃO PAULO | Brasil | 3503505 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 565c4e95-e5b6-3b52-9462-d56ec3323497 | -18.40594 | -43.27788 | 2026-01-13 04:04:00 | NPP-375D | SANTO ANTÔNIO DO ITAMBÉ | MINAS GERAIS | Brasil | 3160207 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| f8e490e8-ae6c-3046-87fe-9b717105150b | -22.85533 | -43.54652 | 2026-01-13 04:04:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| ce6f4ea5-a416-3b5c-ba66-90b550549dbe | -22.68086 | -43.70954 | 2026-01-13 04:04:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.4 |
+| 19a5a775-c4f4-3d08-8f6a-54b58657ffc6 | -20.84154 | -51.74032 | 2026-01-13 04:04:00 | NPP-375D | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Mata Atlântica | 5.5 |
+| 5bfb5e61-17df-3935-a9ba-e3c21e9de88a | -17.51906 | -43.83673 | 2026-01-13 04:04:00 | NPP-375D | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| 26a6c8ad-b32c-3092-816f-e35e1e35b876 | -22.67891 | -43.72128 | 2026-01-13 04:04:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| 295bc212-2bd6-34e7-bc39-ea5abedc0853 | -21.85816 | -43.08366 | 2026-01-13 04:04:00 | NPP-375D | MAR DE ESPANHA | MINAS GERAIS | Brasil | 3139805 | 31 | 33 | nan | nan | nan | Mata Atlântica | 9.8 |
+| c53cc938-a9bb-31d5-ba57-8771b4cc1754 | -17.57272 | -42.52761 | 2026-01-13 04:04:00 | NPP-375D | CAPELINHA | MINAS GERAIS | Brasil | 3112307 | 31 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| f05b9b97-3720-3ba9-a762-ca23e06ab9c1 | -22.67407 | -43.47782 | 2026-01-13 04:04:00 | NPP-375D | NOVA IGUAÇU | RIO DE JANEIRO | Brasil | 3303500 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| f9e85b6d-54ff-32ef-af97-5be143cef1e2 | -21.6595 | -42.45298 | 2026-01-13 04:04:00 | NPP-375D | ESTRELA DALVA | MINAS GERAIS | Brasil | 3124609 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 9a74efcc-0bb1-3157-aaf5-724deca3ed63 | -17.89058 | -39.77138 | 2026-01-13 04:04:00 | NPP-375D | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 851edeb9-5697-3b5d-ab66-2ad09599372a | -20.84426 | -51.74066 | 2026-01-13 04:04:00 | NPP-375D | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
+| d044b4e0-d9f8-3b88-82f3-6280f766301a | -17.89115 | -39.76762 | 2026-01-13 04:04:00 | NPP-375D | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 9885b1c0-cdb9-3bc7-8e66-d599534b7445 | -23.10248 | -45.48765 | 2026-01-13 04:04:00 | NPP-375D | TAUBATÉ | SÃO PAULO | Brasil | 3554102 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 914a85d0-cbbe-33bd-8174-07e306e2253a | -5.099 | -43.2444 | 2026-01-13 04:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 137.0 |
+| 3d0c490b-98aa-3d16-a11e-4c92ef3656ab | -5.0992 | -43.2211 | 2026-01-13 04:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 204.2 |
+| b691c9e2-c013-390b-8388-4aef883d8fbf | -5.099 | -43.2444 | 2026-01-13 04:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 124.1 |
+| 67dad588-2cc9-3ac4-b965-b233bd53642e | -5.0992 | -43.2211 | 2026-01-13 04:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 161.6 |
+| 732bcb68-de27-3f6f-b209-a3f0413ee245 | -5.26373 | -43.57611 | 2026-01-13 04:21:00 | NOAA-20 | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| 1f51e1a7-ed82-3148-b8ed-f970b31080c8 | -4.73317 | -45.79401 | 2026-01-13 04:21:00 | NOAA-20 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| f879df56-eea4-3aef-939f-0a01444ddb8e | -0.04631 | -51.65912 | 2026-01-13 04:21:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 66fadab4-b801-39fb-ba72-2cee336bbc76 | -3.29819 | -42.53667 | 2026-01-13 04:21:00 | NOAA-20 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| 6da4d911-d893-3b39-896f-5d660c59b428 | -6.08376 | -37.31691 | 2026-01-13 04:21:00 | NOAA-20 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| 2351a0d0-dc48-3bf2-aaf0-130e561ae88d | -4.76738 | -45.79576 | 2026-01-13 04:21:00 | NOAA-20 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 3f980908-cbbe-3f8e-a372-f22739777f9f | -0.04577 | -51.65702 | 2026-01-13 04:21:00 | NOAA-20 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 9c5829b3-5064-3118-ad9a-7d24fdd069ee | -1.28703 | -53.69074 | 2026-01-13 04:21:00 | NOAA-20 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 081cb9bf-3b36-3b2e-ad11-7a4b34e69a22 | -6.483 | -42.93888 | 2026-01-13 04:21:00 | NOAA-20 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| adbbd210-5903-3ac8-a33f-d341fe8c0ed5 | -5.92739 | -43.33321 | 2026-01-13 04:21:00 | NOAA-20 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a4f7fdac-155e-34f8-accd-2986ed159d88 | -4.25005 | -48.26449 | 2026-01-13 04:21:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| f1d20638-7392-3439-b0fe-8696e2019b8d | -3.69995 | -45.89861 | 2026-01-13 04:21:00 | NOAA-20 | ALTO ALEGRE DO PINDARÉ | MARANHÃO | Brasil | 2100477 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 248e66a4-e515-3c3f-ba1a-28b9d73a9e68 | -5.09387 | -43.22732 | 2026-01-13 04:21:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 1409458d-bc1b-3048-bccc-80c1003f2480 | -4.70409 | -44.48041 | 2026-01-13 04:21:00 | NOAA-20 | SANTO ANTÔNIO DOS LOPES | MARANHÃO | Brasil | 2110302 | 21 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| ef72fd2d-a9f9-3e0a-9308-0fe3e45d51ce | -5.09779 | -43.22425 | 2026-01-13 04:21:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 32.8 |
+| 0b7e2898-a0ef-3754-93bf-d148e5cfe549 | -2.01819 | -46.64634 | 2026-01-13 04:21:00 | NOAA-20 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b59498da-3d73-3ad5-b61a-b2abf2ad131a | -3.54628 | -43.65871 | 2026-01-13 04:21:00 | NOAA-20 | NINA RODRIGUES | MARANHÃO | Brasil | 2107209 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 99284092-6af1-35f2-a065-669ae7b330a6 | -4.30563 | -39.37365 | 2026-01-13 04:21:00 | NOAA-20 | CANINDÉ | CEARÁ | Brasil | 2302800 | 23 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 1b550659-f175-3537-829b-982bed6d9ab8 | -3.55178 | -43.64539 | 2026-01-13 04:21:00 | NOAA-20 | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| d23a767f-8cca-3163-8bd0-95251312b43a | -2.86838 | -45.21648 | 2026-01-13 04:21:00 | NOAA-20 | SÃO BENTO | MARANHÃO | Brasil | 2110500 | 21 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| c32ad96b-3af1-3abd-8d64-40ba07e9aac5 | -5.10677 | -43.23291 | 2026-01-13 04:21:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 4d5b5a09-44c3-3495-abe6-a73320504e37 | -4.9047 | -38.72002 | 2026-01-13 04:21:00 | NOAA-20 | IBARETAMA | CEARÁ | Brasil | 2305266 | 23 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| db3b12bb-62f1-3ef2-8b40-03bc5b87f5fd | -5.1006 | -43.22834 | 2026-01-13 04:21:00 | NOAA-20 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 32.8 |
+| e639f91c-e083-3057-ae81-969c684ec0c6 | -3.70977 | -41.68983 | 2026-01-13 04:21:00 | NOAA-20 | PIRACURUCA | PIAUÍ | Brasil | 2208304 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| af6de7db-1a16-329f-9588-c3fc189d199f | -4.41806 | -43.10514 | 2026-01-13 04:21:00 | NOAA-20 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 5019af94-9763-3cd5-bad7-0cc964112332 | -3.60289 | -41.86361 | 2026-01-13 04:21:00 | NOAA-20 | CARAÚBAS DO PIAUÍ | PIAUÍ | Brasil | 2202539 | 22 | 33 | nan | nan | nan | Caatinga | 0.6 |
 
 
 [Clique aqui para ver as próximas entradas](README6.md)
