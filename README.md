@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 6426338f-925d-3573-b582-75278345436f | -9.7553 | -36.3983 | 2026-01-13 00:00:00 | GOES-19 | LIMOEIRO DE ANADIA | ALAGOAS | Brasil | 2704203 | 27 | 33 | nan | nan | nan | Mata Atlântica | 122.1 |
-| 1de06f47-9d13-3ebd-812a-b1b71cda3c55 | -5.118 | -43.2198 | 2026-01-13 00:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 138.6 |
-| bf31eb33-22b6-3846-bc1f-61ee08c9066c | -3.2905 | -42.5507 | 2026-01-13 00:00:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 103.2 |
-| 05213914-873c-3818-86ce-30237c22d0ee | -4.4268 | -43.1007 | 2026-01-13 00:00:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 67.0 |
-| e96936de-d8a4-345f-b62e-541506c3b516 | -5.0992 | -43.2211 | 2026-01-13 00:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 312.8 |
-| cac630e6-d87c-3bb3-b719-db0b0b1d1837 | -5.099 | -43.2444 | 2026-01-13 00:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 147.6 |
-| c81845d5-059a-3575-8d8c-a7678eb0f688 | -5.1126 | -39.4573 | 2026-01-13 00:00:00 | GOES-19 | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 74.0 |
-| c8f76f82-2ca7-3637-91e5-7848e803327b | -5.1178 | -43.2431 | 2026-01-13 00:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 76.2 |
-| 8c295483-ac55-31f5-b3ad-79f04e5a50ed | -5.099 | -43.2444 | 2026-01-13 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 205.5 |
-| b3709e9e-220b-38f9-ba71-f30ab0aae3a4 | -5.0992 | -43.2211 | 2026-01-13 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 412.0 |
-| 5375811a-e3f3-333f-98f6-0a2ad4f8ad23 | -3.2905 | -42.5507 | 2026-01-13 00:10:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| 5c3268c0-81d2-3fbc-a968-98fb6a473232 | -10.725 | -37.053 | 2026-01-13 00:10:00 | GOES-19 | ROSÁRIO DO CATETE | SERGIPE | Brasil | 2806107 | 28 | 33 | nan | nan | nan | Mata Atlântica | 77.2 |
-| d08ed2de-0d8d-3a50-bf2d-89afe7d95189 | -5.118 | -43.2198 | 2026-01-13 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 220.9 |
-| 65c0ee23-1d4a-3ceb-bf17-700832922bfb | -5.1178 | -43.2431 | 2026-01-13 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 119.2 |
-| 969062ab-05b0-3ff7-b309-7969f821f04b | -5.0805 | -43.2224 | 2026-01-13 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 113.2 |
-| eb513394-3ab4-3bed-99d8-36be137cadb4 | -5.0803 | -43.2457 | 2026-01-13 00:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| 1e25fa3a-30a9-3e24-bb70-cc9fea9f6712 | -5.1178 | -43.2431 | 2026-01-13 00:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 94.6 |
-| ec5b35fc-2322-313b-aa6e-57e62d4b6474 | -5.0805 | -43.2224 | 2026-01-13 00:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 102.8 |
-| c4702caa-005f-3d76-9ab5-a7c440471a50 | -4.4268 | -43.1007 | 2026-01-13 00:20:00 | GOES-19 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 70.2 |
-| 8f2b5990-4f83-3915-8dbc-e4052afa0fbe | -5.099 | -43.2444 | 2026-01-13 00:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 270.5 |
-| 23b42637-6aae-37d4-bf78-f8e15dd67aee | -3.2905 | -42.5507 | 2026-01-13 00:20:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| f5990082-5eb1-3abe-81d1-b6662d8bf7ef | -5.0992 | -43.2211 | 2026-01-13 00:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 471.3 |
-| 83ca1269-be5c-3fe0-bea0-ce5bf2e06907 | -5.118 | -43.2198 | 2026-01-13 00:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 141.5 |
-| 343f97d1-14d1-35a9-b3dc-2c41685dc121 | -17.7554 | -40.09629 | 2026-01-13 00:26:00 | TERRA_M-M | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 55.9 |
-| b89998f1-6cb2-3c7a-b9f4-98995a11e9cc | -22.68288 | -43.7212 | 2026-01-13 00:26:00 | TERRA_M-M | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 8.4 |
-| c44f51ce-9326-393c-a5d9-53bddbc41d9b | -21.5635 | -43.65972 | 2026-01-13 00:26:00 | TERRA_M-M | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 62.2 |
-| 49f6ab5b-cc54-3869-b7f8-702e608fc722 | -20.88033 | -48.59655 | 2026-01-13 00:26:00 | TERRA_M-M | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| b8a9e8ea-8a62-351e-86ad-39075c03053e | -17.76231 | -40.11745 | 2026-01-13 00:26:00 | TERRA_M-M | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 35.6 |
-| a62d698b-b318-3ed9-875c-a552da9ae78b | -21.28243 | -48.71723 | 2026-01-13 00:26:00 | TERRA_M-M | FERNANDO PRESTES | SÃO PAULO | Brasil | 3515608 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
-| 4cc41048-89ca-3789-bb6d-79979d546e70 | -17.76024 | -40.12322 | 2026-01-13 00:26:00 | TERRA_M-M | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 19.1 |
-| 0319030a-9bfc-3f33-b2d4-499a8eeef2b6 | -20.84127 | -51.74677 | 2026-01-13 00:26:00 | TERRA_M-M | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
-| 5b145928-11d5-3c8f-9e5b-536d49b59b04 | -21.3564 | -48.58142 | 2026-01-13 00:26:00 | TERRA_M-M | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
-| bc7e8217-0abb-30d2-b7e4-e3e0a169db33 | -17.64868 | -45.59644 | 2026-01-13 00:26:00 | TERRA_M-M | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| 2b6c888c-cd49-3476-af6a-a230dd86c24d | -21.5656 | -43.67266 | 2026-01-13 00:26:00 | TERRA_M-M | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 17.0 |
-| 9daf7001-1337-3a62-b138-819fdbc38dde | -20.06288 | -50.02334 | 2026-01-13 00:26:00 | TERRA_M-M | CARDOSO | SÃO PAULO | Brasil | 3510708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.0 |
-| 6fb6816e-2f0d-399e-9e87-e03c8160b563 | -17.75723 | -40.09028 | 2026-01-13 00:26:00 | TERRA_M-M | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 38.2 |
-| 3006c5d5-be2d-3d35-bcbe-ebbf366e3e76 | -21.39895 | -44.55262 | 2026-01-13 00:26:00 | TERRA_M-M | CARRANCAS | MINAS GERAIS | Brasil | 3114600 | 31 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
-| 62de3788-f485-3602-84e0-6c09185d8db0 | -19.81289 | -54.73366 | 2026-01-13 00:26:00 | TERRA_M-M | ROCHEDO | MATO GROSSO DO SUL | Brasil | 5007505 | 50 | 33 | nan | nan | nan | Cerrado | 13.3 |
-| 149d0903-f8ef-31c7-b644-7c19890e0b4e | -5.1178 | -43.2431 | 2026-01-13 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 122.6 |
-| a6a9309d-629b-3838-9422-ffd8464f180a | -5.0992 | -43.2211 | 2026-01-13 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 394.8 |
-| 556a09c9-e039-323a-8b5a-22e6aff8abed | -5.0805 | -43.2224 | 2026-01-13 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 122.0 |
-| cf4354dd-ec51-3f5b-8d0d-e23493e49a1d | -5.099 | -43.2444 | 2026-01-13 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 209.3 |
-| 1d62c2f2-0dcb-3d4e-99de-f5e8260494bb | -3.2905 | -42.5507 | 2026-01-13 00:30:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 76.7 |
-| a0c553b1-8507-378b-8faf-9c3b52eb0aa3 | -21.5756 | -43.6567 | 2026-01-13 00:30:00 | GOES-19 | SANTOS DUMONT | MINAS GERAIS | Brasil | 3160702 | 31 | 33 | nan | nan | nan | Mata Atlântica | 82.1 |
-| 4b614559-122a-3ead-8e88-4d5a92a54aa1 | -5.118 | -43.2198 | 2026-01-13 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 214.9 |
-| 36b941e6-34e7-3f88-9d91-8ed522f0b17c | -5.0803 | -43.2457 | 2026-01-13 00:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 79.3 |
-| c638bc62-3de5-31df-b686-30cc8728f57e | -3.17967 | -48.01978 | 2026-01-13 00:32:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| 7168c05f-d175-35ef-8fa1-ff68c5d02990 | -5.11074 | -43.23915 | 2026-01-13 00:32:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 180.3 |
-| 2eb4e397-f71f-3fd1-805f-6aab0d0119df | -3.18139 | -48.03163 | 2026-01-13 00:32:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 27.3 |
-| 32cc81b8-af9d-367f-8774-d8d9cf23151e | -5.08999 | -43.22305 | 2026-01-13 00:32:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 215.3 |
-| 08ed4ea7-e2ef-3d49-a54b-c895e22cbbda | -1.85339 | -54.02635 | 2026-01-13 00:32:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 18.7 |
-| 10517846-4dba-3e09-a30d-cd4dfd3bdae2 | -1.28951 | -53.68603 | 2026-01-13 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| e71dae47-14c7-33cb-8bf1-a4bd583968d1 | -0.45468 | -51.78307 | 2026-01-13 00:32:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 7.2 |
-| db0c6581-d6e7-3056-bf5f-81f8e52338a2 | -3.44231 | -49.0001 | 2026-01-13 00:32:00 | TERRA_M-M | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 3ec107da-650b-3ade-88bd-bc26d82ee9f0 | -3.06155 | -51.74918 | 2026-01-13 00:32:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 4eda736f-3bdb-32a7-9d5e-b682b37a2e8b | -5.0939 | -43.24867 | 2026-01-13 00:32:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 109.9 |
-| f4c29d25-9deb-3885-a1fa-ae2b207e6d0e | -2.82147 | -52.95995 | 2026-01-13 00:32:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 4.4 |
-| a430cdbe-5d9b-3c4f-8621-4b2ca77e3d9b | -4.26209 | -48.42159 | 2026-01-13 00:32:00 | TERRA_M-M | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| de1e8ef5-5c24-3395-b265-3183e65f575e | 1.21251 | -50.98835 | 2026-01-13 00:32:00 | TERRA_M-M | TARTARUGALZINHO | AMAPÁ | Brasil | 1600709 | 16 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 164ac6f0-f601-3f2f-bb49-ead95adcc21c | -3.5491 | -43.64897 | 2026-01-13 00:32:00 | TERRA_M-M | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 9668f8ac-52b1-3451-9f25-8d3f58cf0a9f | -5.10825 | -43.24621 | 2026-01-13 00:32:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 180.5 |
-| c355aa67-d4ec-3d28-98d7-adb6584cca14 | -3.29389 | -42.55618 | 2026-01-13 00:32:00 | TERRA_M-M | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 73.6 |
-| fc8b0871-a0b9-3d88-98c8-f69887fe1d3c | -5.10435 | -43.22043 | 2026-01-13 00:32:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 455.6 |
-| 2b601aa5-9d14-3d05-9c1b-f49a3ba48ca3 | -5.10664 | -43.21337 | 2026-01-13 00:32:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 172.1 |
-| 09a11291-e111-3a37-a154-a57a88de64a6 | -0.09146 | -51.28527 | 2026-01-13 00:32:00 | TERRA_M-M | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| 8796f082-4b7d-3392-9915-b3b0611b6d6b | -1.85478 | -54.03636 | 2026-01-13 00:32:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 4.9 |
-| c5cb9309-94c4-343f-8321-331bc0e8a0df | -1.98011 | -53.14107 | 2026-01-13 00:32:00 | TERRA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| db62c3ec-ea0d-3fdd-b211-941e2369c87b | 0.62507 | -50.76893 | 2026-01-13 00:32:00 | TERRA_M-M | ITAUBAL | AMAPÁ | Brasil | 1600253 | 16 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 8f18bada-c5bf-3f43-8e4d-ae86dcba5b9a | -1.29865 | -53.68468 | 2026-01-13 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 35de8828-f147-3a03-9de2-f61199db1fb8 | -2.28361 | -51.93106 | 2026-01-13 00:32:00 | TERRA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 4.0 |
-| 132be3cc-1b65-3c81-bd62-4cef47ebeae2 | -1.92355 | -53.4693 | 2026-01-13 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 14.7 |
-| 0bdcd6f3-ac23-3127-85d5-6410e0710455 | -2.19486 | -52.02071 | 2026-01-13 00:32:00 | TERRA_M-M | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| d613a5dd-c3e6-35ab-81d0-c8c6cdd774d4 | 0.62379 | -50.77826 | 2026-01-13 00:32:00 | TERRA_M-M | ITAUBAL | AMAPÁ | Brasil | 1600253 | 16 | 33 | nan | nan | nan | Amazônia | 6.3 |
-| 36610264-6599-3636-8658-f47a699801b5 | -4.25876 | -48.83859 | 2026-01-13 00:32:00 | TERRA_M-M | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 8.0 |
-| 9bf64339-ca62-3a53-86ba-5740c7149702 | -3.28901 | -42.52449 | 2026-01-13 00:32:00 | TERRA_M-M | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 7f468ca7-7d9f-31c7-a2bf-da6e80cd80c9 | -3.44377 | -49.0104 | 2026-01-13 00:32:00 | TERRA_M-M | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 14.2 |
-| 37204ede-ac5e-3bf9-85fe-219b761e405c | -3.28397 | -42.56309 | 2026-01-13 00:32:00 | TERRA_M-M | SANTANA DO MARANHÃO | MARANHÃO | Brasil | 2110237 | 21 | 33 | nan | nan | nan | Cerrado | 32.1 |
-| 55c5dfe6-89b0-34bb-a41a-54c303fc6e95 | -1.93268 | -53.46804 | 2026-01-13 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| dfbbda1e-71e3-3090-b83a-21e6b29bf209 | -1.93398 | -53.47751 | 2026-01-13 00:32:00 | TERRA_M-M | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| fe48ac34-bccc-3871-baf6-726e42e1e2ac | -3.29501 | -42.529 | 2026-01-13 00:32:00 | TERRA_M-M | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 32.1 |
-| 6c18c225-406f-3a42-bbd2-76236f9e5cb0 | -3.29963 | -42.56068 | 2026-01-13 00:32:00 | TERRA_M-M | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 27.5 |
-| fd9765ba-d584-39ee-aa31-cca05ef6ecd8 | -3.2905 | -42.5507 | 2026-01-13 00:40:00 | GOES-19 | SÃO BERNARDO | MARANHÃO | Brasil | 2110609 | 21 | 33 | nan | nan | nan | Cerrado | 77.4 |
-| 766c277d-95a3-375b-8ff1-4d4ac5714828 | -5.1178 | -43.2431 | 2026-01-13 00:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 79.4 |
-| c21d5170-0847-3403-b479-e2d514891892 | -5.0992 | -43.2211 | 2026-01-13 00:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 269.1 |
-| 70e97a0e-03d8-3700-a603-11657ea42f59 | -5.099 | -43.2444 | 2026-01-13 00:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 155.8 |
-| e6df92ec-a299-3433-a80e-45a0cbc1c0c0 | -5.0805 | -43.2224 | 2026-01-13 00:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 89.8 |
-| f33e6c51-218b-388a-8b95-db6fbe5d887f | -5.118 | -43.2198 | 2026-01-13 00:40:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 122.2 |
-| b7d2cf5a-b191-3e59-9318-346ea9ca4511 | -5.1178 | -43.2431 | 2026-01-13 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 93.9 |
-| 10b27c6e-bc22-3fb2-88cd-24acd85e39cc | -5.099 | -43.2444 | 2026-01-13 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 262.4 |
-| 90f7f09c-8978-3c9d-a5ce-7cc66f5c5a95 | -5.0805 | -43.2224 | 2026-01-13 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 86.1 |
-| 656a5e22-e2e2-3636-b55d-ae7589157bbc | -5.118 | -43.2198 | 2026-01-13 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 120.9 |
-| 8d34298e-e8b5-3897-b07d-4285c17e9509 | -5.0992 | -43.2211 | 2026-01-13 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 379.9 |
-| 5cd3f935-84b8-3ce8-8ff5-95123ad0c7ca | -7.3608 | -35.1958 | 2026-01-13 00:50:00 | GOES-19 | JURIPIRANGA | PARAÍBA | Brasil | 2507903 | 25 | 33 | nan | nan | nan | Mata Atlântica | 71.4 |
-| 2181ac1b-efd5-3108-ba8a-64c08fe9a7f1 | -5.0994 | -43.1977 | 2026-01-13 00:50:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 81.9 |
-| fef5d1af-18d7-396e-84fd-4448b08e6a99 | 3.9123 | -60.4417 | 2026-01-13 00:57:00 | METOP-B | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 252c6719-cd55-3375-8094-d7603b3bef38 | 3.7213 | -60.375301 | 2026-01-13 00:57:00 | METOP-B | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 101f8264-4624-3c14-bfc0-ad3cffbc89ae | 3.731 | -60.5616 | 2026-01-13 00:57:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 8e9363a9-520a-3cab-a37a-d18f4ff9e529 | 3.914 | -60.433998 | 2026-01-13 00:57:00 | METOP-B | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 265ad50b-8cc1-3d17-90a4-3f33de3ddcc5 | 4.4819 | -60.655701 | 2026-01-13 00:57:00 | METOP-B | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 2d6ef2cd-90a5-3800-999c-7c408b280644 | 3.4328 | -60.6063 | 2026-01-13 00:57:00 | METOP-B | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | nan |
+| 8b4131a2-0269-3cfc-be8c-f3c5e812cf1f | -12.8662 | -52.4983 | 2026-01-14 00:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 72.8 |
+| d6ba98db-f4b6-35b1-b5d8-3f9bd015d89d | -7.2599 | -43.041 | 2026-01-14 00:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 93.8 |
+| 71d0ce2c-7baa-31d3-8bb7-124fb8d734e4 | -12.8659 | -52.5194 | 2026-01-14 00:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 136.1 |
+| a8bc25dc-f673-37a4-b892-10a46fb1e922 | 4.0761 | -61.4469 | 2026-01-14 00:00:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 38.3 |
+| f86d5c2b-88b7-36a6-9255-a66d948181d6 | -6.5591 | -35.2442 | 2026-01-14 00:00:00 | GOES-19 | JACARAÚ | PARAÍBA | Brasil | 2507309 | 25 | 33 | nan | nan | nan | Mata Atlântica | 63.4 |
+| 7ff8b643-f8e4-368d-b9a7-07afe1111edd | -12.8468 | -52.5216 | 2026-01-14 00:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 268.1 |
+| a36f5cec-3ab4-3a13-822f-d2a8cb4e1d10 | 4.0578 | -61.4473 | 2026-01-14 00:00:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| ccc9c7ec-95db-3439-8942-2647e0a4b75f | 4.0578 | -61.4661 | 2026-01-14 00:00:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 85.6 |
+| 02532151-5016-30b5-bf56-c0b53c7b350f | -7.2597 | -43.0645 | 2026-01-14 00:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 95.6 |
+| 4e3cf698-baa9-376a-aad4-e667f2406bef | -12.8276 | -52.5238 | 2026-01-14 00:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 105.4 |
+| 836110dd-32c5-3816-8e44-803fd4627b1b | 4.076 | -61.4658 | 2026-01-14 00:00:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 36.6 |
+| baeea216-e5b9-394d-bb97-491bb7ad8196 | -6.5595 | -35.2168 | 2026-01-14 00:00:00 | GOES-19 | JACARAÚ | PARAÍBA | Brasil | 2507309 | 25 | 33 | nan | nan | nan | Mata Atlântica | 89.3 |
+| 07952178-4a3c-3806-997f-d9ffdd8d41df | 4.0395 | -61.4665 | 2026-01-14 00:00:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 50.3 |
+| 8d0818d1-5b9f-3de9-987e-9677921a75b8 | -12.8471 | -52.5005 | 2026-01-14 00:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 107.7 |
+| 7906016a-b8ba-3d31-9e94-7c9576bf84b5 | 4.0395 | -61.4476 | 2026-01-14 00:00:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 42.6 |
+| a9e4719a-ce8c-30d3-addf-2872a359807b | -12.8471 | -52.5005 | 2026-01-14 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 126.7 |
+| 941764e5-8f51-3b0e-b3c1-55b168b10317 | 4.0395 | -61.4665 | 2026-01-14 00:10:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 40.9 |
+| 21ad7045-fa52-319a-88f6-ff2e68c65501 | -12.8276 | -52.5238 | 2026-01-14 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 95.1 |
+| 7e787608-467e-3f14-98fb-143a235866c4 | -12.8659 | -52.5194 | 2026-01-14 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 118.6 |
+| f8d1becd-5923-3021-af47-4e463708d48a | -12.8468 | -52.5216 | 2026-01-14 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 247.8 |
+| 3a1e9279-2ca7-3cb8-9c63-a209f6acbdf6 | 4.0578 | -61.4473 | 2026-01-14 00:10:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 65.6 |
+| e0a90363-f7ad-3763-8a07-a9736c2c9a91 | 4.076 | -61.4658 | 2026-01-14 00:10:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 33.6 |
+| d10f4049-4c75-383a-bec7-d4a9425f2f32 | -16.0937 | -56.7651 | 2026-01-14 00:10:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Cerrado | 63.6 |
+| 02b2203c-709c-3527-a1b4-166c3b2fe8d1 | -12.8662 | -52.4983 | 2026-01-14 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 76.7 |
+| 84741788-527a-3108-a060-be3207c1ab9a | 4.0578 | -61.4661 | 2026-01-14 00:10:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 75.7 |
+| e64bdaed-e84c-3b2d-a349-571634633cbd | -12.8464 | -52.5426 | 2026-01-14 00:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 81.1 |
+| e723b1d3-d0ca-372d-a573-fe1b6799fd10 | -7.2599 | -43.041 | 2026-01-14 00:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 88.7 |
+| 900974ee-f46d-332c-914f-842a74b93b5d | -7.2597 | -43.0645 | 2026-01-14 00:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 100.7 |
+| 78100e3b-be02-3efe-82a5-6f827608c209 | 4.0395 | -61.4476 | 2026-01-14 00:10:00 | GOES-19 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 35.4 |
+| 0562f6c1-7263-3205-ae1c-245cd714c105 | -7.3256 | -34.9808 | 2026-01-14 00:20:00 | GOES-19 | ALHANDRA | PARAÍBA | Brasil | 2500601 | 25 | 33 | nan | nan | nan | Mata Atlântica | 43.6 |
+| 4f931492-765c-3a4f-b923-49722018a1e1 | -12.8659 | -52.5194 | 2026-01-14 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 112.6 |
+| 4830e6ef-d1a5-3713-8ca0-77b847a3c286 | -12.8276 | -52.5238 | 2026-01-14 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| fb835c25-d24a-3588-b518-88a7ef0b2dea | -12.8468 | -52.5216 | 2026-01-14 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 243.6 |
+| b4265849-5a8d-3692-a05b-919c1c4ad450 | -7.2597 | -43.0645 | 2026-01-14 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 90.9 |
+| da3333fd-b723-381a-a124-ca1c2cfd0b64 | -12.8471 | -52.5005 | 2026-01-14 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 118.2 |
+| e2d0d9c4-dc27-38e3-8690-362461ee6372 | -12.8464 | -52.5426 | 2026-01-14 00:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 84.8 |
+| d69ce545-9167-3544-b03d-abee001fa2fb | -7.2599 | -43.041 | 2026-01-14 00:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 90.1 |
+| 46d5283c-0ddb-3483-b35f-2f4ff64fad6f | -7.2599 | -43.041 | 2026-01-14 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 86.3 |
+| efc645bf-1c0e-3221-b895-eee0d156ab83 | -12.8276 | -52.5238 | 2026-01-14 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 90.8 |
+| 61d0bd6f-9c8d-3eba-b987-fc110588b7bd | -7.2597 | -43.0645 | 2026-01-14 00:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 82.5 |
+| 4895dad2-f608-3cc3-9c73-8032fba8be48 | -12.8468 | -52.5216 | 2026-01-14 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 235.0 |
+| 71d4c188-4a71-364a-a5d5-759d138434e8 | -12.8659 | -52.5194 | 2026-01-14 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 115.6 |
+| 0a149d36-1280-3c10-a7f0-18876814fdb6 | -12.8464 | -52.5426 | 2026-01-14 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 81.8 |
+| d025f7a1-e35a-39bc-93ca-1472fa5eee81 | -12.8471 | -52.5005 | 2026-01-14 00:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 106.2 |
+| acb1e051-b329-3417-a829-41258f8a8851 | -17.756001 | -40.165401 | 2026-01-14 00:36:00 | METOP-B | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 43d2cbb9-1dcb-3576-b06c-a1eca1e28c8e | -1.9769 | -54.218399 | 2026-01-14 00:36:00 | METOP-B | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 49edaf03-447b-3c6f-85b2-b6e447422d36 | -12.8471 | -52.5005 | 2026-01-14 00:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 114.5 |
+| ea7e4a93-8dd0-3bf4-92ea-5ec2047c2254 | -10.1028 | -36.3372 | 2026-01-14 00:40:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 49.6 |
+| e25f4064-30a6-3410-81c4-acf72390b588 | -12.8468 | -52.5216 | 2026-01-14 00:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 237.5 |
+| aa7362c9-f401-3e5c-9ec5-fefb323f6b0e | -12.8276 | -52.5238 | 2026-01-14 00:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 90.5 |
+| 127dad14-56b7-364f-aa92-45d830e71499 | -7.2597 | -43.0645 | 2026-01-14 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 82.2 |
+| b1101559-0277-3c17-9fbc-5f0dd03349c1 | -10.1221 | -36.3337 | 2026-01-14 00:40:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 47.2 |
+| 8063fd6e-701b-3413-b5c9-e87487ef008e | -12.8659 | -52.5194 | 2026-01-14 00:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 104.0 |
+| 7799bccf-1606-3a81-b7f3-cc1e8dc42656 | -12.8659 | -52.5194 | 2026-01-14 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 105.4 |
+| ca7544f5-d28e-3d3b-83a6-978d64c03959 | -12.8471 | -52.5005 | 2026-01-14 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 104.6 |
+| 0da532ac-996f-3c87-b3f1-0a592e2fd263 | -12.8276 | -52.5238 | 2026-01-14 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 89.1 |
+| 78919b19-0400-333c-b9ed-85f71c5ddd61 | -12.8468 | -52.5216 | 2026-01-14 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 214.1 |
+| f7c96d45-39ca-3e57-af4f-575dc636865a | -12.8464 | -52.5426 | 2026-01-14 00:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 77.4 |
+| 411897de-8146-37e9-b212-f1206e9542a9 | -12.8659 | -52.5194 | 2026-01-14 01:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 84.4 |
+| d131d3d3-a706-3d06-96d0-e0247d4239c6 | -5.1178 | -43.2431 | 2026-01-14 01:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 97.8 |
+| c6fc0877-1112-3405-9f84-cd2e9b695ad7 | -5.118 | -43.2198 | 2026-01-14 01:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 65.6 |
+| 61eba0e9-2deb-3bcd-a1e0-18766fef8999 | -12.8471 | -52.5005 | 2026-01-14 01:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 128.4 |
+| 3b83111d-d9c4-32cc-b06b-b12bbf6007d1 | -12.8468 | -52.5216 | 2026-01-14 01:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 256.3 |
+| 024d653d-99bb-3db8-9d57-096038221268 | -5.099 | -43.2444 | 2026-01-14 01:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 127.4 |
+| 35f1819b-0099-3e25-965f-58b1900e31bf | -5.0992 | -43.2211 | 2026-01-14 01:00:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 82.5 |
+| 9b2b43ba-f15e-302b-a2b7-d10247322066 | -12.8276 | -52.5238 | 2026-01-14 01:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 74.1 |
+| 3c18113e-26c2-3a4b-85e1-d25cb6aa925f | -17.8844 | -54.8664 | 2026-01-14 01:06:00 | TERRA_M-M | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 04e13728-4406-3a4b-8bc6-50d2154f1711 | -17.88621 | -54.87803 | 2026-01-14 01:06:00 | TERRA_M-M | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 6776dd9c-ab6f-3751-9d67-8b69f32ad9c2 | -16.59897 | -58.2179 | 2026-01-14 01:06:00 | TERRA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.8 |
+| 12373a5c-c3be-3b62-bd8d-4096663083b9 | -9.11331 | -61.48578 | 2026-01-14 01:09:00 | TERRA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| ed652d70-7acf-31cd-b7c1-6a198e8828a8 | -12.83885 | -52.52398 | 2026-01-14 01:09:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 147.3 |
+| 7e09d9ca-2def-34c0-ac7f-906569c88875 | -12.8398 | -52.53872 | 2026-01-14 01:09:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 33.0 |
+| 38449a48-201d-3d9b-9b83-fb820d6a019d | -12.83624 | -52.51784 | 2026-01-14 01:09:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 65.8 |
+| d3a4aa89-a248-3651-8361-93331d516048 | -12.8528 | -52.53639 | 2026-01-14 01:09:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 67.9 |
+| 19b946f0-e4f5-3c76-99b6-12db290fe7d4 | -12.84928 | -52.51561 | 2026-01-14 01:09:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 264.2 |
+| 53863a9c-7055-3966-93fe-e36da1fcc664 | -12.85187 | -52.52165 | 2026-01-14 01:09:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 181.1 |
+| 2a133d88-3d7c-3e2f-8fdc-e86708da639d | -12.8659 | -52.5194 | 2026-01-14 01:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 80.4 |
+| 6788dcb2-0420-3a5e-9b41-dd2517afa23f | -12.8471 | -52.5005 | 2026-01-14 01:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 103.3 |
+| 1357fe6f-9488-33cd-aeb3-54d7786169ae | -5.0992 | -43.2211 | 2026-01-14 01:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 100.1 |
+| db3b6ef0-8ce6-3cfe-92bd-c0618126cb7c | -12.8464 | -52.5426 | 2026-01-14 01:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 86.8 |
+| 9630e48d-05d0-31c7-837d-d7863f6819e3 | -12.8276 | -52.5238 | 2026-01-14 01:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 80.9 |
+| 59d70f85-d220-311f-ac4d-3d3e409416b7 | -5.118 | -43.2198 | 2026-01-14 01:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| fa040a92-b02b-3989-9de0-af693f25f753 | -5.1178 | -43.2431 | 2026-01-14 01:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 88.2 |
+| fbff636c-d62d-3ca8-98c8-cab8d0a180fc | -12.8468 | -52.5216 | 2026-01-14 01:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 267.0 |
+| e5e428fb-4fd9-3fc7-9152-83c8c8a2c3ab | -5.099 | -43.2444 | 2026-01-14 01:10:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 123.6 |
+| 7c8dffa5-07ec-31e4-a5d2-a046ad7d4ca6 | -1.938 | -53.466599 | 2026-01-14 01:15:00 | METOP-C | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2bc93fc8-3f23-30eb-8d82-a648b66dc317 | -5.099 | -43.2444 | 2026-01-14 01:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 145.8 |
+| f35e0098-f8a9-3e1a-8e8d-ed81a54b3983 | -5.118 | -43.2198 | 2026-01-14 01:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 70.1 |
+| baa41839-551b-3f48-845f-05147ecab783 | -12.8471 | -52.5005 | 2026-01-14 01:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 92.4 |
+| c7efeaa1-de88-3158-a7ec-0da3af0d5299 | -9.3197 | -36.0412 | 2026-01-14 01:20:00 | GOES-19 | MURICI | ALAGOAS | Brasil | 2705507 | 27 | 33 | nan | nan | nan | Mata Atlântica | 61.1 |
+| 8998903c-5740-352c-bfcc-dc998bb0ffd2 | -12.8659 | -52.5194 | 2026-01-14 01:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 122.3 |
+| 11b28d7b-78b7-3e5d-8b3c-fadb51c5e400 | -5.1178 | -43.2431 | 2026-01-14 01:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| 44ed8af2-14ce-3fd2-a492-f2c2c1441d65 | -12.8468 | -52.5216 | 2026-01-14 01:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 234.0 |
+| 4611bab7-ca59-3b3a-8f11-904cc12709d4 | -5.0992 | -43.2211 | 2026-01-14 01:20:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 117.1 |
+| 36e14714-3258-3912-b7c7-676b2ddc50c8 | -12.8276 | -52.5238 | 2026-01-14 01:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 94.4 |
+| dc5e2607-235b-3a3a-a580-fd3c74b2ed65 | -12.8468 | -52.5216 | 2026-01-14 01:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 193.1 |
+| 2fa1b755-ac76-3d62-a4e5-f91205a16e97 | -12.8464 | -52.5426 | 2026-01-14 01:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 70.2 |
+| 96da1ebe-5155-365f-9e8c-34ee9d90e7fc | -12.8471 | -52.5005 | 2026-01-14 01:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | 101.5 |
+| a7b9a0e0-16f9-30b4-89b9-3c80622515a0 | -10.4923 | -37.1221 | 2026-01-14 01:30:00 | GOES-19 | SIRIRI | SERGIPE | Brasil | 2807204 | 28 | 33 | nan | nan | nan | Mata Atlântica | 66.6 |
+| 76fe6c6d-ad25-3423-a1ea-49ed495b67b7 | -5.099 | -43.2444 | 2026-01-14 01:30:00 | GOES-19 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 159.5 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
