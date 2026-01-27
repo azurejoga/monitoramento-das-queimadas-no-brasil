@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b9f65a96-f08e-3817-8156-072a060ac6a7 | -19.71431 | -56.85919 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 0a5163f1-6bf8-3664-bd96-ca5e72da0029 | -20.31898 | -57.81781 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 02e46e69-2ccf-37d4-bf04-22fd9cfdcb07 | -22.32506 | -47.13483 | 2026-01-26 04:31:00 | NOAA-21 | CONCHAL | SÃO PAULO | Brasil | 3512209 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e089f519-beb1-3d17-9bb4-203f524cdb14 | -21.95015 | -47.42258 | 2026-01-26 04:31:00 | NOAA-21 | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| 6e4c208f-9ca9-3eaf-bd40-e7f83eb63af5 | -19.62615 | -57.34229 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| c5964bb5-1b4e-3d79-8e34-53a2984a2148 | -20.3131 | -57.82222 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.9 |
-| a0a35679-d755-371e-b899-a0c819a6db6b | -19.69996 | -56.83316 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.9 |
-| 6741b356-556c-3367-b790-0159fc0ad0a3 | -19.42591 | -51.83052 | 2026-01-26 04:31:00 | NOAA-21 | INOCÊNCIA | MATO GROSSO DO SUL | Brasil | 5004403 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| ab8c981e-a48f-372e-a8c0-03719bf2c313 | -19.67476 | -57.17421 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| df363d3f-afae-3d5b-89a2-27a09da03d85 | -19.72276 | -56.84067 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.7 |
-| a6e4541f-1cec-36ed-84f8-2bcc05728d9d | -18.77909 | -57.65537 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
-| abbeabf5-bcd5-3ae0-8430-90be2d89febb | -18.77796 | -57.66106 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| d0ce2342-0ee4-332f-b8c4-14f6f9066e38 | -25.20948 | -51.39144 | 2026-01-26 04:31:00 | NOAA-21 | GUARAPUAVA | PARANÁ | Brasil | 4109401 | 41 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
-| 18a118f7-b34a-3ef1-baa4-8528f4c2e015 | -19.70919 | -56.83771 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| 99fad33e-39fa-3989-ac47-2e4b43bab244 | -23.33011 | -53.11835 | 2026-01-26 04:31:00 | NOAA-21 | TAPIRA | PARANÁ | Brasil | 4126900 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| ccf4de74-4562-3055-bb97-8f99d622c70a | -19.71786 | -56.86506 | 2026-01-26 04:31:00 | NOAA-21 | MIRANDA | MATO GROSSO DO SUL | Brasil | 5005608 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| d71efbc1-cba1-3d02-abe9-c0323d95595e | -19.62147 | -57.34126 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 5750d8ac-5dac-3294-9999-01779bfa0f17 | -20.32373 | -57.8189 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
-| 2f1ce35c-d6b2-3984-b981-4db22c6b9a26 | -18.82539 | -57.71614 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 12.1 |
-| 7660ff84-d318-3563-9847-53f112dbe192 | -19.70781 | -56.86797 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 07330ddf-5d25-3490-8af2-5139c8b83556 | -19.66899 | -56.84671 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 5bccfb84-0a55-3abb-9c9b-dccd06a30bb6 | -19.70448 | -56.83416 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.9 |
-| ab762896-4b88-3fe8-b5ab-3bbf20842cec | -18.82169 | -57.70934 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.4 |
-| 83c062c2-b486-38b2-aca4-6973f571693f | -19.69449 | -56.83705 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 5942d5f7-742c-34f6-9674-d569632861ec | -22.48693 | -47.00722 | 2026-01-26 04:31:00 | NOAA-21 | MOGI MIRIM | SÃO PAULO | Brasil | 3530805 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 788469cc-1687-30b6-899e-b9d16bbb5d0d | -19.70682 | -56.87286 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.3 |
-| 434d8949-2a1d-39de-ba38-a87dd7cd0936 | -19.68996 | -56.83605 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 1e0887cc-6f61-31f2-a7df-104698eaa3ea | -25.20617 | -51.39081 | 2026-01-26 04:31:00 | NOAA-21 | GUARAPUAVA | PARANÁ | Brasil | 4109401 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 92de675a-9828-337b-afb3-b4ca0804fbfd | -19.66446 | -56.84572 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 12853d69-edfe-3dc4-a0f8-5e96401d2d72 | -21.94963 | -47.41988 | 2026-01-26 04:31:00 | NOAA-21 | PIRASSUNUNGA | SÃO PAULO | Brasil | 3539301 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 37eafd30-84c7-3ca4-8a02-9e4345577975 | -20.91812 | -56.37721 | 2026-01-26 04:31:00 | NOAA-21 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 868a15b9-5613-3a4d-8930-72f7d397b08e | -18.8474 | -57.73302 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 11.1 |
-| b997251a-0f57-3ed8-b0cf-f1f5ea0f549b | -22.32151 | -47.13429 | 2026-01-26 04:31:00 | NOAA-21 | CONCHAL | SÃO PAULO | Brasil | 3512209 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| a0f7ffc3-2c53-3df8-bdc0-7aaedfaea6d8 | -20.91897 | -56.37288 | 2026-01-26 04:31:00 | NOAA-21 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 5d1b1aac-0cff-3666-9024-4ca2b6f204b4 | -19.67938 | -57.17524 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| 3888fc3b-870e-3857-838f-1fe956a93f45 | -20.31785 | -57.8233 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.1 |
-| b30a1c54-b392-3943-a395-39f02a5e5845 | -22.32092 | -47.13863 | 2026-01-26 04:31:00 | NOAA-21 | CONCHAL | SÃO PAULO | Brasil | 3512209 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 9ac10a75-9767-34d1-ad09-3a5544bc0b20 | -19.64673 | -57.26497 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| d2820843-7abd-3117-9878-b4690b35c7d7 | -19.69544 | -56.83216 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| c02af9ad-1a6a-3b2e-ad03-227b2f51a9e3 | -19.62975 | -57.34859 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.8 |
-| 76fb3e5e-c679-3927-a230-3815361e9df2 | -20.42311 | -53.22793 | 2026-01-26 04:31:00 | NOAA-21 | RIBAS DO RIO PARDO | MATO GROSSO DO SUL | Brasil | 5007109 | 50 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| ef756061-86e1-321d-a71d-4c3f4fe913b5 | -19.70467 | -56.83672 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| 9c3e6bc9-78bd-3a8f-a256-15e0d6f3aeeb | -19.67373 | -57.17932 | 2026-01-26 04:31:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 19fe271e-0920-3de7-b42a-a41d050aac2b | -19.71371 | -56.8387 | 2026-01-26 04:31:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 15.4 |
-| 51e034b8-22ba-3cd7-a2ce-42e9d1ba51f7 | -26.90418 | -52.88014 | 2026-01-26 04:33:00 | NOAA-21 | NOVA ERECHIM | SANTA CATARINA | Brasil | 4211405 | 42 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 853e57e6-42dc-30fb-8c9e-23fd6c9ffefd | -28.10349 | -50.50826 | 2026-01-26 04:33:00 | NOAA-21 | CAPÃO ALTO | SANTA CATARINA | Brasil | 4203253 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 792d79c7-b526-3e58-82b7-158aaba33c13 | -27.33351 | -48.87479 | 2026-01-26 04:33:00 | NOAA-21 | SÃO JOÃO BATISTA | SANTA CATARINA | Brasil | 4216305 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 8dcd2ee7-c47f-31b3-b3b7-b961423dd725 | -28.32127 | -51.90405 | 2026-01-26 04:33:00 | NOAA-21 | CIRÍACO | RIO GRANDE DO SUL | Brasil | 4305504 | 43 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| dea70eed-138b-3c89-8a6c-93ceb76b5de8 | -26.82776 | -51.38186 | 2026-01-26 04:33:00 | NOAA-21 | MACIEIRA | SANTA CATARINA | Brasil | 4210050 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| b03de5a6-654e-37ed-a973-daeb337231ad | -26.05481 | -53.57912 | 2026-01-26 04:33:00 | NOAA-21 | SANTO ANTÔNIO DO SUDOESTE | PARANÁ | Brasil | 4124400 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 084d9f2d-579c-33ff-89f1-88ddb84cb6b7 | -30.89145 | -52.93752 | 2026-01-26 04:33:00 | NOAA-21 | ENCRUZILHADA DO SUL | RIO GRANDE DO SUL | Brasil | 4306908 | 43 | 33 | nan | nan | nan | Pampa | 1.1 |
-| aa1bd170-0fcb-3724-9829-be131d8269bb | -28.10408 | -50.50429 | 2026-01-26 04:33:00 | NOAA-21 | CAPÃO ALTO | SANTA CATARINA | Brasil | 4203253 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 54fa8cd2-ed21-3f25-a449-0e25c7171c4b | -30.8908 | -52.94155 | 2026-01-26 04:33:00 | NOAA-21 | ENCRUZILHADA DO SUL | RIO GRANDE DO SUL | Brasil | 4306908 | 43 | 33 | nan | nan | nan | Pampa | 1.1 |
-| 70e6c047-35bf-3ba8-8e4a-00b1ac8fdf56 | -19.7242 | -56.8408 | 2026-01-26 04:40:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 83.7 |
-| 6cbfb217-69d6-3a20-b9b9-995828363765 | -19.7041 | -56.8436 | 2026-01-26 04:40:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 81.8 |
-| 65ae44cc-f339-351e-9bf3-1a8181a3c089 | -19.7242 | -56.8408 | 2026-01-26 04:50:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 93.8 |
-| 83d10b75-115d-329d-958e-50f5af627794 | -19.7041 | -56.8436 | 2026-01-26 04:50:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 92.0 |
-| 39a6d0b7-e9cc-35dc-b59e-fcc3b1ec5144 | -3.26374 | -42.54585 | 2026-01-26 04:55:00 | NPP-375D | SANTANA DO MARANHÃO | MARANHÃO | Brasil | 2110237 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 632d24fc-0b9f-318a-ab42-5682068e6a08 | -3.26321 | -42.54938 | 2026-01-26 04:55:00 | NPP-375D | SANTANA DO MARANHÃO | MARANHÃO | Brasil | 2110237 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 80c072fe-a6f6-3f3d-8f12-a25076fd01bc | -4.74867 | -46.65453 | 2026-01-26 04:55:00 | NPP-375D | BOM JESUS DAS SELVAS | MARANHÃO | Brasil | 2102036 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 18120f02-6afe-3f72-a280-528c10dc2c13 | -2.23311 | -45.3909 | 2026-01-26 04:55:00 | NPP-375D | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 61cf394c-536c-3796-990e-b24497eb44d6 | -3.00243 | -52.87188 | 2026-01-26 04:55:00 | NPP-375D | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
-| 7e51fd94-bc24-378a-b0fc-6f0881c0c169 | -7.54162 | -46.02327 | 2026-01-26 04:57:00 | NPP-375D | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 295a0fc4-570f-3931-9c19-aca2fbeb7042 | -9.28936 | -48.58849 | 2026-01-26 04:57:00 | NPP-375D | RIO DOS BOIS | TOCANTINS | Brasil | 1718709 | 17 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 094ae23c-7d30-327d-b3ad-43e752f7ff44 | -16.44415 | -58.16406 | 2026-01-26 04:59:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 34ddd4a4-f470-32da-ba49-d587292750b4 | -16.44341 | -58.1683 | 2026-01-26 04:59:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 6383b994-563e-3f14-9f76-c48989f072c9 | -16.43982 | -58.16761 | 2026-01-26 04:59:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| bd9016c8-db6d-3d3b-af73-a2c861357b5c | -16.44056 | -58.16338 | 2026-01-26 04:59:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| 76a73c07-84cb-3c9c-98a1-c72c2ca7a7f0 | -19.61195 | -57.31932 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 3625a71e-3385-391c-9103-755d7349c74e | -19.66682 | -57.32558 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 5cd5ce27-617b-3e0e-93aa-df24314e444f | -19.61406 | -57.32759 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| fedbe9fc-6352-3c38-adbe-4f882587345c | -22.55029 | -55.64218 | 2026-01-26 05:01:00 | NPP-375D | PONTA PORÃ | MATO GROSSO DO SUL | Brasil | 5006606 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| b84f7948-ae52-3044-9cca-39e68af747ff | -19.66131 | -57.31669 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.8 |
-| e5a45df9-bc3c-3cb7-b5b5-2ab3af7ab3bb | -19.61131 | -57.32314 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| e187df51-3965-3e86-a9c0-4f5326ef3438 | -19.71528 | -56.86381 | 2026-01-26 05:01:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.8 |
-| b39e5109-d804-32ad-963c-bc0cd7eb9a96 | -19.69943 | -56.83397 | 2026-01-26 05:01:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 5.5 |
-| 94481918-1049-3110-a1c4-cf1654f78ea0 | -19.61259 | -57.31551 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| f2628b27-1d02-341c-adf0-3c21b0ec596d | -19.71834 | -56.84511 | 2026-01-26 05:01:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| a03db5a3-47bf-31e9-a48d-3934c138ff91 | -18.84575 | -57.73717 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| b501a978-5d2f-37f7-82a1-1df7a525123e | -19.66484 | -56.8469 | 2026-01-26 05:01:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
-| 98265912-1847-3912-b9c3-2a6d2f2beaad | -19.65559 | -57.28813 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.4 |
-| 72619926-d89b-36f7-9b4e-08ed9178093d | -19.72231 | -56.84198 | 2026-01-26 05:01:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 25.4 |
-| 06e0daa0-f029-3887-8377-bf844938a2c4 | -18.81873 | -57.70772 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| 7af0d16a-067c-3b81-9281-52ebae7b2a17 | -19.61303 | -57.29202 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 87b607d2-22ef-311c-a02b-7a5425c4de45 | -19.61156 | -57.27997 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| ab804367-5e35-3460-8afa-5675483d913c | -18.84509 | -57.74112 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.8 |
-| f6f0adac-4245-399c-931f-164053aaa312 | -19.6147 | -57.32377 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.2 |
-| 24759c57-7702-39d7-a09e-db30a16fac83 | -19.66311 | -57.17989 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.6 |
-| 28e2b205-61e2-33f4-ab34-ccec2b179cc2 | -19.66809 | -57.31795 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.6 |
-| aec57aab-d580-38e9-9417-d7b933a0c41f | -20.91802 | -56.37722 | 2026-01-26 05:01:00 | NPP-375D | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| c2abe09b-2dc6-309c-849f-d48ae25dad14 | -19.65856 | -57.31225 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
-| 77b84de4-dcba-3fcc-91ef-33f0f9075a5e | -19.7217 | -56.84572 | 2026-01-26 05:01:00 | NPP-375D | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 7.0 |
-| 534a9c38-ed50-32ab-bc08-86dc47d4bc52 | -19.65157 | -57.35424 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| cf7289f1-abac-3e54-927e-8a75e8f39059 | -19.63929 | -57.28119 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
-| febed215-c043-382a-895a-f054ff47aa4f | -18.82084 | -57.71624 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| 3dab9b9b-4f39-3fb9-b82d-06d0b59f7f02 | -19.65771 | -57.35933 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
-| 8c6f9f3d-5998-3caa-ad3b-5ce581c7e8d3 | -20.31594 | -57.81148 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.0 |
-| a769f747-aa4f-38f5-8df6-3f99f71b3509 | -19.6745 | -57.17419 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
-| 11978176-1e1a-3a53-be7d-21c095521e01 | -26.05374 | -53.58176 | 2026-01-26 05:01:00 | NPP-375D | SANTO ANTÔNIO DO SUDOESTE | PARANÁ | Brasil | 4124400 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| d174830e-ea7f-316d-8e9d-e4ce1dec7bba | -19.66195 | -57.31287 | 2026-01-26 05:01:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| ef3d39cf-3fff-3ea4-9745-1e9012d78f16 | -19.69988 | -56.8228 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.4 |
+| a985d973-022e-3e4a-9bc7-11cc2b4433b3 | -18.80919 | -57.71381 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| e7e71a61-5db8-3846-b4f7-59d0aaf494e1 | -19.34688 | -54.17146 | 2026-01-27 05:01:00 | NOAA-20 | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 3645f00f-b632-3544-98b8-c99e3795e783 | -19.60643 | -57.35626 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.7 |
+| 15b7fa33-b2a5-3acc-b7a9-154d87d21887 | -19.34328 | -54.17091 | 2026-01-27 05:01:00 | NOAA-20 | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 4c927d34-9151-3578-b2f2-fad9690adb5b | -19.69931 | -56.82648 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 94b1bd75-8c4f-3c05-bc55-f9450aad5be7 | -19.69599 | -56.82591 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| a2bc2177-c620-399f-bb9b-f804196b9e44 | -19.72041 | -56.82255 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 6.9 |
+| b7dd3d98-cfa3-3820-8061-1826859ca8d8 | -19.71375 | -56.8214 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
+| cdd73854-1acb-349d-b810-222b9eeb2366 | -19.68783 | -56.9227 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 33fff5c6-3b3e-360f-91b2-b6139b5d460d | -19.61018 | -57.3757 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| f314a2c8-bfe3-3107-bdfb-7409a3ff375b | -19.68726 | -56.92638 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 21296ed4-17e6-344d-bf6b-5548a70698fd | -19.70653 | -56.82394 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 65e4ff19-cfd4-30a6-b6f4-6b6000758245 | -19.60758 | -57.34895 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 7374bde8-6028-324d-b4ee-a37ae9ac81e4 | -19.61292 | -57.37993 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 8497019e-a6c5-35a6-b11a-320de8b20939 | -19.69209 | -56.82902 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| fcdaac80-23e2-33e3-90e3-9ff0f7a918f0 | -19.60585 | -57.35992 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| d2332587-0340-392d-abc2-775fc0c78755 | -19.34267 | -54.17521 | 2026-01-27 05:01:00 | NOAA-20 | CAMAPUÃ | MATO GROSSO DO SUL | Brasil | 5002605 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e6643a57-fa91-3bec-acdc-11d8919644d6 | -19.1021 | -57.77182 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| a3d3b04b-9e06-3967-8abb-fc64c88fe476 | -16.25153 | -60.03463 | 2026-01-27 05:01:00 | NOAA-20 | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 3f2d3311-08ac-32df-8e11-8da48c439f2d | -19.61133 | -57.36839 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| e3ae6f15-52ca-3128-856a-32ca07d09105 | -19.60802 | -57.36781 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 35c1d6c2-7379-3804-97e7-a7ee6e57bedd | -20.16141 | -50.60765 | 2026-01-27 05:01:00 | NOAA-20 | URÂNIA | SÃO PAULO | Brasil | 3555802 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 26c912c2-4ce2-34cd-94c1-4e9803f2a3e5 | -19.71708 | -56.82197 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
+| fa832450-d188-38f7-be78-fccfcd57fba9 | -19.66711 | -56.83606 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| a285fd5d-d2b9-35c2-99a4-7cada23816ad | -19.69656 | -56.82222 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| afac9bc7-669f-38b8-b102-d670691dc4ac | -19.61075 | -57.37204 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 6042141c-15c7-39e8-954f-a7e2d633bc94 | -18.90972 | -54.83283 | 2026-01-27 05:01:00 | NOAA-20 | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| ef1c05df-450f-38be-9a38-867cd6605645 | -19.10542 | -57.77241 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
+| cb19e1ad-e65f-3d1c-b8ae-5dac81352d49 | -18.81192 | -57.71806 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 2400d021-bff5-3c07-81b5-ff0b669c1c88 | -19.69266 | -56.82534 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 56e0d9d9-33a1-39b1-a9ba-721375c32ed9 | -19.67043 | -56.83663 | 2026-01-27 05:01:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 96255bb1-79b8-3c53-bb84-82f49a3cafd8 | -19.60816 | -57.3453 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
+| 758eef85-3142-3ec7-98dd-c31647ad2f66 | -19.61349 | -57.37628 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| d1fb9792-c9ba-34a7-ba67-ff6743407e20 | -19.60859 | -57.36415 | 2026-01-27 05:01:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.4 |
+| 6271fe31-b9a2-3edc-ba89-3ff0258f7971 | -20.92431 | -56.37008 | 2026-01-27 05:03:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a5431b9b-8db9-3ae1-bcfd-d9a5671f6363 | -21.74475 | -52.75165 | 2026-01-27 05:03:00 | NOAA-20 | BATAGUASSU | MATO GROSSO DO SUL | Brasil | 5001904 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 8b8e6fb3-6d73-32cf-bd40-1e4334fa302b | -23.5956 | -48.34411 | 2026-01-27 05:03:00 | NOAA-20 | ITAPETININGA | SÃO PAULO | Brasil | 3522307 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 282c3c57-22f0-303d-80b7-2215513bf54c | -22.87038 | -54.65848 | 2026-01-27 05:03:00 | NOAA-20 | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 7ffb602d-679a-3db9-a8f8-14d99d2dffaf | -23.59397 | -48.34386 | 2026-01-27 05:03:00 | NOAA-20 | ITAPETININGA | SÃO PAULO | Brasil | 3522307 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 8a40ceb1-3ab3-34e3-95d0-d88920a84715 | -21.24194 | -49.37029 | 2026-01-27 05:03:00 | NOAA-20 | IRAPUÃ | SÃO PAULO | Brasil | 3521507 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 2379a5a6-50a4-3fd2-add5-f76956370fac | -21.74076 | -52.751 | 2026-01-27 05:03:00 | NOAA-20 | BATAGUASSU | MATO GROSSO DO SUL | Brasil | 5001904 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 6c04e350-a371-3ade-a866-e9f74e717134 | -23.60013 | -48.33693 | 2026-01-27 05:03:00 | NOAA-20 | ITAPETININGA | SÃO PAULO | Brasil | 3522307 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e285dacf-15d7-3f92-9e1e-0d206980bee1 | -21.53949 | -57.52037 | 2026-01-27 05:03:00 | NOAA-20 | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2b316ab2-7da1-331a-b5ad-49d8cfcb3e2c | -23.00774 | -52.38843 | 2026-01-27 05:03:00 | NOAA-20 | PARANAVAÍ | PARANÁ | Brasil | 4118402 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 056b1ccb-d036-32fe-ba69-a58f864460c0 | -19.66594 | -57.30281 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| fdb8a153-911f-3c8e-bfb3-bc07c2ce6d96 | -20.61633 | -50.38564 | 2026-01-27 05:03:00 | NOAA-20 | GENERAL SALGADO | SÃO PAULO | Brasil | 3516903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 075b9897-08d6-3127-8678-f2fa7e875803 | -20.6206 | -50.38863 | 2026-01-27 05:03:00 | NOAA-20 | GENERAL SALGADO | SÃO PAULO | Brasil | 3516903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| c8a3ac2e-5287-3cc8-b743-9c45a7f62727 | -23.59939 | -48.34457 | 2026-01-27 05:03:00 | NOAA-20 | ITAPETININGA | SÃO PAULO | Brasil | 3522307 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 14aa50ae-75ad-34d8-9ab9-0483a3d8f994 | -22.83772 | -48.65268 | 2026-01-27 05:03:00 | NOAA-20 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 35df2bde-07f8-3ce9-891a-8ad8f4d322a4 | -22.73033 | -49.34286 | 2026-01-27 05:03:00 | NOAA-20 | AGUDOS | SÃO PAULO | Brasil | 3500709 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| b441d2ed-bddf-3a08-bdf7-4410f9f86b15 | -20.29999 | -57.82351 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 0e56d723-27ae-3698-ac35-516205e489fa | -23.34686 | -52.20495 | 2026-01-27 05:03:00 | NOAA-20 | SÃO JORGE DO IVAÍ | PARANÁ | Brasil | 4125308 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 3460bfe1-3583-3cca-a11d-5bbe20fe5cc3 | -19.66262 | -57.30223 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| a86911ac-a58e-3070-b997-0609b77c8cd1 | -27.6277 | -54.76844 | 2026-01-27 05:03:00 | NOAA-20 | ALECRIM | RIO GRANDE DO SUL | Brasil | 4300307 | 43 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 3b852d29-60ba-33ff-a32f-527969883f5e | -20.3033 | -57.8241 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| ef64f6c1-9d22-3d78-99d0-430b01d0dc0c | -19.65931 | -57.30165 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
+| 03df3764-f39d-32b6-9e50-ab8bb03082cf | -22.83808 | -48.64922 | 2026-01-27 05:03:00 | NOAA-20 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 05cd3ff7-ee0c-3be5-8fb7-4a7969dd949f | -19.72649 | -56.82737 | 2026-01-27 05:03:00 | NOAA-20 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 7b736d0d-d328-3b36-bcda-c60c8ff43f98 | -23.59628 | -48.33643 | 2026-01-27 05:03:00 | NOAA-20 | ITAPETININGA | SÃO PAULO | Brasil | 3522307 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| cac832d0-85c6-342a-9879-f94b7e944d36 | -20.61601 | -50.38805 | 2026-01-27 05:03:00 | NOAA-20 | GENERAL SALGADO | SÃO PAULO | Brasil | 3516903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| af83e07d-19bc-3b17-ad6c-ce85d0660657 | -20.91758 | -56.36892 | 2026-01-27 05:03:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 1449a998-c72c-3d76-a051-8843dc112158 | -22.83843 | -48.64575 | 2026-01-27 05:03:00 | NOAA-20 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| c2ff9b2c-5eee-3d77-bdbd-464e89750c48 | -20.30272 | -57.82778 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 7e0ef883-f7ee-316b-b585-c71cca84b9f1 | -19.66925 | -57.30339 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 8e771398-cdd1-33d0-8248-2aae6b3ce345 | -20.92038 | -56.37333 | 2026-01-27 05:03:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 49e6a492-f7c8-30ca-be77-89dc1d7e3dfa | -20.2994 | -57.82718 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| dc8fb3d1-5a4d-38fa-aa57-fbac06e6755c | -22.83702 | -48.65047 | 2026-01-27 05:03:00 | NOAA-20 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| db5abf10-66af-3ced-a91f-dbbb223c0ea7 | -22.83734 | -48.64704 | 2026-01-27 05:03:00 | NOAA-20 | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| b39dfd9e-9fa0-383c-915a-bb6fc588e71d | -19.66868 | -57.30706 | 2026-01-27 05:03:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
+| 352c84ce-7ce0-395a-9941-39d3cdc56142 | -22.83767 | -48.64356 | 2026-01-27 05:03:00 | NOAA-20 | PRATÂNIA | SÃO PAULO | Brasil | 3541059 | 35 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 13d15c5e-74da-3a2f-b2e1-350dea2872a1 | -20.92095 | -56.36951 | 2026-01-27 05:03:00 | NOAA-20 | BONITO | MATO GROSSO DO SUL | Brasil | 5002209 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| cad9cdd6-4e1c-3917-8b1a-f4cf0427fbee | -22.7354 | -49.34326 | 2026-01-27 05:03:00 | NOAA-20 | AGUDOS | SÃO PAULO | Brasil | 3500709 | 35 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 91ef8bb4-a6db-33f2-b1e0-fbe994df4412 | -19.7246 | -56.8198 | 2026-01-27 05:10:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 57.5 |
+| 94bdac7b-712a-3e2e-ac25-766e8320e1cc | -19.7246 | -56.8198 | 2026-01-27 05:20:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 77.5 |
+| 64acdc6a-56be-3cfe-a07b-89e6dd3db052 | -19.7045 | -56.8226 | 2026-01-27 05:20:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 49.8 |
+| afbf2397-39ab-33cd-8129-70f43f14aaba | -11.98728 | -37.74567 | 2026-01-27 05:35:00 | AQUA_M-M | ESPLANADA | BAHIA | Brasil | 2910602 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| 5906077c-477c-3d30-94b4-71631682ebef | -6.5631 | -51.1126 | 2026-01-27 05:50:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 55.9 |
+| 9b482f68-2f90-3c25-9a38-5d25332aac7b | -11.96815 | -58.07398 | 2026-01-27 05:52:00 | NOAA-21 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c7ae5c35-47c7-3916-9a74-dd70628d3662 | -11.96198 | -58.07715 | 2026-01-27 05:52:00 | NOAA-21 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 4b97b3e2-3c92-3c23-b963-58f9ae1161ce | -18.8127 | -57.71634 | 2026-01-27 05:52:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
+| 63c72128-aa09-36f5-a242-21de1fa2b015 | -18.8132 | -57.71106 | 2026-01-27 05:52:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 9cdb0f9d-dea2-365e-b0b6-000c3be7d838 | -11.96766 | -58.07796 | 2026-01-27 05:52:00 | NOAA-21 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| c7a8e3d5-2842-3d7f-b81b-9a6a9cf64295 | -11.9615 | -58.08109 | 2026-01-27 05:52:00 | NOAA-21 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| cc7edeae-daea-35df-9298-51d193a615e5 | -19.10423 | -57.77293 | 2026-01-27 05:52:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| 747c688a-6095-3127-a4c0-8b913d47c2c1 | -11.96246 | -58.07322 | 2026-01-27 05:52:00 | NOAA-21 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| a1ec0cfa-898b-349f-a864-54023d9c62ad | -19.72414 | -56.81971 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
+| 981ff2b1-03a6-301c-aab6-4563692369a3 | -19.71023 | -56.8245 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| 5efd7583-9527-3cde-8f9c-1602171d62aa | -19.71743 | -56.81899 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 7.4 |
+| a1656714-f01f-3eaa-9251-aea47d6f8f72 | -19.71694 | -56.82523 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| e7b4c8a5-899c-33c5-8044-8ccf579e4f80 | -19.721 | -56.82065 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 13.9 |
+| b9e3d005-7170-368c-8859-ed452ae3d063 | -19.71428 | -56.81995 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 13.9 |
+| 0272bdcb-5cd5-3009-b9c7-be7a9dea04d9 | -19.71071 | -56.81827 | 2026-01-27 05:54:00 | NOAA-21 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 7.4 |
+| c85f2c1d-4b69-326b-8716-8e6324e7114d | -19.70647 | -56.81633 | 2026-01-27 07:16:00 | AQUA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 17.2 |
+| e457c40d-e8cf-3f6b-a41f-8c82dc90b4de | -19.7045 | -56.8226 | 2026-01-27 13:00:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 93.1 |
+| 62ee6274-b5f0-3bf5-a881-59430fac935f | -20.3291 | -57.8433 | 2026-01-27 13:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.9 |
+| d5a13152-b81d-38c9-9645-415588029325 | -20.3287 | -57.8643 | 2026-01-27 13:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 101.8 |
+| 4446f4f7-5bed-3dee-92e5-099a57182eeb | -20.3489 | -57.8615 | 2026-01-27 13:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 94.3 |
+| 35734b00-8189-3a21-bc2d-367860e651f9 | -27.77 | -50.38 | 2026-01-27 13:20:00 | GOES-19 | LAGES | SANTA CATARINA | Brasil | 4209300 | 42 | 33 | nan | nan | nan | Mata Atlântica | 106.0 |
+| ba235e80-bcb9-322b-8feb-417761634799 | -27.7558 | -50.791 | 2026-01-27 13:20:00 | GOES-19 | CAMPO BELO DO SUL | SANTA CATARINA | Brasil | 4203402 | 42 | 33 | nan | nan | nan | Mata Atlântica | 141.8 |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
