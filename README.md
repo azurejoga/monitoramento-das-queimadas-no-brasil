@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| d1d5d338-179e-31a5-93f5-da6aeb1773f6 | -1.8058 | -54.4923 | 2026-01-30 00:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 81.8 |
-| 3fa824e6-7fbb-3052-be82-b810e66a0682 | -16.5841 | -57.8115 | 2026-01-30 00:00:00 | GOES-19 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 59.3 |
-| 7d6a9a92-4006-3a02-a579-bb454477428d | -16.87537 | -40.69264 | 2026-01-30 00:07:00 | TERRA_M-M | SANTA HELENA DE MINAS | MINAS GERAIS | Brasil | 3157658 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.7 |
-| aeee5357-0489-3aab-b21c-03bc318541fb | -13.45973 | -44.03033 | 2026-01-30 00:07:00 | TERRA_M-M | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| 0a6ed7fc-8055-3cac-a702-76c9123640f5 | -13.49985 | -46.70894 | 2026-01-30 00:07:00 | TERRA_M-M | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 952aebba-c0b4-3379-8745-1ba469440492 | -13.46856 | -44.02902 | 2026-01-30 00:07:00 | TERRA_M-M | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| fb8f1f6d-ee83-3df5-a4f8-bde168ae3a26 | -10.17502 | -36.24664 | 2026-01-30 00:09:00 | TERRA_M-M | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 67.2 |
-| d29b96fb-76e1-3a55-8879-93aa4d404e49 | -11.00817 | -44.82883 | 2026-01-30 00:09:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| aadcb11d-6db3-35dc-9b14-078ccd479757 | -12.07247 | -45.32926 | 2026-01-30 00:09:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| bca5f9ea-5b05-36f6-9774-1dd22ef7d0cd | -9.57294 | -44.58206 | 2026-01-30 00:09:00 | TERRA_M-M | REDENÇÃO DO GURGUÉIA | PIAUÍ | Brasil | 2208700 | 22 | 33 | nan | nan | nan | Cerrado | 4.6 |
-| 77c1da7d-867f-3cff-8636-fcbb48a48fdd | -12.08131 | -45.32798 | 2026-01-30 00:09:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 7b75ca85-e192-3c25-ac32-c59cee3a910d | -10.17052 | -36.2406 | 2026-01-30 00:09:00 | TERRA_M-M | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 140.7 |
-| 667a09c7-78c6-39a9-82f9-0d7b12088fe3 | -11.12716 | -38.3888 | 2026-01-30 00:09:00 | TERRA_M-M | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 52.6 |
-| 5ddfca85-80c5-376f-818a-2eb76c94dfe2 | -5.26524 | -37.72037 | 2026-01-30 00:09:00 | TERRA_M-M | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 24.5 |
-| e8d7fbc8-7268-3f48-9705-6d20b1dd720f | -10.16985 | -36.21545 | 2026-01-30 00:09:00 | TERRA_M-M | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 37.2 |
-| a14f34b0-887d-3d90-a1ad-aa3150e0bee4 | -2.89862 | -49.38022 | 2026-01-30 00:09:00 | TERRA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 19.9 |
-| 320dbba4-87a3-3f98-8dbd-a10e349dffee | -5.94087 | -44.45819 | 2026-01-30 00:09:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 39308b89-7775-3e57-8396-635fa24dc5bf | -5.17795 | -44.41307 | 2026-01-30 00:09:00 | TERRA_M-M | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 79f3c829-2ef8-3556-845d-87f0f523e348 | -5.93178 | -44.45953 | 2026-01-30 00:09:00 | TERRA_M-M | COLINAS | MARANHÃO | Brasil | 2103505 | 21 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 4de6cce9-2394-3812-9880-c741fad8d0eb | -16.5841 | -57.8115 | 2026-01-30 00:10:00 | GOES-19 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 60.8 |
-| a54a4dc9-1aa3-3d04-a2e1-77cb550941fe | -1.8058 | -54.4923 | 2026-01-30 00:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 78.8 |
-| f0a14637-e07d-3c50-bcbd-04e5b107688a | -1.36182 | -52.46576 | 2026-01-30 00:11:00 | TERRA_M-M | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| 9d084728-4b8f-3a6f-bb81-21252214bf00 | -1.81221 | -54.50705 | 2026-01-30 00:11:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 62.6 |
-| 90f19950-e73e-34c0-b2e6-8955c82ccb8e | -1.61184 | -54.69922 | 2026-01-30 00:11:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 15.6 |
-| e7938f81-a7bc-348c-8cc5-a2fae9e619e9 | -2.90615 | -51.84851 | 2026-01-30 00:11:00 | TERRA_M-M | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 12.9 |
-| b9436f22-d736-3858-9b66-8154c3157145 | -1.60908 | -54.70618 | 2026-01-30 00:11:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 20.0 |
-| 13385e0a-157b-35d4-81b5-c65d2396a3e5 | -1.84901 | -54.10615 | 2026-01-30 00:11:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 17.3 |
-| 27a3ef39-fb96-31b3-a0a9-c4d13428720e | -1.80883 | -54.48226 | 2026-01-30 00:11:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 57.3 |
-| 3b031d0d-212b-314b-8606-e1ca6dc36e50 | -1.8058 | -54.4923 | 2026-01-30 00:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 77.6 |
-| 24cbbbf9-d7cc-3eea-9a9c-c350e0ef651d | -11.1232 | -38.3705 | 2026-01-30 00:20:00 | GOES-19 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 74.8 |
-| 53c9410a-44aa-3087-92f9-fbe88e05dfba | -11.1227 | -38.3965 | 2026-01-30 00:20:00 | GOES-19 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 68.7 |
-| 4b1fc35b-fc86-33ac-8e42-1c8532e62f70 | -6.1213 | -35.2408 | 2026-01-30 00:20:00 | GOES-19 | SÃO JOSÉ DE MIPIBU | RIO GRANDE DO NORTE | Brasil | 2412203 | 24 | 33 | nan | nan | nan | Mata Atlântica | 92.5 |
-| b9abe24f-371a-3753-bb35-c4bbff42fda2 | -1.8058 | -54.4923 | 2026-01-30 00:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 81.3 |
-| 1ffbff72-e8cc-3498-9743-7aedbc820a9b | -16.5841 | -57.8115 | 2026-01-30 00:30:00 | GOES-19 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 58.4 |
-| 8fe29ac7-b9fe-3c12-9a99-0e680961f7dc | -1.8058 | -54.4923 | 2026-01-30 00:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 89.6 |
-| f36e639b-7f57-3e2a-a55a-99338d0ab549 | -16.5841 | -57.8115 | 2026-01-30 00:40:00 | GOES-19 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 60.2 |
-| 3c82f0b1-ec91-340f-ba51-a9355715d498 | 2.7453 | -60.2203 | 2026-01-30 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 63.8 |
-| 3a9ec5c4-d27b-35f0-896c-336493d7bc12 | 2.7636 | -60.22 | 2026-01-30 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 69.2 |
-| c5f4fb38-92a0-3d79-bcd0-dd2e62c3ee1f | 2.7453 | -60.2203 | 2026-01-30 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 76.2 |
-| 5ac7b8b6-599c-3de9-843d-cf5598cbcae2 | -16.5841 | -57.8115 | 2026-01-30 00:50:00 | GOES-19 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 44.0 |
-| e11b6ccd-2f69-3f0c-92ec-734c1cebb7dd | -1.8058 | -54.4923 | 2026-01-30 00:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 82.1 |
-| fd05e8ef-bd22-37ee-971e-c7c4e52a6905 | -11.1232 | -38.3705 | 2026-01-30 00:50:00 | GOES-19 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 64.5 |
-| 319ef383-b243-3a81-85c1-f45b1272f666 | -11.1232 | -38.3705 | 2026-01-30 01:00:00 | GOES-19 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 64.2 |
-| 2e49aad4-11c6-30ec-aa9a-c56b92effead | 2.7453 | -60.2203 | 2026-01-30 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 77.4 |
-| 6e3eeb3d-8ce9-3572-b94e-8ca96577bc9f | -1.8058 | -54.4923 | 2026-01-30 01:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 73.8 |
-| 1cfc6311-866f-34b5-ad88-d07e2e8d92dc | 2.7636 | -60.22 | 2026-01-30 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 66.9 |
-| 45974ec8-d7e6-3ea0-8071-46ff64eae22c | -11.0201 | -45.059 | 2026-01-30 01:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 66.1 |
-| 32cf9ec9-a4ce-33db-91a2-97431a92b910 | -1.8058 | -54.4923 | 2026-01-30 01:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 72.4 |
-| e73f3bde-ab45-33be-9b11-8a5ff41ca52a | -1.8242 | -54.492 | 2026-01-30 01:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 52.1 |
-| 97bbe76b-9caa-3b44-9ba5-f366e743f4d2 | 2.7453 | -60.2203 | 2026-01-30 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 67.3 |
-| 1cf89a95-510e-392c-8c81-2ef6cb4f9274 | 2.7453 | -60.2203 | 2026-01-30 01:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 73.1 |
-| a4cd3dfb-6238-3d2a-aa1d-6ed138c60db2 | 2.7636 | -60.22 | 2026-01-30 01:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.0 |
-| 4f85b2dc-7020-34e6-b3ae-188bdaadb9a1 | -1.8058 | -54.4923 | 2026-01-30 01:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 63.3 |
-| cdcce472-7d90-39f7-b768-a4fc467f278b | -11.0201 | -45.059 | 2026-01-30 01:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 77.9 |
-| 055d71d3-98f6-37d7-b1f8-e565c139b72d | -11.0198 | -45.0821 | 2026-01-30 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 65.8 |
-| d79c799e-437f-3a53-b321-344e3def997e | -11.0201 | -45.059 | 2026-01-30 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 81.3 |
-| 424b77c7-3116-3030-8a67-77269eaf07b0 | -1.8058 | -54.4923 | 2026-01-30 01:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 69.6 |
-| 09010d57-bea6-31e4-b971-bcfe4562e629 | 2.7453 | -60.2203 | 2026-01-30 01:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 66.7 |
-| 2eaad86b-6490-3b4d-8dcb-b10d7fd736bb | -11.0201 | -45.059 | 2026-01-30 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| 27aa4eef-9023-343e-99ee-ba5add91f691 | -1.8058 | -54.4923 | 2026-01-30 01:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 65.9 |
-| 94ca7c69-a166-34aa-9733-ff889a0da765 | 2.7453 | -60.2203 | 2026-01-30 01:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 59.3 |
-| 40cf3c0d-3271-3642-bda1-6c8373442f4b | -1.8242 | -54.492 | 2026-01-30 01:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 50.4 |
-| 11e4765b-4872-37a4-8516-fd28ed28b18c | -1.8242 | -54.492 | 2026-01-30 01:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 44.3 |
-| f7026f54-b2f1-3b43-9110-a0a6e7529845 | -1.8058 | -54.4923 | 2026-01-30 01:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 62.4 |
-| 4b9eeb7e-beec-34b2-a9cc-ce79b4ac16de | -1.8058 | -54.4923 | 2026-01-30 02:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 64.7 |
-| ae21335e-ac7a-3e2c-a69d-dd90d6eeba1f | -11.0201 | -45.059 | 2026-01-30 02:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 74.9 |
-| 09d50f3f-6116-38bf-bd02-6af831cfc17a | -1.8242 | -54.492 | 2026-01-30 02:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| feb0bcd4-cb3c-338d-b4a5-c54cd8cfccda | -1.8058 | -54.4923 | 2026-01-30 02:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 57.6 |
-| 03ad8d30-7024-389b-9689-ad705354ad18 | -1.8058 | -54.4923 | 2026-01-30 02:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 58.9 |
-| 589288d7-ecfd-3d6e-8859-9379a0136718 | -1.8242 | -54.492 | 2026-01-30 02:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 49.9 |
-| 9a577251-3958-3367-8476-bd03d24a7d27 | -1.8058 | -54.4923 | 2026-01-30 02:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 60.8 |
-| 67ea7225-1967-3f46-bc04-4baead728ccb | -1.8058 | -54.4923 | 2026-01-30 02:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 56.8 |
-| a0a3a767-da03-3f50-91d8-902f0c141922 | -1.8242 | -54.492 | 2026-01-30 02:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 49.5 |
-| d013dad8-41f9-3f03-9e19-5dbff1cdc469 | -1.8058 | -54.4923 | 2026-01-30 02:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 59.2 |
-| 37f5568c-0b8f-30e0-99d5-62215f8e0f8d | -1.8058 | -54.4923 | 2026-01-30 03:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 61.3 |
-| 6c70dcda-1712-3719-8871-dda566fe748a | -1.8058 | -54.4923 | 2026-01-30 03:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 54.9 |
-| d35134bc-4516-3641-8cad-9a13c521b8ec | -5.26641 | -37.72399 | 2026-01-30 03:12:00 | NOAA-21 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 93f94f8e-5533-3d96-b57a-7dc23dfd27f8 | -5.26569 | -37.72815 | 2026-01-30 03:12:00 | NOAA-21 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 13a4af6b-b359-3c1f-a8e4-32aaa2da501c | -6.93482 | -35.13434 | 2026-01-30 03:12:00 | NOAA-21 | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 7b8e3371-c730-31ff-beb4-f64f884ac709 | -11.12732 | -38.38592 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 5a00c67c-1455-3948-88b3-ccf64568b787 | -11.12789 | -38.38194 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 15f07ef6-0f8f-3521-9735-e6eeea707460 | -11.12167 | -38.38454 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| 284101a6-cab8-377a-92c7-a3a1ba32be22 | -11.12801 | -38.38221 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 3.5 |
-| 1410487f-c663-3d9a-89d2-108ee6fa704b | -11.12251 | -38.3811 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 2ee7916d-3453-3d10-a5a8-2fcd124c8aad | -11.12239 | -38.38085 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 2.2 |
-| 30932827-a2e1-30a8-bfc8-06edec0439fa | -11.12182 | -38.3848 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 56200405-b6d6-3725-b749-312de3e327f9 | -11.12717 | -38.38564 | 2026-01-30 03:14:00 | NOAA-21 | ITAPICURU | BAHIA | Brasil | 2916500 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| f9337911-01dc-382a-8fdb-4efe5de2ff4f | -1.8058 | -54.4923 | 2026-01-30 03:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 58.1 |
-| 4287aba2-2b98-3802-9ca4-a007125eb15a | -1.8058 | -54.4923 | 2026-01-30 03:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 46.0 |
-| 6f962215-6bb8-370e-95dd-9a0793069884 | -1.8058 | -54.4923 | 2026-01-30 03:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 47.1 |
-| 6d383bf9-c267-378f-a33f-8af6a7a2c3c4 | -4.6776 | -37.93764 | 2026-01-30 03:40:00 | NPP-375D | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| 7425ebc4-59d2-37ee-a595-d4f3d95ffde3 | -4.36349 | -37.90033 | 2026-01-30 03:40:00 | NPP-375D | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| 779bdb10-0100-3f2c-922b-5096134dc297 | -4.67596 | -37.93896 | 2026-01-30 03:40:00 | NPP-375D | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 482e1fab-aa91-320a-8338-a0e9163c617e | -4.6799 | -37.93964 | 2026-01-30 03:40:00 | NPP-375D | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 3.0 |
-| e2bba21d-79ff-330d-9b95-c4e961b1a82c | -4.67679 | -37.94263 | 2026-01-30 03:40:00 | NPP-375D | ITAIÇABA | CEARÁ | Brasil | 2306207 | 23 | 33 | nan | nan | nan | Caatinga | 2.5 |
-| cc662cfc-9ce9-3300-b16d-432548029ba7 | -8.30632 | -35.19508 | 2026-01-30 03:42:00 | NPP-375D | ESCADA | PERNAMBUCO | Brasil | 2605202 | 26 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| c3d0cd55-f929-307f-9673-da81672edf71 | -8.41277 | -36.02588 | 2026-01-30 03:42:00 | NPP-375D | ALTINHO | PERNAMBUCO | Brasil | 2600807 | 26 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 0480a1ee-cd17-32bd-9150-0afb73d08646 | -7.89788 | -35.32108 | 2026-01-30 03:42:00 | NPP-375D | LAGOA DE ITAENGA | PERNAMBUCO | Brasil | 2608503 | 26 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
-| 268b15e1-6949-3b9f-aceb-7c402acd7a47 | -5.17189 | -44.41572 | 2026-01-30 03:42:00 | NPP-375D | PRESIDENTE DUTRA | MARANHÃO | Brasil | 2109106 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| ab2dc10d-c2d7-35d5-9141-00db5da6a219 | -6.93937 | -35.13456 | 2026-01-30 03:42:00 | NPP-375D | CAPIM | PARAÍBA | Brasil | 2504033 | 25 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 04e1f833-0cea-3104-9f43-c2cbc01bfeca | -1.8059 | -54.4723 | 2026-01-31 00:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 69.4 |
+| 21140f76-3509-36f1-833d-73e860199758 | -9.9106 | -36.3175 | 2026-01-31 00:00:00 | GOES-19 | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Mata Atlântica | 84.5 |
+| f3fdcd53-c758-372f-a6b5-0e3d82ae4b69 | -20.298 | -57.3463 | 2026-01-31 00:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 57.3 |
+| 1e576e17-0a39-34e2-81c8-6d67509f0391 | -20.3178 | -57.3644 | 2026-01-31 00:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 74.9 |
+| a33bc0cc-664c-343f-b099-d7ad6fd0cfa2 | -9.9299 | -36.3141 | 2026-01-31 00:00:00 | GOES-19 | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Mata Atlântica | 116.5 |
+| 96ff5fe2-828e-37fc-b2c5-01621ece42fe | -1.8058 | -54.4923 | 2026-01-31 00:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 175.5 |
+| 3bb55c70-442e-3d57-b678-b4cbd22b40e5 | -20.2976 | -57.3672 | 2026-01-31 00:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 82.2 |
+| 3dc0ac05-c7d8-33b7-abad-53e163165fcd | -20.2976 | -57.3672 | 2026-01-31 00:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 96.2 |
+| 3ffea055-6df2-3a5c-b90c-d7bc9c0d9147 | -20.3178 | -57.3644 | 2026-01-31 00:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 86.5 |
+| f46dcf77-3820-350c-bb43-1e9e1b6e5ed6 | -1.8058 | -54.4923 | 2026-01-31 00:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 166.9 |
+| 6d97f18a-5758-3ec7-bea0-af1dceca0419 | -20.298 | -57.3463 | 2026-01-31 00:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 56.4 |
+| eb3104e6-9ddc-3981-8957-31dec998decd | -1.8059 | -54.4723 | 2026-01-31 00:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 67.0 |
+| e6bdafca-39f5-37ef-9a16-85696542b2fe | -1.8058 | -54.5122 | 2026-01-31 00:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 0b48bd6c-b791-3200-94e2-27972c359284 | -20.2976 | -57.3672 | 2026-01-31 00:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 90.3 |
+| 040a7850-6a34-3d71-ae62-38e9cb697f74 | -1.8058 | -54.4923 | 2026-01-31 00:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 179.1 |
+| 6218fb76-fa46-31ca-8185-af189584f847 | -20.298 | -57.3463 | 2026-01-31 00:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 50.2 |
+| 6349606e-ecc9-388a-83b5-125ea90b69ee | -20.3178 | -57.3644 | 2026-01-31 00:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 72.6 |
+| 804e47ff-a342-3d37-89bd-2ecface2ca8f | -1.8059 | -54.4723 | 2026-01-31 00:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| 6ad948aa-4f5a-3d5f-8e0c-5ea0e640a921 | -1.7875 | -54.4925 | 2026-01-31 00:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| 9e44372c-223d-3a69-8761-64f7829dd7c4 | -1.8058 | -54.4923 | 2026-01-31 00:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 153.8 |
+| cfc876ee-377f-36dd-a4fd-9dc509dfb5f7 | -20.3182 | -57.3434 | 2026-01-31 00:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 61.1 |
+| e327c3ca-9eb0-30bf-99f2-062d04b6962e | -1.8059 | -54.4723 | 2026-01-31 00:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 58.4 |
+| 5745fa2c-a644-3584-b04a-7d706251f377 | -20.298 | -57.3463 | 2026-01-31 00:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 57.6 |
+| 1a1fb66e-821b-3645-a403-edc7ca41ac8e | -20.2976 | -57.3672 | 2026-01-31 00:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 83.7 |
+| d30a30f9-29f2-3d7a-9fe2-0f77fd906e04 | -20.3178 | -57.3644 | 2026-01-31 00:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 116.4 |
+| ce271bd1-48bf-36a0-bedd-3db7d75a0a8b | -10.1435 | -36.222 | 2026-01-31 00:40:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 155.8 |
+| d09053e8-5f8a-3aea-a2d1-c8c6e2125402 | -20.3182 | -57.3434 | 2026-01-31 00:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 45.6 |
+| f1af7e32-62b6-34c4-bd29-ed8c8e5a77ab | -1.8059 | -54.4723 | 2026-01-31 00:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 72.1 |
+| 224f7b27-0871-336b-9a4b-c9b49646cd7e | -1.8058 | -54.4923 | 2026-01-31 00:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 163.5 |
+| dff69c86-9f46-3cab-9abf-cceef2cd5b7d | -20.3178 | -57.3644 | 2026-01-31 00:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 100.7 |
+| 80b07896-88b8-30d2-8e28-a6fbd61bef7a | -10.144 | -36.1949 | 2026-01-31 00:40:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 139.8 |
+| 66ac4869-4ebb-3309-bf8a-40f1107bbeef | -20.2976 | -57.3672 | 2026-01-31 00:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 70.7 |
+| b4a3ea05-4258-38d3-8d94-775b0e672d3f | -22.02513 | -49.49833 | 2026-01-31 00:43:00 | TERRA_M-M | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
+| a8c58048-f038-3f4b-9a46-fdfb2802fa3f | -22.0269 | -49.50964 | 2026-01-31 00:43:00 | TERRA_M-M | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 66fe39a6-fc85-35c4-9eca-bf107b0b054c | -20.2993 | -57.3692 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 27.7 |
+| f1727fc5-d25f-32f7-8ba3-6d7e4cf86cfc | -19.47271 | -55.47439 | 2026-01-31 00:45:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 9.4 |
+| 771245e3-cab4-383d-9432-9cd961d74d7a | -20.31015 | -57.36781 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 106.2 |
+| 7a034a07-7482-3bc2-b76d-068cdbc35aa6 | -21.96284 | -53.6918 | 2026-01-31 00:45:00 | TERRA_M-M | NOVA ANDRADINA | MATO GROSSO DO SUL | Brasil | 5006200 | 50 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| b49dd470-7818-3a99-a94b-5c729541bf98 | -20.29767 | -57.35472 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 19.9 |
+| b29a2d45-3b13-3f7e-aaeb-7bf88730c8b5 | -20.2728 | -57.32864 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 14.3 |
+| 2e2e381b-6507-3276-a8b6-47433af129f7 | -19.47135 | -55.46359 | 2026-01-31 00:45:00 | TERRA_M-M | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 16.4 |
+| eb303947-99ba-344e-8421-ee56daf857da | -20.26831 | -57.32091 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| c9f6a50f-db54-347e-9755-661eac9a1011 | -19.43731 | -54.77176 | 2026-01-31 00:45:00 | TERRA_M-M | SÃO GABRIEL DO OESTE | MATO GROSSO DO SUL | Brasil | 5007695 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| d411b3c8-f803-3b41-bd71-cdc136f67cac | -20.26198 | -57.33004 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| 45ce0477-d9ed-3246-a1c9-72675ceeaa2f | -20.32101 | -57.36642 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 10.1 |
+| f311b8c5-c434-3aa2-b788-a1e00cbf622c | -20.26999 | -57.33528 | 2026-01-31 00:45:00 | TERRA_M-M | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Cerrado | 20.8 |
+| 1a930e62-d0d0-347e-9e7d-ddba06c8daa8 | -11.1806 | -55.91731 | 2026-01-31 00:47:00 | TERRA_M-M | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 4.0 |
+| 476545d7-e206-3cc6-9d10-3b1585d23d83 | -12.29966 | -57.40532 | 2026-01-31 00:47:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 394993d8-e5a2-32cb-a3e7-b06d1a3eaa76 | -17.98044 | -53.69759 | 2026-01-31 00:47:00 | TERRA_M-M | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 7.3 |
+| 7ef6ace4-572f-3f6b-8e5a-28164d4fda17 | -1.81105 | -54.48238 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 21.5 |
+| 1d5220e8-663a-3b77-bd2a-9f1ffc30a672 | -1.61423 | -54.7117 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 895c405c-69d4-3b21-bbfe-922ae1514aff | -2.58269 | -54.7269 | 2026-01-31 00:49:00 | TERRA_M-M | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 5.2 |
+| 7aa87992-e44e-31ba-8a3a-66f044e0d159 | -1.80164 | -54.48374 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 64.1 |
+| 2ea8d776-269d-3e19-9d84-da7fea07604b | -2.81466 | -52.95864 | 2026-01-31 00:49:00 | TERRA_M-M | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 8.5 |
+| 242af31e-9c8a-329a-9155-03ee4d67fab2 | -1.80447 | -54.50384 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 13.8 |
+| d0881d18-6b02-343e-a925-4445df48f61e | -1.81246 | -54.49247 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 26.8 |
+| a558caa2-2bb6-3db8-8c29-e49b2ad6534d | -1.87754 | -54.68637 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 98939683-b5fc-379d-839a-e59bf36f7a99 | -1.80305 | -54.49378 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 87.7 |
+| f93e46cd-2095-3949-8901-57fff8052516 | -1.6867 | -54.77581 | 2026-01-31 00:49:00 | TERRA_M-M | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 5.1 |
+| ce535495-8cb3-3fba-a265-053c067bdc7d | -1.8058 | -54.4923 | 2026-01-31 00:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 136.5 |
+| 0ba9cca7-2d41-36f5-8520-34584466f970 | -20.2976 | -57.3672 | 2026-01-31 00:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 56.2 |
+| b34fae3f-c716-3a17-9d61-f34311f01d84 | -20.3178 | -57.3644 | 2026-01-31 00:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 57.7 |
+| bb17ce8e-1691-3f41-b4b2-f8475720c018 | -1.7875 | -54.4925 | 2026-01-31 00:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 70.0 |
+| 1c2e446b-731b-3b1c-98b6-93b02ca94faa | 2.3208 | -60.93865 | 2026-01-31 00:52:00 | TERRA_M-M | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 7.3 |
+| 40ef842c-fc12-3f73-a8b7-d5e82836dbbc | 1.83411 | -60.83292 | 2026-01-31 00:52:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 12.6 |
+| dbb2c28b-ad98-36d1-b835-1041a9ced266 | 1.8325 | -60.84448 | 2026-01-31 00:52:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 40eac2c2-194f-31a8-9f00-e0816f639904 | -1.8059 | -54.4723 | 2026-01-31 01:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 57.6 |
+| 1493296c-bc4d-36b9-b7fd-db871f5993bd | -1.8058 | -54.4923 | 2026-01-31 01:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 157.1 |
+| e0487d69-51f7-3f4d-89e8-0cefd18b662c | -1.7875 | -54.4925 | 2026-01-31 01:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 52.0 |
+| 541ef680-1b85-3cd4-a0b3-1040dc416a02 | -20.3178 | -57.3644 | 2026-01-31 01:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 58.3 |
+| b7eb1e2d-a881-31c8-b9b5-b9b7bb1966e2 | -1.8059 | -54.4723 | 2026-01-31 01:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| eb75387a-cf6a-3105-b8fd-ce8b94775457 | -1.8058 | -54.4923 | 2026-01-31 01:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 146.5 |
+| cf4f7e99-fa4c-3b6a-933c-b1daefdb82ef | -20.3178 | -57.3644 | 2026-01-31 01:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 53.1 |
+| 2177b152-3d70-3805-85cd-cb5b285768a9 | -1.8059 | -54.4723 | 2026-01-31 01:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| 0d596b0a-7b95-3931-85de-b63371e26660 | -1.8058 | -54.4923 | 2026-01-31 01:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 159.3 |
+| d1464b6e-907a-390e-adf9-0675cb7a5be1 | -1.8058 | -54.4923 | 2026-01-31 01:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 145.4 |
+| 6b37fb5b-9a31-325d-b693-0e2d0bd6f744 | -11.9961 | -50.7777 | 2026-01-31 01:30:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 68.9 |
+| 24d529eb-dc54-311b-bac8-f64bbbbb9495 | -1.8059 | -54.4723 | 2026-01-31 01:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 69.0 |
+| bc36f615-7078-37df-91ee-29ad311c3722 | -20.3178 | -57.3644 | 2026-01-31 01:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 54.1 |
+| a7317589-22f6-3ce5-b71c-01990ef969b5 | -1.8058 | -54.4923 | 2026-01-31 01:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 122.9 |
+| 3bf62c17-4df1-3557-a926-1d2196f8d809 | -11.9961 | -50.7777 | 2026-01-31 01:40:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 68.9 |
+| 118c6306-7687-3637-9910-de3793592120 | -1.8242 | -54.492 | 2026-01-31 01:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 1940f83f-ad2b-3d3f-8f37-d0cb528a42d7 | -1.7875 | -54.4925 | 2026-01-31 01:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 53.3 |
+| 09588570-116f-3f95-98d2-7a64bd498af6 | -1.7875 | -54.4925 | 2026-01-31 01:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 53.4 |
+| 06d0e070-cba4-3914-964b-5b23bfa2fe40 | -1.8058 | -54.4923 | 2026-01-31 01:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 114.9 |
+| 52000aa1-4e6c-39be-9a3d-0652ea97dcb0 | -1.8059 | -54.4723 | 2026-01-31 01:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| 7605a8c4-60da-3ae2-914b-d9b6a618581c | -11.9961 | -50.7777 | 2026-01-31 01:50:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 74.2 |
+| 4e6511d3-bd4d-3432-a5c3-a5ab230dbebf | -1.8058 | -54.4923 | 2026-01-31 02:00:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 126.1 |
+| 7212d381-ed83-36fc-9e2a-3e0184058275 | -1.8059 | -54.4723 | 2026-01-31 02:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 51.0 |
+| 610510e5-204a-31f7-b6fa-de3c472038df | -1.8058 | -54.4923 | 2026-01-31 02:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 120.8 |
+| 8d298984-86dd-3494-b2a6-501321d83bcc | -20.3178 | -57.3644 | 2026-01-31 02:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 47.7 |
+| 44d28522-af9c-3264-8b3e-c995f51982b9 | -1.8059 | -54.4723 | 2026-01-31 02:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 54.6 |
+| c13cc47c-6edc-36ee-ab1b-90a1abb7db41 | -1.8058 | -54.4923 | 2026-01-31 02:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 103.4 |
+| 068c78f8-7ac4-3f7e-a938-38edb37f6f6d | -11.9774 | -50.7585 | 2026-01-31 02:30:00 | GOES-19 | NOVO SANTO ANTÔNIO | MATO GROSSO | Brasil | 5106315 | 51 | 33 | nan | nan | nan | Cerrado | 55.2 |
+| d35d0321-16a4-3ef4-bb99-5ec0b1851826 | -1.8058 | -54.4923 | 2026-01-31 02:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 72.0 |
+| a65b88b4-930d-3bf7-a0df-3464d9941634 | -1.8058 | -54.4923 | 2026-01-31 02:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 83.9 |
+| dd79b6bf-0300-3631-b608-c52eb0352525 | -1.8058 | -54.4923 | 2026-01-31 02:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 99.0 |
+| e61e08ee-021b-3fbc-9b52-398f877974c9 | -7.38342 | -35.68735 | 2026-01-31 02:53:00 | NOAA-21 | ITATUBA | PARAÍBA | Brasil | 2507200 | 25 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 36ac97c8-626e-329b-b2d0-988e291f7b33 | -7.38231 | -35.69325 | 2026-01-31 02:53:00 | NOAA-21 | ITATUBA | PARAÍBA | Brasil | 2507200 | 25 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 6ba33615-b262-353a-a1a3-8078edde0921 | -8.46714 | -35.31714 | 2026-01-31 02:53:00 | NOAA-21 | ESCADA | PERNAMBUCO | Brasil | 2605202 | 26 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
