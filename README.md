@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| de4a9e22-3edc-3f6d-82ba-0676d98afb7f | -20.3118 | -49.581 | 2026-02-17 00:00:00 | GOES-19 | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | 79.6 |
-| ddde42e8-921e-3ddf-9aa0-656f8878150f | -20.3118 | -49.581 | 2026-02-17 00:10:00 | GOES-19 | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | 74.8 |
-| ed83872a-ad80-37fc-960a-b9e205c4cf86 | -21.15005 | -48.59245 | 2026-02-17 00:24:00 | TERRA_M-M | VISTA ALEGRE DO ALTO | SÃO PAULO | Brasil | 3556909 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
-| eb1e8735-d7f1-3d65-910d-05e3d0f50eb0 | -22.784 | -49.36111 | 2026-02-17 00:24:00 | TERRA_M-M | AGUDOS | SÃO PAULO | Brasil | 3500709 | 35 | 33 | nan | nan | nan | Cerrado | 28.7 |
-| 800602d2-3bf2-3596-a224-6273a271dfc5 | -16.03175 | -41.18943 | 2026-02-17 00:24:00 | TERRA_M-M | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 31.7 |
-| def7c717-0cd6-316f-8662-204e7aef2c32 | -21.52682 | -48.79866 | 2026-02-17 00:24:00 | TERRA_M-M | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| c73dbd6f-14a1-32da-80c2-7901a906e362 | -15.44234 | -43.64318 | 2026-02-17 00:24:00 | TERRA_M-M | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Caatinga | 10.1 |
-| 6433b35a-e570-3e9e-8c79-4753cd7651c9 | -20.3068 | -49.59553 | 2026-02-17 00:24:00 | TERRA_M-M | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| f56a8957-b8e8-3e14-9b4e-a26ca800e913 | -20.78251 | -49.57804 | 2026-02-17 00:24:00 | TERRA_M-M | BÁLSAMO | SÃO PAULO | Brasil | 3504800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
-| 1c311f42-d6cf-3d7b-a391-5d9dbcb1c6e5 | -20.51544 | -49.86783 | 2026-02-17 00:24:00 | TERRA_M-M | COSMORAMA | SÃO PAULO | Brasil | 3512902 | 35 | 33 | nan | nan | nan | Cerrado | 23.6 |
-| afa9d468-3c9b-3583-9509-b3dab53fd4e2 | -20.3055 | -49.58536 | 2026-02-17 00:24:00 | TERRA_M-M | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| bdf14db2-53b2-3927-b1c2-028912bfc2e5 | -21.52812 | -48.80853 | 2026-02-17 00:24:00 | TERRA_M-M | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 5733160f-a998-3008-8aa9-c3f21b8c9337 | -16.65875 | -41.9682 | 2026-02-17 00:24:00 | TERRA_M-M | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 21.2 |
-| 959baa3f-9d00-39f3-8506-0b5a9d34aca7 | -13.43786 | -48.22318 | 2026-02-17 00:24:00 | TERRA_M-M | MINAÇU | GOIÁS | Brasil | 5213087 | 52 | 33 | nan | nan | nan | Cerrado | 4.3 |
-| 38c49d29-c6b9-31a6-bd5e-212d7f7ac3e2 | -16.0256 | -41.19546 | 2026-02-17 00:24:00 | TERRA_M-M | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 50.5 |
-| ca3c3b8d-9376-36e0-bff7-0e3839527fb0 | -21.78499 | -49.82601 | 2026-02-17 00:24:00 | TERRA_M-M | GUAIMBÊ | SÃO PAULO | Brasil | 3517307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.8 |
-| e27c1e7b-5064-3b22-a70c-e7a5ca5cf6fc | -16.60682 | -43.35762 | 2026-02-17 00:24:00 | TERRA_M-M | GRÃO MOGOL | MINAS GERAIS | Brasil | 3127800 | 31 | 33 | nan | nan | nan | Cerrado | 15.2 |
-| 7ede5193-276f-32aa-876c-82bfd965bfd2 | -18.97651 | -52.925 | 2026-02-17 00:24:00 | TERRA_M-M | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 23.3 |
-| ae6ae361-02ea-3ab5-9342-7ad7b0237a92 | -21.37412 | -49.1073 | 2026-02-17 00:24:00 | TERRA_M-M | ITAJOBI | SÃO PAULO | Brasil | 3521903 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.4 |
-| 03c3ca1a-4a5b-3598-b955-d196b908fb63 | -21.78631 | -49.83679 | 2026-02-17 00:24:00 | TERRA_M-M | GUAIMBÊ | SÃO PAULO | Brasil | 3517307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.8 |
-| 100cfb19-9024-3c28-9f8a-c04a746e2530 | -15.17052 | -45.64777 | 2026-02-17 00:24:00 | TERRA_M-M | CHAPADA GAÚCHA | MINAS GERAIS | Brasil | 3116159 | 31 | 33 | nan | nan | nan | Cerrado | 14.2 |
-| e565dfcb-f77d-3864-831c-4362d54f0cd7 | -16.02162 | -41.1725 | 2026-02-17 00:24:00 | TERRA_M-M | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 16.0 |
-| 02846fe5-022e-393e-b5f7-518c85e03891 | -16.01792 | -41.19125 | 2026-02-17 00:24:00 | TERRA_M-M | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 29.2 |
-| 5c5414f9-d494-3d66-be36-204a5c9e0eb0 | -22.78534 | -49.37175 | 2026-02-17 00:24:00 | TERRA_M-M | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 996a9923-ef98-3018-91f2-116d22ea80f2 | -16.6464 | -41.97268 | 2026-02-17 00:24:00 | TERRA_M-M | ARAÇUAÍ | MINAS GERAIS | Brasil | 3103405 | 31 | 33 | nan | nan | nan | Mata Atlântica | 18.2 |
-| 7c1bf1af-574b-3e86-aee3-ec99cfc18993 | -18.97821 | -52.94002 | 2026-02-17 00:24:00 | TERRA_M-M | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| 7f9e7484-712a-3127-8f05-cadfed8f3053 | -11.19564 | -43.56025 | 2026-02-17 00:26:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 16.7 |
-| 456fef6c-0b8d-3643-a716-d3347b262852 | -11.05197 | -45.39028 | 2026-02-17 00:26:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 29.8 |
-| 1de6e4f1-3476-31e7-9d4c-69ae3841b50f | -11.94078 | -44.80682 | 2026-02-17 00:26:00 | TERRA_M-M | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| 279b478d-d813-3831-b763-1ee8c51d9e38 | -10.92703 | -44.66432 | 2026-02-17 00:26:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 19dc9c8d-1aef-3b23-9726-00e8ee42a40d | -11.88979 | -45.29904 | 2026-02-17 00:26:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 15.9 |
-| 9d899743-94e2-3e50-885f-449e45c0ca04 | -11.8877 | -45.2854 | 2026-02-17 00:26:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 50.3 |
-| cfec7803-41db-3660-8005-4ee5d2906eda | -11.94117 | -44.81314 | 2026-02-17 00:26:00 | TERRA_M-M | ANGICAL | BAHIA | Brasil | 2901403 | 29 | 33 | nan | nan | nan | Cerrado | 13.1 |
-| fef9225b-a231-32f7-ad20-469fa24fb8a5 | 2.66424 | -60.15368 | 2026-02-17 00:30:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 15.9 |
-| 742857ec-6ae1-3dec-81b9-c6828c580852 | 2.90087 | -60.9191 | 2026-02-17 00:30:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 51.0 |
-| ea799def-055a-3c85-8594-bce6b4350c78 | 1.06032 | -60.57993 | 2026-02-17 00:30:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 114.8 |
-| e50a9214-5e96-332d-83f6-d06ace150d57 | 1.06431 | -60.55239 | 2026-02-17 00:30:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 99.7 |
-| 20eeb8f9-46b6-3471-b848-c41edd502a84 | 2.6557 | -60.17049 | 2026-02-17 00:30:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 22.5 |
-| b4818ab9-c665-3547-b546-00facee2d83c | 2.90082 | -60.91257 | 2026-02-17 00:30:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 41.0 |
-| 5c42d9eb-cd58-3e69-ac5d-a543c5a8be4c | -20.2992 | -49.569199 | 2026-02-17 00:32:00 | METOP-B | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 04a2f97f-3fac-3ca3-9d58-e18b4e89cbeb | -20.3127 | -49.5826 | 2026-02-17 00:32:00 | METOP-B | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 041a799d-a93b-3a1e-9227-541d8dbef2b1 | -22.793301 | -49.350498 | 2026-02-17 00:32:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| b18b338e-cda5-38c2-a08f-82480ceffdc4 | -21.525999 | -48.794601 | 2026-02-17 00:32:00 | METOP-B | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| a68fc93f-23d4-3e78-ab89-1dcf9dd1b4db | -18.9734 | -52.912998 | 2026-02-17 00:32:00 | METOP-B | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| dcae582a-1ddf-3a56-bdd0-6ecb0a3699c2 | -21.1562 | -48.588001 | 2026-02-17 00:32:00 | METOP-B | VISTA ALEGRE DO ALTO | SÃO PAULO | Brasil | 3556909 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 6f30b336-3fd2-3283-8943-10c439ad05b3 | -21.7845 | -49.822498 | 2026-02-17 00:32:00 | METOP-B | GUAIMBÊ | SÃO PAULO | Brasil | 3517307 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 86fdba9e-d9c5-3d93-9576-ac121403e8bf | -21.1542 | -48.579498 | 2026-02-17 00:32:00 | METOP-B | TAIAÇU | SÃO PAULO | Brasil | 3553104 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 1cb82f25-c35a-3d9c-8cc1-c9df5e953db8 | -20.5221 | -49.8624 | 2026-02-17 00:32:00 | METOP-B | COSMORAMA | SÃO PAULO | Brasil | 3512902 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| b01c8dd3-0de0-38b0-b302-23d05d8aeb47 | -20.7854 | -49.569099 | 2026-02-17 00:32:00 | METOP-B | BÁLSAMO | SÃO PAULO | Brasil | 3504800 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f85b06d4-d54a-350f-8465-2083121439e4 | -16.6502 | -41.941502 | 2026-02-17 00:32:00 | METOP-B | ITINGA | MINAS GERAIS | Brasil | 3134004 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 72763185-9126-3fdc-ac44-23a65a161d07 | -21.144501 | -48.5821 | 2026-02-17 00:32:00 | METOP-B | TAIAÇU | SÃO PAULO | Brasil | 3553104 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| d70fbf6c-a031-3c75-9781-685bf3f65688 | -21.7827 | -49.814701 | 2026-02-17 00:32:00 | METOP-B | GUAIMBÊ | SÃO PAULO | Brasil | 3517307 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b676e9cc-cf83-3605-aef6-760d22aea758 | -20.5203 | -49.854599 | 2026-02-17 00:32:00 | METOP-B | COSMORAMA | SÃO PAULO | Brasil | 3512902 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| ec0aeb07-a97c-3941-8431-fe5d9a583aef | -16.012199 | -41.147999 | 2026-02-17 00:32:00 | METOP-B | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c86c3895-c95f-337f-a9a2-4437bc0fe64f | -18.975 | -52.9203 | 2026-02-17 00:32:00 | METOP-B | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| bda72ebb-6011-31ca-af76-7f6f18ca2b48 | -11.8844 | -45.276798 | 2026-02-17 00:32:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| b28e35c6-73dd-3980-9eda-ce1b4bd9d758 | -18.976601 | -52.927601 | 2026-02-17 00:32:00 | METOP-B | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 2433796a-e839-338c-8de3-1d89047ab557 | -20.3011 | -49.577202 | 2026-02-17 00:32:00 | METOP-B | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 5ff8d202-335e-3296-b3db-42535f3e32df | -22.783501 | -49.3531 | 2026-02-17 00:32:00 | METOP-B | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| c550669d-8f7a-3364-8eb5-d4c36ded232f | -11.8798 | -45.258701 | 2026-02-17 00:32:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| d20029ac-7bd6-300c-9719-29fd1eb09fca | -21.191099 | -48.560398 | 2026-02-17 00:32:00 | METOP-B | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| d88e9791-f09f-34f6-b15a-b548a550f376 | -20.309 | -49.566601 | 2026-02-17 00:32:00 | METOP-B | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| f195f0b2-fec6-33b9-b896-c00f571c3ff7 | -20.310801 | -49.5746 | 2026-02-17 00:32:00 | METOP-B | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| deb17a0a-0bb3-3270-a27d-4c5b73f16acf | 1.0663 | -60.5606 | 2026-02-17 00:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 43.3 |
-| 2171924b-39cd-3bfa-ad95-88955d74d258 | -16.0332 | -41.1809 | 2026-02-17 00:40:00 | GOES-19 | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 61.8 |
-| 61f0a135-d123-36e4-9b2f-ba5f900e48b6 | 1.0663 | -60.5606 | 2026-02-17 00:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 46.1 |
-| 7e778bda-ee85-3d4a-ac5b-bb11f1fbd51f | -22.7953 | -49.360802 | 2026-02-17 01:08:00 | METOP-C | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 7f28a339-0715-38d3-be56-9c2e9307f0f4 | -20.3092 | -49.5811 | 2026-02-17 01:08:00 | METOP-C | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| c9889e12-82aa-3c8e-a6f2-14a4635a9e46 | -21.7869 | -49.8255 | 2026-02-17 01:08:00 | METOP-C | GUAIMBÊ | SÃO PAULO | Brasil | 3517307 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 038bcc61-d685-36ee-b1ad-93f89b6dd238 | -22.7836 | -49.3549 | 2026-02-17 01:08:00 | METOP-C | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 042dc49a-a8b6-3f97-9983-c2d0d9612911 | -18.9786 | -52.928902 | 2026-02-17 01:08:00 | METOP-C | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 35815f02-b691-3ec3-a5de-c2019e2b8b24 | -18.976999 | -52.9216 | 2026-02-17 01:08:00 | METOP-C | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 004debdf-7f1d-3d10-b28b-6f7989ebed99 | -21.784901 | -49.817101 | 2026-02-17 01:08:00 | METOP-C | GUAIMBÊ | SÃO PAULO | Brasil | 3517307 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 8691d51e-b91a-3198-8898-16a3e37c9f0c | -20.3071 | -49.5723 | 2026-02-17 01:08:00 | METOP-C | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| e5c6e381-f823-32f8-8c21-ba89a6f3584a | -22.793301 | -49.3522 | 2026-02-17 01:08:00 | METOP-C | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| c75118f7-b67f-37d0-a9d4-8becec0e1a46 | -20.5208 | -49.8582 | 2026-02-17 01:08:00 | METOP-C | COSMORAMA | SÃO PAULO | Brasil | 3512902 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 96f2edac-a4a4-3530-b9e0-48136094372f | -21.1565 | -48.590099 | 2026-02-17 01:08:00 | METOP-C | VISTA ALEGRE DO ALTO | SÃO PAULO | Brasil | 3556909 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| dbdf692c-30d1-39c4-b303-f846ca52afa4 | -9.9497 | -36.2836 | 2026-02-17 01:10:00 | GOES-19 | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Mata Atlântica | 82.7 |
-| ac57c281-038d-3b1e-acd8-3b63e6de3a20 | -9.9502 | -36.2566 | 2026-02-17 01:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 87.2 |
-| 545f2fb0-a3ac-384e-a1b5-6cb07f38887f | 1.0663 | -60.5606 | 2026-02-17 01:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 94.0 |
-| 5c0d383d-cedb-301b-bd83-a147207cc5e7 | 1.0481 | -60.5796 | 2026-02-17 01:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 43.5 |
-| c4213bd4-412f-3075-bde0-143595243307 | 1.0663 | -60.5795 | 2026-02-17 01:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 40.7 |
-| c254a28e-b6ab-3a5c-89fb-200e12118dbd | 1.0481 | -60.5607 | 2026-02-17 01:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 79.5 |
-| bb6fa95d-27ce-3e81-be85-ae9d3040b694 | 1.0481 | -60.5607 | 2026-02-17 01:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 59.4 |
-| 9c8cc519-4df9-3433-bd45-e0864ac66c0b | 1.0663 | -60.5795 | 2026-02-17 01:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 45.2 |
-| 4107e03f-e6f9-3de4-a57b-a830f3888b51 | 1.0663 | -60.5606 | 2026-02-17 01:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 73.2 |
-| b01c32f1-1781-3716-81c2-806b5f77c39e | 1.0663 | -60.5606 | 2026-02-17 01:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 94.3 |
-| 72b16f02-9e90-3650-a3cf-e369c49768d5 | 1.0481 | -60.5607 | 2026-02-17 01:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 55.3 |
-| e19d92bd-23c4-36db-898d-191e698f1e89 | 1.0663 | -60.5795 | 2026-02-17 01:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 53.7 |
-| 5a4764aa-23ff-396b-9ec0-79525d996abd | 1.0481 | -60.5607 | 2026-02-17 02:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 50.4 |
-| 52872b76-8160-366d-a291-18f89ab85d11 | 1.0663 | -60.5606 | 2026-02-17 02:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 60.4 |
-| 54f4a098-8671-3e5d-8f9f-301258796207 | 1.0663 | -60.5606 | 2026-02-17 02:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 74.4 |
-| 317ef0a8-a763-3745-8c67-ce1b979bd680 | -6.5631 | -51.1126 | 2026-02-17 02:30:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 71.6 |
-| 90bd07e3-7d3b-309e-8ed8-89ce7df5f577 | -5.09193 | -37.59719 | 2026-02-17 03:04:00 | NPP-375D | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.8 |
-| 42105933-3b20-3d1c-9c78-3f71fce4a4d3 | -9.41799 | -35.53539 | 2026-02-17 03:04:00 | NPP-375D | BARRA DE SANTO ANTÔNIO | ALAGOAS | Brasil | 2700508 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| bb5f3c05-dada-3d0c-be38-06392d1431a6 | -9.41877 | -35.53125 | 2026-02-17 03:04:00 | NPP-375D | BARRA DE SANTO ANTÔNIO | ALAGOAS | Brasil | 2700508 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 2c4062ea-8d71-34c5-9b77-f77727b3140c | -5.09068 | -37.60413 | 2026-02-17 03:04:00 | NPP-375D | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 3.1 |
-| 79365797-e3c6-39cd-994f-0183f01c2f76 | -5.09383 | -37.6027 | 2026-02-17 03:04:00 | NPP-375D | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| d01bddeb-271d-3d2e-9e9a-32b4fd2041a6 | -9.41215 | -35.53414 | 2026-02-17 03:04:00 | NPP-375D | BARRA DE SANTO ANTÔNIO | ALAGOAS | Brasil | 2700508 | 27 | 33 | nan | nan | nan | Mata Atlântica | 3.2 |
-| 8e08d3c3-67d6-3626-b88b-5ad4128a8bcb | -5.08672 | -37.60144 | 2026-02-17 03:04:00 | NPP-375D | BARAÚNA | RIO GRANDE DO NORTE | Brasil | 2401453 | 24 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 0aa61527-5691-32ab-ae4c-c841e97b0372 | 2.6906 | -60.2021 | 2026-02-18 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.9 |
+| 8f2ff598-10cb-37ff-8328-cd41856b3974 | 2.6905 | -60.2211 | 2026-02-18 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 78.8 |
+| 5e75f7fe-0f1f-383b-9330-c2020593d8d9 | 2.6723 | -60.2214 | 2026-02-18 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 86.1 |
+| c1dba85b-fa6b-3b79-98e6-293ff9251e7a | 1.2852 | -60.4075 | 2026-02-18 00:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 39.8 |
+| 671a81eb-b124-3c7e-993d-de4e6d3c7c6d | 1.267 | -60.4076 | 2026-02-18 00:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 67.8 |
+| b2c138c3-399a-398d-b889-7cbe91fbf60a | 2.6724 | -60.1453 | 2026-02-18 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 77.1 |
+| d194b88e-bf1d-3db9-b993-0277c1131b21 | 2.6723 | -60.2023 | 2026-02-18 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 68.3 |
+| e1722d6e-a75f-3627-bed7-d99b4af3c7a8 | 2.6724 | -60.1643 | 2026-02-18 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 68.4 |
+| 1d859fa1-87e6-3eb3-adef-07002c58f78a | 2.6905 | -60.2211 | 2026-02-18 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| 4fafd89b-7618-3cf6-b07b-564cc67256a8 | 2.6724 | -60.1453 | 2026-02-18 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 76.6 |
+| 5fd15a69-f48e-3419-a11f-eb471ac554ea | 2.6906 | -60.2021 | 2026-02-18 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 66.2 |
+| fdbd7a73-7ca1-33cb-b581-55f62164d03b | 2.6724 | -60.1643 | 2026-02-18 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| 26899a3f-34ec-3c6c-8010-748854b96975 | 2.6723 | -60.2214 | 2026-02-18 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| 3351dea4-23b5-3eab-8d14-3f456db71665 | -18.813299 | -51.587101 | 2026-02-18 00:11:00 | METOP-B | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 85a9e5c2-1a5d-348f-8927-96ac99890217 | -12.4832 | -43.628899 | 2026-02-18 00:11:00 | METOP-B | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2508b3d4-0502-3170-995a-73c88a6cc034 | -11.1942 | -43.557701 | 2026-02-18 00:11:00 | METOP-B | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 641b47a5-16ce-386f-904b-85eda1e60897 | -13.0172 | -45.035599 | 2026-02-18 00:11:00 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e09ce407-d672-31ef-a28b-78c33844c74c | -11.8954 | -45.274101 | 2026-02-18 00:11:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 908f5a96-09db-3967-bd20-85ead6a0b303 | -12.8207 | -44.817299 | 2026-02-18 00:11:00 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 952c0bc5-4302-3c05-8890-0662fa42115f | -12.4955 | -43.636799 | 2026-02-18 00:11:00 | METOP-B | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 83364d71-9347-3057-847e-db4bea638d06 | -12.4857 | -43.639198 | 2026-02-18 00:11:00 | METOP-B | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 52eb0e11-42b6-3fb1-995a-388e253725c1 | -21.028999 | -43.296299 | 2026-02-18 00:11:00 | METOP-B | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 1c7c80ad-6390-37cf-8d2c-438da218c1fb | -21.026899 | -43.287601 | 2026-02-18 00:11:00 | METOP-B | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 85d08680-fb5b-3a8b-b2f8-61119aceded7 | -11.8933 | -45.265499 | 2026-02-18 00:11:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| f252ee0a-f8f3-3ae2-a734-735fba06d02d | -11.8835 | -45.267799 | 2026-02-18 00:11:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 3bf2b072-f1d4-34e1-ac6d-9edfcb0ce766 | -11.8856 | -45.276402 | 2026-02-18 00:11:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 89edf970-3eeb-35d1-ab8b-4c8327ef2715 | -18.8055 | -51.599201 | 2026-02-18 00:11:00 | METOP-B | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| f665629a-66ea-3406-a6c1-a8c88a9b9695 | -12.9912 | -41.175098 | 2026-02-18 00:11:00 | METOP-B | ITAETÉ | BAHIA | Brasil | 2915007 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| dca0867f-1877-3296-8369-c549d3b307e5 | -14.4183 | -44.577999 | 2026-02-18 00:11:00 | METOP-B | MONTALVÂNIA | MINAS GERAIS | Brasil | 3142700 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f2af5b26-e86d-37c9-9f03-9e64c967aa7d | -18.8153 | -51.597198 | 2026-02-18 00:11:00 | METOP-B | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 9300fde9-142b-3cff-a4e2-15ad9201b530 | -18.803499 | -51.5891 | 2026-02-18 00:11:00 | METOP-B | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| fdbaae0d-b3a3-3220-8800-530dc7d2e6d2 | -12.4287 | -47.166901 | 2026-02-18 00:11:00 | METOP-B | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9b2547f3-b9c2-37a9-b281-e6d175b5ae96 | -12.493 | -43.6264 | 2026-02-18 00:11:00 | METOP-B | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 745a33f2-ced1-3bec-a84f-642a754b1c98 | -21.7717 | -42.889599 | 2026-02-18 00:11:00 | METOP-B | SENADOR CORTES | MINAS GERAIS | Brasil | 3165602 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 6dfd83ad-c7ce-3ab3-a5c9-a39a38218a17 | -13.0193 | -45.044201 | 2026-02-18 00:11:00 | METOP-B | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 225d9dc3-48dc-366c-82d4-5a12c40c1402 | -15.8515 | -52.894199 | 2026-02-18 00:11:00 | METOP-B | PONTAL DO ARAGUAIA | MATO GROSSO | Brasil | 5106653 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| ea061448-ecad-3aa2-b4fe-c03ad939ecf9 | -11.8974 | -45.2826 | 2026-02-18 00:11:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 939ab96a-a860-3b47-9abc-8dd044de3662 | 2.6724 | -60.1643 | 2026-02-18 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| f0eaecb4-5ad0-3759-94c9-f5ee7e94703f | 2.6905 | -60.2211 | 2026-02-18 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 86.5 |
+| f8866438-17f1-34f0-a6dd-565c0a32d0ab | 2.6724 | -60.1453 | 2026-02-18 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 68.5 |
+| d071e71f-b8f8-3ae2-b844-02b49cf9a4ac | 2.6723 | -60.2214 | 2026-02-18 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 86.8 |
+| e4450e10-9f04-35ab-aec5-88b6883a7874 | 2.6724 | -60.1453 | 2026-02-18 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 72.6 |
+| 0b51aec9-3c6a-303d-aebd-7e56027bb48b | -21.0304 | -43.2909 | 2026-02-18 00:30:00 | GOES-19 | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | 59.7 |
+| c8173d91-624c-3d7a-8257-013274e13872 | 2.6723 | -60.2214 | 2026-02-18 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 60.6 |
+| 841b41dd-53c2-3bc0-a997-247c96481594 | 2.6724 | -60.1643 | 2026-02-18 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.8 |
+| 7b83ae58-7d9a-3be7-bf55-44f67e0733dc | 2.6906 | -60.2021 | 2026-02-18 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.3 |
+| e7f186be-6ad8-325b-95ab-770ce401aa73 | 2.6905 | -60.2211 | 2026-02-18 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 104.3 |
+| 70dceecc-382d-3632-b2a4-448ab663d47e | 2.6724 | -60.1643 | 2026-02-18 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 61.1 |
+| 03c8f086-baa6-381f-9b0f-0712c1cd2c16 | 2.6724 | -60.1453 | 2026-02-18 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 73.9 |
+| f3182db2-3917-3cca-9634-aec8ebab11a3 | 2.6906 | -60.2021 | 2026-02-18 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 67.6 |
+| eedaddb4-8e3c-30ff-92dd-e1e0319aaccc | 2.6905 | -60.2211 | 2026-02-18 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 86.4 |
+| 51e42eb6-bf56-3039-bcd9-140e2a0dcf15 | -13.0238 | -45.046799 | 2026-02-18 00:47:00 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 4130b5de-8ef6-3499-b176-e847149c3373 | -20.3018 | -49.576599 | 2026-02-18 00:47:00 | METOP-C | PALESTINA | SÃO PAULO | Brasil | 3535002 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| db3d700e-4983-321a-a765-c383c8685195 | -18.807899 | -51.612701 | 2026-02-18 00:47:00 | METOP-C | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| d315759c-7d0b-34dc-9039-8c2af94d9283 | -14.5113 | -43.611301 | 2026-02-18 00:47:00 | METOP-C | IUIU | BAHIA | Brasil | 2917334 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2377c53a-4d5c-3e38-a395-a8b3658e12a1 | -18.8043 | -51.595001 | 2026-02-18 00:47:00 | METOP-C | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 7eaa7823-cdb0-3763-b651-d90bcb64c7a0 | -21.0373 | -43.2943 | 2026-02-18 00:47:00 | METOP-C | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| e748b664-4d54-390d-be7b-c7fc96faba2f | -12.4922 | -43.648399 | 2026-02-18 00:47:00 | METOP-C | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 89ade280-56b6-31a7-9944-af7b0d5aef0b | -18.806101 | -51.603901 | 2026-02-18 00:47:00 | METOP-C | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 5b65782f-6b4b-3340-9a7f-db34ee1215f9 | -15.8544 | -52.9076 | 2026-02-18 00:47:00 | METOP-C | PONTAL DO ARAGUAIA | MATO GROSSO | Brasil | 5106653 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 1acc38f5-b501-3a9f-a95b-69e671d5d301 | -13.0214 | -45.036999 | 2026-02-18 00:47:00 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| ae63d357-6f7a-3bc4-a4a1-6de9e2468bcf | -21.027599 | -43.2971 | 2026-02-18 00:47:00 | METOP-C | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| b8f1a14c-9543-364a-9af4-7c46824f70ef | -12.4891 | -43.6362 | 2026-02-18 00:47:00 | METOP-C | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 145ba00b-6a43-3b1a-b95e-e558c6cdbbcd | -12.427 | -47.171501 | 2026-02-18 00:47:00 | METOP-C | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 60b5e080-9bd7-3717-8862-414c7eb1462c | -21.034901 | -43.2845 | 2026-02-18 00:47:00 | METOP-C | ALTO RIO DOCE | MINAS GERAIS | Brasil | 3102100 | 31 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 73800001-d359-35fa-b72f-7a9b69e59fca | -13.0141 | -45.049301 | 2026-02-18 00:47:00 | METOP-C | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 9bc636b2-3660-3f79-930f-c405f4fb3cb1 | -18.815901 | -51.601799 | 2026-02-18 00:47:00 | METOP-C | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| eb2e6c9b-4417-3d96-9439-57d5549ff6b8 | 2.6724 | -60.1453 | 2026-02-18 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 67.3 |
+| 0a68569a-407a-3523-843b-889818593e60 | 2.6724 | -60.1643 | 2026-02-18 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.5 |
+| 10d582a0-c4ee-38b3-b098-d85eead3bdf3 | 2.6723 | -60.2214 | 2026-02-18 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| 15c7214c-0df4-31fe-9a2d-6093b9543b66 | 2.6906 | -60.2021 | 2026-02-18 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 58.1 |
+| 93d9c3ab-56e7-3495-aa66-44ab90e40fa1 | 2.6905 | -60.2211 | 2026-02-18 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 100.4 |
+| 53414cee-a431-3aec-aa43-5ccbcbbd259b | 1.267 | -60.4076 | 2026-02-18 00:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.2 |
+| fcf19aab-2449-360c-b04b-405c028b17cb | 2.6723 | -60.2214 | 2026-02-18 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 92.8 |
+| 5b0f345b-71de-3be4-b42c-9b504a8d7156 | 2.6724 | -60.1453 | 2026-02-18 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 65.2 |
+| 0565ac7f-32d4-3c84-8c20-4b260ea3c371 | 2.6724 | -60.1643 | 2026-02-18 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 60.8 |
+| 75956311-71ad-35ce-ae7e-8dafbf38fd18 | 2.6723 | -60.2023 | 2026-02-18 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 59.9 |
+| 092fb45f-6489-3650-927b-f027a9aedfb8 | 2.9266 | -60.8437 | 2026-02-18 01:00:00 | GOES-19 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 61.6 |
+| 76e4f16c-93bb-340c-8c6f-de8ea1839858 | 1.267 | -60.4076 | 2026-02-18 01:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 41.4 |
+| 8ec2ee32-7162-3005-9dd5-4a5e61a37901 | 2.6905 | -60.2211 | 2026-02-18 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 72.8 |
+| ff426556-e357-36be-b024-3cb1b8b24ba6 | -18.80302 | -51.61095 | 2026-02-18 01:04:00 | TERRA_M-M | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 8.4 |
+| b955c93d-793d-35bf-bb3d-67015ea6668d | -18.81545 | -51.60876 | 2026-02-18 01:04:00 | TERRA_M-M | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 25.1 |
+| bf4aaaf5-2066-38ae-a4cd-13cd6fd3a40f | -18.81047 | -51.59481 | 2026-02-18 01:04:00 | TERRA_M-M | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 43e14444-dd63-3c80-b41a-504a3b899da2 | -18.81382 | -51.6145 | 2026-02-18 01:04:00 | TERRA_M-M | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 25.2 |
+| cf8aa97e-a4ac-35a3-b330-187e87bd6cc9 | -12.2073 | -57.78654 | 2026-02-18 01:04:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| b3d03443-5ab7-33dc-b6a4-31b3cbc9bc72 | -12.20869 | -57.79625 | 2026-02-18 01:04:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 10.0 |
+| cc7011eb-b5bf-3ced-b44b-c9681dc61f64 | 2.67258 | -60.13983 | 2026-02-18 01:09:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 8cfa42be-d49b-38a2-b497-9c737a7a3aeb | 4.05702 | -61.1434 | 2026-02-18 01:09:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 8.2 |
+| 0b1424c6-d5da-34c0-8527-adc2a7758530 | 1.36915 | -60.0638 | 2026-02-18 01:09:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| 9dff2d3a-b717-363c-adbb-1304f90cb864 | 2.68069 | -60.15142 | 2026-02-18 01:09:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 34.3 |
+| 76ee32b2-8518-3bd9-a23c-5a2911b87149 | 3.99458 | -59.80874 | 2026-02-18 01:09:00 | TERRA_M-M | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| 3423b742-d8c2-3c0e-b85e-3747a43c0c04 | 2.91221 | -60.82709 | 2026-02-18 01:09:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 19.3 |
+| d3b2c376-bbbd-326b-b823-4a8b37c6ef81 | 4.08484 | -60.65991 | 2026-02-18 01:09:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| b208a910-22f3-31aa-9ce4-a34dae98938c | 1.80983 | -60.46329 | 2026-02-18 01:09:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 4.7 |
+| d26774b4-ddcc-3a65-93f4-eae77033066e | 2.93057 | -60.82975 | 2026-02-18 01:09:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 0a3bd16c-193b-3b9a-b0e7-e91966440af8 | 2.92925 | -60.83924 | 2026-02-18 01:09:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 28.3 |
+| fc293598-dc39-38cd-aa80-b104ef0b5c40 | 1.27377 | -60.41121 | 2026-02-18 01:09:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 35.9 |
+| bf06538f-88fd-3de4-877b-a909a1d39c58 | 4.01499 | -60.31594 | 2026-02-18 01:09:00 | TERRA_M-M | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 7.0 |
+| a9928e91-4ded-3e28-a12f-c44889f88038 | 2.68325 | -60.20386 | 2026-02-18 01:09:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 8.1 |
+| a883f48c-86ad-3bac-a911-c20329c14434 | 0.82341 | -60.33789 | 2026-02-18 01:09:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 4.8 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
