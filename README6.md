@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 83a91755-ad5c-3041-8e3e-6adf9e9fb043 | 0.45746 | -60.40526 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| e9f45750-5684-3e42-a752-9063b37c527d | 2.53937 | -60.72201 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 8aefdff2-4991-3c28-af35-3a023cfd025b | 1.15416 | -60.33033 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| d9a2dfeb-e8df-39ed-bc0e-de7c80b88784 | 2.56303 | -60.56467 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| 5cbde98c-98bf-33ea-a7ca-de6c0050669a | 2.559 | -60.56147 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| 0ed6a387-ae03-3910-bb29-c00dfd761b13 | 0.45408 | -60.40578 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| b11591a4-9435-326f-b52f-7ef4b681d58a | 2.54689 | -60.7247 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| dea9b510-231f-3208-8868-8d42d65bdba7 | 2.53591 | -60.72254 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 4bb97d5b-f4ce-3ce7-b5cd-7b8b4d14f37a | 1.36681 | -60.37164 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d143159e-89b4-338b-93de-cacaf7e6075b | 0.98072 | -60.42718 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 6b46648c-49db-3c12-9c95-b0a9f678d90c | 1.12881 | -60.52296 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d5d6ba96-110f-32c8-b473-0f02e4282ca5 | 0.46309 | -60.39705 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 72fa0da5-f579-3d2d-b74d-94571b538e71 | 1.15586 | -60.34111 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3249bc3d-bcac-3e61-a9a3-91a251a8dba1 | 1.27492 | -60.40767 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| d7a313a6-fc9d-3a97-8e8c-cc1704f0d9ad | 2.55842 | -60.55775 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 0f3a57b4-04a9-3ea4-9855-04bc809fc4f8 | 0.44958 | -60.39916 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 57e78e37-a94e-332d-af33-ed6ccdf3bf48 | 2.55498 | -60.55827 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 931fbfa8-e764-3981-8e3d-39c9b2132ed3 | 0.4507 | -60.40631 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 65556be1-5f61-339d-9008-79abb4bfd9fe | 0.96123 | -60.23926 | 2026-02-20 05:27:00 | NPP-375D | SÃO LUIZ | RORAIMA | Brasil | 1400605 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| bcd86a0d-ddab-3d23-943e-e3811fc47b98 | 0.4569 | -60.40168 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| b010c96a-d215-378a-a87a-6db5c0c3f13b | 1.82848 | -60.84816 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 07787d3f-82ac-3f86-af39-7c8ddf0e5516 | 2.55958 | -60.5652 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| bf6be402-3a72-3b64-ade9-e08cc700e397 | 1.37747 | -60.30722 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 9c85fdbd-41d3-39b5-8171-4190d3e90649 | 2.55614 | -60.56573 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 36.0 |
-| b85427c6-4d80-3cf1-8657-f56142d15a26 | 0.45971 | -60.39758 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| e8c1e91c-592e-3fc3-96c5-4114c5d25a39 | 2.55556 | -60.562 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 36.0 |
-| 25d8a8ae-c648-3a92-89e8-9ca60f7fedf8 | 1.37465 | -60.31135 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| e556e174-b16a-3eeb-a479-bc8ee7a491ad | 0.46365 | -60.40063 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 73da729b-3abd-3b97-981c-f6799aa1fc34 | 1.3769 | -60.30362 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8f98806f-95c5-3d17-abda-7b327664b203 | 2.54343 | -60.72525 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| bb631a85-69fc-30d7-9d69-ad5f34ea581f | 1.73551 | -60.5836 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 1a9d3cc0-09d9-392b-acbb-33f54d727edb | 2.56245 | -60.56094 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| 48f48834-2992-364c-abb2-4fcb82f0414d | 1.38029 | -60.3031 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e512b3c1-8eda-3600-9629-a983c6b12183 | 1.37861 | -60.31441 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 970fc864-b550-3a9b-baf2-088ca361ee16 | 0.44997 | -60.40611 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 79b8f0e4-cece-3b11-ba31-c3c9322f9112 | 0.45634 | -60.3981 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ceec2610-f804-3a52-8906-2c6c5985854d | 1.15472 | -60.33392 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| cefcf057-bcf9-3632-a483-f909890bc7ce | 0.46028 | -60.40115 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| f4dfe961-dcd1-3f21-86a7-eb17f813c1ff | 1.15529 | -60.33752 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 6433cf57-9fa7-373b-b0e0-1571caf33c04 | 1.82502 | -60.84869 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| 3cb77f28-a033-36b9-87dc-6dd8e536d912 | 1.2755 | -60.41128 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| bcfe6b57-4a14-3085-a4d3-ec25f00e97bb | 1.3702 | -60.37112 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fc3ca037-2737-345b-bd2d-fcdf050512ed | 1.37184 | -60.31548 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 531e5aaf-507a-35ba-9624-169a5be96882 | 1.8279 | -60.8444 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| 2c9443fd-ac24-3ed2-9b26-5ea4590468e9 | 1.37522 | -60.31494 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| ec5de4e0-f5f8-3f51-83ed-0903de3e778b | 1.17114 | -60.37188 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 928e3753-de40-3f5c-847b-5108a426af16 | 1.17453 | -60.37135 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 0f9a96ab-357b-3f58-8839-f47c876ea954 | 1.83136 | -60.84386 | 2026-02-20 05:27:00 | NPP-375D | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 16cacb0d-8d98-34f2-a7a1-34b4c99b0259 | 2.54283 | -60.72147 | 2026-02-20 05:27:00 | NPP-375D | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| b9839f19-0be6-3cc9-a337-262661b2090d | 0.45352 | -60.4022 | 2026-02-20 05:27:00 | NPP-375D | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 5f39f6b8-af10-3d4a-804a-a456f428f04d | -11.84646 | -49.22695 | 2026-02-20 05:29:00 | NPP-375D | CARIRI DO TOCANTINS | TOCANTINS | Brasil | 1703867 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 53f74f6e-6e2c-33c8-9d10-f2d12a3ea68f | -10.67469 | -59.3505 | 2026-02-20 05:29:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 917bd7f6-3faa-3662-94e4-edc4fa15ff8e | -9.72196 | -60.20209 | 2026-02-20 05:29:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 024bc2e9-7172-3e99-82b1-182741e32db9 | -10.67006 | -59.35764 | 2026-02-20 05:29:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| b65f47b6-4f4a-3111-8677-ca2493640724 | -10.67354 | -59.35818 | 2026-02-20 05:29:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4546e8e6-6466-3d07-8624-bc50f240a1b2 | -11.84712 | -49.22125 | 2026-02-20 05:29:00 | NPP-375D | CARIRI DO TOCANTINS | TOCANTINS | Brasil | 1703867 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 6cf778e2-7e95-359e-99a8-a3c898664a71 | -10.67817 | -59.35103 | 2026-02-20 05:29:00 | NPP-375D | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 662a8916-5e14-3e7c-a2de-07a195f009ae | 2.5621 | -60.5458 | 2026-02-20 05:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| 84556c69-5e8e-30cc-b4cf-ce026c8de165 | 2.562 | -60.5648 | 2026-02-20 05:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| c4fb45e1-b455-3477-a2ab-4e377a1ab5b1 | -18.97721 | -52.92934 | 2026-02-20 05:31:00 | NPP-375D | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 77bdce48-9991-3926-b77d-6283e6272eec | -18.97144 | -52.92878 | 2026-02-20 05:31:00 | NPP-375D | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| de503477-f8a8-3db6-939d-488901690f88 | -18.97187 | -52.92449 | 2026-02-20 05:31:00 | NPP-375D | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 692ea024-0fe9-3ba7-9563-090138da6735 | -9.77301 | -71.49113 | 2026-02-20 05:31:00 | NPP-375D | FEIJÓ | ACRE | Brasil | 1200302 | 12 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| a24e6d08-289d-3546-890a-a5228b44576e | -13.49124 | -60.38368 | 2026-02-20 05:31:00 | NPP-375D | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e407e6f7-58ce-3e30-8c94-7ac08ba3bfe0 | -11.83609 | -58.04605 | 2026-02-20 05:31:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 6b0bcf7a-a036-3bab-a169-28e566ab947d | 2.562 | -60.5648 | 2026-02-20 05:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 87.5 |
-| 4b134e97-67f1-32bd-b582-22f435f0c19d | 4.87213 | -60.20829 | 2026-02-20 05:46:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 88ac1440-776b-3364-9b21-eeee04143ce6 | 4.97482 | -60.52191 | 2026-02-20 05:46:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 488121d7-b4dd-33cc-8b71-f20859fe210d | 1.82923 | -60.84953 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 76e8a152-94d9-3de2-a15a-3e4a5dec442e | 1.37858 | -60.3092 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e5c0dc2b-a452-3ffc-8c08-a20b00ac2b89 | 1.37166 | -60.31742 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 323da86b-073e-37b0-a42f-1bba3d9d5d67 | 1.82848 | -60.84473 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 24865598-83f1-31bd-99c2-d8936b7ff3c9 | 1.37512 | -60.31332 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 8316839d-32b0-3291-a102-6caa253e7a7c | 1.9786 | -60.69825 | 2026-02-20 05:48:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 8d1b70f9-565e-3efd-921b-04f33a8737b8 | 1.30887 | -60.39888 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| dc44e649-f481-37a1-8165-9b7c549e2d87 | 1.15382 | -60.33678 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7abca7b5-9048-368e-a4d0-c3aad7a9e188 | 0.4526 | -60.40727 | 2026-02-20 05:48:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 832b3503-0766-3d74-8296-286e76c90f16 | 1.15673 | -60.32915 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 16a24cc8-edfa-3641-b9a3-793de4244844 | 1.37457 | -60.30983 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 5940b631-2023-31c5-8e21-2f30da226577 | 1.15784 | -60.33615 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| e5b26413-2977-39b7-9e15-312ac5d4fc0b | 1.1584 | -60.33965 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 02533405-86a6-34de-a25b-a02c5fa1804a | 1.15271 | -60.32979 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 68da64ef-ce0d-3aac-82bb-65067adb7281 | 1.17198 | -60.37336 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| e36b9ef7-bb54-3a62-94ea-307e2963c0dd | 1.37568 | -60.3168 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| b618f81a-57b4-3fee-b134-ff7a09d449a8 | 1.37914 | -60.31269 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 91051d3b-a708-3ef7-9569-087e313c303d | 1.13028 | -60.52132 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 1f5af19a-57fe-3608-8120-f33d43989149 | 0.98446 | -60.42831 | 2026-02-20 05:48:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1d150a41-e1d0-3752-bd99-83eabfd9b59c | 1.15327 | -60.33328 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 7a609ce2-d364-3d5a-9c84-434a0f2f8016 | 1.06187 | -60.56848 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 83da97ed-f890-3950-947b-a5264881f53f | 1.15729 | -60.33265 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 452ed5e3-3048-3dcc-97a3-3ac50b6735e7 | 1.82622 | -60.84324 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 221aaf98-da23-345b-bdb2-af0d50976cd9 | 1.37803 | -60.30571 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| ac7c913f-608f-360b-841b-bfe3108f45cf | 1.827 | -60.84803 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| c635f029-44cd-35e8-b48c-943c00e2ea1a | 1.36797 | -60.37142 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 01e051b7-e015-3d22-9ad3-871d3df60d94 | 1.54219 | -60.38557 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 45f30bd9-694b-3692-8886-36af072a4ce1 | 1.83007 | -60.84263 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| b61cf5c4-d0c5-3e46-9fa1-830da11f6095 | 1.37252 | -60.37423 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 45936e51-2f7a-394e-be54-6cc4cee5b807 | 1.37969 | -60.31617 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| efcc3677-4b3a-397d-b026-cd4f0f76164a | 1.36853 | -60.37488 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| b0451438-62d8-36d0-b243-e6a36997a624 | 1.73538 | -60.58405 | 2026-02-20 05:48:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 79635a86-41d5-3363-9b4c-aabad3fbc039 | 4.07654 | -61.15519 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| e9026477-7e00-3e4a-b64f-febe39179ac9 | 2.55038 | -60.56717 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| ddd2c9af-c7ff-3f96-9da9-07d07f4a7495 | 3.09714 | -60.37221 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 2a245da9-ede4-390f-a538-e41389eb579d | 2.6874 | -60.24995 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 485067a0-4a8a-3aa9-a7fc-651d2c8decb9 | 2.70611 | -60.23999 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| 5550f68a-4ae0-3733-9329-f344f34f1f56 | 1.93698 | -60.36524 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 7a5c7c7d-1353-3d38-a3d0-b5d2f83927a6 | 3.08179 | -60.10388 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 91c66f1d-6ab5-31eb-8190-aa8164644b4a | 4.07057 | -60.14475 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 0d75f630-e939-375a-83b3-097dec846177 | 3.77671 | -60.02533 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5cc78bf6-5b5a-3a06-a028-d3e4037071f9 | 4.16078 | -60.93286 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 27cbeb80-ac06-37a1-8e14-084abd7d9f89 | 3.08125 | -60.10045 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| bb6a2bdf-59df-377d-9629-d1b23b2d4490 | 1.94137 | -60.37158 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 2f3d5bb4-86f5-3604-818a-746e5232f191 | 3.07465 | -60.10149 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 98af39fb-efd0-3bac-a32a-38be3ae0d116 | 2.5625 | -60.55823 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 13c4a9b2-548e-36d8-9f0c-f71bae3acb80 | 1.94028 | -60.36472 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| ebc03b26-0e07-3ab0-91c9-33dd5a7fc46c | 1.93752 | -60.36867 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 0d8e461b-48a5-35d5-9de5-a05a832e173a | 2.55324 | -60.73588 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| 73796382-5a0f-3897-b1ff-324de4060b10 | 2.56304 | -60.56167 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 04df33b0-3496-3ae9-a8e6-89879026141f | 2.55601 | -60.73192 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 10.5 |
+| 3d270c9e-2816-3afe-ae3e-6d1db62a0d1b | 4.05935 | -61.08909 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 9a76d685-e1c7-38ff-bbcb-b1323ef4a682 | 4.02664 | -60.12346 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 77230c83-3de8-31e9-8f2f-876f61600397 | 2.69129 | -60.23177 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| e3302d91-2885-3e9f-8e23-c02b331cf7a7 | 4.06379 | -61.09562 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 0e4945ee-2318-3447-af4a-9b6235cd7aef | 3.47736 | -60.75702 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 4571458d-7762-3d25-9518-994f1f7117fc | 4.27131 | -59.77845 | 2026-02-21 05:29:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| b1c55e48-82f0-388b-be3d-5afbc23fa8ed | 3.60678 | -61.42796 | 2026-02-21 05:29:00 | NOAA-20 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 61a91540-d109-37d0-867b-9ddcf6aa9045 | 2.69405 | -60.22783 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| a13816bd-5585-309c-b1ad-49483f25c193 | 3.47627 | -60.75008 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 5aaa92ca-6854-3378-8fd6-182c9a7c55ad | 4.82611 | -60.19446 | 2026-02-21 05:29:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 6b4d0e9c-e111-39e2-8cf2-6cdcf895954a | 2.70557 | -60.23656 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| 9e9c4697-3d25-3629-9688-decc5f4df979 | 2.5658 | -60.55771 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 0f30308d-d938-39a9-b267-75b665aac201 | 2.5559 | -60.55927 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 1f1c8606-600a-3222-bfc4-5820115a757e | 4.0671 | -61.11674 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 7bbd8459-c235-3bfa-a4aa-3df014a745f6 | 3.92297 | -59.96363 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8240b210-5c85-3942-bedf-44a8c1d79b77 | 4.14601 | -60.29855 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| d91d3d62-4dfd-3001-8745-43a8cab485a6 | 3.19319 | -60.65646 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 7e91f59b-2d59-3697-ac69-b0e8f8a51c90 | 2.70281 | -60.24051 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| fbec8a1a-6e37-3ba5-9007-7d9b58028745 | 2.6902 | -60.22492 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| db335d2b-25af-3a31-81f7-d6a4f7d6e01e | 3.48009 | -60.77437 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 0e260093-ddbc-328a-810a-552b6eece3ba | 4.16476 | -60.87132 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 55271069-a4b7-36bc-9d3f-fd031cfe1e63 | 2.99544 | -61.12843 | 2026-02-21 05:29:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 56ed7256-59c4-359f-8064-6a903d5d1888 | 3.97446 | -60.56923 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 6a8b0a96-8644-3107-b282-b7e9190f4be2 | 3.08455 | -60.09994 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 426a565c-a77d-3f7f-b06c-faf8e4286f65 | 2.54885 | -60.7295 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 43fe62a5-f400-3939-83a9-bbfd60f093c9 | 2.65686 | -60.12513 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 8aa0ddcb-1bcb-3baf-99ab-ed77f4b1951e | 4.1499 | -60.28024 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1bdcd7e1-6ffe-3029-a25d-8e855531c7b1 | 2.70227 | -60.23708 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 63069152-af5c-3544-b8d6-9e14a59c577a | 3.45747 | -60.76011 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 85009174-e2a6-329f-ae61-78473a4dde9b | 3.68946 | -61.15415 | 2026-02-21 05:29:00 | NOAA-20 | AMAJARI | RORAIMA | Brasil | 1400027 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| bc1da5f0-2c96-3eab-8249-cf3e842ce13f | 4.26801 | -59.77897 | 2026-02-21 05:29:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 8a6308cd-6404-34ba-bec1-13a475421a71 | 4.0699 | -61.11274 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 6a566b82-0dfa-3a3c-82be-bcd89a3e0843 | 1.97966 | -60.69939 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| d2b4d3d1-192a-3758-9672-1762431bbc8e | 3.0714 | -60.08091 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b4b8b2a7-7ff6-33ab-96d4-dc5c8fd4a68e | 3.084 | -60.0965 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 1ef39df3-bc50-3c7d-a9f8-df64caff4368 | 2.68745 | -60.22886 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 7.6 |
+| a84f5a17-0ca1-390c-b1c4-13d4faac54c1 | 4.16421 | -60.86781 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 94e42e96-0d17-32bb-9553-3e62cbc1f283 | 2.55314 | -60.56321 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| ec5d9f0b-f4bf-3757-8ce3-eb3b21e11661 | 2.70833 | -60.23262 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| d314416b-0571-3a7f-85c1-257351f6924f | 2.67875 | -60.41338 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| d20c7ce8-9f35-311f-975d-292f3d855ac7 | 2.69296 | -60.22097 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a48683af-f28d-3610-bd33-4420c0ecc9af | 2.68966 | -60.22149 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 747cf064-82c4-331d-8fac-b9fda9377b16 | 3.09384 | -60.37273 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 4d3c4d11-a156-3798-aade-6197d2b9c1b6 | 1.94509 | -60.37087 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| c4399c35-4f0a-3b39-b518-50899976b18b | 3.47572 | -60.74661 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 35d25eb3-f4d1-3af4-af5a-ccc5039c74e4 | 2.55986 | -60.73484 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 78f5782b-b961-3257-8fa7-1296dcce7fca | 2.6935 | -60.2244 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 207dff66-aa2d-3aa9-9e19-c0ff5e5c30d9 | 1.94455 | -60.36745 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| 72c14606-b011-3cfb-a126-ba8289f15dcc | 2.76758 | -60.28661 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2bb4a1ae-23c0-31e5-a762-7e8c0abfe20f | 4.16753 | -60.86726 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| ac2e0d57-1272-31bb-be62-3f47fe11af04 | 2.70503 | -60.23313 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 046997f5-ee78-3c5b-ab3b-bf7aceca414c | 2.89377 | -60.59048 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 29909412-8a13-3351-8697-9f5a2fad41d0 | 2.87725 | -60.59307 | 2026-02-21 05:29:00 | NOAA-20 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 91bf718b-d44b-33db-8160-597caf7de1d1 | 4.06765 | -61.12024 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| be6d6691-644f-32cc-8b92-f8b5e1c912b9 | 2.68151 | -60.40944 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 2b47ee27-234c-374f-a558-050740be47a2 | 4.15536 | -60.85489 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| e6657a94-89f2-3c07-a0c3-a610e01fdeff | 2.65631 | -60.12172 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| e65175a7-89e5-3c21-91c2-ba46c574b583 | 2.28716 | -60.51716 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| a6494ca2-d0bc-345d-8b41-01e513ef7f07 | 4.16588 | -60.85674 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 171d5e6c-64c8-3bf3-8566-d62bb3f46297 | 2.68794 | -60.25338 | 2026-02-21 05:29:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| f2165283-5eb5-3abe-8d7f-fd50a37960e6 | 3.92681 | -59.96655 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| b12e4ae7-3278-3b04-a3c0-d4f593593609 | 2.67821 | -60.40995 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| aeadb11f-83b1-30b5-b593-f8173d4a66ee | 4.07044 | -61.11624 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 151e34d4-809a-3435-abad-181321e3343b | 2.55974 | -60.56218 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 81c6677e-8778-3369-ba6d-2eacf30e19af | 1.94082 | -60.36815 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| fdb78ce8-aee8-3e3b-89a3-d8722e2d21ce | 4.16643 | -60.86026 | 2026-02-21 05:29:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| c93d252b-840c-3584-bcfb-f65ba68b3d4d | 2.54983 | -60.56373 | 2026-02-21 05:29:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d3d8ce22-ed0b-3279-91e2-6c029f1e3464 | 3.78001 | -60.02481 | 2026-02-21 05:29:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 5c857bc1-1d0a-3441-8a0e-aed3b46c4a76 | 2.5149 | -60.99 | 2026-02-21 05:29:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 90c4d6e9-bb5a-3dfa-b176-867963abcc8f | 2.7088 | -60.2398 | 2026-02-21 05:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 46.5 |
+| cf1d1f91-27e1-3afa-a6c2-4a1b470ee54c | 1.0547 | -59.49393 | 2026-02-21 05:31:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e0a8e67a-ddcc-35cf-acd9-fc70acbb8d17 | 0.45054 | -60.39879 | 2026-02-21 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 23372765-e359-3ddd-926f-771138ecd7bc | 1.83239 | -60.84194 | 2026-02-21 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| a5709715-bcc7-3052-b68d-eed16c056768 | 0.45715 | -60.39776 | 2026-02-21 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 46f6112d-367a-3c5b-9a31-4e8bd31b4f0b | 1.44496 | -59.96035 | 2026-02-21 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 48601e58-deee-383c-94af-c86e3d63c6e3 | 0.0691 | -60.65205 | 2026-02-21 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 5de2c756-0fe2-3258-ba53-89223988d114 | 1.4415 | -59.96098 | 2026-02-21 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 4168ab8d-3f9e-3499-9879-dd326bc616bd | 1.44827 | -59.95984 | 2026-02-21 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 389adc4d-f246-3715-9d3a-f94b9f80078c | 0.45661 | -60.39432 | 2026-02-21 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| b9bf4e57-eaf1-3dd8-800d-cb86ca30f639 | 0.45385 | -60.39827 | 2026-02-21 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a800033b-1c00-30a2-bd61-37ad34fbcaef | 0.4533 | -60.39483 | 2026-02-21 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)

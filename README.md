@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 42684355-80ff-311e-8c01-0ec5da632bda | 0.4466 | -60.3925 | 2026-02-20 00:00:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 93.8 |
-| 8e97ed47-2d33-3a24-8081-ea1bff92a883 | -20.9488 | -48.6387 | 2026-02-20 00:00:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 68.0 |
-| 22cdbf44-b440-3113-90a3-c531cca176d9 | 0.4466 | -60.4115 | 2026-02-20 00:00:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 71.4 |
-| a8e1fc92-404b-3638-8bfc-6dc12b2e2138 | -20.9482 | -48.662 | 2026-02-20 00:00:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 86.5 |
-| e7082d5e-b58e-3098-8096-a7d3880a00a2 | 2.5434 | -60.7357 | 2026-02-20 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.6 |
-| a9376652-7581-389a-8fe5-acad3a8c0284 | 2.5252 | -60.7359 | 2026-02-20 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 54.3 |
-| dd48973d-d7f7-3c61-b14a-dc06f4a21b8a | -20.9282 | -48.6434 | 2026-02-20 00:00:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 67.4 |
-| 60f30d56-8687-371a-a6f3-5cb50c877592 | 1.3765 | -60.3119 | 2026-02-20 00:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.3 |
-| fdc49aa1-dd72-3f9a-9214-c57b9336ece1 | 2.5435 | -60.7167 | 2026-02-20 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 97.4 |
-| 75f79ab6-4b4f-37d9-b920-82ceae9a3990 | 0.4648 | -60.3925 | 2026-02-20 00:00:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 116.9 |
-| c0f0b1c8-c1ef-3e36-8d47-626b350d4b24 | 2.5252 | -60.717 | 2026-02-20 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 74.7 |
-| fb637d74-7d19-3f11-8928-d7b70de8455f | 0.4648 | -60.4114 | 2026-02-20 00:00:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 72.0 |
-| 299fac14-4de0-34f9-9641-4356ef1fbfee | -20.9276 | -48.6667 | 2026-02-20 00:00:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 84.7 |
-| 14fe7a32-6d93-3049-ae15-2b1a09ee8835 | -7.0097 | -34.9921 | 2026-02-20 00:06:00 | METOP-C | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 0d6743f5-a8c2-3a4a-bcbd-37aaf796b325 | -7.0124 | -35.003201 | 2026-02-20 00:06:00 | METOP-C | SANTA RITA | PARAÍBA | Brasil | 2513703 | 25 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 682d82ae-2f86-3153-b4de-f3edc651931a | 0.4648 | -60.3925 | 2026-02-20 00:10:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 106.6 |
-| 1131b3ef-766b-386f-8e69-159365f5dfc4 | -20.9282 | -48.6434 | 2026-02-20 00:10:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 68.1 |
-| ae2aeab7-8e41-30bc-9292-89d53fe6c124 | -20.9482 | -48.662 | 2026-02-20 00:10:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 91.2 |
-| 1fd7062f-d194-38df-a0c3-5ce44f2ebfbb | -20.9276 | -48.6667 | 2026-02-20 00:10:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 87.7 |
-| daf1e3e4-becd-338c-b098-2b3eb5a56130 | -20.9488 | -48.6387 | 2026-02-20 00:10:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 67.0 |
-| ed57e57e-54a9-3446-a1bc-1798b9a5e97d | 1.3765 | -60.3119 | 2026-02-20 00:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 65.4 |
-| 89a798e9-ab35-37be-b7d6-0ae172670480 | 0.4648 | -60.4114 | 2026-02-20 00:10:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 1ea56136-a6d8-3b5e-b5a1-2ea87e747529 | 0.4466 | -60.3925 | 2026-02-20 00:10:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 81.6 |
-| cfbc9127-0f2d-3055-a55a-c867a884a1c8 | 0.4466 | -60.4115 | 2026-02-20 00:10:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 63.2 |
-| 0fa897be-0443-321e-856a-d1ed1e3d9da9 | 2.5434 | -60.7357 | 2026-02-20 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 71.5 |
-| b66a99b1-caff-3a20-8299-6145a22e1e9d | -20.9276 | -48.6667 | 2026-02-20 00:20:00 | GOES-19 | MONTE AZUL PAULISTA | SÃO PAULO | Brasil | 3531506 | 35 | 33 | nan | nan | nan | Mata Atlântica | 71.7 |
-| 82798a6f-b6dc-31c2-a049-b1969d3cf135 | 2.5252 | -60.717 | 2026-02-20 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 55.5 |
-| 3e9e4956-805a-3cc6-bdbb-537267c661a7 | 2.562 | -60.5648 | 2026-02-20 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 64.9 |
-| db30f836-d189-3d74-ab59-eda74aa81442 | 0.4648 | -60.4114 | 2026-02-20 00:20:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 79.9 |
-| 7914f9b9-902a-3e28-ac78-515dee690a54 | 0.4648 | -60.3925 | 2026-02-20 00:20:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 101.8 |
-| 8de1364d-9492-323c-82b5-16f6d51f499f | 0.4466 | -60.4115 | 2026-02-20 00:20:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 60.0 |
-| 91a1eb83-09b5-30d6-8527-f9cc7026d535 | 2.5435 | -60.7167 | 2026-02-20 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 93.6 |
-| 4db708b5-6a89-3f8b-9512-60cf766ffff8 | 0.4466 | -60.3925 | 2026-02-20 00:20:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 67.9 |
-| 37cf5f0e-a02e-3455-b63a-ba4b6ce787d5 | 2.5252 | -60.7359 | 2026-02-20 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 36.2 |
-| fb77b83f-88bd-3fed-a957-adaf1e9297d6 | 2.5252 | -60.717 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 180.8 |
-| 4eb2ce77-8687-3e8c-ba8d-120598efbddb | 0.4466 | -60.4115 | 2026-02-20 00:30:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 59.1 |
-| cb35b878-8ad6-3175-8f09-d47913e1093f | 0.4648 | -60.3925 | 2026-02-20 00:30:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 108.1 |
-| edcbf160-d7b8-3e80-817d-230e67463a5d | 2.5617 | -60.7354 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 60.8 |
-| 8a7c3be9-7ed0-3aed-990c-8651bd243756 | 2.5435 | -60.7167 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 338.7 |
-| cf540503-c155-33ba-9029-65ea3257a705 | 2.562 | -60.5648 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 142.6 |
-| a3fe93e3-c412-3df5-9b0f-9f12b8b355d8 | 2.5252 | -60.7359 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 115.5 |
-| d3adb493-7bf1-34d8-af0c-11d7bdc666cb | 2.5621 | -60.5458 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 71.0 |
-| 2785b46e-f194-3ae4-be77-84d6b21343d7 | 2.5617 | -60.7165 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 85.5 |
-| 93d7c6e2-e96b-3406-8c64-5e478a959625 | 0.4648 | -60.4114 | 2026-02-20 00:30:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 69.7 |
-| e2850f13-c636-31d5-aabf-3c101f6d7faf | 2.5434 | -60.7357 | 2026-02-20 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 209.5 |
-| c5508681-1e37-385c-865a-90edd7092165 | 0.4466 | -60.3925 | 2026-02-20 00:30:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 73.0 |
-| ad0ff752-bc23-3eab-a5c8-a3ed17307095 | 2.5621 | -60.5458 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 74.6 |
-| 286f8b97-9a94-34c3-b601-7ecf5c63f65c | 2.5434 | -60.7357 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 142.2 |
-| 13bdb0f6-3d79-3aff-b281-71e5e0927f8c | 2.5252 | -60.7359 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 68.6 |
-| ebbcc803-fee9-3ccc-8244-a744937ed10e | 2.5438 | -60.5651 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 88.3 |
-| bfab3446-225c-367c-a034-a8dee4ff660b | 0.4648 | -60.4114 | 2026-02-20 00:40:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 62.1 |
-| 4c7270de-a1b6-39ca-b108-b3faf0a6b431 | 0.4648 | -60.3925 | 2026-02-20 00:40:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 103.2 |
-| 3ffc0cd6-96b3-3d8a-9a08-2354e1af3d6c | 2.5435 | -60.7167 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 266.2 |
-| 71f8a81e-f06e-3c04-b733-0f62d847ffcd | 2.5252 | -60.717 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 113.9 |
-| b902c80d-8788-3e15-8a64-c008d08390af | 2.562 | -60.5648 | 2026-02-20 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 153.9 |
-| 6fcd5a21-bf40-3d62-953b-c918dc4a3061 | 0.4466 | -60.3925 | 2026-02-20 00:40:00 | GOES-19 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 83.2 |
-| 9efa8243-5557-36dd-9a92-00aff8d957d0 | -22.02462 | -49.49813 | 2026-02-20 00:41:00 | TERRA_M-M | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 8.9 |
-| 306480a3-463c-3975-a898-4b0b96fdd6f0 | -22.93417 | -48.68425 | 2026-02-20 00:41:00 | TERRA_M-M | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 1e7526cb-3dd6-3e24-a530-ef7e73a7e9d8 | -21.88893 | -52.95949 | 2026-02-20 00:41:00 | TERRA_M-M | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 10d3f304-ff55-396c-87f2-e7eed275874a | -22.02635 | -49.50937 | 2026-02-20 00:41:00 | TERRA_M-M | PIRAJUÍ | SÃO PAULO | Brasil | 3538907 | 35 | 33 | nan | nan | nan | Mata Atlântica | 12.8 |
-| 08abd071-e6a6-3309-8a3b-9a2a31062f15 | -21.63704 | -48.98318 | 2026-02-20 00:41:00 | TERRA_M-M | BORBOREMA | SÃO PAULO | Brasil | 3507407 | 35 | 33 | nan | nan | nan | Cerrado | 14.9 |
-| 6e9cc0f6-4149-3bca-9aab-84537d87856f | -22.93217 | -48.67198 | 2026-02-20 00:41:00 | TERRA_M-M | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 5548f593-d463-3e36-96ff-b874267b965c | -18.97489 | -52.92116 | 2026-02-20 00:43:00 | TERRA_M-M | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 6882c8f7-5352-3658-ab1e-9e9ee821cc64 | -18.97618 | -52.93046 | 2026-02-20 00:43:00 | TERRA_M-M | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 18.7 |
-| 4f70a9fa-67d3-37f7-99df-54bdb18fe11a | -20.20925 | -50.74755 | 2026-02-20 00:43:00 | TERRA_M-M | ASPÁSIA | SÃO PAULO | Brasil | 3503950 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.6 |
-| e0f71314-1006-3be7-bd08-4dc90c4a6e99 | -20.2108 | -50.75783 | 2026-02-20 00:43:00 | TERRA_M-M | ASPÁSIA | SÃO PAULO | Brasil | 3503950 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| 9d93acde-f3d2-3d3e-8741-cfbea0b0ea81 | -12.41929 | -58.40162 | 2026-02-20 00:45:00 | TERRA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 415b8688-4d72-31c6-8f4e-e27dcd731cb0 | -12.30867 | -57.3612 | 2026-02-20 00:45:00 | TERRA_M-M | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 691fff9d-68e8-35e7-a3b3-d3ba42b10157 | 1.3757 | -60.30455 | 2026-02-20 00:49:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 38.4 |
-| 9ec3df14-60f7-3cc0-8fab-2a85440b5bab | 2.69269 | -60.24757 | 2026-02-20 00:49:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 12.2 |
-| b13196c4-53c3-30a8-a592-c2a9dc92d54d | 2.55675 | -60.56238 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 301.2 |
-| 2ba288dc-19fa-3b96-9c86-ee7dbee3c245 | 4.14003 | -61.09182 | 2026-02-20 00:49:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| 70519e45-16a0-3d3c-9f3f-d0239cbecd82 | 4.46053 | -60.50246 | 2026-02-20 00:49:00 | TERRA_M-M | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 8.5 |
-| 0800b159-b2dc-3a64-92bf-afcb48d39c7b | 0.45198 | -60.39981 | 2026-02-20 00:49:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 94.4 |
-| f10acfc0-9b86-3f6f-af0f-3e389d18d6d7 | 2.04628 | -60.56072 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 5.4 |
-| 82d6a287-2b34-39e0-8377-bcd2f2991a0a | 0.96611 | -60.22753 | 2026-02-20 00:49:00 | TERRA_M-M | SÃO LUIZ | RORAIMA | Brasil | 1400605 | 14 | 33 | nan | nan | nan | Amazônia | 5.5 |
-| 900c21b4-54d5-31c5-a841-e89743d5488c | 2.53343 | -60.72956 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 121.2 |
-| c08cba0c-9d8f-387c-8dab-f0e7b7ff5327 | 2.55828 | -60.55138 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| ef42ed88-e075-3003-b6b3-3bff1efc634e | 2.55482 | -60.72113 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 9.4 |
-| ff657d34-4738-3b9d-a767-89c2f1b3263c | 0.46198 | -60.40124 | 2026-02-20 00:49:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 39.2 |
-| 28665603-e291-35a3-84ba-6d5c0b5e7cfc | -1.6 | -54.00088 | 2026-02-20 00:49:00 | TERRA_M-M | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| e2a56ed8-cb69-3ea0-b300-be89235eb801 | 4.38022 | -60.62514 | 2026-02-20 00:49:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 5.3 |
-| e5e51bb7-09c0-3199-a045-8019e2528c73 | 0.96457 | -60.23881 | 2026-02-20 00:49:00 | TERRA_M-M | SÃO LUIZ | RORAIMA | Brasil | 1400605 | 14 | 33 | nan | nan | nan | Amazônia | 21.7 |
-| 39ee0434-0676-32a3-89ba-85d18550fb9b | 0.46355 | -60.38978 | 2026-02-20 00:49:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 12.8 |
-| 49317940-2ccd-3433-88df-17af9a5eb461 | 3.28888 | -61.52564 | 2026-02-20 00:49:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 13.6 |
-| 428e05a7-8b97-31bd-8e07-eb5fb618ea25 | 0.47354 | -60.39118 | 2026-02-20 00:49:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 21.2 |
-| d4fbe093-a61b-3796-86e9-db39ee4b9122 | 1.15793 | -60.32936 | 2026-02-20 00:49:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 16.7 |
-| 595becf5-cca6-31f8-b6a5-feb33680124e | 1.36065 | -60.06002 | 2026-02-20 00:49:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 124d5788-15a7-33a4-9d4e-91a712dab079 | 1.15635 | -60.34047 | 2026-02-20 00:49:00 | TERRA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 4bf713b8-1105-3c47-ac2d-64e024961f87 | 3.22379 | -61.20683 | 2026-02-20 00:49:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 7.9 |
-| fffb94e8-ccbc-3634-b60b-337b6039d071 | 0.47197 | -60.40263 | 2026-02-20 00:49:00 | TERRA_M-M | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 42.9 |
-| 7b7227cc-07d4-3391-81f2-989fd03eb984 | 3.23542 | -61.19016 | 2026-02-20 00:49:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 6.7 |
-| 5728a878-1373-3486-bce2-0612b2168773 | 2.5551 | -60.72694 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 9.2 |
-| f65b1bc3-5eb3-3b47-82a4-149d12b28b2b | 0.96729 | -60.23359 | 2026-02-20 00:49:00 | TERRA_M-M | SÃO LUIZ | RORAIMA | Brasil | 1400605 | 14 | 33 | nan | nan | nan | Amazônia | 15.5 |
-| 85d1a4ca-1dfb-30bc-8405-36950b5eefdf | 2.53186 | -60.74083 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 18.0 |
-| f6be65fd-d53b-3476-948c-f474b611ddb6 | 4.37873 | -60.63566 | 2026-02-20 00:49:00 | TERRA_M-M | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 17.2 |
-| 6cbc6438-e151-367b-bd8a-6b2a5baeee18 | 2.68603 | -60.2252 | 2026-02-20 00:49:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 18.4 |
-| f00c05e6-f08d-381e-846f-9dd6a9d1a318 | 3.22357 | -61.20053 | 2026-02-20 00:49:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| cc225fd3-2477-3ee3-b543-706c568dc2ef | 2.54179 | -60.74221 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 12.6 |
-| 14cc29b7-4495-3766-bc3a-b9d1fefbca76 | 2.56655 | -60.5638 | 2026-02-20 00:49:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 18.7 |
+| 0b089dc0-b306-3c36-8255-7c0de57d1ec0 | 2.5617 | -60.7544 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 72.0 |
+| 661d8a18-1fdb-30b0-9be1-1c24aec5769b | 2.5434 | -60.7357 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 432.7 |
+| 11f350db-e7b7-3285-b970-88de8bbd9d3c | 2.5617 | -60.7354 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 394.5 |
+| 34f58e68-2a3e-3a1a-99de-c4eb1f089a4d | 2.562 | -60.5648 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.0 |
+| d78f8540-7248-3729-ba2d-88deefbd274a | 1.3765 | -60.3119 | 2026-02-21 00:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.6 |
+| 505082a6-52a9-3f51-84c8-c2b169fa5a08 | 2.5435 | -60.7167 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 147.5 |
+| b6a1cef9-cf7e-37a5-a458-7533694061ee | 2.5617 | -60.7165 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 130.8 |
+| 529298a2-e8d3-34a2-b64b-7aef520424fb | 1.9419 | -60.3637 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.6 |
+| c5e29983-ace7-34b1-88e3-72347b036680 | 2.7088 | -60.2208 | 2026-02-21 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 74.1 |
+| 389355b9-f923-3549-a194-abce0c12b752 | 2.6905 | -60.2401 | 2026-02-21 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 114.0 |
+| feee3df9-ec50-3587-a7ca-9d0806591582 | 2.5434 | -60.7546 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 77.3 |
+| 2ee2ab24-7663-3f58-897e-2f0b9dc16a3f | 2.7088 | -60.2398 | 2026-02-21 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 107.8 |
+| 90941a07-c415-3ca2-8467-fbc6db3da1a1 | 1.9419 | -60.3827 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 45.3 |
+| 7328a0c7-457d-3df9-8681-4d8d29078075 | 2.5438 | -60.5651 | 2026-02-21 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| a948c158-cacb-3c89-a72c-33e2040ebddb | 2.6905 | -60.2211 | 2026-02-21 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 100.4 |
+| 89e57b44-49eb-312a-91bb-8019d2986e0b | 2.5617 | -60.7544 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 100.0 |
+| 01ba9d2c-243d-3b0c-a3d4-213df1762bae | 2.6905 | -60.2401 | 2026-02-21 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 97.8 |
+| a492a087-f32e-3a86-bf0d-3901c1549dc1 | 2.5435 | -60.7167 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 115.1 |
+| 9217b008-ddcc-370a-917d-1640ad6af8e6 | 1.9419 | -60.3637 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 61.8 |
+| 137df6ff-d0fc-3e1f-8f39-37286d895a87 | 2.562 | -60.5648 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 69.4 |
+| 2b4671e0-12e6-3e9a-86ed-4ca3fc21aa5c | 2.7088 | -60.2398 | 2026-02-21 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 118.0 |
+| 2755c838-5782-3319-a68e-f57ebe3e2423 | 2.5617 | -60.7165 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 127.3 |
+| 5749d966-9801-3641-9ad5-af0d39d3ae03 | 2.5434 | -60.7546 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 89.1 |
+| 668c1063-09c0-35a2-9de0-c4e1b77e377a | 2.7088 | -60.2208 | 2026-02-21 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 78.2 |
+| f54524cf-d3cd-34a1-ae88-d1f6ee8d6028 | 2.6905 | -60.2211 | 2026-02-21 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 91.4 |
+| 5dd7713b-115c-38bb-87dd-b762401f1da9 | 2.5617 | -60.7354 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 491.0 |
+| 9735189e-b9b0-37e3-90e3-ca77c14ad1b5 | 2.5434 | -60.7357 | 2026-02-21 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 420.7 |
+| 4c77075e-f290-3012-a48f-6bcbb80afb7a | 2.6905 | -60.2591 | 2026-02-21 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 34.6 |
+| cea56c13-8e2f-3296-818d-831c6fcbe1f9 | 1.9419 | -60.3637 | 2026-02-21 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.6 |
+| 997e9eb9-e7f4-3808-9878-3433de316de7 | 2.6905 | -60.2211 | 2026-02-21 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 83.9 |
+| ec11f211-ba5c-3214-b16f-e8824d0416b9 | 2.7088 | -60.2208 | 2026-02-21 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 79.1 |
+| 47ccb8b6-36e0-3c72-8cf4-85ec3fcc26e1 | 2.7088 | -60.2398 | 2026-02-21 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 106.1 |
+| 0f0cd7d5-b36c-3007-81e6-c659f0d8ca6f | 2.6905 | -60.2401 | 2026-02-21 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 89.3 |
+| 931584c3-1529-3aba-957d-b54c220b6d38 | 2.5438 | -60.5651 | 2026-02-21 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 53.4 |
+| 2e2f11c7-609c-3b3e-9493-a82b64ed4d16 | 2.562 | -60.5648 | 2026-02-21 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 71.1 |
+| 23cc430b-b67b-3701-904b-9c4a172e8f1d | 2.5617 | -60.7354 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 304.7 |
+| 06cf4377-1b95-39f7-b79a-edc761b2bb57 | 2.6905 | -60.2401 | 2026-02-21 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 70.9 |
+| b8f279c4-df47-3a26-bda1-4962a05d6a27 | 2.5435 | -60.7167 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 122.9 |
+| b2f6d0a1-4265-3feb-aee2-bd479756b44a | -6.5631 | -51.1126 | 2026-02-21 00:30:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 65.4 |
+| c4175c4b-6fa9-3219-9e44-516d614c2134 | 2.5434 | -60.7546 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 60.0 |
+| 2dea721b-c514-3002-8ded-8e2287623274 | 2.7088 | -60.2398 | 2026-02-21 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 96.1 |
+| 721aedd1-bbe0-301c-991c-9c0cbd86d723 | 2.5617 | -60.7165 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 133.8 |
+| f9ab1b46-adba-391a-a81c-6313c8549c63 | 2.5617 | -60.7544 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 65.0 |
+| f9ef9b07-5590-3720-8174-6a676f0a82a8 | 2.562 | -60.5648 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 66.5 |
+| 9cb9bca7-b335-318d-92f1-62d930433d1e | 2.5434 | -60.7357 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 282.6 |
+| 64f7867e-d185-39ba-930f-8cd4d41c5186 | 2.6905 | -60.2211 | 2026-02-21 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 59.9 |
+| 99283fe6-99ee-3449-a4d3-666da868bd93 | 2.7088 | -60.2208 | 2026-02-21 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 68.2 |
+| c4c98284-b631-3188-b12f-2e11e244d7f3 | 1.9419 | -60.3637 | 2026-02-21 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| 64f2478a-036e-39e6-b7e8-854a766b3377 | 2.6905 | -60.2401 | 2026-02-21 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 99.1 |
+| 112ff9d1-80e4-3d8c-8f72-1a8b15a79749 | 2.5617 | -60.7544 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.9 |
+| 05be5def-4945-3bdc-8a83-6dad13dd6e08 | 2.5438 | -60.5651 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.9 |
+| 937a45c4-22de-36cf-af6f-c630392d3e93 | 2.7088 | -60.2398 | 2026-02-21 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 157.9 |
+| 0bcc7845-430b-3eda-8721-914a6ff0d911 | 2.562 | -60.5648 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 59.5 |
+| e0d93211-e835-3fa4-9a46-06f1c0a206ff | 2.6905 | -60.2211 | 2026-02-21 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 70.8 |
+| cd527eb8-7f38-3541-a63c-d8021c372216 | 2.5617 | -60.7354 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 339.0 |
+| e246ddef-207b-30d4-b202-28eb648258e5 | 2.5435 | -60.7167 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 120.2 |
+| a8e82f70-9bf0-308f-85df-539eeb9b4553 | 1.9419 | -60.3637 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 49.9 |
+| dfd877da-b03e-33ce-aa65-699e713c8f63 | 2.5434 | -60.7546 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 59.5 |
+| 622732bd-5bcc-3134-902b-f51a1f68abe8 | 2.7088 | -60.2208 | 2026-02-21 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 85.8 |
+| 5b08cff1-6d13-3437-a4e7-7a4fe70f907b | 2.5434 | -60.7357 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 409.2 |
+| 29416212-ab34-3193-8c5b-14fa7de11f79 | 2.5617 | -60.7165 | 2026-02-21 00:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 99.1 |
+| 57b91525-79f1-3435-8cf5-8fcc2c818013 | 2.5438 | -60.5651 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 57.4 |
+| d3dd245c-7319-34ac-9ff4-8af83c453946 | 2.5617 | -60.7354 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 252.5 |
+| 3cc73ba9-da2c-3cb2-b337-5a50c5a8a37d | 2.7088 | -60.2208 | 2026-02-21 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 107.5 |
+| 8610f277-1640-35dc-b543-e405e7e40b3e | 2.562 | -60.5648 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 51.9 |
+| 38e7c7da-9683-3683-8537-3f7b509cacc4 | 2.5617 | -60.7165 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 82.0 |
+| 60dcee7f-a957-3c5e-9b6e-79ac5d2a8fc5 | 2.6905 | -60.2211 | 2026-02-21 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 85.8 |
+| a489160d-82e9-31d1-844a-e4f715b0bad8 | 2.5617 | -60.7544 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 41.8 |
+| 05868887-2359-39ba-bb18-4099cd199c8d | 2.6905 | -60.2401 | 2026-02-21 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 125.7 |
+| be731b53-8d14-3023-8a4c-c73b51b9301e | 2.5435 | -60.7167 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 128.7 |
+| 7a5a9a17-cc7f-3e81-af1a-82c2e3e7fa26 | 2.5434 | -60.7357 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 413.5 |
+| 53805a52-9c8b-384e-91b6-43784ab92bb2 | 2.5434 | -60.7546 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 47.6 |
+| f739b74c-3d4f-3d98-9a50-cb345d8b59ad | 2.7088 | -60.2398 | 2026-02-21 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 202.3 |
+| 2683e63b-4d2e-3a18-a37d-a70c0296b4e7 | 1.9419 | -60.3637 | 2026-02-21 00:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 58.3 |
+| eb621c25-9fa4-36ba-9451-6adba67cf41d | -11.8431 | -58.046902 | 2026-02-21 00:50:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ee816f9f-5780-3bec-8583-cd57cb3a0617 | -20.5317 | -49.882099 | 2026-02-21 00:50:00 | METOP-B | COSMORAMA | SÃO PAULO | Brasil | 3512902 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 7ca4012c-02ad-39c4-923f-a2f3022d7268 | -20.5284 | -49.869301 | 2026-02-21 00:50:00 | METOP-B | COSMORAMA | SÃO PAULO | Brasil | 3512902 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 4064f34b-7e71-3355-bb7c-6dc77945cd81 | -11.9579 | -58.7453 | 2026-02-21 00:50:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 6cfb019e-f5fd-30a4-84a9-9d8be6ac09a0 | -11.9564 | -58.7383 | 2026-02-21 00:50:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| a9ec9cb0-9b3e-32e6-bf7b-22e41fec73b8 | 2.5435 | -60.7167 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 68.2 |
+| 87943f8f-119e-3687-95e2-2ee618436776 | 2.6905 | -60.2211 | 2026-02-21 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 77.3 |
+| a00850fa-e950-3949-b71d-184dcc50f62e | 2.5617 | -60.7354 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 147.5 |
+| 13141008-21be-3256-8d24-9997a0c6f2b6 | 2.6905 | -60.2401 | 2026-02-21 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 102.7 |
+| 446efdea-3fa4-3d38-905c-ec35837a98f6 | 2.7088 | -60.2398 | 2026-02-21 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 193.1 |
+| 971b6642-298b-3ebb-b857-68dca886afa5 | 2.5434 | -60.7357 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 150.2 |
+| f5c4b830-3a9a-3e4d-8116-ab0687c05d79 | 2.5438 | -60.5651 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 49.3 |
+| d2ae65c0-4cb5-3b21-81d7-4f7ab8cfdacb | 2.5434 | -60.7546 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 36.6 |
+| d4024713-897b-321d-821f-0880cc682de0 | 2.562 | -60.5648 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 58.0 |
+| af3129af-7926-3dc2-9bcc-58f9d1231b75 | 2.5617 | -60.7165 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 66.2 |
+| 3c95fbb8-115c-3ec4-8225-e9c893445027 | 2.7088 | -60.2208 | 2026-02-21 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 114.4 |
+| 38d6d9b1-7f8e-376e-9310-98eed95c340f | 2.5617 | -60.7544 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 40.0 |
+| afb96fb9-e0e3-3515-9b77-ce934b003cda | 1.9419 | -60.3637 | 2026-02-21 01:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| 2ff742d0-bb4c-3f86-8ea6-7c3f6a13a04a | 2.6905 | -60.2591 | 2026-02-21 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| 239666c9-4603-3a82-8a01-27960cb9cfbb | 2.5617 | -60.7354 | 2026-02-21 01:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 139.9 |
+| 06ca1408-3e61-3981-bedb-106eb47bac1f | 2.6905 | -60.2401 | 2026-02-21 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 116.2 |
+| d7e22c33-206c-3019-99e4-65e8ff49be5e | 2.7088 | -60.2398 | 2026-02-21 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 256.3 |
+| 3fd49b50-37a8-3935-868b-278ab66eb782 | 2.5434 | -60.7546 | 2026-02-21 01:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 50.6 |
+| 9d2d2b41-f0cf-3add-897b-711a75220d0b | 2.7088 | -60.2208 | 2026-02-21 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 131.5 |
+| d2e3e3bf-0928-3dab-a404-ebd85122d186 | 2.7087 | -60.2588 | 2026-02-21 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 60.5 |
+| 16432a3d-ff0e-3d86-a41d-b54b1b925bf0 | 2.562 | -60.5648 | 2026-02-21 01:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 54.4 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
