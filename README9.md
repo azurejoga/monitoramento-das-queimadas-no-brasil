@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0f46dd5d-e480-307e-96ce-3941cb48e36b | -19.6156 | -57.2944 | 2026-01-25 08:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 81.9 |
-| 252e2cd9-503b-3c2e-adc7-50f156a2f9c6 | -19.6357 | -57.2917 | 2026-01-25 08:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 49.1 |
-| 125a5234-8ff1-3abc-bdbb-7e3226f22a1a | -19.6156 | -57.2944 | 2026-01-25 08:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 50.8 |
-| 7bd3b1ed-818f-3f9c-a537-5b30680e609f | -19.6357 | -57.2917 | 2026-01-25 09:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 109.0 |
-| ab866d8b-681b-3dc1-a379-9c88109b1517 | -19.6156 | -57.2944 | 2026-01-25 10:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 111.6 |
-| fb1a428b-bf12-3288-b3df-a7e85883d223 | -19.6156 | -57.2944 | 2026-01-25 11:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 141.8 |
-| 1f177ead-7bf2-3f3b-9ad9-7e51990dcc22 | -19.6156 | -57.2944 | 2026-01-25 11:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 127.2 |
-| db3fa842-9525-3a98-aa17-26c173366a96 | -19.6156 | -57.2944 | 2026-01-25 11:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 95.8 |
-| d3749c38-e7d0-3b15-99d4-7c7327f8f456 | -7.33316 | -44.25692 | 2026-01-25 12:33:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 42.5 |
-| d612dd93-d234-3878-bfdd-f870fe8c3737 | -7.32651 | -44.24958 | 2026-01-25 12:33:00 | TERRA_M-T | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 54.7 |
-| b4e86376-a934-386a-97c9-e485fc54fb95 | -19.28276 | -52.39969 | 2026-01-25 12:38:00 | TERRA_M-T | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 3e3cf254-6cf3-3c10-acb2-a80ef1b9837c | -21.47271 | -49.21957 | 2026-01-25 12:38:00 | TERRA_M-T | NOVO HORIZONTE | SÃO PAULO | Brasil | 3533502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 20.2 |
-| 2a51bc4d-0c67-3c8b-a1a1-47cbb360a38a | -19.1861 | -52.35487 | 2026-01-25 12:38:00 | TERRA_M-T | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| d527c65d-a8bf-30d5-86e3-e25ee675e19b | -22.96077 | -54.5041 | 2026-01-25 12:38:00 | TERRA_M-T | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 11.5 |
-| 0b577ba5-0a97-3078-bc50-8fbe6e8c9785 | -19.65578 | -57.24606 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 8.7 |
-| 9e0bbbc8-f669-31b8-8c6b-ddbf0e672155 | -19.6294 | -57.29414 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 34.0 |
-| 6950305e-7f9d-3ab4-b8b5-9b87e7a42b6f | -22.9622 | -54.49288 | 2026-01-25 12:38:00 | TERRA_M-T | JUTI | MATO GROSSO DO SUL | Brasil | 5005152 | 50 | 33 | nan | nan | nan | Mata Atlântica | 11.6 |
-| bb4bcf35-1985-313b-af3c-dece2a8a93d2 | -19.62048 | -57.29269 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 18.2 |
-| e6081e59-f20d-3e07-974f-06a9990bd3dd | -20.32497 | -57.82909 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.2 |
-| 4ae150c1-ea92-324e-8d6f-afdaa78accad | -19.65437 | -57.25555 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 20.3 |
-| e0a70808-8724-338c-8a9f-341043f503c5 | -18.79947 | -57.66138 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.5 |
-| eee5c4d0-7ee7-3b5b-a28a-c6a7dc9ffe73 | -19.62659 | -57.31318 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 59.5 |
-| f7b3d4f6-3f5c-3589-8167-69820b3c62aa | -18.81979 | -51.60323 | 2026-01-25 12:38:00 | TERRA_M-T | ITAJÁ | GOIÁS | Brasil | 5210802 | 52 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| cb212fd8-1dd7-3c49-a6bb-131fa4eb4ff6 | -19.95337 | -54.39791 | 2026-01-25 12:38:00 | TERRA_M-T | BANDEIRANTES | MATO GROSSO DO SUL | Brasil | 5001508 | 50 | 33 | nan | nan | nan | Cerrado | 38.3 |
-| 40af2c6e-1d63-3487-8b5e-63568e786536 | -21.15857 | -55.82213 | 2026-01-25 12:38:00 | TERRA_M-T | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 01308a0b-2a4b-3656-807d-a45e698a7960 | -19.628 | -57.30365 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 44.7 |
-| 4924ab23-14fc-3bbc-94fc-17e5f7d69741 | -19.28438 | -52.38656 | 2026-01-25 12:38:00 | TERRA_M-T | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| d33d3d85-837d-33ad-a4c0-0cf3ebd83143 | -20.33398 | -57.83059 | 2026-01-25 12:38:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 10.9 |
-| b53ea1c9-4a05-3c63-a868-599593901880 | -27.86412 | -51.07841 | 2026-01-25 12:40:00 | TERRA_M-T | PINHAL DA SERRA | RIO GRANDE DO SUL | Brasil | 4314464 | 43 | 33 | nan | nan | nan | Mata Atlântica | 23.0 |
-| 6f805aa3-eb04-326e-84d8-8c5248266a1e | -27.86618 | -51.0556 | 2026-01-25 12:40:00 | TERRA_M-T | ANITA GARIBALDI | SANTA CATARINA | Brasil | 4201000 | 42 | 33 | nan | nan | nan | Mata Atlântica | 23.6 |
-| 4f6609f7-655f-3dbc-b7ee-3f4e0eb65ebf | -27.80776 | -51.13353 | 2026-01-25 12:40:00 | TERRA_M-T | PINHAL DA SERRA | RIO GRANDE DO SUL | Brasil | 4314464 | 43 | 33 | nan | nan | nan | Mata Atlântica | 24.3 |
-| 814618ff-306c-3746-a2d8-bd36e95ed568 | -28.51051 | -50.93602 | 2026-01-25 12:40:00 | TERRA_M-T | VACARIA | RIO GRANDE DO SUL | Brasil | 4322509 | 43 | 33 | nan | nan | nan | Mata Atlântica | 18.2 |
-| 3ea7dac1-3df7-3ac4-aa57-2bf4f91252f4 | -28.97523 | -51.06725 | 2026-01-25 12:40:00 | TERRA_M-T | SÃO MARCOS | RIO GRANDE DO SUL | Brasil | 4319000 | 43 | 33 | nan | nan | nan | Mata Atlântica | 16.0 |
-| 1515c34a-4f8f-3949-9f4a-d79483419b34 | -29.64008 | -51.00031 | 2026-01-25 12:40:00 | TERRA_M-T | SAPIRANGA | RIO GRANDE DO SUL | Brasil | 4319901 | 43 | 33 | nan | nan | nan | Mata Atlântica | 18.1 |
-| f7a692b5-be6c-39d5-8c7a-e7ec445eed7f | -25.77387 | -53.52664 | 2026-01-25 12:40:00 | TERRA_M-T | REALEZA | PARANÁ | Brasil | 4121406 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
-| 17dc6915-861a-3a27-9977-3ed3a74cdf01 | -29.22523 | -51.3416 | 2026-01-25 12:40:00 | TERRA_M-T | FARROUPILHA | RIO GRANDE DO SUL | Brasil | 4307906 | 43 | 33 | nan | nan | nan | Mata Atlântica | 18.3 |
-| 4d33edbd-67e7-3916-8314-24d4b9633974 | -20.3294 | -57.8224 | 2026-01-25 12:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 81.5 |
-| ea8d0a29-9b76-368d-875c-f93422176c60 | -20.3294 | -57.8224 | 2026-01-25 13:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 92.7 |
-| 7415e0c2-2171-3a14-a40d-99ae792a255e | -20.3497 | -57.8197 | 2026-01-25 13:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 82.3 |
-| 1bf4e952-d0a3-3dce-9145-206ac5e235fd | -20.3291 | -57.8433 | 2026-01-25 13:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.2 |
-| c9f6de39-bc91-3a63-998f-2b431581f41a | -20.3497 | -57.8197 | 2026-01-25 13:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 86.4 |
-| 10f931e3-a66a-3a02-a8fb-0968512e553e | -5.4881 | -37.6708 | 2026-01-25 13:10:00 | GOES-19 | FELIPE GUERRA | RIO GRANDE DO NORTE | Brasil | 2403707 | 24 | 33 | nan | nan | nan | Caatinga | 120.2 |
-| 5c526ccf-76c1-3647-9e32-fe0989f5ad2f | -20.3291 | -57.8433 | 2026-01-25 13:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 110.3 |
-| 3cc1ffc6-9ca5-36eb-805f-caa081f7eb04 | -20.3493 | -57.8406 | 2026-01-25 13:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 93.3 |
-| dcd8d111-782c-3795-aa2e-e98b78b29e6f | -20.3294 | -57.8224 | 2026-01-25 13:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 103.4 |
-| 5eecf2cf-995d-3d98-8209-da31a065602d | -20.3294 | -57.8224 | 2026-01-25 13:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 90.0 |
-| f89a8679-2860-3f9c-8814-eb30c3f8afa6 | -20.3291 | -57.8433 | 2026-01-25 13:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 105.6 |
-| 12163bba-8951-33df-94e3-6c790c8dcfac | -5.4881 | -37.6708 | 2026-01-25 13:20:00 | GOES-19 | FELIPE GUERRA | RIO GRANDE DO NORTE | Brasil | 2403707 | 24 | 33 | nan | nan | nan | Caatinga | 122.5 |
-| c34d83a4-b5bf-332b-9675-5b5e51255989 | -20.3294 | -57.8224 | 2026-01-25 13:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 90.0 |
-| 1acf854a-4de2-3cc8-bd2c-81a0b8822b5f | -20.3493 | -57.8406 | 2026-01-25 13:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 98.6 |
-| c7f38704-6833-32fc-9b72-07374e9cea4a | -20.3294 | -57.8224 | 2026-01-25 13:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 102.4 |
-| c369702c-c8f8-323c-9a21-7bf77b23748b | -20.3291 | -57.8433 | 2026-01-25 13:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 115.9 |
-| f26c02f9-3b1d-3f1a-912b-aea26444d7b9 | -20.3497 | -57.8197 | 2026-01-25 13:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 83.2 |
-| 6a382a88-725e-32e1-a642-15f41b0bbadf | -20.3294 | -57.8224 | 2026-01-25 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 121.0 |
-| 3405a156-1a9f-3ce6-8c64-0451d7e782b8 | -20.3291 | -57.8433 | 2026-01-25 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 114.9 |
-| f6988e84-7647-37e6-b7f5-31aef1d3c2d2 | -20.3497 | -57.8197 | 2026-01-25 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 102.2 |
-| f824b153-e1bd-31c2-962e-6ffa18cbe2bd | -20.3493 | -57.8406 | 2026-01-25 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 99.1 |
-| f358ddd6-e954-3e85-81e8-a4b538e6684a | -20.3493 | -57.8406 | 2026-01-25 14:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 100.3 |
-| 24c0d925-b398-343e-af98-2da8a02fb0da | -19.6418 | -56.9569 | 2026-01-25 14:00:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 91.3 |
-| 01a2faf2-0f45-353f-9700-69a3423e5dc4 | -19.6627 | -56.9122 | 2026-01-25 14:00:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 90.6 |
-| 635d0695-160f-3369-9d2e-3640274bca32 | -19.6623 | -56.9331 | 2026-01-25 14:00:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 101.4 |
-| 4e3e5cfd-c27c-3c8f-9157-66dd796f6320 | -20.3294 | -57.8224 | 2026-01-25 14:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 103.3 |
-| aa4131f7-509b-33ff-92a2-671c0ca4725b | -20.3291 | -57.8433 | 2026-01-25 14:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 120.1 |
-| 896b4150-69a5-370c-91f5-6a55f91ffc66 | -20.3493 | -57.8406 | 2026-01-25 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 120.8 |
-| fbb7f246-6713-3968-be1f-a352737c9a2f | -19.6623 | -56.9331 | 2026-01-25 14:10:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 108.1 |
-| 96256890-03aa-300c-8367-f61efeeb8316 | -19.6353 | -57.3126 | 2026-01-25 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 249.3 |
-| c0dafaef-9a3e-38ee-9c97-add676c59201 | -19.6627 | -56.9122 | 2026-01-25 14:10:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 106.4 |
-| bd040ca2-7b7b-361a-b0bd-e18963267e60 | -20.3497 | -57.8197 | 2026-01-25 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 107.3 |
-| fd8eed20-4248-3ebc-9e1e-1f52cf61c724 | -20.3291 | -57.8433 | 2026-01-25 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 140.8 |
-| 93f8173f-6e38-3fe9-a65b-2c01402577c2 | -19.6357 | -57.2917 | 2026-01-25 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 167.7 |
-| 10272c17-dc4a-3d6e-a0b4-51ab51858ecf | -20.3294 | -57.8224 | 2026-01-25 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 128.2 |
-| fd201dd6-66f2-3f70-852b-0e85c6b2aa30 | -20.3497 | -57.8197 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 99.2 |
-| 0595967b-e5e5-3549-985d-a0a3f36ddc7c | -19.6156 | -57.2944 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 106.7 |
-| f58d1a23-bf54-3577-87c4-a6a78a0ebe05 | -19.6836 | -56.8674 | 2026-01-25 14:20:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 89.5 |
-| 42b5d977-5f21-33be-9e3d-9cfd9e38e1d0 | -19.6353 | -57.3126 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 195.8 |
-| 1259e594-e0aa-39b1-8668-bce0c377c685 | -20.3291 | -57.8433 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 122.3 |
-| cabc2cc6-fe16-3da6-bb1e-857877310ccf | -19.684 | -56.8464 | 2026-01-25 14:20:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 91.4 |
-| caffb128-3402-38ea-a363-bf6b33ecc38e | -19.6631 | -56.8912 | 2026-01-25 14:20:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 89.3 |
-| 5b5391f9-931b-34c2-9748-065e45f224cf | -20.3493 | -57.8406 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 101.8 |
-| c2ae8024-4354-373d-89dd-a3f020809986 | -19.6357 | -57.2917 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 160.0 |
-| ef88690c-0c3c-32a5-b4e6-820e6154e020 | -20.3294 | -57.8224 | 2026-01-25 14:20:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 129.6 |
-| 90cf1458-56ac-33b4-ae15-ed544bf3b8dd | -19.6635 | -56.8702 | 2026-01-25 14:20:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 84.1 |
-| 60d3ad49-5da2-31e4-b6b5-8a9095054ee1 | -19.684 | -56.8464 | 2026-01-25 14:30:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 88.8 |
-| 81ca64c4-9bf8-3226-83f2-c00c094bedfb | -20.3497 | -57.8197 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 94.8 |
-| 494b60b5-7d4c-3c45-aa98-ec5b0573c24c | -19.7041 | -56.8436 | 2026-01-25 14:30:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 84.3 |
-| bb32ad91-5824-3c95-9ed4-e6806108d6ce | -20.3897 | -57.8351 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 105.1 |
-| dec25af1-e272-3738-b9ba-2aca6db59b3e | -19.6357 | -57.2917 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 170.0 |
-| 94392905-f70c-3b62-a098-9319273353d6 | -20.3294 | -57.8224 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 133.7 |
-| 7aa59328-454d-3678-880c-69930fb67f2e | -19.6353 | -57.3126 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 237.2 |
-| 9753d583-bd6b-35d9-b366-619e53a9ab15 | -19.6156 | -57.2944 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 101.1 |
-| 00fb7d65-1aa5-37e6-84ca-b74f7454a8fe | -20.3291 | -57.8433 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 133.9 |
-| 06ca7540-3a64-3b72-889a-47dd417e116a | -20.3493 | -57.8406 | 2026-01-25 14:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 100.9 |
-| c186d4d3-8e3b-37f1-9c66-1732f76e4019 | -20.3493 | -57.8406 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 121.9 |
-| 0b66e932-bb32-3260-a894-dfb2500142dc | -20.3092 | -57.8252 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 98.5 |
-| db5d6bd0-81e4-32c5-80b8-59b72aa80bf9 | -19.6357 | -57.2917 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 183.2 |
-| 6a3d1e10-3fe6-3958-a620-d574a845ab3e | -19.6156 | -57.2944 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 106.7 |
-| 0dae53e6-d187-383d-a07d-cd4783dfb725 | -20.3088 | -57.8461 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 107.2 |
-| db2faf65-b4ef-3b90-ad30-af0cf4fc0b1e | -18.7908 | -57.6726 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 96.6 |
-| 5bc4a098-25e1-31ca-8b6f-71b0cd19b8f4 | -19.682 | -56.9513 | 2026-01-25 14:40:00 | GOES-19 | AQUIDAUANA | MATO GROSSO DO SUL | Brasil | 5001102 | 50 | 33 | nan | nan | nan | Pantanal | 77.7 |
-| 865cc2b4-df7a-35ef-ab70-06ad04c270bf | -18.7912 | -57.6519 | 2026-01-25 14:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 112.2 |
+| bba67f23-d829-3d33-8dc3-74cf9f2d152a | 2.7164 | -60.22675 | 2026-02-25 05:54:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| d9770737-b464-3284-8650-594bab676c32 | 1.82832 | -60.84921 | 2026-02-25 05:54:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| ada3162b-1fb6-3c7b-8bda-5abec4c775da | 1.93992 | -60.36061 | 2026-02-25 05:54:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 1b993dfa-a8ed-323b-82e9-0f303419e82d | 1.49374 | -59.92562 | 2026-02-25 05:54:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| ba34154c-e6d0-3711-9ece-df22a017fdc8 | 3.93415 | -60.05825 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 564b5512-78bf-31ad-b6f0-fe805d215b7b | 4.1549 | -60.29394 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| bee51b63-bc20-38ca-86a7-b76f9e959288 | 4.29428 | -60.76971 | 2026-02-25 05:54:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 92aec642-3262-37df-ba38-76eca6cf7283 | 4.25212 | -60.2785 | 2026-02-25 05:54:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e3b1465c-d8b7-33ed-91ae-a2e784d0c642 | 4.23731 | -60.28811 | 2026-02-25 05:54:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 91c9326d-9d57-3ff3-98df-11bea8b859d0 | 3.92979 | -60.05897 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 4c11b57e-4d93-3bf4-85d2-3d0673eeaa45 | 3.88109 | -59.73867 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0a1ea32d-5502-3631-8216-50e2b44bf0cb | 4.29017 | -60.77055 | 2026-02-25 05:54:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 44936dc2-18ba-3fd0-9269-17ce552d33a2 | 4.0686 | -60.18806 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 394b31f9-7530-3b31-b442-5acf95bbb25b | 4.06993 | -60.19604 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 13d06818-dc2a-3a82-bbf9-fd71e5ea8eb6 | 3.92543 | -60.05968 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 47af37fd-6c58-30a1-885e-502ed38d116e | 3.88182 | -59.7431 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| e6048498-324f-3f88-b50a-2f7d64c62217 | 4.2495 | -60.28217 | 2026-02-25 05:54:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 7d674ab5-e457-37d0-b768-9541ac3dfa64 | 4.25279 | -60.28249 | 2026-02-25 05:54:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 47230e42-a930-36fd-a0f8-65eab1390588 | 3.91977 | -60.4941 | 2026-02-25 05:54:00 | NOAA-20 | PACARAIMA | RORAIMA | Brasil | 1400456 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 3b5be819-4815-3caf-bc47-be075b66e8a5 | 4.23434 | -60.18839 | 2026-02-25 05:54:00 | NOAA-20 | UIRAMUTÃ | RORAIMA | Brasil | 1400704 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fd4f0c67-9658-39b3-bf1c-4c3004e3f46b | 4.06927 | -60.19205 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 5d76be61-1478-373e-adee-ad2436a2b54c | 3.88555 | -59.73794 | 2026-02-25 05:54:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| d38579d7-e298-3721-ad19-e09e292510b9 | 1.4864 | -59.9498 | 2026-02-25 06:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 196.7 |
+| 55deb8d5-7b69-38fa-b867-c1d0d63bd067 | 1.4864 | -59.9308 | 2026-02-25 06:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 183.8 |
+| 816bc3dc-9185-3694-943c-afe8cfc63fb4 | 1.5046 | -59.9306 | 2026-02-25 06:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 165.5 |
+| 124d7601-2d00-34f9-9e05-73b84f84a01b | 1.5046 | -59.9497 | 2026-02-25 06:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 156.3 |
+| b7bdda79-7cec-33d6-a6c0-1a00b6c6ae38 | 1.4864 | -59.9498 | 2026-02-25 06:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 198.4 |
+| c5dd8c39-39d4-3446-bfae-c480f1cab043 | 1.5046 | -59.9497 | 2026-02-25 06:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 254.7 |
+| c49823bd-8bdb-3f1a-912f-7848908ff796 | 1.4864 | -59.9308 | 2026-02-25 06:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 136.6 |
+| 28413906-1cfe-3313-8abe-89f8b8ddfbcf | 1.5046 | -59.9306 | 2026-02-25 06:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 203.9 |
+| 39cb79d2-932f-3141-95f2-d3bb88f987e5 | 1.4864 | -59.9498 | 2026-02-25 06:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 179.1 |
+| 50f26aab-56e9-3bcc-bb90-5f6f6c565fb4 | 1.4864 | -59.9308 | 2026-02-25 06:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 161.0 |
+| 8df05b68-ec0e-3fb0-8f19-b88e47fc2e66 | 1.5046 | -59.9306 | 2026-02-25 06:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 203.9 |
+| c9ef99b2-5543-36e0-8dec-4b55bdafd4a4 | 1.5046 | -59.9497 | 2026-02-25 06:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 184.4 |
+| 4bc9d468-3922-3e40-a188-2cba52b7da45 | 1.5229 | -59.9305 | 2026-02-25 06:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 45.4 |
+| 04f008ef-2635-3313-a321-b73519ea3c2f | 1.4864 | -59.9308 | 2026-02-25 06:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 226.9 |
+| 3b27598b-ffc9-3bfa-ae11-cdb70e974bbd | 1.5046 | -59.9497 | 2026-02-25 06:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 198.7 |
+| 21eac0fc-09c8-3422-8d2a-f1c5d8f7f06a | 1.4864 | -59.9498 | 2026-02-25 06:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 231.8 |
+| 6b114044-0522-3e7c-8eb4-42338195bda4 | 1.5046 | -59.9306 | 2026-02-25 06:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 214.6 |
+| 0c150511-5f91-3580-a9c9-2278078693e2 | 1.5229 | -59.9495 | 2026-02-25 06:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 43.3 |
+| 8758505b-f516-3e3b-a933-9c013b00df4e | 1.4864 | -59.9498 | 2026-02-25 06:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 102.8 |
+| 25134bf3-45d0-3cb6-be7c-71634a78f193 | 1.4864 | -59.9308 | 2026-02-25 06:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 79.5 |
+| c3a9ffe8-ac8c-31ab-b669-3042f2718512 | 1.5046 | -59.9306 | 2026-02-25 06:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 73.7 |
+| 16187e70-576b-3980-afaa-0df84190b0c8 | 1.5046 | -59.9497 | 2026-02-25 06:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 72.9 |
+| 2f3e1a68-3f1e-3940-a5b8-f8a254f328cb | 1.5046 | -59.9497 | 2026-02-25 06:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 116.9 |
+| 1da692fc-a0e8-3f9c-a2cd-1b3aca139d75 | 1.5046 | -59.9306 | 2026-02-25 06:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 125.0 |
+| 3760ddb4-e6c8-3d3a-ac8c-e8c052d792ec | 1.4864 | -59.9308 | 2026-02-25 06:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 157.7 |
+| 985cd5c4-930f-30a3-853f-1bc8e10dde79 | 1.4864 | -59.9498 | 2026-02-25 06:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 146.5 |
+| 569e8987-1976-3252-857b-ab3fa7f867a8 | 1.4864 | -59.9498 | 2026-02-25 07:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 51.8 |
+| 151e6bc3-00b8-3fe9-ad88-97cf1009dfb3 | 1.5046 | -59.9497 | 2026-02-25 07:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 53.6 |
+| f12f00a4-b756-360b-9cd6-62aa4cf2983a | 1.5046 | -59.9306 | 2026-02-25 07:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| 3b1e5b74-1266-3edc-9351-81d5650bc74c | 1.4864 | -59.9308 | 2026-02-25 07:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 54.1 |
+| 07fae0cb-c96c-30fb-a4f0-f2b6b2066fa3 | 1.5046 | -59.9497 | 2026-02-25 07:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 2422d8c2-2ecf-37ce-be7c-3037fe26a9c6 | 1.4864 | -59.9498 | 2026-02-25 07:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.9 |
+| af0862ac-dd24-3666-836d-5a6598cc67d6 | 1.4864 | -59.9308 | 2026-02-25 07:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 50.9 |
+| 4fb147d4-08a6-3b43-994e-39f38b66d92a | 1.5046 | -59.9306 | 2026-02-25 07:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 59.7 |
+| d93b7dda-5db9-3400-82bc-51a8e6448a3d | 1.4864 | -59.9308 | 2026-02-25 07:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| 7643636c-694c-337c-936a-8dc1c5fb9ad4 | 1.4864 | -59.9498 | 2026-02-25 07:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 106.1 |
+| abb7d0c8-6993-3d76-9fc6-703175f05cdd | 1.4681 | -59.95 | 2026-02-25 07:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 36.9 |
+| 9840ccc7-b6fb-30bb-bc10-bbe1eac1afb9 | 1.5046 | -59.9306 | 2026-02-25 07:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 48.3 |
+| fc542b01-a8ec-3201-ba11-3c44180ae0bf | 1.4863 | -59.9688 | 2026-02-25 07:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 38.0 |
+| 3cdb15ec-1961-3a13-af46-39046b235ab9 | 1.5046 | -59.9497 | 2026-02-25 07:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 70.7 |
+| d0534615-7bbb-3529-b4f9-333eabeec474 | 1.4681 | -59.95 | 2026-02-25 07:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 33.4 |
+| 1b10a5bf-2ad6-3db5-93ee-de835ac6529a | 1.5046 | -59.9306 | 2026-02-25 07:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 48.8 |
+| 42d1d281-4816-3af6-9224-8390f6193715 | 1.4864 | -59.9498 | 2026-02-25 07:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 96.1 |
+| f12fbca7-39cd-377f-8a1a-0620abc8f8e2 | 1.5046 | -59.9497 | 2026-02-25 07:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 63.2 |
+| 8d6781f6-7e34-3bec-876c-94961fbb38bc | 1.4864 | -59.9308 | 2026-02-25 07:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 60.4 |
+| 5e248f20-fe28-3169-99c9-4dd40896391d | 3.45743 | -59.89409 | 2026-02-25 07:39:00 | AQUA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 23.8 |
+| d0126675-1ce0-3310-9a1b-4e0b695df6be | 1.48812 | -59.92303 | 2026-02-25 07:39:00 | AQUA_M-M | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 34.4 |
+| 48afff3b-0d47-385d-8118-875d6b4e9ecf | 1.5046 | -59.9497 | 2026-02-25 07:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| 5235afc8-13e3-39bf-b020-22c19d61b909 | 1.5046 | -59.9306 | 2026-02-25 07:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 36.9 |
+| 5595f0e6-57c9-3a95-8850-d13ff15567a3 | 1.4864 | -59.9498 | 2026-02-25 07:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 58.4 |
+| 3f9fd4b4-9059-36e1-928e-3733b4b0d600 | 1.4864 | -59.9308 | 2026-02-25 07:40:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 41.3 |
+| 6b93b199-5675-341e-b6ee-3023fa6f32c4 | 1.4864 | -59.9308 | 2026-02-25 07:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 47.4 |
+| ff635202-07cb-39fc-87bc-1e95144efb51 | 1.4864 | -59.9498 | 2026-02-25 07:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 47.3 |
+| 6c6be9f0-5b1c-388d-82ac-5f48a9e74018 | 1.5046 | -59.9497 | 2026-02-25 07:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 38.7 |
+| 733de8d6-eeac-3927-b9bd-2af60e051504 | 1.5046 | -59.9306 | 2026-02-25 07:50:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 40.7 |
+| 57247f24-6843-3c1f-950e-2ab1948af563 | 1.5046 | -59.9497 | 2026-02-25 08:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 67.6 |
+| 1816aeb9-8e04-322f-945f-89110b1ad72b | 1.5046 | -59.9306 | 2026-02-25 08:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 70.3 |
+| 36121375-0934-3260-a4ef-e58f8caa2411 | 1.4864 | -59.9308 | 2026-02-25 08:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 98.3 |
+| 635371e2-25a7-3bf7-8252-020beb77bd7d | 1.4864 | -59.9498 | 2026-02-25 08:00:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 89.9 |
+| f503cb19-63a0-37f6-b069-5d9e436ef0cb | 1.4864 | -59.9308 | 2026-02-25 08:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 77.4 |
+| e14a3116-7277-3be3-a58b-ce8f501ee762 | 1.4864 | -59.9498 | 2026-02-25 08:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 62.4 |
+| 1314d8f5-5775-3014-81f7-40806381be40 | 1.5046 | -59.9497 | 2026-02-25 08:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.4 |
+| 67c6fa8a-d933-371e-8bd6-fb229f8a4b4f | 1.5046 | -59.9306 | 2026-02-25 08:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.8 |
+| 5085002c-a6c9-345e-987c-88a5f0908af6 | 1.5046 | -59.9497 | 2026-02-25 08:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 47.8 |
+| bec4783a-fba1-33c6-9afb-f650ad8904d3 | 1.4864 | -59.9308 | 2026-02-25 08:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 61.0 |
+| 6c87fdca-34c6-394e-90e4-b410581985a8 | 1.4864 | -59.9498 | 2026-02-25 08:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 51.1 |
+| efcee50f-6937-3228-aede-6b8751d661fd | 1.5046 | -59.9306 | 2026-02-25 08:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 58.7 |
+| bfcf07a3-1404-399f-99e0-54f5ebbed9c3 | 1.5046 | -59.9306 | 2026-02-25 10:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 98.6 |
+| 01d5ec36-03d5-3cc8-854b-594e812a7f74 | 1.5046 | -59.9497 | 2026-02-25 10:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 109.2 |
+| 898294e3-2bac-3ee8-967f-4dbbb506258c | 1.4864 | -59.9308 | 2026-02-25 10:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 186.3 |
+| 91fdc379-0995-32f5-896d-0c2c0a664c68 | 1.4864 | -59.9498 | 2026-02-25 10:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 242.3 |
+| 21ac1aee-92e0-36c7-ba9c-a2f2829c12d5 | 1.4681 | -59.95 | 2026-02-25 10:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 85.9 |
+| e595a529-6446-3cad-8b63-c79a5c9f26a7 | -6.37749 | -37.21095 | 2026-02-25 11:29:00 | TERRA_M-M | SÃO FERNANDO | RIO GRANDE DO NORTE | Brasil | 2411809 | 24 | 33 | nan | nan | nan | Caatinga | 8.8 |
+| e1d468ef-3601-33f5-a028-5f2256806f3d | -6.37619 | -37.22028 | 2026-02-25 11:29:00 | TERRA_M-M | SÃO FERNANDO | RIO GRANDE DO NORTE | Brasil | 2411809 | 24 | 33 | nan | nan | nan | Caatinga | 4.5 |
+| f0a844a6-5eec-3806-8298-d6d26099f50b | 1.4681 | -59.9309 | 2026-02-25 11:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 222.8 |
+| 754ba664-b6ff-3769-9fad-27f824ef3278 | 1.4864 | -59.9498 | 2026-02-25 11:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1185.7 |
+| e9c1db30-f9f7-3b29-b6a9-faf463f4c275 | 1.4863 | -59.9688 | 2026-02-25 11:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 143.7 |
+| 8f4f5526-3efc-3fc8-b971-118021d288b5 | 1.5046 | -59.9497 | 2026-02-25 11:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 205.6 |
 
 
 [Clique aqui para ver as próximas entradas](README10.md)
