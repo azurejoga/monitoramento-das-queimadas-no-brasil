@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7950ec58-f43c-3e17-b5e2-9068fd92cb7e | 2.8712 | -61.1094 | 2026-03-09 00:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 120.3 |
-| 59551fa1-15d7-32b5-8893-d5cc36dd377b | 2.8714 | -61.0527 | 2026-03-09 00:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 68.0 |
-| f636c95d-19a9-3c30-aa97-8bfeb07879f2 | 2.8713 | -61.0716 | 2026-03-09 00:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 105.9 |
-| a2040127-430d-3237-9fd9-bff41286b6a5 | -9.8146 | -36.3074 | 2026-03-09 00:00:00 | GOES-19 | CAMPO ALEGRE | ALAGOAS | Brasil | 2701407 | 27 | 33 | nan | nan | nan | Mata Atlântica | 132.3 |
-| 85b494a2-b74c-38a0-b8b9-4745774901e3 | -9.8141 | -36.3344 | 2026-03-09 00:00:00 | GOES-19 | CAMPO ALEGRE | ALAGOAS | Brasil | 2701407 | 27 | 33 | nan | nan | nan | Mata Atlântica | 142.6 |
-| 6471391d-6385-36a8-bcb1-eb78d82efb89 | 2.6905 | -60.2591 | 2026-03-09 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 105.9 |
-| 3240db20-c6ea-3c87-9fb0-9e602a975696 | 2.8713 | -61.0905 | 2026-03-09 00:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 155.9 |
-| ca9548d0-b93a-37f7-8f93-4058e0865352 | 2.853 | -61.1097 | 2026-03-09 00:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 65.3 |
-| dd98a97e-fa81-3087-98d1-adbcc88eac77 | 2.853 | -61.0908 | 2026-03-09 00:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 71.1 |
-| 5b3a778d-87d5-3994-ab98-497c3191c2fe | 2.7087 | -60.2588 | 2026-03-09 00:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 102.5 |
-| e0659721-089b-3c43-8cef-3d0d5fdbc789 | 2.7087 | -60.2588 | 2026-03-09 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 112.5 |
-| 39e93d04-b255-3aa3-a312-3db3c906cb1f | 2.8713 | -61.0905 | 2026-03-09 00:10:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 67.7 |
-| 29c1d635-015f-3252-9ee3-33c74a6001af | 2.6905 | -60.2591 | 2026-03-09 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 144.9 |
-| 071b272d-9ad9-3ec5-b56d-7704d37df6d7 | 2.8712 | -61.1094 | 2026-03-09 00:10:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 60.5 |
-| ab5411c0-ad38-3092-940d-b064018bac50 | 2.8713 | -61.0716 | 2026-03-09 00:10:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| 99f5d63a-2804-3167-82f9-4cf47d167da7 | 2.6904 | -60.2781 | 2026-03-09 00:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 85.7 |
-| 39c34620-4b11-388f-9530-0828e3156474 | 2.8713 | -61.0905 | 2026-03-09 00:20:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 61.8 |
-| d6b46d29-26d1-3d52-9332-fb604557e236 | 2.6905 | -60.2591 | 2026-03-09 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 116.3 |
-| 5cf19000-ba91-3d51-b01f-f6e841c7bf5e | 2.7087 | -60.2588 | 2026-03-09 00:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 94.5 |
-| c8d304bf-ffb9-348a-86af-eb21fe99652a | 2.8713 | -61.0716 | 2026-03-09 00:20:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 64.4 |
-| 46d59b7d-544a-3745-bcb1-0ded4e5aced5 | -16.6146 | -46.41559 | 2026-03-09 00:22:00 | TERRA_M-M | NATALÂNDIA | MINAS GERAIS | Brasil | 3144375 | 31 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| b2ae7b79-78a9-315d-b3a1-63d1a44166cd | -3.41963 | -48.33675 | 2026-03-09 00:24:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| 09633169-7a2f-342d-b6ac-c348622536c7 | 2.68942 | -60.28489 | 2026-03-09 00:26:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 24.7 |
-| d3a8d6b6-b192-3e30-90a3-7c8d7dc9373d | 2.314 | -60.22245 | 2026-03-09 00:26:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 26.9 |
-| cc6e7337-1942-3214-873a-97d456d4aaaa | 2.70741 | -60.26169 | 2026-03-09 00:26:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 42.3 |
-| 5bf4d672-6aba-3bd7-9b7f-546d134662fa | 2.87454 | -61.08344 | 2026-03-09 00:26:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 33.9 |
-| fbe68a42-cacb-3942-ade3-8663da0c18e6 | 2.73559 | -60.36973 | 2026-03-09 00:26:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 19.0 |
-| 8771027f-2e35-36f7-b671-ef2f8e91db8e | 2.72365 | -60.37323 | 2026-03-09 00:26:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 18.5 |
-| c5968871-70ce-3019-a30f-f4c685fe3e95 | 2.72753 | -60.34769 | 2026-03-09 00:26:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 20.7 |
-| b2ada912-86a6-3eb4-a917-4750a51a5b9f | 2.95332 | -60.16321 | 2026-03-09 00:26:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 16.3 |
-| db436ee8-691d-327d-8968-50be28781501 | 2.69316 | -60.25962 | 2026-03-09 00:26:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 125.5 |
-| 89238f09-bf96-3093-9ae4-bbfd89a983f3 | 2.31686 | -60.22884 | 2026-03-09 00:26:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 40.7 |
-| b6ea12d0-0ee6-3e8e-8969-9d1b7e2f4dc2 | 2.6905 | -60.2591 | 2026-03-09 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 113.0 |
-| deabc8cc-33da-3e5f-85e9-95d5d26860ca | 2.7087 | -60.2588 | 2026-03-09 00:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 85.4 |
-| d28db936-6e20-3541-989b-b998a66fc6cd | -10.0082 | -36.2463 | 2026-03-09 00:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 81.1 |
-| 25315c37-e23f-3bec-a965-4244567818e6 | -10.0077 | -36.2733 | 2026-03-09 00:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 94.0 |
-| 5dbad3e6-4cdb-39f8-a332-c2ffa31fd3c5 | 2.6905 | -60.2591 | 2026-03-09 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 96.6 |
-| fd46d3a8-2765-3f5f-b0b3-de44aad20195 | 2.7087 | -60.2588 | 2026-03-09 00:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 106.8 |
-| a2b1ba6b-1b22-3408-996e-b96d50022381 | 2.7087 | -60.2588 | 2026-03-09 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 93.9 |
-| 22108b22-6a40-32fa-b186-ec2d52b19d61 | 2.6905 | -60.2591 | 2026-03-09 00:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 101.2 |
-| 9d6b4bd6-7365-3d7e-871d-43f5b6f9975c | 2.7087 | -60.2588 | 2026-03-09 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 93.3 |
-| ec1f8ebf-070f-340e-a025-5c229774b71d | 2.6905 | -60.2591 | 2026-03-09 01:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 90.9 |
-| 8beb264c-8bd3-332f-a73c-1667470c5b8a | 2.6905 | -60.2591 | 2026-03-09 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 96.4 |
-| 40f33027-4906-3a29-b09f-5e55e8405fe7 | 2.7087 | -60.2588 | 2026-03-09 01:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 104.0 |
-| a80ce7cc-f868-361e-8111-ebda35c7104e | 2.6905 | -60.2591 | 2026-03-09 01:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 89.1 |
-| 2173bf32-0c82-356b-a3b5-93cc46930ade | 2.7087 | -60.2588 | 2026-03-09 01:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 93.3 |
-| ca123d0a-a3fe-30a7-88f0-c53644fc8766 | 2.6905 | -60.2591 | 2026-03-09 01:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 89.3 |
-| 1780d38d-7110-3fae-987c-0894611b1abc | 2.7087 | -60.2588 | 2026-03-09 01:30:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 95.8 |
-| f92872ad-038e-38a9-9ce6-be59744c8ff3 | 2.7087 | -60.2588 | 2026-03-09 01:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 87.0 |
-| 6c04a96f-83ed-340b-b0a7-8fb07182ed42 | 2.6905 | -60.2591 | 2026-03-09 01:40:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 82.7 |
-| 9ccf80ad-94de-3b13-bb3c-f3aa86d0079b | 2.6905 | -60.2591 | 2026-03-09 01:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 73.1 |
-| 6017918a-a720-38fd-844f-6d9295d29ed8 | 2.7087 | -60.2588 | 2026-03-09 01:50:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 79.6 |
-| 11320f4a-dc0e-375f-9a7a-56ea9da043e2 | 2.6905 | -60.2591 | 2026-03-09 02:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 69.0 |
-| 5811188c-a60b-3798-a355-03cfe5039c3e | 2.7087 | -60.2588 | 2026-03-09 02:00:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 75.6 |
-| 3c4bb785-570f-3093-aab3-aabffc1a4dd7 | 2.7087 | -60.2588 | 2026-03-09 02:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 71.2 |
-| 6e5a1b26-c396-349b-b96f-592f0f76aece | 2.6905 | -60.2591 | 2026-03-09 02:10:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 66.5 |
-| bc492490-407b-383a-9832-206a8f030d79 | 2.6905 | -60.2591 | 2026-03-09 02:20:00 | GOES-19 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 66.3 |
-| 5062a97e-604a-3492-aa3a-cebbf395f4c2 | -6.5631 | -51.1126 | 2026-03-09 02:30:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 68.4 |
-| 7da8279c-3b03-3e27-83e9-4e6a8a9e5b54 | -6.5631 | -51.1126 | 2026-03-09 02:50:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 54.8 |
-| eb207c54-da9f-35c4-a3bc-7a03274b9160 | -10.75461 | -37.18448 | 2026-03-09 03:00:00 | NOAA-21 | RIACHUELO | SERGIPE | Brasil | 2805901 | 28 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 36d97db4-420b-3b75-8cb1-ecd36caa022c | -10.74829 | -37.18339 | 2026-03-09 03:00:00 | NOAA-21 | RIACHUELO | SERGIPE | Brasil | 2805901 | 28 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| db5c071a-076f-3c76-8f51-0b85ab54892b | -10.74728 | -37.18846 | 2026-03-09 03:00:00 | NOAA-21 | RIACHUELO | SERGIPE | Brasil | 2805901 | 28 | 33 | nan | nan | nan | Mata Atlântica | 4.5 |
-| 488a3746-8d0a-3f06-9dcd-4102ee53892f | -6.5631 | -51.1126 | 2026-03-09 03:10:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 51.1 |
-| 547ced4e-98c8-38b4-8992-b76824f67757 | -4.71149 | -38.45118 | 2026-03-09 03:28:00 | NPP-375D | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 86e0bbc7-2fc3-3dd4-aa6f-070e4ba69c02 | -4.70639 | -38.45033 | 2026-03-09 03:28:00 | NPP-375D | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 938cd0ea-15c0-3f65-b57c-762b75cd2517 | 2.8713 | -61.0716 | 2026-03-09 03:30:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 94.2 |
-| e71ac230-f079-3273-89d9-7e5e50d02c5c | 2.8713 | -61.0905 | 2026-03-09 03:30:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 55.9 |
-| 80001567-78de-3d9c-b96e-584c1eacbc51 | -6.05457 | -35.44964 | 2026-03-09 03:30:00 | NPP-375D | VERA CRUZ | RIO GRANDE DO NORTE | Brasil | 2414803 | 24 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 55a57dac-07a4-3fe7-ad49-02fc7106469a | -6.05502 | -35.44903 | 2026-03-09 03:30:00 | NPP-375D | VERA CRUZ | RIO GRANDE DO NORTE | Brasil | 2414803 | 24 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 7b6404dc-a350-394b-851b-19acd5c6c71b | -7.92023 | -37.62979 | 2026-03-09 03:30:00 | NPP-375D | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 0.6 |
-| 7d0f3d65-74ca-3c7e-8274-5709781915a1 | -11.57296 | -37.52919 | 2026-03-09 03:30:00 | NPP-375D | JANDAÍRA | BAHIA | Brasil | 2917904 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| f04ec3d2-d0fe-346c-9e2c-66226a3d6b8e | -17.60929 | -39.75305 | 2026-03-09 03:32:00 | NPP-375D | TEIXEIRA DE FREITAS | BAHIA | Brasil | 2931350 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| a4b543d9-dba3-3de2-bf67-76a5070259f8 | -16.92556 | -39.3785 | 2026-03-09 03:32:00 | NPP-375D | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| e2db7af8-31f8-3e81-b41d-964db98acc6e | 2.8713 | -61.0716 | 2026-03-09 03:40:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| 8223b128-85d8-3546-954d-c54a70d98478 | -4.70923 | -38.44993 | 2026-03-09 03:49:00 | NOAA-20 | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| 1aedce6f-fda2-3739-b22c-58ce4b533a41 | -4.70982 | -38.44622 | 2026-03-09 03:49:00 | NOAA-20 | MORADA NOVA | CEARÁ | Brasil | 2308708 | 23 | 33 | nan | nan | nan | Caatinga | 0.7 |
-| ebda3a64-cd06-3c30-abc8-cfca0d0fe9b7 | -9.61351 | -37.0517 | 2026-03-09 03:51:00 | NOAA-20 | MAJOR ISIDORO | ALAGOAS | Brasil | 2704401 | 27 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| b10bb0a4-4d7a-3524-878a-5a8df1407bae | -9.47131 | -46.08431 | 2026-03-09 03:51:00 | NOAA-20 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.3 |
-| 0d713316-684e-3168-ad89-b8dd9c56becc | -9.61074 | -37.04767 | 2026-03-09 03:51:00 | NOAA-20 | MAJOR ISIDORO | ALAGOAS | Brasil | 2704401 | 27 | 33 | nan | nan | nan | Caatinga | 1.6 |
-| c6b1e61b-0e4c-3bf8-a919-ecf10ebbe584 | -15.3844 | -43.58556 | 2026-03-09 03:51:00 | NOAA-20 | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 409925b9-2b71-3c96-bdc1-4e0b77318ac6 | -9.61019 | -37.05117 | 2026-03-09 03:51:00 | NOAA-20 | MAJOR ISIDORO | ALAGOAS | Brasil | 2704401 | 27 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 743963b1-e455-379e-907b-578b445d56c9 | -15.60659 | -42.02034 | 2026-03-09 03:51:00 | NOAA-20 | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 5b7ac3fe-6fde-314c-956b-7217853e5c45 | -9.47581 | -46.08829 | 2026-03-09 03:51:00 | NOAA-20 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| b41033b2-d284-3cb7-9418-6a29495a83bd | -17.61211 | -39.75164 | 2026-03-09 03:53:00 | NOAA-20 | TEIXEIRA DE FREITAS | BAHIA | Brasil | 2931350 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 17f51be0-7ed7-3b91-a261-75bc194b104e | -20.08161 | -40.20375 | 2026-03-09 03:53:00 | NOAA-20 | SERRA | ESPÍRITO SANTO | Brasil | 3205002 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 085bdf69-dbe0-39f1-a006-0502fc7dffeb | 2.8713 | -61.0905 | 2026-03-09 04:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 68.5 |
-| ff0ef28b-7b45-3b3a-a1a2-2fbf405c6fe4 | 1.7049 | -60.2901 | 2026-03-09 04:30:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 58.7 |
-| a9512bfb-2741-3653-8a3a-dc54a2312237 | 2.73165 | -60.35883 | 2026-03-09 04:38:00 | NOAA-21 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| b1f374be-1590-39a0-97e9-c79bf22c6274 | 2.3208 | -60.22238 | 2026-03-09 04:38:00 | NOAA-21 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 0f271ff1-37c6-3071-a1e8-40631e1be8ed | 2.72488 | -60.35988 | 2026-03-09 04:38:00 | NOAA-21 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| 89e7370d-e2dc-383f-b289-43d8d27fc23c | 3.49034 | -60.75848 | 2026-03-09 04:38:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 48c24ca1-dc0b-3367-9362-4773e2a5c495 | 3.49133 | -60.76516 | 2026-03-09 04:38:00 | NOAA-21 | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| c68293ce-4c6e-3555-bc73-c4e139e99b87 | 2.69528 | -60.2526 | 2026-03-09 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 15.0 |
-| 75ebd395-458b-3171-8b18-6bdef1a653f3 | 2.70095 | -60.26436 | 2026-03-09 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| 1fd78ac4-2e46-3fec-927d-16601676e70d | 2.70875 | -60.25055 | 2026-03-09 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| 236a8158-025e-3771-bf1f-0815cdf1d2fd | 2.69911 | -60.25242 | 2026-03-09 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 9.5 |
-| 1d3424a2-0595-337f-8a47-a65244efc43f | 2.69704 | -60.26456 | 2026-03-09 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 10.9 |
-| 3efd9c72-1877-37d5-a396-44271a5a4831 | 2.6942 | -60.26533 | 2026-03-09 04:38:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| aee7664a-7225-3b38-81a7-dc1e9289ddc4 | 2.86861 | -61.06048 | 2026-03-09 04:38:00 | NOAA-21 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 5a522126-002b-3403-a395-b51ba0075c65 | 2.86534 | -61.06857 | 2026-03-09 04:38:00 | NOAA-21 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| f44cc7e8-7202-3e4e-bd85-45a1a95eec3d | 2.7267 | -60.3726 | 2026-03-10 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 789.5 |
+| 500dc926-fd35-3a12-b64f-dca12cbc8f58 | 2.7085 | -60.3729 | 2026-03-10 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 447.6 |
+| 543be69d-052a-3c15-bbed-5206cc0abffc | 2.7084 | -60.3919 | 2026-03-10 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 173.5 |
+| d2cc520a-fcc2-3bca-bdcc-a9867d9e23d7 | 2.7268 | -60.3536 | 2026-03-10 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 243.3 |
+| 32f24633-7544-3fbb-bf09-3b1e71ab6c2a | 2.7085 | -60.3539 | 2026-03-10 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 139.2 |
+| 61cd73a6-2de8-3455-9626-55982253b029 | 2.7267 | -60.3916 | 2026-03-10 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 264.1 |
+| 2c0be132-b551-3a02-bd31-6884f0dadf73 | 2.7085 | -60.3729 | 2026-03-10 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 317.1 |
+| 36812452-1464-39c3-9435-d2596d43c567 | 1.7049 | -60.2901 | 2026-03-10 00:10:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 52.9 |
+| 070cfc72-3dc5-3697-8aa8-55fa5c50d96e | 2.7267 | -60.3726 | 2026-03-10 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 786.2 |
+| f60b1555-7169-3196-95af-77c47f3de1c3 | -10.0651 | -36.29 | 2026-03-10 00:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | 118.0 |
+| 3d4aefa3-9ad5-3203-8a8b-664f26454578 | 2.7267 | -60.3916 | 2026-03-10 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 294.5 |
+| 4a54fe44-1811-30c2-b018-9f53c892554a | -10.0265 | -36.2969 | 2026-03-10 00:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | 76.1 |
+| 12f66faf-dfd0-31f3-ac66-259f19b65b3c | -10.0463 | -36.2664 | 2026-03-10 00:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 70.9 |
+| bed2c947-d119-3e6e-b8ac-7898cdd137bf | -10.0458 | -36.2935 | 2026-03-10 00:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | 318.7 |
+| d003da8d-d2c3-3e8d-9769-4dd6a771ee57 | 2.7268 | -60.3536 | 2026-03-10 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 202.4 |
+| c57eced2-42b6-35dd-89ce-c49900e932ca | 2.7085 | -60.3539 | 2026-03-10 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 98.8 |
+| e48713c8-fa3a-3611-b3c6-7648aacc7bf0 | -9.9879 | -36.3038 | 2026-03-10 00:10:00 | GOES-19 | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Mata Atlântica | 86.0 |
+| 7564ca37-7955-37ed-abab-adf909fe1594 | -10.0453 | -36.3205 | 2026-03-10 00:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | 91.3 |
+| 71aaf906-d832-36cd-ae1a-7fa9266cba32 | 2.7084 | -60.3919 | 2026-03-10 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 136.1 |
+| 5132021b-da72-3fe0-a79b-af2f4119ac7f | 1.7049 | -60.2901 | 2026-03-10 00:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 48.5 |
+| 3a42fed7-c229-3366-8c94-380d17107577 | 1.7765 | -61.2548 | 2026-03-10 00:20:00 | GOES-19 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 42.4 |
+| 55d47757-6a26-3cbf-af50-8eed0e3feba9 | 2.7084 | -60.3919 | 2026-03-10 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 104.1 |
+| fbfe433b-bd03-361d-ad53-e1444eeaaeea | 2.7085 | -60.3539 | 2026-03-10 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 93.5 |
+| 20e2f353-c13d-3142-b4d4-bbcf610a57ef | 2.7268 | -60.3536 | 2026-03-10 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 204.8 |
+| c6817ad6-142d-32bc-95ef-58db682b85ef | 2.7267 | -60.3726 | 2026-03-10 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 665.8 |
+| 72165610-38fc-3b4d-a6a6-8a4d55f0af80 | 2.7267 | -60.3916 | 2026-03-10 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 213.2 |
+| 7a92831a-aaa4-3784-b13a-ebd6d6df2d43 | 2.7085 | -60.3729 | 2026-03-10 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 260.0 |
+| 761d6943-730a-3043-8aec-beb8a80c9031 | -9.8018 | -35.9583 | 2026-03-10 00:50:00 | GOES-19 | BARRA DE SÃO MIGUEL | ALAGOAS | Brasil | 2700607 | 27 | 33 | nan | nan | nan | Mata Atlântica | 68.9 |
+| b89c56ed-eaf3-388f-bca5-d1529da61d72 | -9.8013 | -35.9855 | 2026-03-10 00:50:00 | GOES-19 | BARRA DE SÃO MIGUEL | ALAGOAS | Brasil | 2700607 | 27 | 33 | nan | nan | nan | Mata Atlântica | 77.6 |
+| 9456782a-0fb2-3066-b113-6fceb744af7a | -10.1928 | -36.6699 | 2026-03-10 00:50:00 | GOES-19 | IGREJA NOVA | ALAGOAS | Brasil | 2703205 | 27 | 33 | nan | nan | nan | Caatinga | 75.5 |
+| 4c3da376-d6cd-3a60-af66-3d1e552f23fe | 2.69025 | -60.25293 | 2026-03-10 01:07:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 14.3 |
+| f8fe0e5e-c398-36d9-849b-cd1c39866b2f | 2.90286 | -61.06246 | 2026-03-10 01:07:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
+| c31db6e7-12dc-32ed-a584-c9585d5ede3e | 2.7207 | -60.37812 | 2026-03-10 01:07:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 182.5 |
+| 3ce25732-aae8-3ce5-95ae-d0961c2fb991 | 2.6889 | -60.26289 | 2026-03-10 01:07:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 7.1 |
+| 83d078e4-a021-3b5f-ac9c-340d99c58588 | 2.91319 | -61.05445 | 2026-03-10 01:07:00 | TERRA_M-M | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| c994176c-3ec9-37a8-b767-f235c505f52d | 2.7114 | -60.37683 | 2026-03-10 01:07:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 8.3 |
+| 98f3d79c-6b39-39fe-b583-dd353c4a2bf1 | 2.71935 | -60.38794 | 2026-03-10 01:07:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 17.7 |
+| 5d834c3a-945a-3d74-b1f0-970b80075781 | 2.73137 | -60.36957 | 2026-03-10 01:07:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 23.8 |
+| e349772f-9f3c-3fb8-8cb7-96c1f7f4d31c | 2.72206 | -60.36828 | 2026-03-10 01:07:00 | TERRA_M-M | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 101.4 |
+| 75b3a6a3-8618-3c52-907a-d6c130841a61 | 2.96044 | -60.04501 | 2026-03-10 01:07:00 | TERRA_M-M | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| d61c1678-1ddb-3fe6-b085-5a46922a01f1 | -10.026 | -36.324 | 2026-03-10 01:20:00 | GOES-19 | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Caatinga | 152.7 |
+| 2d97f8ad-7651-39a2-aa8f-91054fe92a1e | 2.7085 | -60.3729 | 2026-03-10 01:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 48.4 |
+| 4d4500b3-c360-3b83-8b52-285eab1736f2 | -10.0453 | -36.3205 | 2026-03-10 01:20:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | 88.9 |
+| a86d02db-dcc9-3597-99e7-d31fcedcd3bc | 2.7267 | -60.3726 | 2026-03-10 01:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| dd4e749f-a10d-3284-939b-ea37dd39e9b8 | -10.0453 | -36.3205 | 2026-03-10 01:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Caatinga | 134.3 |
+| adc2ccde-144f-330f-a157-bb05913a1408 | -10.0484 | -36.1581 | 2026-03-10 01:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 136.6 |
+| ef2703a7-3e6d-390d-80ed-86420af8f644 | 2.7085 | -60.3729 | 2026-03-10 01:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 83.0 |
+| 1b8a840d-d766-32c3-a8c2-166839c77aba | -10.0677 | -36.1546 | 2026-03-10 01:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 128.7 |
+| fa105d96-5ab5-3f83-80a7-0ad11313aa9e | -10.0478 | -36.1852 | 2026-03-10 01:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 220.6 |
+| 7b8db664-47ca-31a1-a1a0-f7a878e14c90 | -10.026 | -36.324 | 2026-03-10 01:30:00 | GOES-19 | TEOTÔNIO VILELA | ALAGOAS | Brasil | 2709152 | 27 | 33 | nan | nan | nan | Caatinga | 135.4 |
+| 726866aa-8aaf-39ec-baec-a29d4b28f918 | 2.7268 | -60.3536 | 2026-03-10 01:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 40.6 |
+| 29ce28b3-4be3-383a-b5c2-2e3e54d0a623 | 2.7267 | -60.3916 | 2026-03-10 01:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 56.0 |
+| 86cd7ef8-25d6-34f7-893d-3c824f064a6c | -10.0672 | -36.1817 | 2026-03-10 01:30:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 203.9 |
+| 9994104b-0447-3369-809b-e41090c73526 | 2.7267 | -60.3726 | 2026-03-10 01:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 110.1 |
+| 6fd3484e-fb34-3845-83c3-951574a171a6 | 2.7084 | -60.3919 | 2026-03-10 01:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 45.0 |
+| 82cf820c-b17d-3d61-aa85-4f8db325eb37 | 2.7267 | -60.3726 | 2026-03-10 01:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 66.1 |
+| 626b3001-d19d-3204-a51f-07f76898a88a | 2.7085 | -60.3729 | 2026-03-10 01:40:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 51.8 |
+| bc3df931-6b66-3c90-b7c1-e220e15b579f | 2.7267 | -60.3726 | 2026-03-10 01:50:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 43.9 |
+| a8c56c8f-52f8-33f0-924a-278da0a5da16 | -9.7221 | -36.1077 | 2026-03-10 02:30:00 | GOES-19 | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 65.7 |
+| f0f48278-4594-385b-b84a-2f8a74d56c2d | -9.7221 | -36.1077 | 2026-03-10 02:40:00 | GOES-19 | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 78.6 |
+| a704cb12-9d5a-38d5-a716-93e6f4ee87cd | -10.178 | -36.4313 | 2026-03-10 02:50:00 | GOES-19 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 84.7 |
+| 8758cafe-2cc8-3697-9ab0-e53545715703 | -10.1775 | -36.4582 | 2026-03-10 02:50:00 | GOES-19 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | 138.7 |
+| 2bfb1e38-565a-392f-8101-8d62e2fb7369 | -10.1968 | -36.4547 | 2026-03-10 02:50:00 | GOES-19 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 84.2 |
+| 46d63030-ef5b-335b-a341-da92aef24ee5 | -10.1775 | -36.4582 | 2026-03-10 03:00:00 | GOES-19 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | 111.6 |
+| 2b545f11-9864-392b-982e-c512f152ff66 | 2.7267 | -60.3726 | 2026-03-10 03:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 41.4 |
+| 326f4d4c-b51f-3520-b305-f3c3a26c76ba | -10.178 | -36.4313 | 2026-03-10 03:00:00 | GOES-19 | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 83.9 |
+| ec9ddb19-d566-3732-8b38-a445edbe2821 | 2.7085 | -60.3729 | 2026-03-10 03:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 46.8 |
+| ab6d12a4-3732-3a92-8a0c-8d6ea2866e88 | -10.201 | -36.2386 | 2026-03-10 03:10:00 | GOES-19 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 77.9 |
+| e57d5422-ef26-3f19-bf1a-b20f4f89341a | 2.7267 | -60.3726 | 2026-03-10 03:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 59.0 |
+| 8c8dab18-6e6c-3903-b2f6-c91fcb4abefc | -11.5593 | -38.26508 | 2026-03-10 03:10:00 | NPP-375D | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| 43872d27-87f7-3acc-803c-142a158808e1 | -11.55321 | -38.26384 | 2026-03-10 03:10:00 | NPP-375D | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| 4dd6a842-f43b-304e-8d10-e7b779b26f17 | -10.19798 | -36.24393 | 2026-03-10 03:13:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| 8f00ada7-e609-3e1e-8739-cb6e668eb299 | -10.19867 | -36.24033 | 2026-03-10 03:13:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 7.6 |
+| 577b5eef-b267-3575-80f8-61afd69cce1e | -10.18287 | -36.44287 | 2026-03-10 03:13:00 | NPP-375D | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 7.2 |
+| 4e85eeb2-3111-323a-b561-78e28bd5c538 | -10.1814 | -36.45058 | 2026-03-10 03:13:00 | NPP-375D | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| 8581e6d4-aeca-3bb2-8509-f79920a8a243 | -10.18696 | -36.45171 | 2026-03-10 03:13:00 | NPP-375D | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| bc0b259a-f6c6-3d96-a614-973476297f8c | -15.72781 | -41.4385 | 2026-03-10 03:13:00 | NPP-375D | ÁGUAS VERMELHAS | MINAS GERAIS | Brasil | 3101003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| efff2e00-ced9-3923-97dd-67fca0a4520d | -10.18214 | -36.44674 | 2026-03-10 03:13:00 | NPP-375D | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Caatinga | 8.1 |
+| bdf9b632-dcff-3e5b-b650-86ba7cf5a347 | -15.72634 | -41.44505 | 2026-03-10 03:13:00 | NPP-375D | ÁGUAS VERMELHAS | MINAS GERAIS | Brasil | 3101003 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| bc321bdf-5679-30c5-b003-3d314a242285 | -10.19729 | -36.24755 | 2026-03-10 03:13:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| 4df361ae-b4ec-3d61-93e9-b2edf525dc2d | -10.18771 | -36.44776 | 2026-03-10 03:13:00 | NPP-375D | PENEDO | ALAGOAS | Brasil | 2706703 | 27 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
+| c51caa35-dd35-3ef6-9bdf-3f2abaa79b21 | -10.19249 | -36.24284 | 2026-03-10 03:13:00 | NPP-375D | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| ef005702-b3a0-3f74-ba5b-65a30967fa70 | -9.81793 | -36.12726 | 2026-03-10 03:13:00 | NPP-375D | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| d46446e4-e813-3890-934c-c7e891a8fc50 | -9.81861 | -36.12365 | 2026-03-10 03:13:00 | NPP-375D | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 4.6 |
+| 25cbe24d-2f5f-36e5-bfe6-5674f2fd6da9 | 2.7267 | -60.3726 | 2026-03-10 03:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 45.1 |
+| 2b00cc44-f317-37ae-9dc8-64699a8b90de | 2.7267 | -60.3726 | 2026-03-10 03:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 43.2 |
+| 8cb3ba8f-93a6-3f7c-a7a8-bb3850c0c50c | -9.81938 | -36.12415 | 2026-03-10 03:32:00 | NOAA-20 | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 9711d2aa-1159-3d78-b69b-bedebe6b1230 | -10.20016 | -36.24212 | 2026-03-10 03:32:00 | NOAA-20 | CORURIPE | ALAGOAS | Brasil | 2702306 | 27 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| ee400430-c21d-351a-ab96-f22baa28dc69 | -11.57724 | -38.2457 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| d87fbbee-797f-325b-908f-3d071a03447e | -11.55723 | -38.26645 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| aacca0e2-96f4-37f5-abec-2a053f935ff8 | -5.05178 | -37.41446 | 2026-03-10 03:32:00 | NOAA-20 | MOSSORÓ | RIO GRANDE DO NORTE | Brasil | 2408003 | 24 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 1d99314b-9cd1-3c25-89da-bdc1734bdda1 | -9.93158 | -39.22287 | 2026-03-10 03:32:00 | NOAA-20 | UAUÁ | BAHIA | Brasil | 2932002 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 27b47b26-a8f0-3633-87ca-c3db4d9a6620 | -11.58121 | -38.24639 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| afb7461c-c5ae-3275-8a77-501c76828dfa | -11.56656 | -38.25998 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 0.7 |
+| a374ebea-4bbf-3ad8-bf7a-29df4f892d78 | -9.57395 | -40.59668 | 2026-03-10 03:32:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| 50697463-57de-3340-ba4f-ffbfbe0c1d82 | -10.23993 | -37.43336 | 2026-03-10 03:32:00 | NOAA-20 | NOSSA SENHORA DA GLÓRIA | SERGIPE | Brasil | 2804508 | 28 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 47fadbdd-b382-3314-9268-b30dc8b9fa54 | -11.55785 | -38.26294 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| c49696a5-4071-33e1-9049-ca4a158b9176 | -9.81577 | -36.12353 | 2026-03-10 03:32:00 | NOAA-20 | SÃO MIGUEL DOS CAMPOS | ALAGOAS | Brasil | 2708600 | 27 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 2e788cbb-e869-3960-af23-9b3263610a86 | -11.55326 | -38.26573 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| fd4d9567-1f88-37e4-bd88-24dc7d81ad99 | -11.56182 | -38.26365 | 2026-03-10 03:32:00 | NOAA-20 | CRISÓPOLIS | BAHIA | Brasil | 2909604 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
