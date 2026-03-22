@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 52738db1-f09d-3361-9af2-f2436a921f30 | -21.81821 | -48.70303 | 2026-03-21 04:19:00 | NOAA-21 | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 27a145ec-d1dd-321e-b56e-707b7335412c | -23.40781 | -46.4206 | 2026-03-21 04:19:00 | NOAA-21 | GUARULHOS | SÃO PAULO | Brasil | 3518800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 896e904c-ab0d-3b94-99dc-d1169a71a48e | -23.59638 | -46.43015 | 2026-03-21 04:19:00 | NOAA-21 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 5dfcf79a-b0ea-3076-9c4a-1162fb2e8f22 | -21.82161 | -48.70372 | 2026-03-21 04:19:00 | NOAA-21 | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 6a804985-780d-3a8c-b49d-681ca0a82cbd | -23.45344 | -46.69988 | 2026-03-21 04:19:00 | NOAA-21 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.3 |
-| 93c48a57-74b1-38a5-a325-941ddd9fa511 | -23.04204 | -47.85987 | 2026-03-21 04:19:00 | NOAA-21 | LARANJAL PAULISTA | SÃO PAULO | Brasil | 3526407 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| ba749cea-65b3-3863-abdb-54673758a57c | -27.72621 | -49.90584 | 2026-03-21 04:19:00 | NOAA-21 | BOCAINA DO SUL | SANTA CATARINA | Brasil | 4202438 | 42 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
-| ea3d5931-8f82-38c8-aa95-6f6d5a25177b | -15.28337 | -43.0624 | 2026-03-21 04:19:00 | NOAA-21 | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| b714007c-a2da-3d58-8631-1b80c4d997ed | -20.63112 | -51.69676 | 2026-03-21 04:19:00 | NOAA-21 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 1fb26597-303e-3f8f-9094-fe53eed89e8f | -23.57767 | -46.50846 | 2026-03-21 04:19:00 | NOAA-21 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 1ae877f1-a542-34a1-97e8-f9feaf095c93 | -23.46969 | -48.90452 | 2026-03-21 04:19:00 | NOAA-21 | PARANAPANEMA | SÃO PAULO | Brasil | 3535804 | 35 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 32f43b5d-93bf-3fc2-a111-0e6cb65f9968 | -23.59305 | -46.42957 | 2026-03-21 04:19:00 | NOAA-21 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 9.9 |
-| c7921f9a-7736-30b2-9b50-ee562bec98dd | -15.28681 | -43.06293 | 2026-03-21 04:19:00 | NOAA-21 | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| 310f2106-174d-33ce-8937-deb61cd5a3dd | -20.62646 | -51.69953 | 2026-03-21 04:19:00 | NOAA-21 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| afeb96e3-3bb5-33bd-9753-1b428d061ff9 | -15.28737 | -43.05906 | 2026-03-21 04:19:00 | NOAA-21 | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| aa2f0320-5900-35b1-9171-ee88f532145d | -21.82093 | -48.70767 | 2026-03-21 04:19:00 | NOAA-21 | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 368fe09c-b2c5-3226-9d23-0be7cc292a72 | -23.39314 | -51.12927 | 2026-03-21 04:19:00 | NOAA-21 | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
-| 64ad3049-be2d-3cff-bf79-249379ce3e1e | -31.14474 | -53.62423 | 2026-03-21 04:21:00 | NOAA-21 | BAGÉ | RIO GRANDE DO SUL | Brasil | 4301602 | 43 | 33 | nan | nan | nan | Pampa | 0.7 |
-| 4b91f16e-20fe-3b25-a797-86f7fecee291 | 2.1226 | -61.22302 | 2026-03-21 04:44:00 | NPP-375D | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 289b75e8-520d-3ff6-aad4-8ec37e987e5e | 3.23579 | -60.13131 | 2026-03-21 04:44:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 3.9 |
-| ba3c1aa3-f2cc-3fa7-8dbe-99c6f87831d0 | 3.23542 | -60.12558 | 2026-03-21 04:44:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e9afd047-bb18-3ad0-9422-3002deed0887 | 3.56369 | -60.16322 | 2026-03-21 04:44:00 | NPP-375D | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| ccea52a7-1516-3976-a42d-808b1fe8b6f5 | 3.23628 | -60.13158 | 2026-03-21 04:44:00 | NPP-375D | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 9da3b3c2-d611-3e3f-9738-09b7423589e4 | -6.44547 | -40.9811 | 2026-03-21 04:46:00 | NPP-375D | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| e65b2889-5a40-3553-b437-8fbf9a8d1947 | -6.44504 | -40.9841 | 2026-03-21 04:46:00 | NPP-375D | PIMENTEIRAS | PIAUÍ | Brasil | 2208106 | 22 | 33 | nan | nan | nan | Caatinga | 1.4 |
-| 0733fb9a-965c-3764-a644-0d39df6b3b1e | -8.43314 | -44.04184 | 2026-03-21 04:46:00 | NPP-375D | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| e8c1e245-639c-3eed-a69c-52d7860b0936 | -8.4337 | -44.03783 | 2026-03-21 04:46:00 | NPP-375D | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f425ee90-4d2b-3eff-9260-32092b00840e | -8.43257 | -44.04585 | 2026-03-21 04:46:00 | NPP-375D | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 3a24aadd-0096-332c-a0e0-38c38556c614 | -8.42944 | -44.03722 | 2026-03-21 04:46:00 | NPP-375D | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 1ec09583-6238-34ee-847d-28b10c6c86ba | -8.42887 | -44.04124 | 2026-03-21 04:46:00 | NPP-375D | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| ab79693f-d9be-3b04-8742-da5c5bd2007f | -23.39112 | -51.12716 | 2026-03-21 04:49:00 | NPP-375D | LONDRINA | PARANÁ | Brasil | 4113700 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| ec2df0a3-6e9a-3bc6-bfdc-3f3d385a6a6b | -14.11894 | -43.42285 | 2026-03-21 04:49:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 1f3049e2-a07b-31d5-96bc-d4b3d26b5802 | -14.12444 | -43.41815 | 2026-03-21 04:49:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 00de4a85-0673-3c15-b11f-f56752d7bc83 | -15.28472 | -43.06656 | 2026-03-21 04:49:00 | NPP-375D | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 0ad3d14b-a5b7-39b8-ab9b-277dfc6f06fc | -14.11962 | -43.41747 | 2026-03-21 04:49:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| ae703b7c-8494-3221-aeb2-3bbad274d570 | -23.46641 | -48.90484 | 2026-03-21 04:49:00 | NPP-375D | PARANAPANEMA | SÃO PAULO | Brasil | 3535804 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| c3f4d40d-f326-31d6-ab9f-1fb51197e638 | -23.59454 | -46.43002 | 2026-03-21 04:49:00 | NPP-375D | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.5 |
-| e1249b95-dfa3-3e8e-bbf2-2f01f0e1b0df | -15.28546 | -43.06065 | 2026-03-21 04:49:00 | NPP-375D | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 2.8 |
-| 587d5584-be33-3e80-825f-e3cc4cd4719b | -23.47026 | -48.90546 | 2026-03-21 04:49:00 | NPP-375D | PARANAPANEMA | SÃO PAULO | Brasil | 3535804 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| c9081dd1-71e5-36dd-b993-0f1e37635849 | -25.13806 | -50.8573 | 2026-03-21 04:49:00 | NPP-375D | GUAMIRANGA | PARANÁ | Brasil | 4108957 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| ba96c1d5-cf9d-3885-9a3b-542bcb34e415 | -14.12927 | -43.41883 | 2026-03-21 04:49:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 4.2 |
-| 42bf987c-bda8-39bd-bacd-1b8bec808aaa | -15.28347 | -43.06675 | 2026-03-21 04:49:00 | NPP-375D | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 2.7 |
-| 07c1d86e-ac61-3129-88b6-f715c0d9ee97 | -21.3852 | -55.86156 | 2026-03-21 04:49:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d73fbbac-0855-36d1-a497-4c340fe592fe | -21.38321 | -55.86354 | 2026-03-21 04:49:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2c88900a-d558-3da2-a363-b1890e6477d1 | -21.82185 | -48.70835 | 2026-03-21 04:49:00 | NPP-375D | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 094dcc22-113d-36bb-9b85-678ed0275627 | -14.12376 | -43.42353 | 2026-03-21 04:49:00 | NPP-375D | PALMAS DE MONTE ALTO | BAHIA | Brasil | 2923407 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 20f483e4-9ada-3626-99dd-fc6788cf3b51 | -21.81802 | -48.70785 | 2026-03-21 04:49:00 | NPP-375D | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 7b83e4e9-575a-31f7-b5ac-5591473d148e | -15.28417 | -43.06083 | 2026-03-21 04:49:00 | NPP-375D | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 4.7 |
-| 04f0f631-4d83-34df-add5-f346080f41d5 | -28.91481 | -55.96341 | 2026-03-21 04:51:00 | NPP-375D | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 1.1 |
-| 84c16b42-f93d-3489-989e-2f4da3bcc059 | 2.59845 | -61.30203 | 2026-03-21 05:04:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| fc57bbde-fe37-3b16-8494-3a7b695d926b | 2.5937 | -61.30274 | 2026-03-21 05:04:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8c336217-395b-3262-878c-9c555404facc | 2.12451 | -61.21994 | 2026-03-21 05:04:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 15ee080c-6021-34e7-a956-27d0bf53b017 | 2.11983 | -61.2207 | 2026-03-21 05:04:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| c3c422c7-6acb-3059-99b0-0c88464d1654 | 3.36231 | -60.17567 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ad40f614-e938-329e-b54b-06eff88cb38b | 2.24968 | -60.2878 | 2026-03-21 05:04:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 007e01ae-887f-3b0b-a729-c6ccd974bb93 | 1.99447 | -60.55952 | 2026-03-21 05:04:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| ca9c58bb-6002-38c7-b3bb-3cdc92040ef1 | 3.33762 | -60.19285 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 8a03eed1-5fe5-3300-9c7e-e975a7b90d9b | 3.2385 | -60.34218 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 92fe9ada-b06d-3925-967a-b7f95d5750b4 | 1.91977 | -60.56847 | 2026-03-21 05:04:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 297e5644-d364-3465-9dae-f583b5f4dcbc | 3.33317 | -60.19352 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e803314f-01a4-3d70-8dc3-de18d0944a74 | 2.05369 | -61.81397 | 2026-03-21 05:04:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 57d1899f-4bde-31f9-bb7e-dc13cd7e74f5 | 2.78485 | -60.31707 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d520d2d2-51b7-317f-b22e-e44c5431b82b | 3.32113 | -60.20433 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 863a8394-4203-3bd1-9da9-9f768a693c27 | 1.80932 | -60.67022 | 2026-03-21 05:04:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 914276bc-c47d-3ed0-a80f-d39509205240 | 2.59779 | -61.30244 | 2026-03-21 05:04:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 4.1 |
-| b7a58ee5-9737-30df-8265-125db92f7c8a | 3.23328 | -60.1262 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d25faa2a-aa17-38f1-a922-6d372d4130ea | 3.32493 | -60.19926 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 1235e6a7-10fc-3c8e-8489-522f608263ac | 3.23769 | -60.12548 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 306b92b2-b1fa-334c-b19c-14788991077a | 1.97795 | -60.57117 | 2026-03-21 05:04:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 0c11f666-89c6-31a4-a6dd-e68ef703d12e | 3.23393 | -60.13049 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| d89bfe72-5472-368c-82c1-785a5f4da6f0 | 3.56335 | -60.16755 | 2026-03-21 05:04:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| f4b231b3-7bac-3300-b4b1-79a1ba11d19a | 2.05859 | -61.81331 | 2026-03-21 05:04:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 07257d8e-7018-37cc-a9fb-5146df165541 | 3.3712 | -60.17434 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 48a66811-124d-328b-a0aa-26c06e3d773a | 3.33696 | -60.18845 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5373b1c7-6437-3e11-8d55-c0365512ca49 | 3.56402 | -60.17196 | 2026-03-21 05:04:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| e2eb036b-297a-3515-8d27-c87b9c3c913a | 2.25409 | -60.2872 | 2026-03-21 05:04:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 79e06814-02ec-38fd-b8e2-a8d16620b3a0 | 3.32938 | -60.1986 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4f7eb73f-7e7e-37a9-bae8-b78d55c86944 | 1.67041 | -60.50094 | 2026-03-21 05:04:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 03dfd128-5c78-3580-95ad-6ad83ae9531d | 1.55652 | -60.66934 | 2026-03-21 05:04:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 524fd756-e13a-308a-aadd-9d8ff91427d7 | 2.73352 | -60.45064 | 2026-03-21 05:04:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 239af5ac-12e0-3f73-9d71-9afb8b470693 | 3.23835 | -60.12978 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 90b26202-de8a-335d-aa36-4106b221975c | 2.05288 | -61.80857 | 2026-03-21 05:04:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 2.8 |
-| 91804e7c-3590-3262-a3f1-faeb6a1af220 | 3.36675 | -60.175 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 91f2c205-994d-30ed-a997-5094f648be0a | 3.3414 | -60.18778 | 2026-03-21 05:04:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d2d6a62e-ee05-3d2f-b69d-ca981ba061c2 | 3.56269 | -60.16315 | 2026-03-21 05:04:00 | NOAA-20 | NORMANDIA | RORAIMA | Brasil | 1400407 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| aef4dce0-022f-3c2f-9d0f-1f86488866f9 | -8.43208 | -44.04452 | 2026-03-21 05:06:00 | NOAA-20 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| d1f50ac5-ee6c-368e-a09b-e2e882f74088 | -8.43282 | -44.03889 | 2026-03-21 05:06:00 | NOAA-20 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 261a4e6d-5037-387e-8d49-3f3a2ebac258 | -8.43221 | -44.03705 | 2026-03-21 05:06:00 | NOAA-20 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 4af24fbb-14f9-3088-a202-9a0d7526bb73 | -8.4315 | -44.04271 | 2026-03-21 05:06:00 | NOAA-20 | ALVORADA DO GURGUÉIA | PIAUÍ | Brasil | 2200459 | 22 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| ae97e09e-e4c7-3b3e-9da4-48c25aba20d4 | -15.12259 | -59.34351 | 2026-03-21 05:08:00 | NOAA-20 | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 715d2575-287d-30cf-b3b9-ec6866c8abdf | -21.38491 | -55.85991 | 2026-03-21 05:10:00 | NOAA-20 | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| bc3c2d3b-7bd3-3a38-a312-6eeecaf22689 | -23.59414 | -46.43334 | 2026-03-21 05:10:00 | NOAA-20 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.8 |
-| 042365f6-a2c3-30f7-a9a5-34d655514169 | -21.81776 | -48.70935 | 2026-03-21 05:10:00 | NOAA-20 | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 62a952bf-1b30-3459-9b54-711a83739dfd | -21.81815 | -48.70522 | 2026-03-21 05:10:00 | NOAA-20 | TABATINGA | SÃO PAULO | Brasil | 3552700 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| eb81806b-1d55-364d-afe0-16b51c8c3abe | -25.43562 | -52.87959 | 2026-03-21 05:12:00 | NOAA-20 | QUEDAS DO IGUAÇU | PARANÁ | Brasil | 4120903 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 2b725f4a-22a9-3995-ab53-94f3a1859943 | -28.91274 | -55.96305 | 2026-03-21 05:12:00 | NOAA-20 | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 1.1 |
-| b4cafef5-d681-3d1f-b5f2-8cdacdda1d5a | 2.05338 | -61.80658 | 2026-03-21 05:55:00 | NOAA-21 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| e686ff9f-145d-3985-929f-e070a4a78d15 | 3.32492 | -60.1977 | 2026-03-21 05:55:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 43ca06d8-fdb2-3a98-86ce-f656f203ce0e | 3.31697 | -60.20327 | 2026-03-21 05:55:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 7562ea61-909a-3e09-8c29-47f025c7840d | 3.32128 | -60.20255 | 2026-03-21 05:55:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 2a360276-bd34-35e6-9d29-bdd33f02be5a | 0.9943 | -59.381 | 2026-03-22 01:00:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 111.9 |
+| f8f66bea-e6e3-3d59-abed-c4f426e31740 | 2.6336 | -61.3017 | 2026-03-22 01:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 74.6 |
+| 7953f4bd-1c53-384f-bc77-c5a702f44537 | 2.6518 | -61.3015 | 2026-03-22 01:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 349.7 |
+| 62e71e0f-e4a3-31fa-80c7-7ba77d1c6cff | 2.6519 | -61.2826 | 2026-03-22 01:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 396.2 |
+| 51aff6da-8df1-31fd-a63e-bda502edf14a | 2.6336 | -61.2828 | 2026-03-22 01:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 86.0 |
+| d0c54910-bb6a-37a4-881b-f630446d66a7 | 2.6518 | -61.3203 | 2026-03-22 01:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 46.1 |
+| 3f1bffe7-6265-30fa-83f0-a190b3861ca6 | 0.9943 | -59.381 | 2026-03-22 01:10:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 136.0 |
+| 5d2da313-4746-3b08-9bda-71eeb9c1b47e | 0.9761 | -59.3811 | 2026-03-22 01:10:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 114.4 |
+| 82c1a9d3-99a5-3eb5-b402-fce0bfa5285e | 2.6336 | -61.2828 | 2026-03-22 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 126.4 |
+| 9713394d-b475-3862-82ed-b86611d4fc40 | 0.9761 | -59.3811 | 2026-03-22 01:20:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 120.4 |
+| cb1f8600-53e0-3a27-bc40-40b7cfcfc1dd | 2.6519 | -61.2826 | 2026-03-22 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 357.1 |
+| 4de0754a-70c2-3ca2-aa47-4165df769b6f | 2.6518 | -61.3015 | 2026-03-22 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 323.3 |
+| 95ee10eb-17e5-390b-87c6-8e88567a4e4b | 2.6336 | -61.3017 | 2026-03-22 01:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 114.0 |
+| 83cb5899-6d3e-3670-810b-2a1dafa3c18e | 0.9943 | -59.381 | 2026-03-22 01:20:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 101.0 |
+| 64c8ab0d-8b91-37d9-8106-8b65963964db | 2.6701 | -61.3012 | 2026-03-22 02:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 51.4 |
+| 0b23ff39-5390-3827-b207-df167a82c5dc | 2.6336 | -61.2828 | 2026-03-22 02:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 181.2 |
+| d5ab0796-4f3d-3884-afee-2dc01d5ba423 | 2.6518 | -61.3015 | 2026-03-22 02:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 315.8 |
+| 20099518-308b-3988-a109-171f2428127e | 0.9761 | -59.3811 | 2026-03-22 02:30:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 94.8 |
+| a8455c21-2c55-333c-b52d-072ef81fa257 | 2.6519 | -61.2826 | 2026-03-22 02:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 384.8 |
+| 8833c138-90eb-32a4-a902-f2d3ff59a85b | 2.6701 | -61.2823 | 2026-03-22 02:30:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 63.3 |
+| db82b693-c293-3ec7-8932-f44bcafd7b31 | 2.6336 | -61.3017 | 2026-03-22 02:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 153.6 |
+| 80848926-27d0-3a81-a081-ab186ddb9b84 | 0.9943 | -59.381 | 2026-03-22 02:30:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 78.4 |
+| c9a88da6-c558-3958-a55d-15402e414f7a | 2.6336 | -61.2828 | 2026-03-22 02:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 106.9 |
+| 063b2da8-6ca8-30ee-913f-b7c4d6802574 | 0.9943 | -59.381 | 2026-03-22 02:40:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 91.4 |
+| 9a2133d1-7fc5-3e7a-ae1d-2b47a680ab4c | 2.6336 | -61.3017 | 2026-03-22 02:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 94.7 |
+| 89946fb2-16d1-308a-b786-421853870923 | 0.9761 | -59.3811 | 2026-03-22 02:40:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 80.1 |
+| 2d55047b-eb9d-362f-8aba-b93d9f3c1ee3 | 2.6518 | -61.3015 | 2026-03-22 02:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 448.3 |
+| 93eca399-5bc5-3c9c-8925-533f819533fc | 2.6519 | -61.2826 | 2026-03-22 02:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 483.1 |
+| ad26184b-22a9-3ad0-8b37-33fff6fbecec | 2.6519 | -61.2637 | 2026-03-22 02:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 47.5 |
+| da38d647-8838-33fe-8b18-cdde36083ac9 | 2.6701 | -61.3012 | 2026-03-22 02:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 105.5 |
+| cea9cd59-6917-3025-a3c9-cc09df72d6eb | 2.6701 | -61.2823 | 2026-03-22 02:50:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 145.0 |
+| 36e20d2c-c055-368c-a864-b402159ab1de | 2.6336 | -61.2828 | 2026-03-22 02:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 170.6 |
+| 3a3e5895-2b2c-3c47-8cdb-5dfe9ccece14 | 2.6336 | -61.3017 | 2026-03-22 02:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 125.7 |
+| 65053650-c386-3d9d-8852-6a6a1cc295de | 0.9943 | -59.381 | 2026-03-22 02:50:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 91.2 |
+| 02e46f1e-4d04-3f7a-9b56-36c32644a622 | 2.6519 | -61.2826 | 2026-03-22 02:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 471.6 |
+| 705309af-077c-33d2-b6a8-46fd5d1a053e | 0.9761 | -59.3811 | 2026-03-22 02:50:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 58.3 |
+| 9b6be319-4378-31d8-874a-20b95e53119a | 2.6518 | -61.3015 | 2026-03-22 02:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 335.4 |
+| 1aad6249-dbd4-3a67-b765-6950497df54a | 2.6701 | -61.2823 | 2026-03-22 03:00:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 58.2 |
+| 3303d301-fc22-3855-b555-1d87f4d8e8ac | 0.9943 | -59.381 | 2026-03-22 03:00:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 94.8 |
+| fd44b116-2546-325f-9617-b4b08653d80f | 2.6336 | -61.3017 | 2026-03-22 03:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 88.3 |
+| 16de169d-c0ea-32f5-81a5-22f80e86e9cb | 2.6519 | -61.2826 | 2026-03-22 03:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 529.4 |
+| 31b590b6-be81-3d46-a8dc-f63a5ced5446 | 2.6701 | -61.3012 | 2026-03-22 03:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 50.1 |
+| 95150e6a-93c5-31f5-8618-6c71db7aec8e | 2.6336 | -61.2828 | 2026-03-22 03:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 90.3 |
+| 3f689c0f-6260-3d4b-9be6-9551b31a0f15 | 0.9761 | -59.3811 | 2026-03-22 03:00:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 64.2 |
+| efe833a9-4879-3d58-9d59-ad558a110bfc | 2.6518 | -61.3015 | 2026-03-22 03:00:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 486.7 |
+| 182c9e15-9ca9-31d6-a92f-06fd25e1a84c | 0.9761 | -59.3811 | 2026-03-22 03:10:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| ab35ce74-f4b4-3057-9ee0-3f96522c67a8 | 2.6336 | -61.2828 | 2026-03-22 03:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| 013dfc92-3792-3cd8-818e-7352405b1cf9 | 2.6701 | -61.3012 | 2026-03-22 03:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 80.6 |
+| f42e9d3c-a8eb-339d-9156-8f4694470532 | 2.6519 | -61.2826 | 2026-03-22 03:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 399.2 |
+| 7104d4a0-d164-34f1-ad38-6447fe82a5c2 | 0.9943 | -59.381 | 2026-03-22 03:10:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 99.8 |
+| afd21967-4ec5-32f6-8e0d-142418748704 | 2.6518 | -61.3015 | 2026-03-22 03:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 411.1 |
+| bc384b02-93df-3e88-b0c1-454afa8e0fa0 | 2.6701 | -61.2823 | 2026-03-22 03:10:00 | GOES-19 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 79.5 |
+| 053a0db1-77d0-394f-a80a-9b2da1ed3e78 | 2.6336 | -61.3017 | 2026-03-22 03:10:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 88.9 |
+| ec2102c3-27af-3cab-aff3-b50209e95839 | 2.6518 | -61.3015 | 2026-03-22 03:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 364.8 |
+| 3ca3af6c-f84d-3f63-b0f4-9a560790eae0 | 0.9761 | -59.3811 | 2026-03-22 03:20:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 60.9 |
+| 18c0cdd7-9935-38bb-a407-b9d13dc86fe7 | 2.6336 | -61.2828 | 2026-03-22 03:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 69.9 |
+| 2014a461-be32-3cd3-be4a-2843c7abafe6 | 2.6336 | -61.3017 | 2026-03-22 03:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 65.1 |
+| a814a4a8-ccab-3229-b6fb-730c907f7787 | 0.9943 | -59.381 | 2026-03-22 03:20:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 80.6 |
+| c9628c6c-b4bd-3ef9-942b-cd858e1ada1f | 2.6519 | -61.2826 | 2026-03-22 03:20:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 381.2 |
+| cdddd52e-3ada-3ab1-b0c2-3e3df0aa15af | 2.6518 | -61.3015 | 2026-03-22 03:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 301.9 |
+| 8b00995f-2a21-3bc8-a79e-003c9caeeb36 | 0.9761 | -59.3811 | 2026-03-22 03:30:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 51.4 |
+| 3bf6d127-971c-39fd-b4f9-205d5401755f | 0.9943 | -59.381 | 2026-03-22 03:30:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 81.9 |
+| 1b2c8aae-1e51-3395-8302-fb2e83ebf738 | 2.6336 | -61.2828 | 2026-03-22 03:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 66.9 |
+| 3ce2dd39-7e54-3aac-a81a-73dcf2b76bd7 | 2.6336 | -61.3017 | 2026-03-22 03:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 69.3 |
+| 34dad357-68a8-35e0-b68c-56bab1f22608 | 2.6519 | -61.2826 | 2026-03-22 03:30:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 320.6 |
+| 6dd2cf22-048b-35b7-9c03-1bbbe7839039 | 2.6336 | -61.3017 | 2026-03-22 03:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 83.0 |
+| a0f18106-b630-3391-aab7-cea589702b79 | 2.6518 | -61.3015 | 2026-03-22 03:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 252.1 |
+| a933bf98-10c1-3037-937a-38f152cd2a98 | 0.9761 | -59.3811 | 2026-03-22 03:40:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 66.1 |
+| cb5d3325-7c51-392e-aced-d77567225baf | 0.9943 | -59.381 | 2026-03-22 03:40:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 60.3 |
+| 6a965a7c-0d8a-3797-bdd4-44cc497e30a3 | 2.6336 | -61.2828 | 2026-03-22 03:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 77.7 |
+| 95fa55b8-3af7-35b9-954c-8d7566b48074 | 2.6519 | -61.2826 | 2026-03-22 03:40:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 234.3 |
+| 167c7784-5c7f-3f91-a29e-4604be3b4213 | 0.9943 | -59.381 | 2026-03-22 03:50:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| 553cc1d2-a073-3257-bb27-f88f2681b8f5 | 2.6336 | -61.2828 | 2026-03-22 03:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 51.5 |
+| 06d49795-9d7b-3dad-8b0b-e4b480e1bfdf | 0.9761 | -59.3811 | 2026-03-22 03:50:00 | GOES-19 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| afc70814-38d6-3586-812f-f2c134b0a27c | 2.6518 | -61.3015 | 2026-03-22 03:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 280.0 |
+| 8688f26e-8c34-356d-9f88-45397d5e4240 | 2.6519 | -61.2826 | 2026-03-22 03:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 208.6 |
+| cbb44242-29dc-307d-85cf-d9dfbd844e73 | 2.6336 | -61.3017 | 2026-03-22 03:50:00 | GOES-19 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 64.3 |
+| 20e0fd6d-7a01-3053-ae0b-157b044474b7 | -7.87402 | -39.92181 | 2026-03-22 03:55:00 | NOAA-21 | BODOCÓ | PERNAMBUCO | Brasil | 2602001 | 26 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| 533883c6-dec3-3546-9f76-662ba6248074 | -9.06096 | -36.57271 | 2026-03-22 03:55:00 | NOAA-21 | BREJÃO | PERNAMBUCO | Brasil | 2602407 | 26 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 429425a2-3b20-3d6a-bc85-2de631fe7aeb | -9.77239 | -42.02174 | 2026-03-22 03:55:00 | NOAA-21 | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| 10e6b08c-b4dc-3c88-81a2-8be603488fa0 | -9.02751 | -36.93346 | 2026-03-22 03:55:00 | NOAA-21 | ÁGUAS BELAS | PERNAMBUCO | Brasil | 2600500 | 26 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| ae0c5f52-d42f-3228-9839-65bb835e3922 | -9.77273 | -42.02227 | 2026-03-22 03:55:00 | NOAA-21 | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| c8de0b38-d3e3-311a-8f0c-e1b60bb64af0 | -5.28437 | -35.56537 | 2026-03-22 03:55:00 | NOAA-21 | TOUROS | RIO GRANDE DO NORTE | Brasil | 2414407 | 24 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 062781df-dd26-350e-ac3f-2f28dfc56e87 | -10.73687 | -36.98484 | 2026-03-22 03:55:00 | NOAA-21 | SANTO AMARO DAS BROTAS | SERGIPE | Brasil | 2806602 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 7f860028-9deb-34d6-999a-aaa8aa582949 | -9.7717 | -42.02581 | 2026-03-22 03:55:00 | NOAA-21 | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| c07263fe-41a4-3c97-9fed-c0c193b8c08e | -10.33262 | -37.55137 | 2026-03-22 03:55:00 | NOAA-21 | NOSSA SENHORA APARECIDA | SERGIPE | Brasil | 2804458 | 28 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| 33fb2891-2636-35b8-88b4-f80cedec6ba4 | -11.05069 | -38.78492 | 2026-03-22 03:55:00 | NOAA-21 | TUCANO | BAHIA | Brasil | 2931905 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| fcc8f018-febc-32b3-a7ad-89a1653838ab | -11.78393 | -41.19365 | 2026-03-22 03:57:00 | NOAA-21 | MORRO DO CHAPÉU | BAHIA | Brasil | 2921708 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 5524948a-5071-3a57-be10-bcaf05a8e82f | -11.84152 | -37.93905 | 2026-03-22 03:57:00 | NOAA-21 | ESPLANADA | BAHIA | Brasil | 2910602 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| d64790ee-974e-3088-9eb6-b2a6f6bd4a44 | -12.49954 | -43.64434 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 1ff5a24d-b98b-39e5-a974-db764c184b59 | -12.50447 | -43.68295 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0f7465d5-4806-3ccf-bef0-a4bb19a1fb71 | -12.50821 | -43.68361 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 8978e539-6c31-3c4a-adfd-9eb2f7d9db85 | -12.49503 | -43.64824 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| a6e227d2-71ca-35b6-be04-7b7def1a6b30 | -13.15664 | -53.25748 | 2026-03-22 03:57:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 14ea69b1-eeaf-3c60-b673-46a10b35311a | -12.50249 | -43.64958 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| ff5abe73-09ac-3eb1-b2ca-6fc6b4420bad | -12.50526 | -43.67836 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 49d40173-734a-3689-81a3-74695b0680fb | -13.68083 | -42.67527 | 2026-03-22 03:57:00 | NOAA-21 | CAETITÉ | BAHIA | Brasil | 2905206 | 29 | 33 | nan | nan | nan | Caatinga | 1.2 |
+| d39e893e-59e3-3549-ba09-f069e7375478 | -16.92648 | -43.60129 | 2026-03-22 03:57:00 | NOAA-21 | GLAUCILÂNDIA | MINAS GERAIS | Brasil | 3127354 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 7f51599b-2ba9-3d87-ab37-18ce7376cba3 | -13.14994 | -53.25594 | 2026-03-22 03:57:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| fdee1b5f-2fed-3202-a6c6-d8634761ef53 | -12.50622 | -43.65024 | 2026-03-22 03:57:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
