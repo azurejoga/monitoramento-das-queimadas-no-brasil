@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b7a77aac-7ee5-37aa-a485-399248113b0a | 2.5071 | -60.6414 | 2026-03-28 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 79.2 |
-| d65afe32-3453-3a2d-9212-34b2b227c377 | 2.5253 | -60.6601 | 2026-03-28 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 351.7 |
-| 3fe76b3f-9eb7-33bf-8498-bc919ff362aa | 2.5071 | -60.6604 | 2026-03-28 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 176.2 |
-| 510d5990-7f89-3625-85f6-3c50fca5e6a0 | 2.5253 | -60.6791 | 2026-03-28 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 67.7 |
-| 277528ee-e04c-37af-8d14-f2f754f2d29a | 2.5254 | -60.6412 | 2026-03-28 00:00:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 130.7 |
-| 930d62a4-bfb1-3bdd-b66c-d9df34aad3f1 | 2.5253 | -60.6601 | 2026-03-28 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 295.9 |
-| a4162c48-4267-3997-83d4-6239ad9dde1a | 2.5254 | -60.6412 | 2026-03-28 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 139.8 |
-| 5da3729d-b7d9-36e4-b4f7-3d5d589897f0 | 2.5071 | -60.6604 | 2026-03-28 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 178.3 |
-| 4ec32078-eea0-3ae9-ab25-72e431e91193 | 2.5071 | -60.6414 | 2026-03-28 00:10:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 93.5 |
-| b6089b08-d8e9-34fa-be9a-f50685fac5d1 | 2.7811 | -60.5616 | 2026-03-28 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 90.8 |
-| f842ec44-0739-3674-9d6e-f9c0bc683316 | 2.5071 | -60.6414 | 2026-03-28 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 97.6 |
-| 25887a94-18cd-36e9-9424-41d9044a5582 | 2.5253 | -60.6601 | 2026-03-28 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 238.4 |
-| ea19af98-76c1-31df-81cc-c02d296850bc | 2.5254 | -60.6412 | 2026-03-28 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 127.4 |
-| 59cb9f57-7039-320d-bf68-0ddd05cc9c48 | 2.5071 | -60.6604 | 2026-03-28 00:20:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 172.0 |
-| 34dddc72-b580-36f7-80a8-87eca73f5edf | 2.5071 | -60.6414 | 2026-03-28 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 52.4 |
-| 050ae1ec-3609-3457-9133-89fa7568700a | 2.5254 | -60.6412 | 2026-03-28 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 87.1 |
-| f76386e7-e80d-365b-a92c-483ddadb2bbc | -6.5631 | -51.1126 | 2026-03-28 00:30:00 | GOES-19 | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 67.5 |
-| 7cef4a95-7f55-3d6b-846f-53f43d093133 | 2.5253 | -60.6791 | 2026-03-28 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 50.4 |
-| 6c31de6b-7b9a-3302-b5bb-422a964ac03f | 2.5253 | -60.6601 | 2026-03-28 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 173.0 |
-| 2a2a914f-097d-3ddf-8fcb-19029f164171 | 2.5071 | -60.6604 | 2026-03-28 00:30:00 | GOES-19 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 89.2 |
-| bdef12f1-2db8-331c-a50f-a8e653b5e0a8 | 2.5239 | -60.623001 | 2026-03-28 00:30:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 7733d680-f79d-3a88-a8e1-aede84ed7a13 | -20.8008 | -49.794601 | 2026-03-28 00:30:00 | METOP-B | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3f295f3b-d252-37bd-9cb4-047d22f30ae3 | -22.889299 | -43.701698 | 2026-03-28 00:30:00 | METOP-B | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 7e54aaf3-12ad-38cf-bd8f-e83486b535bd | -21.020599 | -50.369598 | 2026-03-28 00:30:00 | METOP-B | SANTO ANTÔNIO DO ARACANGUÁ | SÃO PAULO | Brasil | 3548054 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4a12a868-378c-3c7f-85da-4ff24ecb7459 | -20.8088 | -49.784698 | 2026-03-28 00:30:00 | METOP-B | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| f1af01ee-731f-3fde-b2dc-1985e8776d86 | -24.5459 | -50.6992 | 2026-03-28 00:30:00 | METOP-B | TIBAGI | PARANÁ | Brasil | 4127502 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 5f155266-e3b3-33fa-a329-03e421e1d704 | 2.5141 | -60.6208 | 2026-03-28 00:30:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 1cd16e89-1ee7-39f1-9089-37ed28c02e8f | 2.5261 | -60.613098 | 2026-03-28 00:30:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 4897c38f-d781-36c0-a5c0-36b0a7619b64 | -21.351299 | -47.033699 | 2026-03-28 00:30:00 | METOP-B | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| d85cef05-6218-3118-a532-71260fc52c25 | -25.168699 | -49.368099 | 2026-03-28 00:30:00 | METOP-B | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 6bd23370-81e9-395f-8289-aa9930929719 | -21.490999 | -48.7374 | 2026-03-28 00:30:00 | METOP-B | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 5bd1afec-0b73-3276-aa5e-ff2c2596d545 | -20.799101 | -49.787201 | 2026-03-28 00:30:00 | METOP-B | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 4bedf06f-796f-37e4-a136-d73d04cfce37 | 3.4231 | -59.9375 | 2026-03-28 00:30:00 | METOP-B | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 4dc73b03-320a-3cfd-8a48-95e3f2e9cbe0 | -22.899 | -43.698799 | 2026-03-28 00:30:00 | METOP-B | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 3495a69d-a697-31ff-9dff-ad89f04e8389 | -6.5681 | -51.0723 | 2026-03-28 00:30:00 | METOP-B | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| fa5fa316-1286-3358-a315-7b287c9119b0 | 3.4211 | -59.946301 | 2026-03-28 00:30:00 | METOP-B | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 9eb81e82-c68b-3bac-ae49-25c672b01cf0 | 2.5163 | -60.610901 | 2026-03-28 00:30:00 | METOP-B | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e2cd99e-eb33-3559-a97e-2ca0862864b0 | -21.4928 | -48.745098 | 2026-03-28 00:30:00 | METOP-B | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 492eb9da-ae4b-316d-b5cf-d78b2635dfbb | -24.547501 | -50.706799 | 2026-03-28 00:30:00 | METOP-B | TIBAGI | PARANÁ | Brasil | 4127502 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 74bf1991-5e85-318e-badf-a72648cc5f92 | -2.6824 | -52.952702 | 2026-03-28 00:30:00 | METOP-B | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9cc658e4-93a7-3459-8459-2511c244b197 | -20.797501 | -49.7798 | 2026-03-28 00:30:00 | METOP-B | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 2da09c46-f94f-3504-b93b-51dadbd48d37 | -25.171 | -49.3894 | 2026-03-28 01:01:00 | METOP-C | RIO BRANCO DO SUL | PARANÁ | Brasil | 4122206 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| c09572e4-dd90-31fa-88b9-27a64057f92d | -20.803301 | -49.8013 | 2026-03-28 01:01:00 | METOP-C | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 8aff18cc-8084-3599-8f1b-f3b788e490a6 | -20.805099 | -49.808899 | 2026-03-28 01:01:00 | METOP-C | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b169a693-dfb1-3a35-a6fd-297e8c29ccf6 | -24.5453 | -50.729698 | 2026-03-28 01:01:00 | METOP-C | IMBAÚ | PARANÁ | Brasil | 4110078 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 0a4ac0bf-934b-3ce0-b5c7-f2a6c6514694 | -21.5042 | -48.762901 | 2026-03-28 01:01:00 | METOP-C | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | nan |
-| 2355fdf6-441a-3dbc-b45a-d7477bcf291d | -24.543699 | -50.722198 | 2026-03-28 01:01:00 | METOP-C | IMBAÚ | PARANÁ | Brasil | 4110078 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 015a0554-3c48-3773-a839-dac337014ec4 | 3.4196 | -59.9744 | 2026-03-28 01:04:00 | METOP-C | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 2cd28390-31c2-3909-9ce2-97e697e1c710 | -5.81549 | -35.4491 | 2026-03-28 03:42:00 | NOAA-21 | SÃO GONÇALO DO AMARANTE | RIO GRANDE DO NORTE | Brasil | 2412005 | 24 | 33 | nan | nan | nan | Caatinga | 2.3 |
-| a0d1729e-854b-3fd4-b94d-e49f7b3cac2a | -11.54326 | -38.98235 | 2026-03-28 03:45:00 | NOAA-21 | TEOFILÂNDIA | BAHIA | Brasil | 2931509 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 93c5950d-b985-3060-9960-e718338b27f7 | -12.07568 | -40.25635 | 2026-03-28 03:45:00 | NOAA-21 | MACAJUBA | BAHIA | Brasil | 2919603 | 29 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| f3085fbf-7ee6-36ff-b8c5-d4105c195196 | -8.08023 | -35.73631 | 2026-03-28 03:45:00 | NOAA-21 | CUMARU | PERNAMBUCO | Brasil | 2604908 | 26 | 33 | nan | nan | nan | Caatinga | 0.5 |
-| 0f86ebe8-914a-3eb6-b447-ac460e72d938 | -12.07403 | -40.25419 | 2026-03-28 03:45:00 | NOAA-21 | MACAJUBA | BAHIA | Brasil | 2919603 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 6052b58d-868f-3c49-9c1e-5f8daf0020d3 | -24.54456 | -50.73329 | 2026-03-28 03:47:00 | NOAA-21 | IMBAÚ | PARANÁ | Brasil | 4110078 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 6f39309a-4e58-3275-b177-e9a51fd923c5 | -12.48957 | -43.78434 | 2026-03-28 03:47:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| c0c3f739-8932-3625-ae04-b549db012eab | -24.85428 | -49.47221 | 2026-03-28 03:47:00 | NOAA-21 | CERRO AZUL | PARANÁ | Brasil | 4105201 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| 12317ddb-8f1e-3627-9208-a56f714edfdb | -16.92477 | -43.59938 | 2026-03-28 03:47:00 | NOAA-21 | GLAUCILÂNDIA | MINAS GERAIS | Brasil | 3127354 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| e2a12b9f-862e-36ee-9605-fa7613d0e0c3 | -24.54556 | -50.72908 | 2026-03-28 03:47:00 | NOAA-21 | IMBAÚ | PARANÁ | Brasil | 4110078 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.3 |
-| 75f1bb37-92dd-33ad-8134-171f85abb256 | -17.81142 | -42.74177 | 2026-03-28 03:47:00 | NOAA-21 | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 3.4 |
-| 005475ce-0a36-3331-bea8-5a16d8f9a5ac | -15.91161 | -43.22693 | 2026-03-28 03:47:00 | NOAA-21 | JANAÚBA | MINAS GERAIS | Brasil | 3135100 | 31 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| dd3c11e6-9034-3a28-8192-66809e09b6dc | -16.92403 | -43.6033 | 2026-03-28 03:47:00 | NOAA-21 | GLAUCILÂNDIA | MINAS GERAIS | Brasil | 3127354 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 825aa291-dfe2-3bf3-b467-252478538797 | -16.92397 | -43.60353 | 2026-03-28 03:47:00 | NOAA-21 | GLAUCILÂNDIA | MINAS GERAIS | Brasil | 3127354 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| ac3d1fba-88b6-398e-bc32-771acfe9691f | -18.48349 | -44.80791 | 2026-03-28 03:47:00 | NOAA-21 | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| bc493dad-9dcc-36ef-8666-46a84b2da9a2 | -21.36029 | -47.06699 | 2026-03-28 03:49:00 | NOAA-21 | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 3b08a2a9-f05d-3b5f-b416-0c21edbb9f64 | -21.3555 | -47.06575 | 2026-03-28 03:49:00 | NOAA-21 | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 2b460496-1ae7-3154-a8e7-ecdb3f801d68 | -21.71805 | -47.25442 | 2026-03-28 03:49:00 | NOAA-21 | TAMBAÚ | SÃO PAULO | Brasil | 3553302 | 35 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 06bbdf89-b954-3fee-a64c-5f160411fc0e | -20.8055 | -49.81475 | 2026-03-28 03:49:00 | NOAA-21 | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| 2c772c76-4326-3d80-9f0e-ff5c2ef1fd6e | -20.80649 | -49.81043 | 2026-03-28 03:49:00 | NOAA-21 | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.0 |
-| 57c58930-dd8f-3247-a21b-b0da9d04938f | -9.26751 | -40.53008 | 2026-03-28 04:14:00 | NPP-375D | PETROLINA | PERNAMBUCO | Brasil | 2611101 | 26 | 33 | nan | nan | nan | Caatinga | 0.4 |
-| fe6d363f-7c46-39f9-b5dd-37779e4aad9f | -5.81479 | -35.44968 | 2026-03-28 04:14:00 | NPP-375D | SÃO GONÇALO DO AMARANTE | RIO GRANDE DO NORTE | Brasil | 2412005 | 24 | 33 | nan | nan | nan | Caatinga | 1.9 |
-| 0a3ee4a9-ef0a-3d5e-be95-f8be882cc759 | -4.69701 | -38.16192 | 2026-03-28 04:14:00 | NPP-375D | RUSSAS | CEARÁ | Brasil | 2311801 | 23 | 33 | nan | nan | nan | Caatinga | 1.0 |
-| 7bb1d5e0-59fc-31ee-9114-fe2620c2b9a9 | -5.43534 | -44.03539 | 2026-03-28 04:14:00 | NPP-375D | GOVERNADOR EUGÊNIO BARROS | MARANHÃO | Brasil | 2104602 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 341b1b34-05af-38e3-ac3c-2d5f6f349553 | -3.27283 | -43.54321 | 2026-03-28 04:14:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 81e6c402-25b9-37e4-a59c-c5d4beba8834 | -3.27638 | -43.54378 | 2026-03-28 04:14:00 | NPP-375D | SÃO BENEDITO DO RIO PRETO | MARANHÃO | Brasil | 2110401 | 21 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| d3bb83ef-7271-307b-a61d-486bc9ee62d1 | -3.86697 | -54.23974 | 2026-03-28 04:14:00 | NPP-375D | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 6.0 |
-| 1ee2dc28-4133-3cbc-b4aa-309495c4a816 | -21.35854 | -47.06353 | 2026-03-28 04:17:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 9ffe5c8d-e77e-3173-82d6-63dbee8a57cd | -20.80626 | -49.81533 | 2026-03-28 04:17:00 | NPP-375D | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 44d61230-f0da-3c5d-bde2-d55eb048714a | -21.90284 | -48.51364 | 2026-03-28 04:17:00 | NPP-375D | BOA ESPERANÇA DO SUL | SÃO PAULO | Brasil | 3506706 | 35 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| fcdd1c04-73cc-3435-98b8-08190f4b9163 | -11.79458 | -42.63877 | 2026-03-28 04:17:00 | NPP-375D | IPUPIARA | BAHIA | Brasil | 2914109 | 29 | 33 | nan | nan | nan | Caatinga | 0.3 |
-| 0d70368c-fa6f-36d5-a151-2cb4e3e314bd | -20.80235 | -49.81446 | 2026-03-28 04:17:00 | NPP-375D | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| b80c3e63-5c67-34ba-9684-a08ba6020689 | -22.70623 | -43.37936 | 2026-03-28 04:17:00 | NPP-375D | BELFORD ROXO | RIO DE JANEIRO | Brasil | 3300456 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 0684024f-5acf-37f1-b977-dc112bfa2947 | -21.71711 | -47.25704 | 2026-03-28 04:17:00 | NPP-375D | TAMBAÚ | SÃO PAULO | Brasil | 3553302 | 35 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 09a9241d-d95c-36e0-b583-ce104f5f620e | -21.49748 | -48.76949 | 2026-03-28 04:17:00 | NPP-375D | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| fd36318c-76e9-3b0f-ac99-019142e49bdb | -21.7112 | -48.43208 | 2026-03-28 04:17:00 | NPP-375D | MATÃO | SÃO PAULO | Brasil | 3529302 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 63fa8083-6164-38bb-9778-57639ce608c6 | -16.92402 | -43.60107 | 2026-03-28 04:17:00 | NPP-375D | GLAUCILÂNDIA | MINAS GERAIS | Brasil | 3127354 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 1c43788a-735f-3fd4-9bae-8d279fca63e6 | -21.54395 | -48.72207 | 2026-03-28 04:17:00 | NPP-375D | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 899d5256-ae49-306c-b994-93cea8f7c6de | -23.40487 | -46.42158 | 2026-03-28 04:17:00 | NPP-375D | GUARULHOS | SÃO PAULO | Brasil | 3518800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| a0a4e729-6d3a-304f-b0c3-9ac6dbc26e33 | -21.49382 | -48.76869 | 2026-03-28 04:17:00 | NPP-375D | ITÁPOLIS | SÃO PAULO | Brasil | 3522703 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| df51a767-8fc8-3df5-96a8-0edcacd46d76 | -21.35511 | -47.06284 | 2026-03-28 04:17:00 | NPP-375D | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 6b2ca23d-c810-3872-bd64-79951718e9b9 | -10.37367 | -48.31055 | 2026-03-28 04:17:00 | NPP-375D | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 25bf12ba-0720-3ba4-812e-a12ef32b2a08 | -23.38942 | -45.00944 | 2026-03-28 04:17:00 | NPP-375D | UBATUBA | SÃO PAULO | Brasil | 3555406 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 306d0cbe-3342-3514-bdb2-553d9f167613 | -21.13913 | -43.95638 | 2026-03-28 04:17:00 | NPP-375D | BARROSO | MINAS GERAIS | Brasil | 3105905 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
-| 8cb665c9-8077-35b7-b0eb-6dd2403b9c8e | -23.40821 | -46.42223 | 2026-03-28 04:17:00 | NPP-375D | GUARULHOS | SÃO PAULO | Brasil | 3518800 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
-| 0a95fd21-6c49-3636-8b45-9b5379ac22fd | -21.71144 | -48.43468 | 2026-03-28 04:17:00 | NPP-375D | MATÃO | SÃO PAULO | Brasil | 3529302 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 09c1e18c-dd99-31f9-91b2-487a7558a108 | -22.52804 | -46.02598 | 2026-03-28 04:17:00 | NPP-375D | CAMBUÍ | MINAS GERAIS | Brasil | 3110608 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
-| 9897b76a-d007-31b5-a464-289ae0b58f2f | -23.28029 | -46.60272 | 2026-03-28 04:17:00 | NPP-375D | MAIRIPORÃ | SÃO PAULO | Brasil | 3528502 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 9a156146-2758-3817-8cd5-b185ee46e0b0 | -20.80598 | -49.81146 | 2026-03-28 04:17:00 | NPP-375D | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
-| 8fc5bc5e-7a20-3ea8-891c-12a530780171 | -18.48569 | -44.80743 | 2026-03-28 04:19:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 35af02f9-0272-35e5-931f-b256a91a39da | -23.52641 | -46.85088 | 2026-03-28 04:19:00 | NPP-375D | CARAPICUÍBA | SÃO PAULO | Brasil | 3510609 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
-| 2584a622-4b76-3235-84ba-244d0a88ea3f | -18.48237 | -44.80685 | 2026-03-28 04:19:00 | NPP-375D | CORINTO | MINAS GERAIS | Brasil | 3119104 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| e69ee14d-0d13-35af-979f-3b7125405e69 | -12.3388 | -48.189499 | 2026-03-29 00:10:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ffdf3e49-b9dd-301f-9a97-a40928665ad0 | -21.1772 | -48.5331 | 2026-03-29 00:10:00 | METOP-B | TAIAÇU | SÃO PAULO | Brasil | 3553104 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 54b5ad8f-edc8-3f95-bff3-67ebcca016a8 | -12.3404 | -48.196602 | 2026-03-29 00:10:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 644effcf-f77c-3e6f-a4b5-a04edcdc9d86 | -15.0763 | -43.865002 | 2026-03-29 00:10:00 | METOP-B | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| dc3d0861-27b5-3a15-843d-0c9b8e49462b | -15.0783 | -43.873199 | 2026-03-29 00:10:00 | METOP-B | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f3523e8d-fa5d-3df7-a96c-f5653e7c0050 | -21.175501 | -48.524399 | 2026-03-29 00:10:00 | METOP-B | TAIAÇU | SÃO PAULO | Brasil | 3553104 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 42ba7034-d23c-3c5c-9e12-1eb3bf7dacca | -23.221701 | -49.966 | 2026-03-29 00:10:00 | METOP-B | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| f92ca744-609d-31ed-a491-eb17b91dd5cc | -23.2237 | -49.977001 | 2026-03-29 00:10:00 | METOP-B | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 7af4cd0e-920b-3aa6-957d-c324f0540df1 | -23.22291 | -49.99535 | 2026-03-29 00:18:00 | TERRA_M-M | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | 33.6 |
+| 2d81d1b1-47da-3d94-ad2c-009a4697c975 | -23.22433 | -50.00766 | 2026-03-29 00:18:00 | TERRA_M-M | SANTO ANTÔNIO DA PLATINA | PARANÁ | Brasil | 4124103 | 41 | 33 | nan | nan | nan | Mata Atlântica | 41.1 |
+| c7587ec3-6818-33f8-9bfa-a0a69363a804 | -12.79344 | -45.85819 | 2026-03-29 00:20:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| cf0b2912-36e9-38c6-ad3b-83b283846396 | -15.08906 | -43.89882 | 2026-03-29 00:20:00 | TERRA_M-M | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| f277f1b8-f1e3-3e14-9309-a2ec80440823 | -15.08561 | -43.89093 | 2026-03-29 00:20:00 | TERRA_M-M | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| e39926b3-851a-348c-86ec-226f89b04887 | -12.34196 | -48.21649 | 2026-03-29 00:20:00 | TERRA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 895204f0-6b3b-3a06-886a-ee2b77b0d3d6 | -21.22461 | -49.44711 | 2026-03-29 00:20:00 | TERRA_M-M | IRAPUÃ | SÃO PAULO | Brasil | 3521507 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| 872ac0e6-16cc-3ec0-a0a0-becb382d263c | -10.93678 | -49.43095 | 2026-03-29 00:20:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 53d4a0ee-ee62-348f-ad51-106661ba876c | -21.17699 | -48.55534 | 2026-03-29 00:20:00 | TERRA_M-M | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.4 |
+| dbdef419-f4fb-3c79-8d71-a1f4153852ef | -23.2257 | -49.9992 | 2026-03-29 00:30:00 | GOES-19 | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | 136.0 |
+| 2c2aa4dd-6114-3edc-a858-e044c2a6dc21 | -23.2251 | -49.9935 | 2026-03-29 00:44:00 | METOP-C | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| abab75de-02f5-32d7-be0d-863d56508a54 | -12.3416 | -48.210098 | 2026-03-29 00:44:00 | METOP-C | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0ae70d73-3f3b-370c-80d2-a1f4c52b020b | -21.178301 | -48.553902 | 2026-03-29 00:44:00 | METOP-C | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 281a204f-4d94-3597-a778-e6aeb8824126 | -23.215401 | -49.995602 | 2026-03-29 00:44:00 | METOP-C | JACAREZINHO | PARANÁ | Brasil | 4111803 | 41 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 59a0f4cf-8c66-3755-a121-6e59e37b67b8 | -10.74578 | -36.92546 | 2026-03-29 03:25:00 | NOAA-21 | SANTO AMARO DAS BROTAS | SERGIPE | Brasil | 2806602 | 28 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| f544435a-b85d-3289-a4e1-d673c59a387d | -15.08174 | -43.88643 | 2026-03-29 03:25:00 | NOAA-21 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 2f43c241-4e69-3b56-9a27-e74683b4f3ce | -15.08674 | -43.8924 | 2026-03-29 03:25:00 | NOAA-21 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 21648810-83ed-38d4-b582-fb86da3472a4 | -15.08772 | -43.88776 | 2026-03-29 03:25:00 | NOAA-21 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 1a3f38b4-dada-35fe-9f96-8aae1126571c | -15.08577 | -43.89702 | 2026-03-29 03:25:00 | NOAA-21 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| d2ab7560-c34c-3808-9061-97525c1718c3 | -22.94654 | -43.71315 | 2026-03-29 03:28:00 | NOAA-21 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| b7024d99-db51-3fc8-be24-88412670db5f | -22.91014 | -42.9467 | 2026-03-29 03:28:00 | NOAA-21 | MARICÁ | RIO DE JANEIRO | Brasil | 3302700 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.7 |
+| f748aa93-be5e-3a51-a0b2-22ce4fcd5e9c | -22.94582 | -43.7164 | 2026-03-29 03:28:00 | NOAA-21 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| 19353221-fd86-321b-b48c-3acc211d5973 | -29.9352 | -51.08733 | 2026-03-29 03:32:00 | NOAA-21 | CACHOEIRINHA | RIO GRANDE DO SUL | Brasil | 4303103 | 43 | 33 | nan | nan | nan | Pampa | 4.4 |
+| 3c576464-d535-3f8d-bb63-c065c51e87b5 | -10.74492 | -36.92556 | 2026-03-29 03:55:00 | NPP-375D | SANTO AMARO DAS BROTAS | SERGIPE | Brasil | 2806602 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 24c2f975-c170-3535-b309-b76e31dbb3df | -12.43882 | -44.75171 | 2026-03-29 03:57:00 | NPP-375D | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| a032f5e6-34a2-344f-b230-6110f06b90c1 | -15.0846 | -43.89036 | 2026-03-29 03:57:00 | NPP-375D | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| ebd5735d-a72a-3417-9328-befc8b9b4c70 | -17.87143 | -45.54789 | 2026-03-29 03:57:00 | NPP-375D | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| f0d75067-a8bd-33fe-b238-f372da21f99c | -19.22833 | -44.7534 | 2026-03-29 03:57:00 | NPP-375D | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5a958c20-fb35-3e55-8f2d-e985ef48ef26 | -15.08394 | -43.89397 | 2026-03-29 03:57:00 | NPP-375D | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 796c9ac3-3c62-3b06-b03d-1f293d954f17 | -18.1749 | -44.97704 | 2026-03-29 03:57:00 | NPP-375D | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 4d954031-698e-35ed-833f-6a682ca7b770 | -15.08525 | -43.88676 | 2026-03-29 03:57:00 | NPP-375D | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| b3b48796-21c5-3385-9bee-2add005045aa | -19.59932 | -40.07524 | 2026-03-29 03:57:00 | NPP-375D | ARACRUZ | ESPÍRITO SANTO | Brasil | 3200607 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| f8d31d59-aa8c-397d-bb17-2c85e9e98449 | -21.17366 | -48.56046 | 2026-03-29 04:00:00 | NPP-375D | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 30958b60-05b9-3489-ab11-f473f069617b | -20.05516 | -51.10975 | 2026-03-29 04:00:00 | NPP-375D | APARECIDA DO TABOADO | MATO GROSSO DO SUL | Brasil | 5001003 | 50 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| d3825be1-1b97-3b26-bb8b-54749d122552 | -23.54155 | -46.62267 | 2026-03-29 04:00:00 | NPP-375D | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| e24cce2a-ee44-340d-a04b-9647f7e2dfde | -23.19665 | -46.89637 | 2026-03-29 04:00:00 | NPP-375D | JUNDIAÍ | SÃO PAULO | Brasil | 3525904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.8 |
+| 73ea630f-e619-3f14-8f0c-8797040a7204 | -22.90794 | -42.94776 | 2026-03-29 04:00:00 | NPP-375D | MARICÁ | RIO DE JANEIRO | Brasil | 3302700 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| e0058eae-292c-3248-9ce3-867852bfc869 | -22.90933 | -42.94666 | 2026-03-29 04:00:00 | NPP-375D | MARICÁ | RIO DE JANEIRO | Brasil | 3302700 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 339b9fb5-4a6b-3322-adfb-56cf5af42bde | -22.94473 | -43.71408 | 2026-03-29 04:00:00 | NPP-375D | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 6.6 |
+| 93e7d941-139d-36d7-89cd-acdf9b821dee | -23.53959 | -46.62075 | 2026-03-29 04:00:00 | NPP-375D | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| a346deef-4d28-3995-8d31-65d4e0f2e814 | -22.77938 | -43.04203 | 2026-03-29 04:00:00 | NPP-375D | SÃO GONÇALO | RIO DE JANEIRO | Brasil | 3304904 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 2b73ca4a-04aa-35e2-9c7e-07b94d694481 | -20.80591 | -49.81282 | 2026-03-29 04:00:00 | NPP-375D | POLONI | SÃO PAULO | Brasil | 3539905 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| da2cf363-ed38-38dc-b110-d5e50b116efb | -21.17485 | -48.5547 | 2026-03-29 04:00:00 | NPP-375D | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| e0d82eee-ecd0-3a85-b99c-3d453ca906fc | -27.27983 | -49.8236 | 2026-03-29 04:02:00 | NPP-375D | TROMBUDO CENTRAL | SANTA CATARINA | Brasil | 4218608 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| e3506dd6-c7f0-3939-8002-8dee574a965a | -26.89957 | -49.76143 | 2026-03-29 04:02:00 | NPP-375D | JOSÉ BOITEUX | SANTA CATARINA | Brasil | 4209151 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| d070787e-8fd9-3e4e-92d2-d631d797e42c | -27.28443 | -49.8248 | 2026-03-29 04:02:00 | NPP-375D | TROMBUDO CENTRAL | SANTA CATARINA | Brasil | 4218608 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 6656587d-bf46-3e8b-9ff0-73f640afeeac | -15.96072 | -52.20868 | 2026-03-29 04:17:00 | NOAA-20 | ARAGARÇAS | GOIÁS | Brasil | 5201702 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 4cbd0038-9c63-3f69-bb69-00be6dcd5048 | -15.08722 | -43.89582 | 2026-03-29 04:17:00 | NOAA-20 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 215de8e7-2c34-3a1a-8861-9dc77dc12508 | -6.6052 | -47.62237 | 2026-03-29 04:17:00 | NOAA-20 | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 53b2bba8-1bdf-3378-825e-f5e317231151 | -13.15295 | -53.25753 | 2026-03-29 04:17:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| c42b0d8b-028f-3289-bd49-be50d3aa2350 | -13.15238 | -53.26047 | 2026-03-29 04:17:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| ab94a8a9-c6fa-3665-84d4-ccd88ee420a2 | -15.08554 | -43.88425 | 2026-03-29 04:17:00 | NOAA-20 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6e4e65fe-88d4-3472-98cf-f654878dca90 | -15.08442 | -43.89161 | 2026-03-29 04:17:00 | NOAA-20 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 7d2f2640-2965-3605-94f0-52abf9db46d8 | -13.15351 | -53.25459 | 2026-03-29 04:17:00 | NOAA-20 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b21c9855-af46-360d-b5aa-14c3b90d0034 | -15.08386 | -43.89528 | 2026-03-29 04:17:00 | NOAA-20 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 104a5381-59dc-3adb-ae6a-92c74e9212b7 | -15.08498 | -43.88793 | 2026-03-29 04:17:00 | NOAA-20 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a05e58c4-4d35-3907-aa94-a076351d2ef4 | -15.08162 | -43.88739 | 2026-03-29 04:17:00 | NOAA-20 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 045812d5-09a5-3b32-a3ed-359fba52f200 | -19.22717 | -44.75212 | 2026-03-29 04:19:00 | NOAA-20 | POMPÉU | MINAS GERAIS | Brasil | 3152006 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2be6b37b-9014-3a0b-9306-5e3fff5cf947 | -13.21505 | -43.69052 | 2026-03-29 04:19:00 | NOAA-20 | BOM JESUS DA LAPA | BAHIA | Brasil | 2903904 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 42da488b-b9c8-363c-b047-237dd66cd708 | -19.77871 | -49.77129 | 2026-03-29 04:19:00 | NOAA-20 | SÃO FRANCISCO DE SALES | MINAS GERAIS | Brasil | 3161304 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c10e3cc6-9e0a-354f-b38a-d1a0dca71967 | -22.9438 | -43.7142 | 2026-03-29 04:19:00 | NOAA-20 | RIO DE JANEIRO | RIO DE JANEIRO | Brasil | 3304557 | 33 | 33 | nan | nan | nan | Mata Atlântica | 17.7 |
+| e1c65ae6-8d5a-38c6-91b7-1cf6b6f63fea | -23.541 | -46.61814 | 2026-03-29 04:19:00 | NOAA-20 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.0 |
+| 71b949db-7951-3227-9b2d-6f66fa0d3d5a | -20.05428 | -51.10802 | 2026-03-29 04:19:00 | NOAA-20 | APARECIDA DO TABOADO | MATO GROSSO DO SUL | Brasil | 5001003 | 50 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 0d60d753-82a2-36d4-a78e-f302e09b9779 | -21.17418 | -48.55637 | 2026-03-29 04:19:00 | NOAA-20 | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 68e791bc-edba-3c13-a69a-4db6fd220848 | -19.92218 | -43.97458 | 2026-03-29 04:19:00 | NOAA-20 | BELO HORIZONTE | MINAS GERAIS | Brasil | 3106200 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| f481aed6-65eb-3377-bb19-5920780eb665 | -13.54131 | -43.68601 | 2026-03-29 04:19:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 798f243b-0b57-33fa-8497-c53f38190215 | -21.22447 | -49.44567 | 2026-03-29 04:19:00 | NOAA-20 | IRAPUÃ | SÃO PAULO | Brasil | 3521507 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 21b4b565-9e4d-3396-b2f7-66eee4e84787 | -17.86983 | -45.54508 | 2026-03-29 04:19:00 | NOAA-20 | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| b56e12dd-9942-3564-a5e2-699895f4abc6 | -22.70103 | -43.36267 | 2026-03-29 04:19:00 | NOAA-20 | BELFORD ROXO | RIO DE JANEIRO | Brasil | 3300456 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| f5519b02-1332-3ce2-bae7-6d41326f8c11 | -21.61593 | -46.92286 | 2026-03-29 04:19:00 | NOAA-20 | SÃO JOSÉ DO RIO PARDO | SÃO PAULO | Brasil | 3549706 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 8dd0d956-8f67-32be-afc2-d40c166a3e1a | -18.17194 | -44.97445 | 2026-03-29 04:19:00 | NOAA-20 | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| c51cce01-9c0e-3f82-bf6e-5b55cbddf1d3 | -22.90538 | -42.94984 | 2026-03-29 04:19:00 | NOAA-20 | MARICÁ | RIO DE JANEIRO | Brasil | 3302700 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| 9e322471-50af-335a-918a-dcf7f419080c | -19.92322 | -44.09024 | 2026-03-29 04:19:00 | NOAA-20 | CONTAGEM | MINAS GERAIS | Brasil | 3118601 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 27ff1301-6d8e-3401-aca6-10d9259400da | -12.44146 | -44.7537 | 2026-03-29 04:19:00 | NOAA-20 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 8c91e9f5-193e-382c-9a2d-d36bb9dc60b0 | -23.54042 | -46.62192 | 2026-03-29 04:19:00 | NOAA-20 | SÃO PAULO | SÃO PAULO | Brasil | 3550308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| f5863b2b-5d9d-34ab-9bd3-9227d288e9ff | -22.78145 | -43.0418 | 2026-03-29 04:19:00 | NOAA-20 | SÃO GONÇALO | RIO DE JANEIRO | Brasil | 3304904 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| ec80a626-08e2-33be-824a-bb31a562321e | -21.17759 | -48.557 | 2026-03-29 04:19:00 | NOAA-20 | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| b4b89162-e323-3cde-88da-efdee4323ad5 | -13.54465 | -43.68655 | 2026-03-29 04:19:00 | NOAA-20 | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 324bf7a4-bd1b-3064-a2a5-9458b8fc4e1a | -21.12955 | -46.54153 | 2026-03-29 04:19:00 | NOAA-20 | SÃO PEDRO DA UNIÃO | MINAS GERAIS | Brasil | 3163904 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 9a983398-6a70-31e5-b659-7e2e38f552ae | -26.89655 | -49.75994 | 2026-03-29 04:21:00 | NOAA-20 | JOSÉ BOITEUX | SANTA CATARINA | Brasil | 4209151 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| a72812f2-9fbd-3717-ad11-14bfa562d182 | -25.64043 | -53.2005 | 2026-03-29 04:21:00 | NOAA-20 | BOA ESPERANÇA DO IGUAÇU | PARANÁ | Brasil | 4103024 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 984e8dac-3aee-3af8-ae37-2e2bbe9c49ba | -27.28371 | -49.82166 | 2026-03-29 04:21:00 | NOAA-20 | TROMBUDO CENTRAL | SANTA CATARINA | Brasil | 4218608 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 20cdd4f2-5c53-3f09-9f7b-b40cb73ade8b | -27.28034 | -49.82094 | 2026-03-29 04:21:00 | NOAA-20 | TROMBUDO CENTRAL | SANTA CATARINA | Brasil | 4218608 | 42 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 09d913cf-e5d1-33e0-910f-63755bccc4a6 | -25.64276 | -53.20094 | 2026-03-29 04:21:00 | NOAA-20 | BOA ESPERANÇA DO IGUAÇU | PARANÁ | Brasil | 4103024 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 8b4019f3-7197-3f82-b473-62cc37fef9d3 | -25.26938 | -50.69484 | 2026-03-29 04:21:00 | NOAA-20 | IMBITUVA | PARANÁ | Brasil | 4110102 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 8127e521-6ddd-3a63-a533-198f1f082464 | 3.40331 | -59.96492 | 2026-03-29 05:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| eb4b1b85-c966-3ad9-a3e6-1e2fabe80e9c | 3.43674 | -59.94661 | 2026-03-29 05:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 21e6db58-7989-32b4-8923-cedbc40e58e4 | 3.44182 | -59.95034 | 2026-03-29 05:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| eaaf0b1c-8ef8-30c7-aad5-06d503903701 | 3.43232 | -59.94725 | 2026-03-29 05:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| ba8cbd24-703f-32e9-a9c5-e255c2714aa5 | 3.4008 | -59.97858 | 2026-03-29 05:01:00 | NOAA-21 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| b224c9c2-f751-39f5-83da-b1de10990812 | -15.0874 | -43.89535 | 2026-03-29 05:08:00 | NOAA-21 | MATIAS CARDOSO | MINAS GERAIS | Brasil | 3140852 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 317b2113-6467-3db0-aa1f-53e006f1070e | -13.15331 | -53.25636 | 2026-03-29 05:08:00 | NOAA-21 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
