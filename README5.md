@@ -29,106 +29,105 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c13a3318-f434-3686-bbf5-f95976b196d1 | -11.57252 | -54.57402 | 2026-04-15 05:21:00 | NPP-375D | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 7aded7d8-f785-32ff-8f87-1b96e6c154e9 | -11.93327 | -58.06758 | 2026-04-15 05:21:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 2831037f-17ab-3723-bab3-4138e8375c3c | -11.43083 | -55.09803 | 2026-04-15 05:21:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 21a023e6-17c8-35d1-8e93-08278a54275e | -11.9366 | -58.06812 | 2026-04-15 05:21:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 2d65dd11-dd1a-37dd-a8c7-f386b1d227e8 | -11.20542 | -56.87984 | 2026-04-15 05:21:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| f495eb66-4097-337b-81cd-3989a2e66c50 | -12.29182 | -57.39313 | 2026-04-15 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 7c17d8fb-d6ec-3697-bdef-48da51c21a9d | -11.43147 | -55.09366 | 2026-04-15 05:21:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 581e201c-8727-3111-ba42-739a14a98cb3 | -12.99542 | -54.68066 | 2026-04-15 05:21:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| f4be1bad-4255-3e8c-bcc4-26060740d55d | -11.92549 | -58.07362 | 2026-04-15 05:21:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 8bde5e15-e11e-37ad-99f5-df808591b2dd | -11.20202 | -56.87929 | 2026-04-15 05:21:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| b5f244dd-77e6-3568-b8f1-2ab92f890499 | -21.69922 | -56.31116 | 2026-04-15 05:23:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 873ddb3f-7423-3fe3-8a21-e94aa3db2de3 | -16.59147 | -58.21505 | 2026-04-15 05:23:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| f775c577-8bc9-3989-b0bd-496ceaacaf67 | -20.22679 | -46.47791 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 07347a9f-ceb5-30e8-8eca-51b28fb2a4ba | -20.1851 | -46.59949 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0cb93519-4621-343e-a894-058fe8b134ee | -20.22451 | -46.46527 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 74b12e94-ba91-3f50-9f8e-084aad4a980d | -20.22732 | -46.47087 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| b5a4bf85-6553-303f-883b-7f32cee0a27f | -16.5943 | -58.2194 | 2026-04-15 05:23:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 2eaa3dd4-d087-3904-9730-b0ee33faf9ea | -21.88754 | -56.26641 | 2026-04-15 05:23:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.0 |
-| afb18c95-7087-3f93-b93a-807b2de0d4fa | -22.8778 | -48.64674 | 2026-04-15 05:23:00 | NPP-375D | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 73d67edf-24e3-3400-8c32-ef485be4aa5d | -20.22392 | -46.4724 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 16.4 |
-| 6136afdc-d0b8-38c7-9db8-b671732f4a13 | -21.8836 | -56.26587 | 2026-04-15 05:23:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| f4221882-7919-31d0-aa0f-49cad7886b9d | -18.50854 | -55.523 | 2026-04-15 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.5 |
-| cd4faf1b-0ee8-336c-943c-884a8467292e | -21.6953 | -56.3106 | 2026-04-15 05:23:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 595a561b-602e-360f-9f3f-bb0058e3a64f | -16.25099 | -60.03249 | 2026-04-15 05:23:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| 1f4d2bc1-31b1-3685-9fc5-503565fac60f | -20.17178 | -46.58879 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| f4968dc5-2868-3c83-9c63-07974441bbff | -16.59487 | -58.21561 | 2026-04-15 05:23:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| 24f7b51b-1637-3ca6-9e40-91db715e89ce | -20.32438 | -55.00505 | 2026-04-15 05:23:00 | NPP-375D | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 1f1d6256-c73d-35ee-928c-c1976dd50c4f | -20.53861 | -49.49807 | 2026-04-15 05:23:00 | NPP-375D | MIRASSOLÂNDIA | SÃO PAULO | Brasil | 3530409 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 69fad9c0-cf8c-3d90-9544-d94d48363cff | -20.18722 | -46.57325 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 239451f5-7f56-33c0-ab7d-5fd2191cf61a | -18.50817 | -55.51995 | 2026-04-15 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.0 |
-| 76e25472-f9ba-3073-9fd4-f3ca8fc96f7f | -16.59089 | -58.21884 | 2026-04-15 05:23:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
-| cbc6d91b-2c1c-3706-a03e-fb31962e8e0e | -18.7307 | -49.7935 | 2026-04-15 05:23:00 | NPP-375D | ITUIUTABA | MINAS GERAIS | Brasil | 3134202 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d1f382af-87ac-3ea1-99a6-20921e667556 | -18.51211 | -55.52052 | 2026-04-15 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.7 |
-| 8ca597f3-9456-3758-8af3-c6784a6911ca | -20.23166 | -46.46519 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| dfb743c9-52e6-350d-921d-86934de2dbfc | -20.53816 | -49.50281 | 2026-04-15 05:23:00 | NPP-375D | MIRASSOLÂNDIA | SÃO PAULO | Brasil | 3530409 | 35 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 40c650e6-d3e7-3290-8ea2-2e0b61a8cb55 | -20.32487 | -55.00102 | 2026-04-15 05:23:00 | NPP-375D | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 096d19d3-1334-3708-a07f-0e8d4db35bb0 | -20.32856 | -55.00555 | 2026-04-15 05:23:00 | NPP-375D | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| dc0c94df-dc66-352f-bcfe-ec9b0d10905c | -18.50461 | -55.52243 | 2026-04-15 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.8 |
-| c56011b5-ac90-3c0e-a06b-f13aca52604e | -20.18561 | -46.59314 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| e32ac084-2321-3ff1-a3e7-885a13717bff | -20.22785 | -46.46381 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 68c569fa-6f7e-37fc-ae3e-c893a7eac68f | -20.53906 | -49.49329 | 2026-04-15 05:23:00 | NPP-375D | MIRASSOLÂNDIA | SÃO PAULO | Brasil | 3530409 | 35 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0d6e497b-af6a-395e-9e36-10a29b4f07df | -20.4654 | -54.68961 | 2026-04-15 05:23:00 | NPP-375D | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| e19d1187-4cef-385b-845f-d5eb96b5f899 | -20.23107 | -46.47236 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| d98f126f-d149-3b8e-b802-2c8f21f58f47 | -20.16494 | -46.58554 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a06f1805-1b06-304a-8dd0-67e3d5c24d4e | -20.18667 | -46.58008 | 2026-04-15 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| ac82410d-db9b-3c7a-a7eb-d0f6e7cacb71 | -20.46115 | -54.68899 | 2026-04-15 05:23:00 | NPP-375D | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 335d3aca-dc89-3465-bfd3-3c954da2aa3b | -18.50926 | -55.51778 | 2026-04-15 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| 3805fad3-3208-3c35-8877-af9173b12a5a | -22.87822 | -48.64119 | 2026-04-15 05:23:00 | NPP-375D | BOTUCATU | SÃO PAULO | Brasil | 3507506 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b2e9776d-a68f-3624-83f4-3962f5860e01 | -25.64869 | -50.12055 | 2026-04-15 05:25:00 | NPP-375D | SÃO JOÃO DO TRIUNFO | PARANÁ | Brasil | 4125100 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
-| b395e45a-aeee-3c05-a43e-668d8d115f7f | -25.65479 | -50.12056 | 2026-04-15 05:25:00 | NPP-375D | SÃO JOÃO DO TRIUNFO | PARANÁ | Brasil | 4125100 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
-| 5a3132b4-30dc-3ada-b1f6-4041327451b2 | -25.65328 | -50.12268 | 2026-04-15 05:25:00 | NPP-375D | SÃO JOÃO DO TRIUNFO | PARANÁ | Brasil | 4125100 | 41 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| 2fdfab7d-33a9-3887-9c50-efeddeb77fe0 | 2.9373 | -60.17432 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 4d414594-5437-3697-8cb0-77eb6358d1a0 | 3.23236 | -61.21775 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 3025df8d-b11e-3525-8a85-a55d2dba5410 | 1.93867 | -60.37428 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 16d2274f-01b1-3296-998e-903d32b55bfb | 3.23512 | -61.21379 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| be9fda34-865c-3aa5-b218-e3dc1de7f422 | 2.56244 | -61.02228 | 2026-04-15 05:36:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 3126c6f5-02fd-3aa2-b6e1-c9fa006005ef | 3.23951 | -61.22016 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 993ff718-a218-378e-ad60-a4e44fa80648 | 1.9043 | -61.09397 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| bce300fd-aad1-3549-952c-aa967c19ecbe | 2.56883 | -60.54928 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| b3899795-b321-376d-84af-763999361bc7 | 1.91694 | -60.57465 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 09bdffc5-c385-35a0-99c6-745f7b738708 | 3.23182 | -61.21431 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| f28644cc-8b9f-3bec-8840-79e5d3f10c08 | 3.23897 | -61.21672 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 8bf651cb-8da9-3a1b-86a5-3599ad84dbe2 | 2.19892 | -60.80882 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 56e7d4c9-c7f9-3380-8a1d-0675298a2780 | 1.88804 | -60.67344 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8f69b457-3b78-3dee-868d-22cc1bb3d43c | 2.94403 | -60.17326 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 4abe88f4-0cb4-350d-bb49-76ebe71c6bd0 | 1.9381 | -60.3707 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 38d38fe9-2b00-301b-b7b5-ccf88daa932b | 1.82841 | -60.85212 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 9df6bda1-bebf-3334-aedb-e3b8e4644f74 | 1.81521 | -60.44432 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 468c79ea-edb0-3ce5-b2f0-f46e96895066 | 2.38556 | -60.8937 | 2026-04-15 05:36:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| fbbe7b28-74e2-3f73-b58d-3996c0538c7b | 2.56549 | -60.54981 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| 531fed9b-57fd-3981-9a48-6cedfba0dd2b | 3.23567 | -61.21724 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 5099d676-21b4-34d8-9094-d4c80262b090 | 2.45978 | -61.31833 | 2026-04-15 05:36:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| ffcc2d55-9f71-34a2-b881-a56e9ed3a83b | 1.90485 | -61.09743 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| c76251ae-30bc-36dc-b207-55c7fce1a2d8 | 2.93787 | -60.17791 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| e1505eed-8093-33ad-bf96-8b427114a195 | 2.57478 | -60.32659 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 8cfcdc6b-dbd9-338a-aeff-6cf805d46e8a | 3.22851 | -61.21483 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| b7e4cf91-6304-36ea-8377-1631d191befc | 2.94124 | -60.17738 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d258e0e3-460c-3345-8d95-1811c19b1062 | 1.48225 | -60.92113 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| a0fa3b47-87bd-3991-8555-1a35998a5b37 | 2.9446 | -60.17686 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 02be0370-8f28-352b-ab82-b62f55221b84 | 2.01529 | -61.08723 | 2026-04-15 05:36:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| e3b683ef-1efe-3b2d-9fa3-f9a35b9ac7d4 | 3.17327 | -60.20376 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 8f506f2a-2d1d-3dcf-b8a9-368fd6a68c0c | 1.85396 | -60.64609 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| f6fd9511-0835-31df-ad44-004176752eb6 | 2.38501 | -60.89022 | 2026-04-15 05:36:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| af2d3362-fec6-3258-8d47-c579ecdfe3d5 | 2.01197 | -61.08775 | 2026-04-15 05:36:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 91404c0e-19d4-3caa-b3dd-40aec488ca76 | 2.01474 | -61.08376 | 2026-04-15 05:36:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 861f4bc5-3fc1-301b-968a-bbde783e9f45 | 2.44655 | -61.3204 | 2026-04-15 05:36:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5c49892f-eb80-3ede-a702-16f446782a1f | 3.22906 | -61.21828 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d852e151-c5ce-341e-9671-6c2e206cfb75 | 2.56939 | -60.55281 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 9.7 |
-| 70f28b1a-df37-3088-a26f-3cacc5c943eb | 2.23558 | -61.27624 | 2026-04-15 05:36:00 | NOAA-20 | IRACEMA | RORAIMA | Brasil | 1400282 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 2ff7e787-1efb-3418-9454-9f2e27827c32 | 2.42393 | -61.34863 | 2026-04-15 05:36:00 | NOAA-20 | MUCAJAÍ | RORAIMA | Brasil | 1400308 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9d64b896-68c8-364b-82af-bf3df2c3c2b7 | 1.85061 | -60.64661 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2fc783db-85b4-33bc-85f4-d65fb64f4769 | 1.81241 | -60.44843 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 473b345c-70e2-3dbc-b73a-7f82929a534b | 3.23843 | -61.21328 | 2026-04-15 05:36:00 | NOAA-20 | ALTO ALEGRE | RORAIMA | Brasil | 1400050 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 2d5454a3-e197-3f7b-9f23-a70877153bd4 | 2.57421 | -60.32301 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 3cb88761-0ab1-336c-b2d6-3cdebbc5d0c1 | 3.17271 | -60.20019 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| e6e1cd71-2d05-3332-a611-058eb0dd9856 | 2.9345 | -60.17844 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 697e41fc-6e70-33ed-9211-fe0ae6f0e693 | 1.91453 | -60.45097 | 2026-04-15 05:36:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| e1df81f0-f2f6-3dbc-b5bb-93fc3a6aba75 | 2.94066 | -60.1738 | 2026-04-15 05:36:00 | NOAA-20 | BONFIM | RORAIMA | Brasil | 1400159 | 14 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7bc45e3e-7d21-3eb0-b500-203bc4a7fa36 | 1.89564 | -60.86673 | 2026-04-15 05:36:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| ab7cc23d-f556-3bb7-a57a-90538474fdcf | -11.93292 | -58.06952 | 2026-04-15 05:40:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5a612ccc-d3fd-34c8-a370-73cf95b5dd35 | -11.77796 | -43.64809 | 2026-04-22 12:02:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 25.9 |
+| 1c76a43c-b986-3af3-8e19-005a6eed5afa | -12.23496 | -44.19261 | 2026-04-22 12:02:00 | TERRA_M-T | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 16.0 |
+| df144016-393b-3fd8-b880-1ee3656a3ff8 | -11.77517 | -43.65423 | 2026-04-22 12:02:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 38.4 |
+| ec88d7ba-fa14-3c08-8180-b393e0e44739 | -11.77796 | -43.64807 | 2026-04-22 12:02:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 25.9 |
+| c5aae7d6-d314-3b9e-aa0a-0e62689acc41 | -11.78667 | -43.65581 | 2026-04-22 12:02:00 | TERRA_M-T | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 12.0 |
+| a76dc933-55b5-3a53-bfaa-793b38a1cf7c | -12.23684 | -44.17795 | 2026-04-22 12:02:00 | TERRA_M-T | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 19.7 |
+| 8e63f0b5-5b3d-381f-bd7d-1683d61c19fc | -13.39015 | -45.33065 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 56.4 |
+| 26efad6b-619d-3dbf-b430-d1e2efa513e9 | -15.27544 | -51.29119 | 2026-04-22 12:04:00 | TERRA_M-T | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| 37141af5-f94c-3fb8-bf77-5b0719a537d9 | -13.37345 | -45.32192 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| a9d65380-ee2d-3fa2-add6-bdf9b0f9f198 | -15.27693 | -51.28136 | 2026-04-22 12:04:00 | TERRA_M-T | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 34a1425f-cb61-3366-9a2d-331c77b62df2 | -13.45148 | -43.79271 | 2026-04-22 12:04:00 | TERRA_M-T | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 016632d4-2c06-3a81-af7a-082475efd956 | -12.3977 | -46.63147 | 2026-04-22 12:04:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| a0975302-0e43-3200-b010-de9e0c9b9e6c | -16.23706 | -52.37241 | 2026-04-22 12:04:00 | TERRA_M-T | BALIZA | GOIÁS | Brasil | 5203104 | 52 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 3528e075-e5f0-35ac-a7dc-005fdfff00a5 | -13.38217 | -45.33594 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 128.8 |
+| e4ec7916-f6f7-3c6f-a079-aa9f2d6c1b52 | -13.39172 | -45.31793 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| e204bb6a-9f73-3fd8-a1ec-3a2d43f7d33b | -19.19354 | -48.49318 | 2026-04-22 12:04:00 | TERRA_M-T | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 324f539e-1dd6-355d-b4eb-0c8d256063d8 | -20.7275 | -48.4115 | 2026-04-22 12:04:00 | TERRA_M-T | JABORANDI | SÃO PAULO | Brasil | 3524204 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 3744ecda-4c9f-3000-a38f-e476ff15b23b | -16.32966 | -49.51442 | 2026-04-22 12:04:00 | TERRA_M-T | INHUMAS | GOIÁS | Brasil | 5210000 | 52 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| b96f9859-671e-3675-9bd1-2f5bb167f011 | -17.81393 | -52.66926 | 2026-04-22 12:04:00 | TERRA_M-T | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| ed231424-592b-3703-b726-94bd7115f9d6 | -12.39634 | -46.64176 | 2026-04-22 12:04:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| fb9df0b4-4e87-3a53-be72-5a6498c749e5 | -13.38383 | -45.32326 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 184.6 |
+| f1a32d95-aaa9-30ec-9ebd-e1945e5f970c | -17.16621 | -46.82951 | 2026-04-22 12:04:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| cca7038f-5a40-3f30-a87f-88a54fb4f012 | -15.85687 | -46.54055 | 2026-04-22 12:04:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| b910e177-d835-3efe-84a1-ac1f14bf7387 | -17.76801 | -43.99544 | 2026-04-22 12:04:00 | TERRA_M-T | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| d034773b-9674-3d5e-aca8-a5549d7fe829 | -15.27693 | -51.28135 | 2026-04-22 12:04:00 | TERRA_M-T | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| cdf07dc8-d476-365f-bc88-d0cb40c35f3e | -12.3977 | -46.63145 | 2026-04-22 12:04:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 5acaf37f-04fa-3ce5-be41-c5c2c84866ed | -13.37345 | -45.32191 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| 7cdcbcce-a50e-3870-b809-a1c22ebd6249 | -13.39173 | -45.31791 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 16.3 |
+| 0ab0c027-3181-34b3-8c7a-761525993ea4 | -19.19355 | -48.49316 | 2026-04-22 12:04:00 | TERRA_M-T | UBERLÂNDIA | MINAS GERAIS | Brasil | 3170206 | 31 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 21583262-ae14-3094-89a6-d8c6e129c473 | -15.27545 | -51.29118 | 2026-04-22 12:04:00 | TERRA_M-T | JUSSARA | GOIÁS | Brasil | 5212204 | 52 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| f7c89e11-fab8-36a2-aa86-a7b0381e654c | -13.38383 | -45.32325 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 184.6 |
+| 6989bff8-4f06-3185-9595-96a3b9acfc37 | -12.39634 | -46.64175 | 2026-04-22 12:04:00 | TERRA_M-T | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 9.0 |
+| 94d95cc7-593e-3d07-8e07-aa4208e90c12 | -15.85687 | -46.54054 | 2026-04-22 12:04:00 | TERRA_M-T | UNAÍ | MINAS GERAIS | Brasil | 3170404 | 31 | 33 | nan | nan | nan | Cerrado | 20.5 |
+| a71c9bb3-8653-3608-8327-14ad05070f4e | -13.39015 | -45.33064 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 56.4 |
+| a7719611-096a-336f-bf74-762edbea613b | -20.7275 | -48.41148 | 2026-04-22 12:04:00 | TERRA_M-T | JABORANDI | SÃO PAULO | Brasil | 3524204 | 35 | 33 | nan | nan | nan | Cerrado | 7.8 |
+| 7f9af03e-877d-3acb-ad55-a3f9edc0b3ab | -13.45148 | -43.79269 | 2026-04-22 12:04:00 | TERRA_M-T | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| de80607c-7682-30b6-8359-a1577c538397 | -13.38218 | -45.33593 | 2026-04-22 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 128.8 |
+| 5b5a723e-eead-331e-b50f-854b985556ea | -16.32967 | -49.5144 | 2026-04-22 12:04:00 | TERRA_M-T | INHUMAS | GOIÁS | Brasil | 5210000 | 52 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 5a9ad4a1-c0a6-38fb-9a00-ff79c96ac577 | -17.76801 | -43.99543 | 2026-04-22 12:04:00 | TERRA_M-T | BUENÓPOLIS | MINAS GERAIS | Brasil | 3109204 | 31 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 9cc1dd59-4fac-34d0-b837-aabe138e75e0 | -17.81393 | -52.66925 | 2026-04-22 12:04:00 | TERRA_M-T | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 8c17b76d-ebba-38e3-96e6-6db3467d110a | -16.23707 | -52.37239 | 2026-04-22 12:04:00 | TERRA_M-T | BALIZA | GOIÁS | Brasil | 5203104 | 52 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 155c216b-3f80-3bbe-a8e8-cbab38d61c24 | -17.16621 | -46.82949 | 2026-04-22 12:04:00 | TERRA_M-T | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 6.5 |
+| db53eb47-693f-3657-be25-22f40e555608 | -24.95764 | -49.63258 | 2026-04-22 12:06:00 | TERRA_M-T | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| fc5e46de-6672-3784-b11c-e2652b3b0a65 | -28.56496 | -49.33153 | 2026-04-22 12:06:00 | TERRA_M-T | URUSSANGA | SANTA CATARINA | Brasil | 4219002 | 42 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
+| 79e7b738-e478-3e67-a5f8-c5f4a6b2d613 | -23.30732 | -51.36385 | 2026-04-22 12:06:00 | TERRA_M-T | ROLÂNDIA | PARANÁ | Brasil | 4122404 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| bb4d9e45-de67-3df9-ae24-fa4a85019ad6 | -26.99364 | -51.99926 | 2026-04-22 12:06:00 | TERRA_M-T | IRANI | SANTA CATARINA | Brasil | 4207809 | 42 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
+| 39bce928-d7de-3a47-bf5e-e163b547a96d | -25.20803 | -49.40503 | 2026-04-22 12:06:00 | TERRA_M-T | ITAPERUÇU | PARANÁ | Brasil | 4111258 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| cdaf9c07-86fb-3a65-821f-875688477d65 | -22.96364 | -52.69362 | 2026-04-22 12:06:00 | TERRA_M-T | GUAIRAÇÁ | PARANÁ | Brasil | 4108908 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| fa7dc857-ffd3-3ad4-9159-08cb0325f9e4 | -25.24849 | -49.15958 | 2026-04-22 12:06:00 | TERRA_M-T | COLOMBO | PARANÁ | Brasil | 4105805 | 41 | 33 | nan | nan | nan | Mata Atlântica | 32.7 |
+| 2ee0874b-b682-3bb3-858c-9c96877500a5 | -28.56649 | -49.31889 | 2026-04-22 12:06:00 | TERRA_M-T | COCAL DO SUL | SANTA CATARINA | Brasil | 4204251 | 42 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
+| 46c7e909-ef26-31df-9ffe-f1b86d1cf59f | -28.56698 | -49.32494 | 2026-04-22 12:06:00 | TERRA_M-T | COCAL DO SUL | SANTA CATARINA | Brasil | 4204251 | 42 | 33 | nan | nan | nan | Mata Atlântica | 14.7 |
+| 6b484d85-cf2e-34fb-87c5-8708e376c598 | -22.60721 | -49.29718 | 2026-04-22 12:06:00 | TERRA_M-T | PAULISTÂNIA | SÃO PAULO | Brasil | 3536570 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| e0ef3af5-8339-32cf-a8a8-787ef3ce49c1 | -24.95089 | -49.63588 | 2026-04-22 12:06:00 | TERRA_M-T | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
+| 6e11462d-9626-3652-a137-775a43cceebf | -22.96364 | -52.69361 | 2026-04-22 12:06:00 | TERRA_M-T | GUAIRAÇÁ | PARANÁ | Brasil | 4108908 | 41 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| 4be29b37-7588-3945-a396-a060960412d1 | -28.56698 | -49.32492 | 2026-04-22 12:06:00 | TERRA_M-T | COCAL DO SUL | SANTA CATARINA | Brasil | 4204251 | 42 | 33 | nan | nan | nan | Mata Atlântica | 14.7 |
+| e47ac612-3b71-3b5f-be72-837912f298fa | -25.20804 | -49.40502 | 2026-04-22 12:06:00 | TERRA_M-T | ITAPERUÇU | PARANÁ | Brasil | 4111258 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.7 |
+| 3f50d101-c751-3530-9361-474002ad99ed | -28.56496 | -49.33152 | 2026-04-22 12:06:00 | TERRA_M-T | URUSSANGA | SANTA CATARINA | Brasil | 4219002 | 42 | 33 | nan | nan | nan | Mata Atlântica | 6.7 |
+| 6d20eb3a-82d9-3298-b82e-d20832615196 | -23.30732 | -51.36383 | 2026-04-22 12:06:00 | TERRA_M-T | ROLÂNDIA | PARANÁ | Brasil | 4122404 | 41 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
+| a5d1b9f7-a35e-3039-bb20-0e69a6a5313b | -24.95764 | -49.63257 | 2026-04-22 12:06:00 | TERRA_M-T | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 8.0 |
+| 0dd56d32-46e5-33b7-9554-34ecada63db6 | -26.99364 | -51.99924 | 2026-04-22 12:06:00 | TERRA_M-T | IRANI | SANTA CATARINA | Brasil | 4207809 | 42 | 33 | nan | nan | nan | Mata Atlântica | 6.1 |
+| 05fb955b-9403-3239-809c-506d1327e743 | -25.24849 | -49.15956 | 2026-04-22 12:06:00 | TERRA_M-T | COLOMBO | PARANÁ | Brasil | 4105805 | 41 | 33 | nan | nan | nan | Mata Atlântica | 32.7 |
+| 742f4579-6534-3dc5-9812-d3718513171e | -22.60721 | -49.29717 | 2026-04-22 12:06:00 | TERRA_M-T | PAULISTÂNIA | SÃO PAULO | Brasil | 3536570 | 35 | 33 | nan | nan | nan | Cerrado | 4.1 |
+| 3a6e4814-7ef2-3688-a193-cca7f8587aa3 | -28.56649 | -49.31887 | 2026-04-22 12:06:00 | TERRA_M-T | COCAL DO SUL | SANTA CATARINA | Brasil | 4204251 | 42 | 33 | nan | nan | nan | Mata Atlântica | 9.2 |
+| d271b46f-6881-3094-b295-2ff0f35ab216 | -24.95089 | -49.63587 | 2026-04-22 12:06:00 | TERRA_M-T | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 7.0 |
+| 15679f4f-0ddd-3256-8e4b-c425fd090084 | -13.3761 | -45.3243 | 2026-04-22 12:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 151.0 |
+| 78b0b4d7-03da-3314-8ccd-34119fe99fa5 | -13.3955 | -45.321 | 2026-04-22 12:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 103.8 |
+| 9cb5ae59-6f2a-36e6-87fb-ca2f746a39e6 | -13.3955 | -45.321 | 2026-04-22 12:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 128.5 |
+| 7778cd0e-a430-36d1-84e2-a75971ea38f8 | -13.3761 | -45.3243 | 2026-04-22 12:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 163.5 |
+| 5ee40397-b17d-3f2f-9318-33a0b6b9a146 | -13.3955 | -45.321 | 2026-04-22 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 131.1 |
+| 895c8abd-1c03-3314-b2bc-f197de995f4a | -13.3761 | -45.3243 | 2026-04-22 12:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 185.0 |
+| 093effcd-b925-3bc7-9c09-4ba7322460d3 | -13.3955 | -45.321 | 2026-04-22 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 185.5 |
+| 7610e3d2-741d-3a0d-abfa-a5780b74ff53 | -13.3761 | -45.3243 | 2026-04-22 12:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 143.6 |
+| 0f07dd67-22e0-3834-b751-6df8ea86c875 | -13.3955 | -45.321 | 2026-04-22 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 155.2 |
+| 4c6906b3-0c1c-3f44-ab52-d0a91d9901dd | -13.3761 | -45.3243 | 2026-04-22 12:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 172.9 |
+| 15f47724-d75b-382a-930a-0970c71c8ad7 | -13.3761 | -45.3243 | 2026-04-22 13:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 178.6 |
+| 50ca3d70-ac9f-316e-9b61-a2913af96302 | -13.3955 | -45.321 | 2026-04-22 13:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 147.3 |
+| 12b7032a-c614-3611-9255-3c310482722e | -13.3761 | -45.3243 | 2026-04-22 13:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 177.8 |
+| 59116108-a31b-36ca-8b10-6ff235ef971e | -13.3955 | -45.321 | 2026-04-22 13:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 121.1 |
+| 12933919-6af5-3f48-96cf-1da82ba3c529 | -13.3955 | -45.321 | 2026-04-22 13:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 120.5 |
+| 766f07ee-32f5-3b1c-8e51-aec2131d85f9 | -13.3761 | -45.3243 | 2026-04-22 13:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 169.0 |
+| 88923e74-1625-37a1-881b-d84341a39801 | -13.3761 | -45.3243 | 2026-04-22 13:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 120.0 |
+| 579a7027-7eff-346e-9b09-80abe48cdab6 | -13.3955 | -45.321 | 2026-04-22 13:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 133.0 |
+| 80693342-c4b4-345b-a3a5-7f0dd7bd3752 | -13.3761 | -45.3243 | 2026-04-22 13:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 177.4 |
+| 5d6d1e0a-2d6a-37f3-9b2b-5f2a4ed9c3eb | -13.3955 | -45.321 | 2026-04-22 13:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 121.1 |
+| 0dbc49b0-cfd8-3bf7-b071-5f3c10d89191 | -13.3955 | -45.321 | 2026-04-22 13:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 125.0 |
+| c71a117f-9ec2-35b9-91a7-3fcd5fa47882 | -11.772 | -43.643 | 2026-04-22 13:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 109.5 |
+| 84c15222-4b41-3190-b247-2836eeb117e2 | -13.3761 | -45.3243 | 2026-04-22 13:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 139.1 |
+| c02ab837-3fe9-3639-afe2-8deed385cebe | -24.9702 | -49.6296 | 2026-04-22 13:50:00 | GOES-19 | CASTRO | PARANÁ | Brasil | 4104907 | 41 | 33 | nan | nan | nan | Mata Atlântica | 96.9 |
+| ef406a19-5c00-3f91-9052-ddfc642a7ccd | -13.3955 | -45.321 | 2026-04-22 14:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 112.9 |
+| f4afaf16-2ee2-31e3-a2ed-866d7f1ec9b8 | -11.772 | -43.643 | 2026-04-22 14:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 97.2 |
+| 782d367e-baaa-33d1-b6ac-654decb94473 | -11.772 | -43.643 | 2026-04-22 14:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 114.5 |
+| 0bac8d44-7c82-3b77-9c91-76451ef3150f | -11.772 | -43.643 | 2026-04-22 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 103.6 |
+| c80537a5-be4a-3331-aa01-0144c7d81e4e | -12.2421 | -44.1807 | 2026-04-22 14:30:00 | GOES-19 | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 84.7 |
+| 036f4d3d-4e28-3910-b11b-526b34c25144 | -11.772 | -43.643 | 2026-04-22 14:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 117.8 |
+| af6edab0-fbdc-3791-8113-b5abe9522ff9 | -12.2421 | -44.1807 | 2026-04-22 14:40:00 | GOES-19 | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 87.8 |
+| fb2df262-a804-3cfc-b0c2-36dbcb9395e2 | -11.772 | -43.643 | 2026-04-22 14:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 110.6 |
+| fd12cffd-1e1e-36ea-9721-a39459add68d | -11.772 | -43.643 | 2026-04-22 14:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 102.4 |
+| 6f86e19a-e764-3f4f-b230-7e46438836ef | -13.3761 | -45.3243 | 2026-04-22 15:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 99.1 |
+| b7779830-3bb9-3eb3-a179-7187d8dc3a7e | -11.772 | -43.643 | 2026-04-22 15:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 111.8 |
+| cb47f8c5-ec9e-33ea-8aad-7764791df7a1 | -13.3761 | -45.3243 | 2026-04-22 15:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 87.3 |
 
 
-[Clique aqui para ver as próximas entradas](README6.md)
