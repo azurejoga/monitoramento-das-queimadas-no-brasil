@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 235b219d-41b6-3973-8598-211de0ef3015 | -10.97551 | -45.08406 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| bf9129d4-c6ce-3f3d-917f-d7f18b3c1502 | -13.37359 | -54.26924 | 2026-05-01 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| c8a0ab41-4551-34de-822c-9ce34d534893 | -12.40403 | -57.79333 | 2026-05-01 05:21:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| bdea1e2f-08b1-36dc-9bbe-774767b10954 | -12.05719 | -57.41891 | 2026-05-01 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 38217a4e-06bb-3c46-bdd1-a1b57990c71d | -10.97397 | -45.09744 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.2 |
-| bdaec5af-5f70-3892-8fc6-f00a3dd51d90 | -12.05707 | -57.42199 | 2026-05-01 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 29f81fa1-1dc7-3af5-a977-26eed96bb804 | -12.08812 | -51.22453 | 2026-05-01 05:21:00 | NPP-375D | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 8500653a-0df0-3c2c-af08-c06e03057d6a | -11.4333 | -55.10083 | 2026-05-01 05:21:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| f34de479-4282-3801-adbe-1ac44ae26278 | -13.37481 | -54.27073 | 2026-05-01 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 7f127d84-c568-3728-823e-fcbf5dea313a | -13.37757 | -54.26982 | 2026-05-01 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
-| beaeba2d-0c5a-382a-8605-8fe6082b28ea | -12.37701 | -54.75281 | 2026-05-01 05:21:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 422656f3-157a-3793-9fd3-8053bfe41435 | -12.34207 | -50.00673 | 2026-05-01 05:21:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| e8cafe2d-ed6a-3752-ac0b-6ce9602340af | -12.37068 | -50.03331 | 2026-05-01 05:21:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 2c67f48d-d364-3956-9dc1-c4951cd8ef14 | -12.37768 | -54.74803 | 2026-05-01 05:21:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| c5914c35-4411-3219-a0f9-9cf13b1d4508 | -12.37108 | -50.03011 | 2026-05-01 05:21:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 0140c2b1-3f99-3f8c-b243-0372b818b766 | -12.37387 | -54.74744 | 2026-05-01 05:21:00 | NPP-375D | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| ae7526da-b06b-3b7e-b112-079ecc1be81a | -10.98094 | -45.09856 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| 2c55adc9-6945-3c2c-ba3c-83f533af9e30 | -12.3759 | -50.03402 | 2026-05-01 05:21:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 922ba5c2-2d25-346b-9fcd-8524fe4fc5e2 | -12.29244 | -57.38655 | 2026-05-01 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| ce304f20-80a6-33e2-8bdb-056880abb34f | -10.98328 | -45.07834 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| 10d49f29-2a76-3fe1-a5d5-a2d5782cf86e | -10.98945 | -45.08636 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 26.9 |
-| d34db388-c253-3207-9902-9f6076557675 | -12.2964 | -57.3834 | 2026-05-01 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 7ab6fc96-5dd1-3179-97ef-8dfe37aba9af | -13.37083 | -54.27014 | 2026-05-01 05:21:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| e8b26158-fdeb-3bf3-81d4-322acd5ba36d | -10.98248 | -45.08524 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 26.9 |
-| 500e1d76-ef69-31f8-8f34-f30340fe3f46 | -10.97323 | -45.10387 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.2 |
-| 207518f6-6cba-3feb-bb94-25472dfbfbfc | -12.40067 | -57.79279 | 2026-05-01 05:21:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 6b27e24c-b4ec-3ca5-9532-15d6cb81af9e | -12.9916 | -54.68165 | 2026-05-01 05:21:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 95682161-0657-3296-b31a-f4563cc4a9e0 | -10.99025 | -45.07946 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| b3efd352-b6c3-3fde-aa55-54d3e12b1a06 | -12.29188 | -57.39024 | 2026-05-01 05:21:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| fea8d95b-e795-3ef3-bf9c-4a18d491a7d5 | -10.97629 | -45.07728 | 2026-05-01 05:21:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 7eb3316e-6bd9-369f-bc13-ad836d2b0ef5 | -14.32752 | -57.7353 | 2026-05-01 05:23:00 | NPP-375D | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 36a46b03-34a6-344b-8e25-a3c749a6cf82 | -16.04237 | -52.36419 | 2026-05-01 05:23:00 | NPP-375D | PONTAL DO ARAGUAIA | MATO GROSSO | Brasil | 5106653 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 8472615d-f9a2-37aa-83c2-791ddee48faf | -19.15654 | -57.5584 | 2026-05-01 05:23:00 | NPP-375D | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 2.9 |
-| b44a75a8-d9cf-3a70-85cc-bb354416b611 | -17.96043 | -52.90213 | 2026-05-01 05:23:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 03278e90-ce23-3390-9c7b-3b4f6414ac21 | -18.50846 | -55.51174 | 2026-05-01 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 6efe11f2-4a25-3bf9-af12-30b37bf11bbf | -18.50915 | -55.50646 | 2026-05-01 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.5 |
-| 15d31d31-a772-36f3-96c1-754bfd5239e0 | -18.51311 | -55.50705 | 2026-05-01 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 125167d7-8bfc-3bbc-93fa-3c840ba4a474 | -20.71409 | -55.17796 | 2026-05-01 05:23:00 | NPP-375D | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 6851e5ee-84bf-3f9d-af17-44fe39c80a02 | -14.33092 | -57.73583 | 2026-05-01 05:23:00 | NPP-375D | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e7c41687-b002-3d03-a751-1db4deacdd38 | -14.20664 | -57.43101 | 2026-05-01 05:23:00 | NPP-375D | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 1939c19d-9b75-3a6a-83db-5ea0fc03997a | -18.51241 | -55.51232 | 2026-05-01 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
-| 2df07d0a-adfe-3d1e-a167-9be0171bb1c9 | -17.01821 | -54.34662 | 2026-05-01 05:23:00 | NPP-375D | PEDRA PRETA | MATO GROSSO | Brasil | 5106372 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 13f9d324-7b12-3991-826e-91932bed6e83 | -14.2032 | -57.4305 | 2026-05-01 05:23:00 | NPP-375D | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| f8256c39-cbb5-31fa-a001-0ddf0c9b084f | -20.20649 | -46.46224 | 2026-05-01 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 5dcd675b-8bff-3e2d-af8c-f293be680734 | -18.51568 | -55.51817 | 2026-05-01 05:23:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
-| fcbd8a1e-d3b6-307d-8e0a-5da955810711 | -19.15542 | -57.55566 | 2026-05-01 05:23:00 | NPP-375D | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
-| 2d0e5777-a1c7-3973-b72a-febff0f3b108 | -20.21412 | -46.45627 | 2026-05-01 05:23:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 94988a6c-bc8b-33e5-be41-5664759bfd17 | -12.98756 | -54.68001 | 2026-05-01 05:40:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| c93dad2d-bf4b-3264-b229-8be6b4028722 | -14.2032 | -57.42919 | 2026-05-01 05:40:00 | NOAA-20 | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8c6d45f2-8358-395b-bb9e-92646649cb68 | -12.37767 | -54.74839 | 2026-05-01 05:40:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 1c0f55e5-65c2-3549-81af-047fd3294aba | -12.99276 | -54.6813 | 2026-05-01 05:40:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 596a4d0d-e13b-3298-b66e-887f913fc08e | -12.29138 | -57.38461 | 2026-05-01 05:40:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b09a0706-c156-3c04-9931-cf834521c723 | -12.98697 | -54.68061 | 2026-05-01 05:40:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 0d589028-6177-3fde-967d-2d3b09acba68 | -12.29068 | -57.38991 | 2026-05-01 05:40:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 6ab9d6d9-a3cd-370d-82a2-3cfad5db2a37 | -12.99335 | -54.68071 | 2026-05-01 05:40:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| 64544bce-2075-3570-b19a-3098cd6bd293 | -12.98708 | -54.68419 | 2026-05-01 05:40:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 6004a8ba-c794-3fc2-a123-e18180301041 | -12.37147 | -54.75165 | 2026-05-01 05:40:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| cdf49437-1f37-3763-b056-44c664dbd201 | -12.37718 | -54.75245 | 2026-05-01 05:40:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 28c4b416-c830-320a-b06d-05efe8550d7d | -13.3763 | -54.26801 | 2026-05-01 05:40:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
-| 96c38198-f809-3001-830b-a06d48221d02 | -12.37196 | -54.74757 | 2026-05-01 05:40:00 | NOAA-20 | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 5f5bda41-da6c-3347-a162-337ff99b6438 | -18.51005 | -55.51189 | 2026-05-01 05:42:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| 950cb56c-96c1-324d-82b0-3d6f183c0a2e | -19.15424 | -57.55759 | 2026-05-01 05:42:00 | NOAA-20 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| be038b42-74e6-381a-adc1-2ef1ca9cae24 | -18.51051 | -55.50751 | 2026-05-01 05:42:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.3 |
-| b0d91da6-469a-3fea-a22a-eb7f6c13a7da | -19.15459 | -57.55425 | 2026-05-01 05:42:00 | NOAA-20 | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
-| a1d9ba99-8d43-372b-8d61-c4a28ae6854e | -18.50879 | -55.50969 | 2026-05-01 05:42:00 | NOAA-20 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
-| cdc6aefc-a523-35bc-bb1c-d50f1f75e55e | -10.9624 | -45.09 | 2026-05-01 06:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 95.3 |
-| 7357a265-726c-3021-b9b2-45395aaa4ed0 | -10.962 | -45.113 | 2026-05-01 06:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 48.9 |
-| 8e92b69a-c20b-3812-8a20-9064fd218a73 | -10.9811 | -45.1104 | 2026-05-01 06:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| b83d141f-1904-329c-9a0b-eb63e3c74052 | -10.9819 | -45.0643 | 2026-05-01 06:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 94.8 |
-| 1cc8f12a-fca5-3855-b829-ffd9f539fdfb | -11.0006 | -45.0847 | 2026-05-01 06:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 82.3 |
-| 7919f8fb-30e9-381f-b27e-c51ffc0e8c41 | -10.9815 | -45.0874 | 2026-05-01 06:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 277.0 |
-| 2c36b635-3189-31e9-9daa-9cd8c1c23466 | -10.9624 | -45.09 | 2026-05-01 06:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.7 |
-| 3889c0fb-e366-321f-9005-65f30a8bd4f1 | -10.9811 | -45.1104 | 2026-05-01 06:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 70.7 |
-| e61a42cd-c801-38df-bac9-e3d66a2f41ab | -11.0006 | -45.0847 | 2026-05-01 06:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 71.6 |
-| cd1791af-4a48-325c-8153-4f6a9c46fd5e | -10.9815 | -45.0874 | 2026-05-01 06:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 281.6 |
-| 677ab506-28e3-3eb4-bff5-f0fa8f36b80d | -10.9819 | -45.0643 | 2026-05-01 06:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 131.1 |
-| a57d8d09-c387-3cd9-8ab5-2f02f67eac14 | -10.98099 | -45.08433 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 242.8 |
-| 625e84ff-3680-3841-ba13-0e04e339f7d2 | -10.99255 | -45.07416 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 25.8 |
-| 17e7757c-1e7a-3ccf-bc3f-6e62f1e6c19c | -10.55438 | -44.33342 | 2026-05-01 06:29:00 | AQUA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| e321b90b-fb3a-3a26-9f75-cee98d1ee40d | -10.99091 | -45.0858 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 54.7 |
-| 918de8ee-d43e-35ea-aac0-351c9fe4b19c | -10.97937 | -45.09589 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 35.0 |
-| 384408c2-e3aa-3f53-8c86-74db3a51f48a | -10.96786 | -45.10585 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 36.4 |
-| 02004965-a10b-3894-9543-2431a7a2ff02 | -10.96946 | -45.09439 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 145.0 |
-| 8efd0ad3-29c6-38fc-b533-858967450661 | -10.98262 | -45.07266 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 74.3 |
-| 792a1961-0604-3206-a877-9cc5f4314a08 | -10.97269 | -45.07123 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 22.1 |
-| ab1f7845-b73e-3229-a79f-22064b2b018e | -10.97107 | -45.08284 | 2026-05-01 06:29:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 117.4 |
-| 605a494d-ff19-3caa-a404-86dd30c10527 | -10.9819 | -45.0643 | 2026-05-01 06:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| bb508e96-c526-3189-adf9-fd819f413be9 | -11.0006 | -45.0847 | 2026-05-01 06:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 82.2 |
-| 4a2db2c7-c08f-3bb2-9682-755f81178db7 | -10.9624 | -45.09 | 2026-05-01 06:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 107.7 |
-| 8e8f00d3-98ff-3693-8a07-3ab6d8c69ca7 | -10.962 | -45.113 | 2026-05-01 06:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 45.1 |
-| 64c26d00-6390-3162-af7c-b1efa354eadf | -10.9811 | -45.1104 | 2026-05-01 06:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 55.1 |
-| aac47474-f53d-3faa-81f6-57860170cbc8 | -10.9815 | -45.0874 | 2026-05-01 06:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 285.3 |
-| 8121a745-1130-3c0e-ae8f-fbdc76b42f91 | -10.9815 | -45.0874 | 2026-05-01 06:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 266.0 |
-| 48a47ea3-602a-378f-8a52-adef2e02d7c6 | -10.9811 | -45.1104 | 2026-05-01 06:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 62.8 |
-| 9c87593c-7204-3496-8c8c-27e909be59fb | -10.9819 | -45.0643 | 2026-05-01 06:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 90.3 |
-| fe06655b-5855-35eb-860a-3abb10610b6f | -11.0006 | -45.0847 | 2026-05-01 06:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 90.3 |
-| 9d8eb0b1-556a-3f34-bfc9-ce2b2031ab3d | -10.962 | -45.113 | 2026-05-01 06:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 41.3 |
-| 6a62c853-1ec5-3c17-bc70-931d34c06d5a | -10.9624 | -45.09 | 2026-05-01 06:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 116.5 |
-| bb263023-3bd8-3042-988a-f44a6537da6f | -10.9815 | -45.0874 | 2026-05-01 06:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 241.7 |
-| a1c3e9f5-2afe-34f1-bf94-8b51196496d0 | -10.9624 | -45.09 | 2026-05-01 06:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 102.4 |
+| e9f2a955-b77f-3faa-8048-adfc9c56361e | -13.99455 | -56.63319 | 2026-05-02 05:01:00 | NPP-375D | DIAMANTINO | MATO GROSSO | Brasil | 5103502 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| fab1a02a-1843-38c4-a699-429c0046b683 | -11.43295 | -55.09879 | 2026-05-02 05:01:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 732a4ce8-1603-32d4-90a6-18410b2bde35 | -13.81393 | -43.65275 | 2026-05-02 05:01:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| e286e973-da26-353d-921f-712f5a0062b2 | -14.20459 | -57.42729 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 631c099b-bc81-3b15-b15f-cfc98db11546 | -13.99801 | -56.6338 | 2026-05-02 05:01:00 | NPP-375D | DIAMANTINO | MATO GROSSO | Brasil | 5103502 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 14235c97-eb8d-3621-bacf-f49d0808fcb4 | -12.29186 | -57.40048 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 4ea64e69-3664-3d66-82fa-df507efae463 | -12.30201 | -57.40673 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 90e24b9b-d2f2-3121-a30c-7a91d4ebc30d | -16.1571 | -58.49107 | 2026-05-02 05:01:00 | NPP-375D | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| ea04c28a-3dba-3d43-8d44-0f1c28232292 | -13.99391 | -56.63707 | 2026-05-02 05:01:00 | NPP-375D | DIAMANTINO | MATO GROSSO | Brasil | 5103502 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 4f4ba3d7-3582-35ec-bfe9-1c349eed5ee6 | -10.97266 | -45.09304 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| dd2663e8-4211-30b5-8344-8505c26337e6 | -11.44246 | -55.10409 | 2026-05-02 05:01:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| f7d310b4-1e99-37ab-8fc1-3b8c4c528c2a | -12.29549 | -57.40112 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 0a9f9127-12cb-36d7-be15-7d9e00d33d83 | -12.37825 | -50.04137 | 2026-05-02 05:01:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 14.7 |
+| 97ef630c-180c-329d-a484-8c7ef7eb9c05 | -10.97224 | -45.09618 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| bb04c722-8d79-3e1d-8cde-a7823945b512 | -12.3917 | -50.02888 | 2026-05-02 05:01:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| efd98b58-5ca1-3246-9bb6-f35eace7ec9e | -10.98573 | -45.08238 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 5097ff46-803d-3743-b34d-1d4df6fea351 | -12.28616 | -57.39256 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 42b6a39e-7b27-33f1-8aac-0c7c80e12036 | -10.99028 | -45.07967 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 415737ca-ecf7-3a90-bc0b-9fbe6dacf142 | -10.97908 | -45.08444 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 35644115-e66b-3f00-bfd0-c98776813ae8 | -13.81441 | -43.6484 | 2026-05-02 05:01:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2dfab204-1440-3d0e-9ebd-02e4780c54ae | -12.37578 | -50.03133 | 2026-05-02 05:01:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 897b28ac-284d-3de2-8c61-e404b06605b7 | -12.29623 | -57.39681 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| aee8f498-fed0-34b2-a38e-61d3c1832a40 | -11.44187 | -55.10771 | 2026-05-02 05:01:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.5 |
+| 94798de7-d719-3297-bb08-191b431a3bda | -12.37758 | -50.0461 | 2026-05-02 05:01:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| 0cf93a87-0c6e-34d1-ad91-c76741f5097a | -12.37063 | -50.04023 | 2026-05-02 05:01:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 34.7 |
+| a8cc75fa-d2ee-3272-a344-510e310cf740 | -10.97992 | -45.07808 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| d0a745d7-323c-37a0-a3ee-27436631a648 | -10.98553 | -45.07563 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 35e30bfa-4be6-3e32-8e43-18e85d4dd095 | -10.983 | -45.0947 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| d0bb9186-9df8-3195-be69-8e3fedebe86f | -12.2926 | -57.39616 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 40338f6a-abbb-3b75-9153-f0daf1eee10f | -13.37276 | -54.27039 | 2026-05-02 05:01:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 76386ab7-bd8f-32a7-9d04-0568a98b3a48 | -11.55399 | -48.26791 | 2026-05-02 05:01:00 | NPP-375D | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| a1bde8a6-efdd-3a01-a38a-9ba1e989965c | -14.20814 | -57.42797 | 2026-05-02 05:01:00 | NPP-375D | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| fbd0bc73-6a9a-322d-ae6d-76bf0043e6d8 | -11.44582 | -55.10465 | 2026-05-02 05:01:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| 1429d56d-294c-318e-97a3-c732060778e8 | -11.44465 | -55.11188 | 2026-05-02 05:01:00 | NPP-375D | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 99d125d6-d434-3276-aad0-313cbec995c4 | -13.80801 | -43.65202 | 2026-05-02 05:01:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 8d82af9f-8acc-3fa4-afc5-9488c24ee37f | -10.98943 | -45.08605 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| f272a010-1854-3c4c-9b80-73ecf93138cc | -10.99091 | -45.0832 | 2026-05-02 05:01:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 2f0f0d13-e6ad-3a3b-a01e-59082e038dce | -20.19863 | -46.44598 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| bcb84b8f-888a-357d-9c26-b883ea54fd76 | -18.3127 | -54.65442 | 2026-05-02 05:04:00 | NPP-375D | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| e4b6bd1d-f105-3dc3-98ca-c0db172853b2 | -20.66794 | -49.69035 | 2026-05-02 05:04:00 | NPP-375D | MONTE APRAZÍVEL | SÃO PAULO | Brasil | 3531407 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 7bc72f2c-519d-31e9-95ed-de9dafbdd41a | -20.28231 | -46.44491 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 50bf345f-93ee-3b30-8956-0758898f905a | -17.93537 | -52.89525 | 2026-05-02 05:04:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 355cae30-6015-36c7-85d3-ff2f0d50609d | -20.28191 | -46.44896 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 44a4b7fc-58a2-3daa-bd4c-a057fe9845db | -17.91311 | -52.89998 | 2026-05-02 05:04:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| afc91a75-5657-307d-b65c-0505b1b760d0 | -20.28268 | -46.4412 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 65a3167c-1021-3f02-b2fa-82d5dca6a980 | -18.32529 | -54.52743 | 2026-05-02 05:04:00 | NPP-375D | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 8fcd77c7-c6ae-31ab-b712-b679448b6529 | -20.2803 | -46.44309 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 811c7f59-fc53-34e1-8ea0-63cdfc14441e | -20.19825 | -46.44968 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| d037c5ca-d983-3ee3-bcf6-02617657d1e3 | -18.49431 | -51.6918 | 2026-05-02 05:04:00 | NPP-375D | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 35ce9093-cea9-3223-9cb1-22c0d63c0c93 | -20.71497 | -55.17793 | 2026-05-02 05:04:00 | NPP-375D | SIDROLÂNDIA | MATO GROSSO DO SUL | Brasil | 5007901 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 29839086-d3d1-3f5a-97a2-c69c9bb878d0 | -18.17045 | -51.11279 | 2026-05-02 05:04:00 | NPP-375D | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 779e75b5-1cd6-373f-b502-5800713b6ee5 | -21.2345 | -56.92952 | 2026-05-02 05:04:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 4085909d-8845-3e80-b967-20abd0f37c78 | -18.49057 | -51.69115 | 2026-05-02 05:04:00 | NPP-375D | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 622be942-e776-3bbe-b286-b8abefeac385 | -17.93186 | -52.89465 | 2026-05-02 05:04:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 387751cf-7dd6-3a6c-b9ea-303adb31e8ab | -21.95728 | -57.59752 | 2026-05-02 05:04:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| f7e9c6ef-f06e-35ac-85eb-ec8855fe3af3 | -21.66798 | -56.31391 | 2026-05-02 05:04:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 3cd8da65-dbad-30cf-a45b-672b0e482a39 | -18.49805 | -51.69243 | 2026-05-02 05:04:00 | NPP-375D | ITARUMÃ | GOIÁS | Brasil | 5211305 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 3fe5a549-f660-34cd-8692-7dc8cb0e6f96 | -21.66739 | -56.31763 | 2026-05-02 05:04:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 17b7e546-94c4-3e51-b95e-3368ac2c73f2 | -21.95792 | -57.5937 | 2026-05-02 05:04:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 8c0fb278-ae4c-36e2-80e2-e062aa60e2a2 | -17.92014 | -52.90107 | 2026-05-02 05:04:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| b9cffb2b-79f4-3422-96b4-93b130f27937 | -20.2799 | -46.44681 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 84d3f5e5-4d3b-3442-8fc5-cba67c780b37 | -18.48272 | -48.40324 | 2026-05-02 05:04:00 | NPP-375D | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 6547bb25-f827-388a-8bbd-718b1acd68e4 | -17.93597 | -52.89115 | 2026-05-02 05:04:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| a5bcb189-d966-30ee-9c55-ad874766a840 | -20.19787 | -46.45334 | 2026-05-02 05:04:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 7061733b-61a3-3f1a-9aaa-aaaa4d428441 | -19.15592 | -57.55517 | 2026-05-02 05:04:00 | NPP-375D | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 211b9578-ab34-36d4-935d-60721ad46c77 | -10.9815 | -45.0874 | 2026-05-02 05:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 74.9 |
+| 2df675bc-46fb-3b3e-9e09-9a69d7fbb274 | -12.3887 | -50.0435 | 2026-05-02 05:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| 18db4ea8-7c66-30e1-b94f-351ff672a291 | -12.3696 | -50.0459 | 2026-05-02 05:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 104.1 |
+| 4e4be519-0477-383a-9bae-062f5fbfbec3 | -10.9815 | -45.0874 | 2026-05-02 05:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 77.7 |
+| a0a9d15f-3a91-3c73-a318-eb090c9d0a61 | -12.3887 | -50.0435 | 2026-05-02 05:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 65.6 |
+| 48dd0135-fba8-3059-9f6f-a7fe110aa0dc | -12.3696 | -50.0459 | 2026-05-02 05:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 94.8 |
+| 4bd897d3-13ae-38d5-9a0f-befb5db21188 | -11.44081 | -55.10921 | 2026-05-02 05:21:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 0ba8e709-2d07-3ee3-9ad6-db47530c4c9e | -12.28753 | -57.39095 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2ac512c3-73d2-3659-a285-dfd8b69a6762 | -12.28807 | -57.39194 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| bc0b217f-02e1-3539-95c6-b56f11afd6c5 | -12.37707 | -50.04617 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 519a4f65-72cd-34f2-ae2e-eb25c815ec84 | -12.28451 | -57.39139 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 8010b0e9-1688-3e86-bd31-8f028608d9d4 | -12.28629 | -57.54851 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 0a680312-0911-3e77-b79f-f575310fd241 | -12.29108 | -57.3915 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 7a9ed08c-6a11-3264-8ba6-1580029a6002 | -12.29345 | -57.4002 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 7d1a8ad2-78ba-3827-8106-053d9117a253 | -11.44481 | -55.10981 | 2026-05-02 05:21:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| e7b45c63-89a7-3afb-b4fa-2ec75a745ea5 | -11.44881 | -55.1104 | 2026-05-02 05:21:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| a407cf02-a16f-3436-a479-84d2a8b9b056 | -12.29997 | -57.40535 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 56448b82-14cf-3527-967b-238bf024ca5d | -12.37283 | -50.03352 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 8e988e22-6252-31aa-9802-cc44f03fd84f | -12.37186 | -50.04147 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 26.5 |
+| 21684eb8-4eba-38ed-96dd-bee385167832 | -12.29701 | -57.40075 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 6edc9a46-3b8d-3488-92eb-d7e029d45173 | -8.63735 | -63.99303 | 2026-05-02 05:21:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 22efb352-f7c1-30aa-886b-fdb5dded3c60 | -12.37234 | -50.03749 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 26.5 |
+| 4d70c4de-b811-387c-904a-326f90dcd9db | -11.55147 | -48.26589 | 2026-05-02 05:21:00 | NOAA-20 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 2aa10d13-bfc9-395f-9a16-0dbfdea47cd3 | -12.29642 | -57.40481 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 5135b3f5-04f7-379f-be70-877665def178 | -9.53024 | -63.38247 | 2026-05-02 05:21:00 | NOAA-20 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 720a093d-5497-3828-ab31-100d0ea6ca90 | -12.37853 | -50.03426 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 468a89c6-a742-38b4-9ffd-974b0725e175 | -11.43379 | -55.10095 | 2026-05-02 05:21:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 474d797c-8d85-30dc-9aa8-7a2b1632806a | -12.37804 | -50.03825 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 26.5 |
+| 5e3daec8-bdbf-3492-b57f-b6990f9247b2 | -11.4493 | -55.10688 | 2026-05-02 05:21:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 661e5b72-8db8-3945-b4dc-ecaefee2e435 | -12.37138 | -50.04544 | 2026-05-02 05:21:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 1d856ad6-5a04-3e55-869b-ec0c641a1739 | -11.43779 | -55.10155 | 2026-05-02 05:21:00 | NOAA-20 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 992317e2-2976-3202-9f29-a65d7f9b1f97 | -7.86565 | -61.49533 | 2026-05-02 05:21:00 | NOAA-20 | MANICORÉ | AMAZONAS | Brasil | 1302702 | 13 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| a9cb084a-b13e-338d-82b7-6142a26d72aa | -12.28745 | -57.39603 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| afbf30b7-af90-3121-9927-9e8e56519bb6 | -12.29049 | -57.3956 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 027c783d-a771-343c-9026-54946c8da7f4 | -12.29404 | -57.39614 | 2026-05-02 05:21:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)

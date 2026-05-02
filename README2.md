@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| e398005c-1fb3-3b6f-a1e5-e5c52fae58c0 | -12.3779 | -54.7472 | 2026-05-01 01:00:00 | METOP-C | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 72f6c33f-a25c-30a9-8839-fd16a6bf542a | -10.9978 | -45.069302 | 2026-05-01 01:00:00 | METOP-C | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 68282d15-d776-33b5-b83d-380721f7fd33 | -20.0599 | -50.458 | 2026-05-01 01:00:00 | METOP-C | TURMALINA | SÃO PAULO | Brasil | 3555307 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| 41837000-c349-3ca5-9d0e-6a1bb0a9df5e | -12.3876 | -50.035301 | 2026-05-01 01:00:00 | METOP-C | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c609aa64-e30c-37d3-a209-f25873760763 | -11.4381 | -55.101002 | 2026-05-01 01:00:00 | METOP-C | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1d2fe3e0-5999-3a9d-9abc-d3b4fa126ce3 | -12.376 | -50.029999 | 2026-05-01 01:00:00 | METOP-C | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9d7af14d-99b6-3951-8df9-7c0c16be8555 | -10.9811 | -45.1104 | 2026-05-01 01:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 36.1 |
-| d903b772-b9e4-315b-9363-08ebe4838eff | -11.0006 | -45.0847 | 2026-05-01 01:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 48.1 |
-| 4839df72-3dc9-348c-a0ac-873e5a884e54 | -10.9624 | -45.09 | 2026-05-01 01:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 67.7 |
-| 337ab928-3584-35c7-be0d-15fcb49284c2 | -10.9815 | -45.0874 | 2026-05-01 01:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 141.2 |
-| b402a1d8-9d28-3e34-b843-7403f696fb3e | -10.9819 | -45.0643 | 2026-05-01 01:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 67.3 |
-| 9c43fcf7-22bf-3e83-bf48-16c6bc6072e4 | -11.001 | -45.0617 | 2026-05-01 01:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 46.2 |
-| bf70897d-a89f-3fa9-b1aa-c724507cc087 | -10.9624 | -45.09 | 2026-05-01 01:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 54.7 |
-| db08a556-eb5c-3dff-aa71-ae1697f811c0 | -10.9819 | -45.0643 | 2026-05-01 01:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 116.5 |
-| 60cba330-5797-3222-8e36-16ab957ef6b1 | -10.9815 | -45.0874 | 2026-05-01 01:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 207.5 |
-| bda5bf80-7564-3fb5-9477-9367ac718791 | -11.0006 | -45.0847 | 2026-05-01 01:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 70.3 |
-| df6aeb1e-b9ba-3445-92e6-acd3ca2b3b23 | -10.9624 | -45.09 | 2026-05-01 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 113.2 |
-| 29ea1125-33c2-359a-8cb3-9112772394e0 | -10.9819 | -45.0643 | 2026-05-01 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 136.7 |
-| 6a1dbd23-c8ec-3859-a1c8-3bdf11677a2e | -10.9811 | -45.1104 | 2026-05-01 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 95.1 |
-| 18792f43-4c99-3102-b326-022a1ead271c | -11.0006 | -45.0847 | 2026-05-01 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| aa0d7a20-9b9b-34c5-a15e-cede1173778d | -11.001 | -45.0617 | 2026-05-01 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 60.0 |
-| d7121c1e-ad70-39cc-a99e-6c0ba27b8a28 | -10.9815 | -45.0874 | 2026-05-01 01:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 326.9 |
-| 091da5dd-308a-3acc-b075-ef9e413ebc6a | -10.9624 | -45.09 | 2026-05-01 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 112.2 |
-| 1fa1a72a-cbce-36f2-bbe7-dd878005d4f5 | -10.9811 | -45.1104 | 2026-05-01 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 93.5 |
-| 906cf754-ba64-37ac-bd5e-8cadd790fe6d | -10.9815 | -45.0874 | 2026-05-01 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 373.1 |
-| 15b55a32-1501-327b-93ce-8a6560239510 | -11.0006 | -45.0847 | 2026-05-01 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 94.1 |
-| 19c8b728-3903-3bf9-a929-ad3cfb65ebdb | -10.9819 | -45.0643 | 2026-05-01 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 146.5 |
-| 1166d32f-d94e-31bb-9afd-580a000682a9 | -10.962 | -45.113 | 2026-05-01 01:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 52.7 |
-| 0baa7299-23da-3250-9d10-e50a21402259 | -10.9624 | -45.09 | 2026-05-01 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 123.4 |
-| c49ac503-28d3-3e48-957b-9385f35728ce | -11.001 | -45.0617 | 2026-05-01 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| d6bed4cd-52e7-393f-8acd-813caffc817b | -11.0006 | -45.0847 | 2026-05-01 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 112.6 |
-| 9c8ef3f8-0bf9-38ad-872d-89f67e4d85a7 | -10.9811 | -45.1104 | 2026-05-01 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 95.0 |
-| 06a33b0c-a92e-37a6-8741-44f89bc3f85f | -10.9819 | -45.0643 | 2026-05-01 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 157.0 |
-| 4cd8a33d-080d-35ce-951b-8943a1c38cf5 | -10.9815 | -45.0874 | 2026-05-01 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 359.8 |
-| 1d302fbe-d92a-313d-b207-63da461a6036 | -10.9819 | -45.0643 | 2026-05-01 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 155.4 |
-| e8295767-3a17-3867-8155-2ae35af31263 | -10.9811 | -45.1104 | 2026-05-01 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 102.2 |
-| 51b6c4bc-c604-3480-a8d5-2af14e97581b | -11.001 | -45.0617 | 2026-05-01 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 52.4 |
-| 55b0a0d0-3c3f-3d45-a327-72ec0cb4097a | -10.9624 | -45.09 | 2026-05-01 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 125.1 |
-| 433c6293-fd3a-3978-87b4-d9a2c0deb6f0 | -10.9815 | -45.0874 | 2026-05-01 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 383.7 |
-| 3e7b3356-df67-3063-ba15-1c1f6941b7a7 | -11.0006 | -45.0847 | 2026-05-01 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 97.1 |
-| efeeba40-f555-3e5e-b93a-755b6ae12c32 | -10.9819 | -45.0643 | 2026-05-01 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 154.7 |
-| 0d006712-462f-3938-b6e5-4e82c8988414 | -10.9624 | -45.09 | 2026-05-01 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 136.7 |
-| b5148fa5-0340-3eeb-a3a5-5bbe08e91c9b | -10.9815 | -45.0874 | 2026-05-01 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 394.3 |
-| d555430b-63d2-3e3e-9336-83d3c72e7548 | -10.9811 | -45.1104 | 2026-05-01 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 97.2 |
-| 0089d9cb-c444-351e-824f-97bfb7a76948 | -11.001 | -45.0617 | 2026-05-01 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 51.3 |
-| 4eb71ba6-3c81-3410-919b-08dce2079a42 | -11.0006 | -45.0847 | 2026-05-01 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| 20aeb3da-7350-3ac1-a72f-e4208d9f08d7 | -19.09497 | -40.66823 | 2026-05-01 03:08:00 | NOAA-21 | ÁGUIA BRANCA | ESPÍRITO SANTO | Brasil | 3200136 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 232d478c-0045-3669-88d4-b16859a0c237 | -18.89708 | -39.9254 | 2026-05-01 03:08:00 | NOAA-21 | SÃO MATEUS | ESPÍRITO SANTO | Brasil | 3204906 | 32 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
-| 95f5e450-aa1e-352a-9bb4-e64862c2fa5b | -19.09619 | -40.66637 | 2026-05-01 03:08:00 | NOAA-21 | ÁGUIA BRANCA | ESPÍRITO SANTO | Brasil | 3200136 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| 931618fc-7e22-3400-be98-572ce9bc67cb | -18.89121 | -39.92399 | 2026-05-01 03:08:00 | NOAA-21 | SÃO MATEUS | ESPÍRITO SANTO | Brasil | 3204906 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
-| c50608d8-5d56-32e4-95e8-fdda0db1ed83 | -19.09514 | -40.67101 | 2026-05-01 03:08:00 | NOAA-21 | ÁGUIA BRANCA | ESPÍRITO SANTO | Brasil | 3200136 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
-| 06059551-a507-3e8b-9a86-d0ad10c0dde1 | -10.5457 | -37.20533 | 2026-05-01 03:38:00 | NPP-375D | NOSSA SENHORA DAS DORES | SERGIPE | Brasil | 2804607 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
-| f1280a74-820d-3083-b098-d0a17638dc3b | -8.22982 | -43.88361 | 2026-05-01 03:38:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| f2f554a3-ba7a-3b4c-960e-6838717681b1 | -8.22895 | -43.88829 | 2026-05-01 03:38:00 | NPP-375D | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 80708657-7e72-3f74-b18f-d8ea2c994391 | -10.9815 | -45.0874 | 2026-05-01 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 361.5 |
-| 1955d05c-58ba-33d5-bac2-7293e9dcf03e | -10.9819 | -45.0643 | 2026-05-01 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 152.0 |
-| ca9c92be-b745-3fb6-88bb-3227edc34c5b | -10.962 | -45.113 | 2026-05-01 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 59.5 |
-| 585fcecc-e9a3-352e-906b-a59a0861d240 | -10.9624 | -45.09 | 2026-05-01 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 124.8 |
-| a2888cf3-486c-3264-a1af-978efbc41edd | -10.9811 | -45.1104 | 2026-05-01 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 88.1 |
-| 3c7065b5-bc4b-344c-9d86-6cd9c6ad2d67 | -11.0006 | -45.0847 | 2026-05-01 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 80.0 |
-| b71eda02-6631-3650-8612-f822909e7419 | -11.95174 | -43.38751 | 2026-05-01 03:40:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a7d8be86-a19b-32c3-bcf3-3121f875d910 | -10.74712 | -44.3102 | 2026-05-01 03:40:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| a0b35afc-628d-3e23-a59d-f6084052194a | -10.98381 | -45.08779 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 35.0 |
-| 0f13f32c-6003-3e23-8581-8418b3cd470c | -10.9722 | -45.0806 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| 11db0652-aaeb-372c-97c7-1a1f2a89860b | -10.9671 | -45.10613 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 37.4 |
-| dd055e4e-91c0-34d5-a9b2-04ba2be1d909 | -10.97119 | -45.08566 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| 9a871f4f-2773-3466-8bcb-8a587da37b29 | -10.98909 | -45.09404 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 35.0 |
-| 186340f6-1a18-3da0-82d7-2d2b15faec67 | -10.98179 | -45.09796 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| a6df5a2b-c0e9-3905-bb90-c15dfcfd97eb | -10.97949 | -45.07674 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| 985f64fd-83fa-3b88-8935-bcfa214af5af | -13.36595 | -39.91312 | 2026-05-01 03:40:00 | NPP-375D | ITAQUARA | BAHIA | Brasil | 2916708 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
-| 8e3f7e4f-a840-39fd-8f8c-c6f35b787290 | -13.36679 | -39.90855 | 2026-05-01 03:40:00 | NPP-375D | ITAQUARA | BAHIA | Brasil | 2916708 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.3 |
-| 1f9f1748-0152-3f2e-9671-8ea8706914ac | -11.94768 | -43.37875 | 2026-05-01 03:40:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| fcc8b141-2d7e-3db8-8b49-a6ac27c42fb6 | -10.96388 | -45.08961 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 95fe397f-9c91-3e56-b34c-15492ff9d9d3 | -10.54605 | -44.33522 | 2026-05-01 03:40:00 | NPP-375D | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 0b0d3b92-06bd-3ef7-9e12-345a1f08a256 | -10.9901 | -45.08895 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 35.0 |
-| b4f47fa3-c658-368e-b12e-a7edea16284e | -12.28154 | -44.62825 | 2026-05-01 03:40:00 | NPP-375D | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 5102e01c-f3b5-312d-9ef4-3b8eccdfb13c | -10.97851 | -45.0817 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| 8b41e325-676b-351f-9339-cb79b2dd4958 | -16.78011 | -45.8092 | 2026-05-01 03:40:00 | NPP-375D | SANTA FÉ DE MINAS | MINAS GERAIS | Brasil | 3157609 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| b9961d26-f2b0-3f17-80b3-23539b8ed731 | -10.9848 | -45.08284 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 38.0 |
-| 3227dd74-1fbe-3cfa-8b58-8aa9724e25b7 | -10.97019 | -45.09069 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| d8c536f9-2208-3503-b461-57ecb3b6b8ee | -10.96814 | -45.10092 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 43.6 |
-| 204f2083-57e3-39fc-9c12-d521142c94ee | -10.55206 | -44.33653 | 2026-05-01 03:40:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| b0f7fddc-1e28-3b56-91e9-0436f9a92cb8 | -10.97751 | -45.08669 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| addce195-1b7e-3f43-88a1-fc6503ec6a0c | -12.28273 | -44.6305 | 2026-05-01 03:40:00 | NPP-375D | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 2ca912e7-e5ad-3aed-a997-c82b60158cc3 | -10.96918 | -45.09573 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 43.6 |
-| 2a507a9b-3c7b-3635-bc24-b83a0eede7ac | -10.99109 | -45.08398 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 38.0 |
-| 3b440d82-de56-3fde-aec1-9f497eabac7b | -10.55116 | -44.34108 | 2026-05-01 03:40:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 621663a7-411e-3661-a76c-c7a3b6a96ae0 | -11.95247 | -43.38375 | 2026-05-01 03:40:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 78144777-2258-3848-bce2-a4653ea05fa7 | -10.98281 | -45.09283 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 35.0 |
-| b85f45af-4cd4-3cb9-8998-28d135c2bf0b | -10.97549 | -45.09681 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 43.6 |
-| a605a1a5-075d-3921-b31e-9a4c6846c7e2 | -10.74531 | -44.31224 | 2026-05-01 03:40:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 982934cb-95a2-3d15-acc3-a23cde521ef5 | -12.28365 | -44.62607 | 2026-05-01 03:40:00 | NPP-375D | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 44c2cc21-c8e4-3682-b61c-adffce27c16e | -10.97445 | -45.10201 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 43.6 |
-| e58410b6-b328-37bc-ad46-d1c8f6ae4bb8 | -10.9734 | -45.10727 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 37.4 |
-| 06ae3c3f-0f5f-3877-a0a8-61c41a55d35f | -10.97651 | -45.09172 | 2026-05-01 03:40:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 39.6 |
-| 0575cbff-2f0f-367a-addc-37a978cfb3ab | -10.55807 | -44.33785 | 2026-05-01 03:40:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| d6cb94a6-068d-35a8-9fc5-9ce49b57e11c | -20.21235 | -46.45746 | 2026-05-01 03:42:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 5a5f37e5-8a17-381a-870f-9d68a6a3ddfa | -20.21282 | -46.45492 | 2026-05-01 03:42:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| c10d4f28-0081-372f-9dd4-02e3fd896307 | -20.20514 | -46.46231 | 2026-05-01 03:42:00 | NPP-375D | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| c2fc60a5-5987-358f-8c54-5f25e29dc014 | -21.94971 | -48.04397 | 2026-05-01 03:42:00 | NPP-375D | IBATÉ | SÃO PAULO | Brasil | 3519303 | 35 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 744a4a69-0d07-35e4-a56c-8f6937f04db9 | -10.9624 | -45.09 | 2026-05-02 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| 07daec2d-0c96-338d-bb1e-192b63d604e4 | -12.3696 | -50.0459 | 2026-05-02 02:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 143.4 |
+| b999950a-01a2-3c4e-9426-3057190e0ade | -12.3887 | -50.0435 | 2026-05-02 02:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| cee2f18f-8c42-3ce8-ae71-eb932db036ad | -12.37 | -50.0242 | 2026-05-02 02:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 99.0 |
+| f77c693a-821b-3f5d-9803-2d0466a0c163 | -10.9819 | -45.0643 | 2026-05-02 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 73.2 |
+| 050d95cb-e49d-3259-a961-6af80662b4db | -10.9815 | -45.0874 | 2026-05-02 02:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 124.4 |
+| 24870fe3-10ce-3946-aa13-61633a10e754 | -12.3891 | -50.0218 | 2026-05-02 02:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| f0360383-9734-3d47-bfc5-2be0cf5ba91d | -10.9815 | -45.0874 | 2026-05-02 02:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 109.2 |
+| e0c18c7c-cf8e-3502-95b0-ba45977d5ca5 | -10.9819 | -45.0643 | 2026-05-02 02:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 74.1 |
+| fcc499ab-1bb5-387f-88fa-120b9c09b5d2 | -12.37 | -50.0242 | 2026-05-02 02:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 106.5 |
+| 3864d9f8-bd95-3c5a-a0ac-7919b89b8cf5 | -12.3696 | -50.0459 | 2026-05-02 02:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 160.7 |
+| 0a3277fb-4e99-39df-8809-ec29c3ed5e27 | -10.9624 | -45.09 | 2026-05-02 02:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 68.7 |
+| c543fd97-9feb-3861-b0ee-619a9e448675 | -12.3887 | -50.0435 | 2026-05-02 02:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| b24e2059-9dd3-39b0-b164-5bb65918e37c | -12.37 | -50.0242 | 2026-05-02 02:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 91.7 |
+| 43816808-1529-3493-b646-4fe9ab798afb | -12.3887 | -50.0435 | 2026-05-02 02:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 76.2 |
+| ba4a9d29-c4da-3544-bbab-9b590120138a | -12.3696 | -50.0459 | 2026-05-02 02:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 188.0 |
+| fd553497-e4e8-3a86-bb32-9c930b4e62db | -10.9624 | -45.09 | 2026-05-02 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 67.8 |
+| 128d48bb-8ece-37a2-95fa-fca1f4d532da | -10.9815 | -45.0874 | 2026-05-02 02:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 108.4 |
+| 3fb7018c-95fe-3baf-86b3-0b18d9ae5ecc | -10.9819 | -45.0643 | 2026-05-02 02:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| eddbc9b2-dc09-32b8-8bcb-8352237a500c | -12.3887 | -50.0435 | 2026-05-02 02:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 114.2 |
+| 630dada2-1dc4-3ff5-844d-af6fb9666c86 | -12.37 | -50.0242 | 2026-05-02 02:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 77.9 |
+| 44db0ca2-0f1e-3f63-b714-3a4af801374b | -12.3891 | -50.0218 | 2026-05-02 02:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 68.5 |
+| 2773d0af-27d5-36a5-a14d-7cb7224f39eb | -12.3696 | -50.0459 | 2026-05-02 02:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 141.4 |
+| a2883c44-6c4a-3e2e-90a8-f021f582c48a | -10.9815 | -45.0874 | 2026-05-02 02:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 6a02170f-fd7b-3e8a-a335-96e634037f55 | -10.9624 | -45.09 | 2026-05-02 02:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 66.2 |
+| 98527499-b648-30c7-851b-2e3bcb5ea6a6 | -12.3891 | -50.0218 | 2026-05-02 02:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 74.3 |
+| adcc1719-1fc9-3978-992f-883d4f4054c8 | -10.9819 | -45.0643 | 2026-05-02 02:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 68.8 |
+| 82e13d28-d25c-3d9a-9fb3-c09eeb313fb2 | -12.3696 | -50.0459 | 2026-05-02 02:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 119.2 |
+| 9dd82573-7c0b-36d5-90e9-5fd9ced8e001 | -12.37 | -50.0242 | 2026-05-02 02:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 83.8 |
+| 8a08d48e-a9fc-3177-9d1c-93028671e787 | -12.3887 | -50.0435 | 2026-05-02 02:50:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 97.1 |
+| fe1e9f49-fb4d-387e-af1e-20d8ade0694d | -10.9815 | -45.0874 | 2026-05-02 02:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 108.9 |
+| ea353b14-2b31-3deb-88e2-d276e0e832d4 | -10.9624 | -45.09 | 2026-05-02 02:50:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 64.7 |
+| 743fdc3b-4723-35fe-97b0-371c2614f2b3 | -12.37 | -50.0242 | 2026-05-02 03:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 86.1 |
+| 5ae2f49e-332f-382d-9aeb-d3d8c320ef8a | -12.3887 | -50.0435 | 2026-05-02 03:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| 15943339-1186-330c-b6b2-f49745eb3420 | -10.9624 | -45.09 | 2026-05-02 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| 6bf72e92-26b8-3690-9883-8263926ed844 | -10.9819 | -45.0643 | 2026-05-02 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 66.4 |
+| d9cd5c5f-2bb6-31a8-af45-03e041363d3a | -10.9815 | -45.0874 | 2026-05-02 03:00:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 105.4 |
+| 91c2b9a7-42eb-3414-b087-c64b15941f86 | -12.3891 | -50.0218 | 2026-05-02 03:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 61.3 |
+| 69419d5d-deec-34f4-9a27-837b3118efbb | -12.3696 | -50.0459 | 2026-05-02 03:00:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 140.2 |
+| 764bce05-e062-398c-880b-c9d67054ce1d | -10.9819 | -45.0643 | 2026-05-02 03:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 60b87504-61fd-3022-9b2d-f4819d498943 | -12.3887 | -50.0435 | 2026-05-02 03:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 67.8 |
+| 7ea96b50-867e-37c4-b46c-2b1f1d3e1703 | -12.37 | -50.0242 | 2026-05-02 03:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 562fbff1-f63b-3835-afb8-fea6135c0956 | -12.3696 | -50.0459 | 2026-05-02 03:10:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 140.6 |
+| 0215ea31-3f5c-36ca-991f-03c19cad63cd | -10.9815 | -45.0874 | 2026-05-02 03:10:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 99.6 |
+| a8ab1060-38bb-3152-ab62-f5305e8da69c | -12.3891 | -50.0218 | 2026-05-02 03:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 62.1 |
+| 3459a9b2-0199-31cb-8d23-b2e29ec32091 | -12.3696 | -50.0459 | 2026-05-02 03:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 115.4 |
+| 573d33bf-5feb-33df-8fc7-733bd22da841 | -12.3887 | -50.0435 | 2026-05-02 03:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 91.5 |
+| 0350a1a7-b748-3735-a2d3-29bae1925735 | -10.9819 | -45.0643 | 2026-05-02 03:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 63.8 |
+| 554ad07b-60dc-3bbe-b6cf-2db35628a977 | -12.37 | -50.0242 | 2026-05-02 03:20:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 71.9 |
+| 84082fb4-dab0-32a6-82ad-6ac6a5f3b65a | -10.9815 | -45.0874 | 2026-05-02 03:20:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 94.2 |
+| 337ff58b-f28a-3a55-8600-cbe278f20278 | -12.3887 | -50.0435 | 2026-05-02 03:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 84.2 |
+| e10c3f0c-9259-3fee-8e9e-4cd8eebe2a56 | -12.3696 | -50.0459 | 2026-05-02 03:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 112.0 |
+| 0d82f89e-bc98-3a91-a530-5373d1a4232c | -12.3891 | -50.0218 | 2026-05-02 03:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 67.0 |
+| e05bd27c-d44d-31cf-8d5f-d682b5396c65 | -12.37 | -50.0242 | 2026-05-02 03:30:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| c5bc9173-8001-3a0e-a12f-1b5eeced2c6d | -10.9815 | -45.0874 | 2026-05-02 03:30:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 95.9 |
+| 2a17fe08-173e-32a6-86f7-b815efc7c1c8 | -10.9815 | -45.0874 | 2026-05-02 03:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 87.4 |
+| 860e5306-de2a-35b2-a9ad-63b361f7ff38 | -12.3696 | -50.0459 | 2026-05-02 03:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 118.0 |
+| aadb84fc-9c8b-32de-ba58-53e05b032a16 | -12.3891 | -50.0218 | 2026-05-02 03:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 53.2 |
+| bbbaf902-e591-3ccf-9613-5836f3c2ca8d | -12.3887 | -50.0435 | 2026-05-02 03:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 91.9 |
+| ede50665-cc52-3d47-b9a2-efd72eb4be6a | -12.37 | -50.0242 | 2026-05-02 03:40:00 | GOES-19 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| c871b682-21db-33d6-8a85-d83818108353 | -10.97448 | -45.09119 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 3ba72c5f-70b8-373c-bb3c-479c4ac051f4 | -13.78232 | -44.10404 | 2026-05-02 03:40:00 | NOAA-20 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 8e616ea2-e6de-3b21-bca1-c3cf9ef5428b | -13.78047 | -44.10217 | 2026-05-02 03:40:00 | NOAA-20 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 6c73e702-34e0-3be6-a5f0-bba16c66b270 | -13.67934 | -44.29265 | 2026-05-02 03:40:00 | NOAA-20 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| de1b1d2f-9b3d-34ef-a70f-ff3cf271c71e | -10.9881 | -45.07729 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 783fc893-15e1-3c09-8c66-446194080da2 | -13.80976 | -43.64994 | 2026-05-02 03:40:00 | NOAA-20 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 7eb9603b-1827-3704-b457-b5b4d6e419c0 | -11.04642 | -44.69857 | 2026-05-02 03:40:00 | NOAA-20 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c1082381-4cc5-3d05-b104-2a239aed1aa6 | -10.97586 | -45.07913 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| ad48520b-6e4a-35a7-a587-7a5179ebf471 | -10.98237 | -45.07622 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| cdb6e7f1-de36-3d3d-9d03-d8dd7ce9403d | -10.97509 | -45.08316 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.6 |
+| 8b3e972e-95b7-3581-bed8-63febdc7ac2e | -10.96871 | -45.09024 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 63ead9a8-7446-37c4-a6c2-76e284ac8491 | -10.96282 | -45.08514 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 7efdf7d4-4818-3143-b1e0-2ac301c0c7b0 | -10.98837 | -45.08118 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| b423d413-bf95-31a6-b5eb-85836382a382 | -10.98025 | -45.09214 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| efd2af22-0601-36ef-82fd-37bab39fb9f9 | -10.96856 | -45.08622 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 9eb205f6-ccba-3291-b996-8dfa4375e0cf | -10.97609 | -45.08312 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 2db000cd-53df-3988-a3c6-e1cbb156ecb7 | -10.98506 | -45.09327 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| f4ee3aca-9a13-3869-9a43-939384c5dfe6 | -12.27916 | -44.62976 | 2026-05-02 03:40:00 | NOAA-20 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| e81cc14c-b403-32c5-a476-5bde89e6a73c | -10.98263 | -45.08015 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| fa322039-ce29-3f04-83d1-afa2f973f4e6 | -10.986 | -45.09319 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| aeb1c85a-a761-3d91-b905-eddcd41e4012 | -10.98184 | -45.08411 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 584fbb5e-619c-3bb5-8a06-b092960e62cd | -10.97432 | -45.0872 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 93dc550e-bd0c-3065-bc4a-36bbac3f4830 | -10.70894 | -46.35944 | 2026-05-02 03:40:00 | NOAA-20 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 5e9105bc-ec0c-3a6c-ad8e-528508d47cad | -12.27987 | -44.62619 | 2026-05-02 03:40:00 | NOAA-20 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 96837a0a-1f15-3978-a6ab-82f98162f6ef | -10.97663 | -45.07514 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 10.8 |
+| ea5a7f21-b44f-3a4b-857f-8ffc36f0fe50 | -13.68457 | -44.29351 | 2026-05-02 03:40:00 | NOAA-20 | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 8981d7f8-e282-3623-82d4-64ad2a9544f0 | -12.92217 | -42.42908 | 2026-05-02 03:40:00 | NOAA-20 | IBIPITANGA | BAHIA | Brasil | 2912509 | 29 | 33 | nan | nan | nan | Caatinga | 4.6 |
+| acad8825-28ce-3a83-aa54-65c2ac0624e0 | -10.98009 | -45.08817 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 9450f0a4-3e7e-3631-9829-45d6e46f5395 | -10.98518 | -45.09729 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 0607ca53-9d43-351c-8ac3-272bb2e74bb7 | -10.96791 | -45.09427 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| 057c10e8-31eb-3e11-a107-9a63d7fd116d | -10.96709 | -45.09838 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.6 |
+| fe6ac547-4512-3400-b19e-196b4b697b59 | -11.55481 | -48.27216 | 2026-05-02 03:40:00 | NOAA-20 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 954020c3-53ec-36a0-8b12-2763ce279e08 | -10.97528 | -45.08715 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| 3eead634-5599-3882-81e2-f1a0618561e1 | -10.98428 | -45.09738 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 990d24fd-aa9c-3cba-a2a9-22b4e4b6c9af | -11.55617 | -48.26573 | 2026-05-02 03:40:00 | NOAA-20 | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 76b51ef0-134f-3c68-ad51-f7d130f7747e | -10.98341 | -45.07621 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| a42b4331-c507-3b25-b5ae-b5381479c43b | -10.97355 | -45.09125 | 2026-05-02 03:40:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 6.9 |
+| 7a1eb466-a789-37d8-8ec1-db7818180c05 | -13.7795 | -43.2431 | 2026-05-02 03:40:00 | NOAA-20 | RIACHO DE SANTANA | BAHIA | Brasil | 2926400 | 29 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| 03480f83-f940-3258-a384-e802d34f8e8f | -15.58258 | -46.80756 | 2026-05-02 03:40:00 | NOAA-20 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 6aac8963-6bbe-3fc0-8a82-a0e798fcd6db | -15.58168 | -46.81183 | 2026-05-02 03:40:00 | NOAA-20 | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
