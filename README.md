@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 587313e2-83a0-3fe9-9daa-c5ffbd09ec97 | -14.31226 | -49.24402 | 2026-05-13 00:11:00 | TERRA_M-M | NOVA IGUAÇU DE GOIÁS | GOIÁS | Brasil | 5214879 | 52 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 15869b52-1d48-311c-b7ac-5462ccfc22d4 | -11.97387 | -46.78611 | 2026-05-13 00:11:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| da54aa8d-8fc9-3d81-a71d-ef5def78e611 | -14.30446 | -49.25484 | 2026-05-13 00:11:00 | TERRA_M-M | NOVA IGUAÇU DE GOIÁS | GOIÁS | Brasil | 5214879 | 52 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 4ed65d69-e570-3dba-b73c-e5b3d5fcc4be | -15.61571 | -46.52004 | 2026-05-13 00:11:00 | TERRA_M-M | BURITIS | MINAS GERAIS | Brasil | 3109303 | 31 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| 13113ba1-62c2-3676-926b-73365c1aa744 | -14.12044 | -47.43093 | 2026-05-13 00:11:00 | TERRA_M-M | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 2df03806-9ad3-3aa6-bacf-27e8c8f5ffe6 | -10.48843 | -49.36152 | 2026-05-13 00:11:00 | TERRA_M-M | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 66d205d2-c79a-3c8f-abe8-dba480af8b44 | -11.26772 | -54.71819 | 2026-05-13 00:11:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| c994f352-ed67-34d1-9f68-08712edcf74b | -10.61918 | -47.96089 | 2026-05-13 00:11:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| cf7886b7-14be-3cec-9c31-071c4bdf81e1 | -11.29924 | -54.02559 | 2026-05-13 00:11:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 12.4 |
-| 8db45547-a3a5-30df-9590-97f0c4b8bdc1 | -10.61792 | -47.95191 | 2026-05-13 00:11:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| d1c66cfe-9504-3b29-a73b-491da9d8eb87 | -12.62418 | -44.51918 | 2026-05-13 00:11:00 | TERRA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 17.8 |
-| 55c8f64f-f4bc-3220-8e50-cc38896f6997 | -12.48713 | -45.44186 | 2026-05-13 00:11:00 | TERRA_M-M | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 52649b7b-7e80-31f7-8266-ed10152a42c0 | -12.59764 | -44.06799 | 2026-05-13 00:11:00 | TERRA_M-M | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 27.5 |
-| 47d2755a-2da6-3944-b537-0fe9728e8ecc | -11.84436 | -49.44188 | 2026-05-13 00:11:00 | TERRA_M-M | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| 62417505-f57d-34fb-8bbc-f5100e6ed6f4 | -10.66453 | -49.70599 | 2026-05-13 00:11:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 23.4 |
-| 09a4fca7-810e-37ed-9899-4aaf727c4b2e | -10.11352 | -49.18269 | 2026-05-13 00:11:00 | TERRA_M-M | CHAPADA DE AREIA | TOCANTINS | Brasil | 1704600 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
-| 6c44dee9-87b9-3631-bdba-5bc99074492c | -11.29326 | -54.02062 | 2026-05-13 00:11:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 12.9 |
-| f886ef03-d9d8-3567-b528-91305ebbfe60 | -12.00056 | -45.14044 | 2026-05-13 00:11:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 3bcf514f-158c-3903-ab09-de73a285b416 | -14.31351 | -49.25353 | 2026-05-13 00:11:00 | TERRA_M-M | NOVA IGUAÇU DE GOIÁS | GOIÁS | Brasil | 5214879 | 52 | 33 | nan | nan | nan | Cerrado | 5.7 |
-| 7896500a-b976-32fe-90ff-0b771d91c0f2 | -10.12383 | -47.92275 | 2026-05-13 00:11:00 | TERRA_M-M | APARECIDA DO RIO NEGRO | TOCANTINS | Brasil | 1701101 | 17 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 8eb27e6a-613d-31fd-a75b-9f2ee3e0b7a0 | -11.26542 | -54.69904 | 2026-05-13 00:11:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 17.7 |
-| 95ae0b68-4c05-3e02-b30d-d93f295b2174 | -10.66576 | -49.71522 | 2026-05-13 00:11:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| f7b7af1d-7ee4-348a-96fe-fc18fae1dfb7 | -14.30321 | -49.24531 | 2026-05-13 00:11:00 | TERRA_M-M | NOVA IGUAÇU DE GOIÁS | GOIÁS | Brasil | 5214879 | 52 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 8a0bf3ac-0a0f-31cb-9f7c-1d30ac6d80ee | -13.6871 | -44.29591 | 2026-05-13 00:11:00 | TERRA_M-M | CORIBE | BAHIA | Brasil | 2909109 | 29 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| a998fd06-dfb7-3cca-a254-1969b551ea1e | -14.1368 | -45.4286 | 2026-05-13 00:11:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 18.6 |
-| 2eaf0558-e4d4-37a9-ad6f-e0703475d76b | -12.84891 | -43.75718 | 2026-05-13 00:11:00 | TERRA_M-M | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 8aff9d00-255b-38a2-b521-2380aa985c90 | -14.14465 | -45.41663 | 2026-05-13 00:11:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 0d5e1568-45e0-370f-90e9-67c12a09c80c | -14.12895 | -45.31152 | 2026-05-13 00:11:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 10.3 |
-| 3eff8c38-a184-3337-acb3-3421b9d321b1 | -10.5572 | -42.44017 | 2026-05-13 00:11:00 | TERRA_M-M | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 18.3 |
-| 48316886-8518-3928-bdcf-d88bdfe56247 | -13.6643 | -47.38514 | 2026-05-13 00:11:00 | TERRA_M-M | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 72a0ac3a-ad68-3a26-ba06-b3132bdbb60d | -14.14309 | -45.40617 | 2026-05-13 00:11:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| cbea7c76-4962-3342-9ffd-bbd271b5aac5 | -12.85428 | -43.76462 | 2026-05-13 00:11:00 | TERRA_M-M | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| 9e468fe9-a05a-34f3-a117-67d909d97511 | -12.23316 | -49.39082 | 2026-05-13 00:11:00 | TERRA_M-M | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 9b5c60e3-60a8-3f80-af27-a88c73b26de0 | -10.5557 | -42.434399 | 2026-05-13 00:13:00 | METOP-C | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 1e92a78b-813c-3343-81e9-60ad574e9b92 | -8.5357 | -45.977501 | 2026-05-13 00:13:00 | METOP-C | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 12629e8b-375a-3a2c-9bf6-700d97f83805 | -12.6233 | -44.519001 | 2026-05-13 00:13:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 883fa038-b9c4-35f6-a966-1ce01f065567 | -14.1361 | -45.430801 | 2026-05-13 00:13:00 | METOP-C | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 3943e88c-a598-3568-8edc-eed856e307ac | -8.5476 | -45.985901 | 2026-05-13 00:13:00 | METOP-C | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| b6b43145-acd1-3c0b-9e6c-e0af3c1fe537 | -12.6 | -44.066399 | 2026-05-13 00:13:00 | METOP-C | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 2a23ecb1-ef6b-3c22-a406-bb8e2bb6c02e | -12.5902 | -44.068501 | 2026-05-13 00:13:00 | METOP-C | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| fa62baf4-298a-34d0-ad76-d068ca5734df | -11.8016 | -43.633202 | 2026-05-13 00:13:00 | METOP-C | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 64d7e4e1-17b3-36c7-acc5-a0a755f4f409 | -12.8517 | -43.755402 | 2026-05-13 00:13:00 | METOP-C | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| a56f570d-5de5-3b4e-a14b-c67c7ff395f0 | -8.5379 | -45.9879 | 2026-05-13 00:13:00 | METOP-C | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 732832d8-24f2-32f2-87f8-f68ab3f4b6ae | -9.2433 | -40.259102 | 2026-05-13 00:13:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 6a321df2-4019-3693-a8d5-d4916422eb70 | -10.5574 | -42.441898 | 2026-05-13 00:13:00 | METOP-C | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 8d502760-95ef-36c2-b8d3-ec8522670821 | -9.2417 | -40.252201 | 2026-05-13 00:13:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 6aab8d0f-0240-3dd5-8a46-4e3530baa5cc | -12.8536 | -43.7644 | 2026-05-13 00:13:00 | METOP-C | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 42973671-b0d5-3a3c-bdc0-c57f7c11e763 | -9.2402 | -40.2453 | 2026-05-13 00:13:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| e7aee662-9f50-378c-95ef-46eb54bbd17e | -8.5454 | -45.975498 | 2026-05-13 00:13:00 | METOP-C | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 689dd69c-7a23-387c-a541-76b91b29bc00 | -9.4492 | -47.790199 | 2026-05-13 00:13:00 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4337b674-117b-3a6b-a486-1ea03a37f565 | -9.4515 | -47.79554 | 2026-05-13 00:13:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| dd6e499c-ba52-30ce-80c9-c382dd2757d2 | -8.53804 | -45.9837 | 2026-05-13 00:13:00 | TERRA_M-M | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 31.7 |
-| f2a00882-da7c-3f25-9d2a-8084019d8cdc | -8.54787 | -45.98228 | 2026-05-13 00:13:00 | TERRA_M-M | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| b3f1ab65-0347-338c-a83e-a26f447ee901 | -7.63027 | -48.0243 | 2026-05-13 00:13:00 | TERRA_M-M | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| fb4c8ea9-6d1a-3de9-961f-132534bad6c9 | -8.08754 | -44.17995 | 2026-05-13 00:13:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| 1624f9f4-c10f-3e5a-81fe-97515cb55a42 | -9.46041 | -47.79422 | 2026-05-13 00:13:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 9.3 |
-| c484f83e-1b0e-31e4-9728-19104c1a3c06 | -8.70351 | -47.9815 | 2026-05-13 00:13:00 | TERRA_M-M | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 17.8 |
-| b5fbda3e-8744-345b-9019-92aa6c5e3f47 | -7.28263 | -46.80281 | 2026-05-13 00:13:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 95228377-26e8-31c0-be40-4f97da21be1f | -11.6266 | -54.1641 | 2026-05-13 00:30:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 53.0 |
-| ff4b6e13-29e3-322d-b8a3-a356ffba9897 | -9.2496 | -40.2446 | 2026-05-13 00:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 81.2 |
-| 2a130a6f-1fb5-3525-b138-a17e428c90a3 | -9.2305 | -40.2473 | 2026-05-13 00:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 74.6 |
-| 0b6b9a38-0749-3b06-ad09-9cb44dd05004 | -20.8936 | -48.4201 | 2026-05-13 00:40:00 | GOES-19 | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Cerrado | 124.7 |
-| af829409-0d68-35d5-9c2e-dcf4837cb4b7 | -9.2496 | -40.2446 | 2026-05-13 00:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 73.8 |
-| 3500c217-017c-3131-a97d-db0903541e0e | -11.6266 | -54.1641 | 2026-05-13 00:40:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 53.5 |
-| 5f0b85bf-00a3-3fe0-b82f-17b85fd76930 | -11.7393 | -54.2355 | 2026-05-13 00:40:00 | GOES-19 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 46.8 |
-| bb958f9b-204a-3aee-a2e9-d5ba61d13455 | -20.8943 | -48.3968 | 2026-05-13 00:40:00 | GOES-19 | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Cerrado | 77.6 |
-| 36c3fbc6-79f9-311b-9887-1dfabd6efa26 | -21.3445 | -47.0236 | 2026-05-13 02:30:00 | GOES-19 | MOCOCA | SÃO PAULO | Brasil | 3530508 | 35 | 33 | nan | nan | nan | Cerrado | 50.4 |
-| cdb0a456-4c8e-37e8-9be0-2ecdcc881681 | -8.5407 | -45.99136 | 2026-05-13 03:32:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| ca9c358f-aa47-3979-9e9b-e040d29ef5f4 | -10.26649 | -38.14394 | 2026-05-13 03:32:00 | NOAA-20 | SÍTIO DO QUINTO | BAHIA | Brasil | 2930766 | 29 | 33 | nan | nan | nan | Caatinga | 1.5 |
-| fea793d4-5df7-32e7-a97c-83dca8bc54e0 | -8.54213 | -45.98396 | 2026-05-13 03:32:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| b6d3477e-c61b-3db2-a804-1a014c6ed5d8 | -8.54055 | -45.98581 | 2026-05-13 03:32:00 | NOAA-20 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 59aef83c-34dd-3d58-b1c9-9563934bc216 | -12.61992 | -44.51853 | 2026-05-13 03:34:00 | NOAA-20 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 30a16e9c-5974-3e79-b62b-7c01de965806 | -11.54409 | -46.55993 | 2026-05-13 03:34:00 | NOAA-20 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 81af178f-c2db-3aae-9ee3-a6b5f8f05fbb | -10.55409 | -42.43763 | 2026-05-13 03:34:00 | NOAA-20 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.3 |
-| 13e756ab-5510-356a-bf27-3916e8426123 | -10.67421 | -42.15459 | 2026-05-13 03:34:00 | NOAA-20 | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
-| 77e11f86-0832-33e1-86d0-903131c28bf8 | -11.7981 | -43.63097 | 2026-05-13 03:34:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 50cad951-7ecc-34ac-8697-372a36f5869d | -12.11389 | -43.6504 | 2026-05-13 03:34:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 7a376317-872f-36b0-93fb-592512457b9c | -12.62778 | -44.52242 | 2026-05-13 03:34:00 | NOAA-20 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 60b0d7cf-4866-3690-b1ad-ea1d7915bfba | -12.84995 | -43.75798 | 2026-05-13 03:34:00 | NOAA-20 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 7ff941af-4fb0-33f7-a1fd-bf0fd3f123da | -11.96809 | -46.79016 | 2026-05-13 03:34:00 | NOAA-20 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ad93f29c-18e2-35f2-a696-138a01851494 | -11.44918 | -39.2848 | 2026-05-13 03:34:00 | NOAA-20 | CONCEIÇÃO DO COITÉ | BAHIA | Brasil | 2908408 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 08b7e817-a4de-34b8-83c5-e9334812f584 | -12.8556 | -43.75913 | 2026-05-13 03:34:00 | NOAA-20 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5580b3ef-4bd9-3778-a575-22838f7e6ddd | -12.11222 | -43.65162 | 2026-05-13 03:34:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 56a10564-0adb-31fe-be3b-f41a5f36d110 | -12.85259 | -43.76257 | 2026-05-13 03:34:00 | NOAA-20 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 9085b8ef-51ce-30f1-a069-baded393ee22 | -12.62186 | -44.52107 | 2026-05-13 03:34:00 | NOAA-20 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| ede2b8fe-9855-3c96-b2f8-69f524b64a40 | -14.12959 | -45.31134 | 2026-05-13 03:34:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 7e3a66d5-d336-3921-8a7e-2ab8426a9e41 | -12.11379 | -43.64359 | 2026-05-13 03:34:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| fb2ac40e-44cd-3d92-8c40-7156d8edb1c6 | -14.12254 | -45.31473 | 2026-05-13 03:34:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 43632012-5d68-3e9b-a733-424e43a015c9 | -10.96658 | -45.09413 | 2026-05-13 03:34:00 | NOAA-20 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 7f2bcd0b-71e5-3412-93cc-25096604dc3e | -12.21311 | -38.98169 | 2026-05-13 03:34:00 | NOAA-20 | FEIRA DE SANTANA | BAHIA | Brasil | 2910800 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
-| f943bf73-9d14-34e9-b7fc-5c9955fb4d0a | -12.84915 | -43.76189 | 2026-05-13 03:34:00 | NOAA-20 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 44d8029a-e83a-3a25-97d9-9d86af7152ed | -14.11547 | -45.31815 | 2026-05-13 03:34:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 076e4c1a-a8a7-3f8e-831e-4e9fab5a28fa | -11.44841 | -39.28901 | 2026-05-13 03:34:00 | NOAA-20 | CONCEIÇÃO DO COITÉ | BAHIA | Brasil | 2908408 | 29 | 33 | nan | nan | nan | Caatinga | 1.1 |
-| 7ec93e8f-ae43-3704-9004-97622e4ad4ac | -14.12154 | -45.31949 | 2026-05-13 03:34:00 | NOAA-20 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 48f2fd1e-bb46-3b78-9877-55d85e1e158e | -12.62277 | -44.51662 | 2026-05-13 03:34:00 | NOAA-20 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| f3cfc2b6-cbb6-3830-a1e0-b96cd2d29627 | -12.1147 | -43.64639 | 2026-05-13 03:34:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 47991c22-19e8-3aab-aad2-95502d999ae2 | -12.61904 | -44.52299 | 2026-05-13 03:34:00 | NOAA-20 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| cf865c87-2573-383b-b6ae-1318c770c7c3 | -12.11301 | -43.6476 | 2026-05-13 03:34:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 1600088e-619b-370a-9aed-bda2800a895c | -11.93638 | -43.38456 | 2026-05-13 03:34:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| a20e5143-2de2-35f5-b940-5199865c743d | -10.67358 | -42.15798 | 2026-05-13 03:34:00 | NOAA-20 | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| f35c4630-1549-38c9-9267-e6f06903f024 | -17.3622 | -42.7029 | 2026-05-14 00:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 226.8 |
+| 5e99231e-b168-3417-851b-292e986f9937 | -17.383 | -42.6732 | 2026-05-14 00:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 114.6 |
+| 18f06042-945f-3313-9678-1c24b42bdc4a | -17.3629 | -42.6781 | 2026-05-14 00:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 116.8 |
+| ef75e948-b465-3c78-988c-2fa342ce76f2 | -8.1133 | -44.1668 | 2026-05-14 00:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| 60d17caa-d39e-3c3c-8cc1-b01a958635d6 | -19.2091 | -52.636 | 2026-05-14 00:00:00 | GOES-19 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 87.0 |
+| 09670cf4-f0fb-3632-b489-c314ed86c6aa | -17.3823 | -42.698 | 2026-05-14 00:00:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 205.0 |
+| d8d020b0-4479-331b-91e6-10193cbfefda | -17.3622 | -42.7029 | 2026-05-14 00:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 194.9 |
+| dc0dec12-b4f9-313c-bbb9-afc4b282a67f | -19.2091 | -52.636 | 2026-05-14 00:10:00 | GOES-19 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 104.8 |
+| 7da3fc0c-e9f9-38a2-9e6b-00babcce52f0 | -17.3629 | -42.6781 | 2026-05-14 00:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 116.2 |
+| 1e535bc8-ebef-3ef7-9b18-aa764edae1a8 | -17.3823 | -42.698 | 2026-05-14 00:10:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 173.4 |
+| a7521b08-c86a-37a0-9dfc-4b0f8fb10633 | -17.383 | -42.6732 | 2026-05-14 00:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 108.7 |
+| 46f8a785-2827-3e1b-9434-8ce52a7420a9 | -19.2096 | -52.6142 | 2026-05-14 00:10:00 | GOES-19 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 51.1 |
+| b38e8637-c61f-3d33-ab5d-da9ce859634b | -17.3629 | -42.6781 | 2026-05-14 00:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 109.4 |
+| d748ba10-93de-3b1c-b695-c4e91b78417f | -17.3823 | -42.698 | 2026-05-14 00:20:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 114.1 |
+| 3cad947b-7c8b-3fa6-a7d2-a04bc69af7d9 | -8.113 | -44.19 | 2026-05-14 00:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 65.1 |
+| 815a8a8b-7d16-3a8d-9edc-c5ffb20f9e4e | -19.2091 | -52.636 | 2026-05-14 00:20:00 | GOES-19 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 71.5 |
+| 914f776f-ca4f-3d59-8639-76c62c00943c | -17.3622 | -42.7029 | 2026-05-14 00:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 148.3 |
+| 97d70b1a-4105-3cb2-973b-af94614d7ec8 | -17.383 | -42.6732 | 2026-05-14 00:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 90.8 |
+| 77fa73a4-b039-37ff-b32e-27cc0c1e9aaa | -19.2091 | -52.636 | 2026-05-14 00:30:00 | GOES-19 | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | 72.3 |
+| c3e34bae-99e4-34e2-b079-421ed834cc0e | -8.113 | -44.19 | 2026-05-14 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 68.2 |
+| 7b399028-dfa0-3f02-aec7-f2fc8f9f8968 | -17.3622 | -42.7029 | 2026-05-14 00:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 150.5 |
+| afc3e321-8cb8-3b2e-9068-339a194eb407 | -17.383 | -42.6732 | 2026-05-14 00:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| a3141534-9649-3aa9-aae9-713fe1e2616f | -17.3629 | -42.6781 | 2026-05-14 00:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 98.6 |
+| 123642c4-1e2b-345b-bbb2-90f18e5a6fdd | -17.3823 | -42.698 | 2026-05-14 00:30:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| 832e6622-2fa0-3f3a-885e-f57590ff7ac6 | -17.3823 | -42.698 | 2026-05-14 00:40:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 98.4 |
+| 2a38ffcd-f899-39d2-9a93-7dafd7e67cdf | -17.3622 | -42.7029 | 2026-05-14 00:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 109.2 |
+| 68a2eefb-58d1-3770-a5b7-5f95907a79d0 | -17.3629 | -42.6781 | 2026-05-14 00:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| 210ee7d0-7bfa-3ae8-b2a8-fdc055ef7638 | -17.383 | -42.6732 | 2026-05-14 00:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 56.2 |
+| 2ac3bc06-7668-3bdd-acda-d709d669d1de | -10.3643 | -46.8448 | 2026-05-14 00:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 70.7 |
+| 619219fa-d01f-3fc9-87d5-34b030d5c0ce | -17.3622 | -42.7029 | 2026-05-14 00:50:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 88.6 |
+| a4fa467d-a64f-34e6-b2cd-4c3ab62b55bd | -17.383 | -42.6732 | 2026-05-14 00:50:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 53.1 |
+| d6f43a74-6f30-3984-94aa-b50ee6c8fda9 | -17.3823 | -42.698 | 2026-05-14 00:50:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 74.8 |
+| 10465a45-c316-3abe-80d7-0033910d33c1 | -17.3629 | -42.6781 | 2026-05-14 00:50:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 60.2 |
+| 075a3025-9d71-3100-8479-95fe0b319365 | -17.3629 | -42.6781 | 2026-05-14 01:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 5d5224d3-f542-30c0-82d9-e1f6fabd6274 | -17.383 | -42.6732 | 2026-05-14 01:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 57.4 |
+| ddc823e4-5d37-3952-9fbf-7988e4b62de4 | -17.3622 | -42.7029 | 2026-05-14 01:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 115.9 |
+| f86bf4ad-00c7-35fb-8231-6b542d8494de | -10.3643 | -46.8448 | 2026-05-14 01:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 86.4 |
+| c9d81feb-56a4-3d11-915b-59aa4efccb68 | -10.364 | -46.8672 | 2026-05-14 01:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 65.7 |
+| b324b44b-2a6e-32d8-abb8-e65f5e4beba0 | -17.3823 | -42.698 | 2026-05-14 01:00:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 103.0 |
+| c82e2c5c-2d49-3c63-9b89-a0e9bace6258 | -11.7987 | -57.354401 | 2026-05-14 01:01:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c4813849-f6b0-3fe6-b606-2452c219491b | -17.3823 | -42.698 | 2026-05-14 01:10:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 99.6 |
+| a114f1b4-cc8c-3eda-8ef6-22fa268f1637 | -17.3629 | -42.6781 | 2026-05-14 01:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| 57726731-3813-327d-9648-0b3951ee3117 | -17.383 | -42.6732 | 2026-05-14 01:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 65.9 |
+| d84b488a-51bd-3b60-89c1-9a800cffe0cf | -17.3622 | -42.7029 | 2026-05-14 01:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 104.4 |
+| 4906c554-7ae9-3913-9746-63c0c172f07b | -17.3629 | -42.6781 | 2026-05-14 01:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| c19858d3-099b-3984-9a7e-a7d18b5fb03b | -17.383 | -42.6732 | 2026-05-14 01:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| c2103c61-1797-3546-bb51-7ba574c213f4 | -17.3823 | -42.698 | 2026-05-14 01:20:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 95.1 |
+| d8a2cf5c-2202-3f87-abc5-6e8c9dd8a71f | -17.3622 | -42.7029 | 2026-05-14 01:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 100.3 |
+| 071959da-ace3-3f57-b793-5d8f8e1ec8c3 | -17.3823 | -42.698 | 2026-05-14 01:30:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 94.7 |
+| 801205f0-69c4-37e9-b05e-80e1634d1aaf | -17.383 | -42.6732 | 2026-05-14 01:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 61.1 |
+| 4007e6b2-4b15-3b1e-8eee-16d293320e9b | -17.3622 | -42.7029 | 2026-05-14 01:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 106.2 |
+| 96cb975f-cd6c-339b-a459-eb7b9e9111c3 | -17.3629 | -42.6781 | 2026-05-14 01:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 63.8 |
+| ae891dce-b32c-374f-a290-0aa12ce23991 | -19.2096 | -52.626801 | 2026-05-14 01:31:00 | METOP-C | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| ef6d3449-34f9-3637-96f0-111699dc0d51 | -19.212601 | -52.638901 | 2026-05-14 01:31:00 | METOP-C | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 6d18fece-d635-3eb4-befb-59191a03211e | -19.219299 | -52.6241 | 2026-05-14 01:31:00 | METOP-C | CHAPADÃO DO SUL | MATO GROSSO DO SUL | Brasil | 5002951 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 9ea648b2-3daa-382c-87bd-6d7cda6d9989 | -17.3823 | -42.698 | 2026-05-14 01:40:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 89.5 |
+| 7b740a30-07f4-3790-8e25-e0b538c5e455 | -17.3622 | -42.7029 | 2026-05-14 01:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 96.5 |
+| 33a45cfd-325d-3b5b-a622-d7685e225852 | -17.3629 | -42.6781 | 2026-05-14 01:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 53.6 |
+| a5186a71-ec24-39d0-813c-94edb549f11d | -17.3823 | -42.698 | 2026-05-14 01:50:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| 2b5a792a-504b-3f91-bbb5-376a24d32889 | -17.3622 | -42.7029 | 2026-05-14 01:50:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 83.2 |
+| a10ee95e-6df2-30ff-b965-cb2f31e778dd | -17.383 | -42.6732 | 2026-05-14 01:50:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| c9b79383-58e0-388d-abca-5eb15b6bba43 | -17.3629 | -42.6781 | 2026-05-14 01:50:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 61.3 |
+| 5d2da2b6-ec53-3335-88bb-61ba47c01b60 | -17.3622 | -42.7029 | 2026-05-14 02:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 88.2 |
+| 1580233c-c1a2-3c9c-a858-ccaa3ba9437f | -17.3823 | -42.698 | 2026-05-14 02:00:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 94.9 |
+| 216d8c47-a0f9-3d84-95e0-ea546050a95b | -17.3823 | -42.698 | 2026-05-14 02:10:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 70.3 |
+| 63a6067c-b6bd-3940-9c26-909d9d12f84a | -17.3622 | -42.7029 | 2026-05-14 02:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 90.0 |
+| 487f0bac-c43f-3fc1-9c3a-0d5876252cc3 | -17.3823 | -42.698 | 2026-05-14 02:20:00 | GOES-19 | VEREDINHA | MINAS GERAIS | Brasil | 3171071 | 31 | 33 | nan | nan | nan | Cerrado | 64.7 |
+| edf9f985-f0a2-3cb1-8b68-2769d2b5ef9a | -17.3622 | -42.7029 | 2026-05-14 02:20:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 77.5 |
+| e3640b9b-27ee-3a55-86b8-5d11cc3ba2e5 | -17.3622 | -42.7029 | 2026-05-14 02:30:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 60.3 |
+| b1caa255-e8df-3eaa-8cc7-a59c490aff9f | -9.4578 | -40.3392 | 2026-05-14 02:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 59.7 |
+| e4414455-8da1-385d-9925-c223ccce34cf | -17.3622 | -42.7029 | 2026-05-14 02:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 62.3 |
+| 2ce815a7-cbc9-3d25-a8b0-3f9c6e6b83c2 | -9.4578 | -40.3392 | 2026-05-14 03:10:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 97.9 |
+| fd08cac0-c14d-3fb7-9e79-6b9b09ed5e64 | -5.4436 | -36.79174 | 2026-05-14 03:13:00 | NOAA-20 | AFONSO BEZERRA | RIO GRANDE DO NORTE | Brasil | 2400307 | 24 | 33 | nan | nan | nan | Caatinga | 1.1 |
+| f9d429e5-9531-3fff-80c5-3b35d1899e2f | -9.46632 | -40.34198 | 2026-05-14 03:15:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 31.2 |
+| 15014de4-06c7-3a5d-bc2a-843de11d112b | -9.45874 | -40.34621 | 2026-05-14 03:15:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 43.9 |
+| 8511b8b2-7048-3f54-b9d7-a0f451dd71bd | -9.45982 | -40.34066 | 2026-05-14 03:15:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 31.2 |
+| 681aeb94-25db-30c5-9497-2ee1561aaf5d | -9.4609 | -40.33513 | 2026-05-14 03:15:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 31.2 |
+| f0d551eb-9e14-3dcf-92f7-486d7b577b55 | -9.46524 | -40.34753 | 2026-05-14 03:15:00 | NOAA-20 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 43.9 |
+| 859617ff-720b-3b51-bdb7-0f8ac4c6f223 | -17.37095 | -42.6974 | 2026-05-14 03:17:00 | NOAA-20 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| dcba22ec-d815-39b8-88fa-fb7685b05d4d | -17.36443 | -42.69607 | 2026-05-14 03:17:00 | NOAA-20 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| 2a72b478-bb3b-3f31-b1b1-4971f8061e13 | -17.35668 | -42.70013 | 2026-05-14 03:17:00 | NOAA-20 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 88171d5a-79b8-3bf3-a5d7-324ada4be1e6 | -17.36316 | -42.70167 | 2026-05-14 03:17:00 | NOAA-20 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 24.8 |
+| cbdb0f41-0124-30ff-be6c-f43404c96fe3 | -22.05893 | -41.52441 | 2026-05-14 03:19:00 | NOAA-20 | QUISSAMÃ | RIO DE JANEIRO | Brasil | 3304151 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| 633e8eb3-1814-3c96-9d1e-a32d45e25f2e | -9.4578 | -40.3392 | 2026-05-14 03:20:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 148.7 |
+| ab83787b-c78b-3871-b805-9d92551e985c | -9.4769 | -40.3365 | 2026-05-14 03:20:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 102.7 |
+| e14bef83-14cb-380f-950e-139e20dfaca0 | -9.4574 | -40.3641 | 2026-05-14 03:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 68.2 |
+| 3b10ef21-808a-34d3-90a1-fd07227b06fa | -9.4769 | -40.3365 | 2026-05-14 03:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 122.0 |
+| dbcb4bb0-0a90-372f-8b23-c4f5ac7e5975 | -9.4578 | -40.3392 | 2026-05-14 03:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 240.1 |
+| 427c4ed5-473d-3b8c-8999-20602887e4ab | -9.4578 | -40.3392 | 2026-05-14 03:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 580.1 |
+| 29f35afa-f15e-3c6b-8181-c2474853e6c1 | -9.4574 | -40.3641 | 2026-05-14 03:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 99.4 |
+| 62ce01e8-0f4a-3780-9110-542eb9afe948 | -9.4582 | -40.3143 | 2026-05-14 03:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 157.9 |
+| 49cfcec3-7565-3138-b13c-e63c2d5f5078 | -9.4769 | -40.3365 | 2026-05-14 03:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 248.4 |
+| d42c38a1-cb08-31bf-8cd1-c5cb3faf666c | -9.4773 | -40.3116 | 2026-05-14 03:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 83.5 |
+| b183d024-7e91-3f97-b8c6-39cc3b9261f5 | -9.4582 | -40.3143 | 2026-05-14 03:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 106.3 |
+| 45d30b25-dd1e-3cb1-b81c-a9293c4ef871 | -9.4578 | -40.3392 | 2026-05-14 03:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 350.2 |
+| d747789b-0074-32f2-b900-6adfe8ad1df9 | -9.4773 | -40.3116 | 2026-05-14 03:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 75.8 |
+| c370837b-b589-352a-bdff-f61d6cd4ecbd | -9.4769 | -40.3365 | 2026-05-14 03:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 221.8 |
+| 9e2ce8aa-fae4-32f4-a760-64e61d57935e | -9.4574 | -40.3641 | 2026-05-14 03:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 87.4 |
+| 67b6ff83-a62e-3ef8-b365-32781f91f6d8 | -9.4578 | -40.3392 | 2026-05-14 04:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 190.9 |
+| b393da4b-c0d0-306f-b0cc-c8a816d5b3ef | -9.4582 | -40.3143 | 2026-05-14 04:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 86.5 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
