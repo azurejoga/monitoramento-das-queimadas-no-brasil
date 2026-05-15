@@ -29,30 +29,28 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0f6ce844-3eac-3ae2-8e70-3e3cfedce5b1 | -13.981 | -46.0301 | 2026-05-12 14:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 77.3 |
-| 89a78701-c576-390c-aecb-4ad0aa7374ae | -13.9615 | -46.0334 | 2026-05-12 14:10:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 127.5 |
-| 5fa405bd-dc27-34a0-a709-30dfd201ca0e | -11.9498 | -43.3781 | 2026-05-12 14:10:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 172.8 |
-| f20da94c-e7a4-3412-b227-d08ede18ebd9 | -14.1317 | -45.3111 | 2026-05-12 14:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 118.6 |
-| 42c59f80-013b-3ad9-bc11-352b8163fe00 | -13.9615 | -46.0334 | 2026-05-12 14:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 95.6 |
-| a0b42097-1b1e-3539-8564-2f41b8ee6106 | -11.9498 | -43.3781 | 2026-05-12 14:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 137.7 |
-| 09ce4eeb-a053-3faf-8cab-247025934580 | -14.1312 | -45.3344 | 2026-05-12 14:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 88.3 |
-| 2ce665b5-48fc-3c74-818e-1267edcc44df | -11.9305 | -43.3812 | 2026-05-12 14:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 112.9 |
-| e67dd04b-5897-3e06-ab2a-1ee57d7aa8d7 | -14.4001 | -44.5846 | 2026-05-12 14:20:00 | GOES-19 | MONTALVÂNIA | MINAS GERAIS | Brasil | 3142700 | 31 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| 883f3468-5310-3b8a-b4dd-d369b033868d | -13.981 | -46.0301 | 2026-05-12 14:20:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 74.5 |
-| 6775edde-5f5d-3b8c-94ef-7088b77f21f9 | -14.1317 | -45.3111 | 2026-05-12 14:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 104.1 |
-| 748c71b1-8b45-3e48-aec9-a243036513d7 | -11.9305 | -43.3812 | 2026-05-12 14:30:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 118.5 |
-| 60d14573-8ca8-3975-b5b3-2cd16fcc3c99 | -13.9615 | -46.0334 | 2026-05-12 14:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 94.6 |
-| 4bdbeee8-859d-3bf4-94ac-5641126c5385 | -14.1312 | -45.3344 | 2026-05-12 14:30:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 94.9 |
-| a5447aa4-d3f4-3d17-b027-67bbdb58b0c8 | -11.9498 | -43.3781 | 2026-05-12 14:30:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 154.8 |
-| 9360b26b-196b-32d0-a1b6-6b283e8c7996 | -13.9615 | -46.0334 | 2026-05-12 14:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 91.5 |
-| 59be24f6-78f4-3719-975e-79f65bc6a30e | -12.4875 | -45.4434 | 2026-05-12 14:40:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 76.8 |
-| 6fc3f5d1-3b3e-36f1-8a1c-0d60b536e16f | -11.9498 | -43.3781 | 2026-05-12 14:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 120.6 |
-| 89f669e4-b3e0-3872-afb3-b95e9593a473 | -14.1317 | -45.3111 | 2026-05-12 14:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 101.4 |
-| 2254b78d-1403-3d0a-82ac-4aec1be34aa9 | -14.1312 | -45.3344 | 2026-05-12 14:40:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 85.2 |
-| 34ca4493-dc12-3708-b341-3806b7c317ee | -11.9305 | -43.3812 | 2026-05-12 14:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 117.0 |
-| e56f443c-4e3b-319f-a40e-5b41ffdf8c77 | -11.9305 | -43.3812 | 2026-05-12 14:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| 4f6a5a33-4fa5-3f27-a3bc-68de81ffe674 | -14.1317 | -45.3111 | 2026-05-12 14:50:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 96.2 |
-| b320530c-2a9c-369a-a2d6-c82f87ea6a2f | -11.9498 | -43.3781 | 2026-05-12 14:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 116.7 |
-| 7c639297-45eb-3437-83b6-c4218e7fbc11 | -14.1317 | -45.3111 | 2026-05-12 15:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 90.7 |
+| 53d31c80-0868-3b83-a44f-5304702b4690 | -12.4875 | -45.4434 | 2026-05-15 13:00:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| 713caf61-a394-34bc-92fe-6f927cd19ed9 | -12.6205 | -44.5179 | 2026-05-15 13:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 96.3 |
+| 7e67d421-09cb-31d9-8202-c46080eef955 | -12.6205 | -44.5179 | 2026-05-15 13:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 90.3 |
+| 79893ab6-451e-31b9-9f67-f723ede7c441 | -12.4875 | -45.4434 | 2026-05-15 13:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 87.2 |
+| 96d34cf1-5dd8-3007-a5fc-14fbe0803230 | -12.6205 | -44.5179 | 2026-05-15 13:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 95.2 |
+| 287d4502-ba8a-30fc-9715-a03231200e2a | -12.6205 | -44.5179 | 2026-05-15 13:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| b67fc049-d57f-3deb-b531-9a6fa3023ebd | -12.6205 | -44.5179 | 2026-05-15 13:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 82.8 |
+| 562b436a-fdbe-31d8-a2a4-96301443c646 | -12.4875 | -45.4434 | 2026-05-15 13:50:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 85.3 |
+| ad3f336a-2e65-3f42-9036-a8068e0bbe0c | -11.7561 | -44.513 | 2026-05-15 14:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 78.7 |
+| fdf3df35-fe9e-39a7-be1d-7a4b30eb4670 | -8.7211 | -48.3222 | 2026-05-15 14:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 97.5 |
+| 0b614037-b0ff-3c6e-b3b7-72c000e6548d | -12.6205 | -44.5179 | 2026-05-15 14:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 94.7 |
+| 7f7392e4-d203-3976-8d80-2fe1cb32fdef | -11.7561 | -44.513 | 2026-05-15 14:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 2733b654-45f9-3b7a-8cfb-ddca32be2600 | -12.4875 | -45.4434 | 2026-05-15 14:10:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 93.5 |
+| 165ee738-0cda-36b1-9119-b7a7270b9470 | -11.7369 | -44.5159 | 2026-05-15 14:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 80.7 |
+| 05d89d58-1ae2-38e0-94f2-ec913630ba92 | -12.4875 | -45.4434 | 2026-05-15 14:30:00 | GOES-19 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 78.4 |
+| dab3199a-6390-34e6-b219-3abc171fad33 | -11.7369 | -44.5159 | 2026-05-15 14:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 82.4 |
+| 7523bc73-24e9-33ca-9ddc-e19d65bf59e9 | -11.7561 | -44.513 | 2026-05-15 14:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 91.0 |
+| 2d1980d9-0d95-3ad4-b2d0-bf70cf8c9e3f | -11.7369 | -44.5159 | 2026-05-15 14:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| b51bb708-5a6f-37c8-a827-bfd7bbe87ce0 | -11.7561 | -44.513 | 2026-05-15 14:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 75.5 |
+| 5221c10e-c15c-3553-a2af-4b6ad4d12c54 | -11.7561 | -44.513 | 2026-05-15 15:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 76.4 |
+| a78f91c2-3869-308d-9276-f7ad667d51ea | -11.7369 | -44.5159 | 2026-05-15 15:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| b459c9ef-6277-36aa-9eb7-f81a60a4e20b | -11.7369 | -44.5159 | 2026-05-15 15:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| d9b902f7-fc4a-3297-b1fe-7528c1bf3921 | -11.7369 | -44.5159 | 2026-05-15 15:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 73.1 |
 
 
