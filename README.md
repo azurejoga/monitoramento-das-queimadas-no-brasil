@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 99ec4141-97ee-3a5e-a3ba-da3fba604085 | -8.0947 | -44.1456 | 2026-05-15 00:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 77.9 |
-| 97e1e4ee-c498-3477-bcd7-ad479df76b64 | -8.7211 | -48.3222 | 2026-05-15 00:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 62.1 |
-| a92cc49c-bd8f-30fc-be59-b374a055cdf6 | -8.0947 | -44.1456 | 2026-05-15 00:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 89.1 |
-| 975d6bfa-129f-3ee3-b660-9d14a7c57fe8 | -9.3045 | -45.4809 | 2026-05-15 00:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 61.4 |
-| 17832cd4-319b-3fd2-bff7-a8ceb90fdb97 | -8.7211 | -48.3222 | 2026-05-15 00:20:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 77.5 |
-| 91d70f6b-025c-3581-8708-efacb4936d14 | -8.0947 | -44.1456 | 2026-05-15 00:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 82.3 |
-| b5e4bc2e-03cc-38c0-b3ac-3fa9881b5ba2 | -8.0947 | -44.1456 | 2026-05-15 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 84.8 |
-| 68cdfd6e-6e0c-37f0-9b64-0942873305e6 | -8.7211 | -48.3222 | 2026-05-15 00:30:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| 1997fe69-5b1e-3a60-ac3c-d2f3e5c6904b | -15.6537 | -47.9272 | 2026-05-15 00:30:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 56.1 |
-| 352debd1-ae47-3435-a282-a01cd3fea76a | -8.7211 | -48.3222 | 2026-05-15 00:40:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 53.5 |
-| cad4c2cd-441d-3d17-aeb3-b3b625da0e27 | -8.0947 | -44.1456 | 2026-05-15 00:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 80.9 |
-| 95e5fee7-1dab-3a63-98c0-16403671c309 | -15.6537 | -47.9272 | 2026-05-15 00:40:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 49.4 |
-| f18a04d6-158a-3f46-ac0f-24fa8d54cb7c | -14.176 | -52.859299 | 2026-05-15 00:40:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 91cc250f-20f2-338a-b16f-ba5523a41d9c | -13.0334 | -49.933498 | 2026-05-15 00:40:00 | METOP-B | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 252c997a-bc04-3e55-809d-9d5dd003bc4e | -8.0752 | -44.140301 | 2026-05-15 00:40:00 | METOP-B | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| de422cb9-63d1-3d17-987d-960a45cecfd3 | -19.1887 | -49.1101 | 2026-05-15 00:40:00 | METOP-B | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| e81427f1-c861-31b4-8d8f-13d1e99ce881 | -8.722 | -48.321602 | 2026-05-15 00:40:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2c877217-b443-3beb-9628-ec1c275b527c | -8.7123 | -48.324001 | 2026-05-15 00:40:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4e8ba2b4-b9d3-3e12-a3f6-4f9c62623531 | -9.291 | -45.462601 | 2026-05-15 00:40:00 | METOP-B | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| b3dacd9d-8689-30fb-b939-f767e0b90fd2 | -15.6345 | -47.917801 | 2026-05-15 00:40:00 | METOP-B | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
-| ef9b757c-4c46-3038-9d8b-e432fce46e6d | -19.1912 | -49.120399 | 2026-05-15 00:40:00 | METOP-B | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 1c2de3dd-733c-3efe-bfa8-85e02cafe5b1 | -11.4378 | -55.0956 | 2026-05-15 00:40:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 31f9cced-f24c-345a-9103-5725230a3136 | -12.0814 | -51.250198 | 2026-05-15 00:40:00 | METOP-B | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 566c27a4-4c35-3cac-88e6-d60930168e8f | -12.0791 | -51.2407 | 2026-05-15 00:40:00 | METOP-B | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 99dd2bb1-c20f-3cee-94d6-4d13ca0d9e05 | -11.308 | -54.027302 | 2026-05-15 00:40:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 78d880e1-02fb-31d5-b333-907cd366b3ae | -10.6623 | -49.702999 | 2026-05-15 00:40:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 68052fb3-d9e4-3f97-ae4b-b1c8cd97e4f9 | -10.6689 | -49.688099 | 2026-05-15 00:40:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7c706f09-a7e1-338a-9e7f-1f9c4a3149b1 | -11.1791 | -55.916698 | 2026-05-15 00:40:00 | METOP-B | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 3d2275bf-4cdc-3e30-9bc6-cf2890c24b10 | -11.9422 | -54.0937 | 2026-05-15 00:40:00 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a8263992-f9f6-368e-8cdc-04ac17d8443f | -10.6659 | -49.675701 | 2026-05-15 00:40:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4c9a843d-cbbe-3ed4-bd63-5e6865f614d2 | -11.9405 | -54.086498 | 2026-05-15 00:40:00 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 19ff34c1-8cb1-3eeb-9568-4d72f8c703da | -8.5405 | -45.975101 | 2026-05-15 00:40:00 | METOP-B | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 1a1589d8-3d22-3fe9-b331-ef448f39b7ce | -10.672 | -49.7005 | 2026-05-15 00:40:00 | METOP-B | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| eadd6b3a-1234-3979-9831-a05626dd4b75 | -8.7261 | -48.338001 | 2026-05-15 00:40:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| aa19e6df-a981-3b76-8bf6-ff88ef8a04e7 | -19.201 | -49.117699 | 2026-05-15 00:40:00 | METOP-B | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| a46d9ec8-d051-3659-8656-db68ad3761ca | -14.1777 | -52.867001 | 2026-05-15 00:40:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| fadd2ec5-39b9-3a0a-89e0-5bbc069d07dd | -9.2976 | -45.487701 | 2026-05-15 00:40:00 | METOP-B | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c1c1d5b1-abe6-3da5-b3dd-823c1ed07cfa | -11.1776 | -55.909698 | 2026-05-15 00:40:00 | METOP-B | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 078048e0-f73a-328f-8571-965c47a27b76 | -8.0947 | -44.1456 | 2026-05-15 00:50:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 73.0 |
-| 2203fcb6-4891-3549-8b83-880ada31923d | -15.6537 | -47.9272 | 2026-05-15 00:50:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 55.3 |
-| 68746300-9484-38b5-ab5b-093e1ba7e678 | -8.7211 | -48.3222 | 2026-05-15 00:50:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 67.2 |
-| df9a911e-7cb1-34bb-9f71-578633fd61a5 | -15.6537 | -47.9272 | 2026-05-15 01:00:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 81.0 |
-| e97d4403-a6ab-39c6-9cbb-81167c8f2095 | -15.6537 | -47.9272 | 2026-05-15 01:10:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 82.8 |
-| 9561154c-47cf-3371-823d-778fa51ca211 | -14.1802 | -52.8689 | 2026-05-15 01:10:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| f5631d1f-ec47-36d7-8f0d-027306d33f3f | -19.1982 | -49.1315 | 2026-05-15 01:10:00 | METOP-C | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 2e17539f-54ee-31a5-8f9a-751429a86e71 | -9.146 | -49.840199 | 2026-05-15 01:10:00 | METOP-C | CASEARA | TOCANTINS | Brasil | 1703909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 5831159a-03ce-3383-9197-aff76233b4a9 | -11.3123 | -54.038799 | 2026-05-15 01:10:00 | METOP-C | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c0cce964-a39b-3127-ad17-3f4d56ae621d | -10.6707 | -49.6982 | 2026-05-15 01:10:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ba7932b8-58f4-30d1-9139-f6e4cd965fab | -9.3122 | -45.480099 | 2026-05-15 01:10:00 | METOP-C | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 7a59fe53-f1e6-3c13-a541-349150c16829 | -15.6481 | -47.918598 | 2026-05-15 01:10:00 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
-| fdb7f680-1a6e-3291-80d3-3dfb948343e4 | -11.3107 | -54.0317 | 2026-05-15 01:10:00 | METOP-C | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 01f27205-2080-33bf-afe3-30da70395738 | -19.195801 | -49.121899 | 2026-05-15 01:10:00 | METOP-C | PRATA | MINAS GERAIS | Brasil | 3152808 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 0d9d7a37-3fbd-37a0-add2-9d102aadf384 | -12.0835 | -51.255901 | 2026-05-15 01:10:00 | METOP-C | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| c851e00c-8884-3cc5-b2bc-2a9043ac887e | -15.6384 | -47.9212 | 2026-05-15 01:10:00 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
-| 79881431-b135-3703-a2ad-60715d055026 | -15.6513 | -47.931301 | 2026-05-15 01:10:00 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
-| 26c15652-f715-3651-8b23-2adc27d1c5fc | -10.6805 | -49.695801 | 2026-05-15 01:10:00 | METOP-C | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a7399a78-d380-3712-8281-09ea3bcb6e73 | -12.0813 | -51.246899 | 2026-05-15 01:10:00 | METOP-C | SERRA NOVA DOURADA | MATO GROSSO | Brasil | 5107883 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 4f4671e7-8a72-3f10-8774-2e753add8211 | -15.6416 | -47.933899 | 2026-05-15 01:10:00 | METOP-C | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | nan |
-| cff9157d-548a-3c29-a52d-46c335950aeb | -9.5721 | -40.3475 | 2026-05-15 01:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 73.1 |
-| 08e90abd-de9e-3bda-963b-d9a89542bc2c | -15.6537 | -47.9272 | 2026-05-15 02:10:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 78.0 |
-| e73e8223-b851-36cc-9ee8-4b3c4b0f7399 | -15.6537 | -47.9272 | 2026-05-15 02:20:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 99.9 |
-| b94c5c96-6313-3531-9e3f-998efe7c14a8 | -15.6537 | -47.9272 | 2026-05-15 02:30:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 87.1 |
-| 32074786-f36d-3d03-b6fe-509cae98bb34 | -15.6341 | -47.9307 | 2026-05-15 02:30:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 65.6 |
-| 5336791a-a421-32fb-afce-e4418545cf4c | -15.6537 | -47.9272 | 2026-05-15 02:40:00 | GOES-19 | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 63.5 |
-| 008a54fb-ae58-3627-a0da-c9040b196eef | -9.553 | -40.3503 | 2026-05-15 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 82.3 |
-| c28e0add-0a61-363c-9b0b-39b2d5f4d0d2 | -9.5721 | -40.3475 | 2026-05-15 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 70.2 |
-| ebaaa173-0672-3002-ae1d-69a17c18fdb0 | -8.54795 | -45.98143 | 2026-05-15 03:45:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 37625670-0608-3dfc-90de-bd724bec283a | -10.56018 | -42.43403 | 2026-05-15 03:45:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
-| 2c249eff-7f5d-3e67-93c7-e2ecdfee27e2 | -12.04679 | -45.28348 | 2026-05-15 03:45:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 72fc9ae8-df6b-3ec9-9a68-ed60993134a0 | -10.66839 | -49.69985 | 2026-05-15 03:45:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 7b6e9028-d2ad-358f-853b-9d706041c026 | -10.67032 | -49.69301 | 2026-05-15 03:45:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 85da3e02-6b02-3bb0-a049-b20f355f2a14 | -10.66562 | -49.71303 | 2026-05-15 03:45:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 4.4 |
-| 7c6fa965-3a33-3a4c-aa8e-1bbbb410bfdc | -11.74105 | -44.52015 | 2026-05-15 03:45:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 335eea2d-2c76-3f78-a892-71049c997c54 | -8.55218 | -45.99056 | 2026-05-15 03:45:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| 06133bba-7a7c-3d12-b246-f9207dc3fa1e | -12.47752 | -45.44179 | 2026-05-15 03:45:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 4d2af87a-5116-3c3a-84b6-b88e225c4b0e | -6.38682 | -44.17163 | 2026-05-15 03:45:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5da89601-1a94-3ebe-8c48-c8a5ccc86e8d | -10.39239 | -46.66456 | 2026-05-15 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 8f0b2c73-c442-3ccb-bdc8-9cc9c6a15b4b | -12.50186 | -43.767 | 2026-05-15 03:45:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 2817ce75-1152-375f-ae96-f502375f44ab | -8.55294 | -45.98649 | 2026-05-15 03:45:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| daee03ae-276d-39ca-b6a9-0e4a2dcd4fbf | -10.66898 | -49.69961 | 2026-05-15 03:45:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 1a0fd2f4-9d07-3253-8941-6c4b1c5e4c95 | -10.55971 | -42.43451 | 2026-05-15 03:45:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 2.1 |
-| e94ddf50-752f-3107-abad-ce28441d301f | -8.54222 | -45.98036 | 2026-05-15 03:45:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 391509a7-0a83-38f5-b320-57eebef60ac8 | -10.30805 | -46.26287 | 2026-05-15 03:45:00 | NOAA-21 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 9003ec6c-0ae7-3f53-bd25-7e9eb77506e3 | -14.08337 | -42.11942 | 2026-05-15 03:45:00 | NOAA-21 | LAGOA REAL | BAHIA | Brasil | 2918753 | 29 | 33 | nan | nan | nan | Caatinga | 0.8 |
-| 5e1d52a9-69b9-3109-acb3-9784ce122d80 | -12.60298 | -44.50668 | 2026-05-15 03:45:00 | NOAA-21 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.6 |
-| 3880cd5a-76ad-32f6-9b5d-0d10cbd57cd4 | -12.85266 | -43.75767 | 2026-05-15 03:45:00 | NOAA-21 | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | 13.6 |
-| de56bfe9-808a-3656-9c86-7e4af892dc16 | -8.089 | -44.15403 | 2026-05-15 03:45:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| cc4fb575-debd-39d1-8b80-e1ee6b69d2a6 | -8.09247 | -44.16407 | 2026-05-15 03:45:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 187c856c-dfa8-39cd-981e-25c5f003933f | -12.50097 | -43.77194 | 2026-05-15 03:45:00 | NOAA-21 | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 26b3fcce-3c1e-32bb-978c-01b85f0ccc63 | -12.47234 | -45.44086 | 2026-05-15 03:45:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| e0f53013-cb4c-3f9d-b9ae-5e3df04cc496 | -10.66976 | -49.69328 | 2026-05-15 03:45:00 | NOAA-21 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 3093dde7-75e7-373e-a254-69c052b55582 | -8.70114 | -47.97458 | 2026-05-15 03:45:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| 6a77ba3e-e647-39f4-8063-50f66c6f8cc6 | -8.08583 | -44.1587 | 2026-05-15 03:45:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 6cd35952-416e-334f-9947-02e8591547ac | -8.50295 | -46.38474 | 2026-05-15 03:45:00 | NOAA-21 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
-| e5cebd17-ab7b-38b9-8a41-6c8748495333 | -12.48271 | -45.44273 | 2026-05-15 03:45:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 343a4ebf-45d5-376d-8aab-5ff31f340356 | -8.08845 | -44.15708 | 2026-05-15 03:45:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 4f650bfe-5a21-3b16-bc3c-f276f0ba5e25 | -6.39095 | -44.17913 | 2026-05-15 03:45:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| 0f8c6959-7028-3e2f-a330-5890f977fb69 | -6.39153 | -44.1758 | 2026-05-15 03:45:00 | NOAA-21 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 2.4 |
-| 13031087-1b7e-32ba-874f-c8a43a6a6932 | -10.95646 | -44.17648 | 2026-05-15 03:45:00 | NOAA-21 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 3.0 |
-| 8ccbbfac-dd02-363e-8c2c-2f05cfe1b27d | -11.73998 | -44.52584 | 2026-05-15 03:45:00 | NOAA-21 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 048724fb-dd9b-3784-8b46-9b754835f812 | -14.1831 | -52.8667 | 2026-05-16 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 70.5 |
+| 6ebcf8c6-1196-3bfc-870f-b224b7efddf9 | -14.1828 | -52.8878 | 2026-05-16 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 84.9 |
+| d0547285-58bc-30ec-93b2-b1cd7dc18ea7 | -14.1828 | -52.8878 | 2026-05-16 00:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| 316d6061-493f-33f3-ab67-505ba66ed6d9 | -14.1831 | -52.8667 | 2026-05-16 00:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 64.9 |
+| d911c013-892e-3310-9053-86e3ab0765ac | -14.1831 | -52.8667 | 2026-05-16 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 55.0 |
+| 0abeb585-7504-3638-bb17-b51f9a5045a4 | -14.1828 | -52.8878 | 2026-05-16 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 58.9 |
+| 6864d715-0221-3c0f-a015-d81574a5cdc8 | -14.3488 | -54.5584 | 2026-05-16 00:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| 42855345-36e9-32e7-8872-c044db1cc0b8 | -8.0761 | -44.1244 | 2026-05-16 00:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 72.4 |
+| 06503b56-2070-323b-b62a-7804494ecc5c | -12.0445 | -45.285801 | 2026-05-16 00:20:00 | METOP-B | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 80b97bd0-d8d2-3823-b650-caa7c5aa4ddc | -11.0422 | -48.9161 | 2026-05-16 00:20:00 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 49faf268-a0a7-3de7-bfe7-2aa4e9c8a7f0 | -9.456 | -47.8162 | 2026-05-16 00:20:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2d1b0d5c-ecf2-34de-9aa8-23564f6778f2 | -11.0439 | -48.923401 | 2026-05-16 00:20:00 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ebacf02b-05ff-377d-be51-30315c41c3bf | -11.5996 | -48.023201 | 2026-05-16 00:20:00 | METOP-B | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| c22ea5f3-2fc2-3df5-875f-9b02f5f963f2 | -14.3562 | -54.545399 | 2026-05-16 00:20:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 4da8ee8b-9f27-3431-9aeb-6244762182ad | -11.7434 | -44.5191 | 2026-05-16 00:20:00 | METOP-B | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| c82bc6b4-fa90-38c3-94df-f2014736e493 | -11.7405 | -44.507301 | 2026-05-16 00:20:00 | METOP-B | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| c13518b9-1ea2-318f-beaf-cc233703fca5 | -13.034 | -49.926399 | 2026-05-16 00:20:00 | METOP-B | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 607a5bb3-167d-3853-979e-5ddca35cebd0 | -12.8451 | -43.750702 | 2026-05-16 00:20:00 | METOP-B | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| a2bec020-ba2a-3e6f-8b53-491bacd0c7f8 | -14.1836 | -52.8629 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 322a565e-0c17-3a70-9042-0969a6626a0f | -11.4877 | -52.911301 | 2026-05-16 00:20:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 128e7bd7-3544-3598-a670-08440662d4b4 | -14.1738 | -52.865002 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| d0f2bdf0-e7a5-3f36-b95f-1ee642dcaeae | -14.1756 | -52.873299 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 952aec2b-1dcc-39cc-ba3b-4940f7512e75 | -11.4403 | -54.082802 | 2026-05-16 00:20:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8c4f1161-49ca-3125-bb84-d745cc76cadd | -8.0806 | -44.1408 | 2026-05-16 00:20:00 | METOP-B | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 8bd8d51f-9376-3071-b3f3-58412241c429 | -11.8711 | -43.8652 | 2026-05-16 00:20:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 76022196-a6a0-3a2d-86a7-a60d089e0166 | -16.4289 | -52.787498 | 2026-05-16 00:20:00 | METOP-B | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f9f4c6d8-98aa-3b9e-acfe-50a71b0c9676 | -11.5978 | -48.0154 | 2026-05-16 00:20:00 | METOP-B | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 8f992a9b-a9c5-303f-b94d-35bff4f600e0 | -14.1819 | -52.8545 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 72c91e31-16a8-342a-ba05-1b5c689fa4cd | -14.1854 | -52.871201 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| c2379ab9-925a-3b2b-a1e7-a51bbc37226f | -13.0356 | -49.933399 | 2026-05-16 00:20:00 | METOP-B | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| ae131a5c-1dc7-3636-a1d0-c67826920495 | -11.486 | -52.9034 | 2026-05-16 00:20:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ac07fdd3-90f4-3ef4-a8ad-0feb9aeb868c | -8.0771 | -44.126499 | 2026-05-16 00:20:00 | METOP-B | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 4ad2dd52-b080-3d1c-837c-fa5c7b26b71e | -14.1871 | -52.879601 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| b4f65c1e-02a0-35be-a0a6-edff6b5d0a64 | -14.1773 | -52.881699 | 2026-05-16 00:20:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 9808d118-71aa-3224-890c-e14ba69eabfe | -11.8679 | -43.8522 | 2026-05-16 00:20:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| f0699756-109a-3edc-bf6e-c84635c983f9 | -8.0736 | -44.112202 | 2026-05-16 00:20:00 | METOP-B | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 46408b5e-9105-334a-8928-2b2f0820753e | -9.794 | -48.070202 | 2026-05-16 00:20:00 | METOP-B | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 5914e17d-14b6-36b7-8f92-849632080840 | -14.1831 | -52.8667 | 2026-05-16 00:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 57.7 |
+| 2c033b46-943b-35a3-b700-9581bf608094 | -14.1828 | -52.8878 | 2026-05-16 00:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| dabda341-02fb-33b3-8510-72afcd2cfe38 | -8.0761 | -44.1244 | 2026-05-16 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 66.8 |
+| 9757960a-afe6-3298-b793-8c6416fdd4ea | -16.42355 | -52.80466 | 2026-05-16 00:30:00 | TERRA_M-M | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| 53efc3ff-214f-39e4-947c-e0539831e2bd | -16.16529 | -58.48338 | 2026-05-16 00:30:00 | TERRA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 17.2 |
+| 3bb27900-d391-3eac-9eb1-f1534d364ccb | -16.42231 | -52.79544 | 2026-05-16 00:30:00 | TERRA_M-M | TORIXORÉU | MATO GROSSO | Brasil | 5108204 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 962acc6a-4631-347d-82bf-74888b08d532 | -16.16739 | -58.47666 | 2026-05-16 00:30:00 | TERRA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 19.5 |
+| a76ffc65-8290-372b-9573-9e0507335a46 | -16.16943 | -58.49592 | 2026-05-16 00:30:00 | TERRA_M-M | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 11.9 |
+| 84b18b76-0382-31d2-9a58-0c8659116743 | -8.85762 | -50.21344 | 2026-05-16 00:33:00 | TERRA_M-M | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| 7a696d64-a8df-39ff-924c-cd79534ff5b1 | -14.16616 | -52.8724 | 2026-05-16 00:33:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 6b012aa4-4038-3b71-8e5b-2298f18009ab | -11.87606 | -43.87672 | 2026-05-16 00:33:00 | TERRA_M-M | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 82.4 |
+| 6c769c95-c35c-337b-8fa6-0c3f9bcc19d0 | -13.03836 | -49.9374 | 2026-05-16 00:33:00 | TERRA_M-M | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| f4e1c70e-ba7f-3488-ad8a-10cceecdca57 | -14.17744 | -52.88917 | 2026-05-16 00:33:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 43.5 |
+| 6e4c6f0b-6d37-3bd3-8430-1f0d2baaa8cd | -14.17497 | -52.8711 | 2026-05-16 00:33:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 13.6 |
+| 1face52c-3d6b-3b22-8e08-f21afc65b23d | -11.86689 | -43.88525 | 2026-05-16 00:33:00 | TERRA_M-M | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 62.6 |
+| 736262af-0723-335b-a87f-a66e44c6fbc1 | -11.48109 | -52.91221 | 2026-05-16 00:33:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 7.8 |
+| 20947250-a377-3e24-b4f9-2791c2147408 | -11.48234 | -52.92117 | 2026-05-16 00:33:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 16.8 |
+| a323a3f4-31ee-395e-9098-7fe2204b3c33 | -13.02861 | -49.93901 | 2026-05-16 00:33:00 | TERRA_M-M | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 20.1 |
+| dd216eb5-2545-3664-bc20-4ece998f6d8c | -14.35499 | -54.56323 | 2026-05-16 00:33:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 4448a072-3c04-3dfc-b6ba-f91447caf5a4 | -11.4403 | -54.09174 | 2026-05-16 00:33:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 14.1 |
+| c45f4df5-9a5f-3c36-8fbf-e5c6ecaef806 | -11.03748 | -48.92817 | 2026-05-16 00:33:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 5d9ed0cd-b52f-3e42-b667-883b582bba0c | -8.08103 | -44.14051 | 2026-05-16 00:33:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 141.7 |
+| 74cad107-451a-32b9-8796-7065b5ec05a0 | -14.21261 | -54.66597 | 2026-05-16 00:33:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 19b1e727-03f1-37e1-8118-c2655a9f0840 | -14.35371 | -54.55329 | 2026-05-16 00:33:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 10.4 |
+| 6436fdcd-bb71-3a75-a86e-1d61da1632d8 | -11.44152 | -54.10084 | 2026-05-16 00:33:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 12.8 |
+| c463f815-92c3-379b-8305-4f6cd816580a | -11.59962 | -48.03389 | 2026-05-16 00:33:00 | TERRA_M-M | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 20.6 |
+| c30d4323-9742-39d5-b18b-e9002db8f9d3 | -8.08575 | -44.1326 | 2026-05-16 00:33:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 121.1 |
+| 65f22e00-7a1f-3b81-8709-55a0752c1381 | -14.17621 | -52.88014 | 2026-05-16 00:33:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 22.1 |
+| 43e009c3-9018-3f26-9b57-4ee560a3c22c | -12.0241 | -47.80126 | 2026-05-16 00:33:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| 1511cabf-d0dc-3892-8bc0-908194a88663 | -11.74636 | -44.53033 | 2026-05-16 00:33:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 31.1 |
+| 3680a930-7eeb-336f-9a41-66a120ea7ee9 | -10.91847 | -54.11921 | 2026-05-16 00:33:00 | TERRA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
+| 89fd4d7f-1fab-36fc-aa3b-ded11a8d747e | -14.19669 | -54.68854 | 2026-05-16 00:33:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 8.3 |
+| bb633f95-0774-3934-88dd-03f3e152e3c3 | -8.0761 | -44.1244 | 2026-05-16 00:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 75.8 |
+| a6846bd5-ef63-3eac-bc75-b2d368d6250f | -14.1831 | -52.8667 | 2026-05-16 00:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 50.2 |
+| b85a2ede-f970-389f-badd-e12406cefac0 | -11.5971 | -48.031601 | 2026-05-16 00:47:00 | METOP-C | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 63821793-6946-390e-b737-a64e2bc53c80 | -17.353001 | -42.621201 | 2026-05-16 00:47:00 | METOP-C | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| d11df0ed-818a-3ac7-9029-735cb5e348bf | -14.1841 | -52.8801 | 2026-05-16 00:47:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| e9b401ff-6940-3fe3-88dd-1f04fd69b99f | -12.0291 | -47.802799 | 2026-05-16 00:47:00 | METOP-C | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0a25921e-9606-3164-b939-ef1097f85d3e | -13.0325 | -49.936199 | 2026-05-16 00:47:00 | METOP-C | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 7bc73d69-3e2d-3991-9cbe-4f80ff4f0733 | -14.1804 | -52.862499 | 2026-05-16 00:47:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 97577045-58d8-3890-aa38-93cd7cd8af07 | -14.1725 | -52.873402 | 2026-05-16 00:47:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| dcf4fc2b-c28f-37db-bc2b-2a578d2a91b8 | -13.0309 | -49.929199 | 2026-05-16 00:47:00 | METOP-C | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 3fdafd09-ccf3-3955-9aad-a1e92e977ce6 | -11.8755 | -43.863602 | 2026-05-16 00:47:00 | METOP-C | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 1b855e89-4634-37db-85fa-28638e896058 | -8.7044 | -47.980301 | 2026-05-16 00:47:00 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 850d60de-2cd4-3397-9bb2-04cef0a94d2a | -12.8515 | -43.7537 | 2026-05-16 00:47:00 | METOP-C | SERRA DOURADA | BAHIA | Brasil | 2930303 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 1728f146-192f-3900-b91d-4c1e8ab346c8 | -9.4616 | -47.819099 | 2026-05-16 00:47:00 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 98414560-62be-3397-9d69-c77cffd73902 | -8.0919 | -44.1395 | 2026-05-16 00:47:00 | METOP-C | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| c26af8bb-3dbb-3adb-bd81-45ed6ce834b6 | -11.8785 | -43.875599 | 2026-05-16 00:47:00 | METOP-C | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 663d5474-7589-3607-8a6e-2ee0f8c43150 | -13.0341 | -49.943199 | 2026-05-16 00:47:00 | METOP-C | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 406ef999-d5b3-34b8-bb27-a5d7b65a9151 | -14.1823 | -52.8713 | 2026-05-16 00:47:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| a24e79a0-8c7b-3f52-a888-4f95b3020030 | -11.5953 | -48.0242 | 2026-05-16 00:47:00 | METOP-C | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 7c02a9af-d2b6-3bd4-b578-467c04460c21 | -10.9148 | -54.119701 | 2026-05-16 00:47:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4fa3abad-63b0-36cd-9f40-71572491d18e | -8.0854 | -44.1129 | 2026-05-16 00:47:00 | METOP-C | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 3eb3314d-5f27-3b8a-8b8e-1b40b8b1a1eb | -17.35 | -42.6092 | 2026-05-16 00:47:00 | METOP-C | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| bcad4256-8e7f-37d7-b669-d24d06774cd3 | -11.7488 | -44.5215 | 2026-05-16 00:47:00 | METOP-C | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 5454dfc9-e932-3eff-9bb8-5101d1b1d19f | -14.1743 | -52.882198 | 2026-05-16 00:47:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 6ab89813-f55f-3d7c-b70c-1ce0d11cbd62 | -8.7026 | -47.972401 | 2026-05-16 00:47:00 | METOP-C | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 04d24152-b972-3026-ae40-5749e2c972b2 | -14.1761 | -52.890999 | 2026-05-16 00:47:00 | METOP-C | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| cfbb985c-40da-3a38-bd10-6d188fab305d | -12.0273 | -47.7952 | 2026-05-16 00:47:00 | METOP-C | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 41b3c3d5-87d0-3933-9fb2-2fe2fa105c6d | -11.8725 | -43.851501 | 2026-05-16 00:47:00 | METOP-C | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 9dbdfd3b-50f1-3c35-b6c7-baa63cbe83c1 | -8.0887 | -44.126202 | 2026-05-16 00:47:00 | METOP-C | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 121ae27d-3cab-3eba-9d3a-26b0457292b4 | -11.7461 | -44.510399 | 2026-05-16 00:47:00 | METOP-C | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 8b83cb00-5235-37a2-8cf8-f2e8ec73cf79 | -9.7903 | -48.076199 | 2026-05-16 00:47:00 | METOP-C | TOCANTÍNIA | TOCANTINS | Brasil | 1721109 | 17 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
