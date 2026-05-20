@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| ae19ae01-9444-3993-860a-42afd99bae60 | -9.3045 | -45.4809 | 2026-05-19 00:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 76.6 |
-| 7060ce56-5614-362f-9e6f-56f8e8378d9b | -14.1442 | -52.8926 | 2026-05-19 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 73.8 |
-| 2b3a0d59-8d08-32f0-9b63-7840d089cc1f | -8.0761 | -44.1244 | 2026-05-19 00:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 67.4 |
-| 2c893502-1354-3e37-8576-0eecca1d7c73 | -14.1638 | -52.8691 | 2026-05-19 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 97.2 |
-| d6487c54-dfea-3e48-8538-91974fba1695 | -8.0764 | -44.1012 | 2026-05-19 00:00:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 86.7 |
-| 2e93fa21-cf60-30e3-981a-fef394118054 | -10.443 | -47.945 | 2026-05-19 00:00:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 55.8 |
-| cffb6937-ef8f-39f2-82b2-42ba2883d29c | -8.7211 | -48.3222 | 2026-05-19 00:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 88.6 |
-| c1394aa4-9aa0-313a-a198-08406bc39d09 | -14.1635 | -52.8902 | 2026-05-19 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 123.9 |
-| 34ba852d-3237-3c86-b1f4-9d8d78e81fc5 | -10.462 | -47.9428 | 2026-05-19 00:00:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 71.2 |
-| afa36eb4-b6e9-37a5-b615-4be35f241009 | -9.3045 | -45.4809 | 2026-05-19 00:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| 8f8c566b-e874-3ec9-97ed-6ecaff93b46f | -8.7211 | -48.3222 | 2026-05-19 00:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 78.6 |
-| 3051c081-1fe5-3ee0-8c08-827d7bdb0b46 | -14.1635 | -52.8902 | 2026-05-19 00:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 121.2 |
-| 8577fdf3-8a4d-3cf9-a9ac-b2df019f6ff6 | -14.1638 | -52.8691 | 2026-05-19 00:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 85.7 |
-| 288a1316-c6da-30d5-a129-e4178210be19 | -10.462 | -47.9428 | 2026-05-19 00:10:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 68.1 |
-| 47169408-b781-3bfa-bb0e-f1f45ae819d7 | -8.0952 | -44.0993 | 2026-05-19 00:10:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 72.1 |
-| cca24018-1b52-3494-b427-525e2fef9d4b | -8.0764 | -44.1012 | 2026-05-19 00:10:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 72.2 |
-| 862927c4-146d-35a8-9944-22992155eadc | -14.1442 | -52.8926 | 2026-05-19 00:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 72.5 |
-| a5c0d181-f4cf-3797-ba2a-247c565f92f5 | -8.0761 | -44.1244 | 2026-05-19 00:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 5c0543a5-20a1-3044-933d-ffaf8384e11a | -8.7208 | -48.3441 | 2026-05-19 00:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 56.8 |
-| 031b6c1f-5be4-325f-a057-c0e4a362f959 | -11.4447 | -55.1199 | 2026-05-19 00:20:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 42.0 |
-| 1199662b-6bb6-3bd5-9959-d7f9b1798f34 | -11.4636 | -55.1182 | 2026-05-19 00:20:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 51.2 |
-| 4f55f82e-8a2e-3cc9-a904-249df00348f8 | -14.1638 | -52.8691 | 2026-05-19 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 95.1 |
-| 0909698f-a5c5-39c3-92b4-2ecd75200c9f | -10.462 | -47.9428 | 2026-05-19 00:20:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| c173b944-5aee-33d4-8680-f1922544d44e | -14.1442 | -52.8926 | 2026-05-19 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 75.2 |
-| 3faf7ac3-0d28-3142-8b17-4a6ffae337e8 | -8.7211 | -48.3222 | 2026-05-19 00:20:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 84.3 |
-| 1b816417-25ce-39ba-912c-7fab833ee95f | -14.1635 | -52.8902 | 2026-05-19 00:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 111.9 |
-| 216af834-03f7-3bbd-b34a-e47319b61e15 | -8.0764 | -44.1012 | 2026-05-19 00:20:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 74.6 |
-| 5db84627-2451-320a-a4f6-32f3138c59b9 | -9.3045 | -45.4809 | 2026-05-19 00:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 85.9 |
-| 834d025c-8a37-3863-abf9-44a96d69bd44 | -8.7211 | -48.3222 | 2026-05-19 00:30:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 80.9 |
-| 881c4067-ca14-399e-9658-03bc455be917 | -14.1635 | -52.8902 | 2026-05-19 00:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 111.5 |
-| 8cdc997d-b927-3e97-a879-84a98319005d | -10.462 | -47.9428 | 2026-05-19 00:30:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| 22248662-35d7-374a-a301-27c10ca0ae04 | -11.4636 | -55.1182 | 2026-05-19 00:30:00 | GOES-19 | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 47.2 |
-| eb1e8a26-d069-3537-a6b3-647fa2bae2cd | -14.1638 | -52.8691 | 2026-05-19 00:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 91.0 |
-| be50ff8c-7f56-34ca-b82d-cae5c5522b4c | -9.3045 | -45.4809 | 2026-05-19 00:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 98.9 |
-| d2a8a0c9-e51b-3ea8-9219-a4f20b595498 | -14.1442 | -52.8926 | 2026-05-19 00:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 71.4 |
-| d8a6e8c7-a5a3-355d-9c0e-be2a11251457 | -14.1635 | -52.8902 | 2026-05-19 00:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 118.1 |
-| ade17369-2cc2-364b-befe-373f159e7614 | -8.7211 | -48.3222 | 2026-05-19 00:40:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 64.3 |
-| 2bdcb8b7-705a-3802-9bc6-c9430abdbed6 | -14.1638 | -52.8691 | 2026-05-19 00:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 81.9 |
-| 94cfb336-c2e4-36cb-b342-36689014853a | -10.462 | -47.9428 | 2026-05-19 00:40:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 59.4 |
-| a26d0eda-ca7c-33c5-a219-4ea3943e4d8e | -9.3045 | -45.4809 | 2026-05-19 00:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 90.7 |
-| e8f8f8f0-66e1-34ae-b73b-69449bf521c8 | -8.7211 | -48.3222 | 2026-05-19 00:50:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 63.5 |
-| 86197521-08fc-3ed8-833e-f5312bc8b6f8 | -14.1638 | -52.8691 | 2026-05-19 00:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| 4bf4be4e-449d-31ad-b714-bbe64d1cb093 | -10.462 | -47.9428 | 2026-05-19 00:50:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 59.5 |
-| ba8b6b39-f57e-3f56-87bc-43f4837772c6 | -9.3045 | -45.4809 | 2026-05-19 00:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 79.8 |
-| 85c2b58c-eed0-3777-a6ef-a1fa71f23241 | -14.1635 | -52.8902 | 2026-05-19 00:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 116.5 |
-| c936d9a0-d6a4-3221-bb56-19326ff1d1c7 | -14.1442 | -52.8926 | 2026-05-19 00:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 70.6 |
-| fc378cc8-7b59-3412-8f53-da9aa3ff570a | -14.16398 | -52.89344 | 2026-05-19 00:50:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.0 |
-| 9881d094-16cb-33d9-8b7c-17d42ce86031 | -14.15074 | -52.88078 | 2026-05-19 00:50:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| d870b044-7a83-3f92-b167-ebea1c541ce7 | -10.45937 | -47.95892 | 2026-05-19 00:50:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 67.0 |
-| 27532feb-1d5f-3fa1-9de0-049eb603471a | -11.60221 | -55.33431 | 2026-05-19 00:50:00 | TERRA_M-M | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| 1509ba86-86a2-3be2-b000-0ce536d6f25d | -11.44654 | -55.10594 | 2026-05-19 00:50:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
-| 942e2cfd-645f-3ffb-b4b5-2c8496bbcb53 | -14.16169 | -52.87891 | 2026-05-19 00:50:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 88.2 |
-| be2ff68f-6408-3ce2-9fad-bd51ff23300d | -10.45046 | -47.92348 | 2026-05-19 00:50:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 48.3 |
-| 1819b1a8-6fb0-3631-806c-0df22574c9ce | -10.45728 | -47.96396 | 2026-05-19 00:50:00 | TERRA_M-M | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 60.5 |
-| 828cc572-8993-364e-bda0-78aa85402b45 | -14.17491 | -52.89151 | 2026-05-19 00:50:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| ae26e36c-c789-39cb-909f-0dc61434a41e | -14.15304 | -52.89537 | 2026-05-19 00:50:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.3 |
-| 70625856-6bdb-3b9d-89b7-e40dca226d54 | -11.45872 | -52.92121 | 2026-05-19 00:50:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 30.8 |
-| fa238cf3-0906-364d-b5be-d98d128e87ab | -11.74966 | -54.80025 | 2026-05-19 00:50:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 6.9 |
-| a5be4932-c610-3d0a-9a35-676d86291581 | -11.4482 | -55.11713 | 2026-05-19 00:50:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 20.3 |
-| 1c1dbb90-6e7b-3f52-9ee5-44e1bbdeafc7 | -10.66957 | -49.71049 | 2026-05-19 00:50:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| c60595e8-eafb-324f-b4e6-28270617cd5e | -11.45798 | -55.11562 | 2026-05-19 00:50:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 31.6 |
-| 2aeb2010-f8c3-3335-a61f-a70cefe6d42a | -8.71685 | -48.34332 | 2026-05-19 00:52:00 | TERRA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 106.8 |
-| 14091067-c040-3622-ba15-ed8bcb50eaf0 | -6.57168 | -51.12382 | 2026-05-19 00:52:00 | TERRA_M-M | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | 22.5 |
-| cf5a3965-c828-3166-bbe0-d999aea4de1d | -8.71525 | -48.351 | 2026-05-19 00:52:00 | TERRA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 74.0 |
-| 56170a6b-c8db-3bd3-a4eb-6a28cc065267 | 3.40612 | -60.95027 | 2026-05-19 00:54:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| 86e9313b-bfda-3590-ad00-0e704484e84b | 3.40732 | -60.94151 | 2026-05-19 00:54:00 | TERRA_M-M | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | 13.7 |
-| 9f3a1562-936f-30b3-975e-38ec2b5d7db8 | -8.7131 | -48.3307 | 2026-05-19 00:58:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| dcc80c85-27b4-399c-b66b-591adbf52c4a | -14.1411 | -52.8843 | 2026-05-19 00:58:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 85eace32-9819-3874-acda-7c806a49a742 | -10.4383 | -47.926201 | 2026-05-19 00:58:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 32c2e2c0-435c-38f2-b0f4-be5a633d1c01 | 3.4064 | -60.928398 | 2026-05-19 00:58:00 | METOP-B | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 5e708b1b-20e9-3c27-a839-cb52365f636b | -14.1508 | -52.881699 | 2026-05-19 00:58:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 91171313-fa69-38b4-9dce-8ba98d59f8e0 | -11.4532 | -55.105099 | 2026-05-19 00:58:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 583126a1-6ccd-3b0c-9cbe-49bd3844793e | -14.1605 | -52.879101 | 2026-05-19 00:58:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 72c0afb2-3e6b-341d-beaf-7448b7554740 | -10.4478 | -47.923599 | 2026-05-19 00:58:00 | METOP-B | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| b12c3353-8543-3609-b543-6e702a71af07 | -14.1475 | -52.868401 | 2026-05-19 00:58:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 019695e9-eb0a-3f35-a687-32b0f4687c1e | -8.7044 | -48.2976 | 2026-05-19 00:58:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f1346955-4dc3-3203-9bbb-48bbd4e4dc61 | 3.4047 | -60.9361 | 2026-05-19 00:58:00 | METOP-B | BOA VISTA | RORAIMA | Brasil | 1400100 | 14 | 33 | nan | nan | nan | Amazônia | nan |
-| 68aa5b0f-f9cb-3aa9-b778-bf83ec1feb38 | -14.1572 | -52.865799 | 2026-05-19 00:58:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 41c2ef74-f7bf-36a2-8797-ec3af0f88962 | -11.4507 | -55.094501 | 2026-05-19 00:58:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 59fb4e87-9ff7-3325-bfd3-78f9b08e1237 | -6.5627 | -51.074402 | 2026-05-19 00:58:00 | METOP-B | OURILÂNDIA DO NORTE | PARÁ | Brasil | 1505437 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 23b9ee43-1ccb-3c3e-bfee-b4b70b7b7077 | -14.1638 | -52.8691 | 2026-05-19 01:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 84.4 |
-| e0f1dfce-d698-3fe3-a4e5-8e859533b8f9 | -14.1635 | -52.8902 | 2026-05-19 01:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 104.4 |
-| 8066c034-fdee-332e-9405-9ce7775292f9 | -9.3045 | -45.4809 | 2026-05-19 01:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 79.0 |
-| 5feea064-6c02-3e5c-a47a-22a6fa025aed | -10.462 | -47.9428 | 2026-05-19 01:00:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 53.5 |
-| e5d06400-7517-3cee-96af-9b44dd82b661 | -8.7211 | -48.3222 | 2026-05-19 01:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 63.6 |
-| c31f1434-af56-3da9-bae9-d987afa3d28a | -10.462 | -47.9428 | 2026-05-19 01:10:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 56.1 |
-| 12eb85f9-e10f-3c92-b077-f899554b6aae | -6.3833 | -44.1674 | 2026-05-19 01:10:00 | GOES-19 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 72.3 |
-| 21d6c030-3de0-3077-bdde-86ca0c496a17 | -9.3045 | -45.4809 | 2026-05-19 01:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 63.1 |
-| f11077a7-7dd3-3f50-a475-ab856a4a1beb | -6.4021 | -44.1658 | 2026-05-19 01:10:00 | GOES-19 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| a1653ed4-bb82-37d0-8460-ace5cd1e610c | -14.1638 | -52.8691 | 2026-05-19 01:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 78.8 |
-| 785aad45-5e75-377e-ad6c-ca441190970a | -8.7211 | -48.3222 | 2026-05-19 01:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 66.2 |
-| be181445-2876-3483-b067-0ff7afac9783 | -14.1635 | -52.8902 | 2026-05-19 01:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 110.7 |
-| 48219430-1d1c-3e8f-ab5d-ea058573048c | -14.1638 | -52.8691 | 2026-05-19 01:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 80.1 |
-| 3a007fc7-25ef-37c5-9c46-26e354043fd6 | -8.7211 | -48.3222 | 2026-05-19 01:20:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 140aedb6-e11e-3a8e-ba4f-a39cb215c3dd | -6.3833 | -44.1674 | 2026-05-19 01:20:00 | GOES-19 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 71.3 |
-| 902dd84c-bca4-3f96-ab71-18786e9f359e | -14.1635 | -52.8902 | 2026-05-19 01:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 106.3 |
-| f2222b60-9465-36ae-ae69-2a91319a91e6 | -10.462 | -47.9428 | 2026-05-19 01:20:00 | GOES-19 | MONTE DO CARMO | TOCANTINS | Brasil | 1713601 | 17 | 33 | nan | nan | nan | Cerrado | 60.1 |
-| d1718bc4-04b2-3b56-9042-26b20b0022b1 | -6.4021 | -44.1658 | 2026-05-19 01:20:00 | GOES-19 | SUCUPIRA DO NORTE | MARANHÃO | Brasil | 2111904 | 21 | 33 | nan | nan | nan | Cerrado | 74.6 |
-| 7296b05c-4958-3caa-b280-bea74d5f83ec | -14.1635 | -52.8902 | 2026-05-19 01:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 93.4 |
-| 65074622-2c55-3ed0-b3a2-f7a578e9ddbb | -14.1638 | -52.8691 | 2026-05-19 01:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 81.5 |
+| 24d4e773-4011-3e72-814a-60067d27b564 | -8.0952 | -44.0993 | 2026-05-20 00:00:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| 40a8d0c3-5bd8-3d1c-b07f-09de3005ea7b | -11.6123 | -55.3283 | 2026-05-20 00:00:00 | GOES-19 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 73.3 |
+| 4974b7e7-76b0-3901-9460-f6ee087d73e3 | -12.6011 | -44.521 | 2026-05-20 00:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 47.1 |
+| 8f5a324e-0984-3bf0-a1fa-224eca61ec6b | -8.095 | -44.1224 | 2026-05-20 00:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| e42d8351-0b9d-3680-97e0-61db372166d8 | -11.6123 | -55.3283 | 2026-05-20 00:10:00 | GOES-19 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 63.8 |
+| fe86f399-11d3-3cce-81e8-92e3e6a900d6 | -8.0952 | -44.0993 | 2026-05-20 00:10:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 60.4 |
+| db5c09a2-2e53-3bed-9646-e115b6f8b891 | -8.095 | -44.1224 | 2026-05-20 00:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 68.0 |
+| e765a59e-0de0-31d0-a91e-9f35fcc79939 | -12.6011 | -44.521 | 2026-05-20 00:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.9 |
+| 1a450d6b-ff9a-3816-bbca-1a7df6483a52 | -12.6011 | -44.521 | 2026-05-20 00:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 45.7 |
+| 8a707e31-fdca-3a8b-bc31-36f31e817e60 | -11.6123 | -55.3283 | 2026-05-20 00:20:00 | GOES-19 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 69.5 |
+| 1592f251-85eb-3aa1-a3a7-6e425a1116d9 | -8.0952 | -44.0993 | 2026-05-20 00:20:00 | GOES-19 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 53.0 |
+| 6bb0b65d-03a2-33bb-9aeb-1ee4dabe80ad | -8.095 | -44.1224 | 2026-05-20 00:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 50.8 |
+| 40cffd09-4a39-3380-84ac-5b769955d39e | -11.6123 | -55.3283 | 2026-05-20 00:30:00 | GOES-19 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 55.8 |
+| 14979b1c-6add-3459-9b33-f24b2df26b1a | -8.095 | -44.1224 | 2026-05-20 00:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 54.6 |
+| cbbb6f0d-c3a2-34d3-b548-a7914c2b2ca3 | -12.6011 | -44.521 | 2026-05-20 00:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 47.6 |
+| 3229855e-c551-33e3-8459-bbf088757609 | -11.7997 | -57.351898 | 2026-05-20 00:37:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ee1829c0-db9d-3efb-9cfa-354042643e74 | -11.6065 | -54.186699 | 2026-05-20 00:37:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| eec2c801-6f67-31d7-b67c-cc290aba5fba | -12.5969 | -44.526402 | 2026-05-20 00:37:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| fe309699-4540-3cd5-a7bf-ae8cc35e35cc | -14.1576 | -52.886799 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| c878c916-ecf1-3c01-a9cb-816f2c429cbc | -9.9514 | -52.460999 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4397a84b-3a2d-36f7-9db5-f3009bc339ed | -7.6235 | -50.039902 | 2026-05-20 00:37:00 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 7dc3f7da-edae-3e64-a628-728aa8867d85 | -14.1478 | -52.889198 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f4f6685a-6741-3bcd-9072-dc010ffaa691 | -14.1461 | -52.881802 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 9ae9581c-db0a-33ae-933e-a8c5457df1a3 | -11.6049 | -54.179699 | 2026-05-20 00:37:00 | METOP-B | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 368eb397-55ee-35d1-846d-3365d7bf113e | -10.1139 | -52.405499 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f92abe38-9ae4-3822-8eaa-29169d71a1c3 | -8.7271 | -47.970901 | 2026-05-20 00:37:00 | METOP-B | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 13e0fb72-981d-34f6-be19-d5ae5e1893bc | -12.457 | -54.439602 | 2026-05-20 00:37:00 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7091200b-5635-3204-9204-83ef25e4da2f | -8.0942 | -44.134899 | 2026-05-20 00:37:00 | METOP-B | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 40dd227a-f71d-313d-a197-e60df9ded24a | -11.4531 | -55.109501 | 2026-05-20 00:37:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 98931288-fe5a-3fb7-a01e-185b9f20f144 | -14.1722 | -52.860199 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 64238c25-e686-3735-9eff-4cd2f6b00812 | -9.9695 | -52.4058 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e1e72d8f-1ef5-3d91-8c8a-233e4831b1b3 | -14.8468 | -48.527302 | 2026-05-20 00:37:00 | METOP-B | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 9a7561d4-70a7-30fc-b654-ff1fa25cf28f | -9.9597 | -52.408199 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c669a18b-c93e-3348-902e-a8955bba92f2 | -7.6207 | -50.028301 | 2026-05-20 00:37:00 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2872d765-b548-3e9a-b543-147c557c1b48 | -11.4629 | -55.1073 | 2026-05-20 00:37:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2926275e-8f2e-3149-a8d2-26f0c3ffd7d5 | -11.9131 | -43.857498 | 2026-05-20 00:37:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 78a39de5-64c0-335b-a6ca-8d74d0606a32 | -9.8949 | -52.440498 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9c8bf5e9-d494-347e-8df2-eaa5dd01e008 | -14.1624 | -52.862499 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 455d1386-c2bc-3232-b3a2-1496b20c88ce | -11.4645 | -55.114201 | 2026-05-20 00:37:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1197414a-9154-3d26-b1bf-f0444c5b5681 | -11.6152 | -55.329102 | 2026-05-20 00:37:00 | METOP-B | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 153a4004-8335-332a-9485-dad8c16bf694 | -9.8931 | -52.4324 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f5e9e531-661a-3fed-95a9-dd1ffa3d12b1 | -11.0391 | -49.527599 | 2026-05-20 00:37:00 | METOP-B | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 8f020e2f-cb27-3dac-bfbe-83d13b3249ae | -14.1559 | -52.879398 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| d0210e04-ea9b-38bc-8f6d-c3ae4b545dbd | -14.1542 | -52.872101 | 2026-05-20 00:37:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 10aba69a-17df-39bd-8286-3fb14acabe42 | -12.4585 | -54.446602 | 2026-05-20 00:37:00 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fef7e0ac-c6eb-326d-8197-5e0cf770dbfe | -10.4825 | -49.362499 | 2026-05-20 00:37:00 | METOP-B | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 7ddfff56-81db-3d1e-bee4-40394402f275 | -11.0057 | -53.991901 | 2026-05-20 00:37:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6aef961f-3578-3241-94f5-695e8c0ab7a1 | -8.0868 | -44.105999 | 2026-05-20 00:37:00 | METOP-B | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 153cab18-edfa-3b3b-8449-ce107d6f57fa | -11.6136 | -55.322102 | 2026-05-20 00:37:00 | METOP-B | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3e502b54-8266-346d-ace7-3ca6a3a26a91 | -9.8852 | -52.442799 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2e6fe06c-fea7-3a09-8925-0da1fb063c08 | -8.7309 | -47.986301 | 2026-05-20 00:37:00 | METOP-B | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 21a56d96-cdf8-31f2-ab78-ad2a80e91afa | -12.5908 | -44.503601 | 2026-05-20 00:37:00 | METOP-B | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| a94dc379-b9e5-3d6c-9845-54380c82d2be | -9.8833 | -52.4347 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7ad9a986-332e-3475-b093-de1ae3f9b291 | -11.798 | -57.344002 | 2026-05-20 00:37:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2dc08206-1d4b-336b-a7ff-3527607d0a98 | -11.6038 | -55.324299 | 2026-05-20 00:37:00 | METOP-B | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9ecfc138-2ddb-30ec-8846-9e3d27c42363 | -9.963 | -52.466702 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0ef88793-4549-39b5-8237-c42b2fc05f06 | -11.4794 | -52.9076 | 2026-05-20 00:37:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e63a1354-c74e-30b3-bebd-15a55cdaed53 | -11.4516 | -55.102501 | 2026-05-20 00:37:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e00aba2b-e15e-3f7f-9164-12246dc1e12e | -11.6121 | -55.315102 | 2026-05-20 00:37:00 | METOP-B | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| be40a184-d4de-3005-8e75-5a32c52e706f | -9.9611 | -52.458698 | 2026-05-20 00:37:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5b679a16-edd6-3d65-b670-5b0f7151f95a | -11.4696 | -52.909901 | 2026-05-20 00:37:00 | METOP-B | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d8fc2107-6616-3dbb-9e1e-8529dee9472e | -12.6011 | -44.521 | 2026-05-20 00:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 49.7 |
+| 86c1e1af-3bfc-3c1d-b402-d4ddbc60fad4 | -8.095 | -44.1224 | 2026-05-20 00:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 69.4 |
+| d3dccd3e-d674-3594-ac68-625a398e5d5c | -11.6123 | -55.3283 | 2026-05-20 00:40:00 | GOES-19 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 59.4 |
+| 63992f1a-2d89-39c3-bef5-66405dd7f05a | -12.6011 | -44.521 | 2026-05-20 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 45.3 |
+| b2e7cb1e-2166-3398-9f81-4bb5245b8118 | -8.095 | -44.1224 | 2026-05-20 00:50:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| b21db1a5-8bf1-37d2-b8da-fb5fe811294d | -11.6123 | -55.3283 | 2026-05-20 01:00:00 | GOES-19 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| c063d64d-a4b1-3b4c-9169-708d513b3d7a | -8.095 | -44.1224 | 2026-05-20 01:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 50.4 |
+| 6829652a-5275-3cd2-9faf-928dda1147ac | -8.1138 | -44.1205 | 2026-05-20 01:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 55.2 |
+| 3d6245ed-06fc-3fb1-b1e7-80e8ca478cdb | -8.095 | -44.1224 | 2026-05-20 01:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 76.0 |
+| cd8f24ed-c3fe-3d7d-a530-4c404243260c | -8.095 | -44.1224 | 2026-05-20 01:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 62.1 |
+| 164b893b-7945-3b22-83e6-d9d0e3784b95 | -9.6295 | -40.3392 | 2026-05-20 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 199.9 |
+| e85c271e-168f-3b57-8af9-33ae0f654eb3 | -9.6104 | -40.342 | 2026-05-20 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 88.3 |
+| bf48bdca-f83e-3d85-ae39-d37365692eb2 | -3.96188 | -43.12173 | 2026-05-20 03:47:00 | NOAA-21 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 0201e96b-690a-3c3e-98b6-faadc36abdc0 | -2.87763 | -40.02113 | 2026-05-20 03:47:00 | NOAA-21 | ACARAÚ | CEARÁ | Brasil | 2300200 | 23 | 33 | nan | nan | nan | Caatinga | 2.3 |
+| e429a73a-3a4d-38f6-a6e9-e500c1a8b854 | -5.999 | -35.32837 | 2026-05-20 03:47:00 | NOAA-21 | SÃO JOSÉ DE MIPIBU | RIO GRANDE DO NORTE | Brasil | 2412203 | 24 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| f0d84d6d-817c-3543-935e-136ede779e51 | -3.9565 | -43.12576 | 2026-05-20 03:47:00 | NOAA-21 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| c413eb2e-a380-3084-9b93-40e05ad26c1c | -3.9611 | -43.12652 | 2026-05-20 03:47:00 | NOAA-21 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 3.7 |
+| 99e9897d-94bf-3d00-8e3f-76c7313a57d5 | -4.37045 | -37.8978 | 2026-05-20 03:47:00 | NOAA-21 | BEBERIBE | CEARÁ | Brasil | 2302206 | 23 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 8d75dfa4-e855-34ff-a315-8657dac02723 | -8.10455 | -44.126 | 2026-05-20 03:49:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 7e6e283f-e547-3d47-92ba-0a16c60e8d63 | -12.22372 | -44.26081 | 2026-05-20 03:49:00 | NOAA-21 | CRISTÓPOLIS | BAHIA | Brasil | 2909703 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 04b23ccd-831b-34cb-b46f-70c22f98ac2a | -11.93164 | -46.92675 | 2026-05-20 03:49:00 | NOAA-21 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| cfc06350-829f-3ebb-a4b0-c908c989ac70 | -12.06343 | -45.28514 | 2026-05-20 03:49:00 | NOAA-21 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| a614f9d0-a968-3163-836f-9ecca5fe198f | -12.60711 | -44.52607 | 2026-05-20 03:49:00 | NOAA-21 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| e0bf6c49-71be-3944-ab7b-b2954bfd2756 | -8.70421 | -47.9146 | 2026-05-20 03:49:00 | NOAA-21 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 50d31a3a-2694-3f40-8a21-6e53b8319ed7 | -8.1016 | -44.11572 | 2026-05-20 03:49:00 | NOAA-21 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 4.2 |
+| 7920eb5f-056e-3b74-a851-a0083bc12acb | -13.29685 | -39.34887 | 2026-05-20 03:49:00 | NOAA-21 | VALENÇA | BAHIA | Brasil | 2932903 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 626b1727-a072-36be-801f-e35e0863a87f | -8.09865 | -44.10546 | 2026-05-20 03:49:00 | NOAA-21 | MANOEL EMÍDIO | PIAUÍ | Brasil | 2205904 | 22 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 7d587be8-91e7-3b5c-ae71-6f5192c37424 | -5.95478 | -43.4879 | 2026-05-20 03:49:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 3ecb284a-214c-3536-9c2a-b0cdb565bf32 | -11.01939 | -45.13247 | 2026-05-20 03:49:00 | NOAA-21 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| fa46e9bc-240e-3cab-b4bd-4802c6a2df85 | -10.48714 | -49.36814 | 2026-05-20 03:49:00 | NOAA-21 | CRISTALÂNDIA | TOCANTINS | Brasil | 1706100 | 17 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f5ebd483-e90d-3960-8be6-a5f97b6b401b | -12.35288 | -45.68085 | 2026-05-20 03:49:00 | NOAA-21 | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 8aff5a3d-1b61-39d5-84d8-95cd7661ce60 | -10.49877 | -42.40906 | 2026-05-20 03:49:00 | NOAA-21 | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | 1.8 |
+| 3b7264d4-3f7b-386d-a193-57b226bb5d50 | -12.60352 | -44.52092 | 2026-05-20 03:49:00 | NOAA-21 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 11.5 |
+| 4344037b-00f8-3d94-ad37-90672ac7afe6 | -10.19198 | -36.9577 | 2026-05-20 03:49:00 | NOAA-21 | CANHOBA | SERGIPE | Brasil | 2801108 | 28 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| cbb4a1d6-6cff-3157-a451-5be561978e6f | -7.40224 | -46.62238 | 2026-05-20 03:49:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e47acbd8-e4e5-3b31-885e-616d4f7cb993 | -12.44437 | -44.74935 | 2026-05-20 03:49:00 | NOAA-21 | SÃO DESIDÉRIO | BAHIA | Brasil | 2928901 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 262949ac-2f8e-3dd0-a2a0-900637d49536 | -8.73341 | -47.98579 | 2026-05-20 03:49:00 | NOAA-21 | SANTA MARIA DO TOCANTINS | TOCANTINS | Brasil | 1718881 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| f24083b6-4c3b-398b-8a47-3aab22b1a774 | -12.25639 | -44.61048 | 2026-05-20 03:49:00 | NOAA-21 | CATOLÂNDIA | BAHIA | Brasil | 2907400 | 29 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| d3ef6b87-8d84-3062-9167-692a3fb91adc | -11.9321 | -43.86757 | 2026-05-20 03:49:00 | NOAA-21 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 2.7 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
