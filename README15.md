@@ -29,74 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 5423f4de-49e8-3f75-84e2-279a99c5734f | -10.62013 | -36.95784 | 2025-12-27 11:36:00 | TERRA_M-M | JAPARATUBA | SERGIPE | Brasil | 2803302 | 28 | 33 | nan | nan | nan | Mata Atlântica | 11.5 |
-| cbd9b7af-0c6a-3a5a-9147-31c4b9f30f01 | -8.75306 | -37.28978 | 2025-12-27 11:36:00 | TERRA_M-M | TUPANATINGA | PERNAMBUCO | Brasil | 2615805 | 26 | 33 | nan | nan | nan | Caatinga | 7.9 |
-| 59ef8d06-b29b-302d-b426-e6374bbfe493 | -9.6075 | -41.72254 | 2025-12-27 11:36:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| f2dfd0e0-b824-32fc-9116-4a438e8fb653 | -7.59532 | -37.13931 | 2025-12-27 11:36:00 | TERRA_M-M | OURO VELHO | PARAÍBA | Brasil | 2510600 | 25 | 33 | nan | nan | nan | Caatinga | 7.4 |
-| 34206157-dce7-3e26-b677-5026065587af | -5.88415 | -39.68898 | 2025-12-27 11:36:00 | TERRA_M-M | MOMBAÇA | CEARÁ | Brasil | 2308500 | 23 | 33 | nan | nan | nan | Caatinga | 19.9 |
-| 618a8ad9-f627-345b-b27c-ff1076d39342 | -5.32088 | -39.18573 | 2025-12-27 11:36:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 9.3 |
-| 769703a8-663c-3477-b299-aa86b0a8ac6c | -5.96833 | -38.20644 | 2025-12-27 11:36:00 | TERRA_M-M | SÃO FRANCISCO DO OESTE | RIO GRANDE DO NORTE | Brasil | 2411908 | 24 | 33 | nan | nan | nan | Caatinga | 5.8 |
-| f61353d7-f338-3991-a1f6-a2b013bd7fbf | -5.32219 | -39.17674 | 2025-12-27 11:36:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 6.1 |
-| cf2c973f-98e4-3c28-8806-743e9867c01b | -6.68732 | -38.08541 | 2025-12-27 11:36:00 | TERRA_M-M | APARECIDA | PARAÍBA | Brasil | 2500775 | 25 | 33 | nan | nan | nan | Caatinga | 39.1 |
-| 18c581a9-bea7-36dc-8a5b-9285c298cddd | -7.65686 | -37.48666 | 2025-12-27 11:36:00 | TERRA_M-M | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 19.6 |
-| 9c9417e3-d387-3338-84cc-3f38b941ecef | -8.52844 | -36.84902 | 2025-12-27 11:36:00 | TERRA_M-M | VENTUROSA | PERNAMBUCO | Brasil | 2616001 | 26 | 33 | nan | nan | nan | Caatinga | 8.6 |
-| d76220c9-b577-31d7-ba5e-62fae8785c85 | -7.53646 | -39.23891 | 2025-12-27 11:36:00 | TERRA_M-M | JARDIM | CEARÁ | Brasil | 2307106 | 23 | 33 | nan | nan | nan | Caatinga | 11.8 |
-| 826250f3-9196-36ef-9974-8fbd60f0d1cc | -9.18017 | -37.85856 | 2025-12-27 11:36:00 | TERRA_M-M | MATA GRANDE | ALAGOAS | Brasil | 2705002 | 27 | 33 | nan | nan | nan | Caatinga | 6.7 |
-| ff142054-9329-314d-ade8-5d93f8ca640b | -6.03144 | -38.03201 | 2025-12-27 11:36:00 | TERRA_M-M | PORTALEGRE | RIO GRANDE DO NORTE | Brasil | 2410207 | 24 | 33 | nan | nan | nan | Caatinga | 9.7 |
-| 3d60f426-7d85-335f-b04a-1beee6449452 | -6.55183 | -35.16178 | 2025-12-27 11:36:00 | TERRA_M-M | PEDRO VELHO | RIO GRANDE DO NORTE | Brasil | 2409803 | 24 | 33 | nan | nan | nan | Mata Atlântica | 16.9 |
-| 0ecc8ad1-72ff-37eb-b6ad-21940b467049 | -7.65008 | -37.46975 | 2025-12-27 11:36:00 | TERRA_M-M | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 12.8 |
-| ab65d56a-783a-3ea3-acc6-13af684bef1b | -8.2669 | -37.99821 | 2025-12-27 11:36:00 | TERRA_M-M | BETÂNIA | PERNAMBUCO | Brasil | 2601805 | 26 | 33 | nan | nan | nan | Caatinga | 14.0 |
-| e03f074b-3dd3-3027-9d94-3e46e4e4ba88 | -7.65405 | -37.44179 | 2025-12-27 11:36:00 | TERRA_M-M | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| 0a111df4-1fcb-3aab-8c32-1e6ad1321b5a | -5.26397 | -39.31862 | 2025-12-27 11:36:00 | TERRA_M-M | QUIXERAMOBIM | CEARÁ | Brasil | 2311405 | 23 | 33 | nan | nan | nan | Caatinga | 11.4 |
-| 5da73c9c-6030-365d-b699-59eb6edb193b | -7.65815 | -37.47733 | 2025-12-27 11:36:00 | TERRA_M-M | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 143.2 |
-| 30f89034-0de0-3390-be3f-5952f8a1be8e | -7.64876 | -37.47906 | 2025-12-27 11:36:00 | TERRA_M-M | TABIRA | PERNAMBUCO | Brasil | 2614600 | 26 | 33 | nan | nan | nan | Caatinga | 52.1 |
-| 05d38f13-2384-3855-8b4c-32ae25595635 | -7.85904 | -38.01836 | 2025-12-27 11:36:00 | TERRA_M-M | TRIUNFO | PERNAMBUCO | Brasil | 2615706 | 26 | 33 | nan | nan | nan | Caatinga | 11.5 |
-| dfd30f1e-feeb-3c7b-b95a-a6f631291f1a | -18.12435 | -42.87323 | 2025-12-27 11:38:00 | TERRA_M-M | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
-| ca2413f4-8f9a-3291-ae27-aa4261357171 | -17.80857 | -39.70929 | 2025-12-27 11:38:00 | TERRA_M-M | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.1 |
-| 71bbebff-0373-3358-acd8-6f7e25734eab | -18.1163 | -42.87551 | 2025-12-27 11:38:00 | TERRA_M-M | RIO VERMELHO | MINAS GERAIS | Brasil | 3156007 | 31 | 33 | nan | nan | nan | Mata Atlântica | 10.3 |
-| dade847b-7d8e-3223-afb4-93d6cfc4ceea | -17.80989 | -39.69963 | 2025-12-27 11:38:00 | TERRA_M-M | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 14.5 |
-| e81cf442-929e-3d49-bd8f-f740b5755635 | -18.12282 | -42.88317 | 2025-12-27 11:38:00 | TERRA_M-M | ITAMARANDIBA | MINAS GERAIS | Brasil | 3132503 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.3 |
-| 0f84924c-fc34-3e84-aeca-d1ecdce358d5 | -18.14493 | -40.20912 | 2025-12-27 11:38:00 | TERRA_M-M | MONTANHA | ESPÍRITO SANTO | Brasil | 3203502 | 32 | 33 | nan | nan | nan | Mata Atlântica | 9.4 |
-| 3d35bae8-a746-3729-9661-66de7bfbdb0d | -15.20764 | -42.62442 | 2025-12-27 11:38:00 | TERRA_M-M | SANTO ANTÔNIO DO RETIRO | MINAS GERAIS | Brasil | 3160454 | 31 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 14f177db-5f9e-3326-9060-2819dbd5f88b | -0.1012 | -51.2738 | 2025-12-27 11:40:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 159.6 |
-| 82e20ad5-33f2-355e-8dcb-76e73329bee5 | -0.0828 | -51.2738 | 2025-12-27 11:40:00 | GOES-19 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 212.6 |
-| 2c573b8d-89d0-3a2d-b607-d053f6d30541 | -19.32686 | -43.5157 | 2025-12-27 11:40:00 | TERRA_M-M | ITAMBÉ DO MATO DENTRO | MINAS GERAIS | Brasil | 3132800 | 31 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| a625773f-dba3-3352-8432-3d880841887b | -20.99957 | -42.96864 | 2025-12-27 11:40:00 | TERRA_M-M | DIVINÉSIA | MINAS GERAIS | Brasil | 3121902 | 31 | 33 | nan | nan | nan | Mata Atlântica | 23.4 |
-| e00f8cdc-a007-3080-bdf5-aff8dd901b42 | -20.99058 | -42.96712 | 2025-12-27 11:40:00 | TERRA_M-M | DIVINÉSIA | MINAS GERAIS | Brasil | 3121902 | 31 | 33 | nan | nan | nan | Mata Atlântica | 8.1 |
-| 8efc8612-6fc6-33ed-9487-0726d4c763cd | -20.89121 | -43.25769 | 2025-12-27 11:40:00 | TERRA_M-M | BRÁS PIRES | MINAS GERAIS | Brasil | 3108701 | 31 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
-| b4293d10-3d03-3f46-b4b4-9d9d432b6431 | -20.89149 | -41.5621 | 2025-12-27 11:40:00 | TERRA_M-M | ALEGRE | ESPÍRITO SANTO | Brasil | 3200201 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
-| 59fe3d92-3a62-3840-b4ae-a074b6732d94 | -0.1012 | -51.2738 | 2025-12-27 11:50:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 81.8 |
-| 3f407b60-a40e-3517-8a08-26e88c8a81f0 | -0.0828 | -51.2738 | 2025-12-27 12:00:00 | GOES-19 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 262.6 |
-| cde5099b-d4b9-3e7c-8941-44a51bf514c8 | -0.1012 | -51.2738 | 2025-12-27 12:00:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 84.7 |
-| 00c8789f-819f-3d50-b786-240eead53055 | -0.1012 | -51.2738 | 2025-12-27 12:10:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 73.4 |
-| 27485682-550c-3955-b600-8fa619b65afc | -0.0828 | -51.2738 | 2025-12-27 12:10:00 | GOES-19 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 245.5 |
-| d321e3d7-eab0-352f-9d93-6d5e138e6cd5 | -0.0828 | -51.2738 | 2025-12-27 12:20:00 | GOES-19 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 157.2 |
-| cf7040a9-e930-381c-8e9d-4483ab61d134 | -0.0828 | -51.2738 | 2025-12-27 12:30:00 | GOES-19 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 229.7 |
-| cde78b9a-fdc9-308f-a799-f6da8b780404 | -0.1012 | -51.2738 | 2025-12-27 12:30:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 74.8 |
-| a98d5498-a21d-3a38-ace0-2385eb7bcbdf | -3.7701 | -43.5554 | 2025-12-27 12:40:00 | GOES-19 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 149.8 |
-| e1931c48-3fdf-3a44-8b00-a5472bf16b9f | -3.9069 | -42.5672 | 2025-12-27 12:40:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 96.9 |
-| 73f2879c-9a1f-3631-85df-da36ed7d0116 | -0.1012 | -51.2738 | 2025-12-27 12:40:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 69.9 |
-| 2989ddff-63fb-3c2d-863e-04c7ad24aead | -3.9071 | -42.5436 | 2025-12-27 12:50:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 90.3 |
-| bda6632a-5fd8-3165-ad7a-e90d22825a1f | -3.9069 | -42.5672 | 2025-12-27 12:50:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 88.9 |
-| 3ff4a067-d29b-3ed0-bbe6-6a15bfd1acea | -3.7701 | -43.5554 | 2025-12-27 12:50:00 | GOES-19 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 183.9 |
-| c87e42a4-148e-3e79-9480-153bf928a89b | -0.1012 | -51.2738 | 2025-12-27 12:50:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 97.7 |
-| df22bd8e-a8a2-385b-aee6-ae7af316c284 | -0.0828 | -51.2738 | 2025-12-27 12:50:00 | GOES-19 | SANTANA | AMAPÁ | Brasil | 1600600 | 16 | 33 | nan | nan | nan | Amazônia | 182.4 |
-| e7dea913-28ca-38c1-b4dc-ecef12876c17 | -0.1012 | -51.2738 | 2025-12-27 13:00:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 87.8 |
-| ad4bf1d4-d5b8-384d-b7d4-3d5068fbc851 | -3.9069 | -42.5672 | 2025-12-27 13:00:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 98.7 |
-| dfe2a49d-6d3a-36c6-aabd-71b612af0ffd | -3.9069 | -42.5672 | 2025-12-27 13:20:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 105.5 |
-| 07142154-dd1d-3066-82ac-667c060334eb | -10.4889 | -44.9235 | 2025-12-27 13:20:00 | GOES-19 | CORRENTE | PIAUÍ | Brasil | 2202901 | 22 | 33 | nan | nan | nan | Cerrado | 66.0 |
-| e0acf157-bffb-3159-a9d1-0d3c332b81f8 | -3.9071 | -42.5436 | 2025-12-27 13:20:00 | GOES-19 | CAMPO LARGO DO PIAUÍ | PIAUÍ | Brasil | 2202174 | 22 | 33 | nan | nan | nan | Caatinga | 83.8 |
-| 466ddf96-c180-316a-83e9-8fd032095a53 | -0.1012 | -51.2738 | 2025-12-27 13:30:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 78.8 |
-| a82734ea-d768-3a2b-a9a5-eb438853400b | -3.6398 | -43.5155 | 2025-12-27 13:30:00 | GOES-19 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| eeb3cac9-4e24-3248-9476-f95c4f4a175e | -6.4365 | -37.5237 | 2025-12-27 13:30:00 | GOES-19 | SÃO BENTO | PARAÍBA | Brasil | 2513901 | 25 | 33 | nan | nan | nan | Caatinga | 91.3 |
-| 39a925c9-29eb-37c7-8663-5370218288fc | -6.1716 | -37.4739 | 2025-12-27 13:40:00 | GOES-19 | BELÉM DO BREJO DO CRUZ | PARAÍBA | Brasil | 2502003 | 25 | 33 | nan | nan | nan | Caatinga | 98.1 |
-| a4320d96-90a4-3f47-b646-dd279d013a81 | -6.4365 | -37.5237 | 2025-12-27 13:40:00 | GOES-19 | SÃO BENTO | PARAÍBA | Brasil | 2513901 | 25 | 33 | nan | nan | nan | Caatinga | 94.5 |
-| e62351d2-9d2b-3de3-b25f-81b89f8e8e32 | -5.4691 | -37.6726 | 2025-12-27 14:00:00 | GOES-19 | FELIPE GUERRA | RIO GRANDE DO NORTE | Brasil | 2403707 | 24 | 33 | nan | nan | nan | Caatinga | 90.0 |
-| 47a4eab4-76a2-31b3-a8c7-53000079ddc7 | -5.3937 | -37.6535 | 2025-12-27 14:00:00 | GOES-19 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 88.4 |
-| 7c2dce90-9021-3fe6-ba8d-3f1a8dde27a8 | -5.4694 | -37.6466 | 2025-12-27 14:10:00 | GOES-19 | FELIPE GUERRA | RIO GRANDE DO NORTE | Brasil | 2403707 | 24 | 33 | nan | nan | nan | Caatinga | 87.2 |
-| c24ab666-feb8-3279-bbaa-3400e6d152e0 | -3.6398 | -43.5155 | 2025-12-27 14:10:00 | GOES-19 | CHAPADINHA | MARANHÃO | Brasil | 2103208 | 21 | 33 | nan | nan | nan | Cerrado | 166.1 |
-| 7d454101-eb2f-37cf-8108-4fa6bc4052f9 | -0.1012 | -51.2738 | 2025-12-27 14:20:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 94.8 |
-| 2238a433-0084-32c2-92ab-a0ed3f12c31d | -0.1012 | -51.2738 | 2025-12-27 14:30:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 148.1 |
-| 156d276c-11f0-34c6-8c19-a171a01a2b45 | -0.1012 | -51.2945 | 2025-12-27 14:30:00 | GOES-19 | MAZAGÃO | AMAPÁ | Brasil | 1600402 | 16 | 33 | nan | nan | nan | Amazônia | 78.9 |
+| 4a3783e4-a3d0-37a8-87dc-909e2de66c47 | -5.7937 | -45.1493 | 2026-05-26 12:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 145.1 |
+| e6ed737d-a530-3ee6-b985-45d0015c46b3 | -8.6304 | -45.0314 | 2026-05-26 12:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 116.3 |
+| 206707d2-2f0d-393f-a615-94b9a141b009 | -7.1352 | -44.0785 | 2026-05-26 12:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 388.4 |
+| a2b8a5b8-6b81-3c8a-b96f-39aa5753ec89 | -11.3584 | -52.9514 | 2026-05-26 12:40:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 117.5 |
+| d20ec41d-20b1-3289-a9d1-4dd7e2cc73b7 | -10.628 | -42.2928 | 2026-05-26 12:40:00 | GOES-19 | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 247.3 |
+| 54597cf3-8122-3d4e-b09e-7f9598a5f73d | -5.7941 | -45.104 | 2026-05-26 12:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 211.9 |
+| b8e850cc-91dc-3636-accb-728430d41cb2 | -5.7752 | -45.128 | 2026-05-26 12:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 94.0 |
+| a709dfe3-2d12-35e7-9f36-73574153d71a | -10.6471 | -42.29 | 2026-05-26 12:40:00 | GOES-19 | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 180.5 |
+| 8fe1a004-01fa-3c2c-8f14-da1a389ff0c0 | -5.7939 | -45.1267 | 2026-05-26 12:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 538.8 |
+| 7e1008f9-94cb-3d26-81b6-d50fb8ca9bab | -7.1541 | -44.0767 | 2026-05-26 12:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 102.3 |
+| efbab526-0c0a-3c73-98d1-4b82dbf75dbe | -8.6304 | -45.0314 | 2026-05-26 12:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 99.5 |
+| cc7ff0ee-6544-37bc-9c5c-79e247f33760 | -5.7937 | -45.1493 | 2026-05-26 12:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 93.8 |
+| a7fc52b5-b853-3dd2-9fc6-c4b0fb64a923 | -7.1355 | -44.0553 | 2026-05-26 12:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 295.6 |
+| 88bd87a0-ee19-3027-bf9e-64e12084c658 | -7.1543 | -44.0536 | 2026-05-26 12:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 84.4 |
+| eef6a6a6-26a1-3b9b-b14d-4ac7984a9098 | -8.6304 | -45.0314 | 2026-05-26 12:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 206.9 |
+| f0f9977e-dfba-38e9-af02-f29d15d33001 | -7.1543 | -44.0536 | 2026-05-26 12:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| 6e98ca6b-b1af-301d-babd-1ab5c9a9e8b6 | -10.6471 | -42.29 | 2026-05-26 12:50:00 | GOES-19 | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 204.4 |
+| 7ea5bc43-6acd-39f6-9518-845d0a95ed9a | -5.7937 | -45.1493 | 2026-05-26 12:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 92.8 |
+| c5a70b46-5a6b-3676-8468-b1e166458081 | -5.7752 | -45.128 | 2026-05-26 12:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 79.5 |
+| 9c1f1679-f552-331d-8914-897f85d9e2d2 | -11.3584 | -52.9514 | 2026-05-26 12:50:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 125.3 |
+| 221edd7b-aba1-3e74-914c-8c16273178cd | -7.1352 | -44.0785 | 2026-05-26 12:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 316.0 |
+| f2bd8456-9bbf-3449-b03d-4e69c2e92b79 | -5.7941 | -45.104 | 2026-05-26 12:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 246.0 |
+| ee9a869b-ca4a-3a03-be1c-769828eba004 | -8.6307 | -45.0085 | 2026-05-26 12:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 107.9 |
+| c172f33c-b49b-3eac-a51f-2aabd0784ef0 | -7.1541 | -44.0767 | 2026-05-26 12:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 107.1 |
+| 43b49068-7b51-3a68-8ad3-db3c254280f9 | -7.1355 | -44.0553 | 2026-05-26 12:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 304.9 |
+| 60e64544-f0d9-3a91-8d4d-277cbe1ac8dd | -5.7939 | -45.1267 | 2026-05-26 12:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 497.8 |
+| 98820e97-065b-3b1e-807d-040f0044a526 | -8.52894 | -51.5719 | 2026-05-26 12:53:00 | TERRA_M-T | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 36.7 |
+| 31c7b7cb-99c5-3628-b0e0-5f1319c2e399 | -11.27361 | -53.9545 | 2026-05-26 12:55:00 | TERRA_M-T | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 31.4 |
+| 945f8b3e-671a-3b57-be6a-e6351ec44ce3 | -11.55227 | -56.9342 | 2026-05-26 12:55:00 | TERRA_M-T | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 47.0 |
+| 624d486b-3534-3ba8-a3ec-23427d53e4a9 | -11.36381 | -52.92745 | 2026-05-26 12:55:00 | TERRA_M-T | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 74.7 |
+| 6a421a34-7723-3b39-b0f9-77da967d952b | -11.35438 | -52.95662 | 2026-05-26 12:55:00 | TERRA_M-T | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 219.4 |
+| 6618583e-6345-33ee-b360-49afcb9a5855 | -12.54086 | -57.2188 | 2026-05-26 12:55:00 | TERRA_M-T | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 27.1 |
+| b80881f2-89cd-351a-8593-484963a3a516 | -11.18139 | -55.91753 | 2026-05-26 12:55:00 | TERRA_M-T | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 22.5 |
+| 2fcfc659-6b30-3fdd-ac80-f05f0017f182 | -10.30788 | -58.91776 | 2026-05-26 12:55:00 | TERRA_M-T | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 41.7 |
+| 0ba6f368-f676-3b4f-abed-ac3cafc71c89 | -10.30547 | -58.924 | 2026-05-26 12:55:00 | TERRA_M-T | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 60.5 |
+| 1d99718e-aa4a-3062-a2f8-921854cf2bd0 | -10.71163 | -56.24166 | 2026-05-26 12:55:00 | TERRA_M-T | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 31.7 |
+| 199cc289-5d9c-393f-9d30-b3f1d6a6bcfc | -11.56051 | -56.33953 | 2026-05-26 12:55:00 | TERRA_M-T | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 33.1 |
+| 01316bd4-c29d-328d-8928-d7124c45b46b | -10.67063 | -58.95393 | 2026-05-26 12:55:00 | TERRA_M-T | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 12.9 |
+| b2b51224-b9a7-3334-a9a6-f865a9047494 | -11.73791 | -54.79622 | 2026-05-26 12:55:00 | TERRA_M-T | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 34.6 |
+| 2ffcda0e-6467-3e11-81fb-b65c92a34ebd | -10.30625 | -58.92985 | 2026-05-26 12:55:00 | TERRA_M-T | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 68.0 |
+| a650df9e-dbba-3095-9f2a-1419561a137d | -10.668 | -58.96002 | 2026-05-26 12:55:00 | TERRA_M-T | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| fa0df379-2ff8-36c8-b8bb-f65b620113f6 | -11.35999 | -52.96433 | 2026-05-26 12:55:00 | TERRA_M-T | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 171.6 |
+| 5d5a8649-78d8-3206-a76a-6964b6201144 | -11.56046 | -56.34621 | 2026-05-26 12:55:00 | TERRA_M-T | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 28.1 |
+| fddd931c-8fba-3ca5-92a1-29bd6fe6ba53 | -10.31568 | -58.92529 | 2026-05-26 12:55:00 | TERRA_M-T | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 8.7 |
+| bc493e46-cbae-32c4-bdfc-d1ee875a1f2c | -10.6471 | -42.29 | 2026-05-26 13:00:00 | GOES-19 | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | 180.7 |
+| 2bf9e23d-ff64-324f-b7bc-c9844b249393 | -10.2962 | -58.9299 | 2026-05-26 13:00:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 80.1 |
+| 0764d324-5417-39c5-8be0-b39a6c0652ff | -5.7939 | -45.1267 | 2026-05-26 13:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 361.4 |
+| d2fef7da-6917-38d1-b8c9-52d4a9627ca5 | -8.6304 | -45.0314 | 2026-05-26 13:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 158.2 |
+| 96c8f360-e962-3343-b392-8452a69bc97c | -5.7937 | -45.1493 | 2026-05-26 13:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 71.8 |
+| 82c20a54-bb38-3687-89a0-992671b15226 | -7.1352 | -44.0785 | 2026-05-26 13:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 323.9 |
+| 7180b065-4319-39ab-aed0-e26a1904da21 | -5.7941 | -45.104 | 2026-05-26 13:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 180.6 |
+| fa6ddef5-cac1-33df-bbec-79f33db7daa2 | -7.1355 | -44.0553 | 2026-05-26 13:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 302.0 |
+| 3280f7f3-a271-3fb9-bd32-fb5aac83450a | -11.3584 | -52.9514 | 2026-05-26 13:00:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 150.7 |
+| 82c5bd5f-bbbf-3fc9-ba5c-f9d7b0e33317 | -8.6307 | -45.0085 | 2026-05-26 13:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 82.0 |
+| 0c6185fa-5bff-343c-8612-946391e013cd | -5.7941 | -45.104 | 2026-05-26 13:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 198.5 |
+| f1b93036-123d-3db5-9b15-eef04d72af7e | -8.6304 | -45.0314 | 2026-05-26 13:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 102.7 |
+| ae37405a-a1c2-340f-b252-8f5c4913626c | -7.1541 | -44.0767 | 2026-05-26 13:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 107.9 |
+| 7e5f1837-f1e6-31c0-858c-0e8bc76b785a | -10.2962 | -58.9299 | 2026-05-26 13:10:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 568.1 |
+| 3046d7c8-293c-326d-bba8-29d2e7bb6cee | -7.1543 | -44.0536 | 2026-05-26 13:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 10035c93-d725-35cf-a7fc-76a5cbf6f698 | -7.1352 | -44.0785 | 2026-05-26 13:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 260.3 |
+| e1757788-81d0-32cb-bf4f-6826f5a99448 | -7.1355 | -44.0553 | 2026-05-26 13:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 252.5 |
+| a717638c-6715-3de6-a619-742e8af59a6b | -11.3584 | -52.9514 | 2026-05-26 13:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 116.1 |
+| a6f9d02d-ae07-3a0b-b04d-d81b33ebf7ce | -5.7939 | -45.1267 | 2026-05-26 13:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 447.3 |
+| 4c5d0fda-5e49-3e5b-b799-39e64d74dfc8 | -5.7941 | -45.104 | 2026-05-26 13:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 205.9 |
+| d79a54ca-07ee-3192-a3b5-ac52025fbb12 | -5.7939 | -45.1267 | 2026-05-26 13:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 457.2 |
+| dd453cb9-fd65-3331-b4d7-d40affaf9067 | -7.1541 | -44.0767 | 2026-05-26 13:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 108.1 |
+| 122b2bfe-cca5-3135-9072-b3b09a5a51f4 | -7.1543 | -44.0536 | 2026-05-26 13:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 103.0 |
+| 7c2b0358-a4a8-3271-a0ef-e3524312d10f | -7.1352 | -44.0785 | 2026-05-26 13:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 225.0 |
+| 66bfedf3-bb1c-3a22-b792-6251740f98ad | -7.1355 | -44.0553 | 2026-05-26 13:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 208.6 |
+| 3f057ed9-59ee-3cff-9cbc-232b47bd1e9c | -10.2962 | -58.9299 | 2026-05-26 13:20:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 98.1 |
+| 92eaf8ba-3530-3a18-9ec3-a4cb63285ea0 | -7.8194 | -42.0333 | 2026-05-26 13:30:00 | GOES-19 | SIMPLÍCIO MENDES | PIAUÍ | Brasil | 2210805 | 22 | 33 | nan | nan | nan | Caatinga | 78.2 |
+| d89aad89-1f0f-3057-b6d2-725cf404df46 | -10.2962 | -58.9299 | 2026-05-26 13:30:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 107.4 |
+| 3e54d458-1f76-36f5-a9a9-a205927496ec | -7.1352 | -44.0785 | 2026-05-26 13:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 233.0 |
+| be4eba08-fa11-3049-8834-246c8d536a7d | -5.7752 | -45.128 | 2026-05-26 13:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 68.1 |
+| 020c35d6-6acd-38a6-88ef-812a4c8de5f9 | -5.7939 | -45.1267 | 2026-05-26 13:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 383.1 |
+| fe1a7a8f-1820-399e-8865-a79fc029029a | -7.1543 | -44.0536 | 2026-05-26 13:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 76.3 |
+| 21ca55ef-9678-3153-ac1e-95682d98cd6f | -7.1541 | -44.0767 | 2026-05-26 13:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 94.9 |
+| cea5c23c-2b3b-38f7-96d7-a1a76d2fcef4 | -5.7941 | -45.104 | 2026-05-26 13:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 153.2 |
+| 6f617cc8-3a20-3be4-ba16-fb249204e06f | -11.3413 | -51.4029 | 2026-05-26 13:30:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 9d74f49e-1094-37b2-99df-1eb77d3c8843 | -7.1355 | -44.0553 | 2026-05-26 13:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 175.4 |
+| 0af7976d-1301-3673-a2f9-2a7197846b46 | -5.7752 | -45.128 | 2026-05-26 13:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 68.6 |
+| ad068b06-ddcf-353e-bcfe-74b6266874d5 | -14.0327 | -46.3423 | 2026-05-26 13:40:00 | GOES-19 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 144.6 |
+| 26752e99-072f-33de-82d5-de9874ec83d5 | -5.7939 | -45.1267 | 2026-05-26 13:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 281.8 |
+| 56a22892-77db-317f-86d7-d918c8c3e5de | -10.2962 | -58.9299 | 2026-05-26 13:40:00 | GOES-19 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 187.6 |
+| b2075a12-208c-378e-a313-0d8a714957ee | -7.1355 | -44.0553 | 2026-05-26 13:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 188.3 |
+| 01e9cb08-31af-380b-95c7-5455890d0739 | -5.7941 | -45.104 | 2026-05-26 13:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 133.6 |
+| c95a6f5e-c93b-3e07-a75a-f9b366c03f50 | -7.1352 | -44.0785 | 2026-05-26 13:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 217.4 |
+| aa6cf2b4-477e-3e70-a281-afffc9220fcc | -14.0327 | -46.3423 | 2026-05-26 13:50:00 | GOES-19 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 113.6 |
+| 18026957-4d52-3f92-bc31-966f4e481132 | -7.1543 | -44.0536 | 2026-05-26 13:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 71.3 |
+| dba864ce-aeb2-3155-91ae-dc4faef4dbae | -7.1352 | -44.0785 | 2026-05-26 13:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 170.4 |
+| 27372007-dc57-3a07-a133-823ef5972983 | -7.8194 | -42.0333 | 2026-05-26 13:50:00 | GOES-19 | SIMPLÍCIO MENDES | PIAUÍ | Brasil | 2210805 | 22 | 33 | nan | nan | nan | Caatinga | 88.9 |
+| 0dd5bd1c-03f3-39c5-8ae0-4f4525b163c4 | -7.1355 | -44.0553 | 2026-05-26 13:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 169.1 |
+| 70d99c4b-a9d8-350f-b803-88df9ad097f2 | -5.7941 | -45.104 | 2026-05-26 13:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 147.3 |
+| 3aeb289f-4b9b-31a5-a35f-db795d1acc67 | -5.7939 | -45.1267 | 2026-05-26 13:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 295.9 |
+| d4cd6f09-a300-32fe-ae0d-e2396cb4b780 | -7.1543 | -44.0536 | 2026-05-26 14:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 75.1 |
+| dff475a2-009b-392f-a26d-d496bfed20e1 | -7.1541 | -44.0767 | 2026-05-26 14:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 86.3 |
+| 37cb2eb3-73fb-33c3-a3cb-d3d8cf488029 | -7.1352 | -44.0785 | 2026-05-26 14:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 145.4 |
+| 2c553ca5-15e3-3475-88e0-b98ec7523472 | -7.1355 | -44.0553 | 2026-05-26 14:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 121.3 |
+| 135e8a60-b647-3818-881d-5b50b6f05d46 | -5.7941 | -45.104 | 2026-05-26 14:00:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 122.5 |
+| 36d0860e-3918-3979-8c46-12e01602c2fb | -14.0327 | -46.3423 | 2026-05-26 14:00:00 | GOES-19 | POSSE | GOIÁS | Brasil | 5218300 | 52 | 33 | nan | nan | nan | Cerrado | 82.5 |
 
 
+[Clique aqui para ver as próximas entradas](README16.md)
