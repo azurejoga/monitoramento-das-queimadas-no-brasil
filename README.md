@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c1243c23-b966-3e4f-bc77-23102a3a0160 | -11.591 | -47.4496 | 2026-05-30 00:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 58.3 |
-| 5e22784f-bd4e-3299-b715-1eb35747a6dc | -10.7808 | -46.9281 | 2026-05-30 00:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 63.0 |
-| 36446346-8526-3eb5-90b3-16a950b49e5b | -10.7801 | -46.9729 | 2026-05-30 00:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 58.8 |
-| 6a864bfb-ea26-3fab-8de4-284e2c873e9a | -11.591 | -47.4496 | 2026-05-30 00:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 60.0 |
-| 849136e7-8791-3654-a393-b9e0bf82b9a6 | -10.7614 | -46.9529 | 2026-05-30 00:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 87.0 |
-| 56fb4886-0e4e-3d47-bb9b-45fdcf2ca27e | -10.7804 | -46.9505 | 2026-05-30 00:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 152.1 |
-| 0199d8a9-80bf-3704-aeaa-cefa359399f6 | -10.7801 | -46.9729 | 2026-05-30 00:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 57.1 |
-| c49de6a8-ceea-3f5b-a1d8-0da7a235a4d5 | -10.7614 | -46.9529 | 2026-05-30 00:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 68.6 |
-| 53d092c7-f2aa-3918-8b1c-860fe87b5534 | -10.7804 | -46.9505 | 2026-05-30 00:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 111.2 |
-| 5a173cf2-055a-3229-824b-e7c3821af8ef | -10.761 | -46.9753 | 2026-05-30 00:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| 00f18f97-00b9-3eaf-be27-278c877ad0aa | -10.7614 | -46.9529 | 2026-05-30 00:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 98.7 |
-| 6f810cfb-d8d3-3a04-8d04-41c0155b94fc | -10.7801 | -46.9729 | 2026-05-30 00:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 66.5 |
-| f5d8e4d5-78ab-3c41-8769-243740ffc4de | -10.7804 | -46.9505 | 2026-05-30 00:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 90.2 |
-| 4588c340-4031-3229-a895-e00cd4d91bc1 | -20.5733 | -48.9305 | 2026-05-30 00:30:00 | GOES-19 | OLÍMPIA | SÃO PAULO | Brasil | 3533908 | 35 | 33 | nan | nan | nan | Mata Atlântica | 89.3 |
-| ac2e35cd-6546-3685-a664-0c49a931415c | -10.799 | -46.9053 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 58a9baba-fc37-3bb9-b950-bb2da3e0d2f2 | -10.8315 | -46.911201 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 39445c45-b3cb-36fb-8ac1-d915cd599da7 | -7.3406 | -49.848499 | 2026-05-30 00:31:00 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e5afaf36-f9fe-3586-bd61-9cb9b1aa3038 | -11.5827 | -47.4436 | 2026-05-30 00:31:00 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4c952d28-2ac1-3794-84af-09aaefa6e4c0 | -20.9501 | -49.144798 | 2026-05-30 00:31:00 | METOP-B | UCHOA | SÃO PAULO | Brasil | 3555604 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| b4b44c8a-d671-3e04-92f3-3c12dd5f2dcc | -9.9305 | -48.6777 | 2026-05-30 00:31:00 | METOP-B | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3f50e236-6cf2-36ca-99f7-3882a4dd5093 | -10.8348 | -46.9245 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 43bebdd5-0ec9-340e-9b6e-99da22780b7b | -11.0709 | -55.032001 | 2026-05-30 00:31:00 | METOP-B | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2cd57061-f106-39b2-9287-365db88a76a5 | -11.0669 | -54.498402 | 2026-05-30 00:31:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b4ba04c8-7694-3192-8bb6-28365242a744 | -8.7252 | -47.8339 | 2026-05-30 00:31:00 | METOP-B | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| b1270978-3280-3b75-910b-b927da35653a | -8.7222 | -47.821499 | 2026-05-30 00:31:00 | METOP-B | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 721bda94-2f3c-30e2-9d08-b8fbc1cd4933 | -18.4664 | -54.692799 | 2026-05-30 00:31:00 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| f9c177b6-5679-3efb-80a6-bea824215e39 | -10.7667 | -46.941799 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 593c4c43-0ae6-32ff-83d1-497d0e6ffef7 | -6.2713 | -48.558701 | 2026-05-30 00:31:00 | METOP-B | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8f37b545-9fe9-3c31-9766-3eb3d37827f0 | -9.8915 | -52.429298 | 2026-05-30 00:31:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cd160ce6-de75-351d-9e0a-3ac200276e98 | -11.6254 | -55.171001 | 2026-05-30 00:31:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1daf2a09-37d5-31d0-a08b-fd752678f2cd | -7.3308 | -49.8508 | 2026-05-30 00:31:00 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ba3da731-dfa9-35c3-8558-794ba07ba1d7 | -7.3383 | -49.838699 | 2026-05-30 00:31:00 | METOP-B | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 2331dbfa-901c-3aa7-bf91-3a1e5ef5435b | -10.6299 | -48.323502 | 2026-05-30 00:31:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e5e1bd4b-9fa1-3901-9e71-4d2e66e1674e | -10.8023 | -46.918598 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 22973f65-87fb-37a0-82ca-2ac8d8ced4db | -11.5797 | -47.431702 | 2026-05-30 00:31:00 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f3afd2a0-b1f4-3205-8eb8-bd0b47241a7a | -6.2684 | -48.546501 | 2026-05-30 00:31:00 | METOP-B | SÃO GERALDO DO ARAGUAIA | PARÁ | Brasil | 1507458 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0b944f60-a9cb-3b50-acb3-3975848feba2 | -20.568701 | -48.925598 | 2026-05-30 00:31:00 | METOP-B | OLÍMPIA | SÃO PAULO | Brasil | 3533908 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
-| ad02a8a6-dd14-316b-a187-2253e287d66c | -10.757 | -46.944302 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2d5654c9-ae82-3f44-b4c0-272e61991e07 | -19.724701 | -54.646099 | 2026-05-30 00:31:00 | METOP-B | BANDEIRANTES | MATO GROSSO DO SUL | Brasil | 5001508 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 3d62a3aa-a183-3790-b079-13f1d94584c3 | -9.8931 | -52.436501 | 2026-05-30 00:31:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 920e307b-c45a-325b-b09c-d6bcd6393b51 | -10.8412 | -46.908798 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 8796fc84-60cd-361f-96cc-27a77849e311 | -18.4681 | -54.701199 | 2026-05-30 00:31:00 | METOP-B | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| 171da939-ef06-3321-9bb2-59d9623831a3 | -12.0007 | -47.757 | 2026-05-30 00:31:00 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1c63a57d-9ae7-3dea-9164-c5f45ab9300a | -11.627 | -55.178398 | 2026-05-30 00:31:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 20fe9d0f-9852-3c84-b994-e3df1f6414a6 | -10.6273 | -48.312599 | 2026-05-30 00:31:00 | METOP-B | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 88fe3aaa-7896-3c29-8fd7-62b40d896779 | -10.7603 | -46.9575 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 835f2f7c-d5a6-3f40-83b3-34e00f40f7c4 | -11.5856 | -47.455601 | 2026-05-30 00:31:00 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a202769a-e2c4-3776-bccd-9b611a6e1412 | -11.0725 | -55.039299 | 2026-05-30 00:31:00 | METOP-B | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| e7b706d0-ef8e-36d0-9cb5-cd9a213e6a42 | -9.9208 | -48.680099 | 2026-05-30 00:31:00 | METOP-B | MIRACEMA DO TOCANTINS | TOCANTINS | Brasil | 1713205 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f845d406-d615-3bca-9451-c670d8e3cca7 | -5.798 | -45.125198 | 2026-05-30 00:31:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 74ca4020-3293-3a0d-ac4d-1f24a9ee8cb5 | -10.7636 | -46.970798 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1d063d4c-4c63-3873-8d4b-92c93f0fc7a9 | -10.7733 | -46.9683 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7d98da60-a9bf-30d2-baf6-b5eb55da17dd | -7.5035 | -55.000801 | 2026-05-30 00:31:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 0f03e73a-e715-33c0-bb4a-1d6a906f0838 | -11.5925 | -47.441101 | 2026-05-30 00:31:00 | METOP-B | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7373bae1-2023-3546-893f-e0eb01c15530 | -10.77 | -46.955002 | 2026-05-30 00:31:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 46fef887-3e12-3b34-ac15-49a22d8b305b | -11.5895 | -47.429199 | 2026-05-30 00:31:00 | METOP-B | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| fb75d756-ce68-39d4-bbf4-ed652b3d5f9a | -11.9211 | -54.8322 | 2026-05-30 00:40:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 70.6 |
-| ac5b11de-c7d5-3fa1-8fb4-9283f5093812 | -11.9022 | -54.834 | 2026-05-30 00:40:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 175.7 |
-| c6024cc7-dff5-3d86-b17f-cdf07775d127 | -10.7804 | -46.9505 | 2026-05-30 00:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 71.2 |
-| fdd49503-d0dd-37d1-8eee-98653a006256 | -11.9024 | -54.8135 | 2026-05-30 00:40:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 70.9 |
-| 61e81c36-953d-3f35-88fd-d1b0f52cd5b3 | -10.7801 | -46.9729 | 2026-05-30 00:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 71.5 |
-| 416ef12b-3da2-39ef-b6e0-31505cbe5445 | -10.8379 | -46.921 | 2026-05-30 00:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 82.3 |
-| 16fea5a7-43e3-3c1e-ab7c-0cfcdf9110a4 | -10.8375 | -46.9434 | 2026-05-30 01:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| 4a70a635-6638-39e9-8a1c-6a4061d038fb | -10.8379 | -46.921 | 2026-05-30 01:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 112.1 |
-| e11458b3-df55-3fcd-8e1b-be29dfb17314 | -10.761 | -46.9753 | 2026-05-30 01:00:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 96.4 |
-| 09ca0e0e-99c5-3bb1-beec-ca2800c8e0e7 | -10.7801 | -46.9729 | 2026-05-30 01:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 79.9 |
-| 5e030fd0-7856-3455-b664-d68cc24bf2d1 | -10.761 | -46.9753 | 2026-05-30 01:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 118.7 |
-| 5d563cf7-7d8f-33d1-bc9e-00b03f5d8c9f | -10.8379 | -46.921 | 2026-05-30 01:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 114.7 |
-| 3cc209b6-94dc-3509-b091-d834eb2c1267 | -9.4769 | -40.3365 | 2026-05-30 01:10:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 91.9 |
-| 483dcac1-6324-35d4-b0c9-ad69dd4243f7 | -10.8375 | -46.9434 | 2026-05-30 01:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 107.5 |
-| 040a853a-4643-3a1b-bfc5-c8a5cc0dd39d | -9.4956 | -40.3586 | 2026-05-30 01:10:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 102.9 |
-| 6c83418f-7634-3b81-887e-54d67dbe7f7a | -9.496 | -40.3337 | 2026-05-30 01:10:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 155.4 |
-| 7e726464-2cc0-3fe3-9224-2c40e77fd052 | -10.7804 | -46.9505 | 2026-05-30 01:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| fb9aa460-b9ae-3971-bea1-5df925e5f15b | -10.761 | -46.9753 | 2026-05-30 01:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 114.5 |
-| 80cc4902-b0ff-3b04-a7eb-f95152a9a52e | -10.7801 | -46.9729 | 2026-05-30 01:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 85.6 |
-| f153758f-79ea-3d04-baa0-230fb1475490 | -9.4769 | -40.3365 | 2026-05-30 01:20:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 78.9 |
-| b19ad0ac-df69-37d9-b037-3f58cfc5f951 | -9.496 | -40.3337 | 2026-05-30 01:20:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 111.9 |
-| 787352bb-b989-3e19-87f9-b13025ef7f35 | -9.4956 | -40.3586 | 2026-05-30 01:20:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 75.9 |
-| d00bc877-34a9-3c51-8a8a-c49f2bd77631 | -9.4956 | -40.3586 | 2026-05-30 01:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 87.7 |
-| afa3e1b3-1cbe-3458-aeab-518d3e76390a | -10.8375 | -46.9434 | 2026-05-30 01:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 117.2 |
-| 12afd4e1-62d1-30bc-988e-c7ee6b733f85 | -10.761 | -46.9753 | 2026-05-30 01:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| 17fda300-7d58-3413-a158-d3ecbba5efa9 | -9.496 | -40.3337 | 2026-05-30 01:30:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 127.9 |
-| 59bd2598-aefe-34e4-a094-f6658c79cb53 | -11.9022 | -54.834 | 2026-05-30 01:30:00 | GOES-19 | SANTA CARMEM | MATO GROSSO | Brasil | 5107248 | 51 | 33 | nan | nan | nan | Amazônia | 64.1 |
-| e49c96d4-a580-3bdb-a0b4-1282906ecba9 | -10.8379 | -46.921 | 2026-05-30 01:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 130.5 |
-| d7c3b2ad-0f45-3e12-ad81-4e9fad988d2c | -9.3455 | -40.2062 | 2026-05-30 01:40:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 130.5 |
-| 45f9c417-61e2-35b1-bdea-843740081e00 | -10.8379 | -46.921 | 2026-05-30 01:40:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 65.7 |
-| 8b664de0-ffac-331c-a161-15967ac5bd61 | -10.761 | -46.9753 | 2026-05-30 01:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 90.6 |
-| 2637386e-4c35-390a-8757-0870ef0fa22d | -10.7801 | -46.9729 | 2026-05-30 01:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 69.3 |
-| 439dd922-b636-33f3-b51c-9100a50d75c3 | -10.8375 | -46.9434 | 2026-05-30 01:50:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 72.5 |
-| 6de07b4e-299f-3d9a-b4db-d562fc16f179 | -10.8379 | -46.921 | 2026-05-30 02:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 73.1 |
-| 6f4e38ca-cae2-3b17-b93e-8ba08d02fc33 | -10.761 | -46.9753 | 2026-05-30 02:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 69.8 |
-| 5ae3a150-c17d-33cf-8b7d-71567e0ce3ee | -10.7614 | -46.9529 | 2026-05-30 02:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 73.3 |
-| 7189672a-fee2-3e6f-8b78-1f796d902587 | -10.7804 | -46.9505 | 2026-05-30 02:10:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 69.6 |
-| eb02bd7a-f46f-3f7d-868c-123d71816c43 | -10.7804 | -46.9505 | 2026-05-30 02:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 90.3 |
-| 2867e769-b466-358a-a7b5-54b3aa145abb | -10.761 | -46.9753 | 2026-05-30 02:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 68.2 |
-| 896d8d19-cad1-3297-9b93-c9bd1bc847d5 | -10.7614 | -46.9529 | 2026-05-30 02:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 120.3 |
-| 6f36e14d-3718-3494-a4f1-9083dfedb6d5 | -10.7617 | -46.9305 | 2026-05-30 02:20:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| 99060359-98a8-34ac-bff8-ae276adcff03 | -10.761 | -46.9753 | 2026-05-30 02:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 70.5 |
-| 10a39038-8e85-3da4-8459-585ca1a702ca | -10.7804 | -46.9505 | 2026-05-30 02:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 95.3 |
-| 6ba93afa-d2c8-34fb-b097-136ad9140aeb | -10.7614 | -46.9529 | 2026-05-30 02:30:00 | GOES-19 | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 123.2 |
+| ce47ce81-ec63-31e0-bd5f-bcadd5e5ce18 | -8.7399 | -48.3205 | 2026-05-31 00:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 111.3 |
+| 29285813-e749-3aeb-92f0-e3557949a524 | -14.0494 | -58.1475 | 2026-05-31 00:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 61.3 |
+| ea23b5bf-9510-37cd-b93d-f694bf0a3d2b | -8.7396 | -48.3423 | 2026-05-31 00:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| ec8c6ee6-811b-30b4-9283-c99b3b9b11cd | -14.0302 | -58.1492 | 2026-05-31 00:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 60.1 |
+| 5e371998-67ae-336f-b041-9fb62a970d3a | -10.0537 | -51.6576 | 2026-05-31 00:00:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 191.0 |
+| 84544946-7f6d-3820-9ed7-8c3ae3b1a476 | -10.0725 | -51.6559 | 2026-05-31 00:00:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 566.8 |
+| c727dd9e-565e-3983-b606-c93701409e43 | -10.0728 | -51.6349 | 2026-05-31 00:00:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 122.7 |
+| ee157825-5749-34ab-868f-a8403a3fb14c | -10.0723 | -51.6769 | 2026-05-31 00:00:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 383.3 |
+| f449c4ec-1f8b-38e4-b710-c893ba28b886 | -10.0534 | -51.6786 | 2026-05-31 00:00:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 168.5 |
+| 751ab414-4c57-3504-8acf-3160b1d4318a | -8.7211 | -48.3222 | 2026-05-31 00:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| 29cfaab6-a539-3fb0-8720-3f0265880aa2 | -8.7211 | -48.3222 | 2026-05-31 00:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 95.8 |
+| 5c052c9d-dd73-351d-b8c1-4b397a84f1dc | -10.0537 | -51.6576 | 2026-05-31 00:10:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 219.5 |
+| c25c551d-288d-33a0-82f5-d6d086555f6d | -10.0534 | -51.6786 | 2026-05-31 00:10:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 154.6 |
+| b176e2b1-9d7e-3c83-8ecc-3bf5665fd0c1 | -14.0302 | -58.1492 | 2026-05-31 00:10:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 47.2 |
+| b56837c2-4f93-303c-89e4-e8d5fe6e9f33 | -10.0723 | -51.6769 | 2026-05-31 00:10:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 312.3 |
+| 2b6d0b4f-b256-3765-994f-62c1e0ff3237 | -8.7399 | -48.3205 | 2026-05-31 00:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| 226e4b93-9d22-36a5-8e00-b1283456ecf9 | -10.0728 | -51.6349 | 2026-05-31 00:10:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 119.8 |
+| 01c2bfaf-96f7-3bd9-b955-c9be3e94bfa8 | -10.0725 | -51.6559 | 2026-05-31 00:10:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 510.9 |
+| 5c29bef8-8e8e-31c6-b9b3-3b08c2122ae2 | -7.9949 | -55.5169 | 2026-05-31 00:10:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 136.6 |
+| 488bfa52-7143-39d4-a57d-70851fea9d3e | -14.0494 | -58.1475 | 2026-05-31 00:10:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| 39a23796-2275-369a-bba2-0ef11fdf69d6 | -10.0561 | -51.662899 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9bd56a26-1d29-3682-8ffc-be9e1bdb705d | -15.0531 | -49.457699 | 2026-05-31 00:11:00 | METOP-B | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 2725cafa-fbc1-3a0a-a665-41fb96336e2b | -10.0703 | -51.633598 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 91aa01bd-635f-3fd8-b107-2cf99591d2d3 | -12.4102 | -47.4869 | 2026-05-31 00:11:00 | METOP-B | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 927a50c0-c4b9-3d6d-a216-590e73142f43 | -12.9068 | -52.518002 | 2026-05-31 00:11:00 | METOP-B | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 910e5129-0342-37ca-895b-205fb3ba2f92 | -13.7101 | -52.957401 | 2026-05-31 00:11:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| b807e1b1-b06f-3bc7-891c-4b0084b6c9dd | -6.838 | -47.923698 | 2026-05-31 00:11:00 | METOP-B | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9135ed07-7b6b-3102-a221-fb13710eea3e | -10.0721 | -51.641899 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fc82bb83-6b52-397d-8a7b-3c697881cb2c | -8.73 | -48.3088 | 2026-05-31 00:11:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 04bd0185-648b-32dd-aa4e-0dd559a9f6b6 | -10.0623 | -51.6441 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 726860aa-9b8d-3782-9ac0-6df05a5bf139 | -10.0757 | -51.6586 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fcb5ea31-5009-3fa8-a948-0517d6e4fd80 | -14.0296 | -58.122898 | 2026-05-31 00:11:00 | METOP-B | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 8d97c8c8-7943-339d-b7f7-d34e40190521 | -10.5106 | -42.352699 | 2026-05-31 00:11:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 98c82b3c-c8f8-345e-a768-faf1326d90dc | -10.7922 | -46.900902 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bf88b49e-ea23-3d31-8ad8-2b5cb0a53c80 | -10.0605 | -51.635799 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4bef4b20-b7f6-3605-8e8b-44134319c215 | -10.7432 | -46.9123 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9fc1aa4b-7fed-3f2b-93e3-1b4b1feb32b2 | -8.2562 | -48.219898 | 2026-05-31 00:11:00 | METOP-B | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 91743466-8531-3d87-a749-f578fa63267c | -9.4538 | -51.819401 | 2026-05-31 00:11:00 | METOP-B | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| ee661465-d341-3ffa-a2d2-cd0ab718f1da | -6.044 | -47.879398 | 2026-05-31 00:11:00 | METOP-B | CACHOEIRINHA | TOCANTINS | Brasil | 1703826 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 888aa61c-63b9-3151-b5e7-e10ca6f76a4f | -10.7449 | -46.919498 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f4f04087-22d3-36dd-b419-41a7b185eaad | -10.0774 | -51.667 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3991e8a0-e272-3080-a38c-0c3891093608 | -10.7465 | -46.926701 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 30a7bded-23e8-326c-9748-b91c89bfc868 | -10.7645 | -46.914902 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 63b0eaff-ada8-3e5e-b8d4-89b9e242b039 | -7.9965 | -55.502499 | 2026-05-31 00:11:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| c0cc6de6-5e71-302e-963d-8ead8f44c93b | -7.5023 | -54.997799 | 2026-05-31 00:11:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0ad6dec7-1281-369d-92ed-11f86ae01479 | -12.3266 | -47.895599 | 2026-05-31 00:11:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2e008207-9a99-36c1-953d-cbd8b5e39e30 | -14.0393 | -58.121101 | 2026-05-31 00:11:00 | METOP-B | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| bdd23999-65f0-3d7e-ac90-8be30afab8be | -7.4997 | -54.985699 | 2026-05-31 00:11:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| dc26eb3f-8cd8-3b3d-b168-c82bc0c611dc | -10.0676 | -51.669201 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 390d1172-76c5-3591-a713-1dd3b4faac9e | -10.7939 | -46.9081 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 03cf854d-531d-3d32-b6eb-6d59e41c4eb0 | -13.7003 | -52.9594 | 2026-05-31 00:11:00 | METOP-B | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| cf976cd3-6074-3af5-ad6a-d56a540c5c86 | -12.9047 | -52.507801 | 2026-05-31 00:11:00 | METOP-B | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 036270d2-a168-3616-bfc6-e7a7bb6256cf | -10.7628 | -46.9077 | 2026-05-31 00:11:00 | METOP-B | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f65a44af-c326-3196-81c7-e0c23edfc726 | -12.3153 | -47.8908 | 2026-05-31 00:11:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| caa971a6-0d39-3a37-8a31-36564c0f3fa0 | -8.7315 | -48.3158 | 2026-05-31 00:11:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4526194b-f05b-36a2-8631-c3a5baf6d28e | -7.9937 | -55.489201 | 2026-05-31 00:11:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 00782af6-d395-3663-807b-fcb9ca38b2f7 | -10.8004 | -46.891399 | 2026-05-31 00:11:00 | METOP-B | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b919d8c8-354d-3204-b7bc-0758f1e7f99f | -11.9661 | -44.185799 | 2026-05-31 00:11:00 | METOP-B | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| f81af622-0fe6-335d-914e-8c8d5eb6608e | -10.0739 | -51.650299 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7413a88a-30f1-3e31-9b16-6f4609d6f447 | -6.0457 | -47.8866 | 2026-05-31 00:11:00 | METOP-B | CACHOEIRINHA | TOCANTINS | Brasil | 1703826 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b57a2cbf-ce9e-3aec-b4bd-89078b0350f4 | -7.9868 | -55.504501 | 2026-05-31 00:11:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 51879dd2-74fb-34f6-a9f2-a62341f2fe81 | -8.2578 | -48.226799 | 2026-05-31 00:11:00 | METOP-B | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1f84a6b6-6fe6-38fe-95c5-66f32dac2e4d | -7.9993 | -55.5158 | 2026-05-31 00:11:00 | METOP-B | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| fbcc0e35-68ec-3761-9247-b70377fc21fe | -10.0641 | -51.6525 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e05d21d9-0d0f-3038-b3b9-489973752e47 | -6.8396 | -47.930801 | 2026-05-31 00:11:00 | METOP-B | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e9471f7c-8ada-36b6-a6c2-0b0dbf7e9684 | -15.0548 | -49.465401 | 2026-05-31 00:11:00 | METOP-B | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| fc6779a8-0b85-36e7-a328-b460dad18847 | -21.2934 | -49.243198 | 2026-05-31 00:11:00 | METOP-B | URUPÊS | SÃO PAULO | Brasil | 3556008 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 1b1b8b32-c8e4-300b-a66c-71ba1fade789 | -12.1316 | -47.211399 | 2026-05-31 00:11:00 | METOP-B | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a84241c6-89cd-3eff-9c9f-0efbfec56aff | -12.3168 | -47.8978 | 2026-05-31 00:11:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 7fc5e675-aff5-3dd3-9649-7e76a0128706 | -11.9639 | -44.176701 | 2026-05-31 00:11:00 | METOP-B | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 833065d1-6fa4-318a-9e6a-61e0aef5050c | -8.7331 | -48.322701 | 2026-05-31 00:11:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9388b445-359e-3e03-ae43-8f79a1c54791 | -10.5135 | -42.364799 | 2026-05-31 00:11:00 | METOP-B | XIQUE-XIQUE | BAHIA | Brasil | 2933604 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 2621fc21-6d3a-3bfe-ba22-25d55a67f3a4 | -10.0659 | -51.660801 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 50b7469c-e6d8-369b-8173-7467e89c9e33 | -12.3251 | -47.888599 | 2026-05-31 00:11:00 | METOP-B | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| eaa816f6-5543-3627-95db-9086af21538d | -10.0543 | -51.654598 | 2026-05-31 00:11:00 | METOP-B | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 903083c1-baee-3161-9e3f-f0325c5c79eb | -11.7927 | -54.004002 | 2026-05-31 00:11:00 | METOP-B | FELIZ NATAL | MATO GROSSO | Brasil | 5103700 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b6c187e4-c68b-37ae-b0d9-8fb0b2be0711 | -10.0725 | -51.6559 | 2026-05-31 00:20:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 405.0 |
+| b86c4fc2-9012-3cfc-a64b-4f3cb816c7f9 | -10.0723 | -51.6769 | 2026-05-31 00:20:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 285.2 |
+| e8b41de8-4d98-3953-9d67-b1d613772f1f | -10.0537 | -51.6576 | 2026-05-31 00:20:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 223.1 |
+| 3d30d8d4-7bd1-328e-9b87-4e1e1ff9dc7c | -14.0494 | -58.1475 | 2026-05-31 00:20:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 43.8 |
+| fe8f4535-fca2-39d5-9c92-a8cd76b54cb0 | -10.0728 | -51.6349 | 2026-05-31 00:20:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 99.5 |
+| f5d0789f-d373-3dbb-84fa-623c7102f6f0 | -7.9949 | -55.5169 | 2026-05-31 00:20:00 | GOES-19 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 122.3 |
+| 90abe77c-4615-385d-bb03-b0415898f3fc | -8.7399 | -48.3205 | 2026-05-31 00:20:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| 2ca1c631-71f9-38f4-8ce4-8b23406e4ffe | -10.0534 | -51.6786 | 2026-05-31 00:20:00 | GOES-19 | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 175.2 |
+| c610e5a3-a240-3966-9793-63024ee6a6d2 | -8.7211 | -48.3222 | 2026-05-31 00:20:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 92.5 |
+| c7173427-cae3-3f9d-8c01-fded7aa3baba | -21.28643 | -49.25824 | 2026-05-31 00:24:00 | TERRA_M-M | URUPÊS | SÃO PAULO | Brasil | 3556008 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
+| 24b2b8cc-d5b5-3295-9105-0840ac454139 | -19.19897 | -54.95306 | 2026-05-31 00:26:00 | TERRA_M-M | RIO VERDE DE MATO GROSSO | MATO GROSSO DO SUL | Brasil | 5007406 | 50 | 33 | nan | nan | nan | Cerrado | 10.3 |
+| f69934df-fd6f-38dc-b134-1d5097ed808a | -15.05334 | -49.46534 | 2026-05-31 00:26:00 | TERRA_M-M | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | 34.2 |
+| 527e4888-22de-32ad-93c6-c7b3c36b3903 | -14.76595 | -52.69879 | 2026-05-31 00:26:00 | TERRA_M-M | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 9.2 |
+| 816ff206-ff01-370e-837f-f9a1a6d01295 | -14.77108 | -52.6701 | 2026-05-31 00:26:00 | TERRA_M-M | NOVA XAVANTINA | MATO GROSSO | Brasil | 5106257 | 51 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 1fd92c82-79c6-3fa1-b130-f9410c2cd500 | -15.05494 | -49.47612 | 2026-05-31 00:26:00 | TERRA_M-M | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | 34.7 |
+| c13c1b2e-d210-34e4-b1fd-b2153adb9509 | -10.57811 | -57.3171 | 2026-05-31 00:28:00 | TERRA_M-M | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 5.8 |
+| f5ac0bbd-991a-35b2-9ec9-ef0db3bfecac | -7.50039 | -55.01257 | 2026-05-31 00:28:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 13.7 |
+| 9b84f09f-ec6b-3e47-9d3c-e9dc23b39cdb | -7.99146 | -55.50993 | 2026-05-31 00:28:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 17.2 |
+| 57859a33-1a13-37df-8d1d-fd429583703f | -7.99278 | -55.51972 | 2026-05-31 00:28:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 89.0 |
+| 4ef44500-8872-3963-aa04-49c9d3279cc7 | -14.04041 | -58.14946 | 2026-05-31 00:28:00 | TERRA_M-M | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 34.3 |
+| 48d03248-9ed6-3010-aa7d-1755808b91e5 | -6.83878 | -47.94306 | 2026-05-31 00:28:00 | TERRA_M-M | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| de4cf8e4-da99-3a5c-b4e9-009f30e63167 | -8.00056 | -55.52277 | 2026-05-31 00:28:00 | TERRA_M-M | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 7.9 |
+| fa05d04e-1512-39b8-a500-97d66d67b2c3 | -11.56565 | -54.57985 | 2026-05-31 00:28:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
+| 982d0853-fa3e-38e9-89d3-03e29aaa18fd | -10.06662 | -51.64639 | 2026-05-31 00:28:00 | TERRA_M-M | VILA RICA | MATO GROSSO | Brasil | 5108600 | 51 | 33 | nan | nan | nan | Amazônia | 86.9 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
