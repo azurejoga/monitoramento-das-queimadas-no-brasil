@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b54ca8f4-b314-3b21-b667-ffd2475c3b2a | -11.5691 | -56.299999 | 2026-06-10 00:05:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| fbc7cce5-ba8a-32d2-a99f-246ef6489e47 | -12.4039 | -47.4897 | 2026-06-10 00:05:00 | METOP-B | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 5b6259a2-15eb-33b2-87bc-c91d4c9ce68c | -9.3151 | -45.484901 | 2026-06-10 00:05:00 | METOP-B | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| c0d32095-45c8-30a5-8ce6-e3d1cc5f6716 | -7.7192 | -44.562698 | 2026-06-10 00:05:00 | METOP-B | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 27cfd9c3-66cf-3747-8abf-ced00e386342 | -10.0096 | -48.2052 | 2026-06-10 00:05:00 | METOP-B | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e14af775-6ae5-3289-b21e-fd6ec60b38ad | -17.4261 | -43.807098 | 2026-06-10 00:05:00 | METOP-B | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 35a37386-0c87-36fd-b599-c22018ca8168 | -9.0819 | -50.596699 | 2026-06-10 00:05:00 | METOP-B | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| b0baa5b9-3daf-37db-8144-f489364c9418 | -3.4996 | -48.026501 | 2026-06-10 00:05:00 | METOP-B | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 850281d3-8e9b-37bb-b9a3-3c08c68e2e8e | -7.0905 | -46.508 | 2026-06-10 00:10:00 | GOES-19 | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 59.7 |
-| b3976955-3fbf-3c2f-b02a-9bfd3d50c592 | -7.1092 | -46.5065 | 2026-06-10 00:10:00 | GOES-19 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 95.5 |
-| cee8247b-a8b8-35d7-a6bc-2e331399ed6c | -9.3045 | -45.4809 | 2026-06-10 00:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 100.0 |
-| 5eed927b-565b-3c16-8724-cdd6562a6a6b | -9.3048 | -45.4581 | 2026-06-10 00:10:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 53.6 |
-| da991501-e4f1-3eaa-bb09-ca308b34a926 | -9.3152 | -48.9599 | 2026-06-10 00:10:00 | GOES-19 | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 66.7 |
-| f075854f-adbd-31e0-b486-611fcf5ed751 | -23.4409 | -47.7856 | 2026-06-10 00:10:00 | GOES-19 | TATUÍ | SÃO PAULO | Brasil | 3554003 | 35 | 33 | nan | nan | nan | Mata Atlântica | 71.1 |
-| 00c5953e-ff17-3b4e-bdb2-fba20349718d | -9.3234 | -45.4787 | 2026-06-10 00:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 83.1 |
-| f5996720-385b-3ef4-a773-facab1e453f6 | -7.109 | -46.5287 | 2026-06-10 00:10:00 | GOES-19 | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 65.9 |
-| 44cf82fd-26ab-3da6-9c47-4b53ebe3bb8e | -7.1092 | -46.5065 | 2026-06-10 00:20:00 | GOES-19 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 100.4 |
-| c96b1623-dab9-307f-982b-c6418476359d | -9.3045 | -45.4809 | 2026-06-10 00:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 96.9 |
-| 68fe8e6c-b67d-3048-b4f1-172d1041b67b | -7.0905 | -46.508 | 2026-06-10 00:20:00 | GOES-19 | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 72.3 |
-| d7bc8e90-808b-33c1-827d-6d35cceb2768 | -9.3234 | -45.4787 | 2026-06-10 00:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 84.6 |
-| 23fcae44-c2c0-3017-9b77-ef49e116107b | -21.3202 | -48.54067 | 2026-06-10 00:24:00 | TERRA_M-M | MONTE ALTO | SÃO PAULO | Brasil | 3531308 | 35 | 33 | nan | nan | nan | Cerrado | 28.2 |
-| 834f8e57-9fd2-3712-a9c5-fa1bf8171a71 | -13.95778 | -46.18885 | 2026-06-10 00:24:00 | TERRA_M-M | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 26.2 |
-| dc0b4a21-a84e-3b87-b58a-5617259bdd99 | -15.18118 | -43.86202 | 2026-06-10 00:24:00 | TERRA_M-M | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 43.7 |
-| 4d3ed238-1ea9-3101-acac-4eb1422649bf | -23.4411 | -47.79059 | 2026-06-10 00:24:00 | TERRA_M-M | TATUÍ | SÃO PAULO | Brasil | 3554003 | 35 | 33 | nan | nan | nan | Mata Atlântica | 100.6 |
-| 0d96a2e9-81c0-3841-b5d4-4c63c3fccb72 | -23.44269 | -47.80114 | 2026-06-10 00:24:00 | TERRA_M-M | TATUÍ | SÃO PAULO | Brasil | 3554003 | 35 | 33 | nan | nan | nan | Mata Atlântica | 11.2 |
-| 5f167709-84a9-31ac-be77-883cef9065c9 | -15.1775 | -43.86914 | 2026-06-10 00:24:00 | TERRA_M-M | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 26.6 |
-| efe0416f-f526-3bf9-90b4-754696d26622 | -18.9563 | -52.4638 | 2026-06-10 00:24:00 | TERRA_M-M | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 7.6 |
-| 3dbb58f3-cef5-3eb1-b59b-76bb739ce060 | -17.42745 | -43.80951 | 2026-06-10 00:24:00 | TERRA_M-M | BOCAIÚVA | MINAS GERAIS | Brasil | 3107307 | 31 | 33 | nan | nan | nan | Cerrado | 20.4 |
-| a34139f5-106e-3831-b5e1-83afbe89d442 | -14.36884 | -45.5601 | 2026-06-10 00:24:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 16.4 |
-| f75b40e7-911d-3b3d-beb4-fec26d15ebde | -18.68511 | -52.71323 | 2026-06-10 00:24:00 | TERRA_M-M | CHAPADÃO DO CÉU | GOIÁS | Brasil | 5205471 | 52 | 33 | nan | nan | nan | Cerrado | 9.8 |
-| 68af0868-cbbb-3ea2-bc46-5f83d04b992d | -15.17314 | -43.84357 | 2026-06-10 00:24:00 | TERRA_M-M | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 23.6 |
-| aa8359c6-dca8-3ca6-8719-aab69244af72 | -23.43183 | -47.79227 | 2026-06-10 00:24:00 | TERRA_M-M | TATUÍ | SÃO PAULO | Brasil | 3554003 | 35 | 33 | nan | nan | nan | Mata Atlântica | 15.5 |
-| 704335a3-5243-3b77-932c-62f8abfa5baf | -11.50935 | -56.12516 | 2026-06-10 00:26:00 | TERRA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 10.3 |
-| ee14a933-993c-3fdc-ad9e-6ee89b4810ab | -11.33422 | -51.40081 | 2026-06-10 00:26:00 | TERRA_M-M | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 2737ce70-2580-37b9-b108-7935f97f4840 | -10.67295 | -51.74619 | 2026-06-10 00:26:00 | TERRA_M-M | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 6.1 |
-| fc1f7997-0e96-368e-9ab8-e3e3f48e1d29 | -11.57374 | -56.32444 | 2026-06-10 00:26:00 | TERRA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 11.4 |
-| 5cba82cb-6a47-3c20-b1d4-1f865af79b95 | -9.3106 | -48.96926 | 2026-06-10 00:26:00 | TERRA_M-M | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| db25a156-dd83-336c-b1bb-75fe35a0b7f9 | -7.09765 | -46.52459 | 2026-06-10 00:26:00 | TERRA_M-M | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 129.6 |
-| c8fe0cb4-a3cb-3af8-aed0-24f124409e31 | -11.16828 | -44.69223 | 2026-06-10 00:26:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 43.5 |
-| 1a43d53e-a709-3039-b7ee-165c71514a58 | -11.7912 | -56.99267 | 2026-06-10 00:26:00 | TERRA_M-M | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 14.0 |
-| 4017351a-73e0-3e03-90df-e78ad7662d6b | -12.40405 | -47.50406 | 2026-06-10 00:26:00 | TERRA_M-M | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 31.4 |
-| 21e3171f-06a0-3d14-8296-9a545ed07a6b | -9.32081 | -45.48218 | 2026-06-10 00:26:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 71.3 |
-| 6dc186f4-369e-3e36-8416-5ebeb68adbfd | -9.20804 | -48.58408 | 2026-06-10 00:26:00 | TERRA_M-M | FORTALEZA DO TABOCÃO | TOCANTINS | Brasil | 1708254 | 17 | 33 | nan | nan | nan | Cerrado | 8.8 |
-| 45063a54-996d-3035-ba07-70ed0e7a28f0 | -9.13911 | -47.99076 | 2026-06-10 00:26:00 | TERRA_M-M | PEDRO AFONSO | TOCANTINS | Brasil | 1716505 | 17 | 33 | nan | nan | nan | Cerrado | 16.4 |
-| 9ccecf4c-8016-387b-ab8e-ad25b3b5a7f1 | -8.30179 | -48.23149 | 2026-06-10 00:26:00 | TERRA_M-M | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 12.7 |
-| 0ce6c3af-28d9-3e5b-b4d8-803e614119cb | -9.30692 | -45.48471 | 2026-06-10 00:26:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 113.0 |
-| d3272c29-d0ff-3a33-86d3-2d64262f0581 | -5.72859 | -49.10862 | 2026-06-10 00:26:00 | TERRA_M-M | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 15.7 |
-| b4f13f3d-7e8e-3553-9da4-e1f77d8ebf08 | -9.11411 | -47.96815 | 2026-06-10 00:26:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 7d940ccd-af9c-3465-8ba8-f9a07fe81433 | -11.60195 | -55.34084 | 2026-06-10 00:26:00 | TERRA_M-M | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| 6fb3fc27-d04d-38f0-9f0b-5fc7a09f9eda | -11.62363 | -55.1782 | 2026-06-10 00:26:00 | TERRA_M-M | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | 4.6 |
-| f27d5fc1-8687-33d3-880c-9d8ccd803449 | -5.75801 | -46.04284 | 2026-06-10 00:26:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| 7b0d3e4e-8ef2-34e5-83a3-0e896d983853 | -13.49827 | -54.30605 | 2026-06-10 00:26:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.0 |
-| cdb6a65a-f81f-3a34-bfa6-4c0ac4e80e27 | -11.57528 | -56.33693 | 2026-06-10 00:26:00 | TERRA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 5f00ed35-85be-33dc-b446-1dc7a7b09e42 | -7.11101 | -46.52242 | 2026-06-10 00:26:00 | TERRA_M-M | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 18.5 |
-| 62ecb423-bf75-3aa8-b334-d1607cd9245b | -9.32473 | -45.50647 | 2026-06-10 00:26:00 | TERRA_M-M | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 28.5 |
-| 957a9e8c-3109-3b4e-b508-22934f8f1b7b | -13.50761 | -54.30474 | 2026-06-10 00:26:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 12.6 |
-| 31130d9a-84ad-3308-a0c5-41218581ead7 | -10.01435 | -48.213 | 2026-06-10 00:26:00 | TERRA_M-M | PALMAS | TOCANTINS | Brasil | 1721000 | 17 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| b8226845-6923-32ee-ac72-aaf83c5dd2f9 | -5.76916 | -46.04778 | 2026-06-10 00:26:00 | TERRA_M-M | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 19.8 |
-| 7bbcfb7a-61e4-3a90-af10-de421a8b7e5d | -12.02481 | -47.80973 | 2026-06-10 00:26:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 13.7 |
-| 88c5918a-74a5-3596-986b-731c0b0e4eff | -9.77475 | -49.74793 | 2026-06-10 00:26:00 | TERRA_M-M | MARIANÓPOLIS DO TOCANTINS | TOCANTINS | Brasil | 1712504 | 17 | 33 | nan | nan | nan | Cerrado | 6.3 |
-| 41372807-25d0-3965-ba1c-7d3d9301feee | -11.38196 | -47.82319 | 2026-06-10 00:26:00 | TERRA_M-M | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 18.7 |
-| bd07f6a8-65cd-3b6e-bd9e-21f8ff5c90e2 | -9.31254 | -48.98219 | 2026-06-10 00:26:00 | TERRA_M-M | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 30.6 |
-| 37681a0a-e966-3991-993e-e36fe11fcbc7 | -11.56714 | -56.33102 | 2026-06-10 00:26:00 | TERRA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 11.0 |
-| d0ef396f-c964-348a-9f67-669f61b34f9e | -7.21637 | -44.10892 | 2026-06-10 00:26:00 | TERRA_M-M | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 34.4 |
-| 400e0378-43ac-33c9-a4ea-7bcb4e8a15cc | -11.3819 | -47.81667 | 2026-06-10 00:26:00 | TERRA_M-M | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 17.1 |
-| 04b2f5fc-d103-348b-91be-fde6e8f2fd9f | -11.16577 | -44.69824 | 2026-06-10 00:26:00 | TERRA_M-M | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 34.3 |
-| 4b5fcb63-5200-3bb4-83fa-193e2479fb86 | -9.75541 | -47.88062 | 2026-06-10 00:26:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| b1444db8-9fe9-3cf5-9fcc-cf4e98107936 | -12.47215 | -55.11852 | 2026-06-10 00:26:00 | TERRA_M-M | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 16.6 |
-| 913b1d06-b36c-3c24-9388-108e38491767 | -9.74618 | -47.88834 | 2026-06-10 00:26:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 8.5 |
-| 4d8ea704-3daf-3548-ab67-5c25140eecbb | -9.08037 | -50.60062 | 2026-06-10 00:26:00 | TERRA_M-M | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 10.6 |
-| ac3bea1c-4ae7-34cb-a445-6cf7f4f30e1e | -5.72643 | -49.094 | 2026-06-10 00:26:00 | TERRA_M-M | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | 16.1 |
-| 5b0d3c78-b4e2-3408-a729-50dbc02c893c | -7.2088 | -44.11537 | 2026-06-10 00:26:00 | TERRA_M-M | ANTÔNIO ALMEIDA | PIAUÍ | Brasil | 2200806 | 22 | 33 | nan | nan | nan | Cerrado | 55.9 |
-| 1da7f414-0ad7-3b6e-9563-b9c6360f1b57 | -8.97691 | -47.98085 | 2026-06-10 00:26:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 13.0 |
-| bb8c904a-6225-3df4-bfb3-c619656d3d99 | -7.09427 | -46.50272 | 2026-06-10 00:26:00 | TERRA_M-M | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 45.9 |
-| d234860e-7855-3f4b-80e3-759366c207da | -9.44114 | -47.64038 | 2026-06-10 00:26:00 | TERRA_M-M | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 19.7 |
-| 1764e9b8-97e0-3f52-add3-e95698f8cf62 | -9.11133 | -47.96305 | 2026-06-10 00:26:00 | TERRA_M-M | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| 9d3b09e9-f999-3392-b422-3229a025e479 | -10.67424 | -51.75534 | 2026-06-10 00:26:00 | TERRA_M-M | CONFRESA | MATO GROSSO | Brasil | 5103353 | 51 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 306ef874-ccc0-3f9e-b7b9-c6582724e588 | -12.02552 | -47.80344 | 2026-06-10 00:26:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 14.9 |
-| ae5ebb2f-f061-3163-9807-94e8ac2d2db1 | -3.80814 | -49.18841 | 2026-06-10 00:28:00 | TERRA_M-M | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 10.5 |
-| 4fe10170-db31-33b8-baf4-1c99c44955a1 | -3.50897 | -48.03512 | 2026-06-10 00:28:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 24.3 |
-| 8f581c6c-e600-3058-9884-0b5cdaccdfc5 | -3.50827 | -48.04152 | 2026-06-10 00:28:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 25.6 |
-| 714f8fd6-9c46-370e-a8e9-3c6e0c1ff81f | -3.4963 | -48.03669 | 2026-06-10 00:28:00 | TERRA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 11.8 |
-| af544334-f3f3-3b4f-bf66-2d8407b7b2cc | -7.106 | -46.5224 | 2026-06-10 00:29:00 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 706ca10d-7e97-3436-8483-9b5654ba3d04 | -3.5045 | -48.040001 | 2026-06-10 00:29:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 88e101b2-caca-370e-898b-94fb36e6da7d | -5.3017 | -47.243599 | 2026-06-10 00:29:00 | METOP-C | JOÃO LISBOA | MARANHÃO | Brasil | 2105500 | 21 | 33 | nan | nan | nan | Amazônia | nan |
-| fa78be2c-143a-3082-ba7c-d92128c4fc97 | -5.2884 | -43.9659 | 2026-06-10 00:29:00 | METOP-C | SENADOR ALEXANDRE COSTA | MARANHÃO | Brasil | 2111748 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e101992c-2e33-3152-a4d0-bfde7103ece8 | -7.1029 | -46.508598 | 2026-06-10 00:29:00 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 7e5a8cf0-9076-34d6-89c2-232cd4a007ef | -5.8032 | -45.115601 | 2026-06-10 00:29:00 | METOP-C | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d4e458d1-c621-3166-b70e-4e93e384ee1e | -5.7691 | -46.041199 | 2026-06-10 00:29:00 | METOP-C | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 6417ba99-f9a9-3b2b-8b2e-cd2dc5339f21 | -7.1044 | -46.515499 | 2026-06-10 00:29:00 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c603cae4-9371-38bc-8678-b51ec6ddd98b | -5.7707 | -46.048199 | 2026-06-10 00:29:00 | METOP-C | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8850b73c-f3c2-3a43-af40-bb9c062b1afa | -3.8049 | -49.181801 | 2026-06-10 00:29:00 | METOP-C | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| db4f3f3c-bce4-36f3-a5f8-d9a0f6170b93 | -5.2865 | -43.957699 | 2026-06-10 00:29:00 | METOP-C | SENADOR ALEXANDRE COSTA | MARANHÃO | Brasil | 2111748 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 30ddb9ba-97d4-3b4c-a130-29622f89aae9 | -3.5029 | -48.0331 | 2026-06-10 00:29:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 77e23d10-8c4b-3a8b-bc2c-98446bca4c10 | -4.5732 | -48.027599 | 2026-06-10 00:29:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 268d1a31-b119-307f-89f0-bbbd64e3e5ad | -5.6438 | -44.295898 | 2026-06-10 00:29:00 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 3f87a89f-a178-3423-955b-3283959c108a | -5.642 | -44.288101 | 2026-06-10 00:29:00 | METOP-C | SÃO DOMINGOS DO MARANHÃO | MARANHÃO | Brasil | 2110708 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 4c6abd2e-9573-3b9e-bf85-60df981daebf | -9.3234 | -45.4787 | 2026-06-10 00:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 103.7 |
-| 522085b5-24b5-377c-b430-ed4bac720a5a | -7.1092 | -46.5065 | 2026-06-10 00:30:00 | GOES-19 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| 79feded5-5e42-3c36-a9c4-ec01ef38d8bd | -7.0905 | -46.508 | 2026-06-10 00:30:00 | GOES-19 | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| bedfccca-3782-35ad-adce-f1349e19d4ec | -6.4545 | -44.5519 | 2026-06-11 01:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 102.4 |
+| 1400298c-cd83-33cb-9e09-7722a980281e | -9.3231 | -45.5015 | 2026-06-11 01:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 44.8 |
+| d554b198-e0d2-387e-bd85-835b7f61274f | -6.4355 | -44.5764 | 2026-06-11 01:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 115.7 |
+| f0218e44-0f4c-34a5-b7cd-03f97ba5de58 | -12.8548 | -44.3625 | 2026-06-11 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 55.5 |
+| 5523287a-734f-3402-be13-12ecec86152a | -6.4545 | -44.5519 | 2026-06-11 01:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| 0992983e-e142-31d4-9d38-8acdb0893577 | -6.4543 | -44.5749 | 2026-06-11 01:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 86.6 |
+| d749bb19-7e0c-3613-b799-c7370b3581fb | -6.4355 | -44.5764 | 2026-06-11 01:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 96.8 |
+| be033309-fa0c-3237-83af-6b42fefd7814 | -6.4357 | -44.5535 | 2026-06-11 01:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 113.3 |
+| faf59cd9-fb26-37d4-b0bf-8798295f396f | -9.3237 | -45.4559 | 2026-06-11 01:10:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 46.2 |
+| ab438689-0a24-3f25-83bc-fd4a2c5268c1 | -9.3045 | -45.4809 | 2026-06-11 01:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 69.3 |
+| 714337e8-2590-3487-8fdc-ea1f5d600c97 | -9.3234 | -45.4787 | 2026-06-11 01:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 155.6 |
+| 566dde51-a0dd-33e5-a13b-f61d54d30d56 | -6.4355 | -44.5764 | 2026-06-11 01:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 103.2 |
+| e769f562-961a-3018-b9e8-08670acdd357 | -6.4543 | -44.5749 | 2026-06-11 01:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 98.4 |
+| 45417487-c0df-3882-99dc-62c8808f4a9a | -9.3234 | -45.4787 | 2026-06-11 01:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 51.3 |
+| f3fbbf4c-816a-3a33-9811-a0f9e8717cad | -6.4545 | -44.5519 | 2026-06-11 01:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 100.1 |
+| d1d574ca-1ca6-3692-a792-f27959493a4d | -6.4357 | -44.5535 | 2026-06-11 01:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 99.0 |
+| 05dff4e3-6b60-3221-884e-3c6161085132 | -6.4355 | -44.5764 | 2026-06-11 01:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 99.5 |
+| 1ebadc55-61a0-3d19-aab4-a84cdede27c2 | -6.4543 | -44.5749 | 2026-06-11 01:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 95.0 |
+| 3102aac2-80ef-3305-811d-8ec39f1165fa | -9.3234 | -45.4787 | 2026-06-11 01:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 38.8 |
+| f1d0e52c-794f-349a-b8e3-2fc080daa3f3 | -6.4357 | -44.5535 | 2026-06-11 01:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 97.2 |
+| 6375650e-d6cc-363d-8c74-2258eeaea799 | -6.4545 | -44.5519 | 2026-06-11 01:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 96.1 |
+| 3b38baa6-b5b9-3dfd-9c98-f77037638fd6 | -12.8548 | -44.3625 | 2026-06-11 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 75.6 |
+| fdc1b6aa-6349-37a6-acc9-f50feb54a1a8 | -6.4545 | -44.5519 | 2026-06-11 01:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 81.3 |
+| 13d828ef-2203-3201-aedb-e29c6e20407a | -6.4355 | -44.5764 | 2026-06-11 01:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 102.3 |
+| 1b9692b3-ad37-3a70-ad96-8f4e0353461d | -6.4543 | -44.5749 | 2026-06-11 01:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.1 |
+| a1151592-07be-36e2-9b7f-5bf67580bb20 | -9.3234 | -45.4787 | 2026-06-11 01:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 51.4 |
+| 1ef38bb2-d31e-3156-9b30-71c67627cdce | -9.3237 | -45.4559 | 2026-06-11 01:40:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 29.4 |
+| d755e386-21bd-3911-9325-d7fe761f01b0 | -6.4357 | -44.5535 | 2026-06-11 01:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 122.7 |
+| 2bd55325-202c-30d4-8b3a-9cf91a45e01b | -12.8548 | -44.3625 | 2026-06-11 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 5797fbc1-4b2c-30b7-b464-3a13967bcd3b | -9.3234 | -45.4787 | 2026-06-11 01:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 72.9 |
+| fe6a877a-9505-35d5-88e4-935ff389fb67 | -9.3237 | -45.4559 | 2026-06-11 01:50:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 33.7 |
+| 9e0beeb7-0854-36f3-97fe-a6539bb458d5 | -9.3237 | -45.4559 | 2026-06-11 02:00:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 42.1 |
+| fcf24b52-e9f1-3987-afe7-33c856a732f6 | -9.3234 | -45.4787 | 2026-06-11 02:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 86.6 |
+| 9f8a9536-428a-3985-84a7-b52811173718 | -12.8548 | -44.3625 | 2026-06-11 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 62.9 |
+| 87876bd2-8480-3ed0-9427-ea819864cfb4 | -9.3045 | -45.4809 | 2026-06-11 02:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 37.0 |
+| 47f58086-3acb-30ab-b2ab-0647d250dee4 | -6.4545 | -44.5519 | 2026-06-11 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| 378622ff-649c-37c4-b6ce-e5a13ccb9128 | -12.8548 | -44.3625 | 2026-06-11 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| adc7b00c-904f-34bd-a2ee-544d587ce806 | -6.4355 | -44.5764 | 2026-06-11 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 81.0 |
+| 5c5cf3a6-4b45-375d-b4de-28bfda045009 | -6.4357 | -44.5535 | 2026-06-11 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 104.0 |
+| dc6abf29-3111-3f0b-b983-210e1f7b8929 | -9.3045 | -45.4809 | 2026-06-11 02:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 42.6 |
+| 0bdc9824-ee40-318d-be8b-bd1798c5db51 | -9.3234 | -45.4787 | 2026-06-11 02:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 112.3 |
+| 11acecd2-0e92-377d-b573-c9d67d7bc5c1 | -9.3237 | -45.4559 | 2026-06-11 02:10:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 56.7 |
+| ea4cf251-cfc4-3d17-8062-d91389510dcf | -6.4543 | -44.5749 | 2026-06-11 02:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| a2ed23bf-bcdb-3666-aef7-dc5673dfd656 | -6.4357 | -44.5535 | 2026-06-11 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 90.4 |
+| cd21927f-7156-33b5-8755-6e47af0afda5 | -6.4543 | -44.5749 | 2026-06-11 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 68.7 |
+| d598fecf-2bbd-33f6-8fd2-b03962ed4ba4 | -12.8548 | -44.3625 | 2026-06-11 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 65.4 |
+| 7ccabdda-351b-339a-a469-77a828bc1d86 | -6.4545 | -44.5519 | 2026-06-11 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| 3ff017f1-ffd4-329f-8b60-75cae0da2474 | -6.4355 | -44.5764 | 2026-06-11 02:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 80.2 |
+| db05895e-c249-3cc4-a6df-bf94cd47bd84 | -9.3237 | -45.4559 | 2026-06-11 02:20:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 42.3 |
+| 75a0ce02-daf5-3bc4-8ab5-6e1515eec623 | -9.3234 | -45.4787 | 2026-06-11 02:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 78.8 |
+| 160a3d74-7103-3ac9-a784-ee6509d80d10 | -9.3237 | -45.4559 | 2026-06-11 02:30:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 40.7 |
+| 068ded23-c288-3e35-8ed3-3769676fa2a5 | -9.3234 | -45.4787 | 2026-06-11 02:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 107.9 |
+| e2f16341-5c50-3b77-a7c8-851be84a4712 | -6.4355 | -44.5764 | 2026-06-11 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 81.9 |
+| 78e17d9a-defc-3018-920a-44434640f165 | -6.4543 | -44.5749 | 2026-06-11 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 67.2 |
+| e18c1057-619d-3b8a-8c70-cabd1a587914 | -6.4545 | -44.5519 | 2026-06-11 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 68.0 |
+| ddb40485-5677-341f-808c-40bf28c7d95a | -6.4357 | -44.5535 | 2026-06-11 02:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 85.8 |
+| ce226db2-fc54-36aa-951e-a322b10f4a92 | -12.8548 | -44.3625 | 2026-06-11 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 66.7 |
+| d360b78f-af97-360a-8958-2597ec459da6 | -6.4545 | -44.5519 | 2026-06-11 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| c0479e6b-df18-33c6-9e6d-e053614ca06e | -6.4355 | -44.5764 | 2026-06-11 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 77.8 |
+| 59fd6d07-82fb-3bd0-b1af-f92bc9ef9aeb | -9.3234 | -45.4787 | 2026-06-11 02:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 90.4 |
+| 6884f1ba-e0c7-36d5-ab46-efe0f7e0e71c | -6.4357 | -44.5535 | 2026-06-11 02:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 93.4 |
+| d72ed492-678d-37f4-a721-ab555e35a609 | -6.4545 | -44.5519 | 2026-06-11 02:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 67.8 |
+| 423605ae-3f4b-3b24-8f9e-760876f4db56 | -6.4543 | -44.5749 | 2026-06-11 02:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 70.7 |
+| 54a982b3-af90-3427-9f3f-7773a3a685e8 | -12.8548 | -44.3625 | 2026-06-11 02:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| 99e7dacd-6adb-31a9-903b-85625bb8fbf4 | -9.3045 | -45.4809 | 2026-06-11 02:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 47.9 |
+| eae9e595-3f58-3f9b-9cef-603846fb059e | -9.3237 | -45.4559 | 2026-06-11 02:50:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 49.7 |
+| da01763d-b449-3be3-8c40-807f761af1fb | -9.3423 | -45.4765 | 2026-06-11 02:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 40.1 |
+| a3ecc2d6-78f3-33e4-ab6f-900927e09768 | -6.4355 | -44.5764 | 2026-06-11 02:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 65.0 |
+| f83d0237-9a5b-3bf3-ba14-640245e5befa | -9.3234 | -45.4787 | 2026-06-11 02:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 133.7 |
+| adb2ea0d-b993-3da5-b6b0-dd2aff7681b1 | -9.3237 | -45.4559 | 2026-06-11 03:00:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 76a6f356-27de-38de-bf27-3bb891ec3887 | -12.8548 | -44.3625 | 2026-06-11 03:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 60.5 |
+| e2e97bfb-37f7-3125-95a8-b0c3895966f7 | -9.3234 | -45.4787 | 2026-06-11 03:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 126.9 |
+| c972481d-2ee1-30c0-becb-510e4e55b232 | -6.4545 | -44.5519 | 2026-06-11 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 52.6 |
+| f023d0ad-b590-3277-a9f5-e7ba15d4acf2 | -9.3234 | -45.4787 | 2026-06-11 03:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 103.8 |
+| 7695ce40-5727-33b1-bd5d-3c3aad0c3bec | -6.4357 | -44.5535 | 2026-06-11 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 64.9 |
+| 2a6afd56-80cf-3a63-a59d-a475e92e5447 | -6.4355 | -44.5764 | 2026-06-11 03:10:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 58.4 |
+| 93651d88-a7d8-3ff7-83ea-a295b38463ff | -9.3045 | -45.4809 | 2026-06-11 03:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 48.7 |
+| f4274df2-b7c7-3c48-8839-1619b053126a | -6.4545 | -44.5519 | 2026-06-11 03:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 69.1 |
+| f497ce24-4393-3227-9b1b-939d621f355c | -9.3045 | -45.4809 | 2026-06-11 03:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 39.8 |
+| 363f686d-3b62-3441-b5bc-58e85303b3c7 | -9.3234 | -45.4787 | 2026-06-11 03:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 121.3 |
+| c397a55c-6371-3b09-ac16-95b8438b4347 | -9.3423 | -45.4765 | 2026-06-11 03:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 47.4 |
+| f27afd4f-3759-3949-a749-868ddc8fa116 | -6.4357 | -44.5535 | 2026-06-11 03:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 74.8 |
+| 1d2430da-674a-317b-bb41-edf3bf346cb3 | -6.4355 | -44.5764 | 2026-06-11 03:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 66.0 |
+| b1e88ae9-fe3d-3f56-924e-b9cf0eeac496 | -6.4543 | -44.5749 | 2026-06-11 03:20:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 59.8 |
+| 9038c267-d80a-3e8e-8000-c715a208f6f9 | -6.4355 | -44.5764 | 2026-06-11 03:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 79.0 |
+| 53d031e3-5f55-3d52-9c12-bcd5cb378e97 | -6.4357 | -44.5535 | 2026-06-11 03:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 77.8 |
+| 396d8925-73eb-344a-9044-e33ac3fa85cc | -9.3234 | -45.4787 | 2026-06-11 03:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 122.2 |
+| 1d639d5e-da73-36ee-bef1-efe65ffe24ae | -9.3237 | -45.4559 | 2026-06-11 03:30:00 | GOES-19 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 46.9 |
+| f5b36be3-5805-32b2-916e-e835c011eed6 | -12.8548 | -44.3625 | 2026-06-11 03:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.8 |
+| 932a6dc2-8166-3040-b63d-db18d8ca70ad | -9.3045 | -45.4809 | 2026-06-11 03:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 54.7 |
+| 47c94192-54e6-367c-9c0c-bf2b5ea210f0 | -6.77609 | -37.51535 | 2026-06-11 03:36:00 | NOAA-21 | MALTA | PARAÍBA | Brasil | 2508802 | 25 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 0784b5ad-16e2-39e8-b77f-552f488d4c5b | -6.95851 | -44.54738 | 2026-06-11 03:36:00 | NOAA-21 | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 3f19958e-dd8f-316b-b694-63a05966dcc7 | -7.47772 | -36.60519 | 2026-06-11 03:36:00 | NOAA-21 | SERRA BRANCA | PARAÍBA | Brasil | 2515500 | 25 | 33 | nan | nan | nan | Caatinga | 1.0 |
+| 26eadcad-1bde-3b0d-9694-4fc4c228e7fd | -6.19188 | -44.8635 | 2026-06-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 2518342e-43bc-3d74-8d41-23e884e1d3a1 | -5.52204 | -37.48421 | 2026-06-11 03:36:00 | NOAA-21 | GOVERNADOR DIX-SEPT ROSADO | RIO GRANDE DO NORTE | Brasil | 2404309 | 24 | 33 | nan | nan | nan | Caatinga | 3.3 |
+| be2b773b-f8ef-3092-b3f2-8a2eaa99a2ca | -6.44022 | -44.57422 | 2026-06-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 05a66345-5aa3-3fd8-9cab-522f28159c95 | -5.93354 | -43.48405 | 2026-06-11 03:36:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| c3aa196f-432b-37a8-a0ce-c392d7b35d03 | -6.43943 | -44.5786 | 2026-06-11 03:36:00 | NOAA-21 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 85d90739-6d0e-3f6c-ac95-00d029f0e9a7 | -6.72934 | -39.27197 | 2026-06-11 03:36:00 | NOAA-21 | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 7.9 |
+| 56c37056-06e3-3eed-9481-ab0d5c36ddb8 | -5.51969 | -37.62085 | 2026-06-11 03:36:00 | NOAA-21 | FELIPE GUERRA | RIO GRANDE DO NORTE | Brasil | 2403707 | 24 | 33 | nan | nan | nan | Caatinga | 1.4 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
