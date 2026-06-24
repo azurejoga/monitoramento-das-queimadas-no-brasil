@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 3d4be173-1a39-37d1-b48e-40ef329bf7e2 | -1.03578 | -53.74069 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 61db1632-0315-3e57-8b6d-7af27fa0e4a1 | -3.12449 | -54.17702 | 2025-12-12 05:10:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f57a6652-2111-35fc-9482-94b7f6e7b4ea | -2.48821 | -47.7751 | 2025-12-12 05:10:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| e5ade9ce-e572-3f03-b62a-a5c8209cb341 | -1.31712 | -52.52776 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 8b1755ca-f5ca-3b1a-bc7d-d6f4335b61ee | -6.22179 | -55.63839 | 2025-12-12 05:10:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| f12d563e-b888-3e97-a560-0b9986797097 | -1.66201 | -46.22863 | 2025-12-12 05:10:00 | NOAA-21 | VISEU | PARÁ | Brasil | 1508308 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 9af6d4c4-51c6-3555-aca6-b0cf6dc00148 | -1.28803 | -53.16523 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| b6888b2c-f917-341a-ba88-ee98e65c1945 | -2.54258 | -47.80309 | 2025-12-12 05:10:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| a47b42b1-ef65-3d08-8078-47f05f1f3e80 | -2.42513 | -51.92991 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| 40b159ea-3a0b-3200-96e2-0890781e6387 | 1.12593 | -60.53143 | 2025-12-12 05:10:00 | NOAA-21 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a0601da1-ce7b-3afd-8364-4979aecf872b | -1.312 | -52.53604 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 3e2fa52b-4539-34af-9ec8-6458866227fe | -1.31836 | -52.53104 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| f60d8ca1-de37-3de4-b6d3-a4d74befefc9 | -2.47196 | -48.06258 | 2025-12-12 05:10:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 1f98a4c8-bac3-3ab9-9102-d75e868032bc | -6.51986 | -55.0401 | 2025-12-12 05:10:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 88bfaa22-c1c3-3bce-8ce5-3f9f0a604e04 | -3.15818 | -54.60337 | 2025-12-12 05:10:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 043a6f72-667f-3a9c-9c67-86058194994d | -1.39156 | -55.35065 | 2025-12-12 05:10:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 257a4b69-0a2e-3924-8e13-d3b0e755ee28 | -1.53609 | -54.81461 | 2025-12-12 05:10:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| a797b1ff-e283-392d-9f43-acbdd09fa07d | -2.09617 | -53.41777 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
-| f75f45fd-f868-362d-af42-2fdb022150ac | -0.97376 | -53.18356 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 67dec1e3-c075-351c-bb97-904c470371d4 | -6.03123 | -43.70247 | 2025-12-12 05:10:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| b554aa0b-aaf1-3793-8aa6-f2f1800389c4 | -6.56265 | -56.13826 | 2025-12-12 05:10:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fcd19a65-8375-3f7c-b457-0b1295f1a841 | -2.88891 | -53.00977 | 2025-12-12 05:10:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| cdb66863-766b-3791-9c55-c73053fe8404 | -2.43857 | -47.19536 | 2025-12-12 05:10:00 | NOAA-21 | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| f2a78558-ffcd-3a1b-96a6-bf04e0099d41 | -3.02827 | -49.05808 | 2025-12-12 05:10:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 63154066-2e6f-3568-847a-4fd453d76a9d | -2.88521 | -53.00917 | 2025-12-12 05:10:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
-| 3b4253b4-2265-3d0f-bd2b-1de08871df54 | -3.12313 | -54.17722 | 2025-12-12 05:10:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 9c64cf56-6a28-30b4-ab87-cbce6d770082 | -3.0215 | -52.82428 | 2025-12-12 05:10:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 27f4b672-6f5c-3bbb-ada5-857c51e57f71 | -1.84535 | -46.39611 | 2025-12-12 05:10:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 5b9e6ef2-3492-3144-aec4-3f06d55b3548 | -2.24184 | -46.51334 | 2025-12-12 05:10:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 09d014b0-a71b-3d4f-ba05-769842b3bfe1 | -3.69484 | -52.05352 | 2025-12-12 05:10:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 59d6a374-c39c-33aa-a738-7abcbf9c288c | -3.17223 | -52.42221 | 2025-12-12 05:10:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| e1698d92-4eed-3a20-a492-da83d9eb800a | -1.31329 | -52.53933 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 535bc913-daf9-3b32-a67d-3d9294a80e69 | -2.15221 | -53.75904 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 209c9756-06c3-3397-83de-73c31c70971a | -3.54324 | -54.67566 | 2025-12-12 05:10:00 | NOAA-21 | PLACAS | PARÁ | Brasil | 1505650 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 2c561d5a-9ea2-3564-a4e5-b329db1bb251 | 0.46341 | -60.43386 | 2025-12-12 05:10:00 | NOAA-21 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| 46d8222b-4a6c-33f7-b866-1c7be312f527 | -6.55984 | -56.13416 | 2025-12-12 05:10:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 276ced44-ba19-307a-95ba-b90e2f3d64fe | -2.42589 | -51.92485 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| 7ae3c65f-1320-38d9-9389-5d9171872ecb | -3.06301 | -52.39059 | 2025-12-12 05:10:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 5f0fe895-915d-33fd-889c-18aa491fb7aa | -2.21905 | -45.40281 | 2025-12-12 05:10:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 2.2 |
-| f7002494-95c9-3d04-89c6-78d07f9f529d | -3.36651 | -54.82058 | 2025-12-12 05:10:00 | NOAA-21 | MOJUÍ DOS CAMPOS | PARÁ | Brasil | 1504752 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 444c77cb-9b43-390e-b22f-552b57035314 | -6.52045 | -55.03622 | 2025-12-12 05:10:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 59bbaf3c-2723-3622-9936-4a94bca0bb02 | -1.56494 | -55.89593 | 2025-12-12 05:10:00 | NOAA-21 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| fa9dc65b-3f35-3544-bf18-5aa144fba19b | -2.7491 | -52.97449 | 2025-12-12 05:10:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| a3138139-f57b-33aa-a900-e1bd335f50e1 | -2.25441 | -53.7537 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8a673d7b-657a-361c-8232-734b0e2b73bc | -3.02457 | -52.82935 | 2025-12-12 05:10:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 802da79a-39cb-3e29-a495-ce28b2481283 | -6.51696 | -55.03569 | 2025-12-12 05:10:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| d37154a8-9ad6-3f21-ae8e-8be96ae576dc | -2.42981 | -51.92546 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 19.9 |
-| 70bb17fd-9ec5-30c1-b570-771dafa8b820 | -2.29812 | -45.59107 | 2025-12-12 05:10:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| a99543cf-962c-3183-aecd-41c7c66acb45 | -3.85539 | -46.95496 | 2025-12-12 05:10:00 | NOAA-21 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 3e238cc8-6001-3a2c-96ef-48a5947e6d59 | -1.37222 | -55.387 | 2025-12-12 05:10:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 376393cc-fa8f-3b4c-b4d0-e5001558f535 | -2.24124 | -46.5172 | 2025-12-12 05:10:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 1dd340dc-8db5-3ae1-b580-43eff37a2cff | -3.34342 | -52.99992 | 2025-12-12 05:10:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| fb9e3525-56e2-3fa0-86ec-e8fcfb12cecd | -2.94234 | -53.03148 | 2025-12-12 05:10:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 44fdbafe-459a-3d23-abe9-a4ebc89d788a | -2.49988 | -51.80436 | 2025-12-12 05:10:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 3a028d97-bbe7-3736-8dce-56a06a6bcd35 | -1.49373 | -55.48054 | 2025-12-12 05:10:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| d4f74f0c-5155-30f8-a44f-7d5d11edd128 | -3.63132 | -51.94384 | 2025-12-12 05:10:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 96b82cee-666d-3c8b-ab82-4dea0220be36 | -2.6487 | -51.64182 | 2025-12-12 05:10:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 215ae58b-d0ab-3863-8cc5-3d1bd5362c3d | -1.29254 | -54.09849 | 2025-12-12 05:10:00 | NOAA-21 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| d0cc382b-03fa-3bf9-80bb-a9f34479a50a | 0.46255 | -60.43116 | 2025-12-12 05:10:00 | NOAA-21 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| cff38159-0ed4-36a4-8ed7-d6146804522b | -2.50063 | -51.79928 | 2025-12-12 05:10:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| db915285-e275-32dd-a373-70414c640b5f | -2.68928 | -59.42516 | 2025-12-12 05:10:00 | NOAA-21 | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| cd175d75-e12b-3d71-a2a7-b593e47cf762 | -3.23726 | -47.46975 | 2025-12-12 05:10:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 517bebfd-41dc-3d16-bc3d-2a8c172e5099 | -3.68979 | -52.00569 | 2025-12-12 05:10:00 | NOAA-21 | SENADOR JOSÉ PORFÍRIO | PARÁ | Brasil | 1507805 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c56da538-db31-3e0b-901c-fc4d2ae91b32 | -1.3097 | -53.49059 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 70e5ca0c-53c8-3803-a9a4-195dcb8d93e9 | -1.76123 | -54.03958 | 2025-12-12 05:10:00 | NOAA-21 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| b0b4e631-96ad-3db0-92cd-0989f7a80c5d | -3.25199 | -52.8364 | 2025-12-12 05:10:00 | NOAA-21 | MEDICILÂNDIA | PARÁ | Brasil | 1504455 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
-| c0b2419d-e300-3f65-95f9-d30cc69a5db2 | -2.23186 | -45.40011 | 2025-12-12 05:10:00 | NOAA-21 | TURILÂNDIA | MARANHÃO | Brasil | 2112456 | 21 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 98ced13d-7be3-3ea6-8a73-cec437503598 | -1.93315 | -52.10459 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| c218593c-4171-30f4-9d85-de449f069290 | -2.49713 | -51.80238 | 2025-12-12 05:10:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| 26708e64-2127-38fc-87f6-111c1af89500 | -6.02798 | -43.70679 | 2025-12-12 05:10:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 11009699-03a8-3835-8cbf-ed370f3c632a | -2.42829 | -51.93549 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 10.8 |
-| 99d4485d-8fc8-3ff4-a7a0-dc27558d0b2d | -2.6602 | -51.64713 | 2025-12-12 05:10:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 07034df1-f0ad-3eb0-a29e-e38bc4876d6b | -4.84723 | -45.51796 | 2025-12-12 05:10:00 | NOAA-21 | MARAJÁ DO SENA | MARANHÃO | Brasil | 2106359 | 21 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 8bb83af4-c531-3261-b0a4-8b7e4d3ad0e0 | -1.29586 | -53.16228 | 2025-12-12 05:10:00 | NOAA-21 | ALMEIRIM | PARÁ | Brasil | 1500503 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| b57c2e8d-e94b-3bc3-afcf-5713db60dd87 | -1.79815 | -45.76266 | 2025-12-12 05:10:00 | NOAA-21 | CÂNDIDO MENDES | MARANHÃO | Brasil | 2102606 | 21 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 9aeb186a-a336-341b-81a9-e35e54c518b0 | -1.03636 | -53.73691 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 97f0d701-b7b0-3c0d-8d2a-0e4f48e1dc1f | -2.8873 | -47.79836 | 2025-12-12 05:10:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b5d1654d-1ba4-3a6e-add8-ceb761ef52d8 | -6.03503 | -43.70791 | 2025-12-12 05:10:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| c990d776-a460-32b2-ae03-83404a5d5112 | -3.19597 | -51.10059 | 2025-12-12 05:10:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| e55dae6e-58c3-305a-98c5-9e3ab3f8f17b | -2.66072 | -51.64364 | 2025-12-12 05:10:00 | NOAA-21 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
-| 2d941797-2352-39f5-8d4e-493c94d98488 | -2.23921 | -46.51289 | 2025-12-12 05:10:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| c50a7397-ad69-39d9-a86f-19cb1974cd8e | -1.03288 | -53.73633 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2ba851e4-a92b-3e11-955f-c529b6d69878 | -3.02902 | -49.05292 | 2025-12-12 05:10:00 | NOAA-21 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| fcc19fc4-f2b3-33d9-982f-e6e836b50e93 | -2.43687 | -47.19156 | 2025-12-12 05:10:00 | NOAA-21 | GARRAFÃO DO NORTE | PARÁ | Brasil | 1503077 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| d3984c1c-cd8d-3531-a891-49d1cb335e96 | -1.19659 | -54.1759 | 2025-12-12 05:10:00 | NOAA-21 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| a88d0b34-ce15-3994-a805-cbba8fa9dcc1 | -2.89204 | -47.80235 | 2025-12-12 05:10:00 | NOAA-21 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 78c60137-2b36-30d2-8942-ddf32591d3c8 | -6.02418 | -43.70132 | 2025-12-12 05:10:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 25d5e770-96ad-345e-885f-d4b481349359 | -2.42121 | -51.92929 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 11.7 |
-| e22d649a-51fe-30df-a8e9-cd091c918864 | -3.12099 | -54.17649 | 2025-12-12 05:10:00 | NOAA-21 | SANTARÉM | PARÁ | Brasil | 1506807 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 714650cf-070c-32e9-a30d-1862c22093d5 | -3.06685 | -52.39118 | 2025-12-12 05:10:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
-| 14677870-c93f-3111-b04f-6dfba1d8c12d | -2.43689 | -51.93168 | 2025-12-12 05:10:00 | NOAA-21 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 16.3 |
-| c8903dee-9232-36ed-b534-9efd063a000e | -3.01775 | -52.82377 | 2025-12-12 05:10:00 | NOAA-21 | BRASIL NOVO | PARÁ | Brasil | 1501725 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| a3d1146b-2125-347c-b6ca-125a14a6356b | -2.25733 | -53.75821 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
-| 81979e96-bfc0-3b77-af03-7420c5bbfcd7 | -3.84979 | -46.95404 | 2025-12-12 05:10:00 | NOAA-21 | ITINGA DO MARANHÃO | MARANHÃO | Brasil | 2105427 | 21 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| eaf288bc-93ab-31a1-b98c-e4b4f1f60624 | -1.34688 | -54.60984 | 2025-12-12 05:10:00 | NOAA-21 | MONTE ALEGRE | PARÁ | Brasil | 1504802 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 7dd5a891-f6f6-33dc-a038-1419175c6f6a | -1.56756 | -54.76794 | 2025-12-12 05:10:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a271f504-a560-3b6f-8519-c67cf8b92948 | -2.2538 | -53.75767 | 2025-12-12 05:10:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 842eced4-c94b-3be2-b8dc-18f1c7c2d9e9 | -2.60894 | -58.16286 | 2025-12-12 05:10:00 | NOAA-21 | ITAPIRANGA | AMAZONAS | Brasil | 1302009 | 13 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 11d08b2f-cc5a-311e-8546-3c44abac5460 | -1.49428 | -55.47706 | 2025-12-12 05:10:00 | NOAA-21 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5685fe0e-1f8a-340f-a0d5-197a168255ab | -2.23864 | -46.51676 | 2025-12-12 05:10:00 | NOAA-21 | CACHOEIRA DO PIRIÁ | PARÁ | Brasil | 1501956 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 94e6cb53-f9bd-3d4a-b713-418f9e45e2da | -12.7764 | -44.4223 | 2026-06-24 13:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 216.4 |
+| b7e12da5-bfbe-3f85-84a1-e3da9779fa0f | -12.8354 | -44.3657 | 2026-06-24 13:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 135.0 |
+| d515d48b-5edf-3c22-8278-77359053b0d2 | -12.8548 | -44.3625 | 2026-06-24 13:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 133.8 |
+| ccd1129d-3ae7-3a5b-86d9-32b841dcc6b2 | -12.8359 | -44.3422 | 2026-06-24 13:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 112.5 |
+| ccaf375b-4a95-3456-af61-016f6317f73a | -12.8354 | -44.3657 | 2026-06-24 13:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 130.4 |
+| f3d5596d-61a2-3a21-8de4-16332eb3ee61 | -11.2407 | -43.3464 | 2026-06-24 13:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 139.1 |
+| beee1081-2a67-3e92-a995-3f290fee2b58 | -12.7764 | -44.4223 | 2026-06-24 13:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 226.6 |
+| 586f2153-bd33-338b-94c8-b82a8fb28a85 | -12.8552 | -44.3389 | 2026-06-24 13:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 106.5 |
+| beedaf22-1f12-3618-9acd-7535ece0609e | -15.7635 | -43.2146 | 2026-06-24 13:10:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 98.2 |
+| fe863a61-31db-3501-b94e-416ee4bddaa2 | -9.7442 | -47.8688 | 2026-06-24 13:10:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 99.4 |
+| 1a8197ea-5d55-30c4-a7ed-0cdcda43d8c9 | -12.8552 | -44.3389 | 2026-06-24 13:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 113.1 |
+| 2efac78e-4750-3756-9c96-79e3e17e9ece | -11.318 | -43.3109 | 2026-06-24 13:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 81.2 |
+| fc48d07c-e362-3e19-a564-11858e0f58e9 | -9.7439 | -47.8908 | 2026-06-24 13:20:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 78.7 |
+| 16490198-77f3-31cb-ab1b-0d189da13a6f | -12.8359 | -44.3422 | 2026-06-24 13:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 134.0 |
+| c23a6443-2ca0-30d7-bd02-19f4a0ce1daf | -11.3175 | -43.3347 | 2026-06-24 13:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 101.4 |
+| 1d12976a-4005-3540-8ebc-dd84988ef0a6 | -12.8354 | -44.3657 | 2026-06-24 13:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 131.4 |
+| e71f32b0-f6e7-3248-9a16-bc32ad94611e | -15.7635 | -43.2146 | 2026-06-24 13:20:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 91.7 |
+| a2cfc6b7-7545-33bd-9794-4626393561d8 | -12.8548 | -44.3625 | 2026-06-24 13:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 126.8 |
+| 1c42f665-0c4a-3b7c-802d-9385c22bffb8 | -12.7764 | -44.4223 | 2026-06-24 13:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 210.3 |
+| b856acee-d8dd-33cc-8ec9-d0fd114a76c8 | -11.2407 | -43.3464 | 2026-06-24 13:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 139.9 |
+| d24aad6b-f1f2-348d-9fc4-d5c70760ba1d | -9.7442 | -47.8688 | 2026-06-24 13:20:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 90.4 |
+| fdc2c541-5380-3537-ba78-f5e588ee692d | -12.7764 | -44.4223 | 2026-06-24 13:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 178.3 |
+| 288a9043-5e2a-38d9-b6eb-5f9c30769e3e | -12.8548 | -44.3625 | 2026-06-24 13:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 134.8 |
+| 39a90bd8-ed6f-34b5-9733-fe5857a6b066 | -9.7439 | -47.8908 | 2026-06-24 13:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 71.4 |
+| f0e72de5-71de-31df-b2eb-e2b69fadde88 | -11.2407 | -43.3464 | 2026-06-24 13:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 103.5 |
+| e838243e-ebec-386a-b730-054d4b64d47c | -12.8359 | -44.3422 | 2026-06-24 13:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 116.8 |
+| ab254da7-748f-372b-89a7-e53e08dd062b | -11.591 | -47.4496 | 2026-06-24 13:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 93.2 |
+| 50d2406f-48d2-3020-bee3-0effc1c90891 | -9.7442 | -47.8688 | 2026-06-24 13:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 117.0 |
+| 83eb8576-0338-32e2-a080-15e03c4f9f96 | -12.8354 | -44.3657 | 2026-06-24 13:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 129.0 |
+| 1b6875b8-0cc4-3744-ba83-58826c006907 | -9.7442 | -47.8688 | 2026-06-24 13:40:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 81.8 |
+| cc4e7fad-9f04-30b1-a31f-76fa4842857c | -9.7439 | -47.8908 | 2026-06-24 13:40:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 71.6 |
+| 1a57f094-06bc-33f2-955c-a15d8e9d086b | -15.7635 | -43.2146 | 2026-06-24 13:40:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 82.0 |
+| e4f2e5a3-5fd2-3c4b-9c48-4982896340da | -12.8354 | -44.3657 | 2026-06-24 13:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 155.0 |
+| 02496372-cbf9-3861-b2fb-e5c609870cae | -12.8359 | -44.3422 | 2026-06-24 13:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 148.4 |
+| ff9d4470-8b16-3036-8c84-6713a5de1cf0 | -11.3175 | -43.3347 | 2026-06-24 13:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 86.2 |
+| 1f117141-72e5-3054-bc18-eeabf91e326e | -12.7764 | -44.4223 | 2026-06-24 13:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 169.0 |
+| c39163b3-3d19-3c94-9a7d-b07a92ae246b | -11.318 | -43.3109 | 2026-06-24 13:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 82.5 |
+| 362734d4-9127-3dce-b537-ccfddaeaac22 | -11.2407 | -43.3464 | 2026-06-24 13:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 250.8 |
+| acee57e4-2219-3f03-9ece-1327c7c8f1a5 | -12.8354 | -44.3657 | 2026-06-24 13:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 120.8 |
+| 90c5fcd0-48f8-3ddb-83cc-adf9e3a4fe97 | -11.591 | -47.4496 | 2026-06-24 13:50:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 87.4 |
+| 0f2c94d1-785f-3c6f-9608-80072b6f3296 | -11.2211 | -43.373 | 2026-06-24 13:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 78.0 |
+| 9106b62b-c3c9-373e-b84a-fa5825818ec7 | -11.2216 | -43.3493 | 2026-06-24 13:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 224.6 |
+| 6a3aebef-be29-3bde-8f6e-e9a56e850a2e | -12.7764 | -44.4223 | 2026-06-24 13:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 163.2 |
+| 7bd55226-2066-307b-bb14-22b3365057b7 | -15.7635 | -43.2146 | 2026-06-24 13:50:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 142.2 |
+| 10b48583-fe33-3101-a8c5-b01a75eee17a | -11.2403 | -43.3701 | 2026-06-24 13:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 89.3 |
+| da91da79-06ec-3793-88be-bbbd3104664a | -9.7439 | -47.8908 | 2026-06-24 13:50:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 83.7 |
+| 454bc7bd-260b-3c66-ba96-25b1afed6c10 | -9.7442 | -47.8688 | 2026-06-24 13:50:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 103.0 |
+| 1e317c6a-3635-3f7d-8a19-d8cc727b1ba4 | -12.8359 | -44.3422 | 2026-06-24 13:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 133.9 |
+| cb41db6d-25a2-3103-ad0b-98a879a0d592 | -15.7629 | -43.239 | 2026-06-24 13:50:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Cerrado | 91.1 |
+| 823877d9-761a-359f-99a0-74718b2d66db | -12.8552 | -44.3389 | 2026-06-24 13:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 121.3 |
+| 7499d046-667a-30fa-9705-feae0fb9e176 | -9.7442 | -47.8688 | 2026-06-24 14:00:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 97.6 |
+| 39a6415c-aac9-3716-a6b4-f491e9a66c18 | -12.8354 | -44.3657 | 2026-06-24 14:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 131.6 |
+| b73a5024-f7bf-3b9c-90dd-2b7869009e0a | -11.591 | -47.4496 | 2026-06-24 14:00:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 87.1 |
+| 9a82278d-6f61-37d5-be5e-3725c056f870 | -6.5924 | -43.8957 | 2026-06-24 14:00:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| 63dd3d28-deb0-3af4-82c2-8c3ad6bc0af7 | -12.7764 | -44.4223 | 2026-06-24 14:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 147.7 |
+| 3bd2b705-5ead-3404-bf23-a95a3598cde5 | -11.2216 | -43.3493 | 2026-06-24 14:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 177.7 |
+| 45a8d03e-098e-3558-970a-69bbb4a14e5d | -14.6973 | -46.1364 | 2026-06-24 14:00:00 | GOES-19 | SÍTIO D'ABADIA | GOIÁS | Brasil | 5220702 | 52 | 33 | nan | nan | nan | Cerrado | 89.9 |
+| c6e615ed-dd89-3580-b095-e38c11155efd | -11.2403 | -43.3701 | 2026-06-24 14:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 103.1 |
+| 9b3ea6a6-34df-394d-a95e-83662e943151 | -12.8359 | -44.3422 | 2026-06-24 14:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 138.0 |
+| 28a8f15d-5b0d-3976-b831-ce7d3accfceb | -9.7439 | -47.8908 | 2026-06-24 14:00:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| 70fa5f5f-77de-360f-b199-7acfeff800e6 | -11.2407 | -43.3464 | 2026-06-24 14:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 206.8 |
+| a2b77922-3291-3fb0-9e0b-eac8fe9fccd0 | -11.2211 | -43.373 | 2026-06-24 14:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 91.7 |
+| 168ffb29-fd92-3999-82e1-e567bc3d3ed9 | -15.7629 | -43.239 | 2026-06-24 14:00:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Cerrado | 121.6 |
+| 77660de4-1b36-3d8c-b397-c904ec56cf13 | -15.7635 | -43.2146 | 2026-06-24 14:00:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 216.3 |
+| b86a6729-9e49-35bf-b798-b8327cdec50c | -6.5924 | -43.8957 | 2026-06-24 14:10:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 95.8 |
+| 17f0fd26-cb4a-3202-9356-030443cf5f0b | -9.7439 | -47.8908 | 2026-06-24 14:10:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 66.3 |
+| cca835dd-701a-31c8-88d7-7c7ed94421ac | -12.8359 | -44.3422 | 2026-06-24 14:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 131.8 |
+| a6711f53-bf85-33f7-9c5f-cec50ce82a2d | -15.7635 | -43.2146 | 2026-06-24 14:10:00 | GOES-19 | PORTEIRINHA | MINAS GERAIS | Brasil | 3152204 | 31 | 33 | nan | nan | nan | Caatinga | 128.9 |
+| da489fba-07f8-3975-b979-3ade0d507e03 | -11.591 | -47.4496 | 2026-06-24 14:10:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 114.6 |
+| ab968c22-5516-33e1-b004-0c259fb01843 | -11.2407 | -43.3464 | 2026-06-24 14:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 174.0 |
+| 84be6422-f1d9-3642-a890-8b35fc2565de | -9.7442 | -47.8688 | 2026-06-24 14:10:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 100.8 |
+| 982cbe41-5d93-329c-8af9-9c06f27c331b | -12.8354 | -44.3657 | 2026-06-24 14:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 151.3 |
+| 0d36061b-91bd-3905-9933-1c39f7382eac | -11.2216 | -43.3493 | 2026-06-24 14:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 145.1 |
+| 34e90636-11d6-394d-877d-00d3f33228be | -8.9427 | -45.68 | 2026-06-24 14:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 87.6 |
+| 9ab655e4-466f-3e62-84c6-925d92d765a9 | -11.2407 | -43.3464 | 2026-06-24 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 174.7 |
+| 02158521-eb59-3e5a-8275-9b34aa7abdae | -12.8359 | -44.3422 | 2026-06-24 14:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 147.0 |
+| 18693d4b-3697-33f2-adbf-59e07e55b8ce | -12.8354 | -44.3657 | 2026-06-24 14:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 133.5 |
+| 9ef7f07b-9619-3bd7-a9d6-763891656ab9 | -11.591 | -47.4496 | 2026-06-24 14:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 113.1 |
+| 940bfb7e-952d-3ab2-a6c6-dbd597dfb1be | -11.318 | -43.3109 | 2026-06-24 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 86.8 |
+| a2d93ca9-4c0c-3273-a80a-3f6f943202bc | -9.7442 | -47.8688 | 2026-06-24 14:20:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 90.9 |
+| f395b37a-796c-3d7d-be5e-1bc4857ed6d6 | -11.3175 | -43.3347 | 2026-06-24 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 88.2 |
+| dc64df4a-2600-30cd-9702-263fe2c41b43 | -11.5914 | -47.4273 | 2026-06-24 14:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| a587eb31-d927-365c-95dc-9001067a28e2 | -6.5924 | -43.8957 | 2026-06-24 14:20:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 87.3 |
+| ea37004f-495f-38f5-a17a-06b556604e1e | -11.2216 | -43.3493 | 2026-06-24 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 122.4 |
+| a154efd5-bc5f-3241-ab38-b829ed4e0c4f | -9.7439 | -47.8908 | 2026-06-24 14:20:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 76.8 |
+| 5fe60262-49c9-3d6f-a3b8-a9d5b2f82d5e | -12.8552 | -44.3389 | 2026-06-24 14:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 135.9 |
+| 422339f8-7a32-32dc-9ac4-b602947b9679 | -11.2403 | -43.3701 | 2026-06-24 14:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 88.1 |
+| 9735a8d2-84d7-3f52-b1de-7f95e33c6707 | -8.9427 | -45.68 | 2026-06-24 14:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 90.7 |
+| 74219a91-3c62-330b-b663-7d04fdb97881 | -11.591 | -47.4496 | 2026-06-24 14:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 119.9 |
+| 4280b99a-5bae-3b7e-b022-223a2ab5541d | -11.2407 | -43.3464 | 2026-06-24 14:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 131.2 |
+| 9408a73a-dc6d-322e-95e2-f8fc9feeaf2d | -11.2216 | -43.3493 | 2026-06-24 14:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Caatinga | 111.5 |
+| 3f2a80bf-828c-3583-af79-a05384c1f51b | -9.7439 | -47.8908 | 2026-06-24 14:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 66.2 |
+| c111c00d-9fa6-3570-9ee5-b6afbeecda62 | -12.8354 | -44.3657 | 2026-06-24 14:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 135.9 |
+| f22a6c77-1c3c-3f96-a7a2-1ee6c6946322 | -6.5924 | -43.8957 | 2026-06-24 14:30:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 95.7 |
+| 95011f80-9654-325f-a54a-5e683bc6cef6 | -12.8359 | -44.3422 | 2026-06-24 14:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 143.4 |
+| 429269bc-9683-34a9-ab1c-e98169a84400 | -9.7442 | -47.8688 | 2026-06-24 14:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 100.5 |
+| 4cf58a24-d2d5-373b-9de8-73ed1bee9d2c | -12.8552 | -44.3389 | 2026-06-24 14:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 127.2 |
+| 6fb4d4cc-6348-3146-be97-f1225218764c | -11.591 | -47.4496 | 2026-06-24 14:40:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 92.1 |
+| 3733d2e0-00a5-36c9-86dd-2350f872276a | -6.5924 | -43.8957 | 2026-06-24 14:40:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 105.9 |
+| 27b5abfd-2023-3227-aa1b-4c8729c45925 | -9.7442 | -47.8688 | 2026-06-24 14:40:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 75.7 |
 
 
 [Clique aqui para ver as próximas entradas](README23.md)
