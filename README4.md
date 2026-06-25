@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 2327074c-82f0-331b-8750-0799e6a1addd | -9.2179 | -45.3321 | 2026-06-24 00:43:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 1942f5bd-b14b-32b0-a5b6-dc6c0394334f | -12.8723 | -44.366402 | 2026-06-24 00:43:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 9fbe42a1-c63b-3196-8021-be1a0f9ce5db | -6.588 | -43.912498 | 2026-06-24 00:43:00 | METOP-C | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 4a16a9b2-b7a9-3766-b2bb-f4c14ebf2f8d | -5.7281 | -49.094398 | 2026-06-24 00:43:00 | METOP-C | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| f74d68f1-4998-3425-9b0a-a6ad90fddc6e | -7.5988 | -46.477901 | 2026-06-24 00:43:00 | METOP-C | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 034ef4f8-5bef-3779-8492-612d7d3aa252 | -8.6818 | -47.855499 | 2026-06-24 00:43:00 | METOP-C | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 0bf352e0-79f9-3ee8-ba48-5a6c4f1be1a8 | -9.1925 | -46.496601 | 2026-06-24 00:43:00 | METOP-C | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f9fa33e2-f98e-337f-a3c2-8a5d49a05230 | -12.6619 | -47.6758 | 2026-06-24 00:43:00 | METOP-C | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d94a483d-c94d-3264-a322-032c8f52f7d1 | -3.8734 | -42.979198 | 2026-06-24 00:43:00 | METOP-C | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 9513c460-fa25-35c0-b2d3-de4d5f45a8ad | -8.6132 | -46.007 | 2026-06-24 00:43:00 | METOP-C | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f68173a5-361f-3668-967b-92756f4dd501 | -3.8667 | -42.951099 | 2026-06-24 00:43:00 | METOP-C | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 0db31575-17ed-3e6d-b9fd-fe9aef505fb4 | -9.7488 | -47.8764 | 2026-06-24 00:43:00 | METOP-C | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 52546120-6fc6-38f0-87cc-fe02bb6c4f25 | -8.8821 | -48.5051 | 2026-06-24 00:43:00 | METOP-C | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 9fc5e3dc-2772-3bff-8c8c-ed1737bbddf3 | -9.5872 | -49.115898 | 2026-06-24 00:43:00 | METOP-C | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 53631826-38a5-3746-81b2-f1b14b0586df | -12.7794 | -44.4534 | 2026-06-24 00:43:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 09077043-c210-3c48-a7f4-d4f81e69c737 | -6.9894 | -42.8867 | 2026-06-24 00:43:00 | METOP-C | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 4f31b4b2-ee28-36f7-8e74-39069dc36e66 | -17.6134 | -46.692101 | 2026-06-24 00:43:00 | METOP-C | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 9e669bf3-1332-3d4a-bef7-a2f3963e46de | -6.9992 | -42.884399 | 2026-06-24 00:43:00 | METOP-C | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | nan |
-| 03a9ca2c-5208-39f4-a92e-80394c4beaa6 | -11.6205 | -48.494598 | 2026-06-24 00:43:00 | METOP-C | PEIXE | TOCANTINS | Brasil | 1716604 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 2360ee94-1734-3afc-9827-deae203cbcad | -11.4869 | -46.732399 | 2026-06-24 00:43:00 | METOP-C | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e83b8e2c-1b8a-3df0-9bd2-a5ed78d82817 | -9.4536 | -40.3606 | 2026-06-24 00:43:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| b2fc2862-4fb1-3b9a-bb5c-455dc56c2520 | -9.4484 | -40.380299 | 2026-06-24 00:43:00 | METOP-C | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | nan |
-| 31ccd9db-e7f5-3e58-aa3e-c5f16effd92f | -6.5925 | -43.887901 | 2026-06-24 00:43:00 | METOP-C | NOVA IORQUE | MARANHÃO | Brasil | 2107308 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e7a53736-ae74-3e14-880d-1149fc4f2ddb | -17.2612 | -46.315701 | 2026-06-24 00:43:00 | METOP-C | JOÃO PINHEIRO | MINAS GERAIS | Brasil | 3136306 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 57ad2e29-c9a7-39fc-82c3-6359913fd162 | -8.2708 | -49.3536 | 2026-06-24 00:43:00 | METOP-C | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 29fe2037-5764-3091-a66d-30c1c132ee4d | -7.9246 | -48.285599 | 2026-06-24 00:43:00 | METOP-C | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4dd2c189-11a7-3dd3-897c-8d70ab17db80 | -11.9699 | -49.230202 | 2026-06-24 00:43:00 | METOP-C | CARIRI DO TOCANTINS | TOCANTINS | Brasil | 1703867 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 3764c98b-84d6-3cbd-912d-2065e9cb3c21 | -10.8018 | -48.563801 | 2026-06-24 00:43:00 | METOP-C | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 810eda0b-b850-355a-96c1-239e45a55453 | -6.5978 | -43.910099 | 2026-06-24 00:43:00 | METOP-C | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 579aac13-5331-3bfc-9143-a473e961a9a9 | -12.7306 | -49.0891 | 2026-06-24 00:43:00 | METOP-C | TALISMÃ | TOCANTINS | Brasil | 1720978 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c4d6353a-6453-3ef0-816a-362e8d460d3b | -5.8214 | -45.063999 | 2026-06-24 00:43:00 | METOP-C | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 72940432-34f8-35a9-a894-6a625c6af37b | -11.5476 | -48.262199 | 2026-06-24 00:43:00 | METOP-C | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 91fe1427-47cd-3d33-92d0-f21d795e5728 | -9.925 | -53.283501 | 2026-06-24 00:43:00 | METOP-C | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 53f0c3e0-75ec-3679-83d2-eb4951a7722b | -8.3133 | -45.392502 | 2026-06-24 00:43:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| be68cb50-28b7-3705-841b-5e4378534a1e | -10.117 | -47.547901 | 2026-06-24 00:43:00 | METOP-C | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 7ff8f268-c12f-3d8d-8129-dc77f927fa88 | -5.7379 | -49.092201 | 2026-06-24 00:43:00 | METOP-C | MARABÁ | PARÁ | Brasil | 1504208 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e175abac-fdf6-3f27-bf3a-521c2248d0ed | -7.9164 | -48.2948 | 2026-06-24 00:43:00 | METOP-C | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4585a293-5de6-30b7-a978-7987a00caeba | -9.9272 | -53.293598 | 2026-06-24 00:43:00 | METOP-C | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b99b8308-a91d-3f36-94ac-d81dd7f9b77d | -12.8464 | -44.345001 | 2026-06-24 00:43:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| b0ad5d86-8dd3-3161-953f-87ea1fe88cc2 | -17.2875 | -47.033298 | 2026-06-24 00:43:00 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| 94bebbaa-8993-3985-a1dd-9e16c740e36b | -12.5187 | -48.275002 | 2026-06-24 00:43:00 | METOP-C | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f3517741-e575-33c0-ac9e-9a63df18891b | -12.8269 | -44.3498 | 2026-06-24 00:43:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| f98d01c0-205f-3787-a37b-9d5989576dbc | -12.5171 | -48.267899 | 2026-06-24 00:43:00 | METOP-C | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 98068ad9-8eba-363a-af13-90c085e97906 | -6.3569 | -43.594299 | 2026-06-24 00:43:00 | METOP-C | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| ee67b9f2-dc5f-3329-a4fe-acde2925eae6 | -8.1317 | -47.885101 | 2026-06-24 00:43:00 | METOP-C | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a93d2d6d-8801-3417-813f-f0d0eed43ac0 | -4.3358 | -48.957901 | 2026-06-24 00:43:00 | METOP-C | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 6dded74b-b3e1-3c32-b219-a56e04fd61b3 | -6.8383 | -47.867298 | 2026-06-24 00:43:00 | METOP-C | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4d5b4803-312b-372a-9f9e-61f07b899835 | -5.8191 | -45.054298 | 2026-06-24 00:43:00 | METOP-C | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 6fab7f10-27d9-363f-a286-1bad5cc05092 | -12.829 | -44.358501 | 2026-06-24 00:43:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 14debe0e-a88b-3e7c-8bfa-1b4db84fd3b5 | -10.1088 | -47.557201 | 2026-06-24 00:43:00 | METOP-C | NOVO ACORDO | TOCANTINS | Brasil | 1715101 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 50f4a49c-8ce0-3e59-8b50-6fc677d96723 | -7.3668 | -47.031601 | 2026-06-24 00:43:00 | METOP-C | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e71ceff5-2954-3836-8de1-2e847280a742 | -9.1907 | -46.488998 | 2026-06-24 00:43:00 | METOP-C | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f0a9228f-3756-3c2b-b6bb-c89ed0debf64 | -17.289101 | -47.040401 | 2026-06-24 00:43:00 | METOP-C | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
-| db2a4709-89ad-3a74-b07d-573c134375ca | -12.8367 | -44.347401 | 2026-06-24 00:43:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 0fb72672-d7b5-3046-a687-fa55cfea8be2 | -8.69 | -47.846199 | 2026-06-24 00:43:00 | METOP-C | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| c7fe5778-ee3c-3b10-8c76-77856ddc954f | -5.8093 | -45.056599 | 2026-06-24 00:43:00 | METOP-C | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 2086976f-f9ab-3ebe-aaa5-4553e5dd4588 | -9.2199 | -45.340599 | 2026-06-24 00:43:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 2f27d315-482b-312d-bbf2-0c5f7852c027 | -7.2871 | -46.248901 | 2026-06-24 00:43:00 | METOP-C | NOVA COLINAS | MARANHÃO | Brasil | 2107258 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| fbb7d4aa-c675-384a-97da-58b96f525582 | -6.8481 | -47.865101 | 2026-06-24 00:43:00 | METOP-C | DARCINÓPOLIS | TOCANTINS | Brasil | 1706506 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 8aeae934-fe6e-3a0f-8594-ac61eb92598b | -7.9262 | -48.292599 | 2026-06-24 00:43:00 | METOP-C | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ee7d9cbb-84e8-3c61-9ff2-c7b4b092a707 | -6.3667 | -43.5919 | 2026-06-24 00:43:00 | METOP-C | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| e9dba909-6b95-37fa-bd91-de3ce4549f33 | -3.9682 | -43.118 | 2026-06-24 00:43:00 | METOP-C | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| c9d527e3-dcc7-3fc7-8835-dd794a096e27 | -9.4395 | -48.872501 | 2026-06-24 00:43:00 | METOP-C | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 6f14c4f0-47b7-3301-a1c1-80a86e81a75a | -13.0705 | -53.341599 | 2026-06-24 00:43:00 | METOP-C | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ab7c56af-a314-371f-aa55-647882c805a3 | -7.9148 | -48.287899 | 2026-06-24 00:43:00 | METOP-C | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 434282e1-86b4-3a6b-ba7b-7e6147f0c8c8 | -13.0827 | -53.3524 | 2026-06-24 00:50:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 114.1 |
-| 2e97f953-e14e-36f3-af15-cd1b674c4c67 | -13.0635 | -53.3546 | 2026-06-24 00:50:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 151.2 |
-| 9d0bdf8d-5623-3d12-adea-7d8a0a5cb292 | -12.776 | -44.4458 | 2026-06-24 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| de830452-0856-3dfe-9036-e0d0907d31e4 | -6.3703 | -43.5898 | 2026-06-24 00:50:00 | GOES-19 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 91.5 |
-| bb3a014b-1848-3236-bf01-5f758adab6c2 | -12.7764 | -44.4223 | 2026-06-24 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 44.0 |
-| 151232f8-5ed4-311f-9618-e72378bd9531 | -12.7953 | -44.4426 | 2026-06-24 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.5 |
-| a4e5e066-3ae8-3485-9cba-fba0690e1a2c | -6.5924 | -43.8957 | 2026-06-24 00:50:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 82.9 |
-| 55277818-3958-39d4-a029-fecbf6d3a8a4 | -12.776 | -44.4458 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 53.7 |
-| 671f6b8f-1f14-338b-9887-880dc4bb9f4c | -12.8354 | -44.3657 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 887.8 |
-| 450cdbf1-00a3-3785-b02e-bc14dfd83876 | -13.0635 | -53.3546 | 2026-06-24 01:00:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 136.4 |
-| c7b37d80-84d5-3f63-b4d7-cc99fefd886a | -12.8543 | -44.386 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 47.9 |
-| 995279cb-007e-3b46-bfbc-ea7b1f1f0826 | -12.8359 | -44.3422 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 472.8 |
-| 0f07f0a3-c20d-3d30-8b63-4467ea464d7c | -6.3703 | -43.5898 | 2026-06-24 01:00:00 | GOES-19 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 92.8 |
-| 2bbca740-90cb-3aef-9b22-af3ce8e41dc2 | -12.8349 | -44.3892 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 77.8 |
-| 330d9cc3-8aa0-3692-9bf3-173bdd4e9664 | -12.8548 | -44.3625 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 493.5 |
-| cf29fd63-a471-3756-a626-003187d2e4e6 | -13.0827 | -53.3524 | 2026-06-24 01:00:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 87.5 |
-| 608bb5d1-578e-3903-bed3-d14995084062 | -12.7953 | -44.4426 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| 9af73e6a-00cd-3dd5-8b4b-7899b1dd14a3 | -12.8552 | -44.3389 | 2026-06-24 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 249.7 |
-| 136789cb-22ef-3a44-a145-5887134bac0d | -6.5924 | -43.8957 | 2026-06-24 01:00:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 80.1 |
-| 1dafc539-da10-3ed1-8eaf-ba607769ee73 | -6.3703 | -43.5898 | 2026-06-24 01:10:00 | GOES-19 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 119.2 |
-| 35f45173-5e75-380b-9ca6-8e8cc6ce4de9 | -12.8552 | -44.3389 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 241.0 |
-| 772d1dd7-a7fa-3e5a-9f85-9552b8fe3523 | -13.0635 | -53.3546 | 2026-06-24 01:10:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 112.8 |
-| 5c8f2580-f823-3e0e-b2c7-11a97ec195b5 | -6.5924 | -43.8957 | 2026-06-24 01:10:00 | GOES-19 | PASTOS BONS | MARANHÃO | Brasil | 2108009 | 21 | 33 | nan | nan | nan | Cerrado | 75.5 |
-| fd7b5257-e121-39b0-9375-d57cdc554bce | -13.0827 | -53.3524 | 2026-06-24 01:10:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 90.0 |
-| 559e35dd-1603-349a-a000-91beeef075c1 | -12.8543 | -44.386 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 75.4 |
-| 7501e0a9-fac1-3327-b47a-01fd9618e16c | -12.7953 | -44.4426 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.9 |
-| 55d160c8-9b5e-35f9-85f1-ca6d3f94b221 | -12.8359 | -44.3422 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 357.6 |
-| 5ce8ae6e-f226-3ed1-80d3-df27470db730 | -12.8354 | -44.3657 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 791.7 |
-| 2b3dcca4-c014-3dd3-85e5-c6a835a95c45 | -12.8548 | -44.3625 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 541.9 |
-| e5e14c95-049f-3d80-a74e-bdd2ac6c33b7 | -12.8349 | -44.3892 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 103.1 |
-| b8ed43c8-d736-3c3a-9bb1-184ab1af483f | -12.776 | -44.4458 | 2026-06-24 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.8 |
-| 9aa1bc0b-94dd-337f-b3d1-c92fbaaf565b | -6.3703 | -43.5898 | 2026-06-24 01:20:00 | GOES-19 | SUCUPIRA DO RIACHÃO | MARANHÃO | Brasil | 2111953 | 21 | 33 | nan | nan | nan | Cerrado | 93.0 |
-| ccc3401c-7265-3b7a-9cae-48bdca03dc79 | -12.776 | -44.4458 | 2026-06-24 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.4 |
-| d7b35ba0-b4a7-3e03-8aac-8f9dbdd6b19d | -13.0635 | -53.3546 | 2026-06-24 01:20:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 121.5 |
-| 2e4f9fd9-e07a-3990-8997-a0d867432a45 | -13.0827 | -53.3524 | 2026-06-24 01:20:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 80.7 |
+| e026c1ff-acf7-376c-9872-6f11ac879977 | -8.6889 | -47.8664 | 2026-06-25 00:40:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 69.8 |
+| b3483369-52ef-35f3-a633-dd41b72132e6 | -12.7369 | -44.4756 | 2026-06-25 00:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 74.5 |
+| ef9f252d-fa8c-379b-9e7f-e6419b99725d | -17.365 | -42.6035 | 2026-06-25 00:40:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| a26470b5-a133-317e-8083-9cf0770f49e4 | -12.216 | -55.4968 | 2026-06-25 00:40:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 155.1 |
+| 49354647-1a1b-3459-8de4-ad098a986f8e | -17.3442 | -42.6333 | 2026-06-25 00:40:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 104.8 |
+| 5b690be8-f513-3ada-8d20-1a45cdad6414 | -12.7562 | -44.4724 | 2026-06-25 00:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 52.6 |
+| 8168756f-8451-3156-90c6-efe57c9dea31 | -12.7373 | -44.4521 | 2026-06-25 00:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 152.4 |
+| 493ee55a-4a64-3b8a-a588-0284829cd948 | -12.7566 | -44.449 | 2026-06-25 00:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 91.5 |
+| 1713327c-c4b3-34de-aec7-8ab025fc9b1a | -7.7498 | -44.6184 | 2026-06-25 00:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 93.4 |
+| e02f2296-df89-3d2b-9bcb-9546313a8f68 | -6.9793 | -42.8798 | 2026-06-25 00:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 87.3 |
+| 9de38d99-6672-3727-bf7b-e055df132199 | -17.3449 | -42.6084 | 2026-06-25 00:40:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 96.6 |
+| f3c53a86-ce5f-3b08-b533-1efca0aef6d4 | -8.6889 | -47.8664 | 2026-06-25 00:50:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 78.2 |
+| 1de82cb5-ea2c-35c3-910f-7a7952594741 | -17.3643 | -42.6284 | 2026-06-25 00:50:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 61.9 |
+| 8e3b9913-4122-3461-ad75-3de1e635e735 | -12.7566 | -44.449 | 2026-06-25 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 88.0 |
+| 831aa3e9-e96c-31ec-9606-47c335acff87 | -6.9791 | -42.9034 | 2026-06-25 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 81.2 |
+| 3215e4c6-d9b1-3585-b41c-7d9ec8ea5d20 | -12.2158 | -55.5171 | 2026-06-25 00:50:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 60.8 |
+| 8ae5f3c8-730c-3b55-9376-7ff29ea1d3a8 | -7.7498 | -44.6184 | 2026-06-25 00:50:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 88.5 |
+| cdeaf333-8130-33c2-b528-51f190c2530e | -17.3449 | -42.6084 | 2026-06-25 00:50:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 100.7 |
+| 788e8450-83e1-360b-8428-a3908a280b30 | -12.7373 | -44.4521 | 2026-06-25 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 145.1 |
+| f3da2a71-09c2-32fe-99d5-5f7fca4c1391 | -10.423 | -46.7258 | 2026-06-25 00:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 61.4 |
+| b5fe5dec-55cb-32aa-a8ac-661a411b4543 | -6.9982 | -42.878 | 2026-06-25 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 67.0 |
+| 9e53c5ae-cb3f-3d1c-92b9-b1862be5c723 | -12.7562 | -44.4724 | 2026-06-25 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 49.4 |
+| ca473eb8-3368-32e7-a0d8-36891e195f57 | -12.7369 | -44.4756 | 2026-06-25 00:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| c3f872ca-a30d-30bb-b373-759a7bd8cc50 | -6.9793 | -42.8798 | 2026-06-25 00:50:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 83.2 |
+| 3a486304-6525-385b-b9f7-afdb9097bf3c | -17.3442 | -42.6333 | 2026-06-25 00:50:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 114.0 |
+| b4bd9caa-984d-31fb-a480-469a7fd6ff72 | -12.216 | -55.4968 | 2026-06-25 00:50:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 116.1 |
+| fa6556d6-6ec5-3bea-af42-6414bf3cbf7e | -12.235 | -55.495 | 2026-06-25 00:50:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 85.2 |
+| b9e3f33b-21a0-3698-9ede-919885f69d2a | -17.3449 | -42.6084 | 2026-06-25 01:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 96.0 |
+| 90526b32-5c7b-3e03-905c-20c9cda49fd3 | -12.235 | -55.495 | 2026-06-25 01:00:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 62.8 |
+| 57a53fce-8822-30d3-84cb-f6f83d4fec20 | -17.365 | -42.6035 | 2026-06-25 01:00:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| de35bbba-9713-3754-ba4d-3058937835d6 | -6.9791 | -42.9034 | 2026-06-25 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 83.9 |
+| 375685cb-cbe6-3cea-ba03-a227f140d299 | -6.9793 | -42.8798 | 2026-06-25 01:00:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 88.7 |
+| f33f4e96-9bfd-331e-925a-a75df19c523f | -12.216 | -55.4968 | 2026-06-25 01:00:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 98.8 |
+| ae9ae9c4-d78e-38fa-b8ca-949165b1c003 | -17.3442 | -42.6333 | 2026-06-25 01:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 81.0 |
+| da99573b-9cd0-3890-8b73-cdb5176a9715 | -12.2158 | -55.5171 | 2026-06-25 01:00:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 60.6 |
+| 319c86b5-5783-3035-bc47-d64872a39380 | -12.7373 | -44.4521 | 2026-06-25 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 132.2 |
+| 008f1e0a-de74-36a3-abf0-1f9b63fb7ecc | -8.6889 | -47.8664 | 2026-06-25 01:00:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 65.2 |
+| f45428e1-433a-390d-b9d3-a3f42d0f7333 | -7.7498 | -44.6184 | 2026-06-25 01:00:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 81.4 |
+| 70c84a4f-de7a-35ed-84d6-1d78c402f6b3 | -12.7566 | -44.449 | 2026-06-25 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 88.3 |
+| cb785d6c-096d-3bc5-a03a-6d849ad8958e | -9.1933 | -45.3114 | 2026-06-25 01:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| bfe69790-fe77-3e90-a659-0cdb89d21356 | -17.3643 | -42.6284 | 2026-06-25 01:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 59.9 |
+| d8f1a7c2-c76a-3fc6-9bda-01df6fd81186 | -12.7369 | -44.4756 | 2026-06-25 01:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 54.5 |
+| 7686bda0-d41f-3f4b-9fa1-0f58f73dfb22 | -9.193 | -45.3342 | 2026-06-25 01:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 50.9 |
+| 6325ecb5-d34c-354e-b509-ba7574ba0290 | -9.1933 | -45.3114 | 2026-06-25 01:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 77.7 |
+| fcf7eb3e-28d1-3f82-8bc6-2a17fcf0e3cb | -17.3442 | -42.6333 | 2026-06-25 01:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 87.7 |
+| 79f033ed-1560-3ac5-beb6-a32296341267 | -17.3643 | -42.6284 | 2026-06-25 01:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 68.0 |
+| 5e34d49e-d863-3f27-bbac-6281d32084d4 | -12.7562 | -44.4724 | 2026-06-25 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 52.4 |
+| 40c7729b-6706-3da5-a25d-32eb322ee44c | -6.9791 | -42.9034 | 2026-06-25 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 73.6 |
+| d1416247-c9e0-35df-9a8f-2122d60a7f05 | -12.7566 | -44.449 | 2026-06-25 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 88.5 |
+| e02e78b9-9d07-3f38-8958-2feea9b590a2 | -6.9793 | -42.8798 | 2026-06-25 01:10:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 79.2 |
+| ce434d15-2a64-30f1-aa91-6586d5689e0a | -17.365 | -42.6035 | 2026-06-25 01:10:00 | GOES-19 | TURMALINA | MINAS GERAIS | Brasil | 3169703 | 31 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| 2d8c2709-dc0d-3e58-a168-4baec09a7047 | -12.7373 | -44.4521 | 2026-06-25 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 110.2 |
+| 630a0187-ca6b-381b-aa2e-931f851387d8 | -12.216 | -55.4968 | 2026-06-25 01:10:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 89.8 |
+| 43d167f7-a7c4-3fdb-9f31-b1a5d83d0246 | -7.7498 | -44.6184 | 2026-06-25 01:10:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 82.7 |
+| d3f49379-c781-36d2-a474-88dbdd28a3f9 | -17.3449 | -42.6084 | 2026-06-25 01:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| 5b1f0ddc-cca4-36eb-b4b8-d5821825ff44 | -8.6889 | -47.8664 | 2026-06-25 01:10:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 69.6 |
+| 7d3b6cc4-6dec-3160-a4de-2f0605906de9 | -12.7369 | -44.4756 | 2026-06-25 01:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 55.6 |
+| 1cf305fc-91b6-3b43-abd6-eb7665bf98b3 | -12.235 | -55.495 | 2026-06-25 01:10:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 67.9 |
+| 603de99b-5321-39ff-ab66-417713cd6131 | -12.235 | -55.495 | 2026-06-25 01:20:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 54.9 |
+| 8015a3f0-49ae-3a06-a2e3-b7589fe6f73d | -12.7369 | -44.4756 | 2026-06-25 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 51.7 |
+| b579dc62-04ba-364a-9e30-2c7a4a961829 | -6.9791 | -42.9034 | 2026-06-25 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 91.4 |
+| e4481bea-b237-38e8-95cb-35e0b8066a5c | -12.216 | -55.4968 | 2026-06-25 01:20:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 79.7 |
+| 019afc04-4cdc-3d1e-aebd-e862bb72ce24 | -9.2123 | -45.3092 | 2026-06-25 01:20:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 54.7 |
+| 5631d6bb-3e54-33d4-ba49-a0bf2312bc4b | -17.3449 | -42.6084 | 2026-06-25 01:20:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 85.6 |
+| e5f6b216-6110-390a-9077-e49ff71cd9a3 | -9.193 | -45.3342 | 2026-06-25 01:20:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 50.3 |
+| 5a21de5f-34c3-304a-a2d2-5a607f0c8063 | -8.6889 | -47.8664 | 2026-06-25 01:20:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 57.5 |
+| 2ec3a1a6-d27e-314f-9ef5-28ccd7baa024 | -17.3442 | -42.6333 | 2026-06-25 01:20:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 76.9 |
+| 5168d943-2402-3582-93af-de8e402c6c09 | -12.7373 | -44.4521 | 2026-06-25 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 126.8 |
+| fafd65c6-96d0-3299-a6e4-6a9d21d7f794 | -6.9793 | -42.8798 | 2026-06-25 01:20:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 76.6 |
+| 1de16db3-7250-3790-88d3-e8c36a809ff9 | -9.1933 | -45.3114 | 2026-06-25 01:20:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 93.9 |
+| 7b0bc2d5-5db9-3a6f-a47b-5f4cebb0798d | -12.7566 | -44.449 | 2026-06-25 01:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 75.8 |
+| cea389e1-0b2b-3fe8-9390-6d6732d16e74 | -7.7498 | -44.6184 | 2026-06-25 01:20:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 86.0 |
+| 9406f968-42d2-3d8b-b99d-f3351894ad70 | -7.7498 | -44.6184 | 2026-06-25 01:30:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 78.7 |
+| 0b18377d-7f5d-385d-8208-b5372b4290b2 | -17.3442 | -42.6333 | 2026-06-25 01:30:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 82.1 |
+| 3a6fcf93-c363-397b-945b-aa02f8eab3ab | -8.6889 | -47.8664 | 2026-06-25 01:30:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| 9f3b0cdb-b7dc-34d8-b44a-33c149fb4c4f | -9.193 | -45.3342 | 2026-06-25 01:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 54.9 |
+| b14b204e-4552-34e6-89d8-fdc951587748 | -6.9791 | -42.9034 | 2026-06-25 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 73.7 |
+| 856e2c40-2952-3f2f-8b30-4b7921125f76 | -9.2123 | -45.3092 | 2026-06-25 01:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 53.4 |
+| 2c4bc83f-707f-3983-b756-7cb75ce8102f | -9.1933 | -45.3114 | 2026-06-25 01:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 69.6 |
+| 5a03f940-ee54-308d-9ae2-bd2c81fd9571 | -12.7566 | -44.449 | 2026-06-25 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| f958701c-915d-3a3a-b831-247e18a478a0 | -12.235 | -55.495 | 2026-06-25 01:30:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| 430eb240-ed61-32b0-98da-891f9fa0af75 | -17.3449 | -42.6084 | 2026-06-25 01:30:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 74.1 |
+| c926fb6a-1237-34a8-a486-b2af37289aa6 | -12.7373 | -44.4521 | 2026-06-25 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 102.8 |
+| f2be1e4a-9695-30b5-bf93-0eed59af1735 | -6.9793 | -42.8798 | 2026-06-25 01:30:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 81.2 |
+| 5d5be8b8-33f7-3a21-9261-d8890c755bfb | -12.216 | -55.4968 | 2026-06-25 01:30:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 63.1 |
+| 61f22cfe-038a-3eb5-b9b7-c39810aae3a5 | -9.212 | -45.3321 | 2026-06-25 01:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 57.5 |
+| 6b4c2acc-629b-3ce2-a0ac-b4570a91ba32 | -12.7369 | -44.4756 | 2026-06-25 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.2 |
+| a5d0d150-c224-3fb0-b207-6223bcc26098 | -17.6926 | -40.275 | 2026-06-25 01:40:00 | GOES-19 | LAJEDÃO | BAHIA | Brasil | 2918902 | 29 | 33 | nan | nan | nan | Mata Atlântica | 65.2 |
+| 3ae810c7-7cef-3f8b-9bc0-ef5ca40aa019 | -12.7373 | -44.4521 | 2026-06-25 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 101.9 |
+| fe87b5e0-fc0f-386b-9767-faf8a9a1c37a | -6.9791 | -42.9034 | 2026-06-25 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 72.4 |
+| 25472504-509e-3b61-bd4d-5d20752a1de4 | -12.7369 | -44.4756 | 2026-06-25 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 58.8 |
+| fca83351-5f5f-3d63-b6b8-0c8613460682 | -12.7566 | -44.449 | 2026-06-25 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 59.0 |
+| 5eee038d-a366-3ef5-8aa3-a44bace4b1e7 | -9.212 | -45.3321 | 2026-06-25 01:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 53.9 |
+| 52ae1301-6d41-3bdf-8b6b-79f2216fb227 | -7.7498 | -44.6184 | 2026-06-25 01:40:00 | GOES-19 | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| 3ee3154b-7b3e-3a62-ba85-67efcc11b186 | -9.1933 | -45.3114 | 2026-06-25 01:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| 0b11f1cc-3970-3d56-ae10-86f72e6e33ad | -17.6934 | -40.249 | 2026-06-25 01:40:00 | GOES-19 | LAJEDÃO | BAHIA | Brasil | 2918902 | 29 | 33 | nan | nan | nan | Mata Atlântica | 157.8 |
+| 0a5a1403-c2c4-35ec-9184-0054605549a3 | -6.9793 | -42.8798 | 2026-06-25 01:40:00 | GOES-19 | FLORIANO | PIAUÍ | Brasil | 2203909 | 22 | 33 | nan | nan | nan | Caatinga | 79.7 |
+| c6fd2e79-7dd5-3670-b5cc-8e4fb7cf83a4 | -17.3442 | -42.6333 | 2026-06-25 01:40:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 72.3 |
+| 0a6f6ff0-991c-35cc-a8b9-087ab2d47b29 | -12.216 | -55.4968 | 2026-06-25 01:40:00 | GOES-19 | VERA | MATO GROSSO | Brasil | 5108501 | 51 | 33 | nan | nan | nan | Amazônia | 63.6 |
+| a03b25d4-5d47-30b7-9c9d-7130dbab35af | -8.6889 | -47.8664 | 2026-06-25 01:40:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 62.4 |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
