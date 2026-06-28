@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c101780c-44b4-3174-bfc0-aca52c61f7af | -13.2392 | -54.4129 | 2026-06-27 13:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 164.0 |
-| 3c034aa1-68b9-301b-b535-3dbe5f3b473d | -13.2201 | -54.415 | 2026-06-27 13:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 183.2 |
-| 6730009d-cd4c-3dd2-a2a3-989045b106f4 | -12.4464 | -58.4825 | 2026-06-27 13:00:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 106.7 |
-| 7b97b6cc-6353-3852-9152-a06e1e9fa318 | -11.9095 | -57.4134 | 2026-06-27 13:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 149.5 |
-| d2951130-cfcf-3e23-955d-31fc99860899 | -11.9097 | -57.3935 | 2026-06-27 13:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 104.2 |
-| d5480ecb-c9cf-3635-8fb0-69f6420157d1 | -12.4651 | -58.5009 | 2026-06-27 13:00:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 730.4 |
-| 4b8f858d-2a9d-32b9-ac94-87455b9c2dac | -11.9284 | -57.4119 | 2026-06-27 13:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 145.1 |
-| c5f5e673-e82f-39b4-adea-2e1935930c0c | -12.6236 | -57.8926 | 2026-06-27 13:00:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| e294aedd-e6e8-3b37-a326-048e93c466d7 | -12.4654 | -58.481 | 2026-06-27 13:00:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 171.8 |
-| 75b14463-c59a-389b-a118-890331dfbc4e | -12.6046 | -57.8942 | 2026-06-27 13:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 74.1 |
-| b44c6ad7-1959-3292-aa5b-796168ee83b3 | -10.7777 | -54.0983 | 2026-06-27 13:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 455d6b77-f38f-3a41-ab31-8ccd5909d4bc | -12.4464 | -58.4825 | 2026-06-27 13:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 135.0 |
-| 02e937a4-4e0d-3cfc-8f8b-789f03822b42 | -12.6236 | -57.8926 | 2026-06-27 13:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| 2159667b-1806-33b9-9780-1055a6a2d698 | -12.4651 | -58.5009 | 2026-06-27 13:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 795.9 |
-| 5e18267c-9300-31af-9a81-35fb4a48d682 | -11.9097 | -57.3935 | 2026-06-27 13:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 114.4 |
-| 219e37dc-bd0e-3a81-9ae1-18f67a406a34 | -12.4654 | -58.481 | 2026-06-27 13:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 235.5 |
-| dbbd5d65-12f1-3c6c-900a-02b264739e8e | -11.9284 | -57.4119 | 2026-06-27 13:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 211.3 |
-| 8bb0f7be-841c-3874-be4a-182e15407041 | -11.9095 | -57.4134 | 2026-06-27 13:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 158.6 |
-| 85af4041-1372-3e98-abd0-8f7553ebca9b | -12.4462 | -58.5023 | 2026-06-27 13:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 411.8 |
-| f6560b2a-90e3-3ce9-85a0-90af3ad21513 | -13.2392 | -54.4129 | 2026-06-27 13:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 344.1 |
-| 6f1f1623-e8cd-3dac-bfa1-040ef0214866 | -13.2201 | -54.415 | 2026-06-27 13:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 194.1 |
-| 0ee06d00-b9d6-360c-bb5f-74605cad585b | -12.6046 | -57.8942 | 2026-06-27 13:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 75.2 |
-| b9546f96-04df-3f89-af15-eb4e3faf3e75 | -12.6236 | -57.8926 | 2026-06-27 13:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 79.0 |
-| 871d00e0-898a-34f4-bcc6-aa50485315de | -13.2392 | -54.4129 | 2026-06-27 13:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 321.1 |
-| b1594934-8cbc-3e5e-a0f0-73f85e194354 | -13.2201 | -54.415 | 2026-06-27 13:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 135.3 |
-| f4144583-5ee1-3bb5-99cd-99d5130140be | -10.7777 | -54.0983 | 2026-06-27 13:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 68.9 |
-| ab19cdd6-9ce8-390c-a3c1-2beb55d56445 | -11.9095 | -57.4134 | 2026-06-27 13:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 228.4 |
-| 1f4bc1e6-7ee5-3b78-bce8-74cad269d5af | -11.9097 | -57.3935 | 2026-06-27 13:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 161.1 |
-| 0dabe856-7922-381a-a653-9115ee875459 | -11.9284 | -57.4119 | 2026-06-27 13:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 202.8 |
-| e469ba95-b157-3e75-b8d9-b8588b87d892 | -12.6046 | -57.8942 | 2026-06-27 13:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| 00bd7a20-b5d2-3637-8d65-6ec8ceaae13b | -11.9284 | -57.4119 | 2026-06-27 13:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 213.1 |
-| c41dcaad-2055-3d48-9a7f-343052c9dc85 | -13.2583 | -54.4109 | 2026-06-27 13:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 82.8 |
-| 89903af8-8f53-3e23-bb86-42fe1db7ffaf | -11.9097 | -57.3935 | 2026-06-27 13:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 161.1 |
-| d2532cdd-5b43-3e92-aa86-844455bc445d | -10.7777 | -54.0983 | 2026-06-27 13:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 65.7 |
-| 9fce07f5-c750-3972-8d99-7863b1ec298a | -12.6236 | -57.8926 | 2026-06-27 13:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 85.9 |
-| 73471715-8e40-30aa-a391-051ebf6b206e | -11.9095 | -57.4134 | 2026-06-27 13:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 300.7 |
-| 6412c6df-5492-38ed-ac20-0ece5228a21d | -13.2392 | -54.4129 | 2026-06-27 13:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 139.6 |
-| b9f4da29-0efc-395d-8f86-69a91757dfb0 | -13.2201 | -54.415 | 2026-06-27 13:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 142.0 |
-| d63fc727-cbb6-34e4-8aee-8ff33a64ba02 | -10.7774 | -54.1188 | 2026-06-27 13:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 67.9 |
-| 0ea6918e-3779-3607-bce7-15586e26e85e | -12.6046 | -57.8942 | 2026-06-27 13:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 89.2 |
-| 32b8dcca-d732-3b60-a560-dce1134ba60f | -12.6236 | -57.8926 | 2026-06-27 13:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| ccac1fa4-40a2-3e92-b3d6-ba44602c3b03 | -11.9284 | -57.4119 | 2026-06-27 13:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 266.8 |
-| 7d8747db-3c18-3b39-8a8d-8f4ff9aa2ae2 | -12.6048 | -57.8743 | 2026-06-27 13:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 70.6 |
-| adbc3a63-393b-3009-bad6-be418b8242ba | -11.9095 | -57.4134 | 2026-06-27 13:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 184.5 |
-| 01dc8af6-41e3-35e2-af14-bc2a93f1de0b | -10.7777 | -54.0983 | 2026-06-27 13:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 70.0 |
-| 7979e5c2-1bd7-3269-b4de-140252624c94 | -11.9097 | -57.3935 | 2026-06-27 13:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 118.8 |
-| 3534b55f-8469-3563-81c9-0590896d54c4 | -11.9095 | -57.4134 | 2026-06-27 13:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 187.8 |
-| f6323e40-0249-31c5-b551-04e00645edcf | -10.7774 | -54.1188 | 2026-06-27 13:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 65.8 |
-| e1fadb30-a7cf-3977-a61f-cda1ae40654c | -11.9097 | -57.3935 | 2026-06-27 13:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 122.2 |
-| 1c5fd4eb-ca94-3dc3-9eb4-d9dfee92e257 | -8.3095 | -48.1859 | 2026-06-27 13:50:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 140.1 |
-| f52a8103-93e1-3731-96c1-cb271efa607f | -10.7777 | -54.0983 | 2026-06-27 13:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 72.3 |
-| d05c1b3a-6107-3f1b-9447-6b207e5d645c | -12.6046 | -57.8942 | 2026-06-27 13:50:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 86.2 |
-| f0066a70-0f8a-352d-88b3-60fe20438a77 | -8.3093 | -48.2077 | 2026-06-27 13:50:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 211.3 |
-| cd0fb0b7-6054-37dc-a05b-8cc442fc5620 | -11.9284 | -57.4119 | 2026-06-27 13:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 297.4 |
-| ef1e86fa-91ba-394b-86b6-a3137d593dae | -12.6236 | -57.8926 | 2026-06-27 13:50:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 81.4 |
-| 06e92aa7-769d-34c0-964c-6fe1ee2707e5 | -13.2392 | -54.4129 | 2026-06-27 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 359.8 |
-| 4938ad1f-dca8-380f-9639-21d75e6c7fa4 | -12.6048 | -57.8743 | 2026-06-27 13:50:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| 62d576e0-0838-360d-b95d-afceea68ca5e | -13.2201 | -54.415 | 2026-06-27 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 216.0 |
-| 9155dac3-8534-3da4-a9d0-da46bb7e4784 | -13.2389 | -54.4336 | 2026-06-27 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 149.9 |
-| 76ce1f91-da44-3d1d-af90-7fb714618843 | -13.2583 | -54.4109 | 2026-06-27 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 79.9 |
-| de9c80ae-b9fa-32a6-92f1-84899ff9e97b | -13.2198 | -54.4356 | 2026-06-27 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 92.2 |
-| 47d368d7-fdcf-35e8-9a3d-a6573ba362fc | -10.5374 | -53.7094 | 2026-06-27 13:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 81.0 |
-| 083fcdba-945c-3890-83c8-cdebf5292539 | -8.2905 | -48.2094 | 2026-06-27 13:50:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 212.1 |
-| bd352ace-e943-3030-84d8-0497144277db | -13.2583 | -54.4109 | 2026-06-27 14:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 103.1 |
-| 9cadf9b4-1b2d-33e3-b3b0-a38aac1558d7 | -10.7777 | -54.0983 | 2026-06-27 14:00:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 78.7 |
-| 5dde8c12-e494-3398-a810-a9a4cfd6e711 | -10.5374 | -53.7094 | 2026-06-27 14:00:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 82.4 |
-| 44d631b6-018a-3da0-a8fa-e4125fd6b0ee | -11.9097 | -57.3935 | 2026-06-27 14:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 118.5 |
-| b11a427b-5713-34fe-9972-818ea5821802 | -11.9095 | -57.4134 | 2026-06-27 14:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 239.6 |
-| 69ce2c40-9e88-3075-bd5d-b17b2ad0b8b6 | -12.6048 | -57.8743 | 2026-06-27 14:00:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 63.5 |
-| f88e05e4-43b8-3fdd-bdcc-70b47e8608a7 | -11.9284 | -57.4119 | 2026-06-27 14:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 349.5 |
-| 0eaafbe8-378f-3074-b8a8-9fb8a9af71b9 | -12.6046 | -57.8942 | 2026-06-27 14:00:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 88.3 |
-| 10b95e97-40b8-3527-b084-e90b0be74f0b | -12.6236 | -57.8926 | 2026-06-27 14:00:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| df402aa5-038d-3f3c-8906-fdff9010ac3b | -13.2392 | -54.4129 | 2026-06-27 14:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 227.9 |
-| 7d8c8292-d2d5-31e7-9281-e881898f357b | -13.2201 | -54.415 | 2026-06-27 14:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 90.5 |
-| 11e43fdd-3b17-36c8-a6df-321de9b69733 | -8.3093 | -48.2077 | 2026-06-27 14:00:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 207.8 |
-| 449f1fb8-76b1-31d5-924e-90223d2979e6 | -8.3095 | -48.1859 | 2026-06-27 14:00:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 155.4 |
-| e148005c-4973-3261-8e22-4250c4c65f73 | -13.2583 | -54.4109 | 2026-06-27 14:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 141.0 |
-| 21e9ed2b-5abd-323f-9d9e-a59b81ad4f63 | -8.3093 | -48.2077 | 2026-06-27 14:10:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 187.5 |
-| 35a25bdd-23f5-3f09-a99a-a778887516bc | -12.4462 | -58.5023 | 2026-06-27 14:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 359.3 |
-| 06e8276a-3bea-379c-9bda-3bbd175ea66a | -12.6046 | -57.8942 | 2026-06-27 14:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 88.9 |
-| 6bab08db-e555-3ff0-939d-c326ca7a1db4 | -10.7777 | -54.0983 | 2026-06-27 14:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 69.5 |
-| 2a6a121c-349b-30e0-a1e8-7ce88e49dd67 | -12.6236 | -57.8926 | 2026-06-27 14:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 89.5 |
-| 00c2521f-54c0-3039-9931-fdb1fd00e86b | -12.4654 | -58.481 | 2026-06-27 14:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 315.1 |
-| 2f8e424e-9780-31fc-9006-4c66a4abcb90 | -12.4651 | -58.5009 | 2026-06-27 14:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 942.3 |
-| c7681a01-6ac5-32cf-8731-771790141337 | -13.2392 | -54.4129 | 2026-06-27 14:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 257.3 |
-| fb86a13c-4027-3c90-9498-260cae32934d | -13.2201 | -54.415 | 2026-06-27 14:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 101.1 |
-| 202ff113-232e-3177-8df7-0c496c30ca1e | -12.4464 | -58.4825 | 2026-06-27 14:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 145.0 |
-| 68a2d9b6-0f7e-3d6f-b503-82863a7ab30e | -11.9097 | -57.3935 | 2026-06-27 14:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 158.4 |
-| 2a24a2e9-b813-3ed4-b2b3-b759036e7416 | -11.9284 | -57.4119 | 2026-06-27 14:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 310.1 |
-| e59d2c50-b48c-3797-a3cc-04bed679e077 | -11.9095 | -57.4134 | 2026-06-27 14:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 279.8 |
-| 83e54395-7006-3e3e-975f-bd3ead473cbc | -8.3095 | -48.1859 | 2026-06-27 14:10:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 139.2 |
-| 7ac84491-5692-3dbf-a952-592e8bd9ec67 | -10.5374 | -53.7094 | 2026-06-27 14:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 98.3 |
-| 91449d62-e164-3edd-ae5a-39c87bc0ab0e | -13.2389 | -54.4336 | 2026-06-27 14:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 60.6 |
-| 1bbf71b6-b5cf-3b07-a0f1-09f0debc364b | -11.9097 | -57.3935 | 2026-06-27 14:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 113.7 |
-| f7f614c7-d8cf-3582-91d6-9f2ac13a69da | -12.6046 | -57.8942 | 2026-06-27 14:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 82.2 |
-| 67712fa1-2363-3297-87d3-4f24c0dfb297 | -13.2201 | -54.415 | 2026-06-27 14:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 96.2 |
-| 9a8a6d1b-f79f-336f-b83d-11362f4b758d | -10.7774 | -54.1188 | 2026-06-27 14:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 61.4 |
-| d7aa6910-d04e-38cd-ba3d-eb251ecde4ff | -11.9284 | -57.4119 | 2026-06-27 14:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 368.1 |
-| bf74725c-cf7f-3085-85a3-a34ccf5c284c | -13.2392 | -54.4129 | 2026-06-27 14:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 241.1 |
-| 7cddd350-84ab-353d-b453-ca1b9024dc41 | -12.6048 | -57.8743 | 2026-06-27 14:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| 4ee355c7-dcb0-3ed9-9910-e7d9cd49e523 | -12.99268 | -57.7749 | 2026-06-28 05:36:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| f0ecede3-b5d1-3caa-80bc-b8560e99129b | -12.98878 | -57.7743 | 2026-06-28 05:36:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 2eee8428-d8fe-32e4-8841-28d896ec9cb0 | -11.90479 | -63.81297 | 2026-06-28 05:36:00 | NPP-375D | SÃO FRANCISCO DO GUAPORÉ | RONDÔNIA | Brasil | 1101492 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 86103f4d-cc5d-380c-8653-5dd70d085310 | -12.62092 | -57.89364 | 2026-06-28 05:36:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 1bbfdb7c-b8ac-3c5c-9f3b-73694bc736aa | -12.54519 | -57.1879 | 2026-06-28 05:36:00 | NPP-375D | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 68cc3757-8d7a-3e1c-91ea-56ca8c42a50e | -12.60166 | -57.89072 | 2026-06-28 05:36:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 932e47b4-3678-3a91-9c1c-6179874b73f1 | -15.92932 | -52.28149 | 2026-06-28 05:36:00 | NPP-375D | PONTAL DO ARAGUAIA | MATO GROSSO | Brasil | 5106653 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 40d50d0f-ebde-3d9a-a5dc-4724ec83e6fa | -15.44211 | -59.23503 | 2026-06-28 05:36:00 | NPP-375D | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| d7111f96-9cd1-3a16-80cb-f89e9707aab5 | -12.4507 | -58.48722 | 2026-06-28 05:36:00 | NPP-375D | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 5.9 |
+| 8371e1c1-f866-390b-b1fa-9ee112170949 | -12.45506 | -58.4833 | 2026-06-28 05:36:00 | NPP-375D | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| c7a4b27b-8737-3b95-8499-fabe9c70c4ae | -16.19431 | -59.32832 | 2026-06-28 05:36:00 | NPP-375D | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
+| 67d69a60-10c9-3d9f-8195-152f6451b82a | -12.61531 | -57.87794 | 2026-06-28 05:36:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| aefac7ce-ba47-315e-a76e-3e3e9b561c31 | -12.77409 | -59.00436 | 2026-06-28 05:36:00 | NPP-375D | CAMPOS DE JÚLIO | MATO GROSSO | Brasil | 5102686 | 51 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| f94d3543-52a5-3b6b-b04b-e13bb51dae72 | -16.2167 | -59.65856 | 2026-06-28 05:36:00 | NPP-375D | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 56d8205e-ae9d-3280-b45f-8444e827ad20 | -18.47036 | -54.10065 | 2026-06-28 05:36:00 | NPP-375D | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| a8afdf19-84dc-35a6-a41c-ecf625e93f06 | -12.16965 | -59.75514 | 2026-06-28 05:36:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 8070287f-6995-387a-8c23-e43bb5399fb9 | -12.79199 | -54.88885 | 2026-06-28 05:36:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 6.9 |
+| 0106eff1-930a-3cff-8c38-a2a00f43f8a7 | -17.3504 | -42.62494 | 2026-06-28 05:38:00 | AQUA_M-M | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 96.0 |
+| 30cda047-40e3-3d76-a773-57af1f870c55 | -17.34205 | -42.628 | 2026-06-28 05:38:00 | AQUA_M-M | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 74.2 |
+| 2d299c65-58fc-3b99-aab3-d9772c3289c0 | -21.77398 | -56.28854 | 2026-06-28 05:38:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 75030257-4765-35d8-b4e8-3b23277404d7 | -21.2713 | -56.03405 | 2026-06-28 05:38:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 7268abb8-3729-37ec-a328-193effc897b9 | -11.209 | -54.3053 | 2026-06-28 05:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 100.9 |
+| 4f302667-c260-39b2-af99-2ed6981eb736 | -12.1937 | -52.8866 | 2026-06-28 05:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 73.1 |
+| 59761ccb-6b51-37b6-9565-9f3c9cee39bf | -12.194 | -52.8657 | 2026-06-28 05:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| 20beecf9-f1a1-32c2-832d-a8cf3fd31618 | -11.209 | -54.3053 | 2026-06-28 05:50:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 106.4 |
+| 31a53b4b-2960-3346-9126-444c410e308d | -12.194 | -52.8657 | 2026-06-28 05:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 65.5 |
+| e657fbc5-708d-3f54-973e-28c0f8340e28 | -12.1937 | -52.8866 | 2026-06-28 05:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 67.2 |
+| ca1b50d0-6986-30df-8ee9-482ac5b281b0 | -12.59653 | -57.87854 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| 07e6a802-f4cf-3dda-b29b-d6042d982a15 | -11.94243 | -58.615 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 75483754-7145-361b-9e32-6953f036afbb | -11.87175 | -57.81927 | 2026-06-28 05:53:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 96c2cd12-4108-38cc-a95d-caaa921f9fda | -11.90932 | -57.13549 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| e87a6973-788b-3b31-9158-5fb5a53e1bf4 | -11.91928 | -58.66061 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 46eaf7b7-32f2-3d50-8acb-c7d39b536d3d | -12.4549 | -58.50281 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 719029b1-7617-3788-bd84-3d039d34a69f | -12.60086 | -57.89161 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 59a5f8b1-fe57-314d-9ad2-624d2e9c9e7d | -12.16598 | -57.13493 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 01193ff6-f277-39a5-bfd8-9a694d145555 | -12.62402 | -57.89465 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 4dbd8bb6-d06f-3504-9fcb-5ec68e51a292 | -11.66365 | -57.2588 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| 35bbe514-f109-3229-a294-dfe962cf4c6e | -12.17147 | -57.14032 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| dc59f391-0e3e-3438-95ae-18b743a1cf37 | -11.92076 | -58.65654 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 91580018-b73b-36e3-a7bb-46a68cff1a92 | -12.46135 | -58.49632 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 95c5ec19-e70a-338a-849e-79902feac68a | -12.23392 | -56.55443 | 2026-06-28 05:53:00 | NOAA-20 | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 7d0de1c1-b49f-3519-8ed7-6e2fef57f7dc | -12.16544 | -57.13946 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f75ff02c-15c6-35d6-bd1f-1643b929d718 | -12.60232 | -57.8793 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 952000aa-31ce-3d9b-b9ca-248a5136d0a0 | -11.92478 | -58.66106 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 9f046e7f-c56d-3050-bbbe-0671d802b0b4 | -12.17696 | -57.14579 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 054c7d57-d420-3f40-9d81-0e6f5cc29c44 | -12.17642 | -57.15033 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| c9ced679-e444-3256-bad0-e35fbd192663 | -12.18191 | -57.15568 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| dc1e64e9-b255-3d8f-82df-279a1d7962f2 | -12.22766 | -56.55353 | 2026-06-28 05:53:00 | NOAA-20 | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| baa44cc7-0657-37bc-870f-b37085051942 | -12.17039 | -57.14942 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d1b0645e-bb5f-3eb7-ae31-443f1119f959 | -12.79261 | -54.88209 | 2026-06-28 05:53:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 3fadc969-c0b5-3b5b-849b-55a854b8a61a | -11.87804 | -57.8157 | 2026-06-28 05:53:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e89422ba-c8e7-3740-8e46-d3648dbb6a3c | -12.17308 | -57.12674 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 995d11b1-810b-3cd0-aaaa-bd710730fa5e | -11.92495 | -58.66785 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 946fc4b8-4482-3794-9c1c-1add2f75c8f4 | -11.94173 | -58.61542 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| b27bcf24-9e0e-3dbd-9878-a0f8048bb699 | -12.59604 | -57.88265 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 8.1 |
+| fc8d4b01-0a17-326d-85a7-9985df7ff68c | -12.77511 | -59.00344 | 2026-06-28 05:53:00 | NOAA-20 | CAMPOS DE JÚLIO | MATO GROSSO | Brasil | 5102686 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 111dbf27-2095-3eca-9d4e-2f6c2deaa1e6 | -12.44557 | -58.4869 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| c2e0b2dd-5c2c-3ffa-aef5-0d8cb2f94e76 | -12.76972 | -59.00271 | 2026-06-28 05:53:00 | NOAA-20 | CAMPOS DE JÚLIO | MATO GROSSO | Brasil | 5102686 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 95501472-6424-33af-9835-d41cb3c4b9c3 | -12.18137 | -57.16018 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| acc608ef-22d1-353e-854b-db69e24ff8ec | -12.16985 | -57.15398 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| dd21493a-d441-3dbd-834b-057dc18fe953 | -12.45535 | -58.4992 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| 6d039801-0c79-3315-b01d-4ffdd5b704a1 | -12.17588 | -57.15486 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2ec8d770-7f59-3223-967a-859921342fac | -11.87327 | -57.80681 | 2026-06-28 05:53:00 | NOAA-20 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 3788e147-6452-3450-9d96-1a7eccd97b98 | -12.79347 | -54.88561 | 2026-06-28 05:53:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 6.7 |
+| 0e0fc854-0a30-38ea-8c94-338239e0266b | -12.4558 | -58.49559 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 0cb5430c-b17e-3f02-833d-8e5103c3a099 | -11.92032 | -58.66018 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 5d9992ba-1b1f-3fa4-bb3b-544633b026d5 | -11.9234 | -58.67184 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| d773cc5c-1652-3da9-a193-8222f45fe6d5 | -12.79193 | -54.88851 | 2026-06-28 05:53:00 | NOAA-20 | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| d04dd624-8f33-3383-a979-22a9ec5a52f6 | -11.66041 | -57.26052 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 5e7b0749-ca2e-33cd-b81f-81e26366f4b9 | -12.98498 | -57.77928 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 6453824e-0314-3822-8e16-a4233a5fa578 | -11.66311 | -57.26321 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 4.8 |
+| e249a58d-5b72-31c8-91de-f9d061f32329 | -11.9212 | -58.65287 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 442b225c-3fbb-3903-9d3d-ac1686d539e0 | -11.90147 | -57.11353 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| a83b67b0-53fa-3aad-b4c6-3496797f66dc | -11.93739 | -58.61058 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 370e8039-af17-35ce-a22d-7e52518a1b76 | -12.98547 | -57.77493 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| a2d54541-6685-3fcf-9f78-175192a58cd6 | -11.91975 | -58.65698 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| ff136f44-d8a5-3ff8-8d25-de4406b7cd4c | -12.17254 | -57.13131 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 97c303c2-850b-3828-aff6-f2c50dc181be | -12.16705 | -57.12587 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 99179f1f-7ade-3c07-b1b5-659ef3a76ed4 | -12.59556 | -57.88673 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| eccf098d-dcce-3f31-8610-d03a133ea434 | -12.98646 | -57.77393 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b95ad472-f2e6-3c2b-8afa-5010977ba5d0 | -12.44603 | -58.48312 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 3b2cf39d-a5e2-3c0b-9a44-9bdd2f89d36d | -11.92524 | -58.65744 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5ed05bce-6595-3ba7-a99a-cec6d8e99298 | -12.61341 | -57.885 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 1e873dc3-a121-328c-9ec2-7f9a62aac99f | -12.4669 | -58.49709 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 9389bdf8-4428-328a-8b31-5af954952e2d | -11.92669 | -58.65337 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| cf2f8b9d-2d83-3ac6-8898-aea4cbe286af | -12.16651 | -57.13044 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 2538e528-39fe-3297-b1d2-b794512e2eff | -11.91518 | -57.40989 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| cae02f0d-b85f-315c-92a7-eba97aefa2f1 | -11.66092 | -57.25609 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 0960687f-671a-3e70-9dc3-17c212b89486 | -12.76929 | -59.00623 | 2026-06-28 05:53:00 | NOAA-20 | CAMPOS DE JÚLIO | MATO GROSSO | Brasil | 5102686 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 99c0a37c-98d9-31ed-85bb-a4ee42c5d960 | -12.46225 | -58.48905 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0d83a958-a1c8-3ab5-9d81-19cd02d0f701 | -12.46045 | -58.50357 | 2026-06-28 05:53:00 | NOAA-20 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| dda742e3-6a93-328e-b33e-15d643791444 | -12.77469 | -59.00694 | 2026-06-28 05:53:00 | NOAA-20 | CAMPOS DE JÚLIO | MATO GROSSO | Brasil | 5102686 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a5319f6b-9e6c-3160-b510-2f2139a66077 | -12.17201 | -57.13578 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 6072bc66-7bf5-3f6b-8083-65dce39f7787 | -12.6187 | -57.88992 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 90349147-e046-307a-835d-4dd76eed0633 | -12.18244 | -57.15117 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 273087a7-544c-3e8c-abb7-3c6ecd37199d | -12.99133 | -57.77575 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 4ad968b9-42a4-39aa-9c8b-f347f1428f06 | -11.90987 | -57.13098 | 2026-06-28 05:53:00 | NOAA-20 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 0b54ee77-579b-30d3-89e5-9e5216d03a53 | -12.61243 | -57.8932 | 2026-06-28 05:53:00 | NOAA-20 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 555fb54b-6915-3172-9670-aeba1420ddea | -11.92386 | -58.66824 | 2026-06-28 05:53:00 | NOAA-20 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 76fe70d7-faac-32f5-84e4-ed2b717a3e9a | -11.9157 | -57.40557 | 2026-06-28 05:53:00 | NOAA-20 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
 
 
 [Clique aqui para ver as próximas entradas](README24.md)

@@ -29,64 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| be044506-cd0f-3af6-95bf-d88eae6c5cbc | -2.4183 | -51.9278 | 2025-12-12 08:20:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 40.5 |
-| 65d1577a-ba5c-3e04-ad7e-47ded65e4e66 | -2.4183 | -51.9278 | 2025-12-12 08:30:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 42.2 |
-| d8e06b61-7695-370c-8a00-b34c20ae8a10 | -2.4367 | -51.9274 | 2025-12-12 08:30:00 | GOES-19 | PORTO DE MOZ | PARÁ | Brasil | 1505908 | 15 | 33 | nan | nan | nan | Amazônia | 34.8 |
-| 6d5d2b76-31ee-3926-b25e-10ff1cf3e291 | -8.62603 | -40.19465 | 2025-12-12 11:36:00 | TERRA_M-M | LAGOA GRANDE | PERNAMBUCO | Brasil | 2608750 | 26 | 33 | nan | nan | nan | Caatinga | 18.5 |
-| 5cabc9ba-8a68-3830-8580-aa69f4580e82 | -7.04356 | -38.44217 | 2025-12-12 11:36:00 | TERRA_M-M | SÃO JOSÉ DE PIRANHAS | PARAÍBA | Brasil | 2514503 | 25 | 33 | nan | nan | nan | Caatinga | 6.2 |
-| 396d527e-5658-3752-8763-9a1d412c9e69 | -5.93645 | -38.89399 | 2025-12-12 11:36:00 | TERRA_M-M | JAGUARIBE | CEARÁ | Brasil | 2306900 | 23 | 33 | nan | nan | nan | Caatinga | 9.3 |
-| 3f8d507a-07c7-32a1-a306-b95e20af78ce | -9.09978 | -40.17215 | 2025-12-12 11:36:00 | TERRA_M-M | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 5.0 |
-| 31bf94ff-53a2-375b-b2d6-b94c0b8ad71a | -5.36455 | -38.1309 | 2025-12-12 11:36:00 | TERRA_M-M | TABULEIRO DO NORTE | CEARÁ | Brasil | 2313104 | 23 | 33 | nan | nan | nan | Caatinga | 9.9 |
-| 1378ab46-b66d-366d-8b70-5359e55cf143 | -8.24548 | -37.77555 | 2025-12-12 11:36:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 33.6 |
-| cc802631-7029-33bc-b631-33618222cf98 | -5.79323 | -36.53477 | 2025-12-12 11:36:00 | TERRA_M-M | SANTANA DO MATOS | RIO GRANDE DO NORTE | Brasil | 2411403 | 24 | 33 | nan | nan | nan | Caatinga | 12.0 |
-| 91ca085a-dd7b-3ae0-a2a2-f1c286795cb8 | -4.99615 | -38.0635 | 2025-12-12 11:36:00 | TERRA_M-M | RUSSAS | CEARÁ | Brasil | 2311801 | 23 | 33 | nan | nan | nan | Caatinga | 8.3 |
-| f552dc1e-e90d-39de-931f-5398201e9ef3 | -6.05833 | -38.11017 | 2025-12-12 11:36:00 | TERRA_M-M | FRANCISCO DANTAS | RIO GRANDE DO NORTE | Brasil | 2403905 | 24 | 33 | nan | nan | nan | Caatinga | 8.4 |
-| c76137c8-4034-32d1-8bfd-7e395026211f | -7.866 | -37.98933 | 2025-12-12 11:36:00 | TERRA_M-M | FLORES | PERNAMBUCO | Brasil | 2605608 | 26 | 33 | nan | nan | nan | Caatinga | 9.0 |
-| c7b6de12-3cb7-38c4-8089-d6d6b46721a8 | -5.88433 | -38.36655 | 2025-12-12 11:36:00 | TERRA_M-M | IRACEMA | CEARÁ | Brasil | 2306009 | 23 | 33 | nan | nan | nan | Caatinga | 13.3 |
-| 54e9928d-a2f5-3ae6-9164-bd74d94c136b | -9.33646 | -37.09342 | 2025-12-12 11:36:00 | TERRA_M-M | SANTANA DO IPANEMA | ALAGOAS | Brasil | 2708006 | 27 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 3c65cc3c-28ac-3ed3-b985-e4bb0348c426 | -2.90771 | -41.94509 | 2025-12-12 11:36:00 | TERRA_M-M | ARAIOSES | MARANHÃO | Brasil | 2100907 | 21 | 33 | nan | nan | nan | Caatinga | 19.0 |
-| 351ef109-c0e2-30f4-aedf-b4e4d1e63fc9 | -6.39588 | -38.90831 | 2025-12-12 11:36:00 | TERRA_M-M | ICÓ | CEARÁ | Brasil | 2305407 | 23 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| 4b370948-31ee-3313-964e-1495cc8cc67b | -4.69441 | -37.59291 | 2025-12-12 11:36:00 | TERRA_M-M | ARACATI | CEARÁ | Brasil | 2301109 | 23 | 33 | nan | nan | nan | Caatinga | 6.6 |
-| a3149bc1-6b67-35ff-b638-d4169aba9860 | -6.18193 | -38.47196 | 2025-12-12 11:36:00 | TERRA_M-M | SÃO MIGUEL | RIO GRANDE DO NORTE | Brasil | 2412500 | 24 | 33 | nan | nan | nan | Caatinga | 7.6 |
-| 5af75b3b-69e4-3515-add0-ae4b4528ada4 | -5.79456 | -36.52523 | 2025-12-12 11:36:00 | TERRA_M-M | SANTANA DO MATOS | RIO GRANDE DO NORTE | Brasil | 2411403 | 24 | 33 | nan | nan | nan | Caatinga | 12.7 |
-| f7d108ae-bacc-37bb-bc09-ad1e012c5a52 | -6.46842 | -38.40503 | 2025-12-12 11:36:00 | TERRA_M-M | UIRAÚNA | PARAÍBA | Brasil | 2516904 | 25 | 33 | nan | nan | nan | Caatinga | 8.0 |
-| b23bc40c-0789-3492-9c5d-6ca499df1aa3 | -7.63798 | -37.70976 | 2025-12-12 11:36:00 | TERRA_M-M | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 48.6 |
-| 4ab3cd0f-be64-3aa5-b568-fb41a6fcd575 | -7.63925 | -37.70069 | 2025-12-12 11:36:00 | TERRA_M-M | CARNAÍBA | PERNAMBUCO | Brasil | 2603900 | 26 | 33 | nan | nan | nan | Caatinga | 7.5 |
-| 824fa4b9-b8f4-3885-828e-b0c45bc4a7a8 | -4.99741 | -38.05471 | 2025-12-12 11:36:00 | TERRA_M-M | RUSSAS | CEARÁ | Brasil | 2311801 | 23 | 33 | nan | nan | nan | Caatinga | 96.3 |
-| e2044930-a1d7-39b8-8dbc-75eb334ec566 | -7.42088 | -38.00518 | 2025-12-12 11:36:00 | TERRA_M-M | SANTANA DOS GARROTES | PARAÍBA | Brasil | 2513604 | 25 | 33 | nan | nan | nan | Caatinga | 10.2 |
-| 22469240-e5b4-3ca6-ae43-f7147efa97de | -9.30812 | -41.20107 | 2025-12-12 11:36:00 | TERRA_M-M | CASA NOVA | BAHIA | Brasil | 2907202 | 29 | 33 | nan | nan | nan | Caatinga | 8.7 |
-| 0237ed65-5818-3517-b1c1-2550abf48844 | -7.67245 | -37.5941 | 2025-12-12 11:36:00 | TERRA_M-M | AFOGADOS DA INGAZEIRA | PERNAMBUCO | Brasil | 2600104 | 26 | 33 | nan | nan | nan | Caatinga | 5.8 |
-| e46bae62-bba1-3599-909d-cc68987ba964 | -10.64288 | -40.22219 | 2025-12-12 11:36:00 | TERRA_M-M | FILADÉLFIA | BAHIA | Brasil | 2910859 | 29 | 33 | nan | nan | nan | Caatinga | 7.7 |
-| 65985fdd-203a-35b0-b78c-36543ee0e4a3 | -6.78369 | -38.32425 | 2025-12-12 11:36:00 | TERRA_M-M | MARIZÓPOLIS | PARAÍBA | Brasil | 2509156 | 25 | 33 | nan | nan | nan | Caatinga | 14.1 |
-| 2bfe0c4a-4181-31f8-a7fb-ad17b13d362a | -7.91671 | -37.62836 | 2025-12-12 11:36:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 8.2 |
-| ae1d3bc3-b6c2-3902-9d4d-8dba52cdfaa8 | -8.99198 | -37.58179 | 2025-12-12 11:36:00 | TERRA_M-M | MATA GRANDE | ALAGOAS | Brasil | 2705002 | 27 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| 5dc54d2d-e89d-38de-bb93-93685cdc51fd | -8.30931 | -37.91089 | 2025-12-12 11:36:00 | TERRA_M-M | BETÂNIA | PERNAMBUCO | Brasil | 2601805 | 26 | 33 | nan | nan | nan | Caatinga | 6.5 |
-| 68c1aac9-7ac7-3c39-847d-13302563c47e | -7.67373 | -37.58498 | 2025-12-12 11:36:00 | TERRA_M-M | AFOGADOS DA INGAZEIRA | PERNAMBUCO | Brasil | 2600104 | 26 | 33 | nan | nan | nan | Caatinga | 8.5 |
-| af3843ad-1a23-3fb0-9891-db5185a79e47 | -8.92236 | -37.94693 | 2025-12-12 11:36:00 | TERRA_M-M | INAJÁ | PERNAMBUCO | Brasil | 2607000 | 26 | 33 | nan | nan | nan | Caatinga | 7.8 |
-| 6c1219c8-8f48-37b7-922e-17e0dbfc10fb | -7.66464 | -37.84211 | 2025-12-12 11:36:00 | TERRA_M-M | QUIXABA | PERNAMBUCO | Brasil | 2611533 | 26 | 33 | nan | nan | nan | Caatinga | 7.3 |
-| df515f7b-6145-3fed-bdad-e0ae6c10a01e | -7.39152 | -35.98594 | 2025-12-12 11:36:00 | TERRA_M-M | QUEIMADAS | PARAÍBA | Brasil | 2512507 | 25 | 33 | nan | nan | nan | Caatinga | 7.6 |
-| a80bb2dd-d84c-397c-9346-224f2511e19a | -6.62344 | -36.92631 | 2025-12-12 11:36:00 | TERRA_M-M | OURO BRANCO | RIO GRANDE DO NORTE | Brasil | 2408508 | 24 | 33 | nan | nan | nan | Caatinga | 9.1 |
-| 781eea53-71b1-3190-8d1b-55f8aa60e96a | -4.8635 | -38.20267 | 2025-12-12 11:36:00 | TERRA_M-M | RUSSAS | CEARÁ | Brasil | 2311801 | 23 | 33 | nan | nan | nan | Caatinga | 9.2 |
-| 85884372-db4f-3a30-9576-0c82387ffc8d | -6.22597 | -35.47493 | 2025-12-12 11:36:00 | TERRA_M-M | LAGOA DE PEDRAS | RIO GRANDE DO NORTE | Brasil | 2406304 | 24 | 33 | nan | nan | nan | Caatinga | 10.6 |
-| fe0aa98d-9b5b-3a4e-9bd6-6ee39fd804b6 | -7.94871 | -37.59537 | 2025-12-12 11:36:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 6.3 |
-| 9a218063-80a5-3d4e-b752-afecc2b39157 | -5.87552 | -38.36531 | 2025-12-12 11:36:00 | TERRA_M-M | IRACEMA | CEARÁ | Brasil | 2306009 | 23 | 33 | nan | nan | nan | Caatinga | 29.6 |
-| 197daa2e-00f4-303f-83a0-93c45ecc6df1 | -8.36729 | -36.84489 | 2025-12-12 11:36:00 | TERRA_M-M | PESQUEIRA | PERNAMBUCO | Brasil | 2610905 | 26 | 33 | nan | nan | nan | Caatinga | 19.0 |
-| 160fdd65-4b70-31f3-a76a-19bfa2407ba7 | -6.30813 | -38.56508 | 2025-12-12 11:36:00 | TERRA_M-M | VENHA-VER | RIO GRANDE DO NORTE | Brasil | 2414753 | 24 | 33 | nan | nan | nan | Caatinga | 6.0 |
-| 6b4f8c0a-8956-32d5-b0af-f379c905e053 | -6.36126 | -37.92788 | 2025-12-12 11:36:00 | TERRA_M-M | ALEXANDRIA | RIO GRANDE DO NORTE | Brasil | 2400505 | 24 | 33 | nan | nan | nan | Caatinga | 5.9 |
-| b8ec6d9f-dd36-3a7f-a7ad-c0c397c249a7 | -5.88559 | -38.35775 | 2025-12-12 11:36:00 | TERRA_M-M | IRACEMA | CEARÁ | Brasil | 2306009 | 23 | 33 | nan | nan | nan | Caatinga | 11.2 |
-| 5da41c29-06fd-3e0f-aa88-2e743b503488 | -5.87678 | -38.35652 | 2025-12-12 11:36:00 | TERRA_M-M | IRACEMA | CEARÁ | Brasil | 2306009 | 23 | 33 | nan | nan | nan | Caatinga | 18.0 |
-| 9a061e98-9a14-335c-9a4b-917bc4ff537b | -16.39897 | -42.53582 | 2025-12-12 11:38:00 | TERRA_M-M | PADRE CARVALHO | MINAS GERAIS | Brasil | 3146255 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| d40eebed-adaa-3bd7-b100-a5e3b9c4ab25 | -17.10286 | -39.19587 | 2025-12-12 11:38:00 | TERRA_M-M | PRADO | BAHIA | Brasil | 2925501 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.5 |
-| 8070a1d3-f488-3ca6-ae70-8214c177a638 | -17.98572 | -40.20803 | 2025-12-12 11:40:00 | TERRA_M-M | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 14.7 |
-| 1e6b1d78-725b-31d5-a027-7fb27a5aea38 | -20.33917 | -41.73729 | 2025-12-12 11:40:00 | TERRA_M-M | IÚNA | ESPÍRITO SANTO | Brasil | 3203007 | 32 | 33 | nan | nan | nan | Mata Atlântica | 4.8 |
-| 6839d4a7-2afd-3893-9c10-151b000408f6 | -17.98703 | -40.19868 | 2025-12-12 11:40:00 | TERRA_M-M | MUCURI | BAHIA | Brasil | 2922003 | 29 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| 2b55fe13-dac5-3d14-8f03-64e434c608d1 | -17.99462 | -40.20935 | 2025-12-12 11:40:00 | TERRA_M-M | PEDRO CANÁRIO | ESPÍRITO SANTO | Brasil | 3204054 | 32 | 33 | nan | nan | nan | Mata Atlântica | 36.0 |
-| 9cb4f403-4ea6-3ad6-b0f9-2651b94b4e88 | -18.99517 | -39.89734 | 2025-12-12 11:40:00 | TERRA_M-M | JAGUARÉ | ESPÍRITO SANTO | Brasil | 3203056 | 32 | 33 | nan | nan | nan | Mata Atlântica | 6.2 |
-| e8c6566b-89dd-3eb9-b808-f31dd0c699bc | -19.24069 | -40.1192 | 2025-12-12 11:40:00 | TERRA_M-M | LINHARES | ESPÍRITO SANTO | Brasil | 3203205 | 32 | 33 | nan | nan | nan | Mata Atlântica | 9.3 |
-| 4e4d6337-5224-3086-ad41-36930509c6bf | -17.99593 | -40.20001 | 2025-12-12 11:40:00 | TERRA_M-M | PEDRO CANÁRIO | ESPÍRITO SANTO | Brasil | 3204054 | 32 | 33 | nan | nan | nan | Mata Atlântica | 24.5 |
-| 00ef7b4b-66e5-3bb6-8088-39cb857c6852 | -8.3681 | -36.8323 | 2025-12-12 12:00:00 | GOES-19 | PESQUEIRA | PERNAMBUCO | Brasil | 2610905 | 26 | 33 | nan | nan | nan | Caatinga | 111.7 |
-| 8853d1ec-2d5b-3bb4-884a-d1d961bbf028 | -7.3251 | -37.8105 | 2025-12-12 13:20:00 | GOES-19 | OLHO D'ÁGUA | PARAÍBA | Brasil | 2510402 | 25 | 33 | nan | nan | nan | Caatinga | 115.5 |
-| de804868-a7e7-333e-8bc3-96244b69d604 | -8.386 | -36.9092 | 2025-12-12 13:30:00 | GOES-19 | PESQUEIRA | PERNAMBUCO | Brasil | 2610905 | 26 | 33 | nan | nan | nan | Caatinga | 108.8 |
-| 14f06cde-4c08-3303-8a94-c2795f222747 | -7.8845 | -37.2693 | 2025-12-12 14:10:00 | GOES-19 | IGUARACY | PERNAMBUCO | Brasil | 2606903 | 26 | 33 | nan | nan | nan | Caatinga | 110.1 |
+| c20d94cb-4843-3c6e-ae9a-ec961bc6f2df | -10.3936 | -50.1418 | 2026-06-28 14:30:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 64.1 |
+| 86613819-be1a-35f6-abe4-a861b89750e0 | -8.3088 | -48.2514 | 2026-06-28 14:30:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 75.9 |
+| 7551ee39-061b-36e8-b46e-d2e2f07f36d0 | -10.7858 | -56.7638 | 2026-06-28 14:40:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 57.0 |
+| 82c44b42-9ceb-32b1-b707-f8cc0d23a28d | -12.194 | -52.8657 | 2026-06-28 14:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 77.1 |
+| c874b27e-1e00-3731-a40f-96c6af57322b | -9.2131 | -46.6404 | 2026-06-28 14:40:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 89.0 |
+| 6faef5d5-17f1-3ea2-962d-7370e41a4c31 | -8.2429 | -47.4471 | 2026-06-28 14:40:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 131.3 |
+| b56e1967-5bb9-3143-a77f-59c439435387 | -17.692 | -46.784 | 2026-06-28 14:40:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 86.7 |
+| 3d186d88-73c7-381b-9429-03de26da54f8 | -17.7126 | -46.7565 | 2026-06-28 14:40:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| 66c4c6d2-ca7a-3404-9905-5986d311c19c | -12.1937 | -52.8866 | 2026-06-28 14:40:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 104.0 |
+| 18e5c8bb-00dd-3f71-ab81-38057747a547 | -12.2862 | -57.5621 | 2026-06-28 14:40:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 89.4 |
+| e057a24e-ebad-3487-85dd-006ce23f0477 | -10.3936 | -50.1418 | 2026-06-28 14:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 64.0 |
+| 260c87ba-aada-35f4-8dbe-342fbce32a03 | -9.0796 | -59.4098 | 2026-06-28 14:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 72.1 |
+| 67bff014-7300-3b76-94ec-c127d2725b66 | -17.712 | -46.7798 | 2026-06-28 14:40:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 136.7 |
+| 91418330-580f-3ffb-b1a8-6e62654fbce7 | -8.9619 | -45.6552 | 2026-06-28 14:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 116.4 |
+| 32b3d026-a0b2-39ff-8c68-02f42e3532ac | -8.3088 | -48.2514 | 2026-06-28 14:40:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 77.2 |
+| c58f275f-a937-3d04-89de-d560ac2c8b1c | -8.3088 | -48.2514 | 2026-06-28 14:50:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 73.1 |
+| 682e8c1c-2267-3b40-90f9-745f8d2a2a71 | -17.692 | -46.784 | 2026-06-28 14:50:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| 6eefdabb-1818-3b38-beb8-15607c4e8a65 | -10.786 | -56.7439 | 2026-06-28 14:50:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 56.9 |
+| aa9ee790-9bc9-38db-870d-6d69e8c9c934 | -9.0796 | -59.4098 | 2026-06-28 14:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 75.9 |
+| f5728003-a161-3ef8-abfb-00f6039a284a | -12.1937 | -52.8866 | 2026-06-28 14:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 105.2 |
+| df584468-f9f8-3101-90b0-35a54fb90e07 | -12.194 | -52.8657 | 2026-06-28 14:50:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 82.3 |
+| fee08121-ce92-3b04-9caa-9f48a68856ad | -12.286 | -57.582 | 2026-06-28 14:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 93.8 |
+| 6016ca61-e8bb-345b-a9a7-16c753a3c499 | -12.2862 | -57.5621 | 2026-06-28 14:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 87.4 |
+| a5393bf6-8540-3091-9424-46bde493e5a3 | -17.7126 | -46.7565 | 2026-06-28 14:50:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| 9aa65930-6d7a-3649-ba02-8accdd961c0c | -10.7858 | -56.7638 | 2026-06-28 14:50:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 78.9 |
+| 73d34d29-f9e1-344c-9563-5c5a8483a942 | -10.3936 | -50.1418 | 2026-06-28 14:50:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 66.7 |
+| 48f04b47-767c-3bd7-846d-c32e2f2c0f1d | -8.9619 | -45.6552 | 2026-06-28 14:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 121.1 |
+| 5953cd20-ded9-37ec-bf04-0d1d17edb8c6 | -13.2201 | -54.415 | 2026-06-28 14:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 58.9 |
+| ab7f25cf-3fdf-397c-a7ac-b1beeb825e90 | -8.2429 | -47.4471 | 2026-06-28 14:50:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 77.0 |
+| 29a5f8e9-ef2f-3904-9b24-bc19d0a976c8 | -12.3051 | -57.5605 | 2026-06-28 14:50:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| 769a9934-f525-30a3-84c9-5a87c7f12c3b | -12.2862 | -57.5621 | 2026-06-28 15:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 84.3 |
+| 4438501e-13ad-356f-8b9d-5f3eeb63691b | -17.7126 | -46.7565 | 2026-06-28 15:00:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 93.4 |
+| 1c900e47-b614-39a3-99dd-5c921d70ca1d | -8.9619 | -45.6552 | 2026-06-28 15:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 116.7 |
+| d8af4013-c9fe-3fcf-a9e9-d1e16ee7c6c0 | -12.286 | -57.582 | 2026-06-28 15:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 73.7 |
+| 5e22f6fd-1f9f-35b0-9919-3112c2421975 | -9.0981 | -59.4282 | 2026-06-28 15:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 148.9 |
+| 7d30ffc8-39db-35b0-9e2c-bb31ba7a1a27 | -9.0982 | -59.4088 | 2026-06-28 15:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 68.1 |
+| 93876caa-a148-3318-b166-d3722f01617b | -10.7858 | -56.7638 | 2026-06-28 15:00:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 78.5 |
+| 7d1c6592-b7c1-3801-95e2-bf484811835e | -12.0923 | -51.9966 | 2026-06-28 15:00:00 | GOES-19 | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 90f6d096-5b41-3cff-9833-9d86517c6586 | -13.2201 | -54.415 | 2026-06-28 15:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 150.2 |
+| fff0ffc6-cb51-3590-95b2-1034c6abe495 | -8.3088 | -48.2514 | 2026-06-28 15:00:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 71.7 |
+| 6ebf63b4-db72-3c38-8054-faa63f1095f9 | -10.786 | -56.7439 | 2026-06-28 15:00:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 67.1 |
+| 308dae7c-e3a1-3a6a-8dcf-2b03924e0d6e | -9.0796 | -59.4098 | 2026-06-28 15:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 94.5 |
+| 0b57458b-ab68-3490-8683-9d4cab82e38d | -12.194 | -52.8657 | 2026-06-28 15:00:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 75.1 |
+| 3c574e12-0bb5-3c5b-9e8b-bab63c7ee54e | -12.3051 | -57.5605 | 2026-06-28 15:00:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 59.1 |
+| a1edfaaf-bd79-3840-9e5c-cb8c357503b3 | -17.692 | -46.784 | 2026-06-28 15:00:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 79.6 |
+| 243ec1c6-adff-3a17-b3a1-e63138a15bc6 | -9.0981 | -59.4282 | 2026-06-28 15:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 361.1 |
+| 4f47667b-a222-3ffa-a5ac-0a4d952f96fb | -10.3936 | -50.1418 | 2026-06-28 15:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 60.6 |
+| 0f3a3528-42b3-3c2a-b1d8-94d0504218c6 | -12.2862 | -57.5621 | 2026-06-28 15:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 81.8 |
+| 435350c1-aa07-3b14-a7be-650649f993f1 | -18.4795 | -54.1105 | 2026-06-28 15:10:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 65.8 |
+| bf824ffe-863d-30b4-9364-b9699b533d86 | -9.0796 | -59.4098 | 2026-06-28 15:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 187.0 |
+| e02c4792-6c22-3ffe-b090-396ebc47bebe | -12.286 | -57.582 | 2026-06-28 15:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 74.8 |
+| 9ea2ef6b-300c-3de8-bc75-4c60accd91d6 | -9.0982 | -59.4088 | 2026-06-28 15:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 133.2 |
+| bc3081d3-6d9b-3848-b444-219131eff0e4 | -17.692 | -46.784 | 2026-06-28 15:10:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 69.0 |
+| f21a7ba6-7be6-3d5a-a305-932abb45fc81 | -8.9619 | -45.6552 | 2026-06-28 15:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 99.0 |
+| 7fd1904c-3484-3287-88a3-4a764cb7d87b | -10.786 | -56.7439 | 2026-06-28 15:10:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 63.3 |
+| 18d5fc8e-12e5-32f6-b487-9c3ea4e463c1 | -8.3088 | -48.2514 | 2026-06-28 15:10:00 | GOES-19 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 72.4 |
+| 83f56d1b-5f22-39b0-a2d3-35394e9e0123 | -13.2201 | -54.415 | 2026-06-28 15:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 92.9 |
+| 14263321-7539-3725-847c-d8e2e79911a1 | -17.7126 | -46.7565 | 2026-06-28 15:10:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 105.6 |
+| f4383ad1-cb1a-38e7-b7c2-3e254ed3c80b | -12.0923 | -51.9966 | 2026-06-28 15:10:00 | GOES-19 | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 63.9 |
+| c676b3ba-670c-3ca9-9fa5-40468d395cb4 | -10.7858 | -56.7638 | 2026-06-28 15:10:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 78.9 |
+| e65444a8-50cb-3804-92e4-59373165b2ed | -12.3051 | -57.5605 | 2026-06-28 15:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 54.7 |
+| c1663c2d-2cf4-383d-a057-d5d1b836756b | -18.48 | -54.0891 | 2026-06-28 15:20:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 58.4 |
+| 5a57b2df-82ab-39dc-8c66-709125ee7403 | -10.786 | -56.7439 | 2026-06-28 15:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 66.7 |
+| 03ad0e21-7b71-39fd-8a77-89199606100a | -12.2862 | -57.5621 | 2026-06-28 15:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 100.4 |
+| ce3a5492-cf36-3822-9bf4-056af5410378 | -12.2222 | -56.5467 | 2026-06-28 15:20:00 | GOES-19 | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 52.3 |
+| a659570f-6eea-3f9b-ad25-5c3c5c6dc4ca | -17.692 | -46.784 | 2026-06-28 15:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 77.0 |
+| 0f74b456-6241-3f9a-bf59-870672682b27 | -10.3936 | -50.1418 | 2026-06-28 15:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 60.6 |
+| 7f853a71-2e21-391f-acb4-7419d82ceee9 | -17.7126 | -46.7565 | 2026-06-28 15:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 97.8 |
+| 5355d862-40ae-3c4a-b4c7-74b57c170e21 | -11.9126 | -57.1339 | 2026-06-28 15:20:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 52.0 |
+| e7206eee-b546-360c-8763-d00cdfd3d843 | -13.2201 | -54.415 | 2026-06-28 15:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 81.3 |
+| 20bf6615-6f8a-3295-bcd8-d68e291d43cd | -18.4795 | -54.1105 | 2026-06-28 15:20:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| 0ee91bb5-9fe5-3525-ad12-6363af66f1e6 | -12.286 | -57.582 | 2026-06-28 15:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 74.8 |
+| 9b33de69-0abc-3fa2-9486-2fc59b6751d6 | -8.9619 | -45.6552 | 2026-06-28 15:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 98.1 |
+| 5156e4a3-b937-3c4a-b040-68b28510ab59 | -10.7858 | -56.7638 | 2026-06-28 15:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 91.8 |
+| 269fc0e5-2b2d-3eca-a332-deb643b57488 | -12.194 | -52.8657 | 2026-06-28 15:20:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 75.4 |
+| 275d800d-8707-3b64-8755-37d1f72fad5e | -12.2412 | -56.545 | 2026-06-28 15:20:00 | GOES-19 | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 56.5 |
+| 94c5a4a0-54bb-3b1b-8f63-201ceaadf2f0 | -12.3051 | -57.5605 | 2026-06-28 15:20:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 66.9 |
+| 190a40c4-6e6d-3ceb-880e-81919ce84307 | -13.2201 | -54.415 | 2026-06-28 15:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 64.6 |
+| ca05da59-a168-38d5-8f9c-e92d412d7188 | -12.2864 | -57.5421 | 2026-06-28 15:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| a5f2b673-26db-3af6-b4b7-cdb48e74e86e | -11.2148 | -53.833 | 2026-06-28 15:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 75.9 |
+| aa3aa9c1-88b4-3df7-997d-78d60bb64580 | -12.286 | -57.582 | 2026-06-28 15:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 77.3 |
+| c2e3b6c9-f134-3bdf-bd24-87ce0bac9ce3 | -11.2151 | -53.8125 | 2026-06-28 15:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 76.9 |
+| 1e56bc16-ba31-3872-8d8b-420b46d1ebf7 | -12.194 | -52.8657 | 2026-06-28 15:30:00 | GOES-19 | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 75.1 |
+| 908ee4b6-a5b0-33a3-a834-7fa8e0651807 | -18.48 | -54.0891 | 2026-06-28 15:30:00 | GOES-19 | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | 65.3 |
+| 282572fe-deec-3075-a0da-c51d3e0ea740 | -10.7858 | -56.7638 | 2026-06-28 15:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 86.9 |
+| 0e61d7bf-68af-306f-94c2-605894086958 | -10.3936 | -50.1418 | 2026-06-28 15:30:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 59.9 |
+| acd05432-20b1-3f81-a867-59cb9d233203 | -12.0923 | -51.9966 | 2026-06-28 15:30:00 | GOES-19 | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 65.2 |
+| cb38f467-b086-34f3-84f1-419ab3f40d65 | -12.2412 | -56.545 | 2026-06-28 15:30:00 | GOES-19 | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 56.0 |
+| 2c2ce0bb-25db-3a24-8910-66adc3d3aee1 | -12.2222 | -56.5467 | 2026-06-28 15:30:00 | GOES-19 | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 52.5 |
+| f7bad6e3-906b-35f7-8b7c-bd292da3dab8 | -10.786 | -56.7439 | 2026-06-28 15:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 68.5 |
+| 0e025fc6-4a02-3f8b-b068-b4e07a588c3f | -17.7126 | -46.7565 | 2026-06-28 15:30:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| 22f7e102-efdf-34f2-836b-28df91d2dd42 | -11.9126 | -57.1339 | 2026-06-28 15:30:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 57.8 |
+| c33fce72-fe7e-34c9-b120-26624730469b | -12.2862 | -57.5621 | 2026-06-28 15:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 123.5 |
+| e525b340-a004-343f-8dc2-1442934f1f6b | -8.9619 | -45.6552 | 2026-06-28 15:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 81.6 |
+| 74ea7590-98cf-322d-855d-2a54ece4dd9f | -12.3051 | -57.5605 | 2026-06-28 15:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 81.2 |
+| d6530015-7fd5-3f4d-83dd-568ac71fbe8a | -12.556 | -57.1798 | 2026-06-28 15:30:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 50.4 |
+| 177565ca-d5ae-301e-b95f-2503bdad31cb | -10.3555 | -50.1671 | 2026-06-28 15:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 63.9 |
+| c7b901ed-0d89-3000-ab90-abaf30b2ff63 | -11.2148 | -53.833 | 2026-06-28 15:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 56.8 |
+| 3980111a-a9f7-3c5b-a986-788052f6df11 | -13.2201 | -54.415 | 2026-06-28 15:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 77.1 |
+| 1c89f43c-b657-3a91-a0f2-01e1bd065cfd | -17.7126 | -46.7565 | 2026-06-28 15:40:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 107.4 |
 
 
+[Clique aqui para ver as próximas entradas](README28.md)

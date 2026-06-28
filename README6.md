@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 52e33ce6-493d-3b91-aad6-8bcea338bc03 | -13.6671 | -53.9314 | 2026-06-27 01:30:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 52.5 |
-| f257b9e3-3694-35b0-a0b4-34c62f62b9b8 | -5.7756 | -45.0826 | 2026-06-27 01:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 65.7 |
-| 905960bf-6345-3652-997e-45d30399d7db | -12.6236 | -57.8926 | 2026-06-27 01:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 130.9 |
-| f248a5b0-0344-3ebe-8552-56ca15641a70 | -5.7945 | -45.0586 | 2026-06-27 01:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| 2e879cc2-6caf-3c58-a4fc-55c4f90354cc | -7.7361 | -44.1823 | 2026-06-27 01:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 96.6 |
-| 57117883-d2ff-35f7-b4a0-c75903b0e4a7 | -10.5634 | -46.2362 | 2026-06-27 01:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 62.6 |
-| 2c6d120e-1084-3909-bd4c-1a1f04b131d0 | -10.6571 | -50.2212 | 2026-06-27 01:30:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 40.2 |
-| adfdf677-cf68-3549-b180-82f65d88a59e | -12.4654 | -58.481 | 2026-06-27 01:30:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 92.1 |
-| eaf243b5-335c-3f59-9beb-67731aedf339 | -10.6385 | -50.2018 | 2026-06-27 01:30:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 69.9 |
-| 10e4e348-5312-38b1-ab0e-4c54b278610c | -12.8363 | -44.3186 | 2026-06-27 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.7 |
-| ef88e463-5c22-34d2-b05d-8d2495d78bb0 | -12.8165 | -44.3454 | 2026-06-27 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 70.8 |
-| ad1ac2b6-8649-3bc5-a5c7-4f2a76f9075b | -12.8354 | -44.3657 | 2026-06-27 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 112.4 |
-| 59279c46-bab4-3d6f-a4ca-d77b4cd82ab4 | -12.4462 | -58.5023 | 2026-06-27 01:30:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 44.5 |
-| 91cb4486-7f68-3175-ac4a-8e7f5ddd0e2e | -12.6238 | -57.8727 | 2026-06-27 01:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 42.4 |
-| 52c1f880-0708-30d8-849c-c8c03b223739 | -7.7361 | -44.1823 | 2026-06-27 01:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 110.9 |
-| eb09975c-faee-3419-a7c1-bd5edf21e537 | -7.755 | -44.1805 | 2026-06-27 01:40:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 86.0 |
-| 97fd361e-70c7-3919-8072-07c1dcedaa61 | -5.7758 | -45.0599 | 2026-06-27 01:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 104.3 |
-| 52d3429a-a249-3e97-9d47-e013aaf210f9 | -12.4651 | -58.5009 | 2026-06-27 01:40:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 100.6 |
-| 69b8cef2-a758-398c-9b32-d2e2db4792ad | -12.4462 | -58.5023 | 2026-06-27 01:40:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 43.8 |
-| bc4849f8-8bbc-341b-aa47-ecb044f14a13 | -10.6195 | -50.2038 | 2026-06-27 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 37.1 |
-| 01a2a484-7559-3ca1-aa42-e5df1a66bdc0 | -10.6385 | -50.2018 | 2026-06-27 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 60.6 |
-| 1cc9b800-7e98-3244-aaed-82f1882b5ad7 | -12.6236 | -57.8926 | 2026-06-27 01:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 113.1 |
-| 5e6fcbbf-aea7-3d34-a6b4-094805fa1968 | -10.6192 | -50.2252 | 2026-06-27 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 37.5 |
-| d50cfb52-3427-3f46-af45-56eca4033d2c | -12.8165 | -44.3454 | 2026-06-27 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 69.5 |
-| 236fbf87-f123-3fd9-927e-3110c3edd65f | -10.6382 | -50.2232 | 2026-06-27 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 67.2 |
-| 2885df45-54ba-398c-81fb-876a5fd06351 | -12.6238 | -57.8727 | 2026-06-27 01:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 45.7 |
-| fb16fc0a-8233-32f8-9084-bd646a47973d | -10.5634 | -46.2362 | 2026-06-27 01:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 66.1 |
-| 355939ef-ef09-3852-b04a-fb5be2e20142 | -5.7945 | -45.0586 | 2026-06-27 01:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 57.2 |
-| 4854aa78-6523-3232-8453-f4cfcc83840c | -12.8359 | -44.3422 | 2026-06-27 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 225.6 |
-| 01802568-82d5-3b4e-8caa-c0f6bf05a0d7 | -13.6671 | -53.9314 | 2026-06-27 01:40:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 46.5 |
-| 128215ab-80b8-3856-919b-d44715146144 | -12.4654 | -58.481 | 2026-06-27 01:40:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 84.7 |
-| b18a4b2d-3f63-3625-8af6-e6ee403d770f | -10.6571 | -50.2212 | 2026-06-27 01:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 35.1 |
-| 1b08b89d-6e18-3ffc-8b0d-3af0c4fb22f0 | -12.6046 | -57.8942 | 2026-06-27 01:40:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 53.5 |
-| 6da61898-4353-312c-9114-76a43a034f52 | -5.7756 | -45.0826 | 2026-06-27 01:40:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 56.9 |
-| e32cf90a-cbd0-35d9-aa68-de45e13b7b08 | -12.8354 | -44.3657 | 2026-06-27 01:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 90.1 |
-| 34acce72-8672-36f0-9b43-cba1d2d3b567 | -12.4654 | -58.481 | 2026-06-27 01:50:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| 454db502-2ba7-3856-8af7-335e7a9fd96a | -10.6382 | -50.2232 | 2026-06-27 01:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 68.7 |
-| e21dc63b-af10-3419-8f90-bf185816fa6f | -12.4651 | -58.5009 | 2026-06-27 01:50:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 99.1 |
-| adf2af55-d2d9-3c61-a717-8968b1893739 | -12.8359 | -44.3422 | 2026-06-27 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 194.4 |
-| 18455c8c-f3ba-3cdf-b30a-d9aa0546df21 | -12.6236 | -57.8926 | 2026-06-27 01:50:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 110.9 |
-| c8b9dc42-5f60-3a48-9593-9506fd1ee5fc | -7.7361 | -44.1823 | 2026-06-27 01:50:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 108.9 |
-| 484ad68f-53fa-3fe3-9cf8-190484bee3c3 | -12.8165 | -44.3454 | 2026-06-27 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 65.6 |
-| 5d5c4373-6f87-3a47-baba-0aa0a19f12dd | -10.6385 | -50.2018 | 2026-06-27 01:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 58.6 |
-| 025ab6c7-19e4-3c5f-8355-bd9d480be157 | -5.7758 | -45.0599 | 2026-06-27 01:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 106.4 |
-| 21395bd2-e373-3f0d-ab64-9d232cd6ad3e | -12.6046 | -57.8942 | 2026-06-27 01:50:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 56.2 |
-| 4dd5d252-d580-3584-84c0-d835b071373b | -12.4462 | -58.5023 | 2026-06-27 01:50:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 46.6 |
-| fdd2d69e-7f89-3d84-81a6-205fcd6ee208 | -12.6238 | -57.8727 | 2026-06-27 01:50:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 41.5 |
-| 596642b3-6750-3bbb-a45b-181d8987d258 | -10.6195 | -50.2038 | 2026-06-27 01:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 41.7 |
-| ae13023a-8d86-3807-8bfb-a85adb7693fe | -12.8354 | -44.3657 | 2026-06-27 01:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 92.6 |
-| 6f9712eb-cae5-3e37-b692-c0b0304ef3ee | -7.755 | -44.1805 | 2026-06-27 01:50:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 75.6 |
-| 748e2d27-a72f-387a-b1b2-da970addc344 | -5.7756 | -45.0826 | 2026-06-27 01:50:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 58.5 |
-| a4161f8f-442b-3dd2-ac60-f4881a1bb993 | -12.4651 | -58.5009 | 2026-06-27 02:00:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 104.5 |
-| eee4c326-2890-346c-95e5-ce5fd0393cfb | -12.4654 | -58.481 | 2026-06-27 02:00:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 89.4 |
-| 49af25f8-ad12-33ca-878b-34e388e93a09 | -13.6671 | -53.9314 | 2026-06-27 02:00:00 | GOES-19 | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Cerrado | 44.2 |
-| bad23261-c066-3a83-bfe7-4e4e3b86b429 | -12.8359 | -44.3422 | 2026-06-27 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 190.6 |
-| 27ac45dc-b468-3cae-9455-b611c55fc58b | -12.6236 | -57.8926 | 2026-06-27 02:00:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 115.8 |
-| 8c0977cd-5fda-3cf0-8ba2-60081207aa4f | -12.6046 | -57.8942 | 2026-06-27 02:00:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 66.6 |
-| 9b0e421c-7d44-3fa7-81a7-803a3002e331 | -21.7626 | -56.2581 | 2026-06-27 02:00:00 | GOES-19 | JARDIM | MATO GROSSO DO SUL | Brasil | 5005004 | 50 | 33 | nan | nan | nan | Cerrado | 42.0 |
-| 32cd2c7f-c8cd-344b-bc66-ec1f7e4725f0 | -12.8165 | -44.3454 | 2026-06-27 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 76.5 |
-| a13da255-97d7-3ddd-b66e-5a15b1163bbd | -10.5634 | -46.2362 | 2026-06-27 02:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| 9c776a44-4072-3517-ade8-7b6e325b2283 | -10.6385 | -50.2018 | 2026-06-27 02:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 47.8 |
-| 5a8c0a26-7ec8-3a93-bd67-cac375a3a75d | -10.6382 | -50.2232 | 2026-06-27 02:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 57.8 |
-| 1cf7b653-2b0a-3c2a-b10e-5f71433c23e0 | -7.755 | -44.1805 | 2026-06-27 02:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 64.6 |
-| c4385e54-243c-33be-b0a2-fbc624f0f757 | -12.8354 | -44.3657 | 2026-06-27 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 90.7 |
-| f7a6216e-2fb7-31ff-9869-e20420761008 | -7.7361 | -44.1823 | 2026-06-27 02:00:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 94.8 |
-| e0e972ad-77e8-36ad-a6fe-90e4dac2b127 | -12.8165 | -44.3454 | 2026-06-27 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 101.5 |
-| 5fa9f262-fb17-3a74-ad89-86f71e650ea7 | -10.6385 | -50.2018 | 2026-06-27 02:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 55.4 |
-| 47f5a4c1-a2dd-38f8-9a9a-14fc011ed79e | -11.9095 | -57.4134 | 2026-06-27 02:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 43.7 |
-| 6a9e472a-ba2a-3dcd-a189-7aa7b9b3fd92 | -10.6382 | -50.2232 | 2026-06-27 02:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 59.2 |
-| 1258185c-3850-38a4-9357-9827b30eb380 | -10.5634 | -46.2362 | 2026-06-27 02:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 72.0 |
-| 4d513820-ddd3-36e5-94dc-b7ad5717c86b | -12.6046 | -57.8942 | 2026-06-27 02:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 56.6 |
-| 58728ce7-4d5c-3504-8b4a-be0bf7f6f532 | -12.4654 | -58.481 | 2026-06-27 02:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 91.2 |
-| 24064d47-41ed-3491-868c-f7021d4d4407 | -5.7758 | -45.0599 | 2026-06-27 02:10:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 95.2 |
-| f652f339-570e-3f02-99a7-74d7ae778481 | -12.8354 | -44.3657 | 2026-06-27 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| e2eea811-fd98-37c9-9c33-1fe0f6239666 | -12.6236 | -57.8926 | 2026-06-27 02:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| ed69da0b-b04a-31f9-81b9-efbd5522ba42 | -7.7361 | -44.1823 | 2026-06-27 02:10:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 105.2 |
-| fdea10e1-e9d7-313d-8869-e954eb4ed90d | -12.6238 | -57.8727 | 2026-06-27 02:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 43.7 |
-| 03ad8d7a-a460-33a9-a86d-6e77cc0191d7 | -12.4651 | -58.5009 | 2026-06-27 02:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 98.2 |
-| e32f67a3-f935-383e-afbc-6e51d59801ec | -12.8359 | -44.3422 | 2026-06-27 02:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 148.6 |
-| 437c0401-9077-3271-b04b-0ae1bd94ef2c | -5.7756 | -45.0826 | 2026-06-27 02:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 53.2 |
-| 7934cb9e-cc77-3bb2-a12d-3ffc4054c6a3 | -12.8359 | -44.3422 | 2026-06-27 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 146.3 |
-| 61ef4b0b-bdc0-361d-a698-c4bd3d7b48bd | -12.8165 | -44.3454 | 2026-06-27 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 97.5 |
-| 42e92093-69d4-3ff6-9c8b-41f45b25b229 | -12.6236 | -57.8926 | 2026-06-27 02:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 108.9 |
-| 2756b83c-00f1-3d7c-8650-0b3f170da319 | -12.4654 | -58.481 | 2026-06-27 02:20:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 83.1 |
-| e336d68a-41fd-36c9-b607-acc312506980 | -12.4651 | -58.5009 | 2026-06-27 02:20:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 105.1 |
-| f9aeb94f-f26e-32b6-a4a1-7a93b480f9f1 | -7.7361 | -44.1823 | 2026-06-27 02:20:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| 9a2e0004-dd83-3011-8948-4a8f4c73d161 | -5.7945 | -45.0586 | 2026-06-27 02:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 56.5 |
-| f974c754-be22-3322-bc57-505bc583e50e | -12.8354 | -44.3657 | 2026-06-27 02:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 63.4 |
-| 59620f3e-faf5-3064-9e5c-0a990dbfd11c | -21.7626 | -56.2581 | 2026-06-27 02:20:00 | GOES-19 | JARDIM | MATO GROSSO DO SUL | Brasil | 5005004 | 50 | 33 | nan | nan | nan | Cerrado | 50.0 |
-| 4feab17c-f149-381d-b4a0-42c456439847 | -5.7758 | -45.0599 | 2026-06-27 02:20:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| eb9bb5cb-6d36-3588-98d1-95802748dd13 | -12.6046 | -57.8942 | 2026-06-27 02:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 61.3 |
-| 68b4ef57-c9f3-31fe-b5bb-38e6001f1d6c | -10.6382 | -50.2232 | 2026-06-27 02:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 34.0 |
-| d2acd6a3-d2b9-3ed6-ac47-ed07e4a057d5 | -12.4654 | -58.481 | 2026-06-27 02:30:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 87.3 |
-| 8c9cb6bc-415b-30e6-a445-4ba84d7d2c1d | -12.4651 | -58.5009 | 2026-06-27 02:30:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| 744b95e6-968f-3439-b0e8-5393c63bb4f9 | -12.6236 | -57.8926 | 2026-06-27 02:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 112.9 |
-| d9007cf9-4da4-304b-ae5b-35c22904fb4e | -5.7758 | -45.0599 | 2026-06-27 02:30:00 | GOES-19 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 93.2 |
-| 95f84f3b-ee6c-3d23-ad48-8980b5c01f08 | -12.8354 | -44.3657 | 2026-06-27 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 63.8 |
-| ca465f5b-f624-3d1f-ad5a-570c8020dbe1 | -12.8165 | -44.3454 | 2026-06-27 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 89.9 |
-| ad56a465-8eb2-3c2b-b6b2-696ef1b23e48 | -12.8359 | -44.3422 | 2026-06-27 02:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 127.6 |
-| c922d440-a74f-34a6-9886-a35f56f9898b | -7.7361 | -44.1823 | 2026-06-27 02:30:00 | GOES-19 | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 0497c9f5-37dc-3317-83b6-2b477630a1a8 | -12.4528 | -58.477901 | 2026-06-28 01:00:00 | METOP-C | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 4a8abb6b-6c39-398a-9104-c062a4066a40 | -12.1941 | -52.896198 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2173ef74-da43-359e-9047-a92c17929096 | -11.2182 | -54.293098 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 407dbc17-a94b-3e1d-a3af-ff56c97e0bfe | -11.2116 | -54.310001 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| d24c50e0-11c5-3401-8968-0bd651fd415a | -12.1859 | -52.905399 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8821fefb-6b59-34d3-a0b5-4b79a5d86066 | -12.2381 | -56.5518 | 2026-06-28 01:00:00 | METOP-C | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 96f5dabc-d825-37d9-b415-c0ddc2fa7fd2 | -18.4778 | -54.0989 | 2026-06-28 01:00:00 | METOP-C | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 57b12a59-5719-3d7a-bede-c5fc007ff94b | -11.2132 | -54.317299 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8d7096c2-a344-36ab-8033-918a3ba7a92f | -10.303 | -57.122898 | 2026-06-28 01:00:00 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c952821f-924d-32ca-96b8-728929166ee0 | -12.2007 | -52.879902 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| df83795a-4d74-3066-b345-41592890c0d2 | -12.4579 | -58.502998 | 2026-06-28 01:00:00 | METOP-C | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f9819f41-6d1a-3a0d-9da3-3d30dc5688c3 | -9.0862 | -59.383499 | 2026-06-28 01:00:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 39427823-c1fc-32ef-a4d1-61068c24db79 | -12.1771 | -57.138599 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0de3d648-1e8b-3366-90f1-a263dff3f805 | -9.0916 | -59.409 | 2026-06-28 01:00:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 07f9b6dc-69da-3dc9-a6bc-033de1aecb45 | -12.1694 | -57.150902 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 05cce5e7-9fc5-390d-a48d-9d32f3932fc0 | -12.0838 | -51.995899 | 2026-06-28 01:00:00 | METOP-C | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| eee44126-20b8-397b-bd3b-967d694d90fc | -11.2169 | -53.822201 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8a1b796b-4e38-3891-959b-bd56b54ed4b4 | -12.2361 | -56.5424 | 2026-06-28 01:00:00 | METOP-C | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 0a2494c6-0503-3ade-97a6-ed5bff6d6e50 | -12.2023 | -52.886902 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5a6a56d1-348a-3adf-87ef-8565e06a6247 | -12.0854 | -52.002899 | 2026-06-28 01:00:00 | METOP-C | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 71a4f8a0-f281-33d3-b89a-6cf623f563f0 | -12.1813 | -57.159 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3f931124-8646-3764-b0f2-5327ff950c49 | -12.1843 | -52.898399 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c2a69d3f-c387-37d7-be04-a81457474804 | -10.6395 | -50.519901 | 2026-06-28 01:00:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b8b0ce42-dce7-35ee-a162-dbb20adfa015 | -10.6413 | -50.527599 | 2026-06-28 01:00:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e2779001-bf7c-351b-8d17-4ce311e2f3a4 | -12.6042 | -57.872501 | 2026-06-28 01:00:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 2d52e9d4-c9e2-3cfa-8b23-dace765036b8 | -11.223 | -54.315102 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 378799e9-7c3d-3130-b318-e3a889b4dc4a | -12.1728 | -57.118198 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ebc5aa7d-61bb-3e82-a381-40b814b3b34f | -12.1673 | -57.140598 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1cd5cbb3-53f3-3c6b-b1e4-655ec76df902 | -11.5308 | -54.7817 | 2026-06-28 01:00:00 | METOP-C | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3741db52-256d-3b59-9d5a-fa72137ae390 | -12.4651 | -58.4884 | 2026-06-28 01:00:00 | METOP-C | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| cd925d75-6e38-30f2-bf68-e740ae100461 | -9.0818 | -59.410999 | 2026-06-28 01:00:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4b9c807d-90fe-305a-8b90-315457bc64f6 | -9.0889 | -59.396301 | 2026-06-28 01:00:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 48c81fd1-5f38-3c7a-a711-7b56683ff20c | -17.706301 | -46.774799 | 2026-06-28 01:00:00 | METOP-C | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| f156f1dd-fc0f-3b2c-8a01-7fc590349aa2 | -18.491199 | -54.113899 | 2026-06-28 01:00:00 | METOP-C | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| e68405fd-c076-3dcb-86d1-b36afb0ef95d | -12.1926 | -52.889198 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 93e4f162-df69-32ba-8c05-d782f2c9234d | -17.708599 | -40.153801 | 2026-06-28 01:00:00 | METOP-C | IBIRAPUÃ | BAHIA | Brasil | 2912806 | 29 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 1ca15b56-2027-38a1-b5bc-14012ce4fea3 | -12.7957 | -54.888199 | 2026-06-28 01:00:00 | METOP-C | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 61cc5ede-359b-399d-9fc8-b28200629b59 | -17.3048 | -42.634899 | 2026-06-28 01:00:00 | METOP-C | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 4ba0648e-878b-3cc3-bcb2-e5006c1b8e3a | -16.045601 | -50.553902 | 2026-06-28 01:00:00 | METOP-C | NOVO BRASIL | GOIÁS | Brasil | 5215207 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 19c14022-776d-38b7-9174-fd6abd336d09 | -11.9186 | -58.652901 | 2026-06-28 01:00:00 | METOP-C | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| e0a4c105-9da7-3434-bd87-a0c703d31442 | -12.087 | -52.009899 | 2026-06-28 01:00:00 | METOP-C | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a09930ec-67b9-30ac-93fe-320280fd246e | -12.196 | -52.858799 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| cc76c758-f24d-3d19-98f0-9580d99d6629 | -12.191 | -52.882198 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2614e65f-87cf-3a34-b3e8-d42e88a60858 | -12.1 | -52.021599 | 2026-06-28 01:00:00 | METOP-C | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a3043e51-07e9-3c7e-9c3f-338c73b23a07 | -10.3009 | -57.1133 | 2026-06-28 01:00:00 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| dd15e387-3bea-39b8-a671-7c047cb92bc6 | -12.2755 | -50.098499 | 2026-06-28 01:00:00 | METOP-C | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f23e82b8-b7b0-39dc-b860-4bb28c415d77 | -12.5945 | -57.874599 | 2026-06-28 01:00:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| a415ccb1-5945-3954-98b6-faba751074bf | -12.1745 | -52.9006 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f387b6f7-6e57-34e7-a90b-9516be207c7d | -10.3071 | -57.141998 | 2026-06-28 01:00:00 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8dd6ebab-17aa-3623-8958-618ac4033131 | -11.2198 | -54.3004 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| dc7334e9-885b-3a0b-8f26-bfa3d01a3057 | -11.9037 | -57.101101 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8ab19bea-ef49-3e41-b639-85765f143812 | -10.2911 | -57.115398 | 2026-06-28 01:00:00 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a8d01a28-13eb-35f1-97db-5797391364c1 | -11.91 | -57.131302 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6c68d0e7-e52b-38b3-b6b5-acadf83f3b8f | -12.163 | -57.1203 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 2fa1413b-6ea3-3d7a-acc1-9afb53902c3d | -12.6065 | -57.883999 | 2026-06-28 01:00:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| cbdc7180-6d5b-36fd-b28b-83d64efe8cfc | -12.6089 | -57.895599 | 2026-06-28 01:00:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| f7d1e2c5-c8de-3fa4-b795-81ca0bd4884e | -10.9402 | -56.848099 | 2026-06-28 01:00:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 8f1c71c2-57c7-32f7-81ae-15e55b88d978 | -10.7847 | -54.099701 | 2026-06-28 01:00:00 | METOP-C | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e944061a-778b-32f0-aaff-71f955ad6613 | -11.5324 | -54.789398 | 2026-06-28 01:00:00 | METOP-C | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f35272e1-338b-357b-b258-147cecf9a8a6 | -11.8841 | -57.105202 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| e6d9ee0a-e272-3591-9b90-93c6c730b209 | -11.9058 | -57.111099 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 57662657-8205-3100-9b16-64af3f4bf50b | -12.1792 | -57.1488 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c1c4ffcf-58d0-35d2-926c-eb9f15ba8714 | -9.5945 | -56.922501 | 2026-06-28 01:00:00 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f2ba6732-bce3-3bf8-89a1-e83058aac326 | -12.1879 | -52.868099 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 10e2b113-3a41-3289-a296-a3ac715496a9 | -12.1976 | -52.865799 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 58ffa01e-e5bc-3a8e-8dff-91e78f2f9ea8 | -11.6705 | -57.256001 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a8cce07f-bc7e-37d1-885a-2a637961bc6b | -12.1894 | -52.875099 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1fd65ba4-d60a-340f-8ddf-92437020b5fd | -4.2596 | -48.5383 | 2026-06-28 01:00:00 | METOP-C | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 8c05ce49-4fd4-35c3-9ebd-5e71873e47be | -12.2263 | -56.544399 | 2026-06-28 01:00:00 | METOP-C | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 78cd9f8c-808e-32b0-b341-e6a5b41b0009 | -12.209 | -52.870602 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 80448433-7e25-3fc1-9b63-9509c2c4c658 | -17.703899 | -46.765099 | 2026-06-28 01:00:00 | METOP-C | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 697f0d63-d401-3cdb-8b69-90c0eceb3077 | -12.5968 | -57.886101 | 2026-06-28 01:00:00 | METOP-C | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 1f46b311-16a9-3c6d-9bd5-ce238e35e4a9 | -18.489401 | -54.105202 | 2026-06-28 01:00:00 | METOP-C | COXIM | MATO GROSSO DO SUL | Brasil | 5003306 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 9c7d8f28-4579-3c60-8c74-58c45b24ad45 | -12.2039 | -52.893902 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ac7e75b6-74bd-3179-b473-9dad082cc99d | -11.9079 | -57.121201 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1c436bd1-3016-3f56-aedb-431b0d0c418c | -12.175 | -57.128399 | 2026-06-28 01:00:00 | METOP-C | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 52356358-8304-30df-b765-4b1bd18280d8 | -11.6585 | -57.247898 | 2026-06-28 01:00:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 452d0ad7-c14f-3df0-8fb5-da9e594b5db6 | -10.2952 | -57.134499 | 2026-06-28 01:00:00 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| fcab7b59-2050-305b-a1f8-0af3db51f368 | -12.2773 | -50.106201 | 2026-06-28 01:00:00 | METOP-C | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 6ae218e7-79e5-331f-ac6f-8b419b3d00bc | -12.1992 | -52.872799 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| ae8c6ce1-9e2f-389e-830b-c16e0674f532 | -10.305 | -57.132401 | 2026-06-28 01:00:00 | METOP-C | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 26083790-8238-353f-b078-0f3cb92214f7 | -12.2074 | -52.863602 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c1ec5035-d948-330b-b05d-36b1bc682e61 | -12.1828 | -52.891399 | 2026-06-28 01:00:00 | METOP-C | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 08c30182-d909-3b64-8c57-77e9545dad5b | -12.0923 | -51.9966 | 2026-06-28 01:10:00 | GOES-19 | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 93.8 |
+| 5a9f5e6b-ba59-3144-b36f-aedeb262a2af | -12.6046 | -57.8942 | 2026-06-28 01:10:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 71.4 |
+| 704af6c8-489c-3262-b085-87f7aa4ba547 | -11.2093 | -54.2848 | 2026-06-28 01:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 96.1 |
+| 4ef65e3b-1989-321a-86ef-892d5d27ce4b | -11.2088 | -54.3258 | 2026-06-28 01:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 77.2 |
+| aad1b63c-178d-3a81-a5ee-b145ed00a5ac | -12.1773 | -57.1519 | 2026-06-28 01:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 52.8 |
+| f10eab2c-d88a-335b-b3a4-f828b3abe0ef | -12.4654 | -58.481 | 2026-06-28 01:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 42.7 |
+| ee06d705-873a-35b4-a504-099cd82780f2 | -12.1775 | -57.1319 | 2026-06-28 01:10:00 | GOES-19 | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | 58.8 |
+| b921ab8d-e0eb-391e-b313-8177b47d417d | -17.3041 | -42.643 | 2026-06-28 01:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| 58bab816-47ad-3848-9f60-80a9057e3b42 | -11.209 | -54.3053 | 2026-06-28 01:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 268.8 |
+| bf0adc02-d903-3fe6-80f3-ef1a5ab2efec | -10.2942 | -57.1182 | 2026-06-28 01:10:00 | GOES-19 | NOVA MONTE VERDE | MATO GROSSO | Brasil | 5108956 | 51 | 33 | nan | nan | nan | Amazônia | 99.9 |
+| 31d23ff7-3fe1-3b11-a463-2419b0972ad5 | -12.4651 | -58.5009 | 2026-06-28 01:10:00 | GOES-19 | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 74.7 |
+| cdd2e3b4-b7a5-3ed5-9200-0139fd4e2c62 | -12.092 | -52.0176 | 2026-06-28 01:10:00 | GOES-19 | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Amazônia | 205.9 |
+| 15eddf6a-e0f9-37aa-b82a-68084c728962 | -9.0796 | -59.4098 | 2026-06-28 01:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 68.7 |
+| d0261297-aabf-377e-982f-306c0800ae3a | -11.6657 | -57.2536 | 2026-06-28 01:10:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| 926a84fd-8024-39de-b9d4-a1f5ad1913fe | -11.2277 | -54.3241 | 2026-06-28 01:10:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 58.3 |
+| 5a6c7bdf-711d-311a-bb31-5aab6136d82b | -10.3128 | -57.1367 | 2026-06-28 01:10:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 77.1 |
+| 63dddaf0-a168-3657-9fa8-e1d1d97ae56b | -10.313 | -57.1169 | 2026-06-28 01:10:00 | GOES-19 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 68.8 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)
