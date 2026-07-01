@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| faec6f4d-c29e-3077-b806-74e83262bb6c | -10.9593 | -43.0326 | 2026-06-30 06:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 77.7 |
-| 46961f0a-e465-34e2-b03e-20811066976a | -10.9397 | -43.0593 | 2026-06-30 06:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| 61b85448-10ac-3f3f-a151-fc7958a7f386 | -10.9209 | -43.0384 | 2026-06-30 06:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 73.6 |
-| 6c0ea5bc-d5bc-36a9-ac6e-de73f1aa92ce | -10.9593 | -43.0326 | 2026-06-30 06:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 58.1 |
-| 6d57cd4e-81fc-373b-b7f2-6437617d7140 | -10.9397 | -43.0593 | 2026-06-30 06:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 98.5 |
-| 6fbcce7e-61ed-3e5b-8278-f7a63604ae3b | -10.9401 | -43.0355 | 2026-06-30 06:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 325.5 |
-| 00c9adc1-ab78-3294-8698-98ee49e5e3d0 | -10.9401 | -43.0355 | 2026-06-30 06:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 289.7 |
-| 858da5d0-3e7b-3f46-8ec6-f9a41d279c11 | -10.9397 | -43.0593 | 2026-06-30 06:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 106.5 |
-| 9812b987-44df-3dd5-b67f-f308ab6a08c2 | -10.9405 | -43.0117 | 2026-06-30 06:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 76.5 |
-| 166dca5b-e5a6-333e-8dc2-b27126fda970 | -10.9209 | -43.0384 | 2026-06-30 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 56.2 |
-| c8edf7d4-7ed4-37be-981e-c84cacff5325 | -10.9401 | -43.0355 | 2026-06-30 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 295.1 |
-| bdf28c33-ceb1-3438-8110-8017b9339e8c | -10.9397 | -43.0593 | 2026-06-30 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 88.1 |
-| fa7f72e5-2554-3272-a11c-ff3cbc41d5aa | -10.9593 | -43.0326 | 2026-06-30 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 64.1 |
-| c388bb57-9d2b-3f4c-9e76-56b172037ea9 | -10.9405 | -43.0117 | 2026-06-30 06:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 56.3 |
-| 1bdcb30f-e093-3ccd-a011-6702c7262dc4 | -10.92536 | -43.03229 | 2026-06-30 06:52:00 | AQUA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 33.2 |
-| 01ff60f3-607f-3796-a61f-7dc91fdcb936 | -12.22017 | -56.55232 | 2026-06-30 06:52:00 | AQUA_M-M | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 16.5 |
-| dc62f8aa-d05c-360b-b44c-993b27f6afc8 | -12.20254 | -52.86697 | 2026-06-30 06:52:00 | AQUA_M-M | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 9.1 |
-| 4bab4048-a46c-3696-98d2-cb8dbe74eda6 | -7.63724 | -50.02263 | 2026-06-30 06:52:00 | AQUA_M-M | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 15.5 |
-| 328cbad5-838c-3776-b5fa-1bd4249b2a92 | -14.62929 | -54.45793 | 2026-06-30 06:52:00 | AQUA_M-M | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| 5afa371e-8f53-326b-9550-2e0dd220ae0e | -7.42809 | -49.8753 | 2026-06-30 06:52:00 | AQUA_M-M | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 8.1 |
-| a964e471-b682-31ca-9f75-3b18b669a397 | -10.93575 | -43.03846 | 2026-06-30 06:52:00 | AQUA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 436.8 |
-| bd442045-4b57-3a91-b813-dba7ef19f547 | -12.45154 | -58.49663 | 2026-06-30 06:52:00 | AQUA_M-M | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 17.0 |
-| 201d4652-8fff-3d65-9216-2602bfed8c44 | -13.2625 | -56.79985 | 2026-06-30 06:52:00 | AQUA_M-M | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 16.6 |
-| 28c83455-7f72-3150-9930-076f40709354 | -12.21368 | -56.55779 | 2026-06-30 06:52:00 | AQUA_M-M | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 11.9 |
-| b53ad0be-06d4-39ba-a670-78dfb37c6167 | -10.12726 | -52.40511 | 2026-06-30 06:52:00 | AQUA_M-M | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| c3ad0950-f285-36bc-a8df-b13c0342fc05 | -12.44261 | -58.47647 | 2026-06-30 06:52:00 | AQUA_M-M | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 1406c3bd-cbdc-322c-a947-72096dd9b4d4 | -9.6009 | -56.91996 | 2026-06-30 06:52:00 | AQUA_M-M | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | 25.6 |
-| db703ebf-06b2-3b63-98c5-b1572f371d68 | -12.45474 | -58.4785 | 2026-06-30 06:52:00 | AQUA_M-M | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 16.1 |
-| 54d30d3b-6114-3b96-a44b-da818bf9d017 | -10.93966 | -43.00545 | 2026-06-30 06:52:00 | AQUA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 76.7 |
-| 96271b15-fab1-3133-84be-c83294572651 | -12.44885 | -58.48902 | 2026-06-30 06:52:00 | AQUA_M-M | SAPEZAL | MATO GROSSO | Brasil | 5107875 | 51 | 33 | nan | nan | nan | Cerrado | 47.0 |
-| 0a5387a5-0a74-3589-922e-0814a93909cd | -11.22857 | -54.3117 | 2026-06-30 06:52:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 12.1 |
-| c4631dae-1947-3dfa-a84d-d4ae2a25b81e | -11.89064 | -57.12767 | 2026-06-30 06:52:00 | AQUA_M-M | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 14.8 |
-| 03e117c6-349b-379f-96a5-661c7143a694 | -10.69497 | -49.60558 | 2026-06-30 06:52:00 | AQUA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 24.0 |
-| 11209a05-ef1a-3c08-9a2b-0a6d198defda | -14.2016 | -57.42914 | 2026-06-30 06:54:00 | AQUA_M-M | NOVA MARILÂNDIA | MATO GROSSO | Brasil | 5108857 | 51 | 33 | nan | nan | nan | Amazônia | 12.0 |
-| 652e81a1-aeb8-3d5a-84a9-44351fc16c78 | -10.9209 | -43.0384 | 2026-06-30 07:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| fba9bfa1-6b01-314b-a347-b7295c8b77d5 | -10.9397 | -43.0593 | 2026-06-30 07:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 83.8 |
-| 82b57bf3-856f-3929-8c19-6d892784f7cf | -10.9401 | -43.0355 | 2026-06-30 07:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 293.0 |
-| 4a8d474b-a482-3eae-ab67-50d1fbd6ea1d | -10.9593 | -43.0326 | 2026-06-30 07:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 83.8 |
-| 4c75d0f8-0341-39fd-aae7-dde8fbedc4d9 | -10.9397 | -43.0593 | 2026-06-30 07:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 94.7 |
-| 8bd62277-3736-3ca0-8e06-1fac1f017aa6 | -10.9401 | -43.0355 | 2026-06-30 07:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 295.2 |
-| 52831968-0127-3026-8698-37f8ec905695 | -10.9209 | -43.0384 | 2026-06-30 07:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| 20f9c1e1-80f9-3923-8548-39b61a2d35c7 | -10.9593 | -43.0326 | 2026-06-30 07:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 95.1 |
-| 3449e995-3af5-33fc-968b-7c6439a565f2 | -10.9397 | -43.0593 | 2026-06-30 07:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 108.4 |
-| d2c6bcee-861f-3919-abd3-37d397dcf633 | -10.9593 | -43.0326 | 2026-06-30 07:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 49dbefc4-1169-3180-9f5b-4335d1710a0f | -10.9405 | -43.0117 | 2026-06-30 07:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| b0f3b010-1d0a-3fa6-b10a-f190b3b2b749 | -10.9401 | -43.0355 | 2026-06-30 07:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 269.6 |
-| a6402aec-cb10-3b27-9cd0-179a37f07c13 | -10.9593 | -43.0326 | 2026-06-30 07:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 64.9 |
-| cb1396e4-e2f2-3e0c-9b74-0718b855129c | -10.9401 | -43.0355 | 2026-06-30 07:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 296.4 |
-| e70d36a3-87aa-3cdb-a05f-5bcb28249649 | -10.9397 | -43.0593 | 2026-06-30 07:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| 6cb272fc-38b4-3c56-a4a5-e2f576ce0ae9 | -10.9401 | -43.0355 | 2026-06-30 07:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 244.2 |
-| 4500c2ab-e511-34c0-b599-997ece40c513 | -10.9397 | -43.0593 | 2026-06-30 07:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 117.0 |
-| 82e16c54-effb-34db-a6f2-98c07ae0d8b0 | -10.9401 | -43.0355 | 2026-06-30 07:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 225.6 |
-| 86aaa53c-740e-32c3-8c34-6006ef115235 | -10.9397 | -43.0593 | 2026-06-30 07:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 97.1 |
-| ff0ed073-5f77-36a0-9f09-1a284dc77b04 | -10.9397 | -43.0593 | 2026-06-30 08:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 75.0 |
-| 70141c8c-00f8-35c4-8cdb-664a78f35f8e | -10.9209 | -43.0384 | 2026-06-30 08:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 62.2 |
-| b29f288f-40c4-3979-a6c7-8ed079d6bd3f | -10.9401 | -43.0355 | 2026-06-30 08:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 224.6 |
-| eaa55f00-9995-3a2d-96c0-f10fe12138b1 | -10.9397 | -43.0593 | 2026-06-30 08:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 89.7 |
-| 8350f55d-65a0-3e58-b00a-fd2bc443a5c8 | -10.9401 | -43.0355 | 2026-06-30 08:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 195.5 |
-| b4bd5cad-ce3e-3796-b4dd-fd01492622a2 | -10.9397 | -43.0593 | 2026-06-30 08:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 72.6 |
-| 3f3437ca-8824-359e-b56b-8d3f3a7f3ca6 | -10.9401 | -43.0355 | 2026-06-30 08:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 158.2 |
-| 7741d099-226d-377d-ab88-0ef1cec3adca | -10.9401 | -43.0355 | 2026-06-30 08:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 162.7 |
-| b44a04c4-cf35-3a2f-9efd-f6a0cb22bee4 | -10.9397 | -43.0593 | 2026-06-30 08:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 67.1 |
-| d7dffbc2-1c74-3279-bce3-8e3fd738b2a2 | -8.9989 | -45.7191 | 2026-06-30 11:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 134.7 |
-| 0f756004-5eef-3fdb-85b8-cc980b5cefc4 | -8.61725 | -36.8998 | 2026-06-30 11:08:00 | TERRA_M-M | VENTUROSA | PERNAMBUCO | Brasil | 2616001 | 26 | 33 | nan | nan | nan | Caatinga | 4.5 |
-| 3788459b-a5aa-3fb1-8834-648f2eb86249 | -11.85668 | -45.50471 | 2026-06-30 11:08:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 24.1 |
-| 55f76262-37a1-3ebf-a59a-90a1ad112e75 | -9.07612 | -44.73487 | 2026-06-30 11:08:00 | TERRA_M-M | BOM JESUS | PIAUÍ | Brasil | 2201903 | 22 | 33 | nan | nan | nan | Cerrado | 17.3 |
-| 3aa2d3ea-0f70-32f5-b961-35581bca3dce | -8.9799 | -45.7212 | 2026-06-30 11:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 88.3 |
-| b0196805-fb88-3eaa-95e6-a7e1b6aeff7f | -8.9989 | -45.7191 | 2026-06-30 11:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 223.2 |
-| 468eb15c-1c89-3259-8a1f-f8c2c0b6ee0d | -8.943 | -45.6573 | 2026-06-30 11:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 141.8 |
-| 08ef0ebd-195b-37a0-97e5-6df2811cdb54 | -13.84295 | -44.765 | 2026-06-30 11:10:00 | TERRA_M-M | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 37.5 |
-| 61cc173f-042c-30c1-bb12-591f3724fdd6 | -8.9989 | -45.7191 | 2026-06-30 11:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 236.3 |
-| 475373d5-902b-36f8-899c-a034f3d89821 | -8.9619 | -45.6552 | 2026-06-30 11:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 129.0 |
-| 7b426523-1616-3ff4-a547-35b0a4332c3d | -8.943 | -45.6573 | 2026-06-30 11:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 145.7 |
-| 30ce98c5-7ac4-3e92-9dcc-ab5dabf40176 | -8.9799 | -45.7212 | 2026-06-30 11:20:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 153.5 |
-| d0ee6c2d-671f-394a-9e62-be15205ec13c | -17.712 | -46.7798 | 2026-06-30 11:20:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 100.4 |
-| 21ece081-cd11-3764-ab07-0ae4e9487066 | -8.9619 | -45.6552 | 2026-06-30 11:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 111.6 |
-| e7a1b077-0979-34e6-87c5-f3cc420db26e | -8.9799 | -45.7212 | 2026-06-30 11:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 156.1 |
-| af98a1e3-5577-37e3-97ab-6a3293c9bcb8 | -8.943 | -45.6573 | 2026-06-30 11:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 185.0 |
-| 547ca12d-6794-352d-ab1f-040ad13ce1e8 | -8.9989 | -45.7191 | 2026-06-30 11:30:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 288.7 |
-| afd8180f-aec8-374f-90e0-a8b7748d0266 | -17.712 | -46.7798 | 2026-06-30 11:30:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 114.9 |
-| 1f9468dc-9297-3b62-abfc-ee2f2dcedf22 | -8.943 | -45.6573 | 2026-06-30 11:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 130.1 |
-| b74f1167-2720-360c-ae42-e47813644474 | -8.9989 | -45.7191 | 2026-06-30 11:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 232.4 |
-| 8e97a3a2-2206-3009-b450-fdf668fb546f | -8.9799 | -45.7212 | 2026-06-30 11:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 271.8 |
-| d637c9fb-ab34-3f51-818b-671934ca5c1c | -17.712 | -46.7798 | 2026-06-30 11:40:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 136.8 |
-| 3b6b6f8a-07d4-3a68-9e40-d64bdefde7ba | -8.9619 | -45.6552 | 2026-06-30 11:40:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 155.5 |
-| 119ed688-e0d0-38d4-b927-a0e37591aefc | -8.943 | -45.6573 | 2026-06-30 11:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 164.1 |
-| cf8a8296-a4ce-39c1-9cf2-4b647e0c23c5 | -8.9619 | -45.6552 | 2026-06-30 11:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 111.3 |
-| 758498a7-9b20-336d-bccc-c270effc29cd | -8.9989 | -45.7191 | 2026-06-30 11:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 339.5 |
-| e711f03d-b77f-30b0-9a99-d9a009a6e09a | -8.9799 | -45.7212 | 2026-06-30 11:50:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 249.8 |
-| c4d92ca7-3680-3a2e-bfa3-fc56c95d819b | -17.712 | -46.7798 | 2026-06-30 11:50:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 136.9 |
-| 377af473-7365-3199-bbcc-cc6312683010 | -8.943 | -45.6573 | 2026-06-30 12:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 150.3 |
-| f6c09ba9-dbfd-3dca-ac2d-9d9494a996f2 | -8.9619 | -45.6552 | 2026-06-30 12:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 143.6 |
-| 2849593c-89c0-3880-a32e-bd0241c8251c | -17.712 | -46.7798 | 2026-06-30 12:00:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 159.9 |
-| 1fe4c73e-f9ca-32d8-b437-2e5303c70b5b | -8.9799 | -45.7212 | 2026-06-30 12:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 279.2 |
-| d720c160-55c3-38d0-b82c-14b41958c0d5 | -8.9989 | -45.7191 | 2026-06-30 12:00:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 326.9 |
-| aff6efab-6659-3df0-bede-1a68ba5819a7 | -8.9985 | -45.7418 | 2026-06-30 12:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 117.2 |
-| eb2185b0-d125-3927-adc8-3eb71533aa08 | -8.9619 | -45.6552 | 2026-06-30 12:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 127.9 |
-| 643b1c37-2903-3bce-ae9f-669c02bbda51 | -8.9989 | -45.7191 | 2026-06-30 12:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 372.2 |
-| fc9a3c92-8946-320d-832f-142caa99a82f | -8.9799 | -45.7212 | 2026-06-30 12:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 191.6 |
-| 10a74cc0-3594-3c93-a52f-9e8a2e191bc2 | -8.943 | -45.6573 | 2026-06-30 12:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 150.6 |
+| 976d18ee-26c7-349d-b7d4-75ee133a0fdc | -8.35577 | -46.81417 | 2026-07-01 04:38:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8edba505-80b2-381a-a86b-fd580bd3eb3b | -12.79898 | -54.86213 | 2026-07-01 04:38:00 | NPP-375D | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| c099ea8d-5878-39db-a430-72d337a5a545 | -11.42155 | -56.05256 | 2026-07-01 04:38:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| 5ae98123-2d0f-30dd-9255-f0593c94d63a | -8.12551 | -47.87704 | 2026-07-01 04:38:00 | NPP-375D | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| e8bb2582-14da-3c52-b75c-37d6fdba998f | -11.43378 | -56.0704 | 2026-07-01 04:38:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| 3b2762af-f0f1-3f31-b1bc-3a876bde5684 | -12.77078 | -44.49517 | 2026-07-01 04:38:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 40.1 |
+| 7c341e26-8627-3732-9f37-7bdf95b5d13b | -12.83439 | -44.35896 | 2026-07-01 04:38:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| dea685b1-643d-3694-bfff-6ffd61f6fcbc | -12.83195 | -44.34948 | 2026-07-01 04:38:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 32.7 |
+| 2a5e0436-7431-3ec5-abc9-6a74b21d3b3d | -11.54364 | -47.4515 | 2026-07-01 04:38:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 6de82a74-b1a6-3bee-9cf9-36e46118fbcb | -9.88402 | -50.39291 | 2026-07-01 04:38:00 | NPP-375D | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 5e78a9ce-f2aa-3f9a-8271-5fac814a7f61 | -8.34802 | -46.82009 | 2026-07-01 04:38:00 | NPP-375D | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| a5ab686a-70ed-3028-887f-1dd9907d0bcb | -12.41952 | -58.38832 | 2026-07-01 04:38:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| c5d70133-472b-32be-b053-a079f603e9b8 | -12.76838 | -44.48587 | 2026-07-01 04:38:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 89.4 |
+| b4a0d9fb-2224-31c3-aedd-7ba19b28cf64 | -10.83015 | -48.7617 | 2026-07-01 04:38:00 | NPP-375D | BREJINHO DE NAZARÉ | TOCANTINS | Brasil | 1703701 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| c4c265c8-0b45-3baf-b4cc-a531f48f3bad | -9.19075 | -45.3253 | 2026-07-01 04:38:00 | NPP-375D | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| e6665a75-0ba3-39bd-b3de-c7adc8e2a841 | -10.76435 | -53.5431 | 2026-07-01 04:38:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 5760afe1-a5d1-3e0d-be4a-cfc453232448 | -9.69226 | -56.0937 | 2026-07-01 04:38:00 | NPP-375D | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 86b47b9c-5487-3553-bf11-876d18d2e62b | -11.63017 | -59.01818 | 2026-07-01 04:38:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 4.8 |
+| ff0fd15d-efaf-3439-9cef-dd7a099c4e6f | -10.9205 | -43.0622 | 2026-07-01 04:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 203.0 |
+| 702f34e4-be7d-3eb4-ac5f-0f2adbe9c9e0 | -11.4149 | -56.0525 | 2026-07-01 04:40:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 53.7 |
+| 40c29551-58eb-37bb-a896-d5d773faa4a4 | -10.9397 | -43.0593 | 2026-07-01 04:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 101.0 |
+| 2d48d1eb-bce4-39ea-baea-81ecda6522c4 | -10.6787 | -54.5153 | 2026-07-01 04:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 69.3 |
+| f43910e1-a8da-360d-93e6-9fd7b696454f | -12.8354 | -44.3657 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 220.2 |
+| 4f0d6abf-4131-35ce-a9c2-5af5c74a015e | -12.8552 | -44.3389 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 184.8 |
+| f6760b0c-01ec-388d-8aac-3a58534102f8 | -12.8165 | -44.3454 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| 70368b20-93c2-395e-b040-8081f63a2ccd | -10.9401 | -43.0355 | 2026-07-01 04:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| 89e2ddc0-4d34-3fa7-bd8c-ff3069f58f58 | -12.7562 | -44.4724 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 211.3 |
+| f2c63109-bcfd-3e8c-92e5-c09e804c50a2 | -11.4336 | -56.0711 | 2026-07-01 04:40:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 101.0 |
+| 61c7c0fd-8a73-3b04-a647-ee42fa71ca13 | -10.6598 | -54.5169 | 2026-07-01 04:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 51.0 |
+| 707aa21e-11c4-3691-ac0f-07f87fa02323 | -12.7755 | -44.4693 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 330.6 |
+| 9c7a72c3-6e4e-35c6-8a86-e98dc884f0b3 | -12.7751 | -44.4927 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 398.6 |
+| ad0a1f1c-04fe-3646-94d0-793d415b4209 | -10.6596 | -54.5372 | 2026-07-01 04:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| b9240b14-918f-325e-9c73-2457d12f2fd7 | -12.8359 | -44.3422 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 366.5 |
+| 851d5031-b9b2-3794-9502-3b03eed7b86d | -12.7557 | -44.4959 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 250.9 |
+| db932b32-fceb-39ea-be3e-21a72d0b3d6f | -10.6784 | -54.5356 | 2026-07-01 04:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 66.8 |
+| 1bae40ae-87d7-3f2d-a0df-f39415577065 | -11.4147 | -56.0726 | 2026-07-01 04:40:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 44.6 |
+| 16ec5104-b2b7-393c-b43d-4381e4d6e0b1 | -12.8548 | -44.3625 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 114.7 |
+| 8eab1ecb-5ced-3ed2-9d5e-c8aa92098560 | -12.8363 | -44.3186 | 2026-07-01 04:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 48.1 |
+| b0217b30-4bd6-3251-b5f4-95b709e1979c | -11.4338 | -56.0509 | 2026-07-01 04:40:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 96.6 |
+| f12232ad-3184-30b5-a05c-8ad5a2688fdf | -10.9209 | -43.0384 | 2026-07-01 04:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 145.7 |
+| 6474baf9-6c49-312e-8dc6-2ee225c0b7a0 | -17.91592 | -52.71512 | 2026-07-01 04:40:00 | NPP-375D | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 649883b9-c937-3a70-9ade-a82d96851cfa | -15.94863 | -48.14567 | 2026-07-01 04:40:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| b68dfb98-9a45-3ce4-80a3-5500cab8ef62 | -17.71738 | -46.79761 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 23214b99-f355-35ab-a958-d41ee76c6704 | -16.07614 | -45.89816 | 2026-07-01 04:40:00 | NPP-375D | ARINOS | MINAS GERAIS | Brasil | 3104502 | 31 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| a5f595eb-da45-31a3-9f2d-c14136f4f3fa | -17.70811 | -46.78791 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| b70c9bd3-acd8-31ba-aa97-d93d8c351101 | -16.35959 | -49.33341 | 2026-07-01 04:40:00 | NPP-375D | NOVA VENEZA | GOIÁS | Brasil | 5215009 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 61b61151-8ba9-3159-87b8-2dd07aa64e3b | -16.58347 | -45.87781 | 2026-07-01 04:40:00 | NPP-375D | SANTA FÉ DE MINAS | MINAS GERAIS | Brasil | 3157609 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| f3f20d60-6dbe-3dfa-8395-b112d58fef7f | -16.36158 | -56.65798 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 8.5 |
+| 331afe72-5cd1-3fbc-be3e-54bf90c4bfb8 | -16.35199 | -56.65993 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.1 |
+| f6909d1c-7ef4-3b0e-a3e5-59f9d3017ee7 | -17.71217 | -46.78452 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 50997577-c012-385f-b890-ceba1e2199d7 | -17.03232 | -43.26096 | 2026-07-01 04:40:00 | NPP-375D | ITACAMBIRA | MINAS GERAIS | Brasil | 3132008 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c5c85d0e-0c8f-3939-af23-61b4a395bb64 | -19.84425 | -49.07054 | 2026-07-01 04:40:00 | NPP-375D | FRUTAL | MINAS GERAIS | Brasil | 3127107 | 31 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| f18ca537-4feb-3922-8980-ced4ac16d47e | -15.60062 | -43.59929 | 2026-07-01 04:40:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| 8335e23a-4d87-35bb-8d30-e913194c296f | -15.9453 | -48.14511 | 2026-07-01 04:40:00 | NPP-375D | BRASÍLIA | DISTRITO FEDERAL | Brasil | 5300108 | 53 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2081e574-8947-3114-a6a0-bc471c522204 | -16.35676 | -56.66093 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.1 |
+| 701a659f-f081-39cf-a232-44ef748f5198 | -22.55443 | -46.95628 | 2026-07-01 04:40:00 | NPP-375D | MOGI MIRIM | SÃO PAULO | Brasil | 3530805 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| b2e6314f-1677-37ca-985a-dbfe18b973cf | -16.36052 | -56.66325 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.5 |
+| 21bf5148-a344-30cb-8472-10944efd6f12 | -16.36529 | -56.66429 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 9.5 |
+| 2ad1f0b6-5b45-34ea-8b6f-8de480f6fe3b | -15.60464 | -43.59985 | 2026-07-01 04:40:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Cerrado | 4.9 |
+| d970d4d3-e39b-34e3-ac00-6e4aa2150630 | -17.44024 | -47.16244 | 2026-07-01 04:40:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 19290d1b-39f4-387c-924a-a9fcdeb2c07a | -13.26461 | -56.79987 | 2026-07-01 04:40:00 | NPP-375D | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| ac936f01-556e-35b1-85ee-cd370f06859c | -17.71507 | -46.78909 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| f9eef32d-be55-35a5-960c-074ff1b0c822 | -17.7139 | -46.79702 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| fe9199b5-55d9-346b-a933-a5f4268e107e | -21.49433 | -48.53976 | 2026-07-01 04:40:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 965f65a4-48f2-3c06-9697-c7acaaabadd0 | -21.6345 | -44.6581 | 2026-07-01 04:40:00 | NPP-375D | CARRANCAS | MINAS GERAIS | Brasil | 3114600 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 83342e2a-cf22-3210-890f-73665df9e1e1 | -17.43966 | -47.16629 | 2026-07-01 04:40:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| e2305f61-5e19-3895-866b-6b45dd02e3cb | -13.26402 | -56.80294 | 2026-07-01 04:40:00 | NPP-375D | SÃO JOSÉ DO RIO CLARO | MATO GROSSO | Brasil | 5107305 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 99bce126-677b-3311-9ea0-10fc94ea3536 | -16.36153 | -56.66195 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 20.1 |
+| 9e1751b7-caf5-3da1-be3c-ee637c1858b3 | -14.63241 | -54.46519 | 2026-07-01 04:40:00 | NPP-375D | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| c007ceb8-df7b-3900-aeae-9e2c1ae3c889 | -16.58499 | -45.87621 | 2026-07-01 04:40:00 | NPP-375D | SANTA FÉ DE MINAS | MINAS GERAIS | Brasil | 3157609 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 0c4006af-f2a6-3d93-931a-ef518af8743e | -15.60101 | -43.60039 | 2026-07-01 04:40:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 8160f19b-f9dc-3e1c-a5c2-52e7b616d6f8 | -14.62975 | -54.46612 | 2026-07-01 04:40:00 | NPP-375D | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 02e2d5a8-5259-34e7-bf13-8b1ba1652df8 | -18.52183 | -47.24396 | 2026-07-01 04:40:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 09639bfd-7c9f-38a9-964b-cf357e88a0ea | -17.711 | -46.79247 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| add7fbcb-174b-3b4e-8b38-44d0672d9987 | -17.70521 | -46.78334 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| e199b723-48ae-38c1-8286-93a6a3ec0a6d | -19.51051 | -52.74078 | 2026-07-01 04:40:00 | NPP-375D | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| b6763f84-ee22-3705-9d4f-18d7d8de6b92 | -17.12077 | -50.09134 | 2026-07-01 04:40:00 | NPP-375D | INDIARA | GOIÁS | Brasil | 5209952 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2b7f1816-ae36-3598-8cd2-ba3b0bc48350 | -21.49093 | -48.53917 | 2026-07-01 04:40:00 | NPP-375D | TAQUARITINGA | SÃO PAULO | Brasil | 3553708 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| 9bd562c0-8853-3188-ac28-9cc784e8bee5 | -14.629 | -54.47027 | 2026-07-01 04:40:00 | NPP-375D | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 63ad9cbc-2e1d-3178-a683-13f4573a92fa | -17.70869 | -46.78393 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 0e77494b-1888-3881-ac61-873fc36e65dc | -17.11741 | -50.09075 | 2026-07-01 04:40:00 | NPP-375D | INDIARA | GOIÁS | Brasil | 5209952 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 2a09affe-ad99-3f3e-881f-dc62698aefde | -18.52123 | -47.24794 | 2026-07-01 04:40:00 | NPP-375D | COROMANDEL | MINAS GERAIS | Brasil | 3119302 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| caf78118-99fc-3166-8317-6dc41db33385 | -16.04452 | -50.55721 | 2026-07-01 04:40:00 | NPP-375D | NOVO BRASIL | GOIÁS | Brasil | 5215207 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 1c37798a-0c36-34c3-9176-d8634f257d98 | -16.58141 | -45.87564 | 2026-07-01 04:40:00 | NPP-375D | SANTA FÉ DE MINAS | MINAS GERAIS | Brasil | 3157609 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| fb2c8877-b2b9-39f6-9c31-ec0dd94e7b43 | -22.5686 | -44.11963 | 2026-07-01 04:40:00 | NPP-375D | BARRA MANSA | RIO DE JANEIRO | Brasil | 3300407 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.5 |
+| e34703ca-256f-3f7e-8b9d-650692071a8d | -17.44309 | -47.16684 | 2026-07-01 04:40:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 601096a5-95fd-33f8-91c5-e090bdb73487 | -16.35573 | -56.66626 | 2026-07-01 04:40:00 | NPP-375D | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| 01b5936e-1d93-3ab2-b6fe-578ad86a3b64 | -19.51409 | -52.74152 | 2026-07-01 04:40:00 | NPP-375D | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| ce653176-c052-3bbe-9542-9fdd22d0d7a5 | -14.63164 | -54.46934 | 2026-07-01 04:40:00 | NPP-375D | PLANALTO DA SERRA | MATO GROSSO | Brasil | 5106455 | 51 | 33 | nan | nan | nan | Cerrado | 2.5 |
+| 8e111db4-fba6-3dbf-bb67-a37bbe2d18e7 | -17.71448 | -46.79306 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| ad7522cf-dace-3c34-a95a-3527323e7a7c | -19.66916 | -46.19765 | 2026-07-01 04:40:00 | NPP-375D | CAMPOS ALTOS | MINAS GERAIS | Brasil | 3111507 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 65b448f3-6222-30a9-a043-06bd332b7f8a | -18.12978 | -49.09586 | 2026-07-01 04:40:00 | NPP-375D | ITUMBIARA | GOIÁS | Brasil | 5211503 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 2c5f9b83-b759-38ff-9436-023c1b1649c0 | -15.60503 | -43.60096 | 2026-07-01 04:40:00 | NPP-375D | VERDELÂNDIA | MINAS GERAIS | Brasil | 3171030 | 31 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| b5815eba-25b7-3741-9961-6372d6f29314 | -17.71159 | -46.7885 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| 3c0a6692-c5e3-3861-9bf7-adf775cb7f84 | -17.7058 | -46.77935 | 2026-07-01 04:40:00 | NPP-375D | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 9c0f67c8-58aa-3b72-8301-fd018204f1a1 | -19.51332 | -52.74589 | 2026-07-01 04:40:00 | NPP-375D | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 54b68fc9-7909-3878-97b9-9ea443673dce | -15.23999 | -48.56632 | 2026-07-01 04:40:00 | NPP-375D | VILA PROPÍCIO | GOIÁS | Brasil | 5222302 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| b57db4c8-462d-33b0-b950-a9b1d348c940 | -21.09715 | -57.46915 | 2026-07-01 04:42:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 37584e68-baae-3882-af13-517c20739af2 | -21.09256 | -57.46809 | 2026-07-01 04:42:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 6f31f99e-8bf9-3bf6-995a-6ffa35c3b46c | -22.22906 | -50.86033 | 2026-07-01 04:42:00 | NPP-375D | RANCHARIA | SÃO PAULO | Brasil | 3542206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
 
 
 [Clique aqui para ver as próximas entradas](README20.md)

@@ -29,104 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 7ba80c41-3ce7-351d-a2b9-32b439523a1f | -7.35714 | -37.34355 | 2025-11-29 11:19:00 | TERRA_M-M | BREJINHO | PERNAMBUCO | Brasil | 2602506 | 26 | 33 | nan | nan | nan | Caatinga | 12.8 |
-| 8d5a9ca8-4178-3922-9eb1-3c241502ed82 | -7.26231 | -37.88189 | 2025-11-29 11:19:00 | TERRA_M-M | OLHO D'ÁGUA | PARAÍBA | Brasil | 2510402 | 25 | 33 | nan | nan | nan | Caatinga | 11.8 |
-| dddd6b55-9484-3997-89a1-4e693a661b28 | -7.25754 | -37.88894 | 2025-11-29 11:19:00 | TERRA_M-M | PIANCÓ | PARAÍBA | Brasil | 2511301 | 25 | 33 | nan | nan | nan | Caatinga | 20.9 |
-| 16bcc6d0-618c-3f0c-bc28-691f4005dadb | -7.82104 | -37.39571 | 2025-11-29 11:19:00 | TERRA_M-M | IGUARACY | PERNAMBUCO | Brasil | 2606903 | 26 | 33 | nan | nan | nan | Caatinga | 21.2 |
-| af3e39d7-71a8-32bd-96cb-c3f95d28ecd4 | -7.97425 | -37.59901 | 2025-11-29 11:19:00 | TERRA_M-M | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 8.0 |
-| d89619ff-7c03-3868-a4b4-43a55c480d36 | -7.79385 | -37.24575 | 2025-11-29 11:19:00 | TERRA_M-M | IGUARACY | PERNAMBUCO | Brasil | 2606903 | 26 | 33 | nan | nan | nan | Caatinga | 25.6 |
-| 84a9a71a-7219-333f-b3d2-05f2bea384fe | -7.55824 | -38.71556 | 2025-11-29 11:19:00 | TERRA_M-M | MAURITI | CEARÁ | Brasil | 2308104 | 23 | 33 | nan | nan | nan | Caatinga | 16.2 |
-| 74ac2534-8b66-395d-ab4a-f782c07e1662 | -20.1813 | -52.3754 | 2025-11-29 11:20:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 129.4 |
-| 750b273f-f817-3885-8e83-6295e4e13971 | -2.8666 | -45.508 | 2025-11-29 11:20:00 | GOES-19 | SANTA HELENA | MARANHÃO | Brasil | 2109809 | 21 | 33 | nan | nan | nan | Amazônia | 369.5 |
-| 15622c85-ba2c-30d8-80fc-ca70f3d6ce83 | -2.848 | -45.5086 | 2025-11-29 11:20:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 979.3 |
-| 1c0f6c97-e824-3351-ba78-e9bb59734fa0 | -2.848 | -45.5086 | 2025-11-29 11:30:00 | GOES-19 | PEDRO DO ROSÁRIO | MARANHÃO | Brasil | 2108256 | 21 | 33 | nan | nan | nan | Amazônia | 802.5 |
-| 7a3377e8-c122-3eda-9ba6-a46329c48495 | -20.1813 | -52.3754 | 2025-11-29 11:30:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 144.7 |
-| 38a917c3-54a8-3ae2-8448-12af1b0d337d | -20.1813 | -52.3754 | 2025-11-29 11:40:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 129.2 |
-| d4871803-217c-3ba2-8992-cde99b25f477 | -20.1813 | -52.3754 | 2025-11-29 11:50:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 144.5 |
-| d0255477-b4c0-331d-aeae-211fc1e070c4 | -20.1813 | -52.3754 | 2025-11-29 12:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 117.8 |
-| 57b7cb23-893d-30b0-886c-327a3fb2a20c | -20.1813 | -52.3754 | 2025-11-29 12:10:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 134.0 |
-| f00c3085-5f75-31be-9854-b22d0f9a2b94 | -20.1813 | -52.3754 | 2025-11-29 12:20:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 135.4 |
-| 4df9b69a-7805-3166-957f-bff0b108d613 | -7.975 | -37.5971 | 2025-11-29 12:30:00 | GOES-19 | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 277.6 |
-| f972df20-71e8-3a1f-a846-8891494c3288 | -20.1813 | -52.3754 | 2025-11-29 12:30:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 141.2 |
-| 2caeefa4-048f-3e71-8126-c76f039f09b9 | -7.975 | -37.5971 | 2025-11-29 12:40:00 | GOES-19 | CUSTÓDIA | PERNAMBUCO | Brasil | 2605103 | 26 | 33 | nan | nan | nan | Caatinga | 154.0 |
-| 0f00dba2-ae09-3f26-a641-86428f55603c | -20.1813 | -52.3754 | 2025-11-29 12:40:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 135.4 |
-| 7d11b6ea-0d19-3158-9dd3-597119a33cb1 | -20.1813 | -52.3754 | 2025-11-29 12:50:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 143.4 |
-| e926fcf9-b458-3bf9-a283-80256c1c5a06 | 3.3341 | -51.32109 | 2025-11-29 12:55:00 | TERRA_M-T | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 21.4 |
-| 8839ad26-df8a-3d25-8d45-0d129af0a597 | -1.33679 | -55.50447 | 2025-11-29 12:55:00 | TERRA_M-T | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 407c4cb6-f7c1-3868-8e74-aadf14f90257 | -1.81496 | -55.77602 | 2025-11-29 12:55:00 | TERRA_M-T | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 7.6 |
-| 4c65aff7-db62-3316-b345-c7fabbae67db | 3.34516 | -51.31947 | 2025-11-29 12:55:00 | TERRA_M-T | OIAPOQUE | AMAPÁ | Brasil | 1600501 | 16 | 33 | nan | nan | nan | Amazônia | 61.1 |
-| 298b8e03-10b5-3195-94ba-2bf6faf819ee | -1.41001 | -55.37872 | 2025-11-29 12:55:00 | TERRA_M-T | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 7.0 |
-| 3becec40-dff3-3d67-98be-c40b17b23f51 | -11.26785 | -53.9613 | 2025-11-29 12:57:00 | TERRA_M-T | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 17.4 |
-| 7be1cee7-2d3e-3d9d-93bc-4f1216ffe8af | -12.77839 | -54.80654 | 2025-11-29 12:57:00 | TERRA_M-T | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| 2d3df3c1-c797-3823-afaa-178e2cd9a5e6 | -11.5992 | -51.96904 | 2025-11-29 12:57:00 | TERRA_M-T | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 27.9 |
-| 122438b6-ff7b-39d4-b44a-6fed84745f60 | -11.27926 | -53.96282 | 2025-11-29 12:57:00 | TERRA_M-T | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 15.3 |
-| a6c6d108-b0dd-3c50-be7f-1a3649d9f2d4 | -13.04831 | -53.71566 | 2025-11-29 12:57:00 | TERRA_M-T | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 16.3 |
-| e1c1f289-cf39-35e6-9b77-d2c51970bf1e | -12.78736 | -54.80182 | 2025-11-29 12:57:00 | TERRA_M-T | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 32.8 |
-| a82ca8da-eaef-3d77-ae56-7d68e1dcc410 | -11.72192 | -52.4776 | 2025-11-29 12:57:00 | TERRA_M-T | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 18.3 |
-| 6095313c-841b-3958-83fe-cec4823eee08 | -13.01125 | -53.47004 | 2025-11-29 12:57:00 | TERRA_M-T | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 18.7 |
-| 48dce67e-b184-3d93-8719-852314749f72 | -11.49116 | -51.92089 | 2025-11-29 12:57:00 | TERRA_M-T | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 25.4 |
-| 36c67245-2d56-3615-ac57-f2d548243ce6 | -12.15748 | -57.02149 | 2025-11-29 12:57:00 | TERRA_M-T | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
-| b9e33d43-4a16-34f9-9073-b698a65676f5 | -11.4857 | -51.92569 | 2025-11-29 12:57:00 | TERRA_M-T | CANABRAVA DO NORTE | MATO GROSSO | Brasil | 5102694 | 51 | 33 | nan | nan | nan | Amazônia | 27.2 |
-| c530095b-db66-34cf-9742-1b20ff66738e | -11.63803 | -52.84517 | 2025-11-29 12:57:00 | TERRA_M-T | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 11.2 |
-| b3df82a7-952a-341a-aa64-6da4d004620c | -12.78012 | -54.79234 | 2025-11-29 12:57:00 | TERRA_M-T | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | 17.6 |
-| 5bd38fdf-846d-391f-913d-e9d58c8f60b8 | -19.90055 | -57.44275 | 2025-11-29 12:59:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 18.4 |
-| 61ed47c7-2f26-3e67-9731-ce4a585c7332 | -15.58039 | -60.10509 | 2025-11-29 12:59:00 | TERRA_M-T | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 6.8 |
-| f94e666d-69f7-353e-b51d-d315c70d2846 | -20.44221 | -57.91851 | 2025-11-29 12:59:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.7 |
-| 66cb30c1-ff57-39c5-92c8-5bac7994b45c | -16.23092 | -58.81931 | 2025-11-29 12:59:00 | TERRA_M-T | PORTO ESPERIDIÃO | MATO GROSSO | Brasil | 5106828 | 51 | 33 | nan | nan | nan | Pantanal | 14.3 |
-| cb3532ec-00b1-3fba-9e19-02581ab7f22f | -14.92025 | -57.28717 | 2025-11-29 12:59:00 | TERRA_M-T | NOVA OLÍMPIA | MATO GROSSO | Brasil | 5106232 | 51 | 33 | nan | nan | nan | Amazônia | 10.0 |
-| 7520381d-08b4-390d-8352-0ac66ddea82b | -14.87063 | -57.7957 | 2025-11-29 12:59:00 | TERRA_M-T | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Amazônia | 27.1 |
-| 1b93a7e4-f4ec-3ea7-8d18-d2474e9c3a8f | -15.90155 | -59.65376 | 2025-11-29 12:59:00 | TERRA_M-T | PONTES E LACERDA | MATO GROSSO | Brasil | 5106752 | 51 | 33 | nan | nan | nan | Amazônia | 6.4 |
-| ad525c3e-f985-33ce-9a33-bdd7611276cc | -13.97892 | -54.43763 | 2025-11-29 12:59:00 | TERRA_M-T | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 19.3 |
-| d12dc431-e864-3c8f-b0a5-fd352eae3c15 | -20.18033 | -52.37698 | 2025-11-29 12:59:00 | TERRA_M-T | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 93.6 |
-| 1b63c603-2257-32ed-a8ae-5762b98026d9 | -22.0514 | -56.34304 | 2025-11-29 12:59:00 | TERRA_M-T | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 23.6 |
-| c04e0589-ff42-38c4-9c5d-4256d745b9a0 | -20.42938 | -53.56713 | 2025-11-29 12:59:00 | TERRA_M-T | RIBAS DO RIO PARDO | MATO GROSSO DO SUL | Brasil | 5007109 | 50 | 33 | nan | nan | nan | Cerrado | 36.4 |
-| 89418f86-9e81-31ec-812f-4024e33f1290 | -21.63156 | -55.15975 | 2025-11-29 12:59:00 | TERRA_M-T | MARACAJU | MATO GROSSO DO SUL | Brasil | 5005400 | 50 | 33 | nan | nan | nan | Cerrado | 16.6 |
-| 70df4529-0215-319b-adf3-35b81637a3b8 | -14.87201 | -57.7856 | 2025-11-29 12:59:00 | TERRA_M-T | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| a1e2c963-69f8-3a3c-9fa5-6186d1ee6205 | -13.54358 | -59.88903 | 2025-11-29 12:59:00 | TERRA_M-T | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | 10.1 |
-| 46791a0f-78a4-3b89-812c-d23be93b61f1 | -17.20527 | -53.49346 | 2025-11-29 12:59:00 | TERRA_M-T | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 24.1 |
-| 244983d0-544c-3a8d-979d-3e35a5edde3c | -13.66559 | -59.37031 | 2025-11-29 12:59:00 | TERRA_M-T | CAMPOS DE JÚLIO | MATO GROSSO | Brasil | 5102686 | 51 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| c4e73f6c-1d53-3102-beee-722b05d40808 | -17.20294 | -53.51445 | 2025-11-29 12:59:00 | TERRA_M-T | ALTO ARAGUAIA | MATO GROSSO | Brasil | 5100300 | 51 | 33 | nan | nan | nan | Cerrado | 20.3 |
-| bec08acd-74b4-39bd-a1ef-21df26b2a30f | -23.66205 | -53.55989 | 2025-11-29 12:59:00 | TERRA_M-T | UMUARAMA | PARANÁ | Brasil | 4128104 | 41 | 33 | nan | nan | nan | Mata Atlântica | 26.6 |
-| 9e3e724a-1a7e-37d3-a525-e14834d6f37e | -20.18031 | -52.3717 | 2025-11-29 12:59:00 | TERRA_M-T | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 84.1 |
-| 063fa76c-c613-3b2a-be8e-3f2ce995b108 | -20.45203 | -57.91985 | 2025-11-29 12:59:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 16.6 |
-| e2658642-5802-3759-964c-4509315511d8 | -15.57907 | -60.11419 | 2025-11-29 12:59:00 | TERRA_M-T | VILA BELA DA SANTÍSSIMA TRINDADE | MATO GROSSO | Brasil | 5105507 | 51 | 33 | nan | nan | nan | Amazônia | 19.5 |
-| 278d4bae-d3ff-3953-b18f-b470b72b6dc2 | -20.1813 | -52.3754 | 2025-11-29 13:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 146.1 |
-| 5f5728e0-babe-3a0a-a900-9fde4cb5150d | -25.75123 | -50.77739 | 2025-11-29 13:01:00 | TERRA_M-T | RIO AZUL | PARANÁ | Brasil | 4122008 | 41 | 33 | nan | nan | nan | Mata Atlântica | 53.1 |
-| 3a7446bf-dc4c-3f99-ac5a-c2658812d894 | -20.1813 | -52.3754 | 2025-11-29 13:10:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 134.8 |
-| b7294990-23d6-3e60-9526-b9d5c4c5fb7f | -17.4954 | -57.133 | 2025-11-29 13:20:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 85.3 |
-| d4edd024-da11-3d3d-9686-8bfc163c201d | -20.1813 | -52.3754 | 2025-11-29 13:20:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 145.1 |
-| a93c5525-4157-3572-a0af-697609db6101 | -20.4076 | -57.9577 | 2025-11-29 13:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 87.4 |
-| 2645a0a2-0d3c-3bc7-aa59-985e49932199 | -20.1813 | -52.3754 | 2025-11-29 13:30:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 147.7 |
-| 84faa38c-db60-306e-84db-da05b5407bf7 | -20.4073 | -57.9786 | 2025-11-29 13:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 68.3 |
-| 8f0c41de-db65-351d-8c38-61f709ea394f | -4.966 | -41.1881 | 2025-11-29 13:30:00 | GOES-19 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 89.8 |
-| e21b6caf-2353-39c2-8e7b-fd315c6eb156 | -17.4954 | -57.133 | 2025-11-29 13:30:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 67.5 |
-| 190397a0-ee46-3cd9-b109-edb35182eca6 | -20.4279 | -57.955 | 2025-11-29 13:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 70.1 |
-| 3658be2c-f1e1-39f2-821f-ad0e6e992803 | -20.3874 | -57.9605 | 2025-11-29 13:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 64.7 |
-| fd5bb28a-3132-3da7-84e3-eae8fe283ef5 | -20.4485 | -57.9313 | 2025-11-29 13:30:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 71.9 |
-| 2ecfc58d-1139-3123-ab27-37f84305e4be | -4.9662 | -41.1639 | 2025-11-29 13:40:00 | GOES-19 | PORANGA | CEARÁ | Brasil | 2311009 | 23 | 33 | nan | nan | nan | Caatinga | 117.4 |
-| 7c168c15-bbd5-3147-985b-8841101ebf4d | -17.4954 | -57.133 | 2025-11-29 13:40:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 84.9 |
-| a55d8291-befa-3187-96d8-d7ca0c706f65 | -4.9472 | -41.1895 | 2025-11-29 13:40:00 | GOES-19 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 86.1 |
-| 19064716-56a0-3b75-ae6d-8775d8474c4f | -20.3878 | -57.9396 | 2025-11-29 13:40:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 60.2 |
-| 0e1f62fb-9eb4-3412-92e2-1c9b6d3c3f09 | -4.966 | -41.1881 | 2025-11-29 13:40:00 | GOES-19 | BURITI DOS MONTES | PIAUÍ | Brasil | 2202026 | 22 | 33 | nan | nan | nan | Caatinga | 118.1 |
-| 19824180-7106-314a-889d-b3d01550e361 | -20.1813 | -52.3754 | 2025-11-29 13:40:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 154.8 |
-| c1c80cf9-8ef1-3ca1-8d3e-bd4460b74034 | -6.5344 | -38.8736 | 2025-11-29 13:40:00 | GOES-19 | ICÓ | CEARÁ | Brasil | 2305407 | 23 | 33 | nan | nan | nan | Caatinga | 112.3 |
-| 0e8e6d9c-b12a-3568-afee-535ea6e60827 | -20.3878 | -57.9396 | 2025-11-29 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 65.4 |
-| 0d86f54f-b378-32ed-84a7-ebda4de23b0d | -20.4073 | -57.9786 | 2025-11-29 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 78.5 |
-| 7c1c2d3f-4b1b-3ca1-a9fc-625f98928250 | -20.4076 | -57.9577 | 2025-11-29 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 98.7 |
-| b91994a0-686b-3d22-b984-0d168d64521b | -20.4279 | -57.955 | 2025-11-29 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 77.4 |
-| c300d0d2-853d-35ed-a366-aefd209791f1 | -20.1813 | -52.3754 | 2025-11-29 13:50:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 134.6 |
-| 1e11ea1f-a287-3535-8aa6-0d0df9bc4f05 | -20.3874 | -57.9605 | 2025-11-29 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 74.8 |
-| ef2f4338-dc8c-36a1-a16b-f12b8718d65d | -17.4954 | -57.133 | 2025-11-29 13:50:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 81.3 |
-| 3fbbcae4-0006-3cd1-a00f-f374f518a68c | -20.408 | -57.9368 | 2025-11-29 13:50:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 79.6 |
-| 4a66e307-fe22-3823-a4e6-e3bd4ac4a64f | -20.1813 | -52.3754 | 2025-11-29 14:00:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 134.6 |
-| cbc11aab-183a-3f67-97f4-293acc9b198f | -19.8937 | -57.4441 | 2025-11-29 14:00:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 66.2 |
-| 231f994a-1180-36f1-91be-8cafc46133cc | -17.4954 | -57.133 | 2025-11-29 14:00:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 80.7 |
-| c0105759-e20b-3501-9612-4afba8370ce2 | -20.3878 | -57.9396 | 2025-11-29 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 69.9 |
-| 7e8e678d-30bb-30da-89ca-1c10b5fc8754 | -20.4283 | -57.9341 | 2025-11-29 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 92.0 |
-| 69681a06-a2e7-32dc-8010-d871155ae731 | -20.408 | -57.9368 | 2025-11-29 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 85.4 |
-| fbfc1cb4-786c-37ac-9a99-332265d33496 | -20.4489 | -57.9104 | 2025-11-29 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 81.3 |
-| 9071e94c-f346-39e3-9c39-7b0c836c5767 | -20.1813 | -52.3754 | 2025-11-29 14:10:00 | GOES-19 | TRÊS LAGOAS | MATO GROSSO DO SUL | Brasil | 5008305 | 50 | 33 | nan | nan | nan | Cerrado | 144.3 |
-| f9fed8a4-e2c5-321e-a1e3-3644a4f3dcc3 | -20.4485 | -57.9313 | 2025-11-29 14:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 115.7 |
-| ca8183e2-5f77-3bb6-bbf4-bbc0c754b3db | -17.4954 | -57.133 | 2025-11-29 14:10:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 108.3 |
+| 7a13f19c-ea58-3707-9e62-35533ccf3272 | -12.7557 | -44.4959 | 2026-07-01 07:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 73.8 |
+| aa834cc9-c696-3f2e-9b13-ba8df38ddcb0 | -12.8359 | -44.3422 | 2026-07-01 07:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 226.7 |
+| bcc3459c-9fe4-3836-8e6e-a4f6e3988593 | -12.8552 | -44.3389 | 2026-07-01 07:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 111.4 |
+| e600490d-38d5-3e34-a71c-955746c72148 | -12.8359 | -44.3422 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 172.5 |
+| 3a05d49e-6536-3b6e-aa90-101b3b137223 | -12.7557 | -44.4959 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| 8a2d5581-96bb-3d1e-aae7-a025c1ae6486 | -12.7755 | -44.4693 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 85.1 |
+| ef7e3d8e-3eaa-3bbe-95de-472e268d35d5 | -12.8354 | -44.3657 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 92.3 |
+| e597e50c-dc23-3fc5-85ce-6777f83f2ff4 | -12.8552 | -44.3389 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 108.8 |
+| 5e82c33c-2684-3592-9c11-53542e69159c | -12.8548 | -44.3625 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| 2b55ddc9-f5c0-37b9-901a-4d1e8bbec05b | -12.7562 | -44.4724 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 53.6 |
+| 36f99364-da15-3b49-a2c3-bd42d9a04bce | -12.7751 | -44.4927 | 2026-07-01 07:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 147.5 |
+| f72d3773-2c8e-391b-bc2a-3b0371c1aee8 | -12.8552 | -44.3389 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 89.8 |
+| 08444626-f24e-3a91-a026-b80e7f47cc5c | -12.7562 | -44.4724 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 44.9 |
+| ddc5f0c9-2f4f-37b0-9ffb-848f2b06cc29 | -12.8354 | -44.3657 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 106.6 |
+| eb44164a-5a94-3e0c-9bda-91adb3b266dd | -10.9209 | -43.0384 | 2026-07-01 07:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 55.5 |
+| 076ed281-23d9-3814-815f-f0feca488f8c | -10.6784 | -54.5356 | 2026-07-01 07:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 49.7 |
+| 1380bd7f-d55e-37f2-bd03-9e4cb5491d40 | -12.8359 | -44.3422 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 220.2 |
+| 6fc660b7-f21d-38d3-adb3-5ad3028e15f4 | -12.8548 | -44.3625 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 44.9 |
+| ac53eadd-0922-323a-9929-2fca9dda7bd8 | -12.7557 | -44.4959 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 68.8 |
+| 04b5b064-000d-3cab-9158-d52e4848b40e | -12.7755 | -44.4693 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 85.2 |
+| 4f6339d0-9cbd-3531-8082-d2dea002302f | -10.6787 | -54.5153 | 2026-07-01 07:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 44.1 |
+| 0130428b-12d2-3d69-a115-37db26bd4c79 | -12.7751 | -44.4927 | 2026-07-01 07:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 130.5 |
+| 07bf80fa-1907-364c-84cd-3acee9cd4cf4 | -11.63384 | -59.0132 | 2026-07-01 07:29:00 | AQUA_M-M | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 24.5 |
+| efd9949a-2e8e-30f6-b4bb-11ddbcdf1628 | -9.17448 | -58.06401 | 2026-07-01 07:29:00 | AQUA_M-M | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| 8f31c15e-269e-3345-9467-f809392f495f | -9.60327 | -56.91873 | 2026-07-01 07:29:00 | AQUA_M-M | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | 17.3 |
+| 56433aea-499e-3a8d-bb04-727b1bb267cc | -12.4123 | -58.402 | 2026-07-01 07:29:00 | AQUA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| a6a31ae8-b3fd-3c61-9a6e-314c4cb8dce9 | -11.63071 | -59.007 | 2026-07-01 07:29:00 | AQUA_M-M | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 12.9 |
+| 76ce2b5f-1663-3ed7-948a-78d8227ef85f | -9.02507 | -59.53312 | 2026-07-01 07:29:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 10.1 |
+| 1cfe3cbc-73e4-3e2f-ac7f-b2a5cf53bff2 | -10.6686 | -54.53061 | 2026-07-01 07:29:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 66.6 |
+| 105009ff-d034-3a3b-8a80-a462b8b871ea | -10.66094 | -54.52241 | 2026-07-01 07:29:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 18.2 |
+| 527fb59d-acb7-3eea-bc08-2ce2a4d71d8e | -11.42849 | -56.05909 | 2026-07-01 07:29:00 | AQUA_M-M | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 75.5 |
+| e00e8c46-0cd2-35ee-abc4-31769ff0f214 | -10.6714 | -54.50791 | 2026-07-01 07:29:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 46.7 |
+| c6c8e1ed-2e12-3ce1-bda4-edda7086f3ae | -11.63235 | -59.02403 | 2026-07-01 07:29:00 | AQUA_M-M | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 6.4 |
+| 72e12706-0b95-3502-aa04-d6f17e790e33 | -11.62914 | -59.01791 | 2026-07-01 07:29:00 | AQUA_M-M | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 25.6 |
+| 462c917d-f3b3-3245-89b7-3293205375d2 | -10.6744 | -54.52414 | 2026-07-01 07:29:00 | AQUA_M-M | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 78.8 |
+| 2459fd66-2475-3184-9b4b-0933116af219 | -12.42415 | -58.3913 | 2026-07-01 07:29:00 | AQUA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| aad3384b-412e-3468-9e1a-8acbe4f3fb80 | -12.41398 | -58.38977 | 2026-07-01 07:29:00 | AQUA_M-M | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 16.9 |
+| 0345906c-3531-3c97-b34c-e0ec4f31d0cd | -12.8548 | -44.3625 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 64.6 |
+| 54780c5d-b549-3caa-889e-053f9201b562 | -12.8354 | -44.3657 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 88.0 |
+| 3a2ed05d-a9af-3772-9879-95a93653e2c8 | -12.7557 | -44.4959 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 79.3 |
+| a88ca807-1a7a-3170-88b4-650ca4438ed7 | -12.8552 | -44.3389 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 121.1 |
+| 95091cdc-2f68-388e-ab93-40b7f39c00a5 | -12.8359 | -44.3422 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 175.3 |
+| ca0c1e24-13ec-3673-af2c-78446ae45fa0 | -12.7755 | -44.4693 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| acdd1987-6d1d-3330-9a42-de487024ca28 | -12.7751 | -44.4927 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 109.1 |
+| eda30e11-15ca-3b23-a778-9d2182697be8 | -12.7562 | -44.4724 | 2026-07-01 07:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 51.0 |
+| 55cbbdd1-929a-3af2-bd3b-6e3bb29bb04d | -16.3587 | -56.65061 | 2026-07-01 07:31:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 28.3 |
+| 3effa002-4023-3642-9463-b4d0856b1059 | -16.36155 | -56.65609 | 2026-07-01 07:31:00 | AQUA_M-M | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 34.0 |
+| b1b03a5b-726f-3cc0-a4da-06385d9ecd60 | -12.7557 | -44.4959 | 2026-07-01 07:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 81.5 |
+| 283bb009-3d3c-36db-a98b-e70dd224f79c | -12.8359 | -44.3422 | 2026-07-01 07:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 212.3 |
+| 0445fda7-ea92-3d0a-93e6-1f14a89e3408 | -12.8552 | -44.3389 | 2026-07-01 07:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 83.8 |
+| d002fc1d-0a41-3ae7-844f-c84c7df40003 | -12.7751 | -44.4927 | 2026-07-01 07:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 134.3 |
+| 5f4c45a5-2ce4-3b80-b96e-bd93487dce46 | -12.8354 | -44.3657 | 2026-07-01 07:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 94.7 |
+| a5674c5e-8430-3391-8757-e3646fecca9f | -12.7755 | -44.4693 | 2026-07-01 07:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.1 |
+| 00f0eb19-d523-3a84-b9c3-9cb541a6dc0d | -10.6784 | -54.5356 | 2026-07-01 07:40:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 45.7 |
+| 0b76c07a-7466-3cc6-a1b7-c509ae33889a | -12.8552 | -44.3389 | 2026-07-01 07:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 77.8 |
+| 4e0152e1-2433-3c29-87af-9b217947ba15 | -12.7751 | -44.4927 | 2026-07-01 07:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 152.5 |
+| 863a9c16-a54a-3180-ab22-02727fd23dda | -12.7557 | -44.4959 | 2026-07-01 07:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 54.6 |
+| ec015371-8397-36d7-9637-f2245c164f05 | -12.7755 | -44.4693 | 2026-07-01 07:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 66.1 |
+| f1acd41e-d7c4-33bf-95db-04a86c18bc02 | -12.8354 | -44.3657 | 2026-07-01 07:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 91.2 |
+| e5e4d0f7-df08-3d75-9291-e456ca6532c1 | -12.8359 | -44.3422 | 2026-07-01 07:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 220.0 |
+| f94afbdd-6c30-358a-9904-1697253513f0 | -12.7755 | -44.4693 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 51.1 |
+| e48b709b-6980-3c87-b662-99fb2373163f | -12.8552 | -44.3389 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 103.9 |
+| 94ef204d-028b-334f-9974-391c0fbdeccb | -12.8359 | -44.3422 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 171.8 |
+| d5134a26-b0eb-31e9-9007-1d84d914d1e1 | -12.7557 | -44.4959 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 60.5 |
+| e16fdfb9-961e-37d2-a1bb-01e39a320c0a | -12.8354 | -44.3657 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| ebf64108-36f0-3dc7-b484-27b0b1b51d4b | -12.8548 | -44.3625 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 47.7 |
+| 43f446f0-2022-3329-be2f-6b693a8d293f | -12.7751 | -44.4927 | 2026-07-01 08:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 128.0 |
+| 558d861d-1978-3368-b577-dac60912d004 | -12.7751 | -44.4927 | 2026-07-01 08:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 133.6 |
+| d5505d40-2d4a-3726-8c6b-4f361309a09f | -12.8552 | -44.3389 | 2026-07-01 08:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 62.1 |
+| c7cf22ba-a0eb-3a93-add6-d83d31f8d349 | -12.8354 | -44.3657 | 2026-07-01 08:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 100.3 |
+| c893b6a2-fa52-3dda-84db-921c962fdb22 | -12.7755 | -44.4693 | 2026-07-01 08:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 62.4 |
+| 09ec4fb8-c2e1-383d-940f-8c686353fbab | -12.8359 | -44.3422 | 2026-07-01 08:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 176.2 |
+| e8a8a0e0-2361-320a-9e6b-12100ecee5af | -12.7557 | -44.4959 | 2026-07-01 08:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 55.4 |
+| 78964b69-89b9-3a76-9989-43af9ea08c29 | -12.8359 | -44.3422 | 2026-07-01 08:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 177.3 |
+| 3eb17a7e-f5d0-3d74-a8b6-381aa924b640 | -12.7755 | -44.4693 | 2026-07-01 08:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 66.9 |
+| 70c26de4-5b31-32e3-b52f-3e4c2f7ed14f | -12.8552 | -44.3389 | 2026-07-01 08:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 61.8 |
+| 970ce996-45a2-3b5e-bf81-b77b3a1c3eb0 | -12.8354 | -44.3657 | 2026-07-01 08:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 104.2 |
+| 11ff399c-866b-3ce9-8157-7ac252e577b4 | -12.7751 | -44.4927 | 2026-07-01 08:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 122.1 |
+| 817a42df-6acc-3098-97b9-9ada06656ae5 | -12.7755 | -44.4693 | 2026-07-01 08:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 53.1 |
+| 95a9e42f-817c-30f2-83c5-ff6ecba49bec | -12.7751 | -44.4927 | 2026-07-01 08:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 124.4 |
+| 192e1222-b54c-37cd-8a00-3f6216fe5f7e | -12.8359 | -44.3422 | 2026-07-01 08:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 185.6 |
+| 785d3c50-6800-3918-ae38-93ad875db50a | -12.8354 | -44.3657 | 2026-07-01 08:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 80.6 |
+| 58013498-0287-37ee-b0fb-d939442d3bb7 | -12.8552 | -44.3389 | 2026-07-01 08:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 68.3 |
+| 113d153c-dffb-302c-9392-0d7ac6627e3f | -12.7751 | -44.4927 | 2026-07-01 08:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 112.5 |
+| 067b6b15-300a-3cdb-a553-50d1f8ea9a52 | -12.8359 | -44.3422 | 2026-07-01 08:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 172.9 |
+| 5627ec9b-0e7c-3e53-88f9-1b307de9e3d8 | -12.7557 | -44.4959 | 2026-07-01 08:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 55.9 |
+| 1fcd188b-5f79-3741-b332-ba9960ae1f70 | -12.8354 | -44.3657 | 2026-07-01 08:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 72.6 |
+| 55cb64f0-df3a-3c69-84c6-b4b9e38178f7 | -12.7755 | -44.4693 | 2026-07-01 08:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 47.2 |
+| eddefb89-26d7-3259-9610-ec3088c4d30b | -12.8552 | -44.3389 | 2026-07-01 08:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 57.7 |
+| 0369d48d-ff8e-3f9e-bd82-503fdd753a21 | -12.8359 | -44.3422 | 2026-07-01 09:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 128.1 |
+| 7df861f2-f8a2-3dff-9a00-f1cac93581e1 | -12.8359 | -44.3422 | 2026-07-01 09:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 138.1 |
+| 6653c568-e774-37d5-99ef-005c5e55edeb | -12.8359 | -44.3422 | 2026-07-01 09:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| 396877ff-de3a-3814-abda-d0b649dedb51 | -12.8359 | -44.3422 | 2026-07-01 10:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 136.6 |
+| b132c159-51de-347b-a3bd-ed353554141a | -12.8359 | -44.3422 | 2026-07-01 10:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 125.7 |
+| 32520fb7-8dbc-3996-80c9-631aa45aeb0d | -12.8359 | -44.3422 | 2026-07-01 10:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 112.1 |
+| 3ac7a736-28d4-3c1c-8ac0-ce6b00f971c3 | -12.8359 | -44.3422 | 2026-07-01 10:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 113.1 |
+| 340555f7-e789-3e55-aea0-c30eb8461c00 | -12.8359 | -44.3422 | 2026-07-01 10:40:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 104.6 |
+| 8ef93b16-c399-3315-b9d8-1f8c050cdc97 | -12.8359 | -44.3422 | 2026-07-01 10:50:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 113.4 |
+| a2092f64-1ccd-302a-8612-a5036ba0442f | -12.8359 | -44.3422 | 2026-07-01 11:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 121.4 |
+| 825a9a98-a975-3025-ba84-51cf5bc67448 | -9.0175 | -45.7397 | 2026-07-01 11:10:00 | GOES-19 | SANTA FILOMENA | PIAUÍ | Brasil | 2209203 | 22 | 33 | nan | nan | nan | Cerrado | 85.8 |
 
 
+[Clique aqui para ver as próximas entradas](README32.md)
