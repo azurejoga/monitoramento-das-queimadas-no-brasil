@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| c06f07cb-6c1c-3dbf-ab3a-861ef6e5c79f | -9.605 | -56.928902 | 2026-07-01 01:11:00 | METOP-B | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| a7cb652f-ead9-31b9-b6a3-5742e335df11 | -21.0951 | -57.4655 | 2026-07-01 01:11:00 | METOP-B | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | nan |
-| bdf4653a-ec20-3324-ac1e-9f113828f3fe | -9.0201 | -59.534199 | 2026-07-01 01:11:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 635fef1c-d2ae-38c2-8bdb-154976bbe4ff | -12.4079 | -58.372398 | 2026-07-01 01:11:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 61bbd137-78cd-3705-a16f-37e9a8540016 | -11.4132 | -56.069 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b1af84da-6695-3873-94f6-835897a8aad2 | -10.6669 | -54.519299 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4cf64d57-a564-361c-ab6f-25a585393a3d | -9.6014 | -56.914501 | 2026-07-01 01:11:00 | METOP-B | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b49a2b1c-a27a-3913-a597-543a2fa847a9 | -12.4203 | -58.380501 | 2026-07-01 01:11:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 991fa96c-d57f-316a-b47a-80529178685c | -9.0299 | -59.531799 | 2026-07-01 01:11:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4a2e80dd-3a51-3f9f-a970-8f9c12629183 | -11.9033 | -57.369099 | 2026-07-01 01:11:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9b34de85-eb79-30f9-b47a-0f38d8aea03c | -12.413 | -58.3936 | 2026-07-01 01:11:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| f9234a54-2729-35dd-9582-bad774718689 | -10.7627 | -53.540298 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b7a181ed-5eda-3141-a1ff-9852fa8c6416 | -9.6949 | -56.0891 | 2026-07-01 01:11:00 | METOP-B | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 8da6757a-d5fc-3df1-93da-a9effb373924 | -11.4093 | -56.0536 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| b47a9b3e-f8ed-3a08-a594-d98c61def45f | -11.6201 | -59.004398 | 2026-07-01 01:11:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 0e0623ff-c3e3-34ce-bc56-519f3f6e1c9b | -12.7978 | -54.856701 | 2026-07-01 01:11:00 | METOP-B | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 67791d2c-1ee3-3ef3-84eb-4dbe57c1ff6e | -11.0449 | -56.9077 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 4ab8fcc3-a369-3013-9b8f-5cb23c6d9b47 | -11.6323 | -59.011902 | 2026-07-01 01:11:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| d907024c-c3fb-3404-8ad9-3dec2f788291 | -10.6817 | -54.5368 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f31d9459-929a-32dc-b10b-8db14faf8c23 | -9.0177 | -59.5242 | 2026-07-01 01:11:00 | METOP-B | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 51176a46-1b0e-30ac-8ca3-52b7c5cc2b0e | -12.4105 | -58.382999 | 2026-07-01 01:11:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 5db3aed8-a44b-3427-aad8-11077c7908a2 | -10.6721 | -54.539398 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 034d73bb-b7cd-3e1c-80a1-507df8f47ef5 | -9.1726 | -58.067799 | 2026-07-01 01:11:00 | METOP-B | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c1df7b12-5057-3037-902c-60d0be495049 | -9.5917 | -56.916901 | 2026-07-01 01:11:00 | METOP-B | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 015c0d0f-8c09-32ef-8101-03fd91de5597 | -11.415 | -56.035599 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 0a3efc75-206d-3a22-bed3-1eab754614c3 | -11.6346 | -59.021801 | 2026-07-01 01:11:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 83671d0d-b8f0-3409-b6f0-0430ffc40917 | -11.8401 | -56.948002 | 2026-07-01 01:11:00 | METOP-B | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f9aba17d-b56a-33e3-8803-542dfdad0a9f | -10.6573 | -54.521801 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 58ab77fd-4b2d-33eb-b1e4-049fadc890ba | -16.362301 | -56.651699 | 2026-07-01 01:11:00 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 297da9f4-4433-3fbb-8954-e2a71ea75492 | -10.6765 | -54.516701 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 2840d3d0-a5a2-3fd9-8db1-5d47ad7fa793 | -10.7565 | -53.5168 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7b525691-a062-385f-9627-0119db797843 | -11.4229 | -56.066502 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 680b830a-4a3d-34dd-a678-32cc17c2764d | -12.2154 | -56.547001 | 2026-07-01 01:11:00 | METOP-B | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| bea9a282-cd16-3f5d-b311-a07eaa38eafa | -16.3496 | -56.642399 | 2026-07-01 01:11:00 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| b001e872-330a-3c18-a1f0-fe52863fe88d | -10.1238 | -52.0961 | 2026-07-01 01:11:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| fd804239-131c-372e-8307-9b997e04dc1f | -9.1696 | -58.0555 | 2026-07-01 01:11:00 | METOP-B | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 1ac3f2b0-bcd6-389a-be2b-745a54c7ec05 | -11.4326 | -56.063999 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 575decda-9082-343d-86db-66e0b0a09b2c | -11.4364 | -56.079399 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| dd24b435-7d07-3972-91fb-667dcdbbee31 | -16.3556 | -56.666199 | 2026-07-01 01:11:00 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 801979d6-9295-3095-8512-abe5638d4b47 | -12.4228 | -58.391102 | 2026-07-01 01:11:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 5a5dc7fd-0f1c-3057-a3b8-60a9697f5c46 | -11.4267 | -56.081902 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 7977c111-e6ee-3566-b7de-cb6b8f71f486 | -11.419 | -56.051102 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 18c82c48-ca30-3533-9abf-e2bbc1507cd5 | -11.9064 | -57.3815 | 2026-07-01 01:11:00 | METOP-B | NOVA MARINGÁ | MATO GROSSO | Brasil | 5108907 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| f2a1ad96-9825-3499-8f59-97f9e6baf48a | -12.2189 | -56.560902 | 2026-07-01 01:11:00 | METOP-B | ITANHANGÁ | MATO GROSSO | Brasil | 5104542 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ccb0e72b-2192-309d-a222-6e2af468ab6c | -12.4177 | -58.3699 | 2026-07-01 01:11:00 | METOP-B | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 2b8d2c97-b251-3448-bfa9-1a7f32e00d2d | -11.4247 | -56.033001 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 98694c1c-b341-379f-b2ab-6d277e2630ea | -16.359301 | -56.639801 | 2026-07-01 01:11:00 | METOP-B | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | nan |
-| 8feaab35-3d29-36c6-bdd1-45ec90acf637 | -10.8451 | -56.644402 | 2026-07-01 01:11:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 52e74055-ed90-366e-97d4-cce707f4975a | -10.0835 | -60.491699 | 2026-07-01 01:11:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 85268114-e924-35fb-9b36-b6b4cf35ff98 | -10.1142 | -52.098701 | 2026-07-01 01:11:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5ac0029f-2320-318a-b127-11dcfc80c693 | -11.6299 | -59.001999 | 2026-07-01 01:11:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 8d801f4e-b216-3e01-94cd-57ac9fb6f785 | -10.7723 | -53.537701 | 2026-07-01 01:11:00 | METOP-B | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9060aec8-8c39-35b7-a71c-615167f520c9 | -11.4147 | -56.0726 | 2026-07-01 01:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 204.0 |
-| e8e26a43-6f9a-352f-83fd-8577530d49a7 | -11.5528 | -47.4546 | 2026-07-01 01:20:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 132.3 |
-| 0498a010-b4fa-37ba-8b68-e2379685e244 | -16.368 | -56.6514 | 2026-07-01 01:20:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 64.3 |
-| e9859472-f035-38fc-84bb-285d192f43e9 | -11.4338 | -56.0509 | 2026-07-01 01:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 616.1 |
-| 926b37cc-2444-3e76-a722-62cd5680f450 | -11.4336 | -56.0711 | 2026-07-01 01:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 690.6 |
-| 24a7627c-da65-370c-ae39-0950c3e7f079 | -8.5933 | -48.0069 | 2026-07-01 01:20:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 142.9 |
-| fbad2800-2f3b-3d36-8d8d-f3bb668e38d9 | -11.4334 | -56.0912 | 2026-07-01 01:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| baa9fc6f-aaed-36ea-aba6-2edf4fef7396 | -12.4096 | -58.3865 | 2026-07-01 01:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 89.4 |
-| ff7fb98e-eeaf-3239-9b31-6b6cd3536438 | -11.5337 | -47.4571 | 2026-07-01 01:20:00 | GOES-19 | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 62.3 |
-| 4c0c5260-aa22-3f7b-8591-6b5508710e4a | -12.4094 | -58.4063 | 2026-07-01 01:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 60.3 |
-| 2e15d19e-f644-389d-881c-6186e2a54f57 | -8.1254 | -47.8749 | 2026-07-01 01:20:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 79.5 |
-| 0e4c85b7-16d1-39a2-a74b-e6e3bb195107 | -16.3677 | -56.672 | 2026-07-01 01:20:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 56.2 |
-| 3e30f7c8-e8eb-3564-b93f-2f5288d9fdb8 | -11.4149 | -56.0525 | 2026-07-01 01:20:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 188.1 |
-| 4714236b-ae44-301b-97bc-278a37b66fbc | -12.4285 | -58.385 | 2026-07-01 01:20:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 59.6 |
-| cb4fbf53-5485-3448-b53a-55276ca58d25 | -8.6121 | -48.0051 | 2026-07-01 01:20:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 82.9 |
-| 41fff5f8-de07-30eb-b3cd-ead6faca2f55 | -10.6784 | -54.5356 | 2026-07-01 01:20:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 78.4 |
-| 2f4783ae-a426-3654-90b8-8c2524bf0a7d | -5.8058 | -43.7975 | 2026-07-01 01:20:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 65.9 |
-| 79e04829-f12e-3cf7-81ca-61cfe7e5d314 | -11.6286 | -59.0169 | 2026-07-01 01:20:00 | GOES-19 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 64.8 |
-| 6aa7cbee-b560-3f7b-aa6d-d7348286d0fd | -10.1237 | -52.0905 | 2026-07-01 01:20:00 | GOES-19 | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 63.6 |
-| 941aa509-9f0e-3de3-866b-80cca4271543 | -3.5043 | -48.039 | 2026-07-01 01:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 48.6 |
-| 97404b0e-cd68-3f79-b758-f6e6166ec5c3 | -10.9205 | -43.0622 | 2026-07-01 01:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 63.8 |
-| 5ba6fe99-ccaa-3e8e-9f7e-77cd12684687 | -12.4094 | -58.4063 | 2026-07-01 01:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 47.1 |
-| 25202c1e-2ed2-30ed-bc76-0bdf837fc5b9 | -10.6784 | -54.5356 | 2026-07-01 01:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 114.5 |
-| a46747d7-2b89-3895-9fd5-5b7e6b78b7bc | -12.7755 | -44.4693 | 2026-07-01 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 500.9 |
-| 17e4ee94-b843-339d-835e-0a2ed1087874 | -11.4338 | -56.0509 | 2026-07-01 01:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 484.5 |
-| 98801de0-96c8-3887-9cae-6de95eaa5241 | -17.7114 | -46.8031 | 2026-07-01 01:30:00 | GOES-19 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 48.8 |
-| 862942fb-35dc-3776-882b-c99714f03fac | -12.4096 | -58.3865 | 2026-07-01 01:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 64.9 |
-| 82f45950-e9ca-36c6-9d32-5fce1c258f53 | -16.368 | -56.6514 | 2026-07-01 01:30:00 | GOES-19 | POCONÉ | MATO GROSSO | Brasil | 5106505 | 51 | 33 | nan | nan | nan | Pantanal | 60.5 |
-| ae6755fc-2000-3fdc-acdf-5148cb88ce93 | -9.6037 | -56.9276 | 2026-07-01 01:30:00 | GOES-19 | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | 48.0 |
-| 3c0eaa8b-a8fe-3f3d-b89d-bfba252bb370 | -11.4147 | -56.0726 | 2026-07-01 01:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 232.7 |
-| b98e2e22-600b-30cc-87ae-d10ca26a0028 | -3.5043 | -48.039 | 2026-07-01 01:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 47.9 |
-| ff90e094-22c8-341c-986c-3e99afa4856b | -11.4336 | -56.0711 | 2026-07-01 01:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 747.9 |
-| 07a40e4d-355c-36c9-90f7-1ba6809cad37 | -8.6121 | -48.0051 | 2026-07-01 01:30:00 | GOES-19 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 87.2 |
-| 77e8e639-6d9a-35be-aaef-5be93edc5120 | -10.9205 | -43.0622 | 2026-07-01 01:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 58.6 |
-| bb058915-073c-3d0a-b411-1e0b53a12321 | -8.5933 | -48.0069 | 2026-07-01 01:30:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 116.7 |
-| 7d563aff-a78e-3864-b1ff-aaf1541577a1 | -11.5528 | -47.4546 | 2026-07-01 01:30:00 | GOES-19 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 129.4 |
-| 9f9cbe54-5f16-3315-a266-8e2fced0024b | -12.7751 | -44.4927 | 2026-07-01 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1272.4 |
-| 457614f2-6240-3588-abd4-80dd4b1ad13b | -12.7746 | -44.5162 | 2026-07-01 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 95.0 |
-| 95cfdc47-9dcb-371a-9e75-4278d64134c1 | -11.4525 | -56.0695 | 2026-07-01 01:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 46.9 |
-| 61638359-90b1-3157-9077-20c0fed721f3 | -11.6286 | -59.0169 | 2026-07-01 01:30:00 | GOES-19 | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 56.7 |
-| 8b112f17-2fad-3f1a-9031-8244c06c36bc | -10.1237 | -52.0905 | 2026-07-01 01:30:00 | GOES-19 | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 49.5 |
-| 6c2d88bb-5026-3dca-baf5-e28cce3f0d5c | -11.4149 | -56.0525 | 2026-07-01 01:30:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 164.2 |
-| fbf9fca8-f693-3b70-8ea8-a06178128875 | -12.7562 | -44.4724 | 2026-07-01 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 191.4 |
-| 1eb972e5-45c1-39be-ad70-358836f0b87c | -10.7654 | -53.5451 | 2026-07-01 01:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 40.2 |
-| d4b72416-8db5-3633-91d1-ddcc1ca0d9f8 | -5.8058 | -43.7975 | 2026-07-01 01:30:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 57.0 |
-| 5df2ab91-6ac5-3da5-bae4-6bcdc1ed7668 | -10.6787 | -54.5153 | 2026-07-01 01:30:00 | GOES-19 | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 43.9 |
-| c3da4963-ddc6-3bbc-b8ea-bc7a36c2b57e | -12.7557 | -44.4959 | 2026-07-01 01:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 459.5 |
-| 4369d3d1-136f-32e1-bc71-8098af1763f0 | -12.4285 | -58.385 | 2026-07-01 01:30:00 | GOES-19 | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 56.7 |
+| 52dced8c-ce1f-359b-bafe-073b0c597a2d | -10.123 | -52.074799 | 2026-07-02 00:50:00 | METOP-B | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c63aad2a-826c-3547-a460-7df098852ced | -12.5025 | -48.254101 | 2026-07-02 00:50:00 | METOP-B | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9eced92b-b248-396c-a77a-b411ceb6dc0b | -19.5014 | -52.7118 | 2026-07-02 00:50:00 | METOP-B | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| df5b91e7-fe22-32f9-9a6e-c4cdb31a7c1a | -10.8213 | -58.0033 | 2026-07-02 00:50:00 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 1071ed19-1912-3124-b482-9abe77ebb4b1 | -19.503599 | -52.720901 | 2026-07-02 00:50:00 | METOP-B | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 2d73f990-d287-3fb7-b3f3-f1967cd6e689 | -11.4141 | -56.0406 | 2026-07-02 00:50:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3f2ce6b6-9907-34fe-99ca-3ddf60812fd5 | -13.6548 | -60.608799 | 2026-07-02 00:50:00 | METOP-B | COMODORO | MATO GROSSO | Brasil | 5103304 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5e2940a7-adb8-3103-96d3-01f452117a63 | -11.6337 | -59.010101 | 2026-07-02 00:50:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| 39a7f2b4-891e-30cb-bfc9-f404ae1e0101 | -11.3626 | -55.421799 | 2026-07-02 00:50:00 | METOP-B | CLÁUDIA | MATO GROSSO | Brasil | 5103056 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| c8173e08-3222-3d97-b62d-92c939bd838c | -11.8087 | -56.991798 | 2026-07-02 00:50:00 | METOP-B | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 4830d761-0a2d-359a-88a9-2baa6fd3c1b0 | -11.4293 | -56.061501 | 2026-07-02 00:50:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 037ea16b-911c-30de-bfd4-6a4777673e14 | -10.8229 | -58.0103 | 2026-07-02 00:50:00 | METOP-B | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 58c5b3eb-520b-3928-a705-2f63fa13fc2f | -3.5084 | -48.019001 | 2026-07-02 00:50:00 | METOP-B | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1ac72fe2-84f7-35dc-a210-53ac1ebb5082 | -11.4195 | -56.063801 | 2026-07-02 00:50:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5ec353cd-883b-39f8-9a31-42bd234f7a5f | -3.9905 | -48.037102 | 2026-07-02 00:50:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 99f26fbf-32ce-36b9-9271-2e0306298f9c | -11.4275 | -56.053799 | 2026-07-02 00:50:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 57cd503b-61ae-3d47-9b6b-eff713ae0380 | -8.7162 | -48.339401 | 2026-07-02 00:50:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 06723aed-3eab-3ca5-b2b5-387311d6bcc3 | -8.6506 | -49.690102 | 2026-07-02 00:50:00 | METOP-B | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 109ca42c-eb92-3512-b605-1bed1d790a70 | -21.7838 | -56.287498 | 2026-07-02 00:50:00 | METOP-B | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 9c3adab8-fc3b-3a85-bcd3-611f909587d8 | -9.1998 | -58.037102 | 2026-07-02 00:50:00 | METOP-B | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| dea4267d-3f39-3acc-a61e-dd36c82e8ba3 | -21.8016 | -52.709499 | 2026-07-02 00:50:00 | METOP-B | BATAGUASSU | MATO GROSSO DO SUL | Brasil | 5001904 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 83eb30e5-20be-375c-bbf2-004da037f2b0 | -11.6321 | -59.003101 | 2026-07-02 00:50:00 | METOP-B | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | nan |
+| b7d74dd4-d5bc-340d-bf9d-3edbb1f574bd | -11.4239 | -56.0383 | 2026-07-02 00:50:00 | METOP-B | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a64e6ecb-594a-3845-93e4-04556f6e50f3 | -21.7708 | -56.275101 | 2026-07-02 00:50:00 | METOP-B | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 802fe945-eb71-3fc3-b7bf-f98454713053 | -11.8103 | -56.999001 | 2026-07-02 00:50:00 | METOP-B | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 86b37ebd-fd4f-35f8-9bbf-8494a8fcd18e | -8.7 | -48.316601 | 2026-07-02 00:50:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 561e3117-1c4f-347a-9f9b-6af9bc0c554a | -21.7724 | -56.282501 | 2026-07-02 00:50:00 | METOP-B | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 7c68c72a-af60-377f-8018-d2e5fbf07266 | -21.7617 | -56.301 | 2026-07-02 01:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 81.9 |
+| 93490130-82b4-386c-b56b-945a9dfc1ae0 | -4.0046 | -48.0618 | 2026-07-02 01:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
+| aaf4a231-b9cb-3804-81fe-17d9b1ce5fc1 | -21.7827 | -56.2762 | 2026-07-02 01:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 106.1 |
+| d45d05af-0d53-37f4-bd60-110f29c14f4b | -21.7622 | -56.2795 | 2026-07-02 01:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 86.7 |
+| 21198dd9-7c64-3593-a668-5db1f02f0b2e | -21.7823 | -56.2976 | 2026-07-02 01:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| cc3a127d-3a9c-3abc-bba4-2e220477eeb5 | -9.1933 | -45.3114 | 2026-07-02 01:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 59.4 |
+| 5b596544-974b-3667-bd58-5654cc52f577 | -9.2123 | -45.3092 | 2026-07-02 01:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 73.3 |
+| 4f60e098-65c5-31f5-bb42-376aa3878237 | -11.8007 | -57.0032 | 2026-07-02 01:00:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 96.4 |
+| fdcc0a74-05ba-3ecd-9f26-a66c8dfa39f5 | -3.5228 | -48.0383 | 2026-07-02 01:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 70.2 |
+| dc88a3dd-5146-3253-bb71-c11a3115e6a6 | -11.4147 | -56.0726 | 2026-07-02 01:00:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 55.3 |
+| accc83f4-f391-384f-9e10-8ba1876a3388 | -11.4149 | -56.0525 | 2026-07-02 01:00:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 57.3 |
+| 6136cf2a-0fc1-3e15-9d6d-6e8159966905 | -8.7208 | -48.3441 | 2026-07-02 01:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| 4ff3345c-ad8c-306a-810c-487c1d91c920 | -12.5135 | -48.2802 | 2026-07-02 01:00:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 64.4 |
+| f69cb138-e385-3aac-badd-42dc3b324970 | -10.9397 | -43.0593 | 2026-07-02 01:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 144.1 |
+| 84144095-e2a8-3611-b8ff-fc5d55c014fe | -10.9593 | -43.0326 | 2026-07-02 01:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 91.9 |
+| 04a31651-2da4-327f-bb3d-1191e25b92ce | -9.212 | -45.3321 | 2026-07-02 01:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 53.9 |
+| f47f1232-071b-3b5c-8b81-32d94fa31f1b | -10.9588 | -43.0565 | 2026-07-02 01:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 111.8 |
+| eede6eaa-8916-39a3-bade-f5aef980626a | -10.9401 | -43.0355 | 2026-07-02 01:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 133.1 |
+| 6aef4ecb-8832-3807-b86d-98b25141e3b7 | -21.7823 | -56.2976 | 2026-07-02 01:10:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| 668eed9d-1f0f-318a-8a98-cbe0f623b913 | -9.1933 | -45.3114 | 2026-07-02 01:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 51.8 |
+| 78589d1e-763c-3d6b-b204-605e60ef57e1 | -11.4149 | -56.0525 | 2026-07-02 01:10:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 53.8 |
+| 33bbb8e1-def6-3011-a900-7282d2203259 | -11.4147 | -56.0726 | 2026-07-02 01:10:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 48.7 |
+| 176a9bfe-1e81-3d43-bd77-b9d29c617cc4 | -11.8007 | -57.0032 | 2026-07-02 01:10:00 | GOES-19 | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 87.3 |
+| aa4ea0d5-fa0f-3956-a208-1238e304a863 | -10.9397 | -43.0593 | 2026-07-02 01:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 116.8 |
+| 38191bff-7f0a-3cad-9887-7437901dc807 | -12.5135 | -48.2802 | 2026-07-02 01:10:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 70.2 |
+| bc1cbfcf-8a42-34c6-89c2-0edf96bdb3fa | -21.7622 | -56.2795 | 2026-07-02 01:10:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 79.7 |
+| acef06e8-0ff0-3b50-a7d8-3d78a529c935 | -10.9401 | -43.0355 | 2026-07-02 01:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 129.7 |
+| 2dc294df-fc04-3da9-93c8-7323f8616254 | -4.0046 | -48.0618 | 2026-07-02 01:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 59.8 |
+| 9cebfb9b-8d57-31c1-a075-6c12dbd08f19 | -9.2123 | -45.3092 | 2026-07-02 01:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 60.8 |
+| 1fa4f3f0-d3a9-3ed5-9270-08378f24e1e6 | -11.4338 | -56.0509 | 2026-07-02 01:10:00 | GOES-19 | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 48.7 |
+| f02ec2bc-ad00-3277-9b57-6a5619ec90c7 | -9.212 | -45.3321 | 2026-07-02 01:10:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 51.8 |
+| dcdae42f-3c9d-3cc1-af04-c7975c464db8 | -3.5228 | -48.0383 | 2026-07-02 01:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 77.8 |
+| a9cc8edc-9fe0-339d-8873-25e88dc42d16 | -21.7617 | -56.301 | 2026-07-02 01:10:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 80.7 |
+| 666583ee-958e-39a9-b77e-816b2f962134 | -10.9588 | -43.0565 | 2026-07-02 01:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 119.6 |
+| e613ed87-b5f9-3bfb-b7bb-55ddb765baec | -21.7827 | -56.2762 | 2026-07-02 01:10:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 8b69eb7f-0c44-34ec-b9c9-934a4ac678bf | -10.9593 | -43.0326 | 2026-07-02 01:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| b7a6bbe5-a6cd-3d8c-88bc-cf931436d2cf | -8.7208 | -48.3441 | 2026-07-02 01:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 58.8 |
+| 6e13eb82-a500-3d97-b5cf-3e9281551d1c | -11.42 | -56.060501 | 2026-07-02 01:17:00 | METOP-C | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a5cdf18f-daa4-3bee-8ad6-65cf651c2c63 | -12.5194 | -48.281601 | 2026-07-02 01:17:00 | METOP-C | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0cd48662-27f8-3382-82b6-80ea99a4b9b8 | -10.8219 | -58.018799 | 2026-07-02 01:17:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 6e0fe353-4621-374d-822b-07b92e5d241c | -11.8103 | -57.007599 | 2026-07-02 01:17:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 5c7653ec-d2a7-3c89-a1a6-72f61779d9d3 | -11.4184 | -56.053501 | 2026-07-02 01:17:00 | METOP-C | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| b876a639-8700-3ba9-ad8c-a065bab62401 | -11.6116 | -60.412201 | 2026-07-02 01:17:00 | METOP-C | VILHENA | RONDÔNIA | Brasil | 1100304 | 11 | 33 | nan | nan | nan | Amazônia | nan |
+| 2e510e96-14da-3144-a468-59a1aaa1c937 | -11.7989 | -57.002899 | 2026-07-02 01:17:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 7024399a-4440-3495-86e1-68d55a13964f | -12.8396 | -44.341202 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 95fc5973-c7f6-373a-8973-2246c5f1e649 | -12.7506 | -44.501999 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| e4f272f5-0b60-3489-b5dc-3f7d46366e64 | -9.0294 | -59.535099 | 2026-07-02 01:17:00 | METOP-C | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| a97e8c73-2b4a-3f60-99e1-4699ebc5c2b2 | -3.5125 | -48.049301 | 2026-07-02 01:17:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 2e04f2c0-3621-35b7-a8cc-b0e5ca81c8fe | -21.771601 | -56.299702 | 2026-07-02 01:17:00 | METOP-C | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 48e5a32c-0d20-351a-bc2c-d375b2a37319 | -12.8484 | -44.372601 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 43b04e9f-f584-33f0-ace4-b7258d142bb0 | -21.779699 | -56.2897 | 2026-07-02 01:17:00 | METOP-C | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 2fd392be-47f2-38df-a2f9-36ce76ce5d62 | -19.509899 | -52.733002 | 2026-07-02 01:17:00 | METOP-C | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| db5441ad-d82d-3114-aef7-6d05759b2a1c | -12.742 | -44.4711 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| f66de42b-2129-3f08-81e5-b05652ffac87 | -20.493401 | -50.528999 | 2026-07-02 01:17:00 | METOP-C | PONTALINDA | SÃO PAULO | Brasil | 3540259 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 939fb1a9-89dd-38f5-a878-6fa186c880ba | -10.8203 | -58.011799 | 2026-07-02 01:17:00 | METOP-C | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 87dd4eb0-9512-3f22-8886-8303af4ae460 | -12.5149 | -48.264198 | 2026-07-02 01:17:00 | METOP-C | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fcda6c79-8f5c-3571-8a7f-9472b8c69e81 | -19.508101 | -52.725101 | 2026-07-02 01:17:00 | METOP-C | PARAÍSO DAS ÁGUAS | MATO GROSSO DO SUL | Brasil | 5006275 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 4b534756-f26f-3c83-b7a0-72e6ba954f2d | -3.5159 | -48.0215 | 2026-07-02 01:17:00 | METOP-C | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 61130332-5c6e-3340-adc2-eb6828247e27 | -9.6055 | -56.919701 | 2026-07-02 01:17:00 | METOP-C | PARANAÍTA | MATO GROSSO | Brasil | 5106299 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| f164ece0-1f03-3c2e-b959-d878ee530d2a | -9.2009 | -58.044399 | 2026-07-02 01:17:00 | METOP-C | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 3d75d201-f4a4-31d2-8700-c12e5842c579 | -9.2153 | -45.327999 | 2026-07-02 01:17:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 8b8ed1fc-e65c-32fc-82d3-fe56026f7ba2 | -12.761 | -44.465599 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d3929f25-0fc2-3697-879c-8f238592e678 | -12.8674 | -44.3671 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| dc53670b-1d99-373b-bc07-ea7321678d50 | -9.2058 | -45.330601 | 2026-07-02 01:17:00 | METOP-C | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 44944163-fe3f-3017-978e-236f01f7af1e | -12.7792 | -44.493801 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 5c260031-e000-3197-9452-d20202d29600 | -20.4911 | -50.519299 | 2026-07-02 01:17:00 | METOP-C | PONTALINDA | SÃO PAULO | Brasil | 3540259 | 35 | 33 | nan | nan | nan | Mata Atlântica | nan |
+| 2cd6b99e-bd71-30e6-a868-e100af509293 | -4.0057 | -48.063202 | 2026-07-02 01:17:00 | METOP-C | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 0078460b-d253-3cef-86ca-2ed5449bccf9 | -12.7601 | -44.499298 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 79fe9a1e-f0ac-3fdd-909c-36d03a3e9971 | -11.433 | -56.072399 | 2026-07-02 01:17:00 | METOP-C | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 9c870caf-ad94-3c8b-84a4-a5bf9df70736 | -12.7515 | -44.468399 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 00b661d9-7ef1-384a-aa2f-aaee20a22ef9 | -21.778099 | -56.281898 | 2026-07-02 01:17:00 | METOP-C | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| d2d3c19f-9e1b-3a47-99d8-bda2dd48ec30 | -11.8005 | -57.009899 | 2026-07-02 01:17:00 | METOP-C | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | nan |
+| 69698a42-36a0-3b9d-b0f8-d6ea143a389b | -12.8579 | -44.3699 | 2026-07-02 01:17:00 | METOP-C | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | nan |
 
 
 [Clique aqui para ver as próximas entradas](README5.md)
