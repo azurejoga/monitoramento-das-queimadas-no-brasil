@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 0b3e22bc-447a-3691-b1dc-854d1862ea2a | -4.3402 | -47.7645 | 2026-07-06 00:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 97.0 |
-| b3e0a995-ec08-3c76-a03d-b99c1e45b505 | -8.6727 | -54.6492 | 2026-07-06 00:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 55.0 |
-| e903aa24-5f84-37ef-8e82-a1deaf8c2207 | -8.6725 | -54.6695 | 2026-07-06 00:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 88.0 |
-| 958396f9-ba72-34cb-9669-ea47b5ac6632 | -4.3588 | -47.7636 | 2026-07-06 00:00:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 91.7 |
-| 908b44b8-d0a3-357f-877a-826fc097007c | -21.0705 | -47.2568 | 2026-07-06 00:00:00 | GOES-19 | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 70.1 |
-| 251052da-11c7-314f-a131-02a0526868b9 | -4.3402 | -47.7645 | 2026-07-06 00:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 92.5 |
-| a889f9e4-e9d5-348b-8d7c-62be190f903a | -8.6725 | -54.6695 | 2026-07-06 00:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 128.8 |
-| 1b14ec3e-3f66-308a-ad9e-b744e6686fb5 | -8.7294 | -54.5645 | 2026-07-06 00:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 52.0 |
-| 674d0260-49bd-3812-ab34-d48fe27d5c86 | -8.6538 | -54.6707 | 2026-07-06 00:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 44.7 |
-| bc98b496-b1a9-3114-b5cf-59de66359905 | -4.3588 | -47.7636 | 2026-07-06 00:10:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 79.0 |
-| 4e979972-e7d5-3fa7-b378-ee158ccbfab8 | -8.6727 | -54.6492 | 2026-07-06 00:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 79.2 |
-| 1c72f9b5-8e0b-3cce-9327-1eae3d4a95e9 | -4.3402 | -47.7645 | 2026-07-06 00:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 80.4 |
-| eaf9e5cc-e63b-371f-916c-40b2413001fe | -8.7294 | -54.5645 | 2026-07-06 00:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 42.7 |
-| f6da71c4-532c-3591-a73e-1a1b733afea4 | -8.6725 | -54.6695 | 2026-07-06 00:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 184.6 |
-| 4769ea8f-e791-3a33-8304-5fbfb26c313f | -8.6538 | -54.6707 | 2026-07-06 00:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 81.9 |
-| c097acd1-991f-3f4e-93fd-447f25912087 | -21.0705 | -47.2568 | 2026-07-06 00:20:00 | GOES-19 | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 61.7 |
-| fc3ae4fb-567d-3ce3-ac44-76bad22612f0 | -4.3588 | -47.7636 | 2026-07-06 00:20:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 89.6 |
-| 8c3fcef3-5242-3507-b002-0152e7ae5dd2 | -8.6727 | -54.6492 | 2026-07-06 00:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 137.1 |
-| bafc468c-a361-3429-b678-f4f0562971dc | -8.654 | -54.6505 | 2026-07-06 00:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 64.6 |
-| eb0b1738-739d-3cf6-9300-c858c3851209 | -8.654 | -54.6505 | 2026-07-06 00:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 44.1 |
-| 09c8e351-600e-38a4-8f84-8687cff5366c | -4.3588 | -47.7636 | 2026-07-06 00:30:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 78.4 |
-| 5aea81c5-05a6-359a-8fba-c58b42ded9ab | -8.6725 | -54.6695 | 2026-07-06 00:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 132.4 |
-| 352ca285-3289-3206-9c17-f682c972567f | -8.7294 | -54.5645 | 2026-07-06 00:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 47.5 |
-| de19ecca-b38d-392f-aa17-abae2b1abb4f | -6.0925 | -47.291 | 2026-07-06 00:30:00 | GOES-19 | CAMPESTRE DO MARANHÃO | MARANHÃO | Brasil | 2102556 | 21 | 33 | nan | nan | nan | Cerrado | 87.7 |
-| e65f582c-9765-3801-a45f-cb838e330410 | -8.6538 | -54.6707 | 2026-07-06 00:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 63.4 |
-| a56215da-ed12-3050-b9bf-3817536c55a3 | -8.6727 | -54.6492 | 2026-07-06 00:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 86.9 |
-| 2b2ea946-ab6e-30a4-8eca-eaa0e17432f3 | -15.0959 | -49.4458 | 2026-07-06 00:30:00 | GOES-19 | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | 72.6 |
-| c06f8a07-5436-3984-ad82-10cb8e0ccd8b | -15.0764 | -49.4488 | 2026-07-06 00:30:00 | GOES-19 | NOVA GLÓRIA | GOIÁS | Brasil | 5214861 | 52 | 33 | nan | nan | nan | Cerrado | 78.4 |
-| 3dea4fb8-33e9-3227-8af8-e94fa88d06e7 | -8.6725 | -54.6695 | 2026-07-06 00:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 111.6 |
-| bf08785d-e280-3bf1-ac3f-621c8c7906ec | -4.3588 | -47.7636 | 2026-07-06 00:40:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 74.3 |
-| 9eabef94-e8d0-3712-abc4-4fa661fc2b90 | -8.6727 | -54.6492 | 2026-07-06 00:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 84.9 |
-| a12f7ac9-6229-32d5-b82c-cc1431f8b834 | -8.7294 | -54.5645 | 2026-07-06 00:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 44.4 |
-| 00b58c27-b4e8-350c-ab9a-24e1e9accff9 | -8.6725 | -54.6695 | 2026-07-06 00:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 107.9 |
-| c5707b9b-ac4d-3b17-8544-dc727724801d | -4.3402 | -47.7645 | 2026-07-06 00:50:00 | GOES-19 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 75.0 |
-| 0e20e76b-9a74-30b0-964a-3858be354b51 | -8.6727 | -54.6492 | 2026-07-06 00:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 86.3 |
-| b6027246-cc1c-3dab-aa02-a64b4bb0e1a4 | -13.25011 | -54.31129 | 2026-07-06 00:58:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 19.1 |
-| 577d6406-919f-333d-a4ad-a36410815536 | -13.30356 | -54.38938 | 2026-07-06 00:58:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 28.6 |
-| 17856688-8f10-38bd-9792-28c489b8eb52 | -13.30012 | -54.36858 | 2026-07-06 00:58:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 30.0 |
-| 5bd1fc17-a489-323c-b238-aa4627ec074d | -13.26915 | -54.26342 | 2026-07-06 00:58:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 53.5 |
-| 64ebc9c3-5ce5-3e73-ba4d-48072bf62446 | -8.6538 | -54.6707 | 2026-07-06 01:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 61.9 |
-| fc026262-fe4f-3b30-ac40-e9b51162be35 | -8.7294 | -54.5645 | 2026-07-06 01:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 46.8 |
-| 258cfea2-588f-3dbf-a596-6f08941ad010 | -8.6725 | -54.6695 | 2026-07-06 01:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 116.4 |
-| b5aa59cb-9b16-3c1f-9fc6-1a687f90e445 | -8.6727 | -54.6492 | 2026-07-06 01:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 67.5 |
-| 754eeb31-39b2-3721-b74e-fe737342fa37 | -8.73466 | -54.54965 | 2026-07-06 01:00:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 24.7 |
-| 5dc44aad-21d0-3c07-b574-3aff41121e47 | -8.73859 | -54.57439 | 2026-07-06 01:00:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 35.2 |
-| 505540f3-303e-3f5b-bac1-e0e3ac58b18c | -8.67569 | -54.66545 | 2026-07-06 01:00:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 103.4 |
-| 2a9c47ce-5166-36a9-b9b9-56d61bffff3f | -8.66655 | -54.66132 | 2026-07-06 01:00:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 291.6 |
-| 957fea3d-0e48-3e63-bec7-a030953c5656 | -8.67058 | -54.68566 | 2026-07-06 01:00:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 57.7 |
-| c2bff719-f01c-30cc-8c90-ff84fc662e5f | -8.66174 | -54.6677 | 2026-07-06 01:00:00 | TERRA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 171.0 |
-| 8fa9dd64-7de9-33df-9df7-5adfb919c866 | -10.39196 | -56.77769 | 2026-07-06 01:00:00 | TERRA_M-M | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 14.5 |
-| f8c15cdb-44af-3122-9991-616b60e40c62 | -10.39178 | -56.76833 | 2026-07-06 01:00:00 | TERRA_M-M | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 14.3 |
-| f58e74bc-328f-3d35-9d0e-03172a62cf25 | -6.21814 | -57.77301 | 2026-07-06 01:02:00 | TERRA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 9.6 |
-| 579d52ca-eac5-3a88-8b18-9934cdc3a20c | -8.6535 | -54.631901 | 2026-07-06 01:05:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 987c8fe4-764e-3bc5-9da1-1732bbfcbf3d | -9.9312 | -59.924 | 2026-07-06 01:05:00 | METOP-B | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9881f1a1-f1bf-380d-8927-7aaca98c09e3 | -13.2581 | -54.241901 | 2026-07-06 01:05:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ae7faeb5-260e-32b0-9619-bdc1246f44a8 | -13.2926 | -54.375702 | 2026-07-06 01:05:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ace5c4f2-161e-3dc7-8a1f-737868d01464 | -8.6583 | -54.650799 | 2026-07-06 01:05:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e6dc82ae-902c-32fd-8f43-36ec39ab0cd5 | -13.2678 | -54.2393 | 2026-07-06 01:05:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| cb8987a0-5283-3396-9138-4101fc1e0f86 | -10.3912 | -56.7663 | 2026-07-06 01:05:00 | METOP-B | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5c477057-7bb3-34f1-bacf-7e01cb3a57ad | -13.298 | -54.356499 | 2026-07-06 01:05:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| c1c4bad7-da8a-3331-a571-8b1cd6baf047 | -8.6727 | -54.667198 | 2026-07-06 01:05:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| ed52ba7b-aabb-3458-b65d-741a751223d3 | -13.2883 | -54.3591 | 2026-07-06 01:05:00 | METOP-B | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| ed523adb-6578-368b-9d66-a859abe790e2 | -8.663 | -54.669601 | 2026-07-06 01:05:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 1756605b-c365-3d88-bc2f-327d716dd9b1 | -8.7262 | -54.552502 | 2026-07-06 01:05:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e52cde26-b2db-3cbe-bc04-7332f9821cb2 | -8.668 | -54.6483 | 2026-07-06 01:05:00 | METOP-B | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c210271f-d2e1-3588-be0f-ba91eaa352b7 | -8.6725 | -54.6695 | 2026-07-06 01:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 126.1 |
-| c3c3cf1f-f43d-308e-ad5d-1467d21ed1e5 | -8.6727 | -54.6492 | 2026-07-06 01:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 91.5 |
-| 166a7c88-6cb3-3105-9dd1-6a4ce66a0c8e | -8.7294 | -54.5645 | 2026-07-06 01:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 46.8 |
-| dd5289ae-18ec-3f50-b59c-79b2e3eeb1f1 | -8.6725 | -54.6695 | 2026-07-06 01:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 110.3 |
-| 33911f33-ab0a-3973-88d1-d98dded012d2 | -10.9205 | -43.0622 | 2026-07-06 01:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 64.9 |
-| 1f5e0756-e99c-3dfc-b1f8-a0f0aac5e36a | -8.6727 | -54.6492 | 2026-07-06 01:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 84.1 |
-| 8b0ac3f5-ca6b-3cc4-99cb-80c7760e19b0 | -8.7294 | -54.5645 | 2026-07-06 01:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 50.9 |
-| 3b4f8e5a-f415-3cc6-8288-3688fc9daea0 | -10.9205 | -43.0622 | 2026-07-06 01:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| 311bcaf5-3e19-3cdf-bb87-0a9552bc0f3c | -8.6725 | -54.6695 | 2026-07-06 01:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 114.0 |
-| cca9bcc8-1135-39ea-861e-3bd0237883a3 | -8.6727 | -54.6492 | 2026-07-06 01:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 80.5 |
-| 7f7270ca-3e1a-3752-99ff-c7d2110f1570 | -8.6538 | -54.6707 | 2026-07-06 01:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 47.2 |
-| 863484ca-4946-3e6e-9950-00cc1a27798a | -8.6672 | -54.648399 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 96b53cd9-a33d-312d-9a51-6f6303505008 | -8.6746 | -54.677799 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 9b19c7db-8c9f-3385-9b5f-cbe9699dd73b | -8.6709 | -54.663101 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 3f65b3f9-9d06-32c0-8af1-6bf08d4195eb | -10.3977 | -56.773998 | 2026-07-06 01:34:00 | METOP-C | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 9540309d-b58b-3f01-a833-607eccc6fddd | -13.2527 | -54.316399 | 2026-07-06 01:34:00 | METOP-C | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | nan |
-| 5fc2c32c-7a10-3f6d-8787-519c1a1fe6a4 | -8.7398 | -54.567299 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 09150cd3-6351-3441-9723-89248749c839 | -8.6806 | -54.660702 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| c5657fbd-c25c-3d89-97e7-e64523993bbe | -8.6612 | -54.665501 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 07cdcf87-05f0-3b3e-9b29-6b1158cdb657 | -8.7361 | -54.552399 | 2026-07-06 01:34:00 | METOP-C | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 35438aca-8cb8-3817-a7ec-13d9615d4813 | -8.7294 | -54.5645 | 2026-07-06 01:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 69.2 |
-| 1b22a339-f488-386a-90c0-8bde59aeaf6a | -8.6727 | -54.6492 | 2026-07-06 01:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 76.8 |
-| 0c8f8b4b-c324-328d-8b07-047ebe1311eb | -8.654 | -54.6505 | 2026-07-06 01:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 47.2 |
-| bb1b1741-342a-37c2-8086-1a6a073d3917 | -8.6538 | -54.6707 | 2026-07-06 01:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 77.3 |
-| 0108d7e5-f240-3a90-a2da-b6a59c74d3f7 | -8.6725 | -54.6695 | 2026-07-06 01:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 127.8 |
-| 8d89a7d2-b477-38af-9474-c5ad71e31b22 | -8.6725 | -54.6695 | 2026-07-06 01:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 86.4 |
-| b0a4518d-fa7e-3d4e-9829-ec2ae4be2b73 | -8.7294 | -54.5645 | 2026-07-06 01:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 83.3 |
-| 81d6a1fd-2712-3c05-9c7e-f772bddfff8d | -8.6727 | -54.6492 | 2026-07-06 01:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 61.7 |
-| 7bb5cea3-dcc6-304c-a672-6a02c8937894 | -10.9205 | -43.0622 | 2026-07-06 01:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.0 |
-| 8a297403-8a3f-3926-8c90-adad84489959 | -8.6727 | -54.6492 | 2026-07-06 02:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 45.8 |
-| 3e4cbca4-a33b-3c29-bef1-7c507fd90931 | -8.6725 | -54.6695 | 2026-07-06 02:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 56.6 |
-| b7844e01-1183-3cbb-adf4-653a05befcf6 | -8.6727 | -54.6492 | 2026-07-06 02:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 107.7 |
-| 88c6218a-e847-3924-93ea-040836875672 | -10.9205 | -43.0622 | 2026-07-06 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 63.7 |
-| 4e22354e-8d6c-3697-9fb6-1e2ff86b204e | -8.6725 | -54.6695 | 2026-07-06 02:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 145.4 |
-| d785ba12-cfd5-3e46-b676-beb37bd0bb90 | -8.6538 | -54.6707 | 2026-07-06 02:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 49.1 |
+| cc43aa2e-f385-3a82-a3f0-10b95376142d | -11.6785 | -44.5712 | 2026-07-07 00:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 75.7 |
+| ba0bc838-41ee-32e9-a9a2-d9750cca11e4 | -13.7624 | -52.729 | 2026-07-07 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 70.3 |
+| c32101cb-d253-383b-90e1-e2f331b7c696 | -12.7548 | -44.5428 | 2026-07-07 00:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| 7e000dae-2dcd-3872-b0a9-879284e23390 | -4.2811 | -48.3518 | 2026-07-07 00:00:00 | GOES-19 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 68.1 |
+| d44dc3e8-f7a1-3de8-beb6-14c20fc6d3b9 | -13.7817 | -52.7266 | 2026-07-07 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 133.1 |
+| cf4cb40d-00d0-3b7b-8238-3f2ac688ff67 | -13.2607 | -54.2456 | 2026-07-07 00:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 49.5 |
+| c8396ea6-f920-35d0-934e-abea76dc3262 | -6.9135 | -43.7281 | 2026-07-07 00:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 56.7 |
+| 6888e9e9-50d8-3f34-8a98-32917d892eee | -9.1933 | -45.3114 | 2026-07-07 00:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 49.5 |
+| a727878f-0986-3814-bc2e-dc9fc9a50262 | -11.6592 | -44.5741 | 2026-07-07 00:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 87.1 |
+| 35596d4a-d5c8-302b-abc2-e4307d409941 | -13.261 | -54.2249 | 2026-07-07 00:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 149.5 |
+| 3778e0cc-dc1d-34db-8c2b-cd7096227069 | -13.7813 | -52.7477 | 2026-07-07 00:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 49.5 |
+| 19f585cf-998d-3b6a-92e6-7bea332791b9 | -5.8058 | -43.7975 | 2026-07-07 00:00:00 | GOES-19 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 62.7 |
+| e4e77227-0b0c-3921-b370-a9bd07008e26 | -6.9138 | -43.7049 | 2026-07-07 00:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 208.1 |
+| 4deaf763-9f7f-307f-a870-8a67d4a8c31f | -11.6789 | -44.5479 | 2026-07-07 00:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 90.7 |
+| 60463dd1-23fc-3fb2-904b-234af46d0c4d | -11.6597 | -44.5508 | 2026-07-07 00:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 107.5 |
+| 1443bc33-37cb-30db-8805-29dd7d5b1456 | -13.2418 | -54.2269 | 2026-07-07 00:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 54.5 |
+| 25f10147-3bdb-3044-91f6-9d8f78fccb8c | -6.895 | -43.7066 | 2026-07-07 00:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 97.7 |
+| 7af967bf-b133-3b7c-a60b-4c4ad21e14cb | -6.9326 | -43.7032 | 2026-07-07 00:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 148.6 |
+| 458c76ec-e0e4-33d9-8162-37db4c5ed6dd | -10.1913 | -46.47849 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| 4f9a9eee-eec8-33c3-b684-746cfa1dbbcd | -13.53345 | -52.91111 | 2026-07-07 00:01:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 26.0 |
+| 6cdb6ee5-e103-3c98-b8b3-0c8ca5026d78 | -13.78811 | -52.74496 | 2026-07-07 00:01:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 86.3 |
+| 5f519a20-6f49-3f22-9ed7-e81a039c5c07 | -13.29076 | -54.35212 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 35.8 |
+| 60be4eda-a70c-3e65-9f3f-035c28cea5d5 | -11.66637 | -44.54866 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 16.4 |
+| 17ccdc14-c08e-3ecb-8b86-2350f6c1c2b7 | -13.25901 | -54.22976 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 113.5 |
+| 208ac217-fd2b-3162-9111-356a31cb9702 | -12.75605 | -44.56446 | 2026-07-07 00:01:00 | TERRA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 22.6 |
+| 15451419-b2ad-3bb5-9b07-d04d4f980a55 | -11.76555 | -47.3436 | 2026-07-07 00:01:00 | TERRA_M-M | ALMAS | TOCANTINS | Brasil | 1700400 | 17 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 44826976-c726-34f8-a68a-c82002711b24 | -11.67869 | -44.56749 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 15.7 |
+| bfba30d1-df2f-3abc-9564-bf25fb9ce291 | -13.32258 | -54.37554 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 37.4 |
+| 99188976-d101-384d-89b8-3bee5aec7bfe | -11.39276 | -46.57242 | 2026-07-07 00:01:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| 7c7ccb3e-e0a8-3096-ba4f-0d1f3905b75d | -12.35618 | -47.42723 | 2026-07-07 00:01:00 | TERRA_M-M | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 16.6 |
+| 1f7644cf-af9d-3201-8f17-16e7a911b104 | -10.40735 | -46.83707 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| d61ec077-829c-3d0b-8f19-a2b5199d39b1 | -12.3651 | -47.42597 | 2026-07-07 00:01:00 | TERRA_M-M | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 37.6 |
+| dc6838c8-0f93-36e6-858b-e03a5169b7b6 | -11.40904 | -46.62487 | 2026-07-07 00:01:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| e6930b31-a69a-3dc8-8979-3a801705f4cf | -13.53465 | -52.91738 | 2026-07-07 00:01:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 36.3 |
+| e6b055c1-9a72-38d6-9f08-65720e51cc13 | -10.53807 | -44.12933 | 2026-07-07 00:01:00 | TERRA_M-M | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 18.5 |
+| ec56262b-36b7-34ff-9e8e-9ac34cc20f1b | -13.26201 | -54.25581 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 26.7 |
+| 2fda4c1d-3de8-3530-9314-8a4d9de6c4be | -13.7856 | -52.71941 | 2026-07-07 00:01:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 168.1 |
+| 00ea75d1-4a90-3c71-b667-00ff05d5008d | -11.68657 | -44.55593 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 55.8 |
+| 34011c97-7ef9-3263-8d0a-f9a380aeca58 | -13.07955 | -48.16746 | 2026-07-07 00:01:00 | TERRA_M-M | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| b644c38e-fbef-3211-bce7-15631bef1de2 | -13.22766 | -54.30698 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 21.0 |
+| f2e7a4b3-b7e5-3973-966a-0ca90f36604d | -11.69753 | -44.13389 | 2026-07-07 00:01:00 | TERRA_M-M | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 652f78ae-c442-3455-9960-264d5a7d0c4b | -11.85076 | -48.25634 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| f849230f-04a1-3812-851e-020799f2e199 | -10.93461 | -43.06952 | 2026-07-07 00:01:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 89.1 |
+| c92ba4e2-2a93-3c1b-b4fc-8255d952bc77 | -12.50573 | -48.27005 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 6.1 |
+| 48dd82bd-3b16-3298-9d88-00d8e7a269c1 | -11.84036 | -48.24802 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| c8612242-b8ab-3144-8301-5897ab011c63 | -12.76384 | -44.5531 | 2026-07-07 00:01:00 | TERRA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 43.1 |
+| 8c0a5bb9-072c-3313-8940-32e3de8a1ab0 | -10.43243 | -46.88811 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 6.0 |
+| cea6a10b-3c95-3401-ace2-21e2afe62685 | -11.99238 | -45.14032 | 2026-07-07 00:01:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 22.9 |
+| 4fb11b71-06ec-3450-b605-f14cb2a97ed6 | -10.19004 | -46.4695 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 13.5 |
+| 791aa920-9401-3935-b271-6873f521a627 | -13.23633 | -54.28515 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 21.7 |
+| 6ecb344c-f0b4-330e-a510-31fae3380f5e | -11.84164 | -48.25758 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 11.7 |
+| f15738eb-079c-3c64-b7d7-4c4a86f3358a | -13.26516 | -54.24995 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 296f1895-7dec-390a-93fe-dca4d804d922 | -12.36386 | -47.4168 | 2026-07-07 00:01:00 | TERRA_M-M | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 5.7 |
+| a0574982-a793-32e3-b468-22f9cb497d94 | -12.68211 | -48.21346 | 2026-07-07 00:01:00 | TERRA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 4a8d922e-e2a3-39d6-8079-fc96c243f2d8 | -10.92424 | -43.07119 | 2026-07-07 00:01:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| c6f8fcb9-5610-3184-8be4-fcb745d87995 | -11.67721 | -44.55737 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 53.5 |
+| f960a2c7-912a-3ed4-a791-c7e3a32c380c | -10.76551 | -46.63295 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 3dcc0f38-e622-3810-8b26-343c6839a4af | -11.65064 | -44.5718 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| 992476b9-e501-3d4b-a235-8dfb4ae44a8e | -11.63105 | -46.36326 | 2026-07-07 00:01:00 | TERRA_M-M | NOVO JARDIM | TOCANTINS | Brasil | 1715259 | 17 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| 340f4860-60f4-38c4-9e92-378833d6858d | -13.77533 | -52.74654 | 2026-07-07 00:01:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 89.2 |
+| e4519b5c-5145-3e46-a322-c6d338140766 | -10.93272 | -43.05688 | 2026-07-07 00:01:00 | TERRA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 41.8 |
+| a26f388c-7163-3a5a-bff5-a3abe145fe1f | -13.08874 | -48.16619 | 2026-07-07 00:01:00 | TERRA_M-M | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| 517c6feb-f4cc-3ab0-be93-f0e6870cd9c5 | -12.50444 | -48.26032 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| f5943f7b-bd39-3e54-b9db-59d3423ec228 | -11.65999 | -44.57037 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 46.6 |
+| 2a7ed39a-b212-3ecc-a167-2b785fc5d37d | -13.78778 | -52.73947 | 2026-07-07 00:01:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 162.0 |
+| 270b9f5f-df88-33a4-be08-8766b47d04fc | -13.54635 | -52.9095 | 2026-07-07 00:01:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 13.9 |
+| 73e8b2a0-5d82-3286-a13b-d6cd464d1368 | -13.54755 | -52.91577 | 2026-07-07 00:01:00 | TERRA_M-M | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 725579ce-10cf-334e-a9d7-25ac5670d003 | -11.68804 | -44.56606 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 3746987d-dca7-3982-8c48-2643ba7b2a4f | -10.39851 | -46.83835 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 225c8775-2be3-3416-a654-387157f3cd14 | -13.08084 | -48.17732 | 2026-07-07 00:01:00 | TERRA_M-M | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 0d4a4e10-11d5-320d-b840-33f5ded7b4c9 | -11.6585 | -44.56023 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 63.2 |
+| a3c2f989-033b-3323-95af-08a452f6ad0d | -12.75459 | -44.55453 | 2026-07-07 00:01:00 | TERRA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 122.8 |
+| b47b364c-c7dd-323b-80eb-d2e0bef7d08a | -12.34185 | -48.22023 | 2026-07-07 00:01:00 | TERRA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| d4f04235-4a97-3ab9-b2b2-7ff44a043896 | -11.64914 | -44.56167 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 12.3 |
+| 4d40dd47-c7d1-37b8-95f7-dfc94e3bf55f | -10.41619 | -46.8358 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
+| 61853ff4-e240-377f-8de9-f6532648c4be | -11.67082 | -44.57906 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 15.3 |
+| 91eef4dd-186e-3120-a7e5-06e52df0adb8 | -10.82792 | -49.37563 | 2026-07-07 00:01:00 | TERRA_M-M | SANTA RITA DO TOCANTINS | TOCANTINS | Brasil | 1718899 | 17 | 33 | nan | nan | nan | Cerrado | 8.7 |
+| 2df36d0b-844f-38c3-8637-7a559ef64670 | -13.52098 | -43.99495 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| da16059b-16d5-3a34-8d88-eaf6201fcbc3 | -10.19256 | -46.48748 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO FÉLIX DO TOCANTINS | TOCANTINS | Brasil | 1720150 | 17 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| 61258a62-c3c4-3e27-a6d1-2bb263dc573c | -10.40859 | -46.84601 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| 5a59a0b1-f194-3045-9fb1-8c99ba211dc1 | -13.78576 | -52.72482 | 2026-07-07 00:01:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 232.5 |
+| 1631748b-2898-3a7b-8d7f-91dcc5a5cdf1 | -10.76427 | -46.624 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 2ac2664f-5a91-3f34-b4a1-dd3cb4997486 | -13.23922 | -54.31079 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 24.7 |
+| 100b354a-644c-3d38-a4ca-4c3a3d450177 | -12.76529 | -44.56303 | 2026-07-07 00:01:00 | TERRA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| 880b736a-1ac3-39dd-a143-807dcdac71be | -13.27635 | -54.35387 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 26.5 |
+| f2f560f4-4712-331c-90a5-649f4b89a906 | -11.66934 | -44.56893 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 57.8 |
+| bf179d6c-5c60-3717-a7d1-b6074a4cdb87 | -11.68017 | -44.57762 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| b3866f63-8d28-3354-8678-6d73aa046a8b | -13.77301 | -52.72639 | 2026-07-07 00:01:00 | TERRA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 238.2 |
+| 541aa5c1-1c5b-3129-89b6-3446ff639af3 | -10.69392 | -49.61102 | 2026-07-07 00:01:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 15.9 |
+| 968c040e-812f-3a92-b917-41a094022b7f | -11.65701 | -44.55009 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 19007527-c7cb-32e5-b3bc-33e0249add7d | -10.39975 | -46.84728 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 85.4 |
+| aad6dbc8-3a93-30cc-b5e2-b5207b8ba010 | -13.32482 | -54.36877 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 37.2 |
+| fe4f8096-cc30-3eb0-a7fd-2f03efbf7980 | -10.41742 | -46.84473 | 2026-07-07 00:01:00 | TERRA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 44f46d88-283d-3dd2-b6ef-70637a1888b8 | -13.26235 | -54.22398 | 2026-07-07 00:01:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 91.1 |
+| ae0b390c-696c-3fc6-b826-b55b17eaae09 | -11.67573 | -44.54722 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 17.0 |
+| 54578bf1-1ba2-35fb-858a-b8645b5d9ccd | -10.53647 | -44.11835 | 2026-07-07 00:01:00 | TERRA_M-M | JÚLIO BORGES | PIAUÍ | Brasil | 2205524 | 22 | 33 | nan | nan | nan | Cerrado | 11.1 |
+| f89d8811-18ff-30c4-87e6-3e9eb825d7c8 | -12.35494 | -47.41806 | 2026-07-07 00:01:00 | TERRA_M-M | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 08ee29b2-bca1-3018-b4fc-3617e3c4a167 | -11.84948 | -48.24674 | 2026-07-07 00:01:00 | TERRA_M-M | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 10.7 |
+| 35e0bbfb-1704-3eae-b4f8-c641c424ed19 | -11.66147 | -44.58049 | 2026-07-07 00:01:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| d7a4bcdb-7777-340e-832e-5673f852998e | -11.86438 | -45.60376 | 2026-07-07 00:01:00 | TERRA_M-M | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 4.8 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)

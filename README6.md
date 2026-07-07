@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 46cbbee4-d326-3224-abaf-9d4b34186b27 | -13.2408 | -54.32126 | 2026-07-06 05:04:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3da551f2-d4c9-3fe9-a27a-2314a4a3e069 | -11.92619 | -43.37981 | 2026-07-06 05:04:00 | NOAA-20 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 6c957740-2669-3987-87d3-cd841a04b5cc | -9.67422 | -54.34489 | 2026-07-06 05:04:00 | NOAA-20 | GUARANTÃ DO NORTE | MATO GROSSO | Brasil | 5104104 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 01c47c8a-8c7a-3ffc-a002-7e2b4b73de7b | -13.22446 | -54.31485 | 2026-07-06 05:04:00 | NOAA-20 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 124527a0-6068-34e9-8764-47010be2343f | -18.93585 | -47.44715 | 2026-07-06 05:06:00 | NOAA-20 | MONTE CARMELO | MINAS GERAIS | Brasil | 3143104 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| c2fba9cb-5aea-393e-ae92-ae6ce8e721af | -18.93451 | -47.4459 | 2026-07-06 05:06:00 | NOAA-20 | MONTE CARMELO | MINAS GERAIS | Brasil | 3143104 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| c8ed27ba-6a3b-3670-8f49-93b961125fd0 | -18.93993 | -47.44669 | 2026-07-06 05:06:00 | NOAA-20 | MONTE CARMELO | MINAS GERAIS | Brasil | 3143104 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| d883dc54-9cb1-3c3d-91fe-f97303f716dd | -20.50034 | -45.24873 | 2026-07-06 05:06:00 | NOAA-20 | ITAPECERICA | MINAS GERAIS | Brasil | 3133501 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
-| 2bcafd04-b330-3d59-8813-eedf8d4e85bb | -20.50664 | -45.24979 | 2026-07-06 05:06:00 | NOAA-20 | ITAPECERICA | MINAS GERAIS | Brasil | 3133501 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
-| bc657a66-6eba-3745-ba49-029865ab09e8 | -21.05749 | -47.25809 | 2026-07-06 05:06:00 | NOAA-20 | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8f9b0f3f-28da-366a-ba81-e4ec0751d83c | -18.93621 | -47.44355 | 2026-07-06 05:06:00 | NOAA-20 | MONTE CARMELO | MINAS GERAIS | Brasil | 3143104 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 52607151-31af-30f7-9358-0b8cf2ea941d | -21.06318 | -47.25829 | 2026-07-06 05:06:00 | NOAA-20 | ALTINÓPOLIS | SÃO PAULO | Brasil | 3501004 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 62438bc2-99b4-37f3-8558-a90d653da046 | -10.92605 | -43.05408 | 2026-07-06 05:44:00 | AQUA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 23.9 |
-| 23d0886c-5365-3e09-824f-9326140de0f2 | -6.21518 | -57.77438 | 2026-07-06 05:48:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 4.2 |
-| 2f341428-a057-3e67-9d97-85c186a481df | -10.39591 | -56.77616 | 2026-07-06 05:50:00 | NOAA-21 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| 793f10a4-4bbd-35c4-8c8c-f86e9e54c64e | -9.25151 | -60.33137 | 2026-07-06 05:50:00 | NOAA-21 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| d01e7477-0f66-3303-9bbd-8a4ac1591162 | -9.96647 | -64.96255 | 2026-07-06 05:50:00 | NOAA-21 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 518cd5c8-177a-3954-901e-1b62cbb14d76 | -13.29745 | -54.38622 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| 5910a82d-8352-370e-9931-fe4c99e55f60 | -9.5278 | -68.95478 | 2026-07-06 05:50:00 | NOAA-21 | SENA MADUREIRA | ACRE | Brasil | 1200500 | 12 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| dd1f6b64-53dd-3fc0-977d-264a3f6e149c | -9.2121 | -67.39675 | 2026-07-06 05:50:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 6fb85d47-1a1b-3582-b02f-51a481b51d92 | -13.24634 | -54.31997 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| d2679efc-6f5a-346d-b60c-fe502387c8b4 | -13.29237 | -54.36411 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 1a7b4416-79f6-3119-8e71-70c156f459b8 | -13.30243 | -54.3695 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 4599831e-8360-3739-ac5f-579f020d2597 | -13.28821 | -54.36744 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 0a97dd42-a645-364d-8ace-d6e30b4f5580 | -13.28892 | -54.36042 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| e6bef884-9e05-34fa-ac86-fbcd3ac73389 | -7.88184 | -72.4613 | 2026-07-06 05:50:00 | NOAA-21 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| d5304cbc-72b3-3812-83c3-201e07d4488b | -13.24976 | -54.31874 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 09f66c5d-24d0-3d84-91eb-4566dbb8fae0 | -10.39645 | -56.77179 | 2026-07-06 05:50:00 | NOAA-21 | ALTA FLORESTA | MATO GROSSO | Brasil | 5100250 | 51 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| c721c2f4-17c9-3ada-a413-ec8f09260e7c | -9.21264 | -67.39329 | 2026-07-06 05:50:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 300d7ebf-2ce7-379b-b04f-aec197d6b29f | -13.29604 | -54.36146 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| e629f1df-633e-32ad-936c-f333cc5e415b | -13.29813 | -54.3792 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.8 |
-| dc6ea704-4916-3a9c-b324-f9925930e90f | -13.30172 | -54.37643 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 5.6 |
-| ed664de1-dc55-3d03-970d-2d21d55bc79b | -9.2154 | -67.39728 | 2026-07-06 05:50:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| ad8d6f28-7d2d-31b7-b23d-36d37792b455 | -8.71752 | -54.54174 | 2026-07-06 05:50:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
-| 793f1bbf-723c-3188-aa5f-48261c0acf53 | -13.24262 | -54.31772 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.1 |
-| 30c52f68-0699-3bda-bdc5-2e1b6903d4e0 | -8.33528 | -64.02879 | 2026-07-06 05:50:00 | NOAA-21 | CANUTAMA | AMAZONAS | Brasil | 1300904 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| dc223df0-17b5-3020-a627-41396996d6a7 | -13.29881 | -54.37214 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 038e4a5a-bbcf-3e59-b5b3-4c518bfd5bf8 | -13.25347 | -54.32091 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.4 |
-| 14aa4d4f-541b-31ab-926e-4e489be0538f | -13.29306 | -54.35691 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 4.3 |
-| f11c1c98-09fa-3fd2-b55f-04af4eabf30c | -9.21156 | -67.40022 | 2026-07-06 05:50:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| a3ec362f-317f-3f50-b351-de364e82a04d | -13.29949 | -54.36516 | 2026-07-06 05:50:00 | NOAA-21 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 84aa9f29-5e10-3467-a095-d41b0263ab84 | -9.21594 | -67.39381 | 2026-07-06 05:50:00 | NOAA-21 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| f03e7dd3-398c-35cb-b5d6-c57d7d9fff70 | -9.21545 | -67.39662 | 2026-07-06 06:25:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 37f61c2d-1e57-37d1-b537-c3544433154e | -9.21028 | -67.40051 | 2026-07-06 06:25:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| efa213e7-1cce-3414-9cd5-8caccb192d0b | -7.88514 | -72.46141 | 2026-07-06 06:25:00 | NPP-375D | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 3b66ee95-bb14-3a2f-8ec4-0915cb317147 | -9.21093 | -67.39597 | 2026-07-06 06:25:00 | NPP-375D | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 2f337119-043b-3d75-ac2c-7bfb916f7782 | -9.20829 | -67.39823 | 2026-07-06 06:44:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 4efc74a8-962d-39be-b418-9ab246fbccbd | -9.2112 | -67.3943 | 2026-07-06 06:44:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 70e64f70-cf82-3768-8f11-f11cedcc11ad | -7.88187 | -72.46132 | 2026-07-06 06:44:00 | NOAA-20 | CRUZEIRO DO SUL | ACRE | Brasil | 1200203 | 12 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 65d27230-ecdf-3652-bce9-b0186ef158b6 | -9.21047 | -67.40038 | 2026-07-06 06:44:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| c87b3e4e-3490-30f5-879a-1d4d9907fdb4 | -9.21506 | -67.39909 | 2026-07-06 06:44:00 | NOAA-20 | BOCA DO ACRE | AMAZONAS | Brasil | 1300706 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| fa97756e-bff7-3e2c-8d73-a810e1f5fc2a | -6.2126 | -57.77375 | 2026-07-06 07:22:00 | AQUA_M-M | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 4.5 |
-| 45f714e9-4188-3d88-879d-8fe466089181 | -13.28188 | -54.35123 | 2026-07-06 07:24:00 | AQUA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 22.7 |
-| 43fe8dc8-6b25-3ae2-a8e0-47ff5e42b27a | -13.2856 | -54.35709 | 2026-07-06 07:24:00 | AQUA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 42.3 |
-| e251e2ad-bc04-3e3d-8024-3af030bfce7c | -13.29416 | -54.35299 | 2026-07-06 07:24:00 | AQUA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 25.6 |
-| a98c5191-cdb1-3d06-8d02-01ae2beddab3 | -13.2969 | -54.3861 | 2026-07-06 09:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 37.9 |
-| deb1b1dd-064d-37e4-bfdf-18c0e1ad54df | -6.21136 | -46.8797 | 2026-07-06 11:45:00 | TERRA_M-M | PORTO FRANCO | MARANHÃO | Brasil | 2109007 | 21 | 33 | nan | nan | nan | Cerrado | 8.2 |
-| 71c0f15f-e06f-3c3f-b153-e3b3e505961d | -6.77417 | -39.19873 | 2026-07-06 11:45:00 | TERRA_M-M | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 17.3 |
-| a919eb1c-9295-3d49-817b-e84fb78ac762 | -4.63539 | -43.04729 | 2026-07-06 11:45:00 | TERRA_M-M | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| b02ab9f9-8b7f-313a-97f1-668fc6afebaf | -6.8839 | -39.36042 | 2026-07-06 11:45:00 | TERRA_M-M | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 13.9 |
-| 44e7176b-82e1-346f-98f2-0faabe3b4f28 | -6.93807 | -43.72148 | 2026-07-06 11:45:00 | TERRA_M-M | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 0de78ec6-fb94-3ea8-b2db-07cc931ce4bd | -6.86956 | -44.67286 | 2026-07-06 11:45:00 | TERRA_M-M | SÃO DOMINGOS DO AZEITÃO | MARANHÃO | Brasil | 2110658 | 21 | 33 | nan | nan | nan | Cerrado | 6.2 |
-| 81d870d9-aed8-3589-a6e4-8494f14e0153 | -6.00732 | -45.08831 | 2026-07-06 11:45:00 | TERRA_M-M | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
-| 4a304454-3c2b-3328-863c-59705c989b1f | -7.00093 | -43.86473 | 2026-07-06 11:45:00 | TERRA_M-M | MARCOS PARENTE | PIAUÍ | Brasil | 2206001 | 22 | 33 | nan | nan | nan | Cerrado | 6.8 |
-| 4b26d4ea-91ec-363a-af84-38092c0bff5a | -6.77673 | -39.17865 | 2026-07-06 11:45:00 | TERRA_M-M | VÁRZEA ALEGRE | CEARÁ | Brasil | 2314003 | 23 | 33 | nan | nan | nan | Caatinga | 13.8 |
-| e8e6dafe-1eba-37a5-9499-bc64c063439a | -7.24102 | -47.10159 | 2026-07-06 11:47:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 3b196572-cc84-3d8b-8cf7-8737da310628 | -11.92554 | -43.37525 | 2026-07-06 11:47:00 | TERRA_M-M | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 36.6 |
-| 89dab731-b398-3b2b-bc3e-51e48e9be5df | -7.66771 | -44.23931 | 2026-07-06 11:47:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| aea8ae07-8dc6-38a7-89ae-1236feda7f5c | -7.90095 | -48.25206 | 2026-07-06 11:47:00 | TERRA_M-M | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| 2b1b8fe0-2d94-397c-ae87-39eb10109421 | -11.46527 | -46.62145 | 2026-07-06 11:47:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 8.1 |
-| fc254f3b-31cb-3803-a5eb-1dd50710fbda | -9.37344 | -48.8036 | 2026-07-06 11:47:00 | TERRA_M-M | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| decaeb34-d8ce-326d-9171-557f2b299382 | -14.27475 | -47.41525 | 2026-07-06 11:47:00 | TERRA_M-M | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
-| 14ced58c-41d4-33ea-a622-97bb0614f1ee | -8.11458 | -47.12362 | 2026-07-06 11:47:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 7.7 |
-| 96b53b5a-244a-3514-b554-9c334d9ad7e4 | -13.3093 | -54.36079 | 2026-07-06 11:47:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 18.5 |
-| e7b43bb4-d5fa-31bf-bee1-7ddcea433d7b | -12.92134 | -51.86732 | 2026-07-06 11:47:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 9.8 |
-| 9be87924-e842-390d-a633-bf42b9704c20 | -7.24239 | -47.09231 | 2026-07-06 11:47:00 | TERRA_M-M | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 5.0 |
-| 791596e9-2d67-3670-bf50-62b2ace5369f | -8.00976 | -44.16909 | 2026-07-06 11:47:00 | TERRA_M-M | SEBASTIÃO LEAL | PIAUÍ | Brasil | 2210631 | 22 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 1a9ca9b6-0344-3d9e-a3c8-656ae782d8f8 | -7.64826 | -45.29303 | 2026-07-06 11:47:00 | TERRA_M-M | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 18.4 |
-| c1b71857-f058-32a1-b156-50011172c6ff | -11.44232 | -46.63897 | 2026-07-06 11:47:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| d18d4e1e-f898-398a-8fc1-70476df087a0 | -8.11591 | -47.11448 | 2026-07-06 11:47:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| c22e69be-9bb7-3a6e-bd5a-a1eb771ffbe5 | -8.07537 | -46.69579 | 2026-07-06 11:47:00 | TERRA_M-M | CAMPOS LINDOS | TOCANTINS | Brasil | 1703842 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 92e9f210-e06b-332c-b01b-4d2f0b54d102 | -11.46666 | -46.54897 | 2026-07-06 11:47:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 1cd09e7c-7674-3df9-ae9d-c0c3d6af5964 | -7.6664 | -44.24876 | 2026-07-06 11:47:00 | TERRA_M-M | URUÇUÍ | PIAUÍ | Brasil | 2211209 | 22 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| ae607f69-d061-39df-bd97-6519ca80f25b | -11.44359 | -46.63007 | 2026-07-06 11:47:00 | TERRA_M-M | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 30.1 |
-| 3c8e7157-f2f4-32b7-ab1c-e5724570c2ef | -7.647 | -45.3019 | 2026-07-06 11:47:00 | TERRA_M-M | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| 44a428b1-e85f-3356-b380-e267e7e4437b | -17.54964 | -46.5462 | 2026-07-06 11:49:00 | TERRA_M-M | LAGOA GRANDE | MINAS GERAIS | Brasil | 3137536 | 31 | 33 | nan | nan | nan | Cerrado | 6.1 |
-| eb01d5fa-4914-3b26-b693-83faf79c0199 | -12.5138 | -48.2581 | 2026-07-06 12:30:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 78.6 |
-| 66fbc712-3833-3b99-b85e-d0ae0c45ff57 | -12.5138 | -48.2581 | 2026-07-06 12:40:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 96.1 |
-| 7954da22-5e08-3203-a970-0df49c28025c | -13.2972 | -54.3655 | 2026-07-06 12:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 93.1 |
-| 278cb689-7389-3db2-b9ba-2f7958ae3507 | -12.5138 | -48.2581 | 2026-07-06 12:50:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 110.1 |
-| 39480bea-2641-3bbf-abae-20b9764e41f7 | -12.5138 | -48.2581 | 2026-07-06 13:00:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 140.6 |
-| 1dd8b060-d8dc-3afb-b976-03a6c1a66f22 | -13.278 | -54.3675 | 2026-07-06 13:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 78.3 |
-| ea2b9a95-4389-32fa-a183-58a2d9e55fae | -13.3163 | -54.3634 | 2026-07-06 13:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 66.6 |
-| 0cbf16ab-55f8-3dbb-897b-d5822e1a96f6 | -13.2972 | -54.3655 | 2026-07-06 13:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 93.1 |
-| ee8f1fa5-eaf1-37d1-81e3-fa9288bd9df4 | -13.2972 | -54.3655 | 2026-07-06 13:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 129.3 |
-| df4277ea-ab95-30bb-b190-f6fab6aa2ead | -12.5138 | -48.2581 | 2026-07-06 13:10:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 153.7 |
-| a0194580-f15d-3ba3-99b4-74e65d92defc | -10.8467 | -46.3582 | 2026-07-06 13:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 70.7 |
-| f584dac3-4364-3231-abc0-bd6fb386f692 | -13.3163 | -54.3634 | 2026-07-06 13:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 181.9 |
-| 82fa54df-5b46-35a1-9518-53cfd2d22e8b | -13.2969 | -54.3861 | 2026-07-06 13:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 75.9 |
-| 9ed6206e-1248-3172-97fa-1412a4169700 | -13.278 | -54.3675 | 2026-07-06 13:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 72.5 |
+| cff8bd18-4dce-3fa7-9a6d-fa5cb308b12c | -11.6592 | -44.5741 | 2026-07-07 03:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| d05aecd5-d680-3621-83c0-233d50e89ba3 | -13.2592 | -54.3489 | 2026-07-07 03:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 60.5 |
+| 181aea4b-9c51-3863-92a2-e5782f694b1b | -13.2801 | -54.2228 | 2026-07-07 03:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 45.4 |
+| 3c8dff7b-c4c1-3c3d-bc4d-692c930b3c92 | -10.9397 | -43.0593 | 2026-07-07 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.5 |
+| 4a4c5f12-79de-3bf2-964e-ba4e2d1f34d5 | -11.6597 | -44.5508 | 2026-07-07 03:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 62.8 |
+| 88419e6d-498d-362f-af05-9a552dd3546b | -11.6785 | -44.5712 | 2026-07-07 03:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 67.1 |
+| 4c9d2de6-5e6a-37e1-9e66-08040c083b19 | -6.9326 | -43.7032 | 2026-07-07 03:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 85.3 |
+| 5cbf0ea0-f706-3232-9e9a-cd8c6810f709 | -6.9138 | -43.7049 | 2026-07-07 03:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 83.4 |
+| 1571a4fe-f775-3dc8-a3d6-de46855a7cc2 | -9.50242 | -36.54507 | 2026-07-07 03:04:00 | NOAA-20 | PALMEIRA DOS ÍNDIOS | ALAGOAS | Brasil | 2706307 | 27 | 33 | nan | nan | nan | Caatinga | 2.2 |
+| 2b957b8c-fa84-328b-afac-c70e817eca6a | -13.2613 | -54.2042 | 2026-07-07 03:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 44.5 |
+| 8741ab97-2391-36ab-ac2d-3618e5f0108f | -11.6789 | -44.5479 | 2026-07-07 03:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 87.0 |
+| 8aa91fc9-b3e7-3d28-bbed-9952103ec15d | -13.2607 | -54.2456 | 2026-07-07 03:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 157.1 |
+| 563fa706-b974-335a-967b-301acd779441 | -13.2801 | -54.2228 | 2026-07-07 03:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 207.8 |
+| 45ad3b52-8497-3e3c-9a9a-7ce9923d39b6 | -11.6785 | -44.5712 | 2026-07-07 03:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| cd9d6d97-cd53-3de5-a412-174070dff961 | -13.2798 | -54.2435 | 2026-07-07 03:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 115.3 |
+| 49438f1a-d757-3ab1-a815-899cef41e0ed | -6.9138 | -43.7049 | 2026-07-07 03:10:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 72.4 |
+| 3a1e9718-936d-3928-bd1f-21b15089e0fa | -13.2783 | -54.3469 | 2026-07-07 03:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 67.7 |
+| a47abfd8-671c-39ba-9f88-d8492bf0a1e0 | -13.261 | -54.2249 | 2026-07-07 03:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 300.7 |
+| 9afce8bd-ce03-34ff-895f-9d8888f29111 | -10.9397 | -43.0593 | 2026-07-07 03:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 74b1d448-06a9-38a9-9d7a-2977cadf949c | -6.9326 | -43.7032 | 2026-07-07 03:10:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 64.3 |
+| d254b1f3-be5a-3b3e-9860-225f145f41f1 | -13.2592 | -54.3489 | 2026-07-07 03:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 70.3 |
+| 606eec83-8e85-3cf3-886a-6f09a8eb14d5 | -10.9397 | -43.0593 | 2026-07-07 03:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 77.7 |
+| 971b53d5-741f-337e-b459-80ee768e02e7 | -11.6789 | -44.5479 | 2026-07-07 03:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 84.8 |
+| 37476114-600d-3f7e-9bec-317e0d32e66d | -13.2783 | -54.3469 | 2026-07-07 03:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 83.1 |
+| e4ebe7b5-cf26-3009-ac68-6409bda48ec4 | -13.2786 | -54.3262 | 2026-07-07 03:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 49.8 |
+| 87818a63-1da9-3425-89d9-13e120729871 | -6.9326 | -43.7032 | 2026-07-07 03:20:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| feefe51a-1660-3667-bee1-4847688e020f | -6.9138 | -43.7049 | 2026-07-07 03:20:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 106.0 |
+| 327bda33-66cc-3bae-a616-69223a8619ac | -13.261 | -54.2249 | 2026-07-07 03:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 51.2 |
+| 3224de29-83b3-32b6-a2c1-dcec69ee00e7 | -13.2592 | -54.3489 | 2026-07-07 03:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 56.7 |
+| c9a769c0-e296-3299-9abe-9bcb8771b7fa | -6.9138 | -43.7049 | 2026-07-07 03:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 95.3 |
+| 960e45c0-8f6f-323e-982b-fc4ec5622d07 | -10.9397 | -43.0593 | 2026-07-07 03:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 67.5 |
+| 0ba65da2-5704-3ecf-97f7-b684ca3d2e4c | -6.9326 | -43.7032 | 2026-07-07 03:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 68.4 |
+| 63f5c95c-9a9c-311c-bb95-eaf94625ab68 | -11.6789 | -44.5479 | 2026-07-07 03:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 81.0 |
+| 006998f9-ddfa-33e1-a342-949eb3b1e347 | -11.6785 | -44.5712 | 2026-07-07 03:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 61.7 |
+| 2bdc703a-7fb2-3b74-9465-db81459e6601 | -13.2783 | -54.3469 | 2026-07-07 03:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 79.2 |
+| d3bf1f84-647b-3ea5-a591-e2b7dca04712 | -13.2592 | -54.3489 | 2026-07-07 03:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 50.7 |
+| 8372c146-dc8e-30c6-b51f-fd4e017ff381 | -11.6785 | -44.5712 | 2026-07-07 03:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 64.8 |
+| 2c04d626-5985-3b1f-afe0-fd72b66d3667 | -6.9138 | -43.7049 | 2026-07-07 03:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 81.1 |
+| 6ea648d4-6b4a-3ffe-80d7-367e8a1b21e9 | -13.2783 | -54.3469 | 2026-07-07 03:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 59.3 |
+| dd9bde2e-f147-3997-825a-b220a855a8c3 | -11.6789 | -44.5479 | 2026-07-07 03:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 78.5 |
+| 9e798152-616a-3831-8dc9-b0d38cac61aa | -10.9397 | -43.0593 | 2026-07-07 03:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 93.3 |
+| be1c0822-c647-3ef4-b4a0-0c6716be677a | -6.9326 | -43.7032 | 2026-07-07 03:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 62.8 |
+| 3e0fcab3-8dfa-377b-91be-022d06a810de | -6.49683 | -42.22755 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.9 |
+| 4fd1c6a7-8c2d-35d2-a882-997139e2c412 | -6.49555 | -42.23541 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| dec8e053-db16-3d07-9310-d5423088d8e9 | -5.9808 | -43.61957 | 2026-07-07 03:47:00 | NOAA-21 | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| fe2d647b-936a-3e67-bdbb-ba7c360a6354 | -4.34618 | -47.76458 | 2026-07-07 03:47:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| b16f7657-a1ed-3ee4-86ee-9ca38e10625e | -5.40849 | -45.19071 | 2026-07-07 03:47:00 | NOAA-21 | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 038b5fc4-db8e-3f83-b963-ab31c950d665 | -5.50885 | -44.07724 | 2026-07-07 03:47:00 | NOAA-21 | GOVERNADOR LUIZ ROCHA | MARANHÃO | Brasil | 2104628 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 94171e34-881b-368f-b1a7-dacea7c05503 | -5.80228 | -43.80572 | 2026-07-07 03:47:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 4b046048-7d6b-3821-9b82-e59a0aff672e | -6.49619 | -42.23147 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.5 |
+| a9adcdd4-8322-33e8-b846-90d44405d841 | -4.06765 | -46.3785 | 2026-07-07 03:47:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 5b4189bf-4184-3174-9e6a-bcf6ad662d99 | -4.28516 | -48.3583 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| fa65bb6f-995e-3d52-aacd-d604ff0ed9d3 | -4.34453 | -47.76628 | 2026-07-07 03:47:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 411e53d0-dc53-3338-b96c-f0b1dca4d9ba | -5.80313 | -43.80078 | 2026-07-07 03:47:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| e3e7bc38-79f5-38e3-897e-2815b25a693a | -4.97971 | -37.47673 | 2026-07-07 03:47:00 | NOAA-21 | MOSSORÓ | RIO GRANDE DO NORTE | Brasil | 2408003 | 24 | 33 | nan | nan | nan | Caatinga | 0.4 |
+| 7efa5867-57a5-374e-933d-e176e7f02886 | -3.87863 | -42.97478 | 2026-07-07 03:47:00 | NOAA-21 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 192fc329-9565-3b0f-bbb5-098604ec94f6 | -6.50203 | -42.20925 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 656091c3-5bf7-3fc1-80d5-618aa28ce171 | -3.97849 | -48.42833 | 2026-07-07 03:47:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| de50d163-a3fd-38cc-95ce-59d5dab670ed | -4.06915 | -46.38016 | 2026-07-07 03:47:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 4e3c8c1c-8d6c-3c18-9439-324481f561fc | -5.83033 | -43.47696 | 2026-07-07 03:47:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| ffc973c9-2850-30d5-802a-7a775422ebbf | -5.91231 | -43.85263 | 2026-07-07 03:47:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| e49d7713-b978-30a9-83c6-8775b9ca781e | -4.28535 | -48.2351 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| c0299a97-b222-3c8f-b1b1-daf80230aeb5 | -4.14852 | -43.1063 | 2026-07-07 03:47:00 | NOAA-21 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 18b5ac90-3af8-3a54-9181-5be0e2a78ac9 | -4.28423 | -48.36354 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| ac64b821-a9f8-3745-a6e5-9efb70b28b0c | -4.29244 | -48.35463 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| abc7fb9d-b32a-39eb-afbe-ffa5e62e16ba | -4.82784 | -44.05866 | 2026-07-07 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 5601b0c5-22c9-3ca1-8e0e-93a08fe0ff5d | -5.75584 | -43.18896 | 2026-07-07 03:47:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Caatinga | 2.4 |
+| a0541ab4-41a7-3142-b3f5-47b60f5bad0e | -6.50617 | -42.20992 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 2.8 |
+| 761b1877-4fd3-3caa-8210-452a45d7be37 | -4.28605 | -48.35323 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 8.8 |
+| db5ebf12-55be-33f4-977f-2cb57ab38eb2 | -6.50157 | -42.23687 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| 39d4e9bb-ca68-36a1-8810-27c2c4efc70a | -4.83266 | -44.05948 | 2026-07-07 03:47:00 | NOAA-21 | CODÓ | MARANHÃO | Brasil | 2103307 | 21 | 33 | nan | nan | nan | Cerrado | 12.8 |
+| c4dbabb4-dfe5-356d-a987-807a2b56c519 | -6.20219 | -42.51548 | 2026-07-07 03:47:00 | NOAA-21 | JARDIM DO MULATO | PIAUÍ | Brasil | 2205250 | 22 | 33 | nan | nan | nan | Caatinga | 3.6 |
+| 3a86e427-7693-3394-ba9d-ce33e0eb6eac | -6.49876 | -42.22836 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| dd0c7010-f7ee-36aa-816c-21004011de36 | -4.97675 | -37.47637 | 2026-07-07 03:47:00 | NOAA-21 | MOSSORÓ | RIO GRANDE DO NORTE | Brasil | 2408003 | 24 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| f22f6361-3ad1-37d8-ab36-58c2cc353f5b | -4.60264 | -38.5143 | 2026-07-07 03:47:00 | NOAA-21 | OCARA | CEARÁ | Brasil | 2309458 | 23 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 8f818931-e173-3301-9ffc-35a4de10f4a0 | -3.87804 | -42.97231 | 2026-07-07 03:47:00 | NOAA-21 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 155ffdba-2594-3150-b3a1-e3ab5ccf154d | -5.80475 | -43.80354 | 2026-07-07 03:47:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| d4dbdf60-af82-3f3c-bc90-9f343e45ce19 | -6.49809 | -42.23227 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| 59234119-5477-3adc-988f-5b5208c06653 | -5.2278 | -43.16006 | 2026-07-07 03:47:00 | NOAA-21 | TIMON | MARANHÃO | Brasil | 2112209 | 21 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 7eff79b3-d35c-34e7-81b1-5ea185bb082f | -4.27895 | -48.23398 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| dbce8375-ee2d-33bc-b946-d3cd1e17dc7d | -4.28041 | -48.23572 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 7855d336-123f-374e-87c6-6d4e539673b2 | -4.34536 | -47.76938 | 2026-07-07 03:47:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 3.6 |
+| a98d42cf-a3cb-383a-83d0-e412c5243b4c | -5.80007 | -43.80281 | 2026-07-07 03:47:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 2310b108-2169-3c4d-b966-6537a2d39d61 | -3.8773 | -42.97695 | 2026-07-07 03:47:00 | NOAA-21 | BURITI | MARANHÃO | Brasil | 2102200 | 21 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 2aaa031c-de2b-3794-9e47-6fc5391803ce | -6.29337 | -43.63924 | 2026-07-07 03:47:00 | NOAA-21 | PASSAGEM FRANCA | MARANHÃO | Brasil | 2107902 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 06301c60-d227-3b9b-8d3e-df69e41f1f91 | -6.49742 | -42.23619 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| 4456bc5c-ca53-39c0-ae94-fd76bc8dec2b | -4.06979 | -46.37646 | 2026-07-07 03:47:00 | NOAA-21 | BOM JARDIM | MARANHÃO | Brasil | 2102002 | 21 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 605846a2-0972-3c43-8646-7dee3c32cd1f | -6.49942 | -42.22449 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 1.6 |
+| f2e23344-2f40-39ea-8408-88630e3ecc5a | -5.79846 | -43.80004 | 2026-07-07 03:47:00 | NOAA-21 | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 5.1 |
+| 4a4e2629-5d4c-3d48-bdd0-a0a6b620d20d | -6.90695 | -39.55019 | 2026-07-07 03:47:00 | NOAA-21 | FARIAS BRITO | CEARÁ | Brasil | 2304301 | 23 | 33 | nan | nan | nan | Caatinga | 0.8 |
+| 3df0559b-f3b9-349c-95f6-edc6794cd032 | -4.85788 | -39.80817 | 2026-07-07 03:47:00 | NOAA-21 | BOA VIAGEM | CEARÁ | Brasil | 2302404 | 23 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| abfa9d79-29a8-358c-b21d-e97b2a712690 | -6.50224 | -42.23293 | 2026-07-07 03:47:00 | NOAA-21 | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | 6.5 |
+| fa0d8ca9-16f1-3311-9091-bddae2e569bc | -4.28136 | -48.23037 | 2026-07-07 03:47:00 | NOAA-21 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 18fc6622-0c43-3716-aa45-da4b0391275c | -5.82877 | -43.48629 | 2026-07-07 03:47:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 5205e63b-4953-323b-9dba-6a56035dade1 | -4.73876 | -41.98801 | 2026-07-07 03:47:00 | NOAA-21 | CAMPO MAIOR | PIAUÍ | Brasil | 2202208 | 22 | 33 | nan | nan | nan | Caatinga | 1.3 |
+| 6394905f-919b-3c78-a6ee-3da823a5c9b3 | -4.97754 | -37.23222 | 2026-07-07 03:47:00 | NOAA-21 | GROSSOS | RIO GRANDE DO NORTE | Brasil | 2404408 | 24 | 33 | nan | nan | nan | Caatinga | 0.9 |
+| b6d37661-91cf-30dd-8206-20ccd75ffb6a | -6.47601 | -42.93519 | 2026-07-07 03:47:00 | NOAA-21 | SÃO FRANCISCO DO MARANHÃO | MARANHÃO | Brasil | 2110906 | 21 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| e3d71687-fc07-3b83-be12-a26f5c5fcf07 | -5.82955 | -43.48162 | 2026-07-07 03:47:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 599102e0-984a-3913-b951-aa413bd6ac62 | -4.14929 | -43.1016 | 2026-07-07 03:47:00 | NOAA-21 | COELHO NETO | MARANHÃO | Brasil | 2103406 | 21 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| c758d207-232c-3fc5-b53a-4a5cc74b26ac | -5.75208 | -43.26709 | 2026-07-07 03:47:00 | NOAA-21 | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | 3.9 |
 
 
 [Clique aqui para ver as próximas entradas](README7.md)

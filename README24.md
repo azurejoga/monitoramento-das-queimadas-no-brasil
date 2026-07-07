@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 4f41e04e-3d00-38f1-818c-98de7c353d3d | -11.79685 | -56.99873 | 2026-07-02 05:59:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 6.6 |
-| 60871436-c75b-3e54-a759-8ee26512ad54 | -11.79669 | -57.00198 | 2026-07-02 05:59:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 17.2 |
-| eb9f65a3-a791-3d0b-9343-1188ef0cee83 | -11.41718 | -56.05802 | 2026-07-02 05:59:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 339469db-ddd3-3765-870b-7adee6017416 | -11.62884 | -59.02246 | 2026-07-02 05:59:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 14878946-415a-3ce1-a2eb-aa301f1dbf5f | -9.18709 | -58.05775 | 2026-07-02 05:59:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 7a14de0e-1fa8-3c79-92e1-da8b099302cb | -9.18758 | -58.05403 | 2026-07-02 05:59:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 83d44038-4469-3bac-abfd-3786a7d58026 | -10.81718 | -58.02169 | 2026-07-02 05:59:00 | NPP-375D | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 578eeeea-e555-35c5-9206-bed710e86127 | -11.79726 | -56.99736 | 2026-07-02 05:59:00 | NPP-375D | PORTO DOS GAÚCHOS | MATO GROSSO | Brasil | 5106802 | 51 | 33 | nan | nan | nan | Amazônia | 5.7 |
-| b4a36723-cc62-3417-aad8-efef4b6bb960 | -11.62969 | -59.01572 | 2026-07-02 05:59:00 | NPP-375D | JUÍNA | MATO GROSSO | Brasil | 5105150 | 51 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| f93252da-f386-355b-9206-ecc544c1723c | -11.41656 | -56.05844 | 2026-07-02 05:59:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 3.2 |
-| a08791c6-2b16-3ace-a9f3-24d9d9dd96eb | -9.2052 | -58.049 | 2026-07-02 05:59:00 | NPP-375D | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| c1bfd649-ab48-3cb2-bd8e-c3361421a88e | -11.42299 | -56.0643 | 2026-07-02 05:59:00 | NPP-375D | TABAPORÃ | MATO GROSSO | Brasil | 5107941 | 51 | 33 | nan | nan | nan | Amazônia | 3.5 |
-| 77a3b0c7-495a-3141-80c4-91cf6a267e4d | -10.66974 | -54.53609 | 2026-07-02 05:59:00 | NPP-375D | MARCELÂNDIA | MATO GROSSO | Brasil | 5105580 | 51 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| f963ab74-1849-3a9e-80ef-d1109b61226c | -12.8741 | -44.3593 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 156.1 |
-| 9fb4302d-d22f-3c59-8d54-e2858f0492bb | -12.8552 | -44.3389 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 298.7 |
-| 02f0f872-c1b7-3e32-9faa-ad54956e30a4 | -12.7751 | -44.4927 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 174.3 |
-| 9c961d4a-af79-3ca7-9531-147076fdaa4a | -12.7562 | -44.4724 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 273.3 |
-| 6449fed5-3735-3928-ba66-2299a73fcc8e | -12.7557 | -44.4959 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 193.3 |
-| 8c7303ca-ae35-3b95-802a-ec5eb8b90a10 | -12.8548 | -44.3625 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 148.9 |
-| 0ff3ca03-d5f9-315f-bf42-91d05bf6805a | -12.7566 | -44.449 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 43.2 |
-| 5c274d58-1d28-3900-a12b-866d65f12be6 | -12.8746 | -44.3357 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 237.4 |
-| 6fdf2f93-aa3d-3bca-bb83-57a1bd2b6ab3 | -12.7755 | -44.4693 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 86.7 |
-| 83d08b77-566b-3640-8ee7-7fea5a0a185f | -12.8557 | -44.3154 | 2026-07-02 06:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 48.9 |
-| f00e6c76-f9a3-3827-8966-02fcfd5fcbd0 | -21.7823 | -56.2976 | 2026-07-02 06:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 72.5 |
-| 003ecc3b-2e53-398e-9fba-b22bdc3d324e | -21.7716 | -56.29494 | 2026-07-02 06:03:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| bc85a023-9fa4-3d03-b237-634964b118b3 | -21.77926 | -56.28823 | 2026-07-02 06:03:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 991d8acf-0043-3bac-83a8-59f9726c456e | -21.76447 | -56.29451 | 2026-07-02 06:03:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 70c3f643-c3f8-3ce4-acf4-d0dee18fd6c6 | -21.77874 | -56.2953 | 2026-07-02 06:03:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 3.5 |
-| 67fba37c-f7f8-3059-8acc-4b76d6689298 | -21.77211 | -56.28789 | 2026-07-02 06:03:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 12.2 |
-| 415944de-0da0-3b40-9f92-287a8450f8ee | -12.8741 | -44.3593 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 133.2 |
-| be5bad30-91aa-31cc-90ee-a154a224bdb1 | -12.8557 | -44.3154 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 48.0 |
-| 4cc19ebd-7451-3aa8-bd1e-ad3ad5995f35 | -12.8746 | -44.3357 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 272.6 |
-| dc0e642f-fe6c-3627-bfb1-4c4203b610aa | -12.7369 | -44.4756 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 77.2 |
-| 429a0708-ea06-3b91-8590-b96bd566a05d | -12.875 | -44.3122 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 44.8 |
-| ad6b59d6-9dad-3a0f-95f7-4ad20396cbfd | -12.8552 | -44.3389 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 267.4 |
-| f597e130-135f-3519-aa67-b4619c79b5e6 | -12.7557 | -44.4959 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 187.6 |
-| db944ced-b58c-3446-b8ad-6284e02d29fd | -12.7751 | -44.4927 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 155.5 |
-| 7feed0ac-1bd7-3267-b19a-79391846aae8 | -12.7755 | -44.4693 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 97.7 |
-| 9d655073-4ef7-348c-804c-1a8d07e35f52 | -12.8548 | -44.3625 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 131.7 |
-| 623e2472-f532-37d9-b86c-3b1be6ea0927 | -12.7562 | -44.4724 | 2026-07-02 06:10:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 249.4 |
-| a5d2ad4f-28bc-3669-89d3-4fdb9fdebd4e | -12.8557 | -44.3154 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 49.1 |
-| 219ba874-4e35-3aa6-b4b3-011875d7deee | -12.8548 | -44.3625 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 149.6 |
-| 480efd76-eee4-3dff-abf3-0b985bc1f67a | -12.7755 | -44.4693 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 64.1 |
-| 93596654-1085-318e-81ee-5bfecafd9941 | -12.7557 | -44.4959 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 160.3 |
-| 5fcfdbea-1c31-3872-b432-3a1baea8f9ed | -12.7751 | -44.4927 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 162.3 |
-| e631e319-6195-355a-b8d8-c640c2ea04e2 | -12.8741 | -44.3593 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 151.6 |
-| f5ee7924-7f82-35cc-9c10-cb850f6f19e8 | -12.8746 | -44.3357 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 224.0 |
-| 034c5f0b-d9f9-3083-b7ed-eb4c58a3a65d | -12.7562 | -44.4724 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 263.2 |
-| 39d0484b-6e27-38d8-9ace-2aa3c0b373ca | -12.8552 | -44.3389 | 2026-07-02 06:20:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 282.4 |
-| 43511f35-564d-3d57-93c5-e8de95161446 | -3.41422 | -41.71101 | 2026-07-02 06:27:00 | AQUA_M-M | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 18.7 |
-| 0d841760-36c6-362d-8a65-84437188c2e9 | -4.00838 | -48.05089 | 2026-07-02 06:27:00 | AQUA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 12.0 |
-| 21d7b24f-fd22-3fa0-8f46-fd40c92b514f | -3.50576 | -48.04014 | 2026-07-02 06:27:00 | AQUA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 7.4 |
-| 2d5e60e8-25ab-3564-ad65-7bd73d3852c4 | -3.50746 | -48.02894 | 2026-07-02 06:27:00 | AQUA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 8.9 |
-| 83db9736-2285-3d12-96e0-332fe0c9809b | -3.51912 | -48.02584 | 2026-07-02 06:27:00 | AQUA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 6.2 |
-| 7ec82864-79eb-362a-afc2-0b24fe01edb3 | -3.50753 | -48.03553 | 2026-07-02 06:27:00 | AQUA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 20.7 |
-| cf0ff16f-64b0-3a3c-9426-c4f1874ed5e8 | -3.51737 | -48.03699 | 2026-07-02 06:27:00 | AQUA_M-M | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 33.5 |
-| 35180908-4b28-3113-9b18-b202a39214ce | -3.4159 | -41.69969 | 2026-07-02 06:27:00 | AQUA_M-M | BURITI DOS LOPES | PIAUÍ | Brasil | 2202000 | 22 | 33 | nan | nan | nan | Caatinga | 47.5 |
-| 9c9bb27c-b1b5-37ed-b3f3-9629b791e10b | -4.00665 | -48.06206 | 2026-07-02 06:27:00 | AQUA_M-M | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 21.0 |
-| 2a437b8a-e744-30a4-ae59-d7bbac8a18b3 | -12.77574 | -44.52217 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| 17343efe-4035-30a4-85e2-0eb59014f2cd | -6.92313 | -43.71493 | 2026-07-02 06:29:00 | AQUA_M-M | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 21.6 |
-| f77ad869-289f-35c3-80d9-7b5ce9d39445 | -12.84345 | -44.35517 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 10.4 |
-| 6fead34b-fb62-3101-bed5-5baba01824e9 | -12.52001 | -48.2847 | 2026-07-02 06:29:00 | AQUA_M-M | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| 9d51226b-2ac0-37b3-b575-8dc2906c9fbd | -6.92169 | -43.72464 | 2026-07-02 06:29:00 | AQUA_M-M | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 11.4 |
-| fee7de36-387d-358d-923b-1c7d0d5823d9 | -5.79194 | -45.03702 | 2026-07-02 06:29:00 | AQUA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 6.5 |
-| 22818e02-950a-3fb5-bdd0-a8e754805570 | -12.76632 | -44.52082 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| ce72281e-235d-341e-a773-52e2494339ae | -10.94563 | -43.04661 | 2026-07-02 06:29:00 | AQUA_M-M | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 17.5 |
-| 018daa57-1a10-37d8-b4fc-245e46a3ccf4 | -12.8625 | -44.35789 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 77.8 |
-| e64edf7f-b492-3899-b95e-2ba29b635c6e | -12.84492 | -44.34452 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 21.0 |
-| fcd0a89d-1744-3499-9c48-7169c3b6240f | -5.81212 | -43.79235 | 2026-07-02 06:29:00 | AQUA_M-M | BURITI BRAVO | MARANHÃO | Brasil | 2102309 | 21 | 33 | nan | nan | nan | Cerrado | 6.4 |
-| eb3cc7de-b090-38ac-9570-8531f21f2a4b | -5.34693 | -45.17885 | 2026-07-02 06:29:00 | AQUA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 6.0 |
-| c70c5398-d932-3e47-ab92-6d1f79bf6e6f | -12.85445 | -44.34589 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 98.5 |
-| 836469a5-4f38-319d-a98e-b33a3a292bb4 | -12.87203 | -44.35924 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 18.3 |
-| c0ef4716-83b3-351b-879d-077a2fbe77a7 | -11.85089 | -48.24062 | 2026-07-02 06:29:00 | AQUA_M-M | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 25.4 |
-| f1a17ae2-617d-3bc7-8b63-d4618cf4d6fb | -12.87502 | -44.33781 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 11.2 |
-| 9fe3f505-1082-3e89-9c07-3dac9a66fbc4 | -12.77072 | -44.48958 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 35.3 |
-| 900c35a4-b05f-35a5-9c4b-48051b5557f2 | -12.74385 | -44.47507 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 9.9 |
-| c596e3f1-6430-3be9-97ec-4e95dbf9a150 | -12.85297 | -44.35654 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 61.1 |
-| df546dfa-e453-3ec0-9895-821e32ea7133 | -12.86398 | -44.34723 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 310.5 |
-| a958b715-1784-3ddf-9fd2-f94659376167 | -5.79062 | -45.04578 | 2026-07-02 06:29:00 | AQUA_M-M | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | 4.8 |
-| 5bac7b51-8453-3344-936a-75633a74964b | -11.00616 | -47.18567 | 2026-07-02 06:29:00 | AQUA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 11.8 |
-| 9de8a82d-18cc-3cb9-999c-3ae54585b7ef | -12.85593 | -44.33522 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 98.1 |
-| c311cb81-a12f-3a69-8f45-ce0eae65c364 | -12.87352 | -44.34856 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 138.3 |
-| 4c92a6a7-b55a-3350-a12e-5ba1a6a6f5ab | -8.71925 | -48.33141 | 2026-07-02 06:29:00 | AQUA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 3fa01f63-dfb7-3dac-937f-11aacf9695db | -12.76275 | -44.47779 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 110.6 |
-| 6e691f87-e22d-3d93-b2db-5432bba795dd | -12.76128 | -44.48824 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| afdbddff-47bc-3aeb-ad45-8e325a1df545 | -5.3742 | -43.37643 | 2026-07-02 06:29:00 | AQUA_M-M | MATÕES | MARANHÃO | Brasil | 2106607 | 21 | 33 | nan | nan | nan | Cerrado | 11.5 |
-| 27a7c35b-2e2f-3459-9f9f-91693ca83c71 | -12.76925 | -44.50001 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 191.2 |
-| 7e99104e-31c0-34c4-804b-1379a531affb | -12.74239 | -44.48551 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 13.9 |
-| 8ef63ef1-632b-3592-bedf-ecf61e5bc58d | -12.8515 | -44.36717 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 8.4 |
-| f82ecad3-9dd1-3d2c-b27d-b51bf8a93fad | -11.00753 | -47.1767 | 2026-07-02 06:29:00 | AQUA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| ef5666d5-56fd-3a80-9eca-e606f5a1ec0c | -11.85989 | -48.24209 | 2026-07-02 06:29:00 | AQUA_M-M | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| b3c75c14-8f2b-3125-b61e-261194340cb6 | -12.51104 | -48.28326 | 2026-07-02 06:29:00 | AQUA_M-M | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| 81623386-3284-3808-8abd-41ccd68fbe53 | -12.86547 | -44.33652 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 161.0 |
-| 7378b341-1a20-3b26-a691-ec551b59c675 | -8.65628 | -49.71288 | 2026-07-02 06:29:00 | AQUA_M-M | CONCEIÇÃO DO ARAGUAIA | PARÁ | Brasil | 1502707 | 15 | 33 | nan | nan | nan | Amazônia | 7.8 |
-| 99686d5d-1477-3ef1-a431-2789f3bf19a6 | -12.75981 | -44.49867 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 26.5 |
-| 26ff82c0-64ef-3f10-bf7b-5cf59196a066 | -12.7533 | -44.47644 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 218.5 |
-| e6b87c68-3a82-3824-ae14-4fdc6ce15467 | -8.71769 | -48.34143 | 2026-07-02 06:29:00 | AQUA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| c9c74459-97fb-39ed-8c40-aa4789f81369 | -10.12656 | -52.09336 | 2026-07-02 06:29:00 | AQUA_M-M | SANTA CRUZ DO XINGU | MATO GROSSO | Brasil | 5107743 | 51 | 33 | nan | nan | nan | Amazônia | 21.7 |
-| e171908c-7185-3f76-9295-1ee44782af14 | -12.75183 | -44.48688 | 2026-07-02 06:29:00 | AQUA_M-M | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 102.2 |
-| a02697e9-c3d5-354e-b83a-948ab2558aaa | -12.8548 | -44.3625 | 2026-07-02 06:30:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 148.0 |
+| 8b1ab634-bab8-3c69-9705-b36521c33ea1 | -13.5292 | -52.9249 | 2026-07-07 13:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 73.3 |
+| 5185618c-275c-380d-a534-78a0fce6d77a | -6.9138 | -43.7049 | 2026-07-07 13:50:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 280.4 |
+| 1e11b349-3695-3103-9fa4-7344fafa830a | -13.5289 | -52.9459 | 2026-07-07 13:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 125.8 |
+| c3c45609-4de1-3431-beaf-a4bcec665b5a | -13.5484 | -52.9227 | 2026-07-07 13:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 69.2 |
+| d4b4f001-c0bb-396a-ba6c-ad93db065d62 | -6.9135 | -43.7281 | 2026-07-07 13:50:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 123.5 |
+| 663a79ef-0fb4-344a-9ea7-ea602d0401bf | -11.6785 | -44.5712 | 2026-07-07 13:50:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 122.5 |
+| eb34479b-f385-3c1f-8baa-ea6bd7cf32e4 | -15.5129 | -42.2195 | 2026-07-07 13:50:00 | GOES-19 | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 98.4 |
+| 21a0017b-cf98-3cae-9c74-5c68fea5bd30 | -11.6789 | -44.5479 | 2026-07-07 13:50:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 97.8 |
+| fb4a4d38-ad74-3976-b91f-f37ac3941abb | -12.4947 | -48.2607 | 2026-07-07 13:50:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| 85c37ad0-b651-37dd-ae98-bdc60f2fceb9 | -6.9323 | -43.7264 | 2026-07-07 14:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 97.2 |
+| 852fe710-a453-36da-afca-8a13ee004298 | -11.6785 | -44.5712 | 2026-07-07 14:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 123.9 |
+| 9203699e-3cd0-377f-b2c0-895dddcb7c02 | -6.9138 | -43.7049 | 2026-07-07 14:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 266.8 |
+| daa6422c-1efe-3112-8715-0c0c33dcd984 | -12.5138 | -48.2581 | 2026-07-07 14:00:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 72.2 |
+| 17a7e54d-2326-3ce1-a590-46173a5d7c9c | -6.9135 | -43.7281 | 2026-07-07 14:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 109.6 |
+| 5e1fd37a-f94a-3443-9412-98cac73ba84c | -11.6592 | -44.5741 | 2026-07-07 14:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 78.0 |
+| e5eb5df4-cf42-3008-bc6d-c7087eaab866 | -13.5289 | -52.9459 | 2026-07-07 14:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 143.3 |
+| 0939db9e-d368-36e3-bdbd-cafcac652323 | -11.6789 | -44.5479 | 2026-07-07 14:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 115.7 |
+| 68bab9b2-a0b4-339a-b1e8-3c54d4a802a0 | -6.9326 | -43.7032 | 2026-07-07 14:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 275.0 |
+| b668627a-9eef-33d2-ad1f-4301e6628ef7 | -13.5292 | -52.9249 | 2026-07-07 14:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 90.8 |
+| 9d2b3126-beaf-33fe-aeba-1ab674796f92 | -15.5129 | -42.2195 | 2026-07-07 14:00:00 | GOES-19 | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 97.4 |
+| 41b13c18-cc6b-390b-90d6-44ff7fe4edca | -15.5129 | -42.2195 | 2026-07-07 14:10:00 | GOES-19 | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 85.0 |
+| 459a7f96-97af-37f0-b109-c1efe7e25781 | -6.9135 | -43.7281 | 2026-07-07 14:10:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 128.8 |
+| 8a1077ca-8627-320a-bf7d-82ed65a3cf26 | -6.9323 | -43.7264 | 2026-07-07 14:10:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 108.1 |
+| 88e88db6-6f35-33b4-a10d-9108fccd6b0b | -11.6785 | -44.5712 | 2026-07-07 14:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 129.8 |
+| ecbbea97-df17-320a-bf99-4433ede99416 | -11.6789 | -44.5479 | 2026-07-07 14:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 110.4 |
+| 11ec8ef6-6432-3321-9d60-e1158eba4da2 | -9.3736 | -48.8025 | 2026-07-07 14:10:00 | GOES-19 | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 59.3 |
+| 55f42e09-a11c-354a-99d0-659fa19ef2c0 | -13.5289 | -52.9459 | 2026-07-07 14:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 143.3 |
+| 38ea265e-d43d-352f-82d5-35d6195166f1 | -12.5138 | -48.2581 | 2026-07-07 14:10:00 | GOES-19 | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 75.7 |
+| 122a1ee4-6278-3175-abe6-22bd8350b497 | -13.5292 | -52.9249 | 2026-07-07 14:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 77.1 |
+| 9a9987e8-6a78-34cf-91fb-b0cbccc3fb6b | -6.9138 | -43.7049 | 2026-07-07 14:10:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 258.3 |
+| ebf65429-71cf-3650-90d0-0eb40f9bf742 | -6.9326 | -43.7032 | 2026-07-07 14:10:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 262.6 |
+| a09f9a51-b235-3dd1-8acf-098cc0f35c22 | -8.3004 | -47.3536 | 2026-07-07 14:10:00 | GOES-19 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 80.3 |
+| 8f47e1a5-f3d7-3966-8c4d-a46d9e3b4ba8 | -11.6592 | -44.5741 | 2026-07-07 14:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 93.8 |
+| 38e3b111-fc59-3e3f-9228-daa8893d8305 | -6.9323 | -43.7264 | 2026-07-07 14:20:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 89.2 |
+| abb339e7-8ee5-37dc-b5f1-7d4d51d723f2 | -15.5129 | -42.2195 | 2026-07-07 14:20:00 | GOES-19 | INDAIABIRA | MINAS GERAIS | Brasil | 3130655 | 31 | 33 | nan | nan | nan | Cerrado | 135.5 |
+| b8848a4d-cdcf-3ee3-a1e0-4196324865d5 | -11.6597 | -44.5508 | 2026-07-07 14:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 0f5f447f-4181-3721-a493-8d9da07307cf | -13.3163 | -54.3634 | 2026-07-07 14:20:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 89.3 |
+| d9fe1dc6-ae52-36c9-ac92-014a70303bff | -13.5289 | -52.9459 | 2026-07-07 14:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 107.4 |
+| 02cd5fd4-c391-3a2e-be8e-1410a63613c1 | -11.6592 | -44.5741 | 2026-07-07 14:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 114.1 |
+| 6bf11c1d-0a15-3108-950a-97c199424d0f | -10.8463 | -46.3808 | 2026-07-07 14:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 101.5 |
+| 8ba817ea-53b3-304b-a775-70d547ad33ab | -11.6785 | -44.5712 | 2026-07-07 14:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 139.8 |
+| ce41a7c9-56fd-36b9-8f2a-a259427b3c3a | -6.9135 | -43.7281 | 2026-07-07 14:20:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 96.8 |
+| 9645716a-e358-33f7-a347-e6b014d52186 | -6.9138 | -43.7049 | 2026-07-07 14:20:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 260.6 |
+| 069038ac-3fe3-3998-8b31-caad7bb3cb8e | -11.6789 | -44.5479 | 2026-07-07 14:20:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 98.8 |
+| c2452199-0a9f-3377-ba7a-b2c84c2325a5 | -6.9326 | -43.7032 | 2026-07-07 14:20:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 267.3 |
+| d99d2338-3cca-324c-9971-7217d653051b | -13.5289 | -52.9459 | 2026-07-07 14:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 142.1 |
+| be4aa936-91dd-3061-8691-e912d53cd787 | -11.6592 | -44.5741 | 2026-07-07 14:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 112.2 |
+| 2b3f7181-7061-362b-ade0-602ddc99b148 | -6.9323 | -43.7264 | 2026-07-07 14:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 124.3 |
+| a92b76de-97fc-3c00-b65d-681fd67a69bc | -11.6789 | -44.5479 | 2026-07-07 14:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 90.3 |
+| 3ec50625-2edf-30c8-a780-6f5677dedd6b | -11.6785 | -44.5712 | 2026-07-07 14:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 131.3 |
+| d40a494c-e341-3d78-89b9-402c07128005 | -6.9135 | -43.7281 | 2026-07-07 14:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 111.6 |
+| 939134ee-8aa7-3089-8169-e52f9f42c27f | -21.7823 | -56.2976 | 2026-07-07 14:30:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 86.5 |
+| 94b835a6-b182-3bda-9855-cdcc5fb19dad | -6.9138 | -43.7049 | 2026-07-07 14:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 232.7 |
+| e2f336a3-e91b-3073-9b0b-7ee464da66cc | -6.9326 | -43.7032 | 2026-07-07 14:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 310.1 |
+| b6105a14-700a-3d26-8a49-626ae50ef93a | -11.6785 | -44.5712 | 2026-07-07 14:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 124.3 |
+| 345dd9b3-6c36-34a4-b04f-01592cabd3d7 | -21.7823 | -56.2976 | 2026-07-07 14:40:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 92.5 |
+| 89b4f9c8-ac4e-39d7-a942-420d011ec9c8 | -11.6592 | -44.5741 | 2026-07-07 14:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 110.8 |
+| 5a975a09-af8f-36df-845c-f565335a4aee | -10.3953 | -50.0132 | 2026-07-07 14:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 88.3 |
+| 6692ae6d-19f2-38ca-909d-976427006bdd | -6.9138 | -43.7049 | 2026-07-07 14:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 250.0 |
+| 1c3eb2f5-797d-3830-adc7-c35dccd6933f | -11.6789 | -44.5479 | 2026-07-07 14:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 105.5 |
+| 4cd9da57-f81e-312b-8922-230fe40fa52f | -13.5292 | -52.9249 | 2026-07-07 14:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 83.9 |
+| 74dbec3c-6ea0-3310-a6b7-7fb4195474dd | -6.9326 | -43.7032 | 2026-07-07 14:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 326.5 |
+| 63925b8e-0ddf-3024-8e0a-b4befc6216e6 | -6.9135 | -43.7281 | 2026-07-07 14:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 111.5 |
+| 1fd7ad28-b048-33ef-b5ce-2d8310962636 | -13.3163 | -54.3634 | 2026-07-07 14:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 110.7 |
+| 8e92f9be-906d-3a9d-aed0-8edebd19d924 | -6.9323 | -43.7264 | 2026-07-07 14:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 107.7 |
+| 506ac4f0-d339-3a1e-a1bf-f83d66cd103c | -13.5289 | -52.9459 | 2026-07-07 14:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 127.9 |
+| 56eca425-aa01-34a0-92b3-94edb4be67c2 | -21.7823 | -56.2976 | 2026-07-07 14:50:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| a9894b56-abcb-3395-8095-c1ca501c2e07 | -6.9326 | -43.7032 | 2026-07-07 14:50:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 376.9 |
+| daf77967-873d-341f-87ac-e3645697ec33 | -21.8033 | -56.2729 | 2026-07-07 14:50:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 86.9 |
+| cb42db39-6dec-32f2-afcb-2730d6967b12 | -13.5289 | -52.9459 | 2026-07-07 14:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 134.0 |
+| 4a920bdb-0da8-346d-9563-62dca1cc858b | -11.6789 | -44.5479 | 2026-07-07 14:50:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 91.9 |
+| fefb4359-63e9-3154-b9fc-925def382e5d | -13.2595 | -54.3283 | 2026-07-07 14:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 101.8 |
+| 10e4da3b-c7e1-33df-8031-096fb71dfb98 | -10.3953 | -50.0132 | 2026-07-07 14:50:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 117.1 |
+| 9538469e-b32d-3fff-990f-e243b80daddd | -13.2598 | -54.3076 | 2026-07-07 14:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 120.7 |
+| c9dcf157-57c3-3bd5-98ba-5d2ee40d6189 | -13.3163 | -54.3634 | 2026-07-07 14:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 105.2 |
+| f21be77e-7b1a-39e4-9034-7d1201025392 | -6.9135 | -43.7281 | 2026-07-07 14:50:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 191.4 |
+| 30f40170-0cd6-39d4-abba-d2c7f871a9d1 | -6.895 | -43.7066 | 2026-07-07 14:50:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 91.4 |
+| f67965e6-088a-3108-9526-9d1d1b066b86 | -6.9323 | -43.7264 | 2026-07-07 14:50:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 134.7 |
+| d4fad23c-f2b3-3e21-a021-72528c631ec2 | -13.2972 | -54.3655 | 2026-07-07 14:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 93.1 |
+| 0fd06fa6-51f1-34f4-a772-4181ad1a5f6e | -11.6785 | -44.5712 | 2026-07-07 14:50:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 126.3 |
+| 5c02d059-703d-329b-be02-bab7d06c6b91 | -10.3953 | -50.0132 | 2026-07-07 15:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 113.0 |
+| 77177d5b-48b7-36d4-9228-740619fdcc3e | -13.5289 | -52.9459 | 2026-07-07 15:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 156.2 |
+| ef5a8f69-e611-3499-a038-27191bb17f35 | -13.2592 | -54.3489 | 2026-07-07 15:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 91.5 |
+| 7cba627e-9012-317f-a8eb-26f835e7b4c1 | -21.7823 | -56.2976 | 2026-07-07 15:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 81.7 |
+| faa9b1c9-1b44-38e2-ab96-369880e852f8 | -11.6785 | -44.5712 | 2026-07-07 15:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 107.1 |
+| d2b13bb5-77bf-39d7-86d8-3f172b2e958c | -6.9135 | -43.7281 | 2026-07-07 15:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 137.9 |
+| b0d9be66-edb5-3bfa-8bbf-55a447aeb53e | -13.3163 | -54.3634 | 2026-07-07 15:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 106.9 |
+| e87ada95-68ed-3f2b-a163-a9608194c1c6 | -6.9323 | -43.7264 | 2026-07-07 15:00:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 107.6 |
+| d93d27fc-d3a2-31d5-9f5e-7cba53c9a13c | -11.6592 | -44.5741 | 2026-07-07 15:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 100.1 |
+| 5916bcc9-300c-3f56-a290-454af4d2c0a0 | -21.8033 | -56.2729 | 2026-07-07 15:00:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 114.5 |
+| ac2d11fd-6071-3441-9183-4be503706788 | -11.6789 | -44.5479 | 2026-07-07 15:00:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 88.9 |
+| 7ef55661-904e-3439-803e-46e961c2a6e9 | -13.5292 | -52.9249 | 2026-07-07 15:00:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 99.0 |
+| 5aaaa927-3f90-3835-bb48-80b2d6fcb2b6 | -13.2783 | -54.3469 | 2026-07-07 15:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 109.7 |
+| e7d294b1-60e7-346f-a763-6701d9012114 | -11.6789 | -44.5479 | 2026-07-07 15:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 88.8 |
+| f0399710-799a-38cb-819f-531693d28521 | -13.3163 | -54.3634 | 2026-07-07 15:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 104.1 |
+| 1221b99f-c930-362f-981d-883c13e7caee | -11.6785 | -44.5712 | 2026-07-07 15:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 113.9 |
+| eb574551-0782-39d8-aec2-ca5a6adccc19 | -13.5289 | -52.9459 | 2026-07-07 15:10:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 100.2 |
+| 8e859703-0d62-3a22-9c03-ca65857a0be9 | -13.316 | -54.3841 | 2026-07-07 15:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 79.6 |
+| 3f074681-085f-38ec-9771-8b8b6fdf8e62 | -11.6592 | -44.5741 | 2026-07-07 15:10:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 79.9 |
+| 8ceeb936-eb95-351f-b2f5-d9a88e32773e | -21.8033 | -56.2729 | 2026-07-07 15:10:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 100.7 |
 
 
 [Clique aqui para ver as próximas entradas](README25.md)
