@@ -29,25 +29,9 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 21ead13b-b29b-329d-a96e-5aaee6f730a2 | -6.9323 | -43.7264 | 2026-07-07 16:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 104.6 |
-| 5982371a-4ae5-38e8-bf86-fec6ae867d36 | -11.6592 | -44.5741 | 2026-07-07 16:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 138.7 |
-| 2c16e66f-131f-36f0-a7fe-3e7c97ba7955 | -13.3352 | -54.382 | 2026-07-07 16:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 101.3 |
-| 7bdce49a-d57d-3544-85af-d47c73a35017 | -11.6789 | -44.5479 | 2026-07-07 16:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 90.7 |
-| 366b2045-91d3-36c8-9577-0cf64aba524c | -13.278 | -54.3675 | 2026-07-07 16:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 95.7 |
-| af2208bc-1b90-3484-9186-d172726cc43c | -6.9135 | -43.7281 | 2026-07-07 16:30:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 152.4 |
-| b9b7820e-63f8-37b8-8485-7f031f51225b | -14.3896 | -58.5162 | 2026-07-07 16:30:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 96.7 |
-| fe8da382-29b8-367a-8262-9886df9d8a12 | -13.2783 | -54.3469 | 2026-07-07 16:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 117.6 |
-| fdcf8850-75f5-351e-a5fc-2b87da5c1037 | -13.2777 | -54.3882 | 2026-07-07 16:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 81.1 |
-| d4074e7e-3d58-3cc6-b6dc-82e9a8d644df | -13.3163 | -54.3634 | 2026-07-07 16:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 112.3 |
-| 95767eca-747c-354f-82e1-45a4196ae5c2 | -13.5289 | -52.9459 | 2026-07-07 16:30:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 84.4 |
-| 4b9a867c-c53a-39db-baa4-243d99acf2d5 | -11.6785 | -44.5712 | 2026-07-07 16:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 145.6 |
-| d9930116-b0b9-351d-bfdd-3176ff46138b | -11.6785 | -44.5712 | 2026-07-07 16:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 154.0 |
-| 807e808d-c422-3bd9-8c8a-00fd43c2813b | -13.2783 | -54.3469 | 2026-07-07 16:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 83.8 |
-| 50984f2c-d5d5-3763-b428-059dac5e0ef4 | -11.6789 | -44.5479 | 2026-07-07 16:40:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 95.7 |
-| b7b2d5ac-d437-316d-b199-d1181cc5eaa4 | -6.9323 | -43.7264 | 2026-07-07 16:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 159.4 |
-| 5add17ab-1bd1-369e-b1c0-abf894725cc2 | -13.5289 | -52.9459 | 2026-07-07 16:40:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 80.5 |
-| 03c9e4ff-a7bb-3384-b21d-890df5a848e8 | -13.2969 | -54.3861 | 2026-07-07 16:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 94.1 |
-| 4ac036f3-9694-3546-9fa0-ae6a68eab7a8 | -6.9135 | -43.7281 | 2026-07-07 16:40:00 | GOES-19 | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | 263.9 |
-| 87cdff33-c1de-31b0-ad12-4e77c05f9f7c | -13.3157 | -54.4047 | 2026-07-07 16:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 45.8 |
+| b7421109-c508-39f7-9a96-c5da67c97672 | -13.3355 | -54.3614 | 2026-07-08 15:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 161.9 |
+| 16e7bc37-7506-36cf-8d08-af1768e509dc | -13.2966 | -54.4068 | 2026-07-08 15:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 195.2 |
+| 541d2d4a-5cae-36a2-a080-2009c63a27cf | -14.6018 | -52.0506 | 2026-07-08 15:40:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 63.0 |
+| e765f3cb-88d1-31a6-a6b8-2162badab38b | -13.2774 | -54.4088 | 2026-07-08 15:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 194.0 |
 
 
