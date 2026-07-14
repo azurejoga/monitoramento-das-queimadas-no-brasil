@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b46ab6c4-5499-3834-8c38-28fbd70ccd98 | -9.3821 | -46.7114 | 2026-07-13 00:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 149.7 |
-| 446971ab-9e6f-3d99-b8e7-83c9b13ca83b | -9.344 | -46.7379 | 2026-07-13 00:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 82.8 |
-| 5fb05786-e89c-390b-b3c6-81d2f49ceb27 | -14.6447 | -45.869 | 2026-07-13 00:00:00 | GOES-19 | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 61.1 |
-| 7b5ce03e-160f-3752-91cd-fe7c38ffc30a | -9.3629 | -46.7359 | 2026-07-13 00:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 126.5 |
-| 5c7802d9-c28c-3dfe-bb78-cb63566de3cf | -8.8881 | -48.5023 | 2026-07-13 00:00:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 141.2 |
-| 957b6006-1df3-3b34-9872-39a6bb45f543 | -10.2056 | -50.0756 | 2026-07-13 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 57.8 |
-| ec822028-e6f3-3fd7-98ee-06d25106d027 | -10.2053 | -50.097 | 2026-07-13 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 77.7 |
-| 9f0b5bde-c5b4-3edc-9bf5-63ad29279b18 | -10.2245 | -50.0736 | 2026-07-13 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 70.0 |
-| 9aefd38d-4648-30a9-995e-c00f54ed4511 | -9.3632 | -46.7135 | 2026-07-13 00:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 139.3 |
-| ff51e3cd-4414-33a0-bb63-817a1db544c2 | -10.2242 | -50.0951 | 2026-07-13 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 60.2 |
-| 609eec20-ea3b-365c-8c9c-808b182a5e5f | -9.3821 | -46.7114 | 2026-07-13 00:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 118.0 |
-| 7667b968-b290-370a-935e-d01f4c20ca46 | -9.3632 | -46.7135 | 2026-07-13 00:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 92.3 |
-| 909f16dd-2d1b-31bc-9c92-d25215aaf7c9 | -10.2248 | -50.0522 | 2026-07-13 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| d8560d21-4026-3e48-8222-cd9d43a3c0b6 | -10.2053 | -50.097 | 2026-07-13 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 67.7 |
-| 5bf6a654-b5e0-3f7b-b7a6-6e52ffa5cf65 | -10.2245 | -50.0736 | 2026-07-13 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 89.3 |
-| 83fc8366-17eb-35cd-8d4e-f8f798ae010e | -8.8881 | -48.5023 | 2026-07-13 00:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 103.6 |
-| ecd6c27d-4e73-3f25-8765-63073b457240 | -9.3629 | -46.7359 | 2026-07-13 00:10:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 86.9 |
-| f789fa36-d9ec-3b03-b522-073017e62d04 | -10.2437 | -50.0503 | 2026-07-13 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| eaf04a84-b5d5-3f2f-aa56-54483d301a77 | -10.2056 | -50.0756 | 2026-07-13 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 51.1 |
-| ccf9a51a-8c4e-3854-aafb-deeb0684371c | -8.8884 | -48.4805 | 2026-07-13 00:10:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 69.7 |
-| a48f63eb-e421-3ca3-815a-46d4779d9b2d | -10.2434 | -50.0717 | 2026-07-13 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 66.8 |
-| 15d6dc87-b7f9-3a95-88b8-b7b88d8db706 | -8.8881 | -48.5023 | 2026-07-13 00:20:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 99.2 |
-| 2eac4ebc-014d-3402-b617-071bad19a7b4 | -10.2245 | -50.0736 | 2026-07-13 00:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 58.9 |
-| 1c171eab-08da-3aa2-8c74-1edce4d7dc33 | -10.2437 | -50.0503 | 2026-07-13 00:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 52.4 |
-| a0f8ebc7-2d34-37a7-b60b-413052c595ae | -10.2434 | -50.0717 | 2026-07-13 00:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 58.8 |
-| bea83f1b-e148-3c44-bf19-5821acc18d3a | -8.0857 | -47.0826 | 2026-07-13 00:23:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 62983c32-570b-3ecd-b86f-4048c8554050 | -10.2059 | -50.087601 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ac37703d-376a-386d-8efb-cf841e63a609 | -10.2025 | -50.072899 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| d67d310f-4175-3332-bf30-a72323ed5f7d | -9.3787 | -46.710201 | 2026-07-13 00:23:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 5378642e-4afb-33c3-a275-9008d75b6724 | -5.7955 | -45.099998 | 2026-07-13 00:23:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| f2f73dc1-e785-3185-a086-346e8c5f3797 | -10.2301 | -50.058601 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 8f6e3244-a019-3d4d-8f4c-f3f3e2af3087 | -4.1858 | -47.841301 | 2026-07-13 00:23:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 8af0a9f3-2bd3-37bb-8d25-454835146f3c | -8.0883 | -47.093601 | 2026-07-13 00:23:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 96673ce0-5926-3c84-9420-14e648383859 | -9.3423 | -46.7309 | 2026-07-13 00:23:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 13553d4f-d7dd-3bd9-94b0-4534f2351d28 | -6.9466 | -43.718899 | 2026-07-13 00:23:00 | METOP-B | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 358106e0-9ad5-3f31-b580-5bc4d3f8387d | -10.139 | -50.111 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 839d5cac-8024-3d8e-a3a3-5aab19bb6f94 | -10.2284 | -50.051201 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 37e2f7a2-7ee8-3db9-9427-825542d8c7c6 | -8.1292 | -47.8713 | 2026-07-13 00:23:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| e811e58d-26aa-3a72-a4a6-16f519408755 | -2.7932 | -49.512699 | 2026-07-13 00:23:00 | METOP-B | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 93184c01-0f31-394b-9241-dbca481986b1 | -8.8838 | -48.488201 | 2026-07-13 00:23:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ae94bcc6-9126-3857-821c-f7bcdb2a38d5 | -6.9419 | -43.6996 | 2026-07-13 00:23:00 | METOP-B | GUADALUPE | PIAUÍ | Brasil | 2204501 | 22 | 33 | nan | nan | nan | Cerrado | nan |
-| 93839e8b-701d-387f-b7f3-2ddb6690b33e | -10.2382 | -50.048901 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 20a0fc1b-da49-3a43-9f20-55994c70950b | -9.345 | -46.742001 | 2026-07-13 00:23:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 0a9ba1a7-dcdd-356a-a4c3-c0ddd301e6a7 | -10.1343 | -50.135399 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| dea06c81-bf13-36c2-82d3-bc98189cfd8d | -9.3521 | -46.7285 | 2026-07-13 00:23:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 73e09060-4402-3125-823b-032cf9dc718a | -10.1407 | -50.118401 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 22158b85-759f-3b2e-b992-cff0b7097787 | -16.1527 | -49.977501 | 2026-07-13 00:23:00 | METOP-B | ITABERAÍ | GOIÁS | Brasil | 5210406 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| 238f27e2-f0dd-39e8-a112-0d40033ca005 | -16.1625 | -49.975201 | 2026-07-13 00:23:00 | METOP-B | ITABERAÍ | GOIÁS | Brasil | 5210406 | 52 | 33 | nan | nan | nan | Cerrado | nan |
-| ad450bb6-93a9-3903-a222-b462be26d296 | -8.1268 | -47.8615 | 2026-07-13 00:23:00 | METOP-B | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| bafbd718-c4af-3367-a2c4-6d916b2992b5 | -9.369 | -46.712601 | 2026-07-13 00:23:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| d39cddc1-f715-3108-82a5-74de2d9ae2c5 | -13.1922 | -48.3209 | 2026-07-13 00:23:00 | METOP-B | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4cb9438c-8037-35e3-9106-a9ec1d8ca0f7 | -10.2203 | -50.060902 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 908f27f9-977a-3d63-b8ce-a5b1eb695610 | -10.1488 | -50.1087 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 45ac8064-c692-3877-8acc-583ea5c1f9a3 | -9.376 | -46.6991 | 2026-07-13 00:23:00 | METOP-B | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| a5c925e6-a2cc-3f24-91d3-fd35ecd40d1d | -8.874 | -48.490501 | 2026-07-13 00:23:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4bb7c251-6648-3ee9-80db-098fe931078e | -5.7858 | -45.102299 | 2026-07-13 00:23:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 8ed8f2b2-3028-3059-a681-7fc93eb51d65 | -8.8818 | -48.479301 | 2026-07-13 00:23:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| a3c8c741-b1b3-3887-b5b8-6bd3d5a00e87 | -10.2399 | -50.056301 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 32016816-c1b3-37c6-a796-905c2d994554 | -10.2042 | -50.080299 | 2026-07-13 00:23:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| cae571f3-08cf-3860-bef1-a4f96f08984f | -8.8859 | -48.497002 | 2026-07-13 00:23:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 1bc642b7-0a0c-3507-be42-d01711171932 | -8.8881 | -48.5023 | 2026-07-13 00:30:00 | GOES-19 | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| a379f4fd-bfaf-35e4-9c5e-60352a908034 | -13.19779 | -48.33535 | 2026-07-13 00:37:00 | TERRA_M-M | PALMEIRÓPOLIS | TOCANTINS | Brasil | 1715754 | 17 | 33 | nan | nan | nan | Cerrado | 15.5 |
-| fe6234f2-0edb-36ca-81f2-4a4ffed95460 | -16.50142 | -52.60361 | 2026-07-13 00:37:00 | TERRA_M-M | BALIZA | GOIÁS | Brasil | 5203104 | 52 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| a69e09c8-3879-3cc8-8c71-c609728ffa39 | -10.14877 | -50.1189 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 36.8 |
-| 5f33d330-2fd4-3677-a767-76d945baf219 | -8.88268 | -48.50357 | 2026-07-13 00:39:00 | TERRA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 98.7 |
-| e93b5fe4-88ef-34a5-93ca-32c36af975f9 | -10.16165 | -50.11674 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 68.9 |
-| 71cec033-ae82-37c3-9ee0-371e973e4756 | -10.2196 | -50.06516 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 24.0 |
-| 03cb940c-6ecb-3b84-b3da-2877c728949b | -9.38554 | -46.73088 | 2026-07-13 00:39:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 38.6 |
-| cb8e8f6c-167c-3392-808f-27b2a08e5bf6 | -10.23066 | -50.05672 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 51.3 |
-| a27eedf9-ba85-30f9-94da-d4015d30a167 | -9.86825 | -57.8061 | 2026-07-13 00:39:00 | TERRA_M-M | NOVA BANDEIRANTES | MATO GROSSO | Brasil | 5106158 | 51 | 33 | nan | nan | nan | Amazônia | 12.3 |
-| e9818051-b839-3600-b454-4a72db787f79 | -8.87953 | -48.48137 | 2026-07-13 00:39:00 | TERRA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 27.3 |
-| 6c12217a-8e17-3afe-ba52-3aca0ad1fb49 | -9.34536 | -46.74984 | 2026-07-13 00:39:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 29.0 |
-| eb16921f-437b-3516-809b-4aac24d36608 | -8.08893 | -47.09399 | 2026-07-13 00:39:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 39.7 |
-| 9fb50392-b219-3ed9-a885-015943ccde2e | -9.38242 | -46.7365 | 2026-07-13 00:39:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 39.0 |
-| fd8cd495-f919-3745-90a1-4e8fbc3e9cdc | -10.13745 | -50.12637 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 75.8 |
-| 79181348-70a1-3671-9e68-08a551fc0df9 | -10.14065 | -50.14663 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| bca9d3aa-1d9d-3ff9-8738-32977909c3d4 | -10.15033 | -50.1242 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 39.0 |
-| c83e8699-46fa-381c-8795-dc3fd04950ae | -9.37588 | -46.69803 | 2026-07-13 00:39:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 34.3 |
-| 4bfbafee-2cf3-3d2a-b67f-52721951508b | -9.34858 | -46.74244 | 2026-07-13 00:39:00 | TERRA_M-M | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 31.4 |
-| 6f70cfe8-07c7-3e1b-a360-47a537d3bb78 | -10.23252 | -50.06297 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 81.7 |
-| 74fa65a5-e6d1-3a30-9736-24946e55568e | -8.12792 | -47.89157 | 2026-07-13 00:39:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 29.8 |
-| 748e7d8f-b249-30f7-8f2c-4d1d92c69a6b | -8.88416 | -48.51022 | 2026-07-13 00:39:00 | TERRA_M-M | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| 6bae6ba3-c574-380c-b8ff-50c61211c70c | -10.23403 | -50.07711 | 2026-07-13 00:39:00 | TERRA_M-M | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 35.7 |
-| 3001fa8c-d9b4-333f-9ef5-308829f3376f | -8.13637 | -47.88486 | 2026-07-13 00:39:00 | TERRA_M-M | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 34.2 |
-| 33c184c1-5cca-34f2-88fe-46467b674848 | -10.2245 | -50.0736 | 2026-07-13 00:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| 140965d8-3f52-351d-ab6f-4b43b7e02f01 | -10.2056 | -50.0756 | 2026-07-13 00:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 55.9 |
-| ecbe5f47-2c69-3164-ba44-154e41fb1c95 | -9.3821 | -46.7114 | 2026-07-13 00:40:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 84.7 |
-| f5c57587-4501-32b7-953e-bb7c9d85cf35 | -10.2053 | -50.097 | 2026-07-13 00:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 78.6 |
-| e8cf0b13-25f0-3490-bc5e-02009240ed8b | -10.2434 | -50.0717 | 2026-07-13 00:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 54.2 |
-| ecad2cef-3a80-32b9-8067-9d869fe28ec8 | -10.2292 | -50.062302 | 2026-07-13 00:49:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 81409ca8-f9a0-398b-8df8-04bda3bbc9c3 | -8.1366 | -47.881699 | 2026-07-13 00:49:00 | METOP-C | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f8ddd168-c8b0-3b44-bc27-05193b6b7f20 | -10.2375 | -50.053101 | 2026-07-13 00:49:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 080c2135-3ebf-3556-9813-868b4beff8b8 | -10.1536 | -50.137798 | 2026-07-13 00:49:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 8b6f1dfb-eed5-3be7-8d9a-70dd12ab37e4 | -10.1438 | -50.139999 | 2026-07-13 00:49:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 4ded81cf-c37f-367d-b8e8-ff44f542fd7d | -8.0951 | -47.092899 | 2026-07-13 00:49:00 | METOP-C | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 88838dd5-0337-3280-969b-60ef8fa995de | -9.3805 | -46.7229 | 2026-07-13 00:49:00 | METOP-C | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | nan |
-| 83c177c8-f012-3ddd-a93a-3dcd6803be8f | -8.1347 | -47.873699 | 2026-07-13 00:49:00 | METOP-C | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 93339500-35b4-3612-8eda-bee68ded1214 | -8.8886 | -48.493698 | 2026-07-13 00:49:00 | METOP-C | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| ce022178-1f0d-3926-8eb3-ec7d62e3ca4e | -10.2061 | -50.096699 | 2026-07-13 00:49:00 | METOP-C | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| f4531d05-60af-381f-aef5-90d393ed9104 | -5.7964 | -45.112801 | 2026-07-13 00:49:00 | METOP-C | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 878a0fb4-54e4-3ff2-91e2-dd0254616db7 | -18.7743 | -52.4061 | 2026-07-14 00:00:00 | GOES-19 | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 70.9 |
+| 8d13c585-b501-3dd0-b137-91cb352ef37d | -8.4985 | -48.0813 | 2026-07-14 00:00:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 77.3 |
+| f1ef3765-cfc5-375c-af44-e107b63af6b2 | -8.5175 | -48.0577 | 2026-07-14 00:00:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 108.5 |
+| ee593fc0-7b8b-30f6-826c-651a8ff55bb4 | -18.7943 | -52.4027 | 2026-07-14 00:00:00 | GOES-19 | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 63.3 |
+| 11dddc4a-1d76-36b5-9218-b151ed504d7b | -10.0731 | -50.1104 | 2026-07-14 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| e75cfbb4-d806-3f80-8a7e-da44948170a1 | -10.0728 | -50.1318 | 2026-07-14 00:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 96.2 |
+| 60ca4735-2c3e-3570-b651-c01bf10e8c72 | -8.5173 | -48.0796 | 2026-07-14 00:00:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 96.3 |
+| 79dd343b-d033-39ac-83db-97715df8af1f | -8.4987 | -48.0594 | 2026-07-14 00:00:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 87.1 |
+| 3fa449d5-9409-3c4f-b93d-0100a9c52922 | -10.191 | -50.108101 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 07f5ff3c-0e47-34aa-9ced-9238bd3598b4 | -8.5099 | -48.053398 | 2026-07-14 00:03:00 | METOP-B | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f3eadfbe-af03-3885-bf4d-1594669f47a1 | -6.6708 | -47.5201 | 2026-07-14 00:03:00 | METOP-B | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 3392950a-33e3-3b15-ab33-3b7b7f748893 | -12.4471 | -49.4422 | 2026-07-14 00:03:00 | METOP-B | FIGUEIRÓPOLIS | TOCANTINS | Brasil | 1707652 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| e584ec13-c0c0-3c5f-a2a8-3c0d804f88f0 | -8.5115 | -48.060398 | 2026-07-14 00:03:00 | METOP-B | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 3ae517d9-baab-3f0c-a0de-75df6b4266c6 | -19.1385 | -43.514301 | 2026-07-14 00:03:00 | METOP-B | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| e42c1e42-f9d6-3cf0-9512-4bb957709e1d | -4.3757 | -47.760399 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 082f21f6-6ad6-3682-975a-ad64f0e213f9 | -7.9062 | -48.254101 | 2026-07-14 00:03:00 | METOP-B | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fae610b9-4f6d-3c2a-978f-d46e68317b35 | -7.7495 | -45.015099 | 2026-07-14 00:03:00 | METOP-B | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| bbab3c10-43c5-3402-a853-16a3cb2e55b6 | -10.0875 | -50.1035 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 06743931-b359-345e-aadb-925a9f8d9ad2 | -18.788401 | -52.382999 | 2026-07-14 00:03:00 | METOP-B | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| d5898f93-f58f-3a75-801c-35688f1b67d7 | -6.483 | -42.204899 | 2026-07-14 00:03:00 | METOP-B | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 9b52efda-0431-30b2-96a9-204f1ca62ec1 | -8.5017 | -48.062599 | 2026-07-14 00:03:00 | METOP-B | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| bad527ee-3559-3ab2-8bd6-8ffc331791d5 | -19.1402 | -43.521599 | 2026-07-14 00:03:00 | METOP-B | CONCEIÇÃO DO MATO DENTRO | MINAS GERAIS | Brasil | 3117504 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 7ba8bbbc-9b52-3381-a457-045b106e1e03 | -11.8921 | -43.8311 | 2026-07-14 00:03:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| d2f30be8-a69a-3d78-9c9d-e8897330929a | -12.4447 | -49.576801 | 2026-07-14 00:03:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| fb943613-2d68-3f8a-99a6-4880b3358995 | -4.3741 | -47.753601 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| a6ea8e66-1bf8-32c7-8cac-7d078bcba5d3 | -20.6534 | -48.664001 | 2026-07-14 00:03:00 | METOP-B | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| e7a96ae3-2334-3593-b4b8-50d904f17430 | -9.6958 | -47.692799 | 2026-07-14 00:03:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a1e9e001-d46a-3094-a6e1-39f7458c8b27 | -4.3772 | -47.7673 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 806ef55c-3e18-31a4-adb4-f5f1e758a52f | -3.9234 | -47.811199 | 2026-07-14 00:03:00 | METOP-B | ULIANÓPOLIS | PARÁ | Brasil | 1508126 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| b948aff3-bc2a-3711-bf50-a7b3c2fd6b42 | -8.5032 | -48.069599 | 2026-07-14 00:03:00 | METOP-B | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2db3fb77-edfa-31c8-8e16-da3b4186e816 | -4.4945 | -48.286499 | 2026-07-14 00:03:00 | METOP-B | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 74930c29-7437-372d-8cf3-e11424ebefc5 | -10.068 | -50.1077 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 78fa1562-6feb-3df4-b752-196f3d973075 | -5.8232 | -43.472401 | 2026-07-14 00:03:00 | METOP-B | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8df2e2a4-4f05-3996-8668-d303bb24ead5 | -4.0183 | -48.048199 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d8e3783b-aa7a-3746-a073-e0ddfb122176 | -2.9628 | -48.986698 | 2026-07-14 00:03:00 | METOP-B | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| f07efc5b-9ac6-39e6-9f74-3258137064b6 | -10.7512 | -42.105 | 2026-07-14 00:03:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 2b4d2997-a6eb-3ca2-b59c-f8b8aab688c5 | -2.7944 | -49.519199 | 2026-07-14 00:03:00 | METOP-B | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| cc0dad9d-cdd3-338a-87ff-c6847d80b5c3 | -5.9419 | -46.351501 | 2026-07-14 00:03:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 767f7e37-1d11-351b-80f8-8ff0da2c5d78 | -8.9452 | -47.604198 | 2026-07-14 00:03:00 | METOP-B | BOM JESUS DO TOCANTINS | TOCANTINS | Brasil | 1703305 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1310e0f9-2149-30df-bb8f-fc8d63b17974 | -10.0716 | -50.124802 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f4959ee2-a187-32c2-8246-58609ba3a3f2 | -7.753 | -45.0303 | 2026-07-14 00:03:00 | METOP-B | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| d8308a91-12aa-344a-8372-33654e30a54a | -7.9046 | -48.247002 | 2026-07-14 00:03:00 | METOP-B | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 2a8a0e97-edd1-38b4-a1d9-d5fbfdde2e64 | -7.0143 | -45.405602 | 2026-07-14 00:03:00 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 8ab98ba1-d11b-303d-9c4e-e588cc002e9d | -5.3094 | -47.2416 | 2026-07-14 00:03:00 | METOP-B | JOÃO LISBOA | MARANHÃO | Brasil | 2105500 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 00894a1d-3093-363d-89b0-d311d516fe2e | -5.3063 | -47.227798 | 2026-07-14 00:03:00 | METOP-B | JOÃO LISBOA | MARANHÃO | Brasil | 2105500 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 3a2fa65e-5ab7-30c7-8188-03ac5dff3d65 | -5.3078 | -47.234699 | 2026-07-14 00:03:00 | METOP-B | JOÃO LISBOA | MARANHÃO | Brasil | 2105500 | 21 | 33 | nan | nan | nan | Amazônia | nan |
+| 8cfad648-286f-3273-b7c7-9f26616373c7 | -5.909 | -43.618999 | 2026-07-14 00:03:00 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| aa1488fd-1421-33fd-93e8-b478814befde | -4.0198 | -48.055 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 45e0c268-e16d-3f14-bd30-78e5f325c69b | -9.6973 | -47.699799 | 2026-07-14 00:03:00 | METOP-B | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 5910c923-182e-3d2b-910d-345c1c76e214 | -12.4545 | -49.574699 | 2026-07-14 00:03:00 | METOP-B | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0e4a4778-cf6d-3cd0-af7b-a76339686ec1 | -10.0796 | -50.114101 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 9860f33d-4d87-3d91-84ab-3302dc31b01d | -11.8903 | -43.823299 | 2026-07-14 00:03:00 | METOP-B | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| a5620dc7-fb10-38c8-83cc-7cafb731dbd9 | -5.833 | -43.4702 | 2026-07-14 00:03:00 | METOP-B | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| f18f9980-c201-345c-844d-5c71dae8b44d | -10.0778 | -50.105598 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 29f05e80-f215-3981-bf57-262334394604 | -5.9069 | -43.609798 | 2026-07-14 00:03:00 | METOP-B | LAGOA DO MATO | MARANHÃO | Brasil | 2105922 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 00c63299-3d7e-3133-86dc-e4ca9e8f0d85 | -6.6692 | -47.513302 | 2026-07-14 00:03:00 | METOP-B | PALMEIRAS DO TOCANTINS | TOCANTINS | Brasil | 1713809 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 1f04c30d-a9d2-3bac-8d48-1de1c77c73fb | -18.775801 | -52.369099 | 2026-07-14 00:03:00 | METOP-B | APORÉ | GOIÁS | Brasil | 5201504 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 74abd7e5-1670-306f-9579-231fbfca89b5 | -12.4596 | -46.509701 | 2026-07-14 00:03:00 | METOP-B | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 5c8296e7-c712-3e81-8ccb-94eba73cd4da | -18.1752 | -46.902199 | 2026-07-14 00:03:00 | METOP-B | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| dcf5e1cd-57ed-3f99-bad8-f81eb85b51b8 | -11.5762 | -48.391201 | 2026-07-14 00:03:00 | METOP-B | SÃO VALÉRIO | TOCANTINS | Brasil | 1720499 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 0bd2bca1-4c64-3970-bbda-a2f9cb6bf835 | -6.4882 | -42.226898 | 2026-07-14 00:03:00 | METOP-B | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| eb395ec5-2302-3b18-8407-750e48bf900f | -10.0954 | -50.0928 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 43cc4139-4b80-3f5c-8747-193c2d3b69d6 | -4.0085 | -48.0504 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 1df0827b-ab83-3cd7-8ba1-2d2aae369621 | -10.0838 | -50.086399 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| eff254c0-f5d3-3149-8ff3-a3df2afefa0a | -8.7343 | -48.322701 | 2026-07-14 00:03:00 | METOP-B | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| a9c815d4-fc06-37cb-885d-096b5611caaf | -7.016 | -45.412998 | 2026-07-14 00:03:00 | METOP-B | SAMBAÍBA | MARANHÃO | Brasil | 2109700 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 3ec4acb5-93c3-3e4d-8f99-a160ab5c737c | -5.2528 | -42.666199 | 2026-07-14 00:03:00 | METOP-B | TERESINA | PIAUÍ | Brasil | 2211001 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| e13f8aff-de93-39d8-86e8-3400a57d4599 | -10.0618 | -50.126999 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 3c5d0e5e-4539-39fc-9d95-a87c2769eb98 | -5.9403 | -46.344398 | 2026-07-14 00:03:00 | METOP-B | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| ab117d14-908d-3400-9e87-f6b7ddb0b1b4 | -8.903 | -50.174 | 2026-07-14 00:03:00 | METOP-B | SANTA MARIA DAS BARREIRAS | PARÁ | Brasil | 1506583 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| d90eda1a-5616-3709-b52d-071af56fdf0b | -6.4758 | -42.2183 | 2026-07-14 00:03:00 | METOP-B | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| ddd34c3d-5133-3ce2-8286-ca763f482e3b | -2.7928 | -49.512199 | 2026-07-14 00:03:00 | METOP-B | BAIÃO | PARÁ | Brasil | 1501204 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| bd3c49c3-3d03-30a2-a70a-406c526757df | -5.2439 | -44.927299 | 2026-07-14 00:03:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 828c495f-124d-39b5-87ca-a441d0afb4f1 | -6.8935 | -47.960999 | 2026-07-14 00:03:00 | METOP-B | WANDERLÂNDIA | TOCANTINS | Brasil | 1722081 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| ebcb0bb1-564f-3438-87ec-17d01d2a72c2 | -5.242 | -44.9193 | 2026-07-14 00:03:00 | METOP-B | BARRA DO CORDA | MARANHÃO | Brasil | 2101608 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| 0d21d545-be94-3178-9269-9cf56d0d931a | -18.7815 | -52.400799 | 2026-07-14 00:03:00 | METOP-B | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | nan |
+| 84fb9b5c-8ab9-3368-abec-ffb224720aaa | -8.5001 | -48.055599 | 2026-07-14 00:03:00 | METOP-B | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| f2176c35-7022-31cf-8a51-4e9e8e2392ac | -18.1768 | -46.91 | 2026-07-14 00:03:00 | METOP-B | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| 9b59dc80-761f-3890-a958-79cf96a1885a | -20.6553 | -48.674 | 2026-07-14 00:03:00 | METOP-B | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Cerrado | nan |
+| 7775ed06-ad6a-32a6-b521-ff214b30d9bc | -18.778601 | -52.384899 | 2026-07-14 00:03:00 | METOP-B | APORÉ | GOIÁS | Brasil | 5201504 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| e3a565ec-3de6-3205-b9e1-b383be697797 | -10.0893 | -50.112 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 4d15f857-229e-3b76-a82b-3fd6f937115d | -10.1891 | -50.099499 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 63f1f85f-45cd-31c8-bfbf-5ac5b9e42b96 | -18.178499 | -46.917801 | 2026-07-14 00:03:00 | METOP-B | LAGAMAR | MINAS GERAIS | Brasil | 3137106 | 31 | 33 | nan | nan | nan | Cerrado | nan |
+| c1345322-af6b-3031-a18d-aceeff62ecee | -5.8254 | -43.4818 | 2026-07-14 00:03:00 | METOP-B | PARNARAMA | MARANHÃO | Brasil | 2107803 | 21 | 33 | nan | nan | nan | Cerrado | nan |
+| a303d068-bb5e-38bf-b60c-16cf9b7a81d9 | -10.0698 | -50.116199 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| 3b86c5ec-fb24-3c76-965e-1f7fc51c04db | -6.4856 | -42.2159 | 2026-07-14 00:03:00 | METOP-B | VÁRZEA GRANDE | PIAUÍ | Brasil | 2211407 | 22 | 33 | nan | nan | nan | Caatinga | nan |
+| 98333b8a-8f7a-3b59-9236-11e62853ee65 | -10.761 | -42.1026 | 2026-07-14 00:03:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 73028c89-2ec8-3d36-bd36-c0e10d997101 | -10.7489 | -42.095299 | 2026-07-14 00:03:00 | METOP-B | ITAGUAÇU DA BAHIA | BAHIA | Brasil | 2915353 | 29 | 33 | nan | nan | nan | Caatinga | nan |
+| 320d5bc5-ccfe-313f-bb54-51d0fde474d6 | -7.7513 | -45.022701 | 2026-07-14 00:03:00 | METOP-B | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | nan |
+| 819c1a8d-650d-3e95-a0ce-6c86319b5405 | -10.0936 | -50.084301 | 2026-07-14 00:03:00 | METOP-B | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | nan |
+| b1836fd3-4362-37e5-84ae-f732afd22ec7 | -4.01 | -48.057201 | 2026-07-14 00:03:00 | METOP-B | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | nan |
+| 86f880f4-5ed1-3937-be3b-476b7ebd9f75 | -10.092 | -50.1085 | 2026-07-14 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 69.7 |
+| 5e52438f-67f1-371f-a859-b93e0359f471 | -8.5175 | -48.0577 | 2026-07-14 00:10:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 66.0 |
+| f1bbb1a1-eba4-322a-a78a-a3682b69f660 | -10.0728 | -50.1318 | 2026-07-14 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 121.7 |
+| 5fb81090-7be1-3e97-b31d-6eef1d803f5d | -18.7943 | -52.4027 | 2026-07-14 00:10:00 | GOES-19 | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 56.5 |
+| 74a9bf5f-30c6-3bcb-89c9-4a133c7519ce | -18.7743 | -52.4061 | 2026-07-14 00:10:00 | GOES-19 | CASSILÂNDIA | MATO GROSSO DO SUL | Brasil | 5002902 | 50 | 33 | nan | nan | nan | Cerrado | 63.5 |
+| 7b6b8246-9d34-36a9-b0b0-37e705a2a4c4 | -8.4987 | -48.0594 | 2026-07-14 00:10:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 105.3 |
+| 9cc3addb-1073-3a76-8f32-521ecb11599d | -8.4985 | -48.0813 | 2026-07-14 00:10:00 | GOES-19 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 95.4 |
+| 927a2b32-7947-37bb-bacd-7b24385a61d2 | -10.0731 | -50.1104 | 2026-07-14 00:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 105.7 |
+| 52373558-e767-3012-9c43-cc95a251549c | -10.0539 | -50.1337 | 2026-07-14 00:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 46.8 |
 
 
 [Clique aqui para ver as próximas entradas](README2.md)
