@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 1738f8e2-cf0d-3264-80d5-426d3aceb296 | -10.85895 | -44.44082 | 2026-07-10 05:10:00 | NPP-375D | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| f9d01918-ea81-3843-8363-258fbcf7564b | -12.85007 | -58.31123 | 2026-07-10 05:10:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 88389aa5-3a57-3736-8733-112cf60a03d1 | -13.27082 | -45.1526 | 2026-07-10 05:10:00 | NPP-375D | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 2.5 |
-| 59066598-1bbc-3094-8047-50efca8bd17e | -13.37408 | -54.37068 | 2026-07-10 05:10:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| a3265735-ae29-3202-9671-ff19d705dc19 | -8.83318 | -48.33148 | 2026-07-10 05:10:00 | NPP-375D | GUARAÍ | TOCANTINS | Brasil | 1709302 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 4a08a7b9-cc58-3ae4-ad54-7da7ba6efdba | -13.30823 | -54.34504 | 2026-07-10 05:10:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 8e248b5e-08a0-32b2-8b53-f5533018c8f3 | -11.28054 | -55.796 | 2026-07-10 05:10:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| a045b65a-5a52-39c6-a064-61d0b58d9e21 | -12.851 | -58.31038 | 2026-07-10 05:10:00 | NPP-375D | BRASNORTE | MATO GROSSO | Brasil | 5101902 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 5b0acb22-2053-3e81-8e3a-8e457b6559d5 | -13.37351 | -54.3744 | 2026-07-10 05:10:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 67a1b528-8efd-3935-8efc-d9112c02b3a1 | -13.76336 | -46.26618 | 2026-07-10 05:10:00 | NPP-375D | GUARANI DE GOIÁS | GOIÁS | Brasil | 5209408 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 0a6da440-e86f-3fe9-ae7d-ec34631fd0e3 | -7.90709 | -55.42638 | 2026-07-10 05:10:00 | NPP-375D | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| bd4b9c64-a7db-3a50-a93a-c07004561041 | -11.27446 | -55.79139 | 2026-07-10 05:10:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 2.9 |
-| c9c728aa-2e10-3b5d-90d8-592c697f5dc8 | -12.49419 | -43.77571 | 2026-07-10 05:10:00 | NPP-375D | BREJOLÂNDIA | BAHIA | Brasil | 2904407 | 29 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| e2fb6c51-d297-37ad-8954-ad581b1382cc | -12.8478 | -44.35678 | 2026-07-10 05:10:00 | NPP-375D | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| d564cf1f-5ce8-38ea-a5b9-b47002718011 | -10.4052 | -49.44638 | 2026-07-10 05:10:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f839efbc-3d88-311a-8b60-65897061be30 | -11.17918 | -55.02535 | 2026-07-10 05:10:00 | NPP-375D | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 242753bc-432a-3aa4-9052-86139b25c472 | -12.45197 | -49.58126 | 2026-07-10 05:10:00 | NPP-375D | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| e86cc949-4d75-3247-80cf-8c7f927c73ed | -11.46538 | -47.60585 | 2026-07-10 05:10:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| d9dd099b-76a8-3c64-be78-26b415d7cdaa | -14.55084 | -59.1523 | 2026-07-10 05:10:00 | NPP-375D | CONQUISTA D'OESTE | MATO GROSSO | Brasil | 5103361 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 3e53d790-7bc9-33c3-8fcb-89c0dbe68e22 | -13.75607 | -46.2802 | 2026-07-10 05:10:00 | NPP-375D | GUARANI DE GOIÁS | GOIÁS | Brasil | 5209408 | 52 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 0428415d-20eb-3973-8293-10ea988b4967 | -15.6658 | -56.0691 | 2026-07-10 05:12:00 | NPP-375D | CUIABÁ | MATO GROSSO | Brasil | 5103403 | 51 | 33 | nan | nan | nan | Pantanal | 3.6 |
-| 6dd9f64f-34dc-3d41-89cb-05d37f365455 | -18.02965 | -54.35716 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| ea70a9ca-40f0-3976-8894-3845f666ef16 | -19.60022 | -47.60725 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| a0f1698e-bb3b-35d6-a877-a2bd3b112f7a | -17.53387 | -54.00107 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 52f52231-0c92-350e-b05f-0d34c3ee8763 | -18.0261 | -54.35661 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 5dd01344-4731-3007-994a-ee1de29f1a90 | -19.59435 | -47.61218 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 9da5cf6f-a390-33dd-a801-bafa261721ae | -17.54045 | -54.00633 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 737346f5-935e-3f4a-ad2b-42449040b2aa | -20.1539 | -54.40297 | 2026-07-10 05:12:00 | NPP-375D | JARAGUARI | MATO GROSSO DO SUL | Brasil | 5004908 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 123d510e-ad76-3aab-b106-8fbcd4399c07 | -19.58851 | -47.61337 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 775a1bc0-54c5-3ff0-b08a-009d890b024e | -17.53687 | -54.00578 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 2d77a304-b8b0-3880-89e0-d36e4fa1f83b | -17.54104 | -54.00216 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 1575860f-21b5-3bfb-b10f-a9900e164943 | -18.02906 | -54.36132 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 5b18738c-3af8-3473-a615-9da1ad0af0a8 | -18.10135 | -54.0051 | 2026-07-10 05:12:00 | NPP-375D | ALCINÓPOLIS | MATO GROSSO DO SUL | Brasil | 5000252 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 25457c92-0501-3b15-91d9-7174aaba2d9e | -19.66677 | -47.60798 | 2026-07-10 05:12:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 68b8e420-70f7-3c7d-9aa4-67549f0ca1cb | -16.52861 | -47.74051 | 2026-07-10 05:12:00 | NPP-375D | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 1f045b7d-b2c4-34dc-907a-e1a41f75c88a | -17.53226 | -54.0028 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 5c0ddce7-1453-3977-b037-b20e7baccbfc | -18.02551 | -54.36076 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 86c7ad57-89a5-3472-a45e-54fe5cd394f5 | -16.47144 | -49.76559 | 2026-07-10 05:12:00 | NPP-375D | AVELINÓPOLIS | GOIÁS | Brasil | 5202809 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 98046699-a667-3acd-8451-a6c087518cdf | -17.53804 | -53.99742 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| f1f33666-7b31-3a29-8602-0304eaefed7d | -21.08611 | -55.76959 | 2026-07-10 05:12:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| b1bafe85-9515-34e2-b980-d34119498de2 | -19.58847 | -47.6153 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| df4ad189-0c4e-35a1-a5da-15ab6c5e528e | -19.594 | -47.61391 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 75de9f22-4f68-317a-9a3d-edc24ad8bb31 | -19.66167 | -47.60362 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| b06ffa8f-45f8-34a6-b7da-0e9870adfa10 | -21.09772 | -57.4682 | 2026-07-10 05:12:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 64042b31-2ad5-3208-b8cd-a84526127def | -18.02197 | -54.36021 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| d9e029d7-6cc5-3ea5-b52b-44be0fb626a9 | -16.52898 | -47.73722 | 2026-07-10 05:12:00 | NPP-375D | LUZIÂNIA | GOIÁS | Brasil | 5212501 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 88445f02-14cb-35bc-a8ac-a59c84d4cb7b | -20.70276 | -50.5232 | 2026-07-10 05:12:00 | NPP-375D | AURIFLAMA | SÃO PAULO | Brasil | 3504206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
-| 460761bd-6c31-3faf-8d4a-1a17a44d7d3e | -17.99703 | -51.14533 | 2026-07-10 05:12:00 | NPP-375D | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| 0f3b572c-2314-3609-8bab-5d95e3e68fbb | -17.53745 | -54.00161 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| de9f6732-5109-37b5-87f4-b45529d7ddc2 | -19.59396 | -47.61589 | 2026-07-10 05:12:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 3.4 |
-| 214583d8-6e0c-3ca3-b930-8815305382d9 | -20.18341 | -55.39733 | 2026-07-10 05:12:00 | NPP-375D | DOIS IRMÃOS DO BURITI | MATO GROSSO DO SUL | Brasil | 5003488 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 2324311e-6bb3-39f8-9c71-0a237739b90a | -18.02788 | -54.3696 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 1372e274-2554-3861-ab6f-18c73815a474 | -19.60061 | -47.60552 | 2026-07-10 05:12:00 | NPP-375D | SACRAMENTO | MINAS GERAIS | Brasil | 3156908 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 0121b9a9-4bfd-3ce4-84fe-fdcc02961e75 | -21.10106 | -57.46879 | 2026-07-10 05:12:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| 50599968-c2d7-39f8-a072-996214e99792 | -17.53328 | -54.00525 | 2026-07-10 05:12:00 | NPP-375D | SONORA | MATO GROSSO DO SUL | Brasil | 5007935 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| a6665111-9ac2-3877-bd75-8b846bc8a3a7 | -18.02847 | -54.36547 | 2026-07-10 05:12:00 | NPP-375D | PEDRO GOMES | MATO GROSSO DO SUL | Brasil | 5006408 | 50 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 0485a79e-9f10-3180-bd47-fcc91ea0a811 | -21.77009 | -56.30314 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| d54e0514-5195-3fd1-9b69-87be4b57c145 | -28.83175 | -55.70539 | 2026-07-10 05:14:00 | NPP-375D | SÃO BORJA | RIO GRANDE DO SUL | Brasil | 4318002 | 43 | 33 | nan | nan | nan | Pampa | 0.6 |
-| a8f82ff6-e4bb-3efd-b2fd-f1531d184c31 | -21.76326 | -56.30199 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| 6a0d8a85-ffb8-3a11-b2f5-c24ecaf2735d | -21.76668 | -56.30257 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 4569d6b6-e794-36e2-bf19-9822e5b59ce6 | -21.77865 | -56.29252 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| d9e95382-fe6e-3bb1-9c6b-ea923d330844 | -21.77067 | -56.29922 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 1848bb84-96f3-3694-b489-3677aff13db6 | -22.91823 | -49.20716 | 2026-07-10 05:14:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| 307358f7-6df2-3190-9d54-60ed80c4aa14 | -21.76725 | -56.29865 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5a605c84-9840-3c15-bcb0-e139454016a1 | -21.76783 | -56.29473 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| bf84f240-508e-3cea-81c8-7a57d2787bbb | -21.76384 | -56.29808 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.9 |
-| b3eeca61-2d81-3c47-9497-12f73230165d | -21.76442 | -56.29416 | 2026-07-10 05:14:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 23c1fd99-34f5-343e-bf7e-d7186cbb80b8 | 1.98646 | -61.08707 | 2026-07-10 05:25:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| 2043f0f4-6a9b-3026-afd9-d061a26b1d00 | 0.75401 | -60.4536 | 2026-07-10 05:25:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 436862ac-33e4-3250-a5cc-2e92b02eea25 | 0.87655 | -59.70548 | 2026-07-10 05:25:00 | NOAA-20 | CAROEBE | RORAIMA | Brasil | 1400233 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| fa450d6e-3df0-3e4f-8cd5-0927f8a5c254 | -4.15663 | -54.98639 | 2026-07-10 05:25:00 | NOAA-20 | RURÓPOLIS | PARÁ | Brasil | 1506195 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 7886d2bf-60d8-3f9e-ad20-fd317f86cf99 | -10.52966 | -61.17355 | 2026-07-10 05:27:00 | NOAA-20 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 4ada6337-c924-313e-9674-16c569249038 | -8.5056 | -48.06614 | 2026-07-10 05:27:00 | NOAA-20 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
-| fb2976ee-dda4-3220-bbd7-9317dfae9b7e | -6.43047 | -55.79958 | 2026-07-10 05:27:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 935bfb0b-b67d-3e45-8dc3-4b5abf3ba424 | -8.50638 | -48.05983 | 2026-07-10 05:27:00 | NOAA-20 | ITAPIRATINS | TOCANTINS | Brasil | 1710904 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 87a5241b-0130-35df-b720-3b2d2cb1e501 | -10.40133 | -49.44619 | 2026-07-10 05:27:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
-| 6835594d-ec46-3c7f-9dad-d8a54f1f6feb | -6.42353 | -55.79145 | 2026-07-10 05:27:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
-| 95a09e8b-7073-3e84-b9ac-b66e394b07ff | -8.12895 | -47.87571 | 2026-07-10 05:27:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 557af7bf-40f0-3318-afab-b24e7b93eb2f | -8.12973 | -47.86951 | 2026-07-10 05:27:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| b9027e71-c4c8-3330-b869-8f6b5ea040bb | -11.49155 | -52.92205 | 2026-07-10 05:27:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 3c6f0a7f-ce41-3b6c-949a-3fb871abe909 | -8.13662 | -47.87039 | 2026-07-10 05:27:00 | NOAA-20 | GOIATINS | TOCANTINS | Brasil | 1709005 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| da2d163c-6611-3071-93f3-8d4c73795fb0 | -6.57076 | -55.14293 | 2026-07-10 05:27:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| ad09304c-9c15-387f-aa3e-efe1b596cfc8 | -6.57018 | -55.14676 | 2026-07-10 05:27:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 9f6b053a-bcdb-3c02-870e-9dc45f3cfe5f | -11.27952 | -55.79904 | 2026-07-10 05:27:00 | NOAA-20 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 8f6dccaf-a285-3476-919d-be13fabd9389 | -9.40385 | -62.16415 | 2026-07-10 05:27:00 | NOAA-20 | MACHADINHO D'OESTE | RONDÔNIA | Brasil | 1100130 | 11 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 678c17b6-12a9-3be2-96bc-814097d272cd | -12.44991 | -49.58027 | 2026-07-10 05:27:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| 249795f7-b12e-3ec8-90d5-ad841f76bf55 | -9.19062 | -58.06797 | 2026-07-10 05:27:00 | NOAA-20 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 8829e116-beb1-3608-863c-46fa08e25a51 | -10.12963 | -50.18262 | 2026-07-10 05:27:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
-| 3f36e151-b3e4-362d-9585-38977d37f4b3 | -11.27581 | -55.79431 | 2026-07-10 05:27:00 | NOAA-20 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b66a29c8-fb63-33bc-b74d-c7cf81f2ccda | -8.72206 | -47.84473 | 2026-07-10 05:27:00 | NOAA-20 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| b5854da8-91a0-3459-8b03-ab3c61345e98 | -8.71663 | -47.83509 | 2026-07-10 05:27:00 | NOAA-20 | ITACAJÁ | TOCANTINS | Brasil | 1710508 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 3b0539d6-03b1-30c7-9638-bfedfcac7c83 | -11.47529 | -52.9189 | 2026-07-10 05:27:00 | NOAA-20 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| a7b2829b-e5c5-356f-aa20-ab65b44c40bc | -6.55124 | -55.15938 | 2026-07-10 05:27:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 755a17d0-f3da-3c8f-b615-d0cbf4c273f2 | -12.451 | -49.57942 | 2026-07-10 05:27:00 | NOAA-20 | SANDOLÂNDIA | TOCANTINS | Brasil | 1718840 | 17 | 33 | nan | nan | nan | Cerrado | 3.3 |
-| de8fb31b-5867-3e01-a848-7562dbeca6b8 | -10.40496 | -61.21107 | 2026-07-10 05:27:00 | NOAA-20 | RONDOLÂNDIA | MATO GROSSO | Brasil | 5107578 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5caeb959-b73c-3a78-9df4-a2675a8a3298 | -9.187 | -58.06744 | 2026-07-10 05:27:00 | NOAA-20 | APIACÁS | MATO GROSSO | Brasil | 5100805 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 11ab5f03-ecf3-32ff-8f78-f4d0fbb11e87 | -11.27266 | -55.78547 | 2026-07-10 05:27:00 | NOAA-20 | ITAÚBA | MATO GROSSO | Brasil | 5104559 | 51 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 5a6e5e2b-81a6-3771-ae3b-fa023bf2c859 | -6.55598 | -55.15617 | 2026-07-10 05:27:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 125709f4-13cd-3329-bda1-9d7cefb65974 | -10.12292 | -50.18664 | 2026-07-10 05:27:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 27f6ce50-f8d3-36d6-97b6-def099979083 | -10.40779 | -49.44685 | 2026-07-10 05:27:00 | NOAA-20 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 0dbcfba0-ec2e-3145-ab74-8764ebfda6d6 | -22.37985 | -49.78667 | 2026-07-17 04:42:00 | NPP-375D | LUPÉRCIO | SÃO PAULO | Brasil | 3527801 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| def2af16-b1e3-39f9-ab1f-8afc6cbff6fe | -21.34998 | -51.04383 | 2026-07-17 04:42:00 | NPP-375D | VALPARAÍSO | SÃO PAULO | Brasil | 3556305 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| c0a28d65-4b23-3efa-ae32-6a1e082fa97d | -21.66582 | -56.33122 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 600c5910-8019-3d91-a551-b0cebae1f963 | -22.46566 | -43.09623 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| ce0f1bc5-d78d-351c-b0d5-019bd3b6e37a | -22.49178 | -44.04679 | 2026-07-17 04:42:00 | NPP-375D | VOLTA REDONDA | RIO DE JANEIRO | Brasil | 3306305 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| ed8e0a94-ec9a-35b4-8d37-63d674290a5c | -19.82915 | -57.94151 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| ef344525-0743-3c2d-b160-aded53dc5cfc | -21.76195 | -56.30746 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cbabd9bc-f9c4-3057-a0bd-cf1f92c0bbcd | -22.24699 | -52.8687 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| ba43c1af-05b0-3636-b2fa-cc962c2220fb | -19.8183 | -57.94492 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.0 |
+| e811a48e-c6c3-34dd-908e-e3e7e3e146d6 | -21.68557 | -47.93887 | 2026-07-17 04:42:00 | NPP-375D | SANTA LÚCIA | SÃO PAULO | Brasil | 3546900 | 35 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 40662ae9-113a-3a55-8e65-7cb8f8b6b645 | -19.834 | -57.94265 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 98d3bf7e-cb44-32dc-855d-eefd051519d7 | -22.22237 | -55.97358 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 3177bf22-8e20-35d9-b80f-996f6cae33a4 | -19.86143 | -57.99228 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.1 |
+| c46499d4-6570-3611-87fd-6224b4335574 | -22.24236 | -56.05759 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 0692b035-26e1-3cb0-ba69-f6a4ed48e2ab | -22.24974 | -52.87179 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
+| 9f3e8ac7-bb91-3336-a3bb-5d0abd7ea27e | -22.46647 | -43.09441 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 19.0 |
+| 701311d0-ca23-3691-9e15-27a1334deafa | -23.39398 | -47.01188 | 2026-07-17 04:42:00 | NPP-375D | PIRAPORA DO BOM JESUS | SÃO PAULO | Brasil | 3539103 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 0072aa08-83ec-316c-b030-454ff527c6d2 | -19.82431 | -57.94038 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.0 |
+| f34b88f9-db53-3993-aac2-7a737cbf78ad | -19.81963 | -57.96312 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 166ce6f0-b02c-3667-93ce-fd7f4ae8a3da | -19.85172 | -57.99001 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 65ba320d-9740-33ed-876b-006ba926cd55 | -22.2398 | -56.04869 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| eb6d3cd4-e34c-3921-a42d-19e52f4ac0dc | -21.76363 | -56.29893 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| 166c431a-e710-3af8-b9b2-9c4d896f32ec | -19.8598 | -57.99055 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 53d1378f-0d4a-3e42-8ef8-935e5e46e244 | -19.85495 | -57.98941 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 7.9 |
+| 45ebce39-592f-3c3d-a742-e884c4ccd71e | -23.13924 | -48.66422 | 2026-07-17 04:42:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 382455de-7b9c-34f9-a735-98a299e5e25e | -22.24277 | -52.87212 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| d8134c35-7ea3-3864-a103-3b32b2da0969 | -21.77205 | -56.30092 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| b4f0d5a0-4e52-3ce4-9f43-7316112c466a | -23.78596 | -48.45443 | 2026-07-17 04:42:00 | NPP-375D | BURI | SÃO PAULO | Brasil | 3508009 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.9 |
+| 9c64b657-f50a-34ea-95be-5cce73d8509f | -22.25023 | -56.0174 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 407f61dd-a63d-3813-835f-755b2cb75a85 | -19.84524 | -57.98712 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| cb39f630-967b-35ca-8d44-95118c6bc71a | -22.23999 | -52.86725 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 5dd6a41c-dc75-3b27-b780-5512ae3ecec2 | -19.81478 | -57.96199 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| b384bf0a-9628-3aa0-b39c-b8c95128efed | -22.46693 | -43.09021 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 20.5 |
+| 4e7b34d9-fc87-3af7-861c-ac4c0e594d46 | -19.8464 | -57.9814 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| b10e2b04-d816-37b0-b2a2-4699388597a6 | -21.77122 | -56.30512 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| 8b2d11da-478b-302e-898c-23a0d6ffb6b0 | -22.24349 | -52.86797 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| dd16703a-cd1f-380d-835c-d6bd5621e517 | -19.85658 | -57.99114 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 8628d24c-3605-3645-bb2b-741ce323ee17 | -22.24624 | -52.87107 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
+| eeeaa9d4-004e-3383-8a28-ddf69e85e8fb | -22.4709 | -43.09619 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 59d5dc4c-96ab-364d-a128-69e5e43a273d | -23.19966 | -48.25369 | 2026-07-17 04:42:00 | NPP-375D | BOFETE | SÃO PAULO | Brasil | 3506904 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.2 |
+| 7056cf92-7d04-3602-852b-6e1123448db2 | -21.34663 | -51.04321 | 2026-07-17 04:42:00 | NPP-375D | VALPARAÍSO | SÃO PAULO | Brasil | 3556305 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.8 |
+| c7f9b8f1-f238-37de-80c9-7dcba7c18e25 | -22.22061 | -56.1025 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| d6ac79d0-7847-339c-bf47-60c4f43d7d26 | -22.65364 | -43.64996 | 2026-07-17 04:42:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| edf48ab4-dd58-3d41-855e-b78408dd23c9 | -21.77039 | -56.30937 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 3ec39044-a0db-3c3b-9b74-bf78f53ee543 | -22.65803 | -43.65067 | 2026-07-17 04:42:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 9b974378-9b23-30cf-909f-ba67ee0a21b4 | -23.14207 | -48.66875 | 2026-07-17 04:42:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 4047afc6-9c7f-3ac3-901d-48b9b3016aa2 | -21.66162 | -56.33012 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 3eb5f9d9-f2ae-362c-a5fd-67b48abb47fc | -22.30687 | -48.01933 | 2026-07-17 04:42:00 | NPP-375D | BROTAS | SÃO PAULO | Brasil | 3507902 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| fafb311d-1ffa-3835-87d1-cb125c994afd | -19.82699 | -57.97681 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| d0aa4138-a440-3ac8-87d1-34b563e3604f | -19.84155 | -57.98026 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 35cc92ef-6a30-33c0-897d-074a714b73e1 | -22.24627 | -52.87285 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| d63d7567-cb78-3b9a-8b7d-0c193b8bdd02 | -23.13865 | -48.66821 | 2026-07-17 04:42:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 99e9cb59-9c01-39d3-be05-c06210aeef50 | -21.76701 | -56.30413 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| db8859ed-36fb-3c72-b3a3-7c66432ca44f | -22.47007 | -43.09797 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| a7e65335-6c07-3fb6-956d-4ab3a1c01ace | -23.13806 | -48.67218 | 2026-07-17 04:42:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| cedfa978-950e-3660-9a6f-31ec091d23e8 | -21.66246 | -56.32587 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 5a0d6fdf-46ba-3c1e-a70b-7af2a289d167 | -19.86466 | -57.9917 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.5 |
+| 941d1cf2-730c-354f-9ec9-01757e334ea0 | -19.8367 | -57.97911 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.8 |
+| 51c8b52e-8e91-3bff-b380-88b10117f069 | -22.66242 | -43.65136 | 2026-07-17 04:42:00 | NPP-375D | SEROPÉDICA | RIO DE JANEIRO | Brasil | 3305554 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 3d8ba9b6-5154-3b2e-aca7-542e4179f80c | -19.82214 | -57.97567 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| 108b9254-36dc-3cb3-9421-87a419210314 | -22.63833 | -43.66654 | 2026-07-17 04:42:00 | NPP-375D | JAPERI | RIO DE JANEIRO | Brasil | 3302270 | 33 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| d1cd901d-18bf-3020-9126-239f0997ee05 | -23.62783 | -46.07301 | 2026-07-17 04:42:00 | NPP-375D | BIRITIBA MIRIM | SÃO PAULO | Brasil | 3506607 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 13e9ff4d-8b77-3c8b-b04b-c6303b4f47c4 | -22.92246 | -49.20325 | 2026-07-17 04:42:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 19c36a6f-124c-3004-bcd1-014933222b08 | -22.23927 | -52.8714 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| 38a9c01b-48a8-31e7-a731-1e05f2417ba0 | -23.10191 | -48.75096 | 2026-07-17 04:42:00 | NPP-375D | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 43033c51-3dfd-3e15-9157-4c726ebd7a21 | -19.83184 | -57.97796 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.5 |
+| d5508303-9cfd-3c6b-a095-a8d1d16df65e | -23.14144 | -48.66792 | 2026-07-17 04:42:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 68dda10e-a386-39de-9a34-97bc1fe310c8 | -22.24977 | -52.87358 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 4.0 |
+| 2b8e5dbc-3195-3adb-afcf-14ee4c52d7d9 | -22.97844 | -48.9233 | 2026-07-17 04:42:00 | NPP-375D | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d4698184-035e-3f45-bf27-037022968d1e | -19.83884 | -57.94379 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| d1234009-e3bb-3197-8df7-14097a35c833 | -21.67254 | -56.31949 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 0b911fe9-da82-33d6-a3ce-5928aa0b8dfb | -19.84807 | -57.98317 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| 57862bce-552f-3a13-bd0f-2f791214b700 | -22.80719 | -43.55217 | 2026-07-17 04:42:00 | NPP-375D | NOVA IGUAÇU | RIO DE JANEIRO | Brasil | 3303500 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 737ae80b-e815-30d8-8618-465b3f491a95 | -22.23904 | -56.0526 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 3.9 |
+| 1eb2c9fe-74e3-3c1c-a74a-887b1e217741 | -22.46614 | -43.09209 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 25.2 |
+| ad1814ee-af42-3296-a1c5-155e9e35af39 | -22.91573 | -49.20206 | 2026-07-17 04:42:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| d1cf94f0-d66d-3de6-aeb5-e1452cfdbc95 | -22.97902 | -48.91942 | 2026-07-17 04:42:00 | NPP-375D | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| 0fb3158e-9993-313b-b5e8-406200276113 | -19.85009 | -57.98826 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.1 |
+| b21c4cc2-6038-37d0-8386-94f72275a00b | -22.46599 | -43.09872 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 19.0 |
+| 56354f2e-25d9-3f5b-be09-3b82b832a509 | -21.76617 | -56.30841 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 094ad836-d332-3a34-a93b-dffb6a601937 | -19.81595 | -57.95629 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 8dcd6ba2-739b-3427-b5dc-a690c57f8404 | -22.24205 | -52.8763 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 2.1 |
+| bb67df3b-9706-3cdf-836f-0412b5a074f5 | -23.50407 | -48.57038 | 2026-07-17 04:42:00 | NPP-375D | ANGATUBA | SÃO PAULO | Brasil | 3502200 | 35 | 33 | nan | nan | nan | Cerrado | 0.4 |
+| d088273b-1a85-34eb-a6ea-9318ffc8bb5f | -22.47138 | -43.09181 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 1.3 |
+| bd0cc8da-00b1-38e9-af24-e91704ab69e9 | -19.84322 | -57.98204 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| 43a477f7-9a19-301d-a291-8189506c5744 | -22.47056 | -43.09374 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 25.2 |
+| 2877907b-7cdc-3765-a5f9-062386287e9f | -19.82331 | -57.96997 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.1 |
+| 3feb7923-0b75-398c-932c-1c7593721679 | -22.46514 | -43.10065 | 2026-07-17 04:42:00 | NPP-375D | PETRÓPOLIS | RIO DE JANEIRO | Brasil | 3303906 | 33 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| c56cfffb-c24b-378f-a251-1c8387ca8543 | -21.66329 | -56.32163 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 155310a7-6e6e-3dc4-81f1-94cc679a69d0 | -23.78537 | -48.45847 | 2026-07-17 04:42:00 | NPP-375D | BURI | SÃO PAULO | Brasil | 3508009 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.9 |
+| 84f72b3b-cbb1-3c2c-b536-b88ec55005d6 | -22.22058 | -55.97214 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 68966393-4a7c-3166-adf0-1e5c550f86ba | -22.23571 | -56.04763 | 2026-07-17 04:42:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 83433fea-bac7-38ac-89c7-e67319076d1f | -23.13582 | -48.66366 | 2026-07-17 04:42:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 0.2 |
+| c4b5f773-b343-3617-84a4-591f34edbc0d | -21.66749 | -56.32271 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 2e80cc5b-5add-3a38-8879-d2c1d44c7f5d | -21.7628 | -56.30317 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 4.0 |
+| d8fdb32d-12ba-35c5-a4bd-d06315a1c324 | -21.76784 | -56.29992 | 2026-07-17 04:42:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| f6ce1eb1-e266-3969-b352-6a99202375e6 | -22.24551 | -52.87523 | 2026-07-17 04:42:00 | NPP-375D | ANAURILÂNDIA | MATO GROSSO DO SUL | Brasil | 5000807 | 50 | 33 | nan | nan | nan | Mata Atlântica | 3.6 |
+| ab4b06eb-5dfd-3706-8136-7374ef5f6e8b | -19.85292 | -57.9843 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.4 |
+| 81f2b084-20f8-3125-bdbe-4ddce0c66fec | -19.82314 | -57.94606 | 2026-07-17 04:42:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.6 |
+| fc31bb28-2af0-32da-895a-519f22f27be6 | -30.69538 | -52.56223 | 2026-07-17 04:44:00 | NPP-375D | ENCRUZILHADA DO SUL | RIO GRANDE DO SUL | Brasil | 4306908 | 43 | 33 | nan | nan | nan | Pampa | 1.2 |
 
 
 [Clique aqui para ver as próximas entradas](README12.md)
