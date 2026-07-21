@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 09d5a395-9eba-3ba7-9bf9-359a07dab99d | -13.68556 | -48.7949 | 2026-07-19 12:04:00 | TERRA_M-T | FORMOSO | GOIÁS | Brasil | 5208103 | 52 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| d2c1586e-6ac3-3bba-8740-5393af178147 | -10.72231 | -46.57087 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 22.7 |
-| 4d7029e2-0f6f-3f7f-b0ff-2a5f5bdff8e2 | -13.6788 | -48.77131 | 2026-07-19 12:04:00 | TERRA_M-T | FORMOSO | GOIÁS | Brasil | 5208103 | 52 | 33 | nan | nan | nan | Cerrado | 9.5 |
-| 986e6a99-18f5-3e74-9f00-58aa939c574a | -11.8316 | -44.76473 | 2026-07-19 12:04:00 | TERRA_M-T | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 24.4 |
-| 0aaf8871-77b1-37b6-8fcc-0fe0f5a0ce87 | -13.67737 | -48.78225 | 2026-07-19 12:04:00 | TERRA_M-T | FORMOSO | GOIÁS | Brasil | 5208103 | 52 | 33 | nan | nan | nan | Cerrado | 116.1 |
-| 98f2eca3-1752-3493-8257-c9d4ddc391a8 | -11.6472 | -51.67284 | 2026-07-19 12:04:00 | TERRA_M-T | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 5.0 |
-| a2577239-b685-30ea-9891-1ec2566126de | -13.19238 | -45.2836 | 2026-07-19 12:04:00 | TERRA_M-T | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 15.4 |
-| ca896b8b-54a0-30ea-82aa-349a32d81103 | -11.81892 | -44.76259 | 2026-07-19 12:04:00 | TERRA_M-T | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 57.6 |
-| 6e449b57-1691-3a6c-a4a2-b7089fb9c8b0 | -10.70392 | -46.65839 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 35.7 |
-| fe86fb3b-82b7-365f-9440-bf62275f89df | -18.03446 | -50.5366 | 2026-07-19 12:04:00 | TERRA_M-T | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| 64f745d9-feca-3a7d-8efd-4da7a68c4875 | -10.72497 | -46.57775 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 15.8 |
-| 463f6c85-d2d2-320f-867b-8916839e925e | -10.6899 | -46.65031 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 153.8 |
-| 9f35bd38-8176-3f05-b1ec-1e84f0bffc49 | -10.68269 | -46.6216 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 18.6 |
-| 12e3266f-4c38-34bd-9ee2-199c5976fda6 | -10.89267 | -50.30661 | 2026-07-19 12:04:00 | TERRA_M-T | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 14.4 |
-| cebfe663-6d16-3ddf-be72-d2ede7fd92f6 | -11.97425 | -47.11173 | 2026-07-19 12:04:00 | TERRA_M-T | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 49.7 |
-| 7bb315b0-eece-30a3-a120-e7779ce83fde | -10.72672 | -46.56379 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 25db7277-81f3-39cd-8791-6e8e62614a8d | -10.68446 | -46.60793 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 21.9 |
-| 102ebaa1-2f92-3d1c-bbed-999da58b578f | -12.07538 | -53.34704 | 2026-07-19 12:04:00 | TERRA_M-T | QUERÊNCIA | MATO GROSSO | Brasil | 5107065 | 51 | 33 | nan | nan | nan | Amazônia | 9.0 |
-| ca4ff28e-8326-3ec4-b7ff-573962cc873d | -13.57168 | -47.78539 | 2026-07-19 12:04:00 | TERRA_M-T | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 7.5 |
-| f0475412-66a4-3f41-8e24-23cc5560d425 | -14.74578 | -46.65418 | 2026-07-19 12:04:00 | TERRA_M-T | ALVORADA DO NORTE | GOIÁS | Brasil | 5200803 | 52 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| 1c036ecd-9592-3af1-a8c3-1a59dde0e897 | -10.46723 | -47.08223 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 10.6 |
-| c5574a94-d666-3e78-9e2e-3c818fdf2e44 | -10.7164 | -46.64608 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 40.1 |
-| 2fa20810-8121-3161-8680-650dc0b99fb4 | -10.47125 | -47.07631 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 17.1 |
-| 0c95c547-bae2-3c96-8e4f-9a73ea47e8e3 | -11.97594 | -47.09846 | 2026-07-19 12:04:00 | TERRA_M-T | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 13.2 |
-| f62d3356-b115-36fb-a4f5-beb94397f131 | -13.67594 | -48.79322 | 2026-07-19 12:04:00 | TERRA_M-T | FORMOSO | GOIÁS | Brasil | 5208103 | 52 | 33 | nan | nan | nan | Cerrado | 53.1 |
-| c6d4ae5a-bb5b-34c5-b998-4e9fe525ba23 | -10.69528 | -46.60917 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 50.2 |
-| b7b63201-bb87-328a-b31c-3f5e7d68d0a9 | -10.70561 | -46.64485 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 38.7 |
-| 3f774f78-a352-32cb-8a46-0fc77bfce295 | -11.98485 | -47.11307 | 2026-07-19 12:04:00 | TERRA_M-T | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 21.0 |
-| c4317f0d-7370-333a-81fa-c26c42bc07d3 | -10.46881 | -47.06973 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 17.2 |
-| d30240cc-84ec-3524-81c6-62927c811a1d | -10.70245 | -46.63807 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 80.1 |
-| 17a83ca0-dc50-32ea-9b59-5fa9d1758bd3 | -10.69167 | -46.63675 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 220.5 |
-| 24e53b32-9821-30b7-8fe3-0d2d7e5ec901 | -11.77377 | -45.97446 | 2026-07-19 12:04:00 | TERRA_M-T | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 094ef186-a7ed-338b-b282-ad928aedf8dc | -13.68699 | -48.78399 | 2026-07-19 12:04:00 | TERRA_M-T | FORMOSO | GOIÁS | Brasil | 5208103 | 52 | 33 | nan | nan | nan | Cerrado | 21.5 |
-| b8588aff-55d1-3070-aa3a-d2ba919d913c | -10.90026 | -50.31688 | 2026-07-19 12:04:00 | TERRA_M-T | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 28.9 |
-| 378d0003-2d45-33ca-a4af-1fad018d309a | -16.80662 | -54.58991 | 2026-07-19 12:04:00 | TERRA_M-T | RONDONÓPOLIS | MATO GROSSO | Brasil | 5107602 | 51 | 33 | nan | nan | nan | Cerrado | 8.7 |
-| 82999dc5-d788-379a-98dd-e0ed5d30e775 | -10.71326 | -46.63922 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| fc84eec3-fc4c-3bf4-9048-52d48e846d65 | -9.93596 | -46.46412 | 2026-07-19 12:04:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| 7138c179-7819-3c80-916e-11e209f1b0ab | -17.75758 | -52.74133 | 2026-07-19 12:04:00 | TERRA_M-T | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 4bccce62-ac45-34b1-aee3-1e35740d0b48 | -15.6039 | -52.95627 | 2026-07-19 12:04:00 | TERRA_M-T | GENERAL CARNEIRO | MATO GROSSO | Brasil | 5103908 | 51 | 33 | nan | nan | nan | Cerrado | 5.2 |
-| 7a06c3b1-dc88-329b-ae52-b06bb40a9339 | -10.81063 | -50.23375 | 2026-07-19 12:04:00 | TERRA_M-T | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 30d11f3a-9e23-34d4-939c-4988303e7818 | -18.22258 | -56.21034 | 2026-07-19 12:04:00 | TERRA_M-T | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.3 |
-| d4a23b8f-6184-3499-93c2-667959771e7a | -12.668 | -48.21955 | 2026-07-19 12:04:00 | TERRA_M-T | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 10.5 |
-| aebb4606-9590-35f9-9485-498daf42e270 | -9.93774 | -46.4502 | 2026-07-19 12:04:00 | TERRA_M-T | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 7.9 |
-| b47690b8-d79b-3b10-92f2-81d081eaf93d | -10.8914 | -50.31563 | 2026-07-19 12:04:00 | TERRA_M-T | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 18.1 |
-| 86041ca8-8e38-306b-ab60-e7715c6b78ab | -9.87736 | -53.33049 | 2026-07-19 12:04:00 | TERRA_M-T | PEIXOTO DE AZEVEDO | MATO GROSSO | Brasil | 5106422 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| be24e4b5-66da-3483-a0af-400267679769 | -10.70067 | -46.65166 | 2026-07-19 12:04:00 | TERRA_M-T | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 229.5 |
-| d712e8d6-d560-31c2-9604-a79a0a6eb82c | -22.2345 | -55.99092 | 2026-07-19 12:06:00 | TERRA_M-T | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 197bd112-4196-3685-9f3d-4a1b39bfcbbe | -22.97935 | -48.84184 | 2026-07-19 12:06:00 | TERRA_M-T | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 12.5 |
-| 9bd4956e-ca21-3d2f-b415-479df1cab7b3 | -22.98248 | -48.83276 | 2026-07-19 12:06:00 | TERRA_M-T | AVARÉ | SÃO PAULO | Brasil | 3504503 | 35 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| f10ba175-1af4-3994-8383-e783ceef8858 | -28.65718 | -51.30572 | 2026-07-19 12:08:00 | TERRA_M-T | IPÊ | RIO GRANDE DO SUL | Brasil | 4310439 | 43 | 33 | nan | nan | nan | Mata Atlântica | 20.0 |
-| bef459e6-fc9f-3c21-85ba-092b5f4a691c | -28.65867 | -51.2925 | 2026-07-19 12:08:00 | TERRA_M-T | IPÊ | RIO GRANDE DO SUL | Brasil | 4310439 | 43 | 33 | nan | nan | nan | Mata Atlântica | 18.5 |
-| 3fdc1222-000b-3d71-a454-934b17474a5d | -10.7094 | -46.6232 | 2026-07-19 12:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 95.4 |
-| 689d8c8b-15c9-37f3-9932-ae2481831aea | -10.6904 | -46.6256 | 2026-07-19 12:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 99.8 |
-| 854c1c6b-502e-3961-ad48-ed7f744c95da | -10.7 | -46.65 | 2026-07-19 12:15:00 | MSG-03 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | nan |
-| 55551a94-ef45-3635-922c-88064e4d70a2 | -10.6904 | -46.6256 | 2026-07-19 12:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 93.9 |
-| c55c65ca-6048-3d6b-b413-73f7d684cf2e | -7.1169 | -44.0339 | 2026-07-19 12:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 91.2 |
-| 6547ad53-32d5-36cd-8d70-5adacade9a5c | -10.6904 | -46.6256 | 2026-07-19 12:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 96.7 |
-| 893e5961-43d6-3357-9ada-0e11a67f3fc3 | -7.1169 | -44.0339 | 2026-07-19 12:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 85.3 |
-| 84c73542-80b2-39c4-9c92-da6e8e42fe10 | -10.7094 | -46.6232 | 2026-07-19 12:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.5 |
-| 80b4e013-1e78-3558-ab05-038531b59446 | -10.7094 | -46.6232 | 2026-07-19 12:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 94.9 |
-| a9507878-ce94-3229-92b7-aca8a1ee2262 | -7.1169 | -44.0339 | 2026-07-19 12:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 79.9 |
-| a16eb3b3-54a2-36e6-840e-7849d3308812 | -10.6904 | -46.6256 | 2026-07-19 12:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 129.1 |
-| c59c0647-61d2-3b38-bcdc-de8989d9468d | -7.1169 | -44.0339 | 2026-07-19 12:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 81.8 |
-| fc58dde6-b8da-3db9-9030-d43eef767349 | -10.6904 | -46.6256 | 2026-07-19 12:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 118.9 |
-| 8b099600-ff74-37fd-816d-f3bb2b866177 | -10.7094 | -46.6232 | 2026-07-19 12:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 81.1 |
-| 3c205528-357f-314b-b9bc-fa7ec644b510 | -7.1169 | -44.0339 | 2026-07-19 13:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 79.1 |
-| 9aa37225-5d12-3093-859b-b038f16bc3a4 | -10.7094 | -46.6232 | 2026-07-19 13:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| 68ac5977-2b48-3032-9978-50dc7c6132a6 | -10.6904 | -46.6256 | 2026-07-19 13:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 123.0 |
-| 0ad2c14b-e1c9-3a06-b7ee-5d9048e8bd7c | -7.1169 | -44.0339 | 2026-07-19 13:10:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 101.4 |
-| 39f29829-7338-30b7-9a5d-8a14c1040028 | -10.7094 | -46.6232 | 2026-07-19 13:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 80.6 |
-| 4c3b8acc-cd61-3bc7-924f-c3b65bff2cab | -7.1169 | -44.0339 | 2026-07-19 13:20:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 95.1 |
-| cb8ce228-830d-3c90-b323-97caec7608b2 | -21.6339 | -41.3755 | 2026-07-19 13:20:00 | GOES-19 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 168.3 |
-| 0742ec6e-b2da-3b22-ba5f-4ab34439cfb2 | -10.6904 | -46.6256 | 2026-07-19 13:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 95.8 |
-| 10d34ac7-4efb-34b5-b77b-434b747e33e5 | -2.7768 | -49.4553 | 2026-07-19 13:20:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 97.4 |
-| 57392326-d726-3463-a05f-e27c108548e9 | -10.6904 | -46.6256 | 2026-07-19 13:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 83.1 |
-| db9c9e76-0d01-3064-90f4-00ae82315fa2 | -7.1169 | -44.0339 | 2026-07-19 13:30:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 98.8 |
-| 86ee4e1a-734a-3fc3-b7c9-743c85cf1a9c | -11.621 | -47.9561 | 2026-07-19 13:30:00 | GOES-19 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 62.4 |
-| dc97567f-13af-324c-92c1-b5ee8e408a82 | -21.6339 | -41.3755 | 2026-07-19 13:30:00 | GOES-19 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 174.8 |
-| e3d96bd6-ef95-3945-b911-52bb1439020f | -10.7094 | -46.6232 | 2026-07-19 13:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 76.2 |
-| 01d38a40-c20b-337d-974a-2dd5b864c7d4 | -11.9786 | -47.1072 | 2026-07-19 13:40:00 | GOES-19 | TAIPAS DO TOCANTINS | TOCANTINS | Brasil | 1720937 | 17 | 33 | nan | nan | nan | Cerrado | 68.9 |
-| 54ead56d-6ec9-349d-9608-471d3b9e6291 | -2.7768 | -49.4553 | 2026-07-19 13:40:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 98.0 |
-| 643d9942-c661-321a-aa52-cb7182bf9977 | -7.1169 | -44.0339 | 2026-07-19 13:40:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 107.9 |
-| 1655df4f-e10e-3783-bead-29dccf5c49b4 | -21.6339 | -41.3755 | 2026-07-19 13:40:00 | GOES-19 | CAMPOS DOS GOYTACAZES | RIO DE JANEIRO | Brasil | 3301009 | 33 | 33 | nan | nan | nan | Mata Atlântica | 154.8 |
-| aa0ed32c-b3ec-3616-80b7-f35494add332 | -11.8284 | -44.7579 | 2026-07-19 13:50:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 89.0 |
-| 8b6c8ff5-6547-3778-adae-51cfa3ea0184 | -10.6901 | -46.6481 | 2026-07-19 13:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 168.3 |
-| 36070f57-1abf-39ea-b117-38f45de70979 | -7.1169 | -44.0339 | 2026-07-19 13:50:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 72.3 |
-| 4d47f4e9-7047-3004-a570-aff1e73ff4f9 | -10.6904 | -46.6256 | 2026-07-19 13:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 97.1 |
-| 8100e6fb-7d67-317b-948c-68926bcfc0d1 | -10.7091 | -46.6457 | 2026-07-19 13:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 135.6 |
-| 72a22d56-e94d-3c0f-b366-d986c86aa076 | -11.6401 | -47.9537 | 2026-07-19 13:50:00 | GOES-19 | CHAPADA DA NATIVIDADE | TOCANTINS | Brasil | 1705102 | 17 | 33 | nan | nan | nan | Cerrado | 67.3 |
-| 96d6377e-5d8a-37e3-b3f0-e73363146ab6 | -14.7447 | -46.6555 | 2026-07-19 13:50:00 | GOES-19 | ALVORADA DO NORTE | GOIÁS | Brasil | 5200803 | 52 | 33 | nan | nan | nan | Cerrado | 73.9 |
-| 49fe4b80-641d-33c1-8198-15b66bbf502b | -10.7087 | -46.6682 | 2026-07-19 13:50:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 61.6 |
-| 8bb943ae-9b7d-3f0b-bd30-721017f6c0f6 | -18.0393 | -50.5399 | 2026-07-19 13:50:00 | GOES-19 | RIO VERDE | GOIÁS | Brasil | 5218805 | 52 | 33 | nan | nan | nan | Cerrado | 133.9 |
-| 1cb38b86-51a2-381c-a02b-e3b7e72ded17 | -11.8284 | -44.7579 | 2026-07-19 14:00:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 132.3 |
-| c6460b43-9b86-3621-8ded-6be0cdf1425b | -4.9512 | -50.8875 | 2026-07-19 14:00:00 | GOES-19 | ANAPU | PARÁ | Brasil | 1500859 | 15 | 33 | nan | nan | nan | Amazônia | 92.1 |
-| 3f5866c4-fb4a-3e9e-872a-112361164718 | -10.7087 | -46.6682 | 2026-07-19 14:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 96.4 |
-| 5d601878-34d5-3e78-8f6e-e39cea062a0c | -10.6901 | -46.6481 | 2026-07-19 14:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 195.2 |
-| 4f6b4271-b342-327e-ac1b-bbf3dd183278 | -7.1169 | -44.0339 | 2026-07-19 14:00:00 | GOES-19 | PORTO ALEGRE DO PIAUÍ | PIAUÍ | Brasil | 2208551 | 22 | 33 | nan | nan | nan | Cerrado | 78.0 |
-| d3e7859b-c5a0-3f85-885a-dc643e6ab12f | -10.7091 | -46.6457 | 2026-07-19 14:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 174.5 |
-| ff149308-b34f-334d-9d3d-2693e9787395 | -11.8284 | -44.7579 | 2026-07-19 14:10:00 | GOES-19 | RIACHÃO DAS NEVES | BAHIA | Brasil | 2926202 | 29 | 33 | nan | nan | nan | Cerrado | 79.5 |
-| ffdca2a8-006b-3087-9125-f034c7c4577d | -2.7768 | -49.4553 | 2026-07-19 14:10:00 | GOES-19 | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 100.6 |
+| 39c43e6d-0390-307f-9663-da31e95f2bdb | -17.46117 | -47.15781 | 2026-07-21 05:06:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| caf5a509-4c67-35cb-9896-dd4596ec9513 | -17.58528 | -47.50593 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 9.9 |
+| 57ee2182-d4d1-379f-90a1-e71041e457f5 | -20.38143 | -46.59616 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 764b4d42-78e4-3516-b3b8-0dd6762fc5d3 | -20.43736 | -46.47558 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 00d484d9-96dc-36af-9fee-f70a4d003162 | -18.54349 | -56.81618 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 45be8e3b-999f-3dc9-b449-5850092ebbde | -20.3757 | -46.59935 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 9d43138f-ee9b-3612-bf1d-ce69d4fddf40 | -16.80565 | -54.58915 | 2026-07-21 05:06:00 | NPP-375D | RONDONÓPOLIS | MATO GROSSO | Brasil | 5107602 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 6552157b-afd9-3031-8643-b22b7478479b | -16.80898 | -54.58971 | 2026-07-21 05:06:00 | NPP-375D | RONDONÓPOLIS | MATO GROSSO | Brasil | 5107602 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 74aef31a-ad3e-3b26-837e-63b4b940a034 | -20.51602 | -48.8619 | 2026-07-21 05:06:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| beefe5b8-79dc-3fb9-b987-e4e4809e293a | -19.18293 | -47.3662 | 2026-07-21 05:06:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 3c8a233d-8b46-3f4a-9c9f-3033047dbf3f | -20.89102 | -57.48495 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| 7002cfe0-6d5c-3520-9f7c-3de616945719 | -20.37541 | -46.60222 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| d4718c6f-3217-38a9-8330-0a366d6c998d | -20.37001 | -46.60225 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| cbc7f183-9b5a-3794-8a62-89202e55afa9 | -15.69786 | -56.12457 | 2026-07-21 05:06:00 | NPP-375D | VÁRZEA GRANDE | MATO GROSSO | Brasil | 5108402 | 51 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| ac5df9c5-a4aa-320a-a649-54fb37c12062 | -17.58859 | -47.50857 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| d018a155-e8c1-3c4e-96bd-177559b72759 | -19.61194 | -47.65098 | 2026-07-21 05:06:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 43012157-c840-3f0c-a7d9-fb622b7c09dd | -18.54685 | -56.81678 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 43.9 |
+| 686d85a6-10d3-3f0c-bda0-a6870a6328f6 | -18.54287 | -56.81991 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 5cc967f9-bcfe-397b-a627-91913be912be | -18.54747 | -56.81306 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 0d39ac33-eae7-360b-a9b0-3c731055daec | -17.86108 | -50.51522 | 2026-07-21 05:06:00 | NPP-375D | SANTA HELENA DE GOIÁS | GOIÁS | Brasil | 5219308 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| b19f050d-218d-3d86-9665-573886fd6ef0 | -20.87379 | -57.50521 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 5.0 |
+| f966b752-d224-307f-91a5-8bcf2a61b887 | -17.58374 | -47.50805 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 10b80d37-dca4-37c6-bf1d-cfc82b5a6663 | -17.46183 | -47.15213 | 2026-07-21 05:06:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 5661986c-b621-3f7c-ba2f-2229cf79a83b | -19.61259 | -47.64513 | 2026-07-21 05:06:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| f97fb1f7-6936-3d01-a543-5d6a5de63130 | -17.57952 | -47.50198 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c2bdf19c-2e2e-3afb-bcf1-6011ba0c0a15 | -20.89039 | -57.48875 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 4.9 |
+| ec9b3948-9dbc-319e-b076-328f8fa54f4f | -17.58043 | -47.5054 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| 232328ac-5d1c-3cfb-9f3f-d970447a0c0e | -18.55295 | -56.82174 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| 599adf6c-a0e6-3d8b-b1c5-61a4ffd9a5aa | -17.58462 | -47.51134 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 5a401554-d883-3f56-87db-30693f2bfa01 | -20.87357 | -57.48559 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 1.0 |
+| 5eb82467-995a-3f06-84a4-7d76532a3dfc | -18.55419 | -56.81427 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| 4948dd59-211e-3a1e-b48e-6e4b9f97a2a2 | -20.35857 | -46.60871 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 8ff55f93-ee3a-3a2c-97d8-9d26a8b3bca3 | -20.36398 | -46.60847 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.1 |
+| 7636d859-1067-3bfb-9bd1-534f4514c156 | -19.18843 | -47.36664 | 2026-07-21 05:06:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 0c3270d2-cf62-395a-85d4-9a176663c521 | -18.55083 | -56.81367 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.3 |
+| 2fb29ed0-2612-39f7-8900-dc95b61b3328 | -19.60767 | -47.64442 | 2026-07-21 05:06:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| b4826bf1-f55c-39e0-8ce3-cf20136bbf8d | -18.54623 | -56.82051 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 43.9 |
+| 40e1ffac-e1b6-3f50-82ca-27d9c9f771ef | -19.18793 | -47.36681 | 2026-07-21 05:06:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 127157e3-3ec3-3ad5-a46d-6cec56fcf288 | -17.58947 | -47.51187 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 6e1615a3-f37c-33a0-8509-b47d5d78ef12 | -20.87231 | -57.49319 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 66cc3f51-6516-395a-bd91-58aedc918e4e | -20.37508 | -46.60538 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 050c0fee-32f2-3ddf-8098-340c65a8ed89 | -20.38108 | -46.59947 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 27d514f7-d1fe-39c3-9a3d-24fba5a8b70f | -20.48239 | -54.98195 | 2026-07-21 05:06:00 | NPP-375D | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 5bb840f3-5605-3f12-a930-0ec26432db5f | -20.6195 | -55.69784 | 2026-07-21 05:06:00 | NPP-375D | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 78002661-87a0-3a01-9da5-356bb1db4632 | -20.35884 | -46.60609 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| 9bab42f2-4d9e-3ff1-8e48-f94fd68bc808 | -20.47902 | -54.98138 | 2026-07-21 05:06:00 | NPP-375D | TERENOS | MATO GROSSO DO SUL | Brasil | 5008008 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| e7a280af-55d0-3021-9ade-b9ae989edb31 | -20.43229 | -46.472 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 4f2c82c9-cc5c-3010-8c06-d41f2db43b07 | -18.55234 | -56.82546 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 29.5 |
+| 8c0f1fd7-fd61-32dd-b4b2-46194a324141 | -18.54897 | -56.82486 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 26.9 |
+| 2dbfdc18-e3ff-3fe8-99a8-2f1275596ba4 | -18.55021 | -56.8174 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 43.9 |
+| c1ac454b-aa3e-3c52-97ec-e9e458981276 | -22.37891 | -49.78669 | 2026-07-21 05:06:00 | NPP-375D | LUPÉRCIO | SÃO PAULO | Brasil | 3527801 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| 90a69411-7891-36b9-8017-548dbaea6d67 | -20.70325 | -50.53128 | 2026-07-21 05:06:00 | NPP-375D | AURIFLAMA | SÃO PAULO | Brasil | 3504206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 2e2fb829-ad4b-38f8-97ad-b3c6390462fd | -17.58437 | -47.50256 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 6.3 |
+| eb84d62f-fd9c-332b-94f9-cb4fbedef077 | -19.18359 | -47.36013 | 2026-07-21 05:06:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 7.0 |
+| 9cce90f1-3e2d-3166-81ac-8958dd07248a | -20.51741 | -48.86064 | 2026-07-21 05:06:00 | NPP-375D | BARRETOS | SÃO PAULO | Brasil | 3505500 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| f0dab122-1870-3a34-9c0f-cc8129de1595 | -17.45687 | -47.15166 | 2026-07-21 05:06:00 | NPP-375D | PARACATU | MINAS GERAIS | Brasil | 3147006 | 31 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 4cbb6dad-f358-371c-9d29-e6365d085542 | -20.88703 | -57.48812 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 271e4947-3bdf-34ee-a24a-6631e2762a0a | -19.18343 | -47.36603 | 2026-07-21 05:06:00 | NPP-375D | PERDIZES | MINAS GERAIS | Brasil | 3149804 | 31 | 33 | nan | nan | nan | Cerrado | 13.2 |
+| 99a85515-74a1-33ae-807f-c2fd822ee990 | -20.36425 | -46.60591 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 794843de-d4e4-3469-b74d-1653ae10afdd | -20.62283 | -55.69842 | 2026-07-21 05:06:00 | NPP-375D | ANASTÁCIO | MATO GROSSO DO SUL | Brasil | 5000708 | 50 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 38361319-36cc-3e91-8016-74a0cec31e85 | -17.86507 | -50.51577 | 2026-07-21 05:06:00 | NPP-375D | SANTA HELENA DE GOIÁS | GOIÁS | Brasil | 5219308 | 52 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 80566aaa-b73a-3749-be7f-49a62168d76c | -18.5548 | -56.81055 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 5.9 |
+| c0f3bba5-8afe-365c-8e49-167cce9090c0 | -20.43268 | -46.46828 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 12643ed8-224f-3ed7-947f-aeffabf62ece | -19.60831 | -47.63863 | 2026-07-21 05:06:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 4a42db5f-8240-3769-87af-7702c9225e75 | -17.6557 | -48.20481 | 2026-07-21 05:06:00 | NPP-375D | IPAMERI | GOIÁS | Brasil | 5210109 | 52 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 783592f9-665a-302a-8780-ff1362cf87dc | -17.58312 | -47.51342 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 8110b4dc-5830-3969-95ab-85391de5a15b | -18.55357 | -56.818 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| 3ce21e61-cbe0-3421-bee7-618494529947 | -20.376 | -46.59645 | 2026-07-21 05:06:00 | NPP-375D | DELFINÓPOLIS | MINAS GERAIS | Brasil | 3121209 | 31 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 53793061-4e70-3f91-b9e6-00453a367d97 | -19.71669 | -53.2418 | 2026-07-21 05:06:00 | NPP-375D | ÁGUA CLARA | MATO GROSSO DO SUL | Brasil | 5000203 | 50 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 0c2b818d-7238-362d-974f-f81667451bab | -19.60895 | -47.63279 | 2026-07-21 05:06:00 | NPP-375D | UBERABA | MINAS GERAIS | Brasil | 3170107 | 31 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| cba6467a-5aed-335a-a9bf-d41947f52cab | -17.5811 | -47.49983 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 2.3 |
+| fe73dedb-1f75-3c11-a97d-4062949fbc95 | -22.15071 | -49.15297 | 2026-07-21 05:06:00 | NPP-375D | BAURU | SÃO PAULO | Brasil | 3506003 | 35 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 7ab02478-1f19-318f-bfc4-5ed29d7339b1 | -17.58798 | -47.51389 | 2026-07-21 05:06:00 | NPP-375D | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 4a23cdb7-110e-34ae-9b5d-755bfd8fd5ae | -18.55631 | -56.82234 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 25.7 |
+| c79d5db6-8162-3500-9e26-3ab9dc6c5d9a | -18.54959 | -56.82113 | 2026-07-21 05:06:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 43.9 |
+| 4c909f8e-c5ca-3641-931e-ecd6f25de463 | -20.87294 | -57.48938 | 2026-07-21 05:06:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Pantanal | 1.7 |
+| 7130de96-f7c1-3919-a8df-d3ba4f8ec1d2 | -20.6991 | -50.53073 | 2026-07-21 05:06:00 | NPP-375D | AURIFLAMA | SÃO PAULO | Brasil | 3504206 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| 9000e40b-1ed0-32f4-ae6c-0c3e7aa20eb3 | -23.14132 | -48.6746 | 2026-07-21 05:08:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| e91e36b1-20aa-3e3c-9010-9a6ab38d7d01 | -25.03489 | -50.7269 | 2026-07-21 05:08:00 | NPP-375D | IVAÍ | PARANÁ | Brasil | 4111407 | 41 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| bb600a96-5966-34ad-bccd-2fe4735d3560 | -22.79495 | -49.34334 | 2026-07-21 05:08:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| a9297bee-29c0-3d12-a17f-7d0fffd455f8 | -22.80029 | -49.34774 | 2026-07-21 05:08:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 5092690b-8efb-35c6-99ee-550fe0baa8f3 | -22.79902 | -49.34886 | 2026-07-21 05:08:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 420495ff-1baf-3598-96d2-3a20bcf8b9bb | -22.79626 | -49.34219 | 2026-07-21 05:08:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| a1e5a7d4-d4ea-3ca0-ac34-b627b4308051 | -23.77858 | -49.0421 | 2026-07-21 05:08:00 | NPP-375D | ITABERÁ | SÃO PAULO | Brasil | 3521705 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 73c0cdf2-09c7-34ca-a42b-206e51ca08b6 | -23.5614 | -47.52477 | 2026-07-21 05:08:00 | NPP-375D | SOROCABA | SÃO PAULO | Brasil | 3552205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
+| c56aece2-baec-3fe2-8341-e6e254272b94 | -23.56205 | -47.51806 | 2026-07-21 05:08:00 | NPP-375D | SOROCABA | SÃO PAULO | Brasil | 3552205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 30a0ded4-dd98-3f24-92cf-9026042e1609 | -23.13646 | -48.67432 | 2026-07-21 05:08:00 | NPP-375D | ITATINGA | SÃO PAULO | Brasil | 3523503 | 35 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| dbd609c5-3f8e-3499-ad46-f6d114b449cf | -23.56726 | -47.51879 | 2026-07-21 05:08:00 | NPP-375D | SOROCABA | SÃO PAULO | Brasil | 3552205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| ef91d0f1-b52f-30f8-b702-72512ef8b88e | -23.28975 | -46.16148 | 2026-07-21 05:08:00 | NPP-375D | SANTA ISABEL | SÃO PAULO | Brasil | 3546801 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 07c3c280-401a-3cc4-b5c0-230dfd1dea63 | -23.56173 | -47.52137 | 2026-07-21 05:08:00 | NPP-375D | SOROCABA | SÃO PAULO | Brasil | 3552205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 05667f6e-a179-3382-8094-b6d3bb91ebf3 | -26.31236 | -50.26579 | 2026-07-21 05:08:00 | NPP-375D | PAPANDUVA | SANTA CATARINA | Brasil | 4212205 | 42 | 33 | nan | nan | nan | Mata Atlântica | 1.5 |
+| 804b2c99-9ea2-3283-8fa0-c61937d01d47 | -23.29542 | -46.16204 | 2026-07-21 05:08:00 | NPP-375D | SANTA ISABEL | SÃO PAULO | Brasil | 3546801 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.3 |
+| 0036a00a-6502-31c8-a62b-98600b539020 | -22.79568 | -49.34724 | 2026-07-21 05:08:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| da29340d-05cc-34ce-8543-862f36755d80 | -23.56694 | -47.52211 | 2026-07-21 05:08:00 | NPP-375D | SOROCABA | SÃO PAULO | Brasil | 3552205 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.9 |
+| 8872e3a6-6870-3525-b1ee-3da2294bcff6 | -22.79955 | -49.34387 | 2026-07-21 05:08:00 | NPP-375D | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 08517fee-b9ae-371f-8a8b-bb0d0d9e676a | -13.3032 | -45.1045 | 2026-07-21 05:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 49.3 |
+| 69827add-f31c-3596-bd95-ebe672fa0761 | -13.3221 | -45.1246 | 2026-07-21 05:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 102.0 |
+| 08a1cacc-501b-3786-a2a9-4b32cfa7018a | -13.3023 | -45.1511 | 2026-07-21 05:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 41.3 |
+| be51c85f-87f1-3586-abcb-d401aca57871 | -13.3028 | -45.1278 | 2026-07-21 05:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 157.9 |
+| 33b46d6f-1c85-31b7-b80d-bfb9b9223c43 | -18.5472 | -56.8343 | 2026-07-21 05:10:00 | GOES-19 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 113.5 |
 
 
 [Clique aqui para ver as próximas entradas](README14.md)
