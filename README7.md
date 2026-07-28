@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| b4b140ac-06b2-3ea5-825b-1a2f5c8e6ef7 | -11.44842 | -47.53083 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.1 |
-| 1c8a7de9-fc98-3201-a022-0f1c185bca5a | -7.1739 | -59.31648 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 58e91c38-c66b-38a3-8c65-5154037f78bd | -7.17751 | -59.31709 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.8 |
-| 4718a478-37e4-3652-abe0-4314a36913e0 | -9.63565 | -45.51833 | 2026-07-27 05:10:00 | NOAA-20 | GILBUÉS | PIAUÍ | Brasil | 2204402 | 22 | 33 | nan | nan | nan | Cerrado | 3.7 |
-| 5d856035-157a-359a-a52b-4148ed2b1479 | -7.22927 | -49.59695 | 2026-07-27 05:10:00 | NOAA-20 | RIO MARIA | PARÁ | Brasil | 1506161 | 15 | 33 | nan | nan | nan | Amazônia | 1.5 |
-| e2a2f30d-adf8-3a66-8347-d737785e165d | -10.06253 | -60.50087 | 2026-07-27 05:10:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 983f3ef9-ae76-322e-80d4-7efd9fbddc6a | -7.90379 | -48.05234 | 2026-07-27 05:10:00 | NOAA-20 | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 755777e3-1744-3ac3-a074-61971d810f4f | -9.45671 | -51.8274 | 2026-07-27 05:10:00 | NOAA-20 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 53a4b94e-f65f-3e70-9b04-ee9d9dd813da | -13.34461 | -51.36077 | 2026-07-27 05:10:00 | NOAA-20 | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| c2c81237-bb9a-3eb8-b30a-2ac6da70ec02 | -10.53189 | -48.61489 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| 29d77153-2ad0-3465-88d9-84a8ca769e9a | -11.47898 | -47.55265 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| bfd4eb42-fdc7-30f7-b416-b867cfeeb19d | -7.16961 | -59.32003 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| 263e745a-622a-3796-acdd-71d04b2a91d4 | -7.17029 | -59.31587 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| b027c866-3394-3acd-b4d7-4f7cf29bd607 | -11.84289 | -50.22533 | 2026-07-27 05:10:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.6 |
-| 04fb10be-c774-3429-891e-2001055a7279 | -11.49013 | -47.55215 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 19ef3062-2d26-3aae-848f-29656f4bb348 | -12.32481 | -47.18625 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 241e9b88-d790-32c8-b449-7fa6885a41eb | -13.6924 | -51.91009 | 2026-07-27 05:10:00 | NOAA-20 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 6467b469-a669-345a-a4c5-30b2229391fb | -9.47877 | -63.36789 | 2026-07-27 05:10:00 | NOAA-20 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 16e56ab0-9f55-30df-b6cd-14129b3b777e | -8.82749 | -47.08833 | 2026-07-27 05:10:00 | NOAA-20 | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| bf66615d-ddc3-3fde-a81e-a417c0a8ea8d | -12.32236 | -47.18291 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| 91933f6e-f91c-3b3a-8896-21e0494e0cba | -7.17683 | -59.32127 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
-| 218c3d58-c23e-3d28-b9e9-4226819047d9 | -11.99013 | -45.56772 | 2026-07-27 05:10:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| cc62018b-dcb6-3ac0-9be7-f1f4ecff362a | -10.90622 | -56.36297 | 2026-07-27 05:10:00 | NOAA-20 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| d1956a66-5bf9-306d-9477-d08374acfe77 | -11.49623 | -47.54782 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 11ff77d4-2dab-3ee2-b3c4-120b4ad7c8b5 | -11.48941 | -47.55782 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 14288703-03cb-334b-8e81-2c39bb3f27f1 | -13.6961 | -51.91437 | 2026-07-27 05:10:00 | NOAA-20 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 2.7 |
-| 0a824461-a142-35ab-a3fc-4379c9e66889 | -7.06274 | -55.51045 | 2026-07-27 05:10:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.4 |
-| 6361cd64-5cfe-3e21-ae99-8feddf73d9cf | -10.53229 | -48.61197 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| f8a4cf06-31ef-3f62-809f-9e42fce6dba7 | -9.47431 | -63.36698 | 2026-07-27 05:10:00 | NOAA-20 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 2.3 |
-| 06da4da3-0f23-3f36-b575-119fa07d972d | -8.89557 | -60.59986 | 2026-07-27 05:10:00 | NOAA-20 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 1.7 |
-| 642d6460-77f0-302d-96dd-65d48b7c00bd | -10.54258 | -48.61186 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 7.4 |
-| ae3d3581-0461-3d7a-8127-3d230922eeee | -12.32435 | -47.19017 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 0a3ab89e-f5e7-3511-be50-ed259d31bc89 | -10.93482 | -43.06001 | 2026-07-27 05:10:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 54.5 |
-| 06b39ef1-f2bd-3745-8335-63d410657fd7 | -11.46495 | -47.53187 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 6889b7db-ea44-3fcc-8ef1-f133977f19ca | -7.16805 | -59.30692 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 33014aae-0eee-3e24-a2b5-245e8d6228ce | -11.45921 | -47.53337 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| fb21bd0f-411b-3bed-97c1-863e2e8bd655 | -11.98586 | -45.56422 | 2026-07-27 05:10:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 71c5f150-a634-3742-95b9-e46cfbac3746 | -10.93643 | -43.04581 | 2026-07-27 05:10:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 46.9 |
-| 4beb7b72-1342-35b4-ba4d-0cd6d217dd4e | -10.53753 | -48.6115 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 73434b3c-0465-3fcd-943e-209db8a49194 | -11.48979 | -47.55485 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 98e4b1ca-3576-3663-b74b-0b54cfd3cc19 | -12.3127 | -46.38702 | 2026-07-27 05:10:00 | NOAA-20 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| fb3fd4f7-7eb6-3992-ba4c-8e958fd60eb1 | -12.31918 | -47.18539 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| 3e362c48-4604-3765-a6d3-489e081a2fad | -12.32287 | -50.37431 | 2026-07-27 05:10:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| b2d0da53-b970-356d-b77c-dcc127226565 | -7.16668 | -59.31528 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.2 |
-| 5e44655f-11c6-341f-85aa-7989fa18ab2f | -7.90419 | -48.04951 | 2026-07-27 05:10:00 | NOAA-20 | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 0.5 |
-| 61c9b20f-f69f-3da3-8cba-fe6ab0f87f3f | -9.73137 | -63.42806 | 2026-07-27 05:10:00 | NOAA-20 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 1.6 |
-| 0c6aa5e4-5af9-3f4e-a1b7-8945c0f9aecc | -11.46222 | -47.55358 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 69c0b46c-938d-38e6-972b-3b2ee4cc9eb9 | -13.69931 | -51.89066 | 2026-07-27 05:10:00 | NOAA-20 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| 930d6d5d-7bb5-3917-8a23-fab7a504ec97 | -7.17322 | -59.32064 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b0ec5a73-5682-3cd3-9f68-f99d5464ce62 | -12.31501 | -46.38827 | 2026-07-27 05:10:00 | NOAA-20 | TAGUATINGA | TOCANTINS | Brasil | 1720903 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
-| 132a186f-1c93-34d9-a21e-7ee7b0e9d85a | -13.69293 | -51.90617 | 2026-07-27 05:10:00 | NOAA-20 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 2423da4f-65a0-3d64-95b6-53e28762cf3b | -12.32528 | -47.18235 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| 20172d28-6a8b-399e-8eeb-eb5ef62d5854 | -11.15284 | -51.19912 | 2026-07-27 05:10:00 | NOAA-20 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 46fe43b5-4fd6-373a-86a1-42a0e5875908 | -12.31672 | -47.1821 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.9 |
-| f0fef81e-2125-3f12-acdd-0cb8e609db05 | -8.83336 | -47.08567 | 2026-07-27 05:10:00 | NOAA-20 | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| ada42406-c74d-3cd8-9dfc-146cee1789a5 | -10.93563 | -43.0529 | 2026-07-27 05:10:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 54.5 |
-| b147da62-62d8-3695-b8b1-3e0eb5c339ce | -8.29933 | -55.11162 | 2026-07-27 05:10:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 0.6 |
-| 0dd52f06-af23-31d1-91ed-4089afec86d0 | -8.75434 | -64.84483 | 2026-07-27 05:10:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 39d23418-a7b2-3f4b-b4b1-f66cb159a850 | -11.48473 | -47.55104 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
-| 1a3ef3f3-c9d0-3985-a36f-a8dd0fed46b5 | -11.45954 | -47.5307 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 1aa90a9d-5f3f-3f72-86a3-d26ca92a4a72 | -8.75381 | -64.84776 | 2026-07-27 05:10:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.3 |
-| 09cb44f7-0da9-3b55-a387-d09a9c16a591 | -10.94197 | -43.06084 | 2026-07-27 05:10:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 54.5 |
-| e065071f-0066-3ef3-b8cf-c9cc1f08b5ac | -9.43747 | -64.5667 | 2026-07-27 05:10:00 | NOAA-20 | PORTO VELHO | RONDÔNIA | Brasil | 1100205 | 11 | 33 | nan | nan | nan | Amazônia | 1.0 |
-| b420ce3f-3a59-3a27-a668-38f7c4ff7bc2 | -10.53215 | -48.61368 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| abe16933-20cd-3787-9a27-7a9874cfd2b6 | -13.70351 | -51.8912 | 2026-07-27 05:10:00 | NOAA-20 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
-| d819f710-dc1b-338b-91d7-fd77a61c1db8 | -12.32187 | -47.18681 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 3fbc0264-b191-359c-83b4-bbb3892bf8bb | -7.17097 | -59.3117 | 2026-07-27 05:10:00 | NOAA-20 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 1.9 |
-| 260a1239-d332-3bfc-a68e-19d802a84ad4 | -12.31871 | -47.18933 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
-| bab9738b-f06b-3a3e-92c4-eb09c763d7c5 | -10.5364 | -48.62025 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| dc2eaa82-90e8-3beb-9657-064400e2447e | -11.5024 | -50.18421 | 2026-07-27 05:10:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.4 |
-| 5cc19df3-60b2-33d2-aaf9-077287975064 | -10.95202 | -51.0063 | 2026-07-27 05:10:00 | NOAA-20 | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 0.7 |
-| cdd038b6-08ca-37b8-b413-37c73cd3a169 | -11.46266 | -47.55007 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.8 |
-| 2c290833-0257-34aa-9e50-15fd1fd8a113 | -11.49587 | -50.16412 | 2026-07-27 05:10:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| e18bd3ea-43c1-3df3-aa7f-9c830fd48e9c | -11.98647 | -45.55917 | 2026-07-27 05:10:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| 5c289de3-a1ce-3206-8626-a0d88e5fbe02 | -11.9907 | -45.56273 | 2026-07-27 05:10:00 | NOAA-20 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 2.0 |
-| 5a130365-e2d1-3dc8-b034-3581ef86e337 | -10.53566 | -48.62603 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 1.5 |
-| aba76a3b-4baf-3f5c-a761-7b45568bf83a | -12.31964 | -47.18148 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
-| cd20b174-f0c3-3945-82a9-b4a411b1ff52 | -12.32138 | -47.19073 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
-| 0e0eae6e-7308-3af5-919a-53b2bdc69442 | -11.46462 | -47.53448 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
-| 570214dc-fe4a-3c8a-a665-e38d4ca4039c | -11.49588 | -47.55058 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| eb3f439d-75a2-35c4-b9d5-c0d2052659d3 | -11.44257 | -47.53328 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.3 |
-| af7b815b-5dea-3f07-95cb-844255cb682b | -7.89877 | -48.05172 | 2026-07-27 05:10:00 | NOAA-20 | PALMEIRANTE | TOCANTINS | Brasil | 1715705 | 17 | 33 | nan | nan | nan | Cerrado | 0.4 |
-| a0495c17-bb98-3ec3-a87a-f4f2cc77f6e0 | -10.53715 | -48.61443 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 12.3 |
-| 26106577-2d8d-3283-98b4-97ee3bb6ed14 | -10.94116 | -43.06796 | 2026-07-27 05:10:00 | NOAA-20 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 28.2 |
-| 282df48c-eb72-3e44-ab8e-84d47068fe91 | -9.4036 | -48.94404 | 2026-07-27 05:10:00 | NOAA-20 | DOIS IRMÃOS DO TOCANTINS | TOCANTINS | Brasil | 1707207 | 17 | 33 | nan | nan | nan | Cerrado | 0.9 |
-| 502b4cfb-eef8-3da4-9ffe-d19a779e6ee0 | -11.46811 | -47.55085 | 2026-07-27 05:10:00 | NOAA-20 | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
-| 99123698-e5a1-30cd-a500-98f34d93d16f | -12.31824 | -47.19327 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 9.2 |
-| fab34316-6757-3a1b-9956-7a4725dd2696 | -10.09797 | -59.14771 | 2026-07-27 05:10:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.5 |
-| be13354c-2559-3159-87c3-a58d03df9567 | -10.90953 | -56.36349 | 2026-07-27 05:10:00 | NOAA-20 | NOVA CANAÃ DO NORTE | MATO GROSSO | Brasil | 5106216 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
-| 3c9ea0e4-f0a0-31e1-8add-e78e50a06977 | -10.53177 | -48.6166 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 47f53663-1e91-380f-a2d8-b3d917378c20 | -10.53791 | -48.60852 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 3.8 |
-| 5a0f328d-ad62-3350-a6c1-12e63ce9eb05 | -12.32204 | -50.3768 | 2026-07-27 05:10:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 2.6 |
-| 89e85f36-0865-3208-91f4-8645fd20c331 | -10.05883 | -60.50022 | 2026-07-27 05:10:00 | NOAA-20 | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 0.7 |
-| 88b80f1a-c9dc-34c4-859d-cc4f1898e320 | -8.82794 | -47.08488 | 2026-07-27 05:10:00 | NOAA-20 | RECURSOLÂNDIA | TOCANTINS | Brasil | 1718501 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
-| 8c69122d-6e97-3c84-9af7-faa34f52f023 | -11.49652 | -50.1594 | 2026-07-27 05:10:00 | NOAA-20 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
-| a44522f6-a693-3c27-9480-a76686e8501c | -9.77131 | -63.37317 | 2026-07-27 05:10:00 | NOAA-20 | ALTO PARAÍSO | RONDÔNIA | Brasil | 1100403 | 11 | 33 | nan | nan | nan | Amazônia | 2.0 |
-| a82ed629-1a40-35d2-bc72-454b06e85bf9 | -11.88996 | -43.83261 | 2026-07-27 05:10:00 | NOAA-20 | WANDERLEY | BAHIA | Brasil | 2933455 | 29 | 33 | nan | nan | nan | Cerrado | 5.6 |
-| e36d13a6-85ad-3ea1-8425-3c67124c0a70 | -10.53149 | -48.61782 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 2.8 |
-| ebf4f9c2-8fa8-3ec9-87fd-fddf86d4ee17 | -10.53678 | -48.61734 | 2026-07-27 05:10:00 | NOAA-20 | PORTO NACIONAL | TOCANTINS | Brasil | 1718204 | 17 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| 41b7bd55-e2f2-329d-a95c-d35255864dda | -12.31623 | -47.18601 | 2026-07-27 05:10:00 | NOAA-20 | CONCEIÇÃO DO TOCANTINS | TOCANTINS | Brasil | 1705607 | 17 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 694ab379-0bf5-3805-a450-0d1e74dc73aa | -9.4004 | -40.3474 | 2026-07-28 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 106.6 |
+| b3f11048-d4aa-39dc-adc5-d8b9cfd7f4e9 | -11.9676 | -45.5445 | 2026-07-28 01:50:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 57.0 |
+| af4ebce0-06a8-3623-88a5-9aaa3ffcfb2f | -11.7879 | -47.0884 | 2026-07-28 01:50:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 83.4 |
+| 15ef35f0-18fa-3660-b060-4e854ed238b2 | -9.4 | -40.3722 | 2026-07-28 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 135.1 |
+| 64353f13-1225-377f-8334-c493a3759e08 | -13.3032 | -45.1045 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 246.6 |
+| 53ca4ebf-f5c8-3520-89df-a50b7996547f | -14.2882 | -58.9638 | 2026-07-28 02:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 42.2 |
+| eac62f2d-cc0d-3eee-b374-12a4c32e662f | -10.9401 | -43.0355 | 2026-07-28 02:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 203.2 |
+| 50d45dc0-8c5b-3d3a-9ecb-c7c5ef96f071 | -11.7879 | -47.0884 | 2026-07-28 02:00:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 74.1 |
+| a6975918-217d-3c2c-b80a-7cdd23b5fdb0 | -12.8543 | -44.386 | 2026-07-28 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 75.0 |
+| 12880544-74d3-34cd-b893-706fcc90de44 | -20.723 | -49.4242 | 2026-07-28 02:00:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 115.4 |
+| c128075d-169d-31b1-af6e-4471a5e1735e | -9.4004 | -40.3474 | 2026-07-28 02:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 63.3 |
+| b9d9f013-8e02-3cda-ba10-7e32f373fa70 | -9.4 | -40.3722 | 2026-07-28 02:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 75.0 |
+| 9326aebd-8851-30d7-a6a1-1e92dadcb62e | -13.3028 | -45.1278 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 58.5 |
+| 02118735-45f0-3ce5-997e-51ce1f6469f1 | -11.7882 | -47.0659 | 2026-07-28 02:00:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 53.2 |
+| 04018ac6-98b3-32ab-acee-71da012ec3b6 | -14.3074 | -58.9621 | 2026-07-28 02:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 47.5 |
+| 646180ea-02be-3c96-8501-c7b64324f86d | -17.3235 | -42.663 | 2026-07-28 02:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 62.1 |
+| 70617ff6-1381-3273-8b93-5b122b1defc1 | -10.9588 | -43.0565 | 2026-07-28 02:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 70.7 |
+| 5075d213-ea60-32a6-b4c6-a04de935f94e | -10.9397 | -43.0593 | 2026-07-28 02:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 320.7 |
+| bb1b4644-95aa-39d9-8e2e-e55da2318b53 | -10.3822 | -49.5849 | 2026-07-28 02:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 67.9 |
+| f109a2a2-8509-353c-8775-c8ca6ab9d71a | -17.3034 | -42.6678 | 2026-07-28 02:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 76.8 |
+| ace3d515-1650-33db-89e3-01e0967b1df0 | -11.9676 | -45.5445 | 2026-07-28 02:00:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 47.5 |
+| da5055b1-69be-38b0-97bd-cf087338cfe1 | -13.2838 | -45.1077 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 56.1 |
+| 91f4c637-10a3-3c16-ae48-d90a4649a1cf | -20.7223 | -49.4471 | 2026-07-28 02:00:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 99.8 |
+| 1aaae02e-975e-3a4d-ba89-cb26585e8d6c | -13.3037 | -45.0812 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 58.4 |
+| ea5fd218-a9c1-3f61-8378-28393bfa00f6 | -10.9588 | -43.0565 | 2026-07-28 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 78.6 |
+| 29d8df81-68ce-34bb-8fcc-cb45d5ffbfb3 | -17.3034 | -42.6678 | 2026-07-28 02:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 71.0 |
+| 015e8a4e-54bb-3759-af3e-00452adb5180 | -20.7429 | -49.4427 | 2026-07-28 02:10:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 59.7 |
+| 4e0bd9a4-7f23-3fa7-8812-0e626e508e9f | -17.3235 | -42.663 | 2026-07-28 02:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 48.1 |
+| f68d4077-da5e-38eb-a63c-2ecea7d2f6bf | -13.3037 | -45.0812 | 2026-07-28 02:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 69.9 |
+| ad92eccd-fbc7-39fe-ba60-b1a83f3f2286 | -11.9676 | -45.5445 | 2026-07-28 02:10:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 46.2 |
+| 3596362b-ebde-39d0-893b-6e9144a5ef9a | -10.9401 | -43.0355 | 2026-07-28 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 194.1 |
+| 89c853ed-43d8-35f9-be44-fde1e6cf2955 | -11.7879 | -47.0884 | 2026-07-28 02:10:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 89.5 |
+| b8db357d-3f3e-3ab5-a121-0319fdccecb4 | -13.3032 | -45.1045 | 2026-07-28 02:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 209.0 |
+| 1512d357-0a37-3636-9dfd-ad3a51cb9a23 | -10.9397 | -43.0593 | 2026-07-28 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 344.1 |
+| ccc2b8ec-ecbd-39ae-979a-378173b489ea | -20.7223 | -49.4471 | 2026-07-28 02:10:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 71.1 |
+| ff6bd9ab-631c-3711-8ee7-6ebcc633198d | -20.723 | -49.4242 | 2026-07-28 02:10:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 84.1 |
+| 3b85ee39-5b36-3f30-9392-3b712aaa02ee | -20.7435 | -49.4197 | 2026-07-28 02:10:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 69.4 |
+| 8451ac94-bbea-377e-9fff-c4e71218840f | -13.3028 | -45.1278 | 2026-07-28 02:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 55.5 |
+| 97d9a471-617d-3989-bd38-a6907b48207e | -13.3 | -45.1 | 2026-07-28 02:15:00 | MSG-03 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 2cdcbce0-d37c-3ad6-b7af-ea05d7e5f5ca | -10.94 | -43.05 | 2026-07-28 02:15:00 | MSG-03 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | nan |
+| 91547981-2cd6-33b2-8020-1880b989d7fe | -17.3034 | -42.6678 | 2026-07-28 02:20:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 48.7 |
+| 48a05631-d6cf-3fb7-8c25-1caf0378b370 | -10.9401 | -43.0355 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 157.0 |
+| 72d474ad-c013-3bc6-952b-5e4ee3eb1258 | -20.7223 | -49.4471 | 2026-07-28 02:20:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 71.9 |
+| 523c28ab-b692-3329-a1ca-ba53840f35bd | -10.9593 | -43.0326 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.0 |
+| 551ceaf4-1c17-3ce6-b87d-96f8566b8edd | -10.9588 | -43.0565 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 94.3 |
+| 48b3401e-b9b8-31bc-a8c6-bff414aac6bc | -10.9397 | -43.0593 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 234.4 |
+| b5bf13ed-b6e8-34ad-9576-dfe5f7449a88 | -13.3032 | -45.1045 | 2026-07-28 02:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 198.3 |
+| b82b8ab9-8646-3fb0-b1d8-7638680e5d34 | -10.3822 | -49.5849 | 2026-07-28 02:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
+| 1ef0ddaa-163c-3371-84f0-539c74dda831 | -11.7879 | -47.0884 | 2026-07-28 02:20:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 69.1 |
+| 1a977ddd-31ba-38a2-9dde-7e77d1776bd6 | -13.3037 | -45.0812 | 2026-07-28 02:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 53.7 |
+| 8ac95d79-d44e-30ce-8e9a-14bcc3c9a5c3 | -17.3235 | -42.663 | 2026-07-28 02:20:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 45.4 |
+| 3e1f0ea0-0ca1-373f-89b8-f0c777540c4c | -20.723 | -49.4242 | 2026-07-28 02:20:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 120.6 |
+| ccc05a5b-2bd5-3a39-ac4e-4bdd9243c8e0 | -20.7435 | -49.4197 | 2026-07-28 02:30:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 67.6 |
+| c9ec43c2-3974-38ec-ae57-50e7cedffeec | -11.9868 | -45.5417 | 2026-07-28 02:30:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 51.6 |
+| db225f03-a991-32dc-8a1e-052b3e345ef4 | -10.9397 | -43.0593 | 2026-07-28 02:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 201.8 |
+| d0a77be5-4800-32cf-a55f-88c61cf16435 | -11.7879 | -47.0884 | 2026-07-28 02:30:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 59.5 |
+| 26842aa0-f1cf-3490-a733-957d2a08a1a7 | -13.3037 | -45.0812 | 2026-07-28 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 70.4 |
+| 31ebc257-6d14-3474-9fdf-7d41dfeb6fbf | -10.9588 | -43.0565 | 2026-07-28 02:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 91.8 |
+| 9bc0b1da-04b9-300a-ad35-d58b5ce1d420 | -20.723 | -49.4242 | 2026-07-28 02:30:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 86.2 |
+| f0af9765-6d7a-3df9-acb6-a65f0c9564ae | -17.3034 | -42.6678 | 2026-07-28 02:30:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 48.6 |
+| 9af5b160-f907-3731-ae06-d783727dc12c | -20.7223 | -49.4471 | 2026-07-28 02:30:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 50.9 |
+| 6af18c6f-7208-3660-b053-2f5766643e57 | -10.9401 | -43.0355 | 2026-07-28 02:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 100.6 |
+| eb2aac61-2797-35cc-a5ce-0bbfe1a6a9fd | -13.2838 | -45.1077 | 2026-07-28 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 53.6 |
+| 411946d5-f3df-301e-91e7-d38d7c6b10d7 | -13.3032 | -45.1045 | 2026-07-28 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 198.6 |
+| 1732bf4d-3d10-3797-b31e-47795c357c97 | -11.9676 | -45.5445 | 2026-07-28 02:30:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 59.1 |
+| 94d6c866-08fb-36cb-a2c1-f9e6e5800bd4 | -13.3226 | -45.1013 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 51.2 |
+| fcf6899f-1dd5-3783-bd00-33f27d25db6d | -20.723 | -49.4242 | 2026-07-28 02:40:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 82.9 |
+| 93649fa7-0dd8-312d-88fc-0986e553dcf9 | -22.0646 | -56.5299 | 2026-07-28 02:40:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 58.4 |
+| 49d3616b-9e30-3adc-a7d1-af7f902eae3d | -10.9401 | -43.0355 | 2026-07-28 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 122.8 |
+| 7474097b-3873-34a0-b367-414972a6a445 | -20.7435 | -49.4197 | 2026-07-28 02:40:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 61.0 |
+| ffd5a24c-5b7e-326a-b7f7-ac440a134488 | -10.3822 | -49.5849 | 2026-07-28 02:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 61.2 |
+| 2ebc42c2-7d66-3282-b0b5-507cd5daa30c | -13.3037 | -45.0812 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 73.3 |
+| a1c62719-4640-31de-a82c-b79a15579900 | -10.9588 | -43.0565 | 2026-07-28 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 73.7 |
+| cf0af1b2-392c-3d32-963b-d366394ccb35 | -10.9397 | -43.0593 | 2026-07-28 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 173.6 |
+| 98b58e85-3290-3a34-99bb-d6f33a6f2e06 | -13.3032 | -45.1045 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 196.0 |
+| b836d220-14c9-3c0b-ba64-9f21ce87667a | -13.2838 | -45.1077 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 77.4 |
+| 840d9f2b-bcf4-36c5-b620-6b19402bc709 | -10.9401 | -43.0355 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 125.0 |
+| 14f8bb97-3f15-39ca-a28f-fb47af8fb1ab | -10.9397 | -43.0593 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 227.1 |
+| 08e25d10-5249-366e-b5fa-f4ec42f2b573 | -13.2838 | -45.1077 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 94.6 |
+| 59d2a69d-c4fb-3d3f-ac8d-adde59f28d53 | -13.3037 | -45.0812 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 99.0 |
+| fc8cac7b-b82d-3676-914f-dea6b34a36f1 | -22.0646 | -56.5299 | 2026-07-28 02:50:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 66.5 |
+| 9156ae92-bfe8-34fa-ac60-944458c5d058 | -13.3032 | -45.1045 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 180.6 |
+| 903978ee-a224-3e3e-9b5e-d28fbfc27279 | -9.4004 | -40.3474 | 2026-07-28 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 156.9 |
+| c8562b2c-41a7-38f1-a3ad-cb4ac4486343 | -10.9588 | -43.0565 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 85.8 |
+| cd489cd8-aca9-3950-975d-0c162b68458d | -9.4 | -40.3722 | 2026-07-28 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 134.0 |
+| e83b1103-27b3-38b4-9766-c24807c6f15e | -13.2843 | -45.0844 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 58.8 |
+| 6ac521e2-0bdc-3081-a956-293b0e1e4216 | -20.7223 | -49.4471 | 2026-07-28 02:50:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 54.0 |
+| e4695675-e5ee-3c05-9d0b-72f3bde108e3 | -20.723 | -49.4242 | 2026-07-28 02:50:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 73.4 |
+| f74e8d2c-af96-33c0-b3d3-53bbd7bdd29f | -10.9205 | -43.0622 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 76.5 |
+| e0740325-0192-3927-a3a9-252a75fa0f8d | -9.4004 | -40.3474 | 2026-07-28 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 69.8 |
+| 577e1ebf-e2b0-3ab5-8a44-67720947f59c | -20.7223 | -49.4471 | 2026-07-28 03:00:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 64.2 |
+| c5fb4292-cf3f-373e-99bc-5c06748db42e | -13.3032 | -45.1045 | 2026-07-28 03:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 153.4 |
+| 61f1d995-f26a-3021-95e6-656de3365008 | -13.2838 | -45.1077 | 2026-07-28 03:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 78.2 |
+| a917650e-9161-3078-8999-6b79b229663c | -11.9868 | -45.5417 | 2026-07-28 03:00:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 46.2 |
+| 8a1f6ba5-adf4-3f1d-9824-ac2deaa3ce1b | -11.9676 | -45.5445 | 2026-07-28 03:00:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 58.6 |
+| a7837676-60c7-3e25-b8d5-2b1b385e901c | -10.9205 | -43.0622 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 63.7 |
+| 22ab1ade-1af6-3aff-8793-78c443d66e7a | -20.723 | -49.4242 | 2026-07-28 03:00:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 83.3 |
+| 9b3aad24-555f-38c7-a72d-e679ea9e3722 | -10.9397 | -43.0593 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 211.8 |
+| 3d6a9755-37de-3059-94ed-2aa9dcb24407 | -10.9401 | -43.0355 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 174.2 |
+| 0508bd3a-7a19-30d8-93ea-449975e3f202 | -10.9588 | -43.0565 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 80.8 |
 
 
 [Clique aqui para ver as próximas entradas](README8.md)
