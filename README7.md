@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 694ab379-0bf5-3805-a450-0d1e74dc73aa | -9.4004 | -40.3474 | 2026-07-28 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 106.6 |
-| b3f11048-d4aa-39dc-adc5-d8b9cfd7f4e9 | -11.9676 | -45.5445 | 2026-07-28 01:50:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 57.0 |
-| af4ebce0-06a8-3623-88a5-9aaa3ffcfb2f | -11.7879 | -47.0884 | 2026-07-28 01:50:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 83.4 |
-| 15ef35f0-18fa-3660-b060-4e854ed238b2 | -9.4 | -40.3722 | 2026-07-28 01:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 135.1 |
-| 64353f13-1225-377f-8334-c493a3759e08 | -13.3032 | -45.1045 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 246.6 |
-| 53ca4ebf-f5c8-3520-89df-a50b7996547f | -14.2882 | -58.9638 | 2026-07-28 02:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 42.2 |
-| eac62f2d-cc0d-3eee-b374-12a4c32e662f | -10.9401 | -43.0355 | 2026-07-28 02:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 203.2 |
-| 50d45dc0-8c5b-3d3a-9ecb-c7c5ef96f071 | -11.7879 | -47.0884 | 2026-07-28 02:00:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 74.1 |
-| a6975918-217d-3c2c-b80a-7cdd23b5fdb0 | -12.8543 | -44.386 | 2026-07-28 02:00:00 | GOES-19 | BAIANÓPOLIS | BAHIA | Brasil | 2902500 | 29 | 33 | nan | nan | nan | Cerrado | 75.0 |
-| 12880544-74d3-34cd-b893-706fcc90de44 | -20.723 | -49.4242 | 2026-07-28 02:00:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 115.4 |
-| c128075d-169d-31b1-af6e-4471a5e1735e | -9.4004 | -40.3474 | 2026-07-28 02:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 63.3 |
-| b9d9f013-8e02-3cda-ba10-7e32f373fa70 | -9.4 | -40.3722 | 2026-07-28 02:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 75.0 |
-| 9326aebd-8851-30d7-a6a1-1e92dadcb62e | -13.3028 | -45.1278 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 58.5 |
-| 02118735-45f0-3ce5-997e-51ce1f6469f1 | -11.7882 | -47.0659 | 2026-07-28 02:00:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 53.2 |
-| 04018ac6-98b3-32ab-acee-71da012ec3b6 | -14.3074 | -58.9621 | 2026-07-28 02:00:00 | GOES-19 | TANGARÁ DA SERRA | MATO GROSSO | Brasil | 5107958 | 51 | 33 | nan | nan | nan | Cerrado | 47.5 |
-| 646180ea-02be-3c96-8501-c7b64324f86d | -17.3235 | -42.663 | 2026-07-28 02:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 62.1 |
-| 70617ff6-1381-3273-8b93-5b122b1defc1 | -10.9588 | -43.0565 | 2026-07-28 02:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 70.7 |
-| 5075d213-ea60-32a6-b4c6-a04de935f94e | -10.9397 | -43.0593 | 2026-07-28 02:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 320.7 |
-| bb1b4644-95aa-39d9-8e2e-e55da2318b53 | -10.3822 | -49.5849 | 2026-07-28 02:00:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 67.9 |
-| f109a2a2-8509-353c-8775-c8ca6ab9d71a | -17.3034 | -42.6678 | 2026-07-28 02:00:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 76.8 |
-| ace3d515-1650-33db-89e3-01e0967b1df0 | -11.9676 | -45.5445 | 2026-07-28 02:00:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 47.5 |
-| da5055b1-69be-38b0-97bd-cf087338cfe1 | -13.2838 | -45.1077 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 56.1 |
-| 91f4c637-10a3-3c16-ae48-d90a4649a1cf | -20.7223 | -49.4471 | 2026-07-28 02:00:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 99.8 |
-| 1aaae02e-975e-3a4d-ba89-cb26585e8d6c | -13.3037 | -45.0812 | 2026-07-28 02:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 58.4 |
-| ea5fd218-a9c1-3f61-8378-28393bfa00f6 | -10.9588 | -43.0565 | 2026-07-28 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 78.6 |
-| 29d8df81-68ce-34bb-8fcc-cb45d5ffbfb3 | -17.3034 | -42.6678 | 2026-07-28 02:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 71.0 |
-| 015e8a4e-54bb-3759-af3e-00452adb5180 | -20.7429 | -49.4427 | 2026-07-28 02:10:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 59.7 |
-| 4e0bd9a4-7f23-3fa7-8812-0e626e508e9f | -17.3235 | -42.663 | 2026-07-28 02:10:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 48.1 |
-| f68d4077-da5e-38eb-a63c-2ecea7d2f6bf | -13.3037 | -45.0812 | 2026-07-28 02:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 69.9 |
-| ad92eccd-fbc7-39fe-ba60-b1a83f3f2286 | -11.9676 | -45.5445 | 2026-07-28 02:10:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 46.2 |
-| 3596362b-ebde-39d0-893b-6e9144a5ef9a | -10.9401 | -43.0355 | 2026-07-28 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 194.1 |
-| 89c853ed-43d8-35f9-be44-fde1e6cf2955 | -11.7879 | -47.0884 | 2026-07-28 02:10:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 89.5 |
-| b8db357d-3f3e-3ab5-a121-0319fdccecb4 | -13.3032 | -45.1045 | 2026-07-28 02:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 209.0 |
-| 1512d357-0a37-3636-9dfd-ad3a51cb9a23 | -10.9397 | -43.0593 | 2026-07-28 02:10:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 344.1 |
-| ccc2b8ec-ecbd-39ae-979a-378173b489ea | -20.7223 | -49.4471 | 2026-07-28 02:10:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 71.1 |
-| ff6bd9ab-631c-3711-8ee7-6ebcc633198d | -20.723 | -49.4242 | 2026-07-28 02:10:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 84.1 |
-| 3b85ee39-5b36-3f30-9392-3b712aaa02ee | -20.7435 | -49.4197 | 2026-07-28 02:10:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 69.4 |
-| 8451ac94-bbea-377e-9fff-c4e71218840f | -13.3028 | -45.1278 | 2026-07-28 02:10:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 55.5 |
-| 97d9a471-617d-3989-bd38-a6907b48207e | -13.3 | -45.1 | 2026-07-28 02:15:00 | MSG-03 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 2cdcbce0-d37c-3ad6-b7af-ea05d7e5f5ca | -10.94 | -43.05 | 2026-07-28 02:15:00 | MSG-03 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 91547981-2cd6-33b2-8020-1880b989d7fe | -17.3034 | -42.6678 | 2026-07-28 02:20:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 48.7 |
-| 48a05631-d6cf-3fb7-8c25-1caf0378b370 | -10.9401 | -43.0355 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 157.0 |
-| 72d474ad-c013-3bc6-952b-5e4ee3eb1258 | -20.7223 | -49.4471 | 2026-07-28 02:20:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 71.9 |
-| 523c28ab-b692-3329-a1ca-ba53840f35bd | -10.9593 | -43.0326 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 65.0 |
-| 551ceaf4-1c17-3ce6-b87d-96f8566b8edd | -10.9588 | -43.0565 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 94.3 |
-| 48b3401e-b9b8-31bc-a8c6-bff414aac6bc | -10.9397 | -43.0593 | 2026-07-28 02:20:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 234.4 |
-| b5bf13ed-b6e8-34ad-9576-dfe5f7449a88 | -13.3032 | -45.1045 | 2026-07-28 02:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 198.3 |
-| b82b8ab9-8646-3fb0-b1d8-7638680e5d34 | -10.3822 | -49.5849 | 2026-07-28 02:20:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 62.5 |
-| 1ef0ddaa-163c-3371-84f0-539c74dda831 | -11.7879 | -47.0884 | 2026-07-28 02:20:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 69.1 |
-| 1a977ddd-31ba-38a2-9dde-7e77d1776bd6 | -13.3037 | -45.0812 | 2026-07-28 02:20:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 53.7 |
-| 8ac95d79-d44e-30ce-8e9a-14bcc3c9a5c3 | -17.3235 | -42.663 | 2026-07-28 02:20:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 45.4 |
-| 3e1f0ea0-0ca1-373f-89b8-f0c777540c4c | -20.723 | -49.4242 | 2026-07-28 02:20:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 120.6 |
-| ccc05a5b-2bd5-3a39-ac4e-4bdd9243c8e0 | -20.7435 | -49.4197 | 2026-07-28 02:30:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 67.6 |
-| c9ec43c2-3974-38ec-ae57-50e7cedffeec | -11.9868 | -45.5417 | 2026-07-28 02:30:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 51.6 |
-| db225f03-a991-32dc-8a1e-052b3e345ef4 | -10.9397 | -43.0593 | 2026-07-28 02:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 201.8 |
-| d0a77be5-4800-32cf-a55f-88c61cf16435 | -11.7879 | -47.0884 | 2026-07-28 02:30:00 | GOES-19 | DIANÓPOLIS | TOCANTINS | Brasil | 1707009 | 17 | 33 | nan | nan | nan | Cerrado | 59.5 |
-| 26842aa0-f1cf-3490-a733-957d2a08a1a7 | -13.3037 | -45.0812 | 2026-07-28 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 70.4 |
-| 31ebc257-6d14-3474-9fdf-7d41dfeb6fbf | -10.9588 | -43.0565 | 2026-07-28 02:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 91.8 |
-| 9bc0b1da-04b9-300a-ad35-d58b5ce1d420 | -20.723 | -49.4242 | 2026-07-28 02:30:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 86.2 |
-| f0af9765-6d7a-3df9-acb6-a65f0c9564ae | -17.3034 | -42.6678 | 2026-07-28 02:30:00 | GOES-19 | MINAS NOVAS | MINAS GERAIS | Brasil | 3141801 | 31 | 33 | nan | nan | nan | Cerrado | 48.6 |
-| 9af5b160-f907-3731-ae06-d783727dc12c | -20.7223 | -49.4471 | 2026-07-28 02:30:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 50.9 |
-| 6af18c6f-7208-3660-b053-2f5766643e57 | -10.9401 | -43.0355 | 2026-07-28 02:30:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 100.6 |
-| eb2aac61-2797-35cc-a5ce-0bbfe1a6a9fd | -13.2838 | -45.1077 | 2026-07-28 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 53.6 |
-| 411946d5-f3df-301e-91e7-d38d7c6b10d7 | -13.3032 | -45.1045 | 2026-07-28 02:30:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 198.6 |
-| 1732bf4d-3d10-3797-b31e-47795c357c97 | -11.9676 | -45.5445 | 2026-07-28 02:30:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 59.1 |
-| 94d6c866-08fb-36cb-a2c1-f9e6e5800bd4 | -13.3226 | -45.1013 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 51.2 |
-| fcf6899f-1dd5-3783-bd00-33f27d25db6d | -20.723 | -49.4242 | 2026-07-28 02:40:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 82.9 |
-| 93649fa7-0dd8-312d-88fc-0986e553dcf9 | -22.0646 | -56.5299 | 2026-07-28 02:40:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 58.4 |
-| 49d3616b-9e30-3adc-a7d1-af7f902eae3d | -10.9401 | -43.0355 | 2026-07-28 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 122.8 |
-| 7474097b-3873-34a0-b367-414972a6a445 | -20.7435 | -49.4197 | 2026-07-28 02:40:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 61.0 |
-| ffd5a24c-5b7e-326a-b7f7-ac440a134488 | -10.3822 | -49.5849 | 2026-07-28 02:40:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 61.2 |
-| 2ebc42c2-7d66-3282-b0b5-507cd5daa30c | -13.3037 | -45.0812 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 73.3 |
-| a1c62719-4640-31de-a82c-b79a15579900 | -10.9588 | -43.0565 | 2026-07-28 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 73.7 |
-| cf0af1b2-392c-3d32-963b-d366394ccb35 | -10.9397 | -43.0593 | 2026-07-28 02:40:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 173.6 |
-| 98b58e85-3290-3a34-99bb-d6f33a6f2e06 | -13.3032 | -45.1045 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 196.0 |
-| b836d220-14c9-3c0b-ba64-9f21ce87667a | -13.2838 | -45.1077 | 2026-07-28 02:40:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 77.4 |
-| 840d9f2b-bcf4-36c5-b620-6b19402bc709 | -10.9401 | -43.0355 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 125.0 |
-| 14f8bb97-3f15-39ca-a28f-fb47af8fb1ab | -10.9397 | -43.0593 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 227.1 |
-| 08e25d10-5249-366e-b5fa-f4ec42f2b573 | -13.2838 | -45.1077 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 94.6 |
-| 59d2a69d-c4fb-3d3f-ac8d-adde59f28d53 | -13.3037 | -45.0812 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 99.0 |
-| fc8cac7b-b82d-3676-914f-dea6b34a36f1 | -22.0646 | -56.5299 | 2026-07-28 02:50:00 | GOES-19 | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 66.5 |
-| 9156ae92-bfe8-34fa-ac60-944458c5d058 | -13.3032 | -45.1045 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 180.6 |
-| 903978ee-a224-3e3e-9b5e-d28fbfc27279 | -9.4004 | -40.3474 | 2026-07-28 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 156.9 |
-| c8562b2c-41a7-38f1-a3ad-cb4ac4486343 | -10.9588 | -43.0565 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| cd489cd8-aca9-3950-975d-0c162b68458d | -9.4 | -40.3722 | 2026-07-28 02:50:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 134.0 |
-| e83b1103-27b3-38b4-9766-c24807c6f15e | -13.2843 | -45.0844 | 2026-07-28 02:50:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 58.8 |
-| 6ac521e2-0bdc-3081-a956-293b0e1e4216 | -20.7223 | -49.4471 | 2026-07-28 02:50:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 54.0 |
-| e4695675-e5ee-3c05-9d0b-72f3bde108e3 | -20.723 | -49.4242 | 2026-07-28 02:50:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 73.4 |
-| f74e8d2c-af96-33c0-b3d3-53bbd7bdd29f | -10.9205 | -43.0622 | 2026-07-28 02:50:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 76.5 |
-| e0740325-0192-3927-a3a9-252a75fa0f8d | -9.4004 | -40.3474 | 2026-07-28 03:00:00 | GOES-19 | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 69.8 |
-| 577e1ebf-e2b0-3ab5-8a44-67720947f59c | -20.7223 | -49.4471 | 2026-07-28 03:00:00 | GOES-19 | SÃO JOSÉ DO RIO PRETO | SÃO PAULO | Brasil | 3549805 | 35 | 33 | nan | nan | nan | Cerrado | 64.2 |
-| c5fb4292-cf3f-373e-99bc-5c06748db42e | -13.3032 | -45.1045 | 2026-07-28 03:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 153.4 |
-| 61f1d995-f26a-3021-95e6-656de3365008 | -13.2838 | -45.1077 | 2026-07-28 03:00:00 | GOES-19 | CORRENTINA | BAHIA | Brasil | 2909307 | 29 | 33 | nan | nan | nan | Cerrado | 78.2 |
-| a917650e-9161-3078-8999-6b79b229663c | -11.9868 | -45.5417 | 2026-07-28 03:00:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 46.2 |
-| 8a1f6ba5-adf4-3f1d-9824-ac2deaa3ce1b | -11.9676 | -45.5445 | 2026-07-28 03:00:00 | GOES-19 | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 58.6 |
-| a7837676-60c7-3e25-b8d5-2b1b385e901c | -10.9205 | -43.0622 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 63.7 |
-| 22ab1ade-1af6-3aff-8793-78c443d66e7a | -20.723 | -49.4242 | 2026-07-28 03:00:00 | GOES-19 | IPIGUÁ | SÃO PAULO | Brasil | 3521150 | 35 | 33 | nan | nan | nan | Cerrado | 83.3 |
-| 9b3aad24-555f-38c7-a72d-e679ea9e3722 | -10.9397 | -43.0593 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 211.8 |
-| 3d6a9755-37de-3059-94ed-2aa9dcb24407 | -10.9401 | -43.0355 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 174.2 |
-| 0508bd3a-7a19-30d8-93ea-449975e3f202 | -10.9588 | -43.0565 | 2026-07-28 03:00:00 | GOES-19 | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 80.8 |
+| 2fdec419-4b48-365c-81b0-4696e2a03741 | -14.06137 | -53.96714 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 10fd2a8a-fb7b-3863-9f94-b5cb56108243 | -14.03204 | -53.98207 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 6b0365d5-889a-3b4f-b8ef-6df17fc2f9a7 | -11.53173 | -47.56638 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| a6e5ea6e-7fa0-3e51-9726-4e31e30f4001 | -11.53259 | -47.5617 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 19806578-73e5-3d41-b544-813703f6efa3 | -11.52856 | -47.55822 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 5ffb1e47-7388-3d8c-918e-0e722afa58fb | -10.92987 | -43.05335 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| 6854f801-8b90-31f1-87d4-2835dfe44913 | -15.17626 | -43.85306 | 2026-07-29 04:14:00 | NPP-375D | JAÍBA | MINAS GERAIS | Brasil | 3135050 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| ef885a02-4dec-3c99-9490-a719b30e2c4f | -15.87177 | -43.60056 | 2026-07-29 04:14:00 | NPP-375D | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 1ce6ac21-68b2-33d4-8497-053f38e165fd | -10.32257 | -49.71319 | 2026-07-29 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 5c231190-924f-384f-a388-65dd70c61072 | -15.32943 | -43.02264 | 2026-07-29 04:14:00 | NPP-375D | MONTE AZUL | MINAS GERAIS | Brasil | 3142908 | 31 | 33 | nan | nan | nan | Caatinga | 2.6 |
+| 1fa5b518-50ad-3ca1-850a-0f00917d8551 | -9.61199 | -47.76793 | 2026-07-29 04:14:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 41faf6ba-bd1e-3a7d-8163-1cc25ebcea66 | -15.8785 | -43.60173 | 2026-07-29 04:14:00 | NPP-375D | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 58c929ee-e150-3637-a60d-0dddef7f624d | -9.66092 | -40.5965 | 2026-07-29 04:14:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 25.7 |
+| 4fa84674-7de8-38d9-9def-aba97e06ea46 | -10.13429 | -42.4217 | 2026-07-29 04:14:00 | NPP-375D | SENTO SÉ | BAHIA | Brasil | 2930204 | 29 | 33 | nan | nan | nan | Caatinga | 3.1 |
+| 5ea48cf5-c464-34c4-a731-0b4a611a53ce | -14.03312 | -53.97692 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| eabea492-8c17-3efe-b1c3-aed1971e69b2 | -9.66479 | -40.59354 | 2026-07-29 04:14:00 | NPP-375D | JUAZEIRO | BAHIA | Brasil | 2918407 | 29 | 33 | nan | nan | nan | Caatinga | 2.7 |
+| 81edfaff-1b92-39fd-a609-7e1d14170215 | -9.33955 | -47.32101 | 2026-07-29 04:14:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 740a6700-14ae-3b36-a9fe-7f158f57d6b9 | -11.26625 | -49.55779 | 2026-07-29 04:14:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| 1cfafb5a-2426-35f8-9c0b-04a70b88853a | -11.51692 | -47.54785 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 8ab02e22-00dc-3475-8d62-014d17271eb7 | -11.52933 | -47.55387 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 9aaa8e89-7b4b-3b91-a8d3-8c39b0303630 | -10.36305 | -49.75316 | 2026-07-29 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| 912af930-4ff2-3c77-b2d6-cb494184d316 | -16.05166 | -41.44554 | 2026-07-29 04:14:00 | NPP-375D | PEDRA AZUL | MINAS GERAIS | Brasil | 3148707 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| bc2ae234-cf2b-3f6d-a977-3d9e193778ff | -15.43676 | -41.37934 | 2026-07-29 04:14:00 | NPP-375D | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| 2ce430cd-b7cc-350a-a4fc-83f79a2287d5 | -14.0707 | -53.98528 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| a189ab20-fb52-3900-b593-1b31784046f1 | -11.52549 | -47.55145 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 7f2dd9b8-fa50-33ac-8fe3-8f4a3bbb7872 | -10.9361 | -43.05827 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 23.8 |
+| 0a55b0e0-20b6-398e-b221-29e5e11fb8d9 | -10.35277 | -49.75116 | 2026-07-29 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| abf5aff6-8160-3cd6-92a1-1057f6da7a98 | -12.45172 | -47.89181 | 2026-07-29 04:14:00 | NPP-375D | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 2229078e-d019-3c9b-bdba-553e97c3440e | -13.45689 | -44.04617 | 2026-07-29 04:14:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| f2dc3154-2f49-3527-8d06-81d3e50ea147 | -10.92925 | -43.05711 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| a77e9cea-f2f9-3cf2-8409-0c9dfb05c648 | -14.02057 | -53.97424 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| ef249f7b-adb5-3f34-815e-d367535c72a5 | -10.35791 | -49.75216 | 2026-07-29 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| c2791f1e-e0ae-31b3-a136-67fac09896ab | -14.73069 | -47.13858 | 2026-07-29 04:14:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| c8b83d2f-c786-3582-b3b2-4eac573b711b | -11.93386 | -45.52917 | 2026-07-29 04:14:00 | NPP-375D | BARREIRAS | BAHIA | Brasil | 2903201 | 29 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| 8bbd5956-fd5d-3721-8ab5-9ed273142b72 | -9.1009 | -50.60911 | 2026-07-29 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| b547bd3c-414b-36f9-bb51-dcf2258c2ce9 | -11.96063 | -43.37474 | 2026-07-29 04:14:00 | NPP-375D | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 99c1f352-d508-3bbf-8648-24c659303570 | -14.20487 | -43.97375 | 2026-07-29 04:14:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| a6cd231f-e21e-37ce-919c-028e3a130f9e | -9.13695 | -46.36018 | 2026-07-29 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 6c45a329-51bd-366f-bd86-f28682548a50 | -15.44066 | -41.37628 | 2026-07-29 04:14:00 | NPP-375D | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.4 |
+| 5050dbd5-d943-35a6-ab7f-0fdcafdf7863 | -11.52828 | -47.56071 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| b0fba399-2b52-38ea-818e-07506dccdb60 | -13.56764 | -49.04679 | 2026-07-29 04:14:00 | NPP-375D | SANTA TEREZA DE GOIÁS | GOIÁS | Brasil | 5219605 | 52 | 33 | nan | nan | nan | Cerrado | 5.2 |
+| a4ecc51e-f24a-39df-85f7-25546b05446f | -11.52911 | -47.55618 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 385ff974-0b1c-3108-9416-60d47c06aac0 | -14.00911 | -53.9664 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| dccb9698-3118-3ade-8866-f51a60bd0009 | -14.06804 | -53.98098 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| b1e3a386-d6a7-368a-b22e-f6e9da61a49f | -10.93205 | -43.06145 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 23.8 |
+| d7c4ae22-9478-3e44-8911-aef0edfcdfed | -9.13632 | -46.36387 | 2026-07-29 04:14:00 | NPP-375D | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 57f60563-6da8-3811-b77c-005ac74584d5 | -10.90429 | -45.21567 | 2026-07-29 04:14:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| cec20c29-e5db-3cea-9574-3fee238a35c9 | -13.71206 | -51.91847 | 2026-07-29 04:14:00 | NPP-375D | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ff6e5ae5-6513-32fc-886b-f3d49cf3b41e | -10.90509 | -45.21103 | 2026-07-29 04:14:00 | NPP-375D | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 75c0a07b-4e30-354e-87c6-c2791c096d80 | -11.52499 | -47.55297 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 1.9 |
+| 0d9ed073-6127-3aa0-9a76-cc0c6620b6c8 | -13.15213 | -51.30249 | 2026-07-29 04:14:00 | NPP-375D | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 1.6 |
+| 43ed100c-b06d-3353-bbae-3cb6f6b5146c | -14.06552 | -53.97868 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 3.4 |
+| 1d11a269-0452-38e7-a323-077d73e14552 | -14.01539 | -53.9677 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 7936a635-8e6a-3679-a89f-f2c473d8c5ce | -15.43621 | -41.38295 | 2026-07-29 04:14:00 | NPP-375D | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 9.7 |
+| e4c52a9c-fdb8-3625-aa55-4a3cde031f2b | -14.72474 | -47.14865 | 2026-07-29 04:14:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 5a713296-81bc-3023-a462-7e0b1b61c0d0 | -14.19116 | -51.90332 | 2026-07-29 04:14:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| f12ff784-de35-32ab-99d3-401aa8f07dfa | -14.00283 | -53.96508 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 6a747e17-4137-3147-83c8-5c6490d333ca | -13.3978 | -43.56776 | 2026-07-29 04:14:00 | NPP-375D | SERRA DO RAMALHO | BAHIA | Brasil | 2930154 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| e01ea850-aae0-3377-88d5-5b095eea9fd8 | -9.59791 | -49.30503 | 2026-07-29 04:14:00 | NPP-375D | ABREULÂNDIA | TOCANTINS | Brasil | 1700251 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| d89a1e09-57ee-3efc-8afd-ffe5ccc28544 | -14.02167 | -53.969 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 1913d1a4-f5af-349d-ada0-730f55632fd9 | -14.03562 | -53.97916 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
+| de7234fa-dd00-37b4-a542-7f6ad64c446a | -14.23864 | -41.14545 | 2026-07-29 04:14:00 | NPP-375D | TANHAÇU | BAHIA | Brasil | 2931004 | 29 | 33 | nan | nan | nan | Caatinga | 0.5 |
+| a82f91cc-2b41-3ed7-940c-092979bac7d4 | -15.43955 | -41.3835 | 2026-07-29 04:14:00 | NPP-375D | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 4.9 |
+| fb4ed890-d49a-3c7e-af50-c422ef2f40c9 | -15.03665 | -42.25145 | 2026-07-29 04:14:00 | NPP-375D | MORTUGABA | BAHIA | Brasil | 2921807 | 29 | 33 | nan | nan | nan | Caatinga | 0.6 |
+| 805a6a5a-3e83-3880-a048-7a78ddac6fcd | -14.03832 | -53.9834 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| db329ef5-b4a5-31dd-82e2-13093140eae9 | -13.71513 | -51.91969 | 2026-07-29 04:14:00 | NPP-375D | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| d7b8c163-d118-321e-bd2d-3fe77647ad26 | -9.08146 | -50.58994 | 2026-07-29 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| de561432-3cc9-3389-a1f8-d185f97ab93c | -8.96443 | -47.44823 | 2026-07-29 04:14:00 | NPP-375D | CENTENÁRIO | TOCANTINS | Brasil | 1704105 | 17 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| de097229-455c-3e5e-842e-fa0dab9f5ffe | -14.83901 | -41.24595 | 2026-07-29 04:14:00 | NPP-375D | BELO CAMPO | BAHIA | Brasil | 2903508 | 29 | 33 | nan | nan | nan | Caatinga | 1.7 |
+| ccb0cd3c-9a27-3a87-acf3-9c94ba4a7e9d | -14.19039 | -51.90706 | 2026-07-29 04:14:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 2.8 |
+| 21a036e7-4a12-33e6-b784-d2191020855e | -10.93672 | -43.05451 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 44.3 |
+| d02ef93b-3d17-3797-8368-d85b1e014ac4 | -11.26594 | -49.56109 | 2026-07-29 04:14:00 | NPP-375D | DUERÉ | TOCANTINS | Brasil | 1707306 | 17 | 33 | nan | nan | nan | Cerrado | 2.0 |
+| 68484c4d-db72-31c4-8024-8efaeb2b008d | -9.09466 | -50.61171 | 2026-07-29 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| ecb8e77e-ee76-36b2-b8d3-70bf03dd0e34 | -14.06697 | -53.98594 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.8 |
+| b2833835-b35a-36a8-93d8-b056c4c93682 | -14.18963 | -51.91081 | 2026-07-29 04:14:00 | NPP-375D | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 3.2 |
+| b8ea156f-a0cd-3de3-ad59-9ce2d234677b | -14.0588 | -53.96294 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 9bcff585-f0fb-35fd-987b-6924d9e8775c | -14.39307 | -48.02005 | 2026-07-29 04:14:00 | NPP-375D | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 2.6 |
+| 3f737ad9-b2c2-3f8c-b796-f0728e179aed | -14.05258 | -53.9614 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 90c8d0cf-d5f7-374d-9670-ba0ac1548414 | -10.35334 | -49.74805 | 2026-07-29 04:14:00 | NPP-375D | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| b602c55b-f178-3f6c-bf90-a9371d37643d | -13.45408 | -44.04167 | 2026-07-29 04:14:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 9fd1ed92-9a6a-3fb9-bc47-82a825d9909e | -9.60744 | -47.76699 | 2026-07-29 04:14:00 | NPP-375D | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 5.5 |
+| d9ad7990-2803-3349-8d36-d51775da9ac6 | -10.9333 | -43.05393 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 44.3 |
+| 57e86f34-286d-318b-9fca-52bef36f49f9 | -13.71131 | -51.92225 | 2026-07-29 04:14:00 | NPP-375D | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 3c9d7c7b-d11f-34e7-b298-e37e13e47b55 | -14.05515 | -53.96556 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| f9fa77b3-0480-3d6b-a0a6-dfa90cd4443d | -13.47973 | -44.03795 | 2026-07-29 04:14:00 | NPP-375D | SÃO FÉLIX DO CORIBE | BAHIA | Brasil | 2929057 | 29 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| 6bab8020-bb7a-324d-a721-03f9eb3c13a8 | -14.04891 | -53.9641 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 2dfea8d8-bf17-3ca8-aea1-26a12f5e3809 | -8.44627 | -51.55272 | 2026-07-29 04:14:00 | NPP-375D | CUMARU DO NORTE | PARÁ | Brasil | 1502764 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 184c7da3-2e4a-333f-93a9-3deb79f616ae | -14.43784 | -44.86755 | 2026-07-29 04:14:00 | NPP-375D | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 374e7d18-b79b-391d-8f38-a23a02c29a9a | -15.06689 | -41.21606 | 2026-07-29 04:14:00 | NPP-375D | BELO CAMPO | BAHIA | Brasil | 2903508 | 29 | 33 | nan | nan | nan | Mata Atlântica | 1.7 |
+| daa3fb7b-75e2-3372-8528-041e5e84eb15 | -10.93392 | -43.05017 | 2026-07-29 04:14:00 | NPP-375D | BARRA | BAHIA | Brasil | 2902708 | 29 | 33 | nan | nan | nan | Cerrado | 44.3 |
+| f590c548-59d1-3561-94db-788b2887d6ec | -14.20831 | -43.97436 | 2026-07-29 04:14:00 | NPP-375D | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 0a778739-33de-3318-bc23-f8f763e479ed | -11.18108 | -49.93488 | 2026-07-29 04:14:00 | NPP-375D | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| 8337b0f5-b15c-398d-b8e1-fcb90da77932 | -15.44735 | -41.37736 | 2026-07-29 04:14:00 | NPP-375D | CÂNDIDO SALES | BAHIA | Brasil | 2906709 | 29 | 33 | nan | nan | nan | Mata Atlântica | 3.0 |
+| 5616a1a4-ea87-3c71-8388-d71a415f150c | -15.87514 | -43.60114 | 2026-07-29 04:14:00 | NPP-375D | CAPITÃO ENÉAS | MINAS GERAIS | Brasil | 3112703 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6450d844-915e-3722-9dff-cd7c53022872 | -11.52775 | -47.56284 | 2026-07-29 04:14:00 | NPP-375D | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 2.2 |
+| 2f48c9ac-0cdd-348d-8bb7-597983f58202 | -14.02684 | -53.97558 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 93b7ecac-80fe-3000-b6e8-11d0028cb591 | -9.08701 | -50.59101 | 2026-07-29 04:14:00 | NPP-375D | SANTANA DO ARAGUAIA | PARÁ | Brasil | 1506708 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 06580454-3dc4-37b0-890c-7d1797612155 | -14.73133 | -47.13499 | 2026-07-29 04:14:00 | NPP-375D | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| df05a8f0-42f2-3d1e-bde9-99c608f056a7 | -10.32965 | -46.86867 | 2026-07-29 04:14:00 | NPP-375D | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 5904b5bd-12d2-3354-b4d7-ea51d66b1b9f | -14.03451 | -53.98429 | 2026-07-29 04:14:00 | NPP-375D | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 6.2 |
 
 
 [Clique aqui para ver as próximas entradas](README8.md)
