@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| a71eda5f-efcc-394b-9304-a79ed4514290 | -11.9296 | -43.4288 | 2026-07-30 13:30:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 138.3 |
-| c9b0dea3-1371-3f30-ac11-be6a15155909 | -11.9104 | -43.4319 | 2026-07-30 13:30:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 90.2 |
-| d8bb59ad-3066-366b-bacb-2d743a47232d | -14.3864 | -48.0261 | 2026-07-30 13:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 102.6 |
-| 9131e787-341b-30fb-9f8f-e53cdab8b729 | -14.386 | -48.0485 | 2026-07-30 13:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 84.1 |
-| 6b663eef-19c7-3680-906b-f48ddcce052e | -11.9104 | -43.4319 | 2026-07-30 13:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 82.9 |
-| 38b6b775-6502-381b-8d74-dc18611a92dc | -11.4169 | -50.0948 | 2026-07-30 13:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 112.8 |
-| 526cb603-8605-32aa-ba8a-8e3ef8535172 | -11.9296 | -43.4288 | 2026-07-30 13:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 113.9 |
-| b9c3d651-7acf-30f2-8530-a9e2b1f9d3c5 | -14.3864 | -48.0261 | 2026-07-30 13:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 152.0 |
-| dec8eee3-aab4-3d38-8c6d-7120558b84d8 | -14.386 | -48.0485 | 2026-07-30 13:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 152.4 |
-| 7bdc9a51-5e19-3eba-bebf-452dd06630ed | -11.4297 | -46.8223 | 2026-07-30 13:50:00 | GOES-19 | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 94.9 |
-| f337da76-8fa8-3b02-a79e-4a3e743f5091 | -11.9296 | -43.4288 | 2026-07-30 13:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 191.2 |
-| 3e1cdc31-b792-390a-b6b5-a2cb1153ad4a | -11.4169 | -50.0948 | 2026-07-30 13:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 118.6 |
-| 31d623e2-0649-36a6-b652-21434a5ba0e4 | -14.3864 | -48.0261 | 2026-07-30 13:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 161.3 |
-| ceb3538f-f008-39bd-b2fe-b00f3f707a1f | -13.7377 | -51.8864 | 2026-07-30 13:50:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 78.5 |
-| a63af9f6-d649-37bd-8d7c-5fa1bcfcad7a | -11.4293 | -46.8448 | 2026-07-30 13:50:00 | GOES-19 | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 103.2 |
-| 0b34a039-67ef-3787-abf4-f0e9dce2212b | -14.386 | -48.0485 | 2026-07-30 13:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 160.9 |
-| 7e8104e0-e200-3f5c-96ce-4d879c4f9c4f | -11.9104 | -43.4319 | 2026-07-30 13:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 137.3 |
-| 13aaa17e-0188-3e3f-83ab-676aec6d753a | -11.9292 | -43.4526 | 2026-07-30 14:00:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 93.7 |
-| 16c3cd67-e8ea-3a21-b790-9eee7fb76814 | -11.9104 | -43.4319 | 2026-07-30 14:00:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 278.6 |
-| 64c76f33-ad7a-3bdc-826f-c60128c76729 | -11.3408 | -50.1034 | 2026-07-30 14:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 170.3 |
-| d609a355-2e85-3870-acf5-768f384cbe72 | -11.9296 | -43.4288 | 2026-07-30 14:00:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 388.8 |
-| ec745894-2026-3417-8009-d3a9c7899d28 | -11.9301 | -43.405 | 2026-07-30 14:00:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 132.4 |
-| 3e618c82-e11a-3870-8204-b50fbac9c4af | -14.386 | -48.0485 | 2026-07-30 14:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 123.4 |
-| 1001c4fc-2469-3bcb-8ccd-33436275bddd | -14.3864 | -48.0261 | 2026-07-30 14:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 115.9 |
-| 3fd624e0-8d25-3f1d-8117-9f33e677d099 | -11.4169 | -50.0948 | 2026-07-30 14:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 110.8 |
-| 0b56150b-478f-3cee-88fb-79de0b7cc18b | -14.386 | -48.0485 | 2026-07-30 14:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 97.8 |
-| b12829c2-43ee-3641-a478-1a21c37055c6 | -11.4169 | -50.0948 | 2026-07-30 14:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 106.9 |
-| 5409168f-0427-3b81-9518-aa3af87e58cb | -14.3864 | -48.0261 | 2026-07-30 14:10:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 89.6 |
-| c41de762-bf2f-3cae-b337-3a4ad53a060a | -11.3408 | -50.1034 | 2026-07-30 14:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 152.6 |
-| 6115c965-e9b1-3037-a88d-63ed039e935e | -11.9104 | -43.4319 | 2026-07-30 14:10:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 391.3 |
-| 5bf1254d-532d-3122-a031-9639337c5a84 | -11.9301 | -43.405 | 2026-07-30 14:10:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 150.8 |
-| 1adbfe91-363a-3ff2-b57a-e2f6b24ebbd1 | -11.9292 | -43.4526 | 2026-07-30 14:10:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 111.0 |
-| 8b7e4160-0519-39cc-9f57-ae42689da206 | -11.9296 | -43.4288 | 2026-07-30 14:10:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 353.1 |
-| 8fd9d2e0-340a-36cb-81c1-e169b2534e6e | -13.44 | -51.49 | 2026-07-30 14:15:00 | MSG-03 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 87eb216e-c55a-3605-b897-74400cef0fb1 | -13.47 | -51.51 | 2026-07-30 14:15:00 | MSG-03 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| a7fde797-048e-39df-b33b-52bb44b3ca92 | -11.92 | -43.42 | 2026-07-30 14:15:00 | MSG-03 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | nan |
-| 31e1de8b-1f86-32d9-a43d-cbf79e706e78 | -13.44 | -51.44 | 2026-07-30 14:15:00 | MSG-03 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| c0be7cc6-3104-3976-986d-4f6442be7f20 | -11.9301 | -43.405 | 2026-07-30 14:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 145.6 |
-| f4206be0-2369-3333-b564-dcaa08ba189b | -11.9104 | -43.4319 | 2026-07-30 14:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 218.2 |
-| 93b476b1-6067-320d-8b0a-b6e5698fd1ad | -11.4169 | -50.0948 | 2026-07-30 14:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 110.0 |
-| e7b476c4-edee-37c7-80b6-11aaafc64968 | -14.1993 | -43.9839 | 2026-07-30 14:20:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 122.8 |
-| 2540cbcb-8a45-339a-9a61-ed5ecf0a2da7 | -11.9296 | -43.4288 | 2026-07-30 14:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 351.5 |
-| d361a2af-134c-3c22-989b-e555be249c6c | -11.9292 | -43.4526 | 2026-07-30 14:20:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 89.5 |
-| 1638ecd3-3a4e-3f32-9c3a-36100f0edf40 | -11.3408 | -50.1034 | 2026-07-30 14:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 106.1 |
-| c93bef70-64e0-390f-a80d-520c34317128 | -14.1987 | -44.0077 | 2026-07-30 14:20:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 108.5 |
-| 1f4c5ea9-8f43-3f87-bfaf-3758b3af1c97 | -14.3864 | -48.0261 | 2026-07-30 14:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| 5171d03f-409b-305d-b4f1-c4de10a270cf | -14.386 | -48.0485 | 2026-07-30 14:20:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 82.9 |
-| 530d6af9-29d7-35df-8238-ad9f07ade200 | -14.1797 | -43.9875 | 2026-07-30 14:20:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 122.6 |
-| 29415b9f-9500-3892-bb28-0218c3a3f46c | -13.7377 | -51.8864 | 2026-07-30 14:20:00 | GOES-19 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | 105.6 |
-| 15363bb2-d64a-3802-97f5-c75017b133e5 | -14.386 | -48.0485 | 2026-07-30 14:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 104.3 |
-| 52ac71d7-2308-34a7-aae5-ba4620bb8028 | -14.1797 | -43.9875 | 2026-07-30 14:30:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 119.6 |
-| 465192ed-10d1-34fd-8a4d-90e64bad8515 | -14.1993 | -43.9839 | 2026-07-30 14:30:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 121.1 |
-| 4036b3a9-abac-3172-9327-47202fd385fa | -14.3864 | -48.0261 | 2026-07-30 14:30:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 93.5 |
-| 43ea4e95-fbab-3fd0-9964-4fb0fa572d29 | -11.4169 | -50.0948 | 2026-07-30 14:30:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 101.2 |
-| 41f10420-23b7-38de-a70d-092c7572ccce | -14.1792 | -44.0113 | 2026-07-30 14:30:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 104.9 |
-| 41912591-a45e-37d3-ac4e-65d5f965b21d | -11.9296 | -43.4288 | 2026-07-30 14:30:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 182.8 |
-| b71f15ed-9424-3793-a09b-6d2f412d46a8 | -11.9104 | -43.4319 | 2026-07-30 14:30:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 213.0 |
-| 52a57135-8f54-33a9-ab1a-f629320976b9 | -14.1987 | -44.0077 | 2026-07-30 14:30:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 112.2 |
-| 0a788a06-e336-3aed-840c-18f73091fb73 | -11.2295 | -46.2403 | 2026-07-30 14:40:00 | GOES-19 | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| 1239f0db-84c6-3353-b588-31de99a1bd98 | -14.3864 | -48.0261 | 2026-07-30 14:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 87.4 |
-| 1b7c6b18-f49a-3b10-acee-7e5012222331 | -14.1993 | -43.9839 | 2026-07-30 14:40:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 131.2 |
-| b0fdbc48-6984-324a-b8f7-e6286c718983 | -14.1987 | -44.0077 | 2026-07-30 14:40:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 165.6 |
-| 1fc37dcb-4057-3f44-a4e0-6cbaca828ec8 | -14.386 | -48.0485 | 2026-07-30 14:40:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 104.3 |
-| a3cc043d-7332-36cd-973f-fd93911690c4 | -14.1797 | -43.9875 | 2026-07-30 14:40:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 124.9 |
-| d81b7002-f3e5-3f6a-be48-562c1581642e | -11.3408 | -50.1034 | 2026-07-30 14:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 87.8 |
-| b5bbf62f-bac8-30c5-8164-4e7840374a38 | -14.1792 | -44.0113 | 2026-07-30 14:40:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 168.0 |
-| d1a9cada-70c7-32a4-aca9-76843cdfbeba | -11.4169 | -50.0948 | 2026-07-30 14:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 97.3 |
-| 9b6d327b-36eb-396e-b660-e15c35e659c8 | -11.4293 | -46.8448 | 2026-07-30 14:40:00 | GOES-19 | RIO DA CONCEIÇÃO | TOCANTINS | Brasil | 1718659 | 17 | 33 | nan | nan | nan | Cerrado | 55.5 |
-| 6414b5db-4bef-3021-ac4a-bb8005d26b6a | -11.9104 | -43.4319 | 2026-07-30 14:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 208.3 |
-| b4770494-c153-3b16-9095-67a9cd55ac97 | -11.9296 | -43.4288 | 2026-07-30 14:40:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 182.5 |
-| 04b8c350-65eb-3a64-8d84-51acda0bfec2 | -14.1987 | -44.0077 | 2026-07-30 14:50:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 128.1 |
-| 5be10011-75a1-35c9-b646-b098bdb59f88 | -14.1993 | -43.9839 | 2026-07-30 14:50:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 125.9 |
-| d50ec59c-d9cf-3e30-8497-4ea29bfb4c15 | -11.4169 | -50.0948 | 2026-07-30 14:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 106.3 |
-| 3cca5e32-bff2-33a6-964b-404f332185fc | -14.3864 | -48.0261 | 2026-07-30 14:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 84.4 |
-| 8df146fb-577e-3d9f-a1b4-da9813b855ed | -14.386 | -48.0485 | 2026-07-30 14:50:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 99.1 |
-| 0ed8570a-d747-3a6c-8188-fa1535a0b58a | -11.9296 | -43.4288 | 2026-07-30 14:50:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 135.9 |
-| ed6148f7-59f4-332a-b6f5-61d75b4ac621 | -14.1797 | -43.9875 | 2026-07-30 14:50:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 122.0 |
-| a914efa8-20b2-3817-a524-21720bb464ca | -14.3864 | -48.0261 | 2026-07-30 15:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 92.9 |
-| 027a21af-c12c-305c-ada2-d7fb60310fce | -14.1792 | -44.0113 | 2026-07-30 15:00:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 205.2 |
-| af4bc494-4bcf-3ca2-945e-d9563b161b56 | -14.1797 | -43.9875 | 2026-07-30 15:00:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 132.9 |
-| a7c3532a-f798-3643-9fce-009b4804506e | -6.6559 | -59.1174 | 2026-07-30 15:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 63.1 |
-| c1463721-d9fe-3e23-8b4f-42d04c6ab205 | -11.9296 | -43.4288 | 2026-07-30 15:00:00 | GOES-19 | MUQUÉM DO SÃO FRANCISCO | BAHIA | Brasil | 2922250 | 29 | 33 | nan | nan | nan | Cerrado | 145.7 |
-| dfb2e3a9-bc1a-35a2-a464-99158a1ceee4 | -11.4169 | -50.0948 | 2026-07-30 15:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 108.7 |
-| 6f7a8e29-80e6-31cd-ac1c-011766a8e8c8 | -14.1987 | -44.0077 | 2026-07-30 15:00:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 235.6 |
-| 3c293280-1a60-32cc-aa67-e31b93800aeb | -14.386 | -48.0485 | 2026-07-30 15:00:00 | GOES-19 | NIQUELÂNDIA | GOIÁS | Brasil | 5214606 | 52 | 33 | nan | nan | nan | Cerrado | 122.8 |
-| 91e992d9-10ab-3513-b653-c0f14e3e2e8e | -14.1993 | -43.9839 | 2026-07-30 15:00:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 164.3 |
-| e94565d5-ca25-3d55-9eb4-3f10ff766737 | -14.3861 | -53.4087 | 2026-07-30 15:10:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 91.4 |
-| 8f18c6d6-c5b9-3023-88d7-205e4f4236d1 | -14.1993 | -43.9839 | 2026-07-30 15:10:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 181.0 |
-| 97254233-322a-3a47-9b7a-11e163df4dd7 | -14.1797 | -43.9875 | 2026-07-30 15:10:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 174.2 |
-| d0f72bd9-3991-377d-b1e0-02bd6623eb1e | -8.9152 | -65.0102 | 2026-07-30 15:10:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 46.2 |
-| 1af0cc22-c01e-34b7-a22a-5ad4c48d825d | -14.1987 | -44.0077 | 2026-07-30 15:10:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 148.0 |
-| a49dbabb-9ca8-3971-ba8e-33991a67fb9f | -11.4169 | -50.0948 | 2026-07-30 15:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 123.7 |
-| 97c12c07-887a-376c-be2a-49bb425bf250 | -13.47 | -51.51 | 2026-07-30 15:15:00 | MSG-03 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 641c4ecd-1457-3bb7-a5cb-2a349c226fe6 | -13.44 | -51.49 | 2026-07-30 15:15:00 | MSG-03 | CANARANA | MATO GROSSO | Brasil | 5102702 | 51 | 33 | nan | nan | nan | Cerrado | nan |
-| 7b5fc3c4-65d1-3d76-afd8-aa8de2c89a31 | -14.1797 | -43.9875 | 2026-07-30 15:20:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 331.9 |
-| 2cb0a9fd-1a24-382b-94b8-a22f12c31472 | -8.9152 | -65.0102 | 2026-07-30 15:20:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 46.2 |
-| da62e927-09d5-3c7c-88b2-461a73afe3ca | -14.1987 | -44.0077 | 2026-07-30 15:20:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 231.2 |
-| 94d2f95f-556d-3e4a-b808-a4b1055109b1 | -8.9338 | -64.9909 | 2026-07-30 15:20:00 | GOES-19 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 57.5 |
-| a9212066-30c3-3e8d-8d80-e47b1efa0cd9 | -11.4169 | -50.0948 | 2026-07-30 15:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| 7e3bb88f-d03d-3fe2-867a-59c938cc60df | -14.1993 | -43.9839 | 2026-07-30 15:20:00 | GOES-19 | CARINHANHA | BAHIA | Brasil | 2907103 | 29 | 33 | nan | nan | nan | Cerrado | 202.7 |
+| 814b5b88-e2fe-3fb8-84ca-863023f726ca | -22.24501 | -56.70411 | 2026-07-31 05:21:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| fa335003-6c6a-32b3-8578-c49a63c7fd51 | -21.38148 | -56.835 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 5f1dc07a-8154-3f95-8ca2-98d760c07a80 | -21.04194 | -48.46756 | 2026-07-31 05:21:00 | NPP-375D | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 30f53fa1-8404-3c82-80da-7771bc11b228 | -21.04153 | -48.47191 | 2026-07-31 05:21:00 | NPP-375D | BEBEDOURO | SÃO PAULO | Brasil | 3506102 | 35 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| d065984d-b665-3b55-ae5e-a56a2d732ebc | -20.11189 | -50.74358 | 2026-07-31 05:21:00 | NPP-375D | SANTA RITA D'OESTE | SÃO PAULO | Brasil | 3547403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 3.5 |
+| 7e5be68a-b822-3742-aa22-1098fa45793d | -22.16101 | -56.0219 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 36.1 |
+| e463ebe1-a4ba-3a56-840a-110e649b547e | -19.0187 | -56.42214 | 2026-07-31 05:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 808576b3-364d-3e64-9b9b-099750bf8262 | -20.11621 | -50.75032 | 2026-07-31 05:21:00 | NPP-375D | SANTA RITA D'OESTE | SÃO PAULO | Brasil | 3547403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.8 |
+| 94b92c76-1012-3295-bd26-3b04e6172ba2 | -20.59003 | -57.24263 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| efc2da43-61ce-3a07-be6f-704eeb543568 | -22.16471 | -56.02235 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 36.1 |
+| aa7e5e63-8c41-32e6-8304-df3a65d567c2 | -21.37854 | -56.8303 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| c82437ed-25c0-35da-82a8-07814142bd88 | -21.04612 | -55.82708 | 2026-07-31 05:21:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 6a3a1ab9-1c11-3ed3-aaf8-1a7b30f10064 | -22.21257 | -56.05766 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 1.0 |
+| 3b3925fe-78ff-337a-b3f6-008cd2d33f31 | -22.16164 | -56.01722 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 36.1 |
+| a321175d-385f-3a12-bf70-c18a6fb0da3e | -21.663 | -56.33058 | 2026-07-31 05:21:00 | NPP-375D | BELA VISTA | MATO GROSSO DO SUL | Brasil | 5002100 | 50 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 2269a059-563a-3971-a51a-060b211f7883 | -20.11585 | -50.74826 | 2026-07-31 05:21:00 | NPP-375D | SANTA RITA D'OESTE | SÃO PAULO | Brasil | 3547403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| 8abb24d1-8487-3ad1-b5bc-8ad1de12b48e | -21.29203 | -56.13923 | 2026-07-31 05:21:00 | NPP-375D | NIOAQUE | MATO GROSSO DO SUL | Brasil | 5005806 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| 0fc1f333-6c16-3ce6-bb09-95b854dd6c8c | -22.15794 | -56.01676 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 7.7 |
+| 7714b483-0987-3d81-8e50-2cda0269a9c1 | -22.16227 | -56.01254 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 6.8 |
+| 7804a12d-1ba2-390b-b52b-10dfbc7e347c | -20.56993 | -57.25957 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| c2c92ad3-f125-36ad-bbdf-e83c280c3a2d | -21.385 | -56.83557 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 09a68392-7e34-3d0f-9076-1d1e8285f8ad | -20.6129 | -57.30319 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 8009369a-5ef8-3cc1-bb93-19aa9bc56a63 | -19.02917 | -57.50415 | 2026-07-31 05:21:00 | NPP-375D | LADÁRIO | MATO GROSSO DO SUL | Brasil | 5005202 | 50 | 33 | nan | nan | nan | Pantanal | 0.6 |
+| d141f352-db3f-3057-b01b-e8cfb5d80fb9 | -20.57337 | -57.26018 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| d31e22ec-c23a-3ab5-be05-e83a0ac0b0c8 | -20.11124 | -50.74955 | 2026-07-31 05:21:00 | NPP-375D | SANTA RITA D'OESTE | SÃO PAULO | Brasil | 3547403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.8 |
+| 1177fe1a-fed1-3272-a5db-cc25a24ed3e1 | -22.19424 | -56.02665 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| e826f39c-e054-3a0d-96fd-713025ff6a92 | -20.32557 | -58.08574 | 2026-07-31 05:21:00 | NPP-375D | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.5 |
+| a123a229-eadd-3a75-8a13-2afe17324d6c | -22.16534 | -56.01769 | 2026-07-31 05:21:00 | NPP-375D | ANTÔNIO JOÃO | MATO GROSSO DO SUL | Brasil | 5000906 | 50 | 33 | nan | nan | nan | Cerrado | 36.1 |
+| 16209b64-4b39-39a8-aca1-7c2f344a85d3 | -20.51663 | -57.15001 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| feb6c975-9ef7-3a88-b41f-e186e4689b69 | -20.56936 | -57.26352 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| b04185ab-1f94-303b-8e1c-9c941bf53f4c | -20.1109 | -50.74751 | 2026-07-31 05:21:00 | NPP-375D | SANTA RITA D'OESTE | SÃO PAULO | Brasil | 3547403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| aedc4422-7322-36f3-a27f-a6b3c2cc99fc | -21.38853 | -56.83614 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| 99ff5123-8549-3c09-9950-b98012cf0082 | -21.38091 | -56.83908 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| dd78b4a2-5f6a-3711-b498-682ca7f49497 | -20.11685 | -50.74433 | 2026-07-31 05:21:00 | NPP-375D | SANTA RITA D'OESTE | SÃO PAULO | Brasil | 3547403 | 35 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 6e787988-5c3f-3595-8cbf-4045bfb7ef68 | -20.61348 | -57.29924 | 2026-07-31 05:21:00 | NPP-375D | PORTO MURTINHO | MATO GROSSO DO SUL | Brasil | 5006903 | 50 | 33 | nan | nan | nan | Cerrado | 0.6 |
+| f7e1448e-afc0-399e-a585-49750a5bc6da | 1.10735 | -60.51487 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a855ea55-69dd-36f8-ae17-81fbe8393076 | 1.10129 | -60.51934 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 078879e5-83a3-352c-af48-9d81b4bdd7ca | 1.09912 | -60.50563 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 8aa7de43-df8c-302b-9c90-03dc25b1428a | 1.1035 | -60.51197 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 6878640f-4fca-361b-8767-194b26cede57 | 1.09857 | -60.5022 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 9d3d9d12-4521-32b9-8474-fa4bea0f461a | 1.09803 | -60.49878 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2775d07f-df79-3ff6-81a2-e0c151f1549a | 1.09799 | -60.51986 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 5faee3b6-d990-3a11-a073-a9dfdd2b7505 | 1.09749 | -60.49535 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 422fc9c1-f551-341b-8716-aaf41a956cfe | 1.10296 | -60.50854 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 6ccfdb05-55db-3c5d-9346-32ce0b8669b1 | 1.09473 | -60.49929 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 45985fcd-a287-3990-a48a-db5e484f5203 | 2.51794 | -60.64437 | 2026-07-31 05:31:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 55d48d8b-9a94-37a3-a732-923734254b64 | 1.09966 | -60.50906 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 875bd592-8e6c-33e3-8c8d-e6d84f4c7b83 | 1.10242 | -60.50512 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 4124f9f8-fac1-32d9-beb2-de2733d31e6e | 1.10405 | -60.51539 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 226b70b2-c135-3650-af2a-1efa9fa58076 | 1.09582 | -60.50615 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.3 |
+| dd3db564-9e4e-33f3-aecf-33934ba64a2e | 1.09527 | -60.50272 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| b0c93145-6094-3f4d-81a7-93e0755b0a50 | 1.1002 | -60.51249 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 63ca4c70-cce2-3ef7-81d1-b0f6858acc8c | 0.90672 | -60.53622 | 2026-07-31 05:31:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 104db244-222e-362f-8e79-7dfed36541ea | 2.51848 | -60.6478 | 2026-07-31 05:31:00 | NOAA-20 | CANTÁ | RORAIMA | Brasil | 1400175 | 14 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 338c3353-c37c-3134-b105-c9b4865c652a | 1.1068 | -60.51145 | 2026-07-31 05:31:00 | NOAA-20 | CARACARAÍ | RORAIMA | Brasil | 1400209 | 14 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 3a1e2582-4da3-3230-b686-1e1f2c823098 | -3.04718 | -48.74863 | 2026-07-31 05:33:00 | NOAA-20 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 2324dfd5-5d09-3e54-a31a-12a052be7859 | -3.11493 | -47.90615 | 2026-07-31 05:33:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| c10859b0-08d5-3a74-80d8-b0ce4291d2d9 | -3.0307 | -59.16513 | 2026-07-31 05:33:00 | NOAA-20 | ITACOATIARA | AMAZONAS | Brasil | 1301902 | 13 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 95741f70-420c-3564-a670-a97117fba0be | -3.96343 | -48.1274 | 2026-07-31 05:33:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 13.7 |
+| fefd5e96-834b-393a-b34d-ee897c026e5b | -3.14943 | -60.35095 | 2026-07-31 05:33:00 | NOAA-20 | IRANDUBA | AMAZONAS | Brasil | 1301852 | 13 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| b532a2b9-bda6-33cb-a4eb-329abe6122ef | -6.55635 | -55.15751 | 2026-07-31 05:33:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6f5642e9-09f5-3e2a-8ec0-27a6f5aa4041 | -3.11098 | -47.90604 | 2026-07-31 05:33:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| aac5df4d-7510-3a80-ab25-fe9d6d063b5a | -6.17848 | -55.52911 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| ac920d50-5a02-36c2-9d2d-6283efbe6f06 | -3.71162 | -51.17574 | 2026-07-31 05:33:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| e991d7f9-dddb-35fd-9343-71277ae0f0b7 | -6.55563 | -55.16241 | 2026-07-31 05:33:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| d7e1f839-9486-3fa3-a09c-cc429b37a2b1 | -7.27401 | -64.78313 | 2026-07-31 05:33:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 356e59a8-44bf-362a-8720-225b31d1d076 | -4.27727 | -48.19801 | 2026-07-31 05:33:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| 769373b5-653d-39c2-9ae3-bdf16e7f2fd0 | -6.17396 | -55.52843 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| ffccf08e-b532-3574-a4b4-2bce01e53043 | -4.21788 | -56.04891 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| fb78bd54-b3c2-3c8d-8f6b-a44d1108056b | -6.55525 | -56.54068 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| 389e3186-18ab-37c3-8818-1bd1c7ffccbf | -3.71101 | -51.17984 | 2026-07-31 05:33:00 | NOAA-20 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 6302d45a-bec9-3178-acd5-92d7adc8a4ef | -3.11391 | -47.91331 | 2026-07-31 05:33:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 6.5 |
+| c0827f12-d250-381d-a44a-b31b95d93b02 | -4.27294 | -48.19601 | 2026-07-31 05:33:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 7.5 |
+| e49df2b9-03f7-3cc4-9081-7d3799ea925f | -3.11805 | -47.9072 | 2026-07-31 05:33:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 3.7 |
+| dbbda4a5-6de2-3958-8009-b030b1d3d173 | -7.73243 | -55.34164 | 2026-07-31 05:33:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 5afded71-647f-3381-aca9-0d0d30f71097 | -3.11699 | -47.91427 | 2026-07-31 05:33:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| e31884a9-7908-382b-84ed-58839ddbdbcf | -3.89242 | -59.07283 | 2026-07-31 05:33:00 | NOAA-20 | NOVA OLINDA DO NORTE | AMAZONAS | Brasil | 1303106 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| dfc689d4-5455-3150-ba20-15a77d0d6f58 | -6.18818 | -55.52593 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 7105b49a-8008-32f1-99e5-1aafe873177e | -7.73711 | -55.34231 | 2026-07-31 05:33:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| 2b366d82-a0c2-3f23-a081-3ab087dcc54b | -2.88807 | -48.01657 | 2026-07-31 05:33:00 | NOAA-20 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 4a7c5441-3d27-31c0-9c48-4038e0fd3a72 | -6.18887 | -55.52125 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 863bf4ba-eb75-3fc9-8cde-f5d20aa03f72 | -4.27018 | -48.19707 | 2026-07-31 05:33:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 5ef6da3a-5456-3942-a5fd-c3506cb8c6a1 | -6.17914 | -55.52458 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 24544954-faf9-3a49-a9f0-1761a38d6a7e | -3.10992 | -47.91314 | 2026-07-31 05:33:00 | NOAA-20 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 5.9 |
+| 89d99684-99ab-311a-b356-985778085ad0 | -0.19908 | -60.76703 | 2026-07-31 05:33:00 | NOAA-20 | RORAINÓPOLIS | RORAIMA | Brasil | 1400472 | 14 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d17b8f9e-822d-376f-967d-46e23b2cb4d7 | -7.73449 | -55.34459 | 2026-07-31 05:33:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| aba79483-6113-301f-a95f-c09e43c6dbe3 | -1.78005 | -55.50543 | 2026-07-31 05:33:00 | NOAA-20 | ÓBIDOS | PARÁ | Brasil | 1505106 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| ae0c2bda-9b70-37af-9cda-734496455684 | -6.18298 | -55.52985 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 2.2 |
+| 869c3ca1-f429-3079-9dc6-dd9481f72799 | -3.05036 | -48.74356 | 2026-07-31 05:33:00 | NOAA-20 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 5.3 |
+| 54eca61f-8ae6-3067-a044-bf989acd312a | -4.71914 | -55.99454 | 2026-07-31 05:33:00 | NOAA-20 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 35dfec4f-5bd8-3661-9271-2a181db065a3 | -3.04811 | -48.74256 | 2026-07-31 05:33:00 | NOAA-20 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 1e34faad-3265-3721-974e-bcca7a72a106 | -7.27268 | -64.78152 | 2026-07-31 05:33:00 | NOAA-20 | LÁBREA | AMAZONAS | Brasil | 1302405 | 13 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| 38c2f869-abdb-3fd9-88dd-f857c8b5182e | -6.561 | -55.15827 | 2026-07-31 05:33:00 | NOAA-20 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 69e8e788-3f7d-3ba9-87a1-d5495bafbe94 | -2.8951 | -48.0176 | 2026-07-31 05:33:00 | NOAA-20 | IPIXUNA DO PARÁ | PARÁ | Brasil | 1503457 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 9e421f88-2038-31e1-abd9-4b6785d1d648 | -3.96587 | -48.13144 | 2026-07-31 05:33:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
+| 31a39924-96ba-35c3-98bc-3848309d9d2a | -1.73283 | -55.84394 | 2026-07-31 05:33:00 | NOAA-20 | ORIXIMINÁ | PARÁ | Brasil | 1505304 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| e328862a-aed1-3a4b-972d-2cf2a3f2c0ca | -4.27193 | -48.20285 | 2026-07-31 05:33:00 | NOAA-20 | RONDON DO PARÁ | PARÁ | Brasil | 1506187 | 15 | 33 | nan | nan | nan | Amazônia | 5.0 |
+| 50ac3f01-912d-333d-af7d-b17b9957b584 | -6.55582 | -56.53676 | 2026-07-31 05:33:00 | NOAA-20 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.9 |
+| c02971e3-7354-376c-96e2-7b826c62964a | -7.73517 | -55.33958 | 2026-07-31 05:33:00 | NOAA-20 | NOVO PROGRESSO | PARÁ | Brasil | 1505031 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| fc8baf7c-71f6-3cc8-8d75-f273c8e302f4 | -3.96687 | -48.1247 | 2026-07-31 05:33:00 | NOAA-20 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 7.7 |
 
 
 [Clique aqui para ver as próximas entradas](README14.md)
