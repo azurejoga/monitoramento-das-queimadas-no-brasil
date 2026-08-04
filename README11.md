@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| d11f2247-545a-3155-80ad-69c89dddb60b | -3.1158 | -47.9232 | 2026-08-03 13:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 80.9 |
-| dd1bcf9e-af2b-31f7-afc3-349675565be2 | -7.9532 | -44.9188 | 2026-08-03 13:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 97.8 |
-| d65cbdee-bec7-3211-904e-504fe4738173 | -6.0131 | -47.8648 | 2026-08-03 13:40:00 | GOES-19 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 109.6 |
-| 5c7caf22-f7a9-3912-adf1-0f0ca5fb11d5 | -11.6047 | -50.245 | 2026-08-03 13:40:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 72.9 |
-| 198e5831-5565-3df0-943b-23f49a29cbeb | -3.1158 | -47.9232 | 2026-08-03 13:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 66.1 |
-| f6325633-48c7-35a1-bb6e-c66f1895bd64 | -7.2445 | -59.4596 | 2026-08-03 13:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 59.1 |
-| 5d7ec21d-89f6-37d6-8795-1fe74c23d9ac | -14.2687 | -45.2636 | 2026-08-03 13:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 148.7 |
-| df94a5b9-68ab-3adb-a979-f4c9213e45c5 | -6.0131 | -47.8648 | 2026-08-03 13:50:00 | GOES-19 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 106.5 |
-| 753a5517-89bc-32c8-8e35-170cf8a40bc8 | -14.2687 | -45.2636 | 2026-08-03 14:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 111.8 |
-| c8fba115-7d4e-390e-81da-d27a4118c7c7 | -6.5514 | -55.1569 | 2026-08-03 14:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 80.9 |
-| 4b9f2c34-2d24-34ad-a255-7b6c9d3cd792 | -3.1158 | -47.9232 | 2026-08-03 14:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 77.3 |
-| ef7bde33-13ff-3eb9-95df-b8ed619183dc | -11.6047 | -50.245 | 2026-08-03 14:00:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 84.0 |
-| 1fdeab2d-fa7e-3c32-ad87-7783d38cb47e | -6.5512 | -55.1769 | 2026-08-03 14:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 74.3 |
-| f05d0484-092c-3692-bd28-20f7a8d18555 | -14.2687 | -45.2636 | 2026-08-03 14:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 124.4 |
-| 8ee29aa8-b721-3474-8306-8b46def656eb | -10.2053 | -50.097 | 2026-08-03 14:10:00 | GOES-19 | PIUM | TOCANTINS | Brasil | 1717503 | 17 | 33 | nan | nan | nan | Cerrado | 102.5 |
-| 504b546c-20e1-36aa-b701-730a970d3c5b | -1.6591 | -54.4543 | 2026-08-03 14:10:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 65.1 |
-| 69a77754-e32f-3eb8-a5b1-3bcfdae28447 | -6.5699 | -55.156 | 2026-08-03 14:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 67.1 |
-| 2877c51f-bb4d-395a-bbd0-338c7f794f9e | -2.9581 | -50.3569 | 2026-08-03 14:10:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 73.0 |
-| 6268e3dd-fb88-3b92-84e1-c1a15c5c73c3 | -6.5514 | -55.1569 | 2026-08-03 14:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 100.6 |
-| 7226e22b-4c81-3cad-a2e5-af119d05e06a | -3.1158 | -47.9232 | 2026-08-03 14:10:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 78.5 |
-| 9cd76eb5-ed99-31bc-9e50-d1341392f95e | -9.9565 | -46.22 | 2026-08-03 14:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 127.7 |
-| 013e9480-78e1-3a25-9aa1-2893f57ed194 | -6.5697 | -55.176 | 2026-08-03 14:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 91.8 |
-| 292ead07-38af-3da1-b1e6-558cf944f4ec | -14.2692 | -45.2403 | 2026-08-03 14:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 74.3 |
-| 266c851e-7ec7-3646-8706-1f970e4212a6 | -9.9568 | -46.1974 | 2026-08-03 14:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 113.7 |
-| 9ba1b34d-990e-388f-8717-edab47fcdacf | -6.5512 | -55.1769 | 2026-08-03 14:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 110.3 |
-| 8ee37a4f-ab38-3f79-8060-5f9249576dff | -14.2687 | -45.2636 | 2026-08-03 14:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 98.9 |
-| 5409b77c-080d-3d52-be8c-678e190214c6 | -2.9581 | -50.3569 | 2026-08-03 14:20:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 62.9 |
-| 9d58228a-f4cf-3479-aab6-a37ab4c4595a | -3.1158 | -47.9232 | 2026-08-03 14:20:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 75.3 |
-| e2fcd0b2-cbcb-3aef-ac95-cf4f5672fb30 | -6.5699 | -55.156 | 2026-08-03 14:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 66.4 |
-| 02d072bd-6dce-3f76-be8c-707d49498adb | -7.6502 | -45.0852 | 2026-08-03 14:20:00 | GOES-19 | RIBEIRO GONÇALVES | PIAUÍ | Brasil | 2208908 | 22 | 33 | nan | nan | nan | Cerrado | 79.8 |
-| 5d71e8a1-64c1-3286-a6fe-bc7150c8a836 | -10.5741 | -46.7745 | 2026-08-03 14:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| 04ea4626-7ac8-358d-9b11-22567ceb245a | -10.6312 | -46.7675 | 2026-08-03 14:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 114.4 |
-| d5484bb9-a212-3b24-9230-3ce6ddab8da6 | -6.5697 | -55.176 | 2026-08-03 14:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| 745b507f-252d-31f3-92b7-0e2fba90e0ec | -11.4537 | -50.1765 | 2026-08-03 14:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 95.2 |
-| c767519b-80b4-3242-bfda-c4bd60384556 | -6.5512 | -55.1769 | 2026-08-03 14:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 179.6 |
-| eb0fa3e2-2fb5-32cf-bcc8-61ea12261901 | -1.6591 | -54.4543 | 2026-08-03 14:20:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 74.8 |
-| fc6941de-7f71-3cb5-adf7-4425e1610379 | -6.5514 | -55.1569 | 2026-08-03 14:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 133.4 |
-| f4246906-a209-35fc-b752-ecddbb477231 | -9.9375 | -46.2222 | 2026-08-03 14:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 63.4 |
-| 23233e22-25ca-3b7c-8c52-7ccfbf9d44e8 | -11.6047 | -50.245 | 2026-08-03 14:20:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 87.4 |
-| e4a5fbea-5667-36bc-bc07-a031bca77c96 | -9.9565 | -46.22 | 2026-08-03 14:20:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 69.8 |
-| 2896c5ba-873e-3ef7-a4a2-9daa9ce61bc2 | -7.3873 | -45.0643 | 2026-08-03 14:20:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 85.8 |
-| 4cce4a17-e7da-3cf4-a0e6-b78577227a34 | -6.5697 | -55.176 | 2026-08-03 14:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 74.0 |
-| 1907032f-93de-350b-a08c-b32f5fba5aee | -11.6047 | -50.245 | 2026-08-03 14:30:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 87.9 |
-| 2cd88424-9212-31b7-a907-3550ee84a1d3 | -6.5699 | -55.156 | 2026-08-03 14:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 83.3 |
-| 70dc40aa-bba4-3165-8c61-d2b8403ce553 | -6.5512 | -55.1769 | 2026-08-03 14:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 177.3 |
-| d5af53ae-1ea1-3ec1-8440-9a6250bb8eea | -9.9565 | -46.22 | 2026-08-03 14:30:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 83.4 |
-| 8c3750f3-cc58-3806-b8b8-3ee1c6c67d5f | -3.1735 | -43.5365 | 2026-08-03 14:30:00 | GOES-19 | BELÁGUA | MARANHÃO | Brasil | 2101731 | 21 | 33 | nan | nan | nan | Cerrado | 76.4 |
-| a6f8b010-7dfe-3c3b-80b7-8953ed676eab | -7.3873 | -45.0643 | 2026-08-03 14:30:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 112.5 |
-| e551f27d-237a-303e-a5fb-c2f86d10adb4 | -2.9581 | -50.3569 | 2026-08-03 14:30:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 71.0 |
-| ea0d9d00-0d58-36d3-8e92-2521adce857d | -6.5957 | -45.4275 | 2026-08-03 14:30:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 89.7 |
-| 76834a72-3b2a-3596-8c73-141d2ec8d8df | -6.5514 | -55.1569 | 2026-08-03 14:30:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 167.8 |
-| cd395067-be62-32ff-84e4-345c556baacf | -10.6316 | -46.7451 | 2026-08-03 14:30:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 120.9 |
-| d908a0ae-0fed-3cd9-adb1-65ba4caabe8e | -3.1158 | -47.9232 | 2026-08-03 14:30:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 78.1 |
-| cde8ab95-1b89-3c17-bfbc-0a8c5f4ddbb4 | -14.2692 | -45.2403 | 2026-08-03 14:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 79.2 |
-| 148f951a-a308-3243-9987-05af62421782 | -14.2687 | -45.2636 | 2026-08-03 14:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 133.6 |
-| f19b3f96-e7e0-34db-ab9a-2ac8dcb0a080 | -12.4594 | -50.4009 | 2026-08-03 14:30:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 81.2 |
-| 3c6635f9-6160-3672-b6f0-7e3af93c126f | -1.6591 | -54.4543 | 2026-08-03 14:30:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 76.3 |
-| ba368685-4209-39f6-9ef2-4221d2eb0e40 | -6.0131 | -47.8648 | 2026-08-03 14:40:00 | GOES-19 | SÃO BENTO DO TOCANTINS | TOCANTINS | Brasil | 1720101 | 17 | 33 | nan | nan | nan | Cerrado | 82.7 |
-| 4e05b8a1-a7ca-303a-b2ba-e33758c40885 | -6.5512 | -55.1769 | 2026-08-03 14:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 159.3 |
-| 69606972-3d20-3d60-8592-6f67258d7a80 | -1.6408 | -54.4545 | 2026-08-03 14:40:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 60.0 |
-| 240f61c8-505f-3fb0-84dc-64065d91756d | -2.9581 | -50.3569 | 2026-08-03 14:40:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 76.9 |
-| 25a56be1-cf37-3ae7-9e5a-f8001d3e7c02 | -9.9375 | -46.2222 | 2026-08-03 14:40:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 96.9 |
-| 94289c9b-07ea-3dcc-9608-7dd4f721ace0 | -6.1485 | -45.2137 | 2026-08-03 14:40:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 97.4 |
-| 9978a55b-8bfb-3b77-a372-c34df94b7d93 | -6.5957 | -45.4275 | 2026-08-03 14:40:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 85.1 |
-| a7eec407-4a11-33c8-a615-0a4c71cd8e2a | -6.5514 | -55.1569 | 2026-08-03 14:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 168.6 |
-| ce6d37f3-3b74-3cba-9962-ea5592cf4270 | -6.5699 | -55.156 | 2026-08-03 14:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 124.9 |
-| db9ad8bb-2505-3a98-8583-40f22e57f142 | -9.9565 | -46.22 | 2026-08-03 14:40:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 129.7 |
-| 84e4ed26-7e88-3542-b535-6e08a7fa3c89 | -6.5697 | -55.176 | 2026-08-03 14:40:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 106.9 |
-| ae482f24-b4fa-3f35-9504-79e50df8ee97 | -3.1158 | -47.9232 | 2026-08-03 14:40:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 61.0 |
-| 977b3210-6075-3ff4-8fd6-268987076448 | -7.9721 | -44.9169 | 2026-08-03 14:40:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 165.3 |
-| 26be3cdd-0953-3aad-9855-80adc26979ea | -2.9581 | -50.3359 | 2026-08-03 14:40:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 61.4 |
-| a3c3f2cc-62d8-37e2-a8d3-8ba9ab4663ae | -7.3873 | -45.0643 | 2026-08-03 14:40:00 | GOES-19 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 109.4 |
-| 9a26ff86-bc3a-3754-902f-42991579cda0 | -6.5514 | -55.1569 | 2026-08-03 14:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 174.1 |
-| 5ee03614-a6fd-3544-ba94-0586417931df | -6.5699 | -55.156 | 2026-08-03 14:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 155.5 |
-| 41ba9055-143c-3754-b956-ca9774c2aad0 | -2.9581 | -50.3569 | 2026-08-03 14:50:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 71.9 |
-| 585e419a-9d9b-3714-a8c8-4f62b6d9a20f | -6.5512 | -55.1769 | 2026-08-03 14:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 212.9 |
-| ce909adf-71ee-338f-8028-ea4e69c0ee1e | -9.9375 | -46.2222 | 2026-08-03 14:50:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 80.0 |
-| 1661fcd1-0b2c-3e32-85d2-861204e56c90 | -6.5957 | -45.4275 | 2026-08-03 14:50:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 118.4 |
-| 0a83af0f-d31b-38d9-aae6-e150060fb38b | -2.9581 | -50.3359 | 2026-08-03 14:50:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 68.9 |
-| c95a1e37-56c1-30e4-a59f-b79dd3bffe15 | -7.9721 | -44.9169 | 2026-08-03 14:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 563.4 |
-| 49ecb966-e877-334e-8d37-58ce7cde8c4f | -14.2687 | -45.2636 | 2026-08-03 14:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 115.5 |
-| e4b76c0f-e8c7-38a6-b6a7-9dbc379efdb3 | -3.1158 | -47.9232 | 2026-08-03 14:50:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 91.2 |
-| dc453ac6-5a67-304f-8638-a0b529e276c7 | -6.5697 | -55.176 | 2026-08-03 14:50:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 168.3 |
-| df99e067-f128-3525-9201-d605ab297e12 | -6.1485 | -45.2137 | 2026-08-03 14:50:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 110.3 |
-| f0e9b4a7-0832-333c-8530-7dad28224bc1 | -1.6591 | -54.4543 | 2026-08-03 14:50:00 | GOES-19 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 67.6 |
-| 46b77c64-077c-3c9c-80be-5843da4c13ab | -11.6047 | -50.245 | 2026-08-03 14:50:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 105.1 |
-| a4a6fb91-678a-3d47-a7b3-025fe84680f1 | -9.9568 | -46.1974 | 2026-08-03 14:50:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| f17aa15b-dedd-3c50-a378-62d3fd8aeb22 | -5.9442 | -45.0477 | 2026-08-03 14:50:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 98.1 |
-| 972c39e8-cb73-3386-a4b6-d812a164d3e5 | -7.9532 | -44.9188 | 2026-08-03 14:50:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 196.6 |
-| 6fad2274-a0ea-3b68-a6e8-d76b6ebab30a | -9.9565 | -46.22 | 2026-08-03 14:50:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 118.3 |
-| f7c844dc-b3d7-3f57-a5a6-5c4503c49ba5 | -7.9721 | -44.9169 | 2026-08-03 15:00:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 144.6 |
-| 5b4dd107-9381-3e71-8b8e-9eedb0e152b7 | -11.6047 | -50.245 | 2026-08-03 15:00:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 93.4 |
-| fdd24572-f576-340e-bbbc-a13dac3d99a0 | -6.5514 | -55.1569 | 2026-08-03 15:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 206.4 |
-| 29c25844-ee06-3367-8a9e-c1b6ee31c2cd | -6.1485 | -45.2137 | 2026-08-03 15:00:00 | GOES-19 | FERNANDO FALCÃO | MARANHÃO | Brasil | 2104081 | 21 | 33 | nan | nan | nan | Cerrado | 88.7 |
-| c66e766c-b5e1-3684-9984-5d7bd477328f | -6.5699 | -55.156 | 2026-08-03 15:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 151.6 |
-| f29737c8-d1ed-303a-8b5e-c5fb09043781 | -3.1158 | -47.9232 | 2026-08-03 15:00:00 | GOES-19 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 76.0 |
-| 80c0c6d5-50ed-3bc2-86cf-c4f454740fbe | -10.6312 | -46.7675 | 2026-08-03 15:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 116.0 |
-| 214affbd-c311-33ac-8b21-c877e9afd742 | -6.5697 | -55.176 | 2026-08-03 15:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 130.3 |
-| b21e1ac3-1146-3cc2-b290-2237ff8d052f | -6.5957 | -45.4275 | 2026-08-03 15:00:00 | GOES-19 | MIRADOR | MARANHÃO | Brasil | 2106706 | 21 | 33 | nan | nan | nan | Cerrado | 119.1 |
-| 027705eb-7b8f-3975-9fbd-1b0997de069d | -2.9581 | -50.3569 | 2026-08-03 15:00:00 | GOES-19 | PORTEL | PARÁ | Brasil | 1505809 | 15 | 33 | nan | nan | nan | Amazônia | 58.5 |
+| 9dd0e217-5a13-3d31-8a9b-176a68e97e38 | -17.96138 | -47.13958 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| b9ede9b6-d080-32af-a844-87ec0a9f7dc6 | -17.9845 | -47.16644 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 5bf6e5cb-e898-35c9-9ef6-cfe6b1e1957e | -20.99213 | -42.83253 | 2026-08-04 04:21:00 | NOAA-20 | VISCONDE DO RIO BRANCO | MINAS GERAIS | Brasil | 3172004 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.6 |
+| 32a79d22-7833-3f03-807c-be90bf6ce3d0 | -20.01683 | -41.94409 | 2026-08-04 04:21:00 | NOAA-20 | SANTANA DO MANHUAÇU | MINAS GERAIS | Brasil | 3158904 | 31 | 33 | nan | nan | nan | Mata Atlântica | 1.2 |
+| c988a29e-3daf-380e-a1fe-15cb3a75165b | -21.21914 | -45.78813 | 2026-08-04 04:21:00 | NOAA-20 | CAMPOS GERAIS | MINAS GERAIS | Brasil | 3111606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| e492796e-e54a-395d-849a-db79b3bffdea | -17.98115 | -47.16585 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 9ccfc6bd-7c6f-3461-b5d2-6bcdb3c699e0 | -15.05267 | -41.35083 | 2026-08-04 04:21:00 | NOAA-20 | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| b2f26bf3-d865-389f-bd2e-d063e7eebabb | -17.98785 | -47.16702 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| c9257342-de8e-38eb-bde6-509e0e043edb | -18.95583 | -43.17821 | 2026-08-04 04:21:00 | NOAA-20 | DOM JOAQUIM | MINAS GERAIS | Brasil | 3122603 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.7 |
+| dd18aca8-c6df-36d4-83a3-684d8086a329 | -18.71521 | -47.58432 | 2026-08-04 04:21:00 | NOAA-20 | ESTRELA DO SUL | MINAS GERAIS | Brasil | 3124807 | 31 | 33 | nan | nan | nan | Cerrado | 0.7 |
+| 90f93356-c411-3233-932f-b956ca7767c5 | -14.26137 | -45.26144 | 2026-08-04 04:21:00 | NOAA-20 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 0.9 |
+| 68fd9549-68f6-334a-b4de-befb8ae180c8 | -17.97901 | -47.15792 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 0.8 |
+| 6a91337f-51a2-32a3-8eb1-c32ef198fd39 | -21.22248 | -45.78871 | 2026-08-04 04:21:00 | NOAA-20 | CAMPOS GERAIS | MINAS GERAIS | Brasil | 3111606 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.4 |
+| 3dcd108f-c83b-3d1f-9ee1-19bf472665f0 | -17.9851 | -47.16277 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 3.6 |
+| 071ed776-3421-3666-b90b-1f9bc25c6e01 | -19.00669 | -46.24714 | 2026-08-04 04:21:00 | NOAA-20 | CARMO DO PARANAÍBA | MINAS GERAIS | Brasil | 3114303 | 31 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 17800b2e-2e17-38ea-9ede-db028af9fa7a | -17.95928 | -47.13935 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| dca9aa1c-557c-3e30-a885-0f491d17b296 | -17.9912 | -47.16759 | 2026-08-04 04:21:00 | NOAA-20 | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 4.7 |
+| 110be8ad-eb40-303d-be80-4879fbacbfd2 | -20.50866 | -41.66865 | 2026-08-04 04:21:00 | NOAA-20 | IBITIRAMA | ESPÍRITO SANTO | Brasil | 3202553 | 32 | 33 | nan | nan | nan | Mata Atlântica | 1.0 |
+| f1bc2e0c-50de-339d-b882-0089db822ad4 | -17.86379 | -40.05231 | 2026-08-04 04:21:00 | NOAA-20 | NOVA VIÇOSA | BAHIA | Brasil | 2923001 | 29 | 33 | nan | nan | nan | Mata Atlântica | 2.2 |
+| cd0992f1-3ae2-3b87-841a-59dd5e6d3e8f | -22.10877 | -47.01282 | 2026-08-04 04:23:00 | NOAA-20 | AGUAÍ | SÃO PAULO | Brasil | 3500303 | 35 | 33 | nan | nan | nan | Cerrado | 0.5 |
+| 2791c269-0089-3cb7-83e9-2454e6a5c2a0 | -22.57511 | -46.65875 | 2026-08-04 04:23:00 | NOAA-20 | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| cb8f46ac-6b98-3a19-bfb1-fae4ec12c1db | -22.31594 | -47.18305 | 2026-08-04 04:23:00 | NOAA-20 | CONCHAL | SÃO PAULO | Brasil | 3512209 | 35 | 33 | nan | nan | nan | Cerrado | 0.3 |
+| b7f9d698-5462-3f1e-a21a-a41d32848ec1 | -22.92075 | -42.43978 | 2026-08-04 04:23:00 | NOAA-20 | SAQUAREMA | RIO DE JANEIRO | Brasil | 3305505 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 8f329963-3f46-3dbd-bb5b-212f163dc352 | -21.51754 | -49.64075 | 2026-08-04 04:23:00 | NOAA-20 | LINS | SÃO PAULO | Brasil | 3527108 | 35 | 33 | nan | nan | nan | Mata Atlântica | 0.8 |
+| 8dbe1d13-1f7f-3fba-8329-c1d934029958 | -22.91686 | -42.4392 | 2026-08-04 04:23:00 | NOAA-20 | SAQUAREMA | RIO DE JANEIRO | Brasil | 3305505 | 33 | 33 | nan | nan | nan | Mata Atlântica | 2.9 |
+| 541d724b-09a8-3ff7-8f2a-bc802f609b0c | -22.85727 | -49.3566 | 2026-08-04 04:23:00 | NOAA-20 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 21486823-bd75-3c76-88d4-349f8c325dfa | -23.21963 | -46.43789 | 2026-08-04 04:23:00 | NOAA-20 | NAZARÉ PAULISTA | SÃO PAULO | Brasil | 3532405 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.1 |
+| f4566bc6-67c1-3561-9e09-4c6379ed1c51 | -22.85384 | -49.35588 | 2026-08-04 04:23:00 | NOAA-20 | ÁGUAS DE SANTA BÁRBARA | SÃO PAULO | Brasil | 3500550 | 35 | 33 | nan | nan | nan | Cerrado | 1.1 |
+| ae172992-b636-3156-bc84-e2636e8e7ace | -22.62543 | -46.24387 | 2026-08-04 04:23:00 | NOAA-20 | MUNHOZ | MINAS GERAIS | Brasil | 3143807 | 31 | 33 | nan | nan | nan | Mata Atlântica | 0.6 |
+| 56d3b37f-890c-3bbe-875d-5eaea7d62370 | -22.5718 | -46.65814 | 2026-08-04 04:23:00 | NOAA-20 | SERRA NEGRA | SÃO PAULO | Brasil | 3551603 | 35 | 33 | nan | nan | nan | Mata Atlântica | 1.4 |
+| a9103e28-f2b8-3e00-9c42-8fc47c0e4e8d | -11.2213 | -54.855 | 2026-08-04 04:30:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 63.5 |
+| f2e69bba-6076-30f9-bdf2-e44bcabb0101 | -8.3544 | -45.9897 | 2026-08-04 04:30:00 | GOES-19 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 52.5 |
+| 33465e77-0c3d-3cfd-9e03-4bb56d6b7ec9 | -8.3546 | -45.9671 | 2026-08-04 04:40:00 | GOES-19 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 32.8 |
+| 1c8aab2e-4a66-3ee7-8995-98e1c818c7e4 | -8.3544 | -45.9897 | 2026-08-04 04:40:00 | GOES-19 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 44.3 |
+| 09ffd6d0-adf9-3ff8-ad86-d7912a6d5f2c | -11.2213 | -54.855 | 2026-08-04 04:40:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 62.2 |
+| 26bd587a-e343-3c73-8e43-c4c422529472 | -8.3544 | -45.9897 | 2026-08-04 04:50:00 | GOES-19 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 41.5 |
+| 2602ed51-53e6-38fb-98fc-2e675bb276fb | -8.3546 | -45.9671 | 2026-08-04 04:50:00 | GOES-19 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 36.2 |
+| e675355c-3da6-3475-a7be-dbd4ff4daab4 | -11.2213 | -54.855 | 2026-08-04 04:50:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 62.3 |
+| 640faad5-30d8-3a5a-b819-3df7b0b04db9 | -11.2213 | -54.855 | 2026-08-04 05:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 44.0 |
+| 5cef0d3b-f8ca-3137-afef-5c69f52b93aa | -11.2024 | -54.8567 | 2026-08-04 05:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 65.4 |
+| 659874d4-efb5-3506-b057-5ed82292027f | -11.2022 | -54.8771 | 2026-08-04 05:00:00 | GOES-19 | NOVA SANTA HELENA | MATO GROSSO | Brasil | 5106190 | 51 | 33 | nan | nan | nan | Amazônia | 46.9 |
+| 144e3252-0be6-3fe0-bcbc-d7d0fef8482b | -8.3544 | -45.9897 | 2026-08-04 05:00:00 | GOES-19 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 51.2 |
+| c6eb8c83-be1b-374f-9489-bbf739c5f433 | -8.35921 | -48.24422 | 2026-08-04 05:04:00 | NOAA-21 | TUPIRATINS | TOCANTINS | Brasil | 1721307 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| 70530bd9-1804-33e2-8431-8fc8718439af | -6.55076 | -55.15878 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d3df9d56-f62b-35b4-8b5a-fb1ac82e2431 | -6.56627 | -55.16832 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| 40d149b5-8aa8-387b-8515-3e2b5e02d647 | -7.11607 | -46.72238 | 2026-08-04 05:04:00 | NOAA-21 | FEIRA NOVA DO MARANHÃO | MARANHÃO | Brasil | 2104073 | 21 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 96d0db86-6e2e-35e5-b2d7-9000bd98b88f | -8.93674 | -45.20091 | 2026-08-04 05:04:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 1.7 |
+| 0c98a465-f3ab-350a-a036-b192fac00234 | -2.31121 | -48.5876 | 2026-08-04 05:04:00 | NOAA-21 | ACARÁ | PARÁ | Brasil | 1500206 | 15 | 33 | nan | nan | nan | Amazônia | 2.0 |
+| 70dc54fc-21d8-3e83-9d65-4ba494cfef98 | -6.5425 | -55.1682 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| ab6d580a-b942-3265-af54-63788017de06 | -4.89684 | -49.96035 | 2026-08-04 05:04:00 | NOAA-21 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 44e25a20-f9ca-3267-8bbc-83d3a26f83f4 | -6.10239 | -55.81165 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| fabcbd9b-a9ce-34a4-b399-3988c8c4ff98 | -6.57719 | -55.16348 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| 62ab8ec0-1cc9-36a2-ad28-a770b8dc9b64 | -6.56967 | -56.54204 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 7ac59cdb-f530-3331-81b8-f7d72b52a5d3 | -2.56872 | -59.87417 | 2026-08-04 05:04:00 | NOAA-21 | RIO PRETO DA EVA | AMAZONAS | Brasil | 1303569 | 13 | 33 | nan | nan | nan | Amazônia | 0.5 |
+| 9134ed3c-fbe8-39d1-8a2b-a914aa2811fa | -1.63969 | -54.4599 | 2026-08-04 05:04:00 | NOAA-21 | ALENQUER | PARÁ | Brasil | 1500404 | 15 | 33 | nan | nan | nan | Amazônia | 2.9 |
+| fd3295cb-7698-3d89-b870-85ca9e8a7e2c | -8.92822 | -45.2107 | 2026-08-04 05:04:00 | NOAA-21 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 16d8de06-f6c7-3fff-b718-0ec4414b6712 | -4.89573 | -49.96796 | 2026-08-04 05:04:00 | NOAA-21 | ITUPIRANGA | PARÁ | Brasil | 1503705 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| c189fc69-d908-356a-8c0c-b0f9e9de1fae | -6.54798 | -55.15477 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 8a573210-ccbf-30bf-9e46-fc21a95303bb | -6.56245 | -56.52308 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| a5ac3c12-0ea8-3700-a5a8-04862d09bfdc | -7.61256 | -46.46565 | 2026-08-04 05:04:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| edf05332-ca57-38e8-866c-dc1e0fd26ad3 | -6.56071 | -55.16033 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 1076fa69-6890-333e-b099-35493529bcba | -5.63365 | -45.91471 | 2026-08-04 05:04:00 | NOAA-21 | GRAJAÚ | MARANHÃO | Brasil | 2104800 | 21 | 33 | nan | nan | nan | Cerrado | 4.4 |
+| af403985-127d-3984-acb2-98ebbff076b1 | -5.14157 | -46.20704 | 2026-08-04 05:04:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 9.3 |
+| 68146fd0-5710-3bc3-a252-86da5521ea24 | -6.95763 | -52.82155 | 2026-08-04 05:04:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 944f3447-4a1b-33a9-9586-7999199e3c75 | -1.54816 | -53.69414 | 2026-08-04 05:04:00 | NOAA-21 | PRAINHA | PARÁ | Brasil | 1506005 | 15 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 96e8d6d6-0db3-3733-9381-2dc204db60a1 | -6.56577 | -56.52359 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| d6a591bf-d4b9-3026-b36d-ae454466e7c1 | -7.12595 | -47.42916 | 2026-08-04 05:04:00 | NOAA-21 | CAROLINA | MARANHÃO | Brasil | 2102804 | 21 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| 393f4e61-5a87-3a8e-96e7-f7e7bbddb4c6 | -6.10292 | -55.8082 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| a0330fa8-a2b3-3a9a-bbab-2dc39105a522 | -7.60705 | -46.46489 | 2026-08-04 05:04:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.5 |
+| 4ed03902-c6e2-3257-808f-bdeeac8c0153 | -6.56191 | -56.52655 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.1 |
+| 3c5b9178-20d5-3194-94c1-87c72a7ffca4 | -3.66724 | -49.46732 | 2026-08-04 05:04:00 | NOAA-21 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 40273e8e-02af-3840-8ecd-bd19c9fbb4b4 | -6.57453 | -55.15889 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| b5fe6910-82ec-36bd-ad63-2b3f7334d84f | -6.55245 | -55.16974 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 0b1a45ea-8d4b-3fca-94e7-0f6afc3953fc | -6.57612 | -55.17046 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.3 |
+| c3a1facc-53d8-32de-b801-5ecd089480a5 | -3.58207 | -50.2648 | 2026-08-04 05:04:00 | NOAA-21 | PACAJÁ | PARÁ | Brasil | 1505486 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| 1c4ef98c-5681-3755-933e-f9d2962de307 | -6.54968 | -55.16575 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.9 |
+| 3cfdbc2a-e2ad-3379-b2be-f775106277bc | -6.74732 | -60.02018 | 2026-08-04 05:04:00 | NOAA-21 | NOVO ARIPUANÃ | AMAZONAS | Brasil | 1303304 | 13 | 33 | nan | nan | nan | Amazônia | 1.8 |
+| 983f222f-2c0b-3571-94be-235667852f1f | -8.35484 | -45.98631 | 2026-08-04 05:04:00 | NOAA-21 | TASSO FRAGOSO | MARANHÃO | Brasil | 2112001 | 21 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| ba340240-db85-3fbd-abd2-3643f6c6ec94 | -5.1425 | -46.20047 | 2026-08-04 05:04:00 | NOAA-21 | ARAME | MARANHÃO | Brasil | 2100956 | 21 | 33 | nan | nan | nan | Amazônia | 6.1 |
+| 6d761288-0ec7-34f5-aafc-02626f7b56bc | -2.69219 | -47.35766 | 2026-08-04 05:04:00 | NOAA-21 | NOVA ESPERANÇA DO PIRIÁ | PARÁ | Brasil | 1504950 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| e6674fb0-248a-354c-bbba-8b7229bae994 | -6.55855 | -55.17426 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.4 |
+| 1a263043-ecae-3b1c-8159-edc7cf03546b | -3.98206 | -48.43492 | 2026-08-04 05:04:00 | NOAA-21 | GOIANÉSIA DO PARÁ | PARÁ | Brasil | 1503093 | 15 | 33 | nan | nan | nan | Amazônia | 5.4 |
+| c1b86fdd-8609-3a91-b854-fab7ed9fcff2 | -4.64039 | -43.12914 | 2026-08-04 05:04:00 | NOAA-21 | CAXIAS | MARANHÃO | Brasil | 2103000 | 21 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| d86e6742-90b2-362e-b156-486d0f545ade | -6.36014 | -55.46708 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| a3dba36a-c085-3feb-b3d0-dbbea64a6bb3 | -3.0293 | -48.41299 | 2026-08-04 05:04:00 | NOAA-21 | TOMÉ-AÇU | PARÁ | Brasil | 1508001 | 15 | 33 | nan | nan | nan | Amazônia | 3.0 |
+| d77e3bba-ea49-3ab7-90f2-b1f629d9f797 | -3.67089 | -49.47188 | 2026-08-04 05:04:00 | NOAA-21 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 5.6 |
+| 28809270-5adb-389f-a0f0-2c5d3efbc403 | -7.61291 | -46.46415 | 2026-08-04 05:04:00 | NOAA-21 | RIACHÃO | MARANHÃO | Brasil | 2109502 | 21 | 33 | nan | nan | nan | Cerrado | 4.3 |
+| e343bc1e-4ad8-359a-8cac-96854a2c4c3d | -6.5486 | -55.17271 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| dc11fb1a-5af5-3a6e-993a-7e0588d52e9f | -7.37768 | -45.05556 | 2026-08-04 05:04:00 | NOAA-21 | LORETO | MARANHÃO | Brasil | 2106102 | 21 | 33 | nan | nan | nan | Cerrado | 1.3 |
+| 465965c6-6294-31f0-a30b-7373b05e1068 | -6.57345 | -55.16586 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 4.6 |
+| 9beb5631-bc16-3f26-9705-ead0807838e9 | -6.96483 | -52.82261 | 2026-08-04 05:04:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 0.7 |
+| cf26d4e1-5849-36c2-924e-fa64b3579a74 | -3.67397 | -49.48033 | 2026-08-04 05:04:00 | NOAA-21 | BREU BRANCO | PARÁ | Brasil | 1501782 | 15 | 33 | nan | nan | nan | Amazônia | 3.8 |
+| 20ccbd4e-7504-3d15-a843-5e125dd3de5f | -6.53085 | -55.15567 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| b5f721bb-66f5-36bd-ab43-34a18058a288 | -6.56565 | -55.15038 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| f48163f8-ce43-3909-92d0-d16e2dd07a69 | -4.37009 | -47.76996 | 2026-08-04 05:04:00 | NOAA-21 | DOM ELISEU | PARÁ | Brasil | 1502939 | 15 | 33 | nan | nan | nan | Amazônia | 2.5 |
+| 1a354884-f968-323f-8b8d-badac5e0f99b | -3.92731 | -59.40529 | 2026-08-04 05:04:00 | NOAA-21 | BORBA | AMAZONAS | Brasil | 1300805 | 13 | 33 | nan | nan | nan | Amazônia | 1.3 |
+| 168fc7b6-1526-3904-8136-b8d538e693c8 | -6.55859 | -56.52604 | 2026-08-04 05:04:00 | NOAA-21 | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| f8170b25-570f-377f-a88a-c17ab51cceca | -2.7477 | -48.76859 | 2026-08-04 05:04:00 | NOAA-21 | TAILÂNDIA | PARÁ | Brasil | 1507953 | 15 | 33 | nan | nan | nan | Amazônia | 0.8 |
+| d946b8c1-0afb-378d-92c1-ec491e178ff3 | -6.54304 | -55.16472 | 2026-08-04 05:04:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 2.6 |
+| a9896b11-df77-32cd-a63f-bc1798be988f | -3.11575 | -47.91285 | 2026-08-04 05:04:00 | NOAA-21 | PARAGOMINAS | PARÁ | Brasil | 1505502 | 15 | 33 | nan | nan | nan | Amazônia | 4.7 |
 
 
 [Clique aqui para ver as próximas entradas](README12.md)
