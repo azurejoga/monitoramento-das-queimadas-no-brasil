@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 053850ad-dd63-32ea-92c3-161d128fd030 | -14.2687 | -45.2636 | 2026-08-05 13:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 73.4 |
-| 1acc4359-4ba3-3de6-ae63-51a262647be2 | -12.5754 | -46.9329 | 2026-08-05 13:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 66.9 |
-| 8a911b0e-bdb4-3559-8052-db8d94a5cc79 | -14.2682 | -45.287 | 2026-08-05 13:30:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 262.9 |
-| 7afa06ba-9522-3d90-b51f-4693575b9aa3 | -7.2293 | -45.7801 | 2026-08-05 13:30:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 68.3 |
-| 81f71db6-bb84-3599-abe1-a92ef0d2574e | -8.9302 | -45.2041 | 2026-08-05 13:30:00 | GOES-19 | BAIXA GRANDE DO RIBEIRO | PIAUÍ | Brasil | 2201150 | 22 | 33 | nan | nan | nan | Cerrado | 107.7 |
-| eb55ba33-ad18-32c0-9ea3-5c259347a02e | -12.5942 | -46.9527 | 2026-08-05 13:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 127.1 |
-| a26e5e6a-06ae-3f8e-a4f2-f4e3665ec078 | -12.5951 | -46.9075 | 2026-08-05 13:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 88.5 |
-| 9b0857c3-579d-3387-8896-4d16e0cf0bc8 | -12.575 | -46.9555 | 2026-08-05 13:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 72.3 |
-| 283ea867-599d-391e-9b7b-8fbfb5c1ef35 | -12.4383 | -50.5324 | 2026-08-05 13:30:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 70.6 |
-| 6aa2f3ab-c72b-31d5-9f40-b33cfe87dbcf | -10.9192 | -50.4283 | 2026-08-05 13:30:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 98.1 |
-| 434f692b-5190-3116-9e6d-275aa07e374d | -12.5947 | -46.9301 | 2026-08-05 13:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 125.2 |
-| aa1baae6-0334-3f31-8666-f380d6d548d3 | -12.4386 | -50.5109 | 2026-08-05 13:30:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 81.5 |
-| 0cc2974e-c64a-3700-a455-960ceb6537e4 | -7.2187 | -43.3499 | 2026-08-05 13:30:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 88.3 |
-| 7f5a5b3d-8cd1-3752-9f27-382d17d0409b | -13.2604 | -54.2662 | 2026-08-05 13:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 94.6 |
-| 9b9b353b-ba1a-3a14-8193-1fe42d023b39 | -12.5938 | -46.9753 | 2026-08-05 13:30:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 78.7 |
-| efd7fc2f-e096-3970-bb91-239434034701 | -13.2413 | -54.2683 | 2026-08-05 13:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 82.4 |
-| fd97a3f9-ac13-3037-b2b2-45559ba83c60 | -7.2293 | -45.7801 | 2026-08-05 13:40:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 126.0 |
-| 8be46ff8-3031-3ead-b098-52942732e7ae | -10.9192 | -50.4283 | 2026-08-05 13:40:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 114.8 |
-| 79e8567e-7e77-3d45-8133-44260fa8da9c | -12.5947 | -46.9301 | 2026-08-05 13:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 101.6 |
-| 51b72f95-b257-3647-9877-7d9e61488d85 | -12.5942 | -46.9527 | 2026-08-05 13:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 169.1 |
-| f55e81bd-a6ec-31e0-90e9-c9814dab0971 | -7.2187 | -43.3499 | 2026-08-05 13:40:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 87.3 |
-| 835de4d6-30ec-359d-b059-c8e1911e8878 | -13.2604 | -54.2662 | 2026-08-05 13:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 104.5 |
-| fe21b4db-ed90-3ad7-9359-1012b877d1a5 | -14.2687 | -45.2636 | 2026-08-05 13:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 69.8 |
-| 1996f407-e026-32a2-aabe-fd8577184f0f | -12.4789 | -50.377 | 2026-08-05 13:40:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 161.1 |
-| d16bab69-8f7f-3b9c-bdb5-2cb9cd70f7b7 | -14.2487 | -45.2904 | 2026-08-05 13:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 127.4 |
-| 124a874a-2f55-3b96-8a13-53cb7459e031 | -12.4598 | -50.3794 | 2026-08-05 13:40:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 88.3 |
-| 7ab6c1ce-10f8-397b-875c-04da0dfd7834 | -11.2916 | -44.8133 | 2026-08-05 13:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 97.6 |
-| e8f13092-67fe-3cfc-a662-0f7c3d57acc8 | -14.2682 | -45.287 | 2026-08-05 13:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 244.6 |
-| 1b34a22f-948f-3d73-9000-6519ca473337 | -12.5938 | -46.9753 | 2026-08-05 13:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 190.2 |
-| a2ad8132-e068-3e8a-bc90-cb6ed32120d1 | -11.3107 | -44.8105 | 2026-08-05 13:40:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 146.2 |
-| 7a8fcadf-c3f8-3313-a1f8-d3565edc1d32 | -14.1972 | -54.4102 | 2026-08-05 13:40:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 70.0 |
-| 2f7e558f-3654-3813-9083-bc29b1d83eb5 | -7.2296 | -45.7575 | 2026-08-05 13:40:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 79.6 |
-| 87bcb8e3-38b1-3986-997d-b09ffbe2ac9b | -12.5754 | -46.9329 | 2026-08-05 13:40:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 73.0 |
-| 0172223c-55fc-3eef-b8df-bf341205f4a0 | -14.3865 | -53.3877 | 2026-08-05 13:40:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 75.0 |
-| 460dd531-8621-3530-b898-9c953db0587c | -7.2293 | -45.7801 | 2026-08-05 13:50:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 71.9 |
-| 6d16afee-062a-32c7-984a-d6ee8b48b6b8 | -14.2682 | -45.287 | 2026-08-05 13:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 230.3 |
-| 2e5a3543-2d49-31eb-84d8-f95fa3e4bb65 | -14.2487 | -45.2904 | 2026-08-05 13:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 145.5 |
-| deb64cb8-2f87-346e-b869-aa426699d152 | -11.3107 | -44.8105 | 2026-08-05 13:50:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 61.1 |
-| 1f552f97-9536-3d11-a941-d963e7fdd2a4 | -7.2187 | -43.3499 | 2026-08-05 13:50:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 78.3 |
-| 6fd8ca4f-b958-34a8-a709-5b52a84ee31e | -13.2604 | -54.2662 | 2026-08-05 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 87.1 |
-| 7dc862ef-0845-3d08-8043-a1785e6d1be3 | -10.9192 | -50.4283 | 2026-08-05 13:50:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 91.7 |
-| 4be11c95-9b05-33b0-bef4-6a537550c437 | -14.2687 | -45.2636 | 2026-08-05 13:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 69.4 |
-| 102558fd-0de2-3bb7-bb8d-a278eb7779da | -12.5951 | -46.9075 | 2026-08-05 13:50:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 65.0 |
-| 41010acd-e7ca-3215-982c-6e71a153ce42 | -14.1972 | -54.4102 | 2026-08-05 13:50:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| d30ef829-f5b4-3b00-9448-4593f4ed7e92 | -8.3494 | -46.394 | 2026-08-05 13:50:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 81.9 |
-| 1ded3842-a753-31b5-abd3-2fdb84082da5 | -6.9879 | -42.1201 | 2026-08-05 13:50:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 98.1 |
-| aced1ce4-7890-3af7-afcf-b126d4f51748 | -13.2604 | -54.2662 | 2026-08-05 14:00:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 94.1 |
-| d5c02f1e-c908-359c-9c3d-7723f717f656 | -12.5947 | -46.9301 | 2026-08-05 14:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 120.2 |
-| fdcfe86e-fe17-32fd-962f-baf9736f9827 | -12.4598 | -50.3794 | 2026-08-05 14:00:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 95.6 |
-| bbe99918-002a-3d3a-9fb6-41a717239d1a | -12.5938 | -46.9753 | 2026-08-05 14:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 164.3 |
-| d14cf77d-535a-36d4-a013-d37a8bc354bb | -12.5942 | -46.9527 | 2026-08-05 14:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 200.8 |
-| 1c9aa0e6-0256-3cac-a617-d9d9b2c001f0 | -14.3865 | -53.3877 | 2026-08-05 14:00:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 83.8 |
-| 00eaca6a-23d1-370c-a964-b43b93e4f33b | -14.2677 | -45.3103 | 2026-08-05 14:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 73.1 |
-| f089ce5f-3f0c-36f2-8ef8-76c6c8e3daea | -6.8904 | -42.4152 | 2026-08-05 14:00:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 84.7 |
-| dde94870-4bd4-363d-aae0-ee6cbd88961c | -12.575 | -46.9555 | 2026-08-05 14:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 129.3 |
-| 30bcae47-f978-3b69-a971-435f4b52edc7 | -6.5514 | -55.1569 | 2026-08-05 14:00:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 65.4 |
-| 96611432-74b8-3ff2-b76f-8bce8538f6b1 | -14.2487 | -45.2904 | 2026-08-05 14:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 86.3 |
-| c961c1a3-a813-38e0-a2b0-2e9f641f03b4 | -7.2293 | -45.7801 | 2026-08-05 14:00:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 91.4 |
-| d293120a-b36d-37e4-9f8e-837b86121867 | -14.2687 | -45.2636 | 2026-08-05 14:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 115.9 |
-| aa591ae8-5b01-3dc1-97ac-54b5416a12eb | -10.9192 | -50.4283 | 2026-08-05 14:00:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 98.1 |
-| b30d83fb-4449-3f01-b3ae-f6ee5e8d18cf | -8.3494 | -46.394 | 2026-08-05 14:00:00 | GOES-19 | BALSAS | MARANHÃO | Brasil | 2101400 | 21 | 33 | nan | nan | nan | Cerrado | 66.7 |
-| 5e2d6769-17a5-376f-8e71-52f0a4dd6e7e | -14.2682 | -45.287 | 2026-08-05 14:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 262.5 |
-| 9ade790e-0e59-3617-9e8d-18be4f225b7c | -7.2187 | -43.3499 | 2026-08-05 14:00:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 85.1 |
-| 54d246dd-5ea6-35df-af04-a10277cff0a8 | -12.5754 | -46.9329 | 2026-08-05 14:00:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 94.8 |
-| d9bd7b45-16f4-39e0-b590-6d9f6efccbca | -6.9879 | -42.1201 | 2026-08-05 14:10:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 113.0 |
-| 24937c36-3f3e-3bde-9eaf-877f7eb55d4f | -12.5951 | -46.9075 | 2026-08-05 14:10:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 70.3 |
-| 08a70bb3-1963-32e4-9bbf-b3528d5753f6 | -14.4058 | -53.3853 | 2026-08-05 14:10:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 80.3 |
-| f8a2a430-d2a3-3299-ab45-b2be2e1343b4 | -7.2187 | -43.3499 | 2026-08-05 14:10:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 83.3 |
-| 13d85436-13f9-3927-ae3f-a9110e79cdbf | -14.3865 | -53.3877 | 2026-08-05 14:10:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 103.5 |
-| f007d887-b5af-3d05-b583-28ab9a5e416e | -6.5514 | -55.1569 | 2026-08-05 14:10:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 73.9 |
-| fedb9681-d94d-373b-9f7c-7c5d24cc7602 | -7.2296 | -45.7575 | 2026-08-05 14:10:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 64.8 |
-| dd7648ae-81c6-35af-8dc0-88f0e54c3c32 | -14.3579 | -47.5144 | 2026-08-05 14:10:00 | GOES-19 | ALTO PARAÍSO DE GOIÁS | GOIÁS | Brasil | 5200605 | 52 | 33 | nan | nan | nan | Cerrado | 57.3 |
-| 4b4b8595-8c08-33b6-84e8-41f2713fb536 | -10.6184 | -46.3646 | 2026-08-05 14:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 87.6 |
-| 87cc7f60-75a1-3061-b388-cb1a4e639229 | -14.1972 | -54.4102 | 2026-08-05 14:10:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 68.5 |
-| 6a967789-6751-3349-bf4d-fd1fe754fed5 | -12.4789 | -50.377 | 2026-08-05 14:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 80.4 |
-| b0ccc5ad-140b-39ff-8e04-076dfe548939 | -7.2293 | -45.7801 | 2026-08-05 14:10:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 79.8 |
-| 6769cb74-34b3-33ea-a48a-71025ffce0fa | -12.4386 | -50.5109 | 2026-08-05 14:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 89.7 |
-| 8c02ccb8-56e9-3033-ad53-733baa067e48 | -12.4598 | -50.3794 | 2026-08-05 14:10:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 82.9 |
-| 281fab4b-e610-31d0-83a5-f931b094bbd4 | -14.2687 | -45.2636 | 2026-08-05 14:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 78.3 |
-| a9ff9f8e-7899-30f0-9afe-bc7731734eb1 | -14.2682 | -45.287 | 2026-08-05 14:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 177.2 |
-| 1133faf7-f6c8-3a2d-9880-eb47a43af934 | -10.6181 | -46.3872 | 2026-08-05 14:10:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 76.7 |
-| 52813b2e-55a1-3cf3-a793-0b80bce49f01 | -10.9192 | -50.4283 | 2026-08-05 14:10:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 268.5 |
-| e5dd9cfb-9707-3a4e-8856-250588b63602 | -14.2487 | -45.2904 | 2026-08-05 14:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 136.7 |
-| 39c6fe19-b888-3ebc-b467-1153e9d0c990 | -6.9879 | -42.1201 | 2026-08-05 14:20:00 | GOES-19 | OEIRAS | PIAUÍ | Brasil | 2207009 | 22 | 33 | nan | nan | nan | Caatinga | 98.4 |
-| 681e019a-5a7c-345a-8018-4095ea75e651 | -14.2487 | -45.2904 | 2026-08-05 14:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 73.3 |
-| a6dcc2e8-cedf-3d7e-9f68-8fab860d5415 | -14.2682 | -45.287 | 2026-08-05 14:20:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 217.7 |
-| b30ed246-388d-3599-a6dc-458415dee9df | -11.292 | -44.7901 | 2026-08-05 14:20:00 | GOES-19 | SANTA RITA DE CÁSSIA | BAHIA | Brasil | 2928406 | 29 | 33 | nan | nan | nan | Cerrado | 78.7 |
-| 113ce91a-4727-3679-9ecb-a2721dd2367c | -14.3672 | -53.3901 | 2026-08-05 14:20:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 77.8 |
-| 5c858444-1d0b-37d8-99d5-55f9d0859953 | -12.5947 | -46.9301 | 2026-08-05 14:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 185.6 |
-| 18b0b079-c84c-35f4-8290-167e03898158 | -7.2296 | -45.7575 | 2026-08-05 14:20:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 74.6 |
-| ee981c57-acdb-373e-aff0-ec05ea8f2f1d | -12.4407 | -50.3817 | 2026-08-05 14:20:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 83.0 |
-| f00ccc31-fab6-3dfa-bd90-2ed2ec5d945a | -12.4383 | -50.5324 | 2026-08-05 14:20:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 85.7 |
-| e65eaebe-e927-3c14-8261-9cd4d29946fa | -7.2293 | -45.7801 | 2026-08-05 14:20:00 | GOES-19 | SÃO RAIMUNDO DAS MANGABEIRAS | MARANHÃO | Brasil | 2111607 | 21 | 33 | nan | nan | nan | Cerrado | 95.7 |
-| 8ef1ce86-c071-39eb-8bd7-8a54d0c4fce2 | -14.3865 | -53.3877 | 2026-08-05 14:20:00 | GOES-19 | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 75.1 |
-| 44250d49-8ea7-3731-bc01-89e2f29e982e | -6.5514 | -55.1569 | 2026-08-05 14:20:00 | GOES-19 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 82.7 |
-| 07bd9583-1664-37da-ad13-9ee613f122f8 | -7.2187 | -43.3499 | 2026-08-05 14:20:00 | GOES-19 | JERUMENHA | PIAUÍ | Brasil | 2205300 | 22 | 33 | nan | nan | nan | Caatinga | 101.4 |
-| da6f4d20-2554-3a47-9e71-aa6201b6e745 | -12.4403 | -50.4033 | 2026-08-05 14:20:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 85.0 |
-| 540a7d67-c3c6-38e1-a473-61e5da1da8ba | -12.4386 | -50.5109 | 2026-08-05 14:20:00 | GOES-19 | FORMOSO DO ARAGUAIA | TOCANTINS | Brasil | 1708205 | 17 | 33 | nan | nan | nan | Cerrado | 104.6 |
-| f989b78c-6ddb-3479-a928-76b72baa7942 | -10.9192 | -50.4283 | 2026-08-05 14:20:00 | GOES-19 | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 174.9 |
-| c144291d-42b8-3cce-b3c2-275047bc9a03 | -12.5951 | -46.9075 | 2026-08-05 14:20:00 | GOES-19 | ARRAIAS | TOCANTINS | Brasil | 1702406 | 17 | 33 | nan | nan | nan | Cerrado | 73.9 |
+| 3f99e88b-7bee-3425-92ea-405fde76de74 | -13.5502 | -46.2844 | 2026-08-11 07:10:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 87.6 |
+| bfbf6558-bf4d-3935-83a4-47f3d87e4242 | -13.5507 | -46.2615 | 2026-08-11 07:10:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 61.9 |
+| 3f1cd08b-8ad9-3e6a-bcc5-df88fc5fddf6 | -13.5701 | -46.2584 | 2026-08-11 07:10:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 110.6 |
+| 5e6dd8f5-6531-3596-8c4e-ef60308fbf9a | -13.5696 | -46.2813 | 2026-08-11 07:10:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 184.9 |
+| d91c11cb-b973-3635-b220-bc490fa1d635 | -6.24552 | -55.61897 | 2026-08-11 07:14:00 | AQUA_M-M | ITAITUBA | PARÁ | Brasil | 1503606 | 15 | 33 | nan | nan | nan | Amazônia | 9.0 |
+| 24148d97-e274-33c8-973c-af4b50ab80af | -2.95902 | -49.25839 | 2026-08-11 07:14:00 | AQUA_M-M | MOJU | PARÁ | Brasil | 1504703 | 15 | 33 | nan | nan | nan | Amazônia | 35.1 |
+| 8f79849b-b765-3110-ad6f-16cbc91432bb | -13.55 | -46.28 | 2026-08-11 07:15:00 | MSG-03 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 2e2075c8-0bcd-3c7c-b464-6007fb544b50 | -13.58 | -46.29 | 2026-08-11 07:15:00 | MSG-03 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | nan |
+| 329e483f-f493-3c93-bcef-4ab8ae924bd5 | -8.95648 | -60.53235 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 23.6 |
+| d1ce25d3-9e86-35c4-adea-64cc4741e122 | -8.96147 | -60.54004 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| c0df971a-5042-370e-8ae0-bd4d0f6e5009 | -8.95445 | -60.54517 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 47.2 |
+| 9377adf8-a7e7-3d89-8240-eb5e16fba282 | -8.95105 | -60.53838 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 37.6 |
+| 0e13009f-8e3b-3b15-9660-f34b73958cd9 | -8.95244 | -60.5579 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 32.7 |
+| d040951d-f35d-3e0d-9e1b-c20de3f7f245 | -14.11478 | -54.0009 | 2026-08-11 07:16:00 | AQUA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 7.2 |
+| 47b1c9b8-802f-3af3-bf30-932aad3c8f61 | -9.4701 | -60.52409 | 2026-08-11 07:16:00 | AQUA_M-M | ARIPUANÃ | MATO GROSSO | Brasil | 5101407 | 51 | 33 | nan | nan | nan | Amazônia | 10.3 |
+| 962044f5-04f6-3793-9dff-dcd0be9e80fb | -8.94607 | -60.53067 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 25.2 |
+| 64259ca2-e6dd-3531-8627-94e90f2cb512 | -8.94894 | -60.55112 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 36.5 |
+| 0b61ae22-8039-36f6-813e-b771a0fe0156 | -8.95937 | -60.55276 | 2026-08-11 07:16:00 | AQUA_M-M | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 10.6 |
+| 9e5d7e8e-ca40-36e6-8916-4829ee1202a6 | -11.6414 | -51.6453 | 2026-08-11 07:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 88.8 |
+| 3ed1091b-560d-3208-b43e-93fd678598a3 | -13.5502 | -46.2844 | 2026-08-11 07:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 113.6 |
+| aba5dd27-9739-3287-b031-ba6d5cbc4324 | -13.5701 | -46.2584 | 2026-08-11 07:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 76.7 |
+| 73a38de7-2975-3650-9ea9-9ed37155b403 | -11.6604 | -51.6432 | 2026-08-11 07:20:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 142.2 |
+| 444159c0-e719-3cee-8e18-570873ce9243 | -13.5696 | -46.2813 | 2026-08-11 07:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 148.6 |
+| b31d6787-c353-3c98-8e41-0df8a8bf2cf6 | -9.3909 | -47.4656 | 2026-08-11 07:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 83.7 |
+| 2b293560-17de-3d06-a8a9-bf611200f2fe | -13.5696 | -46.2813 | 2026-08-11 07:30:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 75.8 |
+| dda9038c-7765-3b1f-ad01-f70a8cfebed9 | -8.9602 | -60.4973 | 2026-08-11 07:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 52.9 |
+| 3c80c136-ead7-3c67-a3cc-aac2153abbb6 | -8.9414 | -60.5367 | 2026-08-11 07:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 44.8 |
+| 72c19484-7967-32b5-b450-3cad0ff7683f | -8.9416 | -60.4982 | 2026-08-11 07:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 51.6 |
+| 2d553a16-3156-32bc-a758-86af376de5f9 | -9.3909 | -47.4656 | 2026-08-11 07:40:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 87.6 |
+| f8f492c7-f59a-3513-8442-a8749607d0bd | -8.9415 | -60.5174 | 2026-08-11 07:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 47.6 |
+| fb710b64-eaac-3e38-b76e-57bd53e07b9c | -8.9601 | -60.5165 | 2026-08-11 07:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 45.2 |
+| 0bc32958-eba9-388c-b1de-783bb43ad61f | -8.9415 | -60.5174 | 2026-08-11 07:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 49.4 |
+| f5ac6aac-4d74-3fb8-b16d-1df875889531 | -8.9416 | -60.4982 | 2026-08-11 07:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 46.4 |
+| 0e467ed2-0f55-394e-bb23-859cbd668eab | -8.9414 | -60.5367 | 2026-08-11 07:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 62.8 |
+| 930a5b2a-548a-3420-a0f1-b6b23c7bd9e5 | -9.3909 | -47.4656 | 2026-08-11 07:50:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 88.7 |
+| 1c3529fd-13f3-3b43-8c7f-e29c9629c9fc | -8.96 | -60.5358 | 2026-08-11 07:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 134.3 |
+| c25dd6df-ed86-328b-b25e-673349012b24 | -8.9598 | -60.555 | 2026-08-11 07:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 86.8 |
+| 81a38135-5aca-305d-9b73-89fd8e6d9fda | -8.9601 | -60.5165 | 2026-08-11 07:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 56.4 |
+| ab9afaf8-85fb-3825-8fd8-3334648c718f | -10.4234 | -46.7033 | 2026-08-11 08:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 91.6 |
+| a51dc49d-25b7-3fda-80c1-f48a0f1c9fef | -10.4237 | -46.6809 | 2026-08-11 08:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 75.9 |
+| 7e9c7c00-f667-39c5-b1cf-09c27ba308db | -8.9414 | -60.5367 | 2026-08-11 08:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 51.0 |
+| 654c1ca2-7e94-3656-b852-100b006c3eaf | -8.9601 | -60.5165 | 2026-08-11 08:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 42.8 |
+| 3ff9daf4-37c4-3728-93f6-0e12d81b4a6a | -8.9598 | -60.555 | 2026-08-11 08:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 41.6 |
+| 8ebc58da-3cc3-39c0-8790-a1307756b48a | -8.96 | -60.5358 | 2026-08-11 08:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 81.7 |
+| bfa4fc3b-e775-3efb-801e-0d57e7e0054e | -8.9416 | -60.4982 | 2026-08-11 08:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 50.1 |
+| e5343358-3a40-3f38-8aa6-87fc94f41241 | -13.5502 | -46.2844 | 2026-08-11 08:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 114.0 |
+| 22790d36-c43e-360d-aba4-4f6fbc843560 | -9.3909 | -47.4656 | 2026-08-11 08:20:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 76.8 |
+| e78914b9-80ad-37c0-9656-cc5bd555ad82 | -8.96 | -60.5358 | 2026-08-11 08:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 44.8 |
+| ac716858-a562-3342-b579-7bff7b796839 | -13.5507 | -46.2615 | 2026-08-11 08:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 76.6 |
+| 131e6a77-e860-31db-b7c5-f8680055a4cb | -13.5696 | -46.2813 | 2026-08-11 08:30:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 74.9 |
+| de0047ed-1545-3dad-9d56-c18b1ec56185 | -8.9415 | -60.5174 | 2026-08-11 08:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 61.4 |
+| a34ac4df-8cfb-30d0-bc4b-0b02ca363c31 | -13.5502 | -46.2844 | 2026-08-11 08:30:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 102.6 |
+| f943fbb6-a289-3832-985a-585580ccd343 | -8.9602 | -60.4973 | 2026-08-11 08:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 58.1 |
+| 6614ce44-d551-3712-b828-8f0941db99d4 | -8.9601 | -60.5165 | 2026-08-11 08:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 56.6 |
+| f59bb7ed-35a0-3fad-8473-ab87c64f9ce3 | -8.9598 | -60.555 | 2026-08-11 08:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 82.5 |
+| e6129954-0f48-372f-b20a-8029f66f639c | -8.96 | -60.5358 | 2026-08-11 08:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 92.2 |
+| 497f3ee4-7f7e-37cc-8a17-7de25a1e05e8 | -9.3909 | -47.4656 | 2026-08-11 08:30:00 | GOES-19 | RIO SONO | TOCANTINS | Brasil | 1718758 | 17 | 33 | nan | nan | nan | Cerrado | 67.3 |
+| 4182ad24-594e-3ccf-9037-3062fb7c52ab | -8.9416 | -60.4982 | 2026-08-11 08:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 58.9 |
+| 2c5cf271-f785-300b-933e-afc94f462769 | -13.5502 | -46.2844 | 2026-08-11 08:40:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 125.9 |
+| 58d45977-3238-356d-9ead-bc48db9a4667 | -8.96 | -60.5358 | 2026-08-11 08:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 90.6 |
+| 67e52692-693d-3924-8fa1-ef4d48bbaee5 | -8.9598 | -60.555 | 2026-08-11 08:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 76.1 |
+| 38f9174e-caa4-3a55-bdbc-ed688057f2d9 | -13.5696 | -46.2813 | 2026-08-11 08:40:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 91.5 |
+| 0bcd6607-22f1-37c1-93aa-67d9ff079872 | -8.9415 | -60.5174 | 2026-08-11 08:40:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 61.3 |
+| 8a3d91de-23ac-373d-be05-eb1cef4a997a | -8.96 | -60.5358 | 2026-08-11 08:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 71.0 |
+| 5804bce5-c176-398c-aa73-def93a6fed9d | -8.9598 | -60.555 | 2026-08-11 08:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 62.8 |
+| 99601130-8a90-3a44-9958-fdaa2a37b5fa | -8.9416 | -60.4982 | 2026-08-11 08:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 52.4 |
+| 7be8ad6b-ea4a-35b9-8c92-3042c29fc009 | -8.9414 | -60.5367 | 2026-08-11 08:50:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 62.8 |
+| 522a0a0a-7ac0-3294-aa6d-777daec87c99 | -8.9598 | -60.555 | 2026-08-11 09:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 67.9 |
+| a7aca3e1-cc5b-3aac-8f7f-210fa6c75ede | -8.9416 | -60.4982 | 2026-08-11 09:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 58.4 |
+| 12465acd-be1b-3cfa-874b-e80dd4ad025d | -8.96 | -60.5358 | 2026-08-11 09:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 72.2 |
+| b55319b1-1636-36d8-a2b3-28ea13786a16 | -8.9415 | -60.5174 | 2026-08-11 09:00:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 54.2 |
+| 84742f16-23c8-3186-862a-7976c97e68ed | -8.9415 | -60.5174 | 2026-08-11 09:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 56.6 |
+| 5980bfff-eb20-3273-9ccd-788dfd23f3b6 | -8.96 | -60.5358 | 2026-08-11 09:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 69.7 |
+| 7a59a251-cda4-3903-8af8-7e0d4a7caa61 | -8.9601 | -60.5165 | 2026-08-11 09:10:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 58.4 |
+| 04937985-5c1c-3616-92d5-ea28049fee9a | -8.9598 | -60.555 | 2026-08-11 09:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 70.4 |
+| a10ef6b0-e24d-3958-8387-b1a9f0644172 | -8.9601 | -60.5165 | 2026-08-11 09:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 58.4 |
+| eb60e407-8a24-3050-95de-2477dd6ee0d3 | -8.96 | -60.5358 | 2026-08-11 09:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 80.3 |
+| 28804807-114d-3c3f-bf03-f978f452453b | -8.9415 | -60.5174 | 2026-08-11 09:20:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 60.0 |
+| 08aaddca-0ab6-3ec9-8dac-7921d2b917ba | -8.96 | -60.5358 | 2026-08-11 09:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 71.3 |
+| 7d733a56-5fa9-37fb-8348-e8fa8255e47a | -8.9602 | -60.4973 | 2026-08-11 09:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 59.4 |
+| bf227759-a3cf-3793-a9d6-a7ca6ba63434 | -8.9414 | -60.5367 | 2026-08-11 09:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 54.7 |
+| 3b5f56a3-b958-3169-be79-7808ad543af8 | -8.9598 | -60.555 | 2026-08-11 09:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 61.5 |
+| 6b4b0d31-c9b5-3cf1-8abb-c9a18e0ccf87 | -13.5502 | -46.2844 | 2026-08-11 10:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 175.4 |
+| 93c78aba-e7e7-3233-8c19-2c929220811f | -13.5502 | -46.2844 | 2026-08-11 10:30:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 160.7 |
+| 1fc99e66-da0b-354c-a33f-df230adfb7ce | -13.5502 | -46.2844 | 2026-08-11 10:40:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 127.4 |
+| 9ec0065b-5f8e-3f41-b454-e9d1ec4fe0b4 | -13.5502 | -46.2844 | 2026-08-11 10:50:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 109.4 |
+| ca5acd5f-4a7d-3026-ac80-3597fb455297 | -10.4237 | -46.6809 | 2026-08-11 11:00:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 120.9 |
+| 81903f99-90b4-37e8-ae89-fcaae6b374e7 | -13.5696 | -46.2813 | 2026-08-11 11:10:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 112.6 |
+| 75e713a4-aa14-3e8b-b3c4-b1873a3326e0 | -13.5498 | -46.3074 | 2026-08-11 11:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 129.0 |
+| 321a494b-9b41-37e0-a533-84a2aae74659 | -10.4237 | -46.6809 | 2026-08-11 11:20:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 95.1 |
+| edbc6d52-7dc2-3a53-96a6-6cf819177f80 | -13.5696 | -46.2813 | 2026-08-11 11:20:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 84.5 |
+| 8120ad6d-50da-3955-8d92-1eed1436ab4b | -13.5498 | -46.3074 | 2026-08-11 11:30:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 131.5 |
+| 19264afa-b9cf-3eec-b966-5100d2de718e | -14.2877 | -45.2835 | 2026-08-11 11:40:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 91.9 |
+| 859e33e9-3e0f-3854-9549-5e37e6392ebc | -10.4237 | -46.6809 | 2026-08-11 11:40:00 | GOES-19 | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 80.6 |
+| fe029f82-4bdc-3c15-a178-b76ec74becfa | -13.5696 | -46.2813 | 2026-08-11 11:40:00 | GOES-19 | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 87.0 |
+| 0dc909cf-7fc3-3b67-b970-ed225e0025ec | -14.2877 | -45.2835 | 2026-08-11 11:50:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 96.8 |
+| 6c80bc12-f5d3-3c0e-b527-f797f7be6aaa | -14.2877 | -45.2835 | 2026-08-11 12:00:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 104.5 |
+| bf58b32e-7103-3820-97e3-3416245e0804 | -14.2877 | -45.2835 | 2026-08-11 12:10:00 | GOES-19 | COCOS | BAHIA | Brasil | 2908101 | 29 | 33 | nan | nan | nan | Cerrado | 78.9 |
+| 7002d134-1135-3824-9f22-80f725c7a4ea | -11.6601 | -51.6644 | 2026-08-11 12:10:00 | GOES-19 | SÃO FÉLIX DO ARAGUAIA | MATO GROSSO | Brasil | 5107859 | 51 | 33 | nan | nan | nan | Amazônia | 75.0 |
+| c81cbae5-b97a-3595-87eb-610e18347eba | -10.1084 | -46.2018 | 2026-08-11 12:10:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 92.8 |
 
 
 [Clique aqui para ver as próximas entradas](README32.md)
