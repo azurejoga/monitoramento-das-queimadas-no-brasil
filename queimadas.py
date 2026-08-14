@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from datetime import datetime
+import os
 
 # Caminho para os arquivos README e CSV
 CAMINHO_DADOS = "dados_diarios.csv"
@@ -92,10 +93,11 @@ def atualizar_readme(dados_diarios, numero_inicial, total_entradas):
     # Link para o próximo README, se aplicável
     proximo_numero = (numero_inicial // 100) + 2
     if (numero_inicial + 100) < total_entradas:
-        conteudo += f"[Clique aqui para ver as próximas entradas](README{proximo_numero}.md)\n"
+        conteudo += f"[Clique aqui para ver as próximas entradas](readmes/README{proximo_numero}.md)\n"
     
     # Salva o arquivo
-    nome_arquivo = f"README.md" if numero_inicial == 0 else f"README{numero_inicial // 100 + 1}.md"
+    nome_arquivo = f"readmes/README.md" if numero_inicial == 0 else f"readmes/README{numero_inicial // 100 + 1}.md"
+    os.makedirs("readmes", exist_ok=True)
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         f.write(conteudo)
     print(f"{nome_arquivo} atualizado com sucesso.")
