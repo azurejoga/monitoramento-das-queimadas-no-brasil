@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| dd64bd2c-7e0c-3be3-88b4-d8e4b65f002a | -8.9602 | -60.4973 | 2026-08-12 00:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 89.2 |
-| b5c57735-e29b-31dd-a4e6-34861a3f60e6 | -11.8285 | -51.8359 | 2026-08-12 00:30:00 | GOES-19 | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 88.7 |
-| c5e8aef5-95bc-332d-b03d-c114ac66ce32 | -8.9598 | -60.555 | 2026-08-12 00:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 102.0 |
-| eda408dc-5a13-3280-89f4-316d13850413 | -8.96 | -60.5358 | 2026-08-12 00:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 164.8 |
-| bb6773b3-4b96-3c72-ab2a-0cff8de0bbc7 | -11.4677 | -44.5791 | 2026-08-12 00:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 67.5 |
-| 3bce1d6b-1b4f-3e1b-8f18-94a0d071bba3 | -11.8282 | -51.857 | 2026-08-12 00:30:00 | GOES-19 | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 92.0 |
-| aea46e21-3fac-30ca-a8f1-d467232356ba | -8.9601 | -60.5165 | 2026-08-12 00:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 131.0 |
-| 00e190e4-9a88-3879-b4dd-af202b1b912f | -13.8989 | -53.8217 | 2026-08-12 00:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 147.5 |
-| 7c78f3c4-259c-333a-bacb-875ea7e5abec | -9.1408 | -46.402 | 2026-08-12 00:30:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 121.9 |
-| 90e2a944-a82c-3897-bbbe-9827d4e4a5cf | -11.9531 | -46.3672 | 2026-08-12 00:30:00 | GOES-19 | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 95.6 |
-| 6a85bbfe-62fd-3fd3-bc41-039ff651e1e8 | -8.9415 | -60.5174 | 2026-08-12 00:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 83.1 |
-| 8755f350-245d-3315-80b3-c6dece5d858e | -11.4686 | -44.5325 | 2026-08-12 00:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 59.4 |
-| abfb1aec-ffa3-3a8a-a376-1c5cd5123128 | -11.4681 | -44.5558 | 2026-08-12 00:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 207.3 |
-| 13581812-670d-3f85-aa84-d40c112499f1 | -13.8986 | -53.8426 | 2026-08-12 00:30:00 | GOES-19 | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 126.5 |
-| d604b9f7-9100-341b-8fe5-4d7644be7564 | -11.4873 | -44.553 | 2026-08-12 00:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 90.7 |
-| d2d83bfe-e41b-3e06-b932-24b89c167fb7 | -8.9414 | -60.5367 | 2026-08-12 00:30:00 | GOES-19 | COLNIZA | MATO GROSSO | Brasil | 5103254 | 51 | 33 | nan | nan | nan | Amazônia | 83.0 |
-| 3c9dbbbf-8aeb-3e7d-9b89-278e7e266116 | -11.449 | -44.5587 | 2026-08-12 00:30:00 | GOES-19 | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 61.2 |
-| 2700bc65-3429-347e-8d93-0e9c8ce49ff3 | -9.1411 | -46.3796 | 2026-08-12 00:30:00 | GOES-19 | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 139.3 |
-| 6e402b7a-0cb1-3c34-9ef4-72b85b5f2ae5 | -12.84864 | -52.04227 | 2026-08-12 00:30:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 21.2 |
-| 39bb7aeb-5823-3848-809e-b237ad7ba508 | -14.35229 | -54.88005 | 2026-08-12 00:30:00 | TERRA_M-M | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 64.2 |
-| 312b6ba2-2918-3f81-92ad-cd9245e7f7b2 | -11.7877 | -51.86895 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 13.0 |
-| 263c4f9a-b18e-335c-9446-698a69c56dd4 | -12.46876 | -51.28714 | 2026-08-12 00:30:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Cerrado | 9.0 |
-| e60d3b47-989d-31e3-bcf0-25f46b024abf | -13.88202 | -53.82391 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 19.0 |
-| 9fe00420-2659-36b3-9375-805a47739cbe | -12.40991 | -51.17987 | 2026-08-12 00:30:00 | TERRA_M-M | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Cerrado | 10.7 |
-| 30591e5c-aa29-3b87-85c8-189e06cbd713 | -13.89889 | -53.80557 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 15.1 |
-| 4fbd4120-9d40-3cfd-8f0d-c0cafa3747d5 | -11.8277 | -51.86264 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 49.8 |
-| 0dc8ddf4-eca3-3cc5-8c72-06c827dda4bc | -10.105 | -46.232 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 64.7 |
-| d5d9baa1-f6c1-36ad-ba1f-95ccef0e4f46 | -10.09095 | -46.2067 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 65.3 |
-| ac58afeb-d952-37cb-a0d7-1adadc0a6482 | -11.60372 | -54.66867 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 8.4 |
-| fd31bea4-f476-3ffd-97bd-0e5ab463922d | -14.35715 | -53.20892 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 4dbd1053-540e-3739-beb3-64f8946ba3ab | -11.98353 | -46.36583 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 31.1 |
-| c300d09a-8aab-33e6-9de9-fbebcc02898b | -11.81419 | -51.84066 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 5.9 |
-| 122e083e-e8a7-32db-8e5a-9f11ac904364 | -10.83981 | -50.35617 | 2026-08-12 00:30:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 18.9 |
-| a15c9d1f-ec75-3565-bcc2-bb9b8e47b22f | -11.46216 | -44.5926 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 56.9 |
-| 6dd09b9e-8da2-335c-b7e5-4cd082cf552b | -13.82856 | -53.83192 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 8fd6df64-ed7e-3342-8de4-87e4a595d129 | -13.8655 | -53.83575 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 14.7 |
-| 6b05d81a-05a3-369b-aef1-9a4233be850e | -10.09654 | -46.23996 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 48.8 |
-| aaabdaf8-ac37-36cb-aaa7-ea0ba9d74cd4 | -11.60247 | -54.65965 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 9.9 |
-| 4486f233-97d7-3758-bff8-4f6203f21b65 | -13.89392 | -53.83456 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 54.3 |
-| 0e038e9c-c53d-34d3-b8e6-00f396a9c20c | -11.47197 | -44.55401 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 321.2 |
-| 4682de5d-c203-33db-a57f-fb495077947c | -13.84115 | -53.79234 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 50ce4d7d-443d-30c0-b6f0-76fe1639e63a | -11.80516 | -51.57094 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Cerrado | 8.6 |
-| 51b72266-b732-3d5a-b741-949837efeab4 | -14.42255 | -53.02556 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 6ba6197d-5240-3554-8542-d12b0ab37379 | -12.86002 | -52.05176 | 2026-08-12 00:30:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 8.6 |
-| fa16d7ee-7fb1-3abf-9a7f-c9e1d6d9b724 | -10.09902 | -46.19774 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO PARNAÍBA | MARANHÃO | Brasil | 2100501 | 21 | 33 | nan | nan | nan | Cerrado | 46.9 |
-| 727ffb28-29f6-395d-a9d6-6e97e51c7aa7 | -14.35855 | -53.21848 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 44.4 |
-| ca4434fb-c694-3f1b-a51c-b057d7c3056c | -11.82945 | -51.87441 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 51.2 |
-| be08f6c2-5709-38b3-93de-cd754682d6b9 | -13.90282 | -53.83319 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 166.1 |
-| baaabe46-bd95-35fb-a9a8-2639f5258476 | -14.73343 | -56.35646 | 2026-08-12 00:30:00 | TERRA_M-M | NOBRES | MATO GROSSO | Brasil | 5105903 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| 93fe24c4-f0ad-3d74-88a8-adf8de335ff4 | -10.64009 | -47.481 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 42.6 |
-| e3186d0a-521a-3474-980b-73fa6088ea4b | -13.83617 | -53.82145 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 10.2 |
-| 81a10fd7-6d8d-37f1-a262-13c5a3c0051d | -14.33876 | -54.05216 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 18.6 |
-| d1cfa79b-27a8-3048-9c6a-fceba367520e | -11.4941 | -54.60773 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 16.6 |
-| 38893eaa-de5f-3786-a74a-3ddcd9d3e371 | -13.89626 | -53.78714 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 4.1 |
-| 82fabf26-5514-3cc0-b530-ad7f0db005cd | -11.81242 | -51.8288 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 11.1 |
-| b9de447f-3860-3633-b274-4ff9aa85f412 | -13.90413 | -53.84241 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 15.3 |
-| 4685d2ad-2a58-3dca-bb93-d57f8889fbd2 | -13.89759 | -53.79642 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 16.0 |
-| 9950f328-e035-38f9-81c6-0358da7eb2a3 | -14.42114 | -53.01593 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 10.9 |
-| 00edfd4c-ccf6-3a56-af26-b745dc0a4702 | -12.32346 | -53.18192 | 2026-08-12 00:30:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| f8e60aea-8728-3607-afd4-8c0b49906f95 | -10.64439 | -47.50681 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO TOCANTINS | TOCANTINS | Brasil | 1717909 | 17 | 33 | nan | nan | nan | Cerrado | 25.0 |
-| 939a27f2-efc3-3994-b8d1-423a04c0cc0e | -11.45438 | -44.55027 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 118.2 |
-| 662a819c-0958-3277-a167-71df479e4b31 | -11.47942 | -44.59641 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 86.5 |
-| 8b79c0fd-e132-3047-a9af-375fdd08cc95 | -11.9525 | -46.3679 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 156.3 |
-| ab774004-05b3-3507-a435-3a8747e44bb8 | -14.55607 | -50.39318 | 2026-08-12 00:30:00 | TERRA_M-M | NOVA CRIXÁS | GOIÁS | Brasil | 5214838 | 52 | 33 | nan | nan | nan | Cerrado | 19.6 |
-| a1925f4c-dcaa-3cf8-b552-e5962149a18f | -12.8503 | -52.05335 | 2026-08-12 00:30:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 18.1 |
-| 54508d0b-9956-3f09-b314-6f7010f8c004 | -14.36619 | -53.2075 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 5.8 |
-| 9f9234ee-e916-3710-8592-539e44953688 | -14.55815 | -50.40663 | 2026-08-12 00:30:00 | TERRA_M-M | NOVA CRIXÁS | GOIÁS | Brasil | 5214838 | 52 | 33 | nan | nan | nan | Cerrado | 51.7 |
-| efbb2888-aba5-302e-b821-2a650d49ecd2 | -11.98815 | -46.39326 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 34.6 |
-| 66fdd769-dbd9-38b8-9cb9-ff19810b5802 | -14.43023 | -53.01449 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 5.4 |
-| 05c22455-2611-36eb-887f-4e4afdb59e61 | -11.9493 | -46.36168 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 183.4 |
-| 5e3fdc1b-094e-335f-8809-a5d38478ad4c | -14.32864 | -54.0444 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 6.6 |
-| 870629f1-e167-31f6-b407-762fb8956042 | -11.78593 | -51.85727 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 26.4 |
-| f55c2a93-f93b-3ad8-b7fe-988735bd71e6 | -12.85837 | -52.04064 | 2026-08-12 00:30:00 | TERRA_M-M | RIBEIRÃO CASCALHEIRA | MATO GROSSO | Brasil | 5107180 | 51 | 33 | nan | nan | nan | Amazônia | 15.5 |
-| 0750890c-ee9f-3b64-8855-d872f36489c3 | -11.45449 | -44.55739 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 112.9 |
-| dfae6dbd-8e70-3ca3-b8ca-368fdf564cc4 | -11.78413 | -51.84542 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 7.5 |
-| 13294986-d391-3a8f-a83b-cecb5abc52c0 | -11.60121 | -54.65062 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 7.3 |
-| e4131ddb-2529-3813-95b8-9ec17ebc4dfd | -13.88735 | -53.78848 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 13.8 |
-| f974e85b-3ab7-3373-a26e-b124d54e3457 | -13.83983 | -53.78304 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 16.5 |
-| 1271eb4e-cd84-37df-a290-49f2069c7d77 | -11.97285 | -46.39537 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 72.8 |
-| ffe1666e-654e-3db0-a460-6ce7888e0dca | -14.33748 | -54.04303 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 5.1 |
-| dd5493fc-7591-32be-bac1-326306b0b81d | -12.32491 | -53.19177 | 2026-08-12 00:30:00 | TERRA_M-M | GAÚCHA DO NORTE | MATO GROSSO | Brasil | 5103858 | 51 | 33 | nan | nan | nan | Amazônia | 8.2 |
-| d7b2181a-1e23-3ea6-a351-609ada4542a7 | -14.36133 | -53.23758 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 90.2 |
-| 61609c5e-5110-3d29-b626-f4d1393efc4b | -13.84247 | -53.80167 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 7.1 |
-| bf3f316e-a0c4-39b6-8fd4-07a9c760ee2f | -11.61364 | -54.6609 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 5.2 |
-| dab582ef-6df9-3d6f-b016-a438d628031b | -11.4796 | -44.58929 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 154.4 |
-| d9068e6e-2dda-3d33-9d98-ec32c34322db | -13.87312 | -53.82532 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 7.2 |
-| e15b0607-b4a6-3135-a8f3-b71806eeef00 | -11.94754 | -46.33886 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 103.1 |
-| bc8b4748-946f-3b59-8417-0c19ecd80a73 | -13.9002 | -53.81477 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 8.0 |
-| 788fd3be-f989-3ed3-b738-775ba9e60567 | -11.61238 | -54.65187 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 10.4 |
-| 29ca98b9-aaf4-3548-a4c4-5f796e594d49 | -11.82421 | -51.83912 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 100.1 |
-| 0914765f-32c3-353e-8b73-b0df060eb266 | -13.83747 | -53.83059 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 12.9 |
-| 611f5b50-6278-3225-b63d-b40b5b17a20d | -11.98518 | -46.38701 | 2026-08-12 00:30:00 | TERRA_M-M | PONTE ALTA DO BOM JESUS | TOCANTINS | Brasil | 1717800 | 17 | 33 | nan | nan | nan | Cerrado | 56.8 |
-| 04e81a7e-a6ad-380b-a55f-a94e9303faf5 | -13.90151 | -53.824 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 25.6 |
-| 88f397b0-2c2d-3c0a-9da5-c540681d85df | -14.35105 | -54.871 | 2026-08-12 00:30:00 | TERRA_M-M | ROSÁRIO OESTE | MATO GROSSO | Brasil | 5107701 | 51 | 33 | nan | nan | nan | Cerrado | 19.9 |
-| 06f464fc-8bd2-3f4e-8164-3329fe46ba77 | -11.82596 | -51.8509 | 2026-08-12 00:30:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 106.0 |
-| 7aa7db1a-cebb-3f9b-a01c-02a72fc91c26 | -11.49284 | -54.59869 | 2026-08-12 00:30:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 17.1 |
-| 65c266f0-9213-3e39-a97b-27c45599f427 | -11.47188 | -44.54695 | 2026-08-12 00:30:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 218.9 |
-| 1029c0b9-d29b-3812-8483-403cb4c4dfd5 | -14.36759 | -53.21711 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 48.7 |
-| f9f34c96-586f-3390-869e-41181919e24f | -13.89262 | -53.82544 | 2026-08-12 00:30:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 25.6 |
-| b7ba6327-b110-3ebe-97ba-802916f1677b | -14.35994 | -53.22806 | 2026-08-12 00:30:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 63.9 |
+| c9972c67-4309-3e5f-a432-59b0fdff4600 | -13.76062 | -53.42379 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| d27884b2-e10a-374a-aae4-e62c6268ba05 | -14.06693 | -53.61559 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 14.4 |
+| b7c84548-c431-3dc7-a123-9415cb2dbf57 | -14.43998 | -51.85939 | 2026-08-14 00:09:00 | TERRA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 23.5 |
+| 9faa6e16-53a9-37a6-8d1b-0900a17c4ed3 | -20.03542 | -48.01385 | 2026-08-14 00:09:00 | TERRA_M-M | ÁGUA COMPRIDA | MINAS GERAIS | Brasil | 3100708 | 31 | 33 | nan | nan | nan | Cerrado | 91.2 |
+| 84616e3b-5dbe-3128-b642-878574bfdc57 | -15.05579 | -52.69269 | 2026-08-14 00:09:00 | TERRA_M-M | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 7.1 |
+| c10cdf78-cbcc-3152-befc-35637624f552 | -14.08353 | -53.66584 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 62.7 |
+| 9b389d5b-9e49-35b7-ac23-6f46e178bfff | -11.46117 | -44.5568 | 2026-08-14 00:09:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 21.2 |
+| 63a82b43-d5b5-3998-8193-d00d4fb2a892 | -12.02236 | -47.82422 | 2026-08-14 00:09:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 21.2 |
+| 089acafc-9a37-3ecf-9303-eeb9aca3ced5 | -11.33136 | -46.23376 | 2026-08-14 00:09:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 48.4 |
+| 83b65bda-3aff-397c-ae51-d30cb64f3ccb | -11.88593 | -45.95847 | 2026-08-14 00:09:00 | TERRA_M-M | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 19.2 |
+| fd57014c-2799-3a8f-b4de-e100f3400e14 | -14.09245 | -53.65166 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 10.0 |
+| 6db0d8af-9e12-3762-8b52-30b2cb2626bc | -15.09444 | -48.65415 | 2026-08-14 00:09:00 | TERRA_M-M | VILA PROPÍCIO | GOIÁS | Brasil | 5222302 | 52 | 33 | nan | nan | nan | Cerrado | 5.4 |
+| 6bc99490-cd73-31ac-a6ba-74ca795623b4 | -14.94689 | -46.62082 | 2026-08-14 00:09:00 | TERRA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 14.9 |
+| e773176d-cbf9-3aec-a139-103cd656ad04 | -15.13649 | -41.55831 | 2026-08-14 00:09:00 | TERRA_M-M | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 118.5 |
+| f0c59672-d40f-3b81-b1a1-ec43ff804a04 | -20.89968 | -50.5045 | 2026-08-14 00:09:00 | TERRA_M-M | SANTO ANTÔNIO DO ARACANGUÁ | SÃO PAULO | Brasil | 3548054 | 35 | 33 | nan | nan | nan | Mata Atlântica | 5.3 |
+| d602bfdf-1ddb-352d-9a26-490ebe5ba5f5 | -13.25328 | -54.20044 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 32.5 |
+| 82ae66ba-5ce3-36cf-afc6-1f94b0f46fff | -13.65237 | -46.25938 | 2026-08-14 00:09:00 | TERRA_M-M | SÃO DOMINGOS | GOIÁS | Brasil | 5219803 | 52 | 33 | nan | nan | nan | Cerrado | 11.0 |
+| 15d36082-c38c-3f64-a7b2-6510ad7f493b | -12.03177 | -47.82279 | 2026-08-14 00:09:00 | TERRA_M-M | NATIVIDADE | TOCANTINS | Brasil | 1714203 | 17 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| c342064d-1009-34f9-9367-82456270cae1 | -15.1006 | -50.44394 | 2026-08-14 00:09:00 | TERRA_M-M | ARAGUAPAZ | GOIÁS | Brasil | 5202155 | 52 | 33 | nan | nan | nan | Cerrado | 33.2 |
+| 1e23da17-de91-364c-b518-8778fcbe1ced | -14.44935 | -51.85804 | 2026-08-14 00:09:00 | TERRA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 10.2 |
+| a11377aa-be2c-30b1-a18c-875ace987137 | -11.85976 | -51.95837 | 2026-08-14 00:09:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 10.9 |
+| be409299-2bba-3df8-99cc-3c040349a0bd | -15.16681 | -50.05165 | 2026-08-14 00:09:00 | TERRA_M-M | RUBIATABA | GOIÁS | Brasil | 5218904 | 52 | 33 | nan | nan | nan | Cerrado | 19.0 |
+| b86186d8-dbae-3f47-bf72-cb1ba465307e | -14.03521 | -53.58625 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 13.8 |
+| 28ffd93b-5041-364d-a778-7070dfe4dd42 | -14.04719 | -53.59766 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 14.8 |
+| e6a54c9d-e84e-3c8c-878f-803e6c63d813 | -13.82449 | -53.79728 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 15.8 |
+| b772ceb5-892d-3bbb-8266-0c9ce02bb154 | -14.71305 | -52.89372 | 2026-08-14 00:09:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 17.8 |
+| b440b177-5514-368d-ab85-44ca91251681 | -11.80446 | -51.88304 | 2026-08-14 00:09:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 12.5 |
+| d591ce64-e2b5-3ba1-8007-5fc5cf9afb74 | -18.54786 | -48.17728 | 2026-08-14 00:09:00 | TERRA_M-M | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 5.6 |
+| 67b55d89-a094-3c72-8f18-5cb340622598 | -13.27816 | -54.22517 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 47.6 |
+| d5cc4d88-89e2-388e-8699-8258b3ba1f7b | -14.71932 | -47.15001 | 2026-08-14 00:09:00 | TERRA_M-M | VILA BOA | GOIÁS | Brasil | 5222203 | 52 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 32524e38-cabf-394b-9ee5-caf14883540f | -14.72307 | -52.89256 | 2026-08-14 00:09:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 22.4 |
+| f9862651-e8f2-38bd-8a32-c6ba1324b9fa | -10.97885 | -50.54481 | 2026-08-14 00:09:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 11.6 |
+| 7c440da3-3012-3c8e-a5cb-4cdc8d35f2bc | -13.25874 | -50.37437 | 2026-08-14 00:09:00 | TERRA_M-M | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| 42632130-777e-3223-9d16-747717fc5062 | -10.84515 | -50.2426 | 2026-08-14 00:09:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 5.0 |
+| a7b8890d-9736-3b37-bc0a-96e9ad9daf2a | -11.47586 | -44.57213 | 2026-08-14 00:09:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 27.3 |
+| f9f75828-5490-3211-9329-2b5bdec63e9f | -17.59494 | -46.69685 | 2026-08-14 00:09:00 | TERRA_M-M | VAZANTE | MINAS GERAIS | Brasil | 3171006 | 31 | 33 | nan | nan | nan | Cerrado | 6.7 |
+| d2a1e26b-1dfa-31ec-970c-0393e50b62e7 | -14.44785 | -45.68702 | 2026-08-14 00:09:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 11.2 |
+| 14beef06-ef7a-31f5-a258-c99d8dd0b391 | -20.03672 | -48.02324 | 2026-08-14 00:09:00 | TERRA_M-M | ÁGUA COMPRIDA | MINAS GERAIS | Brasil | 3100708 | 31 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| 10ce38f9-4a60-3107-a3cb-a48eedc6e51c | -16.916 | -54.13346 | 2026-08-14 00:09:00 | TERRA_M-M | PEDRA PRETA | MATO GROSSO | Brasil | 5106372 | 51 | 33 | nan | nan | nan | Cerrado | 18.9 |
+| 24b0d7e8-eba1-3762-979f-7c264452daa3 | -14.45068 | -51.8684 | 2026-08-14 00:09:00 | TERRA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| d33d4c79-eb17-3a80-8f37-00cd6de42d69 | -18.54296 | -48.20663 | 2026-08-14 00:09:00 | TERRA_M-M | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 10.1 |
+| fec2f18a-0e32-37cd-bdae-997a55658f09 | -11.3225 | -45.21796 | 2026-08-14 00:09:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 45.6 |
+| f7641b2e-8d68-32d1-b221-03add445d418 | -14.44982 | -45.69995 | 2026-08-14 00:09:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 42.2 |
+| 068872a8-9fe1-3e4c-a4f6-bc62401bf74c | -13.23835 | -54.25847 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 93.2 |
+| a0a9599d-dd6a-3cb7-8974-b9537ed27ac4 | -11.50281 | -54.60252 | 2026-08-14 00:09:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 39.1 |
+| 1a869460-aaa0-398a-b602-769f0f16ffca | -19.95234 | -45.54943 | 2026-08-14 00:09:00 | TERRA_M-M | LAGOA DA PRATA | MINAS GERAIS | Brasil | 3137205 | 31 | 33 | nan | nan | nan | Cerrado | 8.0 |
+| ce3d9def-d7b8-3711-8cd7-bfb9e4d9d4fc | -14.72164 | -52.8808 | 2026-08-14 00:09:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 16.7 |
+| 27de82ce-622b-3d00-a013-6319773e9edb | -20.11517 | -50.48299 | 2026-08-14 00:09:00 | TERRA_M-M | TURMALINA | SÃO PAULO | Brasil | 3555307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 18.8 |
+| 8e85c8ca-1523-37bb-8471-e9ab55d31f83 | -14.9372 | -46.62238 | 2026-08-14 00:09:00 | TERRA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| ac23fa5a-1ce2-3d4b-a1dc-87ba3886c813 | -13.27649 | -54.21151 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 39.8 |
+| 45ee7078-f7e6-3763-a3c9-8f9234cd2b63 | -14.07128 | -53.62091 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 12.7 |
+| f6ac0a58-8f86-33a5-93db-cb983806d7bf | -13.24749 | -54.24319 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 128.4 |
+| b4d7f35a-250f-3b42-ae79-7f56376bdc8d | -11.86893 | -51.95707 | 2026-08-14 00:09:00 | TERRA_M-M | ALTO BOA VISTA | MATO GROSSO | Brasil | 5100359 | 51 | 33 | nan | nan | nan | Amazônia | 14.6 |
+| 1421a107-d1b5-3520-ad81-e7feedb05fae | -11.31308 | -45.22601 | 2026-08-14 00:09:00 | TERRA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 13.3 |
+| 3d5878aa-eacd-3379-8f5c-0056d39b0802 | -18.47458 | -51.74279 | 2026-08-14 00:09:00 | TERRA_M-M | SERRANÓPOLIS | GOIÁS | Brasil | 5220504 | 52 | 33 | nan | nan | nan | Cerrado | 9.6 |
+| 2608ac82-f8ea-3a03-963e-e82114f72e26 | -11.88389 | -45.94503 | 2026-08-14 00:09:00 | TERRA_M-M | LUÍS EDUARDO MAGALHÃES | BAHIA | Brasil | 2919553 | 29 | 33 | nan | nan | nan | Cerrado | 11.9 |
+| 64c4888f-68e7-3ecd-a7fb-057b60f00f21 | -20.02658 | -48.01527 | 2026-08-14 00:09:00 | TERRA_M-M | ÁGUA COMPRIDA | MINAS GERAIS | Brasil | 3100708 | 31 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| 7e6d4f91-b381-3ab6-add7-441ad3d83856 | -13.23359 | -54.25085 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 89.6 |
+| bf8e08a3-427b-3da9-b9a1-7f374c2235e6 | -16.90644 | -54.15045 | 2026-08-14 00:09:00 | TERRA_M-M | PEDRA PRETA | MATO GROSSO | Brasil | 5106372 | 51 | 33 | nan | nan | nan | Cerrado | 16.8 |
+| 1315e979-25e3-33fb-883a-2c601b82e7b3 | -18.65248 | -47.944 | 2026-08-14 00:09:00 | TERRA_M-M | ARAGUARI | MINAS GERAIS | Brasil | 3103504 | 31 | 33 | nan | nan | nan | Cerrado | 9.8 |
+| bc67467f-fe3c-3b11-a30d-f885888f5ed8 | -18.09914 | -52.83623 | 2026-08-14 00:09:00 | TERRA_M-M | MINEIROS | GOIÁS | Brasil | 5213103 | 52 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| a21b7951-d464-3dce-8dcb-5cb497d30465 | -15.05408 | -52.68685 | 2026-08-14 00:09:00 | TERRA_M-M | BARRA DO GARÇAS | MATO GROSSO | Brasil | 5101803 | 51 | 33 | nan | nan | nan | Cerrado | 12.2 |
+| 4505d579-ac25-3c8f-b34b-6703b3ffa594 | -14.08044 | -53.64001 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 17.4 |
+| 283facbd-5251-33df-8a3f-ea7b1c6955c3 | -14.44131 | -51.86971 | 2026-08-14 00:09:00 | TERRA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 14.5 |
+| 98c38eb0-4587-3e74-ba2b-b33e8df5dc45 | -17.56659 | -47.50473 | 2026-08-14 00:09:00 | TERRA_M-M | CATALÃO | GOIÁS | Brasil | 5205109 | 52 | 33 | nan | nan | nan | Cerrado | 5.3 |
+| c8a37ad2-ae0e-3e06-9273-13ebf9f80224 | -13.26571 | -54.21281 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 44.2 |
+| 565531b0-8c63-3878-bf88-1f09594af5f0 | -16.91785 | -54.14972 | 2026-08-14 00:09:00 | TERRA_M-M | PEDRA PRETA | MATO GROSSO | Brasil | 5106372 | 51 | 33 | nan | nan | nan | Cerrado | 13.4 |
+| 759c0355-22f6-3039-96df-c72d2a11fa9c | -14.9971 | -46.60586 | 2026-08-14 00:09:00 | TERRA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 12.1 |
+| 91ecfb48-23d9-3896-bf08-6504b26e1808 | -14.45571 | -45.69313 | 2026-08-14 00:09:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 27.0 |
+| d181bfa4-68dd-36b2-abf8-f3012c6c1dac | -11.07168 | -50.94539 | 2026-08-14 00:09:00 | TERRA_M-M | LUCIARA | MATO GROSSO | Brasil | 5105309 | 51 | 33 | nan | nan | nan | Cerrado | 13.1 |
+| d28407d4-7844-3352-95f4-fce15c60f23a | -15.09935 | -50.43464 | 2026-08-14 00:09:00 | TERRA_M-M | ARAGUAPAZ | GOIÁS | Brasil | 5202155 | 52 | 33 | nan | nan | nan | Cerrado | 57.2 |
+| 2a030807-a1e7-3faa-9683-cdf1c18a105e | -15.14487 | -41.5768 | 2026-08-14 00:09:00 | TERRA_M-M | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 91.6 |
+| a0844819-842f-3619-8720-0a5c58f93b93 | -19.59218 | -46.90995 | 2026-08-14 00:09:00 | TERRA_M-M | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 8.2 |
+| 4d97b7ed-7fa8-39e2-97b7-2d5ca883e877 | -18.42298 | -45.20723 | 2026-08-14 00:09:00 | TERRA_M-M | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 9.5 |
+| f1af8cce-6e41-32f5-9afc-3336085ad5e6 | -13.5586 | -47.6693 | 2026-08-14 00:09:00 | TERRA_M-M | CAVALCANTE | GOIÁS | Brasil | 5205307 | 52 | 33 | nan | nan | nan | Cerrado | 22.5 |
+| 5fb8906f-e722-35a6-b270-c2c9d6f1c10b | -15.70254 | -48.32788 | 2026-08-14 00:09:00 | TERRA_M-M | COCALZINHO DE GOIÁS | GOIÁS | Brasil | 5205513 | 52 | 33 | nan | nan | nan | Cerrado | 11.8 |
+| 4917d23e-a4ac-39f2-8033-cb43f34258f6 | -14.0909 | -53.63877 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 16.2 |
+| 12adb90d-8151-3eb2-8c01-b9b6e15ef0f4 | -13.25113 | -50.38471 | 2026-08-14 00:09:00 | TERRA_M-M | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 3.8 |
+| e159aa17-d083-3122-956d-6f0cfe4d47e9 | -13.25494 | -54.21417 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 82.4 |
+| a84d3436-016f-33e4-8c0c-2d9407817e48 | -18.41105 | -45.19699 | 2026-08-14 00:09:00 | TERRA_M-M | TRÊS MARIAS | MINAS GERAIS | Brasil | 3169356 | 31 | 33 | nan | nan | nan | Cerrado | 9.4 |
+| 907aece8-ed79-386e-85b1-e9ce89f5ceef | -14.47646 | -45.68964 | 2026-08-14 00:09:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 78.3 |
+| 59771f79-f3da-3fea-aad4-9ec988a07baa | -14.44533 | -45.69489 | 2026-08-14 00:09:00 | TERRA_M-M | JABORANDI | BAHIA | Brasil | 2917359 | 29 | 33 | nan | nan | nan | Cerrado | 37.2 |
+| b7d46feb-f6fa-3b39-b652-c5426641ea88 | -17.00853 | -47.22343 | 2026-08-14 00:09:00 | TERRA_M-M | CRISTALINA | GOIÁS | Brasil | 5206206 | 52 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 64728e4a-7ba1-353a-b580-0af5f815c5d6 | -11.59537 | -54.69737 | 2026-08-14 00:09:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 19.6 |
+| 2c004539-624b-3864-b611-4c0cf79d6c0e | -14.3609 | -53.0911 | 2026-08-14 00:09:00 | TERRA_M-M | CAMPINÁPOLIS | MATO GROSSO | Brasil | 5102603 | 51 | 33 | nan | nan | nan | Cerrado | 9.1 |
+| 6837dbde-20d6-3b2e-ab9f-ef7a9395a1bd | -18.29429 | -46.08677 | 2026-08-14 00:09:00 | TERRA_M-M | PRESIDENTE OLEGÁRIO | MINAS GERAIS | Brasil | 3153400 | 31 | 33 | nan | nan | nan | Cerrado | 5.8 |
+| f299212a-8f21-3d2f-8bcd-8e3683e18733 | -13.2499 | -50.37565 | 2026-08-14 00:09:00 | TERRA_M-M | SÃO MIGUEL DO ARAGUAIA | GOIÁS | Brasil | 5220207 | 52 | 33 | nan | nan | nan | Cerrado | 7.9 |
+| d51f4bfb-763b-3208-8346-206870273598 | -10.97763 | -50.53588 | 2026-08-14 00:09:00 | TERRA_M-M | LAGOA DA CONFUSÃO | TOCANTINS | Brasil | 1711902 | 17 | 33 | nan | nan | nan | Cerrado | 7.5 |
+| 0979b758-7a0e-3589-8735-9af9eb264be5 | -15.63489 | -48.89772 | 2026-08-14 00:09:00 | TERRA_M-M | PIRENÓPOLIS | GOIÁS | Brasil | 5217302 | 52 | 33 | nan | nan | nan | Cerrado | 8.6 |
+| 59c4946a-022b-3e61-a3f3-302da7fd17a1 | -13.93044 | -53.9594 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 15.0 |
+| 4e118db2-71bc-3d27-8591-b4d018292c53 | -19.59073 | -46.90004 | 2026-08-14 00:09:00 | TERRA_M-M | ARAXÁ | MINAS GERAIS | Brasil | 3104007 | 31 | 33 | nan | nan | nan | Cerrado | 7.4 |
+| 2bd54534-a5a4-37a6-9f62-28af1be47151 | -15.14096 | -41.5842 | 2026-08-14 00:09:00 | TERRA_M-M | TREMEDAL | BAHIA | Brasil | 2931806 | 29 | 33 | nan | nan | nan | Mata Atlântica | 48.2 |
+| 0988e5e0-1dd2-3bb6-855d-5d438f7fac2a | -14.04561 | -53.58493 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Cerrado | 31.9 |
+| 8a9b5a0e-a667-3104-9765-96e216e21347 | -11.44921 | -44.55881 | 2026-08-14 00:09:00 | TERRA_M-M | COTEGIPE | BAHIA | Brasil | 2909406 | 29 | 33 | nan | nan | nan | Cerrado | 46.2 |
+| 000700d8-5da8-31b2-9f39-728727490cfa | -13.24916 | -54.25715 | 2026-08-14 00:09:00 | TERRA_M-M | PARANATINGA | MATO GROSSO | Brasil | 5106307 | 51 | 33 | nan | nan | nan | Amazônia | 82.4 |
+| 75408331-d82d-3de6-8812-caf72092cde2 | -11.49372 | -54.61765 | 2026-08-14 00:09:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 134.8 |
+| 4965bf72-3db3-301b-8cda-5279dcb4d03d | -20.79471 | -48.98465 | 2026-08-14 00:09:00 | TERRA_M-M | OLÍMPIA | SÃO PAULO | Brasil | 3533908 | 35 | 33 | nan | nan | nan | Mata Atlântica | 6.4 |
+| 5d9e0a46-59d1-309c-9fbd-a936f251d3b1 | -16.88126 | -54.12695 | 2026-08-14 00:09:00 | TERRA_M-M | PEDRA PRETA | MATO GROSSO | Brasil | 5106372 | 51 | 33 | nan | nan | nan | Cerrado | 17.7 |
+| c9dc5703-e651-39d2-81b2-40a10b3a6184 | -11.49545 | -54.6315 | 2026-08-14 00:09:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 125.0 |
+| a62826ef-9481-3e3b-b786-d725001cff3b | -11.51536 | -54.61506 | 2026-08-14 00:09:00 | TERRA_M-M | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 36.3 |
 
 
 [Clique aqui para ver as próximas entradas](README3.md)
