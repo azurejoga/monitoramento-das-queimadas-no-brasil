@@ -29,106 +29,106 @@ As queimadas na Amazônia não apenas afetam a biodiversidade local, mas também
 
 | ID | Latitude | Longitude | Data/Hora GMT | Satélite | Município | Estado | País | Município ID | Estado ID | País ID | Dias sem Chuva | Precipitação | Risco de Fogo | Bioma | FRP |
 |----|----------|-----------|---------------|----------|-----------|--------|------|--------------|-----------|---------|----------------|--------------|----------------|-------|-----|
-| 363d5017-28bf-394a-9878-e7e5640b4e82 | -14.80274 | -46.64598 | 2026-08-18 06:48:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 17.6 |
-| 8cb15d6c-f077-3500-ac22-17f37250e9d4 | -14.18368 | -52.8952 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 12.6 |
-| e81b9252-e983-330c-ac5b-a59c7317f720 | -14.35772 | -51.8689 | 2026-08-18 06:48:00 | AQUA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 6.9 |
-| f6903425-fb61-32fb-ab13-854da49e5614 | -14.25706 | -51.92419 | 2026-08-18 06:48:00 | AQUA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 14.1 |
-| 89ac020e-a2f3-340a-b380-7af1a2429076 | -8.57891 | -54.73935 | 2026-08-18 06:48:00 | AQUA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 153.6 |
-| 43f3151c-66c5-3cad-bb14-f4a14de4fa85 | -12.26417 | -51.5325 | 2026-08-18 06:48:00 | AQUA_M-M | BOM JESUS DO ARAGUAIA | MATO GROSSO | Brasil | 5101852 | 51 | 33 | nan | nan | nan | Cerrado | 11.1 |
-| 0319b259-ce51-350d-8c92-e1c8ee61cb67 | -14.18019 | -52.91661 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 88.9 |
-| 9ddbaa9d-65ec-387e-827b-4c367ce202ef | -8.58464 | -54.70557 | 2026-08-18 06:48:00 | AQUA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 55.4 |
-| 92304c94-1a48-30b8-b2e1-ab61b4709878 | -12.53983 | -47.8444 | 2026-08-18 06:48:00 | AQUA_M-M | PARANÃ | TOCANTINS | Brasil | 1716208 | 17 | 33 | nan | nan | nan | Cerrado | 58.9 |
-| 9fe66204-81d3-3f7b-a2cf-7c3edd09f314 | -11.3635 | -46.37436 | 2026-08-18 06:48:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 5.9 |
-| edfaabf1-1e44-3e72-a0b8-6ef0bec62616 | -14.24802 | -51.92271 | 2026-08-18 06:48:00 | AQUA_M-M | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 50.7 |
-| 8895e2f6-c6e5-36cb-a755-2e4a47355fff | -14.17675 | -52.93769 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 11.3 |
-| 098787c6-0dec-3e6f-9d5b-7b03703cd20c | -8.58693 | -54.71772 | 2026-08-18 06:48:00 | AQUA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 78.8 |
-| 6876b7b3-3f51-3fa4-a974-80c99378f946 | -14.17424 | -52.8935 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 31.9 |
-| 7599193e-54a1-3a64-8b77-4d28c724a431 | -15.39749 | -51.07492 | 2026-08-18 06:48:00 | AQUA_M-M | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 18.7 |
-| e38200b8-3242-335a-894f-5427e0791f39 | -14.18192 | -52.90598 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 150.8 |
-| f237a258-93e3-3100-9555-446c02ce03f2 | -10.27274 | -50.41333 | 2026-08-18 06:48:00 | AQUA_M-M | SANTA TEREZINHA | MATO GROSSO | Brasil | 5107776 | 51 | 33 | nan | nan | nan | Amazônia | 11.3 |
-| 028bd84c-99a5-3cb3-8712-b6a0edaf31f5 | -14.80149 | -46.63886 | 2026-08-18 06:48:00 | AQUA_M-M | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 20.5 |
-| 46883eec-c19e-3dbe-adb5-e30e03a02cc7 | -15.39888 | -51.06584 | 2026-08-18 06:48:00 | AQUA_M-M | BRITÂNIA | GOIÁS | Brasil | 5203807 | 52 | 33 | nan | nan | nan | Cerrado | 65.1 |
-| da9f13fe-f652-31f9-a35d-fe36af363857 | -11.36189 | -46.38608 | 2026-08-18 06:48:00 | AQUA_M-M | FORMOSA DO RIO PRETO | BAHIA | Brasil | 2911105 | 29 | 33 | nan | nan | nan | Cerrado | 7.8 |
-| ebdc368e-ee7f-3f3f-9aaf-cf4c2794e486 | -14.18795 | -52.92874 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 90.0 |
-| f09d6b1b-b38c-3702-a124-bc824564cd6c | -12.46587 | -54.18803 | 2026-08-18 06:48:00 | AQUA_M-M | NOVA UBIRATÃ | MATO GROSSO | Brasil | 5106240 | 51 | 33 | nan | nan | nan | Amazônia | 11.6 |
-| 43ebdefd-f086-315b-9909-02c9d20ced24 | -12.75413 | -48.41489 | 2026-08-18 06:48:00 | AQUA_M-M | SÃO SALVADOR DO TOCANTINS | TOCANTINS | Brasil | 1720259 | 17 | 33 | nan | nan | nan | Cerrado | 7.0 |
-| 8216aa5c-a474-370a-8f26-16f70e990c9c | -14.169 | -52.92554 | 2026-08-18 06:48:00 | AQUA_M-M | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 22.6 |
-| 48a74c58-2b67-3a9d-bc58-5d1252c6932e | -8.5728 | -54.70348 | 2026-08-18 06:48:00 | AQUA_M-M | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 73.5 |
-| 2391f3b2-f6c0-3c61-9a57-737beb71c96d | -11.11012 | -46.4968 | 2026-08-18 06:48:00 | AQUA_M-M | MATEIROS | TOCANTINS | Brasil | 1712702 | 17 | 33 | nan | nan | nan | Cerrado | 8.3 |
-| e42883db-af11-34bc-9275-d4dc2ac96f00 | -14.2017 | -52.9065 | 2026-08-18 06:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 56.9 |
-| e4a425a6-a929-3239-94c6-26ffd4064782 | -14.8228 | -46.6419 | 2026-08-18 06:50:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 59.4 |
-| df249d34-bd46-309d-96fa-e8ec1ee3dda9 | -14.1821 | -52.93 | 2026-08-18 06:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 107.8 |
-| d0e673fd-0dbf-3974-8e70-683605f8aeee | -14.2014 | -52.9276 | 2026-08-18 06:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 67.3 |
-| a1066d5b-e569-392e-a09e-9e360db88279 | -14.8033 | -46.6453 | 2026-08-18 06:50:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 65.9 |
-| 9362a838-496b-3c38-abc5-8893ca40f6ef | -14.2566 | -51.9259 | 2026-08-18 06:50:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 45.9 |
-| 3bad1b5b-61aa-36c0-bbb0-7a428f51734c | -6.7478 | -59.1716 | 2026-08-18 06:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.4 |
-| 1165b135-b5e1-3ae4-8195-e9643fe80bd4 | -14.1828 | -52.8878 | 2026-08-18 06:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 52.8 |
-| 2a6d9f6f-61d0-387e-94db-b38abe65a102 | -14.1631 | -52.9113 | 2026-08-18 06:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.1 |
-| 3e3b8c94-8874-3ed4-b979-dcb3849a5ab3 | -14.1824 | -52.9089 | 2026-08-18 06:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 164.8 |
-| a91037e4-e949-392d-a56c-5218e3ed3490 | -19.68348 | -49.01965 | 2026-08-18 06:50:00 | AQUA_M-M | COMENDADOR GOMES | MINAS GERAIS | Brasil | 3116902 | 31 | 33 | nan | nan | nan | Cerrado | 14.6 |
-| a647d9da-f983-3700-a08c-d7f1e89fcca4 | -17.47529 | -48.86806 | 2026-08-18 06:50:00 | AQUA_M-M | PIRACANJUBA | GOIÁS | Brasil | 5217104 | 52 | 33 | nan | nan | nan | Cerrado | 12.4 |
-| c9e3584c-c2c8-3cc6-8bb6-e984b3b6bf9b | -19.68199 | -49.03053 | 2026-08-18 06:50:00 | AQUA_M-M | COMENDADOR GOMES | MINAS GERAIS | Brasil | 3116902 | 31 | 33 | nan | nan | nan | Cerrado | 36.0 |
-| f40a7215-2e26-3434-ac0b-7ded289aed14 | -20.29777 | -46.4686 | 2026-08-18 06:50:00 | AQUA_M-M | SÃO ROQUE DE MINAS | MINAS GERAIS | Brasil | 3164308 | 31 | 33 | nan | nan | nan | Cerrado | 15.7 |
-| feffe472-d995-3da1-b422-f03e41412bb2 | -14.1824 | -52.9089 | 2026-08-18 07:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 194.8 |
-| 62ef20fd-0fb6-369d-b0b7-cdde814a629f | -14.1631 | -52.9113 | 2026-08-18 07:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 66.4 |
-| 613d1cd3-1df6-3110-8660-f854ee953203 | -6.7478 | -59.1716 | 2026-08-18 07:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.3 |
-| 07638d02-7c6a-3199-a2af-4f539ab2733b | -14.8233 | -46.619 | 2026-08-18 07:00:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 59.6 |
-| 1db35fa7-6a4d-3fdc-a56b-9af4f00b8af9 | -14.1821 | -52.93 | 2026-08-18 07:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 80.5 |
-| d78fda74-24b8-3fad-b538-622cef882c4e | -14.2017 | -52.9065 | 2026-08-18 07:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 63.1 |
-| 9156eb4f-5559-3869-8a1a-457e223812c9 | -14.2566 | -51.9259 | 2026-08-18 07:00:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 62.1 |
-| 2b581204-6cce-3303-bee9-cb973c9b2a36 | -6.841 | -59.0132 | 2026-08-18 07:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 39.1 |
-| 2b6e7b21-7d85-32a7-965e-85009f632809 | -14.1828 | -52.8878 | 2026-08-18 07:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 96.1 |
-| 7f2a4391-aee1-396e-ad71-5e6f52c103a2 | -14.1631 | -52.9113 | 2026-08-18 07:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.4 |
-| bc30f8f2-3e97-32fa-9976-670377e1d8ca | -14.1824 | -52.9089 | 2026-08-18 07:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 108.5 |
-| f3cd4a0d-11e3-31a7-80c7-3f54c9aecf10 | -6.7478 | -59.1716 | 2026-08-18 07:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 62.9 |
-| 4de8e7bc-ddb8-354c-a15d-484257c75060 | -14.2566 | -51.9259 | 2026-08-18 07:10:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 48.1 |
-| bd1caae6-eaa5-36c4-b5dd-6640a4071fa9 | -14.1821 | -52.93 | 2026-08-18 07:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.4 |
-| 90ed0b07-a3ee-3384-aeb8-750f5b32b52c | -14.1828 | -52.8878 | 2026-08-18 07:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 65.5 |
-| 8f7ff499-448c-3fe4-a6d0-7133b7963a17 | -8.57 | -54.73 | 2026-08-18 07:15:00 | MSG-03 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| e9a10a3d-d462-37ce-bd10-74bb3510cb85 | -6.7478 | -59.1716 | 2026-08-18 07:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.8 |
-| 3b26dc67-f6cf-3a86-9661-76bea22a0e25 | -14.2566 | -51.9259 | 2026-08-18 07:20:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 50.9 |
-| d6c69c10-6b5d-3a76-bb35-901e4ad6b63b | -14.8228 | -46.6419 | 2026-08-18 07:20:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 69.0 |
-| 76ab897f-3538-3f15-88d0-8bc199b047fe | -14.8233 | -46.619 | 2026-08-18 07:20:00 | GOES-19 | FLORES DE GOIÁS | GOIÁS | Brasil | 5207907 | 52 | 33 | nan | nan | nan | Cerrado | 61.0 |
-| d677a0c0-5c08-335e-a5b7-cd7565e11706 | -14.1821 | -52.93 | 2026-08-18 07:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.5 |
-| dca45831-597d-3ac1-b9e8-b2c6d6c8d73a | -14.1824 | -52.9089 | 2026-08-18 07:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 101.2 |
-| ab1184a9-aa76-31e9-a175-a98d40c0b379 | -14.1828 | -52.8878 | 2026-08-18 07:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 64.5 |
-| 53e0bd5d-25e9-309f-a7b0-ddb5ef2a2438 | -6.7478 | -59.1716 | 2026-08-18 07:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 61.9 |
-| 500c413e-3435-38ab-8a64-155ec670c581 | -14.1824 | -52.9089 | 2026-08-18 07:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 64.4 |
-| 8559885e-97e4-38a3-99dc-5a9c3eed111c | -6.7478 | -59.1716 | 2026-08-18 07:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 58.7 |
-| 75410de6-5588-390a-8b68-11920a77e5a0 | -14.1824 | -52.9089 | 2026-08-18 07:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 84.6 |
-| 38f769fe-0e47-3fa9-b2ca-d724d4d522f1 | -14.2566 | -51.9259 | 2026-08-18 07:50:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 426.8 |
-| eec3489e-60ee-3b55-84d0-89ce606d94aa | -6.7478 | -59.1716 | 2026-08-18 07:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 59.7 |
-| e1560e93-860b-3dd7-9c32-c29b2d069400 | -14.1828 | -52.8878 | 2026-08-18 07:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 60.0 |
-| bf03b307-148b-334d-abf3-0ebb8b5fed2d | -14.257 | -51.9046 | 2026-08-18 07:50:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 55.4 |
-| d9dd1829-018d-3d1e-a2d3-326792e151d1 | -14.1824 | -52.9089 | 2026-08-18 07:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 97.1 |
-| 5f6ecdeb-8cdd-38f4-8d76-64dc8d202c2a | -14.2562 | -51.9472 | 2026-08-18 07:50:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 103.9 |
-| 40caef87-90d4-3c2e-a2ce-11049c6cd114 | -14.2373 | -51.9284 | 2026-08-18 07:50:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 105.9 |
-| b41adfae-1d34-3392-a3a8-e191cbec0bc1 | -6.7478 | -59.1716 | 2026-08-18 08:00:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 53.2 |
-| 856eed0a-c7ad-37d0-8627-44f15ffa6312 | -14.1828 | -52.8878 | 2026-08-18 08:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 57.1 |
-| 97453ff0-d5ae-35f7-98e5-5ee8387a3c49 | -14.1824 | -52.9089 | 2026-08-18 08:00:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| 2e187386-f413-3f56-99be-676675fa6729 | -14.2566 | -51.9259 | 2026-08-18 08:00:00 | GOES-19 | NOVA NAZARÉ | MATO GROSSO | Brasil | 5106174 | 51 | 33 | nan | nan | nan | Cerrado | 83.1 |
-| b832aa02-4136-32aa-952a-53bc7da98b40 | -14.1828 | -52.8878 | 2026-08-18 08:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 70.7 |
-| aef1a717-851c-3bac-8ccc-8a3bc1654cf2 | -6.7478 | -59.1716 | 2026-08-18 08:10:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 46.3 |
-| 238506f6-79d6-391e-9934-f24afa14a80c | -14.1824 | -52.9089 | 2026-08-18 08:10:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 100.3 |
-| 42574779-5b71-3334-827c-2613c2def086 | -8.57 | -54.73 | 2026-08-18 08:15:00 | MSG-03 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | nan |
-| 7e06f5cf-e2a6-3569-afd3-f53b61ac7850 | -6.7478 | -59.1716 | 2026-08-18 08:20:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 45.7 |
-| 77bcbb57-3b4f-3060-8a3d-ca639700c37e | -14.1824 | -52.9089 | 2026-08-18 08:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 170.2 |
-| b5c79e46-1748-3d22-9d22-abdb2fda93cb | -14.1635 | -52.8902 | 2026-08-18 08:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 138.6 |
-| c41a47ed-6ea5-3cef-814a-517e7d3ae302 | -14.1828 | -52.8878 | 2026-08-18 08:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 232.4 |
-| bf018a3f-d76b-3758-9895-ff1f563df70a | -14.1631 | -52.9113 | 2026-08-18 08:20:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 81.4 |
-| e7cc66f8-69ba-33f4-807d-d539f6d976cc | -14.1828 | -52.8878 | 2026-08-18 08:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 154.5 |
-| 57aa7e14-864f-3a12-a884-dabc2752e953 | -14.1821 | -52.93 | 2026-08-18 08:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 49.1 |
-| e5ac1d3e-790a-3cd0-a121-dcb51f8f4b63 | -14.1635 | -52.8902 | 2026-08-18 08:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 119.6 |
-| 46599738-cac5-3660-809a-01838ac87312 | -14.1631 | -52.9113 | 2026-08-18 08:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 94.6 |
-| 4d19edf2-0b02-3d8c-b912-252c1e7b6d46 | -14.1824 | -52.9089 | 2026-08-18 08:30:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 150.8 |
-| 24f311af-c5a9-327f-a7cc-d7182ee8be9c | -6.7478 | -59.1716 | 2026-08-18 08:30:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 42.0 |
-| 9f8a7b36-e768-36c1-a28e-691331a6b7d5 | -14.1828 | -52.8878 | 2026-08-18 08:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 121.7 |
-| 243e3d07-b665-3300-9d60-49465614008f | -14.1824 | -52.9089 | 2026-08-18 08:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 146.0 |
-| 28dd9e6a-5a73-3b6d-bf2a-acc71d88ccf2 | -14.1821 | -52.93 | 2026-08-18 08:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 53.5 |
-| 4fd28580-5aab-3cea-a982-770ee06886ed | -6.7478 | -59.1716 | 2026-08-18 08:40:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 51.3 |
-| 2e1e97f6-99b9-3478-b61a-70694be3c0b6 | -14.1631 | -52.9113 | 2026-08-18 08:40:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 52.3 |
-| eb65f734-8a59-310e-a10d-e39dabc0cc5e | -6.7478 | -59.1716 | 2026-08-18 08:50:00 | GOES-19 | APUÍ | AMAZONAS | Brasil | 1300144 | 13 | 33 | nan | nan | nan | Amazônia | 46.8 |
-| d11969ae-ccd4-3572-a667-d3f6d7897dd5 | -14.1821 | -52.93 | 2026-08-18 08:50:00 | GOES-19 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 51.4 |
+| ea0a1019-0b3c-37e5-bd88-79f821cda7a8 | -6.14053 | -57.86358 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 2.8 |
+| 27e3565c-177d-3f6f-85df-86f0a9285400 | -6.14226 | -57.87596 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| d21fdba5-3177-36c8-879c-70f7c81e8dc2 | -6.10049 | -57.86557 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.5 |
+| 95bca938-3ffa-3d8f-8d3b-2c8d498e5a64 | -17.56712 | -51.88203 | 2026-08-19 05:25:00 | NOAA-21 | JATAÍ | GOIÁS | Brasil | 5211909 | 52 | 33 | nan | nan | nan | Cerrado | 1.4 |
+| b3ed7c88-c1e3-3317-af89-149c1f23429b | -15.31818 | -56.45697 | 2026-08-19 05:25:00 | NOAA-21 | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| 1068ff31-3652-3d12-8bcc-a5b61345b7e4 | -12.00548 | -55.5251 | 2026-08-19 05:25:00 | NOAA-21 | SINOP | MATO GROSSO | Brasil | 5107909 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| 2993d53b-f12d-36e6-ab82-a2aeba965d15 | -10.93792 | -57.10499 | 2026-08-19 05:25:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.2 |
+| bb6cc67d-295a-3603-b119-f5a246ffaf5e | -6.44879 | -52.73163 | 2026-08-19 05:25:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 2.7 |
+| f399c9b7-e6d3-3771-963a-469b868cbe53 | -6.34814 | -54.9045 | 2026-08-19 05:25:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 4f138d29-6b63-34b9-ae18-fa09f5089812 | -6.14519 | -57.88047 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 4.3 |
+| 2beb6352-977a-3b63-b897-ce6af9cee111 | -6.45213 | -52.7434 | 2026-08-19 05:25:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 127f4754-8f9f-3b93-83ac-b9b87ba43245 | -6.35772 | -54.89796 | 2026-08-19 05:25:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.1 |
+| d13e5d4a-7fd2-3ddd-8af3-780e2d140226 | -15.98777 | -54.17283 | 2026-08-19 05:25:00 | NOAA-21 | POXORÉU | MATO GROSSO | Brasil | 5107008 | 51 | 33 | nan | nan | nan | Cerrado | 1.5 |
+| c8aff76f-7df5-3a68-8220-174b73a6b10c | -10.93812 | -57.10746 | 2026-08-19 05:25:00 | NOAA-21 | JUARA | MATO GROSSO | Brasil | 5105101 | 51 | 33 | nan | nan | nan | Amazônia | 1.4 |
+| f4607f53-5f8f-3d72-bb39-8529d2be9631 | -15.31872 | -56.45285 | 2026-08-19 05:25:00 | NOAA-21 | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| 6ec3c212-4e3c-3660-85eb-dd2d0b5fbd58 | -14.20336 | -52.89931 | 2026-08-19 05:25:00 | NOAA-21 | ÁGUA BOA | MATO GROSSO | Brasil | 5100201 | 51 | 33 | nan | nan | nan | Cerrado | 3.1 |
+| fc14d2e0-ade0-360a-9242-729486f33a3c | -6.13942 | -57.84707 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 3.4 |
+| 5fd0ac54-4ede-3c8f-bbd8-463e9d5113d2 | -6.34393 | -54.90384 | 2026-08-19 05:25:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 3.2 |
+| 3596fa16-5a6d-3ddb-a3a0-7887d5776ab5 | -6.44723 | -52.7427 | 2026-08-19 05:25:00 | NOAA-21 | SÃO FÉLIX DO XINGU | PARÁ | Brasil | 1507300 | 15 | 33 | nan | nan | nan | Amazônia | 1.9 |
+| 2bef396e-a782-3bdf-8d47-2ccedeac52cf | -15.89226 | -55.57052 | 2026-08-19 05:25:00 | NOAA-21 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Cerrado | 3.3 |
+| 77e27bdd-379b-3621-9a35-fa957a28eae6 | -6.09335 | -57.91319 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 9.7 |
+| 75fc27ef-4d8b-3a0e-b93e-b3ed4ffe75cf | -5.4356 | -48.41325 | 2026-08-19 05:25:00 | NOAA-21 | SÃO JOÃO DO ARAGUAIA | PARÁ | Brasil | 1507508 | 15 | 33 | nan | nan | nan | Amazônia | 18.0 |
+| 4101eccb-91b8-3ea9-adac-dc54c80a5e55 | -6.10376 | -57.69798 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.7 |
+| e163019e-a1d1-39c6-a72f-c20252daeba3 | -5.14375 | -56.27906 | 2026-08-19 05:25:00 | NOAA-21 | TRAIRÃO | PARÁ | Brasil | 1508050 | 15 | 33 | nan | nan | nan | Amazônia | 2.1 |
+| 2d8f600a-c3a6-311b-8d47-ebcfe05020a9 | -16.32739 | -55.39137 | 2026-08-19 05:25:00 | NOAA-21 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Cerrado | 4.6 |
+| 5a97a4ab-805f-3203-a6b2-987dcdb7d154 | -6.02428 | -57.84292 | 2026-08-19 05:25:00 | NOAA-21 | JACAREACANGA | PARÁ | Brasil | 1503754 | 15 | 33 | nan | nan | nan | Amazônia | 1.0 |
+| 51279512-f05d-3ebd-a396-b529553b02ef | -15.31386 | -56.4563 | 2026-08-19 05:25:00 | NOAA-21 | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 2.4 |
+| de4b14bb-b965-3064-836f-3f335dfe8258 | -15.77646 | -55.57076 | 2026-08-19 05:25:00 | NOAA-21 | SANTO ANTÔNIO DO LEVERGER | MATO GROSSO | Brasil | 5107800 | 51 | 33 | nan | nan | nan | Cerrado | 3.5 |
+| dddc64d0-a21e-3a53-ab28-ccd628af563c | -16.26618 | -57.66666 | 2026-08-19 05:25:00 | NOAA-21 | CÁCERES | MATO GROSSO | Brasil | 5102504 | 51 | 33 | nan | nan | nan | Pantanal | 4.2 |
+| 72da674b-4053-30a1-9b0d-9e50c23e1ee3 | -15.3144 | -56.45212 | 2026-08-19 05:25:00 | NOAA-21 | JANGADA | MATO GROSSO | Brasil | 5104906 | 51 | 33 | nan | nan | nan | Cerrado | 2.9 |
+| ae7aa051-b187-3d1f-87ec-410d3621ab8f | -11.6908 | -54.55694 | 2026-08-19 05:25:00 | NOAA-21 | UNIÃO DO SUL | MATO GROSSO | Brasil | 5108303 | 51 | 33 | nan | nan | nan | Amazônia | 4.2 |
+| 39536646-6950-39f5-9ca1-11baef35df82 | -13.74519 | -57.61556 | 2026-08-19 05:25:00 | NOAA-21 | CAMPO NOVO DO PARECIS | MATO GROSSO | Brasil | 5102637 | 51 | 33 | nan | nan | nan | Cerrado | 1.2 |
+| 4ec9eea7-f5ec-389d-af53-8e15f1f8e45b | -6.40706 | -54.94725 | 2026-08-19 05:25:00 | NOAA-21 | ALTAMIRA | PARÁ | Brasil | 1500602 | 15 | 33 | nan | nan | nan | Amazônia | 1.6 |
+| 6251ab4c-af93-3276-8a8f-7481938c335d | -19.76094 | -57.93226 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 87153db3-0b85-3b87-b82e-40cd0ef6fc21 | -19.77461 | -57.95865 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 32.4 |
+| 4085212c-7505-301b-ad24-f12349216902 | -19.76828 | -57.94146 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 4.3 |
+| c0b81c18-ad49-36dc-be26-69eec571d739 | -19.75376 | -57.9557 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 567cf9ac-860e-3a47-82a0-1ad093cd9167 | -19.75258 | -57.93108 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 5617fddb-9b81-3407-81ee-6fc5b854dffb | -19.74473 | -57.92588 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 116.4 |
+| 840d17dd-802e-314a-8cee-d9117bf61ef6 | -19.05559 | -57.34156 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| c80928d1-de5d-31e4-a5e7-050c01fb5b83 | -19.77346 | -57.94547 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 40.1 |
+| c6e97768-b418-3250-a65f-e6f537119311 | -19.0798 | -57.35787 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.3 |
+| 2ab104a6-0808-3d4c-b96d-7063a027b2c7 | -19.76577 | -57.96147 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 921f33e8-9830-3e00-a8c5-ce71f1488838 | -19.76361 | -57.94487 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.9 |
+| 0d22671d-4e65-3cb6-aec9-69dc122841fe | -19.7631 | -57.94888 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.9 |
+| 114f1387-8f76-3d8a-89fe-7989063239d5 | -19.73956 | -57.93333 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 6411ec7c-21de-359a-b3a3-826315888949 | -19.77668 | -57.95409 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 31.1 |
+| d7afc1f5-de35-3e46-8402-58e82201f58a | -19.77195 | -57.94606 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 102.9 |
+| 5af63835-5239-3c61-b946-367e182ca1d0 | -19.73807 | -57.94535 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 7668c4a9-6b86-398a-8523-aaf3d06578f8 | -19.07499 | -57.36153 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 4abc9d99-683a-3ad3-839f-4f2292f219a2 | -19.07551 | -57.35728 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 5377a0cd-f540-34a0-a6c9-2316e164862b | -19.77562 | -57.95065 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 13.6 |
+| 0166ae21-8129-3bd3-b3c9-2c0d1a5eadb8 | -19.74741 | -57.93852 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.8 |
+| faa8c141-3221-36eb-90df-daac39b1abed | -19.77145 | -57.95006 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 102.9 |
+| 9b7e4ce2-40f4-3b6a-a68b-d1f90f27323b | -19.05989 | -57.34216 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 122d332a-2c2c-3082-978c-25349ef4ffd0 | -19.74791 | -57.93451 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.8 |
+| 6762df5d-345f-3f7f-bf24-bb51c5b562c2 | -19.77511 | -57.95465 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 32.4 |
+| c97105c0-fc31-39ec-9857-f8fc81afdeda | -19.75993 | -57.94028 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 186.6 |
+| a60ad148-c042-3169-ae98-2b1d5fa4a7a0 | -19.05781 | -57.35916 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 15.2 |
+| 75d83d37-4d14-310c-b43b-05c18fd1cbef | -19.77094 | -57.95406 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 29.9 |
+| 1231cf6e-08e7-3dd3-8b2f-423903c2258d | -19.76527 | -57.96546 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.9 |
+| 850dcf26-f7d7-30cc-835c-841ef3c5ea79 | -20.4704 | -54.53942 | 2026-08-19 05:27:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 3.0 |
+| 442efeeb-6e0c-37b2-932b-6e1ffb596867 | -19.7616 | -57.96088 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 26392818-3cbd-3fe5-aec6-8386b5eb03eb | -19.74542 | -57.95453 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 9f281d18-ae62-3894-969a-c10e6c87176b | -19.75308 | -57.92707 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 11231337-260b-3a67-8cb6-6fcb3ada350f | -19.74522 | -57.92188 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| e6382cbc-71c2-3fec-a3cb-7c1fdb8f9b07 | -19.75326 | -57.9597 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.2 |
+| 570ae8a0-c729-32cf-863c-9211bd1003ba | -19.74006 | -57.92931 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| 19980823-6bef-30a2-a9e5-83d32ef15174 | -20.47081 | -54.53876 | 2026-08-19 05:27:00 | NOAA-21 | CAMPO GRANDE | MATO GROSSO DO SUL | Brasil | 5002704 | 50 | 33 | nan | nan | nan | Cerrado | 2.7 |
+| 59c32e2f-1cd1-3c6b-a7bd-f4715841c3c9 | -21.53165 | -52.01369 | 2026-08-19 05:27:00 | NOAA-21 | PRESIDENTE EPITÁCIO | SÃO PAULO | Brasil | 3541307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
+| 85969778-1199-3fb4-b383-ff3514eb4875 | -19.06211 | -57.35975 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
+| 18825b0e-fb4a-3ffd-8e83-7b399ea730ec | -19.77251 | -57.95349 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 31.1 |
+| 414fb0fe-fafa-3c59-b1cb-d547ed7647a2 | -19.74891 | -57.92648 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 116.4 |
+| 409a6db9-f8ae-3ea0-bb3b-359767754483 | -19.7494 | -57.92246 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| f93b2e7b-d8c5-3dfe-b5e9-59eac76159b5 | -19.74125 | -57.95395 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.6 |
+| 843ebf10-e043-3781-9a0e-bdaca4c2c502 | -21.52585 | -52.00784 | 2026-08-19 05:27:00 | NOAA-21 | PRESIDENTE EPITÁCIO | SÃO PAULO | Brasil | 3541307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 13.0 |
+| ed297ad5-5dee-3296-a34b-28ef8579eaa6 | -21.52628 | -52.00267 | 2026-08-19 05:27:00 | NOAA-21 | PRESIDENTE EPITÁCIO | SÃO PAULO | Brasil | 3541307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 7.9 |
+| 65030496-a1fb-3864-9f43-9b6c8bfad277 | -19.07069 | -57.36094 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| a3f299ec-17d7-3848-84fd-bacf33c59d64 | -19.75526 | -57.9437 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 6.3 |
+| 7e2fb599-3b93-3d0b-a02d-901e7e073ddc | -21.53208 | -52.00853 | 2026-08-19 05:27:00 | NOAA-21 | PRESIDENTE EPITÁCIO | SÃO PAULO | Brasil | 3541307 | 35 | 33 | nan | nan | nan | Mata Atlântica | 10.1 |
+| 2d83da2f-be0b-3ad7-8799-c6529a050e6f | -19.73588 | -57.92873 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.1 |
+| e7630584-b968-30c5-82d2-37e2cdce821d | -19.75358 | -57.92304 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 12068ab7-0ec8-3367-9118-1ee7302dfa8a | -19.75159 | -57.93911 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 37.2 |
+| bcc3fda3-c8bf-34c0-866f-d7c03b3edcb7 | -19.75676 | -57.93167 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.8 |
+| 579608e1-225d-39dd-a274-ff291caadb6a | -19.74959 | -57.95512 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 2.1 |
+| 3e80d7a6-9396-339b-b840-9ca3ef5c6c5a | -19.77299 | -57.94948 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 40.1 |
+| a039b786-e87e-34cc-bca0-e30431f62477 | -19.75208 | -57.9351 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 37.2 |
+| c66a6184-d2c1-316d-b0ea-8636099b9f7e | -19.76461 | -57.93686 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 186.6 |
+| df12d4c7-9d44-38a8-8fac-784bbd05d29f | -19.7317 | -57.92814 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.6 |
+| 9f117474-6056-364d-9015-d748f5a86c81 | -19.77621 | -57.9581 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 31.1 |
+| 5a3d2b3d-87b2-3b51-9128-73366800b312 | -19.75943 | -57.94429 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.9 |
+| 580224aa-630e-3b0c-be63-060ff61cccbb | -19.74691 | -57.94252 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.6 |
+| 406ed3c4-2d3f-30aa-92f6-eb869d1cf185 | -19.75893 | -57.9483 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 14.9 |
+| b1435183-d7e1-3cda-8ffb-8bd96e545c50 | -19.0664 | -57.36034 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 9.2 |
+| bf215fa6-da10-3d15-9285-d28c84c7cc5e | -19.74373 | -57.93392 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.8 |
+| 044efad8-2fa7-366a-b60c-0e2654a46188 | -19.7339 | -57.94476 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 1.2 |
+| 461df7de-9ab8-3564-ba82-e448c132dc9f | -19.73906 | -57.93734 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 0.9 |
+| 2b052143-ceb2-332f-a6cf-cd16a3d58158 | -19.74324 | -57.93793 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 97.8 |
+| 3ceec80b-0745-37b9-ad57-e16d78ddc87f | -19.07122 | -57.35669 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 3.7 |
+| 1911c60d-f6c0-3e9d-88fd-3b7fb42bb0d4 | -19.74841 | -57.9305 | 2026-08-19 05:27:00 | NOAA-21 | CORUMBÁ | MATO GROSSO DO SUL | Brasil | 5003207 | 50 | 33 | nan | nan | nan | Pantanal | 116.4 |
 
 
 [Clique aqui para ver as próximas entradas](README63.md)
